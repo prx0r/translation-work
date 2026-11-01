@@ -78,3 +78,35 @@ That's batchy. Create concept files as we encounter terms in translation. The
 build_concepts.py tool tells us what's missing. Fetch from the glossary on demand.
 Over time, the concept database grows to cover the terms we actually use, with
 scholarly enrichment that the glossary doesn't have.
+
+
+## Glossary index (scraped 2026-11-01)
+
+`lore/trika_glossary_index.json` — 325 terms from sanskrit-trikashaivism.com, parsed from
+7 HTML pages (vowels, gutturals, palatals, dentals, labials, semivowels, sibilants).
+Each entry: {devanagari, iast, definition, page}.
+
+This is the RAW graph (terms + definitions + cross-references in prose). Our concept
+files are the ENRICHED graph (sources, rasa, works, related terms, translations).
+
+### How to use the index
+
+1. When `build_concepts.py` reports a missing concept, check the glossary index:
+   `python3 tools/lookup_concept.py <term>` — shows the definition if it exists.
+2. If found: `python3 tools/lookup_concept.py --create <term>` — creates a concept
+   file skeleton with the glossary definition as the base. Enrich with sources, rasa,
+   works, related terms.
+3. If not found: the term is not in the trika glossary. Create a concept file manually
+   with scholarly sources. Flag it as "not in trika glossary" in the sources.
+
+### The graph
+
+The glossary is a knowledge graph: nodes = terms, edges = cross-references ("Sanskrit
+terms occurring in the definitions have generally their own definition in the Glossary
+as well"). Our concept database is a richer version of the same graph. The trika
+glossary is the "raw" graph; our concept files are the "enriched" graph.
+
+Over time, as we translate more works, the concept database grows to cover more of
+the glossary's 325 terms. But we don't pre-populate all 325 — we create concept files
+as we encounter terms in translation. The glossary index is the lookup table; the
+concept files are the enriched nodes.

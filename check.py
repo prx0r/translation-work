@@ -168,7 +168,8 @@ def main() -> int:
                 "lore/ipvv-deepdive-2026-11-01.md",
                 "FINAL.md",
                 "FINAL-PROCESS.md",
-                "REGISTRY.json"])
+                "REGISTRY.json",
+                "lore/trika_glossary_index.json"])
     step("canonical-docs", docs)
 
     print(f"\n{'CANONICAL' if not fails else 'NOT CANONICAL'}: {len(fails)} failures")
