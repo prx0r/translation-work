@@ -7,7 +7,7 @@
     "verses": 5,
     "l0_tokens": 137
   },
-  "notes": "Canonical transform 2026-11-01 (one work): T1 137 tokens, L0 137/137 PARSED, 5 argmaps (distinct inference, no C1 overlap), L2 5 verses, C1 5 passages (0 quotes, 0 meta, 0 shared with L2, rasa per passage), proof 5/5 PASS, concepts 27/27. MANUAL REVIEW PERFORMED: read all T1/L0/argmap/L2/C1 by hand; script gates are proxies only, not proof of quality. No bulk transforms.",
+  "notes": "Canonical transform 2026-11-01 (one work): T1 137 tokens, L0 137/137 PARSED, 5 argmaps (distinct inference, no C1 overlap), L2 5 verses, C1 5 passages (0 quotes, 0 meta, 0 shared with L2, rasa per passage), proof 5/5 PASS, concepts 27/27. MANUAL REVIEW PERFORMED: read all T1/L0/argmap/L2/C1 by hand; script gates are proxies only, not proof of quality. No bulk transforms. L0 morph analyzed (137 tokens, 0 unknown). T1 pada-split (already). L2 rasa-carried (pending). Peer review pending.",
   "needs": [
     "human-review (MACHINE_PROPOSED)"
   ],
