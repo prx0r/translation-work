@@ -3,6 +3,13 @@
 *This is the ONLY process for Sanskrit translation in `/root/translation-work`.
 No other drill, checklist, or pipeline doc authorizes work here. If another document
 describes the layers differently, this skill plus `LAYERS.md` win (after the verbatim
+User Directive 2026-11-01 in `AGENTS.md`). Per-datatype prompts with good/bad exhibits:
+`EXAMPLES.md` (same folder — read it with this file). Standard: `crystal.md`; failure
+log: `mistakes.md`.*
+
+*This is the ONLY process for Sanskrit translation in `/root/translation-work`.
+No other drill, checklist, or pipeline doc authorizes work here. If another document
+describes the layers differently, this skill plus `LAYERS.md` win (after the verbatim
 User Directive 2026-11-01 in `AGENTS.md`). Standard: `crystal.md`. Failure log:
 `mistakes.md`. Contracts: `LAYERS.md`. Read all four before touching a work.*
 
