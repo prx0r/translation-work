@@ -128,6 +128,18 @@ def main() -> int:
     step("site-data", r4.returncode == 0 and n_err == 0, f"{n_err} errors")
     qa = ROOT / "logs" / "qa" / f"{args.work}.md"
     step("qa-present", qa.exists(), "run tools/qa_vs_witness.py")
+    try:
+        sys.path.insert(0, str(ROOT / "schemas"))
+        import suggestion as _sug
+        n_sug = n_bad = 0
+        for sf in (ROOT / args.work / "data").glob("*.suggest.json"):
+            for o in json.loads(sf.read_text(encoding="utf-8")):
+                n_sug += 1
+                if _sug.validate(o, "suggestion"):
+                    n_bad += 1
+        step("suggestions-valid", n_bad == 0, f"{n_bad}/{n_sug} invalid")
+    except Exception as e:
+        step("suggestions-valid", False, str(e))
     docs = all((ROOT / f).exists() for f in
                ["CANONICAL.md", "LAYERS.md", "ALIGNMENT.md", "TENSIONS.json", "stack.json",
                 "DATATYPES.json", "schemas/__init__.py", "schemas/c2.py",

@@ -102,6 +102,18 @@
    "where_it_bites": "Applying the verse schema to sastra texts either drops the commentary or smears it into verse objects where traces cannot resolve (a vrtti sentence is not a verse pada).",
    "resolution": "argmap scope field covers passage-level dialectic (T1 fix); T1/L0 stay verse- (or line-) addressed; commentary ingestion is a separate queued project. Stotra pipeline is not blocked.",
    "status": "accepted"
+  },
+  {
+   "id": "T9",
+   "title": "Open suggestions vs gaming, licensing, and witness rights",
+   "parties": [
+    "translation-work/tools/propose.py",
+    "Ambuda/SARIT/sohamhamso practice"
+   ],
+   "status": "accepted",
+   "description": "Anyone can propose and support, which invites ballot-stuffing (sock-puppet supports), copyrighted-text pasting into suggestions, and witness material leaking toward the site.",
+   "where_it_bites": "A gamed support count could pressure a merge; a pasted copyrighted translation in a suggestion body could ship.",
+   "resolution": "Supports are attestations weighted by reviewer trust, never votes counted by machine; only the maintainer merges, and merges write history with the merger named. Grounds required (grammar/witness/reason), quotes capped at 25 words; witness text never enters site data (validator + convention). Upstream channels (Ambuda proofing, SARIT PRs, GRETIL contact) take the fixes that belong upstream. Matches sohamhamso's reference-only + attribution discipline."
   }
  ]
 }

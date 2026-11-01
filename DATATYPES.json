@@ -218,7 +218,8 @@
      "accepted_by",
      "accepted_date",
      "accept_scope",
-     "needs"
+     "needs",
+     "links{source_file,edition}"
     ],
     "constraints": {
      "PASS": "l1,l2 non-empty",
@@ -471,6 +472,58 @@
     "site chunks accepted_by/date/scope",
     "STATUS",
     "REGISTRY"
+   ]
+  },
+  {
+   "id": "suggestion",
+   "stage": "all",
+   "purpose": "Living translation: anyone proposes an alternative gloss/reading/translation; supports attest; maintainer merges into canonical data with history. SARIT fork/PR at JSON granularity; Ambuda status ladder at object granularity.",
+   "fields": {
+    "required": [
+     "id",
+     "song",
+     "target_kind",
+     "target_id",
+     "kind",
+     "body",
+     "grounds",
+     "by",
+     "date",
+     "status"
+    ],
+    "optional": [
+     "supports[{by,date,note}]",
+     "reason",
+     "merged_as"
+    ]
+   },
+   "producer": "anyone via tools/propose.py",
+   "validator": "schemas/suggestion.py (grounds required; accepted needs merged_as; rejected needs reason)",
+   "gate_rule": "Proposals never enter canonical data except through accept, which writes history. Untagged/groundless proposals rejected by validator.",
+   "consumers": [
+    "maintainer triage",
+    "argmap option_choices (via choose-option accept)",
+    "site variants (after merge + proof)"
+   ],
+   "supports_rule": "Supports are attestations, weight follows reviewer trust; maintainer merges like a PR. No auth infra: honesty over machinery."
+  },
+  {
+   "id": "links-registry",
+   "stage": 0,
+   "purpose": "Verified outbound links only — catalog/search pages seen live; per-text deep links only where slugs are known. Never invent URLs.",
+   "fields": {
+    "required": [
+     "works{}",
+     "contribution_channels",
+     "rules"
+    ]
+   },
+   "producer": "hand-maintained lore/links.json",
+   "validator": "check.py: file parses; (human verifies URLs on touch)",
+   "gate_rule": "Unverified links forbidden. Witness text never hosted.",
+   "consumers": [
+    "readers verifying against upstream",
+    "contributors finding channels"
    ]
   }
  ],

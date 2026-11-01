@@ -7,17 +7,36 @@
   "surface": "na",
   "legacy_raw": "[and]-not (na)",
   "citation": "na",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "pres.part.m.gen.sg √dhyai",
+  "morph_unknown": false,
   "options": [
    {
     "gloss": "not",
     "note": "backfilled from T1 gloss; options pending",
     "rank": 1
+   },
+   {
+    "gloss": "of-one-contemplating",
+    "rank": 2,
+    "source": "grammar",
+    "grounds": "dhyayatah pres.part.gen.sg could stress ongoing contemplation over completed meditation"
    }
   ],
   "chosen_index": 0,
-  "status": "PARSED"
+  "status": "PARSED",
+  "fork": "live",
+  "history": [
+   {
+    "gloss": "+option: of-one-contemplating",
+    "reason": "accept s01-sug001 by maintainer: adjudicated: kept as live fork, not chosen; T1 quick gloss stands",
+    "date": "2026-11-01"
+   },
+   {
+    "gloss": "morphology stated on fork creation",
+    "reason": "fork rule: no unknown morphology on live forks",
+    "date": "2026-11-01"
+   }
+  ]
  },
  {
   "id": "s01-v01-p001",

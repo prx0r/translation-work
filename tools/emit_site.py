@@ -70,9 +70,11 @@ def main() -> int:
                 l1, l2t = "", ""
             ch = {"chunk": vid, "verses": str(vn), "sanskrit": satext,
                   "gate": gate, "blocking": proof.get("blocking", []),
-                  "needs": needs,
+                  "needs": proof.get("needs", ["human-review"]),
                   "model": "crystal-v1", "date": proof.get("date", "2026-11-01"),
-                  "l1": l1, "l2": l2t}
+                  "l1": l1, "l2": l2t,
+                  "links": {"source_file": "site/data/sanskrit/sivastotravali-u.txt",
+                            "edition": "GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)"}}
             if sign:
                 ch["accepted_by"] = sign.get("accepted_by")
                 ch["accepted_date"] = sign.get("date")

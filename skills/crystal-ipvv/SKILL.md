@@ -50,12 +50,13 @@ prompts all the way down. Skip a layer and every layer above it is ungrounded.*
    carry `[E#]` essence tags per paragraph; untagged output is rejected to `.draft`,
    never merged. Validate, then merge into `data/<song>.c2.json`. Withhold from site
    until essence is human-reviewed (T4).
-9. **Run the gates, fix what fails:**
+9. **Run the gates, fix what fails, triage the living queue:**
    - L0: 100% parsed AND T1 covers the full source (verse count vs edition — parse rate cannot certify this).
    - Zero long sentences shared between C1 and L2.
    - Zero long sentences shared across the work's argmaps.
    - Zero `"` characters in any C1 file.
    - No metacommentary phrases (grep: `the (verse|hymn|stotra) (has|is|quotes|describes|opens|closes)`, `imagery does`, `grammar carries`, `closes the arc`, `quotes itself`).
+   - Triage open suggestions: `tools/propose.py --song sXX --list --status open` — support, accept (writes history), or reject with reason. Never merge without grounds.
    - `python3 check.py` → CANONICAL, 0 failures (schemas, proofs, round-trips, site data, contract).
 10. **Registry + STATUS.** Mark COMPLETE only as `machine-proposed, needs human review`. Never mark final. Never claim human review happened.
 

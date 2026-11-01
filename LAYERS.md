@@ -72,6 +72,26 @@ sivastotravali/
   proof/proof-s01.json   # proof record (validates data objects when present)
 ```
 
+## Living translation (how others join in)
+
+The stack is append-mostly and every change is a JSON diff away:
+
+- **Propose**: anyone runs `tools/propose.py` (new-option / choose-option / gloss-edit /
+  l2-edit / essence-note / witness / morph-fix) with **grounds** — grammar, witness, or
+  reason. Groundless proposals are rejected by the validator: votes are not scholarship.
+- **Support**: readers add signed attestations (`--support ID --by NAME [--note]`).
+  Weight follows reviewer trust; there is no auth infra, honesty over machinery.
+- **Accept**: the maintainer merges (`--accept`), which writes `history[]` on the
+  touched objects and, for gloss choices, the argmap `option_choices` record.
+  Nothing enters canonical data except through accept. Rejects require reasons
+  (closed PRs explain why); superseded suggestions stay on file.
+- **Agree**: `data/<song>.signoff.json` (who, when, scope) marks human acceptance;
+  the site carries by/date/scope. Git holds every step: proposal, supports,
+  merge, signoff.
+- **Upstream**: typos in GRETIL etc. go upstream (GRETIL contact, Ambuda proofing,
+  SARIT fork/PR) — we record edition + line and never silently emend.
+  Verified channels live in `lore/links.json`; witness text is never hosted.
+
 ## Invariants (validator-enforced)
 
 1. L0.chosen == T1.quick_gloss for the token, unless L0.revised with reason.
