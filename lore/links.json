@@ -1,1 +1,56 @@
-{"canonical":"translation-work/lore/links.json","version":"1.0.0","date":"2026-11-01","note":"Verified external links only — every URL below was seen live during research 2026-11-01. No invented deep links: per-text pages are linked only where the slug is known, otherwise catalog/search pages.","works":{"sivastotravali":{"source_edition":"GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)","links":{"gretil_catalog":"http://gretil.sub.uni-goettingen.de/","gretil_contribute":"http://gretil.sub.uni-goettingen.de/ (\"Please consider contributing!\")","muktabodha":"https://muktabodha.org/","dcs":"http://sanskrit-linguistics.org/dcs/","ambuda_catalog":"https://ambuda.org/texts/catalog/","ambuda_code":"https://github.com/ambuda-org/ambuda","ambuda_discuss":"https://groups.google.com/g/ambuda-discuss","sarit_repo":"https://github.com/sarit/SARIT-corpus","hansel_seti":"https://tylerneill.info/kalpataru-diaries (HANSEL companion to GRETIL; SETI index of e-texts)","sohamhamso_methodology":"https://sohamhamso.org/about/methodology (allied: source_revision pinning, variants-without-emendation, judge-with-rationale; CC-BY-SA 4.0)","dictionary_lookup":"https://ambuda.org/tools/dictionaries/ (Apte/MW/Shabdasagara/Vacaspatyam pattern for per-word lookup)"}}},"contribution_channels":{"suggest_here":"translation-work/tools/propose.py (propose -> support -> accept; git JSON diffs; signoff = agreement)","upstream_texts":"GRETIL (contact), Ambuda proofing (account + Needs work/Proofed statuses), SARIT (fork/PR per documented Jane/Jack workflow)","upstream_method":"sohamhamso methodology (compatible: variants column, judge rationale, source_revision)"},"rules":["Outbound links only to verified URLs (this file). Never invent per-text deep links.","Witness text never hosted, never in site data; grounds cite, quotes <=25 words.","Our glosses are ours; witnesses are signals with source tags, never ground truth.","Upstream fixes (typos in GRETIL etc.) go upstream via their channels; we record edition + line, never silently emend."]}
+{
+ "canonical": "translation-work/lore/links.json",
+ "version": "1.0.0",
+ "date": "2026-11-01",
+ "note": "Verified external links only — every URL below was seen live during research 2026-11-01. No invented deep links: per-text pages are linked only where the slug is known, otherwise catalog/search pages.",
+ "works": {
+  "sivastotravali": {
+   "source_edition": "GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)",
+   "links": {
+    "gretil_catalog": "http://gretil.sub.uni-goettingen.de/",
+    "gretil_contribute": "http://gretil.sub.uni-goettingen.de/ (\"Please consider contributing!\")",
+    "muktabodha": "https://muktabodha.org/",
+    "dcs": "http://sanskrit-linguistics.org/dcs/",
+    "ambuda_catalog": "https://ambuda.org/texts/catalog/",
+    "ambuda_code": "https://github.com/ambuda-org/ambuda",
+    "ambuda_discuss": "https://groups.google.com/g/ambuda-discuss",
+    "sarit_repo": "https://github.com/sarit/SARIT-corpus",
+    "hansel_seti": "https://tylerneill.info/kalpataru-diaries (HANSEL companion to GRETIL; SETI index of e-texts)",
+    "sohamhamso_methodology": "https://sohamhamso.org/about/methodology (allied: source_revision pinning, variants-without-emendation, judge-with-rationale; CC-BY-SA 4.0)",
+    "dictionary_lookup": "https://ambuda.org/tools/dictionaries/ (Apte/MW/Shabdasagara/Vacaspatyam pattern for per-word lookup)"
+   }
+  },
+  "spandasandoha": {
+   "source_edition": "Muktabodha M00084 (Spandasandoha)",
+   "links": {
+    "muktabodha": "https://muktabodha.org/",
+    "trika_glossary": "https://www.sanskrit-trikashaivism.com/en/trika-glossary-sibilants-and-sonant-aspirate/531 (spanda entry + synonyms: Parāśakti, Pūrṇāhantā, Citi, Mahāhrada, Parāvāk)",
+    "spandakarika_translation": "https://www.sanskrit-trikashaivism.com/en/spanda-karikas-normal-translation-trika-scriptures-non-dual-shaivism-of-kashmir/564",
+    "spandanirnaya": "https://www.sanskrit-trikashaivism.com/en/spanda-nirnaya-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/566",
+    "lakshmanjoo_academy": "https://www.lakshmanjooacademy.org/kashmir-shaivism",
+    "abhinavagupta_org": "https://abhinavagupta.org/tantraloka"
+   }
+  },
+  "ghatakarpara": {
+   "source_edition": "GRETIL (Abhinavagupta Ghatakarpara commentary)",
+   "links": {
+    "gretil_catalog": "http://gretil.sub.uni-goettingen.de/",
+    "wikipedia_sandesha": "https://en.wikipedia.org/wiki/Sandesha_Kavya",
+    "ksts_catalog": "https://list.indology.info/pipermail/indology/attachments/20231118/c36b452d/attachment.pdf (KSTS vol 67: Ghatakarpara Kavya of Kalidasa with Commentary of Abhinavagupta)",
+    "ambuda_catalog": "https://ambuda.org/texts/catalog/",
+    "meghaduta_comparison": "https://en.wikipedia.org/wiki/Sandesha_Kavya (Meghaduta as successor genre)"
+   }
+  }
+ },
+ "contribution_channels": {
+  "suggest_here": "translation-work/tools/propose.py (propose -> support -> accept; git JSON diffs; signoff = agreement)",
+  "upstream_texts": "GRETIL (contact), Ambuda proofing (account + Needs work/Proofed statuses), SARIT (fork/PR per documented Jane/Jack workflow)",
+  "upstream_method": "sohamhamso methodology (compatible: variants column, judge rationale, source_revision)"
+ },
+ "rules": [
+  "Outbound links only to verified URLs (this file). Never invent per-text deep links.",
+  "Witness text never hosted, never in site data; grounds cite, quotes <=25 words.",
+  "Our glosses are ours; witnesses are signals with source tags, never ground truth.",
+  "Upstream fixes (typos in GRETIL etc.) go upstream via their channels; we record edition + line, never silently emend."
+ ]
+}
