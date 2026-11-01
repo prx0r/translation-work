@@ -30,13 +30,13 @@ poet. Speaker yields to that skill.
 **Offering (v.21 cont.):** *tasmai vaheyam udakaṃ ghaṭakarpareṇa* — to him I pour water in
 ghaṭakarpara. Offering in potsherd = tribute. Voice shifts from lover to poet.
 
-## 3. Open (not invented)
+## 3. What the verse does not resolve
 
 - Speaker of v.21: poet himself (self-tribute) or rival voice — both live. Yamaka device
   and self-referential close favor self-tribute, but not stated. Abhinava attributed the
   poem to Kālidāsa; Lienhard rejected. Whether this affects the reading of v.21's tribute
   is open.
-- Yamaka: which words form it? Not identified in the poem. Abhinava's vivṛti would say.
+- Yamaka: which words form it? Not identified. Abhinava's vivṛti would say.
 - Potsherd (ghaṭakarpara): literal vessel or metaphor for the poem itself? Both live;
   L2 keeps the literal.
 - Rasa shift śṛṅgāra → vira/adbhuta: our reading, not Abhinava's explicit statement.

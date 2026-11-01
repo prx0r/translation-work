@@ -12,12 +12,13 @@ Is the beloved's lament a complaint or a performance of śṛṅgāra through th
 
 **Kāma arises (vv.1–2):** *manmathe ca hṛdi hantum udyate* — Kāma arises in the heart, to kill.
 *proṣitapramadayedam udyate* — this, the separated beloved, arises.
-→ desire and absence are one event, not two.
+→ desire and absence are one event, not two. (Abhinava's vivṛti would confirm the sandeśa
+device; we don't have the text.)
 
 **Accusation (v.3):** *nirdayena paradeśasevinā māriṣyatha hi tena māṃ vinā* — by the cruel
 one serving a foreign land, you will kill me without him.
-→ foreign land (paradeśa) is the rival; service abroad is betrayal. (Abhinava vivṛti would
-confirm paradeśa's referent; we don't have the text.)
+→ foreign land (paradeśa) is the rival; service abroad is betrayal. (Paradeśa's referent:
+Abhinava's vivṛti would confirm; we don't have the text.)
 
 **Release (v.4):** *anyadeśaratir adya mucyatāṃ sāthavā tava vadhūḥ kim ucyatām* — release
 foreign-land love today, or your wife — what is to be said?
@@ -26,8 +27,8 @@ foreign-land love today, or your wife — what is to be said?
 **Messenger device (vv.5–6):** *cātakaś ca tṛṣito 'mbu yācate* — cātaka, thirsty, begs water.
 *duḥkhitā pathika sā priyā ca te* — suffering traveler, she is your beloved.
 → cātaka (drinks only rain) = lover thirsting for beloved; cloud = messenger. (Scholarship:
-cātaka is a standard figure for the lover thirsting for the beloved. Abhinava's vivṛti
-makes the sandeśa device explicit; the poem leaves it implicit — dhvani.)
+cātaka is a standard figure for the lover thirsting for the beloved — sandeśa-kāvya convention.
+Abhinava's vivṛti makes the sandeśa device explicit; the poem leaves it implicit — dhvani.)
 
 **Cloud arrives (vv.7–8):** *ambudaiḥ śikhigaṇo vinādyate* — by clouds peacock-flock sounded.
 *kā ratiḥ priya mayā vinādya te* — what delight, beloved, without me today?
@@ -44,15 +45,15 @@ abandon, friend, burning of separation-born sorrow?
 → lament closes in sustaining memory, not despair. Sthāyibhāva (love) transforms sorrow
 (vyabhicāri) into something relishable.
 
-## 3. Open (not invented)
+## 3. What the verse does not resolve
 
-- "sādya te" (v.8): compression of sādyate or separate reading — kept as-is.
-- cātaka's thirst: literal (bird drinks only rain) or figurative (lover thirsts) — both
-  live; L2 keeps the literal image, lets the figure resonate.
+- "sādya te" (v.8): compression of sādyate or separate reading — kept as-is in T1.
+- cātaka's thirst: literal (bird drinks only rain) or figurative (lover thirsts for beloved)?
+  Both readings live; L2 keeps the literal image, lets the figure resonate.
 - Cloud as messenger or witness — sandeśa device implicit, not stated.
 - Paradeśa's referent (v.3): rival land or the husband's location? Abhinava's vivṛti
   would confirm; we don't have the text.
 
 ## 4. Decision for L2
 
-Proceed. L2 renders each verse in plain English, tracing to L0 ids.
+Proceed. L2 renders each verse in plain English, tracing to L0 ids. Rasa named in C1, not L2.

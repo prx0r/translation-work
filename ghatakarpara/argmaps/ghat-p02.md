@@ -42,7 +42,7 @@ power → elephants' ardor.
 **Water falls (v.18):** *paridhīraravaṃ jalaṃ darīṣu prapaty adbhutarūpasundarīṣu* — loud roar,
 water in caves falls, wonderful-formed beauties. → aesthetic close, not narrative.
 
-## 3. Open (not invented)
+## 3. What the verse does not resolve
 
 - "puṣpanirīkṣitāpadeham" (v.13): "flower-looked-at body" or "body looked at by flowers" —
   both readings live; L2 keeps "flower-looked-at."
