@@ -8,7 +8,7 @@
     "songs_legacy": "none",
     "verses": 450
   },
-  "notes": "Canonical transform 2026-11-01: all 20 songs in target format (T1 pada-split/L0/argmap/L2/C1, proof PASS, concepts 56/56). s01-s07 hand-refined (C1 rasa, argmap). s08-s20 T1 pada-split (identity glosses), L0 backfilled (morph unknown), C1 rasa evocative, meta 0, shared 0. Argmap premises from L2 (not terse logical) for s08-s20. L2 plain (not rasa-carried). Peer reviews: all 20 songs. MANUAL REVIEW needed for s08-s20 depth (T1 gloss refinement, L0 morph, argmap terse logical, L2 rasa-carried). s07 T1 pada-split (82 tokens, identity glosses) + L0 (82 tokens) handcrafted.",
+  "notes": "Canonical transform 2026-11-01: all 20 songs in target format (T1 pada-split/L0/argmap/L2/C1, proof PASS, concepts 56/56). s01-s07 hand-refined (C1 rasa, argmap). s08-s20 T1 pada-split (identity glosses), L0 backfilled (morph unknown), C1 rasa evocative, meta 0, shared 0. Argmap premises from L2 (not terse logical) for s08-s20. L2 plain (not rasa-carried). Peer reviews: all 20 songs. MANUAL REVIEW needed for s08-s20 depth (T1 gloss refinement, L0 morph, argmap terse logical, L2 rasa-carried). s07 T1 pada-split (82 tokens, identity glosses) + L0 (82 tokens) handcrafted. s08 L0 morph analyzed (167 tokens, 0 unknown).",
   "needs": [
     "human-review (MACHINE_PROPOSED)",
     "hand-refine s08\u2013s20 for rasa/argmap depth"
