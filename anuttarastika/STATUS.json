@@ -1,16 +1,21 @@
 {
- "work": "anuttarastika",
- "updated": "2026-11-01",
- "next": "human-review",
- "counts": {
-  "passages": 8,
-  "verses": 8
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-anuttarastika-raw.jsonl",
- "r2_bytes": 4252,
- "r2_verified": true,
- "notes": "8 verses, 8 passages. Manual single-work pass 2026-11-01: T1 verified full-verse (L0 197/197), argmaps rewritten per-verse with verse-specific lore (Sferra 2010, GRETIL/Faliero, anupaya doctrine), L2 sharpened, C1/C1.v2 rewritten distinct from L2 with zero shared sentences, metacommentary scrubbed. No batch gate; needs human review (MACHINE_PROPOSED).",
- "needs": [
-  "human-review (MACHINE_PROPOSED)"
- ]
+  "work": "anuttarastika",
+  "updated": "2026-11-01",
+  "next": "human-review (MACHINE_PROPOSED) \u2014 all gates pass, awaiting signoff",
+  "counts": {
+    "passages": 8,
+    "verses": 8,
+    "l0_tokens": null
+  },
+  "notes": "Canonical transform 2026-11-01 (one work, hand-crafted): T1/L0/argmap/L2/C1 for 8 passages, schemas 0 errors, meta 0, shared 0, argmap distinct, rasa per passage, concepts 106/106, proof 8/8 PASS. Scholarly context: abhinavagupta.org, GRETIL, Lakshmanjoo Academy, Qcentro. L0 morph analyzed. MANUAL REVIEW. Peer review written (lore/peer-review-2026-11-01.md) with scholarly takes (abhinavagupta.org, GRETIL, Lakshmanjoo, Qcentro).",
+  "needs": [
+    "human-review (MACHINE_PROPOSED)"
+  ],
+  "data_objects": {
+    "schema": "schemas v1.1.0",
+    "validation": "0 errors",
+    "proof": "proof/proof-anu-p01..p08.json \u2014 8/8 PASS"
+  },
+  "rasa": "\u015b\u0101nta with adbhuta shading per passage",
+  "mistake_review": "all bars PASS (hand-verified)"
 }

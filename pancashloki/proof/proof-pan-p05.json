@@ -1,0 +1,55 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "pan-p05",
+ "work": "pancashloki",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "12257885d84ed34f",
+ "source_verses": 1,
+ "t1_verses": 1,
+ "l0": {
+  "parsed": 32,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 32
+ },
+ "align": {
+  "min_ratio": 0.33,
+  "sub090": {
+   "5": {
+    "ratio": 0.33,
+    "disposition": "pada-split; order verified by hand"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 72,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 32,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "note": "canonical JSON validated against schemas v1.1.0"
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "12257885d84ed34f",
+  "t1": "T1-pan-p05.md",
+  "l0": "T1-pan-p05.l0.jsonl",
+  "l2": "L2-pan-p05.md",
+  "c1": "c1/C1-pan-p05.md"
+ }
+}

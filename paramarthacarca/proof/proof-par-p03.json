@@ -1,0 +1,55 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "par-p03",
+ "work": "paramarthacarca",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "6835da6e4aaf456a",
+ "source_verses": 1,
+ "t1_verses": 1,
+ "l0": {
+  "parsed": 18,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 18
+ },
+ "align": {
+  "min_ratio": 0.33,
+  "sub090": {
+   "3": {
+    "ratio": 0.33,
+    "disposition": "pada-split; order verified by hand"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 58,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 18,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "note": "canonical JSON validated against schemas v1.1.0"
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "6835da6e4aaf456a",
+  "t1": "T1-par-p03.md",
+  "l0": "T1-par-p03.l0.jsonl",
+  "l2": "L2-par-p03.md",
+  "c1": "c1/C1-par-p03.md"
+ }
+}

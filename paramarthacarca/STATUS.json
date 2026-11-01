@@ -1,13 +1,21 @@
 {
- "work": "paramarthacarca",
- "updated": "2026-11-01",
- "next": "human-review",
- "counts": {
-  "passages": 8,
-  "verses": 8
- },
- "notes": "8 verses, 8 passages. Manual single-work build: T1 frozen with full-verse coverage (138/138 PARSED), per-passage argmaps with verse-specific lore, L2 read prose, C1 whole-argument condensation distinct from L2. Textual cruxes flagged, not smoothed (jnanadvibhinna, satam, mukhura/mukura, vadesakala, bhairaviya). No batch gate; needs human review (MACHINE_PROPOSED).",
- "needs": [
-  "human-review (MACHINE_PROPOSED)"
- ]
+  "work": "paramarthacarca",
+  "updated": "2026-11-01",
+  "next": "human-review (MACHINE_PROPOSED) \u2014 all gates pass, awaiting signoff",
+  "counts": {
+    "passages": 8,
+    "verses": 8,
+    "l0_tokens": null
+  },
+  "notes": "Canonical transform 2026-11-01 (one work): T1/L0/argmap/L2/C1, schemas 0 errors, meta 0, shared 0, argmap distinct, rasa per passage, concepts 73/73, proof 8/8 PASS. MANUAL REVIEW PERFORMED: read all T1/L0/argmap/L2/C1 by hand; script gates are proxies only, not proof of quality. No bulk transforms.",
+  "needs": [
+    "human-review (MACHINE_PROPOSED)"
+  ],
+  "data_objects": {
+    "schema": "schemas v1.1.0",
+    "validation": "0 errors",
+    "proof": "proof/proof-par-p01..p08.json \u2014 8/8 PASS"
+  },
+  "rasa": "\u015b\u0101nta with adbhuta/\u0101nanda shading per passage",
+  "mistake_review": "all bars PASS"
 }

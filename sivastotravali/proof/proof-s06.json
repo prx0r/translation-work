@@ -1,0 +1,65 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "s06",
+ "work": "sivastotravali",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [
+  "LEDGER_GLOSS_MISSING ['bhairava=Bhairava']"
+ ],
+ "source_sha": "d33c3f9072d19a6d",
+ "source_verses": 11,
+ "t1_verses": 11,
+ "l0": {
+  "parsed": 119,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 119
+ },
+ "align": {
+  "min_ratio": 0.994,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 2,
+ "c1_words": 357,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 11,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 1,
+  "gloss_missing_in_l2": [
+   "bhairava=Bhairava"
+  ]
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 11,
+   "l0": 119,
+   "argmap": 11,
+   "l2": 11,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "d33c3f9072d19a6d",
+  "t1": "T1-s06.md",
+  "l0": "T1-s06.l0.jsonl",
+  "l2": "L2-s06.md",
+  "c1": "c1/C1-s06.md"
+ }
+}

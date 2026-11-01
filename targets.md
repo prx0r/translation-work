@@ -23,7 +23,7 @@
 
 | # | Work | Verses | State |
 |---|------|--------|-------|
-| 13 | sivastotravali | 25 songs | s01–s05 canonical, s06–s20 legacy (per-song) |
+| 13 | sivastotravali | 20 songs | s01–s07 canonical, s08–s20 legacy (per-song) |
 
 ## Queue (ordered: audio-first, then shortest-to-longest)
 

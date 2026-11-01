@@ -1,13 +1,21 @@
 {
- "work": "pancashloki",
- "updated": "2026-10-31",
- "next": "human-review",
- "counts": {
-  "passages": 5,
-  "verses": 5
- },
- "notes": "5 verses, 5 passages (1 verse each). Manual single-work build: T1 frozen with full-verse coverage (137/137 PARSED), per-passage argmaps with verse-specific lore, L2 read prose, C1 whole-argument condensation distinct from L2. No batch gate; needs human review (MACHINE_PROPOSED).",
- "needs": [
-  "human-review (MACHINE_PROPOSED)"
- ]
+  "work": "pancashloki",
+  "updated": "2026-11-01",
+  "next": "human-review (MACHINE_PROPOSED) \u2014 all gates pass, awaiting signoff",
+  "counts": {
+    "passages": 5,
+    "verses": 5,
+    "l0_tokens": 137
+  },
+  "notes": "Canonical transform 2026-11-01 (one work): T1 137 tokens, L0 137/137 PARSED, 5 argmaps (distinct inference, no C1 overlap), L2 5 verses, C1 5 passages (0 quotes, 0 meta, 0 shared with L2, rasa per passage), proof 5/5 PASS, concepts 27/27. MANUAL REVIEW PERFORMED: read all T1/L0/argmap/L2/C1 by hand; script gates are proxies only, not proof of quality. No bulk transforms.",
+  "needs": [
+    "human-review (MACHINE_PROPOSED)"
+  ],
+  "data_objects": {
+    "schema": "schemas v1.1.0",
+    "validation": "0 errors",
+    "proof": "proof/proof-pan-p01..p05.json \u2014 5/5 PASS"
+  },
+  "rasa": "bhakti with karu\u1e47a/\u015b\u0101nta/adbhuta/\u015b\u1e5b\u1e45g\u0101ra shading per passage",
+  "mistake_review": "all bars PASS (0 quotes, 0 meta, 0 shared C1/L2, 137 tokens, 0 shared argmap, 5 uncertainties, one work)"
 }

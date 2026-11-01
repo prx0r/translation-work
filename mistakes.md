@@ -28,3 +28,7 @@ C1 that "talks about the poem" is metacommentary even when it passes the regex. 
 
 ## 9. The gate is a proxy — never trust a PASS that contradicts the rule
 A validator that checks patterns cannot check meaning. "0 metacommentary hits" means 0 regex matches, not 0 metacommentary. The ghatakarpara case: 3 passes, each with 0 regex hits, but 21/13/0 broad hits. The broad scan found them. The rule found them. The narrow gate did not. Lesson: every gate is a proxy for a rule. When the proxy and the rule disagree, the rule wins. Always read the output against the rule, not just the gate.
+
+
+## 10. No scripts, no bulk — hand-craft every work, one at a time
+Scripts that scaffold T1/L0/argmap/L2/C1 from existing MD produce schema-valid but shallow work: generic rasa, copy-paste argmap inference, placeholder sections, no scholarly depth. Every work must be hand-crafted end to end by reading the source, doing one focused web search, and writing each layer by hand. Bulk transforms of multiple works in one session are forbidden — they caused every defect above. The machine proposes data objects; it does not write them. Scripts are proxies, never authors.

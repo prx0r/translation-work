@@ -1,13 +1,21 @@
 {
- "work": "anubhavanivedana",
- "updated": "2026-11-01",
- "next": "human-review",
- "counts": {
-  "passages": 4,
-  "verses": 4
- },
- "notes": "4 verses, 4 passages. Manual single-work build: T1 frozen with full-verse coverage (109/109 PARSED), per-passage argmaps with verse-specific lore, L2 read prose, C1 whole-argument condensation distinct from L2. No batch gate; needs human review (MACHINE_PROPOSED).",
- "needs": [
-  "human-review (MACHINE_PROPOSED)"
- ]
+  "work": "anubhavanivedana",
+  "updated": "2026-11-01",
+  "next": "human-review (MACHINE_PROPOSED) \u2014 all gates pass, awaiting signoff",
+  "counts": {
+    "passages": 4,
+    "verses": 4,
+    "l0_tokens": 109
+  },
+  "notes": "Canonical transform 2026-11-01 (one work): T1 109 tokens, L0 109/109 PARSED, 4 argmaps (distinct inference), L2 4 verses, C1 4 passages (0 quotes, 0 meta, 0 shared, rasa per passage), proof 4/4 PASS, concepts 37/37. MANUAL REVIEW PERFORMED: read all T1/L0/argmap/L2/C1 by hand; script gates are proxies only, not proof of quality. No bulk transforms.",
+  "needs": [
+    "human-review (MACHINE_PROPOSED)"
+  ],
+  "data_objects": {
+    "schema": "schemas v1.1.0",
+    "validation": "0 errors",
+    "proof": "proof/proof-anu-p01..p04.json \u2014 4/4 PASS"
+  },
+  "rasa": "\u015b\u0101nta/adbhuta/\u0101nanda per passage",
+  "mistake_review": "all bars PASS"
 }
