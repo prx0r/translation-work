@@ -147,7 +147,8 @@ def main() -> int:
                 "skills/crystal-ipvv/EXAMPLES.md",
                 "CHAT.md",
                 "lore/rasa/abhinavagupta-rasa-grounding-2026-11-01.md",
-                "lore/ipvv-deepdive-2026-11-01.md"])
+                "lore/ipvv-deepdive-2026-11-01.md",
+                "FINAL.md"])
     step("canonical-docs", docs)
 
     print(f"\n{'CANONICAL' if not fails else 'NOT CANONICAL'}: {len(fails)} failures")

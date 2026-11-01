@@ -35,6 +35,7 @@ CANONICAL_FILES = [
     "DATATYPES.json",
     "skills/crystal-ipvv/EXAMPLES.md",
     "lore/ipvv-deepdive-2026-11-01.md",
+    "FINAL.md",
 ]
 
 
