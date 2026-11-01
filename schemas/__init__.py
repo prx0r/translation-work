@@ -38,6 +38,7 @@ CANONICAL_FILES = [
     "FINAL.md",
     "FINAL-PROCESS.md",
     "REGISTRY.json",
+    "HANDOVER-2026-11-01.md",
 ]
 
 
