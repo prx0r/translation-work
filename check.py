@@ -148,7 +148,9 @@ def main() -> int:
                 "CHAT.md",
                 "lore/rasa/abhinavagupta-rasa-grounding-2026-11-01.md",
                 "lore/ipvv-deepdive-2026-11-01.md",
-                "FINAL.md"])
+                "FINAL.md",
+                "FINAL-PROCESS.md",
+                "REGISTRY.json"])
     step("canonical-docs", docs)
 
     print(f"\n{'CANONICAL' if not fails else 'NOT CANONICAL'}: {len(fails)} failures")

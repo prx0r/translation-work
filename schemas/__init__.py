@@ -36,6 +36,8 @@ CANONICAL_FILES = [
     "skills/crystal-ipvv/EXAMPLES.md",
     "lore/ipvv-deepdive-2026-11-01.md",
     "FINAL.md",
+    "FINAL-PROCESS.md",
+    "REGISTRY.json",
 ]
 
 

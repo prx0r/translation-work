@@ -1,12 +1,25 @@
 {
  "work": "spandasandoha",
- "updated": "2026-10-30",
- "next": "T1",
+ "updated": "2026-11-01",
+ "next": "human-review (MACHINE_PROPOSED)",
  "counts": {
   "passages": 1,
-  "verses": 2
+  "verses": 2,
+  "l0_tokens": 13
  },
- "r2_key": "",
- "r2_verified": false,
- "notes": "SOURCE from Mukhabodha; Spandasandoha"
+ "notes": "2 verses, 1 passage. Spandakārikā 1.1 + Kṣemarāja's Spandasandoha (vivṛti). Crystal rebuild 2026-11-01: T1 per-pada 13 tokens, L0 13/13 PARSED, argmap (terse logical, scholarly refs), L2 2 verses (rasa-carried), C1 1 passage (0 quotes, 0 meta, 0 shared with L2, rasa{} filled: adbhuta/śānta). Proof PASS. All 7 mistake rules PASS. Process log: process/LOG.md.",
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ],
+ "data_objects": {
+  "schema": "schemas v1.1.0",
+  "files": [
+   "data/sand-p01.{t1,l0,argmap,l2,c1}.json"
+  ],
+  "validation": "0 errors",
+  "proof": "proof/proof-s01.json — PASS"
+ },
+ "rasa": "adbhuta (wonder at Śiva's spanda) with śānta (tranquility of self-established nature)",
+ "lore": "Spandakārikā (Kallaṭa/Vasugupta) + Kṣemarāja's Spandasandoha (KSTS); sanskrit-trikashaivism.com; Wikipedia (Kṣemarāja)",
+ "mistake_review": "all 7 rules PASS (0 quotes, 0 meta, 0 shared C1/L2, 13 tokens vs 13 source words, 0 shared argmap, uncertainty marked, one work)"
 }

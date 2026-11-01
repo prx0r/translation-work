@@ -1,638 +1,765 @@
 {
- "schema": "ipvv-translation-registry.v1",
- "updated": "2026-10-31",
- "description": "Registry of works completed with the new approach: lore-prime (web scholarship) → per-passage argmaps (md + json, IPVV shape) → L2.v2 (verse-by-verse plain English) → C1.v2 (final condensation of arguments). T1 and L0 untouched (frozen).",
- "completed": [
-  {
-   "work": "sambandhasiddhi",
-   "author": "Utpaladeva",
-   "passages": 3,
-   "verses": 21,
-   "l0_parse": "3/3 PARSED",
-   "lore": [
-    "Berger 2024 (pragmatic argument; relation as śakti in vimarśa)",
-    "MacCracken 2017/2022 (retorsive transcendental argument; Dharmakīrti–Bhartṛhari–Utpala triangle)",
-    "Ratié (vimarśa as active grasping; deliberate appropriation of Buddhist concepts)"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/samb-p01.md",
-     "argmaps/samb-p02.md",
-     "argmaps/samb-p03.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; post-session sharpened)"
-  },
-  {
-   "work": "paramarthasara",
-   "author": "Abhinavagupta",
-   "passages": 12,
-   "verses": 104,
-   "l0_parse": "12/12 PARSED",
-   "lore": [
-    "Lidke 2013 (quintessence; Ādiśeṣa/Patañjali source; Trika-Kaula river-system; kuṇḍalinī awakening)",
-    "Bansat-Boudon/Tripathi 2011 (annotated translation with Yogarāja; jīvanmukti core theme; esoteric second sense/twilight language)",
-    "Timalsina 2022 (cosmic process, philosophy, soteriology)",
-    "Glossary: jīvanmukti, bhāvanā, anupāya, mala-trayam, kāñcuka-tattvas"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/param-p01.md",
-     "argmaps/param-p02.md",
-     "argmaps/param-p03.md",
-     "argmaps/param-p04.md",
-     "argmaps/param-p05.md",
-     "argmaps/param-p06.md",
-     "argmaps/param-p07.md",
-     "argmaps/param-p08.md",
-     "argmaps/param-p09.md",
-     "argmaps/param-p10.md",
-     "argmaps/param-p11.md",
-     "argmaps/param-p12.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; post-session sharpened)"
-  },
-  {
-   "work": "sivastotravali",
-   "author": "Utpaladeva",
-   "passages": 5,
-   "verses": 450,
-   "l0_parse": "3/5 PARSED (2 AMBIGUOUS)",
-   "lore": [
-    "Bailly 1987/1995 (Shaiva Devotional Songs of Kashmir — translation + study)",
-    "Moreno Bautista (UNAM, Pratyabhijñā and bhakti; poetry as mystical testimony)",
-    "Gaeffke & Bailly 1989 (JAOS review; bhakti related to upāyas — original angle)",
-    "Gitananda (SYDA): bhakti as 'soul of the practices'; rejoicing, cajoling, longing of a soul in love with God"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/sivst-p01.md",
-     "argmaps/sivst-p02.md",
-     "argmaps/sivst-p03.md",
-     "argmaps/sivst-p04.md",
-     "argmaps/sivst-p05.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; post-session sharpened)"
-  },
+ "canonical": "FINAL-PROCESS.md",
+ "version": "1.0.0",
+ "date": "2026-11-01",
+ "schemas_version": "1.1.0",
+ "gate": "check.py (CANONICAL: 0 failures)",
+ "total_works": 94,
+ "gold": 10,
+ "partial": 1,
+ "pending": 83,
+ "works": [
   {
    "work": "ajadapramatrsiddhi",
-   "author": "Utpaladeva",
-   "passages": 3,
-   "verses": 27,
-   "l0_parse": "285/285 PARSED (100%)",
-   "lore": [
-    "GRETIL (Cuneo input; Kaul 1921 KSTS 34 ed.) — 27/27 karikas + purvapaksa marker",
-    "Lawrence 2009 (Journal of Indian Philosophy — critical edition; Harabhattas vritti separate 19th-c., NOT the GRETIL Vr which is Utpaladeva own)",
-    "Mundra & Godbole 2022 (Academia.edu translation)",
-    "Self-luminosity (svaprakSatva) as the determining factor between jaDa and ajaDa",
-    "Two levels: pragmatic (limited knower) and ultimate (unlimited knower); Siddhitrayi part 2 of 3",
-    "V22-23 quoted in parapravesika p02/p05 (Ksemaraja reception)",
-    "V9 glances santabrahmavada refusal"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/ajad-p01.md",
-     "argmaps/ajad-p02.md",
-     "argmaps/ajad-p03.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; crystal rebuild 2026-11-01: T1 per-word 285/285, 27/27 vs GRETIL, argmap vritti-layer corrected, C1.md rewritten analytic and distinct, all gates pass)"
-  },
-  {
-   "work": "bhairavanukarana",
-   "author": "Kṣemarāja",
-   "passages": 5,
-   "verses": 48,
-   "l0_parse": "515/515 PARSED (100%)",
-   "lore": [
-    "GRETIL (Cuneo input; Gnoli 1958 ed.) — 48 verses + invocation confirmed vs KsBhAS numbering; title = imitation/reenactment of Bhairava",
-    "Yogawiki (iconography as philosophical teaching; no commentary in GRETIL file — redactional readings marked)",
-    "Gnoli 1958 (East and West 9.3, pp. 451–455 — standard edition)",
-    "Timalsina (Vimarśa Foundation translation)",
-    "Yoga-Wiki (German, iconographic reading)",
-    "Stainton 2013 (Poetry and Prayer: Stotras in Kashmir — dissertation)",
-    "Connects to Pratyabhijñāhṛdaya, Śivasūtra, Spandakārikā, Vijñānabhairava Tantra, Tantrāloka",
-    "Fierce iconography read as philosophical teaching: skull, bones, elephant skin, sword, noose, goad, bow, trident, drum, vajra, staff, mace, axe, ash, cremation ground"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/bhair-p01.md",
-     "argmaps/bhair-p02.md",
-     "argmaps/bhair-p03.md",
-     "argmaps/bhair-p04.md",
-     "argmaps/bhair-p05.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; crystal rebuild 2026-11-01: T1 per-word 515/515, 48/48 vs GRETIL, argmaps individualized, C1.md/C1.v2 rewritten lucid and distinct, all gates pass)"
-  },
-  {
-   "work": "bodhavilasa",
-   "author": "Kṣemarāja",
-   "passages": 5,
-   "verses": 42,
-   "l0_parse": "385/385 PARSED (100%)",
-   "lore": [
-    "Pensa 1961 (Rivista di Studi Orientali 36: 125–134, standard edition; GRETIL/Cuneo input)",
-    "Mahanaya.org (word-by-word English; after-check clean)",
-    "Colophon: yogaśāstra (practice-manual, not system-treatise)",
-    "V.2 quotes Ajaḍapramātṛsiddhi 22–23",
-    "Kṣemarāja (11th c., Abhinavagupta's disciple, author of Pratyabhijñāhṛdaya, Śivasūtravimarśinī, Spandanirṇaya)",
-    "Flood 2023 (Śākta-Śaiva meditation as expanded awareness; Kṣemarāja summarizes Goddess theology in Pratyabhijñāhṛdaya)",
-    "IEP (Kashmiri Shaiva Philosophy — historical development and basic teachings)",
-    "Flood 2023 (Śākta-Śaiva meditation as expanded awareness in medieval Kashmir)",
-    "Vasudeva 2020 (Kṣemarāja's response to Dharmakīrti's critique of initiation)",
-    "Core: citi is svatantra (free) and hetu (cause) of viśva; liberation = recognizing original freedom; yogaśāstra (practical, not just philosophical)",
-    "Five acts (pañcakṛtya) performed by self even when contracted; middle-center expansion (madhyadhāmavikāsa) as method"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/bodh-p01.md",
-     "argmaps/bodh-p02.md",
-     "argmaps/bodh-p03.md",
-     "argmaps/bodh-p04.md",
-     "argmaps/bodh-p05.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; crystal verify 2026-11-01: T1 genuine 385/385, 42 verses vs GRETIL, C1.md/C1.v2 rewritten lucid and distinct, argmap tails individualized, all gates pass)"
-  },
-  {
-   "work": "paryantapancasika",
-   "author": "Abhinavagupta",
-   "passages": 8,
-   "verses": 52,
-   "l0_parse": "625/625 PARSED (100%)",
-   "lore": [
-    "GRETIL (Faliero) 52-verse text + colophon (title counts fifty; vv51-52 closing-hymnic)",
-    "Mahanaya.org (word-by-word English, verse-by-verse)",
-    "Falsafa.ai/Thothica (8-chapter translation structure)",
-    "Yogawiki (title note; [aha]m v21 + prasankhya[naga]ti v25 not silently reconstructed — followed)",
-    "Timalsina (Amrtadistava intro — Malini 50-Bhairava phonemic background)",
-    "Timalsina 2023 (Oxford Handbook — cosmology, epistemology, soteriology in Abhinavagupta)",
-    "Falsafa.ai translation (Thothica — verse-by-verse English)",
-    "Mahānaya.org (Sanskrit + English, verse-by-verse)",
-    "Core: Bhairava as sole reality; paryanta = culmination of all tantras; Bhairavī = icchā-jñāna-kriyā in cidānanda; cosmological descent from anuttara to paśu; method: saṃhṛtya sarvataś cintām (withdraw all thought); vatsa paśya (child, see this); ananyopāya (no other means) = tadātmopāya (self-means); vāc (speech) levels: paśyantī/madhyamā/vaikharī",
-    "Timalsina 2022 (Cosmic Process, Philosophy, and Soteriology in the Works of Abhinavagupta)"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/pary-p01.md",
-     "argmaps/pary-p02.md",
-     "argmaps/pary-p03.md",
-     "argmaps/pary-p04.md",
-     "argmaps/pary-p05.md",
-     "argmaps/pary-p06.md",
-     "argmaps/pary-p07.md",
-     "argmaps/pary-p08.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; crystal verify 2026-11-01: T1 genuine 625/625, 52 verses confirmed vs GRETIL, C1.md/C1.v2 rewritten lucid and distinct, argmap tails individualized, all gates pass)"
-  },
-  {
-   "work": "phrdaya",
-   "author": "Kṣemarāja",
-   "passages": 5,
-   "verses": 20,
-   "l0_parse": "47/47 PARSED (100%)",
-   "lore": [
-    "Kṣemarāja (11th c., Abhinavagupta's disciple) — simplified manual of Pratyabhijñā",
-    "Jaideva Singh 1980/1990 (standard English translation; studied with Swami Lakshmanjoo; KSTS text; Kaviraj consulted)",
-    "Torella 2014 (Pratyabhijna and Philology — tradition philology caution)",
-    "Leidecker 1938 (superseded; mistake-bristling per Singh)",
-    "Gómez Pomeda 2001 (Berkeley, translation + study)",
-    "Flood 2023 (Śākta-Śaiva meditation as expanded awareness; Kṣemarāja summarizes Goddess theology in Pratyabhijñāhṛdaya)",
-    "IEP (Kashmiri Shaiva Philosophy — historical development and basic teachings)",
-    "Core: citiḥ svatantrā viśvasiddhihetuḥ (free consciousness is cause of universe); citisaṃkocātmā (contraction veils); cetanapadādhyārohāt (ascent by recognition); jīvanmuktiḥ (liberation-while-living); bhavatīti śivam (becomes thus Śiva)",
-    "20 sūtras seal the Pratyabhijñāhṛdaya: consciousness is free, contraction veils, ascent by recognition, liberation-while-living, and finally, from recollection of oneness, ever-risen samādhi — Śiva"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/phr-p01.md",
-     "argmaps/phr-p02.md",
-     "argmaps/phr-p03.md",
-     "argmaps/phr-p04.md",
-     "argmaps/phr-p05.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; crystal verify 2026-11-01: T1 genuine 47/47, 20 sutras present, C1.md/C1.v2 rewritten lucid and distinct, argmap tails individualized, all gates pass)"
-  },
-  {
-   "work": "kramastotra",
-   "author": "Abhinavagupta",
-   "passages": 30,
-   "verses": 30,
-   "l0_parse": "30/30 PARSED (100%)",
-   "lore": [
-    "Rastogi 1979 (Krama Tantricism of Kashmir — standard study; Kramastotra was Rastogi's first interest, studied for doctoral dissertation)",
-    "Stainton 2019 (Poetry as Theology — stotras as theological work)",
-    "Wenta 2021 (twelve Kālīs, kālagrāsa, Kramastotra connection)",
-    "Krama = 'gradual course' — Tantric system, monistic Śaiva, with Śākta tendency. Marks emergence of Śākta tendency in Śaiva philosophy",
-    "The stotra is about the 'sequence' (krama) — cosmological descent and ascent through the tattvas",
-    "Composed in Mārgaśīrṣa (month), 66th year, 9th dark day",
-    "Rastogi: 'the system has triple significance: Tantric system, monistic Saiva system, emergence of Sakta tendency'"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/kram-p01.md",
-     "argmaps/kram-p02.md",
-     "argmaps/kram-p03.md",
-     "argmaps/kram-p04.md",
-     "argmaps/kram-p05.md",
-     "argmaps/kram-p06.md",
-     "argmaps/kram-p07.md",
-     "argmaps/kram-p08.md",
-     "argmaps/kram-p09.md",
-     "argmaps/kram-p10.md",
-     "argmaps/kram-p11.md",
-     "argmaps/kram-p12.md",
-     "argmaps/kram-p13.md",
-     "argmaps/kram-p14.md",
-     "argmaps/kram-p15.md",
-     "argmaps/kram-p16.md",
-     "argmaps/kram-p17.md",
-     "argmaps/kram-p18.md",
-     "argmaps/kram-p19.md",
-     "argmaps/kram-p20.md",
-     "argmaps/kram-p21.md",
-     "argmaps/kram-p22.md",
-     "argmaps/kram-p23.md",
-     "argmaps/kram-p24.md",
-     "argmaps/kram-p25.md",
-     "argmaps/kram-p26.md",
-     "argmaps/kram-p27.md",
-     "argmaps/kram-p28.md",
-     "argmaps/kram-p29.md",
-     "argmaps/kram-p30.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; post-session sharpened)"
-  },
-  {
-   "work": "stavacintamani",
-   "author": "Bhaṭṭanārāyaṇa",
-   "passages": 12,
-   "verses": 120,
-   "l0_parse": "625/625 PARSED (100%)",
-   "lore": [
-    "Stainton 2013 (Columbia dissertation, 'Poetry and Prayer: Stotras in the Religious and Literary History of Kashmir' — first study in a European language; examines how Śaiva poets integrated kāvya, alaṅkāraśāstra, theology, and devotion)",
-    "Marjanovic 2012 (translation with Kṣemarāja's commentary)",
-    "Rastogi & Singh 2002 (Hindi/English translation with notes)",
-    "Kṣemarāja's Stavacintāmaṇivivṛti is the standard commentary",
-    "The text is a philosophical hymnal — 120 verses in 12 passages of 10 verses each, praising Śiva as supreme Lord",
-    "Stainton: the stotra form was appealing for non-dualistic authors seeking to reinterpret practices and features of worship that might otherwise be seen as dualistic"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/stav-p01.md",
-     "argmaps/stav-p02.md",
-     "argmaps/stav-p03.md",
-     "argmaps/stav-p04.md",
-     "argmaps/stav-p05.md",
-     "argmaps/stav-p06.md",
-     "argmaps/stav-p07.md",
-     "argmaps/stav-p08.md",
-     "argmaps/stav-p09.md",
-     "argmaps/stav-p10.md",
-     "argmaps/stav-p11.md",
-     "argmaps/stav-p12.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; post-session sharpened)"
+   "status": "gold",
+   "gold": true,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
   },
   {
    "work": "anuttarastika",
-   "author": "Abhinavagupta",
-   "passages": 8,
-   "verses": 8,
-   "l0_parse": "197/197 PARSED (100%)",
-   "lore": [
-    "Silburn 1948/1970 (studied from Swami Lakshmanjoo; Hymnes de Abhinavagupta — standard translation)",
-    "Pandey 1935 (first mention in English, Appendix C of Abhinavagupta — An Historical and Philosophical Study)",
-    "Swami Lakshmanjoo (translated into Kashmiri; said it's the only stotra one needs to study)",
-    "Connected to Tantrāloka chapter 2 (anupāya — no method)",
-    "Abhinavagupta's early devotional voice — the stotra form, not the commentary form",
-    "The devotional arc: negation of method → direct statement of the unsurpassed",
-    "8 verses: (1) no method, stay and enjoy; (2) saṃsāra is delusion; (3) worship-difference is Māyā; (4) bliss is the forgotten treasure; (5) things are consciousness-form; (6) things lack truth; awaken; (7) universe-glory is will-born; (8) all shines in consciousness-mirror; worship Lordhood"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/anu-p01.md",
-     "argmaps/anu-p02.md",
-     "argmaps/anu-p03.md",
-     "argmaps/anu-p04.md",
-     "argmaps/anu-p05.md",
-     "argmaps/anu-p06.md",
-     "argmaps/anu-p07.md",
-     "argmaps/anu-p08.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; sharpened 2026-11-01: real per-verse argmaps, C1 distinct from L2, zero shared sentences)"
+   "status": "gold",
+   "gold": true,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "bhairavanukarana",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
   },
   {
    "work": "bhairavastava",
-   "author": "Abhinavagupta",
-   "passages": 10,
-   "verses": 10,
-   "l0_parse": "114/114 PARSED (100%)",
-   "lore": [
-    "Gnoli 1958 (East and West 9.3, pp. 451–455 — standard edition, GRETIL)",
-    "Timalsina 2022 (Oxford Handbook — cosmology, epistemology, soteriology in Abhinavagupta)",
-    "Muller-Ortega 1992 (The Triadic Heart of Śiva)",
-    "Masterji Zinda Kaul (English translation, Sanskrit Documents)",
-    "Abhinavagupta's early devotional stotra — composed in Pauṣa, 10th dark day",
-    "The stotra praises Bhairava as sole reality, refuge of the helpless, all-pervading consciousness; the devotee's stance: mind-become-Yours (tvanmayacitta), in heart (hṛdi) I venerate (vande). The key teaching: Śiva is the self; the world is his self-manifestation; the devotee recognizes this and is free from fear"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/bh-p01.md",
-     "argmaps/bh-p02.md",
-     "argmaps/bh-p03.md",
-     "argmaps/bh-p04.md",
-     "argmaps/bh-p05.md",
-     "argmaps/bh-p06.md",
-     "argmaps/bh-p07.md",
-     "argmaps/bh-p08.md",
-     "argmaps/bh-p09.md",
-     "argmaps/bh-p10.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; repaired 2026-10-31: T1 v1 first half restored, L0 64/64, lore de-duplicated, C1 rewritten distinct from L2)"
+   "status": "gold",
+   "gold": true,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
   },
   {
    "work": "bodhapancadasika",
-   "author": "Abhinavagupta",
-   "passages": 15,
-   "verses": 15,
-   "l0_parse": "149/149 PARSED (100%)",
-   "lore": [
-    "Timalsina 2022 (Oxford Handbook — cosmology, epistemology, soteriology in Abhinavagupta)",
-    "Ferrario 2015 (grace in degrees — śaktipāta, devotion, religious authority in Abhinavagupta)",
-    "Harabhaṭṭaśāstrī commentary (not Kṣemarāja)",
-    "Abhinavagupta composed for disciples with weak understanding (sukumāramatīn śiṣyān) to illuminate them (prabodhayitum añjasā)",
-    "Core: Bhairava is svabhāva (essential nature) of all beings, resting on the Threefold Lotus of Icchā, Jñāna, and Kriyā Śakti-s",
-    "The limited light (paricchinnaprakāśatva) belongs to the inert (jaḍa); consciousness (bodha) is different from that",
-    "The lack of understanding (aparijñāna) this is His Freedom (svātantrya), which is called saṃsāra, frightening to the deluded",
-    "Bondage and liberation (bandha-vimokṣau) are not different from the Essential Nature of the Supreme Lord (parameśasvarūpataḥ); no duality (bheda) exists in the Supreme Lord in real sense (tattvataḥ)",
-    "15 verses — pedagogical tract for beginners"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/bod-p01.md",
-     "argmaps/bod-p02.md",
-     "argmaps/bod-p03.md",
-     "argmaps/bod-p04.md",
-     "argmaps/bod-p05.md",
-     "argmaps/bod-p06.md",
-     "argmaps/bod-p07.md",
-     "argmaps/bod-p08.md",
-     "argmaps/bod-p09.md",
-     "argmaps/bod-p10.md",
-     "argmaps/bod-p11.md",
-     "argmaps/bod-p12.md",
-     "argmaps/bod-p13.md",
-     "argmaps/bod-p14.md",
-     "argmaps/bod-p15.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; crystal rebuild 2026-11-01: full-verse T1 149/149, 15 real per-verse argmaps, L2/L2.v2 per-verse read prose, C1/C1.v2 lucid and distinct from L2, all mechanical gates pass)"
+   "status": "gold",
+   "gold": true,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
   },
   {
-   "work": "parapravesika",
-   "author": "Ksemaraja",
-   "passages": 9,
-   "verses": "prose prakarana (mangala + mula/vrtti + 3 quoted verses)",
-   "l0_parse": "1116/1116 PARSED (100%)",
-   "lore": [
-    "Muktabodha M00048 (KSTS vol. 15, 1918; Dyczkowski-supervised e-text)",
-    "Pradipaka pure translation (title; Para/Parapara/Apara scale; Sattrimsat-sandoha pointer)",
-    "Lakshmanjoo/Hughes ch.3 (free rendering with commentary)",
-    "Hareesh Tantra Illuminated course (bija centerpiece; authorship wrinkle logged)",
-    "Erchenkov 2012 Russian (appended to Sivasutravimarsini)",
-    "OCHS/NAK provenance"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/par-p01.md",
-     "argmaps/par-p02.md",
-     "argmaps/par-p03.md",
-     "argmaps/par-p04.md",
-     "argmaps/par-p05.md",
-     "argmaps/par-p06.md",
-     "argmaps/par-p07.md",
-     "argmaps/par-p08.md",
-     "argmaps/par-p09.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l1": "L1.md",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; built end-to-end 2026-11-01: full text-order T1 1116/1116, sandhi-token audit clean, 9 real argmaps, readable C1)"
+   "work": "bodhavilasa",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "ghatakarpara",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": null
   },
   {
    "work": "pancashloki",
-   "author": "Abhinavagupta",
-   "passages": 5,
-   "verses": 5,
-   "l0_parse": "137/137 PARSED (100%)",
-   "lore": [
-    "SanskritDocuments (Ruma Dewan ed./proofread, from Abhinavastotravali)",
-    "Silburn 1964 (Hymnes de Abhinavagupta — French translations of the hymns)",
-    "Pandey 1963 (Abhinavagupta: historical & philosophical study — yukti subordinate to guru's word)",
-    "Rastogi (Kashmir Shaiva stotra literature — lived contradiction of nearness and forgetfulness)",
-    "nirguna sruti formulae (neti neti corpus) for verse 3"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/pan-p01.md",
-     "argmaps/pan-p02.md",
-     "argmaps/pan-p03.md",
-     "argmaps/pan-p04.md",
-     "argmaps/pan-p05.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; manual single-work build 2026-10-31)"
+   "status": "gold",
+   "gold": true,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "parapravesika",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paryantapancasika",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "sivastotravali",
+   "status": "partial (5/20 songs canonical)",
+   "gold": false,
+   "has_data_json": true,
+   "has_process_log": false,
+   "verses": null
   },
   {
    "work": "anubhavanivedana",
-   "author": "Abhinavagupta",
-   "passages": 4,
-   "verses": 4,
-   "l0_parse": "109/109 PARSED (100%)",
-   "lore": [
-    "SanskritDocuments (Ruma Dewan ed./proofread, from Abhinavastotravali)",
-    "Silburn 1970 (French translation, classic rendering)",
-    "Singh & Maheshvarananda 2016 (English, Indian Mind Varanasi)",
-    "Pandey appendix p.414 (ascribed, 4 verses)",
-    "Buira Ferre 2018 workshop (Sanskrit to Catalan/Spanish/French/English; mudra as presence)",
-    "Skora article (quotes v.3 after Silburn and Rastogi 1990)"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/anu-p01.md",
-     "argmaps/anu-p02.md",
-     "argmaps/anu-p03.md",
-     "argmaps/anu-p04.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; built fresh end-to-end 2026-11-01)"
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "anubhavanivedana",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "dehastha",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "isvarasiddhi",
+   "status": "T1 corrupt (needs T1 rebuild)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "kramastotra",
+   "status": "tier-3 (needs full rebuild)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "mahopadeshavimshatika",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paramadvayadvadashika",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
   },
   {
    "work": "paramarthacarca",
-   "author": "Abhinavagupta",
-   "passages": 8,
-   "verses": 8,
-   "l0_parse": "138/138 PARSED (100%)",
-   "lore": [
-    "SanskritDocuments (Ruma Dewan ed./proofread, from Abhinavastotravali)",
-    "Pratyabhijna self-luminosity and mirror doctrines as background"
-   ],
-   "files": {
-    "argmaps_md": [
-     "argmaps/par-p01.md",
-     "argmaps/par-p02.md",
-     "argmaps/par-p03.md",
-     "argmaps/par-p04.md",
-     "argmaps/par-p05.md",
-     "argmaps/par-p06.md",
-     "argmaps/par-p07.md",
-     "argmaps/par-p08.md"
-    ],
-    "argmaps_json": "argmaps/argmap.json",
-    "l2": "L2.v2.md",
-    "c1": "c1/C1.v2.md"
-   },
-   "status": "COMPLETE (machine-proposed, needs human review; built end-to-end 2026-11-01)"
-  }
- ],
- "in_progress": [],
- "not_started": [
-  "anuttarastika",
-  "parapravesika",
-  "sivastotravali",
-  "bodhapancadasika",
-  "kramastotra",
-  "stavacintamani",
-  "sambandhasiddhi",
-  "paramarthasara",
-  "dehastha",
-  "rahasyapanchadashika",
-  "paramadvayadvadashika",
-  "mahopadeshavimshatika",
-  "bodhavilasa",
-  "bhairavanukarana",
-  "ajadapramatrsiddhi",
-  "paryantapancasika",
-  "pratyabhijnahrdaya",
-  "isvarasiddhi",
-  "ptvmadhyama",
-  "tattvasandoha"
- ],
- "review_notes": {
-  "date": "2026-10-31",
-  "assessor": "beam-free",
-  "quality_tiers": {
-   "tier_1_high": [
-    "sambandhasiddhi",
-    "paramarthasara",
-    "phrdaya",
-    "ajadapramatrsiddhi"
-   ],
-   "tier_2_good": [
-    "bodhavilasa",
-    "paryantapancasika",
-    "sivastotravali"
-   ],
-   "tier_3_mechanical": [
-    "kramastotra",
-    "stavacintamani",
-    "bhairavastava",
-    "bodhapancadasika",
-    "anuttarastika",
-    "bhairavanukarana"
-   ]
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
   },
-  "tier_1_notes": "Follow IPVV shape closely: real argument reconstruction with numbered steps, Sanskrit maxims quoted verbatim with [i.e.] unpacking, staged nanu/naca, numbered cruxes with scholar refs, Decision for L2 spine. Lore-primed with web scholarship. These are the gold standard.",
-  "tier_2_notes": "Follow IPVV shape but with varying depth. Bodhavilasa and Paryantapañcāśikā have good verse-by-verse reconstruction. Śivastotrāvalī is devotional prose — appropriate for the genre but less argumentative.",
-  "tier_3_notes": "Mechanical argmaps: template-generated with gloss + generic 'proceed as verse-by-verse' instructions. Need real argument reconstruction per verse. Kramastotra (30 files) and Stavacintāmaṇi (12 files) are the most mechanical. Bhairavastava, Bodhapañcadaśikā, Anuttarāṣṭikā, Bhairavānukaraṇa are smaller but also mechanical.",
-  "improvement_priority": [
-   "Kramastotra: 30 verses, each needs real argument reconstruction. Most verses are single-line stotras; the 'argument' is the devotional stance. Priority: verses 1-5 (hymn's purpose), 10 (first means), 20 (six wheels), 24 (five acts), 28 (unobstructed self), 30 (seal).",
-   "Stavacintāmaṇi: 120 verses in 12 passages of 10. Each passage needs real argument reconstruction. Priority: p01 (supreme Lord), p04 (will and grace), p07 (devotion and grace), p12 (closing).",
-   "Bodhapañcadaśikā: 15 verses, each needs real argument reconstruction. Already has good C1.v2. Priority: p01 (one reality), p08 (limited light), p11 (non-knowledge), p14 (bondage/liberation).",
-   "Bhairavastava: 10 verses, each needs real argument reconstruction. Priority: p01 (veneration), p03 (suffering), p04 (fearlessness), p06 (bliss), p09 (obtaining).",
-   "Anuttarāṣṭikā: 8 verses, each needs real argument reconstruction. Priority: p01 (no method), p04 (bliss as forgotten treasure), p08 (all shines in consciousness-mirror).",
-   "Bhairavānukaraṇastotra: 5 passages, each needs real argument reconstruction. Priority: p01 (Consciousness-Bhairava as sole reality), p02 (weapons as liberating signs)."
-  ],
-  "process_review": {
-   "what_worked": [
-    "Lore-prime (web search before mapping) significantly improved argmap quality — sambandhasiddhi and paramarthasara are the best examples.",
-    "Per-passage argmaps (md + json) follow IPVV shape and are machine-consumable.",
-    "L2.v2 (verse-by-verse plain English) with Sanskrit cited per verse preserves word pairings.",
-    "C1.v2 (final condensation) at 100-450w per passage is appropriately sized.",
-    "Registry (REGISTRY.json) tracks completion status and lore sources.",
-    "Skill (lore-prime-argmap) codifies the process for reuse."
-   ],
-   "what_needs_improvement": [
-    "Mechanical argmaps (tier 3) need real argument reconstruction — the 'proceed as verse-by-verse' template is not useful.",
-    "L0 quality: some texts (sivastotravali, ajadapramatrsiddhi) have low PARSED rates due to format mismatch or long glosses.",
-    "L2.v2 for large texts (stavacintamani, kramastotra) is very long — the verse-by-verse format may need compression for readability.",
-    "C1.v2 for some texts is under 100w — the 100-450w spec is a guideline, not a hard rule, but consistency would help.",
-    "The 'post-session scholar sharpen' step should be more systematic — currently it's ad hoc web searches.",
-    "Need to verify L2.v2 against L0 (the ipvv spec requires every L2 sentence to link to L0)."
-   ],
-   "next_steps": [
-    "Improve tier 3 argmaps with real argument reconstruction (priority: kramastotra, stavacintamani).",
-    "Run verify.sh equivalent checks on translation-work texts.",
-    "Cross-reference L2.v2 with L0 records for traceability.",
-    "Consider compressing very long L2.v2 files for readability.",
-    "Add more scholar sources for tier 3 texts."
-   ]
+  {
+   "work": "paramarthacarca",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paramarthadvadasika",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paramarthasara",
+   "status": "tier-1 (verify only, legacy format)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paratrimshika",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "phrdaya",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "ptvmadhyama",
+   "status": "T1 corrupt (needs T1 rebuild)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "rahasyapanchadashika",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "saktavijnana",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "sambandhasiddhi",
+   "status": "tier-1 (verify only, legacy format)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "sivasutra",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "spanda",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "spandasandoha",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "stavacintamani",
+   "status": "tier-3 (needs full rebuild)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "svabodhasiddhi",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a01",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a02",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a03",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a04",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a05",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a06",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a07",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a08",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a09",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a10",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a11",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a12",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a13",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a14",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a15",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a16",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a17",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a18",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a19",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a20",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a21",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a22",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a23",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a24",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a25",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a26",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a27",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a28",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a29",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a30",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a31",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a32",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a33",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a34",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a35",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a36",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a37",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a01",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a02",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a03",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a04",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a05",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a06",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a07",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a08",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a09",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a10",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a11",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a12",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a13",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a14",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a15",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a16",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a17",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a18",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a19",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a20",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a21",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a22",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tattvasandoha",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "vbt",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
   }
- }
+ ]
 }
