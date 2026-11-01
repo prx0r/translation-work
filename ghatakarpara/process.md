@@ -595,3 +595,34 @@ scholarly rather than merely scholarly-flavored.
 
 The argmaps are GOOD. They are not GREAT. The gap is engagement with Abhinava's
 vivṛti specifics, which we can't do without the text.
+
+---
+
+## ARGMAP CORRECTION (2026-11-01, after user review)
+
+### What went wrong
+The argmaps were written as scholarly claims ("The poem's answer: the lament IS the rasa", "the
+close reframes both as the poet's achievement"). This is wrong. Argmaps are NOT scholarly
+commentary. They are terse logical maps of the argument: what is certain, what is uncertain,
+what the verse is saying. They should read like a map, not like an essay.
+
+### What changed
+- All three argmaps rewritten as terse logical statements (→ Claim: ..., → Claim: ...).
+- Removed all scholarly-framing language ("The poem's answer:", "Does the poem close in
+  despair or in tribute?", "Is the beauty merely decorative?").
+- Replaced with "What is at issue" as a one-line question, then "The argument, reconstructed
+  step by step" with verse cites and terse claims.
+- Uncertainties section kept (3 per passage, honest gaps).
+- Peer review corrected: argmaps are "scholarly-aligned on the big picture" → "argmaps are
+  terse logical maps; scholarly specifics are in lore/, not in the argmap."
+
+### The rule (added to SKILL.md)
+Argmaps don't claim "this is what's happening." They map the argument with certainty/uncertainty
+clearly marked. Think of it as a map with confidence levels: "verse says X (certain)",
+"verse implies Y (probable)", "unknown whether Z (uncertain)". The argmap is a map, not a
+scholarly essay. Scholarship lives in lore/; the argmap is the logical skeleton.
+
+### Gates after correction
+- Shared argmap sentences: 0 → PASS
+- All other gates: still PASS
+- check.py: CANONICAL, 0 failures
