@@ -44,7 +44,10 @@ def main() -> int:
                 term = m[0].strip().lower().strip("*").strip()
                 # remove bold markers
                 term = re.sub(r"\*+", "", term).strip()
-                if term and len(term) >= 2:
+                if (term and len(term) >= 2 and len(term.split()) == 1
+                        and not any(c in term for c in ".,;:!?()[]{}0123456789")
+                        and not term.startswith("boundary") and not term.startswith("explanation")
+                        and not term.startswith("local") and not term.startswith("related")):
                     c1_terms.add(term)
 
     missing = sorted(t for t in c1_terms if slug(t) not in defined)
@@ -72,7 +75,10 @@ def main() -> int:
                     continue
                 m = re.split(r"\s+[—–-]\s*|\s*:\s*", line, maxsplit=1)
                 term = re.sub(r"\*+", "", m[0].strip()).strip().lower()
-                if term and len(term) >= 2:
+                if (term and len(term) >= 2 and len(term.split()) == 1
+                        and not any(c in term for c in ".,;:!?()[]{}0123456789")
+                        and not term.startswith("boundary") and not term.startswith("explanation")
+                        and not term.startswith("local") and not term.startswith("related")):
                     all_terms.add(term)
 
     all_missing = sorted(t for t in all_terms if slug(t) not in defined)
