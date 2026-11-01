@@ -352,3 +352,43 @@ Committed as part of the translation-work repo (local git, master branch).
   rasa is evoked or merely described. That gap is the difference between machine-proposed
   and human-accepted.
 - The rasa{} block is filled but flagged as application, not attribution.
+
+---
+
+## RASA-INFUSED PASS (2026-11-01)
+
+### What changed
+L2 rewritten to carry the rasa in word choice and rhythm, not just meaning.
+- v.1: "Kāma arises in the heart, to kill." → "Kāma rises in the heart — to kill." (the dash creates the rupture, the camatkāra)
+- v.5: "The cātaka, thirsty, begs water." → "The cātaka, parched, begs for rain." (parched is more visceral; rain evokes the cloud-messenger)
+- v.9: "Fallen into sorrow-ocean's water; remembrance of your virtue alone protects her." → "Drowned in sorrow-ocean's water; remembrance of your virtue alone keeps her afloat." (drowned vs fallen; afloat vs protects — more dramatic)
+- v.18: "Loud roar, water in caves falls, wonderful-formed beauties." → "Loud roar — water in caves falls, wonderful-formed beauties." (dash for the aesthetic close)
+
+The L2 still traces to L0 ids and cites Sanskrit byte-exact. The rasa is in the
+English, not in a commentary about it. No essay. Just the verse, sharper.
+
+### How rasa logic was used (not as essay, as translation)
+- śṛṅgāra (erotic love-in-separation): word choice evokes longing — "parched" not "thirsty",
+  "drowned" not "fallen", "keeps her afloat" not "protects". The English should feel
+  like the Sanskrit feels.
+- dhvani (suggestion): the cloud is never told to carry a message; the English preserves
+  this by addressing the cloud directly ("begs for rain") rather than stating the device.
+- camatkāra (rupture/relish): punctuation (dashes, semicolons) creates the rupture that
+  Abhinava describes — the apprehension in which only pleasure appears.
+- sthāyibhāva (durable emotion): the rasa is in the durable emotion (love, longing),
+  not in the transitory states (sorrow, anger). The translation leans into the love,
+  not the sorrow.
+- vira/adbhuta (close): the tribute verse (v.21) shifts register — "May I be conquered"
+  is a yield, not a lament. The English should feel like a yield.
+
+### Honest assessment
+- The rasa-infused L2 is sharper than the plain version. But it is still machine-proposed.
+- A human reviewer would need to decide if the rasa is evoked or merely described.
+- The rasa{} block on C1 is filled but flagged as application, not attribution.
+- The C1 essay remains as the sharpest POETIC reading (the 7-part structure).
+- The L2 is now the sharpest TRANSLATION (rasa in the verse itself).
+- Together: L2 carries the rasa in the line; C1 carries the rasa in the argument.
+
+### Gates after rasa-infused pass
+- Quotes: 0 | broad meta: 0 | shared C1/L2: 0 | shared argmap: 0
+- Schema: 0 errors | Proof: 3/3 PASS | check.py: CANONICAL, 0 failures
