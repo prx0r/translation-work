@@ -45,7 +45,13 @@
  "contribution_channels": {
   "suggest_here": "translation-work/tools/propose.py (propose -> support -> accept; git JSON diffs; signoff = agreement)",
   "upstream_texts": "GRETIL (contact), Ambuda proofing (account + Needs work/Proofed statuses), SARIT (fork/PR per documented Jane/Jack workflow)",
-  "upstream_method": "sohamhamso methodology (compatible: variants column, judge rationale, source_revision)"
+  "upstream_method": "sohamhamso methodology (compatible: variants column, judge rationale, source_revision)",
+  "gold_sources": [
+   "sanskrit-trikashaivism.com (Trika Glossary — gold reference for Trika terminology, 325 terms, organized by Sanskrit alphabet)",
+   "Abhinavagupta.org (Tantrāloka + commentary)",
+   "Lakshmanjoo Academy (oral tradition, verified quotes)",
+   "Dyczkowski (The Stanzas on Vibration, 1992 — Spandasandoha translation + commentary)"
+  ]
  },
  "rules": [
   "Outbound links only to verified URLs (this file). Never invent per-text deep links.",

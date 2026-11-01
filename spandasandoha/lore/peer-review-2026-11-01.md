@@ -50,3 +50,30 @@ Wait — actually, looking more carefully, the verse we have ("sa jayati śiva e
 Our spandasandoha work is **scholarly-aligned on the big picture** (spanda = autonomy-power, world as play, recognition as tasting spanda, ocean metaphor) but **misses several scholarly specifics** (Spanda = Śakti = I-consciousness, not physical vibration, four-commentary tradition, Kaula context). The fixes are small (add notes, clarify rasa's literal sense, flag inferences). The gap is engagement with the commentary tradition, which we can't do without reading Kṣemarāja's actual text.
 
 The work is GOOD. It is not GREAT. The gap is the same as ghatakarpara: we have the vivṛti's existence, not its text.
+
+## Additional scholarly findings (2026-11-01, second search)
+
+### The "vibrating consciousness" vs "vibration of consciousness" debate
+
+wisdomlib.org (2025) notes a translation ambiguity in Dyczkowski's rendering of
+Spandakārikā 1.1: is Spanda "vibrating consciousness" (the consciousness that vibrates)
+or "vibration of consciousness" (the vibration that belongs to consciousness)? Dyczkowski's
+translation uses "vibration of" which proliferated the problem. Kṣemarāja's opening verse
+(Spandasandoha) "directly moves to glorify the freedom of supreme Śiva" — it's the
+sovereignty (svātantrya), the power of creative freedom. This resolves the debate:
+Spanda is not a property of consciousness but consciousness's own self-aware activity.
+Our C1 captures this: "Spanda is synonymous with Śakti (I-consciousness)" and "not a
+physical vibration but a movement in the space of Consciousness."
+
+### Spanda's synonyms (from sanskrit-trikashaivism.com glossary)
+
+Spanda has countless names: Parāśakti, Pūrṇāhantā, Citi, Mahāhrada, Parāvāk, Śakti,
+Vimarśa, Svātantrya, Aiśvarya, Kartrtva, Sphurattā, Sāra, Hṛdaya. These are all the
+same reality viewed from different angles. Our concept file now lists all 13.
+
+### The four-commentary tradition
+
+Vṛtti (Kallaṭa, simple), Spandapradīpikā (Bhaṭṭotpala, compilation of quotes),
+Vivṛti (Rāmakaṇṭha, follows Kallaṭa), Spandanirṇaya (Kṣemarāja, prose, most
+authoritative). Spandasandoha is Kṣemarāja's earlier, shorter work on kārikā 1.1 only.
+Kṣemarāja wrote Spandasandoha first, then Spandanirṇaya at his pupil Sura's request.
