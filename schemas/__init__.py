@@ -34,6 +34,7 @@ CANONICAL_FILES = [
     "CHAT.md",
     "DATATYPES.json",
     "skills/crystal-ipvv/EXAMPLES.md",
+    "lore/ipvv-deepdive-2026-11-01.md",
 ]
 
 

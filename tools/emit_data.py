@@ -37,7 +37,8 @@ def main() -> int:
     ap.add_argument("--song", required=True); ap.add_argument("--work", default="sivastotravali")
     args = ap.parse_args()
     w = ROOT / args.work
-    song, n = args.song, int(args.song[1:])
+    song = args.song
+    n = int("".join(c for c in args.song if c.isdigit()) or 0)
     gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
     src = load_gretil_song(gretil, n)
     try:
@@ -59,7 +60,7 @@ def main() -> int:
                        "quick_english": draft, "quick_english_source": "mechanical-join-v1",
                        "source_lines": spans.get(v["verse"]), "source_file": "site/data/sanskrit/sivastotravali-u.txt",
                        "tokens": [{"surface": t["iast"], "quick_gloss": t["gloss"]} for t in v["tokens"]],
-                       "source_sha": src_sha})
+                       "source_sha": src_sha})  # edition: args.edition
     (data / f"{song}.t1.json").write_text(json.dumps(t1objs, indent=1, ensure_ascii=False))
 
     # ---- L0 (from extractor jsonl, order-matched to T1 tokens) ----
