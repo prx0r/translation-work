@@ -8,6 +8,12 @@
 
 Does the beauty of the grove serve the rasa, or is it decoration?
 
+(Scholarly context: sandeśa-kāvyas are "always in two parts" — part 1 = hero,
+messenger, route; part 2 = destination, heroine's grief, message, identification mark.
+Our verses 10–18 are landscape (route). The identification mark — a private incident
+known only to lover and beloved, assuring the messenger is genuine — is not clearly
+identified in the poem. Abhinava's vivṛti would say.)
+
 ## 2. The argument, reconstructed step by step
 
 **For Kāma's sake (v.10):** *madanasya kṛte niketanānāṃ pratibhānty adya vanāni ketanānām* —
@@ -20,9 +26,10 @@ you are chief of groves by sprouts, eye-festival of youths. → beloved IS the g
    merging of lover and landscape.
 
 **Kuṭaja mocked (v.12):** *kuṭaja kiṃ kusumair avahasyate* — kuṭaja, why laughed at by flowers?
-*praṇipatāmi ca duṣprahasya te* — I bow, hard to laugh at you. → poet sides with humble tree
-over showy flowers. (Sandeśa-kāvya convention: messenger is lowly but essential — cātaka,
-kuṭaja, cloud vs. showy elements: flowers, peacocks.)
+*praṇipatāmi ca duṣprahasya te* — I bow, hard to laugh at you. → poet sides with humble tree over showy flowers. (Sandeśa-kāvya convention: the messenger is
+lowly but essential — cātaka drinks only rain, kuṭaja has small flowers, the cloud is common.
+The poet sides with the humble over the showy. This is the genre's argument about what
+deserves praise.)
 → feel: affectionate mockery — the poet bows to the humble tree. The rasa is in the humility.
 
 **Nīpa released (v.13):** *tava puṣpanirīkṣitāpadehaṃ visṛjeyaṃ sahasaiva nīpa deham* — your
@@ -54,6 +61,11 @@ water in caves falls, wonderful-formed beauties. → aesthetic close, not narrat
 → feel: the aesthetic close — water falls into wonderful caves. The rasa IS the point.
 
 ## 3. What the verse does not resolve
+
+- Identification mark (private incident known to lover/beloved, assuring the messenger is
+  genuine): not clearly identified. Abhinava's vivṛti would say. The peacock's tail
+  (v.11) or the bow of Indra (v.11) may be candidates — both are private references
+  to the beloved's region.
 
 - "puṣpanirīkṣitāpadeham" (v.13): "flower-looked-at body" or "body looked at by flowers" —
   both readings live; L2 keeps "flower-looked-at."

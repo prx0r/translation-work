@@ -31,7 +31,10 @@ friend, they bring. Messenger is delivered.
 
 **Tribute (v.21):** *jīyeya yena kavinā yamakaiḥ pareṇa* — may I be conquered by which poet,
 by yamakas, other. Poet who conquers by yamakas (same word, different meaning) is the better
-poet. Speaker yields to that skill.
+poet. Speaker yields to that skill. (Scholarly context: Abhinava attributed the poem to
+Kālidāsa; Lienhard rejected. If Abhinava thought Kālidāsa wrote it, the tribute to "a better
+poet" may be Abhinava's way of praising Kālidāsa's skill. Or it may be the poet's own claim
+to skill. The poem mentions Ghatakarpara's name at the end — self-naming is the poet's claim.)
 → feel: yield — "may I be conquered" is not defeat but recognition. The rasa shifts from
    śṛṅgāra to vira (heroic) and adbhuta (wonder at craft).
 
@@ -53,6 +56,9 @@ ghaṭakarpara. Offering in potsherd = tribute. Voice shifts from lover to poet.
   Flagged as application, not attribution.
 - Abhinava's specific claims on this poem are unverified — we have the vivṛti's existence
   (KSTS 67), not its text.
+- Kalidāsa attribution (Abhinava: yes; Lienhard: no): whether this affects the reading of
+  v.21's tribute is open. If Abhinava thought Kālidāsa wrote it, the tribute may be praise
+  of Kālidāsa's yamaka skill. If not, it is the poet's own claim to skill.
 
 ## 4. Decision for L2
 
