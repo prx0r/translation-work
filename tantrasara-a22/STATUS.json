@@ -1,0 +1,18 @@
+{
+ "work": "tantrasara-a22",
+ "updated": "2026-10-30",
+ "next": "batch (A22 done; full close passes done)",
+ "counts": {
+  "passages": 3,
+  "verses": 53
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a22-raw.jsonl",
+ "r2_verified": true,
+ "notes": "kaula-y\u0101ga + \u015bakti + khecar\u012b",
+ "r2_bytes": 29536,
+ "needs": [
+  "abstention-review",
+  "citation-grounding",
+  "coverage-check"
+ ]
+}

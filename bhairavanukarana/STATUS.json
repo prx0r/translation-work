@@ -1,0 +1,16 @@
+{
+ "work": "bhairavanukarana",
+ "updated": "2026-11-01",
+ "next": "human-review",
+ "counts": {
+  "passages": 5,
+  "verses": 47
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-31-bhairavanukarana-raw.jsonl",
+ "r2_bytes": 8476,
+ "r2_verified": true,
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ],
+ "notes": "C1 rebuilt 2026-11-01: T1 rebuilt per-word full-verse (515/515 PARSED, 48/48 vs GRETIL KsBhAS numbering; header corrected 47->48); argmaps individualized (zero shared); C1.md/C1.v2 rewritten lucid and distinct (zero shared, zero quotes); v46 print forms kept with open analysis. Needs human review (MACHINE_PROPOSED)."
+}

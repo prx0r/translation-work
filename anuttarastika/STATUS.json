@@ -1,0 +1,16 @@
+{
+ "work": "anuttarastika",
+ "updated": "2026-11-01",
+ "next": "human-review",
+ "counts": {
+  "passages": 8,
+  "verses": 8
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-anuttarastika-raw.jsonl",
+ "r2_bytes": 4252,
+ "r2_verified": true,
+ "notes": "8 verses, 8 passages. Manual single-work pass 2026-11-01: T1 verified full-verse (L0 197/197), argmaps rewritten per-verse with verse-specific lore (Sferra 2010, GRETIL/Faliero, anupaya doctrine), L2 sharpened, C1/C1.v2 rewritten distinct from L2 with zero shared sentences, metacommentary scrubbed. No batch gate; needs human review (MACHINE_PROPOSED).",
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ]
+}

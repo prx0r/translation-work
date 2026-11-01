@@ -1,0 +1,25 @@
+# Tantrasāra A22 — ARGMAP
+
+## tsa22-p01 (22.1–22.11)
+- speaker: Abhinava, siddhānta (kaula-yāga, outer).
+- question: What is the kula-worship, and how is the outer rite done?
+- premises: (1) For firmly-rooted entitled ones, by glorious kaula-course. (2) "Bliss is Brahman, in body three-and-half" — non-brahmacārins without bliss by abandoning; imitation-bliss-food-avoiding are worshippers; in both hells — so resort to this state. (3) By this state, kula-worship, sixfold: outer, in power, in self, in couple, in breath, in consciousness. (4) Latter-latter superior, former-former for taste-sake. (5) Accomplishment-wisher: second-fourth-fifth in all cases; sixth for liberation-wisher (chief), second-and-rest occasionally for rite-completion. (6) Outer: altar bliss-full, hero-vessel, red-one, cloth, as stated or liṅga-and-rest. (7) Without bath-etc. need, by full-bliss-rest purity gained; first breath-consciousness-body-identity contemplation; consciousness as supreme-Śiva-natured, 27 times mantra uttered in crown-face-heart-private images, straight-reverse, world-course-fullness in Lord's lower/upper/supreme. (8) Thus: from Māyā-person-nature-quality-intellect-and-rest down to earth 27 principles; art-and-rest indwelling; power too upper-lower; Brahma-five five natures (suddenness etc.) = 27 formedness (Lakuleśa teachers). Supreme too five powers; power too five-formedness — 25 powers; mutually unmanifest-differenced = one power; she too unmanifest-differenced = 27 formedness by pervasion of consciousness-fire crest mind-breath-formed by one utterance alone bound — whereby supreme Śiva bound; tantric-excess nothing rushes. (9) With such mind-abiding, before-standing rite-material/place/direction/base made of it; then argha-vessel too by pervasion-binding filled, worshipped with its drops; altars with its sap by left-thumb-yoga; in body-wheels mantra-wheel worshipped/satiated. (10) Then to breath-end; then in altar trident-formed three-power-end seat imagined: Māyā-end in a-u three-power-end seat; Māyā-end in a-u three-power-end; that-above to-be-worshipped grasping-form power; thus by one utterance alone base-and-supported-placing made — therein-itself in supported in consciousness universe seen; that too consciousness-made; thus universe's consciousness, by it, its container-ness = consciousness reality by two container-nesses obtained. (11) As stated: "creation containerized." Then scent-smoke-sap-flower to self-prostration-end offered, with own-rest muttered, withdrawn, cast in water — thus outer-worship.
+- inference: Outer kula-rite binds the whole course to consciousness in one utterance.
+- conclusion: Outer yāga stated.
+- unresolved: 27-principle count per Lakuleśa (traditional).
+
+## tsa22-p02 (22.15–22.33)
+- speaker: Abhinava, siddhānta (inner śakti-worship; yāmala) — CONDENSED.
+- question: How is power worshipped inwardly, and what is the couple?
+- premises: Śakti-worship: mutual function of power-and-heroes, both-natured, in rising-beginning-creation-end-Śiva-power-awakening; Lord-destiny + pure-naturedness → preponderance; by this special-circle's power-ness explained. Therein by pervasion-binding worship; three-power-end seat; in three-corners middle emission-power; pervasion special. Thus in self-body therein in circle then Brahma-hole-and-subwheels. Couple: power's mark this — like it nondifference, then without regard to age-and-rest non-attachment; of other-than-world couple-born identity. Effect-cause-together-rising threefold directly or otherwise; in imagination mutually worshipped, satiated, ananda-antika. Worship circle by suitability, subcircle then-following; outside flower-and-rest, inside scent-enjoyment-sap. Thus bliss-mass-made; subcircle-host melts by circle-identity. By each-own-enjoyment-non-enjoyment variety, gradually subcircle-goddesses go to consciousness-circle (middle). Subcircle-god-essence ray-host full-of-vigor; that power like-it, mutually-facing becomes. Couple upward-abode-entry throb-born-shaking; shakes subcircles too; they then of-it-made, not separate. Thus couple, melted-difference... (22.24–22.33 per T1: lotus petals, khecarī, nāda-bhairava, mantra-vīrya, etc.)
+- inference: Couple-worship = mutual facing with melted difference.
+- conclusion: Inner śakti + yāmala stated (CONDENSED).
+- unresolved: Full close pass queued.
+
+## tsa22-p03 (22.34–22.54)
+- speaker: Abhinava, siddhānta (khecarī-mudrā + nāda) — CONDENSED.
+- question: What is the sky-wandering seal and the sound-mystery?
+- premises: Three-cornered lotus petals, sixteenth-petal root, nāla; middle throb, moon-sun clash, instant creation; khecarī-mudrā entry. Throb at throat, ear-eye-mouth-nose channels, eight nāda-bhairavas; mantra-vīrya from it; karma in karma, knower gains freedom-in-life; knowledge-vessel body, empty/full abode, single-staff fire-wind, trident equalized, doubtless, no-conduct, self not-I, body-gods as bliss-shock... Further verses (22.46–22.54) on grahītā, khecarī-siddhi etc.
+- inference: Khecarī = throb-made-audible.
+- conclusion: A22 close (CONDENSED).
+- unresolved: Full close pass queued.

@@ -1,0 +1,196 @@
+{
+ "isva-p01": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "isva-p02": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "isva-p03": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "isva-p04": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "isva-p05": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "isva-p06": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "isva-p07": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ }
+}

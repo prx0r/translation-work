@@ -1,0 +1,17 @@
+{
+ "work": "tantraloka-a01",
+ "updated": "2026-10-31",
+ "next": "batch (tantraloka-a01 done)",
+ "counts": {
+  "passages": 34,
+  "verses": 333
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a01-raw.jsonl",
+ "r2_bytes": 176124,
+ "r2_verified": true,
+ "needs": [
+  "abstention-review",
+  "citation-grounding"
+ ],
+ "notes": "34 passages, L200+C1 done, gate BLOCKED (heuristic)"
+}

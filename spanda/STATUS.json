@@ -1,0 +1,21 @@
+{
+ "work": "spanda",
+ "updated": "2026-10-30",
+ "next": "batch (spanda done)",
+ "counts": {
+  "passages": 6,
+  "verses": 51,
+  "l0_parsed": 86,
+  "l0_ambiguous": 0,
+  "l0_failed": 0
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-spanda-raw.jsonl",
+ "r2_bytes": 21309,
+ "r2_verified": true,
+ "notes": "SOURCE from GRETIL; 51 verses (Spandakarika), 6 passages. T1 now has proper hyperliteral glosses (86 PARSED).",
+ "needs": [
+  "abstention-review",
+  "citation-grounding",
+  "coverage-check"
+ ]
+}

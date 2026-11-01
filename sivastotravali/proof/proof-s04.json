@@ -1,0 +1,87 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "s04",
+ "work": "sivastotravali",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [
+  "LEDGER_GLOSS_MISSING ['vatsala=fond', 'āspadam=abode (s03)']"
+ ],
+ "source_sha": "fd02c190f3ecc071",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 521,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 521
+ },
+ "align": {
+  "min_ratio": 0.868,
+  "sub090": {
+   "9": {
+    "ratio": 0.879,
+    "disposition": "joints-only: kin-cid>kincid, vastu+a>vastva, vet i class, order verified 2026-11-01"
+   },
+   "10": {
+    "ratio": 0.89,
+    "disposition": "joints-only: sva+icchaya>svecchaya, tvat+pada+ucitam class, order verified 2026-11-01"
+   },
+   "13": {
+    "ratio": 0.894,
+    "disposition": "joints-only: sankareti, sata so'pyudirita, tiryagasyesu class, order verified 2026-11-01"
+   },
+   "15": {
+    "ratio": 0.868,
+    "disposition": "joints-only: purargala (a+a>aa), 'viraloma class, order verified 2026-11-01"
+   },
+   "24": {
+    "ratio": 0.889,
+    "disposition": "joints-only: drdho'yam, atmabandho, bhavadakhyati class, order verified 2026-11-01"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 5,
+ "c1_words": 546,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 2,
+  "gloss_missing_in_l2": [
+   "vatsala=fond",
+   "āspadam=abode (s03)"
+  ]
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 521,
+   "argmap": 25,
+   "l2": 25,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "fd02c190f3ecc071",
+  "t1": "T1-s04.md",
+  "l0": "T1-s04.l0.jsonl",
+  "l2": "L2-s04.md",
+  "c1": "c1/C1-s04.md"
+ }
+}

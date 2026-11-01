@@ -1,0 +1,18 @@
+{
+ "work": "tantrasara-a13",
+ "updated": "2026-10-30",
+ "next": "batch (A13 done; full close passes done)",
+ "counts": {
+  "passages": 4,
+  "verses": 101
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a13-raw.jsonl",
+ "r2_verified": true,
+ "notes": "y\u0101ga/d\u012bk\u1e63\u0101: place, ny\u0101sa, inner rite, samaya",
+ "r2_bytes": 44047,
+ "needs": [
+  "abstention-review",
+  "citation-grounding",
+  "coverage-check"
+ ]
+}

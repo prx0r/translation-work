@@ -1,0 +1,870 @@
+{
+ "tal-a10-p01": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p02": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p03": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p04": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p05": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p06": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p07": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p08": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p09": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p10": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p11": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p12": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p13": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p14": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p15": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p16": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p17": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p18": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p19": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p20": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p21": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p22": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p23": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p24": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p25": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p26": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p27": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p28": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p29": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p30": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "tal-a10-p31": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5x source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) - abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ }
+}

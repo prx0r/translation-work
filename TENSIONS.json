@@ -1,0 +1,107 @@
+{
+ "canonical": "translation-work/TENSIONS.json",
+ "version": "1.0.0",
+ "date": "2026-11-01",
+ "note": "Frictions between the ipvv canonical stack, our data-object stack, and sanskritbenchy support. Status: fixed | accepted | queued. 'site_impact' states why each matters for the reader — every layer becomes a data structure there.",
+ "tensions": [
+  {
+   "id": "T1",
+   "title": "Argmap granularity: verse objects vs passage arguments",
+   "parties": [
+    "ipvv/specs(CANONICAL-DAG, argmap.json)",
+    "translation-work/schemas/argmap.py"
+   ],
+   "description": "ipvv ARGMAP is per chunk/passage (whole krika plus vrtti plus vivrti) and an explicit lateral guide; ours is per verse. Multi-verse dialectic (objection handling across verses, e.g. Utpaladeva's 7-verse arc, IPK siddha-to-ashiddha moves) has no traced home in our stack — it lives in C1 EXPLANATION prose and legacy per-song arc sections, both unvalidated.",
+   "where_it_bites": "The validator certifies verse-local structure while the hardest reasoning (cross-verse argument) is unchecked. Speaker-tagging (ruthless nanu/objector/own-view tagging) is load-bearing for debate texts (IPVV proper, Tantraloka) but vacuous for single-voice stotras — one schema shape strains across both.",
+   "site_impact": "Critical view shows per-verse argmaps; the passage-level argument never reaches the reader. Cross-verse moves are invisible in data.",
+   "resolution": "Add argmap scope field (verse|passage, default verse). Passage-scope argmaps carry the dialectic; verse argmaps keep the sharp translation. Both validate; traces resolve in both. IMPLEMENTED 2026-11-01: scope field (verse|passage, default verse) on argmaps; passage-scope objects queued for sastra texts.",
+   "status": "fixed"
+  },
+  {
+   "id": "T2",
+   "title": "L200 is missing: no derivation map",
+   "parties": [
+    "ipvv/specs(l200.json, c1.json requires l200_id)",
+    "translation-work(LAYERS.md, c1.py optional derivation)"
+   ],
+   "description": "ipvv L200 separates MT decisions (SUPPLIED/LEXICAL/GRAMMATICAL/STRUCTURAL_CONNECTIVE) from IA assertions and maps each L2 para to argmap to L0 to source. We have neither. Our finest trace grain is the verse (l0_ids per verse); clause-to-pada links are asserted, never recorded. B7 checks the cite is byte-exact but the cite is per-verse while decisions happen per-clause.",
+   "where_it_bites": "SUPPLIED logging is the cheap, high-value part (every bracketed interpolation logged). Without it, L2 silently invents referents and connectives with no record. derivation_map per verse is exactly right-sized — not the heavy 8-section ipvv L200, just para-to-L0 pointers.",
+   "site_impact": "Critical view cannot show which English clause comes from which Sanskrit pada. The most checkable link in the whole chain is absent from site data.",
+   "resolution": "Require verse-level derivation (supplied[] + per-clause L0 pointers) for new work; backfill optional with warning. c1.derivation stays optional until essence is human-reviewed.",
+   "status": "queued"
+  },
+  {
+   "id": "T3",
+   "title": "T1 frozen text vs living JSON: the discipline device",
+   "parties": [
+    "ipvv/specs(t1.json, frozen_hash, Law 1)",
+    "translation-work(data/*.t1.json, revised flag)"
+   ],
+   "description": "ipvv immutability forces errors downstream into visible layers instead of silent base edits. Our JSON is hand-editable, and our own T1 MDs were edited repeatedly despite FROZEN headers — the freeze was already fiction. But immutability would have frozen our discovered errors in (alignment found real ones). A living model fits a discovery workflow; it needs the revised-flag discipline to be enforced, not optional.",
+   "where_it_bites": "Nothing currently forces revise_reason when a quick_gloss changes after L0 adjudication. History is reconstructible only from git, not from the object. A future agent can silently rewrite the base.",
+   "resolution": "T1 objects carry history[] (prior quick_gloss + reason + date); validator requires a history entry on any change to a shipped gloss. Immutability of the past, freedom for the future.",
+   "status": "queued"
+  },
+  {
+   "id": "T4",
+   "title": "Essence is mechanical: maps_to theater risk",
+   "parties": [
+    "translation-work/schemas/c1.py",
+    "translation-work/data/*.c1.json"
+   ],
+   "description": "Essence lists are currently split SUMMARY sentences — a compressed paragraph, not atomic propositions. Every non-standard render validates structurally against mush. maps_to then proves nothing: pointing at a pseudo-proposition is theater with extra steps.",
+   "where_it_bites": "ELI5/genz/poetic renders inherit whatever vagueness the SUMMARY has. The validator checks shape; only human review checks that essence[] actually captures the argument and nothing else.",
+   "site_impact": "Read view shows the standard essay (fine); any future style render on site would render unreviewed pseudo-propositions as doctrine.",
+   "resolution": "Essence must be human-authored (or human-confirmed) before any non-standard render ships to site data. Until then renders validate locally but emit_site.py withholds them (c1 standard-only, renders stay local).",
+   "status": "accepted"
+  },
+  {
+   "id": "T5",
+   "title": "AMBIGUOUS conflates parse quality with semantic forks",
+   "parties": [
+    "ipvv/specs(l0_schema.json status enum)",
+    "translation-work/schemas/l0.py"
+   ],
+   "description": "ipvv AMBIGUOUS means the record is unclean (no lemma, messy parse). Our validator requires AMBIGUOUS to carry >=2 options, repurposing it to mean 'genuine fork' — so a clean record with a real fork (anama: clean parse, live crux) is mislabeled ambiguous, and a messy record with one guess cannot be marked honestly.",
+   "where_it_bites": "Reviewers cannot distinguish 'this token is lexically uncertain' from 'the reading is contested'. Metrics over status (parse rates) get polluted by semantics.",
+   "resolution": "Split the axes: status stays parse-quality (PARSED/AMBIGUOUS/FAILED, ipvv meaning); new fork field (none|live|resolved) carries the semantic state. live|resolved require >=2 options; resolved requires an argmap option_choices entry. anama migrates to PARSED + fork:resolved. IMPLEMENTED 2026-11-01: fork axis (none|live|resolved) decoupled from parse-quality status; resolved forks require option_choices entries (validator-enforced); anama exemplar migrated to PARSED + fork:resolved.",
+   "status": "fixed"
+  },
+  {
+   "id": "T6",
+   "title": "Witness vs grammar: flat sources, meaningless ranks",
+   "parties": [
+    "translation-work/schemas/l0.py OPTION_SOURCES",
+    "argmap adjudication"
+   ],
+   "description": "OPTION_SOURCES is a flat list, but sources are not equal: grammar constrains the possible set, witnesses attest the received set, T1-draft is just our first guess. A rank ordering across categories is meaningless — rank 1 must mean 'argmap adjudicated', not 'first listed'. The sharpest signal is a witness contradicting grammar (e.g. Lakshmanjoo's ethically-risky rendering of 1.20 noted in our own argmaps) — currently prose-only, unqueryable.",
+   "where_it_bites": "Without a hierarchy rule, a T1-draft guess can outrank grammar, and witness-contradicts-grammar cases (the most informative forks) are invisible to validators and to site readers.",
+   "resolution": "Rule (validator warning): rank 1 must carry grounds; a witness option contradicting all grammar options must be flagged in review (warning, not error — reception history matters). Encode the 1.20 case as the second exemplar fork.",
+   "status": "queued"
+  },
+  {
+   "id": "T7",
+   "title": "Benchy metric grain: tau ranks verses, forks are words",
+   "parties": [
+    "sanskritbenchy(pipeline/validate_benchmark.py, experiment_lab.py)",
+    "translation-work L0 adjudication"
+   ],
+   "description": "Kendall tau tells which whole-verse metric tracks a judge. L0 forks are word-level (anama, ksetra readings). Verse-level metric agreement says nothing about which gloss of one word is right — adjudication stays human philology plus witnesses. What transfers from benchy is procedural (pairwise A/B + reason = option_choices), not substantive.",
+   "where_it_bites": "Running the Kendall protocol and then citing it to settle a fork would be scientism. Separately: benchy golds are Gita-heavy with Vedanta-flavored glossary (maya/illusion); Trika adjudication must run against our per-work ledgers, never the generic glossary.",
+   "resolution": "Kendall run stays queued for MT-quality gating only; fork adjudication is explicitly out of scope for metrics. Term-consistency gates must use work ledgers.",
+   "status": "accepted"
+  },
+  {
+   "id": "T8",
+   "title": "Addressing scope: song/verse vs chunk/passage for sastra texts",
+   "parties": [
+    "ipvv/specs(passage.json chunk model)",
+    "translation-work song/verse ids"
+   ],
+   "description": "Verse addressing fits stotras. IPVV proper and Tantraloka (both present in translation-work: tantraloka-a01..a37) need chunk scope: a karika plus vrtti plus vivrti, where the argument lives in commentary and no single verse owns it. LAYERS.md says one object per verse, which quietly excludes the commentary layer (Ksemaraja's Vivrti currently lore/notes, not data).",
+   "where_it_bites": "Applying the verse schema to sastra texts either drops the commentary or smears it into verse objects where traces cannot resolve (a vrtti sentence is not a verse pada).",
+   "resolution": "argmap scope field covers passage-level dialectic (T1 fix); T1/L0 stay verse- (or line-) addressed; commentary ingestion is a separate queued project. Stotra pipeline is not blocked.",
+   "status": "accepted"
+  }
+ ]
+}

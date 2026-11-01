@@ -1,0 +1,78 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "s05",
+ "work": "sivastotravali",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "7a54f4e6f0dc4ae5",
+ "source_verses": 26,
+ "t1_verses": 26,
+ "l0": {
+  "parsed": 423,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 423
+ },
+ "align": {
+  "min_ratio": 0.871,
+  "sub090": {
+   "3": {
+    "ratio": 0.871,
+    "disposition": "sandhi-only: tvat+ekanatha>tvadekanatho, bhagavan+iyat>bhagavanniyat, t+m>m classes; order verified 2026-11-01"
+   },
+   "10": {
+    "ratio": 0.888,
+    "disposition": "sandhi-only: harsat+va>harsadva, t+dh>ddh, t+a>d classes; order verified 2026-11-01"
+   },
+   "12": {
+    "ratio": 0.897,
+    "disposition": "sandhi-only: sarasah+antar>saraso ntar, bhogah+astu>bhogo stu, ko py esa class; order verified 2026-11-01"
+   },
+   "15": {
+    "ratio": 0.886,
+    "disposition": "sandhi-only: carvana+amilita>carvanamilita, namas+mahyam>namo mahyam, n+s>ms classes; order verified 2026-11-01"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 409,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 26,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 26,
+   "l0": 423,
+   "argmap": 26,
+   "l2": 26,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "7a54f4e6f0dc4ae5",
+  "t1": "T1-s05.md",
+  "l0": "T1-s05.l0.jsonl",
+  "l2": "L2-s05.md",
+  "c1": "c1/C1-s05.md"
+ }
+}

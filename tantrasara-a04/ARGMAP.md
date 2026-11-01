@@ -1,0 +1,25 @@
+# Tantrasāra A04 — ARGMAP
+
+## tsa04-p01 (4.1–4.17)
+- speaker: Abhinava, siddhānta (śākta upāya: thought-work).
+- question: How does thought purify thought, and what is true reasoning?
+- premises: (1) Beings bind themselves by thought-force; adversarial thought shatters binding thought → rise. (2) Its form: transcending all limited Śiva-ending principles = unlimited consciousness-only = ultimate = order-ground = universe-vigor = I (universe-transcending + universe-self). (3) Not for Māyā-blind (no sattarka); Vaiṣṇavas confined by passion-principle, hate true-reasoning (scripture quote). Only Śāmbhava-firm-descent-pierced enter via good-scripture course. (4) Objection: supreme = thought-formed? Reply: thought's job ends at shattering duality-habitation; supreme self-shines everywhere — thought neither aids nor refutes. (5) Very-firm-descent → spontaneous sattarka = Goddess-initiated; others via scripture course (descent-manifestation later). Teacher expounds scripture; scripture raises fitting thought (unhesitating study); that = sattarka = bhāvanā (making-unmanifest-manifest). (6) No other yoga-limb is direct means (tapas/restraint/yama/breath = knowable-bound, no function in consciousness); pratyāhāra heightens senses; dhyāna-dhāraṇā-samādhi grant object-identity. (7) Practice impossible in supreme Śiva-self-nature (nothing to take/leave — bundle-carrying analogy fails); tarka's job = duality-habitation removal only. Worldly practice = making liked forms manifest + disfavoring others. In supreme: nothing to reject; duality-habitation = mere non-recognition of nature (not separate entity); supreme shines forth by stages (about-to-bloom → blooming → bloomed) — that shining itself the Lord's nature.
+- inference: Thought is medicine that dissolves itself; nothing positive to install.
+- conclusion: Sattarka/bhāvanā method established; yoga-limbs demoted.
+- unresolved: Descent-manifestation details deferred (śaktipātaprakāśane vakṣyāmaḥ).
+
+## tsa04-p02 (4.18–4.33)
+- speaker: Abhinava, siddhānta (śuddhavidyā modes; three powers).
+- question: How do sacrifice, fire-offering, muttering, vow, and yoga become inner?
+- premises: (1) Sattarka itself the direct means = śuddhavidyā, refined manifoldly: yāga (offering all things into the Lord — outer flowers for the lovely-minded to ease entry); homa (dissolving all into Lord-consciousness-fire, leaving fire-mass); japa (inner grasping "that supreme is own-nature" regardless of outer/inner objects); vrata (seeing body/pot with Lord-identity for gaining nirupāya-Lord-conceit; Nandiśikhā: all-sameness = supreme vow). (2) Thus by varied pure-knowledge thought-shards, the thought-free natural ultimate shines; abiding in its manifestation-form = yoga. (3) Lord as full-consciousness named by āgamic tongues (pūrṇatā/kula/ūrnii/hṛdaya/sāra/spanda/vibhūti/trīśikā/kālī...); seen via completeness-conviction. Powers countless (= universe). (4) Threefold containment: parāśakti (bears/sees/shines all as undivided consciousness), parāparā (mirror/elephant-like difference-nondifference), aparā (mutually separate difference). (5) The holder that swallows the threefold in self-embrace = Bhagavatī Parā herself (Mātṛsadbhāva/Kālakarṣiṇī names).
+- inference: Outer rites are props for the same inner thought-gesture; powers are the Lord's own faces.
+- conclusion: Inner yāga-ādi + three powers established.
+- unresolved: 4.27–4.33 detail in the cut but summarized (see T1/L1 for full positions).
+
+## tsa04-p03 (4.34–4.46)
+- speaker: Abhinava, siddhānta (twelve Kālīs; conduct rule).
+- question: How do the powers become twelve, and how should the knower behave?
+- premises: (1) Four powers × threefold each (autonomy) = twelve (creation/maintenance/dissolution). (2) Long demonstration: consciousness grasps inward → outward → affection → re-absorption-will → doubt-making-and-swallowing → consumer-nature → vessel-traces → sense-wheel → sense-lords → Māyā-knower → contracted-then-expanding knower → expanded form: twelve goddess-consciousnesses, simultaneous/serial, monthly to pot-cloth rhythms, nourishing wheel-lord autonomy = Kālīs. (3) Kalana = motion/throwing/knowing/counting/enjoying/sounding/self-dissolving (Bhūtirāja quote). Full sense in author's vivaraṇa/prakaraṇa/stotra; neither blab everywhere nor hide totally (teachers' rule). (4) Yāga-ādi meant upon such Maheśvara. All from Viṣṇu to Śiva see rejectable as adoptable-ground = false view, must be dropped by unsurpassed yogins (Anubhavastotra's zeal). In yāga-to-yoga pentads each manifoldly established — practice as established, not by food/purity discriminations (impurity isn't thing-nature like blue; Śiva-command alone overrides, proven by reason + endless āgamas — Tantrāloka for detail). Vedic-to-Kula rules alike do nothing here.
+- inference: Multiplicity of powers/conducts resolves into one autonomy-display; purity-rules are thought-level, not thing-level.
+- conclusion: Twelve-Kālī wheel + conduct freedom established; ahnika closes into A05's śākta knowledge.
+- unresolved: Vivaraṇa cross-refs external; Tantrāloka detail cited (external).

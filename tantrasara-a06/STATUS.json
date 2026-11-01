@@ -1,0 +1,18 @@
+{
+ "work": "tantrasara-a06",
+ "updated": "2026-10-30",
+ "next": "batch (A06 done; full close passes done)",
+ "counts": {
+  "passages": 4,
+  "verses": 82
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a06-raw.jsonl",
+ "r2_verified": true,
+ "notes": "sth\u0101na/k\u0101la; P3-L1 CONDENSED flagged",
+ "r2_bytes": 45122,
+ "needs": [
+  "abstention-review",
+  "citation-grounding",
+  "term-consistency"
+ ]
+}

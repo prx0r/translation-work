@@ -1,0 +1,21 @@
+{
+ "work": "paramarthasara",
+ "updated": "2026-10-30",
+ "next": "batch (paramarthasara done)",
+ "counts": {
+  "passages": 12,
+  "verses": 104,
+  "l0_parsed": 12,
+  "l0_ambiguous": 0,
+  "l0_failed": 0
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-paramarthasara-raw.jsonl",
+ "r2_bytes": 35207,
+ "r2_verified": true,
+ "notes": "SOURCE from GRETIL; 104 karikas (Paramarthasara), 12 passages. T1 now has proper hyperliteral glosses (12 PARSED).",
+ "needs": [
+  "abstention-review",
+  "citation-grounding",
+  "coverage-check"
+ ]
+}

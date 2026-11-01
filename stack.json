@@ -1,0 +1,99 @@
+{
+ "canonical": "translation-work/stack.json",
+ "version": "1.1.0",
+ "date": "2026-11-01",
+ "schemas_version": "1.1.0",
+ "description": "Machine-readable manifest of the canonical translation stack. Generated in part from schemas/*.py (layers, required fields); hand-maintained parts are precedence, gates, and site mapping. check.py verifies this file stays in sync with the code.",
+ "layers": [
+  "t1",
+  "l0",
+  "argmap",
+  "l2",
+  "c1",
+  "c2"
+ ],
+ "required_by_layer": {
+  "t1": [
+   "verse_id",
+   "song",
+   "verse",
+   "quick_english",
+   "tokens",
+   "source_sha"
+  ],
+  "l0": [
+   "id",
+   "verse_id",
+   "pada_index",
+   "surface",
+   "citation",
+   "options",
+   "chosen_index",
+   "status"
+  ],
+  "argmap": [
+   "verse_id",
+   "song",
+   "verse",
+   "traces",
+   "sanskrit_sha"
+  ],
+  "l2": [
+   "verse_id",
+   "song",
+   "verse",
+   "plain_english",
+   "sanskrit_cite",
+   "l0_ids"
+  ],
+  "c1": [
+   "song",
+   "essence",
+   "renders"
+  ],
+  "c2": [
+   "song",
+   "renders"
+  ]
+ },
+ "invariants": [
+  "L0.chosen == T1.quick_gloss unless L0.revised with reason",
+  "fork live|resolved requires >=2 options; resolved requires argmap option_choices entry with matching chosen_index",
+  "argmap traces resolve: t1_verse exists, every l0_id exists, sanskrit_sha matches source",
+  "L2 lists >=1 existing l0_id per verse",
+  "non-standard C1 renders map every paragraph to essence indices",
+  "coverage: T1+L0+argmap+L2 span exactly the GRETIL verse set"
+ ],
+ "precedence": [
+  "AGENTS.md / User Directive 2026-11-01",
+  "CANONICAL.md",
+  "LAYERS.md",
+  "ALIGNMENT.md",
+  "schemas/*.py",
+  "skills/crystal-ipvv/SKILL.md"
+ ],
+ "gates": {
+  "proof_record_B1_B8": "tools/proof_record.py",
+  "data_objects": "tools/validate_song.py",
+  "roundtrip": "tools/render_md.py",
+  "canonical": "check.py"
+ },
+ "site_mapping": {
+  "translations_json": "site/data/translations/<work>.json (chunks: sanskrit/l1/l2/c1/argmap/gate/model/date)",
+  "layers_json": "built by site/build.py build_layers() — do not hand-write",
+  "emitter": "translation-work/tools/emit_site.py",
+  "rule": "BLOCKED chunks never show English; missing works render greyed, never invented"
+ },
+ "option_sources": [
+  "t1-draft",
+  "grammar",
+  "lakshmanjoo",
+  "dyczkowski",
+  "ksemaraja-vivrti",
+  "bailly",
+  "sandhi-variant",
+  "compound-split",
+  "witness",
+  "witness-<name>"
+ ]
+}

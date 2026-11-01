@@ -1,0 +1,346 @@
+{
+ "param-p01": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "param-p02": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "param-p03": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "param-p04": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "param-p05": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "param-p06": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "param-p07": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "COVERAGE",
+   "ABSTENTION",
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    false,
+    "candidate only 38% of source units \u2014 dropped p\u0101das"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015bakti' used in candidate but not in source"
+   ]
+  }
+ },
+ "param-p08": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "COVERAGE",
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    false,
+    "candidate only 36% of source units \u2014 dropped p\u0101das"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "param-p09": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "COVERAGE",
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    false,
+    "candidate only 35% of source units \u2014 dropped p\u0101das"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "param-p10": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "COVERAGE",
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    false,
+    "candidate only 35% of source units \u2014 dropped p\u0101das"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "param-p11": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "COVERAGE",
+   "ABSTENTION",
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    false,
+    "candidate only 33% of source units \u2014 dropped p\u0101das"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'m\u0101y\u0101' used in candidate but not in source; '\u0101tman' used in candidate "
+   ]
+  }
+ },
+ "param-p12": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION",
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015bakti' used in candidate but not in source; 'j\u00f1\u0101na' used in candidate"
+   ]
+  }
+ }
+}

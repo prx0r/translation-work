@@ -1,0 +1,82 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "s01",
+ "work": "sivastotravali",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [
+  "LEDGER_GLOSS_MISSING ['bhaktiśālin=possessor-of-devotion']"
+ ],
+ "source_sha": "1da56456ffbd9ba6",
+ "source_verses": 26,
+ "t1_verses": 26,
+ "l0": {
+  "parsed": 342,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 342
+ },
+ "align": {
+  "min_ratio": 0.872,
+  "sub090": {
+   "17": {
+    "ratio": 0.897,
+    "disposition": "sandhi-only: 13 pada joints (visarga/elision), order verified by hunk inspection 2026-11-01"
+   },
+   "18": {
+    "ratio": 0.872,
+    "disposition": "sandhi-only: yoga/tapas elisions + ko'pi restoration, order verified 2026-11-01"
+   },
+   "20": {
+    "ratio": 0.883,
+    "disposition": "order FIXED (jihva|agre); residual 0.883 = siva+iti>sveti-class joints, verified 2026-11-01"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 5,
+ "c1_words": 698,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 26,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 6,
+  "gloss_missing_in_l2": [
+   "bhaktiśālin=possessor-of-devotion"
+  ]
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 26,
+   "l0": 342,
+   "argmap": 26,
+   "l2": 26,
+   "essence": 3,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [
+    "eli5",
+    "genz",
+    "testrun"
+   ],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "1da56456ffbd9ba6",
+  "t1": "T1-s01.md",
+  "l0": "T1-s01.l0.jsonl",
+  "l2": "L2-s01.md",
+  "c1": "c1/C1-s01.md"
+ }
+}

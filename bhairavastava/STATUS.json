@@ -1,0 +1,16 @@
+{
+  "work": "bhairavastava",
+  "updated": "2026-10-30",
+  "next": "batch (Bhairavastava done)",
+  "counts": {
+    "passages": 10,
+    "verses": 10
+  },
+  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-bhairavastava-raw.jsonl",
+  "r2_bytes": 10147,
+  "r2_verified": true,
+  "notes": "10 verses, 10 passages, L200+C1 done. REPAIRED 2026-10-31 (round 2): T1 full-verse coverage all 10 verses (first halves restored throughout), L0 regenerated 114/114 PARSED, per-passage lore de-duplicated, C1/C1.v2 rewritten distinct from L2 with zero shared sentences, C1 scrubbed of metacommentary.",
+  "needs": [
+    "human-review (MACHINE_PROPOSED)"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "work": "stavacintamani",
+  "updated": "2026-10-30",
+  "next": "batch (stavacintamani done)",
+  "counts": {
+    "passages": 12,
+    "verses": 120
+  },
+  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-stavacintamani-raw.jsonl",
+  "r2_bytes": 41934,
+  "r2_verified": true,
+  "notes": "120 verses, 12 passages, L200+C1 done, gate run. Argmap v2 done (12 per-passage files + JSON, lore-primed: Stainton 2013, Marjanovic 2012, Rastogi & Singh 2002). L2.v2 done (verse-by-verse plain English, 12 passages). C1.v2 done (final condensation, 12 passages). Post-session sharpened.",
+  "needs": [
+    "human-review (MACHINE_PROPOSED)"
+  ]
+}

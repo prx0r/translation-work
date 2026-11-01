@@ -1,0 +1,19 @@
+{
+  "work": "kramastotra",
+  "updated": "2026-10-30",
+  "next": "batch (Kramastotra done)",
+  "counts": {
+    "passages": 30,
+    "verses": 30,
+    "l0_parsed": 30,
+    "l0_ambiguous": 0,
+    "l0_failed": 0
+  },
+  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-kramastotra-raw.jsonl",
+  "r2_bytes": 39775,
+  "r2_verified": true,
+  "notes": "30 verses, 30 passages, L200+C1 done, gate run. Argmap v2 done (30 per-passage files + JSON, lore-primed: Rastogi 1979, Stainton 2019, Wenta 2021). L2.v2 done (verse-by-verse plain English, 6 groups). C1.v2 done (final condensation, 6 groups). Post-session sharpened.",
+  "needs": [
+    "human-review (MACHINE_PROPOSED)"
+  ]
+}

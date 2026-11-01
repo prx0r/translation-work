@@ -1,0 +1,774 @@
+{
+ "schema": "tantrasara-full-text.v1",
+ "built": "2026-10-30",
+ "source": "gretil_tantrasara_clean.txt (Nirnaya Sagara 1918, GRETIL)",
+ "counts": {
+  "ahnika": 22,
+  "passages": 51,
+  "verses": 712,
+  "l0_tokens": 4579,
+  "gate_pass": 7,
+  "gate_blocked": 44,
+  "l200": 22,
+  "c1": 22
+ },
+ "works": [
+  {
+   "id": "tantrasara-a01",
+   "ahnika": "a01",
+   "passages": 1,
+   "verses": 5,
+   "l0_tokens": 233,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a01:3e3fa21b6ac3"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a01-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A01 T1→GATE done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a02",
+   "ahnika": "a02",
+   "passages": 1,
+   "verses": 4,
+   "l0_tokens": 72,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a02:28a3ace66e1f"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a02-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A02 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a03",
+   "ahnika": "a03",
+   "passages": 2,
+   "verses": 34,
+   "l0_tokens": 166,
+   "gate_pass": 0,
+   "gate_blocked": 2,
+   "immutable_ids": [
+    "pt:pid:ts:a03:ec3a0fb790e3",
+    "pt:pid:ts:a03:86e603daa1e4"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a03-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A03 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a04",
+   "ahnika": "a04",
+   "passages": 3,
+   "verses": 46,
+   "l0_tokens": 146,
+   "gate_pass": 0,
+   "gate_blocked": 3,
+   "immutable_ids": [
+    "pt:pid:ts:a04:65e2e60eaa28",
+    "pt:pid:ts:a04:319355141314",
+    "pt:pid:ts:a04:d38819637e44"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a04-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A04 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a05",
+   "ahnika": "a05",
+   "passages": 2,
+   "verses": 43,
+   "l0_tokens": 235,
+   "gate_pass": 1,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a05:1543f1598b1c",
+    "pt:pid:ts:a05:4d154eed763c"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a05-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A05 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a06",
+   "ahnika": "a06",
+   "passages": 4,
+   "verses": 82,
+   "l0_tokens": 282,
+   "gate_pass": 0,
+   "gate_blocked": 4,
+   "immutable_ids": [
+    "pt:pid:ts:a06:b628e168bf97",
+    "pt:pid:ts:a06:aa56d510a194",
+    "pt:pid:ts:a06:eeab5d3c2a2b",
+    "pt:pid:ts:a06:4badfdaaefe0"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a06-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A06 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a07",
+   "ahnika": "a07",
+   "passages": 1,
+   "verses": 28,
+   "l0_tokens": 169,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a07:5452ed74b7a9"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a07-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A07 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a08",
+   "ahnika": "a08",
+   "passages": 4,
+   "verses": 93,
+   "l0_tokens": 174,
+   "gate_pass": 0,
+   "gate_blocked": 4,
+   "immutable_ids": [
+    "pt:pid:ts:a08:5baba4be51e6",
+    "pt:pid:ts:a08:11747ca0f435",
+    "pt:pid:ts:a08:7f9e4b3307f2",
+    "pt:pid:ts:a08:b934ea526829"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a08-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A08 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a09",
+   "ahnika": "a09",
+   "passages": 3,
+   "verses": 53,
+   "l0_tokens": 222,
+   "gate_pass": 1,
+   "gate_blocked": 2,
+   "immutable_ids": [
+    "pt:pid:ts:a09:2cef78493792",
+    "pt:pid:ts:a09:e1c807651fd6",
+    "pt:pid:ts:a09:1205d1f54e67"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a09-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A09 done; P2/P3-L1 CONDENSED flagged)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a10",
+   "ahnika": "a10",
+   "passages": 1,
+   "verses": 18,
+   "l0_tokens": 136,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a10:a7312042ee92"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a10-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A10 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a11",
+   "ahnika": "a11",
+   "passages": 10,
+   "verses": 25,
+   "l0_tokens": 427,
+   "gate_pass": 4,
+   "gate_blocked": 6,
+   "immutable_ids": [
+    "pt:pid:ts:a11:d80b4186da04",
+    "pt:pid:ts:a11:69d85b3756cc",
+    "pt:pid:ts:a11:15aaa3c9fa1d",
+    "pt:pid:ts:a11:ca6e60e17fb1",
+    "pt:pid:ts:a11:d0dabd01e185",
+    "pt:pid:ts:a11:7b7efd5b1e8b",
+    "pt:pid:ts:a11:bc2ca79ca284",
+    "pt:pid:ts:a11:7302f9581e80",
+    "pt:pid:ts:a11:c4f607ff6a88",
+    "pt:pid:ts:a11:7d37ae2fe6dc"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a11-raw.jsonl",
+   "r2_verified": true,
+   "status": "refinement: L200+C1 done for A11; close passes for CONDENSED ahnikas (A06-P3,A09-P2/P3,A13-P3/P4,A20-P4,A22-P2/P3); then A01 L200+C1",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a12",
+   "ahnika": "a12",
+   "passages": 1,
+   "verses": 10,
+   "l0_tokens": 118,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a12:1a0912144533"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a12-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A12 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a13",
+   "ahnika": "a13",
+   "passages": 4,
+   "verses": 101,
+   "l0_tokens": 219,
+   "gate_pass": 0,
+   "gate_blocked": 4,
+   "immutable_ids": [
+    "pt:pid:ts:a13:64f4e4852ada",
+    "pt:pid:ts:a13:d2b0b17f0b22",
+    "pt:pid:ts:a13:85d2fd4024a1",
+    "pt:pid:ts:a13:70b4dfd8db3f"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a13-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A13 done; P3/P4-L1 CONDENSED flagged)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a14",
+   "ahnika": "a14",
+   "passages": 1,
+   "verses": 0,
+   "l0_tokens": 276,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a14:2aa67e0f9177"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a14-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A14 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a15",
+   "ahnika": "a15",
+   "passages": 1,
+   "verses": 0,
+   "l0_tokens": 105,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a15:627b83567350"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a15-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A15 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a16",
+   "ahnika": "a16",
+   "passages": 1,
+   "verses": 24,
+   "l0_tokens": 156,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a16:b4114057a846"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a16-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A16 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a17",
+   "ahnika": "a17",
+   "passages": 1,
+   "verses": 6,
+   "l0_tokens": 89,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a17:db23385e14b6"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a17-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A17 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a18",
+   "ahnika": "a18",
+   "passages": 1,
+   "verses": 2,
+   "l0_tokens": 55,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a18:d9ffbc899168"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a18-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A18 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a19",
+   "ahnika": "a19",
+   "passages": 1,
+   "verses": 7,
+   "l0_tokens": 127,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a19:500a17cc749d"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a19-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A19 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a20",
+   "ahnika": "a20",
+   "passages": 4,
+   "verses": 65,
+   "l0_tokens": 657,
+   "gate_pass": 0,
+   "gate_blocked": 4,
+   "immutable_ids": [
+    "pt:pid:ts:a20:8d892a4f811e",
+    "pt:pid:ts:a20:edaaa3ccd3bc",
+    "pt:pid:ts:a20:9ba88c8463e6",
+    "pt:pid:ts:a20:3f1bb49714d5"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a20-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A20 done, L2 distinct)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a21",
+   "ahnika": "a21",
+   "passages": 1,
+   "verses": 13,
+   "l0_tokens": 210,
+   "gate_pass": 0,
+   "gate_blocked": 1,
+   "immutable_ids": [
+    "pt:pid:ts:a21:fa93b07da4e5"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a21-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A21 done)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  },
+  {
+   "id": "tantrasara-a22",
+   "ahnika": "a22",
+   "passages": 3,
+   "verses": 53,
+   "l0_tokens": 305,
+   "gate_pass": 1,
+   "gate_blocked": 2,
+   "immutable_ids": [
+    "pt:pid:ts:a22:cc14a8088d13",
+    "pt:pid:ts:a22:03b8e922087a",
+    "pt:pid:ts:a22:c16e60dd2453"
+   ],
+   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a22-raw.jsonl",
+   "r2_verified": true,
+   "status": "batch (A22 done; FULL TEXT COMPLETE)",
+   "refinement": {
+    "l200": "DONE",
+    "c1": "DONE"
+   },
+   "files": [
+    "SOURCE.txt",
+    "passages.jsonl",
+    "T1.md",
+    "T1.l0.jsonl",
+    "ARGMAP.md",
+    "L1.md",
+    "L2.md",
+    "GATE.json",
+    "STATUS.json",
+    "batch.jsonl",
+    "l200/L200.md",
+    "c1/C1.md"
+   ]
+  }
+ ],
+ "themes": "THEMES.md (14 candidate themes, seed→promoted)",
+ "runlog": "translation-notes/runs/2026-10-30-tantrasara-FULL.md"
+}

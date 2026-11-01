@@ -1,0 +1,16 @@
+{
+ "work": "phrdaya",
+ "updated": "2026-11-01",
+ "next": "human-review",
+ "counts": {
+  "passages": 5,
+  "verses": 20
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-31-phrdaya-raw.jsonl",
+ "r2_bytes": 5376,
+ "r2_verified": true,
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ],
+ "notes": "C1 rebuilt 2026-11-01: C1.md analytic (5 passages), C1.v2 lucid condensation distinct from L2 (zero shared), argmap boilerplate tails individualized (zero shared), lore: Singh 1980/1990 (Lakshmanjoo lineage, KSTS text), Torella 2014 (philology), Leidecker 1938 (superseded). T1 47/47, 20 sutras verified present. Needs human review (MACHINE_PROPOSED)."
+}

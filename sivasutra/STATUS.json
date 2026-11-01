@@ -1,0 +1,19 @@
+{
+ "work": "sivasutra",
+ "updated": "2026-10-30",
+ "next": "batch (sivasutra done)",
+ "counts": {
+  "passages": 8,
+  "verses": 75,
+  "l0_parsed": 181,
+  "l0_ambiguous": 0,
+  "l0_failed": 0
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-sivasutra-raw.jsonl",
+ "r2_bytes": 22407,
+ "r2_verified": true,
+ "notes": "SOURCE from GRETIL; 75 sutras (Sivasutra), grouped into 8 passages. T1 now has proper hyperliteral glosses (181 PARSED).",
+ "needs": [
+  "abstention-review"
+ ]
+}

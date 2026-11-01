@@ -1,0 +1,49 @@
+# Paryantapañcāśikā pary-p07 — ARGUMENT MAP (the vāc: inner-hidden, four streams, etc.)
+
+*2026-10-31. Source: T1 pary-p07 = vv. 40–46. Lore: Timalsina 2023; Falsafa.ai translation. Key: so much (iyat) all (sarvaṃ) being (sat) will (icchā) etc. (ādi) by door (dvārā) supreme (anuttara) in Bhairava (bhairave) having rested (viśramya) having rested (viśramya) again (muhuḥ) from that (tataḥ) indeed (eva) is emitted (visṛjyate). Inner-hidden (antarnilīna) infinite (ananta) meaning (artha) own-self (svātma) reflection (āmarśaḥ) consciousness (citiḥ) supreme (parā) one-time (ekavāra) from flow (vahāt) which (yā) this (iyam) mantra-knowing (mantrī) speech (vāk) pure (śuddha) agency (kartṛtā). Three-flow (trivahaṃ) three-path (tripathaṃ) three-placed (tristhaṃ) time (kālaṃ) that (sā) draws (karṣati) by itself (svataḥ) outside (bahis) then (tataś) and (ca) in self (ātmani) thus (iti) glorious-supreme (śrīparā) time-drawer (kālakarṣiṇī). Divided (bhedita) inner-made (antaḥkṛta) undivided (akhaṇḍa) state (bhāva) observation (avekṣā) higher-lower (parāparā) agency (kartṛtā) that (sā) indeed (eva) seeing (paśyantī) his (tasya) indeed (eva) lord (īśa) state (daśā) based (āśrayā). Middle (madhyamā) with sequence (sakramā) gross (sthūlā) in inner-organ (antaḥkaraṇavartinī) imagination (vikalpanā) undivided (abhinna) expressed (vācyā) prana-function (prāṇavṛtti) differentiated (vibheditā). Own-impression (svavāsanā) from such state (tādavasthyād) of two states (daśayoḥ) of previous (pūrvayoḥ) also (api) Māyā (māyā) of measure (mātuḥ) limitedness (mitatvaṃ) may be (syāt) of seeing (paśyantyāś) and (ca) sequence (kramo) indeed (hi) subtle (aṇuḥ). Of those two (tayoḥ) having entered (āviśya) of states (daśayoḥ) by sequence (kramāc) quiet (śānta) of thoughts (vikalpayoḥ) blessed (dhanyaḥ) own-consciousness (svasaṃvid) expansion (vistāraṃ) wonderfully (sāścaryam) perceives (anupaśyati).*
+
+---
+
+## 1. What is at issue
+
+The vāc (speech) is the key. Inner-hidden (antarnilīna) infinite (ananta) meaning (artha) own-self (svātma) reflection (āmarśaḥ) consciousness (citiḥ) supreme (parā) — one-time (ekavāra) from flow (vahāt) which (yā) this (iyam) mantra-knowing (mantrī) speech (vāk) pure (śuddha) agency (kartṛtā). Three-flow (trivahaṃ) three-path (tripathaṃ) three-placed (tristhaṃ) time (kālaṃ) that (sā) draws (karṣati) by itself (svataḥ) outside (bahis) then (tataś) and (ca) in self (ātmani) thus (iti) glorious-supreme (śrīparā) time-drawer (kālakarṣiṇī). Divided (bhedita) inner-made (antaḥkṛta) undivided (akhaṇḍa) state (bhāva) observation (avekṣā) higher-lower (parāparā) agency (kartṛtā) that (sā) indeed (eva) seeing (paśyantī) his (tasya) indeed (eva) lord (īśa) state (daśā) based (āśrayā). Middle (madhyamā) with sequence (sakramā) gross (sthūlā) in inner-organ (antaḥkaraṇavartinī) imagination (vikalpanā) undivided (abhinna) expressed (vācyā) prana-function (prāṇavṛtti) differentiated (vibheditā). Own-impression (svavāsanā) from such state (tādavasthyād) of two states (daśayoḥ) of previous (pūrvayoḥ) also (api) Māyā (māyā) of measure (mātuḥ) limitedness (mitatvaṃ) may be (syāt) of seeing (paśyantyāś) and (ca) sequence (kramo) indeed (hi) subtle (aṇuḥ). Of those two (tayoḥ) having entered (āviśya) of states (daśayoḥ) by sequence (kramāc) quiet (śānta) of thoughts (vikalpayoḥ) blessed (dhanyaḥ) own-consciousness (svasaṃvid) expansion (vistāraṃ) wonderfully (sāścaryam) perceives (anupaśyati).
+
+## 2. The argument, reconstructed step by step
+
+**Step 0 — so much all being (v. 40):**
+> *iyat sarvaṃ sad icchādidvārānuttarabhairave | viśramya viśramya muhus tata eva visṛjyate*
+[i.e. so much all being will etc. by door supreme in Bhairava having rested having rested again from that indeed is emitted.] So much (iyat) all (sarvaṃ) being (sat) will (icchā) etc. (ādi) by door (dvārā) supreme (anuttara) in Bhairava (bhairave) having rested (viśramya) having rested (viśramya) again (muhuḥ) from that (tataḥ) indeed (eva) is emitted (visṛjyate). All being (sat) is emitted (visṛjyate) from the supreme (anuttara) in Bhairava, by will (icchā) etc., having rested (viśramya) again and again (muhuḥ).
+
+**Step 1 — inner-hidden consciousness (v. 41):**
+> *antarnilīnānantārthasvātmāmarśaś citiḥ parā | ekavāravahād yeyaṃ mantrī vāk śuddhakartṛtā*
+[i.e. inner-hidden infinite meaning own-self reflection consciousness supreme one-time from flow which this mantra-knowing speech pure agency.] Inner-hidden (antarnilīna) infinite (ananta) meaning (artha) own-self (svātma) reflection (āmarśa) consciousness (citi) supreme (parā) — one-time (ekavāra) from flow (vahāt) which (yā) this (iyam) mantra-knowing (mantrī) speech (vāk) pure (śuddha) agency (kartṛtā). The supreme consciousness (citi) is inner-hidden, infinite in meaning, own-self reflection; from one-time flow, this mantra-knowing speech (mantrī vāk) with pure agency.
+
+**Step 2 — three-flow time (v. 42):**
+> *trivahaṃ tripathaṃ tristhaṃ kālaṃ sā karṣati svataḥ | bahis tataś cātmanīti śrīparā kālakarṣiṇī*
+[i.e. three-flow three-path three-placed time that draws by itself outside then and in self thus glorious-supreme time-drawer.] Three-flow (trivahaṃ) three-path (tripathaṃ) three-placed (tristhaṃ) time (kālaṃ) that (sā) draws (karṣati) by itself (svataḥ) outside (bahis) then (tataś) and (ca) in self (ātmani) thus (iti) glorious-supreme (śrīparā) time-drawer (kālakarṣiṇī). The three-flow, three-path, three-placed time draws by itself outside and in self — the glorious supreme time-drawer (kālakarṣiṇī).
+
+**Step 3 — divided/undivided (v. 43):**
+> *bheditāntaḥkṛtākhaṇḍabhāvāvekṣā parāparā | kartṛtā sā eva paśyantī tasyaiveśadaśāśrayā*
+[i.e. divided inner-made undivided state observation higher-lower agency that indeed seeing his indeed lord state based.] Divided (bhedita) inner-made (antaḥkṛta) undivided (akhaṇḍa) state (bhāva) observation (avekṣā) higher-lower (parāparā) agency (kartṛtā) that (sā) indeed (eva) seeing (paśyantī) his (tasya) indeed (eva) lord (īśa) state (daśā) based (āśrayā). The divided inner-made undivided state observation; higher-lower agency; that seeing, based on his lord state.
+
+**Step 4 — middle (v. 44):**
+> *madhyamā sakramā sthūlā antaḥkaraṇavartinī | vikalpanābhinnavācyā prāṇavṛttivibheditā*
+[i.e. middle with sequence gross in inner-organ imagination undivided expressed prana-function differentiated.] Middle (madhyamā) with sequence (sakramā) gross (sthūlā) in inner-organ (antaḥkaraṇavartinī) imagination (vikalpanā) undivided (abhinna) expressed (vācyā) prana-function (prāṇavṛtti) differentiated (vibheditā). The middle (madhyamā) with sequence (sakramā) gross (sthūlā) in inner-organ (antaḥkaraṇa) imagination (vikalpanā) undivided (abhinna) expressed (vācyā) prana-function (prāṇavṛtti) differentiated (vibheditā).
+
+**Step 5 — own-impression (v. 45):**
+> *svavāsanātādavasthyād daśayoḥ pūrvayoḥ api | māyāmātur mitatvaṃ syāt paśyantyāś ca kramo hy aṇuḥ*
+[i.e. own-impression from such state of two states of previous also Māyā of measure limitedness may be of seeing and sequence indeed subtle.] Own-impression (svavāsanā) from such state (tādavasthya) of two states (daśayoḥ) of previous (pūrvayoḥ) also (api) Māyā of measure (māyāmātuḥ mitatvaṃ) may be (syāt) of seeing (paśyantyāś) and (ca) sequence (kramo) indeed (hi) subtle (aṇuḥ). Own-impression from such state of two previous states; Māyā of measure may be of seeing; sequence indeed subtle (aṇu).
+
+**Step 6 — blessed perceives (v. 46):**
+> *tayoḥ āviśya daśayoḥ kramāc chāntavikalpayoḥ | dhanyas svasaṃvidvistāraṃ sāścaryam anupaśyati*
+[i.e. of those two having entered of states by sequence quiet of thoughts blessed own-consciousness expansion wonderfully perceives.] Of those two (tayoḥ) having entered (āviśya) of states (daśayoḥ) by sequence (kramāc) quiet (śānta) of thoughts (vikalpayoḥ) blessed (dhanyaḥ) own-consciousness (svasaṃvid) expansion (vistāraṃ) wonderfully (sāścaryam) perceives (anupaśyati). Having entered those two states by sequence, quiet of thoughts, blessed perceives own-consciousness expansion wonderfully.
+
+## 3. Unresolved / uncertain (not invented)
+
+1. The "three-flow" (trivaha) and "three-path" (tripatha) and "three-placed" (tristha) — the T1 gloss renders them as "three-flow three-path three-placed"; the Sanskrit *trivahaṃ tripathaṃ tristhaṃ* = "three-flow, three-path, three-placed." The text does not enumerate what the three are.
+2. The "inner-hidden" (antarnilīna) consciousness — the T1 gloss renders it as "inner-hidden infinite meaning own-self reflection consciousness supreme"; the Sanskrit *antarnilīnānantārthasvātmāmarśaś citiḥ parā* = "inner-hidden infinite meaning own-self reflection consciousness supreme." The image: the supreme consciousness is hidden within, infinite in meaning, own-self reflection.
+3. The "middle" (madhyamā) — the T1 gloss renders it as "middle with sequence gross in inner-organ"; the Sanskrit *madhyamā sakramā sthūlā antaḥkaraṇavartinī* = "middle with sequence gross in inner-organ." The three levels of speech (paśyantī, madhyamā, vaikharī) are implied.
+
+## 4. Decision for L2
+
+Proceed as the passage's own descent: so much all being (v. 40) → inner-hidden consciousness (v. 41) → three-flow time (v. 42) → divided/undivided (v. 43) → middle (v. 44) → own-impression (v. 45) → blessed perceives (v. 46). The key move is v. 41: inner-hidden (antarnilīna) infinite (ananta) meaning (artha) own-self (svātma) reflection (āmarśa) consciousness (citi) supreme (parā) — the supreme consciousness is hidden within, infinite in meaning, own-self reflection. And v. 42: three-flow (trivahaṃ) three-path (tripathaṃ) three-placed (tristhaṃ) time (kālaṃ) — the three levels of speech/time. And v. 46: having entered those two states by sequence, quiet of thoughts, blessed perceives own-consciousness expansion wonderfully. Carry all three into p08 (closing: the vāc). Read it as speech unveiled: hidden mantra-knowing, three-forked time, blessed seeing.<|end|>

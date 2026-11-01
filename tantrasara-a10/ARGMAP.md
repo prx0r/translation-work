@@ -1,0 +1,9 @@
+# Tantrasāra A10 — ARGMAP
+
+## tsa10-p01 (10.1–10.18)
+- speaker: Abhinava, siddhānta (digit-course + word/mantra courses).
+- question: What are the digits, and how do word and mantra courses complete the six courses?
+- premises: (1) As worlds-following-form = principle, so principles-following-form class-wise = digit (can't bear one-form grasping). (2) Earth→cessation (turns back creation); water→chief→establishment (causing nourish-fill); person→Māyā→knowledge (consciousness-excess in knowable-concealment); pure-knowledge→power→tranquil (cover-wave calming). These = four eggs (earthy/natural/Māyā/powered). Egghood proper while mutual touch with impacts lasts into power-principle. (3) In Śiva-principle: beyond-tranquil (grasped via teaching/contemplation/worship); supreme principle autonomous; immeasurable therein = beyond-digit. (4) Five digits, 36 principles: knowable × gross/subtle = 10; instrumental × pure/agent-touching = 10; instrument-subordinated-agent-manifest = 5; pure-agent = 5; melted-division blooming-faced = 5; limit-free = Śiva 36th. (5) Taught/contemplated establishment-seat = 37th; contemplated therein = 38th; no regress (contemplated unlimited-autonomy making-knowable ends at 37; 36th conceivable-limited as all-transcended). (6) To vijñānākala = self-digit; to Īśa = knowledge-digit; rest = Śiva-digit (three-principle course); nine-principle likewise inferable. (7) Measure-portion-going = threefold (gross/subtle/supreme): world-principle-digit-self course-differences; measurer-rest likewise threefold: in measureness = word-course; in measure's agitation-wave-calming = mantra-course; on its calming = … (close per L1/L2).
+- inference: Digits group principles by pervasion-rank; teaching itself extends the count without regress.
+- conclusion: Five-digit + 37/38 + word/mantra courses stated.
+- unresolved: 10.18 tail positions per L1 (full close in refinement).

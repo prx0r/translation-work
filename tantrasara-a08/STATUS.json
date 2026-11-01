@@ -1,0 +1,18 @@
+{
+ "work": "tantrasara-a08",
+ "updated": "2026-10-30",
+ "next": "batch (A08 done)",
+ "counts": {
+  "passages": 4,
+  "verses": 93
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a08-raw.jsonl",
+ "r2_verified": true,
+ "notes": "k\u0101rya-k\u0101ra\u1e47a, mala, vivekas, senses",
+ "r2_bytes": 45852,
+ "needs": [
+  "abstention-review",
+  "citation-grounding",
+  "term-consistency"
+ ]
+}

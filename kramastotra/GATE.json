@@ -1,0 +1,820 @@
+{
+ "kram-p01": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p02": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u0101tman' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p03": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015biva' used in candidate but not in source; '\u0101tman' used in candidate "
+   ]
+  }
+ },
+ "kram-p04": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p05": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u0101tman' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p06": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015biva' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p07": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015bakti' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p08": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'m\u0101y\u0101' used in candidate but not in source; '\u0101tman' used in candidate "
+   ]
+  }
+ },
+ "kram-p09": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p10": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'j\u00f1\u0101na' used in candidate but not in source; 'prak\u1e5bti' used in candida"
+   ]
+  }
+ },
+ "kram-p11": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p12": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015biva' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p13": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015bakti' used in candidate but not in source; 'j\u00f1\u0101na' used in candidate"
+   ]
+  }
+ },
+ "kram-p14": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p15": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'m\u0101y\u0101' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p16": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p17": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p18": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015bakti' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p19": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015bakti' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p20": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p21": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'j\u00f1\u0101na' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p22": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'j\u00f1\u0101na' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p23": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p24": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015bakti' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p25": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p26": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u015bakti' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p27": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u0101tman' used in candidate but not in source"
+   ]
+  }
+ },
+ "kram-p28": {
+  "deterministic_gate": "PASS",
+  "blocking": [],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p29": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ },
+ "kram-p30": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "COVERAGE"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    false,
+    "candidate only 0% of source units \u2014 dropped p\u0101das"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    true,
+    "all technical terms grounded in source"
+   ]
+  }
+ }
+}

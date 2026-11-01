@@ -1,0 +1,29 @@
+{
+ "work": "tantrasara-a11",
+ "updated": "2026-10-30",
+ "next": "refinement: L200+C1 done for A11; close passes for CONDENSED ahnikas (A06-P3,A09-P2/P3,A13-P3/P4,A20-P4,A22-P2/P3); then A01 L200+C1",
+ "counts": {
+  "passages": 10,
+  "verses": 25,
+  "chars": 6434,
+  "l0_tokens": 427,
+  "l0_parsed": 426,
+  "gate_pass": 3,
+  "gate_blocked": 7
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a11-raw.jsonl",
+ "r2_verified": true,
+ "notes": "SOURCE frozen + 10 passages cut; T1 next",
+ "r2_bytes": 62510,
+ "runlog": "/root/translation-notes/runs/2026-10-30-tantrasara-a11.md",
+ "refinement": {
+  "l200": "DONE (machine)",
+  "c1": "DONE (machine, 10 passages)",
+  "themes": "SEED (10 C1s, needs >=20)"
+ },
+ "needs": [
+  "abstention-review",
+  "citation-grounding",
+  "term-consistency"
+ ]
+}

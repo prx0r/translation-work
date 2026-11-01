@@ -1,0 +1,101 @@
+{
+ "work": "sivastotravali",
+ "updated": "2026-11-01",
+ "next": "batch (sivastotravali done)",
+ "counts": {
+  "passages": 5,
+  "verses": 450
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-sivastotravali-raw.jsonl",
+ "r2_bytes": 119831,
+ "r2_verified": true,
+ "notes": "450 verses, 20 stotras, 5 passages, L200+C1 done, gate run. Argmap v2 done (5 per-passage files + JSON, lore-primed: Bailly 1987/1995, Moreno Bautista UNAM, Gaeffke & Bailly 1989). L2.v2 done (devotional prose, passage by passage). C1.v2 done (final condensation, 100-450w).",
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ],
+ "stotra01_2026_11_01": {
+  "scope": "Stotra 1 bhaktivilasa, 26 verses, 1-song-per-passage re-chunk",
+  "files": [
+   "T1-s01.md (frozen)",
+   "T1-s01.l0.jsonl (342/342 PARSED)",
+   "argmaps/sivst-s01.md",
+   "L2-s01.md",
+   "L200-s01.md",
+   "c1/C1-s01.md (698w, 7-part spec)"
+  ],
+  "gates": "T1 26/26 verses; L0 340/340/0; C1/L2 shared 0; argmap cross-shared 0; quotes 0; metacommentary 0",
+  "status": "COMPLETE machine-proposed, needs human review; gold-standard template for remaining 19 songs"
+ },
+ "songs_done_2026_11_01": {
+  "songs": [
+   "s01 (26v, full pipeline: T1 340/340, argmap, L2, L200, C1)",
+   "s13 (20v: argmap, L2, C1)",
+   "s02 (29v: argmap, L2, C1)",
+   "s14 (24v: argmap, L2, C1)",
+   "s03 (21v: argmap, L2, C1)",
+   "s15 (19v: argmap, L2, C1)",
+   "s04 (25v: argmap, L2, C1)",
+   "s05 (26v)",
+   "s06 (11v)",
+   "s07 (9v)",
+   "s08 (13v)",
+   "s09 (20v)",
+   "s10 (26v)",
+   "s11 (15v)",
+   "s12 (29v)",
+   "s09 (20v)",
+   "s10 (26v)",
+   "s11 (15v)",
+   "s12 (29v)",
+   "s16 (30v: argmap+L2+C1)",
+   "s17 (48v: argmap+L2+C1)",
+   "s18 (21v: argmap+L2+C1)",
+   "s19 (17v: argmap+L2+C1)",
+   "s20 (21v: argmap+L2+C1)"
+  ],
+  "verses_covered": "450 of 450 (100%)",
+  "gates": "all pairs 0 shared C1/L2; 0 quotes; 0 metacommentary; new argmaps 0 shared vs old files",
+  "remaining": "none — full set complete; next: Ksemaraja Vivrti collation, human review, sing phase",
+  "status": "COMPLETE machine-proposed, needs human review"
+ },
+ "t1_l0_2026_11_01": {
+  "scope": "whole-token T1 + L0, verified vs GRETIL (concat-aligner, order-checked verse by verse)",
+  "s01": "T1-s01.md 342P/0A/0F; all 26v order-verified; sub-0.90 (v17/v18/v20) confirmed sandhi-only by hunk inspection; real fixes: v2/v3/v5/v6x2/v8x2/v11x2/v13/v20-order/v25-keṣucit-split",
+  "s02": "T1-s02.md 265P/0A/0F (header artifact removed); all 29v verified",
+  "convention": "pada-split (one token per pada; LAYERS.md; JSON canonical); pada-pāṭha restoration in glosses; citation forms (visarga restored); wrap-hyphens joined; oṃ excluded",
+  "next": "s06-s20 skeleton fill, then proof_record each",
+  "s03": "T1-s03.md 324P/0A/0F (header artifact removed); all 21v verified",
+  "s04": "T1-s04.md 521P/0A/0F (header artifact removed); all 25v verified; v6 bhinnaṃ/kiṃ fixes",
+  "s05": "T1-s05.md 423P/0A/0F (header [and]- false-positive fixed); all 26v order-verified; sub-0.90 (v3/v10/v12/v15) confirmed sandhi-only; kṣīved/galed + kuṅyāt + aśyatu kept whole + flagged in ledger"
+ },
+ "lore_2026_11_01": "lore/lakshmanjoo-mealtime-yajna-2026-11-01.md: Gita 4.24 mealtime practice + Somananda Sivadrsti-7.103-provisional verse (Siva-bows-to-Siva); bears on tasting verses + bowing passages; argmap-priming only, never C1",
+ "proof_gate_2026_11_01": {
+  "tool": "tools/proof_record.py v1 (adapts sanskritbenchy record envelope to crystal bars)",
+  "records": "proof/proof-s01..s05.json — all PASS",
+  "gates": "L0 0-fail; verse-count match; align>=0.90 or recorded disposition; 0 C1/L2 shared sentences; 0 C1 quotes; all L2 Sanskrit cites byte-exact vs GRETIL (26+29+21+25+26 checked, 0 failures)",
+  "warnings_open": "ledger-gloss drift notes (s01 bhaktisalin-sg, s03 svatantrya, s04 vatsala/aspadam) + C1>700w notes — for human review, non-blocking",
+  "fixes_from_tool": "s04 v6 bhinnaṃ/kiṃ; 4 C1 metacommentary lines rephrased to state matter not document (s02/s03/s04/s05); s05 header false-positive",
+  "killer_bugs_fixed": "loader dropped verse-first-halves (marker only on 2nd line); ledger parser; C1-IAST rule corrected to convention (Sanskrit-in-parens/italic/bold allowed, quotes banned)"
+ },
+ "data_objects_2026_11_01": {
+  "contract": "LAYERS.md (T1 quick-draft+L0 options+argmap+L2 trace+C1 essence+renders), schemas/*.py (5 validators), tools/emit_data.py + validate_song.py + render_md.py",
+  "migrated": "s01-s05 fully (t1/l0/argmap/l2/c1 JSON canonical, 0 schema errors, MD round-trip clean)",
+  "exemplar": "s01-v21-p011 anama: 2 options (nameless t1-draft / of-no-account grammar) + argmap option_choice with reason; status AMBIGUOUS",
+  "proof_B8": "proof_record.py validates data objects as blocking gate; all 5 PASS",
+  "l0_options": "backfilled single-option (chosen=T1 gloss); genuine multi-option forks are new work, flagged in argmaps as found",
+  "argmap_structured": "backfill marked structured:false (prose reconstruction + traces); new argmaps must be structured:true",
+  "stale_vanquished": [
+   "20x T1-SKEL headers -> LAYERS.md contract",
+   "STATUS convention string -> pada-split + JSON canonical",
+   "T1-s01..s05.md frozen headers left byte-identical (historical artifacts per ALIGNMENT.md)",
+   "AGENTS.md: user directive 2026-11-01 appended verbatim; wins over older Per-Work Shape prose"
+  ],
+  "ipvv_review": "ALIGNMENT.md: DAG table (L200 missing=D1 deferred, L2 supplied/fidelity accepted-unpopulated, C1 essence mechanical), benchy support map, strict-superset claim for T1/L0/argmap",
+  "site_emit": "tools/emit_site.py -> site/data/translations/sivastotravali.json (127 verse chunks, all PASS) + site/data/argmaps/sivastotravali/*.md (127); logged in ipvv process/CLAIMS.md for site-lane review; renders beyond standard withheld per T4",
+  "canon": "CANONICAL.md + stack.json v1.0.0 + check.py (CANONICAL: 0 failures); fork axis + argmap scope implemented; anama PARSED+fork:resolved; TENSIONS.json (8 tensions, 2 fixed (T1 scope, T5 fork), 3 accepted (T4 essence-gate, T7 metric-scope, T8 sastra-deferral), 3 queued (T2 derivation, T3 history, T6 witness-hierarchy))",
+  "datatypes": "DATATYPES.json v1.0.0 (16 transforms + 2 worker contracts + global rules); tools/validate_site.py clean (127 chunks); check.py gains contract-valid + site-data steps; CANONICAL: 0 failures",
+  "c1_c2_split": "C1 = sharpest poetic reading (standard essay, canonical). C2 = prompt-reproducible renders (data/<song>.c2.json: style+prompt+model/date+paragraphs+maps_to). s01 ELI5 exemplar migrated with its prompt; c1.py rejects non-standard renders; validate_song checks C2 vs essence; LAYERS/stack/DATATYPES/CANONICAL updated; check.py CANONICAL: 0 failures",
+  "support_chain": "LAYERS.md rewritten: each layer declares what it looks at (T1 lore-primed fast pass; L0 auditable options; argmap whole-verse terse logic over T1+L0+scholarship; L2 translation proper; C1 rasa-aware essence over all levels; C2 prompt renders). C1 gains optional rasa{}. Schemas v1.1.0 (additive). check.py CANONICAL: 0 failures",
+  "canonical_skill": "SKILL.md rewritten as THE only process (support chain, rasa lore step, C1/C2 split, render_c2 flow, check.py gate). lore/rasa/abhinavagupta-rasa-grounding-2026-11-01.md ingested (Abhinavabharati+Locana synthesis, stotra application notes, open questions). check.py CANONICAL: 0 failures"
+ }
+}

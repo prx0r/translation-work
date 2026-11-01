@@ -1,0 +1,117 @@
+{
+ "tsa06-p01": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "TERM_CONSISTENCY",
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    false,
+    "'\u015bakti': mixed renderings ['\u015aakti', 'power']"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'yoga' used in candidate but not in source; 'puru\u1e63a' used in candidate"
+   ]
+  }
+ },
+ "tsa06-p02": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION",
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'\u0101tman' used in candidate but not in source"
+   ]
+  }
+ },
+ "tsa06-p03": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "ABSTENTION",
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'yoga' used in candidate but not in source"
+   ]
+  }
+ },
+ "tsa06-p04": {
+  "deterministic_gate": "BLOCKED",
+  "blocking": [
+   "CITATION_GROUNDING"
+  ],
+  "checks": {
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5\u00d7 source length"
+   ],
+   "COVERAGE": [
+    true,
+    "candidate covers the source"
+   ],
+   "ABSTENTION": [
+    true,
+    "no abstention violation"
+   ],
+   "TERM_CONSISTENCY": [
+    true,
+    "terms consistent"
+   ],
+   "CITATION_GROUNDING": [
+    false,
+    "'yoga' used in candidate but not in source"
+   ]
+  }
+ }
+}

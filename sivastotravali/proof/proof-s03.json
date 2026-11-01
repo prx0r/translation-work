@@ -1,0 +1,82 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "s03",
+ "work": "sivastotravali",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [
+  "LEDGER_GLOSS_MISSING ['svātantrya=autonomy']"
+ ],
+ "source_sha": "39db81e1967889b3",
+ "source_verses": 21,
+ "t1_verses": 21,
+ "l0": {
+  "parsed": 324,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 324
+ },
+ "align": {
+  "min_ratio": 0.833,
+  "sub090": {
+   "10": {
+    "ratio": 0.893,
+    "disposition": "joints-only: ka+iva>keva, syat>syad, atman+adhikena>atmad hikena class splits, order verified 2026-11-01"
+   },
+   "14": {
+    "ratio": 0.859,
+    "disposition": "joints-only: puruso'nyo, yusmacchesa, tvekoniH elisions, order verified 2026-11-01"
+   },
+   "17": {
+    "ratio": 0.893,
+    "disposition": "joints-only: japako'smi, tadaikyatah class splits, order verified 2026-11-01"
+   },
+   "18": {
+    "ratio": 0.833,
+    "disposition": "0.833 joint-density (20 tokens, sato'vasyam class), order verified 2026-11-01"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 1,
+ "c1_words": 544,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 21,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 3,
+  "gloss_missing_in_l2": [
+   "svātantrya=autonomy"
+  ]
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 21,
+   "l0": 324,
+   "argmap": 21,
+   "l2": 21,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "39db81e1967889b3",
+  "t1": "T1-s03.md",
+  "l0": "T1-s03.l0.jsonl",
+  "l2": "L2-s03.md",
+  "c1": "c1/C1-s03.md"
+ }
+}

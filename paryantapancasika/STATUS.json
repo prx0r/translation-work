@@ -1,0 +1,16 @@
+{
+ "work": "paryantapancasika",
+ "updated": "2026-11-01",
+ "next": "human-review",
+ "counts": {
+  "passages": 8,
+  "verses": 51
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-31-paryantapancasika-raw.jsonl",
+ "r2_bytes": 11958,
+ "r2_verified": true,
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ],
+ "notes": "C1 rebuilt 2026-11-01: T1 verified 52/52 vs GRETIL (header corrected), C1.md analytic + C1.v2 lucid condensation distinct from L2 (zero shared, zero quotes), argmap boilerplate tails individualized (zero shared). Lore: GRETIL 52v, Mahanaya word-by-word, Falsafa/Thothica 8-chapter, Yogawiki title note, Timalsina Amrtadistava intro. Needs human review (MACHINE_PROPOSED)."
+}

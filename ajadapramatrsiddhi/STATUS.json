@@ -1,0 +1,16 @@
+{
+ "work": "ajadapramatrsiddhi",
+ "updated": "2026-11-01",
+ "next": "human-review",
+ "counts": {
+  "passages": 3,
+  "verses": 27
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-31-ajadapramatrsiddhi-raw.jsonl",
+ "r2_bytes": 5079,
+ "r2_verified": true,
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ],
+ "notes": "C1 rebuilt 2026-11-01: T1 rebuilt per-word full-verse (285/285 PARSED, 27/27 vs GRETIL KsBhAS numbering; header corrected); v23 saiva, v24 tacchakter/canyaprasiddhita, v9/v22 santabrahma glances noted; argmap vritti-layer corrected (GRETIL Vr = Utpaladeva own; Harabhattas separate); C1.md analytic + C1.v2 kept lucid, zero shared, zero quotes; all gates pass. Needs human review (MACHINE_PROPOSED)."
+}

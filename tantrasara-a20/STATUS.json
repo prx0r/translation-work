@@ -1,0 +1,18 @@
+{
+ "work": "tantrasara-a20",
+ "updated": "2026-10-30",
+ "next": "batch (A20 done; full close passes done)",
+ "counts": {
+  "passages": 4,
+  "verses": 65
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a20-raw.jsonl",
+ "r2_bytes": 44693,
+ "r2_verified": true,
+ "notes": "A20 rebuilt T1+L1+L2",
+ "needs": [
+  "abstention-review",
+  "citation-grounding",
+  "coverage-check"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "work": "sambandhasiddhi",
+ "updated": "2026-10-30",
+ "next": "batch (sambandhasiddhi done)",
+ "counts": {
+  "passages": 3,
+  "verses": 21,
+  "l0_parsed": 3,
+  "l0_ambiguous": 0,
+  "l0_failed": 0
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-sambandhasiddhi-raw.jsonl",
+ "r2_bytes": 23587,
+ "r2_verified": true,
+ "notes": "SOURCE from Muktabodha; 21 verses (Sambandhasiddhi), 3 passages. T1 frozen (3 PARSED). Argmap v2 done (3 per-passage files, lore-primed: Berger 2024, MacCracken 2017/2022, Ratié). L2.v2 done (verse-by-verse plain English). C1.v2 done (final condensation, 100-450w).",
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ]
+}

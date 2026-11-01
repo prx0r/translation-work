@@ -1,0 +1,21 @@
+{
+ "work": "tantrasara-a01",
+ "updated": "2026-10-30",
+ "next": "batch (A01 T1\u2192GATE done)",
+ "counts": {
+  "passages": 1,
+  "verses": 5,
+  "l0_tokens": 233,
+  "l0_parsed": 232,
+  "gate_pass": 0,
+  "gate_blocked": 1
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a01-raw.jsonl",
+ "r2_verified": true,
+ "notes": "ma\u1e45gala + two ignorances + \u015b\u0101stra + one light + 4 means",
+ "r2_bytes": 17598,
+ "needs": [
+  "abstention-review",
+  "citation-grounding"
+ ]
+}

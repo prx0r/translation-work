@@ -1,0 +1,66 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "s02",
+ "work": "sivastotravali",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "eb7d9e0db5f14738",
+ "source_verses": 29,
+ "t1_verses": 29,
+ "l0": {
+  "parsed": 265,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 265
+ },
+ "align": {
+  "min_ratio": 0.807,
+  "sub090": {
+   "20": {
+    "ratio": 0.807,
+    "disposition": "0.807 from 13 elision joints in 22-token verse; order verified token-by-token vs source incl. restored yah, devah, namas|astu 2026-11-01"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 8,
+ "c1_words": 557,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 29,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 9,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 29,
+   "l0": 265,
+   "argmap": 29,
+   "l2": 29,
+   "essence": 3,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "eb7d9e0db5f14738",
+  "t1": "T1-s02.md",
+  "l0": "T1-s02.l0.jsonl",
+  "l2": "L2-s02.md",
+  "c1": "c1/C1-s02.md"
+ }
+}

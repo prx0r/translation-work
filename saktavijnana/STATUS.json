@@ -1,0 +1,17 @@
+{
+ "work": "saktavijnana",
+ "updated": "2026-10-30",
+ "next": "batch (saktavijnana done)",
+ "counts": {
+  "passages": 3,
+  "verses": 30
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-saktavijnana-raw.jsonl",
+ "r2_bytes": 8932,
+ "r2_verified": true,
+ "notes": "30 verses, 3 passages, L200+C1 done, gate run",
+ "needs": [
+  "abstention-review",
+  "citation-grounding"
+ ]
+}
