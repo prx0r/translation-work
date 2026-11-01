@@ -134,3 +134,11 @@ All prior translations (40+ works in this repo + 26 ipvv site translations) are 
 ## The Gate
 
 python3 check.py -> CANONICAL, 0 failures. Run before any commit, after any change.
+
+
+## User Directive 2026-11-01 — Layer Redefinition (verbatim, binding)
+
+*The following is the user's message saved verbatim. It redefines the stack. Where it conflicts
+with older sections above, this directive plus FINAL-PROCESS.md win.*
+
+i think we need like really rigid schemas for l0 and l2 and c1 honestly it should work like this.. t1 is the standard quick translation the ai does over the whole text. l0 is the literal gloss it basically is the options the word could mean like exact precise sanskrit. argmap then looks at sanskrit, t1 and l0 and whole verses in order to translate the verse as sharply as possibly (now understanding the philosophical argument information gained from these 3) from this we can now collapse into our l2 which is plain english translation of the line. then C1 is basically the best rendering capturing the essense of the verse. c1 can also be a gen z reading for example or a poetic reading these can just be different ai skill renders over the top and you can perhaps even prompt the ai to be like give me a suuper basic eli5 or even mathematical or other ones.. i think its worth right now defining / redifiniing these files, their relationship and then formalising teh schmeas again as data objects not md files
