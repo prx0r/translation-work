@@ -1,0 +1,55 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "s02",
+ "work": "ghatakarpara",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "16a5384f807b8dc3",
+ "source_verses": 1,
+ "t1_verses": 1,
+ "l0": {
+  "parsed": 71,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 71
+ },
+ "align": {
+  "min_ratio": 0.412,
+  "sub090": {
+   "1": {
+    "ratio": 0.412,
+    "disposition": "sandhi-only: pada-split compounds (madanasya kṛte niketanānāṃ etc.); order verified by hand"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 35,
+ "c1_words": 444,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 9,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "note": "no canonical JSON yet (MD-only song)"
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "16a5384f807b8dc3",
+  "t1": "T1-s02.md",
+  "l0": "T1-s02.l0.jsonl",
+  "l2": "L2-s02.md",
+  "c1": "c1/C1-s02.md"
+ }
+}

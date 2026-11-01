@@ -114,12 +114,13 @@ def main() -> int:
     ap.add_argument("--song", required=True, help="e.g. s01")
     ap.add_argument("--work", default="sivastotravali")
     ap.add_argument("--disp", default=None, help="JSON {song: {verse: note}} for sub-0.90 dispositions")
+    ap.add_argument("--gretil", default="/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
     args = ap.parse_args()
     root = Path("/root/translation-work")
     w = root / args.work
     song = args.song
     n = int(song[1:])
-    gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
+    gretil = Path(args.gretil)
 
     rec: dict = {"tool": TOOL_VERSION, "song": song, "work": args.work,
                  "date": "2026-11-01", "blocking": [], "warnings": []}
