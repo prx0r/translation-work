@@ -626,3 +626,20 @@ scholarly essay. Scholarship lives in lore/; the argmap is the logical skeleton.
 - Shared argmap sentences: 0 → PASS
 - All other gates: still PASS
 - check.py: CANONICAL, 0 failures
+
+---
+
+## CONCEPT DATABASE TIMING (2026-11-01)
+
+The concept database is built AFTER translation, not during. The flow:
+1. Translation work produces C1 KEY TERMS (Sanskrit terms + glosses).
+2. build_concepts.py reports which terms lack concept files.
+3. lookup_concept.py --create fetches the definition from the trika glossary index
+   and creates a skeleton.
+4. Enrich with sources, rasa, works, related terms (scholarly work, not mechanical).
+5. Commit.
+
+This is post-translation work. During translation, you write KEY TERMS. After
+translation, you build concepts. The concept database is a derivative, not a
+prerequisite. It grows as works are transformed; it does not need to be complete
+before translation begins.
