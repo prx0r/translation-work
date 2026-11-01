@@ -392,3 +392,66 @@ English, not in a commentary about it. No essay. Just the verse, sharper.
 ### Gates after rasa-infused pass
 - Quotes: 0 | broad meta: 0 | shared C1/L2: 0 | shared argmap: 0
 - Schema: 0 errors | Proof: 3/3 PASS | check.py: CANONICAL, 0 failures
+
+---
+
+## RASA-CARRIED PASS (2026-11-01, after web search on rasa in translation)
+
+### What the web search found
+- Patnaik: "the translation may, if necessary, have to use totally different words or
+  figures or configurations in order to successfully evoke similar emotions." Rasa is
+  the guiding principle; the translation must evoke, not just convey.
+- philosophy.institute: "Words in a poem are not primarily vehicles for conveying
+  information or argument. They are instruments for evoking emotional resonance."
+- Rasa has no equivalent in any other language. The closest explanation is "aesthetic relish."
+
+### What changed in L2 (rasa-carried, not decorated)
+- v.1: "Kāma arises in the heart, to kill." → "In the heart, Kāma wakes to kill."
+  (brevity carries the violence; "wakes" > "arises" — more alive, more sudden)
+- v.2: "This, the separated beloved, arises." → "This — the separated beloved — arises."
+  (dash creates the rupture of separation)
+- v.3: "By the cruel one serving a foreign land, you will kill me without him."
+  → "By that cruel one who serves a foreign land, you will kill me — without him."
+  (em-dash isolates "without him" — the ache)
+- v.4: "Release foreign-land love today, or your wife — what is to be said?"
+  → "Release your foreign love today — or your wife: what more is there to say?"
+  (the colon creates the ultimatum)
+- v.5: "The cātaka, thirsty, begs water." → "The cātaka, gasping, begs for rain — and nothing else."
+  ("gasping" > "thirsty" (desperation); "rain" > "water" (the cātaka drinks only rain);
+   "and nothing else" carries the singularity of the thirst)
+- v.6: "The suffering traveler, she is your beloved." → "The suffering traveler — she is your beloved."
+  (dash creates the identification)
+- v.9: "Fallen into sorrow-ocean's water; remembrance of your virtue alone protects her."
+  → "Drowned in sorrow-ocean's water; remembrance of your virtue alone keeps her afloat."
+  ("drowned" > "fallen" (more violent); "keeps her afloat" > "protects her" (more visceral))
+- v.13: "Your flower-looked-at body, I would release, quickly, nīpa, body."
+  → "Your flower-looked-at body — I would release it quickly, nīpa, body."
+  (dash for the pause of surrender)
+- v.18: "Loud roar, water in caves falls, wonderful-formed beauties."
+  → "Loud roar — water in caves falls, wonderful-formed beauties."
+  (dash for the aesthetic close)
+
+### Honest assessment of the rasa-carrying L2
+- The changes are real but small. "gasping" is more desperate than "thirsty." "Drowned"
+  is more violent than "fallen." "Keeps her afloat" is more visceral than "protects."
+  These are word choices that evoke, not just convey.
+- But the gap between "conveying meaning" and "evoking rasa" is still real. The English
+  does not make you feel śṛṅgāra the way the Sanskrit does. The cātaka's thirst in
+  Sanskrit carries cultural resonance (the bird that drinks only rain = the lover who
+  wants only the beloved). In English, "gasping, begs for rain" is closer but still
+  just... English words about a bird.
+- The principle from Patnaik is right: sometimes you need TOTALLY DIFFERENT words/figures/
+  configurations. But in our case, the imagery is fixed (cātaka, cloud, peacock, bee,
+  creeper) and the constraint is traceability. So the rasa must be carried in the English
+  word choice and rhythm within those constraints.
+- This is the best I can do within the constraints. A human reviewer with better English
+  craft could do more. The rasa{} block on C1 is filled but flagged as application.
+- The L2 carries the rasa in the line as best as English allows. The C1 carries the rasa
+  in the argument. Together they are the sharpest version I can produce.
+
+### How I knew this pass was done
+1. All mechanical gates still pass (0 quotes, 0 meta, 0 shared, 0 argmap shared).
+2. Schema validation: 0 errors.
+3. Proof records: 3/3 PASS.
+4. L2 English now uses words that evoke (gasping, drowned, afloat, wakes) not just convey.
+5. check.py: CANONICAL, 0 failures.
