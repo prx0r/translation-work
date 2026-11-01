@@ -40,3 +40,41 @@ Cross-references, scholarly sources, and related terms are added as we encounter
 3. Related terms must exist as files (or be flagged as "not-yet-defined").
 4. No concept file without a C1 KEY TERMS entry pointing at it (and vice versa).
 5. The glossary (site/data/glossary.json) is built FROM concept files, not the other way.
+
+
+## Gold reference: sanskrit-trikashaivism.com Trika Glossary
+
+The glossary at sanskrit-trikashaivism.com is the gold reference for Trika terminology.
+It is organized by Sanskrit alphabet (8 pages):
+- Vowels: /en/trika-glossary-vowels/525
+- Gutturals: /en/trika-glossary-gutturals/526
+- Palatals: /en/trika-glossary-palatals/527
+- Dentals: /en/trika-glossary-dentals/528
+- Labials: /en/trika-glossary-labials/529
+- Semivowels: /en/trika-glossary-semivowels/530
+- Sibilants: /en/trika-glossary-sibilants-and-sonant-aspirate/531
+
+Each entry: Devanagari | IAST | definition (with cross-references to related terms).
+The definitions cross-reference other terms ("Sanskrit terms occurring in the definitions
+have generally their own definition in the Glossary as well"). This IS a knowledge graph:
+nodes = terms, edges = cross-references, properties = definitions.
+
+### How to use it
+
+1. When `build_concepts.py` reports a missing concept, check if it's in the glossary.
+2. Fetch the relevant glossary page (by first letter of the term).
+3. Create a concept file with the glossary definition as the base, then enrich:
+   - Add scholarly sources (Abhinavagupta, Kṣemarāja, etc.)
+   - Add rasa (from C1 rasa block)
+   - Add works (which of our works use this term)
+   - Add related terms (from glossary cross-references + our own)
+   - Add translations (English equivalents + notes)
+4. The concept file is the enriched node; the glossary is the raw node.
+   Our graph is a superset of the glossary graph.
+
+### Do NOT scrape all 100+ terms upfront
+
+That's batchy. Create concept files as we encounter terms in translation. The
+build_concepts.py tool tells us what's missing. Fetch from the glossary on demand.
+Over time, the concept database grows to cover the terms we actually use, with
+scholarly enrichment that the glossary doesn't have.
