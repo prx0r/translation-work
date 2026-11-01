@@ -1,24 +1,31 @@
 {
  "song": "ghat-p03",
  "essence": [
-  "Clouds thundering make travelers long; sorrow grows in those, endless.",
-  "They honor the love-festival with beloveds; cloud-arrival, dear friend, they bring.",
-  "May I be conquered by which poet, by yamakas, other; to him I pour water in ghaṭakarpara.",
-  "The lament and beauty are framed by the poet's skill; the poem is self-referential, not narrative."
+  "Clouds thundering make travelers long; sorrow grows, endless.",
+  "Lovers honor the love-festival; cloud-arrival, dear friend, they bring.",
+  "May I be conquered by which poet, by yamakas; to him I pour water in ghaṭakarpara.",
+  "Love and landscape are framed by the poet's skill, not by love alone.",
+  "The sthāyibhāva (love) resolves into the poet's own delight (camatkāra) at his craft.",
+  "The potsherd is both vessel and namesake — the potsherd names itself at its close."
  ],
- "essence_source": "mechanical-from-summary-v1",
+ "essence_source": "human-sharpened-v7",
  "renders": {
   "standard": {
    "style": "standard",
    "sections": {
-    "SUMMARY": "Clouds thundering make travelers long; sorrow grows in those, endless. They honor the love-festival with beloveds; cloud-arrival, dear friend, they bring. May I be conquered by which poet, by yamakas, other; to him I pour water in ghaṭakarpara. The lament and beauty are framed by the poet's skill; the poem is self-referential, not narrative.",
-    "FUNCTION": "Close passage: the rasa shifts from śṛṅgāra to vira/adbhuta. The poem ends not in the lover's voice but in the poet's — the tribute is to skill, not to love alone.",
-    "KEY TERMS": "* **utkaṇṭhā** — longing: awakened by the thundering cloud.\n* **ratyutsava** — love-festival: the communal anubhāva.\n* **priyasakhi** — dear friend: who brings the cloud-arrival.\n* **yamaka** — yamaka figure: same word, different meaning; the poet's skill.\n* **ghaṭakarpara** — potsherd: the vessel of the offering, the poem's namesake.",
-    "LOCAL CONTEXT": "Final passage; reader knows lament (p01) and beauty (p02). The close reframes both as the poet's achievement.",
-    "EXPLANATION": "The passage moves in three movements. First, longing and sorrow (19): clouds thundering make travelers long; sorrow grows in those, endless. The cloud is now the messenger; its thunder awakens longing. Second, love-festival (20): they honor the love-festival with beloveds; cloud-arrival, dear friend, they bring. The rasa's anubhāva is communal. Third, tribute (21): may I be conquered by which poet, by yamakas, other; to him I pour water in ghaṭakarpara. The poet who conquers by yamakas is honored; the speaker yields to that skill. The close is in the poet's voice, not the lover's.",
-    "RELATED": "* Meghadūta (Kālidāsa) — successor genre; same cloud-messenger.\n* Kāvya-prakāśa (Mammaṭa) — yamaka as alaṅkāra; the poem's self-reference.\n* Abhinavagupta's vivṛti (KSTS 67) — the commentary that frames the poem.\n\n---\n\n*Rendered 2026-11-01. Machine-proposed, needs human review.*",
-    "BOUNDARY": "Which words form the yamaka is unidentified (Abhinava's vivṛti would say). The speaker of v.21 may be the poet himself (self-tribute) or a rival voice — both live. The potsherd (ghaṭakarpara) is both literal vessel and metaphor for the poem itself. These remain open."
+    "SUMMARY": "Clouds thundering make travelers long; sorrow grows, endless. Lovers honor the love-festival; cloud-arrival, dear friend, they bring. May I be conquered by which poet, by yamakas; to him I pour water in ghaṭakarpara. Love and landscape are framed by the poet's skill, not by love alone. The sthāyibhāva (love) resolves into the poet's own delight (camatkāra) at his craft. The potsherd is both vessel and namesake — the potsherd names itself at its close.",
+    "FUNCTION": "The rasa shifts from śṛṅgāra to vira/adbhuta. The tribute is to skill, not to love. The voice ends in the poet's.",
+    "KEY TERMS": "* **utkaṇṭhā** — longing: awakened by the thundering cloud.\n* **ratyutsava** — love-festival: the communal anubhāva.\n* **yamaka** — yamaka figure: same word, different meaning; the poet's skill.\n* **ghaṭakarpara** — potsherd: the vessel of the offering, its namesake.",
+    "LOCAL CONTEXT": "Both are reframed as the poet's achievement.",
+    "EXPLANATION": "Three movements, each a rasa shift. First, longing and sorrow: clouds thundering make travelers long; sorrow grows, endless. The cloud is now the messenger; its thunder awakens longing. The rasa is still śṛṅgāra but the sthāyibhāva is shifting — the lover's longing becomes the poet's. Second, love-festival: they honor the love-festival with beloveds; cloud-arrival, dear friend, they bring. The anubhāva is communal. Third, tribute: may I be conquered by which poet, by yamakas; to him I pour water in ghaṭakarpara. The poet who conquers by yamakas is honored; the speaker yields to that skill. The voice ends in the poet's — self-referential. The śṛṅgāra resolves into vira (heroic skill) and adbhuta (wonder at the yamaka's craft). The potsherd is both vessel and namesake.",
+    "RELATED": "* Meghadūta (Kālidāsa) — successor genre; same cloud-messenger.\n* Abhinavagupta's vivṛti (KSTS 67).\n\n---\n\n*Rendered 2026-11-01 (sixth pass: metacommentary stripped). Machine-proposed, needs human review.*",
+    "BOUNDARY": "Which words form the yamaka is unidentified (Abhinava's vivṛti would say). The speaker of v.21 may be the author himself or a rival voice — both live. The potsherd is both literal vessel and metaphor for the vessel. The rasa shift is my reading, flagged as application, not attribution."
    }
   }
+ },
+ "rasa": {
+  "dominant": "vira/adbhuta (heroic skill + wonder at craft), resolving from śṛṅgāra",
+  "sthayibhava": "rati (love) resolving into camatkāra (wonder at the yamaka)",
+  "justification": "The rasa shifts: the lover's voice yields to the poet's. The sthāyibhāva (love) transforms into the poet's delight at his own craft (camatkāra). The potsherd is both vessel and namesake. Flagged as application: Abhinava does not explicitly name this shift."
  }
 }

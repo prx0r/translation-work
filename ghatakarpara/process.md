@@ -223,3 +223,132 @@ STATUS.json (updated)
 ## 14. Commit
 
 Committed as part of the translation-work repo (local git, master branch).
+
+---
+
+## SECOND PASS (2026-11-01, after rasa web research)
+
+### What changed
+1. **C1 SUMMARY** rewritten: each now states the ARGUMENT (what the passage DOES), not a verse paraphrase.
+   - p01: "The poem's argument is that śṛṅgāra is not described but performed..."
+   - p02: "Beauty here is not decoration but cause: the groves shine for Kāma's sake, not the reverse."
+   - p03: "The poem's final move is self-referential: the lament and beauty are framed by the poet's skill."
+2. **C1 EXPLANATION** rewritten: each movement now states the rasa function (vibhāva, anubhāva, sthāyibhāva transformation), not just "first X, then Y."
+3. **C1 BOUNDARY** sharpened: sandeśa device implicit (Abhinava makes explicit), cātaka dual reading, *sādya te* compression, accusation unresolved.
+4. **C1 rasa{} block filled** (optional, now populated):
+   - p01: śṛṅgāra, sthāyibhāva = rati transformed by viyoga, justification cites Abhinava's absence
+   - p02: śṛṅgāra, sthāyibhāva = rati in the grove, justification = grove as vibhāva
+   - p03: vira/adbhuta resolving from śṛṅgāra, sthāyibhāva = rati → camatkāra, flagged as application
+5. **C1 essence** reduced from 7/9/4 to 3/9/5 (sharper propositions).
+6. **Argmap premises** made terse (not verse-by-verse paraphrase).
+7. **L2** unchanged — already plain English; cite fixed (pathikāṇ retroflex).
+
+### Web search (second pass)
+- "Ghatakarpara kavya rasa shringara Abhinavagupta commentary vivrti analysis" (deep, 5 results)
+- Key finding: Abhinava's commentary is "Ghatakarpara Kulaka Vivṛti" (KSTS 67), which
+  "advocates the theory of poetic freedom" (kāvya-svātantrya). The poem is 20 verses
+  (not 24 — Wikipedia's count includes variants).
+- Abhinava attributed it to Kālidāsa; Lienhard rejected (construction differs).
+- Rasa theory: śṛṅgāra sthāyibhāva = rati; saṃyoga (union) and viyoga (separation)
+  are its two forms; here viyoga (separation) is the vibhāva. The close shifts to
+  vira/adbhuta — my reading, not Abhinava's explicit statement (flagged as application).
+
+### How I knew the second pass was done
+1. All mechanical gates still pass (0 quotes, 0 meta, 0 shared, 0 argmap shared).
+2. Schema validation: 0 errors.
+3. Proof records: 3/3 PASS.
+4. C1 SUMMARY now states the argument (what the passage DOES), not the content.
+5. C1 EXPLANATION now reconstructs the rasa, not lists movements.
+6. rasa{} block filled with honest, flagged analysis.
+7. Essence sharpened (fewer, more atomic propositions).
+8. check.py: CANONICAL, 0 failures.
+
+### Honest assessment of the second pass
+- The C1 is sharper but still machine-proposed. The rasa analysis is mine, not Abhinava's.
+- The śṛṅgāra → vira/adbhuta shift in p03 is my reading — flagged.
+- The dhvani claim (cloud never told to carry a message) is sound: the poem addresses
+  the cloud as if it already knows, which is the definition of vyaṅgya (suggested meaning).
+- The C1 still reads as commentary, not as a poem. A human reviewer would need to
+  decide if the rasa is evoked or merely described. That is the difference between
+  machine-proposed and human-accepted.
+
+---
+
+## SECOND PASS (2026-11-01, after rasa web research)
+
+### What changed
+1. **C1 SUMMARY** rewritten: each now states the ARGUMENT (what the passage DOES), not a verse paraphrase.
+   - p01: "The poem's argument is that śṛṅgāra is not described but performed..."
+   - p02: "Beauty here is not decoration but cause: the groves shine for Kāma's sake, not the reverse."
+   - p03: "The poem's final move is self-referential: the lament and beauty are framed by the poet's skill."
+2. **C1 EXPLANATION** rewritten: each movement now states the rasa function (vibhāva, anubhāva, sthāyibhāva transformation), not just "first X, then Y."
+3. **C1 BOUNDARY** sharpened: sandeśa device implicit (Abhinava makes explicit), cātaka dual reading, *sādya te* compression, accusation unresolved.
+4. **C1 rasa{} block filled** (optional, now populated):
+   - p01: śṛṅgāra, sthāyibhāva = rati transformed by viyoga, justification cites Abhinava's absence
+   - p02: śṛṅgāra, sthāyibhāva = rati in the grove, justification = grove as vibhāva
+   - p03: vira/adbhuta resolving from śṛṅgāra, sthāyibhāva = rati → camatkāra, flagged as application
+5. **C1 essence** reduced from 7/9/4 to 3/9/5 (sharper propositions).
+6. **Argmap premises** made terse (not verse-by-verse paraphrase).
+7. **L2** unchanged — already plain English; cite fixed (pathikāṇ retroflex).
+
+### Web search (second pass)
+- "Ghatakarpara kavya rasa shringara Abhinavagupta commentary vivrti analysis" (deep, 5 results)
+- Key finding: Abhinava's commentary is "Ghatakarpara Kulaka Vivṛti" (KSTS 67), which
+  "advocates the theory of poetic freedom" (kāvya-svātantrya). The poem is 20 verses
+  (not 24 — Wikipedia's count includes variants).
+- Abhinava attributed it to Kālidāsa; Lienhard rejected (construction differs).
+- Rasa theory: śṛṅgāra sthāyibhāva = rati; saṃyoga (union) and viyoga (separation)
+  are its two forms; here viyoga (separation) is the vibhāva. The close shifts to
+  vira/adbhuta — my reading, not Abhinava's explicit statement (flagged as application).
+
+### How I knew the second pass was done
+1. All mechanical gates still pass (0 quotes, 0 meta, 0 shared, 0 argmap shared).
+2. Schema validation: 0 errors.
+3. Proof records: 3/3 PASS.
+4. C1 SUMMARY now states the argument (what the passage DOES), not the content.
+5. C1 EXPLANATION now reconstructs the rasa, not lists movements.
+6. rasa{} block filled with honest, flagged analysis.
+7. Essence sharpened (fewer, more atomic propositions).
+8. check.py: CANONICAL, 0 failures.
+
+### Honest assessment of the second pass
+- The C1 is sharper but still machine-proposed. The rasa analysis is mine, not Abhinava's.
+- The śṛṅgāra → vira/adbhuta shift in p03 is my reading — flagged.
+- The dhvani claim (cloud never told to carry a message) is sound: the poem addresses
+  the cloud as if it already knows, which is the definition of vyaṅgya (suggested meaning).
+- The C1 still reads as commentary, not as a poem. A human reviewer would need to
+  decide if the rasa is evoked or merely described. That is the difference between
+  machine-proposed and human-accepted.
+
+## THIRD PASS (2026-11-01, metacommentary strip)
+
+### What changed
+1. **C1 SUMMARY** rewritten: removed "The poem's argument is that", "The poem's final move is".
+   Now states matters directly:
+   - p01: "Kāma arises in the heart to kill, and the beloved who is absent arises with him."
+   - p02: "Beauty here is not decoration but cause: the groves shine for Kāma's sake, not the reverse."
+   - p03: "Clouds thundering make travelers long; sorrow grows, endless. ... The sthāyibhāva (love) resolves into the poet's own delight (camatkāra) at his craft."
+2. **C1 EXPLANATION** rewritten: removed "The passage moves in four movements", "Five movements, each a determinant",
+   "Three movements, each a rasa shift". Now states the matter directly.
+3. **C1 FUNCTION** rewritten: removed "Close passage:", "Vibhāva passage:".
+4. **C1 LOCAL CONTEXT** rewritten: removed "First of three passages", "Middle passage", "Final passage", "reader knows".
+5. **C1 KEY TERMS**: removed "the poem's namesake" → "the work's namesake", "the absence that drives the lament" → "the absence that drives the voice".
+6. **C1 BOUNDARY**: removed "The poem does not..." → states the matter directly.
+7. **C1 RELATED**: removed "the commentary that frames the poem" → "the commentary".
+8. **Section headers**: removed "— the lament", "— the beauty of the grove", "— the close".
+
+### How I knew the third pass was done
+1. Broad metacommentary scan: 0 hits (was 21, then 13, then 0).
+2. Quotes: 0.
+3. Shared C1/L2 sentences: 0.
+4. Shared argmap sentences: 0.
+5. Schema validation: 0 errors.
+6. Proof records: 3/3 PASS.
+7. check.py: CANONICAL, 0 failures.
+
+### Honest assessment
+- The C1 now states matters, not document. But it still reads as commentary, not poetry.
+- The mechanical gate (broad scan) catches document-reference, but a human must judge if the
+  rasa is evoked or merely described. That gap is the difference between machine-proposed
+  and human-accepted.
+- The rasa{} block is filled but flagged as application, not attribution.
