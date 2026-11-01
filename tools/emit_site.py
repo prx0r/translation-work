@@ -1,16 +1,12 @@
 #!/usr/bin/env python3
-"""tools/emit_site.py — emit the reader's data structures from canonical JSON.
+"""tools/emit_site.py — emit ipvv reader data from canonical JSON (work-agnostic).
 
-  python3 tools/emit_site.py --work sivastotravali
+  python3 tools/emit_site.py --work <work>
 
-Writes (site lane inputs — logged in process/CLAIMS.md for site-lane review):
-  /root/ipvv/site/data/translations/<work>.json   (chunks the reader renders)
-  /root/ipvv/site/data/argmaps/<work>/<chunk>.md  (critical-view argument maps)
-
-One chunk per verse. gate comes from proof/proof-sXX.json — BLOCKED (or unproven)
-verses are emitted with gate BLOCKED and NO English (fail-closed: the reader
-withholds English for non-PASS chunks; missing songs are simply absent).
-Renders beyond standard are local-only until essence is human-reviewed (T4).
+Writes:
+  /root/ipvv/site/data/translations/<work>.json
+  /root/ipvv/site/data/argmaps/<work>/<chunk>.md
+  /root/ipvv/site/data/variants/<work>.json
 """
 from __future__ import annotations
 import argparse, hashlib, json, sys
@@ -24,6 +20,18 @@ def sha(s: str) -> str:
     return hashlib.sha256(s.encode("utf-8")).hexdigest()[:16]
 
 
+def load_passages(work: str) -> dict:
+    out = {}
+    p = ROOT / work / "passages.jsonl"
+    if p.exists():
+        for line in p.read_text(encoding="utf-8").splitlines():
+            if not line.strip():
+                continue
+            o = json.loads(line)
+            out[o["locator"]] = o
+    return out
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--work", default="sivastotravali")
@@ -31,23 +39,19 @@ def main() -> int:
     w = ROOT / args.work
     data = w / "data"
     proofdir = w / "proof"
+    passages = load_passages(args.work)
 
-    with open("/dev/null", "w") as _d:
-        pass
-    sys.path.insert(0, str(ROOT / "tools"))
-    from proof_record import load_gretil_song  # noqa: E402
-
-    gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
     chunks = []
     argdir = SITE / "argmaps" / args.work
     argdir.mkdir(parents=True, exist_ok=True)
     songs = 0
     for t1f in sorted(data.glob("*.t1.json")):
         song = t1f.stem.split(".")[0]
-        n = int(song[1:])
         t1 = json.loads(t1f.read_text())
-        l2 = {o["verse"]: o for o in json.loads((data / f"{song}.l2.json").read_text())}
-        am = {o["verse"]: o for o in json.loads((data / f"{song}.argmap.json").read_text())}
+        l2_path = data / f"{song}.l2.json"
+        am_path = data / f"{song}.argmap.json"
+        l2 = {o["verse"]: o for o in json.loads(l2_path.read_text())} if l2_path.exists() else {}
+        am = {o["verse"]: o for o in json.loads(am_path.read_text())} if am_path.exists() else {}
         prec = proofdir / f"proof-{song}.json"
         proof = json.loads(prec.read_text()) if prec.exists() else {"deterministic_gate": "BLOCKED",
                                                                    "blocking": ["no proof record"],
@@ -56,26 +60,26 @@ def main() -> int:
         needs = proof.get("needs", ["human-review"])
         so = data / f"{song}.signoff.json"
         sign = json.loads(so.read_text()) if so.exists() else None
-        src = load_gretil_song(gretil, n)
+        psg = passages.get(song, {})
+        src_text = psg.get("sanskrit", "")
         for v in t1:
             vn = v["verse"]
-            vid = f"{song}-v{vn:02d}"
-            satext = " ".join(t for t in src.get(vn, []) if t not in ("&",))
+            vid = v["verse_id"]
             l2o = l2.get(vn, {})
             t1o = next((o for o in t1 if o["verse"] == vn), {})
             if gate == "PASS":
-                close = " ".join(t["quick_gloss"] for t in v["tokens"])
-                l1 = f"## {vid} ({vn})\n{close} // UtSst_{n}.{vn}"
+                close = " / ".join(t["quick_gloss"] for t in v["tokens"])
+                l1 = f"## {vid} ({vn})\n{close}"
                 l2t = (l2o.get("plain_english", "") or "").strip()
             else:
                 l1, l2t = "", ""
-            ch = {"chunk": vid, "verses": str(vn), "sanskrit": satext,
+            ch = {"chunk": vid, "verses": str(vn), "sanskrit": src_text if not isinstance(src_text, str) else src_text,
                   "gate": gate, "blocking": proof.get("blocking", []),
-                  "needs": proof.get("needs", ["human-review"]),
+                  "needs": needs,
                   "model": "crystal-v1", "date": proof.get("date", "2026-11-01"),
                   "l1": l1, "l2": l2t,
-                  "links": {"source_file": t1o.get("source_file", "site/data/sanskrit/sivastotravali-u.txt"),
-                            "edition": "GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)",
+                  "links": {"source_file": t1o.get("source_file", f"passages.jsonl"),
+                            "edition": psg.get("source_edition", "canonical"),
                             "source_lines": t1o.get("source_lines")}}
             if sign:
                 ch["accepted_by"] = sign.get("accepted_by")
@@ -101,17 +105,15 @@ def main() -> int:
     npass = sum(1 for c in chunks if c["gate"] == "PASS")
     print(f"{args.work}: {len(chunks)} chunks ({npass} PASS), {songs} songs -> {out}")
     print(f"argmaps -> {argdir}/ ({len(list(argdir.glob('*.md')))} files)")
-    # variants file: every token with its options, so the site can show alternative
-    # morphology/glosses per word. OUR glosses only — witness text never hosted.
+    # variants
     var = []
     for t1f in sorted(data.glob("*.t1.json")):
         song = t1f.stem.split(".")[0]
-        n = int(song[1:])
         prec = proofdir / f"proof-{song}.json"
         pgate = json.loads(prec.read_text()).get("deterministic_gate") if prec.exists() else "BLOCKED"
         l0 = json.loads((data / f"{song}.l0.json").read_text())
         for o in l0:
-            var.append({"chunk": f"{song}-v{int(o['verse_id'].split('-v')[1]):02d}",
+            var.append({"chunk": o["verse_id"],
                         "l0_id": o["id"], "surface": o.get("surface", ""),
                         "citation": o.get("citation", ""), "morph": o.get("morph", ""),
                         "fork": o.get("fork", "none"), "status": o.get("status", ""),
