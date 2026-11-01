@@ -117,7 +117,11 @@ text never hosted.
 10. Run proof_record (PASS/BLOCKED + needs + lineage).
 11. Run qa_vs_witness if a witness is available.
 12. Update STATUS.json (machine-proposed, needs human review).
-13. Commit. Run check.py. Must pass.
+13. Concept pass: run build_concepts.py. For each missing term, create a concept
+    file skeleton (lookup_concept.py --create) and enrich with sources, rasa, works,
+    related terms. This is post-translation work — the concept database is a derivative
+    of the C1 KEY TERMS, not a prerequisite for translation.
+14. Commit. Run check.py. Must pass.
 
 ## Prior translations
 
@@ -125,3 +129,19 @@ All prior translations (40+ works in this repo + 26 ipvv site translations) are 
 lost. They are STAGED — awaiting transformation to gold standard, one by one, with
 peer review and web searches. Each transformation follows the steps above. The
 registry tracks which are done and which are pending.
+
+## Concept database timing
+
+The concept database is built AFTER translation, not during. The flow:
+1. Translation work produces C1 KEY TERMS (Sanskrit terms + glosses).
+2. build_concepts.py reports which terms lack concept files.
+3. lookup_concept.py --create fetches the definition from the trika glossary index
+   and creates a skeleton.
+4. The translator enriches: sources (scholars), rasa (from C1 rasa block), works
+   (which translations use this term), related terms (from glossary cross-refs).
+5. The enriched concept file is committed.
+
+This is post-translation work. During translation, you write KEY TERMS. After
+translation, you build concepts. The concept database is a derivative, not a
+prerequisite. It grows as works are transformed; it does not need to be complete
+before translation begins.
