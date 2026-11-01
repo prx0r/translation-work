@@ -13,22 +13,32 @@ Does the work close in despair or in tribute? What is the rasa of the close?
 **Clouds make travelers long (v.19):** *utkaṇṭhayanti pathikān jaladāḥ svanantaḥ* — clouds
 thundering make travelers long. Cloud = messenger; thunder (svananta) awakens longing (utkaṇṭhā)
 in traveler (pathika). Rasa's vibhāva is now the cloud itself.
+→ feel: the cloud as messenger awakens longing — the rasa shifts from the beloved's voice to
+   the landscape's.
 
 **Sorrow grows (v.19 cont.):** *śoko vivardhati ca tadvinatāsv anantaḥ* — sorrow grows in those,
 endless. vinatā = those bent low; sorrow grows without end.
+→ feel: endless sorrow — but sorrow that grows is still śṛṅgāra (love-in-separation), not
+   despair. The sthāyibhāva (love) holds.
 
 **Love-festival (v.20):** *ratyutsavaṃ priyatamaiḥ saha mānayanti* — they honor love-festival
 with beloveds. Lovers celebrate together — anubhāva is communal.
+→ feel: the communal anubhāva — love is not solitary but shared. The rasa is in the togetherness.
 
 **Cloud-arrival (v.20 cont.):** *meghāgamaṃ priyasakhi śvasamānayanti* — cloud-arrival, dear
 friend, they bring. Messenger is delivered.
+→ feel: the messenger arrives — the sandeśa-kāvya device completes its circuit.
 
 **Tribute (v.21):** *jīyeya yena kavinā yamakaiḥ pareṇa* — may I be conquered by which poet,
 by yamakas, other. Poet who conquers by yamakas (same word, different meaning) is the better
 poet. Speaker yields to that skill.
+→ feel: yield — "may I be conquered" is not defeat but recognition. The rasa shifts from
+   śṛṅgāra to vira (heroic) and adbhuta (wonder at craft).
 
 **Offering (v.21 cont.):** *tasmai vaheyam udakaṃ ghaṭakarpareṇa* — to him I pour water in
 ghaṭakarpara. Offering in potsherd = tribute. Voice shifts from lover to poet.
+→ feel: the offering — water in a potsherd for the poet who surpassed him. The rasa is the
+   poet's own delight (camatkāra) at his craft. The potsherd is both vessel and namesake.
 
 ## 3. What the verse does not resolve
 

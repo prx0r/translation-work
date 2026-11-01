@@ -12,29 +12,35 @@ Is the beloved's lament a complaint or a performance of śṛṅgāra through th
 
 **Kāma arises (vv.1–2):** *manmathe ca hṛdi hantum udyate* — Kāma arises in the heart, to kill.
 *proṣitapramadayedam udyate* — this, the separated beloved, arises.
-→ desire and absence are one event, not two. (Abhinava's vivṛti would confirm the sandeśa
-device; we don't have the text.)
+→ desire and absence are one event, not two.
+→ feel: sudden violence of desire in the tender heart — the rasa is in the abruptness, the
+   heart meeting kill.
 
 **Accusation (v.3):** *nirdayena paradeśasevinā māriṣyatha hi tena māṃ vinā* — by the cruel
 one serving a foreign land, you will kill me without him.
-→ foreign land (paradeśa) is the rival; service abroad is betrayal. (Paradeśa's referent:
-Abhinava's vivṛti would confirm; we don't have the text.)
+→ foreign land (paradeśa) is the rival; service abroad is betrayal.
+→ feel: betrayal spoken aloud; the ache of "without him" — the rasa is in the accusation's rawness.
 
 **Release (v.4):** *anyadeśaratir adya mucyatāṃ sāthavā tava vadhūḥ kim ucyatām* — release
 foreign-land love today, or your wife — what is to be said?
 → abandon the rival or face accusation. Dilemma voiced by the beloved, resolved by the husband.
+→ feel: exasperation, the ultimatum of a woman who has already said everything — the rasa is
+   in the desperation.
 
 **Messenger device (vv.5–6):** *cātakaś ca tṛṣito 'mbu yācate* — cātaka, thirsty, begs water.
 *duḥkhitā pathika sā priyā ca te* — suffering traveler, she is your beloved.
-→ cātaka (drinks only rain) = lover thirsting for beloved; cloud = messenger. (Scholarship:
-cātaka is a standard figure for the lover thirsting for the beloved — sandeśa-kāvya convention.
-Abhinava's vivṛti makes the sandeśa device explicit; the poem leaves it implicit — dhvani.)
+→ cātaka (drinks only rain) = lover thirsting for beloved; cloud = messenger. (Sandeśa-kāvya
+convention: messenger is lowly but essential.)
+→ feel: desperate, singular thirst — the cātaka wants only rain, the lover wants only the
+   beloved. The rasa is in the exclusivity.
 
 **Cloud arrives (vv.7–8):** *ambudaiḥ śikhigaṇo vinādyate* — by clouds peacock-flock sounded.
 *kā ratiḥ priya mayā vinādya te* — what delight, beloved, without me today?
 *toyadāgamakṛśā ca sādya te* — thinned by cloud-arrival, she today.
 *durdhareṇa madanena sādyate* — tormented by hard Kāma.
 → landscape responds to her mood; rasa is not in woman alone but in world answering her.
+→ feel: the world answering the lover's mood — peacocks cry, she thins. The rasa is in the
+   landscape's participation.
 
 **Close of lament (v.9):** *śokasāgarajale ca pātitām* — fallen into sorrow-ocean.
 *tvadguṇasmaraṇam eva pāti tām* — remembrance of virtue protects.
@@ -44,13 +50,16 @@ Abhinava's vivṛti makes the sandeśa device explicit; the poem leaves it impli
 abandon, friend, burning of separation-born sorrow?
 → lament closes in sustaining memory, not despair. Sthāyibhāva (love) transforms sorrow
 (vyabhicāri) into something relishable.
+→ feel: drowning, burning, appeal — then the turn: virtue's memory keeps her afloat. The rasa
+   shifts from śoka to rati.
 
 ## 3. What the verse does not resolve
 
 - "sādya te" (v.8): compression of sādyate or separate reading — kept as-is in T1.
 - cātaka's thirst: literal (bird drinks only rain) or figurative (lover thirsts for beloved)?
   Both readings live; L2 keeps the literal image, lets the figure resonate.
-- Cloud as messenger or witness — sandeśa device implicit, not stated.
+- Cloud as messenger or witness — sandeśa device implicit, not stated. Abhinava's vivṛti
+  makes it explicit; we don't have the text.
 - Paradeśa's referent (v.3): rival land or the husband's location? Abhinava's vivṛti
   would confirm; we don't have the text.
 
