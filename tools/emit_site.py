@@ -62,6 +62,7 @@ def main() -> int:
             vid = f"{song}-v{vn:02d}"
             satext = " ".join(t for t in src.get(vn, []) if t not in ("&",))
             l2o = l2.get(vn, {})
+            t1o = next((o for o in t1 if o["verse"] == vn), {})
             if gate == "PASS":
                 close = " ".join(t["quick_gloss"] for t in v["tokens"])
                 l1 = f"## {vid} ({vn})\n{close} // UtSst_{n}.{vn}"
@@ -73,8 +74,9 @@ def main() -> int:
                   "needs": proof.get("needs", ["human-review"]),
                   "model": "crystal-v1", "date": proof.get("date", "2026-11-01"),
                   "l1": l1, "l2": l2t,
-                  "links": {"source_file": "site/data/sanskrit/sivastotravali-u.txt",
-                            "edition": "GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)"}}
+                  "links": {"source_file": t1o.get("source_file", "site/data/sanskrit/sivastotravali-u.txt"),
+                            "edition": "GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)",
+                            "source_lines": t1o.get("source_lines")}}
             if sign:
                 ch["accepted_by"] = sign.get("accepted_by")
                 ch["accepted_date"] = sign.get("date")

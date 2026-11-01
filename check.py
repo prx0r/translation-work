@@ -144,6 +144,7 @@ def main() -> int:
                ["CANONICAL.md", "LAYERS.md", "ALIGNMENT.md", "TENSIONS.json", "stack.json",
                 "DATATYPES.json", "schemas/__init__.py", "schemas/c2.py",
                 "skills/crystal-ipvv/SKILL.md",
+                "CHAT.md",
                 "lore/rasa/abhinavagupta-rasa-grounding-2026-11-01.md"])
     step("canonical-docs", docs)
 

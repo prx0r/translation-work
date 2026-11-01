@@ -53,35 +53,47 @@ def shared_long(a: list[str], b: list[str], min_words: int = 8) -> list[str]:
 
 def load_gretil_song(gretil: Path, song: int) -> dict[int, list[str]]:
     """GRETIL whitespace tokens per (song, verse). Joins wrap-hyphen continuations; drops oṃ."""
-    text = gretil.read_text(encoding="utf-8")
-    verses: dict[int, list[str]] = {}
-    pending: list[str] = []
-    prev_body = ""
-    for line in text.splitlines():
-        s = line.strip()
-        m = re.search(r"UtSst_%d\.(\d+)" % song, s)
+    return {v: toks for v, (toks, _) in load_gretil_spans(gretil, song).items()}
+
+
+def load_gretil_spans(gretil: Path, song: int) -> dict[int, tuple[list[str], list[int]]]:
+    """GRETIL tokens + 1-based file line-span per (song, verse). The line-span is the
+    chat-citation anchor: verse -> (file, lines). Wrap-hyphen continuations included.
+    Two-pass: marker lines located first, first halves found by scanning back to the
+    previous marker (never leaking across songs)."""
+    raw = gretil.read_text(encoding="utf-8").splitlines()
+    marks: dict[int, int] = {}  # verse -> marker line number
+    for ln, line in enumerate(raw, start=1):
+        m = re.search(r"UtSst_%d\.(\d+)" % song, line)
         if m:
-            v = int(m.group(1))
-            second = s[:m.start()].split("//")[0]
-            first = prev_body
-            toks = [t for t in (first + " " + second).split()
-                    if t and t != "oṃ" and t != "//" and t != "&"]
-            # join wrap-hyphen continuations carried in pending
-            toks = pending + toks
-            pending = []
-            verses[v] = toks
-            prev_body = ""
-            continue
-        if not s or "stotram" in s or s.startswith("#") or s == "oṃ":
-            continue
-        if s.endswith("-"):
-            pending.append(s[:-1]); continue
-        if pending:
-            prev_body = " ".join(pending) + " " + s
-            pending = []
-        else:
-            prev_body = s
-    return verses
+            marks[int(m.group(1))] = ln
+
+    def eligible(s: str) -> bool:
+        s = s.strip()
+        return bool(s) and "stotram" not in s and not s.startswith("#") and s != "oṃ" \
+            and not re.search(r"UtSst_\d+\.\d+", s)
+
+    out: dict[int, tuple[list[str], list[int]]] = {}
+    for v in sorted(marks):
+        M = marks[v]
+        # first half: nearest eligible line above M (plus wrap-hyphen continuations above it)
+        parts, first_ln = [], None
+        i = M - 1
+        while i >= 1:
+            s = raw[i - 1].strip()
+            if not eligible(s):
+                break
+            parts.append(s)
+            first_ln = i
+            if not s.endswith("-"):
+                break
+            i -= 1
+        first = " ".join(p[:-1] if p.endswith("-") else p for p in reversed(parts))
+        second = raw[M - 1][:re.search(r"UtSst_%d\.(\d+)" % song, raw[M - 1]).start()].split("//")[0]
+        toks = [t for t in (first + " " + second).split()
+                if t and t != "oṃ" and t != "//" and t != "&"]
+        out[v] = (toks, [first_ln or M, M])
+    return out
 
 
 def parse_t1(t1: Path) -> dict[int, list[str]]:

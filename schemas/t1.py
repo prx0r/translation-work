@@ -31,6 +31,11 @@ def validate(obj: dict, path: str = "t1") -> list[str]:
         out += validate_token(t, f"{path}.tokens[{i}]")
     if not obj.get("quick_english", "").strip():
         out.append(err(path, "empty quick_english (T1 must face every pada)"))
+    sl = obj.get("source_lines")
+    if sl is not None:
+        if not (isinstance(sl, list) and len(sl) == 2 and all(isinstance(x, int) for x in sl)
+                and sl[0] >= 1 and sl[0] <= sl[1]):
+            out.append(err(path, "source_lines must be [start, end] 1-based GRETIL lines"))
     # history[]: every change to a shipped gloss is recorded, never silently edited.
     # The base is living, but its past is immutable: each entry {gloss, reason, date}.
     for h in obj.get("history", []):

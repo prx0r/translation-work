@@ -31,6 +31,8 @@ CANONICAL_FILES = [
     "tools/proof-disp.json",
     "skills/crystal-ipvv/SKILL.md",
     "lore/rasa/abhinavagupta-rasa-grounding-2026-11-01.md",
+    "CHAT.md",
+    "DATATYPES.json",
 ]
 
 

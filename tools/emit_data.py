@@ -40,6 +40,11 @@ def main() -> int:
     song, n = args.song, int(args.song[1:])
     gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
     src = load_gretil_song(gretil, n)
+    try:
+        from proof_record import load_gretil_spans  # noqa
+        spans = {v: ln for v, (_, ln) in load_gretil_spans(gretil, n).items()}
+    except Exception:
+        spans = {}
     src_sha = sha(" ".join(" ".join(t) for v, t in sorted(src.items())))
     data = w / "data"; data.mkdir(exist_ok=True)
 
@@ -52,6 +57,7 @@ def main() -> int:
         draft = " / ".join(t["gloss"] for t in v["tokens"])
         t1objs.append({"verse_id": vid, "song": song, "verse": v["verse"],
                        "quick_english": draft, "quick_english_source": "mechanical-join-v1",
+                       "source_lines": spans.get(v["verse"]), "source_file": "site/data/sanskrit/sivastotravali-u.txt",
                        "tokens": [{"surface": t["iast"], "quick_gloss": t["gloss"]} for t in v["tokens"]],
                        "source_sha": src_sha})
     (data / f"{song}.t1.json").write_text(json.dumps(t1objs, indent=1, ensure_ascii=False))

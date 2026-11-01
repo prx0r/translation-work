@@ -9,7 +9,7 @@
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-sivastotravali-raw.jsonl",
  "r2_bytes": 119831,
  "r2_verified": true,
- "notes": "450 verses, 20 stotras, 5 passages, L200+C1 done, gate run. Argmap v2 done (5 per-passage files + JSON, lore-primed: Bailly 1987/1995, Moreno Bautista UNAM, Gaeffke & Bailly 1989). L2.v2 done (devotional prose, passage by passage). C1.v2 done (final condensation, 100-450w).",
+ "notes": "450 verses, 20 stotras. CANONICAL: data/*.json per LAYERS.md (schemas v1.1.0); MD is rendered view. s01-s05 full pipeline (T1 342/265/324/521/423 PARSED, argmap, L2, C1, proof PASS, site chunks live). s06-s20: L2 + C1 machine-proposed (verse-level, needs human review); T1+L0 queued. Legacy batch files removed 2026-11-01 (ARGMAP.md, GATE.json, L1.md, L2.md, L2.v2.md, T1-SKEL-s01..s05) — git history preserves them; kept as provenance/audit: T1.md (coarse original cited by T1 headers), L200.md + L200-s01.md (legacy audits), argmaps/sivst-p01..p05.md + argmap.json (passage-scope, T1).",
  "needs": [
   "human-review (MACHINE_PROPOSED)"
  ],
@@ -98,6 +98,8 @@
   "support_chain": "LAYERS.md rewritten: each layer declares what it looks at (T1 lore-primed fast pass; L0 auditable options; argmap whole-verse terse logic over T1+L0+scholarship; L2 translation proper; C1 rasa-aware essence over all levels; C2 prompt renders). C1 gains optional rasa{}. Schemas v1.1.0 (additive). check.py CANONICAL: 0 failures",
   "canonical_skill": "SKILL.md rewritten as THE only process (support chain, rasa lore step, C1/C2 split, render_c2 flow, check.py gate). lore/rasa/abhinavagupta-rasa-grounding-2026-11-01.md ingested (Abhinavabharati+Locana synthesis, stotra application notes, open questions). check.py CANONICAL: 0 failures",
   "scholarly_l0": "fork tokens require analyzed morph (validator-enforced); T1+L0 history[] (validated if present); signoff schema + validate_song integration; proof needs[] (F6: fix-this vs human-review); emit_site needs/acceptance/variants (1875 tokens, site-validated 0 errors); qa_vs_witness (5 checks, SHIP_WITH_NOTES x4 on ledger-vs-witness gaps, SHIP_AS_IS s05); Lakshmanjoo witness vendored to lore/witnesses (450 verses); git init + initial commit 5eb9716 (local only)",
-  "living": "propose.py full loop proven (s01-sug001 accepted w/ support; fork rule fired correctly); variants file live (1875 tokens); links registry (verified URLs); suggestions validated in check.py; T9 accepted; repo has 2 commits"
+  "living": "propose.py full loop proven (s01-sug001 accepted w/ support; fork rule fired correctly); variants file live (1875 tokens); links registry (verified URLs); suggestions validated in check.py; T9 accepted; repo has 2 commits",
+  "cleanup_2026_11_01": "removed 9 superseded files (see notes); kept provenance set; check.py gains no-resurrection guard",
+  "chat_readiness": "DATATYPES serialization policy (docs for sets, lines for streams) + id_scheme; per-verse GRETIL line spans in t1 (source_lines) and site chunks (links.source_lines); variants file live (1875 tokens); CHAT.md retrieval contract (closed world, citation format, answer rules, 4 gaps named); check.py CANONICAL: 0 failures"
  }
 }
