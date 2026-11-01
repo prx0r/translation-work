@@ -1,0 +1,61 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "s16",
+ "work": "sivastotravali",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "f4ee04e7e68989b4",
+ "source_verses": 30,
+ "t1_verses": 30,
+ "l0": {
+  "parsed": 355,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 355
+ },
+ "align": {
+  "min_ratio": 1.0,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 6,
+ "c1_words": 567,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 30,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 30,
+   "l0": 355,
+   "argmap": 30,
+   "l2": 30,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "f4ee04e7e68989b4",
+  "t1": "T1-s16.md",
+  "l0": "T1-s16.l0.jsonl",
+  "l2": "L2-s16.md",
+  "c1": "c1/C1-s16.md"
+ }
+}
