@@ -128,6 +128,24 @@ def main() -> int:
     step("site-data", r4.returncode == 0 and n_err == 0, f"{n_err} errors")
     qa = ROOT / "logs" / "qa" / f"{args.work}.md"
     step("qa-present", qa.exists(), "run tools/qa_vs_witness.py")
+    # concept coverage: gold works must have 100% concept coverage;
+    # legacy works get a warning only (concept files are built during transformation)
+    r5 = subprocess.run([sys.executable, str(ROOT / "tools/build_concepts.py"),
+                         "--work", args.work], capture_output=True, text=True)
+    try:
+        import re as _re
+        m = _re.search(r'"coverage":\s*"([^"]+)"', r5.stdout)
+        cov = m.group(1) if m else "?"
+        missing_m = _re.search(r'"missing \(no concept file\)":\s*\[([^\]]*)\]', r5.stdout)
+        n_miss = 0 if (missing_m and not missing_m.group(1).strip()) else (len(missing_m.group(1).split(",")) if missing_m and missing_m.group(1).strip() else 0)
+        # gold works: concepts must be complete; others: warning only
+        is_gold = args.work in ("ghatakarpara", "spandasandoha")
+        if is_gold:
+            step("concepts", n_miss == 0, f"{cov} coverage, {n_miss} missing")
+        else:
+            print(("PASS " if n_miss == 0 else "WARN ") + f"concepts — {cov} coverage, {n_miss} missing (legacy work, transform to gold for full coverage)")
+    except Exception as e:
+        step("concepts", False, str(e))
     try:
         sys.path.insert(0, str(ROOT / "schemas"))
         import suggestion as _sug
