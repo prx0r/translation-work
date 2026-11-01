@@ -3,48 +3,20 @@
  "song": "s09",
  "work": "sivastotravali",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v7 ratio=0.778",
-  "ALIGN_NODISP v13 ratio=0.823",
-  "ALIGN_NODISP v17 ratio=0.803",
-  "ALIGN_NODISP v19 ratio=0.832",
-  "ALIGN_NODISP v20 ratio=0.889",
-  "DATA_OBJECTS 40 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "source_sha": "9f87c66080851513",
  "source_verses": 20,
  "t1_verses": 20,
  "l0": {
-  "parsed": 155,
+  "parsed": 175,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 155
+  "tokens": 175
  },
  "align": {
-  "min_ratio": 0.778,
-  "sub090": {
-   "7": {
-    "ratio": 0.778,
-    "disposition": null
-   },
-   "13": {
-    "ratio": 0.823,
-    "disposition": null
-   },
-   "17": {
-    "ratio": 0.803,
-    "disposition": null
-   },
-   "19": {
-    "ratio": 0.832,
-    "disposition": null
-   },
-   "20": {
-    "ratio": 0.889,
-    "disposition": null
-   }
-  }
+  "min_ratio": 1.0,
+  "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
@@ -60,51 +32,10 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "argmap[s09-v07].traces: l0_id s09-v07-p011 does not exist",
-   "argmap[s09-v07].traces: l0_id s09-v07-p012 does not exist",
-   "argmap[s09-v07].traces: l0_id s09-v07-p013 does not exist",
-   "argmap[s09-v07].traces: l0_id s09-v07-p014 does not exist",
-   "argmap[s09-v07].traces: l0_id s09-v07-p015 does not exist",
-   "argmap[s09-v07].traces: l0_id s09-v07-p016 does not exist",
-   "argmap[s09-v09].traces: l0_id s09-v09-p012 does not exist",
-   "argmap[s09-v09].traces: l0_id s09-v09-p013 does not exist",
-   "argmap[s09-v10].traces: l0_id s09-v10-p008 does not exist",
-   "argmap[s09-v13].traces: l0_id s09-v13-p007 does not exist",
-   "argmap[s09-v13].traces: l0_id s09-v13-p008 does not exist",
-   "argmap[s09-v17].traces: l0_id s09-v17-p007 does not exist",
-   "argmap[s09-v17].traces: l0_id s09-v17-p008 does not exist",
-   "argmap[s09-v17].traces: l0_id s09-v17-p009 does not exist",
-   "argmap[s09-v19].traces: l0_id s09-v19-p011 does not exist",
-   "argmap[s09-v19].traces: l0_id s09-v19-p012 does not exist",
-   "argmap[s09-v19].traces: l0_id s09-v19-p013 does not exist",
-   "argmap[s09-v19].traces: l0_id s09-v19-p014 does not exist",
-   "argmap[s09-v20].traces: l0_id s09-v20-p007 does not exist",
-   "argmap[s09-v20].traces: l0_id s09-v20-p008 does not exist",
-   "l2[s09-v07]: l0_id s09-v07-p011 does not exist",
-   "l2[s09-v07]: l0_id s09-v07-p012 does not exist",
-   "l2[s09-v07]: l0_id s09-v07-p013 does not exist",
-   "l2[s09-v07]: l0_id s09-v07-p014 does not exist",
-   "l2[s09-v07]: l0_id s09-v07-p015 does not exist",
-   "l2[s09-v07]: l0_id s09-v07-p016 does not exist",
-   "l2[s09-v09]: l0_id s09-v09-p012 does not exist",
-   "l2[s09-v09]: l0_id s09-v09-p013 does not exist",
-   "l2[s09-v10]: l0_id s09-v10-p008 does not exist",
-   "l2[s09-v13]: l0_id s09-v13-p007 does not exist",
-   "l2[s09-v13]: l0_id s09-v13-p008 does not exist",
-   "l2[s09-v17]: l0_id s09-v17-p007 does not exist",
-   "l2[s09-v17]: l0_id s09-v17-p008 does not exist",
-   "l2[s09-v17]: l0_id s09-v17-p009 does not exist",
-   "l2[s09-v19]: l0_id s09-v19-p011 does not exist",
-   "l2[s09-v19]: l0_id s09-v19-p012 does not exist",
-   "l2[s09-v19]: l0_id s09-v19-p013 does not exist",
-   "l2[s09-v19]: l0_id s09-v19-p014 does not exist",
-   "l2[s09-v20]: l0_id s09-v20-p007 does not exist",
-   "l2[s09-v20]: l0_id s09-v20-p008 does not exist"
-  ],
+  "errors": [],
   "counts": {
    "t1": 20,
-   "l0": 155,
+   "l0": 175,
    "argmap": 20,
    "l2": 20,
    "essence": 2,
@@ -116,14 +47,9 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v13",
-  "fix: word-order/gloss vs source for v17",
-  "fix: word-order/gloss vs source for v19",
-  "fix: word-order/gloss vs source for v20",
-  "fix: word-order/gloss vs source for v7"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "9f87c66080851513",
