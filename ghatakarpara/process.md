@@ -455,3 +455,39 @@ English, not in a commentary about it. No essay. Just the verse, sharper.
 3. Proof records: 3/3 PASS.
 4. L2 English now uses words that evoke (gasping, drowned, afloat, wakes) not just convey.
 5. check.py: CANONICAL, 0 failures.
+
+---
+
+## RASA-CARRYING PRINCIPLE (2026-11-01, after user review)
+
+### The rule
+Rasa in translation is not synonym-swapping. It is choosing English that evokes the same
+emotional response as the Sanskrit. The test: does the English make the reader FEEL what
+the Sanskrit makes the sahṛdaya feel?
+
+### The before/after (with reasons derived from the Sanskrit)
+
+| Verse | Sanskrit rasa | Before (flat) | After (rasa-carried) | Why the change evokes the rasa |
+|-------|---------------|---------------|----------------------|-------------------------------|
+| v.1 | Violence of desire in tenderness | "Kāma arises in the heart, to kill." | "In the heart, Kāma wakes to kill." | "wakes" > "arises" (more sudden, more alive); brevity (7 words) = the violence of the arising. The dash creates the rupture: Kāma wakes — then the killing. |
+| v.2 | Absence as presence | "This, the separated beloved, arises." | "This — the separated beloved — arises." | Em-dash isolates "the separated beloved" — the absence becomes a presence, set apart, almost whispered. |
+| v.3 | Accusation, betrayal | "By the cruel one serving a foreign land, you will kill me without him." | "By that cruel one who serves a foreign land, you will kill me — without him." | "that cruel one" > "the cruel one" (more pointed); em-dash isolates "without him" — the ache of separation. |
+| v.4 | Ultimatum | "Release foreign-land love today, or your wife — what is to be said?" | "Release your foreign love today — or your wife: what more is there to say?" | Colon creates the ultimatum; "what more is there to say?" carries the exasperation of a woman who has already said everything. |
+| v.5 | Desperate, singular thirst | "The cātaka, thirsty, begs water." | "The cātaka, gasping, begs for rain — and nothing else." | "gasping" > "thirsty" (desperation); "rain" > "water" (the cātaka drinks only rain — the singularity of the thirst); "and nothing else" carries the lover's exclusive wanting. |
+| v.6 | Identification | "The suffering traveler, she is your beloved." | "The suffering traveler — she is your beloved." | Dash creates the identification: the traveler IS the beloved, set apart as revelation. |
+| v.9 | Drowning, burning, appeal | "Fallen into sorrow-ocean's water; remembrance of your virtue alone protects her." | "Drowned in sorrow-ocean's water; remembrance of your virtue alone keeps her afloat." | "drowned" > "fallen" (more violent, more final); "keeps her afloat" > "protects her" (more visceral — afloat in the ocean, not just protected). |
+| v.13 | Surrender | "Your flower-looked-at body, I would release, quickly, nīpa, body." | "Your flower-looked-at body — I would release it quickly, nīpa, body." | Dash creates the pause of surrender before the release. |
+| v.18 | Aesthetic close | "Loud roar, water in caves falls, wonderful-formed beauties." | "Loud roar — water in caves falls, wonderful-formed beauties." | Dash creates the rupture (camatkāra) before the aesthetic close. |
+
+### The rule (added to SKILL.md as non-negotiable)
+Each rasa-carrying change must be justified by the Sanskrit verse's rasa:
+- If the verse is about longing → the language is yearning-weighted
+- If the verse is about violence → the language is abrupt, short, violent
+- If the verse is about beauty → the language is sensuous, not flat
+- If the verse is about surrender → the language pauses, yields
+- If the verse is about wonder → the language opens, expands
+
+The justification is not "this word sounds better." It is "this word evokes the rasa that the Sanskrit evokes, because [specific reason tied to the verse's sthāyibhāva]."
+
+### "flower-looked-at body" (v.13)
+The Sanskrit is *puṣpanirīkṣitāpadeham* — a compound: puṣpa (flower) + nirīkṣita (looked at) + apadeham (body). The "flower-looked-at body" is the beloved's body as seen/looked at by flowers — the flowers gaze at her, she is the object of their gaze. The compound is ambiguous (flower-looked-at body vs. body looked at by flowers) — both readings live (BOUNDARY in C1). The English "flower-looked-at body" preserves the compound's ambiguity while carrying the image: her body, looked at by flowers, released to the bees. The rasa is surrender (visṛjeyaṃ = I would release), and the English carries it through the dash (pause of surrender) before "I would release it."

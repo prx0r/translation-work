@@ -233,3 +233,28 @@ gloss of one word is right); training our task (Gītā register ≠ stotra regis
 single-gold format has nowhere to put a fork); any claim about Trika doctrine
 (Gītā golds carry Vedāntic renderings — running term checks against them would
 flag correct Trika readings). Use the slice, never the bulk, for anything load-bearing.
+
+---
+
+## Rasa-carrying in L2 (the before/after that matters)
+
+*From ghatakarpara second pass. The principle: rasa in translation means choosing English that
+evokes the same emotional response as the Sanskrit. Not synonym swaps. Not punctuation.
+Words and configurations that make the reader FEEL what the Sanskrit makes the sahṛdaya feel.
+Each change must be justified by the verse's rasa (sthāyibhāva), not by "this sounds better."*
+
+| Verse | Rasa | Before (flat) | After (rasa-carried) | Why |
+|-------|------|---------------|----------------------|-----|
+| v.1 | violence of desire in tenderness | "Kāma arises in the heart, to kill." | "In the heart, Kāma wakes to kill." | "wakes" > "arises" (more sudden, more alive); brevity (7 words) = the violence of the arising. |
+| v.2 | absence as presence | "This, the separated beloved, arises." | "This — the separated beloved — arises." | Em-dash isolates "the separated beloved" — the absence becomes a presence, set apart. |
+| v.3 | accusation, betrayal | "By the cruel one serving a foreign land, you will kill me without him." | "By that cruel one who serves a foreign land, you will kill me — without him." | "that cruel one" > "the cruel one" (more pointed); em-dash isolates "without him" — the ache. |
+| v.4 | ultimatum | "Release foreign-land love today, or your wife — what is to be said?" | "Release your foreign love today — or your wife: what more is there to say?" | Colon creates the ultimatum; "what more is there to say?" carries the exasperation. |
+| v.5 | desperate, singular thirst | "The cātaka, thirsty, begs water." | "The cātaka, gasping, begs for rain — and nothing else." | "gasping" > "thirsty" (desperation); "rain" > "water" (cātaka drinks only rain); "and nothing else" carries the singularity of the thirst. |
+| v.6 | identification | "The suffering traveler, she is your beloved." | "The suffering traveler — she is your beloved." | Dash creates the identification: the traveler IS the beloved. |
+| v.9 | drowning, burning, appeal | "Fallen into sorrow-ocean's water; remembrance of your virtue alone protects her." | "Drowned in sorrow-ocean's water; remembrance of your virtue alone keeps her afloat." | "drowned" > "fallen" (more violent); "keeps her afloat" > "protects her" (more visceral). |
+| v.13 | surrender | "Your flower-looked-at body, I would release, quickly, nīpa, body." | "Your flower-looked-at body — I would release it quickly, nīpa, body." | Dash creates the pause of surrender before the release. |
+| v.18 | aesthetic close | "Loud roar, water in caves falls, wonderful-formed beauties." | "Loud roar — water in caves falls, wonderful-formed beauties." | Dash creates the rupture (camatkāra) before the aesthetic close. |
+
+**"flower-looked-at body" (v.13):** The Sanskrit is *puṣpanirīkṣitāpadeham* — puṣpa (flower) + nirīkṣita (looked at) + apadeham (body). The compound is ambiguous (flower-looked-at body vs. body looked at by flowers) — both readings live (BOUNDARY in C1). The English "flower-looked-at body" preserves the compound's ambiguity while carrying the image: her body, looked at by flowers, released to the bees. The rasa is surrender (visṛjeyaṃ = I would release), and the English carries it through the dash (pause of surrender) before "I would release it."
+
+**The rule:** Each change must be justified by the Sanskrit verse's rasa. "This word sounds better" is not a reason. "This word evokes the rasa the Sanskrit evokes, because [specific reason tied to the sthāyibhāva]" is a reason.

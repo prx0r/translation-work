@@ -73,4 +73,9 @@ prompts all the way down. Skip a layer and every layer above it is ungrounded.*
 - A verse half missing from T1 invalidates everything downstream — re-derive from the fixed T1.
 - Uncertainty is marked in place (obscure compounds, open antecedents, undecodable chronograms), never smoothed over and never invented around.
 - A fork with no grounds is an invention. A render with no maps_to is drift. An answer with no trace is not an answer.
+- Rasa in L2 is not decoration. Each word choice must be justified by the verse's rasa:
+  if the verse is about longing, the language is yearning-weighted; if about violence, abrupt;
+  if about beauty, sensuous; if about surrender, yielding; if about wonder, opening.
+  "This word sounds better" is not a reason. "This word evokes the rasa the Sanskrit evokes,
+  because [specific reason tied to the sthāyibhāva]" is a reason. See EXAMPLES.md (rasa section).
 - Small, sharp, finished beats big, batchy, and approximate. If in doubt, shrink the scope, never the standard.
