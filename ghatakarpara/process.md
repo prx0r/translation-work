@@ -491,3 +491,107 @@ The justification is not "this word sounds better." It is "this word evokes the 
 
 ### "flower-looked-at body" (v.13)
 The Sanskrit is *puṣpanirīkṣitāpadeham* — a compound: puṣpa (flower) + nirīkṣita (looked at) + apadeham (body). The "flower-looked-at body" is the beloved's body as seen/looked at by flowers — the flowers gaze at her, she is the object of their gaze. The compound is ambiguous (flower-looked-at body vs. body looked at by flowers) — both readings live (BOUNDARY in C1). The English "flower-looked-at body" preserves the compound's ambiguity while carrying the image: her body, looked at by flowers, released to the bees. The rasa is surrender (visṛjeyaṃ = I would release), and the English carries it through the dash (pause of surrender) before "I would release it."
+
+---
+
+## PEER REVIEW vs SCHOLARLY TAKES (2026-11-01)
+
+### Scholarly facts consulted
+- Wikipedia/owiki: Ghatakarparakāvya = earliest sandeśa-kāvya (messenger poem), 24 stanzas,
+  5 metres, love-lorn woman's lament to the monsoon cloud. Sandeśa-kāvyas are "always in
+  two parts": part 1 = hero presented, messenger appears, route described; part 2 =
+  destination, heroine's grief, message, identification mark.
+- Abhinavagupta (KSTS 67, "Ghatakarpara Kavya of Kalidasa with the Commentary of
+  Abhinavagupta", ed. Madhusudan Kaul Shastri): wrote a vivṛti; attributed the poem to
+  Kālidāsa; "advocates the theory of poetic freedom" (kāvya-svātantrya).
+- Siegfried Lienhard: rejected the Kālidāsa attribution (construction differs).
+- Abhinava's rasa theory: śṛṅgāra sthāyibhāva = rati; viyoga (separation) is one of
+  two forms (saṃyoga/viyoga); sahrdaya relish through dhvani; śāntarasa as ninth.
+
+### What our argmaps got right (scholarly alignment)
+
+1. **Sandeśa device as dhvani** — the cloud is never told to carry a message; it is
+   addressed as if it already knows. Abhinava's vivṛti makes this explicit. Our reading
+   matches: "This is dhvani: the cloud is never told to carry a message." ✓
+2. **Śṛṅgāra as sthāyibhāva** — love (rati) in separation (viyoga) is the rasa.
+   Wikipedia/scholarship: the genre's core is love-in-separation. ✓
+3. **Landscape as vibhāva** — the natural world answers the lover's mood (peacocks,
+   clouds, bees, creepers). Scholarship: sandeśa-kāvya "combines themes of love and
+   separation with descriptions of the landscapes of the natural world." ✓
+4. **Close as self-referential tribute** — v.21's yamaka tribute shifts from śṛṅgāra
+   to vira/adbhuta. Scholarship: the poem "mentions at the end the name of Ghatakarpara."
+   The self-naming at the close is the poet's claim to skill. ✓
+5. **Uncertainties honest** — yamaka unidentified, speaker of v.21 open, potsherd as
+   literal/metaphor. Scholarship doesn't resolve these either. ✓
+
+### What our argmaps missed (scholarly gaps)
+
+1. **Two-part sandeśa-kāvya structure not explicitly mapped.** Wikipedia: "always in
+   two parts" — part 1 = hero, messenger, route; part 2 = destination, heroine's grief,
+   message, identification mark. Our 3 passages (lament/beauty/close) don't map to this.
+   The lament (p01) is part 1 (hero + messenger); beauty (p02) is part 1 (route/landscape);
+   close (p03) is beyond the standard two-part structure (the poet's self-reference).
+   **Fix needed:** note that the poem follows the two-part structure for vv.1–20 and
+   breaks it at v.21 with the self-referential tribute — this IS the kāvya-svātantrya
+   (poetic freedom) that Abhinava's vivṛti advocates.
+
+2. **Metre changes not discussed.** 5 different metres in 21/24 verses. The metre
+   changes likely signal structural shifts (lament in one metre, beauty in another,
+   close in a third). We don't mention metre at all. **Fix needed:** add metre notes
+   to argmaps if the edition identifies them.
+
+3. **Abhinava's vivṛti specifics not engaged.** We cite "advocates poetic freedom" but
+   don't say what that means for THIS poem. The vivṛti makes the sandeśa device explicit
+   (we note this) but also presumably comments on the yamaka, the authorship, and the
+   rasa. We should note that Abhinava's specific claims are UNVERIFIED by us (we don't
+   have the vivṛti text). **Fix needed:** add "Abhinava's specific claims on this poem
+   are unverified — we have the vivṛti's existence, not its text" to the unresolved list.
+
+4. **Kalidāsa attribution debate not engaged in argmaps.** We mention it in lore but not
+   in the argmaps. It's relevant to the close (v.21): if Abhinava thought Kālidāsa
+   wrote it, the tribute to "a better poet" (v.21) might be Abhinava's way of praising
+   Kālidāsa's skill. Or it might be the poet's own claim. **Fix needed:** add to
+   ghat-p03 unresolved: "whether the attribution debate (Abhinava: Kālidāsa; Lienhard:
+   no) affects the reading of v.21's tribute."
+
+5. **The kuṭaja mockery reading could be sharper.** We said "affectionate or satirical?"
+   Scholarship: the sandeśa-kāvya convention is that the messenger is lowly but essential
+   (cloud, wind, peacock). The kuṭaja's small flowers being mocked by showy blossoms,
+   with the poet siding with the humble tree, is an argument about what deserves praise —
+   humility over ostentation. This is the same argument as the cātaka (a bird that
+   drinks only rain, not any water) and the cloud (a common thing, made messenger).
+   **Fix needed:** note the pattern: humble messenger (cātaka, kuṭaja, cloud) vs. showy
+   elements (flowers, peacocks). The poet sides with the humble.
+
+### What our argmaps got wrong (or overstated)
+
+1. **"The poem's answer: the lament IS the rasa"** — this is our framing, not
+   scholarship's. Scholarship says the sandeśa-kāvya's rasa is śṛṅgāra, and the lament
+   is the vibhāva (determinant). Our formulation ("the lament IS the rasa") conflates
+   vibhāva with rasa. The rasa is the relish; the lament is what evokes it. **Fix:**
+   rephrase to "the lament is the vibhāva (determinant) of śṛṅgāra, not a description
+   of it."
+
+2. **"The close reframes both as the poet's achievement"** — this is our reading, not
+   scholarship's. Scholarship says the poem "mentions at the end the name of Ghatakarpara."
+   Our claim that the close is "self-referential" is plausible but not verified.
+   **Fix:** flag as application, as we already do for the rasa shift.
+
+3. **Missing: the identification mark.** Sandeśa-kāvyas have an "identification mark"
+   (a private incident known only to lover and beloved) to assure the messenger is
+   genuine. Our argmaps don't look for this. It might be the "bow of Indra" image
+   (v.11) or the peacock's tail (v.11) — a private reference. **Fix needed:** add to
+   unresolved: "identification mark (private incident known to lover/beloved) — not
+   clearly identified; Abhinava's vivṛti would say."
+
+### Summary: argmap quality assessment
+
+Our argmaps are **scholarly-aligned on the big picture** (sandeśa device as dhvani,
+śṛṅgāra as rasa, landscape as vibhāva, close as self-referential) but **miss several
+scholarly specifics** (two-part structure mapping, metre changes, Abhinava's specific
+claims, identification mark, Kalidāsa attribution's relevance to v.21). The fixes
+are small (add notes, rephrase one line) and would make the argmaps genuinely
+scholarly rather than merely scholarly-flavored.
+
+The argmaps are GOOD. They are not GREAT. The gap is engagement with Abhinava's
+vivṛti specifics, which we can't do without the text.
