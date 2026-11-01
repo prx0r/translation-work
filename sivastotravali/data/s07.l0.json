@@ -1431,31 +1431,8 @@
   "verse_id": "s07-v07",
   "pada_index": 8,
   "surface": "yatra",
-  "legacy_raw": "[and]-where (yatra)",
+  "legacy_raw": "[and]-outside (yatra)",
   "citation": "yatra",
-  "morph": "",
-  "morph_unknown": true,
-  "options": [
-   {
-    "gloss": "where",
-    "note": "backfilled from T1 gloss",
-    "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
-   }
-  ],
-  "chosen_index": 0,
-  "status": "PARSED",
-  "fork": "none"
- },
- {
-  "id": "s07-v07-p009",
-  "legacy_id": "T1:s07-v07:T9",
-  "verse_id": "s07-v07",
-  "pada_index": 9,
-  "surface": "bahiḥ",
-  "legacy_raw": "[and]-outside (bahiḥ)",
-  "citation": "bahiḥ",
   "morph": "",
   "morph_unknown": true,
   "options": [
@@ -1472,18 +1449,41 @@
   "fork": "none"
  },
  {
-  "id": "s07-v07-p010",
-  "legacy_id": "T1:s07-v07:T10",
+  "id": "s07-v07-p009",
+  "legacy_id": "T1:s07-v07:T9",
   "verse_id": "s07-v07",
-  "pada_index": 10,
-  "surface": "pratīkṣante",
-  "legacy_raw": "[and]-wait (pratīkṣante)",
-  "citation": "pratīkṣante",
+  "pada_index": 9,
+  "surface": "bahiḥ",
+  "legacy_raw": "[and]-wait (bahiḥ)",
+  "citation": "bahiḥ",
   "morph": "",
   "morph_unknown": true,
   "options": [
    {
     "gloss": "wait",
+    "note": "backfilled from T1 gloss",
+    "rank": 1,
+    "source": "t1-draft",
+    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none"
+ },
+ {
+  "id": "s07-v07-p010",
+  "legacy_id": "T1:s07-v07:T10",
+  "verse_id": "s07-v07",
+  "pada_index": 10,
+  "surface": "pratīkṣante",
+  "legacy_raw": "[and]-they (pratīkṣante)",
+  "citation": "pratīkṣante",
+  "morph": "",
+  "morph_unknown": true,
+  "options": [
+   {
+    "gloss": "they",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
