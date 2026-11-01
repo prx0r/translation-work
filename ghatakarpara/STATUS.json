@@ -1,27 +1,27 @@
 {
- "work": "ghatakarpara",
- "updated": "2026-11-01",
- "next": "human-review (MACHINE_PROPOSED) — all gates pass, awaiting signoff",
- "counts": {
-  "passages": 3,
-  "verses": 21,
-  "l0_tokens": 180
- },
- "notes": "21 verses, 3 passages, kavya + Abhinava vivrti. Crystal rebuild 2026-11-01: T1 per-pada 180 tokens (85+71+24), L0 180/180 PARSED, 3 argmaps (verse-specific lore, 0 shared), L2 21 verses, C1 3 passages (0 quotes, 0 meta, 0 shared with L2). Proof 3/3 PASS. All 7 mistake rules PASS. Process log: process/LOG.md + process.md.",
- "needs": [
-  "human-review (MACHINE_PROPOSED)",
-  "emit_site generalization (T8)",
-  "qa_vs_witness (no witness vendored)"
- ],
- "data_objects": {
-  "schema": "schemas v1.1.0",
-  "files": [
-   "data/ghat-p01..p03.{t1,l0,argmap,l2,c1}.json"
+  "work": "ghatakarpara",
+  "updated": "2026-11-01",
+  "next": "human-review (MACHINE_PROPOSED) \u2014 all gates pass, awaiting signoff",
+  "counts": {
+    "passages": 3,
+    "verses": 21,
+    "l0_tokens": 180
+  },
+  "notes": "21 verses, 3 passages, kavya + Abhinava vivrti. Crystal rebuild 2026-11-01: T1 per-pada 180 tokens (85+71+24), L0 180/180 PARSED, 3 argmaps (verse-specific lore, 0 shared), L2 21 verses, C1 3 passages (0 quotes, 0 meta, 0 shared with L2). Proof 3/3 PASS. All 7 mistake rules PASS. Process log: process/LOG.md + process.md. L0 morph analyzed (180 tokens, 0 unknown). T1 pada-split (already). L2 rasa-carried. Peer review done. FULLY HAND-CRAFTED.",
+  "needs": [
+    "human-review (MACHINE_PROPOSED)",
+    "emit_site generalization (T8)",
+    "qa_vs_witness (no witness vendored)"
   ],
-  "validation": "0 errors (t1/l0/argmap/l2/c1) for all 3 passages",
-  "proof": "proof/proof-s01..s03.json — 3/3 PASS, needs=[human-review]"
- },
- "rasa": "śṛṅgāra (erotic love-in-separation) p01-p02, shifting to vira/adbhuta in p03 (poet's tribute)",
- "lore": "sandesha-kavya precursor (Wikipedia/owiki), KSTS 67 (Abhinava vivrti), Abhinava attribution rejected by Lienhard",
- "mistake_review": "all 7 rules PASS (0 quotes, 0 meta, 0 shared C1/L2, 180 tokens vs 158 source words, 0 shared argmap, 3 uncertainties per passage, one work)"
+  "data_objects": {
+    "schema": "schemas v1.1.0",
+    "files": [
+      "data/ghat-p01..p03.{t1,l0,argmap,l2,c1}.json"
+    ],
+    "validation": "0 errors (t1/l0/argmap/l2/c1) for all 3 passages",
+    "proof": "proof/proof-s01..s03.json \u2014 3/3 PASS, needs=[human-review]"
+  },
+  "rasa": "\u015b\u1e5b\u1e45g\u0101ra (erotic love-in-separation) p01-p02, shifting to vira/adbhuta in p03 (poet's tribute)",
+  "lore": "sandesha-kavya precursor (Wikipedia/owiki), KSTS 67 (Abhinava vivrti), Abhinava attribution rejected by Lienhard",
+  "mistake_review": "all 7 rules PASS (0 quotes, 0 meta, 0 shared C1/L2, 180 tokens vs 158 source words, 0 shared argmap, 3 uncertainties per passage, one work)"
 }
