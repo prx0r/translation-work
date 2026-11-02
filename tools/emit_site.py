@@ -15,13 +15,17 @@ def sha(s: str) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--work", default="sivastotravali")
+    ap.add_argument("--songs", default="",
+                    help="comma list to emit a subset, e.g. s01,s02 (songs whose T1 is genuinely glossed)")
     args = ap.parse_args()
+    want = {s.strip() for s in args.songs.split(",") if s.strip()} or None
     w = ROOT / args.work
     data = w / "data"
     proofdir = w / "proof"
 
     sys.path.insert(0, str(ROOT / "tools"))
     from proof_record import load_gretil_song  # noqa: E402
+    from emit_site_general import clean_site_sanskrit  # noqa: E402
 
     gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
     chunks = []
@@ -30,6 +34,8 @@ def main() -> int:
     songs = 0
     for t1f in sorted(data.glob("*.t1.json")):
         song = t1f.stem.split(".")[0]
+        if want is not None and song not in want:
+            continue
         n = int(song[1:])
         t1 = json.loads(t1f.read_text())
         l2 = {o["verse"]: o for o in json.loads((data / f"{song}.l2.json").read_text())}
@@ -46,11 +52,11 @@ def main() -> int:
         for v in t1:
             vn = v["verse"]
             vid = f"{song}-v{vn:02d}"
-            satext = " ".join(t for t in src.get(vn, []) if t not in ("&",))
+            satext = clean_site_sanskrit(" ".join(t for t in src.get(vn, []) if t not in ("&",)))
             l2o = l2.get(vn, {})
             t1o = next((o for o in t1 if o["verse"] == vn), {})
             if gate == "PASS":
-                close = " ".join(t["quick_gloss"] for t in v["tokens"])
+                close = " / ".join(t["quick_gloss"] for t in v["tokens"])
                 l1 = f"## {vid} ({vn})\n{close} // UtSst_{n}.{vn}"
                 l2t = (l2o.get("plain_english", "") or "").strip()
             else:

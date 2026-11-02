@@ -1,11 +1,27 @@
 #!/usr/bin/env python3
 """tools/emit_site_general.py — publish non-sivastotravali canonical works to ipvv."""
 from __future__ import annotations
-import argparse, hashlib, json, sys
+import argparse, hashlib, json, re, sys
 from pathlib import Path
 
 ROOT = Path("/root/translation-work")
 SITE = Path("/root/ipvv/site/data")
+
+
+def clean_site_text(s: str) -> str:
+    """Site display text: strip trailing translator fidelity footer
+    (*Fidelity: ... Added: ... Not-resolved: ...) — provenance that lives
+    in translation-work data + proof records, not in the reading lane."""
+    return re.sub(r"\s*\*Fidelity:.*$", "", s or "", flags=re.S).strip()
+
+
+def clean_site_sanskrit(s: str) -> str:
+    """Drop trailing source-sigil tails (e.g. '|| AgAna_5'), bare verse-number
+    brackets ('[1]') and '+' sandhi-join markers that some passages rows
+    carry — the locator/edition fields hold provenance."""
+    s = re.sub(r"\|\|\s*[A-Za-z][A-Za-z0-9_'\-]*\s*$", "", s or "").strip()
+    s = re.sub(r"\s*\[\d+\]", "", s)
+    return s.replace("+", "").strip()
 
 
 def load_passages(work: str) -> dict:
@@ -45,11 +61,16 @@ def main() -> int:
         am = {o["verse"]: o for o in json.loads(am_path.read_text())} if am_path.exists() else {}
         prec = proofdir / f"proof-{song}.json"
         if not prec.exists():
-            # fallback: by index among sorted proof files
+            # fallback: by index among sorted proof files — ONLY when counts
+            # match 1:1 (else indices misalign and a verse inherits another
+            # verse's proof: anu-p02 would PASS on anu-p05's record).
+            # Otherwise fail closed: no proof record -> BLOCKED below.
+            t1files = sorted(data.glob("*.t1.json"))
             cands = sorted(proofdir.glob("proof-*.json"))
-            idx = sorted(data.glob("*.t1.json")).index(t1f)
-            if idx < len(cands):
-                prec = cands[idx]
+            if len(cands) == len(t1files):
+                idx = t1files.index(t1f)
+                if idx < len(cands):
+                    prec = cands[idx]
         proof = json.loads(prec.read_text()) if prec.exists() else {"deterministic_gate": "BLOCKED",
                                                                    "blocking": ["no proof record"],
                                                                    "date": "2026-11-01"}
@@ -58,7 +79,7 @@ def main() -> int:
         so = data / f"{song}.signoff.json"
         sign = json.loads(so.read_text()) if so.exists() else None
         psg = passages.get(song, {})
-        src_text = psg.get("sanskrit", "")
+        src_text = clean_site_sanskrit(psg.get("sanskrit", ""))
         for v in t1:
             vn = v["verse"]
             vid = v["verse_id"]
@@ -67,7 +88,7 @@ def main() -> int:
             if gate == "PASS":
                 close = " / ".join(t["quick_gloss"] for t in v["tokens"])
                 l1 = f"## {vid} ({vn})\n{close} // {psg.get('locator', song)}"
-                l2t = (l2o.get("plain_english", "") or "").strip()
+                l2t = clean_site_text((l2o.get("plain_english", "") or "").strip())
             else:
                 l1, l2t = "", ""
             ch = {"chunk": vid, "verses": str(vn), "sanskrit": src_text,
