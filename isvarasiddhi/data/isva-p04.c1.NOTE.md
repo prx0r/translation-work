@@ -38,3 +38,5 @@ v31 hemistich (cd lost); nothing restored. v36 na-scope held open (fencing will 
 ## RELATED
 
 Nyāya sahakārin/kāraṇa analysis; Sāṅkhya pariṇāma; Ajad (consciousness must make); Vyas 1989.
+
+Full key-terms line: kumbhakāra (potter) · svabhāva (own-nature) · sahakārin (helpers) · prajñā (wisdom) · cikīrṣā (will-to-make) · arthanīyatva (end-led-ness) · aṇulakṣaṇa (atomic-mark) · icchā (will)

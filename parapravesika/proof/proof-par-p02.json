@@ -1,0 +1,62 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "par-p02",
+ "work": "parapravesika",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "6d7619f20795d9c2",
+ "source_verses": 1,
+ "t1_verses": 1,
+ "l0": {
+  "parsed": 67,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 67
+ },
+ "align": {
+  "min_ratio": 0.934,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 76,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 1,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 1,
+   "l0": 67,
+   "argmap": 1,
+   "l2": 1,
+   "l3": 1,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "6d7619f20795d9c2",
+  "t1": "T1-par-p02.md",
+  "l0": "T1-par-p02.l0.jsonl",
+  "l2": "L2-par-p02.md",
+  "c1": "c1/C1-par-p02.md"
+ }
+}

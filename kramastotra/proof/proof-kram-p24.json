@@ -1,0 +1,62 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kram-p24",
+ "work": "kramastotra",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "2faf94b89ec500d5",
+ "source_verses": 1,
+ "t1_verses": 1,
+ "l0": {
+  "parsed": 17,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 17
+ },
+ "align": {
+  "min_ratio": 0.971,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 6,
+ "c1_words": 32,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 1,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 1,
+   "l0": 17,
+   "argmap": 1,
+   "l2": 1,
+   "l3": 1,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "2faf94b89ec500d5",
+  "t1": "T1-kram-p24.md",
+  "l0": "T1-kram-p24.l0.jsonl",
+  "l2": "L2-kram-p24.md",
+  "c1": "c1/C1-kram-p24.md"
+ }
+}

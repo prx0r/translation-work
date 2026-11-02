@@ -5,7 +5,7 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 92,
- "gold": 11,
+ "gold": 18,
  "partial": 0,
  "pending": 84,
  "works": [
@@ -29,11 +29,12 @@
   },
   {
    "work": "bhairavanukarana",
-   "status": "legacy (old format, needs transformation to gold standard)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 48,
+   "note": "2026-11-02: full gold pipeline (T1/L0 515 tokens/argmap/L2/C1/L3 48/48, 5 songs), validate+proof PASS x5, L3 couplets handcrafted+reviewed; Gnoli ed. authority; QA NEEDS_WITNESS"
   },
   {
    "work": "bhairavastava",
@@ -45,19 +46,21 @@
   },
   {
    "work": "bodhapancadasika",
-   "status": "legacy (old format, needs transformation to gold standard)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 15,
+   "note": "2026-11-02: full gold pipeline (T1/L0 153 tokens/argmap/L2/C1/L3 15/15), validate+proof PASS x15, L3 couplets handcrafted; QA NEEDS_WITNESS; Academy/Mahānaya witnesses compared"
   },
   {
    "work": "bodhavilasa",
-   "status": "legacy (old format, needs transformation to gold standard)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 41,
+   "note": "2026-11-02: full gold pipeline (T1/L0 373 tokens/argmap/L2/C1/L3 41/41, 5 songs; print jumps 13->15, v12 double-marked, maṅgala+colophon scoped), validate+proof PASS x5, L3 couplets handcrafted+reviewed; QA NEEDS_WITNESS"
   },
   {
    "work": "ghatakarpara",
@@ -77,19 +80,21 @@
   },
   {
    "work": "parapravesika",
-   "status": "legacy (old format, needs transformation to gold standard)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": "prose 9 passages",
+   "note": "2026-11-02: full gold pipeline (T1/L0 1116 tokens/argmap/L2/C1/L3 9/9), validate+proof PASS x9, L3 transmission handcrafted; QA NEEDS_WITNESS; Sauḥ/etad sharpenings from Pradipaka"
   },
   {
    "work": "paryantapancasika",
-   "status": "legacy (old format, needs transformation to gold standard)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 52,
+   "note": "2026-11-02: full gold pipeline (T1/L0 625 tokens/argmap/L2/C1/L3 52/52, 8 songs), validate+proof PASS x8, L3 couplets handcrafted+reviewed; no-43-marker + invocation scoped; QA NEEDS_WITNESS"
   },
   {
    "work": "sivastotravali",
@@ -128,11 +133,12 @@
   },
   {
    "work": "kramastotra",
-   "status": "tier-3 (needs full rebuild)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 30,
+   "note": "2026-11-02: full gold pipeline (T1/L0 573 tokens/argmap/L2/C1/L3 30/30), validate+proof PASS x30, L3 couplets handcrafted+reviewed; v24 hemistich recovered, v26 fork live, SD/variant grounds; QA NEEDS_WITNESS"
   },
   {
    "work": "mahopadeshavimshatika",
@@ -184,11 +190,12 @@
   },
   {
    "work": "phrdaya",
-   "status": "legacy (old format, needs transformation to gold standard)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 20,
+   "note": "2026-11-02: full gold pipeline (T1/L0 47 tokens/argmap/L2/C1/L3 20/20, 5 songs), validate+proof PASS x5, L3 couplets handcrafted; siddhi-triple gloss revised with reason; QA NEEDS_WITNESS"
   },
   {
    "work": "ptvmadhyama",

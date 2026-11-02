@@ -1,0 +1,5 @@
+# Parāprāveśikā par-p02 (light is awareness-natured) — L2 READ
+
+## v.2
+The supreme Lord, here, is made of light — and light is made of awareness. An objector asks: granted He is light by nature, why should He not be bare knowing, the way the calm-brahman teachers have it? The answer specifies awareness two ways — bounded and boundless — so that the bounded knower of the void does not put a ceiling on consciousness-light. In creating, awareness wears the world's shape; in sustaining, it shines the world forth; in withdrawing, it takes all back into itself — everywhere the thrill of a full and complete I. Awareness, in short, is the flash of an I that was never put together — through world-shaping, world-lighting, world-dissolving. And if that awareness were missing, lordlessness and deadness would follow — as sunlight, which lacks awareness, leans on something else to shine and sinks to the side of the inert.
+The Sanskrit: *iha khalu parameśvaraḥ prakāśātmā, prakāśaśca | vimarśasvabhāvaḥ, vimarśo | akṛtrimāham iti visphuraṇam | nirvimarśaḥ syāt anīśvaro jaḍaśca*

@@ -1,0 +1,62 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "bhair-p03",
+ "work": "bhairavanukarana",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "ddcd251bf36e911c",
+ "source_verses": 10,
+ "t1_verses": 10,
+ "l0": {
+  "parsed": 101,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 101
+ },
+ "align": {
+  "min_ratio": 0.939,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 60,
+ "c1_words": 187,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 10,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 10,
+   "l0": 101,
+   "argmap": 10,
+   "l2": 10,
+   "l3": 10,
+   "essence": 10,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "ddcd251bf36e911c",
+  "t1": "T1-bhair-p03.md",
+  "l0": "T1-bhair-p03.l0.jsonl",
+  "l2": "L2-bhair-p03.md",
+  "c1": "c1/C1-bhair-p03.md"
+ }
+}

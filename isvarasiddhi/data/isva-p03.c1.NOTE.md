@@ -41,3 +41,5 @@ v23cd pivot read as siddhāntin's programmatic question (answered v24); dismissa
 ## RELATED
 
 Sāṅkhya Kārikā (pradhāna/puruṣārtha/satkārya); Nyāya nimitta/upādāna divide; ĪPK on pradhāna; Ajad (consciousness must ground); Vyas 1989.
+
+Full key-terms line: pradhāna (primal-matter) · puruṣārtha (person-aim) · nimitta (mover) · bīja (seed) · karma (work) · rahas/natva (secret crux)

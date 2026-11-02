@@ -1,0 +1,62 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "bod-p11",
+ "work": "bodhapancadasika",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "00019aeff7794a23",
+ "source_verses": 1,
+ "t1_verses": 1,
+ "l0": {
+  "parsed": 12,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 12
+ },
+ "align": {
+  "min_ratio": 0.945,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 9,
+ "c1_words": 52,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 1,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 1,
+   "l0": 12,
+   "argmap": 1,
+   "l2": 1,
+   "l3": 1,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "00019aeff7794a23",
+  "t1": "T1-bod-p11.md",
+  "l0": "T1-bod-p11.l0.jsonl",
+  "l2": "L2-bod-p11.md",
+  "c1": "c1/C1-bod-p11.md"
+ }
+}

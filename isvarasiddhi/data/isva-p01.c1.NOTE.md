@@ -39,3 +39,5 @@ vv3-4 are remnants: prorito unattested, ṭato and cite isolated, leading/traili
 ## RELATED
 
 Nyāya design inference (potter-pot; Matilal's potter-model; SEP/IEP hetu/dṛṣṭānta apparatus) — adopted and outflanked. Ratié 2016 (purpose of the Īśvarasiddhi). Dharmakīrti's hetu-critique in background (PV). Ajad (knower must be sentient — the maker here must be conscious). Sambandha (relation needs the binder — arrangement's unity). Vyas 1989 (third witness). Torella IPK (Nyāya categories demolished then exceeded).
+
+Full key-terms line: kartṛ/hetu/dṛṣṭānta (maker/reason/example) · saṃniveśaviśeṣa (distinct array) · tanvādi (bodies) · buddhi (consciousness) · vaicitrya (variety) · anvaya (agreement) · pakṣadharma (thesis-property)

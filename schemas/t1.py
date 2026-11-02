@@ -17,6 +17,12 @@ def validate_token(t: dict, path: str) -> list[str]:
         out.append(err(path, "empty surface"))
     if not t.get("quick_gloss"):
         out.append(err(path, "empty quick_gloss"))
+    # MD-safety: [and]-gloss (surface) lines are parsed by regex downstream
+    # (proof_record.parse_t1, render_md); parens inside either field corrupt
+    # the parse (phrdaya v01 precedent). Keep glosses paren-free.
+    for f in ("surface", "quick_gloss"):
+        if any(c in str(t.get(f, "")) for c in "()"):
+            out.append(err(path, f"{f} contains parens (breaks [and]-MD parsing)"))
     return out
 
 

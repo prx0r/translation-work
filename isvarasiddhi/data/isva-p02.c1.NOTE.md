@@ -39,3 +39,5 @@ v13's mid-gap (eva…) unpressed. atrocyate kept as verse-opening reply-formula 
 ## RELATED
 
 Sāṅkhya Kārikā eye-argument background; Nyāya smoke-fire dṛṣṭānta (SEP/IEP); Dharmakīrti svalakṣaṇa doctrine refused (PV I); ĪPK on fitness (aucitya); Sambandha (helpers/upakāra mechanics, its home ground); Vyas 1989.
+
+Full key-terms line: aucitya (fitness) · dhūma/vahni (smoke/fire) · svalakṣaṇa (particular) · vivecana (sifting) · sahakārin (helpers) · prasara (spread)

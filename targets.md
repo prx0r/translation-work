@@ -1,38 +1,39 @@
 # TARGETS — crystal queue (one at a time)
 
-*Rewritten 2026-11-02: prior edition (2026-11-01) was stale — it listed old-format works as gold, showed anubhavanivedana/paramarthacarca as "no repo dir", and sivastotravali as partial. "Gold" below = canonical data pipeline (T1/L0/argmap/L2/C1/L3 JSON + validate + proof PASS), matching REGISTRY.json. Old-format works with full legacy pipelines are ranked as transform candidates, shortest first.*
+*Updated 2026-11-02 (Tier 1 complete, 18 gold). Rewritten earlier 2026-11-02: prior edition (2026-11-01) was stale — it listed old-format works as gold, showed anubhavanivedana/paramarthacarca as "no repo dir", and sivastotravali as partial. "Gold" below = canonical data pipeline (T1/L0/argmap/L2/C1/L3 JSON + validate + proof PASS), matching REGISTRY.json. Old-format works with full legacy pipelines are ranked as transform candidates, shortest first.*
 
-## Gold (done — 11 works, canonical pipeline)
+## Gold (done — 18 works, canonical pipeline)
 
 | # | Work | Verses | Audio |
-|---|------|--------|-------|
+|---|---|------|--------|
 | 1 | spandasandoha | 2 | — |
 | 2 | anubhavanivedana | 4 | — |
 | 3 | pancashloki | 5 | — |
 | 4 | anuttarastika | 8 | ✓ |
 | 5 | paramarthacarca | 8 | — |
 | 6 | bhairavastava | 10 | ✓ |
-| 7 | ghatakarpara | 21 | — |
-| 8 | sambandhasiddhi | 23 | — |
-| 9 | ajadapramatrsiddhi | 27 | — |
-| 10 | isvarasiddhi | 56 | — |
-| 11 | sivastotravali | 450 (20 songs) | — |
+| 7 | bodhapancadasika | 15 | — |
+| 8 | phrdaya | 20 (5 songs) | — |
+| 9 | ghatakarpara | 21 | — |
+| 10 | sambandhasiddhi | 23 | — |
+| 11 | ajadapramatrsiddhi | 27 | — |
+| 12 | kramastotra | 30 | — |
+| 13 | bodhavilasa | 41 (5 songs; print jumps 13→15) | — |
+| 14 | bhairavanukarana | 48 | — |
+| 15 | paryantapancasika | 52 | — |
+| 16 | isvarasiddhi | 56 | — |
+| 17 | parapravesika | prose, 9 passages | — |
+| 18 | sivastotravali | 450 (20 songs) | — |
 
-## Queue — Tier 1: transform (legacy pipeline present, shortest first)
+## Queue — Tier 1: TRANSFORM COMPLETE 2026-11-02
 
-Old-format T1/L2/argmaps/c1/passages exist; job = canonical data objects per song + validate + proof + handcrafted L3, per AGENTS.md "How to Transform a Legacy Work".
+All seven Tier-1 works transformed to gold this session (parapravesika, bodhapancadasika, phrdaya, kramastotra, bodhavilasa, bhairavanukarana, paryantapancasika). Notable cruxes logged in data NOTEs: v24 hemistich recovered (krama), kalayantī emendation + live fork (krama v26), print jumps (bodhavilasa 13→15), double-marked v12 (bodhavilasa), missing 43-marker (paryanta), siddhi-triple revision (phrdaya).
 
-| # | Work | Size | State |
-|---|------|------|-------|
-| 12 | parapravesika | prose, 9 passages | built end-to-end 2026-11-01, needs human-review + transform — **NEXT** |
-| 13 | bodhapancadasika | 15 | legacy old-format |
-| 14 | phrdaya | 20 verses, 5 passages | raw verified 2026-10-31 |
-| 15 | kramastotra | 30 verses, 30 passages | tier-3, needs rebuild |
-| 16 | bodhavilasa | 42 | legacy old-format |
-| 17 | bhairavanukarana | 47 verses, 5 passages | needs human-review |
-| 18 | paryantapancasika | 52 | legacy old-format |
+## Queue — Tier 2: verify / rebuild — **NEXT**
 
-## Queue — Tier 2: verify / rebuild
+Next target: paramarthasara (104 verses, verify-only) — smallest lift with repo present.
+
+## Queue — Tier 2 detail: verify / rebuild
 
 | # | Work | Size | State |
 |---|------|------|-------|

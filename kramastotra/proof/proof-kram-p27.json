@@ -1,0 +1,62 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kram-p27",
+ "work": "kramastotra",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "f98775add3f7b52b",
+ "source_verses": 1,
+ "t1_verses": 1,
+ "l0": {
+  "parsed": 23,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 23
+ },
+ "align": {
+  "min_ratio": 0.965,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 6,
+ "c1_words": 40,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 1,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 1,
+   "l0": 23,
+   "argmap": 1,
+   "l2": 1,
+   "l3": 1,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "f98775add3f7b52b",
+  "t1": "T1-kram-p27.md",
+  "l0": "T1-kram-p27.l0.jsonl",
+  "l2": "L2-kram-p27.md",
+  "c1": "c1/C1-kram-p27.md"
+ }
+}

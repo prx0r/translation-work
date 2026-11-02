@@ -121,25 +121,16 @@ def main() -> int:
     song = args.song
     SIVA_DEFAULT = "/root/ipvv/site/data/sanskrit/sivastotravali-u.txt"
     try:
-        from workcfg import WORKS as _WORKS, song_verses as _song_verses, parse_utajp, parse_sambandha, parse_isvara
+        from workcfg import WORKS as _WORKS, song_verses as _song_verses, source_spans as _source_spans
     except ImportError:
         _WORKS = {}
-    if args.work in _WORKS and _WORKS[args.work].get("kind") == "utajp":
+        _source_spans = None
+    _all = _source_spans(args.work) if _source_spans else None
+    if _all is not None:
         gretil = Path(_WORKS[args.work]["source"])
-        _spans = parse_utajp(gretil)
         _want = set(_song_verses(args.work, song))
-        _src_full = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+        _src_full = {v: toks for v, toks in _all.items() if v in _want}
         src = _src_full
-    elif args.work in _WORKS and _WORKS[args.work].get("kind") == "sambandha":
-        gretil = Path(_WORKS[args.work]["source"])
-        _spans, _ = parse_sambandha(gretil)
-        _want = set(_song_verses(args.work, song))
-        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
-    elif args.work in _WORKS and _WORKS[args.work].get("kind") == "isvara":
-        gretil = Path(_WORKS[args.work]["source"])
-        _spans, _ = parse_isvara(gretil)
-        _want = set(_song_verses(args.work, song))
-        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
     else:
         n = int(song[1:])
         gretil = Path(args.gretil)

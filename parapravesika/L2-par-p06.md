@@ -1,0 +1,5 @@
+# Parāprāveśikā par-p06 (the alphabet-I and the thirty-six) — L2 READ
+
+## v.6
+And so — His essence being the full grasp of I, woven of the mass of sounds — supreme Śiva Himself is the whole display in thirty-six levels. The mass of sounds is the heap of letters from a to ha, pregnant with the entire world — the full I-grasp of the form "I alone, light-natured, in the shining," freedom resting with no other face to look to. And a level of reality is this: the one undivided shine that makes divided families into families — as hill and tree and town all show the form of earth, and river and lake and sea the form of water. The thirty-six: Śiva, power, eternal Śiva, the Lord, pure knowledge, illusion, art, knowing, passion, time, necessity, the person, nature, intellect, ego, mind, the five senses of knowing, the five senses of doing, the five subtles, the five gross elements.
+The Sanskrit: *evaṃ ca śabdarāśimayapūrṇāhantāparāmarśasāratvāt | tasya bhāvastattvam iti bhinnānāṃ vargāṇāṃ vargīkaraṇanimittaṃ yadekamavibhaktaṃ bhāti tattattvam,*

@@ -1,0 +1,62 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "pary-p02",
+ "work": "paryantapancasika",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "a5033ae231c2c7fd",
+ "source_verses": 7,
+ "t1_verses": 7,
+ "l0": {
+  "parsed": 81,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 81
+ },
+ "align": {
+  "min_ratio": 0.958,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 36,
+ "c1_words": 149,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 7,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 7,
+   "l0": 81,
+   "argmap": 7,
+   "l2": 7,
+   "l3": 7,
+   "essence": 7,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "a5033ae231c2c7fd",
+  "t1": "T1-pary-p02.md",
+  "l0": "T1-pary-p02.l0.jsonl",
+  "l2": "L2-pary-p02.md",
+  "c1": "c1/C1-pary-p02.md"
+ }
+}

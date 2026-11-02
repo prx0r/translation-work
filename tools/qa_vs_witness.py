@@ -66,23 +66,15 @@ def main() -> int:
     songs = sorted(p.stem.split(".")[0] for p in data.glob("*.t1.json"))
     report = [f"# QA vs witness: {args.work} vs {witness_note}", ""]
     overall = []
-    # per-work source resolution (one canonical code path): workcfg kinds first,
+    # per-work source resolution (one canonical code path): workcfg first,
     # sivastotravali song-numbered fallback last.
-    _spans = None
-    if _cfg is not None and _cfg.get("kind") in ("utajp", "sambandha", "isvara"):
-        from workcfg import parse_utajp, parse_sambandha, parse_isvara
-        _src_path = Path(_cfg["source"])
-        if _cfg["kind"] == "utajp":
-            _spans = parse_utajp(_src_path)
-        elif _cfg["kind"] == "sambandha":
-            _spans, _ = parse_sambandha(_src_path)
-        else:
-            _spans, _ = parse_isvara(_src_path)
+    from workcfg import source_spans as _source_spans
+    _all = _source_spans(args.work)
     for song in songs:
-        if _spans is not None:
+        if _all is not None:
             from workcfg import song_verses as _sv
             _want = set(_sv(args.work, song))
-            src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+            src = {v: toks for v, toks in _all.items() if v in _want}
             n = None
         else:
             n = int(song[1:])

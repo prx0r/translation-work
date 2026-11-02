@@ -46,19 +46,11 @@ def main() -> int:
     l2 = json.loads((data / f"{song}.l2.json").read_text())
     c1 = json.loads((data / f"{song}.c1.json").read_text())
 
-    from workcfg import WORKS as _WORKS, song_verses as _song_verses, parse_utajp, parse_sambandha, parse_isvara
-    if args.work in _WORKS and _WORKS[args.work].get("kind") == "utajp":
-        _spans = parse_utajp(Path(_WORKS[args.work]["source"]))
+    from workcfg import WORKS as _WORKS, song_verses as _song_verses, source_spans as _source_spans
+    _all = _source_spans(args.work)
+    if _all is not None:
         _want = set(_song_verses(args.work, song))
-        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
-    elif args.work in _WORKS and _WORKS[args.work].get("kind") == "sambandha":
-        _spans, _ = parse_sambandha(Path(_WORKS[args.work]["source"]))
-        _want = set(_song_verses(args.work, song))
-        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
-    elif args.work in _WORKS and _WORKS[args.work].get("kind") == "isvara":
-        _spans, _ = parse_isvara(Path(_WORKS[args.work]["source"]))
-        _want = set(_song_verses(args.work, song))
-        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+        src = {v: toks for v, toks in _all.items() if v in _want}
     else:
         n = int(song[1:])
         _src_path = _WORKS.get(args.work, {}).get(
