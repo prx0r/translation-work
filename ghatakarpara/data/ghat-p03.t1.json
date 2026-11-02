@@ -1,12 +1,10 @@
 [
  {
-  "verse_id": "ghat-p03",
+  "verse_id": "ghat-p03-v19",
   "song": "ghat-p03",
-  "verse": 1,
-  "quick_english": "make-long / travelers / clouds / thundering / sorrow / grows / and / in-those / endless / love-festival / with-beloveds / they-honor / cloud-arrival / dear-friend / they-bring / may-I-be-conquered / by-which / poet / by-yamakas / other / to-him / I-pour / water / in-potsherd",
-  "quick_english_source": "mechanical-join-v1",
-  "source_lines": null,
-  "source_file": "passages.jsonl",
+  "verse": 19,
+  "quick_english": "make-long / travelers / clouds / thundering / sorrow / grows / and / in-those / endless",
+  "quick_english_source": "t1-draft",
   "tokens": [
    {
     "surface": "utkaṇṭhayanti",
@@ -43,7 +41,21 @@
    {
     "surface": "anantaḥ",
     "quick_gloss": "endless"
-   },
+   }
+  ],
+  "source_sha": "9349687f0cb4b348",
+  "source_lines": [
+   113,
+   113
+  ]
+ },
+ {
+  "verse_id": "ghat-p03-v20",
+  "song": "ghat-p03",
+  "verse": 20,
+  "quick_english": "love-festival / with-beloveds / they-honor / cloud-arrival / dear-friend / they-bring",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "ratyutsavam",
     "quick_gloss": "love-festival"
@@ -67,7 +79,21 @@
    {
     "surface": "śvasamānayanti",
     "quick_gloss": "they-bring"
-   },
+   }
+  ],
+  "source_sha": "87e8ca86cf285fbb",
+  "source_lines": [
+   120,
+   120
+  ]
+ },
+ {
+  "verse_id": "ghat-p03-v21",
+  "song": "ghat-p03",
+  "verse": 21,
+  "quick_english": "may-I-be-conquered / by-which / poet / by-yamakas / other / to-him / I-pour / water / in-potsherd",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "jīyeya",
     "quick_gloss": "may-I-be-conquered"
@@ -105,6 +131,10 @@
     "quick_gloss": "in-potsherd"
    }
   ],
-  "source_sha": "9b6748de21b4d2e6"
+  "source_sha": "534937e17aafad70",
+  "source_lines": [
+   128,
+   128
+  ]
  }
 ]

@@ -1,50 +1,88 @@
 [
  {
-  "verse_id": "ghat-p03",
+  "verse_id": "ghat-p03-v19",
   "song": "ghat-p03",
-  "verse": 1,
-  "scope": "passage",
-  "structured": false,
+  "verse": 19,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "Who longs?",
   "premises": [
-   "passage ghat-p03: utkaṇṭhayanti pathikāṇ jaladāḥ svanantaḥ śoko vivardhati ca tadvinatāsv anantaḥ ..."
+   "Thundering clouds make travelers long.",
+   "Sorrow grows in the bent-low, endless."
   ],
-  "reconstruction": "Source: GRETIL. Lore: sandeśa-kāvya, Abhinava vivṛti (KSTS 67). ## 2. The argument, reconstructed step by step\n\n**Clouds make travelers long (v.19):** *utkaṇṭhayanti pathikān jaladāḥ svanantaḥ* — clouds\nthundering make travelers long. The cloud (jalada) is the messenger; its thunder (svananta)\nawakens longing (utkaṇṭhā) in the traveler (pathika). The rasa's vibhāva is now the cloud\nitself. **Sorrow grows (v.19 cont.):** *śoko vivardhati ca tadvinatāsv anantaḥ* — sorrow grows in\nthose, endless. The vinatā (those bent low, the humbled) are the separated lovers; their\nsorrow (śoka) grows without end (ananta). **Love-festival (v.20):** *ratyutsavaṃ priyatamaiḥ saha mānayanti* — they honor the\nlove-festival with beloveds. The lovers (priyatama) celebrate (mānayanti) the festival of\nlove (ratyutsava) together — the rasa's anubhāva is communal, not solitary. **Cloud-arrival (v.20 cont.):** *meghāgamaṃ priyasakhi śvasamānayanti* — cloud-arrival, dear\nfriend, they bring. The cloud's arrival (meghāgama) is brought (śvasamānayanti) by the dear\nfriend (priyasakhi) — the messenger is delivered. **The tribute (v.21):** *jīyeya yena kavinā yamakaiḥ pareṇa* — may I be conquered by which\npoet, by yamakas, other. The poet (kavi) who conquers by yamakas (the figure of speech\nwhere the same word is used twice with different meaning) is the better poet. The speaker\nyields to that skill. **The offering (v.21 cont.):** *tasmai vaheyam udakaṃ ghaṭakarpareṇa* — to him I pour water\nin ghaṭakarpara. The offering (udaka, water) in the potsherd (ghaṭakarpara) is the tribute:\nthe speaker pours water for the poet who surpassed him. ## 3. Unresolved / uncertain (not invented)\n\n1. Left open. 2. The yamaka itself: which words are the yamaka? Not resolved here. 3. Both live;\n   L2 keeps the literal. ## 4. Decision for L2\n\nProceed. L2 renders each verse in plain English, tracing to L0 ids.",
-  "uncertainties": [
-   "Whether the speaker of v.21 is the poet himself (self-tribute) or a different voice",
-   "The yamaka itself: which words are the yamaka?",
-   "Both live;"
-  ],
+  "inference": "Cloud awakens longing.",
+  "uncertainties": [],
   "traces": {
-   "t1_verse": "ghat-p03",
+   "t1_verse": "ghat-p03-v19",
    "l0_ids": [
-    "ghat-p03-p000",
-    "ghat-p03-p001",
-    "ghat-p03-p002",
-    "ghat-p03-p003",
-    "ghat-p03-p004",
-    "ghat-p03-p005",
-    "ghat-p03-p006",
-    "ghat-p03-p007",
-    "ghat-p03-p008",
-    "ghat-p03-p009",
-    "ghat-p03-p010",
-    "ghat-p03-p011",
-    "ghat-p03-p012",
-    "ghat-p03-p013",
-    "ghat-p03-p014",
-    "ghat-p03-p015",
-    "ghat-p03-p016",
-    "ghat-p03-p017",
-    "ghat-p03-p018",
-    "ghat-p03-p019",
-    "ghat-p03-p020",
-    "ghat-p03-p021",
-    "ghat-p03-p022",
-    "ghat-p03-p023"
+    "ghat-p03-v19-p000",
+    "ghat-p03-v19-p001",
+    "ghat-p03-v19-p002",
+    "ghat-p03-v19-p003",
+    "ghat-p03-v19-p004",
+    "ghat-p03-v19-p005",
+    "ghat-p03-v19-p006",
+    "ghat-p03-v19-p007",
+    "ghat-p03-v19-p008"
    ]
   },
-  "sanskrit_sha": "9b6748de21b4d2e6",
-  "speaker": "Kāvya voice (close)",
-  "question": "What is the close?"
+  "sanskrit_sha": "9b6748de21b4d2e6"
+ },
+ {
+  "verse_id": "ghat-p03-v20",
+  "song": "ghat-p03",
+  "verse": 20,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "Who honors festival?",
+  "premises": [
+   "They honor love-festival with beloveds.",
+   "Cloud-arrival, dear friend, they bring."
+  ],
+  "inference": "Rasa communal.",
+  "uncertainties": [],
+  "traces": {
+   "t1_verse": "ghat-p03-v20",
+   "l0_ids": [
+    "ghat-p03-v20-p000",
+    "ghat-p03-v20-p001",
+    "ghat-p03-v20-p002",
+    "ghat-p03-v20-p003",
+    "ghat-p03-v20-p004",
+    "ghat-p03-v20-p005"
+   ]
+  },
+  "sanskrit_sha": "9b6748de21b4d2e6"
+ },
+ {
+  "verse_id": "ghat-p03-v21",
+  "song": "ghat-p03",
+  "verse": 21,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "What tribute?",
+  "premises": [
+   "May I be conquered by which poet, by yamakas.",
+   "To him I pour water in potsherd."
+  ],
+  "inference": "Yield; tribute.",
+  "uncertainties": [
+   "Speaker self vs other; which words yamaka (both live)."
+  ],
+  "traces": {
+   "t1_verse": "ghat-p03-v21",
+   "l0_ids": [
+    "ghat-p03-v21-p000",
+    "ghat-p03-v21-p001",
+    "ghat-p03-v21-p002",
+    "ghat-p03-v21-p003",
+    "ghat-p03-v21-p004",
+    "ghat-p03-v21-p005",
+    "ghat-p03-v21-p006",
+    "ghat-p03-v21-p007",
+    "ghat-p03-v21-p008"
+   ]
+  },
+  "sanskrit_sha": "9b6748de21b4d2e6"
  }
 ]

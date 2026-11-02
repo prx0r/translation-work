@@ -24,9 +24,6 @@ def main() -> int:
     t1 = json.loads((data / f"{song}.t1.json").read_text())
     l2 = {o["verse"]: o for o in json.loads((data / f"{song}.l2.json").read_text())}
     l0 = json.loads((data / f"{song}.l0.json").read_text())
-    byv: dict[int, list] = {}
-    for o in l0:
-        byv.setdefault(int(o["verse_id"].split("-v")[1]), []).append(o)
 
     diffs = []
 

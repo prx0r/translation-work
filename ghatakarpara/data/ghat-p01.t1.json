@@ -1,12 +1,10 @@
 [
  {
-  "verse_id": "ghat-p01",
+  "verse_id": "ghat-p01-v01",
   "song": "ghat-p01",
   "verse": 1,
-  "quick_english": "Kāma / and / in-heart / to-kill / arises / separated / beloved / this / arises / by-cruel / foreign-land-serving / you-will-kill / indeed / by-him / me / without / foreign-land-love / today / be-released / or / your / wife / what / to-be-said / cātaka / and / thirsty / water / begs / suffering / traveler / she / beloved / and / yours / by-clouds / peacock-flock / is-sounded / what / delight / beloved / without-me / today / you / by-cloud-arrival / thinned / and / she / today / you / by-hard / by-Kāma / she-is-tormented / of-sorrow-ocean / in-water / and / fallen / Your-virtue / remembrance / indeed / protects / her / melts / and / impurity / water / of-rivers / what / thus / and / me / you-regard / not / wretched / deep / cloud / rasa / by-pain / when / I / shall-abandon / friend / separation-born / sorrow / burning",
-  "quick_english_source": "mechanical-join-v1",
-  "source_lines": null,
-  "source_file": "passages.jsonl",
+  "quick_english": "Kāma / and / in-heart / to-kill / arises / separated / beloved / this / arises",
+  "quick_english_source": "t1-draft",
   "tokens": [
    {
     "surface": "manmathe",
@@ -43,7 +41,21 @@
    {
     "surface": "udyate",
     "quick_gloss": "arises"
-   },
+   }
+  ],
+  "source_sha": "6777fd74e6abee73",
+  "source_lines": [
+   14,
+   14
+  ]
+ },
+ {
+  "verse_id": "ghat-p01-v02",
+  "song": "ghat-p01",
+  "verse": 2,
+  "quick_english": "by-cruel / foreign-land-serving / you-will-kill / indeed / by-him / me / without",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "nirdayena",
     "quick_gloss": "by-cruel"
@@ -71,7 +83,21 @@
    {
     "surface": "vinā",
     "quick_gloss": "without"
-   },
+   }
+  ],
+  "source_sha": "bc825533febc5b79",
+  "source_lines": [
+   19,
+   19
+  ]
+ },
+ {
+  "verse_id": "ghat-p01-v03",
+  "song": "ghat-p01",
+  "verse": 3,
+  "quick_english": "foreign-land-love / today / be-released / or / your / wife / what / to-be-said",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "anyadeśaratiḥ",
     "quick_gloss": "foreign-land-love"
@@ -103,7 +129,21 @@
    {
     "surface": "ucyatām",
     "quick_gloss": "to-be-said"
-   },
+   }
+  ],
+  "source_sha": "891a05f350945949",
+  "source_lines": [
+   26,
+   26
+  ]
+ },
+ {
+  "verse_id": "ghat-p01-v04",
+  "song": "ghat-p01",
+  "verse": 4,
+  "quick_english": "cātaka / and / thirsty / water / begs / suffering / traveler / she / beloved / and / yours",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "cātakaḥ",
     "quick_gloss": "cātaka"
@@ -147,7 +187,21 @@
    {
     "surface": "te",
     "quick_gloss": "yours"
-   },
+   }
+  ],
+  "source_sha": "01ed410e75a232be",
+  "source_lines": [
+   31,
+   31
+  ]
+ },
+ {
+  "verse_id": "ghat-p01-v05",
+  "song": "ghat-p01",
+  "verse": 5,
+  "quick_english": "by-clouds / peacock-flock / is-sounded / what / delight / beloved / without-me / today / you",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "ambudaiḥ",
     "quick_gloss": "by-clouds"
@@ -183,7 +237,21 @@
    {
     "surface": "te",
     "quick_gloss": "you"
-   },
+   }
+  ],
+  "source_sha": "746b20ce71465382",
+  "source_lines": [
+   36,
+   36
+  ]
+ },
+ {
+  "verse_id": "ghat-p01-v06",
+  "song": "ghat-p01",
+  "verse": 6,
+  "quick_english": "by-cloud-arrival / thinned / and / she / today / you / by-hard / by-Kāma / she-is-tormented",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "toyadāgamāt",
     "quick_gloss": "by-cloud-arrival"
@@ -219,7 +287,21 @@
    {
     "surface": "sādyate",
     "quick_gloss": "she-is-tormented"
-   },
+   }
+  ],
+  "source_sha": "72dea47721bc0cd4",
+  "source_lines": [
+   41,
+   41
+  ]
+ },
+ {
+  "verse_id": "ghat-p01-v07",
+  "song": "ghat-p01",
+  "verse": 7,
+  "quick_english": "of-sorrow-ocean / in-water / and / fallen / Your-virtue / remembrance / indeed / protects / her",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "śokasāgara",
     "quick_gloss": "of-sorrow-ocean"
@@ -255,7 +337,21 @@
    {
     "surface": "tām",
     "quick_gloss": "her"
-   },
+   }
+  ],
+  "source_sha": "dbfc7a5701c70e00",
+  "source_lines": [
+   46,
+   46
+  ]
+ },
+ {
+  "verse_id": "ghat-p01-v08",
+  "song": "ghat-p01",
+  "verse": 8,
+  "quick_english": "melts / and / impurity / water / of-rivers / what / thus / and / me / you-regard / not / wretched",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "dravati",
     "quick_gloss": "melts"
@@ -303,7 +399,21 @@
    {
     "surface": "dīnām",
     "quick_gloss": "wretched"
-   },
+   }
+  ],
+  "source_sha": "f1742d86c6fb8424",
+  "source_lines": [
+   51,
+   51
+  ]
+ },
+ {
+  "verse_id": "ghat-p01-v09",
+  "song": "ghat-p01",
+  "verse": 9,
+  "quick_english": "deep / cloud / rasa / by-pain / when / I / shall-abandon / friend / separation-born / sorrow / burning",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "gambhīra",
     "quick_gloss": "deep"
@@ -349,6 +459,10 @@
     "quick_gloss": "burning"
    }
   ],
-  "source_sha": "f4aa6b121a082ea0"
+  "source_sha": "55322f5c2feec573",
+  "source_lines": [
+   56,
+   56
+  ]
  }
 ]

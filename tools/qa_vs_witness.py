@@ -125,7 +125,11 @@ def main() -> int:
             wopts = [x for x in o.get("options", []) if str(x.get("source", "")).startswith("witness")
                      or x.get("source") in ("lakshmanjoo", "dyczkowski", "ksemaraja-vivrti")]
             if wopts and o.get("options", [{}])[o.get("chosen_index", 0)] not in wopts:
-                ao = am.get(int(o["verse_id"].split("-v")[1]), {})
+                try:
+                    _vn = int(o["verse_id"].split("-v")[1])
+                except (ValueError, IndexError):
+                    _vn = None
+                ao = am.get(_vn, {}) if _vn is not None else {}
                 decided = any(ch.get("l0_id") == o["id"] for ch in ao.get("option_choices", []))
                 lost.append((o["id"], [x["gloss"] for x in wopts], decided))
 

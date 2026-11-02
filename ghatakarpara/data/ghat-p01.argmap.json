@@ -1,111 +1,272 @@
 [
  {
-  "verse_id": "ghat-p01",
+  "verse_id": "ghat-p01-v01",
   "song": "ghat-p01",
   "verse": 1,
-  "scope": "passage",
-  "structured": false,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "Is desire and absence one event or two?",
   "premises": [
-   "passage ghat-p01: manmathe ca hṛdi hantum udyate proṣitapramadayedam udyate nirdayena paradeśasevi..."
+   "Kāma arises in the heart, to kill.",
+   "This, the separated beloved, arises."
   ],
-  "reconstruction": "# Ghatakarpara — ARGMAP passage 1 (verses 1–9, the lament)\n\n*2026-11-01. Source: GRETIL (Abhinavagupta Ghatakarpara commentary). Lore: sandeśa-kāvya precursor (Wikipedia/owiki), KSTS 67 (Abhinava's vivṛti), Abhinava's attribution to Kālidāsa (rejected by Lienhard). Rasa: śṛṅgāra (erotic love-in-separation) with vira/adbhuta coloring.*\n\n---\n\n## 1. What is at issue\n\nIs the beloved's lament a mere complaint, or does it perform the erotic rasa (śṛṅgāra) through the\nsandeśa-kāvya device? ## 2. The argument, reconstructed step by step\n\n**Kāma arises (vv.1–2):** *manmathe ca hṛdi hantum udyate* — Kāma arises in the heart, to kill. *proṣitapramadayedam udyate* — this, the separated beloved, arises. The lover's desire and the\nbeloved's absence are one event, not two. **The accusation (v.3):** *nirdayena paradeśasevinā māriṣyatha hi tena māṃ vinā* — by the cruel\none serving a foreign land, you will kill me without him. The foreign land (paradeśa) is the\nrival; the husband's service abroad is the betrayal. **The release (v.4):** *anyadeśaratir adya mucyatāṃ sāthavā tava vadhūḥ kim ucyatām* — release\nforeign-land love today, or your wife — what is to be said? Either abandon the rival or face the\nwife's accusation. The dilemma is the lover's, not the beloved's. **The messenger device (vv.5–6):** *cātakaś ca tṛṣito 'mbu yācate* — the cātaka, thirsty, begs\nwater. *duḥkhitā pathika sā priyā ca te* — the suffering traveler, she is your beloved. The\ncātaka bird (which drinks only rain) becomes the figure for the lover: thirsting for the\nabsent beloved, appealing to the cloud as messenger. **The cloud as messenger (vv.7–8):** *ambudaiḥ śikhigaṇo vinādyate* — by clouds the peacock-flock\nis sounded. *kā ratiḥ priya mayā vinādya te* — what delight, beloved, without me today? The\ncloud arrives; the peacocks cry; the landscape responds to the lover's mood. *durdhareṇa madanena sādyate* — tormented by hard Kāma. *śokasāgarajale ca pātitām* —\nfallen into sorrow-ocean's water. *tvadguṇasmaraṇam eva pāti tām* — remembrance of your virtue\nalone protects her. The lament closes not in despair but in the sustaining memory of the beloved. **The meta-appeal (vv.9 cont.):** *dravati ca kaluṣaṃ jalaṃ nadīnāṃ* — the rivers' water melts\nthe impurity. *kim iti ca māṃ samavekṣase na dīnām* — why do you regard me, not wretched? *gambhīramegharasitavyathitā* — pained by deep cloud-rasa. *kadāhaṃ jahyāṃ sakhi\npriyaviyogajaśokadāhaṃ* — when shall I abandon, friend, the burning of separation-born sorrow? ## 3. Unresolved / uncertain (not invented)\n\n1. Whether \"sādya te\" (v.8) is a compression of sādyate or a separate reading — kept as-is in T1. 2. The cātaka's thirst: literal (bird drinks only rain) or figurative (lover thirsts for beloved)? Both are live; L2 keeps the literal image and lets the figure resonate. 3. Whether the cloud is addressed as messenger or as witness to the lover's pain — the sandeśa\n   device is implicit, not stated. ## 4. Decision for L2\n\nProceed. L2 renders\neach verse in plain English, tracing to L0 ids. The śṛṅgāra rasa is named in C1, not in L2.",
+  "inference": "Desire and absence arise as one event.",
   "uncertainties": [
-   "Whether \"sādya te\" (v.8) is a compression of sādyate or a separate reading — kept as-is in T1.",
-   "The cātaka's thirst: literal (bird drinks only rain) or figurative (lover thirsts for beloved)?",
-   "Whether the cloud is addressed as messenger or as witness to the lover's pain — the sandeśa"
+   "Sandeśa implicit (messenger/witness open)."
   ],
   "traces": {
-   "t1_verse": "ghat-p01",
+   "t1_verse": "ghat-p01-v01",
    "l0_ids": [
-    "ghat-p01-p000",
-    "ghat-p01-p001",
-    "ghat-p01-p002",
-    "ghat-p01-p003",
-    "ghat-p01-p004",
-    "ghat-p01-p005",
-    "ghat-p01-p006",
-    "ghat-p01-p007",
-    "ghat-p01-p008",
-    "ghat-p01-p009",
-    "ghat-p01-p010",
-    "ghat-p01-p011",
-    "ghat-p01-p012",
-    "ghat-p01-p013",
-    "ghat-p01-p014",
-    "ghat-p01-p015",
-    "ghat-p01-p016",
-    "ghat-p01-p017",
-    "ghat-p01-p018",
-    "ghat-p01-p019",
-    "ghat-p01-p020",
-    "ghat-p01-p021",
-    "ghat-p01-p022",
-    "ghat-p01-p023",
-    "ghat-p01-p024",
-    "ghat-p01-p025",
-    "ghat-p01-p026",
-    "ghat-p01-p027",
-    "ghat-p01-p028",
-    "ghat-p01-p029",
-    "ghat-p01-p030",
-    "ghat-p01-p031",
-    "ghat-p01-p032",
-    "ghat-p01-p033",
-    "ghat-p01-p034",
-    "ghat-p01-p035",
-    "ghat-p01-p036",
-    "ghat-p01-p037",
-    "ghat-p01-p038",
-    "ghat-p01-p039",
-    "ghat-p01-p040",
-    "ghat-p01-p041",
-    "ghat-p01-p042",
-    "ghat-p01-p043",
-    "ghat-p01-p044",
-    "ghat-p01-p045",
-    "ghat-p01-p046",
-    "ghat-p01-p047",
-    "ghat-p01-p048",
-    "ghat-p01-p049",
-    "ghat-p01-p050",
-    "ghat-p01-p051",
-    "ghat-p01-p052",
-    "ghat-p01-p053",
-    "ghat-p01-p054",
-    "ghat-p01-p055",
-    "ghat-p01-p056",
-    "ghat-p01-p057",
-    "ghat-p01-p058",
-    "ghat-p01-p059",
-    "ghat-p01-p060",
-    "ghat-p01-p061",
-    "ghat-p01-p062",
-    "ghat-p01-p063",
-    "ghat-p01-p064",
-    "ghat-p01-p065",
-    "ghat-p01-p066",
-    "ghat-p01-p067",
-    "ghat-p01-p068",
-    "ghat-p01-p069",
-    "ghat-p01-p070",
-    "ghat-p01-p071",
-    "ghat-p01-p072",
-    "ghat-p01-p073",
-    "ghat-p01-p074",
-    "ghat-p01-p075",
-    "ghat-p01-p076",
-    "ghat-p01-p077",
-    "ghat-p01-p078",
-    "ghat-p01-p079",
-    "ghat-p01-p080",
-    "ghat-p01-p081",
-    "ghat-p01-p082",
-    "ghat-p01-p083",
-    "ghat-p01-p084"
+    "ghat-p01-v01-p000",
+    "ghat-p01-v01-p001",
+    "ghat-p01-v01-p002",
+    "ghat-p01-v01-p003",
+    "ghat-p01-v01-p004",
+    "ghat-p01-v01-p005",
+    "ghat-p01-v01-p006",
+    "ghat-p01-v01-p007",
+    "ghat-p01-v01-p008"
    ]
   },
-  "sanskrit_sha": "f4aa6b121a082ea0",
-  "speaker": "Kāvya voice (proṣitapramadā, separated beloved)",
-  "question": "What is the lover's lament?"
+  "sanskrit_sha": "f4aa6b121a082ea0"
+ },
+ {
+  "verse_id": "ghat-p01-v02",
+  "song": "ghat-p01",
+  "verse": 2,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "Who is the rival?",
+  "premises": [
+   "By the cruel foreign-land-server, you will kill me without him."
+  ],
+  "inference": "Foreign land the rival; service abroad the betrayal.",
+  "uncertainties": [],
+  "traces": {
+   "t1_verse": "ghat-p01-v02",
+   "l0_ids": [
+    "ghat-p01-v02-p000",
+    "ghat-p01-v02-p001",
+    "ghat-p01-v02-p002",
+    "ghat-p01-v02-p003",
+    "ghat-p01-v02-p004",
+    "ghat-p01-v02-p005",
+    "ghat-p01-v02-p006"
+   ]
+  },
+  "sanskrit_sha": "f4aa6b121a082ea0"
+ },
+ {
+  "verse_id": "ghat-p01-v03",
+  "song": "ghat-p01",
+  "verse": 3,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "Release which love?",
+  "premises": [
+   "Release foreign-land love today, or your wife — what is to be said?"
+  ],
+  "inference": "Dilemma is the lover's.",
+  "uncertainties": [],
+  "traces": {
+   "t1_verse": "ghat-p01-v03",
+   "l0_ids": [
+    "ghat-p01-v03-p000",
+    "ghat-p01-v03-p001",
+    "ghat-p01-v03-p002",
+    "ghat-p01-v03-p003",
+    "ghat-p01-v03-p004",
+    "ghat-p01-v03-p005",
+    "ghat-p01-v03-p006",
+    "ghat-p01-v03-p007"
+   ]
+  },
+  "sanskrit_sha": "f4aa6b121a082ea0"
+ },
+ {
+  "verse_id": "ghat-p01-v04",
+  "song": "ghat-p01",
+  "verse": 4,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "What does the cātaka figure?",
+  "premises": [
+   "The cātaka, thirsty, begs water.",
+   "The suffering traveler, she is your beloved."
+  ],
+  "inference": "Cātaka figures lover thirsting for absent beloved.",
+  "uncertainties": [
+   "Literal rain-bird vs figurative lover (both live)."
+  ],
+  "traces": {
+   "t1_verse": "ghat-p01-v04",
+   "l0_ids": [
+    "ghat-p01-v04-p000",
+    "ghat-p01-v04-p001",
+    "ghat-p01-v04-p002",
+    "ghat-p01-v04-p003",
+    "ghat-p01-v04-p004",
+    "ghat-p01-v04-p005",
+    "ghat-p01-v04-p006",
+    "ghat-p01-v04-p007",
+    "ghat-p01-v04-p008",
+    "ghat-p01-v04-p009",
+    "ghat-p01-v04-p010"
+   ]
+  },
+  "sanskrit_sha": "f4aa6b121a082ea0"
+ },
+ {
+  "verse_id": "ghat-p01-v05",
+  "song": "ghat-p01",
+  "verse": 5,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "What answers mood?",
+  "premises": [
+   "By clouds the peacock-flock is sounded.",
+   "What delight, beloved, without me today?"
+  ],
+  "inference": "Landscape answers mood.",
+  "uncertainties": [
+   "Messenger vs witness (implicit)."
+  ],
+  "traces": {
+   "t1_verse": "ghat-p01-v05",
+   "l0_ids": [
+    "ghat-p01-v05-p000",
+    "ghat-p01-v05-p001",
+    "ghat-p01-v05-p002",
+    "ghat-p01-v05-p003",
+    "ghat-p01-v05-p004",
+    "ghat-p01-v05-p005",
+    "ghat-p01-v05-p006",
+    "ghat-p01-v05-p007",
+    "ghat-p01-v05-p008"
+   ]
+  },
+  "sanskrit_sha": "f4aa6b121a082ea0"
+ },
+ {
+  "verse_id": "ghat-p01-v06",
+  "song": "ghat-p01",
+  "verse": 6,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "Who thinned, who tormented?",
+  "premises": [
+   "Thinned by cloud-arrival, tormented by hard Kāma."
+  ],
+  "inference": "Cloud thins, Kāma torments.",
+  "uncertainties": [],
+  "traces": {
+   "t1_verse": "ghat-p01-v06",
+   "l0_ids": [
+    "ghat-p01-v06-p000",
+    "ghat-p01-v06-p001",
+    "ghat-p01-v06-p002",
+    "ghat-p01-v06-p003",
+    "ghat-p01-v06-p004",
+    "ghat-p01-v06-p005",
+    "ghat-p01-v06-p006",
+    "ghat-p01-v06-p007",
+    "ghat-p01-v06-p008"
+   ]
+  },
+  "sanskrit_sha": "f4aa6b121a082ea0"
+ },
+ {
+  "verse_id": "ghat-p01-v07",
+  "song": "ghat-p01",
+  "verse": 7,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "What protects the fallen?",
+  "premises": [
+   "Fallen into sorrow-ocean's water.",
+   "Remembrance of your virtue alone protects her."
+  ],
+  "inference": "Memory sustains, not despair.",
+  "uncertainties": [],
+  "traces": {
+   "t1_verse": "ghat-p01-v07",
+   "l0_ids": [
+    "ghat-p01-v07-p000",
+    "ghat-p01-v07-p001",
+    "ghat-p01-v07-p002",
+    "ghat-p01-v07-p003",
+    "ghat-p01-v07-p004",
+    "ghat-p01-v07-p005",
+    "ghat-p01-v07-p006",
+    "ghat-p01-v07-p007",
+    "ghat-p01-v07-p008"
+   ]
+  },
+  "sanskrit_sha": "f4aa6b121a082ea0"
+ },
+ {
+  "verse_id": "ghat-p01-v08",
+  "song": "ghat-p01",
+  "verse": 8,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "Why unregarded?",
+  "premises": [
+   "Rivers' water melts impurity.",
+   "Why regard me not, wretched?"
+  ],
+  "inference": "Impurity melts outward; regard withheld.",
+  "uncertainties": [
+   "'sādya te' kept as-is in T1."
+  ],
+  "traces": {
+   "t1_verse": "ghat-p01-v08",
+   "l0_ids": [
+    "ghat-p01-v08-p000",
+    "ghat-p01-v08-p001",
+    "ghat-p01-v08-p002",
+    "ghat-p01-v08-p003",
+    "ghat-p01-v08-p004",
+    "ghat-p01-v08-p005",
+    "ghat-p01-v08-p006",
+    "ghat-p01-v08-p007",
+    "ghat-p01-v08-p008",
+    "ghat-p01-v08-p009",
+    "ghat-p01-v08-p010",
+    "ghat-p01-v08-p011"
+   ]
+  },
+  "sanskrit_sha": "f4aa6b121a082ea0"
+ },
+ {
+  "verse_id": "ghat-p01-v09",
+  "song": "ghat-p01",
+  "verse": 9,
+  "structured": true,
+  "speaker": "Abhinavagupta (commentator-poet voice)",
+  "question": "When ends burning?",
+  "premises": [
+   "Pained by deep cloud-thunder.",
+   "When abandon, friend, separation-born sorrow-burning?"
+  ],
+  "inference": "Burning named, end questioned.",
+  "uncertainties": [],
+  "traces": {
+   "t1_verse": "ghat-p01-v09",
+   "l0_ids": [
+    "ghat-p01-v09-p000",
+    "ghat-p01-v09-p001",
+    "ghat-p01-v09-p002",
+    "ghat-p01-v09-p003",
+    "ghat-p01-v09-p004",
+    "ghat-p01-v09-p005",
+    "ghat-p01-v09-p006",
+    "ghat-p01-v09-p007",
+    "ghat-p01-v09-p008",
+    "ghat-p01-v09-p009",
+    "ghat-p01-v09-p010"
+   ]
+  },
+  "sanskrit_sha": "f4aa6b121a082ea0"
  }
 ]

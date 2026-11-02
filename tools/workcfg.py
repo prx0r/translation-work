@@ -79,6 +79,43 @@ WORKS = {
                   "pary-p04": (21, 27), "pary-p05": (28, 33), "pary-p06": (34, 39),
                   "pary-p07": (40, 46), "pary-p08": (47, 52)},
     },
+    # Legacy hand-built works (2026-11-01): canonical Sanskrit lives in the
+    # work's own frozen T1.md (per-song chains); t1md kind parses those.
+    "pancashloki": {
+        "source": Path("/root/translation-work/pancashloki/T1.md"),
+        "kind": "t1md",
+        "songs": {f"pan-p{i:02d}": (i, i) for i in range(1, 6)},
+    },
+    "anuttarastika": {
+        "source": Path("/root/translation-work/anuttarastika/T1.md"),
+        "kind": "t1md",
+        "songs": {f"anu-p{i:02d}": (i, i) for i in range(1, 9)},
+    },
+    "bhairavastava": {
+        "source": Path("/root/translation-work/bhairavastava/T1.md"),
+        "kind": "t1md",
+        "songs": {f"bh-p{i:02d}": (i, i) for i in range(1, 11)},
+    },
+    "anubhavanivedana": {
+        "source": Path("/root/translation-work/anubhavanivedana/T1.md"),
+        "kind": "t1md",
+        "songs": {f"anu-p{i:02d}": (i, i) for i in range(1, 5)},
+    },
+    "paramarthacarca": {
+        "source": Path("/root/translation-work/paramarthacarca/T1.md"),
+        "kind": "t1md",
+        "songs": {f"par-p{i:02d}": (i, i) for i in range(1, 9)},
+    },
+    "ghatakarpara": {
+        "source": SITE_SA / "ghatakarpara.txt",
+        "kind": "ghata",  # GRETIL (Parlier ed.); 21 single-line verses (`// Ghk_N //`), vivrti prose skipped
+        "songs": {"ghat-p01": (1, 9), "ghat-p02": (10, 18), "ghat-p03": (19, 21)},
+    },
+    "spandasandoha": {
+        "source": Path("/root/translation-work/spandasandoha/T1.md"),
+        "kind": "spanda",  # own frozen T1.md; 13 tokens split 9/4 at rasayati (l2 verse division)
+        "songs": {"sand-p01": (1, 2)},
+    },
 }
 
 
@@ -774,6 +811,79 @@ def parse_paryanta(source: Path) -> tuple[dict[int, tuple[list[str], list[int]]]
     return verses, []
 
 
+def parse_t1md(source: Path) -> tuple[dict[int, tuple[list[str], list[int]]], list[tuple[int, str]]]:
+    """Parse a legacy work's own frozen T1.md (per-song `[and]-` chains).
+
+    Returns verse -> (surfaces, [header_ln, end_ln]). Verse numbers come from
+    the `## <song> (N)` section headers. `[is]` markers are skipped, matching
+    the original data builds.
+    """
+    lines = source.read_text(encoding="utf-8").splitlines()
+    verses: dict[int, tuple[list[str], list[int]]] = {}
+    cur: int | None = None
+    start = 0
+    buf: list[str] = []
+
+    def flush(end: int) -> None:
+        if cur is None:
+            return
+        blob = "\n".join(buf).replace("[is]", "")
+        blob = re.sub(r"(?<!\[and\])-\n", "", blob)  # join word-split hyphens; keep [and]- markers split across lines
+        blob = blob.replace("\n", " ")
+        toks: list[str] = []
+        for g, s in re.findall(r"\[and\]-(.*?)\(([^)]+)\)", blob, re.S):
+            if "(" in s or ")" in s:
+                continue
+            g = re.sub(r"\([^)]*\)", "", g).strip()  # keep surface, drop parenthetical gloss
+            toks.append(re.sub(r"\s+", " ", s).strip())
+        if toks and cur not in verses:
+            verses[cur] = (toks, [start, end])
+
+    for i, ln in enumerate(lines):
+        m = re.match(r"## (\S+)(?:\s+\((\d+)(?:[-–]\d+)?\))?", ln)
+        if m and m.group(2):
+            flush(i)
+            cur = int(m.group(2))
+            start = i + 1
+            buf = []
+            continue
+        if cur is not None and ln.strip() and not ln.startswith("*"):
+            buf.append(ln)
+    flush(len(lines))
+    return verses, []
+
+
+def parse_ghata(source: Path) -> tuple[dict[int, tuple[list[str], list[int]]], list[tuple[int, str]]]:
+    """Parse GRETIL Ghatakarpara verses (21 single-line `// Ghk_N //` verses).
+
+    Returns verse 1..21 -> (tokens, [ln, ln]). Vivrti prose (GhkV_) skipped.
+    """
+    raw = source.read_text(encoding="utf-8").splitlines()
+    verses: dict[int, tuple[list[str], list[int]]] = {}
+    for i, ln in enumerate(raw):
+        m = re.search(r"//\s*Ghk_(\d+)\s*//\s*$", ln)
+        if not m or re.search(r"GhkV_", ln):
+            continue
+        n = int(m.group(1))
+        if not 1 <= n <= 21 or n in verses:
+            continue
+        pre = ln[:m.start()]
+        toks = [w for w in re.sub(r"\|\|", " ", pre).split() if w not in ("|", "/")]
+        verses[n] = (toks, [i + 1, i + 1])
+    return verses, []
+
+
+def parse_spanda(source: Path) -> tuple[dict[int, tuple[list[str], list[int]]], list[tuple[int, str]]]:
+    """Parse Spandasandoha frozen T1.md (13 tokens; verses split 9/4 at rasayati).
+
+    The split follows the work's own l2 verse division (v1 ends rasayati).
+    """
+    spans, _ = parse_t1md(source)
+    toks, lines = spans[1]
+    cut = toks.index("rasayati") + 1 if "rasayati" in toks else 9
+    return {1: (toks[:cut], lines), 2: (toks[cut:], lines)}, []
+
+
 def source_spans(work: str) -> dict[int, list[str]] | None:
     """Full-work source spans {verse: tokens} via workcfg, or None if unregistered.
 
@@ -806,6 +916,12 @@ def source_spans(work: str) -> dict[int, list[str]] | None:
         spans, _ = parse_bhairavanukarana(src)
     elif kind == "paryanta":
         spans, _ = parse_paryanta(src)
+    elif kind == "t1md":
+        spans, _ = parse_t1md(src)
+    elif kind == "ghata":
+        spans, _ = parse_ghata(src)
+    elif kind == "spanda":
+        spans, _ = parse_spanda(src)
     else:
         return None
     return {v: toks for v, (toks, _) in spans.items()}

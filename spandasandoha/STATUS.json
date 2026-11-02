@@ -1,25 +1,25 @@
 {
-  "work": "spandasandoha",
-  "updated": "2026-11-01",
-  "next": "human-review (MACHINE_PROPOSED)",
-  "counts": {
-    "passages": 1,
-    "verses": 2,
-    "l0_tokens": 13
-  },
-  "notes": "2 verses, 1 passage. Spandak\u0101rik\u0101 1.1 + K\u1e63emar\u0101ja's Spandasandoha (viv\u1e5bti). Crystal rebuild 2026-11-01: T1 per-pada 13 tokens, L0 13/13 PARSED, argmap (terse logical, scholarly refs), L2 2 verses (rasa-carried), C1 1 passage (0 quotes, 0 meta, 0 shared with L2, rasa{} filled: adbhuta/\u015b\u0101nta). Proof PASS. All 7 mistake rules PASS. Process log: process/LOG.md. L0 morph analyzed (13 tokens, 0 unknown). T1 pada-split (already). L2 rasa-carried. Peer review done. FULLY HAND-CRAFTED.",
-  "needs": [
-    "human-review (MACHINE_PROPOSED)"
+ "work": "spandasandoha",
+ "updated": "2026-11-02",
+ "next": "human-review (MACHINE_PROPOSED)",
+ "counts": {
+  "passages": 1,
+  "verses": 2,
+  "l0_tokens": 13
+ },
+ "notes": "2 verses, 1 passage. Spandakārikā 1.1 + Kṣemarāja's Spandasandoha (vivṛti). Crystal rebuild 2026-11-01: T1 per-pada 13 tokens, L0 13/13 PARSED, argmap (terse logical, scholarly refs), L2 2 verses (rasa-carried), C1 1 passage (0 quotes, 0 meta, 0 shared with L2, rasa{} filled: adbhuta/śānta). Proof PASS. All 7 mistake rules PASS. Process log: process/LOG.md. L0 morph analyzed (13 tokens, 0 unknown). T1 pada-split (already). L2 rasa-carried. Peer review done. FULLY HAND-CRAFTED. 2026-11-02 migration 1 obj->2 verses (split 9/4 at rasayati per l2 division): t1/l0/argmap split, l3 split positionally, cites span-exact; check.py CANONICAL 0 failures.",
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ],
+ "data_objects": {
+  "schema": "schemas v1.1.0",
+  "files": [
+   "data/sand-p01.{t1,l0,argmap,l2,c1}.json"
   ],
-  "data_objects": {
-    "schema": "schemas v1.1.0",
-    "files": [
-      "data/sand-p01.{t1,l0,argmap,l2,c1}.json"
-    ],
-    "validation": "0 errors",
-    "proof": "proof/proof-s01.json \u2014 PASS"
-  },
-  "rasa": "adbhuta (wonder at \u015aiva's spanda) with \u015b\u0101nta (tranquility of self-established nature)",
-  "lore": "Spandak\u0101rik\u0101 (Kalla\u1e6da/Vasugupta) + K\u1e63emar\u0101ja's Spandasandoha (KSTS); sanskrit-trikashaivism.com; Wikipedia (K\u1e63emar\u0101ja)",
-  "mistake_review": "all 7 rules PASS (0 quotes, 0 meta, 0 shared C1/L2, 13 tokens vs 13 source words, 0 shared argmap, uncertainty marked, one work)"
+  "validation": "0 errors",
+  "proof": "proof/proof-s01.json — PASS"
+ },
+ "rasa": "adbhuta (wonder at Śiva's spanda) with śānta (tranquility of self-established nature)",
+ "lore": "Spandakārikā (Kallaṭa/Vasugupta) + Kṣemarāja's Spandasandoha (KSTS); sanskrit-trikashaivism.com; Wikipedia (Kṣemarāja)",
+ "mistake_review": "all 7 rules PASS (0 quotes, 0 meta, 0 shared C1/L2, 13 tokens vs 13 source words, 0 shared argmap, uncertainty marked, one work)"
 }

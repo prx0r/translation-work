@@ -1,12 +1,10 @@
 [
  {
-  "verse_id": "sand-p01",
+  "verse_id": "sand-p01-v01",
   "song": "sand-p01",
   "verse": 1,
-  "quick_english": "He / is-victorious / Śiva / alone / possessing-spanda / self-established / who / inner-face / makes-taste / is-victorious / this / hero / lord-of-the-Kula",
-  "quick_english_source": "mechanical-join-v1",
-  "source_lines": null,
-  "source_file": "passages.jsonl",
+  "quick_english": "He / is-victorious / Śiva / alone / possessing-spanda / self-established / who / inner-face / makes-taste",
+  "quick_english_source": "t1-draft",
   "tokens": [
    {
     "surface": "saḥ",
@@ -43,7 +41,21 @@
    {
     "surface": "rasayati",
     "quick_gloss": "makes-taste"
-   },
+   }
+  ],
+  "source_sha": "27244f22cd6662ec",
+  "source_lines": [
+   7,
+   13
+  ]
+ },
+ {
+  "verse_id": "sand-p01-v02",
+  "song": "sand-p01",
+  "verse": 2,
+  "quick_english": "is-victorious / this / hero / lord-of-the-Kula",
+  "quick_english_source": "t1-draft",
+  "tokens": [
    {
     "surface": "jayati",
     "quick_gloss": "is-victorious"
@@ -61,6 +73,10 @@
     "quick_gloss": "lord-of-the-Kula"
    }
   ],
-  "source_sha": "8556640712206b36"
+  "source_sha": "4850abb8bead1248",
+  "source_lines": [
+   7,
+   13
+  ]
  }
 ]

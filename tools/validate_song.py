@@ -125,7 +125,20 @@ def main() -> int:
             errs.append(f"coverage {name}: {sorted(have)} != source {sorted(src_verses)}")
     if l3 is not None and {o["verse"] for o in l3} != src_verses:
         errs.append(f"coverage l3: {sorted(o['verse'] for o in l3)} != source {sorted(src_verses)}")
-    l0_verses = {int(o["verse_id"].split("-v")[1]) for o in l0}
+    l0_verses = set()
+    _vid2verse = {o["verse_id"]: o.get("verse") for o in t1}
+    for o in l0:
+        vid = o["verse_id"]
+        if "-v" in vid:
+            try:
+                l0_verses.add(int(vid.split("-v")[1]))
+                continue
+            except ValueError:
+                pass
+        if vid in _vid2verse and _vid2verse[vid] is not None:
+            l0_verses.add(_vid2verse[vid])
+        else:
+            errs.append(f"coverage l0: unmappable verse_id {vid!r}")
     if l0_verses != src_verses:
         errs.append(f"coverage l0 verses {sorted(l0_verses)} != source {sorted(src_verses)}")
 

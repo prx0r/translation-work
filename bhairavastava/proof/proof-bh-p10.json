@@ -5,7 +5,7 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
- "source_sha": "32db605be8aa981c",
+ "source_sha": "6c8de0d897072c86",
  "source_verses": 1,
  "t1_verses": 1,
  "l0": {
@@ -15,21 +15,16 @@
   "tokens": 14
  },
  "align": {
-  "min_ratio": 0.33,
-  "sub090": {
-   "10": {
-    "ratio": 0.33,
-    "disposition": "pada-split; order verified by hand"
-   }
-  }
+  "min_ratio": 1.0,
+  "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 54,
+ "c1_words": 30,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 14,
+  "checked": 1,
   "failures": []
  },
  "ledger": {
@@ -38,7 +33,19 @@
  },
  "data_objects": {
   "errors": [],
-  "note": "canonical JSON validated against schemas v1.1.0"
+  "counts": {
+   "t1": 1,
+   "l0": 14,
+   "argmap": 1,
+   "l2": 1,
+   "l3": 1,
+   "essence": 3,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
  },
  "needs": [
   "human-review"
@@ -46,7 +53,7 @@
  "deterministic_gate": "PASS",
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
-  "source_sha": "32db605be8aa981c",
+  "source_sha": "6c8de0d897072c86",
   "t1": "T1-bh-p10.md",
   "l0": "T1-bh-p10.l0.jsonl",
   "l2": "L2-bh-p10.md",
