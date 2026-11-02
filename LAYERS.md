@@ -57,6 +57,8 @@ GRETIL source verse (sha-pinned)
 - **ARGMAP**: whole-verse argument as terse logical statements; fork adjudication with reasons.
 - **L2**: plain-English exact meaning; clause→L0 traces; byte-exact cite.
 - **C1**: essence (+ optional rasa note) + standard essay; refers to all lower levels.
+- **L3**: final canonical translation; line-by-line evocative verse, every line
+  traces to L0 + essence; no new claims, boundary items stay open with notes.
 - **C2**: prompt + style + maps_to; reproducibility is the contract.
 
 ## Directory shape (per song, beside the legacy MD)
@@ -68,6 +70,7 @@ sivastotravali/
   data/s01.argmap.json   # argmap objects (one per verse; scope verse|passage)
   data/s01.l2.json       # L2 objects (one per verse)
   data/s01.c1.json       # C1 object (essence + standard render)
+  data/s01.l3.json       # L3 objects (one per verse; the single translation to read)
   data/s01.c2.json       # C2 renders (style + prompt + maps_to) — optional
   proof/proof-s01.json   # proof record (validates data objects when present)
 ```
@@ -102,3 +105,4 @@ The stack is append-mostly and every change is a JSON diff away:
 5. C1 essence non-empty; standard render preserved with all 7 sections.
 6. C2 renders: prompt non-empty; every paragraph maps to essence.
 7. Verse/song coverage: T1+L0+argmap+L2 span exactly the GRETIL verse set, no more, no less.
+8. L3 lines non-empty; every L3 lists ≥1 existing l0_id and ≥1 essence index.
