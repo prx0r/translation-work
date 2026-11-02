@@ -29,7 +29,7 @@ def main() -> int:
 
     sys.path.insert(0, str(ROOT / "schemas"))
     try:
-        import t1 as t1s, l0 as l0s, argmap as ams, l2 as l2s, c1 as c1s, c2 as c2s
+        import t1 as t1s, l0 as l0s, argmap as ams, l2 as l2s, c1 as c1s, c2 as c2s, l3 as l3s
         from __init__ import SCHEMA_VERSION  # noqa
     except Exception:
         try:
@@ -45,7 +45,7 @@ def main() -> int:
     stack = json.loads((ROOT / "stack.json").read_text())
     sync = stack.get("schemas_version") == "1.1.0"
     req_ok = True
-    for mod, name in [(t1s, "t1"), (l0s, "l0"), (ams, "argmap"), (l2s, "l2"), (c1s, "c1")]:
+    for mod, name in [(t1s, "t1"), (l0s, "l0"), (ams, "argmap"), (l2s, "l2"), (c1s, "c1"), (l3s, "l3")]:
         if set(stack["required_by_layer"][name]) != set(mod.REQUIRED):
             req_ok = False
             fails.append(f"stack-sync: {name}.REQUIRED drifted from stack.json")

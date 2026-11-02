@@ -149,27 +149,40 @@
   "option_choices": []
  },
  {
-  "verse_id": "s14-v05",
-  "song": "s14",
-  "verse": 5,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Utpaladeva (devotee's voice)",
-  "question": "Victory: bearer of a body beyond worlds, streaming a hundred beauties; victory: single-braided, Ganges-thinned, ash-seized",
-  "premises": [
-   "Victory: bearer of a body beyond worlds, streaming a hundred beauties; victory: single-braided, Ganges-thinned, ash-seized"
-  ],
-  "inference": "Victory: bearer of a body beyond worlds, streaming a hundred beauties; victory: single-braided, Ganges-thinned, ash-seized",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
-  "traces": {
-   "t1_verse": "s14-v05",
-   "l0_ids": [
-    "s14-v05-p000",
-    "s14-v05-p001",
-    "s14-v05-p002"
-   ]
+   "verse_id": "s14-v05",
+   "song": "s14",
+   "verse": 5,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Which two bodies win?",
+   "premises": [
+    "The body beyond worlds, streaming a hundred beauties (śobha-śata-syandin-lokottara-vapur-dhara).",
+    "The single-braided, unwasting-Ganges, ash-seized one (eka-jaṭika-akṣīṇa-gaṅgā ... bhasmaka)."
+   ],
+   "inference": "Two bodies: transcendent streaming beauty, ascetic ash — both win.",
+   "uncertainties": [
+    "kṛtya (rite? deed?) inside the ash-compound is open; L2 does not decide it."
+   ],
+   "traces": {
+    "t1_verse": "s14-v05",
+    "l0_ids": [
+     "s14-v05-p000",
+     "s14-v05-p001",
+     "s14-v05-p002",
+     "s14-v05-p003",
+     "s14-v05-p004",
+     "s14-v05-p005",
+     "s14-v05-p006",
+     "s14-v05-p007",
+     "s14-v05-p008",
+     "s14-v05-p009",
+     "s14-v05-p010",
+     "s14-v05-p011",
+     "s14-v05-p012",
+     "s14-v05-p013",
+     "s14-v05-p014"
+    ]
   },
   "sanskrit_sha": "4cd8271db1ee918e",
   "option_choices": []
@@ -178,24 +191,35 @@
   "verse_id": "s14-v06",
   "song": "s14",
   "verse": 6,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Utpaladeva (devotee's voice)",
-  "question": "Victory: smeared with milk-ocean-spread moonlight shade; victory: snow-ornamented with jewel-light risen from the Lord's limb-contact",
-  "premises": [
-   "Victory: smeared with milk-ocean-spread moonlight shade; victory: snow-ornamented with jewel-light risen from the Lord's limb-contact"
-  ],
-  "inference": "Victory: smeared with milk-ocean-spread moonlight shade; victory: snow-ornamented with jewel-light risen from the Lord's limb-contact",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
-  "traces": {
-   "t1_verse": "s14-v06",
-   "l0_ids": [
-    "s14-v06-p000",
-    "s14-v06-p001",
-    "s14-v06-p002"
-   ]
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Which two anointings win?",
+   "premises": [
+    "Smeared with shade of moonlight spread from the milk-ocean.",
+    "Snow-ornamented, jewel-beloved, risen from the Lord's limb-contact."
+   ],
+   "inference": "Two anointings: moon-shade and snow-jewel — both adorn.",
+   "uncertainties": [],
+   "traces": {
+    "t1_verse": "s14-v06",
+    "l0_ids": [
+     "s14-v06-p000",
+     "s14-v06-p001",
+     "s14-v06-p002",
+     "s14-v06-p003",
+     "s14-v06-p004",
+     "s14-v06-p005",
+     "s14-v06-p006",
+     "s14-v06-p007",
+     "s14-v06-p008",
+     "s14-v06-p009",
+     "s14-v06-p010",
+     "s14-v06-p011",
+     "s14-v06-p012",
+     "s14-v06-p013",
+     "s14-v06-p014"
+    ]
   },
   "sanskrit_sha": "4cd8271db1ee918e",
   "option_choices": []
@@ -204,24 +228,36 @@
   "verse_id": "s14-v07",
   "song": "s14",
   "verse": 7,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Utpaladeva (devotee's voice)",
-  "question": "Victory: refuge like the one undying cool-rayed digit; victory: consecrated by ever-Ganges and universal lordship",
-  "premises": [
-   "Victory: refuge like the one undying cool-rayed digit; victory: consecrated by ever-Ganges and universal lordship"
-  ],
-  "inference": "Victory: refuge like the one undying cool-rayed digit; victory: consecrated by ever-Ganges and universal lordship",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
-  "traces": {
-   "t1_verse": "s14-v07",
-   "l0_ids": [
-    "s14-v07-p000",
-    "s14-v07-p001",
-    "s14-v07-p002"
-   ]
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Which two consecrations win?",
+   "premises": [
+    "Refuge like the one undying cool-rayed digit (the moon).",
+    "Consecration by universal lordship, ever-moist with Ganges."
+   ],
+   "inference": "Refuge and consecration: moon-likeness and lordship-anointing.",
+   "uncertainties": [
+    "sadārbdha is obscure (ever-moist sadārdra? GRETIL typo?); L2 follows the provisional reading, flagged for collation."
+   ],
+   "traces": {
+    "t1_verse": "s14-v07",
+    "l0_ids": [
+     "s14-v07-p000",
+     "s14-v07-p001",
+     "s14-v07-p002",
+     "s14-v07-p003",
+     "s14-v07-p004",
+     "s14-v07-p005",
+     "s14-v07-p006",
+     "s14-v07-p007",
+     "s14-v07-p008",
+     "s14-v07-p009",
+     "s14-v07-p010",
+     "s14-v07-p011",
+     "s14-v07-p012",
+     "s14-v07-p013"
+    ]
   },
   "sanskrit_sha": "4cd8271db1ee918e",
   "option_choices": []

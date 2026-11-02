@@ -1,0 +1,62 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "samb-p03",
+ "work": "sambandhasiddhi",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "e499f838cd805cc7",
+ "source_verses": 5,
+ "t1_verses": 5,
+ "l0": {
+  "parsed": 41,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 41
+ },
+ "align": {
+  "min_ratio": 0.969,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 5,
+ "c1_words": 174,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 5,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 5,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 5,
+   "l0": 41,
+   "argmap": 5,
+   "l2": 5,
+   "l3": 5,
+   "essence": 2,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "e499f838cd805cc7",
+  "t1": "T1-samb-p03.md",
+  "l0": "T1-samb-p03.l0.jsonl",
+  "l2": "L2-samb-p03.md",
+  "c1": "c1/C1-samb-p03.md"
+ }
+}

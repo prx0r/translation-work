@@ -3,11 +3,14 @@
   "verse_id": "s04-v01",
   "song": "s04",
   "verse": 1,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of the fickle mind?",
   "premises": [
-   "*capalam asi yad api mānasa.* Mind, though fickle — even so you are praised, since you worship the refuge of refuges, the world's teacher, Ambikā's husband. Fickleness forgiven for direction: praise for turning, not for steadiness. (Lakshmanjoo addresses his own mind throughout.)"
+   "Mind — though fickle — even so praised.",
+   "Since it worships the refuge of refuges, worlds' teacher, Ambikā's husband."
   ],
-  "reconstruction": "*capalam asi yad api mānasa.* Mind, though fickle — even so you are praised, since you worship the refuge of refuges, the world's teacher, Ambikā's husband. Fickleness forgiven for direction: praise for turning, not for steadiness. (Lakshmanjoo addresses his own mind throughout.)",
+  "inference": "Fickleness no bar: refuge-worship praises the mind.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v01",
@@ -29,8 +32,7 @@
     "s04-v01-p014",
     "s04-v01-p015",
     "s04-v01-p016"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -38,11 +40,14 @@
   "verse_id": "s04-v02",
   "song": "s04",
   "verse": 2,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of low ground?",
   "premises": [
-   "*ullaṅghya vividhadaivatasopānakramam.* Having crossed the ladder-steps of various gods, reached Śiva's feet — yet on the lowest ground I stand even now; wonder, I do not quit it. Arrival without departure: highest object, lowest seat, no contradiction felt."
+   "Stairs of sundry gods climbed past, Śiva's feet reached and held.",
+   "Yet the low ground I keep even today. Strange — I quit it not."
   ],
-  "reconstruction": "*ullaṅghya vividhadaivatasopānakramam.* Having crossed the ladder-steps of various gods, reached Śiva's feet — yet on the lowest ground I stand even now; wonder, I do not quit it. Arrival without departure: highest object, lowest seat, no contradiction felt.",
+  "inference": "Arrival confessed with lowliness kept: strange humility.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v02",
@@ -64,8 +69,7 @@
     "s04-v02-p014",
     "s04-v02-p015",
     "s04-v02-p016"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -73,11 +77,14 @@
   "verse_id": "s04-v03",
   "song": "s04",
   "verse": 3,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What road?",
   "premises": [
-   "*prakaṭaya nijam adhvānaṃ sthagayatarām.* Reveal Your own path, hide all world-ways thoroughly — while I am, Lord, quickly Your ever-risen servant. Double imperative: show Yours, cover theirs; use me now (*sapadi*)."
+   "Show Thine own road, shutter all world-doings tight.",
+   "While I am, Lord, Thy servant now, ever risen."
   ],
-  "reconstruction": "*prakaṭaya nijam adhvānaṃ sthagayatarām.* Reveal Your own path, hide all world-ways thoroughly — while I am, Lord, quickly Your ever-risen servant. Double imperative: show Yours, cover theirs; use me now (*sapadi*).",
+  "inference": "One road asked, world-doings shuttered; risen servanthood.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v03",
@@ -98,8 +105,7 @@
     "s04-v03-p013",
     "s04-v03-p014",
     "s04-v03-p015"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -107,11 +113,14 @@
   "verse_id": "s04-v04",
   "song": "s04",
   "verse": 4,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What fortune?",
   "premises": [
-   "*śiva śiva śambho śaṅkara.* Śiva Śiva Śambhu Śaṅkara — swift pity on the refuge-seekers' lover! Fortune is near for whoever remembers Your lotus-feet-pair. Name-piling as spell; mercy as speed (*āśu*)."
+   "Śiva! Śiva! Śambhu! Śaṅkara! O lover of comers-for-shelter — pity, and swift!",
+   "Who bends on remembering Thy paired lotus-feet — fortunes, not far."
   ],
-  "reconstruction": "*śiva śiva śambho śaṅkara.* Śiva Śiva Śambhu Śaṅkara — swift pity on the refuge-seekers' lover! Fortune is near for whoever remembers Your lotus-feet-pair. Name-piling as spell; mercy as speed (*āśu*).",
+  "inference": "Name-cry and swiftness begged; remembering nears fortunes.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v04",
@@ -135,8 +144,7 @@
     "s04-v04-p016",
     "s04-v04-p017",
     "s04-v04-p018"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -144,11 +152,14 @@
   "verse_id": "s04-v05",
   "song": "s04",
   "verse": 5,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Who laughs?",
   "premises": [
-   "*tāvakāṅghrikamalāsanalīnā.* Those seated on Your foot-lotus-throne, making the world to taste — they laugh at Vir iñc (Brahmā), office-stained, not-self-ruled. Devotees laugh at the creator: office (*adhikāra*) stains, throne-sitting frees."
+   "Dissolved in Thy foot-lotus seat, making the world to taste.",
+   "They laugh at Viriñci, office-smeared, unmastered by himself, Lord."
   ],
-  "reconstruction": "*tāvakāṅghrikamalāsanalīnā.* Those seated on Your foot-lotus-throne, making the world to taste — they laugh at Vir iñc (Brahmā), office-stained, not-self-ruled. Devotees laugh at the creator: office (*adhikāra*) stains, throne-sitting frees.",
+  "inference": "Throned tasters laugh at office-stained Brahmā.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v05",
@@ -173,8 +184,7 @@
     "s04-v05-p017",
     "s04-v05-p018",
     "s04-v05-p019"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -182,11 +192,14 @@
   "verse_id": "s04-v06",
   "song": "s04",
   "verse": 6,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "How near?",
   "premises": [
-   "*tvatprakāśavapuṣo na vibhinnaṃ kiṃ cana.* Nothing appears apart from Your light-body; so You are always already gained, Lord — though far by nature. Immanence proved, transcendence kept: gained AND far."
+   "Naught can show apart from Thy light-body.",
+   "So, Lord, art Thou ever already won, Master, though far by nature."
   ],
-  "reconstruction": "*tvatprakāśavapuṣo na vibhinnaṃ kiṃ cana.* Nothing appears apart from Your light-body; so You are always already gained, Lord — though far by nature. Immanence proved, transcendence kept: gained AND far.",
+  "inference": "Light-body everywhere: already won despite far-nature.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v06",
@@ -212,8 +225,7 @@
     "s04-v06-p018",
     "s04-v06-p019",
     "s04-v06-p020"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -221,11 +233,14 @@
   "verse_id": "s04-v07",
   "song": "s04",
   "verse": 7,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "How tasted?",
   "premises": [
-   "*pādapaṅkajarasaṃ tava ke cid.* Some taste Your foot-lotus-juice as stale-difference-conduct; others instantly taste it as flawless, body-whole, duality-free. Two tastes, one dust: stale vs fresh is the taster's, not the foot's."
+   "Thy foot-lotus sap — some sup as overnight-stale difference-fare.",
+   "But some taste it fresh-poured: shining, whole-bodied, void of two."
   ],
-  "reconstruction": "*pādapaṅkajarasaṃ tava ke cid.* Some taste Your foot-lotus-juice as stale-difference-conduct; others instantly taste it as flawless, body-whole, duality-free. Two tastes, one dust: stale vs fresh is the taster's, not the foot's.",
+  "inference": "One sap, two tastings: stale-difference or fresh nondual.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v07",
@@ -251,8 +266,7 @@
     "s04-v07-p018",
     "s04-v07-p019",
     "s04-v07-p020"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -260,12 +274,17 @@
   "verse_id": "s04-v08",
   "song": "s04",
   "verse": 8,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of the mind?",
   "premises": [
-   "*nātha vidyud iva bhāti vibhāte.* Lord, like lightning at dawn gleams my nectar-smeared — if it stayed steadier, You are worshipped duly — what else? Flash-devotion: one steady flash would complete all rite. (Conditional worship: *if* it stayed.)"
+   "Lord, like daybreak lightning shines my nectar-smeared.",
+   "Would she hold but steadier, then art Thou duly worshipped. What more?"
   ],
-  "reconstruction": "*nātha vidyud iva bhāti vibhāte.* Lord, like lightning at dawn gleams my nectar-smeared — if it stayed steadier, You are worshipped duly — what else? Flash-devotion: one steady flash would complete all rite. (Conditional worship: *if* it stayed.)",
-  "uncertainties": [],
+  "inference": "Nectar-smeared mind prayed steady; steady worship suffices.",
+  "uncertainties": [
+   "Feminine subject unexpressed in Sanskrit (mānasī/mati implied); kept bare per Bar 6."
+  ],
   "traces": {
    "t1_verse": "s04-v08",
    "l0_ids": [
@@ -292,8 +311,7 @@
     "s04-v08-p020",
     "s04-v08-p021",
     "s04-v08-p022"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -301,11 +319,14 @@
   "verse_id": "s04-v09",
   "song": "s04",
   "verse": 9,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What beyond?",
   "premises": [
-   "*sarvam asyaparam asti na kiṃ cid.* Is there anything, thing or non-thing, apart from this? With great discernment decided here: as You are, so be plain to me. Discernment (*prajñā*) issues in demand: appear as You are."
+   "'Thing or unthing — is aught beyond this?'",
+   "Thus with high discernment resolved: as Thou art, be Thou bare to me."
   ],
-  "reconstruction": "*sarvam asyaparam asti na kiṃ cid.* Is there anything, thing or non-thing, apart from this? With great discernment decided here: as You are, so be plain to me. Discernment (*prajñā*) issues in demand: appear as You are.",
+  "inference": "Beyond-thing questioned; bareness begged as Thou art.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v09",
@@ -336,8 +357,7 @@
     "s04-v09-p023",
     "s04-v09-p024",
     "s04-v09-p025"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -345,11 +365,14 @@
   "verse_id": "s04-v10",
   "song": "s04",
   "verse": 10,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Why folk-like?",
   "premises": [
-   "*svecchayaiva bhagavan nijamārge kāritaḥ padam.* By Your will alone, Lord, I was made to step on Your own path — then why do I behave just like a man, knowing nothing fit for Your feet? Placed unasked (Lakshmanjoo's stressed point: \"I never asked You... You have done it Yourself!\"), yet behaving humanly — the complaint of the carried."
+   "By Thine own will alone, Lord, on Thine own road I was set walking.",
+   "By the Lord Himself. Why then walk I mere folk-like, kenning naught worthy of Thy feet?"
   ],
-  "reconstruction": "*svecchayaiva bhagavan nijamārge kāritaḥ padam.* By Your will alone, Lord, I was made to step on Your own path — then why do I behave just like a man, knowing nothing fit for Your feet? Placed unasked (Lakshmanjoo's stressed point: \"I never asked You... You have done it Yourself!\"), yet behaving humanly — the complaint of the carried.",
+  "inference": "Will-set walking shames folk-like stumbling.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v10",
@@ -378,8 +401,7 @@
     "s04-v10-p021",
     "s04-v10-p022",
     "s04-v10-p023"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -387,11 +409,14 @@
   "verse_id": "s04-v11",
   "song": "s04",
   "verse": 11,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What blooms?",
   "premises": [
-   "*ko 'pi deva hṛdi teṣu tāvako jṛmbhate.* Some god of Yours blooms in their hearts, a lovely supreme state — by whose story-thunder-cātakas they are long gladdened. Devotion blooms unasked in some; story-rain gladdens long."
+   "Some god of Thine blooms in their hearts — a lovely high mood.",
+   "Thy story-cloud's thunder — its cātakas, by it made lovely, long."
   ],
-  "reconstruction": "*ko 'pi deva hṛdi teṣu tāvako jṛmbhate.* Some god of Yours blooms in their hearts, a lovely supreme state — by whose story-thunder-cātakas they are long gladdened. Devotion blooms unasked in some; story-rain gladdens long.",
+  "inference": "Heart-bloom and cloud-longing: god grown, thunder thirsted.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v11",
@@ -416,8 +441,7 @@
     "s04-v11-p017",
     "s04-v11-p018",
     "s04-v11-p019"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -425,11 +449,14 @@
   "verse_id": "s04-v12",
   "song": "s04",
   "verse": 12,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "How fattened?",
   "premises": [
-   "*tvajjuṣāṃ tvayi kayāpi līlayā rāga eṣa paripoṣam āgataḥ.* For Your devotees, by some play in You, this love has grown fat — so that separation-ground talk and memory fruit in union-festival. Play grows love; separation-talk (*saṅkathā*) itself fruits in union."
+   "Thy partakers — by some play in Thee this love has grown fat.",
+   "On parting-ground, talk, remembrance too, fruit a union-feast."
   ],
-  "reconstruction": "*tvajjuṣāṃ tvayi kayāpi līlayā rāga eṣa paripoṣam āgataḥ.* For Your devotees, by some play in You, this love has grown fat — so that separation-ground talk and memory fruit in union-festival. Play grows love; separation-talk (*saṅkathā*) itself fruits in union.",
+  "inference": "Play-fattened love fruits union-feast from parting-ground.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v12",
@@ -453,8 +480,7 @@
     "s04-v12-p016",
     "s04-v12-p017",
     "s04-v12-p018"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -462,11 +488,14 @@
   "verse_id": "s04-v13",
   "song": "s04",
   "verse": 13,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "How fresh?",
   "premises": [
-   "*yo vicitrarasasekavardhitaḥ.* The word, grown by strange-rasa-sprinkling, though uttered \"Śaṅkara\" hundreds of times — enters even sideways hearts, ever-fresh in purpose. The Name penetrates the unwilling; freshness never stales."
+   "Grown by strange-sap watering — 'Śaṅkara!' hundredfold though uttered.",
+   "The word slips even into slant hearts, its errand ever fresh."
   ],
-  "reconstruction": "*yo vicitrarasasekavardhitaḥ.* The word, grown by strange-rasa-sprinkling, though uttered \"Śaṅkara\" hundreds of times — enters even sideways hearts, ever-fresh in purpose. The Name penetrates the unwilling; freshness never stales.",
+  "inference": "Hundredfold Name stays fresh, slant hearts entered.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v13",
@@ -490,8 +519,7 @@
     "s04-v13-p016",
     "s04-v13-p017",
     "s04-v13-p018"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -499,11 +527,14 @@
   "verse_id": "s04-v14",
   "song": "s04",
   "verse": 14,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Who wins?",
   "premises": [
-   "*te jayanti mukhamaṇḍale bhraman.* Victorious are they on whose face-orbits the Śiva-sound ever revolves — which, moon-spread from nectar-source, trickles supreme nectar, sweet. Faces win: sound on the mouth beats thought in the head."
+   "They win on whose face-orbs circles ever the Śiva-din.",
+   "Which, moonlike, streaming from nectar's seat, trickles sweet supreme nectar."
   ],
-  "reconstruction": "*te jayanti mukhamaṇḍale bhraman.* Victorious are they on whose face-orbits the Śiva-sound ever revolves — which, moon-spread from nectar-source, trickles supreme nectar, sweet. Faces win: sound on the mouth beats thought in the head.",
+  "inference": "Śiva-din circlers win; moon-stream trickles nectar.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v14",
@@ -529,8 +560,7 @@
     "s04-v14-p018",
     "s04-v14-p019",
     "s04-v14-p020"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -538,11 +568,14 @@
   "verse_id": "s04-v15",
   "song": "s04",
   "verse": 15,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What knocking?",
   "premises": [
-   "*parisamāptam ivogram idaṃ jagad.* The fierce world as if finished; mind's impurity thinned to none — and yet not even the smallest knocking at Your city-door-bolt. End of differentiation (Lakshmanjoo's Bruce Hughes passage) — yet no entry knocked. The door verse: realization without arrival. Do not resolve."
+   "The fierce world as if done; mind-stain melted thin.",
+   "Yet at Thy city, bolt-and-door, not one atom of knocking."
   ],
-  "reconstruction": "*parisamāptam ivogram idaṃ jagad.* The fierce world as if finished; mind's impurity thinned to none — and yet not even the smallest knocking at Your city-door-bolt. End of differentiation (Lakshmanjoo's Bruce Hughes passage) — yet no entry knocked. The door verse: realization without arrival. Do not resolve.",
+  "inference": "World done, stain thinned — yet no knock at bolted door.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v15",
@@ -569,8 +602,7 @@
     "s04-v15-p019",
     "s04-v15-p020",
     "s04-v15-p021"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -578,11 +610,14 @@
   "verse_id": "s04-v16",
   "song": "s04",
   "verse": 16,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What gaze begged?",
   "premises": [
-   "*satataphullabhavanmukhapaṅkajodaravilokanalālasacetasaḥ.* Of minds eager for Your ever-blooming face-lotus-belly-gaze — do something, Lord, just a little, so You flash as facing me. \"Just a little\" (*manāg iva*): the smallest turn asked."
+   "Hungry for one gaze into Thy ever-bloom face-lotus's heart.",
+   "Do aught, Lord, the merest: flash Thou facing me."
   ],
-  "reconstruction": "*satataphullabhavanmukhapaṅkajodaravilokanalālasacetasaḥ.* Of minds eager for Your ever-blooming face-lotus-belly-gaze — do something, Lord, just a little, so You flash as facing me. \"Just a little\" (*manāg iva*): the smallest turn asked.",
+  "inference": "One facing-flash begged for face-lotus hunger.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v16",
@@ -608,8 +643,7 @@
     "s04-v16-p018",
     "s04-v16-p019",
     "s04-v16-p020"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -617,12 +651,17 @@
   "verse_id": "s04-v17",
   "song": "s04",
   "verse": 17,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Why wrong-road?",
   "premises": [
-   "*tvadavibhedamater aparaṃ nu kiṃ sukham.* What happiness here apart from non-difference-mind, what other glory? So why does this servant's mind, abandoning her, go the wrong way?"
+   "What joy here but thought of Thy undifference — what other glory?",
+   "Why then does this slave of Thine go wrong-road, forsaking her?"
   ],
-  "reconstruction": "*tvadavibhedamater aparaṃ nu kiṃ sukham.* What happiness here apart from non-difference-mind, what other glory? So why does this servant's mind, abandoning her, go the wrong way?",
-  "uncertainties": [],
+  "inference": "Undifference-joy confessed; wrong-road questioned.",
+  "uncertainties": [
+   "'Her' = matim (undifference-mind, v17a feminine); antecedent carried from line 1."
+  ],
   "traces": {
    "t1_verse": "s04-v17",
    "l0_ids": [
@@ -650,8 +689,7 @@
     "s04-v17-p021",
     "s04-v17-p022",
     "s04-v17-p023"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -659,11 +697,14 @@
   "verse_id": "s04-v18",
   "song": "s04",
   "verse": 18,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What fitness?",
   "premises": [
-   "*kṣaṇam apīha na tāvakadāsatāṃ prati.* May I never for a moment be unfit for Your serfdom — unless constantly, reverently tasting non-difference-wine. Fitness redefined as tasting-frequency."
+   "Never for an instant here unfit for Thy serfdom may I be.",
+   "Unless I sip, loving, unceasing, Thy undifference-wine."
   ],
-  "reconstruction": "*kṣaṇam apīha na tāvakadāsatāṃ prati.* May I never for a moment be unfit for Your serfdom — unless constantly, reverently tasting non-difference-wine. Fitness redefined as tasting-frequency.",
+  "inference": "Unceasing fitness begged, undifference-wine sipped.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v18",
@@ -689,8 +730,7 @@
     "s04-v18-p018",
     "s04-v18-p019",
     "s04-v18-p020"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -698,11 +738,14 @@
   "verse_id": "s04-v19",
   "song": "s04",
   "verse": 19,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Why unheard?",
   "premises": [
-   "*na kila paśyati satyam ayaṃ janas.* These people truly do not see Your body, dirtied by duality-sight — and yet, all-knowing refuge-lover, do You not hear MY cry? Others' blindness conceded; his cry excepted. (Lakshmanjoo: \"I confess it, my Lord.\")"
+   "Folk see not, truly, Thy body — two-sight-dirtied. Yet Thou, all-knowing, shelter-tender.",
+   "Why hearest Thou not this wail of mine?"
   ],
-  "reconstruction": "*na kila paśyati satyam ayaṃ janas.* These people truly do not see Your body, dirtied by duality-sight — and yet, all-knowing refuge-lover, do You not hear MY cry? Others' blindness conceded; his cry excepted. (Lakshmanjoo: \"I confess it, my Lord.\")",
+  "inference": "Unseeing folk, all-knowing shelter: why unheard wail?",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v19",
@@ -729,8 +772,7 @@
     "s04-v19-p019",
     "s04-v19-p020",
     "s04-v19-p021"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -738,11 +780,14 @@
   "verse_id": "s04-v20",
   "song": "s04",
   "verse": 20,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What wish?",
   "premises": [
-   "*smarasi nātha kadācid apīhitaṃ* Do You remember, Lord, any desired sense-pleasure I ever asked? Give instead, always, Your body-vision-nectar as the only wish. Pleasures recalled only to be exchanged."
+   "Rememberest Thou, Lord, e'er a sense-joy I wished — or e'er asked?",
+   "Give ever Thy body-beholding nectar — my one wish. Give it."
   ],
-  "reconstruction": "*smarasi nātha kadācid apīhitaṃ* Do You remember, Lord, any desired sense-pleasure I ever asked? Give instead, always, Your body-vision-nectar as the only wish. Pleasures recalled only to be exchanged.",
+  "inference": "Sense-joys disclaimed; one wish pressed: body-beholding nectar.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v20",
@@ -770,8 +815,7 @@
     "s04-v20-p020",
     "s04-v20-p021",
     "s04-v20-p022"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -779,11 +823,14 @@
   "verse_id": "s04-v21",
   "song": "s04",
   "verse": 21,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What more hunted?",
   "premises": [
-   "*kila yadaiva śivādhvani tāvake kṛtapado 'smi.* Since by Your will alone I stepped on Your Śiva-path, Lord — hundreds of good omens rose for me; what else should I seek from You? Placed-ness (10) returns as contentment. (Lakshmanjoo: hundreds of good things.)"
+   "Since foot I've set, Great-Lord, on Thy Śiva-road — by Thy will.",
+   "Fair hundreds rose for me at once. What more hunt I from Thee, Master?"
   ],
-  "reconstruction": "*kila yadaiva śivādhvani tāvake kṛtapado 'smi.* Since by Your will alone I stepped on Your Śiva-path, Lord — hundreds of good omens rose for me; what else should I seek from You? Placed-ness (10) returns as contentment. (Lakshmanjoo: hundreds of good things.)",
+  "inference": "Omens risen by will-walking: what more to hunt?",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v21",
@@ -811,8 +858,7 @@
     "s04-v21-p020",
     "s04-v21-p021",
     "s04-v21-p022"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -820,11 +866,14 @@
   "verse_id": "s04-v22",
   "song": "s04",
   "verse": 22,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What night?",
   "premises": [
-   "*yatra so 'stam ayam eti vivasvāṃś* Where the sun sets with the moon and all — that unconquered Śiva-night shines, self-light-spread-lustrous. Counter-cosmos: when all lights set, His night shines. (The 15.17 night-post, anticipated.)"
+   "Where sun goes down with moon and all their train.",
+   "What a Śiva-night reigns, self-light outspread and lustrous."
   ],
-  "reconstruction": "*yatra so 'stam ayam eti vivasvāṃś* Where the sun sets with the moon and all — that unconquered Śiva-night shines, self-light-spread-lustrous. Counter-cosmos: when all lights set, His night shines. (The 15.17 night-post, anticipated.)",
+  "inference": "Sun-moon set: Śiva-night of self-light reigns.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v22",
@@ -850,8 +899,7 @@
     "s04-v22-p018",
     "s04-v22-p019",
     "s04-v22-p020"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -859,11 +907,14 @@
   "verse_id": "s04-v23",
   "song": "s04",
   "verse": 23,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of overlordship?",
   "premises": [
-   "*apy upārjitam ahaṃ triṣu lokeṣv adhipatyam.* Even won rule in three worlds, O king of gods, I count tasteless — lacking Your foot-touch-nectar-rasa. Empire vs foot-touch: no contest."
+   "Three worlds' overlordship won — yet, God-king, I reckon it sapless, all.",
+   "Wanting Thy foot-touch nectar-sap."
   ],
-  "reconstruction": "*apy upārjitam ahaṃ triṣu lokeṣv adhipatyam.* Even won rule in three worlds, O king of gods, I count tasteless — lacking Your foot-touch-nectar-rasa. Empire vs foot-touch: no contest.",
+  "inference": "Won worlds sapless beside foot-touch sap.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v23",
@@ -886,8 +937,7 @@
     "s04-v23-p015",
     "s04-v23-p016",
     "s04-v23-p017"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -895,11 +945,14 @@
   "verse_id": "s04-v24",
   "song": "s04",
   "verse": 24,
-  "structured": false,
-   "premises": [
-    "*bata nātha dṛḍho 'yam ātmabandho.* Alas, Lord, strong is this self-bond, made of non-recognition of You, fashioned by You alone — first ignored by me, it never loosens a bit. Bond made BY Him OF non-recognition: akhyāti is the Pratyabhijñā technical term (failure to recognize the Self), not fame. The knot He tied. Held, not solved."
-   ],
-   "reconstruction": "*bata nātha dṛḍho 'yam ātmabandho.* Alas, Lord, strong is this self-bond, made of non-recognition of You, fashioned by You alone — first ignored by me, it never loosens a bit. Bond made BY Him OF non-recognition: akhyāti is the Pratyabhijñā technical term (failure to recognize the Self), not fame. The knot He tied. Held, not solved.",
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What bond?",
+  "premises": [
+   "Alas, Lord — tough, this self-bond, Thy-unrecognition-made, tied by Thee alone.",
+   "Scorning Thee first of all, it slackens not one jot."
+  ],
+  "inference": "Self-bond confessed: Thy-made, unrecognition-stuffed, unslackening.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s04-v24",
@@ -927,8 +980,7 @@
     "s04-v24-p020",
     "s04-v24-p021",
     "s04-v24-p022"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  },
@@ -936,12 +988,17 @@
   "verse_id": "s04-v25",
   "song": "s04",
   "verse": 25,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What shape stands?",
   "premises": [
-   "*mahatām amareśa pūjyamāno 'py.* Though worshipped by the great, O king of gods, You ever stay the one-worshipper-form — seen outside and in, You shine in the seers' bodies forever. Final inversion: the worshipped is the worshipper; He shines inside the seers, not above them."
+   "God-king — though worshipped by the great, ever Thou standest worshiper-shaped alone.",
+   "Seen without, within, here, Thou flashest in seer-bodies — ever."
   ],
-  "reconstruction": "*mahatām amareśa pūjyamāno 'py.* Though worshipped by the great, O king of gods, You ever stay the one-worshipper-form — seen outside and in, You shine in the seers' bodies forever. Final inversion: the worshipped is the worshipper; He shines inside the seers, not above them.",
-  "uncertainties": [],
+  "inference": "Worshipped, Thou standest worshiper: seer-bodied flashing.",
+  "uncertainties": [
+   "pūjakaikarūpa paradox kept (worshipped-yet-worshiper); not resolved."
+  ],
   "traces": {
    "t1_verse": "s04-v25",
    "l0_ids": [
@@ -965,8 +1022,7 @@
     "s04-v25-p017",
     "s04-v25-p018",
     "s04-v25-p019"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "fd02c190f3ecc071"
  }

@@ -1596,46 +1596,420 @@
   "legacy_id": "T1:s14-v05:T1",
   "verse_id": "s14-v05",
   "pada_index": 1,
-  "surface": "śobhaśatasyandilokottaravapurdhara",
-  "legacy_raw": "[and]-bearer-of-body-beyond-worlds-streaming-beauties (śobhaśatasyandilokottaravapurdhara)",
-  "citation": "śobhaśatasyandilokottaravapurdhara",
-  "morph": "voc.sg",
+  "surface": "śobha",
+  "legacy_raw": "[and]-beauty (śobha)",
+  "citation": "śobha",
+  "morph": "comp (śobha)",
   "morph_unknown": false,
   "options": [
    {
-    "gloss": "bearer-of-body-beyond-worlds-streaming-beauties",
-    "note": "backfilled from T1 gloss",
+    "gloss": "beauty",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "first member of tatpuruṣa"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "beauty",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v05-p002",
   "legacy_id": "T1:s14-v05:T2",
   "verse_id": "s14-v05",
   "pada_index": 2,
-  "surface": "jayaikajaṭikākṣīṇagaṅgākṛtyāttabhasmaka",
-  "legacy_raw": "[and]-single-braided-Ganges-thinned-ash-seized (jayaikajaṭikākṣīṇagaṅgākṛtyāttabhasmaka)",
-  "citation": "jayaikajaṭikākṣīṇagaṅgākṛtyāttabhasmaka",
-  "morph": "voc.sg",
+  "surface": "śata",
+  "legacy_raw": "[and]-hundred (śata)",
+  "citation": "śata",
+  "morph": "comp (śata)",
   "morph_unknown": false,
   "options": [
    {
-    "gloss": "single-braided-Ganges-thinned-ash-seized",
-    "note": "backfilled from T1 gloss",
+    "gloss": "hundred",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "numeral member"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "hundred",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p003",
+  "legacy_id": "T1:s14-v05:T3",
+  "verse_id": "s14-v05",
+  "pada_index": 3,
+  "surface": "syandin",
+  "legacy_raw": "[and]-streaming (syandin)",
+  "citation": "syandin",
+  "morph": "comp (syandin)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "streaming",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "present participle of syand in compound"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "streaming",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p004",
+  "legacy_id": "T1:s14-v05:T4",
+  "verse_id": "s14-v05",
+  "pada_index": 4,
+  "surface": "lokottara",
+  "legacy_raw": "[and]-beyond-worlds (lokottara)",
+  "citation": "lokottara",
+  "morph": "comp (lokottara)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "beyond-worlds",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "loka-uttara: beyond the world"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "beyond-worlds",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p005",
+  "legacy_id": "T1:s14-v05:T5",
+  "verse_id": "s14-v05",
+  "pada_index": 5,
+  "surface": "vapus",
+  "legacy_raw": "[and]-body (vapus)",
+  "citation": "vapus",
+  "morph": "comp (vapus)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "body",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "body",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p006",
+  "legacy_id": "T1:s14-v05:T6",
+  "verse_id": "s14-v05",
+  "pada_index": 6,
+  "surface": "dhara",
+  "legacy_raw": "[and]-bearer (dhara)",
+  "citation": "dhara",
+  "morph": "voc.sg.m (dhara)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "bearer",
+    "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "whole compound is vocative address"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "bearer",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p007",
+  "legacy_id": "T1:s14-v05:T7",
+  "verse_id": "s14-v05",
+  "pada_index": 7,
+  "surface": "jaya",
+  "legacy_raw": "[and]-victory (jaya)",
+  "citation": "jaya",
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "victory",
+    "note": "hand-split 2026-11-02; second jaya-cry (compound-initial)",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "interjection opening second half"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "victory",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p008",
+  "legacy_id": "T1:s14-v05:T8",
+  "verse_id": "s14-v05",
+  "pada_index": 8,
+  "surface": "eka",
+  "legacy_raw": "[and]-single (eka)",
+  "citation": "eka",
+  "morph": "comp (eka)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "single",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "adjectival member: single braid"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "single",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p009",
+  "legacy_id": "T1:s14-v05:T9",
+  "verse_id": "s14-v05",
+  "pada_index": 9,
+  "surface": "jaṭika",
+  "legacy_raw": "[and]-braided (jaṭika)",
+  "citation": "jaṭika",
+  "morph": "comp (jaṭika)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "braided",
+    "note": "hand-split 2026-11-02; matted locks",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa (jaṭā locks)"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "braided",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p010",
+  "legacy_id": "T1:s14-v05:T10",
+  "verse_id": "s14-v05",
+  "pada_index": 10,
+  "surface": "akṣīṇa",
+  "legacy_raw": "[and]-undecayed (akṣīṇa)",
+  "citation": "akṣīṇa",
+  "morph": "comp (akṣīṇa)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "undecayed",
+    "note": "hand-split 2026-11-02; a-privative restores the dropped negation (was Ganges-thinned)",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "a-kṣīṇa: unwasting; prior gloss inverted it"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "undecayed",
+    "reason": "pada-split; restored dropped a-privative negation",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p011",
+  "legacy_id": "T1:s14-v05:T11",
+  "verse_id": "s14-v05",
+  "pada_index": 11,
+  "surface": "gaṅgā",
+  "legacy_raw": "[and]-Ganges (gaṅgā)",
+  "citation": "gaṅgā",
+  "morph": "comp (gaṅgā)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "Ganges",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "Ganges",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p012",
+  "legacy_id": "T1:s14-v05:T12",
+  "verse_id": "s14-v05",
+  "pada_index": 12,
+  "surface": "kṛtya",
+  "legacy_raw": "[and]-rite (kṛtya)",
+  "citation": "kṛtya",
+  "morph": "comp (kṛtya)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "rite",
+    "note": "hand-split 2026-11-02; sense open (rite? deed?) — flagged in argmap",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa; kṛtya = what is to be done"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "rite",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p013",
+  "legacy_id": "T1:s14-v05:T13",
+  "verse_id": "s14-v05",
+  "pada_index": 13,
+  "surface": "ātta",
+  "legacy_raw": "[and]-seized (ātta)",
+  "citation": "ātta",
+  "morph": "comp (ātta)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "seized",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "past participle of ā-√dā in compound"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "seized",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v05-p014",
+  "legacy_id": "T1:s14-v05:T14",
+  "verse_id": "s14-v05",
+  "pada_index": 14,
+  "surface": "bhasmaka",
+  "legacy_raw": "[and]-ashen (bhasmaka)",
+  "citation": "bhasmaka",
+  "morph": "voc.sg.m (bhasman)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "ashen",
+    "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "whole compound is vocative address"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "ashen",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v06-p000",
@@ -1665,75 +2039,156 @@
   "legacy_id": "T1:s14-v06:T1",
   "verse_id": "s14-v06",
   "pada_index": 1,
-  "surface": "kṣīrodaparyastajyotsnācchāyānulepana",
-  "legacy_raw": "[and]-smeared-with-milk-ocean-moonlight-shade (kṣīrodaparyastajyotsnācchāyānulepana)",
-  "citation": "kṣīrodaparyastajyotsnācchāyānulepana",
-  "morph": "voc.sg",
+  "surface": "kṣīroda",
+  "legacy_raw": "[and]-milk-ocean (kṣīroda)",
+  "citation": "kṣīroda",
+  "morph": "comp (kṣīroda)",
   "morph_unknown": false,
   "options": [
    {
-    "gloss": "smeared-with-milk-ocean-moonlight-shade",
-    "note": "backfilled from T1 gloss",
+    "gloss": "milk-ocean",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "first member of tatpuruṣa"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "milk-ocean",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v06-p002",
   "legacy_id": "T1:s14-v06:T2",
   "verse_id": "s14-v06",
   "pada_index": 2,
-  "surface": "jayeśvarāṅgasaṅgottharatnakāntāhimaṇḍana",
-  "legacy_raw": "[and]-snow-ornamented-with-jewel-light (jayeśvarāṅgasaṅgottharatnakāntāhimaṇḍana)",
-  "citation": "jayeśvarāṅgasaṅgottharatnakāntāhimaṇḍana",
-  "morph": "voc.sg",
+  "surface": "paryasta",
+  "legacy_raw": "[and]-spread (paryasta)",
+  "citation": "paryasta",
+  "morph": "comp (paryasta)",
   "morph_unknown": false,
   "options": [
    {
-    "gloss": "snow-ornamented-with-jewel-light",
-    "note": "backfilled from T1 gloss",
+    "gloss": "spread",
+    "note": "hand-split 2026-11-02; past participle of pari-√as",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "spread",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
-  "id": "s14-v07-p000",
-  "legacy_id": "T1:s14-v07:T0",
-  "verse_id": "s14-v07",
-  "pada_index": 0,
-  "surface": "jayākṣayaikaśītāṃśukalāsadṛśasaṃśraya",
-  "legacy_raw": "[and]-refuge-like-undying-cool-rayed-digit (jayākṣayaikaśītāṃśukalāsadṛśasaṃśraya)",
-  "citation": "jayākṣayaikaśītāṃśukalāsadṛśasaṃśraya",
-  "morph": "voc.sg",
+  "id": "s14-v06-p003",
+  "legacy_id": "T1:s14-v06:T3",
+  "verse_id": "s14-v06",
+  "pada_index": 3,
+  "surface": "jyotsnā",
+  "legacy_raw": "[and]-moonlight (jyotsnā)",
+  "citation": "jyotsnā",
+  "morph": "comp (jyotsnā)",
   "morph_unknown": false,
   "options": [
    {
-    "gloss": "refuge-like-undying-cool-rayed-digit",
-    "note": "backfilled from T1 gloss",
+    "gloss": "moonlight",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "moonlight",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
-  "id": "s14-v07-p001",
-  "legacy_id": "T1:s14-v07:T1",
-  "verse_id": "s14-v07",
-  "pada_index": 1,
+  "id": "s14-v06-p004",
+  "legacy_id": "T1:s14-v06:T4",
+  "verse_id": "s14-v06",
+  "pada_index": 4,
+  "surface": "cchāyā",
+  "legacy_raw": "[and]-shade (cchāyā)",
+  "citation": "cchāyā",
+  "morph": "comp (cchāyā)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "shade",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "shade",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p005",
+  "legacy_id": "T1:s14-v06:T5",
+  "verse_id": "s14-v06",
+  "pada_index": 5,
+  "surface": "anulepana",
+  "legacy_raw": "[and]-smeared (anulepana)",
+  "citation": "anulepana",
+  "morph": "voc.sg.n (anulepana)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "smeared",
+    "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "whole compound is vocative address"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "smeared",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p006",
+  "legacy_id": "T1:s14-v06:T6",
+  "verse_id": "s14-v06",
+  "pada_index": 6,
   "surface": "jaya",
   "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
@@ -1742,38 +2197,682 @@
   "options": [
    {
     "gloss": "victory",
-    "note": "backfilled from T1 gloss",
+    "note": "hand-split 2026-11-02; second jaya-cry (compound-initial)",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "interjection opening second half"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "victory",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p007",
+  "legacy_id": "T1:s14-v06:T7",
+  "verse_id": "s14-v06",
+  "pada_index": 7,
+  "surface": "īśvara",
+  "legacy_raw": "[and]-Lord (īśvara)",
+  "citation": "īśvara",
+  "morph": "comp (īśvara)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "Lord",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "first member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "Lord",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p008",
+  "legacy_id": "T1:s14-v06:T8",
+  "verse_id": "s14-v06",
+  "pada_index": 8,
+  "surface": "aṅga",
+  "legacy_raw": "[and]-limb (aṅga)",
+  "citation": "aṅga",
+  "morph": "comp (aṅga)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "limb",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "limb",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p009",
+  "legacy_id": "T1:s14-v06:T9",
+  "verse_id": "s14-v06",
+  "pada_index": 9,
+  "surface": "saṅga",
+  "legacy_raw": "[and]-contact (saṅga)",
+  "citation": "saṅga",
+  "morph": "comp (saṅga)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "contact",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "contact",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p010",
+  "legacy_id": "T1:s14-v06:T10",
+  "verse_id": "s14-v06",
+  "pada_index": 10,
+  "surface": "uttha",
+  "legacy_raw": "[and]-risen (uttha)",
+  "citation": "uttha",
+  "morph": "comp (uttha)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "risen",
+    "note": "hand-split 2026-11-02; past participle of ud-√sthā",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "risen",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p011",
+  "legacy_id": "T1:s14-v06:T11",
+  "verse_id": "s14-v06",
+  "pada_index": 11,
+  "surface": "ratna",
+  "legacy_raw": "[and]-jewel (ratna)",
+  "citation": "ratna",
+  "morph": "comp (ratna)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "jewel",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "jewel",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p012",
+  "legacy_id": "T1:s14-v06:T12",
+  "verse_id": "s14-v06",
+  "pada_index": 12,
+  "surface": "kāntā",
+  "legacy_raw": "[and]-beloved (kāntā)",
+  "citation": "kāntā",
+  "morph": "comp (kāntā)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "beloved",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "beloved",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p013",
+  "legacy_id": "T1:s14-v06:T13",
+  "verse_id": "s14-v06",
+  "pada_index": 13,
+  "surface": "hima",
+  "legacy_raw": "[and]-snow (hima)",
+  "citation": "hima",
+  "morph": "comp (hima)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "snow",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "snow",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v06-p014",
+  "legacy_id": "T1:s14-v06:T14",
+  "verse_id": "s14-v06",
+  "pada_index": 14,
+  "surface": "maṇḍana",
+  "legacy_raw": "[and]-ornament (maṇḍana)",
+  "citation": "maṇḍana",
+  "morph": "voc.sg.n (maṇḍana)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "ornament",
+    "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "whole compound is vocative address"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "ornament",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p000",
+  "legacy_id": "T1:s14-v07:T0",
+  "verse_id": "s14-v07",
+  "pada_index": 0,
+  "surface": "jaya",
+  "legacy_raw": "[and]-victory (jaya)",
+  "citation": "jaya",
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "victory",
+    "note": "hand-split 2026-11-02; opening jaya-cry (compound-initial)",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "interjection opening the line"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "victory",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p001",
+  "legacy_id": "T1:s14-v07:T1",
+  "verse_id": "s14-v07",
+  "pada_index": 1,
+  "surface": "akṣaya",
+  "legacy_raw": "[and]-undying (akṣaya)",
+  "citation": "akṣaya",
+  "morph": "comp (akṣaya)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "undying",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "a-kṣaya privative: unwasting"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "undying",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v07-p002",
   "legacy_id": "T1:s14-v07:T2",
   "verse_id": "s14-v07",
   "pada_index": 2,
-  "surface": "gaṅgāsadārbdhaviśvaiśvaryābhiṣecana",
-  "legacy_raw": "[and]-consecrated-by-ever-Ganges-and-universal-lordship (gaṅgāsadārbdhaviśvaiśvaryābhiṣecana)",
-  "citation": "gaṅgāsadārbdhaviśvaiśvaryābhiṣecana",
-  "morph": "voc.sg",
+  "surface": "eka",
+  "legacy_raw": "[and]-one (eka)",
+  "citation": "eka",
+  "morph": "comp (eka)",
   "morph_unknown": false,
   "options": [
    {
-    "gloss": "consecrated-by-ever-Ganges-and-universal-lordship",
-    "note": "backfilled from T1 gloss",
+    "gloss": "one",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "adjectival member"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "one",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p003",
+  "legacy_id": "T1:s14-v07:T3",
+  "verse_id": "s14-v07",
+  "pada_index": 3,
+  "surface": "śīta",
+  "legacy_raw": "[and]-cool (śīta)",
+  "citation": "śīta",
+  "morph": "comp (śīta)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "cool",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa (cool-rayed)"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "cool",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p004",
+  "legacy_id": "T1:s14-v07:T4",
+  "verse_id": "s14-v07",
+  "pada_index": 4,
+  "surface": "aṃśu",
+  "legacy_raw": "[and]-rayed (aṃśu)",
+  "citation": "aṃśu",
+  "morph": "comp (aṃśu)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "rayed",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "rayed",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p005",
+  "legacy_id": "T1:s14-v07:T5",
+  "verse_id": "s14-v07",
+  "pada_index": 5,
+  "surface": "kalā",
+  "legacy_raw": "[and]-digit (kalā)",
+  "citation": "kalā",
+  "morph": "comp (kalā)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "digit",
+    "note": "hand-split 2026-11-02; moon-digit",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "digit",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p006",
+  "legacy_id": "T1:s14-v07:T6",
+  "verse_id": "s14-v07",
+  "pada_index": 6,
+  "surface": "sadṛśa",
+  "legacy_raw": "[and]-like (sadṛśa)",
+  "citation": "sadṛśa",
+  "morph": "comp (sadṛśa)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "like",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "like",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p007",
+  "legacy_id": "T1:s14-v07:T7",
+  "verse_id": "s14-v07",
+  "pada_index": 7,
+  "surface": "saṃśraya",
+  "legacy_raw": "[and]-refuge (saṃśraya)",
+  "citation": "saṃśraya",
+  "morph": "voc.sg.m (saṃśraya)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "refuge",
+    "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "whole compound is vocative address"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "refuge",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p008",
+  "legacy_id": "T1:s14-v07:T8",
+  "verse_id": "s14-v07",
+  "pada_index": 8,
+  "surface": "jaya",
+  "legacy_raw": "[and]-victory (jaya)",
+  "citation": "jaya",
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "victory",
+    "note": "hand-split 2026-11-02; second jaya-cry (compound-initial)",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "interjection opening second half"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "victory",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p009",
+  "legacy_id": "T1:s14-v07:T9",
+  "verse_id": "s14-v07",
+  "pada_index": 9,
+  "surface": "gaṅgā",
+  "legacy_raw": "[and]-Ganges (gaṅgā)",
+  "citation": "gaṅgā",
+  "morph": "comp (gaṅgā)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "Ganges",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "first member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "Ganges",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p010",
+  "legacy_id": "T1:s14-v07:T10",
+  "verse_id": "s14-v07",
+  "pada_index": 10,
+   "surface": "sadārbdha",
+   "legacy_raw": "[and]-ever-moist-uncertain (sadārbdha)",
+  "citation": "sadārbdha",
+  "morph": "comp (sadārbdha?)",
+  "morph_unknown": false,
+   "options": [
+    {
+     "gloss": "ever-moist-uncertain",
+     "note": "hand-split 2026-11-02; OBSCURE: possibly GRETIL typo for sadārdra (ever-moist); needs collation, flagged in argmap",
+     "rank": 1,
+     "source": "t1-draft",
+     "grounds": "provisional reading sadā+ārdra; unconfirmed"
+    }
+   ],
+   "chosen_index": 0,
+   "status": "PARSED",
+   "fork": "none",
+   "history": [
+    {
+     "gloss": "ever-moist-uncertain",
+     "reason": "pada-split; obscure member flagged, not smoothed",
+     "date": "2026-11-02"
+    }
+   ]
+ },
+ {
+  "id": "s14-v07-p011",
+  "legacy_id": "T1:s14-v07:T11",
+  "verse_id": "s14-v07",
+  "pada_index": 11,
+  "surface": "viśva",
+  "legacy_raw": "[and]-universe (viśva)",
+  "citation": "viśva",
+  "morph": "comp (viśva)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "universe",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "universe",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p012",
+  "legacy_id": "T1:s14-v07:T12",
+  "verse_id": "s14-v07",
+  "pada_index": 12,
+  "surface": "aiśvarya",
+  "legacy_raw": "[and]-lordship (aiśvarya)",
+  "citation": "aiśvarya",
+  "morph": "comp (aiśvarya)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "lordship",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "lordship",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v07-p013",
+  "legacy_id": "T1:s14-v07:T13",
+  "verse_id": "s14-v07",
+  "pada_index": 13,
+  "surface": "abhiṣecana",
+  "legacy_raw": "[and]-consecration (abhiṣecana)",
+  "citation": "abhiṣecana",
+  "morph": "voc.sg.n (abhiṣecana)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "consecration",
+    "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "whole compound is vocative address"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "consecration",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v08-p000",

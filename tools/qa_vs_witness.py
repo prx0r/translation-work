@@ -36,24 +36,61 @@ def short(s: str, n: int = 25) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--work", default="sivastotravali")
-    ap.add_argument("--witness", default="lakshmanjoo-sivastotravali")
+    ap.add_argument("--witness", default=None,
+                    help="witness JSON in lore/witnesses/ (default: lakshmanjoo-sivastotravali "
+                         "for sivastotravali, none otherwise -> NEEDS_WITNESS)")
     args = ap.parse_args()
+    if args.witness is None:
+        args.witness = ("lakshmanjoo-sivastotravali" if args.work == "sivastotravali"
+                        else "__no_witness_vendored__")
     w = ROOT / args.work
     data = w / "data"
-    wit = json.loads((ROOT / "lore/witnesses" / f"{args.witness}.json").read_text(encoding="utf-8"))
-    wverses = wit.get("verses", {})
+    wit_path = ROOT / "lore/witnesses" / f"{args.witness}.json"
+    if wit_path.exists():
+        wit = json.loads(wit_path.read_text(encoding="utf-8"))
+        wverses = wit.get("verses", {})
+        witness_note = args.witness
+    else:
+        # No independent witness vendored for this work: witness-dependent
+        # checks report NEEDS_WITNESS; coverage/cites/gate still run.
+        wverses = {}
+        witness_note = f"{args.witness} (NOT VENDORED — ledger/fork checks skipped)"
     gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
+    try:
+        from workcfg import WORKS as _WORKS, song_verses as _song_verses
+        sys.path.insert(0, str(ROOT / "tools"))
+        _cfg = _WORKS.get(args.work)
+    except ImportError:
+        _cfg = None
 
     songs = sorted(p.stem.split(".")[0] for p in data.glob("*.t1.json"))
-    report = [f"# QA vs witness: {args.work} vs {args.witness}", ""]
+    report = [f"# QA vs witness: {args.work} vs {witness_note}", ""]
     overall = []
+    # per-work source resolution (one canonical code path): workcfg kinds first,
+    # sivastotravali song-numbered fallback last.
+    _spans = None
+    if _cfg is not None and _cfg.get("kind") in ("utajp", "sambandha", "isvara"):
+        from workcfg import parse_utajp, parse_sambandha, parse_isvara
+        _src_path = Path(_cfg["source"])
+        if _cfg["kind"] == "utajp":
+            _spans = parse_utajp(_src_path)
+        elif _cfg["kind"] == "sambandha":
+            _spans, _ = parse_sambandha(_src_path)
+        else:
+            _spans, _ = parse_isvara(_src_path)
     for song in songs:
-        n = int(song[1:])
+        if _spans is not None:
+            from workcfg import song_verses as _sv
+            _want = set(_sv(args.work, song))
+            src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+            n = None
+        else:
+            n = int(song[1:])
+            src = load_gretil_song(gretil, n)
         t1 = json.loads((data / f"{song}.t1.json").read_text())
         l0 = json.loads((data / f"{song}.l0.json").read_text())
         l2 = {o["verse"]: o for o in json.loads((data / f"{song}.l2.json").read_text())}
         am = {o["verse"]: o for o in json.loads((data / f"{song}.argmap.json").read_text())}
-        src = load_gretil_song(gretil, n)
         findings = []
 
         # 1. COVERAGE
@@ -82,6 +119,8 @@ def main() -> int:
                         ledger[x] = y
         table = []
         for term, gloss in ledger.items():
+            if n is None or not wverses:
+                continue  # no witness attestation possible for this work
             hits = [k for k, v in wverses.items()
                      if k.startswith(f"shivastotravali_{n}_") and
                      gloss.lower().replace("-", " ") in v.lower()]
@@ -106,6 +145,8 @@ def main() -> int:
 
         if any(f.startswith("HOLD") for f in findings):
             verdict = "HOLD"
+        elif not wit_path.exists():
+            verdict = "NEEDS_WITNESS"
         elif missing or lost:
             verdict = "SHIP_WITH_NOTES"
         else:

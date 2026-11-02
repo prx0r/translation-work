@@ -18,6 +18,10 @@ sys.path.insert(0, str(ROOT / "schemas"))
 from proof_record import load_gretil_song  # noqa: E402
 import t1 as t1s, l0 as l0s, argmap as ams, l2 as l2s, c1 as c1s, c2 as c2s  # noqa: E402
 try:
+    import l3 as l3s  # noqa: E402
+except ImportError:
+    l3s = None
+try:
     import signoff as signoff_s  # noqa: E402
 except ImportError:
     signoff_s = None
@@ -32,7 +36,7 @@ def main() -> int:
     ap.add_argument("--song", required=True); ap.add_argument("--work", default="sivastotravali")
     args = ap.parse_args()
     w = ROOT / args.work
-    song, n = args.song, int(args.song[1:])
+    song = args.song
     data = w / "data"
     errs: list[str] = []
 
@@ -42,7 +46,24 @@ def main() -> int:
     l2 = json.loads((data / f"{song}.l2.json").read_text())
     c1 = json.loads((data / f"{song}.c1.json").read_text())
 
-    src = load_gretil_song(Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt"), n)
+    from workcfg import WORKS as _WORKS, song_verses as _song_verses, parse_utajp, parse_sambandha, parse_isvara
+    if args.work in _WORKS and _WORKS[args.work].get("kind") == "utajp":
+        _spans = parse_utajp(Path(_WORKS[args.work]["source"]))
+        _want = set(_song_verses(args.work, song))
+        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+    elif args.work in _WORKS and _WORKS[args.work].get("kind") == "sambandha":
+        _spans, _ = parse_sambandha(Path(_WORKS[args.work]["source"]))
+        _want = set(_song_verses(args.work, song))
+        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+    elif args.work in _WORKS and _WORKS[args.work].get("kind") == "isvara":
+        _spans, _ = parse_isvara(Path(_WORKS[args.work]["source"]))
+        _want = set(_song_verses(args.work, song))
+        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+    else:
+        n = int(song[1:])
+        _src_path = _WORKS.get(args.work, {}).get(
+            "source", Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt"))
+        src = load_gretil_song(_src_path, n)
     src_sha = sha(" ".join(" ".join(t) for v, t in sorted(src.items())))
     src_verses = set(src)
     src_flat = " ".join(" ".join(t) for v, t in sorted(src.items()))
@@ -59,6 +80,25 @@ def main() -> int:
     for o in l2:
         errs += l2s.validate(o, f"l2[{o.get('verse_id')}]", l0_ids, src_flat)
     errs += c1s.validate(c1, "c1")
+    l3path = data / f"{song}.l3.json"
+    l3 = json.loads(l3path.read_text()) if l3path.exists() else None
+    if l3 is not None and l3s is not None:
+        l2_by_verse = {o["verse"]: o.get("plain_english", "") for o in l2}
+        for o in l3:
+            errs += l3s.validate(o, f"l3[{o.get('verse_id')}]", l0_ids)
+            # register check: L3 must differ from L2 (a copy is a failed L3)
+            import re as _re
+            lines = o.get("lines", [])
+            fe = "\n".join(x for x in lines if isinstance(x, str)) if isinstance(lines, list) else str(o.get("final_english", ""))
+            pe = str(l2_by_verse.get(o.get("verse"), ""))
+            if fe.strip() and fe.strip() == pe.strip():
+                errs.append(f"l3[{o.get('verse_id')}]: identical to L2 (rewrite, don't copy)")
+            else:
+                def _sents(t):
+                    return {s.strip() for s in _re.split(r"(?<=[.!?])\s+", t) if len(s.strip()) >= 30}
+                shared = _sents(fe) & _sents(pe)
+                if shared:
+                    errs.append(f"l3[{o.get('verse_id')}]: shares sentence(s) with L2: {sorted(shared)[:1]}")
     c2path = data / f"{song}.c2.json"
     c2 = json.loads(c2path.read_text()) if c2path.exists() else None
     if c2 is not None:
@@ -91,17 +131,20 @@ def main() -> int:
                        ("l2", {o["verse"] for o in l2})]:
         if have != src_verses:
             errs.append(f"coverage {name}: {sorted(have)} != source {sorted(src_verses)}")
+    if l3 is not None and {o["verse"] for o in l3} != src_verses:
+        errs.append(f"coverage l3: {sorted(o['verse'] for o in l3)} != source {sorted(src_verses)}")
     l0_verses = {int(o["verse_id"].split("-v")[1]) for o in l0}
     if l0_verses != src_verses:
         errs.append(f"coverage l0 verses {sorted(l0_verses)} != source {sorted(src_verses)}")
 
     print(json.dumps({"song": song, "errors": errs,
                       "counts": {"t1": len(t1), "l0": len(l0), "argmap": len(am),
-                                 "l2": len(l2), "essence": len(c1.get("essence", [])),
+                                 "l2": len(l2), "l3": len(l3) if l3 else 0,
+                                 "essence": len(c1.get("essence", [])),
                                  "renders": list(c1.get("renders", {})),
-                      "c2_renders": [r.get("style") for r in (c2 or {}).get("renders", [])]
-                                 if c2 else [],
-                      "signoff": bool(signoff)}}, indent=1))
+                       "c2_renders": [r.get("style") for r in (c2 or {}).get("renders", [])]
+                                  if c2 else [],
+                       "signoff": bool(signoff)}}, indent=1))
     return 0 if not errs else 1
 
 

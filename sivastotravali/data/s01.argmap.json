@@ -3,11 +3,14 @@
   "verse_id": "s01-v01",
   "song": "s01",
   "verse": 1,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Must love wait for method?",
   "premises": [
-   "*na dhyāyato na japataḥ syād yasyāvidhipūrvakam.* No meditation, no japa, no preparation — and yet the manifestation occurs. The stotra opens by denying method as precondition, not as practice."
+   "Neither the non-meditator nor the non-mutterer is barred: it may dawn for him, with no rule first.",
+   "Just so — to Śiva's light, to the love-possessor — we bow."
   ],
-  "reconstruction": "*na dhyāyato na japataḥ syād yasyāvidhipūrvakam.* No meditation, no japa, no preparation — and yet the manifestation occurs. The stotra opens by denying method as precondition, not as practice.",
+  "inference": "Rule-free dawn saluted: love needs no prior method.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v01",
@@ -25,8 +28,7 @@
     "s01-v01-p010",
     "s01-v01-p011",
     "s01-v01-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -34,13 +36,16 @@
   "verse_id": "s01-v02",
   "song": "s01",
   "verse": 2,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "How does the self stay young?",
   "premises": [
-   "*ātmā mama bhavadbhaktisudhāpānayuvāpi san.* The self stays young drinking devotion-nectar while the body greys with world-dust. Youth = the self's nature; age = the journey's dust. (Lakshmanjoo: internally young.)"
+   "My self stays young, drinking Thy love-nectar.",
+   "Greyed only as if with road-dust — dust that is passion (rāga)."
   ],
-  "reconstruction": "*ātmā mama bhavadbhaktisudhāpānayuvāpi san.* The self stays young drinking devotion-nectar while the body greys with world-dust. Youth = the self's nature; age = the journey's dust. (Lakshmanjoo: internally young.)",
+  "inference": "Love-nectar keeps the self young; world-dust merely greys it.",
   "uncertainties": [
-   "v.2 *palitair iva dhūsaraḥ* — age vs weariness of travel; simile scope uncertain."
+   "rāga double sense (passion/dust-redness) kept double."
   ],
   "traces": {
    "t1_verse": "s01-v02",
@@ -58,8 +63,7 @@
     "s01-v02-p010",
     "s01-v02-p011",
     "s01-v02-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -67,11 +71,14 @@
   "verse_id": "s01-v03",
   "song": "s01",
   "verse": 3,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of lovers' world-walking?",
   "premises": [
-   "*labdhatatsaṃpadāṃ bhaktimatāṃ tvatpuravāsinām.* For wealth-holders dwelling in Your city, even worldly movement happens by that same expansion. The world is not abandoned; it is moved in differently."
+   "For wealth-winners homed in Thy city — lovers —",
+   "even market-road walking is that same unfolding."
   ],
-  "reconstruction": "*labdhatatsaṃpadāṃ bhaktimatāṃ tvatpuravāsinām.* For wealth-holders dwelling in Your city, even worldly movement happens by that same expansion. The world is not abandoned; it is moved in differently.",
+  "inference": "The city-dweller's errands unfold as devotion.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v03",
@@ -88,8 +95,7 @@
     "s01-v03-p009",
     "s01-v03-p010",
     "s01-v03-p011"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -97,11 +103,14 @@
   "verse_id": "s01-v04",
   "song": "s01",
   "verse": 4,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Where is the lover's ground?",
   "premises": [
-   "*sākṣādbhavanmaye nātha sarvasmin bhuvanāntare.* Where all the world is directly You, what is not the devotee's field, what mantra fails? Omnipresence converts the whole world into ritual ground."
+   "Where world-in-world stands face to face with Thee —",
+   "nothing is not ground; no prayer fails."
   ],
-  "reconstruction": "*sākṣādbhavanmaye nātha sarvasmin bhuvanāntare.* Where all the world is directly You, what is not the devotee's field, what mantra fails? Omnipresence converts the whole world into ritual ground.",
+  "inference": "Thee-everywhere makes everywhere ritual ground.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v04",
@@ -119,8 +128,7 @@
     "s01-v04-p010",
     "s01-v04-p011",
     "s01-v04-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -128,12 +136,17 @@
   "verse_id": "s01-v05",
   "song": "s01",
   "verse": 5,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Who wins?",
   "premises": [
-   "*jayanti bhaktipīyūṣarasāsavavaronmadāḥ.* Victory to the intoxicated — drunk on the best wine, devotion-nectar. Intoxication is praise, not blame: it names excess of love."
+   "The drunk on love-nectar-wine win.",
+   "Second to none, yet never without Thee beside — dvitīyāḥ double."
   ],
-  "reconstruction": "*jayanti bhaktipīyūṣarasāsavavaronmadāḥ.* Victory to the intoxicated — drunk on the best wine, devotion-nectar. Intoxication is praise, not blame: it names excess of love.",
-  "uncertainties": [],
+  "inference": "Love-drunkards win: matchless, yet never Thee-less.",
+  "uncertainties": [
+   "dvitīyāḥ holds predicative (second to none) and possessive (having-You-second); L3 keeps both."
+  ],
   "traces": {
    "t1_verse": "s01-v05",
    "l0_ids": [
@@ -148,8 +161,7 @@
     "s01-v05-p008",
     "s01-v05-p009",
     "s01-v05-p010"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -157,11 +169,13 @@
   "verse_id": "s01-v06",
   "song": "s01",
   "verse": 6,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Who knows the bliss-sea Lord?",
   "premises": [
-   "*anantānandasindhos te nātha tattvaṃ vidanti te.* Only the densely drenched know the ocean. Knowledge here is immersion-depth, not information. (Restricts 1.4: all is field, but only the drowned know.)"
+   "Only the flooded know: thick-drenched in love-bliss-nectar."
   ],
-  "reconstruction": "*anantānandasindhos te nātha tattvaṃ vidanti te.* Only the densely drenched know the ocean. Knowledge here is immersion-depth, not information. (Restricts 1.4: all is field, but only the drowned know.)",
+  "inference": "Knowing Him requires drowning.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v06",
@@ -179,8 +193,7 @@
     "s01-v06-p010",
     "s01-v06-p011",
     "s01-v06-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -188,12 +201,18 @@
   "verse_id": "s01-v07",
   "song": "s01",
   "verse": 7,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What grounds love?",
   "premises": [
-   "*tvam evātmeśa sarvasya... iti svabhāvasiddhāṃs tvadbhaktiṃ jānañ jayej janaḥ.* THE CENTER. All desire the self; You alone are everyone's conscious self; hence devotion to You is self-established — and one who knows it **by immersion's means** (*samāveśayuktyā*, Kṣemarāja) conquers, i.e., lives supreme. The liṅ (*jayet*) is injunctive (Kṣemarāja: *niyoge liṅ*). Argument: since the object is the self, love of it needs no external ground."
+   "Thou alone, self's Lord, art all beings' nature; all love within the self.",
+   "So love stands self-grounded (svabhāvasiddhā).",
+   "Knowing this by drowning (samāveśayuktyā) — let him conquer."
   ],
-  "reconstruction": "*tvam evātmeśa sarvasya... iti svabhāvasiddhāṃs tvadbhaktiṃ jānañ jayej janaḥ.* THE CENTER. All desire the self; You alone are everyone's conscious self; hence devotion to You is self-established — and one who knows it **by immersion's means** (*samāveśayuktyā*, Kṣemarāja) conquers, i.e., lives supreme. The liṅ (*jayet*) is injunctive (Kṣemarāja: *niyoge liṅ*). Argument: since the object is the self, love of it needs no external ground.",
-  "uncertainties": [],
+  "inference": "Proof: self-nature loves self-nature; immersion-knowing conquers.",
+  "uncertainties": [
+   "samāveśayuktyā via Kṣemarāja (by immersion's means); union-means reading equivalent — settled."
+  ],
   "traces": {
    "t1_verse": "s01-v07",
    "l0_ids": [
@@ -211,8 +230,7 @@
     "s01-v07-p011",
     "s01-v07-p012",
     "s01-v07-p013"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -220,11 +238,14 @@
   "verse_id": "s01-v08",
   "song": "s01",
   "verse": 8,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Where is He seen?",
   "premises": [
-   "*nātha vedyakṣaye kena na dṛśyo 'syekakaḥ sthitaḥ.* When the knowable is destroyed, who does not see You standing alone? Negation as vision: remove objects, the subject stands revealed. Even amid knower/knowable agitation, devotees see easily (*sudṛśanaḥ*) — ease contrasts yogic difficulty (anticipates 16–17)."
+   "Known destroyed — who would not see Thee standing all alone?",
+   "Even in known-knower churn, lovers find Thee easy (sudarśana)."
   ],
-  "reconstruction": "*nātha vedyakṣaye kena na dṛśyo 'syekakaḥ sthitaḥ.* When the knowable is destroyed, who does not see You standing alone? Negation as vision: remove objects, the subject stands revealed. Even amid knower/knowable agitation, devotees see easily (*sudṛśanaḥ*) — ease contrasts yogic difficulty (anticipates 16–17).",
+  "inference": "Past the known, He stands obvious; lovers find Him easy.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v08",
@@ -243,8 +264,7 @@
     "s01-v08-p011",
     "s01-v08-p012",
     "s01-v08-p013"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -252,11 +272,14 @@
   "verse_id": "s01-v09",
   "song": "s01",
   "verse": 9,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What love is asked?",
   "premises": [
-   "*anantānandasarasī devī priyatamā yathā.* As the beloved Goddess is inseparable from You, so may one devotion be mine. The devotee asks for non-separation modeled on the divine couple itself."
+   "As the Goddess, bliss-lake, dearest, stands unparted from Thee —",
+   "so may one love of mine stand — unparted."
   ],
-  "reconstruction": "*anantānandasarasī devī priyatamā yathā.* As the beloved Goddess is inseparable from You, so may one devotion be mine. The devotee asks for non-separation modeled on the divine couple itself.",
+  "inference": "Unparted Goddess-love asked as the model.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v09",
@@ -274,8 +297,7 @@
     "s01-v09-p010",
     "s01-v09-p011",
     "s01-v09-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -283,11 +305,14 @@
   "verse_id": "s01-v10",
   "song": "s01",
   "verse": 10,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What causes Him?",
   "premises": [
-   "*sarva eva bhavallābhahetur bhaktimatāṃ vibho.* For devotees everything causes gain of You; the consciousness-path stands threefold in joy, suffering, delusion. All three guṇa-states become path — nothing excluded."
+   "For lovers, everything causes gaining Thee.",
+   "The knowing-road stands threefold: joy, sorrow, bewilderment."
   ],
-  "reconstruction": "*sarva eva bhavallābhahetur bhaktimatāṃ vibho.* For devotees everything causes gain of You; the consciousness-path stands threefold in joy, suffering, delusion. All three guṇa-states become path — nothing excluded.",
+  "inference": "All roads lead in: joy, sorrow, bewilderment alike.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v10",
@@ -305,8 +330,7 @@
     "s01-v10-p010",
     "s01-v10-p011",
     "s01-v10-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -314,12 +338,17 @@
   "verse_id": "s01-v11",
   "song": "s01",
   "verse": 11,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of bare knowing?",
   "premises": [
-   "*bhavadbhaktyamṛtāsvādād bodhasya syāt parāpi yā daśā.* Even the supreme state of knowledge tastes, to me, like vinegar-sourness after wine beside devotion-nectar. Knowledge is not denied; it is out-tasted. (Lakshmanjoo's \"Have you ever tasted liquor?\" — the verse demands experience, not assent.)"
+   "From tasting love-nectar, Master —",
+   "even knowing's highest state turns unwine-sour (nāsava) in my mouth."
   ],
-  "reconstruction": "*bhavadbhaktyamṛtāsvādād bodhasya syāt parāpi yā daśā.* Even the supreme state of knowledge tastes, to me, like vinegar-sourness after wine beside devotion-nectar. Knowledge is not denied; it is out-tasted. (Lakshmanjoo's \"Have you ever tasted liquor?\" — the verse demands experience, not assent.)",
-  "uncertainties": [],
+  "inference": "Against love's taste, peak knowing sours to vinegar.",
+  "uncertainties": [
+   "nāsava as un-wine (anti-wine answering v05's wine); vinegar-sense kept."
+  ],
   "traces": {
    "t1_verse": "s01-v11",
    "l0_ids": [
@@ -339,8 +368,7 @@
     "s01-v11-p013",
     "s01-v11-p014",
     "s01-v11-p015"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -348,11 +376,14 @@
   "verse_id": "s01-v12",
   "song": "s01",
   "verse": 12,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Who knows the real?",
   "premises": [
-   "*bhavadbhaktimahāvidyā yeṣām abhyāsam āgatā.* Those who have practiced devotion's great knowledge discriminate knowledge from non-knowledge. Discrimination is the fruit of practice, not its precondition (answers the scholar's objection)."
+   "Those whose love-lore came as practice —",
+   "they alone know: knowing, unknowing, both."
   ],
-  "reconstruction": "*bhavadbhaktimahāvidyā yeṣām abhyāsam āgatā.* Those who have practiced devotion's great knowledge discriminate knowledge from non-knowledge. Discrimination is the fruit of practice, not its precondition (answers the scholar's objection).",
+  "inference": "Practice-lovers alone know both knowing and unknowing.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v12",
@@ -369,8 +400,7 @@
     "s01-v12-p009",
     "s01-v12-p010",
     "s01-v12-p011"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -378,14 +408,15 @@
   "verse_id": "s01-v13",
   "song": "s01",
   "verse": 13,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of this speech?",
   "premises": [
-   "*āmulād vāglatā seyaṃ kramavisphāraśālinī.* The speech-creeper, unfolding in sequence from the root, watered by devotion-nectar — may it fruit for me. Speech itself grows and fruits; mantra is organic, not mechanical."
+   "Speech-creeper from root, opening in order —",
+   "love-nectar-sprinkled — may its fruit sap-swell for me."
   ],
-  "reconstruction": "*āmulād vāglatā seyaṃ kramavisphāraśālinī.* The speech-creeper, unfolding in sequence from the root, watered by devotion-nectar — may it fruit for me. Speech itself grows and fruits; mantra is organic, not mechanical.",
-  "uncertainties": [
-   "Mark supplied in L2."
-  ],
+  "inference": "Blessed speech prayed fruitful.",
+  "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v13",
    "l0_ids": [
@@ -402,8 +433,7 @@
     "s01-v13-p010",
     "s01-v13-p011",
     "s01-v13-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -411,12 +441,17 @@
   "verse_id": "s01-v14",
   "song": "s01",
   "verse": 14,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of becoming and sacrifice?",
   "premises": [
-   "*śivo bhūtvā yajeteti bhakto bhūtveti kathyate.* \"Having become Śiva, let him worship\" — and the devotee is *said* to have become. Scripture's paradox resolved by reported transformation: the Veda declares the devotee already become, and the body is refined by non-dual examination (*advayaśodhitam*)."
+   "'Be Śiva, then sacrifice'; 'become, the lover' — so declared.",
+   "Thou alone art the body's pith, by lovers assayed in oneness."
   ],
-  "reconstruction": "*śivo bhūtvā yajeteti bhakto bhūtveti kathyate.* \"Having become Śiva, let him worship\" — and the devotee is *said* to have become. Scripture's paradox resolved by reported transformation: the Veda declares the devotee already become, and the body is refined by non-dual examination (*advayaśodhitam*).",
-  "uncertainties": [],
+  "inference": "Becoming precedes rite; Thy body-pith assayed in oneness.",
+  "uncertainties": [
+   "Lakshmanjoo witness: activity-embrace, not shunning — yaj kept as sacrifice."
+  ],
   "traces": {
    "t1_verse": "s01-v14",
    "l0_ids": [
@@ -436,8 +471,7 @@
     "s01-v14-p013",
     "s01-v14-p014",
     "s01-v14-p015"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -445,14 +479,15 @@
   "verse_id": "s01-v15",
   "song": "s01",
   "verse": 15,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What proves, what veils?",
   "premises": [
-   "*bhaktānāṃ bhavadadvaitasiddhyai kā nopapattayaḥ.* For devotees, what is not a means to non-duality with You? Even going astray leads there (Lakshmanjoo). And for the low, what obstructions to its failure? Double assurance: no wrong way, no blocked person."
+   "For lovers, what is not proof toward oneness?",
+   "For the lowest, what but veils — heaped toward failure."
   ],
-  "reconstruction": "*bhaktānāṃ bhavadadvaitasiddhyai kā nopapattayaḥ.* For devotees, what is not a means to non-duality with You? Even going astray leads there (Lakshmanjoo). And for the low, what obstructions to its failure? Double assurance: no wrong way, no blocked person.",
-  "uncertainties": [
-   "v.15 *nikṛṣṭānāṃ... kāni nāvaraṇāni* — \"obstructions for the low\": genuine universality or rhetorical assurance? Open; do not systematize."
-  ],
+  "inference": "All proves for lovers; veils heap for the lowest.",
+  "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v15",
    "l0_ids": [
@@ -468,8 +503,7 @@
     "s01-v15-p009",
     "s01-v15-p010",
     "s01-v15-p011"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -477,11 +511,14 @@
   "verse_id": "s01-v16",
   "song": "s01",
   "verse": 16,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Is He gotten by yoga's where-when?",
   "premises": [
-   "*kadācit kvāpi labhyo 'si yogenetīśa vañcanā.* Attained sometime, somewhere, by yoga (thought-constriction, e.g., in the heart-wheel — Kṣemarāja) — this is **the deceit**. Proof: otherwise how do You shine in ALL states, including post-samādhi emergence, for devotees? The polemic verse: localization refutes itself."
+   "'Sometime, somewhere, by yoga got' — Lord, that's the cheat (vañcanā).",
+   "Else how blaze here in every state for lovers?"
   ],
-  "reconstruction": "*kadācit kvāpi labhyo 'si yogenetīśa vañcanā.* Attained sometime, somewhere, by yoga (thought-constriction, e.g., in the heart-wheel — Kṣemarāja) — this is **the deceit**. Proof: otherwise how do You shine in ALL states, including post-samādhi emergence, for devotees? The polemic verse: localization refutes itself.",
+  "inference": "Localization refused: He blazes in every state.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v16",
@@ -499,8 +536,7 @@
     "s01-v16-p010",
     "s01-v16-p011",
     "s01-v16-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -508,11 +544,14 @@
   "verse_id": "s01-v17",
   "song": "s01",
   "verse": 17,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What sets lovers past yogins?",
   "premises": [
-   "*pratyāhārādyasaṃspṛṣṭo viśeṣo 'sti mahānayam.* The great distinction, untouched by withdrawal etc.: devotees stay composed even in emergence (*vyutthāne 'pi samāhitāḥ*), yogins do not. The test is not ecstasy but return."
+   "Untouched by breath-withdrawal and the rest — the great difference.",
+   "Love's portion-takers stay gathered even waking — past yogins."
   ],
-  "reconstruction": "*pratyāhārādyasaṃspṛṣṭo viśeṣo 'sti mahānayam.* The great distinction, untouched by withdrawal etc.: devotees stay composed even in emergence (*vyutthāne 'pi samāhitāḥ*), yogins do not. The test is not ecstasy but return.",
+  "inference": "Waking gatheredness: devotion's edge over yoga.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v17",
@@ -530,8 +569,7 @@
     "s01-v17-p010",
     "s01-v17-p011",
     "s01-v17-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -539,11 +577,14 @@
   "verse_id": "s01-v18",
   "song": "s01",
   "verse": 18,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What is prescribed?",
   "premises": [
-   "*na yogo na tapo nārcākramaḥ ko 'pi pranīyate.* No yoga, no austerity, no worship-procedure is enjoined; on this guileless Śiva-path, devotion alone is praised. The amāya (guileless) path needs no technique because its means is love."
+   "No yoga bidden, no self-burning, no rite-rule prescribed.",
+   "On the straight Śiva-road, love alone is praised."
   ],
-  "reconstruction": "*na yogo na tapo nārcākramaḥ ko 'pi pranīyate.* No yoga, no austerity, no worship-procedure is enjoined; on this guileless Śiva-path, devotion alone is praised. The amāya (guileless) path needs no technique because its means is love.",
+  "inference": "No prescription but love praised.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v18",
@@ -563,8 +604,7 @@
     "s01-v18-p012",
     "s01-v18-p013",
     "s01-v18-p014"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -572,14 +612,15 @@
   "verse_id": "s01-v19",
   "song": "s01",
   "verse": 19,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What perishes?",
   "premises": [
-   "*sarvato vilasadbhaktitejodhvastāvṛter mama.* My covering shattered by all-radiant devotion-light; may even my thoughts, which face all real things, perish. Covering destroyed from all sides at once — then even thought, facing reality directly, ends."
+   "Cover fire-shattered all round by love's light-play —",
+   "I facing all things bare — may even thoughts perish."
   ],
-  "reconstruction": "*sarvato vilasadbhaktitejodhvastāvṛter mama.* My covering shattered by all-radiant devotion-light; may even my thoughts, which face all real things, perish. Covering destroyed from all sides at once — then even thought, facing reality directly, ends.",
-  "uncertainties": [
-   "v.19 *cintānām api naśyatu* — whose thoughts perish, and is thought's end extinction or facing (*pratyakṣa*)? Left open."
-  ],
+  "inference": "Cover burned, thoughts prayed to perish.",
+  "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v19",
    "l0_ids": [
@@ -595,8 +636,7 @@
     "s01-v19-p009",
     "s01-v19-p010",
     "s01-v19-p011"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -604,14 +644,15 @@
   "verse_id": "s01-v20",
   "song": "s01",
   "verse": 20,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of the Name?",
   "premises": [
-   "*śiva ity ekaśabdasya jihvāgre tiṣṭhataḥ sadā.* The single word \"Śiva\" standing always on the tongue-tip: devotees taste by it every sense-object — a wonder (*aho*). The Name delivers all senses, not just sound. (Lakshmanjoo: nectar of touch, embrace, smell — ethically risky rendering; keep to \"every sense-object's taste\" in L2.)"
+   "One word Śiva camped on tongue-tip always — every sense-thing tasted.",
+   "In lovers only — whatever that is — ah!"
   ],
-  "reconstruction": "*śiva ity ekaśabdasya jihvāgre tiṣṭhataḥ sadā.* The single word \"Śiva\" standing always on the tongue-tip: devotees taste by it every sense-object — a wonder (*aho*). The Name delivers all senses, not just sound. (Lakshmanjoo: nectar of touch, embrace, smell — ethically risky rendering; keep to \"every sense-object's taste\" in L2.)",
-  "uncertainties": [
-   "v.20 Lakshmanjoo's sensory expansion (touch/embrace/smell) exceeds the text's *samastaviṣayāsvāda*; rein in L2."
-  ],
+  "inference": "The Name camped on tongue tastes all senses — lovers-only wonder.",
+  "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v20",
    "l0_ids": [
@@ -631,8 +672,7 @@
     "s01-v20-p013",
     "s01-v20-p014",
     "s01-v20-p015"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -640,13 +680,16 @@
   "verse_id": "s01-v21",
   "song": "s01",
   "verse": 21,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Who counts?",
   "premises": [
-   "*śāntakallolaśītācchasvādubhaktisudhāmbudhau.* Who counts as low who stands firm tasting the unworldly rasa, diving the calm-waved cool sweet devotion-milk-ocean? Status inverted: divers, not scholars, rank high."
+   "In the calm-waved love-nectar sea — tasting otherworld sap, steady —",
+   "who is counted a nobody (anāma)?"
   ],
-  "reconstruction": "*śāntakallolaśītācchasvādubhaktisudhāmbudhau.* Who counts as low who stands firm tasting the unworldly rasa, diving the calm-waved cool sweet devotion-milk-ocean? Status inverted: divers, not scholars, rank high.",
+  "inference": "Sea-steady tasters: none a nobody.",
   "uncertainties": [
-   "anāma crux: nameless (mystic) vs of-no-account (social); L2 takes mystic, alternative recorded in L0."
+   "anāma (no-name) as status-inversion; of-no-account reading kept."
   ],
   "traces": {
    "t1_verse": "s01-v21",
@@ -664,8 +707,7 @@
     "s01-v21-p010",
     "s01-v21-p011",
     "s01-v21-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6",
   "option_choices": [
@@ -683,11 +725,14 @@
   "verse_id": "s01-v22",
   "song": "s01",
   "verse": 22,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Why not chew?",
   "premises": [
-   "*sādṛśaiḥ kiṃ na carvyeta bhavadbhaktimahauṣadhiḥ.* Why would people like me not chew devotion's great medicine — whose after-taste is named liberation? Medicine, not dessert: it cures, with liberation as after-taste (*anantara rasa*), not wages."
+   "Why would the likes of us not chew love's great herb?",
+   "Whose next taste is called freedom."
   ],
-  "reconstruction": "*sādṛśaiḥ kiṃ na carvyeta bhavadbhaktimahauṣadhiḥ.* Why would people like me not chew devotion's great medicine — whose after-taste is named liberation? Medicine, not dessert: it cures, with liberation as after-taste (*anantara rasa*), not wages.",
+  "inference": "The freedom-aftertaste herb urged chewed.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v22",
@@ -704,8 +749,7 @@
     "s01-v22-p009",
     "s01-v22-p010",
     "s01-v22-p011"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -713,11 +757,14 @@
   "verse_id": "s01-v23",
   "song": "s01",
   "verse": 23,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What counts as wealth?",
   "premises": [
-   "*tā eva paramarthyante sampadaḥ sadbhir īśa yāḥ.* True wealth, the good agree, is only what nourishes confident enjoyment of devotion-nectar. Wealth redefined: whatever feeds enjoyment of the rasa."
+   "Those alone count wealth, by the good's measure —",
+   "whatever fattens trusted feasting on love's sap."
   ],
-  "reconstruction": "*tā eva paramarthyante sampadaḥ sadbhir īśa yāḥ.* True wealth, the good agree, is only what nourishes confident enjoyment of devotion-nectar. Wealth redefined: whatever feeds enjoyment of the rasa.",
+  "inference": "Wealth redefined: what fattens love-feasting.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v23",
@@ -734,8 +781,7 @@
     "s01-v23-p009",
     "s01-v23-p010",
     "s01-v23-p011"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -743,11 +789,14 @@
   "verse_id": "s01-v24",
   "song": "s01",
   "verse": 24,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Who stays unsmeared?",
   "premises": [
-   "*bhavadbhaktisudhāsāras taiḥ kim apy upalakṣitaḥ.* They have grasped devotion-nectar's essence who, fallen even into passion's mud, are not smeared. Falling without staining: the world entered without adhesion."
+   "Some love-nectar-pith caught — fallen in passion-mud and all —",
+   "come up unsmeared."
   ],
-  "reconstruction": "*bhavadbhaktisudhāsāras taiḥ kim apy upalakṣitaḥ.* They have grasped devotion-nectar's essence who, fallen even into passion's mud, are not smeared. Falling without staining: the world entered without adhesion.",
+  "inference": "Mud-fallen, nectar-caught: unsmeared ascent.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v24",
@@ -767,8 +816,7 @@
     "s01-v24-p012",
     "s01-v24-p013",
     "s01-v24-p014"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -776,11 +824,14 @@
   "verse_id": "s01-v25",
   "song": "s01",
   "verse": 25,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of powers?",
   "premises": [
-   "*aṇimādiṣu mokṣānteṣv aṅgeṣv eva phalābhidhā.* From supernormal powers to liberation, fruits are named as mere limbs of the ripened devotion-creeper — for some. Even liberation is a limb, not the root; the creeper is the thing."
+   "Powers to freedom — fruit a limb-name on love's ripe creeper.",
+   "In some (keṣu cit)."
   ],
-  "reconstruction": "*aṇimādiṣu mokṣānteṣv aṅgeṣv eva phalābhidhā.* From supernormal powers to liberation, fruits are named as mere limbs of the ripened devotion-creeper — for some. Even liberation is a limb, not the root; the creeper is the thing.",
+  "inference": "Powers reframed as limbs; fruition for some.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s01-v25",
@@ -797,8 +848,7 @@
     "s01-v25-p009",
     "s01-v25-p010",
     "s01-v25-p011"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  },
@@ -806,12 +856,17 @@
   "verse_id": "s01-v26",
   "song": "s01",
   "verse": 26,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What of the mind?",
   "premises": [
-   "*citraṃ nisargato nātha duḥkhabījam idaṃ manaḥ.* Wonder: the mind, by nature pain's seed, watered by devotion-rasa becomes liberation's great fruit."
+   "Strange: mind pain-seed by nature (duḥkhabīja) —",
+   "love-sap-sprinkled, ripens to freedom's great fruit."
   ],
-  "reconstruction": "*citraṃ nisargato nātha duḥkhabījam idaṃ manaḥ.* Wonder: the mind, by nature pain's seed, watered by devotion-rasa becomes liberation's great fruit.",
-  "uncertainties": [],
+  "inference": "Pain-seed mind, love-watered, fruits freedom.",
+  "uncertainties": [
+   "duḥkhabīja botany kept (seed, not stain)."
+  ],
   "traces": {
    "t1_verse": "s01-v26",
    "l0_ids": [
@@ -826,8 +881,7 @@
     "s01-v26-p008",
     "s01-v26-p009",
     "s01-v26-p010"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "1da56456ffbd9ba6"
  }

@@ -1,0 +1,79 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "isva-p01",
+ "work": "isvarasiddhi",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "0c79d8eee70a4f09",
+ "source_verses": 9,
+ "t1_verses": 9,
+ "l0": {
+  "parsed": 74,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 74
+ },
+ "align": {
+  "min_ratio": 0.471,
+  "sub090": {
+   "2": {
+    "ratio": 0.745,
+    "disposition": "mid-verse dot-lacuna (ghaṭa…paramāṇuvat gap); legible order verified token-by-token vs source 2026-11-02"
+   },
+   "3": {
+    "ratio": 0.471,
+    "disposition": "major lacuna (dots eat pādas); ṭato remnant + prorito crux held open; order verified 2026-11-02"
+   },
+   "4": {
+    "ratio": 0.684,
+    "disposition": "leading lacuna + cite remnant; order verified 2026-11-02"
+   },
+   "8": {
+    "ratio": 0.894,
+    "disposition": "0.894 from sandhi-splits (5+2+3 words from 3 print tokens); order verified 2026-11-02"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 5,
+ "c1_words": 197,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 9,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 9,
+   "l0": 74,
+   "argmap": 9,
+   "l2": 9,
+   "l3": 9,
+   "essence": 2,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "0c79d8eee70a4f09",
+  "t1": "T1-isva-p01.md",
+  "l0": "T1-isva-p01.l0.jsonl",
+  "l2": "L2-isva-p01.md",
+  "c1": "c1/C1-isva-p01.md"
+ }
+}

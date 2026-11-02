@@ -53,8 +53,12 @@
 ## s06: SHIP_WITH_NOTES
 
 - coverage: 11/11 verses; cites bad: none; proof: PASS
-- ledger terms: 1, unattested in witness: ['bhairava']
-  - bhairava = Bhairava (witness verses: 0)
+- ledger terms: 5, unattested in witness: ['viyoga', 'stuti', 'ānanda']
+  - viyoga = parting (witness verses: 0)
+  - yoga = yoga (witness verses: 1)
+  - stuti = praise (witness verses: 0)
+  - ānanda = bliss (witness verses: 0)
+  - pariṣvaṅga = embrace (witness verses: 1)
 - findings: none
 
 ## s07: SHIP_AS_IS

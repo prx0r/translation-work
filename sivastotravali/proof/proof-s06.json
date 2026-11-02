@@ -4,9 +4,7 @@
  "work": "sivastotravali",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [
-  "LEDGER_GLOSS_MISSING ['bhairava=Bhairava']"
- ],
+ "warnings": [],
  "source_sha": "d33c3f9072d19a6d",
  "source_verses": 11,
  "t1_verses": 11,
@@ -30,10 +28,8 @@
   "failures": []
  },
  "ledger": {
-  "pairs": 1,
-  "gloss_missing_in_l2": [
-   "bhairava=Bhairava"
-  ]
+  "pairs": 5,
+  "gloss_missing_in_l2": []
  },
  "data_objects": {
   "errors": [],
@@ -43,7 +39,7 @@
    "argmap": 11,
    "l2": 11,
    "l3": 11,
-   "essence": 1,
+   "essence": 2,
    "renders": [
     "standard"
    ],

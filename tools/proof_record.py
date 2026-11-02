@@ -119,14 +119,36 @@ def main() -> int:
     root = Path("/root/translation-work")
     w = root / args.work
     song = args.song
-    n = int(song[1:])
-    gretil = Path(args.gretil)
+    SIVA_DEFAULT = "/root/ipvv/site/data/sanskrit/sivastotravali-u.txt"
+    try:
+        from workcfg import WORKS as _WORKS, song_verses as _song_verses, parse_utajp, parse_sambandha, parse_isvara
+    except ImportError:
+        _WORKS = {}
+    if args.work in _WORKS and _WORKS[args.work].get("kind") == "utajp":
+        gretil = Path(_WORKS[args.work]["source"])
+        _spans = parse_utajp(gretil)
+        _want = set(_song_verses(args.work, song))
+        _src_full = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+        src = _src_full
+    elif args.work in _WORKS and _WORKS[args.work].get("kind") == "sambandha":
+        gretil = Path(_WORKS[args.work]["source"])
+        _spans, _ = parse_sambandha(gretil)
+        _want = set(_song_verses(args.work, song))
+        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+    elif args.work in _WORKS and _WORKS[args.work].get("kind") == "isvara":
+        gretil = Path(_WORKS[args.work]["source"])
+        _spans, _ = parse_isvara(gretil)
+        _want = set(_song_verses(args.work, song))
+        src = {v: toks for v, (toks, _) in _spans.items() if v in _want}
+    else:
+        n = int(song[1:])
+        gretil = Path(args.gretil)
+        src = load_gretil_song(gretil, n)
 
     rec: dict = {"tool": TOOL_VERSION, "song": song, "work": args.work,
                  "date": "2026-11-01", "blocking": [], "warnings": []}
     block = rec["blocking"]
 
-    src = load_gretil_song(gretil, n)
     rec["source_sha"] = sha(" ".join(" ".join(t) for v, t in sorted(src.items())))
     rec["source_verses"] = len(src)
 

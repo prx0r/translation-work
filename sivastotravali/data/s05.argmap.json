@@ -3,11 +3,14 @@
   "verse_id": "s05-v01",
   "song": "s05",
   "verse": 1,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What entry?",
   "premises": [
-   "*tvatpādapadmasamparkamātrasambhogasaṅginam.* Joined in enjoyment by mere touch-contact of Your lotus-feet — bring me, Lord, by the neck into Your house. Entry by touch, not merit; \"by the neck\" (*galepādikayā*) — force asked for."
+   "Joined in enjoyment by mere touch-contact of Thy lotus-feet.",
+   "Bring me, Lord, by the neck into Thine own house."
   ],
-  "reconstruction": "*tvatpādapadmasamparkamātrasambhogasaṅginam.* Joined in enjoyment by mere touch-contact of Your lotus-feet — bring me, Lord, by the neck into Your house. Entry by touch, not merit; \"by the neck\" (*galepādikayā*) — force asked for.",
+  "inference": "Touch-joined; neck-led home.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v01",
@@ -26,8 +29,7 @@
     "s05-v01-p011",
     "s05-v01-p012",
     "s05-v01-p013"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -35,11 +37,14 @@
   "verse_id": "s05-v02",
   "song": "s05",
   "verse": 2,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "When dance?",
   "premises": [
-   "*bhavatpādāmbujarajorājirañjitamūrdhajaḥ.* Head hair dyed by Your foot-lotus-dust-redness — when shall I frantically begin to dance? Dust as dye; dance as the question's form. (Lakshmanjoo: holding His feet, wiping their dust.)"
+   "Head hair dyed by Thy foot-lotus-dust-redness.",
+   "When shall I frantically begin to dance?"
   ],
-  "reconstruction": "*bhavatpādāmbujarajorājirañjitamūrdhajaḥ.* Head hair dyed by Your foot-lotus-dust-redness — when shall I frantically begin to dance? Dust as dye; dance as the question's form. (Lakshmanjoo: holding His feet, wiping their dust.)",
+  "inference": "Dust-dyed hair asks frenzied dance.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v02",
@@ -58,8 +63,7 @@
     "s05-v02-p011",
     "s05-v02-p012",
     "s05-v02-p013"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -67,12 +71,17 @@
   "verse_id": "s05-v03",
   "song": "s05",
   "verse": 3,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What begged?",
   "premises": [
-   "*tvad ekanātho bhagavann iyad evārthaye sadā.* You my sole Lord — this alone I always ask: dwelling inside You, may I be silent; otherwise, wise. Silence over wisdom: *mūka* (dumb) beats *budha* (clever). The anti-eloquence verse."
+   "Thou sole Lord — this alone I always ask.",
+   "Dwelling inside Thee, may I be silent (mūka); not otherwise, O Wise One (budha)."
   ],
-  "reconstruction": "*tvad ekanātho bhagavann iyad evārthaye sadā.* You my sole Lord — this alone I always ask: dwelling inside You, may I be silent; otherwise, wise. Silence over wisdom: *mūka* (dumb) beats *budha* (clever). The anti-eloquence verse.",
-  "uncertainties": [],
+  "inference": "Silence inside begged; Wise One addressed.",
+  "uncertainties": [
+   "budhaḥ vocative (O Wise One), not 'a sage instead' — fixed 2026-11."
+  ],
   "traces": {
    "t1_verse": "s05-v03",
    "l0_ids": [
@@ -91,8 +100,7 @@
     "s05-v03-p012",
     "s05-v03-p013",
     "s05-v03-p014"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -100,12 +108,17 @@
   "verse_id": "s05-v04",
   "song": "s05",
   "verse": 4,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What dance?",
   "premises": [
-   "*aho sudhānidhe svāminn aho mṛṣṭa trilocana.* Ah nectar-ocean master! Ah sweet three-eyed One! Ah tasty deformed-eyed One! — thus may I dance, shouting. Praise by exclamation; three *aho*s as liturgy."
+   "Ah nectar-hoard Master! Ah sweet Three-eyed! Ah tasty Deformed-eyed!",
+   "Thus may I dance, shouting."
   ],
-  "reconstruction": "*aho sudhānidhe svāminn aho mṛṣṭa trilocana.* Ah nectar-ocean master! Ah sweet three-eyed One! Ah tasty deformed-eyed One! — thus may I dance, shouting. Praise by exclamation; three *aho*s as liturgy.",
-  "uncertainties": [],
+  "inference": "Tasted God danced shouting.",
+  "uncertainties": [
+   "virūpa kept deformed (not crooked); svādu kept tasty — shock intended."
+  ],
   "traces": {
    "t1_verse": "s05-v04",
    "l0_ids": [
@@ -124,8 +137,7 @@
     "s05-v04-p012",
     "s05-v04-p013",
     "s05-v04-p014"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -133,11 +145,14 @@
   "verse_id": "s05-v05",
   "song": "s05",
   "verse": 5,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What gape?",
   "premises": [
-   "*tvatpādapadmasaṃsparśaparimīlitalocanaḥ.* Eyes half-closed by Your foot-lotus-touch — may I expand, reeling drunk on Your devotion-liquor-madness. Touch narrows sight, widens being."
+   "Eyes half-shut with Thy foot-lotus touch.",
+   "May I gape wide, reeling with Thy love-wine's drunkenness."
   ],
-  "reconstruction": "*tvatpādapadmasaṃsparśaparimīlitalocanaḥ.* Eyes half-closed by Your foot-lotus-touch — may I expand, reeling drunk on Your devotion-liquor-madness. Touch narrows sight, widens being.",
+  "inference": "Half-shut eyes beg wide reeling.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v05",
@@ -154,8 +169,7 @@
     "s05-v05-p009",
     "s05-v05-p010",
     "s05-v05-p011"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -163,11 +177,14 @@
   "verse_id": "s05-v06",
   "song": "s05",
   "verse": 6,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Where dwell?",
   "premises": [
-   "*cittabhūbhṛd bhuvi vibho vaseyaṃ kvāpi yatra sā.* May I dwell anywhere, O All-pervading, mind-mountain on earth, where that practice is — uninterrupted, great-rasa, made of Your prattle. Dwelling defined by practice, not place."
+   "Mind-mountain on earth, may I dwell anywhere, All.",
+   "Where that practice runs unbroken, deep-sapped, made of Thy babble."
   ],
-  "reconstruction": "*cittabhūbhṛd bhuvi vibho vaseyaṃ kvāpi yatra sā.* May I dwell anywhere, O All-pervading, mind-mountain on earth, where that practice is — uninterrupted, great-rasa, made of Your prattle. Dwelling defined by practice, not place.",
+  "inference": "Mountain-mind dwells where babble-practice runs.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v06",
@@ -187,8 +204,7 @@
     "s05-v06-p012",
     "s05-v06-p013",
     "s05-v06-p014"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -196,11 +212,14 @@
   "verse_id": "s05-v07",
   "song": "s05",
   "verse": 7,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What town?",
   "premises": [
-   "*yatra devīsametas tvam.* Where You stand with the Goddess, many-formed, from palace to gate-tower — in that city may I dwell. The divine household as address; *bahurūpa* domesticated."
+   "Where Thou standest with the Lady, many-shaped, from palace to gate-tower.",
+   "In that town may I dwell."
   ],
-  "reconstruction": "*yatra devīsametas tvam.* Where You stand with the Goddess, many-formed, from palace to gate-tower — in that city may I dwell. The divine household as address; *bahurūpa* domesticated.",
+  "inference": "Her town dwelling begged.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v07",
@@ -221,8 +240,7 @@
     "s05-v07-p013",
     "s05-v07-p014",
     "s05-v07-p015"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -230,11 +248,14 @@
   "verse_id": "s05-v08",
   "song": "s05",
   "verse": 8,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What rays?",
   "premises": [
-   "*samullasantu bhagavan bhavadbhānumarīcayaḥ.* May Your sun-rays rejoice, Lord, until my heart-lotus blooms — for Your worship. Blooming as the rays' festival, not the devotee's work."
+   "May Thy sun-rays sport, Lord, till this heart-lotus of mine opens.",
+   "For Thy worship."
   ],
-  "reconstruction": "*samullasantu bhagavan bhavadbhānumarīcayaḥ.* May Your sun-rays rejoice, Lord, until my heart-lotus blooms — for Your worship. Blooming as the rays' festival, not the devotee's work.",
+  "inference": "Heart-lotus opening begged for worship.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v08",
@@ -252,8 +273,7 @@
     "s05-v08-p010",
     "s05-v08-p011",
     "s05-v08-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -261,11 +281,14 @@
   "verse_id": "s05-v09",
   "song": "s05",
   "verse": 9,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What melting?",
   "premises": [
-   "*prasīda bhagavan yena tvatpade patitaṃ sadā.* Favor me, Lord, so that my mind, fallen ever at Your feet, tasting this and that — melts like wax, flows like... Wax-mind: tasting melts; melting is the prayer."
+   "Be gracious (prasīda), Lord.",
+   "That my mind, ever fallen at Thy feet, tasting this and that, melt as wax, run."
   ],
-  "reconstruction": "*prasīda bhagavan yena tvatpade patitaṃ sadā.* Favor me, Lord, so that my mind, fallen ever at Your feet, tasting this and that — melts like wax, flows like... Wax-mind: tasting melts; melting is the prayer.",
+  "inference": "Fallen mind prayed wax-melting.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v09",
@@ -286,8 +309,7 @@
     "s05-v09-p013",
     "s05-v09-p014",
     "s05-v09-p015"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -295,12 +317,17 @@
   "verse_id": "s05-v10",
   "song": "s05",
   "verse": 10,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "Whence shown?",
   "premises": [
-   "*praharṣād vātha śokād vā.* Whether from joy bursting pot-lids, or sorrow — from outside or inside feeling, appear to me, Lord. Any trigger suffices; appear regardless of cause."
+   "From joy though it blow pot-lids, or from sorrow.",
+   "From outward feeling, inward feeling — show plain to me, Master."
   ],
-  "reconstruction": "*praharṣād vātha śokād vā.* Whether from joy bursting pot-lids, or sorrow — from outside or inside feeling, appear to me, Lord. Any trigger suffices; appear regardless of cause.",
-  "uncertainties": [],
+  "inference": "Joy/sorrow, outer/inner: shown plain begged.",
+  "uncertainties": [
+   "dhaṭāt GRETIL quirk (burst lids); bursting kept."
+  ],
   "traces": {
    "t1_verse": "s05-v10",
    "l0_ids": [
@@ -325,8 +352,7 @@
     "s05-v10-p018",
     "s05-v10-p019",
     "s05-v10-p020"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -334,11 +360,14 @@
   "verse_id": "s05-v11",
   "song": "s05",
   "verse": 11,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What oozing?",
   "premises": [
-   "*bahir apy antar api tat syandamānaṃ sadāstu me.* Outside too, inside too — may that ever-streaming, Your coolest foot-lotus-touch-nectar, be mine always. Streaming touch, both directions."
+   "Without too, within too.",
+   "May that ever-oozing be mine: Thy foot-lotus-touch nectar, cool past cool."
   ],
-  "reconstruction": "*bahir apy antar api tat syandamānaṃ sadāstu me.* Outside too, inside too — may that ever-streaming, Your coolest foot-lotus-touch-nectar, be mine always. Streaming touch, both directions.",
+  "inference": "Ever-oozing cool nectar begged in-out.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v11",
@@ -359,8 +388,7 @@
     "s05-v11-p013",
     "s05-v11-p014",
     "s05-v11-p015"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -368,11 +396,14 @@
   "verse_id": "s05-v12",
   "song": "s05",
   "verse": 12,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What lake?",
   "premises": [
-   "*tvatpādasaṃsparśasudhāsaraso 'ntarnimajjanam.* Plunging inside Your touch-nectar-lake — may that pleasure beyond all pleasures be mine always. Pleasure (*bhoga*) that surpasses (*laṅghī*) all pleasure."
+   "Dived deep in Thy touch-nectar lake.",
+   "O what a joy past joys, leaping all enjoyment — be mine, ever."
   ],
-  "reconstruction": "*tvatpādasaṃsparśasudhāsaraso 'ntarnimajjanam.* Plunging inside Your touch-nectar-lake — may that pleasure beyond all pleasures be mine always. Pleasure (*bhoga*) that surpasses (*laṅghī*) all pleasure.",
+  "inference": "Lake-dived joy-past-joys begged.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v12",
@@ -394,8 +425,7 @@
     "s05-v12-p014",
     "s05-v12-p015",
     "s05-v12-p016"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -403,11 +433,14 @@
   "verse_id": "s05-v13",
   "song": "s05",
   "verse": 13,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What offering?",
   "premises": [
-   "*niveditam upādatsva rāgādi bhagavan mayā.* Take what I offer — passion and the rest, Lord; make it nectar and eat it with devotees. The passions cooked into nectar and shared: offering as cuisine."
+   "Take the laid offering — passions and the rest, Lord, by me; take, nectarize, and feast.",
+   "With lover-folk, together."
   ],
-  "reconstruction": "*niveditam upādatsva rāgādi bhagavan mayā.* Take what I offer — passion and the rest, Lord; make it nectar and eat it with devotees. The passions cooked into nectar and shared: offering as cuisine.",
+  "inference": "Passions offered, nectarized, feasted in company.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v13",
@@ -427,8 +460,7 @@
     "s05-v13-p012",
     "s05-v13-p013",
     "s05-v13-p014"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -436,11 +468,14 @@
   "verse_id": "s05-v14",
   "song": "s05",
   "verse": 14,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What glance?",
   "premises": [
-   "*aśeṣabhuvanāhāranityatṛptaḥ sukhāsanam.* Ever-full on whole-world-food, happily seated — Master, cast Your grace-glance-moment on servants. The world-eater asked for one glance at servants."
+   "Ever sated on whole-world food, easy-seated.",
+   "Master, take among slaves one grace-glance-instant."
   ],
-  "reconstruction": "*aśeṣabhuvanāhāranityatṛptaḥ sukhāsanam.* Ever-full on whole-world-food, happily seated — Master, cast Your grace-glance-moment on servants. The world-eater asked for one glance at servants.",
+  "inference": "Sated Master begged one glance-instant.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v14",
@@ -458,8 +493,7 @@
     "s05-v14-p010",
     "s05-v14-p011",
     "s05-v14-p012"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -467,11 +501,14 @@
   "verse_id": "s05-v15",
   "song": "s05",
   "verse": 15,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What worship?",
   "premises": [
-   "*antarbhakticamatkāracarvaṇāmīlitekṣaṇaḥ.* Eyes half-closed, chewing inner devotion-wonder — \"bow to me, to Śiva\" — may I worship even straw. Self as Śiva addressed; straw as liturgy-worthy."
+   "Half-eyed, chewing inner love-wonder.",
+   "'Bow to me, to Śiva' — worshiping with even straws may I be."
   ],
-  "reconstruction": "*antarbhakticamatkāracarvaṇāmīlitekṣaṇaḥ.* Eyes half-closed, chewing inner devotion-wonder — \"bow to me, to Śiva\" — may I worship even straw. Self as Śiva addressed; straw as liturgy-worthy.",
+  "inference": "Straw-offerings worship begged, half-eyed.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v15",
@@ -490,8 +527,7 @@
     "s05-v15-p011",
     "s05-v15-p012",
     "s05-v15-p013"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -499,11 +535,14 @@
   "verse_id": "s05-v16",
   "song": "s05",
   "verse": 16,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What unparting?",
   "premises": [
-   "*api labdhabhavadbhāvaḥ.* Though I have gained Your being — seeing the world as my self-blaze — may I be unparted by devotion-rasa-enjoyments. Gaining without leaving: enjoyment as non-parting's seal."
+   "Though Thy state be won — seeing the world my self-blaze.",
+   "By love-sap feastings may I stay unparted."
   ],
-  "reconstruction": "*api labdhabhavadbhāvaḥ.* Though I have gained Your being — seeing the world as my self-blaze — may I be unparted by devotion-rasa-enjoyments. Gaining without leaving: enjoyment as non-parting's seal.",
+  "inference": "Won state kept unparted by feasting.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v16",
@@ -524,8 +563,7 @@
     "s05-v16-p013",
     "s05-v16-p014",
     "s05-v16-p015"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -533,11 +571,14 @@
   "verse_id": "s05-v17",
   "song": "s05",
   "verse": 17,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What fitness?",
   "premises": [
-   "*ākāmkṣaṇīyam aparaṃ yena nātha na vidyate.* Since nothing else is to be desired, Lord — to You, the secondless, fullness is fitting. Desire's end as fitness-proof."
+   "Since naught else is to be longed for, Lord.",
+   "Thine — secondless — fullness is but fit."
   ],
-  "reconstruction": "*ākāmkṣaṇīyam aparaṃ yena nātha na vidyate.* Since nothing else is to be desired, Lord — to You, the secondless, fullness is fitting. Desire's end as fitness-proof.",
+  "inference": "Secondless fullness confessed fit.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v17",
@@ -554,8 +595,7 @@
     "s05-v17-p009",
     "s05-v17-p010",
     "s05-v17-p011"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -563,11 +603,14 @@
   "verse_id": "s05-v18",
   "song": "s05",
   "verse": 18,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What place?",
   "premises": [
-   "*hasyate nṛtyate yatra.* Where there is laughter, dancing, where passion-aversion are eaten, devotion-nectar drunk — may I reach that place. The festival as destination."
+   "Where 'tis laughed, 'tis danced.",
+   "Where hates-and-loves are eaten, love-nectar drunk — may I win that foot-place."
   ],
-  "reconstruction": "*hasyate nṛtyate yatra.* Where there is laughter, dancing, where passion-aversion are eaten, devotion-nectar drunk — may I reach that place. The festival as destination.",
+  "inference": "Laughed-danced place begged: foot-place won.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v18",
@@ -586,8 +629,7 @@
     "s05-v18-p011",
     "s05-v18-p012",
     "s05-v18-p013"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -595,11 +637,14 @@
   "verse_id": "s05-v19",
   "song": "s05",
   "verse": 19,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What perfume?",
   "premises": [
-   "*tat tad apūrvāmodatvaccintākusumavāsanā.* May that unprecedented-joy-perfume of thought-flowers about You firm up in my mind — till bad-smell of bad-habit perishes. Fragrance vs stink: thought's smell decides."
+   "That unheard-perfume — Thy-thought-blossoms' scent.",
+   "Harden in my mind, till ill-habit's stink is eaten."
   ],
-  "reconstruction": "*tat tad apūrvāmodatvaccintākusumavāsanā.* May that unprecedented-joy-perfume of thought-flowers about You firm up in my mind — till bad-smell of bad-habit perishes. Fragrance vs stink: thought's smell decides.",
+  "inference": "Unheard perfume prayed hardening till stink eaten.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v19",
@@ -622,8 +667,7 @@
     "s05-v19-p015",
     "s05-v19-p016",
     "s05-v19-p017"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -631,11 +675,14 @@
   "verse_id": "s05-v20",
   "song": "s05",
   "verse": 20,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What taught?",
   "premises": [
-   "*kva nu rāgādiṣu rāgaḥ kva ca haracaraṇāmbujeṣu rāgitvam.* Where is love among passions, and where is loving at Hari's lotus-feet — thus teach my contradiction-loving heart what is good, O Deathless. Comparison as instruction; the heart addressed as contradiction-lover."
+   "Where, pray, love among passions —",
+   "and where loving 'mid Hara's foot-lotuses? So teach my clash-fond heart its good, Deathless."
   ],
-  "reconstruction": "*kva nu rāgādiṣu rāgaḥ kva ca haracaraṇāmbujeṣu rāgitvam.* Where is love among passions, and where is loving at Hari's lotus-feet — thus teach my contradiction-loving heart what is good, O Deathless. Comparison as instruction; the heart addressed as contradiction-lover.",
+  "inference": "Clash-heart taught its good: passions vs foot-lotuses.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v20",
@@ -659,8 +706,7 @@
     "s05-v20-p016",
     "s05-v20-p017",
     "s05-v20-p018"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -668,11 +714,14 @@
   "verse_id": "s05-v21",
   "song": "s05",
   "verse": 21,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What only?",
   "premises": [
-   "*vicaran yogadaśāsv api.* Though wandering even through yogic states, though turned away from objects — may I be only heart-melted by Your-thought-liquor-madness. States passed through, not dwelt in; melting only by Him."
+   "Roaming yoga-states even, turned from sense-things even.",
+   "Thy-thought-wine's frenzy liquifying my heart — only that may I be."
   ],
-  "reconstruction": "*vicaran yogadaśāsv api.* Though wandering even through yogic states, though turned away from objects — may I be only heart-melted by Your-thought-liquor-madness. States passed through, not dwelt in; melting only by Him.",
+  "inference": "Only heart-liquor frenzy willed.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v21",
@@ -694,8 +743,7 @@
     "s05-v21-p014",
     "s05-v21-p015",
     "s05-v21-p016"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -703,11 +751,14 @@
   "verse_id": "s05-v22",
   "song": "s05",
   "verse": 22,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What vanguard?",
   "premises": [
-   "*vāci manomatiṣu tathā śarīraceṣṭāsu.* In speech, mind-thoughts, body-gestures made by senses — everywhere, always, may bhakti-rasa go before me as leader. Devotion as vanguard (*puraḥsara*) of every faculty."
+   "Speech, mind-thoughts, sense-wrought body-moves.",
+   "Everywhere, ever, may love-sap run vanguard before me."
   ],
-  "reconstruction": "*vāci manomatiṣu tathā śarīraceṣṭāsu.* In speech, mind-thoughts, body-gestures made by senses — everywhere, always, may bhakti-rasa go before me as leader. Devotion as vanguard (*puraḥsara*) of every faculty.",
+  "inference": "Love-sap vanguard begged for all doings.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v22",
@@ -730,8 +781,7 @@
     "s05-v22-p015",
     "s05-v22-p016",
     "s05-v22-p017"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -739,11 +789,14 @@
   "verse_id": "s05-v23",
   "song": "s05",
   "verse": 23,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What tasted?",
   "premises": [
-   "*śivaśivaśiveti nāmani tava niravadhi.* While Your name \"Śiva Śiva Śiva\" is chanted endlessly, Lord — may I taste some great unrepeatable rasa. The Name's infinity; the taste's unrepeatability."
+   "'Śiva Śiva Śiva' — Thy name muttered without end, Lord.",
+   "Tasting may I be some great unre-said sap."
   ],
-  "reconstruction": "*śivaśivaśiveti nāmani tava niravadhi.* While Your name \"Śiva Śiva Śiva\" is chanted endlessly, Lord — may I taste some great unrepeatable rasa. The Name's infinity; the taste's unrepeatability.",
+  "inference": "Unre-said sap tasted in endless muttering.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v23",
@@ -767,8 +820,7 @@
     "s05-v23-p016",
     "s05-v23-p017",
     "s05-v23-p018"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -776,11 +828,14 @@
   "verse_id": "s05-v24",
   "song": "s05",
   "verse": 24,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What roamed?",
   "premises": [
-   "*sphuradanantacidātmakaviṣṭape.* In the vastness flashing as endless consciousness-self, where all dull paths are drunk up — may I roam Your worship, countless consciousness-made ramparts uncounted. Roaming, not arriving."
+   "Vast flashing endless knowing-self — dull roads all drunk dry.",
+   "Ramparts uncounted, knowing-made — may I roam, by Thee honored."
   ],
-  "reconstruction": "*sphuradanantacidātmakaviṣṭape.* In the vastness flashing as endless consciousness-self, where all dull paths are drunk up — may I roam Your worship, countless consciousness-made ramparts uncounted. Roaming, not arriving.",
+  "inference": "Vast knowing roamed, honored, past drunk-dry roads.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v24",
@@ -803,8 +858,7 @@
     "s05-v24-p015",
     "s05-v24-p016",
     "s05-v24-p017"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -812,11 +866,14 @@
   "verse_id": "s05-v25",
   "song": "s05",
   "verse": 25,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What thought?",
   "premises": [
-   "*svavapuṣi sphuṭabhāsini śāśvate.* For standing in self-body, clearly shining, eternal — nothing else is of use; firm be this thought — but dust of Your pure feet, O Lord. Self-sufficiency confessed — then the one exception: foot-dust."
+   "Standing in self-body, clear-shining, everlasting.",
+   "Naught else avails. Firm be this thought. Yet — Thy foot-lotus dust, O Pure."
   ],
-  "reconstruction": "*svavapuṣi sphuṭabhāsini śāśvate.* For standing in self-body, clearly shining, eternal — nothing else is of use; firm be this thought — but dust of Your pure feet, O Lord. Self-sufficiency confessed — then the one exception: foot-dust.",
+  "inference": "Self-body thought firmed — yet foot-dust.",
   "uncertainties": [],
   "traces": {
    "t1_verse": "s05-v25",
@@ -844,8 +901,7 @@
     "s05-v25-p020",
     "s05-v25-p021",
     "s05-v25-p022"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  },
@@ -853,12 +909,17 @@
   "verse_id": "s05-v26",
   "song": "s05",
   "verse": 26,
-  "structured": false,
+  "structured": true,
+  "speaker": "Utpaladeva (devotee voice)",
+  "question": "What shown?",
   "premises": [
-   "*kim api nātha kadācana cetasi sphurati.* Something flashes sometime in mind, touching Your feet — where this whole world melts — show it always, in the nectar-lake, Lord. Close: a flash, feet touched, world melted; \"show always.\""
+   "Something, Lord, sometime flashes in mind.",
+   "Touchers of Thy foot-sole, where this whole melts — in nectar's lake show me this world, ever."
   ],
-  "reconstruction": "*kim api nātha kadācana cetasi sphurati.* Something flashes sometime in mind, touching Your feet — where this whole world melts — show it always, in the nectar-lake, Lord. Close: a flash, feet touched, world melted; \"show always.\"",
-  "uncertainties": [],
+  "inference": "Flashed something shown: sole-touchers where whole melts.",
+  "uncertainties": [
+   "Genitive plurals kept literal (sole-touchers); unexpressed head noun left open per Bar 6."
+  ],
   "traces": {
    "t1_verse": "s05-v26",
    "l0_ids": [
@@ -885,8 +946,7 @@
     "s05-v26-p020",
     "s05-v26-p021",
     "s05-v26-p022"
-   ],
-   "traces_backfilled": true
+   ]
   },
   "sanskrit_sha": "7a54f4e6f0dc4ae5"
  }

@@ -55,8 +55,8 @@ def main() -> int:
                 if not (it.get(lf) or "").strip():
                     errs.append(f"{ch}: PASS chunk with empty {lf}")
             l1 = it.get("l1", "")
-            if not re.match(r"## \S+ \(\d+\)\n", l1):
-                errs.append(f"{ch}: l1 missing ## <chunk> (<n>) header")
+            if not re.match(r"## \S+ \(\d+(?:[–-]\d+)?\)\n", l1):
+                errs.append(f"{ch}: l1 missing ## <chunk> (<n>[-m]) header")
             if not re.search(r"// \S+\s*$", l1):
                 errs.append(f"{ch}: l1 missing // <ref> trailer")
             am = SITE / "argmaps" / args.work / f"{ch}.md"

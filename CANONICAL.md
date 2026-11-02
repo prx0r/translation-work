@@ -6,8 +6,10 @@ in `AGENTS.md`, which wins over everything).*
 
 ## The stack (one line)
 
-`SOURCE → T1 → L0 → ARGMAP → L2 → C1(essence+renders)`, defined in `LAYERS.md`,
-enforced by `schemas/*.py`, executed by `tools/*.py`, verified by `check.py`.
+`SOURCE → T1 → L0 → ARGMAP → L2 → C1(essence+renders) → L3(final translation)`, defined in `LAYERS.md`,
+enforced by `schemas/*.py`, executed by `tools/*.py`, verified by `check.py`. L3 is the
+canonical final translation: one polished rendering per verse, faithful to L2's meaning,
+voiced by the verse's rasa, tracing to L0. Added 2026-11-02 (user directive: L3 NOW).
 
 ## What is canonical
 

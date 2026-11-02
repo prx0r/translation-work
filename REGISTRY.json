@@ -1,750 +1,756 @@
 {
-  "canonical": "FINAL-PROCESS.md",
-  "version": "1.0.0",
-  "date": "2026-11-01",
-  "schemas_version": "1.1.0",
-  "gate": "check.py (CANONICAL: 0 failures)",
-  "total_works": 94,
-  "gold": 8,
-  "partial": 0,
-  "pending": 84,
-  "works": [
-    {
-      "work": "ajadapramatrsiddhi",
-      "status": "legacy (old format, needs transformation to gold standard)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "anuttarastika",
-      "status": "gold",
-      "gold": true,
-      "has_data_json": true,
-      "has_process_log": false,
-      "verses": 8
-    },
-    {
-      "work": "bhairavanukarana",
-      "status": "legacy (old format, needs transformation to gold standard)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "bhairavastava",
-      "status": "gold",
-      "gold": true,
-      "has_data_json": true,
-      "has_process_log": false,
-      "verses": 10
-    },
-    {
-      "work": "bodhapancadasika",
-      "status": "legacy (old format, needs transformation to gold standard)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "bodhavilasa",
-      "status": "legacy (old format, needs transformation to gold standard)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "ghatakarpara",
-      "status": "gold",
-      "gold": true,
-      "has_data_json": true,
-      "has_process_log": true,
-      "verses": null
-    },
-    {
-      "work": "pancashloki",
-      "status": "gold",
-      "gold": true,
-      "has_data_json": true,
-      "has_process_log": false,
-      "verses": 5
-    },
-    {
-      "work": "parapravesika",
-      "status": "legacy (old format, needs transformation to gold standard)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "paryantapancasika",
-      "status": "legacy (old format, needs transformation to gold standard)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "sivastotravali",
-      "status": "gold",
-      "gold": true,
-      "has_data_json": true,
-      "has_process_log": false,
-      "verses": 450,
-      "partial": true
-    },
-    {
-      "work": "anubhavanivedana",
-      "status": "gold",
-      "gold": true,
-      "has_data_json": true,
-      "has_process_log": false,
-      "verses": 4
-    },
-    {
-      "work": "dehastha",
-      "status": "no-repo (needs source + full build)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "isvarasiddhi",
-      "status": "T1 corrupt (needs T1 rebuild)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "kramastotra",
-      "status": "tier-3 (needs full rebuild)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "mahopadeshavimshatika",
-      "status": "no-repo (needs source + full build)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "paramadvayadvadashika",
-      "status": "no-repo (needs source + full build)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "paramarthacarca",
-      "status": "gold",
-      "gold": true,
-      "has_data_json": true,
-      "has_process_log": false,
-      "verses": 8
-    },
-    {
-      "work": "paramarthadvadasika",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "paramarthasara",
-      "status": "tier-1 (verify only, legacy format)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "paratrimshika",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "phrdaya",
-      "status": "legacy (old format, needs transformation to gold standard)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "ptvmadhyama",
-      "status": "T1 corrupt (needs T1 rebuild)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "rahasyapanchadashika",
-      "status": "no-repo (needs source + full build)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "saktavijnana",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "sambandhasiddhi",
-      "status": "tier-1 (verify only, legacy format)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "sivasutra",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "spanda",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "spandasandoha",
-      "status": "gold",
-      "gold": true,
-      "has_data_json": true,
-      "has_process_log": true,
-      "verses": null
-    },
-    {
-      "work": "stavacintamani",
-      "status": "tier-3 (needs full rebuild)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "svabodhasiddhi",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a01",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a02",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a03",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a04",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a05",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a06",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a07",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a08",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a09",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a10",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a11",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a12",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a13",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a14",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a15",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a16",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a17",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a18",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a19",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a20",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a21",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a22",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a23",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a24",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a25",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a26",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a27",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a28",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a29",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a30",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a31",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a32",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a33",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a34",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a35",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a36",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantraloka-a37",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a01",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a02",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a03",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a04",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a05",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a06",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a07",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a08",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a09",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a10",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a11",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a12",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a13",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a14",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a15",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a16",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a17",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a18",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a19",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a20",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a21",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tantrasara-a22",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "tattvasandoha",
-      "status": "no-repo (needs source + full build)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    },
-    {
-      "work": "vbt",
-      "status": "legacy (needs transformation)",
-      "gold": false,
-      "has_data_json": false,
-      "has_process_log": false,
-      "verses": null
-    }
-  ]
+ "canonical": "FINAL-PROCESS.md",
+ "version": "1.0.0",
+ "date": "2026-11-02",
+ "schemas_version": "1.1.0",
+ "gate": "check.py (CANONICAL: 0 failures)",
+ "total_works": 92,
+ "gold": 11,
+ "partial": 0,
+ "pending": 84,
+ "works": [
+  {
+   "work": "ajadapramatrsiddhi",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 27,
+   "note": "2026-11-02: full gold pipeline (T1/L0/argmap/L2/C1/L3 27/27), validate+proof PASS x3, L3 handcrafted couplets reviewed"
+  },
+  {
+   "work": "anuttarastika",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": false,
+   "verses": 8,
+   "note": "L3 5/8 live (p02-p04 fail closed: no proof record, correctly held)"
+  },
+  {
+   "work": "bhairavanukarana",
+   "status": "legacy (old format, needs transformation to gold standard)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "bhairavastava",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": false,
+   "verses": 10
+  },
+  {
+   "work": "bodhapancadasika",
+   "status": "legacy (old format, needs transformation to gold standard)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "bodhavilasa",
+   "status": "legacy (old format, needs transformation to gold standard)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "ghatakarpara",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": null
+  },
+  {
+   "work": "pancashloki",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": false,
+   "verses": 5
+  },
+  {
+   "work": "parapravesika",
+   "status": "legacy (old format, needs transformation to gold standard)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paryantapancasika",
+   "status": "legacy (old format, needs transformation to gold standard)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "sivastotravali",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": false,
+   "verses": 450,
+   "partial": false,
+   "note": "2026-11: 20/20 songs L3 canonical (couplet schema), check.py CANONICAL 0 failures, pushed; site-layer rebuild pending"
+  },
+  {
+   "work": "anubhavanivedana",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": false,
+   "verses": 4
+  },
+  {
+   "work": "dehastha",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "isvarasiddhi",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 56,
+   "note": "2026-11-02: full gold pipeline (T1/L0/argmap/L2/C1/L3 56/56, 7 songs), validate+proof PASS x7, L3 handcrafted; v54 parser gap fixed in workcfg; taye variant + v37/38 sentence recorded"
+  },
+  {
+   "work": "kramastotra",
+   "status": "tier-3 (needs full rebuild)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "mahopadeshavimshatika",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paramadvayadvadashika",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paramarthacarca",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": false,
+   "verses": 8
+  },
+  {
+   "work": "paramarthadvadasika",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paramarthasara",
+   "status": "tier-1 (verify only, legacy format)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "paratrimshika",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "phrdaya",
+   "status": "legacy (old format, needs transformation to gold standard)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "ptvmadhyama",
+   "status": "T1 corrupt (needs T1 rebuild)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "rahasyapanchadashika",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "saktavijnana",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "sambandhasiddhi",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 23,
+   "partial": false,
+   "note": "2026-11-02: p01-p03 canonical (vv1-23, validate+proof PASS x3, L3 handcrafted); 23 slokas (2 mangala+21 karikas)"
+  },
+  {
+   "work": "sivasutra",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "spanda",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "spandasandoha",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": null
+  },
+  {
+   "work": "stavacintamani",
+   "status": "tier-3 (needs full rebuild)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "svabodhasiddhi",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a01",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a02",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a03",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a04",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a05",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a06",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a07",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a08",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a09",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a10",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a11",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a12",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a13",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a14",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a15",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a16",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a17",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a18",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a19",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a20",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a21",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a22",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a23",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a24",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a25",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a26",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a27",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a28",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a29",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a30",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a31",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a32",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a33",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a34",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a35",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a36",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantraloka-a37",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a01",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a02",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a03",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a04",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a05",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a06",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a07",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a08",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a09",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a10",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a11",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a12",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a13",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a14",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a15",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a16",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a17",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a18",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a19",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a20",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a21",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tantrasara-a22",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "tattvasandoha",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  },
+  {
+   "work": "vbt",
+   "status": "legacy (needs transformation)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null
+  }
+ ]
 }

@@ -36,3 +36,12 @@ Scripts that scaffold T1/L0/argmap/L2/C1 from existing MD produce schema-valid b
 
 ## 11. Depth over speed — every layer must be hand-crafted, never scaffolded
 Scripts that generate T1/L0/argmap/L2/C1 from existing MD produce schema-valid but shallow work. The mechanical gate (0 meta, 0 shared, 0 quotes) is a proxy, not the rule. The rule: each layer must be read against the verse, not the regex. T1 glosses must be pada-split, not surface-as-gloss. L0 must have analyzed morph, not morph_unknown=true. Argmap premises must be terse logical statements, not copy-pasted L2 sentences. L2 must carry rasa in word choice, not just convey meaning. C1 must state the matters with evocative rasa, not generic placeholders. Concepts must be enriched with sources, rasa, works, related — not skeletons. Peer review must compare against scholarship. One work at a time, by hand, with depth. Bulk transforms of multiple works in one session are forbidden. The machine proposes data objects; it does not write them. Scripts are proxies, never authors. Quality beats speed. Depth beats coverage.
+
+## Rule 12: C1 is pristine translation only
+C1 holds the rasa-evocative translation (essence + rasa block). Every note, explanation, boundary, key term, local context, and related reference that is not the translation itself moves to C1 NOTE (data/<song>.c1.json.NOTE.md or c1/C1-<song>.NOTE.md). The site feeds C1 directly; notes in C1 pollute the reader. When in doubt, move it out.
+
+## Why this keeps going wrong
+The gate validates schema and round-trips, not prose quality or placement. It cannot tell a precise rasa-evocative translation from a meta sentence. The narrow regex gate is a proxy; the broad scan (move anything that is not the translation) is the rule. When proxy and rule disagree, the rule wins.
+
+## Rule 13: Display-only data types
+Anything not meant to be displayed to the reader does not belong in a display data type (T1, L0, argmap, L2, C1, C2). It belongs in a NOTE file (C1 NOTE, L2 NOTE, etc.). Display data types carry only what the site renders.
