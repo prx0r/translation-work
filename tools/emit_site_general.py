@@ -32,12 +32,15 @@ def main() -> int:
     chunks = []
     argdir = SITE / "argmaps" / args.work
     argdir.mkdir(parents=True, exist_ok=True)
+    c1dir = SITE / "c1" / args.work
+    c1dir.mkdir(parents=True, exist_ok=True)
     songs = 0
     for t1f in sorted(data.glob("*.t1.json")):
         song = t1f.stem.split(".")[0]
         t1 = json.loads(t1f.read_text())
         l2_path = data / f"{song}.l2.json"
         am_path = data / f"{song}.argmap.json"
+        c1_path = data / f"{song}.c1.json"
         l2 = {o["verse"]: o for o in json.loads(l2_path.read_text())} if l2_path.exists() else {}
         am = {o["verse"]: o for o in json.loads(am_path.read_text())} if am_path.exists() else {}
         prec = proofdir / f"proof-{song}.json"
@@ -63,7 +66,7 @@ def main() -> int:
             t1o = next((o for o in t1 if o["verse"] == vn), {})
             if gate == "PASS":
                 close = " / ".join(t["quick_gloss"] for t in v["tokens"])
-                l1 = f"## {vid} ({vn})\n{close}"
+                l1 = f"## {vid} ({vn})\n{close} // {psg.get('locator', song)}"
                 l2t = (l2o.get("plain_english", "") or "").strip()
             else:
                 l1, l2t = "", ""
@@ -72,6 +75,7 @@ def main() -> int:
                   "needs": needs,
                   "model": "crystal-v1", "date": proof.get("date", "2026-11-01"),
                   "l1": l1, "l2": l2t,
+                  "source_file": t1o.get("source_file", "passages.jsonl"),
                   "links": {"source_file": t1o.get("source_file", "passages.jsonl"),
                             "edition": psg.get("source_edition", "canonical"),
                             "source_lines": t1o.get("source_lines")}}
@@ -79,6 +83,11 @@ def main() -> int:
                 ch["accepted_by"] = sign.get("accepted_by")
                 ch["accepted_date"] = sign.get("date")
                 ch["accept_scope"] = sign.get("scope")
+            if psg.get("immutable_id"):
+                ch["immutable_id"] = psg["immutable_id"]
+            # source_license: deliberately NOT defaulted — needs per-edition
+            # legal decision (GRETIL/Muktabodha/KSTS differ). verify_site will
+            # keep flagging it until the owner sets it. See CHAT.md gap log.
             chunks.append(ch)
             ao = am.get(vn, {})
             if gate == "PASS" and ao:
@@ -93,6 +102,27 @@ def main() -> int:
                         lines.append(f"- {oc['l0_id']}: chose option {oc['chosen_index']} "
                                      f"over {', '.join(oc.get('rejected', []))} — {oc['reason']}")
                 (argdir / f"{vid}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+        # C1: pristine display (SUMMARY + rasa) + scholar NOTE alongside.
+        # Single-verse songs only (vid == song); multi-verse C1 stays song-level
+        # until verse-level C1s exist — never duplicate one essay across verses.
+        if c1_path.exists() and len(t1) == 1:
+            c1 = json.loads(c1_path.read_text())
+            std = ((c1.get("renders") or {}).get("standard") or {}).get("sections") or {}
+            summ = (std.get("SUMMARY") or "").strip()
+            rasa = c1.get("rasa") or {}
+            clines = [f"## {vid} — C1", ""]
+            if summ:
+                clines += [f"**SUMMARY.** {summ}", ""]
+            if rasa.get("dominant"):
+                clines += [f"*Rasa: {rasa.get('dominant','')}"
+                           + (f" — {rasa.get('justification','')}" if rasa.get("justification") else "")
+                           + "*", ""]
+            if len(clines) > 2:
+                (c1dir / f"{vid}.md").write_text("\n".join(clines), encoding="utf-8")
+            notef = data / f"{song}.c1.NOTE.md"
+            if notef.exists():
+                (c1dir / f"{vid}.NOTE.md").write_text(notef.read_text(encoding="utf-8"),
+                                                     encoding="utf-8")
         songs += 1
     out = SITE / "translations" / f"{args.work}.json"
     out.write_text(json.dumps(chunks, ensure_ascii=False, indent=1), encoding="utf-8")
