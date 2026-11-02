@@ -1,21 +1,20 @@
 [
  {
-  "verse_id": "s17-v01",
-  "song": "s17",
-  "verse": 1,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Ah, this wins",
-  "premises": [
-   "Ah, this wins",
-   "sweet, this festival of worship",
-   "since tears give nectar-taste amply"
-  ],
-  "inference": "Ah, this wins",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v01",
+   "song": "s17",
+   "verse": 1,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What wins, and why do tears testify?",
+   "premises": [
+    "The sweet worship-festival wins, somehow (aho ko 'pi jayaty eṣa svāduḥ pūjāmahotsavaḥ).",
+    "Tears give nectar-taste amply: grief itself turns sacramental."
+   ],
+   "inference": "Victory belongs to worship; even tears prove it by tasting of nectar.",
+   "uncertainties": [
+    "Whether ko 'pi (somehow) marks mystery or understatement is unresolved."
+   ],
   "traces": {
    "t1_verse": "s17-v01",
    "l0_ids": [
@@ -38,20 +37,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v02",
-  "song": "s17",
-  "verse": 2,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "All acts with His worship vanguard are successes; devotees made of Him are themselves successes",
-  "premises": [
-   "All acts with His worship vanguard are successes; devotees made of Him are themselves successes"
-  ],
-  "inference": "All acts with His worship vanguard are successes; devotees made of Him are themselves successes",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v02",
+   "song": "s17",
+   "verse": 2,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Which acts succeed, and what are devotees?",
+   "premises": [
+    "All acts led by Thy worship grant success (vyāpārāḥ siddhidāḥ sarve ye tvatpūjāpuraḥsarāḥ).",
+    "Devotees made of Thee are themselves successes (tvanmayāḥ ... svayaṃ siddhaya eva)."
+   ],
+   "inference": "Worship converts acts into siddhis and agents into attainments.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v02",
    "l0_ids": [
@@ -73,21 +71,21 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v03",
-  "song": "s17",
-  "verse": 3,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "In all beings, all states, at once, all-formed",
-  "premises": [
-   "In all beings, all states, at once, all-formed",
-   "worshipping You unceasing, they are my gods"
-  ],
-  "inference": "In all beings, all states, at once, all-formed",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v03",
+   "song": "s17",
+   "verse": 3,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Who are my gods?",
+   "premises": [
+    "Those who worship Thee unceasing, all-formed, in all beings and states at once.",
+    "They — not temple images — are called my presiding gods (mamaite 'dhidevatāḥ)."
+   ],
+   "inference": "The worshippers are the deities: devotion divinizes the devotee.",
+   "uncertainties": [
+    "Whether adhidevatāḥ ascribes literal divinity to devotees or honorific status is unresolved."
+   ],
   "traces": {
    "t1_verse": "s17-v03",
    "l0_ids": [
@@ -107,22 +105,21 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v04",
-  "song": "s17",
-  "verse": 4,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Meditation-perfected touch-festival of You",
-  "premises": [
-   "Meditation-perfected touch-festival of You",
-   "thus famed as worship-rule",
-   "be mine always"
-  ],
-  "inference": "Meditation-perfected touch-festival of You",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v04",
+   "song": "s17",
+   "verse": 4,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Which worship-rule does he ask for?",
+   "premises": [
+    "The touch-festival, perfected by disregarding meditative effort (dhyānāyāsatiraskārasiddhas).",
+    "Famed as the rule of worship; may it be mine always."
+   ],
+   "inference": "He asks not for method but for contact perfected by dropping method.",
+   "uncertainties": [
+    "Where the long compound divides (dhyāna-āyāsa-tiraskāra) is unresolved; the sense — perfection through disregard of effort — is stable."
+   ],
   "traces": {
    "t1_verse": "s17-v04",
    "l0_ids": [
@@ -142,21 +139,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v05",
-  "song": "s17",
-  "verse": 5,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Equanimity-essence equinox-moment of devotees is always",
-  "premises": [
-   "Equanimity-essence equinox-moment of devotees is always",
-   "ever-worshipping with Your being-rasa-nectar"
-  ],
-  "inference": "Equanimity-essence equinox-moment of devotees is always",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v05",
+   "song": "s17",
+   "verse": 5,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "When is the devotees' moment?",
+   "premises": [
+    "Always: the equinox-moment of equanimity-essence (samatāsāraviṣuvatsamayaḥ sadā).",
+    "Ever-worshipping with being-rasa-nectar."
+   ],
+   "inference": "No season but equanimity; worship is the constant climate.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v05",
    "l0_ids": [
@@ -171,21 +166,21 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v06",
-  "song": "s17",
-  "verse": 6,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Whose beginning and end are not, nor time-order",
-  "premises": [
-   "Whose beginning and end are not, nor time-order",
-   "that deed is Yours, and its doers resort only to You"
-  ],
-  "inference": "Whose beginning and end are not, nor time-order",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v06",
+   "song": "s17",
+   "verse": 6,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Whose is beginningless, timeless action?",
+   "premises": [
+    "Action without beginning, end, or time-order (yasyānārambhaparyantau na ca kālakramaḥ).",
+    "That deed is Thine; its doers resort to Thee alone (kartāras tvajjuṣaḥ param)."
+   ],
+   "inference": "Timeless deed belongs to the Lord; agents participate only by resort.",
+   "uncertainties": [
+    "Whether param is adverbial (merely, only) or adjectival (the Supreme) is unresolved."
+   ],
   "traces": {
    "t1_verse": "s17-v06",
    "l0_ids": [
@@ -206,21 +201,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v07",
-  "song": "s17",
-  "verse": 7,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Brahmā and the rest are fortunate, lords",
-  "premises": [
-   "Brahmā and the rest are fortunate, lords",
-   "in whose dream, even delusion, stands Your worship-festival"
-  ],
-  "inference": "Brahmā and the rest are fortunate, lords",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v07",
+   "song": "s17",
+   "verse": 7,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Who is fortunate?",
+   "premises": [
+    "Even Brahmā and the rest are fortunate (brahmādīnām apīśāste te ca saubhāgyabhāginaḥ).",
+    "In whose dream, even delusion, stands Thy worship-festival."
+   ],
+   "inference": "Fortune is measured by worship persisting even into dream and delusion.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v07",
    "l0_ids": [
@@ -242,22 +235,21 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v08",
-  "song": "s17",
-  "verse": 8,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Chanting, offering, bathing, meditating",
-  "premises": [
-   "Chanting, offering, bathing, meditating",
-   "and not only: ah, devotees' worshipping You",
-   "whenever, whatever, however much"
-  ],
-  "inference": "Chanting, offering, bathing, meditating",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v08",
+   "song": "s17",
+   "verse": 8,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What bounds devotees' worship?",
+   "premises": [
+    "Chanting, offering, bathing, meditating — and not only these (na ca kevalam).",
+    "Whenever, whatever, however much (yāvad yadā tadā): open correlatives with no apodosis."
+   ],
+   "inference": "Worship exceeds its forms and its occasions alike.",
+   "uncertainties": [
+    "The syntax trails off (correlatives without apodosis); L2 keeps the trailing form deliberately."
+   ],
   "traces": {
    "t1_verse": "s17-v08",
    "l0_ids": [
@@ -279,21 +271,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v09",
-  "song": "s17",
-  "verse": 9,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Tasting Your worship-nectar-joy, enjoying",
-  "premises": [
-   "Tasting Your worship-nectar-joy, enjoying",
-   "to Indra and the rest, to Brahmā-chiefs: is anyone equal?"
-  ],
-  "inference": "Tasting Your worship-nectar-joy, enjoying",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v09",
+   "song": "s17",
+   "verse": 9,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Who equals the enjoyers?",
+   "premises": [
+    "Tasting worship-nectar-joy, enjoying (bhavatpūjāsudhāsvādasambhogasukhinaḥ).",
+    "Against Indra and the Brahmā-chiefs: who is equal (asti kaḥ samaḥ)?"
+   ],
+   "inference": "No god matches the devotee's enjoyment.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v09",
    "l0_ids": [
@@ -311,21 +301,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v10",
-  "song": "s17",
-  "verse": 10,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "World-shaking, one-cause festival",
-  "premises": [
-   "World-shaking, one-cause festival",
-   "what is got thereby, only devotees know who get it"
-  ],
-  "inference": "World-shaking, one-cause festival",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v10",
+   "song": "s17",
+   "verse": 10,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What is got at the world-shaking festival?",
+   "premises": [
+    "The festival whose one cause shakes the world (jagatkṣobhaikajanake bhavatpūjāmahotsave).",
+    "What is got thereby — only devotees who get it know (bhaktā eva vidanti tat)."
+   ],
+   "inference": "The festival's yield is esoteric: known only by getting.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v10",
    "l0_ids": [
@@ -344,21 +332,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v11",
-  "song": "s17",
-  "verse": 11,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Standing in Your abode, consciousness-formed, with body-speech-mind acts of all 36 principles",
-  "premises": [
-   "Standing in Your abode, consciousness-formed, with body-speech-mind acts of all 36 principles",
-   "I always worship You, Lord"
-  ],
-  "inference": "Standing in Your abode, consciousness-formed, with body-speech-mind acts of all 36 principles",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v11",
+   "song": "s17",
+   "verse": 11,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "How is He always worshipped?",
+   "premises": [
+    "Standing in Thy abode, consciousness-formed (tvaddhāmni cinmaye sthitvā).",
+    "With body-speech-mind acts of all 36 principles — the Trika system total as liturgy."
+   ],
+   "inference": "The whole tattva system becomes the instrument of worship.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v11",
    "l0_ids": [
@@ -377,21 +363,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v12",
-  "song": "s17",
-  "verse": 12,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Of me, enjoying union with Your worship",
-  "premises": [
-   "Of me, enjoying union with Your worship",
-   "may all time pass, even endless: this I pray"
-  ],
-  "inference": "Of me, enjoying union with Your worship",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v12",
+   "song": "s17",
+   "verse": 12,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "How should time pass?",
+   "premises": [
+    "Of me enjoying union with Thy worship (bhavatpūjāmayāsaṅgasambhogasukhino mama).",
+    "May all time pass, even endless: this I pray."
+   ],
+   "inference": "Endlessness itself is prayed for — time as the medium of enjoyment.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v12",
    "l0_ids": [
@@ -409,21 +393,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v13",
-  "song": "s17",
-  "verse": 13,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Greedy for Your worship-enjoyment-nectar",
-  "premises": [
-   "Greedy for Your worship-enjoyment-nectar",
-   "may it grow daily for me and fruit always"
-  ],
-  "inference": "Greedy for Your worship-enjoyment-nectar",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v13",
+   "song": "s17",
+   "verse": 13,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What should grow and fruit?",
+   "premises": [
+    "Greed for worship-enjoyment-nectar (bhavatpūjāmṛtarasābhogalampaṭatā).",
+    "May it grow daily and fruit always for me."
+   ],
+   "inference": "Greed (lampaṭatā), vice elsewhere, is the desired crop.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v13",
    "l0_ids": [
@@ -441,20 +423,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v14",
-  "song": "s17",
-  "verse": 14,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "In Your ocean, nectar-one-rasa-full, worshipping You, great self, may I always sit",
-  "premises": [
-   "In Your ocean, nectar-one-rasa-full, worshipping You, great self, may I always sit"
-  ],
-  "inference": "In Your ocean, nectar-one-rasa-full, worshipping You, great self, may I always sit",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v14",
+   "song": "s17",
+   "verse": 14,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Where does he sit worshipping?",
+   "premises": [
+    "In Thine ocean, full of world-play-born nectar-one-rasa (jagadvilayasañjātasudhaikarasanirbhare tvadabdhau).",
+    "Worshipping Thee, the great self, may I sit always."
+   ],
+   "inference": "The ocean is both place and substance: nectar-water to sit in.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v14",
    "l0_ids": [
@@ -470,21 +451,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v15",
-  "song": "s17",
-  "verse": 15,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Mind offered as sweet in Your rite",
-  "premises": [
-   "Mind offered as sweet in Your rite",
-   "knots ever cut simply"
-  ],
-  "inference": "Mind offered as sweet in Your rite",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v15",
+   "song": "s17",
+   "verse": 15,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What do devotees offer?",
+   "premises": [
+    "Mind, sweet, in Thy rite (mano nivedyate bhaktaiḥ svādu pūjāvidhau tava).",
+    "Ever simple with all desire-knots cut (aśeṣavāsanāgranthivicchedasaralam sadā)."
+   ],
+   "inference": "The offering is not a thing but the unknotted mind.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v15",
    "l0_ids": [
@@ -502,22 +481,21 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v16",
-  "song": "s17",
-  "verse": 16,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Having taken stand on objects",
-  "premises": [
-   "Having taken stand on objects",
-   "these sense-courses of devotees",
-   "send them for Your worship-nectar-wine"
-  ],
-  "inference": "Having taken stand on objects",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v16",
+   "song": "s17",
+   "verse": 16,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What do the senses send?",
+   "premises": [
+    "Having taken stand on objects, the sense-courses (adhiṣṭhāyaiva viṣayān imāḥ karaṇavṛttayaḥ).",
+    "Send the nectar-wine for Thy worship (preṣayanti ... amṛtāsavam)."
+   ],
+   "inference": "The senses become couriers: objects the ground, worship-wine the dispatch.",
+   "uncertainties": [
+    "The compound svatpūjārtham is obscure (tvat- for Thy worship?); kept as printed."
+   ],
   "traces": {
    "t1_verse": "s17-v16",
    "l0_ids": [
@@ -534,21 +512,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v17",
-  "song": "s17",
-  "verse": 17,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Agitated by devotion-heat, self-mastered",
-  "premises": [
-   "Agitated by devotion-heat, self-mastered",
-   "what else could liberate but drowning in worship of You?"
-  ],
-  "inference": "Agitated by devotion-heat, self-mastered",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v17",
+   "song": "s17",
+   "verse": 17,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What liberates the agitated self-mastered?",
+   "premises": [
+    "Agitated by devotion-heat, self-mastered (bhaktisaṃvegamahoṣmavivaśātmanām).",
+    "Nothing but drowning in worship-nectar liberates (ko 'nyo nirvāṇahetuḥ syāt tvatpūjāmṛtamajjanāt)."
+   ],
+   "inference": "Drowning is the only liberation: agitation cured by immersion, not by calming.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v17",
    "l0_ids": [
@@ -565,21 +541,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v18",
-  "song": "s17",
-  "verse": 18,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Perpetual foot-worship-nectar-drinking festival",
-  "premises": [
-   "Perpetual foot-worship-nectar-drinking festival",
-   "may it be my sole grace-getting cause, Lord"
-  ],
-  "inference": "Perpetual foot-worship-nectar-drinking festival",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v18",
+   "song": "s17",
+   "verse": 18,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What should be his sole cause of grace?",
+   "premises": [
+    "The perpetual foot-worship-nectar-drinking festival.",
+    "May it be my sole grace-getting cause (tvatprasādaikasamprāptihetur me kalpatām)."
+   ],
+   "inference": "One festival, one cause: worship-nectar alone fetches grace.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v18",
    "l0_ids": [
@@ -595,21 +569,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v19",
-  "song": "s17",
-  "verse": 19,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Experiencing, Lord, moment by moment",
-  "premises": [
-   "Experiencing, Lord, moment by moment",
-   "Your worship-nectar-drinking-madness-joy-great-joy"
-  ],
-  "inference": "Experiencing, Lord, moment by moment",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v19",
+   "song": "s17",
+   "verse": 19,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What is experienced moment by moment?",
+   "premises": [
+    "Experiencing, Lord, moment by moment (anubhūyāsam īśāna pratikarma kṣaṇāt kṣaṇam).",
+    "Worship-nectar-drinking-madness-joy-great-joy."
+   ],
+   "inference": "Experience itself is the content: each moment's madness-joy, not its object.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v19",
    "l0_ids": [
@@ -624,20 +596,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v20",
-  "song": "s17",
-  "verse": 20,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Seen is the point of devotees' great worship-undertaking: that they taste impossible joy then",
-  "premises": [
-   "Seen is the point of devotees' great worship-undertaking: that they taste impossible joy then"
-  ],
-  "inference": "Seen is the point of devotees' great worship-undertaking: that they taste impossible joy then",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v20",
+   "song": "s17",
+   "verse": 20,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What is the seen point of the great undertaking?",
+   "premises": [
+    "Seen is the point (dṛṣṭartha eva): they taste impossible joy.",
+    "The undertaking proves itself in tasting, not in doctrine."
+   ],
+   "inference": "The rite's purpose is visible: impossible joy tasted here, not promised.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v20",
    "l0_ids": [
@@ -657,20 +628,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v21",
-  "song": "s17",
-  "verse": 21,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Till Your worship-nectar-taste-festival is got, I count no drop of fortune's happiness tasted",
-  "premises": [
-   "Till Your worship-nectar-taste-festival is got, I count no drop of fortune's happiness tasted"
-  ],
-  "inference": "Till Your worship-nectar-taste-festival is got, I count no drop of fortune's happiness tasted",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v21",
+   "song": "s17",
+   "verse": 21,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What counts as tasted happiness?",
+   "premises": [
+    "Till worship-nectar-taste-festival is got (yāvan na labdhas tvatpūjāsudhāsvādamahotsavaḥ).",
+    "I count no drop of fortune's happiness tasted."
+   ],
+   "inference": "All prior happiness is untasted: only worship-nectar counts as tasted.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v21",
    "l0_ids": [
@@ -690,21 +660,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v22",
-  "song": "s17",
-  "verse": 22,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Without sense-seeking strain, Your abode's abiding is born in devotees",
-  "premises": [
-   "Without sense-seeking strain, Your abode's abiding is born in devotees",
-   "no getting needed, only madness with worship"
-  ],
-  "inference": "Without sense-seeking strain, Your abode's abiding is born in devotees",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v22",
+   "song": "s17",
+   "verse": 22,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "How is Thy abode's abiding born?",
+   "premises": [
+    "Without sense-seeking strain (viṣayanveṣābhāsāyāsād vinā).",
+    "No getting needed: only madness with worship (ayatnasiddhaṃ ... pūjāsu jāyate)."
+   ],
+   "inference": "Abiding is effortless-born: strain seeks senses, madness finds abode.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v22",
    "l0_ids": [
@@ -722,21 +690,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v23",
-  "song": "s17",
-  "verse": 23,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Nothing ungettable for devotees, nothing hard",
-  "premises": [
-   "Nothing ungettable for devotees, nothing hard",
-   "they only roam, mad with worship"
-  ],
-  "inference": "Nothing ungettable for devotees, nothing hard",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v23",
+   "song": "s17",
+   "verse": 23,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What is ungettable or hard for devotees?",
+   "premises": [
+    "Nothing ungettable, nothing hard (na prāpyam asti ... nāpy eṣām asti durlabham).",
+    "They only roam, mad with worship."
+   ],
+   "inference": "Omnipotence by roaming: madness with worship dissolves ungettable and hard.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v23",
    "l0_ids": [
@@ -758,20 +724,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v24",
-  "song": "s17",
-  "verse": 24,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Ah, the devotees' heart-heavy worship-rule: praised, unmarked by begging",
-  "premises": [
-   "Ah, the devotees' heart-heavy worship-rule: praised, unmarked by begging"
-  ],
-  "inference": "Ah, the devotees' heart-heavy worship-rule: praised, unmarked by begging",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v24",
+   "song": "s17",
+   "verse": 24,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Which worship-rule is praised?",
+   "premises": [
+    "The devotees' heart-heavy worship-rule (bhaktibharodāracetasām ... pūjāvidhiḥ).",
+    "Praised — and unmarked by begging (yo na yācñākalaṃkitaḥ)."
+   ],
+   "inference": "The praised rule worships without asking: heart-heavy, begging-free.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v24",
    "l0_ids": [
@@ -792,21 +757,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v25",
-  "song": "s17",
-  "verse": 25,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "What beauty is not, what joy not, what fortune not, what liberation not",
-  "premises": [
-   "What beauty is not, what joy not, what fortune not, what liberation not",
-   "this Mahādeva, since He is worshipped"
-  ],
-  "inference": "What beauty is not, what joy not, what fortune not, what liberation not",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v25",
+   "song": "s17",
+   "verse": 25,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What are beauty, joy, fortune, liberation — since He is worshipped?",
+   "premises": [
+    "What beauty is not, what joy not, what fortune not, what liberation not (kā na śobhā na ko hlādaḥ ... ko vā na mokṣaḥ).",
+    "This Mahādeva — since He is worshipped (ko 'py eṣa mahādevo yad arcyate)."
+   ],
+   "inference": "Worship answers every what: beauty, joy, fortune, freedom are its modes.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v25",
    "l0_ids": [
@@ -836,21 +799,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v26",
-  "song": "s17",
-  "verse": 26,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "In all-empty",
-  "premises": [
-   "In all-empty",
-   "may this body be nourished as Your worship-thing, always devoted"
-  ],
-  "inference": "In all-empty",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v26",
+   "song": "s17",
+   "verse": 26,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What should this body be?",
+   "premises": [
+    "Nourished within by welling bright devotion-nectar (antarullasadacchācchabhaktipīyūṣapoṣitam).",
+    "May this body be for Thy worship's use, always devoted."
+   ],
+   "inference": "The body is refitted as worship-thing: fed within, used without.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v26",
    "l0_ids": [
@@ -866,21 +827,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v27",
-  "song": "s17",
-  "verse": 27,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Dependent on Your foot-worship-enjoyment",
-  "premises": [
-   "Dependent on Your foot-worship-enjoyment",
-   "may I, O world-Lord, be the one self-willed in movement"
-  ],
-  "inference": "Dependent on Your foot-worship-enjoyment",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v27",
+   "song": "s17",
+   "verse": 27,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Dependent yet self-willed — how?",
+   "premises": [
+    "Dependent on enjoying Thy foot-worship (tvatpādapūjāsambhogaparatantraḥ sadā).",
+    "May I be the one self-willed in movement, O world-Lord (ekaḥ svacchandaceṣṭitaḥ)."
+   ],
+   "inference": "Dependence on worship is self-will: the only freedom that moves freely.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v27",
    "l0_ids": [
@@ -898,21 +857,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v28",
-  "song": "s17",
-  "verse": 28,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "To quench vision-touch-thirst for You",
-  "premises": [
-   "To quench vision-touch-thirst for You",
-   "arises the cool, sweet great lake of Your worship"
-  ],
-  "inference": "To quench vision-touch-thirst for You",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v28",
+   "song": "s17",
+   "verse": 28,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What quenches vision-touch-thirst?",
+   "premises": [
+    "Thirst for seeing, touching, meditating Thee (tvaddhyānadarśanasparśatṛṣi).",
+    "Arises the cool sweet great lake of Thy worship (jāyate śītalasvādu bhavatpūjāmahāsaraḥ)."
+   ],
+   "inference": "Thirst summons its own lake: worship answers the very thirst it sharpens.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v28",
    "l0_ids": [
@@ -929,21 +886,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v29",
-  "song": "s17",
-  "verse": 29,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "As You alone are the world's worship-enjoyment-vessel",
-  "premises": [
-   "As You alone are the world's worship-enjoyment-vessel",
-   "so, Lord, is the devotee a vessel of worship-enjoyment"
-  ],
-  "inference": "As You alone are the world's worship-enjoyment-vessel",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v29",
+   "song": "s17",
+   "verse": 29,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Who is a vessel of worship-enjoyment?",
+   "premises": [
+    "As Thou alone art the world's worship-enjoyment-vessel (yathā tvam eva jagataḥ pūjāsambhogabhājanam).",
+    "So is the devotee a vessel of worship-enjoyment."
+   ],
+   "inference": "Vessel mirrors vessel: the devotee holds what the Lord holds.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v29",
    "l0_ids": [
@@ -962,22 +917,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v30",
-  "song": "s17",
-  "verse": 30,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Victor, Your festival",
-  "premises": [
-   "Victor, Your festival",
-   "even the 36 agitated by it",
-   "great day"
-  ],
-  "inference": "Victor, Your festival",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v30",
+   "song": "s17",
+   "verse": 30,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What wins, and what is agitated?",
+   "premises": [
+    "Victor, Thy festival (ko 'py asau jayati ... bhavatpūjāmahotsavaḥ).",
+    "Even the 36 agitated by it — great day (ṣaṭtriṃśato 'pi tattvānāṃ kṣobho yatrollasaty alam)."
+   ],
+   "inference": "The festival conquers metaphysics too: even the 36 principles churn with it.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v30",
    "l0_ids": [
@@ -999,20 +951,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v31",
-  "song": "s17",
-  "verse": 31,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Bow to those whose worship-things are themselves worshipped, by devotion-nectar-water",
-  "premises": [
-   "Bow to those whose worship-things are themselves worshipped, by devotion-nectar-water"
-  ],
-  "inference": "Bow to those whose worship-things are themselves worshipped, by devotion-nectar-water",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v31",
+   "song": "s17",
+   "verse": 31,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "To whom the bow?",
+   "premises": [
+    "To those whose worship-things are themselves worshipped (pūjyāny eva bhavanti tvatpūjopakaraṇāny api).",
+    "By devotion-nectar-water (bhaktipīyūṣavāriṇā)."
+   ],
+   "inference": "The bow passes through: devotees bowed because their implements are bowed.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v31",
    "l0_ids": [
@@ -1032,21 +983,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v32",
-  "song": "s17",
-  "verse": 32,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "At worship's start, meditating mantra-placed His selfhood",
-  "premises": [
-   "At worship's start, meditating mantra-placed His selfhood",
-   "devotees rest in supreme self, nowhere roaming"
-  ],
-  "inference": "At worship's start, meditating mantra-placed His selfhood",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v32",
+   "song": "s17",
+   "verse": 32,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Where do devotees rest at worship's start?",
+   "premises": [
+    "At worship's start, meditating mantra-placed selfhood of Thee (dhyātvā mantrādheyāṃ tvadātmatām).",
+    "Devotees rest in supreme self, nowhere roaming, with joy."
+   ],
+   "inference": "The start is the arrival: mantra-placed selfhood leaves nowhere to roam.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v32",
    "l0_ids": [
@@ -1069,20 +1018,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v33",
-  "song": "s17",
-  "verse": 33,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Kingdoms blooming, world shared out in nectar-wine by festival-goers",
-  "premises": [
-   "Kingdoms blooming, world shared out in nectar-wine by festival-goers"
-  ],
-  "inference": "Kingdoms blooming, world shared out in nectar-wine by festival-goers",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v33",
+   "song": "s17",
+   "verse": 33,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Who shares out the world?",
+   "premises": [
+    "Kingdoms blooming (rājyalābhādivotphullaiḥ): festival-goers.",
+    "The whole world shared out in nectar-wine (sudhāsavena sakalā jagatī saṃvibhajyate)."
+   ],
+   "inference": "Festival-goers divide the world as nectar-wine: all is portioned joy.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v33",
    "l0_ids": [
@@ -1100,21 +1048,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v34",
-  "song": "s17",
-  "verse": 34,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Whose moment-drink is worship-nectar",
-  "premises": [
-   "Whose moment-drink is worship-nectar",
-   "are they gods, freed, or whatever people?"
-  ],
-  "inference": "Whose moment-drink is worship-nectar",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v34",
+   "song": "s17",
+   "verse": 34,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What are they — gods, freed, or men?",
+   "premises": [
+    "Whose moment-drink is worship-nectar (pūjāmṛtāpānamayo yeṣāṃ bhogaḥ pratikṣaṇam).",
+    "Are they gods, freed, or whatever people (kiṃ devā uta muktās te kiṃ vā ke 'py eva te janāḥ)?"
+   ],
+   "inference": "The drink dissolves kinds: god, freed, man become one question.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v34",
    "l0_ids": [
@@ -1140,21 +1086,21 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v35",
-  "song": "s17",
-  "verse": 35,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "The world's dignity as worship-gear is theirs",
-  "premises": [
-   "The world's dignity as worship-gear is theirs",
-   "ah, something of devotees, and just lightness!"
-  ],
-  "inference": "The world's dignity as worship-gear is theirs",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v35",
+   "song": "s17",
+   "verse": 35,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What is theirs — dignity or lightness?",
+   "premises": [
+    "The world's dignity as worship-gear is theirs (pūjopakaraṇībhūtaviśvaveśena gauravam).",
+    "Ah, something of devotees — and just lightness (aho kim api bhaktānāṃ kim apy eva ca lāghavam)."
+   ],
+   "inference": "Both: cosmic dignity and mere lightness — devotees hold the pair.",
+   "uncertainties": [
+    "Swamiji (Academy, ch17): worship no longer confined to ritual acts — the whole universe felt as the substance of worship itself; this verse is that doctrine in miniature."
+   ],
   "traces": {
    "t1_verse": "s17-v35",
    "l0_ids": [
@@ -1175,21 +1121,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v36",
-  "song": "s17",
-  "verse": 36,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "From worship-made eye-throw agitation, nectar-rising for devotees",
-  "premises": [
-   "From worship-made eye-throw agitation, nectar-rising for devotees",
-   "as from the gods' milk-ocean churning"
-  ],
-  "inference": "From worship-made eye-throw agitation, nectar-rising for devotees",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v36",
+   "song": "s17",
+   "verse": 36,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What rises from worship's eye-throw agitation?",
+   "premises": [
+    "From worship-made eye-throw agitation, nectar-rising for devotees.",
+    "As from the gods' milk-ocean churning (kṣīrajaladhikṣobhād iva divaukasām)."
+   ],
+   "inference": "Glances churn nectar as oceans did: the eyes do the gods' old work.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v36",
    "l0_ids": [
@@ -1204,20 +1148,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v37",
-  "song": "s17",
-  "verse": 37,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Some take worship as the wish-cow; others, inward-turned, milk the nectar-stream",
-  "premises": [
-   "Some take worship as the wish-cow; others, inward-turned, milk the nectar-stream"
-  ],
-  "inference": "Some take worship as the wish-cow; others, inward-turned, milk the nectar-stream",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v37",
+   "song": "s17",
+   "verse": 37,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Wish-cow or inward milking?",
+   "premises": [
+    "Some take worship as the wish-cow (dhenuṃ kāmadughām iva).",
+    "Others, inward-turned, milk the nectar-stream (sudhādhārādhikarasāṃ dhayanty antarmukhāḥ pare)."
+   ],
+   "inference": "Two economies: worship spent outward as wish-cow, drunk inward as nectar-stream.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v37",
    "l0_ids": [
@@ -1238,21 +1181,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v38",
-  "song": "s17",
-  "verse": 38,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Even eye-throws, world-approved, bring something within",
-  "premises": [
-   "Even eye-throws, world-approved, bring something within",
-   "may the festival grow"
-  ],
-  "inference": "Even eye-throws, world-approved, bring something within",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v38",
+   "song": "s17",
+   "verse": 38,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What do even world-approved glances do?",
+   "premises": [
+    "Even eye-throws, world-approved (akṣavikṣepo 'py eṣa saṃsārasaṃmataḥ).",
+    "Bring something within and feed the festival (upanīya kim apy antaḥ puṣṇāty arcāmahotsavam)."
+   ],
+   "inference": "No glance is wasted: even worldly looks feed the festival.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v38",
    "l0_ids": [
@@ -1273,21 +1214,21 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v39",
-  "song": "s17",
-  "verse": 39,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "By devotion-agitation, worship in self-become-Him",
-  "premises": [
-   "By devotion-agitation, worship in self-become-Him",
-   "wonder: poverty's top fruit is lowliness' fruit"
-  ],
-  "inference": "By devotion-agitation, worship in self-become-Him",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v39",
+   "song": "s17",
+   "verse": 39,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What is poverty's top fruit?",
+   "premises": [
+    "By devotion-agitation, worship in self-become-Him (bhaktikṣobhavaśād ... svātmabhūte 'rcanaṃ tvayi).",
+    "Wonder: lowliness itself is poverty's top fruit (citraṃ ... dīnatāyāḥ paraṃ phalam) — not despite lowliness but as it."
+   ],
+   "inference": "Lowliness outranks riches: poverty's highest fruit is being low.",
+   "uncertainties": [
+    "Whether dainyāya (for wretchedness?) is dative of purpose or a text knot is unresolved; L2 follows the lowliness-fruit reading."
+   ],
   "traces": {
    "t1_verse": "s17-v39",
    "l0_ids": [
@@ -1309,20 +1250,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v40",
-  "song": "s17",
-  "verse": 40,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "For some, rite is upacāra-step to His feet; for devotees, non-duality-bliss-spread",
-  "premises": [
-   "For some, rite is upacāra-step to His feet; for devotees, non-duality-bliss-spread"
-  ],
-  "inference": "For some, rite is upacāra-step to His feet; for devotees, non-duality-bliss-spread",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v40",
+   "song": "s17",
+   "verse": 40,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Step or spread?",
+   "premises": [
+    "For some, rite is the attendance-step to His feet (upacārapadaṃ pūjā ... tvatpadāptaye).",
+    "For devotees, it is non-duality-bliss-spread (bhavadaikātmyanirvṛttiprasaras)."
+   ],
+   "inference": "Same rite, two grains: a step for some, a spread for devotees.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v40",
    "l0_ids": [
@@ -1341,20 +1281,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v41",
-  "song": "s17",
-  "verse": 41,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Spread by unbound mad devotion to the formless-seeming, it gains some foothold in You",
-  "premises": [
-   "Spread by unbound mad devotion to the formless-seeming, it gains some foothold in You"
-  ],
-  "inference": "Spread by unbound mad devotion to the formless-seeming, it gains some foothold in You",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v41",
+   "song": "s17",
+   "verse": 41,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What gains a foothold in Thee?",
+   "premises": [
+    "Spread by unbound mad devotion to the formless-seeming (apy asambaddharūpārcābhaktyunmādanirargalaiḥ vitanyamānā).",
+    "It gains some foothold in Thee (labhate pratiṣṭhāṃ tvayi kām api)."
+   ],
+   "inference": "Even unbound madness, spread wide, finds footing in Thee.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v41",
    "l0_ids": [
@@ -1372,20 +1311,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v42",
-  "song": "s17",
-  "verse": 42,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Taste-stunned mind; He alone as worship's vessel, they say",
-  "premises": [
-   "Taste-stunned mind; He alone as worship's vessel, they say"
-  ],
-  "inference": "Taste-stunned mind; He alone as worship's vessel, they say",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v42",
+   "song": "s17",
+   "verse": 42,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Who is worship's vessel, they say?",
+   "premises": [
+    "Mind stunned by tasting sweet devotion-rasa-taste.",
+    "He alone as worship's vessel, they say (śambho tvam eva ... pūjānāṃ kila bhājanam)."
+   ],
+   "inference": "The stunned mind testifies: He alone holds worship.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v42",
    "l0_ids": [
@@ -1404,20 +1342,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v43",
-  "song": "s17",
-  "verse": 43,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Full, pure, steady, devoted means be mine for His worship, Lord",
-  "premises": [
-   "Full, pure, steady, devoted means be mine for His worship, Lord"
-  ],
-  "inference": "Full, pure, steady, devoted means be mine for His worship, Lord",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v43",
+   "song": "s17",
+   "verse": 43,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What means does he ask for?",
+   "premises": [
+    "Full, pure, steady, devoted means for His worship (paripūrṇāni śuddhāni bhaktimanti sthirāṇi ca ... sādhanāni).",
+    "May they be mine, Lord."
+   ],
+   "inference": "He asks means, not ends: full pure steady devoted instruments.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v43",
    "l0_ids": [
@@ -1437,20 +1374,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v44",
-  "song": "s17",
-  "verse": 44,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "In the whole worship-treasure, what fortune of the organ-host blooms?",
-  "premises": [
-   "In the whole worship-treasure, what fortune of the organ-host blooms?"
-  ],
-  "inference": "In the whole worship-treasure, what fortune of the organ-host blooms?",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v44",
+   "song": "s17",
+   "verse": 44,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What fortune blooms in the worship-treasure?",
+   "premises": [
+    "In the whole worship-treasure, in Thy worship-rite (aśeṣapūjāsatkośe tvatpūjākarmaṇi).",
+    "What fortune of the organ-host blooms (aho karaṇavṛndasya kāpi lakṣmīr vijṛmbhate)."
+   ],
+   "inference": "The senses have a fortune too, blooming inside the rite.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v44",
    "l0_ids": [
@@ -1468,21 +1404,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v45",
-  "song": "s17",
-  "verse": 45,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "This prettiness is Yours alone, Lord: though Lord of all, worshipped by servants",
-  "premises": [
-   "This prettiness is Yours alone, Lord: though Lord of all, worshipped by servants",
-   "and found"
-  ],
-  "inference": "This prettiness is Yours alone, Lord: though Lord of all, worshipped by servants",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v45",
+   "song": "s17",
+   "verse": 45,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Whose is this prettiness?",
+   "premises": [
+    "This prettiness is seen to be Thine alone (eṣā peśalimā ... tavaiva kila dṛśyate).",
+    "Though Lord of all, worshipped by servants — and found (viśveśvaro 'pi bhṛtyair yad arcyase yaś ca labhyase)."
+   ],
+   "inference": "Prettiness belongs to Thee yet is found through servants' worship: lowly means, divine quality.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v45",
    "l0_ids": [
@@ -1506,21 +1440,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v46",
-  "song": "s17",
-  "verse": 46,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Rise from formed or formless, being or non-being",
-  "premises": [
-   "Rise from formed or formless, being or non-being",
-   "may my festival rise"
-  ],
-  "inference": "Rise from formed or formless, being or non-being",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v46",
+   "song": "s17",
+   "verse": 46,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Whence should the festival rise?",
+   "premises": [
+    "From formed or formless, being or non-being (sadāmurttād amūrttādvā bhāvād yad vāpy abhāvataḥ).",
+    "May my festival of the praised rise (uttheyān me ... bhavatpūjāmahotsavaḥ)."
+   ],
+   "inference": "No source disqualified: from form or void, being or not, let festival rise.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v46",
    "l0_ids": [
@@ -1540,21 +1472,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v47",
-  "song": "s17",
-  "verse": 47,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "With lust, anger, pride made offering, who always worship",
-  "premises": [
-   "With lust, anger, pride made offering, who always worship",
-   "bow to them; of them I am pleased, in truth"
-  ],
-  "inference": "With lust, anger, pride made offering, who always worship",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v47",
+   "song": "s17",
+   "verse": 47,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Whom does He bow to, and with what is He pleased?",
+   "premises": [
+    "Who always worship with lust, anger, pride made offering (kāmakrodhābhimānais tvām upaharīkṛtaiḥ sadā ye 'rcayanti).",
+    "Bow to them; of them I am pleased, in truth (namas tebhyas teṣāṃ tuṣṭo 'smi tattvataḥ)."
+   ],
+   "inference": "Even the poisons, offered, qualify: He bows to those who weaponize lust itself.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v47",
    "l0_ids": [
@@ -1576,21 +1506,19 @@
   "option_choices": []
  },
  {
-  "verse_id": "s17-v48",
-  "song": "s17",
-  "verse": 48,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Victor, Your festival of devotees' supreme rule",
-  "premises": [
-   "Victor, Your festival of devotees' supreme rule",
-   "though made with straw, yet furnished with jewels"
-  ],
-  "inference": "Victor, Your festival of devotees' supreme rule",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
+   "verse_id": "s17-v48",
+   "song": "s17",
+   "verse": 48,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "What wins, though made with straw?",
+   "premises": [
+    "Victor, Thy festival of devotees' supreme rule (jayaty eṣa bhavadbhaktibhājāṃ pūjāvidhiḥ paraḥ).",
+    "Though made with straw, yet furnished with jewels (yas tṛṇaiḥ kriyamāṇo 'pi ratnair evopakalpate)."
+   ],
+   "inference": "Straw work, jewel furniture: poverty of means, riches of rite.",
+   "uncertainties": [],
   "traces": {
    "t1_verse": "s17-v48",
    "l0_ids": [

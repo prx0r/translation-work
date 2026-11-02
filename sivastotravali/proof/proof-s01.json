@@ -5,7 +5,7 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [
-  "LEDGER_GLOSS_MISSING ['bhaktiśālin=possessor-of-devotion']"
+  "LEDGER_GLOSS_MISSING ['bhaktiśālin=possessor-of-devotion', 'samāveśa=immersion']"
  ],
  "source_sha": "1da56456ffbd9ba6",
  "source_verses": 26,
@@ -35,8 +35,8 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 5,
- "c1_words": 692,
+ "c1_iast_prose_info": 0,
+ "c1_words": 45,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 26,
@@ -45,7 +45,8 @@
  "ledger": {
   "pairs": 6,
   "gloss_missing_in_l2": [
-   "bhaktiśālin=possessor-of-devotion"
+   "bhaktiśālin=possessor-of-devotion",
+   "samāveśa=immersion"
   ]
  },
  "data_objects": {

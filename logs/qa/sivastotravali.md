@@ -50,4 +50,97 @@
 - ledger terms: 0, unattested in witness: none
 - findings: none
 
+## s06: SHIP_WITH_NOTES
+
+- coverage: 11/11 verses; cites bad: none; proof: PASS
+- ledger terms: 1, unattested in witness: ['bhairava']
+  - bhairava = Bhairava (witness verses: 0)
+- findings: none
+
+## s07: SHIP_AS_IS
+
+- coverage: 9/9 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s08: SHIP_AS_IS
+
+- coverage: 13/13 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s09: SHIP_AS_IS
+
+- coverage: 20/20 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s10: SHIP_AS_IS
+
+- coverage: 26/26 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s11: SHIP_AS_IS
+
+- coverage: 15/15 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s12: SHIP_AS_IS
+
+- coverage: 29/29 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s13: SHIP_WITH_NOTES
+
+- coverage: 20/20 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- witness options that lost (review queue):
+  - s13-v02-p005: ['blackness-dirt (āṇavamala remnant)'] — adjudicated: NO (record reason)
+- findings: none
+
+## s14: SHIP_AS_IS
+
+- coverage: 24/24 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s15: SHIP_AS_IS
+
+- coverage: 19/19 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s16: SHIP_AS_IS
+
+- coverage: 30/30 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s17: SHIP_AS_IS
+
+- coverage: 48/48 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s18: SHIP_AS_IS
+
+- coverage: 21/21 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s19: SHIP_AS_IS
+
+- coverage: 17/17 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
+## s20: SHIP_AS_IS
+
+- coverage: 21/21 verses; cites bad: none; proof: PASS
+- ledger terms: 0, unattested in witness: none
+- findings: none
+
 Quoted witness text: short excerpts only (<=25 words), fair use.

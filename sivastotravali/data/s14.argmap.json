@@ -5,7 +5,7 @@
   "verse": 1,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice, first-person)",
+  "speaker": "Utpaladeva (devotee's voice, first-person)",
   "question": "What is tasted?",
   "premises": [
    "Before my own master, treasure of victory-fortune (jayalakṣmīnidhānasya nijasya svāminaḥ puraḥ) —",
@@ -13,21 +13,26 @@
    "The verse opens with tasting, not describing: the devotee asks to taste the victory-proclamation."
   ],
   "inference": "Before the Lord, treasure of victory-fortune: may I taste the victory-proclamation's nectar. Acclamation as tasting.",
-  "uncertainties": [
-   "Whether 'jayalakṣmīnidhāna' means 'treasure of victory-fortune' or 'fortune's victory-treasure' is unresolved.",
-   "Whether 'āsvādaye' is optative or imperative is unresolved."
-  ],
-  "traces": {
-   "t1_verse": "s14-v01",
-   "l0_ids": [
-    "s14-v01-p000",
-    "s14-v01-p001",
-    "s14-v01-p002",
-    "s14-v01-p003",
-    "s14-v01-p004",
-    "s14-v01-p005",
-    "s14-v01-p006"
-   ]
+   "uncertainties": [
+    "Whether 'jayalakṣmīnidhāna' means 'treasure of victory-fortune' or 'fortune's victory-treasure' is unresolved.",
+    "Whether 'āsvādaye' is present performative (I taste) or optative prayer (may I taste) is unresolved; imperative is excluded (that would be āsvādaya); L2 keeps the prayer register."
+   ],
+   "traces": {
+    "t1_verse": "s14-v01",
+    "l0_ids": [
+     "s14-v01-p000",
+     "s14-v01-p001",
+     "s14-v01-p002",
+     "s14-v01-p003",
+     "s14-v01-p004",
+     "s14-v01-p005",
+     "s14-v01-p006",
+     "s14-v01-p007",
+     "s14-v01-p008",
+     "s14-v01-p009",
+     "s14-v01-p010",
+     "s14-v01-p011"
+    ]
   },
   "sanskrit_sha": "4cd8271db1ee918e",
   "option_choices": []
@@ -38,7 +43,7 @@
   "verse": 2,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: one Rudra, one Śiva, great god, great Lord",
   "premises": [
    "Victory: one Rudra, one Śiva, great god, great Lord",
@@ -48,69 +53,97 @@
   "uncertainties": [
    "See C1 BOUNDARY for open questions."
   ],
-  "traces": {
-   "t1_verse": "s14-v02",
-   "l0_ids": [
-    "s14-v02-p000",
-    "s14-v02-p001",
-    "s14-v02-p002",
-    "s14-v02-p003",
-    "s14-v02-p004",
-    "s14-v02-p005"
-   ]
+   "traces": {
+    "t1_verse": "s14-v02",
+    "l0_ids": [
+     "s14-v02-p000",
+     "s14-v02-p001",
+     "s14-v02-p002",
+     "s14-v02-p003",
+     "s14-v02-p004",
+     "s14-v02-p005",
+     "s14-v02-p006",
+     "s14-v02-p007",
+     "s14-v02-p008",
+     "s14-v02-p009",
+     "s14-v02-p010",
+     "s14-v02-p011",
+     "s14-v02-p012"
+    ]
   },
   "sanskrit_sha": "4cd8271db1ee918e",
   "option_choices": []
  },
  {
-  "verse_id": "s14-v03",
-  "song": "s14",
-  "verse": 3,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Victory: moon-mark-eyed sole mark of the three-worlds-Lord; victory: poison-mark-throated, who drank the black poison for the worlds' pain",
-  "premises": [
-   "Victory: moon-mark-eyed sole mark of the three-worlds-Lord; victory: poison-mark-throated, who drank the black poison for the worlds' pain"
-  ],
-  "inference": "Victory: moon-mark-eyed sole mark of the three-worlds-Lord; victory: poison-mark-throated, who drank the black poison for the worlds' pain",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
-  "traces": {
-   "t1_verse": "s14-v03",
-   "l0_ids": [
-    "s14-v03-p000",
-    "s14-v03-p001",
-    "s14-v03-p002",
-    "s14-v03-p003"
-   ]
+   "verse_id": "s14-v03",
+   "song": "s14",
+   "verse": 3,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Which two marks win?",
+   "premises": [
+    "The brow-eye, sole mark of the three-worlds' Lord (trailokya-nātha-eka-lāñchana-alika-locana).",
+    "The throat marked with black poison, drunk for the suffering world's pain."
+   ],
+   "inference": "Two marks of lordship: the eye that sees and the throat that drank.",
+   "uncertainties": [
+    "Prior moon-reading of alika removed: no candra in the compound; the brow-eye is the mark, not the moon."
+   ],
+   "traces": {
+    "t1_verse": "s14-v03",
+    "l0_ids": [
+     "s14-v03-p000",
+     "s14-v03-p001",
+     "s14-v03-p002",
+     "s14-v03-p003",
+     "s14-v03-p004",
+     "s14-v03-p005",
+     "s14-v03-p006",
+     "s14-v03-p007",
+     "s14-v03-p008",
+     "s14-v03-p009",
+     "s14-v03-p010",
+     "s14-v03-p011",
+     "s14-v03-p012",
+     "s14-v03-p013",
+     "s14-v03-p014"
+    ]
   },
   "sanskrit_sha": "4cd8271db1ee918e",
   "option_choices": []
  },
  {
-  "verse_id": "s14-v04",
-  "song": "s14",
-  "verse": 4,
-  "scope": "verse",
-  "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
-  "question": "Victory: whose self is the embodied three powers, hundred-spike-bright-handed; victory: whose lotus-feet are worshipped, wishes accomplished by mere will",
-  "premises": [
-   "Victory: whose self is the embodied three powers, hundred-spike-bright-handed; victory: whose lotus-feet are worshipped, wishes accomplished by mere will"
-  ],
-  "inference": "Victory: whose self is the embodied three powers, hundred-spike-bright-handed; victory: whose lotus-feet are worshipped, wishes accomplished by mere will",
-  "uncertainties": [
-   "See C1 BOUNDARY for open questions."
-  ],
-  "traces": {
-   "t1_verse": "s14-v04",
-   "l0_ids": [
-    "s14-v04-p000",
-    "s14-v04-p001",
-    "s14-v04-p002"
-   ]
+   "verse_id": "s14-v04",
+   "song": "s14",
+   "verse": 4,
+   "scope": "verse",
+   "structured": true,
+   "speaker": "Utpaladeva (devotee's voice)",
+   "question": "Which two icons win?",
+   "premises": [
+    "The self embodied as three powers, hundred-spike-bright-handed (mūrta-triśakti-ātman-śata-śūla-ullasat-kara).",
+    "The lotus-feet, worship-worthy, wishes accomplished by mere will."
+   ],
+   "inference": "Hand and feet: power to strike, feet to grant — both win.",
+   "uncertainties": [],
+   "traces": {
+    "t1_verse": "s14-v04",
+    "l0_ids": [
+     "s14-v04-p000",
+     "s14-v04-p001",
+     "s14-v04-p002",
+     "s14-v04-p003",
+     "s14-v04-p004",
+     "s14-v04-p005",
+     "s14-v04-p006",
+     "s14-v04-p007",
+     "s14-v04-p008",
+     "s14-v04-p009",
+     "s14-v04-p010",
+     "s14-v04-p011",
+     "s14-v04-p012"
+    ]
   },
   "sanskrit_sha": "4cd8271db1ee918e",
   "option_choices": []
@@ -121,7 +154,7 @@
   "verse": 5,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: bearer of a body beyond worlds, streaming a hundred beauties; victory: single-braided, Ganges-thinned, ash-seized",
   "premises": [
    "Victory: bearer of a body beyond worlds, streaming a hundred beauties; victory: single-braided, Ganges-thinned, ash-seized"
@@ -147,7 +180,7 @@
   "verse": 6,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: smeared with milk-ocean-spread moonlight shade; victory: snow-ornamented with jewel-light risen from the Lord's limb-contact",
   "premises": [
    "Victory: smeared with milk-ocean-spread moonlight shade; victory: snow-ornamented with jewel-light risen from the Lord's limb-contact"
@@ -173,7 +206,7 @@
   "verse": 7,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: refuge like the one undying cool-rayed digit; victory: consecrated by ever-Ganges and universal lordship",
   "premises": [
    "Victory: refuge like the one undying cool-rayed digit; victory: consecrated by ever-Ganges and universal lordship"
@@ -199,7 +232,7 @@
   "verse": 8,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: whose lowest-limb-touch purifies cowherds; victory: fixed-present where intoxicated devotees gather",
   "premises": [
    "Victory: whose lowest-limb-touch purifies cowherds; victory: fixed-present where intoxicated devotees gather"
@@ -225,7 +258,7 @@
   "verse": 9,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: who dupes the childish, showing a hot place of His own will; victory: fit vessel for Gauri-embrace-fortune",
   "premises": [
    "Victory: who dupes the childish, showing a hot place of His own will; victory: fit vessel for Gauri-embrace-fortune"
@@ -252,7 +285,7 @@
   "verse": 10,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: greedy for love-gifts wet with devotion-rasa; victory: pleased by the speech-dance of devotees drunk with devotion",
   "premises": [
    "Victory: greedy for love-gifts wet with devotion-rasa; victory: pleased by the speech-dance of devotees drunk with devotion"
@@ -279,7 +312,7 @@
   "verse": 11,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: whose rise-and-fall is the power of Brahmā-and-first-gods; victory: whose command world-lord-rows bear on heads",
   "premises": [
    "Victory: whose rise-and-fall is the power of Brahmā-and-first-gods; victory: whose command world-lord-rows bear on heads"
@@ -305,7 +338,7 @@
   "verse": 12,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice, first-person)",
+  "speaker": "Utpaladeva (devotee's voice, first-person)",
   "question": "What is the seal?",
   "premises": [
    "Worlds sealed (trailokyamudrāṅkitam), self given to the uttermost (ātmapradānam paramam) —",
@@ -333,7 +366,7 @@
   "verse": 13,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: secondless at the creation-wish moment; victory: with sole Goddess-helper bearing lordship's burden",
   "premises": [
    "Victory: secondless at the creation-wish moment; victory: with sole Goddess-helper bearing lordship's burden"
@@ -359,7 +392,7 @@
   "verse": 14,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: who seized all three worlds in one stride; victory: unbroken Lord-sound sung from childhood",
   "premises": [
    "Victory: who seized all three worlds in one stride; victory: unbroken Lord-sound sung from childhood"
@@ -385,7 +418,7 @@
   "verse": 15,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: innately high, needing no pity and the rest; victory: Bhairava before whom great Death is made",
   "premises": [
    "Victory: innately high, needing no pity and the rest; victory: Bhairava before whom great Death is made"
@@ -411,7 +444,7 @@
   "verse": 16,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: unopposed in fierce world-ending acts; victory: hundredfold-good-named recitation-following",
   "premises": [
    "Victory: unopposed in fierce world-ending acts; victory: hundredfold-good-named recitation-following"
@@ -438,7 +471,7 @@
   "verse": 17,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: nectar-mine-ocean poured out in play; victory: whose instant anger dries the world-ending in a flash",
   "premises": [
    "Victory: nectar-mine-ocean poured out in play; victory: whose instant anger dries the world-ending in a flash"
@@ -465,7 +498,7 @@
   "verse": 18,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: sole lamp of beings blind in delusion-darkness; victory: wakeful supreme Person while the sleeping world",
   "premises": [
    "Victory: sole lamp of beings blind in delusion-darkness; victory: wakeful supreme Person while the sleeping world"
@@ -492,7 +525,7 @@
   "verse": 19,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: life-of-life humming inside the body-mountain cave; victory: best rasa sporting in good minds' sky",
   "premises": [
    "Victory: life-of-life humming inside the body-mountain cave; victory: best rasa sporting in good minds' sky"
@@ -519,7 +552,7 @@
   "verse": 20,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: mountain-lord born of high gold-ore; victory: moon rising as calamity-portent over the wicked",
   "premises": [
    "Victory: mountain-lord born of high gold-ore; victory: moon rising as calamity-portent over the wicked"
@@ -547,7 +580,7 @@
   "verse": 21,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: hard to reach by austerity-tormented sages and gods; victory: seen by the world of devotion-madmen mounted on every state",
   "premises": [
    "Victory: hard to reach by austerity-tormented sages and gods; victory: seen by the world of devotion-madmen mounted on every state"
@@ -574,7 +607,7 @@
   "verse": 22,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: who leafed His dependents spreading His own wealth; victory: whose sole purpose is fondling surrendered people",
   "premises": [
    "Victory: who leafed His dependents spreading His own wealth; victory: whose sole purpose is fondling surrendered people"
@@ -601,7 +634,7 @@
   "verse": 23,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice)",
+  "speaker": "Utpaladeva (devotee's voice)",
   "question": "Victory: sole performer of creating-staying-destroying; victory: festival of the play-lotus blooming in drunken devotion",
   "premises": [
    "Victory: sole performer of creating-staying-destroying; victory: festival of the play-lotus blooming in drunken devotion"
@@ -628,7 +661,7 @@
   "verse": 24,
   "scope": "verse",
   "structured": true,
-  "speaker": "Abhinavagupta (devotee's voice, first-person)",
+  "speaker": "Utpaladeva (devotee's voice, first-person)",
   "question": "What ends the litany?",
   "premises": [
    "The cries themselves run to thirteen and end in the three-eyed One (tryakṣa).",

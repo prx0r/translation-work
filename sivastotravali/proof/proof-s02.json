@@ -4,7 +4,9 @@
  "work": "sivastotravali",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [],
+ "warnings": [
+  "LEDGER_GLOSS_MISSING ['bhakti=devotion. FROZEN 2026-11-01 (re-chunk of coarse T1']"
+ ],
  "source_sha": "eb7d9e0db5f14738",
  "source_verses": 29,
  "t1_verses": 29,
@@ -25,8 +27,8 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 8,
- "c1_words": 550,
+ "c1_iast_prose_info": 0,
+ "c1_words": 45,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 29,
@@ -34,7 +36,9 @@
  },
  "ledger": {
   "pairs": 9,
-  "gloss_missing_in_l2": []
+  "gloss_missing_in_l2": [
+   "bhakti=devotion. FROZEN 2026-11-01 (re-chunk of coarse T1"
+  ]
  },
  "data_objects": {
   "errors": [],

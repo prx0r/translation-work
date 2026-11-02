@@ -4,299 +4,750 @@
   "legacy_id": "T1:s14-v01:T0",
   "verse_id": "s14-v01",
   "pada_index": 0,
-  "surface": "jayalakṣmīnidhānasya",
-  "legacy_raw": "[and]-jayalakṣmīnidhānasya (jayalakṣmīnidhānasya)",
-  "citation": "jayalakṣmīnidhānasya",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "jaya",
+  "legacy_raw": "[and]-victory (jaya)",
+  "citation": "jaya",
+  "morph": "comp (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayalakṣmīnidhānasya",
-    "note": "backfilled from T1 gloss",
+    "gloss": "victory",
+    "note": "hand-split 2026-11-02 from jayalakṣmīnidhānasya; opening jaya- is the song's refrain-seed",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "first member of tatpuruṣa jaya-lakṣmī-nidhāna"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "victory",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v01-p001",
   "legacy_id": "T1:s14-v01:T1",
   "verse_id": "s14-v01",
   "pada_index": 1,
-  "surface": "nijasya",
-  "legacy_raw": "[and]-nijasya (nijasya)",
-  "citation": "nijasya",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "lakṣmī",
+  "legacy_raw": "[and]-fortune (lakṣmī)",
+  "citation": "lakṣmī",
+  "morph": "comp (lakṣmī)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "nijasya",
-    "note": "backfilled from T1 gloss",
+    "gloss": "fortune",
+    "note": "hand-split 2026-11-02; jaya-lakṣmī = victory-fortune",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "second member of tatpuruṣa"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "fortune",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v01-p002",
   "legacy_id": "T1:s14-v01:T2",
   "verse_id": "s14-v01",
   "pada_index": 2,
-  "surface": "svāminaḥ",
-  "legacy_raw": "[and]-svāminaḥ (svāminaḥ)",
-  "citation": "svāminaḥ",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "nidhānasya",
+  "legacy_raw": "[and]-of-treasure (nidhānasya)",
+  "citation": "nidhānasya",
+  "morph": "gen.sg.n (nidhāna)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "svāminaḥ",
-    "note": "backfilled from T1 gloss",
+    "gloss": "of-treasure",
+    "note": "hand-split 2026-11-02; governs nijasya svāminaḥ (treasure of my own master)",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "gen.sg.n; head of the jaya-lakṣmī-nidhāna compound"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "of-treasure",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v01-p003",
   "legacy_id": "T1:s14-v01:T3",
   "verse_id": "s14-v01",
   "pada_index": 3,
-  "surface": "puraḥ",
-  "legacy_raw": "[and]-puraḥ (puraḥ)",
-  "citation": "puraḥ",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "nijasya",
+  "legacy_raw": "[and]-of-own (nijasya)",
+  "citation": "nijasya",
+  "morph": "gen.sg.m (nija)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "puraḥ",
-    "note": "backfilled from T1 gloss",
+    "gloss": "of-own",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "gen.sg.m agreeing with svāminaḥ"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "of-own",
+    "reason": "pada-split; gloss refined own to of-own (genitive)",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v01-p004",
   "legacy_id": "T1:s14-v01:T4",
   "verse_id": "s14-v01",
   "pada_index": 4,
-  "surface": "jayodghoṣaṇapīyūṣarasam",
-  "legacy_raw": "[and]-jayodghoṣaṇapīyūṣarasam (jayodghoṣaṇapīyūṣarasam)",
-  "citation": "jayodghoṣaṇapīyūṣarasam",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "svāminaḥ",
+  "legacy_raw": "[and]-of-master (svāminaḥ)",
+  "citation": "svāminaḥ",
+  "morph": "gen.sg.m (svāmin)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayodghoṣaṇapīyūṣarasam",
-    "note": "backfilled from T1 gloss",
+    "gloss": "of-master",
+    "note": "hand-split 2026-11-02; governed by puraḥ (before)",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "gen.sg.m; puraḥ governs genitive"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "of-master",
+    "reason": "pada-split; gloss refined master to of-master (genitive)",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v01-p005",
   "legacy_id": "T1:s14-v01:T5",
   "verse_id": "s14-v01",
   "pada_index": 5,
-  "surface": "āsvādaye",
-  "legacy_raw": "[and]-āsvādaye (āsvādaye)",
-  "citation": "āsvādaye",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "puraḥ",
+  "legacy_raw": "[and]-before (puraḥ)",
+  "citation": "puraḥ",
+  "morph": "adv (puras)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "āsvādaye",
-    "note": "backfilled from T1 gloss",
+    "gloss": "before",
+    "note": "hand-split 2026-11-02; governs preceding genitives",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "puras adverb with genitive: before my own master"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "before",
+    "reason": "kept; confirmed genitive government",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v01-p006",
   "legacy_id": "T1:s14-v01:T6",
   "verse_id": "s14-v01",
   "pada_index": 6,
-  "surface": "kṣaṇam",
-  "legacy_raw": "[and]-kṣaṇam (kṣaṇam)",
-  "citation": "kṣaṇam",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "jaya",
+  "legacy_raw": "[and]-victory (jaya)",
+  "citation": "jaya",
+  "morph": "comp (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "kṣaṇam",
-    "note": "backfilled from T1 gloss",
+    "gloss": "victory",
+    "note": "hand-split 2026-11-02 from jayodghoṣaṇapīyūṣarasam",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "first member of tatpuruṣa"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "victory",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v01-p007",
+  "legacy_id": "T1:s14-v01:T7",
+  "verse_id": "s14-v01",
+  "pada_index": 7,
+  "surface": "udghoṣaṇa",
+  "legacy_raw": "[and]-proclamation (udghoṣaṇa)",
+  "citation": "udghoṣaṇa",
+  "morph": "comp (udghoṣaṇa)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "proclamation",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "second member of tatpuruṣa (ud-ghoṣaṇa)"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "proclamation",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v01-p008",
+  "legacy_id": "T1:s14-v01:T8",
+  "verse_id": "s14-v01",
+  "pada_index": 8,
+  "surface": "pīyūṣa",
+  "legacy_raw": "[and]-nectar (pīyūṣa)",
+  "citation": "pīyūṣa",
+  "morph": "comp (pīyūṣa)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "nectar",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "third member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "nectar",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v01-p009",
+  "legacy_id": "T1:s14-v01:T9",
+  "verse_id": "s14-v01",
+  "pada_index": 9,
+  "surface": "rasam",
+  "legacy_raw": "[and]-taste (rasam)",
+  "citation": "rasam",
+  "morph": "acc.sg.m (rasa)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "taste",
+    "note": "hand-split 2026-11-02; object of āsvādaye",
+    "rank": 1,
+     "source": "grammar",
+    "grounds": "acc.sg.m; direct object (taste the nectar)"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "taste",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v01-p010",
+  "legacy_id": "T1:s14-v01:T10",
+  "verse_id": "s14-v01",
+  "pada_index": 10,
+  "surface": "āsvādaye",
+  "legacy_raw": "[and]-may-I-taste (āsvādaye)",
+  "citation": "āsvādaye",
+  "morph": "opt.1sg (āsvād)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "may-I-taste",
+    "note": "hand-split 2026-11-02; kept",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "1sg optative, main verb of the verse"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "may-I-taste",
+    "reason": "kept; confirmed optative",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v01-p011",
+  "legacy_id": "T1:s14-v01:T11",
+  "verse_id": "s14-v01",
+  "pada_index": 11,
+  "surface": "kṣaṇam",
+  "legacy_raw": "[and]-moment (kṣaṇam)",
+  "citation": "kṣaṇam",
+  "morph": "acc.sg.m (kṣaṇa)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "moment",
+    "note": "hand-split 2026-11-02; adverbial accusative (for a moment)",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "accusative of duration"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "moment",
+    "reason": "kept; confirmed adverbial accusative",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v02-p000",
   "legacy_id": "T1:s14-v02:T0",
   "verse_id": "s14-v02",
   "pada_index": 0,
-  "surface": "jayaikarudraikaśiva",
-  "legacy_raw": "[and]-jayaikarudraikaśiva (jayaikarudraikaśiva)",
-  "citation": "jayaikarudraikaśiva",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "jaya",
+  "legacy_raw": "[and]-victory (jaya)",
+  "citation": "jaya",
+  "morph": "interjection (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayaikarudraikaśiva",
-    "note": "backfilled from T1 gloss",
+    "gloss": "victory",
+    "note": "hand-split 2026-11-02; the jaya-cry opening (song refrain)",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "interjection opening the vocative series"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "victory",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v02-p001",
   "legacy_id": "T1:s14-v02:T1",
   "verse_id": "s14-v02",
   "pada_index": 1,
-  "surface": "mahādeva",
-  "legacy_raw": "[and]-mahādeva (mahādeva)",
-  "citation": "mahādeva",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "eka",
+  "legacy_raw": "[and]-one (eka)",
+  "citation": "eka",
+  "morph": "voc.sg.m (eka)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "mahādeva",
-    "note": "backfilled from T1 gloss",
+    "gloss": "one",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "vocative adjective agreeing with rudra"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "one",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v02-p002",
   "legacy_id": "T1:s14-v02:T2",
   "verse_id": "s14-v02",
   "pada_index": 2,
-  "surface": "maheśvara",
-  "legacy_raw": "[and]-maheśvara (maheśvara)",
-  "citation": "maheśvara",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "rudra",
+  "legacy_raw": "[and]-Rudra (rudra)",
+  "citation": "rudra",
+  "morph": "voc.sg.m (rudra)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "maheśvara",
-    "note": "backfilled from T1 gloss",
+    "gloss": "Rudra",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "vocative; first name in the series"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "Rudra",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v02-p003",
   "legacy_id": "T1:s14-v02:T3",
   "verse_id": "s14-v02",
   "pada_index": 3,
-  "surface": "pārvatīpraṇayiñ",
-  "legacy_raw": "[and]-pārvatīpraṇayiñ (pārvatīpraṇayiñ)",
-  "citation": "pārvatīpraṇayiñ",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "eka",
+  "legacy_raw": "[and]-one (eka)",
+  "citation": "eka",
+  "morph": "voc.sg.m (eka)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "pārvatīpraṇayiñ",
-    "note": "backfilled from T1 gloss",
+    "gloss": "one",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "vocative adjective agreeing with śiva"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "one",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v02-p004",
   "legacy_id": "T1:s14-v02:T4",
   "verse_id": "s14-v02",
   "pada_index": 4,
-  "surface": "śarva",
-  "legacy_raw": "[and]-śarva (śarva)",
-  "citation": "śarva",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "śiva",
+  "legacy_raw": "[and]-Śiva (śiva)",
+  "citation": "śiva",
+  "morph": "voc.sg.m (śiva)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "śarva",
-    "note": "backfilled from T1 gloss",
+    "gloss": "Śiva",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "vocative; second name in the series"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "Śiva",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v02-p005",
   "legacy_id": "T1:s14-v02:T5",
   "verse_id": "s14-v02",
   "pada_index": 5,
-  "surface": "sarvagīrvāṇapūrvaja",
-  "legacy_raw": "[and]-sarvagīrvāṇapūrvaja (sarvagīrvāṇapūrvaja)",
-  "citation": "sarvagīrvāṇapūrvaja",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "mahādeva",
+  "legacy_raw": "[and]-great-god (mahādeva)",
+  "citation": "mahādeva",
+  "morph": "voc.sg.m (mahā-deva)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "sarvagīrvāṇapūrvaja",
-    "note": "backfilled from T1 gloss",
+    "gloss": "great-god",
+    "note": "hand-split 2026-11-02; kept",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "vocative compound"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "great-god",
+    "reason": "kept; confirmed vocative",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v02-p006",
+  "legacy_id": "T1:s14-v02:T6",
+  "verse_id": "s14-v02",
+  "pada_index": 6,
+  "surface": "maheśvara",
+  "legacy_raw": "[and]-great-Lord (maheśvara)",
+  "citation": "maheśvara",
+  "morph": "voc.sg.m (mahā-īśvara)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "great-Lord",
+    "note": "hand-split 2026-11-02; kept",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "vocative compound"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "great-Lord",
+    "reason": "kept; confirmed vocative",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v02-p007",
+  "legacy_id": "T1:s14-v02:T7",
+  "verse_id": "s14-v02",
+  "pada_index": 7,
+  "surface": "pārvatī",
+  "legacy_raw": "[and]-Pārvatī (pārvatī)",
+  "citation": "pārvatī",
+  "morph": "comp (pārvatī)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "Pārvatī",
+    "note": "hand-split 2026-11-02 from pārvatīpraṇayiñ (sandhi ñ before śarva)",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "first member of tatpuruṣa; sandhi -n > -ñ before ś"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "Pārvatī",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v02-p008",
+  "legacy_id": "T1:s14-v02:T8",
+  "verse_id": "s14-v02",
+  "pada_index": 8,
+  "surface": "praṇayin",
+  "legacy_raw": "[and]-lover (praṇayin)",
+  "citation": "praṇayin",
+  "morph": "voc.sg.m (praṇayin)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "lover",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "vocative; Pārvatī's lover"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "lover",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v02-p009",
+  "legacy_id": "T1:s14-v02:T9",
+  "verse_id": "s14-v02",
+  "pada_index": 9,
+  "surface": "śarva",
+  "legacy_raw": "[and]-Śarva (śarva)",
+  "citation": "śarva",
+  "morph": "voc.sg.m (śarva)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "Śarva",
+    "note": "hand-split 2026-11-02; kept",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "vocative"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "Śarva",
+    "reason": "kept; confirmed vocative",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v02-p010",
+  "legacy_id": "T1:s14-v02:T10",
+  "verse_id": "s14-v02",
+  "pada_index": 10,
+  "surface": "sarva",
+  "legacy_raw": "[and]-all (sarva)",
+  "citation": "sarva",
+  "morph": "comp (sarva)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "all",
+    "note": "hand-split 2026-11-02 from sarvagīrvāṇapūrvaja",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "first member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "all",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v02-p011",
+  "legacy_id": "T1:s14-v02:T11",
+  "verse_id": "s14-v02",
+  "pada_index": 11,
+  "surface": "gīrvāṇa",
+  "legacy_raw": "[and]-of-gods (gīrvāṇa)",
+  "citation": "gīrvāṇa",
+  "morph": "comp (gīrvāṇa)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "of-gods",
+    "note": "hand-split 2026-11-02; gīrvāṇa is the poetic plural gods",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "second member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "of-gods",
+     "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v02-p012",
+  "legacy_id": "T1:s14-v02:T12",
+  "verse_id": "s14-v02",
+  "pada_index": 12,
+  "surface": "pūrvaja",
+  "legacy_raw": "[and]-first-born (pūrvaja)",
+  "citation": "pūrvaja",
+  "morph": "voc.sg.m (pūrva-ja)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "first-born",
+    "note": "hand-split 2026-11-02; eldest of all gods",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "vocative head of the compound"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "first-born",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v03-p000",
@@ -304,13 +755,13 @@
   "verse_id": "s14-v03",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -326,60 +777,194 @@
   "legacy_id": "T1:s14-v03:T1",
   "verse_id": "s14-v03",
   "pada_index": 1,
-  "surface": "trailokyanāthaikalāñchanālikalocana",
-  "legacy_raw": "[and]-trailokyanāthaikalāñchanālikalocana (trailokyanāthaikalāñchanālikalocana)",
-  "citation": "trailokyanāthaikalāñchanālikalocana",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "trailokya",
+  "legacy_raw": "[and]-of-three-worlds (trailokya)",
+  "citation": "trailokya",
+  "morph": "comp (trailokya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "trailokyanāthaikalāñchanālikalocana",
-    "note": "backfilled from T1 gloss",
+    "gloss": "of-three-worlds",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "first member of tatpuruṣa"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "of-three-worlds",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v03-p002",
   "legacy_id": "T1:s14-v03:T2",
   "verse_id": "s14-v03",
   "pada_index": 2,
-  "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
-  "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "nātha",
+  "legacy_raw": "[and]-of-Lord (nātha)",
+  "citation": "nātha",
+  "morph": "comp (nātha)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
-    "note": "backfilled from T1 gloss",
+    "gloss": "of-Lord",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "second member of tatpuruṣa"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "of-Lord",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v03-p003",
   "legacy_id": "T1:s14-v03:T3",
   "verse_id": "s14-v03",
   "pada_index": 3,
-  "surface": "pītartalokārtikālakūṭāṅkakandhara",
-  "legacy_raw": "[and]-pītartalokārtikālakūṭāṅkakandhara (pītartalokārtikālakūṭāṅkakandhara)",
-  "citation": "pītartalokārtikālakūṭāṅkakandhara",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "eka",
+  "legacy_raw": "[and]-sole (eka)",
+  "citation": "eka",
+  "morph": "comp (eka)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "pītartalokārtikālakūṭāṅkakandhara",
+    "gloss": "sole",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "adjectival member: the sole mark"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "sole",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v03-p004",
+  "legacy_id": "T1:s14-v03:T4",
+  "verse_id": "s14-v03",
+  "pada_index": 4,
+  "surface": "lāñchana",
+  "legacy_raw": "[and]-mark (lāñchana)",
+  "citation": "lāñchana",
+  "morph": "comp (lāñchana)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "mark",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "head member before the bahuvrīhi turn"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "mark",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v03-p005",
+  "legacy_id": "T1:s14-v03:T5",
+  "verse_id": "s14-v03",
+  "pada_index": 5,
+  "surface": "alika",
+  "legacy_raw": "[and]-brow (alika)",
+  "citation": "alika",
+  "morph": "comp (alika)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "brow",
+    "note": "hand-split 2026-11-02; no moon in this compound — prior moon-reading removed",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "alika = brow/forehead; the brow-eye (third eye)"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "brow",
+    "reason": "pada-split; moon-invention removed",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v03-p006",
+  "legacy_id": "T1:s14-v03:T6",
+  "verse_id": "s14-v03",
+  "pada_index": 6,
+  "surface": "locana",
+  "legacy_raw": "[and]-eyed (locana)",
+  "citation": "locana",
+  "morph": "voc.sg.m (locana)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "eyed",
+    "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "whole compound is vocative address: O brow-eyed sole mark"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "eyed",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+   "id": "s14-v03-p007",
+   "legacy_id": "T1:s14-v03:T7",
+   "verse_id": "s14-v03",
+   "pada_index": 7,
+   "surface": "jaya",
+   "legacy_raw": "[and]-victory (jaya)",
+  "citation": "jaya",
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -391,18 +976,228 @@
   "fork": "none"
  },
  {
+   "id": "s14-v03-p008",
+   "legacy_id": "T1:s14-v03:T8",
+   "verse_id": "s14-v03",
+   "pada_index": 8,
+   "surface": "pīta",
+   "legacy_raw": "[and]-drunk (pīta)",
+   "citation": "pīta",
+   "morph": "comp (pīta)",
+   "morph_unknown": false,
+   "options": [
+    {
+     "gloss": "drunk",
+     "note": "hand-split 2026-11-02; drunk the poison (pīta kālakūṭa)",
+     "rank": 1,
+     "source": "grammar",
+     "grounds": "past participle of √pā in compound"
+    }
+   ],
+   "chosen_index": 0,
+   "status": "PARSED",
+   "fork": "none",
+   "history": [
+    {
+     "gloss": "drunk",
+     "reason": "pada-split of coarse whitespace token",
+     "date": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "s14-v03-p009",
+   "legacy_id": "T1:s14-v03:T9",
+   "verse_id": "s14-v03",
+   "pada_index": 9,
+   "surface": "ārta",
+   "legacy_raw": "[and]-suffering (ārta)",
+   "citation": "ārta",
+   "morph": "comp (ārta)",
+   "morph_unknown": false,
+   "options": [
+    {
+     "gloss": "suffering",
+     "note": "hand-split 2026-11-02; the suffering world",
+     "rank": 1,
+     "source": "grammar",
+     "grounds": "past participle of √ṛ used adjectivally"
+    }
+   ],
+   "chosen_index": 0,
+   "status": "PARSED",
+   "fork": "none",
+   "history": [
+    {
+     "gloss": "suffering",
+     "reason": "pada-split of coarse whitespace token",
+     "date": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "s14-v03-p010",
+   "legacy_id": "T1:s14-v03:T10",
+   "verse_id": "s14-v03",
+   "pada_index": 10,
+   "surface": "loka",
+   "legacy_raw": "[and]-world (loka)",
+   "citation": "loka",
+   "morph": "comp (loka)",
+   "morph_unknown": false,
+   "options": [
+    {
+     "gloss": "world",
+     "note": "hand-split 2026-11-02",
+     "rank": 1,
+     "source": "grammar",
+     "grounds": "member of tatpuruṣa"
+    }
+   ],
+   "chosen_index": 0,
+   "status": "PARSED",
+   "fork": "none",
+   "history": [
+    {
+     "gloss": "world",
+     "reason": "pada-split of coarse whitespace token",
+     "date": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "s14-v03-p011",
+   "legacy_id": "T1:s14-v03:T11",
+   "verse_id": "s14-v03",
+   "pada_index": 11,
+   "surface": "ārti",
+   "legacy_raw": "[and]-pain (ārti)",
+   "citation": "ārti",
+   "morph": "comp (ārti)",
+   "morph_unknown": false,
+   "options": [
+    {
+     "gloss": "pain",
+     "note": "hand-split 2026-11-02; the world's pain, cause of the drinking",
+     "rank": 1,
+     "source": "grammar",
+     "grounds": "member of tatpuruṣa"
+    }
+   ],
+   "chosen_index": 0,
+   "status": "PARSED",
+   "fork": "none",
+   "history": [
+    {
+     "gloss": "pain",
+     "reason": "pada-split of coarse whitespace token",
+     "date": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "s14-v03-p012",
+   "legacy_id": "T1:s14-v03:T12",
+   "verse_id": "s14-v03",
+   "pada_index": 12,
+   "surface": "kālakūṭa",
+   "legacy_raw": "[and]-black-poison (kālakūṭa)",
+   "citation": "kālakūṭa",
+   "morph": "comp (kālakūṭa)",
+   "morph_unknown": false,
+   "options": [
+   {
+    "gloss": "black-poison",
+    "note": "hand-split 2026-11-02; the poison drunk at the churning",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+    }
+   ],
+   "chosen_index": 0,
+   "status": "PARSED",
+   "fork": "none",
+   "history": [
+    {
+     "gloss": "black-poison",
+     "reason": "pada-split of coarse whitespace token",
+     "date": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "s14-v03-p013",
+   "legacy_id": "T1:s14-v03:T13",
+   "verse_id": "s14-v03",
+   "pada_index": 13,
+   "surface": "aṅka",
+   "legacy_raw": "[and]-marked (aṅka)",
+   "citation": "aṅka",
+   "morph": "comp (aṅka)",
+   "morph_unknown": false,
+   "options": [
+    {
+     "gloss": "marked",
+     "note": "hand-split 2026-11-02",
+     "rank": 1,
+     "source": "grammar",
+     "grounds": "member of tatpuruṣa"
+    }
+   ],
+   "chosen_index": 0,
+   "status": "PARSED",
+   "fork": "none",
+   "history": [
+    {
+     "gloss": "marked",
+     "reason": "pada-split of coarse whitespace token",
+     "date": "2026-11-02"
+    }
+   ]
+  },
+  {
+   "id": "s14-v03-p014",
+   "legacy_id": "T1:s14-v03:T14",
+   "verse_id": "s14-v03",
+   "pada_index": 14,
+   "surface": "kandhara",
+   "legacy_raw": "[and]-throated (kandhara)",
+   "citation": "kandhara",
+   "morph": "voc.sg.m (kandhara)",
+   "morph_unknown": false,
+   "options": [
+    {
+     "gloss": "throated",
+     "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+     "rank": 1,
+     "source": "grammar",
+     "grounds": "whole compound is vocative address"
+    }
+   ],
+   "chosen_index": 0,
+   "status": "PARSED",
+   "fork": "none",
+   "history": [
+    {
+     "gloss": "throated",
+     "reason": "pada-split of coarse whitespace token",
+     "date": "2026-11-02"
+    }
+   ]
+  },
+ {
   "id": "s14-v04-p000",
   "legacy_id": "T1:s14-v04:T0",
   "verse_id": "s14-v04",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -418,46 +1213,360 @@
   "legacy_id": "T1:s14-v04:T1",
   "verse_id": "s14-v04",
   "pada_index": 1,
-  "surface": "mūrtatriśaktyātmiśataśūlollasatkara",
-  "legacy_raw": "[and]-mūrtatriśaktyātmiśataśūlollasatkara (mūrtatriśaktyātmiśataśūlollasatkara)",
-  "citation": "mūrtatriśaktyātmiśataśūlollasatkara",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "mūrta",
+  "legacy_raw": "[and]-embodied (mūrta)",
+  "citation": "mūrta",
+  "morph": "comp (mūrta)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "mūrtatriśaktyātmiśataśūlollasatkara",
-    "note": "backfilled from T1 gloss",
+    "gloss": "embodied",
+    "note": "hand-split 2026-11-02",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "past participle of √mūrch in compound: whose self is embodied three powers"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "embodied",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v04-p002",
   "legacy_id": "T1:s14-v04:T2",
   "verse_id": "s14-v04",
   "pada_index": 2,
-  "surface": "jayecchāmātrasiddārthapūjārhacaraṇāmbuja",
-  "legacy_raw": "[and]-jayecchāmātrasiddārthapūjārhacaraṇāmbuja (jayecchāmātrasiddārthapūjārhacaraṇāmbuja)",
-  "citation": "jayecchāmātrasiddārthapūjārhacaraṇāmbuja",
-  "morph": "",
-  "morph_unknown": true,
+  "surface": "triśakti",
+  "legacy_raw": "[and]-three-powers (triśakti)",
+  "citation": "triśakti",
+  "morph": "comp (triśakti)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayecchāmātrasiddārthapūjārhacaraṇāmbuja",
-    "note": "backfilled from T1 gloss",
+    "gloss": "three-powers",
+    "note": "hand-split 2026-11-02; will/cognition/action",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 quick gloss carried; morph to be analyzed on review."
+    "source": "grammar",
+    "grounds": "tri-śakti: icchā, jñāna, kriyā"
    }
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "none"
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "three-powers",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p003",
+  "legacy_id": "T1:s14-v04:T3",
+  "verse_id": "s14-v04",
+  "pada_index": 3,
+  "surface": "ātman",
+  "legacy_raw": "[and]-self (ātman)",
+  "citation": "ātman",
+  "morph": "comp (ātman)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "self",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "head member: the self that is the embodied powers"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "self",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p004",
+  "legacy_id": "T1:s14-v04:T4",
+  "verse_id": "s14-v04",
+  "pada_index": 4,
+  "surface": "śata",
+  "legacy_raw": "[and]-hundred (śata)",
+  "citation": "śata",
+  "morph": "comp (śata)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "hundred",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "numeral member: hundred spikes"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "hundred",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p005",
+  "legacy_id": "T1:s14-v04:T5",
+  "verse_id": "s14-v04",
+  "pada_index": 5,
+  "surface": "śūla",
+  "legacy_raw": "[and]-spike (śūla)",
+  "citation": "śūla",
+  "morph": "comp (śūla)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "spike",
+    "note": "hand-split 2026-11-02; Śiva's trident-spikes",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "spike",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p006",
+  "legacy_id": "T1:s14-v04:T6",
+  "verse_id": "s14-v04",
+  "pada_index": 6,
+  "surface": "ullasat",
+  "legacy_raw": "[and]-bright (ullasat)",
+  "citation": "ullasat",
+  "morph": "comp (ullasat)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "bright",
+    "note": "hand-split 2026-11-02; shining, flashing",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "present participle of ul-las in compound"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "bright",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p007",
+  "legacy_id": "T1:s14-v04:T7",
+  "verse_id": "s14-v04",
+  "pada_index": 7,
+  "surface": "kara",
+  "legacy_raw": "[and]-handed (kara)",
+  "citation": "kara",
+  "morph": "voc.sg.m (kara)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "handed",
+    "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "whole compound is vocative address"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "handed",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p008",
+  "legacy_id": "T1:s14-v04:T8",
+  "verse_id": "s14-v04",
+  "pada_index": 8,
+  "surface": "jaya",
+  "legacy_raw": "[and]-victory (jaya)",
+  "citation": "jaya",
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "victory",
+    "note": "hand-split 2026-11-02; second jaya-cry (compound-initial)",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "interjection opening second half"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "victory",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p009",
+  "legacy_id": "T1:s14-v04:T9",
+  "verse_id": "s14-v04",
+  "pada_index": 9,
+  "surface": "icchāmātra",
+  "legacy_raw": "[and]-by-mere-will (icchāmātra)",
+  "citation": "icchāmātra",
+  "morph": "comp (icchā-mātra)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "by-mere-will",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "instrumental sense: wishes accomplished by mere will"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "by-mere-will",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p010",
+  "legacy_id": "T1:s14-v04:T10",
+  "verse_id": "s14-v04",
+  "pada_index": 10,
+  "surface": "siddhārtha",
+  "legacy_raw": "[and]-accomplished-aims (siddhārtha)",
+  "citation": "siddhārtha",
+  "morph": "comp (siddha-artha)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "accomplished-aims",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "accomplished-aims",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p011",
+  "legacy_id": "T1:s14-v04:T11",
+  "verse_id": "s14-v04",
+  "pada_index": 11,
+  "surface": "pūjārha",
+  "legacy_raw": "[and]-worship-worthy (pūjārha)",
+  "citation": "pūjārha",
+  "morph": "comp (pūjā-arha)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "worship-worthy",
+    "note": "hand-split 2026-11-02",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "member of tatpuruṣa"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "worship-worthy",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "s14-v04-p012",
+  "legacy_id": "T1:s14-v04:T12",
+  "verse_id": "s14-v04",
+  "pada_index": 12,
+  "surface": "caraṇāmbuja",
+  "legacy_raw": "[and]-lotus-feet (caraṇāmbuja)",
+  "citation": "caraṇāmbuja",
+  "morph": "voc.sg.n (caraṇa-ambuja)",
+  "morph_unknown": false,
+  "options": [
+   {
+    "gloss": "lotus-feet",
+    "note": "hand-split 2026-11-02; bahuvrīhi head turned vocative",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "whole compound is vocative address"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none",
+  "history": [
+   {
+    "gloss": "lotus-feet",
+    "reason": "pada-split of coarse whitespace token",
+    "date": "2026-11-02"
+   }
+  ]
  },
  {
   "id": "s14-v05-p000",
@@ -465,13 +1574,13 @@
   "verse_id": "s14-v05",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -488,13 +1597,13 @@
   "verse_id": "s14-v05",
   "pada_index": 1,
   "surface": "śobhaśatasyandilokottaravapurdhara",
-  "legacy_raw": "[and]-śobhaśatasyandilokottaravapurdhara (śobhaśatasyandilokottaravapurdhara)",
+  "legacy_raw": "[and]-bearer-of-body-beyond-worlds-streaming-beauties (śobhaśatasyandilokottaravapurdhara)",
   "citation": "śobhaśatasyandilokottaravapurdhara",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "śobhaśatasyandilokottaravapurdhara",
+    "gloss": "bearer-of-body-beyond-worlds-streaming-beauties",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -511,13 +1620,13 @@
   "verse_id": "s14-v05",
   "pada_index": 2,
   "surface": "jayaikajaṭikākṣīṇagaṅgākṛtyāttabhasmaka",
-  "legacy_raw": "[and]-jayaikajaṭikākṣīṇagaṅgākṛtyāttabhasmaka (jayaikajaṭikākṣīṇagaṅgākṛtyāttabhasmaka)",
+  "legacy_raw": "[and]-single-braided-Ganges-thinned-ash-seized (jayaikajaṭikākṣīṇagaṅgākṛtyāttabhasmaka)",
   "citation": "jayaikajaṭikākṣīṇagaṅgākṛtyāttabhasmaka",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayaikajaṭikākṣīṇagaṅgākṛtyāttabhasmaka",
+    "gloss": "single-braided-Ganges-thinned-ash-seized",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -534,13 +1643,13 @@
   "verse_id": "s14-v06",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -557,13 +1666,13 @@
   "verse_id": "s14-v06",
   "pada_index": 1,
   "surface": "kṣīrodaparyastajyotsnācchāyānulepana",
-  "legacy_raw": "[and]-kṣīrodaparyastajyotsnācchāyānulepana (kṣīrodaparyastajyotsnācchāyānulepana)",
+  "legacy_raw": "[and]-smeared-with-milk-ocean-moonlight-shade (kṣīrodaparyastajyotsnācchāyānulepana)",
   "citation": "kṣīrodaparyastajyotsnācchāyānulepana",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "kṣīrodaparyastajyotsnācchāyānulepana",
+    "gloss": "smeared-with-milk-ocean-moonlight-shade",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -580,13 +1689,13 @@
   "verse_id": "s14-v06",
   "pada_index": 2,
   "surface": "jayeśvarāṅgasaṅgottharatnakāntāhimaṇḍana",
-  "legacy_raw": "[and]-jayeśvarāṅgasaṅgottharatnakāntāhimaṇḍana (jayeśvarāṅgasaṅgottharatnakāntāhimaṇḍana)",
+  "legacy_raw": "[and]-snow-ornamented-with-jewel-light (jayeśvarāṅgasaṅgottharatnakāntāhimaṇḍana)",
   "citation": "jayeśvarāṅgasaṅgottharatnakāntāhimaṇḍana",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayeśvarāṅgasaṅgottharatnakāntāhimaṇḍana",
+    "gloss": "snow-ornamented-with-jewel-light",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -603,13 +1712,13 @@
   "verse_id": "s14-v07",
   "pada_index": 0,
   "surface": "jayākṣayaikaśītāṃśukalāsadṛśasaṃśraya",
-  "legacy_raw": "[and]-jayākṣayaikaśītāṃśukalāsadṛśasaṃśraya (jayākṣayaikaśītāṃśukalāsadṛśasaṃśraya)",
+  "legacy_raw": "[and]-refuge-like-undying-cool-rayed-digit (jayākṣayaikaśītāṃśukalāsadṛśasaṃśraya)",
   "citation": "jayākṣayaikaśītāṃśukalāsadṛśasaṃśraya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayākṣayaikaśītāṃśukalāsadṛśasaṃśraya",
+    "gloss": "refuge-like-undying-cool-rayed-digit",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -626,13 +1735,13 @@
   "verse_id": "s14-v07",
   "pada_index": 1,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -649,13 +1758,13 @@
   "verse_id": "s14-v07",
   "pada_index": 2,
   "surface": "gaṅgāsadārbdhaviśvaiśvaryābhiṣecana",
-  "legacy_raw": "[and]-gaṅgāsadārbdhaviśvaiśvaryābhiṣecana (gaṅgāsadārbdhaviśvaiśvaryābhiṣecana)",
+  "legacy_raw": "[and]-consecrated-by-ever-Ganges-and-universal-lordship (gaṅgāsadārbdhaviśvaiśvaryābhiṣecana)",
   "citation": "gaṅgāsadārbdhaviśvaiśvaryābhiṣecana",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "gaṅgāsadārbdhaviśvaiśvaryābhiṣecana",
+    "gloss": "consecrated-by-ever-Ganges-and-universal-lordship",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -672,13 +1781,13 @@
   "verse_id": "s14-v08",
   "pada_index": 0,
   "surface": "jayādharāṅgasaṃsparśapāvanīkṛtagokula",
-  "legacy_raw": "[and]-jayādharāṅgasaṃsparśapāvanīkṛtagokula (jayādharāṅgasaṃsparśapāvanīkṛtagokula)",
+  "legacy_raw": "[and]-whose-lowest-touch-purifies-cowherds (jayādharāṅgasaṃsparśapāvanīkṛtagokula)",
   "citation": "jayādharāṅgasaṃsparśapāvanīkṛtagokula",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayādharāṅgasaṃsparśapāvanīkṛtagokula",
+    "gloss": "whose-lowest-touch-purifies-cowherds",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -695,13 +1804,13 @@
   "verse_id": "s14-v08",
   "pada_index": 1,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -718,13 +1827,13 @@
   "verse_id": "s14-v08",
   "pada_index": 2,
   "surface": "bhaktimadābaddhagoṣṭhīniyatasannidhe",
-  "legacy_raw": "[and]-bhaktimadābaddhagoṣṭhīniyatasannidhe (bhaktimadābaddhagoṣṭhīniyatasannidhe)",
+  "legacy_raw": "[and]-fixed-present-where-devotees-gather (bhaktimadābaddhagoṣṭhīniyatasannidhe)",
   "citation": "bhaktimadābaddhagoṣṭhīniyatasannidhe",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "bhaktimadābaddhagoṣṭhīniyatasannidhe",
+    "gloss": "fixed-present-where-devotees-gather",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -741,13 +1850,13 @@
   "verse_id": "s14-v09",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -764,13 +1873,13 @@
   "verse_id": "s14-v09",
   "pada_index": 1,
   "surface": "svecchātapodeśavipralambhitabāliśa",
-  "legacy_raw": "[and]-svecchātapodeśavipralambhitabāliśa (svecchātapodeśavipralambhitabāliśa)",
+  "legacy_raw": "[and]-duping-childish-showing-hot-place (svecchātapodeśavipralambhitabāliśa)",
   "citation": "svecchātapodeśavipralambhitabāliśa",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "svecchātapodeśavipralambhitabāliśa",
+    "gloss": "duping-childish-showing-hot-place",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -787,13 +1896,13 @@
   "verse_id": "s14-v09",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -810,13 +1919,13 @@
   "verse_id": "s14-v09",
   "pada_index": 3,
   "surface": "gaurīpariṣvaṅgayogyasaubhāgyabhājana",
-  "legacy_raw": "[and]-gaurīpariṣvaṅgayogyasaubhāgyabhājana (gaurīpariṣvaṅgayogyasaubhāgyabhājana)",
+  "legacy_raw": "[and]-vessel-for-Gauri-embrace-fortune (gaurīpariṣvaṅgayogyasaubhāgyabhājana)",
   "citation": "gaurīpariṣvaṅgayogyasaubhāgyabhājana",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "gaurīpariṣvaṅgayogyasaubhāgyabhājana",
+    "gloss": "vessel-for-Gauri-embrace-fortune",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -833,13 +1942,13 @@
   "verse_id": "s14-v10",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -856,13 +1965,13 @@
   "verse_id": "s14-v10",
   "pada_index": 1,
   "surface": "bhaktirasārdrārdrabhāvopāyanalampaṭa",
-  "legacy_raw": "[and]-bhaktirasārdrārdrabhāvopāyanalampaṭa (bhaktirasārdrārdrabhāvopāyanalampaṭa)",
+  "legacy_raw": "[and]-greedy-for-love-gifts-wet-with-devotion-rasa (bhaktirasārdrārdrabhāvopāyanalampaṭa)",
   "citation": "bhaktirasārdrārdrabhāvopāyanalampaṭa",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "bhaktirasārdrārdrabhāvopāyanalampaṭa",
+    "gloss": "greedy-for-love-gifts-wet-with-devotion-rasa",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -879,13 +1988,13 @@
   "verse_id": "s14-v10",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -902,13 +2011,13 @@
   "verse_id": "s14-v10",
   "pada_index": 3,
   "surface": "bhaktimadoddāmabhaktavāṅnṛttatoṣita",
-  "legacy_raw": "[and]-bhaktimadoddāmabhaktavāṅnṛttatoṣita (bhaktimadoddāmabhaktavāṅnṛttatoṣita)",
+  "legacy_raw": "[and]-pleased-by-devotees'-speech-dance (bhaktimadoddāmabhaktavāṅnṛttatoṣita)",
   "citation": "bhaktimadoddāmabhaktavāṅnṛttatoṣita",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "bhaktimadoddāmabhaktavāṅnṛttatoṣita",
+    "gloss": "pleased-by-devotees'-speech-dance",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -925,13 +2034,13 @@
   "verse_id": "s14-v11",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -948,13 +2057,13 @@
   "verse_id": "s14-v11",
   "pada_index": 1,
   "surface": "brahmādideveśaprabhāvaprabhavavyaya",
-  "legacy_raw": "[and]-brahmādideveśaprabhāvaprabhavavyaya (brahmādideveśaprabhāvaprabhavavyaya)",
+  "legacy_raw": "[and]-rise-and-fall-of-Brahmā-and-gods (brahmādideveśaprabhāvaprabhavavyaya)",
   "citation": "brahmādideveśaprabhāvaprabhavavyaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "brahmādideveśaprabhāvaprabhavavyaya",
+    "gloss": "rise-and-fall-of-Brahmā-and-gods",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -971,13 +2080,13 @@
   "verse_id": "s14-v11",
   "pada_index": 2,
   "surface": "jayalokeśvaraśreṇiśirovidhṛtaśāsana",
-  "legacy_raw": "[and]-jayalokeśvaraśreṇiśirovidhṛtaśāsana (jayalokeśvaraśreṇiśirovidhṛtaśāsana)",
+  "legacy_raw": "[and]-command-borne-on-heads-of-world-lords (jayalokeśvaraśreṇiśirovidhṛtaśāsana)",
   "citation": "jayalokeśvaraśreṇiśirovidhṛtaśāsana",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayalokeśvaraśreṇiśirovidhṛtaśāsana",
+    "gloss": "command-borne-on-heads-of-world-lords",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -994,13 +2103,13 @@
   "verse_id": "s14-v12",
   "pada_index": 0,
   "surface": "jayasarvajagannyastasvamudrāvyaktavaibhava",
-  "legacy_raw": "[and]-jayasarvajagannyastasvamudrāvyaktavaibhava (jayasarvajagannyastasvamudrāvyaktavaibhava)",
+  "legacy_raw": "[and]-glory-seal-set-on-all-worlds (jayasarvajagannyastasvamudrāvyaktavaibhava)",
   "citation": "jayasarvajagannyastasvamudrāvyaktavaibhava",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayasarvajagannyastasvamudrāvyaktavaibhava",
+    "gloss": "glory-seal-set-on-all-worlds",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1017,13 +2126,13 @@
   "verse_id": "s14-v12",
   "pada_index": 1,
   "surface": "jayātmadānaparyantaviśveśvaramaheśvara",
-  "legacy_raw": "[and]-jayātmadānaparyantaviśveśvaramaheśvara (jayātmadānaparyantaviśveśvaramaheśvara)",
+  "legacy_raw": "[and]-great-Lord-of-all-down-to-self-gift (jayātmadānaparyantaviśveśvaramaheśvara)",
   "citation": "jayātmadānaparyantaviśveśvaramaheśvara",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayātmadānaparyantaviśveśvaramaheśvara",
+    "gloss": "great-Lord-of-all-down-to-self-gift",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1040,13 +2149,13 @@
   "verse_id": "s14-v13",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1063,13 +2172,13 @@
   "verse_id": "s14-v13",
   "pada_index": 1,
   "surface": "trailokyasargecchāvasarāsaddvitīyaka",
-  "legacy_raw": "[and]-trailokyasargecchāvasarāsaddvitīyaka (trailokyasargecchāvasarāsaddvitīyaka)",
+  "legacy_raw": "[and]-secondless-at-creation-wish-moment (trailokyasargecchāvasarāsaddvitīyaka)",
   "citation": "trailokyasargecchāvasarāsaddvitīyaka",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "trailokyasargecchāvasarāsaddvitīyaka",
+    "gloss": "secondless-at-creation-wish-moment",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1086,13 +2195,13 @@
   "verse_id": "s14-v13",
   "pada_index": 2,
   "surface": "jayaiśvaryabharodvāhadevīmātrasahāyaka",
-  "legacy_raw": "[and]-jayaiśvaryabharodvāhadevīmātrasahāyaka (jayaiśvaryabharodvāhadevīmātrasahāyaka)",
+  "legacy_raw": "[and]-with-Goddess-helper-bearing-lordship (jayaiśvaryabharodvāhadevīmātrasahāyaka)",
   "citation": "jayaiśvaryabharodvāhadevīmātrasahāyaka",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayaiśvaryabharodvāhadevīmātrasahāyaka",
+    "gloss": "with-Goddess-helper-bearing-lordship",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1109,13 +2218,13 @@
   "verse_id": "s14-v14",
   "pada_index": 0,
   "surface": "jayākramasamākrāntasamastabhuvanatraya",
-  "legacy_raw": "[and]-jayākramasamākrāntasamastabhuvanatraya (jayākramasamākrāntasamastabhuvanatraya)",
+  "legacy_raw": "[and]-victory-striding-over-all-three-worlds (jayākramasamākrāntasamastabhuvanatraya)",
   "citation": "jayākramasamākrāntasamastabhuvanatraya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayākramasamākrāntasamastabhuvanatraya",
+    "gloss": "victory-striding-over-all-three-worlds",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1132,13 +2241,13 @@
   "verse_id": "s14-v14",
   "pada_index": 1,
   "surface": "jayāvigītam",
-  "legacy_raw": "[and]-jayāvigītam (jayāvigītam)",
+  "legacy_raw": "[and]-unreviled-victory (jayāvigītam)",
   "citation": "jayāvigītam",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg (jaya-avigīta)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayāvigītam",
+    "gloss": "unreviled-victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1155,13 +2264,13 @@
   "verse_id": "s14-v14",
   "pada_index": 2,
   "surface": "ābālagīyamāneśvaradhvane",
-  "legacy_raw": "[and]-ābālagīyamāneśvaradhvane (ābālagīyamāneśvaradhvane)",
+  "legacy_raw": "[and]-Lord's-sound-sung-by-children (ābālagīyamāneśvaradhvane)",
   "citation": "ābālagīyamāneśvaradhvane",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "ābālagīyamāneśvaradhvane",
+    "gloss": "Lord's-sound-sung-by-children",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1178,13 +2287,13 @@
   "verse_id": "s14-v15",
   "pada_index": 0,
   "surface": "jayānukampādiguṇānapekṣasahajonnate",
-  "legacy_raw": "[and]-jayānukampādiguṇānapekṣasahajonnate (jayānukampādiguṇānapekṣasahajonnate)",
+  "legacy_raw": "[and]-naturally-exalted-without-compassion-etc (jayānukampādiguṇānapekṣasahajonnate)",
   "citation": "jayānukampādiguṇānapekṣasahajonnate",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayānukampādiguṇānapekṣasahajonnate",
+    "gloss": "naturally-exalted-without-compassion-etc",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1201,13 +2310,13 @@
   "verse_id": "s14-v15",
   "pada_index": 1,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1224,13 +2333,13 @@
   "verse_id": "s14-v15",
   "pada_index": 2,
   "surface": "bhīṣmamahāmṛtyughaṭanāpūrvabhairava",
-  "legacy_raw": "[and]-bhīṣmamahāmṛtyughaṭanāpūrvabhairava (bhīṣmamahāmṛtyughaṭanāpūrvabhairava)",
+  "legacy_raw": "[and]-Bhairava-prior-to-great-death (bhīṣmamahāmṛtyughaṭanāpūrvabhairava)",
   "citation": "bhīṣmamahāmṛtyughaṭanāpūrvabhairava",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "bhīṣmamahāmṛtyughaṭanāpūrvabhairava",
+    "gloss": "Bhairava-prior-to-great-death",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1247,13 +2356,13 @@
   "verse_id": "s14-v16",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1270,13 +2379,13 @@
   "verse_id": "s14-v16",
   "pada_index": 1,
   "surface": "viśvakṣayoccaṇḍakriyāniṣparipanthika",
-  "legacy_raw": "[and]-viśvakṣayoccaṇḍakriyāniṣparipanthika (viśvakṣayoccaṇḍakriyāniṣparipanthika)",
+  "legacy_raw": "[and]-unobstructed-fierce-world-destruction (viśvakṣayoccaṇḍakriyāniṣparipanthika)",
   "citation": "viśvakṣayoccaṇḍakriyāniṣparipanthika",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "viśvakṣayoccaṇḍakriyāniṣparipanthika",
+    "gloss": "unobstructed-fierce-world-destruction",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1293,13 +2402,13 @@
   "verse_id": "s14-v16",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1316,13 +2425,13 @@
   "verse_id": "s14-v16",
   "pada_index": 3,
   "surface": "śreyaḥśataguṇānuganāmānukīrtana",
-  "legacy_raw": "[and]-śreyaḥśataguṇānuganāmānukīrtana (śreyaḥśataguṇānuganāmānukīrtana)",
+  "legacy_raw": "[and]-praising-hundredfold-good (śreyaḥśataguṇānuganāmānukīrtana)",
   "citation": "śreyaḥśataguṇānuganāmānukīrtana",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "śreyaḥśataguṇānuganāmānukīrtana",
+    "gloss": "praising-hundredfold-good",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1339,13 +2448,13 @@
   "verse_id": "s14-v17",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1362,13 +2471,13 @@
   "verse_id": "s14-v17",
   "pada_index": 1,
   "surface": "helāvitīrnaitadamṛtākarasāgara",
-  "legacy_raw": "[and]-helāvitīrnaitadamṛtākarasāgara (helāvitīrnaitadamṛtākarasāgara)",
+  "legacy_raw": "[and]-casually-spilled-nectar-ocean (helāvitīrnaitadamṛtākarasāgara)",
   "citation": "helāvitīrnaitadamṛtākarasāgara",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "helāvitīrnaitadamṛtākarasāgara",
+    "gloss": "casually-spilled-nectar-ocean",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1385,13 +2494,13 @@
   "verse_id": "s14-v17",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1408,13 +2517,13 @@
   "verse_id": "s14-v17",
   "pada_index": 3,
   "surface": "viśvakṣayakṣepikṣaṇakopāśuśukṣaṇe",
-  "legacy_raw": "[and]-viśvakṣayakṣepikṣaṇakopāśuśukṣaṇe (viśvakṣayakṣepikṣaṇakopāśuśukṣaṇe)",
+  "legacy_raw": "[and]-instant-anger-destroying-world (viśvakṣayakṣepikṣaṇakopāśuśukṣaṇe)",
   "citation": "viśvakṣayakṣepikṣaṇakopāśuśukṣaṇe",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "viśvakṣayakṣepikṣaṇakopāśuśukṣaṇe",
+    "gloss": "instant-anger-destroying-world",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1431,13 +2540,13 @@
   "verse_id": "s14-v18",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1454,13 +2563,13 @@
   "verse_id": "s14-v18",
   "pada_index": 1,
   "surface": "mohāndhakārāndhajīvalokaikadīpaka",
-  "legacy_raw": "[and]-mohāndhakārāndhajīvalokaikadīpaka (mohāndhakārāndhajīvalokaikadīpaka)",
+  "legacy_raw": "[and]-sole-lamp-for-deluded-world (mohāndhakārāndhajīvalokaikadīpaka)",
   "citation": "mohāndhakārāndhajīvalokaikadīpaka",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "mohāndhakārāndhajīvalokaikadīpaka",
+    "gloss": "sole-lamp-for-deluded-world",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1477,13 +2586,13 @@
   "verse_id": "s14-v18",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1500,13 +2609,13 @@
   "verse_id": "s14-v18",
   "pada_index": 3,
   "surface": "prasuptajagatījāgarūkādhipūruṣa",
-  "legacy_raw": "[and]-prasuptajagatījāgarūkādhipūruṣa (prasuptajagatījāgarūkādhipūruṣa)",
+  "legacy_raw": "[and]-awake-Lord-of-sleeping-world (prasuptajagatījāgarūkādhipūruṣa)",
   "citation": "prasuptajagatījāgarūkādhipūruṣa",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "prasuptajagatījāgarūkādhipūruṣa",
+    "gloss": "awake-Lord-of-sleeping-world",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1523,13 +2632,13 @@
   "verse_id": "s14-v19",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1546,13 +2655,13 @@
   "verse_id": "s14-v19",
   "pada_index": 1,
   "surface": "dehādrikuñjāntarnikūjañjīvajīvaka",
-  "legacy_raw": "[and]-dehādrikuñjāntarnikūjañjīvajīvaka (dehādrikuñjāntarnikūjañjīvajīvaka)",
+  "legacy_raw": "[and]-cuckoo-singing-in-body-mountain-grove (dehādrikuñjāntarnikūjañjīvajīvaka)",
   "citation": "dehādrikuñjāntarnikūjañjīvajīvaka",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "dehādrikuñjāntarnikūjañjīvajīvaka",
+    "gloss": "cuckoo-singing-in-body-mountain-grove",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1569,13 +2678,13 @@
   "verse_id": "s14-v19",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1592,13 +2701,13 @@
   "verse_id": "s14-v19",
   "pada_index": 3,
   "surface": "sanmānasavyomavilāsivarasārasa",
-  "legacy_raw": "[and]-sanmānasavyomavilāsivarasārasa (sanmānasavyomavilāsivarasārasa)",
+  "legacy_raw": "[and]-essence-of-mind-sky-play (sanmānasavyomavilāsivarasārasa)",
   "citation": "sanmānasavyomavilāsivarasārasa",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "sanmānasavyomavilāsivarasārasa",
+    "gloss": "essence-of-mind-sky-play",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1615,13 +2724,13 @@
   "verse_id": "s14-v20",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1638,13 +2747,13 @@
   "verse_id": "s14-v20",
   "pada_index": 1,
   "surface": "jāmbūnadodagradhātūdbhavagirīśvara",
-  "legacy_raw": "[and]-jāmbūnadodagradhātūdbhavagirīśvara (jāmbūnadodagradhātūdbhavagirīśvara)",
+  "legacy_raw": "[and]-Lord-of-mountain-from-gold (jāmbūnadodagradhātūdbhavagirīśvara)",
   "citation": "jāmbūnadodagradhātūdbhavagirīśvara",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jāmbūnadodagradhātūdbhavagirīśvara",
+    "gloss": "Lord-of-mountain-from-gold",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1661,13 +2770,13 @@
   "verse_id": "s14-v20",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1684,13 +2793,13 @@
   "verse_id": "s14-v20",
   "pada_index": 3,
   "surface": "pāpiṣu",
-  "legacy_raw": "[and]-pāpiṣu (pāpiṣu)",
+  "legacy_raw": "[and]-towards-sinners (pāpiṣu)",
   "citation": "pāpiṣu",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "loc.pl.m (pāpin)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "pāpiṣu",
+    "gloss": "towards-sinners",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1707,13 +2816,13 @@
   "verse_id": "s14-v20",
   "pada_index": 4,
   "surface": "nindolkāpātanotpātacandramaḥ",
-  "legacy_raw": "[and]-nindolkāpātanotpātacandramaḥ (nindolkāpātanotpātacandramaḥ)",
+  "legacy_raw": "[and]-moon-of-ill-omen-falling-meteor (nindolkāpātanotpātacandramaḥ)",
   "citation": "nindolkāpātanotpātacandramaḥ",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "nindolkāpātanotpātacandramaḥ",
+    "gloss": "moon-of-ill-omen-falling-meteor",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1730,13 +2839,13 @@
   "verse_id": "s14-v21",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1753,13 +2862,13 @@
   "verse_id": "s14-v21",
   "pada_index": 1,
   "surface": "kaṣṭatapaḥkliṣṭamunidevadurāsada",
-  "legacy_raw": "[and]-kaṣṭatapaḥkliṣṭamunidevadurāsada (kaṣṭatapaḥkliṣṭamunidevadurāsada)",
+  "legacy_raw": "[and]-hard-for-ascetics-and-gods (kaṣṭatapaḥkliṣṭamunidevadurāsada)",
   "citation": "kaṣṭatapaḥkliṣṭamunidevadurāsada",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "kaṣṭatapaḥkliṣṭamunidevadurāsada",
+    "gloss": "hard-for-ascetics-and-gods",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1776,13 +2885,13 @@
   "verse_id": "s14-v21",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1799,13 +2908,13 @@
   "verse_id": "s14-v21",
   "pada_index": 3,
   "surface": "sarvadaśārūḍhabhaktimallokalokita",
-  "legacy_raw": "[and]-sarvadaśārūḍhabhaktimallokalokita (sarvadaśārūḍhabhaktimallokalokita)",
+  "legacy_raw": "[and]-seen-by-devotees-in-all-states (sarvadaśārūḍhabhaktimallokalokita)",
   "citation": "sarvadaśārūḍhabhaktimallokalokita",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "sarvadaśārūḍhabhaktimallokalokita",
+    "gloss": "seen-by-devotees-in-all-states",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1822,13 +2931,13 @@
   "verse_id": "s14-v22",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1845,13 +2954,13 @@
   "verse_id": "s14-v22",
   "pada_index": 1,
   "surface": "svasampatprasarapatrīkṛtanijāśrita",
-  "legacy_raw": "[and]-svasampatprasarapatrīkṛtanijāśrita (svasampatprasarapatrīkṛtanijāśrita)",
+  "legacy_raw": "[and]-making-own-fortune-spread-shelter (svasampatprasarapatrīkṛtanijāśrita)",
   "citation": "svasampatprasarapatrīkṛtanijāśrita",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "svasampatprasarapatrīkṛtanijāśrita",
+    "gloss": "making-own-fortune-spread-shelter",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1868,13 +2977,13 @@
   "verse_id": "s14-v22",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1891,13 +3000,13 @@
   "verse_id": "s14-v22",
   "pada_index": 3,
   "surface": "prapannajanatālālanaikaprayojana",
-  "legacy_raw": "[and]-prapannajanatālālanaikaprayojana (prapannajanatālālanaikaprayojana)",
+  "legacy_raw": "[and]-sole-purpose-cherishing-devotees (prapannajanatālālanaikaprayojana)",
   "citation": "prapannajanatālālanaikaprayojana",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "prapannajanatālālanaikaprayojana",
+    "gloss": "sole-purpose-cherishing-devotees",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1914,13 +3023,13 @@
   "verse_id": "s14-v23",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1937,13 +3046,13 @@
   "verse_id": "s14-v23",
   "pada_index": 1,
   "surface": "sargasthitidhvaṃsakāraṇaikāvadānaka",
-  "legacy_raw": "[and]-sargasthitidhvaṃsakāraṇaikāvadānaka (sargasthitidhvaṃsakāraṇaikāvadānaka)",
+  "legacy_raw": "[and]-sole-cause-of-creation-preservation-destruction (sargasthitidhvaṃsakāraṇaikāvadānaka)",
   "citation": "sargasthitidhvaṃsakāraṇaikāvadānaka",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "sargasthitidhvaṃsakāraṇaikāvadānaka",
+    "gloss": "sole-cause-of-creation-preservation-destruction",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1960,13 +3069,13 @@
   "verse_id": "s14-v23",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -1983,13 +3092,13 @@
   "verse_id": "s14-v23",
   "pada_index": 3,
   "surface": "bhaktimadālolalīlotpalamagotsava",
-  "legacy_raw": "[and]-bhaktimadālolalīlotpalamagotsava (bhaktimadālolalīlotpalamagotsava)",
+  "legacy_raw": "[and]-devotee-play-lotus-festival (bhaktimadālolalīlotpalamagotsava)",
   "citation": "bhaktimadālolalīlotpalamagotsava",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "bhaktimadālolalīlotpalamagotsava",
+    "gloss": "devotee-play-lotus-festival",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2006,13 +3115,13 @@
   "verse_id": "s14-v24",
   "pada_index": 0,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2029,13 +3138,13 @@
   "verse_id": "s14-v24",
   "pada_index": 1,
   "surface": "jayabhājana",
-  "legacy_raw": "[and]-jayabhājana (jayabhājana)",
+  "legacy_raw": "[and]-vessel-of-victory (jayabhājana)",
   "citation": "jayabhājana",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg (jaya-bhājana)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jayabhājana",
+    "gloss": "vessel-of-victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2052,13 +3161,13 @@
   "verse_id": "s14-v24",
   "pada_index": 2,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2075,13 +3184,13 @@
   "verse_id": "s14-v24",
   "pada_index": 3,
   "surface": "jitajanmajarāmaraṇa",
-  "legacy_raw": "[and]-jitajanmajarāmaraṇa (jitajanmajarāmaraṇa)",
+  "legacy_raw": "[and]-conquering-birth-age-death (jitajanmajarāmaraṇa)",
   "citation": "jitajanmajarāmaraṇa",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jitajanmajarāmaraṇa",
+    "gloss": "conquering-birth-age-death",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2098,13 +3207,13 @@
   "verse_id": "s14-v24",
   "pada_index": 4,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2121,13 +3230,13 @@
   "verse_id": "s14-v24",
   "pada_index": 5,
   "surface": "jagajjyeṣṭha",
-  "legacy_raw": "[and]-jagajjyeṣṭha (jagajjyeṣṭha)",
+  "legacy_raw": "[and]-eldest-of-world (jagajjyeṣṭha)",
   "citation": "jagajjyeṣṭha",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg (jagat-jyeṣṭha)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jagajjyeṣṭha",
+    "gloss": "eldest-of-world",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2144,13 +3253,13 @@
   "verse_id": "s14-v24",
   "pada_index": 6,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2167,13 +3276,13 @@
   "verse_id": "s14-v24",
   "pada_index": 7,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2190,13 +3299,13 @@
   "verse_id": "s14-v24",
   "pada_index": 8,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2213,13 +3322,13 @@
   "verse_id": "s14-v24",
   "pada_index": 9,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2236,13 +3345,13 @@
   "verse_id": "s14-v24",
   "pada_index": 10,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2259,13 +3368,13 @@
   "verse_id": "s14-v24",
   "pada_index": 11,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2282,13 +3391,13 @@
   "verse_id": "s14-v24",
   "pada_index": 12,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2305,13 +3414,13 @@
   "verse_id": "s14-v24",
   "pada_index": 13,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2328,13 +3437,13 @@
   "verse_id": "s14-v24",
   "pada_index": 14,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2351,13 +3460,13 @@
   "verse_id": "s14-v24",
   "pada_index": 15,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2374,13 +3483,13 @@
   "verse_id": "s14-v24",
   "pada_index": 16,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2397,13 +3506,13 @@
   "verse_id": "s14-v24",
   "pada_index": 17,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2420,13 +3529,13 @@
   "verse_id": "s14-v24",
   "pada_index": 18,
   "surface": "jaya",
-  "legacy_raw": "[and]-jaya (jaya)",
+  "legacy_raw": "[and]-victory (jaya)",
   "citation": "jaya",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "indecl. (jaya)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "jaya",
+    "gloss": "victory",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
@@ -2443,13 +3552,13 @@
   "verse_id": "s14-v24",
   "pada_index": 19,
   "surface": "tryakṣa",
-  "legacy_raw": "[and]-tryakṣa (tryakṣa)",
+  "legacy_raw": "[and]-three-eyed (tryakṣa)",
   "citation": "tryakṣa",
-  "morph": "",
-  "morph_unknown": true,
+  "morph": "voc.sg (tri-akṣa)",
+  "morph_unknown": false,
   "options": [
    {
-    "gloss": "tryakṣa",
+    "gloss": "three-eyed",
     "note": "backfilled from T1 gloss",
     "rank": 1,
     "source": "t1-draft",
