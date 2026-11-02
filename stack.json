@@ -10,7 +10,8 @@
   "argmap",
   "l2",
   "c1",
-  "c2"
+  "c2",
+  "l3"
  ],
  "required_by_layer": {
   "t1": [
@@ -51,18 +52,28 @@
    "essence",
    "renders"
   ],
-  "c2": [
-   "song",
-   "renders"
-  ]
- },
- "invariants": [
+   "c2": [
+    "song",
+    "renders"
+   ],
+   "l3": [
+    "verse_id",
+    "song",
+    "verse",
+    "lines",
+    "sanskrit_cite",
+    "l0_ids",
+    "essence_maps"
+   ]
+  },
+  "invariants": [
   "L0.chosen == T1.quick_gloss unless L0.revised with reason",
   "fork live|resolved requires >=2 options; resolved requires argmap option_choices entry with matching chosen_index",
   "argmap traces resolve: t1_verse exists, every l0_id exists, sanskrit_sha matches source",
-  "L2 lists >=1 existing l0_id per verse",
-  "non-standard C1 renders map every paragraph to essence indices",
-  "coverage: T1+L0+argmap+L2 span exactly the GRETIL verse set"
+   "L2 lists >=1 existing l0_id per verse",
+   "L3 lists >=1 existing l0_id per verse; L3 shares no long sentence with L2",
+   "non-standard C1 renders map every paragraph to essence indices",
+   "coverage: T1+L0+argmap+L2 (+L3 where present) span exactly the GRETIL verse set"
  ],
  "precedence": [
   "AGENTS.md / User Directive 2026-11-01",
