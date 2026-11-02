@@ -17,9 +17,13 @@ def clean_site_text(s: str) -> str:
 
 def clean_site_sanskrit(s: str) -> str:
     """Drop trailing source-sigil tails (e.g. '|| AgAna_5'), bare verse-number
-    brackets ('[1]') and '+' sandhi-join markers that some passages rows
-    carry — the locator/edition fields hold provenance."""
-    s = re.sub(r"\|\|\s*[A-Za-z][A-Za-z0-9_'\-]*\s*$", "", s or "").strip()
+    brackets ('[1]'), '+' sandhi-join markers, TeX apparatus ('\\var{...}',
+    '\\em', '(?)') that some source rows carry — the locator/edition fields
+    hold provenance."""
+    s = re.sub(r"\\[A-Za-z]+(\{[^{}]*\})?", "", s or "")
+    s = s.replace("{", "").replace("}", "")
+    s = re.sub(r"\(\?\)", "", s)
+    s = re.sub(r"\|\|\s*[A-Za-z][A-Za-z0-9_'\-]*\s*$", "", s).strip()
     s = re.sub(r"\s*\[\d+\]", "", s)
     return s.replace("+", "").strip()
 
