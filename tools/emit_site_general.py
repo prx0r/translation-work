@@ -43,11 +43,23 @@ def load_passages(work: str) -> dict:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--work", required=True)
+    ap.add_argument("--force", action="store_true",
+                    help="overwrite site-lane l1/l2 hand fixes (default: preserve them)")
     args = ap.parse_args()
     w = ROOT / args.work
     data = w / "data"
     proofdir = w / "proof"
     passages = load_passages(args.work)
+    # site-lane hand fixes (translations JSON edited after emit) are preserved
+    # unless --force: regenerating T1/L2 must never silently wipe review.
+    prior = {}
+    site_out = SITE / "translations" / f"{args.work}.json"
+    if site_out.exists() and not args.force:
+        try:
+            for c in json.loads(site_out.read_text()):
+                prior[c.get("chunk")] = c
+        except Exception:
+            prior = {}
 
     chunks = []
     argdir = SITE / "argmaps" / args.work
@@ -63,6 +75,8 @@ def main() -> int:
         c1_path = data / f"{song}.c1.json"
         l2 = {o["verse"]: o for o in json.loads(l2_path.read_text())} if l2_path.exists() else {}
         am = {o["verse"]: o for o in json.loads(am_path.read_text())} if am_path.exists() else {}
+        l3_path = data / f"{song}.l3.json"
+        l3 = {o["verse"]: o for o in json.loads(l3_path.read_text())} if l3_path.exists() else {}
         prec = proofdir / f"proof-{song}.json"
         if not prec.exists():
             # fallback: by index among sorted proof files — ONLY when counts
@@ -88,6 +102,7 @@ def main() -> int:
             vn = v["verse"]
             vid = v["verse_id"]
             l2o = l2.get(vn, {})
+            l3o = l3.get(vn, {})
             t1o = next((o for o in t1 if o["verse"] == vn), {})
             if gate == "PASS":
                 close = " / ".join(t["quick_gloss"] for t in v["tokens"])
@@ -95,6 +110,11 @@ def main() -> int:
                 l2t = clean_site_text((l2o.get("plain_english", "") or "").strip())
             else:
                 l1, l2t = "", ""
+            # preserve site-lane hand fixes (translation review applied after emit)
+            prev = prior.get(vid, {})
+            if prev and (prev.get("l1", "") != l1 or prev.get("l2", "") != l2t):
+                print(f"  keep site-lane l1/l2 for {vid} (hand-fixed; --force to overwrite)")
+                l1, l2t = prev.get("l1", ""), prev.get("l2", "")
             ch = {"chunk": vid, "verses": str(vn), "sanskrit": src_text,
                   "gate": gate, "blocking": proof.get("blocking", []),
                   "needs": needs,
@@ -110,6 +130,8 @@ def main() -> int:
                 ch["accept_scope"] = sign.get("scope")
             if psg.get("immutable_id"):
                 ch["immutable_id"] = psg["immutable_id"]
+            if gate == "PASS" and l3o.get("lines"):
+                ch["l3"] = "\n".join(x.strip() for x in l3o["lines"] if x.strip())
             # source_license: deliberately NOT defaulted — needs per-edition
             # legal decision (GRETIL/Muktabodha/KSTS differ). verify_site will
             # keep flagging it until the owner sets it. See CHAT.md gap log.
