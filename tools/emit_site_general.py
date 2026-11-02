@@ -107,8 +107,7 @@ def main() -> int:
             if gate == "PASS":
                 close = " / ".join(t["quick_gloss"] for t in v["tokens"])
                 l1 = f"## {vid} ({vn})\n{close} // {psg.get('locator', song)}"
-                l2t = clean_site_text((l2o.get("plain_english", "") or "").strip())
-                if not l2t and len(t1) == 1 and len(l2) > 1:
+                if len(t1) == 1 and len(l2) > 1:
                     # passage-grained song: one T1 record spans the passage but
                     # L2 is per verse — join all verses so the chunk's English
                     # covers its Sanskrit (ghatakarpara, spandasandoha)
@@ -118,6 +117,8 @@ def main() -> int:
                         order = sorted(l2, key=str)
                     l2t = clean_site_text("\n\n".join(
                         (l2[k].get("plain_english") or "").strip() for k in order))
+                else:
+                    l2t = clean_site_text((l2o.get("plain_english") or "").strip())
             else:
                 l1, l2t = "", ""
             # preserve site-lane hand fixes (translation review applied after emit)
