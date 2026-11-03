@@ -175,9 +175,13 @@ def song_of(target: str, layer: str) -> str:
     if layer in layer_registry.SONG_LAYERS:
         return target                      # C1 and C2 are song-scoped
     m = re.match(r"^(.*?)-v\d+$", target)
-    if not m:
-        die(f"target {target!r} must be <song>-v<n> (or the song id for c1/c2)")
-    return m.group(1)
+    if m:
+        return m.group(1)
+    # Some older one-passage songs use the song ID as the verse ID. The
+    # canonical loader still requires the target to exist in that song file.
+    if isinstance(target,str) and re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9_.-]*',target):
+        return target
+    die(f"invalid target {target!r}")
 
 def load_original(work: str, layer: str, target: str):
     """Return (content, file) for the canonical layer content being edited."""

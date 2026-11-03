@@ -291,6 +291,24 @@ class ScholarImportTest(unittest.TestCase):
         finally:
             emit_scholar.ROOT = old_root
 
+    def test_l4_craft_requires_exact_match_to_the_public_layer(self):
+        path = self.root / 'paramarthasara/L4-test.DRAFT.json'
+        l4 = {'verse_id':'param-p01-v01','lines':['A song']}
+        path.write_text(json.dumps({'l4':l4,'craft':'Keep the turn'}))
+        old_root = emit_scholar.ROOT
+        emit_scholar.ROOT = self.root
+        try:
+            self.assertEqual(emit_scholar.song_craft('paramarthasara',{'l4':{}}),{})
+            self.assertEqual(emit_scholar.song_craft('paramarthasara',{'l4':{'param-p01-v01':{'verse_id':'param-p01-v01','lines':['Changed']}}}),{})
+            result=emit_scholar.song_craft('paramarthasara',{'l4':{'param-p01-v01':l4}})
+            self.assertEqual(result['param-p01-v01'][0]['notes']['craft'],'Keep the turn')
+        finally:
+            emit_scholar.ROOT = old_root
+
+    def test_legacy_single_passage_target(self):
+        self.assertEqual(scholar.song_of('pan-p01','l3'),'pan-p01')
+        self.assertEqual(scholar.song_of('param-p01-v01','l3'),'param-p01')
+
     def test_intake_emitter_uses_complete_source_and_withholds_stale_proof(self):
         raw = "शिवः शक्तिः".encode("utf-8")
         split = len("शिवः".encode("utf-8"))

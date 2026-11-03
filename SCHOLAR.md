@@ -1,5 +1,8 @@
 # SCHOLAR — versioned scholar work, signed review, and how it gets live
 
+For the gated source and L4 evidence projection, see
+`process/SCHOLAR-EVIDENCE-2026-11-03.md`.
+
 **Status:** existing hub SHIPPED · 2026-11-03 · canonical reference for `scholar/` ledgers, `tools/scholar.py`,
 `tools/emit_scholar.py` and the svread Scholar hub. Session history: `process/SCHOLAR-HUB-2026-11-03.md`.
 The v2 intake and submission service in this branch need a deployment before use by the live site.
