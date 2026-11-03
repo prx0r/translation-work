@@ -65,10 +65,9 @@ GRETIL source verse (sha-pinned)
 - **C1**: essence (+ optional rasa note) + standard essay; refers to all lower levels.
 - **L3**: final canonical translation; line-by-line evocative verse, every line
   traces to L0 + essence; no new claims, boundary items stay open with notes.
-  Readability is the contract: plain words, commas and colons only — no dashes
-  (`-`, `—`) and no slashes (`/`) anywhere in L3 lines. A transmission must read
-  aloud cleanly; hyphenated compounds and slash-alternatives are T1 habits, not
-  reading English. Rewrite, don't punctuate around. Names and terms keep exact
+  Readability is the contract: plain words, commas and colons — no slashes (`/`)
+  anywhere in L3 lines. Hyphens stay where they carry the poetry; beloved
+  compounds are voice, not defects. Names and terms keep exact
   Sanskrit diacritics (Śiva, Māyā); readability never costs exactness.
 - **C2**: prompt + style + maps_to; reproducibility is the contract.
 

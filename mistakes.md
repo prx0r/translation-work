@@ -46,12 +46,11 @@ The gate validates schema and round-trips, not prose quality or placement. It ca
 ## Rule 13: Display-only data types
 Anything not meant to be displayed to the reader does not belong in a display data type (T1, L0, argmap, L2, C1, C2). It belongs in a NOTE file (C1 NOTE, L2 NOTE, etc.). Display data types carry only what the site renders.
 
-## Rule 14: L3 reads aloud clean — no dashes, no slashes
-L3 is the transmission a reader reads straight through. No `-`/`—` and no `/`
-anywhere in L3 lines: plain words, commas and colons only. Hyphenated compounds
-(`cave-entered`, `mind-mirror`) and em-dash pauses are T1/L2 habits leaking into
-the reading layer — rewrite the line instead ("lodged in many caves",
-"shines in mind's mirror"). If a line needs a dash to scan, the line is unfinished.
+## Rule 14: L3 reads aloud clean — no slashes
+L3 is the transmission a reader reads straight through. No `/` anywhere in L3
+lines: slashes never survive the voice. Hyphens stay — beloved compounds
+(`bliss-essence`, `praise-bonds`, `churn-named`) read fine aloud and carry the
+poetry; em-dash pauses read as pauses. Plain words, commas and colons otherwise.
 Proper names and terms keep their exact Sanskrit diacritics (Śiva, Māyā, Śambhu):
 readability never costs exactness.
 
