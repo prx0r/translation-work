@@ -59,6 +59,10 @@ GRETIL source verse (sha-pinned)
 - **C1**: essence (+ optional rasa note) + standard essay; refers to all lower levels.
 - **L3**: final canonical translation; line-by-line evocative verse, every line
   traces to L0 + essence; no new claims, boundary items stay open with notes.
+  Readability is the contract: plain words, commas and colons only — no dashes
+  (`-`, `—`) and no slashes (`/`) anywhere in L3 lines. A transmission must read
+  aloud cleanly; hyphenated compounds and slash-alternatives are T1 habits, not
+  reading English. Rewrite, don't punctuate around.
 - **C2**: prompt + style + maps_to; reproducibility is the contract.
 
 ## Directory shape (per song, beside the legacy MD)
