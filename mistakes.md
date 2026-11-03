@@ -54,6 +54,15 @@ poetry; em-dash pauses read as pauses. Plain words, commas and colons otherwise.
 Proper names and terms keep their exact Sanskrit diacritics (Śiva, Māyā, Śambhu):
 readability never costs exactness.
 
+## Rule 16: L3 is rhythm — cadence is what makes a verse make sense
+Take the exact L3 and make it poetic through rhythm. A verse that will not scan
+will not parse: the ear gives up before the mind begins. So the final pass over
+every couplet is musical, not grammatical — stress, pause, return — and every
+inserted word ("is", "are", "be") must earn its place in the beat as well as the
+sense. This is the whole point of the grammar and translation underneath: exact
+words set to a rhythm the ear can follow. A couplet that is exact but unrhythmic
+is unfinished; a couplet that sings but adds claims is unfaithful. Both bars hold.
+
 ## 15. Read the whole stack before touching a layer — never rewrite a living voice unasked
 The Kramastotra L3 rewrite (2026-11-03): 30 loved couplets were replaced in one
 batch to satisfy a style rule, without re-reading C1, argmaps, or history — the
