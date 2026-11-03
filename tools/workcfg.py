@@ -130,6 +130,12 @@ WORKS = {
         "ahnika": 1,
         "songs": {"tsa-a01": (1, 5)},
     },
+    "tantrasara-a02": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # ahnika 2 = anupāya: 4 units (promise, recognition, four impossibilities, identity)
+        "ahnika": 2,
+        "songs": {"tsa-a02": (1, 4)},
+    },
 }
 
 

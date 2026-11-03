@@ -4,8 +4,8 @@
  "date": "2026-11-03",
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
- "total_works": 93,
- "gold": 20,
+ "total_works": 94,
+ "gold": 21,
  "partial": 0,
  "pending": 73,
  "works": [
@@ -768,6 +768,15 @@
    "has_process_log": false,
    "verses": 5,
    "note": "2026-11-04: full gold pipeline (T1/L0 238 tokens incl 6 added particles/Ø; argmap/L2/C1/L3/L4 5/5), validate+proof PASS, L3 diacritics-rule-14 clean, L4 song handcrafted w/ craft_notes; fork tsa-a01-v04-p045 resolved (asaṃkucita vs T1, OG+Chakravarty witnesses); NEEDS_WITNESS"
+  },
+  {
+   "work": "tantrasara-a02",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": false,
+   "verses": 4,
+   "note": "2026-11-04: full gold pipeline (T1/L0 72 tokens/argmap/L2/C1/L3/L4 4/4), validate+proof PASS x1, L3 diacritics-rule-14 clean, L4 song handcrafted w/ craft_notes; NEEDS_WITNESS"
   }
  ]
 }

@@ -1,0 +1,14 @@
+# Tantrasāra a02 — T1
+*Source: GRETIL KSTS 17 (Nirnaya Sagara 1918). FROZEN.*
+
+## tsa-a02-v01
+[and]-Now (atha) [and]-the-means-less-itself (anupāyam eva) [and]-first (tāvat) [and]-we-shall-expound (vyākhyāsyāmaḥ) // 1 //
+
+## tsa-a02-v02
+[and]-When (yadā khalu) [and]-pierced-by-firm-descent (dṛḍhaśaktipātāviddhaḥ) [and]-by-himself (svayam eva) [and]-thus (ittham) [and]-discriminates (vivecayati) [and]-having-heeded (avadhārya) [and]-the-teacher's-word (guruvacanam) [and]-once-only (sakṛd eva) [and]-then (tadā) [and]-means-devoid (upāyavirahitaḥ) [and]-ever-risen (nityoditaḥ) [and]-his-immersion (asya samāveśaḥ) // 2 //
+
+## tsa-a02-v03
+[and]-Here (atra ca) [and]-reason-itself-is-the-yoga-limb (tarkaḥ eva yogāṅgam) [and]-thus (iti) [and]-how (katham) [and]-does-he-discriminate (vivecayati) [and]-If-asked (iti cet) [and]-it-is-said (ucyate) [and]-this (yaḥ ayam) [and]-Lord (parameśvaraḥ) [and]-self-light-natured (svaprakāśarūpaḥ) [and]-own-self (svātmā) [and]-Therein (tatra) [and]-what (kim) [and]-is-done (kriyate) [and]-by-means (upāyena) [and]-Not-attainment-of-nature (na svarūpalābhaḥ) [and]-from-eternity (nityatvāt) [and]-not-notification (na jñaptiḥ) [and]-from-self-shiningness (svayaṃprakāśamānatvāt) [and]-not-removal-of-covering (na āvaraṇavigamaḥ) [and]-since-covering-of-any-kind-is-impossible (āvaraṇasya kasyacid api asaṃbhavāt) [and]-not-entry-into-it (na tadanupraveśaḥ) [and]-since-there-is-no-distinct-enterer (anupraveṣṭuḥ vyatiriktasya abhāvāt) // 3 //
+
+## tsa-a02-v04
+[and]-What-means-here (kaś ca atra upāyaḥ) [and]-of-it-too (tasyāpi) [and]-as-distinct (vyatiriktasya) [and]-impossibility (anupapatteḥ) [and]-Hence (tasmāt) [and]-all-this (samastam idam) [and]-one (ekam) [and]-consciousness-only-reality (cinmātratattvam) [and]-unmeasured-by-time (kālena akalitam) [and]-undelimited-by-place (deśena aparicchinnam) [and]-unfaded-by-attributes (upādhibhir amlānam) [and]-uncontrolled-by-forms (ākṛtibhir aniyantritam) [and]-unindicated-by-words (śabdair asaṃdiṣṭam) [and]-unelaborated-by-valid-means (pramāṇair aprapañcitam) [and]-and-the-cause-of-own-nature-attainment (svarūpa-lābhanimittam ca) [and]-of-time-to-valid-means (kālādeḥ pramāṇaparyantasya) [and]-by-own-will-alone (svecchayaiva) [and]-autonomous (svatantram) [and]-bliss-dense (ānandaghanam) [and]-reality (tattvam) [and]-that-itself (tad eva ca) [and]-I (aham) [and]-therein (tatra eva) [and]-within-me (antar mayi) [and]-the-universe (viśvam) [and]-reflected (pratibimbitam) [and]-For-one-thus-firmly-discriminating (evaṃ dṛḍhaṃ viviñcānasya) [and]-ever (śaśvad eva) [and]-Lordly-immersion (pārameśvaraḥ samāveśaḥ) [and]-means-less-itself (nirupāyakaḥ eva) [and]-for-it (tasya ca) [and]-no-constraint-at-all (na niyantraṇā kācit) [and]-by-mantra-worship-meditation-conduct (mantrapūjādhyānacaryādiniyantraṇā) // 4 //
