@@ -124,6 +124,12 @@ WORKS = {
         "kind": "spanda",  # own frozen T1.md; 13 tokens split 9/4 at rasayati (l2 verse division)
         "songs": {"sand-p01": (1, 2)},
     },
+    "tantrasara-a01": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # GRETIL KSTS 17 (Nirnaya Sagara 1918); ahnika 1 = 3 mangala + 2 prose units
+        "ahnika": 1,
+        "songs": {"tsa-a01": (1, 5)},
+    },
 }
 
 
@@ -943,6 +949,53 @@ def parse_paramartha(source: Path) -> tuple[dict[int, tuple[list[str], list[int]
     return verses, []
 
 
+def parse_abhts(source: Path) -> tuple[dict[tuple[int, int], tuple[list[str], list[int]]], list[tuple[int, str]]]:
+    """Parse GRETIL Tantrasara (`// AbhTs_A.N //` markers, prose + verse mixed).
+
+    Returns (ahnika, num) -> (tokens, [first_ln, marker_ln]). Each unit takes
+    all non-empty lines since the previous marker (or file start), excluding
+    ### provenance lines and `Tantrasāra, ... āhnikam` headers. Pāda marks
+    (|, /) stripped; wrap-hyphen continuations joined.
+    """
+    raw = source.read_text(encoding="utf-8").splitlines()
+    units: dict[tuple[int, int], tuple[list[str], list[int]]] = {}
+    buf: list[tuple[int, str]] = []
+
+    def toks_of(texts: list[str]) -> list[str]:
+        toks: list[str] = []
+        for t in texts:
+            t = re.sub(r"//.*", "", t)
+            t = t.replace("|", " ").replace("/", " ")
+            for wd in t.split():
+                if toks and toks[-1].endswith("-"):
+                    toks[-1] = toks[-1][:-1] + wd
+                else:
+                    toks.append(wd)
+        return [w for w in toks if w]
+
+    def flush(marker_ln: int, key: tuple[int, int]):
+        texts = [s for _, s in buf]
+        first_ln = buf[0][0] if buf else marker_ln
+        units[key] = (toks_of(texts), [first_ln, marker_ln])
+
+    for ln, line in enumerate(raw, start=1):
+        t = line.strip()
+        if not t or t.startswith("###"):
+            continue
+        if re.match(r"^Tantrasāra,.*āhnikam$", t):
+            continue
+        m = re.search(r"//\s*AbhTs_(\d+)\.(\d+)\s*(?://)?\s*$", t)
+        if m:
+            pre = t[:m.start()].strip()
+            if pre:
+                buf.append((ln, pre))
+            flush(ln, (int(m.group(1)), int(m.group(2))))
+            buf = []
+        else:
+            buf.append((ln, t))
+    return units, []
+
+
 def source_spans(work: str) -> dict[int, list[str]] | None:
     """Full-work source spans {verse: tokens} via workcfg, or None if unregistered.
 
@@ -983,6 +1036,10 @@ def source_spans(work: str) -> dict[int, list[str]] | None:
         spans, _ = parse_ghata(src)
     elif kind == "spanda":
         spans, _ = parse_spanda(src)
+    elif kind == "abhts":
+        units, _ = parse_abhts(src)
+        ahnika = cfg.get("ahnika", 1)
+        spans = {num: val for (a, num), val in units.items() if a == ahnika}
     else:
         return None
     return {v: toks for v, (toks, _) in spans.items()}

@@ -1,0 +1,82 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "tsa-a01",
+ "work": "tantrasara-a01",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v3 ratio=0.781",
+  "ALIGN_NODISP v4 ratio=0.115",
+  "ALIGN_NODISP v5 ratio=0.396"
+ ],
+ "warnings": [],
+ "source_sha": "a26a4b303853e0f6",
+ "source_verses": 5,
+ "t1_verses": 5,
+ "l0": {
+  "parsed": 232,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 232
+ },
+ "align": {
+  "min_ratio": 0.115,
+  "sub090": {
+   "3": {
+    "ratio": 0.781,
+    "disposition": null
+   },
+   "4": {
+    "ratio": 0.115,
+    "disposition": null
+   },
+   "5": {
+    "ratio": 0.396,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 6,
+ "c1_words": 216,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 5,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 5,
+   "l0": 232,
+   "argmap": 5,
+   "l2": 5,
+   "l3": 5,
+   "l4": 0,
+   "essence": 3,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v3",
+  "fix: word-order/gloss vs source for v4",
+  "fix: word-order/gloss vs source for v5"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "a26a4b303853e0f6",
+  "t1": "T1-tsa-a01.md",
+  "l0": "T1-tsa-a01.l0.jsonl",
+  "l2": "L2-tsa-a01.md",
+  "c1": "c1/C1-tsa-a01.md"
+ }
+}
