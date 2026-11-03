@@ -1,0 +1,69 @@
+{
+ "song": "anu-p01",
+ "song_craft": "Voice: anupāya couplets — denial-and-delight (5 of 8 sung; anu-p02..p04 BLOCKED: no L3 exists — flagged for owner). Arc: no-method (v1) → delight-in-variety (v5) → awakening (v6) → will-born glory (v7) → mirror seal: worship lordship (v8). Śānta throughout, ānanda coloring v5–v8. NOTE: verse_ids anu-p01.. collide corpus-wide with anubhavanivedana’s — files work-scoped (no overwrite), owner eyes needed on corpus id-uniqueness.",
+ "verses": [
+  {
+   "verse_id": "anu-p01",
+   "l4": {
+    "verse_id": "anu-p01",
+    "song": "anu-p01",
+    "verse": 1,
+    "lines": [
+     "No crossing here by method — no contemplation, no reasoned talk, no inquiry, no visualization, no fixing, no straining at mantra-practice.",
+     "So what stands well decided? Speak the highest truth — and hear it: neither renouncer nor possessor — enjoy happiness, all of it, abiding as you are."
+    ],
+    "sanskrit_cite": "saṃkrāmo 'tra na bhāvanā na ca kathāyuktir na carcā na ca dhyānaṃ vā na ca dhāraṇā na ca japābhyāsaprayāso na ca | tat kiṃ nāma suniścitaṃ vada paraṃ satyaṃ ca tac chrūyatām: na tyāgī na parigrahī — bhaja sukhaṃ sarvam yathāvasthitaḥ",
+    "l0_ids": [
+     "anu-p01-p000",
+     "anu-p01-p001",
+     "anu-p01-p002",
+     "anu-p01-p003",
+     "anu-p01-p004",
+     "anu-p01-p005",
+     "anu-p01-p006",
+     "anu-p01-p007",
+     "anu-p01-p008",
+     "anu-p01-p009",
+     "anu-p01-p010",
+     "anu-p01-p011",
+     "anu-p01-p012",
+     "anu-p01-p013",
+     "anu-p01-p014",
+     "anu-p01-p015",
+     "anu-p01-p016",
+     "anu-p01-p017",
+     "anu-p01-p018",
+     "anu-p01-p019",
+     "anu-p01-p020",
+     "anu-p01-p021",
+     "anu-p01-p022",
+     "anu-p01-p023",
+     "anu-p01-p024",
+     "anu-p01-p025",
+     "anu-p01-p026",
+     "anu-p01-p027",
+     "anu-p01-p028",
+     "anu-p01-p029",
+     "anu-p01-p030",
+     "anu-p01-p031",
+     "anu-p01-p032"
+    ],
+    "essence_maps": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "fidelity": "preserved",
+    "form": "couplet",
+    "needs": [
+     "human-review"
+    ],
+    "notes": []
+   },
+   "craft": "No-method named by performance (INF): denials-catalogue + question replaces hunt + two refusals + abide-command. suniścita/token opens kept per UNC. UPSTREAM NOTE: C1 essence lists 1 entry while L3 maps [0..3] — pre-existing L3/C1 mismatch, frozen both sides; L4 mirrors L3 exactly (subset rule), does not repair upstream.",
+   "rejected": "(a) labeling anupāya → killed: named-by-performance, never by label. (b) resolving opens → killed by UNC. (c) softening neither-nor → killed: refusals ARE the method.",
+   "reads": "argmap Q+INF (+UNC [\"Whether 'suniścita' (well-decided) is an adjective of truth or a separate noun is unresolved.\", \"Whether 'japābhyāsaprayāso na ca' is one token or several is unresolved (kept as printed).\"]) / C1 essence (len 1; L3 maps wider — upstream mismatch noted) / rasa śānta (tranquility) with adbhuta (wonder) / L2+L3 voice"
+  }
+ ]
+}

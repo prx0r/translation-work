@@ -1,0 +1,59 @@
+{
+ "song": "anu-p06",
+ "song_craft": "Voice: anupāya couplets — denial-and-delight (5 of 8 sung; anu-p02..p04 BLOCKED: no L3 exists — flagged for owner). Arc: no-method (v1) → delight-in-variety (v5) → awakening (v6) → will-born glory (v7) → mirror seal: worship lordship (v8). Śānta throughout, ānanda coloring v5–v8. NOTE: verse_ids anu-p01.. collide corpus-wide with anubhavanivedana’s — files work-scoped (no overwrite), owner eyes needed on corpus id-uniqueness.",
+ "verses": [
+  {
+   "verse_id": "anu-p06",
+   "l4": {
+    "verse_id": "anu-p06",
+    "song": "anu-p06",
+    "verse": 6,
+    "lines": [
+     "Past non-being, being, doing — things, always, suddenly, in this becoming, half-formed and mixed in change: what truth could they have?",
+     "In the untrue, restless, teeming, clever dream-delusion — past doubting, fearing, staining, and reason’s scheming: awake — become."
+    ],
+    "sanskrit_cite": "pūrvābhāvabhavakriyā hi sahasā bhāvāḥ sadā 'smin bhave madhyākāravikārasaṃkaravatāṃ teṣāṃ kutaḥ satyatā | niḥsatye capale prapañcanicaye svapnabhrame peśale śaṅkātaṅkakalaṅkayuktikalanātītaḥ prabuddho bhava",
+    "l0_ids": [
+     "anu-p06-p000",
+     "anu-p06-p001",
+     "anu-p06-p002",
+     "anu-p06-p003",
+     "anu-p06-p004",
+     "anu-p06-p005",
+     "anu-p06-p006",
+     "anu-p06-p007",
+     "anu-p06-p008",
+     "anu-p06-p009",
+     "anu-p06-p010",
+     "anu-p06-p011",
+     "anu-p06-p012",
+     "anu-p06-p013",
+     "anu-p06-p014",
+     "anu-p06-p015",
+     "anu-p06-p016",
+     "anu-p06-p017",
+     "anu-p06-p018",
+     "anu-p06-p019",
+     "anu-p06-p020",
+     "anu-p06-p021",
+     "anu-p06-p022",
+     "anu-p06-p023"
+    ],
+    "essence_maps": [
+     0,
+     1,
+     2
+    ],
+    "fidelity": "preserved",
+    "form": "couplet",
+    "needs": [
+     "human-review"
+    ],
+    "notes": []
+   },
+   "craft": "Whence-truth → dream-delusion → transcend-list → awake-become; peśala/bhava/madhyākāra opens kept. UPSTREAM NOTE: C1 essence len 1 vs L3 maps [0..2]; L4 mirrors L3.",
+   "rejected": "(a) clever-vs-cunning → killed by UNC. (b) become-mood resolve → killed. (c) scheming→planning → killed: scheming schemes.",
+   "reads": "argmap Q+INF (+UNC [\"Whether 'madhyākāra' means middle-formed or of middle-form is unresolved.\", \"Whether 'peśala' means clever or cunning is unresolved.\", \"Whether 'bhava' (become) is imperative or indicative is unresolved.\"]) / C1 essence (len 1; L3 maps wider — upstream mismatch noted) / rasa śānta (tranquility) with adbhuta (wonder) / L2+L3 voice"
+  }
+ ]
+}
