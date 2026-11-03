@@ -1,0 +1,57 @@
+{
+ "song": "s03",
+ "renders": [
+  {
+   "style": "eli5",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Explain the argument of this song as if to a bright 10-year-old. Use ONLY the claims in the ESSENCE list below; every paragraph must correspond to at least one essence item (record indices). Do not add doctrines, comparisons, meta-commentary, or quoted terms. ESSENCE: [0] The third beyond being and non-being: leap the two-yoked course; freedom contagious among the unfree — Thy hangers-on live free (vv01-02, v18). [1] Love's instruments: remembrance-medicine, begged moon-glance, heart-union vessel, flooding meditation, Śiva-din that routs pain — arrival roared and danced (vv03-11, v13). [2] Supremacy without second: moon-crowned high Lord, cancelled yogas, play-lake ocean, shamed miseries, beads told inside oneness, knower in known — closing keen and swoon (vv04, v12, vv14-17, vv19-21).",
+   "paragraphs": [
+    {
+     "text": "Leap clean over the two-yoked course of being and not-being, and bow to the Third: wonderful Shambhu. And here is the contagion part — gods, seers and men in this unfree triple world may be bound, but His hangers-on, the ones who live off Him alone, are free. Freedom spreads by contact.",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "Then loves instruments, one by one. Remembering His body, gem-set with the whole world: the one medicine for existence-pain — hold it and sit easy. Begging Him for one moon-sliver glance, luminous, cool, nectar-flowing. Hearts meeting His in union, the one high vessel of the ruling Ladies. Meditation-nectar flooding over low ground like water finding it. The ever-ringing Shiva-din that makes hard pains flee. Roaring and dancing when the Master is won — since He utterly delights.",
+     "maps_to": [
+      1
+     ]
+    },
+    {
+     "text": "And the supremacy with no second: the moon-crowned high Lord alone. No other yoga to do, no other knowing to get — Thou, all-one full Knowing, unfold. A great Person, shelter of persons, none left out. A play-lake for an ocean. Miseries shamed by His plain appearing. Beads told inside oneness, the knower inside the known — closing keen and swooning.",
+     "maps_to": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "style": "genz",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Render the argument of this song in a Gen-Z voice: direct, a little feral, zero cringe, no slang overload. Keep every doctrinal claim intact — voice changes, content does not. No new doctrines, no comparisons, no meta-commentary, no quoted terms. ESSENCE: [0] The third beyond being and non-being: leap the two-yoked course; freedom contagious among the unfree — Thy hangers-on live free (vv01-02, v18). [1] Love's instruments: remembrance-medicine, begged moon-glance, heart-union vessel, flooding meditation, Śiva-din that routs pain — arrival roared and danced (vv03-11, v13). [2] Supremacy without second: moon-crowned high Lord, cancelled yogas, play-lake ocean, shamed miseries, beads told inside oneness, knower in known — closing keen and swoon (vv04, v12, vv14-17, vv19-21).",
+   "paragraphs": [
+    {
+     "text": "Third beyond being/non-being: leap the two-yoked course; freedom contagious among the unfree — hangers-on live free.",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "Love’s instruments: remembrance-medicine, begged moon-glance, heart-union vessel, flooding meditation, Shiva-din routing pain; arrival roared and danced.",
+     "maps_to": [
+      1
+     ]
+    },
+    {
+     "text": "Supremacy without second: moon-crowned high Lord, cancelled yogas, play-lake ocean, shamed miseries, beads told inside oneness, knower in known — keen-and-swoon close.",
+     "maps_to": [
+      2
+     ]
+    }
+   ]
+  }
+ ]
+}

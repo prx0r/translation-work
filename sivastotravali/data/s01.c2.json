@@ -3,75 +3,52 @@
  "renders": [
   {
    "style": "eli5",
-   "prompt": "Explain the argument of this song as if to a bright 10-year-old. Use ONLY the claims in the ESSENCE list below; every paragraph must correspond to at least one essence item (record indices). Do not add doctrines, comparisons, meta-commentary, or quoted terms. ESSENCE: [0] The song establishes devotion without preparatory rule as valid, then proves it: since all beings desire the self and the self alone is consciousness, love directed at it stands on its own nature and needs no external ground. | [1] Knowing this by immersion is itself the conquest. | [2] The remaining verses draw the consequences — the world becomes ritual ground, every road works, localization of the goal in special states is the one deceit — and close by transfiguring the opening image: the dust-greyed mind, watered by devotion, fruits liberation.",
-   "model": "crystal-v1",
-   "date": "2026-11-01",
-   "status": "machine-proposed",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Explain the argument of this song as if to a bright 10-year-old. Use ONLY the claims in the ESSENCE list below; every paragraph must correspond to at least one essence item (record indices). Do not add doctrines, comparisons, meta-commentary, or quoted terms. ESSENCE: [0] Devotion stands rule-free and self-young: undawned by method, unaged by road-dust, at home in the Lord's city, thriving on every ground (vv1-6). [1] Its ground proved: all beings love the self, the self is consciousness — so love stands on its own nature; knowing this by drowning is conquest (v7). [2] Consequences drawn: the world turns ritual ground, joy/sorrow/bewilderment all become the road, special-state localization is the one cheat — closing with the pain-seed mind ripened to freedom's fruit (vv8-26).",
    "paragraphs": [
     {
-     "text": "You don't need to do special homework before you are allowed to love God. Why? Because what you love is your own deepest self — you already want it, the way you already want to be happy. Nothing extra has to happen first.",
+     "text": "Devotion does not wait for permission. Nobody has to meditate first, chant first, or finish any preparation: it can dawn for anyone, right away. And it keeps you young — drinking love’s nectar washes off the grey dust that the worlds roads leave on you.",
      "maps_to": [
       0
      ]
     },
     {
-     "text": "And just getting this — really soaking in it, not just hearing it — is already the win. There is no second step.",
+     "text": "Why is that legitimate? Because every being loves its own self, and the self simply is consciousness. So love aimed at the Lord stands on its own nature — nothing else needed. And knowing this, really drowning in it, is itself the conquest.",
      "maps_to": [
-      0
+      1
      ]
     },
     {
-     "text": "Once that clicks, everything else follows: the whole world turns into your prayer mat, every path works, and the only lie is thinking God lives only in some special place or time. Even your tired, dusty mind can bloom if you keep watering it with love.",
+     "text": "Then follow the consequences. The whole world turns into ritual ground. Joy, sorrow and bewilderment all become the road. The only scam is thinking God lives only in special states. And the mind that started out as a mere seed of pain ripens, watered by devotion, into the great fruit of freedom.",
      "maps_to": [
-      0
+      2
      ]
     }
    ]
   },
   {
    "style": "genz",
-   "prompt": "Render the argument of this song in a Gen-Z voice: direct, a little feral, zero cringe, no slang overload. Keep every doctrinal claim intact — voice changes, content does not. No new doctrines, no comparisons, no meta-commentary, no quoted terms.",
    "model": "translator-hand",
-   "date": "2026-11-01",
-   "status": "machine-proposed",
+   "date": "2026-11-04",
+   "prompt": "Render the argument of this song in a Gen-Z voice: direct, a little feral, zero cringe, no slang overload. Keep every doctrinal claim intact — voice changes, content does not. No new doctrines, no comparisons, no meta-commentary, no quoted terms. ESSENCE: [0] Devotion stands rule-free and self-young: undawned by method, unaged by road-dust, at home in the Lord's city, thriving on every ground (vv1-6). [1] Its ground proved: all beings love the self, the self is consciousness — so love stands on its own nature; knowing this by drowning is conquest (v7). [2] Consequences drawn: the world turns ritual ground, joy/sorrow/bewilderment all become the road, special-state localization is the one cheat — closing with the pain-seed mind ripened to freedom's fruit (vv8-26).",
    "paragraphs": [
     {
-     "text": "No prerequisites. You don't have to clean yourself up, learn the ritual, or wait until you're worthy before you're allowed to love God — because what you're loving is your own self, and wanting yourself is just default settings. No ground needed because there's nowhere else to stand.",
+     "text": "Devotion rule-free, self-young: undawned by method, unaged by road-dust, at home in His city, thriving on every ground.",
      "maps_to": [
       0
      ]
     },
     {
-     "text": "And actually getting that — in your body, not as a fact you memorized — is already the whole win. Soak over study.",
+     "text": "Ground proved: all beings love self, self is consciousness — love stands on own nature; knowing by drowning is conquest.",
      "maps_to": [
-      0
+      1
      ]
     },
     {
-     "text": "After that everything flips: the world is the temple now, every road counts, and the only scam is thinking God clocks in only at special times and places. Your dusty, busted-up mind? Water it with this and it fruits.",
+     "text": "Consequences drawn: world turns ritual ground, joy/sorrow/bewilderment all road, special-state localization the one cheat; pain-seed mind ripens to freedom-fruit.",
      "maps_to": [
-      0
-     ]
-    }
-   ]
-  },
-  {
-   "style": "testrun",
-   "prompt": "Say it plain.",
-   "model": "crystal-v1",
-   "date": "2026-11-01",
-   "status": "machine-proposed",
-   "paragraphs": [
-    {
-     "text": "First claim here.",
-     "maps_to": [
-      0
-     ]
-    },
-    {
-     "text": "Second claim here.",
-     "maps_to": [
-      0
+      2
      ]
     }
    ]

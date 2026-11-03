@@ -1,0 +1,45 @@
+{
+ "song": "s06",
+ "renders": [
+  {
+   "style": "eli5",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Explain the argument of this song as if to a bright 10-year-old. Use ONLY the claims in the ESSENCE list below; every paragraph must correspond to at least one essence item (record indices). Do not add doctrines, comparisons, meta-commentary, or quoted terms. ESSENCE: [0] Separation held in nearness: parted instants, pithed passing, held longing, and the final hunt — love kept unparted through parting (vv1-2, v5, v11). [1] Truth shown and won: body-speech-mind oneness, matched praise, melting clouds, jewel-light, ground everywhere, limb-embrace joy (vv3-4, vv6-10).",
+   "paragraphs": [
+    {
+     "text": "Being parted and being near happen at once. Though parted from the Ruler, though it be a mere instant, I burn thickly all the while: may I be ground for His glance. In parting-pithed passing — by You, dear Master — may I be ever unparted, though parted from the world.",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "And here is the truth that gets shown and won. Body, speech, mind: wherever I go with them, all is You alone — may this highest truth stand full for me, ever. Thought-free as You, great-bliss-full as You: so may my praise-making match, and only match. Held by You, seeing thing and thing made by You: may I roam longing-free, joy-brimmed. Lord, may I see the all-world full of Your being — with that alone content. Then no more wearing out. Melting in You alone like cloud-shreds in sky: may things shine for me, ever, step by step stainless. Self-light outspread, shattering the endless dark-train: shine for me ever, some jewel of Your being, from Your middle. What ground do You not rule? What could there be that is not Your body? Weary — thereby, by no effort, may I win You everywhere.",
+     "maps_to": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "style": "genz",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Render the argument of this song in a Gen-Z voice: direct, a little feral, zero cringe, no slang overload. Keep every doctrinal claim intact — voice changes, content does not. No new doctrines, no comparisons, no meta-commentary, no quoted terms. ESSENCE: [0] Separation held in nearness: parted instants, pithed passing, held longing, and the final hunt — love kept unparted through parting (vv1-2, v5, v11). [1] Truth shown and won: body-speech-mind oneness, matched praise, melting clouds, jewel-light, ground everywhere, limb-embrace joy (vv3-4, vv6-10).",
+   "paragraphs": [
+    {
+     "text": "Separation held in nearness: parted instants, pithed passing, held longing, final hunt — love kept unparted through parting.",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "Truth shown and won: body-speech-mind oneness, matched praise, melting clouds, jewel-light, ground everywhere, limb-embrace joy. Plus the addressed vow: Show plain, no other prayers; fainting, Thee alone hunted.",
+     "maps_to": [
+      1
+     ]
+    }
+   ]
+  }
+ ]
+}

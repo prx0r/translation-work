@@ -1,0 +1,57 @@
+{
+ "song": "s13",
+ "renders": [
+  {
+   "style": "eli5",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Explain the argument of this song as if to a bright 10-year-old. Use ONLY the claims in the ESSENCE list below; every paragraph must correspond to at least one essence item (record indices). Do not add doctrines, comparisons, meta-commentary, or quoted terms. ESSENCE: [0] Mark and frame: pain-joy mark heard, unshowing black wiped, live-die-or-else in His frame (vv1-3). [1] Work's fabric: lovers' pride shining, birth from nectar-telling, thought-seen-touched chain, grounded pair, sense-wine madness, known unknowns, quartered service, unweighed power-fall, shining beholding, palace rest, offered relish (vv4-13). [2] Widening close: all-widening flashing, whirling thing-ring, poison-nectar, prattle ditties, unwilled will, bottomless devouring entered and praised (vv14-20).",
+   "paragraphs": [
+    {
+     "text": "First the mark and the frame. In brief, Ruler: hear my pain-joy-mark. Joy is this: meeting You. Pain is this: parted from the Master. Even the subtlest inward spell when You do not appear — the Thee-unshowing spell inside even — her too, Ruler, wipe from all sides, and show Your own stainless shape. In Your frame — world-filled, knowing-nectar-sapped, unending — abiding, ever worshiping the Lord: live, die, else — be mine.",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "Then the works fabric, item by item. Lovers’ pride shining, birth from nectar-telling, thought-seen-touched chain, grounded pair, sense-wine madness, known unknowns, quartered service, unweighed power-fall, shining beholding, palace rest, offered relish.",
+     "maps_to": [
+      1
+     ]
+    },
+    {
+     "text": "Then the widening close. All-widening flashing, whirling thing-ring, poison-nectar, prattle ditties, unwilled will, bottomless devouring entered and praised.",
+     "maps_to": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "style": "genz",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Render the argument of this song in a Gen-Z voice: direct, a little feral, zero cringe, no slang overload. Keep every doctrinal claim intact — voice changes, content does not. No new doctrines, no comparisons, no meta-commentary, no quoted terms. ESSENCE: [0] Mark and frame: pain-joy mark heard, unshowing black wiped, live-die-or-else in His frame (vv1-3). [1] Work's fabric: lovers' pride shining, birth from nectar-telling, thought-seen-touched chain, grounded pair, sense-wine madness, known unknowns, quartered service, unweighed power-fall, shining beholding, palace rest, offered relish (vv4-13). [2] Widening close: all-widening flashing, whirling thing-ring, poison-nectar, prattle ditties, unwilled will, bottomless devouring entered and praised (vv14-20).",
+   "paragraphs": [
+    {
+     "text": "Mark and frame: pain-joy mark heard, unshowing black wiped, live-die-or-else in His frame.",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "Work’s fabric: lovers’ pride shining, birth from nectar-telling, thought-seen-touched chain, grounded pair, sense-wine madness, known unknowns, quartered service, unweighed power-fall, shining beholding, palace rest, offered relish.",
+     "maps_to": [
+      1
+     ]
+    },
+    {
+     "text": "Widening close: all-widening flashing, whirling thing-ring, poison-nectar, prattle ditties, unwilled will, bottomless devouring entered and praised.",
+     "maps_to": [
+      2
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "s20",
+ "renders": [
+  {
+   "style": "eli5",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Explain the argument of this song as if to a bright 10-year-old. Use ONLY the claims in the ESSENCE list below; every paragraph must correspond to at least one essence item (record indices). Do not add doctrines, comparisons, meta-commentary, or quoted terms. ESSENCE: [0] Bow catalogue: catalogued Lord, dance-ready praise, Hara-housed fortunes, played lordship, honoured seat (vv1-5). [1] Paradox middle: Gauri-lover favoured, being-tree creepers, itch-born worship, gone roamings, begged riches, pang-joys, rooted sinking, speech-jewel, effortless ripening (vv6-13). [2] Closing seal: awaited light, slave-mouth Śiva, lit showings, guzzled breathers, sham ruin-ties, self-standing frames, night-dancing heroes, begun endless praise (vv14-21).",
+   "paragraphs": [
+    {
+     "text": "The bow catalogue opens it. Bow to the three-worlds’ Lord, ash-pale, three-eyed, trident-wielding, snake-threaded, moon-crested: I bow. I praise, self-forgetting, white-robed in bite-torn cloth, dancing to the tune of the skull-garland: feast-ready. Bow to those whose god is Hara, whose stirs are Hara-fit, Hara-alone-bent breaths ever: fortune’s houses. Your play, behind lordship — and this too, as wished-fulfilled in gifts, by self I reach the supreme means. In Your world-venerated abode, in this play: how great would my bliss-birth be?",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "The paradox middle. How could He not be fortunate — who is Gauri’s lover, Hara? And how could Hara not be Gauri’s supreme beloved? Whose meditation-nectar is undying, self-rooted, ever-fresh: consciousness-creepers, like some being-tree. At devotion-itch’s showing, Lord’s pillar-firmness arises: by it the world, great festival, is won. Ever to creation-sport, ever seated in staying-pleasure, ever world-eating-sated: to the Master, bow. Nowhere gone, nothing left: who just this, see Your abode as to-be here — fortunate: to them bow, bow. For the devotion-fortuned, what else is begged; for the devotion-poor, what else is begged? Where pains turn pleasures, poison turns nectar, saṃsāra turns liberation: that path is He, Kind-Maker. At root, middle, end: no suffering for Your people — yet we sink, Lord: tell why?",
+     "maps_to": [
+      1
+     ]
+    },
+    {
+     "text": "The closing seal. Light is worth begging even by beginners in knowledge-yoga: You, Lord of devotees, are like the light of the free. Devotees have no prayers, no remembrance of You the self — yet this Shiva of theirs, something, on the lip. Who lights all appearances, wrapped in vimarsha: I am this — so I praise Your action-power, Lord. All beings, from BrahmA to Vishnu, being devoured: so I bow, God, to the world as Your-formed. All beyond me is false, by relation to destruction: thus engaged, Lord, by Your destruction-play alone. Meditated, Your form stands present for devotion-rich: unconquered by unthinkable-wonder-makers. By Your devotion-wine-taste nerves’ thrill, night-heroes dance, roused by vetAlas. The praise begun with this limb of mine: by it may all this time be firmly unending.",
+     "maps_to": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "style": "genz",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Render the argument of this song in a Gen-Z voice: direct, a little feral, zero cringe, no slang overload. Keep every doctrinal claim intact — voice changes, content does not. No new doctrines, no comparisons, no meta-commentary, no quoted terms. ESSENCE: [0] Bow catalogue: catalogued Lord, dance-ready praise, Hara-housed fortunes, played lordship, honoured seat (vv1-5). [1] Paradox middle: Gauri-lover favoured, being-tree creepers, itch-born worship, gone roamings, begged riches, pang-joys, rooted sinking, speech-jewel, effortless ripening (vv6-13). [2] Closing seal: awaited light, slave-mouth Śiva, lit showings, guzzled breathers, sham ruin-ties, self-standing frames, night-dancing heroes, begun endless praise (vv14-21).",
+   "paragraphs": [
+    {
+     "text": "Bow catalogue: catalogued Lord, dance-ready praise, Hara-housed fortunes, played lordship, honoured seat.",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "Paradox middle: Gauri-lover favoured, being-tree creepers, itch-born worship, gone roamings, begged riches, pang-joys, rooted sinking, speech-jewel, effortless ripening.",
+     "maps_to": [
+      1
+     ]
+    },
+    {
+     "text": "Closing seal: awaited light, slave-mouth Shiva, lit showings, guzzled breathers, sham ruin-ties, self-standing frames, night-dancing heroes, begun endless praise.",
+     "maps_to": [
+      2
+     ]
+    }
+   ]
+  }
+ ]
+}

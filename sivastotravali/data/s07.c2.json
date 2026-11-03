@@ -1,0 +1,57 @@
+{
+ "song": "s07",
+ "renders": [
+  {
+   "style": "eli5",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Explain the argument of this song as if to a bright 10-year-old. Use ONLY the claims in the ESSENCE list below; every paragraph must correspond to at least one essence item (record indices). Do not add doctrines, comparisons, meta-commentary, or quoted terms. ESSENCE: [0] Melting and entry: same-sap minds dropping disaster, axes of certainty on passion's root, melting stain-strings (vv1-3). [1] Mother and ripening: wallowing fed sap on sap to sky-going, connoisseurship won, mind-jewel spark-shed (vv4-6). [2] Station won: full-throated hymning past waiting gods, whole-sensed seeing, wed mind-lad hardening mine-thought (vv7-9).",
+   "paragraphs": [
+    {
+     "text": "Melting first, then entry. Come to same-sap in You, bliss-river: may my mind drop in one go this great disaster of difference-dependence. Mine this, not that: on passion-hate’s fetter-hard root, may the axe fall within — certainty of Thee-made oneness. Melt, thought-stain-string; sport, unboltedness, in heart. Bliss-sap-flooded be my knowing-made form.",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "Then mother, then ripening. Me, wallowing in passion’s world-egg: O Your-love-thought Mother, plump me with sap on sap, that wing-grown I turn sky-goer. May this mind of mine win connoisseurship — savoring Your-foot-thought-nectar-sap’s pith — till sense-poison-clinging hankers no more. By Your-love-sun’s ray-touch may this mind-jewel of mine shed far off passion-kindled fire-sparks.",
+     "maps_to": [
+      1
+     ]
+    },
+    {
+     "text": "Then the station, won. In that station may I hymn You ever, full-throated — where Vishnu, Indra, Brahma wait outside. By whirl born of love’s whirl may I see, senses whole: the all-world Shiva-made, all doings worship-made. My mind-lad has wed Your-love-clan’s lady; she has borne him power-sons. Firm-rooted, may she harden the mine-thought.",
+     "maps_to": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "style": "genz",
+   "model": "translator-hand",
+   "date": "2026-11-04",
+   "prompt": "Render the argument of this song in a Gen-Z voice: direct, a little feral, zero cringe, no slang overload. Keep every doctrinal claim intact — voice changes, content does not. No new doctrines, no comparisons, no meta-commentary, no quoted terms. ESSENCE: [0] Melting and entry: same-sap minds dropping disaster, axes of certainty on passion's root, melting stain-strings (vv1-3). [1] Mother and ripening: wallowing fed sap on sap to sky-going, connoisseurship won, mind-jewel spark-shed (vv4-6). [2] Station won: full-throated hymning past waiting gods, whole-sensed seeing, wed mind-lad hardening mine-thought (vv7-9).",
+   "paragraphs": [
+    {
+     "text": "Melting and entry: same-sap minds dropping disaster, axes of certainty on passion’s root, melting stain-strings.",
+     "maps_to": [
+      0
+     ]
+    },
+    {
+     "text": "Mother and ripening: wallowing fed sap on sap to sky-going, connoisseurship won, mind-jewel spark-shed.",
+     "maps_to": [
+      1
+     ]
+    },
+    {
+     "text": "Station won: full-throated hymning past waiting gods, whole-sensed seeing, wed mind-lad hardening mine-thought.",
+     "maps_to": [
+      2
+     ]
+    }
+   ]
+  }
+ ]
+}
