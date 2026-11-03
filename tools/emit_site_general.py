@@ -92,6 +92,9 @@ def main() -> int:
     ap.add_argument("--work", required=True)
     ap.add_argument("--force", action="store_true",
                     help="overwrite site-lane l1/l2 hand fixes (default: preserve them)")
+    ap.add_argument("--adopt", action="store_true",
+                    help="migrate an ingest-shaped work to crystal output; the original "
+                         "ingest record is ARCHIVED to site/data/translations/_ingest/ (never lost)")
     args = ap.parse_args()
     w = ROOT / args.work
     data = w / "data"
@@ -128,9 +131,17 @@ def main() -> int:
     # (song-grained chunks with en_variants/checks/styles). Rewriting those with
     # this emitter destroys their fields and granularity — refuse loudly.
     if prior and any(("en_variants" in c or "ahnika" in c) for c in prior.values()):
-        print(f"REFUSING {args.work}: site data is ingest-shaped (en_variants/ahnika) — "
-              "produced by ipvv tools/ingest_batch.py, not this emitter")
-        return 2
+        if not args.adopt:
+            print(f"REFUSING {args.work}: site data is ingest-shaped (en_variants/ahnika) — "
+                  "produced by ipvv tools/ingest_batch.py, not this emitter "
+                  "(use --adopt to migrate and archive the original)")
+            return 2
+        arch = SITE / "translations" / "_ingest"
+        arch.mkdir(parents=True, exist_ok=True)
+        (arch / f"{args.work}.json").write_text(
+            json.dumps(prior, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"ADOPT {args.work}: ingest original archived -> {arch}/{args.work}.json; crystal wins")
+        prior = {}
     chunks = []
     argdir = SITE / "argmaps" / args.work
     argdir.mkdir(parents=True, exist_ok=True)
