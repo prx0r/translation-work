@@ -52,3 +52,6 @@ anywhere in L3 lines: plain words, commas and colons only. Hyphenated compounds
 (`cave-entered`, `mind-mirror`) and em-dash pauses are T1/L2 habits leaking into
 the reading layer — rewrite the line instead ("lodged in many caves",
 "shines in mind's mirror"). If a line needs a dash to scan, the line is unfinished.
+Everything in L3 is read aloud by TTS: plain ASCII only, no diacritics
+(`Siva` not `Śiva`, `Maya` not `Māyā`) — a character the voice cannot pronounce
+is a defect in the line.

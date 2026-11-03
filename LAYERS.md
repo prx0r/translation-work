@@ -68,7 +68,8 @@ GRETIL source verse (sha-pinned)
   Readability is the contract: plain words, commas and colons only — no dashes
   (`-`, `—`) and no slashes (`/`) anywhere in L3 lines. A transmission must read
   aloud cleanly; hyphenated compounds and slash-alternatives are T1 habits, not
-  reading English. Rewrite, don't punctuate around.
+  reading English. Rewrite, don't punctuate around. Everything in L3 is read
+  aloud by TTS: plain ASCII only, no diacritics.
 - **C2**: prompt + style + maps_to; reproducibility is the contract.
 
 ## Directory shape (per song, beside the legacy MD)
