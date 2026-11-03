@@ -1,5 +1,11 @@
 # TARGETS — crystal queue (one at a time)
 
+## Triage 2026-11-04 (L3/L4/C2/proof campaigns complete)
+- L4: 163/163 songs sung + merged + gate green. C2: 163/163 (eli5+genz, tagged) + gate green. Proofs refreshed all 21 gold works.
+- Tier 2 next: **stavacintamani** (120v/12 passages; richest legacy materials: T1 frozen+pada-split, T1.l0.jsonl, ARGMAP.md + per-passage files, L2.v2 verse-by-verse, C1.v2, lore search done 2026-11-04).
+- Known coverage gap (logged, not smoothed): corpus holds vv2–120; v1 maṅgala (BhStC_1) absent everywhere — fetch + byte-verify at T1 step before transform; do not reconstruct from pada incipits.
+- Remaining queue unchanged below.
+
 *Updated 2026-11-02 (Tier 1 complete, 18 gold). Rewritten earlier 2026-11-02: prior edition (2026-11-01) was stale — it listed old-format works as gold, showed anubhavanivedana/paramarthacarca as "no repo dir", and sivastotravali as partial. "Gold" below = canonical data pipeline (T1/L0/argmap/L2/C1/L3 JSON + validate + proof PASS), matching REGISTRY.json. Old-format works with full legacy pipelines are ranked as transform candidates, shortest first.*
 
 ## Gold (done — 18 works, canonical pipeline)
