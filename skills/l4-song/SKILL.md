@@ -30,7 +30,11 @@ Failure log: `mistakes.md` #17. Validator: `schemas/l4.py`.*
    `craft_notes` (every edit + reason + Abhinavagupta frame + read-aloud
    audit + corrections like stay→ground) and `reads_against` (the exact
    layer readings used). A justification written after the fact is decoration;
-   write it as you compose.
+   write it as you compose. **Name the rejected options**: every real
+   alternative you considered (a diction swap, a different line-break, a
+   kept-vs-dropped particle, a refrain placement) with the reason it lost —
+   which layer, row, or read-aloud fact killed it. A choice with no named
+   rival is a preference, not a decision.
 6. **Validate, then confess.** Schema (no `/`, exact diacritics Śiva/Māyā/
    Śambhu, traces exist, essence in range) + subset vs L3 + coverage when the
    song completes. Any failure is flagged to the owner WITH the beauty-reason

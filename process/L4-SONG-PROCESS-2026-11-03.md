@@ -36,7 +36,12 @@ authority the rest is ideas"*
    style.
 5. **Justify verse by verse**, saved with the verse (craft_notes +
    reads_against, DRAFT-file form): every edit with its reason, the
-   Abhinavagupta frame it serves, the read-aloud audit.
+   Abhinavagupta frame it serves, the read-aloud audit — **plus the
+   rejected options**: each genuine alternative considered (diction swap,
+   line-break, kept/dropped particle, refrain placement, close-shape)
+   with the exact reason it lost (which layer, transmission-table row,
+   or read-aloud fact killed it). A choice with no named rival is a
+   preference, not a decision.
 6. **Validate, then confess.** Run the l4 schema + subset checks. Anything
    that fails is flagged to the owner with the beauty-reason, never silently.
    Beauty may break rules; it may not hide the breakage.
