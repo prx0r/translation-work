@@ -1,11 +1,11 @@
 {
  "canonical": "FINAL-PROCESS.md",
  "version": "1.0.0",
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 92,
- "gold": 18,
+ "gold": 19,
  "partial": 0,
  "pending": 84,
  "works": [
@@ -174,11 +174,12 @@
   },
   {
    "work": "paramarthasara",
-   "status": "tier-1 (verify only, legacy format)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 105,
+   "note": "2026-11-03: full gold pipeline (T1/L0 1253 tokens/argmap/L2/C1 105/105, 12 songs, no L3 by decision), validate+proof PASS x12, T1 handcrafted pada-split from GRETIL (ESSAY_A/Bansat/Lakshmanjoo/Pandit as witnesses only, read-close-write); v1 recovered (legacy lacked it); print dots/elisions/joints logged; QA NEEDS_WITNESS"
   },
   {
    "work": "paratrimshika",

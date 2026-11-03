@@ -31,7 +31,7 @@ All seven Tier-1 works transformed to gold this session (parapravesika, bodhapan
 
 ## Queue — Tier 2: verify / rebuild — **NEXT**
 
-Next target: paramarthasara (104 verses, verify-only) — smallest lift with repo present.
+paramarthasara DONE 2026-11-03 — gold #19 (105 verses, full transform; v1 recovered). Next: stavacintamani (120 verses, rebuild) or ptvmadhyama (T1 rebuild first).
 
 ## Queue — Tier 2 detail: verify / rebuild
 

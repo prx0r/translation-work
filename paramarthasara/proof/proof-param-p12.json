@@ -1,0 +1,62 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "param-p12",
+ "work": "paramarthasara",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "14e9f4fbdc63fe62",
+ "source_verses": 5,
+ "t1_verses": 5,
+ "l0": {
+  "parsed": 59,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 59
+ },
+ "align": {
+  "min_ratio": 0.928,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 2,
+ "c1_words": 67,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 5,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 5,
+   "l0": 59,
+   "argmap": 5,
+   "l2": 5,
+   "l3": 0,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "14e9f4fbdc63fe62",
+  "t1": "T1-param-p12.md",
+  "l0": "T1-param-p12.l0.jsonl",
+  "l2": "L2-param-p12.md",
+  "c1": "c1/C1-param-p12.md"
+ }
+}

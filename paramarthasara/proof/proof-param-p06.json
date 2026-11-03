@@ -1,0 +1,67 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "param-p06",
+ "work": "paramarthasara",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "df5343743a881426",
+ "source_verses": 9,
+ "t1_verses": 9,
+ "l0": {
+  "parsed": 103,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 103
+ },
+ "align": {
+  "min_ratio": 0.889,
+  "sub090": {
+   "53": {
+    "ratio": 0.889,
+    "disposition": "sandhi/split-class: ṃ/m, t/d voicings, visarga, elisions, a+i=e fusion split; order verified token-by-token vs source 2026-11-03"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 2,
+ "c1_words": 109,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 9,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 9,
+   "l0": 103,
+   "argmap": 9,
+   "l2": 9,
+   "l3": 0,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "df5343743a881426",
+  "t1": "T1-param-p06.md",
+  "l0": "T1-param-p06.l0.jsonl",
+  "l2": "L2-param-p06.md",
+  "c1": "c1/C1-param-p06.md"
+ }
+}

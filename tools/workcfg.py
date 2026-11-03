@@ -79,6 +79,14 @@ WORKS = {
                   "pary-p04": (21, 27), "pary-p05": (28, 33), "pary-p06": (34, 39),
                   "pary-p07": (40, 46), "pary-p08": (47, 52)},
     },
+    "paramarthasara": {
+        "source": SITE_SA / "paramarthasara.txt",
+        "kind": "paramartha",  # GRETIL KSTS 7; 105 verses (`|| N ||`), 12 passages (p01 = 1-10)
+        "songs": {"param-p01": (1, 10), "param-p02": (11, 19), "param-p03": (20, 28),
+                  "param-p04": (29, 37), "param-p05": (38, 46), "param-p06": (47, 55),
+                  "param-p07": (56, 64), "param-p08": (65, 73), "param-p09": (74, 82),
+                  "param-p10": (83, 91), "param-p11": (92, 100), "param-p12": (101, 105)},
+    },
     # Legacy hand-built works (2026-11-01): canonical Sanskrit lives in the
     # work's own frozen T1.md (per-song chains); t1md kind parses those.
     "pancashloki": {
@@ -884,6 +892,57 @@ def parse_spanda(source: Path) -> tuple[dict[int, tuple[list[str], list[int]]], 
     return {1: (toks[:cut], lines), 2: (toks[cut:], lines)}, []
 
 
+def parse_paramartha(source: Path) -> tuple[dict[int, tuple[list[str], list[int]]], list[tuple[int, str]]]:
+    """Parse GRETIL Paramarthasara (105 verses, `|| N ||` markers, KSTS 7).
+
+    Returns verse 1..105 -> (tokens, [first_ln, marker_ln]). Each verse takes
+    the marker line's pre-text + up to 3 preceding pada lines (ending in |).
+    """
+    raw = source.read_text(encoding="utf-8").splitlines()
+    lines = {i + 1: ln for i, ln in enumerate(raw)}
+    verses: dict[int, tuple[list[str], list[int]]] = {}
+
+    def toks_of(texts: list[str]) -> list[str]:
+        toks: list[str] = []
+        for t in texts:
+            t = re.sub(r"\|\|", " ", t)
+            for wd in t.split():
+                if wd in ("|", "/"):
+                    continue
+                if toks and toks[-1].endswith("-"):
+                    toks[-1] = toks[-1][:-1] + wd
+                else:
+                    toks.append(wd)
+        return [w for w in toks if w not in ("|", "/")]
+
+    for ln, line in lines.items():
+        m = re.search(r"\|\|\s*(\d+)\s*\|\|\s*$", line)
+        if not m:
+            continue
+        n = int(m.group(1))
+        if not 1 <= n <= 105 or n in verses:
+            continue
+        buf: list[str] = []
+        j = ln - 1
+        while j >= 1 and len(buf) < 3:
+            t = lines[j].strip()
+            if not t or t.startswith("#"):
+                j -= 1
+                continue
+            if re.search(r"\|\|\s*\d+\s*\|\|", t):
+                break
+            buf.append(t)
+            if not t.rstrip().endswith("|"):
+                break
+            j -= 1
+        buf.reverse()
+        pre = line[:m.start()]
+        if pre.strip():
+            buf.append(pre)
+        verses[n] = (toks_of(buf), [ln - len(buf), ln])
+    return verses, []
+
+
 def source_spans(work: str) -> dict[int, list[str]] | None:
     """Full-work source spans {verse: tokens} via workcfg, or None if unregistered.
 
@@ -916,6 +975,8 @@ def source_spans(work: str) -> dict[int, list[str]] | None:
         spans, _ = parse_bhairavanukarana(src)
     elif kind == "paryanta":
         spans, _ = parse_paryanta(src)
+    elif kind == "paramartha":
+        spans, _ = parse_paramartha(src)
     elif kind == "t1md":
         spans, _ = parse_t1md(src)
     elif kind == "ghata":

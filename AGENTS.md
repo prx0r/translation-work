@@ -15,7 +15,7 @@ FINAL-PROCESS.md (THE canonical process, no deviations). The skill is
 skills/crystal-ipvv/SKILL.md (the ONLY authorized workflow). The examples are
 skills/crystal-ipvv/EXAMPLES.md (per-datatype prompts + good/bad exhibits).
 The gate is check.py (exit 0 = canonical, else fix what it names).
-The registry is REGISTRY.json (11 gold, 1 partial, 82 pending).
+The registry is REGISTRY.json (18 gold, 74 pending).
 
 ## The Skill (the law)
 
@@ -129,7 +129,7 @@ lore/concepts/ — one JSON per concept (definition, tradition, rasa, sources, w
 
 ## Prior Translations
 
-All prior translations (40+ works in this repo + 26 ipvv site translations) are NOT lost. They are STAGED — awaiting transformation to gold standard, one by one, with peer review and web searches. Each transformation follows the steps above. The registry tracks which are done and which are pending. 11 gold, 1 partial (sivastotravali 5/20), 82 pending.
+All prior translations (40+ works in this repo + 26 ipvv site translations) are NOT lost. They are STAGED — awaiting transformation to gold standard, one by one, with peer review and web searches. Each transformation follows the steps above. The registry tracks which are done and which are pending. 18 gold, 74 pending.
 
 ## The Gate
 
