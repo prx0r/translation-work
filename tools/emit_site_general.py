@@ -8,6 +8,35 @@ ROOT = Path("/root/translation-work")
 SITE = Path("/root/ipvv/site/data")
 
 
+def checks_from_proof(p) -> dict:
+    """Batch-style checks dict ([bool, note] pairs) derived from a proof record.
+    Receipts gate on this (qp checks-pass); the proof facts already exist — this
+    only names them. Batch-supplied checks win when present (ingest shape)."""
+    if not isinstance(p, dict):
+        return {}
+    if p.get("checks"):
+        return p["checks"]
+    l0 = p.get("l0") or {}
+    al = p.get("align") or {}
+    cites = p.get("l2_cites") or {}
+    dob = p.get("data_objects") or {}
+    return {
+        "GATE": [p.get("deterministic_gate") == "PASS", str(p.get("deterministic_gate"))],
+        "L0_PARSED": [l0.get("failed", 1) == 0,
+                      f"{l0.get('parsed', 0)} parsed, {l0.get('failed', 0)} failed"],
+        "ALIGNMENT": [float(al.get("min_ratio", 0)) >= 0.9 and not al.get("sub090"),
+                      f"min_ratio={al.get('min_ratio', '?')}"],
+        "L2_CITES": [cites.get("checked", 0) > 0 and not cites.get("failures"),
+                     f"{cites.get('checked', 0)} cites, {len(cites.get('failures') or [])} failures"],
+        "C1_NO_QUOTES": [p.get("c1_quotes", 1) == 0, f"{p.get('c1_quotes', '?')} quotes"],
+        "C1_NO_SHARED": [not p.get("c1_l2_shared"),
+                         f"{len(p.get('c1_l2_shared') or [])} shared-with-L2"],
+        "C1_NO_METACOMMENTARY": [not p.get("c1_metacommentary"),
+                                 f"{len(p.get('c1_metacommentary') or [])} metacomments"],
+        "DATA_OBJECTS": [not dob.get("errors"), f"{len(dob.get('errors') or [])} errors"],
+    }
+
+
 def clean_site_text(s: str) -> str:
     """Site display text: strip trailing translator fidelity footer
     (*Fidelity: ... Added: ... Not-resolved: ...) — provenance that lives
@@ -149,6 +178,7 @@ def main() -> int:
                 if cite:
                     verse_sa = clean_site_sanskrit(cite)
             ch = {"chunk": vid, "verses": str(vn), "sanskrit": verse_sa,
+                  "checks": checks_from_proof(proof),
                   "gate": gate, "blocking": proof.get("blocking", []),
                   "needs": needs,
                   "model": "crystal-v1", "date": proof.get("date", "2026-11-01"),
@@ -202,14 +232,16 @@ def main() -> int:
                 else:
                     amd.write_text("\n".join(lines) + "\n", encoding="utf-8")
         # C1: pristine display (SUMMARY + rasa) + scholar NOTE alongside.
-        # Single-verse songs only (vid == song); multi-verse C1 stays song-level
-        # until verse-level C1s exist — never duplicate one essay across verses.
-        if c1_path.exists() and len(t1) == 1:
+        # ONE copy per song, attached to the song's first verse (single-verse
+        # songs unchanged: vid == song). Data never duplicates the essay;
+        # svread's c1 lane fans it out to the song's other verses.
+        first_vid = t1[0].get("verse_id") or vid
+        if c1_path.exists():
             c1 = json.loads(c1_path.read_text())
             std = ((c1.get("renders") or {}).get("standard") or {}).get("sections") or {}
             summ = (std.get("SUMMARY") or "").strip()
             rasa = c1.get("rasa") or {}
-            clines = [f"## {vid} — C1", ""]
+            clines = [f"## {first_vid} — C1", ""]
             if summ:
                 clines += [f"**SUMMARY.** {summ}", ""]
             if rasa.get("dominant"):
@@ -217,10 +249,10 @@ def main() -> int:
                            + (f" — {rasa.get('justification','')}" if rasa.get("justification") else "")
                            + "*", ""]
             if len(clines) > 2:
-                (c1dir / f"{vid}.md").write_text("\n".join(clines), encoding="utf-8")
+                (c1dir / f"{first_vid}.md").write_text("\n".join(clines), encoding="utf-8")
             notef = data / f"{song}.c1.NOTE.md"
             if notef.exists():
-                (c1dir / f"{vid}.NOTE.md").write_text(notef.read_text(encoding="utf-8"),
+                (c1dir / f"{first_vid}.NOTE.md").write_text(notef.read_text(encoding="utf-8"),
                                                      encoding="utf-8")
         songs += 1
     out = SITE / "translations" / f"{args.work}.json"

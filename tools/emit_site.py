@@ -25,7 +25,7 @@ def main() -> int:
 
     sys.path.insert(0, str(ROOT / "tools"))
     from proof_record import load_gretil_song  # noqa: E402
-    from emit_site_general import clean_site_sanskrit  # noqa: E402
+    from emit_site_general import clean_site_sanskrit, checks_from_proof  # noqa: E402
     try:
         from workcfg import WORKS as _WORKS, song_verses as _song_verses, source_spans as _source_spans
     except ImportError:
@@ -110,6 +110,7 @@ def main() -> int:
             else:
                 l1, l2t = "", ""
             ch = {"chunk": vid, "verses": str(vn), "sanskrit": satext,
+                  "checks": checks_from_proof(proof),
                   "gate": gate, "blocking": proof.get("blocking", []),
                   "needs": needs,
                   "model": "crystal-v1", "date": proof.get("date", "2026-11-01"),
@@ -150,7 +151,7 @@ def main() -> int:
                     for oc in ao["option_choices"]:
                         lines.append(f"- {oc['l0_id']}: chose option {oc['chosen_index']} "
                                        f"over {', '.join(str(r) for r in oc.get('rejected', []))} — {oc['reason']}")
-                                amd = argdir / f"{vid}.md"
+                amd = argdir / f"{vid}.md"
                 if amd.exists():
                     pass      # keep site-lane argmap view (hand-crafted per-verse notes; never clobber)
                 else:
