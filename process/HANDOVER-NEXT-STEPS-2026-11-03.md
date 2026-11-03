@@ -72,4 +72,11 @@ Done since writing this file (all merged + released):
 - [x] §C7 **`tools/readiness.py` shipped** — 21-work burn-down matrix; every work's L4site now complete (all 21); **only signoffs remain between any work and READY** (param 1/12, rest 0)
 - [x] §C8 ingest adoption: ajadapramatrsiddhi/sambandhasiddhi/isvarasiddhi migrated to crystal via `emit_site_general --adopt` (originals archived `site/data/translations/_ingest/`), trace 1240/0
 
-Still open: §B owner gates (ORCID step, Zenodo token, param signoffs 2–12, pushing probe) · §C8 warnings burn-down · §C9 Qwen WS proxy · §C10 web-save endpoint (scholar lane — coordinate).
+## Status updates (2026-11-03, later session)
+
+- **§C8 warnings burn-down: DONE** — verify_site 89 → 1 warn (the one left is real: tantrasara C1-head 540w, pipeline lane). STAGED sweep on 49 WORK.md DONE-with-0 claims (audit F1 finally applied); 55 whole-ahnika C1-full essays catalogued as one INFO line (band n/a).
+- **§B ORCID: skeleton LIVE** — worker `/api/auth/orcid/start|callback` deployed (HMAC state, token exchange, link-or-create by verified iD), **503 until owner pastes creds** (exact steps in ipvv `worker/AUTH-SETUP.md` §Phase 2).
+- **§B pushing probe: DRAFTED** — `site/data/pushing/ipvv/PARAMARTHASARA-push.md` MACHINE_DRAFT (p01 hound, 4 questions, ROUND 0 + penetrations + honest limit + 2 UNASKED branches); INDEX registered → readiness PUSH=4; graph 329 records GRAPH GATES PASS. Owner reviews/promotes; extend to p02–p12 after review.
+- **C2 + precise formats: SHIPPED** — `tools/emit_c2.py` (ipvv data/c2, 42 files, proof-gated, approval in provenance); full 21-work sweep (checks/verse_sa/L4/provenance); svread Style dropdown prefers stored approved renders.
+
+Still open: §B owner gates (ORCID creds paste · Zenodo token · param signoffs 2–12 · pushing probe review/promotion + extend p02–p12) · §C9 Qwen WS proxy (needs bridge.py session shapes + live qwen test — next session) · §C10 web-save endpoint (scholar lane — coordinate, other agent owns scholar_service).
