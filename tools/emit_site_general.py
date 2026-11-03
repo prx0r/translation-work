@@ -4,8 +4,9 @@ from __future__ import annotations
 import argparse, hashlib, json, re, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
-SITE = Path("/root/ipvv/site/data")
+ROOT = Path(__file__).resolve().parent.parent
+SITE = ROOT.parent / "ipvv/site/data"
+AUDITED_LEGACY_VERSE_SOURCES = frozenset({"kramastotra", "paramarthasara"})
 
 
 def checks_from_proof(p) -> dict:
@@ -57,6 +58,23 @@ def clean_site_sanskrit(s: str) -> str:
     return s.replace("+", "").strip()
 
 
+def legacy_verse_source(config: dict, spans: dict, row: dict) -> str:
+    """Use complete source lines only where they match the audited verse parser."""
+    lines = row.get("source_lines")
+    source_lines = Path(config["source"]).read_text(encoding="utf-8").splitlines()
+    if (not isinstance(lines, list) or len(lines) != 2 or
+        any(not isinstance(n, int) or isinstance(n, bool) for n in lines) or
+        not 1 <= lines[0] <= lines[1] <= len(source_lines)):
+        raise ValueError(f"{row.get('verse_id')}: invalid source line range")
+    text = " ".join(line.strip() for line in source_lines[lines[0] - 1:lines[1]]
+                    if line.strip() and not line.lstrip().startswith("#"))
+    text = re.sub(r"\|\|\s*(?:\[AgKs_\d+\]|\d+\s*\|\|)\s*$", "", text).strip()
+    tokens = [token for token in text.replace("|", " ").split() if token]
+    if not tokens or tokens != spans.get(row.get("verse")):
+        raise ValueError(f"{row.get('verse_id')}: source lines disagree with audited verse")
+    return text
+
+
 def load_passages(work: str) -> dict:
     out = {}
     p = ROOT / work / "passages.jsonl"
@@ -79,11 +97,27 @@ def main() -> int:
     data = w / "data"
     proofdir = w / "proof"
     passages = load_passages(args.work)
+    intake = None
+    audited_legacy = args.work in AUDITED_LEGACY_VERSE_SOURCES
+    source = None
+    intake_path = w / "source/manifest.json"
+    if intake_path.exists():
+        from workcfg import work_config
+        config = work_config(args.work)
+        manifest = json.loads(intake_path.read_text(encoding="utf-8"))
+        if manifest.get("source_license", "").strip().lower() in ("", "unknown", "unverified"):
+            print(f"REFUSING {args.work}: source reuse permission is unresolved")
+            return 2
+        intake = {item["verse_id"]: item for item in config["segments"]}
+    elif audited_legacy:
+        from workcfg import work_config, source_spans
+        config = work_config(args.work)
+        source = source_spans(args.work)
     # site-lane hand fixes (translations JSON edited after emit) are preserved
     # unless --force: regenerating T1/L2 must never silently wipe review.
     prior = {}
     site_out = SITE / "translations" / f"{args.work}.json"
-    if site_out.exists() and not args.force:
+    if site_out.exists():
         try:
             for c in json.loads(site_out.read_text()):
                 prior[c.get("chunk")] = c
@@ -116,20 +150,32 @@ def main() -> int:
         l4_path = data / f"{song}.l4.json"
         l4 = {o["verse"]: o for o in json.loads(l4_path.read_text())} if l4_path.exists() else {}
         prec = proofdir / f"proof-{song}.json"
-        if not prec.exists():
-            # fallback: by index among sorted proof files — ONLY when counts
-            # match 1:1 (else indices misalign and a verse inherits another
-            # verse's proof: anu-p02 would PASS on anu-p05's record).
-            # Otherwise fail closed: no proof record -> BLOCKED below.
-            t1files = sorted(data.glob("*.t1.json"))
-            cands = sorted(proofdir.glob("proof-*.json"))
-            if len(cands) == len(t1files):
-                idx = t1files.index(t1f)
-                if idx < len(cands):
-                    prec = cands[idx]
         proof = json.loads(prec.read_text()) if prec.exists() else {"deterministic_gate": "BLOCKED",
                                                                    "blocking": ["no proof record"],
                                                                    "date": "2026-11-01"}
+        if prec.exists() and (proof.get("work") != args.work or proof.get("song") != song):
+            proof = {"deterministic_gate": "BLOCKED", "blocking": ["proof target mismatch"]}
+        if intake is not None or audited_legacy:
+            from workcfg import song_verses, source_spans
+            if intake is not None:
+                source = source_spans(args.work)
+            wanted = song_verses(args.work, song)
+            source_text = " ".join(" ".join(source[number]) for number in sorted(wanted))
+            source_digest = hashlib.sha256(source_text.encode("utf-8")).hexdigest()[:16]
+            if proof.get("source_sha") != source_digest:
+                proof = {"deterministic_gate": "BLOCKED", "blocking": ["proof source mismatch"]}
+            if intake is not None:
+                hashes = proof.get("layer_sha256", {})
+                for layer in ("t1", "l0", "argmap", "l2", "c1", "l3", "l4", "c2"):
+                    path = data / f"{song}.{layer}.json"
+                    if not path.exists():
+                        continue
+                    obj = json.loads(path.read_text(encoding="utf-8"))
+                    digest = hashlib.sha256(json.dumps(obj, sort_keys=True, separators=(",", ":"),
+                                                       ensure_ascii=False).encode("utf-8")).hexdigest()
+                    if hashes.get(layer) != digest:
+                        proof = {"deterministic_gate": "BLOCKED", "blocking": [f"proof stale for {layer}"]}
+                        break
         gate = "PASS" if proof.get("deterministic_gate") == "PASS" else "BLOCKED"
         needs = proof.get("needs", ["human-review"])
         so = data / f"{song}.signoff.json"
@@ -166,14 +212,26 @@ def main() -> int:
                 l1, l2t = "", ""
             # preserve site-lane hand fixes (translation review applied after emit)
             prev = prior.get(vid, {})
-            if prev and (prev.get("l1", "") != l1 or prev.get("l2", "") != l2t):
+            if not args.force and gate == "PASS" and prev.get("gate") == "PASS" and (prev.get("l1", "") != l1 or prev.get("l2", "") != l2t):
                 print(f"  keep site-lane l1/l2 for {vid} (hand-fixed; --force to overwrite)")
                 l1, l2t = prev.get("l1", ""), prev.get("l2", "")
             # verse-grained songs: each chunk shows ITS OWN verse, not the whole
             # song (sanskrit_cite is the verse's verbatim source; song-level text
             # only when one T1 record spans the passage)
             verse_sa = src_text
-            if len(t1) > 1:
+            if intake is not None:
+                segment = intake.get(vid)
+                if segment is None or segment["verse"] != vn or segment["song"] != song:
+                    print(f"REFUSING {args.work}: {vid} has no matching source segment")
+                    return 2
+                verse_sa = config["source_bytes"][segment["start"]:segment["end"]].decode("utf-8").strip()
+            elif audited_legacy:
+                try:
+                    verse_sa = legacy_verse_source(config, source, v)
+                except (OSError, ValueError) as exc:
+                    print(f"REFUSING {args.work}: {exc}")
+                    return 2
+            elif len(t1) > 1:
                 cite = (l3o.get("sanskrit_cite") or l2o.get("sanskrit_cite") or "").strip()
                 if cite:
                     verse_sa = clean_site_sanskrit(cite)
@@ -187,11 +245,20 @@ def main() -> int:
                   "links": {"source_file": t1o.get("source_file", "passages.jsonl"),
                             "edition": psg.get("source_edition", "canonical"),
                             "source_lines": t1o.get("source_lines")}}
+            if intake is not None:
+                ch["source_file"] = f"translation-work/{args.work}/source/edition.txt"
+                ch["source_license"] = manifest["source_license"]
+                ch["source_origin"] = manifest.get("source_url") or ch["source_file"]
+                ch["links"]["source_file"] = ch["source_file"]
+                ch["links"]["edition"] = manifest["edition"]
+                ch["source_sha256"] = manifest["source_sha256"]
+                identity = f"{manifest['source_sha256']}:{segment['start']}:{segment['end']}"
+                ch["immutable_id"] = "sha256:" + hashlib.sha256(identity.encode("utf-8")).hexdigest()
             if sign:
                 ch["accepted_by"] = sign.get("accepted_by")
                 ch["accepted_date"] = sign.get("date")
                 ch["accept_scope"] = sign.get("scope")
-            if psg.get("immutable_id"):
+            if intake is None and psg.get("immutable_id"):
                 ch["immutable_id"] = psg["immutable_id"]
             for pf in ("source_file", "source_license", "source_origin"):
                 if prev.get(pf) and not ch.get(pf):
@@ -236,7 +303,7 @@ def main() -> int:
         # songs unchanged: vid == song). Data never duplicates the essay;
         # svread's c1 lane fans it out to the song's other verses.
         first_vid = t1[0].get("verse_id") or vid
-        if c1_path.exists():
+        if gate == "PASS" and c1_path.exists():
             c1 = json.loads(c1_path.read_text())
             std = ((c1.get("renders") or {}).get("standard") or {}).get("sections") or {}
             summ = (std.get("SUMMARY") or "").strip()

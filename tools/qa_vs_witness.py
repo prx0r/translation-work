@@ -24,7 +24,7 @@ from __future__ import annotations
 import argparse, json, re, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
+ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 from proof_record import load_gretil_song  # noqa: E402
 
@@ -55,7 +55,7 @@ def main() -> int:
         # checks report NEEDS_WITNESS; coverage/cites/gate still run.
         wverses = {}
         witness_note = f"{args.witness} (NOT VENDORED — ledger/fork checks skipped)"
-    gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
+    gretil = ROOT.parent / "ipvv/site/data/sanskrit/sivastotravali-u.txt"
     try:
         from workcfg import WORKS as _WORKS, song_verses as _song_verses
         sys.path.insert(0, str(ROOT / "tools"))

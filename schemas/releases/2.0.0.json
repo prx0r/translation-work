@@ -1,0 +1,538 @@
+{
+  "base_schema_version": "1.3.0",
+  "layers": {
+    "argmap": {
+      "$id": "urn:svatantrya:schema:2.0.0:argmap",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "properties": {
+        "inference": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "premises": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "question": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "reconstruction": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "sanskrit_sha": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "song": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "speaker": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "structured": {
+          "type": "boolean"
+        },
+        "traces": {
+          "properties": {
+            "l0_ids": {
+              "items": {
+                "minLength": 1,
+                "type": "string"
+              },
+              "minItems": 1,
+              "type": "array"
+            },
+            "t1_verse": {
+              "minLength": 1,
+              "type": "string"
+            }
+          },
+          "required": [
+            "t1_verse",
+            "l0_ids"
+          ],
+          "type": "object"
+        },
+        "uncertainties": {
+          "type": "array"
+        },
+        "verse": {
+          "minimum": 1,
+          "type": "integer"
+        },
+        "verse_id": {
+          "minLength": 1,
+          "type": "string"
+        }
+      },
+      "required": [
+        "verse_id",
+        "song",
+        "verse",
+        "traces",
+        "sanskrit_sha"
+      ],
+      "title": "Svatantrya ARGMAP structural schema",
+      "type": "object",
+      "x-schema-version": "1.3.0",
+      "x-structural-schema-version": "2.0.0",
+      "x-validator": "schemas.argmap.validate"
+    },
+    "c1": {
+      "$id": "urn:svatantrya:schema:2.0.0:c1",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "properties": {
+        "essence": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "renders": {
+          "required": [
+            "standard"
+          ],
+          "type": "object"
+        },
+        "song": {
+          "minLength": 1,
+          "type": "string"
+        }
+      },
+      "required": [
+        "song",
+        "essence",
+        "renders"
+      ],
+      "title": "Svatantrya C1 structural schema",
+      "type": "object",
+      "x-schema-version": "1.3.0",
+      "x-structural-schema-version": "2.0.0",
+      "x-validator": "schemas.c1.validate"
+    },
+    "c2": {
+      "$id": "urn:svatantrya:schema:2.0.0:c2",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "properties": {
+        "renders": {
+          "items": {
+            "properties": {
+              "paragraphs": {
+                "items": {
+                  "properties": {
+                    "maps_to": {
+                      "items": {
+                        "minimum": 0,
+                        "type": "integer"
+                      },
+                      "minItems": 1,
+                      "type": "array"
+                    },
+                    "text": {
+                      "minLength": 1,
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "text",
+                    "maps_to"
+                  ],
+                  "type": "object"
+                },
+                "minItems": 1,
+                "type": "array"
+              },
+              "prompt": {
+                "minLength": 1,
+                "type": "string"
+              },
+              "style": {
+                "minLength": 1,
+                "type": "string"
+              }
+            },
+            "required": [
+              "style",
+              "prompt",
+              "paragraphs"
+            ],
+            "type": "object"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "song": {
+          "minLength": 1,
+          "type": "string"
+        }
+      },
+      "required": [
+        "song",
+        "renders"
+      ],
+      "title": "Svatantrya C2 structural schema",
+      "type": "object",
+      "x-schema-version": "1.3.0",
+      "x-structural-schema-version": "2.0.0",
+      "x-validator": "schemas.c2.validate"
+    },
+    "l0": {
+      "$id": "urn:svatantrya:schema:2.0.0:l0:verse",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "items": {
+        "$id": "urn:svatantrya:schema:2.0.0:l0",
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "properties": {
+          "chosen_index": {
+            "minimum": 0,
+            "type": "integer"
+          },
+          "citation": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "fork": {
+            "enum": [
+              "none",
+              "live",
+              "resolved"
+            ],
+            "type": "string"
+          },
+          "id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "morph": {
+            "type": "string"
+          },
+          "morph_unknown": {
+            "type": "boolean"
+          },
+          "options": {
+            "items": {
+              "properties": {
+                "gloss": {
+                  "minLength": 1,
+                  "type": "string"
+                },
+                "grounds": {
+                  "minLength": 1,
+                  "type": "string"
+                },
+                "rank": {
+                  "minimum": 1,
+                  "type": "integer"
+                },
+                "source": {
+                  "minLength": 1,
+                  "type": "string"
+                }
+              },
+              "required": [
+                "gloss",
+                "rank",
+                "source",
+                "grounds"
+              ],
+              "type": "object"
+            },
+            "maxItems": 5,
+            "type": "array"
+          },
+          "pada_index": {
+            "minimum": 0,
+            "type": "integer"
+          },
+          "revise_reason": {
+            "type": "string"
+          },
+          "revised": {
+            "type": "boolean"
+          },
+          "status": {
+            "enum": [
+              "PARSED",
+              "AMBIGUOUS",
+              "FAILED"
+            ],
+            "type": "string"
+          },
+          "surface": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "verse_id": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "verse_id",
+          "pada_index",
+          "surface",
+          "citation",
+          "options",
+          "chosen_index",
+          "status"
+        ],
+        "title": "Svatantrya L0 structural schema",
+        "type": "object",
+        "x-schema-version": "1.3.0",
+        "x-structural-schema-version": "2.0.0",
+        "x-validator": "schemas.l0.validate"
+      },
+      "minItems": 1,
+      "title": "Svatantrya L0 verse token list structural schema",
+      "type": "array",
+      "x-schema-version": "1.3.0",
+      "x-structural-schema-version": "2.0.0",
+      "x-validator": "schemas.l0.validate (per token)"
+    },
+    "l2": {
+      "$id": "urn:svatantrya:schema:2.0.0:l2",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "properties": {
+        "l0_ids": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "plain_english": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "sanskrit_cite": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "song": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "supplied": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "verse": {
+          "minimum": 1,
+          "type": "integer"
+        },
+        "verse_id": {
+          "minLength": 1,
+          "type": "string"
+        }
+      },
+      "required": [
+        "verse_id",
+        "song",
+        "verse",
+        "plain_english",
+        "sanskrit_cite",
+        "l0_ids"
+      ],
+      "title": "Svatantrya L2 structural schema",
+      "type": "object",
+      "x-schema-version": "1.3.0",
+      "x-structural-schema-version": "2.0.0",
+      "x-validator": "schemas.l2.validate"
+    },
+    "l3": {
+      "$id": "urn:svatantrya:schema:2.0.0:l3",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "properties": {
+        "essence_maps": {
+          "items": {
+            "minimum": 0,
+            "type": "integer"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "l0_ids": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "lines": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "sanskrit_cite": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "song": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "verse": {
+          "minimum": 1,
+          "type": "integer"
+        },
+        "verse_id": {
+          "minLength": 1,
+          "type": "string"
+        }
+      },
+      "required": [
+        "verse_id",
+        "song",
+        "verse",
+        "lines",
+        "sanskrit_cite",
+        "l0_ids",
+        "essence_maps"
+      ],
+      "title": "Svatantrya L3 structural schema",
+      "type": "object",
+      "x-schema-version": "1.3.0",
+      "x-structural-schema-version": "2.0.0",
+      "x-validator": "schemas.l3.validate"
+    },
+    "l4": {
+      "$id": "urn:svatantrya:schema:2.0.0:l4",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "properties": {
+        "essence_maps": {
+          "items": {
+            "minimum": 0,
+            "type": "integer"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "l0_ids": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "lines": {
+          "items": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "sanskrit_cite": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "song": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "verse": {
+          "minimum": 1,
+          "type": "integer"
+        },
+        "verse_id": {
+          "minLength": 1,
+          "type": "string"
+        }
+      },
+      "required": [
+        "verse_id",
+        "song",
+        "verse",
+        "lines",
+        "sanskrit_cite",
+        "l0_ids",
+        "essence_maps"
+      ],
+      "title": "Svatantrya L4 structural schema",
+      "type": "object",
+      "x-schema-version": "1.3.0",
+      "x-structural-schema-version": "2.0.0",
+      "x-validator": "schemas.l4.validate"
+    },
+    "t1": {
+      "$id": "urn:svatantrya:schema:2.0.0:t1",
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "properties": {
+        "quick_english": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "song": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "source_sha": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "tokens": {
+          "items": {
+            "properties": {
+              "quick_gloss": {
+                "minLength": 1,
+                "type": "string"
+              },
+              "surface": {
+                "minLength": 1,
+                "type": "string"
+              }
+            },
+            "required": [
+              "surface",
+              "quick_gloss"
+            ],
+            "type": "object"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "verse": {
+          "minimum": 1,
+          "type": "integer"
+        },
+        "verse_id": {
+          "minLength": 1,
+          "type": "string"
+        }
+      },
+      "required": [
+        "verse_id",
+        "song",
+        "verse",
+        "quick_english",
+        "tokens",
+        "source_sha"
+      ],
+      "title": "Svatantrya T1 structural schema",
+      "type": "object",
+      "x-schema-version": "1.3.0",
+      "x-structural-schema-version": "2.0.0",
+      "x-validator": "schemas.t1.validate"
+    }
+  },
+  "structural_schema_version": "2.0.0"
+}

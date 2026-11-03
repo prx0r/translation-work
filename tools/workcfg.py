@@ -9,10 +9,13 @@ Song ids are human-readable (s01, ajad-p01). Verse numbers are ABSOLUTE within t
 work source (matching the edition numbering, e.g. UtAjp_1..27).
 """
 from __future__ import annotations
+import hashlib
+import json
 import re
 from pathlib import Path
 
-SITE_SA = Path("/root/ipvv/site/data/sanskrit")
+ROOT = Path(__file__).resolve().parent.parent
+SITE_SA = ROOT.parent / "ipvv" / "site" / "data" / "sanskrit"
 
 WORKS = {
     "sivastotravali": {
@@ -90,27 +93,27 @@ WORKS = {
     # Legacy hand-built works (2026-11-01): canonical Sanskrit lives in the
     # work's own frozen T1.md (per-song chains); t1md kind parses those.
     "pancashloki": {
-        "source": Path("/root/translation-work/pancashloki/T1.md"),
+        "source": ROOT / "pancashloki/T1.md",
         "kind": "t1md",
         "songs": {f"pan-p{i:02d}": (i, i) for i in range(1, 6)},
     },
     "anuttarastika": {
-        "source": Path("/root/translation-work/anuttarastika/T1.md"),
+        "source": ROOT / "anuttarastika/T1.md",
         "kind": "t1md",
         "songs": {f"anu-p{i:02d}": (i, i) for i in range(1, 9)},
     },
     "bhairavastava": {
-        "source": Path("/root/translation-work/bhairavastava/T1.md"),
+        "source": ROOT / "bhairavastava/T1.md",
         "kind": "t1md",
         "songs": {f"bh-p{i:02d}": (i, i) for i in range(1, 11)},
     },
     "anubhavanivedana": {
-        "source": Path("/root/translation-work/anubhavanivedana/T1.md"),
+        "source": ROOT / "anubhavanivedana/T1.md",
         "kind": "t1md",
         "songs": {f"anu-p{i:02d}": (i, i) for i in range(1, 5)},
     },
     "paramarthacarca": {
-        "source": Path("/root/translation-work/paramarthacarca/T1.md"),
+        "source": ROOT / "paramarthacarca/T1.md",
         "kind": "t1md",
         "songs": {f"par-p{i:02d}": (i, i) for i in range(1, 9)},
     },
@@ -120,7 +123,7 @@ WORKS = {
         "songs": {"ghat-p01": (1, 9), "ghat-p02": (10, 18), "ghat-p03": (19, 21)},
     },
     "spandasandoha": {
-        "source": Path("/root/translation-work/spandasandoha/T1.md"),
+        "source": ROOT / "spandasandoha/T1.md",
         "kind": "spanda",  # own frozen T1.md; 13 tokens split 9/4 at rasayati (l2 verse division)
         "songs": {"sand-p01": (1, 2)},
     },
@@ -139,9 +142,43 @@ WORKS = {
 }
 
 
+def work_config(work: str) -> dict | None:
+    """Resolve existing registrations or a pinned source-intake manifest."""
+    if work in WORKS and WORKS[work].get("kind") != "segments":
+        return WORKS[work]
+    if not re.fullmatch(r"[a-z0-9][a-z0-9_-]*", work or ""):
+        return None
+    folder = ROOT / work / "source"
+    manifest_path = folder / "manifest.json"
+    if not manifest_path.exists():
+        return None
+    from intake import validate_segments
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    source_path = folder / "edition.txt"
+    segment_path = folder / "segments.json"
+    raw, segment_bytes = source_path.read_bytes(), segment_path.read_bytes()
+    if (manifest.get("format") != "source-intake/1" or manifest.get("work") != work or
+        hashlib.sha256(raw).hexdigest() != manifest.get("source_sha256") or
+        hashlib.sha256(segment_bytes).hexdigest() != manifest.get("segments_sha256")):
+        raise ValueError(f"{work}: source intake hashes or identity do not match")
+    segments = json.loads(segment_bytes)
+    errors = validate_segments(raw, segments)
+    if errors:
+        raise ValueError(f"{work}: invalid source segments: {'; '.join(errors)}")
+    songs = {}
+    for item in segments:
+        songs.setdefault(item["song"], []).append(item["verse"])
+    cfg = {"source": source_path, "kind": "segments", "songs": songs,
+           "segments": segments, "source_bytes": raw}
+    WORKS[work] = cfg
+    return cfg
+
+
 def song_verses(work: str, song: str) -> list[int]:
     """Absolute verse numbers belonging to (work, song)."""
-    cfg = WORKS[work]
+    cfg = work_config(work)
+    if cfg is None:
+        raise KeyError(f"unknown work {work}")
     if "songs" in cfg:
         rng = cfg["songs"][song]
         if isinstance(rng, list):
@@ -1009,12 +1046,16 @@ def source_spans(work: str) -> dict[int, list[str]] | None:
     sivastotravali (song-numbered UtSst markers) is NOT covered — tools keep
     their load_gretil_song fallback for it.
     """
-    cfg = WORKS.get(work)
+    cfg = work_config(work)
     if cfg is None or "songs" not in cfg:
         return None
     src = Path(cfg["source"])
     kind = cfg.get("kind")
-    if kind == "utajp":
+    if kind == "segments":
+        raw = cfg["source_bytes"]
+        return {item["verse"]: raw[item["start"]:item["end"]].decode("utf-8").split()
+                for item in cfg["segments"]}
+    elif kind == "utajp":
         spans = parse_utajp(src)
     elif kind == "sambandha":
         spans, _ = parse_sambandha(src)

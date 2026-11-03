@@ -11,7 +11,7 @@ from __future__ import annotations
 import argparse, hashlib, json, re, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
+ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 from proof_record import load_gretil_song  # noqa: E402
 
@@ -39,7 +39,7 @@ def main() -> int:
     w = ROOT / args.work
     song = args.song
     n = int("".join(c for c in args.song if c.isdigit()) or 0)
-    gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
+    gretil = ROOT.parent / "ipvv/site/data/sanskrit/sivastotravali-u.txt"
     src = load_gretil_song(gretil, n)
     try:
         from proof_record import load_gretil_spans  # noqa

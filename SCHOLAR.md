@@ -1,8 +1,15 @@
 # SCHOLAR — versioned scholar work, signed review, and how it gets live
 
-**Status:** SHIPPED · 2026-11-03 · canonical reference for `scholar/` ledgers, `tools/scholar.py`,
+**Status:** existing hub SHIPPED · 2026-11-03 · canonical reference for `scholar/` ledgers, `tools/scholar.py`,
 `tools/emit_scholar.py` and the svread Scholar hub. Session history: `process/SCHOLAR-HUB-2026-11-03.md`.
+The v2 intake and submission service in this branch need a deployment before use by the live site.
 Gate: `check.py` → `scholar-valid`.
+
+The existing v1 events and IDs remain readable. New layer versions use
+`scholar-version/2`, with a full content-derived ID, contributor kind, pinned
+structural schema and validator hashes, and separate canonical JSON files in
+`<work>/scholar/objects/`. These files become Git blobs when committed. A local
+import is not itself a remote publication or a human review.
 
 > Anyone can edit any layer of the stack. Every edit is an append-only **version** that forks off
 > the original or off anyone else's version. A scholar's judgment is a hash-bound **ReviewEvent**.
@@ -27,6 +34,7 @@ show original (canonical bytes, never edited)
 | Artifact | Home | Form | Trust |
 |---|---|---|---|
 | versions / reviews / promotions | git `<work>/scholar/*.jsonl` | append-only JSONL | truth |
+| v2 base, content, and structural schema snapshots | git `<work>/scholar/objects/<sha256>.json` | canonical UTF-8 JSON | content-addressed snapshots |
 | sign-offs | git `<work>/data/<song>.signoff.json` | one JSON doc | truth |
 | canonical layer originals | git `<work>/data/*.json` | per-song layer files | truth |
 | hub projection | git `svread/data/scholar/<work>.json` + `index.json` | generated JSON | disposable (rebuild) |
@@ -60,41 +68,42 @@ Getting these backwards is the one way to make `scholar-valid` fail on untampere
 
 | Id | Formula | Exactness |
 |---|---|---|
-| `version_id` | `"sv:" + sha({work, layer, target, parent, author, content_sha256, created_at})[:16]` | content-derived; duplicate inputs impossible |
+| legacy `version_id` | `"sv:" + sha({work, layer, target, parent, author, content_sha256, created_at})[:16]` | historical scheme, unchanged |
+| v2 `version_id` | `"sv:" + sha(version fields except version_id)` | full SHA-256 including identity, content, schema and provenance |
 | `content_sha256` / `base_sha256` | `sha(content)` / `sha(original layer content)` | 64 hex, full |
 | `review_id` | `"pt:review:REV-" + sha16({work, song, by, hash, at})[:12]` | 12 hex |
 | `promotion_id` | `"pt:promotion:PRO-" + sha16({…, basis, at})[:12]` | 12 hex |
 | `event_hash` | `contract_sha(body − event_hash)` | computed by `ReviewEvent.emit()` **before** signer/signature exist |
 | `promotion_hash` | `contract_sha(body − promotion_hash)` | same |
 | `stack_sha(song)` | `sha({layer: sha(layer_json) for each existing data/<song>.<layer>.json})` | the sign-off target |
-| local draft id | `"local:" + djb2(content+author+now) + now_hex` | device-local, wall-clock salted, NOT verifiable outside the browser |
+| local draft id | `"local:" + crypto.randomUUID()` where available; local hash fallback | device-local, NOT verifiable outside the browser |
 
-### Signature semantics (qp_acom rules)
+### Signature semantics
 
-- `signature = ed25519.sign(secret, review_id.encode()).hex()` — commits the **signer to the id**;
-  the id already commits to content.
-- `signer` (pubkey hex) and `signature` ride **outside** the hashed body: verification pops both,
-  recomputes `event_hash` over the rest, then verifies the signature over `review_id`.
-- `signer` present ⇒ key-bound. Absent ⇒ unsigned (allowed; recorded honestly as
-  `identity_state: SELF_ATTESTED`). **Key-bound ≠ identity-proofed** — no admin verification exists yet.
+- Existing signatures without `signature_version` sign the review ID only. They remain
+  verifiable and receive a warning; they do not bind the complete review statement.
+- New `event-hash-ed25519-v2` signatures cover the domain-separated complete `event_hash`.
+  The hash covers the review body, including its target, decision and reasoning.
+- `signer`, `signature`, and `signature_version` sit outside the event hash. A key proves
+  key possession; reviewer identity remains self-attested until independently verified.
 - Display address: `sha256(pubkey)[:16]`.
 
 ## 4. `versions.jsonl` — one line per scholar version
 
 | Field | Type | Rule |
 |---|---|---|
-| `version_id` | `sv:16hex` | = `vid_of(line)`; recomputed by verify |
+| `version_id` | `sv:16hex` (v1) or `sv:64hex` (v2) | = `vid_of(line)`; recomputed by verify |
 | `work` | slug | must match the ledger's directory |
-| `layer` | `t1\|l0\|argmap\|l2\|c1\|l3\|l4` | the stack layer being edited |
-| `target` | `param-p01-v01` (c1: the song id) | must resolve to a canonical row |
+| `layer` | `t1\|l0\|argmap\|l2\|c1\|l3\|l4\|c2` | the stack layer being edited |
+| `target` | `param-p01-v01` (c1/c2: the song id) | must resolve to a canonical row |
 | `parent` | `null` \| `sv:…` \| `local:…` | `null` = fork of the ORIGINAL; otherwise child of that version — forks of forks to any depth |
 | `base_sha256` | 64 hex | `sha(original content)` — pins which original the fork descends from |
-| `author` | string | self-attested name (identity is a review concern) |
-| `created_at` | ISO Z | recorded **beside** the id, never inside it |
+| `author` / `author_kind` | string / `human\|agent` | v2 attribution; a self-attested name is not identity verification |
+| `created_at` | ISO Z | part of the v1 and v2 version-id input |
 | `note` | string | why |
 | `content_sha256` | 64 hex | `sha(content)`; recomputed by verify |
-| `content` | object | the edit, layer-shaped (e.g. `{"lines": [...]}` for l3) |
-| `status` | `MACHINE_DRAFT\|REVIEWED\|REJECTED` | only a PromotionEvent moves this |
+| `content` | object or array | the complete layer-shaped edit (L0 is a list of tokens) |
+| `status` | `MACHINE_DRAFT` or `HUMAN_DRAFT` for v2 | review status is derived from separate events |
 
 Worked example (real lines, in order — the session's fork test):
 
@@ -143,7 +152,7 @@ Writes, in order (any schema failure aborts before writing the signoff):
 
 1. **ReviewEvent** over `stack_sha(song)` — object_ref `original:paramarthasara:param-p01`,
    decision ACCEPT, signed if a key exists.
-2. **PromotionEvent** — `NOT_REVIEWED → INDEPENDENT_REVIEWED`, `basis=[review_id]`.
+2. **PromotionEvent** — `NOT_REVIEWED → REVIEWED`, `basis=[review_id]`.
 3. **`data/<song>.signoff.json`** — `{song, accepted_by, date, scope, notes}` validated by
    `schemas/signoff.py` (the same file `validate_song` and the site read).
 
@@ -165,7 +174,8 @@ python3 tools/scholar.py log   --work paramarthasara [--target … --layer …]
 python3 tools/scholar.py signoff --work … --song … --by … [--scope full|t1-l0|l2|c1|spot]
 python3 tools/scholar.py promote --work … --object … --version … --basis rv1,rv2
 python3 tools/scholar.py verify --work paramarthasara      # exit 0/1
-python3 python3 tools/emit_scholar.py --work paramarthasara  # projection → svread
+python3 tools/scholar.py import --file /path/to/scholar-export.json
+python3 tools/emit_scholar.py --work paramarthasara         # projection → svread
 ```
 
 `save` refuses hollow content (`content is empty — refusing a hollow version`). `fork` refuses a
@@ -177,12 +187,14 @@ Called by `check.py` as step **`scholar-valid`** for every work with a `scholar/
 
 1. every version has all 12 fields, right work, right layer;
 2. `version_id` **recomputes** from its own fields (duplicate ids impossible);
-3. `content_sha256` and `base_sha256` recompute (base must still match the canonical original);
+3. v1 `content_sha256` and `base_sha256` recompute against the legacy original; v2
+   content, original snapshot and structural-schema objects recompute independently;
 4. every `parent` resolves (second pass, order-independent);
 5. every ReviewEvent `event_hash` recomputes; `review_id` unique; target resolves; review hash
    equals the target's content hash;
 6. every signature verifies against its `signer` (signature without signer = fail);
-7. every PromotionEvent `promotion_hash` recomputes; every `basis` names a live review;
+7. every PromotionEvent `promotion_hash` recomputes; every `basis` names an acceptance
+   for the same object and content hash;
 8. every `signoff.json` passes `schemas/signoff.py` **and** is backed by a ReviewEvent;
 9. **staleness (WARN, not fail):** signoff's stored review hash ≠ current `stack_sha` ⇒
    `signoff … stack changed since signoff (review re-opened)` — honest signal, human decides.
@@ -220,9 +232,9 @@ exactly as before.
 | layer/target state | `localStorage['svv-schol-<WORK>'] = {layer, target}` |
 | drafts | `localStorage['svv-scholar-<WORK>']` = array of draft versions (`local:` ids, `parent` = base chosen) |
 | author | `localStorage['svv-scholar-author']` |
-| edit modes | `field` layers (t1 `quick_english`, l2 `plain_english`, l3/l4 `lines[]`) edit one field of the original row; `json` layers (l0, argmap, c1) edit the full object — content stays layer-shaped |
+| edit modes | `field` layers (t1 `quick_english`, l2 `plain_english`, l3/l4 `lines[]`) edit one field of the original row; `json` layers (l0, argmap, c1, c2) edit the full object or L0 token list — content stays layer-shaped |
 | base | Original **or** any published `sv:…` **or** any of your `local:…` drafts ⇒ save produces a child of it (fork-of-fork, any depth) |
-| publish | **Export JSON** downloads `{work, layer, target, parent, author, note, content}` → feed to `tools/scholar.py save --file` → ledger → re-emit |
+| publish | **Export JSON** downloads a parent-first submission → `tools/scholar.py import --file` → commit the ledger and objects → re-emit. An optional authenticated service can submit from the browser into a separate Git branch for review. |
 | gate | drafts are never served to anyone else; only ledger lines are |
 
 ## 12. Invariants (binding)
@@ -249,6 +261,48 @@ exactly as before.
 - **Identity:** `signer` proves key possession, not who holds the key. `SELF_ATTESTED` vs
   `VERIFIED` = signed vs unsigned, nothing more. Admin-verified identities are future work.
 - **Stale signoffs warn, they do not fail** the gate (deliberate: the machine signals, the human decides).
-- **Browser → ledger is manual** (Export JSON → `scholar.py save`). A write endpoint is the next step.
+- **Browser submission requires the optional service** (§16). The offline alternative is
+  Export JSON → `scholar.py import` → commit and re-emit.
 - **`local:` ids are not content-derived** (wall-clock salt) — they are fork parents inside one
   browser only; publication re-issues them as `sv:…` ids.
+
+## 15. Private scholar style
+
+`tools/style_profile.py prepare` collects the named scholar's own L2, L3, or L4 edits
+and any explicit L0 choices. It accepts private browser-export files with
+`--private-drafts`; they are never added to the shared ledger by preparing a brief.
+For a target passage, the brief includes the source lines, available canonical layers,
+and at most one example per edited passage. Three distinct passages are required before
+rendering. Legacy versions without a contributor kind are excluded unless explicitly
+requested with `--include-legacy`.
+
+`style_profile.py render --profile <private-file> --runner '<command>' --agent <id>
+--consent` sends the private brief to the explicitly chosen command on stdin. The
+command returns JSON with `model` and `content`, where content contains only the
+requested `lines` or `plain_english` field. The result is a Scholar submission whose
+author is the agent. It carries the scholar's name and brief hash as provenance, not
+the private examples. Importing a submission does not commit or publish it. The optional
+`tools/style_runner_openai.py` runner uses an explicitly configured compatible endpoint,
+model, and optional key from `STYLE_API_URL`, `STYLE_MODEL`, and `STYLE_API_KEY`. The
+operator must select an authorized provider and free-tier model. A generated result is
+an agent draft and still requires source and cross-layer review.
+
+## 16. Authenticated browser submissions
+
+`tools/scholar_service.py` maps bearer-token hashes in an operator-managed private file
+to contributor names. It validates submissions with `scholar.py import` in a fresh Git
+worktree and writes a separate `scholar/submission-…` branch. A successful submission
+does not merge or deploy the branch. The service uses the committed repository revision,
+never the caller's author field, and retries return the same branch. The optional
+`--push-remote origin` pushes that branch without force.
+
+The token file must be outside this repository, readable only by its owner, and shaped
+as `{"users":[{"author":"Scholar name","token_sha256":"<SHA-256 hex>"}]}`.
+Use long, randomly generated tokens and share each token privately with its scholar.
+The service binds to `127.0.0.1` and requires an HTTPS reverse proxy for remote access.
+Start it with `python3 tools/scholar_service.py --tokens-file <private-path> --origin
+https://svread.pages.dev`, optionally with `--push-remote origin`. The server, reverse
+proxy, Git remote credentials, token distribution, branch review, and site deployment
+still need operator configuration. The browser sends the token to the configured server
+and does not store it. This token system associates an account with a configured name;
+it is not independent verification of a scholar's identity.

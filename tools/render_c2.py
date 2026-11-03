@@ -18,7 +18,7 @@ from __future__ import annotations
 import argparse, json, re, subprocess, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
+ROOT = Path(__file__).resolve().parent.parent
 
 STARTERS = {
     "eli5": ("Explain the argument of this song as if to a bright 10-year-old.",

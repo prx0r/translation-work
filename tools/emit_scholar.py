@@ -11,50 +11,103 @@ Read-only: never writes back into this repo.
 """
 from __future__ import annotations
 import argparse, json, sys
-from datetime import datetime, timezone
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
-SVREAD = Path("/root/svread")
+ROOT = Path(__file__).resolve().parent.parent
+SVREAD = ROOT.parent / "svread"
 sys.path.insert(0, str(ROOT / "tools"))
 import scholar as sch  # noqa: E402  (reuse the exact loaders + hashers)
+import agent_contract  # noqa: E402
 
 def build(work: str) -> dict:
     # layer originals for every verse/song target in the work's canonical data
     originals: dict = {layer: {} for layer in sch.LAYERS}
-    songs = sorted({p.stem.split(".")[0] for p in (ROOT / work / "data").glob("*.l3.json")})
+    songs = sorted({p.name[:-(len(layer) + 6)]
+                    for layer in sch.LEGACY_STACK_LAYERS
+                    for p in (ROOT / work / "data").glob(f"*.{layer}.json")})
     if not songs:
-        raise SystemExit(f"{work}: no data/*.l3.json")
+        raise SystemExit(f"{work}: no canonical layer data")
+    reviews = sch.jsonl_read(sch.rpath(work))
+    eligible = set()
+    c2_eligible = set()
+    for song in songs:
+        proof_path = ROOT / work / "proof" / f"proof-{song}.json"
+        if not proof_path.exists():
+            continue
+        proof = json.loads(proof_path.read_text(encoding="utf-8"))
+        if (proof.get("work") != work or proof.get("song") != song or
+            proof.get("deterministic_gate") != "PASS"):
+            continue
+        if (ROOT / work / "source/manifest.json").exists():
+            recorded = proof.get("layer_sha256", {})
+            current = {}
+            for layer in sch.LAYERS:
+                path = ROOT / work / "data" / f"{song}.{layer}.json"
+                if path.exists():
+                    current[layer] = sch.sha(json.loads(path.read_text(encoding="utf-8")))
+            if recorded != current:
+                continue
+        eligible.add(song)
+        signoff = sch.load_signoff(work, song)
+        if signoff:
+            current_hash, _ = sch.stack_sha(work, song)
+            if any(r.get("review_target", {}).get("object_ref") == f"original:{work}:{song}"
+                   and r.get("review_target", {}).get("hash") == current_hash
+                   and r.get("decision") in ("ACCEPT", "ACCEPT_WITH_QUALIFICATION")
+                   for r in reviews):
+                c2_eligible.add(song)
     for layer in sch.LAYERS:
         for song in songs:
+            if song not in eligible or (layer == "c2" and song not in c2_eligible):
+                continue
             f = ROOT / work / "data" / f"{song}.{layer}.json"
             if not f.exists():
                 continue
             d = json.loads(f.read_text(encoding="utf-8"))
-            if layer == "c1":
+            if layer in sch.layer_registry.SONG_LAYERS:
                 originals[layer][song] = d
                 continue
             for row in d:
                 tid = row.get("verse_id")
                 if tid:
-                    originals[layer][tid] = row
+                    if layer == "l0":
+                        originals[layer].setdefault(tid, []).append(row)
+                    else:
+                        originals[layer][tid] = row
 
-    versions = sch.load_versions(work)
-    reviews = sch.jsonl_read(sch.rpath(work))
-    promotions = sch.jsonl_read(sch.ppath(work))
+    versions = []
+    for version in sch.load_versions(work):
+        song = sch.song_of(version["target"], version["layer"])
+        if song in eligible and (version["layer"] != "c2" or song in c2_eligible):
+            versions.append(version)
+    version_ids = {version["version_id"] for version in versions}
+    def visible_target(reference):
+        if reference in version_ids:
+            return True
+        return any(reference == f"original:{work}:{song}" for song in eligible)
+    reviews = [review for review in reviews
+               if visible_target(review.get("review_target", {}).get("object_ref"))]
+    review_ids = {review["review_id"] for review in reviews}
+    promotions = [promotion for promotion in sch.jsonl_read(sch.ppath(work))
+                  if visible_target(promotion.get("object_ref"))
+                  and all(review in review_ids for review in promotion.get("basis", []))]
     signoffs = []
     stack_hashes = {}
     for song in songs:
+        if song not in eligible:
+            continue
         cur, _ = sch.stack_sha(work, song)
         stack_hashes[song] = cur
         so = sch.load_signoff(work, song)
         if so:
             so = dict(so)
-            so["stack_sha"] = cur
             # back the signoff with its review id (the live binding)
             rv = [r for r in reviews if r.get("review_target", {}).get("object_ref")
                   == f"original:{work}:{song}"]
             so["review_id"] = rv[-1]["review_id"] if rv else ""
+            so["stack_sha"] = rv[-1].get("review_target", {}).get("hash", "") if rv else ""
+            so["current_stack_sha"] = cur
+            so["review_current"] = bool(rv and so["stack_sha"] == cur)
             signoffs.append(so)
 
     # the Sanskrit original's edition (WORK ID on the hub) from passages.jsonl
@@ -68,22 +121,44 @@ def build(work: str) -> dict:
         if src_ed:
             break
 
-    return {
+    contract = agent_contract.describe()
+    times = [item.get("created_at", "") for item in versions + reviews]
+    last_event = max((time for time in times if time), default=None)
+    doc = {
         "work": work,
-        "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated": last_event,
         "source": "translation-work canonical data + scholar/ ledgers (emit_scholar.py)",
         "source_edition": src_ed,
+        "contract": {
+            "contract_version": contract["contract_version"],
+            "contract_sha256": agent_contract.content_hash(contract),
+            "schema_version": contract["schema_version"],
+            "structural_schema_version": contract["structural_schema_version"],
+            "structural_schema_snapshot_sha256": contract["structural_schema_snapshot_sha256"],
+            "order": contract["order"],
+            "schemas": {item["id"]: item["schema"] for item in contract["layers"]},
+            "layers": [{"id": item["id"], "scope": item["scope"],
+                        "depends_on": item["depends_on"], "validator": item["validator"],
+                        "validator_sha256": item["validator_sha256"],
+                        "example": {key: value for key, value in item["example"].items()
+                                    if key != "content"}} for item in contract["layers"]],
+        },
         "rights": {
             "translation": "FREE — our English (L1–L4, commentary) is free use",
             "scholar": "(c) their authors — scholar edits, versions, reviews and sign-offs are copyrighted",
         },
         "originals": originals,
+        "withheld_songs": sorted(set(songs) - eligible),
+        "original_hashes": {layer: {target: sch.sha(content) for target, content in rows.items()}
+                            for layer, rows in originals.items()},
         "versions": versions,
         "reviews": reviews,
         "promotions": promotions,
         "signoffs": signoffs,
         "stack_hashes": stack_hashes,
     }
+    doc["projection_sha256"] = sch.sha(doc)
+    return doc
 
 def main() -> int:
     ap = argparse.ArgumentParser()

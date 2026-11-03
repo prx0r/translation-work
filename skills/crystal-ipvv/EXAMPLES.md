@@ -164,6 +164,20 @@ gloss-words read as hedging. State the word directly, Sanskrit beside it, no quo
 
 ---
 
+## L3 — final transmission
+
+**Existing example** (`sivastotravali/data/s01.l3.json`, `s01-v01`): the object
+contains two lines, the Sanskrit citation, the supporting `l0_ids`, and
+`essence_maps: [0]`. Compare it with `s01.l2.json` and the underlying L0 rather than
+copying its wording. Its presence illustrates the data shape and is not by itself a
+claim of human review.
+
+**BAD**: a fluent line with no L0 or essence references, or a line that introduces a
+claim unsupported by the passage. The former is mechanically rejected; the latter
+requires philological judgment as well as validation.
+
+---
+
 ## L4 — the song (L3 set to music)
 
 **Prompt the model with:**

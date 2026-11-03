@@ -12,7 +12,7 @@ from __future__ import annotations
 import argparse, json, re, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
+ROOT = Path(__file__).resolve().parent.parent
 
 
 def slug(term: str) -> str:

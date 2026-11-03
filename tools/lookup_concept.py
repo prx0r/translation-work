@@ -13,7 +13,7 @@ from __future__ import annotations
 import argparse, json, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
+ROOT = Path(__file__).resolve().parent.parent
 GLOSSARY = ROOT / "lore" / "trika_glossary_index.json"
 CONCEPTS = ROOT / "lore" / "concepts"
 

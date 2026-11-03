@@ -4,8 +4,8 @@ from __future__ import annotations
 import argparse, hashlib, json, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
-SITE = Path("/root/ipvv/site/data")
+ROOT = Path(__file__).resolve().parent.parent
+SITE = ROOT.parent / "ipvv/site/data"
 
 
 def sha(s: str) -> str:
@@ -31,7 +31,7 @@ def main() -> int:
     except ImportError:
         _WORKS = {}
 
-    gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
+    gretil = ROOT.parent / "ipvv/site/data/sanskrit/sivastotravali-u.txt"
     # prior site output: provenance stamped by trace_translations survives re-emits
     prior = {}
     site_out = SITE / "translations" / f"{args.work}.json"
@@ -72,8 +72,9 @@ def main() -> int:
             _want = set(_song_verses(args.work, song))
             src = {v: toks for v, toks in _all.items() if v in _want}
             src_file = str(Path(cfg["source"]))
-            if src_file.startswith("/root/ipvv/site/data/"):
-                src_file = src_file[len("/root/ipvv/"):]
+            ipvv_root = str(ROOT.parent / "ipvv") + "/"
+            if src_file.startswith(ipvv_root + "site/data/"):
+                src_file = src_file[len(ipvv_root):]
             edition = {"tantrasara-a01": "GRETIL KSTS 17 (Nirnaya Sagara 1918)"}.get(
                 args.work, f"GRETIL {Path(cfg['source']).name}")
             ref_of = lambda vn: f"{src_file}:{vn}"  # noqa: E731

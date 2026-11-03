@@ -11,7 +11,7 @@ from __future__ import annotations
 import json, re, subprocess, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
+ROOT = Path(__file__).resolve().parent
 fails: list[str] = []
 
 
@@ -50,6 +50,9 @@ def main() -> int:
             req_ok = False
             fails.append(f"stack-sync: {name}.REQUIRED drifted from stack.json")
     step("stack-sync", sync and req_ok)
+    from schemas import registry as _registry
+    snapshot_errors = _registry.snapshot_errors()
+    step("structural-schemas", not snapshot_errors, "; ".join(snapshot_errors))
 
     w = ROOT / args.work
     songs = sorted(p.stem.replace("t1", "").strip(".") for p in (w / "data").glob("*.t1.json"))
