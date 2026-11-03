@@ -1,0 +1,111 @@
+{
+ "song": "ghat-p03",
+ "song_craft": "Voice: closing couplets (rasa shifts sRNgAra->vIra/adbhuta per NOTE, flagged application). Arc: longing awakened (v19) -> festival honored (v20) -> tribute yielded (v21, work seals by naming the potsherd).",
+ "verses": [
+  {
+   "verse_id": "ghat-p03-v19",
+   "l3": {
+    "verse_id": "ghat-p03-v19",
+    "song": "ghat-p03",
+    "verse": 19,
+    "lines": [
+     "Clouds thundering make travelers long —",
+     "sorrow grows in those, endless."
+    ],
+    "sanskrit_cite": "utkaṇṭhayanti pathikāṇ jaladāḥ svanantaḥ śoko vivardhati ca tadvinatāsv anantaḥ",
+    "l0_ids": [
+     "ghat-p03-v19-p000",
+     "ghat-p03-v19-p001",
+     "ghat-p03-v19-p002",
+     "ghat-p03-v19-p003",
+     "ghat-p03-v19-p004",
+     "ghat-p03-v19-p005",
+     "ghat-p03-v19-p006",
+     "ghat-p03-v19-p007",
+     "ghat-p03-v19-p008"
+    ],
+    "essence_maps": [
+     0
+    ],
+    "fidelity": "preserved",
+    "form": "couplet",
+    "needs": [
+     "human-review"
+    ],
+    "notes": []
+   },
+   "craft": "longing awakened (cloud now messenger per NOTE); endless close holds ananta uncut.",
+   "rejected": "(a) long-for-home added -> killed: no object in Sanskrit; longing stays objectless. (b) those->the bowed glossed -> killed: T1 in-those kept flat.",
+   "reads_against": "argmap Q+INF (+UNC []) / T1 / L0 / L2 / C1 essence+rasa+NOTE"
+  },
+  {
+   "verse_id": "ghat-p03-v20",
+   "l3": {
+    "verse_id": "ghat-p03-v20",
+    "song": "ghat-p03",
+    "verse": 20,
+    "lines": [
+     "They honor the love-festival with beloveds —",
+     "cloud-arrival, dear friend, they bring."
+    ],
+    "sanskrit_cite": "ratyutsavaṃ priyatamaiḥ saha mānayanti meghāgamaṃ priyasakhi śvasamānayanti",
+    "l0_ids": [
+     "ghat-p03-v20-p000",
+     "ghat-p03-v20-p001",
+     "ghat-p03-v20-p002",
+     "ghat-p03-v20-p003",
+     "ghat-p03-v20-p004",
+     "ghat-p03-v20-p005"
+    ],
+    "essence_maps": [
+     0
+    ],
+    "fidelity": "preserved",
+    "form": "couplet",
+    "needs": [
+     "human-review"
+    ],
+    "notes": []
+   },
+   "craft": "communal anubhAva (NOTE); dear-friend vocative kept (address, row-7 seed for L4).",
+   "rejected": "(a) festival->feast -> killed: utsava is public. (b) dropping vocative -> killed: sakhi kept.",
+   "reads_against": "argmap Q+INF (+UNC []) / T1 / L0 / L2 / C1 essence+rasa+NOTE"
+  },
+  {
+   "verse_id": "ghat-p03-v21",
+   "l3": {
+    "verse_id": "ghat-p03-v21",
+    "song": "ghat-p03",
+    "verse": 21,
+    "lines": [
+     "May I be conquered — by which other poet, with yamakas —",
+     "to him I pour water in a potsherd."
+    ],
+    "sanskrit_cite": "jīyeya yena kavinā yamakaiḥ pareṇa tasmai vaheyam udakaṃ ghaṭakarpareṇa",
+    "l0_ids": [
+     "ghat-p03-v21-p000",
+     "ghat-p03-v21-p001",
+     "ghat-p03-v21-p002",
+     "ghat-p03-v21-p003",
+     "ghat-p03-v21-p004",
+     "ghat-p03-v21-p005",
+     "ghat-p03-v21-p006",
+     "ghat-p03-v21-p007",
+     "ghat-p03-v21-p008"
+    ],
+    "essence_maps": [
+     0
+    ],
+    "fidelity": "preserved",
+    "form": "couplet",
+    "needs": [
+     "human-review"
+    ],
+    "notes": []
+   },
+   "craft": "yielding kept open (speaker self-vs-rival per BOUNDARY — no I/poet naming beyond Sanskrit); yamaka words unidentified per BOUNDARY (no claim which); potsherd literal (metaphor lives in C1, not L3).",
+   "rejected": "(a) resolving speaker -> killed by BOUNDARY. (b) identifying yamaka pair -> killed unidentified. (c) metaphor-only potsherd -> killed: literal+metaphor both live.",
+   "reads_against": "argmap Q+INF (+UNC ['Speaker self vs other; which words yamaka (both live).']) / T1 / L0 / L2 / C1 essence+rasa+NOTE"
+  }
+ ]
+}
