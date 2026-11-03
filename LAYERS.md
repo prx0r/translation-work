@@ -43,11 +43,17 @@ GRETIL source verse (sha-pinned)
        (Abhinavagupta's rasa theory: the text aims at relish/camatkāra, so the essence
        names the relish, not just the doctrine). Song-level essence[] + the standard
        7-part essay, preserved. Renders of it live in C2.
-  │  C2 looks at: C1 essence + a PROMPT (+ frozen layers)
+  │  L3 looks at: SOURCE + T1 + L0 + ARGMAP + L2 + C1 (essence, rasa, notes, boundaries)
+  ▼
+  L3 — the final canonical translation: one translation to look at. Line-by-line evocative
+       verse, every line traces to L0 + essence indices. No new doctrine, boundary items
+       stay open with notes. Distills C1's essence into the single reading — the sharpest
+       poetic reading as prose, then as verse. Machine-proposed until signed.
+  │  C2 looks at: C1 essence + L3 (final text) + a PROMPT (+ frozen layers)
   ▼
   C2 — further renders (genz, eli5, poetic, formal, …): style + reproducing prompt +
        model/date + paragraphs mapped to essence. A new reading is just a prompt away;
-       unmapped paragraphs are rejected.
+       unmapped paragraphs are rejected. Infinite renderings, all grounded in L3+C1.
 ```
 
 ## Layer contracts (one line each, validators enforce the rest)
