@@ -8,6 +8,7 @@ Submissions become separate Git branches for review; they do not change main.
 from __future__ import annotations
 
 import argparse
+import base64
 import hashlib
 import hmac
 import json
@@ -17,6 +18,8 @@ import subprocess
 import sys
 import tempfile
 import threading
+import time
+import urllib.request
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
@@ -107,6 +110,75 @@ def submit(repo: Path, payload: dict, author: str, push_remote: str | None = Non
             "message": "Submission saved for review and publication."}
 
 
+def session_secret() -> bytes | None:
+    """Same HMAC secret the worker signs svsess cookies with (rotated together —
+    see worker/AUTH-SETUP.md). File wins over env; must be mode 600."""
+    env_secret = os.environ.get("SESSION_SECRET", "").strip()
+    path = Path.home() / ".scholar" / "session_secret"
+    if path.exists():
+        if path.stat().st_mode & 0o077:
+            raise ValueError("session_secret file must be mode 600")
+        return path.read_text(encoding="utf-8").strip().encode("utf-8")
+    return env_secret.encode("utf-8") if env_secret else None
+
+
+def session_author(cookie: str, auth_header: str) -> str | None:
+    """The svread login session IS the credential (owner directive: one account).
+    Verifies svsess HMAC + expiry locally, then resolves the display name from
+    the worker — attribution comes from the identity service, never the client.
+    Raises on identity-service failure (caller maps to 502); returns None when
+    the token itself is simply absent/invalid (401)."""
+    token = ""
+    for part in (cookie or "").split(";"):
+        key, _, value = part.strip().partition("=")
+        if key == "svsess":
+            token = value
+            break
+    if not token and auth_header.startswith("Svsess "):
+        token = auth_header[7:].strip()
+    if not token or "." not in token:
+        return None
+    secret = session_secret()
+    if not secret:
+        return None
+    body, _, sig = token.rpartition(".")
+    try:
+        mac = hmac.new(secret, body.encode("utf-8"), hashlib.sha256).digest()
+        want = base64.urlsafe_b64encode(mac).rstrip(b"=").decode("ascii")
+        if not hmac.compare_digest(want, sig):
+            return None
+        payload = json.loads(base64.b64decode(body + "=" * (-len(body) % 4)))
+        if int(payload.get("e", 0)) < int(time.time() * 1000):
+            return None
+    except Exception:
+        return None
+    req = urllib.request.Request(
+        "https://ipvv-api.tradesprior.workers.dev/api/auth/me",
+        headers={"Cookie": f"svsess={token}",
+                 "Origin": "https://svread.pages.dev",   # passes the worker's auth origin guard
+                 "User-Agent": "svread-scholar/1.0"})    # default urllib UA is 403'd at the edge
+    with urllib.request.urlopen(req, timeout=5) as resp:
+        profile = json.loads(resp.read()).get("profile") or {}
+    name = str(profile.get("display_name") or profile.get("email") or "").strip()
+    if not name:
+        raise RuntimeError("session profile has no display name")
+    return name
+
+
+def resolve_author(headers, users: list[dict]) -> tuple[str | None, int | None]:
+    """Bearer (legacy) first, then the shared svread session. Returns (author, error_status)."""
+    auth = headers.get("Authorization", "")
+    if auth.startswith("Bearer "):
+        legacy = authenticated_author(auth[7:], users)
+        if legacy:
+            return legacy, None
+    try:
+        author = session_author(headers.get("Cookie", ""), auth)
+    except Exception:
+        return None, 502
+    return (author, None) if author else (None, 401)
+
+
 def load_users(path: Path, repo: Path) -> list[dict]:
     path = path.resolve()
     if path.is_relative_to(repo.resolve()):
@@ -144,16 +216,27 @@ def handler_for(repo: Path, users: list[dict], allowed_origin: str, push_remote:
             self.send_response(204)
             self.send_header("Access-Control-Allow-Origin", allowed_origin)
             self.send_header("Access-Control-Allow-Methods", "POST, OPTIONS")
-            self.send_header("Access-Control-Allow-Headers", "Authorization, Content-Type")
+            self.send_header("Access-Control-Allow-Headers", "Authorization, Content-Type, Cookie")
             self.send_header("Vary", "Origin")
             self.end_headers()
+
+        def do_GET(self):
+            if self.path != "/v1/scholar/whoami":
+                return self.response(404, {"error": "not found"})
+            author, err = resolve_author(self.headers, users)
+            if not author:
+                if err == 502:
+                    return self.response(502, {"error": "identity service unreachable"})
+                return self.response(401, {"error": "authentication required"})
+            return self.response(200, {"author": author, "via": "svread-session"})
 
         def do_POST(self):
             if self.path != "/v1/scholar/submissions":
                 return self.response(404, {"error": "not found"})
-            auth = self.headers.get("Authorization", "")
-            author = authenticated_author(auth[7:], users) if auth.startswith("Bearer ") else None
+            author, err = resolve_author(self.headers, users)
             if not author:
+                if err == 502:
+                    return self.response(502, {"error": "identity service unreachable"})
                 return self.response(401, {"error": "authentication required"})
             try:
                 size = int(self.headers.get("Content-Length", "0"))
