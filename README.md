@@ -45,9 +45,13 @@ see `lore/links.json` (verified links only).
 
 ## File map
 
+**New agent? Read `AGENT-MAP.md` first** — three repos, data-hygiene ownership, schemas+qprivately, recent-work index.
+
 ```
 translation-work/
   AGENTS.md            operating system + verbatim user directive (highest precedence)
+  AGENT-MAP.md         navigation for agents: repos, data producers, gates, recent work
+  SCHOLAR.md           canonical: scholar versioning, signoffs, hash schemes, rights
   CANONICAL.md         what counts as canonical + change protocol
   LAYERS.md            layer contracts + invariants + living-translation rules
   ALIGNMENT.md         vs ipvv schemas, vs sanskritbenchy, stale-doctrine log

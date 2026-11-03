@@ -61,6 +61,13 @@ def main() -> int:
         except Exception:
             prior = {}
 
+    # FAIL-SAFE: some works' site data is owned by ipvv's ingest_batch producer
+    # (song-grained chunks with en_variants/checks/styles). Rewriting those with
+    # this emitter destroys their fields and granularity — refuse loudly.
+    if prior and any(("en_variants" in c or "ahnika" in c) for c in prior.values()):
+        print(f"REFUSING {args.work}: site data is ingest-shaped (en_variants/ahnika) — "
+              "produced by ipvv tools/ingest_batch.py, not this emitter")
+        return 2
     chunks = []
     argdir = SITE / "argmaps" / args.work
     argdir.mkdir(parents=True, exist_ok=True)
@@ -99,7 +106,11 @@ def main() -> int:
         so = data / f"{song}.signoff.json"
         sign = json.loads(so.read_text()) if so.exists() else None
         psg = passages.get(song, {})
-        src_text = clean_site_sanskrit(psg.get("sanskrit", ""))
+        if not psg and len(passages) == 1:
+            # single-passage work (e.g. tantrasara-a01: locator tsa01-p01 vs
+            # song tsa-a01) — one row covers every verse of the one song
+            psg = next(iter(passages.values()))
+        src_text = clean_site_sanskrit(psg.get("sanskrit", ""))  # passage-level (song) — kept for passage-grained chunks
         for v in t1:
             vn = v["verse"]
             vid = v["verse_id"]
@@ -129,7 +140,15 @@ def main() -> int:
             if prev and (prev.get("l1", "") != l1 or prev.get("l2", "") != l2t):
                 print(f"  keep site-lane l1/l2 for {vid} (hand-fixed; --force to overwrite)")
                 l1, l2t = prev.get("l1", ""), prev.get("l2", "")
-            ch = {"chunk": vid, "verses": str(vn), "sanskrit": src_text,
+            # verse-grained songs: each chunk shows ITS OWN verse, not the whole
+            # song (sanskrit_cite is the verse's verbatim source; song-level text
+            # only when one T1 record spans the passage)
+            verse_sa = src_text
+            if len(t1) > 1:
+                cite = (l3o.get("sanskrit_cite") or l2o.get("sanskrit_cite") or "").strip()
+                if cite:
+                    verse_sa = clean_site_sanskrit(cite)
+            ch = {"chunk": vid, "verses": str(vn), "sanskrit": verse_sa,
                   "gate": gate, "blocking": proof.get("blocking", []),
                   "needs": needs,
                   "model": "crystal-v1", "date": proof.get("date", "2026-11-01"),
