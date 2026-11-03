@@ -39,6 +39,13 @@ data hygiene, qprivately). Read this, then the file it points to for your task.*
 | **`prx0r/ipvv`** (`/root/ipvv`) | Site + display data + worker: `site/data/*` (emitted inputs), `site/dist/*` (built), `worker/` (ipvv-api) | `python3 tools/verify_site.py` → exit 0 |
 | **`prx0r/svread`** (`/root/svread`) | The reader people actually use: https://svread.pages.dev (one HTML + app.js + vendored data, no build) | `node --check app.js` + browser smoke |
 
+Test commands (all green 2026-11-03):
+```bash
+python3 check.py && python3 -m pytest tests/ -q          # this repo
+cd ../ipvv && python3 -m pytest tests/ -q && node --test 'tests/*.test.mjs'   # NEVER: node --test tests/ (dir mode runs the .py too → false fail)
+cd ../svread && node tests/scholar-smoke.cjs
+```
+
 Live: svread reader **https://svread.pages.dev** · data backend https://ipvv-a8u.pages.dev ·
 worker https://ipvv-api.tradesprior.workers.dev · deploy with `CLOUDFLARE_API_TOKEN=$(cat /root/.cf-api-token) wrangler pages deploy …`.
 
