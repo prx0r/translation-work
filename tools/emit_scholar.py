@@ -10,7 +10,7 @@ Originals come from the canonical `data/<song>.<layer>.json` files (the same byt
 Read-only: never writes back into this repo.
 """
 from __future__ import annotations
-import argparse, json, sys
+import argparse, hashlib, json, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -18,6 +18,68 @@ SVREAD = ROOT.parent / "svread"
 sys.path.insert(0, str(ROOT / "tools"))
 import scholar as sch  # noqa: E402  (reuse the exact loaders + hashers)
 import agent_contract  # noqa: E402
+
+
+def song_craft(work: str, originals: dict) -> dict:
+    """Expose editorial rationale only for an exact match to the eligible L4."""
+    result, canonical = {}, originals.get('l4', {})
+    for path in sorted((ROOT / work).glob('L4-*.DRAFT.json')):
+        try:
+            draft = json.loads(path.read_text(encoding='utf-8'))
+        except (OSError, ValueError):
+            continue
+        rows = draft if isinstance(draft,list) else draft.get('verses',[draft]) if isinstance(draft,dict) else []
+        for row in rows:
+            if not isinstance(row,dict) or not isinstance(row.get('l4'),dict):
+                continue
+            verse = row['l4'].get('verse_id')
+            if verse not in canonical or row['l4'] != canonical[verse]:
+                continue
+            notes = {key:row[key] for key in ('craft','craft_notes','rejected','reads','reads_against') if key in row}
+            if notes:
+                result.setdefault(verse,[]).append({'file':str(path.relative_to(ROOT)),
+                    'file_sha256':hashlib.sha256(path.read_bytes()).hexdigest(),
+                    'l4_sha256':sch.sha(row['l4']),'notes':notes})
+    return result
+
+
+def displayed_sources(work: str, eligible: set[str], originals: dict) -> dict:
+    """Display existing public source with provenance; never create an edition."""
+    path = ROOT.parent / 'ipvv/site/data/translations' / f'{work}.json'
+    rows = json.loads(path.read_text(encoding='utf-8')) if path.is_file() else []
+    result = {}
+    for row in rows:
+        target = row.get('chunk','')
+        if (target not in originals.get('t1',{}) or row.get('gate') != 'PASS' or
+            not row.get('sanskrit') or sch.song_of(target,'l3') not in eligible):
+            continue
+        result[target] = {'text':row['sanskrit'],'source_file':row.get('source_file',''),
+            'source_license':row.get('source_license',''),'source_origin':row.get('source_origin',''),
+            'source_lines':(row.get('links') or {}).get('source_lines'),
+            'note':'Site source display; check the cited edition and full source coverage.'}
+    # Some site files are passage-shaped. Restrict reconstruction to source
+    # mappings audited in this repo or byte-pinned intake manifests; other
+    # legacy mappings need a source audit before they become model evidence.
+    try:
+        import workcfg
+        if work not in ('paramarthasara','kramastotra') and not (ROOT / work / 'source/manifest.json').is_file():
+            return result
+        cfg=workcfg.work_config(work)
+        spans=workcfg.source_spans(work) if cfg else None
+        source=Path(cfg['source']) if cfg else None
+        if spans is not None and source and source.is_file():
+            digest=hashlib.sha256(source.read_bytes()).hexdigest()
+            try: name=str(source.relative_to(ROOT.parent))
+            except ValueError: name=source.name
+            for target,row in originals.get('t1',{}).items():
+                tokens=spans.get(row.get('verse'))
+                if target not in result and tokens:
+                    result[target]={'text':' '.join(tokens),'source_file':name,'source_sha256':digest,
+                        'source_lines':row.get('source_lines'),
+                        'note':'Parser-reconstructed tokens; consult the edition for exact typography.'}
+    except (OSError,ValueError,KeyError,TypeError):
+        pass
+    return result
 
 def build(work: str) -> dict:
     # layer originals for every verse/song target in the work's canonical data
@@ -145,9 +207,11 @@ def build(work: str) -> dict:
         },
         "rights": {
             "translation": "FREE — our English (L1–L4, commentary) is free use",
-            "scholar": "(c) their authors — scholar edits, versions, reviews and sign-offs are copyrighted",
+            "scholar": "Contributors declare rights; authorship and copyright depend on the work and law.",
         },
         "originals": originals,
+        "source_verses": displayed_sources(work, eligible, originals),
+        "l4_craft": song_craft(work, originals),
         "withheld_songs": sorted(set(songs) - eligible),
         "original_hashes": {layer: {target: sch.sha(content) for target, content in rows.items()}
                             for layer, rows in originals.items()},
