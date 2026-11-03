@@ -1,579 +1,579 @@
 {
- "canonical": "translation-work/DATATYPES.json",
- "version": "1.1.0",
- "date": "2026-11-01",
- "note": "Every datatype in the Sanskrit-to-site pipeline: what each transformation of the Sanskrit is FOR, its exact shape, who produces it, what validates it, and the gate rule. A new artifact adheres to the standard iff it validates under its validator AND honors its gate rule. Executable companion: tools/validate_site.py; meta-check in check.py (contract step).",
- "transforms": [
-  {
-   "id": "source-slice",
-   "stage": 0,
-   "purpose": "Pin the exact Sanskrit under translation. Every downstream claim traces to these bytes.",
-   "fields": {
-    "required": [
-     "text",
-     "sha16",
-     "edition",
-     "locator"
-    ],
-    "optional": [
-     "wrap_notes"
-    ]
-   },
-   "producer": "GRETIL vendored text (site/data/sanskrit/*.txt)",
-   "validator": "proof_record.load_gretil_song + sha16 recompute",
-   "gate_rule": "No record without source_sha. sha mismatch = BLOCKED.",
-   "consumers": [
-    "t1",
-    "l0",
-    "argmap",
-    "site-chunk.sanskrit",
-    "corpus-record.sa"
-   ],
-   "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
-  },
-  {
-   "id": "t1-object",
-   "stage": 1,
-   "purpose": "Fast full-verse pass: face every pada quickly so coverage is decided up front, not discovered later.",
-   "fields": {
-    "required": [
-     "verse_id",
-     "song",
-     "verse",
-     "quick_english",
-     "tokens[{surface,quick_gloss}]",
-     "source_sha"
-    ]
-   },
-   "producer": "translator (AI) + tools/emit_data.py backfill",
-   "validator": "schemas/t1.py via tools/validate_song.py",
-   "gate_rule": "Verse count must equal source verse count. quick_english non-empty (mechanical join allowed if marked).",
-   "consumers": [
-    "l0.chosen comparison",
-    "argmap.traces",
-    "site-chunk.l1 (mechanical close)"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "l0-object",
-   "stage": 2,
-   "purpose": "The fork record: every meaning a token could bear, with grounds and source. Ambiguity lives HERE, nowhere else.",
-   "fields": {
-    "required": [
-     "id",
-     "verse_id",
-     "pada_index",
-     "surface",
-     "citation",
-     "options[{gloss,rank}]",
-     "chosen_index",
-     "status"
-    ],
-    "optional": [
-     "morph",
-     "morph_unknown",
-     "options[].source",
-     "options[].grounds",
-     "fork",
-     "revised",
-     "revise_reason",
-     "legacy_raw"
-    ]
-   },
-   "producer": "translator + witnesses (lakshmanjoo/dyczkowski/ksemaraja-vivrti/grammar)",
-   "validator": "schemas/l0.py: fork live|resolved requires >=2 options; resolved requires argmap adjudication; chosen must equal T1 gloss unless revised+reason",
-   "gate_rule": "FAILED/0-option tokens block the song. Multi-option tokens without grounds are rejected. Sourceless forks are inventions.",
-   "consumers": [
-    "argmap.option_choices",
-    "validate_song invariant 1",
-    "site-chunk (via L2)"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "argmap-object",
-   "stage": 3,
-   "purpose": "The sharp translation's reasoning: argument reconstructed from Sanskrit+T1+L0, adjudications recorded with reasons.",
-   "fields": {
-    "required": [
-     "verse_id",
-     "song",
-     "verse",
-     "traces{t1_verse,l0_ids}",
-     "sanskrit_sha"
-    ],
-    "optional": [
-     "scope",
-     "structured",
-     "speaker",
-     "question",
-     "premises",
-     "inference",
-     "payoff",
-     "reconstruction",
-     "uncertainties",
-     "option_choices[{l0_id,chosen_index,rejected[],reason}]"
-    ]
-   },
-   "producer": "translator (structured new work; unstructured backfill marked)",
-   "validator": "schemas/argmap.py: traces resolve; option_choices.chosen_index == L0 chosen_index; resolved forks must be adjudicated here",
-   "gate_rule": "Unstructured allowed only with reconstruction+traces (backfill tier). No adjudication outside option_choices.",
-   "consumers": [
-    "l2 (guided by)",
-    "site argmap md (critical view)",
-    "argument-packet (derived)"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "l2-object",
-   "stage": 4,
-   "purpose": "Plain English of the line. The readable layer; every clause traces to L0.",
-   "fields": {
-    "required": [
-     "verse_id",
-     "song",
-     "verse",
-     "plain_english",
-     "sanskrit_cite",
-     "l0_ids"
-    ],
-    "optional": [
-     "supplied[]",
-     "fidelity",
-     "trace_level"
-    ]
-   },
-   "producer": "translator, guided by argmap",
-   "validator": "schemas/l2.py + proof B7 (cite byte-exact vs source)",
-   "gate_rule": ">=1 existing l0_id per verse. Cite must be byte-exact substring of source. supplied[] should log bracketed insertions (backfill TODO).",
-   "consumers": [
-    "site-chunk.l2 (read/compare/literal views)",
-    "corpus-record.en"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "c1-object",
-   "stage": 5,
-   "purpose": "C1: the sharpest poetic reading, canonical. One shared essence list + the STANDARD 7-part essay, preserved. All further renders live in c2-render objects.",
-   "fields": {
-    "required": [
-     "song",
-     "essence",
-     "renders{standard}"
-    ]
-   },
-   "producer": "translator (standard); skills (renders)",
-   "validator": "schemas/c1.py: essence non-empty; standard has 7 sections; non-standard keys rejected (moved to C2)",
-   "gate_rule": "Standard essay preserved verbatim. No style variants here.",
-   "consumers": [
-    "site read view (standard essay)",
-    "style renders (withheld from site until essence reviewed)"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "proof-record",
-   "stage": 6,
-   "purpose": "Machine-checkable verdict per song: parse, count, align, cites, sharing, quotes, data-object validity. The envelope sanskritbenchy got right.",
-   "fields": {
-    "required": [
-     "song",
-     "source_sha",
-     "deterministic_gate",
-     "blocking[]",
-     "lineage{tool,schemas_version}"
-    ],
-    "optional": [
-     "align{ratios,sub090+dispositions}",
-     "c1_l2_shared",
-     "l2_cites",
-     "data_objects",
-     "warnings[]",
-     "needs[]"
-    ]
-   },
-   "producer": "tools/proof_record.py (+validate_song B8)",
-   "validator": "check.py proof-* steps; gate==PASS required",
-   "gate_rule": "BLOCKED on: parse failure, count mismatch, sub-0.90 without disposition, shared C1/L2 sentences, C1 quotes, cite mismatch, schema errors.",
-   "consumers": [
-    "emit_site gate mapping",
-    "STATUS",
-    "check.py"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "site-chunk",
-   "stage": 7,
-   "purpose": "What the reader renders. One chunk per verse: Sanskrit always; English ONLY on PASS.",
-   "fields": {
-    "required": [
-     "chunk",
-     "verses",
-     "sanskrit",
-     "gate",
-     "blocking",
-     "model",
-     "date"
-    ],
-    "optional": [
-     "l1",
-     "l2",
-     "accepted_by",
-     "accepted_date",
-     "accept_scope",
-     "needs",
-     "links{source_file,edition}"
-    ],
-    "constraints": {
-     "PASS": "l1,l2 non-empty",
-     "BLOCKED": "l1,l2 MUST be empty strings"
+  "canonical": "translation-work/DATATYPES.json",
+  "version": "1.2.0",
+  "date": "2026-11-01",
+  "note": "Every datatype in the Sanskrit-to-site pipeline: what each transformation of the Sanskrit is FOR, its exact shape, who produces it, what validates it, and the gate rule. A new artifact adheres to the standard iff it validates under its validator AND honors its gate rule. Executable companion: tools/validate_site.py; meta-check in check.py (contract step).",
+  "transforms": [
+    {
+      "id": "source-slice",
+      "stage": 0,
+      "purpose": "Pin the exact Sanskrit under translation. Every downstream claim traces to these bytes.",
+      "fields": {
+        "required": [
+          "text",
+          "sha16",
+          "edition",
+          "locator"
+        ],
+        "optional": [
+          "wrap_notes"
+        ]
+      },
+      "producer": "GRETIL vendored text (site/data/sanskrit/*.txt)",
+      "validator": "proof_record.load_gretil_song + sha16 recompute",
+      "gate_rule": "No record without source_sha. sha mismatch = BLOCKED.",
+      "consumers": [
+        "t1",
+        "l0",
+        "argmap",
+        "site-chunk.sanskrit",
+        "corpus-record.sa"
+      ],
+      "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
+    },
+    {
+      "id": "t1-object",
+      "stage": 1,
+      "purpose": "Fast full-verse pass: face every pada quickly so coverage is decided up front, not discovered later.",
+      "fields": {
+        "required": [
+          "verse_id",
+          "song",
+          "verse",
+          "quick_english",
+          "tokens[{surface,quick_gloss}]",
+          "source_sha"
+        ]
+      },
+      "producer": "translator (AI) + tools/emit_data.py backfill",
+      "validator": "schemas/t1.py via tools/validate_song.py",
+      "gate_rule": "Verse count must equal source verse count. quick_english non-empty (mechanical join allowed if marked).",
+      "consumers": [
+        "l0.chosen comparison",
+        "argmap.traces",
+        "site-chunk.l1 (mechanical close)"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "l0-object",
+      "stage": 2,
+      "purpose": "The fork record: every meaning a token could bear, with grounds and source. Ambiguity lives HERE, nowhere else.",
+      "fields": {
+        "required": [
+          "id",
+          "verse_id",
+          "pada_index",
+          "surface",
+          "citation",
+          "options[{gloss,rank}]",
+          "chosen_index",
+          "status"
+        ],
+        "optional": [
+          "morph",
+          "morph_unknown",
+          "options[].source",
+          "options[].grounds",
+          "fork",
+          "revised",
+          "revise_reason",
+          "legacy_raw"
+        ]
+      },
+      "producer": "translator + witnesses (lakshmanjoo/dyczkowski/ksemaraja-vivrti/grammar)",
+      "validator": "schemas/l0.py: fork live|resolved requires >=2 options; resolved requires argmap adjudication; chosen must equal T1 gloss unless revised+reason",
+      "gate_rule": "FAILED/0-option tokens block the song. Multi-option tokens without grounds are rejected. Sourceless forks are inventions.",
+      "consumers": [
+        "argmap.option_choices",
+        "validate_song invariant 1",
+        "site-chunk (via L2)"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "argmap-object",
+      "stage": 3,
+      "purpose": "The sharp translation's reasoning: argument reconstructed from Sanskrit+T1+L0, adjudications recorded with reasons.",
+      "fields": {
+        "required": [
+          "verse_id",
+          "song",
+          "verse",
+          "traces{t1_verse,l0_ids}",
+          "sanskrit_sha"
+        ],
+        "optional": [
+          "scope",
+          "structured",
+          "speaker",
+          "question",
+          "premises",
+          "inference",
+          "payoff",
+          "reconstruction",
+          "uncertainties",
+          "option_choices[{l0_id,chosen_index,rejected[],reason}]"
+        ]
+      },
+      "producer": "translator (structured new work; unstructured backfill marked)",
+      "validator": "schemas/argmap.py: traces resolve; option_choices.chosen_index == L0 chosen_index; resolved forks must be adjudicated here",
+      "gate_rule": "Unstructured allowed only with reconstruction+traces (backfill tier). No adjudication outside option_choices.",
+      "consumers": [
+        "l2 (guided by)",
+        "site argmap md (critical view)",
+        "argument-packet (derived)"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "l2-object",
+      "stage": 4,
+      "purpose": "Plain English of the line. The readable layer; every clause traces to L0.",
+      "fields": {
+        "required": [
+          "verse_id",
+          "song",
+          "verse",
+          "plain_english",
+          "sanskrit_cite",
+          "l0_ids"
+        ],
+        "optional": [
+          "supplied[]",
+          "fidelity",
+          "trace_level"
+        ]
+      },
+      "producer": "translator, guided by argmap",
+      "validator": "schemas/l2.py + proof B7 (cite byte-exact vs source)",
+      "gate_rule": ">=1 existing l0_id per verse. Cite must be byte-exact substring of source. supplied[] should log bracketed insertions (backfill TODO).",
+      "consumers": [
+        "site-chunk.l2 (read/compare/literal views)",
+        "corpus-record.en"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "c1-object",
+      "stage": 5,
+      "purpose": "C1: the sharpest poetic reading, canonical. One shared essence list + the STANDARD 7-part essay, preserved. All further renders live in c2-render objects.",
+      "fields": {
+        "required": [
+          "song",
+          "essence",
+          "renders{standard}"
+        ]
+      },
+      "producer": "translator (standard); skills (renders)",
+      "validator": "schemas/c1.py: essence non-empty; standard has 7 sections; non-standard keys rejected (moved to C2)",
+      "gate_rule": "Standard essay preserved verbatim. No style variants here.",
+      "consumers": [
+        "site read view (standard essay)",
+        "style renders (withheld from site until essence reviewed)"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "proof-record",
+      "stage": 6,
+      "purpose": "Machine-checkable verdict per song: parse, count, align, cites, sharing, quotes, data-object validity. The envelope sanskritbenchy got right.",
+      "fields": {
+        "required": [
+          "song",
+          "source_sha",
+          "deterministic_gate",
+          "blocking[]",
+          "lineage{tool,schemas_version}"
+        ],
+        "optional": [
+          "align{ratios,sub090+dispositions}",
+          "c1_l2_shared",
+          "l2_cites",
+          "data_objects",
+          "warnings[]",
+          "needs[]"
+        ]
+      },
+      "producer": "tools/proof_record.py (+validate_song B8)",
+      "validator": "check.py proof-* steps; gate==PASS required",
+      "gate_rule": "BLOCKED on: parse failure, count mismatch, sub-0.90 without disposition, shared C1/L2 sentences, C1 quotes, cite mismatch, schema errors.",
+      "consumers": [
+        "emit_site gate mapping",
+        "STATUS",
+        "check.py"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "site-chunk",
+      "stage": 7,
+      "purpose": "What the reader renders. One chunk per verse: Sanskrit always; English ONLY on PASS.",
+      "fields": {
+        "required": [
+          "chunk",
+          "verses",
+          "sanskrit",
+          "gate",
+          "blocking",
+          "model",
+          "date"
+        ],
+        "optional": [
+          "l1",
+          "l2",
+          "accepted_by",
+          "accepted_date",
+          "accept_scope",
+          "needs",
+          "links{source_file,edition}"
+        ],
+        "constraints": {
+          "PASS": "l1,l2 non-empty",
+          "BLOCKED": "l1,l2 MUST be empty strings"
+        }
+      },
+      "producer": "translation-work/tools/emit_site.py (mechanical, from canonical JSON)",
+      "validator": "tools/validate_site.py",
+      "gate_rule": "FAIL-CLOSED: BLOCKED chunks carry zero English. Missing songs absent (greyed, never invented). l1 follows ## chunk (n) + // ref convention.",
+      "consumers": [
+        "read/compare/literal/critical views",
+        "build_layers chunks[]",
+        "build_translations pages",
+        "corpus-record",
+        "receipt evidence"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "site-argmap-md",
+      "stage": 7,
+      "purpose": "Critical-view argument map per chunk: reconstruction + open points + gloss adjudications.",
+      "fields": {
+        "required": [
+          "## <chunk> header",
+          "reconstruction or premises"
+        ],
+        "optional": [
+          "### Open",
+          "### Gloss adjudications"
+        ]
+      },
+      "producer": "emit_site.py from argmap JSON",
+      "validator": "validate_site.py (exists per PASS chunk with reconstruction; adjudications match data)",
+      "gate_rule": "Prose only; no new claims beyond the argmap object.",
+      "consumers": [
+        "layers.chunks[].argmap",
+        "critical view details element"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "layers-chunk",
+      "stage": 8,
+      "purpose": "Bundled offline payload (Bilara-style cognates): chunk + inlined c1/argmap md. Built, never hand-written.",
+      "fields": {
+        "required": [
+          "chunk",
+          "verses",
+          "gate",
+          "sanskrit",
+          "l1",
+          "l2"
+        ],
+        "optional": [
+          "c1",
+          "argmap",
+          "blocking",
+          "model",
+          "date",
+          "status",
+          "pushing[]"
+        ]
+      },
+      "producer": "site/build.py build_layers()",
+      "validator": "build-time: source files exist; do not hand-edit dist",
+      "gate_rule": "dist/ is generated. Truth lives in site/data/* + translation-work/data/*.",
+      "consumers": [
+        "read.js multi-view reader",
+        "offline use"
+      ],
+      "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
+    },
+    {
+      "id": "corpus-record",
+      "stage": 9,
+      "purpose": "Embeddings input: one JSONL line per retrievable unit, gate-labeled so retrieval can filter.",
+      "fields": {
+        "required": [
+          "id",
+          "work",
+          "ref",
+          "sa",
+          "en",
+          "en_gate",
+          "kind",
+          "license"
+        ],
+        "optional": [
+          "strength",
+          "status",
+          "premises",
+          "source_file",
+          "immutable_id",
+          "checks"
+        ]
+      },
+      "producer": "site/build.py build_corpus()",
+      "validator": "validate_site.py corpus step: en_gate in closed vocabulary; BLOCKED-en must be labeled (never silently embedded); license present",
+      "gate_rule": "RETRIEVER MUST FILTER: chat/style/embeddings may only use en_gate in {PASS,PUBLISHED,OWNER}. BLOCKED/MACHINE_DRAFT English is quarantined by label. Audit: any answer quoting quarantined English is a gate violation.",
+      "consumers": [
+        "embedding runs (bge-m3/Qwen3)",
+        "worker chat retrieval",
+        "worker style retrieval"
+      ],
+      "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
+    },
+    {
+      "id": "receipt",
+      "stage": 9,
+      "purpose": "Per-chunk audit trail: claim + evidence + versioned gates. FAIL receipts first-class.",
+      "fields": {
+        "required": [
+          "id",
+          "claim",
+          "target",
+          "gate",
+          "blocking"
+        ],
+        "optional": [
+          "evidence[]",
+          "model",
+          "date"
+        ]
+      },
+      "producer": "site/build.py build_receipts() via vendored kernel",
+      "validator": "kernel transition(); receipts.jsonl append-only",
+      "gate_rule": "Every displayed chunk has a receipt, including BLOCKED ones (records what did not pass).",
+      "consumers": [
+        "translations index audit trail",
+        "displays"
+      ],
+      "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
+    },
+    {
+      "id": "argument-packet",
+      "stage": 9,
+      "purpose": "Machine-readable argument for reasoning tasks: conclusion + premises + strength + tension links.",
+      "fields": {
+        "required": [
+          "id",
+          "work_id",
+          "passage_id",
+          "sanskrit",
+          "conclusion{text}",
+          "premises[{text}]"
+        ],
+        "optional": [
+          "license",
+          "strength",
+          "status",
+          "tension_id"
+        ]
+      },
+      "producer": "site/build.py build_arguments() (IPVV: from argmaps; stotras: derived from L2 prose — MACHINE_DRAFT)",
+      "validator": "build-time JSON parse; status labeled",
+      "gate_rule": "All stotra-derived packets are MACHINE_DRAFT until reviewed. Never present as established.",
+      "consumers": [
+        "corpus-record(kind=argument)",
+        "reasoning evals"
+      ],
+      "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
+    },
+    {
+      "id": "karaoke-word",
+      "stage": 10,
+      "purpose": "Syllable-level audio alignment for recitation: words stay conjoined, timings per syllable.",
+      "fields": {
+        "required": [
+          "w",
+          "r",
+          "t_on",
+          "t_off"
+        ],
+        "optional": [
+          "pada",
+          "syls[{d,t0,t1}]"
+        ]
+      },
+      "producer": "recite builder (MMS timings) + audio JSONs",
+      "validator": "build-time: no negative/overlap/multi-lit/stray timings; audio file present",
+      "gate_rule": "Timings are performance data, not translation data: never edit translation to fit timings.",
+      "consumers": [
+        "read.js karaoke spans",
+        "recite pages"
+      ],
+      "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
+    },
+    {
+      "id": "c2-render",
+      "stage": 5,
+      "purpose": "Prompt-reproducible renders (genz/eli5/poetic/formal/...): a NAME + a PROMPT over the frozen layers. Each render stores its prompt (reproducibility), model/date (provenance), and maps_to (every paragraph points at essence).",
+      "fields": {
+        "required": [
+          "song",
+          "renders[{style,prompt,paragraphs[{text,maps_to}]}]"
+        ],
+        "optional": [
+          "renders[].model",
+          "renders[].date",
+          "renders[].status"
+        ]
+      },
+      "producer": "skills (prompt) + translator review",
+      "validator": "schemas/c2.py via tools/validate_song.py: prompt non-empty; paragraphs non-empty; maps_to valid vs song essence",
+      "gate_rule": "Unmapped paragraphs rejected. Renders withheld from site until essence is human-reviewed (T4). A render without its prompt is not reproducible and is rejected.",
+      "consumers": [
+        "future site style views (gated on essence review)"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "site-variants",
+      "stage": 7,
+      "purpose": "Per-word alternative morphology/glosses on the site: tap a word, see what else it could mean and why. OUR glosses+grounds only — witness text never hosted.",
+      "fields": {
+        "required": [
+          "chunk",
+          "l0_id",
+          "surface",
+          "citation",
+          "chosen",
+          "options[{gloss,rank,source,grounds}]"
+        ],
+        "optional": [
+          "morph",
+          "fork",
+          "status",
+          "gate"
+        ]
+      },
+      "producer": "translation-work/tools/emit_site.py from data/*.l0.json",
+      "validator": "tools/validate_site.py (chunk ids resolve; no witness text leak: options[].source must be controlled vocabulary, grounds <=25 quoted words)",
+      "gate_rule": "Variants display for any gate state (they are audit data, not translation claims); fork:live shown as open, fork:resolved shows the adjudication.",
+      "consumers": [
+        "reader word-tap view (site lane)"
+      ],
+      "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
+    },
+    {
+      "id": "signoff",
+      "stage": 6,
+      "purpose": "Human acceptance record: GATE PASS = deterministic green AND human accepted (name+date). Machine proposes, humans dispose.",
+      "fields": {
+        "required": [
+          "song",
+          "accepted_by",
+          "date",
+          "scope"
+        ],
+        "optional": [
+          "notes"
+        ]
+      },
+      "producer": "human reviewer",
+      "validator": "schemas/signoff.py via tools/validate_song.py (optional file; invalid signoff blocks)",
+      "gate_rule": "Unsigned songs display as machine-proposed. Signed songs carry by/date/scope into site chunks.",
+      "consumers": [
+        "site chunks accepted_by/date/scope",
+        "STATUS",
+        "REGISTRY"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "suggestion",
+      "stage": "all",
+      "purpose": "Living translation: anyone proposes an alternative gloss/reading/translation; supports attest; maintainer merges into canonical data with history. SARIT fork/PR at JSON granularity; Ambuda status ladder at object granularity.",
+      "fields": {
+        "required": [
+          "id",
+          "song",
+          "target_kind",
+          "target_id",
+          "kind",
+          "body",
+          "grounds",
+          "by",
+          "date",
+          "status"
+        ],
+        "optional": [
+          "supports[{by,date,note}]",
+          "reason",
+          "merged_as"
+        ]
+      },
+      "producer": "anyone via tools/propose.py",
+      "validator": "schemas/suggestion.py (grounds required; accepted needs merged_as; rejected needs reason)",
+      "gate_rule": "Proposals never enter canonical data except through accept, which writes history. Untagged/groundless proposals rejected by validator.",
+      "consumers": [
+        "maintainer triage",
+        "argmap option_choices (via choose-option accept)",
+        "site variants (after merge + proof)"
+      ],
+      "supports_rule": "Supports are attestations, weight follows reviewer trust; maintainer merges like a PR. No auth infra: honesty over machinery.",
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "links-registry",
+      "stage": 0,
+      "purpose": "Verified outbound links only — catalog/search pages seen live; per-text deep links only where slugs are known. Never invent URLs.",
+      "fields": {
+        "required": [
+          "works{}",
+          "contribution_channels",
+          "rules"
+        ]
+      },
+      "producer": "hand-maintained lore/links.json",
+      "validator": "check.py: file parses; (human verifies URLs on touch)",
+      "gate_rule": "Unverified links forbidden. Witness text never hosted.",
+      "consumers": [
+        "readers verifying against upstream",
+        "contributors finding channels"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
     }
-   },
-   "producer": "translation-work/tools/emit_site.py (mechanical, from canonical JSON)",
-   "validator": "tools/validate_site.py",
-   "gate_rule": "FAIL-CLOSED: BLOCKED chunks carry zero English. Missing songs absent (greyed, never invented). l1 follows ## chunk (n) + // ref convention.",
-   "consumers": [
-    "read/compare/literal/critical views",
-    "build_layers chunks[]",
-    "build_translations pages",
-    "corpus-record",
-    "receipt evidence"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "site-argmap-md",
-   "stage": 7,
-   "purpose": "Critical-view argument map per chunk: reconstruction + open points + gloss adjudications.",
-   "fields": {
-    "required": [
-     "## <chunk> header",
-     "reconstruction or premises"
-    ],
-    "optional": [
-     "### Open",
-     "### Gloss adjudications"
-    ]
-   },
-   "producer": "emit_site.py from argmap JSON",
-   "validator": "validate_site.py (exists per PASS chunk with reconstruction; adjudications match data)",
-   "gate_rule": "Prose only; no new claims beyond the argmap object.",
-   "consumers": [
-    "layers.chunks[].argmap",
-    "critical view details element"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "layers-chunk",
-   "stage": 8,
-   "purpose": "Bundled offline payload (Bilara-style cognates): chunk + inlined c1/argmap md. Built, never hand-written.",
-   "fields": {
-    "required": [
-     "chunk",
-     "verses",
-     "gate",
-     "sanskrit",
-     "l1",
-     "l2"
-    ],
-    "optional": [
-     "c1",
-     "argmap",
-     "blocking",
-     "model",
-     "date",
-     "status",
-     "pushing[]"
-    ]
-   },
-   "producer": "site/build.py build_layers()",
-   "validator": "build-time: source files exist; do not hand-edit dist",
-   "gate_rule": "dist/ is generated. Truth lives in site/data/* + translation-work/data/*.",
-   "consumers": [
-    "read.js multi-view reader",
-    "offline use"
-   ],
-   "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
-  },
-  {
-   "id": "corpus-record",
-   "stage": 9,
-   "purpose": "Embeddings input: one JSONL line per retrievable unit, gate-labeled so retrieval can filter.",
-   "fields": {
-    "required": [
-     "id",
-     "work",
-     "ref",
-     "sa",
-     "en",
-     "en_gate",
-     "kind",
-     "license"
-    ],
-    "optional": [
-     "strength",
-     "status",
-     "premises",
-     "source_file",
-     "immutable_id",
-     "checks"
-    ]
-   },
-   "producer": "site/build.py build_corpus()",
-   "validator": "validate_site.py corpus step: en_gate in closed vocabulary; BLOCKED-en must be labeled (never silently embedded); license present",
-   "gate_rule": "RETRIEVER MUST FILTER: chat/style/embeddings may only use en_gate in {PASS,PUBLISHED,OWNER}. BLOCKED/MACHINE_DRAFT English is quarantined by label. Audit: any answer quoting quarantined English is a gate violation.",
-   "consumers": [
-    "embedding runs (bge-m3/Qwen3)",
-    "worker chat retrieval",
-    "worker style retrieval"
-   ],
-   "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
-  },
-  {
-   "id": "receipt",
-   "stage": 9,
-   "purpose": "Per-chunk audit trail: claim + evidence + versioned gates. FAIL receipts first-class.",
-   "fields": {
-    "required": [
-     "id",
-     "claim",
-     "target",
-     "gate",
-     "blocking"
-    ],
-    "optional": [
-     "evidence[]",
-     "model",
-     "date"
-    ]
-   },
-   "producer": "site/build.py build_receipts() via vendored kernel",
-   "validator": "kernel transition(); receipts.jsonl append-only",
-   "gate_rule": "Every displayed chunk has a receipt, including BLOCKED ones (records what did not pass).",
-   "consumers": [
-    "translations index audit trail",
-    "displays"
-   ],
-   "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
-  },
-  {
-   "id": "argument-packet",
-   "stage": 9,
-   "purpose": "Machine-readable argument for reasoning tasks: conclusion + premises + strength + tension links.",
-   "fields": {
-    "required": [
-     "id",
-     "work_id",
-     "passage_id",
-     "sanskrit",
-     "conclusion{text}",
-     "premises[{text}]"
-    ],
-    "optional": [
-     "license",
-     "strength",
-     "status",
-     "tension_id"
-    ]
-   },
-   "producer": "site/build.py build_arguments() (IPVV: from argmaps; stotras: derived from L2 prose — MACHINE_DRAFT)",
-   "validator": "build-time JSON parse; status labeled",
-   "gate_rule": "All stotra-derived packets are MACHINE_DRAFT until reviewed. Never present as established.",
-   "consumers": [
-    "corpus-record(kind=argument)",
-    "reasoning evals"
-   ],
-   "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
-  },
-  {
-   "id": "karaoke-word",
-   "stage": 10,
-   "purpose": "Syllable-level audio alignment for recitation: words stay conjoined, timings per syllable.",
-   "fields": {
-    "required": [
-     "w",
-     "r",
-     "t_on",
-     "t_off"
-    ],
-    "optional": [
-     "pada",
-     "syls[{d,t0,t1}]"
-    ]
-   },
-   "producer": "recite builder (MMS timings) + audio JSONs",
-   "validator": "build-time: no negative/overlap/multi-lit/stray timings; audio file present",
-   "gate_rule": "Timings are performance data, not translation data: never edit translation to fit timings.",
-   "consumers": [
-    "read.js karaoke spans",
-    "recite pages"
-   ],
-   "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
-  },
-  {
-   "id": "c2-render",
-   "stage": 5,
-   "purpose": "Prompt-reproducible renders (genz/eli5/poetic/formal/...): a NAME + a PROMPT over the frozen layers. Each render stores its prompt (reproducibility), model/date (provenance), and maps_to (every paragraph points at essence).",
-   "fields": {
-    "required": [
-     "song",
-     "renders[{style,prompt,paragraphs[{text,maps_to}]}]"
-    ],
-    "optional": [
-     "renders[].model",
-     "renders[].date",
-     "renders[].status"
-    ]
-   },
-   "producer": "skills (prompt) + translator review",
-   "validator": "schemas/c2.py via tools/validate_song.py: prompt non-empty; paragraphs non-empty; maps_to valid vs song essence",
-   "gate_rule": "Unmapped paragraphs rejected. Renders withheld from site until essence is human-reviewed (T4). A render without its prompt is not reproducible and is rejected.",
-   "consumers": [
-    "future site style views (gated on essence review)"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "site-variants",
-   "stage": 7,
-   "purpose": "Per-word alternative morphology/glosses on the site: tap a word, see what else it could mean and why. OUR glosses+grounds only — witness text never hosted.",
-   "fields": {
-    "required": [
-     "chunk",
-     "l0_id",
-     "surface",
-     "citation",
-     "chosen",
-     "options[{gloss,rank,source,grounds}]"
-    ],
-    "optional": [
-     "morph",
-     "fork",
-     "status",
-     "gate"
-    ]
-   },
-   "producer": "translation-work/tools/emit_site.py from data/*.l0.json",
-   "validator": "tools/validate_site.py (chunk ids resolve; no witness text leak: options[].source must be controlled vocabulary, grounds <=25 quoted words)",
-   "gate_rule": "Variants display for any gate state (they are audit data, not translation claims); fork:live shown as open, fork:resolved shows the adjudication.",
-   "consumers": [
-    "reader word-tap view (site lane)"
-   ],
-   "serialization": "JSONL stream (one record per line): append-only, streamable, shardable; suites embeddings ingestion and audit trails"
-  },
-  {
-   "id": "signoff",
-   "stage": 6,
-   "purpose": "Human acceptance record: GATE PASS = deterministic green AND human accepted (name+date). Machine proposes, humans dispose.",
-   "fields": {
-    "required": [
-     "song",
-     "accepted_by",
-     "date",
-     "scope"
-    ],
-    "optional": [
-     "notes"
-    ]
-   },
-   "producer": "human reviewer",
-   "validator": "schemas/signoff.py via tools/validate_song.py (optional file; invalid signoff blocks)",
-   "gate_rule": "Unsigned songs display as machine-proposed. Signed songs carry by/date/scope into site chunks.",
-   "consumers": [
-    "site chunks accepted_by/date/scope",
-    "STATUS",
-    "REGISTRY"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "suggestion",
-   "stage": "all",
-   "purpose": "Living translation: anyone proposes an alternative gloss/reading/translation; supports attest; maintainer merges into canonical data with history. SARIT fork/PR at JSON granularity; Ambuda status ladder at object granularity.",
-   "fields": {
-    "required": [
-     "id",
-     "song",
-     "target_kind",
-     "target_id",
-     "kind",
-     "body",
-     "grounds",
-     "by",
-     "date",
-     "status"
-    ],
-    "optional": [
-     "supports[{by,date,note}]",
-     "reason",
-     "merged_as"
-    ]
-   },
-   "producer": "anyone via tools/propose.py",
-   "validator": "schemas/suggestion.py (grounds required; accepted needs merged_as; rejected needs reason)",
-   "gate_rule": "Proposals never enter canonical data except through accept, which writes history. Untagged/groundless proposals rejected by validator.",
-   "consumers": [
-    "maintainer triage",
-    "argmap option_choices (via choose-option accept)",
-    "site variants (after merge + proof)"
-   ],
-   "supports_rule": "Supports are attestations, weight follows reviewer trust; maintainer merges like a PR. No auth infra: honesty over machinery.",
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  },
-  {
-   "id": "links-registry",
-   "stage": 0,
-   "purpose": "Verified outbound links only — catalog/search pages seen live; per-text deep links only where slugs are known. Never invent URLs.",
-   "fields": {
-    "required": [
-     "works{}",
-     "contribution_channels",
-     "rules"
-    ]
-   },
-   "producer": "hand-maintained lore/links.json",
-   "validator": "check.py: file parses; (human verifies URLs on touch)",
-   "gate_rule": "Unverified links forbidden. Witness text never hosted.",
-   "consumers": [
-    "readers verifying against upstream",
-    "contributors finding channels"
-   ],
-   "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
-  }
- ],
- "worker_contracts": [
-  {
-   "id": "chat-answer",
-   "purpose": "Worker chat answers grounded in corpus records.",
-   "rules": [
-    "retrieve only en_gate in {PASS,PUBLISHED,OWNER}",
-    "every factual claim cites chunk ids",
-    "BLOCKED/MACHINE_DRAFT English must never be quoted as established",
-    "user pasted versions (localStorage) are user data, never bundled, never embedded"
-   ],
-   "validator": "worker-side; audit via receipts + corpus labels (not yet enforced in repo — owner-side TODO)"
-  },
-  {
-   "id": "style-render",
-   "purpose": "Stylelab instant style transfer output.",
-   "rules": [
-    "output is UNVALIDATED style transfer: must never enter translations/ or corpus without passing the full gate (T1-L0-argmap-L2-C1-proof)",
-    "may be recorded as a C1 render only with maps_to essence indices (same rule as local renders)"
-   ],
-   "validator": "not enforced — stylelab has no gate hook (gap; do not use output as translation)"
-  }
- ],
- "rules_global": [
-  "FAIL-CLOSED everywhere: no English without PASS; no render without maps_to; no fork without grounds.",
-  "Generated over hand-written: dist/, layers JSON, corpus.jsonl, receipts.jsonl are built. Truth lives in source files.",
-  "Provenance on everything: source_sha / immutable_id / model / date travel with the data, not beside it.",
-  "Old lane rule stands: translation-work produces site/data inputs; site lane builds and deploys. Handoff logged in process/CLAIMS.md."
- ],
- "serialization_policy": "docs for curated sets (edit + validate as a set), lines for streams (append + stream). Never mix: a validated set must not be consumed as independent lines (traces cross records); a stream must never be hand-edited (append only; corrections are new runs).",
- "id_scheme": "verse N of song S: verse_id sXX-vNN (2-digit minimum, grows as needed). token I of verse: l0 id sXX-vNN-pIII (pada_index per-verse 0-based; renumbering on retokenization is expected — legacy_id preserves extractor coords, history narrates). site chunk id == verse_id (chunk IS the verse). corpus id {work}:{chunk}. legacy extractor ids T1-<stem>:L<line>:T<tok> kept as legacy_id. Two-pass GRETIL loader maps every verse to 1-based file lines (source_lines); chat citations MUST use (file, lines), never bare pada indexes."
+  ],
+  "worker_contracts": [
+    {
+      "id": "chat-answer",
+      "purpose": "Worker chat answers grounded in corpus records.",
+      "rules": [
+        "retrieve only en_gate in {PASS,PUBLISHED,OWNER}",
+        "every factual claim cites chunk ids",
+        "BLOCKED/MACHINE_DRAFT English must never be quoted as established",
+        "user pasted versions (localStorage) are user data, never bundled, never embedded"
+      ],
+      "validator": "worker-side; audit via receipts + corpus labels (not yet enforced in repo — owner-side TODO)"
+    },
+    {
+      "id": "style-render",
+      "purpose": "Stylelab instant style transfer output.",
+      "rules": [
+        "output is UNVALIDATED style transfer: must never enter translations/ or corpus without passing the full gate (T1-L0-argmap-L2-C1-proof)",
+        "may be recorded as a C1 render only with maps_to essence indices (same rule as local renders)"
+      ],
+      "validator": "not enforced — stylelab has no gate hook (gap; do not use output as translation)"
+    }
+  ],
+  "rules_global": [
+    "FAIL-CLOSED everywhere: no English without PASS; no render without maps_to; no fork without grounds.",
+    "Generated over hand-written: dist/, layers JSON, corpus.jsonl, receipts.jsonl are built. Truth lives in source files.",
+    "Provenance on everything: source_sha / immutable_id / model / date travel with the data, not beside it.",
+    "Old lane rule stands: translation-work produces site/data inputs; site lane builds and deploys. Handoff logged in process/CLAIMS.md."
+  ],
+  "serialization_policy": "docs for curated sets (edit + validate as a set), lines for streams (append + stream). Never mix: a validated set must not be consumed as independent lines (traces cross records); a stream must never be hand-edited (append only; corrections are new runs).",
+  "id_scheme": "verse N of song S: verse_id sXX-vNN (2-digit minimum, grows as needed). token I of verse: l0 id sXX-vNN-pIII (pada_index per-verse 0-based; renumbering on retokenization is expected — legacy_id preserves extractor coords, history narrates). site chunk id == verse_id (chunk IS the verse). corpus id {work}:{chunk}. legacy extractor ids T1-<stem>:L<line>:T<tok> kept as legacy_id. Two-pass GRETIL loader maps every verse to 1-based file lines (source_lines); chat citations MUST use (file, lines), never bare pada indexes."
 }

@@ -105,7 +105,7 @@ def main() -> int:
     step("directive-present", "User Directive 2026-11-01" in ag)
     try:
         dt = json.loads((ROOT / "DATATYPES.json").read_text())
-        dt_ok = (dt.get("version") == "1.1.0" and isinstance(dt.get("transforms"), list)
+        dt_ok = (dt.get("version") == "1.2.0" and isinstance(dt.get("transforms"), list)
                  and all(v.exists() or True for v in [ROOT / "tools" / "validate_site.py"]))
         # every transform with a translation-work validator must point at a real file
         for t in dt["transforms"]:
