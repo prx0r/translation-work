@@ -54,3 +54,20 @@ the reading layer — rewrite the line instead ("lodged in many caves",
 "shines in mind's mirror"). If a line needs a dash to scan, the line is unfinished.
 Proper names and terms keep their exact Sanskrit diacritics (Śiva, Māyā, Śambhu):
 readability never costs exactness.
+
+## 15. Read the whole stack before touching a layer — never rewrite a living voice unasked
+The Kramastotra L3 rewrite (2026-11-03): 30 loved couplets were replaced in one
+batch to satisfy a style rule, without re-reading C1, argmaps, or history — the
+very layers L3 must look at (LAYERS.md: L3 looks at ALL lower levels). Delivery
+through a script envelope made hand-composed lines feel machine-made, and the
+result flattened poetic compounds the owner loved ("praise-bonds", "churn-named",
+"taste spilling joy", "power-juiced") into plainer ones nobody asked for.
+Reverted in full. Binding lessons:
+- L3 work starts by re-reading C1 + argmaps + L0 + history + repo material (as the
+  Paramarthasara p01 pass did), never from L2 alone.
+- A script that writes files is still a script: batch-rewriting 30 verses in one
+  go is batch production (rules 10/11), however the lines were composed.
+- Style rules (rule 14) govern NEW lines. Existing lines readers love are not
+  defects because a new rule exists. Fix defects, never taste.
+- Unasked rewrites of a living layer are forbidden. Propose one verse, get a
+  verdict, then continue — one at a time.
