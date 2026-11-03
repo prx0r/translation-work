@@ -1,5 +1,31 @@
 # SCHOLAR — versioned scholar work, signed review, and how it gets live
 
+## Account sign-off submission bridge
+
+The optional account bridge accepts an HMAC-authenticated request from the Worker
+for an explicitly approved, exact private revision. Configure an owner-only
+`--bridge-secret-file` outside the repository, and the same value in the Worker
+`SCHOLAR_BRIDGE_SECRET`. Put the localhost-only service behind HTTPS and set the
+Worker `SCHOLAR_BRIDGE_URL` to that HTTPS origin. `--tokens-file` remains optional
+for the legacy bearer flow; existing session-cookie authentication remains separate.
+Rotate bridge credentials securely and never commit them.
+
+The bridge rechecks the Scheme A snapshot hash and rights declaration, imports the
+version in an isolated Git worktree, verifies the current proof and cross-layer song
+validator, and records a self-attested author ReviewEvent for the exact version and
+content hash. Author approval is not independent peer review and does not by itself
+promote the contribution to independently reviewed. AI-assisted text stays labelled.
+Signed essays become content-addressed `scholar-essay/1` objects; `verify` checks
+their address, attribution, rights and exact snapshot, not factual truth.
+After a reviewed merge, `python3 tools/emit_scholar.py --all` regenerates Scholar
+projections for every work with canonical T1 data in the sibling svread checkout.
+
+With `--push-remote origin`, explicit submission may expose the signed text on a
+public Git branch. It does not merge that branch or publish it on the reader; without
+the remote the result is only a local preparation. Live operation still needs the
+Worker migration, credentials, HTTPS proxy, site/browser gates and end-to-end testing.
+Never send private examples, notes or unsigned drafts to public Git.
+
 For the gated source and L4 evidence projection, see
 `process/SCHOLAR-EVIDENCE-2026-11-03.md`.
 
