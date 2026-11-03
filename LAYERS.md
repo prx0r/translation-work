@@ -69,6 +69,11 @@ GRETIL source verse (sha-pinned)
   anywhere in L3 lines. Hyphens stay where they carry the poetry; beloved
   compounds are voice, not defects. Names and terms keep exact
   Sanskrit diacritics (Śiva, Māyā); readability never costs exactness.
+  Rhythm is what makes it make sense: take the exact L3 and make it poetic
+  through cadence — the rise and fall that lets a verse parse when read aloud.
+  That is the whole point of the grammar and the translation underneath: exact
+  words set to a rhythm the ear can follow, so the meaning arrives as music
+  first and doctrine second.
 - **C2**: prompt + style + maps_to; reproducibility is the contract.
 
 ## Directory shape (per song, beside the legacy MD)
