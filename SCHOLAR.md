@@ -236,7 +236,15 @@ exactly as before.
 7. Scheme A vs Scheme B hashes are never interchanged (§3).
 8. Browser drafts are device-local and unpublished until exported into the ledger.
 
-## 13. Honest limits (as shipped)
+## 13. Rights (owner directive, 2026-11-03)
+
+- **Our English translation** (L1–L4 + commentary) = **FREE** — every emitted site chunk carries
+  `"license": "FREE"`; the reader's Attributions states it.
+- **Scholar words** (versions, reviews, sign-offs, browser drafts) = **(c) their authors, all
+  rights reserved.** Carried in the emitted `rights` block (`emit_scholar.py`), shown in the
+  Scholar hub. FREE never covers the scholars' edits.
+
+## 14. Honest limits (as shipped)
 
 - **Identity:** `signer` proves key possession, not who holds the key. `SELF_ATTESTED` vs
   `VERIFIED` = signed vs unsigned, nothing more. Admin-verified identities are future work.
