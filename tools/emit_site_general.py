@@ -77,6 +77,8 @@ def main() -> int:
         am = {o["verse"]: o for o in json.loads(am_path.read_text())} if am_path.exists() else {}
         l3_path = data / f"{song}.l3.json"
         l3 = {o["verse"]: o for o in json.loads(l3_path.read_text())} if l3_path.exists() else {}
+        l4_path = data / f"{song}.l4.json"
+        l4 = {o["verse"]: o for o in json.loads(l4_path.read_text())} if l4_path.exists() else {}
         prec = proofdir / f"proof-{song}.json"
         if not prec.exists():
             # fallback: by index among sorted proof files — ONLY when counts
@@ -103,6 +105,7 @@ def main() -> int:
             vid = v["verse_id"]
             l2o = l2.get(vn, {})
             l3o = l3.get(vn, {})
+            l4o = l4.get(vn, {})
             t1o = next((o for o in t1 if o["verse"] == vn), {})
             if gate == "PASS":
                 close = " / ".join(t["quick_gloss"] for t in v["tokens"])
@@ -141,17 +144,32 @@ def main() -> int:
                 ch["accept_scope"] = sign.get("scope")
             if psg.get("immutable_id"):
                 ch["immutable_id"] = psg["immutable_id"]
+            for pf in ("source_file", "source_license", "source_origin"):
+                if prev.get(pf) and not ch.get(pf):
+                    ch[pf] = prev[pf]
+            ch["license"] = "FREE"   # OUR English translation: free use (scholar words are (c))
             if gate == "PASS" and l3o.get("lines"):
                 ch["l3"] = "\n".join(x.strip() for x in l3o["lines"] if x.strip())
+            # L4 = the canonical svatantrya translation (song layer, subset of L3)
+            if gate == "PASS" and l4o.get("lines"):
+                ch["l4"] = "\n".join(x.strip() for x in l4o["lines"] if x.strip())
             # source_license: deliberately NOT defaulted — needs per-edition
             # legal decision (GRETIL/Muktabodha/KSTS differ). verify_site will
             # keep flagging it until the owner sets it. See CHAT.md gap log.
             chunks.append(ch)
             ao = am.get(vn, {})
             if gate == "PASS" and ao:
-                lines = [f"## {vid} — argument map", "",
-                         ao.get("reconstruction", "") or
-                         " ".join(ao.get("premises", []))]
+                lines = [f"## {vid} — argument map", ""]
+                if ao.get("speaker"):
+                    lines += [f"**Speaker.** {ao['speaker']}", ""]
+                if ao.get("question"):
+                    lines += [f"**Question.** {ao['question']}", ""]
+                if ao.get("reconstruction"):
+                    lines += [f"**Reconstruction.** {ao['reconstruction']}", ""]
+                if ao.get("premises"):
+                    lines += ["**Premises.**"] + [f"- {p}" for p in ao["premises"]] + [""]
+                if ao.get("inference"):
+                    lines += [f"**Inference.** {ao['inference']}", ""]
                 if ao.get("uncertainties"):
                     lines += ["", "### Open"] + [f"- {u}" for u in ao["uncertainties"]]
                 if ao.get("option_choices"):
@@ -159,7 +177,11 @@ def main() -> int:
                     for oc in ao["option_choices"]:
                         lines.append(f"- {oc['l0_id']}: chose option {oc['chosen_index']} "
                                      f"over {', '.join(oc.get('rejected', []))} — {oc['reason']}")
-                (argdir / f"{vid}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+                amd = argdir / f"{vid}.md"
+                if not args.force and amd.exists():
+                    pass          # keep the site-lane argmap view (hand-written; --force to re-emit)
+                else:
+                    amd.write_text("\n".join(lines) + "\n", encoding="utf-8")
         # C1: pristine display (SUMMARY + rasa) + scholar NOTE alongside.
         # Single-verse songs only (vid == song); multi-verse C1 stays song-level
         # until verse-level C1s exist — never duplicate one essay across verses.

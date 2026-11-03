@@ -57,10 +57,26 @@ def build(work: str) -> dict:
             so["review_id"] = rv[-1]["review_id"] if rv else ""
             signoffs.append(so)
 
+    # the Sanskrit original's edition (WORK ID on the hub) from passages.jsonl
+    src_ed = ""
+    for pf in sorted((ROOT / work).glob("passages.jsonl")):
+        for line in pf.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                src_ed = json.loads(line).get("source_edition", "") or src_ed
+                if src_ed:
+                    break
+        if src_ed:
+            break
+
     return {
         "work": work,
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "source": "translation-work canonical data + scholar/ ledgers (emit_scholar.py)",
+        "source_edition": src_ed,
+        "rights": {
+            "translation": "FREE — our English (L1–L4, commentary) is free use",
+            "scholar": "(c) their authors — scholar edits, versions, reviews and sign-offs are copyrighted",
+        },
         "originals": originals,
         "versions": versions,
         "reviews": reviews,

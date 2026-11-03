@@ -32,6 +32,29 @@ def main() -> int:
         _WORKS = {}
 
     gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
+    # prior site output: provenance stamped by trace_translations survives re-emits
+    prior = {}
+    site_out = SITE / "translations" / f"{args.work}.json"
+    if site_out.exists():
+        try:
+            prior = {c.get("chunk"): c for c in json.loads(site_out.read_text())}
+        except Exception:
+            prior = {}
+    # immutable_id: upstream passage cuts (stotra ranges -> passage id)
+    imm_of = {}
+    try:
+        for line in (w / "passages.jsonl").read_text(encoding="utf-8").splitlines():
+            if not line.strip():
+                continue
+            pr = json.loads(line)
+            rng = str(pr.get("verses", ""))
+            nums = [int(x) for x in __import__("re").findall(r"\d+", rng)]
+            if len(nums) == 1:
+                nums = [nums[0], nums[0]]
+            for st in range(nums[0], nums[1] + 1):
+                imm_of[f"s{st:02d}"] = pr["immutable_id"]
+    except Exception:
+        imm_of = {}
     chunks = []
     argdir = SITE / "argmaps" / args.work
     argdir.mkdir(parents=True, exist_ok=True)
@@ -90,7 +113,7 @@ def main() -> int:
                   "gate": gate, "blocking": proof.get("blocking", []),
                   "needs": needs,
                   "model": "crystal-v1", "date": proof.get("date", "2026-11-01"),
-                  "l1": l1, "l2": l2t,
+                  "l1": l1, "l2": l2t, "license": "FREE",
                   "links": {"source_file": t1o.get("source_file", src_file),
                             "edition": edition,
                             "source_lines": t1o.get("source_lines")}}
@@ -98,14 +121,28 @@ def main() -> int:
                 ch["accepted_by"] = sign.get("accepted_by")
                 ch["accepted_date"] = sign.get("date")
                 ch["accept_scope"] = sign.get("scope")
+            if imm_of.get(song):
+                ch["immutable_id"] = imm_of[song]
+            pv = prior.get(vid, {})
+            for pf in ("source_file", "source_license", "source_origin"):
+                if pv.get(pf) and not ch.get(pf):
+                    ch[pf] = pv[pf]
             if gate == "PASS" and l3o.get("lines"):
                 ch["l3"] = "\n".join(x.strip() for x in l3o["lines"] if x.strip())
             chunks.append(ch)
             ao = am.get(vn, {})
             if gate == "PASS" and ao:
-                lines = [f"## {vid} — argument map", "",
-                         ao.get("reconstruction", "") or
-                         " ".join(ao.get("premises", []))]
+                lines = [f"## {vid} — argument map", ""]
+                if ao.get("speaker"):
+                    lines += [f"**Speaker.** {ao['speaker']}", ""]
+                if ao.get("question"):
+                    lines += [f"**Question.** {ao['question']}", ""]
+                if ao.get("reconstruction"):
+                    lines += [f"**Reconstruction.** {ao['reconstruction']}", ""]
+                if ao.get("premises"):
+                    lines += ["**Premises.**"] + [f"- {p}" for p in ao["premises"]] + [""]
+                if ao.get("inference"):
+                    lines += [f"**Inference.** {ao['inference']}", ""]
                 if ao.get("uncertainties"):
                     lines += ["", "### Open"] + [f"- {u}" for u in ao["uncertainties"]]
                 if ao.get("option_choices"):
@@ -113,7 +150,11 @@ def main() -> int:
                     for oc in ao["option_choices"]:
                         lines.append(f"- {oc['l0_id']}: chose option {oc['chosen_index']} "
                                        f"over {', '.join(str(r) for r in oc.get('rejected', []))} — {oc['reason']}")
-                (argdir / f"{vid}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+                                amd = argdir / f"{vid}.md"
+                if amd.exists():
+                    pass      # keep site-lane argmap view (hand-crafted per-verse notes; never clobber)
+                else:
+                    amd.write_text("\n".join(lines) + "\n", encoding="utf-8")
         songs += 1
     out = SITE / "translations" / f"{args.work}.json"
     out.write_text(json.dumps(chunks, ensure_ascii=False, indent=1), encoding="utf-8")
