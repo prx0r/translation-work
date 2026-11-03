@@ -16,7 +16,9 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 27,
-   "note": "2026-11-02: full gold pipeline (T1/L0/argmap/L2/C1/L3 27/27), validate+proof PASS x3, L3 handcrafted couplets reviewed"
+   "note": "2026-11-02: full gold pipeline (T1/L0/argmap/L2/C1/L3 27/27), validate+proof PASS x3, L3 handcrafted couplets reviewed | 2026-11-04: L4 3/3 songs, 27/27v (per-song DRAFT+data), śāstra-hammer couplets, standing approval, gate green",
+   "l4_songs": 3,
+   "l4_verses": 27
   },
   {
    "work": "anuttarastika",
@@ -25,7 +27,9 @@
    "has_data_json": true,
    "has_process_log": false,
    "verses": 8,
-   "note": "L3 5/8 live (p02-p04 fail closed: no proof record, correctly held)"
+   "note": "L3 5/8 live (p02-p04 fail closed: no proof record, correctly held) | 2026-11-04: L4 5/8 songs sung (p01,p05-p08; DRAFT+data); p02-p04 BLOCKED: no L3 exists; anu-p01 L3/C1 essence-width mismatch noted (L4 mirrors L3); anu-* verse_id collision w/ anubhavanivedana flagged",
+   "l4_songs": 5,
+   "l4_verses": 5
   },
   {
    "work": "bhairavanukarana",
@@ -34,7 +38,9 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 48,
-   "note": "2026-11-02: full gold pipeline (T1/L0 515 tokens/argmap/L2/C1/L3 48/48, 5 songs), validate+proof PASS x5, L3 couplets handcrafted+reviewed; Gnoli ed. authority; QA NEEDS_WITNESS"
+   "note": "2026-11-02: full gold pipeline (T1/L0 515 tokens/argmap/L2/C1/L3 48/48, 5 songs), validate+proof PASS x5, L3 couplets handcrafted+reviewed; Gnoli ed. authority; QA NEEDS_WITNESS | 2026-11-04: L4 5/5 songs, 48/48v (per-song DRAFT+data), iconographic couplets, standing approval, gate green",
+   "l4_songs": 5,
+   "l4_verses": 48
   },
   {
    "work": "bhairavastava",
@@ -42,7 +48,10 @@
    "gold": true,
    "has_data_json": true,
    "has_process_log": false,
-   "verses": 10
+   "verses": 10,
+   "note": "2026-11-04: L4 10/10 songs (per-song DRAFT+data), stotra-address couplets, standing approval, gate green",
+   "l4_songs": 10,
+   "l4_verses": 10
   },
   {
    "work": "bodhapancadasika",
@@ -51,7 +60,9 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 15,
-   "note": "2026-11-02: full gold pipeline (T1/L0 153 tokens/argmap/L2/C1/L3 15/15), validate+proof PASS x15, L3 couplets handcrafted; QA NEEDS_WITNESS; Academy/Mahānaya witnesses compared"
+   "note": "2026-11-02: full gold pipeline (T1/L0 153 tokens/argmap/L2/C1/L3 15/15), validate+proof PASS x15, L3 couplets handcrafted; QA NEEDS_WITNESS; Academy/Mahānaya witnesses compared | 2026-11-04: L4 15/15 songs (per-song DRAFT+data), stotra couplets, standing approval, gate green",
+   "l4_songs": 15,
+   "l4_verses": 15
   },
   {
    "work": "bodhavilasa",
@@ -60,7 +71,9 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 41,
-   "note": "2026-11-02: full gold pipeline (T1/L0 373 tokens/argmap/L2/C1/L3 41/41, 5 songs; print jumps 13->15, v12 double-marked, maṅgala+colophon scoped), validate+proof PASS x5, L3 couplets handcrafted+reviewed; QA NEEDS_WITNESS"
+   "note": "2026-11-02: full gold pipeline (T1/L0 373 tokens/argmap/L2/C1/L3 41/41, 5 songs; print jumps 13->15, v12 double-marked, maṅgala+colophon scoped), validate+proof PASS x5, L3 couplets handcrafted+reviewed; QA NEEDS_WITNESS | 2026-11-04: L4 5/5 songs, 41/41v (per-song DRAFT+data), standing approval, gate green",
+   "l4_songs": 5,
+   "l4_verses": 41
   },
   {
    "work": "ghatakarpara",
@@ -68,7 +81,10 @@
    "gold": true,
    "has_data_json": true,
    "has_process_log": true,
-   "verses": 21
+   "verses": 21,
+   "note": "L4 BLOCKED 2026-11-04: no L3 exists for any song (3 songs/21v) — L4 requires L3; needs L3 pass first",
+   "l4_songs": 0,
+   "l4_verses": 0
   },
   {
    "work": "pancashloki",
@@ -76,7 +92,10 @@
    "gold": true,
    "has_data_json": true,
    "has_process_log": false,
-   "verses": 5
+   "verses": 5,
+   "note": "2026-11-04: L4 5/5 songs (per-song DRAFT+data), intimate-address couplets, standing approval, gate green",
+   "l4_songs": 5,
+   "l4_verses": 5
   },
   {
    "work": "parapravesika",
@@ -85,7 +104,9 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": "prose 9 passages",
-   "note": "2026-11-02: full gold pipeline (T1/L0 1116 tokens/argmap/L2/C1/L3 9/9), validate+proof PASS x9, L3 transmission handcrafted; QA NEEDS_WITNESS; Sauḥ/etad sharpenings from Pradipaka"
+   "note": "2026-11-02: full gold pipeline (T1/L0 1116 tokens/argmap/L2/C1/L3 9/9), validate+proof PASS x9, L3 transmission handcrafted; QA NEEDS_WITNESS; Sauḥ/etad sharpenings from Pradipaka | 2026-11-04: L4 9/9 songs (per-song DRAFT+data), length-follows-argument forms, standing approval, gate green",
+   "l4_songs": 9,
+   "l4_verses": 9
   },
   {
    "work": "paryantapancasika",
@@ -94,7 +115,9 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 52,
-   "note": "2026-11-02: full gold pipeline (T1/L0 625 tokens/argmap/L2/C1/L3 52/52, 8 songs), validate+proof PASS x8, L3 couplets handcrafted+reviewed; no-43-marker + invocation scoped; QA NEEDS_WITNESS"
+   "note": "2026-11-02: full gold pipeline (T1/L0 625 tokens/argmap/L2/C1/L3 52/52, 8 songs), validate+proof PASS x8, L3 couplets handcrafted+reviewed; no-43-marker + invocation scoped; QA NEEDS_WITNESS | 2026-11-04: L4 8/8 songs, 52/52v (per-song DRAFT+data), hermetic couplets, standing approval, gate green",
+   "l4_songs": 8,
+   "l4_verses": 52
   },
   {
    "work": "sivastotravali",
@@ -104,7 +127,9 @@
    "has_process_log": false,
    "verses": 450,
    "partial": false,
-   "note": "2026-11: 20/20 songs L3 canonical (couplet schema), check.py CANONICAL 0 failures, pushed; site-layer rebuild pending"
+   "note": "2026-11: 20/20 songs L3 canonical (couplet schema), check.py CANONICAL 0 failures, pushed; site-layer rebuild pending | 2026-11-04: L4 20/20 songs, 450/450v (per-song DRAFT+data), stotra registers (establishment/salutation/feast/seal), standing approval, gate green",
+   "l4_songs": 20,
+   "l4_verses": 450
   },
   {
    "work": "anubhavanivedana",
@@ -112,7 +137,10 @@
    "gold": true,
    "has_data_json": true,
    "has_process_log": false,
-   "verses": 4
+   "verses": 4,
+   "note": "2026-11-04: L4 4/4 songs (DRAFT+data), full-process w/ rejected-options, v1 approved by owner then standing approval, gate green",
+   "l4_songs": 4,
+   "l4_verses": 4
   },
   {
    "work": "dehastha",
@@ -129,7 +157,9 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 56,
-   "note": "2026-11-02: full gold pipeline (T1/L0/argmap/L2/C1/L3 56/56, 7 songs), validate+proof PASS x7, L3 handcrafted; v54 parser gap fixed in workcfg; taye variant + v37/38 sentence recorded"
+   "note": "2026-11-02: full gold pipeline (T1/L0/argmap/L2/C1/L3 56/56, 7 songs), validate+proof PASS x7, L3 handcrafted; v54 parser gap fixed in workcfg; taye variant + v37/38 sentence recorded | 2026-11-04: L4 7/7 songs, 56/56v (per-song DRAFT+data), lacunae sung as gaps, L3 rhyme kept, standing approval, gate green",
+   "l4_songs": 7,
+   "l4_verses": 56
   },
   {
    "work": "kramastotra",
@@ -138,7 +168,9 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 30,
-   "note": "2026-11-02: full gold pipeline (T1/L0 573 tokens/argmap/L2/C1/L3 30/30), validate+proof PASS x30, L3 couplets handcrafted+reviewed; v24 hemistich recovered, v26 fork live, SD/variant grounds; QA NEEDS_WITNESS"
+   "note": "2026-11-02: full gold pipeline (T1/L0 573 tokens/argmap/L2/C1/L3 30/30), validate+proof PASS x30, L3 couplets handcrafted+reviewed; v24 hemistich recovered, v26 fork live, SD/variant grounds; QA NEEDS_WITNESS | 2026-11-04: L4 30/30 songs (per-song DRAFT+data), sings handcrafted restored L3 (retransmission reverted 2a45bbc); v26 live-fork noted not litigated, standing approval, gate green",
+   "l4_songs": 30,
+   "l4_verses": 30
   },
   {
    "work": "mahopadeshavimshatika",
@@ -162,7 +194,10 @@
    "gold": true,
    "has_data_json": true,
    "has_process_log": false,
-   "verses": 8
+   "verses": 8,
+   "note": "2026-11-04: L4 8/8 songs (per-song DRAFT+data), śānta couplets, standing approval, gate green",
+   "l4_songs": 8,
+   "l4_verses": 8
   },
   {
    "work": "paramarthadvadasika",
@@ -196,7 +231,9 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 20,
-   "note": "2026-11-02: full gold pipeline (T1/L0 47 tokens/argmap/L2/C1/L3 20/20, 5 songs), validate+proof PASS x5, L3 couplets handcrafted; siddhi-triple gloss revised with reason; QA NEEDS_WITNESS"
+   "note": "2026-11-02: full gold pipeline (T1/L0 47 tokens/argmap/L2/C1/L3 20/20, 5 songs), validate+proof PASS x5, L3 couplets handcrafted; siddhi-triple gloss revised with reason; QA NEEDS_WITNESS | 2026-11-04: L4 5/5 songs, 20/20v (per-song DRAFT+data), aphoristic couplets/monostichs, standing approval, gate green",
+   "l4_songs": 5,
+   "l4_verses": 20
   },
   {
    "work": "ptvmadhyama",
@@ -230,7 +267,9 @@
    "has_process_log": true,
    "verses": 23,
    "partial": false,
-   "note": "2026-11-02: p01-p03 canonical (vv1-23, validate+proof PASS x3, L3 handcrafted); 23 slokas (2 mangala+21 karikas)"
+   "note": "2026-11-02: p01-p03 canonical (vv1-23, validate+proof PASS x3, L3 handcrafted); 23 slokas (2 mangala+21 karikas) | 2026-11-04: L4 3/3 songs, 23/23v (per-song DRAFT+data), standing approval, gate green",
+   "l4_songs": 3,
+   "l4_verses": 23
   },
   {
    "work": "sivasutra",
@@ -254,7 +293,10 @@
    "gold": true,
    "has_data_json": true,
    "has_process_log": true,
-   "verses": 2
+   "verses": 2,
+   "note": "2026-11-04: L4 1/1 songs, 2/2v (DRAFT+data), schema+subset validated, owner-approved both verses, gate green",
+   "l4_songs": 1,
+   "l4_verses": 2
   },
   {
    "work": "stavacintamani",
