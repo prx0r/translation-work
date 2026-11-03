@@ -21,9 +21,11 @@ Each layer looks at the previous layers for support. Nothing floats:
 | 3 | ARGMAP | SOURCE + T1 + L0 + scholarship | terse argument; adjudicates forks on the record | `schemas/argmap.py` |
 | 4 | L2 | all above | plain-English verse, cites byte-exact | `schemas/l2.py` + proof B7 |
 | 5 | C1 | all above + rasa lore | essence + standard essay (sharpest poetic reading) | `schemas/c1.py` |
-| 6 | C2 | essence + a prompt | style renders (eli5, genz, …), maps_to enforced | `schemas/c2.py` |
-| 7 | Proof | everything | PASS/BLOCKED + needs + lineage | `tools/proof_record.py` |
-| 8 | Site | proof-PASS data only | reader chunks, variants, argmaps | `tools/validate_site.py` |
+| 6 | L3 | SOURCE + T1 + L0 + ARGMAP + L2 + C1 | final exact transmission, line-by-line verse (frozen once loved) | `schemas/l3.py` |
+| 7 | L4 | L3 + C1 essence/rasa | the song: L3 set to music (prosody, rhythm, rhyme); traces subset of L3 | `schemas/l4.py` |
+| 8 | C2 | essence + L3 (+ L4) + a prompt | style renders (eli5, genz, …), maps_to enforced | `schemas/c2.py` |
+| 9 | Proof | everything | PASS/BLOCKED + needs + lineage | `tools/proof_record.py` |
+| 10 | Site | proof-PASS data only | reader chunks, variants, argmaps | `tools/validate_site.py` |
 
 Full contract: `LAYERS.md`. Relation to ipvv + benchy: `ALIGNMENT.md`. Known tensions: `TENSIONS.json`.
 Machine-readable registry of every datatype: `DATATYPES.json`. Version manifest: `stack.json`.

@@ -63,8 +63,7 @@ sense. This is the whole point of the grammar and translation underneath: exact
 words set to a rhythm the ear can follow. A couplet that is exact but unrhythmic
 is unfinished; a couplet that sings but adds claims is unfaithful. Both bars hold.
 
-## 15. Read the whole stack before touching a layer — never rewrite a living voice unasked
-The Kramastotra L3 rewrite (2026-11-03): 30 loved couplets were replaced in one
+## 15. Read the whole stack before touching a layer — never rewrite a living voice unaskedThe Kramastotra L3 rewrite (2026-11-03): 30 loved couplets were replaced in one
 batch to satisfy a style rule, without re-reading C1, argmaps, or history — the
 very layers L3 must look at (LAYERS.md: L3 looks at ALL lower levels). Delivery
 through a script envelope made hand-composed lines feel machine-made, and the
@@ -79,3 +78,18 @@ Reverted in full. Binding lessons:
   defects because a new rule exists. Fix defects, never taste.
 - Unasked rewrites of a living layer are forbidden. Propose one verse, get a
   verdict, then continue — one at a time.
+
+## 17. L4 sings, L3 means — never the reverse
+L3 is the exact transmission; once handcrafted and loved it is FROZEN. All
+musical work — prosody, rhythm, rhyme, refrain, rearrangement — lives in L4,
+never in L3 edits. The subset rule is the enforcement: every L4's l0_ids and
+essence_maps must already be present in its L3. A rhyme word that needs a new
+slant is not music, it is new doctrine — re-ground it in L3 first (with
+history and reasons, through the living loop), or drop the rhyme. Rhyme never
+twists meaning; rhythm never adds claims. Refrains and vocables (aho, he,
+repetition for chant) are music, allowed without L0 trace, but they carry no
+doctrine and must not smuggle any. First L4 verse of a work needs owner
+verdict before the rest — one at a time (rule 15). The validator checks
+traces, slashes, and diacritics; the ear checks the rest. A couplet that is
+exact but unrhythmic is unfinished L4, not failed L3 — finish the song, do
+not touch the transmission.

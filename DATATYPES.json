@@ -1,7 +1,7 @@
 {
   "canonical": "translation-work/DATATYPES.json",
-  "version": "1.2.0",
-  "date": "2026-11-01",
+  "version": "1.3.0",
+  "date": "2026-11-03",
   "note": "Every datatype in the Sanskrit-to-site pipeline: what each transformation of the Sanskrit is FOR, its exact shape, who produces it, what validates it, and the gate rule. A new artifact adheres to the standard iff it validates under its validator AND honors its gate rule. Executable companion: tools/validate_site.py; meta-check in check.py (contract step).",
   "transforms": [
     {
@@ -204,6 +204,38 @@
         "corpus-record (l3 field)",
         "embeddings (L3 leads)",
         "recitation display"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
+      "id": "l4-song",
+      "stage": 5,
+      "purpose": "The song: L3 set to music. Prosody, rhythm, rhyme, refrain, cadence — small edits and rearrangements so the verse parses as song. Music, never doctrine: traces are a subset of the verse's L3.",
+      "fields": {
+        "required": [
+          "verse_id",
+          "song",
+          "verse",
+          "lines",
+          "sanskrit_cite",
+          "l0_ids",
+          "essence_maps"
+        ],
+        "optional": [
+          "form",
+          "supplied",
+          "notes",
+          "fidelity",
+          "needs"
+        ]
+      },
+      "producer": "translator (hand-craft, one verse at a time) -> tools/validate_song.py --song",
+      "validator": "schemas/l4.py via tools/validate_song.py; subset-vs-L3 + coverage enforced there",
+      "gate_rule": "Requires L3. l0_ids and essence_maps must be subsets of the verse's L3 (a rhyme needing a new slant fails). No slashes; exact diacritics (Śiva, Māyā, Śambhu). May share sentences with L3 by design. Machine-proposed until human review; first verse needs owner verdict before the rest.",
+      "consumers": [
+        "site-chunk (l4 song lane)",
+        "chat RAG (L4 quoted for musical requests)",
+        "recitation display (singable lines lead)"
       ],
       "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
     },

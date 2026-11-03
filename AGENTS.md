@@ -90,6 +90,8 @@ L0 — scholarly audit, term-by-term. Morphology + ranked OPTIONS (grounds + sou
 ARGMAP — reads verse as whole against Sanskrit+T1+L0+scholarship. Terse logical statements. Adjudicates forks on the record (option_choices). Scholarly refs as support, not claims. No certainty/uncertainty labels.
 L2 — our translation proper. Readable line-by-line plain English, every clause tracing to L0 ids, cite byte-exact. Rasa carried in word choice and rhythm. supplied[] logs bracketed insertions.
 C1 — subtle essence over all lower levels, rasa theory. Names what verse DOES. Optional rasa{} block. Standard 7-part essay preserved. No document-reference. No quotes. No shared sentences with L2.
+L3 — final exact transmission; line-by-line verse tracing to L0 + essence. Frozen once loved.
+L4 — the song: L3 set to music (prosody, rhythm, rhyme). Traces subset of L3's; requires L3. First verse needs owner verdict.
 C2 — prompt renders (eli5, genz, poetic, formal, ...). Style + reproducing prompt + model/date + paragraphs mapped to essence indices. A new reading is just a prompt.
 
 ## Invariants (validator-enforced)
@@ -101,6 +103,7 @@ C2 — prompt renders (eli5, genz, poetic, formal, ...). Style + reproducing pro
 5. C1 essence non-empty; standard render preserved with all 7 sections.
 6. C2 renders: prompt non-empty; every paragraph maps to essence.
 7. Verse/song coverage: T1+L0+argmap+L2 span exactly the source verse set.
+8. L3: lines non-empty; ≥1 l0_id + ≥1 essence index. L4 requires L3; traces subset of L3's; no slashes; exact diacritics.
 
 ## Living Translation (how others join)
 

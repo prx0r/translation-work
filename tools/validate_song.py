@@ -22,6 +22,10 @@ try:
 except ImportError:
     l3s = None
 try:
+    import l4 as l4s  # noqa: E402
+except ImportError:
+    l4s = None
+try:
     import signoff as signoff_s  # noqa: E402
 except ImportError:
     signoff_s = None
@@ -95,6 +99,32 @@ def main() -> int:
     c2 = json.loads(c2path.read_text()) if c2path.exists() else None
     if c2 is not None:
         errs += c2s.validate(c2, "c2", len(c1.get("essence", [])))
+    # L4 (song layer): requires L3; traces must be a subset of L3's
+    # (music, never doctrine). L4 may share sentences with L3 by design.
+    l4path = data / f"{song}.l4.json"
+    l4 = json.loads(l4path.read_text()) if l4path.exists() else None
+    if l4 is not None:
+        if l4s is None:
+            errs.append("l4 present but schemas/l4.py unavailable")
+        elif l3 is None:
+            errs.append("l4 present without L3 (L4 requires L3 — set the exact line first)")
+        else:
+            l3_by_verse = {o["verse"]: o for o in l3}
+            n_ess = len(c1.get("essence", []))
+            for o in l4:
+                errs += l4s.validate(o, f"l4[{o.get('verse_id')}]", l0_ids, n_ess)
+                base = l3_by_verse.get(o.get("verse"))
+                if base is None:
+                    errs.append(f"l4[{o.get('verse_id')}]: no L3 for verse {o.get('verse')}")
+                    continue
+                extra_l0 = set(o.get("l0_ids", [])) - set(base.get("l0_ids", []))
+                if extra_l0:
+                    errs.append(f"l4[{o.get('verse_id')}]: l0_ids beyond L3 "
+                                f"(music, never doctrine): {sorted(extra_l0)[:3]}")
+                extra_e = set(o.get("essence_maps", [])) - set(base.get("essence_maps", []))
+                if extra_e:
+                    errs.append(f"l4[{o.get('verse_id')}]: essence_maps beyond L3: "
+                                f"{sorted(extra_e)[:3]}")
     spost = data / f"{song}.signoff.json"
     signoff = None
     if spost.exists():
@@ -125,6 +155,8 @@ def main() -> int:
             errs.append(f"coverage {name}: {sorted(have)} != source {sorted(src_verses)}")
     if l3 is not None and {o["verse"] for o in l3} != src_verses:
         errs.append(f"coverage l3: {sorted(o['verse'] for o in l3)} != source {sorted(src_verses)}")
+    if l4 is not None and {o["verse"] for o in l4} != src_verses:
+        errs.append(f"coverage l4: {sorted(o['verse'] for o in l4)} != source {sorted(src_verses)}")
     l0_verses = set()
     _vid2verse = {o["verse_id"]: o.get("verse") for o in t1}
     for o in l0:
@@ -143,9 +175,10 @@ def main() -> int:
         errs.append(f"coverage l0 verses {sorted(l0_verses)} != source {sorted(src_verses)}")
 
     print(json.dumps({"song": song, "errors": errs,
-                      "counts": {"t1": len(t1), "l0": len(l0), "argmap": len(am),
-                                 "l2": len(l2), "l3": len(l3) if l3 else 0,
-                                 "essence": len(c1.get("essence", [])),
+                       "counts": {"t1": len(t1), "l0": len(l0), "argmap": len(am),
+                                  "l2": len(l2), "l3": len(l3) if l3 else 0,
+                                  "l4": len(l4) if l4 else 0,
+                                  "essence": len(c1.get("essence", [])),
                                  "renders": list(c1.get("renders", {})),
                        "c2_renders": [r.get("style") for r in (c2 or {}).get("renders", [])]
                                   if c2 else [],

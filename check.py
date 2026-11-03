@@ -29,7 +29,7 @@ def main() -> int:
 
     sys.path.insert(0, str(ROOT / "schemas"))
     try:
-        import t1 as t1s, l0 as l0s, argmap as ams, l2 as l2s, c1 as c1s, c2 as c2s, l3 as l3s
+        import t1 as t1s, l0 as l0s, argmap as ams, l2 as l2s, c1 as c1s, c2 as c2s, l3 as l3s, l4 as l4s
         from __init__ import SCHEMA_VERSION  # noqa
     except Exception:
         try:
@@ -43,9 +43,9 @@ def main() -> int:
     step("schemas-import", True)
 
     stack = json.loads((ROOT / "stack.json").read_text())
-    sync = stack.get("schemas_version") == "1.1.0"
+    sync = stack.get("schemas_version") == "1.3.0"
     req_ok = True
-    for mod, name in [(t1s, "t1"), (l0s, "l0"), (ams, "argmap"), (l2s, "l2"), (c1s, "c1"), (l3s, "l3")]:
+    for mod, name in [(t1s, "t1"), (l0s, "l0"), (ams, "argmap"), (l2s, "l2"), (c1s, "c1"), (l3s, "l3"), (l4s, "l4")]:
         if set(stack["required_by_layer"][name]) != set(mod.REQUIRED):
             req_ok = False
             fails.append(f"stack-sync: {name}.REQUIRED drifted from stack.json")
@@ -105,7 +105,7 @@ def main() -> int:
     step("directive-present", "User Directive 2026-11-01" in ag)
     try:
         dt = json.loads((ROOT / "DATATYPES.json").read_text())
-        dt_ok = (dt.get("version") == "1.2.0" and isinstance(dt.get("transforms"), list)
+        dt_ok = (dt.get("version") == "1.3.0" and isinstance(dt.get("transforms"), list)
                  and all(v.exists() or True for v in [ROOT / "tools" / "validate_site.py"]))
         # every transform with a translation-work validator must point at a real file
         for t in dt["transforms"]:

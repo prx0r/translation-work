@@ -43,13 +43,23 @@ GRETIL source verse (sha-pinned)
        (Abhinavagupta's rasa theory: the text aims at relish/camatkāra, so the essence
        names the relish, not just the doctrine). Song-level essence[] + the standard
        7-part essay, preserved. Renders of it live in C2.
-  │  L3 looks at: SOURCE + T1 + L0 + ARGMAP + L2 + C1 (essence, rasa, notes, boundaries)
-  ▼
-  L3 — the final canonical translation: one translation to look at. Line-by-line evocative
-       verse, every line traces to L0 + essence indices. No new doctrine, boundary items
-       stay open with notes. Distills C1's essence into the single reading — the sharpest
-       poetic reading as prose, then as verse. Machine-proposed until signed.
-  │  C2 looks at: C1 essence + L3 (final text) + a PROMPT (+ frozen layers)
+   │  L3 looks at: SOURCE + T1 + L0 + ARGMAP + L2 + C1 (essence, rasa, notes, boundaries)
+   ▼
+   L3 — the final canonical translation: one translation to look at. Line-by-line evocative
+        verse, every line traces to L0 + essence indices. No new doctrine, boundary items
+        stay open with notes. Distills C1's essence into the single reading — the sharpest
+        poetic reading as prose, then as verse. Machine-proposed until signed.
+        Once handcrafted and loved, L3 is FROZEN — later musical work lives in L4,
+        never in L3 edits.
+   │  L4 looks at: L3 + C1 essence/rasa (+ L0/L2 frozen, grounding only)
+   ▼
+   L4 — the song: L3 set to music. Prosody, rhythm, rhyme, refrain, cadence —
+        small edits and rearrangements so the verse parses as song when read aloud
+        or chanted. Music, never doctrine: every L4's l0_ids and essence_maps are
+        a SUBSET of its L3's. A rhyme that needs a new slant fails — re-ground it
+        in L3 first, or drop it. Requires L3; shares sentences with L3 by design
+        (the L2/L3 no-share rule does not apply here). Machine-proposed until signed.
+   │  C2 looks at: C1 essence + L3 (+ L4 where present, for music-carrying styles) + a PROMPT (+ frozen layers)
   ▼
   C2 — further renders (genz, eli5, poetic, formal, …): style + reproducing prompt +
        model/date + paragraphs mapped to essence. A new reading is just a prompt away;
@@ -69,7 +79,10 @@ GRETIL source verse (sha-pinned)
   anywhere in L3 lines. Hyphens stay where they carry the poetry; beloved
   compounds are voice, not defects. Names and terms keep exact
   Sanskrit diacritics (Śiva, Māyā); readability never costs exactness.
-  Rhythm is what makes it make sense: take the exact L3 and make it poetic
+  Frozen once loved — musical work lives in L4, never in L3 edits.
+- **L4**: the song; L3 set to music (prosody, rhythm, rhyme, refrain).
+  Traces are a subset of L3's — music, never doctrine. Requires L3.
+  Rhythm is what makes it make sense: take the exact L3 and make it sing
   through cadence — the rise and fall that lets a verse parse when read aloud.
   That is the whole point of the grammar and the translation underneath: exact
   words set to a rhythm the ear can follow, so the meaning arrives as music
@@ -86,6 +99,7 @@ sivastotravali/
   data/s01.l2.json       # L2 objects (one per verse)
   data/s01.c1.json       # C1 object (essence + standard render)
   data/s01.l3.json       # L3 objects (one per verse; the single translation to read)
+  data/s01.l4.json       # L4 objects (one per verse; L3 set to music) — optional
   data/s01.c2.json       # C2 renders (style + prompt + maps_to) — optional
   proof/proof-s01.json   # proof record (validates data objects when present)
 ```
@@ -121,3 +135,5 @@ The stack is append-mostly and every change is a JSON diff away:
 6. C2 renders: prompt non-empty; every paragraph maps to essence.
 7. Verse/song coverage: T1+L0+argmap+L2 span exactly the GRETIL verse set, no more, no less.
 8. L3 lines non-empty; every L3 lists ≥1 existing l0_id and ≥1 essence index.
+9. L4 requires L3; every L4 spans exactly the L3 verse set, with l0_ids and
+   essence_maps a subset of its L3's; no slashes; exact diacritics.

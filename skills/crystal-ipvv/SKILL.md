@@ -52,20 +52,31 @@ prompts all the way down. Skip a layer and every layer above it is ungrounded.*
    C1 object's `rasa{}` block (dominant, sthāyibhava, justification). Forbidden in C1,
    always: quoted English gloss-words; sentences *about* the text (full banned list
    under gate 8); any sentence shared with L2.
-8. **C2 (prompt renders).** A new reading is just a prompt: `tools/render_c2.py --song
+8. **L3 then L4 (transmission, then song).** L3 is the single exact reading to look
+   at (line-by-line, traces to L0 + essence, no new doctrine). Once an L3 is
+   handcrafted and loved it is FROZEN. L4 sets it to music: prosody, rhythm, rhyme,
+   refrain, rearrangement — small edits so the verse parses as song. Music, never
+   doctrine: every L4's `l0_ids`/`essence_maps` must already be in its L3 (validator
+   enforces subset). First L4 verse needs owner verdict before the rest — one at
+   a time, never a batch rewrite.
+   Songcraft grounding: `lore/bank/songcraft-bank.json` (21 exhibits, query by
+   device/meter/rasa) + `lore/rasa/english-transmission-2026-11-03.md` (the
+   transmission table: Sanskrit structure → English structure).
+9. **C2 (prompt renders).** A new reading is just a prompt: `tools/render_c2.py --song
    sXX --style <name> --prompt "..."` (starters: `eli5`, `genz`). Model output must
    carry `[E#]` essence tags per paragraph; untagged output is rejected to `.draft`,
    never merged. Validate, then merge into `data/<song>.c2.json`. Withhold from site
    until essence is human-reviewed (T4).
-9. **Run the gates, fix what fails, triage the living queue:**
+10. **Run the gates, fix what fails, triage the living queue:**
    - L0: 100% parsed AND T1 covers the full source (verse count vs edition — parse rate cannot certify this).
    - Zero long sentences shared between C1 and L2.
    - Zero long sentences shared across the work's argmaps.
    - Zero `"` characters in any C1 file.
    - No metacommentary phrases (grep: `the (verse|hymn|stotra) (has|is|quotes|describes|opens|closes)`, `imagery does`, `grammar carries`, `closes the arc`, `quotes itself`).
+   - L4 (when present): requires L3; traces subset of L3; no `/`; exact diacritics. First verse needs owner verdict.
    - Triage open suggestions: `tools/propose.py --song sXX --list --status open` — support, accept (writes history), or reject with reason. Never merge without grounds.
    - `python3 check.py` → CANONICAL, 0 failures (schemas, proofs, round-trips, site data, contract).
-10. **Registry + STATUS.** Mark COMPLETE only as `machine-proposed, needs human review`. Never mark final. Never claim human review happened.
+11. **Registry + STATUS.** Mark COMPLETE only as `machine-proposed, needs human review`. Never mark final. Never claim human review happened.
 
 ## Non-negotiables
 
@@ -73,6 +84,7 @@ prompts all the way down. Skip a layer and every layer above it is ungrounded.*
 - A verse half missing from T1 invalidates everything downstream — re-derive from the fixed T1.
 - Uncertainty is marked in place (obscure compounds, open antecedents, undecodable chronograms), never smoothed over and never invented around.
 - A fork with no grounds is an invention. A render with no maps_to is drift. An answer with no trace is not an answer.
+- L4 music must fit L3's traces. A rhyme that needs a new slant is new doctrine — re-ground it or drop it.
 - Rasa in L2 is not decoration. Each word choice must be justified by the verse's rasa:
   if the verse is about longing, the language is yearning-weighted; if about violence, abrupt;
   if about beauty, sensuous; if about surrender, yielding; if about wonder, opening.

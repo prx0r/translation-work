@@ -164,6 +164,34 @@ gloss-words read as hedging. State the word directly, Sanskrit beside it, no quo
 
 ---
 
+## L4 — the song (L3 set to music)
+
+**Prompt the model with:**
+> Take these L3 lines (frozen — do not change their doctrine) and set them to
+> music: prosody, rhythm, rhyme, refrain. Small edits and rearrangements only.
+> Every line must trace to the SAME l0_ids and essence indices as the L3 verse
+> (list them). No new claims, no new slants for the sake of rhyme. No `/`
+> anywhere. Names keep exact diacritics (Śiva, Māyā, Śambhu). State the `form`
+> (couplet, quatrain, refrain). One verse, then stop for verdict.
+
+**GOOD** [constructed — first L4 verse pending owner verdict]:
+L3: `"Through birth-wandering gears, omniscience is won. O heart, no strain;"`
+→ L4 (couplet, rhythm-carried): `"Through birth's long wandering the all-knowing is won — / O heart, no strain, no striving, only coming home."`
+*Why good: same l0_ids, same essence index, no new doctrine ("coming home" =
+refuge-return already in L3/C1); em-dash pause + iambic return carry the
+injunction as song. `form: couplet` recorded.*
+
+**BAD** [constructed]: L4 line `"Through birth's long wandering the soul earns heaven's crown"` where
+`heaven's crown` points at no L0 token and no essence index.
+*Why bad: rhyme smuggled in doctrine. The subset check rejects it. Re-ground
+or drop the rhyme — music never twists meaning (mistakes.md #17).*
+
+**BAD** [constructed]: rewriting the L3 file itself to make it "more musical".
+*Why bad: L3 is frozen once loved. Musical work lives in L4, never in L3 edits.
+A batch rewrite of loved lines to satisfy a style rule is forbidden (rule 15).*
+
+---
+
 ## C2 — prompt renders
 
 **Prompt the model with** (`tools/render_c2.py --print-prompt` builds this; never hand-roll):

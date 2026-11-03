@@ -7,9 +7,9 @@ and require re-validation of all data/*.json.
 """
 from __future__ import annotations
 
-SCHEMA_VERSION = "1.2.0"
+SCHEMA_VERSION = "1.3.0"
 
-LAYER_ORDER = ["t1", "l0", "argmap", "l2", "c1", "l3", "c2"]
+LAYER_ORDER = ["t1", "l0", "argmap", "l2", "c1", "l3", "l4", "c2"]
 
 # Every file that defines the canonical stack. check.py verifies all of these exist
 # and that the validators they contain execute without error.
@@ -26,12 +26,16 @@ CANONICAL_FILES = [
     "tools/emit_data.py",
     "tools/validate_song.py",
     "schemas/l3.py",
+    "schemas/l4.py",
     "schemas/c2.py",
     "tools/render_md.py",
     "tools/proof_record.py",
     "tools/proof-disp.json",
     "skills/crystal-ipvv/SKILL.md",
     "lore/rasa/abhinavagupta-rasa-grounding-2026-11-01.md",
+    "lore/rasa/english-transmission-2026-11-03.md",
+    "lore/l4-english-songcraft-2026-11-03.md",
+    "lore/bank/songcraft-bank.json",
     "CHAT.md",
     "DATATYPES.json",
     "skills/crystal-ipvv/EXAMPLES.md",
