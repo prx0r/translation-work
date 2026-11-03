@@ -21,17 +21,24 @@ the signature rides OUTSIDE the hashed body; kernel never forges).
   python3 tools/scholar.py verify --work paramarthasara
 """
 from __future__ import annotations
-import argparse, hashlib, json, os, re, sys
+import argparse, fcntl, hashlib, json, os, re, sys, tempfile
+from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(ROOT / "tools" / "human_authority"))
 from contracts_human_authority import (  # noqa: E402
     ReviewEvent, ReviewerIdentity, ReviewTarget, PromotionEvent)
 import ed25519  # noqa: E402
+from schemas import SCHEMA_VERSION  # noqa: E402
+from schemas import registry as layer_registry  # noqa: E402
 
-LAYERS = ("t1", "l0", "argmap", "l2", "c1", "l3", "l4")
+LEGACY_STACK_LAYERS = ("t1", "l0", "argmap", "l2", "c1", "l3", "l4")
+LAYERS = (*LEGACY_STACK_LAYERS, "c2")
+VERSION_SCHEMA = "scholar-version/2"
+REVIEW_SIGNATURE_V2 = "event-hash-ed25519-v2"
 DEFAULT_KEY = Path.home() / ".scholar" / "key"
 
 # ----------------------------------------------------------------- helpers
@@ -49,6 +56,10 @@ def sha16(obj) -> str:
 def contract_sha(obj) -> str:
     """Exact hashing of contracts_human_authority (default json separators)."""
     return hashlib.sha256(json.dumps(obj, sort_keys=True).encode("utf-8")).hexdigest()
+
+
+def review_signature_message(event: dict) -> bytes:
+    return b"svatantrya-review-v2\0" + bytes.fromhex(event["event_hash"])
 
 def now() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -85,14 +96,87 @@ def vpath(work): return ROOT / work / "scholar" / "versions.jsonl"
 def rpath(work): return ROOT / work / "scholar" / "reviews.jsonl"
 def ppath(work): return ROOT / work / "scholar" / "promotions.jsonl"
 
+
+def validate_work(work: str) -> None:
+    if not re.fullmatch(r"[a-z0-9][a-z0-9_-]*", work or ""):
+        die("work must be a lowercase work slug")
+    if not (ROOT / work / "data").is_dir():
+        die(f"no canonical data directory for {work}")
+
+
+@contextmanager
+def version_lock(work: str):
+    validate_work(work)
+    directory = vpath(work).parent
+    directory.mkdir(parents=True, exist_ok=True)
+    with (directory / ".versions.lock").open("a") as lock:
+        fcntl.flock(lock, fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(lock, fcntl.LOCK_UN)
+
+
+def object_path(work: str, digest: str) -> Path:
+    if not re.fullmatch(r"[0-9a-f]{64}", digest or ""):
+        die("invalid object digest")
+    return ROOT / work / "scholar" / "objects" / f"{digest}.json"
+
+
+def store_object(work: str, content) -> str:
+    digest = sha(content)
+    path = object_path(work, digest)
+    data = canon(content)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if path.exists():
+        if path.read_bytes() != data:
+            die(f"object {digest} does not match its content")
+        return digest
+    fd, temp = tempfile.mkstemp(prefix=".object-", dir=path.parent)
+    try:
+        with os.fdopen(fd, "wb") as handle:
+            handle.write(data)
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temp, path)
+    finally:
+        if os.path.exists(temp):
+            os.unlink(temp)
+    return digest
+
+
+def append_versions(work: str, versions: list[dict], objects: dict) -> None:
+    """Atomically append a complete batch while the caller holds version_lock."""
+    if not versions:
+        return
+    path = vpath(work)
+    prior = path.read_bytes() if path.exists() else b""
+    if prior and not prior.endswith(b"\n"):
+        die("version ledger has an incomplete last line")
+    for digest, content in objects.items():
+        if store_object(work, content) != digest:
+            die("object changed during submission")
+    extra = b"".join(json.dumps(v, ensure_ascii=False).encode("utf-8") + b"\n"
+                     for v in versions)
+    fd, temp = tempfile.mkstemp(prefix=".versions-", dir=path.parent)
+    try:
+        with os.fdopen(fd, "wb") as handle:
+            handle.write(prior + extra)
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temp, path)
+    finally:
+        if os.path.exists(temp):
+            os.unlink(temp)
+
 # ------------------------------------------------------------ originals
 
 def song_of(target: str, layer: str) -> str:
-    if layer == "c1":
-        return target                      # c1 is song-scoped: target IS the song
+    if layer in layer_registry.SONG_LAYERS:
+        return target                      # C1 and C2 are song-scoped
     m = re.match(r"^(.*?)-v\d+$", target)
     if not m:
-        die(f"target {target!r} must be <song>-v<n> (or the song id for c1)")
+        die(f"target {target!r} must be <song>-v<n> (or the song id for c1/c2)")
     return m.group(1)
 
 def load_original(work: str, layer: str, target: str):
@@ -104,7 +188,7 @@ def load_original(work: str, layer: str, target: str):
     if not f.exists():
         die(f"no canonical {layer} file for this target: {f}")
     d = json.loads(f.read_text(encoding="utf-8"))
-    if layer == "c1":
+    if layer in layer_registry.SONG_LAYERS:
         if target != d.get("song", target):
             die(f"{f} is song {d.get('song')!r}, target says {target!r}")
         return d, f
@@ -120,7 +204,8 @@ def load_original(work: str, layer: str, target: str):
 def stack_sha(work: str, song: str) -> tuple[str, dict]:
     """Content hash of the song's whole canonical stack (the signoff target)."""
     stack = {}
-    for layer in LAYERS:
+    # Existing signoffs use this exact historical set and hash scheme.
+    for layer in LEGACY_STACK_LAYERS:
         f = ROOT / work / "data" / f"{song}.{layer}.json"
         if f.exists():
             stack[layer] = sha(json.loads(f.read_text(encoding="utf-8")))
@@ -134,27 +219,122 @@ def load_versions(work: str) -> list:
     return jsonl_read(vpath(work))
 
 def vid_of(v: dict) -> str:
+    if v.get("version_schema") == VERSION_SCHEMA:
+        return "sv:" + sha({k: value for k, value in v.items() if k != "version_id"})
     return "sv:" + sha({
         "work": v["work"], "layer": v["layer"], "target": v["target"],
         "parent": v["parent"], "author": v["author"],
         "content_sha256": v["content_sha256"], "created_at": v["created_at"],
     })[:16]
 
-def make_version(work, layer, target, parent, author, content, note=""):
+def make_version(work, layer, target, parent, author, content, note="",
+                 author_kind="human", versions=None, created_at=None,
+                 submission_id=None, submission_hash=None, expected_base=None,
+                 objects=None, provenance=None):
     if not content:
         die("content is empty — refusing a hollow version")
-    base, _f = load_original(work, layer, target)
+    snapshot_errors = layer_registry.snapshot_errors()
+    if snapshot_errors:
+        die("; ".join(snapshot_errors))
+    if author_kind not in ("human", "agent"):
+        die("author kind must be human or agent")
+    if not isinstance(author, str) or not author.strip():
+        die("author is required")
+    if not isinstance(target, str) or not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9_.-]*", target):
+        die("invalid target")
+    originals, _f = load_original(work, layer, target)
+    base = originals
+    parent_version = None
+    if parent:
+        parent_version = {v["version_id"]: v for v in (versions or [])}.get(parent)
+        if not parent_version:
+            die(f"parent {parent} not found")
+        if parent_version["layer"] != layer or parent_version["target"] != target:
+            die("parent must have the same layer and target")
+        if parent_version.get("version_schema") == VERSION_SCHEMA:
+            base_digest = parent_version["base_sha256"]
+            if objects is not None and base_digest in objects:
+                base = objects[base_digest]
+            else:
+                base_file = object_path(work, base_digest)
+                if not base_file.exists():
+                    die("parent's original snapshot is missing")
+                base = json.loads(base_file.read_text(encoding="utf-8"))
+    if expected_base and sha(base) != expected_base:
+        die("base has changed since this draft was created")
+    editing_base = parent_version["content"] if parent_version else base
+    if isinstance(base, dict) and isinstance(editing_base, dict):
+        # Legacy versions may contain only the edited fields.
+        editing_base = {**base, **editing_base}
+    if isinstance(editing_base, dict) and isinstance(content, dict):
+        if set(content) == {"text"}:
+            field = {"t1": "quick_english", "l2": "plain_english",
+                     "l3": "lines", "l4": "lines"}.get(layer)
+            if field:
+                content = {field: content["text"].splitlines() if field == "lines"
+                           else content["text"]}
+        content = {**editing_base, **content}
+    errors = layer_registry.validate(layer, content)
+    if layer == "l0" and isinstance(content, list):
+        ids = [row.get("id") for row in content if isinstance(row, dict)]
+        if len(ids) != len(set(ids)) or any(not item for item in ids):
+            errors.append("L0 token IDs must be present and unique")
+        if any(row.get("verse_id") != target for row in content if isinstance(row, dict)):
+            errors.append("L0 tokens must belong to the target verse")
+    elif isinstance(content, dict):
+        if layer in layer_registry.SONG_LAYERS:
+            if content.get("song") != target:
+                errors.append("song must match target")
+        else:
+            if content.get("verse_id") != target or content.get("song") != song_of(target, layer):
+                errors.append("verse_id and song must match target")
+            if isinstance(base, dict) and content.get("verse") != base.get("verse"):
+                errors.append("verse number must match the original")
+    if errors:
+        die("invalid layer content: " + "; ".join(errors))
+    base_digest = sha(base)
+    content_digest = sha(content)
+    structural_schema = layer_registry.content_schema(layer)
+    structural_schema_digest = sha(structural_schema)
+    if objects is not None:
+        objects[base_digest] = base
+        objects[content_digest] = content
+        objects[structural_schema_digest] = structural_schema
+    validator_files = {}
+    for name in (f"{layer}.py", "registry.py", "base.py", "__init__.py"):
+        path = ROOT / "schemas" / name
+        # Tests and offline consumers may use a separate data root.
+        if not path.exists():
+            path = Path(__file__).resolve().parent.parent / "schemas" / name
+        validator_files[name] = hashlib.sha256(path.read_bytes()).hexdigest()
     v = {
+        "version_schema": VERSION_SCHEMA, "schema_version": SCHEMA_VERSION,
+        "structural_schema_version": layer_registry.STRUCTURAL_SCHEMA_VERSION,
+        "structural_schema_sha256": structural_schema_digest,
+        "validator_files_sha256": validator_files,
         "work": work, "layer": layer, "target": target, "parent": parent,
-        "base_sha256": sha(base), "author": author, "created_at": now(),
-        "note": note, "content_sha256": sha(content), "content": content,
-        "status": "MACHINE_DRAFT",
+        "base_sha256": base_digest, "author": author.strip(),
+        "author_kind": author_kind, "created_at": created_at or now(),
+        "note": note, "content_sha256": content_digest, "content": content,
+        "status": "MACHINE_DRAFT" if author_kind == "agent" else "HUMAN_DRAFT",
+        "validation_scope": "layer",
     }
+    if submission_id:
+        v["submission_id"] = submission_id
+        v["submission_hash"] = submission_hash
+    if provenance:
+        if not isinstance(provenance, dict) or any(
+            key not in ("style_author", "style_profile_sha256", "model") or
+            not isinstance(value, str) or not value.strip()
+            for key, value in provenance.items()
+        ):
+            die("invalid version provenance")
+        digest = provenance.get("style_profile_sha256")
+        if digest and not re.fullmatch(r"[0-9a-f]{64}", digest):
+            die("invalid style profile digest")
+        v["provenance"] = provenance
     v["version_id"] = vid_of(v)
-    # order: version_id first for readable lines
-    return {"version_id": v["version_id"], **{k: v[k] for k in
-            ("work", "layer", "target", "parent", "base_sha256", "author",
-             "created_at", "note", "content_sha256", "content", "status")}}
+    return {"version_id": v.pop("version_id"), **v}
 
 def parse_body(args) -> dict:
     if getattr(args, "body", None):
@@ -185,12 +365,14 @@ def verify(work: str) -> int:
     versions = load_versions(work)
     by_id = {}
     for i, v in enumerate(versions, 1):
+        missing = []
         for k in ("version_id", "work", "layer", "target", "parent",
                   "base_sha256", "author", "created_at", "content_sha256",
                   "content", "status"):
             if k not in v:
-                fails.append(f"versions:{i} missing field {k}")
-        if fails:
+                missing.append(f"versions:{i} missing field {k}")
+        if missing:
+            fails.extend(missing)
             continue
         if v["work"] != work:
             fails.append(f"versions:{i} work {v['work']} != {work}")
@@ -203,13 +385,52 @@ def verify(work: str) -> int:
             fails.append(f"{v['version_id']}: content hash mismatch")
         if vid_of(v) != v["version_id"]:
             fails.append(f"{v['version_id']}: id does not recompute")
-        try:
-            base, _ = load_original(work, v["layer"], v["target"])
-            if sha(base) != v["base_sha256"]:
-                fails.append(f"{v['version_id']}: base_sha256 no longer matches the "
-                             "canonical original (original was edited — re-cut required)")
-        except SystemExit:
-            fails.append(f"{v['version_id']}: target/layer unresolvable")
+        if v.get("version_schema") == VERSION_SCHEMA:
+            missing_v2 = [field for field in ("structural_schema_sha256", "structural_schema_version",
+                                             "validator_files_sha256", "author_kind") if field not in v]
+            if missing_v2:
+                fails.append(f"{v['version_id']}: missing v2 fields {', '.join(missing_v2)}")
+                continue
+            for field in ("base_sha256", "content_sha256", "structural_schema_sha256"):
+                try:
+                    path = object_path(work, v[field])
+                    if not path.exists() or path.read_bytes() != canon(json.loads(path.read_text(encoding="utf-8"))):
+                        fails.append(f"{v['version_id']}: {field} object missing or noncanonical")
+                    elif sha(json.loads(path.read_text(encoding="utf-8"))) != v[field]:
+                        fails.append(f"{v['version_id']}: {field} object hash mismatch")
+                except (SystemExit, OSError, ValueError, json.JSONDecodeError):
+                    fails.append(f"{v['version_id']}: invalid {field} object")
+            current_hashes = {}
+            for name in (f"{v['layer']}.py", "registry.py", "base.py", "__init__.py"):
+                path = ROOT / "schemas" / name
+                if not path.exists():
+                    path = Path(__file__).resolve().parent.parent / "schemas" / name
+                if path.exists():
+                    current_hashes[name] = hashlib.sha256(path.read_bytes()).hexdigest()
+            if v.get("author_kind") not in ("human", "agent"):
+                fails.append(f"{v['version_id']}: invalid author kind")
+            elif v.get("status") != ("MACHINE_DRAFT" if v["author_kind"] == "agent" else "HUMAN_DRAFT"):
+                fails.append(f"{v['version_id']}: draft status does not match author kind")
+            try:
+                schema_path = object_path(work, v.get("structural_schema_sha256", ""))
+                saved_schema = json.loads(schema_path.read_text(encoding="utf-8"))
+                fails.extend(f"{v['version_id']}: {error}" for error in
+                             layer_registry.structural_errors(v["content"], saved_schema, "content"))
+                if current_hashes == v.get("validator_files_sha256"):
+                    fails.extend(f"{v['version_id']}: {error}" for error in
+                                 layer_registry.validate(v["layer"], v["content"]))
+                else:
+                    warns.append(f"{v['version_id']}: validator changed; historical semantic validation not rerun")
+            except (SystemExit, OSError, ValueError, TypeError, json.JSONDecodeError) as exc:
+                fails.append(f"{v['version_id']}: saved schema could not be checked ({exc})")
+        else:
+            try:
+                base, _ = load_original(work, v["layer"], v["target"])
+                if sha(base) != v["base_sha256"]:
+                    fails.append(f"{v['version_id']}: base_sha256 no longer matches the "
+                                 "canonical original (original was edited — re-cut required)")
+            except SystemExit:
+                fails.append(f"{v['version_id']}: target/layer unresolvable")
         if v["parent"] is not None and v["parent"] not in by_id and \
            v["parent"] not in {x.get("version_id") for x in versions}:
             fails.append(f"{v['version_id']}: parent {v['parent']} does not exist")
@@ -218,18 +439,27 @@ def verify(work: str) -> int:
     for v in versions:
         if v.get("parent") and v["parent"] not in ids:
             fails.append(f"{v.get('version_id')}: dangling parent {v['parent']}")
+        elif v.get("parent") and v.get("version_schema") == VERSION_SCHEMA:
+            parent = by_id[v["parent"]]
+            if any(parent.get(k) != v.get(k) for k in ("work", "layer", "target", "base_sha256")):
+                fails.append(f"{v.get('version_id')}: parent has a different target or base")
 
     # reviews
     review_ids = set()
+    review_records = {}
     for i, r in enumerate(jsonl_read(rpath(work)), 1):
         sig = r.pop("signature", "")
         signer = r.pop("signer", "")
+        signature_version = r.pop("signature_version", "")
+        if signer and not sig:
+            fails.append(f"reviews:{i}: signer without signature")
         if not ReviewEvent.verify(r):
             fails.append(f"reviews:{i} event_hash does not recompute")
         rid = r.get("review_id", "")
         if rid in review_ids:
             fails.append(f"reviews:{i} duplicate review_id {rid}")
         review_ids.add(rid)
+        review_records[rid] = r
         tgt = r.get("review_target", {})
         h = tgt.get("hash", "")
         oref = tgt.get("object_ref", "")
@@ -241,10 +471,19 @@ def verify(work: str) -> int:
         if sig:
             if not signer:
                 fails.append(f"reviews:{i}: signature without signer")
-            elif not ed25519.verify(bytes.fromhex(signer),
-                                    r.get("review_id", "").encode(),
-                                    bytes.fromhex(sig)):
-                fails.append(f"reviews:{i}: signature invalid")
+            else:
+                try:
+                    if signature_version == REVIEW_SIGNATURE_V2:
+                        message = review_signature_message(r)
+                    elif not signature_version:
+                        message = r.get("review_id", "").encode()
+                        warns.append(f"reviews:{i}: legacy signature covers review ID only")
+                    else:
+                        raise ValueError("unknown signature version")
+                    if not ed25519.verify(bytes.fromhex(signer), message, bytes.fromhex(sig)):
+                        fails.append(f"reviews:{i}: signature invalid")
+                except (ValueError, KeyError):
+                    fails.append(f"reviews:{i}: invalid signature format")
         r["signer"], r["signature"] = signer, sig   # keep file shape (read-only reinsert)
 
     # promotions
@@ -257,6 +496,13 @@ def verify(work: str) -> int:
         for b in p.get("basis", []):
             if b not in review_ids:
                 fails.append(f"promotions:{i}: basis review {b} not found")
+                continue
+            review = review_records[b]
+            target = review.get("review_target", {})
+            if target.get("object_ref") != p.get("object_ref") or target.get("hash") != p.get("object_version"):
+                fails.append(f"promotions:{i}: basis review {b} targets different content")
+            if review.get("decision") not in ("ACCEPT", "ACCEPT_WITH_QUALIFICATION"):
+                fails.append(f"promotions:{i}: basis review {b} is not an acceptance")
 
     # signoffs (existing schema + staleness signal)
     sys.path.insert(0, str(ROOT / "schemas"))
@@ -312,33 +558,100 @@ def cmd_save(a) -> int:
     content = parse_body(a)
     if content is None:
         die("give --body '<json>' or --file <path>")
-    parent = None
-    if a.parent and a.parent != "none":
-        ids = {v["version_id"] for v in load_versions(a.work)}
-        if a.parent not in ids:
-            die(f"--parent {a.parent} not found")
-        parent = a.parent
-    v = make_version(a.work, a.layer, a.target, parent, a.author, content, a.note)
-    jsonl_append(vpath(a.work), v)
+    parent = a.parent if a.parent and a.parent != "none" else None
+    with version_lock(a.work):
+        versions = load_versions(a.work)
+        objects = {}
+        v = make_version(a.work, a.layer, a.target, parent, a.author, content,
+                         a.note, author_kind=a.author_kind, versions=versions,
+                         objects=objects)
+        if any(row["version_id"] == v["version_id"] for row in versions):
+            die("this version already exists")
+        append_versions(a.work, [v], objects)
     print(f"saved {v['version_id']}  ({a.layer}:{a.target} "
           f"parent={'original' if parent is None else parent})")
     return 0
 
 def cmd_fork(a) -> int:
-    ids = {v["version_id"]: v for v in load_versions(a.work)}
-    if a.from_ not in ids:
-        die(f"--from {a.from_} not found")
-    parent = ids[a.from_]
-    content = parse_body(a)
-    if content is None:
-        content = parent["content"]           # branch point: carry the content, edit next
-    if a.target != parent["target"] or a.layer != parent["layer"]:
-        die(f"fork stays on the same target: layer={parent['layer']} "
-            f"target={parent['target']} (got {a.layer}:{a.target})")
-    v = make_version(a.work, a.layer, a.target, a.from_, a.author, content,
-                     a.note or f"fork of {a.from_}")
-    jsonl_append(vpath(a.work), v)
+    with version_lock(a.work):
+        versions = load_versions(a.work)
+        ids = {v["version_id"]: v for v in versions}
+        if a.from_ not in ids:
+            die(f"--from {a.from_} not found")
+        parent = ids[a.from_]
+        content = parse_body(a)
+        if content is None:
+            content = parent["content"]
+        objects = {}
+        v = make_version(a.work, a.layer, a.target, a.from_, a.author, content,
+                         a.note or f"fork of {a.from_}", author_kind=a.author_kind,
+                         versions=versions, objects=objects)
+        if any(row["version_id"] == v["version_id"] for row in versions):
+            die("this version already exists")
+        append_versions(a.work, [v], objects)
     print(f"forked {a.from_} → {v['version_id']}  ({a.layer}:{a.target})")
+    return 0
+
+
+def cmd_import(a) -> int:
+    payload = jread(Path(a.file))
+    if not isinstance(payload, dict):
+        die("submission must be a JSON object")
+    work = payload.get("work")
+    entries = payload.get("versions")
+    if entries is None:
+        entries = [payload]
+    if not isinstance(entries, list) or not entries:
+        die("submission must contain at least one version")
+    if len(entries) > 100:
+        die("submission may contain at most 100 versions")
+    with version_lock(work):
+        versions = load_versions(work)
+        known = {v["version_id"]: v for v in versions}
+        submitted = {v.get("submission_id"): v for v in versions if v.get("submission_id")}
+        staged, objects, mapping = [], {}, {}
+        for entry in entries:
+            if not isinstance(entry, dict):
+                die("each version must be an object")
+            if entry.get("work", work) != work:
+                die("all versions in a submission must belong to the same work")
+            local_id = entry.get("version_id") or ("local:import-" + sha(entry))
+            if not isinstance(local_id, str) or not local_id.startswith("local:"):
+                die("each submitted version needs a local: identifier")
+            if local_id in mapping:
+                die(f"duplicate local identifier {local_id}")
+            submission_id = sha({"work": work, "local_id": local_id})
+            submission_hash = sha(entry)
+            if submission_id in submitted:
+                prior = submitted[submission_id]
+                if prior.get("submission_hash") != submission_hash:
+                    die(f"{local_id} was already imported with different content")
+                mapping[local_id] = prior["version_id"]
+                continue
+            parent = entry.get("parent")
+            if parent is not None and not isinstance(parent, str):
+                die("parent must be a version ID or null")
+            if parent and parent.startswith("local:"):
+                if parent not in mapping:
+                    die(f"local parent {parent} must appear earlier in the submission")
+                parent = mapping[parent]
+            if parent and parent not in known:
+                die(f"parent {parent} not found")
+            v = make_version(work, entry.get("layer"), entry.get("target"), parent,
+                             entry.get("author"), entry.get("content"), entry.get("note", ""),
+                             author_kind=entry.get("author_kind", "human"),
+                             versions=versions + staged, submission_id=submission_id,
+                             submission_hash=submission_hash,
+                             expected_base=entry.get("base_sha256") or None,
+                             objects=objects, provenance=entry.get("provenance"))
+            if v["version_id"] in known:
+                die("submission generated a duplicate version ID")
+            staged.append(v)
+            known[v["version_id"]] = v
+            mapping[local_id] = v["version_id"]
+        append_versions(work, staged, objects)
+    print(json.dumps({"work": work, "imported": len(staged), "versions": mapping},
+                     ensure_ascii=False, sort_keys=True, indent=2))
     return 0
 
 def cmd_log(a) -> int:
@@ -395,10 +708,10 @@ def cmd_signoff(a) -> int:
             hash=cur, layer="stack"),
         reviewer=ReviewerIdentity(
             display_name=a.by, person_ref=a.by,
-            identity_state="VERIFIED" if a.key else "SELF_ATTESTED",
+            identity_state="SELF_ATTESTED",
             domains=[a.work]),
         decision="ACCEPT",
-        review_scope="SAME_WORK" if a.scope == "full" else "LOCAL_SECTION",
+        review_scope="LOCAL_SECTION",
         reasoning=a.note or f"stack signoff scope={a.scope}",
         created_at=now_s,
     )
@@ -409,8 +722,9 @@ def cmd_signoff(a) -> int:
         secret = bytes.fromhex(key.read_text().strip())
         pk = ed25519.pubkey(secret)
         signer_hex = pk.hex()
-        sig = ed25519.sign(secret, rid.encode()).hex()
+        sig = ed25519.sign(secret, review_signature_message(body)).hex()
         body["signer"], body["signature"] = signer_hex, sig
+        body["signature_version"] = REVIEW_SIGNATURE_V2
     elif a.key:
         die(f"--key not found: {key}")
     else:
@@ -426,7 +740,7 @@ def cmd_signoff(a) -> int:
         object_ref=f"original:{a.work}:{a.song}",
         object_version=cur,
         from_status="NOT_REVIEWED",
-        to_status="INDEPENDENT_REVIEWED",
+        to_status="REVIEWED",
         basis=[rid],
         reason=f"signoff scope={a.scope} by {a.by}",
     ).emit()
@@ -454,10 +768,42 @@ def cmd_signoff(a) -> int:
 def cmd_promote(a) -> int:
     now_s = now()
     basis = [b.strip() for b in a.basis.split(",") if b.strip()]
-    known = {r.get("review_id") for r in jsonl_read(rpath(a.work))}
+    known = {r.get("review_id"): r for r in jsonl_read(rpath(a.work))}
     missing = [b for b in basis if b not in known]
     if missing:
         die(f"basis reviews not found: {missing}")
+    if not basis:
+        die("at least one review is required")
+    if a.to == "INDEPENDENT_REVIEWED":
+        die("independent review requires an identity and independence policy")
+    for review_id in basis:
+        review = known[review_id]
+        body = dict(review)
+        signature = body.pop("signature", "")
+        signer = body.pop("signer", "")
+        signature_version = body.pop("signature_version", "")
+        if signer and not signature:
+            die(f"review {review_id} has a signer without a signature")
+        if not ReviewEvent.verify(body):
+            die(f"review {review_id} has an invalid event hash")
+        if signature:
+            try:
+                if signature_version == REVIEW_SIGNATURE_V2:
+                    message = review_signature_message(body)
+                elif not signature_version:
+                    message = review_id.encode()
+                else:
+                    raise ValueError("unknown signature version")
+                if not signer or not ed25519.verify(bytes.fromhex(signer), message,
+                                                    bytes.fromhex(signature)):
+                    die(f"review {review_id} has an invalid signature")
+            except ValueError:
+                die(f"review {review_id} has an invalid signature format")
+        target = review.get("review_target", {})
+        if target.get("object_ref") != a.object or target.get("hash") != a.version:
+            die(f"review {review_id} targets different content")
+        if review.get("decision") not in ("ACCEPT", "ACCEPT_WITH_QUALIFICATION"):
+            die(f"review {review_id} is not an acceptance")
     pid = "pt:promotion:PRO-" + sha16({
         "work": a.work, "object": a.object, "basis": basis, "at": now_s})[:12]
     pev = PromotionEvent(
@@ -494,6 +840,7 @@ def main() -> int:
     s = sub.add_parser("save"); s.add_argument("--work", required=True)
     s.add_argument("--layer", required=True); s.add_argument("--target", required=True)
     s.add_argument("--author", required=True); s.add_argument("--parent", default=None)
+    s.add_argument("--author-kind", choices=["human", "agent"], default="human")
     s.add_argument("--body"); s.add_argument("--file"); s.add_argument("--note", default="")
     s.set_defaults(fn=cmd_save)
 
@@ -501,8 +848,13 @@ def main() -> int:
     s.add_argument("--layer", required=True); s.add_argument("--target", required=True)
     s.add_argument("--from", dest="from_", required=True)
     s.add_argument("--author", required=True)
+    s.add_argument("--author-kind", choices=["human", "agent"], default="human")
     s.add_argument("--body"); s.add_argument("--file"); s.add_argument("--note", default="")
     s.set_defaults(fn=cmd_fork)
+
+    s = sub.add_parser("import", help="import a Scholar browser submission")
+    s.add_argument("--file", required=True)
+    s.set_defaults(fn=cmd_import)
 
     s = sub.add_parser("log"); s.add_argument("--work", required=True)
     s.add_argument("--layer"); s.add_argument("--target")
@@ -519,7 +871,7 @@ def main() -> int:
     s.add_argument("--object", required=True); s.add_argument("--version", required=True)
     s.add_argument("--basis", required=True)
     s.add_argument("--from-status", dest="from_status", default="NOT_REVIEWED")
-    s.add_argument("--to", default="INDEPENDENT_REVIEWED")
+    s.add_argument("--to", default="REVIEWED")
     s.add_argument("--reason", default="")
     s.set_defaults(fn=cmd_promote)
 

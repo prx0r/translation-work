@@ -26,7 +26,7 @@ from __future__ import annotations
 import argparse, json, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
+ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "schemas"))
 import suggestion as sug  # noqa: E402
 

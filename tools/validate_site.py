@@ -15,8 +15,8 @@ from __future__ import annotations
 import argparse, json, re, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
-SITE = Path("/root/ipvv/site/data")
+ROOT = Path(__file__).resolve().parent.parent
+SITE = ROOT.parent / "ipvv/site/data"
 
 
 def main() -> int:

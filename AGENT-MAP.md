@@ -3,6 +3,34 @@
 *2026-11-03. One page to navigate three repos + worker + the recent work (docs, schemas,
 data hygiene, qprivately). Read this, then the file it points to for your task.*
 
+## Agent entry points
+
+- `python3 tools/agent_contract.py describe --include-instructions` returns the ordered
+  layers, versioned structural schemas, both canonical skills and their standards, pinned examples,
+  and hashes. Add `--layer l0` to focus on one datatype. Structural validation and
+  cross-layer/source validation are separate, and the examples are not a human signoff.
+  The generated schema release is pinned at `schemas/releases/2.0.0.json`; the gate
+  rejects any drift from the registry, so changing the contract requires a new release.
+- `python3 tools/agent_contract.py examples --layer l4 --work paramarthasara` indexes
+  the existing data files, hashes and recorded proof gates; use `--offset` / `--limit`
+  for pagination. They are candidates to inspect, not certified human-reviewed exemplars.
+- `python3 tools/agent_contract.py validate --layer l3 --file <json>` validates layer
+  objects. Run `tools/validate_song.py` and `check.py` for the wider invariants.
+- `tools/intake.py` pins a new UTF-8 source and explicit complete byte spans. Run its
+  `--help` before initializing a work. It prepares the source; it does not translate it.
+- `tools/scholar.py import --file <export>` imports a Scholar draft chain as validated,
+  content-addressed version files and an append-only ledger. Git commit and publication
+  remain separate operations. C2 is song-scoped; legacy signoff hashes remain unchanged.
+- `tools/scholar_service.py` accepts authenticated Scholar submissions and creates
+  isolated Git branches. It binds to localhost and needs a private token file and an
+  HTTPS reverse proxy. The optional remote push publishes a branch for review, not main.
+- `tools/style_profile.py` prepares a private style brief from a scholar's own edits and
+  recorded L0 choices. An explicitly authorized runner can turn a brief with at least
+  three distinct examples into an agent-attributed draft. The brief stays local until
+  that runner is invoked. `tools/style_runner_openai.py` is an optional configurable
+  OpenAI-compatible runner; the operator chooses the provider and permitted model.
+- Regression checks: `python3 -m unittest discover -s tests -p test_scholar_p0.py -v`.
+
 ## The three repos (and what lives where)
 
 | Repo | What it is | Gate before push |
@@ -29,7 +57,7 @@ worker https://ipvv-api.tradesprior.workers.dev · deploy with `CLOUDFLARE_API_T
 
 | File | Producer | Notes |
 |---|---|---|
-| `ipvv/site/data/translations/<w>.json` (emit-shaped: l1/l2/l3/l4, links) | `translation-work/tools/emit_site_general.py` | per-verse Sanskrit from `sanskrit_cite`; **refuses ingest-shaped files** (guard) |
+| `ipvv/site/data/translations/<w>.json` (emit-shaped: l1/l2/l3/l4, links) | `translation-work/tools/emit_site_general.py` | new intakes use pinned spans; Paramārthasāra and Kramastotra use audited source lines; other older works need a source audit; **refuses ingest-shaped files** (guard) |
 | `ipvv/site/data/translations/tantrasara-a01.json` | same emitter (single-passage fallback) | locator `tsa01-p01` vs song `tsa-a01` handled |
 | `ipvv/site/data/translations/sivastotravali.json` | `translation-work/tools/emit_site.py` | its own emitter (workcfg spans, immutable ids from passages) |
 | `ipvv/site/data/translations/<ingest w>.json` (en_variants/ahnika/checks: ajadapramatrsiddhi, isvarasiddhi, sambandhasiddhi, tantrasara, vbt, tantraloka-aXX …) | `ipvv/tools/ingest_batch.py` from R2 `batch-t1/` | **never run emit_site_general on these** — it refuses (2026-11-03 lesson: a blanket re-emit reshaped 4 of them; 3 restored from git, tantrasara-a01 re-emitted + traced) |

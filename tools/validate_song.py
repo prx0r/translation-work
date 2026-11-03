@@ -12,7 +12,7 @@ from __future__ import annotations
 import argparse, hashlib, json, sys
 from pathlib import Path
 
-ROOT = Path("/root/translation-work")
+ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(ROOT / "schemas"))
 from proof_record import load_gretil_song  # noqa: E402
@@ -58,7 +58,7 @@ def main() -> int:
     else:
         n = int(song[1:])
         _src_path = _WORKS.get(args.work, {}).get(
-            "source", Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt"))
+            "source", ROOT.parent / "ipvv/site/data/sanskrit/sivastotravali-u.txt")
         src = load_gretil_song(_src_path, n)
     src_sha = sha(" ".join(" ".join(t) for v, t in sorted(src.items())))
     src_verses = set(src)

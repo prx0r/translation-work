@@ -20,6 +20,13 @@ so adjudication is on the record; L2 renders the plain meaning so every clause
 traces down; C1 names the essence so renders have something to point at; C2 is
 prompts all the way down. Skip a layer and every layer above it is ungrounded.*
 
+For a machine-readable handoff, run `python3 tools/agent_contract.py describe
+--include-instructions`. The response pins this skill, the layer contracts, structural
+schemas, validators, and actual example objects by hash. `tools/intake.py` prepares a
+new source and verified byte spans. Continue with the drill below after intake.
+`agent_contract.py validate` checks individual objects; run the existing song and
+canonical gates for source coverage and cross-layer checks.
+
 ## The drill (one work, end to end, no batches)
 
 1. **Pick ONE target** from `targets.md` queue. Never parallelize across works.

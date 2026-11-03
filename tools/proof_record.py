@@ -114,12 +114,13 @@ def main() -> int:
     ap.add_argument("--song", required=True, help="e.g. s01")
     ap.add_argument("--work", default="sivastotravali")
     ap.add_argument("--disp", default=None, help="JSON {song: {verse: note}} for sub-0.90 dispositions")
-    ap.add_argument("--gretil", default="/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
+    root = Path(__file__).resolve().parent.parent
+    default_source = root.parent / "ipvv/site/data/sanskrit/sivastotravali-u.txt"
+    ap.add_argument("--gretil", default=str(default_source))
     args = ap.parse_args()
-    root = Path("/root/translation-work")
     w = root / args.work
     song = args.song
-    SIVA_DEFAULT = "/root/ipvv/site/data/sanskrit/sivastotravali-u.txt"
+    SIVA_DEFAULT = str(default_source)
     try:
         from workcfg import WORKS as _WORKS, song_verses as _song_verses, source_spans as _source_spans
     except ImportError:
@@ -280,6 +281,14 @@ def main() -> int:
         needs = ["human-review"]
     rec["needs"] = sorted(set(needs))
     rec["deterministic_gate"] = "PASS" if not block else "BLOCKED"
+    rec["layer_sha256"] = {}
+    for layer in ("t1", "l0", "argmap", "l2", "c1", "l3", "l4", "c2"):
+        layer_path = dd / f"{song}.{layer}.json"
+        if layer_path.exists():
+            value = json.loads(layer_path.read_text(encoding="utf-8"))
+            encoded = json.dumps(value, sort_keys=True, separators=(",", ":"),
+                                 ensure_ascii=False).encode("utf-8")
+            rec["layer_sha256"][layer] = hashlib.sha256(encoded).hexdigest()
     rec["lineage"] = {"tool": TOOL_VERSION, "source_sha": rec["source_sha"],
                       "t1": f"T1-{song}.md", "l0": f"T1-{song}.l0.jsonl",
                       "l2": f"L2-{song}.md", "c1": f"c1/C1-{song}.md"}
