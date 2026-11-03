@@ -93,3 +93,23 @@ verdict before the rest — one at a time (rule 15). The validator checks
 traces, slashes, and diacritics; the ear checks the rest. A couplet that is
 exact but unrhythmic is unfinished L4, not failed L3 — finish the song, do
 not touch the transmission.
+
+## 18. Producers own their files — a re-emit is not a refresh
+
+The blanket re-emit (2026-11-03): to add one field everywhere I ran
+`emit_site_general --work <all19>`. Four of those works (ajadapramatrsiddhi,
+isvarasiddhi, sambandhasiddhi, tantrasara-a01) are owned by ipvv's
+`ingest_batch.py` — song-grained chunks with en_variants/checks/styles that this
+emitter neither reads nor reproduces. Their prior files were silently reshaped:
+fields destroyed, granularity changed, provenance dropped. Three were restored
+from git; tantrasara-a01's original was untracked and unrecoverable — it was
+re-emitted through the legitimate path (emitter + passages fallback + trace) so
+the data is now coherent, but the old record is gone. Same day, earlier: a
+sivastotravali re-emit overwrote 130 hand-written argmap views (restored; both
+emitters now preserve existing argmap files unless --force).
+
+The rule, mechanised: **emit_site_general REFUSES to write over an ingest-shaped
+file (exit 2, "REFUSING … produced by ipvv tools/ingest_batch.py").** Before any
+bulk write, ask which tool produced the file you are about to replace, and read
+the ownership table in AGENT-MAP.md. Preserve-by-default beats restore-from-git;
+git restore only works for committed sins.
