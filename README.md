@@ -65,6 +65,7 @@ translation-work/
   sivastotravali/
     data/              CANONICAL per-song JSON (t1/l0/argmap/l2/c1/c2/suggest/signoff)
     proof/             proof records (PASS/BLOCKED + needs + lineage)
+    scholar/           append-only versions/reviews/promotions (fork chains + signoffs)
     T1-sXX.md          frozen token gloss (rendered view of data)
     argmaps/sivst-sXX.md   verse argmaps (rendered view)
     argmaps/sivst-p01..p05.md + argmap.json   passage-scope argmaps (multi-verse dialectic)

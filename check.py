@@ -158,6 +158,21 @@ def main() -> int:
         step("suggestions-valid", n_bad == 0, f"{n_bad}/{n_sug} invalid")
     except Exception as e:
         step("suggestions-valid", False, str(e))
+    # scholar versions/reviews/promotions: every hash + fork link must recompute (fail-closed)
+    try:
+        import importlib.util as _ilu
+        _spec = _ilu.spec_from_file_location("scholar", ROOT / "tools" / "scholar.py")
+        _sch = _ilu.module_from_spec(_spec)
+        _spec.loader.exec_module(_sch)
+        sch_works = sorted(p.parent.parent.name for p in ROOT.glob("*/scholar/versions.jsonl"))
+        if sch_works:
+            bad = [w for w in sch_works if _sch.verify(w)]
+            step("scholar-valid", not bad, f"verify failed: {bad}")
+        else:
+            step("scholar-valid", True, "no scholar dirs yet")
+    except Exception as e:
+        step("scholar-valid", False, str(e))
+
     docs = all((ROOT / f).exists() for f in
                ["CANONICAL.md", "LAYERS.md", "ALIGNMENT.md", "TENSIONS.json", "stack.json",
                 "DATATYPES.json", "schemas/__init__.py", "schemas/c2.py",

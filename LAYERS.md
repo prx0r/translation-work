@@ -124,6 +124,22 @@ The stack is append-mostly and every change is a JSON diff away:
   SARIT fork/PR) — we record edition + line and never silently emend.
   Verified channels live in `lore/links.json`; witness text is never hosted.
 
+## Scholar versions (the git for the stack)
+
+`<work>/scholar/` — three append-only JSONL files (`versions`, `reviews`, `promotions`),
+schema in `<work>/scholar/README.md`, machinery in `tools/scholar.py`:
+
+- **Versions fork any layer target.** `parent=null` = fork of the original canonical layer;
+  `parent=sv:…` = child of another scholar's version (fork-of-fork, any depth). Ids are
+  content-derived; nothing is ever rewritten (fast-forward only).
+- **Reviews bind to an exact hash** (ReviewEvent from `tools/human_authority/`, evidence
+  never mutation) and may carry an Ed25519 signature over the event id.
+- **Promotion is the only path to reviewed** (`basis[]` names the live reviews).
+- **Signoff** = ReviewEvent + PromotionEvent + `data/<song>.signoff.json`, bound to the
+  song's stack hash — edit the stack afterwards and the review re-opens honestly.
+- Gate: `check.py` → `scholar-valid` re-derives every id/hash/fork link (fail-closed).
+- Published projection: `tools/emit_scholar.py` → `svread/data/scholar/` (Scholar hub).
+
 ## Invariants (validator-enforced)
 
 1. L0.chosen == T1.quick_gloss for the token, unless L0.revised with reason.
