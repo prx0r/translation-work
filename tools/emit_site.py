@@ -26,6 +26,10 @@ def main() -> int:
     sys.path.insert(0, str(ROOT / "tools"))
     from proof_record import load_gretil_song  # noqa: E402
     from emit_site_general import clean_site_sanskrit  # noqa: E402
+    try:
+        from workcfg import WORKS as _WORKS, song_verses as _song_verses, source_spans as _source_spans
+    except ImportError:
+        _WORKS = {}
 
     gretil = Path("/root/ipvv/site/data/sanskrit/sivastotravali-u.txt")
     chunks = []
@@ -36,8 +40,27 @@ def main() -> int:
         song = t1f.stem.split(".")[0]
         if want is not None and song not in want:
             continue
-        n = int(song[1:])
         t1 = json.loads(t1f.read_text())
+        # workcfg-aware source resolution (non-sivastotravali works use
+        # registered spans; sivastotravali keeps its legacy loader verbatim)
+        cfg = _WORKS.get(args.work, {}) if _WORKS else {}
+        if cfg.get("songs"):
+            _all = _source_spans(args.work) or {}
+            _want = set(_song_verses(args.work, song))
+            src = {v: toks for v, toks in _all.items() if v in _want}
+            src_file = str(Path(cfg["source"]))
+            if src_file.startswith("/root/ipvv/site/data/"):
+                src_file = src_file[len("/root/ipvv/"):]
+            edition = {"tantrasara-a01": "GRETIL KSTS 17 (Nirnaya Sagara 1918)"}.get(
+                args.work, f"GRETIL {Path(cfg['source']).name}")
+            ref_of = lambda vn: f"{src_file}:{vn}"  # noqa: E731
+            n = None
+        else:
+            n = int(song[1:])
+            src = load_gretil_song(gretil, n)
+            src_file = "site/data/sanskrit/sivastotravali-u.txt"
+            edition = "GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)"
+            ref_of = lambda vn: f"UtSst_{n}.{vn}"  # noqa: E731
         l2 = {o["verse"]: o for o in json.loads((data / f"{song}.l2.json").read_text())}
         am = {o["verse"]: o for o in json.loads((data / f"{song}.argmap.json").read_text())}
         l3_path = data / f"{song}.l3.json"
@@ -50,17 +73,16 @@ def main() -> int:
         needs = proof.get("needs", ["human-review"])
         so = data / f"{song}.signoff.json"
         sign = json.loads(so.read_text()) if so.exists() else None
-        src = load_gretil_song(gretil, n)
         for v in t1:
             vn = v["verse"]
-            vid = f"{song}-v{vn:02d}"
+            vid = v.get("verse_id") or f"{song}-v{vn:02d}"
             satext = clean_site_sanskrit(" ".join(t for t in src.get(vn, []) if t not in ("&",)))
             l2o = l2.get(vn, {})
             l3o = l3.get(vn, {})
             t1o = next((o for o in t1 if o["verse"] == vn), {})
             if gate == "PASS":
                 close = " / ".join(t["quick_gloss"] for t in v["tokens"])
-                l1 = f"## {vid} ({vn})\n{close} // UtSst_{n}.{vn}"
+                l1 = f"## {vid} ({vn})\n{close} // {ref_of(vn)}"
                 l2t = (l2o.get("plain_english", "") or "").strip()
             else:
                 l1, l2t = "", ""
@@ -69,8 +91,8 @@ def main() -> int:
                   "needs": needs,
                   "model": "crystal-v1", "date": proof.get("date", "2026-11-01"),
                   "l1": l1, "l2": l2t,
-                  "links": {"source_file": t1o.get("source_file", "site/data/sanskrit/sivastotravali-u.txt"),
-                            "edition": "GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)",
+                  "links": {"source_file": t1o.get("source_file", src_file),
+                            "edition": edition,
                             "source_lines": t1o.get("source_lines")}}
             if sign:
                 ch["accepted_by"] = sign.get("accepted_by")
@@ -90,7 +112,7 @@ def main() -> int:
                     lines += ["", "### Gloss adjudications"]
                     for oc in ao["option_choices"]:
                         lines.append(f"- {oc['l0_id']}: chose option {oc['chosen_index']} "
-                                     f"over {', '.join(oc.get('rejected', []))} — {oc['reason']}")
+                                       f"over {', '.join(str(r) for r in oc.get('rejected', []))} — {oc['reason']}")
                 (argdir / f"{vid}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
         songs += 1
     out = SITE / "translations" / f"{args.work}.json"

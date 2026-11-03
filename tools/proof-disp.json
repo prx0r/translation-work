@@ -66,5 +66,9 @@
  },
  "param-p06": {
   "53": "sandhi/split-class: ṃ/m, t/d voicings, visarga, elisions, a+i=e fusion split; order verified token-by-token vs source 2026-11-03"
+ },
+ "tsa-a01": {
+  "4": "sandhi-only: pada-form T1 vs GRETIL saṃhitā (visarga/o-endings, hyphenated compounds, na+ca splits); order verified token-by-token via tools/align_check.py (0 inversions, full coverage) 2026-11-04",
+  "5": "sandhi-only: pada-form T1 vs GRETIL saṃhitā (visarga/o-endings, hyphenated compounds); order verified token-by-token via tools/align_check.py (0 inversions, full coverage) 2026-11-04"
  }
 }

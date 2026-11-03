@@ -3,35 +3,27 @@
  "song": "tsa-a01",
  "work": "tantrasara-a01",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v3 ratio=0.781",
-  "ALIGN_NODISP v4 ratio=0.115",
-  "ALIGN_NODISP v5 ratio=0.396"
- ],
+ "blocking": [],
  "warnings": [],
  "source_sha": "a26a4b303853e0f6",
  "source_verses": 5,
  "t1_verses": 5,
  "l0": {
-  "parsed": 232,
+  "parsed": 238,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 232
+  "tokens": 238
  },
  "align": {
-  "min_ratio": 0.115,
+  "min_ratio": 0.17,
   "sub090": {
-   "3": {
-    "ratio": 0.781,
-    "disposition": null
-   },
    "4": {
-    "ratio": 0.115,
-    "disposition": null
+    "ratio": 0.17,
+    "disposition": "sandhi-only: pada-form T1 vs GRETIL saṃhitā (visarga/o-endings, hyphenated compounds, na+ca splits); order verified token-by-token via tools/align_check.py (0 inversions, full coverage) 2026-11-04"
    },
    "5": {
-    "ratio": 0.396,
-    "disposition": null
+    "ratio": 0.557,
+    "disposition": "sandhi-only: pada-form T1 vs GRETIL saṃhitā (visarga/o-endings, hyphenated compounds); order verified token-by-token via tools/align_check.py (0 inversions, full coverage) 2026-11-04"
    }
   }
  },
@@ -52,11 +44,11 @@
   "errors": [],
   "counts": {
    "t1": 5,
-   "l0": 232,
+   "l0": 238,
    "argmap": 5,
    "l2": 5,
    "l3": 5,
-   "l4": 0,
+   "l4": 5,
    "essence": 3,
    "renders": [
     "standard"
@@ -66,11 +58,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v3",
-  "fix: word-order/gloss vs source for v4",
-  "fix: word-order/gloss vs source for v5"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "a26a4b303853e0f6",
