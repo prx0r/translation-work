@@ -257,7 +257,8 @@ def submit_account(repo: Path, payload: dict, push_remote: str | None = None) ->
     if parent and not re.fullmatch(r'sv:[0-9a-f]{16,64}',str(parent)):raise ValueError('published parent version is invalid')
     note='Account author approval; rights: '+approval['rights']+'; signoff: '+approval['id']+'; account: '+account
     if content.get('assisted'):note+='; AI-assisted ('+re.sub(r'[^A-Za-z0-9_.-]','',str(content.get('model','agent')))[:120]+')'
-    entry={'version_id':'local:account-'+scholar.sha({'account':account,'snapshot':approval['snapshot_sha256']}),
+    entry={'version_id':'local:account-'+scholar.sha({'account':account,'snapshot':approval['snapshot_sha256'],
+                                                       'signoff':approval['id']}),
            'work':snap['work'],'layer':layer,'target':snap['target'],'parent':parent,'base_sha256':base,
            'author':author,'author_kind':'human','note':note,'content':value}
     return submit(repo,{'work':snap['work'],'versions':[entry]},author,push_remote,

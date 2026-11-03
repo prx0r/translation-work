@@ -53,6 +53,15 @@ class AccountSubmissionTest(unittest.TestCase):
         payload['snapshot']['content']['text']='Changed after sign-off.'
         with self.assertRaises(ValueError):scholar_service.submit_account(self.repo,payload)
 
+    def test_new_signoff_of_same_snapshot_does_not_collide_after_merge(self):
+        payload=self.payload();first=scholar_service.submit_account(self.repo,payload)
+        self.git('merge','--no-ff','--no-edit',first['branch'])
+        payload['signoff']['id']='signoff:another'
+        second=scholar_service.submit_account(self.repo,payload)
+        self.assertNotEqual(first['branch'],second['branch'])
+        rows=[json.loads(x) for x in self.git('show',second['branch']+':paramarthasara/scholar/versions.jsonl').splitlines()]
+        self.assertEqual(rows[-1]['author'],'A Scholar')
+
     def test_essay_and_hmac_bridge(self):
         payload=self.payload('essay');secret=b'x'*40
         server=scholar_service.ThreadingHTTPServer(('127.0.0.1',0),
