@@ -1,13 +1,13 @@
 {
- "craft_notes": "Sthāyin same; color: doubled figure (bird + woman). Firing: desperation-diction + singularity-coda kept (bank: gasping>thirsty, rain lore-exact, and-nothing-else carries singularity); dash-identification kept (traveler IS beloved — the dash does it). L3 holds all three bank devices; L4 alters nothing. REJECTED OPTIONS (with killers): (a) quatrain split (bird stanza, woman stanza) -> killed: two figures, two lines, one breath each; lyricizing would soften a stark pairing. (b) water for rain -> killed: lore-exact, cAtaka drinks only rain (NOTE KEY TERMS). (c) explaining the identification (she = I, the wife) -> killed: dash does it; naming states what dhvani suggests (row 10).",
+ "craft_notes": "Sthāyin same; color: doubled figure (bird + woman). Firing: desperation-diction + singularity-coda kept (bank: gasping>thirsty, rain lore-exact, and-nothing-else carries singularity); dash-identification kept (traveler IS beloved — the dash does it). L3 holds all three bank devices; L4 alters nothing. REJECTED OPTIONS (with killers): (a) quatrain split (bird stanza, woman stanza) -> killed: two figures, two lines, one breath each; lyricizing would soften a stark pairing. (b) water for rain -> killed: lore-exact, cAtaka drinks only rain (NOTE KEY TERMS). (c) explaining the identification (she = I, the wife) -> killed: dash does it; naming states what dhvani suggests (row 10). POST-FIX: line 1 reworded (fronted participle) after gate flagged L3/L2 sentence-sharing; music kept (urgency fronted), doctrine untouched.",
  "form": "couplet",
  "l4": {
   "verse_id": "ghat-p01-v04",
   "song": "ghat-p01",
   "verse": 4,
   "lines": [
-   "The cātaka, gasping, begs for rain — and nothing else.",
-   "The suffering traveler — she is your beloved."
+   "Gasping for rain, the cātaka begs — and nothing else.",
+   "That suffering traveler is your beloved."
   ],
   "sanskrit_cite": "cātakaś ca tṛṣito 'mbu yācate duḥkhitā pathika sā priyā ca te",
   "l0_ids": [
@@ -31,7 +31,10 @@
   "needs": [
    "human-review"
   ],
-  "notes": []
+  "notes": [
+   "line 1 reworded 2026-11-04: was byte-identical to L2 (no-share rule); same doctrine, same traces",
+   "2026-11-04 no-share fix mirrored from data merge"
+  ]
  },
  "reads_against": "argmap Q+INF (+UNC ['Literal rain-bird vs figurative lover (both live).']) / T1 glosses / L0 tokens / L2 repaired voice / C1 essence[0]+rasa+NOTE / L3 frozen lines"
 }

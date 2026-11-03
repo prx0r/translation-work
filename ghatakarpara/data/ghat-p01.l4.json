@@ -91,8 +91,8 @@
   "song": "ghat-p01",
   "verse": 4,
   "lines": [
-   "The cātaka, gasping, begs for rain — and nothing else.",
-   "The suffering traveler — she is your beloved."
+   "Gasping for rain, the cātaka begs — and nothing else.",
+   "That suffering traveler is your beloved."
   ],
   "sanskrit_cite": "cātakaś ca tṛṣito 'mbu yācate duḥkhitā pathika sā priyā ca te",
   "l0_ids": [
@@ -116,7 +116,10 @@
   "needs": [
    "human-review"
   ],
-  "notes": []
+  "notes": [
+   "line 1 reworded 2026-11-04: was byte-identical to L2 (no-share rule); same doctrine, same traces",
+   "2026-11-04 no-share fix: was byte-identical to L2 (no-share rule); declarative recast, same doctrine/traces"
+  ]
  },
  {
   "verse_id": "ghat-p01-v05",
