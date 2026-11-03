@@ -62,3 +62,14 @@ cd svread && node tests/scholar-smoke.cjs      # 0 fails
 reader https://svread.pages.dev/?work=paramarthasara · scholar hub `…&view=scholar` ·
 ipvv https://ipvv-a8u.pages.dev · worker https://ipvv-api.tradesprior.workers.dev
 (auth: `POST /api/auth/access` · account-claim blocked until verification · `EN_READ_OFF=false`).
+
+## STATUS (auto-updated 2026-11-03, end of session)
+
+Done since writing this file (all merged + released):
+- [x] §1 CLAIMS: grouped-L2 / kram argmap / kram T1 closed with evidence; **work_id root-fixed** (0 wrong)
+- [x] §1.2 credentials unified — scholar_service accepts `svsess` (shared secret `/root/.scholar/session_secret` + wrangler `SESSION_SECRET`, identity from `/api/auth/me`, `GET /v1/scholar/whoami`); AUTH-SETUP.md documents joint rotation
+- [x] §1.3 suites green with documented commands (node glob form — dir-mode caveat in AGENT-MAP)
+- [x] §C7 **`tools/readiness.py` shipped** — 21-work burn-down matrix; every work's L4site now complete (all 21); **only signoffs remain between any work and READY** (param 1/12, rest 0)
+- [x] §C8 ingest adoption: ajadapramatrsiddhi/sambandhasiddhi/isvarasiddhi migrated to crystal via `emit_site_general --adopt` (originals archived `site/data/translations/_ingest/`), trace 1240/0
+
+Still open: §B owner gates (ORCID step, Zenodo token, param signoffs 2–12, pushing probe) · §C8 warnings burn-down · §C9 Qwen WS proxy · §C10 web-save endpoint (scholar lane — coordinate).
