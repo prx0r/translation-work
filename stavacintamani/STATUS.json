@@ -1,16 +1,19 @@
 {
-  "work": "stavacintamani",
-  "updated": "2026-10-30",
-  "next": "batch (stavacintamani done)",
-  "counts": {
-    "passages": 12,
-    "verses": 120
-  },
-  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-stavacintamani-raw.jsonl",
-  "r2_bytes": 41934,
-  "r2_verified": true,
-  "notes": "120 verses, 12 passages, L200+C1 done, gate run. Argmap v2 done (12 per-passage files + JSON, lore-primed: Stainton 2013, Marjanovic 2012, Rastogi & Singh 2002). L2.v2 done (verse-by-verse plain English, 12 passages). C1.v2 done (final condensation, 12 passages). Post-session sharpened.",
-  "needs": [
-    "human-review (MACHINE_PROPOSED)"
-  ]
+ "work": "stavacintamani",
+ "updated": "2026-11-04",
+ "next": "transform in progress: T1 p04-p05 glosses (see ../../todoregistry.md)",
+ "counts": {
+  "passages": 12,
+  "verses": 120
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-stavacintamani-raw.jsonl",
+ "r2_bytes": 41934,
+ "r2_verified": true,
+ "notes": "CRYSTAL TRANSFORM 2026-11-04: legacy MD stack being converted to canonical data pipeline. DONE: lore search (lore-2026-11-04.md), source pin (GRETIL KSTS X), T1 verified, verse map 119v span-exact vs GRETIL (working-versemap.json; 8-pada v47 kept whole), T1 p01-p03 glossed (30/119v, 305 tokens, 15 forks flagged; v30 resolved via Ksemaraja Vrtti M00089). OPEN: v1 mangala absent from corpus (vv2-120 only; fetch+verify M00089 before final T1); legacy L2.v2/C1.v2/ARGMAP.md remain reference for rebuilding L2/C1/argmaps. PREVIOUS (2026-10-30 batch state, superseded): 120 verses, 12 passages, L200+C1 done, gate run. Argmap v2 done. L2.v2 done. C1.v2 done.",
+ "needs": [
+  "T1 p04-p12 glosses",
+  "v1 mangala decision (owner)",
+  "L0/argmaps/L2/C1/L3 rebuild to canonical schema",
+  "human-review (MACHINE_PROPOSED, after full transform)"
+ ]
 }

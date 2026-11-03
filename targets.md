@@ -6,9 +6,9 @@
 - Known coverage gap (logged, not smoothed): corpus holds vv2–120; v1 maṅgala (BhStC_1) absent everywhere — fetch + byte-verify at T1 step before transform; do not reconstruct from pada incipits.
 - Remaining queue unchanged below.
 
-*Updated 2026-11-02 (Tier 1 complete, 18 gold). Rewritten earlier 2026-11-02: prior edition (2026-11-01) was stale — it listed old-format works as gold, showed anubhavanivedana/paramarthacarca as "no repo dir", and sivastotravali as partial. "Gold" below = canonical data pipeline (T1/L0/argmap/L2/C1/L3 JSON + validate + proof PASS), matching REGISTRY.json. Old-format works with full legacy pipelines are ranked as transform candidates, shortest first.*
+*Updated 2026-11-04 (21 gold: L3+L4+C2 complete on all, gate green). Current todos live in **todoregistry.md** (next to REGISTRY.json). Prior rewrite 2026-11-02: dropped stale gold listings. "Gold" below = canonical data pipeline (T1/L0/argmap/L2/C1/L3 JSON + L4 song + C2 renders + validate + proof PASS), matching REGISTRY.json. Old-format works with full legacy pipelines are ranked as transform candidates, shortest first.*
 
-## Gold (done — 18 works, canonical pipeline)
+## Gold (done — 21 works, canonical pipeline)
 
 | # | Work | Verses | Audio |
 |---|---|------|--------|
@@ -30,6 +30,9 @@
 | 16 | isvarasiddhi | 56 | — |
 | 17 | parapravesika | prose, 9 passages | — |
 | 18 | sivastotravali | 450 (20 songs) | — |
+| 19 | paramarthasara | 105 (12 songs) | — |
+| 20 | tantrasara-a01 | 5 | — |
+| 21 | tantrasara-a02 | 4 | — |
 
 ## Queue — Tier 1: TRANSFORM COMPLETE 2026-11-02
 
@@ -37,15 +40,15 @@ All seven Tier-1 works transformed to gold this session (parapravesika, bodhapan
 
 ## Queue — Tier 2: verify / rebuild — **NEXT**
 
-paramarthasara DONE 2026-11-03 — gold #19 (105 verses, full transform; v1 recovered). Next: stavacintamani (120 verses, rebuild) or ptvmadhyama (T1 rebuild first).
+paramarthasara DONE 2026-11-03 — gold #19 (105 verses, full transform; v1 recovered). tantrasara-a01/a02 DONE — gold #20/#21. **Next: stavacintamani — IN PROGRESS (T1 p01–p03 glossed, 30/119 verses, span-exact; see todoregistry.md).** After that: ptvmadhyama (T1 rebuild first).
 
 ## Queue — Tier 2 detail: verify / rebuild
 
 | # | Work | Size | State |
 |---|------|------|-------|
-| 19 | paramarthasara | 104 verses, 12 passages | tier-1, verify only |
-| 20 | stavacintamani | 120 verses, 12 passages | tier-3, needs rebuild |
-| 21 | ptvmadhyama | 35 verses, 4 passages | T1 corrupt, needs T1 rebuild first |
+| 19 | paramarthasara | 105 verses, 12 passages | gold #19, done 2026-11-03 |
+| 20 | stavacintamani | 119 verses (corpus; v1 gap logged), 12 passages | IN PROGRESS 2026-11-04 (T1 p01–p03 done) |
+| 21 | ptvmadhyama | 35 verses, 4 passages | T1 corrupt, needs T1 rebuild first (next after stava) |
 
 ## Queue — Tier 3: source acquisition (no repo data yet)
 
@@ -61,7 +64,7 @@ paramarthasara DONE 2026-11-03 — gold #19 (105 verses, full transform; v1 reco
 
 | # | Work | Size |
 |---|------|------|
-| 27 | tantrasara-a01…a22 | 22 works, legacy |
+| 27 | tantrasara-a03…a22 | 20 works, legacy (a01/a02 now gold #20/#21) |
 | 28 | tantraloka-a01…a37 | 37 works, legacy |
 
 ## Rules (from mistakes.md + crystal.md + FINAL-PROCESS.md)
