@@ -175,6 +175,39 @@
       "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
     },
     {
+      "id": "l3-translation",
+      "stage": 4,
+      "purpose": "Final canonical translation: line-by-line evocative verse, every line traces to L0 ids + C1 essence indices. No new doctrine; boundary items stay open with notes. Distills C1 into the single reading. Machine-proposed until signed.",
+      "fields": {
+        "required": [
+          "verse_id",
+          "song",
+          "verse",
+          "lines",
+          "sanskrit_cite",
+          "l0_ids",
+          "essence_maps"
+        ],
+        "optional": [
+          "supplied",
+          "notes",
+          "fidelity",
+          "needs"
+        ]
+      },
+      "producer": "translator (hand-craft) -> tools/validate_song.py --song",
+      "validator": "schemas/l3.py via tools/validate_song.py; svread scripts/check_translations.py S13",
+      "gate_rule": "lines non-empty; every l0_id exists; every essence_maps index in range; no header/trailer; no BLOCKED; no metacommentary; no rasa labels; couplet convention (2 lines). Machine-proposed until human review.",
+      "consumers": [
+        "site-chunk (l3 lane)",
+        "chat RAG (L3 quoted first)",
+        "corpus-record (l3 field)",
+        "embeddings (L3 leads)",
+        "recitation display"
+      ],
+      "serialization": "JSON document (array/object): curated set, edited in place, validated as a set (cross-layer invariants need whole-song context), git-diffable with indent=1"
+    },
+    {
       "id": "proof-record",
       "stage": 6,
       "purpose": "Machine-checkable verdict per song: parse, count, align, cites, sharing, quotes, data-object validity. The envelope sanskritbenchy got right.",
@@ -208,7 +241,7 @@
     {
       "id": "site-chunk",
       "stage": 7,
-      "purpose": "What the reader renders. One chunk per verse: Sanskrit always; English ONLY on PASS.",
+      "purpose": "What the reader renders. One chunk per verse: Sanskrit always; English ONLY on PASS. L3 (Final) is the canonical translation; L2 is the plain translation; L1 is the literal gloss lane.",
       "fields": {
         "required": [
           "chunk",
@@ -226,10 +259,11 @@
           "accepted_date",
           "accept_scope",
           "needs",
-          "links{source_file,edition}"
+          "links{source_file,edition}",
+          "l3"
         ],
         "constraints": {
-          "PASS": "l1,l2 non-empty",
+          "PASS": "l1,l2,l3 non-empty (l3 machine-proposed until signed)",
           "BLOCKED": "l1,l2 MUST be empty strings"
         }
       },
@@ -279,7 +313,8 @@
           "gate",
           "sanskrit",
           "l1",
-          "l2"
+          "l2",
+          "l3"
         ],
         "optional": [
           "c1",
@@ -288,7 +323,8 @@
           "model",
           "date",
           "status",
-          "pushing[]"
+          "pushing[]",
+          "l3"
         ]
       },
       "producer": "site/build.py build_layers()",
