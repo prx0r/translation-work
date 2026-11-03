@@ -89,6 +89,8 @@ def main() -> int:
         am = {o["verse"]: o for o in json.loads((data / f"{song}.argmap.json").read_text())}
         l3_path = data / f"{song}.l3.json"
         l3 = {o["verse"]: o for o in json.loads(l3_path.read_text())} if l3_path.exists() else {}
+        l4_path = data / f"{song}.l4.json"
+        l4 = {o["verse"]: o for o in json.loads(l4_path.read_text())} if l4_path.exists() else {}
         prec = proofdir / f"proof-{song}.json"
         proof = json.loads(prec.read_text()) if prec.exists() else {"deterministic_gate": "BLOCKED",
                                                                    "blocking": ["no proof record"],
@@ -103,6 +105,7 @@ def main() -> int:
             satext = clean_site_sanskrit(" ".join(t for t in src.get(vn, []) if t not in ("&",)))
             l2o = l2.get(vn, {})
             l3o = l3.get(vn, {})
+            l4o = l4.get(vn, {})
             t1o = next((o for o in t1 if o["verse"] == vn), {})
             if gate == "PASS":
                 close = " / ".join(t["quick_gloss"] for t in v["tokens"])
@@ -131,6 +134,8 @@ def main() -> int:
                     ch[pf] = pv[pf]
             if gate == "PASS" and l3o.get("lines"):
                 ch["l3"] = "\n".join(x.strip() for x in l3o["lines"] if x.strip())
+            if gate == "PASS" and l4o.get("lines"):
+                ch["l4"] = "\n".join(x.strip() for x in l4o["lines"] if x.strip())
             chunks.append(ch)
             ao = am.get(vn, {})
             if gate == "PASS" and ao:
