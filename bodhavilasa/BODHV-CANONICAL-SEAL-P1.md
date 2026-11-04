@@ -150,5 +150,6 @@ render.
   expanding circles from the gate]) · **the pale nectar-arcing
   cup at the crown** [p05: non-dual nectar drunk — quenched; the
   fever's end drawn as pour] · **heat-haze that THINS as it
-  rises** [p10 world's desert-heat pacified — gradient drawn:
-  ochre below, cool above].
+  rises** [p05: fever's end — the nectar just poured pacifies;
+  gradient drawn ochre below, cool above: heat-haze thinning as
+  it climbs].

@@ -131,6 +131,7 @@ latest order = "all available" — flag kept, both included at end.)
 | T2-12 | vbt | 162 | 17 | ✓ (+ new working-t1) |
 | T2-13 | tantrasara-a18 | 2 | 1 | ✓ (owner-exclusion flag) |
 | T2-14 | tantrasara-a17 | 6 | 1 | ✓ (owner-exclusion flag) |
+| T2-15 | tantrasara-a19 | 7 | 1 | ✓ (owner-exclusion flag; NEW gold) |
 
 NOT parable-ready (no feedstock — pipeline must run first):
 tantraloka-a01..a37, tantrasara-a03..a16/a19..a22, tattvasandoha.

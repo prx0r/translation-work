@@ -69,3 +69,18 @@ log for render time; bases per spent-log (SOLIS-REFS.md).*
   rewrites.
 - One hygiene item: T2-8 and T2-9 share a PTV- prefix in filenames
   (ptvm vs paratrimshika) — rename T2-9's file to PTR- at next edit.
+
+## Tier-2 addendum — continuation (2026-11-04)
+
+| # | Work | Seams | Base | Seed | Status |
+|---|------|-------|------|------|--------|
+| 20 | stavacintamani (STAV) | 120v/13 songs — spoonful-that-was-the-whole-sea | folio-by-sight | 844 | MACHINE_DRAFT |
+| 21 | vijñānabhairava (VBT) | 162v/17 songs — quiet-between-two-sounds | folio-by-sight | 845 | MACHINE_DRAFT |
+| 22 | tantrasara-a17 (TSA17) | 1 song — vow-in-the-water, 8-step order | folio-by-sight | 846 | MACHINE_DRAFT · owner-flag group |
+| 23 | tantrasara-a18 (TSA18) | 1 song — letter-that-needed-no-stamp | folio-by-sight | 847 | MACHINE_DRAFT · owner-flag group |
+| 24 | tantrasara-a19 (TSA19) | 1 song — door-after-the-lamp-goes-out | folio-by-sight | 848 | MACHINE_DRAFT · owner-flag group · NEW gold feedstock |
+
+Clue standard: 33/33 P1 packages carry HERMETIC CLUES/objects
+sections (verified post-write; all 33 pass). Seeds 844–848 reserved, not
+fired. Beauty-pass delta check: all song refs resolve except
+bodhavilasa p10 → re-anchored to p05 (fever/heat arc).
