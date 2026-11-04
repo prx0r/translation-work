@@ -1,0 +1,44 @@
+{
+ "work": "ipvv",
+ "updated": "2026-11-05",
+ "next": "PROOFS (see IPVV-IMPORT.md + proof/README.md): intake source spans → L0 contract conversion → proof_record per chunk → emit",
+ "counts": {
+  "passages": 49,
+  "t1_files_root": 49,
+  "t1_detail": 14,
+  "l0_reports": 35,
+  "l2_data_files": 49,
+  "pilot_files": 109,
+  "published_bundles": 49
+ },
+ "r2": {
+  "l0_v1": {
+   "key": "sanskritree/ipvv-translations/l0/ipvv_l0_v1_jsonl.tar.gz",
+   "sha256": "9abc9f29682a7027f692cda935fe8e45856be9b6aefd0639578a226eac9d29e8",
+   "bytes": 1635578
+  },
+  "l0_full": {
+   "key": "sanskritree/ipvv-translations/l0/ipvv_l0_jsonl.tar.gz",
+   "sha256": "35216fbf10871f28db0b073b5d42c6259f7816681e26c3519d578e8dbcdd8157",
+   "bytes": 145332987
+  },
+  "prefix": "sanskritree/ipvv-translations/",
+  "verified": true,
+  "staging": "/root/ipvv-r2-staging"
+ },
+ "source_files": {
+  "ipvv-vol1.txt": {
+   "sha256": "5dbfb51e094b9b76514a3b1582c39fc30ea92a48eb64b8257c70a78000b76761",
+   "bytes": 552940
+  },
+  "ipvv-vol2.txt": {
+   "sha256": "d0356e3737b52fc41a7b4442867fb2a647dbb3eb6420d53fa2b3817297b8bcbb",
+   "bytes": 786724
+  },
+  "ipvv-vol3.txt": {
+   "sha256": "4884a6710ff5662da9cfa33ecd988c288c3cfbb732299288475fb9865add60d3",
+   "bytes": 732838
+  }
+ },
+ "notes": "Imported from R2 by svread/endgame lane; proofs intentionally NOT run (GATE = PROOF_NOT_RUN). l0 contract conversion + intake/workcfg + t1 row conversion are gold-lane work. Site translations/ipvv.json absent (crown WORK.md \"READ site\" item). Bundle chunk ids carry .md suffix — normalize to chunk_id (no suffix) everywhere."
+}
