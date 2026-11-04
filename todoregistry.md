@@ -36,7 +36,7 @@ edit THIS file in the same commit — never leave it behind.*
    L4 sung meticulously v01–v120; C2 in place, owner may still defer/redo it).
 2. **Small standalone legacy works, smallest first** — each = full transform
    (FINAL-PROCESS §how-to-transform, 14 steps) → L3 handcraft → L4 → C2:
-   1. saktavijnana (~30v, 3 passages)
+   1. saktavijnana (~30v, 3 passages) — DONE → gold #23 (full pipeline, L4 sung v01–v30, C2 in place; first-verse voice verdict outstanding)
    2. svabodhasiddhi (~32v, 4 passages)
    3. paratrimshika (~35v, 4 passages)
    4. ptvmadhyama (35v — **T1 corrupt, rebuild T1 first**)

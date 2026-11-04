@@ -1,7 +1,7 @@
 {
  "work": "saktavijnana",
  "updated": "2026-11-04",
- "next": "L3 handcrafted couplets (30v), then L4 song-set + owner first-verse verdict, then C2",
+ "next": "svabodhasiddhi (queue §2.2): source intake + lore search + rasa, then full transform",
  "counts": {
   "passages": 3,
   "verses": 30,
@@ -12,11 +12,9 @@
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-saktavijnana-raw.jsonl",
  "r2_bytes": 8932,
  "r2_verified": true,
- "notes": "CRYSTAL T1-C1 COMPLETE 2026-11-04: T1 30v span-exact (jātilohita/daṇḍavat/kila/dṛṣṭisaṃkrānti/malatrayavikārau forks noted) / L0 299 tok 100% PARSED, 4 forks live->resolved via argmaps / argmaps 30/30 distinct lore (Mahānaya 13-fold, sdv Kaula/Timirodghāṭana), 0 shared / L2 rasa-carried read prose, byte-exact cites / C1 essence 10 per song + 7-part + rasa (p01 adbhuta+vīra, p02 adbhuta-bhayānaka, p03 śānta), 0 quotes/meta/shared / data JSON 3 songs / validate_song 0 errors x3 / proof PASS x3 / check.py CANONICAL 0 failures / qa NEEDS_WITNESS. OPEN: L3/L4/C2 + human review (MACHINE_PROPOSED).",
+ "notes": "GOLD #23 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (30v, 3 songs) — T1 span-exact; L0 299 100% PARSED 4 forks resolved; argmaps 30/30 0-shared; L2 byte-exact cites; C1 essence+rasa (adbhuta/adbhuta-bhayānaka/śānta); L3 30 couplets; L4 30 DRAFTs sung w/ craft_notes+rejected-killers+reads_against; C2 eli5+genz full essence coverage; validate+proof PASS x3; check.py CANONICAL 0 failures; qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
  "needs": [
-  "L3 handcrafted couplets (owner: read aloud)",
-  "L4 song-set + first-verse voice verdict (owner)",
-  "C2 renders",
-  "human-review (MACHINE_PROPOSED)"
+  "first-verse L4 voice verdict (owner)",
+  "human-review (MACHINE_PROPOSED, after full transform)"
  ]
 }
