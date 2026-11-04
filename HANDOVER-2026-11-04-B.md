@@ -104,8 +104,9 @@ red: `check.py --work vbt` = `FAIL data-present`, `FAIL qa-present` only.
 - Sanskrit-first trust gradient; L4 first-verse voice verdict BEFORE treating
   any new gold's L4 as voice; no invented refrains; dosed adbhuta; paper-thin
   finale; one work at a time; every layer machine-proposed, human reviews.
-- tantrasara-a03–a22 / tantraloka excluded per owner — queue after vbt:
-  no-repo intakes (see todoregistry §5).
+- tantrasara/tantraloka are NOT in the immediate campaign (prior handover §5
+  flags them excluded-from-next); `todoregistry.md` §3/§4 remain queue-of-record
+  AFTER the no-repo intakes — owner confirms scope before starting them.
 
 ## 4. Entry points (30-second orientation)
 
@@ -121,3 +122,40 @@ red: `check.py --work vbt` = `FAIL data-present`, `FAIL qa-present` only.
   `sivasutra/` (single-line L3/L4 form — the form for aphoristic works).
 - The 50-todo list: `todoregistry.md` (queue §2 now 6/7 DONE + vbt marked
   IN PROGRESS with pointer here).
+
+## 5. Duplication audit (2026-11-04, owner hunch investigated)
+
+1. **Same-tantra double-gold (REAL, needs owner call).** `paratrimshika` (#25,
+   GRETIL root 36v) and `ptvmadhyama` (#26, M00044 mūla 35v) are the SAME
+   Parātriṃśikā in two recensions (v1 differs only svataḥ/sadyaḥ; word-boundary
+   redivisions explain the rest). ptvmadhyama's *unique* content — Lakṣmīrāma's
+   Vivṛti commentary — was excluded from the intake (mūla only). Options:
+   (a) keep as recension pair + cross-link both STATUS/lore [cheap, do now];
+   (b) re-aim ptvmadhyama at the Vivṛti body later (the text nobody has);
+   (c) demote one. NOT to be decided unilaterally.
+2. **Prior English existed; we re-derived fresh (process gap, fixable).** All
+   six golds carry legacy `L2.md` (Dyczkowski-mode) + site verse pages from the
+   Oct-30 batch. Transform step 1 says READ existing files; L2/C1 were
+   composed fresh and `qa_vs_witness` reported NEEDS_WITNESS ×6 despite
+   comparable prose in-tree. Fix: convert legacy L2 → `lore/witnesses/*.json`,
+   re-run qa (retro for the 6, standard step going forward).
+3. **Not duplicated**: `site/data/translations/*.json` records for all six +
+   vbt are BLOCKED/ABSTENTION skeletons (en_variants=0; vbt records even carry
+   wrong `work_id: tantrasara`) — they only LOOK like prior translations. vbt's
+   batch layer produced no English at all; our vbt pass is the first, not a redo.
+
+## 6. Next steps (ordered)
+
+1. **vbt → gold #29** (one work at a time): fix
+   `vbt/cm/l0cm-v61-70.DRAFT.json` to IAST → `tools/build_l0.py --work vbt
+   --cm …` → validate + drift → commit; CM v71–162 in ≤10v chunks (same loop);
+   then argmaps ×17 → L2 → C1 (rasa: frame adbhuta-śṛṅgāra, dhāraṇās
+   śānta-vidhi, close śānta) → data emit + legacy MDs → L3/L4 (first-verse
+   verdict flagged) → C2 → gates ×17 → registry gold #29 + todoregistry +
+   STATUS + c1.NOTE ×17.
+2. **Small resolutions**: cross-link paratrimshika↔ptvmadhyama in both STATUS
+   + lore; witness-conversion of legacy L2.md for the six golds + re-run qa;
+   owner: ptvmadhyama re-aim decision, paramarthadvadasika anomaly.
+3. **Queue after vbt**: 5 no-repo intakes (+anomaly) → todoregistry §3
+   tantrasara-a03–a22 → §4 tantraloka (owner confirms scope — prior handover
+   §5 flags them excluded-from-next).
