@@ -139,6 +139,12 @@ WORKS = {
         "ahnika": 2,
         "songs": {"tsa-a02": (1, 4)},
     },
+    "tantrasara-a18": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # ahnika 18 = abhiṣeka: 2 prose units (18.1 consecration rule; 18.2 delegation + vidyāvrata + testing)
+        "ahnika": 18,
+        "songs": {"tsa-a18": (1, 2)},
+    },
 }
 
 
