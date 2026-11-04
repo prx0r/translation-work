@@ -19,6 +19,13 @@ sys.path.insert(0, str(ROOT / "tools"))
 import scholar as sch  # noqa: E402  (reuse the exact loaders + hashers)
 import agent_contract  # noqa: E402
 
+# Remove only after the complete source and all dependent layers have been
+# independently repaired and revalidated. A PASS proof did not detect the
+# missing first lines in this work's current data.
+SOURCE_COVERAGE_HOLDS = {
+    'ghatakarpara': 'Source alignment incomplete: all 21 numbered verses require upstream repair and review.'
+}
+
 
 def song_craft(work: str, originals: dict) -> dict:
     """Expose editorial rationale only for an exact match to the eligible L4."""
@@ -118,6 +125,9 @@ def build(work: str) -> dict:
                    and r.get("decision") in ("ACCEPT", "ACCEPT_WITH_QUALIFICATION")
                    for r in reviews):
                 c2_eligible.add(song)
+    if work in SOURCE_COVERAGE_HOLDS:
+        eligible.clear()
+        c2_eligible.clear()
     for layer in sch.LAYERS:
         for song in songs:
             if song not in eligible or (layer == "c2" and song not in c2_eligible):
@@ -230,6 +240,8 @@ def build(work: str) -> dict:
         "signoffs": signoffs,
         "stack_hashes": stack_hashes,
     }
+    if work in SOURCE_COVERAGE_HOLDS:
+        doc['withheld_reason'] = SOURCE_COVERAGE_HOLDS[work]
     doc["projection_sha256"] = sch.sha(doc)
     return doc
 

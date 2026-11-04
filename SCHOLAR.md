@@ -351,3 +351,11 @@ bridge. A passing deterministic proof is not a human philological review. The
 bridge does not determine whether a passage supports an essay's argument or
 verify external scholarly citations. Earlier essays without this optional field
 continue to be accepted. Do not place private notebook notes in public citations.
+
+### Known source-coverage hold
+
+The Scholar emitter withholds every Ghaṭakarpara song and all derived layers,
+versions, reviews, essays and source evidence until its incomplete source
+alignment and dependent data are repaired and reviewed upstream. Its previous
+PASS proofs did not detect missing first lines. The projection records the hold;
+removing it requires a source audit and fresh validation, not merely a hash.

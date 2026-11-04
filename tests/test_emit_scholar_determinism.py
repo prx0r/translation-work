@@ -13,6 +13,17 @@ import emit_scholar
 
 
 class ProjectionIndexTests(unittest.TestCase):
+    def test_known_source_coverage_hold_removes_all_scholar_evidence(self):
+        doc=emit_scholar.build('ghatakarpara')
+        self.assertIn('Source alignment incomplete',doc['withheld_reason'])
+        self.assertTrue(doc['withheld_songs'])
+        self.assertTrue(all(not rows for rows in doc['originals'].values()))
+        self.assertEqual(doc['source_verses'],{})
+        self.assertEqual(doc['versions'],[])
+        self.assertEqual(doc['essays'],[])
+        self.assertEqual(doc['reviews'],[])
+        self.assertEqual(doc['l4_craft'],{})
+
     def test_full_rebuild_ignores_stale_index_and_sorts_keys(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
