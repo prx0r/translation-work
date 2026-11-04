@@ -1,0 +1,70 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "span-p03",
+ "work": "spanda",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "7bd5a748436960d3",
+ "source_verses": 6,
+ "t1_verses": 6,
+ "l0": {
+  "parsed": 58,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 58
+ },
+ "align": {
+  "min_ratio": 0.994,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 8,
+ "c1_words": 309,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 6,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 6,
+   "l0": 58,
+   "argmap": 6,
+   "l2": 6,
+   "l3": 0,
+   "l4": 0,
+   "essence": 6,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "layer_sha256": {
+  "t1": "073f2b0f2819d3c4eac41184734f3e486265a76436f68b37b78859af82beeb17",
+  "l0": "399effd7a0e67e3b800ce3fb3ec0fecda79befea87bc15b14327e4152f5ded69",
+  "argmap": "c8a27449e7cece9abac61055c94045c7358907cc8d3ec9939e3704f69994bbcd",
+  "l2": "63c03ed07d004eae5f2e00b2d913e7ecb249cec5fae164bd326bae4f868816db",
+  "c1": "9df1c650720f29b4e810ecfd2ee284c28ecbd59bc7dc23163d0d4272c83c9114"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "7bd5a748436960d3",
+  "t1": "T1-span-p03.md",
+  "l0": "T1-span-p03.l0.jsonl",
+  "l2": "L2-span-p03.md",
+  "c1": "c1/C1-span-p03.md"
+ }
+}
