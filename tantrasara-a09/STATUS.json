@@ -1,16 +1,20 @@
 {
- "work": "tantrasara-a09",
- "updated": "2026-10-30",
- "next": "batch (A09 done; full close passes done)",
- "counts": {
-  "passages": 3,
-  "verses": 53
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a09-raw.jsonl",
- "r2_verified": true,
- "notes": "pram\u0101t\u1e5b: 7 knowers, countdown, states",
- "r2_bytes": 36616,
- "needs": [
-  "citation-grounding"
- ]
+  "work": "tantrasara-a09",
+  "updated": "2026-11-04",
+  "next": "Owner: first-verse L4 voice verdict (tsa-a09-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a22 (53 units).",
+  "counts": {
+    "passages": 1,
+    "verses": 53,
+    "l0_parsed": 825,
+    "l0_ambiguous": 0,
+    "l0_failed": 0,
+    "l4_drafts": 53,
+    "l4_with_craft": 53
+  },
+  "notes": "GOLD #48 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 9 (saptadhā-tattva-pramātṛ-bheda + tuṭi + avasthā; 53 units, 825 tok) via workcfg abhts. Full pipeline: L0 hand-crafted 825 tok 100% PARSED (fused spans: saptaiva, tasyaiva, caitat, ekasyaiva, athātraiva, tattadabhyāsāt, yadādhiṣṭheyatayā etc.) / T1 md+jsonl+report / argmaps 53/53 (sha 4f59aa79ae737c1a, gate PASS, 0 shared) / L2 53 / C1 essence 53 (0 quotes, 0 shared, 0 meta) + 7-part + rasa jñāna-śānta / L3 53 (4 collisions + 2 slash-fixes reworded vs L2; Śiva diacritics) / L4 53 DRAFTs craft+rejected+read-aloud / c1 md / site ABSTENTION. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
+  "needs": [
+    "first-verse L4 voice verdict (owner)",
+    "human-review (machine-proposed)"
+  ],
+  "rasa": "jñāna with śānta weight (knowledge as calm enumeration)"
 }
