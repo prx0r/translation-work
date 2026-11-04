@@ -1,1 +1,17 @@
-{"counts": {"l0_ambiguous": 0, "l0_failed": 0, "l0_parsed": 66, "passages": 1, "verses": 2}, "needs": ["first-verse L4 voice verdict (owner)", "human-review (machine-proposed, after full transform)"], "next": "Owner: first-verse L4 voice verdict (tsa-a18-v01) + human review (machine-proposed throughout). Next Abhinavagupta shortest-first: tantrasara-a17 (6v).", "notes": "GOLD #34 (MACHINE_PROPOSED) 2026-11-04: Abhinavagupta Tantrasara ahnika 18 (abhiseka) 2 prose units via workcfg GRETIL span route: T1 2/2 span-exact (legacy phantom atha dropped with grounds) / L0 66 tok 100% PARSED 0 drift / argmaps 2/2 (0 shared) / L2 plain-English byte-exact cites / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 2 / L4 2 DRAFTs song-set w/ craft_notes+rejected-killers (audit-aligned) / C2 eli5+genz full coverage / c1.NOTE. validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review.", "updated": "2026-11-04", "work": "tantrasara-a18"}
+{
+ "work": "tantrasara-a18",
+ "updated": "2026-11-04",
+ "next": "Owner verdict + human review. Next: tantrasara-a17 (6v).",
+ "counts": {
+  "passages": 1,
+  "verses": 2,
+  "l0_parsed": 66,
+  "l0_ambiguous": 0,
+  "l0_failed": 0
+ },
+ "notes": "GOLD (MACHINE_PROPOSED) 2026-11-04: abhiseka ahnika, 2 prose units via workcfg GRETIL span route. Full pipeline: T1 span-exact (legacy phantom atha dropped w/ grounds) / L0 66 tok 100% PARSED 0 drift / argmaps 2/2 (0 shared) / L2 / C1 / L3 2 / L4 2 DRAFTs (audit-aligned) / C2 eli5+genz / c1.NOTE. validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+ "needs": [
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed)"
+ ]
+}
