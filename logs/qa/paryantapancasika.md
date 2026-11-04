@@ -30,17 +30,17 @@
 - ledger terms: 0, unattested in witness: none
 - findings: none
 
-## pary-p06: NEEDS_WITNESS
+## pary-p06: HOLD
 
-- coverage: 6/6 verses; cites bad: none; proof: PASS
+- coverage: 6/6 verses; cites bad: none; proof: BLOCKED
 - ledger terms: 0, unattested in witness: none
-- findings: none
+- findings: ['HOLD: proof gate BLOCKED']
 
-## pary-p07: NEEDS_WITNESS
+## pary-p07: HOLD
 
-- coverage: 7/7 verses; cites bad: none; proof: PASS
+- coverage: 7/7 verses; cites bad: none; proof: BLOCKED
 - ledger terms: 0, unattested in witness: none
-- findings: none
+- findings: ['HOLD: proof gate BLOCKED']
 
 ## pary-p08: NEEDS_WITNESS
 
