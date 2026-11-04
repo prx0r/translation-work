@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 91,
- "gold": 34,
+ "gold": 35,
  "partial": 0,
- "pending": 57,
+ "pending": 56,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -769,11 +769,15 @@
   },
   {
    "work": "tantrasara-a17",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 6,
+   "note": "2026-11-04: GOLD #35 — lingoddhara ahnika, 6 prose units via workcfg GRETIL span route. Full pipeline: T1 span-exact / L0 94 tok / argmaps 6/6 / L2 / C1 / L3 / L4 6 DRAFTs / C2 eli5+genz / c1.NOTE; validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "l4_songs": 1,
+   "l4_verses": 6,
+   "c2_songs": 1
   },
   {
    "work": "tantrasara-a18",

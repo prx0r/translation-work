@@ -9,11 +9,11 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-04, all committed)
 
-- **34 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
+- **35 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
   C2 (eli5+genz, [E#]-tagged) + refreshed proofs (layer_sha256 over L3/L4/C2).
-- **Gate green on all 34 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
+- **Gate green on all 35 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
   32 (defaults to sivastotravali — loop it when auditing).
-- **REGISTRY.json**: 91 works / 34 gold / 57 pending.
+- **REGISTRY.json**: 91 works / 35 gold / 56 pending.
 - **GOAL 2026-11-04 (owner)**: all Abhinavagupta works, shortest first — stotras/prakaraṇas,
   then tantrasara āhnikas (a18→…→a13 by verse count), then tantraloka āhnikas (a34→…→a15).
   Sambandhasiddhi (gold, attribution uncertain) excluded pending verification.
