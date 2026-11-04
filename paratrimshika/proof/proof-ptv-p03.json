@@ -38,13 +38,16 @@
    "l0": 100,
    "argmap": 9,
    "l2": 9,
-   "l3": 0,
-   "l4": 0,
+   "l3": 9,
+   "l4": 9,
    "essence": 9,
    "renders": [
     "standard"
    ],
-   "c2_renders": [],
+   "c2_renders": [
+    "eli5",
+    "genz"
+   ],
    "signoff": false
   }
  },
@@ -57,7 +60,10 @@
   "l0": "fdbabad1bfd42a7d8c5f95ca0203cb57bf09f9778cda9465d5f822c700a1e58f",
   "argmap": "2b87ed1c1e957a0e9d7504a496a182859b0d39775d3370ecfea98dc28a401230",
   "l2": "c1d022a665dd5cf429204148a63cbdb2132e0a24e6e178227c7c705e4e4e98d2",
-  "c1": "97be3a46f0dad62aae25f2e5e8757259aa4698e9c7e3af2227db0a3139cb6fb9"
+  "c1": "97be3a46f0dad62aae25f2e5e8757259aa4698e9c7e3af2227db0a3139cb6fb9",
+  "l3": "db2e925478337e55e91de751dc7fde237649ff2158ac7b8e048d2ae92edf1b7c",
+  "l4": "bad6ac780bbed5bf551d4d99e8aa11e34093fbe3d3c67c2f500b96e408047083",
+  "c2": "e8acc0dbe195c82c5d977f03adfd3b1b8c4c2d5c502d121d888d56b1956f9a1f"
  },
  "lineage": {
   "tool": "proof_record v1 2026-11-01",

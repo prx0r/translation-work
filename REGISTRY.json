@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 92,
- "gold": 24,
+ "gold": 25,
  "partial": 0,
- "pending": 68,
+ "pending": 67,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -236,11 +236,13 @@
   },
   {
    "work": "paratrimshika",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 36,
+   "note": "2026-11-04: full gold pipeline (T1 36v span-exact / L0 377 tok 100% PARSED, svatah/sadyah resolved / argmaps 36/36 / L2 rasa-carried byte-exact cites / C1 essence + rasa / L3 36 couplets+handcrafted / L4 36 DRAFTs song-set w/ craft_notes+rejected-killers / C2 eli5+genz full coverage), validate+proof PASS x4, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (Singh Vivarana translation as witness-parallel, root anonymous). OPEN: first-verse L4 voice verdict (owner); human review (MACHINE_PROPOSED).",
+   "l4_songs": 4
   },
   {
    "work": "phrdaya",
