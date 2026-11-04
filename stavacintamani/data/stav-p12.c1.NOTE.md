@@ -4,7 +4,7 @@ Moved from C1 (pristine essence and SUMMARY only):
 
 ## SUMMARY
 
-Service-hope ever-new each tick; untiring fancy-teeming one, seamless, triumphing Unborn; lore-lamp licking birth-greased wont-wick, when presence; fault-outworn wink-lodging achieves all; 'blest, quits, big am I' grounded by thee; self-doer of fair and foul, love mothers only fair; mind clear, do you enter or self-clear, man dangles; nay, supervision by thee alone, grace is fulfilment, remotest seat; word, wit, work, frame gleam love-trimmed; laud-gem gravid with longings wrought by Nārāyaṇa for Śambhu.
+Service-hope ever-new each tick; untiring fancy-teeming one, seamless, triumphing Unborn; lore-lamp licking birth-greased wont-wick, when presence; fault-outworn wink-lodging achieves all; 'blest, quits, big am I' grounded by thee; self-doer of fair and foul, love mothers only fair; mind clear, do you enter or self-clear, man dangles; nay, supervision by thee alone, grace is fulfilment, remotest seat; word, wit, work, frame gleam love-trimmed; wish-jewel heavy with granted longing, love's fortune-house, wrought by Nārāyaṇa for Śambhu.
 
 ## VOICE MAP
 
