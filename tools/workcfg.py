@@ -139,6 +139,36 @@ WORKS = {
         "ahnika": 2,
         "songs": {"tsa-a02": (1, 4)},
     },
+    "tantrasara-a18": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # ahnika 18 = abhiṣeka: 2 prose units (18.1 consecration rule; 18.2 delegation + vidyāvrata + testing)
+        "ahnika": 18,
+        "songs": {"tsa-a18": (1, 2)},
+    },
+    "tantrasara-a19": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # ahnika 19 = post-mortem/śrāddha initiation: 7 units (19.1 admission; 19.2 corpse-rite; 19.3 joining+burning; 19.4 offering; 19.5 daily; 19.6 knower exempt; 19.7 image-abandonment seal)
+        "ahnika": 19,
+        "songs": {"tsa-a19": (1, 7)},
+    },
+    "tantrasara-a17": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # ahnika 17: 6 units
+        "ahnika": 17,
+        "songs": {"tsa-a17": (1, 6)},
+    },
+    "tantrasara-a19": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # ahnika 19: 7 units
+        "ahnika": 19,
+        "songs": {"tsa-a19": (1, 7)},
+    },
+    "tantrasara-a12": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # ahnika 12: 10 units
+        "ahnika": 12,
+        "songs": {"tsa-a12": (1, 10)},
+    },
 }
 
 

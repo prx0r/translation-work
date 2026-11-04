@@ -1,16 +1,21 @@
 {
  "work": "ptvmadhyama",
- "updated": "2026-10-30",
- "next": "batch (ptvmadhyama done)",
+ "updated": "2026-11-04",
+ "next": "spanda (queue 2.5): source intake — passage verse-ranges garbled (20-3, 16-2), fix ranges first; then lore + full transform",
  "counts": {
   "passages": 4,
-  "verses": 35
+  "verses": 35,
+  "l0_parsed": 301,
+  "l0_ambiguous": 0,
+  "l0_failed": 0
  },
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-ptvmadhyama-raw.jsonl",
  "r2_bytes": 11876,
  "r2_verified": true,
- "notes": "35 verses, 4 passages, L200+C1 done, gate run",
+ "notes": "GOLD #26 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (35v M00044 mula, 4 songs); validate+proof PASS x4; check.py CANONICAL 0 failures; qa SHIP_AS_IS x4 vs vendored legacy L2 witness (lore/witnesses/legacy-ptvmadhyama-l2.json, 35v).. OPEN: first-verse L4 voice verdict (owner); human review. RECENSION PAIR: mūla of the SAME Parātriṃśikā golded as paratrimshika (GRETIL root, 36v) — this is Lakṣmīrāma's recension (35v, sadyaḥ/Kaulikī/labhāmi variants). Its UNIQUE content, Lakṣmīrāma's Vivṛti commentary, was excluded from the intake (mūla only) — owner decision open: re-aim this work at the Vivṛti body, or keep as recension pair with cross-links. Beauty-pass verify-only 2026-11-04 (machine-proposed): 35v read aloud — rhymed ballad couplets, recension-distinct lines hold; no re-craft. Voice verdict + human review still owner-side.",
  "needs": [
-  "abstention-review"
+  "first-verse L4 voice verdict (owner)",
+  "human-review (MACHINE_PROPOSED, after full transform)",
+  "owner: recension-pair scope — keep pair or re-aim this work at the Vivṛti commentary (unique content)"
  ]
 }

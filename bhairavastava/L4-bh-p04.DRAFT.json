@@ -1,46 +1,48 @@
 {
- "song": "bh-p04",
- "song_craft": "Voice: stotra-address couplets — Abhinavagupta’s own hymn, first person throughout, vocatives load-bearing every verse (row 7). Arc: veneration-by-becoming (v1) → two-step recognition (v2) → fear-denied-suffering-kept (v3) → death defied (v4) → fearlessness finished (v5) → awakening→ingress (v6) → affliction-as-occasion (v7) → rites relativized (v8) → dancing consciousness (v9) → dated seal cooling the world (v10). Recognition performed, not argued. L4 = L3 verbatim, music named.",
- "verses": [
-  {
-   "verse_id": "bh-p04",
-   "l4": {
-    "verse_id": "bh-p04",
-    "song": "bh-p04",
-    "verse": 4,
-    "lines": [
-     "O Ender — turn from me this most wrathful and terrible gaze.",
-     "Steadfast in Śaṅkara’s service and contemplation, I am filled with dread Bhairava-power."
-    ],
-    "sanskrit_cite": "antaka māṃ prati mā dṛśam enāṃ krodhakarālatamāṃ vinidhehi śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi",
-    "l0_ids": [
-     "bh-p04-p000",
-     "bh-p04-p001",
-     "bh-p04-p002",
-     "bh-p04-p003",
-     "bh-p04-p004",
-     "bh-p04-p005",
-     "bh-p04-p006",
-     "bh-p04-p007",
-     "bh-p04-p008",
-     "bh-p04-p009",
-     "bh-p04-p010",
-     "bh-p04-p011"
-    ],
-    "essence_maps": [
-     0,
-     1
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Prayer then ground (power declared as state); asmi open kept (achieved vs performative); Śaṅkara=Śiva resolved by context.",
-   "rejected": "(a) resolving asmi → killed by UNC. (b) begging tone → killed: state, not begging.",
-   "reads": "argmap Q+INF (+UNC [\"Whether 'asmi' is a declaration of achieved state or a performative utterance is unresolved.\", \"Whether 'śaṅkara' could refer to Śaṅkarācārya is resolved as Śiva by context.\"]) / C1 essence / rasa vīra (heroism) with adbhuta (wonder) / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: vīra as power-filled state (FIRST vīra in the work — color shift from śānta supplication to heroic testimony). Sanskrit-first: antaka (ENDer — death named to its face, kept); asmi (I AM — the ground is a state, not a plea); ghora-bhairava-tejas (dread-power, kept dread). Rows: 7 (‘O Ender’ opens — address before petition; death faced first), 1 (‘dread Bhairava-power’ closes — the state named last), 5 (prayer tread: plea L1, ground L2). Close: ‘filled with dread Bhairava-power’. Rupture: L2 (prayer turns to testimony — begging turns to possessing; argmap: power declared, not begged). Rejected: ‘awesome’ — killed: ghora is dread, awe admires; ‘fierce gaze’ — killed: raudra + bhīṣaṇa both present, both kept; ‘avert’ for ‘turn from me’ — killed: parāṅmukha kept bodily (turned-face). Read aloud: O-END-er — TURN-from-me THIS most-WRATH-ful AND-terr-i-BLE-gaze … STEAD-fast in ŚAṄ-ka-ra's SER-vice … i-AM-filled WITH-dread BHAI-ra-va-POW-er.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "bh-p04",
+  "song": "bh-p04",
+  "verse": 4,
+  "lines": [
+   "O Ender — turn from me this most wrathful and terrible gaze.",
+   "Steadfast in Śaṅkara’s service and contemplation, I am filled with dread Bhairava-power."
+  ],
+  "sanskrit_cite": "antaka māṃ prati mā dṛśam enāṃ krodhakarālatamāṃ vinidhehi śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi",
+  "l0_ids": [
+   "bh-p04-p000",
+   "bh-p04-p001",
+   "bh-p04-p002",
+   "bh-p04-p003",
+   "bh-p04-p004",
+   "bh-p04-p005",
+   "bh-p04-p006",
+   "bh-p04-p007",
+   "bh-p04-p008",
+   "bh-p04-p009",
+   "bh-p04-p010",
+   "bh-p04-p011"
+  ],
+  "essence_maps": [
+   0,
+   1
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "How does the devotee turn aside death's gaze? → Prayer first, then the ground: power declared as state, not begged. The devotee testifies to possessing power, grounded in service and contemplation.",
+  "c1_essence": [
+   "Death's gaze is turned aside by prayer: O Ender, do not direct this wrathful-terrible gaze toward me.",
+   "The ground of the prayer: firm in Śaṅkara-service and contemplation, filled with terrifying Bhairava-power — asmi (I am).",
+   "Power first invoked against death's gaze, then declared as state. Śaṅkara here is Śiva, not Śaṅkarācārya."
+  ],
+  "c1_rasa": "vīra (heroism) with adbhuta (wonder)"
+ },
+ "status": "machine-proposed"
 }

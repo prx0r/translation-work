@@ -1,0 +1,17 @@
+{
+ "counts": {
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 269,
+  "passages": 2,
+  "verses": 13
+ },
+ "needs": [
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed, after full transform)"
+ ],
+ "next": "Owner: first-verse L4 voice verdict (pdva-p01-v01) + human review (machine-proposed throughout). Next work per Abhinavagupta shortest-first queue: rahasyapanchadashika 16v.",
+ "notes": "GOLD #31 (MACHINE_PROPOSED) 2026-11-04: Abhinavagupta Paramarthadvadasika (athava Paramadvayadvadasika — merged variant title, single gold from Sferra recension), 13v/2 songs: T1 span-exact / L0 269 tok 100% PARSED 0 drift (cakastu/kastu live fork, adjudicated in argmap) / argmaps 13/13 (0 shared) / L2 plain-English byte-exact cites / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 13 couplets/quatrains (0 shared w/ L2) / L4 13 DRAFTs song-set w/ craft_notes+rejected-killers (audit-aligned) / C2 eli5+genz full coverage / c1.NOTE x2. validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review. Beauty-pass verify-only 2026-11-04 (machine-proposed): 13v read aloud — question-answer architecture holds, closes land; no re-craft. Voice verdict + human review still owner-side.",
+ "updated": "2026-11-04",
+ "work": "paramarthadvadasika"
+}

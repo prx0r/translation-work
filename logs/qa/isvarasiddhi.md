@@ -1,10 +1,10 @@
 # QA vs witness: isvarasiddhi vs __no_witness_vendored__ (NOT VENDORED — ledger/fork checks skipped)
 
-## isva-p01: NEEDS_WITNESS
+## isva-p01: HOLD
 
-- coverage: 9/9 verses; cites bad: none; proof: PASS
+- coverage: 9/9 verses; cites bad: none; proof: BLOCKED
 - ledger terms: 0, unattested in witness: none
-- findings: none
+- findings: ['HOLD: proof gate BLOCKED']
 
 ## isva-p02: NEEDS_WITNESS
 
@@ -18,23 +18,23 @@
 - ledger terms: 0, unattested in witness: none
 - findings: none
 
-## isva-p04: NEEDS_WITNESS
+## isva-p04: HOLD
 
-- coverage: 9/9 verses; cites bad: none; proof: PASS
+- coverage: 9/9 verses; cites bad: none; proof: BLOCKED
 - ledger terms: 0, unattested in witness: none
-- findings: none
+- findings: ['HOLD: proof gate BLOCKED']
 
-## isva-p05: NEEDS_WITNESS
+## isva-p05: HOLD
 
-- coverage: 9/9 verses; cites bad: none; proof: PASS
+- coverage: 9/9 verses; cites bad: none; proof: BLOCKED
 - ledger terms: 0, unattested in witness: none
-- findings: none
+- findings: ['HOLD: proof gate BLOCKED']
 
-## isva-p06: NEEDS_WITNESS
+## isva-p06: HOLD
 
-- coverage: 9/9 verses; cites bad: none; proof: PASS
+- coverage: 9/9 verses; cites bad: none; proof: BLOCKED
 - ledger terms: 0, unattested in witness: none
-- findings: none
+- findings: ['HOLD: proof gate BLOCKED']
 
 ## isva-p07: NEEDS_WITNESS
 

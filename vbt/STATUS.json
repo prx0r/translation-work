@@ -1,21 +1,44 @@
 {
  "work": "vbt",
- "updated": "2026-10-30",
- "next": "batch (vbt done)",
+ "updated": "2026-11-04",
+ "next": "Owner: first-verse L4 voice verdict (vbt v01) + human review (machine-proposed throughout). Next work per todoregistry queue §2: no-repo intakes (5 + anomaly), then tantrasara-a03-a22.",
  "counts": {
   "passages": 17,
-  "verses": 161,
-  "l0_parsed": 17,
+  "verses": 162,
+  "l0_parsed": 1717,
   "l0_ambiguous": 0,
-  "l0_failed": 0
+  "l0_failed": 0,
+  "working_complete": [
+   "t1",
+   "l0",
+   "argmap",
+   "l2",
+   "c1",
+   "l3",
+   "l4",
+   "c2",
+   "c1.NOTE"
+  ],
+  "l4_drafts": 162,
+  "l4_songs_done": 17,
+  "data_emitted": [
+   "t1",
+   "l0",
+   "argmap",
+   "l2",
+   "c1",
+   "l3",
+   "l4",
+   "c2",
+   "c1.NOTE"
+  ],
+  "gate": "CANONICAL: 0 failures (validate 0 x17, proof PASS x17, roundtrip 0 x17, qa NEEDS_WITNESS)"
  },
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-vbt-raw.jsonl",
  "r2_bytes": 52971,
  "r2_verified": true,
- "notes": "SOURCE from GRETIL; 161 verses (VBT), 17 passages. T1 now has proper hyperliteral glosses (17 PARSED).",
+ "notes": "GOLD #29 2026-11-04: full tantra 162v (legacy 161v claim superseded; 112 = dhārana count inside). source/ byte-pinned (17 songs, uvāca excluded, lore-2026-11-04.md); T1 162/162 span-exact; L0 162/162: 1717 records, 0 errors, 0 drift (tools/build_l0.py from vbt/cm/); argmaps 162/162 (per-song sha, 0 shared); L2 162/162 rasa-carried byte-exact; C1 17/17 (0 quotes/meta/shared); L3 162 couplets (0 shared w/ L2); L4 162/162 DRAFTs + data (craft_notes+rejected-killers+reads_against, l4-schema 0, overlap-audited 162/162 vs own L3); C2 eli5+genz full essence coverage x17 (translator-hand); c1.NOTE x17. Discipline: L3-emit omission (28 gate failures, fixed same session); p13-p14 memory-composed L4 caught by overlap audit (0.00-0.25) and RE-SUNG from true L3 — mistakes.md #19. Legacy batch superseded, do not trust. Beauty-pass verify-only 2026-11-04 (machine-proposed): 162v spot-checked incl. 8 densest (p03-v28, p07-v62/v65/v69, p08-v71, p12-v117, p15-v145/v150) — terse dhāraṇā density is the tantra’s own; end-weight closes hold; no re-craft. Voice verdict + human review still owner-side.",
  "needs": [
-  "abstention-review",
-  "citation-grounding",
-  "term-consistency"
+  "first-verse L4 voice verdict (owner) + human review (machine-proposed throughout)"
  ]
 }

@@ -1,0 +1,17 @@
+{
+ "counts": {
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 127,
+  "passages": 2,
+  "verses": 16
+ },
+ "needs": [
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed, after full transform)"
+ ],
+ "next": "Owner: first-verse L4 voice verdict (deha-p01-v01) + human review (machine-proposed throughout). Next work per todoregistry queue: mahopadeshavimshatika.",
+ "notes": "GOLD #30 (MACHINE_PROPOSED) 2026-11-04: Abhinavagupta Dehasthadevatacakrastotra, 16v/2 songs (deha-p01 vv1-8, deha-p02 vv9-16): sanskritdocuments.org Abhinavastotravali print (Ruma Dewan); T1 span-exact / L0 127 tok 100% PARSED 0 drift (2 live forks v9/v10 print variants, adjudicated in argmaps; v16 sarvantah resolved adverbial) / argmaps 16/16 (0 shared) / L2 rasa-carried byte-exact / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 16 couplets (0 shared w/ L2) / L4 16 DRAFTs song-set w/ craft_notes+rejected-killers (alignment-audited) / C2 eli5+genz full coverage / c1.NOTE x2. validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review. Beauty-pass verify-only 2026-11-04 (machine-proposed): 16v read aloud — deity-catalogue couplets, vocative closes hold throughout; no re-craft. Voice verdict + human review still owner-side.",
+ "updated": "2026-11-04",
+ "work": "dehastha"
+}

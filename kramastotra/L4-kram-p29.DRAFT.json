@@ -1,47 +1,47 @@
 {
- "song": "kram-p29",
- "song_craft": "Voice: beloved handcrafted couplets (restored 2a45bbc — the retransmission was reverted; L4 sings the loved version, never the reverted one). Stotra-arc: rite (v1) → scrutiny (vv2–4) → madness-bliss (v5) → sudden-means (v6) → riddles dissolved (vv7–10) → fixing (v11) → descent (vv12–15) → red rite (v16) → grasping goddess (vv17–20) → ordaining three (v21) → sporting ground (vv22–23) → garland (v24) → Śiva-made shining (v25) → time-making cover (v26, live-fork noted not litigated) → resort (v27) → bowing (v28) → all-folk grace (v29) → dated seal 991 CE (v30). L4 = L3 verbatim throughout, music named.",
- "verses": [
-  {
-   "verse_id": "kram-p29-v29",
-   "l4": {
-    "verse_id": "kram-p29-v29",
-    "song": "kram-p29",
-    "verse": 29,
-    "lines": [
-     "Thus — these praise-bonds of Your power's ray-mass heard — Lord, if grace comes —",
-     "quickly by Your rule-rays make all folk, darkness allayed."
-    ],
-    "sanskrit_cite": "itthaṃ svaśaktikiraṇaughanutiprabandhān ākarṇya | nijaśāsanāṃśu saṃśāntitākhilatamaḥpaṭalāṃ vidheyāḥ",
-    "l0_ids": [
-     "kram-p29-v29-p000",
-     "kram-p29-v29-p001",
-     "kram-p29-v29-p002",
-     "kram-p29-v29-p003",
-     "kram-p29-v29-p004",
-     "kram-p29-v29-p005",
-     "kram-p29-v29-p006",
-     "kram-p29-v29-p007",
-     "kram-p29-v29-p008",
-     "kram-p29-v29-p009",
-     "kram-p29-v29-p010",
-     "kram-p29-v29-p011",
-     "kram-p29-v29-p012",
-     "kram-p29-v29-p013"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Praise-bonds heard; if-grace-comes; all-folk-allayed bidden (karuṇa turn outward).",
-   "rejected": "(a) closing inward → killed: outward is the turn.",
-   "reads": "argmap Q+INF (+UNC []) / C1 essence / rasa karuṇa-vīra of all-folk grace / L2+L3 voice (handcrafted, restored)"
-  }
- ]
+ "craft_notes": "Sthāyin: karuṇa-vīra of all-folk grace; vyabhicāri karuṇotsāha at darkness allayed for all. Sanskrit-first: stotra-bandha (PRAISE-BONDS — kept; bonds of praise heard); prasāda-āgamana (IF-GRACE-COMES — kept conditional); sarva-jana (ALL-FOLK — kept; outward turn kept). Rows: 7 (Lord addressed mid-verse — grace asked TO him), 1 (‘darkness allayed’ closes — allayed last, for all). Close: ‘make all folk, darkness allayed’. Rupture: em-dash (heard stated, then asked — bonds heard, grace prayed). Rejected: closing inward — killed: outward IS the turn (karuṇa turns to all-folk); ‘swiftly’ smoothing — killed: āśu kept quickly. Read aloud: THUS — THESE-praise-BONDS OF-your-POW-er's RAY-mass HEARD — LORD, IF-grace-COMES — … QUICK-ly BY-your-RULE-rays MAKE-all-FOLK, DARK-ness al-LAYED.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "kram-p29-v29",
+  "song": "kram-p29",
+  "verse": 29,
+  "lines": [
+   "Thus — these praise-bonds of Your power's ray-mass heard — Lord, if grace comes —",
+   "quickly by Your rule-rays make all folk, darkness allayed."
+  ],
+  "sanskrit_cite": "itthaṃ svaśaktikiraṇaughanutiprabandhān ākarṇya | nijaśāsanāṃśu saṃśāntitākhilatamaḥpaṭalāṃ vidheyāḥ",
+  "l0_ids": [
+   "kram-p29-v29-p000",
+   "kram-p29-v29-p001",
+   "kram-p29-v29-p002",
+   "kram-p29-v29-p003",
+   "kram-p29-v29-p004",
+   "kram-p29-v29-p005",
+   "kram-p29-v29-p006",
+   "kram-p29-v29-p007",
+   "kram-p29-v29-p008",
+   "kram-p29-v29-p009",
+   "kram-p29-v29-p010",
+   "kram-p29-v29-p011",
+   "kram-p29-v29-p012",
+   "kram-p29-v29-p013"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "What grace is asked? → Heard praise-bonds; grace prayed; all-folk darkness-allayed bidden.",
+  "c1_essence": [
+   "Heard bonds; grace coming; all-folk bidden allayed."
+  ],
+  "c1_rasa": "karuṇa-vīra of all-folk grace"
+ },
+ "status": "machine-proposed"
 }

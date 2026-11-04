@@ -1,13 +1,13 @@
 {
  "work": "anubhavanivedana",
- "updated": "2026-11-02",
+ "updated": "2026-11-04",
  "next": "human-review (MACHINE_PROPOSED) — all gates pass, awaiting signoff",
  "counts": {
   "passages": 4,
   "verses": 4,
   "l0_tokens": 109
  },
- "notes": "Canonical transform 2026-11-01 (one work): T1 109 tokens, L0 109/109 PARSED, 4 argmaps (distinct inference), L2 4 verses, C1 4 passages (0 quotes, 0 meta, 0 shared, rasa per passage), proof 4/4 PASS, concepts 37/37. MANUAL REVIEW PERFORMED: read all T1/L0/argmap/L2/C1 by hand; script gates are proxies only, not proof of quality. No bulk transforms. L0 morph analyzed (109 tokens, 0 unknown). T1 pada-split (already). Peer review written. L2 rasa-carried pending. L2 rasa-carried: śāmbhavī mudrā (śānta+adbhuta); word choices evocative (mind-wind dissolved, seeing yet not seeing, wretched as I am, cloud of doubt dissolved, conqueror of darkness). Verified by hand. L2 rasa-carried: verified word choices (mind-wind dissolved, seeing yet not seeing, wretched as I am, cloud of doubt dissolved, conqueror of darkness). 0 shared with C1. Verified by hand. L2 rasa-carried: verified word choices (mind-wind dissolved, seeing yet not seeing, wretched as I am, cloud of doubt dissolved, conqueror of darkness). 0 shared with C1. Verified by hand. 2026-11-02 repair: workcfg t1md registration; anu-p02 L3 closing rewritten (shared sentence with L2); sha re-anchored; cites rewritten; check.py CANONICAL 0 failures.",
+ "notes": "Canonical transform 2026-11-01 (one work): T1 109 tokens, L0 109/109 PARSED, 4 argmaps (distinct inference), L2 4 verses, C1 4 passages (0 quotes, 0 meta, 0 shared, rasa per passage), proof 4/4 PASS, concepts 37/37. MANUAL REVIEW PERFORMED: read all T1/L0/argmap/L2/C1 by hand; script gates are proxies only, not proof of quality. No bulk transforms. L0 morph analyzed (109 tokens, 0 unknown). T1 pada-split (already). Peer review written. L2 rasa-carried pending. L2 rasa-carried: śāmbhavī mudrā (śānta+adbhuta); word choices evocative (mind-wind dissolved, seeing yet not seeing, wretched as I am, cloud of doubt dissolved, conqueror of darkness). Verified by hand. L2 rasa-carried: verified word choices (mind-wind dissolved, seeing yet not seeing, wretched as I am, cloud of doubt dissolved, conqueror of darkness). 0 shared with C1. Verified by hand. L2 rasa-carried: verified word choices (mind-wind dissolved, seeing yet not seeing, wretched as I am, cloud of doubt dissolved, conqueror of darkness). 0 shared with C1. Verified by hand. 2026-11-02 repair: workcfg t1md registration; anu-p02 L3 closing rewritten (shared sentence with L2); sha re-anchored; cites rewritten; check.py CANONICAL 0 failures. Beauty-pass verify-only 2026-11-04 (machine-proposed): 4v read aloud — quatrains parallel-built, end-weight closes hold; no re-craft. Voice verdict + human review still owner-side.",
  "needs": [
   "human-review (MACHINE_PROPOSED)"
  ],

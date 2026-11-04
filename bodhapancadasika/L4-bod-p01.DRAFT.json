@@ -1,43 +1,43 @@
 {
- "song": "bod-p01",
- "song_craft": "Voice: stotra couplets, one work-voice across fifteen rasa-colors (adbhuta→vīra→śṛṅgāra→ānanda→śānta — the work walks the rasas home to peace). Each verse hammer-tight in L3: L4 = L3 verbatim throughout, music named per verse. Arc: all-containing light (v1) → aloneness (v2) → inseparables (v3) → mirror-bearing (v4) → exact fullness (v5) → play at once (v6) → five-in-one (v7) → criterion (v8) → abiding change (v9) → total inventory (v10) → bondage named (v11) → open doors (v12) → release (v13) → non-difference (v14) → dwelling enjoined (v15).",
- "verses": [
-  {
-   "verse_id": "bod-p01-v01",
-   "l4": {
-    "verse_id": "bod-p01-v01",
-    "song": "bod-p01",
-    "verse": 1,
-    "lines": [
-     "Light never setting — bright powers, darknesses, all;",
-     "one, within, in whom each shine and shadow fall."
-    ],
-    "sanskrit_cite": "anastamitabhārūpas tejasāṃ tamasām api | ya eko 'ntar yadantaś ca tejāṃsi ca tamāṃsi ca",
-    "l0_ids": [
-     "bod-p01-v01-p000",
-     "bod-p01-v01-p001",
-     "bod-p01-v01-p002",
-     "bod-p01-v01-p003",
-     "bod-p01-v01-p004",
-     "bod-p01-v01-p005",
-     "bod-p01-v01-p006",
-     "bod-p01-v01-p007",
-     "bod-p01-v01-p008",
-     "bod-p01-v01-p009"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Unsetting light; yadantaḥ double-kept (limit+abode both: within…in whom) per UNC held-open; end-weight fall (setting never, falling ever).",
-   "rejected": "(a) resolving limit-vs-abode → killed by UNC. (b) shadows→darknesses flatten → killed: L3 keeps both bright-powers/darknesses (L2).",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa adbhuta of all-containing light / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: adbhuta of all-containing light; vyabhicāri wonder at darkness included, never opposed; FIRST VERSE — sets the house voice (catalogue → oneness → fall; owner verdict required). Sanskrit-first: anastamita (NEVER-SETTING — kept; setting/not-setting is the doctrine); antarbahis (within — kept ‘within/in whom’, personal ground). Rows: 9 (bright-powers/darknesses catalogue held whole), 1 (‘fall’ closes — shine-and-shadow FALL: falling cadence), 5 (stotra-opening tread), 12 (śānta-fall close). Close: ‘shine and shadow fall’. Rupture: semicolon after ‘all’ (catalogue turns to oneness). Rejected: ‘never-fading’ — killed: setting is the doctrine-word; ‘in which’ smoothing — killed: ‘in whom’ keeps the personal ground; ‘gleam and gloom’ — killed: rhyme-twist smuggling tone. Read aloud: LIGHT-nev-er-SET-ting — BRIGHT-pow-ers, DARK-ness-es, ALL … ONE, with-IN, in-WHOM each SHINE and SHA-dow FALL.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "bod-p01-v01",
+  "song": "bod-p01",
+  "verse": 1,
+  "lines": [
+   "Light never setting — bright powers, darknesses, all;",
+   "one, within, in whom each shine and shadow fall."
+  ],
+  "sanskrit_cite": "anastamitabhārūpas tejasāṃ tamasām api | ya eko 'ntar yadantaś ca tejāṃsi ca tamāṃsi ca",
+  "l0_ids": [
+   "bod-p01-v01-p000",
+   "bod-p01-v01-p001",
+   "bod-p01-v01-p002",
+   "bod-p01-v01-p003",
+   "bod-p01-v01-p004",
+   "bod-p01-v01-p005",
+   "bod-p01-v01-p006",
+   "bod-p01-v01-p007",
+   "bod-p01-v01-p008",
+   "bod-p01-v01-p009"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "What never sets, and who dwells within it? → The all-containing One: light that never sets, holding bright and dark.",
+  "c1_essence": [
+   "Unsetting light holds bright and dark alike; one inward reality bounds both."
+  ],
+  "c1_rasa": "adbhuta of all-containing light"
+ },
+ "status": "machine-proposed"
 }

@@ -1,42 +1,42 @@
 {
- "song": "bod-p07",
- "song_craft": "Voice: stotra couplets, one work-voice across fifteen rasa-colors (adbhuta→vīra→śṛṅgāra→ānanda→śānta — the work walks the rasas home to peace). Each verse hammer-tight in L3: L4 = L3 verbatim throughout, music named per verse. Arc: all-containing light (v1) → aloneness (v2) → inseparables (v3) → mirror-bearing (v4) → exact fullness (v5) → play at once (v6) → five-in-one (v7) → criterion (v8) → abiding change (v9) → total inventory (v10) → bondage named (v11) → open doors (v12) → release (v13) → non-difference (v14) → dwelling enjoined (v15).",
- "verses": [
-  {
-   "verse_id": "bod-p07-v07",
-   "l4": {
-    "verse_id": "bod-p07-v07",
-    "song": "bod-p07",
-    "verse": 7,
-    "lines": [
-     "What is hardest to do is His — and none is higher;",
-     "that itself is freedom, lordship, awareness-nature."
-    ],
-    "sanskrit_cite": "atidurghaṭakāritvam asyānuttaram eva yat | etad eva svatantratvam aisvaryaṃ bodharūpatā",
-    "l0_ids": [
-     "bod-p07-v07-p000",
-     "bod-p07-v07-p001",
-     "bod-p07-v07-p002",
-     "bod-p07-v07-p003",
-     "bod-p07-v07-p004",
-     "bod-p07-v07-p005",
-     "bod-p07-v07-p006",
-     "bod-p07-v07-p007",
-     "bod-p07-v07-p008"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Five-said-once equation kept whole (hardest=unsurpassed=freedom=lordship=awareness); rank-reading per UNC.",
-   "rejected": "(a) trimming list → killed: equation is content. (b) awareness-form→consciousness → killed: L3 frozen term.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa vīra of equation / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: vīra of equation; vyabhicāri exultation at five-said-once. Sanskrit-first: duṣkara (HARD-TO-DO — kept hard); pañca-pada-ekārtha (FIVE terms ONE referent — kept five, per C1). Rows: 9 (hardest/highest/freedom/lordship/awareness drummed — five-said-once), 1 (‘awareness-nature’ closes — jñāna-rūpa last of five), 3 (hardest=highest=freest: equation interlock). Close: ‘awareness-nature’. Rupture: semicolon (deed turns to equation). Rejected: ‘duty’ — killed: hardness is the doctrine; ‘liberation’ alone — killed: five kept five; ‘consciousness itself’ — killed: awareness-nature kept technical. Read aloud: WHAT is HARD-est TO-do IS-his — AND-none IS-high-ER … THAT it-SELF is FREE-dom, LORD-ship, a-WARE-ness-NA-ture.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "bod-p07-v07",
+  "song": "bod-p07",
+  "verse": 7,
+  "lines": [
+   "What is hardest to do is His — and none is higher;",
+   "that itself is freedom, lordship, awareness-nature."
+  ],
+  "sanskrit_cite": "atidurghaṭakāritvam asyānuttaram eva yat | etad eva svatantratvam aisvaryaṃ bodharūpatā",
+  "l0_ids": [
+   "bod-p07-v07-p000",
+   "bod-p07-v07-p001",
+   "bod-p07-v07-p002",
+   "bod-p07-v07-p003",
+   "bod-p07-v07-p004",
+   "bod-p07-v07-p005",
+   "bod-p07-v07-p006",
+   "bod-p07-v07-p007",
+   "bod-p07-v07-p008"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "What five names share one referent? → Five terms, one referent: hard = unsurpassed = autonomy = lordship = awareness-form.",
+  "c1_essence": [
+   "Hardest deed, unsurpassed: autonomy, lordship, awareness-form in one."
+  ],
+  "c1_rasa": "vīra of equation"
+ },
+ "status": "machine-proposed"
 }

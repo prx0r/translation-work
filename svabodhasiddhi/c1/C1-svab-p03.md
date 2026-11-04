@@ -1,0 +1,42 @@
+# C1 — svab-p03
+
+## SUMMARY
+
+Always awake sees self by self; waking wastes mind, and wasting yields true seeing. Turned back without duality: emperor, sun. Moon pales before own-form joy; understanding and rest stand firm; release comes easy. Rest gained, sorrows ended, grasper snapped — I stand firm in own form. Risen or gathered, the winner knows; scriptures cannot touch him. Delusion shed, he lives among people, fear gone — free while living.
+
+## FUNCTION
+
+States the fruit in the third person, then seals it in the first: freedom described, then owned.
+
+## KEY TERMS
+
+suprabuddhatva (fully-awake-ness) — equated with mind-wasting; manaskṣaya (mind-wasting) — the equation's hinge; samrāṭ (emperor) — crowned stillness; kevalatā (aloneness) — the near fruit; mokṣalakṣmī (release's fortune) — easy; svarūpastha (abiding in own form) — the first-person seal, refrain-candidate; tattvavit (reality-knower) — risen or absorbed; śāstrabhramaṇa (scripture-wandering) — impotent; vigatabhaya (fear gone) — the standing mark.
+
+## LOCAL CONTEXT
+
+The wakefulness-method taught before flowers here into standing, seeing, reigning — third person ripening into first.
+
+## EXPLANATION
+
+The fruit in third person then first: always-awake seeing with nothing over; wakefulness equated with mind-wasting, wasting with true seeing; turned back without duality — emperor and sun; moon eclipsed by own-form joy with inner sense gone; understanding and rest firm — aloneness soon; grasp-traces dismissed — release easy; rest gained, sorrows ceased, grasper broken — I stand firm; risen or absorbed — the winner knows; self-standing never lost — scriptures do nothing; delusion shed amid people, fear gone — free while living.
+
+## BOUNDARY
+
+No instruction is given; who may teach and what ends rebirth belong to the closing that follows.
+
+## RELATED
+
+v21 first-person seal flagged for song-setting; v22a silent conjecture followed; Sanderson's nine include vv22-24.
+
+## ESSENCE
+
+1. Always awake: self seen by self; nothing else remains.
+2. Ever-wakefulness: mind wastes; thence true seeing.
+3. Turned back without duality: emperor, sun to ignorance-dark.
+4. Moon eclipsed by own-form joy; inner sense gone: nothing to get.
+5. Understanding and rest firm and clear: aloneness soon.
+6. Grasp-traces dismissed, self-grounded: release easy.
+7. Rest gained, sorrows ceased, grasper broken: I stand firm in own form.
+8. Risen or absorbed, winner of the nondual taste knows reality.
+9. Self-standing never lost: scripture-squabbles do nothing.
+10. Delusion-freed, living amid people, fear gone: yogin free.

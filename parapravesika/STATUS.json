@@ -1,1 +1,13 @@
-{"counts": {"passages": 9, "verses": "prose prakarana (mangala + mula/vrtti + 3 quoted verses)"}, "needs": ["human-review (MACHINE_PROPOSED)"], "next": "human-review", "notes": "Built end-to-end 2026-11-01: source Muktabodha M00048 in-repo; lore before (Pradipaka, Lakshmanjoo/Hughes, Hareesh, Erchenkov, OCHS) + scholarship after-check (Pradipaka cross-check clean); T1 frozen full text-order gloss (1175/1175 PARSED); 9 real per-passage argmaps (IPVV shape, staged nanu, distinct lore); L1 controlled; L2/L2.v2 read prose; C1/C1.v2 lucid and distinct from L2; L200 8-section audit; KSTS paratext excluded with note; authorship wrinkle logged. No batch gate; needs human review (MACHINE_PROPOSED).", "updated": "2026-11-01", "work": "parapravesika"}
+{
+ "counts": {
+  "passages": 9,
+  "verses": "prose prakarana (mangala + mula/vrtti + 3 quoted verses)"
+ },
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ],
+ "next": "Owner: first-verse L4 voice verdict (par-p01) + human review (machine-proposed throughout). Beauty-pass queue next: isvarasiddhi (item 35).",
+ "notes": "Built end-to-end 2026-11-01: source Muktabodha M00048 in-repo; lore before (Pradipaka, Lakshmanjoo/Hughes, Hareesh, Erchenkov, OCHS) + scholarship after-check (Pradipaka cross-check clean); T1 frozen full text-order gloss (1175/1175 PARSED); 9 real per-passage argmaps (IPVV shape, staged nanu, distinct lore); L1 controlled; L2/L2.v2 read prose; C1/C1.v2 lucid and distinct from L2; L200 8-section audit; KSTS paratext excluded with note; authorship wrinkle logged. No batch gate; needs human review (MACHINE_PROPOSED). Beauty pass 2026-11-04 (machine-proposed): 9 song-level DRAFTs rewritten in place to new schema (craft_notes preserved + sthāyin/frame + read-aloud scan, reads_against argmap-Q→I/C1-essences/rasa-dominant); lines unchanged, L3==L4 throughout; arc: vow → refused bare light → ten names → dilemmas dissolved → proof retired → alphabet plurality → fall-return → deprivation → landing-seal. Pre-existing, untouched: proof BLOCKED on ALIGN_NODISP v8 (0.802, legacy T1-gloss fuzzy vs source); qa HOLD follows for p08.",
+ "updated": "2026-11-04",
+ "work": "parapravesika"
+}

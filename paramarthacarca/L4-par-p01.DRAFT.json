@@ -1,47 +1,47 @@
 {
- "song": "par-p01",
- "song_craft": "Voice: śānta couplets, mirror-light register (still, clear, unforced). Arc: light unobjectifiable (v1) → non-duality (v2) → positive declaration with division inside (v3) → difference uncut + bare list (v4) → mirror a-fortiori (v5) → address: You alone (v6) → paradox praised (v7) → seal: hymn names its close (v8). Sthāyin śānta throughout; adbhuta/ānanda color single verses. L4 = L3 verbatim, music named.",
- "verses": [
-  {
-   "verse_id": "par-p01",
-   "l4": {
-    "verse_id": "par-p01",
-    "song": "par-p01",
-    "verse": 1,
-    "lines": [
-     "Unlike the light of sun, moon, lamp — it does not shine, pervading too completely. Hence:",
-     "of light-nature itself — ‘His illumined-and-illuminator’ is a mere transacting name."
-    ],
-    "sanskrit_cite": "arkendudīpādyavabhāsabhinnaṃ nābhātyativyāptatayā tataśca | prakāśarūpaṃ tadiyatprakāśyaprakāśatākhyā vyavahāra eva",
-    "l0_ids": [
-     "par-p01-p000",
-     "par-p01-p001",
-     "par-p01-p002",
-     "par-p01-p003",
-     "par-p01-p004",
-     "par-p01-p005",
-     "par-p01-p006",
-     "par-p01-p007",
-     "par-p01-p008",
-     "par-p01-p009",
-     "par-p01-p010",
-     "par-p01-p011",
-     "par-p01-p012",
-     "par-p01-p013"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Light unobjectifiable; transacting-name end-weight (vyavahāra — convention named as convention); iyat open kept open.",
-   "rejected": "(a) explaining over-pervasion → killed: packed kept packed. (b) smoothing hyphen-chain → killed: awkwardness marks the mere-name.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta (tranquility) with adbhuta (wonder) / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta as light unobjectifiable; vyabhicāri wonder at over-pervasion (C1 rasa block). Sanskrit-first: arkendudīpādi…bhinnam (distinct FROM lit-things — bhinnam governs the catalogue); na ābhāti ativyāptatayā (does NOT shine, BY-over-pervasion — pervasion is WHY, instrumental named); vyavahāra eva (mere convention — eva restricts). Abhinavagupta frame: subject-object vocabulary demoted exactly where the Sanskrit demotes it (deixis row 11: no pointing added). Rows: 9 (sun/moon/lamp bare catalogue — three lights named, none adorned), 1 (‘name’ end-weighted — the convention-word lands last), 10 (no image imported; the verse has none). Bank: Ingalls-fidelity (no new metaphor; music in the joints: colon + dash). Close: ‘a mere transacting name’. Rupture: ‘Hence:’ (denial turns to naming). Rejected: ‘too pervasive to appear’ — killed: essence-words smuggled into song; ‘lamplight’ — killed: new morpheme; ‘Hence:’ on its own line — killed: colon already stages the turn. Read aloud: un-LIKE the LIGHT of SUN, MOON, LAMP — it does NOT shine … OF-light-NA-ture it-SELF — a MERE trans-ACT-ing NAME.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "par-p01",
+  "song": "par-p01",
+  "verse": 1,
+  "lines": [
+   "Unlike the light of sun, moon, lamp — it does not shine, pervading too completely. Hence:",
+   "of light-nature itself — ‘His illumined-and-illuminator’ is a mere transacting name."
+  ],
+  "sanskrit_cite": "arkendudīpādyavabhāsabhinnaṃ nābhātyativyāptatayā tataśca | prakāśarūpaṃ tadiyatprakāśyaprakāśatākhyā vyavahāra eva",
+  "l0_ids": [
+   "par-p01-p000",
+   "par-p01-p001",
+   "par-p01-p002",
+   "par-p01-p003",
+   "par-p01-p004",
+   "par-p01-p005",
+   "par-p01-p006",
+   "par-p01-p007",
+   "par-p01-p008",
+   "par-p01-p009",
+   "par-p01-p010",
+   "par-p01-p011",
+   "par-p01-p012",
+   "par-p01-p013"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "Distinct from every lit thing, light itself does not shine as an object — too pervasive to appear; illumined-vs-illuminator is mere convention. → Light unobjectifiable; subject-object vocabulary demoted.",
+  "c1_essence": [
+   "Distinct from every lit thing, light itself does not shine as an object — too pervasive to appear; illumined-vs-illuminator is mere convention."
+  ],
+  "c1_rasa": "śānta (tranquility) with adbhuta (wonder)"
+ },
+ "status": "machine-proposed"
 }

@@ -1,52 +1,52 @@
 {
- "song": "par-p04",
- "song_craft": "Voice: śānta couplets, mirror-light register (still, clear, unforced). Arc: light unobjectifiable (v1) → non-duality (v2) → positive declaration with division inside (v3) → difference uncut + bare list (v4) → mirror a-fortiori (v5) → address: You alone (v6) → paradox praised (v7) → seal: hymn names its close (v8). Sthāyin śānta throughout; adbhuta/ānanda color single verses. L4 = L3 verbatim, music named.",
- "verses": [
-  {
-   "verse_id": "par-p04",
-   "l4": {
-    "verse_id": "par-p04",
-    "song": "par-p04",
-    "verse": 4,
-    "lines": [
-     "That split — and this one — is not cut off from it: from the free, the flawlessly clear, the single abode.",
-     "Palace, elephant, horse, cloud, ocean, mountain, and the rest — just as with jewel, mirror, and the like."
-    ],
-    "sanskrit_cite": "bhedaḥ sa cāyaṃ na tato vibhinnaḥ svacchandasusvacchatamaikadhāmnaḥ | prāsādahastyaśvapayodasindhugiryādi yadvanmaṇidarpaṇādeḥ",
-    "l0_ids": [
-     "par-p04-p000",
-     "par-p04-p001",
-     "par-p04-p002",
-     "par-p04-p003",
-     "par-p04-p004",
-     "par-p04-p005",
-     "par-p04-p006",
-     "par-p04-p007",
-     "par-p04-p008",
-     "par-p04-p009",
-     "par-p04-p010",
-     "par-p04-p011",
-     "par-p04-p012",
-     "par-p04-p013",
-     "par-p04-p014",
-     "par-p04-p015",
-     "par-p04-p016",
-     "par-p04-p017",
-     "par-p04-p018"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Bare list kept whole (exhaustive-or-exemplary open); jewel-mirror kept; uncut-from-ground hinge.",
-   "rejected": "(a) trimming list → killed: bare list is the proof. (b) flawlessly→perfectly → killed: L3 frozen.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta (tranquility) / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta as difference uncut; vyabhicāri clarity (prasāda) of the mirror-list (C1 rasa block). Sanskrit-first: na…vicchinna (NOT cut off — the negation governs both splits); svacchāt…ekadhāmnaḥ (from the free, the clear, the one-abode — triple ground-name); maṇidarpaṇādike (jewel-mirror-ETC — ādi closes). Rows: 9 (bare list palace→mountain + jewel/mirror — the list IS the proof, kept bare), 10 (jewel-mirror left standing, no gloss), 1 (‘abode’ gathers L1; L2 closes on ‘and the like’ — ādi enacted: the catalogue refusing to close IS the doctrine). Close: ‘and the like’. Rupture: colon after ‘from it’ (ground stated, then its triple name). Rejected: trimming to three items — killed: six named + ‘rest’ is the pervasion proved; closing on ‘mirror’ — killed: Sanskrit ends ādike, openness load-bearing. Read aloud: THAT-split — AND-this-ONE — is NOT cut-OFF … PA-lace, E-le-phant, HORSE, CLOUD, O-cean, MOUN-tain … JUST-as with JEW-el, MIR-ror, AND-the-LIKE.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "par-p04",
+  "song": "par-p04",
+  "verse": 4,
+  "lines": [
+   "That split — and this one — is not cut off from it: from the free, the flawlessly clear, the single abode.",
+   "Palace, elephant, horse, cloud, ocean, mountain, and the rest — just as with jewel, mirror, and the like."
+  ],
+  "sanskrit_cite": "bhedaḥ sa cāyaṃ na tato vibhinnaḥ svacchandasusvacchatamaikadhāmnaḥ | prāsādahastyaśvapayodasindhugiryādi yadvanmaṇidarpaṇādeḥ",
+  "l0_ids": [
+   "par-p04-p000",
+   "par-p04-p001",
+   "par-p04-p002",
+   "par-p04-p003",
+   "par-p04-p004",
+   "par-p04-p005",
+   "par-p04-p006",
+   "par-p04-p007",
+   "par-p04-p008",
+   "par-p04-p009",
+   "par-p04-p010",
+   "par-p04-p011",
+   "par-p04-p012",
+   "par-p04-p013",
+   "par-p04-p014",
+   "par-p04-p015",
+   "par-p04-p016",
+   "par-p04-p017",
+   "par-p04-p018"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "Difference is not cut off from its ground — free, most-clear, one-abode — then the bare list against the jewel-mirror: palace through mountain, just as from jewel-mirror and the like. → Difference uncut from its ground; the bare list its proof.",
+  "c1_essence": [
+   "Difference is not cut off from its ground — free, most-clear, one-abode — then the bare list against the jewel-mirror: palace through mountain, just as from jewel-mirror and the like."
+  ],
+  "c1_rasa": "śānta (tranquility)"
+ },
+ "status": "machine-proposed"
 }

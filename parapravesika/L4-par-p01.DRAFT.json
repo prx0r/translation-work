@@ -1,49 +1,49 @@
 {
- "song": "par-p01",
- "song_craft": "Voice: exact-transmission songs, length-follows-argument (triplet to fifteen-line): philosophy too dense to compress, too musical to flatten. Arc: vow (v1) → bare-light refused (v2) → ten names one primacy (v3) → Lord shines as world, unveilable (v4) → proof retired, Life enthroned (v5) → thirty-six roll bare (v6) → fall and return (v7) → sheaths to elements (v8) → seed landing: knowing-entering initiates (v9). L4 = L3 verbatim throughout, form recorded per song.",
- "verses": [
-  {
-   "verse_id": "par-p01-v01",
-   "l4": {
-    "verse_id": "par-p01-v01",
-    "song": "par-p01",
-    "verse": 1,
-    "lines": [
-     "Veneration to Śiva, whose very self is every level of reality.",
-     "Here begins the Entering into the Supreme, by glorious Kṣemarāja, noblest of the great Māheśvara masters.",
-     "And we bow to knowing itself — the heart of the supreme Lord: it wears the world as its body, yet stands beyond the world, pulsing as supreme power."
-    ],
-    "sanskrit_cite": "viśvātmikāṃ taduttirṇāṃ hṛdayaṃ parameśituḥ parādiśaktirūpeṇa sphurantīṃ saṃvidaṃ numaḥ",
-    "l0_ids": [
-     "par-p01-v01-p000",
-     "par-p01-v01-p001",
-     "par-p01-v01-p002",
-     "par-p01-v01-p003",
-     "par-p01-v01-p004",
-     "par-p01-v01-p005",
-     "par-p01-v01-p006",
-     "par-p01-v01-p007",
-     "par-p01-v01-p008",
-     "par-p01-v01-p009",
-     "par-p01-v01-p010",
-     "par-p01-v01-p011",
-     "par-p01-v01-p012",
-     "par-p01-v01-p013",
-     "par-p01-v01-p014"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "triplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Vow that performs: paradox predicated together (world-body + world-surpassing) before exposition — paradox IS the program (INF).",
-   "rejected": "(a) expanding Parādi → killed by UNC (threefold scale, not expanded). (b) authorship dispute in song → killed: logged in prose, never sung.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa bhakti-utsāha of opening vow / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: bhakti-utsāha of opening vow — the vow performs (world-body + world-surpassing predicated together); FIRST PASSAGE of the work sets the house voice (paradox-as-program; owner verdict required). Abhinavagupta frame: praṇaya (love-address) toward consciousness as heart. Vow that performs: paradox predicated together (world-body + world-surpassing) before exposition — paradox IS the program (INF). Rejected: (a) expanding Parādi → killed by UNC (threefold scale, not expanded). (b) authorship dispute in song → killed: logged in prose, never sung. Read aloud: VEN-er-A-tion TO-śi-VA, WHOSE-ver-y-SELF IS-ev-ery-LEV-el … IT-WEARS the-WORLD as-ITS-bo-DY, YET-stands be-YOND the-WORLD, PULS-ing AS su-PREME-POW-er.",
+ "form": "triplet",
+ "l4": {
+  "verse_id": "par-p01-v01",
+  "song": "par-p01",
+  "verse": 1,
+  "lines": [
+   "Veneration to Śiva, whose very self is every level of reality.",
+   "Here begins the Entering into the Supreme, by glorious Kṣemarāja, noblest of the great Māheśvara masters.",
+   "And we bow to knowing itself — the heart of the supreme Lord: it wears the world as its body, yet stands beyond the world, pulsing as supreme power."
+  ],
+  "sanskrit_cite": "viśvātmikāṃ taduttirṇāṃ hṛdayaṃ parameśituḥ parādiśaktirūpeṇa sphurantīṃ saṃvidaṃ numaḥ",
+  "l0_ids": [
+   "par-p01-v01-p000",
+   "par-p01-v01-p001",
+   "par-p01-v01-p002",
+   "par-p01-v01-p003",
+   "par-p01-v01-p004",
+   "par-p01-v01-p005",
+   "par-p01-v01-p006",
+   "par-p01-v01-p007",
+   "par-p01-v01-p008",
+   "par-p01-v01-p009",
+   "par-p01-v01-p010",
+   "par-p01-v01-p011",
+   "par-p01-v01-p012",
+   "par-p01-v01-p013",
+   "par-p01-v01-p014"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "triplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "What consciousness is venerated, and under which form? → Immanence and transcendence predicated together before any exposition; the paradox is the program.",
+  "c1_essence": [
+   "The vow binds deity to doctrine in one compound and predicates contraries together — world-shaped yet world-surpassing consciousness, throbbing as supreme power."
+  ],
+  "c1_rasa": "bhakti-utsāha of opening vow"
+ },
+ "status": "machine-proposed"
 }

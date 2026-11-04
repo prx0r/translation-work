@@ -1,19 +1,19 @@
 {
-  "work": "kramastotra",
-  "updated": "2026-10-30",
-  "next": "batch (Kramastotra done)",
-  "counts": {
-    "passages": 30,
-    "verses": 30,
-    "l0_parsed": 30,
-    "l0_ambiguous": 0,
-    "l0_failed": 0
-  },
-  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-kramastotra-raw.jsonl",
-  "r2_bytes": 39775,
-  "r2_verified": true,
-  "notes": "30 verses, 30 passages, L200+C1 done, gate run. Argmap v2 done (30 per-passage files + JSON, lore-primed: Rastogi 1979, Stainton 2019, Wenta 2021). L2.v2 done (verse-by-verse plain English, 6 groups). C1.v2 done (final condensation, 6 groups). Post-session sharpened.",
-  "needs": [
-    "human-review (MACHINE_PROPOSED)"
-  ]
+ "work": "kramastotra",
+ "updated": "2026-11-04",
+ "next": "Owner: first-verse L4 voice verdict (kram-p01) + human review (machine-proposed throughout). Beauty-pass queue next: bodhavilasa (item 24).",
+ "counts": {
+  "passages": 30,
+  "verses": 30,
+  "l0_parsed": 30,
+  "l0_ambiguous": 0,
+  "l0_failed": 0
+ },
+ "r2_key": "s3://sanskritree/batch-t1/2026-10-30-kramastotra-raw.jsonl",
+ "r2_bytes": 39775,
+ "r2_verified": true,
+ "notes": "30 verses, 30 passages, L200+C1 done, gate run. Argmap v2 done (30 per-passage files + JSON, lore-primed: Rastogi 1979, Stainton 2019, Wenta 2021). L2.v2 done (verse-by-verse plain English, 6 groups). C1.v2 done (final condensation, 6 groups). Post-session sharpened. Beauty pass 2026-11-04 (machine-proposed): 30 song-level DRAFTs rewritten to per-verse new schema (craft_notes w/ sthāyin+vyabhicāri+Sanskrit-first+rows+bank+rejected-killers+read-aloud, reads_against argmap-Q→I/C1-essence/rasa-dominant); lines unchanged, L3==L4 throughout; arc: fear-dropped → effortless standing → drunken praise → sudden means → inner ocean → Whole descends → lovely emission → red rite → grasping → grinding → hunger kept → maker named → ordaining → sporting → sun sapped → garland → cadre met → time made → resort → bowing → all-folk grace → dated seal 991 CE. validate 0 x30, proof PASS x30, qa NEEDS_WITNESS x30.",
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ]
 }

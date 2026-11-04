@@ -1,56 +1,56 @@
 {
- "song": "kram-p22",
- "song_craft": "Voice: beloved handcrafted couplets (restored 2a45bbc — the retransmission was reverted; L4 sings the loved version, never the reverted one). Stotra-arc: rite (v1) → scrutiny (vv2–4) → madness-bliss (v5) → sudden-means (v6) → riddles dissolved (vv7–10) → fixing (v11) → descent (vv12–15) → red rite (v16) → grasping goddess (vv17–20) → ordaining three (v21) → sporting ground (vv22–23) → garland (v24) → Śiva-made shining (v25) → time-making cover (v26, live-fork noted not litigated) → resort (v27) → bowing (v28) → all-folk grace (v29) → dated seal 991 CE (v30). L4 = L3 verbatim throughout, music named.",
- "verses": [
-  {
-   "verse_id": "kram-p22-v22",
-   "l4": {
-    "verse_id": "kram-p22-v22",
-    "song": "kram-p22",
-    "verse": 22,
-    "lines": [
-     "This ground she holds, dreadful in splitting world fear;",
-     "this wake-fixed melted taste — ordained too. Holding, melting, wiping the foul stretches, conduct at pleasure — sporting in my heart."
-    ],
-    "sanskrit_cite": "imāṃ rundhe bhūmiṃ bhavabhayabhidātaṅkakaraṇīm | bhajati lasatāṃ sā mama hṛdi",
-    "l0_ids": [
-     "kram-p22-v22-p000",
-     "kram-p22-v22-p001",
-     "kram-p22-v22-p002",
-     "kram-p22-v22-p003",
-     "kram-p22-v22-p004",
-     "kram-p22-v22-p005",
-     "kram-p22-v22-p006",
-     "kram-p22-v22-p007",
-     "kram-p22-v22-p008",
-     "kram-p22-v22-p009",
-     "kram-p22-v22-p010",
-     "kram-p22-v22-p011",
-     "kram-p22-v22-p012",
-     "kram-p22-v22-p013",
-     "kram-p22-v22-p014",
-     "kram-p22-v22-p015",
-     "kram-p22-v22-p016",
-     "kram-p22-v22-p017",
-     "kram-p22-v22-p018",
-     "kram-p22-v22-p019",
-     "kram-p22-v22-p020",
-     "kram-p22-v22-p021",
-     "kram-p22-v22-p022"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Dread-ground held; as-pleased sporting; middle voices rundhe/vidadhe per UNC.",
-   "rejected": "(a) active-voice flatten → killed middles.",
-   "reads": "argmap Q+INF (+UNC ['rundhe/vidadhe middle voices kept.']) / C1 essence / rasa śṛṅgāra-vīra of sporting / L2+L3 voice (handcrafted, restored)"
-  }
- ]
+ "craft_notes": "Sthāyin: śṛṅgāra-vīra of sporting; vyabhicāri ullāsa at as-pleased conduct. Sanskrit-first: rundhe/vidadhe MIDDLE voices per UNC (kept middle — holding/melting unflattened); yathāruci (AS-PLEASED — kept; pleasure IS the conduct's rule). Rows: 9 (holding/melting/wiping triple — middle-voice acts), 1 (‘in my heart’ closes — sporting placed last, interior). Close: ‘sporting in my heart’. Rupture: semicolon (ground held, then taste ordained — dread held, wake tasted). Rejected: active-voice flatten — killed: middles kept; ‘play’ for sporting — killed: krīḍā kept sporting (house word). Read aloud: THIS-ground SHE-holds, DREAD-ful IN-split-ting WORLD-fear … HOLD-ing, MELT-ing, WIP-ing THE-foul-STRETCH-es, CON-duct AT-plea-SURE — SPORT-ing IN-my-HEART.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "kram-p22-v22",
+  "song": "kram-p22",
+  "verse": 22,
+  "lines": [
+   "This ground she holds, dreadful in splitting world fear;",
+   "this wake-fixed melted taste — ordained too. Holding, melting, wiping the foul stretches, conduct at pleasure — sporting in my heart."
+  ],
+  "sanskrit_cite": "imāṃ rundhe bhūmiṃ bhavabhayabhidātaṅkakaraṇīm | bhajati lasatāṃ sā mama hṛdi",
+  "l0_ids": [
+   "kram-p22-v22-p000",
+   "kram-p22-v22-p001",
+   "kram-p22-v22-p002",
+   "kram-p22-v22-p003",
+   "kram-p22-v22-p004",
+   "kram-p22-v22-p005",
+   "kram-p22-v22-p006",
+   "kram-p22-v22-p007",
+   "kram-p22-v22-p008",
+   "kram-p22-v22-p009",
+   "kram-p22-v22-p010",
+   "kram-p22-v22-p011",
+   "kram-p22-v22-p012",
+   "kram-p22-v22-p013",
+   "kram-p22-v22-p014",
+   "kram-p22-v22-p015",
+   "kram-p22-v22-p016",
+   "kram-p22-v22-p017",
+   "kram-p22-v22-p018",
+   "kram-p22-v22-p019",
+   "kram-p22-v22-p020",
+   "kram-p22-v22-p021",
+   "kram-p22-v22-p022"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "What ground holds, and what conduct sports? → Ground held dread-making; conduct as-pleased sporting in heart prayed.",
+  "c1_essence": [
+   "Dread-ground held; as-pleased conduct sporting prayed."
+  ],
+  "c1_rasa": "śṛṅgāra-vīra of sporting"
+ },
+ "status": "machine-proposed"
 }

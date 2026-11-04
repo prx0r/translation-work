@@ -1,48 +1,48 @@
 {
- "song": "kram-p01",
- "song_craft": "Voice: beloved handcrafted couplets (restored 2a45bbc — the retransmission was reverted; L4 sings the loved version, never the reverted one). Stotra-arc: rite (v1) → scrutiny (vv2–4) → madness-bliss (v5) → sudden-means (v6) → riddles dissolved (vv7–10) → fixing (v11) → descent (vv12–15) → red rite (v16) → grasping goddess (vv17–20) → ordaining three (v21) → sporting ground (vv22–23) → garland (v24) → Śiva-made shining (v25) → time-making cover (v26, live-fork noted not litigated) → resort (v27) → bowing (v28) → all-folk grace (v29) → dated seal 991 CE (v30). L4 = L3 verbatim throughout, music named.",
- "verses": [
-  {
-   "verse_id": "kram-p01-v01",
-   "l4": {
-    "verse_id": "kram-p01-v01",
-    "song": "kram-p01",
-    "verse": 1,
-    "lines": [
-     "Amid sorrow's crowd, the finishing rite — bliss-essence spreading;",
-     "the foul day turns sweet: mirrored in the hymn, the mind drops fear."
-    ],
-    "sanskrit_cite": "duḥkhavrātavrataparigame pāraṇavidhir | mahāsaukhyāsāraprasaraṇarase durdinam idam | pratiphalati ceto gatabhayam",
-    "l0_ids": [
-     "kram-p01-v01-p000",
-     "kram-p01-v01-p001",
-     "kram-p01-v01-p002",
-     "kram-p01-v01-p003",
-     "kram-p01-v01-p004",
-     "kram-p01-v01-p005",
-     "kram-p01-v01-p006",
-     "kram-p01-v01-p007",
-     "kram-p01-v01-p008",
-     "kram-p01-v01-p009",
-     "kram-p01-v01-p010",
-     "kram-p01-v01-p011",
-     "kram-p01-v01-p012",
-     "kram-p01-v01-p013",
-     "kram-p01-v01-p014"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Completion-rite amid sorrow; foul-day-turns-sweet; mirrored-mind drops fear; long-compound held as printed per UNC.",
-   "rejected": "(a) smoothing compound → killed by UNC. (b) turns→goes → killed: turns transforms.",
-   "reads": "argmap Q+INF (+UNC ['Long-compound syntax held as printed.']) / C1 essence / rasa maṅgala-vīra of fear dropped / L2+L3 voice (handcrafted, restored)"
-  }
- ]
+ "craft_notes": "Sthāyin: maṅgala-vīra of fear dropped; vyabhicāri ullāsa at mirrored fearlessness; FIRST VERSE — sets the house voice (finishing-rite amid sorrow, sweet-turn, mirrored-mind; owner verdict required). Sanskrit-first: samāpti-kriyā (FINISHING-RITE — kept; the rite completes); duḥkha-gaṇa (SORROW'S-CROWD — kept crowd, not sea); bhaya-tyāga (FEAR-DROPPED — kept dropped). Rows: 1 (‘drops fear’ closes — the rite's effect last), 9 (sorrow-crowd/foul-day pair — the unfit turned sweet), 10 (mirror left standing). Close: ‘the mind drops fear’. Rupture: semicolon (rite stated, then its turning). Rejected: smoothing long-compound — killed by UNC (held as printed); ‘turns→goes’ — killed: turns transforms; ‘reflecting’ for mirrored — killed: mirror mirrors. Read aloud: a-MID sor-row's-CROWD, the FIN-ish-ing-RITE — BLISS-ess-ence SPREAD-ing … the-FOUL-day TURNS-sweet: MIR-rored IN the-HYMN, the-MIND drops-FEAR.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "kram-p01-v01",
+  "song": "kram-p01",
+  "verse": 1,
+  "lines": [
+   "Amid sorrow's crowd, the finishing rite — bliss-essence spreading;",
+   "the foul day turns sweet: mirrored in the hymn, the mind drops fear."
+  ],
+  "sanskrit_cite": "duḥkhavrātavrataparigame pāraṇavidhir | mahāsaukhyāsāraprasaraṇarase durdinam idam | pratiphalati ceto gatabhayam",
+  "l0_ids": [
+   "kram-p01-v01-p000",
+   "kram-p01-v01-p001",
+   "kram-p01-v01-p002",
+   "kram-p01-v01-p003",
+   "kram-p01-v01-p004",
+   "kram-p01-v01-p005",
+   "kram-p01-v01-p006",
+   "kram-p01-v01-p007",
+   "kram-p01-v01-p008",
+   "kram-p01-v01-p009",
+   "kram-p01-v01-p010",
+   "kram-p01-v01-p011",
+   "kram-p01-v01-p012",
+   "kram-p01-v01-p013",
+   "kram-p01-v01-p014"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "What rite ends sorrow? → The hymn mirrors back the fearful mind into fearlessness.",
+  "c1_essence": [
+   "Completion-rite amid sorrow; mirrored mind drops fear."
+  ],
+  "c1_rasa": "maṅgala-vīra of fear dropped"
+ },
+ "status": "machine-proposed"
 }

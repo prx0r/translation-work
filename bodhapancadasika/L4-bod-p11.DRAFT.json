@@ -1,45 +1,45 @@
 {
- "song": "bod-p11",
- "song_craft": "Voice: stotra couplets, one work-voice across fifteen rasa-colors (adbhuta→vīra→śṛṅgāra→ānanda→śānta — the work walks the rasas home to peace). Each verse hammer-tight in L3: L4 = L3 verbatim throughout, music named per verse. Arc: all-containing light (v1) → aloneness (v2) → inseparables (v3) → mirror-bearing (v4) → exact fullness (v5) → play at once (v6) → five-in-one (v7) → criterion (v8) → abiding change (v9) → total inventory (v10) → bondage named (v11) → open doors (v12) → release (v13) → non-difference (v14) → dwelling enjoined (v15).",
- "verses": [
-  {
-   "verse_id": "bod-p11-v11",
-   "l4": {
-    "verse_id": "bod-p11-v11",
-    "song": "bod-p11",
-    "verse": 11,
-    "lines": [
-     "Not to know this is called His freedom — that is told;",
-     "and that itself is saṃsāra — to the deluded, a terror."
-    ],
-    "sanskrit_cite": "yad etasyāparijñānaṃ tatsvātantryaṃ hi varṇitam | sa eva khalu saṃsāro mūḍānāṃ yo vibhīṣakaḥ",
-    "l0_ids": [
-     "bod-p11-v11-p000",
-     "bod-p11-v11-p001",
-     "bod-p11-v11-p002",
-     "bod-p11-v11-p003",
-     "bod-p11-v11-p004",
-     "bod-p11-v11-p005",
-     "bod-p11-v11-p006",
-     "bod-p11-v11-p007",
-     "bod-p11-v11-p008",
-     "bod-p11-v11-p009",
-     "bod-p11-v11-p010",
-     "bod-p11-v11-p011"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Dread bounded to fools (UNC): to-the-deluded keeps the bound; hi-emphasis in told.",
-   "rejected": "(a) universal terror → killed: autonomy unterrifying. (b) saṃsāra→cycle gloss → killed: load term.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa karuṇa-bhaya of bondage named / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: karuṇa-bhaya of bondage named; vyabhicāri tempered dread (terror for fools, freedom beneath). Sanskrit-first: ajñāna (NOT-TO-KNOW — kept verbal; the bondage-act, not a thing); mūḍha-bhaya (FOOL'S-TERROR — dread located: to the deluded). Rows: 1 (‘terror’ closes — bhaya lands last, dread where it belongs), 9 (freedom/saṃsāra equation pair — mis-knowing IS freedom, bondage IS terror), 12 declined — no settling; dread stays dread for fools. Close: ‘a terror’. Rupture: semicolon (equation turns to identification). Rejected: ‘fearful’ — killed: terror nominal kept; ‘ignorance’ — killed: verbal kept; ‘poor fools’ pity — killed: mūḍha kept deluded (doctrinal, not sentimental). Read aloud: NOT to KNOW-this IS-called HIS-free-DOM — THAT is TOLD … AND-that IT-self IS sam-SĀ-ra — TO the de-LUD-ed, a TERR-or.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "bod-p11-v11",
+  "song": "bod-p11",
+  "verse": 11,
+  "lines": [
+   "Not to know this is called His freedom — that is told;",
+   "and that itself is saṃsāra — to the deluded, a terror."
+  ],
+  "sanskrit_cite": "yad etasyāparijñānaṃ tatsvātantryaṃ hi varṇitam | sa eva khalu saṃsāro mūḍānāṃ yo vibhīṣakaḥ",
+  "l0_ids": [
+   "bod-p11-v11-p000",
+   "bod-p11-v11-p001",
+   "bod-p11-v11-p002",
+   "bod-p11-v11-p003",
+   "bod-p11-v11-p004",
+   "bod-p11-v11-p005",
+   "bod-p11-v11-p006",
+   "bod-p11-v11-p007",
+   "bod-p11-v11-p008",
+   "bod-p11-v11-p009",
+   "bod-p11-v11-p010",
+   "bod-p11-v11-p011"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "What is bondage? → Equation then identification: mis-knowing is freedom; bondage dreadful-to-fools.",
+  "c1_essence": [
+   "Mis-knowing described as freedom; bondage dreadful-to-fools, nothing second."
+  ],
+  "c1_rasa": "karuṇa-bhaya of bondage named"
+ },
+ "status": "machine-proposed"
 }

@@ -1,1 +1,13 @@
-{"counts": {"passages": 15, "verses": 15}, "needs": ["human-review (MACHINE_PROPOSED)"], "next": "human-review", "notes": "15 verses, 15 passages. Crystal rebuild 2026-11-01: T1 frozen full-verse (149/149 PARSED), L0 verified against GRETIL edition verse by verse; 15 real per-verse argmaps with verse-specific lore (zero shared sentences); L2/L2.v2 rewritten as per-verse read prose; C1/C1.v2 rewritten lucid and distinct from L2 (zero shared sentences, zero quotes, zero metacommentary); stray top-level C1.v2.md removed; Mah\u0101naya word-by-word cross-check clean; SOURCE.txt variants flagged (v7, v15), T1 followed. No batch gate; needs human review (MACHINE_PROPOSED).", "updated": "2026-11-01", "work": "bodhapancadasika"}
+{
+ "counts": {
+  "passages": 15,
+  "verses": 15
+ },
+ "needs": [
+  "human-review (MACHINE_PROPOSED)"
+ ],
+ "next": "Owner: first-verse L4 voice verdict (bod-p01) + human review (machine-proposed throughout). Beauty-pass queue next: phrdaya (item 13).",
+ "notes": "15 verses, 15 passages. Crystal rebuild 2026-11-01: T1 frozen full-verse (149/149 PARSED), L0 verified against GRETIL edition verse by verse; 15 real per-verse argmaps with verse-specific lore (zero shared sentences); L2/L2.v2 rewritten as per-verse read prose; C1/C1.v2 rewritten lucid and distinct from L2 (zero shared sentences, zero quotes, zero metacommentary); stray top-level C1.v2.md removed; Mahānaya word-by-word cross-check clean; SOURCE.txt variants flagged (v7, v15), T1 followed. No batch gate; needs human review (MACHINE_PROPOSED). Beauty pass 2026-11-04 (machine-proposed): 15 song-level DRAFTs rewritten to per-verse new schema (craft_notes w/ Sanskrit-first + Abhinavagupta frame + firing rows + rejected-killers + read-aloud, reads_against argmap-Q→I/C1-essences/rasa-dominant); lines unchanged (overlap vs L3 = 1.00); arc: all-containing light → identity → inseparables → world-mirrored → bounded hunger → play → equation → criterion → abiding → totality → bondage named → open doors → release → non-difference → emblem-dwelling. validate 0 x15, proof PASS x15, qa NEEDS_WITNESS x15.",
+ "updated": "2026-11-04",
+ "work": "bodhapancadasika"
+}

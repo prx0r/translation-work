@@ -1,44 +1,44 @@
 {
- "song": "bod-p06",
- "song_craft": "Voice: stotra couplets, one work-voice across fifteen rasa-colors (adbhuta→vīra→śṛṅgāra→ānanda→śānta — the work walks the rasas home to peace). Each verse hammer-tight in L3: L4 = L3 verbatim throughout, music named per verse. Arc: all-containing light (v1) → aloneness (v2) → inseparables (v3) → mirror-bearing (v4) → exact fullness (v5) → play at once (v6) → five-in-one (v7) → criterion (v8) → abiding change (v9) → total inventory (v10) → bondage named (v11) → open doors (v12) → release (v13) → non-difference (v14) → dwelling enjoined (v15).",
- "verses": [
-  {
-   "verse_id": "bod-p06-v06",
-   "l4": {
-    "verse_id": "bod-p06-v06",
-    "song": "bod-p06",
-    "verse": 6,
-    "lines": [
-     "This god, with this goddess, forever eager for play's delight;",
-     "varied makings and unmakings He works at once — the all-pervading."
-    ],
-    "sanskrit_cite": "eṣa devo 'nayā devyā nityaṃ krīḍārasotsukaḥ | vicitrān sṛṣṭisaṃhārān vidhatte yugapad vibhuḥ",
-    "l0_ids": [
-     "bod-p06-v06-p000",
-     "bod-p06-v06-p001",
-     "bod-p06-v06-p002",
-     "bod-p06-v06-p003",
-     "bod-p06-v06-p004",
-     "bod-p06-v06-p005",
-     "bod-p06-v06-p006",
-     "bod-p06-v06-p007",
-     "bod-p06-v06-p008",
-     "bod-p06-v06-p009",
-     "bod-p06-v06-p010"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Co-occurrence hammered (yugapad unsoftened per UNC); play-delight + all-pervading close.",
-   "rejected": "(a) alternate-for-at-once → killed by UNC. (b) cutting second at-once → killed: simultaneity doubled is the point.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa ānanda-vīra of play / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: ānanda-vīra of play; vyabhicāri exultant joy (ullāsa) at making-unmaking at once. Sanskrit-first: krīḍā-kautuka (PLAY-DELIGHT — kept dignified); yugapat (AT-ONCE — simultaneity kept); sṛṣṭi-saṃhāra (MAKINGS/UNMAKINGS — process nouns, not god-verbs). Rows: 9 (makings/unmakings pair + at-once), 8 (bright vowels throughout: eager/delight/makings — ānanda fills, no dark close), 1 (‘all-pervading’ closes — everywhere ends everywhere). Close: ‘the all-pervading’. Rupture: semicolon (mood turns to act — play-eager, therefore making). Rejected: ‘forever keen on fun’ — killed: dignity; ‘creates and destroys’ — killed: process nouns kept; ‘ frolics’ — killed: colloquial. Read aloud: THIS-god, WITH-this-GOD-dess, for-EV-er EA-ger FOR-play's de-LIGHT … VAR-ied MAK-ings AND-un-MAK-ings HE-works AT-once — THE-all-per-VAD-ing.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "bod-p06-v06",
+  "song": "bod-p06",
+  "verse": 6,
+  "lines": [
+   "This god, with this goddess, forever eager for play's delight;",
+   "varied makings and unmakings He works at once — the all-pervading."
+  ],
+  "sanskrit_cite": "eṣa devo 'nayā devyā nityaṃ krīḍārasotsukaḥ | vicitrān sṛṣṭisaṃhārān vidhatte yugapad vibhuḥ",
+  "l0_ids": [
+   "bod-p06-v06-p000",
+   "bod-p06-v06-p001",
+   "bod-p06-v06-p002",
+   "bod-p06-v06-p003",
+   "bod-p06-v06-p004",
+   "bod-p06-v06-p005",
+   "bod-p06-v06-p006",
+   "bod-p06-v06-p007",
+   "bod-p06-v06-p008",
+   "bod-p06-v06-p009",
+   "bod-p06-v06-p010"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "What do god and goddess do together? → Mood then act: play-eager, therefore co-occurrent making-unmaking, everywhere.",
+  "c1_essence": [
+   "Play-eager pair make-unmake varied worlds simultaneously, everywhere."
+  ],
+  "c1_rasa": "ānanda-vīra of play"
+ },
+ "status": "machine-proposed"
 }

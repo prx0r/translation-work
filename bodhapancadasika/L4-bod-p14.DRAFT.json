@@ -1,43 +1,43 @@
 {
- "song": "bod-p14",
- "song_craft": "Voice: stotra couplets, one work-voice across fifteen rasa-colors (adbhuta→vīra→śṛṅgāra→ānanda→śānta — the work walks the rasas home to peace). Each verse hammer-tight in L3: L4 = L3 verbatim throughout, music named per verse. Arc: all-containing light (v1) → aloneness (v2) → inseparables (v3) → mirror-bearing (v4) → exact fullness (v5) → play at once (v6) → five-in-one (v7) → criterion (v8) → abiding change (v9) → total inventory (v10) → bondage named (v11) → open doors (v12) → release (v13) → non-difference (v14) → dwelling enjoined (v15).",
- "verses": [
-  {
-   "verse_id": "bod-p14-v14",
-   "l4": {
-    "verse_id": "bod-p14-v14",
-    "song": "bod-p14",
-    "verse": 14,
-    "lines": [
-     "Bondage and release, both from the Lord's own nature, never part;",
-     "in truth, in the Lord, there is no split."
-    ],
-    "sanskrit_cite": "etau bandhavimokṣau ca parameśasvarūpataḥ | na bhidyete na bhedo hi tattvataḥ parameśvare",
-    "l0_ids": [
-     "bod-p14-v14-p000",
-     "bod-p14-v14-p001",
-     "bod-p14-v14-p002",
-     "bod-p14-v14-p003",
-     "bod-p14-v14-p004",
-     "bod-p14-v14-p005",
-     "bod-p14-v14-p006",
-     "bod-p14-v14-p007",
-     "bod-p14-v14-p008",
-     "bod-p14-v14-p009"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Double non-difference kept double (never-part + no-split; emphasis-not-redundancy per UNC).",
-   "rejected": "(a) trimming one half → killed: double is doctrine. (b) in-truth→truly → killed: satya-word weight.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta-vīra of non-difference / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta-vīra of non-difference; vyabhicāri peace at pair undivided. Sanskrit-first: abhinna (UNPARTED — kept ‘never part’); abheda (NO-SPLIT — kept; two negations, kept two); tattvatas (IN-TRUTH — kept, twice-grounded). Rows: 9 (never-part + no-split — doubled non-difference), 1 (‘no split’ closes — abheda last, twice-said), 3 (bondage/release × nature/Lord interlock: 1-with-3, 2-with-4). Close: ‘there is no split’. Rupture: semicolon (pair-unity turns to Lord-unity). Rejected: ‘are one’ — killed: two negations kept two; ‘in God’ — killed: Lord kept (house diction); ‘essentially’ for ‘in truth’ — killed: tattvatas kept. Read aloud: BOND-age AND re-LEASE, BOTH from the LORD's-own-NA-ture, NEV-er PART … IN-truth, IN the LORD, there IS no SPLIT.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "bod-p14-v14",
+  "song": "bod-p14",
+  "verse": 14,
+  "lines": [
+   "Bondage and release, both from the Lord's own nature, never part;",
+   "in truth, in the Lord, there is no split."
+  ],
+  "sanskrit_cite": "etau bandhavimokṣau ca parameśasvarūpataḥ | na bhidyete na bhedo hi tattvataḥ parameśvare",
+  "l0_ids": [
+   "bod-p14-v14-p000",
+   "bod-p14-v14-p001",
+   "bod-p14-v14-p002",
+   "bod-p14-v14-p003",
+   "bod-p14-v14-p004",
+   "bod-p14-v14-p005",
+   "bod-p14-v14-p006",
+   "bod-p14-v14-p007",
+   "bod-p14-v14-p008",
+   "bod-p14-v14-p009"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "Do bondage and release differ? → Double non-difference: of the pair, and in the Lord, in truth.",
+  "c1_essence": [
+   "Bondage-release undivided in nature and Lord, in truth."
+  ],
+  "c1_rasa": "śānta-vīra of non-difference"
+ },
+ "status": "machine-proposed"
 }

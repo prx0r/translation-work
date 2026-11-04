@@ -1,46 +1,46 @@
 {
- "song": "kram-p05",
- "song_craft": "Voice: beloved handcrafted couplets (restored 2a45bbc — the retransmission was reverted; L4 sings the loved version, never the reverted one). Stotra-arc: rite (v1) → scrutiny (vv2–4) → madness-bliss (v5) → sudden-means (v6) → riddles dissolved (vv7–10) → fixing (v11) → descent (vv12–15) → red rite (v16) → grasping goddess (vv17–20) → ordaining three (v21) → sporting ground (vv22–23) → garland (v24) → Śiva-made shining (v25) → time-making cover (v26, live-fork noted not litigated) → resort (v27) → bowing (v28) → all-folk grace (v29) → dated seal 991 CE (v30). L4 = L3 verbatim throughout, music named.",
- "verses": [
-  {
-   "verse_id": "kram-p05-v05",
-   "l4": {
-    "verse_id": "kram-p05-v05",
-    "song": "kram-p05",
-    "verse": 5,
-    "lines": [
-     "Shake off the bond-roads, drink deep of things — burnt clean in praise-fire;",
-     "mad-drunk on glory's rush, O giver — bliss is mine."
-    ],
-    "sanskrit_cite": "vidhunvāno bandhābhimatabhavamārgasthitim | madamatto 'smi sukhitaḥ",
-    "l0_ids": [
-     "kram-p05-v05-p000",
-     "kram-p05-v05-p001",
-     "kram-p05-v05-p002",
-     "kram-p05-v05-p003",
-     "kram-p05-v05-p004",
-     "kram-p05-v05-p005",
-     "kram-p05-v05-p006",
-     "kram-p05-v05-p007",
-     "kram-p05-v05-p008",
-     "kram-p05-v05-p009",
-     "kram-p05-v05-p010",
-     "kram-p05-v05-p011",
-     "kram-p05-v05-p012"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Shake-drink-burnt triad; mad-drunk bliss-mine close; bond-roads kept.",
-   "rejected": "(a) roads→paths → killed: roads are walked.",
-   "reads": "argmap Q+INF (+UNC []) / C1 essence / rasa māda-vīra of holy drunkenness / L2+L3 voice (handcrafted, restored)"
-  }
- ]
+ "craft_notes": "Sthāyin: māda-vīra of holy drunkenness; vyabhicāri mattollāsa at burnt bonds. Sanskrit-first: bandha-mārga (BOND-ROADS — kept; roads are walked); stuti-agni (PRAISE-FIRE — kept); mada (MAD-DRUNK — kept raw). Rows: 9 (shake/drink/burnt triad — three verbs, one breath), 1 (‘bliss is mine’ closes — intoxication owned last). Close: ‘bliss is mine’. Rupture: semicolon (burnt turns to drunk — purification turns to joy). Rejected: ‘paths’ for roads — killed: roads walked; ‘wine’ for glory's rush — killed: mahimā-vega kept (rush, not wine). Read aloud: SHAKE-off THE-bond-ROADS, DRINK-deep OF-things — BURNT-clean IN-praise-FIRE … MAD-drunk ON-glo-ry's-RUSH, O-giv-ER — BLISS is-MINE.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "kram-p05-v05",
+  "song": "kram-p05",
+  "verse": 5,
+  "lines": [
+   "Shake off the bond-roads, drink deep of things — burnt clean in praise-fire;",
+   "mad-drunk on glory's rush, O giver — bliss is mine."
+  ],
+  "sanskrit_cite": "vidhunvāno bandhābhimatabhavamārgasthitim | madamatto 'smi sukhitaḥ",
+  "l0_ids": [
+   "kram-p05-v05-p000",
+   "kram-p05-v05-p001",
+   "kram-p05-v05-p002",
+   "kram-p05-v05-p003",
+   "kram-p05-v05-p004",
+   "kram-p05-v05-p005",
+   "kram-p05-v05-p006",
+   "kram-p05-v05-p007",
+   "kram-p05-v05-p008",
+   "kram-p05-v05-p009",
+   "kram-p05-v05-p010",
+   "kram-p05-v05-p011",
+   "kram-p05-v05-p012"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "What does the shaken-off sing? → Bond burnt, glory rushed, things drunk: madness-bliss sings.",
+  "c1_essence": [
+   "Bond-conceit shaken, difference burnt, glory drunk: madness-bliss."
+  ],
+  "c1_rasa": "māda-vīra of holy drunkenness"
+ },
+ "status": "machine-proposed"
 }
