@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 91,
- "gold": 30,
+ "gold": 31,
  "partial": 0,
- "pending": 61,
+ "pending": 60,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -212,12 +212,15 @@
   },
   {
    "work": "paramarthadvadasika",
-   "status": "no-repo (needs source + full build)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
    "verses": 13,
-   "note": "2026-11-04 MERGED: paramadvayadvadashika is the same work under its variant title (colophon: paramadvayadvadasika athava paramarthadvadasika; 13v both; registry entry removed, 92->91). Translating ONCE from the Sferra/Hamburg recension (SOURCE.txt in hand); Abhinavastotravali print variants recorded, not built. NEXT in queue (shortest pending Abhinavagupta work)."
+   "note": "2026-11-04: GOLD #31 — Sferra recension (Abhinavastotravali print = variant recension, recorded not built). Full pipeline 13v/2 songs: T1 span-exact / L0 269 tok / argmaps 13/13 / L2 / C1 / L3 / L4 13 DRAFTs / C2 eli5+genz / c1.NOTE x2; validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "l4_songs": 2,
+   "l4_verses": 13,
+   "c2_songs": 2
   },
   {
    "work": "paramarthasara",
