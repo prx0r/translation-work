@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 91,
- "gold": 33,
+ "gold": 34,
  "partial": 0,
- "pending": 58,
+ "pending": 57,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -777,11 +777,15 @@
   },
   {
    "work": "tantrasara-a18",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
    "has_process_log": false,
-   "verses": null
+   "verses": 2,
+   "note": "2026-11-04: GOLD #34 — Abhinavagupta Tantrasara ahnika 18 (abhiseka). Full pipeline 2 prose units via workcfg GRETIL span route: T1 span-exact (legacy phantom atha dropped) / L0 66 tok / argmaps 2/2 / L2 / C1 / L3 / L4 2 DRAFTs / C2 eli5+genz / c1.NOTE; validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "l4_songs": 1,
+   "l4_verses": 2,
+   "c2_songs": 1
   },
   {
    "work": "tantrasara-a19",

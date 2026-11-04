@@ -9,11 +9,11 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-04, all committed)
 
-- **33 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
+- **34 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
   C2 (eli5+genz, [E#]-tagged) + refreshed proofs (layer_sha256 over L3/L4/C2).
-- **Gate green on all 33 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
+- **Gate green on all 34 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
   32 (defaults to sivastotravali — loop it when auditing).
-- **REGISTRY.json**: 91 works / 33 gold / 58 pending.
+- **REGISTRY.json**: 91 works / 34 gold / 57 pending.
 - **GOAL 2026-11-04 (owner)**: all Abhinavagupta works, shortest first — stotras/prakaraṇas,
   then tantrasara āhnikas (a18→…→a13 by verse count), then tantraloka āhnikas (a34→…→a15).
   Sambandhasiddhi (gold, attribution uncertain) excluded pending verification.
@@ -53,7 +53,7 @@ edit THIS file in the same commit — never leave it behind.*
     pinned segments: song/verse/verse_id/start/end; every non-ws byte covered).
     Candidates — DONE: dehastha → gold #30 (Abhinavastotravali print, 16v/2 songs, full pipeline, CANONICAL 0 failures);
     paramarthadvadasika → gold #31 (Sferra recension, 13v/2 songs, full pipeline, CANONICAL 0 failures);
-    rahasyapanchadashika → gold #32 (Abhinavastotravali print, 16v/2 songs, full pipeline, CANONICAL 0 failures); mahopadeshavimshatika → gold #33 (Abhinavastotravali print, 20v/2 songs, full pipeline, CANONICAL 0 failures).
+    rahasyapanchadashika → gold #32 (Abhinavastotravali print, 16v/2 songs, full pipeline, CANONICAL 0 failures); mahopadeshavimshatika → gold #33 (Abhinavastotravali print, 20v/2 songs, full pipeline, CANONICAL 0 failures); tantrasara-a18 → gold #34 (abhiseka, 2 prose units via workcfg GRETIL span route, phantom legacy atha dropped, CANONICAL 0 failures).
     MERGED 2026-11-04: paramadvayadvadashika == paramarthadvadasika (colophon variant title
     "paramadvayadvadasika athava paramarthadvadasika"; registry 92→91; single gold from Sferra recension, print variants recorded).
     Remaining, shortest-first: mahopadeshavimshatika 20v (sanskritdocuments ITRANS sourced) →
