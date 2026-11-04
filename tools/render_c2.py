@@ -30,8 +30,8 @@ STARTERS = {
 }
 
 
-def build_prompt(song: str, style: str, user_prompt: str) -> tuple[str, list[str]]:
-    w = ROOT / "sivastotravali"
+def build_prompt(work: str, song: str, style: str, user_prompt: str) -> tuple[str, list[str]]:
+    w = ROOT / work
     c1 = json.loads((w / "data" / f"{song}.c1.json").read_text(encoding="utf-8"))
     l2 = json.loads((w / "data" / f"{song}.l2.json").read_text(encoding="utf-8"))
     essence = c1["essence"]
@@ -78,6 +78,8 @@ def main() -> int:
     ap.add_argument("--text-file", default=None, help="model output to ingest")
     ap.add_argument("--run", action="store_true", help="try hermes -z directly")
     ap.add_argument("--model", default="crystal-v1")
+    ap.add_argument("--work", default="sivastotravali")
+    ap.add_argument("--date", default="2026-11-01")
     args = ap.parse_args()
 
     if args.style in STARTERS and not (args.prompt or args.prompt_file):
@@ -91,8 +93,8 @@ def main() -> int:
         print("custom style needs --prompt or --prompt-file", file=sys.stderr)
         return 2
 
-    prompt, essence = build_prompt(args.song, args.style, user_prompt)
-    w = ROOT / "sivastotravali"
+    prompt, essence = build_prompt(args.work, args.song, args.style, user_prompt)
+    w = ROOT / args.work
 
     if args.print_prompt and not args.text_file and not args.run:
         print(prompt)
@@ -132,8 +134,8 @@ def main() -> int:
     c2 = json.loads(c2p.read_text()) if c2p.exists() else {"song": args.song, "renders": []}
     c2["renders"] = [r for r in c2.get("renders", []) if r.get("style") != args.style]
     c2["renders"].append({"style": args.style, "prompt": user_prompt, "model": args.model,
-                          "date": "2026-11-01", "status": "machine-proposed",
-                          "paragraphs": paras})
+                           "date": args.date, "status": "machine-proposed",
+                           "paragraphs": paras})
     errs = c2s.validate(c2, "c2", len(essence))
     if errs:
         dp = w / f"c2-{args.song}-{args.style}.draft.md"
