@@ -1,13 +1,13 @@
 {
  "work": "ghatakarpara",
- "updated": "2026-11-02",
- "next": "human-review (MACHINE_PROPOSED) — all gates pass, awaiting signoff",
+ "updated": "2026-11-04",
+ "next": "Owner: first-verse L4 voice verdict (ghat-p01-v01) + human review (machine-proposed throughout). Beauty-pass queue next: sambandhasiddhi (item 17).",
  "counts": {
   "passages": 3,
   "verses": 21,
   "l0_tokens": 180
  },
- "notes": "21 verses, 3 passages, kavya + Abhinava vivrti. Crystal rebuild 2026-11-01: T1 per-pada 180 tokens (85+71+24), L0 180/180 PARSED, 3 argmaps (verse-specific lore, 0 shared), L2 21 verses, C1 3 passages (0 quotes, 0 meta, 0 shared with L2). Proof 3/3 PASS. All 7 mistake rules PASS. Process log: process/LOG.md + process.md. L0 morph analyzed (180 tokens, 0 unknown). T1 pada-split (already). L2 rasa-carried. Peer review done. FULLY HAND-CRAFTED. 2026-11-02 migration passage->verse (GRETIL Ghk anchor): t1/l0/argmap split 3 passage-objs into 21 verse-objs (T1.md chain alignment-split; L0 morph/grounds preserved); 21 verse-argmaps derived from passage reconstructions; l2 vids+%02d, cites span-exact; C1 kept; check.py CANONICAL 0 failures.",
+ "notes": "21 verses, 3 passages, kavya + Abhinava vivrti. Crystal rebuild 2026-11-01: T1 per-pada 180 tokens (85+71+24), L0 180/180 PARSED, 3 argmaps (verse-specific lore, 0 shared), L2 21 verses, C1 3 passages (0 quotes, 0 meta, 0 shared with L2). Proof 3/3 PASS. All 7 mistake rules PASS. Process log: process/LOG.md + process.md. L0 morph analyzed (180 tokens, 0 unknown). T1 pada-split (already). L2 rasa-carried. Peer review done. FULLY HAND-CRAFTED. 2026-11-02 migration passage->verse (GRETIL Ghk anchor): t1/l0/argmap split 3 passage-objs into 21 verse-objs (T1.md chain alignment-split; L0 morph/grounds preserved); 21 verse-argmaps derived from passage reconstructions; l2 vids+%02d, cites span-exact; C1 kept; check.py CANONICAL 0 failures. Beauty pass 2026-11-04 (machine-proposed): 21 per-verse DRAFTs upgraded to full new schema (Sthāyin diacritics normalized, read-aloud scans + Abhinavagupta-frame lines added where absent, reads_against converted string→object w/ argmap-Q→I/C1-essences/rasa-dominant, machine-proposed status); stray per-song L4-ghat-p03.DRAFT.json retired (superseded by v19-v21 per-verse); lines untouched (overlap vs L3 0.88–1.00); work arc: longing → grove-festival → SEAL yielding to the better poet (water in a potsherd). validate 0 x3, proof PASS x3, qa NEEDS_WITNESS x3.",
  "needs": [
   "human-review (MACHINE_PROPOSED)",
   "emit_site generalization (T8)",

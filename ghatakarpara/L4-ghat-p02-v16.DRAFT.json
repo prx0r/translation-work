@@ -1,5 +1,5 @@
 {
- "craft_notes": "Color: drunk-cry + obscure seal. Firing: fragment close kept whole — kunda-even-toothed lands unexplained (row 10 image left standing); rupture before v17s thunder. L3 restoration honored verbatim. REJECTED OPTIONS (with killers): (a) explaining kunda -> killed: gap documented, never filled. (b) joining to v17 -> killed: fragment must stand alone.",
+ "craft_notes": "Color: drunk-cry + obscure seal. Firing: fragment close kept whole — kunda-even-toothed lands unexplained (row 10 image left standing); rupture before v17s thunder. L3 restoration honored verbatim. REJECTED OPTIONS (with killers): (a) explaining kunda -> killed: gap documented, never filled. (b) joining to v17 -> killed: fragment must stand alone. Read aloud: NEW-cloud-DRUNK, THE-pea-cocks CRY at CLOUD-com-ing — … KUN-da-EV-en-TOOTHED. Abhinavagupta frame: grove as vibhāva, not backdrop — beauty as cause; kuṭaja-mockery and nīpa-release as anubhāva (consequents), not ornament; rasa overwhelming perception (dust obscuring sun/moon).",
  "form": "couplet",
  "l4": {
   "verse_id": "ghat-p02-v16",
@@ -31,5 +31,12 @@
    "kundasamAnadanti obscure epithet, one word in source; hyphen-chain mirrors compound unity; L0 splits it in two (kunda + samAnadantI, long-I mismatch) — logged tokenization defect, not repaired (argmap references both ids); L2 dropped it — restored here; unadjudicated"
   ]
  },
- "reads_against": "argmap Q+INF (+UNC []) / T1 / L0 / L2 / C1 essence+rasa+NOTE / L3 frozen"
+ "reads_against": {
+  "argmap": "Who drunk at arrival? → Rasa intoxicates birds.",
+  "c1_essence": [
+   "Beauty is not decoration but cause: the groves shine for Kāma's sake, not the reverse. The grove is the vibhāva (determinant) of śṛṅgāra; the rasa overwhelms perception — dust of passion obscures sun and moon, new-cloud-drunk peacocks cry. The kuṭaja's mockery and the nīpa's release are consequents (anubhāva), not ornament: the poet sides with the humble tree over showy flowers. The bee kisses the yūthikā creeper. The rasa is aesthetic: the rasa IS the point."
+  ],
+  "c1_rasa": "śṛṅgāra (erotic, landscape as vibhāva)"
+ },
+ "status": "machine-proposed"
 }
