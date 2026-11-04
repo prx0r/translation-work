@@ -364,8 +364,57 @@ def load_signoff(work, song):
 
 # ------------------------------------------------------------ verify
 
+def essay_errors(essay: dict, work: str, filename: str) -> list[str]:
+    if not isinstance(essay,dict):return [f'{filename}: essay must be an object']
+    digest=sha({key:value for key,value in essay.items() if key!='essay_id'})
+    errors=[]
+    if essay.get('format')!='scholar-essay/1' or essay.get('work')!=work:
+        errors.append(f'{filename}: invalid format or work')
+    if essay.get('essay_id')!='essay:'+digest or filename!=digest+'.json':
+        errors.append(f'{filename}: content address does not match')
+    snap,approval=essay.get('snapshot'),essay.get('signoff')
+    if not isinstance(snap,dict) or not isinstance(approval,dict) or approval.get('snapshot_sha256')!=sha(snap):
+        errors.append(f'{filename}: sign-off does not match snapshot')
+    else:
+        content=snap.get('content')
+        if (not isinstance(content,dict) or snap.get('kind')!='essay' or snap.get('work')!=work or
+            essay.get('target')!=snap.get('target') or essay.get('title')!=snap.get('title') or
+            essay.get('text')!=content.get('text') or essay.get('rights')!=approval.get('rights') or
+            essay.get('assisted')!=bool(content.get('assisted')) or
+            essay.get('model')!=str(content.get('model',''))[:120]):
+            errors.append(f'{filename}: essay differs from signed snapshot')
+        citations=content.get('citations',[]) if isinstance(content,dict) else []
+        if not isinstance(citations,list) or len(citations)>10:
+            errors.append(f'{filename}: invalid citations')
+        else:
+            seen=set()
+            for ref in citations:
+                if (not isinstance(ref,dict) or set(ref)!={'work','target','t1_sha256','projection_sha256'} or
+                    not isinstance(ref.get('work'),str) or not re.fullmatch(r'[a-z0-9][a-z0-9_-]{0,79}',ref['work']) or
+                    not isinstance(ref.get('target'),str) or not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9_.-]{0,159}',ref['target']) or
+                    any(not isinstance(ref.get(k),str) or not re.fullmatch(r'[a-f0-9]{64}',ref[k]) for k in ('t1_sha256','projection_sha256'))):
+                    errors.append(f'{filename}: invalid citation')
+                    continue
+                if (ref['work'],ref['target']) in seen:errors.append(f'{filename}: duplicate citation')
+                seen.add((ref['work'],ref['target']))
+            if citations and (not isinstance(essay.get('source_git_commit'),str) or not re.fullmatch(r'[a-f0-9]{40,64}',essay['source_git_commit'])):
+                errors.append(f'{filename}: missing cited source Git commit')
+        if (not isinstance(essay.get('title'),str) or not essay['title'].strip() or
+            not isinstance(essay.get('text'),str) or not essay['text'].strip() or
+            essay.get('rights') not in ('all-rights-reserved','cc-by-4.0','cc0') or
+            not isinstance(approval.get('id'),str) or not approval['id'].startswith('signoff:')):
+            errors.append(f'{filename}: invalid title, text, rights or sign-off')
+    if (not isinstance(essay.get('author'),str) or not essay['author'].strip() or
+        not isinstance(essay.get('author_id'),str) or not essay['author_id'].strip() or
+        essay.get('identity_state')!='SELF_ATTESTED'):
+        errors.append(f'{filename}: invalid author attribution')
+    return errors
+
 def verify(work: str) -> int:
     fails, warns = [], []
+    for file in sorted((ROOT/work/'scholar/essays').glob('*.json')):
+        try:fails.extend(essay_errors(json.loads(file.read_text(encoding='utf-8')),work,file.name))
+        except (OSError,ValueError,TypeError):fails.append(f'{file.name}: invalid essay JSON')
     versions = load_versions(work)
     by_id = {}
     for i, v in enumerate(versions, 1):
@@ -769,6 +818,35 @@ def cmd_signoff(a) -> int:
     print(f"  signoff    {sp.relative_to(ROOT)}")
     return 0
 
+def cmd_approve_version(a) -> int:
+    """Record an account author's approval, without claiming independent review."""
+    versions = {v['version_id']:v for v in load_versions(a.work)}
+    version = versions.get(a.version)
+    if not version or version.get('author') != a.by or version.get('author_kind') != 'human':
+        die('version or author does not match')
+    if not re.fullmatch(r'[A-Za-z0-9_.:-]{1,160}',a.account_id):
+        die('invalid account id')
+    if not re.fullmatch(r'[0-9a-f]{64}',a.snapshot_sha256):
+        die('invalid signed snapshot hash')
+    if not re.fullmatch(r'signoff:[A-Za-z0-9-]{1,100}',a.signoff_id):
+        die('invalid signoff id')
+    stamp = now()
+    rid = 'pt:review:REV-'+sha16({'version':a.version,'account':a.account_id,
+                                  'signoff':a.signoff_id,'at':stamp})[:12]
+    event = ReviewEvent(review_id=rid,
+        review_target=ReviewTarget(object_ref=a.version,version='scholar-version/2',
+                                   hash=version['content_sha256'],layer=version['layer']),
+        reviewer=ReviewerIdentity(display_name=a.by,person_ref='account:'+a.account_id,
+                                  identity_state='SELF_ATTESTED',domains=[a.work]),
+        decision='ACCEPT',review_scope='LOCAL_SECTION',conflict_of_interest='AUTHOR',
+        reasoning=f'Author account approval; rights={a.rights}; signoff={a.signoff_id}; snapshot={a.snapshot_sha256}',
+        created_at=stamp).emit()
+    with version_lock(a.work):
+        jsonl_append(rpath(a.work),event)
+    print(json.dumps({'review_id':rid,'version':a.version},sort_keys=True))
+    return 0
+
+
 def cmd_promote(a) -> int:
     now_s = now()
     basis = [b.strip() for b in a.basis.split(",") if b.strip()]
@@ -878,6 +956,13 @@ def main() -> int:
     s.add_argument("--to", default="REVIEWED")
     s.add_argument("--reason", default="")
     s.set_defaults(fn=cmd_promote)
+
+    s = sub.add_parser('approve-version', help='record self-attested author approval of an exact version')
+    s.add_argument('--work',required=True);s.add_argument('--version',required=True);s.add_argument('--by',required=True)
+    s.add_argument('--account-id',required=True);s.add_argument('--signoff-id',required=True)
+    s.add_argument('--snapshot-sha256',required=True)
+    s.add_argument('--rights',required=True,choices=['all-rights-reserved','cc-by-4.0','cc0'])
+    s.set_defaults(fn=cmd_approve_version)
 
     s = sub.add_parser("verify"); s.add_argument("--work", required=True)
     s.set_defaults(fn=lambda a: verify(a.work))

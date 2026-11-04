@@ -1,5 +1,31 @@
 # SCHOLAR — versioned scholar work, signed review, and how it gets live
 
+## Account sign-off submission bridge
+
+The optional account bridge accepts an HMAC-authenticated request from the Worker
+for an explicitly approved, exact private revision. Configure an owner-only
+`--bridge-secret-file` outside the repository, and the same value in the Worker
+`SCHOLAR_BRIDGE_SECRET`. Put the localhost-only service behind HTTPS and set the
+Worker `SCHOLAR_BRIDGE_URL` to that HTTPS origin. `--tokens-file` remains optional
+for the legacy bearer flow; existing session-cookie authentication remains separate.
+Rotate bridge credentials securely and never commit them.
+
+The bridge rechecks the Scheme A snapshot hash and rights declaration, imports the
+version in an isolated Git worktree, verifies the current proof and cross-layer song
+validator, and records a self-attested author ReviewEvent for the exact version and
+content hash. Author approval is not independent peer review and does not by itself
+promote the contribution to independently reviewed. AI-assisted text stays labelled.
+Signed essays become content-addressed `scholar-essay/1` objects; `verify` checks
+their address, attribution, rights and exact snapshot, not factual truth.
+After a reviewed merge, `python3 tools/emit_scholar.py --all` regenerates Scholar
+projections for every work with canonical T1 data in the sibling svread checkout.
+
+With `--push-remote origin`, explicit submission may expose the signed text on a
+public Git branch. It does not merge that branch or publish it on the reader; without
+the remote the result is only a local preparation. Live operation still needs the
+Worker migration, credentials, HTTPS proxy, site/browser gates and end-to-end testing.
+Never send private examples, notes or unsigned drafts to public Git.
+
 For the gated source and L4 evidence projection, see
 `process/SCHOLAR-EVIDENCE-2026-11-03.md`.
 
@@ -309,3 +335,27 @@ proxy, Git remote credentials, token distribution, branch review, and site deplo
 still need operator configuration. The browser sends the token to the configured server
 and does not store it. This token system associates an account with a configured name;
 it is not independent verification of a scholar's identity.
+
+### Signed essay passage references
+
+An essay snapshot may include a `citations` array (up to ten distinct
+`{work,target,t1_sha256,projection_sha256}` objects). It is part of the exact
+snapshot covered by author sign-off. The account bridge validates each cited
+work and passage against a committed Git tree, checks its proof gate and T1
+hash, and records `source_git_commit` in the resulting essay object. When a
+source manifest exists, the bridge also checks the proof's current layer hashes.
+Ghaṭakarpara references remain withheld pending source alignment repair.
+
+The projection hash is a client-reported reference, not authenticated by this
+bridge. A passing deterministic proof is not a human philological review. The
+bridge does not determine whether a passage supports an essay's argument or
+verify external scholarly citations. Earlier essays without this optional field
+continue to be accepted. Do not place private notebook notes in public citations.
+
+### Known source-coverage hold
+
+The Scholar emitter withholds every Ghaṭakarpara song and all derived layers,
+versions, reviews, essays and source evidence until its incomplete source
+alignment and dependent data are repaired and reviewed upstream. Its previous
+PASS proofs did not detect missing first lines. The projection records the hold;
+removing it requires a source audit and fresh validation, not merely a hash.

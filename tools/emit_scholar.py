@@ -19,6 +19,13 @@ sys.path.insert(0, str(ROOT / "tools"))
 import scholar as sch  # noqa: E402  (reuse the exact loaders + hashers)
 import agent_contract  # noqa: E402
 
+# Remove only after the complete source and all dependent layers have been
+# independently repaired and revalidated. A PASS proof did not detect the
+# missing first lines in this work's current data.
+SOURCE_COVERAGE_HOLDS = {
+    'ghatakarpara': 'Source alignment incomplete: all 21 numbered verses require upstream repair and review.'
+}
+
 
 def song_craft(work: str, originals: dict) -> dict:
     """Expose editorial rationale only for an exact match to the eligible L4."""
@@ -118,6 +125,9 @@ def build(work: str) -> dict:
                    and r.get("decision") in ("ACCEPT", "ACCEPT_WITH_QUALIFICATION")
                    for r in reviews):
                 c2_eligible.add(song)
+    if work in SOURCE_COVERAGE_HOLDS:
+        eligible.clear()
+        c2_eligible.clear()
     for layer in sch.LAYERS:
         for song in songs:
             if song not in eligible or (layer == "c2" and song not in c2_eligible):
@@ -184,6 +194,14 @@ def build(work: str) -> dict:
             break
 
     contract = agent_contract.describe()
+    essays=[]
+    for path in sorted((ROOT/work/'scholar/essays').glob('*.json')):
+        try:
+            essay=json.loads(path.read_text(encoding='utf-8'))
+            if not sch.essay_errors(essay,work,path.name) and (not essay.get('target') or essay['target'] in originals.get('t1',{})):
+                essays.append(essay)
+        except (OSError,ValueError,TypeError):
+            continue
     times = [item.get("created_at", "") for item in versions + reviews]
     last_event = max((time for time in times if time), default=None)
     doc = {
@@ -216,42 +234,40 @@ def build(work: str) -> dict:
         "original_hashes": {layer: {target: sch.sha(content) for target, content in rows.items()}
                             for layer, rows in originals.items()},
         "versions": versions,
+        "essays": essays,
         "reviews": reviews,
         "promotions": promotions,
         "signoffs": signoffs,
         "stack_hashes": stack_hashes,
     }
+    if work in SOURCE_COVERAGE_HOLDS:
+        doc['withheld_reason'] = SOURCE_COVERAGE_HOLDS[work]
     doc["projection_sha256"] = sch.sha(doc)
     return doc
 
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--work", default="paramarthasara")
+    ap.add_argument('--all',action='store_true',help='emit every work with canonical T1 data')
     ap.add_argument("--out", default=str(SVREAD / "data" / "scholar"))
     a = ap.parse_args()
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
-    doc = build(a.work)
-    p = out / f"{a.work}.json"
-    p.write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
-
     # index of all emitted works (small, for the hub's work list)
     idx_path = out / "index.json"
-    idx = json.loads(idx_path.read_text()) if idx_path.exists() else {}
-    idx[a.work] = {
-        "title": a.work,
-        "versions": len(doc["versions"]),
-        "reviews": len(doc["reviews"]),
-        "signoffs": len(doc["signoffs"]),
-        "generated": doc["generated"],
-    }
-    idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=1), encoding="utf-8")
-
-    kb = p.stat().st_size // 1024
-    print(f"emitted {p} ({kb} KB) — {len(doc['versions'])} versions, "
-          f"{len(doc['reviews'])} reviews, {len(doc['signoffs'])} signoffs, "
-          f"originals: " + ", ".join(
-              f"{l}:{len(v)}" for l, v in doc["originals"].items() if v))
+    # A full rebuild depends only on the current work set, not on any previous
+    # index. A single-work update preserves the other indexed works.
+    idx = {} if a.all else (json.loads(idx_path.read_text(encoding='utf-8')) if idx_path.exists() else {})
+    works=sorted({p.parent.parent.name for p in ROOT.glob('*/data/*.t1.json')}) if a.all else [a.work]
+    for work in works:
+        doc=build(work);p=out/f'{work}.json'
+        p.write_text(json.dumps(doc,ensure_ascii=False,indent=1),encoding='utf-8')
+        idx[work]={'title':work,'versions':len(doc['versions']),'reviews':len(doc['reviews']),
+                   'signoffs':len(doc['signoffs']),'generated':doc['generated']}
+        print(f"emitted {p} ({p.stat().st_size//1024} KB) — {len(doc['versions'])} versions, "
+              f"{len(doc['reviews'])} reviews, {len(doc['signoffs'])} signoffs, originals: " +
+              ', '.join(f'{layer}:{len(rows)}' for layer,rows in doc['originals'].items() if rows))
+    idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     return 0
 
 if __name__ == "__main__":
