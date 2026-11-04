@@ -9,11 +9,11 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-04, all committed)
 
-- **22 gold works / 176 songs**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
+- **28 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
   C2 (eli5+genz, [E#]-tagged) + refreshed proofs (layer_sha256 over L3/L4/C2).
-- **Gate green everywhere**: `python3 check.py --work <name>` CANONICAL on all
-  22 (defaults to sivastotravali — loop it when auditing).
-- **REGISTRY.json**: 92 works / 22 gold / 70 pending.
+- **Gate green on all 28 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
+  28 (defaults to sivastotravali — loop it when auditing). vbt is IN PROGRESS and red (28 failures, cause known — see queue §2.7).
+- **REGISTRY.json**: 92 works / 28 gold / 64 pending.
 - **DONE 2026-11-04**: stavacintamani GOLD #22 COMPLETE — T1 120v span-exact
   (incl. v1 maṅgala proposal stav-p00) + L0 1338 tok 100% PARSED (M00089
   collation: all AMBIGUOUS resolved incl. v37 māmi shine-forth) + argmaps 120v
@@ -42,7 +42,10 @@ edit THIS file in the same commit — never leave it behind.*
    4. ptvmadhyama (35v) — DONE → gold #26 (M00044 mula recension rebuilt from markers; full pipeline; first-verse voice verdict outstanding)
    5. spanda — DONE → gold #27 (first nihsyanda vv1-25 only; legacy garbled ranges superseded; later nihsyandas out of scope)
    6. sivasutra (~80 sutras, 8 passages, 1.x-3.x numbering) — DONE → gold #28 (75 sutras Kaul Shastri recension; full pipeline; first-verse verdict outstanding)
-   7. vbt — IN PROGRESS: source+lore+T1 162/162 done, L0 v1-60 done; L0 v61-162 next → HANDOVER-2026-11-04-B.md
+    7. vbt — IN PROGRESS toward gold #29: T1/L0/argmap/L2/C1/L3 COMPLETE 162/162 (17 songs);
+    data emitted t1/l0/argmap/l2/c1 x17 + l4 p01-p14; L4 140/162 DRAFTs (p01-p14, craft_notes+reads_against, l4-schema 0 errors).
+    REMAINING: L4 p15-p17 (22v, v141-162) → emit data/*.l3.json x17 (fixes current 28 gate failures: 'l4 present without L3') →
+    proof_record refresh x17 → C2 eli5+genz x17 → c1.NOTE x17 → `check.py --work vbt` CANONICAL → registry gold #29. See HANDOVER-2026-11-04-B.md.
 3. **tantrasara-a03–a22** (20) — same pattern, proven twice (a01/a02 gold).
 4. **tantraloka-a01–a37** (37) — the big campaign.
 5. **No-repo source acquisition (5)**: use `tools/intake.py --work X

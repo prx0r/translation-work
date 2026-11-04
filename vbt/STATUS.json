@@ -1,20 +1,27 @@
 {
   "work": "vbt",
   "updated": "2026-11-04",
-  "next": "L2 (162 verses rasa-carried, byte-exact cites) -> C1 -> data emit -> L3 -> L4 -> C2 -> gates; see HANDOVER-2026-11-04-B.md",
+  "next": "L4 p15-p17 (22v, v141-162) -> emit data/*.l3.json x17 -> validate+proof refresh x17 -> C2 x17 -> c1.NOTE x17 -> check.py --work vbt CANONICAL -> registry gold #29; see HANDOVER-2026-11-04-B.md + todoregistry queue 2.7",
   "counts": {
     "passages": 17,
     "verses": 162,
     "l0_parsed": 1717,
     "l0_ambiguous": 0,
-    "l0_failed": 0
+    "l0_failed": 0,
+    "working_complete": ["t1", "l0", "argmap", "l2", "c1", "l3"],
+    "l4_drafts": 140,
+    "l4_songs_done": 14,
+    "l4_verses_remaining": 22,
+    "data_emitted": ["t1", "l0", "argmap", "l2", "c1", "l4(p01-p14)"],
+    "data_missing": ["l3 x17", "l4 p15-p17", "c2 x17", "c1.NOTE x17"],
+    "gate": "NOT CANONICAL: 28 failures (validate+proof BLOCKED x14 songs: 'l4 present without L3' — L3 working files exist, data/*.l3.json never emitted; proofs dated 2026-11-01 pre-date L3/L4)"
   },
   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-vbt-raw.jsonl",
   "r2_bytes": 52971,
   "r2_verified": true,
-  "notes": "IN PROGRESS 2026-11-04: full tantra 162v scope (legacy 161v claim superseded; 112 = dhārana count inside, not verse count). source/ byte-pinned (17 songs, uvāca tags excluded, documented in lore-2026-11-04.md); T1 162/162 span-exact (17 files); L0 COMPLETE 162/162: 1717 records, 0 schema errors, 0 drift — built with tools/build_l0.py from vbt/cm/l0cm-*.json (fidelity-verified byte-identical on v1-60); T1 gloss chain shift v113 corrected during batch. Legacy batch (passages.jsonl/T1.md/data) superseded, do not trust. ARGMAPS COMPLETE: 162/162, per-song sha, dharana numbering (vv24-135) noted, 0 shared long sentences across work, fill_argmap tool gates them.",
+  "notes": "2026-11-04 REVIEW: full tantra 162v scope (legacy 161v claim superseded; 112 = dhārana count inside, not verse count). source/ byte-pinned (17 songs, uvāca tags excluded, documented in lore-2026-11-04.md); T1 162/162 span-exact (17 files); L0 COMPLETE 162/162: 1717 records, 0 schema errors, 0 drift — built with tools/build_l0.py from vbt/cm/l0cm-*.json (fidelity-verified byte-identical on v1-60); argmaps 162/162 (per-song sha, dhārana numbering vv24-135 noted, 0 shared long sentences); L2 162/162 rasa-carried byte-exact cites; C1 17/17 (essence+7-part+rasa, 0 quotes/meta/shared); data t1/l0/argmap/l2/c1 emitted x17 + legacy MDs (validate 0, proof PASS at emit time, roundtrip 0, qa NEEDS_WITNESS); L3 COMPLETE 162/162 (0 shared w/ L2); L4 140/162 (p01-p14 DRAFTs + data, craft_notes+reads_against per verse, l4-schema 0 errors, first-verse voice verdict outstanding). Legacy batch (passages.jsonl/T1.md/data) superseded, do not trust. Failed p15-p16 emit attempts (quote-syntax errors in batch script) left NO partial files — p15-p17 clean at 0 DRAFTs.",
   "needs": [
-    "L2/C1/data/L3/L4/C2 + gates",
-    "human-review (machine-proposed, after full transform)"
+    "L4 p15-p17 (22v) + data/*.l3.json x17 + proof refresh + C2 + c1.NOTEs + CANONICAL (then gold #29)",
+    "first-verse L4 voice verdict (owner) + human review (machine-proposed throughout)"
   ]
 }

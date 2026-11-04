@@ -815,14 +815,15 @@
    "has_process_log": false,
    "verses": null
   },
-  {
-   "work": "vbt",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
-  },
+   {
+    "work": "vbt",
+    "status": "in-progress (machine-proposed, needs human review)",
+    "gold": false,
+    "has_data_json": true,
+    "has_process_log": false,
+    "verses": 162,
+    "note": "2026-11-04: T1/L0/argmap/L2/C1/L3 COMPLETE 162/162 (17 songs; L0 1717 tok 0 drift; data emitted t1/l0/argmap/l2/c1 x17). L4 140/162 DRAFTs (p01-p14, craft_notes+reads_against, l4 schema 0 errors; data vbt-p01..p14.l4.json). REMAINING: L4 p15-p17 (22v, v141-162) + emit data/*.l3.json x17 (validate currently FAILs 'l4 present without L3' x14 -> 28 gate failures) + proof_record refresh x17 + C2 eli5+genz x17 + c1.NOTE x17 + check.py CANONICAL -> gold #29."
+   },
   {
    "work": "tantrasara-a01",
    "status": "gold",
@@ -848,5 +849,5 @@
    "c2_songs": 1
   }
  ],
- "note": "2026-11-04: stavacintamani gold #22 (T1/L0/argmap/L2/C1/L3/L4/C2 120v complete, all CANONICAL 0 failures, proofs PASS x13). 70 works pending (legacy transforms, no-repo source acquisitions, 1 T1-corrupt); queue next: 7 small standalone works, smallest first. Known gaps: stava v1 maṅgala (GRETIL-fetched, M00089 collation open; owner decision: keep prepended stav-p00 vs extend stav-p01); first-verse L4 voice verdict (owner); anu L3/C1 essence-width mismatch; tantrasara-a01/a02 legacy dirs."
+  "note": "2026-11-04: 28 gold banked (#22 stava + #23-28 six small works, all CANONICAL 0 failures at completion, C2 in place). vbt IN PROGRESS toward gold #29: T1/L0/argmap/L2/C1/L3 162/162 done, L4 140/162 DRAFTs (p01-p14); remaining: L4 p15-p17 (22v) + data/*.l3.json emit (current 28 gate failures: 'l4 present without L3') + proof refresh + C2 + c1.NOTEs + CANONICAL. 64 pending = vbt + 5 no-repo + paramarthadvadasika anomaly + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). Standing opens: first-verse L4 voice verdicts (all recent golds), human review (machine-proposed throughout), paratrimshika/ptvmadhyama recension-pair scope, witness-conversion of legacy L2.md."
 }
