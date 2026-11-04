@@ -4,10 +4,10 @@
  "date": "2026-11-04",
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
-  "total_works": 92,
-  "gold": 29,
-  "partial": 0,
-  "pending": 63,
+ "total_works": 92,
+ "gold": 30,
+ "partial": 0,
+ "pending": 62,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -156,11 +156,15 @@
   },
   {
    "work": "dehastha",
-   "status": "no-repo (needs source + full build)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 16,
+   "note": "2026-11-04: GOLD #30 — Abhinavagupta Dehasthadevatacakrastotra 16v/2 songs: T1 span-exact / L0 127 tok 100% PARSED 0 drift (2 live forks v9/v10, adjudicated; v16 resolved adverbial) / argmaps 16/16 0 shared / L2 rasa-carried byte-exact / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 16 couplets / L4 16 DRAFTs w/ craft_notes+rejected-killers (audit-aligned) / C2 eli5+genz full coverage / c1.NOTE x2. validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "l4_songs": 2,
+   "l4_verses": 16,
+   "c2_songs": 2
   },
   {
    "work": "isvarasiddhi",
@@ -214,15 +218,15 @@
    "l4_verses": 8,
    "c2_songs": 8
   },
-   {
-    "work": "paramarthadvadasika",
-    "status": "no-repo (needs source + full build)",
-    "gold": false,
-    "has_data_json": false,
-    "has_process_log": false,
-    "verses": 13,
-    "note": "2026-11-04 anomaly resolved: dir holds SOURCE.txt with full 13v Sanskrit (Muktabodha-style header, Abhinavagupta attribution, Ramyadeva v13 + colophon) but zero translation files — 'legacy' was wrong, nothing to transform. Needs tools/intake.py byte-spans + full 14-step pipeline. Queued with no-repo intakes."
-   },
+  {
+   "work": "paramarthadvadasika",
+   "status": "no-repo (needs source + full build)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": 13,
+   "note": "2026-11-04 anomaly resolved: dir holds SOURCE.txt with full 13v Sanskrit (Muktabodha-style header, Abhinavagupta attribution, Ramyadeva v13 + colophon) but zero translation files — 'legacy' was wrong, nothing to transform. Needs tools/intake.py byte-spans + full 14-step pipeline. Queued with no-repo intakes."
+  },
   {
    "work": "paramarthasara",
    "status": "gold",
@@ -816,18 +820,18 @@
    "has_process_log": false,
    "verses": null
   },
-   {
-    "work": "vbt",
-    "status": "gold",
-    "gold": true,
-    "has_data_json": true,
-    "has_process_log": true,
-    "verses": 162,
-    "note": "2026-11-04: GOLD #29 — full tantra 162v (17 songs): T1 span-exact / L0 1717 tok 100% PARSED 0 drift / argmaps 162/162 / L2 rasa-carried byte-exact / C1 essence+7-part+rasa / data t1/l0/argmap/l2/c1/l3 x17 / L3 162 couplets handcrafted 0 shared w/ L2 / L4 162 DRAFTs song-set w/ craft_notes+rejected-killers (p13-p14 RE-SUNG from true L3 after 0-overlap audit caught memory-composed lines; mistakes.md #19) / C2 eli5+genz full coverage / c1.NOTE x17 (voice maps, key terms, cruxes); validate 0 x17, proof PASS x17, roundtrip 0 x17, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review (MACHINE_PROPOSED).",
-    "l4_songs": 17,
-    "l4_verses": 162,
-    "c2_songs": 17
-   },
+  {
+   "work": "vbt",
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 162,
+   "note": "2026-11-04: GOLD #29 — full tantra 162v (17 songs): T1 span-exact / L0 1717 tok 100% PARSED 0 drift / argmaps 162/162 / L2 rasa-carried byte-exact / C1 essence+7-part+rasa / data t1/l0/argmap/l2/c1/l3 x17 / L3 162 couplets handcrafted 0 shared w/ L2 / L4 162 DRAFTs song-set w/ craft_notes+rejected-killers (p13-p14 RE-SUNG from true L3 after 0-overlap audit caught memory-composed lines; mistakes.md #19) / C2 eli5+genz full coverage / c1.NOTE x17 (voice maps, key terms, cruxes); validate 0 x17, proof PASS x17, roundtrip 0 x17, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review (MACHINE_PROPOSED).",
+   "l4_songs": 17,
+   "l4_verses": 162,
+   "c2_songs": 17
+  },
   {
    "work": "tantrasara-a01",
    "status": "gold",
@@ -853,5 +857,5 @@
    "c2_songs": 1
   }
  ],
-  "note": "2026-11-04: 29 gold banked (#22 stava + #23-28 six small works + #29 vbt 162v full tantra, all CANONICAL 0 failures at completion, C2 in place; six golds' qa re-run vs vendored legacy-L2 witnesses: SHIP_AS_IS + 2 WITH_NOTES adjudicated). 63 pending = 6 no-repo (dehastha, mahopadeshavimshatika, paramadvayadvadashika, rahasyapanchadashika, tattvasandoha + paramarthadvadasika with SOURCE.txt 13v in hand) + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). Standing opens: first-verse L4 voice verdicts (all recent golds), human review (machine-proposed throughout), paratrimshika/ptvmadhyama recension-pair scope."
+ "note": "2026-11-04: 30 gold banked (#22 stava + #23-28 six small + #29 vbt 162v + #30 dehastha 16v; all CANONICAL 0 failures at completion, C2 in place; six golds qa re-run vs vendored legacy-L2 witnesses: SHIP_AS_IS + 2 WITH_NOTES adjudicated). 62 pending = 5 no-repo (mahopadeshavimshatika, paramadvayadvadashika, rahasyapanchadashika, tattvasandoha + paramarthadvadasika with SOURCE.txt 13v in hand) + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). Standing opens: first-verse L4 voice verdicts (all recent golds), human review (machine-proposed throughout), paratrimshika/ptvmadhyama recension-pair scope."
 }

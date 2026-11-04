@@ -9,11 +9,11 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-04, all committed)
 
-- **29 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
+- **30 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
   C2 (eli5+genz, [E#]-tagged) + refreshed proofs (layer_sha256 over L3/L4/C2).
-- **Gate green on all 29 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
-  29 (defaults to sivastotravali — loop it when auditing).
-- **REGISTRY.json**: 92 works / 29 gold / 63 pending.
+- **Gate green on all 30 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
+  30 (defaults to sivastotravali — loop it when auditing).
+- **REGISTRY.json**: 92 works / 30 gold / 62 pending.
 - **DONE 2026-11-04**: stavacintamani GOLD #22 COMPLETE — T1 120v span-exact
   (incl. v1 maṅgala proposal stav-p00) + L0 1338 tok 100% PARSED (M00089
   collation: all AMBIGUOUS resolved incl. v37 māmi shine-forth) + argmaps 120v
@@ -48,7 +48,8 @@ edit THIS file in the same commit — never leave it behind.*
 5. **No-repo source acquisition (6)**: use `tools/intake.py --work X
     --source S --segments seg.json --edition E --source-license L` (byte-span
     pinned segments: song/verse/verse_id/start/end; every non-ws byte covered).
-    Candidates: dehastha, mahopadeshavimshatika, paramadvayadvadashika,
+    Candidates — DONE: dehastha → gold #30 (Abhinavastotravali print, 16v/2 songs, full pipeline, CANONICAL 0 failures).
+    Remaining: mahopadeshavimshatika, paramadvayadvadashika,
     rahasyapanchadashika, tattvasandoha. Plus **paramarthadvadasika** —
     anomaly RESOLVED 2026-11-04: SOURCE.txt holds full 13v (nothing to transform;
     reclassified no-repo, needs intake + full pipeline).
