@@ -1,7 +1,7 @@
 {
   "work": "vbt",
   "updated": "2026-11-04",
-  "next": "argmaps (17 songs, per-song sanskrit_sha, structured question/premises/inference; dharana ranges noted) -> L2 (byte-exact cites) -> C1 -> data emit -> L3 -> L4 -> C2 -> gates; see HANDOVER-2026-11-04-B.md",
+  "next": "L2 (162 verses rasa-carried, byte-exact cites) -> C1 -> data emit -> L3 -> L4 -> C2 -> gates; see HANDOVER-2026-11-04-B.md",
   "counts": {
     "passages": 17,
     "verses": 162,
@@ -12,9 +12,8 @@
   "r2_key": "s3://sanskritree/batch-t1/2026-10-30-vbt-raw.jsonl",
   "r2_bytes": 52971,
   "r2_verified": true,
-  "notes": "IN PROGRESS 2026-11-04: full tantra 162v scope (legacy 161v claim superseded; 112 = dhārana count inside, not verse count). source/ byte-pinned (17 songs, uvāca tags excluded, documented in lore-2026-11-04.md); T1 162/162 span-exact (17 files); L0 COMPLETE 162/162: 1717 records, 0 schema errors, 0 drift — built with tools/build_l0.py from vbt/cm/l0cm-*.json (fidelity-verified byte-identical on v1-60); T1 gloss chain shift v113 corrected during batch. Legacy batch (passages.jsonl/T1.md/data) superseded, do not trust.",
+  "notes": "IN PROGRESS 2026-11-04: full tantra 162v scope (legacy 161v claim superseded; 112 = dhārana count inside, not verse count). source/ byte-pinned (17 songs, uvāca tags excluded, documented in lore-2026-11-04.md); T1 162/162 span-exact (17 files); L0 COMPLETE 162/162: 1717 records, 0 schema errors, 0 drift — built with tools/build_l0.py from vbt/cm/l0cm-*.json (fidelity-verified byte-identical on v1-60); T1 gloss chain shift v113 corrected during batch. Legacy batch (passages.jsonl/T1.md/data) superseded, do not trust. ARGMAPS COMPLETE: 162/162, per-song sha, dharana numbering (vv24-135) noted, 0 shared long sentences across work, fill_argmap tool gates them.",
   "needs": [
-    "argmaps 162v",
     "L2/C1/data/L3/L4/C2 + gates",
     "human-review (machine-proposed, after full transform)"
   ]
