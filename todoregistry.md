@@ -9,7 +9,7 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-04, all committed)
 
-- **30 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
+- **31 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
   C2 (eli5+genz, [E#]-tagged) + refreshed proofs (layer_sha256 over L3/L4/C2).
 - **Gate green on all 31 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
   31 (defaults to sivastotravali — loop it when auditing).
