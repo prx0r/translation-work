@@ -1,0 +1,70 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "vbt-p05",
+ "work": "vbt",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "897a3b7ba010fcc9",
+ "source_verses": 10,
+ "t1_verses": 10,
+ "l0": {
+  "parsed": 90,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 90
+ },
+ "align": {
+  "min_ratio": 0.994,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 11,
+ "c1_words": 311,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 10,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 10,
+   "l0": 90,
+   "argmap": 10,
+   "l2": 10,
+   "l3": 0,
+   "l4": 0,
+   "essence": 10,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "layer_sha256": {
+  "t1": "451daf51376a847b646d8d43668d4f52240b86b3c26c028517b6fb589c72dcc7",
+  "l0": "90465bb2ba0e23daade60dee4feb197a3455ecfbfb8fd5f3de0ee7a8f857ba86",
+  "argmap": "b6b9b41f903794164c64df18849646a05656da04331920e1699a111e9ca3ddba",
+  "l2": "30c4d6946a5610a3b7a0ee74f9e8577864bce4fd92ec55f00d14d5774abecfb9",
+  "c1": "060eba2f13825413f7e8aea559a8a4cd93d7fbe28f42b970224e3853eee3a667"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "897a3b7ba010fcc9",
+  "t1": "T1-vbt-p05.md",
+  "l0": "T1-vbt-p05.l0.jsonl",
+  "l2": "L2-vbt-p05.md",
+  "c1": "c1/C1-vbt-p05.md"
+ }
+}
