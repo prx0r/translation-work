@@ -6,8 +6,8 @@
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 92,
  "gold": 22,
- "partial": 0,
- "pending": 70,
+ "partial": 1,
+ "pending": 69,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -272,11 +272,12 @@
   },
   {
    "work": "saktavijnana",
-   "status": "legacy (needs transformation)",
+   "status": "partial (T1-C1 machine-proposed, needs L3/L4/C2 + human review)",
    "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 30,
+   "note": "2026-11-04: crystal transform T1-C1 (T1 30v span-exact; L0 299 tok 100% PARSED, 4 forks resolved; argmaps 30/30 0-shared; L2 rasa-carried byte-exact cites; C1 essence 10/10/10 + 7-part + rasa adbhuta/adbhuta-bhayānaka/śānta), validate+proof PASS x3, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: L3/L4/C2 + human review (MACHINE_PROPOSED)."
   },
   {
    "work": "sambandhasiddhi",
