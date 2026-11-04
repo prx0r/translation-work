@@ -1,1 +1,17 @@
-{"counts": {"l0_ambiguous": 0, "l0_failed": 0, "l0_parsed": 197, "passages": 2, "verses": 20}, "needs": ["first-verse L4 voice verdict (owner)", "human-review (machine-proposed, after full transform)"], "next": "Owner: first-verse L4 voice verdict (mpa-p01-v01) + human review (machine-proposed throughout). Next work per Abhinavagupta shortest-first queue: tantrasara-a18 (2v).", "notes": "GOLD #34 (MACHINE_PROPOSED) 2026-11-04: Abhinavagupta Mahopadeshavimshatika 20v/2 songs (Abhinavastotravali print): T1 20/20 span-exact / L0 197 tok 100% PARSED 0 drift (print naTavan kept byte-true, flagged) / argmaps 20/20 (0 shared) / L2 plain-English byte-exact cites / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 20 (0 shared w/ L2) / L4 20 DRAFTs song-set w/ craft_notes+rejected-killers (audit-aligned) / C2 eli5+genz full coverage / c1.NOTE x2. validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review.", "updated": "2026-11-04", "work": "mahopadeshavimshatika"}
+{
+ "counts": {
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 197,
+  "passages": 2,
+  "verses": 20
+ },
+ "needs": [
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed, after full transform)"
+ ],
+ "next": "Owner: first-verse L4 voice verdict (mpa-p01-v01) + human review (machine-proposed throughout). Next work per Abhinavagupta shortest-first queue: tantrasara-a18 (2v).",
+ "notes": "GOLD #33 (MACHINE_PROPOSED) 2026-11-04: Abhinavagupta Mahopadeshavimshatika 20v/2 songs (Abhinavastotravali print): T1 20/20 span-exact / L0 197 tok 100% PARSED 0 drift (print naTavan kept byte-true, flagged) / argmaps 20/20 (0 shared) / L2 plain-English byte-exact cites / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 20 (0 shared w/ L2) / L4 20 DRAFTs song-set w/ craft_notes+rejected-killers (audit-aligned) / C2 eli5+genz full coverage / c1.NOTE x2. validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review.",
+ "updated": "2026-11-04",
+ "work": "mahopadeshavimshatika"
+}
