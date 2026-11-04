@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 92,
- "gold": 25,
+ "gold": 26,
  "partial": 0,
- "pending": 67,
+ "pending": 66,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -258,11 +258,13 @@
   },
   {
    "work": "ptvmadhyama",
-   "status": "T1 corrupt (needs T1 rebuild)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 35,
+   "note": "2026-11-04: full gold pipeline on M00044 mUla recension (T1 35v span-exact / L0 301 tok 100% PARSED 0 drift / argmaps 35/35 / L2 byte-exact cites / C1 + rasa / L3 35 couplets / L4 35 DRAFTs w/ craft_notes+rejected-killers / C2 eli5+genz full coverage), validate+proof PASS x4, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. Recension: sadyaH immediacy, KaulikI, labhAmi, surezAnI, varNeSu sounds, v4 transposed, G18cd absent, v23 absorbs G24ab. OPEN: first-verse L4 voice verdict (owner); human review (MACHINE_PROPOSED).",
+   "l4_songs": 4
   },
   {
    "work": "rahasyapanchadashika",

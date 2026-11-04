@@ -38,13 +38,16 @@
    "l0": 85,
    "argmap": 9,
    "l2": 9,
-   "l3": 0,
-   "l4": 0,
+   "l3": 9,
+   "l4": 9,
    "essence": 9,
    "renders": [
     "standard"
    ],
-   "c2_renders": [],
+   "c2_renders": [
+    "eli5",
+    "genz"
+   ],
    "signoff": false
   }
  },
@@ -57,7 +60,10 @@
   "l0": "8b29632ca63e24a63cf46d2a447b7c5ebddf155a024a5741b2aa4382339242e7",
   "argmap": "90fe23e9f1e3c3b8a9be836b61d990c48b89ab4635cb72ce0d2c8592488ead65",
   "l2": "c39322dd62d098dd35294c40a6591654194cf56fc28c7fe3d3a89ecc00680785",
-  "c1": "0eb3ebea799e49228b91ad6bd204941dd6642b5618fea4e8059545409ca79424"
+  "c1": "0eb3ebea799e49228b91ad6bd204941dd6642b5618fea4e8059545409ca79424",
+  "l3": "e62808b92490ffae3b6298dff615793b6beed32fad700d93d1c1c9850203ecb8",
+  "l4": "bf367137d54573d44e26a32787902d4f145ccbe5a1d942d8a52b87c530ca6014",
+  "c2": "e9db5dd76235acdf1db0207b9e7d3722bf175dbb60bfc6b91cf960f4724822c9"
  },
  "lineage": {
   "tool": "proof_record v1 2026-11-01",

@@ -1,16 +1,20 @@
 {
  "work": "ptvmadhyama",
- "updated": "2026-10-30",
- "next": "batch (ptvmadhyama done)",
+ "updated": "2026-11-04",
+ "next": "spanda (queue 2.5): source intake — passage verse-ranges garbled (20-3, 16-2), fix ranges first; then lore + full transform",
  "counts": {
   "passages": 4,
-  "verses": 35
+  "verses": 35,
+  "l0_parsed": 301,
+  "l0_ambiguous": 0,
+  "l0_failed": 0
  },
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-ptvmadhyama-raw.jsonl",
  "r2_bytes": 11876,
  "r2_verified": true,
- "notes": "35 verses, 4 passages, L200+C1 done, gate run",
+ "notes": "GOLD #26 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (35v M00044 mula, 4 songs); validate+proof PASS x4; check.py CANONICAL 0 failures; qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
  "needs": [
-  "abstention-review"
+  "first-verse L4 voice verdict (owner)",
+  "human-review (MACHINE_PROPOSED, after full transform)"
  ]
 }
