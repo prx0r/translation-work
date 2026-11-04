@@ -1,52 +1,52 @@
 {
- "song": "kram-p20",
- "song_craft": "Voice: beloved handcrafted couplets (restored 2a45bbc — the retransmission was reverted; L4 sings the loved version, never the reverted one). Stotra-arc: rite (v1) → scrutiny (vv2–4) → madness-bliss (v5) → sudden-means (v6) → riddles dissolved (vv7–10) → fixing (v11) → descent (vv12–15) → red rite (v16) → grasping goddess (vv17–20) → ordaining three (v21) → sporting ground (vv22–23) → garland (v24) → Śiva-made shining (v25) → time-making cover (v26, live-fork noted not litigated) → resort (v27) → bowing (v28) → all-folk grace (v29) → dated seal 991 CE (v30). L4 = L3 verbatim throughout, music named.",
- "verses": [
-  {
-   "verse_id": "kram-p20-v20",
-   "l4": {
-    "verse_id": "kram-p20-v20",
-    "song": "kram-p20",
-    "verse": 20,
-    "lines": [
-     "So by goddesses, difference-glory split at once — thought-living one shines, knower-standing. Enough.",
-     "Considered in my own heart, dissolution-formed, gracious be she — my death-loosing maker, blessed."
-    ],
-    "sanskrit_cite": "taditthaṃ devībhiḥ sapadi dalite bhedavibhave | mṛtyupralayakaraṇī me bhagavatī",
-    "l0_ids": [
-     "kram-p20-v20-p000",
-     "kram-p20-v20-p001",
-     "kram-p20-v20-p002",
-     "kram-p20-v20-p003",
-     "kram-p20-v20-p004",
-     "kram-p20-v20-p005",
-     "kram-p20-v20-p006",
-     "kram-p20-v20-p007",
-     "kram-p20-v20-p008",
-     "kram-p20-v20-p009",
-     "kram-p20-v20-p010",
-     "kram-p20-v20-p011",
-     "kram-p20-v20-p012",
-     "kram-p20-v20-p013",
-     "kram-p20-v20-p014",
-     "kram-p20-v20-p015",
-     "kram-p20-v20-p016",
-     "kram-p20-v20-p017",
-     "kram-p20-v20-p018"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Split-difference shines thought; gracious-maker considered; mātṛsthiti per UNC.",
-   "rejected": "(a) maker→lord → killed: maker makes.",
-   "reads": "argmap Q+INF (+UNC ['mātṛsthiti kept.']) / C1 essence / rasa śānta-vīra of maker named / L2+L3 voice (handcrafted, restored)"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta-vīra of maker named; vyabhicāri śamotsāha at considered gracious maker. Sanskrit-first: mātṛsthiti per UNC (kept); vicārya (CONSIDERED — kept; thought shines first, maker second). Rows: 1 (‘blessed’ closes — dhanyā last: blessing seals), 9 (split/shines/stands — difference split, thought shines, knower stands). Close: ‘my death-loosing maker, blessed’. Rupture: period (shining stated, then considered — goddesses split, I consider). Rejected: ‘lord’ for maker — killed: maker makes (kartṛ kept); ‘Enough’ cut — killed: alam seals the shining (enough IS the close of L1). Read aloud: SO by-GOD-dess-es, DIFF-er-ence-GLO-ry SPLIT at-ONCE — THOUGHT-liv-ing-ONE shines, KNOW-er-STAND-ing. E-NOUGH … my-DEATH-loos-ing MA-ker, BLESS-ed.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "kram-p20-v20",
+  "song": "kram-p20",
+  "verse": 20,
+  "lines": [
+   "So by goddesses, difference-glory split at once — thought-living one shines, knower-standing. Enough.",
+   "Considered in my own heart, dissolution-formed, gracious be she — my death-loosing maker, blessed."
+  ],
+  "sanskrit_cite": "taditthaṃ devībhiḥ sapadi dalite bhedavibhave | mṛtyupralayakaraṇī me bhagavatī",
+  "l0_ids": [
+   "kram-p20-v20-p000",
+   "kram-p20-v20-p001",
+   "kram-p20-v20-p002",
+   "kram-p20-v20-p003",
+   "kram-p20-v20-p004",
+   "kram-p20-v20-p005",
+   "kram-p20-v20-p006",
+   "kram-p20-v20-p007",
+   "kram-p20-v20-p008",
+   "kram-p20-v20-p009",
+   "kram-p20-v20-p010",
+   "kram-p20-v20-p011",
+   "kram-p20-v20-p012",
+   "kram-p20-v20-p013",
+   "kram-p20-v20-p014",
+   "kram-p20-v20-p015",
+   "kram-p20-v20-p016",
+   "kram-p20-v20-p017",
+   "kram-p20-v20-p018"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "Who makes death-dissolution? → Goddesses split difference; thought shines; considered maker gracious.",
+  "c1_essence": [
+   "Split difference shines thought; considered maker gracious."
+  ],
+  "c1_rasa": "śānta-vīra of maker named"
+ },
+ "status": "machine-proposed"
 }

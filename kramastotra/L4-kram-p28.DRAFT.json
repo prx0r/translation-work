@@ -1,46 +1,46 @@
 {
- "song": "kram-p28",
- "song_craft": "Voice: beloved handcrafted couplets (restored 2a45bbc — the retransmission was reverted; L4 sings the loved version, never the reverted one). Stotra-arc: rite (v1) → scrutiny (vv2–4) → madness-bliss (v5) → sudden-means (v6) → riddles dissolved (vv7–10) → fixing (v11) → descent (vv12–15) → red rite (v16) → grasping goddess (vv17–20) → ordaining three (v21) → sporting ground (vv22–23) → garland (v24) → Śiva-made shining (v25) → time-making cover (v26, live-fork noted not litigated) → resort (v27) → bowing (v28) → all-folk grace (v29) → dated seal 991 CE (v30). L4 = L3 verbatim throughout, music named.",
- "verses": [
-  {
-   "verse_id": "kram-p28-v28",
-   "l4": {
-    "verse_id": "kram-p28-v28",
-    "song": "kram-p28",
-    "verse": 28,
-    "lines": [
-     "Unhindered, in the self-made Lord, great Lord, wide powers abide;",
-     "that power-bearer I bow — god, churn-named, the world's one sap."
-    ],
-    "sanskrit_cite": "anargala svātmamaye maheśe tiṣṭhanti | taṃ śaktimantaṃ praṇamāmi devaṃ manthānasaṃjñaṃ jagadekasāram",
-    "l0_ids": [
-     "kram-p28-v28-p000",
-     "kram-p28-v28-p001",
-     "kram-p28-v28-p002",
-     "kram-p28-v28-p003",
-     "kram-p28-v28-p004",
-     "kram-p28-v28-p005",
-     "kram-p28-v28-p006",
-     "kram-p28-v28-p007",
-     "kram-p28-v28-p008",
-     "kram-p28-v28-p009",
-     "kram-p28-v28-p010",
-     "kram-p28-v28-p011",
-     "kram-p28-v28-p012"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Unhindered-abide; churn-named bowed; one-sap close.",
-   "rejected": "(a) churn→churning → killed: churn-named names.",
-   "reads": "argmap Q+INF (+UNC []) / C1 essence / rasa bhakti-vīra of bowing / L2+L3 voice (handcrafted, restored)"
-  }
- ]
+ "craft_notes": "Sthāyin: bhakti-vīra of bowing; vyabhicāri bhaktyutsāha at churn-essence. Sanskrit-first: manthana-nāman (CHURN-NAMED — kept; names, not churns); ekarasa (ONE-SAP — kept; world's one sap). Rows: 7 declined — no vocative; bowing IS the address (‘I bow’ acts), 1 (‘one sap’ closes — unity last). Close: ‘the world’s one sap’. Rupture: semicolon (abiding stated, then bowed — powers abide, bearer bowed). Rejected: ‘churning’ — killed: churn-named names; ‘essence’ for sap — killed: rasa kept sap (juice, not abstraction). Read aloud: un-HIN-dered, IN the-SELF-made-LORD, GREAT-lord, WIDE-pow-ers a-BIDE … THAT-pow-er-BEAR-er I-bow — GOD, churn-NAMED, THE-world's ONE-sap.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "kram-p28-v28",
+  "song": "kram-p28",
+  "verse": 28,
+  "lines": [
+   "Unhindered, in the self-made Lord, great Lord, wide powers abide;",
+   "that power-bearer I bow — god, churn-named, the world's one sap."
+  ],
+  "sanskrit_cite": "anargala svātmamaye maheśe tiṣṭhanti | taṃ śaktimantaṃ praṇamāmi devaṃ manthānasaṃjñaṃ jagadekasāram",
+  "l0_ids": [
+   "kram-p28-v28-p000",
+   "kram-p28-v28-p001",
+   "kram-p28-v28-p002",
+   "kram-p28-v28-p003",
+   "kram-p28-v28-p004",
+   "kram-p28-v28-p005",
+   "kram-p28-v28-p006",
+   "kram-p28-v28-p007",
+   "kram-p28-v28-p008",
+   "kram-p28-v28-p009",
+   "kram-p28-v28-p010",
+   "kram-p28-v28-p011",
+   "kram-p28-v28-p012"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "Whom bow, unobstructed? → Abiding powers; churn-named essence bowed.",
+  "c1_essence": [
+   "Powers abiding unhindered; churn-essence bowed."
+  ],
+  "c1_rasa": "bhakti-vīra of bowing"
+ },
+ "status": "machine-proposed"
 }

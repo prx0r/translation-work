@@ -1,51 +1,51 @@
 {
- "song": "kram-p04",
- "song_craft": "Voice: beloved handcrafted couplets (restored 2a45bbc — the retransmission was reverted; L4 sings the loved version, never the reverted one). Stotra-arc: rite (v1) → scrutiny (vv2–4) → madness-bliss (v5) → sudden-means (v6) → riddles dissolved (vv7–10) → fixing (v11) → descent (vv12–15) → red rite (v16) → grasping goddess (vv17–20) → ordaining three (v21) → sporting ground (vv22–23) → garland (v24) → Śiva-made shining (v25) → time-making cover (v26, live-fork noted not litigated) → resort (v27) → bowing (v28) → all-folk grace (v29) → dated seal 991 CE (v30). L4 = L3 verbatim throughout, music named.",
- "verses": [
-  {
-   "verse_id": "kram-p04-v04",
-   "l4": {
-    "verse_id": "kram-p04-v04",
-    "song": "kram-p04",
-    "verse": 4,
-    "lines": [
-     "Through birth-wandering gears, omniscience is won. O heart, no strain;",
-     "caught clear in speech, show the Lord's hymn — now."
-    ],
-    "sanskrit_cite": "jātyādibhramaṇaparipāṭīparikarair avāptam sārvajñaṃ hṛdaya | tvadbodhaprasarasaraṇībhūtamahasi sphuṭam vāci prāpya prakaṭaya vibhoḥ stotram adhunā",
-    "l0_ids": [
-     "kram-p04-v04-p000",
-     "kram-p04-v04-p001",
-     "kram-p04-v04-p002",
-     "kram-p04-v04-p003",
-     "kram-p04-v04-p004",
-     "kram-p04-v04-p005",
-     "kram-p04-v04-p006",
-     "kram-p04-v04-p007",
-     "kram-p04-v04-p008",
-     "kram-p04-v04-p009",
-     "kram-p04-v04-p010",
-     "kram-p04-v04-p011",
-     "kram-p04-v04-p012",
-     "kram-p04-v04-p013",
-     "kram-p04-v04-p014",
-     "kram-p04-v04-p015",
-     "kram-p04-v04-p016",
-     "kram-p04-v04-p017"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Heart commanded to speak (O-heart address, row 7); now-close.",
-   "rejected": "(a) dropping O-heart → killed: address commands.",
-   "reads": "argmap Q+INF (+UNC []) / C1 essence / rasa vīra of commanded speech / L2+L3 voice (handcrafted, restored)"
-  }
- ]
+ "craft_notes": "Sthāyin: vīra of commanded speech; vyabhicāri utsāha at omniscience to be spoken. Sanskrit-first: hṛdaya-ādeśa (O-HEART address — kept; row 7, command opens); adhunā (NOW — kept last-word-urgent). Rows: 7 (heart commanded to speak — address IS the verse's act), 1 (‘now’ closes — immediacy last). Close: ‘show the Lord’s hymn — now’. Rupture: semicolon (gain turns to command — won, then spoken). Rejected: dropping O-heart — killed: address commands; ‘proclaim’ for show — killed: darśaya shows (speech made visible). Read aloud: THROUGH-birth-WAND-er-ing-GEARS, OM-ni-SCI-ence IS-won. O-HEART, no-STRAIN … CAUGHT-clear IN-speech, SHOW the-LORD's-HYMN — NOW.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "kram-p04-v04",
+  "song": "kram-p04",
+  "verse": 4,
+  "lines": [
+   "Through birth-wandering gears, omniscience is won. O heart, no strain;",
+   "caught clear in speech, show the Lord's hymn — now."
+  ],
+  "sanskrit_cite": "jātyādibhramaṇaparipāṭīparikarair avāptam sārvajñaṃ hṛdaya | tvadbodhaprasarasaraṇībhūtamahasi sphuṭam vāci prāpya prakaṭaya vibhoḥ stotram adhunā",
+  "l0_ids": [
+   "kram-p04-v04-p000",
+   "kram-p04-v04-p001",
+   "kram-p04-v04-p002",
+   "kram-p04-v04-p003",
+   "kram-p04-v04-p004",
+   "kram-p04-v04-p005",
+   "kram-p04-v04-p006",
+   "kram-p04-v04-p007",
+   "kram-p04-v04-p008",
+   "kram-p04-v04-p009",
+   "kram-p04-v04-p010",
+   "kram-p04-v04-p011",
+   "kram-p04-v04-p012",
+   "kram-p04-v04-p013",
+   "kram-p04-v04-p014",
+   "kram-p04-v04-p015",
+   "kram-p04-v04-p016",
+   "kram-p04-v04-p017"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "O heart, what now? → Omniscience gained effortlessly; heart bidden to show the hymn in speech.",
+  "c1_essence": [
+   "Omniscience effortlessly gained; heart bidden to speak the hymn."
+  ],
+  "c1_rasa": "vīra of commanded speech"
+ },
+ "status": "machine-proposed"
 }

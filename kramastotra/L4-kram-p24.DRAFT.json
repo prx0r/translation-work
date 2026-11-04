@@ -1,50 +1,50 @@
 {
- "song": "kram-p24",
- "song_craft": "Voice: beloved handcrafted couplets (restored 2a45bbc — the retransmission was reverted; L4 sings the loved version, never the reverted one). Stotra-arc: rite (v1) → scrutiny (vv2–4) → madness-bliss (v5) → sudden-means (v6) → riddles dissolved (vv7–10) → fixing (v11) → descent (vv12–15) → red rite (v16) → grasping goddess (vv17–20) → ordaining three (v21) → sporting ground (vv22–23) → garland (v24) → Śiva-made shining (v25) → time-making cover (v26, live-fork noted not litigated) → resort (v27) → bowing (v28) → all-folk grace (v29) → dated seal 991 CE (v30). L4 = L3 verbatim throughout, music named.",
- "verses": [
-  {
-   "verse_id": "kram-p24-v24",
-   "l4": {
-    "verse_id": "kram-p24-v24",
-    "song": "kram-p24",
-    "verse": 24,
-    "lines": [
-     "O whole garland, sequenceless, entered in self again and again,",
-     "ray-heaped within without end. Supreme, bliss to grasp, eager, noble — gracious to me be she; adorn the heart-path."
-    ],
-    "sanskrit_cite": "samagrām akṣālīṃ kramavirahitā sātmani muhur | prasannā me bhūyāt hṛdayapadavīṃ bhūṣayatu ca",
-    "l0_ids": [
-     "kram-p24-v24-p000",
-     "kram-p24-v24-p001",
-     "kram-p24-v24-p002",
-     "kram-p24-v24-p003",
-     "kram-p24-v24-p004",
-     "kram-p24-v24-p005",
-     "kram-p24-v24-p006",
-     "kram-p24-v24-p007",
-     "kram-p24-v24-p008",
-     "kram-p24-v24-p009",
-     "kram-p24-v24-p010",
-     "kram-p24-v24-p011",
-     "kram-p24-v24-p012",
-     "kram-p24-v24-p013",
-     "kram-p24-v24-p014",
-     "kram-p24-v24-p015",
-     "kram-p24-v24-p016"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Garland re-entered again-and-again; adorn-path prayed; recovered hemistich + bhūyāt correction per UNC.",
-   "rejected": "(a) reverting correction → killed corrected.",
-   "reads": "argmap Q+INF (+UNC ['Recovered hemistich recorded; bhavet→bhūyāt corrected.']) / C1 essence / rasa śṛṅgāra of adornment / L2+L3 voice (handcrafted, restored)"
-  }
- ]
+ "craft_notes": "Sthāyin: śṛṅgāra of adornment; vyabhicāri rati at garland re-entered. Sanskrit-first: bhūyas (AGAIN-AND-AGAIN — kept); bhūyāt correction + recovered hemistich per UNC (kept corrected, recorded). Rows: 6 (garland as seal-anchor — whole garland, sequenceless, re-entered), 1 (‘heart-path’ closes — adornment placed last). Close: ‘adorn the heart-path’. Rupture: comma (garland entered, then ray-heaped — entered again, heaped within). Rejected: reverting correction — killed: corrected (recorded); ‘decorate’ for adorn — killed: alaṅkṛ kept adorn (technical). Read aloud: O-WHOLE-gar-LAND, SE-quence-LESS, EN-tered IN-self a-GAIN and a-GAIN … SU-preme, BLISS to-GRASP, EA-ger, NO-ble — GRA-cious TO-me BE-she; a-DORN the-HEART-path.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "kram-p24-v24",
+  "song": "kram-p24",
+  "verse": 24,
+  "lines": [
+   "O whole garland, sequenceless, entered in self again and again,",
+   "ray-heaped within without end. Supreme, bliss to grasp, eager, noble — gracious to me be she; adorn the heart-path."
+  ],
+  "sanskrit_cite": "samagrām akṣālīṃ kramavirahitā sātmani muhur | prasannā me bhūyāt hṛdayapadavīṃ bhūṣayatu ca",
+  "l0_ids": [
+   "kram-p24-v24-p000",
+   "kram-p24-v24-p001",
+   "kram-p24-v24-p002",
+   "kram-p24-v24-p003",
+   "kram-p24-v24-p004",
+   "kram-p24-v24-p005",
+   "kram-p24-v24-p006",
+   "kram-p24-v24-p007",
+   "kram-p24-v24-p008",
+   "kram-p24-v24-p009",
+   "kram-p24-v24-p010",
+   "kram-p24-v24-p011",
+   "kram-p24-v24-p012",
+   "kram-p24-v24-p013",
+   "kram-p24-v24-p014",
+   "kram-p24-v24-p015",
+   "kram-p24-v24-p016"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "How enter, and how be adorned? → Garland entered again; gracious heart-path-adornment prayed.",
+  "c1_essence": [
+   "Garland re-entered; gracious adornment prayed."
+  ],
+  "c1_rasa": "śṛṅgāra of adornment"
+ },
+ "status": "machine-proposed"
 }
