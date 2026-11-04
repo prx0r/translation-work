@@ -243,7 +243,9 @@ def main() -> int:
     out.mkdir(parents=True, exist_ok=True)
     # index of all emitted works (small, for the hub's work list)
     idx_path = out / "index.json"
-    idx = json.loads(idx_path.read_text()) if idx_path.exists() else {}
+    # A full rebuild depends only on the current work set, not on any previous
+    # index. A single-work update preserves the other indexed works.
+    idx = {} if a.all else (json.loads(idx_path.read_text(encoding='utf-8')) if idx_path.exists() else {})
     works=sorted({p.parent.parent.name for p in ROOT.glob('*/data/*.t1.json')}) if a.all else [a.work]
     for work in works:
         doc=build(work);p=out/f'{work}.json'
@@ -253,7 +255,7 @@ def main() -> int:
         print(f"emitted {p} ({p.stat().st_size//1024} KB) — {len(doc['versions'])} versions, "
               f"{len(doc['reviews'])} reviews, {len(doc['signoffs'])} signoffs, originals: " +
               ', '.join(f'{layer}:{len(rows)}' for layer,rows in doc['originals'].items() if rows))
-    idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=1), encoding="utf-8")
+    idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     return 0
 
 if __name__ == "__main__":
