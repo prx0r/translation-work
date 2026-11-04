@@ -45,24 +45,32 @@ dhāraṇās, vv136+ fruits + colophon (kaṇṭhe lagnā). Legacy vbt batch fil
    kept (chinddhi, chaktyā, chivaḥ, ma.ṅdalaiḥ, bhittis, =B9haṃ, hoccāraṃ,
    laṣyam, bhavajij…), each flagged in `forks_noted`.
 3. **L0 v1–60** — `vbt/working-l0-vbt-p01..p06.json`, **598 records, 0 schema
-   errors, 0 drift** (gloss inherited from T1 by construction).
+   errors, 0 drift** (gloss inherited from T1 by construction), built with the
+   canonical tool from `vbt/cm/l0cm-v1-60.json` (re-run = byte-identical, the
+   tool's fidelity test).
+
+**Scratch policy (owner directive 2026-11-04, now codified in AGENTS.md):**
+ALL intermediates live in this repo — builders in `tools/`, per-work CM/batch
+inputs in `<work>/cm/`. /tmp is never used for translation-work files.
 
 **Immediate next step — L0 v61–162 (102 verses, ~1000 records).**
-The working pattern is proven; reuse it:
-- Builder: `/tmp/opencode/build_l0abcd.py` (v1–40) and
-  `/tmp/opencode/build_l0_p05p06.py` (v41–60). Copy one, edit the CM path +
-  verse range + song map.
+The pattern is proven and now canonical:
+- Builder: **`tools/build_l0.py --work vbt --cm <path> [--cm ...]`** — asserts
+  3-way length+surface equality (CM vs `source_spans` vs T1), inherits gloss
+  from T1 (never re-typed), merges into `working-l0-<song>.json` (existing
+  verses of a song kept, named verses replaced). Fidelity-verified against
+  the committed v1–60.
 - CM data format: JSON `{verse: [[citation(IAST lemma), morph, grounds],…]}`
   — ONE entry per span token, order == `workcfg.source_spans` order (filter
-  `set(tok)!={'|'}`). Builder asserts `len(cms)==len(span)` and
-  `len(T1.tokens)==len(span)`; gloss comes from T1, never re-typed.
-- **Draft CM exists for v61–70** at `/tmp/opencode/cm_v61_70.json` — BUT its
+  `set(tok)!={'|'}`).
+- **Draft CM for v61–70 at `vbt/cm/l0cm-v61-70.DRAFT.json`** — BUT its
   citations are degraded ASCII (smri/bhu/bhava without diacritics, some
-  half-written). **Fix to proper IAST (smṛ, bhū, bhāva…) before running**, and
-  audit morph strings. `cm_v61_80.json` is a truncated fragment — ignore.
+  half-written). **Fix to proper IAST (smṛ, bhū, bhāva…) in place, then run
+  the builder**, and audit morph strings.
 - For v71–162 dump T1 first (`[surface, quick_gloss]` per verse), then write
-  CM in **≤10-verse chunks** (bigger writes got truncated twice this session —
-  verify `json.load` parses before running the builder).
+  CM chunks **≤10 verses per file into `vbt/cm/`** (bigger writes corrupted
+  files twice this session — `json.load`-verify each chunk BEFORE feeding it
+  to the builder; the tool fails loudly, never partially writes).
 - After each batch: `schemas/l0.py` validate + T1 drift check + commit.
 
 **Then the rest of the stack** (same as every gold): argmaps → L2 → C1 →
@@ -107,6 +115,8 @@ red: `check.py --work vbt` = `FAIL data-present`, `FAIL qa-present` only.
   · `tools/render_md.py` (roundtrip) · `tools/qa_vs_witness.py --work Y`
 - Spans: `tools/workcfg.py::source_spans(work)` (ints via manifest, no workcfg
   edit needed for segmented intakes)
+- L0 builder (canonical): `tools/build_l0.py --work <x> --cm <json>` — see §1;
+  CM provenance for committed L0 lives in `<work>/cm/l0cm-*.json`.
 - Best gold specimens for style: `paratrimshika/` (short sūtra-adjacent) and
   `sivasutra/` (single-line L3/L4 form — the form for aphoristic works).
 - The 50-todo list: `todoregistry.md` (queue §2 now 6/7 DONE + vbt marked
