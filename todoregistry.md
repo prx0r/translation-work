@@ -7,18 +7,19 @@ SKILL.md + EXAMPLES.md + FINAL-PROCESS.md + crystal.md + mistakes.md (all read
 and re-verified 2026-11-04 — see CANONICAL CHECKLIST below). When todos change,
 edit THIS file in the same commit — never leave it behind.*
 
-## State snapshot (verified 2026-11-04, all committed and pushed)
+## State snapshot (verified 2026-11-04, all committed)
 
-- **21 gold works / 163 songs**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
+- **22 gold works / 176 songs**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
   C2 (eli5+genz, [E#]-tagged) + refreshed proofs (layer_sha256 over L3/L4/C2).
 - **Gate green everywhere**: `python3 check.py --work <name>` CANONICAL on all
-  21 (defaults to sivastotravali — loop it when auditing).
-- **REGISTRY.json**: 92 works / 21 gold / 71 pending (dupes + stale notes fixed).
-- **Active**: stavacintamani transform — T1 p01–p03 canonical (30/119v,
-  305 tokens, span-exact vs `working-versemap.json`, 15 forks flagged;
-  v30 resolved via Kṣemarāja Vṛtti/M00089; v1 maṅgala gap logged).
-- Stale docs swept today: AGENTS.md counts, targets.md gold table (21 rows) +
-  tier sections, HANDOVER-2026-11-03 banner, stava STATUS.
+  22 (defaults to sivastotravali — loop it when auditing).
+- **REGISTRY.json**: 92 works / 22 gold / 70 pending.
+- **Active**: stavacintamani GOLD #22 this session — T1 120v span-exact
+  (incl. v1 maṅgala proposal stav-p00) + L0 1338 tok 100% PARSED (M00089
+  collation: 7 AMBIGUOUS resolved incl. v37 māmi shine-forth) + argmaps 120v
+  (all forks adjudicated, 0 shared) + L2 rasa-carried + C1 essence/rasa +
+  L3 handcrafted couplets + L4 120v sung w/ craft_notes + C2 eli5+genz.
+- **Next**: 7 small standalone legacy works (queue §2 below, smallest first).
 
 ## Queue order (immediate → deferred)
 
