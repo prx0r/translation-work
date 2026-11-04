@@ -14,16 +14,26 @@ edit THIS file in the same commit — never leave it behind.*
 - **Gate green everywhere**: `python3 check.py --work <name>` CANONICAL on all
   22 (defaults to sivastotravali — loop it when auditing).
 - **REGISTRY.json**: 92 works / 22 gold / 70 pending.
-- **Active**: stavacintamani GOLD #22 this session — T1 120v span-exact
+- **DONE 2026-11-04**: stavacintamani GOLD #22 COMPLETE — T1 120v span-exact
   (incl. v1 maṅgala proposal stav-p00) + L0 1338 tok 100% PARSED (M00089
-  collation: 7 AMBIGUOUS resolved incl. v37 māmi shine-forth) + argmaps 120v
-  (all forks adjudicated, 0 shared) + L2 rasa-carried + C1 essence/rasa +
-  L3 handcrafted couplets + L4 120v sung w/ craft_notes + C2 eli5+genz.
+  collation: all AMBIGUOUS resolved incl. v37 māmi shine-forth) + argmaps 120v
+  (verse-specific lore, all forks adjudicated, 0 shared) + L2 rasa-carried
+  traced cited + C1 essence + SUMMARY + rasa (0 quotes/meta/shared) + L3
+  handcrafted couplets read aloud + L4 120/120 sung verse-by-verse with
+  craft_notes + rejected-with-killers (all 120 DRAFTs on file, data==DRAFTs,
+  all differ from L3; owner verdicts applied: pity→compassion,
+  laud-gem/gravid→wish-jewel/fortune-house, waking→awakening; trust gradient:
+  Sanskrit first, nearer layers win) + C1 NOTEs + C2 eli5+genz tagged+merged.
+  All validated + proofs PASS x13 + check.py CANONICAL 0 failures.
+  Open: v1 source decision (fetch M00089 print + byte-verify, or formal
+  deferral; prepend p00 vs extend p01), first-verse L4 voice verdict (owner),
+  human review (machine-proposed throughout).
 - **Next**: 7 small standalone legacy works (queue §2 below, smallest first).
 
 ## Queue order (immediate → deferred)
 
-1. **stavacintamani** — finish it (todos 2–19) → **gold #22**. Mid-flight.
+1. **stavacintamani — DONE → gold #22** (all 25 todos below complete;
+   L4 sung meticulously v01–v120; C2 in place, owner may still defer/redo it).
 2. **Small standalone legacy works, smallest first** — each = full transform
    (FINAL-PROCESS §how-to-transform, 14 steps) → L3 handcraft → L4 → C2:
    1. saktavijnana (~30v, 3 passages)
@@ -45,27 +55,25 @@ edit THIS file in the same commit — never leave it behind.*
 ## Todos (25)
 
 - [x] 1. T1 p02–p03 glosses (20v, 214 tokens span-exact, 15 forks) + committed  ← DONE
-- [ ] 2. **T1 p04–p05 glosses (19v) + committed**  ← CURRENT
-- [ ] 3. T1 p06–p07 glosses (20v) + committed
-- [ ] 4. T1 p08–p09 glosses (19v) + committed
-- [ ] 5. T1 p10–p11 glosses (20v) + committed
-- [ ] 6. T1 p12 glosses (10v) + v1 maṅgala resolution (fetch/verify or formal defer)
-- [ ] 7. L0 p01–p04 (morph + options, forks grounded) + validated
-- [ ] 8. L0 p05–p08 (morph + options, forks grounded) + validated
-- [ ] 9. L0 p09–p12 (morph + options, forks grounded) + validated
-- [ ] 10. Argmaps p01–p06 (verse-specific lore, fork adjudication)
-- [ ] 11. Argmaps p07–p12 (verse-specific lore, fork adjudication)
-- [ ] 12. L2 p01–p06 (rasa-carried, traced, cited)
-- [ ] 13. L2 p07–p12 (rasa-carried, traced, cited)
-- [ ] 14. C1 p01–p06 (matters-not-document, rasa block, 0 quotes/meta)
-      — NOTE: stava's legacy C1.md is a named non-crystal exhibit (gloss
-      dumped as C1, crystal.md); REWRITE, never carry it forward.
-- [ ] 15. C1 p07–p12 (matters-not-document, rasa block, 0 quotes/meta)
-- [ ] 16. L3 p01–p06 per `process/L3-HANDCRAFT.md` (8-step pass, DRAFT-file,
-      verdict, freeze)
-- [ ] 17. L3 p07–p12 (same)
-- [ ] 18. Stava data JSON + full gate + proof + REGISTRY + commit
-- [ ] 19. Stava L4 voice verdict + L4 + C2 + push  → **GOLD #22**
+- [x] 2. T1 p04–p05 glosses (19v, 237 tokens span-exact, forks noted) + committed
+- [x] 3. T1 p06–p07 glosses (20v, 208 tokens span-exact) + committed
+- [x] 4. T1 p08–p09 glosses (20v, 243 tokens span-exact) + committed
+- [x] 5. T1 p10–p12 glosses (30v, 338 tokens) + v1 maṅgala proposal stav-p00 (GRETIL BhStC_1; M00089 collation open) + committed
+- [x] 6. T1 120v span-exact vs GRETIL, byte-span intake pinned (source/edition.txt + segments.json), workcfg green + committed
+- [x] 7. L0 p01–p05 (542 tok, morph + grounded forks, 100% PARSED) + validated + committed
+- [x] 8. L0 p06–p12 + p00 (796 tok, M00089 collation: 7 AMBIGUOUS→PARSED, v37 māmi revised shine-forth) + validated + committed
+- [x] 9. L0 COMPLETE 1338/1338 100% PARSED, chosen==T1 (1 revised w/ reason) + committed
+- [x] 10. Argmaps p01–p06 (49v, verse-specific lore, all forks adjudicated, 0 shared) + committed
+- [x] 11. Argmaps p07–p12 + p00 (71v incl. v47 8-pada double-47 kept whole, v69 ājñā-variant recorded not smoothed) + committed
+- [x] 12. L2 p01–p06 (rasa-carried read prose, traced, cited byte-exact) + committed
+- [x] 13. L2 p07–p12 + p00 (rewritten hand-composed, 0 shared with T1) + committed
+- [x] 14. C1 p00–p12 (essence + 7-part SUMMARY + rasa{}; 0 quotes, 0 metacommentary, 0 shared with L2; C1 NOTEs written) + committed
+- [x] 15. (folded into 14: all 13 songs + NOTEs in same pass)
+- [x] 16. L3 p00–p12 (120 handcrafted couplets, read aloud, traced, essence-mapped, 0 shared with L2) + committed
+- [x] 17. (folded into 16: all 13 songs in same pass)
+- [x] 18. Stava data JSON (13 songs) + validate_song 0 errors x13 + proof PASS x13 + intake + check.py CANONICAL 0 failures + qa NEEDS_WITNESS + committed
+- [x] 19. Stava L4 120/120 sung verse-by-verse (craft_notes + rejected-with-killers + reads_against per verse, all DRAFTs on file, data==DRAFTs, all differ from L3) + C2 eli5+genz tagged+merged (translator-hand, owner may redo) + proof PASS + committed → **GOLD #22**
+  — OPEN: v1 source decision + first-verse L4 voice verdict (owner) + human review (machine-proposed throughout). C2 voice check deferred per owner (C2 can be added/redone later).
 - [ ] 20. Tantraloka recon batches (a01–a12, a13–a25, a26–a37)
 - [ ] 21. Spanda + Sivasutra + VBT recon + source pins
 - [ ] 22. Short/broken works assessment batch (the 10 named above)
@@ -75,9 +83,15 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## Open owner decisions (cannot self-resolve; ask before building on them)
 
-1. **stava v1 maṅgala** — absent from corpus (vv2–120); fetch M00089 +
-   byte-verify, or record formal deferral in STATUS.
-2. **anu-* verse_id collision** — anuttarastika vs anubhavanivedana both
+1. **stava v1 maṅgala** — proposed as stav-p00 (GRETIL BhStC_1 span-exact;
+   M00089 Vṛtti partially collated: paśyantī/dṛśyamānayā as Vāk principles,
+   full print byte-verify open). Owner decides: fetch M00089 print +
+   byte-verify, or formal deferral; keep prepended stav-p00 vs extend stav-p01.
+2. **stava L4 voice verdict** — 120 verses sung in one hand (dash-hold,
+   colon landing, end-weighted close, plain singable diction, no stated rasa,
+   no invented vocatives/refrains/rhymes). Owner: approve voice as house
+   voice, adjust with direction, or kill verses with direction.
+3. **anu-* verse_id collision** — anuttarastika vs anubhavanivedana both
    `anu-pNN` (work-scoped files; corpus uniqueness undecided).
 3. **anu L3/C1 essence-width** — L3 essence_maps exceed C1 essence range
    (L4 mirrors L3, subset-valid; upstream fix = edit frozen L3 = owner).
