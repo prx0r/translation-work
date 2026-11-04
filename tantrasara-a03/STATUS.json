@@ -1,17 +1,20 @@
 {
- "work": "tantrasara-a03",
- "updated": "2026-10-30",
- "next": "batch (A03 done)",
- "counts": {
-  "passages": 2,
-  "verses": 34
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a03-raw.jsonl",
- "r2_verified": true,
- "notes": "\u015b\u0101mbhava: pratibimba + var\u1e47a emanation",
- "r2_bytes": 25420,
- "needs": [
-  "abstention-review",
-  "citation-grounding"
- ]
+  "work": "tantrasara-a03",
+  "updated": "2026-11-04",
+  "next": "Owner: first-verse L4 voice verdict (tsa-a03-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a05 (43 units).",
+  "counts": {
+    "passages": 1,
+    "verses": 34,
+    "l0_parsed": 536,
+    "l0_ambiguous": 0,
+    "l0_failed": 0,
+    "l4_drafts": 34,
+    "l4_with_craft": 34
+  },
+  "notes": "GOLD #45 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 3 (parāmarśa-śakti / bīja-vowel scheme; 34 units, 536 tok) via workcfg abhts. Full pipeline: L0 hand-crafted 536 tok 100% PARSED (fused spans: nāpi, ko 'pi, bimbaṃ kiṃ syāt, ity-evam, e oṃ / ai au / e ai o au letter-quads) / T1 md+jsonl+report / argmaps 34/34 (sha 893ce37f1ac18f0a, gate PASS, 0 shared) / L2 34 / C1 essence 34 (0 quotes, 0 shared, 0 meta) + 7-part + rasa śānta-vimarśa / L3 34 (3 shared-vs-L2 collisions reworded incl. v07) / L4 34 DRAFTs craft+rejected+read-aloud (Śiva diacritics) / c1 md / site ABSTENTION. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
+  "needs": [
+    "first-verse L4 voice verdict (owner)",
+    "human-review (machine-proposed)"
+  ],
+  "rasa": "śānta with vimarśa weight (rest carrying the letter-scheme)"
 }
