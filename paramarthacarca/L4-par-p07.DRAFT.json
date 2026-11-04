@@ -1,45 +1,45 @@
 {
- "song": "par-p07",
- "song_craft": "Voice: śānta couplets, mirror-light register (still, clear, unforced). Arc: light unobjectifiable (v1) → non-duality (v2) → positive declaration with division inside (v3) → difference uncut + bare list (v4) → mirror a-fortiori (v5) → address: You alone (v6) → paradox praised (v7) → seal: hymn names its close (v8). Sthāyin śānta throughout; adbhuta/ānanda color single verses. L4 = L3 verbatim, music named.",
- "verses": [
-  {
-   "verse_id": "par-p07",
-   "l4": {
-    "verse_id": "par-p07",
-    "song": "par-p07",
-    "verse": 7,
-    "lines": [
-     "Thus — self-consciousness, established from the first, never to be effected; the self, no lord and yet lord;",
-     "whose place and time are full of its own power — eternal, pervasive: Bhairava, Lord, I praise."
-    ],
-    "sanskrit_cite": "itthaṃ svasaṃvedanam ādisiddham asādhyam ātmānam anīśam īśam | svaśaktisaṃpūrṇavadeśakālaṃ nityaṃ vibhuṃ bhairavanātham īḍe",
-    "l0_ids": [
-     "par-p07-p000",
-     "par-p07-p001",
-     "par-p07-p002",
-     "par-p07-p003",
-     "par-p07-p004",
-     "par-p07-p005",
-     "par-p07-p006",
-     "par-p07-p007",
-     "par-p07-p008",
-     "par-p07-p009",
-     "par-p07-p010",
-     "par-p07-p011"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Paradox held without blinking (established-yet-uneffected, no-lord-yet-lord); obscure place-time glossed neutral per UNC; I-praise performs.",
-   "rejected": "(a) resolving paradox → killed: holding is the verse. (b) hail for praise → killed: L3 frozen.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta (tranquility) / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta as paradox held; vyabhicāri wonder at incompatibles held (C1 rasa block). Sanskrit-first: siddhaṃ akāryam (ESTABLISHED yet uneffectable — siddha kept against akārya, no smoothing); anīśa īśa (NO-LORD yet LORD — kept paired); stauti (I PRAISE — the verb IS the verse's end). Rows: 9 (paradox pairs kept paired, never resolved — established/uneffected, no-lord/yet-lord), 7 (‘Bhairava, Lord’ vocative before the praise-verb — address then act), 1 (‘I praise’ closes — after all doctrine, the act). Close: ‘I praise’. Rupture: semicolon before ‘the self, no lord’ (metaphysics turns to self-naming). Rejected: ‘lord beyond lordship’ — killed: smoothing kills the paradox (Bar 6: never smooth); ‘I sing’ — killed: stauti is praise-speech, song would name the medium. Read aloud: THUS — SELF-con-SCIOUS-ness … NEV-er to be ef-FECT-ed; NO-lord AND-yet-LORD … BHAI-ra-va, LORD, i-PRAISE.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "par-p07",
+  "song": "par-p07",
+  "verse": 7,
+  "lines": [
+   "Thus — self-consciousness, established from the first, never to be effected; the self, no lord and yet lord;",
+   "whose place and time are full of its own power — eternal, pervasive: Bhairava, Lord, I praise."
+  ],
+  "sanskrit_cite": "itthaṃ svasaṃvedanam ādisiddham asādhyam ātmānam anīśam īśam | svaśaktisaṃpūrṇavadeśakālaṃ nityaṃ vibhuṃ bhairavanātham īḍe",
+  "l0_ids": [
+   "par-p07-p000",
+   "par-p07-p001",
+   "par-p07-p002",
+   "par-p07-p003",
+   "par-p07-p004",
+   "par-p07-p005",
+   "par-p07-p006",
+   "par-p07-p007",
+   "par-p07-p008",
+   "par-p07-p009",
+   "par-p07-p010",
+   "par-p07-p011"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "Established yet unaccomplishable, non-lord yet lord, place-and-time full of own power — eternal, pervasive: Bhairava-Lord, I praise. → Paradox held without blinking; praise, not proof.",
+  "c1_essence": [
+   "Established yet unaccomplishable, non-lord yet lord, place-and-time full of own power — eternal, pervasive: Bhairava-Lord, I praise."
+  ],
+  "c1_rasa": "śānta (tranquility)"
+ },
+ "status": "machine-proposed"
 }

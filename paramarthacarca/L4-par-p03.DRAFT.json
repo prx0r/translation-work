@@ -1,51 +1,51 @@
 {
- "song": "par-p03",
- "song_craft": "Voice: śānta couplets, mirror-light register (still, clear, unforced). Arc: light unobjectifiable (v1) → non-duality (v2) → positive declaration with division inside (v3) → difference uncut + bare list (v4) → mirror a-fortiori (v5) → address: You alone (v6) → paradox praised (v7) → seal: hymn names its close (v8). Sthāyin śānta throughout; adbhuta/ānanda color single verses. L4 = L3 verbatim, music named.",
- "verses": [
-  {
-   "verse_id": "par-p03",
-   "l4": {
-    "verse_id": "par-p03",
-    "song": "par-p03",
-    "verse": 3,
-    "lines": [
-     "Thus — dense self-consciousness, one alone: He is Śiva, the universe’s supreme light.",
-     "And there too, in variegated power, shines the split of grasped and grasper."
-    ],
-    "sanskrit_cite": "itthaṃ svasaṃvidghana eka eva śivaḥ sa viśvasya paraḥ prakāśaḥ | tatrāpi bhātyeva vicitraśaktau grāhyagṛhītṛpravibhāgabhedaḥ",
-    "l0_ids": [
-     "par-p03-p000",
-     "par-p03-p001",
-     "par-p03-p002",
-     "par-p03-p003",
-     "par-p03-p004",
-     "par-p03-p005",
-     "par-p03-p006",
-     "par-p03-p007",
-     "par-p03-p008",
-     "par-p03-p009",
-     "par-p03-p010",
-     "par-p03-p011",
-     "par-p03-p012",
-     "par-p03-p013",
-     "par-p03-p014",
-     "par-p03-p015",
-     "par-p03-p016",
-     "par-p03-p017"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Positive declaration after denial; ittham unforced (UNC: back-link or new movement — kept open); grasped-grasper split shines.",
-   "rejected": "(a) forcing ittham-link → killed by UNC. (b) variegated→manifold → killed: L3 frozen.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta (tranquility) with adbhuta (wonder) / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta as dense-consciousness-is-Śiva; vyabhicāri wonder that division shines undividing (C1 rasa block). Sanskrit-first: eka eva…sa śivaḥ (one ALONE: HE is Śiva — eva + sa insist); vicitraśaktau…grāhyagrāhakabhedaḥ (in VARIEGATED power — division located inside, not against). Rows: 1 (‘supreme light’ closes L1; ‘grasper’ closes L2 — the split-word last, division landing where it belongs: at the end, inside), 9 (grasped/graspers echo), 12 declined — close is declarative stop, not śānta-fall (the verse declares, then shows). Rupture: ‘And there too’ (identity turns to internal division — the verse's whole move). Rejected: ‘yet’ for ‘And there too’ — killed: tatrāpi is inclusive (there TOO), ‘yet’ would make division an objection; ‘very light’ for ‘supreme light’ — killed: param kept. Read aloud: THUS — DENSE self-CON-scious-ness, ONE a-LONE: HE is ŚI-va … AND-there-TOO … SHINES the SPLIT of GRASPED and GRASP-er.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "par-p03",
+  "song": "par-p03",
+  "verse": 3,
+  "lines": [
+   "Thus — dense self-consciousness, one alone: He is Śiva, the universe’s supreme light.",
+   "And there too, in variegated power, shines the split of grasped and grasper."
+  ],
+  "sanskrit_cite": "itthaṃ svasaṃvidghana eka eva śivaḥ sa viśvasya paraḥ prakāśaḥ | tatrāpi bhātyeva vicitraśaktau grāhyagṛhītṛpravibhāgabhedaḥ",
+  "l0_ids": [
+   "par-p03-p000",
+   "par-p03-p001",
+   "par-p03-p002",
+   "par-p03-p003",
+   "par-p03-p004",
+   "par-p03-p005",
+   "par-p03-p006",
+   "par-p03-p007",
+   "par-p03-p008",
+   "par-p03-p009",
+   "par-p03-p010",
+   "par-p03-p011",
+   "par-p03-p012",
+   "par-p03-p013",
+   "par-p03-p014",
+   "par-p03-p015",
+   "par-p03-p016",
+   "par-p03-p017"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "Dense, one own-consciousness is Śiva himself, the universe's supreme light — yet grasper-grasped division still shines within variegated power. → Positive declaration after denial; division within the undivided.",
+  "c1_essence": [
+   "Dense, one own-consciousness is Śiva himself, the universe's supreme light — yet grasper-grasped division still shines within variegated power."
+  ],
+  "c1_rasa": "śānta (tranquility) with adbhuta (wonder)"
+ },
+ "status": "machine-proposed"
 }

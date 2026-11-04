@@ -1,52 +1,52 @@
 {
- "song": "par-p08",
- "song_craft": "Voice: śānta couplets, mirror-light register (still, clear, unforced). Arc: light unobjectifiable (v1) → non-duality (v2) → positive declaration with division inside (v3) → difference uncut + bare list (v4) → mirror a-fortiori (v5) → address: You alone (v6) → paradox praised (v7) → seal: hymn names its close (v8). Sthāyin śānta throughout; adbhuta/ānanda color single verses. L4 = L3 verbatim, music named.",
- "verses": [
-  {
-   "verse_id": "par-p08",
-   "l4": {
-    "verse_id": "par-p08",
-    "song": "par-p08",
-    "verse": 8,
-    "lines": [
-     "This sevenfold good conduct — those whose other thoughts have melted, who long for the ultimate, rightly remember in the heart.",
-     "And they — O Bhairava’s own — enter the supreme abode again and again, and know the ultimate discourse of the three worlds."
-    ],
-    "sanskrit_cite": "sadvṛttasaptakam idaṃ galitānyacintāḥ samyak smaranti hṛdaye paramārthakāmāḥ | te bhairavīya paradhāma muhur viśanti jānanti ca trijagatīparamārthacarcām",
-    "l0_ids": [
-     "par-p08-p000",
-     "par-p08-p001",
-     "par-p08-p002",
-     "par-p08-p003",
-     "par-p08-p004",
-     "par-p08-p005",
-     "par-p08-p006",
-     "par-p08-p007",
-     "par-p08-p008",
-     "par-p08-p009",
-     "par-p08-p010",
-     "par-p08-p011",
-     "par-p08-p012",
-     "par-p08-p013",
-     "par-p08-p014",
-     "par-p08-p015",
-     "par-p08-p016",
-     "par-p08-p017",
-     "par-p08-p018"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Self-naming seal (remembered/entered/known — hymn closes by naming itself); bhairavīya vocative kept open; again-and-again for punar.",
-   "rejected": "(a) resolving address-vs-genitive → killed by UNC. (b) discourse→discussion → killed: L3 frozen.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta (tranquility) / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta as remembered-entered-known; vyabhicāri peace of conduct remembered (C1 rasa block). Sanskrit-first: smaranti…viśanti…viduḥ (REMEMBER…ENTER…KNOW — the ascent order kept); punaḥ punar (AGAIN and AGAIN — doubled, kept doubled); nigamana (the hymn names its own close — seal-effect). Rows: 9 (‘again and again’ anchor), 6 (self-naming close kept as anchor — ‘ultimate discourse’ verbatim, never reworded), 12 (śānta-fall: ‘three worlds’ — wide, still, long vowels close the whole work). Close: ‘the three worlds’. Rupture: ‘And they’ (conduct turns to persons — the remembered becomes the rememberers). Rejected: ‘often’ — killed: repetition IS the practice; reordering to close on ‘known’ — killed: remembered→entered→known is the ascent. Read aloud: THIS-SEVEN-fold GOOD-con-DUCT … RIGHT-ly re-MEM-ber … EN-ter the su-PREME a-BODE a-GAIN and a-GAIN … DIS-course OF the THREE-worlds.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "par-p08",
+  "song": "par-p08",
+  "verse": 8,
+  "lines": [
+   "This sevenfold good conduct — those whose other thoughts have melted, who long for the ultimate, rightly remember in the heart.",
+   "And they — O Bhairava’s own — enter the supreme abode again and again, and know the ultimate discourse of the three worlds."
+  ],
+  "sanskrit_cite": "sadvṛttasaptakam idaṃ galitānyacintāḥ samyak smaranti hṛdaye paramārthakāmāḥ | te bhairavīya paradhāma muhur viśanti jānanti ca trijagatīparamārthacarcām",
+  "l0_ids": [
+   "par-p08-p000",
+   "par-p08-p001",
+   "par-p08-p002",
+   "par-p08-p003",
+   "par-p08-p004",
+   "par-p08-p005",
+   "par-p08-p006",
+   "par-p08-p007",
+   "par-p08-p008",
+   "par-p08-p009",
+   "par-p08-p010",
+   "par-p08-p011",
+   "par-p08-p012",
+   "par-p08-p013",
+   "par-p08-p014",
+   "par-p08-p015",
+   "par-p08-p016",
+   "par-p08-p017",
+   "par-p08-p018"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "The conduct-septad remembered in the heart; the abode entered again; the discussion itself known — the hymn names its own close. → Remembered, entered, known — the hymn closes by naming itself.",
+  "c1_essence": [
+   "The conduct-septad remembered in the heart; the abode entered again; the discussion itself known — it names its own close."
+  ],
+  "c1_rasa": "śānta (tranquility)"
+ },
+ "status": "machine-proposed"
 }

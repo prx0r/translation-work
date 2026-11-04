@@ -1,51 +1,51 @@
 {
- "song": "par-p05",
- "song_craft": "Voice: śānta couplets, mirror-light register (still, clear, unforced). Arc: light unobjectifiable (v1) → non-duality (v2) → positive declaration with division inside (v3) → difference uncut + bare list (v4) → mirror a-fortiori (v5) → address: You alone (v6) → paradox praised (v7) → seal: hymn names its close (v8). Sthāyin śānta throughout; adbhuta/ānanda color single verses. L4 = L3 verbatim, music named.",
- "verses": [
-  {
-   "verse_id": "par-p05",
-   "l4": {
-    "verse_id": "par-p05",
-    "song": "par-p05",
-    "verse": 5,
-    "lines": [
-     "If, in a mirror’s belly, a reflection — image-making, with its original — were proved by mind alone —",
-     "then, within the mirror of free consciousness, things have no other cause at all."
-    ],
-    "sanskrit_cite": "ādarśakukṣau pratibimbakāri sabimbakaṃ syād yadi mānasiddham | svacchandasaṃvinmukhuraantarāle bhāveṣu hetvantaram asti nānyat",
-    "l0_ids": [
-     "par-p05-p000",
-     "par-p05-p001",
-     "par-p05-p002",
-     "par-p05-p003",
-     "par-p05-p004",
-     "par-p05-p005",
-     "par-p05-p006",
-     "par-p05-p007",
-     "par-p05-p008",
-     "par-p05-p009",
-     "par-p05-p010",
-     "par-p05-p011",
-     "par-p05-p012",
-     "par-p05-p013",
-     "par-p05-p014",
-     "par-p05-p015",
-     "par-p05-p016",
-     "par-p05-p017"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Mirror-belly kept bodily (udara not prettified); a-fortiori hinge; mukura reading marked per UNC.",
-   "rejected": "(a) belly→interior → killed: belly is the words body. (b) proving mirror mechanics → killed: row 10.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta (tranquility) / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta as mirror-needing-only-mind; vyabhicāri clarity of mind-proven reflection (C1 rasa block). Sanskrit-first: yadi…cet…tadā (IF…THEN — protasis long, apodosis certain); manasā eva siddhe (proved BY MIND ALONE — eva restricts the proof); na…anyathā (no OTHER cause — total exclusion closes). Rows: 2 (bimba-pratibimba unpacked: ‘reflection — image-making, with its original’ spilling down the line), 1 (‘at all’ end-weighted — totality), 5 (conditional tread: long supposing line, short necessity line). Rupture: ‘then’ (supposition turns to necessity). Rejected: ‘picture’ for reflection — killed: pratibimba is technical (counter-image); ‘for free’ wordplay on free consciousness — killed: pun smuggling doctrine (svatantra ≠ gratis). Read aloud: IF, in a MIR-ror's BEL-ly … WERE-proved BY-mind a-LONE — THEN, with-IN the MIR-ror OF-free CON-scious-ness … NO-o-ther-CAUSE at-ALL.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "par-p05",
+  "song": "par-p05",
+  "verse": 5,
+  "lines": [
+   "If, in a mirror’s belly, a reflection — image-making, with its original — were proved by mind alone —",
+   "then, within the mirror of free consciousness, things have no other cause at all."
+  ],
+  "sanskrit_cite": "ādarśakukṣau pratibimbakāri sabimbakaṃ syād yadi mānasiddham | svacchandasaṃvinmukhuraantarāle bhāveṣu hetvantaram asti nānyat",
+  "l0_ids": [
+   "par-p05-p000",
+   "par-p05-p001",
+   "par-p05-p002",
+   "par-p05-p003",
+   "par-p05-p004",
+   "par-p05-p005",
+   "par-p05-p006",
+   "par-p05-p007",
+   "par-p05-p008",
+   "par-p05-p009",
+   "par-p05-p010",
+   "par-p05-p011",
+   "par-p05-p012",
+   "par-p05-p013",
+   "par-p05-p014",
+   "par-p05-p015",
+   "par-p05-p016",
+   "par-p05-p017"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "If even a common mirror shows prototype-with-reflection as mind-established, the free-consciousness mirror needs no other cause among things. → A fortiori: mind-proven reflection needs no second cause.",
+  "c1_essence": [
+   "If even a common mirror shows prototype-with-reflection as mind-established, the free-consciousness mirror needs no other cause among things."
+  ],
+  "c1_rasa": "śānta (tranquility)"
+ },
+ "status": "machine-proposed"
 }

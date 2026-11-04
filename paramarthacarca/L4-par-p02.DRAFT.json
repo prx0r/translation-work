@@ -1,50 +1,50 @@
 {
- "song": "par-p02",
- "song_craft": "Voice: śānta couplets, mirror-light register (still, clear, unforced). Arc: light unobjectifiable (v1) → non-duality (v2) → positive declaration with division inside (v3) → difference uncut + bare list (v4) → mirror a-fortiori (v5) → address: You alone (v6) → paradox praised (v7) → seal: hymn names its close (v8). Sthāyin śānta throughout; adbhuta/ānanda color single verses. L4 = L3 verbatim, music named.",
- "verses": [
-  {
-   "verse_id": "par-p02",
-   "l4": {
-    "verse_id": "par-p02",
-    "song": "par-p02",
-    "verse": 2,
-    "lines": [
-     "Nothing at all stands dually apart from knowledge; made of this and that, in consciousness there is no split.",
-     "From self-luminosity, a hundredfold, in the one abode — the individual would never be divided."
-    ],
-    "sanskrit_cite": "jñānadvibhinno na hi kaścidarthaḥ tattatkṛtaḥ saṃvidi nāsti bhedaḥ | svayamprakāśācchatam aikadhāmni prātisvikī nāpi vibheditā syāt",
-    "l0_ids": [
-     "par-p02-p000",
-     "par-p02-p001",
-     "par-p02-p002",
-     "par-p02-p003",
-     "par-p02-p004",
-     "par-p02-p005",
-     "par-p02-p006",
-     "par-p02-p007",
-     "par-p02-p008",
-     "par-p02-p009",
-     "par-p02-p010",
-     "par-p02-p011",
-     "par-p02-p012",
-     "par-p02-p013",
-     "par-p02-p014",
-     "par-p02-p015",
-     "par-p02-p016"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Hundredfold kept as printed (UNC: against tempting satatam); never-divided close.",
-   "rejected": "(a) always → killed by UNC held-open. (b) split→difference → killed: L3 frozen.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta (tranquility) with adbhuta (wonder) / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta as non-duality; vyabhicāri wonder at the undivided individual (C1 rasa block). Sanskrit-first: na kiṃcid…dvaitam (NOTHING stands dual — total negation opens); svaprakāśāt…ekadhāmani (from self-luminosity, in the one abode — ground before consequence); na bhajyeta (would NEVER be divided — optative-passive kept as ‘would never’). Rows: 9 (no-split / never-divided echo — the denial returns as protection), 1 (‘divided’ end-weighted — what cannot happen closes the verse), 11 (deixis thinned: ‘this and that’ kept bare, no pointing). Close: ‘would never be divided’. Rupture: the em-dash after ‘that’ (all-things named, then the ground: consciousness). Rejected: ‘in two’ for ‘dually’ — killed: dvaita is the doctrine-word; splitting L1 at the semicolon — killed: semicolon already breathes, a triplet would strand ‘no split’. Read aloud: NO-thing at ALL stands DU-al-ly a-PART … IN-con-SCIOUS-ness there IS no SPLIT … would NE-ver be di-VID-ed.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "par-p02",
+  "song": "par-p02",
+  "verse": 2,
+  "lines": [
+   "Nothing at all stands dually apart from knowledge; made of this and that, in consciousness there is no split.",
+   "From self-luminosity, a hundredfold, in the one abode — the individual would never be divided."
+  ],
+  "sanskrit_cite": "jñānadvibhinno na hi kaścidarthaḥ tattatkṛtaḥ saṃvidi nāsti bhedaḥ | svayamprakāśācchatam aikadhāmni prātisvikī nāpi vibheditā syāt",
+  "l0_ids": [
+   "par-p02-p000",
+   "par-p02-p001",
+   "par-p02-p002",
+   "par-p02-p003",
+   "par-p02-p004",
+   "par-p02-p005",
+   "par-p02-p006",
+   "par-p02-p007",
+   "par-p02-p008",
+   "par-p02-p009",
+   "par-p02-p010",
+   "par-p02-p011",
+   "par-p02-p012",
+   "par-p02-p013",
+   "par-p02-p014",
+   "par-p02-p015",
+   "par-p02-p016"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "No thing stands dually apart from knowledge; in consciousness there is no difference; the individual, in the one abode of self-luminosity, stays undivided. → Non-duality: nothing apart from knowledge.",
+  "c1_essence": [
+   "No thing stands dually apart from knowledge; in consciousness there is no difference; the individual, in the one abode of self-luminosity, stays undivided."
+  ],
+  "c1_rasa": "śānta (tranquility) with adbhuta (wonder)"
+ },
+ "status": "machine-proposed"
 }
