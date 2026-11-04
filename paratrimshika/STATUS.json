@@ -1,20 +1,21 @@
 {
- "work": "paratrimshika",
- "updated": "2026-11-04",
- "next": "ptvmadhyama (queue 2.4): source intake — T1 CORRUPT, rebuild T1 first per queue note; then lore + full transform",
- "counts": {
-  "passages": 4,
-  "verses": 36,
-  "l0_parsed": 377,
-  "l0_ambiguous": 0,
-  "l0_failed": 0
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-paratrimshika-raw.jsonl",
- "r2_bytes": 13877,
- "r2_verified": true,
- "notes": "GOLD #25 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (36v, 4 songs); validate+proof PASS x4; check.py CANONICAL 0 failures; qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
- "needs": [
-  "first-verse L4 voice verdict (owner)",
-  "human-review (MACHINE_PROPOSED, after full transform)"
- ]
+  "work": "paratrimshika",
+  "updated": "2026-11-04",
+  "next": "ptvmadhyama (queue 2.4): source intake — T1 CORRUPT, rebuild T1 first per queue note; then lore + full transform",
+  "counts": {
+    "passages": 4,
+    "verses": 36,
+    "l0_parsed": 377,
+    "l0_ambiguous": 0,
+    "l0_failed": 0
+  },
+  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-paratrimshika-raw.jsonl",
+  "r2_bytes": 13877,
+  "r2_verified": true,
+  "notes": "GOLD #25 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (36v, 4 songs); validate+proof PASS x4; check.py CANONICAL 0 failures; qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review. RECENSION PAIR: same Parātriṃśikā as ptvmadhyama (M00044 mūla) — this is the GRETIL root (36v, svataḥ); ptvmadhyama carries the Lakṣmīrāma recension (35v, sadyaḥ). Unique to ptvmadhyama: the Vivṛti commentary (excluded from its mūla intake) — owner decision open on re-aiming it there.",
+  "needs": [
+    "first-verse L4 voice verdict (owner)",
+    "human-review (MACHINE_PROPOSED, after full transform)",
+    "owner: recension-pair scope (see ptvmadhyama) — keep pair or re-aim ptvmadhyama at Vivṛti commentary"
+  ]
 }
