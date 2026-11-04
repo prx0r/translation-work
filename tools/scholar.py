@@ -383,6 +383,22 @@ def essay_errors(essay: dict, work: str, filename: str) -> list[str]:
             essay.get('assisted')!=bool(content.get('assisted')) or
             essay.get('model')!=str(content.get('model',''))[:120]):
             errors.append(f'{filename}: essay differs from signed snapshot')
+        citations=content.get('citations',[]) if isinstance(content,dict) else []
+        if not isinstance(citations,list) or len(citations)>10:
+            errors.append(f'{filename}: invalid citations')
+        else:
+            seen=set()
+            for ref in citations:
+                if (not isinstance(ref,dict) or set(ref)!={'work','target','t1_sha256','projection_sha256'} or
+                    not isinstance(ref.get('work'),str) or not re.fullmatch(r'[a-z0-9][a-z0-9_-]{0,79}',ref['work']) or
+                    not isinstance(ref.get('target'),str) or not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9_.-]{0,159}',ref['target']) or
+                    any(not isinstance(ref.get(k),str) or not re.fullmatch(r'[a-f0-9]{64}',ref[k]) for k in ('t1_sha256','projection_sha256'))):
+                    errors.append(f'{filename}: invalid citation')
+                    continue
+                if (ref['work'],ref['target']) in seen:errors.append(f'{filename}: duplicate citation')
+                seen.add((ref['work'],ref['target']))
+            if citations and (not isinstance(essay.get('source_git_commit'),str) or not re.fullmatch(r'[a-f0-9]{40,64}',essay['source_git_commit'])):
+                errors.append(f'{filename}: missing cited source Git commit')
         if (not isinstance(essay.get('title'),str) or not essay['title'].strip() or
             not isinstance(essay.get('text'),str) or not essay['text'].strip() or
             essay.get('rights') not in ('all-rights-reserved','cc-by-4.0','cc0') or

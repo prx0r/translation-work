@@ -169,6 +169,51 @@ def submit(repo: Path, payload: dict, author: str, push_remote: str | None = Non
             "message": "Submission saved for review and publication."}
 
 
+def validate_essay_citations(repo: Path, commit: str, citations: object) -> None:
+    """Verify selected T1 references against the exact committed Git tree."""
+    if not isinstance(citations, list) or len(citations) > 10:
+        raise ValueError('invalid essay citations')
+    seen = set()
+    def read_json(path: str):
+        result = git(repo, 'show', f'{commit}:{path}', check=False)
+        if result.returncode:
+            raise ValueError('cited source or proof is unavailable in the selected Git commit')
+        try:
+            return json.loads(result.stdout)
+        except ValueError as exc:
+            raise ValueError('cited source or proof is invalid JSON') from exc
+    for ref in citations:
+        if not isinstance(ref, dict) or set(ref) != {'work','target','t1_sha256','projection_sha256'}:
+            raise ValueError('invalid essay citation')
+        work, target, t1_hash, projection_hash = (ref[k] for k in ('work','target','t1_sha256','projection_sha256'))
+        if (not isinstance(work,str) or not re.fullmatch(r'[a-z0-9][a-z0-9_-]{0,79}',work) or
+            not isinstance(target,str) or not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9_.-]{0,159}',target) or
+            not isinstance(t1_hash,str) or not re.fullmatch(r'[a-f0-9]{64}',t1_hash) or
+            not isinstance(projection_hash,str) or not re.fullmatch(r'[a-f0-9]{64}',projection_hash)):
+            raise ValueError('invalid essay citation')
+        if work == 'ghatakarpara':
+            raise ValueError('Ghaṭakarpara is withheld pending source alignment repair')
+        if (work,target) in seen: raise ValueError('duplicate essay citation')
+        seen.add((work,target))
+        song=scholar.song_of(target,'t1')
+        proof=read_json(f'{work}/proof/proof-{song}.json')
+        rows=read_json(f'{work}/data/{song}.t1.json')
+        if (not isinstance(proof,dict) or proof.get('work')!=work or proof.get('song')!=song or
+            proof.get('deterministic_gate')!='PASS' or not isinstance(rows,list)):
+            raise ValueError('cited source is not PASS gated')
+        matches=[row for row in rows if isinstance(row,dict) and row.get('verse_id')==target]
+        if len(matches)!=1 or scholar.sha(matches[0])!=t1_hash:
+            raise ValueError('cited T1 passage does not match the selected Git commit')
+        manifest=git(repo,'cat-file','-e',f'{commit}:{work}/source/manifest.json',check=False)
+        if manifest.returncode==0:
+            current={}
+            for layer in scholar.LAYERS:
+                name=f'{work}/data/{song}.{layer}.json'
+                exists=git(repo,'cat-file','-e',f'{commit}:{name}',check=False)
+                if exists.returncode==0: current[layer]=scholar.sha(read_json(name))
+            if proof.get('layer_sha256',{})!=current:raise ValueError('cited source proof is stale')
+
+
 def submit_essay(repo: Path, payload: dict, push_remote: str | None = None) -> dict:
     snap, approval = payload['snapshot'], payload['signoff']
     work = snap['work']
@@ -188,11 +233,17 @@ def submit_essay(repo: Path, payload: dict, push_remote: str | None = None) -> d
                 f=repo/work/'data'/f'{song}.{layer}.json'
                 if f.exists():current[layer]=scholar.sha(json.loads(f.read_text(encoding='utf-8')))
             if proof.get('layer_sha256',{})!=current:raise ValueError('essay source proof is stale')
+    citations=snap['content'].get('citations', [])
+    base=git(repo,'rev-parse','HEAD').stdout.strip()
+    validate_essay_citations(repo,base,citations)
     entry = {'format':'scholar-essay/1','work':work,'target':snap['target'],'title':snap['title'],
              'text':snap['content']['text'],'author':payload['author'],'author_id':payload['account_id'],
              'identity_state':'SELF_ATTESTED','rights':approval['rights'],'signoff':approval,'snapshot':snap,
              'assisted':bool(snap['content'].get('assisted')),'model':str(snap['content'].get('model',''))[:120],
-             'validation_scope':'essay structure and declared source link'}
+             'validation_scope':'essay structure and declared source links'}
+    if citations:
+        entry['source_git_commit']=base
+        entry['citation_note']='T1 references and proof checked at source_git_commit; projection hashes are client-reported.'
     digest = scholar.sha(entry); entry['essay_id'] = 'essay:'+digest
     ref = f'refs/heads/scholar/essay-{digest}'
     with SUBMISSION_LOCK:
@@ -200,7 +251,6 @@ def submit_essay(repo: Path, payload: dict, push_remote: str | None = None) -> d
         if existing.returncode == 0:
             commit = existing.stdout.strip()
         else:
-            base = git(repo,'rev-parse','HEAD').stdout.strip()
             with tempfile.TemporaryDirectory(prefix='scholar-essay-') as directory:
                 checkout = Path(directory)/'checkout'; added = False
                 try:

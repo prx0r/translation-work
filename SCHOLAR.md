@@ -335,3 +335,19 @@ proxy, Git remote credentials, token distribution, branch review, and site deplo
 still need operator configuration. The browser sends the token to the configured server
 and does not store it. This token system associates an account with a configured name;
 it is not independent verification of a scholar's identity.
+
+### Signed essay passage references
+
+An essay snapshot may include a `citations` array (up to ten distinct
+`{work,target,t1_sha256,projection_sha256}` objects). It is part of the exact
+snapshot covered by author sign-off. The account bridge validates each cited
+work and passage against a committed Git tree, checks its proof gate and T1
+hash, and records `source_git_commit` in the resulting essay object. When a
+source manifest exists, the bridge also checks the proof's current layer hashes.
+Ghaṭakarpara references remain withheld pending source alignment repair.
+
+The projection hash is a client-reported reference, not authenticated by this
+bridge. A passing deterministic proof is not a human philological review. The
+bridge does not determine whether a passage supports an essay's argument or
+verify external scholarly citations. Earlier essays without this optional field
+continue to be accepted. Do not place private notebook notes in public citations.
