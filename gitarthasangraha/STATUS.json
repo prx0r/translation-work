@@ -1,18 +1,23 @@
 {
   "work": "gitarthasangraha",
   "updated": "2026-11-04",
-  "next": "L0 for gita-a00 (forks: v1 ety/bhāvanāvaśatam/śivāpahaḥ; v2 sāstraṃ + mādhānyataḥ; v3 prathiḥ — consult Sharma emendations later) → argmap → L2 → C1 → L3 → L4; then gita-a01 onward, one slice at a time.",
+  "next": "gita-a01 (adhyāya 1, 48 units) onward — one slice at a time; then a02..a18. Owner: first-verse L4 voice verdict (gita-a00-v01). Site ABSTENTION skeleton written (owner commits ipvv).",
   "counts": {
-    "songs": 19,
-    "units": 740,
-    "benedictory": 6,
-    "kashmir_recension_verses": 716,
-    "saṃgraha_units": 18
+    "songs_total": 19,
+    "songs_done": 1,
+    "benedictory_verses": 6,
+    "l0_parsed": 58,
+    "l0_ambiguous": 0,
+    "l0_failed": 0,
+    "l0_forks_live": 5,
+    "l4_drafts": 6,
+    "l4_with_craft": 6
   },
-  "notes": "P0 (owner 2026-11-04: all Abhinavagupta works on disk; longer ones last). Source: Muktabodha M00244 IAST (complete to colophon), CC BY-NC 4.0, vendored ipvv + byte-pinned via intake (740 segments, hash-chained manifest, validate_segments CLEAN, workcfg kind=segments resolves 19 songs / 740 abs verses). Scholarly grounding: Kashmir recension (K) with 15 extra verses vs vulgate — Bansat-Boudon/Törzsök critical-edition series, Schrader 1930, Pandita/Marjanovic confirmations; wisdomlib per-chapter K counts reconcile exactly (716 + 6 benedictory + 18 saṃgraha = 740 units). See SOURCE-NOTES.md. Machine-proposed until human review; C2 waived per owner. T1 gita-a00 drafted 2026-11-04 (T1-gita-a00.md + cm/t1-qe.json): 6 benedictory verses, pada-split, 5 forks flagged; witnesses logged (Sharma translation w/ Ingalls preface — print corrupt per Ingalls; TextGrid TEI collation candidate).",
+  "notes": "SLICE 1/19 (MACHINE_PROPOSED) 2026-11-04: gita-a00 (six benedictory verses). L0 hand-crafted 58 tok 100% PARSED with 5 LIVE forks (mādhānyataḥ prime: neutral surface, 3 emend candidates recorded; ety/śivāpaha/bhāvanāvaśata/iyānprathiḥ also live; grounds cite Ingalls print-corruption + pending Gita Supersite/Sharma-1983 collation) / T1 md+jsonl+report (paratext excluded, paratext scope) / argmaps 6 (sha 6a98eb15da125792; mādhānyataḥ option_choices = honest-gap record) / L2 6 (cites pipe-exact) / C1 essence 6 + 7-part + rasa adbhuta-śānta (0 quotes, 0 shared) / L3 6 (forks noted, held) / L4 6 DRAFTs craft+rejected+read-aloud / c1 md / site ABSTENTION. validate 0, proof PASS (ALIGN v1 disposition: paratext-scope, tools/proof-disp.json), qa NEEDS_WITNESS, check.py CANONICAL. Witnesses: Sharma 1983 (English, emendations) + Gita Supersite pending as collation/witness. C2 waived per owner. OPEN: first-verse L4 voice verdict; human review.",
   "needs": [
-    "human-review (machine-proposed, per skill)",
-    "first T1 slice: gita-a00"
+    "first-verse L4 voice verdict (owner)",
+    "human-review (machine-proposed)",
+    "Sharma 1983 quote for qa witness (future)"
   ],
-  "rasa": "TBD (C1 when reached; rasa file consulted per drill step 3)"
+  "rasa": "adbhuta-śānta of the treasury opened (wonder at the work’s own store)"
 }
