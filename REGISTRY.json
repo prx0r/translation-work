@@ -819,11 +819,14 @@
   },
   {
    "work": "tantrasara-a21",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold (machine-proposed)",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 13,
+   "l4_songs": 1,
+   "l4_verses": 13,
+   "note": "2026-11-04: GOLD #39 (machine-proposed) — 13 units incl. 2 Prakrit seal verses, L0 239tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a22",

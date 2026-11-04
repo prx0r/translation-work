@@ -1,17 +1,20 @@
 {
- "work": "tantrasara-a21",
- "updated": "2026-10-30",
- "next": "batch (A21 done)",
- "counts": {
-  "passages": 1,
-  "verses": 13
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a21-raw.jsonl",
- "r2_verified": true,
- "notes": "pr\u0101m\u0101\u1e47ya: one-fruit + custom",
- "r2_bytes": 14378,
- "needs": [
-  "abstention-review",
-  "citation-grounding"
- ]
+  "work": "tantrasara-a21",
+  "updated": "2026-11-04",
+  "next": "Owner: first-verse L4 voice verdict (tsa-a21-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a10 (18 units).",
+  "counts": {
+    "passages": 1,
+    "verses": 13,
+    "l0_parsed": 239,
+    "l0_ambiguous": 0,
+    "l0_failed": 0,
+    "l4_drafts": 13,
+    "l4_with_craft": 13
+  },
+  "notes": "GOLD #39 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 21 (āgama-prāmāṇya + Prakrit seal; 13 units incl. 2 Prakrit verses u10-11) via workcfg abhts. Full pipeline: L0 hand-crafted 239 tok 100% PARSED (2 fused-span merges: u8 tatheti, u10 daḍhapasiddhighaḍie; u3 mahimnaiva) / T1 md+jsonl+report / argmaps 13/13 (sha 2ead2dbd44055604, gate PASS, 0 shared) / L2 13 / C1 essence 13 + 7-part + rasa adbhuta-śānta (0 quotes, 0 shared) / L3 13 handcrafted (0 shared w/ L2) / L4 13 DRAFTs craft+rejected+read-aloud + Prakrit-notes; diacritic gate caught ASCII Siva → fixed Parama-Śiva / c1 md / site ABSTENTION. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
+  "needs": [
+    "first-verse L4 voice verdict (owner)",
+    "human-review (machine-proposed)"
+  ],
+  "rasa": "adbhuta-śānta of authority established (wonder settling into doctrinal calm)"
 }
