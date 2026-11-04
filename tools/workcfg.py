@@ -145,6 +145,12 @@ WORKS = {
         "ahnika": 18,
         "songs": {"tsa-a18": (1, 2)},
     },
+    "tantrasara-a19": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # ahnika 19 = post-mortem/śrāddha initiation: 7 units (19.1 admission; 19.2 corpse-rite; 19.3 joining+burning; 19.4 offering; 19.5 daily; 19.6 knower exempt; 19.7 image-abandonment seal)
+        "ahnika": 19,
+        "songs": {"tsa-a19": (1, 7)},
+    },
     "tantrasara-a17": {
         "source": SITE_SA / "tantrasara.txt",
         "kind": "abhts",  # ahnika 17: 6 units
