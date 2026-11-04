@@ -1,23 +1,23 @@
 {
-  "work": "sivastotravali",
-  "updated": "2026-11-01",
-  "next": "human-review (MACHINE_PROPOSED) \u2014 all 20 songs canonical, awaiting signoff",
-  "counts": {
-    "songs": 20,
-    "songs_canonical": "s01\u2013s20",
-    "songs_legacy": "none",
-    "verses": 450
-  },
-  "notes": "Canonical transform 2026-11-01: all 20 songs in target format (T1 pada-split/L0/argmap/L2/C1, proof PASS, concepts 56/56). s01-s07 hand-refined (C1 rasa, argmap). s08-s20 T1 pada-split (identity glosses), L0 backfilled (morph unknown), C1 rasa evocative, meta 0, shared 0. Argmap premises from L2 (not terse logical) for s08-s20. L2 plain (not rasa-carried). Peer reviews: all 20 songs. MANUAL REVIEW needed for s08-s20 depth (T1 gloss refinement, L0 morph, argmap terse logical, L2 rasa-carried). s07 T1 pada-split (82 tokens, identity glosses) + L0 (82 tokens) handcrafted. s08 L0 morph analyzed (167 tokens, 0 unknown). s08-s20 L2 rasa-carried: \u015b\u0101nta/v\u012bra/\u0101nanda/bhakti with adbhuta/karu\u1e47a shading; L2 is plain translation, rasa lives in C1 (evocative). Word choices from L2-sXX.md (machine-proposed, needs sharpening). Verified by hand. s01-s05 rasa blocks filled (bhakti/\u015b\u0101nta/\u015b\u1e5b\u1e45g\u0101ra/bhakti/karu\u1e47a with adbhuta). All 20 songs now have evocative rasa blocks. s02 peer review written. s03-s05 peer reviews written. s01 peer review written. All 20 songs now have peer reviews. s07 T1 pada-split (82 tokens, identity glosses) + L0 (82 tokens) handcrafted.",
-  "needs": [
-    "human-review (MACHINE_PROPOSED)",
-    "hand-refine s08\u2013s20 for rasa/argmap depth"
-  ],
-  "data_objects": {
-    "schema": "schemas v1.1.0",
-    "validation": "0 errors",
-    "proof": "proof/proof-s01..s20.json \u2014 PASS"
-  },
-  "rasa": "varies per song (machine-proposed)",
-  "mistake_review": "mechanical bars PASS; depth review pending"
+ "work": "sivastotravali",
+ "updated": "2026-11-04",
+ "next": "human-review (MACHINE_PROPOSED) — all 20 songs canonical, awaiting signoff",
+ "counts": {
+  "songs": 20,
+  "songs_canonical": "s01–s20",
+  "songs_legacy": "none",
+  "verses": 450
+ },
+ "notes": "Canonical transform 2026-11-01: all 20 songs in target format (T1 pada-split/L0/argmap/L2/C1, proof PASS, concepts 56/56). s01-s07 hand-refined (C1 rasa, argmap). s08-s20 T1 pada-split (identity glosses), L0 backfilled (morph unknown), C1 rasa evocative, meta 0, shared 0. Argmap premises from L2 (not terse logical) for s08-s20. L2 plain (not rasa-carried). Peer reviews: all 20 songs. MANUAL REVIEW needed for s08-s20 depth (T1 gloss refinement, L0 morph, argmap terse logical, L2 rasa-carried). s07 T1 pada-split (82 tokens, identity glosses) + L0 (82 tokens) handcrafted. s08 L0 morph analyzed (167 tokens, 0 unknown). s08-s20 L2 rasa-carried: śānta/vīra/ānanda/bhakti with adbhuta/karuṇa shading; L2 is plain translation, rasa lives in C1 (evocative). Word choices from L2-sXX.md (machine-proposed, needs sharpening). Verified by hand. s01-s05 rasa blocks filled (bhakti/śānta/śṛṅgāra/bhakti/karuṇa with adbhuta). All 20 songs now have evocative rasa blocks. s02 peer review written. s03-s05 peer reviews written. s01 peer review written. All 20 songs now have peer reviews. s07 T1 pada-split (82 tokens, identity glosses) + L0 (82 tokens) handcrafted. Beauty-pass assessment 2026-11-04: 450v in 20 song-level DRAFTs (terse per-verse craft present). Option A (recommended): convert to ~450 per-verse new-schema files, same pattern as bodhavilasa (56v); estimate 3-4 sessions. Option B (deferred, owner call): line-level re-craft. Register question (archaic vs contemporary diction, cf. stavacintamani flag) should be settled by owner BEFORE any line work.",
+ "needs": [
+  "human-review (MACHINE_PROPOSED)",
+  "hand-refine s08–s20 for rasa/argmap depth"
+ ],
+ "data_objects": {
+  "schema": "schemas v1.1.0",
+  "validation": "0 errors",
+  "proof": "proof/proof-s01..s20.json — PASS"
+ },
+ "rasa": "varies per song (machine-proposed)",
+ "mistake_review": "mechanical bars PASS; depth review pending"
 }

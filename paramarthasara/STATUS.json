@@ -1,6 +1,6 @@
 {
  "work": "paramarthasara",
- "updated": "2026-10-30",
+ "updated": "2026-11-04",
  "next": "batch (paramarthasara done)",
  "counts": {
   "passages": 12,
@@ -12,7 +12,7 @@
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-paramarthasara-raw.jsonl",
  "r2_bytes": 35207,
  "r2_verified": true,
- "notes": "SOURCE from GRETIL; 104 karikas (Paramarthasara), 12 passages. T1 now has proper hyperliteral glosses (12 PARSED).",
+ "notes": "SOURCE from GRETIL; 104 karikas (Paramarthasara), 12 passages. T1 now has proper hyperliteral glosses (12 PARSED). Beauty-pass assessment 2026-11-04: ~100v in MIXED granularity (4 per-verse new-schema + 1 range file v05-v10 + 11 song-level lists). Normalization = convert all to per-verse new-schema files (preserve lines+old craft, add sthāyin/scans/reads_against) — same mechanical pattern as sambandhasiddhi/bodhavilasa conversions; estimate 1-2 sessions. Owner nod needed (Abhinavagupta summary-kārikā, high value).",
  "needs": [
   "abstention-review",
   "citation-grounding",

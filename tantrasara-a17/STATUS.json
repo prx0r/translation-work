@@ -1,1 +1,17 @@
-{"counts": {"l0_ambiguous": 0, "l0_failed": 0, "l0_parsed": 94, "passages": 1, "verses": 6}, "needs": ["first-verse L4 voice verdict (owner)", "human-review (machine-proposed, after full transform)"], "next": "Owner: first-verse L4 voice verdict (tsa-a17-v01) + human review (machine-proposed throughout). Next Abhinavagupta shortest-first: tantrasara-a19 (7v).", "notes": "GOLD #35 (MACHINE_PROPOSED) 2026-11-04: Abhinavagupta Tantrasara ahnika 17 (lingoddhara, 6 prose units) via workcfg GRETIL span route. Full pipeline: T1 span-exact / L0 94 tok 100% PARSED 0 drift / argmaps 6/6 (0 shared) / L2 plain-English byte-exact cites / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 6 (0 shared w/ L2) / L4 6 DRAFTs song-set w/ craft_notes+rejected-killers (audit-aligned) / C2 eli5+genz full coverage / c1.NOTE. validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review.", "updated": "2026-11-04", "work": "tantrasara-a17"}
+{
+ "counts": {
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 94,
+  "passages": 1,
+  "verses": 6
+ },
+ "needs": [
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed, after full transform)"
+ ],
+ "next": "Owner: first-verse L4 voice verdict (tsa-a17-v01) + human review (machine-proposed throughout). Next Abhinavagupta shortest-first: tantrasara-a19 (7v).",
+ "notes": "GOLD #35 (MACHINE_PROPOSED) 2026-11-04: Abhinavagupta Tantrasara ahnika 17 (lingoddhara, 6 prose units) via workcfg GRETIL span route. Full pipeline: T1 span-exact / L0 94 tok 100% PARSED 0 drift / argmaps 6/6 (0 shared) / L2 plain-English byte-exact cites / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 6 (0 shared w/ L2) / L4 6 DRAFTs song-set w/ craft_notes+rejected-killers (audit-aligned) / C2 eli5+genz full coverage / c1.NOTE. validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review. Beauty-pass verify-only 2026-11-04 (machine-proposed): 6 units read aloud — injunction catalogue holds; no re-craft. Voice verdict + human review still owner-side.",
+ "updated": "2026-11-04",
+ "work": "tantrasara-a17"
+}

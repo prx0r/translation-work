@@ -12,7 +12,7 @@
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-sivasutra-raw.jsonl",
  "r2_bytes": 22407,
  "r2_verified": true,
- "notes": "GOLD #28 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (75 sutras, 8 songs). Legacy 6-passage batch files superseded (kept, not canonical). validate+proof PASS x8; check.py CANONICAL 0 failures; qa SHIP_AS_IS x8 vs vendored legacy L2 witness (lore/witnesses/legacy-sivasutra-l2.json, 75 sutras).. OPEN: first-verse L4 voice verdict (owner); human review.",
+ "notes": "GOLD #28 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (75 sutras, 8 songs). Legacy 6-passage batch files superseded (kept, not canonical). validate+proof PASS x8; check.py CANONICAL 0 failures; qa SHIP_AS_IS x8 vs vendored legacy L2 witness (lore/witnesses/legacy-sivasutra-l2.json, 75 sutras).. OPEN: first-verse L4 voice verdict (owner); human review. Beauty-pass verify-only 2026-11-04 (machine-proposed): 75 sutra-renderings read aloud — compression suits genre (sutra = compressed); no re-craft. Voice verdict + human review still owner-side.",
  "needs": [
   "first-verse L4 voice verdict (owner)",
   "human-review (MACHINE_PROPOSED, after full transform)"

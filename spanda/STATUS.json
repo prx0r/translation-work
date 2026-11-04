@@ -12,7 +12,7 @@
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-spanda-raw.jsonl",
  "r2_bytes": 21309,
  "r2_verified": true,
- "notes": "GOLD #27 (MACHINE_PROPOSED) 2026-11-04: FIRST NIHSYANDA ONLY (vv1-25) — full pipeline T1/L0/argmap/L2/C1/L3/L4/C2; legacy 6-passage ranges superseded (mixed per-nihsyanda numbering). validate+proof PASS x4; check.py CANONICAL 0 failures; qa SHIP_AS_IS x4 vs vendored legacy L2 witness (lore/witnesses/legacy-spanda-l2.json, 25v).. OPEN: first-verse L4 voice verdict (owner); human review.",
+ "notes": "GOLD #27 (MACHINE_PROPOSED) 2026-11-04: FIRST NIHSYANDA ONLY (vv1-25) — full pipeline T1/L0/argmap/L2/C1/L3/L4/C2; legacy 6-passage ranges superseded (mixed per-nihsyanda numbering). validate+proof PASS x4; check.py CANONICAL 0 failures; qa SHIP_AS_IS x4 vs vendored legacy L2 witness (lore/witnesses/legacy-spanda-l2.json, 25v).. OPEN: first-verse L4 voice verdict (owner); human review. Beauty-pass verify-only 2026-11-04 (machine-proposed): 25v read aloud — terse doctrine couplets hold; no re-craft. Voice verdict + human review still owner-side.",
  "needs": [
   "first-verse L4 voice verdict (owner)",
   "human-review (MACHINE_PROPOSED, after full transform)"

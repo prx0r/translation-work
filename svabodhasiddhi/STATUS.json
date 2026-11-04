@@ -12,7 +12,7 @@
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-svabodhasiddhi-raw.jsonl",
  "r2_bytes": 13816,
  "r2_verified": true,
- "notes": "GOLD #24 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (33v, 4 songs) — T1 span-exact w/ Hanneder ms./Sanderson forks; L0 283 100% PARSED 3 forks resolved; argmaps 33/33 0-shared; L2 byte-exact cites; C1 essence+rasa (adbhuta/vira/santa/santa-bhakti); L3 33 couplets; L4 33 DRAFTs sung w/ craft_notes+rejected-killers+reads_against (v21 refrain = svarūpastho seal); C2 eli5+genz full coverage; validate+proof PASS x4; check.py CANONICAL 0 failures; qa SHIP_AS_IS x4 vs vendored legacy L2 witness (lore/witnesses/legacy-svabodhasiddhi-l2.json, 33v).. OPEN: first-verse L4 voice verdict (owner); human review.",
+ "notes": "GOLD #24 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (33v, 4 songs) — T1 span-exact w/ Hanneder ms./Sanderson forks; L0 283 100% PARSED 3 forks resolved; argmaps 33/33 0-shared; L2 byte-exact cites; C1 essence+rasa (adbhuta/vira/santa/santa-bhakti); L3 33 couplets; L4 33 DRAFTs sung w/ craft_notes+rejected-killers+reads_against (v21 refrain = svarūpastho seal); C2 eli5+genz full coverage; validate+proof PASS x4; check.py CANONICAL 0 failures; qa SHIP_AS_IS x4 vs vendored legacy L2 witness (lore/witnesses/legacy-svabodhasiddhi-l2.json, 33v).. OPEN: first-verse L4 voice verdict (owner); human review. Beauty-pass verify-only 2026-11-04 (machine-proposed): 33v read aloud — waking-couplets hold; no re-craft. Voice verdict + human review still owner-side.",
  "needs": [
   "first-verse L4 voice verdict (owner)",
   "human-review (MACHINE_PROPOSED, after full transform)"

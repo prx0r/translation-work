@@ -1,13 +1,13 @@
 {
  "work": "spandasandoha",
- "updated": "2026-11-02",
+ "updated": "2026-11-04",
  "next": "human-review (MACHINE_PROPOSED)",
  "counts": {
   "passages": 1,
   "verses": 2,
   "l0_tokens": 13
  },
- "notes": "2 verses, 1 passage. Spandakārikā 1.1 + Kṣemarāja's Spandasandoha (vivṛti). Crystal rebuild 2026-11-01: T1 per-pada 13 tokens, L0 13/13 PARSED, argmap (terse logical, scholarly refs), L2 2 verses (rasa-carried), C1 1 passage (0 quotes, 0 meta, 0 shared with L2, rasa{} filled: adbhuta/śānta). Proof PASS. All 7 mistake rules PASS. Process log: process/LOG.md. L0 morph analyzed (13 tokens, 0 unknown). T1 pada-split (already). L2 rasa-carried. Peer review done. FULLY HAND-CRAFTED. 2026-11-02 migration 1 obj->2 verses (split 9/4 at rasayati per l2 division): t1/l0/argmap split, l3 split positionally, cites span-exact; check.py CANONICAL 0 failures.",
+ "notes": "2 verses, 1 passage. Spandakārikā 1.1 + Kṣemarāja's Spandasandoha (vivṛti). Crystal rebuild 2026-11-01: T1 per-pada 13 tokens, L0 13/13 PARSED, argmap (terse logical, scholarly refs), L2 2 verses (rasa-carried), C1 1 passage (0 quotes, 0 meta, 0 shared with L2, rasa{} filled: adbhuta/śānta). Proof PASS. All 7 mistake rules PASS. Process log: process/LOG.md. L0 morph analyzed (13 tokens, 0 unknown). T1 pada-split (already). L2 rasa-carried. Peer review done. FULLY HAND-CRAFTED. 2026-11-02 migration 1 obj->2 verses (split 9/4 at rasayati per l2 division): t1/l0/argmap split, l3 split positionally, cites span-exact; check.py CANONICAL 0 failures. Beauty-pass verify-only 2026-11-04 (machine-proposed): 2v read aloud — seal couplets scan; no re-craft. Voice verdict + human review still owner-side.",
  "needs": [
   "human-review (MACHINE_PROPOSED)"
  ],

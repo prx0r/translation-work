@@ -9,11 +9,35 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-04, all committed)
 
-- **35 gold works**, each with T1/L0/argmap/L2/C1/L3 + L4 song +
-  C2 (eli5+genz, [E#]-tagged) + refreshed proofs (layer_sha256 over L3/L4/C2).
-- **Gate green on all 35 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
-  32 (defaults to sivastotravali — loop it when auditing).
-- **REGISTRY.json**: 91 works / 35 gold / 56 pending.
+- **36 gold works** (REGISTRY.json: 91 works / 36 gold / 55 pending).
+  Gate green at completion for all; beauty-pass re-verified CANONICAL per work.
+- **BEAUTY PASS 2026-11-04 (owner directive: pause tantrasara, finish shorter
+  works first; C2 WAIVED going forward — no new eli5/genz)** — Track A complete
+  (16 works → per-verse new-schema DRAFTs w/ craft_notes+rejected-killers+
+  read-aloud+reads_against, machine-proposed): tsa-a02 (4v: DRAFTs built from
+  data + c1.NOTE written + v04 form-label query flagged), pancashloki (5v:
+  owner-approved lines), tsa-a01 (5v: v05 restored hiding+powers, list-file
+  retired, NOTE written), paramarthacarca (8v), anuttarastika (8v),
+  bhairavastava (10v), bodhapancadasika (15v), phrdaya (5 songs→20v),
+  ghatakarpara (21v: stray per-song DRAFT retired), sambandhasiddhi (23v),
+  ajadapramatrsiddhi (27v), kramastotra (30v), bodhavilasa (41v incl. v14
+  edition-numbering gap noted), bhairavanukarana (48v), paryantapancasika
+  (52v), parapravesika (9 passages), isvarasiddhi (56v, all present — no gap).
+  Lines untouched throughout (overlap vs L3 0.78–1.00); draft==data verified.
+  Pre-existing proof BLOCKEDs honestly recorded (legacy T1 ALIGN_NODISP:
+  tsa-a02, tsa-a01, ajad-p01, bhair-p02, pary p06/p07, parapravesika p08,
+  isva p01/p04/p05/p06; stale 11-01 PASS proofs refreshed).
+  Track B verify-only complete (17 works read aloud, no re-craft):
+  anubhavanivedana, spandasandoha, dehastha, rpa, mpa, pdv, saktavijnana,
+  svabodhasiddhi, spanda, sivasutra, ptv pair, vbt (162v spot-checked),
+  a17/a18/a19; stava (120v: musical within archaic-hymn register — register
+  itself flagged for owner verdict, NOT touched).
+  Assessments: paramarthasara (~100v mixed granularity → normalize, 1–2
+  sessions, owner nod); sivastotravali (450v per-song → ~450 per-verse files,
+  3–4 sessions; settle register question first).
+- **Queue now**: paramarthasara normalization (owner nod) → sivastotravali
+  conversion (owner nod + register verdict) → tantrasara-a12 resume (staged,
+  paused) → tantraloka recon batches.
 - **GOAL 2026-11-04 (owner)**: all Abhinavagupta works, shortest first — stotras/prakaraṇas,
   then tantrasara āhnikas (a18→…→a13 by verse count), then tantraloka āhnikas (a34→…→a15).
   Sambandhasiddhi (gold, attribution uncertain) excluded pending verification.
@@ -104,6 +128,12 @@ edit THIS file in the same commit — never leave it behind.*
    (L4 mirrors L3, subset-valid; upstream fix = edit frozen L3 = owner).
 4. **tantrasara-a01/a02 legacy dirs** — superseded by gold data dirs;
    archive or keep (rule 4: never import legacy).
+5. **stavacintamani + sivastotravali register** — 120v/450v sung in archaic-hymn
+   diction (thee/e'en/pray/yea) vs license-ledger contemporary-diction rule.
+   Deliberate consistent house-voice choice; do not touch without direction:
+   approve register, order modernization, or kill with direction.
+6. **paramarthasara normalization + sivastotravali conversion** — owner nod to
+   schedule (1–2 sessions + 3–4 sessions); tantrasara-a12 resume order after.
 
 ## CANONICAL CHECKLIST (re-verified against all skill files 2026-11-04)
 
