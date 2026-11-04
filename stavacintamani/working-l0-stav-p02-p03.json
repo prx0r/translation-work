@@ -154,7 +154,7 @@
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "live",
+  "fork": "resolved",
   "morph": "2sg.imp.act √bhū + antar vs m.voc.sg (antar-bhava)"
  },
  {
@@ -407,7 +407,7 @@
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "live",
+  "fork": "resolved",
   "morph": "2sg.imp.act √bhū vs m.voc.sg (bhava)"
  },
  {
@@ -432,7 +432,7 @@
   ],
   "chosen_index": 0,
   "status": "AMBIGUOUS",
-  "fork": "live",
+  "fork": "resolved",
   "morph": "n.acc.sg (bhāvat + ka?)"
  },
  {
@@ -1160,7 +1160,7 @@
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "live",
+  "fork": "resolved",
   "morph": "m.gen.sg (dhūrjaṭi)"
  },
  {
@@ -1411,10 +1411,12 @@
     "grounds": "Demonstrative te (nom.pl of tad): they who are striving."
    }
   ],
-  "chosen_index": 0,
+  "chosen_index": 1,
   "status": "PARSED",
-  "fork": "live",
-  "morph": "m.nom.pl (tad) vs 2sg.enclitic (te)"
+  "fork": "resolved",
+  "morph": "m.nom.pl (tad) vs 2sg.enclitic (te)",
+  "revised": true,
+  "revise_reason": "T1 your misread enclitic; demonstrative te ... ya (those ... who strive)."
  },
  {
   "id": "stav-p02-v20-p007",
