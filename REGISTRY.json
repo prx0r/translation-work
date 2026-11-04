@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 91,
- "gold": 32,
+ "gold": 33,
  "partial": 0,
- "pending": 59,
+ "pending": 58,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -192,11 +192,15 @@
   },
   {
    "work": "mahopadeshavimshatika",
-   "status": "no-repo (needs source + full build)",
-   "gold": false,
-   "has_data_json": false,
+   "status": "gold",
+   "gold": true,
+   "has_data_json": true,
    "has_process_log": false,
-   "verses": null
+   "verses": 20,
+   "note": "2026-11-04: GOLD #33 — Abhinavastotravali print. Full pipeline 20v/2 songs: T1 span-exact / L0 197 tok / argmaps 20/20 / L2 / C1 / L3 / L4 20 DRAFTs / C2 eli5+genz / c1.NOTE x2; validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "l4_songs": 2,
+   "l4_verses": 20,
+   "c2_songs": 2
   },
   {
    "work": "paramarthacarca",
