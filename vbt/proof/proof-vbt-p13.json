@@ -3,9 +3,7 @@
  "song": "vbt-p13",
  "work": "vbt",
  "date": "2026-11-01",
- "blocking": [
-  "DATA_OBJECTS 1 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "source_sha": "c58de6745102901e",
  "source_verses": 10,
@@ -34,15 +32,13 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l4 present without L3 (L4 requires L3 — set the exact line first)"
-  ],
+  "errors": [],
   "counts": {
    "t1": 10,
    "l0": 123,
    "argmap": 10,
    "l2": 10,
-   "l3": 0,
+   "l3": 10,
    "l4": 10,
    "essence": 10,
    "renders": [
@@ -53,15 +49,16 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "2e9d8f646c6c3a4eaece64c63119d09b40e4f32e51974671116faefc8ea668bd",
   "l0": "20591d0dd3407795bcaa207e19dfd0155bcbfecbbe90dd3f6fbd60877d6b6d14",
   "argmap": "9e825a771ad9f51503f4cc4734a902bdce19c363dbbe1fd45834d9912099969b",
   "l2": "935b3c472153100dd643baa3eb8f6dc4766362cae7dcd0a334ec9e45f8716161",
   "c1": "31254eb4c7a5e5f19880e2347b5f580cba8d87d554676b63e1e7b8c50b8912ac",
+  "l3": "c94ea41bdb7f7ecf64108b00a5168743d7ed55c9cc03d1c1ba072b2f8ebd9569",
   "l4": "5e91386c4524d256bdd9d60398b3f5bc64e36b03879ba84cbc23303cdbae6797"
  },
  "lineage": {
