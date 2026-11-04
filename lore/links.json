@@ -1,78 +1,95 @@
 {
- "canonical": "translation-work/lore/links.json",
- "version": "1.0.0",
- "date": "2026-11-02",
- "note": "Verified external links only — every URL below was seen live during research 2026-11-01. No invented deep links: per-text pages are linked only where the slug is known, otherwise catalog/search pages.",
- "works": {
-  "sivastotravali": {
-   "source_edition": "GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)",
-   "links": {
-    "gretil_catalog": "http://gretil.sub.uni-goettingen.de/",
-    "gretil_contribute": "http://gretil.sub.uni-goettingen.de/ (\"Please consider contributing!\")",
-    "muktabodha": "https://muktabodha.org/",
-    "dcs": "http://sanskrit-linguistics.org/dcs/",
-    "ambuda_catalog": "https://ambuda.org/texts/catalog/",
-    "ambuda_code": "https://github.com/ambuda-org/ambuda",
-    "ambuda_discuss": "https://groups.google.com/g/ambuda-discuss",
-    "sarit_repo": "https://github.com/sarit/SARIT-corpus",
-    "hansel_seti": "https://tylerneill.info/kalpataru-diaries (HANSEL companion to GRETIL; SETI index of e-texts)",
-    "sohamhamso_methodology": "https://sohamhamso.org/about/methodology (allied: source_revision pinning, variants-without-emendation, judge-with-rationale; CC-BY-SA 4.0)",
-    "dictionary_lookup": "https://ambuda.org/tools/dictionaries/ (Apte/MW/Shabdasagara/Vacaspatyam pattern for per-word lookup)"
-   }
+  "canonical": "translation-work/lore/links.json",
+  "version": "1.0.0",
+  "date": "2026-11-02",
+  "note": "Verified external links only — every URL below was seen live during research 2026-11-01. No invented deep links: per-text pages are linked only where the slug is known, otherwise catalog/search pages. 2026-11-04: hareesh.org verified (blogpage live-fetched; VBT/slugs from live search).",
+  "works": {
+    "sivastotravali": {
+      "source_edition": "GRETIL sa_utpaladeva-zivastotrAvali.txt (Bailly ed.)",
+      "links": {
+        "gretil_catalog": "http://gretil.sub.uni-goettingen.de/",
+        "gretil_contribute": "http://gretil.sub.uni-goettingen.de/ (\"Please consider contributing!\")",
+        "muktabodha": "https://muktabodha.org/",
+        "dcs": "http://sanskrit-linguistics.org/dcs/",
+        "ambuda_catalog": "https://ambuda.org/texts/catalog/",
+        "ambuda_code": "https://github.com/ambuda-org/ambuda",
+        "ambuda_discuss": "https://groups.google.com/g/ambuda-discuss",
+        "sarit_repo": "https://github.com/sarit/SARIT-corpus",
+        "hansel_seti": "https://tylerneill.info/kalpataru-diaries (HANSEL companion to GRETIL; SETI index of e-texts)",
+        "sohamhamso_methodology": "https://sohamhamso.org/about/methodology (allied: source_revision pinning, variants-without-emendation, judge-with-rationale; CC-BY-SA 4.0)",
+        "dictionary_lookup": "https://ambuda.org/tools/dictionaries/ (Apte/MW/Shabdasagara/Vacaspatyam pattern for per-word lookup)"
+      }
+    },
+    "spandasandoha": {
+      "source_edition": "Muktabodha M00084 (Spandasandoha)",
+      "links": {
+        "muktabodha": "https://muktabodha.org/",
+        "trika_glossary": "https://www.sanskrit-trikashaivism.com/en/trika-glossary-sibilants-and-sonant-aspirate/531 (spanda entry + synonyms: Parāśakti, Pūrṇāhantā, Citi, Mahāhrada, Parāvāk)",
+        "spandakarika_translation": "https://www.sanskrit-trikashaivism.com/en/spanda-karikas-normal-translation-trika-scriptures-non-dual-shaivism-of-kashmir/564",
+        "spandanirnaya": "https://www.sanskrit-trikashaivism.com/en/spanda-nirnaya-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/566",
+        "lakshmanjoo_academy": "https://www.lakshmanjooacademy.org/kashmir-shaivism",
+        "abhinavagupta_org": "https://abhinavagupta.org/tantraloka"
+      }
+    },
+    "ghatakarpara": {
+      "source_edition": "GRETIL (Abhinavagupta Ghatakarpara commentary)",
+      "links": {
+        "gretil_catalog": "http://gretil.sub.uni-goettingen.de/",
+        "wikipedia_sandesha": "https://en.wikipedia.org/wiki/Sandesha_Kavya",
+        "ksts_catalog": "https://list.indology.info/pipermail/indology/attachments/20231118/c36b452d/attachment.pdf (KSTS vol 67: Ghatakarpara Kavya of Kalidasa with Commentary of Abhinavagupta)",
+        "ambuda_catalog": "https://ambuda.org/texts/catalog/",
+        "meghaduta_comparison": "https://en.wikipedia.org/wiki/Sandesha_Kavya (Meghaduta as successor genre)"
+      }
+    },
+    "ajadapramatrsiddhi": {
+      "source_edition": "GRETIL sa_utpaladeva-ajaDapramAtRsiddhi.txt (Kaul KSTS 34, Vasudeva input; TEI 2020)",
+      "links": {
+        "gretil_textgrid": "https://betaportal.textgrid.d.sub.uni-goettingen.de/browse/49mhf.0",
+        "lawrence_2009": "https://philpapers.org/rec/RATISO",
+        "mundra_godbole_2022": "https://www.academia.edu/69537313/The_Aja%E1%B8%8Da_Pram%C4%81t%E1%B9%9B_Siddhi%E1%B8%A5_of_Utpaladeva_A_Translation_Proof_of_the_Conscious_Knower_",
+        "torella_ipk_volume": "http://www.gianfrancobertagni.it/materiali/tantra/torellaut.pdf",
+        "torella_ipk_scan": "http://www.gianfrancobertagni.it/materiali/tantra/torellaisvara.pdf",
+        "maccracken_sambandha_2017": "https://www.mdpi.com/2077-1444/8/11/243",
+        "maccracken_sambandha_2022": "https://www.mdpi.com/2077-1444/14/1/57",
+        "timalsina_vimarsa_2020": "https://journals.uio.no/actaorientalia/article/view/9395",
+        "bhartrhari_svasamvedana_2017": "https://www.mdpi.com/2077-1444/8/8/145",
+        "sep_epistemology_india": "https://plato.stanford.edu/archives/spr2021/entries/epistemology-india/"
+      },
+      "note": "All URLs seen live during research 2026-11-02 (MDPI article bodies 403 to fetch but catalog pages live; excerpts via search). Witnesses: Lawrence 2009 (JIP 37), Mundra & Godbole 2022, Vyas 1989 (print only)."
+    },
+    "vbt": {
+      "source_edition": "GRETIL sa_vijJAnabhairava.txt (162 verses)",
+      "links": {
+        "hareesh_blogpage": "https://hareesh.org/blogpage",
+        "hareesh_vbt_intro_v1": "https://hareesh.org/blog/2022/5/30/vbt-intro-and-verse-one",
+        "hareesh_concordance": "https://hareesh.org/blog/2023/9/27/vijaana-bhairava-tantra-translation-concordance",
+        "hareesh_verse_40_41": "https://hareesh.org/blog/2024/12/7/vijaana-bhairava-tantra-verses-40-amp-41",
+        "hareesh_closing_verses": "https://hareesh.org/blog/2025/9/30/the-closing-verses-of-the-vijana-bhairava-tantra",
+        "hareesh_tantra112": "https://hareesh.org/blog/2026/2/28/tantra112"
+      }
+    },
+    "spanda": {
+      "source_edition": "GRETIL sa_vasugupta-spandakArikA.txt (first nihsyanda 25v)",
+      "links": {
+        "hareesh_blogpage": "https://hareesh.org/blogpage (Spanda-Karika category in nav)"
+      }
+    }
   },
-  "spandasandoha": {
-   "source_edition": "Muktabodha M00084 (Spandasandoha)",
-   "links": {
-    "muktabodha": "https://muktabodha.org/",
-    "trika_glossary": "https://www.sanskrit-trikashaivism.com/en/trika-glossary-sibilants-and-sonant-aspirate/531 (spanda entry + synonyms: Parāśakti, Pūrṇāhantā, Citi, Mahāhrada, Parāvāk)",
-    "spandakarika_translation": "https://www.sanskrit-trikashaivism.com/en/spanda-karikas-normal-translation-trika-scriptures-non-dual-shaivism-of-kashmir/564",
-    "spandanirnaya": "https://www.sanskrit-trikashaivism.com/en/spanda-nirnaya-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/566",
-    "lakshmanjoo_academy": "https://www.lakshmanjooacademy.org/kashmir-shaivism",
-    "abhinavagupta_org": "https://abhinavagupta.org/tantraloka"
-   }
+  "contribution_channels": {
+    "suggest_here": "translation-work/tools/propose.py (propose -> support -> accept; git JSON diffs; signoff = agreement)",
+    "upstream_texts": "GRETIL (contact), Ambuda proofing (account + Needs work/Proofed statuses), SARIT (fork/PR per documented Jane/Jack workflow)",
+    "upstream_method": "sohamhamso methodology (compatible: variants column, judge rationale, source_revision)",
+    "gold_sources": [
+      "sanskrit-trikashaivism.com (Trika Glossary — gold reference for Trika terminology, 325 terms, organized by Sanskrit alphabet)",
+      "Abhinavagupta.org (Tantrāloka + commentary)",
+      "Lakshmanjoo Academy (oral tradition, verified quotes)",
+      "Dyczkowski (The Stanzas on Vibration, 1992 — Spandasandoha translation + commentary)"
+    ]
   },
-  "ghatakarpara": {
-   "source_edition": "GRETIL (Abhinavagupta Ghatakarpara commentary)",
-   "links": {
-    "gretil_catalog": "http://gretil.sub.uni-goettingen.de/",
-    "wikipedia_sandesha": "https://en.wikipedia.org/wiki/Sandesha_Kavya",
-    "ksts_catalog": "https://list.indology.info/pipermail/indology/attachments/20231118/c36b452d/attachment.pdf (KSTS vol 67: Ghatakarpara Kavya of Kalidasa with Commentary of Abhinavagupta)",
-    "ambuda_catalog": "https://ambuda.org/texts/catalog/",
-    "meghaduta_comparison": "https://en.wikipedia.org/wiki/Sandesha_Kavya (Meghaduta as successor genre)"
-   }
-  },
-  "ajadapramatrsiddhi": {
-   "source_edition": "GRETIL sa_utpaladeva-ajaDapramAtRsiddhi.txt (Kaul KSTS 34, Vasudeva input; TEI 2020)",
-   "links": {
-    "gretil_textgrid": "https://betaportal.textgrid.d.sub.uni-goettingen.de/browse/49mhf.0",
-    "lawrence_2009": "https://philpapers.org/rec/RATISO",
-    "mundra_godbole_2022": "https://www.academia.edu/69537313/The_Aja%E1%B8%8Da_Pram%C4%81t%E1%B9%9B_Siddhi%E1%B8%A5_of_Utpaladeva_A_Translation_Proof_of_the_Conscious_Knower_",
-    "torella_ipk_volume": "http://www.gianfrancobertagni.it/materiali/tantra/torellaut.pdf",
-    "torella_ipk_scan": "http://www.gianfrancobertagni.it/materiali/tantra/torellaisvara.pdf",
-    "maccracken_sambandha_2017": "https://www.mdpi.com/2077-1444/8/11/243",
-    "maccracken_sambandha_2022": "https://www.mdpi.com/2077-1444/14/1/57",
-    "timalsina_vimarsa_2020": "https://journals.uio.no/actaorientalia/article/view/9395",
-    "bhartrhari_svasamvedana_2017": "https://www.mdpi.com/2077-1444/8/8/145",
-    "sep_epistemology_india": "https://plato.stanford.edu/archives/spr2021/entries/epistemology-india/"
-   },
-   "note": "All URLs seen live during research 2026-11-02 (MDPI article bodies 403 to fetch but catalog pages live; excerpts via search). Witnesses: Lawrence 2009 (JIP 37), Mundra & Godbole 2022, Vyas 1989 (print only)."
-  }
- },
- "contribution_channels": {
-  "suggest_here": "translation-work/tools/propose.py (propose -> support -> accept; git JSON diffs; signoff = agreement)",
-  "upstream_texts": "GRETIL (contact), Ambuda proofing (account + Needs work/Proofed statuses), SARIT (fork/PR per documented Jane/Jack workflow)",
-  "upstream_method": "sohamhamso methodology (compatible: variants column, judge rationale, source_revision)",
-  "gold_sources": [
-   "sanskrit-trikashaivism.com (Trika Glossary — gold reference for Trika terminology, 325 terms, organized by Sanskrit alphabet)",
-   "Abhinavagupta.org (Tantrāloka + commentary)",
-   "Lakshmanjoo Academy (oral tradition, verified quotes)",
-   "Dyczkowski (The Stanzas on Vibration, 1992 — Spandasandoha translation + commentary)"
+  "rules": [
+    "Outbound links only to verified URLs (this file). Never invent per-text deep links.",
+    "Witness text never hosted, never in site data; grounds cite, quotes <=25 words.",
+    "Our glosses are ours; witnesses are signals with source tags, never ground truth.",
+    "Upstream fixes (typos in GRETIL etc.) go upstream via their channels; we record edition + line, never silently emend."
   ]
- },
- "rules": [
-  "Outbound links only to verified URLs (this file). Never invent per-text deep links.",
-  "Witness text never hosted, never in site data; grounds cite, quotes <=25 words.",
-  "Our glosses are ours; witnesses are signals with source tags, never ground truth.",
-  "Upstream fixes (typos in GRETIL etc.) go upstream via their channels; we record edition + line, never silently emend."
- ]
 }
