@@ -1,5 +1,5 @@
 {
- "craft_notes": "Sthāyin adbhuta (cosmic goose). Catalogue commas then dash-hold; colon lands on the song-act. Rejected: internal rhyme 'farer/prayer' — unneeded slant; dropped. Read aloud: farer held, sing released.",
+ "craft_notes": "Sthāyin: adbhuta (cosmic goose). Device: dash→comma line 1 (bearing stated softly), end-dash→colon (force released into song). Bright: egg, sky, faring, Swan. Rejected: 'goose' for 'Swan' — killed: L3 chose Swan, stands; explaining the simile — killed: image left standing, row 10. Read aloud: lands on close.",
  "form": "couplet",
  "l4": {
   "verse_id": "stav-p01-v08",
@@ -27,11 +27,10 @@
   "form": "couplet",
   "needs": [
    "human-review"
-  ],
-  "notes": []
+  ]
  },
  "reads_against": {
-  "argmap": "World-egg-wombing; of sky-pervading, of all-going, of supreme-Lord-goose. → Praise the goose-like power of the supreme goose.",
+  "argmap": "World-egg-wombing; of sky-pervading, of all-going, of supreme-Lord-goose.; Power — goose-like — we praise. → Praise the goose-like power of the supreme goose.",
   "c1_essence": [
    "Sthāṇu beyond minute and great; goose-power praised; groundless world-picture bowed."
   ],
@@ -57,7 +56,49 @@
    "Egg-bearer of the cosmos — of the sky-filler, the all-farer,",
    "the High Swan's force — swanlike we sing."
   ],
-  "t1": "Her who wombs the world-egg — of sky-pervading, all-going supreme-Lord goose — power: goose-like, we praise."
+  "t1": {
+   "verse_id": "stav-p01-v08",
+   "song": "stav-p01",
+   "verse": 8,
+   "quick_english": "Her who wombs the world-egg — of sky-pervading, all-going supreme-Lord goose — power: goose-like, we praise.",
+   "quick_english_source": "manual",
+   "tokens": [
+    {
+     "surface": "brahmāṇḍagarbhiṇīṃ",
+     "quick_gloss": "world-egg-wombing"
+    },
+    {
+     "surface": "vyomavyāpinaḥ",
+     "quick_gloss": "of-sky-pervading"
+    },
+    {
+     "surface": "sarvatogateḥ",
+     "quick_gloss": "of-all-going"
+    },
+    {
+     "surface": "parameśvarahaṃsasya",
+     "quick_gloss": "of-supreme-Lord-goose"
+    },
+    {
+     "surface": "śaktiṃ",
+     "quick_gloss": "power"
+    },
+    {
+     "surface": "haṃsīm",
+     "quick_gloss": "goose"
+    },
+    {
+     "surface": "iva",
+     "quick_gloss": "like"
+    },
+    {
+     "surface": "stumaḥ",
+     "quick_gloss": "we-praise"
+    }
+   ],
+   "forks_noted": [],
+   "t1_notes": []
+  }
  },
- "status": "DRAFT — not in data/ until owner verdicts accumulate"
+ "status": "DRAFT — voice verdict outstanding"
 }

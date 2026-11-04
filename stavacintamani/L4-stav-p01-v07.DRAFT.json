@@ -1,12 +1,12 @@
 {
- "craft_notes": "Sthāyin vismaya at measurelessness. Dash moved to line-1 end holds both comparatives; colon lands line 2 on the epithet. Rejected: 'atom and Alp' rhyme — slant needs new doctrine; dropped (subset rule). Read aloud: both, Pillar.",
+ "craft_notes": "Sthāyin: vismaya at measurelessness. Device: end-dash→comma (measuring softens), mid-dash→colon (hail lands). Bright: mote, mountain, egg, Pillar — measure glowing. Rejected: 'grain/summit' rhyme — killed: slant smuggles doctrine; vocative 'O Pillar' — killed: dative offering, and hail already carries address. Read aloud: lands on close.",
  "form": "couplet",
  "l4": {
   "verse_id": "stav-p01-v07",
   "song": "stav-p01",
   "verse": 7,
   "lines": [
-   "Finer than the sacred-syllable half-mora crown, to mote and mountain both —",
+   "Finer than the sacred-syllable half-mora crown — to mote and mountain both,",
    "wider than the world-egg: hail the traitless-traited, the Pillar."
   ],
   "sanskrit_cite": "praṇavordhvārdhamātrāto 'py aṇave mahate punaḥ brahmāṇḍād api nairguṇyaguṇāya sthāṇave namaḥ",
@@ -29,11 +29,10 @@
   "form": "couplet",
   "needs": [
    "human-review"
-  ],
-  "notes": []
+  ]
  },
  "reads_against": {
-  "argmap": "Than praṇava's upper half-mora even, to the minute, again to the great. → Bow to Sthāṇu beyond measure, minute and great, qualified by qualitylessness.",
+  "argmap": "Than praṇava's upper half-mora even, to the minute, again to the great.; Than the world-egg even: to qualityless-qualified, to Sthāṇu — bow. → Bow to Sthāṇu beyond measure, minute and great, qualified by qualitylessness.",
   "c1_essence": [
    "Sthāṇu beyond minute and great; goose-power praised; groundless world-picture bowed."
   ],
@@ -61,7 +60,61 @@
    "Finer than the sacred-syllable half-mora crown — to mote and mountain both,",
    "wider than the world-egg — hail the traitless-traited, the Pillar."
   ],
-  "t1": "Finer than praNava’s upper half-mora even — to the minute, to the great again; greater than the world-egg even — to the qualityless-qualified, to SthANu: bow."
+  "t1": {
+   "verse_id": "stav-p01-v07",
+   "song": "stav-p01",
+   "verse": 7,
+   "quick_english": "Finer than praNava’s upper half-mora even — to the minute, to the great again; greater than the world-egg even — to the qualityless-qualified, to SthANu: bow.",
+   "quick_english_source": "manual",
+   "tokens": [
+    {
+     "surface": "praṇavordhvārdhamātrāto",
+     "quick_gloss": "than-praNava-upper-half-mora"
+    },
+    {
+     "surface": "'py",
+     "quick_gloss": "even"
+    },
+    {
+     "surface": "aṇave",
+     "quick_gloss": "to-the-minute"
+    },
+    {
+     "surface": "mahate",
+     "quick_gloss": "to-the-great"
+    },
+    {
+     "surface": "punaḥ",
+     "quick_gloss": "again"
+    },
+    {
+     "surface": "brahmāṇḍād",
+     "quick_gloss": "than-world-egg"
+    },
+    {
+     "surface": "api",
+     "quick_gloss": "even"
+    },
+    {
+     "surface": "nairguṇyaguṇāya",
+     "quick_gloss": "to-qualityless-qualified"
+    },
+    {
+     "surface": "sthāṇave",
+     "quick_gloss": "to-Sthanu"
+    },
+    {
+     "surface": "namaḥ",
+     "quick_gloss": "bow"
+    }
+   ],
+   "forks_noted": [
+    "stav-p01-v07:nairguṇyaguṇāya"
+   ],
+   "t1_notes": [
+    "hard compound; L0 to analyze"
+   ]
+  }
  },
- "status": "DRAFT — not in data/ until owner verdicts accumulate"
+ "status": "DRAFT — voice verdict outstanding"
 }
