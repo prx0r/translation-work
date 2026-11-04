@@ -40,9 +40,9 @@ edit THIS file in the same commit — never leave it behind.*
    2. svabodhasiddhi (~32v, 4 passages) — DONE → gold #24 (full pipeline, L4 sung v01–v33, C2 in place; first-verse voice verdict outstanding)
    3. paratrimshika (~35v, 4 passages) — DONE → gold #25 (full pipeline, L4 sung v01–v36, C2 in place; first-verse voice verdict outstanding)
    4. ptvmadhyama (35v) — DONE → gold #26 (M00044 mula recension rebuilt from markers; full pipeline; first-verse voice verdict outstanding)
-   5. spanda (~24v — passage verse-ranges garbled `20-3`,`16-2`; fix first)
+   5. spanda — DONE → gold #27 (first nihsyanda vv1-25 only; legacy garbled ranges superseded; later nihsyandas out of scope)
    6. sivasutra (~80 sutras, 8 passages, 1.x-3.x numbering) — DONE → gold #28 (75 sutras Kaul Shastri recension; full pipeline; first-verse verdict outstanding)
-   7. vbt (~112v, 17 passages)
+   7. vbt — IN PROGRESS: source+lore+T1 162/162 done, L0 v1-60 done; L0 v61-162 next → HANDOVER-2026-11-04-B.md
 3. **tantrasara-a03–a22** (20) — same pattern, proven twice (a01/a02 gold).
 4. **tantraloka-a01–a37** (37) — the big campaign.
 5. **No-repo source acquisition (5)**: use `tools/intake.py --work X
