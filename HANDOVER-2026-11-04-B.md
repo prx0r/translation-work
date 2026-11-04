@@ -44,34 +44,34 @@ dhāraṇās, vv136+ fruits + colophon (kaṇṭhe lagnā). Legacy vbt batch fil
 2. **T1 162/162 span-exact** — `vbt/working-t1-vbt-p01..p17.json`, byte quirks
    kept (chinddhi, chaktyā, chivaḥ, ma.ṅdalaiḥ, bhittis, =B9haṃ, hoccāraṃ,
    laṣyam, bhavajij…), each flagged in `forks_noted`.
-3. **L0 v1–60** — `vbt/working-l0-vbt-p01..p06.json`, **598 records, 0 schema
-   errors, 0 drift** (gloss inherited from T1 by construction), built with the
-   canonical tool from `vbt/cm/l0cm-v1-60.json` (re-run = byte-identical, the
-   tool's fidelity test).
+3. **L0 COMPLETE 162/162** — `vbt/working-l0-vbt-p01..p17.json`,
+   **1717 records, 0 schema errors, 0 drift** (gloss inherited from T1 by
+   construction), built with the canonical tool from `vbt/cm/l0cm-*.json`
+   (10–12v chunks; v1–60 re-run byte-identical = the tool's fidelity test;
+   T1 gloss-chain shift at v113 caught and corrected mid-batch).
 
 **Scratch policy (owner directive 2026-11-04, now codified in AGENTS.md):**
 ALL intermediates live in this repo — builders in `tools/`, per-work CM/batch
 inputs in `<work>/cm/`. /tmp is never used for translation-work files.
 
-**Immediate next step — L0 v61–162 (102 verses, ~1000 records).**
-The pattern is proven and now canonical:
-- Builder: **`tools/build_l0.py --work vbt --cm <path> [--cm ...]`** — asserts
+**Immediate next step — ARGMAPS (162 verses, 17 songs).**
+Builder recipe (for future works, pattern proven here):
+- **`tools/build_l0.py --work <x> --cm <path> [--cm ...]`** — asserts
   3-way length+surface equality (CM vs `source_spans` vs T1), inherits gloss
-  from T1 (never re-typed), merges into `working-l0-<song>.json` (existing
-  verses of a song kept, named verses replaced). Fidelity-verified against
-  the committed v1–60.
+  from T1 (never re-typed), merges into `working-l0-<song>.json`. Fidelity
+  verified: re-run on committed CM = byte-identical.
 - CM data format: JSON `{verse: [[citation(IAST lemma), morph, grounds],…]}`
   — ONE entry per span token, order == `workcfg.source_spans` order (filter
   `set(tok)!={'|'}`).
-- **Draft CM for v61–70 at `vbt/cm/l0cm-v61-70.DRAFT.json`** — BUT its
-  citations are degraded ASCII (smri/bhu/bhava without diacritics, some
-  half-written). **Fix to proper IAST (smṛ, bhū, bhāva…) in place, then run
-  the builder**, and audit morph strings.
-- For v71–162 dump T1 first (`[surface, quick_gloss]` per verse), then write
-  CM chunks **≤10 verses per file into `vbt/cm/`** (bigger writes corrupted
-  files twice this session — `json.load`-verify each chunk BEFORE feeding it
-  to the builder; the tool fails loudly, never partially writes).
-- After each batch: `schemas/l0.py` validate + T1 drift check + commit.
+- vbt CM provenance: `vbt/cm/l0cm-v1-60.json` + `l0cm-v61-70.json` …
+  `l0cm-v151-162.json` (IAST citations, morph, grounds; ≤12v chunks).
+- After any batch: `schemas/l0.py` validate + T1 drift check + commit.
+- For vbt the REMAINING work starts at argmaps: 17 songs, structured
+  (question/premises/inference/speaker), per-song `sanskrit_sha` computed as
+  `sha256(sp[' '.join(tokens)])[:16]` over the song's verses (see
+  `validate_song` for the exact rule), dharāṇā numbering (vv24–135 = dhāraṇā
+  1–112) noted in premises where useful; zero long-sentence sharing across
+  songs (mechanical scan) — then L2/C1/data/L3/L4/C2 per FINAL-PROCESS.
 
 **Then the rest of the stack** (same as every gold): argmaps → L2 → C1 →
 data emit → L3 → L4 → C2 → `render_c2`/`proof`/`qa` → `check.py --work vbt` →
@@ -146,13 +146,11 @@ red: `check.py --work vbt` = `FAIL data-present`, `FAIL qa-present` only.
 
 ## 6. Next steps (ordered)
 
-1. **vbt → gold #29** (one work at a time): fix
-   `vbt/cm/l0cm-v61-70.DRAFT.json` to IAST → `tools/build_l0.py --work vbt
-   --cm …` → validate + drift → commit; CM v71–162 in ≤10v chunks (same loop);
-   then argmaps ×17 → L2 → C1 (rasa: frame adbhuta-śṛṅgāra, dhāraṇās
-   śānta-vidhi, close śānta) → data emit + legacy MDs → L3/L4 (first-verse
-   verdict flagged) → C2 → gates ×17 → registry gold #29 + todoregistry +
-   STATUS + c1.NOTE ×17.
+1. **vbt → gold #29** (one work at a time): ~~intake~~ ✓ ~~T1 162/162~~ ✓
+   ~~L0 1717 records~~ ✓ → **argmaps ×17** → L2 → C1 (rasa: frame
+   adbhuta-śṛṅgāra, dhāraṇās śānta-vidhi, close śānta) → data emit + legacy
+   MDs → L3/L4 (first-verse verdict flagged) → C2 → gates ×17 → registry
+   gold #29 + todoregistry + STATUS + c1.NOTE ×17.
 2. **Small resolutions**: cross-link paratrimshika↔ptvmadhyama in both STATUS
    + lore; witness-conversion of legacy L2.md for the six golds + re-run qa;
    owner: ptvmadhyama re-aim decision, paramarthadvadasika anomaly.
