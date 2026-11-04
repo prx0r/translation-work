@@ -1,0 +1,18 @@
+{
+  "work": "gitarthasangraha",
+  "updated": "2026-11-04",
+  "next": "T1 gita-a00 (6 benedictory verses) → L0 → per-song drill, one adhyāya at a time (skill drill: ONE target). See SOURCE-NOTES.md for segmentation + recension scholarship.",
+  "counts": {
+    "songs": 19,
+    "units": 740,
+    "benedictory": 6,
+    "kashmir_recension_verses": 716,
+    "saṃgraha_units": 18
+  },
+  "notes": "P0 (owner 2026-11-04: all Abhinavagupta works on disk; longer ones last). Source: Muktabodha M00244 IAST (complete to colophon), CC BY-NC 4.0, vendored ipvv + byte-pinned via intake (740 segments, hash-chained manifest, validate_segments CLEAN, workcfg kind=segments resolves 19 songs / 740 abs verses). Scholarly grounding: Kashmir recension (K) with 15 extra verses vs vulgate — Bansat-Boudon/Törzsök critical-edition series, Schrader 1930, Pandita/Marjanovic confirmations; wisdomlib per-chapter K counts reconcile exactly (716 + 6 benedictory + 18 saṃgraha = 740 units). See SOURCE-NOTES.md. Machine-proposed until human review; C2 waived per owner.",
+  "needs": [
+    "human-review (machine-proposed, per skill)",
+    "first T1 slice: gita-a00"
+  ],
+  "rasa": "TBD (C1 when reached; rasa file consulted per drill step 3)"
+}
