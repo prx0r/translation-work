@@ -870,6 +870,96 @@
    "l4_songs": 1,
    "l4_verses": 4,
    "c2_songs": 1
+  },
+  {
+   "work": "gitarthasangraha",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: ipvv sanskrit/gitarthasangraha.txt, Muktabodha M00244; longer work: translate later)"
+  },
+  {
+   "work": "abhinavabharati",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: ipvv sanskrit/abhinavabharati-vol1..4 + ke, GOS scan OCR; longer work: translate later; Muktabodha clean text behind login)"
+  },
+  {
+   "work": "ipvv-vivrti-vimarsini",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: ipvv sanskrit/ipvv-vol1..3.txt; longest work: translate last)"
+  },
+  {
+   "work": "sivasutravimarsini",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: ipvv sanskrit/sivasutravimarsini.txt)"
+  },
+  {
+   "work": "malinivijayavarttika",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: ipvv sanskrit/mvv.txt, fragmentary survival)"
+  },
+  {
+   "work": "lalded",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: mystics/lalded/SOURCE.txt, Grierson 1920, 109 vakhs; Kashmiri — needs Kashmiri-gloss stage; owner nod before translation)"
+  },
+  {
+   "work": "rupabhavani",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: mystics/rupabhavani/SOURCE.txt, Rahasyopadesha; 146 Vakhs not yet sourced — second acquisition needed)"
+  },
+  {
+   "work": "parmanand",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: mystics/parmanand/SOURCE.txt, Sukti Sar; Kashmiri — needs Kashmiri-gloss stage)"
+  },
+  {
+   "work": "nundrishi",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: mystics/nundrishi/SOURCE.txt, Parimoo; syncretic Rishi — owner decides queue entry)"
+  },
+  {
+   "work": "santosh",
+   "status": "pending (P0: source on disk, translation queued later)",
+   "gold": false,
+   "has_data_json": false,
+   "has_process_log": false,
+   "verses": null,
+   "note": "pending (P0 source on disk: mystics/santosh/SOURCE-EN.pdf, 2 translated poems; Kashmiri Be Soakh Rooh not yet sourced — second acquisition needed; paintings = lore/visual ref only)"
   }
  ],
  "note": "2026-11-04: 30 gold banked (#22 stava + #23-28 six small + #29 vbt 162v + #30 dehastha 16v; all CANONICAL 0 failures at completion, C2 in place; six golds qa re-run vs vendored legacy-L2 witnesses: SHIP_AS_IS + 2 WITH_NOTES adjudicated). 91 total = 30 gold + 61 pending. Pending = 4 no-repo (mahopadeshavimshatika 20v sourced, rahasyapanchadashika 16v sourced, tattvasandoha TBD, paramarthadvadasika 13v SOURCE in hand) + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). GOAL adopted 2026-11-04: all Abhinavagupta works shortest-first (stotras/prakaranas, then tantrasara ahnikas, then tantraloka ahnikas). Standing opens: first-verse L4 voice verdicts, human review, ptvmadhyama Vivrti scope, paratrimshika/ptvmadhyama recension scope."

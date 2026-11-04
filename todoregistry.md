@@ -9,7 +9,10 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-04, all committed)
 
-- **36 gold works** (REGISTRY.json: 91 works / 36 gold / 55 pending).
+- **36 gold works** (REGISTRY.json: 101 works / 36 gold / 65 pending — P0 added
+  10: gitarthasangraha, abhinavabharati, ipvv-vivrti-vimarsini,
+  sivasutravimarsini, malinivijayavarttika + mystics lalded, rupabhavani,
+  parmanand, nundrishi, santosh).
   Gate green at completion for all; beauty-pass re-verified CANONICAL per work.
 - **BEAUTY PASS 2026-11-04 (owner directive: pause tantrasara, finish shorter
   works first; C2 WAIVED going forward — no new eli5/genz)** — Track A complete
