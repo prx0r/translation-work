@@ -729,11 +729,14 @@
   },
   {
    "work": "tantrasara-a12",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold (machine-proposed)",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 10,
+   "l4_songs": 1,
+   "l4_verses": 10,
+   "note": "2026-11-04: GOLD #37 (machine-proposed) — snāna ahnika, full pipeline: T1/L0 145tok 100% PARSED, argmaps 10, L2/C1/L3/L4 10 with craft+rejected+read-aloud, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL 0. OPEN: first-verse L4 voice verdict (owner); human review; site ABSTENTION skeleton (owner commits ipvv)."
   },
   {
    "work": "tantrasara-a13",

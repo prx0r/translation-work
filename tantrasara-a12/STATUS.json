@@ -1,16 +1,20 @@
 {
- "work": "tantrasara-a12",
- "updated": "2026-10-30",
- "next": "batch (A12 done)",
- "counts": {
-  "passages": 1,
-  "verses": 10
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a12-raw.jsonl",
- "r2_verified": true,
- "notes": "sn\u0101na: purity-immersion, 8 forms",
- "r2_bytes": 9527,
- "needs": [
-  "citation-grounding"
- ]
+  "work": "tantrasara-a12",
+  "updated": "2026-11-04",
+  "next": "Owner: first-verse L4 voice verdict (tsa-a12-v01) + human review (machine-proposed throughout). Site skeleton ABSTENTION written (owner commits ipvv). Next Abhinavagupta shortest-first: tantrasara-a13..a16 by count.",
+  "counts": {
+    "passages": 1,
+    "verses": 10,
+    "l0_parsed": 145,
+    "l0_ambiguous": 0,
+    "l0_failed": 0,
+    "l4_drafts": 10,
+    "l4_with_craft": 10
+  },
+  "notes": "GOLD #37 (MACHINE_PROPOSED) 2026-11-04: Abhinavagupta Tantrasara ahnika 12 (snāna) via workcfg span route. Full pipeline: working-t1+L0 rebuilt from cm/ (145 tok 100% PARSED 0 forks, 0 drift; cm/t1-qe.json found clobbered with CM data — quick-English rewritten from lore, noted) / T1 md+jsonl+report / argmaps 10/10 (fill_argmap sha e98101c54f4584a0, 0 shared) / L2 read-prose 10 (0 shared w/ C1) / C1 essence 10 + 7-part + rasa (0 quotes, 0 shared) / L3 10 handcrafted lines (0 shared w/ L2) / L4 10 DRAFTs craft_notes+rejected+read-aloud, L3==L4 verbatim / c1/C1 md / site ABSTENTION skeleton. validate 0 errors, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL 0 failures. Legacy batch files (T1.md, ARGMAP.md, GATE.json, batch.jsonl) kept as historical (rule 4). OPEN: first-verse L4 voice verdict (owner); human review; C2 waived per owner.",
+  "needs": [
+    "first-verse L4 voice verdict (owner)",
+    "human-review (machine-proposed)"
+  ],
+  "rasa": "śānta with vidhi weight (quiescence carrying ritual order)"
 }
