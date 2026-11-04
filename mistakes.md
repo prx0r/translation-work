@@ -113,3 +113,22 @@ file (exit 2, "REFUSING … produced by ipvv tools/ingest_batch.py").** Before a
 bulk write, ask which tool produced the file you are about to replace, and read
 the ownership table in AGENT-MAP.md. Preserve-by-default beats restore-from-git;
 git restore only works for committed sins.
+
+## 19. L4 lines must be sung from the verse's own L3 — verify overlap, never trust memory
+
+The VBT L4 grind (2026-11-04): songs p01-p12 and p15-p17 were sung with the L3
+in front of them and every line shares nearly all its content words with its L3
+(median overlap 1.0). Songs p13-p14 (20 verses) were composed from memory of what
+the verses "should" contain — void-spheres, anusvaras, māyā-counting — while the
+actual v121-140 teach devotion-excess, equal-pairs, net-questions, and sovereign
+speech. Overlap with the true L3: 0.00-0.25. The schema validator passed them
+(0 errors) because traces were copied from the real L3 — the English sang a
+different tantra than the traces proved. The craft_notes even justified the wrong
+lines beautifully, which is worse than no notes: a justification with no named
+rival is decoration, and here the rival (the actual verse) was never read.
+
+The rule, mechanised: **after every L4 batch, run the content-word overlap audit
+(L4 lines vs the verse's own L3 lines); anything below 0.30 is re-sung from the
+extracted L3, argmap, and essence — never defended.** Extract first (L3 lines +
+argmap Q→I + essence + song rasa), then sing. The validator checks traces; only
+the audit checks that the song is about the verse.

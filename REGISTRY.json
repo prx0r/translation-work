@@ -4,10 +4,10 @@
  "date": "2026-11-04",
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
- "total_works": 92,
- "gold": 28,
- "partial": 0,
- "pending": 64,
+  "total_works": 92,
+  "gold": 29,
+  "partial": 0,
+  "pending": 63,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -817,12 +817,15 @@
   },
    {
     "work": "vbt",
-    "status": "in-progress (machine-proposed, needs human review)",
-    "gold": false,
+    "status": "gold",
+    "gold": true,
     "has_data_json": true,
-    "has_process_log": false,
+    "has_process_log": true,
     "verses": 162,
-    "note": "2026-11-04: T1/L0/argmap/L2/C1/L3 COMPLETE 162/162 (17 songs; L0 1717 tok 0 drift; data emitted t1/l0/argmap/l2/c1 x17). L4 140/162 DRAFTs (p01-p14, craft_notes+reads_against, l4 schema 0 errors; data vbt-p01..p14.l4.json). REMAINING: L4 p15-p17 (22v, v141-162) + emit data/*.l3.json x17 (validate currently FAILs 'l4 present without L3' x14 -> 28 gate failures) + proof_record refresh x17 + C2 eli5+genz x17 + c1.NOTE x17 + check.py CANONICAL -> gold #29."
+    "note": "2026-11-04: GOLD #29 — full tantra 162v (17 songs): T1 span-exact / L0 1717 tok 100% PARSED 0 drift / argmaps 162/162 / L2 rasa-carried byte-exact / C1 essence+7-part+rasa / data t1/l0/argmap/l2/c1/l3 x17 / L3 162 couplets handcrafted 0 shared w/ L2 / L4 162 DRAFTs song-set w/ craft_notes+rejected-killers (p13-p14 RE-SUNG from true L3 after 0-overlap audit caught memory-composed lines; mistakes.md #19) / C2 eli5+genz full coverage / c1.NOTE x17 (voice maps, key terms, cruxes); validate 0 x17, proof PASS x17, roundtrip 0 x17, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review (MACHINE_PROPOSED).",
+    "l4_songs": 17,
+    "l4_verses": 162,
+    "c2_songs": 17
    },
   {
    "work": "tantrasara-a01",
@@ -849,5 +852,5 @@
    "c2_songs": 1
   }
  ],
-  "note": "2026-11-04: 28 gold banked (#22 stava + #23-28 six small works, all CANONICAL 0 failures at completion, C2 in place). vbt IN PROGRESS toward gold #29: T1/L0/argmap/L2/C1/L3 162/162 done, L4 140/162 DRAFTs (p01-p14); remaining: L4 p15-p17 (22v) + data/*.l3.json emit (current 28 gate failures: 'l4 present without L3') + proof refresh + C2 + c1.NOTEs + CANONICAL. 64 pending = vbt + 5 no-repo + paramarthadvadasika anomaly + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). Standing opens: first-verse L4 voice verdicts (all recent golds), human review (machine-proposed throughout), paratrimshika/ptvmadhyama recension-pair scope, witness-conversion of legacy L2.md."
+  "note": "2026-11-04: 29 gold banked (#22 stava + #23-28 six small works + #29 vbt 162v full tantra, all CANONICAL 0 failures at completion, C2 in place). 63 pending = 5 no-repo + paramarthadvadasika anomaly + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). Standing opens: first-verse L4 voice verdicts (all recent golds), human review (machine-proposed throughout), paratrimshika/ptvmadhyama recension-pair scope, witness-conversion of legacy L2.md."
 }
