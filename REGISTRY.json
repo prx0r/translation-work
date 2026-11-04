@@ -770,11 +770,14 @@
   },
   {
    "work": "tantrasara-a16",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold (machine-proposed)",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 24,
+   "l4_songs": 1,
+   "l4_verses": 24,
+   "note": "2026-11-04: GOLD #41 (machine-proposed) — 24 units (parokṣa-dīkṣā + jālaprayoga), L0 235tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a17",

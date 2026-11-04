@@ -1,17 +1,20 @@
 {
- "work": "tantrasara-a16",
- "updated": "2026-10-30",
- "next": "batch (A16 done)",
- "counts": {
-  "passages": 1,
-  "verses": 24
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a16-raw.jsonl",
- "r2_verified": true,
- "notes": "parok\u1e63a: dead/living + net-rite",
- "r2_bytes": 12956,
- "needs": [
-  "abstention-review",
-  "citation-grounding"
- ]
+  "work": "tantrasara-a16",
+  "updated": "2026-11-04",
+  "next": "Owner: first-verse L4 voice verdict (tsa-a16-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a11 (25 units) after this batch's review.",
+  "counts": {
+    "passages": 1,
+    "verses": 24,
+    "l0_parsed": 235,
+    "l0_ambiguous": 0,
+    "l0_failed": 0,
+    "l4_drafts": 24,
+    "l4_with_craft": 24
+  },
+  "notes": "GOLD #41 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 16 (parokṣa-dīkṣā + jālaprayoga; 24 units) via workcfg abhts. Full pipeline: L0 hand-crafted 235 tok 100% PARSED (fused-span merges: u1-jīvaṃśa, u2-tathāruci, u4-jñāninaś/ity-ete, u5-kā-kathā, u7-dhūma...+saṃchādya, u8-etenācchādanīya, u9-'tha, u14-sa-ca, u15-na-ca, u17-uddhṛta-'sau, u21-...syaiva, u23-tu, u24-paroṣasyāpi) / T1 md+jsonl+report / argmaps 24/24 (sha 4c1d87b2c67d1a07, gate PASS, 0 shared) / L2 24 / C1 essence 24 + 7-part + rasa adbhuta-śānta (0 quotes, 0 shared; two essence lines re-split after merge-check) / L3 24 handcrafted (7 short units reworded to clear zero-shared) / L4 24 DRAFTs craft+rejected+read-aloud / c1 md / site ABSTENTION. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
+  "needs": [
+    "first-verse L4 voice verdict (owner)",
+    "human-review (machine-proposed)"
+  ],
+  "rasa": "adbhuta-śānta of a rite sequenced (wonder at ordered machinery)"
 }

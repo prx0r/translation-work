@@ -9,7 +9,7 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-04, all committed)
 
-- **40 gold works** (REGISTRY.json: 101 works / 40 gold / 61 pending — tantrasara-a10 GOLD #40 2026-11-04; P0 added
+- **41 gold works** (REGISTRY.json: 101 works / 41 gold / 60 pending — tantrasara-a10 #40 + a16 #41 GOLD 2026-11-04; P0 added
   10: gitarthasangraha, abhinavabharati, ipvv-vivrti-vimarsini,
   sivasutravimarsini, malinivijayavarttika + mystics lalded, rupabhavani,
   parmanand, nundrishi, santosh).
