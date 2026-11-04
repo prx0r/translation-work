@@ -932,17 +932,17 @@
     "gloss": "whose-end",
     "rank": 1,
     "source": "t1-draft",
-    "grounds": "T1 carried; yasya + antaḥ."
+    "grounds": "T1 carried; Vṛtti M00089: antaḥ = dairghyaparisamāptiḥ + kālakṛtā pūrvāparakoṭi (length-termination, temporal prior/posterior limits not obtained)."
    },
    {
     "gloss": "whose-limit",
     "rank": 2,
     "source": "grammar",
-    "grounds": "Limit vs end; open."
+    "grounds": "Limit vs end; Vṛtti dairghya-parisamāpti covers both; T1 end kept."
    }
   ],
   "chosen_index": 0,
-  "status": "AMBIGUOUS",
+  "status": "PARSED",
   "fork": "resolved",
   "morph": "m.gen.sg (yad) + m.nom.sg (anta)"
  },
@@ -982,17 +982,17 @@
     "gloss": "setting",
     "rank": 1,
     "source": "t1-draft",
-    "grounds": "T1 carried; literal only."
+    "grounds": "T1 literal kept; Vṛtti glosses durgam as paricchedo durgamaḥ (impassable delimitation) but does not gloss astaṃ — kept open."
    },
    {
     "gloss": "home",
     "rank": 2,
     "source": "grammar",
-    "grounds": "Home/abode vs setting; open, needs Kṣemarāja."
+    "grounds": "Home/abode vs setting; Vṛtti silent on astaṃ; kept open per mistakes.md #6."
    }
   ],
   "chosen_index": 0,
-  "status": "AMBIGUOUS",
+  "status": "PARSED",
   "fork": "resolved",
   "morph": "n.acc.sg (asta)"
  },
@@ -1409,22 +1409,24 @@
   "citation": "māmi?",
   "options": [
    {
-    "gloss": "me-?",
+    "gloss": "I-shine-forth",
     "rank": 1,
-    "source": "t1-draft",
-    "grounds": "T1 placeholder carried; parsing unknown, left open per mistakes.md #6."
+    "source": "ksemaraja-vivrti",
+    "grounds": "Vṛtti M00089 primary: māmi = paripūrṇatayā sphurāmi eva (I shine forth fully)."
    },
    {
-    "gloss": "me",
+    "gloss": "I-abide-not",
     "rank": 2,
     "source": "grammar",
-    "grounds": "Possible mām + emphatic -i; needs M00089 collation."
+    "grounds": "Vṛtti yadvā alternative: na māmi = na varte (I do not abide); same form."
    }
   ],
   "chosen_index": 0,
-  "status": "AMBIGUOUS",
+  "status": "PARSED",
   "fork": "resolved",
-  "morph": "pron.? (mām + i?; unknown — flagged)"
+  "morph": "1sg.pres.act √sphur?/√vṛt? (māmi per Vṛtti; form uncertain — flagged)",
+  "revised": true,
+  "revise_reason": "T1 me-? placeholder resolved via Vṛtti M00089 primary (paripūrṇatayā sphurāmi); alternative na varte recorded."
  },
  {
   "id": "stav-p04-v37-p009",
