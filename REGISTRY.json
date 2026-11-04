@@ -214,14 +214,15 @@
    "l4_verses": 8,
    "c2_songs": 8
   },
-  {
-   "work": "paramarthadvadasika",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
-  },
+   {
+    "work": "paramarthadvadasika",
+    "status": "no-repo (needs source + full build)",
+    "gold": false,
+    "has_data_json": false,
+    "has_process_log": false,
+    "verses": 13,
+    "note": "2026-11-04 anomaly resolved: dir holds SOURCE.txt with full 13v Sanskrit (Muktabodha-style header, Abhinavagupta attribution, Ramyadeva v13 + colophon) but zero translation files — 'legacy' was wrong, nothing to transform. Needs tools/intake.py byte-spans + full 14-step pipeline. Queued with no-repo intakes."
+   },
   {
    "work": "paramarthasara",
    "status": "gold",
@@ -852,5 +853,5 @@
    "c2_songs": 1
   }
  ],
-  "note": "2026-11-04: 29 gold banked (#22 stava + #23-28 six small works + #29 vbt 162v full tantra, all CANONICAL 0 failures at completion, C2 in place). 63 pending = 5 no-repo + paramarthadvadasika anomaly + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). Standing opens: first-verse L4 voice verdicts (all recent golds), human review (machine-proposed throughout), paratrimshika/ptvmadhyama recension-pair scope, witness-conversion of legacy L2.md."
+  "note": "2026-11-04: 29 gold banked (#22 stava + #23-28 six small works + #29 vbt 162v full tantra, all CANONICAL 0 failures at completion, C2 in place; six golds' qa re-run vs vendored legacy-L2 witnesses: SHIP_AS_IS + 2 WITH_NOTES adjudicated). 63 pending = 6 no-repo (dehastha, mahopadeshavimshatika, paramadvayadvadashika, rahasyapanchadashika, tattvasandoha + paramarthadvadasika with SOURCE.txt 13v in hand) + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). Standing opens: first-verse L4 voice verdicts (all recent golds), human review (machine-proposed throughout), paratrimshika/ptvmadhyama recension-pair scope."
 }

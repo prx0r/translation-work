@@ -45,12 +45,13 @@ edit THIS file in the same commit — never leave it behind.*
     7. vbt — DONE → gold #29 (2026-11-04): T1/L0/argmap/L2/C1/L3 162/162 + L4 162/162 DRAFTs (craft_notes+rejected-killers+reads_against) + data t1/l0/argmap/l2/c1/l3/l4 x17 + C2 eli5+genz full coverage + c1.NOTE x17; validate 0 x17, proof PASS x17, roundtrip 0 x17, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. Discipline events: L3-data emit omission found by gate (28 failures, fixed); p13-p14 L4 memory-composed at 0 L3-overlap, caught by audit, RE-SUNG from true L3 (mistakes.md #19). OPEN: first-verse L4 voice verdict (owner); human review (machine-proposed).
 3. **tantrasara-a03–a22** (20) — same pattern, proven twice (a01/a02 gold).
 4. **tantraloka-a01–a37** (37) — the big campaign.
-5. **No-repo source acquisition (5)**: use `tools/intake.py --work X
-   --source S --segments seg.json --edition E --source-license L` (byte-span
-   pinned segments: song/verse/verse_id/start/end; every non-ws byte covered).
-   Candidates: dehastha, mahopadeshavimshatika, paramadvayadvadashika,
-   rahasyapanchadashika, tattvasandoha. Plus **paramarthadvadasika** —
-   registry says legacy but dir has NO files; resolve or reclassify.
+5. **No-repo source acquisition (6)**: use `tools/intake.py --work X
+    --source S --segments seg.json --edition E --source-license L` (byte-span
+    pinned segments: song/verse/verse_id/start/end; every non-ws byte covered).
+    Candidates: dehastha, mahopadeshavimshatika, paramadvayadvadashika,
+    rahasyapanchadashika, tattvasandoha. Plus **paramarthadvadasika** —
+    anomaly RESOLVED 2026-11-04: SOURCE.txt holds full 13v (nothing to transform;
+    reclassified no-repo, needs intake + full pipeline).
 
 ## Todos (25)
 
