@@ -1,0 +1,42 @@
+# C1 — sakt-p01 (the thirteen named)
+
+## SUMMARY
+
+Thirteen members hold the Śākta wisdom entire, from the bulb's measured site to the thousand-sun radiance of the Goddess. Breath restrained and mind fixed, entry opens; a six-spoked wheel appears, pomegranate-red; the unstruck digit coils serpent-like at the wheel's heart. Naming becomes seeing: the counted doctrine already glows in the body.
+
+## FUNCTION
+
+Lays measurable ground for the ascent and seals it with revealed authority, so every later tremor and rest already owns its place in a counted whole.
+
+## KEY TERMS
+
+sthāna (standing place) — the kanda found by finger-measure; praveśa (entry) — breath restrained, mind cast, wind led middle-ward; rūpa (form) — the seen wheel, consisting of contemplation (cintanātmaka); lakṣa (mark) — the assigned focus, distinct from the sign; lakṣaṇa (sign) — the observed unstruck digit; kanda (bulb) — pomegranate-red, six-spoked station; vijñāna (esoteric doctrine) — supreme thirteenfold knowledge.
+
+## LOCAL CONTEXT
+
+All thirteen members pledged at the opening govern the whole work; raising through return, enacted beyond, are already owed by the list.
+
+## EXPLANATION
+
+The thirteen divide into naming and enacting: vv1-3 count the members whole, vv4-10 walk the first five in the body. Sthāna is found by measure, praveśa by breath-restraint and mind cast exactly, rūpa by teacher-shown vision (a firm six-spoked wheel), lakṣa by steadied mind meeting handled wind, lakṣaṇa by gazing at the serpent-coiled unstruck digit. Vijñāna here means the esoteric doctrine itself (sdv), and śākta carries its Kaula weight.
+
+## BOUNDARY
+
+No piercing happens here, no trembling, no rest. The ladder, the signs, and the repose belong to members pledged but not yet paid.
+
+## RELATED
+
+Trika treatises as the doctrine's carriers (v3); śākta as kaula (sdv) — the Kuṇḍalinī frame present though the name never sounds; Mahānaya thirteenfold table as the ready gloss bank.
+
+## ESSENCE
+
+1. Thirteen members named: the whole Śākta doctrine held in one breath.
+2. Rest, transformation, return: thirteen members, nothing outside.
+3. Supreme wisdom revealed by Śambhu himself across every Trika treatise.
+4. The bulb's site measured: five below the navel, two above — the wheel's station.
+5. Breath held, mind cast there, winds mastered into the middle — that is entry.
+6. Entry sealed by custom; the form shown: horned-pond wheel, six spokes, firm.
+7. Pomegranate-red bulb, third member — form as contemplation itself.
+8. Mind steadied in the middle, obstruction gone — then the mark is given.
+9. The unstruck digit mid-wheel, line-bound, serpent-coiled — the sign.
+10. Her abiding spans high and low, sun and moon, thousand-sun bright.

@@ -1,0 +1,70 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sakt-p03",
+ "work": "saktavijnana",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "79d51c16f65e41c3",
+ "source_verses": 10,
+ "t1_verses": 10,
+ "l0": {
+  "parsed": 110,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 110
+ },
+ "align": {
+  "min_ratio": 0.993,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 30,
+ "c1_words": 445,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 10,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 10,
+   "l0": 110,
+   "argmap": 10,
+   "l2": 10,
+   "l3": 0,
+   "l4": 0,
+   "essence": 10,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "layer_sha256": {
+  "t1": "24bf78b72b2ecfb706d3caf37ae4594180ddce6a99569c25baab50400e2ddfb9",
+  "l0": "8f83d7bf5e4f3157e80683d916a4119610de41b8f2d0eda8c21fca0dd86dafd0",
+  "argmap": "38341f839567078c293bec830b48e10ce3d0c9c46719c8eea1c77465d4105680",
+  "l2": "d35e63c958a21b857c131fd2cd491805729005cbec81bd269b31a3aa0b43c5bd",
+  "c1": "a3f46e038fc6c7e786274bb0e6bd88ddb3ba0a8bdf2e0dbd94e6fa92186a29c3"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "79d51c16f65e41c3",
+  "t1": "T1-sakt-p03.md",
+  "l0": "T1-sakt-p03.l0.jsonl",
+  "l2": "L2-sakt-p03.md",
+  "c1": "c1/C1-sakt-p03.md"
+ }
+}
