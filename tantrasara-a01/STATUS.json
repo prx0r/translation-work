@@ -1,7 +1,7 @@
 {
  "work": "tantrasara-a01",
- "updated": "2026-10-30",
- "next": "batch (A01 T1\u2192GATE done)",
+ "updated": "2026-11-04",
+ "next": "Owner: first-verse L4 voice verdict (tsa-a01-v01) + human review (machine-proposed throughout). Beauty-pass queue next: paramarthacarca (item 5).",
  "counts": {
   "passages": 1,
   "verses": 5,
@@ -12,10 +12,12 @@
  },
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a01-raw.jsonl",
  "r2_verified": true,
- "notes": "ma\u1e45gala + two ignorances + \u015b\u0101stra + one light + 4 means",
+ "notes": "maṅgala + two ignorances + śāstra + one light + 4 means. Beauty pass 2026-11-04 (machine-proposed): single list-file DRAFT retired → 5 per-verse DRAFT files, new schema (craft_notes w/ sthāyin+firing rows+bank devices+rejected-killers+read-aloud, reads_against argmap/C1-essence-texts/rasa); v05 RE-CRAFTED — restored “hiding his own nature” + “will, knowing, action” (the old song had dropped the concealment its own craft celebrated); draft==data 5/5, overlap 0.81–1.00; c1.NOTE written (this work had none). validate 0 errors, check.py CANONICAL 0 failures. Pre-existing, untouched: proof BLOCKED on ALIGN_NODISP v4/v5 (legacy T1-gloss fuzzy vs source; committed 11-01 PASS is stale — current proof_record flags it; needs --disp disposition, T1-layer work out of beauty-pass scope); qa HOLD follows proof; GATE CITATION_GROUNDING + abstention-review needs carried.",
  "r2_bytes": 17598,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "abstention-review (pre-existing)",
+  "citation-grounding (pre-existing, GATE.json)",
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed)"
  ]
 }
