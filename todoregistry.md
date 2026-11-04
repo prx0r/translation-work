@@ -13,7 +13,10 @@ edit THIS file in the same commit — never leave it behind.*
   C2 (eli5+genz, [E#]-tagged) + refreshed proofs (layer_sha256 over L3/L4/C2).
 - **Gate green on all 30 golds at completion**: `python3 check.py --work <name>` CANONICAL on all
   30 (defaults to sivastotravali — loop it when auditing).
-- **REGISTRY.json**: 92 works / 30 gold / 62 pending.
+- **REGISTRY.json**: 91 works / 30 gold / 61 pending.
+- **GOAL 2026-11-04 (owner)**: all Abhinavagupta works, shortest first — stotras/prakaraṇas,
+  then tantrasara āhnikas (a18→…→a13 by verse count), then tantraloka āhnikas (a34→…→a15).
+  Sambandhasiddhi (gold, attribution uncertain) excluded pending verification.
 - **DONE 2026-11-04**: stavacintamani GOLD #22 COMPLETE — T1 120v span-exact
   (incl. v1 maṅgala proposal stav-p00) + L0 1338 tok 100% PARSED (M00089
   collation: all AMBIGUOUS resolved incl. v37 māmi shine-forth) + argmaps 120v
@@ -45,14 +48,15 @@ edit THIS file in the same commit — never leave it behind.*
     7. vbt — DONE → gold #29 (2026-11-04): T1/L0/argmap/L2/C1/L3 162/162 + L4 162/162 DRAFTs (craft_notes+rejected-killers+reads_against) + data t1/l0/argmap/l2/c1/l3/l4 x17 + C2 eli5+genz full coverage + c1.NOTE x17; validate 0 x17, proof PASS x17, roundtrip 0 x17, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. Discipline events: L3-data emit omission found by gate (28 failures, fixed); p13-p14 L4 memory-composed at 0 L3-overlap, caught by audit, RE-SUNG from true L3 (mistakes.md #19). OPEN: first-verse L4 voice verdict (owner); human review (machine-proposed).
 3. **tantrasara-a03–a22** (20) — same pattern, proven twice (a01/a02 gold).
 4. **tantraloka-a01–a37** (37) — the big campaign.
-5. **No-repo source acquisition (6)**: use `tools/intake.py --work X
+5. **No-repo source acquisition (4 + merge)**: use `tools/intake.py --work X
     --source S --segments seg.json --edition E --source-license L` (byte-span
     pinned segments: song/verse/verse_id/start/end; every non-ws byte covered).
     Candidates — DONE: dehastha → gold #30 (Abhinavastotravali print, 16v/2 songs, full pipeline, CANONICAL 0 failures).
-    Remaining: mahopadeshavimshatika, paramadvayadvadashika,
-    rahasyapanchadashika, tattvasandoha. Plus **paramarthadvadasika** —
-    anomaly RESOLVED 2026-11-04: SOURCE.txt holds full 13v (nothing to transform;
-    reclassified no-repo, needs intake + full pipeline).
+    MERGED 2026-11-04: paramadvayadvadashika == paramarthadvadasika (colophon variant title
+    "paramadvayadvadasika athava paramarthadvadasika"; registry 92→91; single gold from Sferra recension, print variants recorded).
+    Remaining, shortest-first: paramarthadvadasika 13v (SOURCE.txt Sferra recension in hand) →
+    rahasyapanchadashika 16v (sanskritdocuments ITRANS sourced) → mahopadeshavimshatika 20v (sanskritdocuments ITRANS sourced) →
+    tattvasandoha (authorship + source TBD at intake).
 
 ## Todos (25)
 
