@@ -1,41 +1,41 @@
 {
- "song": "bod-p09",
- "song_craft": "Voice: stotra couplets, one work-voice across fifteen rasa-colors (adbhuta→vīra→śṛṅgāra→ānanda→śānta — the work walks the rasas home to peace). Each verse hammer-tight in L3: L4 = L3 verbatim throughout, music named per verse. Arc: all-containing light (v1) → aloneness (v2) → inseparables (v3) → mirror-bearing (v4) → exact fullness (v5) → play at once (v6) → five-in-one (v7) → criterion (v8) → abiding change (v9) → total inventory (v10) → bondage named (v11) → open doors (v12) → release (v13) → non-difference (v14) → dwelling enjoined (v15).",
- "verses": [
-  {
-   "verse_id": "bod-p09-v09",
-   "l4": {
-    "verse_id": "bod-p09-v09",
-    "song": "bod-p09",
-    "verse": 9,
-    "lines": [
-     "So of the free one, discerning by his own power,",
-     "makings and unmakings rest in his own self, standing as his nature."
-    ],
-    "sanskrit_cite": "evam asya svatantrasya nijaśaktyupabhedinaḥ | svātmagāḥ sṛṣṭisaṃhārāḥ svarūpatvena saṃsthitāḥ",
-    "l0_ids": [
-     "bod-p09-v09-p000",
-     "bod-p09-v09-p001",
-     "bod-p09-v09-p002",
-     "bod-p09-v09-p003",
-     "bod-p09-v09-p004",
-     "bod-p09-v09-p005",
-     "bod-p09-v09-p006",
-     "bod-p09-v09-p007"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Durative standing (saṃsthitāḥ durative per UNC); change self-abiding — śama first landing.",
-   "rejected": "(a) stood-not-made gloss → killed: L3 standing-as-nature frozen. (b) heightening → killed: peace, not climax.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta of abiding / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta of abiding; vyabhicāri peace (śama) at change standing still in self. Sanskrit-first: svātantryāt (BY-OWN-POWER — kept; discerning's instrument named); sthiti (STANDING — kept; standing IS the doctrine); viśrānti (REST — kept). Rows: 1 (‘standing as his nature’ closes), 9 (makings/unmakings — same words as v6: terminological consistency kept), 12 (śānta-settle: rest…standing). Close: ‘standing as his nature’. Rupture: comma after ‘power’ (discerning turns to resting). Rejected: ‘dwell’ — killed: rest kept; ‘are his essence’ — killed: standing-as-nature kept standing; ‘the autonomous one’ — killed: ‘the free one’ kept (house word). Read aloud: SO of the FREE-one, dis-CERN-ing BY his OWN-pow-ER … MAK-ings AND-un-MAK-ings REST in his OWN-self, STAND-ing AS his NA-ture.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "bod-p09-v09",
+  "song": "bod-p09",
+  "verse": 9,
+  "lines": [
+   "So of the free one, discerning by his own power,",
+   "makings and unmakings rest in his own self, standing as his nature."
+  ],
+  "sanskrit_cite": "evam asya svatantrasya nijaśaktyupabhedinaḥ | svātmagāḥ sṛṣṭisaṃhārāḥ svarūpatvena saṃsthitāḥ",
+  "l0_ids": [
+   "bod-p09-v09-p000",
+   "bod-p09-v09-p001",
+   "bod-p09-v09-p002",
+   "bod-p09-v09-p003",
+   "bod-p09-v09-p004",
+   "bod-p09-v09-p005",
+   "bod-p09-v09-p006",
+   "bod-p09-v09-p007"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "Where do makings and unmakings stand? → Thus-therefore: self-abiding change, stood not made.",
+  "c1_essence": [
+   "Change self-abides: stood as nature, arrived without departing."
+  ],
+  "c1_rasa": "śānta of abiding"
+ },
+ "status": "machine-proposed"
 }

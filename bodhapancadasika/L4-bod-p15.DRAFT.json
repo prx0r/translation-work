@@ -1,45 +1,45 @@
 {
- "song": "bod-p15",
- "song_craft": "Voice: stotra couplets, one work-voice across fifteen rasa-colors (adbhuta→vīra→śṛṅgāra→ānanda→śānta — the work walks the rasas home to peace). Each verse hammer-tight in L3: L4 = L3 verbatim throughout, music named per verse. Arc: all-containing light (v1) → aloneness (v2) → inseparables (v3) → mirror-bearing (v4) → exact fullness (v5) → play at once (v6) → five-in-one (v7) → criterion (v8) → abiding change (v9) → total inventory (v10) → bondage named (v11) → open doors (v12) → release (v13) → non-difference (v14) → dwelling enjoined (v15).",
- "verses": [
-  {
-   "verse_id": "bod-p15-v15",
-   "l4": {
-    "verse_id": "bod-p15-v15",
-    "song": "bod-p15",
-    "verse": 15,
-    "lines": [
-     "Thus, resting on will, art, knowledge, power, trident, lotus —",
-     "Bhairava, the own-nature of all things, is to be contemplated."
-    ],
-    "sanskrit_cite": "ittham icchākalājñānaśaktiśūlāmbujāśritaḥ | bhairavaḥ sarvabhāvānāṃ svabhāvaḥ pariśīlyate",
-    "l0_ids": [
-     "bod-p15-v15-p000",
-     "bod-p15-v15-p001",
-     "bod-p15-v15-p002",
-     "bod-p15-v15-p003",
-     "bod-p15-v15-p004",
-     "bod-p15-v15-p005",
-     "bod-p15-v15-p006",
-     "bod-p15-v15-p007",
-     "bod-p15-v15-p008",
-     "bod-p15-v15-p009",
-     "bod-p15-v15-p010",
-     "bod-p15-v15-p011"
-    ],
-    "essence_maps": [
-     0
-    ],
-    "fidelity": "preserved",
-    "form": "couplet",
-    "needs": [
-     "human-review"
-    ],
-    "notes": []
-   },
-   "craft": "Emblem catalogue unexpanded (lotus per UNC); dwelling-not-rite; injunction close (to-be-contemplated).",
-   "rejected": "(a) expanding lotus → killed by UNC. (b) rite-language → killed: dwelling, not rite.",
-   "reads": "argmap Q+INF (+UNC) / C1 essence / rasa śānta of closing dwelling / L2+L3 voice"
-  }
- ]
+ "craft_notes": "Sthāyin: śānta of closing dwelling; vyabhicāri peace at emblem-injunction (whole-WORK close). Sanskrit-first: ālambya (RESTING-ON — kept; support, not seat); dhyeya (TO-BE-CONTEMPLATED — kept; the work ends in the act it enjoins); śakti-catuṣka + triśūla-padma (FOUR POWERS + trident-lotus — emblem kept whole, unglossed). Rows: 10 (trident/lotus left standing), 9 (will/art/knowledge/power + trident/lotus six-rests catalogue), 1 (‘contemplated’ closes), 12 (whole-work śānta-fall). Close: ‘is to be contemplated’. Rupture: em-dash (resting turns to enjoining). Rejected: ‘meditated upon’ — killed: contemplated kept (house word); ‘seated upon’ — killed: resting kept; ‘fix the mind on’ — killed: contemplation kept nominal. Read aloud: THUS, REST-ing ON-will, ART, KNOW-ledge, POW-er, TRI-dent, LO-tus — BHAI-ra-va, the OWN-na-ture OF-all-THINGS, IS to BE-con-TEM-plat-ed.",
+ "form": "couplet",
+ "l4": {
+  "verse_id": "bod-p15-v15",
+  "song": "bod-p15",
+  "verse": 15,
+  "lines": [
+   "Thus, resting on will, art, knowledge, power, trident, lotus —",
+   "Bhairava, the own-nature of all things, is to be contemplated."
+  ],
+  "sanskrit_cite": "ittham icchākalājñānaśaktiśūlāmbujāśritaḥ | bhairavaḥ sarvabhāvānāṃ svabhāvaḥ pariśīlyate",
+  "l0_ids": [
+   "bod-p15-v15-p000",
+   "bod-p15-v15-p001",
+   "bod-p15-v15-p002",
+   "bod-p15-v15-p003",
+   "bod-p15-v15-p004",
+   "bod-p15-v15-p005",
+   "bod-p15-v15-p006",
+   "bod-p15-v15-p007",
+   "bod-p15-v15-p008",
+   "bod-p15-v15-p009",
+   "bod-p15-v15-p010",
+   "bod-p15-v15-p011"
+  ],
+  "essence_maps": [
+   0
+  ],
+  "fidelity": "preserved",
+  "form": "couplet",
+  "needs": [
+   "human-review"
+  ],
+  "notes": []
+ },
+ "reads_against": {
+  "argmap": "Upon what is Bhairava to be dwelt? → Emblem then injunction: trident-lotus Bhairava, all-nature, to be dwelt upon.",
+  "c1_essence": [
+   "Trident-lotus emblem bearing four powers; Bhairava all-nature, to be dwelt upon."
+  ],
+  "c1_rasa": "śānta of closing dwelling"
+ },
+ "status": "machine-proposed"
 }
