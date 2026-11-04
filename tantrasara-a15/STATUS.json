@@ -1,16 +1,20 @@
 {
- "work": "tantrasara-a15",
- "updated": "2026-10-30",
- "next": "batch (A15 done)",
- "counts": {
-  "passages": 1,
-  "chars": 1370
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a15-raw.jsonl",
- "r2_verified": true,
- "notes": "SOURCE frozen + passages cut; T1 next",
- "r2_bytes": 7290,
- "needs": [
-  "citation-grounding"
- ]
+  "work": "tantrasara-a15",
+  "updated": "2026-11-04",
+  "next": "Owner: first-verse L4 voice verdict (tsa-a15-v01) + human review. Site skeleton ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a21 (13 units).",
+  "counts": {
+    "passages": 1,
+    "verses": 7,
+    "l0_parsed": 133,
+    "l0_ambiguous": 0,
+    "l0_failed": 0,
+    "l4_drafts": 7,
+    "l4_with_craft": 7
+  },
+  "notes": "GOLD #38 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 15 (7 units) via workcfg abhts span route. Full pipeline: L0 hand-crafted 133 tok 100% PARSED 0 forks (cm/l0cm-v1-7.json) / T1 md+jsonl+report / argmaps 7/7 (sha 596ef5e801d341e3, gate PASS, 0 shared) / L2 7 (0 shared w/ C1) / C1 essence 7 + 7-part + rasa (0 quotes, 0 shared) / L3 7 handcrafted (0 shared w/ L2 after v4 reword) / L4 7 DRAFTs craft+rejected+read-aloud, L3==L4 / c1 md / site ABSTENTION skeleton. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL (see below). OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
+  "needs": [
+    "first-verse L4 voice verdict (owner)",
+    "human-review (machine-proposed)"
+  ],
+  "rasa": "śānta with vidhi weight (quiescence carrying ritual order)"
 }
