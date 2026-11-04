@@ -1,0 +1,49 @@
+[
+ {
+  "verse_id": "stav-p00-v01",
+  "song": "stav-p00",
+  "verse": 1,
+  "structured": true,
+  "speaker": "Devotee (maṅgala invocation)",
+  "question": "Who conquers?",
+  "premises": [
+   "By sweet speech mind-captivating, by seeing, by being seen.",
+   "Conquers whose greatness is manifest bliss — supreme lord. (GRETIL BhStC_1; M00089 print collation open.)"
+  ],
+  "inference": "The manifest-bliss-great supreme lord conquers.",
+  "uncertainties": [
+   "paśyantyā/dṛśyamānayā: Vṛtti M00089 reads both as feminine Speech-principles (paśyantī Vāk; dṛśyamānā = manifestly arisen, appearing as knowable), supporting instrumental means-reading; agent alternative open, unpreferred. v1 absent from corpus passages, proposed as stav-p00 pending owner decision."
+  ],
+  "option_choices": [
+   {
+    "l0_id": "stav-p00-v01-p002",
+    "chosen_index": 0,
+    "rejected": [
+     "by-seeing-one"
+    ],
+    "reason": "T1 kept; Vṛtti M00089 (paśyantī = Vāk-level Speech) supports means-reading; agent alternative kept open."
+   },
+   {
+    "l0_id": "stav-p00-v01-p003",
+    "chosen_index": 0,
+    "rejected": [
+     "by-being-seen"
+    ],
+    "reason": "T1 kept; Vṛtti M00089 (sphuṭam unmagnarūpatvena sphurantī, vedyatvena ābhāsyamānayā) supports means-reading."
+   }
+  ],
+  "traces": {
+   "t1_verse": "stav-p00-v01",
+   "l0_ids": [
+    "stav-p00-v01-p000",
+    "stav-p00-v01-p001",
+    "stav-p00-v01-p002",
+    "stav-p00-v01-p003",
+    "stav-p00-v01-p004",
+    "stav-p00-v01-p005",
+    "stav-p00-v01-p006"
+   ]
+  },
+  "sanskrit_sha": "8d5eb7f1ca104520"
+ }
+]

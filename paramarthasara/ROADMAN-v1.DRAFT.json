@@ -1,0 +1,2606 @@
+{
+ "work": "paramarthasara",
+ "style": "roadman",
+ "version": "v1",
+ "kind": "c2-roadman-draft",
+ "label": "roadman voice renderings, all 105 verses — MACHINE_DRAFT, style demo over canonical stack, NOT canonical translation",
+ "model": "hand (MACHINE_DRAFT, owner review pending)",
+ "register": "roadman-only markers; banned: no cap/fr/bussin/vibe/delulu/lowkey — verified zero hits 2026-11-04",
+ "provenance": {
+  "source": "translation-work paramarthasara/data/*.{l2,argmap,c1,l0}.json + Sanskrit cites",
+  "l0": "all verses stack-checked Sanskrit-first",
+  "gate": "105/105 PASS per layers; renders withheld nowhere (all PASS)"
+ },
+ "items": [
+  {
+   "c2": "Look — I take shelter in You, Śambhu. Supreme. No beginning. One. You're in everything that moves and stands still, living in every heart. You house it all, innit.",
+   "choices": [
+    {
+     "payload": "prapadye as opening move",
+     "term": "Look",
+     "why": "the turn itself; refuge opens, nothing before it"
+    },
+    {
+     "payload": "sarvālaya",
+     "term": "house it all",
+     "why": "all-abode as containing, not owning"
+    },
+    {
+     "payload": "guhāsu + all-abiding essence (Tier-2 visible resolution)",
+     "term": "heart-caves",
+     "why": "image kept, referent shown inside the compound"
+    }
+   ],
+   "chunk": "param-p01-v01",
+   "gate": "PASS",
+   "rasa": "shelter claimed — refuge before teaching",
+   "sanskrit": "paraṃ parasthaṃ gahanād anādim | sarvālayaṃ sarvacarācarasthaṃ tvām eva śambhuṃ śaraṇaṃ prapadye",
+   "style": "roadman"
+  },
+  {
+   "c2": "Man was getting spun in the sorrow-wheel — womb to tomb, the full journey — and asked the Lord, the Support Himself: what's the highest truth?",
+   "choices": [
+    {
+     "payload": "vibhrāntaḥ",
+     "term": "spun",
+     "why": "whirled as losing footing, not travelling"
+    },
+    {
+     "payload": "garbhādhivāsa→maraṇānta frame",
+     "term": "womb to tomb",
+     "why": "the verse's own endpoints, kept whole"
+    },
+    {
+     "payload": "ādhāra",
+     "term": "the Support Himself",
+     "why": "epithet kept; He is asked AS support"
+    }
+   ],
+   "chunk": "param-p01-v02",
+   "gate": "PASS",
+   "rasa": "asked from inside, not above",
+   "sanskrit": "garbhādhivāsapūrvakamaraṇāntakaduḥkhacakravibhrāntaḥ | ādhāram bhagavantaṃ śiṣyaḥ papraccha paramārtham",
+   "style": "roadman"
+  },
+  {
+   "c2": "So the teacher answered in support-verses, gave him the essence straight. And Abhinavagupta's telling it again now, Śaiva view. Same teaching, second telling.",
+   "choices": [
+    {
+     "payload": "tatsāra + abhibhāṣati",
+     "term": "essence straight",
+     "why": "addressed its essence, no hedging"
+    },
+    {
+     "payload": "kathayati as present retelling",
+     "term": "telling it again",
+     "why": "retelling is a present act, not a past event"
+    }
+   ],
+   "chunk": "param-p01-v03",
+   "gate": "PASS",
+   "rasa": "unbroken handoff",
+   "sanskrit": "ādhārakārikābhiḥ taṃ gurur abhibhāṣati sma tatsāram | kathayaty abhinavaguptaḥ śivaśāsanadṛṣṭiyogena",
+   "style": "roadman"
+  },
+  {
+   "c2": "By the sheer weight of His own power and glory, the Lord put out this fourfold egg — power, Māyā, nature, earth. In that order.",
+   "choices": [
+    {
+     "payload": "bhara",
+     "term": "sheer weight",
+     "why": "weight as the cause, glory as its shine"
+    },
+    {
+     "payload": "prabhāvita (shown-forth, not made)",
+     "term": "put out",
+     "why": "manifested kept against created"
+    }
+   ],
+   "chunk": "param-p01-v04",
+   "gate": "PASS",
+   "rasa": "top-down, no gaps",
+   "sanskrit": "nijaśaktivaibhavabharād a.ṅdacatuṣṭayam idaṃ vibhāgena | śaktir māyā prakṛtiḥ pṛthvī ceti prabhāvitaṃ prabhuṇā",
+   "style": "roadman"
+  },
+  {
+   "c2": "Inside all that, the world's running — bodies, faculties, worlds. And man in the middle of it, wearing a body? That's Śiva. Tied up, not done out.",
+   "choices": [
+    {
+     "payload": "the enjoyer as anyone",
+     "term": "man",
+     "why": "MLE everyman pronoun; the bhoktā is generic"
+    },
+    {
+     "payload": "gṛhīta-paśu-bhāva",
+     "term": "tied up, not done out",
+     "why": "fettered-state-taken: bound, never ruined"
+    }
+   ],
+   "chunk": "param-p01-v05",
+   "gate": "PASS",
+   "rasa": "identity under fetter",
+   "sanskrit": "tatrāntar viśvam idaṃ vicitratanukaraṇabhuvanasaṃtānam | bhoktā ca tatra dehī śiva eva gṛhītapaśubhāvaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "He wears god, man, beast, plant — none of it sticks to Him. Clean throughout.",
+   "choices": [
+    {
+     "payload": "dhatte rūpam",
+     "term": "wears",
+     "why": "assumes form as putting on"
+    },
+    {
+     "payload": "amala kept absolute",
+     "term": "none of it sticks",
+     "why": "stainlessness as non-stick, total"
+    }
+   ],
+   "chunk": "param-p01-v06",
+   "gate": "PASS",
+   "rasa": "wearing without staining",
+   "sanskrit": "nānāvidhavarṇānāṃ rūpaṃ dhatte yathāmalaḥ sphaṭikaḥ | suramānuṣapaśupādaparūpatvaṃ tadvad īśo 'pi",
+   "style": "roadman"
+  },
+  {
+   "c2": "He moves and rests right along with the whole lot — bodies, faculties, worlds.",
+   "choices": [
+    {
+     "payload": "tathā + varga",
+     "term": "right along with",
+     "why": "the carryover named; accompaniment, not identity"
+    },
+    {
+     "payload": "tanu-karaṇa-bhuvana-varga",
+     "term": "the whole lot",
+     "why": "mass as the full set, nothing excluded"
+    }
+   ],
+   "chunk": "param-p01-v07",
+   "gate": "PASS",
+   "rasa": "co-motion, carried by tathā",
+   "sanskrit": "gacchati gacchati jala iva himakarabimbaṃ sthite sthitiṃ yāti | tanukaraṇabhuvanavarge tathāyam ātmā maheśānaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "You won't see Him direct — He's unseen, everywhere. You catch Him where your mind catches things, you get me?",
+   "choices": [
+    {
+     "payload": "no medium",
+     "term": "direct",
+     "why": "adṛśya as never-face-to-face"
+    },
+    {
+     "payload": "āśrayaṇa",
+     "term": "catch",
+     "why": "resorting as catching-at-the-meeting-point"
+    },
+    {
+     "payload": "solidarity check",
+     "term": "you get me?",
+     "why": "opens the question, closes nothing"
+    }
+   ],
+   "chunk": "param-p01-v08",
+   "gate": "PASS",
+   "rasa": "known at the meeting-point",
+   "sanskrit": "rāhur adṛśyo 'pi yathā śaśibimbasthaḥ prakāśate tadvat | sarvagato 'py ayam ātmā viṣayāśrayaṇena dhīmukure",
+   "style": "roadman"
+  },
+  {
+   "c2": "Clean the lens, the face shows. His grace does the wiping — then the self shines through, made of light.",
+   "choices": [
+    {
+     "payload": "dhī-tattva decoded",
+     "term": "lens",
+     "why": "mind-principle as the seeing surface"
+    },
+    {
+     "payload": "śaktipāta as cleaning action",
+     "term": "wipes",
+     "why": "grace-descent does the work, not effort"
+    },
+    {
+     "payload": "bhāti active kept",
+     "term": "shines through",
+     "why": "the self shines; nobody shines it"
+    }
+   ],
+   "chunk": "param-p01-v09",
+   "gate": "PASS",
+   "rasa": "purification received, not achieved",
+   "sanskrit": "ādarśe malarahite yadvad vadanaṃ vibhāti tadvat ayam | śivaśaktipātavimale dhītattve bhāti bhārūpaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Made of light. Complete. Resting in Himself — total bliss. Will, knowing, action, all loaded, all endless. Dun know.",
+   "choices": [
+    {
+     "payload": "nirbharita",
+     "term": "loaded",
+     "why": "filled as fully stocked, nothing missing"
+    },
+    {
+     "payload": "mahānanda",
+     "term": "total bliss",
+     "why": "great-bliss plain, no inflation"
+    },
+    {
+     "payload": "recognition as shared fact",
+     "term": "Dun know",
+     "why": "the arrival was already true; closing seal, opens nothing"
+    }
+   ],
+   "chunk": "param-p01-v10",
+   "gate": "PASS",
+   "rasa": "replete, period",
+   "sanskrit": "bhārūpaṃ paripūrṇam svātmani viśrāntito mahānandam | icchasaṃvitkaraṇair nirbharitam anantaśaktiparipūrṇam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Clear of every thought — pure, calm, past rising and setting. And in that supreme principle? The whole world shines. Thirty-six natures, all of it.",
+   "choices": [
+    {
+     "payload": "vihīna",
+     "term": "clear of",
+     "why": "free-from as clean record"
+    },
+    {
+     "payload": "laya-udaya-vihīna",
+     "term": "past rising and setting",
+     "why": "dissolution and rise both gone"
+    },
+    {
+     "payload": "vibhāti jagat",
+     "term": "the whole world shines",
+     "why": "shining kept active; world as subject"
+    }
+   ],
+   "chunk": "param-p02-v11",
+   "gate": "PASS",
+   "rasa": "the quiet that holds everything",
+   "sanskrit": "sarvavikalpavihīnaṃ śuddhaṃ śāntaṃ layodayavihīnam | yat paratattvaṃ tasmin vibhāti ṣaṭṭriṃśadātma jagat",
+   "style": "roadman"
+  },
+  {
+   "c2": "Look at a mirror — towns and villages inside it, all different, none of it split. Each one separate, each from the next, and all of it from the mirror too.",
+   "choices": [
+    {
+     "payload": "darpaṇa-bimbe",
+     "term": "inside it",
+     "why": "orb as interior, not surface"
+    },
+    {
+     "payload": "avibhāgi",
+     "term": "none of it split",
+     "why": "undivided kept absolute against varied"
+    },
+    {
+     "payload": "darpaṇād api",
+     "term": "from the mirror too",
+     "why": "the ground named as source alongside mutuality"
+    }
+   ],
+   "chunk": "param-p02-v12",
+   "gate": "PASS",
+   "rasa": "divided display, undivided ground",
+   "sanskrit": "darpaṇabimbe yadvan nagaragrāmādicitram avibhāgi | bhāti vibhāgenaiva ca parasparaṃ darpaṇād api ca",
+   "style": "roadman"
+  },
+  {
+   "c2": "Same deal from the purest knowing of supreme Bhairava — void of division, yet the world shows up divided. Each from each, and from that knowing too.",
+   "choices": [
+    {
+     "payload": "tadvat",
+     "term": "Same deal",
+     "why": "the carryover named; same structure, higher ground"
+    },
+    {
+     "payload": "ābhāti",
+     "term": "shows up",
+     "why": "shines-forth as arrival, kept active"
+    },
+    {
+     "payload": "vibhāga-śūnya",
+     "term": "void of division",
+     "why": "emptiness of division stated before the division"
+    }
+   ],
+   "chunk": "param-p02-v13",
+   "gate": "PASS",
+   "rasa": "division that changes nothing",
+   "sanskrit": "vimalatamaparamabhairavabodhāt tadvad vibhāgaśūnyam api | anyonyaṃ ca tato 'pi ca vibhaktam ābhāti jagad etat",
+   "style": "roadman"
+  },
+  {
+   "c2": "Śiva. Power. Sadāśiva. Then Īśvara and Vidyā, made principle-states. He lights all five powers, each in its own nature.",
+   "choices": [
+    {
+     "payload": "bhāsayati",
+     "term": "lights",
+     "why": "illumines as switching on, kept active"
+    },
+    {
+     "payload": "mayīṃ daśām",
+     "term": "made principle-states",
+     "why": "formed-ness kept; states not persons"
+    },
+    {
+     "payload": "vibhakta-bhāvena",
+     "term": "each in its own nature",
+     "why": "divided nature distributed per power"
+    }
+   ],
+   "chunk": "param-p02-v14",
+   "gate": "PASS",
+   "rasa": "the five lit",
+   "sanskrit": "śivaśaktisadāśivatām īśvaravidyāmayīṃ ca tattvadaśām | śaktīnāṃ pañcānāṃ vibhaktabhāvena bhāsayati",
+   "style": "roadman"
+  },
+  {
+   "c2": "Supreme is the freedom that pulls off the hard thing — the great Lord's own. And the goddess, Māyā-power? She veils Śiva's own self. That's the whole of it.",
+   "choices": [
+    {
+     "payload": "durghaṭa-saṃpādana",
+     "term": "pulls off the hard thing",
+     "why": "effecting-the-difficult as pulled off; kept bare per Tier 3"
+    },
+    {
+     "payload": "āvaraṇa",
+     "term": "veils",
+     "why": "veiling as covering act, goddess as agent"
+    },
+    {
+     "payload": "etat as seal",
+     "term": "That's the whole of it",
+     "why": "closer; this, nothing added"
+    }
+   ],
+   "chunk": "param-p02-v15",
+   "gate": "PASS",
+   "rasa": "freedom that binds itself",
+   "sanskrit": "paramaṃ yat svātantryaṃ durghaṭasaṃpādanaṃ maheśasya | devī māyāśaktiḥ svātmāvaraṇaṃ śivasya itat",
+   "style": "roadman"
+  },
+  {
+   "c2": "Grabbed by Māyā, knowing goes stained. Man turns beast — fettered by time, art, limit, and by passion and ignorance holding him down.",
+   "choices": [
+    {
+     "payload": "parigraha-vaśāt",
+     "term": "Grabbed",
+     "why": "grasp-power as snatch, sudden"
+    },
+    {
+     "payload": "paśur bhavati",
+     "term": "turns beast",
+     "why": "becoming, not being — the fall as event"
+    },
+    {
+     "payload": "vaśa/saṃbaddha doubled",
+     "term": "holding him down",
+     "why": "two bindings named: power-over and bound-state"
+    }
+   ],
+   "chunk": "param-p02-v16",
+   "gate": "PASS",
+   "rasa": "the fall, itemised",
+   "sanskrit": "māyāparigrahavaśād bodho malinaḥ pumān paśur bhavati | kālakalāniyatibalād rāgāvidyāvaśena saṃbaddhaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Right now? Man knows next to nothing — with his whole self, that's the size of it. Six sheaths with Māyā, innermost limbs of the atom. Said plain.",
+   "choices": [
+    {
+     "payload": "adhunā",
+     "term": "Right now",
+     "why": "temporal honesty; knowing dated to the present"
+    },
+    {
+     "payload": "kiṃcid",
+     "term": "next to nothing",
+     "why": "a-little kept small, no false modesty"
+    },
+    {
+     "payload": "uktam as seal",
+     "term": "Said plain",
+     "why": "stated, closer; so-it-is-said rendered as said"
+    }
+   ],
+   "chunk": "param-p02-v17",
+   "gate": "PASS",
+   "rasa": "small knowing, stated plain",
+   "sanskrit": "adhunaiva kiṃcid evedam eva sarvātmanaiva jānāmi | māyāsahitaṃ kañcukaṣaṭkam aṇor antaraṅgam idam uktam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Separate from Him, but never apart — like husk on the grain. He gets clean by turning to Śiva's path and wanting it.",
+   "choices": [
+    {
+     "payload": "bhinnam apy abhidā",
+     "term": "never apart",
+     "why": "separate-yet-undivided; the verse's whole work"
+    },
+    {
+     "payload": "viśuddhi",
+     "term": "gets clean",
+     "why": "purity as gotten, active attainment"
+    },
+    {
+     "payload": "aunmukhya",
+     "term": "wanting it",
+     "why": "eagerness as facing-toward, kept keen"
+    }
+   ],
+   "chunk": "param-p02-v18",
+   "gate": "PASS",
+   "rasa": "separation without severance",
+   "sanskrit": "kambukam iva ta.ṅdulakaṇaviniviṣṭaṃ bhinnam apy abhidā | bhajate tat tu viśuddhiṃ śivamārgaunmukhyayogena",
+   "style": "roadman"
+  },
+  {
+   "c2": "Pleasure, pain, delusion — that's all there is to it, coming off resolve, will, and I-sense. Then nature. Then the inner organ: intellect, mind, ego, in that order.",
+   "choices": [
+    {
+     "payload": "mātram",
+     "term": "that's all there is to it",
+     "why": "mere-ness as cap; nothing behind the three"
+    },
+    {
+     "payload": "ablatives niścaya etc.",
+     "term": "coming off",
+     "why": "sourced-from kept as offshoot"
+    },
+    {
+     "payload": "kramaśaḥ",
+     "term": "in that order",
+     "why": "sequence stated; order is doctrine"
+    }
+   ],
+   "chunk": "param-p02-v19",
+   "gate": "PASS",
+   "rasa": "the inventory",
+   "sanskrit": "sukhaduḥkhamohamātraṃ niścayasaṃkalpanābhimānāc ca | prakṛtir athāntaḥkaranaṃ buddhimano'haṃkṛtikramaśaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Ears, skin, eyes, tongue, nose — the knowing organs, for sound and the rest. Voice, hands, feet, anus, privates — the doing organs.",
+   "choices": [
+    {
+     "payload": "buddhīndriyāṇi kept split",
+     "term": "knowing organs",
+     "why": "intellect-organs as knowers, plain"
+    },
+    {
+     "payload": "karmendriyāṇi kept split",
+     "term": "doing organs",
+     "why": "action-organs as doers; list complete, nothing softened"
+    }
+   ],
+   "chunk": "param-p03-v20",
+   "gate": "PASS",
+   "rasa": "the toolkit, listed",
+   "sanskrit": "śrotraṃ tvagakṣirasanā ghrāṇaṃ buddhīndriyāṇi śabdādau | vākpāṇipādapāyūpasthaṃ karmendriyāṇi punaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "What they catch is subtle stuff, no divisions in it — the five tanmātras: sound, touch, form, taste, smell.",
+   "choices": [
+    {
+     "payload": "sūkṣma",
+     "term": "subtle stuff",
+     "why": "subtle as fine-grained, kept concrete"
+    },
+    {
+     "payload": "pravibhāga-varjita",
+     "term": "no divisions",
+     "why": "division-free as uncut"
+    },
+    {
+     "payload": "technical kept",
+     "term": "tanmātras",
+     "why": "term-of-art named once, used thereafter"
+    }
+   ],
+   "chunk": "param-p03-v21",
+   "gate": "PASS",
+   "rasa": "objects before objects",
+   "sanskrit": "eṣāṃ grāhyo viṣayaḥ sūkṣmaḥ pravibhāgavarjito yaḥ syāt | tanmātrapañcakaṃ tat śabdaḥ sparśo maho raso gandhaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Mix those up and the object goes gross — five elements: sky, wind, fire, water, earth.",
+   "choices": [
+    {
+     "payload": "saṃsarga-vaśāt",
+     "term": "Mix those up",
+     "why": "combination-power as mixing"
+    },
+    {
+     "payload": "sthūla + abhyeti",
+     "term": "goes gross",
+     "why": "becoming-gross as arrival, kept active"
+    }
+   ],
+   "chunk": "param-p03-v22",
+   "gate": "PASS",
+   "rasa": "mixture makes matter",
+   "sanskrit": "etatsaṃsargavaśāt sthūlo viṣayas tu bhūtapañcakatām | abhyeti nabhaḥ pavanas tejaḥ salilaṃ ca pṛthvī ca",
+   "style": "roadman"
+  },
+  {
+   "c2": "Like husk over the grain, creation covers from nature on down. All the way to earth, consciousness wears a body.",
+   "choices": [
+    {
+     "payload": "āvṛṇute",
+     "term": "covers",
+     "why": "covering as active laying-over"
+    },
+    {
+     "payload": "prakṛti-pūrvakaḥ",
+     "term": "from nature on down",
+     "why": "nature-first as top of the covering order"
+    },
+    {
+     "payload": "deha-bhāvena",
+     "term": "wears a body",
+     "why": "body-state as worn, not owned"
+    }
+   ],
+   "chunk": "param-p03-v23",
+   "gate": "PASS",
+   "rasa": "covering from the top down",
+   "sanskrit": "tuṣa iva ta.ṅdulakaṇikām āvṛṇute prakṛtipūrvakaḥ sargaḥ | pṛthvīparyanto 'yaṃ caitanyaṃ dehabhāvena",
+   "style": "roadman"
+  },
+  {
+   "c2": "Top covering: the impurity here. Subtle — the Māyā sheath and the rest. Gross — the outer body-form. Three sheaths wrapped round the self, innit.",
+   "choices": [
+    {
+     "payload": "param āvaraṇam",
+     "term": "Top covering",
+     "why": "supreme-covering as highest layer named first"
+    },
+    {
+     "payload": "hi/indeed as seal",
+     "term": "innit",
+     "why": "closer; indeed rendered as solidarity"
+    },
+    {
+     "payload": "kośa-traya",
+     "term": "Three sheaths",
+     "why": "count kept as stated; no reconciliation invented"
+    }
+   ],
+   "chunk": "param-p03-v24",
+   "gate": "PASS",
+   "rasa": "wrapped, counted",
+   "sanskrit": "param āvaraṇaṃ mala iha sūkṣmaṃ māyādikañcukaṃ sthūlam | bāhyaṃ vigraharūpaṃ kośatrayaveṣṭito hy ātmā",
+   "style": "roadman"
+  },
+  {
+   "c2": "Joined to the darkness of ignorance, the one self — still one in its own nature — sees itself as many. Grasper, grasped, every which way.",
+   "choices": [
+    {
+     "payload": "ekam api",
+     "term": "still one",
+     "why": "oneness held against the manifold seeing"
+    },
+    {
+     "payload": "nānā-vaicitrya",
+     "term": "every which way",
+     "why": "variety as all-directions, kept wide"
+    },
+    {
+     "payload": "avabudhyeta",
+     "term": "sees itself",
+     "why": "perceiving kept active; self as its own object"
+    }
+   ],
+   "chunk": "param-p03-v25",
+   "gate": "PASS",
+   "rasa": "one seen as many",
+   "sanskrit": "ajñānatimirayogād ekam api svaṃ svabhāvam ātmānam | grāhyagrāhakanānāvaicitryeṇāvabudhyeta",
+   "style": "roadman"
+  },
+  {
+   "c2": "Like juice sitting in molasses, sugar, lumps, the lot — all divided states sit in the supreme self, Śambhu.",
+   "choices": [
+    {
+     "payload": "ādyāḥ (and the rest)",
+     "term": "the lot",
+     "why": "etcetera kept; sweetness-forms uncut"
+    },
+    {
+     "payload": "states as contained",
+     "term": "sit in",
+     "why": "divisions as settled-in, not floating"
+    },
+    {
+     "payload": "paramātman",
+     "term": "supreme self",
+     "why": "named full; Śambhu kept as His name"
+    }
+   ],
+   "chunk": "param-p03-v26",
+   "gate": "PASS",
+   "rasa": "sweetness, same source",
+   "sanskrit": "rasaphāṇitaśarkarikāguḍakha.ṅdādyā yathekṣurasa eva | tadvad avasthā bhedāḥ sarve paramātmanaḥ śambhoḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Knower. Inner ruler. Breath. The All. Body, birth, the lot. All just convention — in truth, not a bit of it.",
+   "choices": [
+    {
+     "payload": "piṇḍāntāḥ (lumps, ending-with)",
+     "term": "the lot",
+     "why": "list closed with the lump-term; individuals as lumps"
+    },
+    {
+     "payload": "na santi eva tripled",
+     "term": "not a bit of it",
+     "why": "triple negation kept absolute"
+    },
+    {
+     "payload": "vyavahāra-mātram",
+     "term": "just convention",
+     "why": "mere-convention as agreed-fiction"
+    }
+   ],
+   "chunk": "param-p03-v27",
+   "gate": "PASS",
+   "rasa": "names dropped",
+   "sanskrit": "vijñānāntaryāmiprāṇavirāḍdehajātipi.ṅdāntāḥ | vyavahāramātram etat paramārthena tu na santy eva",
+   "style": "roadman"
+  },
+  {
+   "c2": "No snake in the rope. But the fear kills right up to death. Nobody can size up how strong delusion is.",
+   "choices": [
+    {
+     "payload": "nāsti bhujaṅgaḥ",
+     "term": "No snake",
+     "why": "absence stated flat; the example's whole work"
+    },
+    {
+     "payload": "mṛtyu-paryantam",
+     "term": "right up to death",
+     "why": "fear's reach dated to the end"
+    },
+    {
+     "payload": "vivektum (discriminate as measure)",
+     "term": "size up",
+     "why": "telling-apart as measuring; kept unmeasurable"
+    }
+   ],
+   "chunk": "param-p03-v28",
+   "gate": "PASS",
+   "rasa": "fear without object",
+   "sanskrit": "rajjvāṃ nāsti bhujaṅgas trāsaṃ kurute ca mṛtyuparyantam | bhrānter mahatī śaktir na vivektuṃ śakyate nāma",
+   "style": "roadman"
+  },
+  {
+   "c2": "Right and wrong. Heaven and hell. Birth, death, pleasure, pain. Caste, life-stage, the rest. None of it's real in the self — but delusion's force puts it all up.",
+   "choices": [
+    {
+     "payload": "ātmany asat",
+     "term": "None of it's real",
+     "why": "unreal-in-self stated before the arising"
+    },
+    {
+     "payload": "vibhrama-balād bhavati",
+     "term": "puts it all up",
+     "why": "delusion-force as builder; arising as erected"
+    }
+   ],
+   "chunk": "param-p04-v29",
+   "gate": "PASS",
+   "rasa": "unreal, yet standing",
+   "sanskrit": "tadvad dharmādharmasvarnirayotpattimaraṇasukhaduḥkham | varṇāśramādi cātmany asad api vibhramabalād bhavati",
+   "style": "roadman"
+  },
+  {
+   "c2": "This is that darkness right here. It shines in things — and the 'I'm not the self' thought shows up even where the self can't be topped.",
+   "choices": [
+    {
+     "payload": "etat tad (this, that)",
+     "term": "right here",
+     "why": "demonstratives doubled; darkness located, not abstract"
+    },
+    {
+     "payload": "anatirikteṣu (unsurpassed)",
+     "term": "can't be topped",
+     "why": "nothing-beyond-it kept as unbeaten"
+    },
+    {
+     "payload": "anātmābhimāna",
+     "term": "'I'm not the self' thought",
+     "why": "conceit quoted as self-speech"
+    }
+   ],
+   "chunk": "param-p04-v30",
+   "gate": "PASS",
+   "rasa": "darkness defined",
+   "sanskrit": "etat tad andhakāraṃ yad bhāveṣu prakāśamānatayā | ātmānatirikteṣv api bhavaty anātmābhimāno 'yam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Darkness on darkness: taking body, breath, the rest — not-self, taken for self.",
+   "choices": [
+    {
+     "payload": "sphoṭa, kept as stated, referent unresolved (Tier 3)",
+     "term": "burst on the cheek dropped",
+     "why": "honest drop: image without stack referent; doctrine (mistaking) carried fully"
+    },
+    {
+     "payload": "ātmamānitva",
+     "term": "taken for self",
+     "why": "self-ness-taking as the whole crime"
+    }
+   ],
+   "chunk": "param-p04-v31",
+   "gate": "PASS",
+   "rasa": "layering the mistake",
+   "sanskrit": "timirād api timiram idaṃ ga.ṅdasyopari mahān ayaṃ sphoṭaḥ | yad anātmany api dehaprāṇadāv ātmamānitvam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Body, breath, reflection, mind, knowing, open sky — join all that and the self ties itself in a net. Mad. Like the net-maker.",
+   "choices": [
+    {
+     "payload": "veṣṭayate reflexive",
+     "term": "ties itself",
+     "why": "self-wrapping; no external tier"
+    },
+    {
+     "payload": "citram (wonder as mad)",
+     "term": "Mad",
+     "why": "wonder rendered as mad — astonishment kept street"
+    },
+    {
+     "payload": "jālakāra kept",
+     "term": "net-maker",
+     "why": "spider unnamed; trade named; Tier 1 kept"
+    }
+   ],
+   "chunk": "param-p04-v32",
+   "gate": "PASS",
+   "rasa": "self-tied",
+   "sanskrit": "dehaprāṇavimarśanadhījñānanabhaḥprapañcayogena | ātmānam veṣṭayate citraṃ jālena jālakāra iva",
+   "style": "roadman"
+  },
+  {
+   "c2": "Join your own shining glory of knowing and unwrap yourself. That's how supreme Śiva puts on the mad play of bondage and release.",
+   "choices": [
+    {
+     "payload": "udveṣṭayet",
+     "term": "unwrap",
+     "why": "unwrapping as reversal of v32's tying"
+    },
+    {
+     "payload": "pratanoti (spreads as staging)",
+     "term": "puts on",
+     "why": "spreading as staging a play"
+    },
+    {
+     "payload": "citrāṃ krīḍām",
+     "term": "mad play",
+     "why": "wondrous-play kept mad; wonder shared with v32"
+    }
+   ],
+   "chunk": "param-p04-v33",
+   "gate": "PASS",
+   "rasa": "unwrapping as play",
+   "sanskrit": "svajñānavibhavabhāsanayogenodveṣṭayet nijātmānam | iti bandhamokṣacitrāṃ krīḍāṃ pratanoti paramaśivaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Creating, keeping, dissolving. Waking, dreaming, deep sleep. All of it shines in there, in the fourth house. And still He shines through it all, unveiled.",
+   "choices": [
+    {
+     "payload": "turīye dhāmani",
+     "term": "fourth house",
+     "why": "abode kept; fourth as address, not rank"
+    },
+    {
+     "payload": "anāvṛtam bhāti",
+     "term": "shines through",
+     "why": "unveiled-shining doubled; cover refused twice"
+    },
+    {
+     "payload": "tathāpi",
+     "term": "still",
+     "why": "yet-clause as defiance kept"
+    }
+   ],
+   "chunk": "param-p04-v34",
+   "gate": "PASS",
+   "rasa": "contained, never covered",
+   "sanskrit": "sṛṣṭisthitisaṃhārā jāgratsvapnau suṣuptam iti tasmin | bhānti turīye dhāmani tathāpi tair nāvṛtaṃ bhāti",
+   "style": "roadman"
+  },
+  {
+   "c2": "Waking's the universe, through difference. Dreaming's the shine, through light's glory. The knower's the deep-sleep state, through massed knowing. Past all that: the fourth.",
+   "choices": [
+    {
+     "payload": "tataḥ param",
+     "term": "Past all that",
+     "why": "beyond stated after the three told fully"
+    },
+    {
+     "payload": "jñāna-ghanatva",
+     "term": "massed knowing",
+     "why": "knowing-mass as solid block, kept dense"
+    },
+    {
+     "payload": "viśva/bheda mapping",
+     "term": "Waking's the universe",
+     "why": "each state assigned its domain, no blur"
+    }
+   ],
+   "chunk": "param-p04-v35",
+   "gate": "PASS",
+   "rasa": "three told, fourth beyond",
+   "sanskrit": "jāgrad viśvaṃ bhedāt svapnas tejaḥ prakāśamāhātmyāt | prājñaḥ suptāvasthā jñānaghanatvāt tataḥ paraṃ turyam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Cloud, smoke, dust — none of it soils the sky. Same way, Māyā's deformings don't touch the supreme person.",
+   "choices": [
+    {
+     "payload": "aparāmṛṣṭaḥ",
+     "term": "don't touch",
+     "why": "untouched as un-contacted, kept physical"
+    },
+    {
+     "payload": "vikṛti (changes as warps)",
+     "term": "deformings",
+     "why": "changes named as warps; Māyā's work distorted, not neutral"
+    }
+   ],
+   "chunk": "param-p04-v36",
+   "gate": "PASS",
+   "rasa": "unstainable",
+   "sanskrit": "jaladharadhūmarajobhir malinīkriyate yathā na gaganatalam | tadvan māyāvikṛtibhir aparāmṛṣṭaḥ paraḥ puruṣaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "One jar's sky gets dusty, the rest stay clean. Same with souls — each enjoys its own pleasure and pain.",
+   "choices": [
+    {
+     "payload": "na malināni",
+     "term": "stay clean",
+     "why": "not-soiled kept as staying clean"
+    },
+    {
+     "payload": "bheda (difference as portion)",
+     "term": "its own",
+     "why": "difference-portion as private share"
+    }
+   ],
+   "chunk": "param-p04-v37",
+   "gate": "PASS",
+   "rasa": "stain doesn't travel",
+   "sanskrit": "ekasmin ghaṭagagane rajasā vyāpte bhavanti nānyāni | malināni tadvad ete jīvāḥ sukhaduḥkhabhedajuṣaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Calm around him, he's calm. Glad around him, he's glad. That's man deluded. But the Lord, among the principles? Never like that, not in truth.",
+   "choices": [
+    {
+     "payload": "locatives śānte/hṛṣṭe as surroundings",
+     "term": "Calm around him",
+     "why": "states as weather around the fool"
+    },
+    {
+     "payload": "mūḍha",
+     "term": "man",
+     "why": "everyman pronoun; the fool is generic"
+    },
+    {
+     "payload": "na tathā",
+     "term": "Never like that",
+     "why": "refusal doubled; the Lord exempted"
+    }
+   ],
+   "chunk": "param-p05-v38",
+   "gate": "PASS",
+   "rasa": "seeming, not being",
+   "sanskrit": "śānte śānta ivāyaṃ hṛṣṭe hṛṣṭo vimohavati mūḍhaḥ | tattvagaṇe sati bhagavān na punaḥ paramārthataḥ sa tathā",
+   "style": "roadman"
+  },
+  {
+   "c2": "First, wipe the shine of His form off what isn't Him. Then the supreme self smashes the 'not-Him' delusion inside yourself.",
+   "choices": [
+    {
+     "payload": "nirākṛtya",
+     "term": "wipe off",
+     "why": "removal as wiping; gerund as first job"
+    },
+    {
+     "payload": "vidalayati",
+     "term": "smashes",
+     "why": "shattering kept violent; second job"
+    },
+    {
+     "payload": "anātman kept plain",
+     "term": "not-Him",
+     "why": "non-self as plain negation, quoted as thought"
+    }
+   ],
+   "chunk": "param-p05-v39",
+   "gate": "PASS",
+   "rasa": "double demolition",
+   "sanskrit": "yad anātmany api tadrūpāvabhāsanaṃ tat purā nirākṛtya | ātmany anātmarūpāṃ bhrāntiṃ vidalayati paramātmā",
+   "style": "roadman"
+  },
+  {
+   "c2": "Goal got, delusion-pair cut at the root — after that, the top yogin never weighs up other duties. Done asking what's next.",
+   "choices": [
+    {
+     "payload": "kṛtārtha",
+     "term": "Goal got",
+     "why": "gained-goal as done deal"
+    },
+    {
+     "payload": "kalanā",
+     "term": "weighs up",
+     "why": "weighing-other-duties as scaling options"
+    },
+    {
+     "payload": "na jātu as done",
+     "term": "Done asking",
+     "why": "never rendered as finished questioning"
+    }
+   ],
+   "chunk": "param-p05-v40",
+   "gate": "PASS",
+   "rasa": "done-done",
+   "sanskrit": "itthaṃ vibhramayugalakasamūlavicchedane kṛtārthasya | kartavyāntarakalanā na jātu parayogino bhavati",
+   "style": "roadman"
+  },
+  {
+   "c2": "Earth, nature, Māyā — three fallen into known shape. Stare nondual at them and the lot goes back to bare being.",
+   "choices": [
+    {
+     "payload": "vedya-rūpatā-patita",
+     "term": "fallen into known shape",
+     "why": "known-form as landed state"
+    },
+    {
+     "payload": "advaita-bhāvanā-balāt",
+     "term": "stare nondual",
+     "why": "contemplation-power as steady staring"
+    },
+    {
+     "payload": "san-mātra-pariśeṣa",
+     "term": "bare being",
+     "why": "mere-being-remainder stripped to bare"
+    }
+   ],
+   "chunk": "param-p05-v41",
+   "gate": "PASS",
+   "rasa": "remainder",
+   "sanskrit": "pṛthivī prakṛtir māyā tritayam idaṃ vedyarūpatāpatitam | advaitabhāvanabalād bhavati hi sanmātrapariśeṣam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Girdle, earring, bracelet — drop the differences and all you see is gold. Same here: drop difference, all shines as bare being.",
+   "choices": [
+    {
+     "payload": "bheda-tyāga, both halves",
+     "term": "drop the differences",
+     "why": "difference-leaving as the single move, twice"
+    },
+    {
+     "payload": "hema as seen-gold",
+     "term": "all you see is gold",
+     "why": "gold as what-seeing-lands-on"
+    },
+    {
+     "payload": "san-mātram ābhāti",
+     "term": "bare being",
+     "why": "mere-being shining as the payoff"
+    }
+   ],
+   "chunk": "param-p05-v42",
+   "gate": "PASS",
+   "rasa": "difference dropped, gold seen",
+   "sanskrit": "raśanāku.ṅdalakaṭakaṃ bhedatyāgena dṛśyate yathā hema | tadvad bhedatyāge sanmātraṃ sarvam ābhāti",
+   "style": "roadman"
+  },
+  {
+   "c2": "That brahman — supreme, pure, calm, nondual to the core, even, whole, deathless, true — rests in shining-formed power.",
+   "choices": [
+    {
+     "payload": "ātmaka (natured as cored)",
+     "term": "to the core",
+     "why": "nondual-natured as cored through"
+    },
+    {
+     "payload": "viśrāmyati",
+     "term": "rests",
+     "why": "resting as settled, not sleeping"
+    },
+    {
+     "payload": "bhāsva-rūpā",
+     "term": "shining-formed",
+     "why": "power's shape kept shining"
+    }
+   ],
+   "chunk": "param-p05-v43",
+   "gate": "PASS",
+   "rasa": "resting attributes",
+   "sanskrit": "tad brahma paraṃ śuddhaṃ śāntaṃ abhedātmakaṃ samaṃ sakalam | amṛtaṃ satyaṃ śaktau viśrāmyati bhāsvarūpāyām",
+   "style": "roadman"
+  },
+  {
+   "c2": "Wanted, known, done — all by the shining-formed. Untouched. Yet it takes on sky-flower status: what can't be.",
+   "choices": [
+    {
+     "payload": "passive trio iṣyate/vedyate/saṃpādyate",
+     "term": "Wanted, known, done",
+     "why": "desired-known-done as received verbs"
+    },
+    {
+     "payload": "nabhaḥprasūnatva",
+     "term": "sky-flower status",
+     "why": "impossibility-image kept with status gloss"
+    },
+    {
+     "payload": "impossibility gloss",
+     "term": "what can't be",
+     "why": "the image decoded in-line, Tier 2 visible"
+    }
+   ],
+   "chunk": "param-p05-v44",
+   "gate": "PASS",
+   "rasa": "untouched yet impossible",
+   "sanskrit": "iṣyata iti vedyata iti saṃpādyata iti ca bhāsvarūpeṇa | aparāmṛṣṭaṃ yad api tu nabhaḥprasūnatvam abhyeti",
+   "style": "roadman"
+  },
+  {
+   "c2": "Grab power's trident and the god of gods lets out the whole — in the supreme Lord, in the Śiva-name, in the highest truth.",
+   "choices": [
+    {
+     "payload": "parigama (grasp)",
+     "term": "Grab",
+     "why": "seizing-yoga as grabbing hold"
+    },
+    {
+     "payload": "visṛjyate (emitted as released)",
+     "term": "lets out",
+     "why": "emission as letting-out, god as agent"
+    },
+    {
+     "payload": "devadeva kept",
+     "term": "god of gods",
+     "why": "title kept full; rank stated"
+    }
+   ],
+   "chunk": "param-p05-v45",
+   "gate": "PASS",
+   "rasa": "emission by seizure",
+   "sanskrit": "śaktitriśūlaparigamayogena samastam api parameśe | śivanāmani paramārthe visṛjyate devadevena",
+   "style": "roadman"
+  },
+  {
+   "c2": "And again — by the five powers spreading in order, the outer got its self outside, and out came that varied three of eggs.",
+   "choices": [
+    {
+     "payload": "prasaraṇa-krama",
+     "term": "spreading in order",
+     "why": "five powers unfolding sequenced"
+    },
+    {
+     "payload": "bahir-ātma-lābha",
+     "term": "got its self outside",
+     "why": "outer-self-gaining as getting-out-there"
+    },
+    {
+     "payload": "sṛṣṭa",
+     "term": "out came",
+     "why": "created as came-out, kept emergent"
+    }
+   ],
+   "chunk": "param-p05-v46",
+   "gate": "PASS",
+   "rasa": "outside made",
+   "sanskrit": "punar api ca pañcaśaktiprasaraṇakrameṇa bahir api tat | a.ṅdatrayaṃ vicitraṃ sṛṣṭaṃ bahirātmalābhena",
+   "style": "roadman"
+  },
+  {
+   "c2": "So I drive the power-wheel, the machine — playstyle. Me, god, pure-formed, sitting in the seat of the lord of the great power-wheel.",
+   "choices": [
+    {
+     "payload": "vāhayan",
+     "term": "drive",
+     "why": "driving as ongoing handling, causative kept"
+    },
+    {
+     "payload": "krīḍā-yoga as manner",
+     "term": "playstyle",
+     "why": "play-discipline as style-of-driving"
+    },
+    {
+     "payload": "pada-stha",
+     "term": "sitting in the seat",
+     "why": "seat-standing as posted authority"
+    }
+   ],
+   "chunk": "param-p06-v47",
+   "gate": "PASS",
+   "rasa": "driving as play",
+   "sanskrit": "iti śakticakrayantraṃ krīḍāyogena vāhayan devaḥ | aham eva śuddharūpaḥ śaktimahācakranāyakapadasthaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "In Me the whole universe shines — jars and the lot in a spotless mirror. From Me everything spreads — dream-variety from a sleeper.",
+   "choices": [
+    {
+     "payload": "ghaṭādi",
+     "term": "jars and the lot",
+     "why": "jar-etcetera as the full inventory"
+    },
+    {
+     "payload": "nirmala",
+     "term": "spotless",
+     "why": "stainless mirror kept spotless"
+    },
+    {
+     "payload": "svapna-vicitratva kept",
+     "term": "dream-variety",
+     "why": "dream as emanation-mode, image mapped not dropped"
+    }
+   ],
+   "chunk": "param-p06-v48",
+   "gate": "PASS",
+   "rasa": "shining within, spreading without",
+   "sanskrit": "mayy eva bhāti viśvaṃ darpaṇa iva nirmale ghatādīni | mattaḥ prasarati sarvaṃ svapnavicitratvam iva suptāt",
+   "style": "roadman"
+  },
+  {
+   "c2": "I am the universe-formed — hands, feet, the whole nature set, as my body. And I shine in everything, light-natured.",
+   "choices": [
+    {
+     "payload": "svabhāva as set",
+     "term": "nature set",
+     "why": "hand-foot-etc as the complete kit"
+    },
+    {
+     "payload": "sphurāmi active",
+     "term": "I shine",
+     "why": "first-person shining kept; no passive dodge"
+    },
+    {
+     "payload": "bhāsva-rūpa",
+     "term": "light-natured",
+     "why": "light as nature, not accessory"
+    }
+   ],
+   "chunk": "param-p06-v49",
+   "gate": "PASS",
+   "rasa": "all-body, shining",
+   "sanskrit": "aham eva viśvarūpaḥ karacaranādisvabhāva iva dehaḥ | sarvasmin aham eva sphurāmi bhāveṣu bhāsvarūpam iva",
+   "style": "roadman"
+  },
+  {
+   "c2": "Seer. Hearer. Smeller. No body, no senses — and no doer neither. Still, the systems, the texts, the reasonings, all the varied lot? I put them together.",
+   "choices": [
+    {
+     "payload": "akartā + double negative kept street",
+     "term": "no doer neither",
+     "why": "non-doer doubled; grammar bends, claim holds"
+    },
+    {
+     "payload": "racayāmi",
+     "term": "put them together",
+     "why": "composing as assembling, kept active"
+    },
+    {
+     "payload": "citrān",
+     "term": "varied lot",
+     "why": "varied systems-texts-reasonings as the lot"
+    }
+   ],
+   "chunk": "param-p06-v50",
+   "gate": "PASS",
+   "rasa": "composer's paradox",
+   "sanskrit": "draṣṭā śrotā ghrātā dehendriyavarjito 'py akartāpi | siddhāntāgamatarkāṃś citrān aham eva racayāmi",
+   "style": "roadman"
+  },
+  {
+   "c2": "That's it — duality-thought dissolved, the enchanting Māyā stepped over. Like water in water, milk in milk: melt into brahman.",
+   "choices": [
+    {
+     "payload": "pravilaṅghya (crossed as stepped-over)",
+     "term": "stepped over",
+     "why": "crossing kept striding; Māyā not fought, passed"
+    },
+    {
+     "payload": "līna",
+     "term": "melt into",
+     "why": "dissolving kept liquid; optative as invitation"
+    },
+    {
+     "payload": "image mapped not dropped",
+     "term": "water in water",
+     "why": "sameness-medium as the mechanism shown"
+    }
+   ],
+   "chunk": "param-p06-v51",
+   "gate": "PASS",
+   "rasa": "dissolving by crossing",
+   "sanskrit": "itthaṃ dvaitavikalpe galite pravilaṅghya mohinīṃ māyām | salile salilaṃ kṣīre kṣīram iva brahmaṇi layī syāt",
+   "style": "roadman"
+  },
+  {
+   "c2": "Same way — get to Śiva-madeness by contemplation, in the host of principles. What sorrow then? What delusion? You're looking at brahman in everything.",
+   "choices": [
+    {
+     "payload": "ittham",
+     "term": "Same way",
+     "why": "thus carried as same-method"
+    },
+    {
+     "payload": "abhiyāta",
+     "term": "get to",
+     "why": "attained as arrived-at"
+    },
+    {
+     "payload": "sarvaṃ brahma avalokayataḥ",
+     "term": "looking at brahman in everything",
+     "why": "beholder's view stated as universal sight"
+    }
+   ],
+   "chunk": "param-p06-v52",
+   "gate": "PASS",
+   "rasa": "sorrow cancelled",
+   "sanskrit": "itthaṃ tattvasamūhe bhāvanayā śivamayatvam abhiyāte | kaḥ śokaḥ ko mohaḥ sarvaṃ brahmāvalokayataḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Good or bad, the fruit of deeds comes only off contact with false knowing. And contact's fault is peak — like rolling with a thief when you ain't one.",
+   "choices": [
+    {
+     "payload": "saṃgamāt eva",
+     "term": "comes only off",
+     "why": "from-contact-indeed as sole source"
+    },
+    {
+     "payload": "viṣama (hard as peak)",
+     "term": "peak",
+     "why": "contact-fault at maximum; one syllable"
+    },
+    {
+     "payload": "taskara-yoga",
+     "term": "rolling with a thief",
+     "why": "company kept as rolling-with"
+    },
+    {
+     "payload": "ataskara",
+     "term": "ain't one",
+     "why": "non-thief kept plain; innocence intact"
+    }
+   ],
+   "chunk": "param-p06-v53",
+   "gate": "PASS",
+   "rasa": "guilt by contact",
+   "sanskrit": "karmaphalaṃ śubham aśubhaṃ mithyājñānena saṃgamād eva | viṣamo hi saṅgadoṣas taskarayogo 'py ataskarasyeva",
+   "style": "roadman"
+  },
+  {
+   "c2": "The ones who run world-convention and nurse ignorance here? Fools. They go birth to death, bolted by duty's locks.",
+   "choices": [
+    {
+     "payload": "kṛt (makers as runners)",
+     "term": "run",
+     "why": "convention-makers as operators"
+    },
+    {
+     "payload": "upāsate (attend as nurse)",
+     "term": "nurse",
+     "why": "tending ignorance as nursing it along"
+    },
+    {
+     "payload": "argala (bolt kept as bolted)",
+     "term": "bolted",
+     "why": "duty-locks as bolts; bound state kept hard"
+    }
+   ],
+   "chunk": "param-p06-v54",
+   "gate": "PASS",
+   "rasa": "the fools' commute",
+   "sanskrit": "lokavyavahārakṛtāṃ ya ihāvidyām upāsate mūḍhāḥ | te yānti janmamṛtyū dharmādharmārgalābaddhāḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "But even duty-made deeds, heaped up in ignorance-time, stacked long like cotton — they burn off in the knowing-flame.",
+   "choices": [
+    {
+     "payload": "cira-saṃcita",
+     "term": "stacked long",
+     "why": "long-heaped as stacked over time"
+    },
+    {
+     "payload": "naśyati by dīpti",
+     "term": "burn off",
+     "why": "perishing as burning-off in flame-power"
+    },
+    {
+     "payload": "vijñāna-dīpti kept term",
+     "term": "knowing-flame",
+     "why": "flame of knowing as the instrument named"
+    }
+   ],
+   "chunk": "param-p06-v55",
+   "gate": "PASS",
+   "rasa": "heaps burnt",
+   "sanskrit": "ajñānakālanicitam dharmādharmātmakaṃ tu karmāpi | cirasaṃcitam iva tūlaṃ naśyati vijñānadīptivaśāt",
+   "style": "roadman"
+  },
+  {
+   "c2": "Done, but not for fruit — so where's birth coming from? Birth-bond gone and done with: the Śiva-sun shines by its own rays.",
+   "choices": [
+    {
+     "payload": "katham janma",
+     "term": "where's birth coming from",
+     "why": "how-birth as challenged origin"
+    },
+    {
+     "payload": "gata",
+     "term": "gone and done with",
+     "why": "gone-bond doubled; finished"
+    },
+    {
+     "payload": "sva-dīdhitibhiḥ",
+     "term": "by its own rays",
+     "why": "self-light as instrument, no borrowed shine"
+    }
+   ],
+   "chunk": "param-p07-v56",
+   "gate": "PASS",
+   "rasa": "fruitless done, self-lit",
+   "sanskrit": "jñānaprāptau kṛtam api na phalāya tato 'sya janma katham | gatajanmabandhayogo bhāti śivārkaḥ svadīdhitibhiḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Seed stripped of husk, cover, bran — it ain't sprouting. Same self, free of atom, Māyā, deed? No rebirth sprout.",
+   "choices": [
+    {
+     "payload": "mukta",
+     "term": "stripped",
+     "why": "freed-from as stripped bare"
+    },
+    {
+     "payload": "na kurute carried",
+     "term": "ain't sprouting",
+     "why": "makes-no-sprout kept negative"
+    },
+    {
+     "payload": "na bhava-aṅkura",
+     "term": "No rebirth sprout",
+     "why": "birth-sprout refused outright"
+    }
+   ],
+   "chunk": "param-p07-v57",
+   "gate": "PASS",
+   "rasa": "stripped seed, no sprout",
+   "sanskrit": "tuṣakambukakiṃśārukamuktaṃ bījaṃ yathāṅkuraṃ kurute | naiva tathāṇavamāyākarmavimukto bhavāṅkuraṃ hy ātmā",
+   "style": "roadman"
+  },
+  {
+   "c2": "Man who knows the self fears nowhere — everything's his own form. And he never grieves, since in truth nothing's perished. Ever.",
+   "choices": [
+    {
+     "payload": "na kutaścana bibheti",
+     "term": "fears nowhere",
+     "why": "no-whence fearing; directions exhausted"
+    },
+    {
+     "payload": "nija-rūpa",
+     "term": "his own form",
+     "why": "own-form as everything's shape"
+    },
+    {
+     "payload": "nāśitā nāsti",
+     "term": "nothing's perished",
+     "why": "perished-ness denied; grief's ground removed"
+    }
+   ],
+   "chunk": "param-p07-v58",
+   "gate": "PASS",
+   "rasa": "fearless, griefless",
+   "sanskrit": "ātmajño na kutaścana bibheti sarvaṃ hi tasya nijarūpam | naiva ca śocati yasmāt paramārthe nāśitā nāsti",
+   "style": "roadman"
+  },
+  {
+   "c2": "Out of the heart-treasury, locked secret — truth-jewels heaped and sprouted. 'I indeed.' In the great-Lord state — what misfortune? Whose?",
+   "choices": [
+    {
+     "payload": "atigūḍha",
+     "term": "locked secret",
+     "why": "supersecret as locked room"
+    },
+    {
+     "payload": "saṃcaya + prarūḍha",
+     "term": "heaped and sprouted",
+     "why": "heap risen; piled truth grown"
+    },
+    {
+     "payload": "aham eva quoted",
+     "term": "'I indeed'",
+     "why": "self-claim quoted verbatim; no paraphrase dare"
+    }
+   ],
+   "chunk": "param-p07-v59",
+   "gate": "PASS",
+   "rasa": "treasury opened",
+   "sanskrit": "atigūḍhahṛdayagañjaprarūḍhaparamārtharatnasaṃcayataḥ | aham eveti maheśvarabhāve kā durgatiḥ kasya",
+   "style": "roadman"
+  },
+  {
+   "c2": "Liberation's got no address. No going elsewhere neither. Cut ignorance's knot and your own power showing up — that's liberation.",
+   "choices": [
+    {
+     "payload": "na dhāma",
+     "term": "no address",
+     "why": "abode-denied as no-fixed-place"
+    },
+    {
+     "payload": "na gamanam anyatra",
+     "term": "No going elsewhere neither",
+     "why": "double negative kept street; travel refused"
+    },
+    {
+     "payload": "abhivyakti",
+     "term": "showing up",
+     "why": "manifestation as arrival on scene"
+    }
+   ],
+   "chunk": "param-p07-v60",
+   "gate": "PASS",
+   "rasa": "no-place liberation",
+   "sanskrit": "mokṣasya naiva kiṃcid dhāmāsti na cāpi gamanam anyatra | ajñānagranthibhidā svaśaktyabhivyaktatā mokṣaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Knot cut. Doubt gone. Delusion binned. Merit and demerit spent. Body on — still free.",
+   "choices": [
+    {
+     "payload": "parākṛta (cast-off)",
+     "term": "binned",
+     "why": "delusion thrown out, not argued down"
+    },
+    {
+     "payload": "prakṣīṇa (wasted)",
+     "term": "spent",
+     "why": "merit-demerit used up to zero"
+    },
+    {
+     "payload": "vigraha-yoge api",
+     "term": "Body on",
+     "why": "yoked-to-body kept worn; freedom inside it"
+    }
+   ],
+   "chunk": "param-p07-v61",
+   "gate": "PASS",
+   "rasa": "freed in-body",
+   "sanskrit": "bhinnājñānagranthir gatasaṃdehaḥ parākṛtabhrāntiḥ | prakṣīṇapuṇyapāpo vigrahayoge 'py asau muktaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Seed that fire got won't sprout. Same deal: deeds burnt by knowing-fire don't give birth no more.",
+   "choices": [
+    {
+     "payload": "agni-abhidagdha",
+     "term": "fire got",
+     "why": "seized by fire; inflammation as capture"
+    },
+    {
+     "payload": "praroha-asamarthatā",
+     "term": "won't sprout",
+     "why": "sprout-power gone; incapacity kept"
+    },
+    {
+     "payload": "na janma-prada + double negative street",
+     "term": "don't give birth no more",
+     "why": "birth-giving refused twice for emphasis"
+    }
+   ],
+   "chunk": "param-p07-v62",
+   "gate": "PASS",
+   "rasa": "burnt seed, no birth",
+   "sanskrit": "agnyabhidagdhaṃ bījaṃ yathā prarohāsamarthatām eti | jñānāgnidagdham evaṃ karma na janmapradaṃ bhavati",
+   "style": "roadman"
+  },
+  {
+   "c2": "Small mind pictures a body to fit its deeds. Body drops — knowing comes out contracted, shining just that wide.",
+   "choices": [
+    {
+     "payload": "parimita-buddhi",
+     "term": "Small mind",
+     "why": "limited-mind as smallness, kept plain"
+    },
+    {
+     "payload": "bhāvanā",
+     "term": "pictures",
+     "why": "contemplating as picturing-a-body"
+    },
+    {
+     "payload": "saṅkucita",
+     "term": "contracted",
+     "why": "shining narrowed; width fitted to deeds"
+    }
+   ],
+   "chunk": "param-p07-v63",
+   "gate": "PASS",
+   "rasa": "contracted shining",
+   "sanskrit": "parimitabuddhitvena hi karmocitabhāvidehabhāvanayā | saṅkucitā citir etaddehadhvaṃse tathā bhāti",
+   "style": "roadman"
+  },
+  {
+   "c2": "But if knowing's stainless — all-transcended, knower and doer both, spread out, light-formed with no setting nor rising, true-resolved...",
+   "choices": [
+    {
+     "payload": "amala",
+     "term": "stainless",
+     "why": "kept as the condition word"
+    },
+    {
+     "payload": "boddhṛ-kartṛ-maya",
+     "term": "both",
+     "why": "knower-doer-made as double role"
+    },
+    {
+     "payload": "anastamita-udita",
+     "term": "no setting nor rising",
+     "why": "unrisen-unset kept as never-cycle"
+    },
+    {
+     "payload": "open protasis, no apodosis",
+     "term": "trailing condition",
+     "why": "if-clause left open; nothing smuggled after it"
+    }
+   ],
+   "chunk": "param-p07-v64",
+   "gate": "PASS",
+   "rasa": "the stainless if (open)",
+   "sanskrit": "yadi punar amalaṃ bodhaṃ sarvasamuttīrnaboddhṛkartṛmayam | vitatam anastamitoditabhārūpam satyasaṃkalpam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Past direction, time, and touch. Firm. Can't change. The full Lord — the one boss making and breaking hosts of powers.",
+   "choices": [
+    {
+     "payload": "vikala (free-of as past)",
+     "term": "Past",
+     "why": "beyond rendered as gone-past; limits behind"
+    },
+    {
+     "payload": "avyaya/dhruva",
+     "term": "Can't change",
+     "why": "firm-changeless as inability kept absolute"
+    },
+    {
+     "payload": "eka-kartṛ",
+     "term": "one boss",
+     "why": "sole-maker as the one in charge"
+    }
+   ],
+   "chunk": "param-p08-v65",
+   "gate": "PASS",
+   "rasa": "beyond, in charge",
+   "sanskrit": "dikkālakalanavikalaṃ dhruvam avyayam īśvaraṃ suparipūrṇam | bahutaraśaktivrātapralayodayaviracanaikakartāram",
+   "style": "roadman"
+  },
+  {
+   "c2": "Wake up to yourself as Śiva-made — the one who writes creation's rules. How you gonna wander after that? Spread everywhere — from where? To where? What refuge?",
+   "choices": [
+    {
+     "payload": "vibudhyeta as call",
+     "term": "Wake up",
+     "why": "optative awakening as imperative call"
+    },
+    {
+     "payload": "vidhi-suvedhasa",
+     "term": "writes the rules",
+     "why": "rule-wise-maker as authoring"
+    },
+    {
+     "payload": "katham saṃsārī",
+     "term": "How you gonna wander",
+     "why": "wanderer-state refused by question"
+    }
+   ],
+   "chunk": "param-p08-v66",
+   "gate": "PASS",
+   "rasa": "wandering cancelled",
+   "sanskrit": "sṛṣṭyādividhisuvedhasam ātmānaṃ śivamayaṃ vibudhyeta | katham iva saṃsārī syād vitatasya kutaḥ kva vā saraṇam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Proved by reason: the knower's deeds bear no fruit. 'Not mine, this — His.' Hold that firm. No fruit in this world.",
+   "choices": [
+    {
+     "payload": "yuktibhiḥ",
+     "term": "by reason",
+     "why": "reasons plural kept; no number invented"
+    },
+    {
+     "payload": "na mama/tasya quoted",
+     "term": "Not mine — His",
+     "why": "disclaimer quoted verbatim; ownership transferred"
+    },
+    {
+     "payload": "dārḍhya",
+     "term": "Hold that firm",
+     "why": "firmness as grip kept"
+    }
+   ],
+   "chunk": "param-p08-v67",
+   "gate": "PASS",
+   "rasa": "fruit denied",
+   "sanskrit": "iti yuktibhir api siddhaṃ yatkarma jñānino na saphalaṃ tat | na mamedam api tu tasyeti dārḍhyato na hi phalaṃ loke",
+   "style": "roadman"
+  },
+  {
+   "c2": "So: wake up, let contemplation blow through, chuck every thought in the blazing self-flame — and turn flame yourself.",
+   "choices": [
+    {
+     "payload": "samīraṇa (wind)",
+     "term": "blow through",
+     "why": "contemplation-wind as weather passing through"
+    },
+    {
+     "payload": "juhvat (sacrificing as chucking)",
+     "term": "chuck in",
+     "why": "offering kept casual; totality kept"
+    },
+    {
+     "payload": "jyotir-maya bhavati",
+     "term": "turn flame",
+     "why": "becoming flame-made as turning kept"
+    }
+   ],
+   "chunk": "param-p08-v68",
+   "gate": "PASS",
+   "rasa": "self-immolation, bright",
+   "sanskrit": "itthaṃ sakalavikalpān pratibuddho bhāvanāsamīraṇataḥ | ātmajyotiṣi dīpte juhvaj jyotirmayo bhavati",
+   "style": "roadman"
+  },
+  {
+   "c2": "Eats this or that. Wears whatever. Calm. Lives anywhere. The self of all beings is freed.",
+   "choices": [
+    {
+     "payload": "yad vā tad vā",
+     "term": "this or that",
+     "why": "eating unspecified; no menu given"
+    },
+    {
+     "payload": "saṃvīta yena kenacit",
+     "term": "Wears whatever",
+     "why": "covered-by-anything as no dress code"
+    },
+    {
+     "payload": "yatra kvacana nivāsī",
+     "term": "Lives anywhere",
+     "why": "dwelling unplaced; everywhere as address"
+    }
+   ],
+   "chunk": "param-p08-v69",
+   "gate": "PASS",
+   "rasa": "freed anywhere",
+   "sanskrit": "aśnan yad vā tad vā saṃvīto yena kenacic chāntaḥ | yatra kvacana nivāsī vimucyate sarvabhūtātmā",
+   "style": "roadman"
+  },
+  {
+   "c2": "Horse-rites by the hundred thousand, brahmin-killings by the hundred thousand — the truth-knower? Merit can't touch him. Demerit can't touch him. Stainless.",
+   "choices": [
+    {
+     "payload": "śata-sahasra/lakṣa kept counted",
+     "term": "by the hundred thousand",
+     "why": "extremes counted, not rounded; scale kept"
+    },
+    {
+     "payload": "na spṛśyate (passive with named immunity)",
+     "term": "can't touch him",
+     "why": "untouched kept physical; both sides refused"
+    },
+    {
+     "payload": "vimala seal",
+     "term": "Stainless",
+     "why": "closer; stainlessness as final word"
+    }
+   ],
+   "chunk": "param-p08-v70",
+   "gate": "PASS",
+   "rasa": "extremes don't stick",
+   "sanskrit": "hayamedhaśatasahasrāṇy api kurute brahmaghātalakṣāṇi | paramārthavit na puṇyair na ca pāpaiḥ spṛśyate vimalaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Leave pride, joy, anger, lust, sorrow, fear, greed, delusion. No praise songs. No vaṣaṭs. Move dull-looking, opinion-free.",
+   "choices": [
+    {
+     "payload": "stotra",
+     "term": "praise songs",
+     "why": "hymns as songs; genre kept musical"
+    },
+    {
+     "payload": "jaḍa iva",
+     "term": "dull-looking",
+     "why": "as-if-dull kept appearance, not state"
+    },
+    {
+     "payload": "avāda-mati",
+     "term": "opinion-free",
+     "why": "no-doctrine-mind as freedom kept"
+    }
+   ],
+   "chunk": "param-p08-v71",
+   "gate": "PASS",
+   "rasa": "opinionless motion",
+   "sanskrit": "madaharṣakopamanmathaviṣādabhayalobhamohaparivarjī | niḥstotravaṣaṭkāro jaḍa iva vicared avādamatiḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Pride, joy, the whole gang — they rise out of difference-delusion. So how's any of that gonna touch the one awake to the nondual self?",
+   "choices": [
+    {
+     "payload": "varga host",
+     "term": "whole gang",
+     "why": "host as crew; pride-joy plus hangers-on"
+    },
+    {
+     "payload": "prabhavati",
+     "term": "rise out of",
+     "why": "arising kept sourced in delusion"
+    },
+    {
+     "payload": "spṛśyatām optative",
+     "term": "gonna touch",
+     "why": "could-be-touched as refused future"
+    }
+   ],
+   "chunk": "param-p08-v72",
+   "gate": "PASS",
+   "rasa": "untouchable by origin",
+   "sanskrit": "madaharṣaprabhṛtir ayaṃ vargaḥ prabhavati vibhedasaṃmohāt | advaitātmavibodhas tena kathaṃ spṛśyatāṃ nāma",
+   "style": "roadman"
+  },
+  {
+   "c2": "Nothing to praise, nothing to offer — nothing standing apart from Him, full stop. Praise pleases him, he's freed — then no bowing, no vaṣaṭs.",
+   "choices": [
+    {
+     "payload": "nāsti...kiṃcana",
+     "term": "full stop",
+     "why": "nothing-separate sealed; sentence ended"
+    },
+    {
+     "payload": "muktaḥ",
+     "term": "freed",
+     "why": "freed stated as status"
+    },
+    {
+     "payload": "nirnamaskṛti-vaṣaṭka",
+     "term": "no bowing, no vaṣaṭs",
+     "why": "both rites refused by name"
+    }
+   ],
+   "chunk": "param-p08-v73",
+   "gate": "PASS",
+   "rasa": "nothing apart, nothing owed",
+   "sanskrit": "stutyaṃ vā hotavyaṃ nāsti vyatiriktam asya kiṃcana ca | stotrādinā sa tuṣyen muktas tan nirnamaskṛtivaṣaṭkaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Thirty-six principles carried. Full-eyed in the making of the body. His god-house? His own body or someone else's — jar and the lot.",
+   "choices": [
+    {
+     "payload": "bhṛta",
+     "term": "carried",
+     "why": "bearing as carrying the count"
+    },
+    {
+     "payload": "gavākṣa kept (Tier 3)",
+     "term": "Full-eyed",
+     "why": "window-eyed kept; referent unresolved, no invention"
+    },
+    {
+     "payload": "ghaṭādi",
+     "term": "jar and the lot",
+     "why": "jar-etcetera as the full inventory"
+    }
+   ],
+   "chunk": "param-p09-v74",
+   "gate": "PASS",
+   "rasa": "temple as body",
+   "sanskrit": "ṣaṭtriṃśattattvabhṛtaṃ vigraharacanāgavākṣaparipūrṇam | nijam anyad atha śarīraṃ ghaṭādi vā tasya devagṛham",
+   "style": "roadman"
+  },
+  {
+   "c2": "And there she sits — supreme Bhairava-Śiva's own goddess, yoked to her power — worshipped with pure gifts from his own hands.",
+   "choices": [
+    {
+     "payload": "devatā kept feminine",
+     "term": "own goddess",
+     "why": "goddess as His own, supreme kept"
+    },
+    {
+     "payload": "svaśakti-yutā",
+     "term": "yoked to her power",
+     "why": "power-yoked as harnessed, not owned apart"
+    },
+    {
+     "payload": "ātmāmarśana (self-grasp)",
+     "term": "from his own hands",
+     "why": "self-grasped gifts; no middleman"
+    }
+   ],
+   "chunk": "param-p09-v75",
+   "gate": "PASS",
+   "rasa": "goddess enthroned",
+   "sanskrit": "tatra ca paramātmamahābhairavaśivadevatāṃ svaśaktiyutām | ātmāmarśanavimaladravyaiḥ paripūjayann āste",
+   "style": "roadman"
+  },
+  {
+   "c2": "Chuck the whole heap — outer, inner, fancied differences, the lot — in his blazing knowing-fire. No effort. That's the offering.",
+   "choices": [
+    {
+     "payload": "mahā-bīja-nicaya",
+     "term": "whole heap",
+     "why": "great-seed-heap as the full pile"
+    },
+    {
+     "payload": "saṃvij-jvalana kept term",
+     "term": "blazing knowing-fire",
+     "why": "knowing-fire as the altar named"
+    },
+    {
+     "payload": "vinā yatnāt",
+     "term": "No effort",
+     "why": "without-effort as the offering's ease"
+    }
+   ],
+   "chunk": "param-p09-v76",
+   "gate": "PASS",
+   "rasa": "effortless offering",
+   "sanskrit": "bahirantaraparikalpanabhedamahābījanicayam arpayataḥ | tasyātidīptasaṃvijjvalane yatnād vinā bhavati homaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Meditation that never sets: the blessed Lord keeps creating varied forms. And that's the meditation — true-formed as fancy draws it.",
+   "choices": [
+    {
+     "payload": "anastamita",
+     "term": "never sets",
+     "why": "unsetting kept solar; no night"
+    },
+    {
+     "payload": "sṛjati present",
+     "term": "keeps creating",
+     "why": "creates kept ongoing, not once"
+    },
+    {
+     "payload": "saṃkalpa-ālikhita",
+     "term": "fancy draws it",
+     "why": "imagination-drawn as sketched-true"
+    }
+   ],
+   "chunk": "param-p09-v77",
+   "gate": "PASS",
+   "rasa": "creating as meditating",
+   "sanskrit": "dhyānam anastamitaṃ punar eṣa hi bhagavān vicitrarūpāṇi | sṛjati tad eva dhyānaṃ saṃkalpālikhitasatyarūpatvam",
+   "style": "roadman"
+  },
+  {
+   "c2": "World-rows, principle-patterns, sense-hosts — he turns the lot in inner knowing. And that's called his muttering.",
+   "choices": [
+    {
+     "payload": "parivartayati",
+     "term": "turns",
+     "why": "turning-over as the reciting act"
+    },
+    {
+     "payload": "samastā",
+     "term": "the lot",
+     "why": "whole rows-principles-hosts as one lot"
+    },
+    {
+     "payload": "asya japaḥ",
+     "term": "his muttering",
+     "why": "muttering kept low; called, not named"
+    }
+   ],
+   "chunk": "param-p09-v78",
+   "gate": "PASS",
+   "rasa": "turning as reciting",
+   "sanskrit": "bhuvanāvalīṃ samastāṃ tattvakramakalpanām athākṣagaṇam | antarbodhe parivartayati ca yat so 'sya japa uditaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Sees it all dead even. Calls knowing enough. Loves the burning-ground world. Holds his body like a skull-staff.",
+   "choices": [
+    {
+     "payload": "samayā (even glance)",
+     "term": "dead even",
+     "why": "evenness kept absolute; dead as total"
+    },
+    {
+     "payload": "manute (deems content)",
+     "term": "Calls knowing enough",
+     "why": "deeming as satisfied verdict"
+    },
+    {
+     "payload": "khaṭvāṅga kept literal gear",
+     "term": "skull-staff",
+     "why": "implement kept; Kaula gear is literal, not image"
+    }
+   ],
+   "chunk": "param-p09-v79",
+   "gate": "PASS",
+   "rasa": "even glance, fierce gear",
+   "sanskrit": "sarvaṃ samayā dṛṣṭyā yat paśyati yac ca saṃvidaṃ manute | viśvaśmaśānaniratāṃ vigrahakhaṭvāṅgakalpanākalitām",
+   "style": "roadman"
+  },
+  {
+   "c2": "Tastes the world-essence drink from the known-bit bowl, held in his own hand, filled to the top. That's the vow — hardest to get, easiest to hold.",
+   "choices": [
+    {
+     "payload": "viśva-rasa-āsava",
+     "term": "world-essence drink",
+     "why": "essence-drink as tasted world"
+    },
+    {
+     "payload": "vedya-khaṇḍaka-kapāla",
+     "term": "known-bit bowl",
+     "why": "skull-bowl kept; fragments known"
+    },
+    {
+     "payload": "sudurlabha/sulabha doubled",
+     "term": "hardest to get, easiest to hold",
+     "why": "both poles kept; vow as paradox held open"
+    }
+   ],
+   "chunk": "param-p09-v80",
+   "gate": "PASS",
+   "rasa": "tasted vow",
+   "sanskrit": "viśvarasāsavapūrṇaṃ nijakaragaṃ vedyakha.ṅdakakapālam | rasayati ca yat tad etad vratam asya sudurlabhaṃ ca sulabhaṃ ca",
+   "style": "roadman"
+  },
+  {
+   "c2": "So: free of birth and death, named truth's great Lord. Got it. And by the finder's shining — done and done, standing as he likes.",
+   "choices": [
+    {
+     "payload": "upalabhya",
+     "term": "Got it",
+     "why": "having-got as got; attainment as catch"
+    },
+    {
+     "payload": "kṛta-kṛtya",
+     "term": "done and done",
+     "why": "done-done doubled; nothing left"
+    },
+    {
+     "payload": "tiṣṭhati yatheṣṭam",
+     "term": "standing as he likes",
+     "why": "stands as-wished; posture as freedom"
+    }
+   ],
+   "chunk": "param-p09-v81",
+   "gate": "PASS",
+   "rasa": "done-done standing",
+   "sanskrit": "iti janmanāśahīnaṃ paramārthamaheśvarākhyam upalabhya | upalabdhṛtāprakāśāt kṛtakṛtyas tiṣṭhati yatheṣṭam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Pervading, like they said. All-self. Shook off the many. Bliss with no peer, top shelf. Know that and you're made of it.",
+   "choices": [
+    {
+     "payload": "abhihitam ittham (as told)",
+     "term": "like they said",
+     "why": "told-thus as received teaching"
+    },
+    {
+     "payload": "vidhūta-nānātva",
+     "term": "Shook off the many",
+     "why": "diversity shaken off like dust"
+    },
+    {
+     "payload": "nirupama (peerless as top)",
+     "term": "top shelf",
+     "why": "no-peer bliss as highest stock"
+    },
+    {
+     "payload": "tanmaya",
+     "term": "made of it",
+     "why": "made-of-that as стать; knower remade"
+    }
+   ],
+   "chunk": "param-p09-v82",
+   "gate": "PASS",
+   "rasa": "pervasion known, knower made",
+   "sanskrit": "vyāpinam abhihitam itthaṃ sarvātmānaṃ vidhūtanānātvam | nirupamaparamānandaṃ yo vetti sa tanmayo bhavati",
+   "style": "roadman"
+  },
+  {
+   "c2": "Shrine or doss-house for outcastes — memory gone either way — drop the body and you're free on the spot, knowing and freedom same time. Off to isolation. Sorrow dead.",
+   "choices": [
+    {
+     "payload": "śvapaca-gṛha (outcaste hut as doss)",
+     "term": "doss-house",
+     "why": "low-place kept low; no softening"
+    },
+    {
+     "payload": "samakāla",
+     "term": "on the spot",
+     "why": "same-time freedom as instant"
+    },
+    {
+     "payload": "hata-śoka",
+     "term": "Sorrow dead",
+     "why": "killed-sorrow as dead, not healed"
+    }
+   ],
+   "chunk": "param-p10-v83",
+   "gate": "PASS",
+   "rasa": "place doesn't matter",
+   "sanskrit": "tīrthe śvapacagṛhe vā naṣṭasmṛtir api parityajan deham | jñānasamakālamuktaḥ kaivalyaṃ yāti hataśokaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Shrine-time earns merit. Doss-death buys hell. But with zero stain of merit or demerit on you — what's any of that to you?",
+   "choices": [
+    {
+     "payload": "tīrtha-sevā",
+     "term": "Shrine-time",
+     "why": "shrine-service as time served"
+    },
+    {
+     "payload": "śvapacasadana-nidhana",
+     "term": "Doss-death",
+     "why": "outcaste-house death-going kept blunt"
+    },
+    {
+     "payload": "sparśa-abhāva",
+     "term": "zero stain",
+     "why": "touch-absence as clean record"
+    }
+   ],
+   "chunk": "param-p10-v84",
+   "gate": "PASS",
+   "rasa": "rites irrelevant",
+   "sanskrit": "puṇyāya tīrthasevā nirayāya śvapacasadananidhanagatiḥ | puṇyāpuṇyakalaṅkasparśābhāve tu kiṃ tena",
+   "style": "roadman"
+  },
+  {
+   "c2": "Rice pulled clean from husk and bran, tossed back among the husks — it never goes back to being one with them. Ever.",
+   "choices": [
+    {
+     "payload": "supṛthak-kṛta",
+     "term": "pulled clean",
+     "why": "well-separated as pulled right out"
+    },
+    {
+     "payload": "antara-kṣepaḥ",
+     "term": "tossed back among",
+     "why": "thrown-between as re-entry refused"
+    },
+    {
+     "payload": "na punar (never again)",
+     "term": "Ever",
+     "why": "closer; never as final word"
+    }
+   ],
+   "chunk": "param-p10-v85",
+   "gate": "PASS",
+   "rasa": "separation final",
+   "sanskrit": "tuṣakambukasupṛthakkṛtata.ṅdulakaṇatuṣadalāntarakṣepaḥ | ta.ṅdulakaṇasya kurute na punas tadrūpatādātmyam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Same deal: knowing peeled from the sheath-curtain, standing here on impressions — the freed self comes out untouched by that touch.",
+   "choices": [
+    {
+     "payload": "pṛthak-kṛtā",
+     "term": "peeled",
+     "why": "separated as peeled off; tadvat carried"
+    },
+    {
+     "payload": "saṃskārāt",
+     "term": "on impressions",
+     "why": "standing kept on old marks"
+    },
+    {
+     "payload": "tat-sparśa-vivarjita",
+     "term": "untouched by that touch",
+     "why": "that-touch avoided twice over"
+    }
+   ],
+   "chunk": "param-p10-v86",
+   "gate": "PASS",
+   "rasa": "standing free of touch",
+   "sanskrit": "tadvat kañcukapaṭalīpṛthakkṛtā saṃvid atra saṃskārāt | tiṣṭhanty api muktātmā tatsparśavivarjitā bhavati",
+   "style": "roadman"
+  },
+  {
+   "c2": "Stained gem in a box — best craftsman's flawless finish on the setting. Cut the setting and the truth shows clear.",
+   "choices": [
+    {
+     "payload": "upādhi (condition as setting)",
+     "term": "setting",
+     "why": "condition as mount; gem held by it"
+    },
+    {
+     "payload": "kuśalatama-śilpin",
+     "term": "best craftsman",
+     "why": "skilledest kept superlative"
+    },
+    {
+     "payload": "svaccha-paramārtha",
+     "term": "truth shows clear",
+     "why": "clear-truth as what-cutting-reveals"
+    }
+   ],
+   "chunk": "param-p10-v87",
+   "gate": "PASS",
+   "rasa": "cut open, clear",
+   "sanskrit": "kuśalatamaśilpikalpitavimalībhāvaḥ samudgakopādheḥ | malino 'pi maṇir upādheḥ vicchede svacchaparamārthaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Same: the pure state the true teacher taught — feeling the body on, freed of every other bind — shines out Śiva-formed.",
+   "choices": [
+    {
+     "payload": "vimala-sthiti",
+     "term": "the pure state",
+     "why": "pure-state kept as the thing taught"
+    },
+    {
+     "payload": "vedana + tanu-upādhi",
+     "term": "feeling the body on",
+     "why": "body-condition felt, still worn"
+    },
+    {
+     "payload": "upādhi-antara-śūnya",
+     "term": "every other bind",
+     "why": "other-conditions voided; one feeling kept"
+    }
+   ],
+   "chunk": "param-p10-v88",
+   "gate": "PASS",
+   "rasa": "bound-feeling, bind-free",
+   "sanskrit": "evaṃ sadguruśāsanavimalasthiti vedanaṃ tanūpādheḥ | muktam apy upādhyantaraśūnyam ivābhāti śivarūpam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Scripture backs it, faith don't shake — become that. Got it before heaven, hell, or being human.",
+   "choices": [
+    {
+     "payload": "śāstra-prāmāṇya",
+     "term": "Scripture backs it",
+     "why": "authority as backing; weight kept"
+    },
+    {
+     "payload": "avicalita",
+     "term": "don't shake",
+     "why": "unshaken kept steady"
+    },
+    {
+     "payload": "pūrva (got it first)",
+     "term": "before",
+     "why": "priority in time; heaven waits"
+    }
+   ],
+   "chunk": "param-p10-v89",
+   "gate": "PASS",
+   "rasa": "got it early",
+   "sanskrit": "śāstrādiprāmāṇyād avicalitaśraddhayāpi tanmayatām | prāptaḥ sa eva pūrvaṃ svargaṃ narakaṃ manuṣyatvam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Last moment, feeding a merit or demerit state — for fools it plays helper. But going on? No cause there.",
+   "choices": [
+    {
+     "payload": "puṣyan (nourishing)",
+     "term": "feeding",
+     "why": "moment feeds a state; kept tending"
+    },
+    {
+     "payload": "mūḍhānām (restored — stack says it)",
+     "term": "for fools",
+     "why": "helper-role scoped to fools; knowers exempt"
+    },
+    {
+     "payload": "na hetuḥ",
+     "term": "No cause",
+     "why": "cause refused; helper is not maker"
+    }
+   ],
+   "chunk": "param-p10-v90",
+   "gate": "PASS",
+   "rasa": "helper, not cause",
+   "sanskrit": "antyaḥ kṣaṇas tu tasmin puṇyāṃ pāpāṃ ca vā sthitiṃ puṣyan | mūḍhānāṃ sahakārībhāvaṃ gacchati gatau tu na sa hetuḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Beast, bird, creeper, the lot — whoever knows that self-ness goes his own way. Old awakening stamped in, they get there.",
+   "choices": [
+    {
+     "payload": "ādayaḥ (etcetera)",
+     "term": "the lot",
+     "why": "beast-bird-creeper plus the rest unnamed"
+    },
+    {
+     "payload": "tad-ātmatva",
+     "term": "that self-ness",
+     "why": "that-self-ness as the known thing"
+    },
+    {
+     "payload": "saṃskṛta (impressed)",
+     "term": "stamped in",
+     "why": "old-awakening marks as stamp kept"
+    }
+   ],
+   "chunk": "param-p10-v91",
+   "gate": "PASS",
+   "rasa": "no one excluded",
+   "sanskrit": "ye 'pi tadātmatvena viduḥ paśupakṣisarīsṛpādayaḥ svagatim | te 'pi purātanasaṃbodhasaṃskṛtās tāṃ gatiṃ yānti",
+   "style": "roadman"
+  },
+  {
+   "c2": "Heaven-built, hell-built — man's between bodies right now. That breaks and he links to the next body that fits.",
+   "choices": [
+    {
+     "payload": "deha-antarāla-ga",
+     "term": "between bodies",
+     "why": "body-interval-gone as in-transit"
+    },
+    {
+     "payload": "bhaṅga",
+     "term": "breaks",
+     "why": "breaking as the link-moment"
+    },
+    {
+     "payload": "svaucitya (own-fitness)",
+     "term": "that fits",
+     "why": "fitness as tailored next body"
+    }
+   ],
+   "chunk": "param-p11-v92",
+   "gate": "PASS",
+   "rasa": "between, then linked",
+   "sanskrit": "svargamayo nirayamayas tad ayaṃ dehāntarālagaḥ puruṣaḥ | tadbhaṅge svaucityād dehāntarayogam abhyeti",
+   "style": "roadman"
+  },
+  {
+   "c2": "The self shone for him once, in knowing-time — same shine when the body drops. Otherwise? Never.",
+   "choices": [
+    {
+     "payload": "sakṛt avabhāta",
+     "term": "shone for him once",
+     "why": "once-shone as unrepeatable flash"
+    },
+    {
+     "payload": "tādṛśa eva",
+     "term": "same shine",
+     "why": "suchness kept identical across death"
+    },
+    {
+     "payload": "na anyathā",
+     "term": "Otherwise? Never",
+     "why": "no-otherwise as slammed door"
+    }
+   ],
+   "chunk": "param-p11-v93",
+   "gate": "PASS",
+   "rasa": "same shine after",
+   "sanskrit": "evaṃ jñānāvasare svātmā sakṛd asya yādṛg avabhātaḥ | tādṛśa eva tadāsau na dehapāte 'nyathā bhavati",
+   "style": "roadman"
+  },
+  {
+   "c2": "Senses robbed. Memory gone. Breath choked. Cut off. Vitals hurting. Enjoyment running on body-impressions.",
+   "choices": [
+    {
+     "payload": "saṃpramoṣa (theft)",
+     "term": "robbed",
+     "why": "faculty-host stolen, not faded"
+    },
+    {
+     "payload": "kalilatā",
+     "term": "choked",
+     "why": "breath choking kept strangling"
+    },
+    {
+     "payload": "-ja (born-of as fueled-by)",
+     "term": "running on",
+     "why": "impression-born enjoyment as running-on fumes"
+    }
+   ],
+   "chunk": "param-p11-v94",
+   "gate": "PASS",
+   "rasa": "death-signs, listed",
+   "sanskrit": "karaṇagaṇasaṃpramoṣaḥ smṛtināśaḥ śvāsakalilatā cchedaḥ | marmasu rujāviśeṣāḥ śarīrasaṃskārajo bhogaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Embodied — how's he gonna be otherwise? Deluded and all — still, at death-time the knower don't fall off self-truth.",
+   "choices": [
+    {
+     "payload": "vigraha-yoge (kept state)",
+     "term": "Embodied",
+     "why": "body-yoked as the given condition"
+    },
+    {
+     "payload": "api concessive",
+     "term": "and all",
+     "why": "delusion granted, dismissed"
+    },
+    {
+     "payload": "na cyavate",
+     "term": "don't fall off",
+     "why": "not-falling kept gripping; double negative street"
+    }
+   ],
+   "chunk": "param-p11-v95",
+   "gate": "PASS",
+   "rasa": "unfallen at death",
+   "sanskrit": "sa kathaṃ vigrahayoge sati na bhavet tena mohayoge 'pi | maraṇāvasare jñānī na cyavate svātmaparamārthāt",
+   "style": "roadman"
+  },
+  {
+   "c2": "This truth-path, quick — got it straight from the teacher's mouth, grace falling hardest — then, no blocks: Śiva.",
+   "choices": [
+    {
+     "payload": "jhaṭiti",
+     "term": "quick",
+     "why": "speed as suddenness; no ramp"
+    },
+    {
+     "payload": "gurumukhāt",
+     "term": "straight from the mouth",
+     "why": "teacher-mouth as direct source"
+    },
+    {
+     "payload": "atitīvra-śaktipāta",
+     "term": "grace falling hardest",
+     "why": "keenest-fall as max intensity kept"
+    }
+   ],
+   "chunk": "param-p11-v96",
+   "gate": "PASS",
+   "rasa": "Śiva at once",
+   "sanskrit": "paramārthamārgam enaṃ jhaṭiti yadā gurumukhāt samabhyeti | atitīvraśaktipātāt tadaiva nirvighnam eva śivaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Form crossed over everything, step by step resorted — root in supreme truth gained, and at the end: made Śiva.",
+   "choices": [
+    {
+     "payload": "sarvottīrṇa",
+     "term": "crossed over everything",
+     "why": "all-crossed as gone past it all"
+    },
+    {
+     "payload": "sopāna-pada-krama",
+     "term": "step by step",
+     "why": "stairs-stages-order as steady climb"
+    },
+    {
+     "payload": "rūḍhi-lābha",
+     "term": "root gained",
+     "why": "rooting-gaining as taking root"
+    }
+   ],
+   "chunk": "param-p11-v97",
+   "gate": "PASS",
+   "rasa": "arrival by steps",
+   "sanskrit": "sarvottīrṇaṃ rūpaṃ sopānapadakrameṇa saṃśrayataḥ | paratattvarūḍhilābhe paryante śivamayībhāvaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "But his truth-stream, not reached, resting halfway — mind still hungry for that step — death can still come calling.",
+   "choices": [
+    {
+     "payload": "paramārtha-dhārā",
+     "term": "truth-stream",
+     "why": "stream kept flowing; path as current"
+    },
+    {
+     "payload": "madhya-viśrānti",
+     "term": "resting halfway",
+     "why": "middle-rest as paused, not ended"
+    },
+    {
+     "payload": "syāt (may-be as visit)",
+     "term": "come calling",
+     "why": "death-may-be as caller at the door"
+    }
+   ],
+   "chunk": "param-p11-v98",
+   "gate": "PASS",
+   "rasa": "cut short, maybe",
+   "sanskrit": "tasya tu paramārthamayīṃ dhārām agatasya madhyaviśrānteḥ | tatpadalābhotsukacetaso 'pi maraṇaṃ kadācit syāt",
+   "style": "roadman"
+  },
+  {
+   "c2": "Fall off yoga and the books still rate him lord of wonder-worlds and all their joys. Rest on his stage-power, come back — next birth, turning Śiva.",
+   "choices": [
+    {
+     "payload": "kathita (called)",
+     "term": "rate him",
+     "why": "books call him; rating kept textual"
+    },
+    {
+     "payload": "citra-bhoga-bhuvana",
+     "term": "wonder-worlds",
+     "why": "wonder-enjoyment worlds kept marvellous"
+    },
+    {
+     "payload": "śivī-bhavati (becoming kept process)",
+     "term": "turning Śiva",
+     "why": "becoming-Śiva as underway, not done"
+    }
+   ],
+   "chunk": "param-p11-v99",
+   "gate": "PASS",
+   "rasa": "fallen, still crowned",
+   "sanskrit": "yogabhraṣṭaḥ śāstre kathito 'sau citrabhogabhuvanapatiḥ | viśrāntisthānavaśād bhūtvā janmāntare śivībhavati",
+   "style": "roadman"
+  },
+  {
+   "c2": "Keep at this truth-path, miss the yoga proper, just by name even — god-world joys, glad mind, he enjoys himself long.",
+   "choices": [
+    {
+     "payload": "abhyasya (practising kept)",
+     "term": "Keep at",
+     "why": "practice kept ongoing despite missing"
+    },
+    {
+     "payload": "nāma (nominally)",
+     "term": "just by name",
+     "why": "name-only yoga kept partial"
+    },
+    {
+     "payload": "modate suciram",
+     "term": "enjoys himself long",
+     "why": "rejoicing long kept durative"
+    }
+   ],
+   "chunk": "param-p11-v100",
+   "gate": "PASS",
+   "rasa": "practising counts",
+   "sanskrit": "paramārthamārgam enaṃ hy abhyasyāprāpya yogam api nāma | suralokabhogabhāgī muditamanā modate suciram",
+   "style": "roadman"
+  },
+  {
+   "c2": "An emperor gets king's honours off all the people for his patch. Same: the yoga-fallen gets honoured by every god in every world.",
+   "choices": [
+    {
+     "payload": "viṣayeṣu (among things)",
+     "term": "his patch",
+     "why": "emperor's objects as territory held"
+    },
+    {
+     "payload": "pūjyate as rājā",
+     "term": "king's honours",
+     "why": "honoured-as-king kept royal"
+    },
+    {
+     "payload": "sarva-daivaiḥ",
+     "term": "every god",
+     "why": "all-gods as full attendance"
+    }
+   ],
+   "chunk": "param-p12-v101",
+   "gate": "PASS",
+   "rasa": "fallen, honoured",
+   "sanskrit": "viṣayeṣu sārvabhaumaḥ sarvajanaiḥ pūjyate yathā rājā | bhuvaneṣu sarvadaivaiḥ yogabhraṣṭas tathā pūjyaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "Long time after, human again, yoga practised — he gets the divine deathless. And from there? No turning back.",
+   "choices": [
+    {
+     "payload": "mahatā kālena",
+     "term": "Long time after",
+     "why": "long-time as the wait kept"
+    },
+    {
+     "payload": "mānuṣyam prāpya",
+     "term": "human again",
+     "why": "man-ness regained; species as station"
+    },
+    {
+     "payload": "na āvartate punaḥ",
+     "term": "No turning back",
+     "why": "no-return tripled; door shut"
+    }
+   ],
+   "chunk": "param-p12-v102",
+   "gate": "PASS",
+   "rasa": "no return",
+   "sanskrit": "mahatā kālena punar mānuṣyaṃ prāpya yogam abhyasya | prāpnoti divyam amṛtam yasmād āvartate na punaḥ",
+   "style": "roadman"
+  },
+  {
+   "c2": "So whoever rides this true path, devoted — he's headed Śiva-ward. Think that, and in truth? Keep striving.",
+   "choices": [
+    {
+     "payload": "nirata (devoted as riding)",
+     "term": "rides",
+     "why": "devotion as riding the path"
+    },
+    {
+     "payload": "eti śivatvam",
+     "term": "headed Śiva-ward",
+     "why": "going-to-Śiva-ness as direction held"
+    },
+    {
+     "payload": "prayatanīyam (gerundive as must)",
+     "term": "Keep striving",
+     "why": "to-be-striven as standing order"
+    }
+   ],
+   "chunk": "param-p12-v103",
+   "gate": "PASS",
+   "rasa": "devoted, still striving",
+   "sanskrit": "tasmāt sanmārge 'smin nirato yaḥ kaścid eti sa śivatvam | iti matvā paramārthe yathā tathāpi prayatanīyam",
+   "style": "roadman"
+  },
+  {
+   "c2": "Turn over this supreme brahman, brief as Abhinavagupta told it. Soon — Śiva-ness moves into his own heart's rooms.",
+   "choices": [
+    {
+     "payload": "dhyāyataḥ (meditating as turning-over)",
+     "term": "Turn over",
+     "why": "meditation as handling; brief kept short"
+    },
+    {
+     "payload": "saṃkṣepa + udita",
+     "term": "brief as told",
+     "why": "uttered-brief as short telling"
+    },
+    {
+     "payload": "hṛdaya-āveśa (entry as rooms)",
+     "term": "heart's rooms",
+     "why": "own-heart-entry as moving into rooms"
+    }
+   ],
+   "chunk": "param-p12-v104",
+   "gate": "PASS",
+   "rasa": "soon indwelling",
+   "sanskrit": "idam abhinavaguptoditasaṃkṣepaṃ dhyāyataḥ paraṃ brahma | acirād eva śivatvam nijahṛdayāveśam abhyeti",
+   "style": "roadman"
+  },
+  {
+   "c2": "Hundred āryās. That's the whole teaching-essence, condensed, deep-cover. Told by Abhinavagupta — by me — lit by remembering Śiva's feet.",
+   "choices": [
+    {
+     "payload": "āryā-śatena (meter named)",
+     "term": "Hundred āryās",
+     "why": "hundred-metres as the count kept"
+    },
+    {
+     "payload": "atigūḍha",
+     "term": "deep-cover",
+     "why": "recondite as under deep cover"
+    },
+    {
+     "payload": "dīptena (kindled)",
+     "term": "lit by",
+     "why": "kindled-memory as lamp kept"
+    },
+    {
+     "payload": "mayā kept first-person",
+     "term": "by me",
+     "why": "author's hand shown; signature kept"
+    }
+   ],
+   "chunk": "param-p12-v105",
+   "gate": "PASS",
+   "rasa": "sealed, signed",
+   "sanskrit": "tad idaṃ saṃkṣiptaṃ śāstrasāram atigūḍham | abhinavaguptena mayā śivacaraṇasmaraṇadīptena",
+   "style": "roadman"
+  }
+ ]
+}

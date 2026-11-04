@@ -1,0 +1,76 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "stav-p00",
+ "work": "stavacintamani",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [],
+ "source_sha": "8d5eb7f1ca104520",
+ "source_verses": 1,
+ "t1_verses": 1,
+ "l0": {
+  "parsed": 7,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 7
+ },
+ "align": {
+  "min_ratio": 1.0,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 23,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 1,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 1,
+   "l0": 7,
+   "argmap": 1,
+   "l2": 1,
+   "l3": 1,
+   "l4": 1,
+   "essence": 1,
+   "renders": [
+    "standard"
+   ],
+   "c2_renders": [
+    "eli5",
+    "genz"
+   ],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "layer_sha256": {
+  "t1": "61e66349e9abe8379813c561e933838f1f869090f40ccbb55b60f4a3c6706926",
+  "l0": "6e8e35d1629734456f80180791dd9a778a0ec28af5ecf62ba26f113c2751d9c7",
+  "argmap": "2fe269c9d75177e6583e6c16ae85a980d95c170b97b7132fcdebcdd50b3a1e7d",
+  "l2": "74e723cc6aa7dc6de9a5489f5c7293be366e124cc3816786b46f2810cddb9cdb",
+  "c1": "578eb3558eaf086e7e11165c7c2c560a3b512501208b9a25f465ae24a7617382",
+  "l3": "266abf678c8dc0f797015769e437d4487e4b3c29a49a99d51e8a39ebd4d53d89",
+  "l4": "a1b44596c21653efab397cb8321177be25161420ece6a70d955558e40c3b73fb",
+  "c2": "4658bfd68600c062590e1170e5af04e80d4976b0cbf1a8aa119086e14b1c13ad"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "8d5eb7f1ca104520",
+  "t1": "T1-stav-p00.md",
+  "l0": "T1-stav-p00.l0.jsonl",
+  "l2": "L2-stav-p00.md",
+  "c1": "c1/C1-stav-p00.md"
+ }
+}
