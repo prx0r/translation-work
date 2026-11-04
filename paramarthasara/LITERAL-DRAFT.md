@@ -404,7 +404,7 @@ By scripture's weight, by unshaken faith become that.
 Got — before heaven, hell, and man-ness.
 
 v90:
-The last moment, nourishing a merit or demerit state, plays helper.
+The last moment, nourishing a merit or demerit state, plays helper — for fools.
 But in going on — no cause.
 
 v91:
