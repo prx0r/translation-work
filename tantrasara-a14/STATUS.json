@@ -1,16 +1,20 @@
 {
- "work": "tantrasara-a14",
- "updated": "2026-10-30",
- "next": "batch (A14 done)",
- "counts": {
-  "passages": 1,
-  "chars": 3763
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a14-raw.jsonl",
- "r2_verified": true,
- "notes": "SOURCE frozen + passages cut; T1 next",
- "r2_bytes": 14546,
- "needs": [
-  "abstention-review"
- ]
+  "work": "tantrasara-a14",
+  "updated": "2026-11-04",
+  "next": "Owner: first-verse L4 voice verdict (tsa-a14-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a03 (34 units).",
+  "counts": {
+    "passages": 1,
+    "verses": 29,
+    "l0_parsed": 334,
+    "l0_ambiguous": 0,
+    "l0_failed": 0,
+    "l4_drafts": 29,
+    "l4_with_craft": 29
+  },
+  "notes": "GOLD #44 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 14 (putraka-dīkṣāvidhi; 29 units, 334 tok) via workcfg abhts. Full pipeline: L0 hand-crafted 334 tok 100% PARSED (fused spans: atyantamūrkhasyāpi, tasyāpi, amukasyāmukaṃ, ity-evam) / T1 md+jsonl+report / argmaps 29/29 (sha 0358ef74e068609b, gate PASS, 0 shared) / L2 29 / C1 essence 29 (5 merges re-split to 1:1) + 7-part + rasa śānta-vidhi (0 quotes, 0 shared) / L3 29 (v11 rewritten off L2-copy; Śiva diacritics) / L4 29 DRAFTs craft+rejected+read-aloud / c1 md / site ABSTENTION. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
+  "needs": [
+    "first-verse L4 voice verdict (owner)",
+    "human-review (machine-proposed)"
+  ],
+  "rasa": "śānta with vidhi weight (quiescence carrying rite-order)"
 }

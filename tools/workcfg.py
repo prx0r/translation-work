@@ -193,6 +193,12 @@ WORKS = {
         "ahnika": 7,
         "songs": {"tsa-a07": (1, 28)},
     },
+    "tantrasara-a14": {
+        "source": SITE_SA / "tantrasara.txt",
+        "kind": "abhts",  # ahnika 14: 29 units
+        "ahnika": 14,
+        "songs": {"tsa-a14": (1, 29)},
+    },
     "tantrasara-a15": {
         "source": SITE_SA / "tantrasara.txt",
         "kind": "abhts",  # ahnika 15: 7 units
