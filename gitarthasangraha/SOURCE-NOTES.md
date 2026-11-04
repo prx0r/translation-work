@@ -58,3 +58,15 @@ block (edition closer-numbering lag; closers never open units).
 - Loose ends from this session's reality-checks: ch8 had no 8-8/8-9 markers
   in an early dry-run (fixed by the join rule — markers on split lines); any
   future marker-format discovery goes here.
+
+## Witness candidates (found 2026-11-04, second search)
+
+- **Arvind Sharma, *Gitarthasangraha* (translated, all 18 ch) with Ingalls preface** —
+  English witness for qa_vs_witness when vendored/quotable; Ingalls: "the printed
+  text is so corrupt that many passages are unintelligible without emendation"
+  (Sharma emended via BORI MS 422) → our Muktabodha print oddities are the
+  documented corruption, handle as L0 forks, never silently smooth.
+- TextGrid TEI Gītārthasaṃgraha (Ishitobi 2020) — collation candidate (header
+  attribution says "Yāmuna" — verify before use).
+- wisdomlib critical study: "716 ślokas (K) + 6 benedictory + 4 closing saṃgraha";
+  per-chapter counts verified earlier; also the Maṅgala-verse numbering 1-6.
