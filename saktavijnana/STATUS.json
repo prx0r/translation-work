@@ -12,7 +12,7 @@
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-saktavijnana-raw.jsonl",
  "r2_bytes": 8932,
  "r2_verified": true,
- "notes": "GOLD #23 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (30v, 3 songs) — T1 span-exact; L0 299 100% PARSED 4 forks resolved; argmaps 30/30 0-shared; L2 byte-exact cites; C1 essence+rasa (adbhuta/adbhuta-bhayānaka/śānta); L3 30 couplets; L4 30 DRAFTs sung w/ craft_notes+rejected-killers+reads_against; C2 eli5+genz full essence coverage; validate+proof PASS x3; check.py CANONICAL 0 failures; qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+ "notes": "GOLD #23 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (30v, 3 songs) — T1 span-exact; L0 299 100% PARSED 4 forks resolved; argmaps 30/30 0-shared; L2 byte-exact cites; C1 essence+rasa (adbhuta/adbhuta-bhayānaka/śānta); L3 30 couplets; L4 30 DRAFTs sung w/ craft_notes+rejected-killers+reads_against; C2 eli5+genz full essence coverage; validate+proof PASS x3; check.py CANONICAL 0 failures; qa SHIP_AS_IS x2 + SHIP_WITH_NOTES x1 (sakt-p03: witness option by-triple-stain-change lost but adjudicated on record) vs vendored legacy L2 witness (lore/witnesses/legacy-saktavijnana-l2.json, 30v).. OPEN: first-verse L4 voice verdict (owner); human review.",
  "needs": [
   "first-verse L4 voice verdict (owner)",
   "human-review (MACHINE_PROPOSED, after full transform)"
