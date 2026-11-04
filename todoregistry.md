@@ -41,7 +41,7 @@ edit THIS file in the same commit — never leave it behind.*
    3. paratrimshika (~35v, 4 passages) — DONE → gold #25 (full pipeline, L4 sung v01–v36, C2 in place; first-verse voice verdict outstanding)
    4. ptvmadhyama (35v) — DONE → gold #26 (M00044 mula recension rebuilt from markers; full pipeline; first-verse voice verdict outstanding)
    5. spanda (~24v — passage verse-ranges garbled `20-3`,`16-2`; fix first)
-   6. sivasutra (~80 sutras, 8 passages, 1.x-3.x numbering)
+   6. sivasutra (~80 sutras, 8 passages, 1.x-3.x numbering) — DONE → gold #28 (75 sutras Kaul Shastri recension; full pipeline; first-verse verdict outstanding)
    7. vbt (~112v, 17 passages)
 3. **tantrasara-a03–a22** (20) — same pattern, proven twice (a01/a02 gold).
 4. **tantraloka-a01–a37** (37) — the big campaign.

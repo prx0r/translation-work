@@ -1,19 +1,20 @@
 {
  "work": "sivasutra",
- "updated": "2026-10-30",
- "next": "batch (sivasutra done)",
+ "updated": "2026-11-04",
+ "next": "vbt (queue 2.7): source intake — passage verse-ranges garbled (20-3 etc.); inspect vbt-root + fix mapping first, then lore + full transform",
  "counts": {
   "passages": 8,
   "verses": 75,
-  "l0_parsed": 181,
+  "l0_parsed": 180,
   "l0_ambiguous": 0,
   "l0_failed": 0
  },
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-sivasutra-raw.jsonl",
  "r2_bytes": 22407,
  "r2_verified": true,
- "notes": "SOURCE from GRETIL; 75 sutras (Sivasutra), grouped into 8 passages. T1 now has proper hyperliteral glosses (181 PARSED).",
+ "notes": "GOLD #28 (MACHINE_PROPOSED) 2026-11-04: full pipeline T1/L0/argmap/L2/C1/L3/L4/C2 (75 sutras, 8 songs). Legacy 6-passage batch files superseded (kept, not canonical). validate+proof PASS x8; check.py CANONICAL 0 failures; qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
  "needs": [
-  "abstention-review"
+  "first-verse L4 voice verdict (owner)",
+  "human-review (MACHINE_PROPOSED, after full transform)"
  ]
 }
