@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a22",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a22 done)",
  "counts": {
-  "passages": 5,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 370,
+  "l4_drafts": 48,
+  "l4_with_craft": 48,
+  "passages": 1,
   "verses": 48
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a22-raw.jsonl",
- "r2_bytes": 25466,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "5 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a02 (50 units).",
+ "notes": "GOLD #64 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 22 (liṅgoddhāra, conversion of the marked; 48u/370tok) via workcfg taloka. L0 370 tok 100%% PARSED stem-level (fused 5-7-way compounds; @ = elided-a; 0 forks) / T1 / argmaps 48/48 (sha efbc52879ad3cd7e, PASS, 0 shared) / L2 48 cites 48/48 / C1 essence 48 (0 quotes/shared/meta; 902 words warning only, precedent a22) + 7-part + rasa vīra-karuṇa + NOTE / L3 48 couplets+singles 0 shared no slashes / L4 48 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v01) PENDING owner; OPEN: human review; C2 waived. Print variants kept as-is (sarvebhyo@pyāgamebhyo, gṛhīrvā, maheśāna, tattajjñāna, śiṣyo); anusvāra/visarga cites fixed via gates; CM lemma apavṛjyate corrected.",
+ "rasa": "vīra with karuṇa weight (bold conversion; grace for the low)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a22"
 }
