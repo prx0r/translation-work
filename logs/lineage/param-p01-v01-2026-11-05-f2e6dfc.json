@@ -1,0 +1,212 @@
+{
+  "auditor_sha256": "07bba8df0b652d565d27009e8b8984b04430e6ccc1e6e906614f16d2570e67d3",
+  "benchmark": {
+    "checkout_commit": "cb5981b66fb7fc7a3bd8636352588bd8a4c42cad",
+    "checks": {
+      "ABSTENTION": {
+        "PASS": true
+      },
+      "CITATION_GROUNDING": {
+        "PASS": true,
+        "ungrounded": []
+      },
+      "COVERAGE": {
+        "PASS": true,
+        "ratio": 1.53
+      },
+      "SOURCE_BINDING": {
+        "PASS": true,
+        "ratio": 1.13
+      },
+      "TERM_CONSISTENCY": {
+        "PASS": true,
+        "issues": []
+      }
+    },
+    "gold": "NOT_EVALUATED",
+    "kernel_sha256": "8549018f1db7e4e1835f4007163cdd4cc5771699d335cf05c503e316b15682fa",
+    "pinned_commit": "cb5981b66fb7fc7a3bd8636352588bd8a4c42cad",
+    "reported_gate": "PASS",
+    "repository": "prx0r/sanskritbench",
+    "usage": "ADVISORY_HEURISTICS_ONLY"
+  },
+  "claims": {
+    "full_source_coverage": "UNKNOWN",
+    "human_review": "UNKNOWN",
+    "publication_authorized": false,
+    "semantic_fidelity": "UNKNOWN",
+    "witness_authenticated": "UNKNOWN"
+  },
+  "essay": {
+    "current_t1_matches_citation": false,
+    "essay_id": "essay:62e62283ac8d5aa4a927ecbdcc064eeac4a38d8291a5dcd39db976f1b794e51b",
+    "file_sha256": "54e8c72f4c4658c99a8d6e1c12f583dd7e9a780c2588e9b4b3ba7e5389dae0c9",
+    "historical_citation": null,
+    "identity_state": "SELF_ATTESTED",
+    "note": "Self-attested sign-off is not a digital signature or peer review. Source links do not establish entailment.",
+    "path": "paramarthasara/scholar/essays/62e62283ac8d5aa4a927ecbdcc064eeac4a38d8291a5dcd39db976f1b794e51b.json",
+    "projection_citation": "NOT_CITED",
+    "source_git_commit": null,
+    "status": "UNLINKED",
+    "validation_errors": []
+  },
+  "format": "svatantrya-lineage-audit/2",
+  "hash_scheme": "sha256 over UTF-8; JSON uses sorted keys, compact separators, ensure_ascii=false",
+  "overall": "INCOMPLETE",
+  "reader_projection": {
+    "file": {
+      "commit": "f2e6dfce36782bdf7ef8e0babc56fe6a4b3c68e9",
+      "path": "data/scholar/paramarthasara.json",
+      "sha256": "e0ffd3113cdd3d8ac4a383d94c33cd100a15f8695c65698cec7f0133a913a776"
+    },
+    "layers": {
+      "argmap": "MATCH",
+      "c1": "MATCH",
+      "c2": "MATCH",
+      "l0": "MATCH",
+      "l2": "MATCH",
+      "l3": "MATCH",
+      "l4": "MATCH",
+      "t1": "MATCH"
+    },
+    "note": "A projection match establishes byte/content consistency, not completeness or correctness.",
+    "projection_sha256": "3905f95e6b6fbc9af6a2ba4aa5e4592a765db400994af92bf8aeca7e1786f173",
+    "source_matches_parser_ignoring_whitespace_and_pada_bars": true,
+    "status": "MATCH"
+  },
+  "receipt_sha256": "2f573868d36dfe6e2eaf61397736dbcfdd0141a335c088d12e50554258f81ed1",
+  "schema_sha256": "07b7a0f28d0d2986b953fadaa0d1845b94b085cff4d9b60532618aa10f32fe12",
+  "scope": {
+    "candidate_layer": "l2",
+    "song": "param-p01",
+    "target": "param-p01-v01",
+    "work": "paramarthasara"
+  },
+  "source": {
+    "byte_exact_span": "UNKNOWN",
+    "extracted_verse_sha256": "ffaa0b370503786e6c38bccbce2f6325f7af117a155f8c525bd13aa8dcaa6d5a",
+    "extraction": "workcfg whitespace-token reconstruction",
+    "openpatala": {
+      "dossier": {
+        "commit": "4147a198d4d91acca2784cca9865ef02c1d7970f",
+        "path": "data/gold/PTCND_sa_abhinavagupta-pa.json",
+        "sha256": "06aff5d6bfc29972a75d3ebeed03a096d75368705643bd5b80785130d9cf1354"
+      },
+      "edition_verified": false,
+      "external_identifier": [
+        "GRETIL",
+        "sa_abhinavagupta-paramArthasAra"
+      ],
+      "language_assertions": [
+        "en"
+      ],
+      "language_conflict": true,
+      "map_sha256": "8187006d8bec4519dfab8ad36d311cc511a259817c96947062960b37426ccc40",
+      "status": "CANDIDATE",
+      "witness": "UNKNOWN",
+      "work_id": "PTCND_sa_abhinavagupta-paramArthasAra"
+    },
+    "repository_file": {
+      "commit": "ebedc011463886892e09982a82706a9d4677bbd6",
+      "path": "site/data/sanskrit/paramarthasara.txt",
+      "sha256": "7b21e2fe9906de69b03c9fe552ee761fc1649088beaf5c1a0ae9eccd6d15534e"
+    },
+    "workcfg_sha256": "f1bcaa4a205d3fbc6dc482c20b91c67b29ea02f8fc68338839d3d22956732cb1"
+  },
+  "translation": {
+    "historical_record": {
+      "changed_layers": [],
+      "historical_source_sha16": "947dcba281716a2a",
+      "missing_required_layers": [],
+      "note": "Only recorded JSON layer and normalized-source hashes were compared. Markdown inputs and the historical proof were not rerun.",
+      "proof_file_sha256": "c146adf2e7a825491f06af1883593570f938b7bdf61fd2dab5f9eb49986bfa6e",
+      "recorded_gate": "PASS",
+      "recorded_source_sha16": "947dcba281716a2a",
+      "status": "RECORDED_LAYER_AND_SOURCE_HASHES_MATCH"
+    },
+    "l2_row_sha256": "bab5f29cd43fc6d5e49ae20eface0f9e7fd1037d274bd95a04818b568421e9c0",
+    "l2_text_sha256": "e486d52e3ecb37328e0bcf12ca8f4c900bc7934c372481942741e3949234fe73",
+    "layers": {
+      "argmap": {
+        "canonical_json_sha256": "9a1ecbd74d6f64298034b7a98ce14d2c48ef52717497acfd0a042971b05c2423",
+        "file_sha256": "109f9205de54285a27ebad5d64f8b6e85ef5384270cda029037584a81b67f7d6"
+      },
+      "c1": {
+        "canonical_json_sha256": "444ec82536821a12408477c4b514481bf9d97056604e95953409cc446305b429",
+        "file_sha256": "1df221e2bd20aa3d3af2ce33eb020121bab5a7562b3f3bc17ada7067b43cee72"
+      },
+      "c2": {
+        "canonical_json_sha256": "3daf0c9f5d36588d0cc106c8c9cb5924743b73aee8bf9ccdd2af7ece1c472521",
+        "file_sha256": "28ef1f44661480a2e19fd5364571028e39f6025a2b13cbe522fe176c665775cc"
+      },
+      "l0": {
+        "canonical_json_sha256": "bd70a746b7cbc3cc6f25e0d2011b74b3fef5f3e7ec12706b06f3e723a90eba32",
+        "file_sha256": "abde4a17419ec7952d7d19b4b6c9709b1c6c0aea0bad391aee762ee9c7bbd010"
+      },
+      "l2": {
+        "canonical_json_sha256": "a80c8d044eed62e23ec62c6aff3822d9217fd48f718c3d34d77897ec1eb70c79",
+        "file_sha256": "7359edfabbe2bfb028a44d99d062bc38d1eea72cbd42d1ef969c3c7f16827e13"
+      },
+      "l3": {
+        "canonical_json_sha256": "0afe27f2e6146fc61d66c257358db2f5e6e03c2152e88c2fae2ac4e62b8daa07",
+        "file_sha256": "b6d63cda39e3d03ee6733ea078fea6be2b3f36b7adf4cf6a495c369aa28a1b15"
+      },
+      "l4": {
+        "canonical_json_sha256": "d086505d17a7c1c7a12b5fe6173ce7d16a5694c201025b6116cc415623d69d27",
+        "file_sha256": "db346e51e71f2f835ddfda004d4432934611817c2c73318d335f6ca2362ad4fb"
+      },
+      "t1": {
+        "canonical_json_sha256": "4aa18790e3bbdd64b6e386844458606b8b8bb5e0e3c1d58d005041c48c6df0ef",
+        "file_sha256": "d08d918be75acb1e3b9e166fcf6da81b8215f6cb955a1a4c51b55a6998ff35d3"
+      }
+    },
+    "revision": {
+      "input_commit": "380f4be1189ebe4359c2fd52692bd2bb08962d82",
+      "inputs_match_commit": true,
+      "repository": "prx0r/translation-work",
+      "uncommitted_or_changed_inputs": []
+    },
+    "structural_validation": {
+      "counts": {
+        "argmap": 10,
+        "c2_renders": [
+          "eli5",
+          "genz"
+        ],
+        "essence": 4,
+        "l0": 143,
+        "l2": 10,
+        "l3": 10,
+        "l4": 10,
+        "renders": [
+          "standard"
+        ],
+        "signoff": true,
+        "t1": 10
+      },
+      "errors": [],
+      "program_sha256": {
+        "schemas/__init__.py": "b108a8ec904eaf5601291aa3803259a927dc63fe6c2442c1631ac87490f2e686",
+        "schemas/argmap.py": "335c1bbe809c5ae942ecef4a30ee7fd8fcb82645a43019312fa74397fe5758b0",
+        "schemas/base.py": "d43fc5cde3213aa30faadc5b2382a41e50156af7c1a50a2deabcaab0d0fcf30a",
+        "schemas/c1.py": "88ad9123135a7a18237cec1d11430992b4f43adf1771ae26a43e4df8198c69d7",
+        "schemas/c2.py": "fb8743f206e036002c780d082c7d32cf011dcdab4c21df742a5f5e59a9d851b8",
+        "schemas/l0.py": "0651bc77f519897f8a4f8b41f4ea0cc6a88f3441910af99b18d55854a7e9030e",
+        "schemas/l2.py": "f5653e405e0f162f78593ad6344cbbefe122d6d1c921ca3e22003e4f4d2cfaaa",
+        "schemas/l3.py": "6c3df228f886207782d5250699e9e459f236f6e7d6b25ac29b00a38541956917",
+        "schemas/l4.py": "3c1f7b0dfe3d83d425ed0fd84fba7b74aa3ed9e9758402369d779eedda1a8c03",
+        "schemas/registry.py": "123b52895db6dc729be7729b4de2df4dfec1f7f12ff3905e4cefe00f1e2e6558",
+        "schemas/signoff.py": "2cfd16b3dda2f1b3ef89791c958374e9ba48469cab6215350902038cc2c1f9fa",
+        "schemas/suggestion.py": "2ca0c91f691e63a9306224142288268d3ca74ba98fdcebc1c36c9505fa39d084",
+        "schemas/t1.py": "ac792ba1f0cbc06ab52dfbc41a31d3e39460f0e8a7de2977ed02e4ce63a20f27",
+        "tools/proof_record.py": "908ceeb56d762ea20ee659535015b474eed1618e55b31f0f3d089912af379c74",
+        "tools/validate_song.py": "a2a2626ad9be54b8b7720606701545ef6ce78d315f97fb18525f3949cc42f58e",
+        "tools/workcfg.py": "f1bcaa4a205d3fbc6dc482c20b91c67b29ea02f8fc68338839d3d22956732cb1"
+      },
+      "python_version": "3.12.14",
+      "signoff_file_sha256": "65102e0c9f82453aefca603b2489fb76a1d143a88c273915e54d6730c4961a51",
+      "status": "PASS"
+    },
+    "t1_row_sha256": "0d105c77e73167f58ef35696346f85ec3569cb84c5573c923a58055469d65208"
+  }
+}
