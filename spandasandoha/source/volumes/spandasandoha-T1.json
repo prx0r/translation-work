@@ -1,0 +1,54 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "spandasandoha",
+ "vol": "spandasandoha-T1",
+ "source_file": "spandasandoha/T1.md",
+ "source_id": "spandasandoha-spandasandoha-T1-86fbc04aa15199e0",
+ "content_sha256": "86fbc04aa15199e072635fa0af0a23848708449a172fc2af4cd2a70c2a308405",
+ "bytes": 1277,
+ "edition": "T1.md as vendored (see file header)",
+ "license": "see lore/links.json; rights UNKNOWN until confirmed",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "sand-p01-v01",
+   "start": 836,
+   "end": 1277,
+   "vol_lines": [
+    7,
+    12
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a424ee9c59b1ecc5f03ca0c57dd0e3bad9d41082978a9f12a781030da7e2b3a3"
+  },
+  {
+   "passage_id": "sand-p01-v02",
+   "start": 836,
+   "end": 1277,
+   "vol_lines": [
+    7,
+    12
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a424ee9c59b1ecc5f03ca0c57dd0e3bad9d41082978a9f12a781030da7e2b3a3"
+  }
+ ],
+ "overlaps": [
+  {
+   "a": "sand-p01-v01",
+   "b": "sand-p01-v02",
+   "start": 836,
+   "end": 1277,
+   "bytes": 441
+  }
+ ],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 836,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "# Spandasandoha — T1 frozen 2026-11-01\n\n*Source: Muktabodha M00084 (Spandasandoh"
+  }
+ ],
+ "supersedes": null
+}

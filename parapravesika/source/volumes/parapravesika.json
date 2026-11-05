@@ -1,0 +1,144 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "parapravesika",
+ "vol": "parapravesika",
+ "source_file": "../ipvv/site/data/sanskrit/parapravesika.txt",
+ "source_id": "parapravesika-parapravesika-1cd0b97230a5b30b",
+ "content_sha256": "1cd0b97230a5b30b94ad819a8b3df661b1ac2b1e54e35d554b40bdfb76245868",
+ "bytes": 18038,
+ "edition": "### Provenance: Mukhabodha M00048 · CC BY-NC 4.0 ### Source file: parAprAvezikA-M00048-IAST.txt ### Vendored: site/data/sanskrit/parapravesika.txt (research/education use; respect licence)",
+ "license": "see lore/links.json; rights UNKNOWN until confirmed",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "par-p01-v01",
+   "start": 855,
+   "end": 1109,
+   "vol_lines": [
+    25,
+    35
+   ],
+   "legacy_coords": null,
+   "text_sha256": "3de39bf0f204e3790d136421739902b4283e7d50b1fd7a597a9b68b6a30c407e"
+  },
+  {
+   "passage_id": "par-p02-v02",
+   "start": 1110,
+   "end": 2064,
+   "vol_lines": [
+    37,
+    50
+   ],
+   "legacy_coords": null,
+   "text_sha256": "152cf056275a14518dad613673700f13e064b0c3d0e7352e74929fd270bef55c"
+  },
+  {
+   "passage_id": "par-p03-v03",
+   "start": 2064,
+   "end": 4022,
+   "vol_lines": [
+    51,
+    79
+   ],
+   "legacy_coords": null,
+   "text_sha256": "55c30fbd052d7a9559b2248b7c589b2e56b8056a3a82bc44cf58b3bd0f4eccc5"
+  },
+  {
+   "passage_id": "par-p04-v04",
+   "start": 3973,
+   "end": 6150,
+   "vol_lines": [
+    79,
+    110
+   ],
+   "legacy_coords": null,
+   "text_sha256": "96e7446017b33ad7cfa9cec6937d2972ecbfc970e354f7760e0d81a36671a482"
+  },
+  {
+   "passage_id": "par-p05-v05",
+   "start": 6150,
+   "end": 7991,
+   "vol_lines": [
+    111,
+    140
+   ],
+   "legacy_coords": null,
+   "text_sha256": "5bb9b1f7b806b603d8c60c3e3ee847d6961ed21650d04d57e0e0317658a0d710"
+  },
+  {
+   "passage_id": "par-p06-v06",
+   "start": 7991,
+   "end": 9169,
+   "vol_lines": [
+    141,
+    157
+   ],
+   "legacy_coords": null,
+   "text_sha256": "d4b4e35f96bf5250227fd9c946117e7eefcc16be51f31255f3bb51e45db6df09"
+  },
+  {
+   "passage_id": "par-p07-v07",
+   "start": 9169,
+   "end": 12659,
+   "vol_lines": [
+    158,
+    209
+   ],
+   "legacy_coords": null,
+   "text_sha256": "1a4860a302cc54b53a93ed7554026e9445802dbf3b1b9cfd86cb80fce042a708"
+  },
+  {
+   "passage_id": "par-p08-v08",
+   "start": 12581,
+   "end": 15404,
+   "vol_lines": [
+    209,
+    251
+   ],
+   "legacy_coords": null,
+   "text_sha256": "f7bee45c69e510952ae1954454cb932db620118ab99dae5df5347b26fac592de"
+  },
+  {
+   "passage_id": "par-p09-v09",
+   "start": 15405,
+   "end": 17341,
+   "vol_lines": [
+    253,
+    285
+   ],
+   "legacy_coords": null,
+   "text_sha256": "208be445217d43b97265e4edc5e53cf71d695cae3d0aaaeeadb1b49dc5c83697"
+  }
+ ],
+ "overlaps": [
+  {
+   "a": "par-p03-v03",
+   "b": "par-p04-v04",
+   "start": 3973,
+   "end": 4022,
+   "bytes": 49
+  },
+  {
+   "a": "par-p07-v07",
+   "b": "par-p08-v08",
+   "start": 12581,
+   "end": 12659,
+   "bytes": 78
+  }
+ ],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 855,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "### Provenance: Mukhabodha M00048 · CC BY-NC 4.0\n### Source file: parAprAvezikA-"
+  },
+  {
+   "start": 17341,
+   "end": 18038,
+   "note": "trailing non-whitespace in no chunk span",
+   "preview": "\nsadvidyānāṃ saṃśraye granthavidvad-\nvyūhe hrāsaṃ kālavṛttyopayāte |\n\ttattatsadd"
+  }
+ ],
+ "supersedes": null
+}

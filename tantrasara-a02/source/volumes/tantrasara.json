@@ -1,0 +1,74 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "tantrasara-a02",
+ "vol": "tantrasara",
+ "source_file": "../ipvv/site/data/sanskrit/tantrasara.txt",
+ "source_id": "tantrasara-a02-tantrasara-329925603922aef0",
+ "content_sha256": "329925603922aef093a08ff11209fca3ec14b50f94721e3f4bf299fdc912d62f",
+ "bytes": 129411,
+ "edition": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0 ### Source file: 6_sastra/3_phil/sa_abhinavagupta-tantrasAra.txt ### Vendored: site/data/sanskrit/tantrasara.txt (research/education use; respect licence)",
+ "license": "see lore/links.json; rights UNKNOWN until confirmed",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "tsa-a02-v01",
+   "start": 4401,
+   "end": 4459,
+   "vol_lines": [
+    41,
+    41
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a66fee7bf4f4ef6aa2fa17123f361e8800adc35c8b98c792c1132bf93eafcf30"
+  },
+  {
+   "passage_id": "tsa-a02-v02",
+   "start": 4459,
+   "end": 4640,
+   "vol_lines": [
+    42,
+    42
+   ],
+   "legacy_coords": null,
+   "text_sha256": "47c334350f96a49bc3d1057bb480d0f81614a1d8ce19ba9a766c7649f50ae4ac"
+  },
+  {
+   "passage_id": "tsa-a02-v03",
+   "start": 4640,
+   "end": 5002,
+   "vol_lines": [
+    43,
+    43
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e30796e841cbda95b809e1f76977e4643f82b8449870b73e320dcb2af9fa5f0c"
+  },
+  {
+   "passage_id": "tsa-a02-v04",
+   "start": 5002,
+   "end": 5593,
+   "vol_lines": [
+    44,
+    44
+   ],
+   "legacy_coords": null,
+   "text_sha256": "98a86a18a9dca6fe6a4d7f4d1cbbc2b12b31dc7716185f4a36685f9b60ec77cf"
+  }
+ ],
+ "overlaps": [],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 4401,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0\n### Source "
+  },
+  {
+   "start": 5593,
+   "end": 129411,
+   "note": "trailing non-whitespace in no chunk span",
+   "preview": "\nTantrasāra, Tṛtīyam āhnikam\nyad etat prakāśarūpaṃ śivatattvam uktam tatra akhaṇ"
+  }
+ ],
+ "supersedes": null
+}

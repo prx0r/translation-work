@@ -1,0 +1,85 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "tantrasara-a01",
+ "vol": "tantrasara",
+ "source_file": "../ipvv/site/data/sanskrit/tantrasara.txt",
+ "source_id": "tantrasara-a01-tantrasara-329925603922aef0",
+ "content_sha256": "329925603922aef093a08ff11209fca3ec14b50f94721e3f4bf299fdc912d62f",
+ "bytes": 129411,
+ "edition": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0 ### Source file: 6_sastra/3_phil/sa_abhinavagupta-tantrasAra.txt ### Vendored: site/data/sanskrit/tantrasara.txt (research/education use; respect licence)",
+ "license": "see lore/links.json; rights UNKNOWN until confirmed",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "tsa-a01-v01",
+   "start": 258,
+   "end": 471,
+   "vol_lines": [
+    6,
+    7
+   ],
+   "legacy_coords": null,
+   "text_sha256": "3febb4fdf15144580277a091bce7272a82d6497e270e3abc16dd353d14e422bb"
+  },
+  {
+   "passage_id": "tsa-a01-v02",
+   "start": 472,
+   "end": 611,
+   "vol_lines": [
+    9,
+    10
+   ],
+   "legacy_coords": null,
+   "text_sha256": "f5a64f90f88241df16e28a9517293ae40fa27cfa5d1471fe38f9f26a947c68c5"
+  },
+  {
+   "passage_id": "tsa-a01-v03",
+   "start": 612,
+   "end": 755,
+   "vol_lines": [
+    12,
+    13
+   ],
+   "legacy_coords": null,
+   "text_sha256": "dc50e2b6d41093f70fb67a59cb877c110fe309a40c5801514f3f6dc09662c6a2"
+  },
+  {
+   "passage_id": "tsa-a01-v04",
+   "start": 756,
+   "end": 2674,
+   "vol_lines": [
+    15,
+    30
+   ],
+   "legacy_coords": null,
+   "text_sha256": "98a346c07c84bbb926f1835ef19d09b680dd402f19f60563be7e5357ccd61177"
+  },
+  {
+   "passage_id": "tsa-a01-v05",
+   "start": 2675,
+   "end": 4368,
+   "vol_lines": [
+    32,
+    38
+   ],
+   "legacy_coords": null,
+   "text_sha256": "3fde616d425702e0ce9384c5623badfa2e856aed1d6082698a44069e37790e67"
+  }
+ ],
+ "overlaps": [],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 258,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0\n### Source "
+  },
+  {
+   "start": 4368,
+   "end": 129411,
+   "note": "trailing non-whitespace in no chunk span",
+   "preview": "\nTantrasāra, Dvitīyam āhnikam\natha anupāyam eva tāvat vyākhyāsyāmaḥ // AbhTs_2.1"
+  }
+ ],
+ "supersedes": null
+}

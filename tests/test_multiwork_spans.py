@@ -38,6 +38,29 @@ class MultiWorkSpansTests(unittest.TestCase):
                     checked += 1
         self.assertGreater(checked, 0)
 
+    def test_volume_manifests_cover_resolved_verses(self):
+        # Every workcfg work (except pre-manifest segments kinds) records its
+        # source bytes per verse block; spot-check the first span round-trip.
+        import hashlib
+        import json as _json
+        import workcfg as _workcfg
+        count = 0
+        for work in sorted(_workcfg.WORKS):
+            for path in sorted((ROOT / work / 'source' / 'volumes').glob('*.json')):
+                m = _json.loads(path.read_text())
+                self.assertEqual(m['format'], 'svatantrya-source-volume/1')
+                self.assertTrue(m['spans'], path)
+                self.assertTrue(m.get('source_file'), path)
+                raw = (ROOT / m['source_file']).read_bytes()
+                raw.decode('utf-8')
+                first = m['spans'][0]
+                seg = raw[first['start']:first['end']].decode('utf-8')
+                self.assertTrue(seg.strip(), path)
+                self.assertEqual(hashlib.sha256(seg.encode()).hexdigest(),
+                                 first['text_sha256'], path)
+                count += 1
+        self.assertGreater(count, 30)
+
 
 if __name__ == '__main__':
     unittest.main()

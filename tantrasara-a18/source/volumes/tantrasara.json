@@ -1,0 +1,52 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "tantrasara-a18",
+ "vol": "tantrasara",
+ "source_file": "../ipvv/site/data/sanskrit/tantrasara.txt",
+ "source_id": "tantrasara-a18-tantrasara-329925603922aef0",
+ "content_sha256": "329925603922aef093a08ff11209fca3ec14b50f94721e3f4bf299fdc912d62f",
+ "bytes": 129411,
+ "edition": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0 ### Source file: 6_sastra/3_phil/sa_abhinavagupta-tantrasAra.txt ### Vendored: site/data/sanskrit/tantrasara.txt (research/education use; respect licence)",
+ "license": "see lore/links.json; rights UNKNOWN until confirmed",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "tsa-a18-v01",
+   "start": 102456,
+   "end": 102654,
+   "vol_lines": [
+    684,
+    684
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a5735478fa2a171247373c4f9dc41a37cd0b2561b80874d16b0f967295dcafd1"
+  },
+  {
+   "passage_id": "tsa-a18-v02",
+   "start": 102654,
+   "end": 103230,
+   "vol_lines": [
+    685,
+    685
+   ],
+   "legacy_coords": null,
+   "text_sha256": "9e62bb4e425bdd86f2af049ea2cfa74d856bed8311f84a43781bf4efd800c965"
+  }
+ ],
+ "overlaps": [],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 102456,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0\n### Source "
+  },
+  {
+   "start": 103230,
+   "end": 129411,
+   "note": "trailing non-whitespace in no chunk span",
+   "preview": "\nTantrasāra, Ekonaviṃśam āhnikam\natha adharaśāsanasthānāṃ gurvantānām api maraṇa"
+  }
+ ],
+ "supersedes": null
+}

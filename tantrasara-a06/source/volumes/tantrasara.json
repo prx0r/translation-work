@@ -1,0 +1,932 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "tantrasara-a06",
+ "vol": "tantrasara",
+ "source_file": "../ipvv/site/data/sanskrit/tantrasara.txt",
+ "source_id": "tantrasara-a06-tantrasara-329925603922aef0",
+ "content_sha256": "329925603922aef093a08ff11209fca3ec14b50f94721e3f4bf299fdc912d62f",
+ "bytes": 129411,
+ "edition": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0 ### Source file: 6_sastra/3_phil/sa_abhinavagupta-tantrasAra.txt ### Vendored: site/data/sanskrit/tantrasara.txt (research/education use; respect licence)",
+ "license": "see lore/links.json; rights UNKNOWN until confirmed",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "tsa-a06-v01",
+   "start": 27443,
+   "end": 27843,
+   "vol_lines": [
+    176,
+    176
+   ],
+   "legacy_coords": null,
+   "text_sha256": "fe1c1104080f64250cb3a623bc55e575f35a65ef139ff7261a904b2fc884cfda"
+  },
+  {
+   "passage_id": "tsa-a06-v02",
+   "start": 27843,
+   "end": 28163,
+   "vol_lines": [
+    177,
+    177
+   ],
+   "legacy_coords": null,
+   "text_sha256": "49f3fc790dd49cd5f0e334e31bcc8648a18a1dc6948ef45c82bfa87cf64cf1ab"
+  },
+  {
+   "passage_id": "tsa-a06-v03",
+   "start": 28163,
+   "end": 28354,
+   "vol_lines": [
+    178,
+    178
+   ],
+   "legacy_coords": null,
+   "text_sha256": "cd89dabfb3971e8ed7403b9ea39862292a1a627b7275c266838704f3b6372fd4"
+  },
+  {
+   "passage_id": "tsa-a06-v04",
+   "start": 28354,
+   "end": 28438,
+   "vol_lines": [
+    179,
+    179
+   ],
+   "legacy_coords": null,
+   "text_sha256": "6126842322bfe8d5db76f557672f9c170c9511f8ab97edab7a06c13fc286a9e6"
+  },
+  {
+   "passage_id": "tsa-a06-v05",
+   "start": 28438,
+   "end": 28627,
+   "vol_lines": [
+    180,
+    180
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ea44415d17d03d20260c15c34be168db81424c5cd7a4afbf75771cd9a381336f"
+  },
+  {
+   "passage_id": "tsa-a06-v06",
+   "start": 28627,
+   "end": 28742,
+   "vol_lines": [
+    181,
+    181
+   ],
+   "legacy_coords": null,
+   "text_sha256": "4b60d94817669701b0f6dc570aec8bc105c690291cdf6f6a41279f57cd2884ec"
+  },
+  {
+   "passage_id": "tsa-a06-v07",
+   "start": 28742,
+   "end": 28919,
+   "vol_lines": [
+    182,
+    182
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e796cd85d5c0374f1c1ea78ea2a0e0460d98fd490e1874d128858bd859dd93b2"
+  },
+  {
+   "passage_id": "tsa-a06-v08",
+   "start": 28920,
+   "end": 29188,
+   "vol_lines": [
+    184,
+    185
+   ],
+   "legacy_coords": null,
+   "text_sha256": "05c8ec049cf7fb671d59c9fa59602bb459204a2e0e6bed681bf385cba59cff61"
+  },
+  {
+   "passage_id": "tsa-a06-v09",
+   "start": 29189,
+   "end": 29221,
+   "vol_lines": [
+    187,
+    187
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a8a812d306471c64ec4656197518ff9d8b5dbaaa784d8884b8ae313b6465ba30"
+  },
+  {
+   "passage_id": "tsa-a06-v10",
+   "start": 29221,
+   "end": 29415,
+   "vol_lines": [
+    188,
+    188
+   ],
+   "legacy_coords": null,
+   "text_sha256": "351f411f10136d86a28cb37f0909e1e52593c30d8dbbb28bb4b8f07762f4200f"
+  },
+  {
+   "passage_id": "tsa-a06-v11",
+   "start": 29415,
+   "end": 29447,
+   "vol_lines": [
+    189,
+    189
+   ],
+   "legacy_coords": null,
+   "text_sha256": "7cc1661cbe1c5f6495932f9c96122275706adab869f11ae3f5b3f9cce2cc8904"
+  },
+  {
+   "passage_id": "tsa-a06-v12",
+   "start": 29447,
+   "end": 29706,
+   "vol_lines": [
+    190,
+    190
+   ],
+   "legacy_coords": null,
+   "text_sha256": "208ce086225a41627af92e2b389e8929f1b88d0a2421c7f350c1307ed05a8fa3"
+  },
+  {
+   "passage_id": "tsa-a06-v13",
+   "start": 29706,
+   "end": 29877,
+   "vol_lines": [
+    191,
+    191
+   ],
+   "legacy_coords": null,
+   "text_sha256": "c12076d82daf033ab7f9006ad925193970387d107cd6e0d53c5ee6a96f435629"
+  },
+  {
+   "passage_id": "tsa-a06-v14",
+   "start": 29877,
+   "end": 30116,
+   "vol_lines": [
+    192,
+    192
+   ],
+   "legacy_coords": null,
+   "text_sha256": "22444f2c93e605c45dd631eeb6cd142ba220f254de208121144fbb057d1452c9"
+  },
+  {
+   "passage_id": "tsa-a06-v15",
+   "start": 30116,
+   "end": 30186,
+   "vol_lines": [
+    193,
+    193
+   ],
+   "legacy_coords": null,
+   "text_sha256": "d1c62d2f8ec6d982ea6400b1e057a2c274e6f90abce1dd794780ea08a2955323"
+  },
+  {
+   "passage_id": "tsa-a06-v16",
+   "start": 30186,
+   "end": 30278,
+   "vol_lines": [
+    194,
+    194
+   ],
+   "legacy_coords": null,
+   "text_sha256": "898107b7345bd1b99fab4d881ad4cc18a32755e22d5a90986592117ee162857c"
+  },
+  {
+   "passage_id": "tsa-a06-v17",
+   "start": 30278,
+   "end": 30605,
+   "vol_lines": [
+    195,
+    195
+   ],
+   "legacy_coords": null,
+   "text_sha256": "c72017bbbb3d5221d4760d74c079fb5ebc3c867284ad35a9effacea0c7ce827c"
+  },
+  {
+   "passage_id": "tsa-a06-v18",
+   "start": 30605,
+   "end": 30722,
+   "vol_lines": [
+    196,
+    196
+   ],
+   "legacy_coords": null,
+   "text_sha256": "320d16fc29aea0ce1939c9b5c57f3d4d7c8ee6b3864da4254ff6316c4ec287db"
+  },
+  {
+   "passage_id": "tsa-a06-v19",
+   "start": 30722,
+   "end": 30964,
+   "vol_lines": [
+    197,
+    197
+   ],
+   "legacy_coords": null,
+   "text_sha256": "12b73f1e280638b5dcfef494305cce0c94fefb41223c4b7fb2058878b402979a"
+  },
+  {
+   "passage_id": "tsa-a06-v20",
+   "start": 30964,
+   "end": 30998,
+   "vol_lines": [
+    198,
+    198
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a808193d0b51b2eb43393aeb6a88be651cefa9220eba379cbc4d3b410a9fa19f"
+  },
+  {
+   "passage_id": "tsa-a06-v21",
+   "start": 30998,
+   "end": 31130,
+   "vol_lines": [
+    199,
+    199
+   ],
+   "legacy_coords": null,
+   "text_sha256": "cbe8ffb8cd2ab4c08172f9d617bb3669fca2b640b3de4d646ee8c1480244364f"
+  },
+  {
+   "passage_id": "tsa-a06-v22",
+   "start": 31130,
+   "end": 31400,
+   "vol_lines": [
+    200,
+    200
+   ],
+   "legacy_coords": null,
+   "text_sha256": "d6543bc9da29365799ccce4c6184bbb7f941efad359564b057a3b2248d2278fb"
+  },
+  {
+   "passage_id": "tsa-a06-v23",
+   "start": 31400,
+   "end": 31464,
+   "vol_lines": [
+    201,
+    201
+   ],
+   "legacy_coords": null,
+   "text_sha256": "74cfb895831fe25be5a83627c5eb9257f5c9850bd1d23922603a24647bb27346"
+  },
+  {
+   "passage_id": "tsa-a06-v24",
+   "start": 31464,
+   "end": 31580,
+   "vol_lines": [
+    202,
+    202
+   ],
+   "legacy_coords": null,
+   "text_sha256": "4e5b4da0aec74741fed1e832aefc45bbc53d9d97b5131584558c5088f7dd013b"
+  },
+  {
+   "passage_id": "tsa-a06-v25",
+   "start": 31580,
+   "end": 32052,
+   "vol_lines": [
+    203,
+    203
+   ],
+   "legacy_coords": null,
+   "text_sha256": "98ddccd4aca456f35d8e19d164068a0d481be1afee513684a630edafb355c695"
+  },
+  {
+   "passage_id": "tsa-a06-v26",
+   "start": 32052,
+   "end": 32172,
+   "vol_lines": [
+    204,
+    204
+   ],
+   "legacy_coords": null,
+   "text_sha256": "67fa2659aaa178cb429a797c5d9b7a5e4083e84052beeb35e29e4d33f7928435"
+  },
+  {
+   "passage_id": "tsa-a06-v27",
+   "start": 32172,
+   "end": 32302,
+   "vol_lines": [
+    205,
+    205
+   ],
+   "legacy_coords": null,
+   "text_sha256": "341696068724700f56e36ac21b4ff8206f4aba61825b2f6490d307bbfcf84ecd"
+  },
+  {
+   "passage_id": "tsa-a06-v28",
+   "start": 32302,
+   "end": 32414,
+   "vol_lines": [
+    206,
+    206
+   ],
+   "legacy_coords": null,
+   "text_sha256": "406941a0371e576a6c496bd1934f9e2e017192d610ee6ebeafe111e2507a3fe5"
+  },
+  {
+   "passage_id": "tsa-a06-v29",
+   "start": 32414,
+   "end": 32675,
+   "vol_lines": [
+    207,
+    207
+   ],
+   "legacy_coords": null,
+   "text_sha256": "1c3260e7f54e48dbb7c078d510d4eaa59c873b9d3caab5465ab742c315fd0cf4"
+  },
+  {
+   "passage_id": "tsa-a06-v30",
+   "start": 32675,
+   "end": 32759,
+   "vol_lines": [
+    208,
+    208
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a3de8b64c1f84ff822f0d55cfe857a13ca9b520b0bed4d9cb8cb4eca17d759ca"
+  },
+  {
+   "passage_id": "tsa-a06-v31",
+   "start": 32759,
+   "end": 32818,
+   "vol_lines": [
+    209,
+    209
+   ],
+   "legacy_coords": null,
+   "text_sha256": "59c8f83e3bc891bbceef720260032a7535454d9b344553f19dc498174bb3571d"
+  },
+  {
+   "passage_id": "tsa-a06-v32",
+   "start": 32818,
+   "end": 32875,
+   "vol_lines": [
+    210,
+    210
+   ],
+   "legacy_coords": null,
+   "text_sha256": "66c99fa14d9bee8457bc98c848ed0e7ba5893e582f48c7fdaccbb5281c09bfb2"
+  },
+  {
+   "passage_id": "tsa-a06-v33",
+   "start": 32875,
+   "end": 32960,
+   "vol_lines": [
+    211,
+    211
+   ],
+   "legacy_coords": null,
+   "text_sha256": "13ea2d2aaefbbd51967f95fed47da0eb75bda9ba0c578ca60e309f115aee2013"
+  },
+  {
+   "passage_id": "tsa-a06-v34",
+   "start": 32960,
+   "end": 33088,
+   "vol_lines": [
+    212,
+    212
+   ],
+   "legacy_coords": null,
+   "text_sha256": "616c9e5abc733e07afb9d1863c5a213c4b61313cbd62a1b65fa1e093c05ffea4"
+  },
+  {
+   "passage_id": "tsa-a06-v35",
+   "start": 33088,
+   "end": 33288,
+   "vol_lines": [
+    213,
+    213
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e0788d5aaa70177de5e68423461565309cc419c5a7ac536d8f933d6ec43116f6"
+  },
+  {
+   "passage_id": "tsa-a06-v36",
+   "start": 33288,
+   "end": 33346,
+   "vol_lines": [
+    214,
+    214
+   ],
+   "legacy_coords": null,
+   "text_sha256": "79d4d24241492c2578418e4419eb01947bf48b82841c7f0f9856cb50e3ffb3fc"
+  },
+  {
+   "passage_id": "tsa-a06-v37",
+   "start": 33346,
+   "end": 33433,
+   "vol_lines": [
+    215,
+    215
+   ],
+   "legacy_coords": null,
+   "text_sha256": "c3ca89b57de2639a5c9210c8ab6681e5fb25d0a4256bf76d1d3c73a2d50d00ae"
+  },
+  {
+   "passage_id": "tsa-a06-v38",
+   "start": 33433,
+   "end": 33481,
+   "vol_lines": [
+    216,
+    216
+   ],
+   "legacy_coords": null,
+   "text_sha256": "999799c171e59b2c6a8b053988b6f1baf1be36b81005d4e5bd213b1bb6e92c88"
+  },
+  {
+   "passage_id": "tsa-a06-v39",
+   "start": 33481,
+   "end": 33574,
+   "vol_lines": [
+    217,
+    217
+   ],
+   "legacy_coords": null,
+   "text_sha256": "739578f17081f23fa89d24ddb1a80a9f258fbb53bd5b46871a07ca5027e04c93"
+  },
+  {
+   "passage_id": "tsa-a06-v40",
+   "start": 33574,
+   "end": 33633,
+   "vol_lines": [
+    218,
+    218
+   ],
+   "legacy_coords": null,
+   "text_sha256": "31c6e9ebea5e2c03b1f794107caa3135fef36c82b6c859bff4fcb9cc03c02f1e"
+  },
+  {
+   "passage_id": "tsa-a06-v41",
+   "start": 33633,
+   "end": 33699,
+   "vol_lines": [
+    219,
+    219
+   ],
+   "legacy_coords": null,
+   "text_sha256": "437a87b13c16a6ccb1b9d1d2bfd5a5778ae5426a15278ab009ad5472afe8221a"
+  },
+  {
+   "passage_id": "tsa-a06-v42",
+   "start": 33699,
+   "end": 33756,
+   "vol_lines": [
+    220,
+    220
+   ],
+   "legacy_coords": null,
+   "text_sha256": "30963997c1c05a104953d8e1db5e7a3aa53d28558392bf6021179ead48bd2126"
+  },
+  {
+   "passage_id": "tsa-a06-v43",
+   "start": 33756,
+   "end": 33994,
+   "vol_lines": [
+    221,
+    221
+   ],
+   "legacy_coords": null,
+   "text_sha256": "fc2760bec6de65299f28069b4e3497a188e9690eca47021030c1dd31eb068921"
+  },
+  {
+   "passage_id": "tsa-a06-v44",
+   "start": 33994,
+   "end": 34038,
+   "vol_lines": [
+    222,
+    222
+   ],
+   "legacy_coords": null,
+   "text_sha256": "8149afbff8772d0e997b24da72e71b5ecee15a3f76851e98a4ccbf845f82834b"
+  },
+  {
+   "passage_id": "tsa-a06-v45",
+   "start": 34038,
+   "end": 34168,
+   "vol_lines": [
+    223,
+    223
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ed4f0b38cf033b882eb75746cf64a7a8966d110c32410286538c0b439e666d81"
+  },
+  {
+   "passage_id": "tsa-a06-v46",
+   "start": 34168,
+   "end": 34200,
+   "vol_lines": [
+    224,
+    224
+   ],
+   "legacy_coords": null,
+   "text_sha256": "5dcea6a59ed995677d6edf40798d618f0d24c55505e82fe5282374aa50f51c42"
+  },
+  {
+   "passage_id": "tsa-a06-v47",
+   "start": 34200,
+   "end": 34276,
+   "vol_lines": [
+    225,
+    225
+   ],
+   "legacy_coords": null,
+   "text_sha256": "9984ae8d03a9b753c9cc131909a4bd38f7f32323c7db2d1246f55a47d4f118e4"
+  },
+  {
+   "passage_id": "tsa-a06-v48",
+   "start": 34276,
+   "end": 34442,
+   "vol_lines": [
+    226,
+    226
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ad87d08cb588f2db7e39b60cd7384cf9c29901817040c81e5e707bc8726bc51a"
+  },
+  {
+   "passage_id": "tsa-a06-v49",
+   "start": 34442,
+   "end": 34575,
+   "vol_lines": [
+    227,
+    227
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ce6473ba0eea52f3a8ee250bd27041ef2f3e30bb095e9be28ca66b4bb3bf0580"
+  },
+  {
+   "passage_id": "tsa-a06-v50",
+   "start": 34575,
+   "end": 34731,
+   "vol_lines": [
+    228,
+    228
+   ],
+   "legacy_coords": null,
+   "text_sha256": "1b3be05a56922deaa48ed41ecdcd3f0571d963b0620cdb4c3f8d3804878b479d"
+  },
+  {
+   "passage_id": "tsa-a06-v51",
+   "start": 34731,
+   "end": 34801,
+   "vol_lines": [
+    229,
+    229
+   ],
+   "legacy_coords": null,
+   "text_sha256": "4d7804842422ea60ea2140d00d7f36555152095175af3a42560505f0077a1d8a"
+  },
+  {
+   "passage_id": "tsa-a06-v52",
+   "start": 34801,
+   "end": 34887,
+   "vol_lines": [
+    230,
+    230
+   ],
+   "legacy_coords": null,
+   "text_sha256": "da92d0102a621e3653ea744680800b879c141a6c123db764f076cc117894d42e"
+  },
+  {
+   "passage_id": "tsa-a06-v53",
+   "start": 34887,
+   "end": 35019,
+   "vol_lines": [
+    231,
+    231
+   ],
+   "legacy_coords": null,
+   "text_sha256": "702a819c991ebfb72d3867d392c69be0b5cb4defad536905fc52be8b7ae087ac"
+  },
+  {
+   "passage_id": "tsa-a06-v54",
+   "start": 35019,
+   "end": 35272,
+   "vol_lines": [
+    232,
+    232
+   ],
+   "legacy_coords": null,
+   "text_sha256": "792609e05ec0cc32e64c47f25c1c023a18ab9bf4cc04e0fdb8a5b06389a0830d"
+  },
+  {
+   "passage_id": "tsa-a06-v55",
+   "start": 35272,
+   "end": 35468,
+   "vol_lines": [
+    233,
+    233
+   ],
+   "legacy_coords": null,
+   "text_sha256": "4b2b2cff95b9d1bfb3792fb93848a4c0296f8ad337a67ad599c406ef03c1e9d8"
+  },
+  {
+   "passage_id": "tsa-a06-v56",
+   "start": 35468,
+   "end": 35545,
+   "vol_lines": [
+    234,
+    234
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ce53e059e6c6439a87e3594a21f4db47c5773cd8ae8a18db3ac6171159d1834d"
+  },
+  {
+   "passage_id": "tsa-a06-v57",
+   "start": 35545,
+   "end": 35647,
+   "vol_lines": [
+    235,
+    235
+   ],
+   "legacy_coords": null,
+   "text_sha256": "0f738d5db073911709e29f76d3c8d42b090e70aa009a75c1c5e0bcd8ab041a80"
+  },
+  {
+   "passage_id": "tsa-a06-v58",
+   "start": 35647,
+   "end": 35927,
+   "vol_lines": [
+    236,
+    236
+   ],
+   "legacy_coords": null,
+   "text_sha256": "fb983b48c4101c539cb9ced5323b53e579be248ef44d573792a159d32320a2cf"
+  },
+  {
+   "passage_id": "tsa-a06-v59",
+   "start": 35927,
+   "end": 35967,
+   "vol_lines": [
+    237,
+    237
+   ],
+   "legacy_coords": null,
+   "text_sha256": "1404442e52dc4bda14a66a676e204a69da5803f2d336839a0489f17382cf369b"
+  },
+  {
+   "passage_id": "tsa-a06-v60",
+   "start": 35968,
+   "end": 36161,
+   "vol_lines": [
+    239,
+    240
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a58c0ea1faaeae40f2c3da8039a8178e60f11366f46b6f151e52d63b2411067b"
+  },
+  {
+   "passage_id": "tsa-a06-v61",
+   "start": 36162,
+   "end": 36247,
+   "vol_lines": [
+    242,
+    242
+   ],
+   "legacy_coords": null,
+   "text_sha256": "63469613f9d8ca67b3fbfe709446eda3242e930fccffc572ae664514ffbbf363"
+  },
+  {
+   "passage_id": "tsa-a06-v62",
+   "start": 36247,
+   "end": 36349,
+   "vol_lines": [
+    243,
+    243
+   ],
+   "legacy_coords": null,
+   "text_sha256": "0187a82e9a83879720ea5f7e188e84e45339a3a5315c86da308c7f41cdb30b5b"
+  },
+  {
+   "passage_id": "tsa-a06-v63",
+   "start": 36349,
+   "end": 36527,
+   "vol_lines": [
+    244,
+    244
+   ],
+   "legacy_coords": null,
+   "text_sha256": "5ffc1bf2ee6759622020008808cf2ee40ff0036b54a044494907351f81c96db4"
+  },
+  {
+   "passage_id": "tsa-a06-v64",
+   "start": 36527,
+   "end": 36698,
+   "vol_lines": [
+    245,
+    245
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ebf4218a5d86b3619f7726f9849229f4852a8124bef4c39c620063cddf38253d"
+  },
+  {
+   "passage_id": "tsa-a06-v65",
+   "start": 36698,
+   "end": 36850,
+   "vol_lines": [
+    246,
+    246
+   ],
+   "legacy_coords": null,
+   "text_sha256": "2a707c177eccb32621aa697dd6dd831ee03b05525c9381a05038619c6082ac8a"
+  },
+  {
+   "passage_id": "tsa-a06-v66",
+   "start": 36850,
+   "end": 36939,
+   "vol_lines": [
+    247,
+    247
+   ],
+   "legacy_coords": null,
+   "text_sha256": "5cdcef58105498840c07105465ec5d885bc4d339b469875f7a81612efaa628ee"
+  },
+  {
+   "passage_id": "tsa-a06-v67",
+   "start": 36939,
+   "end": 37013,
+   "vol_lines": [
+    248,
+    248
+   ],
+   "legacy_coords": null,
+   "text_sha256": "d7da6a60d109248468944eb8d2b07790584e536c4dc6f45320f2ebb8319789ed"
+  },
+  {
+   "passage_id": "tsa-a06-v68",
+   "start": 37013,
+   "end": 37101,
+   "vol_lines": [
+    249,
+    249
+   ],
+   "legacy_coords": null,
+   "text_sha256": "86cc22a1124d6cb8b7f1e32c9fb9cc2fc0f6d1b3839648b0d0313b6033c3413e"
+  },
+  {
+   "passage_id": "tsa-a06-v69",
+   "start": 37101,
+   "end": 37154,
+   "vol_lines": [
+    250,
+    250
+   ],
+   "legacy_coords": null,
+   "text_sha256": "f90d864193583fae4430155f880c8f176fac1afb22eed7b85743e6145daa7465"
+  },
+  {
+   "passage_id": "tsa-a06-v70",
+   "start": 37154,
+   "end": 37240,
+   "vol_lines": [
+    251,
+    251
+   ],
+   "legacy_coords": null,
+   "text_sha256": "55788b7229d3cb32d33fd337baf9489d82a35fe9560c8b47aa12c1e7bcc155ac"
+  },
+  {
+   "passage_id": "tsa-a06-v71",
+   "start": 37240,
+   "end": 37281,
+   "vol_lines": [
+    252,
+    252
+   ],
+   "legacy_coords": null,
+   "text_sha256": "3b3095f88544edbe54e17300c83b6b94d11a4615f0e161c2e13047e2e104a99c"
+  },
+  {
+   "passage_id": "tsa-a06-v72",
+   "start": 37281,
+   "end": 37369,
+   "vol_lines": [
+    253,
+    253
+   ],
+   "legacy_coords": null,
+   "text_sha256": "065e2ee3572d7b57f50fe0f6e36dacd43e1bbbd54bad92dc5a4910f416b6e405"
+  },
+  {
+   "passage_id": "tsa-a06-v73",
+   "start": 37369,
+   "end": 37403,
+   "vol_lines": [
+    254,
+    254
+   ],
+   "legacy_coords": null,
+   "text_sha256": "22f2627d2310ad8ee4243902ee8b1a1c1dac1e84bd60a484626712ede2bbcd6b"
+  },
+  {
+   "passage_id": "tsa-a06-v74",
+   "start": 37403,
+   "end": 37624,
+   "vol_lines": [
+    255,
+    255
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e2e5ccbda10768f921166970946543fcd28d095ee494aa79576128f50cff92e5"
+  },
+  {
+   "passage_id": "tsa-a06-v75",
+   "start": 37624,
+   "end": 37810,
+   "vol_lines": [
+    256,
+    256
+   ],
+   "legacy_coords": null,
+   "text_sha256": "58a4f1d015bb59d28064c65071a98884b1db0e30e165e10500303038d376971a"
+  },
+  {
+   "passage_id": "tsa-a06-v76",
+   "start": 37810,
+   "end": 38161,
+   "vol_lines": [
+    257,
+    257
+   ],
+   "legacy_coords": null,
+   "text_sha256": "5012313551e752353dacb9e5955c04932862df7cb69ef1796e6d2349bcd23186"
+  },
+  {
+   "passage_id": "tsa-a06-v77",
+   "start": 38161,
+   "end": 38476,
+   "vol_lines": [
+    258,
+    258
+   ],
+   "legacy_coords": null,
+   "text_sha256": "d3680e7515a412139e722d26c6e5f988fa613fb67387a38b06a36f807308a675"
+  },
+  {
+   "passage_id": "tsa-a06-v78",
+   "start": 38476,
+   "end": 38536,
+   "vol_lines": [
+    259,
+    259
+   ],
+   "legacy_coords": null,
+   "text_sha256": "8b549a2d9c080cdc051ad73faef6ce7678b93abcb28ac1ea54dd38a7e0de8dc9"
+  },
+  {
+   "passage_id": "tsa-a06-v79",
+   "start": 38536,
+   "end": 38618,
+   "vol_lines": [
+    260,
+    260
+   ],
+   "legacy_coords": null,
+   "text_sha256": "abc40ad8d948a555abf672f07130ee08fd56f2f523678d8731946826d284f133"
+  },
+  {
+   "passage_id": "tsa-a06-v80",
+   "start": 38618,
+   "end": 38796,
+   "vol_lines": [
+    261,
+    261
+   ],
+   "legacy_coords": null,
+   "text_sha256": "6c35767777a3ac845c4288cb80382fbdf0e656d9eadb6f9dfdc3487569592c97"
+  },
+  {
+   "passage_id": "tsa-a06-v81",
+   "start": 38796,
+   "end": 39012,
+   "vol_lines": [
+    262,
+    262
+   ],
+   "legacy_coords": null,
+   "text_sha256": "69241483faa817791aadd0c009ce48c6f5e83cc638e811c83e05d95c94ade62a"
+  },
+  {
+   "passage_id": "tsa-a06-v82",
+   "start": 39013,
+   "end": 39190,
+   "vol_lines": [
+    264,
+    265
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ec4cf2d8308756ed2961d74a83436746c9721dfe5a51666917f1223e3d1f859c"
+  }
+ ],
+ "overlaps": [],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 27443,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0\n### Source "
+  },
+  {
+   "start": 39190,
+   "end": 129411,
+   "note": "trailing non-whitespace in no chunk span",
+   "preview": "\nTantrasāra, Saptamam āhnikam\ntatra samasta eva ayaṃ mūrtivaicitryābhāsanaśaktij"
+  }
+ ],
+ "supersedes": null
+}

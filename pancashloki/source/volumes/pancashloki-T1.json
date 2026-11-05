@@ -1,0 +1,79 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "pancashloki",
+ "vol": "pancashloki-T1",
+ "source_file": "pancashloki/T1.md",
+ "source_id": "pancashloki-pancashloki-T1-699f1db9c54d3a10",
+ "content_sha256": "699f1db9c54d3a102f80a38c00fa62a75ef8345e46b7e646fec33c1f138e5dfa",
+ "bytes": 4320,
+ "edition": "T1.md as vendored (see file header)",
+ "license": "see lore/links.json; rights UNKNOWN until confirmed",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "pan-p01",
+   "start": 349,
+   "end": 1220,
+   "vol_lines": [
+    7,
+    13
+   ],
+   "legacy_coords": null,
+   "text_sha256": "0bf494e117ec0ea000a6367515364194439b75d3a8b7c3ca49255f53260ada1b"
+  },
+  {
+   "passage_id": "pan-p02",
+   "start": 1220,
+   "end": 1970,
+   "vol_lines": [
+    14,
+    19
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e2e0fd49cb797deb30f5f40715d19789fd4d655f4c9c5370dae062e4fafdd668"
+  },
+  {
+   "passage_id": "pan-p03",
+   "start": 1970,
+   "end": 2749,
+   "vol_lines": [
+    20,
+    25
+   ],
+   "legacy_coords": null,
+   "text_sha256": "210bfe8be2f7de75d05a3a4a4515bb2c5fd786344c317543cdaea556185de9dd"
+  },
+  {
+   "passage_id": "pan-p04",
+   "start": 2749,
+   "end": 3447,
+   "vol_lines": [
+    26,
+    31
+   ],
+   "legacy_coords": null,
+   "text_sha256": "4098dc9367464f3ea074b70e7560f0fd9c250c4beac78c343de0a137648ad98b"
+  },
+  {
+   "passage_id": "pan-p05",
+   "start": 3447,
+   "end": 4320,
+   "vol_lines": [
+    32,
+    38
+   ],
+   "legacy_coords": null,
+   "text_sha256": "215b599a0c35362d4e03d8b6f57d6177167275fd9cbbe8acf8883da74b791fcf"
+  }
+ ],
+ "overlaps": [],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 349,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "# Pañcaślokī — T1 frozen 2026-10-31\n\n*Source: SanskritDocuments (Ruma Dewan ed./"
+  }
+ ],
+ "supersedes": null
+}

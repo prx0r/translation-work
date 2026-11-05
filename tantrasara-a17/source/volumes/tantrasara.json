@@ -1,0 +1,96 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "tantrasara-a17",
+ "vol": "tantrasara",
+ "source_file": "../ipvv/site/data/sanskrit/tantrasara.txt",
+ "source_id": "tantrasara-a17-tantrasara-329925603922aef0",
+ "content_sha256": "329925603922aef093a08ff11209fca3ec14b50f94721e3f4bf299fdc912d62f",
+ "bytes": 129411,
+ "edition": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0 ### Source file: 6_sastra/3_phil/sa_abhinavagupta-tantrasAra.txt ### Vendored: site/data/sanskrit/tantrasara.txt (research/education use; respect licence)",
+ "license": "see lore/links.json; rights UNKNOWN until confirmed",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "tsa-a17-v01",
+   "start": 101274,
+   "end": 101886,
+   "vol_lines": [
+    676,
+    676
+   ],
+   "legacy_coords": null,
+   "text_sha256": "cbfa65a35b353b921b406f5b8027be7e8be11a1d9337c0f29b19e9d6f3ec856f"
+  },
+  {
+   "passage_id": "tsa-a17-v02",
+   "start": 101886,
+   "end": 102077,
+   "vol_lines": [
+    677,
+    677
+   ],
+   "legacy_coords": null,
+   "text_sha256": "d6c8d1e31dda7b3284e68ae0e6abbd63ed6786b2804c48371c6956ee0f2d4f3a"
+  },
+  {
+   "passage_id": "tsa-a17-v03",
+   "start": 102077,
+   "end": 102134,
+   "vol_lines": [
+    678,
+    678
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e6d53458ac30a43643625e729c476a2b1f24da1a387402b890710c9559ecce08"
+  },
+  {
+   "passage_id": "tsa-a17-v04",
+   "start": 102134,
+   "end": 102336,
+   "vol_lines": [
+    679,
+    679
+   ],
+   "legacy_coords": null,
+   "text_sha256": "b1d3a7bf7b40c9523730d33c3e59daea0a44cce2aed429a385bb40b5fd260236"
+  },
+  {
+   "passage_id": "tsa-a17-v05",
+   "start": 102336,
+   "end": 102382,
+   "vol_lines": [
+    680,
+    680
+   ],
+   "legacy_coords": null,
+   "text_sha256": "3c2d92188202a6856d71a8e4b8b5986334c5c0523492fcdd3da039db36b81c6f"
+  },
+  {
+   "passage_id": "tsa-a17-v06",
+   "start": 102382,
+   "end": 102417,
+   "vol_lines": [
+    681,
+    681
+   ],
+   "legacy_coords": null,
+   "text_sha256": "f3dc9f37be4e37d5eaaf297974b1ff7caa81c4cd54c6a681adeced59e569e6f7"
+  }
+ ],
+ "overlaps": [],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 101274,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "### Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0\n### Source "
+  },
+  {
+   "start": 102417,
+   "end": 129411,
+   "note": "trailing non-whitespace in no chunk span",
+   "preview": "\nTantrasāra, Aṣṭādaśam āhnikam\nsvabhyastajñāninaṃ sādhakatve gurutve vā abhiṣiñc"
+  }
+ ],
+ "supersedes": null
+}
