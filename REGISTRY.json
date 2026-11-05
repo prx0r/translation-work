@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 101,
- "gold": 56,
+ "gold": 57,
  "partial": 0,
- "pending": 45,
+ "pending": 44,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -568,12 +568,12 @@
   },
   {
    "work": "tantraloka-a24",
-   "status": "recon complete (pending transformation, shortest-first queue)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 334-vs-333 noted; a03 verse-0 kept). Registered in workcfg kind=taloka. Queue: shortest-first per owner goal."
+   "status": "gold (machine-proposed, needs human review)",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 24,
+   "note": "GOLD #58 2026-11-07: antyeṣṭi funerary initiation, 24u/172tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a25",
@@ -676,12 +676,12 @@
   },
   {
    "work": "tantraloka-a36",
-   "status": "recon complete (pending transformation, shortest-first queue)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 334-vs-333 noted; a03 verse-0 kept). Registered in workcfg kind=taloka. Queue: shortest-first per owner goal."
+   "status": "gold (machine-proposed, needs human review)",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 17,
+   "note": "GOLD #57 2026-11-07: āgama-avatāra transmission history, 17u/130tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a37",
