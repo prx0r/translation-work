@@ -338,6 +338,85 @@ WORKS = {
         "songs": {"tal-a12": (1, 26)},
     },
 
+    "tantraloka-a13": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 13: 362 verses
+        "ahnika": 13,
+        "songs": {"tal-a13": (1, 362)},
+    },
+    "tantraloka-a14": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 14: 47 verses
+        "ahnika": 14,
+        "songs": {"tal-a14": (1, 47)},
+    },
+    "tantraloka-a15": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 15: 613 verses
+        "ahnika": 15,
+        "songs": {"tal-a15": (1, 613)},
+    },
+    "tantraloka-a16": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 16: 311 verses
+        "ahnika": 16,
+        "songs": {"tal-a16": (1, 311)},
+    },
+    "tantraloka-a17": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 17: 122 verses
+        "ahnika": 17,
+        "songs": {"tal-a17": (1, 122)},
+    },
+    "tantraloka-a18": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 18: 11 verses
+        "ahnika": 18,
+        "songs": {"tal-a18": (1, 11)},
+    },
+    "tantraloka-a19": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 19: 56 verses
+        "ahnika": 19,
+        "songs": {"tal-a19": (1, 56)},
+    },
+    "tantraloka-a20": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 20: 16 verses
+        "ahnika": 20,
+        "songs": {"tal-a20": (1, 16)},
+    },
+    "tantraloka-a21": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 21: 61 verses
+        "ahnika": 21,
+        "songs": {"tal-a21": (1, 61)},
+    },
+    "tantraloka-a22": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 22: 48 verses
+        "ahnika": 22,
+        "songs": {"tal-a22": (1, 48)},
+    },
+    "tantraloka-a23": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 23: 103 verses
+        "ahnika": 23,
+        "songs": {"tal-a23": (1, 103)},
+    },
+    "tantraloka-a24": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 24: 24 verses
+        "ahnika": 24,
+        "songs": {"tal-a24": (1, 24)},
+    },
+    "tantraloka-a25": {
+        "source": SITE_SA / "tantraloka.txt",
+        "kind": "taloka",  # ahnika 25: 29 verses
+        "ahnika": 25,
+        "songs": {"tal-a25": (1, 29)},
+    },
+
 }
 
 
