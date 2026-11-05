@@ -61,6 +61,9 @@ For the included Paramārthasāra example, the available OpenPāṭala dossier i
 `sa_abhinavagupta-paramArthasAra`; this is useful for a candidate work mapping,
 but does not authenticate the edition. The checked-in editorial essay is a valid
 published snapshot but does not cite the chosen verse, so its status is `UNLINKED`.
+The reproducible example receipt is
+`logs/lineage/param-p01-v01-2026-11-05.json`; it includes the exact translation,
+ipvv, svread, OpenPāṭala and SanskritBench revisions used in that run.
 
 The current benchmark's check names are stronger than their implementation. For
 example, a negated English translation can pass all five; its result ID also uses a
