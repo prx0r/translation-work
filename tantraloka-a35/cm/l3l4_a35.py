@@ -1,0 +1,162 @@
+#!/usr/bin/env python3
+"""tantraloka-a35 L3/L4 data + build (hand-written lines, craft, reads)."""
+import json
+import sys
+sys.path.insert(0, 'tools')
+from workcfg import source_spans
+
+S = 'tal-a35'
+C = {1:"athocyate samastānāṃ śāstrāṇāmiha melanam | iha tāvatsama sto@yaṃ vyavahāraḥ purātanaḥ",2:"prasiddhimanusandhāya saiva cāgama ucyate | anvayavyatirekau hi prasiddherupajīvakau",3:"svāyattatve tayorvyaktipūge kiṃ syāttayorgatiḥ | pratyakṣamapi netrātmadīpārthādiviśeṣajam",4:"apekṣate tatra mūle prasiddhiṃ tāṃ tathātmikām | abhitaḥsaṃvṛte jāta ekākī kṣudhitaḥ śiśuḥ",5:"kiṃ karotu kimādattāṃ kena paśyatu kiṃ vrajet | nanu vastuśatākīrṇe sthāne@pyasya yadeva hi",6:"paśyato jighrato vāpi spṛśataḥ saṃprasīdati | cetastadevādāya drāk so@nvayavyatirekabhāk",7:"hanta cetaḥprasādo@pi yo@sāvarthaviśeṣagaḥ | so@pi prāgvāsanārūpavimarśaparikalpitaḥ",8:"na pratyakṣānumānādibāhyamānaprasādajaḥ | prāgvāsanopajīvyetat pratibhāmātrameva na",9:"na mṛdabhyavahārecchā puṃso bālasya jāyate | prāgvāsanopajīvī cedvimarśaḥ sā ca vāsanā",10:"prācyā cedāgatā seyaṃ prasiddhiḥ paurvakālikī | naca cetaḥprasattyaiva sarvo vyavahṛtikramaḥ",11:"mūlaṃ prasiddhistanmānaṃ sarvatraiveti gṛhyatām | pūrvapūrvopajīvitvamārgaṇe sā kvacitsvayam",12:"sarvajñarūpe hyekasminniḥśaṅkaṃ bhāsata purā | vyavahāro hi naikatra samastaḥ ko@pi mātari",13:"tenāsarvajñapūrvatvamātreṇaiṣā na siddhyati | bahusarvajñapūrvatve na mānaṃ cāsti kiṃcana",14:"bhogāpavargataddhetuprasiddhiśataśobhitaḥ | tadvimarśasvabhāvo@sau bhairavaḥ parameśvaraḥ",15:"tataścāṃśāṃśikāyogātsā prasiddhiḥ paramparām | śāstraṃ vāśritya vitatā lokānsaṃvyavahārayet",16:"tayaivāśaiśavātsarve vyavahāradharājuṣaḥ | santaḥ samupajīvanti śaivamevādyamāgamam",17:"apūrṇāstu pare tena na mokṣaphalabhāginaḥ | upajīvanti yāvattu tāvattatphalabhāginaḥ",18:"bālyāpāye@pi yadbhoktumannameṣa pravartate | tatprasiddhyaiva nādhyakṣānnānumānādasambhavāt",19:"naca kāpyatra doṣāśāśaṅkāyāśca nivṛttitaḥ | prasiddhiścāvigānotthā pratītiḥ śabdanātmikā",20:"mātuḥ svabhāvo yattasyāṃ śaṅkate naiṣa jātucit | svakṛtatvavaśādeva sarvavitsa hi śaṅkaraḥ",21:"yāvattu śivatā nāsya tāvatsvātmānusāriṇīm | tāvatīmeva tāmeṣa prasiddhiṃ nābhiśaṅkate",22:"anyasyāmabhiśaṅkī syādbhūyastāṃ bahu manyate | evaṃ bhāviśivatvo@mūṃ prasiddhiṃ manyate dhruvam",23:"eka evāgamaścāyaṃ vibhunā sarvadarśinā | darśito yaḥ pravṛtte ca nivṛtte ca pathi sthitaḥ",24:"dharmārthakāmamokṣeṣu pūrṇāpūrṇādibhedataḥ | vicitreṣu phaleṣveka upāyaḥ śāmbhavāgamaḥ",25:"tasminviṣayavaiviktyādvicitraphaladāyini | citropāyopadeśo@pi na virodhāvaho bhavet",26:"laukikaṃ vaidikaṃ sāṅkhyaṃ yogādi pāñcarātrakam | bauddhārhatanyāyaśāstraṃ padārthakramatantraṇam",27:"siddhāntatantraśāktādi sarvaṃ brahmodbhavaṃ yataḥ | śrīsvacchandaādiṣu proktaṃ sadyojātādibhedataḥ",28:"yathaikatrāpi vedādau tattadāśramagāminaḥ | saṃskārāntaramatrāpi tathā liṅgoddhṛtādikam",29:"yathāca tatra pūrvasminnāśrame nottarāśramāt | phalameti tathā pāñcarātrādau na śivātmatām",30:"eka evāgamastasmāttatra laukikaśāstrataḥ | prabhṛtyāvaiṣṇavādbauddhācchaivātsarvaṃ hi niṣṭhitam",31:"tasya yattat paraṃ prāpyaṃ dhāma tat trikaśabditam | sarvāvibhedānucchedāt tadeva kulamucyate",32:"yathordhvādharatābhāksu dehāṅgeṣu vibhediṣu | ekaṃ prāṇitamevaṃ syāt trikaṃ sarveṣu śāstrataḥ",33:"śrīmatkālīkule coktaṃ pañcasrotovivarjitam | daśāṣṭādaśabhedasya sārametatprakīrtitam",34:"puṣpe gandhastile tailaṃ dehe jīvo jale@mṛtam | yathā tathaiva śāstrāṇāṃ kulamantaḥ pratiṣṭhitam",35:"tadeka evāgamo@yaṃ citraścitre@dhikāriṇi | tathaiva sā prasiddhirhi svayūthyaparayūthyagā",36:"sāṃkhyaṃ yogaṃ pāñcarātraṃ vedāṃścaiva na nindayet | yataḥ śivodbhavāḥ sarva iti svacchandaśāsane",37:"ekasmādāgamāccaite khaṇḍakhaṇḍā vyapoddhṛtāḥ | loke syurāgamāstaiśca jano bhrāmyati mohitaḥ",38:"anekāgamapakṣe@pi vācyā viṣayabheditā | avaśyamūrdhvādharatāsthityā prāmāṇyasiddhaye",39:"anyathā naiva kasyāpi prāmāṇyaṃ siddhyati dhruvam | nityatvamavisaṃvāda iti no mānakāraṇam",40:"asminnaṃśe@pyamuṣyaiva prāmāṇyaṃ syāttathoditeḥ | anyathāvyākṛtau kḷptāvasatyatve prarocane",41:"atiprasaṅga sarvasyāpyāgamasyāpabādhakaḥ | avaśyopetya ityasminmāna āgamanāmani",42:"avaśyopetyamevaitacchāstraniṣṭhānirūpaṇam | pradhāne@ṅge kṛto yatnaḥ phalavānvastuto yataḥ",43:"ato@smin yatnavān ko@pi bhavecchaṃbhupracoditaḥ | tatra tatra ca śāstreṣu nyarūpyata maheśinā",44:"etāvatyadhikārī yaḥ sa durlabha iti sphuṭam | itthaṃ śrīśambhunāthena mamoktaṃ śāstramelanam"}
+L3L = {1:["Books agree — now hear them one."],
+2:["Certainty first, then scripture's run —","logic lives on what is already won."],
+3:["Self-standing shows go nowhere lone;","even eyes need certitude's stone."],
+4:["Root it in the given deep —","a child wakes, alone, hungry from sleep."],
+5:["What to take, by what to see?","A hundred things — yet no thing free."],
+6:["The clear mind takes the given whole","and sorts the world by touch and soul."],
+7:["Even clearness wears yesterday's dress —","reflection shaped by past impress."],
+8:["No outer proof, no lightning hit —","old habit has made the mind fit."],
+9:["No child craves mud to eat —","old tracks keep little feet."],
+10:["Old certainty from eastern dawn;","mere calm can't carry on."],
+11:["Take certainty as root and rod —","she stands alone where seekers trod."],
+12:["Once doubtless in the All-seer's sight,","no single proof held practice tight."],
+13:["Few or many seers of old","never coined proof's gold."],
+14:["Hundred-certain, mirror-bright —","Bhairava, the Lord of light."],
+15:["Bit by bit she finds her heirs —","book and line in world's affairs."],
+16:["From childhood all on Śaiva feed,","the first book sows the deed."],
+17:["Half-hearts hold half the prize —","as they follow, fruit shall rise."],
+18:["Babes eat sure, nor prove nor guess —","certainty, not proof, feeds less."],
+19:["No fault-fear ends the quest —","word-born wisdom lays it rest."],
+20:["Who doubts the Mother? None but he","who made himself unfree."],
+21:["Till Śivahood, the self-bound trust","what tracks the self as just."],
+22:["Doubt the neighbor, prize him still —","future gods this faith fulfill."],
+23:["One book the all-seeing gave,","for rest and road, for still and brave."],
+24:["Many aims, measures rife —","one Śāmbhava way of life."],
+25:["Many cures, no contradiction —","patients differ, not the benediction."],
+26:["Worldly, Vedic, counted schools,","logic's tools and matter's rules."],
+27:["All from Brahman born and bred —","so Svacchanda's pages said."],
+28:["Veda gives its walkers marks anew;","our marks here hold true too."],
+29:["No later term earns former fruit —","no Pāñcarātra bears Śiva's root."],
+30:["One book bore all, from street to shrine —","Vaiṣṇava, Buddhist, Śaiva line."],
+31:["The highest reach is Trika styled;","whole unsevered, Kula the child."],
+32:["Limbs apart, one life within —","so Trika threads all akin."],
+33:["Five streams past, the Kālī creed","holds ten-and-eight's quintessence freed."],
+34:["Flower holds scent, seed oil concealed,","flesh holds soul, in books Kula's sealed."],
+35:["One book, many hands to hold —","one faith in every fold."],
+36:["Blame no school, nor creed decry —","all from Śiva Simplest High."],
+37:["Torn scraps for scriptures pass;","the dazzled crowd cries 'brass!'."],
+38:["Though many books contend their place,","each must own its range and grade."],
+39:["Else none stands sure, all askew —","changeless, clashless won't prove true."],
+40:["Here his word makes warrant whole;","else what-ifs swallow soul."],
+41:["Too wide a net breaks every cord —","'must-reach' names the Lord."],
+42:["Work the main, and reap the grain —","the trunk repays the strain."],
+43:["Strive, by Śambhu spurred and led;","the Lord laid books like bread."],
+44:["Rare the fit for all this lore —","thus my Master's closing door."]}
+L4L = {1:["Books agree — hear them one."],
+2:["Certainty first, scripture after."],
+3:["Self-standing falls; eyes need ground."],
+4:["Hungry child, given dawn."],
+5:["What to take? Nothing free."],
+6:["Clear mind sorts world."],
+7:["Past shapes the clear."],
+8:["Not proof, not flash."],
+9:["No mud-craving; tracks hold."],
+10:["Old certainty; calm's not all."],
+11:["Root-certainty everywhere."],
+12:["Whole practice, no one proof."],
+13:["Seers don't mint proof."],
+14:["Hundred-certain Bhairava."],
+15:["Bit by bit to worlds."],
+16:["All feed on first book."],
+17:["Half-hearts, half fruit."],
+18:["Babes eat sure."],
+19:["Word-wisdom rests doubt."],
+20:["Doubter self-made."],
+21:["Unfree trust self-track."],
+22:["Prize the doubting neighbor."],
+23:["One book, rest and road."],
+24:["One way, many aims."],
+25:["Many cures, no clash."],
+26:["Schools catalogued."],
+27:["All Brahman-born."],
+28:["Veda marks; ours too."],
+29:["Grades hold; no leap."],
+30:["One book bore all."],
+31:["Highest named Trika."],
+32:["One life, all books."],
+33:["Kālī creed's quintessence."],
+34:["Scent in flower; Kula in books."],
+35:["One book, many hands."],
+36:["Blame none; Śiva-born."],
+37:["Scraps mislead crowds."],
+38:["Rank each book's range."],
+39:["Changeless won't prove."],
+40:["His word warrants here."],
+41:["Wide nets break."],
+42:["Work the main."],
+43:["Strive Śambhu-spurred."],
+44:["Rare the fit; Master told."]}
+CR = {1:"Sthāyin: announcement (owner reviews first-verse). Sanskrit-first: melanam kept. Rows: 1. Close: one. Rejected: delaying — killed: now told. Read aloud: herald cadence.",
+2:"Sthāyin: ground. Sanskrit-first: prasiddhi kept. Rows: 2. Close: won. Rejected: translating certainty away — killed: term stands. Read aloud: grounding cadence.",
+3:"Sthāyin: dependence. Sanskrit-first: pratyakṣa kept. Rows: 2. Close: stone. Rejected: idealism — killed: instruments listed. Read aloud: asking cadence.",
+4:"Sthāyin: child. Sanskrit-first: śiśu kept. Rows: 2. Close: sleep. Rejected: abstraction — killed: hungry child. Read aloud: waking cadence.",
+5:"Sthāyin: questions. Sanskrit-first: interrogatives kept. Rows: 2. Close: free. Rejected: answering — killed: questions stand. Read aloud: questioning cadence.",
+6:"Sthāyin: serenity. Sanskrit-first: samprasīdati kept. Rows: 2. Close: soul. Rejected: mechanism — killed: serenity. Read aloud: settling cadence.",
+7:"Sthāyin: shaping. Sanskrit-first: parikalpita kept. Rows: 2. Close: dress. Rejected: immediacy — killed: fashioned. Read aloud: welling cadence.",
+8:"Sthāyin: neither. Sanskrit-first: double na kept. Rows: 2. Close: fit. Rejected: choosing — killed: neither. Read aloud: denying cadence.",
+9:"Sthāyin: mud-test. Sanskrit-first: mṛd kept. Rows: 2. Close: feet. Rejected: disgust — killed: experiment. Read aloud: testing cadence.",
+10:"Sthāyin: east. Sanskrit-first: prācyā kept. Rows: 2. Close: dawn. Rejected: geography — killed: the prior. Read aloud: dawning cadence.",
+11:"Sthāyin: root. Sanskrit-first: mūla kept. Rows: 2. Close: trod. Rejected: proving root — killed: accept. Read aloud: rooting cadence.",
+12:"Sthāyin: shining. Sanskrit-first: niḥśaṅka kept. Rows: 2. Close: tight. Rejected: limiting — killed: nowhere entire. Read aloud: shining cadence.",
+13:"Sthāyin: numbers. Sanskrit-first: bahu kept. Rows: 2. Close: gold. Rejected: counting seers — killed: no proof. Read aloud: weighing cadence.",
+14:"Sthāyin: person. Sanskrit-first: Bhairava kept. Rows: 2. Close: light. Rejected: abstracting — killed: gleaming Lord. Read aloud: gleaming cadence.",
+15:"Sthāyin: spreading. Sanskrit-first: paramparā kept. Rows: 2. Close: heirs. Rejected: instant descent — killed: part by part. Read aloud: spreading cadence.",
+16:"Sthāyin: feeding. Sanskrit-first: ādyam kept. Rows: 2. Close: deed. Rejected: novelty — killed: first. Read aloud: feeding cadence.",
+17:"Sthāyin: sharing. Sanskrit-first: yāvat-tāvat kept. Rows: 2. Close: rise. Rejected: full share — killed: as far as. Read aloud: sharing cadence.",
+18:"Sthāyin: eating. Sanskrit-first: anna kept. Rows: 2. Close: less. Rejected: physiology — killed: certainty. Read aloud: eating cadence.",
+19:"Sthāyin: understanding. Sanskrit-first: śabdanātmikā kept. Rows: 2. Close: rest. Rejected: silence — killed: word-natured. Read aloud: understanding cadence.",
+20:"Sthāyin: pun. Sanskrit-first: śaṅkara/śaṅkate kept. Rows: 2. Close: unfree. Rejected: missing pun — killed: doubter/doubts. Read aloud: punning cadence.",
+21:"Sthāyin: trust. Sanskrit-first: nābhiśaṅkate kept. Rows: 2. Close: just. Rejected: doubting early — killed: no doubt yet. Read aloud: trusting cadence.",
+22:"Sthāyin: esteem. Sanskrit-first: manyate kept. Rows: 2. Close: fulfill. Rejected: dismissing other — killed: esteem. Read aloud: esteeming cadence.",
+23:"Sthāyin: oneness. Sanskrit-first: eka kept. Rows: 2. Close: brave. Rejected: multiplying — killed: one. Read aloud: unifying cadence.",
+24:"Sthāyin: means. Sanskrit-first: śāmbhava kept. Rows: 2. Close: life. Rejected: many means — killed: one. Read aloud: meaning cadence.",
+25:"Sthāyin: variety. Sanskrit-first: citra kept. Rows: 2. Close: benediction. Rejected: contradiction — killed: patients differ. Read aloud: varying cadence.",
+26:"Sthāyin: catalogue. Sanskrit-first: list kept. Rows: 2. Close: rules. Rejected: ranking — killed: roster. Read aloud: cataloguing cadence.",
+27:"Sthāyin: birth. Sanskrit-first: brahmodbhava kept. Rows: 2. Close: said. Rejected: emanationism — killed: born. Read aloud: birthing cadence.",
+28:"Sthāyin: parallel. Sanskrit-first: yathā kept. Rows: 2. Close: too. Rejected: supersession — killed: too. Read aloud: paralleling cadence.",
+29:"Sthāyin: grades. Sanskrit-first: āśrama kept. Rows: 2. Close: root. Rejected: leveling — killed: grades hold. Read aloud: grading cadence.",
+30:"Sthāyin: establishment. Sanskrit-first: niṣṭhita kept. Rows: 2. Close: line. Rejected: pluralism — killed: one establishes. Read aloud: establishing cadence.",
+31:"Sthāyin: naming. Sanskrit-first: trika/kula kept. Rows: 2. Close: child. Rejected: defining away — killed: named. Read aloud: naming cadence.",
+32:"Sthāyin: analogy. Sanskrit-first: prāṇita kept. Rows: 1. Close: akin. Rejected: biology — killed: analogy. Read aloud: quickening cadence.",
+33:"Sthāyin: essence. Sanskrit-first: Kālīkula kept. Rows: 2. Close: freed. Rejected: decoding streams — killed: flagged. Read aloud: quintessencing cadence.",
+34:"Sthāyin: indwelling. Sanskrit-first: similes kept. Rows: 2. Close: sealed. Rejected: adding — killed: four suits. Read aloud: dwelling cadence.",
+35:"Sthāyin: flocks. Sanskrit-first: yūthya kept. Rows: 2. Close: fold. Rejected: merging flocks — killed: own and other. Read aloud: flocking cadence.",
+36:"Sthāyin: tolerance. Sanskrit-first: na nindayet kept. Rows: 2. Close: High. Rejected: ranking schools — killed: censure none. Read aloud: tolerating cadence.",
+37:"Sthāyin: fragments. Sanskrit-first: khaṇḍa kept. Rows: 2. Close: brass. Rejected: defending scraps — killed: wander. Read aloud: scattering cadence.",
+38:"Sthāyin: ranking. Sanskrit-first: viṣayabheda kept. Rows: 2. Close: grade. Rejected: relativism — killed: rank. Read aloud: ranging cadence.",
+39:"Sthāyin: proof-cause. Sanskrit-first: māna kept. Rows: 2. Close: true. Rejected: eternalism — killed: permanence fails. Read aloud: proving cadence.",
+40:"Sthāyin: utterance. Sanskrit-first: uditeḥ kept. Rows: 2. Close: soul. Rejected: silence — killed: utterance proves. Read aloud: uttering cadence.",
+41:"Sthāyin: overreach. Sanskrit-first: atiprasaṅga kept. Rows: 2. Close: cord. Rejected: widening — killed: defeats. Read aloud: warning cadence.",
+42:"Sthāyin: principal. Sanskrit-first: pradhāna kept. Rows: 2. Close: grain. Rejected: side-work — killed: main. Read aloud: prizing cadence.",
+43:"Sthāyin: striving. Sanskrit-first: Śambhu kept. Rows: 2. Close: bread. Rejected: self-effort — killed: impelled. Read aloud: spurring cadence.",
+44:"Sthāyin: seal. Sanskrit-first: Śambhunātha kept. Rows: 1. Close: door. Rejected: longer close — killed: seal is brief. Read aloud: sealing cadence."}
+AGAIN = {1:"Union announced; ancient practice.",2:"Prasiddhi is āgama; logic depends.",3:"Self-standing fails; perception needs root.",4:"Hungry child needs given certainty.",5:"Act-questions stall without it.",6:"Serenity takes the principle at once.",7:"Even serenity vāsanā-shaped.",8:"Neither outer proof nor bare flash.",9:"Mud-test: past shapes restraint.",10:"Former-time prasiddhi; serenity insufficient.",11:"Root accepted; regress ends in her.",12:"Doubtless shining; no proof holds whole.",13:"Numbers prove nothing.",14:"Bhairava gleams with certainties.",15:"Certainty descends into worlds.",16:"All feed on first Śaiva āgama.",17:"Partial followers, partial fruit.",18:"Eating runs on certainty.",19:"Word-understanding ends doubt.",20:"Doubter self-made.",21:"Unfree trust self-track.",22:"Esteem another's; future honors present.",23:"One āgama for both ways.",24:"One Śāmbhava means for all aims.",25:"Varied means, no contradiction.",26:"School catalogue.",27:"All Brahman-born.",28:"Veda initiates too.",29:"Grades hold.",30:"One āgama establishes all.",31:"Trika highest; Kula undifferentiated.",32:"One life, all scriptures.",33:"Kālīkula essence.",34:"Indwelling similes.",35:"One āgama, many holders.",36:"Censure none.",37:"Fragments mislead.",38:"Pluralists must rank.",39:"Permanence proves nothing.",40:"Utterance proves here.",41:"Overreach defeats; name proves.",42:"Work the principal.",43:"Strive Śambhu-impelled.",44:"Rare fit; Śambhunātha told me."}
+
+spans = source_spans('tantraloka-a35')
+l3 = []
+l0ids_all = {e['id'] for e in json.load(open('tantraloka-a35/working-l0-%s.json' % S))}
+for v in range(1, 45):
+    vid = '%s-v%02d' % (S, v)
+    ids = ['%s-p%03d' % (vid, i) for i in range(len(spans[v]))]
+    l3.append({"verse_id": vid, "song": S, "verse": v, "lines": L3L[v], "sanskrit_cite": C[v], "l0_ids": ids, "essence_maps": [v - 1], "fidelity": "preserved", "needs": ["human-review"], "notes": []})
+json.dump(l3, open('tantraloka-a35/working-l3-%s.json' % S, 'w'), ensure_ascii=False, indent=1)
+for v in range(1, 45):
+    vid = '%s-v%02d' % (S, v)
+    n = len(spans[v])
+    keep = list(range(0, n, max(1, n // 3)))
+    ids = ['%s-p%03d' % (vid, i) for i in keep]
+    assert set(ids) <= l0ids_all
+    obj = {"craft_notes": CR[v], "form": "couplet" if len(L4L[v]) > 1 else "single",
+           "l4": {"verse_id": vid, "song": S, "verse": v, "lines": L4L[v], "sanskrit_cite": C[v], "l0_ids": ids, "essence_maps": [v - 1]},
+           "reads_against": {"argmap": AGAIN[v], "c1_essence": [AGAIN[v]]}, "status": "machine-proposed"}
+    json.dump(obj, open('tantraloka-a35/L4-%s.DRAFT.json' % vid, 'w'), ensure_ascii=False, indent=1)
+print('l3 + 44 DRAFTs written')
