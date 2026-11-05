@@ -66,10 +66,14 @@ For the included Paramārthasāra example, the available OpenPāṭala dossier i
 `sa_abhinavagupta-paramArthasAra`; this is useful for a candidate work mapping,
 but does not authenticate the edition. The checked-in editorial essay is a valid
 published snapshot but does not cite the chosen verse, so its status is `UNLINKED`.
-The current example receipt is `logs/lineage/param-p01-v01-2026-11-05-v2.json`;
+The current example receipt is `logs/lineage/param-p01-v01-2026-11-05-reader-v2.json`;
 it includes the exact translation, ipvv, svread, OpenPāṭala and SanskritBench
-revisions used in that run. The earlier `/1` example remains in Git as an immutable
-historical record and can be replayed with its recorded `/1` auditor commit.
+revisions used in that run. The earlier examples remain in Git as immutable
+historical records and can be replayed with their recorded inputs and auditor commit.
+
+The companion `prx0r/svread` branch `codex/proof-chain-reader` strengthens draft
+quote checks: a quote must occur in a text field of a source cited in the same
+paragraph. The check is not a claim that an argument follows from that source.
 
 The current benchmark's check names are stronger than their implementation. For
 example, a negated English translation can pass all five; its result ID also uses a
