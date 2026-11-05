@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a07",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a07 done)",
  "counts": {
-  "passages": 8,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 573,
+  "l4_drafts": 71,
+  "l4_with_craft": 71,
+  "passages": 1,
   "verses": 71
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a07-raw.jsonl",
- "r2_bytes": 38038,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "8 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a26 (76u).",
+ "notes": "GOLD #70 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 7 (cakrodaya, rise of cakra cycles in breath; 71u, 573tok) via workcfg taloka. L0 573 PARSED, 0 forks / argmaps 71/71 (sha 5a20137094227c06, PASS) / validate 0 / proof PASS (align 1.0) / qa NEEDS_WITNESS. C2 waived. Pradipaka ch7 + OccultGuide + Dyczkowski Vol 5 lore.",
+ "rasa": "adbhuta (wonder) with śānta weight (the rise of cakra cycles in the breath; rest in the sealed consciousness)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a07"
 }

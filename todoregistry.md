@@ -221,3 +221,8 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 
 - #69 tal-a32 (mudrā-vidhi; 69u incl. v0/561tok, 0 forks, proof PASS, qa NEEDS_WITNESS). Argmap sha 9afc7cc247488e5f. Pradipaka ch32 + Devyāyāmala lore.
 - REGISTRY 101/68/33. All sweeps CANONICAL. Next shortest-first: a07 (71u).
+
+## Addendum — GOLD #70: Tantraloka-a07 (2026-11-07)
+
+- #70 tal-a07 (cakrodaya; 71u/573tok, 0 forks, proof PASS, qa NEEDS_WITNESS). Argmap sha 5a20137094227c06. Pradipaka ch7 + OccultGuide + Dyczkowski Vol 5 lore.
+- REGISTRY 101/69/32. All sweeps CANONICAL. Next shortest-first: a26 (76u).
