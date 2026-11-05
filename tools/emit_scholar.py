@@ -258,6 +258,9 @@ def main() -> int:
     idx_path = out / "index.json"
     # A full rebuild depends only on the current work set, not on any previous
     # index. A single-work update preserves the other indexed works.
+    # Registered-but-untranslatable projections (e.g. ipvv: withheld until
+    # gold-lane proofs) have no canonical T1 rows, so --all would drop them.
+    # Carry forward any on-disk projection that still hash-verifies instead.
     idx = {} if a.all else (json.loads(idx_path.read_text(encoding='utf-8')) if idx_path.exists() else {})
     works=sorted({p.parent.parent.name for p in ROOT.glob('*/data/*.t1.json')}) if a.all else [a.work]
     for work in works:
@@ -269,6 +272,24 @@ def main() -> int:
               f"{len(doc['reviews'])} reviews, {len(doc['signoffs'])} signoffs, originals: " +
               ', '.join(f'{layer}:{len(rows)}' for layer,rows in doc['originals'].items() if rows))
     idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
+    if a.all:
+        for extra in sorted(out.glob('*.json')):
+            if extra.name == 'index.json' or extra.stem in works:
+                continue
+            try:
+                doc = json.loads(extra.read_text(encoding='utf-8'))
+            except ValueError:
+                continue
+            body = {k: v for k, v in doc.items() if k != 'projection_sha256'}
+            if doc.get('work') != extra.stem or sch.sha(body) != doc.get('projection_sha256'):
+                print(f"NOT carried forward: {extra.name} (hash mismatch — needs re-emit)")
+                continue
+            idx[extra.stem] = {'title': extra.stem, 'versions': len(doc.get('versions', [])),
+                               'reviews': len(doc.get('reviews', [])),
+                               'signoffs': len(doc.get('signoffs', [])),
+                               'generated': doc.get('generated')}
+            print(f"carried forward: {extra.name} (registered, untranslatable yet)")
+        idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     return 0
 
 if __name__ == "__main__":
