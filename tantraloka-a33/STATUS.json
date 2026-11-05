@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a33",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a33 done)",
  "counts": {
-  "passages": 4,
-  "verses": 32
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 230,
+  "l4_drafts": 33,
+  "l4_with_craft": 33,
+  "passages": 1,
+  "verses": 33
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a33-raw.jsonl",
- "r2_bytes": 18395,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "4 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a35 (44 units).",
+ "notes": "GOLD #61 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 33 (ekīkāra, unification of cakra-divisions, with v00 topic line; 33u, 230tok) via workcfg taloka. L0 230 tok 100%% PARSED stem-level (fused 6-way evamanyānbahūṃścakrabhedānasmātprakalpayet; 5-way śakti lists; @ = elided-a; 0 forks) / T1 / argmaps 33/33 (sha c5c5845674b5cc75, PASS, 0 shared) / L2 33 cites 33/33 / C1 essence 33 (0 quotes/shared/meta) + 7-part + rasa jñāna-adbhuta + NOTE / L3 33 couplets+singles 0 shared no slashes / L4 33 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v00) PENDING owner; OPEN: human review; C2 waived. Name-list junctions, count/diagram terms, alphabet splits flagged; anusvāra typo caught by cite gate (fixed).",
+ "rasa": "jñāna with adbhuta weight (knowledge as enumeration; wonder at alphabet-cosmos)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a33"
 }
