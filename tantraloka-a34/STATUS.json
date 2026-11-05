@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a34",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a34 done)",
  "counts": {
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 23,
+  "l4_drafts": 5,
+  "l4_with_craft": 5,
   "passages": 1,
-  "verses": 4
+  "verses": 5
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a34-raw.jsonl",
- "r2_bytes": 3308,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "1 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a18 (11 units).",
+ "notes": "GOLD #54 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 34 (svasvarūpapraveśa — the Tantraloka's finale; 5 units v00+4, 23 tok) via workcfg taloka (parser fix: single-colon rubrics skipped, /0b carved as v00; a01 334-resolved). Full pipeline: L0 hand-crafted 23 tok 100% PARSED stem-level morph (fused spans: ucyate@tha, tato@pyāṇava…, ante@bhy…, kathito@yaṃ; @ = elided-a) + 1 LIVE fork held honestly (parameṣṭhinā: Śiva vs lineage supreme preceptor Sumati) / T1 md+jsonl+report / argmaps 5/5 (sha 70067ba3173fbb30, gate PASS, 0 shared) / L2 5 rasa-carried byte-exact / C1 essence 5 (0 quotes, 0 shared, 0 meta) + 7-part + rasa śānta-adbhuta + c1.NOTE.md / L3 5 couplets 0 shared vs L2, no slashes / L4 5 DRAFTs craft+rejected+read-aloud, subset-validated, data==DRAFTs / c1 md. validate 0, proof PASS (align 1.0, cites 5/5), qa NEEDS_WITNESS, check.py CANONICAL. FIRST-VERSE L4 VOICE (v00) PENDING owner approval; OPEN: human review; C2 waived. GRETIL 0b topic line = v00 (carved, not renumbered); :C34 rubric skipped.",
+ "rasa": "śānta with adbhuta weight (rest as culmination; wonder at the ladder)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a34"
 }
