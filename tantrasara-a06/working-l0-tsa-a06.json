@@ -8957,7 +8957,7 @@
   "morph": "indecl (rudra-loka-prabhu?) vocative? uncertain; print kept",
   "options": [
    {
-    "gloss": "O-Rudra-world-lord",
+    "gloss": "O-Rudra-world-lord?",
     "rank": 1,
     "source": "grammar",
     "grounds": "vocative address mid-exposition; teacher hails the lord"
@@ -8971,7 +8971,7 @@
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "live"
+  "fork": "resolved"
  },
  {
   "id": "tsa-a06-v34-p004",
@@ -10084,6 +10084,25 @@
   "morph": "n.nom.sg? (śāstra-antara) uncertain ending; print kept",
   "options": [
    {
+    "gloss": "other-scriptures",
+    "rank": 1,
+    "source": "grammar",
+    "grounds": "object of comparison"
+   }
+  ],
+  "chosen_index": 0,
+  "status": "PARSED",
+  "fork": "none"
+ },
+ {
+  "id": "tsa-a06-v42-p002",
+  "verse_id": "tsa-a06-v42",
+  "pada_index": 2,
+  "surface": "uktā",
+  "citation": "uktā",
+  "morph": "m.nom.pl? (√vac ppp) uncertain agreement; print kept",
+  "options": [
+   {
     "gloss": "stated",
     "rank": 1,
     "source": "grammar",
@@ -10098,26 +10117,7 @@
   ],
   "chosen_index": 0,
   "status": "PARSED",
-  "fork": "live"
- },
- {
-  "id": "tsa-a06-v42-p002",
-  "verse_id": "tsa-a06-v42",
-  "pada_index": 2,
-  "surface": "uktā",
-  "citation": "uktā",
-  "morph": "m.nom.pl? (√vac ppp) uncertain agreement; print kept",
-  "options": [
-   {
-    "gloss": "stated",
-    "rank": 1,
-    "source": "t1-draft",
-    "grounds": "stated — stated-sense secure"
-   }
-  ],
-  "chosen_index": 0,
-  "status": "PARSED",
-  "fork": "none"
+  "fork": "resolved"
  },
  {
   "id": "tsa-a06-v42-p003",
