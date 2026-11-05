@@ -78,14 +78,48 @@ Content-hard flags (from tradition, to confirm with lore at transform time):
 a29 (kula-yāga rite), a15 (largest + phonematic doctrine), a28 (cosmic body),
 a01 (opening stakes: jñāna/ajñāna, pratyabhijñā seed), a37 (closing).
 
-## Witness status
+## Witness status (vendored vs needed per ahnika)
 
 No Tantraloka witness vendored in lore/witnesses/ (only sivastotravali
-Lakshmanjoo + legacy L2s for small works). External parallels (comparison
-only, never copied): Dyczkowski's 11-volume Tantrāloka translation with
-Jayaratha commentary; Chakravarty/Bertagni English; OccultGuide chapter
-summaries; vishvasa Hindi-English rendering. Expect qa NEEDS_WITNESS for all
-transforms until/unless a witness is vendored (owner decision).
+Lakshmanjoo + legacy L2s for small works). Expect qa NEEDS_WITNESS for
+all transforms unless the owner decides otherwise. External parallels
+(comparison only, never hosted/copied): Dyczkowski 11-volume translation +
+Jayaratha commentary (Vol 1=ch1, Vol 2=ch2–3, Vol 3=ch4, Vol 4=ch5–6,
+Vol 5=ch7–8, Vol 6=ch9–10, Vol 7=ch11–14, Vol 8=ch15, Vol 9=ch16–27,
+Vol 10=ch28–29, Vol 11=ch30–37); Lakshmanjoo revelation + lectures;
+Hareesh.org ch1 + ch29 partial translations; OccultGuide chapter summaries
+(incl. ch15 full); Muktabodha IAST (M00093, ch15–38); HuggingFace
+tantraloka-dyczkowski-raw dataset (glossary/entities index — lookup aid,
+never source text).
+Chapter-specific: Vol 5 TOC maps ch7 (cakrodaya, 71v) + ch8 (deśādhvan,
+224 worlds, 452v); Vol 10 summary maps ch28 (parvan/Aadiyāga/pavitraka/
+vyākhyā/gurupūjā) + ch29 (kula-yāga, 292 deliberately obscure verses,
+dūtī, six vedhas); Vol 8 = ch15 (samaya initiation, Trika trident,
+36+1 levels); Vol 1 TOC maps ch1 (vijñāna types vv2–105, means vv140–247,
+topics enunciation vv279–333).
+
+## Lore for the top-5 hardest (one focused search each, 2026-11-06)
+
+- a15 (613, Everest): Dyczkowski Vol 8 (samaya initiation, Trika trident,
+  Parā/Parāparā/Aparā on Bhairavas, 36+1 levels) + OccultGuide ch15 full
+  translation + Muktabodha M00093 IAST. Entry point for transform: Vol 8
+  structure + OccultGuide paragraph map.
+- a29 (292, Kaula rite): Hareesh 12-parter in progress (abstruse by design,
+  bracketed insertions, 6 ways of kula-yāga, dūtī, six vedhas); Dupuche
+  551pp monograph; Silburn union-and-unity study; Dyczkowski Vol 10 summary
+  (tantra→kula modality break at ch29, Jayadrathayāmala Mādhavakula source).
+  NOTE: esoteric content — translate faithfully, no bowdlerizing, no
+  sensationalizing; witness with brackets as Hareesh does.
+- a08 (452, deśādhvan): Dyczkowski Vol 5 (Svacchanda-based, 224 worlds in
+  36 tattvas) + first-100-verses PDF (Devanāgarī+IAST+translation) +
+  Lakshmanjoo revelation (authority, not text).
+- a28 (435, parvan/Aadiyaga): Dyczkowski Vol 10 summary (nitya vs
+  nimittika rites, Aadiyāga foremost sacrifice, pavitraka, vyākhyāvidhi,
+  expiation, gurupūjā) — pairs with our a20 gold (same rite complex).
+- a01 (333, foundation): Dyczkowski Vol 1 TOC (vijñāna types, means,
+  topics enunciation) + Hareesh ch1 partial + ch1 PDF (Devanāgarī+IAST).
+- a13 (362, next): no dedicated search yet; Vol 7 covers ch11–14 only —
+  queue a dedicated search at transform time.
 
 ## Transform order (owner goal: shortest-first, a34 → … → a15)
 

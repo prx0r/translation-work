@@ -108,7 +108,7 @@ edit THIS file in the same commit — never leave it behind.*
 - [x] 18. Stava data JSON (13 songs) + validate_song 0 errors x13 + proof PASS x13 + intake + check.py CANONICAL 0 failures + qa NEEDS_WITNESS + committed
 - [x] 19. Stava L4 120/120 sung verse-by-verse (craft_notes + rejected-with-killers + reads_against per verse, all DRAFTs on file, data==DRAFTs, all differ from L3) + C2 eli5+genz tagged+merged (translator-hand, owner may redo) + proof PASS + committed → **GOLD #22**
   — OPEN: v1 source decision + first-verse L4 voice verdict (owner) + human review (machine-proposed throughout). C2 voice check deferred per owner (C2 can be added/redone later).
-- [ ] 20. Tantraloka recon batches (a01–a12, a13–a25, a26–a37)
+- [x] 20. Tantraloka recon batches DONE 2026-11-06 (parse_taloka + 37-ahnika count table + workcfg registration + TANTRALOKA-RECON.md; a01 334-vs-333 noted, a03 verse-0 noted)
 - [ ] 21. Spanda + Sivasutra + VBT recon + source pins
 - [ ] 22. Short/broken works assessment batch (the 10 named above)
 - [ ] 23. No-repo source acquisition (5 works, via intake.py)
