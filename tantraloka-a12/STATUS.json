@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a12",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a12 done)",
  "counts": {
-  "passages": 3,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 204,
+  "l4_drafts": 26,
+  "l4_with_craft": 26,
+  "passages": 1,
   "verses": 26
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a12-raw.jsonl",
- "r2_bytes": 14180,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "3 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a25 (29 units).",
+ "notes": "GOLD #59 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 12 (kalādhvādi-upayoga, application of the path / cosmic body; 26u, 204tok) via workcfg taloka. L0 204 tok 100%% PARSED stem-level (fused 5-way vidhijñaścetyevamādi; 4-way galatyantastathāsau/kiṃcitkvacitpaśyettatra etc.; @ = elided-a; 0 forks) / T1 / argmaps 26/26 (sha e911d567a389713c, PASS, 0 shared) / L2 26 cites 26/26 / C1 essence 26 (0 quotes/shared/meta) + 7-part + rasa vīra-adbhuta + NOTE / L3 26 couplets+singles 0 shared no slashes / L4 26 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v01) PENDING owner; OPEN: human review; C2 waived. V1 b-half + v26 single-line groupings kept; light flags (japabhājana, yajana-prati, denominative, tasyām-scope). Closes a05–a12 āṇava arc.",
+ "rasa": "vīra with adbhuta weight (bold application; wonder at ubiquity)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a12"
 }
