@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a21",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a21 done)",
  "counts": {
-  "passages": 7,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 460,
+  "l4_drafts": 61,
+  "l4_with_craft": 61,
+  "passages": 1,
   "verses": 61
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a21-raw.jsonl",
- "r2_bytes": 34672,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "7 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a23 (103 units).",
+ "notes": "GOLD #68 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 21 (parokṣa-dīkṣā, initiation of the absent; 61u, 460tok) via workcfg taloka. L0 460 tok 100%% PARSED stem-level (@ = elided-a; 0 forks) / T1 / argmaps 61/61 (sha 61bfe52e8f885df2, PASS, 0 shared) / L2 61 cites 61/61 / C1 essence 61 (0 quotes/shared/meta) + 7-part + rasa karuṇa-śānta + NOTE / L3 61 0 shared vs L2 no slashes / L4 61 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v01) PENDING owner; OPEN: human review; C2 waived. Pradipaka ch21 + Yogawiki German + Vishvasa Tantrasara ch16 + Anuttaratrikakula lore.",
+ "rasa": "karuṇa (compassion) with śānta weight (redemption of the absent and the dead; rest in the installed form)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a21"
 }

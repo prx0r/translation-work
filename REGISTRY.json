@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 101,
- "gold": 66,
+ "gold": 67,
  "partial": 0,
- "pending": 35,
+ "pending": 34,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -541,12 +541,12 @@
   },
   {
    "work": "tantraloka-a21",
-   "status": "recon complete (pending transformation, shortest-first queue)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 334-vs-333 noted; a03 verse-0 kept). Registered in workcfg kind=taloka. Queue: shortest-first per owner goal."
+   "status": "gold (machine-proposed, needs human review)",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 61,
+   "note": "GOLD #68 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 21 (parokṣa-dīkṣā, initiation of the absent; 61u, 460tok). L0 460 PARSED, 0 forks / argmaps 61/61 (sha 61bfe52e8f885df2, PASS) / validate 0 / proof PASS (align 1.0) / qa NEEDS_WITNESS. C2 waived."
   },
   {
    "work": "tantraloka-a22",

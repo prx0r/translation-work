@@ -211,3 +211,8 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
   handoff), render_c2.py, validate_song.py, proof_record.py, check.py.
 - Historical (dated, kept): HANDOVER-2026-11-03.md (L4 craft voice — still
   authoritative for singing).
+
+## Addendum — GOLD #68: Tantraloka-a21 (2026-11-07)
+
+- #68 tal-a21 (parokṣa-dīkṣā, initiation of the absent; 61u/460tok, 0 forks, proof PASS, qa NEEDS_WITNESS). Argmap sha 61bfe52e8f885df2. Pradipaka ch21 + Yogawiki German + Vishvasa Tantrasara ch16 + Anuttaratrikakula lore.
+- REGISTRY 101/67/34. All sweeps CANONICAL. Next shortest-first: a32 (69u) → a07 (71u) → a26 (76u) → a37 (85u) → a23 (103u).
