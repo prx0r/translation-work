@@ -1,9 +1,19 @@
 {
  "work": "tantrasara-a06",
  "updated": "2026-11-05",
- "next": "Owner: first-verse L4 voice verdict (tsa-a06-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a08 (93 units).",
- "counts": {"passages": 1, "verses": 82, "l0_parsed": 981, "l0_ambiguous": 0, "l0_failed": 0, "l4_drafts": 82, "l4_with_craft": 82},
- "notes": "GOLD #51 (MACHINE_PROPOSED) 2026-11-05: Tantrasara ahnika 6 (sthānakālanaprakāśana; 82 units, 981 tok) via workcfg abhts. Full pipeline: L0 hand-crafted 981 tok 100% PARSED stem-level morph (fused spans: pūrvasyaāyur, tasyādita? flagged, cātikālam junction; anomalies flagged: tuṭaya/madhyās endings, dityau, pralayākalībhūya, rudralokaprabho address, avikalpātmā, hārdīṣu) + 2 genuine grammar forks (rudralokaprabho vocative, uktā f.pl; both resolved on record) / T1 md+jsonl+report / argmaps 82/82 (sha d4179d16c6fad427, gate PASS, 0 shared) / L2 82 rasa-carried byte-exact / C1 essence 82 (0 quotes, 0 shared, 0 meta) + 7-part + rasa vidhi-śānta/pramāṇa + c1.NOTE.md / L3 82 handcrafted 0 shared vs L2, no slashes / L4 82 DRAFTs craft+rejected+read-aloud, subset-validated, overlap-audited / c1 md. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived. Witness-parallels: OccultGuide, Pradīpaka word-by-word, Chakravarty/Bertagni English (comparison only).",
- "needs": ["first-verse L4 voice verdict (owner)", "human-review (machine-proposed)"],
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a08 (93 units).",
+ "counts": {
+  "passages": 1,
+  "verses": 82,
+  "l0_parsed": 981,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l4_drafts": 82,
+  "l4_with_craft": 82
+ },
+ "notes": "GOLD #51 (MACHINE_PROPOSED) 2026-11-05: Tantrasara ahnika 6 (sthānakālanaprakāśana; 82 units, 981 tok) via workcfg abhts. Full pipeline: L0 hand-crafted 981 tok 100% PARSED stem-level morph (fused spans: pūrvasyaāyur, tasyādita? flagged, cātikālam junction; anomalies flagged: tuṭaya/madhyās endings, dityau, pralayākalībhūya, rudralokaprabho address, avikalpātmā, hārdīṣu) + 2 genuine grammar forks (rudralokaprabho vocative, uktā f.pl; both resolved on record) / T1 md+jsonl+report / argmaps 82/82 (sha d4179d16c6fad427, gate PASS, 0 shared) / L2 82 rasa-carried byte-exact / C1 essence 82 (0 quotes, 0 shared, 0 meta) + 7-part + rasa vidhi-śānta/pramāṇa + c1.NOTE.md / L3 82 handcrafted 0 shared vs L2, no slashes / L4 82 DRAFTs craft+rejected+read-aloud, subset-validated, overlap-audited / c1 md. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. FIRST-VERSE L4 VOICE APPROVED by owner 2026-11-06 (standing voice for the ahnika); OPEN: human review; C2 waived. Witness-parallels: OccultGuide, Pradīpaka word-by-word, Chakravarty/Bertagni English (comparison only).",
+ "needs": [
+  "human-review (machine-proposed)"
+ ],
  "rasa": "vidhi-śānta with adbhuta at scale (calm of measure, wonder at cosmic counting)"
 }
