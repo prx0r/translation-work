@@ -231,3 +231,8 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 
 - #71 tal-a26 (sesavr tti; 76u/601tok, 0 forks, proof PASS, qa NEEDS_WITNESS). Argmap sha f43f940a537b29be. Pradipaka ch26 + Yogawiki Teil 3 + Dyczkowski Vol 9 lore.
 - REGISTRY 101/70/31. All sweeps CANONICAL. Next shortest-first: a37 (85u).
+
+## Addendum - GOLD #72: Tantraloka-a37 (2026-11-07)
+
+- #72 tal-a37 (finale; 85u/768tok, 0 forks, proof PASS, qa NEEDS_WITNESS). Argmap sha 1bfeecb1c5a686ce. Pradipaka ch37 + Yogawiki Teil 4 + Dyczkowski Vol 11 lore.
+- REGISTRY 101/71/30. All sweeps CANONICAL. Remaining 30 pending (17 tantraloka + tantrasara none + others).
