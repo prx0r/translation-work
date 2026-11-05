@@ -120,6 +120,7 @@ edit THIS file in the same commit — never leave it behind.*
 - [x] 29. Tantraloka a35 GOLD #62 DONE 2026-11-07 (sastramelana via prasiddhi, 44u/341tok, proof PASS; XS TIER COMPLETE 9/9; next: a14 S tier)
 - [x] 30. Tantraloka a14 GOLD #63 DONE 2026-11-07 (diksoprama tirobhava/grace, 47u/362tok, 0 forks, proof PASS; S TIER OPENS; next: a22)
 - [x] 31. Tantraloka a22 GOLD #64 DONE 2026-11-07 (lingoddhara conversion, 48u/370tok, 0 forks, proof PASS, qa NEEDS_WITNESS; next: a02)
+- [x] 32. Tantraloka a22 GOLD #64 VERIFIED DONE 2026-11-07 (48u/370tok, proof PASS; S tier: a14+a22 done; next: a02)
 - [x] 23. Tantraloka a20 GOLD #56 DONE 2026-11-07 (tulāśuddhi/sapratyayā dīkṣā, 16u/118tok, 0 forks, proof PASS, qa NEEDS_WITNESS; next: a36)
 - [ ] 21. Spanda + Sivasutra + VBT recon + source pins
 - [ ] 22. Short/broken works assessment batch (the 10 named above)
