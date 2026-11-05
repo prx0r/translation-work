@@ -1,18 +1,19 @@
 {
  "work": "tantrasara-a13",
- "updated": "2026-10-30",
- "next": "batch (A13 done; full close passes done)",
+ "updated": "2026-11-06",
+ "next": "Site ABSTENTION (owner commits ipvv). Tantrasara COMPLETE 22/22. Next: tantraloka recon batches.",
  "counts": {
-  "passages": 4,
-  "verses": 101
+  "passages": 1,
+  "verses": 101,
+  "l0_parsed": 1063,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l4_drafts": 101,
+  "l4_with_craft": 101
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a13-raw.jsonl",
- "r2_verified": true,
- "notes": "y\u0101ga/d\u012bk\u1e63\u0101: place, ny\u0101sa, inner rite, samaya",
- "r2_bytes": 44047,
+ "notes": "GOLD #53 (MACHINE_PROPOSED) 2026-11-06: Tantrasara ahnika 13 (samayasamayaprakāśana; 101 units, 1063 tok) via workcfg abhts. Full pipeline: L0 hand-crafted 1063 tok 100% PARSED stem-level morph (fused spans; anomalies flagged) + 4 genuine grammar forks (uktāv locative; prāgraṃ foremost; viśūla trident; pūga betel; all resolved on record) / T1 md+jsonl+report / argmaps 101/101 (sha 4387a360a818caee, gate PASS, 0 shared) / L2 101 rasa-carried byte-exact / C1 essence 101 (0 quotes, 0 shared, 0 meta) + 7-part + rasa vidhi-prīti/śraddhā + c1.NOTE.md / L3 101 handcrafted 0 shared vs L2, no slashes / L4 101 DRAFTs craft+rejected+read-aloud, subset-validated, 4 drifted re-sung from true L3, overlap-audited / c1 md. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. FIRST-VERSE L4 VOICE APPROVED by owner 2026-11-06 (standing voice for the ahnika); OPEN: human review; C2 waived. Witness-parallels: OccultGuide, vishvasa English (comparison only).",
  "needs": [
-  "abstention-review",
-  "citation-grounding",
-  "coverage-check"
- ]
+  "human-review (machine-proposed)"
+ ],
+ "rasa": "vidhi-prīti with adbhuta at threshold moments (love of ordinance, wonder at seeing)"
 }

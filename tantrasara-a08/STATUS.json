@@ -1,18 +1,19 @@
 {
  "work": "tantrasara-a08",
- "updated": "2026-10-30",
- "next": "batch (A08 done)",
+ "updated": "2026-11-05",
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a13 (101 units).",
  "counts": {
-  "passages": 4,
-  "verses": 93
+  "passages": 1,
+  "verses": 93,
+  "l0_parsed": 1120,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l4_drafts": 93,
+  "l4_with_craft": 93
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a08-raw.jsonl",
- "r2_verified": true,
- "notes": "k\u0101rya-k\u0101ra\u1e47a, mala, vivekas, senses",
- "r2_bytes": 45852,
+ "notes": "GOLD #52 (MACHINE_PROPOSED) 2026-11-05: Tantrasara ahnika 8 (tattvasvarūpaprakāśana; 93 units, 1120 tok) via workcfg abhts. Full pipeline: L0 hand-crafted 1120 tok 100% PARSED stem-level morph (fused spans; anomalies flagged; 7 morph corrections to regular forms) + 4 genuine grammar forks (niyata fixed, uktā f.pl, rudralokaprabho vocative, tv but; all resolved on record) / T1 md+jsonl+report / argmaps 93/93 (sha 15b225e116af384ee, gate PASS, 0 shared) / L2 93 rasa-carried byte-exact / C1 essence 93 (0 quotes, 0 shared, 0 meta) + 7-part + rasa vicāra-śānta + c1.NOTE.md / L3 93 handcrafted 0 shared vs L2, no slashes / L4 93 DRAFTs craft+rejected+read-aloud, subset-validated, 7 drifted songs RE-SUNG from true L3, overlap-audited / c1 md. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. FIRST-VERSE L4 VOICE APPROVED by owner 2026-11-06 (standing voice for the ahnika); OPEN: human review; C2 waived. Witness-parallels: OccultGuide, Pradīpaka word-by-word, Chakravarty/Bertagni English (comparison only).",
  "needs": [
-  "abstention-review",
-  "citation-grounding",
-  "term-consistency"
- ]
+  "human-review (machine-proposed)"
+ ],
+ "rasa": "vicāra-śānta with adbhuta at totality (calm of reasoning, wonder at the whole)"
 }
