@@ -148,7 +148,108 @@ def layer_snapshot(work: str, song: str, source_spans: dict, verses: list[int]) 
                     'note': 'Only recorded JSON layer and normalized-source hashes were compared. Markdown inputs and the historical proof were not rerun.'}
 
 
-def essay_link(path: Path | None, work: str, target: str, t1_sha: str) -> dict:
+def reader_projection(path: Path | None, work: str, song: str, target: str,
+                      source_text: str) -> dict:
+    if path is None:
+        return {'status': 'NOT_REQUESTED'}
+    try:
+        recorded = committed_file(path)
+        projection = json.loads(path.read_bytes())
+        claimed = projection.get('projection_sha256')
+        computed = object_sha({k: v for k, v in projection.items() if k != 'projection_sha256'})
+        if projection.get('work') != work or claimed != computed:
+            raise AuditError('reader projection hash or work ID does not match')
+        if song in projection.get('withheld_songs', []):
+            return {'status': 'WITHHELD', 'file': recorded, 'projection_sha256': claimed}
+        originals, hashes = projection.get('originals', {}), projection.get('original_hashes', {})
+        per_layer = {}
+        for name in LAYERS:
+            key = song if name in ('c1', 'c2') else target
+            value = originals.get(name, {}).get(key)
+            path_in_work = ROOT / work / 'data' / f'{song}.{name}.json'
+            if value is None:
+                per_layer[name] = 'MISSING_PROJECTION_LAYER' if path_in_work.exists() else 'NOT_PRESENT'
+                continue
+            if hashes.get(name, {}).get(key) != object_sha(value):
+                per_layer[name] = 'INVALID_PROJECTION_HASH'
+                continue
+            if not path_in_work.exists():
+                per_layer[name] = 'MISSING_TRANSLATION_LAYER'
+                continue
+            expected = json.loads(path_in_work.read_bytes())
+            if name not in ('c1', 'c2'):
+                rows = [row for row in expected if row.get('verse_id') == target]
+                expected = rows if name == 'l0' else (rows[0] if len(rows) == 1 else None)
+            per_layer[name] = 'MATCH' if expected is not None and object_sha(expected) == object_sha(value) else 'DIFFERS'
+        displayed = projection.get('source_verses', {}).get(target, {}).get('text', '')
+        normalize = lambda s: re.sub(r'[\s|]+', '', s)
+        source_match = bool(displayed) and normalize(displayed) == normalize(source_text)
+        required_ok = all(per_layer.get(k) == 'MATCH' for k in REQUIRED)
+        return {'status': 'MATCH' if source_match and required_ok and
+                all(x in ('MATCH', 'NOT_PRESENT') for x in per_layer.values()) else 'DIFFERS_OR_INCOMPLETE',
+                'file': recorded, 'projection_sha256': claimed,
+                'source_matches_parser_ignoring_whitespace_and_pada_bars': source_match,
+                'layers': per_layer,
+                'note': 'A projection match establishes byte/content consistency, not completeness or correctness.'}
+    except (OSError, ValueError, TypeError, AttributeError, json.JSONDecodeError) as exc:
+        raise AuditError(f'reader projection unavailable or invalid: {exc}') from exc
+
+
+def historical_citation(commit: str, work: str, song: str, target: str, expected_t1: str) -> dict:
+    """Check the cited T1 and layer hashes at the essay's actual Git commit."""
+    try:
+        git(ROOT, 'cat-file', '-e', f'{commit}^{{commit}}')
+        def read(name):
+            return json.loads(git(ROOT, 'show', f'{commit}:{name}'))
+        rows = read(f'{work}/data/{song}.t1.json')
+        matches = [row for row in rows if row.get('verse_id') == target]
+        actual = object_sha(matches[0]) if len(matches) == 1 else None
+        proof = read(f'{work}/proof/proof-{song}.json')
+        if proof.get('work') != work or proof.get('song') != song:
+            raise AuditError('historical proof identifies a different passage')
+        layer_hashes = {}
+        for name in LAYERS:
+            p = f'{work}/data/{song}.{name}.json'
+            exists = subprocess.run(['git', '-C', str(ROOT), 'cat-file', '-e', f'{commit}:{p}'],
+                                    capture_output=True).returncode == 0
+            if exists:
+                layer_hashes[name] = object_sha(read(p))
+        stale = sorted(k for k in set(layer_hashes) | set(proof.get('layer_sha256', {}))
+                       if layer_hashes.get(k) != proof.get('layer_sha256', {}).get(k))
+        if REQUIRED - layer_hashes.keys():
+            stale += sorted(REQUIRED - layer_hashes.keys())
+        return {'t1': 'MATCH' if actual == expected_t1 else 'MISMATCH',
+                't1_sha256': actual, 'recorded_gate': proof.get('deterministic_gate'),
+                'proof_layer_hashes': 'STALE_OR_INCOMPLETE' if stale else 'MATCH',
+                'changed_or_missing_layers': sorted(set(stale))}
+    except (AuditError, ValueError, TypeError, KeyError, AttributeError, json.JSONDecodeError):
+        return {'t1': 'UNAVAILABLE', 'proof_layer_hashes': 'UNKNOWN'}
+
+
+def translation_revision(work: str, song: str, essay_path: Path | None) -> dict:
+    """Record the last commit touching audit inputs and flag any local modifications."""
+    files = [ROOT / 'tools/lineage_audit.py', ROOT / 'tools/workcfg.py',
+             ROOT / 'tools/validate_song.py', ROOT / 'tools/proof_record.py', ROOT / 'tools/scholar.py',
+             *sorted((ROOT / 'schemas').glob('*.py'))]
+    files += [ROOT / work / 'data' / f'{song}.{name}.json' for name in (*LAYERS, 'signoff')]
+    files += [ROOT / work / 'proof' / f'proof-{song}.json', ROOT / 'source-maps' / f'{work}.json']
+    if essay_path:
+        files.append(essay_path.resolve())
+    relative = [p.relative_to(ROOT).as_posix() for p in files if p.is_file()]
+    commit = git(ROOT, 'log', '-1', '--format=%H', 'HEAD', '--', *relative).decode().strip()
+    if not re.fullmatch(r'[a-f0-9]{40,64}', commit):
+        raise AuditError('cannot resolve translation input commit')
+    dirty = []
+    for name in relative:
+        result = subprocess.run(['git', '-C', str(ROOT), 'show', f'{commit}:{name}'], capture_output=True)
+        if result.returncode or result.stdout != (ROOT / name).read_bytes():
+            dirty.append(name)
+    return {'repository': 'prx0r/translation-work', 'input_commit': commit,
+            'inputs_match_commit': not dirty, 'uncommitted_or_changed_inputs': sorted(dirty)}
+
+
+def essay_link(path: Path | None, work: str, song: str, target: str, t1_sha: str,
+               projection: dict) -> dict:
     if path is None:
         return {'status': 'NOT_REQUESTED'}
     base = (ROOT / work / 'scholar' / 'essays').resolve()
@@ -161,17 +262,36 @@ def essay_link(path: Path | None, work: str, target: str, t1_sha: str) -> dict:
     errors = scholar.essay_errors(essay, work, path.name)
     citations = essay.get('snapshot', {}).get('content', {}).get('citations', [])
     match = [c for c in citations if isinstance(c, dict) and c.get('work') == work and c.get('target') == target]
-    status = 'INVALID' if errors else ('UNLINKED' if not match else
-             'PARTIAL_T1_MATCH' if match[0].get('t1_sha256') == t1_sha else 'T1_MISMATCH')
+    historical = None
+    projection_link = 'NOT_CITED'
+    if not errors and match:
+        historical = historical_citation(essay['source_git_commit'], work, song, target, match[0]['t1_sha256'])
+        projection_link = ('MATCH' if projection.get('status') == 'MATCH' and
+                           projection.get('projection_sha256') == match[0]['projection_sha256'] else
+                           'UNAVAILABLE' if projection.get('status') == 'NOT_REQUESTED' else 'MISMATCH')
+    if errors:
+        status = 'INVALID'
+    elif not match:
+        status = 'UNLINKED'
+    elif historical['t1'] != 'MATCH':
+        status = 'HISTORICAL_T1_' + historical['t1']
+    elif historical['proof_layer_hashes'] != 'MATCH' or historical.get('recorded_gate') != 'PASS':
+        status = 'HISTORICAL_PROOF_NOT_CURRENT'
+    elif projection_link != 'MATCH':
+        status = 'PARTIAL_COMMITTED_T1'
+    else:
+        status = 'LINKED_COMMITTED_T1_AND_PROJECTION'
     return {'status': status, 'path': path.relative_to(ROOT).as_posix(),
             'file_sha256': digest(path.read_bytes()), 'essay_id': essay.get('essay_id'),
             'validation_errors': errors, 'identity_state': essay.get('identity_state'),
             'source_git_commit': essay.get('source_git_commit'),
-            'note': 'Self-attested sign-off is not a digital signature or peer review. A matching citation alone does not verify the cited projection or entailment.'}
+            'historical_citation': historical, 'projection_citation': projection_link,
+            'current_t1_matches_citation': bool(match and match[0].get('t1_sha256') == t1_sha),
+            'note': 'Self-attested sign-off is not a digital signature or peer review. Source links do not establish entailment.'}
 
 
 def audit(work: str, target: str, bench_root: Path, openpatala_root: Path,
-          essay_path: Path | None = None) -> dict:
+          essay_path: Path | None = None, projection_path: Path | None = None) -> dict:
     if not re.fullmatch(r'[a-z0-9][a-z0-9_-]{0,79}', work):
         raise AuditError('invalid work')
     match = re.fullmatch(r'([a-z0-9][a-z0-9_-]*)-v(\d+)', target)
@@ -223,6 +343,7 @@ def audit(work: str, target: str, bench_root: Path, openpatala_root: Path,
     checks = {name: {k: v for k, v in row.items() if k in ('PASS', 'ratio', 'issues', 'ungrounded')}
               for name, row in raw['checks'].items()}
     t1_sha = object_sha(t1_rows[0])
+    projection = reader_projection(projection_path, work, song, target, source_text)
     result = {
         'format': FORMAT,
         'scope': {'work': work, 'song': song, 'target': target, 'candidate_layer': 'l2'},
@@ -233,11 +354,13 @@ def audit(work: str, target: str, bench_root: Path, openpatala_root: Path,
         'translation': {'layers': layers, 't1_row_sha256': t1_sha,
                         'l2_row_sha256': object_sha(l2_rows[0]),
                         'l2_text_sha256': digest(l2_rows[0]['plain_english'].encode()),
+                        'revision': translation_revision(work, song, essay_path),
                         'historical_record': historic, 'structural_validation': structural},
         'benchmark': {**bench, 'usage': 'ADVISORY_HEURISTICS_ONLY',
                       'reported_gate': raw['deterministic_gate'], 'checks': checks,
                       'gold': 'NOT_EVALUATED'},
-        'essay': essay_link(essay_path, work, target, t1_sha),
+        'reader_projection': projection,
+        'essay': essay_link(essay_path, work, song, target, t1_sha, projection),
         'claims': {'semantic_fidelity': 'UNKNOWN', 'full_source_coverage': 'UNKNOWN',
                    'witness_authenticated': 'UNKNOWN', 'human_review': 'UNKNOWN',
                    'publication_authorized': False},
@@ -262,10 +385,12 @@ def main(argv=None) -> int:
     for p in (run, check):
         p.add_argument('--bench-root', type=Path, required=True)
         p.add_argument('--openpatala-root', type=Path, required=True)
+        p.add_argument('--reader-projection', type=Path, help='committed svread data/scholar/<work>.json')
     args = parser.parse_args(argv)
     try:
         if args.action == 'run':
-            result = audit(args.work, args.target, args.bench_root, args.openpatala_root, args.essay)
+            result = audit(args.work, args.target, args.bench_root, args.openpatala_root, args.essay,
+                           args.reader_projection)
             encoded = json.dumps(result, ensure_ascii=False, indent=2, sort_keys=True) + '\n'
             if args.output:
                 path = args.output.resolve()
@@ -283,7 +408,7 @@ def main(argv=None) -> int:
             scope = saved['scope']
             essay = saved['essay'].get('path')
             fresh = audit(scope['work'], scope['target'], args.bench_root, args.openpatala_root,
-                          ROOT / essay if essay else None)
+                          ROOT / essay if essay else None, args.reader_projection)
             if fresh['receipt_sha256'] != receipt_sha:
                 raise AuditError('current inputs or results do not match this receipt')
             print(json.dumps({'status': 'MATCH', 'receipt_sha256': receipt_sha}))

@@ -25,10 +25,12 @@ python3 tools/lineage_audit.py run \
 python3 tools/lineage_audit.py run \
   --work paramarthasara --target param-p01-v01 \
   --bench-root ../sanskritbench --openpatala-root ../openpatala \
+  --reader-projection ../svread/data/scholar/paramarthasara.json \
   --essay paramarthasara/scholar/essays/62e62283ac8d5aa4a927ecbdcc064eeac4a38d8291a5dcd39db976f1b794e51b.json \
   --output logs/lineage/example.json
 python3 tools/lineage_audit.py verify logs/lineage/example.json \
-  --bench-root ../sanskritbench --openpatala-root ../openpatala
+  --bench-root ../sanskritbench --openpatala-root ../openpatala \
+  --reader-projection ../svread/data/scholar/paramarthasara.json
 python3 -m unittest discover -s tests -p test_lineage_audit.py -v
 ```
 
@@ -39,6 +41,9 @@ re-runs the audit against the current inputs. The receipt is not a signature: it
 integrity depends on comparing its digest with an independently trusted copy.
 The compact, sorted JSON hash used here matches the encoding used by Scholar's
 Scheme A; it is **not** the human-authority Scheme B or a qprivately receipt.
+The receipt also reports the last translation Git commit touching its inputs and
+any input bytes that do not match that commit. Do not publish a receipt generated
+from uncommitted data as though that commit reproduced it.
 
 ## What is and isn't established
 
@@ -48,7 +53,8 @@ Scheme A; it is **not** the human-authority Scheme B or a qprivately receipt.
 | Source → passage | Hashes the source file and the output of the actual `workcfg` parser; requires the registered song's source verses. | Pin and independently audit complete byte-exact spans against the named edition. Whitespace-token reconstruction isn't such a span. |
 | Layers | Hashes every existing T1/L0/argmap/L2/C1/L3/L4/C2 JSON layer and compares it to the historical proof's stored hashes. Runs the current structural/cross-layer validator and hashes its program and schemas. | The old proof does not pin every Markdown input; matching its recorded layer hashes does not rerun the proof or establish philological correctness. Human review stays separate. |
 | SanskritBench | Verifies the committed pinned kernel bytes before executing its actual five checks. Saves their raw booleans/ratios as advisory diagnostics with full source/candidate digests. | Evaluate against an independently annotated, licensed Sanskrit gold set and calibrate per check. A heuristic PASS cannot prove faithful meaning, coverage or absence of fabricated claims. No gold score is claimed here. |
-| Essay | Validates the public content-addressed Scholar essay and checks whether it cites the exact work, target and T1-row digest. | Resolve the cited historical projection and Git commit, trace individual essay claims to cited evidence, and separately record human/agent review. A self-attested sign-off is not a cryptographic signature. |
+| Reader | With `--reader-projection`, verifies the committed svread projection digest, compares projected layers to current translation data and compares displayed Sanskrit to parser output ignoring whitespace and pāda bars. | Matching normalized text is not byte-exact source coverage or edition verification. The deployed reader might run a different commit. |
+| Essay | Validates the public Scholar essay; resolves cited T1 and proof layer hashes at its exact source Git commit; compares its cited projection with the supplied committed reader projection. | Keep cited historical projections available, trace individual essay claims to evidence, and separately record human/agent review. A self-attested sign-off is not a cryptographic signature. |
 
 For the included Paramārthasāra example, the available OpenPāṭala dossier is
 `PTCND_sa_abhinavagupta-paramArthasAra`. Both it and the source header name
@@ -63,6 +69,14 @@ and never treats the kernel's `proof` flag as an approval. It pins the kernel by
 SHA-256 and identifies the complete normalized source and candidate independently.
 The receipt's `overall` remains `INCOMPLETE`; no site files, proof records, version
 ledgers, publication permissions or translation data are modified.
+
+The receipt's separate source, activity and result fields follow the practical idea
+in [W3C PROV-O](https://www.w3.org/TR/prov-o/) and the content-bound subject idea in
+[in-toto attestations](https://github.com/in-toto/attestation/blob/main/spec/v1/statement.md).
+This prototype is neither a signed attestation nor a claim of conformance to either
+standard. [BLEURT](https://github.com/google-research/bleurt) is one research option
+for later human-calibrated metric experiments; its own documentation cautions that
+automated scores are noisy. No pretrained metric has yet been evaluated for this corpus.
 
 ## Follow-through
 

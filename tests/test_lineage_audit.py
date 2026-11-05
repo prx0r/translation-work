@@ -50,6 +50,65 @@ class LineageUnitTests(unittest.TestCase):
         self.assertNotEqual(audit.object_sha({'text': 'a' * 40 + 'x'}),
                             audit.object_sha({'text': 'a' * 40 + 'y'}))
 
+    def test_essay_citation_resolves_its_historical_git_tree(self):
+        # A synthetic public essay and source live only in this temporary Git repo.
+        with tempfile.TemporaryDirectory(dir=ROOT) as d:
+            root = Path(d)
+            subprocess.run(['git', 'init', '-q', str(root)], check=True)
+            (root / 'w/data').mkdir(parents=True)
+            (root / 'w/proof').mkdir()
+            (root / 'w/scholar/essays').mkdir(parents=True)
+            target, song = 's-v01', 's'
+            row = {'verse_id': target, 'text': 'fixture'}
+            values = {'t1': [row], 'l0': [], 'argmap': [], 'l2': [], 'c1': {}}
+            for name, val in values.items():
+                (root / f'w/data/{song}.{name}.json').write_text(json.dumps(val))
+            proof = {'work': 'w', 'song': song, 'deterministic_gate': 'PASS',
+                     'layer_sha256': {name: audit.object_sha(val) for name, val in values.items()}}
+            (root / 'w/proof/proof-s.json').write_text(json.dumps(proof))
+            subprocess.run(['git', '-C', str(root), 'add', 'w/data', 'w/proof'], check=True)
+            subprocess.run(['git', '-C', str(root), '-c', 'user.name=Test', '-c', 'user.email=test@example.invalid',
+                            'commit', '-q', '-m', 'source'], check=True)
+            commit = subprocess.check_output(['git', '-C', str(root), 'rev-parse', 'HEAD'], text=True).strip()
+            citation = {'work': 'w', 'target': target, 't1_sha256': audit.object_sha(row),
+                        'projection_sha256': 'a' * 64}
+            snapshot = {'kind': 'essay', 'work': 'w', 'target': target, 'title': 'Fixture',
+                        'content': {'text': 'Example text.', 'citations': [citation]}}
+            essay = {'format': 'scholar-essay/1', 'work': 'w', 'target': target, 'title': 'Fixture',
+                     'text': 'Example text.', 'author': 'Test', 'author_id': 'test',
+                     'identity_state': 'SELF_ATTESTED', 'rights': 'cc-by-4.0',
+                     'signoff': {'id': 'signoff:test', 'rights': 'cc-by-4.0',
+                                 'snapshot_sha256': audit.object_sha(snapshot)},
+                     'snapshot': snapshot, 'assisted': False, 'model': '', 'source_git_commit': commit}
+            def write_essay(value):
+                value = dict(value)
+                sha = audit.object_sha(value)
+                value['essay_id'] = 'essay:' + sha
+                path = root / 'w/scholar/essays' / (sha + '.json')
+                path.write_text(json.dumps(value))
+                return path
+            projection = {'status': 'MATCH', 'projection_sha256': 'a' * 64}
+            with patch.object(audit, 'ROOT', root):
+                path = write_essay(essay)
+                result = audit.essay_link(path, 'w', song, target, audit.object_sha(row), projection)
+                self.assertEqual(result['status'], 'LINKED_COMMITTED_T1_AND_PROJECTION')
+                self.assertEqual(result['historical_citation']['proof_layer_hashes'], 'MATCH')
+                partial = audit.essay_link(path, 'w', song, target, audit.object_sha(row),
+                                           {'status': 'NOT_REQUESTED'})
+                self.assertEqual(partial['status'], 'PARTIAL_COMMITTED_T1')
+                missing = write_essay({**essay, 'source_git_commit': 'f' * 40})
+                self.assertEqual(audit.essay_link(missing, 'w', song, target, audit.object_sha(row), projection)['status'],
+                                 'HISTORICAL_T1_UNAVAILABLE')
+                (root / 'w/data/s.l2.json').write_text('[{"changed":true}]')
+                subprocess.run(['git', '-C', str(root), 'add', 'w/data/s.l2.json'], check=True)
+                subprocess.run(['git', '-C', str(root), '-c', 'user.name=Test', '-c', 'user.email=test@example.invalid',
+                                'commit', '-q', '-m', 'stale proof'], check=True)
+                stale_commit = subprocess.check_output(['git', '-C', str(root), 'rev-parse', 'HEAD',
+                                                         ], text=True).strip()
+                stale = write_essay({**essay, 'source_git_commit': stale_commit})
+                self.assertEqual(audit.essay_link(stale, 'w', song, target, audit.object_sha(row), projection)['status'],
+                                 'HISTORICAL_PROOF_NOT_CURRENT')
+
 
 @unittest.skipUnless((BENCH / 'pipeline/translation_proof.py').is_file()
                      and (OPENPATALA / 'data/gold/PTCND_sa_abhinavagupta-pa.json').is_file()
@@ -74,6 +133,16 @@ class LineageIntegrationTests(unittest.TestCase):
         self.assertFalse(result['claims']['publication_authorized'])
         self.assertEqual(result['essay']['status'], 'UNLINKED')
         self.assertEqual(result['overall'], 'INCOMPLETE')
+
+    @unittest.skipUnless((ROOT.parent / 'svread-audit/data/scholar/paramarthasara.json').exists(),
+                         'requires the svread reader checkout')
+    def test_reader_projection_matches_real_layers(self):
+        result = audit.audit('paramarthasara', 'param-p01-v01', BENCH, OPENPATALA, ESSAY,
+                             ROOT.parent / 'svread-audit/data/scholar/paramarthasara.json')
+        projection = result['reader_projection']
+        self.assertEqual(projection['status'], 'MATCH')
+        self.assertTrue(all(v == 'MATCH' for v in projection['layers'].values()))
+        self.assertTrue(projection['source_matches_parser_ignoring_whitespace_and_pada_bars'])
 
     def test_cli_replay_and_tampering(self):
         with tempfile.TemporaryDirectory(dir=ROOT) as d:
