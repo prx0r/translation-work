@@ -169,11 +169,9 @@ def submit(repo: Path, payload: dict, author: str, push_remote: str | None = Non
             "message": "Submission saved for review and publication."}
 
 
-def validate_essay_citations(repo: Path, commit: str, citations: object) -> None:
-    """Verify selected T1 references against the exact committed Git tree."""
-    if not isinstance(citations, list) or len(citations) > 10:
-        raise ValueError('invalid essay citations')
-    seen = set()
+def validate_essay_source(repo: Path, commit: str, work: str, target: str,
+                          t1_hash: str | None = None) -> None:
+    """Check the passage and proof against one committed tree, including legacy works."""
     def read_json(path: str):
         result = git(repo, 'show', f'{commit}:{path}', check=False)
         if result.returncode:
@@ -182,6 +180,33 @@ def validate_essay_citations(repo: Path, commit: str, citations: object) -> None
             return json.loads(result.stdout)
         except ValueError as exc:
             raise ValueError('cited source or proof is invalid JSON') from exc
+    if work == 'ghatakarpara':
+        raise ValueError('Ghaṭakarpara is withheld pending source alignment repair')
+    song=scholar.song_of(target,'t1')
+    proof=read_json(f'{work}/proof/proof-{song}.json')
+    rows=read_json(f'{work}/data/{song}.t1.json')
+    if (not isinstance(proof,dict) or proof.get('work')!=work or proof.get('song')!=song or
+        proof.get('deterministic_gate')!='PASS' or not isinstance(rows,list)):
+        raise ValueError('cited source is not PASS gated')
+    matches=[row for row in rows if isinstance(row,dict) and row.get('verse_id')==target]
+    if len(matches)!=1 or (t1_hash is not None and scholar.sha(matches[0])!=t1_hash):
+        raise ValueError('cited T1 passage does not match the selected Git commit')
+    # Legacy works also carry layer hashes. A source manifest is not a
+    # prerequisite for detecting that the cited proof is stale.
+    current={}
+    for layer in scholar.LAYERS:
+        name=f'{work}/data/{song}.{layer}.json'
+        exists=git(repo,'cat-file','-e',f'{commit}:{name}',check=False)
+        if exists.returncode==0: current[layer]=scholar.sha(read_json(name))
+    if (not {'t1','l0','argmap','l2','c1'}.issubset(current) or
+        proof.get('layer_sha256',{})!=current):raise ValueError('cited source proof is stale or incomplete')
+
+
+def validate_essay_citations(repo: Path, commit: str, citations: object) -> None:
+    """Verify selected T1 references against the exact committed Git tree."""
+    if not isinstance(citations, list) or len(citations) > 10:
+        raise ValueError('invalid essay citations')
+    seen = set()
     for ref in citations:
         if not isinstance(ref, dict) or set(ref) != {'work','target','t1_sha256','projection_sha256'}:
             raise ValueError('invalid essay citation')
@@ -191,27 +216,9 @@ def validate_essay_citations(repo: Path, commit: str, citations: object) -> None
             not isinstance(t1_hash,str) or not re.fullmatch(r'[a-f0-9]{64}',t1_hash) or
             not isinstance(projection_hash,str) or not re.fullmatch(r'[a-f0-9]{64}',projection_hash)):
             raise ValueError('invalid essay citation')
-        if work == 'ghatakarpara':
-            raise ValueError('Ghaṭakarpara is withheld pending source alignment repair')
         if (work,target) in seen: raise ValueError('duplicate essay citation')
         seen.add((work,target))
-        song=scholar.song_of(target,'t1')
-        proof=read_json(f'{work}/proof/proof-{song}.json')
-        rows=read_json(f'{work}/data/{song}.t1.json')
-        if (not isinstance(proof,dict) or proof.get('work')!=work or proof.get('song')!=song or
-            proof.get('deterministic_gate')!='PASS' or not isinstance(rows,list)):
-            raise ValueError('cited source is not PASS gated')
-        matches=[row for row in rows if isinstance(row,dict) and row.get('verse_id')==target]
-        if len(matches)!=1 or scholar.sha(matches[0])!=t1_hash:
-            raise ValueError('cited T1 passage does not match the selected Git commit')
-        manifest=git(repo,'cat-file','-e',f'{commit}:{work}/source/manifest.json',check=False)
-        if manifest.returncode==0:
-            current={}
-            for layer in scholar.LAYERS:
-                name=f'{work}/data/{song}.{layer}.json'
-                exists=git(repo,'cat-file','-e',f'{commit}:{name}',check=False)
-                if exists.returncode==0: current[layer]=scholar.sha(read_json(name))
-            if proof.get('layer_sha256',{})!=current:raise ValueError('cited source proof is stale')
+        validate_essay_source(repo,commit,work,target,t1_hash)
 
 
 def submit_essay(repo: Path, payload: dict, push_remote: str | None = None) -> dict:
@@ -219,22 +226,10 @@ def submit_essay(repo: Path, payload: dict, push_remote: str | None = None) -> d
     work = snap['work']
     if not (repo/work/'data').is_dir() or not snap['title'].strip():
         raise ValueError('essay needs an existing work and title')
-    if snap['target']:
-        song=scholar.song_of(snap['target'],'t1')
-        source=repo/work/'data'/f'{song}.t1.json';proof_path=repo/work/'proof'/f'proof-{song}.json'
-        if not source.is_file() or not proof_path.is_file():raise ValueError('essay source passage is unavailable')
-        rows=json.loads(source.read_text(encoding='utf-8'));proof=json.loads(proof_path.read_text(encoding='utf-8'))
-        if (not any(row.get('verse_id')==snap['target'] for row in rows) or proof.get('work')!=work or
-            proof.get('song')!=song or proof.get('deterministic_gate')!='PASS'):
-            raise ValueError('essay source passage is not PASS gated')
-        if (repo/work/'source/manifest.json').exists():
-            current={}
-            for layer in scholar.LAYERS:
-                f=repo/work/'data'/f'{song}.{layer}.json'
-                if f.exists():current[layer]=scholar.sha(json.loads(f.read_text(encoding='utf-8')))
-            if proof.get('layer_sha256',{})!=current:raise ValueError('essay source proof is stale')
-    citations=snap['content'].get('citations', [])
     base=git(repo,'rev-parse','HEAD').stdout.strip()
+    if snap['target']:
+        validate_essay_source(repo,base,work,snap['target'])
+    citations=snap['content'].get('citations', [])
     validate_essay_citations(repo,base,citations)
     entry = {'format':'scholar-essay/1','work':work,'target':snap['target'],'title':snap['title'],
              'text':snap['content']['text'],'author':payload['author'],'author_id':payload['account_id'],
