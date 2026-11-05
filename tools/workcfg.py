@@ -1165,6 +1165,59 @@ def parse_abhts(source: Path) -> tuple[dict[tuple[int, int], tuple[list[str], li
     return units, []
 
 
+def parse_taloka(source: Path) -> tuple[dict[tuple[int, int], tuple[list[str], list[int]]], list[tuple[int, str]]]:
+    """Parse GRETIL Tantraloka (`[AbhT_A.V]` verse markers, śloka text).
+
+    Returns (ahnika, num) -> (tokens, [first_ln, marker_ln]). Ahnika tracked
+    via `::CN ...āhnikam` headers (C6/C7 split across two lines). Each verse
+    takes all non-empty lines since the previous marker. Pāda marks (|, /)
+    and `//` comments stripped; wrap-hyphen continuations joined.
+    """
+    raw = source.read_text(encoding="utf-8").splitlines()
+    units: dict[tuple[int, int], tuple[list[str], list[int]]] = {}
+    buf: list[tuple[int, str]] = []
+    ahnika = 0
+
+    def toks_of(texts: list[str]) -> list[str]:
+        toks: list[str] = []
+        for t in texts:
+            t = re.sub(r"//.*", "", t)
+            t = t.replace("|", " ").replace("/", " ")
+            for wd in t.split():
+                if toks and toks[-1].endswith("-"):
+                    toks[-1] = toks[-1][:-1] + wd
+                else:
+                    toks.append(wd)
+        return [w for w in toks if w]
+
+    def flush(marker_ln: int, key: tuple[int, int]):
+        texts = [s for _, s in buf]
+        first_ln = buf[0][0] if buf else marker_ln
+        units[key] = (toks_of(texts), [first_ln, marker_ln])
+
+    for ln, line in enumerate(raw, start=1):
+        t = line.strip()
+        if not t or t.startswith("###"):
+            continue
+        m = re.match(r"^::C(\d+)\b", t)
+        if m:
+            ahnika = int(m.group(1))
+            continue
+        m = re.search(r"\[AbhT_(\d+)\.(\d+)\]\s*$", t)
+        if m:
+            pre = t[:m.start()].strip()
+            if pre:
+                buf.append((ln, pre))
+            a = int(m.group(1))
+            if a != ahnika:
+                ahnika = a
+            flush(ln, (ahnika, int(m.group(2))))
+            buf = []
+        else:
+            buf.append((ln, t))
+    return units, []
+
+
 def source_spans(work: str) -> dict[int, list[str]] | None:
     """Full-work source spans {verse: tokens} via workcfg, or None if unregistered.
 
@@ -1211,6 +1264,10 @@ def source_spans(work: str) -> dict[int, list[str]] | None:
         spans, _ = parse_spanda(src)
     elif kind == "abhts":
         units, _ = parse_abhts(src)
+        ahnika = cfg.get("ahnika", 1)
+        spans = {num: val for (a, num), val in units.items() if a == ahnika}
+    elif kind == "taloka":
+        units, _ = parse_taloka(src)
         ahnika = cfg.get("ahnika", 1)
         spans = {num: val for (a, num), val in units.items() if a == ahnika}
     else:
