@@ -41,6 +41,13 @@ class PassageAdapterTests(unittest.TestCase):
                              (10902, 38625))
 
     @NEEDS_IPVV_VOL
+    def test_prose_dotted_ids_resolve(self):
+        # On-disk files replace dots with dashes; both forms must resolve.
+        r = adapter.resolve('ipvv', 'chunkG-k1.2.7-1.8-citsvarupam')
+        self.assertEqual(r['kind'], 'prose')
+        self.assertEqual(r['source_evidence_state'], 'CANDIDATE_LINE_MATCH')
+
+    @NEEDS_IPVV_VOL
     def test_prose_audit_is_incomplete_never_pass(self):
         r = audit.audit('ipvv', 'chunkA-svatyandya', BENCH, OPENPATALA)
         self.assertEqual(r['format'], audit.PROSE_FORMAT)

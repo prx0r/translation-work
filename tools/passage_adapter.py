@@ -97,13 +97,19 @@ def resolve(work: str, passage_id: str) -> dict:
                 'source_evidence_state': 'WORKCFG_SPANS'}
     if work == 'ipvv':
         # Canonical passage_id drops the bundle `.md` suffix (IPVV-IMPORT);
-        # on-disk files keep it as `-md.json`. Accept either form.
+        # on-disk files also replace `.` with `-` and append `-md.json`.
+        # Accept either form.
         pid = passage_id[:-3] if passage_id.endswith('.md') else passage_id
         bundle_path = None
-        for cand in (ROOT / 'ipvv' / 'published' / f'pt-passage-ipvv-{pid}.json',
-                     ROOT / 'ipvv' / 'published' / f'pt-passage-ipvv-{pid}-md.json'):
-            if cand.is_file():
-                bundle_path = cand
+        tried = []
+        for stem in (pid, pid.replace('.', '-')):
+            for cand in (ROOT / 'ipvv' / 'published' / f'pt-passage-ipvv-{stem}.json',
+                         ROOT / 'ipvv' / 'published' / f'pt-passage-ipvv-{stem}-md.json'):
+                tried.append(cand.name)
+                if cand.is_file():
+                    bundle_path = cand
+                    break
+            if bundle_path is not None:
                 break
         if bundle_path is None:
             raise AdapterError(f'unknown ipvv chunk {passage_id!r}')
