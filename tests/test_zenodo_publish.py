@@ -34,7 +34,9 @@ ESSAY = {
 
 class ZenodoTest(unittest.TestCase):
     def setUp(self):
-        self.tmp = Path(tempfile.mkdtemp())
+        self.temp = tempfile.TemporaryDirectory(dir=ROOT)
+        self.addCleanup(self.temp.cleanup)
+        self.tmp = Path(self.temp.name)
         for mod, val in (("SVREAD", self.tmp / "sv"), ("TW", self.tmp / "tw")):
             setattr(zp, mod, val)
         write(self.tmp / "sv" / "data" / "scholar" / "w1.json",
@@ -60,6 +62,10 @@ class ZenodoTest(unittest.TestCase):
         self.assertIsNone(m["metadata"]["license"])
         m2 = zp.deposition_metadata("w1", dict(ESSAY, rights="cc0"), self.args())
         self.assertEqual(m2["metadata"]["access_right"], "open")
+        self.assertIn("Peer-review status is not established", m2["metadata"]["notes"])
+        self.assertIn("AI assistance: none declared", m2["metadata"]["description"])
+        assisted = zp.deposition_metadata("w1", dict(ESSAY, assisted=True, model=""), self.args())
+        self.assertIn("AI assistance: yes (model not recorded)", assisted["metadata"]["description"])
 
     def test_publish_refuses_without_confirm_or_token(self):
         with self.assertRaises(SystemExit):
@@ -119,6 +125,7 @@ class ZenodoTest(unittest.TestCase):
         paths = [p for p, _ in seen.get("post", [])]
         self.assertTrue(any(p.endswith("/actions/publish") for p in paths))
         srv.shutdown()
+        srv.server_close()
 
 
 if __name__ == "__main__":
