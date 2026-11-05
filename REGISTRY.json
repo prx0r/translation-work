@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 101,
- "gold": 51,
+ "gold": 52,
  "partial": 0,
- "pending": 50,
+ "pending": 49,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -712,11 +712,14 @@
   },
   {
    "work": "tantrasara-a08",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold (machine-proposed)",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 93,
+   "l4_songs": 1,
+   "l4_verses": 93,
+   "note": "2026-11-05: GOLD #52 (machine-proposed) — 93 units (tattvasvarūpaprakāśana, 1120tok), 4 genuine grammar forks resolved, 7 drifted L4 re-sung, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a09",
