@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a14",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a14 done)",
  "counts": {
-  "passages": 5,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 362,
+  "l4_drafts": 47,
+  "l4_with_craft": 47,
+  "passages": 1,
   "verses": 47
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a14-raw.jsonl",
- "r2_bytes": 25742,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "5 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a22 (48 units).",
+ "notes": "GOLD #63 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 14 (dīkṣopakrama — tirobhāva, grace, utkrānti refuted, jīvanmukti; 47u, 362tok + v47 colophon) via workcfg taloka. L0 362 tok 100%% PARSED stem-level (fused 5-way compounds; @ = elided-a; 0 forks) / T1 / argmaps 47/47 (sha 2a380fdb0d012a0e, PASS, 0 shared) / L2 47 cites 47/47 / C1 essence 47 (0 quotes/shared/meta; 860 words warning only, precedent a22) + 7-part + rasa jñāna-vīra + NOTE / L3 47 couplets+singles 0 shared no slashes / L4 47 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v01) PENDING owner; OPEN: human review; C2 waived. Long-line units (v10-12, v46) kept; print junctions, simile compressions flagged. Opens S tier.",
+ "rasa": "jñāna with vīra weight (doctrinal certainty; polemical energy)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a14"
 }
