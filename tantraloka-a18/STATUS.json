@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a18",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a18 done)",
  "counts": {
-  "passages": 2,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 104,
+  "l4_drafts": 11,
+  "l4_with_craft": 11,
+  "passages": 1,
   "verses": 11
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a18-raw.jsonl",
- "r2_bytes": 7293,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "2 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a20 (16 units).",
+ "notes": "GOLD #55 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 18 (saṃkṣiptadīkṣā, concise initiation; 11u, 104tok) via workcfg taloka. Full pipeline: L0 hand-crafted 104 tok 100% PARSED stem-level morph (fused spans incl. 4-way kuryātsamastairathavoktavat; @ = elided-a; 0 forks — all ambiguities convergent and flagged) / T1 md+jsonl+report / argmaps 11/11 (sha 1d053a6d251d9ec3, gate PASS, 0 shared) / L2 11 rasa-carried byte-exact cites 11/11 / C1 essence 11 (0 quotes, 0 shared, 0 meta) + 7-part + rasa vīra-śānta + c1.NOTE.md / L3 11 couplets 0 shared vs L2, no slashes / L4 11 DRAFTs craft+rejected+read-aloud, subset-validated, data==DRAFTs / c1 md. validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS, check.py CANONICAL. FIRST-VERSE L4 VOICE (v01) PENDING owner approval; OPEN: human review; C2 waived. V1 three half-śloka lines under one marker (grouping kept); print -d- junction flagged; prathamā-sense flagged.",
+ "rasa": "vīra with śānta weight (decisive rite; restful concision)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a18"
 }
