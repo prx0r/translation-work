@@ -1,0 +1,396 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:svatantrya:schema:lineage-audit:2",
+  "title": "Svatantrya lineage audit receipt, version 2",
+  "description": "Structural envelope only. A receipt is not a signature, a semantic proof, or an authorization to publish.",
+  "type": "object",
+  "required": [
+    "format",
+    "scope",
+    "source",
+    "translation",
+    "benchmark",
+    "reader_projection",
+    "essay",
+    "claims",
+    "overall",
+    "auditor_sha256",
+    "schema_sha256",
+    "hash_scheme",
+    "receipt_sha256"
+  ],
+  "properties": {
+    "format": {
+      "type": "string",
+      "enum": [
+        "svatantrya-lineage-audit/2"
+      ]
+    },
+    "scope": {
+      "type": "object",
+      "required": [
+        "work",
+        "song",
+        "target",
+        "candidate_layer"
+      ],
+      "properties": {
+        "work": {
+          "type": "string",
+          "minLength": 1
+        },
+        "song": {
+          "type": "string",
+          "minLength": 1
+        },
+        "target": {
+          "type": "string",
+          "minLength": 1
+        },
+        "candidate_layer": {
+          "type": "string",
+          "enum": [
+            "l2"
+          ]
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "repository_file",
+        "openpatala",
+        "extracted_verse_sha256",
+        "extraction",
+        "byte_exact_span",
+        "workcfg_sha256"
+      ],
+      "properties": {
+        "repository_file": {
+          "type": "object",
+          "required": [
+            "commit",
+            "path",
+            "sha256"
+          ],
+          "properties": {
+            "commit": {
+              "type": "string",
+              "minLength": 40
+            },
+            "path": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "minLength": 64,
+              "maxLength": 64,
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          }
+        },
+        "openpatala": {
+          "type": "object",
+          "required": [
+            "status",
+            "witness"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "CANDIDATE",
+                "UNMAPPED"
+              ]
+            },
+            "witness": {
+              "type": "string",
+              "enum": [
+                "UNKNOWN"
+              ]
+            }
+          }
+        },
+        "extracted_verse_sha256": {
+          "type": "string",
+          "minLength": 64,
+          "maxLength": 64,
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "extraction": {
+          "type": "string",
+          "minLength": 1
+        },
+        "byte_exact_span": {
+          "type": "string",
+          "enum": [
+            "UNKNOWN"
+          ]
+        },
+        "workcfg_sha256": {
+          "type": "string",
+          "minLength": 64,
+          "maxLength": 64,
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    },
+    "translation": {
+      "type": "object",
+      "required": [
+        "layers",
+        "t1_row_sha256",
+        "l2_row_sha256",
+        "l2_text_sha256",
+        "revision",
+        "historical_record",
+        "structural_validation"
+      ],
+      "properties": {
+        "layers": {
+          "type": "object",
+          "required": [
+            "t1",
+            "l2"
+          ]
+        },
+        "t1_row_sha256": {
+          "type": "string",
+          "minLength": 64,
+          "maxLength": 64,
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "l2_row_sha256": {
+          "type": "string",
+          "minLength": 64,
+          "maxLength": 64,
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "l2_text_sha256": {
+          "type": "string",
+          "minLength": 64,
+          "maxLength": 64,
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "revision": {
+          "type": "object",
+          "required": [
+            "repository",
+            "input_commit",
+            "inputs_match_commit",
+            "uncommitted_or_changed_inputs"
+          ],
+          "properties": {
+            "repository": {
+              "type": "string"
+            },
+            "input_commit": {
+              "type": "string",
+              "minLength": 40
+            },
+            "inputs_match_commit": {
+              "type": "boolean"
+            },
+            "uncommitted_or_changed_inputs": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "historical_record": {
+          "type": "object",
+          "required": [
+            "status",
+            "changed_layers",
+            "missing_required_layers"
+          ]
+        },
+        "structural_validation": {
+          "type": "object",
+          "required": [
+            "status",
+            "errors",
+            "counts",
+            "program_sha256"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "PASS",
+                "BLOCKED"
+              ]
+            },
+            "errors": {
+              "type": "array"
+            },
+            "counts": {
+              "type": "object"
+            },
+            "program_sha256": {
+              "type": "object"
+            }
+          }
+        }
+      }
+    },
+    "benchmark": {
+      "type": "object",
+      "required": [
+        "repository",
+        "pinned_commit",
+        "kernel_sha256",
+        "usage",
+        "reported_gate",
+        "checks",
+        "gold"
+      ],
+      "properties": {
+        "repository": {
+          "type": "string"
+        },
+        "pinned_commit": {
+          "type": "string",
+          "minLength": 40
+        },
+        "kernel_sha256": {
+          "type": "string",
+          "minLength": 64,
+          "maxLength": 64,
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "usage": {
+          "type": "string",
+          "enum": [
+            "ADVISORY_HEURISTICS_ONLY"
+          ]
+        },
+        "reported_gate": {
+          "type": "string",
+          "enum": [
+            "PASS",
+            "BLOCKED"
+          ]
+        },
+        "checks": {
+          "type": "object",
+          "required": [
+            "SOURCE_BINDING",
+            "COVERAGE",
+            "ABSTENTION",
+            "TERM_CONSISTENCY",
+            "CITATION_GROUNDING"
+          ]
+        },
+        "gold": {
+          "type": "string",
+          "enum": [
+            "NOT_EVALUATED"
+          ]
+        }
+      }
+    },
+    "reader_projection": {
+      "type": "object",
+      "required": [
+        "status"
+      ],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "NOT_REQUESTED",
+            "WITHHELD",
+            "MATCH",
+            "DIFFERS_OR_INCOMPLETE"
+          ]
+        }
+      }
+    },
+    "essay": {
+      "type": "object",
+      "required": [
+        "status"
+      ],
+      "properties": {
+        "status": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "claims": {
+      "type": "object",
+      "required": [
+        "semantic_fidelity",
+        "full_source_coverage",
+        "witness_authenticated",
+        "human_review",
+        "publication_authorized"
+      ],
+      "properties": {
+        "semantic_fidelity": {
+          "type": "string",
+          "enum": [
+            "UNKNOWN"
+          ]
+        },
+        "full_source_coverage": {
+          "type": "string",
+          "enum": [
+            "UNKNOWN"
+          ]
+        },
+        "witness_authenticated": {
+          "type": "string",
+          "enum": [
+            "UNKNOWN"
+          ]
+        },
+        "human_review": {
+          "type": "string",
+          "enum": [
+            "UNKNOWN"
+          ]
+        },
+        "publication_authorized": {
+          "type": "boolean",
+          "enum": [
+            false
+          ]
+        }
+      }
+    },
+    "overall": {
+      "type": "string",
+      "enum": [
+        "INCOMPLETE"
+      ]
+    },
+    "auditor_sha256": {
+      "type": "string",
+      "minLength": 64,
+      "maxLength": 64,
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "schema_sha256": {
+      "type": "string",
+      "minLength": 64,
+      "maxLength": 64,
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "hash_scheme": {
+      "type": "string",
+      "minLength": 1
+    },
+    "receipt_sha256": {
+      "type": "string",
+      "minLength": 64,
+      "maxLength": 64,
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  }
+}

@@ -44,6 +44,11 @@ Scheme A; it is **not** the human-authority Scheme B or a qprivately receipt.
 The receipt also reports the last translation Git commit touching its inputs and
 any input bytes that do not match that commit. Do not publish a receipt generated
 from uncommitted data as though that commit reproduced it.
+The receipt envelope is versioned as `svatantrya-lineage-audit/2`, with the
+structural contract at `schemas/lineage-audit-v2.schema.json`. The CLI checks the
+contract's supported structural subset, SHA-256 syntax and schema digest on both
+creation and replay. As with the layer schemas, structural validation does not
+establish the underlying historical or philological claims.
 
 ## What is and isn't established
 
@@ -61,9 +66,10 @@ For the included Paramārthasāra example, the available OpenPāṭala dossier i
 `sa_abhinavagupta-paramArthasAra`; this is useful for a candidate work mapping,
 but does not authenticate the edition. The checked-in editorial essay is a valid
 published snapshot but does not cite the chosen verse, so its status is `UNLINKED`.
-The reproducible example receipt is
-`logs/lineage/param-p01-v01-2026-11-05.json`; it includes the exact translation,
-ipvv, svread, OpenPāṭala and SanskritBench revisions used in that run.
+The current example receipt is `logs/lineage/param-p01-v01-2026-11-05-v2.json`;
+it includes the exact translation, ipvv, svread, OpenPāṭala and SanskritBench
+revisions used in that run. The earlier `/1` example remains in Git as an immutable
+historical record and can be replayed with its recorded `/1` auditor commit.
 
 The current benchmark's check names are stronger than their implementation. For
 example, a negated English translation can pass all five; its result ID also uses a

@@ -160,8 +160,14 @@ class LineageIntegrationTests(unittest.TestCase):
                           '--output', str(receipt), *common])
             self.assertNotEqual(again.returncode, 0, 'must never overwrite a receipt')
             value = json.loads(receipt.read_text())
-            value['claims']['human_review'] = 'PASS'
+            original = dict(value)
+            value['overall'] = 'PASS'
             receipt.write_text(json.dumps(value))
+            verify = call(['verify', str(receipt), *common])
+            self.assertNotEqual(verify.returncode, 0)
+            self.assertIn('schema invalid', verify.stderr)
+            original['source']['openpatala']['language_conflict'] = False
+            receipt.write_text(json.dumps(original))
             verify = call(['verify', str(receipt), *common])
             self.assertNotEqual(verify.returncode, 0)
             self.assertIn('digest', verify.stderr)

@@ -19,7 +19,8 @@ sys.path.insert(0, str(ROOT / 'tools'))
 import scholar
 import workcfg
 
-FORMAT = 'svatantrya-lineage-audit/1'
+FORMAT = 'svatantrya-lineage-audit/2'
+SCHEMA_PATH = ROOT / 'schemas/lineage-audit-v2.schema.json'
 BENCH_COMMIT = 'cb5981b66fb7fc7a3bd8636352588bd8a4c42cad'
 BENCH_SHA = '8549018f1db7e4e1835f4007163cdd4cc5771699d335cf05c503e316b15682fa'
 LAYERS = ('t1', 'l0', 'argmap', 'l2', 'c1', 'l3', 'l4', 'c2')
@@ -40,6 +41,31 @@ def canonical(obj) -> bytes:
 
 def object_sha(obj) -> str:
     return digest(canonical(obj))
+
+
+def validate_receipt(value: dict) -> None:
+    """Validate the published structural subset and the SHA-256 field syntax."""
+    if not isinstance(value, dict):
+        raise AuditError('receipt must be an object')
+    schema_bytes = SCHEMA_PATH.read_bytes()
+    schema = json.loads(schema_bytes)
+    errors = scholar.layer_registry.structural_errors(value, schema, 'receipt')
+    if value.get('schema_sha256') != digest(schema_bytes):
+        errors.append('receipt: schema digest does not match')
+    def check_hashes(item, path):
+        if isinstance(item, dict):
+            for key, child in item.items():
+                if isinstance(child, str) and (key == 'sha256' or key.endswith('_sha256')):
+                    if not re.fullmatch(r'[a-f0-9]{64}', child):
+                        errors.append(f'{path}.{key}: invalid SHA-256')
+                else:
+                    check_hashes(child, f'{path}.{key}')
+        elif isinstance(item, list):
+            for index, child in enumerate(item):
+                check_hashes(child, f'{path}[{index}]')
+    check_hashes(value, 'receipt')
+    if errors:
+        raise AuditError('receipt schema invalid: ' + '; '.join(errors[:8]))
 
 
 def git(repo: Path, *args: str) -> bytes:
@@ -230,6 +256,7 @@ def translation_revision(work: str, song: str, essay_path: Path | None) -> dict:
     """Record the last commit touching audit inputs and flag any local modifications."""
     files = [ROOT / 'tools/lineage_audit.py', ROOT / 'tools/workcfg.py',
              ROOT / 'tools/validate_song.py', ROOT / 'tools/proof_record.py', ROOT / 'tools/scholar.py',
+             SCHEMA_PATH,
              *sorted((ROOT / 'schemas').glob('*.py'))]
     files += [ROOT / work / 'data' / f'{song}.{name}.json' for name in (*LAYERS, 'signoff')]
     files += [ROOT / work / 'proof' / f'proof-{song}.json', ROOT / 'source-maps' / f'{work}.json']
@@ -366,9 +393,11 @@ def audit(work: str, target: str, bench_root: Path, openpatala_root: Path,
                    'publication_authorized': False},
         'overall': 'INCOMPLETE',
         'auditor_sha256': digest(Path(__file__).read_bytes()),
+        'schema_sha256': digest(SCHEMA_PATH.read_bytes()),
         'hash_scheme': 'sha256 over UTF-8; JSON uses sorted keys, compact separators, ensure_ascii=false',
     }
     result['receipt_sha256'] = object_sha(result)
+    validate_receipt(result)
     return result
 
 
@@ -402,6 +431,7 @@ def main(argv=None) -> int:
                 print(encoded, end='')
         else:
             saved = json.loads(args.receipt.read_bytes())
+            validate_receipt(saved)
             receipt_sha = saved.pop('receipt_sha256', None)
             if saved.get('format') != FORMAT or object_sha(saved) != receipt_sha:
                 raise AuditError('receipt digest or format does not match')
