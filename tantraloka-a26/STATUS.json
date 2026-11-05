@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a26",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a26 done)",
  "counts": {
-  "passages": 8,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 601,
+  "l4_drafts": 76,
+  "l4_with_craft": 76,
+  "passages": 1,
   "verses": 76
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a26-raw.jsonl",
- "r2_bytes": 41599,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "8 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a37 (85u).",
+ "notes": "GOLD #71 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 26 (sesavr tti, remaining observance; 76u, 601tok) via workcfg taloka. L0 601 PARSED, 0 forks / argmaps 76/76 (sha f43f940a537b29be, PASS) / validate 0 / proof PASS (align 1.0) / qa NEEDS_WITNESS. C2 waived. Pradipaka ch26 + Yogawiki Teil 3 + Dyczkowski Vol 9 lore.",
+ "rasa": "śānta (tranquility) with adbhuta weight (rest in the installed form; wonder at the rite)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a26"
 }
