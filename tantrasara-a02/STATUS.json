@@ -1,1 +1,20 @@
-{"counts": {"l4_drafts": 4, "l4_with_craft": 4, "passages": 1, "verses": 4}, "needs": ["citation-grounding (pre-existing, GATE.json)", "first-verse L4 voice verdict (owner)", "human-review (machine-proposed)"], "next": "Owner: first-verse L4 voice verdict (tsa-a02-v01) + human review. Beauty-pass queue next: pancashloki (item 2).", "notes": "Beauty-pass item 1 (2026-11-04, machine-proposed): 4 per-verse L4 DRAFTs built from data lines verbatim (provenance gap closed — previously 0 DRAFTs); craft_notes + reads_against on all 4; draft-vs-data 0 mismatched; c1.NOTE written; validate 0 errors; qa NEEDS_WITNESS (no witness vendored); check.py CANONICAL 0 failures. Pre-existing, untouched: proof BLOCKED on ALIGN_NODISP (T1-vs-source fuzzy <0.90, needs --disp disposition; legacy T1 gloss style) and v04 data form label 'couplet' on four lines (flagged in v04 craft_notes for owner; lines untouched). C2 waived per owner 2026-11-04 (existing eli5/genz renders stay).", "updated": "2026-11-04", "work": "tantrasara-a02"}
+{
+ "counts": {
+  "l4_drafts": 4,
+  "l4_with_craft": 4,
+  "passages": 1,
+  "verses": 4,
+  "l0_parsed": 72,
+  "l0_ambiguous": 0,
+  "l0_failed": 0
+ },
+ "needs": [
+  "citation-grounding (pre-existing, GATE.json)",
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed)"
+ ],
+ "next": "Owner: first-verse L4 voice verdict (tsa-a02-v01) + human review. Beauty-pass queue next: pancashloki (item 2).",
+ "notes": "Beauty-pass item 1 (2026-11-04, machine-proposed): 4 per-verse L4 DRAFTs built from data lines verbatim (provenance gap closed — previously 0 DRAFTs); craft_notes + reads_against on all 4; draft-vs-data 0 mismatched; c1.NOTE written; validate 0 errors; qa NEEDS_WITNESS (no witness vendored); check.py CANONICAL 0 failures. Pre-existing, untouched: proof BLOCKED on ALIGN_NODISP (T1-vs-source fuzzy <0.90, needs --disp disposition; legacy T1 gloss style) and v04 data form label 'couplet' on four lines (flagged in v04 craft_notes for owner; lines untouched). C2 waived per owner 2026-11-04 (existing eli5/genz renders stay).",
+ "updated": "2026-11-04",
+ "work": "tantrasara-a02"
+}

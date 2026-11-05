@@ -5,10 +5,11 @@
  "counts": {
   "passages": 1,
   "verses": 5,
-  "l0_tokens": 233,
-  "l0_parsed": 232,
-  "gate_pass": 0,
-  "gate_blocked": 1
+  "l0_parsed": 238,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l4_drafts": 5,
+  "l4_with_craft": 5
  },
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a01-raw.jsonl",
  "r2_verified": true,
