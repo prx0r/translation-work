@@ -38,12 +38,12 @@ canonical target = `chunk_id` **without** suffix (matches passages.jsonl and
 ## 3. What is NOT done (in order, with recipes)
 
 1. **PROOFS (the gate to everything).** `proof/README.md` has the full recipe.
-   Short version: per-chunk byte spans already exist inside
-   `published/pt-passage-*.json` (`source.start/end/text`, `vol` = M00020/21/22)
-   → run `tools/intake.py` per volume against the on-disk source files → add an
-   `ipvv` entry to `tools/workcfg.py` (source, `song_verses`, `source_spans`,
-   song = chunk id) → `python3 tools/proof_record.py --song <chunk> --work ipvv`.
-   **Do not hand-write PASS records.** Until then emit correctly withholds all 49.
+    CORRECTION 2026-11-05 (verified: chunkA `start 200/end 600`, text 27,723 B /
+    401 lines, vol1 552,940 B — NOT byte offsets): treat bundled `start/end` as
+    legacy coordinates, not intake spans. Follow the migration contract
+    (TECHNICAL-SPEC §2: preserve bundle+hash, line-sequence match, no universal
+    +4, chunk = 1+ spans, versioned add-source path) — NOT "run intake per
+    volume" blindly. **Do not hand-write PASS records.** Until then emit correctly withholds all 49.
 2. **L0 contract conversion.** R2 tarballs are crown-build *line-level* rows
    (`{id, chunk_id, line_id, source_text, literal_gloss, …}`), not the contract
    token rows (`{id, verse_id, pada_index, surface, citation, options, chosen_index}`).
