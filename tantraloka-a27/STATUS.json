@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a27",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a27 done)",
  "counts": {
-  "passages": 6,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 461,
+  "l4_drafts": 59,
+  "l4_with_craft": 59,
+  "passages": 1,
   "verses": 59
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a27-raw.jsonl",
- "r2_bytes": 31245,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "6 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a21 (61 units).",
+ "notes": "GOLD #67 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 27 (liṅga-pūjā, installation rite; 59u, 461tok) via workcfg taloka. L0 461 tok 100%% PARSED stem-level (fused 5-8-way compounds; @ = elided-a; 0 forks) / T1 / argmaps 59/59 (sha 15ee6b8b7f061e5e, PASS, 0 shared) / L2 59 cites 59/59 / C1 essence 59 (0 quotes/shared/meta; 1806 words warning only, precedent a22) + 7-part + rasa śānta-adbhuta + NOTE / L3 59 couplets+singles 0 shared vs L2 (1 L2-L3 shared, not gated) no slashes / L4 59 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v01) PENDING owner; OPEN: human review; C2 waived. Long compounds flagged; Yogawiki German + Pradipaka + Dyczkowski Vol 6 lore.",
+ "rasa": "śānta with adbhuta weight (rest in the installed form; wonder at the liṅga-rite)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a27"
 }
