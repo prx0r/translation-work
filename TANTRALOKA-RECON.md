@@ -1,57 +1,61 @@
-# TANTRALOKA RECON — all 37 āhnikas (2026-11-06)
+# TANTRALOKA RECON — all 37 āhnikas (2026-11-06, parser fixed 2026-11-07)
 
 *Recon = spans verified + counted + registered + assessed. No translation yet.
-Parser: `tools/workcfg.py::parse_taloka` (`[AbhT_A.V]` markers; `::CN` headers,
-C6/C7 split across two lines handled). Source: GRETIL KSTS tantraloka.txt
-(17,642 lines, 5860 verses). Legacy: frozen batch-era T1.md per ahnika
+Parser: `tools/workcfg.py::parse_taloka` (`[AbhT_A.V]` markers; `:CN`
+single-colon headers skipped — they leaked into v1 buffers before the fix;
+unmarked `/ 0b` topic lines carved as verse 0). Source: GRETIL KSTS
+tantraloka.txt (17,642 lines, 5864 units = 5860 numbered verses + 4 carved
+v00s; a03 v00 marked in source). Legacy: frozen batch-era T1.md per ahnika
 (2026-10-31, 10-verse passages, BLOCKED gates) — frozen, never edit.*
 
 ## Master table (parsed vs legacy; all match except noted)
 
-| Ahnika | Verses | Tokens | Avg | Legacy T1 | Passages | Flags |
+| Ahnika | Units | Tokens | Avg | Legacy T1 | Passages | Flags |
 |---|---|---|---|---|---|---|
-| a01 | 333 | 2461 | 7.4 | 334 claimed | 34 | OFF-BY-ONE: legacy header says 334 |
-| a02 | 50 | 413 | 8.3 | 50 | 5 | clean |
-| a03 | 295 | 2315 | 7.8 | 295 | 30 | verse 0b present (intro half-verse); spans keyed 0–294 |
-| a04 | 279 | 2235 | 8.0 | 279 | 28 | clean |
-| a05 | 159 | 1154 | 7.3 | 159 | 16 | clean |
-| a06 | 252 | 2001 | 7.9 | 252 | 26 | clean |
-| a07 | 71 | 576 | 8.1 | 71 | 8 | clean |
-| a08 | 452 | 3563 | 7.9 | 452 | 46 | clean |
-| a09 | 314 | 2614 | 8.3 | 314 | 32 | clean |
-| a10 | 310 | 2561 | 8.3 | 310 | 31 | clean |
-| a11 | 118 | 944 | 8.0 | 118 | 12 | clean |
-| a12 | 26 | 208 | 8.0 | 26 | 3 | clean |
-| a13 | 362 | 2895 | 8.0 | 362 | 37 | clean |
-| a14 | 47 | 366 | 7.8 | 47 | 5 | clean |
-| a15 | 613 | 4776 | 7.8 | 613 | 62 | LARGEST |
-| a16 | 311 | 2319 | 7.5 | 311 | 32 | clean |
-| a17 | 122 | 934 | 7.7 | 122 | 13 | clean |
-| a18 | 11 | 108 | 9.8 | 11 | 2 | longer verses (mixed meter?) |
-| a19 | 56 | 457 | 8.2 | 56 | 6 | clean |
-| a20 | 16 | 122 | 7.6 | 16 | 2 | clean |
-| a21 | 61 | 464 | 7.6 | 61 | 7 | clean |
-| a22 | 48 | 374 | 7.8 | 48 | 5 | clean |
-| a23 | 103 | 814 | 7.9 | 103 | 11 | clean |
-| a24 | 24 | 176 | 7.3 | 24 | 3 | clean |
-| a25 | 29 | 241 | 8.3 | 29 | 3 | clean |
-| a26 | 76 | 605 | 8.0 | 76 | 8 | clean |
-| a27 | 59 | 465 | 7.9 | 59 | 6 | clean |
-| a28 | 435 | 3469 | 8.0 | 435 | 44 | clean |
-| a29 | 292 | 2294 | 7.9 | 292 | 30 | Kaula rite (hard content) |
-| a30 | 123 | 950 | 7.7 | 123 | 13 | clean |
-| a31 | 164 | 1338 | 8.2 | 164 | 17 | clean |
-| a32 | 68 | 566 | 8.3 | 68 | 7 | clean |
-| a33 | 32 | 235 | 7.3 | 32 | 4 | clean |
-| a34 | 4 | 28 | 7.0 | 4 | 1 | SMALLEST — pilot candidate |
-| a35 | 44 | 345 | 7.8 | 44 | 5 | clean |
-| a36 | 16 | 135 | 8.4 | 16 | 2 | clean |
-| a37 | 85 | 772 | 9.1 | 85 | 9 | longer verses (mixed meter?) |
-| Total | 5860 | — | — | — | — | — |
+| a01 | 333 | 2455 | 7.4 | 334 claimed | 34 | RESOLVED: parser 333 = GRETIL numbering; legacy header 334 (1 extra) frozen, not fixed |
+| a02 | 50 | 406 | 8.1 | 50 | 5 | clean |
+| a03 | 295 | 2312 | 7.8 | 295 | 30 | verse 0b present (marked [AbhT_3.0]) — spans keyed 0–294, v00 translated with work |
+| a04 | 279 | 2231 | 8.0 | 279 | 28 | clean |
+| a05 | 159 | 1150 | 7.2 | 159 | 16 | clean |
+| a06 | 252 | 1998 | 7.9 | 252 | 26 | clean |
+| a07 | 71 | 573 | 8.1 | 71 | 8 | clean |
+| a08 | 452 | 3559 | 7.9 | 452 | 46 | clean |
+| a09 | 314 | 2611 | 8.3 | 314 | 32 | clean |
+| a10 | 310 | 2557 | 8.2 | 310 | 31 | clean |
+| a11 | 118 | 940 | 8.0 | 118 | 12 | clean |
+| a12 | 26 | 204 | 7.8 | 26 | 3 | clean |
+| a13 | 362 | 2891 | 8.0 | 362 | 37 | clean |
+| a14 | 47 | 362 | 7.7 | 47 | 5 | clean |
+| a15 | 613 | 4772 | 7.8 | 613 | 62 | LARGEST |
+| a16 | 311 | 2315 | 7.4 | 311 | 32 | clean |
+| a17 | 122 | 930 | 7.6 | 122 | 13 | clean |
+| a18 | 11 | 104 | 9.5 | 11 | 2 | longer verses (mixed meter?) |
+| a19 | 56 | 453 | 8.1 | 56 | 6 | clean |
+| a20 | 16 | 118 | 7.4 | 16 | 2 | clean |
+| a21 | 61 | 460 | 7.5 | 61 | 7 | clean |
+| a22 | 48 | 370 | 7.7 | 48 | 5 | clean |
+| a23 | 103 | 810 | 7.9 | 103 | 11 | clean |
+| a24 | 24 | 172 | 7.2 | 24 | 3 | clean |
+| a25 | 29 | 237 | 8.2 | 29 | 3 | clean |
+| a26 | 76 | 601 | 7.9 | 76 | 8 | clean |
+| a27 | 59 | 461 | 7.8 | 59 | 6 | clean |
+| a28 | 435 | 3465 | 8.0 | 435 | 44 | clean |
+| a29 | 292 | 2290 | 7.8 | 292 | 30 | Kaula rite (hard content) |
+| a30 | 123 | 946 | 7.7 | 123 | 13 | clean |
+| a31 | 164 | 1334 | 8.1 | 164 | 17 | clean |
+| a32 | 69 | 561 | 8.1 | 68 | 7 | v00 topic line carved (atha kathaye mudrāṇāṃ…) — spans keyed 0–68 |
+| a33 | 33 | 230 | 7.0 | 32 | 4 | v00 topic line carved (athāvasarasaṃprāpta ekīkāro…) — spans keyed 0–32 |
+| a34 | 5 | 23 | 4.6 | 4 | 1 | SMALLEST — pilot candidate; v00 topic line carved (ucyate…svasvarūpapraveśaḥ…) — spans 0–4 |
+| a35 | 44 | 341 | 7.8 | 44 | 5 | clean |
+| a36 | 17 | 130 | 7.6 | 16 | 2 | v00 topic line carved (āyātiratha śāstrasya…) — spans keyed 0–16 |
+| a37 | 85 | 768 | 9.0 | 85 | 9 | longer verses (mixed meter?) |
+| Total | 5864 | — | — | — | — | — |
 
-Uniform anuṣṭubh śloka profile (median 7–8 tokens/verse). No verse-number gaps
-anywhere. No duplicate numbers (a03's 295 = keys 0–294, verse 0b = intro
-half-verse `atha paraupayikaṃ praṇigadyate…`, keep as v00, do not renumber).
+Units = numbered verses + carved v00 topic lines (a03 marked in source;
+a32/a33/a34/a36 carved by parser, songs lists start at 0). Uniform anuṣṭubh
+śloka profile (median 7–8 tokens/verse). No verse-number gaps. a01: parser
+333 = GRETIL numbering — the old 334-vs-333 discrepancy was header leakage
+into v1, resolved by the fix.
 
 ## Meter notes (from token-length distribution)
 
@@ -63,15 +67,15 @@ assume.
 
 ## Difficulty tiers (size-led; content flags noted)
 
-- XS (≤30v): a34(4), a18(11), a20(16), a36(16), a24(24), a12(26), a25(29).
-  Pilot tier. a34 is 4 verses — first transform candidate.
-- S (30–70): a33(32), a35(44), a14(47), a22(48), a02(50), a19(56), a27(59),
-  a21(61), a32(68).
+- XS (≤30u): a34(5u: v00+4), a18(11), a20(16), a36(17u: v00+16), a24(24), a12(26), a25(29).
+  Pilot tier. a34 is 4 verses + topic line — first transform candidate.
+- S (30–70): a33(33u: v00+32), a35(44), a14(47), a22(48), a02(50), a19(56), a27(59),
+  a21(61), a32(69u: v00+68).
 - M (70–150): a07(71), a26(76), a37(85), a23(103), a11(118), a17(122),
   a30(123).
 - L (150–320): a05(159), a31(164), a06(252), a04(279), a29(292 + Kaula-rite
   content-hard), a03(295 + verse-0), a10(310), a16(311), a09(314).
-- XL (330+): a01(333 + off-by-one), a13(362), a28(435), a08(452),
+- XL (330+): a01(333, off-by-one resolved by parser fix), a13(362), a28(435), a08(452),
   a15(613, the campaign's Everest).
 
 Content-hard flags (from tradition, to confirm with lore at transform time):
@@ -123,16 +127,16 @@ topics enunciation vv279–333).
 
 ## Transform order (owner goal: shortest-first, a34 → … → a15)
 
-a34(4) → a18(11) → a20(16) → a36(16) → a24(24) → a12(26) → a25(29) →
-a33(32) → a35(44) → a14(47) → a22(48) → a02(50) → a19(56) → a27(59) →
-a21(61) → a32(68) → a07(71) → a26(76) → a37(85) → a23(103) → a11(118) →
+a34(5) → a18(11) → a20(16) → a36(17) → a24(24) → a12(26) → a25(29) →
+a33(33) → a35(44) → a14(47) → a22(48) → a02(50) → a19(56) → a27(59) →
+a21(61) → a32(69) → a07(71) → a26(76) → a37(85) → a23(103) → a11(118) →
 a17(122) → a30(123) → a05(159) → a31(164) → a06(252) → a04(279) →
 a29(292) → a03(295) → a10(310) → a16(311) → a09(314) → a01(333) →
 a13(362) → a28(435) → a08(452) → a15(613).
 
 ## Registration (workcfg, kind=taloka, songs tsa-aNN)
 
-Batches: A (a01–12), B (a13–25), C (a26–37). Song id form `tsa-aNN`
+Batches: A (a01–12), B (a13–25), C (a26–37). Song id form `tal-aNN`
 (one song per ahnika, verse-addressed data objects like tantrasara golds).
 Do NOT touch legacy files.
 
@@ -143,5 +147,6 @@ Do NOT touch legacy files.
    be hosted — rights; Lakshmanjoo-style notes don't exist for TAL)? If none,
    all proofs carry NEEDS_WITNESS honestly.
 3. a18/a37 mixed-meter question can wait until transform (scansion then).
-4. a01 334-vs-333: legacy header counts 334, GRETIL numbers 333 — record as
-   boundary, do not "fix" either side.
+4. a01 334-vs-333 RESOLVED 2026-11-07: the phantom 334th was `:C`/`:E`
+   header leakage into v1 (parser bug, fixed). Parser 333 = GRETIL numbering.
+   Legacy T1.md header still claims 334 — frozen, not fixed.

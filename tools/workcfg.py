@@ -455,21 +455,21 @@ WORKS = {
     },
     "tantraloka-a32": {
         "source": SITE_SA / "tantraloka.txt",
-        "kind": "taloka",  # ahnika 32: 68 verses
+        "kind": "taloka",  # ahnika 32: 68 verses + v00 topic line
         "ahnika": 32,
-        "songs": {"tal-a32": (1, 68)},
+        "songs": {"tal-a32": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68]},
     },
     "tantraloka-a33": {
         "source": SITE_SA / "tantraloka.txt",
-        "kind": "taloka",  # ahnika 33: 32 verses
+        "kind": "taloka",  # ahnika 33: 32 verses + v00 topic line
         "ahnika": 33,
-        "songs": {"tal-a33": (1, 32)},
+        "songs": {"tal-a33": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]},
     },
     "tantraloka-a34": {
         "source": SITE_SA / "tantraloka.txt",
-        "kind": "taloka",  # ahnika 34: 4 verses
+        "kind": "taloka",  # ahnika 34: 4 verses + v00 topic line
         "ahnika": 34,
-        "songs": {"tal-a34": (1, 4)},
+        "songs": {"tal-a34": [0, 1, 2, 3, 4]},
     },
     "tantraloka-a35": {
         "source": SITE_SA / "tantraloka.txt",
@@ -479,9 +479,9 @@ WORKS = {
     },
     "tantraloka-a36": {
         "source": SITE_SA / "tantraloka.txt",
-        "kind": "taloka",  # ahnika 36: 16 verses
+        "kind": "taloka",  # ahnika 36: 16 verses + v00 topic line
         "ahnika": 36,
-        "songs": {"tal-a36": (1, 16)},
+        "songs": {"tal-a36": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]},
     },
     "tantraloka-a37": {
         "source": SITE_SA / "tantraloka.txt",
@@ -1394,9 +1394,13 @@ def parse_taloka(source: Path) -> tuple[dict[tuple[int, int], tuple[list[str], l
     """Parse GRETIL Tantraloka (`[AbhT_A.V]` verse markers, śloka text).
 
     Returns (ahnika, num) -> (tokens, [first_ln, marker_ln]). Ahnika tracked
-    via `::CN ...āhnikam` headers (C6/C7 split across two lines). Each verse
-    takes all non-empty lines since the previous marker. Pāda marks (|, /)
-    and `//` comments stripped; wrap-hyphen continuations joined.
+    via `:CN ...āhnikam` single-colon headers (plus markers as fallback).
+    Single-colon rubric lines (`:T` title, `:CN` chapter headers, `:E`
+    end-colophons) are skipped, never verse text. Unmarked `/ 0b` topic
+    lines (ahnika pratijñā, cf. marked `[AbhT_3.0]`) flush as verse 0.
+    Each verse takes all non-empty lines since the previous marker. Pāda
+    marks (|, /), `//` comments and the `/ 0b` tail stripped;
+    wrap-hyphen continuations joined.
     """
     raw = source.read_text(encoding="utf-8").splitlines()
     units: dict[tuple[int, int], tuple[list[str], list[int]]] = {}
@@ -1424,9 +1428,12 @@ def parse_taloka(source: Path) -> tuple[dict[tuple[int, int], tuple[list[str], l
         t = line.strip()
         if not t or t.startswith("###"):
             continue
-        m = re.match(r"^::C(\d+)\b", t)
+        m = re.match(r"^:([A-Z])", t)
         if m:
-            ahnika = int(m.group(1))
+            if m.group(1) == "C":
+                cm = re.match(r"^:C(\d+)\b", t)
+                if cm:
+                    ahnika = int(cm.group(1))
             continue
         m = re.search(r"\[AbhT_(\d+)\.(\d+)\]\s*$", t)
         if m:
@@ -1437,6 +1444,12 @@ def parse_taloka(source: Path) -> tuple[dict[tuple[int, int], tuple[list[str], l
             if a != ahnika:
                 ahnika = a
             flush(ln, (ahnika, int(m.group(2))))
+            buf = []
+        elif re.search(r"/\s*0b\s*$", t):
+            pre = re.sub(r"/\s*0b\s*$", "", t).strip()
+            if pre:
+                buf.append((ln, pre))
+            flush(ln, (ahnika, 0))
             buf = []
         else:
             buf.append((ln, t))
