@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:svatantrya:schema:lineage-audit:3-prose",
+  "title": "Svatantrya lineage audit receipt, version 3-prose (commentary chunks)",
+  "description": "Structural envelope only, for prose chunk IDs resolved by tools/passage_adapter.py. Verse receipts stay on v2. A receipt is not a signature, a semantic proof, or an authorization to publish.",
+  "type": "object",
+  "required": [
+    "format",
+    "scope",
+    "source",
+    "translation",
+    "benchmark",
+    "reader_projection",
+    "essay",
+    "claims",
+    "overall",
+    "auditor_sha256",
+    "adapter_sha256",
+    "schema_sha256",
+    "hash_scheme",
+    "receipt_sha256"
+  ],
+  "properties": {
+    "format": {"type": "string", "enum": ["svatantrya-lineage-audit/3-prose"]},
+    "scope": {
+      "type": "object",
+      "required": ["work", "song", "target", "candidate_layer", "passage_kind"],
+      "properties": {
+        "work": {"type": "string", "minLength": 1},
+        "song": {"type": "string", "minLength": 1},
+        "target": {"type": "string", "minLength": 1},
+        "candidate_layer": {"type": "string", "enum": ["l2"]},
+        "passage_kind": {"type": "string", "enum": ["prose"]}
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["repository_file", "openpatala", "extracted_verse_sha256", "extraction", "byte_exact_span"],
+      "properties": {
+        "repository_file": {
+          "type": "object",
+          "required": ["commit", "path", "sha256"],
+          "properties": {
+            "commit": {"type": "string", "minLength": 40},
+            "path": {"type": "string", "minLength": 1},
+            "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+          }
+        },
+        "openpatala": {
+          "type": "object",
+          "required": ["status"],
+          "properties": {"status": {"type": "string", "enum": ["NOT_MAPPED_FOR_PROSE"]}}
+        },
+        "extracted_verse_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+        "extraction": {"type": "string", "minLength": 1},
+        "byte_exact_span": {
+          "type": "object",
+          "required": ["start", "end", "vol_lines", "legacy_coords"],
+          "properties": {
+            "start": {"type": "integer", "minimum": 0},
+            "end": {"type": "integer", "minimum": 1},
+            "vol_lines": {"type": "array", "minItems": 2, "maxItems": 2, "items": {"type": "integer", "minimum": 1}},
+            "legacy_coords": {"type": "array"}
+          }
+        }
+      }
+    },
+    "translation": {
+      "type": "object",
+      "required": ["layers", "historical_record", "structural_validation"],
+      "properties": {
+        "layers": {"type": "object"},
+        "historical_record": {
+          "type": "object",
+          "required": ["status"],
+          "properties": {"status": {"type": "string", "enum": ["PROSE_NO_VERSE_PROOF"]}}
+        },
+        "structural_validation": {
+          "type": "object",
+          "required": ["status"],
+          "properties": {"status": {"type": "string", "enum": ["NOT_APPLICABLE_FOR_PROSE"]}}
+        }
+      }
+    },
+    "benchmark": {
+      "type": "object",
+      "required": ["usage"],
+      "properties": {"usage": {"type": "string", "enum": ["NOT_RUN_FOR_PROSE"]}}
+    },
+    "reader_projection": {
+      "type": "object",
+      "required": ["status"],
+      "properties": {"status": {"type": "string", "enum": ["WITHHELD"]}}
+    },
+    "essay": {
+      "type": "object",
+      "required": ["status"],
+      "properties": {"status": {"type": "string", "enum": ["NOT_REQUESTED"]}}
+    },
+    "claims": {
+      "type": "object",
+      "required": ["semantic_fidelity", "publication_authorized"],
+      "properties": {
+        "semantic_fidelity": {"type": "string", "enum": ["UNKNOWN"]},
+        "publication_authorized": {"type": "boolean", "enum": [false]}
+      }
+    },
+    "overall": {"type": "string", "enum": ["INCOMPLETE"]}
+  }
+}

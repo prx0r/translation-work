@@ -21,6 +21,8 @@ import workcfg
 
 FORMAT = 'svatantrya-lineage-audit/2'
 SCHEMA_PATH = ROOT / 'schemas/lineage-audit-v2.schema.json'
+PROSE_FORMAT = 'svatantrya-lineage-audit/3-prose'
+PROSE_SCHEMA_PATH = ROOT / 'schemas/lineage-audit-v3-prose.schema.json'
 BENCH_COMMIT = 'cb5981b66fb7fc7a3bd8636352588bd8a4c42cad'
 BENCH_SHA = '8549018f1db7e4e1835f4007163cdd4cc5771699d335cf05c503e316b15682fa'
 LAYERS = ('t1', 'l0', 'argmap', 'l2', 'c1', 'l3', 'l4', 'c2')
@@ -44,10 +46,21 @@ def object_sha(obj) -> str:
 
 
 def validate_receipt(value: dict) -> None:
-    """Validate the published structural subset and the SHA-256 field syntax."""
+    """Validate the published structural subset and the SHA-256 field syntax.
+
+    Verse (/2) and prose (/3-prose) receipts validate against their own
+    schema file. Neither format is accepted by the other's schema.
+    """
     if not isinstance(value, dict):
         raise AuditError('receipt must be an object')
-    schema_bytes = SCHEMA_PATH.read_bytes()
+    fmt = value.get('format')
+    if fmt == PROSE_FORMAT:
+        schema_path = PROSE_SCHEMA_PATH
+    elif fmt == FORMAT:
+        schema_path = SCHEMA_PATH
+    else:
+        raise AuditError('receipt.format must be a known lineage audit format')
+    schema_bytes = schema_path.read_bytes()
     schema = json.loads(schema_bytes)
     errors = scholar.layer_registry.structural_errors(value, schema, 'receipt')
     if value.get('schema_sha256') != digest(schema_bytes):
@@ -254,7 +267,8 @@ def historical_citation(commit: str, work: str, song: str, target: str, expected
 
 def translation_revision(work: str, song: str, essay_path: Path | None) -> dict:
     """Record the last commit touching audit inputs and flag any local modifications."""
-    files = [ROOT / 'tools/lineage_audit.py', ROOT / 'tools/workcfg.py',
+    files = [ROOT / 'tools/lineage_audit.py', ROOT / 'tools/passage_adapter.py',
+             ROOT / 'tools/workcfg.py',
              ROOT / 'tools/validate_song.py', ROOT / 'tools/proof_record.py', ROOT / 'tools/scholar.py',
              SCHEMA_PATH,
              *sorted((ROOT / 'schemas').glob('*.py'))]
@@ -321,6 +335,50 @@ def audit(work: str, target: str, bench_root: Path, openpatala_root: Path,
           essay_path: Path | None = None, projection_path: Path | None = None) -> dict:
     if not re.fullmatch(r'[a-z0-9][a-z0-9_-]{0,79}', work):
         raise AuditError('invalid work')
+    if work == 'ipvv':
+        # Prose path: adapter only. No verse proof is consulted or reused;
+        # layers resolve from ipvv/data when present, else incomplete.
+        import passage_adapter
+        try:
+            adapted = passage_adapter.resolve(work, target)
+        except passage_adapter.AdapterError as exc:
+            raise AuditError(str(exc)) from exc
+        span = adapted['spans'][0]
+        vol = adapted['source_versions'][0]
+        vol_recorded = committed_file(ROOT.parent / vol['file'])
+        result = {
+            'format': PROSE_FORMAT,
+            'scope': {'work': work, 'song': adapted['song'], 'target': target,
+                      'candidate_layer': 'l2', 'passage_kind': 'prose'},
+            'source': {'repository_file': vol_recorded,
+                       'openpatala': {'status': 'NOT_MAPPED_FOR_PROSE',
+                                      'note': 'GRETIL candidate maps are verse-work scoped; no IPVV dossier claimed'},
+                       'extracted_verse_sha256': span['text_sha256'],
+                       'extraction': 'published bundle text, line-sequence matched live; legacy coords untrusted',
+                       'byte_exact_span': {'start': span['start'], 'end': span['end'],
+                                           'vol_lines': span['vol_lines'],
+                                           'legacy_coords': span['legacy_coords']}},
+            'translation': {'layers': adapted['layer_objects'],
+                            'historical_record': {'status': 'PROSE_NO_VERSE_PROOF',
+                                'note': 'Verse proofs never apply to commentary chunks. Proofs stay BLOCKED until intake + L0 contract + proof_record per chunk.'},
+                            'structural_validation': {'status': 'NOT_APPLICABLE_FOR_PROSE'}},
+            'benchmark': {'usage': 'NOT_RUN_FOR_PROSE',
+                          'note': 'Advisory bench needs contract T1/L0 rows; frozen T1 md is not contract input.'},
+            'reader_projection': {'status': 'WITHHELD',
+                'note': 'IPVV emits withhold all 49 until gold-lane proofs PASS.'},
+            'essay': {'status': 'NOT_REQUESTED'},
+            'claims': {'semantic_fidelity': 'UNKNOWN', 'full_source_coverage': 'UNKNOWN',
+                       'witness_authenticated': 'UNKNOWN', 'human_review': 'UNKNOWN',
+                       'publication_authorized': False},
+            'overall': 'INCOMPLETE',
+            'auditor_sha256': digest(Path(__file__).read_bytes()),
+            'adapter_sha256': digest((ROOT / 'tools/passage_adapter.py').read_bytes()),
+            'schema_sha256': digest(PROSE_SCHEMA_PATH.read_bytes()),
+            'hash_scheme': 'sha256 over UTF-8; JSON uses sorted keys, compact separators, ensure_ascii=false',
+        }
+        result['receipt_sha256'] = object_sha(result)
+        validate_receipt(result)
+        return result
     match = re.fullmatch(r'([a-z0-9][a-z0-9_-]*)-v(\d+)', target)
     if not match:
         raise AuditError('target must be a song verse ID, for example param-p01-v01')
@@ -433,7 +491,7 @@ def main(argv=None) -> int:
             saved = json.loads(args.receipt.read_bytes())
             validate_receipt(saved)
             receipt_sha = saved.pop('receipt_sha256', None)
-            if saved.get('format') != FORMAT or object_sha(saved) != receipt_sha:
+            if saved.get('format') not in (FORMAT, PROSE_FORMAT) or object_sha(saved) != receipt_sha:
                 raise AuditError('receipt digest or format does not match')
             scope = saved['scope']
             essay = saved['essay'].get('path')

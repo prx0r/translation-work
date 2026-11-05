@@ -10,10 +10,45 @@ from unittest.mock import patch
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
 import lineage_audit as audit
+import passage_adapter as adapter
 
 BENCH = ROOT.parent / 'sanskritbench-audit'
 OPENPATALA = ROOT.parent / 'openpatala-audit'
 ESSAY = ROOT / 'paramarthasara/scholar/essays/62e62283ac8d5aa4a927ecbdcc064eeac4a38d8291a5dcd39db976f1b794e51b.json'
+IPVV_VOL1 = ROOT.parent / 'ipvv/site/data/sanskrit/ipvv-vol1.txt'
+
+NEEDS_IPVV_VOL = unittest.skipUnless(
+    IPVV_VOL1.is_file(), 'requires the ipvv volume sibling')
+
+
+class PassageAdapterTests(unittest.TestCase):
+    def test_unknown_prose_chunk_is_rejected(self):
+        with self.assertRaises(adapter.AdapterError):
+            adapter.resolve('ipvv', 'no-such-chunk')
+
+    def test_verse_id_is_never_a_prose_chunk(self):
+        # A verse proof must never resolve as a commentary chunk.
+        with self.assertRaises(adapter.AdapterError):
+            adapter.resolve('ipvv', 'param-p01-v01')
+
+    @NEEDS_IPVV_VOL
+    def test_prose_chunkA_resolves_pinned_bytes(self):
+        for pid in ('chunkA-svatyandya', 'chunkA-svatyandya.md'):
+            r = adapter.resolve('ipvv', pid)
+            self.assertEqual(r['kind'], 'prose')
+            self.assertEqual(r['source_evidence_state'], 'CANDIDATE_LINE_MATCH')
+            self.assertEqual((r['spans'][0]['start'], r['spans'][0]['end']),
+                             (10902, 38625))
+
+    @NEEDS_IPVV_VOL
+    def test_prose_audit_is_incomplete_never_pass(self):
+        r = audit.audit('ipvv', 'chunkA-svatyandya', BENCH, OPENPATALA)
+        self.assertEqual(r['format'], audit.PROSE_FORMAT)
+        self.assertEqual(r['scope'].get('passage_kind'), 'prose')
+        self.assertEqual(r['overall'], 'INCOMPLETE')
+        self.assertEqual(r['translation']['historical_record']['status'],
+                         'PROSE_NO_VERSE_PROOF')
+        self.assertFalse(r['claims']['publication_authorized'])
 
 
 class LineageUnitTests(unittest.TestCase):
