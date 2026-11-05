@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a20",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a20 done)",
  "counts": {
-  "passages": 2,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 118,
+  "l4_drafts": 16,
+  "l4_with_craft": 16,
+  "passages": 1,
   "verses": 16
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a20-raw.jsonl",
- "r2_bytes": 8529,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "2 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a36 (17 units incl. v00).",
+ "notes": "GOLD #56 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 20 (tulāśuddhi/sapratyayā dīkṣā, proof-bearing initiation; 16u, 118tok) via workcfg taloka. L0 118 tok 100%% PARSED stem-level (fused 5-/7-way compounds; @ = elided-a; 0 forks) / T1 / argmaps 16/16 (sha 327b4668f7960cfa, PASS, 0 shared) / L2 16 cites 16/16 / C1 essence 16 (0 quotes/shared/meta) + 7-part + rasa adbhuta-vīra + NOTE / L3 16 couplets 0 shared no slashes / L4 16 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v01) PENDING owner; OPEN: human review; C2 waived. Savya kept left (secondary 'right' noted slip); dehagrahatirohiteḥ ablative; phalātsādhyam compression flagged.",
+ "rasa": "adbhuta with vīra weight (wonder at visible proof; resolve to demonstrate)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a20"
 }
