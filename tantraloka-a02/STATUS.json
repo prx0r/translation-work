@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a02",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a02 done)",
  "counts": {
-  "passages": 5,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 406,
+  "l4_drafts": 50,
+  "l4_with_craft": 50,
+  "passages": 1,
   "verses": 50
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a02-raw.jsonl",
- "r2_bytes": 26789,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "5 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a19 (56 units).",
+ "notes": "GOLD #65 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 2 (anupāya, the means-less; 50u, 406tok) via workcfg taloka. L0 406 tok 100%% PARSED stem-level (fused 4-5-way compounds; @ = elided-a; 0 forks) / T1 / argmaps 50/50 (sha 938a495d0653e49c, PASS, 0 shared) / L2 50 cites 50/50 / C1 essence 50 (0 quotes/shared/meta; 1159 words warning only, precedent a22) + 7-part + rasa jñāna-adbhuta + NOTE / L3 50 couplets+singles 0 shared vs L2, no slashes / L4 50 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v01) PENDING owner; OPEN: human review; C2 waived. V12 and v39 long lines kept; print junctions flagged. Opens anupāya arc (a02 is the second ahnika).",
+ "rasa": "jñāna with adbhuta weight (knowledge as the means-less; wonder at the pathless)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a02"
 }
