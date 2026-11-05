@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 101,
- "gold": 58,
+ "gold": 59,
  "partial": 0,
- "pending": 43,
+ "pending": 42,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -577,12 +577,12 @@
   },
   {
    "work": "tantraloka-a25",
-   "status": "recon complete (pending transformation, shortest-first queue)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 334-vs-333 noted; a03 verse-0 kept). Registered in workcfg kind=taloka. Queue: shortest-first per owner goal."
+   "status": "gold (machine-proposed, needs human review)",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 29,
+   "note": "GOLD #60 2026-11-07: śrāddha ancestor offerings, 29u/237tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a26",
