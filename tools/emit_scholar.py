@@ -243,6 +243,25 @@ def build(work: str) -> dict:
     }
     if work in SOURCE_COVERAGE_HOLDS:
         doc['withheld_reason'] = SOURCE_COVERAGE_HOLDS[work]
+    try:
+        from pathlib import Path as _P
+        _rec = _P(__file__).resolve().parent.parent / work / 'source' / 'record.json'
+        _om = _P(__file__).resolve().parent.parent / 'source-maps' / 'openpatala.json'
+        if _rec.is_file():
+            _r = json.loads(_rec.read_text(encoding='utf-8'))
+            _o = {}
+            try:
+                _o = json.loads(_om.read_text(encoding='utf-8')).get('works', {}).get(work, {})
+            except (OSError, ValueError):
+                pass
+            if _r.get('status') == 'RECORDED':
+                doc['source_ref'] = {
+                    'record_sha256': sch.sha(_r),
+                    'mapping_status': _o.get('mapping_status', 'UNMAPPED'),
+                    'note': 'uniform source record + openpatala mapping; edition candidate, witness UNKNOWN',
+                }
+    except (OSError, ValueError):
+        pass
     doc["projection_sha256"] = sch.sha(doc)
     return doc
 

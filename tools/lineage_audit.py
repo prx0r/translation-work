@@ -124,32 +124,49 @@ def load_benchmark(bench_root: Path):
 
 
 def source_candidate(work: str, source_path: Path, openpatala_root: Path) -> dict:
-    mapping = ROOT / 'source-maps' / f'{work}.json'
-    if not mapping.exists():
-        return {'status': 'UNMAPPED', 'witness': 'UNKNOWN'}
+    """Candidate mapping via the openpatala bridge (mapping file + record).
+
+    Same receipt shape as the legacy per-work map path: UNMAPPED stays
+    UNMAPPED; CANDIDATE binds committed dossier bytes + source bytes.
+    """
+    import openpatala_bridge as bridge
     try:
-        spec = json.loads(mapping.read_bytes())
-        if spec.get('format') != 'openpatala-source-candidate/1' or spec.get('work') != work:
-            raise AuditError('invalid source candidate map')
-        source = source_path.read_bytes()
-        if digest(source) != spec['source_file_sha256'] or spec['source_header'] not in source.decode('utf-8').splitlines():
-            raise AuditError('source file no longer matches the candidate map')
+        resolved = bridge.resolve(work)
+        verdict = bridge.verify(work)
+    except bridge.BridgeError as exc:
+        raise AuditError(f'openpatala bridge unavailable: {exc}') from exc
+    mapping = resolved['mapping']
+    if mapping.get('mapping_status') != 'CANDIDATE':
+        return {'status': 'UNMAPPED', 'witness': 'UNKNOWN'}
+    if verdict['status'] != 'CONSISTENT':
+        raise AuditError('bridge inconsistent: ' + '; '.join(verdict['blocking']))
+    try:
         base = openpatala_root.resolve(strict=True)
-        dossier = (base / spec['openpatala_dossier']).resolve(strict=True)
+        dossier = Path(mapping['dossier']['path'])
+        if not dossier.is_absolute():
+            dossier = base / dossier
+        dossier = dossier.resolve(strict=True)
         dossier.relative_to(base)
         raw = dossier.read_bytes()
-        if digest(raw) != spec['openpatala_dossier_sha256']:
+        if digest(raw) != mapping['dossier']['sha256']:
             raise AuditError('OpenPāṭala dossier does not match the pinned digest')
         data = json.loads(raw)
-        expected = (spec['external_identifier_scheme'], spec['external_identifier'])
+        expected = tuple(mapping['external_identifier'])
         ids = {(x.get('scheme'), x.get('identifier')) for x in data.get('external_identifiers', [])}
-        if data.get('work_id') != spec['openpatala_work_id'] or expected not in ids:
+        if data.get('work_id') != mapping.get('openpatala_work_id') or expected not in ids:
             raise AuditError('OpenPāṭala work or external identifier does not match')
+        source = source_path.read_bytes()
+        record = resolved.get('record') or {}
+        vols = {v.get('file', '').split('/')[-1]: v for v in record.get('volumes', [])}
+        match = vols.get(source_path.name) or vols.get(Path(mapping.get('source_file', '')).name)
+        if match is not None and digest(source) != match.get('sha256'):
+            raise AuditError('source file no longer matches the recorded bytes')
         recorded = committed_file(dossier)
         languages = sorted({str(x.get('literal')) for x in data.get('assertions', [])
                             if x.get('predicate') == 'LANGUAGE'})
+        map_bytes = (ROOT / 'source-maps' / 'openpatala.json').read_bytes()
         return {'status': 'CANDIDATE', 'witness': 'UNKNOWN', 'edition_verified': False,
-                'map_sha256': digest(mapping.read_bytes()), 'dossier': recorded,
+                'map_sha256': digest(map_bytes), 'dossier': recorded,
                 'work_id': data['work_id'], 'external_identifier': list(expected),
                 'language_assertions': languages,
                 'language_conflict': bool(languages and 'sa' not in languages)}
@@ -273,7 +290,10 @@ def translation_revision(work: str, song: str, essay_path: Path | None) -> dict:
              SCHEMA_PATH,
              *sorted((ROOT / 'schemas').glob('*.py'))]
     files += [ROOT / work / 'data' / f'{song}.{name}.json' for name in (*LAYERS, 'signoff')]
-    files += [ROOT / work / 'proof' / f'proof-{song}.json', ROOT / 'source-maps' / f'{work}.json']
+    files += [ROOT / work / 'proof' / f'proof-{song}.json',
+              ROOT / 'source-maps' / 'openpatala.json',
+              ROOT / work / 'source' / 'record.json',
+              ROOT / 'tools' / 'openpatala_bridge.py']
     if essay_path:
         files.append(essay_path.resolve())
     relative = [p.relative_to(ROOT).as_posix() for p in files if p.is_file()]
@@ -346,13 +366,23 @@ def audit(work: str, target: str, bench_root: Path, openpatala_root: Path,
         span = adapted['spans'][0]
         vol = adapted['source_versions'][0]
         vol_recorded = committed_file(ROOT.parent / vol['file'])
+        try:
+            import openpatala_bridge as _bridge
+            _mapping = _bridge.resolve(work)['mapping']
+            _openpatala = {'status': 'NOT_MAPPED_FOR_PROSE',
+                            'mapping_status': _mapping.get('mapping_status', 'UNMAPPED'),
+                            'evidence_refs': _mapping.get('evidence_refs', []),
+                            'note': ('no IPVV dossier claimed; bridge mapping: '
+                                     + str(_mapping.get('mapping_status', 'UNMAPPED')))}
+        except Exception:
+            _openpatala = {'status': 'NOT_MAPPED_FOR_PROSE',
+                           'note': 'GRETIL candidate maps are verse-work scoped; no IPVV dossier claimed'}
         result = {
             'format': PROSE_FORMAT,
             'scope': {'work': work, 'song': adapted['song'], 'target': target,
                       'candidate_layer': 'l2', 'passage_kind': 'prose'},
             'source': {'repository_file': vol_recorded,
-                       'openpatala': {'status': 'NOT_MAPPED_FOR_PROSE',
-                                      'note': 'GRETIL candidate maps are verse-work scoped; no IPVV dossier claimed'},
+                       'openpatala': _openpatala,
                        'extracted_verse_sha256': span['text_sha256'],
                        'extraction': 'published bundle text, line-sequence matched live; legacy coords untrusted',
                        'byte_exact_span': {'start': span['start'], 'end': span['end'],

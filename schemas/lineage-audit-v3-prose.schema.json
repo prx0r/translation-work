@@ -49,7 +49,11 @@
         "openpatala": {
           "type": "object",
           "required": ["status"],
-          "properties": {"status": {"type": "string", "enum": ["NOT_MAPPED_FOR_PROSE"]}}
+          "properties": {
+            "status": {"type": "string", "enum": ["NOT_MAPPED_FOR_PROSE"]},
+            "mapping_status": {"type": "string"},
+            "evidence_refs": {"type": "array"}
+          }
         },
         "extracted_verse_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
         "extraction": {"type": "string", "minLength": 1},

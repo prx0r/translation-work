@@ -1,0 +1,50 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 74865,
+ "content_sha256": "b584f3586ddde17f2a3207584eae9c703e3baddee013e38d32d365dc86eaa985",
+ "edition": {
+  "label": "Muktabodha M00244 (Laksmana Raina / Lakshman Joo ed., Kashmir Pratap Steam Press 1933; IAST transliteration, Kashmir recension with extra verses)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "MUKHABODHA:M00244"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "gitarthasangraha-b584f3586ddde17f",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 74865,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "4da9deb9a46b2db9c4c1218b48797276496a6a9c14427293a537a4e77c4a857a",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "gitarthasangraha"
+}

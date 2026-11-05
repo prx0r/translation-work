@@ -1,0 +1,50 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "GRETIL",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 7156,
+ "content_sha256": "c1626483370d9c43d068257f1146e8bcc79c68dc355ef2674d156f5308f9fd0b",
+ "edition": {
+  "label": "Provenance: GRETIL · CC BY-NC-SA 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": "bc9afd20e686e74bdf19d6f2c193ef72a7c772cb4e147adb4b651b28d254b3a2",
+  "evidence_refs": [
+   "GRETIL-mention:sa_abhinavagupta-kramastotra"
+  ],
+  "mapping_status": "CANDIDATE",
+  "scope": "work",
+  "work_id": "PTCND_sa_abhinavagupta-kramastotra"
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "kramastotra-c1626483370d9c43",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 7156,
+   "file": "../ipvv/site/data/sanskrit/kramastotra.txt",
+   "gaps": 2,
+   "overlaps": 0,
+   "sha256": "dd647991e9912047622ececf84d4c8668fa0675f3e84256394a90022b3afe4e4",
+   "spans": 30,
+   "spans_manifest": "source/volumes/kramastotra.json",
+   "vol": "kramastotra"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "kramastotra"
+}

@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "Mukhabodha",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 39585,
+ "content_sha256": "8e935c8f660b433304a2dcf6ad7ff0b80293b635890445987652d53445f6c6e7",
+ "edition": {
+  "label": "Provenance: Mukhabodha M00023 (KSTS 34) · CC BY-NC 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "isvarasiddhi-8e935c8f660b4333",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 39585,
+   "file": "../ipvv/site/data/sanskrit/isvarasiddhi.txt",
+   "gaps": 23,
+   "overlaps": 0,
+   "sha256": "13e95f5635203784efc97b90b60122f1c1c019e67f9fe01acb01908f4f64c9f0",
+   "spans": 56,
+   "spans_manifest": "source/volumes/isvarasiddhi.json",
+   "vol": "isvarasiddhi"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "isvarasiddhi"
+}

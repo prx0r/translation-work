@@ -1,0 +1,50 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "GRETIL",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 2190,
+ "content_sha256": "42eed6bf831a11dbe34e18d76c6908b125f6b5d2428322b64acab19ca404be87",
+ "edition": {
+  "label": "Provenance: GRETIL · CC BY-NC-SA 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "GRETIL-mention:sa_abhinavagupta-bodhapaJcadazikA"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "bodhapancadasika-42eed6bf831a11db",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 2190,
+   "file": "../ipvv/site/data/sanskrit/abhinavagupta-bodhapaJcadasika.txt",
+   "gaps": 2,
+   "overlaps": 0,
+   "sha256": "924003d32f9c53a1af1185fa42f1334f87afd574a121be36d80c2b8a200d0757",
+   "spans": 15,
+   "spans_manifest": "source/volumes/abhinavagupta-bodhapaJcadasika.json",
+   "vol": "abhinavagupta-bodhapaJcadasika"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "bodhapancadasika"
+}

@@ -1,0 +1,50 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "GRETIL",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 6932,
+ "content_sha256": "b3c6750e3b9d4bec9a65bed1ba595412edac36d6278cf9785f42d688aead8eb4",
+ "edition": {
+  "label": "Provenance: GRETIL · CC BY-NC-SA 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "GRETIL-mention:sa_kSemarAja-bhairavAnukaraNastotra"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "bhairavanukarana-b3c6750e3b9d4bec",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 6932,
+   "file": "../ipvv/site/data/sanskrit/ksemaraja-bhairavanukarana.txt",
+   "gaps": 1,
+   "overlaps": 0,
+   "sha256": "e6766709029b851d292732b362bb8edcb68cdce86575e6edaa2c91a4d4a13df6",
+   "spans": 48,
+   "spans_manifest": "source/volumes/ksemaraja-bhairavanukarana.json",
+   "vol": "ksemaraja-bhairavanukarana"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "bhairavanukarana"
+}

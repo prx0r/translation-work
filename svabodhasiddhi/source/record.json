@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 3435,
+ "content_sha256": "4ba89d6df67b9a68323d632a2a2dd1ab2a1ce060f893043639378a17c1486a64",
+ "edition": {
+  "label": "GRETIL (Hanneder ZDMG 2017), 33 verses",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA per intake manifest (study-only)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "svabodhasiddhi-4ba89d6df67b9a68",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 3435,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "a30923267707ff60427b040eb8193a12a6949e429e253411e135877d8007188d",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "svabodhasiddhi"
+}

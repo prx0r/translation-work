@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 1239,
+ "content_sha256": "5234d670de58ef0b742ba43c4104eac7da31559a98fe8a8136db018398e8d0c3",
+ "edition": {
+  "label": "sanskritdocuments.org rahasyapanchadashikA (Ruma Dewan input/proofread from Abhinavastotravali print, Jan 2022; 16v incl. colophon-verse v16; wrap-hyphens joined, whitespace normalized, print variants excluded — all flagged in lore)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "no licence statement in source header — treat as ALL-RIGHTS-RESERVED until confirmed",
+  "status": "UNKNOWN"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "rahasyapanchadashika-5234d670de58ef0b",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 1239,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "ba8d43d3a0abb937597dbc72e1e445d8a52a50c61fc90243d2e1aecba71355bc",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "rahasyapanchadashika"
+}

@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 7793,
+ "content_sha256": "72de0749c6d76fb9d39c011ff208a685c3aa92113c1f87945a35c12fc39ab986",
+ "edition": {
+  "label": "GRETIL Kaul Shastri 1925 (sūtra mūla only, 75 sūtras: I.1-20 II.1-10 III.1-45; vārttika verses excluded)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA per intake manifest (study-only)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "sivasutra-72de0749c6d76fb9",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 7793,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "8b355f6f2e34436991dc2232030f74d7b5c13804422a9037dd8153caa5e13e50",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "sivasutra"
+}

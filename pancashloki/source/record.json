@@ -1,0 +1,51 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "in-repo-staged",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 4320,
+ "content_sha256": "67dca8cc1b87f24e77154af4dd2f475471700ceb5380bdb0b6ad847c64734774",
+ "edition": {
+  "label": "Pañcaślokī — T1 frozen 2026-10-31",
+  "status": "staged-prior-translation"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "SANSKRITDOCUMENTS:edition-cited-in-header"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "staged prior translation, machine-proposed; not a source edition",
+  "status": "OUR-DRAFT-UNREVIEWED"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "pancashloki-67dca8cc1b87f24e",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 4320,
+   "file": "pancashloki/T1.md",
+   "gaps": "",
+   "note": "staged reading doc, not byte-mapped; translation layers trace here until a source edition is intaked",
+   "overlaps": "",
+   "sha256": "699f1db9c54d3a102f80a38c00fa62a75ef8345e46b7e646fec33c1f138e5dfa",
+   "spans": "",
+   "spans_manifest": "",
+   "vol": "staged"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "pancashloki"
+}

@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 2403,
+ "content_sha256": "457e66e6835fef863f59915fffef6d5864412be1c9b9f98a5175f2ac052dfb3f",
+ "edition": {
+  "label": "GRETIL (Zaidoo ed. 1947), file 4_rellit/saiva/sa_somAnanda-zAktavijJAna.txt (Somananda Saktavijnana, 30 verses)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA per intake manifest (study-only)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "saktavijnana-457e66e6835fef86",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 2403,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "265b89675aa836ab29b03732d3a50da8705ce3b0299270475a4c49b61e25dbbf",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "saktavijnana"
+}

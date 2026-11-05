@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 1549,
+ "content_sha256": "415508aa18f07af461f4db3d89df97102a672950ec4f9f675583b28b506854d8",
+ "edition": {
+  "label": "sanskritdocuments.org mahopadeshaviMshatikam (Ruma Dewan input/proofread from Abhinavastotravali print, Dec 2021; 20v; wrap-hyphens joined, trailing print variants excluded+flagged in lore)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "no licence statement in source header — treat as ALL-RIGHTS-RESERVED until confirmed",
+  "status": "UNKNOWN"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "mahopadeshavimshatika-415508aa18f07af4",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 1549,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "29d7b1a2b9214bef0039118baa5b567fcfc64d08ad0c7b7ed36b342a98970145",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "mahopadeshavimshatika"
+}

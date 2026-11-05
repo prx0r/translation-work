@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 3682,
+ "content_sha256": "7e64582bca974e9141dbef5d7a843420a0ded6cd154ec1b3e85ac781cfaa243b",
+ "edition": {
+  "label": "GRETIL (sa_parAtriMzikA), 36 verses (2 uvāca speaker-tags excluded from edition, documented in lore)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA per intake manifest (study-only)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "paratrimshika-7e64582bca974e91",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 3682,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "d97151d15722b5b547f64ce528ddf73949afafd96ec755cdfbb0f5dc235ec02e",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "paratrimshika"
+}

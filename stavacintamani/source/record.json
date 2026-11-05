@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 9793,
+ "content_sha256": "bfd6f0c10ef4db39fb7b21ef38f63fd1bc9d613677b6b8bff77130b31295ab0b",
+ "edition": {
+  "label": "GRETIL bhnstcau.htm (Mukunda Rama Shastri KSTS X, Harunaga Isaacson 2002, unproofread) + M00089 collation",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "no licence statement in source header — treat as ALL-RIGHTS-RESERVED until confirmed",
+  "status": "UNKNOWN"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "stavacintamani-bfd6f0c10ef4db39",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 9793,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "1cd6902315a444c5c7c4771c92c968cfed42f4f07126fdad2348d96975936b0d",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "stavacintamani"
+}

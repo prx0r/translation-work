@@ -1,0 +1,50 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "GRETIL",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 12247,
+ "content_sha256": "baaa8ad7b52c8868739d93113d557a20badf6ef2cf5fdf90e6dd80604f9895eb",
+ "edition": {
+  "label": "Provenance: GRETIL KSTS 34 · CC BY-NC-SA 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "GRETIL-mention:sa_utpaladeva-ajaDapramAtRsiddhi"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "ajadapramatrsiddhi-baaa8ad7b52c8868",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 12247,
+   "file": "../ipvv/site/data/sanskrit/ajadapramatrsiddhi.txt",
+   "gaps": 27,
+   "overlaps": 0,
+   "sha256": "c40f4e11545065b2acf905d3fd365dd3e18b99170918a276927b0cd8e978f161",
+   "spans": 27,
+   "spans_manifest": "source/volumes/ajadapramatrsiddhi.json",
+   "vol": "ajadapramatrsiddhi"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "ajadapramatrsiddhi"
+}

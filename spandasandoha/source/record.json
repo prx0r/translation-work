@@ -1,0 +1,51 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "in-repo-staged",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 1277,
+ "content_sha256": "80be356ac464b9a12ea7f3c79fa646de8bb0df92b12651f8a503839ec9db72a6",
+ "edition": {
+  "label": "Spandasandoha — T1 frozen 2026-11-01",
+  "status": "staged-prior-translation"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "MUKHABODHA:M00084"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "staged prior translation, machine-proposed; not a source edition",
+  "status": "OUR-DRAFT-UNREVIEWED"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "spandasandoha-80be356ac464b9a1",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 1277,
+   "file": "spandasandoha/T1.md",
+   "gaps": "",
+   "note": "staged reading doc, not byte-mapped; translation layers trace here until a source edition is intaked",
+   "overlaps": "",
+   "sha256": "86fbc04aa15199e072635fa0af0a23848708449a172fc2af4cd2a70c2a308405",
+   "spans": "",
+   "spans_manifest": "",
+   "vol": "staged"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "spandasandoha"
+}

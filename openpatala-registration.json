@@ -1,0 +1,2930 @@
+{
+ "format": "svatantrya-openpatala-registration-proposal/1",
+ "note": "PROPOSAL only — openpatala availability is a Postgres projection; nothing here edits their data. Tiers: A = human-reviewed gold, B = machine-proposed gold, C = staged/legacy incl. IPVV (unproven), D = not started. complete=true only when every data song carries a PASS proof.",
+ "works": [
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "abhinavabharati",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "GRETIL-mention:sa_utpaladeva-ajaDapramAtRsiddhi"
+    ]
+   },
+   "key": "ajadapramatrsiddhi",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "SANSKRITDOCUMENTS:edition-cited-in-header"
+    ]
+   },
+   "key": "anubhavanivedana",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "anuttarastika",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "GRETIL-mention:sa_kSemarAja-bhairavAnukaraNastotra"
+    ]
+   },
+   "key": "bhairavanukarana",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "MUKHABODHA:M00505"
+    ]
+   },
+   "key": "bhairavastava",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-bodhapaJcadazikA"
+    ]
+   },
+   "key": "bodhapancadasika",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "GRETIL-mention:sa_kSemarAja-bodhavilAsa"
+    ]
+   },
+   "key": "bodhavilasa",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "dehastha",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "GRETIL-mention:sa_ghaTakarparakAvya-comm"
+    ]
+   },
+   "key": "ghatakarpara",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "MUKHABODHA:M00244"
+    ]
+   },
+   "key": "gitarthasangraha",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "ipvv",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "ipvv-vivrti-vimarsini",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "isvarasiddhi",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "bc9afd20e686e74bdf19d6f2c193ef72a7c772cb4e147adb4b651b28d254b3a2",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-kramastotra"
+    ]
+   },
+   "key": "kramastotra",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-kramastotra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "lalded",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "mahopadeshavimshatika",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "malinivijayavarttika",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "nundrishi",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "SANSKRITDOCUMENTS:edition-cited-in-header"
+    ]
+   },
+   "key": "pancashloki",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "SANSKRITDOCUMENTS:edition-cited-in-header"
+    ]
+   },
+   "key": "paramarthacarca",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "paramarthadvadasika",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "06aff5d6bfc29972a75d3ebeed03a096d75368705643bd5b80785130d9cf1354",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-paramArthasAra"
+    ]
+   },
+   "key": "paramarthasara",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-paramArthasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "parapravesika",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "paratrimshika",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "parmanand",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-paryantapaJcAzikA"
+    ]
+   },
+   "key": "paryantapancasika",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "GRETIL-mention:sa_kSemarAja-pratyabhijJAhRdaya"
+    ]
+   },
+   "key": "phrdaya",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "ptvmadhyama",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "rahasyapanchadashika",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "rupabhavani",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "saktavijnana",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "sambandhasiddhi",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "santosh",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "GRETIL-mention:sa_utpaladeva-zivastotrAvali"
+    ]
+   },
+   "key": "sivastotravali",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "sivasutra",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "sivasutravimarsini",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "spanda",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": [
+     "MUKHABODHA:M00084"
+    ]
+   },
+   "key": "spandasandoha",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "stavacintamani",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "svabodhasiddhi",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a01",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a02",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a03",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a04",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a05",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a06",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a07",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a08",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a09",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a10",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a11",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a12",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a13",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a14",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a15",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a16",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a17",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a18",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a19",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a20",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a21",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a22",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a23",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a24",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a25",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a26",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a27",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a28",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a29",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a30",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a31",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a32",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a33",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a34",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a35",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a36",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tantraloka-a37",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "LEGACY_PRESENT",
+    "l2": "LEGACY_PRESENT",
+    "next_action": "BUILD_L0_SOURCE_MODE",
+    "t1": "LEGACY_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": false,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "no contract rows yet",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "C",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a01",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a02",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a03",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a04",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a05",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a06",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a07",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a08",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a09",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a10",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a11",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a12",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a13",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a14",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a15",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a16",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a17",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a18",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a19",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a20",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a21",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+    "evidence_refs": [
+     "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+    ]
+   },
+   "key": "tantrasara-a22",
+   "mapping_status": "CANDIDATE",
+   "openpatala_work_id": "PTCND_sa_abhinavagupta-tantrasAra",
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "B",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "tattvasandoha",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "NOT_STARTED",
+    "l2": "NOT_STARTED",
+    "next_action": "ACQUIRE_SOURCE",
+    "t1": "NOT_STARTED"
+   },
+   "proposed_translation": null,
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  },
+  {
+   "evidence": {
+    "dossier_sha256": null,
+    "evidence_refs": []
+   },
+   "key": "vbt",
+   "mapping_status": "UNMAPPED",
+   "openpatala_work_id": null,
+   "proposed_factory": {
+    "c1": "MODERN_PRESENT",
+    "l2": "MODERN_PRESENT",
+    "next_action": null,
+    "t1": "MODERN_PRESENT"
+   },
+   "proposed_translation": {
+    "complete": true,
+    "copyright_hint": "UNDETERMINED (our English per emit rights is free use; source Sanskrit is NC-licensed; confirm per work before commercial use)",
+    "coverage": "all data songs",
+    "language": "en",
+    "source": "translation-work (this proposal)",
+    "tier": "A",
+    "translator": "translation-work gold lane (machine-proposed until human review signs off)",
+    "type": "scholarly",
+    "url": null,
+    "url_note": "served from svread Scholar hub (/data/scholar/<work>.json); deployment URL varies — resolve at ingest; reader verifies projection_sha256"
+   },
+   "rights_note": "source Sanskrit NC (GRETIL/Mukhabodha); our English free-use per emit; commercial use needs per-work confirmation",
+   "witness": "UNKNOWN"
+  }
+ ]
+}

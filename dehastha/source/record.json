@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 1269,
+ "content_sha256": "b96764f4cf6411777d68c023489ecf5a30dd2627054661a0a9606a6ea50b08cb",
+ "edition": {
+  "label": "sanskritdocuments.org dehasthadevatAchakrastotram (Ruma Dewan input/proofread from Abhinavastotravali print, Dec 2021 update; 16v: v1 deho-devālayaḥ maṅgala + vv2-16 deity-circle; v1-absent + 4/5-swap variants noted in lore)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "no licence statement in source header — treat as ALL-RIGHTS-RESERVED until confirmed",
+  "status": "UNKNOWN"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "dehastha-b96764f4cf641177",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 1269,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "aa0f9b572cbfe7b940d43fa940511704143c3735ebd572c6bfe0a172b881cf49",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "dehastha"
+}

@@ -1,0 +1,50 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "GRETIL",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 129411,
+ "content_sha256": "21715d9d9f233b322ea2ebea5e1a78d903200dfba4987706b9cf5e9c44e9ac7d",
+ "edition": {
+  "label": "Provenance: GRETIL Nirnaya Sagara 1918 KSTS 17 · CC BY-NC-SA 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": "6ae449cb9638014ffa43df22d1863e6054d1ffaca7ce7324067977a3b7a621b3",
+  "evidence_refs": [
+   "GRETIL-mention:sa_abhinavagupta-tantrasAra"
+  ],
+  "mapping_status": "CANDIDATE",
+  "scope": "part",
+  "work_id": "PTCND_sa_abhinavagupta-tantrasAra"
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "tantrasara-a20-21715d9d9f233b32",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 129411,
+   "file": "../ipvv/site/data/sanskrit/tantrasara.txt",
+   "gaps": 2,
+   "overlaps": 0,
+   "sha256": "329925603922aef093a08ff11209fca3ec14b50f94721e3f4bf299fdc912d62f",
+   "spans": 65,
+   "spans_manifest": "source/volumes/tantrasara.json",
+   "vol": "tantrasara"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "tantrasara-a20"
+}

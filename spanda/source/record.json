@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 2599,
+ "content_sha256": "b2be9a845b7a6655e72e7a5788959dacab695ddb66b34003d2384efd1b5c3d5c",
+ "edition": {
+  "label": "GRETIL sa_vasugupta-spandakArikA, Prathama Niḥṣyanda vv1-25 (later niḥṣyandas out of scope; legacy 6-passage ranges superseded, documented in lore)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA per intake manifest (study-only)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "spanda-b2be9a845b7a6655",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 2599,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "98daaa8051b9cfe9fb031fe17588c4583edc8ffc7077e29052327a123b2d3ac1",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "spanda"
+}

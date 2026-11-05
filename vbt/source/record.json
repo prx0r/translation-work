@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 16927,
+ "content_sha256": "8922ea7ab7e6662927a56be41d0430591a0784904421a7e805e6769e65a2deb1",
+ "edition": {
+  "label": "GRETIL sa_vijJAnabhairava, full tantra vv1-162 (17 songs ~10v each; uvāca tags excluded, documented in lore)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA per intake manifest (study-only)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "vbt-8922ea7ab7e66629",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 16927,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "9231778a8794c2326f1df273be597648b2c6830b0441f36bb16bdbeb756bda18",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "vbt"
+}

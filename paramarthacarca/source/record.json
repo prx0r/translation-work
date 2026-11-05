@@ -1,0 +1,51 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "in-repo-staged",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 4383,
+ "content_sha256": "d24900d97547577b38264dd6f7f3cea61f1a82133a862ea5306f120934bfc3e0",
+ "edition": {
+  "label": "Paramārthacarcā — T1 frozen 2026-11-01",
+  "status": "staged-prior-translation"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "SANSKRITDOCUMENTS:edition-cited-in-header"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "staged prior translation, machine-proposed; not a source edition",
+  "status": "OUR-DRAFT-UNREVIEWED"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "paramarthacarca-d24900d97547577b",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 4383,
+   "file": "paramarthacarca/T1.md",
+   "gaps": "",
+   "note": "staged reading doc, not byte-mapped; translation layers trace here until a source edition is intaked",
+   "overlaps": "",
+   "sha256": "ff7495798d202aba1a47df828b63adb903f78cdf85fae820b12ead651c11c232",
+   "spans": "",
+   "spans_manifest": "",
+   "vol": "staged"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "paramarthacarca"
+}

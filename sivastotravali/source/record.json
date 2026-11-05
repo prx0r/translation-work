@@ -1,0 +1,50 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "GRETIL",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 63982,
+ "content_sha256": "6275d365323939323538d1ac5d56fe464cc39859c56ab7ada91c4877523cdf80",
+ "edition": {
+  "label": "Provenance: GRETIL (Bailly ed.) · CC BY-NC-SA 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "GRETIL-mention:sa_utpaladeva-zivastotrAvali"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "sivastotravali-6275d36532393932",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 63982,
+   "file": "../ipvv/site/data/sanskrit/sivastotravali-u.txt",
+   "gaps": 20,
+   "overlaps": 0,
+   "sha256": "b916b98ff819aed4e7d19ebadfcf9308d9dde89dd3e8ddaa7952621db9769a3d",
+   "spans": 450,
+   "spans_manifest": "source/volumes/sivastotravali-u.json",
+   "vol": "sivastotravali-u"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "sivastotravali"
+}

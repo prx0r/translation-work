@@ -1,0 +1,68 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "Mukhabodha",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 2072502,
+ "content_sha256": "54ee42f93d300b06ffe6cece3f644d14edf55cc4722e320a06fd73ef497bf01b",
+ "edition": {
+  "label": "Mukhabodha M00020/21/22 (Torella IPK base); Torella alignment unverified",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC 4.0 per volume headers (study-only; no commercial reuse)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "ipvv-54ee42f93d300b06",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 552940,
+   "file": "../ipvv/site/data/sanskrit/ipvv-vol1.txt",
+   "gaps": 2,
+   "overlaps": 9,
+   "sha256": "5dbfb51e094b9b76514a3b1582c39fc30ea92a48eb64b8257c70a78000b76761",
+   "spans": 14,
+   "spans_manifest": "source/volumes/M00020.json",
+   "vol": "M00020"
+  },
+  {
+   "bytes": 786724,
+   "file": "../ipvv/site/data/sanskrit/ipvv-vol2.txt",
+   "gaps": 1,
+   "overlaps": 16,
+   "sha256": "d0356e3737b52fc41a7b4442867fb2a647dbb3eb6420d53fa2b3817297b8bcbb",
+   "spans": 19,
+   "spans_manifest": "source/volumes/M00021.json",
+   "vol": "M00021"
+  },
+  {
+   "bytes": 732838,
+   "file": "../ipvv/site/data/sanskrit/ipvv-vol3.txt",
+   "gaps": 3,
+   "overlaps": 10,
+   "sha256": "4884a6710ff5662da9cfa33ecd988c288c3cfbb732299288475fb9865add60d3",
+   "spans": 16,
+   "spans_manifest": "source/volumes/M00022.json",
+   "vol": "M00022"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "ipvv"
+}

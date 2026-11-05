@@ -1,0 +1,49 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "in-repo-staged",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 6307,
+ "content_sha256": "8c7ced7d52cf9a7a68639a3a4879aebdd790ce0886afde692ce3e3d9354e09bd",
+ "edition": {
+  "label": "Anuttarāṣṭikā — T1 frozen 2026-10-30",
+  "status": "staged-prior-translation"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "staged prior translation, machine-proposed; not a source edition",
+  "status": "OUR-DRAFT-UNREVIEWED"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "anuttarastika-8c7ced7d52cf9a7a",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 6307,
+   "file": "anuttarastika/T1.md",
+   "gaps": "",
+   "note": "staged reading doc, not byte-mapped; translation layers trace here until a source edition is intaked",
+   "overlaps": "",
+   "sha256": "036e3d11f86702b010a8608733604d652773e78866445ad0a9420e0fa37012ad",
+   "spans": "",
+   "spans_manifest": "",
+   "vol": "staged"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "anuttarastika"
+}

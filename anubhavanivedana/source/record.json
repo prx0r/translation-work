@@ -1,0 +1,51 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "in-repo-staged",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 3521,
+ "content_sha256": "2f93bf744a7747b666881ca595e97ba8a76f3a0fc53b7c2620b6bfa1202ce813",
+ "edition": {
+  "label": "Anubhavanivedana — T1 frozen 2026-11-01",
+  "status": "staged-prior-translation"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "SANSKRITDOCUMENTS:edition-cited-in-header"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "staged prior translation, machine-proposed; not a source edition",
+  "status": "OUR-DRAFT-UNREVIEWED"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "anubhavanivedana-2f93bf744a7747b6",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 3521,
+   "file": "anubhavanivedana/T1.md",
+   "gaps": "",
+   "note": "staged reading doc, not byte-mapped; translation layers trace here until a source edition is intaked",
+   "overlaps": "",
+   "sha256": "12e8102be204b789e574b4230115087d8522886eafcd74740f9c93112d597700",
+   "spans": "",
+   "spans_manifest": "",
+   "vol": "staged"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "anubhavanivedana"
+}

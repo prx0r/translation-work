@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "Mukhabodha",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 18038,
+ "content_sha256": "576ec4e8d7684a90d6a23def5228deefab2827f606af2426ea3ff5c7f37cfe46",
+ "edition": {
+  "label": "Provenance: Mukhabodha M00048 · CC BY-NC 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "parapravesika-576ec4e8d7684a90",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 18038,
+   "file": "../ipvv/site/data/sanskrit/parapravesika.txt",
+   "gaps": 2,
+   "overlaps": 2,
+   "sha256": "1cd0b97230a5b30b94ad819a8b3df661b1ac2b1e54e35d554b40bdfb76245868",
+   "spans": 9,
+   "spans_manifest": "source/volumes/parapravesika.json",
+   "vol": "parapravesika"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "parapravesika"
+}

@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 1034,
+ "content_sha256": "bed0974a88f1c1e4c83ab426f0243477117901c71e3fa18cab27906c67be6361",
+ "edition": {
+  "label": "F. Sferra Hamburg input (paramarthadvadasika, 13v + colophon attributing Abhinavagupta/Ramyadeva; wrap-hyphens joined per print lineation, flagged in lore; Abhinavastotravali print variants recorded separately)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "no licence statement in source header — treat as ALL-RIGHTS-RESERVED until confirmed",
+  "status": "UNKNOWN"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "paramarthadvadasika-bed0974a88f1c1e4",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 1034,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "81c0dd4a9dd2d2ec621bf37345ebb1d547bd7271561cbee43013cedff7e0c971",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "paramarthadvadasika"
+}

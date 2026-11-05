@@ -1,0 +1,51 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "in-repo-staged",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 4426,
+ "content_sha256": "6fea24e991c9be12eb9c2f181ffc09bab2af967f752d94b7c9a3849d65e5edfe",
+ "edition": {
+  "label": "Bhairavastava — T1 frozen 2026-10-30",
+  "status": "staged-prior-translation"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "MUKHABODHA:M00505"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "staged prior translation, machine-proposed; not a source edition",
+  "status": "OUR-DRAFT-UNREVIEWED"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "bhairavastava-6fea24e991c9be12",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 4426,
+   "file": "bhairavastava/T1.md",
+   "gaps": "",
+   "note": "staged reading doc, not byte-mapped; translation layers trace here until a source edition is intaked",
+   "overlaps": "",
+   "sha256": "c09cb62e000af8fbb888d06c44dbd8fb183ce8850e5c3a38c6cae43d7fb88a05",
+   "spans": "",
+   "spans_manifest": "",
+   "vol": "staged"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "bhairavastava"
+}

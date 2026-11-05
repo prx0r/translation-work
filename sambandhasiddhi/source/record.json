@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "Mukhabodha",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 20043,
+ "content_sha256": "81d32791d2c05e2ca917e92f1b6d873ead9787d27de3fc6fd86449039349c844",
+ "edition": {
+  "label": "Provenance: Mukhabodha M00080 · CC BY-NC 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "sambandhasiddhi-81d32791d2c05e2c",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 20043,
+   "file": "../ipvv/site/data/sanskrit/sambandhasiddhi.txt",
+   "gaps": 7,
+   "overlaps": 0,
+   "sha256": "fe2939ad65c0e96e76343e2de34594a463855be4aef8b8d48e639ec28e0ae54d",
+   "spans": 23,
+   "spans_manifest": "source/volumes/sambandhasiddhi.json",
+   "vol": "sambandhasiddhi"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "sambandhasiddhi"
+}

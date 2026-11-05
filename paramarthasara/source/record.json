@@ -1,0 +1,50 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "GRETIL",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 14247,
+ "content_sha256": "0d00f042991b0e9d954b5e6edce9a905eef69981b325825eb2e08f7482fe86b0",
+ "edition": {
+  "label": "Provenance: GRETIL KSTS 7 · CC BY-NC-SA 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": "06aff5d6bfc29972a75d3ebeed03a096d75368705643bd5b80785130d9cf1354",
+  "evidence_refs": [
+   "GRETIL-mention:sa_abhinavagupta-paramArthasAra"
+  ],
+  "mapping_status": "CANDIDATE",
+  "scope": "work",
+  "work_id": "PTCND_sa_abhinavagupta-paramArthasAra"
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "paramarthasara-0d00f042991b0e9d",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 14247,
+   "file": "../ipvv/site/data/sanskrit/paramarthasara.txt",
+   "gaps": 1,
+   "overlaps": 0,
+   "sha256": "7b21e2fe9906de69b03c9fe552ee761fc1649088beaf5c1a0ae9eccd6d15534e",
+   "spans": 105,
+   "spans_manifest": "source/volumes/paramarthasara.json",
+   "vol": "paramarthasara"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "paramarthasara"
+}

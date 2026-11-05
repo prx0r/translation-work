@@ -1,0 +1,48 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "intake-manifest",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 3649,
+ "content_sha256": "8222424e02808193c091ea198c9201a3aee09c838e5f85dce16b1c7a50c766f2",
+ "edition": {
+  "label": "Muktabodha M00044 (Lakṣmīrāma Vivṛti mūla), 35 verses; commentary prose, speaker tags, and cited variant excluded (documented in lore)",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "no licence statement in source header — treat as ALL-RIGHTS-RESERVED until confirmed",
+  "status": "UNKNOWN"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "ptvmadhyama-8222424e02808193",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 3649,
+   "file": "source/edition.txt",
+   "gaps": "",
+   "overlaps": "",
+   "sha256": "11ee3f5cd7701ee073759eb67aee4615f2e5c26dd07df55325100aae251a28a3",
+   "spans": "",
+   "spans_manifest": "source/manifest.json",
+   "vol": "main"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "ptvmadhyama"
+}

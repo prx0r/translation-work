@@ -1,0 +1,50 @@
+{
+ "acquisition": {
+  "acquired_by": "UNKNOWN",
+  "origin": "GRETIL",
+  "retrieved_at": "UNKNOWN (vendored before provenance logging; do not fabricate)"
+ },
+ "bytes": 32226,
+ "content_sha256": "08f37a68f2a8460e46eb9b07a93bd14bf950e04e1543b6795f4ee41869e89f13",
+ "edition": {
+  "label": "Provenance: GRETIL (Parlier ed., Abhinavagupta vivrti) · CC BY-NC-SA 4.0",
+  "status": "candidate"
+ },
+ "format": "svatantrya-source-record/1",
+ "openpatala": {
+  "dossier_sha256": null,
+  "evidence_refs": [
+   "GRETIL-mention:sa_ghaTakarparakAvya-comm"
+  ],
+  "mapping_status": "UNMAPPED",
+  "scope": "work",
+  "work_id": null
+ },
+ "rights": {
+  "statement_ref": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+  "status": "KNOWN-NC"
+ },
+ "selectors": {
+  "end": "exclusive",
+  "unit": "utf8-byte"
+ },
+ "source_id": "ghatakarpara-08f37a68f2a8460e",
+ "status": "RECORDED",
+ "volumes": [
+  {
+   "bytes": 32226,
+   "file": "../ipvv/site/data/sanskrit/ghatakarpara.txt",
+   "gaps": 22,
+   "overlaps": 0,
+   "sha256": "c3025effdb6ed0ea7eeb83fc3b5b4955aed8086bc5a8a9ee4646d689ffe73783",
+   "spans": 21,
+   "spans_manifest": "source/volumes/ghatakarpara.json",
+   "vol": "ghatakarpara"
+  }
+ ],
+ "witness": {
+  "id": null,
+  "status": "UNKNOWN"
+ },
+ "work": "ghatakarpara"
+}
