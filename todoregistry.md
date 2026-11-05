@@ -9,7 +9,7 @@ edit THIS file in the same commit — never leave it behind.*
 
 ## State snapshot (verified 2026-11-04, all committed)
 
-- **52 gold works** (REGISTRY.json: 101 works / 52 gold / 49 pending — tantrasara a22 #49 (53u/652tok, 8 forks) + a20 #50 (65u/889tok, 2 forks) + a06 #51 (82u/981tok, 2 forks) + a08 #52 (tattvasvarūpa 93u/1120tok, 4 forks, 7 L4 re-sung) GOLD 2026-11-05, plus all of the below from 2026-11-04 (tantrasara a10 #40 + a16 #41 + a11 #42 + a07 #43 + a14 #44 + a03 #45 + a05 #46 + a04 #47 + a09 #48 GOLD; P0 added
+- **53 gold works** (REGISTRY.json: 101 works / 53 gold / 48 pending — tantrasara a22 #49 (53u/652tok, 8 forks) + a20 #50 (65u/889tok, 2 forks) + a06 #51 (82u/981tok, 2 forks) + a08 #52 (tattvasvarūpa 93u/1120tok, 4 forks, 7 L4 re-sung) + a13 #53 (samaya 101u/1063tok, 4 forks, 4 L4 re-sung) GOLD 2026-11-05/06 — **TANTRASARA COMPLETE 22/22**, plus all of the below from 2026-11-04 (tantrasara a10 #40 + a16 #41 + a11 #42 + a07 #43 + a14 #44 + a03 #45 + a05 #46 + a04 #47 + a09 #48 GOLD; P0 added
   10: gitarthasangraha, abhinavabharati, ipvv-vivrti-vimarsini,
   sivasutravimarsini, malinivijayavarttika + mystics lalded, rupabhavani,
   parmanand, nundrishi, santosh).
