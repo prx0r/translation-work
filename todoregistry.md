@@ -216,3 +216,8 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 
 - #68 tal-a21 (parokṣa-dīkṣā, initiation of the absent; 61u/460tok, 0 forks, proof PASS, qa NEEDS_WITNESS). Argmap sha 61bfe52e8f885df2. Pradipaka ch21 + Yogawiki German + Vishvasa Tantrasara ch16 + Anuttaratrikakula lore.
 - REGISTRY 101/67/34. All sweeps CANONICAL. Next shortest-first: a32 (69u) → a07 (71u) → a26 (76u) → a37 (85u) → a23 (103u).
+
+## Addendum — GOLD #69: Tantraloka-a32 (2026-11-07)
+
+- #69 tal-a32 (mudrā-vidhi; 69u incl. v0/561tok, 0 forks, proof PASS, qa NEEDS_WITNESS). Argmap sha 9afc7cc247488e5f. Pradipaka ch32 + Devyāyāmala lore.
+- REGISTRY 101/68/33. All sweeps CANONICAL. Next shortest-first: a07 (71u).
