@@ -122,6 +122,7 @@ edit THIS file in the same commit — never leave it behind.*
 - [x] 31. Tantraloka a22 GOLD #64 DONE 2026-11-07 (lingoddhara conversion, 48u/370tok, 0 forks, proof PASS, qa NEEDS_WITNESS; next: a02)
 - [x] 32. Tantraloka a22 GOLD #64 VERIFIED DONE 2026-11-07 (48u/370tok, proof PASS; S tier: a14+a22 done; next: a02)
 - [x] 33. Tantraloka a02 GOLD #65 DONE 2026-11-07 (anupaya means-less, 50u/406tok, 0 forks, proof PASS, qa NEEDS_WITNESS; S tier: a14+a22+a02 done; next: a19)
+- [x] 34. Tantraloka a19 GOLD #66 DONE 2026-11-07 (sadyo-utkranti deathbed initiation, 56u/453tok, 0 forks, proof PASS, qa NEEDS_WITNESS; S tier: a14+a22+a02+a19 done; next: a27)
 - [x] 23. Tantraloka a20 GOLD #56 DONE 2026-11-07 (tulāśuddhi/sapratyayā dīkṣā, 16u/118tok, 0 forks, proof PASS, qa NEEDS_WITNESS; next: a36)
 - [ ] 21. Spanda + Sivasutra + VBT recon + source pins
 - [ ] 22. Short/broken works assessment batch (the 10 named above)

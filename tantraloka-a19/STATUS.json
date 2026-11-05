@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a19",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a19 done)",
  "counts": {
-  "passages": 6,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 453,
+  "l4_drafts": 56,
+  "l4_with_craft": 56,
+  "passages": 1,
   "verses": 56
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a19-raw.jsonl",
- "r2_bytes": 29761,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "6 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a27 (59 units).",
+ "notes": "GOLD #66 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 19 (sadyo-utkrānti, deathbed initiation; 56u, 453tok) via workcfg taloka. L0 453 tok 100%% PARSED stem-level (fused 5-6-way compounds; @ = elided-a; 0 forks) / T1 / argmaps 56/56 (sha 832bc7b65480b65a, PASS, 0 shared) / L2 56 cites 56/56 / C1 essence 56 (0 quotes/shared/meta; 1295 words warning only, precedent a22) + 7-part + rasa jñāna-adbhuta + NOTE / L3 56 couplets+singles 0 shared vs L2, no slashes / L4 56 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v01) PENDING owner; OPEN: human review; C2 waived. V37 half-verse kept (print as-is); print junctions, simile compressions flagged. S tier: a14+a22+a02+a19 done.",
+ "rasa": "jñāna with adbhuta weight (knowledge as the deathbed rite; wonder at the marma-cutting)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a19"
 }
