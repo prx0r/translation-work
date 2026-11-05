@@ -115,6 +115,7 @@ edit THIS file in the same commit — never leave it behind.*
 - [x] 24. Tantraloka a36 GOLD #57 DONE 2026-11-07 (āgama-avatāra transmission history, 17u/130tok, 0 forks, proof PASS, qa NEEDS_WITNESS)
 - [x] 25. Tantraloka a24 GOLD #58 DONE 2026-11-07 (antyeṣṭi funerary initiation, 24u/172tok, 0 forks, proof PASS, qa NEEDS_WITNESS; next: a12)
 - [x] 26. Tantraloka a12 GOLD #59 DONE 2026-11-07 (upayoga cosmic body, 26u/204tok, 0 forks, proof PASS, qa NEEDS_WITNESS; closes a05-a12 āṇava arc; next: a25)
+- [x] 27. Tantraloka a25 GOLD #60 DONE 2026-11-07 (sraddha ancestor offerings, 29u/237tok, 0 forks, proof PASS, qa NEEDS_WITNESS; next: a33)
 - [x] 23. Tantraloka a20 GOLD #56 DONE 2026-11-07 (tulāśuddhi/sapratyayā dīkṣā, 16u/118tok, 0 forks, proof PASS, qa NEEDS_WITNESS; next: a36)
 - [ ] 21. Spanda + Sivasutra + VBT recon + source pins
 - [ ] 22. Short/broken works assessment batch (the 10 named above)
