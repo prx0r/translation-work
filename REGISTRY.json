@@ -1,13 +1,13 @@
 {
  "canonical": "FINAL-PROCESS.md",
  "version": "1.0.0",
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
- "total_works": 91,
- "gold": 36,
+ "total_works": 101,
+ "gold": 49,
  "partial": 0,
- "pending": 55,
+ "pending": 52,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -857,11 +857,14 @@
   },
   {
    "work": "tantrasara-a22",
-   "status": "legacy (needs transformation)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null
+   "status": "gold (machine-proposed)",
+   "gold": true,
+   "has_data_json": true,
+   "has_process_log": true,
+   "verses": 53,
+   "l4_songs": 1,
+   "l4_verses": 53,
+   "note": "2026-11-05: GOLD #49 (machine-proposed) — 53 units (kulayāga-prakāśana, 652tok, verse-gap u46 explicit), stem-level morph, 8 genuine grammar forks (7 resolved, 1 LIVE khecarī), full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tattvasandoha",

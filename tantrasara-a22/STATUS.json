@@ -1,18 +1,1 @@
-{
- "work": "tantrasara-a22",
- "updated": "2026-10-30",
- "next": "batch (A22 done; full close passes done)",
- "counts": {
-  "passages": 3,
-  "verses": 53
- },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-30-tantrasara-a22-raw.jsonl",
- "r2_verified": true,
- "notes": "kaula-y\u0101ga + \u015bakti + khecar\u012b",
- "r2_bytes": 29536,
- "needs": [
-  "abstention-review",
-  "citation-grounding",
-  "coverage-check"
- ]
-}
+{"counts":{"l0_ambiguous":0,"l0_failed":0,"l0_parsed":652,"l4_drafts":53,"l4_with_craft":53,"passages":1,"verses":53},"needs":["first-verse L4 voice verdict (owner)","human-review (machine-proposed)"],"next":"Owner: first-verse L4 voice verdict (tsa-a22-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a20 (65 units).","notes":"GOLD #49 (MACHINE_PROPOSED) 2026-11-05: Tantrasara ahnika 22 (kulayāga-prakāśana; 53 units, 652 tok, verse-gap u46 explicit) via workcfg abhts. Full pipeline: L0 hand-crafted 652 tok 100% PARSED stem-level morph (fused spans: tasyāpi, cānudbhinnavibhāgā, vedyāc, sthaṇḍilāny etc.; anomalies flagged in place: kḷptāvato, kṣubhnāty, śāntānyatve, cāryaṃ) + 8 genuine grammar forks (7 resolved on record: śikhā, no/nanu, vaktrān, māntrī, garbha, dehasthā, śvabhra; 1 LIVE held honestly: khecarī) / T1 md+jsonl+report / argmaps 53/53 (sha 57285bffd643dff5, gate PASS, 0 shared) / L2 53 rasa-carried byte-exact / C1 essence 53 (0 quotes, 0 shared, 0 meta) + 7-part + rasa jñāna-prasaṃkhyāna + c1.NOTE.md / L3 53 handcrafted couplets/sequences 0 shared vs L2, no slashes / L4 53 DRAFTs craft+rejected+read-aloud, subset-validated, overlap-audited / c1 md. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived. GRETIL ends iti śivam (no u46; print colophon verses absent — boundary, not reconstructed).","rasa":"jñāna with adbhuta and śānta weight (knowledge as enumerated rite, wonder at collision)","updated":"2026-11-05","work":"tantrasara-a22"}
