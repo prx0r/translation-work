@@ -1,17 +1,19 @@
 {
- "work": "tantraloka-a24",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a24 done)",
  "counts": {
-  "passages": 3,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_parsed": 172,
+  "l4_drafts": 24,
+  "l4_with_craft": 24,
+  "passages": 1,
   "verses": 24
  },
- "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a24-raw.jsonl",
- "r2_bytes": 12944,
- "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review (machine-proposed)"
  ],
- "notes": "3 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "next": "Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a12 (26 units).",
+ "notes": "GOLD #58 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 24 (antyeṣṭi, funerary initiation; 24u, 172tok) via workcfg taloka. L0 172 tok 100%% PARSED stem-level (fused 5-way śaktipātātpurāproktātkuryādantyeṣṭidīkṣaṇam; 4-way ityukto@ntyeṣṭiyāgo@yaṃ; @ = elided-a; 0 forks) / T1 / argmaps 24/24 (sha 15b5739c807b024c, PASS, 0 shared) / L2 24 cites 24/24 / C1 essence 24 (0 quotes/shared/meta) + 7-part + rasa karuṇa-adbhuta + NOTE / L3 24 couplets+singles 0 shared no slashes / L4 24 DRAFTs subset-validated data==DRAFTs / validate 0, proof PASS (align 1.0), qa NEEDS_WITNESS. FIRST-VERSE L4 VOICE (v01) PENDING owner; OPEN: human review; C2 waived. V1 b-half line grouping kept; head-synecdoche, negation-scope, petal-term, catalogue splits flagged.",
+ "rasa": "karuṇa with adbhuta weight (mortality met by proof; wonder at signs)",
+ "updated": "2026-11-07",
+ "work": "tantraloka-a24"
 }
