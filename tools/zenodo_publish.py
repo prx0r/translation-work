@@ -82,11 +82,12 @@ def build_bundle(work: str, essay: dict, outdir: Path) -> dict:
 def deposition_metadata(work: str, essay: dict, args) -> dict:
     rights = essay.get("rights", "")
     open_access = rights in OPEN_LICENSES
+    assisted = (essay.get('model') or 'yes (model not recorded)') if essay.get('assisted') else 'none declared'
     description = (essay.get("text", "")[:1200] +
-                   f"\n\nSigned Scholar essay ({essay.get('identity_state', '')}) by "
-                   f"{essay.get('author', '')}. Canonical record: translation-work "
+                   f"\n\nAuthor-approved Scholar essay ({essay.get('identity_state', '')}) by "
+                   f"{essay.get('author', '')}. Translation-work checkout "
                    f"commit {git_head()}; reader projection {work}. "
-                   f"AI assistance: {essay.get('model') or 'none (human-authored)'}.")
+                   f"AI assistance: {assisted}.")
     creators = [{"name": args.creator or essay.get("author", "Svatantrya Editorial")}]
     if args.affiliation:
         creators[0]["affiliation"] = args.affiliation
@@ -109,8 +110,8 @@ def deposition_metadata(work: str, essay: dict, args) -> dict:
              "relation": "isSupplementTo"},
             {"identifier": "https://github.com/prx0r/translation-work",
              "relation": "isDerivedFrom"}],
-        "notes": ("Peer-reviewed through the Scholar workspace; signed off by the author. "
-                  "Machine-readable signed record and provenance bundled as files.")}}
+        "notes": ("Author sign-off is self-attested. Peer-review status is not established "
+                  "by this bundle. A machine-readable essay record and provenance are included.")}}
 
 
 def api_request(base: str, token: str, method: str, path: str, payload=None, raw_path=None):

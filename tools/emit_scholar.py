@@ -107,15 +107,16 @@ def build(work: str) -> dict:
         if (proof.get("work") != work or proof.get("song") != song or
             proof.get("deterministic_gate") != "PASS"):
             continue
-        if (ROOT / work / "source/manifest.json").exists():
-            recorded = proof.get("layer_sha256", {})
-            current = {}
-            for layer in sch.LAYERS:
-                path = ROOT / work / "data" / f"{song}.{layer}.json"
-                if path.exists():
-                    current[layer] = sch.sha(json.loads(path.read_text(encoding="utf-8")))
-            if recorded != current:
-                continue
+        # A legacy work without an intake manifest still needs a fresh proof.
+        # Never project a PASS recorded for different or incomplete layer data.
+        recorded = proof.get("layer_sha256", {})
+        current = {}
+        for layer in sch.LAYERS:
+            path = ROOT / work / "data" / f"{song}.{layer}.json"
+            if path.exists():
+                current[layer] = sch.sha(json.loads(path.read_text(encoding="utf-8")))
+        if not {"t1", "l0", "argmap", "l2", "c1"}.issubset(current) or recorded != current:
+            continue
         eligible.add(song)
         signoff = sch.load_signoff(work, song)
         if signoff:

@@ -5,6 +5,7 @@ data hygiene, qprivately). Read this, then the file it points to for your task.*
 
 ## Agent entry points
 
+- `BENCH-LINEAGE.md` + `tools/lineage_audit.py`: read-only, replayable OpenPāṭala → translation layers → pinned SanskritBench diagnostics → Scholar essay audit. Candidate links and benchmark passes are not witness authentication, semantic proof or publication approval.
 - `python3 tools/agent_contract.py describe --include-instructions` returns the ordered
   layers, versioned structural schemas, both canonical skills and their standards, pinned examples,
   and hashes. Add `--layer l0` to focus on one datatype. Structural validation and

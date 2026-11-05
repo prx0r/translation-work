@@ -21,7 +21,7 @@ import scholar_service  # noqa: E402
 
 class AccountSubmissionTest(unittest.TestCase):
     def setUp(self):
-        self.temp=tempfile.TemporaryDirectory();self.root=Path(self.temp.name);self.repo=self.root/'translation-work';self.repo.mkdir()
+        self.temp=tempfile.TemporaryDirectory(dir=ROOT);self.root=Path(self.temp.name);self.repo=self.root/'translation-work';self.repo.mkdir()
         for folder in ('tools','schemas','paramarthasara'):
             shutil.copytree(ROOT/folder,self.repo/folder,ignore=shutil.ignore_patterns('__pycache__','*.pyc'))
         os.symlink(ROOT.parent/'ipvv',self.root/'ipvv')
@@ -83,6 +83,28 @@ class AccountSubmissionTest(unittest.TestCase):
         payload['snapshot']['content']['citations']=[citation,citation]
         payload['signoff']['snapshot_sha256']=scholar.sha(payload['snapshot'])
         with self.assertRaisesRegex(ValueError,'duplicate'):scholar_service.submit_account(self.repo,payload)
+
+    def test_legacy_essay_target_and_citation_reject_stale_committed_layers(self):
+        # No source manifest: legacy works must not bypass proof freshness.
+        self.assertFalse((self.repo/'paramarthasara/source/manifest.json').exists())
+        t1=json.loads((self.repo/'paramarthasara/data/param-p01.t1.json').read_text())[0]
+        citation={'work':'paramarthasara','target':t1['verse_id'],'t1_sha256':scholar.sha(t1),'projection_sha256':'a'*64}
+        layer=self.repo/'paramarthasara/data/param-p01.l2.json'
+        rows=json.loads(layer.read_text());rows[0]['plain_english']+=' Changed after proof.'
+        layer.write_text(json.dumps(rows,ensure_ascii=False))
+        self.git('add','paramarthasara/data/param-p01.l2.json');self.git('commit','-m','Change layer without reproof')
+        commit=self.git('rev-parse','HEAD')
+        with self.assertRaisesRegex(ValueError,'stale or incomplete'):
+            scholar_service.validate_essay_citations(self.repo,commit,[citation])
+        payload=self.payload('essay')
+        with self.assertRaisesRegex(ValueError,'stale or incomplete'):
+            scholar_service.submit_account(self.repo,payload)
+        # Citations receive the same check when the essay has no selected target.
+        payload['snapshot']['target']=''
+        payload['snapshot']['content']['citations']=[citation]
+        payload['signoff']['snapshot_sha256']=scholar.sha(payload['snapshot'])
+        with self.assertRaisesRegex(ValueError,'stale or incomplete'):
+            scholar_service.submit_account(self.repo,payload)
 
     def test_essay_and_hmac_bridge(self):
         payload=self.payload('essay');secret=b'x'*40

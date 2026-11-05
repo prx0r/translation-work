@@ -342,8 +342,11 @@ An essay snapshot may include a `citations` array (up to ten distinct
 `{work,target,t1_sha256,projection_sha256}` objects). It is part of the exact
 snapshot covered by author sign-off. The account bridge validates each cited
 work and passage against a committed Git tree, checks its proof gate and T1
-hash, and records `source_git_commit` in the resulting essay object. When a
-source manifest exists, the bridge also checks the proof's current layer hashes.
+hash, and records `source_git_commit` in the resulting essay object. For all
+works, including legacy works without a source manifest, the bridge checks the
+proof's layer hashes and required layers in that same committed Git tree.
+The Scholar projection emitter likewise withholds layers and versions whose
+recorded proof is stale or incomplete. This checks freshness, not source coverage.
 Ghaṭakarpara references remain withheld pending source alignment repair.
 
 The projection hash is a client-reported reference, not authenticated by this

@@ -32,7 +32,7 @@ from schemas import registry  # noqa: E402
 
 class ScholarImportTest(unittest.TestCase):
     def setUp(self):
-        self.temp = tempfile.TemporaryDirectory()
+        self.temp = tempfile.TemporaryDirectory(dir=ROOT)
         self.root = Path(self.temp.name)
         self.old_root = scholar.ROOT
         scholar.ROOT = self.root
@@ -282,12 +282,24 @@ class ScholarImportTest(unittest.TestCase):
             self.assertEqual(projection["withheld_songs"], ["param-p01"])
             self.assertEqual(projection["versions"], [])
             self.assertNotIn("A revised rendering", json.dumps(projection))
+            for layer in ("t1", "argmap", "l2", "c1"):
+                shutil.copy(ROOT / f"paramarthasara/data/param-p01.{layer}.json", self.data)
             proof["deterministic_gate"] = "PASS"
+            proof["layer_sha256"] = {
+                layer: scholar.sha(json.loads((self.data / f"param-p01.{layer}.json").read_text()))
+                for layer in ("t1", "l0", "argmap", "l2", "c1", "l3")}
             (proof_dir / "proof-param-p01.json").write_text(json.dumps(proof))
             first = emit_scholar.build("paramarthasara")
             second = emit_scholar.build("paramarthasara")
             self.assertEqual(first["projection_sha256"], second["projection_sha256"])
             self.assertEqual(len(first["versions"]), 2)
+            # No manifest exists: stale legacy proofs must still withhold originals and versions.
+            stale = self.data / "param-p01.l2.json"
+            data = json.loads(stale.read_text()); data[0]["plain_english"] += " Changed."
+            stale.write_text(json.dumps(data))
+            projection = emit_scholar.build("paramarthasara")
+            self.assertEqual(projection["withheld_songs"], ["param-p01"])
+            self.assertEqual(projection["versions"], [])
         finally:
             emit_scholar.ROOT = old_root
 
