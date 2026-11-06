@@ -505,6 +505,10 @@ def worker_loop(name: str) -> int:
                 ok, msg = run_lore_distill(t)
             elif t['kind'] == 'recon':
                 ok, msg = run_recon(t)
+            elif t['kind'] == 'tal_gloss':
+                ok, msg = run_tal_gloss(t)
+            elif t['kind'] == 'tal_cm':
+                ok, msg = run_tal_cm(t)
             else:
                 ok, msg = False, f'unknown kind {t["kind"]}'
         except Exception as e:  # noqa: BLE001
