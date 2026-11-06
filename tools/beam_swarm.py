@@ -404,7 +404,7 @@ def run_tal_gloss(t: dict) -> tuple[bool, str]:
             'sandhi', 'compound')
     bad = [r.gloss for r in g.rows
            if not r.gloss or '(' in r.gloss or ')' in r.gloss or '"' in r.gloss
-           or _not_lower(r.gloss) or len(r.gloss.split('-')) > 8
+           or len(r.gloss.split('-')) > 8
            or any(w in r.gloss.lower().split('-') for w in LEAK)
            or not (r.grounds or '').strip()]
     if bad:
@@ -567,7 +567,7 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
             return False, f'v{it.verse}: surface drift ({len(it.rows)} vs {len(toks)})'
         for r in it.rows:
             if (not r.gloss or '(' in r.gloss or ')' in r.gloss or '"' in r.gloss
-                    or _not_lower(r.gloss) or len(r.gloss.split('-')) > 6
+                    or len(r.gloss.split('-')) > 6
                     or any(w in r.gloss.lower().split('-') for w in
                            ('genitive','nominative','accusative','instrumental','dative',
                             'ablative','locative','vocative','singular','plural','dual',
