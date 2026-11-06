@@ -90,6 +90,30 @@ class ReconReport(BaseModel):
     hypothesis: list[ReconSection] = Field(min_length=1)
 
 
+class GlossRow(BaseModel):
+    surface: str
+    gloss: str
+    grounds: str
+
+
+class TalGloss(BaseModel):
+    song: str
+    verse: int
+    rows: list[GlossRow] = Field(min_length=1)
+
+
+class CmRow(BaseModel):
+    lemma: str
+    morph: str
+    grounds: str
+
+
+class TalCm(BaseModel):
+    song: str
+    verse: int
+    rows: list[CmRow] = Field(min_length=1)
+
+
 # ---------- queue ----------
 
 def load_q() -> list[dict]:
@@ -288,6 +312,92 @@ def run_recon(t: dict) -> tuple[bool, str]:
     (outd / 'recon.json').write_text(rep.model_dump_json(indent=1))
     (outd / 'raw.txt').write_text(text)
     return True, f'{len(rep.hypothesis)} sections (assessor verifies before intake)'
+
+
+TAL_GLOSS_SYS = ('You gloss Sanskrit verse tokens for a translation pipeline. '
+                 'Output ONLY JSON matching the schema. Glosses: lowercase English, '
+                 'hyphen-joined, no parens, no quotes, max 6 parts. Grounds: morphology '
+                 '+ which L1/L2 line supports it. Never invent; mark uncertainty in grounds.')
+
+
+def run_tal_gloss(t: dict) -> tuple[bool, str]:
+    import re as _re
+    from beam_client import beam
+    work, song, verse = t['args']['work'], t['args']['song'], int(t['args']['verse'])
+    wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
+    entry = next(e for e in wt if e['verse'] == verse)
+    surfs = [x['surface'] for x in entry['tokens']]
+    ctx = t.get('args', {}).get('context', '')
+    lore = ''
+    lp = STATE / 'lore' / f"tal-{t['args'].get('ahnika', '')}.md"
+    if t['args'].get('ahnika') and lp.exists():
+        lore = lp.read_text()[:4000]
+    prev = (t.get('note') or '').split(' | ')[-1]
+    user = (f'Verse {verse} ({len(surfs)} tokens, hyphen-split compounds, @ marks sandhi):\n'
+            + '\n'.join(f'{i}: {s}' for i, s in enumerate(surfs))
+            + f'\n\nPASSAGE PROSE (L1/L2 reads — ground every gloss here):\n{ctx[:12000]}\n\n'
+            + (f'TRANSMISSION BRIEF:\n{lore}\n\n' if lore else '')
+            + (f'PREVIOUS ATTEMPT NOTE: {prev}\n\n' if prev and 'attempt failed' not in prev and len(prev) > 5 else '')
+            + 'Gloss EVERY token in order. Reply ONLY JSON: {"song": "...", "verse": N, '
+              '"rows": [{"surface": "...(exact)", "gloss": "...", "grounds": "..."}]}')
+    text = beam(TAL_GLOSS_SYS, user, session=f'tal-gloss-{song}-v{verse}-001', max_tokens=6000)
+    start, end = text.find('{'), text.rfind('}')
+    if start < 0:
+        return False, 'no JSON object: ' + text[:300]
+    try:
+        g = TalGloss.model_validate_json(text[start:end + 1])
+    except ValidationError as e:
+        return False, f'schema fail: {e.errors()[:2]}'
+    rs = [r.surface for r in g.rows]
+    if rs != surfs:
+        return False, (f'surface drift: {len(rs)} rows vs {len(surfs)} tokens; '
+                       f'first mismatch e.g. {next(((a, b) for a, b in zip(rs, surfs) if a != b), ("?", "?"))}')
+    bad = [r.gloss for r in g.rows if not r.gloss or '(' in r.gloss or ')' in r.gloss or '"' in r.gloss or r.gloss != r.gloss.lower() or len(r.gloss.split('-')) > 8 or not (r.grounds or '').strip()]
+    if bad:
+        return False, f'gloss/grounds format fail e.g. {bad[:3]}'
+    outd = ROOT / 'process' / 'beam' / 'runs' / t['id']
+    outd.mkdir(parents=True, exist_ok=True)
+    (outd / 'gloss.json').write_text(g.model_dump_json(indent=1, ensure_ascii=False))
+    (outd / 'raw.txt').write_text(text)
+    return True, f'{len(g.rows)} glosses'
+
+
+TAL_CM_SYS = ('You analyze Sanskrit morphology for a translation pipeline. '
+              'Output ONLY JSON matching the schema. Morphology: case.number.gender '
+              '(m.nom.sg), verb person.number.voice-tense/mood + root (3sg.pres.mid √gam), '
+              'indeclinables as (indecl.), compounds as member+membership. Grounds cite '
+              'the gloss + form. If unsure, say so in grounds (AMBIGUOUS stays honest).')
+
+
+def run_tal_cm(t: dict) -> tuple[bool, str]:
+    from beam_client import beam
+    work, song, verse = t['args']['work'], t['args']['song'], int(t['args']['verse'])
+    wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
+    entry = next(e for e in wt if e['verse'] == verse)
+    pairs = [(x['surface'], x['quick_gloss']) for x in entry['tokens']]
+    if any(not g for _, g in pairs):
+        return False, 'glosses missing — run tal_gloss first'
+    user = ('Verse tokens (surface = gloss):\n'
+            + '\n'.join(f'{s} = {g}' for s, g in pairs)
+            + '\n\nOne CM row per token IN ORDER: [lemma_iast, morph, grounds]. '
+              'Reply ONLY JSON: {"song": "...", "verse": N, "rows": [{"lemma": "...", "morph": "...", "grounds": "..."}]}')
+    text = beam(TAL_CM_SYS, user, session=f'tal-cm-{song}-v{verse}-001', max_tokens=6000)
+    start, end = text.find('{'), text.rfind('}')
+    if start < 0:
+        return False, 'no JSON object: ' + text[:300]
+    try:
+        c = TalCm.model_validate_json(text[start:end + 1])
+    except ValidationError as e:
+        return False, f'schema fail: {e.errors()[:2]}'
+    if len(c.rows) != len(pairs):
+        return False, f'row count {len(c.rows)} vs {len(pairs)} tokens'
+    if any(not r.lemma or not r.morph or not (r.grounds or '').strip() for r in c.rows):
+        return False, 'empty lemma/morph/grounds present'
+    outd = ROOT / 'process' / 'beam' / 'runs' / t['id']
+    outd.mkdir(parents=True, exist_ok=True)
+    (outd / 'cm.json').write_text(c.model_dump_json(indent=1, ensure_ascii=False))
+    (outd / 'raw.txt').write_text(text)
+    return True, f'{len(c.rows)} CM rows'
 
 
 def run_tal_brief(t: dict) -> tuple[bool, str]:
