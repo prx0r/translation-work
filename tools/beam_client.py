@@ -31,14 +31,14 @@ def health() -> tuple[bool, str]:
     instead of hammering when the free tier is throttled."""
     try:
         chat([{'role': 'user', 'content': 'Reply with exactly: PONG'}],
-             session='health-probe', max_tokens=32, tries=1)
+             session='health-probe', max_tokens=32, tries=1, timeout=20)
         return True, 'ok'
     except Exception as e:  # noqa: BLE001
         return False, str(e)[:200]
 
 
 def chat(messages: list, session: str, max_tokens: int = MAX_OUTPUT,
-         temperature: float = 0.2, tries: int = 4) -> str:
+         temperature: float = 0.2, tries: int = 4, timeout: int = 300) -> str:
     # NOTE: beam-free spends budget on hidden reasoning; without a low
     # reasoning effort + generous budget the reply comes back null
     # (finish=length). Do not lower these without re-testing.
@@ -55,7 +55,7 @@ def chat(messages: list, session: str, max_tokens: int = MAX_OUTPUT,
                      'User-Agent': UA,
                      'x-opencode-session': session})
         try:
-            with urllib.request.urlopen(req, timeout=300) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 out = json.loads(r.read().decode())
             msg = out['choices'][0]['message']
             text = msg.get('content')
