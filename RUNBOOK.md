@@ -175,7 +175,9 @@ uniform 8s"). Vague bounces waste cycles.
 setsid nohup bash tools/tal_run_all.sh > process/beam/tal_campaign.log 2>&1 < /dev/null &
 ```
 
-Per ahnika, `tools/tal_stage.py` runs: parse legacy T1 → seed beam tasks →
+Per ahnika, `tools/tal_stage.py` runs: parse legacy T1 → seed **tal_triple**
+tasks (12 verses per call: gloss+CM+argmap+L2 in one pass, one session per
+ahnika for prompt-cache reuse, adaptive split on output-ceiling failures) →
 wait (workers must be alive) → assemble working-t1/l0/argmap/l2 + data/*.json
 → `validate_song` → `proof_record --shastra` → STATUS/REGISTRY → manifest →
 commit+push. Order is shortest-first; proof BLOCKED parks that ahnika and
@@ -183,10 +185,11 @@ moves on (never forced).
 
 Task kinds per verse: `tal_gloss` (per-token gloss+grounds), `tal_cm`
 (lemma/morph/grounds), `tal_am` (question/premises/inference/uncertainties/L2).
-Gates: surfaces must equal the token list exactly; gloss lowercase except
-standalone `I`; no grammar-term leakage (genitive/nominative/…/sandhi/
-compound) — use plain English instead; question is the verse's own question,
-≥5 words, never "what does verse N state".
+Gates: surfaces must equal the token list exactly; proper-noun capitals are
+allowed (gold TAL glosses carry Kanyā, Bhagavan, Śrīkaṇṭha); compounds may run
+to 15 hyphen-parts (gold max); no grammar-term leakage (genitive/nominative/
+…/sandhi/compound) — use plain English instead; question is the verse's own
+question, ≥5 words, never "what does verse N state".
 
 Assessor residue (by design): hand-write verses the gates reject after
 retries; spot-read PASS results; write/approve C1 essence (the driver derives
