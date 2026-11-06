@@ -185,6 +185,7 @@ def run_tal_brief(t: dict) -> tuple[bool, str]:
             + (f'PREVIOUS ATTEMPT NOTE (fix this): {prev}\n\n' if prev and 'attempt failed' not in prev and len(prev) > 5 else '')
             + f'Partition THIS WINDOW ONLY (vv{lo}-{hi}) into passage spans of 1-8 verses each. '
               'Follow TOPIC shifts: a new span starts where the subject changes. '
+              'Span format is EXACTLY vvA-B — e.g. vv61-64, or vv7-7 for a single verse. Never write bare numbers. '
               'NEVER emit uniform blocks — if spans look mechanical, repartition by topic. '
               'The last span MUST end at v{hi}. Cover every verse in the window, no gaps, no overlaps. '
               'For each: topic (<=8 words) and gist (1-2 sentences: what is argued). '
@@ -209,6 +210,11 @@ def run_tal_brief(t: dict) -> tuple[bool, str]:
             if m2:
                 it.span = f'vv{m2.group(1)}-{m2.group(2)}'
                 m, normed = m2, normed + 1
+            else:
+                m3 = _re.fullmatch(r'v{0,2}(\d+)', s)
+                if m3:  # bare verse number = single-verse span
+                    it.span = f'vv{m3.group(1)}-{m3.group(1)}'
+                    m, normed = m3, normed + 1
         if not m:
             return False, f'bad span format {it.span!r}; use vvA-B'
         a, b = int(m.group(1)), int(m.group(2))
