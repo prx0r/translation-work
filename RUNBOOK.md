@@ -254,3 +254,19 @@ Safety properties for an unattended night:
 - Morning triage: `tail -50 process/beam/tal_campaign.log`,
   `tail -30 process/beam/watchdog.log`, `git log --oneline -10`,
   `python3 tools/beam_swarm.py status`, then review any parked/BLOCKED ahnika.
+
+## 15. When beam-free runs out (observed 2026-11-06 15:30 UTC)
+
+Symptom: `{"error":{"type":"rate_limit_error"}}` / HTTP 429 on a trivial
+64-token ping **with zero workers running**. That is account/region tier
+exhaustion, not our concurrency — do not "fix" it by adding workers.
+
+Policy (owner directive): **beam-free only, no model swap.** The watchdog
+probes health before every pass; on failure it logs `PAUSING 30m`, stops
+workers, preserves the queue, and retries every 30 minutes. On recovery it
+logs `RESUMING` and continues exactly where it stopped (everything is
+idempotent).
+
+Queue state is durable (`process/beam/queue.json`, untracked/live) and every
+completed verse is on disk under `process/beam/runs/` and committed once an
+ahnika assembles. Nothing is lost by pausing for hours.
