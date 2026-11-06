@@ -491,11 +491,21 @@ def run_tal_am(t: dict) -> tuple[bool, str]:
             pairs = [(s_, got.get(s_, g_)) for s_, g_ in pairs]
         except (OSError, ValueError, KeyError):
             pass
-    l0 = json.loads((ROOT / work / f'working-l0-{song}.json').read_text())
     morph = {}
-    for o in l0:
-        if o.get('verse_id', '').endswith(f'-v{verse:02d}'):
-            morph[o['surface']] = o.get('morph', '')
+    try:
+        l0 = json.loads((ROOT / work / f'working-l0-{song}.json').read_text())
+        for o in l0:
+            if o.get('verse_id', '').endswith(f'-v{verse:02d}'):
+                morph[o['surface']] = o.get('morph', '')
+    except (OSError, ValueError):
+        pass
+    if not morph:  # L0 not assembled yet: read the CM output directly
+        cf = ROOT / 'process' / 'beam' / 'runs' / f"{song}-cm-v{verse:02d}" / 'cm.json'
+        try:
+            for r in json.loads(cf.read_text())['rows']:
+                morph[r['lemma']] = r['morph']
+        except (OSError, ValueError, KeyError):
+            pass
     ahn = work.split('tantraloka-a')[-1]
     lp = STATE / 'lore' / f'tal-{ahn}.md'
     lore = lp.read_text()[:6000] if lp.exists() else ''
