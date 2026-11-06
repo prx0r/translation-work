@@ -132,3 +132,12 @@ The rule, mechanised: **after every L4 batch, run the content-word overlap audit
 extracted L3, argmap, and essence — never defended.** Extract first (L3 lines +
 argmap Q→I + essence + song rasa), then sing. The validator checks traces; only
 the audit checks that the song is about the verse.
+
+## 20. Never promote uncertainty by vote-counting (largetext deambig incident, 2026-11-06)
+A "prose-overlap + cross-chunk agreement" audit promoted 3,044 AMBIGUOUS L0 rows to PARSED. Spot-read caught laundered errors: `omiti`→'the-manifestation', `apekṣāyā`→'not-verily', `śiṃśapātvaṃ`→'the-Sāṃkhyas-and-the-rest' — wrong glosses with repeated votes. Agreement can be shared error. Reverted all 3,044. Survivor rule: unanimous exact-surface agreement across ≥3 distinct songs with ZERO dissent, or closed-class canonical sense — 22 kept. When the rule and the count disagree, the rule wins.
+
+## 21. Unbriefed beam output degenerates to uniform shape (largetext TAL batch, 2026-11-06)
+18 TAL briefs without transmission context came back as uniform 8-verse blocks (31/32 spans length exactly 8) or content-free ("summary unavailable" × 37). Beam without scholarship does geometry, not reading. Fix: assessor web-searches first, writes a 1-page transmission brief (what the text is / moves / traps / approach), packet injects it; window tasks ≤60 verses; variety gate rejects >80% same-length spans. Briefs live in `process/beam/lore/`.
+
+## 22. Small reasoning budgets return null content, not short content (beam-free, 2026-11-06)
+beam-free burns the token budget on hidden reasoning; `max_tokens: 20`–4000 calls returned `finish=length` with null content deterministically. Not intermittent — do not retry-loop it. Fix: `reasoning_effort: low` + generous `max_tokens` (8000) in `tools/beam_client.py`. Health-check with a ping before queueing a batch.
