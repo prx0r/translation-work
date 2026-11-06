@@ -7,6 +7,7 @@ Wants=network-online.target
 Type=simple
 WorkingDirectory=/root/translation-work
 Environment=HOME=/root
+Environment=WORKERS=2
 ExecStart=/usr/bin/env bash -lc 'exec bash tools/watchdog.sh'
 Restart=always
 RestartSec=30
