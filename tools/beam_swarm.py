@@ -538,13 +538,24 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
               '"rows":[{"surface":"(exact)","gloss":"...","grounds":"...","morph":"..."}],'
               '"question":"...","premises":["..."],"inference":"...",'
               '"uncertainties":["..."],"plain_english":"..."}]}')
-    text = beam(TAL_TRIPLE_SYS, user, session=f'tal-triple-{song}-v{verses[0]:02d}', max_tokens=8000)
+    text = beam(TAL_TRIPLE_SYS, user, session=f'tal-triple-{song}', max_tokens=16000)
     a, b = text.find('{'), text.rfind('}')
-    if a < 0:
+    if a < 0 or b < a:
+        if len(verses) > 1:  # likely hit the output ceiling: halve the group
+            mid = len(verses) // 2
+            outs = [run_tal_triple(dict(t, args=dict(t['args'], verses=verses[:mid]))),
+                    run_tal_triple(dict(t, args=dict(t['args'], verses=verses[mid:])))]
+            ok = all(o[0] for o in outs)
+            return ok, 'split ' + '; '.join(o[1] for o in outs)
         return False, 'no JSON: ' + text[:200]
     try:
         d = TalTriple.model_validate_json(text[a:b + 1])
     except ValidationError as ex:
+        if len(verses) > 1:
+            mid = len(verses) // 2
+            outs = [run_tal_triple(dict(t, args=dict(t['args'], verses=verses[:mid]))),
+                    run_tal_triple(dict(t, args=dict(t['args'], verses=verses[mid:])))]
+            return all(o[0] for o in outs), 'split after schema fail'
         return False, f'schema fail: {ex.errors()[:2]}'
     if len(d.items) != len(verses):
         return False, f'items {len(d.items)} != verses {len(verses)}'

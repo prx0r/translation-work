@@ -195,3 +195,23 @@ a provisional essence from argmap inferences when absent — flagged
 
 State: `tal-<ahnika>/data/*.json`, `STATUS.json`, `proof/`, REGISTRY entry.
 Campaign log: `process/beam/tal_campaign.log`.
+
+## 12. Model economics (free tier expires — swap in one env var)
+
+`BEAM_MODEL` selects the model; nothing else changes:
+```bash
+export BEAM_MODEL=beam-free            # free, limited time/regions (default)
+export BEAM_MODEL=mimo-v2.5            # ~$0.14/$0.28 per 1M in/out — cheapest paid
+export BEAM_MODEL=glm-5.3-flash        # ~$0.15/$0.50
+export BEAM_MODEL=qwen3.8-flash        # ~$0.15/$0.47
+export BEAM_MODEL=deepseek-v4.1-flash  # ~$0.15/$0.60 off-peak, 1M context
+```
+Cost of a full TAL ahnika at these prices is cents (≈60k in / 25k out per
+100 verses), so the free tier is a convenience, not a dependency.
+
+**Maximise context, minimise calls.** beam-free has a 1M context window, so
+the campaign batches 12 verses per call (gloss+CM+argmap+L2 in one pass) and
+keeps ONE session id per ahnika (`tal-triple-<song>`) so prompt cache and
+accumulated understanding persist across calls. On output-ceiling failures
+the runner halves the group and recurses — adaptive batching, no manual
+tuning. Measured effect: ~12× fewer requests than per-verse stages.
