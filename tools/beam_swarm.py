@@ -353,7 +353,15 @@ def run_tal_gloss(t: dict) -> tuple[bool, str]:
     if rs != surfs:
         return False, (f'surface drift: {len(rs)} rows vs {len(surfs)} tokens; '
                        f'first mismatch e.g. {next(((a, b) for a, b in zip(rs, surfs) if a != b), ("?", "?"))}')
-    bad = [r.gloss for r in g.rows if not r.gloss or '(' in r.gloss or ')' in r.gloss or '"' in r.gloss or r.gloss != r.gloss.lower() or len(r.gloss.split('-')) > 8 or not (r.grounds or '').strip()]
+    LEAK = ('genitive', 'nominative', 'accusative', 'instrumental', 'dative',
+            'ablative', 'locative', 'vocative', 'singular', 'plural', 'dual',
+            'participle', 'passive', 'causative', 'optative', 'imperative',
+            'sandhi', 'compound')
+    bad = [r.gloss for r in g.rows
+           if not r.gloss or '(' in r.gloss or ')' in r.gloss or '"' in r.gloss
+           or r.gloss != r.gloss.lower() or len(r.gloss.split('-')) > 8
+           or any(w in r.gloss.lower().split('-') for w in LEAK)
+           or not (r.grounds or '').strip()]
     if bad:
         return False, f'gloss/grounds format fail e.g. {bad[:3]}'
     outd = ROOT / 'process' / 'beam' / 'runs' / t['id']

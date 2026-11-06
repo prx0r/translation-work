@@ -290,3 +290,22 @@ artifacts are cleared for use as *pointers*, never as grounds:
 
 Forbidden: copying doctrine into argmaps, citing theorems as witness, letting
 formal categories rename what the verse says. BLIND.md's rule cuts both ways.
+
+## 13. Agent keys (the brief is the unlock, C1 stays the reader's)
+
+The transmission brief is a *decode key for the machine*, not a reader's
+essay. C1 is untouched: it states the matters for humans, with rasa, under
+the crystal-ipvv bars. Do not merge them.
+
+Key contract (per front, `process/beam/lore/<front>.md`):
+1. what the text IS (position in the arc, base edition/scholarship)
+2. numbered MOVES (the argument's order)
+3. TRAPS (lookalike terms, nearby-but-different targets, print damage,
+   genuine textual variants to record rather than smooth)
+4. APPROACH (scope rules, span discipline, honesty rules)
+
+Keys are written by the assessor from web scholarship, cached per front, and
+auto-injected. Writing them IS the high-value work: 10 min of search +
+distillation buys hours of usable beam output. A future C1-esque "terse key"
+layer may formalize these as data — if so it is an ADDITIVE layer beside C1,
+never a replacement, and it never carries reader-facing prose.
