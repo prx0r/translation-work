@@ -538,7 +538,7 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
               '"rows":[{"surface":"(exact)","gloss":"...","grounds":"...","morph":"..."}],'
               '"question":"...","premises":["..."],"inference":"...",'
               '"uncertainties":["..."],"plain_english":"..."}]}')
-    text = beam(TAL_TRIPLE_SYS, user, session=f'tal-triple-{song}', max_tokens=16000)
+    text = beam(TAL_TRIPLE_SYS, user, session=f'tal-triple-{song}', max_tokens=131072)
     a, b = text.find('{'), text.rfind('}')
     if a < 0 or b < a:
         if len(verses) > 1:  # likely hit the output ceiling: halve the group

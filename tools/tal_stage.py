@@ -45,7 +45,7 @@ def stage_parse(work, song):
     return json.loads(wt.read_text())
 
 
-def stage_seed_triple(work, song, group=12):
+def stage_seed_triple(work, song, group=24):
     wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
     q = load_q(); have = {t['id'] for t in q}; now = time.strftime('%Y-%m-%dT%H:%M:%S')
     pending_verses = [e['verse'] for e in wt

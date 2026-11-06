@@ -15,6 +15,10 @@ UA = 'translation-work-harness/1.0'
 # HARDCODED: beam-free only. Other models fail in this harness (owner
 # directive 2026-11-06). Do not add an env override, do not swap models.
 MODEL = 'beam-free'
+# Published limits (GET /inference/go/openai/v1/models): context 1,048,576,
+# output 131,072. Use the ceiling — fewer, bigger requests also avoid the
+# 429 rate limiter seen with many small calls.
+MAX_OUTPUT = 131072
 
 def _key() -> str:
     k = os.environ.get('OPENCODE_GO_KEY', '')
@@ -22,13 +26,14 @@ def _key() -> str:
         raise RuntimeError('OPENCODE_GO_KEY not set (pull from oracle vault)')
     return k
 
-def chat(messages: list, session: str, max_tokens: int = 8000,
+def chat(messages: list, session: str, max_tokens: int = MAX_OUTPUT,
          temperature: float = 0.2, tries: int = 4) -> str:
     # NOTE: beam-free spends budget on hidden reasoning; without a low
     # reasoning effort + generous budget the reply comes back null
     # (finish=length). Do not lower these without re-testing.
     body = json.dumps({'model': MODEL, 'messages': messages,
-                       'max_tokens': max_tokens, 'temperature': temperature,
+                       'max_tokens': min(max_tokens, MAX_OUTPUT),
+                       'temperature': temperature,
                        'reasoning_effort': 'low'}).encode()
     last = None
     for attempt in range(tries):
@@ -52,7 +57,9 @@ def chat(messages: list, session: str, max_tokens: int = 8000,
             return text
         except Exception as e:  # noqa: BLE001 - retry any transient failure
             last = e
-            time.sleep(2 * (attempt + 1))
+            msg = str(e).lower()
+            wait = 45 * (attempt + 1) if ('429' in str(e) or 'rate limit' in msg) else 3 * (attempt + 1)
+            time.sleep(wait)
     raise RuntimeError(f'beam chat failed x{tries} (session {session}): {last}')
 
 def beam(prompt_system: str, prompt_user: str, session: str, max_tokens: int = 6000) -> str:

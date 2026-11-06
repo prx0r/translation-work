@@ -212,3 +212,19 @@ keeps ONE session id per ahnika (`tal-triple-<song>`) so prompt cache and
 accumulated understanding persist across calls. On output-ceiling failures
 the runner halves the group and recurses — adaptive batching, no manual
 tuning. Measured effect: ~12× fewer requests than per-verse stages.
+
+## 13. Beam-free hard limits (probed 2026-11-06)
+
+`GET /inference/go/openai/v1/models` → beam-free: **context 1,048,576**,
+**output 131,072**. The client uses the output ceiling (`MAX_OUTPUT`), not a
+timid 16k. Consequences:
+
+- 12–24 verses per `tal_triple` call is conservative; a full ahnika of 100
+  verses (~35k output) fits in ONE call. Groups are configurable in
+  `tal_stage.stage_seed_triple(group=N)`; the runner halves on failure.
+- Fewer, bigger calls also dodge the 429 (`rate_limit_error`) that many
+  small calls trigger — the client backs off 45 s × attempt on 429.
+- One session per ahnika (`tal-triple-<song>`) keeps the prompt cache warm;
+  with 1M context the whole ahnika + lore + prior outputs can stay resident.
+- Quality guard still applies: a giant group that returns sloppy output is a
+  wasted call, so start at 24, raise to 48–64 once a few runs are clean.
