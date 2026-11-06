@@ -1,0 +1,426 @@
+{
+ "at": "2026-11-06T08:00:07",
+ "results": [
+  {
+   "song": "chunk-a-svatyandya",
+   "status": "ok",
+   "real": 1921,
+   "covered_before": 2,
+   "gchar": 376,
+   "residual": 1543,
+   "merged": "merged toks: 378 | paratext skipped: 217 | still gap: 1543"
+  },
+  {
+   "song": "chunk-b-eligibility-gita",
+   "status": "ok",
+   "real": 1431,
+   "covered_before": 596,
+   "gchar": 260,
+   "residual": 576,
+   "merged": "merged toks: 855 | paratext skipped: 202 | still gap: 576"
+  },
+  {
+   "song": "chunk-c-svatma-maya-upanishad",
+   "status": "ok",
+   "real": 3215,
+   "covered_before": 156,
+   "gchar": 1902,
+   "residual": 1157,
+   "merged": "merged toks: 2058 | paratext skipped: 445 | still gap: 1157"
+  },
+  {
+   "song": "chunk-d-memory-pramana",
+   "status": "ok",
+   "real": 3146,
+   "covered_before": 235,
+   "gchar": 2415,
+   "residual": 496,
+   "merged": "merged toks: 2650 | paratext skipped: 490 | still gap: 496"
+  },
+  {
+   "song": "chunk-e-cit-acid-dvairasya",
+   "status": "ok",
+   "real": 3504,
+   "covered_before": 244,
+   "gchar": 2733,
+   "residual": 527,
+   "merged": "merged toks: 2977 | paratext skipped: 529 | still gap: 527"
+  },
+  {
+   "song": "chunk-f-upoddhata-k1-7",
+   "status": "ok",
+   "real": 2794,
+   "covered_before": 962,
+   "gchar": 1628,
+   "residual": 204,
+   "merged": "merged toks: 2590 | paratext skipped: 409 | still gap: 204"
+  },
+  {
+   "song": "chunk-g-k1-2-7-1-8-citsvarupam",
+   "status": "ok",
+   "real": 3272,
+   "covered_before": 1312,
+   "gchar": 1826,
+   "residual": 134,
+   "merged": "merged toks: 3138 | paratext skipped: 415 | still gap: 134"
+  },
+  {
+   "song": "chunk-h-k1-8-caitanyamajada-pratibimba",
+   "status": "ok",
+   "real": 3932,
+   "covered_before": 1560,
+   "gchar": 2228,
+   "residual": 144,
+   "merged": "merged toks: 3788 | paratext skipped: 529 | still gap: 144"
+  },
+  {
+   "song": "chunk-i-k1-9-1-10-kriya-karyakarana",
+   "status": "ok",
+   "real": 2623,
+   "covered_before": 1045,
+   "gchar": 1442,
+   "residual": 136,
+   "merged": "merged toks: 2487 | paratext skipped: 365 | still gap: 136"
+  },
+  {
+   "song": "chunk-j-k1-11-kartapi-kalpita",
+   "status": "skip-pass"
+  },
+  {
+   "song": "chunk-k-purvapaksa-siddhanta",
+   "status": "ok",
+   "real": 2825,
+   "covered_before": 1102,
+   "gchar": 1622,
+   "residual": 101,
+   "merged": "merged toks: 2724 | paratext skipped: 410 | still gap: 101"
+  },
+  {
+   "song": "chunk-l-memory-error-sankaranandana",
+   "status": "ok",
+   "real": 3205,
+   "covered_before": 1291,
+   "gchar": 1783,
+   "residual": 131,
+   "merged": "merged toks: 3074 | paratext skipped: 457 | still gap: 131"
+  },
+  {
+   "song": "chunk-m-jnanadhikara-reflexion-core",
+   "status": "ok",
+   "real": 3915,
+   "covered_before": 1357,
+   "gchar": 2398,
+   "residual": 160,
+   "merged": "merged toks: 3755 | paratext skipped: 528 | still gap: 160"
+  },
+  {
+   "song": "chunk-n-close-mahesvara-saktis",
+   "status": "ok",
+   "real": 3349,
+   "covered_before": 1243,
+   "gchar": 2000,
+   "residual": 106,
+   "merged": "merged toks: 3243 | paratext skipped: 500 | still gap: 106"
+  },
+  {
+   "song": "chunk-v2-a-caturtho-vimarsa-aham",
+   "status": "ok",
+   "real": 2949,
+   "covered_before": 1172,
+   "gchar": 1679,
+   "residual": 98,
+   "merged": "merged toks: 2851 | paratext skipped: 400 | still gap: 98"
+  },
+  {
+   "song": "chunk-v2-b-sahajavimarsa-prakasavimarsa",
+   "status": "ok",
+   "real": 3092,
+   "covered_before": 1203,
+   "gchar": 1775,
+   "residual": 114,
+   "merged": "merged toks: 2978 | paratext skipped: 471 | still gap: 114"
+  },
+  {
+   "song": "chunk-v2-c-vistanti-ajadapramatrsiddhi",
+   "status": "ok",
+   "real": 2882,
+   "covered_before": 1078,
+   "gchar": 1712,
+   "residual": 92,
+   "merged": "merged toks: 2790 | paratext skipped: 441 | still gap: 92"
+  },
+  {
+   "song": "chunk-v2-d-pancamo-vimarsa-jnanasakti",
+   "status": "ok",
+   "real": 3324,
+   "covered_before": 915,
+   "gchar": 2281,
+   "residual": 128,
+   "merged": "merged toks: 3196 | paratext skipped: 432 | still gap: 128"
+  },
+  {
+   "song": "chunk-v2-e-pancamo-jnanasakti-k5",
+   "status": "ok",
+   "real": 3509,
+   "covered_before": 1542,
+   "gchar": 1885,
+   "residual": 82,
+   "merged": "merged toks: 3427 | paratext skipped: 458 | still gap: 82"
+  },
+  {
+   "song": "chunk-v2-f-pancamo-vimarsa-k6",
+   "status": "ok",
+   "real": 3553,
+   "covered_before": 1647,
+   "gchar": 1854,
+   "residual": 52,
+   "merged": "merged toks: 3501 | paratext skipped: 494 | still gap: 52"
+  },
+  {
+   "song": "chunk-v2-g-pancamo-vimarsa-k7-10",
+   "status": "ok",
+   "real": 3575,
+   "covered_before": 1590,
+   "gchar": 1945,
+   "residual": 40,
+   "merged": "merged toks: 3535 | paratext skipped: 577 | still gap: 40"
+  },
+  {
+   "song": "chunk-v2-h-pancamo-vimarsa-k11-13",
+   "status": "ok",
+   "real": 3546,
+   "covered_before": 1591,
+   "gchar": 1908,
+   "residual": 47,
+   "merged": "merged toks: 3499 | paratext skipped: 614 | still gap: 47"
+  },
+  {
+   "song": "chunk-v2-i-pancamo-vimarsa-k14-19",
+   "status": "ok",
+   "real": 3266,
+   "covered_before": 1446,
+   "gchar": 1774,
+   "residual": 46,
+   "merged": "merged toks: 3220 | paratext skipped: 656 | still gap: 46"
+  },
+  {
+   "song": "chunk-v2-j-pancamo-vimarsa-k19-20",
+   "status": "ok",
+   "real": 3572,
+   "covered_before": 1671,
+   "gchar": 1856,
+   "residual": 45,
+   "merged": "merged toks: 3527 | paratext skipped: 598 | still gap: 45"
+  },
+  {
+   "song": "chunk-v2-k-pancamo-vimarsa-k20-21",
+   "status": "ok",
+   "real": 3534,
+   "covered_before": 1603,
+   "gchar": 1878,
+   "residual": 53,
+   "merged": "merged toks: 3481 | paratext skipped: 599 | still gap: 53"
+  },
+  {
+   "song": "chunk-v2-l-sastho-vimarsa-smrti-apohana",
+   "status": "ok",
+   "real": 3803,
+   "covered_before": 1597,
+   "gchar": 2153,
+   "residual": 53,
+   "merged": "merged toks: 3750 | paratext skipped: 612 | still gap: 53"
+  },
+  {
+   "song": "chunk-v2-m-sastho-vimarsa-k6-7",
+   "status": "ok",
+   "real": 3228,
+   "covered_before": 1218,
+   "gchar": 1948,
+   "residual": 62,
+   "merged": "merged toks: 3166 | paratext skipped: 513 | still gap: 62"
+  },
+  {
+   "song": "chunk-v2-n-sastho-k8-11",
+   "status": "ok",
+   "real": 1596,
+   "covered_before": 695,
+   "gchar": 867,
+   "residual": 34,
+   "merged": "merged toks: 1562 | paratext skipped: 246 | still gap: 34"
+  },
+  {
+   "song": "chunk-v2-o-saptamo-vimarsa",
+   "status": "ok",
+   "real": 3589,
+   "covered_before": 1645,
+   "gchar": 1916,
+   "residual": 31,
+   "merged": "merged toks: 3558 | paratext skipped: 532 | still gap: 31"
+  },
+  {
+   "song": "chunk-v2-p-saptamo-k5-10",
+   "status": "ok",
+   "real": 3874,
+   "covered_before": 1780,
+   "gchar": 2069,
+   "residual": 30,
+   "merged": "merged toks: 3844 | paratext skipped: 611 | still gap: 30"
+  },
+  {
+   "song": "chunk-v2-q-saptamo-k11-close",
+   "status": "skip-pass"
+  },
+  {
+   "song": "chunk-v2-r-astamo-vimarsa",
+   "status": "ok",
+   "real": 3553,
+   "covered_before": 1607,
+   "gchar": 1921,
+   "residual": 33,
+   "merged": "merged toks: 3520 | paratext skipped: 544 | still gap: 33"
+  },
+  {
+   "song": "chunk-v2-s-astamo-close-jnanadhikara",
+   "status": "skip-pass"
+  },
+  {
+   "song": "chunk-v3-a-kriya-prathamo-k1-2",
+   "status": "ok",
+   "real": 3490,
+   "covered_before": 1401,
+   "gchar": 2047,
+   "residual": 50,
+   "merged": "merged toks: 3440 | paratext skipped: 571 | still gap: 50"
+  },
+  {
+   "song": "chunk-v3-b-kriya-dvitiyo-k1-7",
+   "status": "ok",
+   "real": 5864,
+   "covered_before": 2449,
+   "gchar": 3398,
+   "residual": 24,
+   "merged": "merged toks: 5840 | paratext skipped: 832 | still gap: 24"
+  },
+  {
+   "song": "chunk-v3-c-kriya-trtiyo-k1-2",
+   "status": "ok",
+   "real": 4328,
+   "covered_before": 1795,
+   "gchar": 2503,
+   "residual": 30,
+   "merged": "merged toks: 4298 | paratext skipped: 595 | still gap: 30"
+  },
+  {
+   "song": "chunk-v3-d-kriya-trtiyo-k3-8",
+   "status": "ok",
+   "real": 4634,
+   "covered_before": 1944,
+   "gchar": 2664,
+   "residual": 31,
+   "merged": "merged toks: 4603 | paratext skipped: 683 | still gap: 31"
+  },
+  {
+   "song": "chunk-v3-e-kriya-trtiyo-k9-17",
+   "status": "ok",
+   "real": 4569,
+   "covered_before": 1793,
+   "gchar": 2705,
+   "residual": 77,
+   "merged": "merged toks: 4492 | paratext skipped: 691 | still gap: 77"
+  },
+  {
+   "song": "chunk-v3-f-kriya-trtiyo-close",
+   "status": "ok",
+   "real": 2232,
+   "covered_before": 950,
+   "gchar": 1252,
+   "residual": 31,
+   "merged": "merged toks: 2201 | paratext skipped: 323 | still gap: 31"
+  },
+  {
+   "song": "chunk-v3-g-kriya-caturtho-k1-11",
+   "status": "ok",
+   "real": 3448,
+   "covered_before": 1487,
+   "gchar": 1918,
+   "residual": 56,
+   "merged": "merged toks: 3392 | paratext skipped: 527 | still gap: 56"
+  },
+  {
+   "song": "chunk-v3-h-kriya-caturtho-k12-19",
+   "status": "ok",
+   "real": 4564,
+   "covered_before": 1874,
+   "gchar": 2644,
+   "residual": 52,
+   "merged": "merged toks: 4512 | paratext skipped: 657 | still gap: 52"
+  },
+  {
+   "song": "chunk-v3-i-kriya-caturtho-close-k20-21",
+   "status": "ok",
+   "real": 2110,
+   "covered_before": 836,
+   "gchar": 1243,
+   "residual": 34,
+   "merged": "merged toks: 2076 | paratext skipped: 309 | still gap: 34"
+  },
+  {
+   "song": "chunk-v3-j-agama-prathamo-k1-7",
+   "status": "ok",
+   "real": 3095,
+   "covered_before": 1318,
+   "gchar": 1733,
+   "residual": 51,
+   "merged": "merged toks: 3044 | paratext skipped: 587 | still gap: 51"
+  },
+  {
+   "song": "chunk-v3-k-agama-prathamo-k8-11-close",
+   "status": "ok",
+   "real": 3362,
+   "covered_before": 1288,
+   "gchar": 2039,
+   "residual": 38,
+   "merged": "merged toks: 3324 | paratext skipped: 573 | still gap: 38"
+  },
+  {
+   "song": "chunk-v3-l-agama-dvitiyo-k1-11",
+   "status": "ok",
+   "real": 2985,
+   "covered_before": 1147,
+   "gchar": 1783,
+   "residual": 66,
+   "merged": "merged toks: 2919 | paratext skipped: 478 | still gap: 66"
+  },
+  {
+   "song": "chunk-v3-m-agama-dvitiyo-close-k12-20",
+   "status": "ok",
+   "real": 3596,
+   "covered_before": 1469,
+   "gchar": 2097,
+   "residual": 40,
+   "merged": "merged toks: 3556 | paratext skipped: 567 | still gap: 40"
+  },
+  {
+   "song": "chunk-v3-n-tattva-prathamo-k1-8",
+   "status": "ok",
+   "real": 3321,
+   "covered_before": 1363,
+   "gchar": 1898,
+   "residual": 67,
+   "merged": "merged toks: 3254 | paratext skipped: 506 | still gap: 67"
+  },
+  {
+   "song": "chunk-v3-o-tattva-trtiyo-k9-15",
+   "status": "ok",
+   "real": 2815,
+   "covered_before": 1127,
+   "gchar": 1647,
+   "residual": 43,
+   "merged": "merged toks: 2772 | paratext skipped: 484 | still gap: 43"
+  },
+  {
+   "song": "chunk-v3-p-tattva-caturtho-close-k1-3",
+   "status": "skip-pass"
+  }
+ ]
+}
