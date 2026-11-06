@@ -31,6 +31,46 @@ MAX_BODY = 2 * 1024 * 1024
 SUBMISSION_LOCK = threading.Lock()
 
 
+def openpatala_entry(repo: Path, work: str) -> dict:
+    """OpenPāṭala identity block for a submitted essay. Read-only, never raises.
+
+    Same shape as emit_scholar.source_ref / zenodo provenance (record sha +
+    mapping status, explicit nulls on gaps). Runs server-side against the
+    pinned repo tree, so the identity is service-observed, not client-reported
+    (contrast citation_note's client-reported projection hashes). No
+    edition_id: editions are CANDIDATE strings. Never blocks submission:
+    gaps are nulls with a note.
+    """
+    null = {"openpatala_work_id": None, "mapping_status": "UNMAPPED",
+            "record_status": None, "record_sha256": None, "edition_label": None,
+            "note": ""}
+    try:
+        rec_p = repo / work / "source" / "record.json"
+        if not rec_p.is_file():
+            null["note"] = "no uniform source record"
+            return null
+        rec = json.loads(rec_p.read_text(encoding="utf-8"))
+        if not isinstance(rec, dict) or rec.get("status") != "RECORDED":
+            null["note"] = f"source record status {rec.get('status') if isinstance(rec, dict) else 'unreadable'}"
+            return null
+        try:
+            entry = json.loads((repo / "source-maps" / "openpatala.json").read_text(
+                encoding="utf-8")).get("works", {}).get(work, {}) or {}
+        except (OSError, ValueError):
+            entry = {}
+        return {
+            "openpatala_work_id": entry.get("openpatala_work_id"),
+            "mapping_status": entry.get("mapping_status", "UNMAPPED"),
+            "record_status": "RECORDED",
+            "record_sha256": hashlib.sha256(rec_p.read_bytes()).hexdigest(),
+            "edition_label": (rec.get("edition") or {}).get("label"),
+            "note": "service-observed at submission commit; edition candidate, witness UNKNOWN",
+        }
+    except OSError:
+        null["note"] = "source record unreadable"
+        return null
+
+
 def git(repo: Path, *args: str, check: bool = True):
     return subprocess.run(["git", "-C", str(repo), *args], text=True,
                           capture_output=True, check=check)
@@ -235,7 +275,8 @@ def submit_essay(repo: Path, payload: dict, push_remote: str | None = None) -> d
              'text':snap['content']['text'],'author':payload['author'],'author_id':payload['account_id'],
              'identity_state':'SELF_ATTESTED','rights':approval['rights'],'signoff':approval,'snapshot':snap,
              'assisted':bool(snap['content'].get('assisted')),'model':str(snap['content'].get('model',''))[:120],
-             'validation_scope':'essay structure and declared source links'}
+             'validation_scope':'essay structure and declared source links',
+             'openpatala':openpatala_entry(repo,work)}
     if citations:
         entry['source_git_commit']=base
         entry['citation_note']='T1 references and proof checked at source_git_commit; projection hashes are client-reported.'
