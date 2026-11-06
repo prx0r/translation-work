@@ -39,7 +39,7 @@ for t in q:
     f=f"process/beam/claims/{t['id']}.json"
     try: age=now-os.path.getmtime(f)
     except OSError: age=9999
-    if age > 420:   # 7 min: owner dead
+    if age > 1500:  # 25 min: owner dead (24-verse calls can take 10)
         t['status']='pending'; t['attempts']=min(t.get('attempts',0),2); n+=1
         try: os.unlink(f)
         except OSError: pass
