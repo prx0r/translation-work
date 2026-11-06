@@ -41,7 +41,7 @@ def main():
     src = source_spans(args.work)[args.verse]
     mp = json.loads((ROOT / args.work / 'chunk-song-map.json').read_text())
     chunk_id = next(c for c, s in mp.items() if s == args.song)
-    t1path = ROOT / args.work / f'T1-{chunk_id}.md'
+    t1path = ROOT / args.work / chunk_id / 'T1.md'
     doc = parse_t1doc(t1path)
     dlem = [d[0] for d in doc]
     sm = difflib.SequenceMatcher(None, src, dlem, autojunk=False)

@@ -14,7 +14,7 @@ Run shastra_merge.py --gtables <song>_Gchar afterwards to fold them in.
 from __future__ import annotations
 import argparse, json, re, sys, glob, pathlib, difflib
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from workcfg import source_spans
+from workcfg import source_spans, data_dir
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
@@ -71,6 +71,9 @@ def find_bundle(chunk_id: str):
 
 
 def find_rows(chunk_id: str):
+    repo = ROOT / 'ipvv' / chunk_id / 'T1.l0.jsonl'
+    if repo.exists():
+        return repo
     for d in ('/tmp/opencode/r2/v1/translations/_stack/ipvv/l0_v1',
               '/tmp/opencode/r2/full/translations/_stack/ipvv/l0'):
         for v in (chunk_id, chunk_id.replace('.', '-')):
@@ -82,7 +85,7 @@ def find_rows(chunk_id: str):
 
 def doc_paren_index(chunk_id: str):
     """normalized surface -> (gloss, line) from the frozen T1 doc, first occurrence wins."""
-    p = ROOT / 'ipvv' / f'T1-{chunk_id}.md'
+    p = ROOT / 'ipvv' / chunk_id / 'T1.md'
     out = {}
     if not p.exists():
         return out
@@ -102,7 +105,7 @@ def doc_paren_index(chunk_id: str):
 
 def covered_from_data(song: str, src):
     """Re-derive source idx covered by current data (order-preserving surface match)."""
-    tp = ROOT / 'ipvv' / 'data' / f'{song}.t1.json'
+    tp = data_dir('ipvv', song) / f'{song}.t1.json'
     if not tp.exists():
         return set()
     t1 = json.loads(tp.read_text())

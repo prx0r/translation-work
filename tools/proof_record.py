@@ -18,6 +18,17 @@ import argparse, difflib, hashlib, json, re, sys
 from pathlib import Path
 
 TOOL_VERSION = "proof_record v1 2026-11-01"
+
+_ARGS = None  # set in main(); _dd()/_cid() resolve chunk paths through it
+
+def _cid() -> str:
+    from workcfg import chunk_id_for
+    return chunk_id_for(_ARGS.work, _ARGS.song) or _ARGS.song
+
+
+def _dd():
+    from workcfg import data_dir
+    return data_dir(_ARGS.work, _ARGS.song)
 IAST = set("āīūṛṝḷḹēōṃḥṅñṭḍṇśṣ")
 META_PATTERNS = [
     r"the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)",
@@ -122,6 +133,8 @@ def main() -> int:
     default_source = root.parent / "ipvv/site/data/sanskrit/sivastotravali-u.txt"
     ap.add_argument("--gretil", default=str(default_source))
     args = ap.parse_args()
+    global _ARGS
+    _ARGS = args
     w = root / args.work
     song = args.song
     SIVA_DEFAULT = str(default_source)
@@ -152,7 +165,7 @@ def main() -> int:
 
     if args.shastra:
         # Contract T1 rows (data/<song>.t1.json); one row per chunk verse.
-        t1path = w / "data" / f"{song}.t1.json"
+        t1path = _dd() / f"{song}.t1.json"
         if not t1path.exists():
             block.append("T1_JSON_MISSING")
             t1 = {}
@@ -172,7 +185,7 @@ def main() -> int:
 
     # B1: L0 report (classic) or contract L0 JSON (shastra)
     if args.shastra:
-        l0path = w / "data" / f"{song}.l0.json"
+        l0path = _dd() / f"{song}.l0.json"
         if not l0path.exists():
             block.append("L0_JSON_MISSING")
             l0 = {"parsed": 0, "ambiguous": 0, "failed": 0, "tokens": 0}
@@ -218,8 +231,8 @@ def main() -> int:
 
     # B4/B5/B6: C1 vs L2 (classic: C1-*.md/L2-*.md; shastra: data JSON essence/plain_english)
     if args.shastra:
-        c1path = w / "data" / f"{song}.c1.json"
-        l2path = w / "data" / f"{song}.l2.json"
+        c1path = _dd() / f"{song}.c1.json"
+        l2path = _dd() / f"{song}.l2.json"
         if not c1path.exists():
             block.append("C1_JSON_MISSING")
             c1 = ""
@@ -315,7 +328,7 @@ def main() -> int:
 
     # B8: canonical data objects validate (when present — JSON is canonical, MD is rendered view)
     import subprocess as _sp
-    dd = w / "data"
+    dd = _dd()
     if all((dd / f"{song}.{x}.json").exists() for x in ["t1", "l0", "argmap", "l2", "c1"]):
         r = _sp.run([sys.executable, str(Path(__file__).parent / "validate_song.py"),
                      "--song", song, "--work", args.work],
@@ -359,8 +372,8 @@ def main() -> int:
             rec["layer_sha256"][layer] = hashlib.sha256(encoded).hexdigest()
     if args.shastra:
         rec["lineage"] = {"tool": TOOL_VERSION, "source_sha": rec["source_sha"],
-                          "t1": f"data/{song}.t1.json", "l0": f"data/{song}.l0.json",
-                          "l2": f"data/{song}.l2.json", "c1": f"data/{song}.c1.json"}
+                          "t1": f"{_cid()}/data/{song}.t1.json", "l0": f"{_cid()}/data/{song}.l0.json",
+                          "l2": f"{_cid()}/data/{song}.l2.json", "c1": f"{_cid()}/data/{song}.c1.json"}
     else:
         rec["lineage"] = {"tool": TOOL_VERSION, "source_sha": rec["source_sha"],
                           "t1": f"T1-{song}.md", "l0": f"T1-{song}.l0.jsonl",

@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(ROOT / "schemas"))
 from proof_record import load_gretil_song  # noqa: E402
+from workcfg import data_dir  # noqa: E402
 import t1 as t1s, l0 as l0s, argmap as ams, l2 as l2s, c1 as c1s, c2 as c2s  # noqa: E402
 try:
     import l3 as l3s  # noqa: E402
@@ -41,7 +42,7 @@ def main() -> int:
     args = ap.parse_args()
     w = ROOT / args.work
     song = args.song
-    data = w / "data"
+    data = data_dir(args.work, song)
     errs: list[str] = []
 
     t1 = json.loads((data / f"{song}.t1.json").read_text())

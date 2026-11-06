@@ -19,7 +19,7 @@ from importlib import import_module
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
-from workcfg import source_spans
+from workcfg import source_spans, data_dir
 
 
 def is_paratext(t: str) -> bool:
@@ -86,12 +86,12 @@ def main() -> int:
     for tag, a1, a2, b1, b2 in sm.get_opcodes():
         if tag == 'equal':
             scaf += list(zip(range(a1, a2), [rows[b] for b in range(b1, b2)]))
-    data_p = ROOT / args.work / "data" / f"{song}.t1.json"
+    data_p = data_dir(args.work, song) / f"{song}.t1.json"
     cov_p = ROOT / args.cm_dir / f"{song}-covered.json"
     st_p = ROOT / args.cm_dir / f"{song}-status.json"
     if data_p.exists():
         t1 = json.loads(data_p.read_text())
-        l0old = json.loads((ROOT / args.work / "data" / f"{song}.l0.json").read_text())
+        l0old = json.loads((data_dir(args.work, song) / f"{song}.l0.json").read_text())
         # data is the artifact: re-derive covered idx by ordered surface match
         # (tolerates stale sidecars, e.g. after a paratext cleanup)
         covered = set()
@@ -167,7 +167,7 @@ def main() -> int:
     t1[0]['tokens'] = new_toks
     t1[0]['history'].append({'gloss': f"merge: +{len(G)} hand glosses; paratext excluded ({len(skipped)}); still open ({len(still)})",
                             'reason': 'shastra authoring, machine-proposed', 'date': '2026-11-06'})
-    dd = ROOT / args.work / "data"
+    dd = data_dir(args.work, song)
     (dd / f"{song}.t1.json").write_text(json.dumps(t1, indent=1, ensure_ascii=False))
     (dd / f"{song}.l0.json").write_text(json.dumps(new_l0, indent=1, ensure_ascii=False))
     (ROOT / args.cm_dir / f"{song}-covered.json").write_text(json.dumps(sorted(set(new_src_idx))))

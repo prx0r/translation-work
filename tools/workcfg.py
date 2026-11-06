@@ -17,6 +17,29 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SITE_SA = ROOT.parent / "ipvv" / "site" / "data" / "sanskrit"
 
+
+def chunk_id_for(work: str, song: str) -> str | None:
+    """song -> chunk_id via chunk-song-map; None for flat-layout works."""
+    mp_path = ROOT / work / "chunk-song-map.json"
+    if not mp_path.exists():
+        return None
+    mp = json.loads(mp_path.read_text())
+    return next((c for c, s in mp.items() if s == song), None)
+
+
+def data_dir(work: str, song: str) -> Path:
+    """Canonical data dir: <work>/<chunk_id>/data/ (tantrasara layout),
+    falling back to <work>/data/ for flat-layout works."""
+    cid = chunk_id_for(work, song)
+    if cid is None:
+        return ROOT / work / "data"
+    return ROOT / work / cid / "data"
+
+
+def t1_md(work: str, chunk_id: str) -> Path:
+    """Canonical per-chunk T1 doc: <work>/<chunk_id>/T1.md."""
+    return ROOT / work / chunk_id / "T1.md"
+
 WORKS = {
     "sivastotravali": {
         "source": SITE_SA / "sivastotravali-u.txt",

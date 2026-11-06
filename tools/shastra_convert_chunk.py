@@ -8,7 +8,7 @@ from __future__ import annotations
 import argparse, hashlib, json, re, subprocess, sys, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / 'tools'))
-from workcfg import source_spans
+from workcfg import source_spans, data_dir
 
 IPVV = ROOT / 'ipvv'
 
@@ -131,8 +131,8 @@ def main():
     l2_path = IPVV / 'pilot' / f'pilot_{label}_L2_read.md'
     question, premises, inference, uncertainties, speaker = parse_pilot_argmap(am_path)
     prose = parse_pilot_l2(l2_path)
-    t1 = json.loads((w / 'data' / f'{song}.t1.json').read_text())
-    l0 = json.loads((w / 'data' / f'{song}.l0.json').read_text())
+    t1 = json.loads((data_dir(work, song) / f'{song}.t1.json').read_text())
+    l0 = json.loads((data_dir(work, song) / f'{song}.l0.json').read_text())
     l0_ids = {o['id'] for o in l0}
     key_ids = hinge_ids(l0)
     # argmap
@@ -148,7 +148,7 @@ def main():
         'traces': {'t1_verse': f'{song}-v{verse}', 'l0_ids': key_ids, 'sanskrit_sha': src_sha},
         'sanskrit_sha': src_sha,
     }]
-    (w / 'data' / f'{song}.argmap.json').write_text(json.dumps(am, indent=1, ensure_ascii=False))
+    (data_dir(work, song) / f'{song}.argmap.json').write_text(json.dumps(am, indent=1, ensure_ascii=False))
     # L2
     cite = ' | '.join(sp[:12])
     l2 = [{
@@ -158,7 +158,7 @@ def main():
         'l0_ids': key_ids if key_ids else [l0[0]['id']],
         'supplied': [], 'fidelity': 'preserved',
     }]
-    (w / 'data' / f'{song}.l2.json').write_text(json.dumps(l2, indent=1, ensure_ascii=False))
+    (data_dir(work, song) / f'{song}.l2.json').write_text(json.dumps(l2, indent=1, ensure_ascii=False))
     # C1 essence: from argmap question + inference, stripped of quotes
     essence = []
     for s in [question, inference] + (premises[:2] if premises else []):
@@ -174,7 +174,7 @@ def main():
     if len(essence) < 3:
         essence += ['The chunk closes its own argument; see the argument map for the full chain.']
     c1 = {'song': song, 'essence': essence, 'essence_only': True, 'renders': {}}
-    (w / 'data' / f'{song}.c1.json').write_text(json.dumps(c1, indent=1, ensure_ascii=False))
+    (data_dir(work, song) / f'{song}.c1.json').write_text(json.dumps(c1, indent=1, ensure_ascii=False))
     # 3. validate + proof
     run(['python3', 'tools/validate_song.py', '--song', song, '--work', work])
     run(['python3', 'tools/proof_record.py', '--song', song, '--work', work, '--shastra'])
