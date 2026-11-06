@@ -168,3 +168,30 @@ uniform 8s"). Vague bounces waste cycles.
   no production cutovers (videofactory parity); no invented identifiers.
 - Log every consequential step (`beam_ledger.py log`); curate learnings into
   mistakes.md + the skill (that file is the lab notebook, not a trophy shelf).
+
+## 11. TAL campaign (autonomous minimal-gold) — how it runs
+
+```bash
+setsid nohup bash tools/tal_run_all.sh > process/beam/tal_campaign.log 2>&1 < /dev/null &
+```
+
+Per ahnika, `tools/tal_stage.py` runs: parse legacy T1 → seed beam tasks →
+wait (workers must be alive) → assemble working-t1/l0/argmap/l2 + data/*.json
+→ `validate_song` → `proof_record --shastra` → STATUS/REGISTRY → manifest →
+commit+push. Order is shortest-first; proof BLOCKED parks that ahnika and
+moves on (never forced).
+
+Task kinds per verse: `tal_gloss` (per-token gloss+grounds), `tal_cm`
+(lemma/morph/grounds), `tal_am` (question/premises/inference/uncertainties/L2).
+Gates: surfaces must equal the token list exactly; gloss lowercase except
+standalone `I`; no grammar-term leakage (genitive/nominative/…/sandhi/
+compound) — use plain English instead; question is the verse's own question,
+≥5 words, never "what does verse N state".
+
+Assessor residue (by design): hand-write verses the gates reject after
+retries; spot-read PASS results; write/approve C1 essence (the driver derives
+a provisional essence from argmap inferences when absent — flagged
+"assessor review outstanding").
+
+State: `tal-<ahnika>/data/*.json`, `STATUS.json`, `proof/`, REGISTRY entry.
+Campaign log: `process/beam/tal_campaign.log`.

@@ -309,3 +309,27 @@ auto-injected. Writing them IS the high-value work: 10 min of search +
 distillation buys hours of usable beam output. A future C1-esque "terse key"
 layer may formalize these as data — if so it is an ADDITIVE layer beside C1,
 never a replacement, and it never carries reader-facing prose.
+
+## 14. TAL campaign (batch tricks that paid, and the next lever)
+
+Proven throughput lever #1: **3 calls per verse → 1 call per verse-group.**
+`tal_triple` asks one beam call for glosses+CM+argmap+L2 of 4 verses, then
+materialises the per-verse files the assemble stage already reads
+(`runs/<song>-{gloss,cm,am}-vNN/`). Validation is per verse, so a group
+fails as a unit and falls back to per-verse tasks for the rejects. Expect
+~4× fewer requests and far less session overhead; latency, not tokens, is
+the binding constraint (free tier is $0).
+
+Other levers, in order of measured value:
+1. **More workers** (5 → 8–10) — free tier is unlimited; polite spacing only.
+2. **Seed all stages upfront** with runner-side fallbacks (never depend on
+   the merge stage having run) — removes a whole 300 s wait cycle per stage.
+3. **Lore once per front** — briefs are cached and injected; re-searching
+   per verse is pure waste.
+4. **Skip CM where the MITRA subset already has morph-grade data** —
+   `tools/mitra_grounds.py` gives senses+attestations; use it as grounds,
+   keep beam for morphology only.
+5. **Window the giant ahnikas** (a15 613v) at ≤60 verses per brief so the
+   lore stays local and rejects are cheap to re-run.
+6. **Never batch the judgment** — grouping drafts is fine; grouping reviews
+   is how laundered errors slip through (mistakes #20, #24).
