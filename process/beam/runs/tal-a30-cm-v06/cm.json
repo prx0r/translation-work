@@ -1,36 +1,36 @@
 {
- "song": "unknown",
- "verse": 1,
+ "song": "tal-a30",
+ "verse": 6,
  "rows": [
   {
    "lemma": "oṃ",
    "morph": "(indecl.)",
-   "grounds": "sacred-syllable + oṃ"
+   "grounds": "verse 6 token 1"
   },
   {
    "lemma": "auṃ",
    "morph": "(indecl.)",
-   "grounds": "aum-syllable + auṃ"
+   "grounds": "verse 6 token 2"
   },
   {
-   "lemma": "hastrayamityetadvidyāmāyākalātraya",
-   "morph": "loc.sg.m/n",
-   "grounds": "in-vidya-maya-kala-three + hastrayamityetadvidyāmāyākalātraye"
+   "lemma": "hastrayamityetadvidyāmāyākalātraye",
+   "morph": "compound",
+   "grounds": "verse 6 token 3"
   },
   {
-   "lemma": "anusvāravisarga",
-   "morph": "nom/acc.du.m",
-   "grounds": "anusvara-and-visarga + anusvāravisargau"
+   "lemma": "anusvāravisargau",
+   "morph": "nom.du.m",
+   "grounds": "verse 6 token 4"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "and + ca"
+   "grounds": "verse 6 token 5"
   },
   {
-   "lemma": "vidyeśeśvaratattva",
-   "morph": "gen.du.n",
-   "grounds": "of-vidya-isha-ishvara-tattva + vidyeśeśvaratattvayoḥ"
+   "lemma": "vidyeśeśvaratattvayoḥ",
+   "morph": "loc.du.n",
+   "grounds": "verse 6 token 6"
   }
  ]
 }

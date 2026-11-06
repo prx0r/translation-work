@@ -1,0 +1,749 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "aghoryādau",
+     "gloss": "aghora-beginning",
+     "grounds": "compound locative phrase",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "saptake",
+     "gloss": "in-seven",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "pivanyāḥ",
+     "gloss": "of-pivanya",
+     "grounds": "genitive noun",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "pariśiṣṭakam",
+     "gloss": "remainder",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pratyekavarṇago@pyuktaḥ",
+     "gloss": "each-letter-associated",
+     "grounds": "compound participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "siddhayogīśvarīmate",
+     "gloss": "in-siddhayogishvari-mata",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What remainder appears in the seven beginning with Aghora?",
+   "premises": [
+    "seven beginning with Aghora has remainder",
+    "remainder is each letter associated",
+    "text is Siddhayogishvari-mata"
+   ],
+   "inference": "The remainder in the seven beginning with Aghora is each letter associated in Siddhayogishvari-mata.",
+   "uncertainties": [
+    "pivanyāḥ unclear"
+   ],
+   "plain_english": "In the seven beginning with Aghora there is a remainder, each letter associated, in Siddhayogishvari-mata."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "devatācakravinyāsaḥ",
+     "gloss": "deity-circle-arrangement",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bahutvānna",
+     "gloss": "due-to-multiplicity-not",
+     "grounds": "ablative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-stained",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "visargiṇī",
+     "gloss": "visargini",
+     "grounds": "nominative adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "hum",
+     "grounds": "mantra syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phat",
+     "grounds": "mantra syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-so-forth",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantro@parātmakaḥ",
+     "gloss": "mantra-paratmaka",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why is the deity circle arrangement not stained?",
+   "premises": [
+    "deity circle arrangement is not stained",
+    "multiplicity prevents staining",
+    "mantra is paratmaka with hum and phat"
+   ],
+   "inference": "The deity circle arrangement is not stained because of multiplicity, while Maya is visargini and the mantra is paratmaka with hum and phat.",
+   "uncertainties": [
+    "visargiṇī relation unclear"
+   ],
+   "plain_english": "The arrangement of the deity circle is not stained due to multiplicity; Maya is visargini, and the mantra is paratmaka with hum and phat."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "parāyāstūktasadvyāptirjīvaḥ",
+     "gloss": "jiva-pervasion-of-para",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sahacaturdaśaḥ",
+     "gloss": "with-fourteen",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sānekabhedā",
+     "gloss": "with-many-divisions",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "triśiraḥśāstre",
+     "gloss": "in-trishira-shastra",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "stated",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "maheśinā",
+     "gloss": "by-maheshin",
+     "grounds": "instrumental noun",
+     "morph": "inst.sg.m"
+    }
+   ],
+   "question": "Where is the jiva pervasion of para stated?",
+   "premises": [
+    "jiva is pervasion of para",
+    "it has many divisions",
+    "it is stated in Trishira-shastra"
+   ],
+   "inference": "The jiva as pervasion of para, with many divisions, is stated in Trishira-shastra by Maheshin.",
+   "uncertainties": [
+    "sahacaturdaśaḥ unclear"
+   ],
+   "plain_english": "The jiva is the pervasion of para with many divisions, stated in Trishira-shastra by Maheshin."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "svarūpato",
+     "gloss": "by-nature",
+     "grounds": "ablative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vibhinnāpi",
+     "gloss": "though-different",
+     "grounds": "concessive participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "racanānekasaṅkulā",
+     "gloss": "entangled-in-many-constructions",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "jīvaḥ",
+     "gloss": "jiva",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prāṇastha",
+     "gloss": "residing-in-prana",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "evātra",
+     "gloss": "here-indeed",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇo",
+     "gloss": "prana",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jīvasaṃsthitaḥ",
+     "gloss": "residing-in-jiva",
+     "grounds": "compound participle",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How do jiva and prana relate here?",
+   "premises": [
+    "jiva is different in nature",
+    "jiva is entangled in many constructions",
+    "jiva or prana resides in the other"
+   ],
+   "inference": "Though different in nature and entangled in constructions, here either jiva resides in prana or prana resides in jiva.",
+   "uncertainties": [
+    "racanānekasaṅkulā scope"
+   ],
+   "plain_english": "Though different in nature and entangled in many constructions, here jiva resides in prana, or prana resides in jiva."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "ādhārādheyabhāvena",
+     "gloss": "by-support-supported-relation",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "avinābhāvayogataḥ",
+     "gloss": "by-inseparable-yoga",
+     "grounds": "ablative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "haṃsaṃ",
+     "gloss": "hamsa",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "cāmṛtamadhyasthaṃ",
+     "gloss": "and-amrita-in-middle",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kālarudravibheditam",
+     "gloss": "divided-by-kalarudra",
+     "grounds": "compound participle",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is divided by Kalarudra?",
+   "premises": [
+    "support and supported are inseparable",
+    "hamsa and amrita are in the middle",
+    "Kalarudra divides them"
+   ],
+   "inference": "By support-supported relation and inseparable yoga, hamsa and amrita in the middle are divided by Kalarudra.",
+   "uncertainties": [
+    "haṃsaṃ object scope"
+   ],
+   "plain_english": "By the relation of support and supported and inseparable yoga, hamsa and amrita in the middle are divided by Kalarudra."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "bhuvaneśaśiroyuktamanaṅgadvayayojitam",
+     "gloss": "joined-to-bhuvaneshas-head-with-two-anangas",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dīptāddīptataraṃ",
+     "gloss": "brighter-than-bright",
+     "grounds": "comparative adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ṣaṭcakrakramayojitam",
+     "gloss": "arranged-in-six-chakras",
+     "grounds": "compound participle",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is to be known brighter than bright?",
+   "premises": [
+    "it is joined to Bhuvaneshas head",
+    "it has two anangas",
+    "it is arranged in six chakras"
+   ],
+   "inference": "The thing joined to Bhuvaneshas head with two anangas, brighter than bright, arranged in six chakras, is to be known.",
+   "uncertainties": [
+    "bhuvaneśaśiroyuktamanaṅgadvayayojitam parsing"
+   ],
+   "plain_english": "Joined to Bhuvaneshas head with two anangas, brighter than bright, arranged in six chakras, it is to be known."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "prāṇaṃ",
+     "gloss": "prana",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "daṇḍāsanasthaṃ",
+     "gloss": "in-staff-posture",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "guhyaśaktīcchayā",
+     "gloss": "by-secret-shakti-desire",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "yutam",
+     "gloss": "united",
+     "grounds": "participle",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pareyaṃ",
+     "gloss": "this-supreme",
+     "grounds": "demonstrative adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vācikoddiṣṭā",
+     "gloss": "spoken-as-vacika",
+     "grounds": "compound participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mahājñānasvarūpataḥ",
+     "gloss": "from-great-knowledge-nature",
+     "grounds": "ablative compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is prana described in staff posture?",
+   "premises": [
+    "prana is in staff posture",
+    "it is united with secret shakti desire",
+    "supreme is spoken as vacika"
+   ],
+   "inference": "Prana in staff posture is united with secret shakti desire, and the supreme is spoken as vacika from great knowledge nature.",
+   "uncertainties": [
+    "pareyaṃ gender"
+   ],
+   "plain_english": "Prana in staff posture is united with secret shakti desire; this supreme is spoken as vacika from the nature of great knowledge."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "sphuṭaṃ",
+     "gloss": "clear",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhairavahṛjjñānamidaṃ",
+     "gloss": "this-bhairava-heart-knowledge",
+     "grounds": "compound demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tvekākṣaraṃ",
+     "gloss": "one-syllable",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "alone",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "khasthaṃ",
+     "gloss": "in-space",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sāvitrikāyutam",
+     "gloss": "with-savitri",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is this clear Bhairava heart knowledge?",
+   "premises": [
+    "it is one-syllable supreme",
+    "it is nectar alone in space",
+    "it may be with Savitri"
+   ],
+   "inference": "This clear Bhairava heart knowledge is one-syllable supreme nectar, alone in space, or with Savitri.",
+   "uncertainties": [
+    "tvekākṣaraṃ parsing"
+   ],
+   "plain_english": "This clear Bhairava heart knowledge is the one-syllable supreme nectar, alone in space, or with Savitri."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "śūnyadvayasamopetaṃ",
+     "gloss": "endowed-with-two-voids",
+     "grounds": "compound participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "parāyā",
+     "gloss": "of-para",
+     "grounds": "genitive noun",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yugmayāge",
+     "gloss": "in-paired-sacrifice",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "prasiddhaṃ",
+     "gloss": "well-known",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tattvavedibhiḥ",
+     "gloss": "by-knowers-of-tattva",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "What is to be done by knowers of tattva?",
+   "premises": [
+    "para heart is supreme",
+    "it is endowed with two voids",
+    "it is well known in paired sacrifice"
+   ],
+   "inference": "The supreme heart of para, endowed with two voids and well known in paired sacrifice, is to be done by knowers of tattva.",
+   "uncertainties": [
+    "yugmayāge meaning"
+   ],
+   "plain_english": "The supreme heart of para, endowed with two voids, well known in paired sacrifice, is to be done by knowers of tattva."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "anye@pyekākṣarā",
+     "gloss": "other-one-syllable",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "relative pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ekavīravidhānataḥ",
+     "gloss": "by-ekavira-rite",
+     "grounds": "ablative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "guptā",
+     "gloss": "hidden",
+     "grounds": "participle",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "guptatarāste",
+     "gloss": "more-hidden-they",
+     "grounds": "comparative pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṃgābhijanavarjitāḥ",
+     "gloss": "devoid-of-limbs-and-family",
+     "grounds": "compound participle",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "How are other one-syllable mantras described?",
+   "premises": [
+    "other one-syllable mantras are hidden",
+    "they are more hidden by Ekavira rite",
+    "they are devoid of limbs and family"
+   ],
+   "inference": "Other one-syllable mantras are hidden and more hidden by Ekavira rite, and are devoid of limbs and family.",
+   "uncertainties": [
+    "anye@pyekākṣarā sandhi"
+   ],
+   "plain_english": "Other one-syllable mantras are hidden, more hidden by Ekavira rite, and devoid of limbs and family."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "yaṣṭavyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sādhakendraistu",
+     "gloss": "by-siddha-leaders",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "kulasthāḥ",
+     "gloss": "abiding-in-kula",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "siddhidāyakāḥ",
+     "gloss": "giving-siddhi",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kulakramavidhānena",
+     "gloss": "by-kula-rite",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "sūkṣmavijñānayogataḥ",
+     "gloss": "with-subtle-knowledge-yoga",
+     "grounds": "ablative compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who worships the kula abiding siddhi givers?",
+   "premises": [
+    "they are to be worshipped",
+    "they abide in kula",
+    "they give siddhi"
+   ],
+   "inference": "The kula abiding siddhi givers are to be worshipped by siddha leaders through kula rite with subtle knowledge yoga.",
+   "uncertainties": [
+    "yaṣṭavyāḥ object"
+   ],
+   "plain_english": "They are to be worshipped by siddha leaders, abiding in kula and giving siddhi, through kula rite with subtle knowledge yoga."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "anuṣṭheyāḥ",
+     "gloss": "to-be-performed",
+     "grounds": "gerundive",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative noun",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "striyā",
+     "gloss": "by-woman",
+     "grounds": "instrumental noun",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "puruṣeṇa",
+     "gloss": "by-man",
+     "grounds": "instrumental noun",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sakāro",
+     "gloss": "sa-syllable",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dīrghaṣaṭkena",
+     "gloss": "with-six-longs",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "yukto@ṅgānyānanāni",
+     "gloss": "joined-limbs-and-faces",
+     "grounds": "compound participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "By whom are these rites to be performed?",
+   "premises": [
+    "rites are to be performed always",
+    "they are performed by woman or man",
+    "sa is joined with six longs"
+   ],
+   "inference": "These rites are to be performed always, by woman or man, with sa joined with six longs, limbs and faces.",
+   "uncertainties": [
+    "yukto@ṅgānyānanāni parsing"
+   ],
+   "plain_english": "These are to be performed always, O goddess, by woman or man, with sa joined with six longs, limbs and faces."
+  }
+ ]
+}

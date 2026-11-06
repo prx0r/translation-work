@@ -1,61 +1,61 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a30",
+ "verse": 36,
  "rows": [
   {
-   "lemma": "anuṣṭhā",
-   "morph": "m.nom.pl",
-   "grounds": "to-be-performed + anuṣṭheyāḥ"
+   "lemma": "anuṣṭheyāḥ",
+   "morph": "nom.pl.m",
+   "grounds": "gerundive"
   },
   {
    "lemma": "sadā",
    "morph": "indecl.",
-   "grounds": "always + sadā"
+   "grounds": "adverb"
   },
   {
-   "lemma": "devī",
-   "morph": "f.voc.sg",
-   "grounds": "goddess + devi"
+   "lemma": "devi",
+   "morph": "voc.sg.f",
+   "grounds": "vocative noun"
   },
   {
-   "lemma": "strī",
-   "morph": "f.inst.sg",
-   "grounds": "by-woman + striyā"
-  },
-  {
-   "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "or + vā"
-  },
-  {
-   "lemma": "puruṣa",
-   "morph": "m.inst.sg",
-   "grounds": "by-man + puruṣeṇa"
+   "lemma": "striyā",
+   "morph": "inst.sg.f",
+   "grounds": "instrumental noun"
   },
   {
    "lemma": "vā",
    "morph": "indecl.",
-   "grounds": "or + vā"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "sakāra",
-   "morph": "m.nom.sg",
-   "grounds": "sa-letter + sakāro"
+   "lemma": "puruṣeṇa",
+   "morph": "inst.sg.m",
+   "grounds": "instrumental noun"
   },
   {
-   "lemma": "dīrghaṣaṭka",
-   "morph": "n.inst.sg",
-   "grounds": "by-long-six + dīrghaṣaṭkena"
+   "lemma": "vā",
+   "morph": "indecl.",
+   "grounds": "conjunction"
   },
   {
-   "lemma": "yukta+aṅga+ānana",
-   "morph": "m.nom.sg",
-   "grounds": "joined-with-limbs-and-faces + yukto@ṅgānyānanāni"
+   "lemma": "sakāro",
+   "morph": "nom.sg.m",
+   "grounds": "compound nominative"
+  },
+  {
+   "lemma": "dīrghaṣaṭkena",
+   "morph": "inst.sg.n",
+   "grounds": "instrumental compound"
+  },
+  {
+   "lemma": "yukto@ṅgānyānanāni",
+   "morph": "nom.sg.m",
+   "grounds": "compound participle"
   },
   {
    "lemma": "tu",
    "morph": "indecl.",
-   "grounds": "but + tu"
+   "grounds": "conjunction"
   }
  ]
 }

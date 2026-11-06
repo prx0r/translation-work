@@ -1,0 +1,179 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣādabhajacchrīmāñśrīkaṇṭho",
+     "gloss": "directly-worshipped-glorious-shrikantha",
+     "grounds": "sandhi compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mānuṣīṃ",
+     "gloss": "human",
+     "grounds": "feminine adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tanum",
+     "gloss": "body",
+     "grounds": "feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīryaṃ",
+     "gloss": "power",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puraivoktaṃ",
+     "gloss": "previously-said",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvatrānusaredguruḥ",
+     "gloss": "guru-should-follow-everywhere",
+     "grounds": "sandhi compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who directly worshipped the human body and what should the guru follow everywhere?",
+   "premises": [
+    "Śrīkaṇṭha directly worshipped human body.",
+    "Power was previously stated.",
+    "Guru should follow it everywhere."
+   ],
+   "inference": "The guru follows the previously stated power everywhere.",
+   "uncertainties": [
+    "Sandhi boundaries in compounds are interpretive."
+   ],
+   "plain_english": "The glorious Śrīkaṇṭha, who directly worshipped the human body, has power previously stated; the guru should follow it everywhere."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "arthabījapraveśāntaruccārādyanusārataḥ",
+     "gloss": "according-to-meaning-seed-entry-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not-indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkiṃcanāpyasti",
+     "gloss": "nothing-at-all-exists",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatpurā",
+     "gloss": "which-before",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirūpitam",
+     "gloss": "explained",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What exists that was not previously explained according to meaning and seed?",
+   "premises": [
+    "Meaning and seed guide explanation.",
+    "Nothing exists unexplained.",
+    "Everything was previously explained."
+   ],
+   "inference": "No new unexplained thing remains.",
+   "uncertainties": [
+    "Compound segmentation is interpretive."
+   ],
+   "plain_english": "According to meaning, seed, entry, and so on, nothing at all exists that was not previously explained."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "niṣphalā",
+     "gloss": "fruitless",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punaruktistu",
+     "gloss": "repetition-however",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāsmabhyaṃ",
+     "gloss": "not-to-us",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jātu",
+     "gloss": "ever",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rocate",
+     "gloss": "pleases",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root ruc"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantravidyādisvarūpamupavarṇitam",
+     "gloss": "described-nature-of-mantra-knowledge-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is repetition fruitless to us and what has been described?",
+   "premises": [
+    "Repetition is fruitless to us.",
+    "It never pleases us.",
+    "Mantra knowledge nature was described."
+   ],
+   "inference": "Repetition is rejected because mantra knowledge nature is already described.",
+   "uncertainties": [
+    "Compound segmentation is interpretive."
+   ],
+   "plain_english": "Repetition is fruitless to us; thus the nature of mantra knowledge and so on has been described."
+  }
+ ]
+}

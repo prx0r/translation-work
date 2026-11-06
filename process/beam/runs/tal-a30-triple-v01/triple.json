@@ -1,0 +1,767 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "verse 1 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathocitamantrakadambakaṃ",
+     "gloss": "fitting-mantra-cluster",
+     "grounds": "verse 1 token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "trikakulakramayogi",
+     "gloss": "trika-lineage-sequence-yogi",
+     "grounds": "verse 1 token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-explained",
+     "grounds": "verse 1 token 4",
+     "morph": "3.sg.pass-pres root nirupa"
+    },
+    {
+     "surface": "tāvadvimarśānārūḍhadhiyāṃ",
+     "gloss": "for-those-not-risen-to-reflection",
+     "grounds": "verse 1 token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "tātsiddhaye",
+     "gloss": "for-its-accomplishment",
+     "grounds": "verse 1 token 6",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "verse 1 token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the fitting mantra cluster explained in order?",
+   "premises": [
+    "mantra cluster is explained",
+    "order is specified",
+    "accomplishment is intended"
+   ],
+   "inference": "The verse introduces an ordered explanation of mantras for accomplishment.",
+   "uncertainties": [
+    "exact compound boundaries"
+   ],
+   "plain_english": "Now the fitting cluster of mantras is explained in order, for the accomplishment of those not yet risen to reflection."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "pratibuddhā",
+     "gloss": "awakened",
+     "grounds": "verse 2 token 1",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "verse 2 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "verse 2 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "verse 2 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vimarśaikasvabhāvakāḥ",
+     "gloss": "of-reflection-only-nature",
+     "grounds": "verse 2 token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "svatantrasyaiva",
+     "gloss": "of-the-free-one-only",
+     "grounds": "verse 2 token 6",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ciddhāmnaḥ",
+     "gloss": "of-consciousness-light",
+     "grounds": "verse 2 token 7",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "svātantryāt",
+     "gloss": "from-freedom",
+     "grounds": "verse 2 token 8",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "kartṛtāmayāḥ",
+     "gloss": "endowed-with-agency",
+     "grounds": "verse 2 token 9",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Why are awakened mantras endowed with agency?",
+   "premises": [
+    "awakened mantras have reflection nature",
+    "consciousness light is free",
+    "freedom gives agency"
+   ],
+   "inference": "Awakened mantras possess agency through the freedom of consciousness.",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "Indeed those awakened mantras, whose nature is reflection alone, are endowed with agency from the freedom of the free consciousness-light."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "yamāviśanti",
+     "gloss": "whom-they-enter",
+     "grounds": "verse 3 token 1",
+     "morph": "3.pl.act-pres root avis"
+    },
+    {
+     "surface": "cācāryaṃ",
+     "gloss": "and-teacher",
+     "grounds": "verse 3 token 2",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "verse 3 token 3",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tādātmyanirūḍhitaḥ",
+     "gloss": "from-identity-established",
+     "grounds": "verse 3 token 4",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "svatantrīkurvate",
+     "gloss": "make-free",
+     "grounds": "verse 3 token 5",
+     "morph": "3.pl.act-pres root svatantri"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "verse 3 token 6",
+     "morph": "3.pl.act-pres root ya"
+    },
+    {
+     "surface": "karaṇānyapi",
+     "gloss": "instruments-also",
+     "grounds": "verse 3 token 7",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "kartṛtām",
+     "gloss": "agency",
+     "grounds": "verse 3 token 8",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What happens when mantras enter the teacher?",
+   "premises": [
+    "mantras enter teacher",
+    "identity is established",
+    "instruments gain agency"
+   ],
+   "inference": "Through established identity, mantras make the teacher free and instruments gain agency.",
+   "uncertainties": [
+    "sandhi splitting"
+   ],
+   "plain_english": "The mantras that enter the teacher, from established identity, make him free, and the instruments too attain agency."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "ādhāraśaktau",
+     "gloss": "in-support-power",
+     "grounds": "verse 4 token 1",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrim",
+     "grounds": "verse 4 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthvīprabhṛtau",
+     "gloss": "earth-and-so-forth",
+     "grounds": "verse 4 token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 4 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣṭaye",
+     "gloss": "in-fourfold",
+     "grounds": "verse 4 token 5",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kṣlāṃ",
+     "gloss": "kshlam",
+     "grounds": "verse 4 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣvīṃ",
+     "gloss": "kshvim",
+     "grounds": "verse 4 token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃ",
+     "gloss": "vam",
+     "grounds": "verse 4 token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣamiti",
+     "gloss": "ksham-thus",
+     "grounds": "verse 4 token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāhuḥ",
+     "gloss": "they-say",
+     "grounds": "verse 4 token 10",
+     "morph": "3.pl.act-pres root prah"
+    },
+    {
+     "surface": "kramādvarṇacatuṣṭayam",
+     "gloss": "ordered-four-letters",
+     "grounds": "verse 4 token 11",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which letters are assigned to the support power?",
+   "premises": [
+    "support power has fourfold set",
+    "letters are assigned",
+    "order is given"
+   ],
+   "inference": "The verse assigns an ordered four-letter set to the support power.",
+   "uncertainties": [
+    "mantra syllable parsing"
+   ],
+   "plain_english": "In the support power, earth and so forth, they say the ordered four-letter set is hrim, kshlam, kshvim, vam, ksham."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "haṃ",
+     "gloss": "ham",
+     "grounds": "verse 5 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāle",
+     "gloss": "in-channel",
+     "grounds": "verse 5 token 2",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "yam",
+     "grounds": "verse 5 token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "verse 5 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raṃ",
+     "gloss": "ram",
+     "grounds": "verse 5 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laṃ",
+     "gloss": "lam",
+     "grounds": "verse 5 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃ",
+     "gloss": "vam",
+     "grounds": "verse 5 token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmādicatuṣṭaye",
+     "gloss": "in-duty-and-so-forth-fourfold",
+     "grounds": "verse 5 token 8",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṛṃ",
+     "gloss": "rim",
+     "grounds": "verse 5 token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṝṃ",
+     "gloss": "rrim",
+     "grounds": "verse 5 token 10",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḷṃ",
+     "gloss": "lim",
+     "grounds": "verse 5 token 11",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḷḷṃ",
+     "gloss": "llim",
+     "grounds": "verse 5 token 12",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣke",
+     "gloss": "in-fourfold",
+     "grounds": "verse 5 token 13",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 5 token 14",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viparītakramādbhavet",
+     "gloss": "arises-in-reverse-order",
+     "grounds": "verse 5 token 15",
+     "morph": "3.sg.act-pres root bhu"
+    }
+   ],
+   "question": "How do these letters arise in the fourfold sets?",
+   "premises": [
+    "letters are assigned to sets",
+    "some arise in reverse order",
+    "fourfold grouping is used"
+   ],
+   "inference": "The verse gives letter assignments, with one set arising in reverse order.",
+   "uncertainties": [
+    "exact phonetic glosses"
+   ],
+   "plain_english": "Ham in the channel, yam, ram, lam, vam in the duty fourfold, and rim, rrim, lim, llim in the fourfold, arise in reverse order."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "verse 6 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "auṃ",
+     "gloss": "aum",
+     "grounds": "verse 6 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastrayamityetadvidyāmāyākalātraye",
+     "gloss": "this-threefold-in-knowledge-maya-kala",
+     "grounds": "verse 6 token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "anusvāravisargau",
+     "gloss": "anusvara-and-visarga",
+     "grounds": "verse 6 token 4",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 6 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyeśeśvaratattvayoḥ",
+     "gloss": "in-knowledge-lord-principle",
+     "grounds": "verse 6 token 6",
+     "morph": "loc.du.n"
+    }
+   ],
+   "question": "Which syllables belong to knowledge, maya, and kala?",
+   "premises": [
+    "om and aum are given",
+    "threefold set is named",
+    "anusvara and visarga are added"
+   ],
+   "inference": "The verse assigns om, aum, and related marks to the threefold and higher principles.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Om, aum, this threefold in knowledge, maya, and kala; anusvara and visarga belong to knowledge, lord, and supreme principle."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "kādibhāntāḥ",
+     "gloss": "from-ka-to-bha",
+     "grounds": "verse 7 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "kesareṣu",
+     "gloss": "in-filaments",
+     "grounds": "verse 7 token 2",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "prāṇo@ṣṭasvarasaṃyutaḥ",
+     "gloss": "prana-with-eight-vowels",
+     "grounds": "verse 7 token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "sabinduko",
+     "gloss": "with-bindu",
+     "grounds": "verse 7 token 4",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "daleṣvaṣṭasvatha",
+     "gloss": "in-eight-petals-then",
+     "grounds": "verse 7 token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "verse 7 token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "verse 7 token 7",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dīpitam",
+     "gloss": "is-illumined",
+     "grounds": "verse 7 token 8",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Where are the ka-to-bha letters placed?",
+   "premises": [
+    "letters range ka to bha",
+    "filaments receive them",
+    "prana has eight vowels"
+   ],
+   "inference": "The verse places ka-to-bha letters in filaments and petals with prana and bindu.",
+   "uncertainties": [
+    "sandhi and compound parsing"
+   ],
+   "plain_english": "The letters from ka to bha are in the filaments; prana with eight vowels and bindu is in the eight petals; one's own name is illumined."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "śaktīnāṃ",
+     "gloss": "of-powers",
+     "grounds": "verse 8 token 1",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "navakasya",
+     "gloss": "of-ninefold",
+     "grounds": "verse 8 token 2",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "syācchaṣasā",
+     "gloss": "would-be-sha-sha-sa",
+     "grounds": "verse 8 token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇḍalatraye",
+     "gloss": "in-three-circles",
+     "grounds": "verse 8 token 4",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sabindukāḥ",
+     "gloss": "with-bindu",
+     "grounds": "verse 8 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kṣmaṃ",
+     "gloss": "kshmam",
+     "grounds": "verse 8 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prete",
+     "gloss": "in-preta",
+     "grounds": "verse 8 token 7",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jraṃ",
+     "gloss": "jram",
+     "grounds": "verse 8 token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlaśṛṅgeṣu",
+     "gloss": "in-trident-peaks",
+     "grounds": "verse 8 token 9",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-assign",
+     "grounds": "verse 8 token 10",
+     "morph": "3.sg.opt.act root klp"
+    }
+   ],
+   "question": "How are the nine powers arranged in circles?",
+   "premises": [
+    "ninefold powers are named",
+    "three circles are used",
+    "bindu marks are included"
+   ],
+   "inference": "The verse assigns sha-sha-sa with bindu to three circles and kshmam and jram to preta and trident peaks.",
+   "uncertainties": [
+    "phonetic token parsing"
+   ],
+   "plain_english": "For the nine powers, sha-sha-sa with bindu are in three circles; kshmam is in preta, and jram is assigned to trident peaks."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "pṛthagāsanapūjāyāṃ",
+     "gloss": "in-separate-seat-worship",
+     "grounds": "verse 9 token 1",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "kramānmantrā",
+     "gloss": "mantras-in-order",
+     "grounds": "verse 9 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ime",
+     "gloss": "these",
+     "grounds": "verse 9 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "are-remembered",
+     "grounds": "verse 9 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "saṃkṣepapūjane",
+     "gloss": "in-brief-worship",
+     "grounds": "verse 9 token 5",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 9 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgādyamantyaṃ",
+     "gloss": "first-to-last",
+     "grounds": "verse 9 token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 9 token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījakam",
+     "gloss": "seed-syllable",
+     "grounds": "verse 9 token 9",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How are mantras used in separate and brief worship?",
+   "premises": [
+    "separate seat worship uses ordered mantras",
+    "brief worship uses first and last",
+    "seed syllable is included"
+   ],
+   "inference": "The verse distinguishes ordered mantras for separate worship from first-last seed use in brief worship.",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "In separate seat worship these mantras are remembered in order; in brief worship, the first to last seed syllable is used."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "ādāyādhāraśaktyādiśūlaśṛṅgāntamarcayet",
+     "gloss": "taking-from-support-power-to-trident-peak-worship",
+     "grounds": "verse 10 token 1",
+     "morph": "3.sg.opt.act root arc"
+    },
+    {
+     "surface": "agnimārutapṛthvyambusaṣaṣṭhasvarabindukam",
+     "gloss": "fire-air-earth-water-sixth-vowel-bindu",
+     "grounds": "verse 10 token 2",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should worship proceed from support power to trident peak?",
+   "premises": [
+    "worship spans support power to trident peak",
+    "elements and vowel bindu are included",
+    "taking is prescribed"
+   ],
+   "inference": "The verse prescribes worship from support power to trident peak with elements and sixth vowel bindu.",
+   "uncertainties": [
+    "long compound segmentation"
+   ],
+   "plain_english": "Taking from support power to trident peak, one should worship with fire, air, earth, water, sixth vowel, and bindu."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "ratiśekharamantro@sya",
+     "gloss": "rati-crest-mantra-of-this",
+     "grounds": "verse 11 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaktrāṅgaṃ",
+     "gloss": "face-limb",
+     "grounds": "verse 11 token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "hrasvadīrghakaiḥ",
+     "gloss": "with-short-and-long",
+     "grounds": "verse 11 token 3",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "agniprāṇāgnisaṃhārakālendrāmbusamīraṇāḥ",
+     "gloss": "fire-prana-fire-destruction-time-indra-water-wind",
+     "grounds": "verse 11 token 4",
+     "morph": "compound"
+    }
+   ],
+   "question": "What belongs to the face limb of this mantra?",
+   "premises": [
+    "rati crest mantra is named",
+    "face limb is mentioned",
+    "short and long vowels are used"
+   ],
+   "inference": "The verse connects the rati crest mantra's face limb with short and long vowels and elemental names.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "The rati crest mantra of this has a face limb with short and long vowels: fire, prana, fire-destruction, time, indra, water, wind."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "saṣaṣṭhasvarabirndvadhacandrādyāḥ",
+     "gloss": "with-sixth-vowel-bindu-moon-and-so-forth",
+     "grounds": "verse 12 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "syurnavātmanaḥ",
+     "gloss": "are-of-nine-self",
+     "grounds": "verse 12 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "bindunādādikā",
+     "gloss": "bindu-nada-and-so-forth",
+     "grounds": "verse 12 token 3",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "vyāptiḥ",
+     "gloss": "pervasion",
+     "grounds": "verse 12 token 4",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śrīmattraiśirase",
+     "gloss": "in-triadic-head-doctrine",
+     "grounds": "verse 12 token 5",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "mate",
+     "gloss": "in-opinion",
+     "grounds": "verse 12 token 6",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What is the pervasion of the nine self?",
+   "premises": [
+    "sixth vowel bindu moon are named",
+    "nine self is referenced",
+    "pervasion is described"
+   ],
+   "inference": "The verse describes pervasion of the nine self through bindu, nada, and related elements in the triadic doctrine.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "With sixth vowel, bindu, moon, and so forth, the nine self's pervasion through bindu, nada, and so on is held in the triadic head doctrine."
+  }
+ ]
+}

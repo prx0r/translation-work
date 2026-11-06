@@ -1,0 +1,701 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "sadbhāvaḥ",
+     "gloss": "supreme-reality",
+     "grounds": "verse 49 token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramo",
+     "gloss": "supreme",
+     "grounds": "verse 49 token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyeṣa",
+     "gloss": "indeed-this",
+     "grounds": "verse 49 token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātṝṇāṃ",
+     "gloss": "of-mothers",
+     "grounds": "verse 49 token 4",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bhairavasya",
+     "gloss": "of-Bhairava",
+     "grounds": "verse 49 token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 49 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmādenaṃ",
+     "gloss": "therefore-him",
+     "grounds": "verse 49 token 7",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japenmantrī",
+     "gloss": "should-recite-mantra-practitioner",
+     "grounds": "verse 49 token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ya",
+     "gloss": "who",
+     "grounds": "verse 49 token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "icchetsiddhimuttamām",
+     "gloss": "desires-supreme-accomplishment",
+     "grounds": "verse 49 token 10",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "Why should the mantra practitioner recite this supreme reality?",
+   "premises": [
+    "Supreme reality belongs to mothers and Bhairava.",
+    "The practitioner desires supreme accomplishment."
+   ],
+   "inference": "Therefore the practitioner should recite it.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "This supreme reality belongs to the mothers and to Bhairava, so the mantra practitioner who desires supreme accomplishment should recite it."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "rudraśaktisamāveśo",
+     "gloss": "Rudra-power-entry",
+     "grounds": "verse 50 token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityamatra",
+     "gloss": "always-here",
+     "grounds": "verse 50 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratiṣṭhitaḥ",
+     "gloss": "established",
+     "grounds": "verse 50 token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasmādeṣā",
+     "gloss": "because-this",
+     "grounds": "verse 50 token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "verse 50 token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktirbhedenānyena",
+     "gloss": "power-by-other-distinction",
+     "grounds": "verse 50 token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "declared",
+     "grounds": "verse 50 token 7",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is Rudra power entry always established here?",
+   "premises": [
+    "This supreme power is declared by distinction from another.",
+    "Rudra power entry is established here."
+   ],
+   "inference": "Therefore the supreme power is distinguished and established in this place.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Rudra power entry is always established here, because this supreme power is declared as distinct from another."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "yāvatyaḥ",
+     "gloss": "as-many-as",
+     "grounds": "verse 51 token 1",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "siddhayastantre",
+     "gloss": "accomplishments-in-tantra",
+     "grounds": "verse 51 token 2",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "verse 51 token 3",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "verse 51 token 4",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "verse 51 token 5",
+     "morph": "3.sg.pres.act"
+    },
+    {
+     "surface": "tviyam",
+     "gloss": "indeed-this",
+     "grounds": "verse 51 token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṅgavaktrāṇi",
+     "gloss": "limbs-and-faces",
+     "grounds": "verse 51 token 7",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "cāpyasyāḥ",
+     "gloss": "and-also-her",
+     "grounds": "verse 51 token 8",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prāgvatsvaraniyogataḥ",
+     "gloss": "formerly-by-sound-assignment",
+     "grounds": "verse 51 token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does this power accomplish among tantra accomplishments?",
+   "premises": [
+    "All accomplishments in tantra are done by this.",
+    "Her limbs and faces arise by prior sound assignment."
+   ],
+   "inference": "Therefore this power performs all tantra accomplishments through her limbs and faces.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "This power performs all accomplishments found in tantra, and her limbs and faces arise by prior sound assignment."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "daṇḍo",
+     "gloss": "staff",
+     "grounds": "verse 52 token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvastriśūlaṃ",
+     "gloss": "living-being-trident",
+     "grounds": "verse 52 token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 52 token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣāṅgulyaparastanau",
+     "gloss": "right-finger-breasts-beyond",
+     "grounds": "verse 52 token 4",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "nābhikaṇṭhau",
+     "gloss": "navel-and-throat",
+     "grounds": "verse 52 token 5",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "marudrudrau",
+     "gloss": "wind-and-Rudra",
+     "grounds": "verse 52 token 6",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "visargaḥ",
+     "gloss": "emission",
+     "grounds": "verse 52 token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satriśūlakaḥ",
+     "gloss": "with-trident",
+     "grounds": "verse 52 token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What bodily and divine correspondences are listed here?",
+   "premises": [
+    "Staff, living being, and trident are named.",
+    "Navel, throat, wind, and Rudra are paired."
+   ],
+   "inference": "Therefore the verse maps bodily and divine elements together.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Staff, living being, trident, right finger, breasts, navel, throat, wind, Rudra, and emission with trident are listed as correspondences."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "sarvayoginicakrāṇāmadhipo@yamudāhṛtaḥ",
+     "gloss": "lord-of-all-yogini-circles",
+     "grounds": "verse 53 token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asyāpyuccāraṇādeva",
+     "gloss": "by-her-utterance-alone",
+     "grounds": "verse 53 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvittiḥ",
+     "gloss": "awareness",
+     "grounds": "verse 53 token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syātpuroditā",
+     "gloss": "would-be-previously-stated",
+     "grounds": "verse 53 token 4",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What arises from uttering this lord of yogini circles?",
+   "premises": [
+    "This lord of all yogini circles is declared.",
+    "Awareness arises by her utterance alone."
+   ],
+   "inference": "Therefore uttering this lord produces the previously stated awareness.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "This lord of all yogini circles is declared, and awareness arises by her utterance alone."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "mahācaṇḍeti",
+     "gloss": "great-fierce-thus",
+     "grounds": "verse 54 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 54 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogeśvaṛ",
+     "gloss": "yoga-lord",
+     "grounds": "verse 54 token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityaṣṭavarṇakam",
+     "gloss": "thus-eight-lettered",
+     "grounds": "verse 54 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navārṇeyaṃ",
+     "gloss": "nine-lettered-this",
+     "grounds": "verse 54 token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guptatarā",
+     "gloss": "more-secret",
+     "grounds": "verse 54 token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadbhāvaḥ",
+     "gloss": "true-being",
+     "grounds": "verse 54 token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālakarṣiṇī",
+     "gloss": "time-drawing",
+     "grounds": "verse 54 token 8",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is said about the eight-lettered and nine-lettered forms?",
+   "premises": [
+    "The eight-lettered form is called great fierce yoga lord.",
+    "The nine-lettered form is more secret true being time-drawing."
+   ],
+   "inference": "Therefore the verse distinguishes an eight-lettered and a more secret nine-lettered form.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "The eight-lettered form is called great fierce yoga lord, while the nine-lettered form is the more secret true being, time-drawing."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "śrīḍāmare",
+     "gloss": "in-Shri-Damara",
+     "grounds": "verse 55 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāyāge",
+     "gloss": "in-great-sacrifice",
+     "grounds": "verse 55 token 2",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parātparataroditā",
+     "gloss": "beyond-beyond-declared",
+     "grounds": "verse 55 token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sudhācchedakaṣaṇṭhādyairbījaṃ",
+     "gloss": "nectar-cutting-seed-by-such",
+     "grounds": "verse 55 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chedakamasvaram",
+     "gloss": "cutting-vowel",
+     "grounds": "verse 55 token 5",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is declared in the great sacrifice of Shri Damara?",
+   "premises": [
+    "In Shri Damara great sacrifice a beyond-beyond form is declared.",
+    "Seed and cutting vowel are named."
+   ],
+   "inference": "Therefore the verse declares a supreme form with seed and cutting vowel in that sacrifice.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "In the great sacrifice of Shri Damara, a beyond-beyond form is declared, with seed and cutting vowel."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "adhyardhārṇā",
+     "gloss": "one-and-half-syllabled",
+     "grounds": "verse 56 token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kālarātriḥ",
+     "gloss": "night-of-time",
+     "grounds": "verse 56 token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣurikā",
+     "gloss": "knife",
+     "grounds": "verse 56 token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālinīmate",
+     "gloss": "in-Malini-view",
+     "grounds": "verse 56 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatāvartanayā",
+     "gloss": "by-hundred-repetition",
+     "grounds": "verse 56 token 5",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "hyasyā",
+     "gloss": "indeed-her",
+     "grounds": "verse 56 token 6",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verse 56 token 7",
+     "morph": "3.sg.pres.act"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "in-head",
+     "grounds": "verse 56 token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vedanā",
+     "gloss": "pain",
+     "grounds": "verse 56 token 9",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What arises in the head by repeating this knife?",
+   "premises": [
+    "The one-and-half-syllabled night of time is called knife in Malini view.",
+    "By hundred repetition pain arises in the head."
+   ],
+   "inference": "Therefore repeating this knife one hundred times produces head pain.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "In Malini view, the one-and-half-syllabled night of time is the knife; by repeating it one hundred times, pain arises in the head."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "verse 57 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyayamālocya",
+     "gloss": "considering-conviction",
+     "grounds": "verse 57 token 2",
+     "morph": "abs."
+    },
+    {
+     "surface": "mṛtyujiddhyānamāśrayet",
+     "gloss": "should-resort-to-death-conquering-meditation",
+     "grounds": "verse 57 token 3",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "naināṃ",
+     "gloss": "not-this",
+     "grounds": "verse 57 token 4",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samuccareddevi",
+     "gloss": "should-recite-goddess",
+     "grounds": "verse 57 token 5",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "ya",
+     "gloss": "who",
+     "grounds": "verse 57 token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iccheddīrghajīvitam",
+     "gloss": "desires-long-life",
+     "grounds": "verse 57 token 7",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "Who should not recite this while desiring long life?",
+   "premises": [
+    "One should consider conviction and resort to death-conquering meditation.",
+    "One desiring long life should not recite this."
+   ],
+   "inference": "Therefore those desiring long life should avoid reciting this and resort to death-conquering meditation.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Having considered conviction, one should resort to death-conquering meditation; one desiring long life should not recite this."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "dvirdaṇḍāgnī",
+     "gloss": "two-staff-fires",
+     "grounds": "verse 58 token 1",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "śūlanabhaḥprāṇāśchettranalau",
+     "gloss": "trident-sky-life-cutting-reed",
+     "grounds": "verse 58 token 2",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "verse 58 token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭāgnī",
+     "gloss": "peak-fire",
+     "grounds": "verse 58 token 4",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "savisargāśca",
+     "gloss": "with-emission-and",
+     "grounds": "verse 58 token 5",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcāpyete@tha",
+     "gloss": "five-also-these",
+     "grounds": "verse 58 token 6",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcasu",
+     "gloss": "in-five",
+     "grounds": "verse 58 token 7",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "What five items are placed in five locations?",
+   "premises": [
+    "Two staff fires, trident, sky, life, cutting, and reed are named.",
+    "Peak fires with emission are also five."
+   ],
+   "inference": "Therefore five items are distributed among five locations.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Two staff fires, trident, sky, life, cutting, reed, peak fires with emission, and five items are placed in five locations."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "vyomasviti",
+     "gloss": "in-sky-thus",
+     "grounds": "verse 59 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivenoktaṃ",
+     "gloss": "by-Shiva-stated",
+     "grounds": "verse 59 token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tantrasadbhāvaśāsane",
+     "gloss": "in-tantra-true-being-teaching",
+     "grounds": "verse 59 token 3",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "chedinī",
+     "gloss": "cutting",
+     "grounds": "verse 59 token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣurikeyaṃ",
+     "gloss": "knife-this",
+     "grounds": "verse 59 token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syādyayā",
+     "gloss": "would-be-by-which",
+     "grounds": "verse 59 token 6",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yojayate",
+     "gloss": "joins",
+     "grounds": "verse 59 token 7",
+     "morph": "3.sg.pres.act"
+    },
+    {
+     "surface": "pare",
+     "gloss": "supreme",
+     "grounds": "verse 59 token 8",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What does Shiva state in the tantra true-being teaching?",
+   "premises": [
+    "Shiva stated this in the tantra true-being teaching.",
+    "The cutting knife joins the supreme."
+   ],
+   "inference": "Therefore the cutting knife is the means by which one joins the supreme.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Shiva stated in the tantra true-being teaching that the cutting knife joins the supreme."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "bindvindvanalakūṭāgnimarutṣaṣṭhasvarairyutam",
+     "gloss": "with-bindu-and-fire-peak-wind-sixth-vowel",
+     "grounds": "verse 60 token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āpādatalamūrdhāntaṃ",
+     "gloss": "from-foot-sole-to-head-end",
+     "grounds": "verse 60 token 2",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaredastramidaṃ",
+     "gloss": "should-remember-weapon-this",
+     "grounds": "verse 60 token 3",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "jvalat",
+     "gloss": "blazing",
+     "grounds": "verse 60 token 4",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should this blazing weapon be remembered?",
+   "premises": [
+    "This weapon is joined with bindu, fire, peak, wind, and sixth vowel.",
+    "It extends from foot sole to head end."
+   ],
+   "inference": "Therefore one should remember this blazing weapon from foot sole to head end.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "One should remember this blazing weapon, joined with bindu, fire, peak, wind, and sixth vowel, from the sole of the foot to the top of the head."
+  }
+ ]
+}
