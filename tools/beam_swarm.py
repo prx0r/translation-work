@@ -34,7 +34,7 @@ except ImportError:
 
 class Task(BaseModel):
     id: str
-    kind: str  # pilot_pair | tal_brief | lore_queries | lore_distill | recon | tal_gloss | tal_cm | tal_am
+    kind: str  # pilot_pair | tal_brief | lore_queries | lore_distill | recon | tal_gloss | tal_cm | tal_am | tal_triple
     args: dict = Field(default_factory=dict)
     status: str = 'pending'  # pending|claimed|done|failed|approved|bounced
     attempts: int = 0
@@ -483,6 +483,116 @@ TAL_AM_SYS = ('You map and translate one Sanskrit verse (Tantraloka) for a '
               '"What is this verse about?". Minimum 5 words.')
 
 
+class TripleRow(BaseModel):
+    surface: str
+    gloss: str
+    grounds: str
+    morph: str
+
+
+class TripleVerse(BaseModel):
+    verse: int
+    rows: list[TripleRow] = Field(min_length=1)
+    question: str
+    premises: list[str] = Field(min_length=1)
+    inference: str
+    uncertainties: list[str] = Field(default_factory=list)
+    plain_english: str
+
+
+class TalTriple(BaseModel):
+    song: str
+    items: list[TripleVerse] = Field(min_length=1)
+
+
+TAL_TRIPLE_SYS = ('You process Tantraloka verses for a translation pipeline in ONE pass. '
+  'For each verse return: rows (one per token, in order: gloss + morphology + grounds), '
+  'question (the verse\'s own question, >=5 words, never "what does verse N state"), '
+  'premises (terse logical statements, >=3 words each), inference, uncertainties, '
+  'plain_english (readable translation, no metacommentary). Output ONLY JSON.\n'
+  'Gloss: lowercase English, hyphen-joined, no parens/quotes, max 6 parts, NO grammar '
+  'terms (never genitive/nominative/dual/sandhi/compound — use plain English).\n'
+  'Morph: case.number.gender (m.nom.sg), verb person.number.voice-tense/mood + root, '
+  '(indecl.), compound = member+membership.')
+
+
+def run_tal_triple(t: dict) -> tuple[bool, str]:
+    from beam_client import beam
+    work, song = t['args']['work'], t['args']['song']
+    verses = t['args']['verses']
+    wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
+    byv = {e['verse']: e for e in wt}
+    ahn = work.split('tantraloka-a')[-1]
+    lp = STATE / 'lore' / f'tal-{ahn}.md'
+    lore = lp.read_text()[:5000] if lp.exists() else ''
+    blocks = []
+    for v in verses:
+        e = byv[v]
+        blocks.append(f"VERSE {v} ({len(e['tokens'])} tokens):\n"
+                      + '\n'.join(f"  {i+1}. {x['surface']}" for i, x in enumerate(e['tokens'])))
+    prev = (t.get('note') or '').split(' | ')[-1]
+    user = ('\n\n'.join(blocks)
+            + ('\n\nLORE (what this ahnika is doing):\n' + lore if lore else '')
+            + (('\n\nFIX: ' + prev) if prev and 'attempt failed' not in prev and len(prev) > 5 else '')
+            + '\n\nReply ONLY JSON: {"song":"...","items":[{"verse":N,'
+              '"rows":[{"surface":"(exact)","gloss":"...","grounds":"...","morph":"..."}],'
+              '"question":"...","premises":["..."],"inference":"...",'
+              '"uncertainties":["..."],"plain_english":"..."}]}')
+    text = beam(TAL_TRIPLE_SYS, user, session=f'tal-triple-{song}-v{verses[0]:02d}', max_tokens=8000)
+    a, b = text.find('{'), text.rfind('}')
+    if a < 0:
+        return False, 'no JSON: ' + text[:200]
+    try:
+        d = TalTriple.model_validate_json(text[a:b + 1])
+    except ValidationError as ex:
+        return False, f'schema fail: {ex.errors()[:2]}'
+    if len(d.items) != len(verses):
+        return False, f'items {len(d.items)} != verses {len(verses)}'
+    for it in d.items:
+        if it.verse not in verses:
+            return False, f'unexpected verse {it.verse}'
+        toks = [x['surface'] for x in byv[it.verse]['tokens']]
+        if [r.surface for r in it.rows] != toks:
+            return False, f'v{it.verse}: surface drift ({len(it.rows)} vs {len(toks)})'
+        for r in it.rows:
+            if (not r.gloss or '(' in r.gloss or ')' in r.gloss or '"' in r.gloss
+                    or _not_lower(r.gloss) or len(r.gloss.split('-')) > 6
+                    or any(w in r.gloss.lower().split('-') for w in
+                           ('genitive','nominative','accusative','instrumental','dative',
+                            'ablative','locative','vocative','singular','plural','dual',
+                            'participle','passive','causative','sandhi','compound'))
+                    or not (r.grounds or '').strip() or not (r.morph or '').strip()):
+                return False, f'v{it.verse}: bad row {r.surface!r} gloss={r.gloss!r}'
+        lq = it.question.lower()
+        if not it.question.endswith('?') or len(it.question.split()) < 5 \
+                or 'does verse' in lq or 'this verse' in lq or 'is being told' in lq:
+            return False, f'v{it.verse}: question rejected'
+        if any(len(x.split()) < 3 for x in it.premises):
+            return False, f'v{it.verse}: premise too short'
+        if len(it.plain_english.split()) < 4:
+            return False, f'v{it.verse}: l2 too short'
+    outd = ROOT / 'process' / 'beam' / 'runs' / t['id']
+    outd.mkdir(parents=True, exist_ok=True)
+    (outd / 'triple.json').write_text(d.model_dump_json(indent=1, ensure_ascii=False))
+    runsd = ROOT / 'process' / 'beam' / 'runs'
+    for it in d.items:
+        v = it.verse
+        gdir = runsd / f'{song}-gloss-v{v:02d}'; gdir.mkdir(parents=True, exist_ok=True)
+        (gdir / 'gloss.json').write_text(json.dumps({'song': song, 'verse': v,
+            'rows': [{'surface': r.surface, 'gloss': r.gloss, 'grounds': r.grounds}
+                     for r in it.rows]}, indent=1, ensure_ascii=False))
+        cdir = runsd / f'{song}-cm-v{v:02d}'; cdir.mkdir(parents=True, exist_ok=True)
+        (cdir / 'cm.json').write_text(json.dumps({'song': song, 'verse': v,
+            'rows': [{'lemma': r.surface, 'morph': r.morph, 'grounds': r.grounds}
+                     for r in it.rows]}, indent=1, ensure_ascii=False))
+        adir = runsd / f'{song}-am-v{v:02d}'; adir.mkdir(parents=True, exist_ok=True)
+        (adir / 'am.json').write_text(json.dumps({'song': song, 'verse': v,
+            'question': it.question, 'premises': it.premises, 'inference': it.inference,
+            'uncertainties': it.uncertainties, 'plain_english': it.plain_english},
+            indent=1, ensure_ascii=False))
+    return True, f'{len(d.items)} verses complete'
+
+
 def run_tal_am(t: dict) -> tuple[bool, str]:
     from beam_client import beam
     work, song, verse = t['args']['work'], t['args']['song'], int(t['args']['verse'])
@@ -657,6 +767,8 @@ def worker_loop(name: str) -> int:
                 ok, msg = run_tal_cm(t)
             elif t['kind'] == 'tal_am':
                 ok, msg = run_tal_am(t)
+            elif t['kind'] == 'tal_triple':
+                ok, msg = run_tal_triple(t)
             else:
                 ok, msg = False, f'unknown kind {t["kind"]}'
         except Exception as e:  # noqa: BLE001

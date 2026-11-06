@@ -45,6 +45,29 @@ def stage_parse(work, song):
     return json.loads(wt.read_text())
 
 
+def stage_seed_triple(work, song, group=4):
+    wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
+    q = load_q(); have = {t['id'] for t in q}; now = time.strftime('%Y-%m-%dT%H:%M:%S')
+    pending_verses = [e['verse'] for e in wt
+                      if not ((RUNS / f'{song}-gloss-v{e["verse"]:02d}' / 'gloss.json').exists()
+                              and (RUNS / f'{song}-cm-v{e["verse"]:02d}' / 'cm.json').exists()
+                              and (RUNS / f'{song}-am-v{e["verse"]:02d}' / 'am.json').exists())]
+    new = 0
+    for i in range(0, len(pending_verses), group):
+        grp = pending_verses[i:i + group]
+        tid = f'{song}-triple-v{grp[0]:02d}'
+        if tid in have:
+            continue
+        q.append({'id': tid, 'kind': 'tal_triple',
+                  'args': {'work': work, 'song': song, 'verses': grp},
+                  'status': 'pending', 'attempts': 0, 'max_attempts': 4,
+                  'worker': '', 'note': '', 'created': now, 'updated': now})
+        new += 1
+    if new:
+        save_q(q)
+    print(f'seeded {new} triple groups ({len(pending_verses)} verses)')
+
+
 def stage_seed(work, song, am_ctx=True):
     wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
     q = load_q(); have = {t['id'] for t in q}
@@ -167,6 +190,7 @@ def main():
     ap.add_argument('--work', required=True)
     ap.add_argument('--song', required=True)
     ap.add_argument('--seed', action='store_true')
+    ap.add_argument('--triple', action='store_true', help='one beam call per 4 verses')
     ap.add_argument('--loop', action='store_true')
     ap.add_argument('--wait', type=int, default=600)
     ap.add_argument('--max-wait', type=int, default=7200)
@@ -176,7 +200,10 @@ def main():
     waited = 0
     while True:
         if a.seed:
-            stage_seed(a.work, a.song)
+            if a.triple:
+                stage_seed_triple(a.work, a.song)
+            else:
+                stage_seed(a.work, a.song)
             a.seed = False
         c = counts(a.song, [e['verse'] for e in wt])
         n = len(wt)
@@ -187,7 +214,10 @@ def main():
             print('incomplete — rerun with --loop (and workers running)')
             return 1
         time.sleep(a.wait); waited += a.wait
-        stage_seed(a.work, a.song)
+        if a.triple:
+            stage_seed_triple(a.work, a.song)
+        else:
+            stage_seed(a.work, a.song)
     stage_assemble(a.work, a.song)
     for cmd in (['tools/validate_song.py', '--song', a.song, '--work', a.work],
                 ['tools/proof_record.py', '--song', a.song, '--work', a.work, '--shastra']):
