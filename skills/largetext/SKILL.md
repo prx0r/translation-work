@@ -243,3 +243,24 @@ content-addressed, singly-gated, and consumable by the Lean formal lane:
   7 byte-perfect chunks BLOCKED at 0.076–0.796. The proxy measured the wrong
   thing. Fixed (`is_paratext` filter), all flipped to PASS. When a gate
   fails on clean data, interrogate the gate before the data.
+
+## 10. Porting the loop to factories (video / books / socials)
+
+The pattern is lane-agnostic; the gates are lane-specific. Full contract:
+`REGISTRY-FEDERATION.md`. Rules for porting:
+
+1. The factory keeps its gate (`check.py`, contract suites, runtime law).
+   The swarm only feeds drafts + planning inputs. Never the reverse.
+2. Queue from the openpatala registry: unrendered series units, unbuilt
+   book entries, unscheduled drafts — ranked, shortest-first, deferred
+   categories explicit (mystics, sourceless works, owner-gated cutovers).
+3. Beam drafts prose/assets ONLY: glossary entries, headnotes, post copy
+   variants. Never timing/cues, never ISBNs, never rights statements,
+   never sends/spends. A draft that invents an identifier is rejected,
+   not fixed.
+4. Deterministic assemblers stay the factory's own (builders, factory.py,
+   runtime). Validators stay the factory's own. The assessor role transfers
+   to the lane owner on their wake cycle — same batched review, same
+   approve/bounce, same machine-proposed labels.
+5. Asset identity is `openpatala_work_id` everywhere (`dbread ids` resolves
+   it). Missing/UNRESOLVED/TBD = draft-only, in every lane, no exceptions.
