@@ -204,3 +204,30 @@ by batching (review queues, never one-offs). Never trade one for the other.
    ~60 verses of commentary span.
 5. Gold-standard bar (§6) unchanged. Nothing in this pipeline marks COMPLETE;
    REGISTRY tracks gold, never the swarm.
+
+## 10. Formalisation: hashes, one gate, Lean-compat (2026-11-06)
+
+The swarm is only half the machine. The other half makes every output
+content-addressed, singly-gated, and consumable by the Lean formal lane:
+
+- **Manifest** (`tools/manifest.py gen|check`): sha256 of every canonical
+  file (per-work `data/*.json`, `T1*.md`, `STATUS.json`, `passages.jsonl`,
+  `GATE.json`, `cm/*_G*.py` authoring tables, root pinned docs) into
+  `MANIFEST.json` with the git rev. Consumers (bridge snapshot, Lean
+  EVIDENCE, ralph commits) pin bytes, not vibes. Drift = fail.
+- **One gate** (`tools/validate_all.py [--quick]`): schemas → manifest
+  freshness → per-song `validate_song` across ALL data songs → proof sweep
+  (PASS, or BLOCKED only with a recorded `proof/<song>.disp.json`
+  disposition — unrecorded BLOCKED fails) → `check.py` CANONICAL →
+  `dbread coverage` (warn-only). Exit 0 = shippable. ralph.sh gates commits
+  on `--quick`; full runs happen on assessor wake and before pushes.
+- **Lean-compat contract** (translation-work side): stable locators +
+  `immutable_id` in every work's `passages.jsonl` (what `evidence_check.py`
+  resolves); `layer_sha256` in every proof record; MANIFEST rev pinned by
+  downstream. We never write Lean or EVIDENCE entries — trika-x owns those;
+  we guarantee the bytes they point at.
+- **Lesson that built this** (mistakes.md #23): the B3 align gate compared
+  T1 surfaces against RAW source including paratext the contract excludes —
+  7 byte-perfect chunks BLOCKED at 0.076–0.796. The proxy measured the wrong
+  thing. Fixed (`is_paratext` filter), all flipped to PASS. When a gate
+  fails on clean data, interrogate the gate before the data.
