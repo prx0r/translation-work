@@ -81,6 +81,7 @@ Tools: tools/emit_data.py, validate_song.py, render_md.py, proof_record.py (+dis
 Scratch policy (owner 2026-11-04, binding): ALL intermediates live in this repo — reusable builders in tools/, per-work CM/batch inputs in <work>/cm/ (e.g. vbt/cm/l0cm-v1-60.json). /tmp is NEVER used for translation-work files; nothing ephemeral survives the session.
 Canonical docs: FINAL.md, FINAL-PROCESS.md, LAYERS.md, ALIGNMENT.md, CANONICAL.md, TENSIONS.json, DATATYPES.json, stack.json, README.md, CHAT.md, mistakes.md, crystal.md, targets.md, THEMES.md, INDEX.json, REGISTRY.json
 Formal alignment (trika-x gates): FORMAL-ALIGN.md (locator inventory, EVIDENCE resolution, bridge snapshot) — translation-work never writes EVIDENCE or Lean.
+Operator manual (run everything): RUNBOOK.md (bring-up, button, lanes, gates, monitoring, failure playbook, recovery).
 DB hookup (read-only): DB-BACKBONE.md (portable box DB + tools/dbread.py) — translation-work never writes the DB.
 Lore: lore/rasa/ (Abhinavagupta grounding), lore/witnesses/ (vendored, comparison only), lore/links.json (verified URLs), lore/concepts/ (21 concept files), lore/ipvv-deepdive-2026-11-01.md
 Skills: skills/crystal-ipvv/SKILL.md (THE process), EXAMPLES.md (prompts + good/bad)
