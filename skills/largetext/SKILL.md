@@ -115,6 +115,18 @@ Endpoint: `https://opencode.ai/inference/go/openai/v1/chat/completions`,
 model `beam-free`, `reasoning_effort: low` + generous `max_tokens` (the model
 burns budget on hidden reasoning — small budgets return null content).
 
+**THE BUTTON: `tools/continue.sh`.** One command syncs the openpatala registry
+(`tools/registry_sync.py` → `process/beam/PLAN.json`, tier-ordered: Trika
+core first, untranslated before polish, shortest-first, mystics deferred),
+seeds swarmable tasks, ensures workers + ralph are alive, runs one supervised
+pass (`once`) or loops (`continue.sh` with no args supervises ralph
+indefinitely). Press it, walk away; the review queue is waiting on return.
+
+```bash
+bash tools/continue.sh once   # single supervised pass
+setsid nohup bash tools/continue.sh > process/beam/continue.log 2>&1 < /dev/null &  # leave it
+```
+
 **Leave-it-running mode: `tools/ralph.sh`.** The autonomous supervisor —
 keeps 5 workers alive, runs `auto-review` (window briefs ONLY, never prose
 pilots), converts due approved pilots (`tools/ralph_convert.py`), gates every
