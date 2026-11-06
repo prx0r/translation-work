@@ -1,0 +1,30 @@
+{
+ "path": "/root/ipvv/site/data/sanskrit/gitarthasangraha.txt",
+ "bytes": 227704,
+ "lines": 3243,
+ "markers": {
+  "dbl_pipe_num": 250,
+  "adhyaya": 2,
+  "sarga": 2,
+  "sloka_marker": 0,
+  "page_mark": 0,
+  "danda_pair": 1392
+ },
+ "hypothesis": [
+  {
+   "span": "L1-L17",
+   "kind": "paratext",
+   "note": "Provenance, licence, catalog, and file metadata precede the work title."
+  },
+  {
+   "span": "L18-L3243",
+   "kind": "mixed_root_verse_and_commentary",
+   "note": "Root verses appear as IAST lines terminated by || chapter-verse || markers (250 observed); intervening prose is Abhinavagupta commentary, with danda pairs marking sentence boundaries. No separate sloka markers or page marks are present."
+  },
+  {
+   "span": "L3243-L3243",
+   "kind": "possible_colophon_or_tail",
+   "note": "Tail ends mid-verse/text; final colophon or closing marker is not visible in the supplied excerpt and should be checked before translation."
+  }
+ ]
+}
