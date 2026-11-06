@@ -53,6 +53,44 @@ def git_head() -> str:
         return "unknown"
 
 
+def openpatala_ref(work: str) -> dict:
+    """OpenPāṭala identity block for the bundle provenance. Read-only.
+
+    Mirrors emit_scholar.source_ref (record sha + mapping status, silent on
+    missing). No edition_id: editions are CANDIDATE strings, not authority
+    records — edition_label carries the string or null, never an invented id.
+    Never raises: gaps are explicit nulls, not silence.
+    """
+    null = {"openpatala_work_id": None, "mapping_status": "UNMAPPED",
+            "record_sha256": None, "edition_label": None, "note": ""}
+    try:
+        rec_p = TW / work / "source" / "record.json"
+        if not rec_p.is_file():
+            null["note"] = "no uniform source record; identity unbound"
+            return null
+        rec = json.loads(rec_p.read_text(encoding="utf-8"))
+        if rec.get("status") != "RECORDED":
+            null["note"] = (f"source record status {rec.get('status')}; "
+                             "identity unbound until RECORDED")
+            return null
+        try:
+            entry = json.loads((TW / "source-maps" / "openpatala.json").read_text(
+                encoding="utf-8")).get("works", {}).get(work, {})
+        except (OSError, ValueError):
+            entry = {}
+        return {
+            "openpatala_work_id": entry.get("openpatala_work_id"),
+            "mapping_status": entry.get("mapping_status", "UNMAPPED"),
+            "record_sha256": hashlib.sha256(rec_p.read_bytes()).hexdigest(),
+            "edition_label": (rec.get("edition") or {}).get("label"),
+            "note": ("uniform source record + openpatala mapping; edition "
+                     "candidate, witness UNKNOWN"),
+        }
+    except (OSError, ValueError):
+        null["note"] = "source record unreadable; identity unbound"
+        return null
+
+
 def build_bundle(work: str, essay: dict, outdir: Path) -> dict:
     outdir.mkdir(parents=True, exist_ok=True)
     text = essay.get("text", "")
@@ -69,6 +107,7 @@ def build_bundle(work: str, essay: dict, outdir: Path) -> dict:
         "translation_work_commit": git_head(),
         "reader_url": f"https://svread.pages.dev/data/scholar/{work}.json",
         "bundled_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "openpatala": openpatala_ref(work),
     }
     (outdir / "provenance.json").write_text(
         json.dumps(provenance, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")

@@ -56,6 +56,31 @@ class ZenodoTest(unittest.TestCase):
         self.assertEqual(prov["rights"], "cc-by-4.0")
         self.assertEqual(prov["essay_id"], ESSAY["essay_id"])
 
+    def test_provenance_openpatala_unmapped_is_explicit(self):
+        self.assertEqual(zp.cmd_bundle(self.args()), 0)
+        prov = json.loads((self.out / "provenance.json").read_text())
+        op = prov["openpatala"]
+        self.assertIsNone(op["openpatala_work_id"])
+        self.assertIsNone(op["record_sha256"])
+        self.assertTrue(op["note"])
+
+    def test_provenance_openpatala_mapped(self):
+        rec = {"format": "svatantrya-source-record/1", "work": "w1",
+               "status": "RECORDED",
+               "edition": {"label": "Test edition (candidate)", "status": "candidate"}}
+        write(self.tmp / "tw" / "w1" / "source" / "record.json", json.dumps(rec))
+        write(self.tmp / "tw" / "source-maps" / "openpatala.json", json.dumps(
+            {"format": "svatantrya-openpatala-map/1",
+             "works": {"w1": {"mapping_status": "CANDIDATE",
+                              "openpatala_work_id": "PTCND_test"}}}))
+        self.assertEqual(zp.cmd_bundle(self.args()), 0)
+        prov = json.loads((self.out / "provenance.json").read_text())
+        op = prov["openpatala"]
+        self.assertEqual(op["openpatala_work_id"], "PTCND_test")
+        self.assertEqual(op["mapping_status"], "CANDIDATE")
+        self.assertEqual(len(op["record_sha256"]), 64)
+        self.assertEqual(op["edition_label"], "Test edition (candidate)")
+
     def test_metadata_open_vs_closed(self):
         m = zp.deposition_metadata("w1", dict(ESSAY, rights="all-rights-reserved"), self.args())
         self.assertEqual(m["metadata"]["access_right"], "closed")
