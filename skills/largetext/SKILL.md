@@ -61,7 +61,6 @@ T1 faithfully with honest uncertainties; unbriefed TAL windows degenerated to
 uniform 8-blocks.)
 
 ## 3. Task kinds + gates (mechanical first, meaning last)
-
 | kind | beam writes | pydantic/shape gate | assessor gate |
 |---|---|---|---|
 | `pilot_pair` (IPVV argmap+L2 prose) | 2 prose files + selfcheck | markers (`**The question:**`, `## 2./3./4.`), ≥2 premises ≥8 words, L2 non-empty | prose review → approve to `ipvv/pilot/` → converter → `validate_song` → `proof_record --shastra` |
@@ -130,6 +129,22 @@ setsid nohup bash tools/ralph.sh 240 180 > process/beam/ralph.log 2>&1 < /dev/nu
 variety + schema) before approving; anything else is HELD for assessor eyes.
 Full-ahnika briefs, pilot prose, fork calls, PASS calls: never automated.
 
+**Ralph-loop canon alignment.** This is Huntley's loop with one adaptation:
+the completion promise is per-task and mechanical (validators green +
+selfcheck green = `<promise>DONE</promise>` equivalent); workers are
+stateless per task (fresh context every claim — no compaction drift);
+learnings compound into mistakes.md + this skill (the AGENT.md rule).
+The adaptation: meaning-judgment has no mechanical proxy, so the promise
+covers SHAPE only — the assessor holds the MEANING gate, batched, on wake.
+A loop that auto-approved meaning would converge to plausible mush (proven:
+uniform briefs passed pydantic; vote-counting laundered errors).
+
+**Beam-led lore (query proposal).** Beam cannot browse, but it can say what
+it needs: `lore_queries` tasks have beam propose 2-6 scholarship searches
+per front → assessor executes them (one search round) → `lore_distill`
+drafts the brief from excerpts → assessor reviews into `process/beam/lore/`.
+Legwork to beam, sources to the assessor, judgment stays human-side.
+
 ## 6. Gold-standard bar (unchanged — the swarm feeds it, never lowers it)
 
 An item is DONE only when, after assessor promotion: `validate_song`
@@ -149,3 +164,38 @@ it laundered real errors (`omiti`→'the-manifestation'), it was reverted
 - Small reasoning budgets return null content (fix: `reasoning_effort: low`).
 - Stale claims jam queues after dead workers (fix: 15-min expiry).
 - Span-format strictness rejects valid work (fix: normalize `vA-B`→`vvA-B`).
+
+## 8. The two roles (formal)
+
+**DUMB (beam-free or any free model): cheapest that can still follow a packet.**
+Drafts prose, fills JSON schemas, tiles spans. Stateless per task, no memory,
+no tools, no judgment. Allowed: structure, coverage, first-draft reasoning.
+Forbidden: canon, adjudication, witnesses, PASS, signoff, push. When it
+fails, it fails mechanically (format, coverage, uniformity) — fix the packet,
+not the model.
+
+**SMART (the assessor session): judge, web-searcher, organiser.**
+Holds the whole text + scholarship. Writes transmission briefs (web search
+first), reviews every draft (spot-read + gates), adjudicates forks, runs
+converters + proofs, owns PASS, curates this skill. Irreplaceable because
+meaning has no mechanical proxy (uniform briefs passed pydantic; vote-counts
+laundered errors). The day a model can be trusted with fork adjudication it
+will have proven it against Tantrasara gold — not before.
+
+Rule of staffing: DUMB scales horizontally (3–5 workers, free). SMART scales
+by batching (review queues, never one-offs). Never trade one for the other.
+
+## 9. Endgame: pointing this at a new big text (Gita pattern)
+
+1. `recon` task: marker census + structure hypothesis of the source file.
+   Assessor verifies (known structure: 18 adhyāyas / ~700 Gītā verses +
+   Abhinavagupta's commentary + colophons) → workcfg intake registration.
+2. `lore_queries` → assessor searches → `lore_distill` → approved brief
+   in `process/beam/lore/` (Torella IPK frame, Sharma/Supersite collation for
+   the 5 LIVE Gītā forks per handover).
+3. T1+L0 via charfill + hand pattern (Ghand2 ledger), same as IPVV 49/49.
+4. `pilot_pair` per adhyāya (a01 = 48-unit pilot first) → converter →
+   validate → proof. `tal_brief`-style windows only if an adhyāya exceeds
+   ~60 verses of commentary span.
+5. Gold-standard bar (§6) unchanged. Nothing in this pipeline marks COMPLETE;
+   REGISTRY tracks gold, never the swarm.

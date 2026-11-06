@@ -34,7 +34,7 @@ except ImportError:
 
 class Task(BaseModel):
     id: str
-    kind: str  # pilot_pair | tal_brief
+    kind: str  # pilot_pair | tal_brief | lore_queries | lore_distill | recon
     args: dict = Field(default_factory=dict)
     status: str = 'pending'  # pending|claimed|done|failed|approved|bounced
     attempts: int = 0
@@ -62,6 +62,32 @@ class BriefItem(BaseModel):
 class TalBrief(BaseModel):
     ahnika: str
     items: list[BriefItem] = Field(min_length=1)
+
+
+class LoreQueries(BaseModel):
+    topic: str
+    queries: list[str] = Field(min_length=2, max_length=6)
+
+
+class LoreBrief(BaseModel):
+    topic: str
+    moves: list[str] = Field(min_length=2)
+    traps: list[str] = Field(min_length=1)
+    approach: list[str] = Field(min_length=1)
+
+
+class ReconSection(BaseModel):
+    span: str  # e.g. "L100-L450"
+    kind: str  # root-verse | commentary | colophon | paratext | apparatus
+    note: str
+
+
+class ReconReport(BaseModel):
+    path: str
+    bytes: int
+    lines: int
+    markers: dict[str, int]
+    hypothesis: list[ReconSection] = Field(min_length=1)
 
 
 # ---------- queue ----------
@@ -154,6 +180,115 @@ def run_pilot_pair(t: dict) -> tuple[bool, str]:
     if p.returncode != 0:
         return False, (p.stdout + p.stderr)[-600:]
     return True, 'selfcheck gate in beam_pilot passed'
+
+LORE_Q_SYS = ('You prepare scholarship searches for a Sanskrit translation project. '
+                'Output ONLY JSON. No commentary.')
+
+LORE_D_SYS = ('You distill search excerpts into a transmission brief for a drafter model. '
+              'Output ONLY JSON matching the schema. Never invent citations; mark gaps.')
+
+
+def run_lore_queries(t: dict) -> tuple[bool, str]:
+    from beam_client import beam
+    topic = t['args']['topic']
+    context = t['args'].get('context', '')
+    user = (f'Topic: {topic}\nContext: {context}\n\n'
+            'Propose 2-6 web search queries that would surface the scholarship a drafter needs: '
+            'editions, translations, key secondary literature, witnesses, known cruxes. '
+            'Reply ONLY JSON: {"topic": "...", "queries": ["...", ...]}')
+    text = beam(LORE_Q_SYS, user, session=f'lore-q-{t["id"]}', max_tokens=1500)
+    start, end = text.find('{'), text.rfind('}')
+    if start < 0:
+        return False, 'no JSON object: ' + text[:300]
+    try:
+        q = LoreQueries.model_validate_json(text[start:end + 1])
+    except ValidationError as e:
+        return False, f'schema fail: {e.errors()[:2]}'
+    outd = ROOT / 'process' / 'beam' / 'runs' / t['id']
+    outd.mkdir(parents=True, exist_ok=True)
+    (outd / 'queries.json').write_text(q.model_dump_json(indent=1))
+    (outd / 'raw.txt').write_text(text)
+    return True, f'{len(q.queries)} queries (assessor executes searches next)'
+
+
+def run_lore_distill(t: dict) -> tuple[bool, str]:
+    from beam_client import beam
+    topic = t['args']['topic']
+    excerpts = t['args'].get('excerpts', '')
+    if not excerpts or len(excerpts) < 200:
+        return False, 'no excerpts yet — assessor pastes search results into args.excerpts, then requeue'
+    user = (f'Topic: {topic}\n\nSEARCH EXCERPTS (may be thin — mark gaps, never invent):\n{excerpts[:25000]}\n\n'
+            'Distill a transmission brief: what the text is (moves), traps (terms that look alike, '
+            'nearby-but-different targets, print issues), approach (scope rules, honesty rules). '
+            'Reply ONLY JSON: {"topic": "...", "moves": [...], "traps": [...], "approach": [...]}')
+    text = beam(LORE_D_SYS, user, session=f'lore-d-{t["id"]}', max_tokens=2500)
+    start, end = text.find('{'), text.rfind('}')
+    if start < 0:
+        return False, 'no JSON object: ' + text[:300]
+    try:
+        b = LoreBrief.model_validate_json(text[start:end + 1])
+    except ValidationError as e:
+        return False, f'schema fail: {e.errors()[:2]}'
+    outd = ROOT / 'process' / 'beam' / 'runs' / t['id']
+    outd.mkdir(parents=True, exist_ok=True)
+    (outd / 'brief.json').write_text(b.model_dump_json(indent=1))
+    (outd / 'raw.txt').write_text(text)
+    md = [f'# TRANSMISSION BRIEF — {b.topic}', '',
+          '*Machine-distilled from search excerpts; ASSESSOR MUST REVIEW before use as packet lore.*', '']
+    md += ['## Moves'] + [f'{i + 1}. {m}' for i, m in enumerate(b.moves)] + ['']
+    md += ['## Traps'] + [f'- {x}' for x in b.traps] + ['']
+    md += ['## Approach'] + [f'- {x}' for x in b.approach]
+    (outd / 'LORE_BRIEF.md').write_text('\n'.join(md))
+    return True, 'brief drafted — assessor review required before process/beam/lore/'
+
+
+RECON_SYS = ('You survey a Sanskrit e-text for a translation pipeline. '
+               'Output ONLY JSON matching the schema. Never invent verse counts; '
+               'report what the markers show, flag ambiguity.')
+
+
+def run_recon(t: dict) -> tuple[bool, str]:
+    import re as _re
+    from beam_client import beam
+    path = t['args']['path']  # repo-relative or absolute
+    p = (ROOT / path) if not path.startswith('/') else pathlib.Path(path)
+    if not p.exists():
+        return False, f'missing source {p}'
+    raw = p.read_text()[:120000]
+    lines = raw.splitlines()
+    pats = {
+        'dbl_pipe_num': r'\|\|\s*\d+\s*\|\|',
+        'adhyaya': r'(?i)adhy[āa]ya',
+        'sarga': r'(?i)sarga',
+        'sloka_marker': r'//\s*[A-Za-zĀ-ž_]*\d+\s*//',
+        'page_mark': r'\(p\.\s*\d+\)',
+        'danda_pair': r'\|\|',
+    }
+    markers = {k: len(_re.findall(v, raw)) for k, v in pats.items()}
+    head = '\n'.join(lines[:120])
+    tail = '\n'.join(lines[-60:])
+    user = (f"FILE: {path} ({p.stat().st_size} bytes, {len(lines)} lines)\n"
+            f'MARKER CENSUS: {json.dumps(markers)}\n\nHEAD (120 lines):\n{head}\n\n'
+            f'TAIL (60 lines):\n{tail}\n\n'
+            'Hypothesize the document structure as line spans: root-verse vs commentary '
+            'vs colophon vs paratext vs apparatus. '
+            'Reply ONLY JSON: {"path": "...", "bytes": N, "lines": N, '
+            '"markers": {...}, "hypothesis": [{"span": "Lx-Ly", "kind": "...", "note": "..."}]}')
+    text = beam(RECON_SYS, user, session=f"recon-{t['id']}", max_tokens=3000)
+    start, end = text.find('{'), text.rfind('}')
+    if start < 0:
+        return False, 'no JSON object: ' + text[:300]
+    try:
+        rep = ReconReport.model_validate_json(text[start:end + 1])
+    except ValidationError as e:
+        return False, f'schema fail: {e.errors()[:2]}'
+    rep.path, rep.bytes, rep.lines, rep.markers = str(p), p.stat().st_size, len(lines), markers
+    outd = ROOT / 'process' / 'beam' / 'runs' / t['id']
+    outd.mkdir(parents=True, exist_ok=True)
+    (outd / 'recon.json').write_text(rep.model_dump_json(indent=1))
+    (outd / 'raw.txt').write_text(text)
+    return True, f'{len(rep.hypothesis)} sections (assessor verifies before intake)'
+
 
 def run_tal_brief(t: dict) -> tuple[bool, str]:
     import re as _re
@@ -253,6 +388,12 @@ def worker_loop(name: str) -> int:
                 ok, msg = run_pilot_pair(t)
             elif t['kind'] == 'tal_brief':
                 ok, msg = run_tal_brief(t)
+            elif t['kind'] == 'lore_queries':
+                ok, msg = run_lore_queries(t)
+            elif t['kind'] == 'lore_distill':
+                ok, msg = run_lore_distill(t)
+            elif t['kind'] == 'recon':
+                ok, msg = run_recon(t)
             else:
                 ok, msg = False, f'unknown kind {t["kind"]}'
         except Exception as e:  # noqa: BLE001
@@ -307,6 +448,16 @@ def cmd_review(tid: str) -> None:
         if am.exists():
             print(f'--- argmap head ({am.stat().st_size}B) ---')
             print(am.read_text()[:2500])
+    elif t['kind'] in ('lore_queries', 'lore_distill'):
+        for f in ['queries.json', 'brief.json', 'LORE_BRIEF.md']:
+            p = STATE / 'runs' / tid / f
+            if p.exists():
+                print(f'--- {f} ---'); print(p.read_text()[:2500])
+    elif t['kind'] == 'recon':
+        for f in ['recon.json']:
+            p = STATE / 'runs' / tid / f
+            if p.exists():
+                print(f'--- {f} ---'); print(p.read_text()[:3000])
     else:
         r = STATE / 'runs' / tid / 'brief.json'
         if r.exists():
