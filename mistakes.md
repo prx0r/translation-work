@@ -141,3 +141,6 @@ A "prose-overlap + cross-chunk agreement" audit promoted 3,044 AMBIGUOUS L0 rows
 
 ## 22. Small reasoning budgets return null content, not short content (beam-free, 2026-11-06)
 beam-free burns the token budget on hidden reasoning; `max_tokens: 20`–4000 calls returned `finish=length` with null content deterministically. Not intermittent — do not retry-loop it. Fix: `reasoning_effort: low` + generous `max_tokens` (8000) in `tools/beam_client.py`. Health-check with a ping before queueing a batch.
+
+## 23. Proof ALIGN must exclude paratext from the source side (IPVV converter sweep, 2026-11-06)
+B3 concat-align compared T1 surfaces against the RAW source span including paratext (daṇḍas, page marks, editorial refs) that the contract excludes from T1. Result: 7 chunks with byte-perfect T1 (verified 1.0 vs source-minus-paratext) BLOCKED at 0.076–0.796. The data was right; the proxy was wrong (rule 9). Fix in `tools/proof_record.py`: filter `is_paratext` from the source side before comparing. All 7 flipped to PASS. Lesson: when a gate fails on clean data, check whether the gate measures the contract or the raw ink.

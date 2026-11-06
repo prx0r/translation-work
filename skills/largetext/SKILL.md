@@ -67,6 +67,12 @@ uniform 8-blocks.)
 | `pilot_pair` (IPVV argmap+L2 prose) | 2 prose files + selfcheck | markers (`**The question:**`, `## 2./3./4.`), ≥2 premises ≥8 words, L2 non-empty | prose review → approve to `ipvv/pilot/` → converter → `validate_song` → `proof_record --shastra` |
 | `tal_brief` (ahnika/window spans) | `brief.json` + raw | schema + ≥90% verse coverage + anti-uniformity (no >80% same-length spans) | tiling check + term-grounding grep vs legacy L2 + spot-read gists |
 
+**Window rule (proven 2026-11-06):** tasks over ~60 verses degenerate (lazy
+uniform 8-blocks, early stopping at v80, content-free "unavailable"
+summaries). Split large texts into ≤60-verse window tasks (`lo`/`hi` args),
+one task per window, then stitch. Windowed TAL batches tile at 100% with
+topical spans. Never queue a 600-verse ahnika as one task.
+
 Bounce notes must be actionable (span format, missing verses, flabby
 question, paraphrase-not-argument). Max 3 attempts, then escalate to
 assessor hand-draft. Failed tasks keep their notes as history.

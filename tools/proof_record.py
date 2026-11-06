@@ -213,14 +213,28 @@ def main() -> int:
         if l0.get("failed", 1) != 0 or l0.get("parsed") != l0.get("tokens"):
             block.append(f"L0_PARSE {l0}")
 
-    # B3: concat-align per verse
+    # B3: concat-align per verse.
+    # Paratext is contract-excluded (never glossed, never in T1): filter it
+    # from the source side before comparing, else paratext-heavy chunks
+    # (vol1 prose) fail on correct data. 2026-11-06: T1==src-minus-paratext
+    # verified ratio 1.0 on 5 chunks while raw B3 read 0.076-0.969.
+    _para = None
+    if args.shastra:
+        try:
+            sys.path.insert(0, str(Path(__file__).resolve().parent))
+            from shastra_merge import is_paratext as _para
+        except ImportError:
+            _para = None
     disp = {}
     if args.disp:
         disp = json.loads(Path(args.disp).read_text()).get(song, {})
     align = {}; sub090 = {}
     for v in sorted(src):
         a = "".join(t1.get(v, []))
-        b = "".join(src[v])
+        _sv = src[v]
+        if _para is not None:
+            _sv = [t for t in _sv if not _para(t)]
+        b = "".join(_sv)
         r = difflib.SequenceMatcher(None, a, b).ratio()
         align[str(v)] = round(r, 3)
         if r < 0.90:

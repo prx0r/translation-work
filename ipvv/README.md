@@ -1,6 +1,6 @@
 # ipvv — Īśvarapratyabhijñāvivṛtivimarśinī (IPVV)
 
-*Status: **translation machine-proposed, needs human review** — 49/49 chunks hand-closed, T1+L0 0 gaps (149,683 PARSED + 4,773 AMBIGUOUS with real glosses of 154,456 rows), schema 0 errors repo-wide, source byte-verified. Proof gate (argmap/L2/C1): 4 PASS, rest deferred by owner.*
+*Status: **translation machine-proposed, needs human review** — 49/49 chunks hand-closed, T1+L0 0 gaps (149,683 PARSED + 4,773 AMBIGUOUS with real glosses of 154,456 rows), schema 0 errors repo-wide, source byte-verified. Proof gate (argmap/L2/C1): 48/49 PASS (shastra gate); remaining: V2-N (T1 coverage work).*
 
 ## Layout (tantrasara-style: one dir per chunk)
 
