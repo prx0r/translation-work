@@ -187,6 +187,11 @@ by batching (review queues, never one-offs). Never trade one for the other.
 
 ## 9. Endgame: pointing this at a new big text (Gita pattern)
 
+0. **DB first.** `tools/dbread.py coverage <tw-dir>` against the portable box
+   (`DB-BACKBONE.md`) tells you what exists and what's missing before any
+   drafting. Intake registers spans in workcfg; the DB stays the identity
+   spine (read-only — this skill never writes it).
+
 1. `recon` task: marker census + structure hypothesis of the source file.
    Assessor verifies (known structure: 18 adhyāyas / ~700 Gītā verses +
    Abhinavagupta's commentary + colophons) → workcfg intake registration.
