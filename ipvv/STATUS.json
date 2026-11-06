@@ -1,7 +1,7 @@
 {
  "work": "ipvv",
  "updated": "2026-11-06",
- "next": "shastra loop: 45 chunks remaining",
+ "next": "TRANSLATION DONE: 49/49 T1 docs + word-level folded; argmap/L2/C1+proof deferred by owner; optional: hand-gloss residual tokens then run HANDOVER-STATEMACHINE for proof",
  "counts": {
   "passages": 49,
   "t1_files_root": 49,
@@ -15,7 +15,10 @@
    "chunk-v2-s-astamo-close-jnanadhikara",
    "chunk-v3-p-tattva-caturtho-close-k1-3",
    "chunk-v2-q-saptamo-k11-close"
-  ]
+  ],
+  "translation_docs": 49,
+  "word_level_tokens": "147287/154450 (95.4%)",
+  "schema_t1_l0": "98/98 PASS"
  },
  "r2": {
   "l0_v1": {
@@ -46,5 +49,5 @@
    "bytes": 732838
   }
  },
- "notes": "shastra PASS chunk-v2-q-saptamo-k11-close via state-machine loop; 4/49 PASS (chunkJ, V2-S, V3-P, V2-Q)"
+ "notes": "batch fill complete (shastra_batch_fill); paren-editorial rule fixed; source byte-verified; assembled ipvv/IPVV-TRANSLATION.md"
 }

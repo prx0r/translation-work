@@ -258,3 +258,15 @@ gate: PASS | blocking: [] | min_ratio: 0.965
 
 Context/contract (read only if a state needs it): `SHASTRA-MINIMAL.md` (layer contract),
 `HANDOVER-2026-11-06-IPVV-GUIDE.md` (full plan), `REVIEW-IPVV-2026-11-06.md` (defects history).
+
+---
+
+## POSTSCRIPT (updated after batch fill)
+
+The word-level fold is DONE for all 45 non-PASS chunks (`shastra_batch_fill.py`, 95.4%
+worldwide, T1+L0 schema 98/98, source byte-verified). Translation docs exist for all 49
+chunks (`ipvv/IPVV-TRANSLATION.md` assembled). The states above remain valid and are only
+needed later, per chunk, to earn the **proof gate** (argmap+L2+C1) — owner has deferred
+that. If resuming proof work: STATE 2/3 will mostly no-op (data already filled); start at
+STATE 4 for those chunks. Residual tokens are listed in `ipvv/cm/<song>-residual.json`
+(7,166 total, concentrated in vol1 A–E whose prose T1 docs already cover them).

@@ -24,6 +24,8 @@ from workcfg import source_spans
 
 def is_paratext(t: str) -> bool:
     """Editorial apparatus is never glossed (contract: paratext never enters T1/L0)."""
+    if '(' in t or ')' in t:
+        return True  # schema: no parens in surface -> any paren token is editorial
     if '|' in t:
         return True  # ASCII pipe never in Sanskrit: editorial refs (3|249), daṇda splits
     if re.search(r'\([^)]*[?]', t):
