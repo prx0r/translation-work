@@ -34,7 +34,7 @@ except ImportError:
 
 class Task(BaseModel):
     id: str
-    kind: str  # pilot_pair | tal_brief | lore_queries | lore_distill | recon
+    kind: str  # pilot_pair | tal_brief | lore_queries | lore_distill | recon | tal_gloss | tal_cm | tal_am
     args: dict = Field(default_factory=dict)
     status: str = 'pending'  # pending|claimed|done|failed|approved|bounced
     attempts: int = 0
@@ -449,6 +449,62 @@ def run_tal_cm(t: dict) -> tuple[bool, str]:
     return True, f'{len(c.rows)} CM rows'
 
 
+class TalAm(BaseModel):
+    song: str
+    verse: int
+    question: str
+    premises: list[str] = Field(min_length=1)
+    inference: str
+    uncertainties: list[str] = Field(default_factory=list)
+    plain_english: str
+
+
+TAL_AM_SYS = ('You map and translate one Sanskrit verse (Tantraloka) for a '
+              'pipeline. Output ONLY JSON. premises are terse logical statements '
+              'in verse order; plain_english is a readable translation, no '
+              'metacommentary; uncertainties are honest gaps. No certainty labels.')
+
+
+def run_tal_am(t: dict) -> tuple[bool, str]:
+    from beam_client import beam
+    work, song, verse = t['args']['work'], t['args']['song'], int(t['args']['verse'])
+    wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
+    e = next(x for x in wt if x['verse'] == verse)
+    pairs = [(x['surface'], x.get('quick_gloss', '')) for x in e['tokens']]
+    l0 = json.loads((ROOT / work / f'working-l0-{song}.json').read_text())
+    morph = {o['surface']: o.get('morph', '') for o in l0 if o.get('verse') == verse}
+    ahn = work.split('tantraloka-a')[-1]
+    lp = STATE / 'lore' / f'tal-{ahn}.md'
+    lore = lp.read_text()[:6000] if lp.exists() else ''
+    prev = (t.get('note') or '').split(' | ')[-1]
+    user = ('VERSE %d\n' % verse
+            + '\n'.join(f'{s} = {g}   [{morph.get(s,"")}]' for s, g in pairs)
+            + ('\n\nCONTEXT (prev verse): ' + t['args'].get('prev', '') if t['args'].get('prev') else '')
+            + ('\n\nLORE (what this ahnika is doing):\n' + lore if lore else '')
+            + (('\n\nFIX: ' + prev) if prev and 'attempt failed' not in prev and len(prev) > 5 else '')
+            + '\n\nReply ONLY JSON: {"song":"...","verse":N,"question":"...",'
+              '"premises":["..."],"inference":"...","uncertainties":["..."],'
+              '"plain_english":"..."}')
+    text = beam(TAL_AM_SYS, user, session=f'tal-am-{song}-v{verse}-001', max_tokens=6000)
+    a, b = text.find('{'), text.rfind('}')
+    if a < 0:
+        return False, 'no JSON: ' + text[:200]
+    try:
+        d = TalAm.model_validate_json(text[a:b + 1])
+    except ValidationError as ex:
+        return False, f'schema fail: {ex.errors()[:2]}'
+    probs = []
+    if not d.question.endswith('?'): probs.append('question must end ?')
+    if len(d.plain_english.split()) < 4: probs.append('l2 too short')
+    if any(len(x.split()) < 3 for x in d.premises): probs.append('premise too short')
+    if probs: return False, '; '.join(probs)
+    outd = ROOT / 'process' / 'beam' / 'runs' / t['id']
+    outd.mkdir(parents=True, exist_ok=True)
+    (outd / 'am.json').write_text(d.model_dump_json(indent=1, ensure_ascii=False))
+    (outd / 'raw.txt').write_text(text)
+    return True, f'{len(d.premises)} premises'
+
+
 def run_tal_brief(t: dict) -> tuple[bool, str]:
     import re as _re
     from beam_client import beam
@@ -557,6 +613,8 @@ def worker_loop(name: str) -> int:
                 ok, msg = run_tal_gloss(t)
             elif t['kind'] == 'tal_cm':
                 ok, msg = run_tal_cm(t)
+            elif t['kind'] == 'tal_am':
+                ok, msg = run_tal_am(t)
             else:
                 ok, msg = False, f'unknown kind {t["kind"]}'
         except Exception as e:  # noqa: BLE001
