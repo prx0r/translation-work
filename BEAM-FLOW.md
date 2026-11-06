@@ -33,6 +33,9 @@ are injected automatically when present. Seeded: `ipvv-V3B.md` (Torella
 IPK/kriyā frame, Bhāskarī witness note), `tal-a15.md` (phonematic emanation,
 Jayaratha joints, anti-uniform-chunking rule). Write one per front before
 queueing its tasks — 10 minutes of searching saves hours of bounce cycles.
+Beam drafts the *queries* (`lore_queries` tasks); the assessor executes
+searches; beam distills (`lore_distill`) or the assessor writes the brief
+directly when faster. Briefs are cached per front — never re-searched per task.
 
 ## 1. Setup (once per machine)
 

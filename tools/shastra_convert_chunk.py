@@ -175,6 +175,13 @@ def main():
         essence += ['The chunk closes its own argument; see the argument map for the full chain.']
     c1 = {'song': song, 'essence': essence, 'essence_only': True, 'renders': {}}
     (data_dir(work, song) / f'{song}.c1.json').write_text(json.dumps(c1, indent=1, ensure_ascii=False))
+    # fork discipline: L0 forks must be adjudicated on the record. The
+    # converter never invents adjudication — flag live/resolved forks with
+    # empty option_choices LOUDLY for the assessor (a fork with no grounds
+    # is an invention; silence here would launder it).
+    _forked = [o['id'] for o in l0 if o.get('fork', 'none') != 'none']
+    if _forked and not am[0].get('option_choices'):
+        print(f'FORK-ADJUDICATION-NEEDED {song}: L0 forks {_forked} have no argmap option_choices — assessor must adjudicate (converter will not invent it)', flush=True)
     # 3. validate + proof
     run(['python3', 'tools/validate_song.py', '--song', song, '--work', work])
     run(['python3', 'tools/proof_record.py', '--song', song, '--work', work, '--shastra'])

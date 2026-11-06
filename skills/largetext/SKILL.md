@@ -264,3 +264,22 @@ The pattern is lane-agnostic; the gates are lane-specific. Full contract:
    approve/bounce, same machine-proposed labels.
 5. Asset identity is `openpatala_work_id` everywhere (`dbread ids` resolves
    it). Missing/UNRESOLVED/TBD = draft-only, in every lane, no exceptions.
+
+## 11. Approved trika-x references (read-only, never authority)
+
+trika-x is another lane's repo — translation-work READS, never writes. Two
+artifacts are cleared for use as *pointers*, never as grounds:
+
+- **EVIDENCE.json entries** (theorem → chunk locators + tier + note, e.g.
+  `tsa08-p02` = mala doctrine). Use for (a) prioritization — chunks pinned
+  by formal interest translate first within their tier; (b) lore-brief
+  topics. Never as gloss grounds: a formal claim about a chunk is not a
+  reading of its Sanskrit. Cite the entry, then verify against T1/L0.
+- **vocab.py term list** (pramātṛ, kañcuka, mala…) as a *consistency
+  checklist* for key-term glosses across chunks (same term → same English
+  unless the passage forces otherwise, flagged in grounds). Formal
+  stipulation ≠ philology: on conflict, the text wins and the deviation is
+  recorded — exactly like a fork.
+
+Forbidden: copying doctrine into argmaps, citing theorems as witness, letting
+formal categories rename what the verse says. BLIND.md's rule cuts both ways.

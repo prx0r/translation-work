@@ -477,17 +477,22 @@ def cmd_approve(tid: str) -> None:
     mark(tasks, tid, 'approved', 'assessor approved')
 
 def cmd_auto_review() -> None:
-    """Assessor-batch for autonomy: approve DONE window briefs that re-verify
-    clean RIGHT NOW (tiling 100% + variety + schema re-parsed from disk).
-    pilot_pair drafts are NEVER auto-approved (prose judgment required) —
-    they are listed for the assessor instead. Everything stays
-    machine-proposed; sampled spot-reads happen on assessor wake."""
+    """Assessor-batch for autonomy: re-verify DONE window briefs from disk and
+    approve the ones that pass — EXCEPT a deterministic sample HELD for
+    spot-read (every 5th by task-id hash + all full-ahnika briefs). Sampling
+    is the only content check in this path; without it this is blind approval
+    (mistakes.md #24). pilot_pair drafts are NEVER auto-approved (prose
+    judgment required). Everything stays machine-proposed."""
+    import hashlib as _h
     import re as _re
     from collections import Counter as _C
     tasks = load_q()
     n_app, n_skip = 0, []
     for t in tasks:
         if not (t['status'] == 'done' and t['kind'] == 'tal_brief'):
+            continue
+        if int(_h.sha256(t['id'].encode()).hexdigest(), 16) % 5 == 4:
+            n_skip.append((t['id'], 'sampled for assessor spot-read (1-in-5)'))
             continue
         m = _re.fullmatch(r'tal-(a\d+)-w(\d+)-(\d+)', t['id'])
         if not m:
