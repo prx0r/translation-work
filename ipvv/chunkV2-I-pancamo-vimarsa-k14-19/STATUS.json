@@ -4,13 +4,15 @@
  "song": "chunk-v2-i-pancamo-vimarsa-k14-19",
  "vol": "M00021",
  "updated": "2026-11-06",
- "next": "machine-proposed, needs human review; optional hand-gloss residual then proof via HANDOVER-STATEMACHINE",
+ "next": "T1/L0 49/49 hand-closed (machine-proposed); human review pending",
  "counts": {
   "real_tokens": 3264,
-  "glossed": 3218,
-  "missing": 46,
-  "pct": 98.6,
-  "proof": "not-run"
+  "glossed": 3264,
+  "missing": 0,
+  "pct": 100.0,
+  "proof": "not-run",
+  "parsed": 3236,
+  "ambiguous": 28
  },
- "notes": "word-level fold via shastra_batch_fill; T1 prose/interlinear is the translation"
+ "notes": "word-level fold + squeeze + hand Ghand2 (machine-proposed); T1 prose/interlinear is the translation"
 }

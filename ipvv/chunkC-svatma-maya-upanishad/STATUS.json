@@ -4,13 +4,15 @@
  "song": "chunk-c-svatma-maya-upanishad",
  "vol": "M00020",
  "updated": "2026-11-06",
- "next": "machine-proposed, needs human review; optional hand-gloss residual then proof via HANDOVER-STATEMACHINE",
+ "next": "T1/L0 49/49 hand-closed (machine-proposed); human review pending",
  "counts": {
   "real_tokens": 3214,
-  "glossed": 2057,
-  "missing": 1157,
-  "pct": 64.0,
-  "proof": "not-run"
+  "glossed": 3214,
+  "missing": 0,
+  "pct": 100.0,
+  "proof": "not-run",
+  "parsed": 2428,
+  "ambiguous": 786
  },
- "notes": "word-level fold via shastra_batch_fill; T1 prose/interlinear is the translation"
+ "notes": "word-level fold + squeeze + hand Ghand2 (machine-proposed); T1 prose/interlinear is the translation"
 }

@@ -4,13 +4,15 @@
  "song": "chunk-v3-d-kriya-trtiyo-k3-8",
  "vol": "M00022",
  "updated": "2026-11-06",
- "next": "machine-proposed, needs human review; optional hand-gloss residual then proof via HANDOVER-STATEMACHINE",
+ "next": "T1/L0 49/49 hand-closed (machine-proposed); human review pending",
  "counts": {
   "real_tokens": 4631,
-  "glossed": 4600,
-  "missing": 31,
-  "pct": 99.3,
-  "proof": "not-run"
+  "glossed": 4631,
+  "missing": 0,
+  "pct": 100.0,
+  "proof": "not-run",
+  "parsed": 4614,
+  "ambiguous": 17
  },
- "notes": "word-level fold via shastra_batch_fill; T1 prose/interlinear is the translation"
+ "notes": "word-level fold + squeeze + hand Ghand2 (machine-proposed); T1 prose/interlinear is the translation"
 }

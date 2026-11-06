@@ -1,0 +1,33 @@
+# chunk-v3-f-kriya-trtiyo-close hand glosses (machine-proposed, needs human review).
+Ghand = [
+ (14, 'from-that-grace-alone', 'abl + eva; T1 §fourfold-duty; machine-proposed'),
+ (22, 'from-delusion-great-ocean-to-cross', 'abl compound + infinitive; T1 §fourfold-duty; machine-proposed'),
+ (27, 'in-param-lord-said', 'loc.sg.n PPP; T1 §fourfold-duty; machine-proposed'),
+ (39, 'all-around', 'indecl; T1 §yoga-knowledge; machine-proposed'),
+ (52, 'param-lord-teacher-grace-door-through', 'inst.sg long compound; T1 §dīkṣā; machine-proposed'),
+ (59, 'lordship-in-self-thus', 'nom + loc + iti; T1 §dīkṣā; machine-proposed'),
+ (68, 'capability-said', 'nom + PPP; T1 §dīkṣā; machine-proposed'),
+ (69, 'which-here-alone', 'rel + indecl + eva; T1 §dīkṣā; machine-proposed'),
+ (71, 'param-lord-ness-gain', 'nom.sg.m compound; T1 §dīkṣā; machine-proposed'),
+ (77, 'when-tradition', 'indecl + nom.sg.m; T1 §knowledge-dīkṣā; machine-proposed'),
+ (79, 'and-eligibility', 'ca + nom.sg.f; T1 §knowledge-dīkṣā; machine-proposed'),
+ (82, 'in-yoga-is', 'loc + verb; T1 §knowledge-dīkṣā; machine-proposed'),
+ (96, 'meditation-yogas-not-practising-alone', 'acc.pl + pres.part + eva; T1 §bhāvanā; machine-proposed'),
+ (97, 'knowledge-initiation-comforted-then', 'long compound + indecl; T1 §bhāvanā; machine-proposed'),
+]
+STATUS = {
+ 14: 'PARSED',
+ 22: 'PARSED',
+ 27: 'PARSED',
+ 39: 'PARSED',
+ 52: 'AMBIGUOUS',
+ 59: 'PARSED',
+ 68: 'PARSED',
+ 69: 'PARSED',
+ 71: 'PARSED',
+ 77: 'PARSED',
+ 79: 'PARSED',
+ 82: 'PARSED',
+ 96: 'AMBIGUOUS',
+ 97: 'AMBIGUOUS',
+}

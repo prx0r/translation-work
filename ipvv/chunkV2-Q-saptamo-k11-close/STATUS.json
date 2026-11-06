@@ -4,13 +4,15 @@
  "song": "chunk-v2-q-saptamo-k11-close",
  "vol": "M00021",
  "updated": "2026-11-06",
- "next": "proof PASS recorded; human review pending",
+ "next": "proof PASS re-recorded after hand close; human review pending",
  "counts": {
   "real_tokens": 1961,
-  "glossed": 1940,
-  "missing": 21,
-  "pct": 98.9,
-  "proof": "PASS"
+  "glossed": 1961,
+  "missing": 0,
+  "pct": 100.0,
+  "proof": "PASS",
+  "parsed": 1958,
+  "ambiguous": 3
  },
- "notes": "word-level fold via shastra_batch_fill; T1 prose/interlinear is the translation"
+ "notes": "word-level fold + squeeze + hand Ghand2 (machine-proposed); T1 prose/interlinear is the translation"
 }

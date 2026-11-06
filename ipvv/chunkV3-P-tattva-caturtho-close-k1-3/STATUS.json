@@ -7,10 +7,12 @@
  "next": "proof PASS recorded; human review pending",
  "counts": {
   "real_tokens": 876,
-  "glossed": 876,
+  "glossed": 880,
   "missing": 0,
   "pct": 100.0,
-  "proof": "PASS"
+  "proof": "PASS",
+  "parsed": 870,
+  "ambiguous": 10
  },
- "notes": "word-level fold via shastra_batch_fill; T1 prose/interlinear is the translation"
+ "notes": "word-level fold + squeeze + hand Ghand2 (machine-proposed); T1 prose/interlinear is the translation"
 }

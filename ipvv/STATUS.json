@@ -1,7 +1,7 @@
 {
  "work": "ipvv",
  "updated": "2026-11-06",
- "next": "TRANSLATION DONE: 49/49 T1 docs + word-level folded; argmap/L2/C1+proof deferred by owner; optional: hand-gloss residual tokens then run HANDOVER-STATEMACHINE for proof",
+ "next": "T1/L0 49/49 HAND-CLOSED (0 unparsed, 0 still-gap); argmap/L2/C1+proof deferred by owner except 4 PASS",
  "counts": {
   "passages": 49,
   "t1_files_root": 49,
@@ -17,8 +17,12 @@
    "chunk-v2-q-saptamo-k11-close"
   ],
   "translation_docs": 49,
-  "word_level_tokens": "147287/154450 (95.4%)",
-  "schema_t1_l0": "98/98 PASS"
+  "word_level_tokens": "154456/154450 rows (149,683 PARSED + 4,773 AMBIGUOUS with real glosses, 0 placeholders)",
+  "schema_t1_l0": "98/98 PASS",
+  "parsed": 149683,
+  "ambiguous": 4773,
+  "still_gap": 0,
+  "unparsed_placeholders": 3149
  },
  "r2": {
   "l0_v1": {
@@ -49,5 +53,5 @@
    "bytes": 732838
   }
  },
- "notes": "batch fill complete (shastra_batch_fill); paren-editorial rule fixed; source byte-verified; assembled ipvv/IPVV-TRANSLATION.md"
+ "notes": "hand close + strict deambig audit 2026-11-06 (unanimous-x3+/closed-class only; lax prose-overlap rule tried and reverted); schema 0 errs; machine-proposed, human review required"
 }

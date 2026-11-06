@@ -4,13 +4,15 @@
  "song": "chunk-v3-i-kriya-caturtho-close-k20-21",
  "vol": "M00022",
  "updated": "2026-11-06",
- "next": "machine-proposed, needs human review; optional hand-gloss residual then proof via HANDOVER-STATEMACHINE",
+ "next": "T1/L0 49/49 hand-closed (machine-proposed); human review pending",
  "counts": {
   "real_tokens": 2109,
-  "glossed": 2075,
-  "missing": 34,
-  "pct": 98.4,
-  "proof": "not-run"
+  "glossed": 2109,
+  "missing": 0,
+  "pct": 100.0,
+  "proof": "not-run",
+  "parsed": 2086,
+  "ambiguous": 23
  },
- "notes": "word-level fold via shastra_batch_fill; T1 prose/interlinear is the translation"
+ "notes": "word-level fold + squeeze + hand Ghand2 (machine-proposed); T1 prose/interlinear is the translation"
 }

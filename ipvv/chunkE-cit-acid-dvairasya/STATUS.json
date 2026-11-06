@@ -4,13 +4,15 @@
  "song": "chunk-e-cit-acid-dvairasya",
  "vol": "M00020",
  "updated": "2026-11-06",
- "next": "machine-proposed, needs human review; optional hand-gloss residual then proof via HANDOVER-STATEMACHINE",
+ "next": "T1/L0 49/49 hand-closed (machine-proposed); human review pending",
  "counts": {
   "real_tokens": 3504,
-  "glossed": 2977,
-  "missing": 527,
-  "pct": 85.0,
-  "proof": "not-run"
+  "glossed": 3504,
+  "missing": 0,
+  "pct": 100.0,
+  "proof": "not-run",
+  "parsed": 3220,
+  "ambiguous": 284
  },
- "notes": "word-level fold via shastra_batch_fill; T1 prose/interlinear is the translation"
+ "notes": "word-level fold + squeeze + hand Ghand2 (machine-proposed); T1 prose/interlinear is the translation"
 }

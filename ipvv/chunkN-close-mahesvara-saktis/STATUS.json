@@ -4,13 +4,15 @@
  "song": "chunk-n-close-mahesvara-saktis",
  "vol": "M00020",
  "updated": "2026-11-06",
- "next": "machine-proposed, needs human review; optional hand-gloss residual then proof via HANDOVER-STATEMACHINE",
+ "next": "T1/L0 49/49 hand-closed (machine-proposed); human review pending",
  "counts": {
   "real_tokens": 3348,
-  "glossed": 3242,
-  "missing": 106,
-  "pct": 96.8,
-  "proof": "not-run"
+  "glossed": 3348,
+  "missing": 0,
+  "pct": 100.0,
+  "proof": "not-run",
+  "parsed": 3284,
+  "ambiguous": 64
  },
- "notes": "word-level fold via shastra_batch_fill; T1 prose/interlinear is the translation"
+ "notes": "word-level fold + squeeze + hand Ghand2 (machine-proposed); T1 prose/interlinear is the translation"
 }

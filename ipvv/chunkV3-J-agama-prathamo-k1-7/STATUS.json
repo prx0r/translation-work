@@ -4,13 +4,15 @@
  "song": "chunk-v3-j-agama-prathamo-k1-7",
  "vol": "M00022",
  "updated": "2026-11-06",
- "next": "machine-proposed, needs human review; optional hand-gloss residual then proof via HANDOVER-STATEMACHINE",
+ "next": "T1/L0 49/49 hand-closed (machine-proposed); human review pending",
  "counts": {
   "real_tokens": 3093,
-  "glossed": 3042,
-  "missing": 51,
-  "pct": 98.4,
-  "proof": "not-run"
+  "glossed": 3093,
+  "missing": 0,
+  "pct": 100.0,
+  "proof": "not-run",
+  "parsed": 3067,
+  "ambiguous": 26
  },
- "notes": "word-level fold via shastra_batch_fill; T1 prose/interlinear is the translation"
+ "notes": "word-level fold + squeeze + hand Ghand2 (machine-proposed); T1 prose/interlinear is the translation"
 }
