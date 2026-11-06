@@ -90,7 +90,24 @@ rotate_logs(){
 }
 
 log "watchdog start (workers=$WORKERS stall=${STALL_MINS}m pid=$$)"
+PAUSED=0
 while true; do
+  # health gate: if beam-free is throttled, stop spawning and retry later
+  if ! python3 - <<'PY' >/dev/null 2>&1
+import sys; sys.path.insert(0,'tools')
+from beam_client import health
+ok,_ = health(); sys.exit(0 if ok else 1)
+PY
+  then
+    if [ "$PAUSED" = "0" ]; then
+      log "beam-free unavailable (429/limit) — PAUSING 30m (queue preserved, no model swap)"
+      pkill -f "beam_swarm.py worker" 2>/dev/null
+      PAUSED=1
+    fi
+    sleep 1800
+    continue
+  fi
+  if [ "$PAUSED" = "1" ]; then log "beam-free back — RESUMING"; PAUSED=0; fi
   start_driver
   start_workers
   reap_stale_claims

@@ -26,6 +26,17 @@ def _key() -> str:
         raise RuntimeError('OPENCODE_GO_KEY not set (pull from oracle vault)')
     return k
 
+def health() -> tuple[bool, str]:
+    """Cheap probe: True if beam-free answers. Used by the watchdog to pause
+    instead of hammering when the free tier is throttled."""
+    try:
+        chat([{'role': 'user', 'content': 'Reply with exactly: PONG'}],
+             session='health-probe', max_tokens=32, tries=1)
+        return True, 'ok'
+    except Exception as e:  # noqa: BLE001
+        return False, str(e)[:200]
+
+
 def chat(messages: list, session: str, max_tokens: int = MAX_OUTPUT,
          temperature: float = 0.2, tries: int = 4) -> str:
     # NOTE: beam-free spends budget on hidden reasoning; without a low
@@ -58,7 +69,7 @@ def chat(messages: list, session: str, max_tokens: int = MAX_OUTPUT,
         except Exception as e:  # noqa: BLE001 - retry any transient failure
             last = e
             msg = str(e).lower()
-            wait = 45 * (attempt + 1) if ('429' in str(e) or 'rate limit' in msg) else 3 * (attempt + 1)
+            wait = 180 * (attempt + 1) if ('429' in str(e) or 'rate limit' in msg) else 3 * (attempt + 1)
             time.sleep(wait)
     raise RuntimeError(f'beam chat failed x{tries} (session {session}): {last}')
 
