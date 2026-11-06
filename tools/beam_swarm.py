@@ -484,8 +484,18 @@ def run_tal_am(t: dict) -> tuple[bool, str]:
     wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
     e = next(x for x in wt if x['verse'] == verse)
     pairs = [(x['surface'], x.get('quick_gloss', '')) for x in e['tokens']]
+    gf = ROOT / 'process' / 'beam' / 'runs' / f"{song}-gloss-v{verse:02d}" / 'gloss.json'
+    if any(not g for _, g in pairs) and gf.exists():
+        try:
+            got = {r['surface']: r['gloss'] for r in json.loads(gf.read_text())['rows']}
+            pairs = [(s_, got.get(s_, g_)) for s_, g_ in pairs]
+        except (OSError, ValueError, KeyError):
+            pass
     l0 = json.loads((ROOT / work / f'working-l0-{song}.json').read_text())
-    morph = {o['surface']: o.get('morph', '') for o in l0 if o.get('verse') == verse}
+    morph = {}
+    for o in l0:
+        if o.get('verse_id', '').endswith(f'-v{verse:02d}'):
+            morph[o['surface']] = o.get('morph', '')
     ahn = work.split('tantraloka-a')[-1]
     lp = STATE / 'lore' / f'tal-{ahn}.md'
     lore = lp.read_text()[:6000] if lp.exists() else ''
