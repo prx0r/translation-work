@@ -16,7 +16,7 @@ sys.exit(0 if d.get('counts',{}).get('proof')=='PASS' else 1)" 2>/dev/null; then
     log "$a already PASS — skip"; continue
   fi
   log "$a start"
-  python3 tools/tal_stage.py --work "$W" --song "$S" --seed --triple --loop --wait 300 --max-wait 7200 2>&1 | while IFS= read -r l; do log "  $l"; done
+  python3 tools/tal_stage.py --work "$W" --song "$S" --seed --triple --loop --wait 300 --max-wait 14400 2>&1 | while IFS= read -r l; do log "  $l"; done
   rc=${PIPESTATUS[0]}
   if [ "$rc" = "0" ]; then
     python3 - <<PY

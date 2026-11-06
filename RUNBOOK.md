@@ -228,3 +228,29 @@ timid 16k. Consequences:
   with 1M context the whole ahnika + lore + prior outputs can stay resident.
 - Quality guard still applies: a giant group that returns sloppy output is a
   wasted call, so start at 24, raise to 48–64 once a few runs are clean.
+
+## 14. Overnight / unattended (watchdog + systemd)
+
+```bash
+# installed service (survives logout, reboot, SSH drop):
+sudo cp tools/tal-campaign.service /etc/systemd/system/
+sudo systemctl daemon-reload && sudo systemctl enable --now tal-campaign
+systemctl status tal-campaign        # active
+journalctl -u tal-campaign -f        # or: tail -f process/beam/watchdog.log
+```
+
+`tools/watchdog.sh` every 60 s: starts the campaign driver if absent, keeps
+N workers alive (`WORKERS=3`), detects stalls (claimed tasks + no log growth
+for 25 min → restarts workers and returns claims to pending), rotates logs
+> 50 MB, and appends a per-minute progress snapshot.
+
+Safety properties for an unattended night:
+- Nothing marks PASS without `validate_song` + `proof_record`; blocked ahnikas
+  are parked, not forced.
+- Commits are gated on `check.py` inside the driver; a red gate parks the
+  commit while work continues.
+- Rate limits (429) back off 45 s × attempt; exhausted tasks stop retrying.
+- Everything is idempotent: killing any component and restarting resumes.
+- Morning triage: `tail -50 process/beam/tal_campaign.log`,
+  `tail -30 process/beam/watchdog.log`, `git log --oneline -10`,
+  `python3 tools/beam_swarm.py status`, then review any parked/BLOCKED ahnika.

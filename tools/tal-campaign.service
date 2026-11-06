@@ -1,0 +1,18 @@
+[Unit]
+Description=Translation-work TAL campaign (beam swarm + watchdog)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root/translation-work
+Environment=HOME=/root
+ExecStart=/usr/bin/env bash -lc 'exec bash tools/watchdog.sh'
+Restart=always
+RestartSec=30
+StandardOutput=append:/root/translation-work/process/beam/service.log
+StandardError=append:/root/translation-work/process/beam/service.log
+Nice=10
+
+[Install]
+WantedBy=multi-user.target
