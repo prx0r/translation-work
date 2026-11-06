@@ -360,6 +360,11 @@ TAL_GLOSS_SYS = ('You gloss Sanskrit verse tokens for a translation pipeline. '
                  '+ which L1/L2 line supports it. Never invent; mark uncertainty in grounds.')
 
 
+def _not_lower(g: str) -> bool:
+    """Gloss must be lowercase except the standalone pronoun 'I'."""
+    return g.replace('I', 'i') != g.replace('I', 'i').lower()
+
+
 def run_tal_gloss(t: dict) -> tuple[bool, str]:
     import re as _re
     from beam_client import beam
@@ -399,7 +404,7 @@ def run_tal_gloss(t: dict) -> tuple[bool, str]:
             'sandhi', 'compound')
     bad = [r.gloss for r in g.rows
            if not r.gloss or '(' in r.gloss or ')' in r.gloss or '"' in r.gloss
-           or r.gloss != r.gloss.lower() or len(r.gloss.split('-')) > 8
+           or _not_lower(r.gloss) or len(r.gloss.split('-')) > 8
            or any(w in r.gloss.lower().split('-') for w in LEAK)
            or not (r.grounds or '').strip()]
     if bad:

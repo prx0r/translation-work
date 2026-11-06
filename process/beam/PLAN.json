@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T13:44:34",
+ "generated": "2026-11-06T13:49:35",
  "items": [
   {
    "db_work": "tantraloka-a01",
@@ -53,13 +53,6 @@
   {
    "db_work": "tantraloka-a10",
    "local_work": "tantraloka-a10",
-   "tier": "T0-abhinavagupta",
-   "kind": "transform",
-   "reason": "pending: recon complete (pending transformation, shortest-first queue); 2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 3"
-  },
-  {
-   "db_work": "tantraloka-a11",
-   "local_work": "tantraloka-a11",
    "tier": "T0-abhinavagupta",
    "kind": "transform",
    "reason": "pending: recon complete (pending transformation, shortest-first queue); 2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 3"
@@ -210,6 +203,13 @@
    "tier": "T0-abhinavagupta",
    "kind": "review",
    "reason": "gold; next: Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a26 (76u)."
+  },
+  {
+   "db_work": "tantraloka-a11",
+   "local_work": "tantraloka-a11",
+   "tier": "T0-abhinavagupta",
+   "kind": "review",
+   "reason": "gold; next: minimal gold complete; L3/L4 waived; human review pending"
   },
   {
    "db_work": "tantraloka-a12",
