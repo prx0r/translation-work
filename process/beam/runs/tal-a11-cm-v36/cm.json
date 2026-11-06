@@ -1,0 +1,46 @@
+{
+ "song": "unknown",
+ "verse": 1,
+ "rows": [
+  {
+   "lemma": "idam",
+   "morph": "m.nom.du",
+   "grounds": "gloss 'these-two' matches idam in nominative dual masculine"
+  },
+  {
+   "lemma": "bheda+ubhau",
+   "morph": "m.nom.du (both members)",
+   "grounds": "gloss 'both-differences' is a sandhi/compound-like form; exact split is AMBIGUOUS"
+  },
+  {
+   "lemma": "tattva-bheda-mātra-kṛta+iti",
+   "morph": "m.nom.du (kṛta) + indecl. (iti)",
+   "grounds": "gloss 'made-only-by-tattva-difference-thus' contains kṛta and iti; full internal parse is AMBIGUOUS"
+  },
+  {
+   "lemma": "tattva-adhva+eva+ayam+ittham",
+   "morph": "m.nom.sg (ayam) + indecl. (eva/ittham)",
+   "grounds": "gloss 'thus-in-tattva-adhvan' contains ayam and indeclinables; full internal parse is AMBIGUOUS"
+  },
+  {
+   "lemma": "ca",
+   "morph": "indecl.",
+   "grounds": "gloss 'and' is the indeclinable ca"
+  },
+  {
+   "lemma": "na",
+   "morph": "indecl.",
+   "grounds": "gloss 'not' is the indeclinable na"
+  },
+  {
+   "lemma": "ṣaḍ-adhva-sthiti",
+   "morph": "f.gen.sg",
+   "grounds": "gloss 'from-six-adhvan-establishment' ends in sthiteḥ, genitive singular feminine"
+  },
+  {
+   "lemma": "kṣati",
+   "morph": "f.nom.sg",
+   "grounds": "gloss 'loss' is kṣatiḥ, nominative singular feminine"
+  }
+ ]
+}
