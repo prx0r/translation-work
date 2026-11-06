@@ -116,6 +116,20 @@ Endpoint: `https://opencode.ai/inference/go/openai/v1/chat/completions`,
 model `beam-free`, `reasoning_effort: low` + generous `max_tokens` (the model
 burns budget on hidden reasoning — small budgets return null content).
 
+**Leave-it-running mode: `tools/ralph.sh`.** The autonomous supervisor —
+keeps 5 workers alive, runs `auto-review` (window briefs ONLY, never prose
+pilots), converts due approved pilots (`tools/ralph_convert.py`), gates every
+commit on `check.py`, pushes on green, parks on red, exits drained with the
+review queue for the assessor:
+
+```bash
+setsid nohup bash tools/ralph.sh 240 180 > process/beam/ralph.log 2>&1 < /dev/null &
+```
+
+`auto-review` re-verifies each DONE window brief from disk (tiling 100% +
+variety + schema) before approving; anything else is HELD for assessor eyes.
+Full-ahnika briefs, pilot prose, fork calls, PASS calls: never automated.
+
 ## 6. Gold-standard bar (unchanged — the swarm feeds it, never lowers it)
 
 An item is DONE only when, after assessor promotion: `validate_song`

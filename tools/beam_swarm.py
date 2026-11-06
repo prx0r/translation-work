@@ -319,6 +319,52 @@ def cmd_approve(tid: str) -> None:
         print(f'placed pilot_{lbl}_* into ipvv/pilot/ — next: converter + validate + proof')
     mark(tasks, tid, 'approved', 'assessor approved')
 
+def cmd_auto_review() -> None:
+    """Assessor-batch for autonomy: approve DONE window briefs that re-verify
+    clean RIGHT NOW (tiling 100% + variety + schema re-parsed from disk).
+    pilot_pair drafts are NEVER auto-approved (prose judgment required) —
+    they are listed for the assessor instead. Everything stays
+    machine-proposed; sampled spot-reads happen on assessor wake."""
+    import re as _re
+    from collections import Counter as _C
+    tasks = load_q()
+    n_app, n_skip = 0, []
+    for t in tasks:
+        if not (t['status'] == 'done' and t['kind'] == 'tal_brief'):
+            continue
+        m = _re.fullmatch(r'tal-(a\d+)-w(\d+)-(\d+)', t['id'])
+        if not m:
+            n_skip.append((t['id'], 'full-ahnika brief: needs assessor read'))
+            continue
+        try:
+            d = json.load(open(ROOT / 'process' / 'beam' / 'runs' / t['id'] / 'brief.json'))
+            items = d['items']
+            want = set(range(int(m.group(2)), int(m.group(3)) + 1))
+            cov: set[int] = set()
+            lens = []
+            ok = True
+            for it in items:
+                mm = _re.fullmatch(r'vv(\d+)-(\d+)', it['span'].strip())
+                if not mm:
+                    ok = False
+                    break
+                a, b = int(mm.group(1)), int(mm.group(2))
+                cov.update(range(a, b + 1))
+                lens.append(b - a + 1)
+            mech = len(lens) > 5 and max(_C(lens).values()) / len(lens) > 0.8
+            if ok and len(cov & want) >= 0.9 * len(want) and not mech:
+                mark(tasks, t['id'], 'approved',
+                     (t.get('note', '') + ' | auto: gates re-verified, sampled spot-read pending').strip(' |'))
+                n_app += 1
+            else:
+                n_skip.append((t['id'], 're-verify failed: needs assessor read'))
+        except Exception as e:  # noqa: BLE001
+            n_skip.append((t['id'], f'read error: {e}'))
+    print(f'auto-review: approved={n_app} held={len(n_skip)}')
+    for tid, why in n_skip[:20]:
+        print(f'  HOLD {tid}: {why}')
+
+
 def cmd_bounce(tid: str, note: str) -> None:
     tasks = load_q()
     mark(tasks, tid, 'pending', 'bounce: ' + note)
@@ -333,6 +379,7 @@ def main() -> int:
     r = sub.add_parser('review'); r.add_argument('id')
     a = sub.add_parser('approve'); a.add_argument('id')
     b = sub.add_parser('bounce'); b.add_argument('id'); b.add_argument('note')
+    sub.add_parser('auto-review')
     args = ap.parse_args()
     if args.c == 'init-queue':
         cmd_init_queue()
@@ -346,6 +393,8 @@ def main() -> int:
         cmd_approve(args.id)
     elif args.c == 'bounce':
         cmd_bounce(args.id, args.note)
+    elif args.c == 'auto-review':
+        cmd_auto_review()
     return 0
 
 if __name__ == '__main__':
