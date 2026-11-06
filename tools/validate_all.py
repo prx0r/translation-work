@@ -4,6 +4,7 @@
 Stages (fail-closed, first failure still runs the rest so one run shows all):
   1. schemas import + self-test            (fast)
   2. manifest freshness                    (fast-ish: hashes canon files)
+  2b. passages ledgers: unique locators + immutable_id repo-wide (fast)
   3. per-song validate_song across ALL data songs (slow: minutes)
   4. proof sweep: every proof-*.json must be PASS with zero blocking;
      BLOCKED allowed ONLY with a recorded disposition file
@@ -51,6 +52,48 @@ def main() -> int:
     # 2. manifest
     rc, out = run([sys.executable, 'tools/manifest.py', 'check'])
     step('manifest-fresh', rc == 0, out.splitlines()[-1][:160] if rc else out[-300:])
+
+    # 2b. passages ledgers (FORMAL-ALIGN contract): unique locators PER FILE
+    # (matches evidence_check gate) + immutable_id globally unique.
+    # Cross-work locator collisions (anu-*, par-*) are grandfathered legacy
+    # schemes, disambiguated by work in bridge maps — reported, not failed.
+    try:
+        import glob as _g
+        seen_imm: dict[str, str] = {}
+        nrows = 0
+        bad = []
+        collide: dict[str, set] = {}
+        for f in sorted(_g.glob(str(ROOT / '*' / 'passages.jsonl'))):
+            seen_loc: set[str] = set()
+            for line in open(f):
+                line = line.strip()
+                if not line:
+                    continue
+                r = json.loads(line)
+                nrows += 1
+                loc, iid = r.get('locator'), r.get('immutable_id')
+                if not loc:
+                    bad.append(f'{f}:missing-locator')
+                elif loc in seen_loc:
+                    bad.append(f'dup-locator-in-file:{f}:{loc}')
+                else:
+                    seen_loc.add(loc)
+                if not iid:
+                    bad.append(f'{f}:missing-immutable-id')
+                elif iid in seen_imm:
+                    bad.append(f'dup-immutable:{iid}')
+                else:
+                    seen_imm[iid] = f
+                if loc:
+                    collide.setdefault(loc, set()).add(f)
+        shared = {l: sorted(fs) for l, fs in collide.items() if len(fs) > 1}
+        step('passages-ledger', not bad,
+             f'{nrows} rows, {len(seen_imm)} immutable' if not bad else f'{bad[:5]}')
+        if shared:
+            print(f'  NOTE cross-work locator collisions (grandfathered, work-disambiguated): '
+                  f'{len(shared)} locators, e.g. {sorted(shared)[:6]}')
+    except Exception as e:  # noqa: BLE001
+        step('passages-ledger', False, str(e)[:160])
 
     # 3. per-song validate (skip in --quick)
     if not quick:
