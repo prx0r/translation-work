@@ -18,6 +18,12 @@ log "start max_iter=$MAX_ITER sleep=$SLEEP_SECS"
 for ((i = 1; i <= MAX_ITER; i++)); do
   log "--- pass $i ---"
 
+  # 0. manifest freshness is a gate input — regen when canon changed, else
+  # every content commit parks the next pass on a stale manifest.
+  if [ -n "$(git status --porcelain | grep -v -E 'process/beam/(queue|claims|w[0-9]\.log|ralph\.log|continue\.log)|ipvv/cm/beam/')" ]; then
+    python3 tools/manifest.py gen >/dev/null 2>&1 && log "manifest regenerated" || log "manifest gen FAILED — needs assessor"
+  fi
+
   # 1. supervise beam drafters (restart dead, keep 5)
   for w in w1 w2 w3 w4 w5; do
     if ! pgrep -f "beam_swarm.py worker $w" >/dev/null 2>&1; then
