@@ -462,7 +462,12 @@ class TalAm(BaseModel):
 TAL_AM_SYS = ('You map and translate one Sanskrit verse (Tantraloka) for a '
               'pipeline. Output ONLY JSON. premises are terse logical statements '
               'in verse order; plain_english is a readable translation, no '
-              'metacommentary; uncertainties are honest gaps. No certainty labels.')
+              'metacommentary; uncertainties are honest gaps. No certainty labels.\n'
+              'The QUESTION is the question the verse itself answers, asked in the '
+              "verse's own terms — e.g. \"Who is fit to be consecrated?\", "
+              "\"What does the former guru retain after transmitting?\". "
+              'BANNED question forms: "What does verse N state...", "What is being told?", '
+              '"What is this verse about?". Minimum 5 words.')
 
 
 def run_tal_am(t: dict) -> tuple[bool, str]:
@@ -494,7 +499,11 @@ def run_tal_am(t: dict) -> tuple[bool, str]:
     except ValidationError as ex:
         return False, f'schema fail: {ex.errors()[:2]}'
     probs = []
+    lq = d.question.lower().strip()
     if not d.question.endswith('?'): probs.append('question must end ?')
+    if len(d.question.split()) < 5: probs.append('question too short/empty')
+    if 'does verse' in lq or 'this verse' in lq or 'is being told' in lq:
+        probs.append('meta-question: ask the verse\'s own question in its own terms')
     if len(d.plain_english.split()) < 4: probs.append('l2 too short')
     if any(len(x.split()) < 3 for x in d.premises): probs.append('premise too short')
     if probs: return False, '; '.join(probs)
