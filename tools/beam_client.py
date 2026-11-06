@@ -12,10 +12,9 @@ import json, os, sys, time, urllib.request
 
 ENDPOINT = 'https://opencode.ai/inference/go/openai/v1/chat/completions'
 UA = 'translation-work-harness/1.0'
-# MODEL override: beam-free is "limited time". If it goes away, set
-# BEAM_MODEL to another Go model id (e.g. mimo-v2.5, qwen3.8-flash)
-# without touching callers. Cost then counts against the Go plan.
-MODEL = os.environ.get('BEAM_MODEL', 'beam-free')
+# HARDCODED: beam-free only. Other models fail in this harness (owner
+# directive 2026-11-06). Do not add an env override, do not swap models.
+MODEL = 'beam-free'
 
 def _key() -> str:
     k = os.environ.get('OPENCODE_GO_KEY', '')

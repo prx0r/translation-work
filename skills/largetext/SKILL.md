@@ -119,8 +119,9 @@ Self-healing built in: atomic queue writes, 15-min stale-claim expiry,
 per-task session IDs (`ipvv-pilot-<lbl>`, `tal-<ahn>-w<lo>-<hi>`), vault-held
 key (never in repo). Workers exit on empty queue; relaunch per batch.
 Endpoint: `https://opencode.ai/inference/go/openai/v1/chat/completions`,
-model `beam-free`, `reasoning_effort: low` + generous `max_tokens` (the model
-burns budget on hidden reasoning — small budgets return null content).
+model `beam-free` (HARDCODED — no other model works in this harness; do not add
+an override), `reasoning_effort: low` + generous `max_tokens` (the model burns
+budget on hidden reasoning — small budgets return null content).
 
 **THE BUTTON: `tools/continue.sh`.** One command syncs the openpatala registry
 (`tools/registry_sync.py` → `process/beam/PLAN.json`, tier-ordered: Trika
