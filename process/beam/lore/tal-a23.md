@@ -13,10 +13,17 @@ authorities inside the text; Kiraṇa/Dīkṣottara in the background.
 1. Disciple inspection (parīkṣā): fitness signs, unfitness (ayogyatā,
    pratyavāya) bars initiation — the gatekeeping logic.
 2. Putraka→ācārya arc: mantra-paddhati muttering/meditation, then authority
-   to initiate/explain (dīkṣā-vyākhyā) conferred.
+   to initiate/explain (dīkṣā-vyākhyā) conferred (Dyczkowski vol 9:
+   apprentice → teacher-priest via three triads + Twelve Kālīs).
 3. Sapta-satraka (seven sacrifices: dīkṣā, vyākhyā, kṛpā, maitrī, …,
    anna-ādi-dāna) as the consecrated one's duties.
 4. Kāmika/Siddhayogīśvarī citations as authority moves, not decoration.
+   Note the lineage politics: Kāmika is Siddhānta temple canon — Abhinavagupta
+   (Trika) citing it is a deliberate authority claim; Mālinīvijayottara is
+   the consecration source both traditions share.
+5. Adept vs Master consecration (Dupuche): the master consecrated by the
+   'hand of Śiva' (64 lamps / 64 kula goddesses); the 'formed' (kalpita)
+   guru vs the directly-empowered one. Watch which one the passage crowns.
 
 ## Traps
 - Abhiṣeka ≠ dīkṣā: consecration confers TEACHING authority (initiate

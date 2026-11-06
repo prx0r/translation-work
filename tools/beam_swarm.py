@@ -328,9 +328,10 @@ def run_tal_gloss(t: dict) -> tuple[bool, str]:
     entry = next(e for e in wt if e['verse'] == verse)
     surfs = [x['surface'] for x in entry['tokens']]
     ctx = t.get('args', {}).get('context', '')
+    ahn = t['args'].get('ahnika') or (work.split('tantraloka-a')[-1] if work.startswith('tantraloka-a') else '')
     lore = ''
-    lp = STATE / 'lore' / f"tal-{t['args'].get('ahnika', '')}.md"
-    if t['args'].get('ahnika') and lp.exists():
+    lp = STATE / 'lore' / f'tal-{ahn}.md' if ahn else None
+    if lp is not None and lp.exists():
         lore = lp.read_text()[:4000]
     prev = (t.get('note') or '').split(' | ')[-1]
     user = (f'Verse {verse} ({len(surfs)} tokens, hyphen-split compounds, @ marks sandhi):\n'
