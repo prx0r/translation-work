@@ -74,6 +74,12 @@ class AccountSubmissionTest(unittest.TestCase):
         self.assertEqual(essay['snapshot']['content']['citations'],[citation])
         self.assertEqual(scholar.essay_errors(essay,'paramarthasara',digest+'.json'),[])
         self.assertIn('client-reported',essay['citation_note'])
+        op = essay['openpatala']
+        self.assertEqual(op['record_status'], 'RECORDED')
+        self.assertEqual(len(op['record_sha256']), 64)
+        self.assertEqual(op['mapping_status'], 'UNMAPPED')
+        self.assertTrue(op['edition_label'])
+        self.assertIn('service-observed', op['note'])
         for invalid in [{**citation,'t1_sha256':'0'*64},{**citation,'target':'missing-v01'},
                         {**citation,'work':'ghatakarpara'},{**citation,'work':'../outside'}]:
             with self.subTest(invalid=invalid):
@@ -83,6 +89,24 @@ class AccountSubmissionTest(unittest.TestCase):
         payload['snapshot']['content']['citations']=[citation,citation]
         payload['signoff']['snapshot_sha256']=scholar.sha(payload['snapshot'])
         with self.assertRaisesRegex(ValueError,'duplicate'):scholar_service.submit_account(self.repo,payload)
+
+    def test_essay_openpatala_mapped(self):
+        (self.repo/'source-maps').mkdir(exist_ok=True)
+        (self.repo/'source-maps'/'openpatala.json').write_text(json.dumps(
+            {'format': 'svatantrya-openpatala-map/1',
+             'works': {'paramarthasara': {'mapping_status': 'CANDIDATE',
+                                          'openpatala_work_id': 'PTCND_sa_abhinavagupta-paramArthasAra'}}}))
+        payload = self.payload('essay')
+        t1 = json.loads((self.repo/'paramarthasara/data/param-p01.t1.json').read_text())[0]
+        citation = {'work': 'paramarthasara', 'target': t1['verse_id'], 't1_sha256': scholar.sha(t1), 'projection_sha256': 'a'*64}
+        payload['snapshot']['content']['citations'] = [citation]
+        payload['signoff']['snapshot_sha256'] = scholar.sha(payload['snapshot'])
+        result = scholar_service.submit_account(self.repo, payload)
+        digest = result['essay_id'].split(':', 1)[1]
+        essay = json.loads(self.git('show', result['branch']+f':paramarthasara/scholar/essays/{digest}.json'))
+        op = essay['openpatala']
+        self.assertEqual(op['mapping_status'], 'CANDIDATE')
+        self.assertEqual(op['openpatala_work_id'], 'PTCND_sa_abhinavagupta-paramArthasAra')
 
     def test_legacy_essay_target_and_citation_reject_stale_committed_layers(self):
         # No source manifest: legacy works must not bypass proof freshness.
