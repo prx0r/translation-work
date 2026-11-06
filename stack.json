@@ -1,8 +1,8 @@
 {
- "canonical": "translation-work/stack.json",
-  "version": "1.2.0",
-  "date": "2026-11-03",
-  "schemas_version": "1.3.0",
+  "canonical": "translation-work/stack.json",
+   "version": "1.3.0",
+  "date": "2026-11-06",
+  "schemas_version": "1.4.0",
  "description": "Machine-readable manifest of the canonical translation stack. Generated in part from schemas/*.py (layers, required fields); hand-maintained parts are precedence, gates, and site mapping. check.py verifies this file stays in sync with the code.",
   "layers": [
    "t1",

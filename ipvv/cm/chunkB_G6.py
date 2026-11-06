@@ -1,0 +1,15 @@
+G6 = [
+ (591, 'subjection-entry', 'T1D L243 (matched parameśvarabhaktivaivaśya-samāveśasya)'),
+ (612, 'subjection-entry', 'T1D L243 (matched parameśvarabhaktivaivaśya-samāveśasya)'),
+ (620, 'of-the-all-form-ness', 'T1D L211 (matched viśvarūpatā-mayaḥ)'),
+ (724, 'subjection-entry', 'T1D L243 (matched parameśvarabhaktivaivaśya-samāveśasya)'),
+ (786, 'the-one-or-the-other-face', 'T1D L23 (matched anyataramukhena pratipādyamānam)'),
+ (939, 'this, [however], [is]-another-alone', 'T1D L334 (matched anya eva)'),
+ (1047, 'helping', 'T1D L376 (matched nopakaroti vā)'),
+ (1329, 'subjection-entry', 'T1D L243 (matched parameśvarabhaktivaivaśya-samāveśasya)'),
+ (1345, 'of-the-all-form-ness', 'T1D L211 (matched viśvarūpatā-mayaḥ)'),
+ (1352, 'of-the-all-form-ness', 'T1D L211 (matched viśvarūpatā-mayaḥ)'),
+ (1406, 'subjection-entry', 'T1D L243 (matched parameśvarabhaktivaivaśya-samāveśasya)'),
+ (1469, 'of-the-all-form-ness', 'T1D L211 (matched viśvarūpatā-mayaḥ)'),
+ (1519, 'the-not-intended-by-the-speaker', 'T1D L191 (matched na vakturabhisaṃhitaṃ)'),
+]

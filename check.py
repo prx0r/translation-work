@@ -43,7 +43,7 @@ def main() -> int:
     step("schemas-import", True)
 
     stack = json.loads((ROOT / "stack.json").read_text())
-    sync = stack.get("schemas_version") == "1.3.0"
+    sync = stack.get("schemas_version") == "1.4.0"
     req_ok = True
     for mod, name in [(t1s, "t1"), (l0s, "l0"), (ams, "argmap"), (l2s, "l2"), (c1s, "c1"), (l3s, "l3"), (l4s, "l4")]:
         if set(stack["required_by_layer"][name]) != set(mod.REQUIRED):
@@ -108,7 +108,7 @@ def main() -> int:
     step("directive-present", "User Directive 2026-11-01" in ag)
     try:
         dt = json.loads((ROOT / "DATATYPES.json").read_text())
-        dt_ok = (dt.get("version") == "1.3.0" and isinstance(dt.get("transforms"), list)
+        dt_ok = (dt.get("version") == "1.4.0" and isinstance(dt.get("transforms"), list)
                  and all(v.exists() or True for v in [ROOT / "tools" / "validate_site.py"]))
         # every transform with a translation-work validator must point at a real file
         for t in dt["transforms"]:

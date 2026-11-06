@@ -1,0 +1,81 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "chunk-v2-n-sastho-k8-11",
+ "work": "ipvv",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v28 ratio=0.302",
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "1b5e772945a31011",
+ "source_verses": 1,
+ "t1_verses": 1,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 695
+ },
+ "align": {
+  "min_ratio": 0.302,
+  "sub090": {
+   "28": {
+    "ratio": 0.302,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 7,
+ "c1_words": 32,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 11,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "argmap[chunk-v2-n-sastho-k8-11-v28].traces: l0_id chunk-v2-n-sastho-k8-11-v28-p695 does not exist",
+   "l2[chunk-v2-n-sastho-k8-11-v28]: l0_id chunk-v2-n-sastho-k8-11-v28-p695 does not exist"
+  ],
+  "counts": {
+   "t1": 1,
+   "l0": 695,
+   "argmap": 1,
+   "l2": 1,
+   "l3": 0,
+   "l4": 0,
+   "essence": 3,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v28"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "5e5ce939a23be3acf76d3f2fde6cc4cc712bffdcbd62c8ef7d748af28ee930ad",
+  "l0": "e045f2e93eb641e9dbc3d48eab02c5c6eafe212596db071ada1966151a96c0be",
+  "argmap": "9f0a5d6aabd5343b5d8de12812bc9e30b97c87bc3c90aeedc098e893184251c9",
+  "l2": "45bae0026a64e35347d7c04431a5c19dad0e1199d6cf58c1412daedab6b5dc61",
+  "c1": "5b01bfa85734eae5104483015ff0eadfec015199c6ef2be8d2383e72b42bcfa2"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "1b5e772945a31011",
+  "t1": "data/chunk-v2-n-sastho-k8-11.t1.json",
+  "l0": "data/chunk-v2-n-sastho-k8-11.l0.json",
+  "l2": "data/chunk-v2-n-sastho-k8-11.l2.json",
+  "c1": "data/chunk-v2-n-sastho-k8-11.c1.json"
+ }
+}

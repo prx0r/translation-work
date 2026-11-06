@@ -1,7 +1,7 @@
 {
   "canonical": "translation-work/DATATYPES.json",
-  "version": "1.3.0",
-  "date": "2026-11-03",
+  "version": "1.4.0",
+  "date": "2026-11-06",
   "note": "Every datatype in the Sanskrit-to-site pipeline: what each transformation of the Sanskrit is FOR, its exact shape, who produces it, what validates it, and the gate rule. A new artifact adheres to the standard iff it validates under its validator AND honors its gate rule. Executable companion: tools/validate_site.py; meta-check in check.py (contract step).",
   "transforms": [
     {
@@ -166,7 +166,7 @@
         ]
       },
       "producer": "translator (standard); skills (renders)",
-      "validator": "schemas/c1.py: essence non-empty; standard has 7 sections; non-standard keys rejected (moved to C2)",
+      "validator": "schemas/c1.py: essence non-empty; standard has 7 sections (essence_only:true for shastra-minimal skips the essay, SHASTRA-MINIMAL.md); non-standard keys rejected (moved to C2)",
       "gate_rule": "Standard essay preserved verbatim. No style variants here.",
       "consumers": [
         "site read view (standard essay)",

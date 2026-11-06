@@ -12,7 +12,7 @@ from pathlib import Path
 from . import LAYER_ORDER, SCHEMA_VERSION
 
 SONG_LAYERS = frozenset({"c1", "c2"})
-STRUCTURAL_SCHEMA_VERSION = "2.0.0"
+STRUCTURAL_SCHEMA_VERSION = "2.1.0"
 
 TEXT = {"type": "string", "minLength": 1}
 TEXTS = {"type": "array", "items": TEXT, "minItems": 1}

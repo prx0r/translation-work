@@ -7,7 +7,7 @@ and require re-validation of all data/*.json.
 """
 from __future__ import annotations
 
-SCHEMA_VERSION = "1.3.0"
+SCHEMA_VERSION = "1.4.0"
 
 LAYER_ORDER = ["t1", "l0", "argmap", "l2", "c1", "l3", "l4", "c2"]
 

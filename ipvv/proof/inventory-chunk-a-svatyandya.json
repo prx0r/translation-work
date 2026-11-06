@@ -1,0 +1,24 @@
+{
+ "tool": "inventory-proof v1 2026-11-06",
+ "chunk_id": "chunkA-svatyandya",
+ "song": "chunk-a-svatyandya",
+ "verse": 1,
+ "verse_id": "chunk-a-svatyandya-v1",
+ "vol": "M00020",
+ "checks": {
+  "bundle": true,
+  "passages_entry": true,
+  "vol_verbatim": true,
+  "t1_doc": true,
+  "l0_report": false,
+  "l0_rows": true,
+  "pilot_argmap": true,
+  "pilot_l2": true,
+  "l2_data": true
+ },
+ "missing": [
+  "L0 report (vol1 set missing)"
+ ],
+ "gate": "INVENTORY",
+ "note": "Presence+verbatim receipt from existing artifacts; NOT a gold PASS (contract layers + proof-shastra pending, SHASTRA-MINIMAL.md)."
+}

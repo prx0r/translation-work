@@ -114,6 +114,10 @@ def main() -> int:
     ap.add_argument("--song", required=True, help="e.g. s01")
     ap.add_argument("--work", default="sivastotravali")
     ap.add_argument("--disp", default=None, help="JSON {song: {verse: note}} for sub-0.90 dispositions")
+    ap.add_argument("--shastra", action="store_true",
+                    help="shastra-chunk mode (SHASTRA-MINIMAL.md): workcfg chunk spans, "
+                         "contract data/*.json layers instead of T1-*.md/C1-*.md/L2-*.md, "
+                         "C1-essence instead of 7-part essay. No L3/L4/C2 required.")
     root = Path(__file__).resolve().parent.parent
     default_source = root.parent / "ipvv/site/data/sanskrit/sivastotravali-u.txt"
     ap.add_argument("--gretil", default=str(default_source))
@@ -138,13 +142,27 @@ def main() -> int:
         src = load_gretil_song(gretil, n)
 
     rec: dict = {"tool": TOOL_VERSION, "song": song, "work": args.work,
-                 "date": "2026-11-01", "blocking": [], "warnings": []}
+                  "date": "2026-11-01", "blocking": [], "warnings": []}
+    if args.shastra:
+        rec["mode"] = "shastra"
     block = rec["blocking"]
 
     rec["source_sha"] = sha(" ".join(" ".join(t) for v, t in sorted(src.items())))
     rec["source_verses"] = len(src)
 
-    t1 = parse_t1(w / f"T1-{song}.md")
+    if args.shastra:
+        # Contract T1 rows (data/<song>.t1.json); one row per chunk verse.
+        t1path = w / "data" / f"{song}.t1.json"
+        if not t1path.exists():
+            block.append("T1_JSON_MISSING")
+            t1 = {}
+        else:
+            t1objs = json.loads(t1path.read_text(encoding="utf-8"))
+            t1 = {}
+            for o in t1objs:
+                t1[o.get("verse", 0)] = [t.get("surface", "") for t in o.get("tokens", [])]
+    else:
+        t1 = parse_t1(w / f"T1-{song}.md")
     rec["t1_verses"] = len(t1)
     if len(t1) != len(src):
         block.append(f"VERSE_COUNT t1={len(t1)} source={len(src)}")
@@ -152,17 +170,35 @@ def main() -> int:
     if missing:
         block.append(f"MISSING_VERSES {missing}")
 
-    # B1: L0 report
-    rep = (w / f"T1-{song}.l0.report.txt").read_text(encoding="utf-8")
-    mp = re.search(r"PARSED:\s*(\d+).*AMBIGUOUS:\s*(\d+).*FAILED:\s*(\d+)", rep, re.S)
-    mt = re.search(r"tokens:\s*(\d+)", rep)
-    l0 = {"parsed": int(mp.group(1)), "ambiguous": int(mp.group(2)),
-          "failed": int(mp.group(3)), "tokens": int(mt.group(1))} if mp and mt else {}
-    rec["l0"] = l0
-    if not (w / f"T1-{song}.l0.jsonl").exists():
-        block.append("L0_JSONL_MISSING")
-    if l0.get("failed", 1) != 0 or l0.get("parsed") != l0.get("tokens"):
-        block.append(f"L0_PARSE {l0}")
+    # B1: L0 report (classic) or contract L0 JSON (shastra)
+    if args.shastra:
+        l0path = w / "data" / f"{song}.l0.json"
+        if not l0path.exists():
+            block.append("L0_JSON_MISSING")
+            l0 = {"parsed": 0, "ambiguous": 0, "failed": 0, "tokens": 0}
+        else:
+            l0objs = json.loads(l0path.read_text(encoding="utf-8"))
+            st = {"parsed": 0, "ambiguous": 0, "failed": 0}
+            for o in l0objs:
+                s = o.get("status", "")
+                if s in st:
+                    st[s] += 1
+            l0 = {"parsed": st["parsed"], "ambiguous": st["ambiguous"],
+                  "failed": st["failed"], "tokens": len(l0objs)}
+        rec["l0"] = l0
+        if l0.get("failed", 1) != 0:
+            block.append(f"L0_PARSE {l0}")
+    else:
+        rep = (w / f"T1-{song}.l0.report.txt").read_text(encoding="utf-8")
+        mp = re.search(r"PARSED:\s*(\d+).*AMBIGUOUS:\s*(\d+).*FAILED:\s*(\d+)", rep, re.S)
+        mt = re.search(r"tokens:\s*(\d+)", rep)
+        l0 = {"parsed": int(mp.group(1)), "ambiguous": int(mp.group(2)),
+              "failed": int(mp.group(3)), "tokens": int(mt.group(1))} if mp and mt else {}
+        rec["l0"] = l0
+        if not (w / f"T1-{song}.l0.jsonl").exists():
+            block.append("L0_JSONL_MISSING")
+        if l0.get("failed", 1) != 0 or l0.get("parsed") != l0.get("tokens"):
+            block.append(f"L0_PARSE {l0}")
 
     # B3: concat-align per verse
     disp = {}
@@ -180,9 +216,25 @@ def main() -> int:
                 block.append(f"ALIGN_NODISP v{v} ratio={r:.3f}")
     rec["align"] = {"min_ratio": min(align.values()) if align else 0, "sub090": sub090}
 
-    # B4/B5/B6: C1 vs L2
-    c1 = (w / "c1" / f"C1-{song}.md").read_text(encoding="utf-8")
-    l2 = (w / f"L2-{song}.md").read_text(encoding="utf-8")
+    # B4/B5/B6: C1 vs L2 (classic: C1-*.md/L2-*.md; shastra: data JSON essence/plain_english)
+    if args.shastra:
+        c1path = w / "data" / f"{song}.c1.json"
+        l2path = w / "data" / f"{song}.l2.json"
+        if not c1path.exists():
+            block.append("C1_JSON_MISSING")
+            c1 = ""
+        else:
+            c1obj = json.loads(c1path.read_text(encoding="utf-8"))
+            c1 = " ".join(c1obj.get("essence", []))
+        if not l2path.exists():
+            block.append("L2_JSON_MISSING")
+            l2 = ""
+        else:
+            l2 = " ".join(o.get("plain_english", "") for o in
+                          json.loads(l2path.read_text(encoding="utf-8")))
+    else:
+        c1 = (w / "c1" / f"C1-{song}.md").read_text(encoding="utf-8")
+        l2 = (w / f"L2-{song}.md").read_text(encoding="utf-8")
     shared = shared_long(sentences(c1), sentences(l2))
     rec["c1_l2_shared"] = shared
     if shared:
@@ -208,42 +260,55 @@ def main() -> int:
     if metas:
         rec["warnings"].append(f"METACOMMENTARY {metas}")
 
-    # B7: L2 Sanskrit cites byte-exact
-    cites = re.findall(r"The Sanskrit: \*(.+?)\*", l2)
-    src_flat = norm_ws(" ".join(" ".join(t) for v, t in sorted(src.items())))
-    fails = [c for c in cites if norm_ws(c) not in src_flat and
-             norm_ws(c).replace(" | ", " ") not in src_flat.replace(" | ", " ")]
-    # cites use | as pāda separator; source verses are separate — check per-cite against joined verse pairs
-    real_fails = []
-    verses_text = {v: norm_ws(" ".join(t)) for v, t in src.items()}
-    for c in cites:
-        parts = [norm_ws(p) for p in c.split("|")]
-        ok = any(all(norm_ws(p).replace(" ", "") in verses_text[v].replace(" ", "")
-                     for p in parts if p) for v in verses_text)
-        if not ok:
-            real_fails.append(c[:80])
+    # B7: L2 Sanskrit cites byte-exact (classic: verse-pair `|` cites in MD;
+    # shastra: chunk-slice cites from data JSON, must occur in the chunk span)
+    if args.shastra:
+        l2path = w / "data" / f"{song}.l2.json"
+        cites = []
+        if l2path.exists():
+            for o in json.loads(l2path.read_text(encoding="utf-8")):
+                cites += [p.strip() for p in str(o.get("sanskrit_cite", "")).split("|") if p.strip()]
+        src_flat = norm_ws(" ".join(" ".join(t) for v, t in sorted(src.items())))
+        fails = [c for c in cites if norm_ws(c) not in src_flat]
+        real_fails = [c[:80] for c in fails]
+        verses_text = {}
+    else:
+        cites = re.findall(r"The Sanskrit: \*(.+?)\*", l2)
+        src_flat = norm_ws(" ".join(" ".join(t) for v, t in sorted(src.items())))
+        fails = [c for c in cites if norm_ws(c) not in src_flat and
+                 norm_ws(c).replace(" | ", " ") not in src_flat.replace(" | ", " ")]
+        # cites use | as pāda separator; source verses are separate — check per-cite against joined verse pairs
+        real_fails = []
+        verses_text = {v: norm_ws(" ".join(t)) for v, t in sorted(src.items())}
+        for c in cites:
+            parts = [norm_ws(p) for p in c.split("|")]
+            ok = any(all(norm_ws(p).replace(" ", "") in verses_text[v].replace(" ", "")
+                         for p in parts if p) for v in verses_text)
+            if not ok:
+                real_fails.append(c[:80])
     rec["l2_cites"] = {"checked": len(cites), "failures": real_fails}
     if real_fails:
         block.append(f"L2_CITE_FAIL {len(real_fails)}")
 
-    # W3: ledger presence (from T1 header *Ledger: ...*  X=Y pairs split by ·)
-    m = re.search(r"\*Ledger: (.*?)\*", (w / f"T1-{song}.md").read_text(encoding="utf-8"))
+    # W3: ledger presence (classic only: T1 header *Ledger: ...*; shastra T1 has no header ledger)
     led = {"pairs": 0, "gloss_missing_in_l2": []}
-    l2n = l2.lower().replace("-", " ")
-    c1n = c1.lower().replace("-", " ")
-    if m:
-        for frag in re.split(r"[·;]", m.group(1)):
-            if "=" not in frag:
-                continue
-            x, y = [s.strip() for s in frag.split("=", 1)]
-            if not x or " " in x or "." in x:
-                continue  # prose trailer, not a term pair
-            y = re.split(r"[.;(]", y)[0].strip().replace("-", " ").replace("/", " ")
-            if not y:
-                continue
-            led["pairs"] += 1
-            if y.lower() not in l2n and y.lower() not in c1n:
-                led["gloss_missing_in_l2"].append(frag.strip()[:60])
+    if not args.shastra:
+        m = re.search(r"\*Ledger: (.*?)\*", (w / f"T1-{song}.md").read_text(encoding="utf-8"))
+        l2n = l2.lower().replace("-", " ")
+        c1n = c1.lower().replace("-", " ")
+        if m:
+            for frag in re.split(r"[·;]", m.group(1)):
+                if "=" not in frag:
+                    continue
+                x, y = [s.strip() for s in frag.split("=", 1)]
+                if not x or " " in x or "." in x:
+                    continue  # prose trailer, not a term pair
+                y = re.split(r"[.;(]", y)[0].strip().replace("-", " ").replace("/", " ")
+                if not y:
+                    continue
+                led["pairs"] += 1
+                if y.lower() not in l2n and y.lower() not in c1n:
+                    led["gloss_missing_in_l2"].append(frag.strip()[:60])
     rec["ledger"] = led
     if led["gloss_missing_in_l2"]:
         rec["warnings"].append(f"LEDGER_GLOSS_MISSING {led['gloss_missing_in_l2']}")
@@ -275,6 +340,9 @@ def main() -> int:
             needs.append("fix: re-extract or repair L0")
         elif b.startswith(("C1_", "L2_")):
             needs.append("fix: layer gate " + b.split()[0])
+        elif b.startswith(("T1_JSON_MISSING", "L0_JSON_MISSING", "C1_JSON_MISSING",
+                            "L2_JSON_MISSING")):
+            needs.append("fix: convert layer to contract data JSON (" + b.split()[0] + ")")
         elif b.startswith("DATA_OBJECTS"):
             needs.append("fix: schema/cross-layer errors")
     if not block:
@@ -289,9 +357,14 @@ def main() -> int:
             encoded = json.dumps(value, sort_keys=True, separators=(",", ":"),
                                  ensure_ascii=False).encode("utf-8")
             rec["layer_sha256"][layer] = hashlib.sha256(encoded).hexdigest()
-    rec["lineage"] = {"tool": TOOL_VERSION, "source_sha": rec["source_sha"],
-                      "t1": f"T1-{song}.md", "l0": f"T1-{song}.l0.jsonl",
-                      "l2": f"L2-{song}.md", "c1": f"c1/C1-{song}.md"}
+    if args.shastra:
+        rec["lineage"] = {"tool": TOOL_VERSION, "source_sha": rec["source_sha"],
+                          "t1": f"data/{song}.t1.json", "l0": f"data/{song}.l0.json",
+                          "l2": f"data/{song}.l2.json", "c1": f"data/{song}.c1.json"}
+    else:
+        rec["lineage"] = {"tool": TOOL_VERSION, "source_sha": rec["source_sha"],
+                          "t1": f"T1-{song}.md", "l0": f"T1-{song}.l0.jsonl",
+                          "l2": f"L2-{song}.md", "c1": f"c1/C1-{song}.md"}
     outdir = w / "proof"
     outdir.mkdir(exist_ok=True)
     (outdir / f"proof-{song}.json").write_text(json.dumps(rec, indent=1, ensure_ascii=False))

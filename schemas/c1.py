@@ -23,6 +23,19 @@ def validate(obj: dict, path: str = "c1") -> list[str]:
     if not obj.get("essence"):
         out.append(err(path, "empty essence (renders must render SOMETHING)"))
     renders = obj.get("renders", {})
+    if obj.get("essence_only") is True:
+        # SHASTRA-MINIMAL (spec): essence-only C1 — no 7-part essay.
+        # renders may be {}; standard-sections check skipped. All prose bars
+        # (quotes/metacommentary/shared, enforced by proof + validators on
+        # essence text) still apply; essence non-empty still required above.
+        if not isinstance(renders, dict):
+            out.append(err(path, "renders must be an object (may be empty when essence_only)"))
+            return out
+        for name in renders:
+            if name != "standard":
+                out.append(err(f"{path}.renders.{name}",
+                               "non-standard renders live in C2 now (data/<song>.c2.json) — moved, not duplicated"))
+        return out
     if not isinstance(renders, dict) or "standard" not in renders:
         out.append(err(path, "renders.standard missing (existing 7-part essay is preserved)"))
         return out
