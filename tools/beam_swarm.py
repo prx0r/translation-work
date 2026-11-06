@@ -116,21 +116,47 @@ class TalCm(BaseModel):
 
 # ---------- queue ----------
 
-def load_q() -> list[dict]:
-    for _ in range(20):
+_Q_LOCK = str(QFILE) + '.lock'
+
+def _locked():
+    """Cross-process exclusive lock for read-modify-write of queue.json."""
+    import contextlib, fcntl
+    @contextlib.contextmanager
+    def cm():
+        STATE.mkdir(parents=True, exist_ok=True)
+        fh = open(_Q_LOCK, 'a+')
         try:
-            if not QFILE.exists():
-                return []
-            return json.loads(QFILE.read_text())
+            fcntl.flock(fh, fcntl.LOCK_EX)
+            yield
+        finally:
+            fcntl.flock(fh, fcntl.LOCK_UN)
+            fh.close()
+    return cm()
+
+def load_q() -> list[dict]:
+    for _ in range(3):
+        if not QFILE.exists():
+            return []
+        raw = QFILE.read_text()
+        try:
+            return json.loads(raw)
         except json.JSONDecodeError:
-            time.sleep(0.25)  # writer mid-replace; retry
-    return json.loads(QFILE.read_text())
+            # tolerate a torn tail left by a crashed writer: keep first doc
+            try:
+                obj, _end = json.JSONDecoder().raw_decode(raw)
+                return obj
+            except json.JSONDecodeError:
+                time.sleep(0.2)
+    raise RuntimeError('queue.json unreadable — repair needed')
 
 def save_q(tasks: list[dict]) -> None:
     STATE.mkdir(parents=True, exist_ok=True)
-    tmp = QFILE.with_suffix('.tmp')
-    tmp.write_text(json.dumps(tasks, indent=1))
-    os.replace(tmp, QFILE)  # atomic: readers never see partial JSON
+    # unique temp per writer: os.replace is atomic, but a SHARED temp path
+    # lets two writers interleave into the same file (corruption 2026-11-06)
+    tmp = QFILE.with_name(f'{QFILE.name}.{os.getpid()}.{time.time_ns()}.tmp')
+    with open(tmp, 'w') as f:
+        f.write(json.dumps(tasks, indent=1))
+    os.replace(tmp, QFILE)
 
 STALE_CLAIM_SECS = 15 * 60  # a claim older than this is dead; steal it
 
@@ -149,6 +175,7 @@ def claimable(t: dict) -> bool:
     return False
 
 def claim(tasks: list[dict], worker: str) -> dict | None:
+    tasks = load_q()  # re-read under lock below
     for t in tasks:
         if claimable(t):
             flag = STATE / 'claims' / (t['id'] + '.json')
@@ -173,11 +200,24 @@ def claim(tasks: list[dict], worker: str) -> dict | None:
             t['worker'] = worker
             t['attempts'] += 1
             t['updated'] = datetime.datetime.now().isoformat(timespec='seconds')
-            save_q(tasks)
+            with _locked():
+                cur = {x['id']: x for x in load_q()}
+                if t['id'] in cur:  # merge onto freshest state
+                    cur[t['id']].update({'status': 'claimed', 'worker': worker,
+                                         'attempts': cur[t['id']].get('attempts', 0) + 1,
+                                         'updated': t['updated']})
+                    save_q(list(cur.values()))
+                else:
+                    save_q(tasks)
             return t
     return None
 
 def mark(tasks: list[dict], tid: str, status: str, note: str = '') -> None:
+    with _locked():
+        tasks = load_q()
+        _mark_unlocked(tasks, tid, status, note)
+
+def _mark_unlocked(tasks: list[dict], tid: str, status: str, note: str = '') -> None:
     for t in tasks:
         if t['id'] == tid:
             t['status'] = status
