@@ -538,7 +538,8 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
               '"rows":[{"surface":"(exact)","gloss":"...","grounds":"...","morph":"..."}],'
               '"question":"...","premises":["..."],"inference":"...",'
               '"uncertainties":["..."],"plain_english":"..."}]}')
-    text = beam(TAL_TRIPLE_SYS, user, session=f'tal-triple-{song}', max_tokens=131072)
+    wk = os.environ.get('BEAM_WORKER', 'w0')
+    text = beam(TAL_TRIPLE_SYS, user, session=f'tal-triple-{song}-{wk}', max_tokens=131072)
     a, b = text.find('{'), text.rfind('}')
     if a < 0 or b < a:
         if len(verses) > 1:  # likely hit the output ceiling: halve the group
@@ -751,6 +752,7 @@ def run_tal_brief(t: dict) -> tuple[bool, str]:
     return True, f'{len(brief.items)} spans'
 
 def worker_loop(name: str) -> int:
+    os.environ['BEAM_WORKER'] = name
     from beam_client import chat  # noqa: F401  (fail fast if key missing)
     import beam_client as _b
     _b._key()
