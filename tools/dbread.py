@@ -148,7 +148,7 @@ def cmd_coverage(tw: str):
 
 
 def cmd_ids(tw: str):
-    """Provenance triple for bundle-time stamping (BACKBONE §5.3)."""
+    """Provenance triple for bundle stamping (BACKBONE §5.3)."""
     wid = tw_to_db(tw)
     c = con()
     cur = c.cursor()
@@ -172,6 +172,42 @@ def cmd_ids(tw: str):
     return 0 if w else 1
 
 
+def cmd_assets(tw: str):
+    """Federation status for a work: DB identity + local translation coverage
+    + svread map entry (if a checkout is visible) + asset slots (per
+    REGISTRY-FEDERATION.md; TBD until lane owners fill them). Read-only."""
+    wid = tw_to_db(tw)
+    c = con()
+    cur = c.cursor()
+    cur.execute("SELECT id FROM works WHERE id = %s", (wid,))
+    w = cur.fetchone()
+    cur.execute("SELECT count(*) FROM passages WHERE work_id = %s", (wid,))
+    npass = cur.fetchone()[0] if w else 0
+    c.close()
+    have = local_songs(tw)
+    svmap = None
+    for cand in (os.environ.get('SVREAD_MAP', ''),
+                 '/root/svread/source-map.json',
+                 str(ROOT.parent / 'svread' / 'source-map.json')):
+        if cand and pathlib.Path(cand).exists():
+            try:
+                ent = json.load(open(cand)).get('works', {}).get(tw)
+                svmap = {'path': cand, 'entry': ent}
+            except Exception:  # noqa: BLE001
+                svmap = {'path': cand, 'entry': 'UNREADABLE'}
+            break
+    print(json.dumps({
+        'work': tw, 'db_work': wid,
+        'identity': bool(w),
+        'db_passages': npass if w else 0,
+        'local_songs': len(have),
+        'svread_map': svmap or 'no checkout visible (SVREAD_MAP unset)',
+        'assets': {'books': [], 'videos': [], 'social': [],
+                   'note': 'TBD by lane owners per REGISTRY-FEDERATION.md; missing = draft-only'},
+    }, indent=1))
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest='c', required=True)
@@ -185,6 +221,8 @@ def main() -> int:
     c.add_argument('work')
     i = sub.add_parser('ids');
     i.add_argument('work')
+    u = sub.add_parser('assets');
+    u.add_argument('work')
     a = ap.parse_args()
     sys.path.insert(0, str(ROOT / 'tools'))
     if a.c == 'works':
@@ -197,6 +235,8 @@ def main() -> int:
         return cmd_coverage(a.work)
     elif a.c == 'ids':
         return cmd_ids(a.work)
+    elif a.c == 'assets':
+        return cmd_assets(a.work)
     return 0
 
 
