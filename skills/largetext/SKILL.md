@@ -76,6 +76,13 @@ Bounce notes must be actionable (span format, missing verses, flabby
 question, paraphrase-not-argument). Max 3 attempts, then escalate to
 assessor hand-draft. Failed tasks keep their notes as history.
 
+**Size routing (argmaps, benchmarked 2026-11-06):** beam drafts earn their
+keep on LONG passages (V3B, 5862 tokens: 19 premises, faithful coverage the
+assessor compresses to ~8 — the draft is a guided tour worth more than the
+read time). On SHORT verses (tsa-a02-v01, 4 tokens) the assessor writes
+directly — reviewing costs more than drafting. Rule of thumb: <1k tokens of
+source, write it; >1k, beam drafts first, assessor redacts. Never the reverse.
+
 ## 4. Calibration (prove the tool before scaling it)
 
 Before scaling ANY new task kind, benchmark beam against gold:
@@ -244,7 +251,7 @@ content-addressed, singly-gated, and consumable by the Lean formal lane:
   thing. Fixed (`is_paratext` filter), all flipped to PASS. When a gate
   fails on clean data, interrogate the gate before the data.
 
-## 10. Porting the loop to factories (video / books / socials)
+## 11. Porting the loop to factories (video / books / socials)
 
 The pattern is lane-agnostic; the gates are lane-specific. Full contract:
 `REGISTRY-FEDERATION.md`. Rules for porting:
@@ -265,7 +272,7 @@ The pattern is lane-agnostic; the gates are lane-specific. Full contract:
 5. Asset identity is `openpatala_work_id` everywhere (`dbread ids` resolves
    it). Missing/UNRESOLVED/TBD = draft-only, in every lane, no exceptions.
 
-## 11. Approved trika-x references (read-only, never authority)
+## 12. Approved trika-x references (read-only, never authority)
 
 trika-x is another lane's repo — translation-work READS, never writes. Two
 artifacts are cleared for use as *pointers*, never as grounds:
