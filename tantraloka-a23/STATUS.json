@@ -1,17 +1,26 @@
 {
  "work": "tantraloka-a23",
- "updated": "2026-10-31",
- "next": "batch (tantraloka-a23 done)",
+ "updated": "2026-11-06",
+ "next": "minimal gold complete (T1/L0/argmap/L2/C1-essence, proof PASS align 1.0); L3/L4 waived by owner; human review pending",
  "counts": {
   "passages": 11,
-  "verses": 103
+  "verses": 103,
+  "l0_rows": 810,
+  "l0_parsed": 810,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "argmaps": 103,
+  "l2_verses": 103,
+  "essence_lines": 5,
+  "proof": "PASS"
  },
  "r2_key": "s3://sanskritree/batch-t1/2026-10-31-tantraloka-a23-raw.jsonl",
  "r2_bytes": 53932,
  "r2_verified": true,
  "needs": [
-  "abstention-review",
-  "citation-grounding"
+  "human-review",
+  "first-verse L4 verdict (waived)",
+  "citation-grounding (legacy GATE)"
  ],
- "notes": "11 passages, L200+C1 done, gate BLOCKED (heuristic)"
+ "notes": "Built via largetext swarm: T1 parse (tal_t1_parse), beam gloss (103), beam CM (103), build_l0, beam argmap+L2 (99) + assessor (4). proof_record --shastra PASS, min_ratio 1.0, cites 103/103. Minimal stack per owner."
 }
