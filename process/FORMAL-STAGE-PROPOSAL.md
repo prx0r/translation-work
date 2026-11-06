@@ -54,6 +54,10 @@ saves, kill the stage — recorded, no hard feelings.
 
 ## Reuse pointers (reference, don't fork)
 
+- `trika-x/skills/swarm-formal/SKILL.md` — the swarm method this proposal
+  ports (cast, transmission packets with traps, task kinds, calibration
+  rule, numbered failure log). First customer is this stage.
+
 - `trika-x/formal-trika/tools/must_fail.py` — twin gate (copy it).
 - `trika-x/formal-trika/tools/table.py` discipline — hand readings, machine
   staleness (pattern, not code).
