@@ -28,6 +28,27 @@ start_driver(){
   fi
 }
 
+reap_stale_claims(){
+  python3 - <<'PY' 2>/dev/null
+import json, os, time, glob
+p='process/beam/queue.json'
+q=json.load(open(p)); n=0
+now=time.time()
+for t in q:
+    if t.get('status')!='claimed': continue
+    f=f"process/beam/claims/{t['id']}.json"
+    try: age=now-os.path.getmtime(f)
+    except OSError: age=9999
+    if age > 420:   # 7 min: owner dead
+        t['status']='pending'; t['attempts']=min(t.get('attempts',0),2); n+=1
+        try: os.unlink(f)
+        except OSError: pass
+if n:
+    json.dump(q,open(p,'w'),indent=1)
+    print(f"reaped {n} stale claims")
+PY
+}
+
 # stalled = tasks claimed but no worker log growth for STALL_MINS
 check_stall(){
   local newest
@@ -72,6 +93,7 @@ log "watchdog start (workers=$WORKERS stall=${STALL_MINS}m pid=$$)"
 while true; do
   start_driver
   start_workers
+  reap_stale_claims
   check_stall
   rotate_logs
   # progress snapshot
