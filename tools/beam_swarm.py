@@ -423,7 +423,15 @@ def run_tal_cm(t: dict) -> tuple[bool, str]:
     work, song, verse = t['args']['work'], t['args']['song'], int(t['args']['verse'])
     wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
     entry = next(e for e in wt if e['verse'] == verse)
-    pairs = [(x['surface'], x['quick_gloss']) for x in entry['tokens']]
+    pairs = [(x['surface'], x.get('quick_gloss', '')) for x in entry['tokens']]
+    if any(not g for _, g in pairs):
+        # gloss results may live only in runs/ until the assemble stage
+        gf = ROOT / 'process' / 'beam' / 'runs' / f"{song}-gloss-v{verse:02d}" / 'gloss.json'
+        try:
+            got = {r['surface']: r['gloss'] for r in json.loads(gf.read_text())['rows']}
+            pairs = [(s_, got.get(s_, g_)) for s_, g_ in pairs]
+        except (OSError, ValueError, KeyError):
+            pass
     if any(not g for _, g in pairs):
         return False, 'glosses missing — run tal_gloss first'
     user = ('Verse tokens (surface = gloss):\n'

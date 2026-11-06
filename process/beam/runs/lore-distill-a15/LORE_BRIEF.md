@@ -1,0 +1,21 @@
+# TRANSMISSION BRIEF — Tantraloka ahnika 15: Dīkṣā-sāmayī (ordinary initiation, ritual complex, phonematics)
+
+*Machine-distilled from search excerpts; ASSESSOR MUST REVIEW before use as packet lore.*
+
+## Moves
+1. Treats samaya initiation as the ordinary initiation within TĀ's ritual/initiation block (ch.14–37), after the worldview block (ch.1–13).
+2. Sits in a numbered sequence of initiation/ritual topics: ch.15 samaya, ch.16 putraka, ch.17 apprentice procedures, ch.18 sūkṣmā, ch.19 utkrānti, ch.20 tulā, ch.21 parokṣa, ch.22 liṅgoddhāra, ch.23 abhiṣeka, ch.24 antyeṣṭi, ch.25 śrāddha, ch.26 remaining observances, ch.27 liṅga worship, ch.28 parvan, ch.29 Kula ritual, ch.30 mantraugha, ch.31 maṇḍala, ch.32 mudrā.
+3. The excerpt signals a large ritual complex and phonematic concerns, but does not supply verse-level content or detailed procedure.
+
+## Traps
+- Do not conflate samaya initiation with putraka, sūkṣmā, parokṣa, or other nearby initiation types in ch.16–21.
+- Do not confuse liṅgoddhāra (ch.22) with liṅga worship (ch.27), or parokṣa (ch.21) with parvan (ch.28).
+- Do not treat Lakshmanjoo's oral teaching as a citable source; it is only a horizon.
+- Do not overstate scholarship coverage: Dyczkowski, Gnoli, Dupuche, Silburn/Padoux, Sanderson, and Rastogi are pointers, not verse-level evidence in the supplied excerpt.
+- Mark gaps where the excerpt lacks text, translation, or ritual detail; do not invent citations or procedures.
+
+## Approach
+- Scope strictly to ahnika 15 and its stated themes; keep adjacent chapters as context, not content.
+- Distinguish ordinary samaya initiation from the broader initiation/ritual sequence and from Kula ritual (ch.29).
+- Use scholarship as orientation only; verify any claim against TĀ with Jayaratha's Viveka or a reliable edition before asserting it.
+- Preserve uncertainty: note missing verse ranges, procedural steps, and phonematic specifics rather than filling them in.

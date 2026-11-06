@@ -1,0 +1,22 @@
+# TRANSMISSION BRIEF — Tantraloka ahnika 29: Rahasyacaryā: secret Kula ritual, mantra-vyāpti, SAUḤ
+
+*Machine-distilled from search excerpts; ASSESSOR MUST REVIEW before use as packet lore.*
+
+## Moves
+1. Places ahnika 29 within the ritual/initiation block (ch.14–37), after parvan (ch.28) and before mantraugha (ch.30).
+2. Treats the secret Kula ritual (Rahasyacaryā).
+3. Includes mantra-vyāpti and SAUḤ as named components of the ahnika.
+4. Dupuche’s The Kula Ritual is the supplied scholarly anchor for ch.29.
+
+## Traps
+- Do not conflate Rahasyacaryā with the adjacent parvan material of ch.28.
+- Do not conflate mantra-vyāpti in ch.29 with mantraugha in ch.30.
+- Do not treat SAUḤ as interchangeable with other seed syllables or bījas not specified in the excerpts.
+- Do not extend Dupuche’s ch.29 study into claims about the whole Tantrāloka.
+- No print issues or textual variants are supplied; mark that gap rather than inventing one.
+
+## Approach
+- Keep scope strictly to ahnika 29 and its supplied headings.
+- Use Dupuche only as the ch.29 anchor, not as authority for unrelated chapters.
+- Distinguish secret Kula ritual from nearby ritual topics such as parvan and mantraugha.
+- Mark gaps where excerpts are thin; do not invent citations, variants, or doctrinal details.
