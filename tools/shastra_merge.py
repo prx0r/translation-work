@@ -23,12 +23,23 @@ from workcfg import source_spans
 
 
 def is_paratext(t: str) -> bool:
-    return (t in ('|', '||', '|]', '(page', '(saṃṣi.', 'END', 'OF', 'FILE') or re.fullmatch(r'#+', t)
-            or re.fullmatch(r'\([a-z]+\.', t) or re.fullmatch(r'\(page \d+\)', t)
-            or re.fullmatch(r'\(\d+\)?', t)
-            or re.fullmatch(r'\(\d+\|\d+\|\d+\)', t)
-            or re.fullmatch(r'[a-zā-īūṛḷṃḥṅñṭḍṇśṣ]{1,4}\.', t)
-            or re.fullmatch(r'\d+\)?', t))
+    """Editorial apparatus is never glossed (contract: paratext never enters T1/L0)."""
+    if '|' in t:
+        return True  # ASCII pipe never in Sanskrit: editorial refs (3|249), daṇda splits
+    if re.search(r'\([^)]*[?]', t):
+        return True  # editorial uncertainty: bādhe.....(?)
+    return bool(
+        t in ('|', '||', '|]', '(page', '(saṃṣi.', 'END', 'OF', 'FILE')
+        or re.fullmatch(r'#+', t)
+        or re.fullmatch(r'\([a-zā-īūṛḷṃḥṅñṭḍṇśṣ]+\.', t)
+        or re.fullmatch(r'\(page \d+\)', t)
+        or re.fullmatch(r'\(\d+\)?', t)
+        or re.fullmatch(r'\(\d+\|\d+\|\d+\)', t)
+        or re.fullmatch(r'\([^)]{1,24}\)', t)
+        or re.fullmatch(r'[a-zā-īūṛḷṃḥṅñṭḍṇśṣ]{1,4}\.', t)
+        or re.fullmatch(r'\d+\)?', t)
+    )
+
 
 
 def main() -> int:
@@ -53,12 +64,16 @@ def main() -> int:
     GROUNDS: dict = {}
     for mod in args.gtables.split(','):
         m = import_module(mod.strip())
-        for name in ('G', 'G1', 'G2', 'G3', 'G4', 'G5'):
-            if hasattr(m, name):
-                for i, gl, gr in getattr(m, name):
-                    G[i] = (gl, gr)
-        for name in ('STATUS', 'G_STATUS', 'G1_STATUS', 'G2_STATUS', 'G3_STATUS', 'G4_STATUS', 'G5_STATUS'):
-            STATUS.update(getattr(m, name, {}))
+        for name in dir(m):  # any G/G1..Gn/Gchar/Gauto table the module exposes
+            if name in ('G', 'Gchar', 'Gauto', 'Ghand') or re.fullmatch(r'G\d+', name):
+                val = getattr(m, name)
+                if isinstance(val, list):
+                    for e in val:
+                        G[e[0]] = (e[1], e[2] if len(e) > 2 else '')
+            if name == 'STATUS' or re.fullmatch(r'(G\d*_STATUS|G_STATUS)', name):
+                val = getattr(m, name)
+                if isinstance(val, dict):
+                    STATUS.update(val)
         GROUNDS.update(getattr(m, 'GROUNDS', {}))
         import re as _re
         for name in dir(m):
@@ -108,6 +123,8 @@ def main() -> int:
     # validate scaffold glosses
     for i, (t, o) in sc_by_idx.items():
         assert t['surface'] and t['quick_gloss'], (i, t)
+        if is_paratext(t['surface']):
+            continue  # dropped in the merge loop below; never glossed
         assert '(' not in t['surface'] and ')' not in t['surface'], (i, t)
     new_toks, new_l0, new_src_idx, skipped, still = [], [], [], [], []
     k = 0

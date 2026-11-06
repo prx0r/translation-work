@@ -109,6 +109,7 @@ def main():
     ap.add_argument('--verse', type=int, required=True)
     ap.add_argument('--v1', required=True)
     ap.add_argument('--work', default='ipvv')
+    ap.add_argument('--layers-only', action='store_true', help='skip T1/L0 build (data already filled by shastra_charfill+merge)')
     args = ap.parse_args()
     song = args.song
     verse = args.verse
@@ -116,13 +117,13 @@ def main():
     w = ROOT / work
     sp = source_spans(work)[verse]
     src_sha = sha(' '.join(sp))
-    # 1. T1+L0
-    run(['python3', 'tools/shastra_autogloss.py', '--song', song, '--verse', str(verse),
-         '--v1', args.v1, '--work', work, '--mod', song.replace('-', '_') + '_Gauto'])
-    # merge using the generated module
-    modname = song.replace('-', '_') + '_Gauto'
-    run(['python3', 'tools/shastra_merge.py', '--song', song, '--verse', str(verse),
-         '--v1', args.v1, '--gtables', modname, '--work', work])
+    # 1. T1+L0 (skipped with --layers-only: charfill+merge already ran)
+    if not args.layers_only:
+        run(['python3', 'tools/shastra_autogloss.py', '--song', song, '--verse', str(verse),
+             '--v1', args.v1, '--work', work, '--mod', song.replace('-', '_') + '_Gauto'])
+        modname = song.replace('-', '_') + '_Gauto'
+        run(['python3', 'tools/shastra_merge.py', '--song', song, '--verse', str(verse),
+             '--v1', args.v1, '--gtables', modname, '--work', work])
     # 2. argmap + L2 + C1
     chunk_id = chunk_id_of(song)
     label = pilot_label(chunk_id)

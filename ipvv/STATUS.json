@@ -1,7 +1,7 @@
 {
  "work": "ipvv",
  "updated": "2026-11-06",
- "next": "Audit A+B+C complete 2026-11-06: 3 PASS (chunkJ, V2-S, V3-P), chunkB at 444 tok (0.46, C1+L2 missing). 44 chunks remaining. Next: continue chunkB G5+ or pivot to a shorter chunk (V3-P-style) to keep throughput.",
+ "next": "shastra loop: 45 chunks remaining",
  "counts": {
   "passages": 49,
   "t1_files_root": 49,
@@ -13,7 +13,8 @@
   "shastra_pass": [
    "chunk-j-k1-11-kartapi-kalpita",
    "chunk-v2-s-astamo-close-jnanadhikara",
-   "chunk-v3-p-tattva-caturtho-close-k1-3"
+   "chunk-v3-p-tattva-caturtho-close-k1-3",
+   "chunk-v2-q-saptamo-k11-close"
   ]
  },
  "r2": {
@@ -45,5 +46,5 @@
    "bytes": 732838
   }
  },
- "notes": "SHASTRA-MINIMAL intake landed 2026-11-06: source/{edition.txt (2,041,720 B), segments.json (49), manifest.json (source-intake/1, sha db44b7ce)}; all 49 bundle slices byte-verbatim in M00020/21/22, 49/49 exact-sha cross-checked vs source/volumes/*.json; workcfg kind=segments resolves (49 songs, 177,954 tokens); song ids lowercase-normalized (chunk-song-map.json). Schemas 1.4.0 (C1 essence_only). R2 survey 2026-11-06: R2 == repo import, nothing newer; v1 tarball = vol1 T1-doc extractions (22,064 rows, staged /tmp/opencode/r2/v1); full 145 MB tarball pulled to /tmp (V2/V3 rows, convert-dont-trust). Imported from R2 2026-11-05; proofs intentionally NOT run (GATE = PROOF_NOT_RUN). Site translations/ipvv.json absent. Bundle chunk ids carry .md suffix — normalize to chunk_id (no suffix) everywhere."
+ "notes": "shastra PASS chunk-v2-q-saptamo-k11-close via state-machine loop; 4/49 PASS (chunkJ, V2-S, V3-P, V2-Q)"
 }
