@@ -1,0 +1,803 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "sahasrāraṃ",
+     "gloss": "thousand-petaled-lotus",
+     "grounds": "sahasra+āra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhaveccakraṃ",
+     "gloss": "would-be-wheel",
+     "grounds": "bhavet+cakraṃ",
+     "morph": "v.3sg.opt+ n.acc.sg"
+    },
+    {
+     "surface": "tābhyāmupari",
+     "gloss": "above-those-two",
+     "grounds": "tābhyām+upari",
+     "morph": "pron.abl.du+indecl."
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "placed",
+     "grounds": "saṃ+sthita",
+     "morph": "pp.n.acc.sg"
+    },
+    {
+     "surface": "tataścakrātsamudbhūtaṃ",
+     "gloss": "born-from-that-wheel",
+     "grounds": "tataḥ+cakrāt+samudbhūtaṃ",
+     "morph": "indecl.+n.abl.sg+pp.n.acc.sg"
+    },
+    {
+     "surface": "brahmāṇḍaṃ",
+     "gloss": "cosmic-egg",
+     "grounds": "brahma+aṇḍa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadudāhṛtam",
+     "gloss": "that-is-called",
+     "grounds": "tat+udāhṛtam",
+     "morph": "pron.n.acc.sg+pp.n.acc.sg"
+    }
+   ],
+   "question": "How is the cosmic egg related to the wheel above the two?",
+   "premises": [
+    "wheel stands above two",
+    "cosmic egg arises from wheel",
+    "that egg is named"
+   ],
+   "inference": "The cosmic egg originates from the wheel situated above the two principles.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The thousand-petaled wheel stands above those two, and from that wheel the cosmic egg arises, which is called that."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "tatrasthāṃ",
+     "gloss": "standing-there",
+     "grounds": "tatra+sthāṃ",
+     "morph": "indecl.+pp.f.acc.sg"
+    },
+    {
+     "surface": "muñcate",
+     "gloss": "releases",
+     "grounds": "muñc",
+     "morph": "v.3sg.act-pres+root muñc"
+    },
+    {
+     "surface": "dhārāṃ",
+     "gloss": "stream",
+     "grounds": "dhārā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "somo",
+     "gloss": "moon",
+     "grounds": "soma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyagnipradīpitaḥ",
+     "gloss": "indeed-fire-kindled",
+     "grounds": "hi+agni+pradīpitaḥ",
+     "morph": "indecl.+n.comp+pp.m.nom.sg"
+    },
+    {
+     "surface": "sṛjatītthaṃ",
+     "gloss": "creates-thus",
+     "grounds": "sṛjati+itthaṃ",
+     "morph": "v.3sg.act-pres+indecl."
+    },
+    {
+     "surface": "jagatsarvamātmanyātmanyanantakam",
+     "gloss": "all-world-in-self-endless",
+     "grounds": "jagat+sarvam+ātmani+ātmani+anantakam",
+     "morph": "n.acc.sg+adj.n.acc.sg+pron.loc.sg+pron.loc.sg+adj.n.acc.sg"
+    }
+   ],
+   "question": "How does the moon create the endless world in itself?",
+   "premises": [
+    "moon releases stream there",
+    "moon is fire-kindled",
+    "it creates all world in self"
+   ],
+   "inference": "The fire-kindled moon releases a stream and creates the endless world within itself.",
+   "uncertainties": [
+    "long compound segmentation approximate"
+   ],
+   "plain_english": "Standing there, the moon, kindled by fire, releases a stream and thus creates the entire endless world within itself."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "ṣoḍaśadvādaśārābhyāmaṣṭāreṣvatha",
+     "gloss": "from-sixteen-and-twelve-spoked-to-eight-spoked",
+     "grounds": "ṣoḍaśa+dvādaśa+ara+abhyām+aṣṭa+areṣu+atha",
+     "morph": "num+num+n+abl.du+num+n.loc.pl+indecl."
+    },
+    {
+     "surface": "sarvaśaḥ",
+     "gloss": "in-every-way",
+     "grounds": "sarvaśas",
+     "morph": "indecl."
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "evam",
+     "morph": "indecl."
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "krama",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "sarvatra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cakreṣvamṛtamuttamam",
+     "gloss": "supreme-nectar-in-wheels",
+     "grounds": "cakreṣu+amṛtam+uttamam",
+     "morph": "n.loc.pl+n.acc.sg+adj.n.acc.sg"
+    }
+   ],
+   "question": "How does supreme nectar move through the wheels in order?",
+   "premises": [
+    "from sixteen and twelve to eight spokes",
+    "in every way and order",
+    "supreme nectar in wheels everywhere"
+   ],
+   "inference": "Supreme nectar pervades all wheels in ordered progression from sixteen and twelve spokes to eight.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus, in order, supreme nectar is everywhere in the wheels, from sixteen and twelve spokes to eight."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "somaḥ",
+     "gloss": "moon",
+     "grounds": "soma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sravati",
+     "gloss": "flows",
+     "grounds": "sru",
+     "morph": "v.3sg.act-pres+root sru"
+    },
+    {
+     "surface": "yāvacca",
+     "gloss": "as-long-as",
+     "grounds": "yāvat+ca",
+     "morph": "indecl.+indecl."
+    },
+    {
+     "surface": "pañcānāṃ",
+     "gloss": "of-five",
+     "grounds": "pañca",
+     "morph": "num.gen.pl"
+    },
+    {
+     "surface": "cakrapaddhatiḥ",
+     "gloss": "wheel-path",
+     "grounds": "cakra+paddhati",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatpunaḥ",
+     "gloss": "that-again",
+     "grounds": "tat+punaḥ",
+     "morph": "pron.n.acc.sg+indecl."
+    },
+    {
+     "surface": "pibati",
+     "gloss": "drinks",
+     "grounds": "pā",
+     "morph": "v.3sg.act-pres+root pā"
+    },
+    {
+     "surface": "prītyā",
+     "gloss": "with-delight",
+     "grounds": "prīti",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "haṃso",
+     "gloss": "swan",
+     "grounds": "haṃsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haṃsa",
+     "gloss": "swan",
+     "grounds": "haṃsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sphuran",
+     "gloss": "shining",
+     "grounds": "sphur",
+     "morph": "pp.m.nom.sg"
+    }
+   ],
+   "question": "How does the moon flow and the swan drink along the wheel path?",
+   "premises": [
+    "moon flows as long as five wheel paths",
+    "that again is drunk with delight",
+    "swan shines thus"
+   ],
+   "inference": "The moon flows through the five wheel paths, and the shining swan drinks that again with delight.",
+   "uncertainties": [
+    "haṃso haṃsa repetition retained"
+   ],
+   "plain_english": "The moon flows as long as the path of five wheels; that is again drunk with delight by the shining swan, swan."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "sakṛdyasya",
+     "gloss": "once-whose",
+     "grounds": "sakṛt+yasya",
+     "morph": "indecl.+pron.m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃśrutyā",
+     "gloss": "by-hearing",
+     "grounds": "saṃ+śruti",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "puṇyapāpairna",
+     "gloss": "not-by-merit-and-sin",
+     "grounds": "puṇya+pāpaiḥ+na",
+     "morph": "n.ins.pl+n.ins.pl+indecl."
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-stained",
+     "grounds": "lip",
+     "morph": "v.3sg.pass-pres+root lip"
+    },
+    {
+     "surface": "pañcāre",
+     "gloss": "in-five-spoked",
+     "grounds": "pañca+ara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "savikāro@tha",
+     "gloss": "with-modification-then",
+     "grounds": "sa+vikāraḥ+atha",
+     "morph": "adj.m.nom.sg+n.nom.sg+indecl."
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "bhū",
+     "morph": "abs.m.sg+root bhū"
+    },
+    {
+     "surface": "somasrutāmṛtāt",
+     "gloss": "from-moon-flowing-nectar",
+     "grounds": "soma+sruta+amṛta",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How does hearing once free one from merit and sin?",
+   "premises": [
+    "once by hearing",
+    "not stained by merit and sin",
+    "from moon-flowing nectar in five-spoked wheel"
+   ],
+   "inference": "Hearing once, one is not stained by merit or sin, having become modified from the moon-flowing nectar in the five-spoked wheel.",
+   "uncertainties": [
+    "sandhi savikāro@tha approximate"
+   ],
+   "plain_english": "Once, by hearing, one is not stained by merit or sin, having become modified in the five-spoked wheel from the moon-flowing nectar."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "dhāvati",
+     "gloss": "runs",
+     "grounds": "dhāv",
+     "morph": "v.3sg.act-pres+root dhāv"
+    },
+    {
+     "surface": "trirasārāṇi",
+     "gloss": "three-essence-spoked",
+     "grounds": "tri+rasa+ara",
+     "morph": "num+n+n.acc.pl"
+    },
+    {
+     "surface": "guhyacakrāṇyasau",
+     "gloss": "secret-wheels-that",
+     "grounds": "guhya+cakra+asau",
+     "morph": "adj+n.acc.pl+pron.m.nom.sg"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "all-pervading",
+     "grounds": "vibhu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "from-which",
+     "grounds": "yatas",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jātaṃ",
+     "gloss": "born",
+     "grounds": "jan",
+     "morph": "pp.n.acc.sg"
+    },
+    {
+     "surface": "jagallīnaṃ",
+     "gloss": "world-dissolved",
+     "grounds": "jagat+līna",
+     "morph": "n.acc.sg+pp.n.acc.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "yatra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svakalīlayā",
+     "gloss": "by-own-play",
+     "grounds": "sva+kalā+līlayā",
+     "morph": "adj+ n+ f.ins.sg"
+    }
+   ],
+   "question": "How does the all-pervading one run through secret wheels?",
+   "premises": [
+    "all-pervading runs through three-essence-spoked secret wheels",
+    "world born and dissolved from which",
+    "by own play where"
+   ],
+   "inference": "The all-pervading one runs through the secret wheels; from that the world is born and dissolved by its own play.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The all-pervading one runs through the three-essence-spoked secret wheels, from which the world is born and dissolved by its own play."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "tatrānandaśca",
+     "gloss": "there-bliss-and",
+     "grounds": "tatra+ānandaḥ+ca",
+     "morph": "indecl.+m.nom.sg+indecl."
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "sarva",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "brahmacārī",
+     "gloss": "celibate-devotee",
+     "grounds": "brahma+cārī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatparaḥ",
+     "gloss": "devoted-to-that",
+     "grounds": "tat+paraḥ",
+     "morph": "pron+adj.m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "siddhiśca",
+     "gloss": "perfection-and",
+     "grounds": "siddhiḥ+ca",
+     "morph": "f.nom.sg+indecl."
+    },
+    {
+     "surface": "muktiśca",
+     "gloss": "liberation-and",
+     "grounds": "muktiḥ+ca",
+     "morph": "f.nom.sg+indecl."
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equally",
+     "grounds": "sama",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃprāpyate",
+     "gloss": "is-attained",
+     "grounds": "saṃ+prāp",
+     "morph": "v.3sg.pass-pres+root prāp"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "both",
+     "grounds": "dvaya",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is attained equally there for all?",
+   "premises": [
+    "there bliss and celibate devotee devoted to that",
+    "there perfection and liberation",
+    "both are attained equally"
+   ],
+   "inference": "There, bliss and the celibate devotee devoted to that are present, and both perfection and liberation are attained equally.",
+   "uncertainties": [
+    "sarvasya scope ambiguous"
+   ],
+   "plain_english": "There is bliss, and the celibate devotee devoted to that; there perfection and liberation are both attained equally."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "atas",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "upward",
+     "grounds": "ūrdhvam",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punaryāti",
+     "gloss": "again-goes",
+     "grounds": "punar+yāti",
+     "morph": "indecl.+v.3sg.act-pres+root yā"
+    },
+    {
+     "surface": "yāvadbrahmātmakaṃ",
+     "gloss": "until-brahma-natured",
+     "grounds": "yāvat+brahma+ātmakaṃ",
+     "morph": "indecl.+n+adj.n.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "pada",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "agnīṣomau",
+     "gloss": "fire-and-moon",
+     "grounds": "agni+ṣoma",
+     "morph": "n.du.nom"
+    },
+    {
+     "surface": "samau",
+     "gloss": "equal",
+     "grounds": "sama",
+     "morph": "adj.m.nom.du"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sṛjyete",
+     "gloss": "are-created",
+     "grounds": "sṛj",
+     "morph": "v.3du.pass-pres+root sṛj"
+    },
+    {
+     "surface": "cātmanātmani",
+     "gloss": "and-in-self-by-self",
+     "grounds": "ca+ātmanā+ātmani",
+     "morph": "indecl.+pron.ins.sg+pron.loc.sg"
+    }
+   ],
+   "question": "How are fire and moon created equally there?",
+   "premises": [
+    "therefore goes upward until brahma-natured state",
+    "fire and moon equal there",
+    "are created by self in self"
+   ],
+   "inference": "Going upward to the brahma-natured state, fire and moon are created equally there by self in self.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Therefore one goes upward until the brahma-natured state, where fire and moon, equal, are created by self in self."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "tatrasthastāpitaḥ",
+     "gloss": "standing-there-heated",
+     "grounds": "tatra+sthaḥ+tāpitaḥ",
+     "morph": "indecl.+adj.m.nom.sg+pp.m.nom.sg"
+    },
+    {
+     "surface": "somo",
+     "gloss": "moon",
+     "grounds": "soma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvedhā",
+     "gloss": "in-two",
+     "grounds": "dvedhā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jaṅghe",
+     "gloss": "in-calves",
+     "grounds": "jaṅghā",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "vyavasthitaḥ",
+     "gloss": "placed",
+     "grounds": "vyava+sthita",
+     "morph": "pp.m.nom.sg"
+    },
+    {
+     "surface": "adhastaṃ",
+     "gloss": "downward",
+     "grounds": "adhastam",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pātayedagniramṛtaṃ",
+     "gloss": "would-drop-fire-nectar",
+     "grounds": "pātayet+agni+amṛtaṃ",
+     "morph": "v.3sg.caus.opt+ n+n.acc.sg"
+    },
+    {
+     "surface": "sravati",
+     "gloss": "flows",
+     "grounds": "sru",
+     "morph": "v.3sg.act-pres+root sru"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "in-an-instant",
+     "grounds": "kṣaṇa",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How does the heated moon divide and drop fire-nectar?",
+   "premises": [
+    "moon standing there heated",
+    "placed in two calves",
+    "downward drops fire-nectar flowing instantly"
+   ],
+   "inference": "The heated moon, placed in two calves, drops fire-nectar downward, which flows in an instant.",
+   "uncertainties": [
+    "causative optative segmentation"
+   ],
+   "plain_english": "The moon, heated and standing there, is placed in two calves; downward it drops fire-nectar, which flows in an instant."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "gulphajānvādiṣu",
+     "gloss": "in-ankles-knees-etc",
+     "grounds": "gulpha+jānu+ādiṣu",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "vyaktaṃ",
+     "gloss": "clearly",
+     "grounds": "vyakta",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuṭilārkapradīpitā",
+     "gloss": "curved-sun-kindled",
+     "grounds": "kuṭila+arka+pradīpitā",
+     "morph": "adj+ n+ pp.f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "sā",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "śaktistāpitā",
+     "gloss": "power-heated",
+     "grounds": "śaktiḥ+tāpitā",
+     "morph": "f.nom.sg+pp.f.nom.sg"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "bhūyas",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañcārādikramaṃ",
+     "gloss": "five-spoked-etc-order",
+     "grounds": "pañca+ara+ādi+krama",
+     "morph": "num+n+n+n.acc.sg"
+    },
+    {
+     "surface": "sṛjet",
+     "gloss": "would-create",
+     "grounds": "sṛj",
+     "morph": "v.3sg.opt+root sṛj"
+    }
+   ],
+   "question": "How does the heated power create the five-spoked order?",
+   "premises": [
+    "in ankles knees etc clearly",
+    "curved sun-kindled power heated",
+    "again creates five-spoked etc order"
+   ],
+   "inference": "The curved sun-kindled power, heated again, clearly creates the five-spoked and following order in ankles, knees, and so on.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Clearly, in ankles, knees, and so on, that curved sun-kindled power, heated again, creates the five-spoked and following order."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "evam",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrotre@pi",
+     "gloss": "in-ear-also",
+     "grounds": "śrotre+api",
+     "morph": "n.loc.sg+indecl."
+    },
+    {
+     "surface": "vijñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "vijñā",
+     "morph": "gerundive.n.acc.sg"
+    },
+    {
+     "surface": "yāvatpādāntagocaram",
+     "gloss": "until-foot-end-range",
+     "grounds": "yāvat+pāda+anta+gocara",
+     "morph": "indecl.+n+n+n.acc.sg"
+    },
+    {
+     "surface": "pādāṅguṣṭhātsamārabhya",
+     "gloss": "starting-from-toe",
+     "grounds": "pāda+aṅguṣṭha+samārabhya",
+     "morph": "n+n+abs"
+    },
+    {
+     "surface": "yāvadbrahmāṇḍadarśanam",
+     "gloss": "until-cosmic-egg-vision",
+     "grounds": "yāvat+brahmāṇḍa+darśana",
+     "morph": "indecl.+n+n.acc.sg"
+    }
+   ],
+   "question": "How is this to be known from ear to foot?",
+   "premises": [
+    "thus in ear also to be known",
+    "until foot-end range",
+    "starting from toe until cosmic-egg vision"
+   ],
+   "inference": "Thus it is to be known in the ear also, from the toe up to the range of the foot-end and the vision of the cosmic egg.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus it is to be known in the ear as well, from the toe up to the range of the foot-end and the vision of the cosmic egg."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "ityajānannaiva",
+     "gloss": "thus-not-knowing-not",
+     "grounds": "iti+a+jānan+na+eva",
+     "morph": "indecl.+neg+pp.m.nom.sg+indecl.+indecl."
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "yogin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jānanviśvaprabhurbhavet",
+     "gloss": "knowing-becomes-world-lord",
+     "grounds": "jānan+viśva+prabhuḥ+bhavet",
+     "morph": "pp.m.nom.sg+n+n.m.nom.sg+v.3sg.opt"
+    },
+    {
+     "surface": "jvalannivāsau",
+     "gloss": "burning-abode",
+     "grounds": "jvalan+nivāsa",
+     "morph": "pp.m.nom.sg+n.nom.du"
+    },
+    {
+     "surface": "brahmādyairdṛśyate",
+     "gloss": "is-seen-by-brahma-etc",
+     "grounds": "brahma+ādyaiḥ+dṛśyate",
+     "morph": "n.ins.pl+v.3sg.pass-pres+root dṛś"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "parama+īśvara",
+     "morph": "adj+n.m.nom.sg"
+    }
+   ],
+   "question": "How does knowing make the yogi world-lord?",
+   "premises": [
+    "thus not knowing not yogi",
+    "knowing becomes world lord",
+    "burning abode seen by brahma etc supreme lord"
+   ],
+   "inference": "Not knowing thus, one is not a yogi; knowing, one becomes world-lord, and the supreme lord is seen by Brahma and others as a burning abode.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus, not knowing, one is not a yogi; knowing, one becomes world-lord, and the supreme lord is seen by Brahma and others as a burning abode."
+  }
+ ]
+}

@@ -1,0 +1,809 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tātparyataḥ",
+     "gloss": "by-intent",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktamakṣe",
+     "gloss": "spoken-in-eye",
+     "grounds": "compound phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramacatuṣṭayam",
+     "gloss": "fourfold-sequence",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekaikatra",
+     "gloss": "in-each",
+     "grounds": "distributive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatastena",
+     "gloss": "because-by-that",
+     "grounds": "causal phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśātmakatoditā",
+     "gloss": "twelve-natured-described",
+     "grounds": "nominative feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the fourfold sequence described here?",
+   "premises": [
+    "The fourfold sequence is spoken in the eye.",
+    "Each part is treated individually.",
+    "Twelve-natured description follows from that."
+   ],
+   "inference": "The verse presents a fourfold sequence with twelve-natured description.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Here, by intent, the fourfold sequence is spoken in the eye; in each part, because of that, the twelve-natured description arises."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyākhyātaṃ",
+     "gloss": "explained",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbhajya",
+     "gloss": "having-separated",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "yato@tisarahasyakam",
+     "gloss": "because-three-secrets",
+     "grounds": "compound phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "meye@pi",
+     "gloss": "in-measured-too",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tiṣṭhantī",
+     "gloss": "standing",
+     "grounds": "present participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māsarāśyādirūpiṇī",
+     "gloss": "month-cluster-form",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is the three-secret matter not fully explained?",
+   "premises": [
+    "The three-secret matter is not explained.",
+    "The goddess stands in measured form.",
+    "Her form is month-cluster-like."
+   ],
+   "inference": "The verse withholds full explanation because the goddess remains in measured form.",
+   "uncertainties": [
+    "Sandhi splitting is approximate."
+   ],
+   "plain_english": "But the three-secret matter is not explained, because the goddess stands in measured form, shaped like a month cluster."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "inferential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃvidantarbāhyobhayātmanā",
+     "gloss": "consciousness-inner-outer-both-self",
+     "grounds": "compound instrumental",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-herself",
+     "grounds": "reflexive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbhāsya",
+     "gloss": "having-manifested",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tatrānyadbhāsayantīva",
+     "gloss": "there-other-illuminating-as-if",
+     "grounds": "participial phrase",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How does consciousness shine in both inner and outer form?",
+   "premises": [
+    "This consciousness is established.",
+    "It is inner and outer both.",
+    "It shines by itself and illuminates other."
+   ],
+   "inference": "Consciousness shines by itself while also illuminating other things.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Therefore this consciousness is established as both inner and outer; shining by herself, she illuminates other things there."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "and-then",
+     "grounds": "conjunctive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgiyaṃ",
+     "gloss": "first-this",
+     "grounds": "demonstrative phrase",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śuddhā",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathābhāsanasotsukā",
+     "gloss": "eager-to-manifest-thus",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭiṃ",
+     "gloss": "creation",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kalayate",
+     "gloss": "considers",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tannāmnāgama",
+     "gloss": "that-named-scripture",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Why is the pure goddess called creation?",
+   "premises": [
+    "This pure goddess is eager to manifest.",
+    "She considers creation.",
+    "That scripture is called by that name."
+   ],
+   "inference": "The pure goddess's eager manifestation is called creation in that scripture.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Then this pure goddess, eager to manifest thus, considers creation; that scripture is called by that name."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāsitavastvaṃśarañjanāṃ",
+     "gloss": "illuminated-thing-partial-coloring",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bahirmukhī",
+     "gloss": "outward-facing",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svavṛtticakreṇa",
+     "gloss": "by-own-activity-wheel",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "together",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato@pi",
+     "gloss": "from-that-too",
+     "grounds": "ablative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalayantyalam",
+     "gloss": "considers-enough",
+     "grounds": "verb phrase",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How does the outward-facing goddess consider colored parts?",
+   "premises": [
+    "She is outward-facing.",
+    "She considers illuminated thing-parts by her activity wheel.",
+    "This happens from that too."
+   ],
+   "inference": "The outward-facing goddess considers partial colorings through her own activity wheel.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Thus she, outward-facing, considers the partial coloring of illuminated things together with her own activity wheel, and enough from that too."
+  },
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "sthitireṣaiva",
+     "gloss": "this-very-establishment",
+     "grounds": "compound nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-being",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tāmantarmukhatārasāt",
+     "gloss": "that-inward-facing-essence-from",
+     "grounds": "ablative compound",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "saṃjihīrṣuḥ",
+     "gloss": "wishing-to-withdraw",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthiternāśaṃ",
+     "gloss": "destruction-of-establishment",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalayantī",
+     "gloss": "considering",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Why is withdrawal called destruction of establishment?",
+   "premises": [
+    "This establishment belongs to being.",
+    "From inward-facing essence she wishes to withdraw.",
+    "She considers destruction of establishment."
+   ],
+   "inference": "Withdrawal from inward-facing essence is called destruction of establishment.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "This very establishment of being, from the essence of inward-facing withdrawal, considering destruction of establishment, is called so."
+  },
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "tato@pi",
+     "gloss": "from-that-too",
+     "grounds": "ablative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃhārarase",
+     "gloss": "in-dissolution-essence",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "pūrṇe",
+     "gloss": "full",
+     "grounds": "locative adjective",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vighnakarīṃ",
+     "gloss": "obstacle-making",
+     "grounds": "accusative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "by-herself",
+     "grounds": "reflexive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkāṃ",
+     "gloss": "doubt",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yamātmikāṃ",
+     "gloss": "self-natured",
+     "grounds": "accusative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-part",
+     "grounds": "locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "sūte",
+     "gloss": "produces",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "saṃharate@pi",
+     "gloss": "withdraws-too",
+     "grounds": "verb phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does doubt arise in full dissolution essence?",
+   "premises": [
+    "From that too, in full dissolution essence.",
+    "She produces self-natured doubt in part.",
+    "She also withdraws."
+   ],
+   "inference": "In full dissolution essence, self-natured doubt is produced in part and also withdrawn.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "From that too, in the full essence of dissolution, she herself produces self-natured, obstacle-making doubt in part, and also withdraws."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "saṃhṛtya",
+     "gloss": "having-withdrawn",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śaṅkāṃ",
+     "gloss": "doubt",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śaṅkyārthavarjaṃ",
+     "gloss": "except-doubtable-meaning",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvamaṇḍale",
+     "gloss": "in-being-circle",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "saṃhṛtiṃ",
+     "gloss": "withdrawal",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kalayatyeva",
+     "gloss": "considers-indeed",
+     "grounds": "verb phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "svātmavahnau",
+     "gloss": "in-own-self-fire",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vilāpanāt",
+     "gloss": "from-dissolving",
+     "grounds": "ablative",
+     "morph": "abl.sg"
+    }
+   ],
+   "question": "How is doubt withdrawn in the being-circle?",
+   "premises": [
+    "Having withdrawn doubt except doubtable meaning.",
+    "In the being-circle she considers withdrawal.",
+    "From dissolving in own self-fire."
+   ],
+   "inference": "Doubt is withdrawn in the being-circle through dissolving in own self-fire.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Having withdrawn doubt except its doubtable meaning, in the being-circle she indeed considers withdrawal, from dissolving in her own self-fire."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "vilāpanātmikāṃ",
+     "gloss": "dissolving-natured",
+     "grounds": "accusative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvasaṃhṛtimātmani",
+     "gloss": "being-withdrawal-in-self",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "āmṛśatyeva",
+     "gloss": "touches-indeed",
+     "grounds": "verb phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yenaiṣā",
+     "gloss": "by-which-this",
+     "grounds": "relative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first person",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "grastamiti",
+     "gloss": "swallowed-thus",
+     "grounds": "accusative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuret",
+     "gloss": "may-shine",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How does dissolved being-withdrawal shine in the self?",
+   "premises": [
+    "That dissolving-natured being-withdrawal is touched in self.",
+    "By which this is swallowed by me.",
+    "It may shine."
+   ],
+   "inference": "The dissolved being-withdrawal, touched in self, may shine as swallowed by me.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "And that dissolving-natured being-withdrawal is indeed touched in the self, by which this may shine as swallowed by me."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "saṃhāryopādhiretasyāḥ",
+     "gloss": "withdrawable-condition-of-this",
+     "grounds": "compound genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "svasvabhāvo",
+     "gloss": "own-nature",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvidaḥ",
+     "gloss": "of-consciousness",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "nirupādhini",
+     "gloss": "without-condition",
+     "grounds": "locative adjective",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "saṃśuddhe",
+     "gloss": "in-purified",
+     "grounds": "locative adjective",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "saṃvidrūpeṣastamīyate",
+     "gloss": "in-consciousness-form-is-established",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What remains when withdrawable conditions are removed?",
+   "premises": [
+    "The withdrawable condition of this is its own nature.",
+    "Consciousness is without condition.",
+    "In purified consciousness-form it is established."
+   ],
+   "inference": "When withdrawable conditions are removed, consciousness remains in purified form.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "The withdrawable condition of this is indeed the own nature of consciousness; in purified, conditionless consciousness-form it is established."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "vilāpite@pi",
+     "gloss": "even-when-dissolved",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "bhāvaughe",
+     "gloss": "in-being-flood",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kaṃcidbhāvaṃ",
+     "gloss": "some-being",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadaiva",
+     "gloss": "then-itself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "āśyānayedya",
+     "gloss": "makes-sticky",
+     "grounds": "verb phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "evāste",
+     "gloss": "indeed-remains",
+     "grounds": "verb phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "śaṅkā",
+     "gloss": "doubt",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃskārarūpakaḥ",
+     "gloss": "as-impression-form",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remains when the being-flood is dissolved?",
+   "premises": [
+    "Even when the being-flood is dissolved.",
+    "She makes some being sticky then.",
+    "Doubt remains as impression-form."
+   ],
+   "inference": "When the being-flood is dissolved, doubt remains as impression-form.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Even when the being-flood is dissolved, she then makes some being sticky; doubt indeed remains in impression-form."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "śubhāśubhatayā",
+     "gloss": "by-auspicious-inauspiciousness",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "so@yaṃ",
+     "gloss": "that-this",
+     "grounds": "demonstrative phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "soṣyate",
+     "gloss": "will-be-born",
+     "grounds": "future verb",
+     "morph": "3.sg.pass-fut"
+    },
+    {
+     "surface": "phalasaṃpadam",
+     "gloss": "fruit-abundance",
+     "grounds": "accusative compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogātpaścādvā",
+     "gloss": "from-enjoyment-after-or",
+     "grounds": "ablative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkeyaṃ",
+     "gloss": "this-doubt",
+     "grounds": "nominative phrase",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyavatiṣṭhate",
+     "gloss": "stands-apart",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How does doubt stand apart by auspicious and inauspicious fruit?",
+   "premises": [
+    "By auspicious and inauspiciousness this will be born.",
+    "Fruit-abundance comes before or after enjoyment.",
+    "This doubt stands apart."
+   ],
+   "inference": "Doubt stands apart according to auspicious or inauspicious fruit before or after enjoyment.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "By auspicious and inauspiciousness, this will be born with fruit-abundance, before or after enjoyment; this doubt stands apart."
+  }
+ ]
+}

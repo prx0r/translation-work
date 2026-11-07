@@ -1,0 +1,401 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "yathāhi",
+     "gloss": "just-as-indeed",
+     "grounds": "introductory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatrāśvaḥ",
+     "gloss": "horse-there",
+     "grounds": "subject horse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samanimnonnatādiṣu",
+     "gloss": "level-uneven-etc-in",
+     "grounds": "locative qualifier",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "citre",
+     "gloss": "painting-in",
+     "grounds": "locative setting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "place-in",
+     "grounds": "locative setting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāhyamāno",
+     "gloss": "being-led",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yātīcchāmātrakalpitām",
+     "gloss": "goes-wish-only-imagined",
+     "grounds": "predicate phrase",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How does a horse move in a painted place?",
+   "premises": [
+    "horse movement is wish-imagined",
+    "painted place lacks real terrain"
+   ],
+   "inference": "apparent motion is mentally projected",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Just as a horse seems to move by mere wish in a painted landscape, so movement is imagined."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvidvicitrābhiḥ",
+     "gloss": "consciousness-variegated-by",
+     "grounds": "instrumental qualifier",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "śāntaghoratarādibhiḥ",
+     "gloss": "peaceful-terrifying-etc-by",
+     "grounds": "instrumental qualifier",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhaṅgībhirabhito",
+     "gloss": "waves-around-by",
+     "grounds": "instrumental phrase",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "dvaitaṃ",
+     "gloss": "duality",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyājitā",
+     "gloss": "abandoned",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhairavāyate",
+     "gloss": "becomes-Bhairava",
+     "grounds": "main verb",
+     "morph": "3sg.act"
+    }
+   ],
+   "question": "How does duality become Bhairava?",
+   "premises": [
+    "consciousness displays varied waves",
+    "duality is abandoned through them"
+   ],
+   "inference": "Bhairava arises when duality is released",
+   "uncertainties": [
+    "gender of qualifier uncertain"
+   ],
+   "plain_english": "So, through variegated waves of consciousness, duality is abandoned and becomes Bhairava."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "simile marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puraḥsthe",
+     "gloss": "front-standing-in",
+     "grounds": "locative qualifier",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mukure",
+     "gloss": "mirror-in",
+     "grounds": "locative setting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nijaṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "face",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhāvayan",
+     "gloss": "perceiving",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyastadekātma",
+     "gloss": "again-that-one-self",
+     "grounds": "compound phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "face",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "main verb",
+     "morph": "3sg.act"
+    },
+    {
+     "surface": "nijātmanaḥ",
+     "gloss": "own-self-of",
+     "grounds": "genitive phrase",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How does one know one's own face in a mirror?",
+   "premises": [
+    "mirror shows own face",
+    "repeated seeing reveals one self"
+   ],
+   "inference": "self-knowledge arises by reflection",
+   "uncertainties": [
+    "compound membership uncertain"
+   ],
+   "plain_english": "As one perceives one's own face in a mirror, so one knows that face as one's own self."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikalpamukure",
+     "gloss": "thought-mirror-in",
+     "grounds": "locative setting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhyānapūjārcanātmani",
+     "gloss": "meditation-worship-ritual-self-in",
+     "grounds": "locative qualifier",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "Bhairava",
+     "grounds": "object complement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśyannacirāttanmayībhavet",
+     "gloss": "seeing-soon-becomes-identified",
+     "grounds": "main verb",
+     "morph": "3sg.act"
+    }
+   ],
+   "question": "How does one become identified with Bhairava?",
+   "premises": [
+    "thought is a mirror",
+    "meditation and worship reveal self"
+   ],
+   "inference": "seeing Bhairava in that mirror brings identification",
+   "uncertainties": [
+    "participle-verb boundary uncertain"
+   ],
+   "plain_english": "So, in the mirror of thought, seeing oneself as Bhairava through meditation and worship soon brings identification."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "tanmayībhavanaṃ",
+     "gloss": "becoming-identified",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "apposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāptiḥ",
+     "gloss": "attainment",
+     "grounds": "predicate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sānuttarātmani",
+     "gloss": "supreme-self-in",
+     "grounds": "locative qualifier",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūrṇatvasya",
+     "gloss": "fullness-of",
+     "grounds": "genitive phrase",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāṣṭhā",
+     "gloss": "limit",
+     "grounds": "predicate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "setyatra",
+     "gloss": "that-here",
+     "grounds": "demonstrative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalāntaram",
+     "gloss": "other-fruit",
+     "grounds": "object",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the attainment called becoming identified?",
+   "premises": [
+    "it is attainment in supreme self",
+    "it is supreme limit of fullness"
+   ],
+   "inference": "no other fruit exists beyond it",
+   "uncertainties": [
+    "demonstrative split uncertain"
+   ],
+   "plain_english": "Becoming identified is attainment in the supreme self, the supreme limit of fullness; here there is no other fruit."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvamapūrṇatve",
+     "gloss": "all-incompleteness-in",
+     "grounds": "locative qualifier",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpitam",
+     "gloss": "imagined",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akalpite",
+     "gloss": "unimagined-in",
+     "grounds": "locative qualifier",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇatve",
+     "gloss": "fullness-in",
+     "grounds": "locative qualifier",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "phalamanyatkimucyatām",
+     "gloss": "what-other-fruit-said",
+     "grounds": "rhetorical question",
+     "morph": "3sg"
+    }
+   ],
+   "question": "What other fruit can be named in fullness?",
+   "premises": [
+    "all fruit in incompleteness is imagined",
+    "fullness is unimagined"
+   ],
+   "inference": "no other fruit can be named in fullness",
+   "uncertainties": [
+    "verb form uncertain"
+   ],
+   "plain_english": "All fruit in incompleteness is imagined; in unimagined fullness, what other fruit can be named?"
+  }
+ ]
+}

@@ -1,0 +1,767 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "etasyāṃ",
+     "gloss": "in-this",
+     "grounds": "token 1 of verse 169",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "svātmasaṃvittāvidaṃ",
+     "gloss": "self-knowledge-possessing",
+     "grounds": "token 2 of verse 169",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sarvamahaṃ",
+     "gloss": "all-I",
+     "grounds": "token 3 of verse 169",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "lord",
+     "grounds": "token 4 of verse 169",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 5 of verse 169",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravikasadrūpā",
+     "gloss": "blossoming-form",
+     "grounds": "token 6 of verse 169",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃvittiravabhāsate",
+     "gloss": "consciousness-shines",
+     "grounds": "token 7 of verse 169",
+     "morph": "3.sg.act-pres root avabhās"
+    }
+   ],
+   "question": "How does consciousness shine in this self-knowledge?",
+   "premises": [
+    "self-knowledge possesses all-I",
+    "consciousness shines with blossoming form",
+    "lord is in this"
+   ],
+   "inference": "consciousness shines as blossoming form in self-knowledge",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "In this self-knowledge, consciousness shines with a blossoming form."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "tato@ntaḥsthitasarvātmabhāvabhogoparāgiṇī",
+     "gloss": "then-inner-all-self-state-enjoyment-colored",
+     "grounds": "token 1 of verse 170",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "paripūrṇāpi",
+     "gloss": "though-full",
+     "grounds": "token 2 of verse 170",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃvittirakule",
+     "gloss": "consciousness-in-family",
+     "grounds": "token 3 of verse 170",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dhāmni",
+     "gloss": "in-abode",
+     "grounds": "token 4 of verse 170",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "līyate",
+     "gloss": "dissolves",
+     "grounds": "token 5 of verse 170",
+     "morph": "3.sg.pass-pres root lī"
+    }
+   ],
+   "question": "Where does full consciousness dissolve?",
+   "premises": [
+    "consciousness is full",
+    "consciousness is colored by enjoyment",
+    "it dissolves in abode"
+   ],
+   "inference": "full consciousness dissolves in its abode",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Though full, consciousness dissolves in its abode."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "pramātṛvargo",
+     "gloss": "knower-class",
+     "grounds": "token 1 of verse 171",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mānaughaḥ",
+     "gloss": "means-flood",
+     "grounds": "token 2 of verse 171",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pramāśca",
+     "gloss": "cognitions-and",
+     "grounds": "token 3 of verse 171",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "token 4 of verse 171",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "token 5 of verse 171",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "meyaugha",
+     "gloss": "objects-flood",
+     "grounds": "token 6 of verse 171",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 7 of verse 171",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatsarvamatra",
+     "gloss": "all-this-here",
+     "grounds": "token 8 of verse 171",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "cinmātrameva",
+     "gloss": "consciousness-only",
+     "grounds": "token 9 of verse 171",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "token 10 of verse 171",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is all this here ultimately?",
+   "premises": [
+    "knowers means and cognitions are situated",
+    "objects are many",
+    "all this here is consciousness only"
+   ],
+   "inference": "all this is consciousness only",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "All this here is consciousness only."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "iyatīṃ",
+     "gloss": "such",
+     "grounds": "token 1 of verse 172",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "rūpavaicitrīmāśrayantyāḥ",
+     "gloss": "form-variety-supporting",
+     "grounds": "token 2 of verse 172",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "svasaṃvidaḥ",
+     "gloss": "self-consciousness",
+     "grounds": "token 3 of verse 172",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "svācchandyamanapekṣaṃ",
+     "gloss": "free-will-unconditioned",
+     "grounds": "token 4 of verse 172",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yatsā",
+     "gloss": "which-she",
+     "grounds": "token 5 of verse 172",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "token 6 of verse 172",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "parameśvarī",
+     "gloss": "supreme-lady",
+     "grounds": "token 7 of verse 172",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is the supreme lady's free will?",
+   "premises": [
+    "self-consciousness supports form variety",
+    "free will is unconditioned",
+    "she is supreme lady"
+   ],
+   "inference": "supreme lady has unconditioned free will",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "The supreme lady has unconditioned free will."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "imāḥ",
+     "gloss": "these",
+     "grounds": "token 1 of verse 173",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "prāguktakalanāstadvijṛmbhocyate",
+     "gloss": "previously-stated-imaginings-their-unfolding-said",
+     "grounds": "token 2 of verse 173",
+     "morph": "3.sg.pass-pres root uc"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "token 3 of verse 173",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣepo",
+     "gloss": "projection",
+     "grounds": "token 4 of verse 173",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "token 5 of verse 173",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6 of verse 173",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyānaṃ",
+     "gloss": "enumeration",
+     "grounds": "token 7 of verse 173",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "gatirnāda",
+     "gloss": "movement-sound",
+     "grounds": "token 8 of verse 173",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 9 of verse 173",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "token 10 of verse 173",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the five stated imaginings?",
+   "premises": [
+    "these imaginings are said",
+    "projection knowledge enumeration movement sound",
+    "they occur in order"
+   ],
+   "inference": "the five imaginings are projection knowledge enumeration movement sound",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "These imaginings are projection, knowledge, enumeration, movement, and sound."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "svātmano",
+     "gloss": "of-self",
+     "grounds": "token 1 of verse 174",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "bhedanaṃ",
+     "gloss": "division",
+     "grounds": "token 2 of verse 174",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kṣepo",
+     "gloss": "projection",
+     "grounds": "token 3 of verse 174",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bheditasyāvikalpanam",
+     "gloss": "of-divided-undifferentiated",
+     "grounds": "token 4 of verse 174",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "token 5 of verse 174",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vikalpaḥ",
+     "gloss": "differentiation",
+     "grounds": "token 6 of verse 174",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saṃkhyānamanyato",
+     "gloss": "enumeration-from-other",
+     "grounds": "token 7 of verse 174",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vyatibhedanāt",
+     "gloss": "from-cross-division",
+     "grounds": "token 8 of verse 174",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How are projection and knowledge defined?",
+   "premises": [
+    "projection is division of self",
+    "knowledge is undifferentiated of divided",
+    "enumeration is from other cross-division"
+   ],
+   "inference": "projection divides self and knowledge remains undifferentiated",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Projection divides the self; knowledge is the undifferentiated of the divided."
+  },
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "gatiḥ",
+     "gloss": "movement",
+     "grounds": "token 1 of verse 175",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "svarūpārohitvaṃ",
+     "gloss": "own-form-ascension",
+     "grounds": "token 2 of verse 175",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pratibimbavadeva",
+     "gloss": "like-reflection-only",
+     "grounds": "token 3 of verse 175",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "token 4 of verse 175",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nādaḥ",
+     "gloss": "sound",
+     "grounds": "token 5 of verse 175",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svātmaparāmarśaśeṣatā",
+     "gloss": "self-reflection-remainder",
+     "grounds": "token 6 of verse 175",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tadvilopanāt",
+     "gloss": "from-its-removal",
+     "grounds": "token 7 of verse 175",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What are movement and sound?",
+   "premises": [
+    "movement is own-form ascension",
+    "sound is self-reflection remainder",
+    "sound follows removal"
+   ],
+   "inference": "movement ascends own form and sound remains self-reflection",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Movement ascends to own form; sound is the remainder of self-reflection."
+  },
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 1 of verse 176",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcavidhāmenāṃ",
+     "gloss": "fivefold-this",
+     "grounds": "token 2 of verse 176",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kalanāṃ",
+     "gloss": "imagination",
+     "grounds": "token 3 of verse 176",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kurvatī",
+     "gloss": "doing",
+     "grounds": "token 4 of verse 176",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "token 5 of verse 176",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "token 6 of verse 176",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "Kali",
+     "grounds": "token 7 of verse 176",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "token 8 of verse 176",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālakarṣiṇī",
+     "gloss": "time-drawing",
+     "grounds": "token 9 of verse 176",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "token 10 of verse 176",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "token 11 of verse 176",
+     "morph": "3.sg.pass-pres root kath"
+    }
+   ],
+   "question": "Who performs the fivefold imagination?",
+   "premises": [
+    "supreme goddess does fivefold imagination",
+    "she is called Kali",
+    "she is called time-drawing"
+   ],
+   "inference": "supreme goddess performs fivefold imagination",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "The supreme goddess performs the fivefold imagination."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "mātṛsadbhāvasaṃjñāsyāstenoktā",
+     "gloss": "mother-existence-named-by-them-said",
+     "grounds": "token 1 of verse 177",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yatpramātṛṣu",
+     "gloss": "which-in-knowers",
+     "grounds": "token 2 of verse 177",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "etāvadantasaṃvittau",
+     "gloss": "up-to-this-end-consciousness",
+     "grounds": "token 3 of verse 177",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "pramātṛtvaṃ",
+     "gloss": "knower-ness",
+     "grounds": "token 4 of verse 177",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sphuṭībhavet",
+     "gloss": "becomes-clear",
+     "grounds": "token 5 of verse 177",
+     "morph": "3.sg.act-pres root sphuṭībhū"
+    }
+   ],
+   "question": "When does knower-ness become clear?",
+   "premises": [
+    "mother existence is named by them",
+    "in knowers up to this end consciousness",
+    "knower-ness becomes clear"
+   ],
+   "inference": "knower-ness becomes clear in knowers",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Knower-ness becomes clear in knowers."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "vāmeśvarīti-śabdena",
+     "gloss": "by-Vameshvari-word",
+     "grounds": "token 1 of verse 178",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "said",
+     "grounds": "token 2 of verse 178",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śrīniśisaṃcare",
+     "gloss": "in-Shri-Nishi-course",
+     "grounds": "token 3 of verse 178",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "token 4 of verse 178",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśadhā",
+     "gloss": "twelvefold",
+     "grounds": "token 5 of verse 178",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvittiṣṭhantī",
+     "gloss": "consciousness-standing",
+     "grounds": "token 6 of verse 178",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "viśvamātṛṣu",
+     "gloss": "in-world-mothers",
+     "grounds": "token 7 of verse 178",
+     "morph": "loc.pl.f"
+    }
+   ],
+   "question": "How is consciousness said to stand?",
+   "premises": [
+    "by Vameshvari word said",
+    "in Shri-Nishi course",
+    "consciousness stands twelvefold in world-mothers"
+   ],
+   "inference": "consciousness stands twelvefold in world-mothers",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Consciousness stands twelvefold in world-mothers."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "ekaiveti",
+     "gloss": "one-only-thus",
+     "grounds": "token 1 of verse 179",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 2 of verse 179",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ko@pyasyāḥ",
+     "gloss": "anyone-of-her",
+     "grounds": "token 3 of verse 179",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kramasya",
+     "gloss": "of-order",
+     "grounds": "token 4 of verse 179",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "niyamaḥ",
+     "gloss": "rule",
+     "grounds": "token 5 of verse 179",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "sometimes",
+     "grounds": "token 6 of verse 179",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramābhāvānna",
+     "gloss": "from-absence-of-order-not",
+     "grounds": "token 7 of verse 179",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugapattadabhāvātkramo@pi",
+     "gloss": "simultaneously-its-absence-from-order-even",
+     "grounds": "token 8 of verse 179",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 9 of verse 179",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is there a fixed order?",
+   "premises": [
+    "one only thus",
+    "no rule of her order",
+    "neither absence nor simultaneity gives order"
+   ],
+   "inference": "there is no fixed order",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "There is no fixed order."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "kramākramakathātītaṃ",
+     "gloss": "beyond-order-disorder-discussion",
+     "grounds": "token 1 of verse 180",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saṃvittattvaṃ",
+     "gloss": "consciousness-principle",
+     "grounds": "token 2 of verse 180",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sunirmalam",
+     "gloss": "very-pure",
+     "grounds": "token 3 of verse 180",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tadasyāḥ",
+     "gloss": "that-of-her",
+     "grounds": "token 4 of verse 180",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saṃvido",
+     "gloss": "consciousness",
+     "grounds": "token 5 of verse 180",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "goddess",
+     "grounds": "token 6 of verse 180",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "token 7 of verse 180",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "token 8 of verse 180",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravartanam",
+     "gloss": "operation",
+     "grounds": "token 9 of verse 180",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Where does consciousness principle operate?",
+   "premises": [
+    "consciousness principle is beyond order discussion",
+    "it is very pure",
+    "operation of goddess consciousness is anywhere"
+   ],
+   "inference": "pure consciousness principle operates anywhere",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "The pure consciousness principle operates anywhere."
+  }
+ ]
+}

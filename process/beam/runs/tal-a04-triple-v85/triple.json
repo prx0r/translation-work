@@ -1,0 +1,828 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasaṃplutyāmapi",
+     "gloss": "even-in-mental-immersion",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nādhigate",
+     "gloss": "does-not-attain",
+     "grounds": "token 4",
+     "morph": "3.sg.act-pres+root-adhigam"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "path",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyarthatā",
+     "gloss": "futility",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nānavasthā",
+     "gloss": "no-infinite-regress",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nānyonyāśrayatāpi",
+     "gloss": "nor-mutual-dependence-even",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does mental immersion avoid regress and mutual dependence?",
+   "premises": [
+    "mental immersion does not attain path",
+    "no futility arises",
+    "no infinite regress arises"
+   ],
+   "inference": "mental immersion remains coherent without regress or mutual dependence",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus even in mental immersion, no path is attained; there is no futility, no infinite regress, and no mutual dependence."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogāṅgamiyati",
+     "gloss": "yoga-limb-inquiry",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarka",
+     "gloss": "reasoning",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāparam",
+     "gloss": "another",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "antarantaḥ",
+     "gloss": "inner-inner",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāmarśapāṭavātiśayāya",
+     "gloss": "for-excellence-of-reflection",
+     "grounds": "token 8",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is reasoning alone not another inner means?",
+   "premises": [
+    "yoga limb inquiry uses reasoning only",
+    "no other inner means remains",
+    "reflection excellence is the aim"
+   ],
+   "inference": "reasoning serves reflection excellence rather than becoming another inner means",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus in yoga-limb inquiry, reasoning alone is not another inner means; it is for excellence of reflection."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "ahiṃsā",
+     "gloss": "non-harm",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satyamasteyabrahmacaryāparigrahāḥ",
+     "gloss": "truth-non-stealing-celibacy-non-possession",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yamāḥ",
+     "gloss": "restraints",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sākṣātsaṃvittau",
+     "gloss": "in-direct-awareness",
+     "grounds": "token 6",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nopayoginaḥ",
+     "gloss": "not-useful",
+     "grounds": "token 7",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are the five restraints not useful in direct awareness?",
+   "premises": [
+    "five restraints are non-harm truth non-stealing celibacy non-possession",
+    "direct awareness is immediate",
+    "restraints are not useful there"
+   ],
+   "inference": "restraints are preparatory rather than useful in direct awareness",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The five restraints—non-harm, truth, non-stealing, celibacy, non-possession—are not useful in direct awareness."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "tapaḥprabhṛtayo",
+     "gloss": "austerities-and-so-forth",
+     "grounds": "token 1",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyamā",
+     "gloss": "observances",
+     "grounds": "token 4",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yattathāsanam",
+     "gloss": "and-posture",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṇāyāmāśca",
+     "gloss": "and-breath-control",
+     "grounds": "token 6",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "token 7",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvametadbāhyavijṛmbhitam",
+     "gloss": "all-this-external-manifestation",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why are austerities observances posture and breath control external?",
+   "premises": [
+    "austerities and observances are external",
+    "posture and breath control are external",
+    "all this is external manifestation"
+   ],
+   "inference": "these practices belong to external manifestation",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Austerities and observances, posture, and breath control—all this is external manifestation."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "śrīmadvīrāvalau",
+     "gloss": "in-viravali",
+     "grounds": "token 1",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "coktaṃ",
+     "gloss": "was-said",
+     "grounds": "token 2",
+     "morph": "3.sg.pass-past+root-vac"
+    },
+    {
+     "surface": "bodhamātre",
+     "gloss": "in-awareness-only",
+     "grounds": "token 3",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śivātmake",
+     "gloss": "in-shiva-nature",
+     "grounds": "token 4",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cittapralayabandhena",
+     "gloss": "by-mind-dissolution-bond",
+     "grounds": "token 5",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pralīne",
+     "gloss": "dissolved",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaśibhāskare",
+     "gloss": "moon-and-sun",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What was said about awareness in Shiva-nature?",
+   "premises": [
+    "in viravali it was said",
+    "awareness only is shiva-nature",
+    "mind dissolution bond dissolves moon and sun"
+   ],
+   "inference": "awareness in Shiva-nature transcends lunar and solar duality",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In Viravali it was said: in awareness only, of Shiva-nature, by mind-dissolution bond, moon and sun are dissolved."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "prāpte",
+     "gloss": "when-reached",
+     "grounds": "token 1",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśe",
+     "gloss": "twelfth",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "token 4",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jīvāditye",
+     "gloss": "in-living-sun",
+     "grounds": "token 5",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svabodhake",
+     "gloss": "self-knowing",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "was-declared",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇāyāmo",
+     "gloss": "breath-control",
+     "grounds": "token 11",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirarthakaḥ",
+     "gloss": "useless",
+     "grounds": "token 12",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is breath control useless after liberation?",
+   "premises": [
+    "twelfth part reached in living sun",
+    "self-knowing liberation declared",
+    "breath control useless"
+   ],
+   "inference": "breath control becomes useless once self-knowing liberation is reached",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "When the twelfth part is reached in the living sun, self-knowing liberation alone is declared; breath control is useless."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "prāṇāyāmo",
+     "gloss": "breath-control",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śarīraṃ",
+     "gloss": "body",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "token 5",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pīḍyate",
+     "gloss": "is-tormented",
+     "grounds": "token 6",
+     "morph": "3.sg.pass-pres+root-pīḍ"
+    },
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "token 8",
+     "morph": "3.sg.act-pres+root-vid"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 11",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "liberated",
+     "grounds": "token 12",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 13",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 14",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mocakaḥ",
+     "gloss": "liberator",
+     "grounds": "token 15",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why should breath control not torment the body?",
+   "premises": [
+    "breath control should not be done",
+    "body is tormented by it",
+    "one who knows secret is liberated and liberator"
+   ],
+   "inference": "breath control that torments body is rejected; secret knowledge liberates",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Breath control should not be done if it torments the body; one who knows the secret is liberated and is a liberator."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "pratyāhāraśca",
+     "gloss": "and-withdrawal",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāmāyamarthebhyo@kṣadhiyāṃ",
+     "gloss": "named-this-from-objects-senses",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anibaddhasya",
+     "gloss": "of-unbound",
+     "grounds": "token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bandhasya",
+     "gloss": "of-bond",
+     "grounds": "token 6",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tadantaḥ",
+     "gloss": "its-end",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīlanam",
+     "gloss": "pinning",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is withdrawal of senses from objects?",
+   "premises": [
+    "withdrawal is named from objects and senses",
+    "it pins unbound bond at its end",
+    "it is indeed pinning"
+   ],
+   "inference": "withdrawal pins the unbound bond at its end",
+   "uncertainties": [
+    "compound segmentation approximate",
+    "surface contains @ symbol"
+   ],
+   "plain_english": "Withdrawal, named from objects and senses, indeed pins the unbound bond at its end."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "cittasya",
+     "gloss": "of-mind",
+     "grounds": "token 1",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "viṣaye",
+     "gloss": "in-object",
+     "grounds": "token 2",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "somewhere",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhanaṃ",
+     "gloss": "binding",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhāraṇātmakam",
+     "gloss": "concentration-natured",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatsadṛgjñānasaṃtāno",
+     "gloss": "like-that-knowledge-continuity",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyānamastamitā",
+     "gloss": "meditation-setting",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does concentration become meditation and supreme state?",
+   "premises": [
+    "mind binding in object is concentration-natured",
+    "like-that knowledge continuity is meditation",
+    "supreme setting follows"
+   ],
+   "inference": "concentration develops into meditation and supreme setting",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Binding of mind in an object is concentration-natured; like-that knowledge continuity is meditation; supreme setting follows."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyatādātmyameva",
+     "gloss": "objectness-identity-only",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃvidi",
+     "gloss": "in-awareness",
+     "grounds": "token 4",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "token 5",
+     "morph": "3.sg.act-pres+root-jan"
+    },
+    {
+     "surface": "grāhyagrahaṇatādvaitaśūnyateyaṃ",
+     "gloss": "subject-object-duality-emptiness",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samāhitiḥ",
+     "gloss": "absorption",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "When does absorption become subject-object duality emptiness?",
+   "premises": [
+    "objectness identity arises in awareness",
+    "subject-object duality emptiness results",
+    "that is absorption"
+   ],
+   "inference": "absorption is emptiness of subject-object duality in awareness",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "When objectness-identity alone arises in awareness, this absorption is emptiness of subject-object duality."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "tadeṣā",
+     "gloss": "that-this",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhāraṇādhyānasamādhitritayī",
+     "gloss": "concentration-meditation-absorption-triad",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "token 3",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃvidaṃ",
+     "gloss": "awareness",
+     "grounds": "token 4",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṃcidupayogaṃ",
+     "gloss": "any-use",
+     "grounds": "token 7",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samaśnute",
+     "gloss": "attains",
+     "grounds": "token 8",
+     "morph": "3.sg.act-pres+root-aś"
+    }
+   ],
+   "question": "Does the triad of concentration meditation absorption aid supreme awareness?",
+   "premises": [
+    "concentration meditation absorption triad exists",
+    "it attains no use toward supreme awareness",
+    "supreme awareness is beyond it"
+   ],
+   "inference": "the triad does not aid supreme awareness",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "That triad of concentration, meditation, and absorption attains no use toward supreme awareness."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "yogāṅgatā",
+     "gloss": "yoga-limb-status",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yamādestu",
+     "gloss": "from-restraints-onward",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samādhyantasya",
+     "gloss": "ending-in-absorption",
+     "grounds": "token 3",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "varṇyate",
+     "gloss": "is-described",
+     "grounds": "token 4",
+     "morph": "3.sg.pass-pres+root-varṇ"
+    },
+    {
+     "surface": "svapūrvapūrvopāyatvādantyatarkopayogataḥ",
+     "gloss": "by-prior-means-and-final-reasoning-use",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is yoga limb status described from restraints to absorption?",
+   "premises": [
+    "yoga limb status is described",
+    "from restraints to absorption",
+    "by prior means and final reasoning use"
+   ],
+   "inference": "yoga limbs are described as progressive means ending in absorption",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Yoga-limb status, from restraints to absorption, is described because of prior means and final reasoning use."
+  }
+ ]
+}

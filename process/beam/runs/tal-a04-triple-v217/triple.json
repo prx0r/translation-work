@@ -1,0 +1,437 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "anyonyāśrayavaiyarthyānavasthā",
+     "gloss": "mutual-dependence-futility-infinite-regress",
+     "grounds": "compound of anyonya-ashraya-vaiyartha-anavastha",
+     "morph": "compound"
+    },
+    {
+     "surface": "itthamatra",
+     "gloss": "thus-here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthivī",
+     "gloss": "earth",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jalataḥ",
+     "gloss": "from-water",
+     "grounds": "ablative singular neuter",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śuddhyejjalaṃ",
+     "gloss": "would-be-purified-water",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "dharaṇitastathā",
+     "gloss": "from-earth-thus",
+     "grounds": "ablative with adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does mutual dependence produce futility and infinite regress here?",
+   "premises": [
+    "earth is purified from water",
+    "water is purified from earth",
+    "each depends on the other"
+   ],
+   "inference": "mutual purification is futile and leads to infinite regress",
+   "uncertainties": [
+    "exact sandhi of śuddhyejjalaṃ"
+   ],
+   "plain_english": "Thus here earth would be purified from water and water from earth, a mutual dependence that is futile and leads to infinite regress."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "anyonyāśrayatā",
+     "gloss": "mutual-dependence",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "seyamaśuddhatve@pyayaṃ",
+     "gloss": "this-in-impurity-even-this",
+     "grounds": "compound with sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "order",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśuddhājjalataḥ",
+     "gloss": "from-impure-water",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śuddhyeddhareti",
+     "gloss": "would-be-purified-earth-thus",
+     "grounds": "optative with adverb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "vyarthatā",
+     "gloss": "futility",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "Why does mutual dependence in impurity make the order futile?",
+   "premises": [
+    "mutual dependence is this order",
+    "impure water purifies earth",
+    "the reverse also holds"
+   ],
+   "inference": "such mutual purification is futile",
+   "uncertainties": [
+    "sandhi split of seyamaśuddhatve@pyayaṃ"
+   ],
+   "plain_english": "This mutual dependence, even in impurity, makes the order futile: impure water would purify earth and vice versa."
+  },
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "vāyuto",
+     "gloss": "from-air",
+     "grounds": "ablative with enclitic",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vāriṇo",
+     "gloss": "of-water",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vāyostejasastasya",
+     "gloss": "of-air-of-fire-of-that",
+     "grounds": "compound genitives",
+     "morph": "compound"
+    },
+    {
+     "surface": "vānyataḥ",
+     "gloss": "or-from-elsewhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahurūpādikā",
+     "gloss": "many-formed-and-so-forth",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pāvanātteṣu",
+     "gloss": "purifiers-in-them",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śuddhatā",
+     "gloss": "purity",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How do mantras purify the elements?",
+   "premises": [
+    "air purifies water",
+    "fire purifies air",
+    "mantras are many-formed purifiers"
+   ],
+   "inference": "mantras bring purity to the elements",
+   "uncertainties": [
+    "exact compound boundaries"
+   ],
+   "plain_english": "From air water, from fire air, or from elsewhere; many-formed mantras are purifiers, and purity arises in them."
+  },
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svabhāvataḥ",
+     "gloss": "by-nature",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhā",
+     "gloss": "pure",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te@pi",
+     "gloss": "they-even",
+     "grounds": "pronoun with particle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivātmatā",
+     "gloss": "Shiva-nature",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "śuddhiryadi",
+     "gloss": "purity-if",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatrāpi",
+     "gloss": "there-even",
+     "grounds": "adverb with particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "why",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "If mantras are pure by nature, why is Shiva-nature needed?",
+   "premises": [
+    "mantras are pure by nature",
+    "if so Shiva-nature is unnecessary",
+    "if purity is in them, that too is unnecessary"
+   ],
+   "inference": "either mantras are already pure or Shiva-nature is redundant",
+   "uncertainties": [
+    "rhetorical force of double kim"
+   ],
+   "plain_english": "If mantras are pure by nature, why then Shiva-nature? If purity is in them, why is that needed there too?"
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "śivātmatvāparijñānaṃ",
+     "gloss": "non-recognition-of-Shiva-nature",
+     "grounds": "compound with negative prefix",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṣu",
+     "gloss": "in-mantras",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "dharādivat",
+     "gloss": "like-earth-and-so-forth",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śuddhā",
+     "gloss": "pure",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cettajjñaptistarhi",
+     "gloss": "if-so-then-cognition",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śuddhatā",
+     "gloss": "purity",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "If mantras are pure like earth, what is the cognition of purity?",
+   "premises": [
+    "non-recognition of Shiva-nature is not in mantras",
+    "like earth they are pure by that",
+    "if so cognition of purity follows"
+   ],
+   "inference": "purity is a cognition, not mere absence of impurity",
+   "uncertainties": [
+    "compound split of cettajjñaptistarhi"
+   ],
+   "plain_english": "Non-recognition of Shiva-nature is not in mantras as in earth; if they are pure by that, then cognition of purity is purity itself."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "yoginaṃ",
+     "gloss": "for-the-yogi",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "towards",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāsti",
+     "gloss": "and-is",
+     "grounds": "verb third singular",
+     "morph": "v.3.sg.pres"
+    },
+    {
+     "surface": "bhāveṣviti",
+     "gloss": "in-things-thus",
+     "grounds": "locative plural with quotative",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśuddhatā",
+     "gloss": "complete-purity",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "codanayā",
+     "gloss": "by-injunction",
+     "grounds": "instrumental singular",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "śuddhyaśuddhyādikaviniścayaḥ",
+     "gloss": "determination-of-pure-impure-and-so-forth",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Is complete purity for the yogi determined by injunction?",
+   "premises": [
+    "that purity exists for the yogi",
+    "in things there is complete purity",
+    "injunction determines pure and impure"
+   ],
+   "inference": "purity for the yogi is established by scriptural injunction",
+   "uncertainties": [
+    "scope of codanayā"
+   ],
+   "plain_english": "For the yogi that purity exists in things; indeed, by injunction the determination of pure, impure, and so forth is made."
+  }
+ ]
+}
