@@ -33,7 +33,7 @@ def main() -> int:
     all_toks = [t for v in verses for t in spans[v]]
     src_sha = hashlib.sha256(' '.join(all_toks).encode()).hexdigest()[:16]
 
-    out, ptr, headers = [], 0, []
+    out, ptr, headers, gaps = [], 0, [], []
     for header, vrange, body in secs:
         m = re.search(r'(\d+)\.(\d+)-(\d+)\.(\d+)', vrange)
         if not m:
@@ -51,9 +51,13 @@ def main() -> int:
                 for wa, wb in zip(range(a1, a2), range(b1, b2)):
                     w2t[wa] = wb
         if len(w2t) != len(want):
-            missing = [want[i] for i in range(len(want)) if i not in w2t][:8]
-            print(f'GAP {header}: covered {len(w2t)}/{len(want)} e.g. {missing}')
-            return 1
+            # Gap-tolerant: record the exact missing span tokens for assessor
+            # hand-fill, skip these verses, keep parsing the rest. Coverage is
+            # enforced downstream (validate_song), never faked here.
+            missing = [want[i] for i in range(len(want)) if i not in w2t]
+            gaps.append({'header': header, 'lo': lo, 'hi': hi, 'missing': missing})
+            print(f'GAP {header}: covered {len(w2t)}/{len(want)} e.g. {missing[:8]}')
+            continue
         # slice per verse in span order
         k = 0
         for v in range(lo, hi + 1):
@@ -72,6 +76,10 @@ def main() -> int:
     print(f'wrote {len(out)} verses, source_sha={src_sha}')
     for h, txt in headers:
         print(f'HEADER {h}: {txt}')
+    if gaps:
+        (w / f'working-t1-{a.song}.gaps.json').write_text(json.dumps(gaps, indent=1, ensure_ascii=False))
+        print(f'GAPS {len(gaps)} sections need assessor hand-fill: see working-t1-{a.song}.gaps.json')
+        return 2
     return 0
 
 
