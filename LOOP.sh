@@ -26,7 +26,7 @@ while [ "$i" -lt "$MAX_ITERS" ]; do
   i=$((i + 1))
   if [ -f "$LOGDIR/LOOP.STOP" ]; then echo "[loop] STOP file present — exiting."; break; fi
   echo "[loop] === iteration $i/$MAX_ITERS $(date -u +%FT%TZ) ==="
-  out="$(cat PROMPT.md | timeout 5400 npx -y opencode-ai run -m "$MODEL" --dir /root/translation-work 2>>"$LOGDIR/loop.log")"
+  out="$(cat PROMPT.md | timeout 5400 npx -y opencode-ai run --auto -m "$MODEL" --dir /root/translation-work 2>>"$LOGDIR/loop.log")"
   echo "$out" | tail -n 20 >>"$LOGDIR/loop.log"
   if printf '%s' "$out" | grep -q "<promise>$PROMISE</promise>"; then
     echo "[loop] PROMISE $PROMISE seen — Tantraloka finished set COMPLETE."
