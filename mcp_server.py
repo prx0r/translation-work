@@ -497,10 +497,20 @@ def _workers(action: str, target: str = "1") -> dict:
     return {"error": "action must be status|start|stop"}
 
 
+@mcp.tool()
+def review_sweep() -> dict:
+    """Run the assessor daemon sweep: mechanical verdicts for new DONE
+    triples (question/premise/uncertainty shape), escalate content-failures
+    at max to the hand-draft backlog, seed lore_queries for unbriefed fronts.
+    Never bounces, never approves prose, never writes data/. The loop's eyes
+    while the model sleeps — meaning judgment stays queued for assessor."""
+    return _run(["tools/assessor_sweep.py"], timeout=300)
+
+
 TOOLS = ["status", "validate", "lore", "swarm_status",
          "swarm_seed", "swarm_review", "swarm_decide", "promote",
          "skill", "concepts", "gates", "recon", "assemble", "supervise",
-         "swarm_workers"]
+         "swarm_workers", "review_sweep"]
 
 
 if __name__ == "__main__":

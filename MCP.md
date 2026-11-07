@@ -185,6 +185,14 @@ expiry. Doctrine: start ONE; add a second only if quota is healthy; never
 pound a throttled tier. Supervisors (ralph/watchdog) keep their own workers —
 use this tool for deliberate single-worker operation, not to fight them.
 
+### `review_sweep()` — read + log + queue-seed. The assessor daemon.
+
+Mechanical verdicts for new DONE triples (question/premise/uncertainty shape),
+escalation of content-failures-at-max to the hand-draft backlog, `lore_queries`
+seeding for unbriefed fronts. Never bounces, never approves prose, never
+writes data/. Runs inside ralph every pass — the loop's eyes while the model
+sleeps; meaning judgment stays queued.
+
 ## 4. Standard flows (with worked sessions)
 
 **Small work — one verse by hand (assessor-direct).**

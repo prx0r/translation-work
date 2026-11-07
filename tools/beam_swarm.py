@@ -760,6 +760,12 @@ def worker_loop(name: str) -> int:
     import threading as _th
     _b._key()
     while True:
+        # Graceful pause: watchdog touches STATE/PAUSED when beam is throttled.
+        # Finish nothing new — exit so no fresh claims burn quota; in-flight
+        # tasks are unaffected (this check runs between tasks, never mid-task).
+        if (STATE / 'PAUSED').exists():
+            print(f'[{name}] paused by watchdog, exiting')
+            return 0
         tasks = load_q()
         t = claim(tasks, name)
         if not t:

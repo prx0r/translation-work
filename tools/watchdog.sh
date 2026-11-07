@@ -22,10 +22,11 @@ start_workers(){
 }
 
 start_driver(){
-  if ! pgrep -f "tal_run_all.sh" >/dev/null 2>&1; then
-    setsid nohup bash tools/tal_run_all.sh >> "$LOGDIR/tal_campaign.log" 2>&1 < /dev/null &
-    log "started driver"
-  fi
+    # flock singleton: at most one driver; lock releases itself if it dies.
+    if ! pgrep -f "tal_run_all.sh" >/dev/null 2>&1; then
+      setsid flock -n "$LOGDIR/driver.lock" bash tools/tal_run_all.sh >> "$LOGDIR/tal_campaign.log" 2>&1 < /dev/null &
+      log "started driver"
+    fi
 }
 
 reap_stale_claims(){
@@ -39,7 +40,9 @@ for t in q:
     f=f"process/beam/claims/{t['id']}.json"
     try: age=now-os.path.getmtime(f)
     except OSError: age=9999
-    if age > 1500:  # 25 min: owner dead (24-verse calls can take 10)
+    if age > 1500:  # 25 min: orphan cleanup only. Active tasks heartbeat every
+        # 5 min (beam_swarm worker_loop) so only truly dead claims reach here;
+        # live claims are stolen earlier via the 15-min claim path.
         t['status']='pending'; t['attempts']=min(t.get('attempts',0),2); n+=1
         try: os.unlink(f)
         except OSError: pass
@@ -101,13 +104,13 @@ PY
   then
     if [ "$PAUSED" = "0" ]; then
       log "beam-free unavailable (429/limit) — PAUSING 30m (queue preserved, no model swap)"
-      pkill -f "beam_swarm.py worker" 2>/dev/null
+      touch "$LOGDIR/PAUSED"   # workers drain between tasks, never killed mid-call
       PAUSED=1
     fi
     sleep 1800
     continue
   fi
-  if [ "$PAUSED" = "1" ]; then log "beam-free back — RESUMING"; PAUSED=0; fi
+  if [ "$PAUSED" = "1" ]; then log "beam-free back — RESUMING"; rm -f "$LOGDIR/PAUSED"; PAUSED=0; fi
   start_driver
   start_workers
   reap_stale_claims

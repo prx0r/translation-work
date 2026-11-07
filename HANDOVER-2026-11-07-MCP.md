@@ -50,3 +50,18 @@
 - Duplicate `tal_run_all.sh` drivers observed (2 PIDs) — verify single driver.
 - Hand-draft backlog: 26 content-failed groups, shortest-first a30/a05.
 - Full-gold upgrades (C1-7part+rasa+L3/L4) untouched — minimal first, per plan.
+
+## Addendum — process flaws found + fixed (assessor audit, 2026-11-07)
+
+1. Claims went stale mid-task (429 backoff sleeps outlast 15-min window) → worker heartbeat touches claim flag every 5 min; death stops it (self-heal preserved).
+2. Duplicate tal_run_all.sh drivers → flock singleton in watchdog start_driver.
+3. ralph hardcoded 5 workers → RALPH_WORKERS env (default 5; run "w1 w2 w3").
+4. Queue notes unbounded (history append) → capped at 400 chars in mark().
+5. No automated review → tools/assessor_sweep.py (verdicts + escalations + lore-gap seeding), wired into ralph.sh every pass.
+6. REGISTRY header counters rotted → promote recomputes gold/pending/totals.
+7. `review_sweep` MCP tool (16 tools total) — the loop's eyes, callable.
+8. Help/docs drift (triple group 4→24) → tal_stage help + SKILL §14 updated.
+9. watchdog pkill'd workers mid-task → PAUSE-file convention (drain between tasks); reap comment documents heartbeat design.
+10. Beam health probe used 32 tokens (deterministic null, mistakes #22) → 2000-token probe.
+
+All fixes verified: syntax OK (py + bash -n), gates green, MCP handshake 16/16.

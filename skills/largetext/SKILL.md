@@ -314,11 +314,12 @@ never a replacement, and it never carries reader-facing prose.
 ## 14. TAL campaign (batch tricks that paid, and the next lever)
 
 Proven throughput lever #1: **3 calls per verse → 1 call per verse-group.**
-`tal_triple` asks one beam call for glosses+CM+argmap+L2 of 4 verses, then
+`tal_triple` asks one beam call for glosses+CM+argmap+L2 of a verse-group
+(default 24 verses; groups auto-halve on output ceiling), then
 materialises the per-verse files the assemble stage already reads
 (`runs/<song>-{gloss,cm,am}-vNN/`). Validation is per verse, so a group
-fails as a unit and falls back to per-verse tasks for the rejects. Expect
-~4× fewer requests and far less session overhead; latency, not tokens, is
+fails as a unit and falls back to per-verse tasks for the rejects. Fewer,
+bigger calls also dodge the per-request 429 limiter; latency, not tokens, is
 the binding constraint (free tier is $0).
 
 Other levers, in order of measured value:

@@ -11,6 +11,9 @@ cd /root/translation-work || exit 1
 export OPENCODE_GO_KEY="$(agent-vault vault credential get OPENCODE_GO_KEY --vault oracle)"
 MAX_ITER=${1:-240}
 SLEEP_SECS=${2:-180}
+# Worker count: space-separated w-slots. Default 5; run RALPH_WORKERS="w1 w2 w3"
+# for a gentler footprint on the free tier (user directive: start ONE, add up).
+RALPH_WORKERS=${RALPH_WORKERS:-"w1 w2 w3 w4 w5"}
 
 log() { echo "[ralph $(date -u +%FT%TZ)] $*"; }
 log "start max_iter=$MAX_ITER sleep=$SLEEP_SECS"
@@ -24,8 +27,8 @@ for ((i = 1; i <= MAX_ITER; i++)); do
     python3 tools/manifest.py gen >/dev/null 2>&1 && log "manifest regenerated" || log "manifest gen FAILED — needs assessor"
   fi
 
-  # 1. supervise beam drafters (restart dead, keep 5)
-  for w in w1 w2 w3 w4 w5; do
+  # 1. supervise beam drafters (restart dead, keep configured set)
+  for w in $RALPH_WORKERS; do
     if ! pgrep -f "beam_swarm.py worker $w" >/dev/null 2>&1; then
       setsid nohup python3 tools/beam_swarm.py worker "$w" > "process/beam/$w.log" 2>&1 < /dev/null &
       log "restarted worker $w"
@@ -34,6 +37,10 @@ for ((i = 1; i <= MAX_ITER; i++)); do
 
   # 2. assessor-batch: auto-approve gate-verified window briefs (never prose pilots)
   python3 tools/beam_swarm.py auto-review 2>&1 | while IFS= read -r l; do log "auto-review: $l"; done
+
+  # 2b. assessor daemon: verdict new dones, escalate content-failures, seed
+  # lore_queries for unbriefed fronts. Read-only + queue seeds + log only.
+  python3 tools/assessor_sweep.py 2>&1 | while IFS= read -r l; do log "assessor-sweep: $l"; done
 
   # 3. convert approved pilots whose canonical JSON is missing
   python3 tools/ralph_convert.py 2>&1 | while IFS= read -r l; do log "convert: $l"; done
