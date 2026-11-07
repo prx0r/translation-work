@@ -2,100 +2,309 @@
 
 *2026-11-07. Server: `mcp_server.py` (FastMCP stdio, 14 tools). Registered as
 `shastra` in `~/.config/opencode/opencode.jsonc` — restart opencode to load.
-This file is the documentation: what each tool is FOR, WHEN to use it, how the
-lanes and the autonomous loop fit, and what to do when things break. The law
-behind the tools lives in the skills — fetch it with `skill` before acting.*
+This file is the complete manual: concepts, lanes, every tool with WHEN and
+worked examples, the autonomous loop, troubleshooting, and boundaries. The law
+behind the tools lives in the skills — fetch it with `shastra.skill` before
+acting. On any conflict between this file and the skills, the skills win
+(after the 2026-11-01 User Directive in AGENTS.md).*
 
-## 0. The shape (two lanes, one gate)
+## Contents
 
-```
-SMALL (crystal-ipvv — the ONLY path to gold)     LARGE (largetext swarm)
-  status → recon → lore → hand-draft               status → recon → lore → swarm_seed
-  → validate → gates                                 → workers draft → swarm_review
-                                                     → swarm_decide → assemble
-                                                     → validate → promote → gates
-```
+1. Concepts — DUMB/SMART/scripts, machine-proposed, the layers
+2. Skills — the law, and how to load it
+3. Tool reference — all 14 tools: purpose, args, returns, WHEN, example
+4. Standard flows — small work, large work, autonomy (with worked sessions)
+5. Decision trees — which lane, which tool next
+6. Troubleshooting — symptoms, causes, fixes
+7. Autonomy wiring — the supervisors and how they fit
+8. Boundaries — what the MCP will never do
+9. FAQ
 
-- **DUMB (beam drafters):** prose + coverage. Stateless, no judgment.
-- **SMART (you, the caller):** transmission briefs, reviews, forks, PASS calls.
-- **Scripts (tools/*):** assemble, validate, prove. Never author.
-- **Gates decide green; humans dispose.** Every promotion is machine-proposed.
+---
 
-## 1. Skills (the law — load first)
+## 1. Concepts
 
-| skill tool arg | File | When |
+**DUMB (beam drafters, `beam-free`, $0).** Fast, obedient, stateless. One task,
+one session ID, no memory, no tools, no judgment. Allowed: prose drafts,
+coverage, span tiling, first-draft reasoning. Forbidden: canon, adjudication,
+witnesses, PASS, signoff, push. When it fails, it fails mechanically (format,
+uniformity, thin premises) — fix the packet (brief, windows, group size),
+not the model. Throughput: a full TAL-brief batch per half hour; prose
+~5–10 min per 24-verse group.
+
+**SMART (you, the caller).** Holds the whole text, the scholarship, and the
+gates. Writes transmission briefs (web search first), reviews every draft,
+adjudicates forks, runs converters and proofs, owns every PASS. Irreplaceable
+because meaning has no mechanical proxy: uniform briefs pass pydantic schema
+checks, and vote-counting once laundered 3,044 real errors (mistakes #20).
+
+**Scripts (`tools/*`).** Assemble (converters, mergers), never author.
+Pydantic validates SHAPE; only the assessor validates MEANING.
+
+**Machine-proposed.** Everything the swarm produces is labeled machine-proposed
+pending human review. Promotion into canonical `data/` is an assessor act
+(`swarm_decide approve` + converters + validators), never a worker act.
+COMPLETE always means "machine-proposed, needs human review" until a human
+signs off. No exceptions.
+
+**The layers (what each one is).** SOURCE (sha-pinned) → T1 (fast
+verse-draft + per-token quick gloss; coverage before sharpness) → L0 (term
+audit: morphology + ranked options with grounds; forks live HERE only) →
+ARGMAP (whole-verse argument, adjudicates forks on the record) → L2 (plain
+read prose, every clause traces to L0, byte-exact cites) → C1 (essence +
+7-part essay; states the matters, never the document) → L3 (frozen final
+verse) → L4 (song; music never doctrine) → proof (B1–B8 machine checks) →
+site. Minimal gold = T1/L0/argmap/L2/C1-essence + proof PASS with L3/L4
+waived. Full gold adds the 7-part C1 + rasa + L3 + L4.
+
+## 2. Skills (the law — load first)
+
+| `shastra.skill` arg | File | Load it when |
 |---|---|---|
-| `crystal-ipvv` | `skills/crystal-ipvv/SKILL.md` (+`EXAMPLES.md`) | ANY translation act: the 11-step drill, layer contracts, gates, one-work-at-a-time rule |
-| `largetext` | `skills/largetext/SKILL.md` (+`EXAMPLES.md`) | ANY swarm act: DUMB/SMART split, transmission, windows ≤60, size routing, calibration, autonomy loop |
+| `crystal-ipvv` (or `crystal`) | `skills/crystal-ipvv/SKILL.md` + `EXAMPLES.md` | Before ANY translation act: the 11-step drill, layer contracts, per-layer prompts with good/bad exhibits, gates, one-work-at-a-time |
+| `largetext` (or `large`) | `skills/largetext/SKILL.md` + `EXAMPLES.md` | Before ANY swarm act: DUMB/SMART split, transmission briefs, window rule (≤60 verses), size routing, calibration benchmarks, autonomy loop, factory porting |
 
-`shastra.skill` serves both texts verbatim. Read crystal-ipvv before touching a
-verse; read largetext before seeding a batch. On conflict, SKILL.md + LAYERS.md
-win (after the 2026-11-01 User Directive in AGENTS.md).
+`shastra.skill` serves both texts verbatim (truncated at 12k chars each —
+read the files directly for the full text). Also canonical: `FINAL-PROCESS.md`
+(the process), `LAYERS.md` (contracts), `crystal.md` (finished-work standard),
+`mistakes.md` (26 binding failure rules), `BEAM-FLOW.md` (operator runbook).
 
-## 2. Tool reference — WHEN to use each
+## 3. Tool reference
 
-| Tool | Kind | When to use |
-|---|---|---|
-| `status(work, song?)` | read | FIRST call on any work: REGISTRY + STATUS + data counts + proof state + lore presence + size routing (`<1k` tokens assessor-direct, `>1k` swarm-first) |
-| `recon(work)` | read | New front: spans census, workcfg registration, legacy T1, beam coverage. Never queue tasks blind — recon first |
-| `lore(work)` | read | Before seeding AND before drafting: returns the cached 1-page brief (IS/MOVES/TRAPS/APPROACH). No brief → write one from web scholarship (10 min saves hours of bounce), then seed |
-| `concepts(term)` | read | Hand-glossing: MITRA ranked senses + concept-DB entry = the `grounds+source` L0 options need. Unknown headwords return [] — never invent |
-| `skill(name)` | read | Before any lane act (see §1) |
-| `swarm_seed(work, song, group=24)` | queue-only | After lore exists. Idempotent (only missing groups). Refuses unbriefed fronts |
-| `swarm_status()` | read | Queue by kind + worker liveness. Workers exit when empty — relaunch per batch, don't panic |
-| `swarm_review(task_id)` | read | Every DONE task before use: draft + 5-point meaning checklist (verse-owned Q? terse premises? honest uncertainties? no forks/witnesses/PASS? traces byte-exact?) |
-| `swarm_decide(task, approve|bounce, note)` | queue-only | approve: brief/pilot/distill kinds only. bounce: note MUST be actionable (span format, missing verses, flabby Q, paraphrase-not-argument), ≥10 chars. Max attempts → escalate to hand-draft, never auto-retry content (mistakes #20) |
-| `assemble(work, song)` | write (working+data) | Runs complete → working-T1/L0 + data t1/l0/argmap/l2 (+C1-essence skeleton) → validate + proof. Machine-proposed |
-| `validate(work, song)` | read | `validate_song` (schemas + cross-layer invariants) + `proof_record --shastra`. Fixes nothing — reports |
-| `promote(work, song)` | write (STATUS/REGISTRY/MANIFEST) | validate 0 + proof PASS required, else REFUSES. Records minimal gold (L3/L4 waived), machine-proposed. Never pushes, never signs off |
-| `gates()` | read | The one gate: manifest freshness + proof sweep + passages ledger + dbread. Green = shippable |
-| `supervise(start_missing?)` | read (+start) | The autonomy button: reports continue/ralph/watchdog/driver/workers; optionally (re)starts absent supervisors without duplicating. Never pushes itself |
+Conventions: all tools take a single JSON object; all return JSON. `work` is
+the directory name (`tantraloka-a17`); `song` is the verse-addressed unit
+(`tal-a17`). Read tools never write. Write tools never push, sign off, or
+mark final.
 
-## 3. Standard flows
+### `status(work, song?)` — read. The entry point. Call FIRST on any work.
 
-**Small work / single verse (assessor-direct):**
-`status` → `recon` → `lore` (write if missing) → `concepts` per hard token →
-hand-write T1→L0→argmap→L2→C1 per crystal-ipvv drill → `validate` → `gates` →
-STATUS/REGISTRY as machine-proposed → human review.
+Returns: REGISTRY row, STATUS.json, per-layer data counts (`data_counts`),
+proof record, lore-brief path (or null), `source_tokens`, and `routing`:
+`assessor-direct (<1k)` — write it by hand; `swarm-first (>1k)` — seed beam
+first, redacting after. (Threshold counts Sanskrit whitespace tokens; a 122v
+ahnika ≈ 930 tokens sits on the line — route by judgment, defaulting to swarm
+for passages, hand for single verses.)
 
-**Large work (swarm):**
-`status` → `recon` → `lore` (mandatory — unbriefed seeds degenerate,
-mistakes #21) → `swarm_seed` (windows ≤60 auto? No — seed per song; keep songs
-≤60 verses or split windows first) → workers draft (supervise) →
-`swarm_review` each DONE → `swarm_decide` (bounce actionable / approve briefs) →
-`assemble` when runs complete → `validate` → `promote` → `gates`.
+Example — `{"work": "tantraloka-a17", "song": "tal-a17"}` returns registry
+status, 122/930/122/122 counts, proof PASS 1.0, brief path, routing.
 
-**Autonomy (leave-it-running):**
-`supervise(start_missing=true)` → continue.sh (300s: sync+seed, keeps ralph
-alive) → ralph.sh (180s × 240: 5 workers, auto-review briefs ONLY, convert,
-gate+push on green, drain-parks) → watchdog.sh (429 health-pause 30m,
-stale-claim reap, tal driver). Pilots/prose/forks/PASS queue for the assessor;
-the loop never judges meaning.
+### `recon(work)` — read. New-front intake report.
 
-## 4. Troubleshooting
+Returns: workcfg registration + kind + per-song verse counts, span/token
+census, legacy T1 filenames, lore presence, existing `data/*.t1.json` counts.
+Use before queuing anything: it tells you what exists, what's missing, and
+whether a brief is owed. Never queue tasks blind — recon first.
+
+### `lore(work)` — read. The transmission brief (or its absence).
+
+Returns the cached 1-page brief: what the text IS → numbered MOVES → TRAPS →
+APPROACH. Returns `brief: null` + available list when missing — that is an
+instruction, not an error: spend 10 minutes on web scholarship, write
+`process/beam/lore/tal-aNN.md`, then seed. Unbriefed seeds degenerate into
+uniform geometry (mistakes #21). Briefs are cached per front — write once,
+every later packet injects automatically.
+
+### `concepts(term, top=5)` — read. Grounds for hand-glossing.
+
+Returns MITRA frequency-ranked senses with attestations + concept-DB entry.
+Output is the `grounds + source` shape L0 options require. Unknown headwords
+return [] — look it up elsewhere, never invent. This is legwork support for
+the assessor's morphology, not a promotion path.
+
+### `skill(name)` — read. The law, verbatim.
+
+### `swarm_seed(work, song, group=24)` — queue-only. Idempotent.
+
+Seeds triple tasks (gloss+CM+argmap+L2 per verse-group) for missing coverage
+only. REFUSES unbriefed Tantraloka fronts. Default 24 verses/group; oversize
+groups auto-halve on output ceiling. Seeding is free — workers + quota are the
+constraints, not tasks.
+
+### `swarm_status()` — read. Queue by kind × status + worker liveness.
+
+Workers exit when empty — that is normal, not a crash; relaunch per batch
+(the supervisors do this). `claimed` older than 15 min = dead worker;
+self-heals on next claim (stale-flag steal).
+
+### `swarm_review(task_id)` — read. The assessor's review packet.
+
+Returns the task + all per-verse drafts (gloss/cm/am) + the 5-point meaning
+checklist: (1) question is the verse's OWN, never meta; (2) premises terse
+logical steps, never paraphrase; (3) uncertainties honest and specific;
+(4) no fork adjudication, witness cites, or PASS language; (5) surfaces
+byte-exact, rows cover every token. Read the drafts against the checklist,
+then decide.
+
+### `swarm_decide(task_id, approve|bounce, note)` — queue-only.
+
+- `approve`: brief/pilot/distill kinds ONLY. Triple output never approves —
+  it assembles via `assemble`.
+- `bounce`: note MUST be actionable (≥10 chars enforced): span format,
+  missing verses, flabby question, paraphrase-not-argument, bad row with the
+  offending surface named. Vague notes are rejected by the tool.
+- At max attempts the task escalates to the assessor hand-draft backlog —
+  the tool reports it; never auto-retry content failures (mistakes #20).
+
+### `assemble(work, song)` — write (working + data). Machine-proposed.
+
+Beam runs → working-T1/L0 + data t1/l0/argmap/l2 (+C1-essence skeleton) →
+validate + proof. Requires complete runs; reports incompleteness instead of
+partial-assembling. Pair with `promote`.
+
+### `validate(work, song)` — read. The deterministic gates.
+
+`validate_song` (schemas + the 6 cross-layer invariants: chosen==gloss,
+coverage==source, traces resolve, cites byte-exact, ...) + `proof_record
+--shastra` (alignment, C1/L2 overlap, quotes, metacommentary, cites). Reports
+only — fixes nothing. Nonzero payload on errors.
+
+### `promote(work, song)` — write (STATUS + REGISTRY + MANIFEST).
+
+Demands validate 0 errors AND proof PASS, else REFUSES with reasons. Records
+minimal gold (L3/L4 waived), updates STATUS + REGISTRY + MANIFEST. Labels
+everything machine-proposed, needs human review. Never pushes, never signs.
+
+### `gates()` — read. The one gate.
+
+Manifest freshness + proof sweep + passages ledger + dbread coverage. Exit
+nonzero in payload when unshippable. Run after every promotion; green means
+the tree is coherent.
+
+### `supervise(start_missing=false)` — read (+start). The autonomy button.
+
+Reports continue.sh / ralph.sh / watchdog.sh / tal drivers / live workers.
+With `start_missing=true`, (re)starts absent supervisors without duplicating
+running ones; never pushes itself. See §7.
+
+## 4. Standard flows (with worked sessions)
+
+**Small work — one verse by hand (assessor-direct).**
+1. `status` → `recon` → `lore` (write the brief if null — even single verses
+   benefit: traps + approach).
+2. `concepts` for each hard token (grounds, not answers).
+3. Hand-write T1 → L0 (morph + ranked options, forks with analyzed morph) →
+   argmap (terse Q/premises/inference, adjudicate forks) → L2 (rasa-carried,
+   traced, byte-exact cites) → C1 (essence + 7-part, 0 quotes/meta/shared).
+4. `validate` → fix → `gates` → STATUS/REGISTRY as machine-proposed.
+5. Human review. (C2 renders only after essence is reviewed.)
+
+**Large work — one ahnika via swarm (worked session: tal-a31, 164v).**
+1. `status(tantraloka-a31, tal-a31)` → recon: 164 spans, legacy T1 present.
+2. `lore` → brief existed (Trident mandalas, Vol 11, tantra-source spans).
+3. `swarm_seed` → groups queued; workers drafted gloss/cm/am per verse.
+4. `swarm_review` per DONE task (checklist; bounce actionable, max 3).
+5. `assemble` when runs complete (164/164/164) → validate 0 + proof PASS.
+6. `promote` → REGISTRY minimal gold. 7. `gates` → 0 failures.
+
+**Triage — quota storm (worked session: a05/a30 429s).**
+1. `swarm_status` shows mass `failed` with `beam chat failed … 429`.
+2. Distinguish: transient (transport/429 notes) vs content (premise/question/
+   row notes). Transients reset to pending with raised max — infra failures
+   must not consume the content budget. Content-at-max escalates to the
+   hand-draft backlog — never retried, never vote-promoted.
+3. Workers + watchdog pause on 429 by health gate; resume on reset. Do not
+   hammer restarts; do not swap models.
+
+**Autonomy — leave it running.**
+1. `supervise(start_missing=true)` once.
+2. continue.sh (300s): registry sync → seed → keeps ralph alive.
+3. ralph.sh (180s × 240): workers → auto-review (briefs only) → convert →
+   gate → push on green → drain-parks.
+4. watchdog.sh: 429 health-pause + stale-claim reap + tal driver.
+5. Assessors review queued prose/forks/BLOCKEDs on wake. The loop never judges
+   meaning — sampling (1-in-5 + all full-ahnika briefs) is the only content
+   check in the autonomous path.
+
+## 5. Decision trees
+
+**Which lane?**
+```
+<1k source tokens, single verse/passage → assessor-direct (SMALL flow)
+>1k tokens, or >1 verse-group → swarm-first (LARGE flow)
+philosophical density high (proofs, taxonomies) → swarm drafts, assessor redacts heavily
+fork-heavy / witness-dependent → assessor-direct regardless of size
+```
+
+**Which tool next?**
+```
+new front → status → recon → lore? (null → write brief) → seed|draft
+task DONE → swarm_review → (clean → leave for assemble) | (fixable → swarm_decide bounce) | (failed-at-max → backlog, hands off)
+runs complete → assemble → validate clean? → promote → gates green? → next front
+anything red → read the error, fix the layer, re-validate (never force)
+```
+
+## 6. Troubleshooting
 
 | Symptom | Cause | Fix |
 |---|---|---|
-| 429 Too Many Requests everywhere | Free-tier quota exhausted (binding constraint — not workers, not payload) | NOTHING to fix in code: watchdog pauses 30m, client backs off 180s×attempt. Reduce concurrency only if self-inflicted (5 workers bursting). Never swap models (beam-free hardcoded, owner directive) |
-| Workers exit instantly ("queue empty") | Nothing claimable: queue drained OR claims fresh-held by dead workers | Check `swarm_status`: if `claimed>0`, wait for 15-min stale expiry (self-heals) or confirm worker PIDs dead. Don't hammer restarts |
-| `finish=length` / null content | Small `max_tokens` vs hidden reasoning budget | `reasoning_effort: low` + generous `max_tokens` (triple uses 131072). Never retry-loop small budgets (mistakes #22) |
-| Uniform 8-blocks / "summary unavailable" | Unbriefed beam doing geometry, not reading | Write the lore brief first; window tasks ≤60 verses; variety gate rejects >80% same-length spans (mistakes #21) |
-| `premise too short` / `question rejected` / `bad row` at max attempts | Content failure, not infra | ESCALATE to hand-draft backlog. Never auto-retry, never vote-promote (mistakes #20) |
-| Brief exists but drafts ignore it | Lore-lookup filename mismatch (this exact bug bit us: `tal-{N}` vs `tal-a{N}`) | Filenames MUST be `tal-aNN.md`; lookups in beam_swarm.py must match. Regression test: `recon` reports `lore_brief`, seeds inject |
-| `promote` refuses | validate errors or proof BLOCKED without disposition | Fix data (assessor hand-work), or record BLOCKED disposition via proof tools — never force PASS |
-| `gates()` manifest-fresh red | New canonical files (passages.jsonl etc.) unregistered | `promote` regenerates manifest automatically; manual: `tools/manifest.py gen` |
-| Duplicate drivers (2× tal_run_all.sh) | Raced starts across sessions | Harmless (seeding is idempotent via have-check) but wasteful: keep the newest, kill the older by exact PID (never pkill) |
-| ralph pushed something surprising | Push-on-green is the documented contract (machine-proposed commits) | Review `git log`; revert or amend by hand. To hold pushes: stop ralph (`kill <pid>`), work, restart. Never silently rewrite pushed history |
+| 429 Too Many Requests everywhere | Free-tier quota exhausted — the binding constraint (not workers, not payload; 24-verse groups fit the 128k budget) | Nothing to fix in code. Watchdog pauses 30m; client backs off 180s×attempt. Don't hammer restarts, don't swap models (beam-free hardcoded, owner directive) |
+| Workers exit instantly ("queue empty") | Nothing claimable: drained, or claims fresh-held | `swarm_status`: `claimed>0` + workers 0 → wait for 15-min stale expiry (self-heals). Pending 0 + failed-at-max only → seed more or hand-draft the backlog |
+| `finish=length` / null content | Small `max_tokens` vs hidden reasoning budget | `reasoning_effort: low` + generous budget (triple: 131072). Never retry-loop small budgets (mistakes #22) |
+| Uniform 8-blocks / "summary unavailable" | Unbriefed beam doing geometry | Write the lore brief; windows ≤60; variety gate rejects >80% same-length spans (mistakes #21) |
+| `premise too short` / `question rejected` / `bad row` at max | Content failure | Hand-draft backlog. Never auto-retry, never vote-promote (mistakes #20: the 3,044-row lesson) |
+| Brief exists, drafts ignore it | Lookup/filename mismatch (this exact bug: `tal-{N}` vs `tal-a{N}`) | Convention is `tal-aNN.md` everywhere; `recon` reports the resolved path — verify it before seeding |
+| `promote` refuses | validate errors or BLOCKED without disposition | Fix the data layer, or record a BLOCKED disposition via proof tooling. Never force PASS |
+| `gates()` manifest-fresh red | New canonical files unregistered | `promote` regenerates automatically; manual: `tools/manifest.py gen` |
+| Duplicate drivers / double seeding | Raced starts across sessions | Seeding is idempotent (have-check) so harmless; keep newest, kill older by exact PID (never pkill) |
+| Surprise push from the loop | Push-on-green is the contract (machine-proposed commits) | Review `git log`; to hold pushes, stop ralph, work, restart. Never rewrite pushed history |
 
-## 5. Boundaries (hard — encoded where possible)
+## 7. Autonomy wiring
 
-- Beam NEVER writes `data/`, NEVER mints forks/cites, NEVER marks PASS.
-  Only `assemble`/`promote` (assessor acts) write canonical files.
-- `swarm_decide approve` refuses triple kinds (they promote via `assemble`).
-- Bounce without actionable note is rejected by the tool.
-- Transient (429/transport) failures must not consume the content budget:
-  reset to pending with raised max, don't count against the 3-attempt rule.
-- Content-gate failures at max escalate to hand-draft — never vote-counted
-  into PARSED (mistakes #20: 3,044-row lesson).
-- No tool pushes, signs off, or marks final. COMPLETE = machine-proposed,
-  needs human review. Always.
+```
+continue.sh (300s loop) ── sync registry → PLAN.json → seed
+      │                      └─ ensures ralph.sh alive
+      ▼
+ralph.sh (180s × 240) ── manifest → 5 workers → auto-review (briefs only)
+      │                   → convert pilots → validate_all --quick → push on green
+      │                   → drain → park with review queue for assessor
+      ▼
+watchdog.sh ── 429 health gate (pause 30m) → stale-claim reap (15m) → tal driver
+      ▼
+tal_run_all.sh / tal_stage.py --loop ── seed → wait → assemble → validate → proof
+      ▼
+assessor (you, on wake) ── lore briefs → swarm_review/decide → hand-draft backlog
+                          → assemble/promote → HANDOVER → human review queue
+```
+
+`shastra.supervise` reports and (re)starts this stack. Judgment stays queued:
+pilot prose, fork calls, BLOCKED dispositions, signoffs. Sampling (1-in-5
+window briefs, all full-ahnika briefs) is the only content check in the loop —
+without it the loop certifies its own homework (mistakes #24).
+
+## 8. Boundaries (hard — encoded where possible)
+
+1. Beam NEVER writes `data/`, mints forks, cites witnesses, or marks PASS.
+   Only `assemble`/`promote` (assessor acts) write canonical files.
+2. `swarm_decide approve` refuses triple kinds; triples promote via `assemble`.
+3. Bounce notes must be actionable (tool-enforced); vague notes rejected.
+4. Transient failures reset with raised max; content failures escalate.
+   Agreement is never evidence; repeated error is never consensus.
+5. No tool pushes, signs off, or marks final. COMPLETE = machine-proposed,
+   needs human review. The gate is a proxy; the rule is the law.
+
+## 9. FAQ
+
+**Why two lanes?** Volume. A 613-verse ahnika cannot be hand-drafted in one
+session; a 4-token verse should never cost a swarm round-trip. Size routing
+(<1k tokens hand / >1k swarm) puts judgment where judgment lives.
+
+**Why not let beam adjudicate forks?** Untested on forked verses; votes
+launder shared error. Proven on easy verses only (tsa-a02-v01 4/4 traces) —
+assumed weak until proven otherwise.
+
+**Why 24 verses per triple call?** Fewer, bigger requests: uses the 128k
+output budget, dodges the per-request 429 limiter. Oversize groups auto-halve
+on output ceiling. Seeding is free; quota is not.
+
+**Why do workers keep dying?** They exit when nothing is claimable — by
+design. Supervisors relaunch per batch. A dead worker's claim self-heals via
+15-min stale expiry. Check `swarm_status` before intervening.
+
+**Where do I start on a new front?** `status` → `recon` → `lore`. Always in
+that order. Ten minutes of scholarship before queuing beats hours of bounce
+cycles after.
+
+**What counts as DONE?** Draft → selfcheck green → assessor review →
+(approve|bounce×N) → converter → `validate_song` 0 errors → `proof_record
+--shastra` PASS (or recorded BLOCKED disposition) → STATUS/REGISTRY updated →
+still labeled machine-proposed. Faked PASS is dismissal-worthy.
