@@ -4,7 +4,7 @@
 # heartbeat. Idempotent; safe to kill and restart. Never forces a PASS.
 set -u
 cd /root/translation-work || exit 1
-WORKERS=${WORKERS:-3}
+WORKERS=${WORKERS:-2}
 STALL_MINS=${STALL_MINS:-25}
 LOGDIR=process/beam
 WD_LOG=$LOGDIR/watchdog.log
