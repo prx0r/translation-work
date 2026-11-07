@@ -158,7 +158,7 @@ def save_q(tasks: list[dict]) -> None:
         f.write(json.dumps(tasks, indent=1))
     os.replace(tmp, QFILE)
 
-STALE_CLAIM_SECS = 25 * 60  # a claim older than this is dead; steal it
+STALE_CLAIM_SECS = 15 * 60  # a claim older than this is dead; steal it
 
 def claimable(t: dict) -> bool:
     if t['attempts'] >= t['max_attempts']:

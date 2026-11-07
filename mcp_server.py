@@ -252,12 +252,63 @@ def promote(work: str, song: str) -> dict:
     import datetime
     st["updated"] = datetime.datetime.now().date().isoformat()
     sp.write_text(json.dumps(st, indent=1, ensure_ascii=False))
+    rp = ROOT / "REGISTRY.json"
+    reg = json.loads(rp.read_text())
+    n = v.get("validate", {}).get("counts", {}).get("t1", 0)
+    for w in reg["works"]:
+        if w["work"] == work:
+            w.update({"status": "gold (machine-proposed, minimal: L3/L4 waived)",
+                      "gold": True, "verses": n or w.get("verses"),
+                      "note": "minimal gold via swarm: T1/L0/argmap/L2/C1-essence, proof PASS; L3/L4 waived."})
+    rp.write_text(json.dumps(reg, indent=1, ensure_ascii=False))
     return {"promoted": True, "gate": gate, "proof": p,
-            "note": "machine-proposed, needs human review. No push performed."}
+            "note": "machine-proposed, needs human review. STATUS+REGISTRY updated. No push performed."}
+
+
+@mcp.tool()
+def skill(name: str) -> dict:
+    """Return the governing SKILL.md for a lane (the law the swarm obeys).
+    name: crystal-ipvv (single-verse gold drill, the ONLY path to gold) or
+    largetext (swarm scaffolding: beam drafters + assessor gate + transmission
+    briefs + calibration). Read FIRST before any translation action."""
+    key = name.strip().lower().replace("_", "-")
+    mapping = {"crystal-ipvv": "skills/crystal-ipvv/SKILL.md",
+               "crystal": "skills/crystal-ipvv/SKILL.md",
+               "largetext": "skills/largetext/SKILL.md",
+               "large": "skills/largetext/SKILL.md"}
+    rel = mapping.get(key)
+    if not rel:
+        return {"error": f"unknown skill {name!r}: crystal-ipvv|largetext"}
+    text = (ROOT / rel).read_text()
+    ex = ROOT / rel.replace("SKILL.md", "EXAMPLES.md")
+    out = {"skill": key, "text": text[:12000]}
+    if ex.exists():
+        out["examples"] = ex.read_text()[:12000]
+    return out
+
+
+@mcp.tool()
+def concepts(term: str, top: int = 5) -> dict:
+    """Grounds for hand-glossing: concept-database entry (if built) +
+    frequency-ranked MITRA senses with attestations for a Sanskrit headword.
+    Returns the `grounds + source` shape L0 options require. Read-only —
+    unknown headwords return [], never invented."""
+    g = _run(["tools/mitra_grounds.py", term, "--top", str(top)], timeout=60)
+    c = _run(["tools/lookup_concept.py", term], timeout=60)
+    return {"mitra_grounds": g, "concept_db": c}
+
+
+@mcp.tool()
+def gates() -> dict:
+    """The one gate (SKILL largetext §10): manifest freshness + proof sweep
+    + passages ledger + dbread coverage. Read-only report; exit nonzero in
+    payload when unshippable."""
+    return _run(["tools/validate_all.py", "--quick"], timeout=600)
 
 
 TOOLS = ["status", "validate", "lore", "swarm_status",
-         "swarm_seed", "swarm_review", "swarm_decide", "promote"]
+         "swarm_seed", "swarm_review", "swarm_decide", "promote",
+         "skill", "concepts", "gates"]
 
 
 if __name__ == "__main__":
