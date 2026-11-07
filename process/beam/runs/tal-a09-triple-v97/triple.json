@@ -1,6 +1,858 @@
 {
- "song": "Tantraloka",
+ "song": "Tantraloka a09",
  "items": [
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "and-thence",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "supte",
+     "gloss": "in-sleep",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "turye",
+     "gloss": "in-fourth",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-said",
+     "grounds": "future passive",
+     "morph": "3.sg.pass-fut"
+    },
+    {
+     "surface": "bahubhedatā",
+     "gloss": "manifold-difference",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pradhvaṃsanaunmukhyakhilībhūtasvaśaktikaḥ",
+     "gloss": "with-own-power-become-total-toward-destruction",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the fourth state relate to destruction and manifold difference?",
+   "premises": [
+    "The fourth state is named sleep.",
+    "Manifold difference will be explained.",
+    "Own power becomes oriented toward destruction."
+   ],
+   "inference": "The fourth state is linked to totalizing destruction and subsequent manifold difference.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "In the fourth state, called sleep, manifold difference will be explained; therefore own power becomes totally oriented toward destruction."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "karmaṇo",
+     "gloss": "of-action",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "hetutāmetu",
+     "gloss": "let-causality-go",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "malaḥ",
+     "gloss": "impurity",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathamivocyatām",
+     "gloss": "how-could-it-be-called",
+     "grounds": "interrogative",
+     "morph": "3.sg.pass-opt"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karmāpi",
+     "gloss": "action-too",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "malādyataḥ",
+     "gloss": "from-impurity",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kriyātmakam",
+     "gloss": "activity-natured",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How can impurity be called the cause of action?",
+   "premises": [
+    "Impurity should not be called action's cause.",
+    "Action is not from impurity.",
+    "Action is activity-natured."
+   ],
+   "inference": "Impurity is not the true cause of action; action has its own activity-nature.",
+   "uncertainties": [
+    "Optative force is context-dependent."
+   ],
+   "plain_english": "Let impurity not be called the cause of action; action is not from impurity, since action is activity-natured."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "kriyā",
+     "gloss": "activity",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kartṛtārūpāt",
+     "gloss": "from-agency-form",
+     "grounds": "ablative",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "svātantryānna",
+     "gloss": "from-freedom-not",
+     "grounds": "ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "punarmalāt",
+     "gloss": "again-from-impurity",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvasya",
+     "gloss": "of-this",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karmaṇaścitraphaladatvena",
+     "gloss": "of-action-varied-fruit-giving",
+     "grounds": "compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "karmatā",
+     "gloss": "action-hood",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is action not again from impurity?",
+   "premises": [
+    "Activity comes from agency-form.",
+    "Agency comes from freedom, not impurity.",
+    "Action-hood is varied-fruit-giving."
+   ],
+   "inference": "Action arises from free agency, not from impurity, though action-hood gives varied fruits.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Activity comes from the form of agency and freedom, not again from impurity; action-hood is the varied fruit-giving of this action."
+  },
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "prasiddhā",
+     "gloss": "well-known",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃkocaṃ",
+     "gloss": "contraction",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinātmani",
+     "gloss": "without-in-self",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "malaśca",
+     "gloss": "and-impurity",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vicitraṃ",
+     "gloss": "varied",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhinnaṃ",
+     "gloss": "different",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhogyatvenābhimanyate",
+     "gloss": "is-regarded-as-enjoyable",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Why is contraction necessary for well-known action-hood?",
+   "premises": [
+    "That action-hood is well-known.",
+    "It is not without contraction in self.",
+    "Impurity regards varied different fruit as enjoyable."
+   ],
+   "inference": "Contraction in the self is required, while impurity regards varied fruit as enjoyable.",
+   "uncertainties": [
+    "Passive reading is context-dependent."
+   ],
+   "plain_english": "That well-known action-hood is not without contraction in the self; impurity regards varied different fruit as enjoyable."
+  },
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "bhoktaryātmani",
+     "gloss": "in-enjoyer-self",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "teneyaṃ",
+     "gloss": "by-that-this",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhedarūpā",
+     "gloss": "difference-form",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyavasthitiḥ",
+     "gloss": "arrangement",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svakāryaprasave",
+     "gloss": "in-own-work-production",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sahakāritvamāśrayan",
+     "gloss": "resorting-to-cooperation",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does difference-form arrangement arise in the enjoyer-self?",
+   "premises": [
+    "In the enjoyer-self this difference-form arrangement exists.",
+    "It resorts to cooperation in own work production.",
+    "Thus the arrangement is established."
+   ],
+   "inference": "Difference-form arrangement in the enjoyer-self arises through cooperation in producing one's own work.",
+   "uncertainties": [
+    "Participle scope is approximate."
+   ],
+   "plain_english": "In the enjoyer-self, this difference-form arrangement exists; thus it resorts to cooperation in the production of its own work."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "sāmarthyavyañjakatvena",
+     "gloss": "as-power-manifesting",
+     "grounds": "compound",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "karmaṇaḥ",
+     "gloss": "of-action",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "malaḥ",
+     "gloss": "impurity",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nanvevaṃ",
+     "gloss": "but-thus",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karmasadbhāvānmalasyāpi",
+     "gloss": "from-action-existence-of-impurity-too",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sthiteḥ",
+     "gloss": "of-existence",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How can impurity be cause while action also exists?",
+   "premises": [
+    "Impurity is cause as power-manifesting of action.",
+    "But if action exists, impurity also exists.",
+    "How is this existence resolved?"
+   ],
+   "inference": "Impurity as cause and action's existence create a problem requiring further resolution.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Impurity is the cause as power-manifesting of action; but if action exists, how can impurity also exist?"
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "vijñānākalatā",
+     "gloss": "limited-knowledge-state",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃkoco",
+     "gloss": "contraction",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyasti",
+     "gloss": "indeed-exists",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tādṛśaḥ",
+     "gloss": "such",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maivamadhvastasaṃkoco@pyasau",
+     "gloss": "do-not-thus-destroyed-contraction-even-that",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvanayā",
+     "gloss": "by-meditation",
+     "grounds": "instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "dṛḍham",
+     "gloss": "firmly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does contraction exist in limited knowledge?",
+   "premises": [
+    "Limited knowledge has contraction.",
+    "Such contraction indeed exists.",
+    "Even destroyed contraction becomes firm by meditation."
+   ],
+   "inference": "Contraction exists in limited knowledge, but meditation can make even destroyed contraction firm.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Limited knowledge has contraction; such contraction indeed exists; even destroyed contraction becomes firm by meditation."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "nāhaṃ",
+     "gloss": "not-I",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karteti",
+     "gloss": "am-doer-thus",
+     "grounds": "quotation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "manvānaḥ",
+     "gloss": "thinking",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmasaṃskāramujjhati",
+     "gloss": "abandons-action-impression",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "phaliṣyatīdaṃ",
+     "gloss": "this-will-fruit",
+     "grounds": "future",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karmeti",
+     "gloss": "action-thus",
+     "grounds": "quotation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dṛḍhā",
+     "gloss": "firm",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vṛttirātmani",
+     "gloss": "disposition-in-self",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What happens when one thinks 'I am not the doer'?",
+   "premises": [
+    "Thinking 'I am not the doer' abandons action impression.",
+    "The firm disposition in self says this action will fruit.",
+    "Thus impression is abandoned."
+   ],
+   "inference": "The thought 'I am not the doer' abandons action impression, while a firm disposition says the action will fruit.",
+   "uncertainties": [
+    "Quotation boundaries are approximate."
+   ],
+   "plain_english": "Thinking 'I am not the doer,' one abandons action impression; the firm disposition in the self says this action will fruit."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃskāraḥ",
+     "gloss": "impression",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phalāyeha",
+     "gloss": "for-fruit-here",
+     "grounds": "dative",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "smaraṇakāraṇam",
+     "gloss": "cause-of-remembering",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "apradhvaste@pi",
+     "gloss": "even-if-not-destroyed",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃkoce",
+     "gloss": "in-contraction",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nāhaṃ",
+     "gloss": "not-I",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karteti",
+     "gloss": "am-doer-thus",
+     "grounds": "quotation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāvanāt",
+     "gloss": "from-meditation",
+     "grounds": "ablative",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "What is the impression for if not remembering?",
+   "premises": [
+    "That impression is for fruit here.",
+    "It is not cause of remembering.",
+    "Even in undestroyed contraction, meditation on 'I am not doer' acts."
+   ],
+   "inference": "The impression serves fruit, not memory, and meditation on non-doership operates even when contraction remains.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "That impression is for fruit here, not for causing remembering; even in undestroyed contraction, meditation on 'I am not the doer' acts."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣīvamūḍhādeḥ",
+     "gloss": "of-intoxicated-deluded-etc",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prāyaścitte@tha",
+     "gloss": "or-in-penance",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-done",
+     "grounds": "participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yanmayādya",
+     "gloss": "which-by-me-today",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tapastaptaṃ",
+     "gloss": "austerity-performed",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadasmai",
+     "gloss": "that-to-him",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "syāditi",
+     "gloss": "would-be-thus",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Does fruit arise for the intoxicated or deluded?",
+   "premises": [
+    "Fruit does not arise for intoxicated or deluded.",
+    "Nor when penance is done.",
+    "Austerity performed by me today would be for him, clearly."
+   ],
+   "inference": "Fruit is not automatic for the intoxicated, deluded, or penitent; performed austerity may be for another.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Fruit does not arise for the intoxicated or deluded, nor when penance is done; austerity performed by me today would clearly be for him."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "abhisaṃdhimataḥ",
+     "gloss": "of-intentional-agent",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phaledabhisandhitaḥ",
+     "gloss": "fruits-from-intention",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tathābhisaṃdhānākhyāṃ",
+     "gloss": "thus-intention-named",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mānase",
+     "gloss": "in-mental",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃskriyām",
+     "gloss": "impression",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Does intentional action fruit from intention?",
+   "premises": [
+    "Action of an intentional agent does not fruit from intention.",
+    "But intention-named action in the mental sphere is impression.",
+    "Thus intention and impression differ."
+   ],
+   "inference": "Intentional action does not fruit merely from intention; mental intention-named action is impression.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Action of an intentional agent does not fruit from intention; but intention-named action in the mental sphere is impression."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "phaloparaktāṃ",
+     "gloss": "fruit-stained",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidadhatkalpate",
+     "gloss": "producing-becomes-fit",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "phalasampade",
+     "gloss": "for-fruit-attainment",
+     "grounds": "dative",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "whoever-but",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatrāpi",
+     "gloss": "even-there",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dārḍhyena",
+     "gloss": "with-firmness",
+     "grounds": "instrumental",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "phalasaṃskāramujjhati",
+     "gloss": "abandons-fruit-impression",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What happens to one who produces fruit-stained action?",
+   "premises": [
+    "Producing fruit-stained action becomes fit for fruit attainment.",
+    "Whoever even there with firmness abandons fruit impression.",
+    "Thus firm abandonment changes the result."
+   ],
+   "inference": "One who produces fruit-stained action becomes fit for fruit attainment, but firm abandonment of fruit impression alters it.",
+   "uncertainties": [
+    "Verb parsing is approximate."
+   ],
+   "plain_english": "Producing fruit-stained action becomes fit for fruit attainment; whoever even there with firmness abandons fruit impression."
+  },
   {
    "verse": 109,
    "rows": [
@@ -12,38 +864,38 @@
     },
     {
      "surface": "tatphalatyāgakṛtaṃ",
-     "gloss": "that-fruit-abandonment-made",
+     "gloss": "made-by-abandoning-that-fruit",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "viśiṣṭaṃ",
-     "gloss": "distinguished",
+     "gloss": "special",
      "grounds": "adjective",
-     "morph": "m.acc.sg"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "phalamaśnute",
-     "gloss": "fruit-enjoys",
+     "gloss": "enjoys-fruit",
      "grounds": "verb",
-     "morph": "3.sg.atmanepada-present-root-aś"
+     "morph": "3.sg.act-pres"
     },
     {
      "surface": "anayā",
      "gloss": "by-this",
      "grounds": "pronoun",
-     "morph": "f.inst.sg"
+     "morph": "f.ins.sg"
     },
     {
      "surface": "paripāṭyā",
-     "gloss": "orderly-way",
-     "grounds": "noun",
-     "morph": "f.inst.sg"
+     "gloss": "method",
+     "grounds": "instrumental",
+     "morph": "f.ins.sg"
     },
     {
      "surface": "yaḥ",
      "gloss": "who",
-     "grounds": "relative pronoun",
+     "grounds": "relative",
      "morph": "m.nom.sg"
     },
     {
@@ -54,80 +906,80 @@
     },
     {
      "surface": "karmasaṃtatim",
-     "gloss": "karma-continuity",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "action-continuity",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
     }
    ],
-   "question": "Who enjoys distinguished fruit by orderly way?",
+   "question": "What fruit does one enjoy by this method?",
    "premises": [
-    "He enjoys distinguished fruit.",
-    "This fruit comes from abandonment.",
-    "Orderly way governs all karma continuity."
+    "He enjoys special fruit made by abandoning that fruit.",
+    "By this method one abandons all action-continuity.",
+    "Thus special fruit follows."
    ],
-   "inference": "The agent who renounces fruit and follows orderly way enjoys distinguished fruit.",
+   "inference": "By this method, one who abandons all action-continuity enjoys a special fruit made by abandoning fruit.",
    "uncertainties": [
-    "Compound segmentation of tatphalatyāgakṛtaṃ is interpretive."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "He enjoys distinguished fruit, made by abandoning fruit, through this orderly way, whoever has all karma continuity."
+   "plain_english": "He enjoys a special fruit made by abandoning that fruit; by this method one abandons all action-continuity."
   },
   {
    "verse": 110,
    "rows": [
     {
      "surface": "anahaṃyutayā",
-     "gloss": "without-ego-union",
+     "gloss": "with-non-ego-union",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "f.ins.sg"
     },
     {
      "surface": "projjhet",
-     "gloss": "casts-away",
-     "grounds": "verb",
-     "morph": "3.sg.parasmaipada-present-root-hā"
+     "gloss": "should-abandon",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
     },
     {
      "surface": "sasaṃkoco@pi",
      "gloss": "even-with-contraction",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "m.nom.sg"
     },
     {
      "surface": "so@kalaḥ",
-     "gloss": "that-limited-agency",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "that-limited-one",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "nanvitthaṃ",
-     "gloss": "not-thus",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "gloss": "but-thus",
+     "grounds": "particle",
+     "morph": "indecl."
     },
     {
      "surface": "duṣkṛtaṃ",
      "gloss": "wrong-action",
-     "grounds": "noun",
-     "morph": "n.acc.sg"
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "kiṃcidātmīyamabhisaṃdhitaḥ",
-     "gloss": "some-own-intentionally",
+     "gloss": "some-own-intentional",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "Does limited agency cast away wrong action without ego union?",
+   "question": "Should the limited one abandon wrong action with non-ego union?",
    "premises": [
-    "Without ego union, limited agency casts away.",
-    "Even with contraction, wrong action is not thus.",
-    "Some own action is intentionally held."
+    "With non-ego union one should abandon.",
+    "Even the limited one with contraction should do so.",
+    "But some wrong action is own and intentional."
    ],
-   "inference": "Limited agency removes wrong action only when ego union is absent.",
+   "inference": "Non-ego union calls for abandonment, even for the contracted limited one, though some wrong action remains own and intentional.",
    "uncertainties": [
-    "Sandhi splitting of sasaṃkoco@pi and so@kalaḥ is interpretive."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "Without ego union, limited agency casts away; even with contraction, wrong action is not thus, nor is some own action intentionally held."
+   "plain_english": "With non-ego union one should abandon; even the limited one with contraction should do so; but some wrong action is own and intentional."
   },
   {
    "verse": 111,
@@ -135,14 +987,14 @@
     {
      "surface": "parasmai",
      "gloss": "to-another",
-     "grounds": "pronoun",
+     "grounds": "dative",
      "morph": "m.dat.sg"
     },
     {
      "surface": "syānna",
      "gloss": "would-not-be",
-     "grounds": "verb",
-     "morph": "3.sg.parasmaipada-optative-root-as"
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
     },
     {
      "surface": "vijñātaṃ",
@@ -153,51 +1005,51 @@
     {
      "surface": "bhavatā",
      "gloss": "by-you",
-     "grounds": "pronoun",
-     "morph": "m.inst.sg"
+     "grounds": "instrumental",
+     "morph": "m.ins.sg"
     },
     {
      "surface": "tāttvikaṃ",
-     "gloss": "true",
+     "gloss": "real",
      "grounds": "adjective",
      "morph": "n.nom.sg"
     },
     {
      "surface": "vacaḥ",
      "gloss": "speech",
-     "grounds": "noun",
+     "grounds": "nominative",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tasya",
      "gloss": "of-that",
-     "grounds": "pronoun",
+     "grounds": "genitive",
      "morph": "m.gen.sg"
     },
     {
      "surface": "bhoktustathā",
      "gloss": "of-enjoyer-thus",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "cetsyādabhisaṃdhiryathātmani",
      "gloss": "if-intention-would-be-as-in-self",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Would true speech be known to another by you?",
+   "question": "Would real speech be known to another?",
    "premises": [
-    "True speech would not be known to another.",
-    "The enjoyer's intention is thus.",
-    "Intention in self is the measure."
+    "Real speech would not be known to another by you.",
+    "If intention of the enjoyer would be as in self.",
+    "Thus knowledge of another's intention is limited."
    ],
-   "inference": "Knowledge of true speech depends on intention matching that of the enjoyer.",
+   "inference": "Real speech is not known to another; intention of the enjoyer is not as in oneself.",
    "uncertainties": [
-    "Long compound cetsyādabhisaṃdhiryathātmani has multiple possible splits."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "True speech would not be known to another by you; the enjoyer's intention would be thus, as intention is in self."
+   "plain_english": "Real speech would not be known to another by you; if the enjoyer's intention were as in oneself, it would differ."
   },
   {
    "verse": 112,
@@ -205,51 +1057,51 @@
     {
      "surface": "tadavaśyaṃ",
      "gloss": "that-necessarily",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "adverb",
+     "morph": "indecl."
     },
     {
      "surface": "parasyāpi",
-     "gloss": "of-another-also",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "of-another-too",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "satastadduṣkṛtaṃ",
      "gloss": "existing-that-wrong-action",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "n.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "would-be",
-     "grounds": "verb",
-     "morph": "3.sg.parasmaipada-optative-root-bhū"
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
     },
     {
      "surface": "parābhisaṃdhisaṃvittau",
-     "gloss": "in-other-intention-awareness",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "in-knowing-another-intention",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
     },
     {
      "surface": "svābhisaṃdhirdṛḍhībhavet",
      "gloss": "own-intention-becomes-firm",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
     }
    ],
    "question": "Would another's wrong action necessarily exist?",
    "premises": [
-    "That wrong action would necessarily be another's.",
-    "Other intention awareness is the condition.",
-    "Own intention becomes firm thereby."
+    "That wrong action would necessarily be of another too.",
+    "In knowing another's intention, own intention becomes firm.",
+    "Thus mutual intention affects wrong action."
    ],
-   "inference": "Another's wrong action arises when awareness of other intention makes own intention firm.",
+   "inference": "Another's wrong action would necessarily exist, and knowing another's intention firms one's own intention.",
    "uncertainties": [
-    "Compound satastadduṣkṛtaṃ may be read as existing wrong action."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "That wrong action would necessarily be another's existing one; in awareness of other intention, own intention becomes firm."
+   "plain_english": "That wrong action would necessarily be of another too; in knowing another's intention, one's own intention becomes firm."
   },
   {
    "verse": 113,
@@ -257,32 +1109,32 @@
     {
      "surface": "abhisaṃdhānavirahe",
      "gloss": "in-absence-of-intention",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "locative",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "tvasya",
      "gloss": "of-this",
-     "grounds": "pronoun",
+     "grounds": "genitive",
      "morph": "m.gen.sg"
     },
     {
      "surface": "no",
      "gloss": "not",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "negation",
+     "morph": "indecl."
     },
     {
      "surface": "phalayogitā",
      "gloss": "fruit-connection",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "negation",
+     "morph": "indecl."
     },
     {
      "surface": "me",
@@ -294,13 +1146,13 @@
      "surface": "duṣkṛtamityeṣā",
      "gloss": "wrong-action-thus-this",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "f.nom.sg"
     },
     {
      "surface": "rūḍhistasyāphalāya",
-     "gloss": "convention-for-its-fruitlessness",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "convention-for-fruitlessness",
+     "grounds": "dative",
+     "morph": "f.dat.sg"
     },
     {
      "surface": "sā",
@@ -309,69 +1161,69 @@
      "morph": "f.nom.sg"
     }
    ],
-   "question": "Is there fruit connection in absence of intention?",
+   "question": "Is there fruit-connection without intention?",
    "premises": [
-    "In absence of intention, this has no fruit connection.",
-    "The convention 'wrong action is mine' is not so.",
-    "That convention is for fruitlessness."
+    "In absence of intention there is no fruit-connection.",
+    "The convention 'wrong action is mine' is for fruitlessness.",
+    "Thus intention governs fruit."
    ],
-   "inference": "Without intention, no fruit connection follows, and ownership convention yields no fruit.",
+   "inference": "Without intention there is no fruit-connection; the convention of owning wrong action serves fruitlessness.",
    "uncertainties": [
-    "rūḍhistasyāphalāya can be read as convention leading to fruitlessness."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "In absence of intention, this has no fruit connection; the convention 'wrong action is mine' is not so, and that convention is for fruitlessness."
+   "plain_english": "In absence of intention there is no fruit-connection; the convention 'wrong action is mine' is for fruitlessness."
   },
   {
    "verse": 114,
    "rows": [
     {
      "surface": "parābhisandhivicchede",
-     "gloss": "in-cutting-other-intention",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "in-cutting-another-intention",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "svātmanānabhisaṃhitau",
-     "gloss": "by-self-not-intentionally-held",
+     "gloss": "not-intended-by-self",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "m.loc.sg"
     },
     {
      "surface": "dvayorapi",
-     "gloss": "of-both-also",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "of-both-too",
+     "grounds": "genitive",
+     "morph": "m.gen.du"
     },
     {
      "surface": "phalaṃ",
      "gloss": "fruit",
-     "grounds": "noun",
+     "grounds": "nominative",
      "morph": "n.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "negation",
+     "morph": "indecl."
     },
     {
      "surface": "syānnāśahetuvyavasthiteḥ",
-     "gloss": "would-be-due-to-destruction-cause-establishment",
+     "gloss": "would-be-due-to-destruction-cause-arrangement",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "f.gen.sg"
     }
    ],
-   "question": "Would fruit arise for both when other intention is cut?",
+   "question": "What fruit arises when another's intention is cut?",
    "premises": [
-    "When other intention is cut, both are not intentionally held by self.",
-    "Fruit would not be for both.",
-    "Destruction cause is established."
+    "In cutting another's intention, not intended by self.",
+    "For both, fruit would not be.",
+    "Due to destruction-cause arrangement."
    ],
-   "inference": "Cutting other intention removes fruit for both because intentional holding ceases.",
+   "inference": "When another's intention is cut and not intended by self, neither gets fruit due to destruction-cause arrangement.",
    "uncertainties": [
-    "syānnāśahetuvyavasthiteḥ is a long sandhi compound."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "When other intention is cut, both are not intentionally held by self; fruit would not be, due to established destruction cause."
+   "plain_english": "In cutting another's intention, not intended by self, fruit would not be for both due to destruction-cause arrangement."
   },
   {
    "verse": 115,
@@ -379,32 +1231,32 @@
     {
      "surface": "sukhahetau",
      "gloss": "in-pleasure-cause",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "locative",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "sukhe",
      "gloss": "in-pleasure",
-     "grounds": "noun",
+     "grounds": "locative",
      "morph": "n.loc.sg"
     },
     {
      "surface": "cāsya",
      "gloss": "and-of-this",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "sāmānyādabhisaṃdhitaḥ",
      "gloss": "from-common-intention",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
     },
     {
      "surface": "nirviśeṣādapi",
      "gloss": "even-from-undifferentiated",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
     },
     {
      "surface": "nyāyyā",
@@ -416,20 +1268,20 @@
      "surface": "dharmādiphalabhoktṛtā",
      "gloss": "enjoyment-of-virtue-etc-fruit",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "f.nom.sg"
     }
    ],
-   "question": "Is enjoyment of virtue fruit just in pleasure cause?",
+   "question": "How is enjoyment of virtue-fruit justified?",
    "premises": [
-    "In pleasure cause and pleasure, this has common intention.",
-    "Even from undifferentiated, it is just.",
-    "Enjoyment of virtue and other fruit follows."
+    "In pleasure-cause and pleasure of this.",
+    "From common intention, even from undifferentiated.",
+    "Just enjoyment of virtue-etc fruit."
    ],
-   "inference": "Common intention makes enjoyment of virtue fruit just even in undifferentiated pleasure.",
+   "inference": "Enjoyment of virtue-etc fruit is just, arising from common intention even in undifferentiated pleasure.",
    "uncertainties": [
-    "sāmānyādabhisaṃdhitaḥ may mean from common intention or from generality."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "In pleasure cause and pleasure, this has common intention; even from undifferentiated, just enjoyment of virtue and other fruit follows."
+   "plain_english": "In pleasure-cause and pleasure of this, from common intention even from undifferentiated, just enjoyment of virtue-etc fruit."
   },
   {
    "verse": 116,
@@ -437,7 +1289,7 @@
     {
      "surface": "duḥkhaṃ",
      "gloss": "suffering",
-     "grounds": "noun",
+     "grounds": "nominative",
      "morph": "n.nom.sg"
     },
     {
@@ -449,90 +1301,90 @@
     {
      "surface": "duḥkhaheturvā",
      "gloss": "or-suffering-cause",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "stādityeṣa",
      "gloss": "would-be-thus-this",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "m.nom.sg"
     },
     {
      "surface": "punarna",
      "gloss": "again-not",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "adverb",
+     "morph": "indecl."
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "particle",
+     "morph": "indecl."
     },
     {
      "surface": "sāmānyo@pyabhisaṃdhiḥ",
-     "gloss": "even-common-intention",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "common-even-intention",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "syāttadadharmasya",
-     "gloss": "would-be-of-that-unvirtue",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "would-be-of-that-unrighteousness",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "nāgamaḥ",
      "gloss": "not-scripture",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Would suffering or its cause be mine thus?",
+   "question": "Is suffering or its cause mine?",
    "premises": [
-    "Suffering or suffering cause would be mine thus.",
-    "Again, common intention is not so.",
-    "Unvirtue would not be scripture."
+    "Suffering or suffering-cause would be thus mine.",
+    "But common intention would not be of that unrighteousness.",
+    "Scripture is not the source."
    ],
-   "inference": "Common intention does not make suffering or unvirtue one's own, and unvirtue is not scripture.",
+   "inference": "Suffering or its cause is mine, but common intention is not of that unrighteousness, and scripture is not the source.",
    "uncertainties": [
-    "stādityeṣa is a sandhi-heavy compound."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "Suffering or its cause would be mine thus; but again common intention is not so, and unvirtue would not be scripture."
+   "plain_english": "Suffering or suffering-cause would be thus mine; but common intention would not be of that unrighteousness, nor scripture."
   },
   {
    "verse": 117,
    "rows": [
     {
      "surface": "prakṛtaṃ",
-     "gloss": "the-subject",
-     "grounds": "adjective",
-     "morph": "n.acc.sg"
+     "gloss": "the-topic",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "brūmahe",
      "gloss": "we-speak",
      "grounds": "verb",
-     "morph": "1.pl.atmanepada-present-root-brū"
+     "morph": "1.pl.act-pres"
     },
     {
      "surface": "jñānākalasyoktacarasya",
-     "gloss": "of-knowledge-limited-described-course",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "of-limited-knower-described",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "yat",
      "gloss": "which",
-     "grounds": "relative pronoun",
+     "grounds": "relative",
      "morph": "n.nom.sg"
     },
     {
      "surface": "anahaṃyutayā",
-     "gloss": "without-ego-union",
+     "gloss": "with-non-ego-union",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "f.ins.sg"
     },
     {
      "surface": "sarvā",
@@ -548,22 +1400,22 @@
     },
     {
      "surface": "karmasaṃskriyāḥ",
-     "gloss": "karma-impressions",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "action-impressions",
+     "grounds": "nominative",
+     "morph": "f.nom.pl"
     }
    ],
-   "question": "What do we speak about the subject?",
+   "question": "What happens to action impressions of the limited knower?",
    "premises": [
-    "We speak the subject.",
-    "It concerns knowledge-limited described course.",
-    "Without ego union, all karma impressions dissolve."
+    "We speak the topic of the described limited knower.",
+    "With non-ego union all action impressions are dissolved.",
+    "Thus the limited knower's impressions dissolve."
    ],
-   "inference": "The subject is that without ego union all karma impressions dissolve.",
+   "inference": "With non-ego union, all action impressions of the limited knower are dissolved.",
    "uncertainties": [
-    "jñānākalasyoktacarasya is a dense compound."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "We speak the subject: for the knowledge-limited described course, without ego union all karma impressions dissolve."
+   "plain_english": "We speak the topic of the described limited knower: with non-ego union all action impressions are dissolved."
   },
   {
    "verse": 118,
@@ -572,108 +1424,108 @@
      "surface": "tasmādasya",
      "gloss": "therefore-of-this",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "m.gen.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "negation",
+     "morph": "indecl."
     },
     {
      "surface": "karmāsti",
-     "gloss": "karma-exists",
+     "gloss": "action-exists",
      "grounds": "verb",
-     "morph": "3.sg.parasmaipada-present-root-as"
+     "morph": "3.sg.act-pres"
     },
     {
      "surface": "kasyāpi",
      "gloss": "of-anyone",
-     "grounds": "pronoun",
+     "grounds": "genitive",
      "morph": "m.gen.sg"
     },
     {
      "surface": "sahakāritām",
      "gloss": "cooperation",
-     "grounds": "noun",
+     "grounds": "accusative",
      "morph": "f.acc.sg"
     },
     {
      "surface": "malaḥ",
      "gloss": "impurity",
-     "grounds": "noun",
+     "grounds": "nominative",
      "morph": "m.nom.sg"
     },
     {
      "surface": "karotu",
      "gloss": "let-it-do",
-     "grounds": "verb",
-     "morph": "3.sg.parasmaipada-imperative-root-kṛ"
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
     },
     {
      "surface": "tenāyaṃ",
      "gloss": "by-that-this",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "dhvaṃsamānatvamaśnute",
-     "gloss": "destruction-state-enjoys",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "attains-destruction-nature",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
     }
    ],
-   "question": "Therefore does karma exist for this?",
+   "question": "Does action exist for this one?",
    "premises": [
-    "Therefore karma does not exist for this.",
-    "Impurity may do cooperation.",
-    "By that this enjoys destruction state."
+    "Therefore for this one action does not exist.",
+    "Impurity may do cooperation for anyone.",
+    "By that this one attains destruction-nature."
    ],
-   "inference": "Karma does not exist for this; impurity's cooperation leads to destruction state.",
+   "inference": "For this one action does not exist; impurity may cooperate for anyone, and this one attains destruction-nature.",
    "uncertainties": [
-    "tenāyaṃ and dhvaṃsamānatvamaśnute are compound readings."
+    "Optative force is context-dependent."
    ],
-   "plain_english": "Therefore karma does not exist for this; let impurity do cooperation, by that this enjoys destruction state."
+   "plain_english": "Therefore for this one action does not exist; impurity may do cooperation for anyone, and by that this one attains destruction-nature."
   },
   {
    "verse": 119,
    "rows": [
     {
      "surface": "apadhvastamalastvantaḥśivāveśavaśīkṛtaḥ",
-     "gloss": "with-impurity-destroyed-and-inner-shiva-possession-controlled",
+     "gloss": "with-destroyed-impurity-inner-shiva-possession-controlled",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "m.nom.sg"
     },
     {
      "surface": "ahaṃbhāvaparo@pyeti",
      "gloss": "even-ego-state-goes",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "negation",
+     "morph": "indecl."
     },
     {
      "surface": "karmādhīnavṛttitām",
-     "gloss": "karma-dependent-activity",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "action-dependent-condition",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
     }
    ],
-   "question": "Does one with destroyed impurity and inner Shiva possession go to karma-dependent activity?",
+   "question": "What happens when impurity is destroyed and Shiva possesses?",
    "premises": [
-    "Impurity is destroyed and inner Shiva possession controls.",
-    "Even ego state goes.",
-    "Karma-dependent activity is not reached."
+    "With destroyed impurity, controlled by inner Shiva possession.",
+    "Even ego-state goes.",
+    "Not action-dependent condition."
    ],
-   "inference": "One whose impurity is destroyed and who is controlled by inner Shiva does not fall into karma-dependent activity.",
+   "inference": "When impurity is destroyed and one is controlled by inner Shiva possession, even ego-state goes and action-dependent condition ceases.",
    "uncertainties": [
-    "apadhvastamalastvantaḥśivāveśavaśīkṛtaḥ is a very long compound."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "With impurity destroyed and controlled by inner Shiva possession, even ego state goes, not to karma-dependent activity."
+   "plain_english": "With destroyed impurity, controlled by inner Shiva possession, even ego-state goes, not action-dependent condition."
   },
   {
    "verse": 120,
@@ -687,46 +1539,45 @@
     {
      "surface": "śrīpūrvaśāstre",
      "gloss": "in-holy-previous-scripture",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "locative",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "conjunction",
+     "morph": "indecl."
     },
     {
      "surface": "tadetatparameśinā",
      "gloss": "that-this-by-supreme-lord",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "m.ins.sg"
     },
     {
      "surface": "malamajñānamicchanti",
      "gloss": "impurity-ignorance-they-desire",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
     },
     {
      "surface": "saṃsārāṅkurakāraṇam",
      "gloss": "cause-of-world-sprout",
      "grounds": "compound",
-     "morph": "compound"
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What was said in holy previous scripture?",
+   "question": "What did the supreme lord say in previous scripture?",
    "premises": [
-    "It was said in holy previous scripture.",
-    "By supreme lord, that is this.",
+    "Said in holy previous scripture by supreme lord.",
     "They desire impurity as ignorance.",
-    "Impurity is cause of world sprout."
+    "It is cause of world sprout."
    ],
-   "inference": "Holy previous scripture says supreme lord identifies impurity as ignorance and cause of world sprout.",
+   "inference": "The supreme lord said in previous scripture that impurity as ignorance is the cause of the world sprout.",
    "uncertainties": [
-    "malamajñānamicchanti may be read as 'they call impurity ignorance'."
+    "Compound segmentation is approximate."
    ],
-   "plain_english": "It was said in holy previous scripture, and by supreme lord that is this: they desire impurity as ignorance, cause of world sprout."
+   "plain_english": "Said in holy previous scripture by the supreme lord: they desire impurity as ignorance, cause of the world sprout."
   }
  ]
 }
