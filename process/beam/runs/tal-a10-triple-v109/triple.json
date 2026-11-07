@@ -1,0 +1,791 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "vijñānākala",
+     "gloss": "knowledge-limited",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evātra",
+     "gloss": "thus-here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātāpakañcukaḥ",
+     "gloss": "mother-covering",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māyāniviṣṭe@pyakale",
+     "gloss": "in-maya-entered-limited-soul",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathetyekādaśātmatā",
+     "gloss": "thus-eleven-selfhood",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does the limited soul become elevenfold here?",
+   "premises": [
+    "limited soul is knowledge-limited",
+    "maya covering enters it",
+    "elevenfold selfhood follows"
+   ],
+   "inference": "The knowledge-limited soul becomes elevenfold through maya covering.",
+   "uncertainties": [
+    "token segmentation uncertain"
+   ],
+   "plain_english": "Here the knowledge-limited soul, covered by maya, becomes elevenfold."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "vijñānakevale",
+     "gloss": "knowledge-only",
+     "grounds": "compound term",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vedye",
+     "gloss": "known-object",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kañcukadhvaṃsasusthite",
+     "gloss": "covering-destruction-stable",
+     "grounds": "compound term",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "udbubhūṣuprabodhānāṃ",
+     "gloss": "desiring-awakening",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "mantrāṇāmeva",
+     "gloss": "mantras-only",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "mātṛtā",
+     "gloss": "motherhood",
+     "grounds": "abstract noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What motherhood arises for mantras in knowledge-only stability?",
+   "premises": [
+    "knowledge-only state is stable",
+    "coverings are destroyed",
+    "mantras desire awakening"
+   ],
+   "inference": "Motherhood belongs to mantras in that stable knowledge-only state.",
+   "uncertainties": [
+    "compound boundaries uncertain"
+   ],
+   "plain_english": "In the stable knowledge-only state, after coverings fall, mantras gain motherhood."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "te@pi",
+     "gloss": "they-also",
+     "grounds": "pronoun",
+     "morph": "pron.nom.pl"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meyāstadā",
+     "gloss": "measurable-then",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadīśvaraḥ",
+     "gloss": "that-lord",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "hyudbhavātpūrṇabodhastasminprāpte",
+     "gloss": "from-arising-full-knowledge-there-attained",
+     "grounds": "compound term",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meyatām",
+     "gloss": "measurability",
+     "grounds": "abstract noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "When do mantras become measurable and mother become lord?",
+   "premises": [
+    "mantras are also present",
+    "measurability arises then",
+    "full knowledge is attained"
+   ],
+   "inference": "Mantras become measurable and motherhood becomes lordship when full knowledge arises.",
+   "uncertainties": [
+    "long compound segmentation uncertain"
+   ],
+   "plain_english": "When full knowledge is attained, mantras become measurable and the mother becomes lord."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "udbhūtapūrṇarūpo@sau",
+     "gloss": "arisen-full-form-he",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantramaheśvaraḥ",
+     "gloss": "mantra-great-lord",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasminvijñeyatāṃ",
+     "gloss": "in-that-knowability",
+     "grounds": "compound term",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpte",
+     "gloss": "attained",
+     "grounds": "participle",
+     "morph": "part.past"
+    },
+    {
+     "surface": "svaprakāśaḥ",
+     "gloss": "self-luminous",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "proper noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What happens when knowability is attained in the mother?",
+   "premises": [
+    "mother is mantra great lord",
+    "knowability is attained",
+    "self-luminous supreme shiva remains"
+   ],
+   "inference": "When knowability is attained, supreme self-luminous Shiva is revealed.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "When knowability is attained, the mother as mantra-lord reveals self-luminous supreme Shiva."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "pramātā",
+     "gloss": "knower",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svakatādātmyabhāsitākhilavedyakaḥ",
+     "gloss": "self-nature-identity-illuminated-all-known",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "proper noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramātā",
+     "gloss": "knower",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meyo",
+     "gloss": "measurable",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "hyanyādhīnaprakāśatā",
+     "gloss": "because-other-dependent-luminosity",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is Shiva as knower not measurable?",
+   "premises": [
+    "shiva illuminates all known",
+    "knower is not measurable",
+    "luminosity is not other-dependent"
+   ],
+   "inference": "Shiva as knower is not measurable because his luminosity is self-dependent.",
+   "uncertainties": [
+    "long compound segmentation uncertain"
+   ],
+   "plain_english": "Shiva as knower illuminates all knowables and is not measurable, since his light is not dependent on another."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "meyatā",
+     "gloss": "measurability",
+     "grounds": "abstract noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatrāsti",
+     "gloss": "there-is",
+     "grounds": "verb",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "svaprakāśo",
+     "gloss": "self-luminous",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyasau",
+     "gloss": "indeed-he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "prabhuḥ",
+     "gloss": "lord",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svaprakāśe@tra",
+     "gloss": "in-self-luminous-here",
+     "grounds": "compound term",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kasmiṃścidanabhyupagate",
+     "gloss": "in-some-not-accepted",
+     "grounds": "compound term",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "participle",
+     "morph": "part.pres"
+    }
+   ],
+   "question": "Why is measurability absent where the lord is self-luminous?",
+   "premises": [
+    "measurability is not there",
+    "lord is self-luminous",
+    "no other acceptance is needed"
+   ],
+   "inference": "Measurability is absent because the self-luminous lord needs no other acceptance.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Measurability is absent there, for the lord is self-luminous and needs no external acceptance."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "aprakāśātprakāśatve",
+     "gloss": "from-non-luminous-to-luminous",
+     "grounds": "compound term",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hyanavasthā",
+     "gloss": "indeed-regress",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "duruttarā",
+     "gloss": "insurmountable",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "tataśca",
+     "gloss": "therefore-and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suptaṃ",
+     "gloss": "asleep",
+     "grounds": "participle",
+     "morph": "part.past"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syānna",
+     "gloss": "would-be-not",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "caivaṃ",
+     "gloss": "and-thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "Why would an insurmountable regress follow from non-luminous to luminous?",
+   "premises": [
+    "non-luminous to luminous causes regress",
+    "regress is insurmountable",
+    "universe would be asleep"
+   ],
+   "inference": "An insurmountable regress would make the universe unmanifest, so self-luminosity is required.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "A regress from non-luminous to luminous is insurmountable; otherwise the universe would remain asleep."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "anyādhīnaprakāśaṃ",
+     "gloss": "other-dependent-luminous",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbhātyanyastvasau",
+     "gloss": "that-shines-other-but-he",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "proper noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityasya",
+     "gloss": "of-this",
+     "grounds": "pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "svaprakāśatve",
+     "gloss": "in-self-luminosity",
+     "grounds": "compound term",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kimanyairyuktiḍambaraiḥ",
+     "gloss": "what-other-logical-displays",
+     "grounds": "compound term",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What need is there for other logical displays if Shiva is self-luminous?",
+   "premises": [
+    "other-dependent luminosity is rejected",
+    "shiva is self-luminous",
+    "logical displays are unnecessary"
+   ],
+   "inference": "If Shiva is self-luminous, no other logical displays are needed.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Since Shiva is self-luminous, other logical displays are unnecessary."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "mānānāṃ",
+     "gloss": "of-measures",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paro",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "jīvaḥ",
+     "gloss": "soul",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "evetyuktamāditaḥ",
+     "gloss": "thus-said-from-beginning",
+     "grounds": "compound term",
+     "morph": "part.past"
+    },
+    {
+     "surface": "nanvasti",
+     "gloss": "indeed-there-is",
+     "grounds": "verb",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "svaprakāśe@pi",
+     "gloss": "even-in-self-luminous",
+     "grounds": "compound term",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "shiva",
+     "grounds": "proper noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vedyatvamīdṛśaḥ",
+     "gloss": "knowability-such",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is there knowability even in self-luminous Shiva?",
+   "premises": [
+    "supreme soul is said from beginning",
+    "self-luminous shiva is present",
+    "such knowability is questioned"
+   ],
+   "inference": "The question asks whether knowability can apply to self-luminous Shiva.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The supreme soul was said from the beginning; yet knowability is questioned even in self-luminous Shiva."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "upadeśo[śyo]padeṣṭṛtvavyavahāro@nyathā",
+     "gloss": "instruction-teacherhood-convention-otherwise",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sṛṣṭaḥ",
+     "gloss": "created",
+     "grounds": "participle",
+     "morph": "part.past"
+    },
+    {
+     "surface": "parameśena",
+     "gloss": "by-supreme-lord",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vedyatām",
+     "gloss": "knowability",
+     "grounds": "abstract noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How could instruction and teacherhood convention otherwise exist?",
+   "premises": [
+    "truth is created thus",
+    "by supreme lord",
+    "knowability is involved"
+   ],
+   "inference": "Instruction and teacherhood convention depend on knowability created by the supreme lord.",
+   "uncertainties": [
+    "bracketed variant uncertain"
+   ],
+   "plain_english": "Otherwise instruction and teacherhood convention could not exist; truth is created thus by the supreme lord for knowability."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "nīto",
+     "gloss": "led",
+     "grounds": "participle",
+     "morph": "part.past"
+    },
+    {
+     "surface": "mantramaheśādikakṣyāṃ",
+     "gloss": "mantra-great-lord-etc-level",
+     "grounds": "compound term",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samadhiśāyyate",
+     "gloss": "is-made-to-meditate",
+     "grounds": "verb",
+     "morph": "v.3.sg.pass-pres"
+    },
+    {
+     "surface": "tathābhūtaśca",
+     "gloss": "thus-become-and",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedyo@sau",
+     "gloss": "knowable-he",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nānavacchinnasaṃvidaḥ",
+     "gloss": "not-unlimited-consciousness",
+     "grounds": "compound term",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "How is the led mantra-lord made to meditate and knowable?",
+   "premises": [
+    "he is led to mantra level",
+    "he is made to meditate",
+    "knowable he is not unlimited consciousness"
+   ],
+   "inference": "The led mantra-lord is made to meditate and is knowable, not unlimited consciousness.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Led to the mantra-lord level, he is made to meditate; thus knowable, he is not unlimited consciousness."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "pūrṇasya",
+     "gloss": "of-full",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "abstract noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yuktā",
+     "gloss": "fitting",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "parasparavirodhataḥ",
+     "gloss": "from-mutual-contradiction",
+     "grounds": "compound term",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyasvabhāve@pi",
+     "gloss": "even-in-knowable-nature",
+     "grounds": "compound term",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vastuto",
+     "gloss": "in-reality",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivātmatām",
+     "gloss": "shiva-selfhood",
+     "grounds": "compound term",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Is knowability fitting for the full one despite mutual contradiction?",
+   "premises": [
+    "knowability of full is fitting",
+    "mutual contradiction is considered",
+    "even in knowable nature shiva-selfhood is not real"
+   ],
+   "inference": "Knowability is fitting for the full one, yet shiva-selfhood is not real in knowable nature.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Knowability is fitting for the full one, but in reality shiva-selfhood is not found in knowable nature."
+  }
+ ]
+}

@@ -1,0 +1,425 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "vāyuradriṃ",
+     "gloss": "wind-mountain",
+     "grounds": "wind throws mountain phrase",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "pātayatītyatra",
+     "gloss": "throws-here",
+     "grounds": "throws here",
+     "morph": "verb.3.sg.act-pres + indecl."
+    },
+    {
+     "surface": "dvāvapi",
+     "gloss": "both-indeed",
+     "grounds": "both indeed",
+     "morph": "num.dual.m + indecl."
+    },
+    {
+     "surface": "tau",
+     "gloss": "those",
+     "grounds": "those two",
+     "morph": "pron.nom.dual.m"
+    },
+    {
+     "surface": "jaḍau",
+     "gloss": "inert",
+     "grounds": "inert pair",
+     "morph": "adj.nom.dual.m"
+    },
+    {
+     "surface": "draṣṭṛbhiḥ",
+     "gloss": "by-seers",
+     "grounds": "by seers",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "prerakapreryavapuṣā",
+     "gloss": "mover-moved-bodies",
+     "grounds": "mover and moved bodies",
+     "morph": "compound.inst.sg.m"
+    },
+    {
+     "surface": "parikalpitau",
+     "gloss": "imagined",
+     "grounds": "imagined by seers",
+     "morph": "part.nom.dual.m"
+    }
+   ],
+   "question": "How can inert wind and mountain be mover and moved?",
+   "premises": [
+    "Both wind and mountain are inert.",
+    "Seers imagine mover and moved bodies."
+   ],
+   "inference": "The mover-moved relation is mentally imposed.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "Here wind throws mountain, but both are inert and imagined by seers as mover and moved."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jaḍena",
+     "gloss": "with-inert",
+     "grounds": "with inert thing",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "saṃbandhe",
+     "gloss": "in-relation",
+     "grounds": "in relation",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "primary",
+     "grounds": "primary sense",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "ṇyarthasaṃgatiḥ",
+     "gloss": "causal-sense",
+     "grounds": "causal sense",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "āstāmanyatra",
+     "gloss": "let-it-be-elsewhere",
+     "grounds": "let it be elsewhere",
+     "morph": "verb.3.sg.imp + indecl."
+    },
+    {
+     "surface": "vitatametadvistarato",
+     "gloss": "spread-detailed",
+     "grounds": "spread in detail",
+     "morph": "part.acc.sg.n + indecl."
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "by me",
+     "morph": "pron.inst.sg"
+    }
+   ],
+   "question": "Why is primary causal sense absent with inert relation?",
+   "premises": [
+    "Relation with inert thing lacks primary causal sense.",
+    "Detailed treatment is given elsewhere."
+   ],
+   "inference": "Primary causation is denied in inert relation.",
+   "uncertainties": [
+    "ṇyarthasaṃgatiḥ segmentation uncertain."
+   ],
+   "plain_english": "Thus in relation with an inert thing, primary causal sense is not; let it be elsewhere, for I have spread this out in detail."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "arthe",
+     "gloss": "in-meaning",
+     "grounds": "in meaning",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "prakāśanā",
+     "gloss": "manifestation",
+     "grounds": "manifestation",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "seyamupacārastato",
+     "gloss": "this-metaphor-then",
+     "grounds": "this is metaphor then",
+     "morph": "pron.nom.sg.f + noun.nom.sg.m + indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "may be",
+     "morph": "verb.3.sg.opt.act"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-it-be",
+     "grounds": "let it be",
+     "morph": "verb.3.sg.imp.act"
+    },
+    {
+     "surface": "cedbhāsate",
+     "gloss": "if-shines",
+     "grounds": "if it shines",
+     "morph": "conj + verb.3.sg.pres.act"
+    },
+    {
+     "surface": "tarhi",
+     "gloss": "then",
+     "grounds": "then",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "itself",
+     "grounds": "itself",
+     "morph": "indecl."
+    },
+    {
+     "surface": "patadadrivat",
+     "gloss": "like-falling-mountain",
+     "grounds": "like falling mountain",
+     "morph": "part.nom.sg.m + indecl."
+    }
+   ],
+   "question": "If manifestation is metaphor, what actually shines?",
+   "premises": [
+    "Manifestation in meaning is metaphor.",
+    "If it shines, then that itself is like a falling mountain."
+   ],
+   "inference": "Metaphorical manifestation must still have a real shining referent.",
+   "uncertainties": [
+    "seyamupacārastato sandhi segmentation uncertain."
+   ],
+   "plain_english": "Manifestation in meaning is metaphor; let it be; if it shines, then that itself is like a falling mountain."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "upacāre",
+     "gloss": "in-metaphor",
+     "grounds": "in metaphor",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "nimittena",
+     "gloss": "by-cause",
+     "grounds": "by cause",
+     "morph": "noun.inst.sg.m"
+    },
+    {
+     "surface": "kenāpi",
+     "gloss": "by-some",
+     "grounds": "by some",
+     "morph": "pron.inst.sg + indecl."
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhūyate",
+     "gloss": "becomes",
+     "grounds": "becomes",
+     "morph": "verb.3.sg.pass.pres"
+    },
+    {
+     "surface": "vāyuḥ",
+     "gloss": "wind",
+     "grounds": "wind",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "pātayatītyatra",
+     "gloss": "throws-here",
+     "grounds": "throws here",
+     "morph": "verb.3.sg.act-pres + indecl."
+    },
+    {
+     "surface": "nimittaṃ",
+     "gloss": "cause",
+     "grounds": "cause",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "tatkṛtā",
+     "gloss": "done-by-that",
+     "grounds": "done by that",
+     "morph": "part.nom.sg.f"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "action",
+     "morph": "noun.nom.sg.f"
+    }
+   ],
+   "question": "What cause makes wind metaphorically throw mountain?",
+   "premises": [
+    "In metaphor, wind becomes by some cause.",
+    "The cause is action done by that."
+   ],
+   "inference": "Metaphorical throwing has an external causal action.",
+   "uncertainties": [
+    "kenāpi segmentation uncertain."
+   ],
+   "plain_english": "In metaphor, wind becomes by some cause; here 'throws mountain' has as cause an action done by that."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "girau",
+     "gloss": "on-mountain",
+     "grounds": "on mountain",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "yenaiṣa",
+     "gloss": "by-which-this",
+     "grounds": "by which this",
+     "morph": "pron.inst.sg + pron.nom.sg.m"
+    },
+    {
+     "surface": "saṃyoganāśādbhraṃśaṃ",
+     "gloss": "from-destruction-of-conjunction-fall",
+     "grounds": "fall from destruction of conjunction",
+     "morph": "compound.abl.sg.m + noun.acc.sg.m"
+    },
+    {
+     "surface": "prapadyate",
+     "gloss": "attains",
+     "grounds": "attains",
+     "morph": "verb.3.sg.mid.pres"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "here",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "but",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jñānamarthasya",
+     "gloss": "knowledge-of-object",
+     "grounds": "knowledge of object",
+     "morph": "compound.nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiṃcitkarameva",
+     "gloss": "at-all-action",
+     "grounds": "at all action",
+     "morph": "pron.acc.sg.n + noun.nom.sg.n + indecl."
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "pron.nom.sg.n"
+    }
+   ],
+   "question": "How does knowledge of object differ from mountain fall?",
+   "premises": [
+    "On mountain, fall follows destruction of conjunction.",
+    "Knowledge of object is not action at all."
+   ],
+   "inference": "Knowledge is not a physical causal event.",
+   "uncertainties": [
+    "yenaiṣa sandhi segmentation uncertain."
+   ],
+   "plain_english": "On the mountain, this attains fall from destruction of conjunction; but here knowledge of an object is not action at all."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "upacāraḥ",
+     "gloss": "metaphor",
+     "grounds": "metaphor",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "how",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavetso@pi",
+     "gloss": "may-be-that-too",
+     "grounds": "may that too be",
+     "morph": "verb.3.sg.opt.act + pron.nom.sg.m + indecl."
+    },
+    {
+     "surface": "hyavastusan",
+     "gloss": "unmanifest-thing",
+     "grounds": "unmanifest thing",
+     "morph": "adj.nom.sg.m + noun.nom.sg.m"
+    },
+    {
+     "surface": "aprakāśita",
+     "gloss": "unmanifested",
+     "grounds": "unmanifested",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "evārthaḥ",
+     "gloss": "indeed-object",
+     "grounds": "indeed object",
+     "morph": "indecl. + noun.nom.sg.m"
+    },
+    {
+     "surface": "prakāśatvopacārataḥ",
+     "gloss": "from-metaphor-of-manifestation",
+     "grounds": "from metaphor of manifestation",
+     "morph": "compound.abl.sg.m"
+    }
+   ],
+   "question": "How can metaphor apply to unmanifest object?",
+   "premises": [
+    "Metaphor cannot apply to unmanifest object.",
+    "An unmanifested object is not manifested by metaphor of manifestation."
+   ],
+   "inference": "Metaphor of manifestation fails for unmanifest objects.",
+   "uncertainties": [
+    "bhavetso@pi segmentation uncertain."
+   ],
+   "plain_english": "How can metaphor indeed be? That too is an unmanifest thing; an unmanifested object is not manifested by metaphor of manifestation."
+  }
+ ]
+}
