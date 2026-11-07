@@ -1,0 +1,755 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "koṣṭhe",
+     "gloss": "in-square",
+     "grounds": "locative of koṣṭha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cendudvayaṃ",
+     "gloss": "if-two-moons",
+     "grounds": "conditional compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryādbahirbhāgārdhabhāgataḥ",
+     "gloss": "make-outer-half-part-from",
+     "grounds": "verb with ablative phrase",
+     "morph": "3.sg.act.opt.+root kṛ"
+    },
+    {
+     "surface": "tayorlagnaṃ",
+     "gloss": "their-attached",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmasūtrāttṛtīye",
+     "gloss": "from-brahma-sutra-third",
+     "grounds": "ablative + ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "marmaṇi",
+     "gloss": "in-marman",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "situated",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the two moons be placed in the square?",
+   "premises": [
+    "two moons are considered",
+    "outer half part is used",
+    "brahma-sutra attaches at third marman"
+   ],
+   "inference": "The construction places the attached brahma-sutra at the third marman.",
+   "uncertainties": [
+    "exact ritual geometry unclear"
+   ],
+   "plain_english": "In the square, if there are two moons, make the outer half-part; their attached brahma-sutra is situated at the third marman."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "koṣṭhakārdhe@paraṃ",
+     "gloss": "in-square-half-other",
+     "grounds": "locative phrase",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "if-so",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugmamantarmukhaṃ",
+     "gloss": "pair-inward-facing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+root bhū"
+    },
+    {
+     "surface": "brahmasūtrāddvitīyasmin",
+     "gloss": "from-brahma-sutra-second",
+     "grounds": "ablative + ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "marmaṇi",
+     "gloss": "in-marman",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niścalam",
+     "gloss": "immovable",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should the inward-facing pair be fixed?",
+   "premises": [
+    "pair is inward-facing",
+    "second marman is used",
+    "hand marman is named"
+   ],
+   "inference": "The pair becomes immovable at the second marman of the hand.",
+   "uncertainties": [
+    "@paraṃ segmentation unclear"
+   ],
+   "plain_english": "If so, in the half of the square, the inward-facing pair would be at the second marman of the hand, immovable."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs.+root kṛ"
+    },
+    {
+     "surface": "pūrṇenduyugalaṃ",
+     "gloss": "full-moon-pair",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vartayeta",
+     "gloss": "should-turn",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+root vṛt"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmasūtragatāt",
+     "gloss": "from-brahma-sutra-gone",
+     "grounds": "ablative participle",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ṣaṣṭhāt",
+     "gloss": "from-sixth",
+     "grounds": "ablative ordinal",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tiryagbhāgāttṛtīyake",
+     "gloss": "from-cross-part-third",
+     "grounds": "ablative + ordinal",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should the wise one turn the full-moon pair?",
+   "premises": [
+    "full-moon pair is made",
+    "turning is prescribed",
+    "sixth brahma-sutra point is used"
+   ],
+   "inference": "The wise one turns the pair from the sixth brahma-sutra point to the third cross part.",
+   "uncertainties": [
+    "direction of turning unclear"
+   ],
+   "plain_english": "Having made a pair of full moons, the wise one should turn them from the sixth brahma-sutra point to the third cross part."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "kṛtvārdhakoṣṭhake",
+     "gloss": "having-made-half-square",
+     "grounds": "absolutive compound",
+     "morph": "abs.+root kṛ"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrṇacandrāgralambitam",
+     "gloss": "full-moon-tip-hanging",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhramayedunmukhaṃ",
+     "gloss": "should-rotate-upward-facing",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.opt.+root bhram"
+    },
+    {
+     "surface": "khaṇḍacandrayugvahnibhāgagam",
+     "gloss": "broken-moon-pair-fire-part-going",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the thread be rotated?",
+   "premises": [
+    "half-square is made",
+    "thread hangs from full moon tip",
+    "rotation is upward-facing"
+   ],
+   "inference": "The thread should be rotated upward-facing toward the broken-moon pair fire part.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Having made a half-square, rotate the thread hanging from the full moon tip, upward-facing, toward the broken-moon pair fire part."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "tiryagbhāgadvayaṃ",
+     "gloss": "cross-part-pair",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive",
+     "morph": "abs.+root tyaj"
+    },
+    {
+     "surface": "khaṇḍendoḥ",
+     "gloss": "of-broken-moon",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paścimāttataḥ",
+     "gloss": "from-west-then",
+     "grounds": "ablative + adverb",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "koṇaṃ",
+     "gloss": "corner",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yāvattathā",
+     "gloss": "until-so",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syācca",
+     "gloss": "and-would-be",
+     "grounds": "verb + particle",
+     "morph": "3.sg.act.opt.+root as"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+root kṛ"
+    },
+    {
+     "surface": "khaṇḍaṃ",
+     "gloss": "broken-piece",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhramadvayam",
+     "gloss": "two-rotations",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be done after abandoning the cross parts?",
+   "premises": [
+    "cross-part pair is abandoned",
+    "western broken moon is referenced",
+    "corner is reached"
+   ],
+   "inference": "One should make a broken piece with two rotations until the corner is so reached.",
+   "uncertainties": [
+    "exact corner reference unclear"
+   ],
+   "plain_english": "Having abandoned the cross-part pair, from the western broken moon then to the corner, so it would be; make a broken piece with two rotations."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "sutīkṣṇakuṭilāgraṃ",
+     "gloss": "very-sharp-curved-tip",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadekaṃ",
+     "gloss": "that-one",
+     "grounds": "demonstrative + numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṅgaṃ",
+     "gloss": "horn",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "verb",
+     "morph": "3.sg.mid.pres.+root jan"
+    },
+    {
+     "surface": "dvitīyasminnapi",
+     "gloss": "also-in-second",
+     "grounds": "locative + particle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śṛṅga",
+     "gloss": "horn",
+     "grounds": "vocative/accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuṭaḥ",
+     "gloss": "clear",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is born from the sharp curved tip?",
+   "premises": [
+    "one horn is born",
+    "second is also declared",
+    "rule is clear"
+   ],
+   "inference": "A very sharp curved tip becomes one horn, and the same rule applies to the second.",
+   "uncertainties": [
+    "vocative śṛṅga unusual"
+   ],
+   "plain_english": "From that one very sharp curved tip a horn is born; the same rule is declared for the second; this rule is clear."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "madhyaśṛṅge@tha",
+     "gloss": "in-middle-horn-then",
+     "grounds": "locative + particle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kartavye",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tṛtīye",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ūrdhvakoṣṭhake",
+     "gloss": "in-upper-square",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caturthārdhe",
+     "gloss": "in-fourth-half",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candrārdhadvayamantarmukhaṃ",
+     "gloss": "moon-half-pair-inward-facing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+root bhū"
+    }
+   ],
+   "question": "What should be made in the middle horn?",
+   "premises": [
+    "middle horn is to be made",
+    "third upper square is used",
+    "fourth half is used"
+   ],
+   "inference": "When the middle horn is made, an inward-facing pair of moon-halves would be in the third upper square and fourth half.",
+   "uncertainties": [
+    "@tha segmentation unclear"
+   ],
+   "plain_english": "When the middle horn is to be made, in the third upper square and fourth half, an inward-facing pair of moon-halves would be."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "demonstrative + particle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrṇendumekaṃ",
+     "gloss": "one-full-moon",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgvartitaṃ",
+     "gloss": "previously-turned",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpnuyādyathā",
+     "gloss": "should-reach-as",
+     "grounds": "verb + adverb",
+     "morph": "3.sg.act.opt.+root prāp"
+    },
+    {
+     "surface": "anyonyagranthiyogena",
+     "gloss": "by-mutual-knot-union",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "baddhāratvaṃ",
+     "gloss": "bound-state",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "verb",
+     "morph": "3.sg.mid.pres.+root jan"
+    }
+   ],
+   "question": "How does the bound state arise?",
+   "premises": [
+    "one full moon is previously turned",
+    "mutual knot union is used",
+    "bound state arises"
+   ],
+   "inference": "By mutual knot union, the previously turned full moon reaches as needed and a bound state arises.",
+   "uncertainties": [
+    "prāpnuyādyathā parsing"
+   ],
+   "plain_english": "And that one full moon, previously turned, should reach as needed; by mutual knot union a bound state arises."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyapārśve@sya",
+     "gloss": "on-second-side-of-this",
+     "grounds": "locative + genitive",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "khaṇḍendudvayavartanāt",
+     "gloss": "from-turning-broken-moon-pair",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "madhyābhyāṃ",
+     "gloss": "by-two-middles",
+     "grounds": "instrumental dual",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "gaṇḍikā",
+     "gloss": "cheek-knot",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śliṣṭā",
+     "gloss": "joined",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parābhyāmagrato",
+     "gloss": "by-others-in-front",
+     "grounds": "instrumental + adverb",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-lead",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+root nī"
+    }
+   ],
+   "question": "How is the cheek-knot led?",
+   "premises": [
+    "second side is used",
+    "broken-moon pair is turned",
+    "two middles join"
+   ],
+   "inference": "Thus on the second side, from turning the broken-moon pair, the joined cheek-knot should be led forward by the other two.",
+   "uncertainties": [
+    "@sya segmentation"
+   ],
+   "plain_english": "Thus on the second side, from turning the broken-moon pair, the joined cheek-knot should be led forward by the other two middles."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "nominative/accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pārśvadvaye",
+     "gloss": "in-two-sides",
+     "grounds": "locative dual",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tīkṣṇaṃ",
+     "gloss": "sharp",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syānmadhyaśṛṅgagam",
+     "gloss": "would-be-middle-horn-going",
+     "grounds": "verb + compound",
+     "morph": "3.sg.act.opt.+root as"
+    },
+    {
+     "surface": "pārśvadvayādhare",
+     "gloss": "at-two-sides-bottom",
+     "grounds": "locative compound",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "paścādbrahmasūtraṃ",
+     "gloss": "behind-brahma-sutra",
+     "grounds": "adverb + accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does the thread become sharp?",
+   "premises": [
+    "thread is in two sides",
+    "middle horn is reached",
+    "second brahma-sutra is behind"
+   ],
+   "inference": "The thread in two sides becomes sharp and goes to the middle horn, with the second brahma-sutra behind at the bottom of both sides.",
+   "uncertainties": [
+    "syānmadhyaśṛṅgagam parsing"
+   ],
+   "plain_english": "The thread in both sides, by which it becomes sharp and goes to the middle horn, has the second brahma-sutra behind at the bottom of both sides."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "avadhānena",
+     "gloss": "with-attention",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃgrāhyamācāryeṇohavedinā",
+     "gloss": "should-be-grasped-by-teacher-knowing-ritual",
+     "grounds": "passive gerundive compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavetpaścānmukho",
+     "gloss": "would-be-rear-facing",
+     "grounds": "verb + adjective",
+     "morph": "3.sg.act.opt.+root bhū"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-knower",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmiṃśca",
+     "gloss": "and-in-that",
+     "grounds": "locative + particle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmasūtrake",
+     "gloss": "in-brahma-sutra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should the mantra-knower be oriented?",
+   "premises": [
+    "attention is required",
+    "teacher knowing ritual grasps",
+    "mantra-knower is rear-facing"
+   ],
+   "inference": "With attention, the teacher knowing ritual grasps it, and the mantra-knower becomes rear-facing in that brahma-sutra.",
+   "uncertainties": [
+    "compound saṃgrāhyamācāryeṇohavedinā"
+   ],
+   "plain_english": "With attention it should be grasped by the teacher who knows the ritual; the mantra-knower would be rear-facing in that brahma-sutra."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "madhyaśṛṅgaṃ",
+     "gloss": "middle-horn",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varjayitvā",
+     "gloss": "having-excluded",
+     "grounds": "absolutive",
+     "morph": "abs.+root varj"
+    },
+    {
+     "surface": "sarvaḥ",
+     "gloss": "all",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvodito",
+     "gloss": "previously-stated",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadunmukhaṃ",
+     "gloss": "which-upward-facing",
+     "grounds": "relative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "khaṇḍacandrayugmaṃ",
+     "gloss": "broken-moon-pair",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puroditam",
+     "gloss": "previously-declared",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What rule remains after excluding the middle horn?",
+   "premises": [
+    "middle horn is excluded",
+    "all previously stated rule applies",
+    "upward-facing broken-moon pair is declared"
+   ],
+   "inference": "Excluding the middle horn, all the previously stated rule then applies to the upward-facing broken-moon pair previously declared.",
+   "uncertainties": [
+    "yadunmukhaṃ relative scope"
+   ],
+   "plain_english": "Having excluded the middle horn, all the previously stated rule then applies to the upward-facing broken-moon pair previously declared."
+  }
+ ]
+}

@@ -1,0 +1,791 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "yoginīhṛdayaṃ",
+     "gloss": "yogini-heart",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṅgamidamānandasundaram",
+     "gloss": "this-lingam-bliss-beautiful",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "bījayonisamāpattyā",
+     "gloss": "by-seed-womb-union",
+     "grounds": "instrumental ending",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "sūte",
+     "gloss": "gives-birth",
+     "grounds": "verb ending",
+     "morph": "3.sg.act-pres+root sū"
+    },
+    {
+     "surface": "kāmapi",
+     "gloss": "some",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvidam",
+     "gloss": "consciousness",
+     "grounds": "accusative ending",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How does the beautiful lingam give birth to consciousness?",
+   "premises": [
+    "Yogini heart is the lingam.",
+    "Seed-womb union produces birth.",
+    "Consciousness is the result."
+   ],
+   "inference": "The lingam, as yogini heart, gives birth to some consciousness through seed-womb union.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "The beautiful lingam, heart of the yogini, gives birth to some consciousness through the union of seed and womb."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayāsavirahātsarvo@sau",
+     "gloss": "without-effort-all-that",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "devatāgaṇaḥ",
+     "gloss": "host-of-deities",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "ānandapūrṇe",
+     "gloss": "in-bliss-full",
+     "grounds": "locative ending",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dhāmnyāste",
+     "gloss": "dwells-in-abode",
+     "grounds": "verb ending",
+     "morph": "3.sg.mid-pres+root ās"
+    },
+    {
+     "surface": "nityoditacidātmakaḥ",
+     "gloss": "eternally-risen-consciousness-natured",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why do all deities dwell in the blissful abode here?",
+   "premises": [
+    "Here effort is absent.",
+    "All deities are present.",
+    "The abode is full of bliss."
+   ],
+   "inference": "Without effort, the whole host of deities dwells in the blissful abode as eternally risen consciousness.",
+   "uncertainties": [
+    "Sandhi split is approximate."
+   ],
+   "plain_english": "Here, without effort, all deities dwell in the bliss-filled abode, being of eternally arisen consciousness."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavanāthasya",
+     "gloss": "of-bhairava-lord",
+     "grounds": "genitive ending",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sasaṃkocavikāsikā",
+     "gloss": "with-contraction-expansion",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb ending",
+     "morph": "3.sg.mid-pres+root bhās"
+    },
+    {
+     "surface": "durghaṭā",
+     "gloss": "difficult",
+     "grounds": "adjective ending",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śaktirasaṃkocavikāsinaḥ",
+     "gloss": "power-without-contraction-expansion",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What shines as the difficult power of Bhairava here?",
+   "premises": [
+    "Bhairava is lord here.",
+    "Power has contraction and expansion.",
+    "The difficult power shines."
+   ],
+   "inference": "Here shines the difficult power of Bhairava, both with and without contraction and expansion.",
+   "uncertainties": [
+    "Compound parsing is approximate."
+   ],
+   "plain_english": "Here shines the difficult power of Bhairava, with contraction and expansion, and without contraction and expansion."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "etalliṅgasamāpattivisargānandadhārayā",
+     "gloss": "by-this-lingam-union-emission-bliss-stream",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "siktaṃ",
+     "gloss": "sprinkled",
+     "grounds": "participle ending",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadviśvaṃ",
+     "gloss": "true-universe",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaśvannavanavāyate",
+     "gloss": "always-newly-arises",
+     "grounds": "verb ending",
+     "morph": "3.sg.mid-pres+root vā"
+    }
+   ],
+   "question": "How does the true universe arise through the lingam's bliss stream?",
+   "premises": [
+    "The lingam union emits bliss.",
+    "The universe is sprinkled by it.",
+    "The universe always newly arises."
+   ],
+   "inference": "Sprinkled by the bliss stream of lingam union, the very true universe always newly arises.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Sprinkled by the bliss stream of this lingam's union and emission, the very true universe always newly arises."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "anuttare@bhyupāyo@tra",
+     "gloss": "in-supreme-means-here",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "tādrūpyādeva",
+     "gloss": "by-sameness-only",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇitaḥ",
+     "gloss": "described",
+     "grounds": "participle ending",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jvaliteṣvapi",
+     "gloss": "even-when-blazing",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "dīpeṣu",
+     "gloss": "in-lamps",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "gharmāṃśuḥ",
+     "gloss": "sun",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb ending",
+     "morph": "3.sg.mid-pres+root bhās"
+    }
+   ],
+   "question": "Why does the sun not shine when lamps blaze?",
+   "premises": [
+    "The supreme means is described here.",
+    "Sameness is the reason.",
+    "Even blazing lamps do not hide the sun."
+   ],
+   "inference": "The supreme means is described by sameness; just as the sun still shines among blazing lamps, the supreme remains evident.",
+   "uncertainties": [
+    "Sandhi split is approximate."
+   ],
+   "plain_english": "Here the supreme means is described by sameness alone; even when lamps blaze, why would the sun not shine?"
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "artheṣu",
+     "gloss": "in-objects",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "tadbhogavidhau",
+     "gloss": "in-enjoyment-of-that",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tadutthe",
+     "gloss": "arising-from-that",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "duḥkhe",
+     "gloss": "in-pain",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sukhe",
+     "gloss": "in-pleasure",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galitābhiśaṅkam",
+     "gloss": "with-fear-dissolved",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "anāviśanto@pi",
+     "gloss": "even-not-entering",
+     "grounds": "participle",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "nimagnacittā",
+     "gloss": "with-absorbed-mind",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "jānanti",
+     "gloss": "know",
+     "grounds": "verb ending",
+     "morph": "3.pl.act-pres+root jñā"
+    },
+    {
+     "surface": "vṛttikṣayasaukhyamantaḥ",
+     "gloss": "inner-joy-of-activity-ceasing",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What do absorbed minds know amid pleasure and pain?",
+   "premises": [
+    "Objects bring pleasure or pain.",
+    "Fear is dissolved.",
+    "Absorbed minds know inner joy."
+   ],
+   "inference": "Even without entering objects, absorbed minds know the inner joy that comes when activity ceases.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "In objects, in their enjoyment, and in pain or pleasure arising from them, even without entering them, minds absorbed know the inner joy of activity ceasing."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "satyevātmani",
+     "gloss": "in-true-self",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "citsvabhāvamahasi",
+     "gloss": "in-consciousness-natured-greatness",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "svānte",
+     "gloss": "in-mind",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tathopaktiyāṃ",
+     "gloss": "in-such-service",
+     "grounds": "locative singular",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-that",
+     "grounds": "dative singular",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "kurvati",
+     "gloss": "doing",
+     "grounds": "participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tatpracāravivaśe",
+     "gloss": "overwhelmed-by-its-movement",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "satyakṣavarge@pi",
+     "gloss": "even-in-true-senses",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satsvartheṣu",
+     "gloss": "in-true-objects",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "sukhādiṣu",
+     "gloss": "in-pleasure-and-so-forth",
+     "grounds": "locative plural",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "sphuṭataraṃ",
+     "gloss": "more-clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadbhedavandhyodayaṃ",
+     "gloss": "whose-difference-barren-rising",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "verb ending",
+     "morph": "3.sg.act-pres+root sthā"
+    },
+    {
+     "surface": "pūrṇaraśmivibhavastattattvamācīyatām",
+     "gloss": "full-ray-glory-that-reality-let-be-perceived",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does the yogi perceive as full reality?",
+   "premises": [
+    "The yogi stands in true self.",
+    "Consciousness greatness is present.",
+    "Difference-barren rising appears clearly."
+   ],
+   "inference": "The yogi stands in the true self and perceives the full reality whose rising is barren of difference.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "In the true self, in consciousness greatness, in mind, and in such service, the yogi stands clearly, and that reality full of rays is to be perceived."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "ityuccāravidhiḥ",
+     "gloss": "thus-recitation-method",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pravivicyate",
+     "gloss": "is-examined",
+     "grounds": "verb ending",
+     "morph": "3.sg.pass-pres+root vic"
+    },
+    {
+     "surface": "taccetthaṃ",
+     "gloss": "that-thus",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "triśiraḥśāstre",
+     "gloss": "in-three-headed-scripture",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "parameśena",
+     "gloss": "by-supreme-lord",
+     "grounds": "instrumental singular",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "bhāṣitam",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How is the instrument examined after the recitation method?",
+   "premises": [
+    "The recitation method is declared.",
+    "The instrument is examined.",
+    "The supreme lord spoke it in scripture."
+   ],
+   "inference": "After declaring the recitation method, the instrument is examined as spoken by the supreme lord in the three-headed scripture.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Thus the recitation method is declared; the instrument is examined, and that was spoken by the supreme lord in the three-headed scripture."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "grāhyagrāhakacidvyāptityāgākṣepaniveśanaiḥ",
+     "gloss": "by-grasped-grasper-consciousness-pervasion-abandonment-impulsion-placement",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāhurabhyāsaṃ",
+     "gloss": "they-call-practice",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "bodhapūrvakam",
+     "gloss": "preceded-by-awareness",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the instrument described as sevenfold practice?",
+   "premises": [
+    "Instrument is sevenfold.",
+    "Practice is preceded by awareness.",
+    "Grasped and grasper are included."
+   ],
+   "inference": "The instrument is called sevenfold practice preceded by awareness, involving grasped, grasper, consciousness, pervasion, abandonment, impulsion, and placement.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "By grasped, grasper, consciousness, pervasion, abandonment, impulsion, and placement, the instrument is called sevenfold practice preceded by awareness."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "tadvyāptipūrvamākṣepe",
+     "gloss": "in-impulsion-preceded-by-its-pervasion",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "svapratiṣṭhatā",
+     "gloss": "self-establishment",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "guruvaktrācca",
+     "gloss": "and-from-guru-mouth",
+     "grounds": "ablative singular",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "boddhavyaṃ",
+     "gloss": "to-be-understood",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clear",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the instrument's self-establishment to be understood?",
+   "premises": [
+    "Impulsion is preceded by pervasion.",
+    "Self-establishment belongs to instrument.",
+    "It is to be understood from guru."
+   ],
+   "inference": "Although the instrument is clear, its self-establishment in impulsion preceded by pervasion is to be understood from the guru's mouth.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "In impulsion preceded by its pervasion, the instrument's self-establishment is to be understood from the guru's mouth, although the instrument is clear."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "tathāpyāgamarakṣārthaṃ",
+     "gloss": "yet-for-scripture-protection",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadagre",
+     "gloss": "before-that",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "varṇayiṣyate",
+     "gloss": "will-be-described",
+     "grounds": "verb ending",
+     "morph": "3.sg.pass-fut+root varṇ"
+    },
+    {
+     "surface": "ukto",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "uccārastatra",
+     "gloss": "recitation-there",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "yo@sau",
+     "gloss": "which-that",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "sphuran",
+     "gloss": "shining",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why will the recitation be described again before that?",
+   "premises": [
+    "Scripture protection is the reason.",
+    "The recitation was declared.",
+    "The shining one stands there."
+   ],
+   "inference": "For protection of scripture, the recitation will be described before that, namely the shining recitation already declared and standing there.",
+   "uncertainties": [
+    "Sandhi split is approximate."
+   ],
+   "plain_english": "Yet for protection of scripture, it will be described before that: this recitation, which is shining and standing there."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "avyaktānukṛtiprāyo",
+     "gloss": "mostly-imitation-of-unmanifest",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhvanirvarṇaḥ",
+     "gloss": "sound-letter",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "verb ending",
+     "morph": "3.sg.pass-pres+root kath"
+    },
+    {
+     "surface": "sṛṣṭisaṃhārabījaṃ",
+     "gloss": "seed-of-creation-dissolution",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "principal",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vapurviduḥ",
+     "gloss": "form-know",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is called the sound-letter and its principal form?",
+   "premises": [
+    "Sound-letter mostly imitates unmanifest.",
+    "It is seed of creation and dissolution.",
+    "Its principal form is known."
+   ],
+   "inference": "The sound-letter, mostly an imitation of the unmanifest, is called the seed of creation and dissolution, and its principal form is known.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "The sound-letter, mostly an imitation of the unmanifest, is called the seed of creation and dissolution, and its principal form is known."
+  }
+ ]
+}
