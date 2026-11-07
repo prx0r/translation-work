@@ -1,0 +1,719 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "etatsvayaṃ",
+     "gloss": "this-itself",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rasaḥ",
+     "gloss": "essence",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuddhaḥ",
+     "gloss": "pure",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśānandacinmayaḥ",
+     "gloss": "light-bliss-consciousness-filled",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatānāṃ",
+     "gloss": "of-deities",
+     "grounds": "token 5",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "priyaṃ",
+     "gloss": "beloved",
+     "grounds": "token 6",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "eternal",
+     "grounds": "token 7",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasmādetatpivetsadā",
+     "gloss": "therefore-this-drink-always",
+     "grounds": "token 8",
+     "morph": "3.sg.opt.-pā"
+    }
+   ],
+   "question": "Why should this pure essence be drunk always?",
+   "premises": [
+    "Pure essence is beloved of deities.",
+    "It is eternal and consciousness-filled."
+   ],
+   "inference": "Therefore one should always drink it.",
+   "uncertainties": [
+    "Sanskrit sandhi and compound boundaries are approximate."
+   ],
+   "plain_english": "This itself is the pure essence of light, bliss, and consciousness, beloved of the deities and eternal; therefore one should always drink it."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "śrīmatkramarahasye",
+     "gloss": "in-glorious-krama-secret",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyarūpi",
+     "gloss": "formed",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśinā",
+     "gloss": "by-supreme-lord",
+     "grounds": "token 4",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "arghapātraṃ",
+     "gloss": "argha-vessel",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāgadhāma",
+     "gloss": "sacrifice-abode",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dīpa",
+     "gloss": "lamp",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityucyate",
+     "gloss": "thus-called",
+     "grounds": "token 8",
+     "morph": "3.sg.pass.pres.-vac"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "three",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What three things are named in the Krama secret?",
+   "premises": [
+    "The glorious Krama secret names three things.",
+    "They are argha-vessel, sacrifice-abode, and lamp."
+   ],
+   "inference": "These three form the named set.",
+   "uncertainties": [
+    "The exact sense of nyarūpi is uncertain."
+   ],
+   "plain_english": "In the glorious Krama secret, by the supreme lord, argha-vessel, sacrifice-abode, and lamp are called three."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulike",
+     "gloss": "in-kaula",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yāge",
+     "gloss": "in-sacrifice",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tatrārghaḥ",
+     "gloss": "there-argha",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktisaṃgamāt",
+     "gloss": "from-shakti-union",
+     "grounds": "token 5",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhūvastrakāyapīṭhākhyaṃ",
+     "gloss": "earth-garment-body-seat-named",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "abode",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cotkarṣabhāk",
+     "gloss": "and-excellence-bearing",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the secret explained in Kaula sacrifice?",
+   "premises": [
+    "In Kaula sacrifice the secret is explained.",
+    "Argha comes from Shakti union."
+   ],
+   "inference": "The abode and excellence follow in order.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "The secret in Kaula sacrifice: there argha comes from Shakti union, the abode is named earth-garment-body-seat, and excellence follows in order."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "dīpā",
+     "gloss": "lamp",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghṛtotthā",
+     "gloss": "ghee-born",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gāvo",
+     "gloss": "cows",
+     "grounds": "token 3",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūcaryo",
+     "gloss": "earth-wandering",
+     "grounds": "token 5",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "token 6",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "token 7",
+     "morph": "3.pl.pass.perf.-smṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "token 9",
+     "morph": "abs.-jñā"
+    },
+    {
+     "surface": "traye@muṣminyatnavānkauliko",
+     "gloss": "in-those-three-diligent-kaulika",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "token 11",
+     "morph": "3.sg.opt.-bhū"
+    }
+   ],
+   "question": "What should a Kaulika become after knowing this?",
+   "premises": [
+    "Lamp is ghee-born.",
+    "Cows are earth-wandering deities."
+   ],
+   "inference": "Knowing this, the Kaulika should become diligent in those three.",
+   "uncertainties": [
+    "Token 10 is a sandhi-heavy compound."
+   ],
+   "plain_english": "Lamp is ghee-born; cows are indeed remembered as earth-wandering deities; knowing this, the Kaulika should become diligent in those three."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "tenārghapātraprādhānyaṃ",
+     "gloss": "therefore-argha-vessel-primacy",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "token 2",
+     "morph": "abs.-jñā"
+    },
+    {
+     "surface": "dravyāṇi",
+     "gloss": "substances",
+     "grounds": "token 3",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śambhunā",
+     "gloss": "by-shambhu",
+     "grounds": "token 4",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "yānyuktānyaviśaṅko@tra",
+     "gloss": "which-stated-without-doubt-there",
+     "grounds": "token 5",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhavecchaṅkā",
+     "gloss": "doubt-may-arise",
+     "grounds": "token 6",
+     "morph": "3.sg.opt.-bhū"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūṣikā",
+     "gloss": "defiling",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What doubt may arise about substances stated by Shambhu?",
+   "premises": [
+    "Argha-vessel primacy is known.",
+    "Shambhu stated substances without doubt."
+   ],
+   "inference": "Doubt may still arise and be defiling.",
+   "uncertainties": [
+    "Token 5 is sandhi-heavy."
+   ],
+   "plain_english": "Knowing the primacy of the argha-vessel, doubt may indeed arise about substances stated by Shambhu, and that doubt is defiling."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "yāgauko",
+     "gloss": "sacrifice-house",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gandhadhūpāḍhyaṃ",
+     "gloss": "fragrance-incense-rich",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "token 3",
+     "morph": "abs.-praviś"
+    },
+    {
+     "surface": "prāgudaṅmukhaḥ",
+     "gloss": "east-north-facing",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parayā",
+     "gloss": "by-supreme",
+     "grounds": "token 5",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "vā@tha",
+     "gloss": "or-then",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālinyā",
+     "gloss": "by-impurity",
+     "grounds": "token 7",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "vilomāccānulomataḥ",
+     "gloss": "from-reverse-to-proper-order",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one enter the sacrifice house?",
+   "premises": [
+    "One enters the fragrance-rich sacrifice house.",
+    "One faces east or north."
+   ],
+   "inference": "Then by supreme impurity one moves from reverse to proper order.",
+   "uncertainties": [
+    "The phrase parayā mālinyā is obscure."
+   ],
+   "plain_english": "Having entered the fragrance-rich sacrifice house, facing east or north, one moves from reverse to proper order by supreme impurity."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "dāhāpyāyamayīṃ",
+     "gloss": "burning-nourishing-made",
+     "grounds": "token 1",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śuddhiṃ",
+     "gloss": "purification",
+     "grounds": "token 2",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dīptasaumyavibhedataḥ",
+     "gloss": "from-fierce-gentle-distinction",
+     "grounds": "token 3",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādathavā",
+     "gloss": "should-do-or",
+     "grounds": "token 5",
+     "morph": "3.sg.opt.-kṛ"
+    },
+    {
+     "surface": "mātṛsadbhāvamantrataḥ",
+     "gloss": "from-mother-presence-mantra",
+     "grounds": "token 6",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should purification be performed?",
+   "premises": [
+    "Purification is burning and nourishing.",
+    "It arises from fierce-gentle distinction."
+   ],
+   "inference": "One should do it in order, or from mother-presence mantra.",
+   "uncertainties": [
+    "Compound dāhāpyāyamayīṃ is difficult."
+   ],
+   "plain_english": "One should perform purification, burning and nourishing, in order from fierce-gentle distinction, or from mother-presence mantra."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "token 1",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cetpracikīrṣustacchodhyādhvanyāsakalpanam",
+     "gloss": "if-desiring-then-purify-path-placement-plan",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśodhyavastūni",
+     "gloss": "purifying-things",
+     "grounds": "token 4",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śaktyaivāmṛtatāṃ",
+     "gloss": "by-shakti-alone-immortality",
+     "grounds": "token 5",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-lead",
+     "grounds": "token 6",
+     "morph": "3.sg.opt.-nī"
+    }
+   ],
+   "question": "What should one do if desiring initiation?",
+   "premises": [
+    "If desiring initiation, plan purification of the path.",
+    "Then purify things."
+   ],
+   "inference": "By Shakti alone one should lead them to immortality.",
+   "uncertainties": [
+    "Token 2 is a long sandhi compound."
+   ],
+   "plain_english": "If desiring initiation, plan purification of the path; then, purifying things, by Shakti alone lead them to immortality."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "parāsampuṭagā",
+     "gloss": "supreme-enclosure-going",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛsampuṭagāpyatho",
+     "gloss": "mother-enclosure-going-also-then",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kevalā",
+     "gloss": "alone",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālinī",
+     "gloss": "mālinī",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "token 7",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "samasteṣu",
+     "gloss": "in-all",
+     "grounds": "token 8",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "karmasu",
+     "gloss": "in-rites",
+     "grounds": "token 9",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Which mantras may be used in all rites?",
+   "premises": [
+    "Supreme-enclosure or mother-enclosure mantras may be used.",
+    "Mālinī alone may be used."
+   ],
+   "inference": "Those may be used in all rites.",
+   "uncertainties": [
+    "Mantra names are left untranslated."
+   ],
+   "plain_english": "Supreme-enclosure or mother-enclosure mantras, or Mālinī alone, may be used in all rites."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "nandahetuphalairdravyairarghapātraṃ",
+     "gloss": "with-joy-cause-fruit-substances-argha-vessel",
+     "grounds": "token 1",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "should-fill",
+     "grounds": "token 2",
+     "morph": "3.sg.opt.-pṛ"
+    },
+    {
+     "surface": "tatroktamantratādātmyādbhairavātmatvamānayet",
+     "gloss": "there-stated-mantra-identity-from-bhairava-selfhood-bring",
+     "grounds": "token 3",
+     "morph": "3.sg.opt.-nī"
+    }
+   ],
+   "question": "How should the argha-vessel be filled?",
+   "premises": [
+    "The argha-vessel should be filled with joy-cause-fruit substances.",
+    "The stated mantra identity brings Bhairava selfhood."
+   ],
+   "inference": "One should fill it and bring Bhairava selfhood.",
+   "uncertainties": [
+    "Token 1 and 3 are long compounds."
+   ],
+   "plain_english": "One should fill the argha-vessel with joy-cause-fruit substances, and by the stated mantra identity bring Bhairava selfhood."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbharamātmānaṃ",
+     "gloss": "fully-self",
+     "grounds": "token 2",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bahiścakrānucakragam",
+     "gloss": "outside-wheel-inner-wheel-going",
+     "grounds": "token 3",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vipruḍbhirūrdhvādharayorantaḥ",
+     "gloss": "by-drops-upper-lower-within",
+     "grounds": "token 4",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pītyā",
+     "gloss": "by-drinking",
+     "grounds": "token 5",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "token 7",
+     "morph": "3.sg.opt.-tṛp"
+    }
+   ],
+   "question": "How should one satisfy the self?",
+   "premises": [
+    "By that, the self goes outside and inner wheel.",
+    "Drops within upper and lower are used."
+   ],
+   "inference": "By drinking, one should satisfy it.",
+   "uncertainties": [
+    "The ritual mechanics are obscure."
+   ],
+   "plain_english": "By that, the full self, going outside and inner wheel, should be satisfied by drinking drops within upper and lower."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇasvaraśmyoghaḥ",
+     "gloss": "full-vowel-stream-union",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "procchaladvṛttitāvaśāt",
+     "gloss": "from-rising-activity-dependence",
+     "grounds": "token 3",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bahistādṛśamātmānaṃ",
+     "gloss": "outside-such-self",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "didṛkṣurbahirarcayet",
+     "gloss": "desiring-to-see-should-worship-outside",
+     "grounds": "token 5",
+     "morph": "3.sg.opt.-arc"
+    }
+   ],
+   "question": "How should one worship outside?",
+   "premises": [
+    "Full vowel stream union rises.",
+    "One desires to see the self outside."
+   ],
+   "inference": "Thus one should worship outside.",
+   "uncertainties": [
+    "The compound pūrṇasvaraśmyoghaḥ is uncertain."
+   ],
+   "plain_english": "Thus, from the rising full vowel stream union, desiring to see the self outside, one should worship outside."
+  }
+ ]
+}

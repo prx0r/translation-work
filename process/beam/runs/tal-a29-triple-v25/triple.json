@@ -1,0 +1,779 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "arkāṅgule@tha",
+     "gloss": "sun-finger",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "taddvitriguṇe",
+     "gloss": "twice-threefold",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "raktapaṭe",
+     "gloss": "red-cloth",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "vyomni",
+     "gloss": "in-sky",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sindūrasubhage",
+     "gloss": "vermilion-beautiful",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "rājavarttabhṛte@thavā",
+     "gloss": "king-turning-bearing-or",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What ritual cloth and sky setting is described?",
+   "premises": [
+    "red cloth is auspicious",
+    "sky setting is named",
+    "vermilion beauty is praised"
+   ],
+   "inference": "The verse describes an auspicious red cloth in a sky-like setting.",
+   "uncertainties": [
+    "token boundaries are unclear"
+   ],
+   "plain_english": "An auspicious red cloth is set in a sky-like, vermilion-beautiful field."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "nārikelātmake",
+     "gloss": "coconut-made",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "kādye",
+     "gloss": "first",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "madyapūrṇe@tha",
+     "gloss": "wine-filled-or",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhājane",
+     "gloss": "vessel",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samudite",
+     "gloss": "assembled",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "rūpe",
+     "gloss": "form",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maṇḍalasthe",
+     "gloss": "in-circle",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadṛśi",
+     "gloss": "such",
+     "grounds": "pronoun",
+     "morph": "pron"
+    }
+   ],
+   "question": "What vessel and form are mentioned?",
+   "premises": [
+    "coconut-made vessel is named",
+    "wine-filled vessel is named",
+    "assembled form is named"
+   ],
+   "inference": "The verse names a coconut-made, wine-filled vessel and an assembled circular form.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "A coconut-made vessel, filled with wine, appears in an assembled circular form."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "yāgaṃ",
+     "gloss": "sacrifice",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-perform",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "matimāṃstatrāyaṃ",
+     "gloss": "wise-there-this",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "krama",
+     "gloss": "order",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "v.3.sg.pass"
+    },
+    {
+     "surface": "diśyudīcyāṃ",
+     "gloss": "in-northern-direction",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "rudrakoṇādvāyavyantaṃ",
+     "gloss": "from-rudra-corner-to-northwest",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "gaṇeśvaram",
+     "gloss": "ganesh-lord",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What sacrifice order is described?",
+   "premises": [
+    "sacrifice should be performed",
+    "order is said",
+    "directional range is named"
+   ],
+   "inference": "The verse prescribes performing sacrifice in a stated directional order.",
+   "uncertainties": [
+    "compound boundaries are unclear"
+   ],
+   "plain_english": "The wise should perform sacrifice; the order is said from the northern direction through the northwest to Ganesh."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "vaṭukaṃ",
+     "gloss": "vaṭuka",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "trīn",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "gurūnsiddhānyoginīḥ",
+     "gloss": "teachers-siddhas-yoginis",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "pīṭhamarcayet",
+     "gloss": "should-worship-seat",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "prācyāṃ",
+     "gloss": "eastern",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "diśi",
+     "gloss": "direction",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gaṇeśādha",
+     "gloss": "below-ganesh",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "ārabhyābhyarcayettataḥ",
+     "gloss": "beginning-worship-then",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What worship sequence is given?",
+   "premises": [
+    "vaṭuka is named",
+    "three teachers are named",
+    "eastern direction is named"
+   ],
+   "inference": "The verse gives a worship sequence beginning in the east below Ganesh.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "Worship Vaṭuka, three teachers, Siddhas, and Yoginis, beginning in the east below Ganesh."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "siddhacakraṃ",
+     "gloss": "siddha-wheel",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "dikcatuṣke",
+     "gloss": "in-four-directions",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "gaṇeśādhastanāntakam",
+     "gloss": "from-below-ganesh-to-end",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "khagendraḥ",
+     "gloss": "bird-lord",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "sahavijjāmba",
+     "gloss": "with-vijja-mother",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "illā+ī+ambayā",
+     "gloss": "illa-i-mother",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What siddha wheel arrangement is named?",
+   "premises": [
+    "siddha wheel is named",
+    "four directions are named",
+    "Ganesh lower bound is named"
+   ],
+   "inference": "The verse names a siddha wheel arranged across four directions from below Ganesh.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "The siddha wheel runs through four directions from below Ganesh, with Khagendra and Vijjāmbā."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "vaktaṣṭirvimalo@nantamekhalāmbāyutaḥ",
+     "gloss": "pure-end-girdle-mother-united",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "with-power",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "maṅgalayā",
+     "gloss": "with-auspicious",
+     "grounds": "instrumental",
+     "morph": "adj.inst.sg"
+    },
+    {
+     "surface": "kūrma",
+     "gloss": "tortoise",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "illā+ī+ambayā",
+     "gloss": "illa-i-mother",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What tortoise and power pairing is named?",
+   "premises": [
+    "tortoise is named",
+    "power is named",
+    "auspicious pairing is named"
+   ],
+   "inference": "The verse pairs a tortoise with power and an auspicious girdle-mother.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "The tortoise is paired with power and an auspicious girdle-mother."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "jaitro",
+     "gloss": "victorious",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "yāmye",
+     "gloss": "in-south",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hyavijitastathā",
+     "gloss": "indeed-unconquered-thus",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "sānandamekhalaḥ",
+     "gloss": "with-joy-girdle",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāmamaṅgalayā",
+     "gloss": "with-desire-auspicious",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "meṣaḥ",
+     "gloss": "ram",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kullā+ī+ambayā",
+     "gloss": "kulla-i-mother",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What southern ram pairing is named?",
+   "premises": [
+    "southern direction is named",
+    "ram is named",
+    "joyful girdle is named"
+   ],
+   "inference": "The verse names a southern ram paired with a joyful girdle and Kullāmbā.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "In the south, the victorious ram is paired with a joyful girdle and Kullāmbā."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "vindhyo@jito@pyajarayā",
+     "gloss": "vindhya-conquered-by-old-age",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mekhalayā",
+     "gloss": "with-girdle",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pare",
+     "gloss": "beyond",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "macchandaḥ",
+     "gloss": "my-will",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṅkuṇāmbā",
+     "gloss": "kunkuna-mother",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍyugmaṃ",
+     "gloss": "six-pair",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhikārakam",
+     "gloss": "with-authority",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What Vindhya and girdle pairing is named?",
+   "premises": [
+    "Vindhya is named",
+    "girdle is named",
+    "six-pair authority is named"
+   ],
+   "inference": "The verse names Vindhya with a girdle and an authoritative six-pair.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "Vindhya, conquered by old age, is paired with a girdle, Kuṅkuṇāmbā, and an authoritative six-pair."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "saumye",
+     "gloss": "in-northwest",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "marutta",
+     "gloss": "marutta",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īśāntaṃ",
+     "gloss": "to-ishana",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "paṅktirīdṛśī",
+     "gloss": "row-such",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "amaravaradevacitrālivindhyaguḍikā",
+     "gloss": "immortal-god-citra-vindhya-gudika",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramātṣaḍamī",
+     "gloss": "in-order-sixth",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What second row is described?",
+   "premises": [
+    "northwest direction is named",
+    "second row is named",
+    "sixth in order is named"
+   ],
+   "inference": "The verse describes a second row in the northwest, ending with a sixth in order.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "In the northwest, Marutta to Īśāna forms the second row, with a sixth in order."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "sillā+ī",
+     "gloss": "silla-i",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "eruṇayā",
+     "gloss": "with-eruna",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumārī",
+     "gloss": "maiden",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhā+ī",
+     "gloss": "bodha-i",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "samahālacchī",
+     "gloss": "with-great-lakshmi",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "cāparamekhalayā",
+     "gloss": "and-with-outer-girdle",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣaḍimāḥ",
+     "gloss": "these-six",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What six powers are named?",
+   "premises": [
+    "powers are named",
+    "six are named",
+    "girdle pairing is named"
+   ],
+   "inference": "The verse names six powers including maidens and girdle-paired figures.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "Six powers are named, including Sillā, Eruṇā, Kumārī, Bodhā, and outer-girdle figures."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "pron"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhikārāḥ",
+     "gloss": "authoritative",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "worshipful",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "yeṣāmiyaṃ",
+     "gloss": "whose-this",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahuvibhedā",
+     "gloss": "many-differences",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "santatiranavacchinnā",
+     "gloss": "continuous-unbroken",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "citrā",
+     "gloss": "variegated",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "śiṣyapraśiṣyamayī",
+     "gloss": "disciple-granddisciple-made",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What worshipful authoritative group is described?",
+   "premises": [
+    "authoritative ones are worshipful",
+    "many differences are named",
+    "unbroken lineage is named"
+   ],
+   "inference": "The verse describes worshipful authoritative figures with many differences and an unbroken disciple lineage.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "These authoritative worshipful ones have many differences and an unbroken disciple lineage."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "ānandāvalibodhiprabhupādāntātha",
+     "gloss": "bliss-line-bodhi-lord-foot-end-then",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "yogiśabdāntā",
+     "gloss": "yogi-word-end",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "pron"
+    },
+    {
+     "surface": "ovallyaḥ",
+     "gloss": "ovallya",
+     "grounds": "noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syurmudrāṣaṭkaṃ",
+     "gloss": "would-be-six-seals",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramāttvetat",
+     "gloss": "in-order-this",
+     "grounds": "compound token",
+     "morph": "compound"
+    }
+   ],
+   "question": "What six seals are named?",
+   "premises": [
+    "bliss line is named",
+    "yogi word end is named",
+    "six seals are named"
+   ],
+   "inference": "The verse names six seals in order, ending with yogi-word figures.",
+   "uncertainties": [
+    "compound splits are uncertain"
+   ],
+   "plain_english": "These six seals are named in order, from bliss-line lords to yogi-word figures."
+  }
+ ]
+}

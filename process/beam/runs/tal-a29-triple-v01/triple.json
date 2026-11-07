@@ -1,0 +1,821 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samucitādhikāriṇa",
+     "gloss": "suitable-adept",
+     "grounds": "token 2",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "uddiśya",
+     "gloss": "having-indicated",
+     "grounds": "token 3",
+     "morph": "absolutive-root-uddiś"
+    },
+    {
+     "surface": "rahasya",
+     "gloss": "secret",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate@tra",
+     "gloss": "is-said-here",
+     "grounds": "token 5",
+     "morph": "3.sg.passive-present-root-vac"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāpyupāseyaṃ",
+     "gloss": "all-to-be-worshipped",
+     "grounds": "token 8",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kulaprakriyayocyate",
+     "gloss": "by-kula-procedure-is-said",
+     "grounds": "token 9",
+     "morph": "3.sg.passive-present-root-vac"
+    }
+   ],
+   "question": "What secret rule is said here for the suitable adept?",
+   "premises": [
+    "A secret rule is indicated.",
+    "It concerns all worship.",
+    "It is stated by kula procedure."
+   ],
+   "inference": "The verse introduces a secret kula rule for qualified practitioners.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Then, for the suitable adept, the secret rule is stated; then all worship is said to be kula procedure."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhārādhirūḍheṣu",
+     "gloss": "established-in-flow",
+     "grounds": "token 2",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "guruśiṣyeṣu",
+     "gloss": "guru-and-disciple",
+     "grounds": "token 3",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yocitā",
+     "gloss": "fitting",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "spoken",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśena",
+     "gloss": "by-supreme-lord",
+     "grounds": "token 7",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sāratvaṃ",
+     "gloss": "essence",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramapūjane",
+     "gloss": "in-ordered-worship",
+     "grounds": "token 9",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What essence is spoken by the supreme lord in ordered worship?",
+   "premises": [
+    "Guru and disciple are established in flow.",
+    "The supreme lord speaks.",
+    "Essence concerns ordered worship."
+   ],
+   "inference": "The verse states an essence spoken by the supreme lord for ordered worship.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Thus, for guru and disciple established in flow, the supreme lord has spoken the essence in ordered worship."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "siddhakramaniyuktasya",
+     "gloss": "of-one-appointed-to-accomplished-order",
+     "grounds": "token 1",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "māsenaikena",
+     "gloss": "in-one-month",
+     "grounds": "token 2",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yadbhavet",
+     "gloss": "what-arises",
+     "grounds": "token 3",
+     "morph": "3.sg.act-pres-root-bhū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvarṣasahasraiḥ",
+     "gloss": "that-in-thousand-years",
+     "grounds": "token 5",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "syānmantraughairvividhairiti",
+     "gloss": "would-be-by-various-mantra-floods",
+     "grounds": "token 6",
+     "morph": "3.sg.optative-root-as"
+    }
+   ],
+   "question": "What arises in one month for the appointed practitioner?",
+   "premises": [
+    "One month suffices for the appointed.",
+    "Thousand years of varied mantras would not.",
+    "The result is not by mantra floods."
+   ],
+   "inference": "A single month of appointed practice surpasses millennia of varied mantras.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "What arises in one month for one appointed to the accomplished order would not arise in a thousand years through various floods of mantras."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "kulaṃ",
+     "gloss": "kula",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśasya",
+     "gloss": "of-supreme-lord",
+     "grounds": "token 3",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sāmarthyamūrdhvatā",
+     "gloss": "capacity-and-elevation",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svātantryamojo",
+     "gloss": "freedom-and-vigor",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīryaṃ",
+     "gloss": "virility",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍaḥ",
+     "gloss": "mass",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃviccharīrakam",
+     "gloss": "consciousness-body",
+     "grounds": "token 10",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is kula of the supreme lord?",
+   "premises": [
+    "Kula is of the supreme lord.",
+    "It includes power, capacity, elevation, freedom, vigor, virility.",
+    "It is mass and consciousness-body."
+   ],
+   "inference": "Kula is the supreme lord's power and embodied consciousness.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Kula of the supreme lord is power, capacity, elevation, freedom, vigor, virility, mass, and consciousness-body."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "tathātvena",
+     "gloss": "by-such-nature",
+     "grounds": "token 1",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "samastāni",
+     "gloss": "all",
+     "grounds": "token 2",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "bhāvajātāni",
+     "gloss": "classes-of-beings",
+     "grounds": "token 3",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "paśyataḥ",
+     "gloss": "of-one-seeing",
+     "grounds": "token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhvastaśaṅkāsamūhasya",
+     "gloss": "of-one-whose-doubt-masses-destroyed",
+     "grounds": "token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yāgastādṛśa",
+     "gloss": "worship-such",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of worship belongs to one seeing all beings?",
+   "premises": [
+    "One sees all classes of beings by such nature.",
+    "Doubt masses are destroyed.",
+    "Worship is of that kind."
+   ],
+   "inference": "Worship matches the seer's transformed perception.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "For one seeing all classes of beings by such nature, with masses of doubt destroyed, worship is indeed of that kind."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "tādṛgrūpanirūḍhyarthaṃ",
+     "gloss": "for-establishing-such-form",
+     "grounds": "token 1",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manovākkāyavartmanā",
+     "gloss": "by-mind-speech-body-path",
+     "grounds": "token 2",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yadyatsamācaredvīraḥ",
+     "gloss": "whatever-the-hero-practices",
+     "grounds": "token 3",
+     "morph": "3.sg.act-opt-root-car"
+    },
+    {
+     "surface": "kulayāgaḥ",
+     "gloss": "kula-worship",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-called",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is called kula worship?",
+   "premises": [
+    "It establishes such form.",
+    "It proceeds by mind, speech, and body.",
+    "Whatever the hero practices is called that."
+   ],
+   "inference": "Kula worship is any practice by the hero through mind, speech, and body.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "For establishing such form, by the path of mind, speech, and body, whatever the hero practices is called kula worship."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktau",
+     "gloss": "in-power",
+     "grounds": "token 2",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yāmale",
+     "gloss": "in-yamala",
+     "grounds": "token 3",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "token 5",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prāṇapathe",
+     "gloss": "in-breath-path",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "matau",
+     "gloss": "in-mind",
+     "grounds": "token 7",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍhā",
+     "gloss": "sixfold",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulejyā",
+     "gloss": "kula-worship",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syātpratibhedaṃ",
+     "gloss": "would-be-according-to-distinction",
+     "grounds": "token 11",
+     "morph": "3.sg.optative-root-as"
+    },
+    {
+     "surface": "vibhedinī",
+     "gloss": "differentiating",
+     "grounds": "token 12",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is kula worship sixfold?",
+   "premises": [
+    "It occurs outside, in power, in yamala, in body, in breath path, in mind.",
+    "It is sixfold.",
+    "It differentiates according to distinction."
+   ],
+   "inference": "Kula worship is sixfold across outer, power, yamala, body, breath, and mind.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Outside, in power, in yamala, in body, in breath path, and in mind: thus kula worship is sixfold, differentiating according to distinction."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "snānamaṇḍalakuṇḍādi",
+     "gloss": "bathing-circle-pot-etc",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣoḍhānyāsādi",
+     "gloss": "sixfold-placement-etc",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yanna",
+     "gloss": "whatever-not",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcidatropayujyeta",
+     "gloss": "anything-here-is-used",
+     "grounds": "token 5",
+     "morph": "3.sg.passive-opt-root-yuj"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaṇḍanāya",
+     "gloss": "for-breaking",
+     "grounds": "token 8",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What external rites are used in this worship?",
+   "premises": [
+    "Bathing, circle, pot, etc. are not used.",
+    "Sixfold placement etc. are not used.",
+    "Nothing here is used for breaking."
+   ],
+   "inference": "The worship avoids external ritual apparatus and breaking.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Bathing, circle, pot, and the like, or sixfold placement and the like, are not used here; nothing done is for breaking."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "ṣaṇmaṇḍalavinirmuktaṃ",
+     "gloss": "free-from-six-circles",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvāvaraṇavarjitam",
+     "gloss": "devoid-of-all-coverings",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānajñeyamayaṃ",
+     "gloss": "consisting-of-knower-and-known",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "traiśirase",
+     "gloss": "in-traishirasa",
+     "grounds": "token 6",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mate",
+     "gloss": "in-doctrine",
+     "grounds": "token 7",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is declared as kaula in the traishirasa doctrine?",
+   "premises": [
+    "It is free from six circles.",
+    "It is devoid of all coverings.",
+    "It consists of knower and known."
+   ],
+   "inference": "Kaula is declared as pure knowledge free from circles and coverings.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Free from six circles, devoid of all coverings, consisting of knower and known: this is declared as kaula in the traishirasa doctrine."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāge",
+     "gloss": "in-worship",
+     "grounds": "token 2",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaddravyaṃ",
+     "gloss": "whatever-substance",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣiddhaṃ",
+     "gloss": "forbidden",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāstrasantatau",
+     "gloss": "in-scriptural-tradition",
+     "grounds": "token 6",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yojayeddhīmānvāmāmṛtapariplutam",
+     "gloss": "wise-one-should-use-left-nectar-immersed",
+     "grounds": "token 8",
+     "morph": "3.sg.causative-opt-root-yuj"
+    }
+   ],
+   "question": "What forbidden substance is used in this worship?",
+   "premises": [
+    "In this worship, forbidden substances exist in scriptural tradition.",
+    "The wise one uses them.",
+    "They are immersed in left nectar."
+   ],
+   "inference": "Forbidden substances are transformed and used by the wise.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Here in worship, whatever substance is forbidden in scriptural tradition, the wise one should use it immersed in left nectar."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "śrībrahmayāmale@pyuktaṃ",
+     "gloss": "in-shri-brahmayamala-is-said",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "surā",
+     "gloss": "wine",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivaraso",
+     "gloss": "shiva-essence",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "token 5",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuktimuktī",
+     "gloss": "enjoyment-and-liberation",
+     "grounds": "token 7",
+     "morph": "f.acc.du"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṣṭakṣaudraguḍaistu",
+     "gloss": "but-by-flour-honey-jaggery",
+     "grounds": "token 9",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is said in shri brahmayamala about wine?",
+   "premises": [
+    "Wine is shiva essence.",
+    "Without it there is no enjoyment or liberation.",
+    "With flour, honey, and jaggery it is that."
+   ],
+   "inference": "Wine as shiva essence is necessary for enjoyment and liberation.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "In Shri Brahmayamala it is said: wine is Shiva essence; without it there is no enjoyment or liberation; but with flour, honey, and jaggery it is that."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "strīnapuṃsakapuṃrūpā",
+     "gloss": "female-neuter-male-forms",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvāparabhogadā",
+     "gloss": "giving-prior-and-later-enjoyment",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "drākṣotthaṃ",
+     "gloss": "grape-born",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tejo",
+     "gloss": "radiance",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalpanojjhitam",
+     "gloss": "free-from-imagination",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What forms give prior and later enjoyment?",
+   "premises": [
+    "Female, neuter, and male forms give prior and later enjoyment.",
+    "Grape-born is supreme radiance.",
+    "It is Bhairava free from imagination."
+   ],
+   "inference": "Different forms yield enjoyment, while grape-born radiance is supreme Bhairava.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Female, neuter, and male forms give prior and later enjoyment; but grape-born is supreme radiance, Bhairava free from imagination."
+  }
+ ]
+}

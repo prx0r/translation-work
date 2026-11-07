@@ -1,0 +1,743 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "dakṣāṅguṣṭhādikaniṣṭhikāntamatha",
+     "gloss": "from-right-thumb-to-little-finger-then",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanīyasī",
+     "gloss": "smaller",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāmāt",
+     "gloss": "from-left",
+     "grounds": "token 4",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "dvidaśāntordhvagakuṇḍalibaindavahṛnnābhikandamiti",
+     "gloss": "two-ten-end-upward-coiled-bindu-heart-navel-root-thus",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "chu",
+     "gloss": "six",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mmāḥ",
+     "gloss": "mothers",
+     "grounds": "token 7",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How does the smaller leftward series proceed from thumb to little finger?",
+   "premises": [
+    "The right series runs thumb to little finger.",
+    "The left series is smaller.",
+    "The series ends at the root."
+   ],
+   "inference": "The leftward path is a reduced counterpart to the rightward path.",
+   "uncertainties": [
+    "Token segmentation is uncertain.",
+    "Some compounds are not fully resolved."
+   ],
+   "plain_english": "The smaller leftward series runs from thumb to little finger and ends at the root."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "śavarāḍabillapaṭṭillāḥ",
+     "gloss": "shavara-and-billa-pattilla",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "karabillāmbiśarabillāḥ",
+     "gloss": "kara-billa-ambi-shara-billa",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "aḍabīḍombīdakṣiṇabillāḥ",
+     "gloss": "adabida-umbi-right-billa",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "kumbhārikākṣarākhyāca",
+     "gloss": "kumbharika-letter-named-and",
+     "grounds": "token 4",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which named billa groups belong to the rightward series?",
+   "premises": [
+    "Several billa groups are named.",
+    "The groups are listed in sequence.",
+    "The list includes rightward members."
+   ],
+   "inference": "The verse enumerates named billa groups for the rightward series.",
+   "uncertainties": [
+    "Compound boundaries are uncertain.",
+    "Exact group names are unclear."
+   ],
+   "plain_english": "The verse lists named billa groups in the rightward series."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "devīkoṭṭakulādritripurīkāmākhyamaṭṭahāsaśca",
+     "gloss": "devi-kotta-kula-adri-tripuri-kamakhya-mattahasa-and",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "dakṣiṇapīṭhaṃ",
+     "gloss": "right-seat",
+     "grounds": "token 2",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caitatṣaṭkaṃ",
+     "gloss": "this-sixfold",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gharapallipīṭhagaṃ",
+     "gloss": "house-village-seat-going",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-order",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the sixfold seats arranged in order?",
+   "premises": [
+    "Six seats are named.",
+    "The right seat is included.",
+    "The arrangement proceeds in order."
+   ],
+   "inference": "The sixfold seats are arranged sequentially from the named places.",
+   "uncertainties": [
+    "Place-name compounds are uncertain.",
+    "Seat order is not fully explicit."
+   ],
+   "plain_english": "The sixfold seats are arranged in order from the named places."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅketābhijño",
+     "gloss": "sign-knower",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhramate",
+     "gloss": "wanders",
+     "grounds": "token 3",
+     "morph": "3.sg.act-pres + root bhram"
+    },
+    {
+     "surface": "pīṭheṣu",
+     "gloss": "in-seats",
+     "grounds": "token 4",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhīpsuḥ",
+     "gloss": "desiring-powers",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "acirāllabhate",
+     "gloss": "soon-obtains",
+     "grounds": "token 8",
+     "morph": "3.sg.mid-pres + root labh"
+    },
+    {
+     "surface": "tattatprāpyaṃ",
+     "gloss": "each-attainable-thing",
+     "grounds": "token 9",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadyoginīvadanāt",
+     "gloss": "from-yogini-mouth",
+     "grounds": "token 10",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "What does the sign-knower obtain by wandering among seats?",
+   "premises": [
+    "The sign-knower wanders among seats.",
+    "He desires powers.",
+    "He soon obtains each attainable thing."
+   ],
+   "inference": "Wandering among seats with sign-knowledge yields attainable powers.",
+   "uncertainties": [
+    "The exact role of yogini speech is unclear.",
+    "Token segmentation may be off."
+   ],
+   "plain_english": "The sign-knower who wanders among seats soon obtains each attainable thing."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "bhaṭṭendravalkalāhīndragajendrāḥ",
+     "gloss": "bhatta-indra-valkala-ahin-dra-gaja-indra",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "samahīdharāḥ",
+     "gloss": "with-mountain",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ūrdhvaretasa",
+     "gloss": "upward-semen",
+     "grounds": "token 3",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "token 4",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṣaḍadhikārapadojjhitāḥ",
+     "gloss": "six-authority-foot-abandoned",
+     "grounds": "token 5",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who are the six authority-foot-abandoned upward-semen figures?",
+   "premises": [
+    "Six figures are named.",
+    "They are upward-semen.",
+    "They are authority-foot-abandoned."
+   ],
+   "inference": "The named figures are classified as upward-semen and authority-foot-abandoned.",
+   "uncertainties": [
+    "Compound names are uncertain.",
+    "The exact six figures are unclear."
+   ],
+   "plain_english": "These named upward-semen figures are six authority-foot-abandoned ones."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "adhikāro",
+     "gloss": "authority",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīryasya",
+     "gloss": "of-semen",
+     "grounds": "token 3",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prasaraḥ",
+     "gloss": "flow",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulavartmani",
+     "gloss": "in-kula-path",
+     "grounds": "token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tadaprasarayogena",
+     "gloss": "by-non-flow-union",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "token 7",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "called",
+     "grounds": "token 8",
+     "morph": "f.nom.pl? part."
+    },
+    {
+     "surface": "ūrdhvaretasaḥ",
+     "gloss": "upward-semen",
+     "grounds": "token 9",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are they called upward-semen in the kula path?",
+   "premises": [
+    "Authority is the flow of semen.",
+    "In the kula path this flow is absent.",
+    "Those without flow are called upward-semen."
+   ],
+   "inference": "Absence of seminal flow in the kula path defines upward-semen.",
+   "uncertainties": [
+    "Grammatical gender of proktā is unclear.",
+    "Compound parsing is uncertain."
+   ],
+   "plain_english": "They are called upward-semen because seminal flow is absent in the kula path."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "anyāśca",
+     "gloss": "other-and",
+     "grounds": "token 1",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "gurutatpatnyaḥ",
+     "gloss": "guru-their-wives",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrīmatkālīkuloditāḥ",
+     "gloss": "glorious-kali-kula-risen",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "anāttadehāḥ",
+     "gloss": "unseized-bodies",
+     "grounds": "token 4",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "krīḍanti",
+     "gloss": "play",
+     "grounds": "token 5",
+     "morph": "3.pl.act-pres + root krīḍ"
+    },
+    {
+     "surface": "taistairdehairaśaṅkitāḥ",
+     "gloss": "with-those-bodies-unafraid",
+     "grounds": "token 6",
+     "morph": "compound"
+    }
+   ],
+   "question": "How do the other guru wives play without seized bodies?",
+   "premises": [
+    "Other guru wives are glorious kali-kula risen.",
+    "They have unseized bodies.",
+    "They play unafraid with those bodies."
+   ],
+   "inference": "The guru wives play freely without seized bodies.",
+   "uncertainties": [
+    "Compound parsing is uncertain.",
+    "The exact sense of unseized is unclear."
+   ],
+   "plain_english": "The other guru wives play unafraid with unseized bodies."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "prabodhitatathecchākaistajje",
+     "gloss": "awakened-their-wish-by-that-born",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "token 3",
+     "morph": "3.sg.act-pres + root prakāś"
+    },
+    {
+     "surface": "tathārūpatayā",
+     "gloss": "in-such-form",
+     "grounds": "token 4",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurutvaṃ",
+     "gloss": "guru-ness",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paribhāṣitam",
+     "gloss": "defined",
+     "grounds": "token 7",
+     "morph": "n.nom.sg part."
+    }
+   ],
+   "question": "How is guru-ness defined where kaula shines?",
+   "premises": [
+    "Kaula shines in such form.",
+    "Guru-ness is defined there.",
+    "It arises from awakened wish."
+   ],
+   "inference": "Guru-ness is defined by the shining kaula form.",
+   "uncertainties": [
+    "Compound parsing is uncertain.",
+    "The exact causal relation is unclear."
+   ],
+   "plain_english": "There guru-ness is defined as kaula shines in such form."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "token 1",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viśeṣānna",
+     "gloss": "not-specially",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "token 3",
+     "morph": "m.nom.pl gerundive"
+    },
+    {
+     "surface": "smartavyā",
+     "gloss": "to-be-remembered",
+     "grounds": "token 4",
+     "morph": "f.nom.pl gerundive"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "merely",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato@bhyantarato",
+     "gloss": "from-within",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyuvahnyormātṛkayā",
+     "gloss": "with-air-fire-mother",
+     "grounds": "token 8",
+     "morph": "compound"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should they be treated if not specially worshipped?",
+   "premises": [
+    "They are not specially worshipped.",
+    "They are only to be remembered.",
+    "Within, they are with air-fire-mother."
+   ],
+   "inference": "They are remembered rather than specially worshipped.",
+   "uncertainties": [
+    "Token segmentation is uncertain.",
+    "The exact ritual sense is unclear."
+   ],
+   "plain_english": "They are not specially worshipped, only remembered, with air-fire-mother within."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "mālinī",
+     "gloss": "malini",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-order",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "token 3",
+     "morph": "f.nom.sg gerundive"
+    },
+    {
+     "surface": "tato@ntarmantracakrakam",
+     "gloss": "then-inner-mantra-wheel",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantrasiddhaprāṇasaṃvitkaraṇātmani",
+     "gloss": "mantra-accomplished-life-consciousness-making-self",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kule",
+     "gloss": "in-kula",
+     "grounds": "token 7",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is worshipped in order after malini?",
+   "premises": [
+    "Malini is worshipped in order.",
+    "Then the inner mantra wheel follows.",
+    "It is in kula."
+   ],
+   "inference": "The inner mantra wheel is worshipped after malini in kula.",
+   "uncertainties": [
+    "Compound parsing is uncertain.",
+    "The exact wheel identity is unclear."
+   ],
+   "plain_english": "Malini is worshipped in order, then the inner mantra wheel in kula."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "cakrātmake",
+     "gloss": "in-wheel-nature",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "citiḥ",
+     "gloss": "consciousness",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prabhvī",
+     "gloss": "mistress",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "called",
+     "grounds": "token 4",
+     "morph": "f.nom.sg part."
+    },
+    {
+     "surface": "seha",
+     "gloss": "she-here",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuleśvarī",
+     "gloss": "kula-lady",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīparā",
+     "gloss": "glorious-supreme",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātṛsadbhāvarūpiṇī",
+     "gloss": "mother-true-being-form",
+     "grounds": "token 11",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who is called mistress in the wheel-nature?",
+   "premises": [
+    "Consciousness is mistress in wheel-nature.",
+    "She is kula-lady here.",
+    "In the middle she is glorious supreme goddess."
+   ],
+   "inference": "The wheel-nature mistress is the kula-lady and supreme goddess.",
+   "uncertainties": [
+    "Compound parsing is uncertain.",
+    "The exact middle reference is unclear."
+   ],
+   "plain_english": "In wheel-nature consciousness is mistress, the kula-lady and supreme goddess."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "pūjyātha",
+     "gloss": "then-to-be-worshipped",
+     "grounds": "token 1",
+     "morph": "f.nom.sg gerundive"
+    },
+    {
+     "surface": "tatsamāropādaparātha",
+     "gloss": "that-ascent-foot-supreme-then",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "parāparā",
+     "gloss": "supreme-inferior",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ekavīrā",
+     "gloss": "single-heroine",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "token 7",
+     "morph": "f.nom.sg gerundive"
+    },
+    {
+     "surface": "yadivā",
+     "gloss": "or-if",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakuleśvarā",
+     "gloss": "with-kula-lady",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is worshipped then as supreme-inferior or single-heroine?",
+   "premises": [
+    "She is then to be worshipped.",
+    "She is supreme-inferior or single-heroine.",
+    "She is with kula-lady."
+   ],
+   "inference": "The worshipped figure is supreme-inferior or single-heroine with kula-lady.",
+   "uncertainties": [
+    "Compound parsing is uncertain.",
+    "The exact alternative is unclear."
+   ],
+   "plain_english": "Then she is worshipped as supreme-inferior or single-heroine with kula-lady."
+  }
+ ]
+}

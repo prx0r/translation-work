@@ -1,0 +1,897 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "śivaśaktisamāyoge",
+     "gloss": "in-union-of-shiva-and-shakti",
+     "grounds": "compound phrase",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ṣaḍlakṣo",
+     "gloss": "six-hundred-thousand",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+vac"
+    },
+    {
+     "surface": "netre",
+     "gloss": "in-the-eyes",
+     "grounds": "locative",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "gamāgame",
+     "gloss": "in-going-and-coming",
+     "grounds": "compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "in-the-ear",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "haṃse",
+     "gloss": "in-the-hamsa",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "in-the-mouth",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāmini",
+     "gloss": "o-fair-one",
+     "grounds": "address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How many recitations are assigned to each bodily center?",
+   "premises": [
+    "union of shiva and shakti is named",
+    "six hundred thousand recitations are stated",
+    "centers include eyes ears mouth and hamsa"
+   ],
+   "inference": "The verse assigns a six-hundred-thousand recitation count across named bodily centers.",
+   "uncertainties": [
+    "exact distribution among centers is not fully explicit"
+   ],
+   "plain_english": "In the union of Shiva and Shakti, six hundred thousand recitations are said to apply to the eyes, going and coming, ear, hamsa, and mouth, O fair one."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "haste",
+     "gloss": "in-the-hand",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugmake",
+     "gloss": "in-the-pair",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saptavidhaḥ",
+     "gloss": "sevenfold",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+smṛ"
+    },
+    {
+     "surface": "netre",
+     "gloss": "in-the-eyes",
+     "grounds": "locative",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "gamāgame",
+     "gloss": "in-going-and-coming",
+     "grounds": "compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "karṇāvāsyaṃ",
+     "gloss": "ear-and-mouth",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhyakam",
+     "gloss": "secret-place",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What sevenfold recitation is remembered here?",
+   "premises": [
+    "recitation is sevenfold",
+    "it is remembered",
+    "centers include hand pair eyes and secret places"
+   ],
+   "inference": "The verse presents a sevenfold remembered recitation across bodily centers.",
+   "uncertainties": [
+    "precise mapping of sevenfold count is compressed"
+   ],
+   "plain_english": "Recitation is remembered as sevenfold in the hand, pair, eyes, going and coming, ear and mouth, secret, and secret place."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "śatāreṣu",
+     "gloss": "in-hundred-spoked-centers",
+     "grounds": "locative",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyasthaṃ",
+     "gloss": "middle-placed",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sahasrāreṣu",
+     "gloss": "in-thousand-spoked-centers",
+     "grounds": "locative",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "bhāmini",
+     "gloss": "o-fair-one",
+     "grounds": "address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "rudralakṣo",
+     "gloss": "one-hundred-thousand-of-rudra",
+     "grounds": "numeral",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "homo@pyatra",
+     "gloss": "offering-also-here",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "daśāṃśataḥ",
+     "gloss": "by-one-tenth",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation and offering are described in the centers?",
+   "premises": [
+    "middle-placed recitation is named",
+    "hundred and thousand spoked centers are named",
+    "rudra hundred thousand and one tenth offering are stated"
+   ],
+   "inference": "The verse describes a middle-placed recitation of one hundred thousand of Rudra, with offering at one tenth.",
+   "uncertainties": [
+    "relation between hundred and thousand spoked centers is terse"
+   ],
+   "plain_english": "This recitation, middle-placed in hundred-spoked and thousand-spoked centers, O fair one, is one hundred thousand of Rudra, and offering here is by one tenth."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "netre",
+     "gloss": "in-the-eyes",
+     "grounds": "locative",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "gamāgame",
+     "gloss": "in-going-and-coming",
+     "grounds": "compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "karṇau",
+     "gloss": "the-ears",
+     "grounds": "noun",
+     "morph": "acc.du.m"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "the-mouth",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "brahmabilāntaram",
+     "gloss": "between-brahma-opening",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "stanau",
+     "gloss": "the-breasts",
+     "grounds": "noun",
+     "morph": "acc.du.m"
+    },
+    {
+     "surface": "hastau",
+     "gloss": "the-hands",
+     "grounds": "noun",
+     "morph": "acc.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "the-feet",
+     "grounds": "noun",
+     "morph": "acc.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhyacakre",
+     "gloss": "in-secret-wheel",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dvirabhyaset",
+     "gloss": "should-practice-twice",
+     "grounds": "verb",
+     "morph": "3.sg.opt+abhyas"
+    }
+   ],
+   "question": "Which bodily centers are to be practiced twice?",
+   "premises": [
+    "eyes going and coming ears mouth are named",
+    "breasts hands feet are named",
+    "secret wheel is named",
+    "twice practice is commanded"
+   ],
+   "inference": "The verse commands twice practice across eyes, ears, mouth, breasts, hands, feet, and secret wheel.",
+   "uncertainties": [
+    "brahma opening phrase is compressed"
+   ],
+   "plain_english": "In the eyes, going and coming, ears, mouth, between the brahma opening, breasts, hands, feet, and secret wheel, one should practice twice."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "wherever",
+     "grounds": "relative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "wherever",
+     "grounds": "relative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gataṃ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "cakṣuryatra",
+     "gloss": "eye-wherever",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "wherever",
+     "grounds": "relative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gataṃ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "haṃsastatra",
+     "gloss": "hamsa-there",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dvirabhyasyo",
+     "gloss": "to-be-practiced-twice",
+     "grounds": "gerundive",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vikāsākuñcanātmakaḥ",
+     "gloss": "of-expansion-and-contraction-nature",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Where should the hamsa be practiced twice?",
+   "premises": [
+    "wherever eye goes is named",
+    "wherever mind goes is named",
+    "hamsa there is twice practiced",
+    "expansion and contraction nature is stated"
+   ],
+   "inference": "The verse says wherever eye and mind go, the hamsa is to be practiced twice in its expansion-contraction nature.",
+   "uncertainties": [
+    "exact grammatical parsing of repeated yatra is compressed"
+   ],
+   "plain_english": "Wherever the eye goes, wherever the mind goes, there the hamsa is to be practiced twice, being of expansion and contraction nature."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "matrika",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "shiva",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dehavyavasthitaḥ",
+     "gloss": "situated-in-the-body",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "anyaḥ",
+     "gloss": "another",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "so@nyo@hamityevaṃ",
+     "gloss": "that-other-i-thus",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikalpaṃ",
+     "gloss": "distinction",
+     "grounds": "noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nācaredyataḥ",
+     "gloss": "should-not-practice-because",
+     "grounds": "verb",
+     "morph": "3.sg.opt+car"
+    }
+   ],
+   "question": "Why should one not make the distinction of another self?",
+   "premises": [
+    "self matrika goddess shiva are body-situated",
+    "another such distinction is named",
+    "one should not practice it"
+   ],
+   "inference": "The verse teaches that because self, matrika, goddess, and Shiva are situated in the body, one should not practice the distinction of another.",
+   "uncertainties": [
+    "compound so@nyo@ham is compressed"
+   ],
+   "plain_english": "That self is Matrika, the goddess, Shiva situated in the body; therefore one should not practice the distinction 'that other is I'."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vilpayate",
+     "gloss": "distinguishes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+vikḷp"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "pronoun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "siddhimuktī",
+     "gloss": "accomplishment-and-liberation",
+     "grounds": "compound",
+     "morph": "nom.du.f"
+    },
+    {
+     "surface": "sudūrataḥ",
+     "gloss": "far-away",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśalakṣādiprāṇacāre",
+     "gloss": "in-sixteen-hundred-thousand-et-cetera-breath-course",
+     "grounds": "compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "puroktavat",
+     "gloss": "as-previously-said",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to one who distinguishes?",
+   "premises": [
+    "one who distinguishes is named",
+    "accomplishment and liberation are far away",
+    "sixteen hundred thousand et cetera breath course is as previously said"
+   ],
+   "inference": "The verse says one who distinguishes has accomplishment and liberation far away, then refers to the previously described breath course.",
+   "uncertainties": [
+    "exact relation of breath course to distinction is terse"
+   ],
+   "plain_english": "For one who distinguishes, accomplishment and liberation are far away; then, as previously said, in the sixteen-hundred-thousand and so on breath course."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "śuddhāśuddhavikalpānāṃ",
+     "gloss": "of-pure-and-impure-distinctions",
+     "grounds": "compound",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "tyāga",
+     "gloss": "abandonment",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ekānta",
+     "gloss": "single-pointed",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+vac"
+    },
+    {
+     "surface": "tatrasthaḥ",
+     "gloss": "standing-there",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svayamevaiṣa",
+     "gloss": "this-very-self",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "juhoti",
+     "gloss": "offers",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+hu"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japatyapi",
+     "gloss": "also-recites",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+jap"
+    }
+   ],
+   "question": "What is called single-pointed abandonment?",
+   "premises": [
+    "abandonment of pure and impure distinctions is named",
+    "single-pointed is called",
+    "standing there this self offers and recites"
+   ],
+   "inference": "The verse calls abandonment of pure and impure distinctions single-pointed, and says the self standing there offers and recites.",
+   "uncertainties": [
+    "'there' refers to prior context"
+   ],
+   "plain_english": "Abandonment of pure and impure distinctions is called single-pointed; standing there, this very self offers and also recites."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sañjalpavṛttiśca",
+     "gloss": "and-chattering-activity",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nādāmarśasvarūpiṇī",
+     "gloss": "sound-reflection-essence",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tadāmṛṣṭasya",
+     "gloss": "of-that-rubbed",
+     "grounds": "compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "cidvahnau",
+     "gloss": "in-consciousness-fire",
+     "grounds": "compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "layo",
+     "gloss": "dissolution",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "is-proclaimed",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+kīrt"
+    }
+   ],
+   "question": "How is offering proclaimed in this context?",
+   "premises": [
+    "recitation is chattering activity",
+    "sound reflection essence is named",
+    "dissolution in consciousness fire is offering"
+   ],
+   "inference": "The verse proclaims that dissolution of the rubbed sound-reflection essence in consciousness-fire is offering.",
+   "uncertainties": [
+    "tadāmṛṣṭasya is compressed"
+   ],
+   "plain_english": "Recitation is chattering activity of sound-reflection essence; dissolution of that rubbed essence in the fire of consciousness is proclaimed as offering."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "āmarśaśca",
+     "gloss": "and-reflection",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "was-declared",
+     "grounds": "verb",
+     "morph": "3.sg.pass-past+pravac"
+    },
+    {
+     "surface": "devīdvādaśakātmakaḥ",
+     "gloss": "goddess-twelve-essence",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "nom.du.f"
+    },
+    {
+     "surface": "antye",
+     "gloss": "last",
+     "grounds": "adjective",
+     "morph": "nom.du.f"
+    },
+    {
+     "surface": "saṃvidau",
+     "gloss": "knowledges",
+     "grounds": "noun",
+     "morph": "nom.du.f"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "layarūpāhutikriyā",
+     "gloss": "dissolution-form-offering-act",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What offering act is described there?",
+   "premises": [
+    "reflection was declared before",
+    "goddess twelve essence is named",
+    "two last knowledges are named",
+    "dissolution form offering act is there"
+   ],
+   "inference": "The verse says reflection was previously declared as goddess-twelve essence, and there the dissolution-form offering act involves two final knowledges.",
+   "uncertainties": [
+    "exact role of two knowledges is compressed"
+   ],
+   "plain_english": "Reflection was declared before as the twelvefold goddess essence; there, the offering act of dissolution form involves the two final knowledges."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "daśānyāstadupāyāyetyevaṃ",
+     "gloss": "ten-others-that-means-thus",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "home",
+     "gloss": "in-offering",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "daśāṃśatām",
+     "gloss": "one-tenth-ness",
+     "grounds": "noun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "śrīśambhunātha",
+     "gloss": "shri-shambhunatha",
+     "grounds": "compound",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "ādikṣattrikārthāmbhodhicandramāḥ",
+     "gloss": "first-kshatriya-meaning-ocean-moon",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is said about offering and one tenth?",
+   "premises": [
+    "ten others that means thus is stated",
+    "in offering one tenth is named",
+    "shri shambhunatha is addressed",
+    "first kshatriya meaning ocean moon is named"
+   ],
+   "inference": "The verse states that ten others are thus in offering, with one tenth, addressing Shri Shambhunatha and naming the first kshatriya meaning ocean moon.",
+   "uncertainties": [
+    "compound is highly compressed"
+   ],
+   "plain_english": "Thus ten others in offering, one tenth, O Shri Shambhunatha, first kshatriya meaning ocean moon."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "sākaṃ",
+     "gloss": "together",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyasthayā",
+     "gloss": "with-external-standing",
+     "grounds": "compound",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "with-power",
+     "grounds": "noun",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tveṣa",
+     "gloss": "this-one",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "verb",
+     "morph": "3.sg.opt+arc"
+    },
+    {
+     "surface": "tadāyaṃ",
+     "gloss": "then-this",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "parameśokto",
+     "gloss": "declared-by-supreme-lord",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "rahasyo",
+     "gloss": "secret",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-spoken",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+bhaṇ"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "When is the secret rule spoken?",
+   "premises": [
+    "together with external standing power is named",
+    "when this one worships is stated",
+    "then this secret rule declared by supreme lord is spoken"
+   ],
+   "inference": "The verse says when one worships together with external standing power, then the secret rule declared by the supreme lord is spoken.",
+   "uncertainties": [
+    "exact referent of this one is contextual"
+   ],
+   "plain_english": "When this one worships together with the externally standing power, then this secret rule declared by the supreme lord is spoken."
+  }
+ ]
+}

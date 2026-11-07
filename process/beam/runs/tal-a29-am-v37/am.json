@@ -1,0 +1,16 @@
+{
+ "song": "tal-a29",
+ "verse": 37,
+ "question": "How does the smaller leftward series proceed from thumb to little finger?",
+ "premises": [
+  "The right series runs thumb to little finger.",
+  "The left series is smaller.",
+  "The series ends at the root."
+ ],
+ "inference": "The leftward path is a reduced counterpart to the rightward path.",
+ "uncertainties": [
+  "Token segmentation is uncertain.",
+  "Some compounds are not fully resolved."
+ ],
+ "plain_english": "The smaller leftward series runs from thumb to little finger and ends at the root."
+}

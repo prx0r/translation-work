@@ -1,0 +1,16 @@
+{
+ "song": "tal-a29",
+ "verse": 39,
+ "question": "How are the sixfold seats arranged in order?",
+ "premises": [
+  "Six seats are named.",
+  "The right seat is included.",
+  "The arrangement proceeds in order."
+ ],
+ "inference": "The sixfold seats are arranged sequentially from the named places.",
+ "uncertainties": [
+  "Place-name compounds are uncertain.",
+  "Seat order is not fully explicit."
+ ],
+ "plain_english": "The sixfold seats are arranged in order from the named places."
+}
