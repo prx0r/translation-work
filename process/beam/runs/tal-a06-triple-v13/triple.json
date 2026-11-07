@@ -1,0 +1,677 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāṇanāśaktirāntarodyogadohadā",
+     "gloss": "prana-power-inner-effort-nourishing",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "spandaḥ",
+     "gloss": "vibration",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphurattā",
+     "gloss": "throbbing",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśrāntirjīvo",
+     "gloss": "rest-life",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛtpratibhā",
+     "gloss": "heart-reflection",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What names are given to this prana power?",
+   "premises": [
+    "This power is called spanda.",
+    "It is also called sphuratta.",
+    "It is called jiva and hrt-pratibha."
+   ],
+   "inference": "The verse lists synonyms for the prana power.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "This is that prana power, called spanda, sphuratta, jiva, and hrt-pratibha."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāṇavṛttiḥ",
+     "gloss": "prana-activity",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāṇādyai",
+     "gloss": "by-prana-and-others",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "rūpaiḥ",
+     "gloss": "forms",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "pañcabhirātmasāt",
+     "gloss": "fivefold-self",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yatkurute",
+     "gloss": "which-makes",
+     "grounds": "verb root kri",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "saṃvitpūrṇastenaiṣa",
+     "gloss": "consciousness-full-by-that-this",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb root bhas",
+     "morph": "3.sg.mid.pres"
+    }
+   ],
+   "question": "How does prana activity make the body its own?",
+   "premises": [
+    "Prana activity acts through five forms.",
+    "It makes the body its own.",
+    "Consciousness-full shines by that."
+   ],
+   "inference": "Prana activity appropriates the body through five forms.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "That prana activity, through five forms including prana, makes the body its own, and consciousness-full shines by that."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "prāṇanāvṛttitādātmyasaṃvitkhacitadehajām",
+     "gloss": "prana-activity-identity-consciousness-pervaded-body-born",
+     "grounds": "long compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ceṣṭāṃ",
+     "gloss": "movement",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paśyantyato",
+     "gloss": "seeing-therefore",
+     "grounds": "participle and indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mugdhā",
+     "gloss": "deluded",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nāstyanyaditi",
+     "gloss": "there-is-nothing-else-thus",
+     "grounds": "indeclinable phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manvate",
+     "gloss": "think",
+     "grounds": "verb root man",
+     "morph": "3.pl.act.pres"
+    }
+   ],
+   "question": "Why do deluded people think there is nothing else?",
+   "premises": [
+    "They see body-born movement.",
+    "They are deluded.",
+    "They think there is nothing else."
+   ],
+   "inference": "Deluded observers mistake body movement for the whole reality.",
+   "uncertainties": [
+    "Long compound segmentation is uncertain."
+   ],
+   "plain_english": "Deluded people, seeing movement born of the body pervaded by prana-activity and consciousness, think there is nothing else."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "tāmeva",
+     "gloss": "that-very",
+     "grounds": "demonstrative with emphatic",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bālamūrkhastrīprāyaveditṛsaṃśritām",
+     "gloss": "child-fool-woman-mostly-known-refuge",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "matiṃ",
+     "gloss": "view",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pramāṇīkurvantaścārvākāstattvadarśinaḥ",
+     "gloss": "making-authority-materialists-truth-seers",
+     "grounds": "compound participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Whose view do materialists make authoritative?",
+   "premises": [
+    "Materialists make that view authoritative.",
+    "The view is mostly known to children, fools, and women.",
+    "They call themselves truth-seers."
+   ],
+   "inference": "Materialists rely on a limited view.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "Materialists, calling themselves truth-seers, make authoritative that very view mostly known to children, fools, and women."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvanā",
+     "gloss": "meditation",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caddārḍhyameti",
+     "gloss": "and-firmness-goes",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "nirantaram",
+     "gloss": "continuously",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddehabhaṅge",
+     "gloss": "at-that-body-breaking",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "suptāḥ",
+     "gloss": "asleep",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syurātādṛgvāsanākṣayāt",
+     "gloss": "would-be-from-seeing-habit-destruction",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What happens when their meditation becomes firm?",
+   "premises": [
+    "Their meditation becomes firm continuously.",
+    "At body breaking they become asleep.",
+    "This is from destruction of seeing-habit."
+   ],
+   "inference": "Firm meditation leads to sleep-like dissolution at death.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "Their meditation becomes firm continuously; at the breaking of that body they become asleep, from destruction of the seeing-habit."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "tadvāsanākṣaye",
+     "gloss": "at-that-habit-destruction",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tveṣāmakṣīṇaṃ",
+     "gloss": "but-their-undiminished",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāsanāntaram",
+     "gloss": "another-habit",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "buddhaṃ",
+     "gloss": "awakened",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kutaścitsaṃsūte",
+     "gloss": "from-somewhere-arises",
+     "grounds": "verb phrase",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "vicitrāṃ",
+     "gloss": "various",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "phalasampadam",
+     "gloss": "fruit-abundance",
+     "grounds": "compound noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What arises when another habit remains?",
+   "premises": [
+    "At destruction of that habit, another habit remains.",
+    "It arises from somewhere.",
+    "It produces various fruit-abundance."
+   ],
+   "inference": "A remaining habit generates varied results.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "When that habit is destroyed, another undiminished habit of theirs, awakened, arises from somewhere and produces various abundance of fruit."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "adārḍhyaśaṅkanātprācyavāsanātādavasthyataḥ",
+     "gloss": "from-lack-of-firmness-suspicion-eastern-habit-state",
+     "grounds": "long compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "anyakartavyaśaithilyātsaṃbhāvyānuśayatvataḥ",
+     "gloss": "from-other-duty-laxity-possible-latency",
+     "grounds": "long compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What causes the arising of another habit?",
+   "premises": [
+    "Lack of firmness causes suspicion.",
+    "Eastern habit state remains.",
+    "Other duty laxity allows possible latency."
+   ],
+   "inference": "Several conditions allow another habit to arise.",
+   "uncertainties": [
+    "Long compound segmentation is uncertain."
+   ],
+   "plain_english": "From lack of firmness and suspicion, from eastern habit state, and from laxity in other duty with possible latency, another habit arises."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "atadrūḍhānyajanatākartavyaparilopanāt",
+     "gloss": "from-not-firm-other-people-duty-omission",
+     "grounds": "long compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nāstikyavāsanāmāhuḥ",
+     "gloss": "atheistic-habit-they-call",
+     "grounds": "compound verb phrase",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "pāpātpāpīyasīmimām",
+     "gloss": "from-sin-more-sinful-this",
+     "grounds": "adjective phrase",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What habit is called more sinful than sin?",
+   "premises": [
+    "Omission of duty by unfirmed other people causes it.",
+    "They call it atheistic habit.",
+    "It is more sinful than sin."
+   ],
+   "inference": "Atheistic habit is deemed worse than ordinary sin.",
+   "uncertainties": [
+    "Long compound segmentation is uncertain."
+   ],
+   "plain_english": "From omission of duty by unfirmed other people, they call this atheistic habit, more sinful than sin."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "alamaprastutenātha",
+     "gloss": "enough-with-digression-now",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛtaṃ",
+     "gloss": "subject",
+     "grounds": "neuter accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pravivicyate",
+     "gloss": "is-distinguished",
+     "grounds": "verb root vic",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "yāvānsamasta",
+     "gloss": "as-much-as-all",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evāyamadhvā",
+     "gloss": "indeed-this-path",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "in-prana",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pratiṣṭhitaḥ",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the whole path established?",
+   "premises": [
+    "Enough of digression; now the subject is distinguished.",
+    "The whole path is established in prana.",
+    "This path is indeed established there."
+   ],
+   "inference": "The entire path rests in prana.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "Enough of digression; now the subject is distinguished: the whole path is indeed established in prana."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "dvidhā",
+     "gloss": "in-two-ways",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so@dhvā",
+     "gloss": "that-path",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kriyayā",
+     "gloss": "by-action",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "mūrtyā",
+     "gloss": "by-form",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravibhajyate",
+     "gloss": "is-divided",
+     "grounds": "verb root bhaj",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "prāṇa",
+     "gloss": "prana",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīmattriśirasyuditā",
+     "gloss": "in-srimat-trishiras-spoken",
+     "grounds": "compound participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the path divided?",
+   "premises": [
+    "The path is divided in two ways.",
+    "It is divided by action and form.",
+    "Prana is indeed the crest spoken in Srimat Trishiras."
+   ],
+   "inference": "The path has action-form division and prana is its crest.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "That path is divided in two ways, by action and form; prana is indeed the crest spoken of in Srimat Trishiras."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "baddhā",
+     "gloss": "bound",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāgādikāle",
+     "gloss": "at-sacrifice-time",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tuṃ",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkalatvācchivātmikā",
+     "gloss": "from-formlessness-shiva-nature",
+     "grounds": "compound ablative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yato@horātramadhye@syāścaturviṃśatidhā",
+     "gloss": "because-in-day-night-middle-there-are-twenty-four-fold",
+     "grounds": "compound phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "movement",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is prana bound at sacrifice time?",
+   "premises": [
+    "At sacrifice time it is bound.",
+    "From formlessness it is Shiva-nature.",
+    "In day and night there are twenty-four movements."
+   ],
+   "inference": "Sacrifice-time binding relates to Shiva-nature and twenty-four movements.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "Bound at sacrifice time, from formlessness it is Shiva-nature; because in day and night there are twenty-four movements."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "prāṇavikṣeparandhrākhyaśataiścitraphalapradā",
+     "gloss": "prana-dispersion-hole-named-hundreds-various-fruit-giving",
+     "grounds": "long compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣapā",
+     "gloss": "night",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaśī",
+     "gloss": "moon",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathāpāno",
+     "gloss": "and-apana",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāda",
+     "gloss": "sound",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "verb root stha",
+     "morph": "3.sg.act.pres"
+    }
+   ],
+   "question": "Where do night, moon, apana, and sound stand?",
+   "premises": [
+    "Night and moon give various fruit through prana dispersion.",
+    "Apana and sound are mentioned.",
+    "They stand in one place."
+   ],
+   "inference": "These elements are located together in one place.",
+   "uncertainties": [
+    "Long compound segmentation is uncertain."
+   ],
+   "plain_english": "Night and moon, giving various fruit through prana dispersion, and apana and sound, stand in one place."
+  }
+ ]
+}

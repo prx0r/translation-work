@@ -1,0 +1,815 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "sthānaprakalpākhyatayā",
+     "gloss": "by-named-arrangement-of-place",
+     "grounds": "token 1",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "sphuṭastu",
+     "gloss": "clear-but",
+     "grounds": "token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bāhyo@bhyupāyaḥ",
+     "gloss": "external-means",
+     "grounds": "token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pravivicyate@tha",
+     "gloss": "is-distinguished",
+     "grounds": "token 4",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is the external means distinguished here?",
+   "premises": [
+    "external means is clearly distinguished",
+    "distinction proceeds by named arrangement"
+   ],
+   "inference": "the external means is set apart by its named arrangement",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "The external means is clearly distinguished by its named arrangement."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "sthānabhedastridhā",
+     "gloss": "place-difference-threefold",
+     "grounds": "token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "is-declared",
+     "grounds": "token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "in-breath",
+     "grounds": "token 3",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "token 4",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bahistathā",
+     "gloss": "outside-thus",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇaśca",
+     "gloss": "breath-and",
+     "grounds": "token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "token 8",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bāhyāntaratvataḥ",
+     "gloss": "by-external-internal-nature",
+     "grounds": "token 10",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How is place difference declared in three ways?",
+   "premises": [
+    "place difference is threefold",
+    "breath body and outside are named"
+   ],
+   "inference": "the threefold place difference is declared across breath body and outside",
+   "uncertainties": [
+    "compound boundaries uncertain"
+   ],
+   "plain_english": "Place difference is declared threefold: in breath, in body, and outside."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar-ground",
+     "grounds": "token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pātramakṣasūtraṃ",
+     "gloss": "vessel-bead-rosary",
+     "grounds": "token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sapustakam",
+     "gloss": "with-book",
+     "grounds": "token 4",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "token 5",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tūraṃ",
+     "gloss": "drum",
+     "grounds": "token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "paṭaḥ",
+     "gloss": "cloth",
+     "grounds": "token 7",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pustaṃ",
+     "gloss": "book",
+     "grounds": "token 8",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pratimā",
+     "gloss": "image",
+     "grounds": "token 9",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mūrtireva",
+     "gloss": "form-indeed",
+     "grounds": "token 10",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 11",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What external supports are enumerated here?",
+   "premises": [
+    "eleven external supports are listed",
+    "supports include circle altar vessel and image"
+   ],
+   "inference": "the verse enumerates eleven external supports",
+   "uncertainties": [
+    "exact grouping uncertain"
+   ],
+   "plain_english": "The external supports include circle, altar, vessel, rosary, book, linga, drum, cloth, book, image, and form."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "ityekādaśadhā",
+     "gloss": "thus-elevenfold",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bāhyaṃ",
+     "gloss": "external",
+     "grounds": "token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "punastadbahudhā",
+     "gloss": "again-that-manyfold",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "token 4",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇāśrayaṃ",
+     "gloss": "breath-support",
+     "grounds": "token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tāvadvidhānamupadiśyate",
+     "gloss": "that-much-arrangement-is-taught",
+     "grounds": "token 7",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How does the external become manyfold again?",
+   "premises": [
+    "external is elevenfold",
+    "it may become manyfold again"
+   ],
+   "inference": "the external arrangement is taught as breath support",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Thus the external is elevenfold and may become manyfold; there the breath support arrangement is taught."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "adhvā",
+     "gloss": "path",
+     "grounds": "token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samasta",
+     "gloss": "whole",
+     "grounds": "token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "evāyaṃ",
+     "gloss": "indeed-this",
+     "grounds": "token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ṣaḍvidho@pyativistṛtaḥ",
+     "gloss": "sixfold-very-extensive",
+     "grounds": "token 4",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yo",
+     "gloss": "which",
+     "grounds": "token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-spoken",
+     "grounds": "token 6",
+     "morph": "3.sg.fut.pass"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 7",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "in-breath",
+     "grounds": "token 9",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tāvatpratiṣṭhitaḥ",
+     "gloss": "there-established",
+     "grounds": "token 10",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Where is the whole sixfold path established?",
+   "premises": [
+    "the whole path is sixfold",
+    "it is established in breath"
+   ],
+   "inference": "the sixfold path is established in one breath",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "The whole sixfold path, though extensive, is established in breath."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "adhvanaḥ",
+     "gloss": "of-path",
+     "grounds": "token 1",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "kalanaṃ",
+     "gloss": "movement",
+     "grounds": "token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yattatkramākramatayā",
+     "gloss": "which-that-ordered-unordered-nature",
+     "grounds": "token 3",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "established",
+     "grounds": "token 4",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kramākramau",
+     "gloss": "ordered-unordered",
+     "grounds": "token 5",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "citraikakalanā",
+     "gloss": "wonderful-single-movement",
+     "grounds": "token 7",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhāvagocare",
+     "gloss": "in-realm-of-being",
+     "grounds": "token 8",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "How is path movement established?",
+   "premises": [
+    "path movement is established",
+    "ordered and unordered are its nature"
+   ],
+   "inference": "path movement is established as ordered and unordered",
+   "uncertainties": [
+    "compound boundaries uncertain"
+   ],
+   "plain_english": "The movement of the path is established as ordered and unordered."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "kramākramātmā",
+     "gloss": "ordered-unordered-self",
+     "grounds": "token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kālaśca",
+     "gloss": "time-and",
+     "grounds": "token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saṃvidi",
+     "gloss": "in-consciousness",
+     "grounds": "token 4",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "abides",
+     "grounds": "token 5",
+     "morph": "3.sg.pres.act"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "Kali",
+     "grounds": "token 6",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "token 8",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "token 9",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "that-same",
+     "grounds": "token 10",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "token 11",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "gīyate",
+     "gloss": "is-sung",
+     "grounds": "token 12",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is the supreme time in consciousness?",
+   "premises": [
+    "supreme time abides in consciousness",
+    "that same power is sung of god"
+   ],
+   "inference": "supreme time is the supreme power sung of god",
+   "uncertainties": [
+    "mythological reference uncertain"
+   ],
+   "plain_english": "Supreme time abides in consciousness; that same supreme power of god is sung."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "saiva",
+     "gloss": "that-same",
+     "grounds": "token 1",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃvidbahiḥ",
+     "gloss": "outside-consciousness",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svātmagarbhībhūtau",
+     "gloss": "in-self-womb-becoming",
+     "grounds": "token 3",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "kramākramau",
+     "gloss": "ordered-unordered",
+     "grounds": "token 4",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "sphuṭayantī",
+     "gloss": "making-clear",
+     "grounds": "token 5",
+     "morph": "nom.sg.f.part"
+    },
+    {
+     "surface": "prarohaṇa",
+     "gloss": "sprouting",
+     "grounds": "token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prāṇavṛttiriti",
+     "gloss": "breath-movement-thus",
+     "grounds": "token 7",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "token 8",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How are ordered and unordered made clear?",
+   "premises": [
+    "that same power acts outside consciousness",
+    "it makes ordered and unordered clear"
+   ],
+   "inference": "ordered and unordered are made clear as breath movement",
+   "uncertainties": [
+    "compound boundaries uncertain"
+   ],
+   "plain_english": "That same power, outside consciousness, makes ordered and unordered clear as breath movement."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "saṃvinmātraṃ",
+     "gloss": "consciousness-only",
+     "grounds": "token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yacchuddhaṃ",
+     "gloss": "which-pure",
+     "grounds": "token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prakāśaparamārthakam",
+     "gloss": "light-supreme-meaning",
+     "grounds": "token 4",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tanmeyamātmanaḥ",
+     "gloss": "that-measured-of-self",
+     "grounds": "token 5",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "projjhya",
+     "gloss": "having-abandoned",
+     "grounds": "token 6",
+     "morph": "abs."
+    },
+    {
+     "surface": "viviktaṃ",
+     "gloss": "distinct",
+     "grounds": "token 7",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "token 8",
+     "morph": "3.sg.pres.act"
+    },
+    {
+     "surface": "nabhaḥ",
+     "gloss": "sky",
+     "grounds": "token 9",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What shines when pure consciousness is abandoned?",
+   "premises": [
+    "pure consciousness is light and supreme meaning",
+    "having abandoned measured self it shines distinct"
+   ],
+   "inference": "distinct sky-like consciousness shines",
+   "uncertainties": [
+    "syntax uncertain"
+   ],
+   "plain_english": "Pure consciousness, light and supreme meaning, shines distinct like sky when the measured self is abandoned."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śūnyarūpatvaṃ",
+     "gloss": "emptiness-form-ness",
+     "grounds": "token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saṃvidaḥ",
+     "gloss": "of-consciousness",
+     "grounds": "token 3",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "parigīyate",
+     "gloss": "is-sung-around",
+     "grounds": "token 4",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "neti",
+     "gloss": "not-this",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "neti",
+     "gloss": "not-this",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vimarśena",
+     "gloss": "by-reflection",
+     "grounds": "token 7",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "yogināṃ",
+     "gloss": "of-yogis",
+     "grounds": "token 8",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "token 9",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "token 10",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "daśā",
+     "gloss": "state",
+     "grounds": "token 11",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is the supreme state of consciousness?",
+   "premises": [
+    "emptiness form of consciousness is sung",
+    "yogis know it by not-this reflection"
+   ],
+   "inference": "the supreme state is consciousness known as emptiness form",
+   "uncertainties": [
+    "philosophical nuance uncertain"
+   ],
+   "plain_english": "That same emptiness-form of consciousness is sung; for yogis, by not-this reflection, that is the supreme state."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "khātmā",
+     "gloss": "space-self",
+     "grounds": "token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "meye@sminbhedite",
+     "gloss": "when-measured-this-divided",
+     "grounds": "token 4",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "svīkriyonmukhaḥ",
+     "gloss": "ready-to-appropriate",
+     "grounds": "token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "patansamucchalattvena",
+     "gloss": "falling-rising-as",
+     "grounds": "token 6",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "prāṇaspandormisaṃjñitaḥ",
+     "gloss": "breath-pulse-wave-named",
+     "grounds": "token 7",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What happens when space-self is divided?",
+   "premises": [
+    "space-self becomes ready to appropriate",
+    "falling and rising names breath pulse wave"
+   ],
+   "inference": "divided space-self becomes breath pulse wave",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "That space-self, when divided and measured, becomes ready to appropriate and is named breath pulse wave."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "tenāhuḥ",
+     "gloss": "therefore-they-say",
+     "grounds": "token 1",
+     "morph": "3.pl.pres.act"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃvitprākprāṇe",
+     "gloss": "consciousness-before-breath",
+     "grounds": "token 3",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pariṇatā",
+     "gloss": "transformed",
+     "grounds": "token 4",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "antaḥkaraṇatattvasya",
+     "gloss": "of-inner-instrument-principle",
+     "grounds": "token 6",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "vāyurāśrayatāṃ",
+     "gloss": "wind-support-ness",
+     "grounds": "token 7",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "token 8",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What do they say about consciousness and breath?",
+   "premises": [
+    "consciousness transformed in breath",
+    "inner instrument principle becomes wind support"
+   ],
+   "inference": "consciousness transformed in breath and inner principle becomes wind support",
+   "uncertainties": [
+    "compound boundaries uncertain"
+   ],
+   "plain_english": "Therefore they say consciousness transformed in breath, and the inner instrument principle became wind support."
+  }
+ ]
+}

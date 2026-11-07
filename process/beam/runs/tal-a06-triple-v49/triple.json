@@ -1,0 +1,793 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "saṃvedyajīvanābhikhyaprayatnaspandasundaraḥ",
+     "gloss": "beautiful-spanda-effort-life-knowable",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāṇaḥ",
+     "gloss": "life-breath",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kandātprabhṛtyeva",
+     "gloss": "from-kanda-onward-indeed",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāpyatra",
+     "gloss": "yet-here",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "susphuṭaḥ",
+     "gloss": "very-clear",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is prana not very clear from the kanda onward?",
+   "premises": [
+    "prana is beautiful spanda",
+    "from kanda onward it is not very clear"
+   ],
+   "inference": "prana's clarity is limited in that region",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Prana, beautiful spanda of effort known as life, is not very clear from the kanda onward."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "kandādhārātprabhṛtyeva",
+     "gloss": "from-kanda-support-onward-indeed",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavasthā",
+     "gloss": "arrangement",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres + root kath"
+    },
+    {
+     "surface": "svacchandaśāstre",
+     "gloss": "in-Svacchanda-scripture",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nāḍīnāṃ",
+     "gloss": "of-channels",
+     "grounds": "noun",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "vāyvādhāratayā",
+     "gloss": "as-support-of-winds",
+     "grounds": "compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the arrangement of channels said in Svacchanda?",
+   "premises": [
+    "arrangement from kanda support onward",
+    "channels are support of winds"
+   ],
+   "inference": "the scripture states this arrangement clearly",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "From the kanda support onward, the arrangement of channels is clearly said in Svacchanda as support of winds."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "tatrāpi",
+     "gloss": "there-too",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayatno@sau",
+     "gloss": "that-effort",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvedyatayā",
+     "gloss": "as-knowable",
+     "grounds": "compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "m.nom.sg + root stha"
+    },
+    {
+     "surface": "vedyayatnāttu",
+     "gloss": "but-from-knowable-effort",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "hṛdayātprāṇacāro",
+     "gloss": "life-breath-movement-from-heart",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhajyate",
+     "gloss": "is-distinguished",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres + root vibhaj"
+    }
+   ],
+   "question": "How is effort distinguished from knowable effort?",
+   "premises": [
+    "that effort is not situated as knowable",
+    "life-breath movement is from heart"
+   ],
+   "inference": "effort is distinguished from knowable effort by heart movement",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "There too that effort is not situated as knowable; but life-breath movement is distinguished from knowable effort from the heart."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "prabhoḥ",
+     "gloss": "of-lord",
+     "grounds": "noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "of-Shiva",
+     "grounds": "noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktirvāmā",
+     "gloss": "power-Vama",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyeṣṭhā",
+     "gloss": "Jyeshtha",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raudrikā",
+     "gloss": "Raudri",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satadanyatamāvātmaprāṇau",
+     "gloss": "those-two-self-life-breaths",
+     "grounds": "compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "yatnavidhāyinau",
+     "gloss": "effort-causing",
+     "grounds": "compound",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which powers of Shiva cause effort?",
+   "premises": [
+    "Shiva's powers are Vama Jyeshtha Raudri",
+    "two self-life-breaths cause effort"
+   ],
+   "inference": "Shiva's powers operate through self and life-breath",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Of lord Shiva, powers Vama, Jyeshtha, and Raudri are those two self-life-breaths causing effort."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "prabhuśaktiḥ",
+     "gloss": "lord-power",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kvacinmukhyā",
+     "gloss": "sometimes-primary",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathāṅgamarudīraṇe",
+     "gloss": "as-in-limb-wind-stirring",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ātmaśaktiḥ",
+     "gloss": "self-power",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kvacitkandasaṃkocaspandane",
+     "gloss": "sometimes-in-kanda-contraction-spanda",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is lord power primary?",
+   "premises": [
+    "lord power sometimes primary",
+    "self power sometimes in kanda contraction"
+   ],
+   "inference": "primacy shifts by context",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Lord power is sometimes primary, as in limb wind stirring; self power sometimes, as in kanda contraction spanda."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "prāṇaśaktiḥ",
+     "gloss": "life-power",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kvacitprāṇacāre",
+     "gloss": "sometimes-in-life-movement",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hārde",
+     "gloss": "in-heart",
+     "grounds": "adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "primary",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syādyogināmavadhāninām",
+     "gloss": "may-be-of-attentive-yogis",
+     "grounds": "compound",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "How many powers may be primary for attentive yogis?",
+   "premises": [
+    "life power sometimes in heart movement",
+    "three or two may be primary"
+   ],
+   "inference": "attentive yogis may have three or two primary powers",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Life power is sometimes in heart movement; clearly three or two may be primary for attentive yogis."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "avadhānādadṛṣṭāṃśādbalavattvādatheraṇāt",
+     "gloss": "from-attention-unseen-part-strength-thus-moving",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viparyayo@pi",
+     "gloss": "even-inversion",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇātmaśaktīnāṃ",
+     "gloss": "of-life-self-powers",
+     "grounds": "compound",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "mukhyatāṃ",
+     "gloss": "primacy",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why can primacy invert among life and self powers?",
+   "premises": [
+    "attention has unseen part",
+    "strength causes inversion"
+   ],
+   "inference": "primacy may invert due to attention and strength",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Even inversion toward primacy of life and self powers occurs from attention, unseen part, strength, and thus moving."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "vāmā",
+     "gloss": "Vama",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃsāriṇāmīśā",
+     "gloss": "lord-of-bound-beings",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prabhuśaktirvidhāyinī",
+     "gloss": "lord-power-causing",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyeṣṭhā",
+     "gloss": "Jyeshtha",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suprabuddhānāṃ",
+     "gloss": "of-well-awakened",
+     "grounds": "compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bubhutsūnāṃ",
+     "gloss": "of-desiring-to-know",
+     "grounds": "compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raudrikā",
+     "gloss": "Raudri",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which power rules bound beings and which rules awakened seekers?",
+   "premises": [
+    "Vama is lord of bound beings",
+    "Jyeshtha is for well-awakened",
+    "Raudri is for desiring to know"
+   ],
+   "inference": "powers correspond to spiritual stages",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Vama is lord of bound beings and causing lord power; Jyeshtha is for well-awakened, and Raudri for those desiring to know."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "vāmā",
+     "gloss": "Vama",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃsāravamanā",
+     "gloss": "vomiting-samsara",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyeṣṭhā",
+     "gloss": "Jyeshtha",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivamayī",
+     "gloss": "Shiva-filled",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "drāvayitrī",
+     "gloss": "melting",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rujāṃ",
+     "gloss": "of-diseases",
+     "grounds": "noun",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "raudrī",
+     "gloss": "Raudri",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "roddhrī",
+     "gloss": "obstructing",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cākhilakarmaṇām",
+     "gloss": "and-of-all-actions",
+     "grounds": "compound",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "What are the functions of Vama Jyeshtha and Raudri?",
+   "premises": [
+    "Vama vomits samsara",
+    "Jyeshtha is Shiva-filled",
+    "Raudri melts diseases and obstructs actions"
+   ],
+   "inference": "each power has a distinct function",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Vama vomits samsara; Jyeshtha is Shiva-filled; Raudri melts diseases and obstructs all actions."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "sṛṣṭyāditattvamajñātvā",
+     "gloss": "not-knowing-creation-principle",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukto",
+     "gloss": "liberated",
+     "grounds": "participle",
+     "morph": "m.nom.sg + root muc"
+    },
+    {
+     "surface": "nāpi",
+     "gloss": "nor",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mocayet",
+     "gloss": "liberates",
+     "grounds": "verb",
+     "morph": "3.sg.opt + root muc"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "participle",
+     "morph": "n.nom.sg + root vac"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīyogacāre",
+     "gloss": "in-Shri-Yogacara",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvaprakāśanāt",
+     "gloss": "from-all-illumination",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What is required for liberation according to Yogacara?",
+   "premises": [
+    "not knowing creation principle prevents liberation",
+    "liberation is from all illumination"
+   ],
+   "inference": "liberation requires knowing creation principle and illumination",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Not knowing the creation principle, one is not liberated nor liberates; in Shri Yogacara liberation is from all illumination."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "utpattisthitisaṃhārān",
+     "gloss": "creation-preservation-dissolution",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānanti",
+     "gloss": "know",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres + root jna"
+    },
+    {
+     "surface": "yoginaḥ",
+     "gloss": "yogis",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktāste",
+     "gloss": "liberated-they",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadajñānabandhanaikādhivāsitāḥ",
+     "gloss": "bound-by-that-ignorance",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are yogis who do not know creation not liberated?",
+   "premises": [
+    "yogis not knowing creation-preservation-dissolution",
+    "they are bound by that ignorance"
+   ],
+   "inference": "ignorance of cosmic processes prevents liberation",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Yogis who do not know creation, preservation, and dissolution are not liberated; they are bound by that ignorance."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "sṛṣṭyādayaśca",
+     "gloss": "and-creation-etc",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kālādhīnā",
+     "gloss": "time-dependent",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇātmakastasmāduccāraḥ",
+     "gloss": "breath-essence-therefore-utterance",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres + root kath"
+    },
+    {
+     "surface": "sphuṭaḥ",
+     "gloss": "clear",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why are creation and related processes time-dependent?",
+   "premises": [
+    "creation etc are all time-dependent",
+    "that is breath-essence therefore utterance"
+   ],
+   "inference": "creation processes depend on time and breath essence",
+   "uncertainties": [
+    "compound gloss approximate"
+   ],
+   "plain_english": "Creation and related processes are all time-dependent, no doubt; that breath-essence is therefore clearly said as utterance."
+  }
+ ]
+}

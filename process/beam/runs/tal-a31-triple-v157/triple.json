@@ -1,0 +1,535 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "madhyabhāgatrayaṃ",
+     "gloss": "three-middle-parts",
+     "grounds": "compound of middle part three",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive of tyaj",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative of madhya",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bhāgadvayasya",
+     "gloss": "of-two-parts",
+     "grounds": "genitive of bhāgadvaya",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhastādbhrāmayetsūtraṃ",
+     "gloss": "rotate-thread-below",
+     "grounds": "compound adhastāt bhrāmayet sūtram",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śaśāṅkaśakalākṛti",
+     "gloss": "crescent-moon-shape",
+     "grounds": "compound śaśāṅka śakala ākṛti",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "How should the thread be rotated below after leaving three middle parts?",
+   "premises": [
+    "three middle parts are abandoned",
+    "thread is rotated below",
+    "resulting shape is crescent moon"
+   ],
+   "inference": "The ritual thread is rotated below to form a crescent-moon shape after leaving three middle parts.",
+   "uncertainties": [
+    "exact thread path is not fully specified"
+   ],
+   "plain_english": "After leaving three middle parts, rotate the thread below so that a crescent-moon shape results."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "ubhayato",
+     "gloss": "from-both-sides",
+     "grounds": "indeclinable ubhayatas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāmayettatra",
+     "gloss": "rotate-there",
+     "grounds": "optative of bhrāmay",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yathāgre",
+     "gloss": "as-at-tip",
+     "grounds": "compound yathā agre",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hākṛtirbhavet",
+     "gloss": "shape-becomes",
+     "grounds": "optative of bhū with hākṛti",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "koṭyāṃ",
+     "gloss": "at-tip",
+     "grounds": "locative of koṭi",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable tatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "made",
+     "grounds": "past participle of kṛ",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "accusative of sūtra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nayedrekhāṃ",
+     "gloss": "draw-line",
+     "grounds": "optative of nī with rekhā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvikām",
+     "gloss": "former",
+     "grounds": "accusative feminine of pūrvaka",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How is the former line drawn from the tip after rotating from both sides?",
+   "premises": [
+    "thread is rotated from both sides",
+    "a shape arises at the tip",
+    "the former line is drawn there"
+   ],
+   "inference": "After rotating from both sides, the thread is used to draw the former line at the tip.",
+   "uncertainties": [
+    "the exact resulting shape is unclear"
+   ],
+   "plain_english": "Rotate from both sides so a shape arises at the tip, then draw the former line there with the thread."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "aparadvārapūrveṇa",
+     "gloss": "previous-far-gate",
+     "grounds": "compound aparadvāra pūrveṇa",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "tyaktvāṅgulacatuṣṭayam",
+     "gloss": "having-abandoned-four-fingers",
+     "grounds": "absolutive plus accusative compound",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "rekhāṃ",
+     "gloss": "line",
+     "grounds": "accusative of rekhā",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vināśayetprājño",
+     "gloss": "wise-one-destroys",
+     "grounds": "optative of vināśay with prājña",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable yathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlākṛtirbhavet",
+     "gloss": "trident-shape-becomes",
+     "grounds": "optative of bhū with śūlākṛti",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How does the wise one destroy the line to make a trident shape?",
+   "premises": [
+    "four fingers are abandoned by the previous far gate",
+    "the line is destroyed",
+    "a trident shape becomes"
+   ],
+   "inference": "By abandoning four fingers at the previous far gate and destroying the line, a trident shape is produced.",
+   "uncertainties": [
+    "spatial relation of gate and fingers is unclear"
+   ],
+   "plain_english": "Leaving four fingers by the previous far gate, the wise one destroys the line so a trident shape results."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "śūlāgre",
+     "gloss": "at-trident-tip",
+     "grounds": "locative of śūlāgra",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tvardhahastena",
+     "gloss": "by-half-hand",
+     "grounds": "instrumental of ardha hasta",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive of tyaj",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "padmāni",
+     "gloss": "lotuses",
+     "grounds": "accusative plural of padma",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "optative of kāray",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "below",
+     "grounds": "indeclinable adhas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṅgatrayaṃ",
+     "gloss": "three-horns",
+     "grounds": "accusative of śṛṅgatraya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "hastamadhye",
+     "gloss": "in-hand-middle",
+     "grounds": "locative of hastamadhya",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "accusative of padma",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sakarṇikam",
+     "gloss": "with-pericarp",
+     "grounds": "compound sa karṇika",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How are lotuses made below the trident tip after leaving half a hand?",
+   "premises": [
+    "half a hand is left at the trident tip",
+    "lotuses are made below",
+    "three horns and a lotus with pericarp are placed in the hand middle"
+   ],
+   "inference": "After leaving half a hand at the trident tip, lotuses are made below, with three horns and a pericarp lotus in the hand middle.",
+   "uncertainties": [
+    "exact placement of horns is unclear"
+   ],
+   "plain_english": "Leaving half a hand at the trident tip, make lotuses below, with three horns and a lotus with pericarp in the middle of the hand."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "mukhāgre",
+     "gloss": "at-mouth-tip",
+     "grounds": "locative of mukhāgra",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dhārayetsūtraṃ",
+     "gloss": "hold-thread",
+     "grounds": "optative of dhṛ with sūtra",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tribhirhastaistu",
+     "gloss": "with-three-hands",
+     "grounds": "instrumental plural of hasta",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "should-drop",
+     "grounds": "optative of pātay",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative of madhya",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "cordhvaṃ",
+     "gloss": "and-upward",
+     "grounds": "compound ca ūrdhvam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable tatas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādadhastādaṅguladvayam",
+     "gloss": "make-two-fingers-below",
+     "grounds": "optative of kṛ with adhastāt aṅguladvaya",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How is the thread held and dropped to make two fingers below?",
+   "premises": [
+    "thread is held at the mouth tip",
+    "it is dropped in the middle with three hands",
+    "then two fingers are made below"
+   ],
+   "inference": "The thread is held at the mouth tip, dropped in the middle with three hands, and then two fingers are made below.",
+   "uncertainties": [
+    "relation of upward motion to final fingers is unclear"
+   ],
+   "plain_english": "Hold the thread at the mouth tip, drop it in the middle with three hands, then make two fingers below."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "rekhādvayaṃ",
+     "gloss": "two-lines",
+     "grounds": "accusative of rekhādvaya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pātayeta",
+     "gloss": "should-drop",
+     "grounds": "optative of pātay",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable yathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "nominative of śūla",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavatyapi",
+     "gloss": "becomes-also",
+     "grounds": "present of bhū with api",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "adhobhāgādibhiścordhvaṃ",
+     "gloss": "and-upward-from-lower-parts",
+     "grounds": "compound adhas bhāga ādi with ca ūrdhvam",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable tatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rekhā",
+     "gloss": "line",
+     "grounds": "nominative of rekhā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prapadyate",
+     "gloss": "reaches",
+     "grounds": "present of prapad",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How do two dropped lines become a trident and reach upward?",
+   "premises": [
+    "two lines are dropped",
+    "a trident becomes",
+    "from lower parts upward the line reaches there"
+   ],
+   "inference": "Dropping two lines produces a trident, and from the lower parts upward the line reaches its place.",
+   "uncertainties": [
+    "exact path of the line is unclear"
+   ],
+   "plain_english": "Drop two lines so a trident forms; from the lower parts upward, the line reaches there."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "samīkṛtya",
+     "gloss": "having-equalized",
+     "grounds": "absolutive of samīkṛ",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable tatas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtre",
+     "gloss": "in-thread",
+     "grounds": "locative of sūtra",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ūrdhve",
+     "gloss": "upward",
+     "grounds": "indeclinable ūrdhva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "accusative dual of dvi",
+     "morph": "acc.du.n"
+    },
+    {
+     "surface": "evameva",
+     "gloss": "thus-thus",
+     "grounds": "compound evam eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "accusative of madhya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "accusative of padma",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pratiṣṭhāpyaṃ",
+     "gloss": "to-be-established",
+     "grounds": "gerundive of pratiṣṭhā",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "śūlādhastādyaśasvini",
+     "gloss": "below-trident-o-glorious",
+     "grounds": "compound śūla adhastāt with vocative yaśasvinī",
+     "morph": "loc.sg.f"
+    }
+   ],
+   "question": "How are two threads equalized upward and the middle lotus established?",
+   "premises": [
+    "threads are equalized",
+    "two are placed upward",
+    "the middle lotus is to be established below the trident"
+   ],
+   "inference": "After equalizing the threads, two are placed upward, and the middle lotus is to be established below the trident.",
+   "uncertainties": [
+    "exact thread count and placement are unclear"
+   ],
+   "plain_english": "Having equalized the threads, place two upward; the middle lotus is to be established below the trident, O glorious one."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "ityeṣa",
+     "gloss": "thus-this",
+     "grounds": "compound iti eṣa",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "maṇḍalavidhiḥ",
+     "gloss": "mandala-rite",
+     "grounds": "compound maṇḍala vidhi",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "spoken",
+     "grounds": "past participle of kath",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saṃkṣepayogato",
+     "gloss": "by-concise-method",
+     "grounds": "ablative of saṃkṣepayoga",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "mahāgurubhiḥ",
+     "gloss": "by-great-teachers",
+     "grounds": "instrumental plural of mahāguru",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "Who spoke this mandala rite by concise method?",
+   "premises": [
+    "this mandala rite is spoken",
+    "it is spoken by concise method",
+    "great teachers are the agents"
+   ],
+   "inference": "This mandala rite was spoken by the great teachers through a concise method.",
+   "uncertainties": [
+    "scope of concise method is unspecified"
+   ],
+   "plain_english": "Thus this mandala rite has been spoken in concise form by the great teachers."
+  }
+ ]
+}

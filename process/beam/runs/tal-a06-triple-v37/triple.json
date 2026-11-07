@@ -1,0 +1,808 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "ṣaḍvidhādadhvanaḥ",
+     "gloss": "sixfold-path",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prācyaṃ",
+     "gloss": "eastern",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yadetattritayaṃ",
+     "gloss": "that-triad",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālādhvā",
+     "gloss": "time-path",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "in-breath",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "spaṣṭaṃ",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratiṣṭhitaḥ",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the eastern triad related to the time-path in breath?",
+   "premises": [
+    "The eastern triad belongs to the sixfold path.",
+    "The same is called the time-path.",
+    "It is established clearly in breath."
+   ],
+   "inference": "The time-path is the eastern triad established in breath.",
+   "uncertainties": [
+    "Exact compound boundaries remain uncertain."
+   ],
+   "plain_english": "The eastern triad of the sixfold path is again this same time-path, clearly established in breath."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "tattavamadhyasthitātkālādanyo@yaṃ",
+     "gloss": "other-than-time-in-middle",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālo",
+     "gloss": "time",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viśvābhāsanakāriṇī",
+     "gloss": "world-manifesting",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is this time called the world-manifesting power of god?",
+   "premises": [
+    "This time is other than time in the middle.",
+    "It is called time.",
+    "It is the world-manifesting power of god."
+   ],
+   "inference": "This time is god's world-manifesting power.",
+   "uncertainties": [
+    "The sandhi form is difficult."
+   ],
+   "plain_english": "This time, other than time in the middle, is called time; indeed it is the world-manifesting power of god."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "kriyāśaktiḥ",
+     "gloss": "power-of-action",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "samastānāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tattvānāṃ",
+     "gloss": "of-principles",
+     "grounds": "genitive",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etadīśvaratattvaṃ",
+     "gloss": "this-lord-principle",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tacchivasya",
+     "gloss": "that-of-shiva",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vapurucyate",
+     "gloss": "body-is-called",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the power of action related to Shiva's body?",
+   "premises": [
+    "Power of action is supreme body of all principles.",
+    "This is the lord principle.",
+    "That is called Shiva's body."
+   ],
+   "inference": "The lord principle is Shiva's body.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "The power of action is the supreme body of all principles; this lord principle is called Shiva's body."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "udriktābhogakāryātmaviśvaikātmyamidaṃ",
+     "gloss": "world-unity-of-experience",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etadīśvararūpatvaṃ",
+     "gloss": "this-lord-formness",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paramātmani",
+     "gloss": "in-supreme-self",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yatkila",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is this world-unity said to be in the supreme self?",
+   "premises": [
+    "This is world-unity of experience.",
+    "Because this is lord-formness.",
+    "It is indeed in the supreme self."
+   ],
+   "inference": "World-unity is lord-formness in the supreme self.",
+   "uncertainties": [
+    "Long compound is hard to segment."
+   ],
+   "plain_english": "This world-unity of experience is because this lord-formness is indeed in the supreme self."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "tatpramātari",
+     "gloss": "in-that-knower",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māyīye",
+     "gloss": "in-maya",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kālatattvaṃ",
+     "gloss": "time-principle",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root"
+    },
+    {
+     "surface": "śivādiśuddhavidyāntaṃ",
+     "gloss": "from-shiva-to-pure-knowledge",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yacchivasya",
+     "gloss": "which-of-shiva",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svakaṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where is the time-principle declared in relation to Shiva's body?",
+   "premises": [
+    "In that knower in maya.",
+    "Time-principle is declared.",
+    "It is Shiva's own body from shiva to pure knowledge."
+   ],
+   "inference": "Time-principle is Shiva's body in the maya knower.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "In that knower in maya, the time-principle is declared; it is Shiva's own body from shiva to pure knowledge."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṃso",
+     "gloss": "of-person",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "māyādirāgāntaṃ",
+     "gloss": "from-maya-to-attachment",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kañcukībhavet",
+     "gloss": "becomes-sheath",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "anāśritaṃ",
+     "gloss": "unattached",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalāvidye",
+     "gloss": "arts-and-knowledge",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sada-shiva",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does that same become a sheath for the person?",
+   "premises": [
+    "That same becomes a sheath for the person.",
+    "From maya to attachment.",
+    "Because maya, arts, knowledge, sada-shiva."
+   ],
+   "inference": "The same becomes a sheath from maya to attachment.",
+   "uncertainties": [
+    "The exact causal chain is unclear."
+   ],
+   "plain_english": "That same becomes a sheath for the person from maya to attachment, because maya, arts, knowledge, and sada-shiva."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "īśvaraḥ",
+     "gloss": "lord",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālaniyatī",
+     "gloss": "time-and-restriction",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadvidyā",
+     "gloss": "pure-knowledge",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "rāga",
+     "gloss": "attachment",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root"
+    },
+    {
+     "surface": "anāśritaḥ",
+     "gloss": "unattached",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūnyamātā",
+     "gloss": "void-mother",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "buddhimātā",
+     "gloss": "intellect-mother",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sada-shiva",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are lord, time, restriction, knowledge, and attachment named?",
+   "premises": [
+    "Lord, time, restriction, pure knowledge, attachment are named.",
+    "Unattached is void-mother, intellect-mother, sada-shiva."
+   ],
+   "inference": "These principles are named with sada-shiva as unattached.",
+   "uncertainties": [
+    "List structure is ambiguous."
+   ],
+   "plain_english": "Lord, time, restriction, pure knowledge, and attachment are named; unattached are void-mother, intellect-mother, and sada-shiva."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "īśvaraḥ",
+     "gloss": "lord",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇamātā",
+     "gloss": "breath-mother",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dehapramātṛtā",
+     "gloss": "body-knower-ness",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "anāśrayo",
+     "gloss": "unattached",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnyatvaṃ",
+     "gloss": "voidness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānameva",
+     "gloss": "knowledge-indeed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhitā",
+     "gloss": "intellect-ness",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are lord, breath-mother, knowledge, and body-knower-ness related?",
+   "premises": [
+    "Lord, breath-mother, knowledge, body-knower-ness are listed.",
+    "Unattached indeed is voidness.",
+    "Knowledge indeed is intellect-ness."
+   ],
+   "inference": "The listed principles relate to voidness and intellect.",
+   "uncertainties": [
+    "Syntax is compressed."
+   ],
+   "plain_english": "Lord, breath-mother, knowledge, and body-knower-ness; unattached indeed is voidness, and knowledge indeed is intellect-ness."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "viśvātmatā",
+     "gloss": "world-self-ness",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇatvaṃ",
+     "gloss": "breath-ness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vedyaikatānatā",
+     "gloss": "known-unity",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prāṇapathe",
+     "gloss": "in-breath-path",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśvākalaneyaṃ",
+     "gloss": "world-measurement",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "virājate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    }
+   ],
+   "question": "How does world-self-ness shine in the breath-path?",
+   "premises": [
+    "World-self-ness and breath-ness are in body.",
+    "Known-unity is by that.",
+    "World-measurement shines in breath-path."
+   ],
+   "inference": "World-self-ness shines as world-measurement in breath-path.",
+   "uncertainties": [
+    "Compound meanings are approximate."
+   ],
+   "plain_english": "World-self-ness and breath-ness are in the body; known-unity is by that, and world-measurement shines in the breath-path."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rūpeṇa",
+     "gloss": "form",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tadvacmaḥ",
+     "gloss": "we-say-that",
+     "grounds": "verb",
+     "morph": "1.pl.act-pres+root"
+    },
+    {
+     "surface": "sadbhistadavadhīyatām",
+     "gloss": "let-good-ones-consider",
+     "grounds": "verb",
+     "morph": "3.sg.pass-imp+root"
+    },
+    {
+     "surface": "dvādaśāntāvadhāvasmindehe",
+     "gloss": "in-this-body-twelve-end",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form do we describe for consideration in this body?",
+   "premises": [
+    "By which form we say that.",
+    "Let good ones consider it.",
+    "In this body twelve-end although everywhere."
+   ],
+   "inference": "The described form is to be considered in this body.",
+   "uncertainties": [
+    "The twelve-end phrase is unclear."
+   ],
+   "plain_english": "By which form we say that, let good ones consider it in this body, although everywhere."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "otaprotātmakaḥ",
+     "gloss": "woven-together",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāṇastathāpītthaṃ",
+     "gloss": "breath-thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "susphuṭaḥ",
+     "gloss": "very-clear",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatno",
+     "gloss": "effort",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvanamātrātmā",
+     "gloss": "life-only-self",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatparaśca",
+     "gloss": "and-beyond-that",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is breath not very clear though woven together?",
+   "premises": [
+    "Breath is woven together.",
+    "Thus it is not very clear.",
+    "Effort, life-only-self, and beyond that are twofold."
+   ],
+   "inference": "Breath is not very clear despite being woven together.",
+   "uncertainties": [
+    "The twofold classification is unclear."
+   ],
+   "plain_english": "Breath, though woven together, is not very clear; effort, life-only-self, and beyond that are considered twofold."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "saṃvedyaścāpyasaṃvedyo",
+     "gloss": "knowable-and-unknowable",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvidhetthaṃ",
+     "gloss": "twofold-thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "is-divided",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭāsphuṭatvāddvaividhyaṃ",
+     "gloss": "clear-unclear-duality",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paribhāvayet",
+     "gloss": "should-contemplate",
+     "grounds": "verb",
+     "morph": "3.sg.opt-pres+root"
+    }
+   ],
+   "question": "How is the knowable and unknowable divided twofold?",
+   "premises": [
+    "Knowable and unknowable are divided twofold.",
+    "Again by clear and unclear duality.",
+    "Each should be contemplated."
+   ],
+   "inference": "The knowable and unknowable divide twofold by clarity.",
+   "uncertainties": [
+    "The exact contemplation instruction is unclear."
+   ],
+   "plain_english": "Knowable and unknowable are divided twofold; again by clear and unclear duality, each should be contemplated."
+  }
+ ]
+}
