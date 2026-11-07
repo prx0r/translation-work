@@ -1,0 +1,15 @@
+{
+ "song": "tal-a06",
+ "verse": 132,
+ "question": "How is the month-count obtained from three hundred sixty human years?",
+ "premises": [
+  "Three hundred sixty years stand here as human",
+  "That divided by twelve yields the count",
+  "The month-number is thereby obtained here"
+ ],
+ "inference": "Dividing 360 human years by twelve yields the month-number.",
+ "uncertainties": [
+  "360 years dividing to months of a scaled cycle"
+ ],
+ "plain_english": "Three hundred sixty years here are human; that, divided by twelve, yields the month-number here."
+}
