@@ -1,0 +1,779 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "śaktistadvaducitāṃ",
+     "gloss": "power-similarly-appropriate",
+     "grounds": "verse 121 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "sṛṣṭiṃ",
+     "gloss": "creation",
+     "grounds": "verse 121 token 2",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "puṣṇāti",
+     "gloss": "nourishes",
+     "grounds": "verse 121 token 3",
+     "morph": "3.sg.act-pres+puṣ"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "verse 121 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvān",
+     "gloss": "possessing-that",
+     "grounds": "verse 121 token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śāntoditātmakobhayarūpaparāmarśasāmyayoge@pi",
+     "gloss": "in-equality-of-both-quiet-and-manifest-forms",
+     "grounds": "verse 121 token 6",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "How does power nourish creation appropriately?",
+   "premises": [
+    "power nourishes creation",
+    "not merely possessing that",
+    "equality of both forms matters"
+   ],
+   "inference": "appropriate creation requires balanced quiet and manifest forms",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Power nourishes creation appropriately only when both quiet and manifest forms are balanced."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "pravikasvaramadhyapadā",
+     "gloss": "middle-syllable-blossoming",
+     "grounds": "verse 122 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "verse 122 token 2",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "in-scripture",
+     "grounds": "verse 122 token 3",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "verse 122 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "verse 122 token 5",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tasyāmeva",
+     "gloss": "in-that-very",
+     "grounds": "verse 122 token 6",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "kulārthaṃ",
+     "gloss": "for-kula-purpose",
+     "grounds": "verse 122 token 7",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "verse 122 token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃcārayedgurustena",
+     "gloss": "teacher-should-activate-by-that",
+     "grounds": "verse 122 token 9",
+     "morph": "3.sg.opt.act+saṃcar"
+    }
+   ],
+   "question": "How should the teacher activate kula purpose?",
+   "premises": [
+    "power is declared in scripture",
+    "activation occurs in that power",
+    "teacher activates properly"
+   ],
+   "inference": "the teacher activates kula purpose through the declared power",
+   "uncertainties": [
+    "token segmentation approximate"
+   ],
+   "plain_english": "The teacher should properly activate kula purpose through that declared power."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "taddvāreṇa",
+     "gloss": "through-that-gateway",
+     "grounds": "verse 123 token 1",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 123 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitakrameṇa",
+     "gloss": "by-declared-order",
+     "grounds": "verse 123 token 3",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "saṃcārayeta",
+     "gloss": "should-activate",
+     "grounds": "verse 123 token 4",
+     "morph": "3.sg.opt.act+saṃcar"
+    },
+    {
+     "surface": "nṛṣu",
+     "gloss": "among-people",
+     "grounds": "verse 123 token 5",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "svaśarīrādhikasadbhāvabhāvitāmiti",
+     "gloss": "as-existing-beyond-own-body",
+     "grounds": "verse 123 token 6",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "verse 123 token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāha",
+     "gloss": "said",
+     "grounds": "verse 123 token 8",
+     "morph": "3.sg.act-aor+prā"
+    }
+   ],
+   "question": "How should activation proceed among people?",
+   "premises": [
+    "activation proceeds through gateway",
+    "declared order is followed",
+    "people are included"
+   ],
+   "inference": "activation should follow declared order through the gateway",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Through that gateway and declared order, one should activate among people."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "śrīmatkallaṭanāthaḥ",
+     "gloss": "glorious-kallata-lord",
+     "grounds": "verse 124 token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "proktasamastārthalabdhaye",
+     "gloss": "for-gaining-all-stated-meanings",
+     "grounds": "verse 124 token 2",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "vākyam",
+     "gloss": "statement",
+     "grounds": "verse 124 token 3",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tanmukhyacakramuktaṃ",
+     "gloss": "principal-wheel-spoken",
+     "grounds": "verse 124 token 4",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "maheśinā",
+     "gloss": "by-great-lord",
+     "grounds": "verse 124 token 5",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "yoginīvaktram",
+     "gloss": "yogini-face",
+     "grounds": "verse 124 token 6",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Why is the statement spoken by the great lord?",
+   "premises": [
+    "statement gains stated meanings",
+    "principal wheel is spoken",
+    "great lord speaks"
+   ],
+   "inference": "the statement reveals the principal wheel",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The glorious lord speaks the statement to gain all stated meanings of the principal wheel."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "tatraiṣa",
+     "gloss": "there-this",
+     "grounds": "verse 125 token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sampradāyastasmātsaṃprāpyate",
+     "gloss": "tradition-is-obtained-from-that",
+     "grounds": "verse 125 token 2",
+     "morph": "3.sg.pass-pres+samprāp"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "verse 125 token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tadidamalekhyaṃ",
+     "gloss": "that-unwritten",
+     "grounds": "verse 125 token 4",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhaṇitaṃ",
+     "gloss": "spoken",
+     "grounds": "verse 125 token 5",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vaktrādvaktrasthamuktayuktyā",
+     "gloss": "by-method-from-face-to-face",
+     "grounds": "verse 125 token 6",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 125 token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is unwritten knowledge obtained?",
+   "premises": [
+    "tradition is obtained from that",
+    "knowledge is spoken",
+    "method is face to face"
+   ],
+   "inference": "unwritten knowledge comes through face-to-face tradition",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "There this tradition is obtained, and unwritten knowledge is spoken face to face."
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "vaktraṃ",
+     "gloss": "face",
+     "grounds": "verse 126 token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pradhānacakraṃ",
+     "gloss": "principal-wheel",
+     "grounds": "verse 126 token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "svā",
+     "gloss": "own",
+     "grounds": "verse 126 token 3",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃvillikhyatāṃ",
+     "gloss": "should-be-drawn",
+     "grounds": "verse 126 token 4",
+     "morph": "3.sg.opt.pass+saṃvilikh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 126 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "verse 126 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "verse 126 token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sṛṣṭe",
+     "gloss": "in-creation",
+     "grounds": "verse 126 token 8",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "dvitaye@smin",
+     "gloss": "in-this-duality",
+     "grounds": "verse 126 token 9",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śāntoditadhāmni",
+     "gloss": "in-quiet-and-manifest-abode",
+     "grounds": "verse 126 token 10",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ye@nusaṃdadhate",
+     "gloss": "those-who-join",
+     "grounds": "verse 126 token 11",
+     "morph": "3.pl.act-pres+anusandhā"
+    }
+   ],
+   "question": "How should the principal wheel be drawn?",
+   "premises": [
+    "face is principal wheel",
+    "it should be drawn",
+    "duality is joined"
+   ],
+   "inference": "the principal wheel is drawn by joining quiet and manifest abodes",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The face is the principal wheel; it should be drawn by joining the quiet and manifest abodes."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "prācyāṃ",
+     "gloss": "in-east",
+     "grounds": "verse 127 token 1",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "visargasattāmanavacchidi",
+     "gloss": "uninterrupted-emission-existence",
+     "grounds": "verse 127 token 2",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "verse 127 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "pade",
+     "gloss": "in-place",
+     "grounds": "verse 127 token 4",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "rūḍhāḥ",
+     "gloss": "established",
+     "grounds": "verse 127 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "verse 127 token 6",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "siddhimāptukāmāste@bhyuditaṃ",
+     "gloss": "desiring-siddhi-they-should-take-manifest-form",
+     "grounds": "verse 127 token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpamāhareyuratho",
+     "gloss": "should-bring-form-then",
+     "grounds": "verse 127 token 8",
+     "morph": "3.pl.opt.act+āhar"
+    }
+   ],
+   "question": "What should those desiring siddhi do?",
+   "premises": [
+    "they are established in place",
+    "they desire siddhi",
+    "manifest form is taken"
+   ],
+   "inference": "those desiring siddhi should take the manifest form",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Those established in place and desiring siddhi should take the manifest form."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-very",
+     "grounds": "verse 128 token 1",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "pūjayeyuḥ",
+     "gloss": "should-worship",
+     "grounds": "verse 128 token 2",
+     "morph": "3.pl.opt.act+pūj"
+    },
+    {
+     "surface": "saṃvinnaikaṭyaśuddhatamavapuṣā",
+     "gloss": "with-purest-body-of-consciousness-nearness",
+     "grounds": "verse 128 token 3",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tadapica",
+     "gloss": "and-that-too",
+     "grounds": "verse 128 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mitho",
+     "gloss": "mutually",
+     "grounds": "verse 128 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "verse 128 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktrātpradhānato",
+     "gloss": "from-face-principal",
+     "grounds": "verse 128 token 7",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "vaktragaṃ",
+     "gloss": "face-going",
+     "grounds": "verse 128 token 8",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "verse 128 token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaṇitam",
+     "gloss": "spoken",
+     "grounds": "verse 128 token 10",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How should worship be performed?",
+   "premises": [
+    "worship is by that very",
+    "purest body is used",
+    "face and principal are connected"
+   ],
+   "inference": "worship should use the purest body and connect face with principal",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "By that very means they should worship with the purest body of consciousness."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "ajarāmarapadadānapravaṇaṃ",
+     "gloss": "inclined-to-give-deathless-state",
+     "grounds": "verse 129 token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kulasaṃjñitaṃ",
+     "gloss": "called-kula",
+     "grounds": "verse 129 token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "paramam",
+     "gloss": "supreme",
+     "grounds": "verse 129 token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ye@pyaprāptavibodhāste@bhyuditotphullayāgasaṃrūḍhāḥ",
+     "gloss": "those-unawakened-also-blossoming-rite-established",
+     "grounds": "verse 129 token 4",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Who receives the deathless state?",
+   "premises": [
+    "kula is supreme",
+    "it gives deathless state",
+    "unawakened also established"
+   ],
+   "inference": "even the unawakened become established through kula",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The supreme kula, inclined to give the deathless state, establishes even the unawakened."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "tatparikalpitacakrasthadevatāḥ",
+     "gloss": "deities-in-that-devised-wheel",
+     "grounds": "verse 130 token 1",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "prāpnuvanti",
+     "gloss": "attain",
+     "grounds": "verse 130 token 2",
+     "morph": "3.pl.act-pres+prāp"
+    },
+    {
+     "surface": "vijñānam",
+     "gloss": "knowledge",
+     "grounds": "verse 130 token 3",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "verse 130 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse 130 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakticakre",
+     "gloss": "in-power-wheel",
+     "grounds": "verse 130 token 6",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tenaivānandarasamayena",
+     "gloss": "by-that-bliss-essence",
+     "grounds": "verse 130 token 7",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "verse 130 token 8",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What do the deities attain?",
+   "premises": [
+    "deities are in devised wheel",
+    "they attain knowledge",
+    "power wheel is there"
+   ],
+   "inference": "deities attain knowledge through the power wheel",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The deities in that devised wheel attain knowledge in the power wheel."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "verse 131 token 1",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "catasṛṣu",
+     "gloss": "in-four",
+     "grounds": "verse 131 token 2",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "proktakrameṇa",
+     "gloss": "by-declared-order",
+     "grounds": "verse 131 token 3",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "gaṇanāthataḥ",
+     "gloss": "from-gana-lord",
+     "grounds": "verse 131 token 4",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "beginning",
+     "grounds": "verse 131 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "verse 131 token 6",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "verse 131 token 7",
+     "morph": "abs+sam+pūj"
+    },
+    {
+     "surface": "madhyamapade",
+     "gloss": "in-middle-place",
+     "grounds": "verse 131 token 8",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kuleśayugmaṃ",
+     "gloss": "pair-of-kula-lords",
+     "grounds": "verse 131 token 9",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tvarātraye",
+     "gloss": "in-three-speeds",
+     "grounds": "verse 131 token 10",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "devīḥ",
+     "gloss": "goddesses",
+     "grounds": "verse 131 token 11",
+     "morph": "acc.pl.f"
+    }
+   ],
+   "question": "How should worship proceed in directions?",
+   "premises": [
+    "four directions are worshipped",
+    "declared order is followed",
+    "goddesses are included"
+   ],
+   "inference": "worship proceeds by declared order from gana lord through all directions",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In four directions, by declared order, one worships all from the gana lord onward."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "verse 132 token 1",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pratyaramatha",
+     "gloss": "then-spoke",
+     "grounds": "verse 132 token 2",
+     "morph": "3.sg.act-aor+prati+vac"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "verse 132 token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣkamiti",
+     "gloss": "fourfold-thus",
+     "grounds": "verse 132 token 4",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "raśmicakramarkāram",
+     "gloss": "ray-wheel-arka-form",
+     "grounds": "verse 132 token 5",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "aṣṭakamaṣṭāṣṭakamatha",
+     "gloss": "eightfold-eightfold-then",
+     "grounds": "verse 132 token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vividhaṃ",
+     "gloss": "various",
+     "grounds": "verse 132 token 7",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "saṃpūjayetkrameṇa",
+     "gloss": "should-worship-in-order",
+     "grounds": "verse 132 token 8",
+     "morph": "3.sg.opt.act+sam+pūj"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "verse 132 token 9",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How should the sage worship outside?",
+   "premises": [
+    "outside is spoken",
+    "fourfold and eightfold are named",
+    "sage worships in order"
+   ],
+   "inference": "the sage should worship the various forms in order",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Outside, the sage should worship the fourfold and eightfold forms in order."
+  }
+ ]
+}

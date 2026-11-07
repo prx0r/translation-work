@@ -1,0 +1,743 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "nijadehagate",
+     "gloss": "own-body-gone",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhāmani",
+     "gloss": "in-abode",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjyaṃ",
+     "gloss": "worshipful",
+     "grounds": "accusative",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "samabhyasyet",
+     "gloss": "should-practice",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root"
+    },
+    {
+     "surface": "yattacchāntaṃ",
+     "gloss": "that-peaceful",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tenābhyastena",
+     "gloss": "by-that-practiced",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "hṛdayasaṃvittyā",
+     "gloss": "by-heart-awareness",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How should the peaceful form be practiced in one's own bodily abode?",
+   "premises": [
+    "The peaceful form is worshipful.",
+    "It should be practiced in the bodily abode."
+   ],
+   "inference": "Practice of the peaceful form in the bodily abode leads to heart-awareness.",
+   "uncertainties": [
+    "Compound boundaries approximate."
+   ],
+   "plain_english": "In one's own bodily abode, likewise, the worshipful peaceful form should be practiced; by that practiced form, through heart-awareness."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "accusative",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "śivapadameti",
+     "gloss": "reaches-Shiva-state",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galitataraṅgārṇavaprakhyam",
+     "gloss": "like-ocean-without-waves",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tacchāntapadādhyāsāccakrastho",
+     "gloss": "seated-in-peaceful-state-wheel",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devatāgaṇaḥ",
+     "gloss": "group-of-deities",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvaḥ",
+     "gloss": "all",
+     "grounds": "nominative",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What happens when the peaceful Shiva state is reached?",
+   "premises": [
+    "The peaceful state is like a waveless ocean.",
+    "All deities seated in the wheel reach it."
+   ],
+   "inference": "Reaching the peaceful Shiva state brings all wheel-deities to that waveless condition.",
+   "uncertainties": [
+    "Long compound segmentation approximate."
+   ],
+   "plain_english": "Indeed, one reaches the peaceful Shiva state, like an ocean without waves; all the deities seated in the wheel, through dwelling in that peaceful state."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "tiṣṭhatyuparatavṛttiḥ",
+     "gloss": "stands-with-ceased-activity",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śūnyālambī",
+     "gloss": "resting-on-void",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirānandaḥ",
+     "gloss": "without-bliss",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yo@pyanucakradṛgādisvarūpabhāk",
+     "gloss": "even-one-having-form-of-inner-wheel-vision",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "so@pi",
+     "gloss": "he-too",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "yattadāyattaḥ",
+     "gloss": "dependent-on-that",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the condition of one resting on void without bliss?",
+   "premises": [
+    "He stands with ceased activity.",
+    "Even one having inner-wheel form depends on that."
+   ],
+   "inference": "A void-resting, blissless state remains dependent on the higher peaceful state.",
+   "uncertainties": [
+    "Sandhi forms yo@pi and so@pi."
+   ],
+   "plain_english": "He stands with ceased activity, resting on void, without bliss; even one who has the form of inner-wheel vision is dependent on that."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "tenānande",
+     "gloss": "in-that-bliss",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "magnastiṣṭhatyānandasākāṅkṣaḥ",
+     "gloss": "stands-immersed-desiring-bliss",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paratatsvarūpasaṅghaṭṭamantareṇaiṣa",
+     "gloss": "without-contact-with-supreme-form",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "karaṇaraśmigaṇaḥ",
+     "gloss": "group-of-sense-rays",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What happens to the sense-rays without contact with the supreme form?",
+   "premises": [
+    "They stand immersed in that bliss, desiring bliss.",
+    "They lack contact with supreme form."
+   ],
+   "inference": "The sense-rays remain immersed yet desiring, lacking supreme contact.",
+   "uncertainties": [
+    "Long compound segmentation approximate."
+   ],
+   "plain_english": "In that bliss stands immersed, desiring bliss, this group of sense-rays, without contact with the supreme form."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "āste",
+     "gloss": "sits",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niḥsvarūpaḥ",
+     "gloss": "without-own-form",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svarūpalābhāya",
+     "gloss": "for-gaining-own-form",
+     "grounds": "dative",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "conmukhitaḥ",
+     "gloss": "turned-toward",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "raṇaraṇakarasānnijarasabharitabahirbhāvacarvaṇavaśena",
+     "gloss": "by-chewing-outer-state-filled-with-own-juice",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why does the formless one sit turned toward gaining form?",
+   "premises": [
+    "He is without own form.",
+    "He is turned toward gaining own form."
+   ],
+   "inference": "The formless sits turned toward gaining form through chewing the outer state filled with own juice.",
+   "uncertainties": [
+    "Very long compound segmentation approximate."
+   ],
+   "plain_english": "Indeed he sits without own form, turned toward gaining own form, by chewing the outer state filled with own juice."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "viśrāntidhāma",
+     "gloss": "resting-abode",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kiñcillabdhvā",
+     "gloss": "having-gained-a-little",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "svātmanyathārpayate",
+     "gloss": "offers-into-self",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "tannijaviṣayārpaṇataḥ",
+     "gloss": "by-offering-own-objects",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrṇasamucchalitasaṃvidāsāraḥ",
+     "gloss": "shower-of-full-consciousness",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What happens after gaining a little resting abode?",
+   "premises": [
+    "Having gained a little resting abode, one offers into self.",
+    "By offering own objects, full consciousness showers."
+   ],
+   "inference": "A little rest leads to self-offering and a shower of full consciousness.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "Having gained a little resting abode, one offers into self; by offering own objects, a shower of full consciousness arises."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "anucakradevatāgaṇaparipūraṇajātavīryavikṣobhaḥ",
+     "gloss": "stirred-power-from-filling-inner-wheel-deities",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "cakreśvaro@pi",
+     "gloss": "wheel-lord-too",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvoktayuktitaḥ",
+     "gloss": "by-previously-stated-reasoning",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "procchaledrabhasāt",
+     "gloss": "surges-with-impetuosity",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the wheel-lord surge?",
+   "premises": [
+    "Power stirs from filling inner-wheel deities.",
+    "The wheel-lord surges by previously stated reasoning."
+   ],
+   "inference": "The wheel-lord surges impetuously due to stirred power from filling inner deities.",
+   "uncertainties": [
+    "Sandhi cakreśvaro@pi."
+   ],
+   "plain_english": "The wheel-lord too surges with impetuosity, by previously stated reasoning, from power stirred by filling the inner-wheel deities."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "trividho",
+     "gloss": "threefold",
+     "grounds": "nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "visarga",
+     "gloss": "emission",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅghaṭṭaḥ",
+     "gloss": "contact",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proditastathā",
+     "gloss": "produced-thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śāntaḥ",
+     "gloss": "peaceful",
+     "grounds": "nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "visṛjati",
+     "gloss": "emits",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "yato",
+     "gloss": "from-which",
+     "grounds": "relative",
+     "morph": "rel.nom.sg"
+    },
+    {
+     "surface": "vicitraḥ",
+     "gloss": "various",
+     "grounds": "nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "sargo",
+     "gloss": "creation",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vigataśca",
+     "gloss": "and-departed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative",
+     "morph": "rel.loc.sg"
+    },
+    {
+     "surface": "sarga",
+     "gloss": "creation",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the threefold emission, contact, and peaceful emission?",
+   "premises": [
+    "Emission is threefold.",
+    "Contact is produced thus, and peaceful emission emits."
+   ],
+   "inference": "From which various creation arises, and where creation departs, is thus described.",
+   "uncertainties": [
+    "Verse syntax compressed."
+   ],
+   "plain_english": "Thus threefold emission; contact is produced thus; the peaceful emits, from which various creation arises, and where creation departs."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "śrītattvarakṣaṇe",
+     "gloss": "in-protecting-principle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śrīnigame",
+     "gloss": "in-sacred-scripture",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "triśiromate",
+     "gloss": "in-three-headed-doctrine",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatproktam",
+     "gloss": "that-stated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "basin",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "Shiva",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "melakaṃ",
+     "gloss": "union",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "nominative",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is stated in the sacred scripture and three-headed doctrine?",
+   "premises": [
+    "In protecting principle, sacred scripture, and three-headed doctrine, that is stated.",
+    "Basin, power, Shiva, linga, union, supreme state."
+   ],
+   "inference": "The stated teaching identifies basin, power, Shiva, linga, union, and supreme state.",
+   "uncertainties": [
+    "List interpretation approximate."
+   ],
+   "plain_english": "In protecting principle, sacred scripture, and three-headed doctrine, that is stated: basin, power, Shiva, linga, union, supreme state."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "instrumental",
+     "morph": "num.inst.du"
+    },
+    {
+     "surface": "sṛṣṭiḥ",
+     "gloss": "creation",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃhṛtistadvisargastrividho",
+     "gloss": "withdrawal-and-emission-threefold",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "game",
+     "gloss": "in-scripture",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "srotodvayasya",
+     "gloss": "of-two-streams",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "niṣṭhāntamūrdhvādhaścakrabodhanam",
+     "gloss": "awakening-upper-and-lower-wheels-to-end",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are creation, withdrawal, and emission described?",
+   "premises": [
+    "By two, creation and withdrawal and threefold emission.",
+    "Two streams awaken upper and lower wheels to end."
+   ],
+   "inference": "The scripture describes creation, withdrawal, and threefold emission through two streams awakening wheels.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "By two, creation, withdrawal, and threefold emission; in scripture, two streams awaken upper and lower wheels to the end."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "viśrāmaṃ",
+     "gloss": "rest",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāveśaṃ",
+     "gloss": "absorption",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "suṣīṇāṃ",
+     "gloss": "of-breaths",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "marutāṃ",
+     "gloss": "of-winds",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatabhedaṃ",
+     "gloss": "loss-of-difference",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantrāṇāṃ",
+     "gloss": "of-mechanisms",
+     "grounds": "genitive",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sandhīnāṃ",
+     "gloss": "of-joints",
+     "grounds": "genitive",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "marmaṇāmapi",
+     "gloss": "even-of-vital-points",
+     "grounds": "genitive",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "What rest, absorption, and loss of difference are mentioned?",
+   "premises": [
+    "Rest and absorption of breaths and winds.",
+    "Loss of difference of mechanisms, joints, and vital points."
+   ],
+   "inference": "The verse lists rest, absorption, and loss of difference across breaths, winds, mechanisms, joints, and vital points.",
+   "uncertainties": [
+    "List interpretation approximate."
+   ],
+   "plain_english": "Rest and absorption of breaths and winds, likewise loss of difference of mechanisms, joints, and even vital points."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "dvāsaptatipade",
+     "gloss": "in-seventy-two-place",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sahasrāre",
+     "gloss": "in-thousand-petaled",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaśaḥ",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatyāgatyantarā",
+     "gloss": "between-going-and-coming",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vittī",
+     "gloss": "awareness",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṅghaṭṭayati",
+     "gloss": "contacts",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "yacchivaḥ",
+     "gloss": "which-is-Shiva",
+     "grounds": "relative",
+     "morph": "rel.nom.sg"
+    }
+   ],
+   "question": "What does awareness contact in the body?",
+   "premises": [
+    "In seventy-two place, body, and thousand-petaled.",
+    "Awareness contacts between going and coming, which is Shiva."
+   ],
+   "inference": "Awareness always contacts the between of going and coming, which is Shiva, in body and centers.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "In the seventy-two place, body, and thousand-petaled, always, awareness contacts between going and coming, which is Shiva."
+  }
+ ]
+}

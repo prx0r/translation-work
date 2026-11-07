@@ -1,0 +1,797 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "yadbhairavāṣṭakapadaṃ",
+     "gloss": "that-bhairava-eightfold-word",
+     "grounds": "verse token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "tallabhate@ṣṭakakalābhinnam",
+     "gloss": "obtains-that-eightfold-art-distinct",
+     "grounds": "verse token 2",
+     "morph": "verb.3.sg.act-pres+root"
+    },
+    {
+     "surface": "gamanāgamane@vasitau",
+     "gloss": "going-coming-powers",
+     "grounds": "verse token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "in-ear",
+     "grounds": "verse token 4",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nayane",
+     "gloss": "in-eye",
+     "grounds": "verse token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dviliṅgasaṃparke",
+     "gloss": "in-two-gender-contact",
+     "grounds": "verse token 6",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How does the eightfold Bhairava word arise in ear and eye?",
+   "premises": [
+    "eightfold word is obtained",
+    "going and coming powers operate",
+    "contact of two genders occurs"
+   ],
+   "inference": "The eightfold Bhairava word is realized through sensory and gendered contact.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "The eightfold Bhairava word is obtained where going and coming powers meet in ear, eye, and contact of two genders."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "tatsaṃmelanayoge",
+     "gloss": "in-that-union-yoga",
+     "grounds": "verse token 1",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dehāntākhye",
+     "gloss": "called-body-end",
+     "grounds": "verse token 2",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmale",
+     "gloss": "in-pair",
+     "grounds": "verse token 4",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "in-wheel",
+     "grounds": "verse token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kucamadhyahṛdayadeśādoṣṭhāntaṃ",
+     "gloss": "from-breast-middle-heart-region-to-lip-end",
+     "grounds": "verse token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaṇṭhagaṃ",
+     "gloss": "throat-going",
+     "grounds": "verse token 7",
+     "morph": "adj"
+    },
+    {
+     "surface": "yadavyaktam",
+     "gloss": "that-unmanifest",
+     "grounds": "verse token 8",
+     "morph": "adj"
+    }
+   ],
+   "question": "Where does the unmanifest throat-going sound occur in the body wheel?",
+   "premises": [
+    "union yoga is named body-end",
+    "pair and wheel are involved",
+    "sound runs from breast to lip"
+   ],
+   "inference": "The unmanifest sound moves through the bodily wheel from heart region to lip.",
+   "uncertainties": [
+    "long compound segmentation is approximate"
+   ],
+   "plain_english": "In the union yoga called body-end, the pair-wheel carries an unmanifest sound from breast and heart region to the lip end."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "taccakradvayamadhyagamākarṇya",
+     "gloss": "having-heard-middle-of-two-wheels",
+     "grounds": "verse token 1",
+     "morph": "gerund"
+    },
+    {
+     "surface": "kṣobhavigamasamaye",
+     "gloss": "at-time-of-agitation-departure",
+     "grounds": "verse token 2",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "that",
+     "grounds": "verse token 3",
+     "morph": "pron"
+    },
+    {
+     "surface": "nirvānti",
+     "gloss": "they-extinguish",
+     "grounds": "verse token 4",
+     "morph": "verb.3.pl.act-pres"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caivaṃ",
+     "gloss": "and-thus",
+     "grounds": "verse token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo@ṣṭavidho",
+     "gloss": "eightfold",
+     "grounds": "verse token 7",
+     "morph": "adj"
+    },
+    {
+     "surface": "nādabhairavaḥ",
+     "gloss": "sound-bhairava",
+     "grounds": "verse token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramaḥ",
+     "gloss": "supreme",
+     "grounds": "verse token 9",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens when the middle of two wheels is heard at agitation's departure?",
+   "premises": [
+    "hearing occurs between two wheels",
+    "agitation departure is the moment",
+    "eightfold sound-bhairava is supreme"
+   ],
+   "inference": "Hearing between the two wheels at agitation's departure reveals the supreme eightfold sound-Bhairava.",
+   "uncertainties": [
+    "gerund scope is approximate"
+   ],
+   "plain_english": "When one hears the middle of the two wheels as agitation departs, the supreme eightfold sound-Bhairava is realized there."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "jyotirdhvanisamirakṛtaḥ",
+     "gloss": "made-by-light-sound-breath",
+     "grounds": "verse token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māntrī",
+     "gloss": "mantric",
+     "grounds": "verse token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāptirucyate",
+     "gloss": "pervasion-is-called",
+     "grounds": "verse token 4",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "paramā",
+     "gloss": "supreme",
+     "grounds": "verse token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sakalākaleśaśūnyaṃ",
+     "gloss": "free-from-all-art-limitations",
+     "grounds": "verse token 6",
+     "morph": "adj"
+    },
+    {
+     "surface": "kalāḍhyakhamale",
+     "gloss": "in-art-rich-space-impurity",
+     "grounds": "verse token 7",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "verse token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣapaṇakaṃ",
+     "gloss": "ascetic",
+     "grounds": "verse token 9",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "verse token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the supreme mantric pervasion made by light, sound, and breath?",
+   "premises": [
+    "pervasion is made by light sound breath",
+    "it is called supreme mantric",
+    "it is free from art limitations"
+   ],
+   "inference": "The supreme mantric pervasion is produced by light, sound, and breath and transcends art limitations.",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "That pervasion made by light, sound, and breath is called the supreme mantric pervasion, free from all art limitations."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "antaḥsthaṃ",
+     "gloss": "internal",
+     "grounds": "verse token 1",
+     "morph": "adj"
+    },
+    {
+     "surface": "kaṇṭhyoṣṭhyaṃ",
+     "gloss": "throat-lip",
+     "grounds": "verse token 2",
+     "morph": "adj"
+    },
+    {
+     "surface": "candrādvyāptistathonmanānteyam",
+     "gloss": "moon-pervasion-and-unmana-end-this",
+     "grounds": "verse token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "verse token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-action",
+     "grounds": "verse token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-action",
+     "grounds": "verse token 6",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "verse token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "verse token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "verse token 9",
+     "morph": "participle"
+    },
+    {
+     "surface": "vyāptim",
+     "gloss": "pervasion",
+     "grounds": "verse token 10",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is pervasion remembered in every action?",
+   "premises": [
+    "internal throat-lip pervasion is described",
+    "moon pervasion reaches unmana end",
+    "remembering pervasion occurs in action"
+   ],
+   "inference": "Pervasion is to be remembered in every action, whether internal or moon-related.",
+   "uncertainties": [
+    "long compound segmentation is approximate"
+   ],
+   "plain_english": "Thus, in every action, one remembers pervasion, whether internal, throat-lip, or moon-related to unmana's end."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "satatamalepo",
+     "gloss": "always-impurity-free",
+     "grounds": "verse token 1",
+     "morph": "adj"
+    },
+    {
+     "surface": "jīvanmuktaḥ",
+     "gloss": "liberated-while-living",
+     "grounds": "verse token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parabhairavībhavati",
+     "gloss": "becomes-supreme-bhairavi",
+     "grounds": "verse token 3",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "tādṛṅmelakakalikākalitatanuḥ",
+     "gloss": "having-body-formed-by-such-union-bud",
+     "grounds": "verse token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "ko@pi",
+     "gloss": "someone",
+     "grounds": "verse token 5",
+     "morph": "pron"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "verse token 6",
+     "morph": "pron"
+    },
+    {
+     "surface": "bhavedgarbhe",
+     "gloss": "would-be-in-womb",
+     "grounds": "verse token 7",
+     "morph": "verb.3.sg.opt"
+    }
+   ],
+   "question": "Who becomes supreme Bhairavi while living and impurity-free?",
+   "premises": [
+    "one is always impurity-free",
+    "one is liberated while living",
+    "someone in womb has such union-body"
+   ],
+   "inference": "A person with such union-formed body becomes supreme Bhairavi while living and impurity-free.",
+   "uncertainties": [
+    "optative force is approximate"
+   ],
+   "plain_english": "Someone whose body is formed by such union becomes liberated while living, impurity-free, and supreme Bhairavi."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "uktaḥ",
+     "gloss": "said",
+     "grounds": "verse token 1",
+     "morph": "participle"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "verse token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yoginībhūḥ",
+     "gloss": "yogini-ground",
+     "grounds": "verse token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayameva",
+     "gloss": "by-itself",
+     "grounds": "verse token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānabhājanaṃ",
+     "gloss": "vessel-of-knowledge",
+     "grounds": "verse token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudra",
+     "grounds": "verse token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīvīrāvaliśāstre",
+     "gloss": "in-viravali-scripture",
+     "grounds": "verse token 7",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bālo@pi",
+     "gloss": "even-child",
+     "grounds": "verse token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhago",
+     "gloss": "womb-going",
+     "grounds": "verse token 10",
+     "morph": "adj"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "verse token 11",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivarūpaḥ",
+     "gloss": "shiva-form",
+     "grounds": "verse token 12",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is said about the yogini-ground and Rudra in the scripture?",
+   "premises": [
+    "that yogini-ground is said",
+    "it is itself vessel of knowledge",
+    "even a womb-going child is shiva-form"
+   ],
+   "inference": "The yogini-ground is identified with Rudra and knowledge, and even an unborn child is Shiva-form.",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "That yogini-ground is said to be Rudra, itself a vessel of knowledge; even a child in the womb is Shiva-form."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "ādīyate",
+     "gloss": "is-taken-first",
+     "grounds": "verse token 1",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "verse token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāraṃ",
+     "gloss": "essence",
+     "grounds": "verse token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "verse token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mukhyasya",
+     "gloss": "of-chief",
+     "grounds": "verse token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "caiṣa",
+     "gloss": "and-this",
+     "grounds": "verse token 6",
+     "morph": "pron"
+    },
+    {
+     "surface": "yat",
+     "gloss": "that",
+     "grounds": "verse token 7",
+     "morph": "pron"
+    },
+    {
+     "surface": "mukhyaśca",
+     "gloss": "and-chief",
+     "grounds": "verse token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāgastenāyamādiyāga",
+     "gloss": "sacrifice-therefore-this-first-sacrifice",
+     "grounds": "verse token 9",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "verse token 10",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "verse token 11",
+     "morph": "participle"
+    }
+   ],
+   "question": "Why is this called the first sacrifice?",
+   "premises": [
+    "essence is taken first",
+    "of the chief sacrifice",
+    "this is remembered as first sacrifice"
+   ],
+   "inference": "Because the essence of the chief sacrifice is taken first, this is remembered as the first sacrifice.",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "Because the essence of the chief sacrifice is taken first, this is remembered as the first sacrifice."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstre@sya",
+     "gloss": "in-scripture-of-this",
+     "grounds": "verse token 4",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-form",
+     "grounds": "verse token 5",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "stutavān",
+     "gloss": "praised",
+     "grounds": "verse token 6",
+     "morph": "participle"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "lord",
+     "grounds": "verse token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīvīrāvalihārdeśakhamatārṇavavartiṣu",
+     "gloss": "in-viravali-heart-space-mata-ocean-dwelling",
+     "grounds": "verse token 8",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where does the lord praise the own-form in scripture?",
+   "premises": [
+    "there and there in scripture",
+    "own-form is praised",
+    "lord dwells in viravali heart-space"
+   ],
+   "inference": "The lord praises the own-form in scripture where he dwells in the Viravali heart-space.",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "There, in this scripture, the lord praises his own form in the Viravali heart-space and ocean of teaching."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "śrīsiddhotphullamaryādāhīnacaryākulādiṣu",
+     "gloss": "in-siddha-blossomed-boundary-free-conduct-groups",
+     "grounds": "verse token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "yugmasyāsya",
+     "gloss": "of-this-pair",
+     "grounds": "verse token 2",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prasādena",
+     "gloss": "by-grace",
+     "grounds": "verse token 3",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vratayogavivarjitaḥ",
+     "gloss": "free-from-vow-yoga",
+     "grounds": "verse token 4",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to one free from vow-yoga by grace of this pair?",
+   "premises": [
+    "grace of this pair operates",
+    "one is free from vow-yoga",
+    "siddha conduct groups are mentioned"
+   ],
+   "inference": "By grace of this pair, one becomes free from vow-yoga among siddha conduct groups.",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "By grace of this pair, one becomes free from vow-yoga among siddha conduct groups."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "verse token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaraṇaṃ",
+     "gloss": "remembrance",
+     "grounds": "verse token 2",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "verse token 3",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ādiyāgaikatatparaḥ",
+     "gloss": "intent-on-first-sacrifice",
+     "grounds": "verse token 4",
+     "morph": "adj"
+    },
+    {
+     "surface": "śaktidehe",
+     "gloss": "in-shakti-body",
+     "grounds": "verse token 5",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nije",
+     "gloss": "own",
+     "grounds": "verse token 6",
+     "morph": "adj"
+    },
+    {
+     "surface": "nyasyedvidyāṃ",
+     "gloss": "should-place-knowledge",
+     "grounds": "verse token 7",
+     "morph": "verb.3.sg.opt"
+    },
+    {
+     "surface": "kūṭamanukramāt",
+     "gloss": "by-ordered-assembly",
+     "grounds": "verse token 8",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How should knowledge be placed in one's own Shakti body?",
+   "premises": [
+    "remembrance is done always",
+    "one is intent on first sacrifice",
+    "knowledge is placed in shakti body"
+   ],
+   "inference": "After constant remembrance and intent on first sacrifice, knowledge is placed in one's own Shakti body in ordered assembly.",
+   "uncertainties": [
+    "optative force is approximate"
+   ],
+   "plain_english": "Having always remembered and being intent on the first sacrifice, one should place knowledge in one's own Shakti body in ordered assembly."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "verse token 1",
+     "morph": "gerund"
+    },
+    {
+     "surface": "candranibhaṃ",
+     "gloss": "moon-like",
+     "grounds": "verse token 2",
+     "morph": "adj"
+    },
+    {
+     "surface": "padmamātmānaṃ",
+     "gloss": "lotus-self",
+     "grounds": "verse token 3",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāskaradyutim",
+     "gloss": "sun-radiance",
+     "grounds": "verse token 4",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidyāmantrātmakaṃ",
+     "gloss": "consisting-of-knowledge-mantra",
+     "grounds": "verse token 5",
+     "morph": "adj"
+    },
+    {
+     "surface": "pīṭhadvayamatraiva",
+     "gloss": "two-seats-here-only",
+     "grounds": "verse token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "melayet",
+     "gloss": "should-unite",
+     "grounds": "verse token 7",
+     "morph": "verb.3.sg.opt"
+    }
+   ],
+   "question": "What should be united after meditating on moon-like lotus self?",
+   "premises": [
+    "one meditates on moon-like lotus self",
+    "sun radiance and knowledge mantra are involved",
+    "two seats are united here"
+   ],
+   "inference": "After meditation on the moon-like lotus self, the two seats are united here with sun radiance and knowledge mantra.",
+   "uncertainties": [
+    "optative force is approximate"
+   ],
+   "plain_english": "Having meditated on the moon-like lotus self with sun radiance and knowledge mantra, one should unite the two seats here."
+  }
+ ]
+}

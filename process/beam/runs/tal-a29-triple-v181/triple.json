@@ -1,0 +1,761 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "saṃvinmātrasthitaṃ",
+     "gloss": "consciousness-alone-situated",
+     "grounds": "saṃvin-mātra-sthitaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devīcakraṃ",
+     "gloss": "goddess-circle",
+     "grounds": "devī-cakraṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvidarpaṇāt",
+     "gloss": "from-consciousness-mirror",
+     "grounds": "saṃvid-arpaṇāt",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "viśvābhogaprayogeṇa",
+     "gloss": "by-universal-enjoyment-application",
+     "grounds": "viśva-ābhoga-prayogeṇa",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tarpaṇīyaṃ",
+     "gloss": "to-be-satisfied",
+     "grounds": "tarpaṇīyaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vipaścitā",
+     "gloss": "by-wise-one",
+     "grounds": "vipaścitā",
+     "morph": "n.instr.sg"
+    }
+   ],
+   "question": "How should the wise satisfy the goddess-circle?",
+   "premises": [
+    "goddess-circle situated in consciousness alone",
+    "consciousness-mirror is its source",
+    "universal enjoyment is the means"
+   ],
+   "inference": "the wise should satisfy the goddess-circle through universal enjoyment",
+   "uncertainties": [
+    "compound segmentation of saṃvinmātrasthitaṃ"
+   ],
+   "plain_english": "The goddess-circle, situated in consciousness alone, is to be satisfied by the wise through universal enjoyment, from the mirror of consciousness."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "yatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "sarve",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "layaṃ",
+     "gloss": "dissolution",
+     "grounds": "layaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "they-go",
+     "grounds": "yānti",
+     "morph": "v.3.pl.act-pres + yā"
+    },
+    {
+     "surface": "dahyante",
+     "gloss": "they-burn",
+     "grounds": "dahyante",
+     "morph": "v.3.pl.pass-pres + dah"
+    },
+    {
+     "surface": "tattvasañcayāḥ",
+     "gloss": "element-collections",
+     "grounds": "tattva-sañcayāḥ",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "tāṃ",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "citiṃ",
+     "gloss": "consciousness",
+     "grounds": "citiṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paśya",
+     "gloss": "see",
+     "grounds": "paśya",
+     "morph": "v.2.sg.act-imp + paś"
+    },
+    {
+     "surface": "kāyasthāṃ",
+     "gloss": "body-residing",
+     "grounds": "kāya-sthāṃ",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "kālānalasamaprabhām",
+     "gloss": "time-fire-equal-splendor",
+     "grounds": "kāla-anala-sama-prabhām",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Where should one see consciousness residing in the body?",
+   "premises": [
+    "all elements dissolve and burn there",
+    "that consciousness resides in the body",
+    "its splendor equals time-fire"
+   ],
+   "inference": "one should see that consciousness where all elements dissolve",
+   "uncertainties": [
+    "whether kāyasthāṃ modifies citiṃ or tāṃ"
+   ],
+   "plain_english": "Where all elements dissolve and burn, see that consciousness residing in the body, equal in splendor to the fire of time."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "śūnyarūpe",
+     "gloss": "void-formed",
+     "grounds": "śūnya-rūpe",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "śmaśāne@smin",
+     "gloss": "in-this-cremation-ground",
+     "grounds": "śmaśāne asmin",
+     "morph": "n.loc.sg + pron.loc.sg.n"
+    },
+    {
+     "surface": "yoginīsiddhasevite",
+     "gloss": "served-by-yoginis-and-siddhas",
+     "grounds": "yoginī-siddha-sevite",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "krīḍāsthāne",
+     "gloss": "play-place",
+     "grounds": "krīḍā-sthāne",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahāraudre",
+     "gloss": "greatly-fierce",
+     "grounds": "mahā-raudre",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "sarvāstamitavigrahe",
+     "gloss": "all-forms-set",
+     "grounds": "sarva-astamita-vigrahe",
+     "morph": "adj.loc.sg.n"
+    }
+   ],
+   "question": "What kind of cremation ground is described here?",
+   "premises": [
+    "it is void-formed",
+    "it is served by yoginis and siddhas",
+    "all forms are set there"
+   ],
+   "inference": "the described cremation ground is a fierce void-place of completed forms",
+   "uncertainties": [
+    "exact sense of sarvāstamitavigrahe"
+   ],
+   "plain_english": "In this void-formed cremation ground, served by yoginis and siddhas, a play-place, greatly fierce, where all forms are set."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "svaraśmimaṇḍalākīrṇe",
+     "gloss": "filled-with-sound-ray-circles",
+     "grounds": "svara-raśmi-maṇḍala-ākīrṇe",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "dhvaṃsitadhvāntasantatau",
+     "gloss": "darkness-destroyed-continuously",
+     "grounds": "dhvaṃsita-dhvānta-santatau",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "sarvairvikalpairnirmukte",
+     "gloss": "free-from-all-conceptual-distinctions",
+     "grounds": "sarvaiḥ-vikalpaiḥ-nirmukte",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "ānandapadakevale",
+     "gloss": "alone-in-bliss-state",
+     "grounds": "ānanda-pada-kevale",
+     "morph": "adj.loc.sg.n"
+    }
+   ],
+   "question": "What qualities belong to this bliss-state?",
+   "premises": [
+    "it is filled with sound-ray circles",
+    "darkness is continuously destroyed",
+    "it is free from all conceptual distinctions"
+   ],
+   "inference": "the bliss-state is solitary, luminous, and free from distinctions",
+   "uncertainties": [
+    "whether locative modifies śmaśāne from previous verse"
+   ],
+   "plain_english": "Filled with circles of sound-rays, with darkness continuously destroyed, free from all conceptual distinctions, alone in the state of bliss."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "asaṃkhyacitisaṃpūrṇe",
+     "gloss": "countless-consciousness-filled",
+     "grounds": "asaṃkhya-citi-saṃpūrṇe",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "cremation-ground",
+     "grounds": "śmaśāne",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "citibhīṣaṇe",
+     "gloss": "consciousness-terrifying",
+     "grounds": "citi-bhīṣaṇe",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "samastadevatādhāre",
+     "gloss": "support-of-all-deities",
+     "grounds": "samasta-devatā-dhāre",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "praviṣṭaḥ",
+     "gloss": "having-entered",
+     "grounds": "praviṣṭaḥ",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "kaḥ",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "becomes-accomplished",
+     "grounds": "siddhyati",
+     "morph": "v.3.sg.act-pres + sidh"
+    }
+   ],
+   "question": "Who does not become accomplished after entering?",
+   "premises": [
+    "the cremation ground is filled with countless consciousness",
+    "it is terrifying consciousness and support of all deities",
+    "one who enters there becomes accomplished"
+   ],
+   "inference": "no one entering there fails to become accomplished",
+   "uncertainties": [
+    "rhetorical force of ko na siddhyati"
+   ],
+   "plain_english": "In the cremation ground filled with countless consciousness, terrifying consciousness, support of all deities, who entering does not become accomplished?"
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "śrīmadvīrāvalīśāstre",
+     "gloss": "in-glorious-viravali-scripture",
+     "grounds": "śrīmat-vīrāvalī-śāstre",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "itthaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "provāca",
+     "gloss": "spoke",
+     "grounds": "provāca",
+     "morph": "v.3.sg.act-aor + vac"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavi",
+     "grounds": "bhairavī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "itthaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāgaṃ",
+     "gloss": "sacrifice",
+     "grounds": "yāgaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāyādau",
+     "gloss": "having-performed-first",
+     "grounds": "vidhāya ādau",
+     "morph": "part + (indecl.)"
+    },
+    {
+     "surface": "tādṛśaucityabhāginam",
+     "gloss": "fit-for-such-propriety",
+     "grounds": "tādṛśa-aucitya-bhāginam",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "Who spoke thus in the Viravali scripture?",
+   "premises": [
+    "Bhairavi spoke thus in the glorious Viravali scripture",
+    "sacrifice is first performed",
+    "the recipient is fit for such propriety"
+   ],
+   "inference": "Bhairavi prescribes first sacrifice for one fit for such propriety",
+   "uncertainties": [
+    "whether tādṛśaucityabhāginam modifies yāgaṃ or recipient"
+   ],
+   "plain_english": "In the glorious Viravali scripture, Bhairavi spoke thus: having first performed sacrifice, for one fit for such propriety."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "lakṣaikīyaṃ",
+     "gloss": "having-discerned-family",
+     "grounds": "lakṣa-ekīyaṃ",
+     "morph": "part.acc.sg.m"
+    },
+    {
+     "surface": "svaśiṣyaṃ",
+     "gloss": "own-disciple",
+     "grounds": "sva-śiṣyaṃ",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "taṃ",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "dīkṣayettādṛśi",
+     "gloss": "initiate-in-such",
+     "grounds": "dīkṣayet tādṛśi",
+     "morph": "v.3.sg.act-opt + adj.loc.sg.f"
+    },
+    {
+     "surface": "krame",
+     "gloss": "rite",
+     "grounds": "krame",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rudraśaktyā",
+     "gloss": "by-rudra-power",
+     "grounds": "rudra-śaktyā",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "taṃ",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "prokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "prokṣya",
+     "morph": "part"
+    },
+    {
+     "surface": "devābhyāśe",
+     "gloss": "near-deities",
+     "grounds": "deva-abhyāśe",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "place",
+     "grounds": "niveśayet",
+     "morph": "v.3.sg.act-opt + ni+viś"
+    }
+   ],
+   "question": "How should the disciple be initiated and placed?",
+   "premises": [
+    "the disciple is initiated in such rite",
+    "he is sprinkled by Rudra-power",
+    "he is placed near the deities"
+   ],
+   "inference": "initiation includes sprinkling by Rudra-power and placement near deities",
+   "uncertainties": [
+    "meaning of lakṣaikīyaṃ"
+   ],
+   "plain_english": "Having discerned the family, initiate one's own disciple in such a rite; by Rudra-power sprinkle him and place him near the deities."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "bhujau",
+     "gloss": "arms",
+     "grounds": "bhujau",
+     "morph": "n.acc.du.m"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "tasya",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "samālokya",
+     "gloss": "having-observed",
+     "grounds": "samālokya",
+     "morph": "part"
+    },
+    {
+     "surface": "rudraśaktyā",
+     "gloss": "by-rudra-power",
+     "grounds": "rudra-śaktyā",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "pradīpayet",
+     "gloss": "kindle",
+     "grounds": "pradīpayet",
+     "morph": "v.3.sg.act-opt + pra+dīp"
+    },
+    {
+     "surface": "tayaivāsyārpayetpuṣpaṃ",
+     "gloss": "with-that-same-offer-flower",
+     "grounds": "tayā eva asya arpayet puṣpaṃ",
+     "morph": "pron.instr.sg + (indecl.) + pron.gen.sg.m + v.3.sg.act-opt + n.acc.sg"
+    },
+    {
+     "surface": "karayorgandhadigdhayoḥ",
+     "gloss": "to-scent-anointed-hands",
+     "grounds": "karayoḥ gandha-digdhayoḥ",
+     "morph": "n.gen.du.m + adj.gen.du.m"
+    }
+   ],
+   "question": "What is done after observing his arms?",
+   "premises": [
+    "his arms are observed",
+    "they are kindled by Rudra-power",
+    "flower is offered to his scent-anointed hands"
+   ],
+   "inference": "after observing the arms, one kindles them and offers flower",
+   "uncertainties": [
+    "whether tayaivāsyārpayetpuṣpaṃ is one token or compound"
+   ],
+   "plain_english": "Having observed his arms, kindle them by Rudra-power; with that same power offer flower to his hands anointed with scent."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "nirālambau",
+     "gloss": "unsupported",
+     "grounds": "nir-ālambau",
+     "morph": "adj.acc.du.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "tau",
+     "morph": "pron.acc.du.m"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "tasya",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "sthāpayitvā",
+     "morph": "part"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-think",
+     "grounds": "vicintayet",
+     "morph": "v.3.sg.act-opt + vi+cint"
+    },
+    {
+     "surface": "rudraśaktyākṛṣyamāṇau",
+     "gloss": "drawn-by-rudra-power",
+     "grounds": "rudra-śaktyā ākṛṣyamāṇau",
+     "morph": "n.instr.sg + part.acc.du.m"
+    },
+    {
+     "surface": "dīptayāṅkuśarūpayā",
+     "gloss": "in-blazing-hook-form",
+     "grounds": "dīptayā aṅkuśa-rūpayā",
+     "morph": "adj.instr.sg.f + n.instr.sg.f"
+    }
+   ],
+   "question": "What should be thought about the two unsupported things?",
+   "premises": [
+    "the two unsupported things are placed",
+    "they are drawn by Rudra-power",
+    "that power appears as a blazing hook"
+   ],
+   "inference": "one should think of them as drawn by Rudra-power in hook form",
+   "uncertainties": [
+    "what nirālambau tau refers to"
+   ],
+   "plain_english": "Having placed his two unsupported arms, one should think of them as drawn by Rudra-power in the form of a blazing hook."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "tataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "saḥ",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "svayamādāya",
+     "gloss": "having-himself-taken",
+     "grounds": "svayam ādāya",
+     "morph": "(indecl.) + part"
+    },
+    {
+     "surface": "vastraṃ",
+     "gloss": "cloth",
+     "grounds": "vastraṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "baddhadṛśirbhavet",
+     "gloss": "becomes-blindfolded",
+     "grounds": "baddha-dṛśiḥ bhavet",
+     "morph": "adj.nom.sg.m + v.3.sg.act-opt + bhū"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "svayaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātayetpuṣpaṃ",
+     "gloss": "drops-flower",
+     "grounds": "pātayet puṣpaṃ",
+     "morph": "v.3.sg.act-opt + pāt + n.acc.sg"
+    },
+    {
+     "surface": "tatpātāllakṣayetkulam",
+     "gloss": "from-that-fall-discerns-family",
+     "grounds": "tat-pātāt lakṣayet kulam",
+     "morph": "pron.abl.sg + n.abl.sg + v.3.sg.act-opt + n.acc.sg"
+    }
+   ],
+   "question": "How is the family discerned in this rite?",
+   "premises": [
+    "he takes cloth and becomes blindfolded",
+    "he himself drops the flower",
+    "from that fall one discerns the family"
+   ],
+   "inference": "the family is discerned from where the dropped flower falls",
+   "uncertainties": [
+    "whether baddhadṛśirbhavet is optative or future"
+   ],
+   "plain_english": "Then he himself takes cloth and becomes blindfolded; he himself drops the flower, and from that fall one discerns the family."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "tato@sya",
+     "gloss": "then-his",
+     "grounds": "tataḥ asya",
+     "morph": "(indecl.) + pron.gen.sg.m"
+    },
+    {
+     "surface": "mukhamuddhāṭya",
+     "gloss": "having-opened-mouth",
+     "grounds": "mukham uddhāṭya",
+     "morph": "n.acc.sg + part"
+    },
+    {
+     "surface": "pādayoḥ",
+     "gloss": "at-feet",
+     "grounds": "pādayoḥ",
+     "morph": "n.loc.du.m"
+    },
+    {
+     "surface": "praṇipātayet",
+     "gloss": "make-bow",
+     "grounds": "praṇipātayet",
+     "morph": "v.3.sg.act-opt + pra+ni+pāt"
+    },
+    {
+     "surface": "hastayormūrdhni",
+     "gloss": "on-hands-head",
+     "grounds": "hastayoḥ mūrdhni",
+     "morph": "n.loc.du.m + n.loc.sg.m"
+    },
+    {
+     "surface": "cāpyasya",
+     "gloss": "and-his",
+     "grounds": "ca api asya",
+     "morph": "(indecl.) + (indecl.) + pron.gen.sg.m"
+    },
+    {
+     "surface": "devīcakraṃ",
+     "gloss": "goddess-circle",
+     "grounds": "devī-cakraṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "worship",
+     "grounds": "samarcayet",
+     "morph": "v.3.sg.act-opt + sam+arc"
+    }
+   ],
+   "question": "What worship follows opening his mouth?",
+   "premises": [
+    "his mouth is opened",
+    "he is made to bow at the feet",
+    "the goddess-circle is worshipped on his hands and head"
+   ],
+   "inference": "after opening the mouth, one makes him bow and worships the goddess-circle",
+   "uncertainties": [
+    "whether hastayormūrdhni means hands and head or head of hands"
+   ],
+   "plain_english": "Then, opening his mouth, make him bow at the feet; on his hands and head also worship the goddess-circle."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "ākarṣyākarṣakatvena",
+     "gloss": "by-attractor-attracted-relation",
+     "grounds": "ākarṣya-ākarṣaka-tvena",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "preryaprerakabhāvataḥ",
+     "gloss": "by-impeller-impelled-state",
+     "grounds": "prerya-preraka-bhāvataḥ",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "uktaṃ",
+     "morph": "part.nom.sg.n"
+    },
+    {
+     "surface": "śrīratnamālāyāṃ",
+     "gloss": "in-glorious-ratnamala",
+     "grounds": "śrī-ratnamālāyāṃ",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "nābhiṃ",
+     "gloss": "navel",
+     "grounds": "nābhiṃ",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "daṇḍena",
+     "gloss": "with-staff",
+     "grounds": "daṇḍena",
+     "morph": "n.instr.sg.m"
+    },
+    {
+     "surface": "saṃpuṭam",
+     "gloss": "bowl",
+     "grounds": "saṃpuṭam",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What does Ratnamala say about the navel?",
+   "premises": [
+    "Ratnamala states this",
+    "attractor-attracted relation is involved",
+    "impeller-impelled state is involved"
+   ],
+   "inference": "the navel is described as a bowl with a staff",
+   "uncertainties": [
+    "exact ritual meaning of navel as bowl with staff"
+   ],
+   "plain_english": "In the glorious Ratnamala it is said: by attractor-attracted and impeller-impelled relation, the navel is a bowl with a staff."
+  }
+ ]
+}

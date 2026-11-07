@@ -1,0 +1,683 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paṭhyate",
+     "gloss": "is-read",
+     "grounds": "token 2",
+     "morph": "3.sg.pass-pres root paṭh"
+    },
+    {
+     "surface": "rahasyatvātspaṣṭaiḥ",
+     "gloss": "because-of-secrecy-with-clear",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "śabdairmayā",
+     "gloss": "by-words-by-me",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kutūhalī",
+     "gloss": "curious-one",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tūktaśāstrasaṃpāṭhādeva",
+     "gloss": "from-stated-scripture-recitation-only",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣayet",
+     "gloss": "should-infer",
+     "grounds": "token 8",
+     "morph": "3.sg.act-opt root lakṣ"
+    }
+   ],
+   "question": "How should a curious reader infer the secret teaching?",
+   "premises": [
+    "The secret is not read aloud clearly.",
+    "The stated scripture recitation alone gives inference."
+   ],
+   "inference": "A curious person infers the hidden teaching from the stated scripture recitation.",
+   "uncertainties": [],
+   "plain_english": "Because of secrecy, it is not read with clear words; again, the curious one should infer it from the stated scripture recitation alone."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "yadbhajante",
+     "gloss": "which-they-worship",
+     "grounds": "token 1",
+     "morph": "3.pl.act-pres root bhaj"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "token 3",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yadvān",
+     "gloss": "possessing-that",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devaśca",
+     "gloss": "and-god",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "goddess",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "taccakraṃ",
+     "gloss": "that-wheel",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devīyāgādau",
+     "gloss": "in-goddess-worship-beginning",
+     "grounds": "token 9",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃnidhāpakam",
+     "gloss": "causing-presence",
+     "grounds": "token 10",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What wheel is worshipped by all and causes presence?",
+   "premises": [
+    "All always worship that wheel.",
+    "It is supreme and causes presence in goddess worship."
+   ],
+   "inference": "The supreme wheel is the one worshipped by all and causing presence.",
+   "uncertainties": [],
+   "plain_english": "That wheel which all always worship, and which god and goddess possess, is supreme and causes presence at the beginning of goddess worship."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "deha",
+     "gloss": "body",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "mark",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvatattvātmakaṃ",
+     "gloss": "containing-all-principles",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "shiva",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatācakrasaṃjuṣṭaṃ",
+     "gloss": "joined-with-goddess-wheel",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūjādhāma",
+     "gloss": "worship-abode",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taduttamam",
+     "gloss": "that-best",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is the body called the supreme mark?",
+   "premises": [
+    "The body is the supreme mark containing all principles.",
+    "It is joined with the goddess wheel and is the best worship abode."
+   ],
+   "inference": "The body is the supreme Shiva-mark and best abode of worship.",
+   "uncertainties": [],
+   "plain_english": "The body indeed is the supreme mark, containing all principles, Shiva, joined with the goddess wheel, the best abode of worship."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "principal",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tritriśūlābjacakrakham",
+     "gloss": "trident-lotus-wheel-space",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devatācakraṃ",
+     "gloss": "goddess-wheel",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahirantaḥ",
+     "gloss": "outside-inside",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "token 9",
+     "morph": "3.sg.act-opt root yaj"
+    }
+   ],
+   "question": "How should the principal circle be worshipped?",
+   "premises": [
+    "That same circle is principal.",
+    "The goddess wheel there is worshipped outside and inside always."
+   ],
+   "inference": "One should always worship the goddess wheel in that principal circle, outside and inside.",
+   "uncertainties": [],
+   "plain_english": "That same circle is principal, trident-lotus-wheel-space; there indeed the goddess wheel is always worshipped outside and inside."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "svasvamantraparāmarśapūrvaṃ",
+     "gloss": "after-recalling-own-mantra",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "tajjanmabhī",
+     "gloss": "with-those-births",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "rasaiḥ",
+     "gloss": "with-juices",
+     "grounds": "token 3",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ānandabahulaiḥ",
+     "gloss": "with-joy-abundant",
+     "grounds": "token 4",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sṛṣṭisaṃhāravidhinā",
+     "gloss": "by-creation-destruction-rite",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "should-touch",
+     "grounds": "token 6",
+     "morph": "3.sg.act-opt root spṛś"
+    }
+   ],
+   "question": "How should one touch with mantra recollection?",
+   "premises": [
+    "After recalling one's own mantra, one touches.",
+    "The touching uses juices, abundant joy, and creation-destruction rite."
+   ],
+   "inference": "One should touch after mantra recollection, with joyful juices and creation-destruction rite.",
+   "uncertainties": [],
+   "plain_english": "After recalling one's own mantra, with those births and juices abundant in joy, by the rite of creation and destruction, one should touch."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "tatsparśarabhasodbuddhasaṃviccakraṃ",
+     "gloss": "consciousness-wheel-aroused-by-touch-impetus",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadīśvaraḥ",
+     "gloss": "its-lord",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "token 3",
+     "morph": "3.sg.act-pres root labh"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "abode",
+     "grounds": "token 5",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tarpitāśeṣadaivataḥ",
+     "gloss": "having-satisfied-all-deities",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the lord obtain through aroused consciousness?",
+   "premises": [
+    "The lord obtains the supreme abode.",
+    "He has satisfied all deities through the consciousness wheel aroused by touch."
+   ],
+   "inference": "The lord obtains the supreme abode after satisfying all deities.",
+   "uncertainties": [],
+   "plain_english": "The consciousness wheel aroused by the impetus of touch, its lord obtains the supreme abode, having satisfied all deities."
+  },
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "anuyāgoktavidhinā",
+     "gloss": "by-prescribed-follow-up-rite",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "dravyairhṛdayahāribhiḥ",
+     "gloss": "with-heart-stealing-substances",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svasvakāmarśayogādantaḥ",
+     "gloss": "from-own-desire-recollection-within",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratarpayet",
+     "gloss": "should-satisfy-fully",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt root tarp"
+    }
+   ],
+   "question": "How should one fully satisfy within?",
+   "premises": [
+    "By the prescribed follow-up rite and heart-stealing substances.",
+    "Likewise from own desire recollection within, one should fully satisfy."
+   ],
+   "inference": "One should fully satisfy within by rite, substances, and desire recollection.",
+   "uncertainties": [],
+   "plain_english": "By the prescribed follow-up rite, with heart-stealing substances, likewise from one's own desire recollection within, one should fully satisfy."
+  },
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "kṛtvādhāradharāṃ",
+     "gloss": "having-made-support-bearing",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "camatkṛtirasaprokṣākṣaṇakṣālitāmāttairmānasataḥ",
+     "gloss": "with-mind-taken-washed-instantly-sprinkled-wonder-juice",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "svabhāvakusumaiḥ",
+     "gloss": "with-nature-flowers",
+     "grounds": "token 3",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "svāmodasandohibhiḥ",
+     "gloss": "with-own-fragrance-abundant",
+     "grounds": "token 4",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ānandāmṛtanirbharasvahṛdayānarghārghapātrakramāt",
+     "gloss": "from-own-heart-full-of-bliss-nectar-invaluable-cup-sequence",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "token 6",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "with-goddess",
+     "grounds": "token 7",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dehadevasadane",
+     "gloss": "in-body-temple",
+     "grounds": "token 9",
+     "morph": "compound"
+    },
+    {
+     "surface": "devārcaye@harniśam",
+     "gloss": "I-worship-gods-night-and-day",
+     "grounds": "token 10",
+     "morph": "1.sg.act-pres root arc"
+    }
+   ],
+   "question": "How does one worship you with the goddess?",
+   "premises": [
+    "One makes support-bearing and uses wonder-juice, nature flowers, fragrance.",
+    "From the heart full of bliss nectar, one worships you with the goddess in the body temple."
+   ],
+   "inference": "One worships you with the goddess in the body temple through these offerings.",
+   "uncertainties": [],
+   "plain_english": "Having made support-bearing, with mind-taken wonder-juice instantly sprinkled, with nature flowers abundant in own fragrance, from the sequence of the invaluable cup of one's own heart full of bliss nectar, I worship you together with the goddess in the body temple night and day."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "śrīvīrāvalyamaryādaprabhṛtau",
+     "gloss": "from-vira-avali-boundary-onward",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "śāstrasañcaye",
+     "gloss": "in-scripture-collection",
+     "grounds": "token 2",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramo",
+     "gloss": "supreme",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāgaḥ",
+     "gloss": "sacrifice",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stutaḥ",
+     "gloss": "praised",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śītāṃśumaulinā",
+     "gloss": "by-moon-crested-one",
+     "grounds": "token 8",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "What sacrifice is praised in the scripture collection?",
+   "premises": [
+    "From the vira-avali boundary onward in scripture collection.",
+    "This supreme sacrifice is praised by the moon-crested one."
+   ],
+   "inference": "The supreme sacrifice praised by Shiva is this one.",
+   "uncertainties": [],
+   "plain_english": "From the boundary of Sri Vira-avali onward in the scripture collection, this supreme sacrifice is praised by the moon-crested one."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇavṛttisthaṃ",
+     "gloss": "situated-in-breath-function",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "samastaṃ",
+     "gloss": "all",
+     "grounds": "token 3",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devatāgaṇam",
+     "gloss": "group-of-deities",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśyetpūrvoktayuktyaiva",
+     "gloss": "should-see-by-previously-stated-method",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatraivābhyarcayedguruḥ",
+     "gloss": "there-indeed-should-worship-teacher",
+     "grounds": "token 6",
+     "morph": "compound"
+    }
+   ],
+   "question": "How else should the teacher worship deities?",
+   "premises": [
+    "Or one sees all deities situated in breath function.",
+    "By the previously stated method, the teacher worships them there."
+   ],
+   "inference": "The teacher worships all breath-situated deities by the stated method.",
+   "uncertainties": [],
+   "plain_english": "Or, seeing all the group of deities situated in breath function by the previously stated method, the teacher should worship them there indeed."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "prāṇāśritānāṃ",
+     "gloss": "of-breath-supported",
+     "grounds": "token 1",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "devīnāṃ",
+     "gloss": "of-goddesses",
+     "grounds": "token 2",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "brahmanāsādibhedibhiḥ",
+     "gloss": "by-brahma-nose-etc-distinctions",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "karandhrairviśatāpānacāndracakreṇa",
+     "gloss": "by-hand-holes-entering-apanā-moon-wheel",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "tarpaṇam",
+     "gloss": "satisfaction",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is satisfaction of breath-supported goddesses done?",
+   "premises": [
+    "Satisfaction of breath-supported goddesses occurs.",
+    "It uses brahma-nose distinctions and hand holes entering apana moon wheel."
+   ],
+   "inference": "Satisfaction is performed through those bodily channels and distinctions.",
+   "uncertainties": [],
+   "plain_english": "Satisfaction of the breath-supported goddesses is by brahma-nose and other distinctions, by hand holes entering the apana moon wheel."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇakrameṇaiva",
+     "gloss": "by-breath-sequence-indeed",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "tarpayeddevatāgaṇam",
+     "gloss": "should-satisfy-deity-group",
+     "grounds": "token 3",
+     "morph": "3.sg.act-opt root tarp"
+    },
+    {
+     "surface": "acirāttatprasādena",
+     "gloss": "soon-by-its-grace",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñānasiddhīrathāśnute",
+     "gloss": "then-attains-knowledge-accomplishments",
+     "grounds": "token 5",
+     "morph": "3.sg.act-pres root aś"
+    }
+   ],
+   "question": "What follows from satisfying deities by breath sequence?",
+   "premises": [
+    "Thus one satisfies the deity group by breath sequence.",
+    "Soon by its grace one attains knowledge accomplishments."
+   ],
+   "inference": "Satisfying deities by breath sequence leads to knowledge accomplishments by grace.",
+   "uncertainties": [],
+   "plain_english": "Thus by breath sequence indeed one should satisfy the deity group; soon by its grace one then attains knowledge accomplishments."
+  }
+ ]
+}
