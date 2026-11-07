@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 101,
- "gold": 71,
+ "gold": 77,
  "partial": 0,
- "pending": 30,
+ "pending": 24,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -16,7 +16,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 27,
-   "note": "2026-11-02: full gold pipeline (T1/L0/argmap/L2/C1/L3 27/27), validate+proof PASS x3, L3 handcrafted couplets reviewed | 2026-11-04: L4 3/3 songs, 27/27v (per-song DRAFT+data), śāstra-hammer couplets, standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
+   "note": "2026-11-02: full gold pipeline (T1/L0/argmap/L2/C1/L3 27/27), validate+proof PASS x3, L3 handcrafted couplets reviewed | 2026-11-04: L4 3/3 songs, 27/27v (per-song DRAFT+data), \u015b\u0101stra-hammer couplets, standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
    "l4_songs": 3,
    "l4_verses": 27,
    "c2_songs": 3
@@ -64,7 +64,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 15,
-   "note": "2026-11-02: full gold pipeline (T1/L0 153 tokens/argmap/L2/C1/L3 15/15), validate+proof PASS x15, L3 couplets handcrafted; QA NEEDS_WITNESS; Academy/Mahānaya witnesses compared | 2026-11-04: L4 15/15 songs (per-song DRAFT+data), stotra couplets, standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
+   "note": "2026-11-02: full gold pipeline (T1/L0 153 tokens/argmap/L2/C1/L3 15/15), validate+proof PASS x15, L3 couplets handcrafted; QA NEEDS_WITNESS; Academy/Mah\u0101naya witnesses compared | 2026-11-04: L4 15/15 songs (per-song DRAFT+data), stotra couplets, standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
    "l4_songs": 15,
    "l4_verses": 15,
    "c2_songs": 15
@@ -76,7 +76,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 41,
-   "note": "2026-11-02: full gold pipeline (T1/L0 373 tokens/argmap/L2/C1/L3 41/41, 5 songs; print jumps 13->15, v12 double-marked, maṅgala+colophon scoped), validate+proof PASS x5, L3 couplets handcrafted+reviewed; QA NEEDS_WITNESS | 2026-11-04: L4 5/5 songs, 41/41v (per-song DRAFT+data), standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
+   "note": "2026-11-02: full gold pipeline (T1/L0 373 tokens/argmap/L2/C1/L3 41/41, 5 songs; print jumps 13->15, v12 double-marked, ma\u1e45gala+colophon scoped), validate+proof PASS x5, L3 couplets handcrafted+reviewed; QA NEEDS_WITNESS | 2026-11-04: L4 5/5 songs, 41/41v (per-song DRAFT+data), standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
    "l4_songs": 5,
    "l4_verses": 41,
    "c2_songs": 5
@@ -112,7 +112,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": "prose 9 passages",
-   "note": "2026-11-02: full gold pipeline (T1/L0 1116 tokens/argmap/L2/C1/L3 9/9), validate+proof PASS x9, L3 transmission handcrafted; QA NEEDS_WITNESS; Sauḥ/etad sharpenings from Pradipaka | 2026-11-04: L4 9/9 songs (per-song DRAFT+data), length-follows-argument forms, standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
+   "note": "2026-11-02: full gold pipeline (T1/L0 1116 tokens/argmap/L2/C1/L3 9/9), validate+proof PASS x9, L3 transmission handcrafted; QA NEEDS_WITNESS; Sau\u1e25/etad sharpenings from Pradipaka | 2026-11-04: L4 9/9 songs (per-song DRAFT+data), length-follows-argument forms, standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
    "l4_songs": 9,
    "l4_verses": 9,
    "c2_songs": 9
@@ -161,7 +161,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 16,
-   "note": "2026-11-04: GOLD #30 — Abhinavagupta Dehasthadevatacakrastotra 16v/2 songs: T1 span-exact / L0 127 tok 100% PARSED 0 drift (2 live forks v9/v10, adjudicated; v16 resolved adverbial) / argmaps 16/16 0 shared / L2 rasa-carried byte-exact / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 16 couplets / L4 16 DRAFTs w/ craft_notes+rejected-killers (audit-aligned) / C2 eli5+genz full coverage / c1.NOTE x2. validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "note": "2026-11-04: GOLD #30 \u2014 Abhinavagupta Dehasthadevatacakrastotra 16v/2 songs: T1 span-exact / L0 127 tok 100% PARSED 0 drift (2 live forks v9/v10, adjudicated; v16 resolved adverbial) / argmaps 16/16 0 shared / L2 rasa-carried byte-exact / C1 essence+7-part+rasa (0 quotes/meta/shared) / L3 16 couplets / L4 16 DRAFTs w/ craft_notes+rejected-killers (audit-aligned) / C2 eli5+genz full coverage / c1.NOTE x2. validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
    "l4_songs": 2,
    "l4_verses": 16,
    "c2_songs": 2
@@ -197,7 +197,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 20,
-   "note": "2026-11-04: GOLD #33 — Abhinavastotravali print. Full pipeline 20v/2 songs: T1 span-exact / L0 197 tok / argmaps 20/20 / L2 / C1 / L3 / L4 20 DRAFTs / C2 eli5+genz / c1.NOTE x2; validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "note": "2026-11-04: GOLD #33 \u2014 Abhinavastotravali print. Full pipeline 20v/2 songs: T1 span-exact / L0 197 tok / argmaps 20/20 / L2 / C1 / L3 / L4 20 DRAFTs / C2 eli5+genz / c1.NOTE x2; validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
    "l4_songs": 2,
    "l4_verses": 20,
    "c2_songs": 2
@@ -209,7 +209,7 @@
    "has_data_json": true,
    "has_process_log": false,
    "verses": 8,
-   "note": "2026-11-04: L4 8/8 songs (per-song DRAFT+data), śānta couplets, standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
+   "note": "2026-11-04: L4 8/8 songs (per-song DRAFT+data), \u015b\u0101nta couplets, standing approval, gate green. 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
    "l4_songs": 8,
    "l4_verses": 8,
    "c2_songs": 8
@@ -221,7 +221,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 13,
-   "note": "2026-11-04: GOLD #31 — Sferra recension (Abhinavastotravali print = variant recension, recorded not built). Full pipeline 13v/2 songs: T1 span-exact / L0 269 tok / argmaps 13/13 / L2 / C1 / L3 / L4 13 DRAFTs / C2 eli5+genz / c1.NOTE x2; validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "note": "2026-11-04: GOLD #31 \u2014 Sferra recension (Abhinavastotravali print = variant recension, recorded not built). Full pipeline 13v/2 songs: T1 span-exact / L0 269 tok / argmaps 13/13 / L2 / C1 / L3 / L4 13 DRAFTs / C2 eli5+genz / c1.NOTE x2; validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
    "l4_songs": 2,
    "l4_verses": 13,
    "c2_songs": 2
@@ -277,7 +277,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 16,
-   "note": "2026-11-04: GOLD #32 — Abhinavastotravali print. Full pipeline 16v/2 songs: T1 span-exact / L0 176 tok / argmaps 16/16 / L2 / C1 / L3 / L4 16 DRAFTs / C2 eli5+genz / c1.NOTE x2; validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "note": "2026-11-04: GOLD #32 \u2014 Abhinavastotravali print. Full pipeline 16v/2 songs: T1 span-exact / L0 176 tok / argmaps 16/16 / L2 / C1 / L3 / L4 16 DRAFTs / C2 eli5+genz / c1.NOTE x2; validate 0 x2, proof PASS x2, roundtrip 0 x2, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
    "l4_songs": 2,
    "l4_verses": 16,
    "c2_songs": 2
@@ -322,7 +322,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 25,
-   "note": "2026-11-04: full gold pipeline, FIRST NIHṢYANDA ONLY (vv1-25, svarūpaspanda per Kallata/Ksemaraja; later nihsyandas out of scope): T1 span-exact / L0 263 tok 100% PARSED 0 drift / argmaps 25/25 / L2 byte-exact cites / C1 + rasa / L3 25 couplets / L4 25 DRAFTs / C2 eli5+genz full coverage; validate+proof PASS x4; check.py CANONICAL 0 failures; qa NEEDS_WITNESS (Singh/Dyczkowski translations as witness-parallels). OPEN: first-verse L4 voice verdict (owner); human review (MACHINE_PROPOSED).",
+   "note": "2026-11-04: full gold pipeline, FIRST NIH\u1e62YANDA ONLY (vv1-25, svar\u016bpaspanda per Kallata/Ksemaraja; later nihsyandas out of scope): T1 span-exact / L0 263 tok 100% PARSED 0 drift / argmaps 25/25 / L2 byte-exact cites / C1 + rasa / L3 25 couplets / L4 25 DRAFTs / C2 eli5+genz full coverage; validate+proof PASS x4; check.py CANONICAL 0 failures; qa NEEDS_WITNESS (Singh/Dyczkowski translations as witness-parallels). OPEN: first-verse L4 voice verdict (owner); human review (MACHINE_PROPOSED).",
    "l4_songs": 4
   },
   {
@@ -375,7 +375,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 50,
-   "note": "GOLD #65 2026-11-07: anupāya means-less, 50u/406tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #65 2026-11-07: anup\u0101ya means-less, 50u/406tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a03",
@@ -456,7 +456,7 @@
    "has_data_json": false,
    "has_process_log": false,
    "verses": 118,
-   "note": "2026-11-06 minimal gold via largetext swarm: T1/L0(940)/argmap/L2/C1-essence, proof PASS align 1.0, cites 118/118; beam-drafted, assessor reviewed 1 verse (v48 varṇa=phoneme fix); L3/L4 waived."
+   "note": "2026-11-06 minimal gold via largetext swarm: T1/L0(940)/argmap/L2/C1-essence, proof PASS align 1.0, cites 118/118; beam-drafted, assessor reviewed 1 verse (v48 var\u1e47a=phoneme fix); L3/L4 waived."
   },
   {
    "work": "tantraloka-a12",
@@ -465,7 +465,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 26,
-   "note": "GOLD #59 2026-11-07: kalādhvādi-upayoga cosmic body, 26u/204tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #59 2026-11-07: kal\u0101dhv\u0101di-upayoga cosmic body, 26u/204tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a13",
@@ -483,7 +483,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 47,
-   "note": "GOLD #63 2026-11-07: dīkṣopakrama tirobhāva/grace/utkrānti-refuted, 47u/362tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #63 2026-11-07: d\u012bk\u1e63opakrama tirobh\u0101va/grace/utkr\u0101nti-refuted, 47u/362tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a15",
@@ -519,7 +519,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 11,
-   "note": "GOLD #55 2026-11-07: saṃkṣiptadīkṣā, 11u/104tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #55 2026-11-07: sa\u1e43k\u1e63iptad\u012bk\u1e63\u0101, 11u/104tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a19",
@@ -528,7 +528,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 56,
-   "note": "GOLD #66 2026-11-07: sadyo-utkrānti deathbed initiation, 56u/453tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #66 2026-11-07: sadyo-utkr\u0101nti deathbed initiation, 56u/453tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a20",
@@ -537,7 +537,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 16,
-   "note": "GOLD #56 2026-11-07: tulāśuddhi/sapratyayā dīkṣā, 16u/118tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #56 2026-11-07: tul\u0101\u015buddhi/sapratyay\u0101 d\u012bk\u1e63\u0101, 16u/118tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a21",
@@ -546,7 +546,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 61,
-   "note": "GOLD #68 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 21 (parokṣa-dīkṣā, initiation of the absent; 61u, 460tok). L0 460 PARSED, 0 forks / argmaps 61/61 (sha 61bfe52e8f885df2, PASS) / validate 0 / proof PASS (align 1.0) / qa NEEDS_WITNESS. C2 waived."
+   "note": "GOLD #68 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 21 (parok\u1e63a-d\u012bk\u1e63\u0101, initiation of the absent; 61u, 460tok). L0 460 PARSED, 0 forks / argmaps 61/61 (sha 61bfe52e8f885df2, PASS) / validate 0 / proof PASS (align 1.0) / qa NEEDS_WITNESS. C2 waived."
   },
   {
    "work": "tantraloka-a22",
@@ -555,7 +555,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 48,
-   "note": "GOLD #64 2026-11-07: liṅgoddhāra conversion of the marked, 48u/370tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #64 2026-11-07: li\u1e45goddh\u0101ra conversion of the marked, 48u/370tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a23",
@@ -573,7 +573,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 24,
-   "note": "GOLD #58 2026-11-07: antyeṣṭi funerary initiation, 24u/172tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #58 2026-11-07: antye\u1e63\u1e6di funerary initiation, 24u/172tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a25",
@@ -582,7 +582,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 29,
-   "note": "GOLD #60 2026-11-07: śrāddha ancestor offerings, 29u/237tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #60 2026-11-07: \u015br\u0101ddha ancestor offerings, 29u/237tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a26",
@@ -600,7 +600,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 59,
-   "note": "GOLD #67 2026-11-07: liṅga-pūjā installation rite, 59u/461tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #67 2026-11-07: li\u1e45ga-p\u016bj\u0101 installation rite, 59u/461tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a28",
@@ -622,12 +622,12 @@
   },
   {
    "work": "tantraloka-a30",
-   "status": "recon complete (pending transformation, shortest-first queue)",
-   "gold": false,
+   "status": "gold (machine-proposed, minimal: L3/L4 waived)",
+   "gold": true,
    "has_data_json": false,
    "has_process_log": false,
    "verses": null,
-   "note": "2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 334-vs-333 noted; a03 verse-0 kept). Registered in workcfg kind=taloka. Queue: shortest-first per owner goal."
+   "note": "minimal gold via swarm: T1/L0/argmap/L2/C1-essence, proof PASS; L3/L4 waived."
   },
   {
    "work": "tantraloka-a31",
@@ -645,7 +645,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 69,
-   "note": "GOLD #69 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 32 (mudrā-vidhi; 69u incl. v0, 561tok). proof PASS, qa NEEDS_WITNESS. C2 waived."
+   "note": "GOLD #69 (MACHINE_PROPOSED) 2026-11-07: Tantraloka ahnika 32 (mudr\u0101-vidhi; 69u incl. v0, 561tok). proof PASS, qa NEEDS_WITNESS. C2 waived."
   },
   {
    "work": "tantraloka-a33",
@@ -654,7 +654,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 33,
-   "note": "GOLD #61 2026-11-07: ekīkāra unification of divisions, 33u/230tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #61 2026-11-07: ek\u012bk\u0101ra unification of divisions, 33u/230tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a34",
@@ -663,7 +663,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 5,
-   "note": "GOLD #54 2026-11-07: TAL finale (svasvarūpapraveśa), 5u/23tok, 1 LIVE fork (parameṣṭhin), proof PASS, qa NEEDS_WITNESS. First Tantraloka gold; pilot for shortest-first campaign."
+   "note": "GOLD #54 2026-11-07: TAL finale (svasvar\u016bpaprave\u015ba), 5u/23tok, 1 LIVE fork (parame\u1e63\u1e6dhin), proof PASS, qa NEEDS_WITNESS. First Tantraloka gold; pilot for shortest-first campaign."
   },
   {
    "work": "tantraloka-a35",
@@ -672,7 +672,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 44,
-   "note": "GOLD #62 2026-11-07: śāstramelana scripture-union via prasiddhi, 44u/341tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #62 2026-11-07: \u015b\u0101stramelana scripture-union via prasiddhi, 44u/341tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a36",
@@ -681,7 +681,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 17,
-   "note": "GOLD #57 2026-11-07: āgama-avatāra transmission history, 17u/130tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
+   "note": "GOLD #57 2026-11-07: \u0101gama-avat\u0101ra transmission history, 17u/130tok, 0 forks, proof PASS, qa NEEDS_WITNESS."
   },
   {
    "work": "tantraloka-a37",
@@ -701,7 +701,7 @@
    "verses": 34,
    "l4_songs": 1,
    "l4_verses": 34,
-   "note": "2026-11-04: GOLD #45 (machine-proposed) — 34 units (parāmarśa-śakti bīja scheme), L0 536tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #45 (machine-proposed) \u2014 34 units (par\u0101mar\u015ba-\u015bakti b\u012bja scheme), L0 536tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a04",
@@ -712,7 +712,7 @@
    "verses": 46,
    "l4_songs": 1,
    "l4_verses": 46,
-   "note": "2026-11-04: GOLD #47 (machine-proposed) — 46 units (vikalpa-sattarka-śakti-kalana, 810tok largest), full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #47 (machine-proposed) \u2014 46 units (vikalpa-sattarka-\u015bakti-kalana, 810tok largest), full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a05",
@@ -723,7 +723,7 @@
    "verses": 43,
    "l4_songs": 1,
    "l4_verses": 43,
-   "note": "2026-11-04: GOLD #46 (machine-proposed) — 43 units (dhyāna-uccāra-varṇa-vidhi), L0 449tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #46 (machine-proposed) \u2014 43 units (dhy\u0101na-ucc\u0101ra-var\u1e47a-vidhi), L0 449tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a06",
@@ -734,7 +734,7 @@
    "verses": 82,
    "l4_songs": 1,
    "l4_verses": 82,
-   "note": "2026-11-05: GOLD #51 (machine-proposed) — 82 units (sthānakālanaprakāśana, 981tok), 2 genuine grammar forks resolved, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-05: GOLD #51 (machine-proposed) \u2014 82 units (sth\u0101nak\u0101lanaprak\u0101\u015bana, 981tok), 2 genuine grammar forks resolved, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a07",
@@ -745,7 +745,7 @@
    "verses": 28,
    "l4_songs": 1,
    "l4_verses": 28,
-   "note": "2026-11-04: GOLD #43 (machine-proposed) — 28 units (tattva-cosmology ladder), L0 210tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #43 (machine-proposed) \u2014 28 units (tattva-cosmology ladder), L0 210tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a08",
@@ -756,7 +756,7 @@
    "verses": 93,
    "l4_songs": 1,
    "l4_verses": 93,
-   "note": "2026-11-05: GOLD #52 (machine-proposed) — 93 units (tattvasvarūpaprakāśana, 1120tok), 4 genuine grammar forks resolved, 7 drifted L4 re-sung, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-05: GOLD #52 (machine-proposed) \u2014 93 units (tattvasvar\u016bpaprak\u0101\u015bana, 1120tok), 4 genuine grammar forks resolved, 7 drifted L4 re-sung, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a09",
@@ -767,7 +767,7 @@
    "verses": 53,
    "l4_songs": 1,
    "l4_verses": 53,
-   "note": "2026-11-04: GOLD #48 (machine-proposed) — 53 units (saptadhā-tattva-pramātṛ, 825tok), full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #48 (machine-proposed) \u2014 53 units (saptadh\u0101-tattva-pram\u0101t\u1e5b, 825tok), full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a10",
@@ -778,7 +778,7 @@
    "verses": 18,
    "l4_songs": 1,
    "l4_verses": 18,
-   "note": "2026-11-04: GOLD #40 (machine-proposed) — 18 units, L0 171tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #40 (machine-proposed) \u2014 18 units, L0 171tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a11",
@@ -789,7 +789,7 @@
    "verses": 25,
    "l4_songs": 1,
    "l4_verses": 25,
-   "note": "2026-11-04: GOLD #42 (machine-proposed) — 25 units (śaktipāta-adhikāra), L0 648tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #42 (machine-proposed) \u2014 25 units (\u015baktip\u0101ta-adhik\u0101ra), L0 648tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a12",
@@ -800,7 +800,7 @@
    "verses": 10,
    "l4_songs": 1,
    "l4_verses": 10,
-   "note": "2026-11-04: GOLD #37 (machine-proposed) — snāna ahnika, full pipeline: T1/L0 145tok 100% PARSED, argmaps 10, L2/C1/L3/L4 10 with craft+rejected+read-aloud, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL 0. OPEN: first-verse L4 voice verdict (owner); human review; site ABSTENTION skeleton (owner commits ipvv)."
+   "note": "2026-11-04: GOLD #37 (machine-proposed) \u2014 sn\u0101na ahnika, full pipeline: T1/L0 145tok 100% PARSED, argmaps 10, L2/C1/L3/L4 10 with craft+rejected+read-aloud, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL 0. OPEN: first-verse L4 voice verdict (owner); human review; site ABSTENTION skeleton (owner commits ipvv)."
   },
   {
    "work": "tantrasara-a13",
@@ -811,7 +811,7 @@
    "verses": 101,
    "l4_songs": 1,
    "l4_verses": 101,
-   "note": "2026-11-06: GOLD #53 (machine-proposed) — 101 units (samayasamaya, 1063tok), 4 genuine grammar forks resolved, 4 drifted L4 re-sung, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review. TANTRASARA COMPLETE 22/22."
+   "note": "2026-11-06: GOLD #53 (machine-proposed) \u2014 101 units (samayasamaya, 1063tok), 4 genuine grammar forks resolved, 4 drifted L4 re-sung, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review. TANTRASARA COMPLETE 22/22."
   },
   {
    "work": "tantrasara-a14",
@@ -822,7 +822,7 @@
    "verses": 29,
    "l4_songs": 1,
    "l4_verses": 29,
-   "note": "2026-11-04: GOLD #44 (machine-proposed) — 29 units (putraka-dīkṣāvidhi), L0 334tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #44 (machine-proposed) \u2014 29 units (putraka-d\u012bk\u1e63\u0101vidhi), L0 334tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a15",
@@ -833,7 +833,7 @@
    "verses": 7,
    "l4_songs": 1,
    "l4_verses": 7,
-   "note": "2026-11-04: GOLD #38 (machine-proposed) — 7 units, L0 133tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #38 (machine-proposed) \u2014 7 units, L0 133tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a16",
@@ -844,7 +844,7 @@
    "verses": 24,
    "l4_songs": 1,
    "l4_verses": 24,
-   "note": "2026-11-04: GOLD #41 (machine-proposed) — 24 units (parokṣa-dīkṣā + jālaprayoga), L0 235tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #41 (machine-proposed) \u2014 24 units (parok\u1e63a-d\u012bk\u1e63\u0101 + j\u0101laprayoga), L0 235tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a17",
@@ -853,7 +853,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 6,
-   "note": "2026-11-04: GOLD #35 — lingoddhara ahnika, 6 prose units via workcfg GRETIL span route. Full pipeline: T1 span-exact / L0 94 tok / argmaps 6/6 / L2 / C1 / L3 / L4 6 DRAFTs / C2 eli5+genz / c1.NOTE; validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "note": "2026-11-04: GOLD #35 \u2014 lingoddhara ahnika, 6 prose units via workcfg GRETIL span route. Full pipeline: T1 span-exact / L0 94 tok / argmaps 6/6 / L2 / C1 / L3 / L4 6 DRAFTs / C2 eli5+genz / c1.NOTE; validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
    "l4_songs": 1,
    "l4_verses": 6,
    "c2_songs": 1
@@ -865,7 +865,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 2,
-   "note": "2026-11-04: GOLD #34 — abhiseka ahnika, 2 prose units via workcfg GRETIL span route. Full pipeline: T1 span-exact (legacy phantom atha dropped w/ grounds) / L0 66 tok / argmaps 2/2 / L2 / C1 / L3 / L4 2 DRAFTs / C2 eli5+genz / c1.NOTE; validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "note": "2026-11-04: GOLD #34 \u2014 abhiseka ahnika, 2 prose units via workcfg GRETIL span route. Full pipeline: T1 span-exact (legacy phantom atha dropped w/ grounds) / L0 66 tok / argmaps 2/2 / L2 / C1 / L3 / L4 2 DRAFTs / C2 eli5+genz / c1.NOTE; validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
    "l4_songs": 1,
    "l4_verses": 2,
    "c2_songs": 1
@@ -877,7 +877,7 @@
    "has_data_json": true,
    "has_process_log": false,
    "verses": 7,
-   "note": "2026-11-04: GOLD #36 — post-mortem/sraddha ahnika, 7 prose units via workcfg GRETIL span route. Full pipeline: T1 span-exact / L0 145 tok / argmaps 7/7 / L2 / C1 / L3 / L4 7 DRAFTs / C2 eli5+genz / c1.NOTE; validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
+   "note": "2026-11-04: GOLD #36 \u2014 post-mortem/sraddha ahnika, 7 prose units via workcfg GRETIL span route. Full pipeline: T1 span-exact / L0 145 tok / argmaps 7/7 / L2 / C1 / L3 / L4 7 DRAFTs / C2 eli5+genz / c1.NOTE; validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review.",
    "l4_songs": 1,
    "l4_verses": 7,
    "c2_songs": 1
@@ -891,7 +891,7 @@
    "verses": 65,
    "l4_songs": 1,
    "l4_verses": 65,
-   "note": "2026-11-05: GOLD #50 (machine-proposed) — 65 units (śeṣavartanaprakāśana, 889tok), 2 genuine grammar forks resolved, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-05: GOLD #50 (machine-proposed) \u2014 65 units (\u015be\u1e63avartanaprak\u0101\u015bana, 889tok), 2 genuine grammar forks resolved, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a21",
@@ -902,7 +902,7 @@
    "verses": 13,
    "l4_songs": 1,
    "l4_verses": 13,
-   "note": "2026-11-04: GOLD #39 (machine-proposed) — 13 units incl. 2 Prakrit seal verses, L0 239tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-04: GOLD #39 (machine-proposed) \u2014 13 units incl. 2 Prakrit seal verses, L0 239tok 100% PARSED, full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tantrasara-a22",
@@ -913,7 +913,7 @@
    "verses": 53,
    "l4_songs": 1,
    "l4_verses": 53,
-   "note": "2026-11-05: GOLD #49 (machine-proposed) — 53 units (kulayāga-prakāśana, 652tok, verse-gap u46 explicit), stem-level morph, 8 genuine grammar forks (7 resolved, 1 LIVE khecarī), full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
+   "note": "2026-11-05: GOLD #49 (machine-proposed) \u2014 53 units (kulay\u0101ga-prak\u0101\u015bana, 652tok, verse-gap u46 explicit), stem-level morph, 8 genuine grammar forks (7 resolved, 1 LIVE khecar\u012b), full stack, proof PASS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review."
   },
   {
    "work": "tattvasandoha",
@@ -930,7 +930,7 @@
    "has_data_json": true,
    "has_process_log": true,
    "verses": 162,
-   "note": "2026-11-04: GOLD #29 — full tantra 162v (17 songs): T1 span-exact / L0 1717 tok 100% PARSED 0 drift / argmaps 162/162 / L2 rasa-carried byte-exact / C1 essence+7-part+rasa / data t1/l0/argmap/l2/c1/l3 x17 / L3 162 couplets handcrafted 0 shared w/ L2 / L4 162 DRAFTs song-set w/ craft_notes+rejected-killers (p13-p14 RE-SUNG from true L3 after 0-overlap audit caught memory-composed lines; mistakes.md #19) / C2 eli5+genz full coverage / c1.NOTE x17 (voice maps, key terms, cruxes); validate 0 x17, proof PASS x17, roundtrip 0 x17, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review (MACHINE_PROPOSED).",
+   "note": "2026-11-04: GOLD #29 \u2014 full tantra 162v (17 songs): T1 span-exact / L0 1717 tok 100% PARSED 0 drift / argmaps 162/162 / L2 rasa-carried byte-exact / C1 essence+7-part+rasa / data t1/l0/argmap/l2/c1/l3 x17 / L3 162 couplets handcrafted 0 shared w/ L2 / L4 162 DRAFTs song-set w/ craft_notes+rejected-killers (p13-p14 RE-SUNG from true L3 after 0-overlap audit caught memory-composed lines; mistakes.md #19) / C2 eli5+genz full coverage / c1.NOTE x17 (voice maps, key terms, cruxes); validate 0 x17, proof PASS x17, roundtrip 0 x17, check.py CANONICAL 0 failures, qa NEEDS_WITNESS (no witness vendored). OPEN: first-verse L4 voice verdict (owner); human review (MACHINE_PROPOSED).",
    "l4_songs": 17,
    "l4_verses": 162,
    "c2_songs": 17
@@ -942,7 +942,7 @@
    "has_data_json": true,
    "has_process_log": false,
    "verses": 5,
-   "note": "2026-11-04: full gold pipeline (T1/L0 238 tokens incl 6 added particles/Ø; argmap/L2/C1/L3/L4 5/5), validate+proof PASS, L3 diacritics-rule-14 clean, L4 song handcrafted w/ craft_notes; fork tsa-a01-v04-p045 resolved (asaṃkucita vs T1, OG+Chakravarty witnesses); NEEDS_WITNESS 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
+   "note": "2026-11-04: full gold pipeline (T1/L0 238 tokens incl 6 added particles/\u00d8; argmap/L2/C1/L3/L4 5/5), validate+proof PASS, L3 diacritics-rule-14 clean, L4 song handcrafted w/ craft_notes; fork tsa-a01-v04-p045 resolved (asa\u1e43kucita vs T1, OG+Chakravarty witnesses); NEEDS_WITNESS 2026-11-04: C2 eli5+genz tagged+merged, gate green.",
    "l4_songs": 1,
    "l4_verses": 5,
    "c2_songs": 1
@@ -1011,7 +1011,7 @@
    "has_data_json": false,
    "has_process_log": false,
    "verses": null,
-   "note": "pending (P0 source on disk: mystics/lalded/SOURCE.txt, Grierson 1920, 109 vakhs; Kashmiri — needs Kashmiri-gloss stage; owner nod before translation)"
+   "note": "pending (P0 source on disk: mystics/lalded/SOURCE.txt, Grierson 1920, 109 vakhs; Kashmiri \u2014 needs Kashmiri-gloss stage; owner nod before translation)"
   },
   {
    "work": "rupabhavani",
@@ -1020,7 +1020,7 @@
    "has_data_json": false,
    "has_process_log": false,
    "verses": null,
-   "note": "pending (P0 source on disk: mystics/rupabhavani/SOURCE.txt, Rahasyopadesha; 146 Vakhs not yet sourced — second acquisition needed)"
+   "note": "pending (P0 source on disk: mystics/rupabhavani/SOURCE.txt, Rahasyopadesha; 146 Vakhs not yet sourced \u2014 second acquisition needed)"
   },
   {
    "work": "parmanand",
@@ -1029,7 +1029,7 @@
    "has_data_json": false,
    "has_process_log": false,
    "verses": null,
-   "note": "pending (P0 source on disk: mystics/parmanand/SOURCE.txt, Sukti Sar; Kashmiri — needs Kashmiri-gloss stage)"
+   "note": "pending (P0 source on disk: mystics/parmanand/SOURCE.txt, Sukti Sar; Kashmiri \u2014 needs Kashmiri-gloss stage)"
   },
   {
    "work": "nundrishi",
@@ -1038,7 +1038,7 @@
    "has_data_json": false,
    "has_process_log": false,
    "verses": null,
-   "note": "pending (P0 source on disk: mystics/nundrishi/SOURCE.txt, Parimoo; syncretic Rishi — owner decides queue entry)"
+   "note": "pending (P0 source on disk: mystics/nundrishi/SOURCE.txt, Parimoo; syncretic Rishi \u2014 owner decides queue entry)"
   },
   {
    "work": "santosh",
@@ -1047,7 +1047,7 @@
    "has_data_json": false,
    "has_process_log": false,
    "verses": null,
-   "note": "pending (P0 source on disk: mystics/santosh/SOURCE-EN.pdf, 2 translated poems; Kashmiri Be Soakh Rooh not yet sourced — second acquisition needed; paintings = lore/visual ref only)"
+   "note": "pending (P0 source on disk: mystics/santosh/SOURCE-EN.pdf, 2 translated poems; Kashmiri Be Soakh Rooh not yet sourced \u2014 second acquisition needed; paintings = lore/visual ref only)"
   }
  ],
  "note": "2026-11-04: 30 gold banked (#22 stava + #23-28 six small + #29 vbt 162v + #30 dehastha 16v; all CANONICAL 0 failures at completion, C2 in place; six golds qa re-run vs vendored legacy-L2 witnesses: SHIP_AS_IS + 2 WITH_NOTES adjudicated). 91 total = 30 gold + 61 pending. Pending = 4 no-repo (mahopadeshavimshatika 20v sourced, rahasyapanchadashika 16v sourced, tattvasandoha TBD, paramarthadvadasika 13v SOURCE in hand) + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). GOAL adopted 2026-11-04: all Abhinavagupta works shortest-first (stotras/prakaranas, then tantrasara ahnikas, then tantraloka ahnikas). Standing opens: first-verse L4 voice verdicts, human review, ptvmadhyama Vivrti scope, paratrimshika/ptvmadhyama recension scope."

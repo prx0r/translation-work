@@ -260,6 +260,9 @@ def promote(work: str, song: str) -> dict:
             w.update({"status": "gold (machine-proposed, minimal: L3/L4 waived)",
                       "gold": True, "verses": n or w.get("verses"),
                       "note": "minimal gold via swarm: T1/L0/argmap/L2/C1-essence, proof PASS; L3/L4 waived."})
+    reg["gold"] = sum(1 for w in reg["works"] if w.get("gold"))
+    reg["pending"] = sum(1 for w in reg["works"] if not w.get("gold"))
+    reg["total_works"] = len(reg["works"])
     rp.write_text(json.dumps(reg, indent=1, ensure_ascii=False))
     _run([str(ROOT / "tools" / "manifest.py"), "gen"], timeout=300)
     return {"promoted": True, "gate": gate, "proof": p,
