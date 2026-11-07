@@ -271,11 +271,25 @@ anything red → read the error, fix the layer, re-validate (never force)
 continue.sh (300s loop) ── sync registry → PLAN.json → seed
       │                      └─ ensures ralph.sh alive
       ▼
-ralph.sh (180s × 240) ── manifest → 5 workers → auto-review (briefs only)
+ralph.sh (180s × 240) ── manifest → workers ($RALPH_WORKERS, default 5)
+      │                   → auto-review (briefs only) → assessor_sweep (verdicts
+      │                     + escalations + lore-gap seeding, log only)
       │                   → convert pilots → validate_all --quick → push on green
       │                   → drain → park with review queue for assessor
       ▼
-watchdog.sh ── 429 health gate (pause 30m) → stale-claim reap (15m) → tal driver
+watchdog.sh ── 429 health gate (pause 30m, PAUSE-file: workers drain between
+      │           tasks, never killed mid-call) → stale-claim reap → tal driver
+      │           (flock singleton)
+      ▼
+tal_run_all.sh / tal_stage.py --loop ── seed → wait → assemble → validate → proof
+      ▼
+assessor (you, on wake) ── lore briefs → swarm_review/decide → hand-draft backlog
+                          → assemble/promote → HANDOVER → human review queue
+```
+
+Workers heartbeat their claim flags every 5 min during long beam calls, so a
+24-verse task in 429-backoff is never stolen mid-task; dead workers' claims
+self-heal at 15-min stale expiry.
       ▼
 tal_run_all.sh / tal_stage.py --loop ── seed → wait → assemble → validate → proof
       ▼

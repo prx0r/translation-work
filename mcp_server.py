@@ -445,14 +445,6 @@ def _workers(action: str, target: str = "1") -> dict:
             n = max(1, min(int(target), 5))
         except ValueError:
             return {"error": "start target must be a number 1..5"}
-        sys.path.insert(0, str(ROOT / "tools"))
-        try:
-            from beam_client import health
-            ok, msg = health()
-        except Exception as e:
-            ok, msg = False, str(e)[:200]
-        if not ok:
-            return {"started": [], "reason": f"beam down, not starting: {msg}"}
         key = _os.environ.get("OPENCODE_GO_KEY", "")
         if not key:
             try:
@@ -465,7 +457,16 @@ def _workers(action: str, target: str = "1") -> dict:
                 pass
         if not key:
             return {"started": [], "reason": "no OPENCODE_GO_KEY available"}
-        env = dict(_os.environ, OPENCODE_GO_KEY=key)
+        _os.environ["OPENCODE_GO_KEY"] = key
+        sys.path.insert(0, str(ROOT / "tools"))
+        try:
+            from beam_client import health
+            ok, msg = health()
+        except Exception as e:
+            ok, msg = False, str(e)[:200]
+        if not ok:
+            return {"started": [], "reason": f"beam down, not starting: {msg}"}
+        env = dict(_os.environ)
         alive = live()
         started = []
         for w in ("w1", "w2", "w3", "w4", "w5"):
