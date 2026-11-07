@@ -1,0 +1,773 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "durbhedapādapasyāsya",
+     "gloss": "of-this-hard-to-split-tree",
+     "grounds": "compound genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṛntanti",
+     "gloss": "cut",
+     "grounds": "plural action",
+     "morph": "3.pl.act.pres root kṛt"
+    },
+    {
+     "surface": "kovidāḥ",
+     "gloss": "wise-ones",
+     "grounds": "plural subject",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "dhārārūḍhena",
+     "gloss": "by-sharp-edge",
+     "grounds": "instrumental means",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "sattarkakuṭhāreṇeti",
+     "gloss": "by-true-logic-axe-thus",
+     "grounds": "instrumental means plus quotative",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "niścayaḥ",
+     "gloss": "certainty",
+     "grounds": "nominative conclusion",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What certain conclusion follows about cutting the root?",
+   "premises": [
+    "wise ones cut the root",
+    "they use a true logic axe",
+    "the root belongs to a hard tree"
+   ],
+   "inference": "true logic severs the root of delusion",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "The wise cut the root of this hard-to-split tree with the axe of true logic; this is certain."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "tāmenāṃ",
+     "gloss": "that-meditation",
+     "grounds": "accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "bhāvanāmāhuḥ",
+     "gloss": "call-meditation",
+     "grounds": "plural statement",
+     "morph": "3.pl.act.pres root ah"
+    },
+    {
+     "surface": "sarvakāmadughāṃ",
+     "gloss": "all-desires-milking",
+     "grounds": "accusative modifier",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "wise-ones",
+     "grounds": "plural subject",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sphuṭayedvastu",
+     "gloss": "may-clarify-thing",
+     "grounds": "optative action",
+     "morph": "3.sg.opt.act root sphuṭ"
+    },
+    {
+     "surface": "yāpetaṃ",
+     "gloss": "which-removes",
+     "grounds": "relative modifier",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "manosthapadādapi",
+     "gloss": "even-from-mind-place",
+     "grounds": "ablative source",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "What meditation do the wise call all-desire-milking?",
+   "premises": [
+    "the wise name that meditation",
+    "it milks all desires",
+    "it clarifies things"
+   ],
+   "inference": "meditation removes even mental residues",
+   "uncertainties": [
+    "relative clause scope is approximate"
+   ],
+   "plain_english": "The wise call that meditation all-desire-milking; it clarifies things and removes even what rests in the mind."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "śrīpūrvaśāstre",
+     "gloss": "in-prior-scripture",
+     "grounds": "locative source",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tatproktaṃ",
+     "gloss": "that-stated",
+     "grounds": "nominative statement",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tarko",
+     "gloss": "logic",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yogāṅgamuttamam",
+     "gloss": "best-yoga-limb",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "heyādyālocanāttasmāttatra",
+     "gloss": "from-considering-rejectable-things",
+     "grounds": "ablative reason",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "yatnaḥ",
+     "gloss": "effort",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "passive statement",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "Why is effort praised in the prior scripture?",
+   "premises": [
+    "logic is the best yoga limb",
+    "the prior scripture states this",
+    "effort is praised there"
+   ],
+   "inference": "effort in logic is praised because it examines rejectable things",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "In the prior scripture logic is stated to be the best limb of yoga, and effort is praised for considering what should be rejected."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "mārge",
+     "gloss": "on-path",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "cetaḥ",
+     "gloss": "mind",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sthirībhūtaṃ",
+     "gloss": "steadied",
+     "grounds": "nominative modifier",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "heye@pi",
+     "gloss": "even-in-rejectable",
+     "grounds": "locative concession",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "viṣayecchayā",
+     "gloss": "by-object-desire",
+     "grounds": "instrumental cause",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "prerya",
+     "gloss": "impelled",
+     "grounds": "participial action",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental agent",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "nayettāvadyāvatpadamanāmayam",
+     "gloss": "lead-until-diseaseless-state",
+     "grounds": "optative goal",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "How should steadied mind be led on the path?",
+   "premises": [
+    "mind is steadied on the path",
+    "object desire impels it",
+    "it is led by that"
+   ],
+   "inference": "steadied mind must be led until the diseaseless state",
+   "uncertainties": [
+    "sandhi split is approximate"
+   ],
+   "plain_english": "When the mind is steadied on the path, even desire for objects impels it; by that it should be led until the diseaseless state."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "mārgo@tra",
+     "gloss": "path-here",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mokṣopāyaḥ",
+     "gloss": "liberation-means",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "heyaḥ",
+     "gloss": "rejectable",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śāstrāntaroditaḥ",
+     "gloss": "arisen-in-other-scripture",
+     "grounds": "nominative modifier",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "viṣiṇoti",
+     "gloss": "pervades",
+     "grounds": "singular action",
+     "morph": "3.sg.act.pres root viṣ"
+    },
+    {
+     "surface": "nibadhnāti",
+     "gloss": "binds",
+     "grounds": "singular action",
+     "morph": "3.sg.act.pres root bandh"
+    },
+    {
+     "surface": "yecchā",
+     "gloss": "desire",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "niyatisaṃgatam",
+     "gloss": "joined-with-necessity",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Why is the path from other scripture rejectable?",
+   "premises": [
+    "the path here is liberation means",
+    "that path is rejectable",
+    "desire pervades and binds"
+   ],
+   "inference": "a path joined with necessity and desire binds rather than liberates",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "The path here is a means of liberation, but that path taught elsewhere is rejectable because desire pervades and binds what is joined with necessity."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "rāgatattvaṃ",
+     "gloss": "attachment-principle",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tayoktaṃ",
+     "gloss": "by-that-stated",
+     "grounds": "nominative modifier",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental agent",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "tatrānurajyate",
+     "gloss": "there-one-becomes-attached",
+     "grounds": "passive action",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmrājyasaṃbhogaṃ",
+     "gloss": "royal-enjoyment",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dṛṣṭvādṛṣṭvāthabādhame",
+     "gloss": "seeing-unseen-then-obstruction",
+     "grounds": "participial sequence",
+     "morph": "absolutive"
+    }
+   ],
+   "question": "How does attachment operate according to the stated principle?",
+   "premises": [
+    "attachment principle is stated by that",
+    "by it one becomes attached there",
+    "seeing royal enjoyment leads to attachment"
+   ],
+   "inference": "attachment arises through seeing and not seeing enjoyment",
+   "uncertainties": [
+    "participial sequence is compressed"
+   ],
+   "plain_english": "The principle of attachment, as stated by that, makes one attached there, just as seeing royal enjoyment, unseen obstruction, leads to attachment."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "bhoge",
+     "gloss": "in-enjoyment",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "rajyeta",
+     "gloss": "may-be-attached",
+     "grounds": "optative passive",
+     "morph": "3.sg.opt.pass"
+    },
+    {
+     "surface": "durbuddhistadvanmokṣe@pi",
+     "gloss": "even-in-liberation-like-evil-minded",
+     "grounds": "locative concession",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "rāgataḥ",
+     "gloss": "from-attachment",
+     "grounds": "ablative cause",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "evāṃśaka",
+     "gloss": "portion",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ityuktaḥ",
+     "gloss": "thus-said",
+     "grounds": "nominative modifier",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svabhāvākhyaḥ",
+     "gloss": "called-nature",
+     "grounds": "nominative modifier",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverbial modifier",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is clearly said about attachment in enjoyment and liberation?",
+   "premises": [
+    "one may be attached in enjoyment",
+    "even in liberation like the evil-minded",
+    "attachment is a portion of nature"
+   ],
+   "inference": "attachment is a natural portion that binds even in liberation",
+   "uncertainties": [
+    "sandhi split is approximate"
+   ],
+   "plain_english": "One may be attached in enjoyment, even in liberation like the evil-minded; that portion is called nature, and this is clearly said."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "siddhyaṅgamiti",
+     "gloss": "as-accomplishment-limb",
+     "grounds": "quotative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣāya",
+     "gloss": "for-liberation",
+     "grounds": "dative purpose",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "pratyūha",
+     "gloss": "obstacle",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kovidāḥ",
+     "gloss": "wise-ones",
+     "grounds": "nominative subject",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "śivaśāsanamāhātmyaṃ",
+     "gloss": "greatness-of-shiva-teaching",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vidannapyata",
+     "gloss": "even-knowing",
+     "grounds": "participial concession",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What do the wise call an obstacle to liberation?",
+   "premises": [
+    "wise ones speak thus",
+    "they know Shiva teaching greatness",
+    "even knowing it remains an obstacle"
+   ],
+   "inference": "calling something an accomplishment limb can still obstruct liberation",
+   "uncertainties": [
+    "participial form is approximate"
+   ],
+   "plain_english": "The wise say that what is called an accomplishment limb is an obstacle to liberation, even for those who know the greatness of Shiva's teaching."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "vaiṣṇavādhyeṣu",
+     "gloss": "in-vaishnava-teachings",
+     "grounds": "locative setting",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "rajyeta",
+     "gloss": "may-be-attached",
+     "grounds": "optative passive",
+     "morph": "3.sg.opt.pass"
+    },
+    {
+     "surface": "mūḍho",
+     "gloss": "fool",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "rāgeṇa",
+     "gloss": "by-attachment",
+     "grounds": "instrumental cause",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "rañjitaḥ",
+     "gloss": "colored",
+     "grounds": "nominative modifier",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yatastāvati",
+     "gloss": "because-so-much",
+     "grounds": "causal phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive modifier",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "vāmākhyā",
+     "gloss": "called-vama",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śaktiraiśvarī",
+     "gloss": "divine-power",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Why may a fool be attached in Vaishnava teachings?",
+   "premises": [
+    "a fool may be attached there",
+    "attachment colors him",
+    "that is his Vama power"
+   ],
+   "inference": "attachment in those teachings is a divine power called Vama",
+   "uncertainties": [
+    "causal phrase is approximate"
+   ],
+   "plain_english": "A fool may be attached in Vaishnava teachings, colored by attachment, because that is his divine power called Vama."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "pāñcarātrikavairiñcasaugatādervijṛmbhate",
+     "gloss": "expands-from-pañcaratra-and-others",
+     "grounds": "singular action",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "dṛṣṭāḥ",
+     "gloss": "seen",
+     "grounds": "nominative modifier",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sāmrājyasaṃbhogaṃ",
+     "gloss": "royal-enjoyment",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nindantaḥ",
+     "gloss": "blaming",
+     "grounds": "nominative modifier",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ke@pi",
+     "gloss": "some",
+     "grounds": "nominative subject",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vāliśāḥ",
+     "gloss": "foolish",
+     "grounds": "nominative predicate",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Who is seen blaming royal enjoyment?",
+   "premises": [
+    "some foolish ones are seen",
+    "they blame royal enjoyment",
+    "this expands from other traditions"
+   ],
+   "inference": "foolish critics of enjoyment arise from rival traditions",
+   "uncertainties": [
+    "compound is very long"
+   ],
+   "plain_english": "Some foolish ones are seen blaming royal enjoyment, and this expands from Pañcaratra, Brahma, and Buddhist traditions."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃtoṣataḥ",
+     "gloss": "from-contentment",
+     "grounds": "ablative source",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "sveṣu",
+     "gloss": "in-own",
+     "grounds": "locative setting",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "bhogeṣvāśīḥpravartanāt",
+     "gloss": "from-desire-proceeding",
+     "grounds": "ablative cause",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "evaṃcidbhairavāveśanindātatparamānasāḥ",
+     "gloss": "minds-intent-on-blaming-bhairava-possession",
+     "grounds": "nominative subject",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What makes minds intent on blaming Bhairava possession?",
+   "premises": [
+    "not from contentment",
+    "from desire proceeding in own enjoyments",
+    "minds become intent on blame"
+   ],
+   "inference": "blame of Bhairava possession arises from restless desire, not contentment",
+   "uncertainties": [
+    "compound is very long"
+   ],
+   "plain_english": "Not from contentment, but from desire proceeding in their own enjoyments, minds become intent on blaming Bhairava possession."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "bhavantyatisughorābhiḥ",
+     "gloss": "become-by-very-terrible",
+     "grounds": "instrumental cause",
+     "morph": "instr.pl.f"
+    },
+    {
+     "surface": "śaktibhiḥ",
+     "gloss": "by-powers",
+     "grounds": "instrumental means",
+     "morph": "instr.pl.f"
+    },
+    {
+     "surface": "pātitā",
+     "gloss": "fallen",
+     "grounds": "nominative modifier",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "inferential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāṃbhavamāhātmyaṃ",
+     "gloss": "greatness-of-shaiva-teaching",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jānanyaḥ",
+     "gloss": "knowing",
+     "grounds": "nominative subject",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "śāsanāntare",
+     "gloss": "in-other-teaching",
+     "grounds": "locative setting",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Why do knowers fall in other teachings?",
+   "premises": [
+    "very terrible powers make them fall",
+    "therefore they know Shaiva greatness",
+    "they are in other teachings"
+   ],
+   "inference": "knowers in other teachings fall because terrible powers overcome them",
+   "uncertainties": [
+    "participial form is approximate"
+   ],
+   "plain_english": "They become fallen by very terrible powers; therefore, even knowers in other teachings should know the greatness of the Shaiva teaching."
+  }
+ ]
+}

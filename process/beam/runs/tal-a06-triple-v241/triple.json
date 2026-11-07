@@ -1,0 +1,742 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "ekaikamardhapraharaṃ",
+     "gloss": "one-each-half-watch",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vargāṣṭakodayaḥ",
+     "gloss": "eight-varga-rise",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "night",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrāsavṛddhyatra",
+     "gloss": "decrease-increase-here",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kecidāhurna",
+     "gloss": "some-say-not",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "ke@pi",
+     "gloss": "some",
+     "grounds": "indefinite",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do some describe day and night varga rise?",
+   "premises": [
+    "eight vargas rise by half watch each day",
+    "night has decrease and increase",
+    "some deny this view"
+   ],
+   "inference": "The verse records a disputed calculation of varga rise across day and night.",
+   "uncertainties": [
+    "exact sandhi and compound boundaries"
+   ],
+   "plain_english": "Some say eight vargas rise by half a watch each day, with decrease and increase at night, while others disagree."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vargodayo",
+     "gloss": "varga-rise",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "night",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "divā",
+     "gloss": "day",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāpyardhayāmagaḥ",
+     "gloss": "half-watch-going",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇatrayodaśaśatī",
+     "gloss": "thirteen-hundred-breaths",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcāśadadhikā",
+     "gloss": "fifty-more",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the breath count for this varga rise?",
+   "premises": [
+    "this varga rise occurs night and day",
+    "it goes by half watch",
+    "thirteen hundred fifty breaths are counted"
+   ],
+   "inference": "The verse gives a breath total associated with the varga rise.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "This varga rise, moving by half a watch day and night, is counted as thirteen hundred fifty breaths."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "adhyardhā",
+     "gloss": "one-and-half",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkrāntirvarge",
+     "gloss": "transition-in-varga",
+     "grounds": "compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "varge",
+     "gloss": "varga",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "divāniśoḥ",
+     "gloss": "day-night",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "tadaikye",
+     "gloss": "their-union",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tūdayaścāraśatānāṃ",
+     "gloss": "rise-of-four-hundred",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saptaviṃśatiḥ",
+     "gloss": "twenty-seven",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many varga transitions occur in day and night?",
+   "premises": [
+    "one and half transition per varga",
+    "day and night are considered",
+    "four hundred twenty seven rise"
+   ],
+   "inference": "The verse states a transition count for vargas across day and night.",
+   "uncertainties": [
+    "exact numerical parsing"
+   ],
+   "plain_english": "Indeed, one and a half transitions occur per varga in day and night, and four hundred twenty-seven rise."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vargāṃstu",
+     "gloss": "vargas",
+     "grounds": "accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāhusteṣāṃ",
+     "gloss": "they-say-their",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "prāṇaśatī",
+     "gloss": "hundred-breaths",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svīn[viḥ]",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satribhāgaiva",
+     "gloss": "one-third-only",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃkrāntirvarge",
+     "gloss": "transition-in-varga",
+     "grounds": "compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pratyekamucyate",
+     "gloss": "each-is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What breath count is assigned to nine vargas?",
+   "premises": [
+    "nine vargas are mentioned",
+    "hundred breaths are assigned",
+    "one third transition per varga"
+   ],
+   "inference": "The verse assigns a breath count and transition fraction to nine vargas.",
+   "uncertainties": [
+    "bracketed editorial reading"
+   ],
+   "plain_english": "For the nine vargas, one hundred breaths are assigned, and a one-third transition per varga is stated."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "aharniśaṃ",
+     "gloss": "day-night",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadaikye",
+     "gloss": "their-union",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatānāṃ",
+     "gloss": "of-hundreds",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śruticakṣuṣī",
+     "gloss": "ear-eye",
+     "grounds": "compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "sthūlo",
+     "gloss": "gross",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vargodayaḥ",
+     "gloss": "varga-rise",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "so@yamathārṇodaya",
+     "gloss": "this-like-ocean-rise",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is the gross varga rise called?",
+   "premises": [
+    "day and night are united",
+    "hundreds are counted",
+    "gross varga rise is named"
+   ],
+   "inference": "The verse names the gross varga rise in a day-night union.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "In the union of day and night, the gross varga rise, counted in hundreds, is called by this ocean-like name."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "ekaikavarṇe",
+     "gloss": "each-letter",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prāṇānāṃ",
+     "gloss": "of-breaths",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dviśataṃ",
+     "gloss": "two-hundred",
+     "grounds": "numeral",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśādhikam",
+     "gloss": "sixteen-more",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahiścaṣakaṣaṭtriṃśaddina",
+     "gloss": "outside-cup-thirty-six-day",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāniśi",
+     "gloss": "so-at-night",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How many breaths belong to each letter?",
+   "premises": [
+    "each letter has breaths",
+    "two hundred sixteen are counted",
+    "outside and night are included"
+   ],
+   "inference": "The verse assigns a breath count to each letter, including outside and night.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Each letter has two hundred sixteen breaths, thus also at night and outside."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "śatamaṣṭottaraṃ",
+     "gloss": "hundred-eight-more",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raudraṃ",
+     "gloss": "raudra",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāktamathottaram",
+     "gloss": "shakta-then-more",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāmalasthitiyoge",
+     "gloss": "yamala-state-union",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraśaktyavibhāgitā",
+     "gloss": "rudra-shakti-indivisibility",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are raudra and shakta related?",
+   "premises": [
+    "one hundred eight are counted",
+    "raudra and shakta are named",
+    "rudra and shakti are indivisible"
+   ],
+   "inference": "The verse links raudra and shakta through indivisible rudra-shakti.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "There, one hundred eight raudra and shakta are counted, and rudra and shakti remain indivisible in yamala union."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "dinarātryavibhāge",
+     "gloss": "day-night-division",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛgvahnyabdhyasucāraṇāḥ",
+     "gloss": "sight-fire-water-moon-recitation",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sapañcamāṃśā",
+     "gloss": "with-fifth-part",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nāḍī",
+     "gloss": "nadi",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahirvarṇodayaḥ",
+     "gloss": "outside-letter-rise",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is remembered as outside letter rise?",
+   "premises": [
+    "day and night are divided",
+    "sight fire water moon recitation are named",
+    "fifth part nadi is included"
+   ],
+   "inference": "The verse remembers outside letter rise with these elements.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "In day-night division, sight, fire, water, moon, and recitation with a fifth part nadi are remembered as outside letter rise."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśikā",
+     "gloss": "fifty-verse",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varṇānāṃ",
+     "gloss": "of-letters",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paricarcitā",
+     "gloss": "discussed",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ekonāṃ",
+     "gloss": "one-less",
+     "grounds": "numeral",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmāhustanmataṃ",
+     "gloss": "they-call-that-opinion",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "saṃpracakṣmahe",
+     "gloss": "we-declare",
+     "grounds": "verb",
+     "morph": "1.pl.act-pres"
+    }
+   ],
+   "question": "What do others say about this fifty-verse discussion?",
+   "premises": [
+    "this fifty-verse discussion of letters is completed",
+    "some call it one less",
+    "we declare their opinion"
+   ],
+   "inference": "The verse closes the discussion and records an alternative opinion.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Thus this fifty-verse discussion of letters is completed; some call it one less, and we declare their opinion."
+  },
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "vedāścārāḥ",
+     "gloss": "vedas-four",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcamāṃśanyūnaṃ",
+     "gloss": "fifth-part-less",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cārārdhamekaśaḥ",
+     "gloss": "four-half-one-each",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇe@dhikaṃ",
+     "gloss": "letter-more",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "taddviguṇamavibhāge",
+     "gloss": "that-double-indivisible",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "divāniśoḥ",
+     "gloss": "day-night",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "How are vedas and quarters related to letters?",
+   "premises": [
+    "four vedas are named",
+    "fifth part less is stated",
+    "double indivisible day-night is given"
+   ],
+   "inference": "The verse relates vedas, quarters, and letters in day-night indivisibility.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Four vedas, fifth part less, and one each of four halves are more in a letter, doubled and indivisible in day and night."
+  },
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "sthūlo",
+     "gloss": "gross",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇodayaḥ",
+     "gloss": "letter-rise",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "so@yaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūkṣmo",
+     "gloss": "subtle",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is gross letter rise related to subtle?",
+   "premises": [
+    "gross letter rise is named",
+    "this was before",
+    "subtle is declared"
+   ],
+   "inference": "The verse contrasts gross letter rise with subtle declaration.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "This gross letter rise was before declared as subtle."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālatattvamuditaṃ",
+     "gloss": "time-principle-declared",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāstramukhāgamanijānubhavasiddham",
+     "gloss": "scripture-mouth-tradition-experience-established",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the time principle established?",
+   "premises": [
+    "thus time principle is declared",
+    "scripture mouth tradition experience establish it"
+   ],
+   "inference": "The verse states that the time principle is established by scripture, tradition, and experience.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Thus the time principle is declared, established by scripture, oral tradition, and experience."
+  }
+ ]
+}

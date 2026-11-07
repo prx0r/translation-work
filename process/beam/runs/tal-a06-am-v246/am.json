@@ -1,0 +1,15 @@
+{
+ "song": "tal-a06",
+ "verse": 246,
+ "question": "How many breaths belong to each letter?",
+ "premises": [
+  "each letter has breaths",
+  "two hundred sixteen are counted",
+  "outside and night are included"
+ ],
+ "inference": "The verse assigns a breath count to each letter, including outside and night.",
+ "uncertainties": [
+  "compound segmentation"
+ ],
+ "plain_english": "Each letter has two hundred sixteen breaths, thus also at night and outside."
+}

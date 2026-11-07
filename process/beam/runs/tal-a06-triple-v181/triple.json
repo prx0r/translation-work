@@ -1,0 +1,701 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "aṣṭātriṃśaṃ",
+     "gloss": "thirty-eighth",
+     "grounds": "numeral adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattattvaṃ",
+     "gloss": "that-principle",
+     "grounds": "demonstrative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatparāparam",
+     "gloss": "that-supreme-inferior",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "saṃvittvamevaitatspandamānaṃ",
+     "gloss": "consciousness-itself-this-pulsating",
+     "grounds": "compound participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svabhāvataḥ",
+     "gloss": "by-nature",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does consciousness pulsate by nature?",
+   "premises": [
+    "thirty-eighth principle is heart",
+    "that principle is supreme-inferior",
+    "consciousness pulsates by nature"
+   ],
+   "inference": "the heart principle is conscious pulsation",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The thirty-eighth principle is the heart, supreme and inferior, by which consciousness itself pulsates by nature."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "layodayā",
+     "gloss": "dissolution-arising",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "in-breath",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣaṣṭyabdodayakīrtanam",
+     "gloss": "sixty-year-cycle-praise",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "icchāmātrapratiṣṭheyaṃ",
+     "gloss": "will-only-established-this",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyāvaicitryacarcanā",
+     "gloss": "action-variety-discussion",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is dissolution and arising praised in breath?",
+   "premises": [
+    "dissolution and arising occur",
+    "breath carries sixty-year cycle",
+    "will alone establishes variety"
+   ],
+   "inference": "breath contains cyclic dissolution and arising",
+   "uncertainties": [
+    "compound boundaries uncertain"
+   ],
+   "plain_english": "Thus dissolution and arising are praised in breath through the sixty-year cycle, established by will alone, with discussion of action's variety."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "kālaśaktistato",
+     "gloss": "time-power-from-that",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "in-external",
+     "grounds": "locative adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "naitasyā",
+     "gloss": "not-of-this",
+     "grounds": "negated pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "fixed",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svapnasvapne",
+     "gloss": "dream-in-dream",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svapne",
+     "gloss": "in-dream",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "supte",
+     "gloss": "in-sleep",
+     "grounds": "locative participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃkalpagocare",
+     "gloss": "in-thought-range",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is time power fixed in external body?",
+   "premises": [
+    "time power arises from that",
+    "external body is not fixed",
+    "dream sleep and thought are ranges"
+   ],
+   "inference": "time power is not fixed in external body",
+   "uncertainties": [
+    "sandhi segmentation uncertain"
+   ],
+   "plain_english": "Time power arises from that; the external body is not fixed, whether in dream, sleep, or thought's range."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "samādhau",
+     "gloss": "in-samadhi",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśvasaṃhārasṛṣṭikramavivecane",
+     "gloss": "universe-dissolution-creation-order-distinction",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mito@pi",
+     "gloss": "measured-even",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālāṃśo",
+     "gloss": "time-portion",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vitatatvena",
+     "gloss": "by-extensiveness",
+     "grounds": "instrumental noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root bhās"
+    }
+   ],
+   "question": "How does time portion shine in samadhi?",
+   "premises": [
+    "samadhi distinguishes creation and dissolution",
+    "measured time portion shines",
+    "extensiveness makes it appear"
+   ],
+   "inference": "time appears extensively in samadhi",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In samadhi, distinguishing universe dissolution and creation, even a measured portion of time shines extensively."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "pramātrabhede",
+     "gloss": "in-knower-difference",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhede@tha",
+     "gloss": "in-difference-then",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "citro",
+     "gloss": "variegated",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vitatimāpyasau",
+     "gloss": "extensiveness-also-that",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "in-breath",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kriyāvaicitryaśaktijaḥ",
+     "gloss": "action-variety-power-born",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does time arise from action variety?",
+   "premises": [
+    "knower difference is variegated",
+    "extensiveness appears thus",
+    "time in breath is born from action variety power"
+   ],
+   "inference": "time arises from action variety power",
+   "uncertainties": [
+    "sandhi segmentation uncertain"
+   ],
+   "plain_english": "In difference of knowers, variegated extensiveness appears; thus in breath time is born from the power of action variety."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "tathāpāne@pi",
+     "gloss": "so-in-apana-even",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hṛdayānmūlapīṭhavisarpiṇi",
+     "gloss": "from-heart-root-seat-spreading",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mūlābhidhamahāpīṭhasaṅkocapravikāsayoḥ",
+     "gloss": "root-named-great-seat-contraction-expansion",
+     "grounds": "compound genitive",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "How does apana spread from heart?",
+   "premises": [
+    "apana also spreads",
+    "from heart root seat",
+    "contraction and expansion occur"
+   ],
+   "inference": "apana spreads through root seat contraction expansion",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "So in apana too, spreading from the heart's root seat, contraction and expansion of the great root seat occur."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "brahmādyanāśritāntānāṃ",
+     "gloss": "brahma-beginning-supported-end",
+     "grounds": "compound genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "cinute",
+     "gloss": "gathers",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root ci"
+    },
+    {
+     "surface": "sṛṣṭisaṃhṛtī",
+     "gloss": "creation-dissolution",
+     "grounds": "compound accusative",
+     "morph": "f.acc.du"
+    },
+    {
+     "surface": "śaśvadyadyapyapāno@ya",
+     "gloss": "always-although-apana-this",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mitthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahati",
+     "gloss": "carries",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root vah"
+    },
+    {
+     "surface": "kiṃtvasau",
+     "gloss": "but-that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does apana carry always?",
+   "premises": [
+    "brahma and supported ends gather creation dissolution",
+    "apana always carries thus",
+    "but that is different"
+   ],
+   "inference": "apana carries creation and dissolution",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "For brahma and supported ends, creation and dissolution are gathered; although apana always carries thus, that is different."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "avedyayatno",
+     "gloss": "unperceived-effort",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "by-effort",
+     "grounds": "instrumental noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "yogibhiḥ",
+     "gloss": "by-yogis",
+     "grounds": "instrumental noun",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "samupāsyate",
+     "gloss": "is-worshipped",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres + root upās"
+    },
+    {
+     "surface": "hṛtkandānandasaṃkocavikāsadvādaśāntagāḥ",
+     "gloss": "heart-bulb-bliss-contraction-expansion-twelve-end-going",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How is unperceived effort worshipped?",
+   "premises": [
+    "effort is unperceived",
+    "yogis worship by effort",
+    "heart bulb bliss contraction expansion reaches twelve end"
+   ],
+   "inference": "yogis worship unperceived effort",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Unperceived effort is worshipped by yogis through effort, reaching the end of twelve heart-bulb bliss contractions and expansions."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "brahmādayo@nāśritāntāḥ",
+     "gloss": "brahma-beginning-not-supported-end",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sevyante@tra",
+     "gloss": "are-served-here",
+     "grounds": "verb",
+     "morph": "3.pl.pass-pres + root sev"
+    },
+    {
+     "surface": "suyogibhiḥ",
+     "gloss": "by-good-yogis",
+     "grounds": "instrumental noun",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśānaśaktitvādviśvavartinaḥ",
+     "gloss": "supreme-lord-power-because-universe-dwelling",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who serves brahma and unsupported ends?",
+   "premises": [
+    "brahma and unsupported ends are served",
+    "good yogis serve them",
+    "they dwell in universe by supreme lord power"
+   ],
+   "inference": "good yogis serve universe-dwelling powers",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Brahma and unsupported ends are served here by good yogis, and these dwell in the universe by supreme lord power."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "dehamapyaśnuvānāstatkāraṇānīti",
+     "gloss": "body-even-obtaining-their-causes-thus",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kāmike",
+     "gloss": "in-kamika",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bālyayauvanavṛddhatvanidhaneṣu",
+     "gloss": "childhood-youth-old-age-death",
+     "grounds": "compound locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "punarbhave",
+     "gloss": "in-rebirth",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What causes are obtained in body?",
+   "premises": [
+    "body is obtained",
+    "causes are stated in kamika",
+    "childhood youth old age death and rebirth"
+   ],
+   "inference": "body obtains causes through life stages",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Thus obtaining the body, its causes are stated in Kamika through childhood, youth, old age, death, and rebirth."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "muktau",
+     "gloss": "in-liberation",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmādyāḥ",
+     "gloss": "brahma-beginning",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṣaḍadhiṣṭhānakāriṇaḥ",
+     "gloss": "six-seat-acting",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tasyānte",
+     "gloss": "at-its-end",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yukto",
+     "gloss": "joined",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres + root jan"
+    }
+   ],
+   "question": "Who is not born in liberation?",
+   "premises": [
+    "in liberation and body brahma beginning act in six seats",
+    "at end supreme goddess",
+    "where joined one is not born"
+   ],
+   "inference": "joined to supreme goddess one is not born",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In liberation and body, brahma and others act in six seats; at the end the supreme goddess is where the joined one is not born."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "jñātamātreṇa",
+     "gloss": "by-known-alone",
+     "grounds": "compound instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "dīkṣānugrahakṛdbhavet",
+     "gloss": "initiation-grace-doer-becomes",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "samastakāraṇollāsapade",
+     "gloss": "all-causes-unfolding-in-state",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "suvidite",
+     "gloss": "well-known",
+     "grounds": "participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What becomes known by this alone?",
+   "premises": [
+    "by this alone known",
+    "one becomes initiation grace doer",
+    "all causes unfold in well-known state"
+   ],
+   "inference": "knowing this makes one initiation grace doer",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By this alone, when known, one becomes the doer of initiation and grace, because all causes unfold in the well-known state."
+  }
+ ]
+}

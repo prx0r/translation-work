@@ -1,0 +1,749 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "ārabhyāharniśāvṛddhihrāsasaṅkrāntigo@pyasau",
+     "gloss": "beginning-day-night-increase-decrease-transit-going-this",
+     "grounds": "token 1",
+     "morph": "compound=beginning+day-night-increase-decrease-transit-going"
+    },
+    {
+     "surface": "rātryantadinapūrvāṃśau",
+     "gloss": "night-end-day-first-parts",
+     "grounds": "token 2",
+     "morph": "compound=night-end+day-first-parts"
+    },
+    {
+     "surface": "madhyāhno",
+     "gloss": "midday",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "divasakṣayaḥ",
+     "gloss": "day-decay",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does day and night transit proceed?",
+   "premises": [
+    "Day and night increase and decrease.",
+    "Transit occurs from night end to day first part."
+   ],
+   "inference": "Midday marks day decay.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Beginning with day and night increase and decrease, transit goes; night end and day first parts, midday, day decay."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śarvaryudayo",
+     "gloss": "night-rise",
+     "grounds": "token 2",
+     "morph": "compound=night+rise"
+    },
+    {
+     "surface": "madhyamudakto",
+     "gloss": "middle-spoken",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣutedṛśī",
+     "gloss": "pervasion-seen",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāptau",
+     "gloss": "in-pervasion",
+     "grounds": "token 5",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "viṣeryato",
+     "gloss": "pervading-going",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛttiḥ",
+     "gloss": "function",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sāmyaṃ",
+     "gloss": "equality",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāptirucyate",
+     "gloss": "pervasion-is-called",
+     "grounds": "token 10",
+     "morph": "3.sg.pass-pres+root-uc"
+    }
+   ],
+   "question": "What is called pervasion in this context?",
+   "premises": [
+    "Night rise and middle spoken are seen.",
+    "Pervasion and function are related."
+   ],
+   "inference": "Equality and pervasion are named.",
+   "uncertainties": [
+    "exact verbal sense uncertain"
+   ],
+   "plain_english": "That night rise, middle spoken, pervasion seen; in pervasion pervading going function, equality and pervasion is called."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "tadarhati",
+     "gloss": "that-deserves",
+     "grounds": "token 1",
+     "morph": "3.sg.act-pres+root-arh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālo",
+     "gloss": "time",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣuvattadihoditaḥ",
+     "gloss": "equinox-there-spoken",
+     "grounds": "token 5",
+     "morph": "compound=equinox+there-spoken"
+    },
+    {
+     "surface": "viṣuvatprabhṛti",
+     "gloss": "from-equinox",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrāsavṛddhī",
+     "gloss": "decrease-increase",
+     "grounds": "token 7",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "token 8",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dinarātrige",
+     "gloss": "day-night-going",
+     "grounds": "token 9",
+     "morph": "compound=day-night+going"
+    }
+   ],
+   "question": "Which time deserves equinox mention?",
+   "premises": [
+    "Equinox time is spoken there.",
+    "Decrease and increase begin from equinox."
+   ],
+   "inference": "Day and night going are those times.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "That deserves, and which time equinox spoken there; from equinox decrease and increase, which day night going."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "tatkrameṇaiva",
+     "gloss": "by-that-order-only",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkrāntihrāsavṛddhī",
+     "gloss": "transit-decrease-increase",
+     "grounds": "token 2",
+     "morph": "compound=transit+decrease-increase"
+    },
+    {
+     "surface": "divāniśoḥ",
+     "gloss": "of-day-night",
+     "grounds": "token 3",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samānamaruto",
+     "gloss": "equal-wind",
+     "grounds": "token 5",
+     "morph": "compound=equal+wind"
+    },
+    {
+     "surface": "varṣadvayavikalpanam",
+     "gloss": "two-year-alternation",
+     "grounds": "token 6",
+     "morph": "compound=two-year+alternation"
+    }
+   ],
+   "question": "How are transit decrease and increase ordered?",
+   "premises": [
+    "By that order transit decrease increase occurs.",
+    "Day and night are involved."
+   ],
+   "inference": "Thus equal wind two year alternation.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By that order only transit decrease increase of day night; thus equal wind two year alternation."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "cāra",
+     "gloss": "motion",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nahyatra",
+     "gloss": "not-here",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śvāsapraśvāsacarcanam",
+     "gloss": "breath-inbreath-practice",
+     "grounds": "token 4",
+     "morph": "compound=breath+inbreath+practice"
+    },
+    {
+     "surface": "samāne@pi",
+     "gloss": "even-equal",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṭeḥ",
+     "gloss": "of-tuṭi",
+     "grounds": "token 6",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvatṣaṣṭyabdagocaram",
+     "gloss": "up-to-sixty-year-range",
+     "grounds": "token 8",
+     "morph": "compound=up-to+sixty-year+range"
+    }
+   ],
+   "question": "Where is breath practice not here?",
+   "premises": [
+    "Motion is in one place.",
+    "Breath practice is not here."
+   ],
+   "inference": "Even equal tuṭi before up to sixty year range.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Motion in one place, not here breath practice; even equal tuṭi before up to sixty year range."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "kālasaṃkhyā",
+     "gloss": "time-number",
+     "grounds": "token 1",
+     "morph": "compound=time+number"
+    },
+    {
+     "surface": "susūkṣmaikacāragā",
+     "gloss": "very-subtle-single-motion-going",
+     "grounds": "token 2",
+     "morph": "compound=very-subtle+single-motion-going"
+    },
+    {
+     "surface": "gaṇyate",
+     "gloss": "is-counted",
+     "grounds": "token 3",
+     "morph": "3.sg.pass-pres+root-gan"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "token 4",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saṃdhyāpūrvāhṇamadhyāhnamadhyarātrādi",
+     "gloss": "dawn-morning-midday-midnight-etc",
+     "grounds": "token 5",
+     "morph": "compound=dawn+morning+midday+midnight+etc"
+    },
+    {
+     "surface": "yatkila",
+     "gloss": "which-indeed",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is time number counted?",
+   "premises": [
+    "Time number is very subtle single motion going.",
+    "Wise count it."
+   ],
+   "inference": "Dawn morning midday midnight etc which indeed.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Time number very subtle single motion going is counted by wise; dawn morning midday midnight etc which indeed."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "antaḥsaṃkrāntigaṃ",
+     "gloss": "inner-transit-going",
+     "grounds": "token 1",
+     "morph": "compound=inner+transit-going"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-grasped",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tanmukhyaṃ",
+     "gloss": "that-chief",
+     "grounds": "token 3",
+     "morph": "compound=that+chief"
+    },
+    {
+     "surface": "tatphaloditeḥ",
+     "gloss": "from-that-fruit-rise",
+     "grounds": "token 4",
+     "morph": "compound=that-fruit+rise"
+    },
+    {
+     "surface": "uktaḥ",
+     "gloss": "spoken",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samānagaḥ",
+     "gloss": "equal-going",
+     "grounds": "token 6",
+     "morph": "compound=equal+going"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udāne",
+     "gloss": "in-udana",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-determined",
+     "grounds": "token 10",
+     "morph": "3.sg.pass-pres+root-nirup"
+    }
+   ],
+   "question": "What is to be grasped as chief?",
+   "premises": [
+    "Inner transit going is to be grasped.",
+    "That chief from that fruit rise."
+   ],
+   "inference": "Spoken equal going time in udana but is determined.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Inner transit going to be grasped, that chief from that fruit rise; spoken equal going time in udana but is determined."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "prāṇavyāptau",
+     "gloss": "in-prana-pervasion",
+     "grounds": "token 1",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "what-spoken",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadudāne@pyatra",
+     "gloss": "that-in-udana-here",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "only",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsāśaktyantayoḥ",
+     "gloss": "of-nose-power-ends",
+     "grounds": "token 5",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "token 6",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmarandhrordhvadhāmanī",
+     "gloss": "brahman-hole-upper-abodes",
+     "grounds": "token 7",
+     "morph": "compound=brahman-hole+upper-abodes"
+    }
+   ],
+   "question": "What is said in prana pervasion?",
+   "premises": [
+    "What spoken in prana pervasion.",
+    "That in udana here only."
+   ],
+   "inference": "Nose power ends place brahman hole upper abodes.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In prana pervasion what spoken, that in udana here only; nose power ends place brahman hole upper abodes."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "tenodāne@tra",
+     "gloss": "by-that-in-udana-here",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayānmūrdhanyadvādaśāntagam",
+     "gloss": "from-heart-to-crown-twelve-end-going",
+     "grounds": "token 2",
+     "morph": "compound=from-heart+to-crown+twelve-end-going"
+    },
+    {
+     "surface": "tuṭyādiṣaṣṭivarṣāntaṃ",
+     "gloss": "tuṭi-etc-sixty-year-end",
+     "grounds": "token 3",
+     "morph": "compound=tuṭi-etc+sixty-year-end"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "whole",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "token 5",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vicārayet",
+     "gloss": "should-examine",
+     "grounds": "token 6",
+     "morph": "3.sg.opt-act+root-vicar"
+    }
+   ],
+   "question": "How should whole time be examined?",
+   "premises": [
+    "By that in udana here.",
+    "From heart to crown twelve end going."
+   ],
+   "inference": "Tuṭi etc sixty year end whole time should examine.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By that in udana here from heart to crown twelve end going; tuṭi etc sixty year end whole time should examine."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "vyāne",
+     "gloss": "in-vyana",
+     "grounds": "token 1",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvātmamaye",
+     "gloss": "whole-self-full",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vyāpake",
+     "gloss": "pervading",
+     "grounds": "token 4",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kramavarjite",
+     "gloss": "sequence-free",
+     "grounds": "token 5",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sūkṣmasūkṣmocchaladrūpamātraḥ",
+     "gloss": "subtle-subtle-rising-form-only",
+     "grounds": "token 6",
+     "morph": "compound=subtle-subtle+rising-form-only"
+    },
+    {
+     "surface": "kālo",
+     "gloss": "time",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyavasthitaḥ",
+     "gloss": "established",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is time established in vyana?",
+   "premises": [
+    "In vyana but whole self full pervading.",
+    "Sequence free subtle subtle rising form only."
+   ],
+   "inference": "Time established.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In vyana but whole self full pervading sequence free; subtle subtle rising form only time established."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "sṛṣṭiḥ",
+     "gloss": "creation",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pravilayaḥ",
+     "gloss": "dissolution",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthemā",
+     "gloss": "stability",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃhāro@nugraho",
+     "gloss": "absorption-grace",
+     "grounds": "token 4",
+     "morph": "compound=absorption+grace"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramātprāṇādike",
+     "gloss": "by-order-from-prana-etc",
+     "grounds": "token 6",
+     "morph": "compound=by-order+from-prana-etc"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "token 8",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "token 9",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatrāśrayettataḥ",
+     "gloss": "there-rests-thence",
+     "grounds": "token 10",
+     "morph": "3.sg.opt-act+root-asri"
+    }
+   ],
+   "question": "Why do creation and dissolution occur?",
+   "premises": [
+    "Creation dissolution stability absorption grace.",
+    "Because by order from prana etc in time."
+   ],
+   "inference": "That that there rests thence.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Creation dissolution stability absorption grace; because by order from prana etc in time, that that there rests thence."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "prāṇacāre@tra",
+     "gloss": "in-prana-motion-here",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "which",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇapadamantrodayaḥ",
+     "gloss": "syllable-word-mantra-rise",
+     "grounds": "token 3",
+     "morph": "compound=syllable+word+mantra+rise"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "established",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatnajo@yatnajaḥ",
+     "gloss": "effort-born-effort-born",
+     "grounds": "token 5",
+     "morph": "compound=effort-born+effort-born"
+    },
+    {
+     "surface": "sūkṣmaḥ",
+     "gloss": "subtle",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthūlaḥ",
+     "gloss": "gross",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-said",
+     "grounds": "token 10",
+     "morph": "3.sg.pass-pres+root-kath"
+    }
+   ],
+   "question": "What is said in prana motion?",
+   "premises": [
+    "In prana motion here which syllable word mantra rise established.",
+    "Effort born effort born subtle supreme gross."
+   ],
+   "inference": "That is said.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In prana motion here which syllable word mantra rise established; effort born effort born subtle supreme gross, that is said."
+  }
+ ]
+}
