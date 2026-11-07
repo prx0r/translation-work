@@ -1,0 +1,863 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "verse token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "verse token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "verse token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manyante",
+     "gloss": "they-think",
+     "grounds": "verse token 4",
+     "morph": "3.pl.act-pres root man"
+    },
+    {
+     "surface": "saṃpradāyadhanā",
+     "gloss": "tradition-wealthy",
+     "grounds": "verse token 5",
+     "morph": "compound member+membership"
+    },
+    {
+     "surface": "janāḥ",
+     "gloss": "people",
+     "grounds": "verse token 6",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "verse token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "verse token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyatāṃ",
+     "gloss": "let-be-seen",
+     "grounds": "verse token 9",
+     "morph": "3.sg.pass.impv root dṛś"
+    },
+    {
+     "surface": "loko",
+     "gloss": "world",
+     "grounds": "verse token 10",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghaṭādervedane",
+     "gloss": "in-pot-etc-perception",
+     "grounds": "verse token 11",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "verse token 12",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why do people think consciousness is near in pleasure but far in pain?",
+   "premises": [
+    "people think tradition-wealthy",
+    "world seen as pot perception",
+    "as in pleasure perception"
+   ],
+   "inference": "The verse contrasts nearness and distance in perception.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Therefore indeed people think so, for let the world be seen as in perception of pot and so on."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "prayatnavānivābhāti",
+     "gloss": "appears-as-one-with-effort",
+     "grounds": "verse token 1",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "verse token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "verse token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhavedane",
+     "gloss": "in-pleasure-perception",
+     "grounds": "verse token 4",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "āntaratvamidaṃ",
+     "gloss": "this-internality",
+     "grounds": "verse token 5",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prāhuḥ",
+     "gloss": "they-say",
+     "grounds": "verse token 6",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "saṃvinnaikaṭyaśālitām",
+     "gloss": "consciousness-nearness-possession",
+     "grounds": "verse token 7",
+     "morph": "acc.sg"
+    }
+   ],
+   "question": "What do they call internality in pleasure perception?",
+   "premises": [
+    "appears as one with effort",
+    "so what in pleasure perception",
+    "this internality they say"
+   ],
+   "inference": "Internality is named as consciousness-nearness.",
+   "uncertainties": [
+    "long compound segmentation approximate"
+   ],
+   "plain_english": "It appears as one with effort; so what is this internality in pleasure perception? They say consciousness-nearness."
+  },
+  {
+   "verse": 219,
+   "rows": [
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "verse token 1",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cidrūpatonmeṣaṃ",
+     "gloss": "consciousness-form-manifestation",
+     "grounds": "verse token 3",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "bāhyatvaṃ",
+     "gloss": "externality",
+     "grounds": "verse token 4",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tannimeṣatām",
+     "gloss": "its-closing",
+     "grounds": "verse token 5",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "bhavināṃ",
+     "gloss": "of-beings",
+     "grounds": "verse token 6",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "tvantiko@pyevaṃ",
+     "gloss": "even-near",
+     "grounds": "verse token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhātītyatidūratā",
+     "gloss": "appears-so-extreme-distance",
+     "grounds": "verse token 9",
+     "morph": "nom.sg"
+    }
+   ],
+   "question": "Why does externality not appear near for beings?",
+   "premises": [
+    "that consciousness-form manifestation",
+    "externality its closing",
+    "of beings even near not appears"
+   ],
+   "inference": "Extreme distance is asserted rather than nearness.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "That consciousness-form manifestation and externality, its closing for beings, even near does not appear, so extreme distance."
+  },
+  {
+   "verse": 220,
+   "rows": [
+    {
+     "surface": "dūre@pi",
+     "gloss": "even-far",
+     "grounds": "verse token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hyantikībhūte",
+     "gloss": "having-become-near",
+     "grounds": "verse token 2",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "bhānaṃ",
+     "gloss": "appearance",
+     "grounds": "verse token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "syāttvatra",
+     "gloss": "may-be-here",
+     "grounds": "verse token 4",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "tatkatham",
+     "gloss": "how-then",
+     "grounds": "verse token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījāṅkuralatādalapuṣpaphalādivat",
+     "gloss": "like-seed-sprout-vine-leaf-flower-fruit-etc",
+     "grounds": "verse token 8",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can appearance be near when far?",
+   "premises": [
+    "even far having become near",
+    "appearance may be here",
+    "how then not like seed etc"
+   ],
+   "inference": "The verse questions nearness through a seed-sprout analogy.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Even far, having become near, appearance may be here; how then not like seed, sprout, vine, leaf, flower, fruit, and so on?"
+  },
+  {
+   "verse": 221,
+   "rows": [
+    {
+     "surface": "kramikeyaṃ",
+     "gloss": "this-sequential",
+     "grounds": "verse token 1",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhavetsaṃvitsūtastatra",
+     "gloss": "may-be-consciousness-thread-there",
+     "grounds": "verse token 2",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "kilāṅkuraḥ",
+     "gloss": "indeed-sprout",
+     "grounds": "verse token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bījāllatā",
+     "gloss": "from-seed-vine",
+     "grounds": "verse token 4",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tvaṅkurānno",
+     "gloss": "and-sprout-not",
+     "grounds": "verse token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījādiha",
+     "gloss": "seed-here",
+     "grounds": "verse token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-all",
+     "grounds": "verse token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is this sequential consciousness thread like a sprout from seed?",
+   "premises": [
+    "this sequential may be consciousness thread there",
+    "indeed sprout from seed vine",
+    "and sprout not seed here from all"
+   ],
+   "inference": "Sequentiality is questioned through seed and sprout imagery.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "This sequential thing may be a consciousness thread there; indeed a sprout from seed, vine, and not a sprout from seed here from all."
+  },
+  {
+   "verse": 222,
+   "rows": [
+    {
+     "surface": "saṃvittattvaṃ",
+     "gloss": "consciousness-principle",
+     "grounds": "verse token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhāsamānaṃ",
+     "gloss": "shining",
+     "grounds": "verse token 2",
+     "morph": "nom.sg.n pres.part"
+    },
+    {
+     "surface": "paripūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "verse token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "verse token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "verse token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "verse token 6",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "verse token 7",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "verse token 8",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvatraivoditaṃ",
+     "gloss": "arisen-everywhere",
+     "grounds": "verse token 9",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "verse token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is consciousness principle called complete cause?",
+   "premises": [
+    "consciousness principle shining complete",
+    "for everywhere of all cause",
+    "declared arisen everywhere because"
+   ],
+   "inference": "Consciousness is complete, everywhere, and cause of all.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The consciousness principle, shining and complete everywhere, is declared the cause of all, arisen everywhere, because."
+  },
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "therefore",
+     "grounds": "verse token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "verse token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭe@pyeṣā",
+     "gloss": "even-in-pot-this",
+     "grounds": "verse token 3",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prāṇavṛttiryadi",
+     "gloss": "if-breath-function",
+     "grounds": "verse token 4",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sphuret",
+     "gloss": "may-shine",
+     "grounds": "verse token 5",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "viśrāmyeccāśu",
+     "gloss": "may-rest-quickly",
+     "grounds": "verse token 6",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "verse token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivabīje",
+     "gloss": "in-shiva-seed",
+     "grounds": "verse token 8",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "layaṃ",
+     "gloss": "dissolution",
+     "grounds": "verse token 9",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-go",
+     "grounds": "verse token 10",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What happens if breath function shines in the pot?",
+   "premises": [
+    "therefore indeed even in pot this",
+    "if breath function may shine",
+    "may rest quickly there indeed in Shiva seed dissolution may go"
+   ],
+   "inference": "Breath shining leads to rest and dissolution in Shiva seed.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Therefore indeed, even in the pot, if this breath function shines, it may rest quickly; there indeed it may go to dissolution in the Shiva seed."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramikatā",
+     "gloss": "sequentiality",
+     "grounds": "verse token 3",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kācicchivātmatve",
+     "gloss": "in-shiva-selfhood",
+     "grounds": "verse token 4",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "verse token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyanmantrādi(dhi)nāthādi",
+     "gloss": "other-mantra-etc-lord-etc",
+     "grounds": "verse token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "verse token 7",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tattu",
+     "gloss": "but-that",
+     "grounds": "verse token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃnidheḥ",
+     "gloss": "of-proximity",
+     "grounds": "verse token 9",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "Is sequentiality ever a cause in Shiva selfhood?",
+   "premises": [
+    "not but sequentiality in Shiva selfhood ever",
+    "other mantra etc lord etc cause",
+    "but that of proximity"
+   ],
+   "inference": "Sequentiality is denied as cause; proximity is emphasized.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "But sequentiality is never a cause in Shiva selfhood; other mantra and lord and so on are not the cause, but that is of proximity."
+  },
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "śivābhedācca",
+     "gloss": "and-from-shiva-non-difference",
+     "grounds": "verse token 1",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "verse token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cātha",
+     "gloss": "and-then",
+     "grounds": "verse token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvaite",
+     "gloss": "in-duality",
+     "grounds": "verse token 4",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "naikaṭyavedanāt",
+     "gloss": "from-nearness-perception",
+     "grounds": "verse token 5",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "anayā",
+     "gloss": "by-this",
+     "grounds": "verse token 6",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśā",
+     "gloss": "direction",
+     "grounds": "verse token 8",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "verse token 9",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "verse token 10",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravivecayan",
+     "gloss": "discriminating",
+     "grounds": "verse token 11",
+     "morph": "nom.sg.m pres.part"
+    }
+   ],
+   "question": "How does Shiva non-difference affect duality?",
+   "premises": [
+    "and from Shiva non-difference what",
+    "and then in duality from nearness perception",
+    "by this and direction all always discriminating"
+   ],
+   "inference": "Non-difference leads to discriminating all through nearness perception.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "And from Shiva non-difference, what then in duality from nearness perception? By this direction all is always discriminated."
+  },
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "bhairavāyata",
+     "gloss": "extended-bhairava",
+     "grounds": "verse token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "verse token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "drāk",
+     "gloss": "immediately",
+     "grounds": "verse token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ciccakreśvaratāṃ",
+     "gloss": "consciousness-wheel-lordship",
+     "grounds": "verse token 4",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "verse token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "verse token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "verse token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇago",
+     "gloss": "breath-goer",
+     "grounds": "verse token 8",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "verse token 9",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "khecarīcakragopitaḥ",
+     "gloss": "hidden-by-khechari-wheel",
+     "grounds": "verse token 10",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How does extended Bhairava attain consciousness-wheel lordship?",
+   "premises": [
+    "extended Bhairava indeed immediately",
+    "consciousness-wheel lordship gone he",
+    "thus breath-goer difference hidden by Khechari wheel"
+   ],
+   "inference": "Extended Bhairava immediately attains lordship, with difference hidden.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Extended Bhairava indeed immediately has gone to consciousness-wheel lordship; thus the breath-goer difference is hidden by the Khechari wheel."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "verse token 1",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "prakaṭitaḥ",
+     "gloss": "revealed",
+     "grounds": "verse token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śrīmacchāmbhavājñānuvartinā",
+     "gloss": "following-shambhava-command",
+     "grounds": "verse token 3",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "atraivādhvani",
+     "gloss": "in-this-path",
+     "grounds": "verse token 4",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vedyatvaṃ",
+     "gloss": "knowability",
+     "grounds": "verse token 5",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prāpte",
+     "gloss": "having-attained",
+     "grounds": "verse token 6",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "verse token 7",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃvidudbhavet",
+     "gloss": "consciousness-may-arise",
+     "grounds": "verse token 8",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What is revealed in this path?",
+   "premises": [
+    "by me revealed following Shambhava command",
+    "in this path knowability having attained",
+    "which consciousness may arise"
+   ],
+   "inference": "Knowability attained in the path lets consciousness arise.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "By me, following Shambhava command, it is revealed: in this path, knowability having been attained, consciousness may arise."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "verse token 1",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "svakaṃ",
+     "gloss": "own",
+     "grounds": "verse token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yadvaicitryaṃ",
+     "gloss": "whatever-variety",
+     "grounds": "verse token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tadavasthāpadābhidham",
+     "gloss": "called-state-word",
+     "grounds": "verse token 4",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jāgratsvapnaḥ",
+     "gloss": "waking-dream",
+     "grounds": "verse token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "suṣuptaṃ",
+     "gloss": "deep-sleep",
+     "grounds": "verse token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "turyaṃ",
+     "gloss": "fourth",
+     "grounds": "verse token 8",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadatītakam",
+     "gloss": "beyond-that",
+     "grounds": "verse token 10",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What states are named for consciousness variety?",
+   "premises": [
+    "of that own whatever variety",
+    "called state word",
+    "waking dream deep sleep and fourth and beyond that"
+   ],
+   "inference": "Consciousness variety is named through waking, dream, sleep, fourth, and beyond.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Of that, its own variety is called state-word: waking, dream, deep sleep, and the fourth, and beyond that."
+  }
+ ]
+}

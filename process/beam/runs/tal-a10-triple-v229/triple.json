@@ -1,0 +1,797 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "pañca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padānyāhurekasminvedake",
+     "gloss": "words-they-say-in-one-veda",
+     "grounds": "pada-āhu-eka-veda",
+     "morph": "compound"
+    },
+    {
+     "surface": "sati",
+     "gloss": "when-existing",
+     "grounds": "sat",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaiṣā",
+     "gloss": "this",
+     "grounds": "yad",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "dharātattvācchivāntā",
+     "gloss": "from-earth-principle-to-shiva-ending",
+     "grounds": "dharā-tattva-śiva-anta",
+     "morph": "compound"
+    },
+    {
+     "surface": "tattvapaddhatiḥ",
+     "gloss": "principle-pathway",
+     "grounds": "tattva-paddhati",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is the principle pathway from earth to Shiva?",
+   "premises": [
+    "five words are said in one Veda",
+    "the pathway runs from earth principle to Shiva"
+   ],
+   "inference": "the Veda names a graded principle pathway",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus they say five words in one Veda; there this pathway of principles runs from earth principle to Shiva."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "tasyāmekaḥ",
+     "gloss": "in-that-one",
+     "grounds": "tad-eka",
+     "morph": "compound"
+    },
+    {
+     "surface": "pramātā",
+     "gloss": "knower",
+     "grounds": "pramātṛ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "cedavaśyaṃ",
+     "gloss": "if-necessarily",
+     "grounds": "ced-avaśyam",
+     "morph": "compound"
+    },
+    {
+     "surface": "jāgradādikam",
+     "gloss": "waking-and-so-forth",
+     "grounds": "jāgrat-ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "taddarśyate",
+     "gloss": "that-is-shown",
+     "grounds": "tad-dṛś",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "śaṃbhunāthaprasādādviditaṃ",
+     "gloss": "by-Shambhunatha-grace-known",
+     "grounds": "śaṃbhunātha-prasāda-vid",
+     "morph": "compound"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "mad",
+     "morph": "inst.sg"
+    }
+   ],
+   "question": "How is waking and the rest shown?",
+   "premises": [
+    "in that one knower waking and the rest necessarily appear",
+    "it is shown by Shambhunatha's grace"
+   ],
+   "inference": "the knower's states are revealed through grace",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In that one knower, if necessarily, waking and the rest are shown; by Shambhunatha's grace this is known by me."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "yadadhiṣṭheyameveha",
+     "gloss": "what-is-to-be-superintended-only-here",
+     "grounds": "yad-adhiṣṭheya-eva-iha",
+     "morph": "compound"
+    },
+    {
+     "surface": "nādhiṣṭhātṛ",
+     "gloss": "not-superintender",
+     "grounds": "na-adhiṣṭhātṛ",
+     "morph": "compound"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "kadācana",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvedanagataṃ",
+     "gloss": "in-experience",
+     "grounds": "saṃvedana-gata",
+     "morph": "compound"
+    },
+    {
+     "surface": "vedyaṃ",
+     "gloss": "known-object",
+     "grounds": "vedya",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tajjāgratsamudāhṛtam",
+     "gloss": "that-is-called-waking",
+     "grounds": "tad-jāgrat-samudāhṛta",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is called waking in this teaching?",
+   "premises": [
+    "what is to be superintended only is never the superintender",
+    "the known object in experience is waking"
+   ],
+   "inference": "waking is the superintended known object",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "What is to be superintended only here is never the superintender; the known object in experience is called waking."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "caitramaitrādibhūtāni",
+     "gloss": "things-like-Chaitra-Maitra",
+     "grounds": "caitra-maitra-ādi-bhūta",
+     "morph": "compound"
+    },
+    {
+     "surface": "tattvāni",
+     "gloss": "principles",
+     "grounds": "tattva",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharāditaḥ",
+     "gloss": "from-earth",
+     "grounds": "dharā-ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "abhidhākaraṇībhūtāḥ",
+     "gloss": "become-means-of-denotation",
+     "grounds": "abhidhā-karaṇa-bhūta",
+     "morph": "compound"
+    },
+    {
+     "surface": "śabdāḥ",
+     "gloss": "words",
+     "grounds": "śabda",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "kim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cābhidhā",
+     "gloss": "and-denotation",
+     "grounds": "ca-abhidhā",
+     "morph": "compound"
+    },
+    {
+     "surface": "pramā",
+     "gloss": "cognition",
+     "grounds": "pramā",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What are words and denotation in waking?",
+   "premises": [
+    "things like Chaitra and Maitra are principles from earth",
+    "words become means of denotation",
+    "denotation is cognition"
+   ],
+   "inference": "waking cognition includes denoting words and principles",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Things like Chaitra and Maitra are principles from earth; words become means of denotation; what? denotation too is cognition."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "pramātṛmeyatanmānapramārūpaṃ",
+     "gloss": "knower-known-means-cognition-form",
+     "grounds": "pramātṛ-meya-tanmāna-pramā-rūpa",
+     "morph": "compound"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "fourfold",
+     "grounds": "catuṣṭaya",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "viśvametadadhiṣṭheyaṃ",
+     "gloss": "this-universe-to-be-superintended",
+     "grounds": "viśva-etad-adhiṣṭheya",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "yadā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāgrattadā",
+     "gloss": "waking-then",
+     "grounds": "jāgrat-tadā",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "smṛ",
+     "morph": "part.pass"
+    }
+   ],
+   "question": "When is the fourfold universe remembered?",
+   "premises": [
+    "the fourfold is knower known means and cognition",
+    "this universe is to be superintended",
+    "when waking then it is remembered"
+   ],
+   "inference": "waking remembers the superintended fourfold universe",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The fourfold of knower, known, means of knowledge, and cognition; this universe is to be superintended; when waking, then it is remembered."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "tathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "appears",
+     "grounds": "bhās",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yattannīlamantaḥ",
+     "gloss": "that-blue-within",
+     "grounds": "yat-tad-nīla-antar",
+     "morph": "compound"
+    },
+    {
+     "surface": "pravedane",
+     "gloss": "in-cognition",
+     "grounds": "pravedana",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "saṃkalparūpe",
+     "gloss": "in-thought-form",
+     "grounds": "saṃkalpa-rūpa",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bāhyasya",
+     "gloss": "of-external",
+     "grounds": "bāhya",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "tadadhiṣṭhātṛ",
+     "gloss": "its-superintender",
+     "grounds": "tad-adhiṣṭhātṛ",
+     "morph": "compound"
+    },
+    {
+     "surface": "bodhakam",
+     "gloss": "cognizer",
+     "grounds": "bodhaka",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What appears as cognizer in waking?",
+   "premises": [
+    "blue appears within in thought-form cognition",
+    "of the external its superintender is cognizer"
+   ],
+   "inference": "the superintender cognizes the appearing blue",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "For thus appears that blue within in cognition of thought-form; of the external, its superintender is the cognizer."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "yattu",
+     "gloss": "but-that",
+     "grounds": "yat-tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "bāhyatayā",
+     "gloss": "as-external",
+     "grounds": "bāhyatā",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "nīlaṃ",
+     "gloss": "blue",
+     "grounds": "nīla",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "cakāstyasya",
+     "gloss": "shines-of-him",
+     "grounds": "cakāsti-asya",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "vid",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "kathaṃcidapyadhiṣṭhātṛbhāvastajjāgraducyate",
+     "gloss": "in-any-way-superintender-state-that-waking-is-called",
+     "grounds": "kathaṃcid-api-adhiṣṭhātṛ-bhāva-tad-jāgrat-ucyate",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is external blue called waking?",
+   "premises": [
+    "blue shines as external",
+    "no superintender-state exists for him in any way",
+    "that is called waking"
+   ],
+   "inference": "waking is external shining without superintender",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "But that blue shines as external; for him no superintender-state exists in any way; that is called waking."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caitre",
+     "gloss": "in-Chaitra",
+     "grounds": "caitra",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhāsamāne",
+     "gloss": "appearing",
+     "grounds": "bhās",
+     "morph": "part.pres"
+    },
+    {
+     "surface": "yo",
+     "gloss": "which",
+     "grounds": "yad",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dehāṃśaḥ",
+     "gloss": "body-part",
+     "grounds": "deha-aṃśa",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "tad",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "kath",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "abuddho",
+     "gloss": "unawakened",
+     "grounds": "a-buddha",
+     "morph": "compound"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "but-which",
+     "grounds": "yad-tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "mānāṃśaḥ",
+     "gloss": "cognition-part",
+     "grounds": "māna-aṃśa",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "tad",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "buddho",
+     "gloss": "awakened",
+     "grounds": "buddha",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mitikārakaḥ",
+     "gloss": "cognition-maker",
+     "grounds": "miti-kāraka",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is unawakened and awakened in Chaitra?",
+   "premises": [
+    "in appearing Chaitra the body-part is called unawakened",
+    "the cognition-part is awakened and cognition-making"
+   ],
+   "inference": "body and cognition have distinct awakening states",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "There in appearing Chaitra, the body-part is called unawakened; the cognition-part is awakened and is the cognition-maker."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "prabuddhaḥ",
+     "gloss": "awakened",
+     "grounds": "pra-buddha",
+     "morph": "compound"
+    },
+    {
+     "surface": "suprabuddhaśca",
+     "gloss": "and-fully-awakened",
+     "grounds": "su-pra-buddha-ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "pramāmātreti",
+     "gloss": "cognition-only-etc",
+     "grounds": "pramā-mātra-iti",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "sequence",
+     "grounds": "krama",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "cāturvidhyaṃ",
+     "gloss": "fourfold",
+     "grounds": "cāturvidhya",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍasthanāmni",
+     "gloss": "in-bodily-waking",
+     "grounds": "piṇḍa-sthana-nāman",
+     "morph": "compound"
+    },
+    {
+     "surface": "jāgrati",
+     "gloss": "in-waking",
+     "grounds": "jāgrat",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "kīrt",
+     "morph": "part.pass"
+    }
+   ],
+   "question": "What fourfold is proclaimed in bodily waking?",
+   "premises": [
+    "awakened fully awakened and cognition-only form a sequence",
+    "fourfold in bodily waking is proclaimed"
+   ],
+   "inference": "bodily waking has a fourfold sequence",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Awakened, fully awakened, and cognition-only etc. form a sequence; fourfold indeed in bodily waking is proclaimed."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "jāgradādi",
+     "gloss": "waking-and-so-forth",
+     "grounds": "jāgrat-ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "catuṣkaṃ",
+     "gloss": "fourfold",
+     "grounds": "catuṣka",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyekamiha",
+     "gloss": "each-here",
+     "grounds": "pratyekam-iha",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "vid",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "jāgrajjāgradabuddhaṃ",
+     "gloss": "waking-waking-unawakened",
+     "grounds": "jāgrat-jāgrat-a-buddha",
+     "morph": "compound"
+    },
+    {
+     "surface": "tajjāgratsvapnastu",
+     "gloss": "that-waking-dream-however",
+     "grounds": "tad-jāgrat-svapna-tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "buddhatā",
+     "gloss": "awakenedness",
+     "grounds": "buddhatā",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How does the fourfold waking exist?",
+   "premises": [
+    "waking and the rest fourfold exists each here",
+    "waking-waking-unawakened is one state",
+    "waking-dream is awakenedness"
+   ],
+   "inference": "each waking state has nested fourfold forms",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Waking and the rest fourfold indeed exists each here; waking-waking-unawakened is that; waking-dream is awakenedness."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "ityādi",
+     "gloss": "etc",
+     "grounds": "iti-ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "turyātītaṃ",
+     "gloss": "beyond-fourth",
+     "grounds": "turya-atīta",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "however",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvagatvātpṛthakkutaḥ",
+     "gloss": "because-all-pervading-how-separate",
+     "grounds": "sarvaga-tva-pṛthak-kutaḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "vac",
+     "morph": "part.pass"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍagaṃ",
+     "gloss": "bodily",
+     "grounds": "piṇḍaga",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jāgradabuddhaṃ",
+     "gloss": "waking-unawakened",
+     "grounds": "jāgrat-a-buddha",
+     "morph": "compound"
+    },
+    {
+     "surface": "buddhameva",
+     "gloss": "awakened-only",
+     "grounds": "buddha-eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is beyond-fourth not separate?",
+   "premises": [
+    "beyond-fourth is all-pervading",
+    "how can it be separate",
+    "bodily waking-unawakened and awakened only are said"
+   ],
+   "inference": "all-pervading beyond-fourth is not a separate state",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Etc.; beyond-fourth however, because all-pervading, how separate? Also bodily waking-unawakened and awakened only are said."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "prabuddhaṃ",
+     "gloss": "awakened",
+     "grounds": "pra-buddha",
+     "morph": "compound"
+    },
+    {
+     "surface": "suprabuddhaṃ",
+     "gloss": "fully-awakened",
+     "grounds": "su-pra-buddha",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturvidhamidaṃ",
+     "gloss": "this-fourfold",
+     "grounds": "caturvidha-idam",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "smṛ",
+     "morph": "part.pass"
+    },
+    {
+     "surface": "meyabhūmiriyaṃ",
+     "gloss": "this-object-ground",
+     "grounds": "meya-bhūmi-iyaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "primary",
+     "grounds": "mukhya",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "jāgradākhyānyadantarā",
+     "gloss": "waking-named-other-intermediate",
+     "grounds": "jāgrat-ākhya-anya-antarā",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the primary object-ground?",
+   "premises": [
+    "awakened and fully awakened fourfold is remembered",
+    "this object-ground is primary",
+    "waking-named, other intermediate"
+   ],
+   "inference": "waking is the primary object-ground among states",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Awakened, fully awakened, fourfold this is remembered; this object-ground is primary; waking-named, other intermediate."
+  }
+ ]
+}

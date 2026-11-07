@@ -1,0 +1,864 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "duality",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "duality",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāvannyūnībhavati",
+     "gloss": "as-it-decreases",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "bhedagam",
+     "gloss": "difference-going",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tāvattuṭidvayaṃ",
+     "gloss": "so-much-two-tuṭis",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "nyūnatāṃ",
+     "gloss": "deficiency",
+     "grounds": "feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "gradually",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does decreasing duality affect the two tuṭis?",
+   "premises": [
+    "duality decreases gradually",
+    "two tuṭis decrease in deficiency",
+    "difference becomes clear"
+   ],
+   "inference": "Less duality means less deficiency in the two tuṭis.",
+   "uncertainties": [
+    "tuṭi sense is technical"
+   ],
+   "plain_english": "Thus, as duality decreases, the two tuṭis gradually and clearly go to deficiency."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāveśe",
+     "gloss": "in-śiva-entry",
+     "grounds": "locative compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "dvituṭiḥ",
+     "gloss": "two-tuṭi",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "parigīyate",
+     "gloss": "is-praised",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root"
+    },
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "feminine numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tuṭistatra",
+     "gloss": "tuṭi-there",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "pūrṇā",
+     "gloss": "full",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śuddhaiva",
+     "gloss": "pure-only",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "alone",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is one tuṭi called full in Śiva-entry?",
+   "premises": [
+    "in śiva-entry two tuṭis are praised",
+    "one tuṭi there is full",
+    "that tuṭi is pure and alone"
+   ],
+   "inference": "The praised full tuṭi is pure and solitary.",
+   "uncertainties": [
+    "śivāveśa technical sense"
+   ],
+   "plain_english": "Therefore in Śiva-entry two tuṭis are praised; but that one tuṭi there is full, pure, and alone."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "feminine adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śiva(śakti)rūpaiva",
+     "gloss": "śiva-śakti-form-only",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "sarvajñānakriyātmikā",
+     "gloss": "all-knowledge-action-natured",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tasyāmavahito",
+     "gloss": "absorbed-in-it",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the absorbed yogi not know or do?",
+   "premises": [
+    "second tuṭi is śiva-śakti form",
+    "it is all-knowledge and action",
+    "yogi absorbed in it asks what is not known or done"
+   ],
+   "inference": "Absorption in that tuṭi leaves no separate knowing or doing.",
+   "uncertainties": [
+    "parenthetical śakti"
+   ],
+   "plain_english": "The second is Śiva-Śakti form, all-knowledge and action; absorbed in it, what does the yogi not know or do?"
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "coktaṃ",
+     "gloss": "was-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-past+root"
+    },
+    {
+     "surface": "kallaṭena",
+     "gloss": "by-kallaṭa",
+     "grounds": "proper noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śrīmatā",
+     "gloss": "glorious",
+     "grounds": "adjective",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tuṭipātagaḥ",
+     "gloss": "tuṭi-fall-gain",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "lābhaḥ",
+     "gloss": "gain",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvajñakartṛtve",
+     "gloss": "in-all-knowing-agency",
+     "grounds": "locative compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tuṭeḥ",
+     "gloss": "of-tuṭi",
+     "grounds": "feminine noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pāto@parā",
+     "gloss": "fall-supreme",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tuṭiḥ",
+     "gloss": "tuṭi",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What gain comes from the fall of tuṭi?",
+   "premises": [
+    "kallaṭa said this",
+    "tuṭi fall is gain",
+    "gain is all-knowing agency",
+    "supreme tuṭi is fall of tuṭi"
+   ],
+   "inference": "Falling of tuṭi brings all-knowing agency and supreme tuṭi.",
+   "uncertainties": [
+    "pāto@parā sandhi"
+   ],
+   "plain_english": "Thus glorious Kallaṭa said: the fall of tuṭi is gain in all-knowing agency; the fall of tuṭi is the supreme tuṭi."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "ādyāyāṃ",
+     "gloss": "in-first",
+     "grounds": "locative adjective",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṭau",
+     "gloss": "tuṭi",
+     "grounds": "feminine noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇamekatām",
+     "gloss": "full-unity",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "gataṃ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyaṃ",
+     "gloss": "knowable",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "doable",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyapadeśabhāk",
+     "gloss": "named",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "What remains knowable or doable in the first tuṭi?",
+   "premises": [
+    "in first tuṭi all is full unity",
+    "all is full from everywhere",
+    "nothing there is separately knowable or doable"
+   ],
+   "inference": "The first tuṭi leaves no separate object of knowledge or action.",
+   "uncertainties": [
+    "vyapadeśabhāk exact sense"
+   ],
+   "plain_english": "In the first tuṭi all has gone to full unity everywhere; what there is knowable, doable, or named?"
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedasamullāsakalāṃ",
+     "gloss": "difference-blossoming-art",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "prāthamikīṃ",
+     "gloss": "initial",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "wise-ones",
+     "grounds": "masculine noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cinvanti",
+     "gloss": "seek",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+root"
+    },
+    {
+     "surface": "pratibhāṃ",
+     "gloss": "pratibhā",
+     "grounds": "feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvajñatvādisiddhaye",
+     "gloss": "for-omniscience-etc-accomplishment",
+     "grounds": "dative compound",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "Why do the wise seek initial Devī-pratibhā?",
+   "premises": [
+    "wise seek initial pratibhā",
+    "that pratibhā blossoms difference",
+    "it is for omniscience and related powers"
+   ],
+   "inference": "Seeking initial Devī-pratibhā accomplishes omniscience and related powers.",
+   "uncertainties": [
+    "pratibhā technical sense"
+   ],
+   "plain_english": "Therefore the wise seek the initial Devī-pratibhā, blossoming with difference, for accomplishment of omniscience and so on."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "saiva",
+     "gloss": "that-same",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "śakti",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivasyoktā",
+     "gloss": "of-śiva-said",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tṛtīyādituṭiṣvatha",
+     "gloss": "in-third-etc-tuṭis-then",
+     "grounds": "locative compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "mantrādi(dhi)nāthatacchaktimantreśādyāḥ",
+     "gloss": "mantra-lords-and-their-śaktis-etc",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "kramoditāḥ",
+     "gloss": "arise-in-order",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "What arises in the third and later tuṭis?",
+   "premises": [
+    "that same śakti of śiva is said",
+    "in third and later tuṭis",
+    "mantra-lords and their śaktis arise in order"
+   ],
+   "inference": "Later tuṭis manifest ordered mantra-lords and their śaktis.",
+   "uncertainties": [
+    "parenthetical dhi"
+   ],
+   "plain_english": "That same Śakti of Śiva is said; in the third and later tuṭis, mantra-lords and their śaktis and so on arise in order."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "tāsu",
+     "gloss": "in-them",
+     "grounds": "locative pronoun",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "saṃdadhataścittamavadhānaikadharmakam",
+     "gloss": "fixing-mind-with-one-pointed-attention",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tattatsiddhisamāveśaḥ",
+     "gloss": "respective-siddhi-entrance",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "svayamevopajāyate",
+     "gloss": "arises-by-itself",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres+root"
+    }
+   ],
+   "question": "How does siddhi-entrance arise in those tuṭis?",
+   "premises": [
+    "mind is fixed in them",
+    "attention is one-pointed",
+    "respective siddhi-entrance arises by itself"
+   ],
+   "inference": "One-pointed fixation in those tuṭis brings spontaneous siddhi-entrance.",
+   "uncertainties": [
+    "tāsu referent"
+   ],
+   "plain_english": "In them, fixing the mind with one-pointed attention, the respective siddhi-entrance arises by itself."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedabahutvaṃ",
+     "gloss": "multiplicity-of-difference",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "dūratā",
+     "gloss": "distance",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvittau",
+     "gloss": "in-consciousness",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tuṭibāhulyādakṣārthāsaṃnikarṣavat",
+     "gloss": "like-non-contact-with-desired-object-due-to-many-tuṭis",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "How do many tuṭis affect consciousness?",
+   "premises": [
+    "multiplicity of difference is distance",
+    "many tuṭis in consciousness",
+    "they are like non-contact with desired object"
+   ],
+   "inference": "Many tuṭis create distance in consciousness like non-contact with the desired object.",
+   "uncertainties": [
+    "akṣārtha sense"
+   ],
+   "plain_english": "Therefore, as multiplicity of difference is distance, so in consciousness many tuṭis are like non-contact with the desired object."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyūnatvaṃ",
+     "gloss": "deficiency",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tuṭīnāṃ",
+     "gloss": "of-tuṭis",
+     "grounds": "feminine noun",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "hrāsato",
+     "gloss": "by-decrease",
+     "grounds": "ablative participle",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "bhidaḥ",
+     "gloss": "difference",
+     "grounds": "masculine noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathātinaikaṭyaṃ",
+     "gloss": "so-nearness",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "saṃvidaḥ",
+     "gloss": "of-consciousness",
+     "grounds": "feminine noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "syācchivāvadhi",
+     "gloss": "may-be-up-to-śiva",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "What happens as tuṭis decrease?",
+   "premises": [
+    "as tuṭis decrease difference decreases",
+    "consciousness becomes nearer",
+    "nearness reaches up to śiva"
+   ],
+   "inference": "Decreasing tuṭis brings consciousness nearer to Śiva.",
+   "uncertainties": [
+    "tathātinaikaṭyaṃ parsing"
+   ],
+   "plain_english": "As tuṭis decrease, difference decreases; so consciousness becomes nearer, up to Śiva."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "śivatattvamataḥ",
+     "gloss": "śiva-principle-therefore",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "proktamantikaṃ",
+     "gloss": "said-near",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "sarvato@mutaḥ",
+     "gloss": "from-all-sides",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayatno@yaṃ",
+     "gloss": "effort-this",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tatpraveśe",
+     "gloss": "in-entering-it",
+     "grounds": "locative compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root"
+    }
+   ],
+   "question": "Why is no effort needed to enter Śiva?",
+   "premises": [
+    "śiva principle is said near",
+    "it is near from all sides",
+    "therefore no effort in entering it"
+   ],
+   "inference": "Because Śiva is near from all sides, no effort is needed to enter it.",
+   "uncertainties": [
+    "sarvato@mutaḥ sandhi"
+   ],
+   "plain_english": "The Śiva principle is said to be near from all sides; therefore no effort is found in entering it."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūratvaṃ",
+     "gloss": "distance",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatnayogastathā",
+     "gloss": "effort-union-so",
+     "grounds": "compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvanākaraṇādīnāṃ",
+     "gloss": "of-meditation-and-actions-etc",
+     "grounds": "genitive compound",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-śiva",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niravakāśatām",
+     "gloss": "no-scope",
+     "grounds": "feminine noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What happens to meditation and action in Śiva?",
+   "premises": [
+    "distance corresponds to effort",
+    "in śiva there is no distance",
+    "meditation and action have no scope"
+   ],
+   "inference": "In Śiva, meditation and action have no scope.",
+   "uncertainties": [
+    "yatnayogastathā parsing"
+   ],
+   "plain_english": "As distance, so effort; thus meditation, action, and so on have no scope in Śiva."
+  }
+ ]
+}

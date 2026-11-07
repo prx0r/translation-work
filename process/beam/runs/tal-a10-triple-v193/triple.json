@@ -1,0 +1,797 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "ṣaṭke@tra",
+     "gloss": "in-sixfold-here",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prathame",
+     "gloss": "first",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devyastisraḥ",
+     "gloss": "three-goddesses",
+     "grounds": "verse token",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pronmeṣavṛttitām",
+     "gloss": "opening-mode",
+     "grounds": "verse token",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nimeṣavṛttitāṃ",
+     "gloss": "closing-mode",
+     "grounds": "verse token",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cāśu",
+     "gloss": "and-quickly",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "spṛśantyaḥ",
+     "gloss": "touching",
+     "grounds": "verse token",
+     "morph": "f.nom.pl.participle"
+    },
+    {
+     "surface": "ṣaṭkatāṃ",
+     "gloss": "sixfold-state",
+     "grounds": "verse token",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatāḥ",
+     "gloss": "having-gone",
+     "grounds": "verse token",
+     "morph": "f.nom.pl.participle"
+    }
+   ],
+   "question": "How do the three goddesses become sixfold here?",
+   "premises": [
+    "three goddesses touch opening and closing modes",
+    "they quickly reach sixfold state",
+    "first hexad is the setting"
+   ],
+   "inference": "The goddesses' dual modes generate a sixfold condition.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "In the first hexad here, the three goddesses, touching opening and closing modes quickly, attain a sixfold state."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvitīyaṣaṭke@pi",
+     "gloss": "in-second-hexad-also",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tvatra",
+     "gloss": "but-here",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "grāhyavartmanā",
+     "gloss": "by-object-path",
+     "grounds": "verse token",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "uparāgapadaṃ",
+     "gloss": "eclipse-state",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-reached",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parāparatayā",
+     "gloss": "as-supreme-and-lower",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "standing",
+     "grounds": "verse token",
+     "morph": "f.nom.pl.participle"
+    }
+   ],
+   "question": "What happens in the second hexad by the object path?",
+   "premises": [
+    "second hexad also follows same pattern",
+    "object path reaches eclipse state",
+    "goddesses stand as supreme and lower"
+   ],
+   "inference": "The second hexad establishes a graded condition through object-path attainment.",
+   "uncertainties": [
+    "uparāga sense approximate"
+   ],
+   "plain_english": "Thus in the second hexad too, what? Here, having reached the eclipse state by the object path, they stand as supreme and lower."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "ādye@tra",
+     "gloss": "in-first-here",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṭke",
+     "gloss": "hexad",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tā",
+     "gloss": "those",
+     "grounds": "verse token",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devyaḥ",
+     "gloss": "goddesses",
+     "grounds": "verse token",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "svātantryollāsamātrataḥ",
+     "gloss": "from-freedom-exuberance-only",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jighṛkṣite@pyupādhau",
+     "gloss": "even-in-desired-conditioning",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "verse token",
+     "morph": "3.pl.act.opt"
+    },
+    {
+     "surface": "pararūpādavicyutāḥ",
+     "gloss": "not-fallen-from-supreme-form",
+     "grounds": "verse token",
+     "morph": "f.nom.pl.participle"
+    }
+   ],
+   "question": "How do the goddesses remain supreme in the first hexad?",
+   "premises": [
+    "first hexad contains those goddesses",
+    "freedom exuberance alone suffices",
+    "even desired conditioning does not remove supreme form"
+   ],
+   "inference": "The goddesses remain identified with supreme form despite conditioning.",
+   "uncertainties": [
+    "compound sense approximate"
+   ],
+   "plain_english": "In the first hexad here, those goddesses, from freedom's exuberance alone, even in desired conditioning, would remain not fallen from supreme form."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "asti",
+     "gloss": "there-is",
+     "grounds": "verse token",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "cātiśayaḥ",
+     "gloss": "and-excellence",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaścittāsāmapyuttarottaram",
+     "gloss": "some-among-them-increasing",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "which",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vivekadhanairdhīraiḥ",
+     "gloss": "by-wise-possessors-of-discernment",
+     "grounds": "verse token",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sphuṭīkṛtyāpi",
+     "gloss": "even-making-clear",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "darśyate",
+     "gloss": "is-shown",
+     "grounds": "verse token",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "What excellence is shown among them?",
+   "premises": [
+    "there is some excellence among them",
+    "it increases progressively",
+    "wise discerning ones make it clear and show it"
+   ],
+   "inference": "A progressive excellence is demonstrable by discerning practitioners.",
+   "uncertainties": [
+    "kaścit scope approximate"
+   ],
+   "plain_english": "There is also some excellence among them, increasing progressively, which is shown by wise possessors of discernment even after making it clear."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "kecittvekāṃ",
+     "gloss": "some-but-one",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tuṭiṃ",
+     "gloss": "pulse",
+     "grounds": "verse token",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "grāhye",
+     "gloss": "in-object",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caikāmapi",
+     "gloss": "and-one-also",
+     "grounds": "verse token",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "grahītari",
+     "gloss": "in-subject",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tādātmyena",
+     "gloss": "by-identity",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinikṣipya",
+     "gloss": "having-placed",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saptakaṃ",
+     "gloss": "sevenfold",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saptakaṃ",
+     "gloss": "sevenfold",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "verse token",
+     "morph": "3.pl.act.pres"
+    }
+   ],
+   "question": "How do some know the sevenfold?",
+   "premises": [
+    "some place one pulse in object",
+    "and one pulse in subject",
+    "by identity they know two sevenfolds"
+   ],
+   "inference": "Identity between object and subject pulses yields a doubled sevenfold knowledge.",
+   "uncertainties": [
+    "tuṭi sense approximate"
+   ],
+   "plain_english": "Some, placing one pulse in the object and one also in the subject by identity, know a sevenfold and a sevenfold."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "tadasyāṃ",
+     "gloss": "in-that-this",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sūkṣmasaṃvittau",
+     "gloss": "in-subtle-awareness",
+     "grounds": "verse token",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kalanāya",
+     "gloss": "for-measuring",
+     "grounds": "verse token",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "samudyatāḥ",
+     "gloss": "striving",
+     "grounds": "verse token",
+     "morph": "m.nom.pl.participle"
+    },
+    {
+     "surface": "saṃvedayante",
+     "gloss": "they-experience",
+     "grounds": "verse token",
+     "morph": "3.pl.mid.pres"
+    },
+    {
+     "surface": "yadrūpaṃ",
+     "gloss": "what-form",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vāgvikatthanaiḥ",
+     "gloss": "with-speech-boasts",
+     "grounds": "verse token",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What form is experienced in subtle awareness?",
+   "premises": [
+    "striving for measuring in subtle awareness",
+    "they experience a form there",
+    "speech boasts are irrelevant"
+   ],
+   "inference": "Direct subtle experience supersedes verbal boasting.",
+   "uncertainties": [
+    "kalanā sense approximate"
+   ],
+   "plain_english": "Striving for measuring in that subtle awareness, they experience what form there; what use are speech boasts?"
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dharādimūlāntaṃ",
+     "gloss": "from-earth-to-root-end",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakriyā",
+     "gloss": "process",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāṇagāminī",
+     "gloss": "life-breath-going",
+     "grounds": "verse token",
+     "morph": "f.nom.sg.participle"
+    },
+    {
+     "surface": "guruparvakramātproktā",
+     "gloss": "taught-by-guru-lineage-order",
+     "grounds": "verse token",
+     "morph": "f.nom.sg.participle"
+    },
+    {
+     "surface": "bhede",
+     "gloss": "in-difference",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcadaśātmake",
+     "gloss": "in-fifteenfold",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is the process taught from earth to root?",
+   "premises": [
+    "process goes by life breath",
+    "taught by guru lineage order",
+    "difference is fifteenfold"
+   ],
+   "inference": "The earth-to-root process is a fifteenfold differentiated life-breath teaching.",
+   "uncertainties": [
+    "bheda sense approximate"
+   ],
+   "plain_english": "Thus the process from earth to root end, going by life breath, is taught by guru lineage order in difference, fifteenfold."
+  },
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "kramāttu",
+     "gloss": "but-by-order",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhedanyūnatve",
+     "gloss": "in-lesser-difference",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyūnatā",
+     "gloss": "deficiency",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāttuṭiṣvapi",
+     "gloss": "would-be-even-in-pulses",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "verse token",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "hrāso",
+     "gloss": "decrease",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vikalpasya",
+     "gloss": "of-conceptualization",
+     "grounds": "verse token",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sphuṭatā",
+     "gloss": "clarity",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāvikalpinaḥ",
+     "gloss": "and-of-non-conceptual",
+     "grounds": "verse token",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What decreases when difference is lesser?",
+   "premises": [
+    "lesser difference brings deficiency",
+    "even in pulses deficiency appears",
+    "conceptualization decreases while non-conceptual clarity remains"
+   ],
+   "inference": "Reduced differentiation diminishes conceptualization and clarifies non-conceptual awareness.",
+   "uncertainties": [
+    "tuṭi sense approximate"
+   ],
+   "plain_english": "But by order, in lesser difference, deficiency would be even in pulses; in that, conceptualization decreases and clarity of the non-conceptual increases."
+  },
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ciraduḥkhārtaḥ",
+     "gloss": "long-suffering-distressed",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paścādāttasukhasthitiḥ",
+     "gloss": "afterward-established-in-happiness",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vismaratyeva",
+     "gloss": "forgets-indeed",
+     "grounds": "verse token",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "tadduḥkhaṃ",
+     "gloss": "that-suffering",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sukhaviśrāntivartmanā",
+     "gloss": "by-happiness-rest-path",
+     "grounds": "verse token",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why does long suffering get forgotten?",
+   "premises": [
+    "long-distressed person later established in happiness",
+    "happiness rest path makes one forget",
+    "that suffering is forgotten"
+   ],
+   "inference": "Establishment in happiness obscures prior suffering.",
+   "uncertainties": [
+    "compound sense approximate"
+   ],
+   "plain_english": "As indeed a long-suffering distressed person, afterward established in happiness, forgets that suffering by the path of happiness's rest."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gatavikalpe@pi",
+     "gloss": "even-when-conceptualization-gone",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rūḍhāḥ",
+     "gloss": "rooted",
+     "grounds": "verse token",
+     "morph": "m.nom.pl.participle"
+    },
+    {
+     "surface": "saṃvedane",
+     "gloss": "in-experience",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "janāḥ",
+     "gloss": "people",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vikalpaviśrāntibalāttāṃ",
+     "gloss": "by-conceptualization-rest-force-that",
+     "grounds": "verse token",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sattāṃ",
+     "gloss": "existence",
+     "grounds": "verse token",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nābhimanvate",
+     "gloss": "do-not-regard",
+     "grounds": "verse token",
+     "morph": "3.pl.mid.pres"
+    }
+   ],
+   "question": "Why do rooted people not regard existence?",
+   "premises": [
+    "conceptualization gone yet people rooted in experience",
+    "by force of conceptualization's rest",
+    "they do not regard that existence"
+   ],
+   "inference": "Rest in conceptualization prevents recognition of existence.",
+   "uncertainties": [
+    "rūḍha sense approximate"
+   ],
+   "plain_english": "So, even when conceptualization is gone, people rooted in experience do not regard that existence by the force of conceptualization's rest."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "vikalpanirhrāsavaśena",
+     "gloss": "by-decrease-of-conceptualization",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verse token",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "vikalpavandhyā",
+     "gloss": "conceptualization-barren",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramārthasatyā",
+     "gloss": "supreme-truth-true",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃvitsvarūpaprakaṭatvamitthaṃ",
+     "gloss": "awareness-nature-manifestness-thus",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatrāvadhāne",
+     "gloss": "in-attention-there",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yatatāṃ",
+     "gloss": "of-strivers",
+     "grounds": "verse token",
+     "morph": "m.gen.pl.participle"
+    },
+    {
+     "surface": "subuddhiḥ",
+     "gloss": "good-intellect",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does awareness nature become manifest?",
+   "premises": [
+    "by decrease of conceptualization it goes",
+    "conceptualization-barren supreme truth becomes manifest",
+    "strivers' attention yields good intellect"
+   ],
+   "inference": "Diminishing conceptualization reveals awareness nature and cultivates discernment.",
+   "uncertainties": [
+    "compound sense approximate"
+   ],
+   "plain_english": "By decrease of conceptualization, conceptualization-barren supreme truth goes to manifestness of awareness nature; thus good intellect belongs to strivers in attention there."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "grāhyagrāhakasaṃvittau",
+     "gloss": "in-object-subject-awareness",
+     "grounds": "verse token",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃbandhe",
+     "gloss": "in-connection",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sāvadhānatā",
+     "gloss": "attentiveness",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatroktā",
+     "gloss": "there-spoken",
+     "grounds": "verse token",
+     "morph": "f.nom.sg.participle"
+    },
+    {
+     "surface": "sarvakāmadughā",
+     "gloss": "all-desires-milking",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "verse token",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why is attentiveness called all-desires-milking?",
+   "premises": [
+    "attentiveness in object-subject awareness connection",
+    "this is that spoken there",
+    "it is all-desires-milking because of that"
+   ],
+   "inference": "Attentive connection between object and subject awareness fulfills all desires.",
+   "uncertainties": [
+    "dughā sense approximate"
+   ],
+   "plain_english": "In the connection of object and subject awareness, this attentiveness is that spoken there, all-desires-milking, because of that."
+  }
+ ]
+}

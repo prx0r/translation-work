@@ -1,0 +1,780 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "smṛtiyogyo@pyanyathā",
+     "gloss": "memory-capable-even-otherwise",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogyabhāvaṃ",
+     "gloss": "enjoyable-state",
+     "grounds": "token 3",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tūjjhati",
+     "gloss": "abandons",
+     "grounds": "token 5",
+     "morph": "3.sg.act-pres-tyaj"
+    },
+    {
+     "surface": "gāḍhanidrāvimūḍho@pi",
+     "gloss": "deep-sleep-bewildered-even",
+     "grounds": "token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kāntāliṅgitavigrahaḥ",
+     "gloss": "beloved-embraced-body",
+     "grounds": "token 7",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Does a memory-capable one abandon the enjoyable state even in deep sleep?",
+   "premises": [
+    "memory-capable one may abandon state",
+    "deep sleep bewilders awareness",
+    "beloved embrace remains present"
+   ],
+   "inference": "the enjoyable state persists despite deep sleep",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Even one capable of memory does not abandon the enjoyable state, though deeply asleep and bewildered, while the beloved's embraced body remains."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "bhoktaiva",
+     "gloss": "enjoyer-indeed",
+     "grounds": "token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-called",
+     "grounds": "token 2",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "so@pi",
+     "gloss": "he-even",
+     "grounds": "token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "manute",
+     "gloss": "thinks",
+     "grounds": "token 4",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "bhoktṛtāṃ",
+     "gloss": "enjoyership",
+     "grounds": "token 5",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utprekṣāmātrahīno@pi",
+     "gloss": "mere-imagination-lacking-even",
+     "grounds": "token 7",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kāṃcitkulavadhūṃ",
+     "gloss": "some-clan-woman",
+     "grounds": "token 8",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "puraḥ",
+     "gloss": "before",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is called enjoyer and thinks enjoyership before a woman?",
+   "premises": [
+    "he is called enjoyer",
+    "he thinks enjoyership",
+    "he lacks mere imagination before her"
+   ],
+   "inference": "enjoyership is attributed even without imaginative projection",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "He is called the enjoyer, and he thinks enjoyership, even lacking mere imagination, before some woman of a clan."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "saṃbhokṣyamāṇāṃ",
+     "gloss": "to-be-enjoyed",
+     "grounds": "token 1",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "dṛṣṭvaiva",
+     "gloss": "seeing-indeed",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rabhasādyāti",
+     "gloss": "rushes",
+     "grounds": "token 3",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "saṃmadam",
+     "gloss": "delight",
+     "grounds": "token 4",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tāmeva",
+     "gloss": "her-indeed",
+     "grounds": "token 5",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "seeing",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samānāśayabhāgapi",
+     "gloss": "same-intention-sharing-even",
+     "grounds": "token 9",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What happens when one sees a woman to be enjoyed?",
+   "premises": [
+    "seeing her he rushes to delight",
+    "seeing her then",
+    "same intention is shared"
+   ],
+   "inference": "perception of the to-be-enjoyed produces shared delight",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Seeing a woman to be enjoyed, he rushes to delight; seeing her then, even one sharing the same intention does so."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "anyastathā",
+     "gloss": "another-thus",
+     "grounds": "token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvitte",
+     "gloss": "in-consciousness",
+     "grounds": "token 3",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "kamatropalabhāmahe",
+     "gloss": "what-here-perceive",
+     "grounds": "token 4",
+     "morph": "1.pl.mid-pres"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "token 5",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "rūḍhamidaṃ",
+     "gloss": "established-this",
+     "grounds": "token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dṛṣṭirasminkāraṇamantarā",
+     "gloss": "vision-in-this-cause-intermediary",
+     "grounds": "token 7",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What do we perceive in consciousness in the world?",
+   "premises": [
+    "another is not thus in consciousness",
+    "we perceive what here",
+    "vision is intermediary cause"
+   ],
+   "inference": "established worldly difference depends on vision as intermediary cause",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Otherwise another is not found in consciousness; what do we perceive here in the world? This established thing has vision as its intermediary cause."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "prasīdatīva",
+     "gloss": "seems-pleased",
+     "grounds": "token 1",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "magneva",
+     "gloss": "immersed-as-if",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirvātīvetivādini",
+     "gloss": "extinguished-as-if-debating",
+     "grounds": "token 3",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistaratastattvabhedo@yaṃ",
+     "gloss": "extensively-truth-difference-this",
+     "grounds": "token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samudāhṛtaḥ",
+     "gloss": "illustrated",
+     "grounds": "token 6",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How is the difference of truth illustrated extensively?",
+   "premises": [
+    "one seems pleased as if immersed",
+    "one seems extinguished as if debating",
+    "thus truth-difference is illustrated extensively"
+   ],
+   "inference": "truth-difference is shown through contrasting states",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "One seems pleased as if immersed, another as if extinguished while debating; thus the difference of truth is extensively illustrated."
+  },
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "śaktiśaktimatāṃ",
+     "gloss": "power-possessor",
+     "grounds": "token 1",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "bhedādanyonyaṃ",
+     "gloss": "from-difference-mutually",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkṛteṣvapi",
+     "gloss": "in-those-made-even",
+     "grounds": "token 3",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "bhedeṣvanyonyato",
+     "gloss": "in-differences-mutually",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedāttathā",
+     "gloss": "from-difference-thus",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvāntaraiḥ",
+     "gloss": "with-other-principles",
+     "grounds": "token 6",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do differences arise among powers and possessors?",
+   "premises": [
+    "power and possessor differ mutually",
+    "those made also differ mutually",
+    "difference arises with other principles"
+   ],
+   "inference": "difference proliferates through mutual distinction and other principles",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "From mutual difference of power and possessor, and among those made, difference arises thus with other principles."
+  },
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "bhedopabhedagaṇanāṃ",
+     "gloss": "difference-subdifference-count",
+     "grounds": "token 1",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "karvato",
+     "gloss": "doing",
+     "grounds": "token 2",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "nāvadhiḥ",
+     "gloss": "no-limit",
+     "grounds": "token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tata",
+     "gloss": "therefore",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicitro@yaṃ",
+     "gloss": "various-this",
+     "grounds": "token 7",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhuvanādividhiḥ",
+     "gloss": "world-etc-arrangement",
+     "grounds": "token 8",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "established",
+     "grounds": "token 9",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why is there no limit to counting differences?",
+   "premises": [
+    "one doing difference-count has no limit",
+    "therefore this is indeed various",
+    "world-arrangement is established"
+   ],
+   "inference": "endless difference-counting explains the varied world-arrangement",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "For one counting differences and subdifferences there is no limit anywhere; therefore this varied world-arrangement is established."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "pārthivatve@pi",
+     "gloss": "in-earthliness-even",
+     "grounds": "token 1",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmyaṃ",
+     "gloss": "equality",
+     "grounds": "token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "rudravaiṣṇavalokayoḥ",
+     "gloss": "of-rudra-vishnu-worlds",
+     "grounds": "token 4",
+     "morph": "gen.du.m"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "token 5",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kathānyatra",
+     "gloss": "talk-elsewhere",
+     "grounds": "token 6",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavedbhoge",
+     "gloss": "would-be-in-enjoyment",
+     "grounds": "token 8",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarūpake",
+     "gloss": "in-own-form",
+     "grounds": "token 10",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Is there equality between Rudra and Vishnu worlds?",
+   "premises": [
+    "even in earthliness no equality",
+    "between Rudra and Vishnu worlds",
+    "what talk elsewhere in enjoyment or own form"
+   ],
+   "inference": "no equality holds even in earthly condition, let alone elsewhere",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Even in earthliness there is no equality between Rudra and Vishnu worlds; what talk of equality elsewhere, in enjoyment or in own form?"
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistaraḥ",
+     "gloss": "detail",
+     "grounds": "token 4",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sākṣācchakyo",
+     "gloss": "directly-possible",
+     "grounds": "token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṣitum",
+     "gloss": "to-speak",
+     "grounds": "token 7",
+     "morph": "inf"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "nevertheless",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārgamātreṇa",
+     "gloss": "by-path-only",
+     "grounds": "token 9",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "kathyamāno",
+     "gloss": "being-told",
+     "grounds": "token 10",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vivicyatām",
+     "gloss": "let-be-distinguished",
+     "grounds": "token 11",
+     "morph": "3.sg.pass.imp"
+    }
+   ],
+   "question": "Can the detail be spoken directly?",
+   "premises": [
+    "that detail is not directly possible",
+    "although it cannot be spoken",
+    "nevertheless by path only let it be distinguished"
+   ],
+   "inference": "the detail must be distinguished indirectly by path",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "That detail is not directly speakable, although it cannot be spoken; nevertheless, being told by path only, let it be distinguished."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "saptānāṃ",
+     "gloss": "of-seven",
+     "grounds": "token 1",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "mātṛśaktīnāmanyonyaṃ",
+     "gloss": "of-mother-powers-mutually",
+     "grounds": "token 2",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "bhedane",
+     "gloss": "in-division",
+     "grounds": "token 3",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "token 4",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "rūpamekānnapañcāśatsvarūpaṃ",
+     "gloss": "form-forty-nine-form",
+     "grounds": "token 5",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "cādhikaṃ",
+     "gloss": "and-more",
+     "grounds": "token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form results from dividing seven mother-powers?",
+   "premises": [
+    "seven mother-powers divide mutually",
+    "being in division",
+    "form forty-nine and more results"
+   ],
+   "inference": "division of seven mother-powers yields forty-nine-plus forms",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "When the seven mother-powers divide mutually, the form is forty-nine and more."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvātmakaṃ",
+     "gloss": "all-souled",
+     "grounds": "token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yasmāttasmātsakalamātari",
+     "gloss": "because-therefore-all-in-mother",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "layākalādiśaktīnāṃ",
+     "gloss": "dissolution-art-etc-powers",
+     "grounds": "token 4",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "saṃbhavo@styeva",
+     "gloss": "origin-is-indeed",
+     "grounds": "token 5",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "truly",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why do all powers originate in the mother?",
+   "premises": [
+    "all is all-souled",
+    "because therefore all in mother",
+    "dissolution-art-etc powers originate truly"
+   ],
+   "inference": "all powers originate in the mother because all is all-souled",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "All is all-souled; therefore all powers of dissolution, art, and so on truly originate in the mother."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tvasphuṭo@stu",
+     "gloss": "but-unclear-let-be",
+     "grounds": "token 2",
+     "morph": "3.sg.act.imp"
+    },
+    {
+     "surface": "bhedāṃśaṃ",
+     "gloss": "difference-portion",
+     "grounds": "token 3",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dātuṃ",
+     "gloss": "to-give",
+     "grounds": "token 4",
+     "morph": "inf"
+    },
+    {
+     "surface": "tāvatprabhurbhavet",
+     "gloss": "so-long-lord-may-be",
+     "grounds": "token 5",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "teṣāmapi",
+     "gloss": "of-them-even",
+     "grounds": "token 6",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedānāmanyonyaṃ",
+     "gloss": "of-differences-mutually",
+     "grounds": "token 8",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "bahubhedatā",
+     "gloss": "much-difference-ness",
+     "grounds": "token 9",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Can the lord give the unclear difference-portion?",
+   "premises": [
+    "that is unclear let be",
+    "to give difference-portion",
+    "so long lord may be",
+    "of them and mutual differences much difference-ness"
+   ],
+   "inference": "the lord may give the unclear portion amid many mutual differences",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Let that unclear portion be; the lord may give it, for among them and their mutual differences there is much difference."
+  }
+ ]
+}

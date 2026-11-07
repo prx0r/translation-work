@@ -1,0 +1,702 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "bhūtatattvābhidhānānāṃ",
+     "gloss": "element-principle-names",
+     "grounds": "compound genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "yoṃ@śo@dhiṣṭheya",
+     "gloss": "presided-over",
+     "grounds": "participle dative singular",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "piṇḍasthamiti",
+     "gloss": "as-body-located",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that-one",
+     "grounds": "pronoun accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "prāhuriti",
+     "gloss": "they-call",
+     "grounds": "verb third plural",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "śrīmālinīmate",
+     "gloss": "in-shri-malini-view",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "How is the presided-over element principle named in the body-located state?",
+   "premises": [
+    "Element principles receive names.",
+    "The body-located state is named.",
+    "Shri Malini view records this."
+   ],
+   "inference": "The presided-over element principle is called body-located in that view.",
+   "uncertainties": [
+    "Token yoṃ@śo@dhiṣṭheya is irregular."
+   ],
+   "plain_english": "In the Shri Malini view, the presided-over element principle is called body-located."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "laukikī",
+     "gloss": "worldly",
+     "grounds": "adjective nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "jāgradityeṣā",
+     "gloss": "waking-thus-this",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃjñā",
+     "gloss": "name",
+     "grounds": "noun nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "piṇḍasthamityapi",
+     "gloss": "also-body-located",
+     "grounds": "compound adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yogināṃ",
+     "gloss": "of-yogis",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "yogasiddhyarthaṃ",
+     "gloss": "for-yoga-accomplishment",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "saṃjñeyaṃ",
+     "gloss": "this-name",
+     "grounds": "demonstrative nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "paribhāṣyate",
+     "gloss": "is-defined",
+     "grounds": "passive present",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Why is the worldly waking state also called body-located for yogis?",
+   "premises": [
+    "Worldly waking has a name.",
+    "Yogis need yoga accomplishment.",
+    "The name is defined accordingly."
+   ],
+   "inference": "The worldly waking state is also called body-located for yogis' yoga accomplishment.",
+   "uncertainties": [
+    "Compound jāgradityeṣā is compressed."
+   ],
+   "plain_english": "The worldly waking state is also called body-located, defined for yogis' accomplishment of yoga."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "adhiṣṭheyasamāpattimadhyāsīnasya",
+     "gloss": "of-one-seated-in-presided-samadhi",
+     "grounds": "compound genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "yoginaḥ",
+     "gloss": "of-yogi",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tādātmyaṃ",
+     "gloss": "identity",
+     "grounds": "noun nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "piṇḍasthaṃ",
+     "gloss": "body-located",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mitaṃ",
+     "gloss": "measured",
+     "grounds": "participle nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "body",
+     "grounds": "noun accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "piṇḍitam",
+     "gloss": "condensed",
+     "grounds": "participle nominative",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is the identity of a yogi seated in presided samadhi?",
+   "premises": [
+    "The yogi is seated in presided samadhi.",
+    "Identity is body-located.",
+    "The body is measured and condensed."
+   ],
+   "inference": "The yogi's identity is body-located, measured and condensed.",
+   "uncertainties": [
+    "Long compound segmentation."
+   ],
+   "plain_english": "The identity of a yogi seated in presided samadhi is body-located, measured and condensed."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "prasaṃkhyānaikarūḍhānāṃ",
+     "gloss": "of-those-established-in-discrimination",
+     "grounds": "compound genitive",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "jñānināṃ",
+     "gloss": "of-knowers",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "taducyate",
+     "gloss": "that-is-called",
+     "grounds": "verb passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sarvatobhadramāpūrṇaṃ",
+     "gloss": "all-around-auspicious-full",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvato",
+     "gloss": "from-everywhere",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vedyasattayā",
+     "gloss": "by-object-existence",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.f"
+    }
+   ],
+   "question": "What is called all-around auspicious full for knowers established in discrimination?",
+   "premises": [
+    "Knowers are established in discrimination.",
+    "That state is called something.",
+    "It is full by object existence."
+   ],
+   "inference": "For such knowers, the state is called all-around auspicious full by object existence.",
+   "uncertainties": [
+    "Compound sarvatobhadramāpūrṇaṃ."
+   ],
+   "plain_english": "For knowers established in discrimination, that is called all-around auspicious full by object existence."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "sarvasattāsamāpūrṇa",
+     "gloss": "full-of-all-existence",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "noun accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paśyedyato",
+     "gloss": "because-sees",
+     "grounds": "verb subjunctive",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jñānī",
+     "gloss": "knower",
+     "grounds": "noun nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tatastataḥ",
+     "gloss": "from-there",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃvittatvamasya",
+     "gloss": "its-consciousness-nature",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "verb present",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Why does the consciousness-nature of the knower shine?",
+   "premises": [
+    "The knower sees the universe full of all existence.",
+    "Therefore consciousness-nature shines."
+   ],
+   "inference": "Because the knower sees the universe full of all existence, its consciousness-nature shines.",
+   "uncertainties": [
+    "yataḥ repeated."
+   ],
+   "plain_english": "Because the knower sees the universe full of all existence, its consciousness-nature shines."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "lokayogaprasaṃkhyānatrairūpyavaśataḥ",
+     "gloss": "by-triple-form-of-world-yoga-discrimination",
+     "grounds": "compound ablative",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "noun nominative",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "trīṇi",
+     "gloss": "three",
+     "grounds": "numeral nominative",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "bhaṇyante",
+     "gloss": "are-spoken",
+     "grounds": "passive present",
+     "morph": "3.pl.pass-pres"
+    },
+    {
+     "surface": "svapnādiṣvapyayaṃ",
+     "gloss": "also-in-dream-etc",
+     "grounds": "compound locative",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "noun nominative",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why are three names spoken in world, yoga, and discrimination?",
+   "premises": [
+    "There is a triple form.",
+    "Three names are spoken.",
+    "The same rule applies in dreams."
+   ],
+   "inference": "Three names are spoken because of the triple form, and the same rule applies in dreams.",
+   "uncertainties": [
+    "Long compound."
+   ],
+   "plain_english": "Because of the triple form of world, yoga, and discrimination, three names are spoken; the same rule applies in dreams."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "yattvadhiṣṭhānakaraṇabhāvamadhyāsya",
+     "gloss": "having-superimposed-presiding-instrument-state",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "remains",
+     "grounds": "verb present",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "vedyaṃ",
+     "gloss": "knowable",
+     "grounds": "participle nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "satpūrvakathitaṃ",
+     "gloss": "previously-described-as-real",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhūtatattvābhidhāmayam",
+     "gloss": "element-principle-named",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What remains when the knowable is superimposed on the presiding instrument state?",
+   "premises": [
+    "The knowable remains.",
+    "It was previously described as real.",
+    "It is element-principle-named."
+   ],
+   "inference": "The knowable remains as the previously described real element-principle-named state.",
+   "uncertainties": [
+    "Compound segmentation."
+   ],
+   "plain_english": "The knowable remains, previously described as real and element-principle-named, when superimposed on the presiding instrument state."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "tatsvapno",
+     "gloss": "that-dream",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mukhyato",
+     "gloss": "primarily",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "conjunction pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vaikalpike",
+     "gloss": "in-imaginary",
+     "grounds": "adjective locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pathi",
+     "gloss": "on-path",
+     "grounds": "noun locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vaikalpikapathārūḍhavedyasāmyāvabhāsanāt",
+     "gloss": "from-appearance-of-similarity-of-imaginary-path-knowable",
+     "grounds": "compound ablative",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How is that dream primarily to be known?",
+   "premises": [
+    "That dream is primarily to be known.",
+    "It appears similar to an imaginary path knowable."
+   ],
+   "inference": "That dream is primarily known because it appears similar to an imaginary path knowable.",
+   "uncertainties": [
+    "Long compound."
+   ],
+   "plain_english": "That dream is primarily to be known, since it appears similar to a knowable on an imaginary path."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "lokarūḍho@pyasau",
+     "gloss": "even-worldly-established",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svapnaḥ",
+     "gloss": "dream",
+     "grounds": "noun nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sāmyaṃ",
+     "gloss": "similarity",
+     "grounds": "noun nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "cābāhyarūpatā",
+     "gloss": "and-lack-of-external-form",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "utprekṣāsvapnasaṃkalpasmṛtyunmādādidṛṣṭiṣu",
+     "gloss": "in-visions-like-imagination-dream-intention-memory-madness",
+     "grounds": "compound locative",
+     "morph": "loc.pl.f"
+    }
+   ],
+   "question": "What characterizes the worldly-established dream?",
+   "premises": [
+    "The worldly-established dream has similarity.",
+    "It lacks external form.",
+    "It appears in visions like imagination and madness."
+   ],
+   "inference": "The worldly-established dream is characterized by similarity and lack of external form in such visions.",
+   "uncertainties": [
+    "Token lokarūḍho@pyasau."
+   ],
+   "plain_english": "The worldly-established dream has similarity and lacks external form in visions like imagination, dream, intention, memory, and madness."
+  },
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "vispaṣṭaṃ",
+     "gloss": "clear",
+     "grounds": "adjective nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yadvedyajātaṃ",
+     "gloss": "whatever-knowable-born",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jāgranmukhyatayaiva",
+     "gloss": "by-waking-primacy-only",
+     "grounds": "compound instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "but-what",
+     "grounds": "conjunction pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tatrāpyavispaṣṭaṃ",
+     "gloss": "there-also-unclear",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "spaṣṭādhiṣṭhātṛ",
+     "gloss": "clear-presider",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "appears",
+     "grounds": "verb present",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How does the clear knowable appear in waking?",
+   "premises": [
+    "The clear knowable is waking-primary.",
+    "What is unclear there appears with a clear presider."
+   ],
+   "inference": "The clear knowable is waking-primary, while the unclear appears with a clear presider.",
+   "uncertainties": [
+    "Compound yadvedyajātaṃ."
+   ],
+   "plain_english": "The clear knowable is waking-primary; what is unclear there appears with a clear presider."
+  },
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "vikalpāntaragaṃ",
+     "gloss": "gone-to-another-imagination",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vedyaṃ",
+     "gloss": "knowable",
+     "grounds": "participle nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tatsvapnapadamucyate",
+     "gloss": "that-is-called-dream-state",
+     "grounds": "compound verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "tadaiva",
+     "gloss": "then-only",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "pronoun genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "vettyeva",
+     "gloss": "knows-indeed",
+     "grounds": "verb present",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "svayameva",
+     "gloss": "by-itself-only",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hyabāhyatām",
+     "gloss": "indeed-lack-of-externality",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "When is a knowable called a dream state?",
+   "premises": [
+    "A knowable gone to another imagination is called dream state.",
+    "Then it knows its own lack of externality."
+   ],
+   "inference": "Such a knowable is called a dream state, and then it knows its own lack of externality.",
+   "uncertainties": [
+    "Compound tatsvapnapadamucyate."
+   ],
+   "plain_english": "A knowable gone to another imagination is called a dream state; then it knows its own lack of externality."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "pramātrantarasādhārabhāvahānyasthirātmate",
+     "gloss": "in-unsteady-selfhood-of-losing-shared-state-with-another-knower",
+     "grounds": "compound locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tatrāpi",
+     "gloss": "there-also",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cāturvidhyaṃ",
+     "gloss": "fourfoldness",
+     "grounds": "noun nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prāgdiśaiva",
+     "gloss": "as-before-only",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-imagine",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one imagine there also?",
+   "premises": [
+    "There is unsteady selfhood losing shared state with another knower.",
+    "Fourfoldness should be imagined as before."
+   ],
+   "inference": "There also, one should imagine the fourfoldness as before.",
+   "uncertainties": [
+    "Long compound."
+   ],
+   "plain_english": "There also, in that unsteady selfhood, one should imagine the fourfoldness as before."
+  }
+ ]
+}

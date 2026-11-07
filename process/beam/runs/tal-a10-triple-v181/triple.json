@@ -1,0 +1,755 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "sakalāntāstu",
+     "gloss": "all-endings",
+     "grounds": "compound token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tāstisra",
+     "gloss": "those-three",
+     "grounds": "demonstrative numeral",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "icchājñānakriyā",
+     "gloss": "will-knowledge-action",
+     "grounds": "compound token",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "participle",
+     "morph": "3.pl.pass-part"
+    },
+    {
+     "surface": "saptadhetthaṃ",
+     "gloss": "sevenfold-thus",
+     "grounds": "adverbial compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pramātṛtvaṃ",
+     "gloss": "knowerhood",
+     "grounds": "abstract noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatkṣobho",
+     "gloss": "its-agitation",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mānatā",
+     "gloss": "measurehood",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are the three powers related to sevenfold knowerhood?",
+   "premises": [
+    "three powers are will knowledge action",
+    "sevenfold knowerhood arises from agitation",
+    "measurehood follows agitation"
+   ],
+   "inference": "The verse links the three powers to sevenfold knowerhood through agitation and measurehood.",
+   "uncertainties": [
+    "exact scope of saptadhā",
+    "compound boundaries"
+   ],
+   "plain_english": "The three powers, will, knowledge, and action, are considered; sevenfold knowerhood arises thus from its agitation and measurehood."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "yattu",
+     "gloss": "but-that",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "grahītṛtārūpasaṃvitsaṃsparśavarjitam",
+     "gloss": "devoid-of-grasper-form-consciousness-contact",
+     "grounds": "long compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jaḍaṃ",
+     "gloss": "inert",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatsvarūpamitthaṃ",
+     "gloss": "its-nature-thus",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trikātmakam",
+     "gloss": "threefold-natured",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the pure inert nature of the universe?",
+   "premises": [
+    "pure means devoid of grasper form",
+    "inert nature is described",
+    "universe is threefold-natured"
+   ],
+   "inference": "The verse describes a pure inert universe whose nature is threefold.",
+   "uncertainties": [
+    "whether jaḍaṃ is pejorative",
+    "compound segmentation"
+   ],
+   "plain_english": "But that which is pure and inert, devoid of grasper, form, consciousness, and contact, is the universe's nature, threefold."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jalādyapi",
+     "gloss": "water-etc-even",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vadedbhedairbhinnaṃ",
+     "gloss": "would-say-difference-divided",
+     "grounds": "verbal compound",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "mahāmatiḥ",
+     "gloss": "great-minded",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anayā",
+     "gloss": "by-this",
+     "grounds": "pronoun",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "diśā",
+     "gloss": "direction",
+     "grounds": "noun",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "prāyaḥ",
+     "gloss": "mostly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvabhedeṣu",
+     "gloss": "in-all-differences",
+     "grounds": "compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How does the great-minded one speak of differences?",
+   "premises": [
+    "thus even water etc are divided",
+    "by this direction mostly",
+    "in all differences it is found"
+   ],
+   "inference": "The verse says differences are mostly found in all cases by this direction.",
+   "uncertainties": [
+    "vadedbhedair parsing",
+    "scope of jalādyapi"
+   ],
+   "plain_english": "Thus even water and the rest would be said divided by differences; by this direction, mostly, it is found in all differences."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "bhedo",
+     "gloss": "difference",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantramaheśānteṣveṣa",
+     "gloss": "among-mantra-great-lords-this",
+     "grounds": "compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pañcadaśātmakaḥ",
+     "gloss": "fifteenfold",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "nevertheless",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sphuṭatābhāvātsannapyeṣa",
+     "gloss": "due-to-lack-of-clarity-even-existing-this",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "carcitaḥ",
+     "gloss": "discussed",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the fifteenfold difference not discussed?",
+   "premises": [
+    "difference among mantra great lords is fifteenfold",
+    "even existing it lacks clarity",
+    "therefore it is not discussed"
+   ],
+   "inference": "The verse states the fifteenfold difference is not discussed because it lacks clarity.",
+   "uncertainties": [
+    "mantramaheśānteṣu scope",
+    "sannapyeṣa parsing"
+   ],
+   "plain_english": "This difference among mantra great lords is fifteenfold; nevertheless, because it lacks clarity, even though existing, it is not discussed."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "etacca",
+     "gloss": "and-this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūtritaṃ",
+     "gloss": "summarized",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhātrā",
+     "gloss": "by-creator",
+     "grounds": "noun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śrīpūrve",
+     "gloss": "in-previous-sri",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yadbravīti",
+     "gloss": "which-says",
+     "grounds": "relative verb",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "savyāpārādhipatvenetyādinā",
+     "gloss": "by-lordship-with-activity-etc",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jāgradāditām",
+     "gloss": "waking-etc-state",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What did the creator summarize in the previous Sri?",
+   "premises": [
+    "this is summarized by creator",
+    "in previous sri it says",
+    "by lordship with activity etc waking state"
+   ],
+   "inference": "The verse cites the creator's summary about waking and related states.",
+   "uncertainties": [
+    "śrīpūrve reference",
+    "compound segmentation"
+   ],
+   "plain_english": "And this is summarized by the creator in the previous Sri, which indeed says, by lordship with activity and so on, the waking state and so forth."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "abhinne@pi",
+     "gloss": "even-in-undivided",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śive@ntaḥsthasūkṣmabodhānusārataḥ",
+     "gloss": "according-to-subtle-knowledge-within-shiva",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇaśaktisthe",
+     "gloss": "in-prana-shakti-established",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tattvajāle",
+     "gloss": "in-net-of-principles",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vivicyate",
+     "gloss": "is-distinguished",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is distinction made within undivided Shiva?",
+   "premises": [
+    "even in undivided shiva",
+    "according to subtle knowledge within",
+    "now in prana shakti established net of principles is distinguished"
+   ],
+   "inference": "The verse says distinction is made according to subtle knowledge within Shiva.",
+   "uncertainties": [
+    "prāṇaśaktisthe parsing",
+    "tattvajāle scope"
+   ],
+   "plain_english": "Even in undivided Shiva, according to the subtle knowledge within, now in the prana-shakti-established net of principles, it is distinguished."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "bhedo@yaṃ",
+     "gloss": "this-difference",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāñcadaśyādiryathā",
+     "gloss": "as-fifteenfold-etc",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrīśaṃbhurādiśat",
+     "gloss": "sri-shambhu-taught",
+     "grounds": "compound",
+     "morph": "3.sg.aor"
+    },
+    {
+     "surface": "samaste@rthe@tra",
+     "gloss": "in-all-meaning-here",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nirgrāhye",
+     "gloss": "in-ungraspable",
+     "grounds": "adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tuṭayaḥ",
+     "gloss": "sparks",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣaṇāḥ",
+     "gloss": "moments",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What are the sixteen moments in the ungraspable?",
+   "premises": [
+    "this difference is fifteenfold etc",
+    "sri shambhu taught",
+    "in all meaning here in ungraspable sixteen moments sparks"
+   ],
+   "inference": "The verse identifies sixteen moment-sparks in the ungraspable whole.",
+   "uncertainties": [
+    "tuṭayaḥ meaning",
+    "compound boundaries"
+   ],
+   "plain_english": "This difference, as fifteenfold and so on, Sri Shambhu taught; in all meaning here, in the ungraspable, there are sixteen moment-sparks."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśadaṅgule",
+     "gloss": "in-thirty-six-angulas",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cāre",
+     "gloss": "in-movement",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sāṃśadvyaṅgulakalpitāḥ",
+     "gloss": "conceived-as-half-and-quarter-angulas",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatrādyaḥ",
+     "gloss": "first-there",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramādvaito",
+     "gloss": "supreme-nondual",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirvibhāgarasātmakaḥ",
+     "gloss": "essence-of-undivided-taste",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the first of the thirty-six angula moments?",
+   "premises": [
+    "in thirty-six angulas movement",
+    "conceived as half and quarter angulas",
+    "first there is supreme nondual essence of undivided taste"
+   ],
+   "inference": "The first moment is supreme nondual essence of undivided taste.",
+   "uncertainties": [
+    "cāre scope",
+    "angula measurement metaphor"
+   ],
+   "plain_english": "In the movement of thirty-six angulas, conceived as half and quarter angulas, the first there is supreme nondual, essence of undivided taste."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "dvitīyo",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grāhakollāsarūpaḥ",
+     "gloss": "form-of-grasper-expansion",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prativibhāvyate",
+     "gloss": "is-manifested",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "antyastu",
+     "gloss": "last-but",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "grāhyatādātmyātsvarūpībhāvamāgataḥ",
+     "gloss": "having-become-self-nature-by-identity-with-graspedness",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What are the second and last moments?",
+   "premises": [
+    "second is form of grasper expansion",
+    "it is manifested",
+    "last becomes self-nature by identity with graspedness"
+   ],
+   "inference": "The verse contrasts the second manifested grasper-expansion with the last self-nature.",
+   "uncertainties": [
+    "antyastu scope",
+    "long compound parsing"
+   ],
+   "plain_english": "The second is the form of grasper expansion, manifested; but the last has become self-nature by identity with graspedness."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "pravibhāvyo",
+     "gloss": "to-be-manifested",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pṛthagupāntyo",
+     "gloss": "separate-penultimate",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grāhakaḥ",
+     "gloss": "grasper",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣaṇaḥ",
+     "gloss": "moment",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣaṇamārabhya",
+     "gloss": "beginning-from-moment",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣaṇaṣaṭkaṃ",
+     "gloss": "six-moments",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yatsthitam",
+     "gloss": "that-established",
+     "grounds": "relative participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is the penultimate grasper not separately manifested?",
+   "premises": [
+    "penultimate grasper moment is not separately manifested",
+    "from third moment six moments are established",
+    "that is the established set"
+   ],
+   "inference": "The verse says the penultimate grasper moment is not separately manifested, while six moments from the third are established.",
+   "uncertainties": [
+    "pṛthagupāntyo parsing",
+    "kṣaṇaṣaṭkaṃ scope"
+   ],
+   "plain_english": "Indeed the penultimate grasper moment is not to be separately manifested; but from the third moment, six moments are established."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "tannirvikalpaṃ",
+     "gloss": "that-nondiscursive",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prodgacchadvikalpācchādanātmakam",
+     "gloss": "consisting-of-rising-discursive-covering",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-itself",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivarūpaṃ",
+     "gloss": "shiva-form",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paraśaktyātmakaṃ",
+     "gloss": "consisting-of-supreme-power",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "verb",
+     "morph": "3.pl.pres"
+    }
+   ],
+   "question": "What is the nondiscursive state known as Shiva?",
+   "premises": [
+    "that nondiscursive state consists of rising discursive covering",
+    "that itself is shiva form",
+    "it consists of supreme power"
+   ],
+   "inference": "The verse identifies the nondiscursive state as Shiva's form, consisting of supreme power.",
+   "uncertainties": [
+    "prodgacchadvikalpācchādanātmakam parsing",
+    "relation to previous six moments"
+   ],
+   "plain_english": "That nondiscursive state, consisting of rising discursive covering, that itself is known as Shiva's form, consisting of supreme power."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭkaṃ",
+     "gloss": "sixfold",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parāparapadātmakam",
+     "gloss": "consisting-of-supreme-and-lower-levels",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vikalparūḍhirapyeṣā",
+     "gloss": "this-discursive-rise-too",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kramātprasphuṭatāṃ",
+     "gloss": "gradual-clarity",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the second middle sixfold set?",
+   "premises": [
+    "second middle sixfold consists of supreme and lower levels",
+    "this discursive rise too",
+    "has gone to gradual clarity"
+   ],
+   "inference": "The verse describes the second middle sixfold as supreme and lower levels, with discursive rise reaching gradual clarity.",
+   "uncertainties": [
+    "parāparapadātmakam scope",
+    "kramātprasphuṭatāṃ parsing"
+   ],
+   "plain_english": "The second, middle, sixfold consists of supreme and lower levels; this discursive rise too has gone to gradual clarity."
+  }
+ ]
+}
