@@ -1,0 +1,371 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "svaṃ",
+     "gloss": "its-own",
+     "grounds": "possessive pronoun referring to the subject",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcadaśaṃ",
+     "gloss": "fifteenth",
+     "grounds": "ordinal numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadbhūḥ",
+     "gloss": "that-ground",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcadaśātmikā",
+     "gloss": "fifteenth-natured",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tisro",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-the-lord",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śaktayo",
+     "gloss": "powers",
+     "grounds": "plural noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "varṇitāḥ",
+     "gloss": "described",
+     "grounds": "past participle",
+     "morph": "3.pl.pass-perf"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the fifteenth ground related to the three powers?",
+   "premises": [
+    "The fifteenth ground has its own nature.",
+    "Three powers of the Lord were described before.",
+    "The ground is fifteenth-natured."
+   ],
+   "inference": "The fifteenth ground is explained through the three previously described powers.",
+   "uncertainties": [
+    "Exact referent of svaṃ is context-dependent."
+   ],
+   "plain_english": "Its own nature is the fifteenth; that ground is fifteenth-natured, for the three powers of the Lord were described before."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "tā",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛmāmeyatrairūpyeṇa",
+     "gloss": "in-threefold-knower-knowing-known-form",
+     "grounds": "compound noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "3.pl.pass-perf"
+    },
+    {
+     "surface": "parāṃśo",
+     "gloss": "supreme-part",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātṛrūpo@tra",
+     "gloss": "knower-form-here",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pramāṇāṃśaḥ",
+     "gloss": "instrument-part",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parāparaḥ",
+     "gloss": "intermediate",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are the three powers arranged among knower, knowing, and known?",
+   "premises": [
+    "Those powers are established in threefold form.",
+    "The supreme part is knower-form here.",
+    "The instrument part is intermediate."
+   ],
+   "inference": "The powers are distributed across knower, knowing, and known, with the supreme part as knower.",
+   "uncertainties": [
+    "The exact scope of mātṛmāmeya is interpretive."
+   ],
+   "plain_english": "Those very powers are established in the threefold form of knower, knowing, and known; the supreme part is knower-form here, and the instrument part is intermediate."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "meyo@paraḥ",
+     "gloss": "known-supreme",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktimāṃśca",
+     "gloss": "and-power-holder-part",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "its-own",
+     "grounds": "possessive pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpamityadaḥ",
+     "gloss": "nature-thus-that",
+     "grounds": "compound phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūmeryatpṛthagjaḍamavasthitam",
+     "gloss": "of-ground-what-separately-inert-standing",
+     "grounds": "compound phrase",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the nature of the ground in relation to known and power?",
+   "premises": [
+    "The known is supreme.",
+    "The power-holder part and power are its own nature.",
+    "There the ground's nature stands separately as inert."
+   ],
+   "inference": "The ground's nature is distinguished as separately standing and inert.",
+   "uncertainties": [
+    "Compound boundaries in bhūmeryatpṛthagjaḍamavasthitam are ambiguous."
+   ],
+   "plain_english": "The known is supreme; the power-holder part and power are its own nature; thus there the nature of the ground is that which stands separately as inert."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "mātṛmānādyupadhibhirasaṃjātoparāgakam",
+     "gloss": "by-knower-knowing-etc-conditions-not-produced-stain",
+     "grounds": "compound phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sakalādiśivāntaistu",
+     "gloss": "but-from-sakala-to-shiva",
+     "grounds": "compound phrase",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "mātṛbhirvedyatāsya",
+     "gloss": "by-knowers-its-knowability",
+     "grounds": "compound phrase",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is knowability produced by knowers and conditions?",
+   "premises": [
+    "Conditions beginning with knower and knowing do not produce stain.",
+    "Knowers range from sakala to Shiva.",
+    "Its knowability is by those knowers."
+   ],
+   "inference": "Knowability arises through knowers and conditions without produced stain.",
+   "uncertainties": [
+    "The long compound has multiple possible segmentations."
+   ],
+   "plain_english": "By conditions beginning with knower and knowing, not produced by stain; but by knowers from sakala to Shiva, its knowability is that which..."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "śaktimadbhiranudbhūtaśaktibhiḥ",
+     "gloss": "by-power-holders-with-unmanifest-powers",
+     "grounds": "compound phrase",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadbhidaḥ",
+     "gloss": "divisions-of-those",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sakalādiśivāntānāṃ",
+     "gloss": "of-from-sakala-to-shiva",
+     "grounds": "compound phrase",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śaktiṣūdrecitātmasu",
+     "gloss": "in-powers-with-raised-self",
+     "grounds": "compound phrase",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "How are the seven divisions related to power-holders?",
+   "premises": [
+    "Power-holders have unmanifest powers.",
+    "There are seven divisions of those.",
+    "They range from sakala to Shiva."
+   ],
+   "inference": "Seven divisions arise among power-holders from sakala to Shiva.",
+   "uncertainties": [
+    "The exact force of udracita is interpretive."
+   ],
+   "plain_english": "By power-holders with unmanifest powers, seven divisions of those; from sakala to Shiva, in powers with raised self."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "vedyatājanitāḥ",
+     "gloss": "knowability-born",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhedā",
+     "gloss": "divisions",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteen",
+     "grounds": "numeral",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sakalasya",
+     "gloss": "of-sakala",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pramāṇāṃśo",
+     "gloss": "instrument-part",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yo@sau",
+     "gloss": "which-that",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyākalātmakaḥ",
+     "gloss": "vidya-kala-natured",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do knowability-born divisions make fourteen?",
+   "premises": [
+    "Knowability-born seven divisions are stated.",
+    "Thus there are fourteen.",
+    "The instrument part of sakala is vidya-kala-natured."
+   ],
+   "inference": "The seven knowability-born divisions combine with prior divisions to make fourteen.",
+   "uncertainties": [
+    "The arithmetic relation to verse 7 is inferred."
+   ],
+   "plain_english": "Knowability-born seven divisions; thus fourteen; of sakala, the instrument part which is vidya-kala-natured."
+  }
+ ]
+}

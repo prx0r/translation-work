@@ -1,0 +1,401 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "tadīśavedyatvenetthaṃ",
+     "gloss": "thus-as-knowable-by-its-lord",
+     "grounds": "compound sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jñātaṃ",
+     "gloss": "known",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakṛtakāryakṛt",
+     "gloss": "having-done-intended-work",
+     "grounds": "compound sense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "siddhaṃ",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedyatākhyo",
+     "gloss": "called-knowability",
+     "grounds": "compound sense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dharmo",
+     "gloss": "property",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-being",
+     "grounds": "genitive sense",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres+root bhās"
+    }
+   ],
+   "question": "How is knowability established as a property of being?",
+   "premises": [
+    "knowability is called a property of being",
+    "being shines as established",
+    "the intended work is already done"
+   ],
+   "inference": "knowability is established as a property of being",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus knowability, called a property of being, is established and shines."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "tadanābhāsayoge",
+     "gloss": "in-union-with-non-manifestation-of-that",
+     "grounds": "compound sense",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svarūpamiti",
+     "gloss": "as-own-nature",
+     "grounds": "compound sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root bhaṇ"
+    },
+    {
+     "surface": "upādhiyogitāśaṅkāmapahastayato@sphuṭam",
+     "gloss": "clearly-dispelling-doubt-of-adjunct-union",
+     "grounds": "compound sense",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Why is own nature said in non-manifestation union?",
+   "premises": [
+    "own nature is said in that union",
+    "the doubt of adjunct union is clearly dispelled",
+    "non-manifestation union is the context"
+   ],
+   "inference": "own nature is affirmed while adjunct-union doubt is removed",
+   "uncertainties": [
+    "token boundary with @ unclear"
+   ],
+   "plain_english": "But in union with non-manifestation, own nature is said, clearly dispelling doubt of adjunct union."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "svātmano",
+     "gloss": "of-own-self",
+     "grounds": "genitive sense",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vapuṣā",
+     "gloss": "by-form",
+     "grounds": "instrumental sense",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhātyarthastatsvakaṃ",
+     "gloss": "meaning-shines-that-own",
+     "grounds": "compound sense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jānāmi",
+     "gloss": "I-know",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres+root jñā"
+    },
+    {
+     "surface": "ghaṭamityatra",
+     "gloss": "pot-here",
+     "grounds": "compound sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vedyatānuparāgavān",
+     "gloss": "endowed-with-knowability-coloring",
+     "grounds": "compound sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does knowability color the known object?",
+   "premises": [
+    "own self shines by a form",
+    "that form is one's own body",
+    "the pot is known here"
+   ],
+   "inference": "knowability colors the object as it appears",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "By which form of one's own self the meaning shines, that own body; I know the pot here, endowed with knowability's coloring."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "ghaṭa",
+     "gloss": "pot",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svarūpeṇa",
+     "gloss": "by-own-form",
+     "grounds": "instrumental sense",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhāta",
+     "gloss": "shone",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityapadiśyate",
+     "gloss": "is-declared",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root pad"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svayaṃvedyabhāvo",
+     "gloss": "self-knowable-being",
+     "grounds": "compound sense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrādyapekṣayā",
+     "gloss": "by-mantra-and-so-on-dependence",
+     "grounds": "compound sense",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Is the pot self-knowable without mantra dependence?",
+   "premises": [
+    "the pot indeed shone by own form",
+    "self-knowable being is declared there",
+    "mantra and other dependence is involved"
+   ],
+   "inference": "self-knowability is questioned in relation to dependence",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The pot indeed shone by its own form, it is declared; but there, is self-knowable being dependent on mantra and so on?"
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cāstyeva",
+     "gloss": "and-indeed-exists",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root as"
+    },
+    {
+     "surface": "nanvastu",
+     "gloss": "let-it-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-imp+root as"
+    },
+    {
+     "surface": "natu",
+     "gloss": "but-not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sanpratibhāsate",
+     "gloss": "appears",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres+root bhās"
+    },
+    {
+     "surface": "avedyameva",
+     "gloss": "unknowable-indeed",
+     "grounds": "compound sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kālāgnivapurmeroḥ",
+     "gloss": "of-meru-having-fire-body",
+     "grounds": "compound sense",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "diśaḥ",
+     "gloss": "directions",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Why do supreme directions not appear though they exist?",
+   "premises": [
+    "it also indeed exists",
+    "let it be so",
+    "but it does not appear"
+   ],
+   "inference": "existing things may remain unknowable and unappearing",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Also it indeed exists; let it be, but it does not appear; the unknowable indeed, of Meru having fire-body, supreme directions."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "mameti",
+     "gloss": "mine-thus",
+     "grounds": "compound sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃvidi",
+     "gloss": "in-consciousness",
+     "grounds": "locative sense",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vastu",
+     "gloss": "thing",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres+root prakāś"
+    },
+    {
+     "surface": "bhātatvādvedyamapi",
+     "gloss": "though-knowable-due-to-shining",
+     "grounds": "compound sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tanna",
+     "gloss": "not-that",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vedyatvena",
+     "gloss": "as-knowable",
+     "grounds": "instrumental sense",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhāsanāt",
+     "gloss": "from-shining",
+     "grounds": "ablative sense",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Is the pure thing knowable because it shines?",
+   "premises": [
+    "mine is said in consciousness",
+    "the supreme pure thing shines",
+    "it is knowable due to shining"
+   ],
+   "inference": "shining does not make it knowable as knowable",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "\"Mine\" in consciousness: the supreme pure thing shines; though knowable due to shining, not that, as knowable, from shining."
+  }
+ ]
+}

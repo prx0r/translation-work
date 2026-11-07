@@ -1,0 +1,779 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "samavāyo@pi",
+     "gloss": "conjunction-even",
+     "grounds": "compound with particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃśliṣṭaḥ",
+     "gloss": "joined",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śliṣṭānaśliṣṭatājuṣaḥ",
+     "gloss": "possessing-joined-unjoined-state",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "antyo",
+     "gloss": "final",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśeṣo",
+     "gloss": "distinction",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāvṛttirūpo",
+     "gloss": "form-of-difference",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāvṛttivarjitān",
+     "gloss": "excluding-differences",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How does conjunction relate to joined and unjoined states?",
+   "premises": [
+    "Conjunction is joined.",
+    "Final distinction has form of difference."
+   ],
+   "inference": "Difference excludes prior distinctions.",
+   "uncertainties": [
+    "Compound boundaries approximate."
+   ],
+   "plain_english": "Conjunction, though joined, reaches a final distinction whose form is difference, excluding what is not different."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "vyāvṛttān",
+     "gloss": "differentiated",
+     "grounds": "participle",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śvetimā",
+     "gloss": "whiteness",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuklamaśuklaṃ",
+     "gloss": "white-and-not-white",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gamanaṃ",
+     "gloss": "going",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadvannīlādidharmāṃśayukto",
+     "gloss": "endowed-with-blue-and-other-qualities",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dharmī",
+     "gloss": "substrate",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "itself",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does whiteness move between white and not-white?",
+   "premises": [
+    "Whiteness is differentiated.",
+    "Substrate stands endowed with qualities."
+   ],
+   "inference": "Qualities appear as modes of one substrate.",
+   "uncertainties": [
+    "Long compound segmentation approximate."
+   ],
+   "plain_english": "Whiteness moves between white and not-white, while the substrate itself stands endowed with blue and other qualities."
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "avedyo",
+     "gloss": "unknowable",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedyatārūpāddharmādvedyatvamāgataḥ",
+     "gloss": "knowability-arising-from-knowable-nature",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāsamānā",
+     "gloss": "shining",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "itself",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nīlādidharmavat",
+     "gloss": "like-blue-and-other-qualities",
+     "grounds": "compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does knowability arise from knowable nature?",
+   "premises": [
+    "The unknowable becomes knowable.",
+    "Knowability shines by itself."
+   ],
+   "inference": "Knowability resembles other qualities in appearing.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "The unknowable gains knowability from knowable nature; knowability shines by itself, like blue and other qualities."
+  },
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "aprakāśā",
+     "gloss": "unmanifest",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svaprakāśāddharmādeti",
+     "gloss": "comes-from-self-manifest-quality",
+     "grounds": "compound",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "prakāśatām",
+     "gloss": "manifestness",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakāśe",
+     "gloss": "in-manifestation",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśrāntiṃ",
+     "gloss": "rest",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrayati",
+     "gloss": "takes-refuge",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "cettataḥ",
+     "gloss": "if-from-that",
+     "grounds": "compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does the unmanifest become manifest?",
+   "premises": [
+    "Unmanifest comes from self-manifest quality.",
+    "Universe takes rest in manifestation."
+   ],
+   "inference": "Manifestation is the resting place of all.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "The unmanifest attains manifestness from self-manifest quality; indeed the universe takes rest in manifestation."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "nānyā",
+     "gloss": "no-other",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kācidapekṣāsya",
+     "gloss": "any-dependence-of-it",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛtakṛtyasya",
+     "gloss": "of-one-who-has-accomplished",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-all-sides",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śivanāthena",
+     "gloss": "by-Shiva-lord",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "svātantryādbhāsyate",
+     "gloss": "is-manifested-by-freedom",
+     "grounds": "compound",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "bhidā",
+     "gloss": "difference",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is no other dependence needed?",
+   "premises": [
+    "The accomplished needs no dependence.",
+    "Shiva manifests difference by freedom."
+   ],
+   "inference": "Freedom alone accounts for difference.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "No other dependence is needed for the accomplished; as Shiva manifests difference by his own freedom."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "nīlādivattathaivāyaṃ",
+     "gloss": "thus-this-like-blue",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dharma",
+     "gloss": "quality",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "siddhaṃ",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vedyatvaṃ",
+     "gloss": "knowability",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāvadharmo@stu",
+     "gloss": "let-it-be-quality-of-being",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghṛṇā",
+     "gloss": "aversion",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is knowability called a quality of being?",
+   "premises": [
+    "Knowability is like blue.",
+    "Knowability of being is established."
+   ],
+   "inference": "There is no reason for aversion to it.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "Thus knowability is called a quality like blue; knowability of being is established, so what aversion?"
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cintyaṃ",
+     "gloss": "to-be-considered",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sakalaparyantoktapramātṛbhiḥ",
+     "gloss": "by-knowers-described-everywhere",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vedyatvamekarūpaṃ",
+     "gloss": "uniform-knowability",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāccāturdaśyamataḥ",
+     "gloss": "would-be-fourteenth-view",
+     "grounds": "compound",
+     "morph": "3.sg.opt-pres"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "how",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How could knowability be uniform for all knowers?",
+   "premises": [
+    "This is to be considered.",
+    "Knowers describe it everywhere."
+   ],
+   "inference": "Uniform knowability would imply a fourteenth view, which is questionable.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "But this must be considered: if knowability were uniform for all knowers, how could it be a fourteenth view?"
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "ucyate",
+     "gloss": "it-is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "paripūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cedbhāvīyaṃ",
+     "gloss": "if-being-related",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpamucyate",
+     "gloss": "form-is-called",
+     "grounds": "compound",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "tadvibhurbhairavo",
+     "gloss": "that-all-pervading-Bhairava",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhagavāneva",
+     "gloss": "the-lord-himself",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-declared",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is said about complete being-related form?",
+   "premises": [
+    "If being-related form is complete, it is called so.",
+    "Bhairava is all-pervading lord."
+   ],
+   "inference": "The complete form is declared as Bhairava himself.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "It is said that if the being-related form is complete, that all-pervading Bhairava, the lord himself, is declared."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tannijamāhātmyakalpitoṃ@śāṃśikākramaḥ",
+     "gloss": "imagined-gradual-partial-glory",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sahyate",
+     "gloss": "is-tolerated",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tarhi",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "proktakalpanayānayā",
+     "gloss": "by-this-stated-imagination",
+     "grounds": "compound",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What is accomplished by this stated imagination?",
+   "premises": [
+    "Now imagined gradual partial glory is tolerated.",
+    "What is done then?"
+   ],
+   "inference": "The stated imagination itself is what is accomplished.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "Now if an imagined gradual partial glory is tolerated, what then is accomplished by this stated imagination?"
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vapuṣā",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhāti",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yadyathā",
+     "gloss": "as-how",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattadrūpamityeṣopaniṣatparā",
+     "gloss": "that-form-is-supreme-upanishad",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the supreme upanishad teaching here?",
+   "premises": [
+    "When it shines by a body, it shines as it is.",
+    "Then it is that form."
+   ],
+   "inference": "The supreme upanishad is that form itself.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "Therefore, when it shines by a body, as it shines, then it is that form; this is the supreme upanishad."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "caitreṇa",
+     "gloss": "by-Caitra",
+     "grounds": "proper noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vedyaṃ",
+     "gloss": "knowable",
+     "grounds": "gerundive",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jānāmi",
+     "gloss": "I-know",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "numeral",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "bahubhirapyatha",
+     "gloss": "and-by-many",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tanmaheśena",
+     "gloss": "by-that-great-lord",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śivenodriktaśaktinā",
+     "gloss": "by-Shiva-with-exalted-power",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How does Caitra know the knowable?",
+   "premises": [
+    "Caitra knows the knowable.",
+    "By two, many, mantra, and Shiva."
+   ],
+   "inference": "Knowledge occurs through multiple means and Shiva's power.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "Caitra knows the knowable by two, by many, by mantra, and by that great lord Shiva with exalted power."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "anyādṛśena",
+     "gloss": "of-another-kind",
+     "grounds": "adjective",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vetyevaṃ",
+     "gloss": "thus-knowing",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāvo",
+     "gloss": "being",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāti",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "arthakriyādivaicitryamabhyetyaparisaṃkhyayā",
+     "gloss": "variety-of-action-etc-without-enumeration",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does being shine in various ways?",
+   "premises": [
+    "Being shines as another kind.",
+    "Variety of action arises without enumeration."
+   ],
+   "inference": "Being's shining produces unenumerable variety.",
+   "uncertainties": [
+    "Compound segmentation approximate."
+   ],
+   "plain_english": "Being shines as another kind; thus variety of action and so on arises without enumeration."
+  }
+ ]
+}

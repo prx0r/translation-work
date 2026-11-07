@@ -1,0 +1,881 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "arthakriyākaraṃ",
+     "gloss": "action-producing",
+     "grounds": "compound sense",
+     "morph": "compound"
+    },
+    {
+     "surface": "taccenna",
+     "gloss": "if-that-not",
+     "grounds": "conditional particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dharmaḥ",
+     "gloss": "quality",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "konvasau",
+     "gloss": "what-is-that",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.opt-act bhū"
+    },
+    {
+     "surface": "yaccoktaṃ",
+     "gloss": "what-is-said",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedyatādharmā",
+     "gloss": "knowability-quality",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "entity",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvānapi",
+     "gloss": "all-even",
+     "grounds": "pronoun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "postposition",
+     "morph": "indecl."
+    }
+   ],
+   "question": "If knowability is a quality of every entity, what is that quality?",
+   "premises": [
+    "knowability is asserted as universal quality",
+    "universal quality needs determinate bearer"
+   ],
+   "inference": "the opponent's definition faces a regress",
+   "uncertainties": [
+    "exact sandhi split of yaccoktaṃ"
+   ],
+   "plain_english": "If knowability is a quality of all things, one must ask what that quality itself is."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "syādityetatsvapakṣaghnaṃ",
+     "gloss": "would-be-this-self-refuting",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "duṣprayogāstravattava",
+     "gloss": "bad-application-like-yours",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "asmākaṃ",
+     "gloss": "of-us",
+     "grounds": "pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svaprakāśaśivatāmātravādinām",
+     "gloss": "self-luminous-shiva-nature-only-speakers",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why does the opponent's claim refute his own position?",
+   "premises": [
+    "opponent's claim is self-refuting",
+    "self-luminous view avoids that flaw"
+   ],
+   "inference": "the opponent's argument is defective",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "The opponent's claim undermines itself, unlike the self-luminous Shiva view."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "anyaṃ",
+     "gloss": "another",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "postposition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cakāstīti",
+     "gloss": "shines-thus",
+     "grounds": "verb",
+     "morph": "3.sg.pres-act cakās"
+    },
+    {
+     "surface": "vaca",
+     "gloss": "speech",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "verb",
+     "morph": "3.sg.pres-pass vid"
+    },
+    {
+     "surface": "sarvānprati",
+     "gloss": "toward-all",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tannīlaṃ",
+     "gloss": "that-blue",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghaṭaśceti",
+     "gloss": "pot-thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadvacaḥ",
+     "gloss": "which-speech",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Does anything shine toward another without being known by all?",
+   "premises": [
+    "shining toward another is not found",
+    "blue pot is known to all"
+   ],
+   "inference": "knowability is not relationally restricted",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "Nothing merely shines toward another; the blue pot is known to all."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "tadapyaviditaprāyaṃ",
+     "gloss": "that-too-almost-unknown",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhītaṃ",
+     "gloss": "grasped",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mugdhabuddhibhiḥ",
+     "gloss": "by-dull-minds",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not-indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kālāgnirudrīyakāyāvagatanīlimā",
+     "gloss": "kalagni-rudra-body-perceived-blueness",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is the opponent's grasp almost unknown?",
+   "premises": [
+    "dull minds grasp it",
+    "blueness is perceived in Rudra's body"
+   ],
+   "inference": "the opponent's view is poorly grounded",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "Dull minds grasp a view that is almost unknown, while blueness is perceived in Rudra's body."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nīlaḥ",
+     "gloss": "blue",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pīto",
+     "gloss": "yellow",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maivaṃ",
+     "gloss": "not-so",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhūnnatu",
+     "gloss": "let-not-be-but",
+     "grounds": "verb",
+     "morph": "3.sg.opt-act bhū"
+    },
+    {
+     "surface": "nīlakaḥ",
+     "gloss": "blue-one",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaṃcitprati",
+     "gloss": "toward-anyone",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nīlo@sau",
+     "gloss": "blue-that",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nīlo",
+     "gloss": "blue",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "postposition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is your blue thing yellow or blue toward someone?",
+   "premises": [
+    "blue cannot be yellow",
+    "blue is not toward anyone"
+   ],
+   "inference": "the opponent's color attribution is incoherent",
+   "uncertainties": [
+    "sandhi nīlo@sau"
+   ],
+   "plain_english": "Your blue thing is not yellow; blue is not merely toward someone."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratyeva",
+     "gloss": "toward-only",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedyaḥ",
+     "gloss": "knowable",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syātsaṃkalpadvārako@ntataḥ",
+     "gloss": "would-be-imagination-gated-thence",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cārthaprakāśātma",
+     "gloss": "object-light-nature",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃgīryate",
+     "gloss": "is-accepted",
+     "grounds": "verb",
+     "morph": "3.sg.pres-pass saṃgīr"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "pronoun",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "How can knowability be gated by imagination?",
+   "premises": [
+    "knowability is toward that only",
+    "knowledge is accepted as object-light"
+   ],
+   "inference": "the opponent's gated knowability is inconsistent",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "Knowability would be gated by imagination, contrary to accepted knowledge as object-light."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tajjñātṛvedyatvaṃ",
+     "gloss": "that-knower-knowability",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvīyaṃ",
+     "gloss": "entity-like",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpamucyatām",
+     "gloss": "form-let-be-said",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jñātātra",
+     "gloss": "knower-here",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "niyataḥ",
+     "gloss": "fixed",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaścijjñāne",
+     "gloss": "anyone-in-knowledge",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What is the form of knower-dependent knowability?",
+   "premises": [
+    "knower-knowability is entity-like",
+    "no fixed knower in knowledge"
+   ],
+   "inference": "the opponent cannot define knowability",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "The opponent cannot state the form of knower-dependent knowability."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "arthe",
+     "gloss": "in-object",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jñātā",
+     "gloss": "knower",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yastadvedyaṃ",
+     "gloss": "which-that-knowable",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vapurucyatām",
+     "gloss": "form-let-be-said",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tattadvijñātṛvedyatvaṃ",
+     "gloss": "that-that-knower-knowability",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvānpratyeva",
+     "gloss": "toward-all-only",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāsatām",
+     "gloss": "let-shine",
+     "grounds": "verb",
+     "morph": "3.sg.opt-act bhās"
+    }
+   ],
+   "question": "What form is the knower of an object?",
+   "premises": [
+    "knower arises in object",
+    "knowability should shine toward all"
+   ],
+   "inference": "knowability is universal, not private",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "The knower of an object should be stated, and knowability shines toward all."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus-indeed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "codayanmanye",
+     "gloss": "objecting-I-think",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vrajedbadhiradhuryatām",
+     "gloss": "would-go-deaf-bull-status",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nahyanyaṃ",
+     "gloss": "not-indeed-another",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "postposition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaṃcidbhāti",
+     "gloss": "shines-to-anyone",
+     "grounds": "verb",
+     "morph": "3.sg.pres-act bhā"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Does knowability shine toward another in that way?",
+   "premises": [
+    "objector becomes deaf bull",
+    "knowability does not shine toward another"
+   ],
+   "inference": "the objection fails",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "The objector would become a deaf bull, since knowability does not shine toward another."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-entity",
+     "grounds": "noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rūpamityukte",
+     "gloss": "form-thus-said",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "keyamasthānavaidhurī",
+     "gloss": "what-is-this-misplaced-hardship",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "pronoun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "nītimārgeṇa",
+     "gloss": "by-policy-path",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirmūlamapasāritā",
+     "gloss": "rootless-driven-away",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What misplaced hardship arises when entity-form is stated?",
+   "premises": [
+    "entity form is stated",
+    "policy path drives rootless view away"
+   ],
+   "inference": "the opponent's position is uprooted",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "When entity-form is stated, the opponent's rootless view is driven away by policy."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "anavasthā",
+     "gloss": "regress",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hyanyairnīlādyaiḥ",
+     "gloss": "indeed-by-other-blue-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadṛśī",
+     "gloss": "similar",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kiṃtu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dharmo@sau",
+     "gloss": "quality-that",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadyogātsarvadharmavān",
+     "gloss": "by-whose-union-all-qualities",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Is knowability a regress like blue and other qualities?",
+   "premises": [
+    "regress is not knowability",
+    "quality makes all qualities"
+   ],
+   "inference": "knowability is a quality, not regress",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "Knowability is not a regress like blue; it is the quality that makes all qualities."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "dharmī",
+     "gloss": "qualified-thing",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedyatvamabhyeti",
+     "gloss": "knowability-attains",
+     "grounds": "verb",
+     "morph": "3.sg.pres-act abhi-i"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sattāsamavāyavat",
+     "gloss": "existence-inherence-like",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "brūṣe",
+     "gloss": "you-say",
+     "grounds": "verb",
+     "morph": "2.sg.pres-act brū"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "verb",
+     "morph": "3.sg.pres-act kṛ"
+    },
+    {
+     "surface": "sattā",
+     "gloss": "existence",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satyasataḥ",
+     "gloss": "of-real-unreal",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sataḥ",
+     "gloss": "of-being",
+     "grounds": "noun",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How does a qualified thing attain knowability?",
+   "premises": [
+    "qualified thing attains knowability",
+    "existence inheres like being"
+   ],
+   "inference": "knowability inheres in the qualified thing",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "The qualified thing attains knowability, as existence inheres in being."
+  }
+ ]
+}

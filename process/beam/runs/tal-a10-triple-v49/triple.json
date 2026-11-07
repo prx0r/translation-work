@@ -1,0 +1,929 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "tādṛgeva",
+     "gloss": "just-such",
+     "grounds": "qualifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiśuḥ",
+     "gloss": "child",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dahatyagnyupacārataḥ",
+     "gloss": "burns-by-fire-approach",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-pres root dah"
+    },
+    {
+     "surface": "śiśau",
+     "gloss": "in-child",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vahnyupacāre",
+     "gloss": "in-fire-approach",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yadbījaṃ",
+     "gloss": "which-seed",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taikṣṇyādi",
+     "gloss": "sharpness-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "that-and",
+     "grounds": "conjunction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sat",
+     "gloss": "being",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why does fire not burn a child by mere approach?",
+   "premises": [
+    "fire-approach lacks burning seed",
+    "child remains unburned",
+    "sharpness is not present"
+   ],
+   "inference": "Mere approach cannot burn without the seed of burning.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Just as a child is not burned by mere approach to fire, so approach alone lacks the seed of burning."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "prakāśatvopacāre",
+     "gloss": "in-light-approach",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyatā",
+     "gloss": "truth",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhe",
+     "gloss": "in-established",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cetane",
+     "gloss": "in-conscious",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yukta",
+     "gloss": "fitting",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upacāraḥ",
+     "gloss": "approach",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clear",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What seed exists in the approach of light?",
+   "premises": [
+    "truth is established in consciousness",
+    "approach is fitting there",
+    "clarity is evident"
+   ],
+   "inference": "In consciousness, light-approach has a real seed because truth is established.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "But where truth is established in consciousness, the approach of light has a fitting and clear seed."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "adhyāropātmakaḥ",
+     "gloss": "superimposition-natured",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "so@pi",
+     "gloss": "that-also",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratisaṃdhānajīvitaḥ",
+     "gloss": "reconnection-lived",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cādyāpi",
+     "gloss": "and-yet",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kimapyasti",
+     "gloss": "anything-exists",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "cetanaṃ",
+     "gloss": "conscious",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānamapyadaḥ",
+     "gloss": "knowledge-also-that",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is superimposed knowledge truly conscious?",
+   "premises": [
+    "superimposition is reconnection-lived",
+    "nothing conscious exists yet",
+    "knowledge is also that"
+   ],
+   "inference": "Superimposed knowledge is not an independent conscious reality.",
+   "uncertainties": [
+    "sandhi reading approximate"
+   ],
+   "plain_english": "That superimposition-natured thing lives by reconnection; yet no conscious knowledge exists as such."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "aprakāśaṃ",
+     "gloss": "unlit",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadanyena",
+     "gloss": "by-other",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tatprakāśe@pyayaṃ",
+     "gloss": "in-its-light-also-this",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradīpo",
+     "gloss": "lamp",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rūpasya",
+     "gloss": "of-form",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "light",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathamīdṛśam",
+     "gloss": "how-such",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can a lamp light form?",
+   "premises": [
+    "unlit thing needs another",
+    "lamp lights form",
+    "such rule is questioned"
+   ],
+   "inference": "The lamp analogy does not fully explain consciousness-light.",
+   "uncertainties": [
+    "sandhi reading approximate"
+   ],
+   "plain_english": "An unlit thing is lit by another; but how is a lamp the light of form?"
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "atrāpi",
+     "gloss": "here-also",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahantyetāḥ",
+     "gloss": "carry-these",
+     "grounds": "verbal phrase",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktivikalpanāḥ",
+     "gloss": "reasoning-contrivances",
+     "grounds": "subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yādṛśā",
+     "gloss": "such-as",
+     "grounds": "relative",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "svena",
+     "gloss": "by-own",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rūpeṇa",
+     "gloss": "by-form",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dīpo",
+     "gloss": "lamp",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakāśayet",
+     "gloss": "would-light",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Do these reasoning contrivances hold here?",
+   "premises": [
+    "lamp lights form by own form",
+    "such reasoning is questioned",
+    "contrivances do not carry"
+   ],
+   "inference": "The lamp-form analogy fails to establish consciousness.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Here too these reasoning contrivances do not carry; a lamp lights form by its own form."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "tādṛśā",
+     "gloss": "such",
+     "grounds": "adjective",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "svayamapyeṣa",
+     "gloss": "itself-also-this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāti",
+     "gloss": "shines",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradīpaścaiṣa",
+     "gloss": "lamp-and-this",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvānāṃ",
+     "gloss": "of-beings",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prakāśatvaṃ",
+     "gloss": "light-ness",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadā[dhā]tyalam",
+     "gloss": "gives-abundantly",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Does knowledge shine like a lamp?",
+   "premises": [
+    "knowledge shines itself",
+    "lamp gives light to beings",
+    "knowledge is not so"
+   ],
+   "inference": "Knowledge is self-shining, unlike a lamp that gives light to others.",
+   "uncertainties": [
+    "bracketed reading"
+   ],
+   "plain_english": "Such knowledge shines by itself, but not so; this lamp gives beings abundant light."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśerannabhede",
+     "gloss": "would-shine-in-nondifference",
+     "grounds": "verbal phrase",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "cedṛśo",
+     "gloss": "such",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmātprakāśa",
+     "gloss": "therefore-light",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evāyaṃ",
+     "gloss": "indeed-this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvoktaḥ",
+     "gloss": "previously-said",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramaḥ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What follows if things did not shine?",
+   "premises": [
+    "otherwise they would not shine",
+    "such rule is rejected",
+    "therefore light is supreme shiva"
+   ],
+   "inference": "The supreme Shiva is the previously stated light.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Otherwise they would not shine; therefore this previously stated light is supreme Shiva."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśeta",
+     "gloss": "would-shine",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tattadbhāvavapuḥ",
+     "gloss": "that-thing-body",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlatā",
+     "gloss": "blueness",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kācitprakāśate",
+     "gloss": "some-shines",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How does each thing shine clearly?",
+   "premises": [
+    "each thing-body shines clearly",
+    "blueness is named",
+    "some shines as such"
+   ],
+   "inference": "Manifestation occurs in distinct forms like blueness.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "As each thing-body shines clearly, so blueness, named, shines in some way."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "tadvaccakāsti",
+     "gloss": "thus-shines",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "vedyatvaṃ",
+     "gloss": "knowability",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "that-and",
+     "grounds": "conjunction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāvāṃśapṛṣṭhagam",
+     "gloss": "thing-part-back-gone",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakaṭatārthasya",
+     "gloss": "of-manifestation-meaning",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃvidveti",
+     "gloss": "consciousness-knows",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the fruit of manifestation?",
+   "premises": [
+    "knowability shines thus",
+    "fruit is thing-part-back-gone",
+    "consciousness knows two"
+   ],
+   "inference": "Manifestation yields knowability and consciousness as two aspects.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Thus knowability shines; its fruit is the thing-part gone behind, and consciousness knows two."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "vipakṣato",
+     "gloss": "from-opposite",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣitaṃ",
+     "gloss": "protected",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃdhānaṃ",
+     "gloss": "connection",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmithaḥ",
+     "gloss": "their-mutual",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nibhṛtaścauraścaitravedyamiti",
+     "gloss": "hidden-thief-spring-knowable-thus",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is connection protected from opposition?",
+   "premises": [
+    "connection is protected from opposite",
+    "mutual relation holds",
+    "hidden thief is knowable"
+   ],
+   "inference": "Connection remains protected and mutually intelligible.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Connection is protected from the opposite and mutual; thus a hidden thief is clearly knowable."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "buddhvā",
+     "gloss": "having-known",
+     "grounds": "participle",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "nādatta",
+     "gloss": "did-not-take",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "evāśu",
+     "gloss": "indeed-quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parīpsāvivaśo@pi",
+     "gloss": "desire-overcome-also",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "san",
+     "gloss": "being",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "she-this",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "netratribhāgeneti",
+     "gloss": "by-eye-third-part-thus",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sādaram",
+     "gloss": "respectfully",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does she see me with one third of an eye?",
+   "premises": [
+    "having known he did not take",
+    "desire overcame him",
+    "she sees me respectfully"
+   ],
+   "inference": "Perception occurs partially even when desire is restrained.",
+   "uncertainties": [
+    "sandhi reading approximate"
+   ],
+   "plain_english": "Having known, he did not take; though desire overcame him, she sees me respectfully with one third of an eye."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dehamamṛteneva",
+     "gloss": "body-with-nectar-like",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "siktaṃ",
+     "gloss": "sprinkled",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "verbal phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kāmukaḥ",
+     "gloss": "lover",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caitajjñānasaṃvittimātraṃ",
+     "gloss": "and-this-knowledge-awareness-only",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāvāṃśapṛṣṭhagam",
+     "gloss": "thing-part-back-gone",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does the lover see in his own body?",
+   "premises": [
+    "lover sees own body sprinkled with nectar",
+    "not mere knowledge-awareness",
+    "thing-part gone behind"
+   ],
+   "inference": "The lover perceives embodied nectar, not mere abstract awareness.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "The lover sees his own body sprinkled with nectar; it is not merely knowledge-awareness, but the thing-part gone behind."
+  }
+ ]
+}
