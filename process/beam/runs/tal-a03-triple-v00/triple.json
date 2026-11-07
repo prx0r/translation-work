@@ -1,0 +1,713 @@
+{
+ "song": "Tantraloka ahnika 3",
+ "items": [
+  {
+   "verse": 0,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraupayikaṃ",
+     "gloss": "supreme-means-related",
+     "grounds": "compound of para and upayika",
+     "morph": "compound"
+    },
+    {
+     "surface": "praṇigadyate",
+     "gloss": "is-praised",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root gad"
+    },
+    {
+     "surface": "padamanuttarameva",
+     "gloss": "supreme-word-indeed",
+     "grounds": "compound with eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "maheśituḥ",
+     "gloss": "of-great-lord",
+     "grounds": "genitive of maheśitṛ",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Why is the supreme means praised as the supreme word of the great lord?",
+   "premises": [
+    "The verse opens with then.",
+    "It names the supreme means.",
+    "It identifies the supreme word of the great lord."
+   ],
+   "inference": "The opening presents the supreme means as the supreme word of the great lord.",
+   "uncertainties": [
+    "paraupayikaṃ may be read as supreme means or means of the supreme."
+   ],
+   "plain_english": "Then the supreme means of the great lord is praised, the supreme word indeed."
+  },
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "prakāśamātraṃ",
+     "gloss": "mere-light",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatproktaṃ",
+     "gloss": "what-was-declared",
+     "grounds": "relative clause",
+     "morph": "n.nom.sg.rel"
+    },
+    {
+     "surface": "bhairavīyaṃ",
+     "gloss": "bhairava-related",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahaḥ",
+     "gloss": "greatness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svatantratāmātramadhikaṃ",
+     "gloss": "only-freedom-extra",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pravivicyate",
+     "gloss": "is-distinguished",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root vic"
+    }
+   ],
+   "question": "What extra element is distinguished in the supreme greatness previously declared as mere light?",
+   "premises": [
+    "The verse recalls what was declared as mere light.",
+    "It calls that greatness supreme and Bhairava-related.",
+    "It says only freedom is extra there."
+   ],
+   "inference": "The supreme greatness is mere light, with freedom as the only additional element distinguished.",
+   "uncertainties": [
+    "svatantratāmātramadhikaṃ may mean freedom alone is additional."
+   ],
+   "plain_english": "What was declared as mere light, the supreme Bhairava greatness, has only freedom distinguished there."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg.rel"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "light",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prakāśatvaṃ",
+     "gloss": "light-ness",
+     "grounds": "abstract noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "gives",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root yam"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvyatirekyasti",
+     "gloss": "exists-apart-from-that",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadvāvabhāsate",
+     "gloss": "appears-as-being",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root bhās"
+    }
+   ],
+   "question": "How does the light give light-ness to all without anything existing apart from it?",
+   "premises": [
+    "The light gives light-ness to all.",
+    "Nothing exists apart from that light.",
+    "The universe appears as being."
+   ],
+   "inference": "All light-ness comes from one light, and the universe appears within it without separation.",
+   "uncertainties": [
+    "sadvāvabhāsate may mean appears as real or appears as existent."
+   ],
+   "plain_english": "That light gives light-ness to all; nothing exists apart from it, and the universe appears as being."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "ato@sau",
+     "gloss": "therefore-that",
+     "grounds": "sandhi phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśānaḥ",
+     "gloss": "supreme-lord",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svātmavyomanyanargalaḥ",
+     "gloss": "unbarred-in-own-self-space",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "iyataḥ",
+     "gloss": "of-this-much",
+     "grounds": "genitive adjective",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sṛṣṭisaṃhārāḍambarasya",
+     "gloss": "of-creation-destruction-spectacle",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pradarśakaḥ",
+     "gloss": "revealer",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the supreme lord called the revealer of the spectacle of creation and destruction?",
+   "premises": [
+    "The supreme lord is unbarred in own self-space.",
+    "He reveals the spectacle of creation and destruction.",
+    "The spectacle is of this much."
+   ],
+   "inference": "The unbarred supreme lord reveals the whole spectacle of creation and destruction.",
+   "uncertainties": [
+    "iyataḥ may qualify the spectacle or the lord."
+   ],
+   "plain_english": "Therefore that supreme lord, unbarred in his own self-space, reveals the spectacle of creation and destruction."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "nirmale",
+     "gloss": "in-pure",
+     "grounds": "locative adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "makure",
+     "gloss": "mirror",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yadvadbhānti",
+     "gloss": "as-they-shine",
+     "grounds": "relative verb",
+     "morph": "3.pl.act-pres + root bhā"
+    },
+    {
+     "surface": "bhūmijalādayaḥ",
+     "gloss": "earth-water-and-so-forth",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "amiśrāstadvadekasmiṃścinnāthe",
+     "gloss": "unmixed-so-in-one-conscious-lord",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśvavṛttayaḥ",
+     "gloss": "world-activities",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How do world activities appear unmixed in one conscious lord like earth and water in a pure mirror?",
+   "premises": [
+    "Earth, water, and so forth shine in a pure mirror.",
+    "They remain unmixed there.",
+    "World activities likewise appear in one conscious lord."
+   ],
+   "inference": "World activities appear distinctly and unmixed in one conscious lord, like reflections in a pure mirror.",
+   "uncertainties": [
+    "amiśrāḥ may modify reflections or activities."
+   ],
+   "plain_english": "As earth, water, and so forth shine unmixed in a pure mirror, so world activities appear in one conscious lord."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "sadṛśaṃ",
+     "gloss": "similar",
+     "grounds": "adverb/adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāti",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root bhā"
+    },
+    {
+     "surface": "nayanadarpaṇāmbaravāriṣu",
+     "gloss": "in-eye-mirror-sky-water",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmale",
+     "gloss": "in-pure",
+     "grounds": "locative adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rūpe",
+     "gloss": "form",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rūpamevāvabhāsate",
+     "gloss": "form-alone-appears",
+     "grounds": "verb phrase",
+     "morph": "3.sg.act-pres + root bhās"
+    }
+   ],
+   "question": "Why does only form appear in pure form when similar shining occurs in eye, mirror, sky, and water?",
+   "premises": [
+    "Similar shining occurs in eye, mirror, sky, and water.",
+    "In pure form, form alone appears.",
+    "The verse emphasizes this with indeed."
+   ],
+   "inference": "Pure form reveals form alone, unlike mixed media where similar shining occurs.",
+   "uncertainties": [
+    "sadṛśaṃ may modify shining or form."
+   ],
+   "plain_english": "Similar shining appears in eye, mirror, sky, and water; indeed, in pure form only form appears."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "pracchannarāgiṇī",
+     "gloss": "hidden-passionate-woman",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāntapratibimbitasundaram",
+     "gloss": "beloved-reflected-beautiful",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "darpaṇaṃ",
+     "gloss": "mirror",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kucakumbhābhyāṃ",
+     "gloss": "by-breast-pots",
+     "grounds": "instrumental dual",
+     "morph": "n.inst.du"
+    },
+    {
+     "surface": "spṛśantyapi",
+     "gloss": "though-touching",
+     "grounds": "participle",
+     "morph": "f.nom.sg.part"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛpyati",
+     "gloss": "is-satisfied",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root tṛp"
+    }
+   ],
+   "question": "Why is the hidden passionate woman not satisfied by touching the mirror reflecting her beloved?",
+   "premises": [
+    "The woman touches the mirror with her breast-pots.",
+    "The mirror reflects the beloved beautifully.",
+    "She is not satisfied."
+   ],
+   "inference": "Touching a reflected beloved in a mirror does not satisfy desire.",
+   "uncertainties": [
+    "pracchannarāgiṇī may be metaphorical."
+   ],
+   "plain_english": "Though the hidden passionate woman touches with her breast-pots the mirror reflecting her beloved beautifully, she is not satisfied."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sparśo@sya",
+     "gloss": "touch-of-it",
+     "grounds": "genitive phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vimalo",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rūpameva",
+     "gloss": "form-alone",
+     "grounds": "noun with eva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nairmalyaṃ",
+     "gloss": "purity",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cātiniviḍasajātīyaikasaṃgatiḥ",
+     "gloss": "is-extreme-dense-same-kind-union",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is touch not pure while form alone is pure in this mirror example?",
+   "premises": [
+    "Touch of it is not pure.",
+    "Form alone is so.",
+    "Purity is extreme dense union of same kind."
+   ],
+   "inference": "Touch lacks purity because purity requires extreme dense union of same kind, which form alone has.",
+   "uncertainties": [
+    "cātiniviḍasajātīyaikasaṃgatiḥ is a dense compound."
+   ],
+   "plain_english": "Indeed touch of it is not pure; form alone is so, because purity is extreme dense union of same kind."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "svasminnabhedādbhinnasya",
+     "gloss": "from-non-difference-in-self-of-different",
+     "grounds": "compound ablative",
+     "morph": "compound"
+    },
+    {
+     "surface": "darśanakṣamataiva",
+     "gloss": "seeing-capacity-alone",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg.rel"
+    },
+    {
+     "surface": "atyaktasvaprakāśasya",
+     "gloss": "of-not-abandoned-self-light",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nairmalyaṃ",
+     "gloss": "purity",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadgurūditam",
+     "gloss": "that-guru-taught",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is purity according to the guru for one who does not abandon self-light?",
+   "premises": [
+    "Purity is seeing capacity of the different from non-difference in self.",
+    "It belongs to one who does not abandon self-light.",
+    "The guru taught this."
+   ],
+   "inference": "Purity is the capacity to see difference without losing non-difference in self-light.",
+   "uncertainties": [
+    "svasminnabhedādbhinnasya is syntactically dense."
+   ],
+   "plain_english": "Purity, as the guru taught, is the seeing capacity of the different arising from non-difference in self, for one who does not abandon self-light."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "nairmalyaṃ",
+     "gloss": "purity",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyamekasya",
+     "gloss": "primary-of-one",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃvinnāthasya",
+     "gloss": "of-consciousness-lord",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-all-sides",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśāṃśikātaḥ",
+     "gloss": "from-partial-partiality",
+     "grounds": "compound ablative",
+     "morph": "compound"
+    },
+    {
+     "surface": "kvāpyanyadvimalaṃ",
+     "gloss": "somewhere-else-pure",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattadicchayā",
+     "gloss": "by-his-will",
+     "grounds": "compound instrumental",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is purity primary only for the one consciousness-lord, while other purity is partial and by his will?",
+   "premises": [
+    "Purity is primary for one consciousness-lord.",
+    "Other purity is partial from all sides.",
+    "Such other purity occurs by his will."
+   ],
+   "inference": "Only the consciousness-lord has primary purity; all other purity is partial and dependent on his will.",
+   "uncertainties": [
+    "aṃśāṃśikātaḥ may mean partiality of parts."
+   ],
+   "plain_english": "Purity is primary for the one consciousness-lord; elsewhere it is partial, by his will."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "bhāvānāṃ",
+     "gloss": "of-beings",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yatpratīghāti",
+     "gloss": "what-is-obstructive",
+     "grounds": "relative adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vapurmāyātmakaṃ",
+     "gloss": "body-maya-natured",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "teṣāmevāsti",
+     "gloss": "belongs-to-them-only",
+     "grounds": "verb phrase",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sadvidyāmayaṃ",
+     "gloss": "true-knowledge-natured",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tvapratighātakam",
+     "gloss": "but-non-obstructive",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is obstructive for beings and what is non-obstructive true knowledge?",
+   "premises": [
+    "The obstructive thing for beings is body-maya-natured.",
+    "That belongs to them only.",
+    "True-knowledge-natured is non-obstructive."
+   ],
+   "inference": "Maya-bodied obstruction belongs to beings, while true knowledge is non-obstructive.",
+   "uncertainties": [
+    "bhāvānāṃ may mean beings or states."
+   ],
+   "plain_english": "For beings, the obstructive body-maya nature belongs to them only; true-knowledge nature is non-obstructive."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "tadevamubhayākāramavabhāsaṃ",
+     "gloss": "thus-both-formed-appearance",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakāśayan",
+     "gloss": "revealing",
+     "grounds": "participle",
+     "morph": "m.nom.sg.part + root kāś"
+    },
+    {
+     "surface": "vibhāti",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root bhā"
+    },
+    {
+     "surface": "varado",
+     "gloss": "boon-giver",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bimbapratibimbadṛśākhile",
+     "gloss": "by-image-reflection-view-everywhere",
+     "grounds": "compound instrumental",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the boon-giver shine by revealing an appearance of both forms everywhere?",
+   "premises": [
+    "The boon-giver reveals an appearance of both forms.",
+    "He shines everywhere by image and reflection view.",
+    "Thus both forms appear."
+   ],
+   "inference": "The boon-giver shines everywhere by revealing an appearance that has both forms, seen as image and reflection.",
+   "uncertainties": [
+    "ubhayākāram may mean both forms or both aspects."
+   ],
+   "plain_english": "Thus revealing an appearance of both forms, the boon-giver shines everywhere by image and reflection view."
+  }
+ ]
+}
