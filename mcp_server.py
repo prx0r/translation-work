@@ -508,10 +508,23 @@ def review_sweep() -> dict:
     return _run(["tools/assessor_sweep.py"], timeout=300)
 
 
+@mcp.tool()
+def beam_review(task_id: str = "", max_new: int = 1, apply: bool = False) -> dict:
+    """SMART-beam reviewer over DUMB drafts (bounce-only, never approves).
+    Reviews newest unreviewed DONE drafts against the shape+honesty checklist
+    (max_new, default 1 — cheap on quota, instant backoff on 429). Bounces
+    only mechanical fails with actionable notes when apply=true; meaning,
+    forks, and PASS stay queued for the human assessor. task_id reviews one
+    specific task instead of sweeping."""
+    if task_id:
+        return _run(["tools/beam_review.py", "--task", task_id] + (["--apply"] if apply else []), timeout=300)
+    return _run(["tools/beam_review.py", "--sweep", "--max", str(max_new)] + (["--apply"] if apply else []), timeout=600)
+
+
 TOOLS = ["status", "validate", "lore", "swarm_status",
          "swarm_seed", "swarm_review", "swarm_decide", "promote",
          "skill", "concepts", "gates", "recon", "assemble", "supervise",
-         "swarm_workers", "review_sweep"]
+         "swarm_workers", "review_sweep", "beam_review"]
 
 
 if __name__ == "__main__":
