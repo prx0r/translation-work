@@ -1,0 +1,722 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "piṇḍo",
+     "gloss": "mass",
+     "grounds": "piṇḍa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raktādisāraughacālanākarṣaṇādiṣu",
+     "gloss": "in-blood-etc-essence-flow-movement-attraction-etc",
+     "grounds": "rakta-ādi-sāra-ogha-cālana-ākarṣaṇa-ādi",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "ittham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśrāntiyogena",
+     "gloss": "by-rest-yoga",
+     "grounds": "viśrānti-yoga",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ghaṭikārdhakrame",
+     "gloss": "in-half-ghatika-sequence",
+     "grounds": "ghaṭikā-ardha-krama",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "when-present",
+     "grounds": "sat",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "When does the mass become present in this sequence?",
+   "premises": [
+    "rest-yoga occurs in half-ghatika sequence",
+    "blood-etc essence-flow movement is involved"
+   ],
+   "inference": "the mass is present under that condition",
+   "uncertainties": [
+    "exact ritual sense of piṇḍa"
+   ],
+   "plain_english": "When, in a half-ghatika sequence, rest-yoga occurs amid blood and similar essence-flow movements, the mass is present."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "āvṛttiśatayogena",
+     "gloss": "by-hundred-repetitions",
+     "grounds": "āvṛtti-śata-yoga",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paśornirvāpaṇaṃ",
+     "gloss": "pacification-of-bound-soul",
+     "grounds": "paśu-nirvāpaṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "occurs",
+     "grounds": "bhū",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-practiced",
+     "grounds": "kṛ",
+     "morph": "abs"
+    },
+    {
+     "surface": "katipayaṃ",
+     "gloss": "some",
+     "grounds": "katipaya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "kāla",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatrābhyāsamananyadhīḥ",
+     "gloss": "practice-there-with-undivided-mind",
+     "grounds": "tatra-abhyāsa-ananya-dhī",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does pacification of the bound soul occur?",
+   "premises": [
+    "hundred repetitions are used",
+    "practice continues for some time",
+    "mind remains undivided"
+   ],
+   "inference": "pacification of the bound soul occurs",
+   "uncertainties": [
+    "whether tatra refers to prior place or state"
+   ],
+   "plain_english": "By a hundred repetitions, pacification of the bound soul occurs; having practiced there for some time with undivided mind."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "yathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintāmaṇau",
+     "gloss": "in-cintamani",
+     "grounds": "cintāmaṇi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "stated",
+     "grounds": "pra-vac",
+     "morph": "n.nom.sg.pass-part"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "tad",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rūpeṇa",
+     "gloss": "form",
+     "grounds": "rūpa",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yogavit",
+     "gloss": "yogi",
+     "grounds": "yoga-vid",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niḥśaṅkaḥ",
+     "gloss": "without-doubt",
+     "grounds": "niḥśaṅka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhimāpnoti",
+     "gloss": "obtains-siddhi",
+     "grounds": "siddhi-āp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "gopyaṃ",
+     "gloss": "secret",
+     "grounds": "gup",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatprāṇavatsphuṭam",
+     "gloss": "that-clear-like-prana",
+     "grounds": "tat-prāṇa-vat-sphuṭa",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does the yogi obtain siddhi without doubt?",
+   "premises": [
+    "it is stated in cintamani",
+    "the yogi acts by that form",
+    "the secret is clear like prana"
+   ],
+   "inference": "the yogi obtains siddhi without doubt",
+   "uncertainties": [
+    "exact referent of tena rūpeṇa"
+   ],
+   "plain_english": "As stated in the Cintamani, by that form the yogi obtains siddhi without doubt; that secret is clear like prana."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "parokṣe@pi",
+     "gloss": "even-unseen",
+     "grounds": "parokṣa-api",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paśāvevaṃ",
+     "gloss": "for-bound-soul-thus",
+     "grounds": "paśu-evaṃ",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "vidhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syādyojanaṃ",
+     "gloss": "would-be-for-yojana",
+     "grounds": "syāt-yojana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "prati",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praveśito",
+     "gloss": "entered",
+     "grounds": "pra-viś",
+     "morph": "m.nom.sg.pass-part"
+    },
+    {
+     "surface": "yāgabhuvi",
+     "gloss": "in-sacrificial-ground",
+     "grounds": "yāga-bhū",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "hatastatraiva",
+     "gloss": "killed-there-itself",
+     "grounds": "hata-tatra-eva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sādhitaḥ",
+     "gloss": "accomplished",
+     "grounds": "sādh",
+     "morph": "m.nom.sg.pass-part"
+    }
+   ],
+   "question": "What rite applies even to an unseen bound soul?",
+   "premises": [
+    "the bound soul is unseen",
+    "the rite is entered into sacrificial ground",
+    "killing and accomplishment occur there"
+   ],
+   "inference": "the rite applies even to an unseen bound soul",
+   "uncertainties": [
+    "meaning of syādyojanaṃ"
+   ],
+   "plain_english": "Even for an unseen bound soul, the rite is thus; entered into the sacrificial ground, he is killed there and accomplished."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "cakrajuṣṭaśca",
+     "gloss": "and-joined-to-cakra",
+     "grounds": "cakra-juṣṭa-ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "tatra-eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "sa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vīrapaśurucyate",
+     "gloss": "is-called-hero-victim",
+     "grounds": "vīra-paśu-ucyate",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "yastvanyatrāpi",
+     "gloss": "but-one-killed-elsewhere",
+     "grounds": "yaḥ-tu-anyatra-api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nihataḥ",
+     "gloss": "killed",
+     "grounds": "ni-han",
+     "morph": "m.nom.sg.pass-part"
+    },
+    {
+     "surface": "sāmastyenāṃśato@pivā",
+     "gloss": "by-totality-or-partly",
+     "grounds": "sāmasti-ena-aṃśataḥ-api-vā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is called a hero-victim?",
+   "premises": [
+    "one joined to cakra there is called hero-victim",
+    "one killed elsewhere is treated by totality or partly"
+   ],
+   "inference": "hero-victim status depends on cakra-joining and place",
+   "uncertainties": [
+    "exact force of sāmastyena"
+   ],
+   "plain_english": "One joined to the cakra there is called a hero-victim; but one killed elsewhere is treated by totality or partly."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "devāya",
+     "gloss": "to-deity",
+     "grounds": "deva",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vinivedyeta",
+     "gloss": "is-offered",
+     "grounds": "vi-ni-vid",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "sa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "vai",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyapaśurmataḥ",
+     "gloss": "external-victim-is-held",
+     "grounds": "bāhya-paśu-mata",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "rājya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lābho@tha",
+     "gloss": "gain-then",
+     "grounds": "lābha-atha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatsthairyaṃ",
+     "gloss": "stability-in-that",
+     "grounds": "tat-sthairya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-shiva",
+     "grounds": "śiva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhaktistadātmatā",
+     "gloss": "devotion-and-identity-with-that",
+     "grounds": "bhakti-tad-ātmatā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What results from offering to the deity?",
+   "premises": [
+    "offering to deity makes external victim",
+    "kingdom gain stability devotion and identity follow"
+   ],
+   "inference": "external victim offering yields worldly and devotional results",
+   "uncertainties": [
+    "whether rājyaṃ etc are results or separate items"
+   ],
+   "plain_english": "Offered to the deity, that is indeed held to be an external victim; kingdom, gain, stability, devotion to Shiva, and identity with that follow."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "śivajñānaṃ",
+     "gloss": "shiva-knowledge",
+     "grounds": "śiva-jñāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantralokaprāptistatparivāratā",
+     "gloss": "mantra-world-attainment-and-retinue",
+     "grounds": "mantra-loka-prāpti-tat-parivāra-tā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatsāyujyaṃ",
+     "gloss": "union-with-that",
+     "grounds": "tat-sāyujya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paśoḥ",
+     "gloss": "of-bound-soul",
+     "grounds": "paśu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sāmyādbāhyādervīradharmaṇaḥ",
+     "gloss": "by-equality-from-external-or-hero-dharma",
+     "grounds": "sāmya-ad-bāhya-ādeḥ-vīra-dharmaṇaḥ",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What does the bound soul attain by equality?",
+   "premises": [
+    "shiva-knowledge is attained",
+    "mantra-world attainment and retinue follow",
+    "union with that follows"
+   ],
+   "inference": "the bound soul attains these by equality from external or hero dharma",
+   "uncertainties": [
+    "exact scope of bāhyāder"
+   ],
+   "plain_english": "Shiva-knowledge, attainment of the mantra-world, retinue, and union with that belong to the bound soul by equality from external or hero dharma."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "puṣpādayo@pi",
+     "gloss": "flowers-etc-also",
+     "grounds": "puṣpa-ādi-api",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tallābhabhāginaḥ",
+     "gloss": "sharing-that-gain",
+     "grounds": "tat-lābha-bhāgin",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śivapūjayā",
+     "gloss": "by-shiva-worship",
+     "grounds": "śiva-pūjā",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ekopāyena",
+     "gloss": "by-one-means",
+     "grounds": "eka-upāya",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "deveśo",
+     "gloss": "lord-of-gods",
+     "grounds": "deva-īśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśvānugrahaṇātmakaḥ",
+     "gloss": "nature-of-blessing-universe",
+     "grounds": "viśva-anugrahaṇa-ātmaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who shares the gain of Shiva worship?",
+   "premises": [
+    "flowers etc also share that gain",
+    "Shiva worship is one means",
+    "lord of gods blesses the universe"
+   ],
+   "inference": "even flowers etc share the gain through Shiva worship",
+   "uncertainties": [
+    "whether tallābha refers to prior results"
+   ],
+   "plain_english": "Flowers and the like also share that gain; by Shiva worship, one means, the lord of gods is of the nature of blessing the universe."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "yāgenaivānugṛhṇāti",
+     "gloss": "by-sacrifice-alone-blesses",
+     "grounds": "yāga-eva-anugṛhṇāti",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "kim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "kim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yanna",
+     "gloss": "that-not",
+     "grounds": "yat-na",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "carācaram",
+     "gloss": "moving-and-still",
+     "grounds": "cara-acara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tenāvīro@pi",
+     "gloss": "therefore-even-non-hero",
+     "grounds": "tena-avīra-api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṅkādiyuktaḥ",
+     "gloss": "with-doubt-etc",
+     "grounds": "śaṅkā-ādi-yukta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāruṇiko@pica",
+     "gloss": "compassionate-also",
+     "grounds": "kāruṇika-api-ca",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does sacrifice alone bless?",
+   "premises": [
+    "by sacrifice alone he blesses",
+    "what is not moving and still?",
+    "therefore even non-hero with doubt etc is compassionate"
+   ],
+   "inference": "sacrifice alone blesses all moving and still things",
+   "uncertainties": [
+    "rhetorical force of double kiṃ"
+   ],
+   "plain_english": "By sacrifice alone he blesses; what is not moving and still? Therefore even a non-hero, though joined with doubt and the like, is compassionate."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hiṃsābuddhimādadhyātpaśukarmaṇi",
+     "gloss": "adopt-harming-thought-in-victim-rite",
+     "grounds": "hiṃsā-buddhi-ādadhyāt-paśu-karmaṇi",
+     "morph": "3.sg.opt-pres"
+    },
+    {
+     "surface": "jātucit",
+     "gloss": "ever",
+     "grounds": "jātucit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśormahopakāro@yaṃ",
+     "gloss": "great-benefit-to-bound-soul-this",
+     "grounds": "paśu-mahā-upakāra-ayam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadātve@pyapriyaṃ",
+     "gloss": "though-unpleasant-at-that-time",
+     "grounds": "tadātva-api-apriya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "bhū",
+     "morph": "3.sg.opt-pres"
+    }
+   ],
+   "question": "Should harming thought be adopted in victim rite?",
+   "premises": [
+    "harming thought should never be adopted",
+    "this is great benefit to bound soul",
+    "it may be unpleasant at that time"
+   ],
+   "inference": "victim rite should not be viewed as harming",
+   "uncertainties": [
+    "whether bhavet modifies apriyaṃ or whole clause"
+   ],
+   "plain_english": "Never adopt a harming thought in the victim rite; this is a great benefit to the bound soul, though it may be unpleasant at that time."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "vyādhicchedauṣadhatapoyojanātra",
+     "gloss": "disease-cutting-medicine-austerity-use-here",
+     "grounds": "vyādhi-ccheda-auṣadha-tapas-yojana-atra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nidarśanam",
+     "gloss": "example",
+     "grounds": "nidarśana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīmanmṛtyuñjaye",
+     "gloss": "in-glorious-mrtyunjaya",
+     "grounds": "śrīmat-mṛtyuñjaya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "stated",
+     "grounds": "pra-vac",
+     "morph": "n.nom.sg.pass-part"
+    },
+    {
+     "surface": "pāśacchede",
+     "gloss": "in-bond-cutting",
+     "grounds": "pāśa-ccheda",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "done",
+     "grounds": "kṛ",
+     "morph": "m.loc.sg.pass-part"
+    },
+    {
+     "surface": "paśoḥ",
+     "gloss": "of-bound-soul",
+     "grounds": "paśu",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What example is given for bond-cutting?",
+   "premises": [
+    "disease-cutting medicine austerity and use are example",
+    "it is stated in glorious Mrtyunjaya",
+    "bond-cutting is done for bound soul"
+   ],
+   "inference": "bond-cutting for the bound soul is like healing austerity",
+   "uncertainties": [
+    "exact relation of yojana"
+   ],
+   "plain_english": "Disease-cutting, medicine, austerity, and use are an example here; as stated in the glorious Mrtyunjaya, bond-cutting is done for the bound soul."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "malatrayaviyogena",
+     "gloss": "by-separation-from-three-impurities",
+     "grounds": "mala-traya-viyoga",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śarīraṃ",
+     "gloss": "body",
+     "grounds": "śarīra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prarohati",
+     "gloss": "grows",
+     "grounds": "pra-ruh",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dharmādharmaughavicchedāccharīraṃ",
+     "gloss": "by-cutting-mass-of-merit-demerit-body",
+     "grounds": "dharma-adharma-ogha-viccheda-accha-rīraṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cyacate",
+     "gloss": "falls-away",
+     "grounds": "cyu",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "kila",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the body not grow?",
+   "premises": [
+    "separation from three impurities prevents growth",
+    "cutting mass of merit and demerit makes body fall",
+    "this is indeed so"
+   ],
+   "inference": "impurity separation and karma-mass cutting end bodily growth",
+   "uncertainties": [
+    "compound parsing of dharmādharmaughavicchedāccharīraṃ"
+   ],
+   "plain_english": "By separation from the three impurities the body does not grow; by cutting the mass of merit and demerit the body falls away indeed."
+  }
+ ]
+}
