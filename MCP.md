@@ -176,6 +176,15 @@ Reports continue.sh / ralph.sh / watchdog.sh / tal drivers / live workers.
 With `start_missing=true`, (re)starts absent supervisors without duplicating
 running ones; never pushes itself. See §7.
 
+### `swarm_workers(action="status", target="1")` — the throttle.
+
+`status`: live workers + what each holds. `start`: launch up to `target`
+free slots (w1..w5), staggered ~8s, HEALTH-GATED (refuses while beam is down).
+`stop`: kill named slots (`target: "w4,w5"`) — claims self-heal via stale
+expiry. Doctrine: start ONE; add a second only if quota is healthy; never
+pound a throttled tier. Supervisors (ralph/watchdog) keep their own workers —
+use this tool for deliberate single-worker operation, not to fight them.
+
 ## 4. Standard flows (with worked sessions)
 
 **Small work — one verse by hand (assessor-direct).**

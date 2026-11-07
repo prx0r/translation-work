@@ -404,9 +404,103 @@ def supervise(start_missing: bool = False) -> dict:
                     "driver tal_run_all.sh seeds the campaign. 429 pauses are health-gated, not failures."}
 
 
+@mcp.tool()
+def swarm_workers(action: str = "status", target: str = "1") -> dict:
+    """Beam-worker throttle (don't pound the free tier). Actions:
+    status (live workers + what each holds); start (launch up to `target`
+    free slots of w1..w5, staggered ~8s, health-gated: refuses while beam
+    is down — start ONE, add more later); stop (kill slots named in
+    `target`, e.g. 'w4,w5' — claims self-heal via 15-min stale expiry)."""
+    return _workers(action, target)
+
+
+def _workers(action: str, target: str = "1") -> dict:
+    import subprocess as _sp, time as _t, os as _os
+    def live() -> dict[str, int]:
+        out = {}
+        ps = _sp.run(["pgrep", "-f", "beam_swarm.py worker w"],
+                     capture_output=True, text=True).stdout
+        pids = [p for p in ps.split() if p.strip().isdigit()]
+        for pid in pids:
+            try:
+                cmd = open(f"/proc/{pid}/cmdline", "rb").read().decode().replace("\x00", " ")
+            except OSError:
+                continue
+            for w in ("w1", "w2", "w3", "w4", "w5"):
+                if f"worker {w}" in cmd:
+                    out[w] = int(pid)
+        return out
+    if action == "status":
+        holding = {}
+        try:
+            q = json.loads((ROOT / "process" / "beam" / "queue.json").read_text())
+            for t in q:
+                if t.get("status") == "claimed":
+                    holding[t.get("worker", "?")] = t["id"]
+        except (OSError, ValueError):
+            pass
+        return {"workers": live(), "holding": holding}
+    if action == "start":
+        try:
+            n = max(1, min(int(target), 5))
+        except ValueError:
+            return {"error": "start target must be a number 1..5"}
+        sys.path.insert(0, str(ROOT / "tools"))
+        try:
+            from beam_client import health
+            ok, msg = health()
+        except Exception as e:
+            ok, msg = False, str(e)[:200]
+        if not ok:
+            return {"started": [], "reason": f"beam down, not starting: {msg}"}
+        key = _os.environ.get("OPENCODE_GO_KEY", "")
+        if not key:
+            try:
+                r = _sp.run(["agent-vault", "vault", "credential", "get",
+                             "OPENCODE_GO_KEY", "--vault", "oracle"],
+                            capture_output=True, text=True, timeout=30)
+                if r.returncode == 0 and r.stdout.strip():
+                    key = r.stdout.strip()
+            except Exception:
+                pass
+        if not key:
+            return {"started": [], "reason": "no OPENCODE_GO_KEY available"}
+        env = dict(_os.environ, OPENCODE_GO_KEY=key)
+        alive = live()
+        started = []
+        for w in ("w1", "w2", "w3", "w4", "w5"):
+            if len(started) >= n:
+                break
+            if w in alive:
+                continue
+            log = open(ROOT / f"process/beam/{w}.log", "ab")
+            _sp.Popen(["setsid", "nohup", sys.executable, "-u",
+                       "tools/beam_swarm.py", "worker", w],
+                      stdout=log, stderr=_sp.STDOUT, stdin=_sp.DEVNULL,
+                      env=env, cwd=str(ROOT), start_new_session=True)
+            started.append(w)
+            _t.sleep(8)
+        return {"started": started, "note": "staggered ~8s; add more only if quota healthy"}
+    if action == "stop":
+        slots = [s.strip() for s in target.split(",") if s.strip() in ("w1", "w2", "w3", "w4", "w5")]
+        alive = live()
+        killed = []
+        for s in slots:
+            if s in alive:
+                try:
+                    _os.kill(alive[s], 15)
+                    killed.append(s)
+                except OSError:
+                    pass
+        return {"stopped": killed,
+                "note": "claims self-heal via 15-min stale expiry"}
+    return {"error": "action must be status|start|stop"}
+
+
 TOOLS = ["status", "validate", "lore", "swarm_status",
          "swarm_seed", "swarm_review", "swarm_decide", "promote",
-         "skill", "concepts", "gates", "recon", "assemble", "supervise"]
+         "skill", "concepts", "gates", "recon", "assemble", "supervise",
+         "swarm_workers"]
 
 
 if __name__ == "__main__":

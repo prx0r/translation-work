@@ -1,0 +1,731 @@
+{
+ "song": "Tantraloka 133-144",
+ "items": [
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "tadabhyāsavaśādyāti",
+     "gloss": "by-habit-power-attains",
+     "grounds": "compound of habit power and attainment",
+     "morph": "verb.3.sg.act-pres+root-yā"
+    },
+    {
+     "surface": "kramādyogī",
+     "gloss": "by-stages-yogi",
+     "grounds": "yogi through stages",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "cidātmatām",
+     "gloss": "consciousness-nature",
+     "grounds": "accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverbial connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hyanacke",
+     "gloss": "in-void-without-seed",
+     "grounds": "locative void",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sācke",
+     "gloss": "in-void-with-seed",
+     "grounds": "locative void",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kādau",
+     "gloss": "from-beginning",
+     "grounds": "locative beginning",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sānte",
+     "gloss": "in-end",
+     "grounds": "locative end",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "punaḥpunaḥ",
+     "gloss": "again-and-again",
+     "grounds": "repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the yogi attain consciousness-nature repeatedly?",
+   "premises": [
+    "habit-power leads attainment",
+    "voids may have seed",
+    "practice repeats from beginning to end"
+   ],
+   "inference": "repeated practice in voids leads consciousness-nature",
+   "uncertainties": [
+    "exact scope of kramād"
+   ],
+   "plain_english": "By the power of habit the yogi attains consciousness-nature; likewise in voids with or without seed, from beginning to end, again and again."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "smṛte",
+     "gloss": "when-remembered",
+     "grounds": "locative absolute",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "proccārite",
+     "gloss": "when-uttered",
+     "grounds": "locative absolute",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "repeated demonstrative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃvitprasūyāte",
+     "gloss": "consciousness-arises",
+     "grounds": "compound of consciousness and arising",
+     "morph": "verb.3.sg.mid-pres+root-prasu"
+    },
+    {
+     "surface": "bāhyārthasamayāpekṣā",
+     "gloss": "external-object-convention-dependent",
+     "grounds": "compound of external object convention dependence",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ghaṭādyā",
+     "gloss": "pot-and-similar",
+     "grounds": "compound of pot and similar",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "dhvanayo@pi",
+     "gloss": "sounds-also",
+     "grounds": "sounds included",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "When is consciousness said to arise from memory or utterance?",
+   "premises": [
+    "memory or utterance triggers arising",
+    "external convention shapes sounds",
+    "pot-like sounds are included"
+   ],
+   "inference": "consciousness arises through remembered or uttered forms",
+   "uncertainties": [
+    "double sā reading"
+   ],
+   "plain_english": "When remembered or uttered, that consciousness arises; external object-convention dependent sounds, such as pot and the like, also arise."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "te@pyarthabhāvanāṃ",
+     "gloss": "they-too-object-meditation",
+     "grounds": "compound of they too and object meditation",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kuryurmanorājyavadātmani",
+     "gloss": "would-create-like-mind-kingdom-in-self",
+     "grounds": "compound of mind kingdom and self",
+     "morph": "verb.3.pl.act-opt+root-kṛ"
+    },
+    {
+     "surface": "taduktaṃ",
+     "gloss": "thus-said",
+     "grounds": "quoted statement",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "parameśena",
+     "gloss": "by-supreme-lord",
+     "grounds": "instrumental agent",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "bhairavo",
+     "gloss": "bhairava",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vyāpako@khile",
+     "gloss": "pervades-all",
+     "grounds": "compound of pervading and all",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does the supreme lord say about Bhairava?",
+   "premises": [
+    "sounds create object-meditation in self",
+    "supreme lord is quoted",
+    "Bhairava pervades all"
+   ],
+   "inference": "Bhairava's pervasion grounds the practice",
+   "uncertainties": [
+    "manorājya nuance"
+   ],
+   "plain_english": "They too would create object-meditation in the self, like a mind-kingdom; thus the supreme lord said: Bhairava pervades all."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavaśabdasya",
+     "gloss": "of-bhairava-word",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "saṃtatoccāraṇācchivaḥ",
+     "gloss": "by-continuous-utterance-shiva",
+     "grounds": "compound of continuous utterance and Shiva",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śrīmattraiśirase@pyuktaṃ",
+     "gloss": "also-said-in-shri-trika",
+     "grounds": "quoted in Trika text",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mantroddhārasya",
+     "gloss": "of-mantra-extraction",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "pūrvataḥ",
+     "gloss": "prior",
+     "grounds": "adverbial prior",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is continuous Bhairava utterance connected to Shiva?",
+   "premises": [
+    "continuous utterance of Bhairava word",
+    "Shiva is named",
+    "Trika text also says it"
+   ],
+   "inference": "continuous utterance links to Shiva and mantra extraction",
+   "uncertainties": [
+    "śrīmattraiśirasa identification"
+   ],
+   "plain_english": "Thus, by continuous utterance of the Bhairava word, Shiva; it is also said in the Shri Trika, prior to mantra extraction."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "smṛtiśca",
+     "gloss": "and-memory",
+     "grounds": "memory plus conjunction",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "smaraṇaṃ",
+     "gloss": "recollection",
+     "grounds": "apposition",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "prior",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvabhāveṣu",
+     "gloss": "in-all-beings",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "vastutaḥ",
+     "gloss": "truly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrasvarūpaṃ",
+     "gloss": "mantra-nature",
+     "grounds": "compound of mantra and nature",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tadbhāvyasvarūpāpattiyojakam",
+     "gloss": "causes-attainment-of-that-meditated-nature",
+     "grounds": "compound of that meditated nature attainment causing",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is memory said to be in all beings?",
+   "premises": [
+    "memory is prior recollection",
+    "all beings have mantra-nature",
+    "it causes attainment of meditated nature"
+   ],
+   "inference": "memory reveals mantra-nature and enables attainment",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Memory is recollection prior; in all beings, truly, it is mantra-nature, causing attainment of that meditated nature."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "smṛtiḥ",
+     "gloss": "memory",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "svarūpajanikā",
+     "gloss": "produces-own-nature",
+     "grounds": "compound of own nature producing",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sarvabhāveṣu",
+     "gloss": "in-all-beings",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "rañjikā",
+     "gloss": "colors",
+     "grounds": "coloring function",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "anekākārarūpeṇa",
+     "gloss": "by-many-forms",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "sarvatrāvasthitena",
+     "gloss": "situated-everywhere",
+     "grounds": "compound of everywhere situated",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does memory operate in all beings?",
+   "premises": [
+    "memory produces own-nature",
+    "it colors all beings",
+    "it acts through many forms everywhere"
+   ],
+   "inference": "memory pervades beings through varied forms",
+   "uncertainties": [
+    "rañjikā exact sense"
+   ],
+   "plain_english": "Memory produces own-nature; in all beings it colors, by many forms, situated everywhere."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "svasvabhāvasya",
+     "gloss": "of-own-nature",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "saṃprāptiḥ",
+     "gloss": "attainment",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃvittiḥ",
+     "gloss": "consciousness",
+     "grounds": "apposition",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "paramārthataḥ",
+     "gloss": "in-ultimate-truth",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyaktiniṣṭhā",
+     "gloss": "manifestation-abiding",
+     "grounds": "compound of manifestation and abiding",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "imperative",
+     "morph": "verb.2.sg.act-imp+root-vid"
+    },
+    {
+     "surface": "sattā",
+     "gloss": "existence",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is called supreme existence?",
+   "premises": [
+    "attainment of own nature is consciousness",
+    "ultimate truth is manifestation-abiding",
+    "that existence is called supreme"
+   ],
+   "inference": "supreme existence is consciousness-abiding manifestation",
+   "uncertainties": [
+    "vyaktiniṣṭhā reading"
+   ],
+   "plain_english": "Attainment of one's own nature is consciousness in ultimate truth; know then manifestation-abiding; that existence is called supreme."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samayāpekṣāṃ",
+     "gloss": "convention-dependence",
+     "grounds": "accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "bījapiṇḍakāḥ",
+     "gloss": "seed-points",
+     "grounds": "compound of seed and point",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "saṃvidaṃ",
+     "gloss": "consciousness",
+     "grounds": "accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "spandapantyete",
+     "gloss": "throb",
+     "grounds": "verb compound",
+     "morph": "verb.3.pl.act-pres+root-spand"
+    },
+    {
+     "surface": "neyuḥ",
+     "gloss": "would-not-lead",
+     "grounds": "negative optative",
+     "morph": "verb.3.pl.act-opt+root-nī"
+    },
+    {
+     "surface": "saṃvidupāyatām",
+     "gloss": "to-consciousness-means",
+     "grounds": "compound of consciousness and means",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "Do seed-points without convention lead to consciousness-means?",
+   "premises": [
+    "seed-points throb consciousness",
+    "without convention they do not lead",
+    "consciousness-means is the goal"
+   ],
+   "inference": "seed-points alone are insufficient without convention",
+   "uncertainties": [
+    "bījapiṇḍakāḥ exact referent"
+   ],
+   "plain_english": "What then? Without convention, those seed-points throb consciousness, yet they would not lead to consciousness-means."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "vācyābhāvādudāsīnasaṃvitspandātsvadhāmataḥ",
+     "gloss": "from-absence-of-expressible-indifferent-consciousness-throb-own-abode",
+     "grounds": "long compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "prāṇollāsanirodhābhyāṃ",
+     "gloss": "by-breath-exhilaration-and-restraint",
+     "grounds": "instrumental compound",
+     "morph": "inst.du.m"
+    },
+    {
+     "surface": "bījapiṇḍeṣu",
+     "gloss": "in-seed-points",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "pūrṇatā",
+     "gloss": "fullness",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How does fullness arise in seed-points?",
+   "premises": [
+    "expressible is absent",
+    "indifferent consciousness throbs from own abode",
+    "breath exhilaration and restraint apply"
+   ],
+   "inference": "fullness in seed-points comes through breath control",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Due to absence of the expressible, from the indifferent consciousness-throb of its own abode, by breath-exhilaration and restraint, there is fullness in seed-points."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "sukhasītkārasatsamyaksāmyaprathamasaṃvidaḥ",
+     "gloss": "first-consciousness-of-bliss-sigh-and-right-equality",
+     "grounds": "long compound",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "saṃvedanaṃ",
+     "gloss": "feeling",
+     "grounds": "subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sparśo@nuttarasaṃvidaḥ",
+     "gloss": "touch-of-supreme-consciousness",
+     "grounds": "compound of touch and supreme consciousness",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is first in supreme consciousness?",
+   "premises": [
+    "first consciousness is bliss-sigh equality",
+    "feeling is first",
+    "touch belongs to supreme consciousness"
+   ],
+   "inference": "feeling and touch mark first supreme consciousness",
+   "uncertainties": [
+    "sukhasītkāra sense"
+   ],
+   "plain_english": "First consciousness is of bliss-sigh and right equality; feeling indeed is first, the touch of supreme consciousness."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "hṛtkaṇṭhyoṣṭhyatridhāmāntarnitarāṃ",
+     "gloss": "deeply-in-heart-throat-lips-three-abodes",
+     "grounds": "compound of three abodes",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pravikāsini",
+     "gloss": "expanding",
+     "grounds": "locative participle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caturdaśaḥ",
+     "gloss": "fourteenth",
+     "grounds": "ordinal",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "praveśo",
+     "gloss": "entry",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ekīkṛtatadātmakaḥ",
+     "gloss": "unified-with-that-self",
+     "grounds": "compound of unified and that self",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the fourteenth entry?",
+   "premises": [
+    "three abodes are heart throat lips",
+    "entry expands deeply",
+    "it is unified with that self"
+   ],
+   "inference": "the fourteenth entry unifies self through three abodes",
+   "uncertainties": [
+    "caturdaśaḥ referent"
+   ],
+   "plain_english": "In the heart, throat, and lips, the three abodes, deeply expanding, the fourteenth entry is that which is unified with that self."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visargoccārāṃśe",
+     "gloss": "in-visarga-utterance-portion",
+     "grounds": "compound of visarga utterance portion",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dvādaśāntapathāvubhau",
+     "gloss": "both-paths-to-twelve-end",
+     "grounds": "compound of twelve-end paths both",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart",
+     "grounds": "instrumental",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "sahaikadhyaṃ",
+     "gloss": "together",
+     "grounds": "compound of with and together",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nayate",
+     "gloss": "leads",
+     "grounds": "verb",
+     "morph": "verb.3.sg.act-pres+root-nī"
+    },
+    {
+     "surface": "japatatparaḥ",
+     "gloss": "devoted-chanter",
+     "grounds": "compound of chanting and devoted",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does the devoted chanter lead together?",
+   "premises": [
+    "visarga utterance portion follows",
+    "both paths reach twelve-end",
+    "heart is included"
+   ],
+   "inference": "the chanter leads both paths with heart together",
+   "uncertainties": [
+    "dvādaśānta sense"
+   ],
+   "plain_english": "Then, in the visarga-utterance portion, the devoted chanter leads both paths to the twelve-end together with the heart."
+  }
+ ]
+}

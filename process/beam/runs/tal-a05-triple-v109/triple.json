@@ -1,0 +1,791 @@
+{
+ "song": "Tantraloka 109-120",
+ "items": [
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "subject entering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśettadā",
+     "gloss": "then-enters",
+     "grounds": "action and time",
+     "morph": "3.sg.act.opt+root viś; (indecl.)"
+    },
+    {
+     "surface": "tattaccakreśatvaṃ",
+     "gloss": "that-each-wheel-lordship",
+     "grounds": "object entered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "haṭhādvrajet",
+     "gloss": "by-force-goes",
+     "grounds": "manner of entry",
+     "morph": "3.sg.act.opt+root vraj; (indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveśinā",
+     "gloss": "by-all-lord",
+     "grounds": "agent of pervasion",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bodhenākrāntāpi",
+     "gloss": "though-pervaded-by-consciousness",
+     "grounds": "condition of body",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tanuḥ",
+     "gloss": "body",
+     "grounds": "subject of pervasion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "sometimes",
+     "grounds": "occasional limitation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the yogi enter each wheel's lordship?",
+   "premises": [
+    "Yogi enters each wheel's lordship by force.",
+    "Body remains pervaded by consciousness.",
+    "Entry occurs only sometimes."
+   ],
+   "inference": "Forceful entry into wheel-lordship is occasional despite conscious pervasion.",
+   "uncertainties": [
+    "Exact force of haṭhāt in this context."
+   ],
+   "plain_english": "The yogi sometimes forcefully enters the lordship of each wheel, as the body, though pervaded by consciousness, is governed by the all-lord."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "kiṃcitkartuṃ",
+     "gloss": "to-do-something",
+     "grounds": "infinitive purpose",
+     "morph": "inf"
+    },
+    {
+     "surface": "prabhavati",
+     "gloss": "is-able",
+     "grounds": "capacity",
+     "morph": "3.sg.act.ind+root prabhū"
+    },
+    {
+     "surface": "cakṣuṣā",
+     "gloss": "by-eye",
+     "grounds": "instrument",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "rūpasaṃvidam",
+     "gloss": "form-awareness",
+     "grounds": "object known",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "in-wheel",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kutrāpi",
+     "gloss": "somewhere",
+     "grounds": "place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praveśātko@pi",
+     "gloss": "from-entry-someone",
+     "grounds": "cause and agent",
+     "morph": "m.nom.sg; (indecl.)"
+    },
+    {
+     "surface": "saṃbhavet",
+     "gloss": "may-arise",
+     "grounds": "possibility",
+     "morph": "3.sg.act.opt+root saṃbhū"
+    }
+   ],
+   "question": "What can arise from entry into a wheel?",
+   "premises": [
+    "Eye enables form-awareness.",
+    "Likewise wheel entry enables something.",
+    "Someone may arise from that entry."
+   ],
+   "inference": "Entry into a wheel can make a new capacity or manifestation possible.",
+   "uncertainties": [
+    "Scope of ko@pi and saṃbhavet."
+   ],
+   "plain_english": "Just as the eye can know form, so entry into a wheel somewhere can make someone or something arise."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "ānandacakraṃ",
+     "gloss": "bliss-wheel",
+     "grounds": "named wheel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vahnyaśri",
+     "gloss": "fire-point",
+     "grounds": "location or mark",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanda",
+     "gloss": "bulb",
+     "grounds": "bodily center",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udbhava",
+     "gloss": "origin",
+     "grounds": "source",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "naming",
+     "morph": "3.sg.pass.ind+root vac"
+    },
+    {
+     "surface": "kampo",
+     "gloss": "tremor",
+     "grounds": "sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛttālu",
+     "gloss": "heart-palate",
+     "grounds": "bodily site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nidrā",
+     "gloss": "sleep",
+     "grounds": "state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghūrṇiḥ",
+     "gloss": "whirling",
+     "grounds": "sign",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syādūrdhvakuṇḍalī",
+     "gloss": "may-be-upward-coil",
+     "grounds": "result",
+     "morph": "3.sg.act.opt+root as; (indecl.)"
+    }
+   ],
+   "question": "What signs mark the bliss wheel's origin?",
+   "premises": [
+    "Bliss wheel originates at fire point and bulb.",
+    "Tremor, heart-palate, and sleep are signs.",
+    "Upward coil may result."
+   ],
+   "inference": "The bliss wheel's origin is recognized through bodily signs and upward movement.",
+   "uncertainties": [
+    "Exact relation of vahnyaśri and kanda."
+   ],
+   "plain_english": "The bliss wheel, originating at the fire point and bulb, is called such; tremor, heart-palate, sleep, and whirling are signs, and an upward coil may arise."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "etacca",
+     "gloss": "and-this",
+     "grounds": "reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭamevoktaṃ",
+     "gloss": "clearly-stated",
+     "grounds": "statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīmantraiśirase",
+     "gloss": "in-mantra-head-doctrine",
+     "grounds": "source",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mate",
+     "gloss": "in-view",
+     "grounds": "context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradarśitoccāraviśrāntihṛdayaṃ",
+     "gloss": "shown-utterance-rest-heart",
+     "grounds": "topic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "quality",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is this clearly stated?",
+   "premises": [
+    "This is clearly stated.",
+    "It appears in mantra-head doctrine.",
+    "The supreme heart of utterance-rest is shown."
+   ],
+   "inference": "The teaching is explicitly located in the mantra-head view.",
+   "uncertainties": [
+    "Compound segmentation of pradarśitoccāraviśrāntihṛdayaṃ."
+   ],
+   "plain_english": "This is clearly stated in the mantra-head doctrine; thus the supreme heart of utterance-rest is shown."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "yattadavyaktaliṅgaṃ",
+     "gloss": "that-unmanifest-sign",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nṛśivaśaktyavibhāgavat",
+     "gloss": "with-undivided-human-shiva-power",
+     "grounds": "condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvamidaṃ",
+     "gloss": "this-universe",
+     "grounds": "object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "līnamatrāntaḥsthaṃ",
+     "gloss": "dissolved-within-measure",
+     "grounds": "state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gamyate",
+     "gloss": "is-known",
+     "grounds": "cognition",
+     "morph": "3.sg.pass.ind+root gam"
+    }
+   ],
+   "question": "What is known about the unmanifest sign?",
+   "premises": [
+    "Unmanifest sign has undivided human-shiva power.",
+    "Universe is dissolved within measure here.",
+    "It is known."
+   ],
+   "inference": "The unmanifest sign is known as the place where the universe rests dissolved.",
+   "uncertainties": [
+    "Meaning of matrā in compound."
+   ],
+   "plain_english": "That unmanifest sign, with undivided human, Shiva, and power, is where this universe is known as dissolved within measure."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "reference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tallakṣaṇaṃ",
+     "gloss": "its-mark",
+     "grounds": "definition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrṇaśaktibhairavasaṃvidaḥ",
+     "gloss": "of-full-power-bhairava-awareness",
+     "grounds": "source",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "dehagādhvasamunmeṣe",
+     "gloss": "in-body-path-unfolding",
+     "grounds": "context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samāveśastu",
+     "gloss": "immersion-however",
+     "grounds": "topic",
+     "morph": "m.nom.sg; (indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuṭaḥ",
+     "gloss": "clear",
+     "grounds": "quality",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the clear immersion?",
+   "premises": [
+    "This is its mark.",
+    "It belongs to full-power Bhairava awareness.",
+    "Clear immersion occurs in body-path unfolding."
+   ],
+   "inference": "Clear immersion is the manifest mark of full-power Bhairava awareness in bodily unfolding.",
+   "uncertainties": [
+    "Exact sense of dehagādhva."
+   ],
+   "plain_english": "This is its mark: the clear immersion of full-power Bhairava awareness in the unfolding of the bodily path."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "ahantācchāditonmeṣibhāvedaṃbhāvayuk",
+     "gloss": "with-i-ness-covered-unfolding-state-this-state",
+     "grounds": "condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyaktāvyaktamidaṃ",
+     "gloss": "this-manifest-unmanifest",
+     "grounds": "object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "sign",
+     "grounds": "topic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantravīryaṃ",
+     "gloss": "mantra-potency",
+     "grounds": "quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parāparam",
+     "gloss": "supreme-inferior",
+     "grounds": "range",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the manifest-unmanifest sign?",
+   "premises": [
+    "He has covered i-ness unfolding state.",
+    "This manifest-unmanifest sign is mantra potency.",
+    "It ranges supreme to inferior."
+   ],
+   "inference": "The sign spans manifest and unmanifest as mantra potency.",
+   "uncertainties": [
+    "Long compound segmentation."
+   ],
+   "plain_english": "He, with the state of covered i-ness unfolding, has this manifest-unmanifest sign, the potency of mantra, ranging from supreme to inferior."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "naraśaktisamunmeṣi",
+     "gloss": "human-power-unfolding",
+     "grounds": "condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivarūpādvibheditam",
+     "gloss": "differentiated-from-shiva-form",
+     "grounds": "relation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yannyakkṛtaśivāhantāsamāveśaṃ",
+     "gloss": "that-subordinated-shiva-i-ness-immersion",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhedavat",
+     "gloss": "with-differentiation",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is differentiated from Shiva form?",
+   "premises": [
+    "Human power unfolds.",
+    "It is differentiated from Shiva form.",
+    "That immersion subordinates Shiva i-ness with differentiation."
+   ],
+   "inference": "Human-power unfolding differentiates from Shiva form while subordinating Shiva i-ness.",
+   "uncertainties": [
+    "Compound yannyakkṛtaśivāhantāsamāveśaṃ."
+   ],
+   "plain_english": "Human power unfolding is differentiated from Shiva form; that immersion subordinates Shiva i-ness with differentiation."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "viśeṣaspandarūpaṃ",
+     "gloss": "particular-throb-form",
+     "grounds": "description",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "reference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyaktaṃ",
+     "gloss": "manifest",
+     "grounds": "state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "sign",
+     "grounds": "topic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cidātmakam",
+     "gloss": "consciousness-natured",
+     "grounds": "quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyaktātsiddhiprasavo",
+     "gloss": "from-manifest-accomplishment-arises",
+     "grounds": "result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyaktāvyaktāddvayaṃ",
+     "gloss": "from-manifest-unmanifest-duality",
+     "grounds": "source",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vimokṣaśca",
+     "gloss": "and-liberation",
+     "grounds": "result",
+     "morph": "m.nom.sg; (indecl.)"
+    },
+    {
+     "surface": "avyaktādbalamādyaṃ",
+     "gloss": "from-unmanifest-first-power",
+     "grounds": "source",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parasya",
+     "gloss": "of-supreme",
+     "grounds": "genitive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nānuttare",
+     "gloss": "not-in-unsurpassed",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tviyaṃ",
+     "gloss": "but-this",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carcā",
+     "gloss": "discussion",
+     "grounds": "topic",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What results from manifest and unmanifest signs?",
+   "premises": [
+    "Manifest sign is particular throb form of consciousness.",
+    "From manifest arises accomplishment.",
+    "From manifest-unmanifest duality arises liberation."
+   ],
+   "inference": "Manifest and unmanifest signs yield accomplishment, liberation, and supreme first power.",
+   "uncertainties": [
+    "Exact parsing of nānuttare and tviyaṃ."
+   ],
+   "plain_english": "That manifest sign is a particular throb-form of consciousness; from the manifest arises accomplishment, from manifest-unmanifest duality liberation, and from the unmanifest the first power of the supreme, in this unsurpassed discussion."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "ātmākhyaṃ",
+     "gloss": "called-self",
+     "grounds": "name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadvyaktaṃ",
+     "gloss": "which-manifest",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naraliṅgaṃ",
+     "gloss": "human-sign",
+     "grounds": "topic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvamarpayataḥ",
+     "gloss": "of-offering-universe",
+     "grounds": "genitive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vyaktāvyaktaṃ",
+     "gloss": "manifest-unmanifest",
+     "grounds": "state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmādgalite",
+     "gloss": "from-that-dissolved",
+     "grounds": "source",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasmiṃstadavyaktam",
+     "gloss": "in-that-that-unmanifest",
+     "grounds": "result",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What happens to the manifest human sign?",
+   "premises": [
+    "Manifest human sign is called self.",
+    "Universe is offered there.",
+    "From that dissolved, unmanifest remains."
+   ],
+   "inference": "The manifest human sign dissolves into the unmanifest.",
+   "uncertainties": [
+    "Parsing of tasmādgalite."
+   ],
+   "plain_english": "The manifest human sign, called self, is where the universe is offered; from that dissolved, the unmanifest remains in it."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "tenātmaliṅgametat",
+     "gloss": "by-that-self-sign-this",
+     "grounds": "reference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parame",
+     "gloss": "in-supreme",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śivaśaktyaṇusvabhāvamaye",
+     "gloss": "in-shiva-power-atom-nature-full",
+     "grounds": "quality",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "avyakte",
+     "gloss": "in-unmanifest",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśrāmyati",
+     "gloss": "rests",
+     "grounds": "action",
+     "morph": "3.sg.act.ind+root viśram"
+    },
+    {
+     "surface": "nānuttaradhāmagā",
+     "gloss": "not-unsurpassed-abode-going",
+     "grounds": "qualification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tviyaṃ",
+     "gloss": "but-this",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carcā",
+     "gloss": "discussion",
+     "grounds": "topic",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where does the self sign rest?",
+   "premises": [
+    "This self sign rests in supreme unmanifest.",
+    "That unmanifest is full of Shiva-power atom nature.",
+    "This discussion is not about unsurpassed abode."
+   ],
+   "inference": "The self sign rests in the supreme unmanifest full of Shiva-power nature.",
+   "uncertainties": [
+    "Meaning of aṇusvabhāvamaye."
+   ],
+   "plain_english": "By that, this self sign rests in the supreme unmanifest, full of Shiva-power atom nature; this discussion is not about the unsurpassed abode."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "ekasya",
+     "gloss": "of-one",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "spandanasyaiṣā",
+     "gloss": "of-throb-this",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "traidhaṃ",
+     "gloss": "threefold",
+     "grounds": "division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhedavyavasthitiḥ",
+     "gloss": "distinction-establishment",
+     "grounds": "topic",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-sign",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhet",
+     "gloss": "may-stand",
+     "grounds": "action",
+     "morph": "3.sg.act.opt+root sthā"
+    },
+    {
+     "surface": "pūjāviśrāntitatparaḥ",
+     "gloss": "devotion-rest-devoted",
+     "grounds": "qualification",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the one throb established?",
+   "premises": [
+    "One throb has threefold distinction.",
+    "It is established in this sign.",
+    "The devoted to devotion-rest may always stand here."
+   ],
+   "inference": "The one throb is threefoldly established in the sign for the devoted practitioner.",
+   "uncertainties": [
+    "Exact sense of pūjāviśrānti."
+   ],
+   "plain_english": "This threefold distinction of one throb is established in this sign; one devoted to devotion-rest may always stand here."
+  }
+ ]
+}
