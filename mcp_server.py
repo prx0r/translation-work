@@ -168,18 +168,25 @@ def swarm_review(task_id: str) -> dict:
     if not t:
         return {"error": f"unknown task {task_id}"}
     runs = ROOT / "process" / "beam" / "runs"
-    drafts = {}
-    for sub in ("gloss", "cm", "am", "brief"):
-        for cand in runs.glob(f"{task_id}*/{sub}.json"):
-            try:
-                drafts[cand.parent.name + "/" + sub] = json.loads(cand.read_text())
-            except ValueError:
-                pass
-        for cand in runs.glob(f"{task_id}/{sub}.json"):
-            try:
-                drafts[sub] = json.loads(cand.read_text())
-            except ValueError:
-                pass
+    drafts: dict = {}
+    args = t.get("args", {})
+    song = args.get("song", "")
+    verses = args.get("verses") or ([args["verse"]] if "verse" in args else [])
+    for v in verses:
+        for sub in ("gloss", "cm", "am"):
+            cand = runs / f"{song}-{sub}-v{v:02d}" / f"{sub}.json"
+            if cand.exists():
+                try:
+                    drafts[f"v{v:02d}/{sub}"] = json.loads(cand.read_text())
+                except ValueError:
+                    pass
+    if not drafts:  # brief/pilot tasks keep single-file outputs
+        for sub in ("brief", "gloss", "cm", "am"):
+            for cand in list(runs.glob(f"{task_id}/{sub}.json")) + list(runs.glob(f"{task_id}*/{sub}.json")):
+                try:
+                    drafts[cand.parent.name + "/" + sub] = json.loads(cand.read_text())
+                except ValueError:
+                    pass
     checklist = [
         "question is the verse's own (not meta: no 'what argument does this passage make')",
         "premises terse logical steps (compress ~19->~8 for passages), no paraphrase-as-argument",
@@ -254,14 +261,35 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
 
 
 if __name__ == "__main__":
+    import asyncio
+
+    async def _list():
+        print("shastra MCP — translation-work tools\n")
+        for name in TOOLS:
+            fn = await mcp.get_tool(name)
+            desc = (fn.description or "").splitlines()[0] if fn.description else ""
+            print(f"  shastra.{name}: {desc}")
+
     if "--serve" in sys.argv:
         mcp.run(transport="stdio")
     elif "--list" in sys.argv or len(sys.argv) == 1:
-        print("shastra MCP — translation-work tools\n")
-        for name in TOOLS:
-            fn = mcp.get_tool(name)
-            print(f"  shastra.{name}: {(fn.description or '').splitlines()[0] if fn.description else ''}")
+        asyncio.run(_list())
     else:
         tool = sys.argv[1].removeprefix("shastra.")
         args = json.loads(sys.argv[2]) if len(sys.argv) > 2 else {}
-        print(json.dumps(mcp.call_tool(tool, args), indent=2, default=str))
+
+        async def _call():
+            res = await mcp.call_tool(tool, args)
+            if hasattr(res, "data") and res.data is not None:
+                return res.data
+            content = getattr(res, "content", None)
+            if isinstance(content, (list, tuple)) and len(content) == 1 and hasattr(content[0], "text"):
+                try:
+                    return json.loads(content[0].text)
+                except ValueError:
+                    return content[0].text
+            if isinstance(content, (list, tuple)):
+                return [r.text if hasattr(r, "text") else str(r) for r in content]
+            return str(res)
+
+        print(json.dumps(asyncio.run(_call()), indent=2, default=str))
