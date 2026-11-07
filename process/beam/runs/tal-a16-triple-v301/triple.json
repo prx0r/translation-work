@@ -1,0 +1,655 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "sphuṭībhūtyai",
+     "gloss": "for-manifestation",
+     "grounds": "dative purpose",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "taducitaṃ",
+     "gloss": "that-fitting",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yogamathāśritaḥ",
+     "gloss": "having-taken-refuge-in-yoga",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "so@pi",
+     "gloss": "he-too",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yatraiva",
+     "gloss": "where-indeed",
+     "grounds": "locative relation",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "united",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syāttanmayatvaṃ",
+     "gloss": "becomes-identified-with-that",
+     "grounds": "verbal noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prapadyate",
+     "gloss": "attains",
+     "grounds": "main verb",
+     "morph": "3.sg.mid-pres"
+    }
+   ],
+   "question": "How does knowledge become manifest for one who takes refuge in yoga?",
+   "premises": [
+    "knowledge becomes manifest through fitting means",
+    "the yogin takes refuge in yoga",
+    "identification follows union"
+   ],
+   "inference": "Manifest knowledge arises when the yogin becomes united and identified with that reality.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Knowledge becomes manifest in the fitting way; the yogin who takes refuge in yoga becomes united and attains identification with that reality."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "gurudīkṣāmantraśāstrādhīnasarvasthitistataḥ",
+     "gloss": "then-all-states-depend-on-guru-initiation-mantra-and-scripture",
+     "grounds": "compound subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "duṣṭānāmeva",
+     "gloss": "of-the-wicked-only",
+     "grounds": "genitive qualifier",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive qualifier",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "bhūtabhavyabhaviṣyatām",
+     "gloss": "of-past-present-and-future-beings",
+     "grounds": "genitive qualifier",
+     "morph": "gen.pl.m"
+    }
+   ],
+   "question": "What depends on guru initiation mantra and scripture?",
+   "premises": [
+    "all states depend on guru initiation",
+    "this applies to wicked beings",
+    "past present and future beings are included"
+   ],
+   "inference": "The condition of all beings, especially the wicked, depends on guru initiation, mantra, and scripture.",
+   "uncertainties": [
+    "long compound segmentation uncertain"
+   ],
+   "plain_english": "Then all states depend on guru initiation, mantra, and scripture, especially for wicked beings among past, present, and future."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "karmaṇāṃ",
+     "gloss": "of-actions",
+     "grounds": "genitive object",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "śodhanaṃ",
+     "gloss": "purification",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "should-be-done",
+     "grounds": "predicative adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bubhukṣorna",
+     "gloss": "not-for-one-desiring-enjoyment",
+     "grounds": "dative qualifier",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "śubhātmanām",
+     "gloss": "for-good-souls",
+     "grounds": "genitive qualifier",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "punarlaukikaṃ",
+     "gloss": "worldly",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhogaṃ",
+     "gloss": "enjoyment",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "rājyasvargādikaṃ",
+     "gloss": "kingdom-heaven-and-so-forth",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śiśuḥ",
+     "gloss": "child",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "For whom should actions be purified?",
+   "premises": [
+    "purification of actions is required",
+    "it is not for one desiring enjoyment",
+    "good souls are distinguished from worldly enjoyers"
+   ],
+   "inference": "Purification of actions is for good souls, not for those seeking worldly enjoyment like a child.",
+   "uncertainties": [
+    "śiśuḥ may be metaphorical"
+   ],
+   "plain_english": "Purification of actions should be done; it is not for one desiring enjoyment, while good souls are distinguished from those seeking worldly pleasures like kingdom and heaven."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "lokottaraṃ",
+     "gloss": "transcendent",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhogamīpsustasya",
+     "gloss": "desiring-his-enjoyment",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śubheṣvapi",
+     "gloss": "even-in-auspicious-things",
+     "grounds": "locative qualifier",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyamayīṃ",
+     "gloss": "material",
+     "grounds": "accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kurvannājyatilādikaiḥ",
+     "gloss": "performing-with-ghee-sesame-and-so-forth",
+     "grounds": "participial qualifier",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What initiation is performed for one desiring transcendent enjoyment?",
+   "premises": [
+    "transcendent enjoyment is abandoned",
+    "desire remains for his enjoyment",
+    "material initiation is performed with offerings"
+   ],
+   "inference": "For one desiring enjoyment, even auspicious material initiation with ghee and sesame is performed there.",
+   "uncertainties": [
+    "tasya reference uncertain"
+   ],
+   "plain_english": "Having abandoned transcendent enjoyment, one desiring his enjoyment performs there a material initiation with ghee, sesame, and similar offerings, even in auspicious matters."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "karmāsya",
+     "gloss": "his-action",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śodhayāmīti",
+     "gloss": "I-purify-thus",
+     "grounds": "quoted intention",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "juhuyāddaiśikottamaḥ",
+     "gloss": "the-best-teacher-should-offer",
+     "grounds": "main verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "jñānamayyāṃ",
+     "gloss": "in-knowledge-filled",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣāyāṃ",
+     "gloss": "in-initiation",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tadviśuddhyati",
+     "gloss": "that-becomes-pure",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sandhitaḥ",
+     "gloss": "by-union",
+     "grounds": "ablative qualifier",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How does action become pure in knowledge-filled initiation?",
+   "premises": [
+    "the teacher offers saying I purify his action",
+    "in knowledge-filled initiation purity occurs",
+    "purity arises by union"
+   ],
+   "inference": "In knowledge-filled initiation, action becomes pure by union, while the best teacher offers with the intention of purification.",
+   "uncertainties": [
+    "sandhitaḥ relation uncertain"
+   ],
+   "plain_english": "The best teacher should offer, saying 'I purify his action'; but in knowledge-filled initiation, that becomes pure by union."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "of-the-guru",
+     "grounds": "genitive subject",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "svasaṃvidrūḍhasya",
+     "gloss": "rooted-in-self-awareness",
+     "grounds": "genitive qualifier",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "balāttatprakṣayo",
+     "gloss": "by-force-its-destruction",
+     "grounds": "ablative cause",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "occurs",
+     "grounds": "main verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yadāsyāśubhakarmāṇi",
+     "gloss": "when-his-inauspicious-actions",
+     "grounds": "nominative subject",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "śuddhāni",
+     "gloss": "pure",
+     "grounds": "nominative predicate",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "syustadā",
+     "gloss": "become-then",
+     "grounds": "main verb",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "When do inauspicious actions become pure?",
+   "premises": [
+    "the guru rooted in self-awareness acts by force",
+    "destruction of that occurs",
+    "when inauspicious actions become pure then auspiciousness follows"
+   ],
+   "inference": "By the guru's forceful power rooted in self-awareness, destruction occurs; when inauspicious actions become pure, then auspiciousness follows.",
+   "uncertainties": [
+    "tatprakṣaya referent uncertain"
+   ],
+   "plain_english": "By the force of the guru rooted in self-awareness, destruction occurs; when his inauspicious actions become pure, then auspiciousness follows."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "svatāratamyāśrayaṇādadhvamadhye",
+     "gloss": "by-relying-on-one's-own-gradation-in-the-path",
+     "grounds": "ablative cause",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "prasūtidam",
+     "gloss": "this-production",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śubhapākakramopāttaphalabhogasamāptitaḥ",
+     "gloss": "from-completion-of-enjoyment-of-fruits-obtained-by-auspicious-ripening-sequence",
+     "grounds": "ablative qualifier",
+     "morph": "abl.sg.f"
+    }
+   ],
+   "question": "What arises in the middle of the path by relying on one's gradation?",
+   "premises": [
+    "reliance on one's own gradation occurs in the path",
+    "production arises there",
+    "completion of enjoyment of fruits obtained by auspicious ripening sequence follows"
+   ],
+   "inference": "By relying on one's own gradation in the path, production arises, leading to completion of enjoyment of fruits obtained by auspicious ripening sequence.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By relying on one's own gradation in the path, this production arises, from the completion of enjoyment of fruits obtained by auspicious ripening sequence."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "yatraiṣa",
+     "gloss": "where-this-one",
+     "grounds": "locative relation",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "yojitastatstho",
+     "gloss": "placed-there-standing",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhāvikarmakṣaye",
+     "gloss": "in-destruction-of-future-action",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-done",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bhāvināṃ",
+     "gloss": "of-future-ones",
+     "grounds": "genitive qualifier",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "cādyadehasthadehāntaravibhedinām",
+     "gloss": "and-of-those-differing-between-first-body-and-other-body",
+     "grounds": "genitive qualifier",
+     "morph": "gen.pl.m"
+    }
+   ],
+   "question": "What happens when future action is destroyed?",
+   "premises": [
+    "this one is placed there",
+    "future action is destroyed",
+    "future beings differ between first body and other body"
+   ],
+   "inference": "When future action is destroyed, this placed one remains there, affecting future beings who differ between first body and other body.",
+   "uncertainties": [
+    "long compound segmentation uncertain"
+   ],
+   "plain_english": "Where this one is placed and stands, when future action is destroyed, it concerns future beings differing between the first body and another body."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "aśubhāṃśaviśuddhau",
+     "gloss": "in-purification-of-inauspicious-part",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "syādbhogasyaivānupakṣayaḥ",
+     "gloss": "there-is-no-decrease-of-enjoyment-itself",
+     "grounds": "main verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhuñjānasyāsya",
+     "gloss": "of-this-one-enjoying",
+     "grounds": "genitive qualifier",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogānmāyālayāntataḥ",
+     "gloss": "enjoyments-from-the-abode-of-maya-to-the-end",
+     "grounds": "ablative qualifier",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What happens when the inauspicious part is purified?",
+   "premises": [
+    "purification of inauspicious part occurs",
+    "there is no decrease of enjoyment itself",
+    "the enjoyer constantly enjoys from maya's abode to the end"
+   ],
+   "inference": "When the inauspicious part is purified, enjoyment itself does not decrease; the enjoyer constantly enjoys from the abode of maya to the end.",
+   "uncertainties": [
+    "bhogānmāyālayāntataḥ segmentation uncertain"
+   ],
+   "plain_english": "When the inauspicious part is purified, there is no decrease of enjoyment itself; this enjoyer constantly enjoys from the abode of maya to the end."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duḥkhaphaladaṃ",
+     "gloss": "giving-painful-fruit",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dehādyadhvamadhye@pi",
+     "gloss": "even-in-the-path-beginning-with-body",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kiṃcana",
+     "gloss": "anything",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyālaye",
+     "gloss": "in-the-abode-of-maya",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhuktasamastasukhabhogakaḥ",
+     "gloss": "having-enjoyed-all-pleasant-enjoyments",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Does anything give painful fruit in the path beginning with body?",
+   "premises": [
+    "nothing gives painful fruit",
+    "even in the path beginning with body",
+    "then in maya's abode all pleasant enjoyments are enjoyed"
+   ],
+   "inference": "Nothing gives painful fruit even in the path beginning with body; then in maya's abode all pleasant enjoyments are enjoyed.",
+   "uncertainties": [
+    "dehādyadhvamadhye@pi sandhi uncertain"
+   ],
+   "plain_english": "Nothing gives painful fruit even in the path beginning with the body; then in the abode of maya all pleasant enjoyments are enjoyed."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "niṣkale",
+     "gloss": "in-the-partless",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sakale",
+     "gloss": "in-the-with-parts",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vaiti",
+     "gloss": "goes",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "layaṃ",
+     "gloss": "dissolution",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yojanikābalāt",
+     "gloss": "by-the-force-of-union",
+     "grounds": "ablative cause",
+     "morph": "abl.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prameyaṃ",
+     "gloss": "knowable",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "was-told",
+     "grounds": "participial predicate",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "at-the-time",
+     "grounds": "locative qualifier",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "guroryathā",
+     "gloss": "as-of-the-guru",
+     "grounds": "comparative qualifier",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "How does dissolution occur in the partless and with-parts?",
+   "premises": [
+    "dissolution goes in the partless and with-parts",
+    "it occurs by the force of union",
+    "this knowable was told at initiation time as of the guru"
+   ],
+   "inference": "Dissolution occurs in both partless and with-parts states by the force of union; this knowable was told at initiation time as from the guru.",
+   "uncertainties": [
+    "yojanikābalāt segmentation uncertain"
+   ],
+   "plain_english": "Dissolution goes in the partless and in the with-parts by the force of union; thus this knowable was told at the time of initiation, as from the guru."
+  }
+ ]
+}

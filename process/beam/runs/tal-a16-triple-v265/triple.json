@@ -1,0 +1,767 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "yāvadbālasya",
+     "gloss": "child-limit",
+     "grounds": "token 1",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃvittirakṛtrimavimarśane",
+     "gloss": "natural-awareness-reflection",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "token 3",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tanmantraśabdārthaviśeṣotthaṃ",
+     "gloss": "mantra-word-meaning-special-rise",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vikalpanam",
+     "gloss": "conceptualization",
+     "grounds": "token 5",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What limit does natural awareness set?",
+   "premises": [
+    "The verse concerns awareness",
+    "It mentions mantra meaning",
+    "It describes conceptualization"
+   ],
+   "inference": "Awareness limits conceptual construction.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "Natural awareness sets the limit for conceptualization arising from mantra meaning."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "śabdāntarotthādbhedena",
+     "gloss": "other-word-rise-difference",
+     "grounds": "token 1",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paśyatā",
+     "gloss": "seeing",
+     "grounds": "token 2",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādṛtaḥ",
+     "gloss": "honored",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaccāpi",
+     "gloss": "and-what",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bījapiṇḍāderuktaṃ",
+     "gloss": "seed-mass-etc-stated",
+     "grounds": "token 6",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgbodharūpakam",
+     "gloss": "prior-knowledge-form",
+     "grounds": "token 7",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is mantra honored by seeing difference?",
+   "premises": [
+    "The verse mentions seeing",
+    "It mentions mantra",
+    "It mentions prior knowledge form"
+   ],
+   "inference": "Mantra is honored through differentiated seeing.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "Mantra is honored when difference is seen through prior knowledge forms."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "tattasyaiva",
+     "gloss": "that-of-him-alone",
+     "grounds": "token 1",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kuto@nyasya",
+     "gloss": "whence-other",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatkasmādanyakalpanā",
+     "gloss": "why-other-concept",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "etadarthaṃ",
+     "gloss": "for-this-purpose",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guroryatnāllakṣaṇe",
+     "gloss": "guru-effort-mark",
+     "grounds": "token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is another concept not posited?",
+   "premises": [
+    "The verse questions otherness",
+    "It mentions guru effort",
+    "It repeats there"
+   ],
+   "inference": "No separate concept is needed.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "Another concept is unnecessary because the mark belongs to that alone."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "mark",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "stated",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyeṣa",
+     "gloss": "indeed-this",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantratantraviśāradaḥ",
+     "gloss": "mantra-tantra-expert",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "token 5",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantrārthasaṃbodhe",
+     "gloss": "mantra-meaning-awakening",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantravārtikamādarāt",
+     "gloss": "mantra-commentary-respect",
+     "grounds": "token 7",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Who states the mark with respect?",
+   "premises": [
+    "The verse names an expert",
+    "It mentions mantra meaning",
+    "It mentions commentary"
+   ],
+   "inference": "The expert states the mark respectfully.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "The mantra-tantra expert states the mark for awakening mantra meaning."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "ūhāpohaprayogaṃ",
+     "gloss": "application-inference-rejection",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gururācaret",
+     "gloss": "guru-practices",
+     "grounds": "token 4",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "mantrārthavidabhāve",
+     "gloss": "mantra-meaning-knower-absence",
+     "grounds": "token 5",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantratanmayam",
+     "gloss": "mantra-identified",
+     "grounds": "token 8",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does the guru practice in absence?",
+   "premises": [
+    "The verse mentions guru practice",
+    "It mentions absence of knower",
+    "It mentions mantra identification"
+   ],
+   "inference": "The guru practices mantra identification instead.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "In absence of a mantra-meaning knower, the guru practices mantra identification."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "token 2",
+     "morph": "3.sg.act-opt + root"
+    },
+    {
+     "surface": "tadabhyāsāttatsaṃkalpamayo",
+     "gloss": "that-practice-that-intention-filled",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyasau",
+     "gloss": "indeed-he",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatsamānābhisaṃjalpo",
+     "gloss": "that-equal-speech",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantrārthabhāvanāt",
+     "gloss": "mantra-meaning-meditation",
+     "grounds": "token 7",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "When should one make a guru?",
+   "premises": [
+    "The verse mentions making guru",
+    "It mentions practice",
+    "It mentions meditation"
+   ],
+   "inference": "One makes a guru through practice and meditation.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "One should make a guru when practice produces equal speech through meditation."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "gurorbhavettadā",
+     "gloss": "guru-becomes-then",
+     "grounds": "token 1",
+     "morph": "3.sg.act-opt + root"
+    },
+    {
+     "surface": "sarvasāmye",
+     "gloss": "complete-equality",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ko",
+     "gloss": "what",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bheda",
+     "gloss": "difference",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyatām",
+     "gloss": "let-be-said",
+     "grounds": "token 5",
+     "morph": "3.sg.pass-imp + root"
+    },
+    {
+     "surface": "aṃśenāpyatha",
+     "gloss": "by-part-then",
+     "grounds": "token 6",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vaiṣamye",
+     "gloss": "inequality",
+     "grounds": "token 7",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tato@rthakriyā",
+     "gloss": "then-purpose-action",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 10",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "token 11",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What difference remains in complete equality?",
+   "premises": [
+    "The verse asks about difference",
+    "It mentions equality",
+    "It mentions purpose action"
+   ],
+   "inference": "No difference remains in complete equality.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "In complete equality there is no difference; purpose action follows."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "gomayātkīṭataḥ",
+     "gloss": "cow-dung-worm-from",
+     "grounds": "token 1",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kīṭa",
+     "gloss": "worm",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus-indeed",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyāyato",
+     "gloss": "by-reason",
+     "grounds": "token 4",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃjalpāntarato@pyarthakriyāṃ",
+     "gloss": "other-speech-purpose-action",
+     "grounds": "token 6",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāmeva",
+     "gloss": "that-very",
+     "grounds": "token 7",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "token 8",
+     "morph": "3.sg.act-pres + root"
+    }
+   ],
+   "question": "When does one see purpose action?",
+   "premises": [
+    "The verse uses worm example",
+    "It mentions reason",
+    "It mentions seeing"
+   ],
+   "inference": "One sees purpose action through reason.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "By reason, one sees the same purpose action even from other speech."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "tadaiṣa",
+     "gloss": "then-this",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satyasaṃjalpaḥ",
+     "gloss": "truthful-speaker",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "Shiva",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eveti",
+     "gloss": "indeed-thus",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "token 5",
+     "morph": "3.sg.pass-pres + root"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadvakti",
+     "gloss": "whatever-he-says",
+     "grounds": "token 7",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syānmantro",
+     "gloss": "becomes-mantra",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhogāpavargadaḥ",
+     "gloss": "enjoyment-liberation-giver",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is called truthful speaker?",
+   "premises": [
+    "The verse names Shiva",
+    "It mentions speech",
+    "It mentions mantra"
+   ],
+   "inference": "The truthful speaker is Shiva.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "The truthful speaker is Shiva, and what he says becomes mantra."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "naiṣo@bhinavaguptasya",
+     "gloss": "not-this-Abhinavagupta",
+     "grounds": "token 1",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pakṣo",
+     "gloss": "position",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrārpitātmanaḥ",
+     "gloss": "mantra-offered-self",
+     "grounds": "token 3",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yo@rthakriyāmāha",
+     "gloss": "who-purpose-action-says",
+     "grounds": "token 4",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "bhinnāṃ",
+     "gloss": "different",
+     "grounds": "token 5",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kīṭayorapi",
+     "gloss": "of-worms-even",
+     "grounds": "token 6",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "tādṛśoḥ",
+     "gloss": "such",
+     "grounds": "token 7",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "Whose position is not this?",
+   "premises": [
+    "The verse names Abhinavagupta",
+    "It mentions position",
+    "It mentions purpose action"
+   ],
+   "inference": "This is not Abhinavagupta's position.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "This is not the position of Abhinavagupta, whose self is offered to mantra."
+  },
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "mantrārpitamanāḥ",
+     "gloss": "mantra-offered-mind",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃcidvadanyattu",
+     "gloss": "something-says-other-but",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "token 3",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "removes",
+     "grounds": "token 4",
+     "morph": "3.sg.act-opt + root"
+    },
+    {
+     "surface": "tanmantra",
+     "gloss": "that-mantra",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śabdaḥ",
+     "gloss": "word",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "token 9",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 10",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ghaṭādivat",
+     "gloss": "pot-etc-like",
+     "grounds": "token 11",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What does mantra-offered mind remove?",
+   "premises": [
+    "The verse mentions mantra-offered mind",
+    "It mentions poison",
+    "It mentions word"
+   ],
+   "inference": "It removes poison through mantra word.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "A mantra-offered mind removes poison, and that mantra word is supreme."
+  },
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "kāntāsaṃbhogasaṃjalpasundaraḥ",
+     "gloss": "beloved-enjoyment-speech-beautiful",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāmukaḥ",
+     "gloss": "lover",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatsaṃskṛto@pyanyadeṣa",
+     "gloss": "that-purified-other-this",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kurvansvātmani",
+     "gloss": "doing-in-self",
+     "grounds": "token 5",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tṛpyati",
+     "gloss": "is-satisfied",
+     "grounds": "token 6",
+     "morph": "3.sg.act-pres + root"
+    }
+   ],
+   "question": "Who is satisfied in self?",
+   "premises": [
+    "The verse mentions lover",
+    "It mentions purified other",
+    "It mentions satisfaction"
+   ],
+   "inference": "The lover is satisfied in self.",
+   "uncertainties": [
+    "Approximate glossing"
+   ],
+   "plain_english": "The beautiful lover, purified by that, is satisfied in himself."
+  }
+ ]
+}
