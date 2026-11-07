@@ -1,0 +1,839 @@
+{
+ "song": "Tantraloka a09",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "bījamaṅkura",
+     "gloss": "seed-sprout",
+     "grounds": "verse 13 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "ityasmin",
+     "gloss": "thus-in-this",
+     "grounds": "verse 13 token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "satattve",
+     "gloss": "in-true-reality",
+     "grounds": "verse 13 token 3",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "hetutadvatoḥ",
+     "gloss": "of-cause-and-effect",
+     "grounds": "verse 13 token 4",
+     "morph": "gen.dual.m"
+    },
+    {
+     "surface": "ghaṭaḥ",
+     "gloss": "pot",
+     "grounds": "verse 13 token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paṭaśceti",
+     "gloss": "and-cloth",
+     "grounds": "verse 13 token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verse 13 token 7",
+     "morph": "3.sg.opt.act-bhū"
+    },
+    {
+     "surface": "kāryakāraṇatā",
+     "gloss": "causality",
+     "grounds": "verse 13 token 8",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse 13 token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kim",
+     "gloss": "whether",
+     "grounds": "verse 13 token 10",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Would causality between pot and cloth arise in seed-sprout reality?",
+   "premises": [
+    "seed and sprout share one reality",
+    "pot and cloth are distinct effects",
+    "causality requires distinct cause-effect pair"
+   ],
+   "inference": "therefore causality is not established there",
+   "uncertainties": [
+    "edition punctuation unclear"
+   ],
+   "plain_english": "In that one reality of seed and sprout, would pot and cloth stand in causal relation? No."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "bījamaṅkurapatrāditayā",
+     "gloss": "by-seed-sprout-leaf-etc",
+     "grounds": "verse 14 token 1",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "pariṇameta",
+     "gloss": "would-transform",
+     "grounds": "verse 14 token 2",
+     "morph": "3.sg.opt.act-pariṇam"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "verse 14 token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atatsvabhāvavapuṣaḥ",
+     "gloss": "of-non-that-nature-form",
+     "grounds": "verse 14 token 4",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "verse 14 token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svabhāvo",
+     "gloss": "own-nature",
+     "grounds": "verse 14 token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse 14 token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-fitting",
+     "grounds": "verse 14 token 8",
+     "morph": "3.sg.pass.yuj"
+    }
+   ],
+   "question": "If transformation occurs by seed-sprout-leaf, can non-that nature fit?",
+   "premises": [
+    "transformation implies continuity of nature",
+    "non-that nature lacks that continuity",
+    "own-nature must remain coherent"
+   ],
+   "inference": "therefore non-that nature does not fit",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "If change proceeds through seed, sprout, and leaf, a nature unlike that cannot coherently belong."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "verse 15 token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tatsvabhāva",
+     "gloss": "that-nature",
+     "grounds": "verse 15 token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "verse 15 token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "verse 15 token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tarhi",
+     "gloss": "then",
+     "grounds": "verse 15 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bījāṅkurā",
+     "gloss": "seed-sprout",
+     "grounds": "verse 15 token 6",
+     "morph": "nom.dual.m"
+    },
+    {
+     "surface": "nije",
+     "gloss": "in-own",
+     "grounds": "verse 15 token 7",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tāvatyeva",
+     "gloss": "only-so-much",
+     "grounds": "verse 15 token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse 15 token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśrāntau",
+     "gloss": "in-rest",
+     "grounds": "verse 15 token 10",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tadanyātyantasaṃbhavāt",
+     "gloss": "from-other-total-possibility",
+     "grounds": "verse 15 token 11",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "If it is that nature, why no rest in seed-sprout alone?",
+   "premises": [
+    "that nature would imply rest",
+    "other possibilities remain totally possible",
+    "seed-sprout alone cannot exhaust them"
+   ],
+   "inference": "therefore rest is not found there",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "If it were simply that nature, seed and sprout alone would not be the final resting point."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "and-thence",
+     "grounds": "verse 16 token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "citrākāro@sau",
+     "gloss": "that-variegated-form",
+     "grounds": "verse 16 token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tāvānkaścitprasajyate",
+     "gloss": "some-such-amount-follows",
+     "grounds": "verse 16 token 3",
+     "morph": "3.sg.pass.pra-saj"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-it-be",
+     "grounds": "verse 16 token 4",
+     "morph": "3.sg.imp.act.as"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "verse 16 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse 16 token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jaḍe@nyonyaviruddhākārasaṃbhavaḥ",
+     "gloss": "in-inert-mutually-opposed-forms-possible",
+     "grounds": "verse 16 token 7",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "If variegated form is granted, can inert matter hold opposed forms?",
+   "premises": [
+    "variegated form implies many appearances",
+    "inert matter lacks self-organizing power",
+    "opposed forms cannot coexist there"
+   ],
+   "inference": "therefore inert matter cannot hold them",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Even if a variegated form is granted, inert matter cannot contain mutually opposed forms."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "krameṇa",
+     "gloss": "by-sequence",
+     "grounds": "verse 17 token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "citrākāro@stu",
+     "gloss": "let-variegated-form-be",
+     "grounds": "verse 17 token 2",
+     "morph": "3.sg.imp.act.as"
+    },
+    {
+     "surface": "jaḍaḥ",
+     "gloss": "inert",
+     "grounds": "verse 17 token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "verse 17 token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nu",
+     "gloss": "indeed",
+     "grounds": "verse 17 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viruddhyate",
+     "gloss": "is-contradicted",
+     "grounds": "verse 17 token 6",
+     "morph": "3.sg.pass.vi-rudh"
+    },
+    {
+     "surface": "kramo@kramo",
+     "gloss": "sequence",
+     "grounds": "verse 17 token 7",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "verse 17 token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-being",
+     "grounds": "verse 17 token 9",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse 17 token 10",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svarūpādhiko",
+     "gloss": "beyond-own-form",
+     "grounds": "verse 17 token 11",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verse 17 token 12",
+     "morph": "3.sg.opt.act-bhū"
+    }
+   ],
+   "question": "If sequence is granted for inert form, what contradicts being?",
+   "premises": [
+    "sequence is not beyond own form",
+    "being has no higher sequence",
+    "inert form cannot exceed itself"
+   ],
+   "inference": "therefore sequence adds nothing beyond being",
+   "uncertainties": [
+    "repeated token in source"
+   ],
+   "plain_english": "If sequence is granted for inert form, sequence itself is not something beyond the being's own form."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "tathopalambhamātraṃ",
+     "gloss": "only-perception",
+     "grounds": "verse 18 token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "verse 18 token 2",
+     "morph": "nom.dual.m"
+    },
+    {
+     "surface": "upalambhaśca",
+     "gloss": "and-perception",
+     "grounds": "verse 18 token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "verse 18 token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "verse 18 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "upalabdhāpi",
+     "gloss": "even-perceived",
+     "grounds": "verse 18 token 6",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vijñānasvabhāvo",
+     "gloss": "consciousness-nature",
+     "grounds": "verse 18 token 7",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yo@sya",
+     "gloss": "whose",
+     "grounds": "verse 18 token 8",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "so@pi",
+     "gloss": "that-too",
+     "grounds": "verse 18 token 9",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "verse 18 token 10",
+     "morph": "indecl."
+    }
+   ],
+   "question": "If only perception remains, what is perception's own nature?",
+   "premises": [
+    "perception is not separate from perceived",
+    "consciousness-nature underlies both",
+    "perceived form shares that nature"
+   ],
+   "inference": "therefore perception reveals consciousness-nature",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "If only perception remains, perception itself is of consciousness-nature."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "kramopalambharūpatvāt",
+     "gloss": "from-sequential-perception-form",
+     "grounds": "verse 19 token 1",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "krameṇopalabheta",
+     "gloss": "would-perceive-sequentially",
+     "grounds": "verse 19 token 2",
+     "morph": "3.sg.opt.act-upa-labh"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "verse 19 token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "verse 19 token 4",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tarhi",
+     "gloss": "then",
+     "grounds": "verse 19 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "sequence",
+     "grounds": "verse 19 token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ko@sau",
+     "gloss": "what-is-that",
+     "grounds": "verse 19 token 7",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tadanyānupalambhataḥ",
+     "gloss": "from-non-perception-of-other",
+     "grounds": "verse 19 token 8",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "If perception is sequential, what sequence remains beyond perception?",
+   "premises": [
+    "sequential perception presupposes sequence",
+    "sequence is not perceived apart from perception",
+    "other is not perceived"
+   ],
+   "inference": "therefore sequence is not independently established",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "If perception occurs in sequence, no separate sequence is found beyond that perception."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "svabhāva",
+     "gloss": "own-nature",
+     "grounds": "verse 20 token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "verse 20 token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cennāsau",
+     "gloss": "if-not-that",
+     "grounds": "verse 20 token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svarūpādadhiko",
+     "gloss": "beyond-own-form",
+     "grounds": "verse 20 token 4",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verse 20 token 5",
+     "morph": "3.sg.opt.act-bhū"
+    },
+    {
+     "surface": "svarūpānadhikasyāpi",
+     "gloss": "even-not-beyond-own-form",
+     "grounds": "verse 20 token 6",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "kramasya",
+     "gloss": "of-sequence",
+     "grounds": "verse 20 token 7",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "svasvabhāvataḥ",
+     "gloss": "from-own-nature",
+     "grounds": "verse 20 token 8",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "If own-nature is claimed, can sequence exceed own form?",
+   "premises": [
+    "own-nature cannot exceed itself",
+    "sequence belongs to that own-nature",
+    "nothing beyond own form arises"
+   ],
+   "inference": "therefore sequence does not exceed own form",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "If it is own-nature, sequence cannot be something beyond that own form."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "svātantryādbhāsanaṃ",
+     "gloss": "manifestation-by-freedom",
+     "grounds": "verse 21 token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "syāccet",
+     "gloss": "if-it-were",
+     "grounds": "verse 21 token 2",
+     "morph": "3.sg.opt.act.as"
+    },
+    {
+     "surface": "kimanyadbrūmahe",
+     "gloss": "what-else-do-we-say",
+     "grounds": "verse 21 token 3",
+     "morph": "1.pl.act.brū"
+    },
+    {
+     "surface": "vayam",
+     "gloss": "we",
+     "grounds": "verse 21 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "verse 21 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrīśiva",
+     "gloss": "holy-shiva",
+     "grounds": "verse 21 token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "evaikaḥ",
+     "gloss": "alone-one",
+     "grounds": "verse 21 token 7",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "karteti",
+     "gloss": "as-doer",
+     "grounds": "verse 21 token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paribhāṣyate",
+     "gloss": "is-called",
+     "grounds": "verse 21 token 9",
+     "morph": "3.sg.pass.paribhāṣ"
+    }
+   ],
+   "question": "If manifestation is by freedom, what else can we say?",
+   "premises": [
+    "freedom manifests all things",
+    "no other agent is needed",
+    "Shiva alone is called doer"
+   ],
+   "inference": "therefore Shiva alone is the doer",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "If manifestation is by freedom, we say nothing else: holy Shiva alone is called the doer."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "kartṛtvaṃ",
+     "gloss": "doership",
+     "grounds": "verse 22 token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "caitadetasya",
+     "gloss": "and-this-of-him",
+     "grounds": "verse 22 token 2",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tathāmātrāvabhāsanam",
+     "gloss": "manifestation-of-such-measure",
+     "grounds": "verse 22 token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tathāvabhāsanaṃ",
+     "gloss": "such-manifestation",
+     "grounds": "verse 22 token 4",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "cāsti",
+     "gloss": "and-is",
+     "grounds": "verse 22 token 5",
+     "morph": "3.sg.act.as"
+    },
+    {
+     "surface": "kāryakāraṇabhāvagam",
+     "gloss": "cause-effect-relation",
+     "grounds": "verse 22 token 6",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "How does doership relate to cause-effect relation?",
+   "premises": [
+    "doership is his manifestation",
+    "manifestation has such measure",
+    "cause-effect relation follows from it"
+   ],
+   "inference": "therefore doership grounds cause-effect relation",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "His doership is manifestation of such measure, and cause-effect relation follows from it."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "verse 23 token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "verse 23 token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ghaṭasāhityaṃ",
+     "gloss": "association-with-pot",
+     "grounds": "verse 23 token 3",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "paṭasyāpyavabhāsate",
+     "gloss": "of-cloth-also-appears",
+     "grounds": "verse 23 token 4",
+     "morph": "3.sg.pass.avabhās"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "verse 23 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ghaṭānantaratā",
+     "gloss": "immediacy-after-pot",
+     "grounds": "verse 23 token 6",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "verse 23 token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 23 token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 23 token 9",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "niyamojjhitā",
+     "gloss": "free-from-rule",
+     "grounds": "verse 23 token 10",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "If cloth appears with pot, is immediacy after pot ruled?",
+   "premises": [
+    "cloth appears with pot",
+    "immediacy after pot also appears",
+    "that immediacy is free from fixed rule"
+   ],
+   "inference": "therefore appearance is not rigidly ruled",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "As cloth appears with pot, immediacy after pot appears too, but that is free from fixed rule."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "verse 24 token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yanniyamenaiva",
+     "gloss": "that-by-rule-alone",
+     "grounds": "verse 24 token 2",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yasmādābhātyanantaram",
+     "gloss": "from-which-appears-immediately-after",
+     "grounds": "verse 24 token 3",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "tattasya",
+     "gloss": "that-its",
+     "grounds": "verse 24 token 4",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "verse 24 token 5",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "brūmaḥ",
+     "gloss": "we-call",
+     "grounds": "verse 24 token 6",
+     "morph": "1.pl.act.brū"
+    },
+    {
+     "surface": "sati",
+     "gloss": "when-present",
+     "grounds": "verse 24 token 7",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "rūpānvaye@dhike",
+     "gloss": "in-greater-form-connection",
+     "grounds": "verse 24 token 8",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What do we call cause when rule and immediacy appear?",
+   "premises": [
+    "rule-governed immediacy indicates cause",
+    "cause is named from that relation",
+    "greater form-connection is present"
+   ],
+   "inference": "therefore that is called the cause",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Therefore we call that the cause when, by rule, it appears immediately after, with greater form-connection present."
+  }
+ ]
+}
