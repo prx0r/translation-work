@@ -42,6 +42,11 @@ for ((i = 1; i <= MAX_ITER; i++)); do
   # lore_queries for unbriefed fronts. Read-only + queue seeds + log only.
   python3 tools/assessor_sweep.py 2>&1 | while IFS= read -r l; do log "assessor-sweep: $l"; done
 
+  # 2c. smart-beam reviewer (1/pass max, instant backoff on 429): checklist
+  # verdicts on newest unreviewed dones. Bounce-only on mechanical fails;
+  # NEVER approves prose (auto-review covers briefs, humans cover meaning).
+  timeout 240 python3 tools/beam_review.py --sweep --max 1 --apply 2>&1 | while IFS= read -r l; do log "beam-review: $l"; done
+
   # 3. convert approved pilots whose canonical JSON is missing
   python3 tools/ralph_convert.py 2>&1 | while IFS= read -r l; do log "convert: $l"; done
 
