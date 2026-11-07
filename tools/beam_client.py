@@ -30,8 +30,10 @@ def health() -> tuple[bool, str]:
     """Cheap probe: True if beam-free answers. Used by the watchdog to pause
     instead of hammering when the free tier is throttled."""
     try:
+        # NOTE: budget must clear hidden-reasoning burn (mistakes #22) —
+        # a 32-token probe nulls deterministically even when beam is healthy.
         chat([{'role': 'user', 'content': 'Reply with exactly: PONG'}],
-             session='health-probe', max_tokens=32, tries=1, timeout=20)
+             session='health-probe', max_tokens=2000, tries=1, timeout=60)
         return True, 'ok'
     except Exception as e:  # noqa: BLE001
         return False, str(e)[:200]
