@@ -1,0 +1,767 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "tithiccheda",
+     "gloss": "lunar-day-cut",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṛṇaṃ",
+     "gloss": "debt",
+     "grounds": "token 2",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāso",
+     "gloss": "cough",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛddhirniḥśvasanaṃ",
+     "gloss": "increase-exhalation",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhanam",
+     "gloss": "wealth",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ayatnajaṃ",
+     "gloss": "effortless-born",
+     "grounds": "token 6",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "yatnajaṃ",
+     "gloss": "effort-born",
+     "grounds": "token 7",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "recanādatha",
+     "gloss": "from-exhalation-and",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rodhanāt",
+     "gloss": "from-restraint",
+     "grounds": "token 10",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Which bodily signs arise from lunar-day cut and restraint?",
+   "premises": [
+    "lunar-day cut yields debt",
+    "restraint yields exhalation",
+    "effortless and effort-born signs differ"
+   ],
+   "inference": "The verse lists bodily signs tied to lunar-day cut and restraint.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Lunar-day cut brings debt, cough, increase, exhalation, wealth; effortless and effort-born signs differ by exhalation and restraint."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "in-breath",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśati",
+     "gloss": "enters",
+     "grounds": "token 3",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "citsūrya",
+     "gloss": "consciousness-sun",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "induṃ",
+     "gloss": "moon",
+     "grounds": "token 5",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sudhāmayam",
+     "gloss": "nectar-filled",
+     "grounds": "token 6",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "ekaikadhyena",
+     "gloss": "one-by-one",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhāṃśu",
+     "gloss": "consciousness-ray",
+     "grounds": "token 8",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalayā",
+     "gloss": "by-measure",
+     "grounds": "token 9",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "paripūrayet",
+     "gloss": "fills",
+     "grounds": "token 10",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How does consciousness-sun fill the moon through breath?",
+   "premises": [
+    "breath enters consciousness-sun",
+    "moon is nectar-filled",
+    "consciousness-ray fills by measure"
+   ],
+   "inference": "Consciousness-sun fills the moon gradually through breath and measured rays.",
+   "uncertainties": [
+    "optative sense approximate"
+   ],
+   "plain_english": "Thus breath enters the consciousness-sun, which fills the nectar-filled moon one by one with consciousness-rays by measure."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "kramasaṃpūraṇāśāliśaśāṅkāmṛtasundarāḥ",
+     "gloss": "gradual-filling-beautiful-moon-nectar",
+     "grounds": "token 1",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "tuṭyaḥ",
+     "gloss": "lunar-days",
+     "grounds": "token 2",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pañcadaśaitāḥ",
+     "gloss": "these-fifteen",
+     "grounds": "token 3",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "syustithayaḥ",
+     "gloss": "are-lunar-days",
+     "grounds": "token 4",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "sitapakṣagāḥ",
+     "gloss": "bright-fortnight-going",
+     "grounds": "token 5",
+     "morph": "adj.nom.pl"
+    }
+   ],
+   "question": "Which fifteen lunar days are beautiful moon-nectar days?",
+   "premises": [
+    "fifteen lunar days occur",
+    "they belong bright fortnight",
+    "they are beautiful moon-nectar days"
+   ],
+   "inference": "The verse names fifteen bright-fortnight lunar days as beautiful moon-nectar days.",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "These fifteen lunar days of the bright fortnight are beautiful moon-nectar days."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "antyāyāṃ",
+     "gloss": "in-last",
+     "grounds": "token 1",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "pūrṇamastuṭyāṃ",
+     "gloss": "full-lunar-day",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvavatpakṣasandhitā",
+     "gloss": "previous-fortnight-junction",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "indugrahaśca",
+     "gloss": "moon-seizure-and",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratipatsandhau",
+     "gloss": "first-day-junction",
+     "grounds": "token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvapraveśataḥ",
+     "gloss": "from-previous-entry",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens at full lunar day and first-day junction?",
+   "premises": [
+    "last full lunar day occurs",
+    "previous fortnight junction occurs",
+    "moon seizure occurs at first-day junction"
+   ],
+   "inference": "The verse links full lunar day, fortnight junction, and moon seizure at first-day junction.",
+   "uncertainties": [
+    "sandhi junction sense approximate"
+   ],
+   "plain_english": "At the last full lunar day there is previous fortnight junction; moon seizure occurs at first-day junction from previous entry."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "aihikaṃ",
+     "gloss": "worldly",
+     "grounds": "token 1",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "grahaṇe",
+     "gloss": "in-seizure",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cātra",
+     "gloss": "and-here",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "token 4",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "mahāphalam",
+     "gloss": "great-fruit",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgvadanyadayaṃ",
+     "gloss": "other-than-previous",
+     "grounds": "token 6",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "māsaḥ",
+     "gloss": "month",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṇacāre@bda",
+     "gloss": "in-breath-course",
+     "grounds": "token 8",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "token 9",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "What great fruit do practitioners gain in seizure?",
+   "premises": [
+    "worldly seizure occurs here",
+    "practitioners gain great fruit",
+    "month is called breath-course"
+   ],
+   "inference": "The verse says practitioners gain great fruit in seizure, and the month is called breath-course.",
+   "uncertainties": [
+    "@bda marker retained"
+   ],
+   "plain_english": "Here worldly seizure gives practitioners great fruit; another month is called breath-course."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "ṣaṭsu",
+     "gloss": "in-six",
+     "grounds": "token 1",
+     "morph": "num.loc.pl"
+    },
+    {
+     "surface": "ṣaṭsvaṅguleṣvarko",
+     "gloss": "sun-in-six-fingers",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛdayānmakarādiṣu",
+     "gloss": "from-heart-capricorn-etc",
+     "grounds": "token 3",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "tiṣṭhanmāghāḍhikaṃ",
+     "gloss": "standing-magha-beyond",
+     "grounds": "token 4",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ṣaṭkaṃ",
+     "gloss": "sixfold",
+     "grounds": "token 5",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "kuryāttaccottarāyaṇam",
+     "gloss": "makes-northern-course",
+     "grounds": "token 6",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How does sun make northern course from heart?",
+   "premises": [
+    "sun stands in six fingers",
+    "from heart capricorn etc",
+    "makes sixfold northern course"
+   ],
+   "inference": "The verse describes sun making northern course from heart through six fingers.",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Sun standing in six fingers from heart through capricorn makes the sixfold northern course."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "saṃkrāntitritaye",
+     "gloss": "in-three-transits",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vṛtte",
+     "gloss": "completed",
+     "grounds": "token 2",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "bhukte",
+     "gloss": "consumed",
+     "grounds": "token 3",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "cāṣṭādaśāṅgule",
+     "gloss": "and-eighteen-fingers",
+     "grounds": "token 4",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "meṣaṃ",
+     "gloss": "aries",
+     "grounds": "token 5",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpte",
+     "gloss": "reached",
+     "grounds": "token 6",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "ravau",
+     "gloss": "sun",
+     "grounds": "token 7",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "meritorious",
+     "grounds": "token 8",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "viṣuvatpāralaukikam",
+     "gloss": "equinox-otherworldly",
+     "grounds": "token 9",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What meritorious equinox occurs after three transits?",
+   "premises": [
+    "three transits completed",
+    "eighteen fingers consumed",
+    "sun reaches aries"
+   ],
+   "inference": "The verse links three transits and eighteen fingers to meritorious equinox when sun reaches aries.",
+   "uncertainties": [
+    "equinox sense approximate"
+   ],
+   "plain_english": "After three transits and eighteen fingers, when sun reaches aries, there is meritorious otherworldly equinox."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "praveśe",
+     "gloss": "in-entry",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tulāsthe@rke",
+     "gloss": "sun-in-libra",
+     "grounds": "token 3",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "token 4",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "viṣuvadbhavet",
+     "gloss": "becomes-equinox",
+     "grounds": "token 5",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhipradaṃ",
+     "gloss": "giving-success",
+     "grounds": "token 7",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "caitaddakṣiṇāyanagaṃ",
+     "gloss": "and-southern-course-going",
+     "grounds": "token 8",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What becomes equinox when sun enters libra?",
+   "premises": [
+    "entry in libra sun occurs",
+    "that same becomes equinox",
+    "it gives success in southern course"
+   ],
+   "inference": "The verse says entry with sun in libra becomes equinox, giving success in southern course.",
+   "uncertainties": [
+    "@rke marker retained"
+   ],
+   "plain_english": "When sun enters libra, that same becomes equinox here, giving success in southern course."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "garbhatā",
+     "gloss": "embryo-state",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prodbubhūṣiṣyadbhāvaścāthodbubhūṣutā",
+     "gloss": "desire-to-manifest-and-manifesting",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udbhaviṣyattvamudbhūtiprārambho@pyudbhavasthitiḥ",
+     "gloss": "future-becoming-beginning-and-state",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What states describe manifestation and becoming?",
+   "premises": [
+    "embryo state occurs",
+    "desire to manifest occurs",
+    "future becoming begins"
+   ],
+   "inference": "The verse lists states of embryo, manifestation desire, and future becoming.",
+   "uncertainties": [
+    "long compound gloss compressed"
+   ],
+   "plain_english": "Embryo state, desire to manifest, manifesting, future becoming, and beginning of manifestation are described."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sattā",
+     "gloss": "being",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pariṇatirvṛddhirhrāsaḥ",
+     "gloss": "change-growth-decline",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣayaḥ",
+     "gloss": "decay",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "makarādīni",
+     "gloss": "capricorn-etc",
+     "grounds": "token 6",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tenātra",
+     "gloss": "therefore-here",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūte",
+     "gloss": "produces",
+     "grounds": "token 9",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "sadṛkphalam",
+     "gloss": "similar-fruit",
+     "grounds": "token 10",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What sequence of states produces similar fruit?",
+   "premises": [
+    "birth being change growth decline decay occur",
+    "capricorn etc in order",
+    "action produces similar fruit"
+   ],
+   "inference": "The verse says ordered states from capricorn produce action with similar fruit.",
+   "uncertainties": [
+    "sequence mapping approximate"
+   ],
+   "plain_english": "Birth, being, change, growth, decline, and decay occur in order from capricorn; action here produces similar fruit."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "āmutrike",
+     "gloss": "in-otherworldly",
+     "grounds": "token 1",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "jhaṣaḥ",
+     "gloss": "fish",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kumbho",
+     "gloss": "pitcher",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrādeḥ",
+     "gloss": "from-mantra-etc",
+     "grounds": "token 4",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pūrvasevane",
+     "gloss": "in-prior-service",
+     "grounds": "token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "catuṣkaṃ",
+     "gloss": "fourfold",
+     "grounds": "token 6",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mīnādyamantikaṃ",
+     "gloss": "fish-beginning-ending",
+     "grounds": "token 8",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "cottarottaram",
+     "gloss": "and-increasingly",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fourfold result follows prior mantra service?",
+   "premises": [
+    "otherworldly fish and pitcher occur",
+    "from mantra etc prior service",
+    "fourfold result increases"
+   ],
+   "inference": "The verse says prior mantra service yields fourfold increasing result from fish to pitcher.",
+   "uncertainties": [
+    "symbolic mapping approximate"
+   ],
+   "plain_english": "In otherworldly context, fish and pitcher from mantra etc prior service yield fourfold increasing result."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "praveśe",
+     "gloss": "in-entry",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntipuṣṭyādisundaram",
+     "gloss": "peace-nourishment-beautiful",
+     "grounds": "token 4",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syādaihikaṃ",
+     "gloss": "would-be-worldly",
+     "grounds": "token 6",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "token 7",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "dūradūraphalaṃ",
+     "gloss": "far-distant-fruit",
+     "grounds": "token 8",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What worldly action brings peace and nourishment?",
+   "premises": [
+    "entry occurs there",
+    "peace nourishment beautiful action occurs",
+    "worldly action yields distant fruit in order"
+   ],
+   "inference": "The verse says entry there yields worldly action of peace and nourishment with distant fruit in order.",
+   "uncertainties": [
+    "entry referent unclear"
+   ],
+   "plain_english": "Indeed entry there itself yields beautiful worldly action of peace and nourishment, with fruit increasingly distant in order."
+  }
+ ]
+}

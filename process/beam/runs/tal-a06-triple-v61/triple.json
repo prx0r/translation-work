@@ -1,0 +1,713 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "hṛdayātprāṇacāraśca",
+     "gloss": "from-heart-breath-movement-and",
+     "grounds": "compound from heart and breath movement",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāsikyadvādaśāntataḥ",
+     "gloss": "from-nose-to-twelve-end",
+     "grounds": "compound from nose to twelve end",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaṭtriṃśadaṅgulo",
+     "gloss": "thirty-six-fingers",
+     "grounds": "numeral plus finger measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jantoḥ",
+     "gloss": "of-creature",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svāṅgulakramāt",
+     "gloss": "by-own-finger-measure",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does breath movement measure from heart to nose?",
+   "premises": [
+    "Breath moves from heart to nose.",
+    "The measure is thirty-six fingers.",
+    "The measure uses the creature's own fingers."
+   ],
+   "inference": "Therefore breath movement is measured by the creature's own finger units.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Breath moves from the heart to the nose, thirty-six fingers long for every creature, measured by its own fingers."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "kṣodiṣṭhe",
+     "gloss": "in-smallest",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahiṣṭhe",
+     "gloss": "in-largest",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tādṛśa",
+     "gloss": "such",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīryamojo",
+     "gloss": "vigor-strength",
+     "grounds": "compound vigor and strength",
+     "morph": "compound"
+    },
+    {
+     "surface": "balaṃ",
+     "gloss": "strength",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "spandaḥ",
+     "gloss": "pulsation",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇacāraḥ",
+     "gloss": "breath-movement",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is breath movement equal in every body?",
+   "premises": [
+    "Smallest and largest bodies are compared.",
+    "Vigor, strength, pulsation, and breath movement are named.",
+    "These are said to be equal."
+   ],
+   "inference": "Therefore breath movement remains equal across bodies of different size.",
+   "uncertainties": [
+    "The exact force of tādṛśa is approximate."
+   ],
+   "plain_english": "In the smallest or largest body, such vigor, strength, pulsation, and breath movement are equal."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśadaṅgule",
+     "gloss": "in-thirty-six-fingers",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cāre",
+     "gloss": "in-movement",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yadgamāgamayugmakam",
+     "gloss": "that-going-coming-pair",
+     "grounds": "compound going and coming pair",
+     "morph": "compound"
+    },
+    {
+     "surface": "nālikātithimāsābdatatsaṅghro@tra",
+     "gloss": "tube-day-month-year-total-here",
+     "grounds": "compound time and tube total",
+     "morph": "compound"
+    },
+    {
+     "surface": "sphuṭaṃ",
+     "gloss": "clearly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is situated in the thirty-six-finger movement?",
+   "premises": [
+    "The movement is thirty-six fingers.",
+    "A going-coming pair is named.",
+    "Time totals are named."
+   ],
+   "inference": "Therefore the going-coming pair and time totals are situated in that movement.",
+   "uncertainties": [
+    "The compound is difficult to segment."
+   ],
+   "plain_english": "In the thirty-six-finger movement, the going-coming pair and the time totals are clearly situated."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "tuṭiḥ",
+     "gloss": "tuṭi",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sapādāṅgulayukprāṇastāḥ",
+     "gloss": "with-quarter-finger-joined-breaths-those",
+     "grounds": "compound breaths joined with quarter finger",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣoḍaśocchvasan",
+     "gloss": "sixteen-exhaling",
+     "grounds": "compound sixteen exhaling",
+     "morph": "compound"
+    },
+    {
+     "surface": "niḥśvasaṃścātra",
+     "gloss": "and-inhaling-here",
+     "grounds": "compound inhaling here",
+     "morph": "compound"
+    },
+    {
+     "surface": "caṣakaḥ",
+     "gloss": "cup",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sapañcāṃśe@ṅgule@ṅgule",
+     "gloss": "with-five-parts-per-finger",
+     "grounds": "compound five parts per finger",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are breaths counted in the tuṭi?",
+   "premises": [
+    "A tuṭi is named.",
+    "Breaths joined with quarter finger are named.",
+    "Sixteen exhaling and inhaling are named."
+   ],
+   "inference": "Therefore the tuṭi counts breaths by quarter-finger units.",
+   "uncertainties": [
+    "The compound segmentation is uncertain."
+   ],
+   "plain_english": "The tuṭi has breaths joined with a quarter finger, sixteen exhaling and inhaling, and five parts per finger."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "śvāsapraśvāsayornālī",
+     "gloss": "tube-of-breath-and-exhalation",
+     "grounds": "compound tube of breath and exhalation",
+     "morph": "compound"
+    },
+    {
+     "surface": "proktāhorātra",
+     "gloss": "called-day-night",
+     "grounds": "compound called day-night",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "verb third singular passive",
+     "morph": "3.sg.pass-pres + root vac"
+    },
+    {
+     "surface": "navāṅgulāmbudhituṭau",
+     "gloss": "nine-finger-ocean-tuṭi",
+     "grounds": "compound nine finger ocean tuṭi",
+     "morph": "compound"
+    },
+    {
+     "surface": "praharāste@bdhayo",
+     "gloss": "praharas-those-days",
+     "grounds": "compound praharas those days",
+     "morph": "compound"
+    },
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is called day and night?",
+   "premises": [
+    "A tube of breath and exhalation is named.",
+    "It is called day-night.",
+    "Nine-finger ocean tuṭi and praharas are named."
+   ],
+   "inference": "Therefore the breath tube is reckoned as day and night.",
+   "uncertainties": [
+    "The compound segmentation is uncertain."
+   ],
+   "plain_english": "The tube of breath and exhalation is called day and night, with nine-finger ocean tuṭi and praharas."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "nirgame@ntarniśenendū",
+     "gloss": "exit-internal-night-moon",
+     "grounds": "compound exit internal night moon",
+     "morph": "compound"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "saṃdhye",
+     "gloss": "at-twilight",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tuṭerdale",
+     "gloss": "tuṭi-measure",
+     "grounds": "compound tuṭi measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "ketuḥ",
+     "gloss": "ketu",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūrye",
+     "gloss": "in-sun",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "in-moon",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rāhurbhaumādervārabhāginaḥ",
+     "gloss": "rahu-of-mars-etc-share-of-days",
+     "grounds": "compound rahu mars etc share of days",
+     "morph": "compound"
+    }
+   ],
+   "question": "What happens at twilight for those two?",
+   "premises": [
+    "Exit, internal night, and moon are named.",
+    "Twilight and tuṭi measure are named.",
+    "Ketu, sun, moon, and rahu are named."
+   ],
+   "inference": "Therefore twilight is measured by tuṭi and associated with those planets.",
+   "uncertainties": [
+    "The compound segmentation is uncertain."
+   ],
+   "plain_english": "At twilight of those two, the tuṭi measure applies, with ketu, sun, moon, and rahu."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "praharadvayamanyeṣāṃ",
+     "gloss": "two-praharas-of-others",
+     "grounds": "compound two praharas of others",
+     "morph": "compound"
+    },
+    {
+     "surface": "grahāṇāmudayo@ntarā",
+     "gloss": "of-planets-rising-interval",
+     "grounds": "compound planets rising interval",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhirdavīyasī",
+     "gloss": "attainment-more-distant",
+     "grounds": "compound attainment more distant",
+     "morph": "compound"
+    },
+    {
+     "surface": "mokṣo@bhicāraḥ",
+     "gloss": "liberation-black-magic",
+     "grounds": "compound liberation black magic",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāralaukikī",
+     "gloss": "otherworldly",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is said about other planets' rising?",
+   "premises": [
+    "Two praharas of others are named.",
+    "Planets' rising interval is named.",
+    "Attainment, liberation, and black magic are named."
+   ],
+   "inference": "Therefore other planets' rising is tied to attainment and liberation.",
+   "uncertainties": [
+    "The compound segmentation is uncertain."
+   ],
+   "plain_english": "Two praharas of others and planets' rising interval are named, with attainment, liberation, and black magic."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "aihikī",
+     "gloss": "worldly",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dūranaikaṭyātiśayā",
+     "gloss": "distance-nearness-excellence",
+     "grounds": "compound distance nearness excellence",
+     "morph": "compound"
+    },
+    {
+     "surface": "praharāṣṭake",
+     "gloss": "in-eight-praharas",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhyāhnamadhyaniśayorabhijinmokṣabhogadā",
+     "gloss": "midday-midnight-abhijit-liberation-enjoyment-giving",
+     "grounds": "compound midday midnight abhijit liberation enjoyment giving",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is given in eight praharas?",
+   "premises": [
+    "Worldly distance and nearness excellence are named.",
+    "Eight praharas are named.",
+    "Midday, midnight, abhijit, liberation, and enjoyment are named."
+   ],
+   "inference": "Therefore eight praharas give liberation and enjoyment at midday and midnight.",
+   "uncertainties": [
+    "The compound segmentation is uncertain."
+   ],
+   "plain_english": "Worldly distance and nearness excellence are named; in eight praharas, midday and midnight give abhijit, liberation, and enjoyment."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "nakṣatrāṇāṃ",
+     "gloss": "of-nakshatras",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tadanyeṣāmudayo",
+     "gloss": "their-others-rising",
+     "grounds": "compound their others rising",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "from-middle",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nāgā",
+     "gloss": "nagas",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "lokeśamūrtīśā",
+     "gloss": "world-lord-form-lords",
+     "grounds": "compound world lord form lords",
+     "morph": "compound"
+    },
+    {
+     "surface": "gaṇeśā",
+     "gloss": "ganeshas",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jalatattvataḥ",
+     "gloss": "from-water-principle",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How do nakshatras and others rise?",
+   "premises": [
+    "Nakshatras and their others are named.",
+    "Rising from the middle in order is named.",
+    "Nagas, world-lord forms, ganeshas, and water principle are named."
+   ],
+   "inference": "Therefore rising proceeds in order from the middle through those groups.",
+   "uncertainties": [
+    "The compound segmentation is uncertain."
+   ],
+   "plain_english": "Nakshatras and their others rise from the middle in order, with nagas, world-lord forms, ganeshas, and water principle."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "pradhānāntaṃ",
+     "gloss": "up-to-pradhana",
+     "grounds": "compound up to pradhana",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāyakāśca",
+     "gloss": "and-leaders",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vidyātattvādhināyakāḥ",
+     "gloss": "vidya-principle-leaders",
+     "grounds": "compound vidya principle leaders",
+     "morph": "compound"
+    },
+    {
+     "surface": "sakalādyāśca",
+     "gloss": "and-sakala-etc",
+     "grounds": "compound sakala etc",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaṇṭhyoṣṭhyaparyantā",
+     "gloss": "up-to-throat-lip",
+     "grounds": "compound up to throat lip",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhairavāstathā",
+     "gloss": "and-bhairavas",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the leaders up to pradhana?",
+   "premises": [
+    "Leaders up to pradhana are named.",
+    "Vidya-principle leaders are named.",
+    "Sakala etc and bhairavas are named."
+   ],
+   "inference": "Therefore leaders extend up to pradhana and include vidya-principle leaders.",
+   "uncertainties": [
+    "The compound segmentation is uncertain."
+   ],
+   "plain_english": "Leaders extend up to pradhana, including vidya-principle leaders, sakala and others, up to throat and lip, and bhairavas."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pārameśvaryo",
+     "gloss": "supreme",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vāmaśā",
+     "gloss": "vama-sha",
+     "grounds": "compound vama sha",
+     "morph": "compound"
+    },
+    {
+     "surface": "vīranāyakāḥ",
+     "gloss": "hero-leaders",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "aṣṭāvaṣṭau",
+     "gloss": "eight-eight",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpyavyāpakatājuṣaḥ",
+     "gloss": "pervaded-pervading-state-enjoying",
+     "grounds": "compound pervaded pervading state enjoying",
+     "morph": "compound"
+    }
+   ],
+   "question": "What powers are named here?",
+   "premises": [
+    "Supreme powers are named.",
+    "Hero leaders are named.",
+    "Eight and eight are named."
+   ],
+   "inference": "Therefore supreme powers and hero leaders are reckoned in eights.",
+   "uncertainties": [
+    "The compound segmentation is uncertain."
+   ],
+   "plain_english": "Supreme powers, vama-sha, and hero leaders are named, eight and eight, enjoying pervaded-pervading state."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "sthūlasūkṣmāḥ",
+     "gloss": "gross-subtle",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kramātteṣāmudayaḥ",
+     "gloss": "in-order-their-rising",
+     "grounds": "compound in order their rising",
+     "morph": "compound"
+    },
+    {
+     "surface": "praharāṣṭake",
+     "gloss": "in-eight-praharas",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "in-day",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "krūrāṇi",
+     "gloss": "cruel",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "saumyāni",
+     "gloss": "gentle",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "in-night",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "karmāṇyasaṃśayam",
+     "gloss": "actions-without-doubt",
+     "grounds": "compound actions without doubt",
+     "morph": "compound"
+    }
+   ],
+   "question": "What actions occur in day and night?",
+   "premises": [
+    "Gross and subtle rising in order is named.",
+    "Eight praharas in day are named.",
+    "Cruel and gentle actions in night are named."
+   ],
+   "inference": "Therefore actions are assigned to day and night without doubt.",
+   "uncertainties": [
+    "The compound segmentation is uncertain."
+   ],
+   "plain_english": "Gross and subtle things rise in order; in eight praharas of day and night, cruel and gentle actions occur without doubt."
+  }
+ ]
+}

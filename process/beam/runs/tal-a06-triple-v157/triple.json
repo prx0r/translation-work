@@ -1,0 +1,827 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "māyākālaṃ",
+     "gloss": "maya-time",
+     "grounds": "compound token",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "parārdhānāṃ",
+     "gloss": "of-half-counts",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "guṇayitvā",
+     "gloss": "having-multiplied",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śatena",
+     "gloss": "by-hundred",
+     "grounds": "instrumental",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśvaro",
+     "gloss": "lordly",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "divaso",
+     "gloss": "day",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nādaḥ",
+     "gloss": "sound-principle",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prāṇātmātra",
+     "gloss": "breath-only",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sṛjejjagat",
+     "gloss": "would-create-world",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root"
+    }
+   ],
+   "question": "How is the lordly day of maya time reckoned?",
+   "premises": [
+    "maya time is multiplied by half-counts",
+    "hundredfold multiplication is applied",
+    "lordly day arises from sound principle"
+   ],
+   "inference": "The lordly day creates the world through breath-only principle.",
+   "uncertainties": [
+    "exact numerical scale unclear"
+   ],
+   "plain_english": "The maya-time, multiplied by half-counts and by a hundred, becomes the lordly day; sound and breath create the world."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "tāvatī",
+     "gloss": "so-long",
+     "grounds": "adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "caiśvarī",
+     "gloss": "lordly",
+     "grounds": "adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "rātriryatra",
+     "gloss": "night-where",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prāṇaḥ",
+     "gloss": "breath",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "praśāmyati",
+     "gloss": "subsides",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "prāṇagarbhasthamapyatra",
+     "gloss": "breath-womb-contained-here",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sauṣumnavartmanā",
+     "gloss": "by-sushumna-path",
+     "grounds": "instrumental",
+     "morph": "inst.sg.n"
+    }
+   ],
+   "question": "Where does breath subside during the lordly night?",
+   "premises": [
+    "lordly night lasts so long",
+    "breath subsides there",
+    "universe rests in breath-womb"
+   ],
+   "inference": "The universe is contained in the breath-womb and travels by the sushumna path.",
+   "uncertainties": [
+    "sushumna path sense approximate"
+   ],
+   "plain_english": "During that lordly night, breath subsides, and the universe, contained in the breath-womb, moves by the sushumna path."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "prāṇe",
+     "gloss": "in-breath",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "brahmavile",
+     "gloss": "in-brahma-cavity",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śānte",
+     "gloss": "pacified",
+     "grounds": "participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "saṃvidyāpyavaśiṣyate",
+     "gloss": "consciousness-also-remains",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root"
+    },
+    {
+     "surface": "aṃśāṃśikāto@pyetasyāḥ",
+     "gloss": "from-part-to-part-even-of-this",
+     "grounds": "compound",
+     "morph": "abl.sg.f"
+    },
+    {
+     "surface": "sūkṣmasūkṣmataro",
+     "gloss": "subtle-more-subtle",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "layaḥ",
+     "gloss": "dissolution",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What remains when breath is pacified in the brahma cavity?",
+   "premises": [
+    "breath is pacified in brahma cavity",
+    "consciousness also remains",
+    "dissolution occurs part by part"
+   ],
+   "inference": "Even consciousness remains, and dissolution proceeds from subtle to subtler levels.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "When breath is pacified in the brahma cavity, consciousness also remains; dissolution of this proceeds part by part, from subtle to subtler."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "guṇayitvaiśvaraṃ",
+     "gloss": "having-multiplied-lordly",
+     "grounds": "compound",
+     "morph": "abs"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "parārdhānāṃ",
+     "gloss": "of-half-counts",
+     "grounds": "genitive",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "śatena",
+     "gloss": "by-hundred",
+     "grounds": "instrumental",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādāśivaṃ",
+     "gloss": "sadashiva",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dinaṃ",
+     "gloss": "day",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "rātrirmahāpralaya",
+     "gloss": "night-great-dissolution",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the sadashiva day and great-dissolution night reckoned?",
+   "premises": [
+    "lordly time is multiplied by half-counts",
+    "hundredfold multiplication is applied",
+    "sadayiva day and great dissolution night follow"
+   ],
+   "inference": "The sadashiva day and great-dissolution night are reckoned by the same multiplied time.",
+   "uncertainties": [
+    "compound rātrirmahāpralaya segmentation"
+   ],
+   "plain_english": "Multiplying the lordly time by half-counts and by a hundred gives the sadashiva day; the night is the great dissolution."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sadashiva",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svakālānte",
+     "gloss": "at-own-time-end",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bindvardhendunirodhikāḥ",
+     "gloss": "bindu-crescent-moon-obstructing",
+     "grounds": "compound",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "ākramya",
+     "gloss": "having-occupied",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "nāde",
+     "gloss": "in-sound",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "līyeta",
+     "gloss": "would-dissolve",
+     "grounds": "verb",
+     "morph": "3.sg.mid-opt+root"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sacarācaram",
+     "gloss": "moving-and-still",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What does sadashiva do at the end of his time?",
+   "premises": [
+    "sadashiva reaches end of own time",
+    "he occupies bindu crescent and obstructing powers",
+    "he takes moving and still universe"
+   ],
+   "inference": "Sadashiva dissolves into sound after taking the whole moving and still universe.",
+   "uncertainties": [
+    "bindvardhendu compound sense"
+   ],
+   "plain_english": "At the end of his time, sadashiva occupies the bindu, crescent, and obstructing powers, takes the moving and still universe, and dissolves into sound."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "nādo",
+     "gloss": "sound",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nādāntavṛttyā",
+     "gloss": "by-sound-end-operation",
+     "grounds": "instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhittvā",
+     "gloss": "having-pierced",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "brahmabilaṃ",
+     "gloss": "brahma-cavity",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "haṭhāt",
+     "gloss": "suddenly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktitattve",
+     "gloss": "into-shakti-principle",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "layaṃ",
+     "gloss": "dissolution",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "nijakālaparikṣaye",
+     "gloss": "at-own-time-end",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "How does sound dissolve into the shakti principle?",
+   "premises": [
+    "sound pierces brahma cavity",
+    "it goes suddenly into shakti principle",
+    "this occurs at own time end"
+   ],
+   "inference": "Sound dissolves into the shakti principle by piercing the brahma cavity at the end of its time.",
+   "uncertainties": [
+    "nādāntavṛttyā exact sense"
+   ],
+   "plain_english": "Sound, by its end-operation, pierces the brahma cavity and suddenly goes to dissolution in the shakti principle at the end of its own time."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "etāvacchaktitattve",
+     "gloss": "thus-far-in-shakti-principle",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "khalvaharniśam",
+     "gloss": "indeed-day-night",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "shakti",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "svakālavilaye",
+     "gloss": "at-own-time-dissolution",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vyāpinyāṃ",
+     "gloss": "in-pervading",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "līyate",
+     "gloss": "dissolves",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres+root"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is to be known about shakti at the end of its time?",
+   "premises": [
+    "shakti principle is to be known thus far",
+    "shakti dissolves in pervading at own time end",
+    "this occurs day and night"
+   ],
+   "inference": "Shakti dissolves again into the pervading principle at the end of its own time.",
+   "uncertainties": [
+    "khalvaharniśam segmentation"
+   ],
+   "plain_english": "Thus far is to be known: shakti dissolves again into the pervading principle at the end of its own time, day and night."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "vyāpinyā",
+     "gloss": "pervading",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "taddivārātraṃ",
+     "gloss": "that-day-night",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "līyate",
+     "gloss": "dissolves",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres+root"
+    },
+    {
+     "surface": "sāpyanāśrite",
+     "gloss": "she-also-unsupported",
+     "grounds": "compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "parārdhakoṭyā",
+     "gloss": "by-half-count-crore",
+     "grounds": "instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "hatvāpi",
+     "gloss": "having-struck-even",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śaktikālamanāśrite",
+     "gloss": "shakti-time-unsupported",
+     "grounds": "compound",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Into what does the pervading principle dissolve?",
+   "premises": [
+    "pervading principle dissolves that day-night",
+    "it is unsupported",
+    "even shakti time is unsupported"
+   ],
+   "inference": "The pervading principle dissolves, remaining unsupported even by shakti time.",
+   "uncertainties": [
+    "anāśrite sense"
+   ],
+   "plain_english": "The pervading principle dissolves that day and night; it remains unsupported, even when shakti time is struck and unsupported."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "dinaṃ",
+     "gloss": "day",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "rātriśca",
+     "gloss": "and-night",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tatkāle",
+     "gloss": "at-that-time",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "parārdhaguṇite@pi",
+     "gloss": "even-multiplied-by-half-count",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so@pi",
+     "gloss": "he-also",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "layaṃ",
+     "gloss": "dissolution",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sāmyasaṃjñe",
+     "gloss": "in-equality-named",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sāmanase",
+     "gloss": "in-samanasa",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pade",
+     "gloss": "in-state",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Where does even multiplied time go at that time?",
+   "premises": [
+    "day and night occur at that time",
+    "even half-count multiplied time goes",
+    "it goes to dissolution in equality-named samanasa state"
+   ],
+   "inference": "Even multiplied time dissolves into the equality-named samanasa state.",
+   "uncertainties": [
+    "sāmanasa sense"
+   ],
+   "plain_english": "At that time, day and night occur; even time multiplied by half-counts goes to dissolution in the state named equality, the samanasa state."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sāmyasaṃjñaḥ",
+     "gloss": "equality-named",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syānnityo@kalyaḥ",
+     "gloss": "would-be-eternal-auspicious",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root"
+    },
+    {
+     "surface": "kalātmakaḥ",
+     "gloss": "made-of-parts",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yattatsāmanasaṃ",
+     "gloss": "that-which-is-samanasa",
+     "grounds": "relative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tatsāmyaṃ",
+     "gloss": "that-equality",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "viśvagam",
+     "gloss": "all-pervading",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is the equality-named time?",
+   "premises": [
+    "that time is equality-named",
+    "it would be eternal and auspicious",
+    "its form is samanasa equality"
+   ],
+   "inference": "The equality-named time is eternal, auspicious, part-made, and its form is all-pervading brahman equality.",
+   "uncertainties": [
+    "syānnityo@kalyaḥ segmentation"
+   ],
+   "plain_english": "That time, named equality, would be eternal and auspicious, made of parts; its samanasa form is equality, brahman, all-pervading."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmanasātkālānnimeṣonmeṣamātrataḥ",
+     "gloss": "from-samanasa-time-blink-opening-only",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "tuṭyādikaṃ",
+     "gloss": "minute-and-so-forth",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "parārdhāntaṃ",
+     "gloss": "up-to-half-count-end",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sūte",
+     "gloss": "produces",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "saivātra",
+     "gloss": "she-indeed-here",
+     "grounds": "pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "niṣṭhitam",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What does samanasa time produce?",
+   "premises": [
+    "from samanasa time",
+    "from blink-opening measure onward",
+    "minute and so forth up to half-count end is produced"
+   ],
+   "inference": "Samanasa time produces all measures from a blink up to the end of half-counts.",
+   "uncertainties": [
+    "long compound segmentation"
+   ],
+   "plain_english": "Therefore, from samanasa time, from the measure of a blink onward, minute and so forth up to the end of half-counts is produced; this is established here."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "daśaśatasahasramayutaṃ",
+     "gloss": "ten-hundred-thousand-ten-thousand",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "lakṣaniyutakoṭi",
+     "gloss": "hundred-thousand-ten-thousand-crore",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sārbudaṃ",
+     "gloss": "with-arbuda",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vṛndam",
+     "gloss": "vṛnda",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kharvanikharve",
+     "gloss": "kharva-nikharva",
+     "grounds": "compound",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "śaṃkhābjajaladhimadhyāntamatha",
+     "gloss": "shankha-lotus-ocean-middle-end-then",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "parārdhaṃ",
+     "gloss": "half-count",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What numerical series reaches half-count?",
+   "premises": [
+    "series begins with ten hundred thousand ten thousand",
+    "it includes laksha niyuta koti and arbuda",
+    "it ends with half-count"
+   ],
+   "inference": "The numerical series runs from small units through vṛnda, kharva, nikharva, shankha, lotus, ocean, middle, end, and then half-count.",
+   "uncertainties": [
+    "exact numerical glosses approximate"
+   ],
+   "plain_english": "The series runs: ten hundred thousand ten thousand, laksha, niyuta, koti, with arbuda, vṛnda, kharva, nikharva, shankha, lotus, ocean, middle, end, and then half-count."
+  }
+ ]
+}

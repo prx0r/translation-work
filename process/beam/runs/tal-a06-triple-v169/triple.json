@@ -1,0 +1,852 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "ityekasmātprabhṛti",
+     "gloss": "from-one-thus-beginning",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "tenfold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "tenfold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "by-order",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kalayitvā",
+     "gloss": "having-counted",
+     "grounds": "gerund",
+     "morph": "verb-gerund"
+    },
+    {
+     "surface": "ekādiparārdhānteṣvaṣṭādaśasu",
+     "gloss": "in-eighteen-ending-with-one-etc",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sthitiṃ",
+     "gloss": "state",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "brūyāt",
+     "gloss": "one-should-say",
+     "grounds": "optative",
+     "morph": "verb-3sg-opt"
+    }
+   ],
+   "question": "How should one describe the eighteen states from one onward?",
+   "premises": [
+    "counting proceeds tenfold by order",
+    "states end at eighteen",
+    "one should declare the state"
+   ],
+   "inference": "The verse prescribes declaring eighteen ordered states.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "From one onward, counting tenfold by order, one should declare the state among eighteen."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "catvāra",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pralayā",
+     "gloss": "dissolutions",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mukhyāḥ",
+     "gloss": "principal",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sargāśca",
+     "gloss": "and-creations",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatkalāḥ",
+     "gloss": "their-moments",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūmūlanaiśaśaktisthāstadevāṇḍacatuṣṭayam",
+     "gloss": "earth-root-night-power-places-that-egg-quartet",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which four dissolutions and creations are principal?",
+   "premises": [
+    "four principal dissolutions exist",
+    "creations share their moments",
+    "four egg-worlds are named"
+   ],
+   "inference": "The verse identifies four principal dissolutions and creations.",
+   "uncertainties": [
+    "long compound segmentation uncertain"
+   ],
+   "plain_english": "These four are principal dissolutions and creations, their moments, and the four egg-worlds."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "kālāgnirbhuvi",
+     "gloss": "time-fire-on-earth",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃhartā",
+     "gloss": "destroyer",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māyānte",
+     "gloss": "at-maya-end",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kālatattvarāṭ",
+     "gloss": "time-principle-king",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrīkaṇṭho",
+     "gloss": "shrikantha",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sṛṣṭisaṃhārakārakaḥ",
+     "gloss": "creation-destruction-maker",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who destroys and creates in one place?",
+   "premises": [
+    "time-fire destroys on earth",
+    "time-principle king acts at maya end",
+    "shrikantha is root",
+    "one place holds creation and destruction"
+   ],
+   "inference": "The verse assigns creation and destruction to one root power.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Time-fire destroys on earth; at maya's end the time-principle king, Shrikantha, root, makes creation and destruction in one place."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "tallayo",
+     "gloss": "its-dissolution",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāntarastasmādekaḥ",
+     "gloss": "intermediate-from-that-one",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sṛṣṭilayeśitā",
+     "gloss": "creation-dissolution-lord",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrīmānaghoraḥ",
+     "gloss": "glorious-aghora",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktyante",
+     "gloss": "at-power-end",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃhartā",
+     "gloss": "destroyer",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭikṛcca",
+     "gloss": "and-creation-maker",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who destroys and creates at power's end?",
+   "premises": [
+    "intermediate dissolution follows from that",
+    "aghora is glorious lord",
+    "he destroys and creates at power end"
+   ],
+   "inference": "The verse names Aghora as destroyer and creator at power's end.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "From that intermediate dissolution, glorious Aghora, lord of creation and dissolution, destroys and creates at power's end."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "tatsṛṣṭau",
+     "gloss": "in-its-creation",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sṛṣṭisaṃhārā",
+     "gloss": "creation-destructions",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "niḥsaṃkhyā",
+     "gloss": "countless",
+     "grounds": "adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagatāṃ",
+     "gloss": "of-worlds",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antarbhūtāstataḥ",
+     "gloss": "included-therefore",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śāktī",
+     "gloss": "shakti",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāsṛṣṭirudāhṛtā",
+     "gloss": "great-creation-called",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is the great creation called shakti?",
+   "premises": [
+    "creation-destructions of worlds are countless",
+    "they are included therein",
+    "therefore shakti is great creation"
+   ],
+   "inference": "The verse calls shakti the great creation because countless worlds are included.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In its creation, countless creation-destructions of worlds are included; therefore shakti is called the great creation."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "laye",
+     "gloss": "in-dissolution",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "harī",
+     "gloss": "hari",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudraśatānyaṣṭakapañcakam",
+     "gloss": "rudra-hundreds-eights-fives",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ityanyonyaṃ",
+     "gloss": "thus-mutually",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramādyānti",
+     "gloss": "by-order-go",
+     "grounds": "verb",
+     "morph": "verb-3pl-pres"
+    },
+    {
+     "surface": "layaṃ",
+     "gloss": "dissolution",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "māyāntake@dhvani",
+     "gloss": "at-maya-end-sound",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How do brahma hari and rudras dissolve?",
+   "premises": [
+    "brahma hari and rudras dissolve",
+    "they proceed mutually by order",
+    "dissolution reaches maya end"
+   ],
+   "inference": "The verse describes ordered mutual dissolution up to maya's end.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In dissolution, Brahma, Hari, and Rudras proceed mutually by order to dissolution at maya's end."
+  },
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "māyātattvalaye",
+     "gloss": "in-maya-principle-dissolution",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tvete",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prayānti",
+     "gloss": "go",
+     "grounds": "verb",
+     "morph": "verb-3pl-pres"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māyordhve",
+     "gloss": "above-maya",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sitādhvasthāsteṣāṃ",
+     "gloss": "white-path-dwellers-theirs",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paraśive",
+     "gloss": "in-supreme-shiva",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "layaḥ",
+     "gloss": "dissolution",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where do white-path dwellers dissolve?",
+   "premises": [
+    "these go to supreme state",
+    "above maya dwell white-path ones",
+    "their dissolution is in supreme shiva"
+   ],
+   "inference": "The verse places dissolution of white-path dwellers in supreme Shiva.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In maya-principle dissolution these go to the supreme state; above maya, white-path dwellers dissolve in supreme Shiva."
+  },
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "tatrāpyaupādhikādbhedāllaye",
+     "gloss": "there-too-by-conditional-difference-in-dissolution",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedaṃ",
+     "gloss": "difference",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pare",
+     "gloss": "in-supreme",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "verb",
+     "morph": "verb-3pl-pres"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāttveśvare",
+     "gloss": "in-truth-lord",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "varge",
+     "gloss": "in-group",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "līne",
+     "gloss": "dissolved",
+     "grounds": "participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "sṛṣṭau",
+     "gloss": "in-creation",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pare",
+     "gloss": "supreme",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do knowers see difference in dissolution?",
+   "premises": [
+    "difference in dissolution is known",
+    "conditional difference applies there too",
+    "dissolved group returns to supreme creation"
+   ],
+   "inference": "The verse says knowers recognize difference even in dissolution.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "There too, by conditional difference in dissolution, knowers know difference; thus in the truth-lord group, dissolved, creation returns to the supreme."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "tatsādhakāḥ",
+     "gloss": "its-practitioners",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śiveṣṭā",
+     "gloss": "desired-by-shiva",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsthānamadhiśerate",
+     "gloss": "dwell-in-its-place",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "brāhmī",
+     "gloss": "brahmi",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "parasyaiva",
+     "gloss": "of-supreme-only",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktistāṃ",
+     "gloss": "power-her",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "one-should-cast",
+     "grounds": "optative",
+     "morph": "verb-3sg-opt"
+    }
+   ],
+   "question": "Where should power be cast?",
+   "premises": [
+    "practitioners are desired by shiva",
+    "they dwell in its place",
+    "brahmi power of supreme is cast there"
+   ],
+   "inference": "The verse instructs casting supreme power, Brahmi, where practitioners dwell.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Its practitioners, desired by Shiva, dwell in its place; Brahmi, power of the supreme, should be cast there."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇurudrādyā",
+     "gloss": "vishnu-rudra-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaiṣṇavyāderataḥ",
+     "gloss": "from-vaishnavi-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "by-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktimantaṃ",
+     "gloss": "power-holder",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vihāyānyaṃ",
+     "gloss": "leaving-another",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb",
+     "morph": "verb-3sg-pres"
+    },
+    {
+     "surface": "nedṛśam",
+     "gloss": "not-such",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Does power go to another holder?",
+   "premises": [
+    "brahma vishnu rudra etc follow order",
+    "leaving another power-holder",
+    "power does not go to such"
+   ],
+   "inference": "The verse denies power passing to another holder in that order.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Brahma, Vishnu, Rudra and others follow order from Vaishnavi etc; leaving another power-holder, power does not go to such."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "chāditaprathitāśeṣa",
+     "gloss": "covered-manifested-all",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktirekaḥ",
+     "gloss": "power-one",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śivastathā",
+     "gloss": "shiva-thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visṛṣṭipralayāḥ",
+     "gloss": "creations-dissolutions",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāṇa",
+     "gloss": "life",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣṭhitāḥ",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "participle"
+    }
+   ],
+   "question": "Where are creation and dissolution established?",
+   "premises": [
+    "covered and manifested all",
+    "power and shiva are one",
+    "creations and dissolutions are established in one place"
+   ],
+   "inference": "The verse states creations and dissolutions are established in one place.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Covered and manifested all; power and Shiva are one; thus creations and dissolutions are established in one place."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "so@pi",
+     "gloss": "he-too",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃvidi",
+     "gloss": "in-consciousness",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃvicca",
+     "gloss": "and-consciousness",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "cinmātre",
+     "gloss": "in-pure-consciousness",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñeyavarjite",
+     "gloss": "devoid-of-knowable",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cinmātrameva",
+     "gloss": "pure-consciousness-only",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parameśvarī",
+     "gloss": "supreme-lady",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the supreme lady in pure consciousness?",
+   "premises": [
+    "he too is in consciousness",
+    "pure consciousness is devoid of knowable",
+    "goddess is supreme lady"
+   ],
+   "inference": "The verse identifies the supreme lady as pure consciousness beyond knowable.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "He too is in consciousness; pure consciousness, devoid of knowable, is only pure consciousness; the goddess is the supreme lady."
+  }
+ ]
+}

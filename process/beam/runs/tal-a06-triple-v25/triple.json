@@ -1,0 +1,804 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "jīvādityo",
+     "gloss": "living-sun",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "codgacchettuṭyardhaṃ",
+     "gloss": "rises-half",
+     "grounds": "token 3",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "sāndhyamīdṛśam",
+     "gloss": "twilight-such",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ūrdhvavaktro",
+     "gloss": "upward-faced",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raviścandro@dhomukho",
+     "gloss": "sun-moon-downward-faced",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahnirantare",
+     "gloss": "fire-between",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How does the living sun not rise halfway in such twilight?",
+   "premises": [
+    "The living sun does not rise halfway.",
+    "Twilight has upward-faced sun and downward-faced moon.",
+    "Fire stands between them."
+   ],
+   "inference": "The verse describes a twilight configuration with sun, moon, and fire.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "The living sun does not rise halfway; in such twilight the sun faces upward, the moon faces downward, and fire is between."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "mādhyāhnikī",
+     "gloss": "midday",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣadā",
+     "gloss": "liberation-giving",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syādvyomamadhyasthito",
+     "gloss": "would-be-sky-middle-standing",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raviḥ",
+     "gloss": "sun",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anastamitasāro",
+     "gloss": "not-set-essence",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jantucakraprabodhakaḥ",
+     "gloss": "creature-wheel-awakener",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is midday liberation-giving when the sun stands in the sky middle?",
+   "premises": [
+    "Midday is liberation-giving.",
+    "The sun stands in the middle of the sky.",
+    "The sun has not-set essence.",
+    "It awakens the creature wheel."
+   ],
+   "inference": "Midday sun in the sky middle gives liberation and awakens beings.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "Midday is liberation-giving: the sun stands in the middle of the sky, its essence has not set, and it awakens the wheel of creatures."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "binduḥ",
+     "gloss": "point",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇo",
+     "gloss": "breath",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyahaścaiva",
+     "gloss": "indeed-day-and",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ravirekatra",
+     "gloss": "sun-in-one-place",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "token 5",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "mahāsandhyā",
+     "gloss": "great-twilight",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "supraśāntātmikā",
+     "gloss": "very-peaceful-natured",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How do point, breath, day, and sun stand together in great twilight?",
+   "premises": [
+    "Point, breath, day, and sun stand in one place.",
+    "Great twilight is the third.",
+    "It is very peaceful in nature.",
+    "It is established."
+   ],
+   "inference": "The verse unites point, breath, day, and sun in a peaceful third twilight.",
+   "uncertainties": [
+    "Sandhi splitting is uncertain."
+   ],
+   "plain_english": "Point, breath, day, and sun stand together in one place; the great twilight is the third, very peaceful in nature, and established."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baddhā",
+     "gloss": "bound",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattatphalaniyojikā",
+     "gloss": "that-that-fruit-assigning",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvidi",
+     "gloss": "in-consciousness",
+     "grounds": "token 7",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarvo@yamadhvā",
+     "gloss": "all-this-path",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśramya",
+     "gloss": "having-rested",
+     "grounds": "token 9",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "token 10",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "Where does the bound crest assign fruits and the path rest in consciousness?",
+   "premises": [
+    "The bound crest assigns fruits.",
+    "Therefore in consciousness all this path rests after resting."
+   ],
+   "inference": "The verse links a fruit-assigning crest with the path resting in consciousness.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "Thus where the bound crest assigns fruits, therefore in consciousness all this path stands after resting."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "amūrtāyāḥ",
+     "gloss": "of-formless",
+     "grounds": "token 1",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sarvagatvānniṣkriyāyāśca",
+     "gloss": "from-all-pervading-and-actionless",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvidaḥ",
+     "gloss": "of-consciousness",
+     "grounds": "token 3",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mūrtikriyābhāsanaṃ",
+     "gloss": "form-action-appearance",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatsa",
+     "gloss": "that-it",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evādhvā",
+     "gloss": "indeed-path",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheśituḥ",
+     "gloss": "of-great-lord",
+     "grounds": "token 7",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How can formless all-pervading actionless consciousness appear as form and action?",
+   "premises": [
+    "Consciousness is formless, all-pervading, and actionless.",
+    "Its appearance as form and action is the path.",
+    "That path belongs to the great lord."
+   ],
+   "inference": "The path is the apparent form and action of formless consciousness.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "The appearance of form and action from formless, all-pervading, actionless consciousness is indeed the path of the great lord."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "adhvā",
+     "gloss": "path",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "by-stages",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yātavye",
+     "gloss": "to-be-traversed",
+     "grounds": "token 3",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pade",
+     "gloss": "in-stage",
+     "grounds": "token 4",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃprāptikāraṇam",
+     "gloss": "arrival-cause",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvaitināṃ",
+     "gloss": "of-dualists",
+     "grounds": "token 6",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhogyabhāvāttu",
+     "gloss": "from-enjoyable-state-but",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabuddhānāṃ",
+     "gloss": "of-awakened",
+     "grounds": "token 8",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yato@dyate",
+     "gloss": "because-is-aimed",
+     "grounds": "token 9",
+     "morph": "verb.3.sg.pass-pres"
+    }
+   ],
+   "question": "Why is the path traversed by stages for dualists but aimed differently for the awakened?",
+   "premises": [
+    "The path is traversed by stages.",
+    "For dualists it is an arrival cause.",
+    "For the awakened it is aimed from the enjoyable state."
+   ],
+   "inference": "The verse contrasts dualists and awakened regarding the path.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "The path is to be traversed by stages; for dualists it is a cause of arrival, while for the awakened it is aimed from the enjoyable state."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdānāmanvarthaṃ",
+     "gloss": "of-words-according-to-meaning",
+     "grounds": "token 3",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "carcayedyataḥ",
+     "gloss": "one-should-examine-because",
+     "grounds": "token 4",
+     "morph": "verb.3.sg.opt-pres"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīmanniśācāre",
+     "gloss": "in-auspicious-night-practice",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃjñātra",
+     "gloss": "name-here",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "trividhā",
+     "gloss": "threefold",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why should one examine words according to meaning everywhere here?",
+   "premises": [
+    "One should examine words according to meaning everywhere.",
+    "It was said in auspicious night practice.",
+    "The name here is considered threefold."
+   ],
+   "inference": "The verse justifies examining words by meaning through a threefold naming.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "Here one should examine words according to meaning everywhere, because it was said in auspicious night practice; the name here is considered threefold."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "naimittikī",
+     "gloss": "occasional",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasiddhā",
+     "gloss": "well-known",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathānyā",
+     "gloss": "and-another",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāribhāṣikī",
+     "gloss": "technical",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrvatve",
+     "gloss": "in-priority",
+     "grounds": "token 6",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradhānaṃ",
+     "gloss": "principal",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāttatrāntarbhāvayettataḥ",
+     "gloss": "would-be-include-therein",
+     "grounds": "token 9",
+     "morph": "verb.3.sg.opt-pres"
+    }
+   ],
+   "question": "How are occasional, well-known, and technical names related in priority?",
+   "premises": [
+    "Occasional and well-known names exist.",
+    "Another technical name exists.",
+    "In priority one is principal.",
+    "Then include therein."
+   ],
+   "inference": "The verse lists name types and subordinates them by priority.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "Occasional and well-known names, and another technical name; in priority one is principal, and then include therein."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "ato@dhvaśabdasyokteyaṃ",
+     "gloss": "therefore-of-path-word-said-this",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niruktirnoditāpi",
+     "gloss": "etymology-not-stated-even",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacitsvabuddhyā",
+     "gloss": "sometimes-by-own-intellect",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāpyūhyā",
+     "gloss": "that-too-infer",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kiyallekhyaṃ",
+     "gloss": "how-much-to-write",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pustake",
+     "gloss": "in-book",
+     "grounds": "token 8",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "If the etymology of path is not stated, how much should one write in the book?",
+   "premises": [
+    "Therefore this etymology of path is said.",
+    "Even if not stated, infer it by own intellect.",
+    "How much is to be written in the book."
+   ],
+   "inference": "The verse allows inferring unstated etymology and questions how much to write.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "Therefore this etymology of path is said; even if not stated, infer it by own intellect; how much is to be written in the book."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyābhāsanaṃ",
+     "gloss": "action-appearance",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatso@dhvā",
+     "gloss": "which-path",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālāhva",
+     "gloss": "called-time",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "token 5",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "varṇamantrapadābhikhyamatrāste@dhvatrayaṃ",
+     "gloss": "letter-mantra-word-named-here-path-three",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clear",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is called time-path and what three paths are clearly named here?",
+   "premises": [
+    "There action-appearance is the path called time.",
+    "Here three paths are named letter, mantra, and word.",
+    "This is clear."
+   ],
+   "inference": "The verse identifies a time-path and three named paths.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "There the action-appearance path is called time; here three paths are clearly named letter, mantra, and word."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "yastu",
+     "gloss": "but-which",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūrtyavabhāsāṃśaḥ",
+     "gloss": "form-appearance-part",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deśādhvā",
+     "gloss": "space-path",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "token 5",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "kalātattvapurābhikhyamantarbhūtamiha",
+     "gloss": "kalaa-tattva-pura-named-included-here",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "three",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which form-appearance part is declared the space-path and what three are included here?",
+   "premises": [
+    "The form-appearance part is the space-path.",
+    "It is declared.",
+    "Here three named kalaa, tattva, and pura are included."
+   ],
+   "inference": "The verse identifies the space-path and includes three named items.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "But the form-appearance part is declared the space-path; here three named kalaa, tattva, and pura are included."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "trikadvaye@tra",
+     "gloss": "in-two-triads-here",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthūlaṃ",
+     "gloss": "gross",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūkṣmaṃ",
+     "gloss": "subtle",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yato@sti",
+     "gloss": "because-is",
+     "grounds": "token 7",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvo@yamadhvā",
+     "gloss": "all-this-path",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍvidha",
+     "gloss": "sixfold",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "token 11",
+     "morph": "verb.3.sg.pass-pres"
+    }
+   ],
+   "question": "Why is all this path called sixfold in the two triads?",
+   "premises": [
+    "In two triads each has gross, subtle, and supreme body.",
+    "Because this is so, all this path is called sixfold."
+   ],
+   "inference": "The verse derives the sixfold path from two triads of bodies.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "In two triads here each has gross, subtle, and supreme body; therefore all this path is called sixfold."
+  }
+ ]
+}

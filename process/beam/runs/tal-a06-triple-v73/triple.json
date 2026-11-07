@@ -1,0 +1,779 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "krūratā",
+     "gloss": "cruelty",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saumyatā",
+     "gloss": "gentleness",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vābhisandherapi",
+     "gloss": "or-intention-even",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nirūpitā",
+     "gloss": "determined",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dinarātrikṣaye",
+     "gloss": "day-night-destruction",
+     "grounds": "token 5",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāptidhyānayogataḥ",
+     "gloss": "pervasion-meditation-yoga-from",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is liberation determined at day-night destruction?",
+   "premises": [
+    "Cruelty and gentleness are determined by intention.",
+    "Day and night destruction marks liberation.",
+    "Pervasion meditation and yoga bring that liberation."
+   ],
+   "inference": "Liberation arises through pervasion, meditation, and yoga at the destruction of day and night.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Liberation, whether through cruelty or gentleness of intention, is determined at the destruction of day and night by pervasion, meditation, and yoga."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "token 1",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "coktāḥ",
+     "gloss": "also-spoken",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parameśena",
+     "gloss": "by-supreme-lord",
+     "grounds": "token 3",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śrīmadvīrāvalīkule",
+     "gloss": "in-vira-lineage",
+     "grounds": "token 4",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sitāsitau",
+     "gloss": "white-black",
+     "grounds": "token 5",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dīrghahrasvau",
+     "gloss": "long-short",
+     "grounds": "token 6",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dharmādharmau",
+     "gloss": "merit-demerit",
+     "grounds": "token 7",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dinakṣape",
+     "gloss": "day-night",
+     "grounds": "token 8",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What did the supreme lord teach in the vira lineage?",
+   "premises": [
+    "The supreme lord spoke to those in the vira lineage.",
+    "White and black, long and short, are paired.",
+    "Merit and demerit belong to day and night."
+   ],
+   "inference": "The lord taught paired opposites of merit and demerit within day and night.",
+   "uncertainties": [
+    "Exact lineage reference is unclear."
+   ],
+   "plain_english": "Those were also spoken by the supreme lord in the vira lineage: white and black, long and short, merit and demerit, in day and night."
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "kṣīyete",
+     "gloss": "are-destroyed",
+     "grounds": "token 1",
+     "morph": "3.pl.pass-pres"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "taddīkṣā",
+     "gloss": "that-initiation",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāptyā",
+     "gloss": "by-pervasion",
+     "grounds": "token 4",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "dhyānena",
+     "gloss": "by-meditation",
+     "grounds": "token 5",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yogataḥ",
+     "gloss": "by-yoga",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ahorātraḥ",
+     "gloss": "day-night",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇacāre",
+     "gloss": "in-breath-movement",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kathito",
+     "gloss": "spoken",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māsa",
+     "gloss": "month",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "token 11",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "When are day and night destroyed by initiation?",
+   "premises": [
+    "Initiation destroys day and night through pervasion, meditation, and yoga.",
+    "Day and night are spoken in breath movement.",
+    "A month is what is called."
+   ],
+   "inference": "Initiation destroys temporal day-night through practice, while breath movement and month are named accordingly.",
+   "uncertainties": [
+    "Syntax of month clause is loose."
+   ],
+   "plain_english": "If that initiation destroys day and night through pervasion, meditation, and yoga, then day and night are spoken in breath movement, and a month is called."
+  },
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "dinaṃ",
+     "gloss": "day",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇo",
+     "gloss": "dark",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niśā",
+     "gloss": "night",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śuklaḥ",
+     "gloss": "bright",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pakṣau",
+     "gloss": "fortnights",
+     "grounds": "token 5",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "karmasu",
+     "gloss": "in-actions",
+     "grounds": "token 6",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "token 8",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśoktāstithayastāsu",
+     "gloss": "sixteen-stated-lunar-days-in-them",
+     "grounds": "token 9",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "token 10",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pūrvapaścime",
+     "gloss": "east-west",
+     "grounds": "token 11",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "How are dark day and bright night arranged?",
+   "premises": [
+    "Day is dark and night is bright.",
+    "Fortnights act as before.",
+    "Sixteen lunar days are stated in them, east and west."
+   ],
+   "inference": "Dark day and bright night are arranged through fortnights and sixteen lunar days in east and west.",
+   "uncertainties": [
+    "Token 9 is a long compound."
+   ],
+   "plain_english": "Day is dark, night is bright; fortnights act as before, and among the sixteen stated lunar days are those in east and west."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "tayostu",
+     "gloss": "of-those-but",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśramo@rdhe@rdhe",
+     "gloss": "rest-half-half",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tithyaḥ",
+     "gloss": "lunar-days",
+     "grounds": "token 3",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pañcadaśetarāḥ",
+     "gloss": "fifteen-other",
+     "grounds": "token 4",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sapāde",
+     "gloss": "with-quarter",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvyaṅgule",
+     "gloss": "two-fingers",
+     "grounds": "token 6",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tithyā",
+     "gloss": "by-lunar-day",
+     "grounds": "token 7",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ahorātro",
+     "gloss": "day-night",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhajyate",
+     "gloss": "is-divided",
+     "grounds": "token 9",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is day and night divided by lunar days?",
+   "premises": [
+    "Rest occurs half and half in those.",
+    "Fifteen other lunar days remain.",
+    "With a quarter and two fingers, day-night is divided by a lunar day."
+   ],
+   "inference": "Day and night are divided by lunar days with fractional and finger measures.",
+   "uncertainties": [
+    "The half-rest phrase is obscure."
+   ],
+   "plain_english": "But in those, rest occurs half and half; the other fifteen lunar days, with a quarter and two fingers, divide day and night by a lunar day."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "prakāśaviśramavaśāttāveva",
+     "gloss": "by-light-rest-dependence-those-only",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dinakṣape",
+     "gloss": "day-night",
+     "grounds": "token 3",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃvitpratikṣaṇaṃ",
+     "gloss": "awareness-every-moment",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasmātprakāśānandayoginī",
+     "gloss": "because-light-bliss-yogini",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why are day and night awareness every moment?",
+   "premises": [
+    "Those day and night depend on light and rest.",
+    "Awareness occurs every moment.",
+    "Because the yogini is light and bliss."
+   ],
+   "inference": "Day and night are awareness every moment because they depend on light and rest and the yogini is light-bliss.",
+   "uncertainties": [
+    "Compound token 1 is dense."
+   ],
+   "plain_english": "Indeed, those day and night depend on light and rest, so awareness occurs every moment, because the yogini is light and bliss."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "token 1",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "klṛptau",
+     "gloss": "fixed",
+     "grounds": "token 2",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "yāvati",
+     "gloss": "as-much-as",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tayā",
+     "gloss": "by-that",
+     "grounds": "token 4",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tāvatyeva",
+     "gloss": "that-much-only",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dinakṣape",
+     "gloss": "day-night",
+     "grounds": "token 6",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yāvatyeva",
+     "gloss": "as-much-only",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃvittiruditoditasusphuṭā",
+     "gloss": "awareness-risen-set-clear",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How long do fixed day and night last?",
+   "premises": [
+    "Those two are fixed.",
+    "As much as by that, so much day and night.",
+    "Awareness is clearly risen and set."
+   ],
+   "inference": "Fixed day and night last exactly as much as awareness clearly rises and sets.",
+   "uncertainties": [
+    "The exact measure is not specified."
+   ],
+   "plain_english": "Those two are fixed: as much as by that, so much day and night, because awareness is clearly risen and set."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "tāvāneva",
+     "gloss": "that-much-only",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣaṇaḥ",
+     "gloss": "moment",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalpo",
+     "gloss": "eon",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nimeṣo",
+     "gloss": "blink",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadastvapi",
+     "gloss": "let-that-be-even",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yāvānevodayo",
+     "gloss": "as-much-only-rising",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vittervedyaikagrahatatparaḥ",
+     "gloss": "of-awareness-object-one-grasp-devoted",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the measure of a moment or eon?",
+   "premises": [
+    "A moment, eon, or blink is that much only.",
+    "Let that be even so.",
+    "Rising of awareness is devoted to grasping one object."
+   ],
+   "inference": "Any duration is measured by awareness rising to grasp one object.",
+   "uncertainties": [
+    "The phrase is highly compressed."
+   ],
+   "plain_english": "A moment, eon, or blink is only that much; let it be so, as much as the rising of awareness devoted to grasping one object."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "tāvadevāstamayanaṃ",
+     "gloss": "that-much-only-setting",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "veditṛsvātmacarvaṇam",
+     "gloss": "knower-self-chewing",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedye",
+     "gloss": "in-object",
+     "grounds": "token 3",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bahirantarvā",
+     "gloss": "outside-inside-or",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvaye",
+     "gloss": "in-two",
+     "grounds": "token 6",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-then",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvayojjhite",
+     "gloss": "in-two-abandoned",
+     "grounds": "token 8",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is setting and self-chewing of the knower?",
+   "premises": [
+    "Setting is only that much.",
+    "The knower chews the self.",
+    "It occurs in object, outside or inside, in two, or in two abandoned."
+   ],
+   "inference": "Setting and self-chewing of the knower occur in object, duality, or abandonment of duality.",
+   "uncertainties": [
+    "Carvaṇam is metaphorical."
+   ],
+   "plain_english": "Setting is only that much: the knower's self-chewing occurs in the object, outside or inside, in two, or in the abandonment of two."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tanmayībhūtirdinaṃ",
+     "gloss": "becoming-that-day",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vettṛsthatā",
+     "gloss": "knower-abiding",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niśā",
+     "gloss": "night",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "veditā",
+     "gloss": "known",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedyaviśrānto",
+     "gloss": "object-rested",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vettā",
+     "gloss": "knower",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvantarmukhasthitiḥ",
+     "gloss": "but-inward-facing-state",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is day and night for knower and known?",
+   "premises": [
+    "In every way becoming that is day.",
+    "Knower abiding is night.",
+    "The known rests, and the knower is inward-facing state."
+   ],
+   "inference": "Day is becoming that, night is knower abiding, with known resting and knower inward-facing.",
+   "uncertainties": [
+    "The metaphysical mapping is interpretive."
+   ],
+   "plain_english": "In every way, becoming that is day; knower abiding is night; the known rests, and the knower is an inward-facing state."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vicārayanpaścātsattāmātrasvarūpakaḥ",
+     "gloss": "examining-after-being-only-form",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāgradveditṛtā",
+     "gloss": "waking-knower-ness",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svapno",
+     "gloss": "dream",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vettṛbhāvaḥ",
+     "gloss": "knower-state",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "purātanaḥ",
+     "gloss": "ancient",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is waking knower-ness and dream?",
+   "premises": [
+    "Formerly, examining after being-only-form.",
+    "Waking knower-ness is dream.",
+    "Knower state is ancient."
+   ],
+   "inference": "Waking knower-ness becomes dream, and knower state is ancient.",
+   "uncertainties": [
+    "The compound is very compressed."
+   ],
+   "plain_english": "Formerly, after examining being-only-form, waking knower-ness is dream, and the knower state is ancient."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "suptaṃ",
+     "gloss": "sleep",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣaye",
+     "gloss": "in-destruction",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rātridinayosturyamadvayam",
+     "gloss": "of-night-day-fourth-nondual",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kadācidvastuviśrāntisāmyenātmani",
+     "gloss": "sometimes-object-rest-sameness-in-self",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "carvaṇam",
+     "gloss": "chewing",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is supreme sleep in destruction of night and day?",
+   "premises": [
+    "Supreme sleep is in destruction of night and day.",
+    "The fourth nondual remains.",
+    "Sometimes object rest sameness in self is chewing."
+   ],
+   "inference": "Supreme sleep is the fourth nondual in destruction of night and day, with self-chewing through object rest sameness.",
+   "uncertainties": [
+    "The final clause is obscure."
+   ],
+   "plain_english": "Supreme sleep, in the destruction of night and day, is the fourth nondual; sometimes chewing occurs through object-rest sameness in the self."
+  }
+ ]
+}

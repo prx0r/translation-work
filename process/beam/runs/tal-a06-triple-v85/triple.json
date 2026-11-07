@@ -1,0 +1,809 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "vedyavedakasāmyaṃ",
+     "gloss": "known-knower-equality",
+     "grounds": "compound equality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rātridinatulyatā",
+     "gloss": "night-day-equality",
+     "grounds": "compound equality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedye",
+     "gloss": "in-known",
+     "grounds": "locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "viśrāntiradhikā",
+     "gloss": "greater-rest",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dinadairghyāya",
+     "gloss": "for-day-length",
+     "grounds": "dative",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does equality of known and knower relate to night and day?",
+   "premises": [
+    "equality of known and knower is night-day equality",
+    "rest is greater in the known",
+    "day length is the measure"
+   ],
+   "inference": "night and day are balanced by rest in the known",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "That equality of known and knower is the equality of night and day; rest is greater in the known for the length of day."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "nyūnā",
+     "gloss": "deficient",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syātsvātmaviśrāntirviparīte",
+     "gloss": "may-be-self-rest-in-opposite",
+     "grounds": "compound verb",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "viparyayaḥ",
+     "gloss": "reversal",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svātmautsukye",
+     "gloss": "in-eagerness-for-self",
+     "grounds": "locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "prabuddhe",
+     "gloss": "awakened",
+     "grounds": "locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyaviśrāntiralpikā",
+     "gloss": "small-rest-in-known",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "When is self-rest deficient and reversal present?",
+   "premises": [
+    "self-rest may be deficient in the opposite",
+    "reversal occurs in eagerness for self",
+    "awakening makes rest in known small"
+   ],
+   "inference": "deficiency and reversal arise with self-eagerness and awakening",
+   "uncertainties": [
+    "verb parsing approximate"
+   ],
+   "plain_english": "Self-rest may be deficient in the opposite; reversal occurs, for when one is awakened in eagerness for self, rest in the known is small."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "itthameva",
+     "gloss": "thus-indeed",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divārātrinyūnādhikyakramaṃ",
+     "gloss": "day-night-deficiency-excess-order",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-would-say",
+     "grounds": "verb",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deheṣvahorātranyūnādhikyādi",
+     "gloss": "in-bodies-day-night-deficiency-excess-etc",
+     "grounds": "compound",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should day-night deficiency and excess be described?",
+   "premises": [
+    "thus one would state the day-night order",
+    "as in bodies day and night vary",
+    "it is not equal"
+   ],
+   "inference": "day-night deficiency and excess follow an ordered non-equal pattern",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus one would state the order of day-night deficiency and excess, as in bodies day and night are not equal."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pureṣvapītyevaṃ",
+     "gloss": "in-cities-too-thus",
+     "grounds": "compound",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "tadviśeṣeṇa",
+     "gloss": "by-that-distinction",
+     "grounds": "instrumental",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "noditam",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrītraiyambakasantānavitatāmbarabhāskaraḥ",
+     "gloss": "shri-traiyambaka-santana-spread-sky-sun",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is declared for cities by that distinction?",
+   "premises": [
+    "so in cities too thus",
+    "by that distinction it is declared",
+    "the sun of shri triyambaka is named"
+   ],
+   "inference": "the same ordered distinction applies to cities",
+   "uncertainties": [
+    "long compound gloss compressed"
+   ],
+   "plain_english": "So too in cities it is declared by that distinction, by the sun of Shri Traiyambaka."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "dinarātrikramaṃ",
+     "gloss": "day-night-order",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "pronoun",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "śrīśaṃbhuritthamapaprathat",
+     "gloss": "shri-shambhu-thus-spread",
+     "grounds": "compound verb",
+     "morph": "3sg.aor.act"
+    },
+    {
+     "surface": "śrīsantānagurustvāha",
+     "gloss": "shri-santana-guru-said",
+     "grounds": "compound verb",
+     "morph": "3sg.perf.act"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "buddhāprabuddhayoḥ",
+     "gloss": "of-awakened-and-unawakened",
+     "grounds": "genitive dual",
+     "morph": "gen.du"
+    }
+   ],
+   "question": "Who explained the place of awakened and unawakened?",
+   "premises": [
+    "Shri Shambhu spread the day-night order to me",
+    "Shri Santanaguru said",
+    "the place is of awakened and unawakened"
+   ],
+   "inference": "the guru explains the place of awakened and unawakened",
+   "uncertainties": [
+    "verb roots approximate"
+   ],
+   "plain_english": "Shri Shambhu thus spread the day-night order to me; Shri Santanaguru said the place of awakened and unawakened."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "hṛda",
+     "gloss": "from-heart",
+     "grounds": "ablative",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yattena",
+     "gloss": "which-by-that",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rātrindivavibhājanam",
+     "gloss": "night-day-division",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadasatsitapakṣe@ntaḥ",
+     "gloss": "that-in-false-white-side-within",
+     "grounds": "compound locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "praveśollāsabhāgini",
+     "gloss": "entering-delight-part",
+     "grounds": "compound locative",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Where does the night-day division begin?",
+   "premises": [
+    "beginning from the heart",
+    "the night-day division is by that",
+    "it is within the false white side"
+   ],
+   "inference": "the division begins from the heart and enters delight",
+   "uncertainties": [
+    "token with @ retained"
+   ],
+   "plain_english": "Beginning from the heart, the night-day division by that is within the false white side, the part of entering delight."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "abuddhasthānamevaitaddinatvena",
+     "gloss": "unawakened-place-as-day",
+     "grounds": "compound instrumental",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "alaṃ",
+     "gloss": "enough",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vānena",
+     "gloss": "with-this",
+     "grounds": "instrumental",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "nedaṃ",
+     "gloss": "not-this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "pronoun",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "prāṅmatamatsaraḥ",
+     "gloss": "prior-opinion-jealousy",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can unawakened place be called day?",
+   "premises": [
+    "unawakened place as day is questioned",
+    "enough with this",
+    "this is not my prior opinion"
+   ],
+   "inference": "calling unawakened place day is rejected",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "How can the unawakened place be day? Enough with this; this is not my prior opinion."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "heye",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśite",
+     "gloss": "shown",
+     "grounds": "participle",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "śiṣyāḥ",
+     "gloss": "disciples",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "satpathaikāntadarśinaḥ",
+     "gloss": "true-path-seers",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vyākhyātaḥ",
+     "gloss": "explained",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇapakṣo",
+     "gloss": "dark-fortnight",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "statra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "prāṇagataḥ",
+     "gloss": "gone-to-breath",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaśī",
+     "gloss": "moon",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is explained about the dark fortnight?",
+   "premises": [
+    "to be abandoned but shown to disciples",
+    "true-path seers explain",
+    "the dark fortnight is the moon gone to breath"
+   ],
+   "inference": "the dark fortnight is explained as moon in breath",
+   "uncertainties": [
+    "locative parsing approximate"
+   ],
+   "plain_english": "But shown to disciples, seers of the true path explain the dark fortnight, the moon gone to breath."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "āpyāyanātmanaikaikāṃ",
+     "gloss": "by-nourishing-self-one-by-one",
+     "grounds": "compound instrumental",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "kalāṃ",
+     "gloss": "digit",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pratitithi",
+     "gloss": "each-tithi",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-abandon",
+     "grounds": "verb",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "dvādaśāntasamīpe",
+     "gloss": "near-twelve-end",
+     "grounds": "compound locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāsau",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcadaśī",
+     "gloss": "fifteenth",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tuṭiḥ",
+     "gloss": "drop",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is each digit abandoned by tithi?",
+   "premises": [
+    "by nourishing self one by one",
+    "each tithi one digit is abandoned",
+    "near the twelve-end the fifteenth drop remains"
+   ],
+   "inference": "digits are abandoned tithi by tithi until the fifteenth drop",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "By nourishing the self one by one, one digit is abandoned each tithi; near the twelve-end, that fifteenth drop remains."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "sāmāvasyātra",
+     "gloss": "new-moon-here",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣīṇaścandraḥ",
+     "gloss": "waned-moon",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇārkamāviśet",
+     "gloss": "enters-breath-sun",
+     "grounds": "compound verb",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīkāmikāyāṃ",
+     "gloss": "in-shri-kamika",
+     "grounds": "locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nordhve@dhaḥ",
+     "gloss": "not-above-below",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛtiḥ",
+     "gloss": "nature",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ardhārdhe",
+     "gloss": "in-half-half",
+     "grounds": "compound locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kramate",
+     "gloss": "proceeds",
+     "grounds": "verb",
+     "morph": "3sg.pres.act"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvikhaṇḍā",
+     "gloss": "two-part",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivarūpiṇī",
+     "gloss": "shiva-formed",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What happens to the waned moon at new moon?",
+   "premises": [
+    "here at new moon the waned moon enters breath-sun",
+    "it is said in Shri Kamika",
+    "supreme nature proceeds in half-halves"
+   ],
+   "inference": "the waned moon enters breath-sun and maya proceeds in two parts",
+   "uncertainties": [
+    "token with @ retained"
+   ],
+   "plain_english": "Here at new moon the waned moon enters the breath-sun; it is said in Shri Kamika, and supreme nature, Maya, proceeds in half-halves in two-part Shiva form."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "candrasūryātmanā",
+     "gloss": "by-moon-sun-self",
+     "grounds": "compound instrumental",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrayetpravilāpayet",
+     "gloss": "fill-and-dissolve",
+     "grounds": "compound verb",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candrarūpeṇa",
+     "gloss": "by-moon-form",
+     "grounds": "instrumental",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśadhā",
+     "gloss": "sixteenfold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the body filled and dissolved?",
+   "premises": [
+    "by moon-sun self the body is filled and dissolved",
+    "nectar is by moon form",
+    "it is twofold and sixteenfold again"
+   ],
+   "inference": "body is filled and dissolved by moon-sun self through nectar",
+   "uncertainties": [
+    "compound verb parsing"
+   ],
+   "plain_english": "By moon-sun self the body is filled and dissolved; nectar is by moon form, twofold and sixteenfold again."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "pivanti",
+     "gloss": "drink",
+     "grounds": "verb",
+     "morph": "3pl.pres.act"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "surāḥ",
+     "gloss": "gods",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "daśapañca",
+     "gloss": "ten-five",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāḥ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "digits",
+     "grounds": "noun",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "amā",
+     "gloss": "new-moon",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śeṣaguhāntaḥsthāmāvāsyā",
+     "gloss": "remaining-cave-inner-new-moon",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśvatarpiṇī",
+     "gloss": "world-nourishing",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who drinks the supreme digits?",
+   "premises": [
+    "all gods drink",
+    "ten-five supreme digits",
+    "new moon remains in cave and nourishes world"
+   ],
+   "inference": "gods drink supreme digits while new moon remains world-nourishing",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "All gods drink the ten-five supreme digits; new moon remains in the cave and nourishes the world."
+  }
+ ]
+}
