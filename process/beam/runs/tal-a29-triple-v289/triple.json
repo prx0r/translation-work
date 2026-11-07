@@ -1,0 +1,237 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "vīraspṛṣṭaṃ",
+     "gloss": "hero-touched",
+     "grounds": "compound adjective describing substance",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-oneself",
+     "grounds": "adverb of agency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "object to be drunk",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pivennaivānyathā",
+     "gloss": "should-drink-not-otherwise",
+     "grounds": "verb with negation",
+     "morph": "3.sg.act-opt + (indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "temporal qualifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parabrahmaṇyavettāro@gamāgamavivarjitāḥ",
+     "gloss": "supreme-brahman-knowers-free-from-coming-going",
+     "grounds": "compound describing qualified persons",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "How should the hero-touched substance be consumed?",
+   "premises": [
+    "hero-touched substance is to be drunk by oneself",
+    "it is not to be drunk otherwise",
+    "knowers of supreme Brahman are free from coming and going"
+   ],
+   "inference": "The rite restricts consumption to self-drinking and links liberation to supreme-Brahman knowledge.",
+   "uncertainties": [
+    "compound segmentation of parabrahmaṇyavettāro@gamāgamavivarjitāḥ"
+   ],
+   "plain_english": "The substance touched by the hero should be drunk by oneself, never otherwise; those who know supreme Brahman are free from coming and going."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "lobhamohamadakrodharāgamāyājuṣaśca",
+     "gloss": "greed-delusion-pride-anger-attachment-deceit-possessed",
+     "grounds": "compound list of vices",
+     "morph": "adj.gen.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-them",
+     "grounds": "instrumental association",
+     "morph": "pron.inst.pl.m"
+    },
+    {
+     "surface": "sākaṃ",
+     "gloss": "together",
+     "grounds": "adverb of accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyametacchreyorthinātmani",
+     "gloss": "this-should-be-done-by-welfare-seeker-for-self",
+     "grounds": "duty statement with purpose",
+     "morph": "n.nom.sg.n + (indecl.)"
+    }
+   ],
+   "question": "With whom should this rite not be performed?",
+   "premises": [
+    "those possessed of greed and related vices are named",
+    "one should not do this with them",
+    "the doer seeks welfare for oneself"
+   ],
+   "inference": "The rite must be avoided in association with persons dominated by the listed vices.",
+   "uncertainties": [
+    "exact parsing of kartavyametacchreyorthinātmani"
+   ],
+   "plain_english": "This should not be done together with those possessed of greed, delusion, pride, anger, attachment, and deceit, by one seeking welfare for oneself."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "yāgādau",
+     "gloss": "at-sacrifice-beginning",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "yāgamadhye",
+     "gloss": "in-sacrifice-middle",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāgānte",
+     "gloss": "at-sacrifice-end",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "gurupūjane",
+     "gloss": "in-guru-worship",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "naimittikeṣu",
+     "gloss": "in-occasional-rites",
+     "grounds": "locative plural",
+     "morph": "adj.loc.pl.m"
+    },
+    {
+     "surface": "prokteṣu",
+     "gloss": "prescribed",
+     "grounds": "participial qualifier",
+     "morph": "ppp.loc.pl.m"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "agent",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kuryādimaṃ",
+     "gloss": "should-perform-this",
+     "grounds": "verb with object",
+     "morph": "3.sg.act-opt + pron.acc.sg.m"
+    },
+    {
+     "surface": "vidhim",
+     "gloss": "rite",
+     "grounds": "object of performance",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "When should the disciple perform this rite?",
+   "premises": [
+    "the rite applies at sacrifice beginning middle and end",
+    "it applies in guru worship",
+    "it applies in prescribed occasional rites"
+   ],
+   "inference": "The disciple should perform this rite across all named ritual occasions.",
+   "uncertainties": [
+    "whether kuryādimaṃ is one token or two"
+   ],
+   "plain_english": "At the beginning, middle, and end of sacrifice, in guru worship, and in prescribed occasional rites, the disciple should perform this rite."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rahasyavidhiḥ",
+     "gloss": "secret-rite",
+     "grounds": "subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "paricarcito",
+     "gloss": "has-been-discussed",
+     "grounds": "passive participle",
+     "morph": "ppp.nom.sg.m"
+    },
+    {
+     "surface": "gurumukhānubhavaiḥ",
+     "gloss": "by-guru-mouth-experience",
+     "grounds": "instrumental source",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "suparisphuṭaḥ",
+     "gloss": "very-clear",
+     "grounds": "predicate adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How has the secret rite been presented?",
+   "premises": [
+    "the secret rite has been discussed",
+    "it is clear from guru mouth-experience",
+    "the presentation is very clear"
+   ],
+   "inference": "The secret rite is presented as clearly discussed through guru experience.",
+   "uncertainties": [
+    "compound segmentation of gurumukhānubhavaiḥ"
+   ],
+   "plain_english": "Thus the secret rite has been discussed and is very clear from the guru's mouth-experience."
+  }
+ ]
+}

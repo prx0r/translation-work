@@ -1,0 +1,780 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tenāsya",
+     "gloss": "by-him-of-this",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hṛccakravedhanānmantravedhanam",
+     "gloss": "heart-wheel-piercing-mantra-piercing",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "ākāraṃ",
+     "gloss": "form",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "nine-fold",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃkramayettataḥ",
+     "gloss": "then-transfer",
+     "grounds": "token 8",
+     "morph": "3.sg.act-caus"
+    }
+   ],
+   "question": "How is mantra piercing transferred after heart wheel meditation?",
+   "premises": [
+    "meditation precedes piercing",
+    "nine forms are placed in body",
+    "transfer follows placement"
+   ],
+   "inference": "The verse prescribes meditative placement then transfer of piercing power.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Having meditated, one transfers mantra piercing in nine forms into the body after heart-wheel piercing."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "nyāsayogena",
+     "gloss": "by-placement-yoga",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śiṣyāya",
+     "gloss": "to-disciple",
+     "grounds": "token 2",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dīpyamānaṃ",
+     "gloss": "shining",
+     "grounds": "token 3",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "mahārciṣam",
+     "gloss": "great-flame",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāśastobhāttatastasya",
+     "gloss": "from-bond-obstruction-then-his",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paratattve",
+     "gloss": "in-supreme-principle",
+     "grounds": "token 6",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yojanam",
+     "gloss": "union",
+     "grounds": "token 8",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does placement yoga unite disciple with supreme principle?",
+   "premises": [
+    "placement yoga is used",
+    "disciple receives shining flame",
+    "bond obstruction is removed"
+   ],
+   "inference": "The verse describes union with supreme principle after removing bond obstruction.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By placement yoga, the disciple is united with the supreme principle through a shining great flame after bond obstruction."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dīkṣottare",
+     "gloss": "in-initiation-aftermath",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dṛṣṭo",
+     "gloss": "seen",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhirme",
+     "gloss": "rule-for-me",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṃbhunoditaḥ",
+     "gloss": "spoken-by-shambhu",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nādoccāreṇa",
+     "gloss": "by-sound-utterance",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nādākhyaḥ",
+     "gloss": "called-sound",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭikramaniyogataḥ",
+     "gloss": "by-creation-order-assignment",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What rule did Shambhu state after initiation?",
+   "premises": [
+    "rule is seen after initiation",
+    "Shambhu spoke it",
+    "sound utterance follows creation order"
+   ],
+   "inference": "The verse presents a post-initiation rule concerning sound utterance and creation order.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Thus the rule seen by me after initiation was spoken by Shambhu, with sound utterance according to creation order."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "nādena",
+     "gloss": "by-sound",
+     "grounds": "token 1",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vedhayeccittaṃ",
+     "gloss": "pierce-mind",
+     "grounds": "token 2",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nādavedha",
+     "gloss": "sound-piercing",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udīritaḥ",
+     "gloss": "declared",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bindusthānagataṃ",
+     "gloss": "located-at-bindu-place",
+     "grounds": "token 5",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cittaṃ",
+     "gloss": "mind",
+     "grounds": "token 6",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhrūmadhyapathasaṃsthitam",
+     "gloss": "situated-in-middle-brow-path",
+     "grounds": "token 7",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How does sound pierce the mind?",
+   "premises": [
+    "sound pierces mind",
+    "mind is at bindu place",
+    "mind is situated in brow middle path"
+   ],
+   "inference": "The verse locates the pierced mind at bindu and brow-middle path.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By sound one pierces the mind; sound-piercing is declared for mind located at bindu and situated in the brow-middle path."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "hṛllakṣye",
+     "gloss": "in-heart-target",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "token 3",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "binduṃ",
+     "gloss": "bindu",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jvālākulaprabham",
+     "gloss": "flame-abundant-radiant",
+     "grounds": "token 5",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃbodhayetsādhyaṃ",
+     "gloss": "awaken-object",
+     "grounds": "token 7",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bindvākhyo@yaṃ",
+     "gloss": "this-called-bindu",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is bindu awakened in the heart target?",
+   "premises": [
+    "heart target or bindu is addressed",
+    "bindu is flame-radiant",
+    "that awakens the object"
+   ],
+   "inference": "The verse proclaims bindu awakening through radiant bindu in heart target.",
+   "uncertainties": [
+    "compound segmentation uncertain",
+    "sandhi token retained"
+   ],
+   "plain_english": "O great goddess, in the heart target or bindu, the flame-radiant bindu awakens the object; this is proclaimed as bindu."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "śāktaṃ",
+     "gloss": "shakta",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaktimaduccārādgandhoccāreṇa",
+     "gloss": "by-powerful-utterance-scent-utterance",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sundari",
+     "gloss": "O-beautiful-one",
+     "grounds": "token 3",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śṛṅgāṭakāsanasthaṃ",
+     "gloss": "seated-in-triangle-posture",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuṭilaṃ",
+     "gloss": "curved",
+     "grounds": "token 6",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuṇḍalākṛtim",
+     "gloss": "coil-shaped",
+     "grounds": "token 7",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is shakta piercing performed with scent utterance?",
+   "premises": [
+    "shakta is addressed",
+    "powerful utterance uses scent utterance",
+    "triangle posture is seated"
+   ],
+   "inference": "The verse describes shakta piercing with scent utterance in triangle posture.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "O beautiful one, shakta piercing uses powerful scent utterance while seated in triangle posture, curved and coil-shaped."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "anuccāreṇa",
+     "gloss": "by-non-utterance",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "coccārya",
+     "gloss": "having-uttered",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vedhayennikhilaṃ",
+     "gloss": "pierce-all",
+     "grounds": "token 3",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhramaravedhena",
+     "gloss": "by-bee-piercing",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śāktavedha",
+     "gloss": "shakta-piercing",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does non-utterance pierce the whole world?",
+   "premises": [
+    "non-utterance is used",
+    "all world is pierced",
+    "bee piercing declares shakta piercing"
+   ],
+   "inference": "The verse declares shakta piercing through bee piercing and non-utterance.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By non-utterance, having uttered, one pierces the whole world; thus bee piercing declares shakta piercing."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paramā",
+     "gloss": "supreme",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktirānandapravikāsinī",
+     "gloss": "power-bliss-expanding",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "janmasthānātparaṃ",
+     "gloss": "beyond-birth-place",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "token 6",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "phaṇapañcakabhūṣitā",
+     "gloss": "adorned-by-five-hoods",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where does supreme power go beyond birth place?",
+   "premises": [
+    "supreme power expands bliss",
+    "it goes beyond birth place",
+    "it is adorned by five hoods"
+   ],
+   "inference": "The verse describes supreme power moving beyond birth place adorned by five hoods.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "She indeed is supreme power expanding bliss; she goes beyond birth place adorned by five hoods."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "kalāstattvāni",
+     "gloss": "arts-principles",
+     "grounds": "token 1",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "nandādyā",
+     "gloss": "nanda-and-others",
+     "grounds": "token 2",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vyomāni",
+     "gloss": "spaces",
+     "grounds": "token 3",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kulāni",
+     "gloss": "families",
+     "grounds": "token 5",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "brahmādikāraṇānyakṣāṇyeva",
+     "gloss": "brahma-etc-causes-letters-indeed",
+     "grounds": "token 7",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcakātmikā",
+     "gloss": "five-formed",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the five-formed nature of supreme power?",
+   "premises": [
+    "arts and principles are named",
+    "spaces and families are included",
+    "brahma causes and letters are included"
+   ],
+   "inference": "The verse enumerates components of the five-formed supreme power.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Arts, principles, nanda and others, spaces, families, and brahma causes and letters are indeed she, the five-formed."
+  },
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañcaprakārā",
+     "gloss": "five-kinds",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmasthānavinirgatā",
+     "gloss": "emerging-from-brahma-place",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmasthāne",
+     "gloss": "in-brahma-place",
+     "grounds": "token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśantī",
+     "gloss": "entering",
+     "grounds": "token 6",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "taḍillīnā",
+     "gloss": "lightning-absorbed",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "virājate",
+     "gloss": "shines",
+     "grounds": "token 9",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How does five-kind power shine entering brahma place?",
+   "premises": [
+    "she is five kinds",
+    "she emerges from brahma place",
+    "she enters brahma place absorbed in lightning"
+   ],
+   "inference": "The verse describes five-kind power shining as it enters brahma place.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Thus she, the five kinds, emerging from brahma place and entering brahma place, shines absorbed in lightning."
+  },
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "praviṣṭā",
+     "gloss": "having-entered",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedhayetkāyamātmānaṃ",
+     "gloss": "pierce-body-self",
+     "grounds": "token 2",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pratibhedayet",
+     "gloss": "split-apart",
+     "grounds": "token 3",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhujaṅgavedhastu",
+     "gloss": "serpent-piercing-but",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathito",
+     "gloss": "told",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhairavāgame",
+     "gloss": "in-bhairava-agama",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is serpent piercing told in Bhairava agama?",
+   "premises": [
+    "having entered she pierces body self",
+    "she splits apart",
+    "serpent piercing is told in Bhairava agama"
+   ],
+   "inference": "The verse states serpent piercing is told in Bhairava agama.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Having entered, she pierces body and self and splits apart; thus serpent piercing is told in Bhairava agama."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "tāvadbhāvayate",
+     "gloss": "so-long-meditates",
+     "grounds": "token 1",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "cittaṃ",
+     "gloss": "mind",
+     "grounds": "token 2",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāvaccittaṃ",
+     "gloss": "as-long-as-mind",
+     "grounds": "token 3",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣayaṃ",
+     "gloss": "destruction",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gatam",
+     "gloss": "gone",
+     "grounds": "token 5",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣīṇe",
+     "gloss": "when-exhausted",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "citte",
+     "gloss": "in-mind",
+     "grounds": "token 7",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sureśāni",
+     "gloss": "O-goddess-of-gods",
+     "grounds": "token 8",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "parānanda",
+     "gloss": "supreme-bliss",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When is supreme bliss declared after mind exhaustion?",
+   "premises": [
+    "mind is meditated so long",
+    "mind goes to destruction",
+    "when mind is exhausted supreme bliss is declared"
+   ],
+   "inference": "The verse declares supreme bliss when mind is exhausted.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "So long one meditates mind until mind is destroyed; when mind is exhausted, O goddess of gods, supreme bliss is declared."
+  }
+ ]
+}

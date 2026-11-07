@@ -1,0 +1,809 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "grasate",
+     "gloss": "swallows",
+     "grounds": "root gras",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddīkṣā",
+     "gloss": "that-initiation",
+     "grounds": "tat + dīkṣā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śārvīyaṃ",
+     "gloss": "shiva-related",
+     "grounds": "from śarva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "pari + kṛt",
+     "morph": "f.nom.sg.past-part"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "root muc",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathito",
+     "gloss": "told",
+     "grounds": "root kath",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "niḥspandaḥ",
+     "gloss": "motionless",
+     "grounds": "niḥ + spanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvajantuṣu",
+     "gloss": "in-all-beings",
+     "grounds": "sarva + jantu",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "What is proclaimed as liberation for all beings?",
+   "premises": [
+    "initiation is shiva-related",
+    "liberation is motionless",
+    "all beings are included"
+   ],
+   "inference": "motionless liberation is proclaimed through that initiation",
+   "uncertainties": [
+    "exact syntactic role of yadi"
+   ],
+   "plain_english": "If that initiation is proclaimed as Shiva's, this motionless liberation is told for all beings."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "agnīṣomakalāghātasaṅghātāt",
+     "gloss": "from-striking-union-of-fire-moon-parts",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "spandanaṃ",
+     "gloss": "pulsation",
+     "grounds": "root spand",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "removes",
+     "grounds": "root hṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bāhyaṃ",
+     "gloss": "external",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāṇaṃ",
+     "gloss": "breath",
+     "grounds": "root prāṇ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bāhyagataṃ",
+     "gloss": "gone-outward",
+     "grounds": "bāhya + gata",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "timirākārayogataḥ",
+     "gloss": "through-darkness-form-union",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What removes external pulsation and breath?",
+   "premises": [
+    "striking union removes pulsation",
+    "external breath is removed",
+    "darkness-form union is involved"
+   ],
+   "inference": "the practice removes external pulsation and outward breath",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "From the striking union of fire and moon parts, pulsation removes external breath gone outward through darkness-form union."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "niryātaṃ",
+     "gloss": "gone-out",
+     "grounds": "nir + yāta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "romakūpaistu",
+     "gloss": "through-hair-pores",
+     "grounds": "roma + kūpa",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhramantaṃ",
+     "gloss": "wandering",
+     "grounds": "root bhram",
+     "morph": "n.acc.sg.part"
+    },
+    {
+     "surface": "sarvakāraṇaiḥ",
+     "gloss": "with-all-causes",
+     "grounds": "sarva + kāraṇa",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirlakṣyamāsthāya",
+     "gloss": "taking-unmarked-state",
+     "grounds": "nir + lakṣya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "bhramayedvisṛjettataḥ",
+     "gloss": "would-make-wander-and-release",
+     "grounds": "bhram + visṛj",
+     "morph": "3.sg.caus-opt"
+    }
+   ],
+   "question": "How is the gone-out breath made to wander and release?",
+   "premises": [
+    "it goes out through hair pores",
+    "all causes are involved",
+    "middle unmarked state is taken"
+   ],
+   "inference": "the breath is made to wander and then released",
+   "uncertainties": [
+    "exact verb parsing"
+   ],
+   "plain_english": "Gone out through hair pores, wandering with all causes, taking the unmarked middle, it makes wander and releases."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "saṃghaṭṭotpāṭayogena",
+     "gloss": "by-union-uprooting-method",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vedhayedgranthipañcakam",
+     "gloss": "would-pierce-five-knots",
+     "grounds": "vedh + granthi",
+     "morph": "3.sg.caus-opt"
+    },
+    {
+     "surface": "saṃghaṭṭavṛttiyugalaṃ",
+     "gloss": "union-activity-pair",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhyadhāma",
+     "gloss": "middle-abode",
+     "grounds": "madhya + dhāma",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-contemplate",
+     "grounds": "root cint",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be contemplated in the middle abode?",
+   "premises": [
+    "union uproots five knots",
+    "union activity pair is involved",
+    "middle abode is contemplated"
+   ],
+   "inference": "one contemplates the union activity pair in the middle abode",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "By union and uprooting method, pierce the five knots; contemplate the union activity pair in the middle abode."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "nātmavyomabahirmantradehasaṃdhānamācaret",
+     "gloss": "should-not-join-self-space-outside-mantra-body",
+     "grounds": "compound",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dīkṣeyaṃ",
+     "gloss": "this-initiation",
+     "grounds": "dīkṣā + idam",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvajantūnāṃ",
+     "gloss": "of-all-beings",
+     "grounds": "sarva + jantu",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śivatāpattidāyikā",
+     "gloss": "giving-shiva-state",
+     "grounds": "śiva + tā + dāyikā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What should not be done in this initiation?",
+   "premises": [
+    "self space outside mantra body should not be joined",
+    "this initiation gives shiva state",
+    "all beings are included"
+   ],
+   "inference": "one should not join self space outside mantra body",
+   "uncertainties": [
+    "long compound parsing"
+   ],
+   "plain_english": "One should not join self, space, outside, mantra, and body; this initiation gives Shiva state to all beings."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "dīkṣānte",
+     "gloss": "at-initiation-end",
+     "grounds": "dīkṣā + ante",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dīpakān",
+     "gloss": "lamps",
+     "grounds": "dīpaka",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "paktvā",
+     "gloss": "having-cooked",
+     "grounds": "root pac",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "samastaiḥ",
+     "gloss": "with-all",
+     "grounds": "samasta",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "adepts",
+     "grounds": "sādhaka",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caruḥ",
+     "gloss": "offering",
+     "grounds": "caru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāśyaḥ",
+     "gloss": "should-be-eaten",
+     "grounds": "root prāś",
+     "morph": "m.nom.sg.gerundive"
+    },
+    {
+     "surface": "kulācāryairmahāpātakanāśanaḥ",
+     "gloss": "by-clan-teachers-great-sin-destroying",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What should be eaten after initiation?",
+   "premises": [
+    "lamps are cooked",
+    "offering is eaten",
+    "clan teachers destroy great sin"
+   ],
+   "inference": "the offering should be eaten with all adepts",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "At initiation end, having cooked lamps, the offering should be eaten with all adepts by clan teachers destroying great sin."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīratnamālāyāmūnādhikavidhistu",
+     "gloss": "in-shri-ratnamala-extra-rite",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātakaṃ",
+     "gloss": "sin",
+     "grounds": "pātaka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "pronoun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "praśamo@yaṃ",
+     "gloss": "this-pacification",
+     "grounds": "praśama + idam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "pra + kṛt",
+     "morph": "m.nom.sg.past-part"
+    }
+   ],
+   "question": "What is proclaimed as pacification of sin?",
+   "premises": [
+    "extra rite is in shri ratnamala",
+    "that sin is pacified",
+    "pacification is proclaimed"
+   ],
+   "inference": "the extra rite's sin pacification is proclaimed",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "Thus in Shri Ratnamala, the extra rite indeed pacifies that sin, and this pacification is proclaimed."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "pare@hani",
+     "gloss": "next-day",
+     "grounds": "para + ahani",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "guru",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāryo",
+     "gloss": "should-be-done",
+     "grounds": "root kṛ",
+     "morph": "m.nom.sg.gerundive"
+    },
+    {
+     "surface": "yāgastena",
+     "gloss": "sacrifice-by-him",
+     "grounds": "yāga + tena",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "vidhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrṇatāṃ",
+     "gloss": "completeness",
+     "grounds": "pūrṇa + tā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "reaches",
+     "grounds": "root yā",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kuryādyatnena",
+     "gloss": "should-do-with-effort",
+     "grounds": "root kṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should the sacrifice be done next day?",
+   "premises": [
+    "without it rite lacks completeness",
+    "it should be done with effort",
+    "then completeness is reached"
+   ],
+   "inference": "the sacrifice must be done next day with effort",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "Next day the teacher's sacrifice should be done by him, because without it the rite does not reach completeness; do that with effort then."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "gurustuṣyettattadasmai",
+     "gloss": "teacher-pleased-that-to-him",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "root nivid",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "cakracaryāntarāle@syā",
+     "gloss": "in-circle-rite-interval",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "vidhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃcāra",
+     "gloss": "movement",
+     "grounds": "saṃ + cāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyāte",
+     "gloss": "is-called",
+     "grounds": "root vac",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is called movement in the circle rite interval?",
+   "premises": [
+    "teacher is pleased by offerings",
+    "offerings are made to him",
+    "movement is called rite"
+   ],
+   "inference": "movement in the circle rite interval is called the rite",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "By which the teacher is pleased, that should be offered to him; in the circle rite interval, movement is called the rite."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "alipātraṃ",
+     "gloss": "bee-vessel",
+     "grounds": "ali + pātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "susaṃpūrṇaṃ",
+     "gloss": "well-filled",
+     "grounds": "su + saṃpūrṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīrendrakarasaṃsthitam",
+     "gloss": "placed-in-hero-lord-hand",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "avalokya",
+     "gloss": "having-seen",
+     "grounds": "root lok",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "brahman",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatpivedājñayā",
+     "gloss": "that-should-drink-by-teacher-command",
+     "grounds": "compound",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "guru",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What should be drunk by teacher's command?",
+   "premises": [
+    "bee vessel is well filled",
+    "it is placed in hero lord hand",
+    "supreme brahman is seen"
+   ],
+   "inference": "the filled vessel should be drunk by teacher's command",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "Having seen the well-filled bee vessel placed in the hero lord's hand, supreme Brahman, that should be drunk by the teacher's command."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "tarpayitvā",
+     "gloss": "having-satisfied",
+     "grounds": "root tṛp",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtāni",
+     "gloss": "beings",
+     "grounds": "bhūta",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-teacher",
+     "grounds": "guru",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vinivedayet",
+     "gloss": "should-offer",
+     "grounds": "root nivid",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "root kṛ",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "bhū",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "teacher",
+     "grounds": "guru",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "natvādāya",
+     "gloss": "having-bowed-and-taken",
+     "grounds": "compound",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "saṃtarpya",
+     "gloss": "having-satisfied",
+     "grounds": "root tṛp",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "khecarīḥ",
+     "gloss": "sky-goers",
+     "grounds": "khe + carī",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "What should be offered to the teacher?",
+   "premises": [
+    "beings are satisfied",
+    "teacher is bowed to",
+    "sky-goers are satisfied"
+   ],
+   "inference": "offerings are made to the teacher after satisfying beings",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "Having satisfied beings, one should offer to the teacher; having made the teacher on earth, bowed and taken, satisfying sky-goers."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "sva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "tat + ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vanditvā",
+     "gloss": "having-saluted",
+     "grounds": "root vand",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dūtīṃ",
+     "gloss": "female-messenger",
+     "grounds": "dūtī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gaṇaptiṃ",
+     "gloss": "ganapati",
+     "grounds": "gaṇapati",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gurūn",
+     "gloss": "teachers",
+     "grounds": "guru",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṣetrapaṃ",
+     "gloss": "field-protector",
+     "grounds": "kṣetra + pa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vīrasaṅghātaṃ",
+     "gloss": "hero-group",
+     "grounds": "vīra + saṅghāta",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gurvādikramaśastataḥ",
+     "gloss": "then-by-teacher-etc-order",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "What is saluted in teacher order?",
+   "premises": [
+    "own mantra is saluted",
+    "messenger ganapati teachers field protector hero group are included",
+    "teacher order follows"
+   ],
+   "inference": "one salutes own mantra and related powers in teacher order",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "Having saluted own mantra, and that, female messenger, Ganapati, teachers, field protector, hero group, then by teacher order."
+  }
+ ]
+}

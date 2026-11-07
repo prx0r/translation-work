@@ -1,0 +1,761 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "token 2",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śodhyāni",
+     "gloss": "to-be-purified",
+     "grounds": "token 3",
+     "morph": "3.pl.pass-part"
+    },
+    {
+     "surface": "tattvādīni",
+     "gloss": "principles-and-so-forth",
+     "grounds": "token 4",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "puroktavat",
+     "gloss": "as-previously-said",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dagdhvā",
+     "gloss": "having-burned",
+     "grounds": "token 6",
+     "morph": "gerund"
+    },
+    {
+     "surface": "līnāṃ",
+     "gloss": "dissolved",
+     "grounds": "token 7",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-shiva",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhyāyenniṣkale",
+     "gloss": "meditate-on-the-partless",
+     "grounds": "token 9",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "sakale@thavā",
+     "gloss": "or-on-the-with-parts",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should all principles be purified and dissolved in Shiva?",
+   "premises": [
+    "all principles are purified",
+    "they are burned and dissolved",
+    "meditation follows in Shiva"
+   ],
+   "inference": "purification leads to meditative absorption in Shiva",
+   "uncertainties": [
+    "exact sandhi of final token"
+   ],
+   "plain_english": "Thus all principles and so forth are purified, burned, and dissolved, then one meditates on Shiva, whether partless or with parts."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "yoginā",
+     "gloss": "by-the-yogi",
+     "grounds": "token 1",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "yojitā",
+     "gloss": "joined",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mārge",
+     "gloss": "on-the-path",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sajātīyasya",
+     "gloss": "of-the-same-kind",
+     "grounds": "token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "poṣaṇam",
+     "gloss": "nourishment",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "token 6",
+     "morph": "3.sg.mid"
+    },
+    {
+     "surface": "nirdahatyantadbhinnajātikadambakam",
+     "gloss": "burns-the-remaining-different-kind-cluster",
+     "grounds": "token 7",
+     "morph": "3.sg.act"
+    }
+   ],
+   "question": "What does the yogi nourish and burn on the path?",
+   "premises": [
+    "the yogi is joined to the path",
+    "same-kind elements are nourished",
+    "different-kind clusters are burned"
+   ],
+   "inference": "the path selectively nourishes and destroys",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "The yogi on the path nourishes what is of the same kind and burns the cluster of what is of a different kind."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "anayā",
+     "gloss": "by-this",
+     "grounds": "token 1",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "śodhyamānasya",
+     "gloss": "of-the-one-being-purified",
+     "grounds": "token 2",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śiśostīvrādibhedataḥ",
+     "gloss": "of-the-child-by-intensity-and-so-forth",
+     "grounds": "token 3",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śaktipātāccitivyomaprāṇanāntarbahistanūḥ",
+     "gloss": "from-power-descent-inner-outer-bodies",
+     "grounds": "token 4",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How does purification affect the child's bodies?",
+   "premises": [
+    "purification is underway",
+    "intensity distinctions apply",
+    "power descends into bodies"
+   ],
+   "inference": "purification transforms inner and outer bodies",
+   "uncertainties": [
+    "long compound"
+   ],
+   "plain_english": "By this purification, the child's inner and outer bodies are affected by the descent of power according to intensity and related distinctions."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "āviśantī",
+     "gloss": "entering",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rudraśaktiḥ",
+     "gloss": "Rudra-power",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kramātsūte",
+     "gloss": "gradually-produces",
+     "grounds": "token 3",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tvidam",
+     "gloss": "this-indeed",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānandamudbhavaṃ",
+     "gloss": "bliss-arising",
+     "grounds": "token 6",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kampaṃ",
+     "gloss": "trembling",
+     "grounds": "token 7",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nidrāṃ",
+     "gloss": "sleep",
+     "grounds": "token 8",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ghūrṇiṃ",
+     "gloss": "reeling",
+     "grounds": "token 9",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehagām",
+     "gloss": "body-occurring",
+     "grounds": "token 11",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What fruits arise from Rudra power entering gradually?",
+   "premises": [
+    "Rudra power enters",
+    "it produces fruit gradually",
+    "bliss trembling sleep and reeling occur"
+   ],
+   "inference": "gradual power produces bodily and blissful signs",
+   "uncertainties": [
+    "token segmentation"
+   ],
+   "plain_english": "Entering gradually, Rudra power produces this fruit: arising bliss, trembling, sleep, reeling, and other body-occurring signs."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stobhitapāśasya",
+     "gloss": "of-the-one-whose-bonds-are-stilled",
+     "grounds": "token 2",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yojitasyātmanaḥ",
+     "gloss": "of-the-self-joined",
+     "grounds": "token 3",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-Shiva",
+     "grounds": "token 4",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śeṣabhogāya",
+     "gloss": "for-remaining-enjoyment",
+     "grounds": "token 5",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "let-one-make",
+     "grounds": "token 6",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "sṛṣṭiṃ",
+     "gloss": "creation",
+     "grounds": "token 7",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃśuddhatattvagām",
+     "gloss": "going-to-purified-principles",
+     "grounds": "token 8",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What creation should be made for remaining enjoyment?",
+   "premises": [
+    "bonds are stilled",
+    "the self is joined in Shiva",
+    "creation is made for remaining enjoyment"
+   ],
+   "inference": "purified creation serves remaining enjoyment",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "Thus for the self whose bonds are stilled and who is joined in Shiva, one should make creation going to purified principles for remaining enjoyment."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasyacinnaivamāveśastaddahedimam",
+     "gloss": "for-some-not-thus-possession-burns-this",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahirantaścoktaśaktyā",
+     "gloss": "outside-and-inside-by-stated-power",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pateditthaṃ",
+     "gloss": "falls-thus",
+     "grounds": "token 4",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-the-earth",
+     "grounds": "token 6",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What happens when possession is not thus?",
+   "premises": [
+    "for some possession is not thus",
+    "stated power burns inside and outside",
+    "he falls to earth"
+   ],
+   "inference": "failed possession leads to downfall",
+   "uncertainties": [
+    "token fusion"
+   ],
+   "plain_english": "Or for some there is not such possession; by the stated power it burns inside and outside, and thus he falls to the earth."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "token 1",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tvevamapi",
+     "gloss": "even-thus",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syānna",
+     "gloss": "would-not-be",
+     "grounds": "token 3",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "tamatropalavattyajet",
+     "gloss": "that-one-there-recognize-and-abandon",
+     "grounds": "token 4",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapratyayāṃ",
+     "gloss": "with-cognition",
+     "grounds": "token 6",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "token 7",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-teach",
+     "grounds": "token 8",
+     "morph": "1.sg.fut"
+    },
+    {
+     "surface": "tuṣṭena",
+     "gloss": "by-the-pleased",
+     "grounds": "token 9",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dhīmatā",
+     "gloss": "by-the-wise",
+     "grounds": "token 10",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "What should be done when even thus it does not occur?",
+   "premises": [
+    "even thus it may not occur",
+    "recognize and abandon that one",
+    "then initiation with cognition is taught"
+   ],
+   "inference": "failure leads to abandonment and alternative initiation",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "If even thus it would not occur, recognize and abandon that one; then I will teach initiation with cognition to the pleased and wise."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "śaṃbhunāthenopadiṣṭāṃ",
+     "gloss": "taught-by-Shambhu-lord",
+     "grounds": "token 1",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭāṃ",
+     "gloss": "seen",
+     "grounds": "token 2",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sadbhāvaśāsane",
+     "gloss": "in-the-teaching-of-true-being",
+     "grounds": "token 3",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sudhāgnimaruto",
+     "gloss": "nectar-fire-winds",
+     "grounds": "token 4",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mandaparakālāgnivāyavaḥ",
+     "gloss": "weak-and-other-fires-and-winds",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What is seen in the teaching of true being?",
+   "premises": [
+    "it is taught by Shambhu lord",
+    "it is seen in true-being teaching",
+    "nectar fire winds and weak fires winds are named"
+   ],
+   "inference": "the teaching names subtle fire and wind elements",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Taught by Lord Shambhu and seen in the teaching of true being are nectar-fire-winds and weak and other fire-winds."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "vahnisaudhāsukūṭāgnivāyuḥ",
+     "gloss": "fire-palace-peak-fire-wind",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saṣaṣṭhakāḥ",
+     "gloss": "with-sixty",
+     "grounds": "token 3",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "etatpiṇḍatrayaṃ",
+     "gloss": "this-threefold-mass",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "stobhakāri",
+     "gloss": "causing-stopping",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratyekamucyate",
+     "gloss": "is-said-for-each",
+     "grounds": "token 6",
+     "morph": "3.sg.pass"
+    }
+   ],
+   "question": "How is the threefold mass described?",
+   "premises": [
+    "fire palace peak fire wind is named",
+    "all are with sixty",
+    "the threefold mass causes stopping"
+   ],
+   "inference": "each element is described as causing stopping",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Fire, palace-peak fire, and wind, all with sixty, are said for each; this threefold mass causes stopping."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "śaktibījaṃ",
+     "gloss": "power-seed",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtaṃ",
+     "gloss": "remembered",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yacca",
+     "gloss": "and-which",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyasyetsārvāṅgikaṃ",
+     "gloss": "should-place-all-limbed",
+     "grounds": "token 4",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛccakre",
+     "gloss": "in-heart-circle",
+     "grounds": "token 7",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyasyate",
+     "gloss": "is-placed",
+     "grounds": "token 8",
+     "morph": "3.sg.pass"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśasvarabhūṣitaḥ",
+     "gloss": "adorned-with-twelve-vowels",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the power seed and mantra placed?",
+   "premises": [
+    "power seed is remembered",
+    "it should be placed all-limbed",
+    "mantra adorned with twelve vowels is placed in heart circle"
+   ],
+   "inference": "seed and mantra are installed in the heart circle",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "The remembered power seed should be placed all over the limbs, but that mantra adorned with twelve vowels is placed in the heart circle."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "japākusumasaṃkāśaṃ",
+     "gloss": "resembling-hibiscus-flower",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caitanyaṃ",
+     "gloss": "consciousness",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "token 3",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "from-the-middle",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyunā",
+     "gloss": "by-wind",
+     "grounds": "token 5",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "preritaṃ",
+     "gloss": "impelled",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vahninā",
+     "gloss": "by-fire",
+     "grounds": "token 8",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "paridīpitam",
+     "gloss": "fully-illuminated",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is consciousness and wheel described?",
+   "premises": [
+    "consciousness resembles hibiscus flower",
+    "from its middle wind impels",
+    "fire fully illuminates the wheel"
+   ],
+   "inference": "consciousness is visualized with wind and fire",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Consciousness resembling a hibiscus flower, with wind impelling from its middle and fire fully illuminating the wheel."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "taddhyāyecca",
+     "gloss": "and-should-meditate-on-that",
+     "grounds": "token 1",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "japenmantraṃ",
+     "gloss": "should-chant-mantra",
+     "grounds": "token 2",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "nāmāntaritayogataḥ",
+     "gloss": "by-name-separated-union",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimeṣārdhāttu",
+     "gloss": "but-from-half-a-blink",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyasya",
+     "gloss": "of-the-disciple",
+     "grounds": "token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavetstobho",
+     "gloss": "stopping-occurs",
+     "grounds": "token 6",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When does stopping occur for the disciple?",
+   "premises": [
+    "one meditates on that and chants mantra",
+    "by name-separated union",
+    "from half a blink stopping occurs"
+   ],
+   "inference": "stopping is certain for the disciple",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "One should meditate on that and chant the mantra by name-separated union; from half a blink, stopping occurs for the disciple, without doubt."
+  }
+ ]
+}
