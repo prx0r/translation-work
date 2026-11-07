@@ -98,6 +98,10 @@ while true; do
   fi
   ensure_proc "tools/continue.sh" bash tools/continue.sh
   ensure_proc "tools/watchdog.sh" bash tools/watchdog.sh
+  # Model loop (Ralph): restarts silently-dead LOOP.sh; promise/STOP file govern exit.
+  if [ ! -f "$LOGDIR/LOOP.STOP" ]; then
+    ensure_proc "LOOP.sh" bash LOOP.sh
+  fi
   enforce_workers
   python3 tools/assessor_sweep.py 2>&1 | while IFS= read -r l; do log "sweep: $l"; done
   try_assemble 2>&1 | while IFS= read -r l; do log "$l"; done

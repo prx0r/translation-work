@@ -65,3 +65,13 @@
 10. Beam health probe used 32 tokens (deterministic null, mistakes #22) → 2000-token probe.
 
 All fixes verified: syntax OK (py + bash -n), gates green, MCP handshake 16/16.
+
+## Addendum — autonomous grind (2026-11-07 ~10:20Z)
+- Per-verse fallback seeded across 7 fronts (gloss→cm→am staging); workers draining ~290 glosses/25min.
+- a05 promoted (159v, PASS 1.0); a06 promoted (252v, PASS 1.0). REGISTRY 101/79/22.
+- a01 parse gap fixed (parser gap-tolerant + 13 hand-filled verses, 333/333, seeded).
+- a30 hand-drafted 24v by assessor (3 provenance scripts); a05 hand-drafted 24v; a06 hand-draft top-ups by loop iterations.
+- MCP at 16 tools (recon/assemble/supervise/swarm_workers/review_sweep added); MCP.md expansive; registered as shastra.
+- Harness live: 2-worker policy, PAUSE-file, heartbeat claims, flocked driver, assessor sweep wired into ralph.
+- LOOP.sh model loop running (PROMPT.md + promise gate); iteration 5+ completed, loop restarted once after silent death — needs a watchdog (see below).
+- Open threads: duplicate supervisors respawn (ralph/watchdog/LOOP doubles observed — kill by exact PID, keep newest+working); tal_run_all.sh ×2 (flock prevents third); a05/a30 429-failed groups need quota-window resets.
