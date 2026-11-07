@@ -261,6 +261,7 @@ def promote(work: str, song: str) -> dict:
                       "gold": True, "verses": n or w.get("verses"),
                       "note": "minimal gold via swarm: T1/L0/argmap/L2/C1-essence, proof PASS; L3/L4 waived."})
     rp.write_text(json.dumps(reg, indent=1, ensure_ascii=False))
+    _run([str(ROOT / "tools" / "manifest.py"), "gen"], timeout=300)
     return {"promoted": True, "gate": gate, "proof": p,
             "note": "machine-proposed, needs human review. STATUS+REGISTRY updated. No push performed."}
 

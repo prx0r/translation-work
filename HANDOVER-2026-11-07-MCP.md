@@ -1,0 +1,52 @@
+# HANDOVER — 2026-11-07 (MCP + lore + minimal promotions, assessor session)
+
+*Machine-proposed throughout. No pushes (another agent active in repo).*
+
+## shastra MCP (new: `mcp_server.py`, 11 tools, FastMCP stdio)
+- Lanes: crystal-ipvv small (`status/validate/lore/concepts/skill`) + largetext
+  swarm (`swarm_status/swarm_seed/swarm_review/swarm_decide/promote`) + `gates`.
+- Rules enforced in code: lore required before seeding (mistakes #21); bounce
+  notes must be actionable; approve limited to brief/pilot/distill kinds;
+  `promote` refuses on gate failure, writes STATUS+REGISTRY+MANIFEST, never
+  pushes/signs-off. Registered in `~/.config/opencode/opencode.jsonc` as
+  `shastra` (restart opencode to load). All 11 tools verified live.
+- `skill(crystal-ipvv|largetext)` serves SKILL.md + EXAMPLES — callers get
+  the law with the tools.
+
+## Lore: transmission coverage now 15/16 pending fronts (+2 bonus)
+- This session: a17 (putraka thread), a30 (mantra compendium, Vol 11),
+  a05 (anavopaya ladder, Vol 4+TAA CH5), a31 (Trident mandalas, Vol 11),
+  a06 (kalacakra, Vol 4), a04 (saktopaya+12 Kalis, Vol 3+TAA CH4),
+  a10 (7 perceivers+vastupramana, Vol 6+TAA CH10), a16 (putraka frame, Vol 9),
+  a09 (36 tattvas, Vol 6+TAA CH9+TAB-kośa), a01 (foundation+means definitions,
+  Vol 1), a13 (saktipata/tirodhana, Vol 7+TAA CH13). One scholarship search
+  per front. Files: `process/beam/lore/tal-aNN.md`.
+
+## Infra fixes (assessor-owned, logged in assessor-reviews.jsonl)
+1. Lore NEVER injected: `beam_swarm.py` looked up `tal-{N}.md`, files are
+   `tal-a{N}.md` (3 sites fixed; window-brief path already correct).
+2. `STALE_CLAIM_SECS` 25min vs documented 15min → set 15 (stale a16 claims
+   reclaimed immediately after).
+3. Triple group default 12 → 24 (auto-halve on ceiling covers oversize).
+
+## Queue triage
+- 13x 429-transient at max (a05x11, a30x2) reset to pending/max-8; promptly
+  re-429'd (free-tier quota exhausted) — watchdog pausing 30m correctly.
+  Do NOT hand-fix these; they are infra, not content.
+- 26x content-gate at max (a29/a10/a04/a16/a06 premise/question/row clusters)
+  escalated to assessor hand-draft backlog — never auto-retry (mistakes #20).
+- a30: 123/111/99 (2 groups 429-blocked). a05: 87/87/87 (11 groups 429-blocked).
+
+## Minimal promotions (proof PASS, machine-proposed)
+- a17 (122v, putraka thread): validate 0, proof 1.0 — via MCP promote.
+- a31 (164v, mandala catalogue): assemble+validate+proof via tal_stage,
+  promoted via MCP. Largest minimal yet.
+- REGISTRY: 101 works / 73 gold / 28 pending. MANIFEST fresh (rev aac24be5).
+  `validate_all --quick` 0 failures.
+
+## Standing items for owner/next
+- 429 quota is the binding constraint (not workers, not payload — 28k-token
+  24v groups fit fine). Watchdog backoff is correct; leave it.
+- Duplicate `tal_run_all.sh` drivers observed (2 PIDs) — verify single driver.
+- Hand-draft backlog: 26 content-failed groups, shortest-first a30/a05.
+- Full-gold upgrades (C1-7part+rasa+L3/L4) untouched — minimal first, per plan.

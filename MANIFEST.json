@@ -1,6 +1,6 @@
 {
- "rev": "f41f050a356304267b863368a2c9087380c01f75",
- "at": "2026-11-07T05:21:57+00:00",
+ "rev": "aac24be545ce307536a83cafb69e2ee07128de88",
+ "at": "2026-11-07T05:26:58+00:00",
  "files": {
   "ajadapramatrsiddhi/data/ajad-p01.argmap.json": {
    "sha256": "f7f7ec1ce551288d8b4f2e2294a3351a25afefbdc3efb460413975c6e271df80",
@@ -10214,6 +10214,42 @@
    "sha256": "68afb1572b35d236de2188cf89c79742259b96d9f3c7a0a4094fce7e708e6b9a",
    "bytes": 3140
   },
+  "tantraloka-a31/data/tal-a31.argmap.json": {
+   "sha256": "b962bbd989136b75e3cc698d463c099d03a59358de69574ff8116964284285c0",
+   "bytes": 144166
+  },
+  "tantraloka-a31/data/tal-a31.c1.json": {
+   "sha256": "a8bd7910eb4874112936bd9156279b3c768e53a941662a44d82d1dac2158392f",
+   "bytes": 751
+  },
+  "tantraloka-a31/data/tal-a31.l0.json": {
+   "sha256": "3626051b82c1afbf91d34ddac90061b1b4bfa11f63590a1e9bb48d7a6506cc5f",
+   "bytes": 480121
+  },
+  "tantraloka-a31/data/tal-a31.l2.json": {
+   "sha256": "1a012d7291bb83aa28bc3c8e1ebe8c21d99a7616cd2c241d5a549db5170ae922",
+   "bytes": 93451
+  },
+  "tantraloka-a31/data/tal-a31.t1.json": {
+   "sha256": "5031c4d94576645e49a7648d9b6452935586e62f2c2dfd86619552642cd1ca10",
+   "bytes": 193534
+  },
+  "tantraloka-a31/T1.md": {
+   "sha256": "2810193a2bc40d2fb3cff49d491e86c6923dcbf09284ca3f8b647f622d58455e",
+   "bytes": 19755
+  },
+  "tantraloka-a31/STATUS.json": {
+   "sha256": "2c5499793cda8ec2a246f4eb5b26ac41c23836b204f01ada2904ae4ca5bc7015",
+   "bytes": 440
+  },
+  "tantraloka-a31/passages.jsonl": {
+   "sha256": "05b48f3f453a9731df1d21e78e90c3f2aa0a7d34891c5cea2a370c53902f790e",
+   "bytes": 22920
+  },
+  "tantraloka-a31/GATE.json": {
+   "sha256": "fe9cdd19a7b61922081653fc9ef749ff1c26e2153877682a906f6ff99194d06d",
+   "bytes": 8893
+  },
   "tantraloka-a32/data/tal-a32.argmap.json": {
    "sha256": "cc60c9970997ac7847e9548e130e725c4274db18ffc5f1a476f42caaf8f96e2f",
    "bytes": 52965
@@ -13811,8 +13847,8 @@
    "bytes": 29384
   },
   "REGISTRY.json": {
-   "sha256": "3e2b12e82c745546c86c57bbc22ab3218597238d6e3fb225d38b19027e2203f6",
-   "bytes": 45581
+   "sha256": "c61efd019c32f54206e3e7e9fd9f472b11a2df43f6b138588fd613d1684e7237",
+   "bytes": 45454
   },
   "INDEX.json": {
    "sha256": "964dd3a8c97afb6ce48942e490bc8a173162a2da1842db12574b6906ea28e46b",
