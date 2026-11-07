@@ -1,0 +1,113 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "anuttaraprakriyāyāṃ",
+     "gloss": "in-supreme-procedure",
+     "grounds": "locative ending",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "vaitatyena",
+     "gloss": "by-vaitatya",
+     "grounds": "instrumental ending",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "pradarśitam",
+     "gloss": "shown",
+     "grounds": "past participle",
+     "morph": "ppp"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyedvistarārthī",
+     "gloss": "would-see-desiring-expansion",
+     "grounds": "optative plus compound",
+     "morph": "opt.3.sg.act+compound"
+    },
+    {
+     "surface": "vivecakaḥ",
+     "gloss": "discerning-one",
+     "grounds": "nominative ending",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why should the discerning seeker look further after this shown teaching?",
+   "premises": [
+    "This has been shown in the supreme procedure by vaitatya.",
+    "Therefore the discerning one desiring expansion should look further."
+   ],
+   "inference": "The verse directs further examination after the shown exposition.",
+   "uncertainties": [
+    "vaitatya may name a specific method or principle."
+   ],
+   "plain_english": "This has been shown in the supreme procedure by vaitatya; therefore the discerning one who desires expansion should look further."
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvasyarūpasya",
+     "gloss": "of-tattva-form",
+     "grounds": "genitive ending",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "past participle",
+     "morph": "ppp"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśanam",
+     "gloss": "illumination",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What has been properly accomplished regarding the form of tattva?",
+   "premises": [
+    "Thus the form of tattva has been properly illuminated.",
+    "The exposition is now complete."
+   ],
+   "inference": "The verse closes the exposition of tattva's form.",
+   "uncertainties": [
+    "tattvasya may refer to tattva generally or a specific tattva."
+   ],
+   "plain_english": "Thus the form of tattva has been properly illuminated."
+  }
+ ]
+}

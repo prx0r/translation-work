@@ -1,0 +1,887 @@
+{
+ "song": "Tantraloka 301-312",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "śabdajaḥ",
+     "gloss": "sound-born",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śabda",
+     "gloss": "sound",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āgatya",
+     "gloss": "having-come",
+     "grounds": "token 3",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "śabdabuddhiṃ",
+     "gloss": "sound-cognition",
+     "grounds": "token 4",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prasūyate",
+     "gloss": "is-produced",
+     "grounds": "token 5",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "token 6",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mande@pi",
+     "gloss": "even-when-faint",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "murajadhvanāvākarṇake",
+     "gloss": "drum-sound-hearing",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "token 9",
+     "morph": "loc.abs"
+    }
+   ],
+   "question": "How does sound-born cognition arise when sound comes?",
+   "premises": [
+    "sound-born cognition arises when sound comes",
+    "even faint drum sound can be heard",
+    "hearing depends on sound reaching cognition"
+   ],
+   "inference": "Sound-born perception is produced by sound's arrival, including faint heard sound.",
+   "uncertainties": [
+    "compound segmentation of murajadhvanāvākarṇake"
+   ],
+   "plain_english": "Sound-born cognition arises when sound comes; even a faint drum sound, if heard, counts."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "amutra",
+     "gloss": "there",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutireṣeti",
+     "gloss": "hearing-is-said",
+     "grounds": "token 2",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "dūre",
+     "gloss": "at-distance",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvedanaṃ",
+     "gloss": "perception",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not-so",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdajaśabdasya",
+     "gloss": "sound-born-sound",
+     "grounds": "token 7",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dūrādūraravoditeḥ",
+     "gloss": "far-and-far-utterance",
+     "grounds": "token 8",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How can perception occur at a distance?",
+   "premises": [
+    "hearing is said to occur there",
+    "perception at distance is questioned",
+    "sound-born sound is uttered from far and far"
+   ],
+   "inference": "Distance perception is explained by sound-born sound being uttered from far and far.",
+   "uncertainties": [
+    "compound segmentation of dūrādūraravoditeḥ"
+   ],
+   "plain_english": "How can perception occur at a distance? Not so: sound-born sound is uttered from far and far."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "śrotrākāśagatasyāsti",
+     "gloss": "ear-space-dweller-exists",
+     "grounds": "token 1",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "dūrādūrasvabhāvatā",
+     "gloss": "far-and-far-nature",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāsau",
+     "gloss": "and-that",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śabdastāvadvyāpīti",
+     "gloss": "sound-is-pervasive-thus",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-fitting",
+     "grounds": "token 7",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What nature belongs to what is in ear-space?",
+   "premises": [
+    "what is in ear-space has far-and-far nature",
+    "that first sound is not pervasive",
+    "such non-pervasiveness is fitting"
+   ],
+   "inference": "The first sound is not pervasive; far-and-far nature belongs to what is in ear-space.",
+   "uncertainties": [
+    "compound segmentation of śrotrākāśagatasyāsti"
+   ],
+   "plain_english": "What is in ear-space has far-and-far nature; that first sound is not pervasive, and this is fitting."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "tatrasthaiḥ",
+     "gloss": "with-those-there",
+     "grounds": "token 1",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīvrātmā",
+     "gloss": "intense-natured",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrūyamāṇastvanena",
+     "gloss": "being-heard-by-this",
+     "grounds": "token 4",
+     "morph": "pres.part.pass"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrūyeta",
+     "gloss": "would-be-heard",
+     "grounds": "token 7",
+     "morph": "3.sg.opt.pass"
+    },
+    {
+     "surface": "mandaḥsannahi",
+     "gloss": "faint-not-so",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmāntarāśrayaḥ",
+     "gloss": "other-quality-resting",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How would a faint sound be heard alongside intense ones?",
+   "premises": [
+    "intense-natured sound is heard by this",
+    "faint sound would not be heard so",
+    "faint sound rests on another quality"
+   ],
+   "inference": "A faint sound is not heard in the same way because it rests on another quality.",
+   "uncertainties": [
+    "compound segmentation of mandaḥsannahi"
+   ],
+   "plain_english": "With those there, the intense-natured is heard by this; but how would the faint be heard? Not so, since it rests on another quality."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "etaccānyairapākāri",
+     "gloss": "this-was-refuted-by-others",
+     "grounds": "token 1",
+     "morph": "3.sg.pass.past"
+    },
+    {
+     "surface": "bahudheti",
+     "gloss": "in-many-ways-thus",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛthā",
+     "gloss": "vain",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāyastaṃ",
+     "gloss": "not-fallen-that",
+     "grounds": "token 5",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "patitāghātadāne",
+     "gloss": "giving-blow-to-fallen",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṇḍitaḥ",
+     "gloss": "scholar",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is not a scholar in striking the fallen?",
+   "premises": [
+    "this was refuted by others in many ways",
+    "such refutation is vain again",
+    "who is not a scholar in giving blow to the fallen"
+   ],
+   "inference": "The repeated refutation is vain, like striking one already fallen.",
+   "uncertainties": [
+    "compound segmentation of etaccānyairapākāri"
+   ],
+   "plain_english": "This was refuted by others in many ways; vain again. Who indeed is not a scholar in giving a blow to the fallen?"
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "amīṣāṃ",
+     "gloss": "of-these",
+     "grounds": "token 1",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharādīnāṃ",
+     "gloss": "earth-and-so-forth",
+     "grounds": "token 3",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yāvāṃstattvagaṇaḥ",
+     "gloss": "as-many-tattva-group",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇādhikatayā",
+     "gloss": "by-greater-quality",
+     "grounds": "token 6",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tiṣṭhan",
+     "gloss": "standing",
+     "grounds": "token 7",
+     "morph": "pres.part.act"
+    },
+    {
+     "surface": "vyāptā",
+     "gloss": "pervaded",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāvān",
+     "gloss": "so-much",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "token 10",
+     "morph": "3.sg.pres"
+    }
+   ],
+   "question": "How much of earth and the rest shines?",
+   "premises": [
+    "of earth and the rest there is a tattva group",
+    "standing by greater quality it is pervaded",
+    "so much shines"
+   ],
+   "inference": "Earth and the rest shine to the extent pervaded by the tattva group through greater quality.",
+   "uncertainties": [
+    "compound segmentation of yāvāṃstattvagaṇaḥ"
+   ],
+   "plain_english": "But of these, earth and the rest, as many tattva-group as before, standing by greater quality, pervaded, so much shines."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "vyāpyavyāpakatā",
+     "gloss": "pervaded-pervader-relation",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yaiṣā",
+     "gloss": "which-this",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tattvānāṃ",
+     "gloss": "of-tattvas",
+     "grounds": "token 3",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "darśitā",
+     "gloss": "shown",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guṇādhikyataḥ",
+     "gloss": "by-greater-quality",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhā",
+     "gloss": "established",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hetutvānna",
+     "gloss": "not-by-causality",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lāghavāt",
+     "gloss": "by-simplicity",
+     "grounds": "token 11",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what is the pervaded-pervader relation established?",
+   "premises": [
+    "the pervaded-pervader relation of tattvas is shown",
+    "it is established by greater quality",
+    "it is not established by causality or simplicity"
+   ],
+   "inference": "The pervaded-pervader relation is established by greater quality, not by causality or simplicity.",
+   "uncertainties": [
+    "compound segmentation of hetutvānna"
+   ],
+   "plain_english": "The pervaded-pervader relation shown of the tattvas is established by greater quality, not by causality nor by simplicity."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "ahetunāpi",
+     "gloss": "even-without-cause",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāgo",
+     "gloss": "attachment",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpto",
+     "gloss": "pervaded",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyādinā",
+     "gloss": "by-knowing-and-so-forth",
+     "grounds": "token 5",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvinā",
+     "gloss": "without-that",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavedyattadvyāptamityucyate",
+     "gloss": "would-be-what-is-called-pervaded",
+     "grounds": "token 9",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "since",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is attachment pervaded without a cause?",
+   "premises": [
+    "even without cause attachment is pervaded",
+    "it is pervaded by knowing and so forth",
+    "without that, what is called pervaded would not be"
+   ],
+   "inference": "Attachment is pervaded by knowing and so forth; pervaded status depends on that pervader.",
+   "uncertainties": [
+    "compound segmentation of bhavedyattadvyāptamityucyate"
+   ],
+   "plain_english": "Even without cause, attachment is clearly pervaded by knowing and so forth; without that, what is called pervaded would not be, since."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lāghavaṃ",
+     "gloss": "simplicity",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmāsti",
+     "gloss": "indeed-exists",
+     "grounds": "token 4",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "kiṃcidatra",
+     "gloss": "anything-here",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svadarśane",
+     "gloss": "in-own-view",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "guṇādhikyādato",
+     "gloss": "by-greater-quality",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāpyavyāpakatā",
+     "gloss": "pervaded-pervader-relation",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sphuṭā",
+     "gloss": "clear",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is there any simplicity in this own view?",
+   "premises": [
+    "no simplicity exists here in own view",
+    "by greater quality it is to be known",
+    "the pervaded-pervader relation is clear"
+   ],
+   "inference": "In this view, simplicity is absent; the pervaded-pervader relation is known by greater quality.",
+   "uncertainties": [
+    "compound segmentation of guṇādhikyādato"
+   ],
+   "plain_english": "No simplicity indeed exists here in own view; by greater quality the pervaded-pervader relation is known clearly."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasmādguṇotkṛṣṭaḥ",
+     "gloss": "superior-in-quality-from-that",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmādūrdhva",
+     "gloss": "above-from-that",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "token 6",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "ūrdhvatā",
+     "gloss": "aboveness",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāptṛtā",
+     "gloss": "pervader-ness",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīmanmālinīvijaye",
+     "gloss": "in-sri-malinivijaya",
+     "grounds": "token 9",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sphuṭā",
+     "gloss": "clear",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is called above and why?",
+   "premises": [
+    "who is superior in quality from that is called above",
+    "aboveness is pervader-ness",
+    "this is clear in Sri Malinivijaya"
+   ],
+   "inference": "Superior quality makes a tattva above, and aboveness is pervader-ness.",
+   "uncertainties": [
+    "compound segmentation of yasmādguṇotkṛṣṭaḥ"
+   ],
+   "plain_english": "Who indeed is superior in quality from that is called above; aboveness is pervader-ness, clear in Sri Malinivijaya."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivatvātprabhṛti",
+     "gloss": "from-sivahood-onward",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśatāsvarūpamādāya",
+     "gloss": "taking-light-nature",
+     "grounds": "token 3",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "nijātmani",
+     "gloss": "in-own-self",
+     "grounds": "token 4",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samastatattvāvalidharmasaṃcayairvibhāti",
+     "gloss": "shines-with-all-tattva-chain-qualities",
+     "grounds": "token 6",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "bhūrvyāptṛtayā",
+     "gloss": "earth-as-pervader-ness",
+     "grounds": "token 7",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sthitairalam",
+     "gloss": "established-enough",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does earth shine from Sivahood onward?",
+   "premises": [
+    "from Sivahood onward light-nature is taken in own self",
+    "earth shines with all tattva-chain qualities",
+    "pervader-ness is established enough"
+   ],
+   "inference": "Earth shines with all tattva-chain qualities because light-nature is taken from Sivahood onward.",
+   "uncertainties": [
+    "compound segmentation of samastatattvāvalidharmasaṃcayairvibhāti"
+   ],
+   "plain_english": "Therefore from Sivahood taking light-nature in own self, earth shines with all tattva-chain qualities; pervader-ness is established enough."
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalāderapi",
+     "gloss": "of-water-and-so-forth-too",
+     "grounds": "token 2",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śaktitattvaparyantadhāmno",
+     "gloss": "up-to-sakti-tattva-abode",
+     "grounds": "token 3",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vapurasti",
+     "gloss": "form-exists",
+     "grounds": "token 4",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "tādṛk",
+     "gloss": "such",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "but",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tūttaraṃ",
+     "gloss": "higher",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktitayaiva",
+     "gloss": "as-sakti-itself",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "tattva",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "lower",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 11",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddharmatayeti",
+     "gloss": "as-its-quality-thus",
+     "grounds": "token 12",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "token 13",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What difference exists between higher and lower tattvas?",
+   "premises": [
+    "thus form exists for water and so forth up to Sakti-tattva abode",
+    "higher is Sakti-tattva itself",
+    "lower is its quality, difference"
+   ],
+   "inference": "Higher tattva is Sakti itself, while lower is its quality; that is the difference.",
+   "uncertainties": [
+    "compound segmentation of śaktitattvaparyantadhāmno"
+   ],
+   "plain_english": "Thus for water and so forth up to Sakti-tattva abode form exists such; but higher is Sakti-tattva, lower is its quality, difference."
+  }
+ ]
+}
