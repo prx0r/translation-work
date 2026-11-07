@@ -1,0 +1,1631 @@
+{
+ "song": "Tantraloka 121-144",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "puṣṭiṃ",
+     "gloss": "nourishment",
+     "grounds": "object of nourishing",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative command",
+     "morph": "2.sg.act-imp root kṛ"
+    },
+    {
+     "surface": "rasenainamāpyāyaya",
+     "gloss": "nourish-him-with-essence",
+     "grounds": "compound verb phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "tarāmiti",
+     "gloss": "cross-thus",
+     "grounds": "quoted speech",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃjalpo@pi",
+     "gloss": "even-speech",
+     "grounds": "concessive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vikalpātmā",
+     "gloss": "thought-natured",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tāmeva",
+     "gloss": "that-very",
+     "grounds": "emphatic pronoun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "would-fill",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root pūr"
+    }
+   ],
+   "question": "Would even thought-natured speech fill that very nourishment?",
+   "premises": [
+    "speech is thought-natured",
+    "nourishment is not filled by thought"
+   ],
+   "inference": "even speech does not fill that nourishment",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Even thought-natured speech would not fill that very nourishment."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "amṛteyamidaṃ",
+     "gloss": "this-is-nectar",
+     "grounds": "compound statement",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṣīramidaṃ",
+     "gloss": "this-is-milk",
+     "grounds": "compound statement",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarpirbalāvaham",
+     "gloss": "ghee-brings-strength",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "tenāsya",
+     "gloss": "by-that-his",
+     "grounds": "instrumental pronoun",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "puṣṇīyāmityenāṃ",
+     "gloss": "nourish-thus-her",
+     "grounds": "quoted verb phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrayetkriyām",
+     "gloss": "fill-action",
+     "grounds": "compound verb phrase",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does one fill the action through nourishment?",
+   "premises": [
+    "milk ghee and nectar are named",
+    "seed is nourished by that"
+   ],
+   "inference": "the action is filled by nourishing the seed",
+   "uncertainties": [
+    "token boundaries approximate"
+   ],
+   "plain_english": "This is nectar, this is milk, ghee brings strength; by that nourish his seed and fill the action."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "tasmādviśveśvaro",
+     "gloss": "therefore-world-lord",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "bodhabhairavaḥ",
+     "gloss": "knowledge-bhairava",
+     "grounds": "compound apposition",
+     "morph": "compound"
+    },
+    {
+     "surface": "samupāsyate",
+     "gloss": "is-worshipped",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres root upās"
+    },
+    {
+     "surface": "avacchedānavacchidbhyāṃ",
+     "gloss": "by-limited-and-unlimited",
+     "grounds": "instrumental compound",
+     "morph": "inst.du.m"
+    },
+    {
+     "surface": "bhogamokṣārthibhirjanaiḥ",
+     "gloss": "by-people-desiring-enjoyment-liberation",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "Why is knowledge-Bhairava worshipped by both limited and unlimited seekers?",
+   "premises": [
+    "world-lord is knowledge-Bhairava",
+    "he is worshipped by seekers of enjoyment and liberation"
+   ],
+   "inference": "Bhairava is worshipped across both limited and unlimited aims",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Therefore world-lord knowledge-Bhairava is worshipped by people desiring enjoyment and liberation, through limited and unlimited means."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "ye@pyanyadevatābhaktā",
+     "gloss": "even-other-deity-devotees",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "ityato",
+     "gloss": "therefore",
+     "grounds": "causal particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gururādiśat",
+     "gloss": "teacher-instructed",
+     "grounds": "compound verb",
+     "morph": "compound"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "relative pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "bodhādvyatiriktaṃ",
+     "gloss": "apart-from-knowledge",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiṃcidyājyatayā",
+     "gloss": "something-as-sacrificial",
+     "grounds": "compound instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root vid"
+    }
+   ],
+   "question": "What did the teacher instruct about devotees of other deities?",
+   "premises": [
+    "even other-deity devotees are addressed",
+    "they know something apart from knowledge as sacrificial"
+   ],
+   "inference": "the teacher instructs that such knowing is apart from knowledge",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Therefore the teacher instructed: those who know something apart from knowledge as sacrificial are even devotees of other deities."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "te@pi",
+     "gloss": "they-too",
+     "grounds": "concessive pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vedyaṃ",
+     "gloss": "knowable",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "viviñcānā",
+     "gloss": "distinguishing",
+     "grounds": "participle",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "bodhābhedena",
+     "gloss": "non-difference-from-knowledge",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "manvate",
+     "gloss": "think",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root man"
+    },
+    {
+     "surface": "tenāvicchinnatāmarśarūpāhantāprathātmanaḥ",
+     "gloss": "by-unbroken-I-awareness-manifestation-nature",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    }
+   ],
+   "question": "How do those who distinguish the knowable think?",
+   "premises": [
+    "they distinguish the knowable",
+    "they think through non-difference from knowledge"
+   ],
+   "inference": "their thinking is tied to unbroken I-awareness manifestation",
+   "uncertainties": [
+    "long compound segmentation approximate"
+   ],
+   "plain_english": "They too, distinguishing the knowable, think through non-difference from knowledge, by the nature of unbroken I-awareness manifestation."
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "svayaṃ-prathasya",
+     "gloss": "self-manifest",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "injunction",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sṛṣṭyātmāsya",
+     "gloss": "creation-nature-his",
+     "grounds": "compound genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrvagaḥ",
+     "gloss": "prior",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vedyā",
+     "gloss": "knowable",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devatāsṛṣṭiḥ",
+     "gloss": "deity-creation",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "śakterhetoḥ",
+     "gloss": "from-power-cause",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "samutthitā",
+     "gloss": "arisen",
+     "grounds": "participle",
+     "morph": "perf.part"
+    }
+   ],
+   "question": "Why is injunction not prior for the self-manifest?",
+   "premises": [
+    "injunction is not prior for self-manifest",
+    "deity-creation arises from power-cause"
+   ],
+   "inference": "injunction does not precede self-manifest creation",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "For the self-manifest there is no injunction prior; indeed deity-creation has arisen from power-cause."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "ahaṃrūpā",
+     "gloss": "I-form",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃvittirnityā",
+     "gloss": "awareness-eternal",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "svaprathanātmikā",
+     "gloss": "self-manifest-nature",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhirniyogastryaṃśā",
+     "gloss": "injunction-command-three-part",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāvanā",
+     "gloss": "meditation",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "codanātmikā",
+     "gloss": "injunction-nature",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the relation between eternal awareness and injunction?",
+   "premises": [
+    "awareness is eternal and self-manifest",
+    "injunction is three-part command"
+   ],
+   "inference": "eternal awareness stands apart from injunction-nature meditation",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "But awareness is eternal and self-manifest in I-form; injunction is three-part command, and meditation is injunction-nature."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "tadekasiddhā",
+     "gloss": "that-one-accomplished",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "indrādyā",
+     "gloss": "indra-etc",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhipūrvā",
+     "gloss": "injunction-prior",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "subject",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "ahaṃbodhastu",
+     "gloss": "I-knowledge-but",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃvedyarūpatām",
+     "gloss": "knowable-form",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How does I-knowledge differ from injunction-prior deities?",
+   "premises": [
+    "indra and other deities are injunction-prior",
+    "I-knowledge is not so"
+   ],
+   "inference": "I-knowledge does not take knowable form like those deities",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Indra and other deities are accomplished through injunction, but I-knowledge is not so; they take knowable form."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "unmagnāmeva",
+     "gloss": "submerged-only",
+     "grounds": "compound adverb",
+     "morph": "compound"
+    },
+    {
+     "surface": "paśyantastaṃ",
+     "gloss": "seeing-him",
+     "grounds": "participle object",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "vidanto@pi",
+     "gloss": "knowing-even",
+     "grounds": "concessive participle",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root vid"
+    },
+    {
+     "surface": "taduktaṃ",
+     "gloss": "that-said",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidurmāṃ",
+     "gloss": "know-me",
+     "grounds": "compound verb",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattvenātaścalanti",
+     "gloss": "therefore-wander",
+     "grounds": "compound verb",
+     "morph": "compound"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Why do those who see him submerged still wander?",
+   "premises": [
+    "even knowing they do not know him",
+    "therefore they wander"
+   ],
+   "inference": "not knowing him truly causes wandering",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Seeing him only submerged, even knowing, they do not know; as said, they do not know me truly, therefore they wander."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "calanaṃ",
+     "gloss": "wandering",
+     "grounds": "subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vyavacchinnarūpatāpattireva",
+     "gloss": "limited-form-attainment-only",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "devāndevayajo",
+     "gloss": "gods-sacrificers",
+     "grounds": "compound object",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāntītyādi",
+     "gloss": "go-etc",
+     "grounds": "quoted phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "nyarūpyata",
+     "gloss": "was-described",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-aor root rūp"
+    }
+   ],
+   "question": "What is wandering described as?",
+   "premises": [
+    "wandering is limited-form attainment",
+    "that was described by such phrases"
+   ],
+   "inference": "wandering is only attainment of limited form",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "But wandering is only attainment of limited form, as in 'gods and sacrificers go,' and by that it was described."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "nimajjya",
+     "gloss": "immersing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vedyatāṃ",
+     "gloss": "knowability",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "relative pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃvinmayīṃ",
+     "gloss": "consciousness-filled",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthitim",
+     "gloss": "state",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "viduste",
+     "gloss": "know-they",
+     "grounds": "compound verb",
+     "morph": "compound"
+    },
+    {
+     "surface": "hyanavacchinnaṃ",
+     "gloss": "indeed-unlimited",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadbhaktā",
+     "gloss": "that-devotees",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root yā"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Who goes to the unlimited even while immersed in knowability?",
+   "premises": [
+    "those who know consciousness-filled state there",
+    "even those devotees go to me"
+   ],
+   "inference": "knowing the consciousness-filled state leads to me",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Those who, immersing knowability, know the consciousness-filled state there—even those devotees go to me, the unlimited."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "sarvatrātra",
+     "gloss": "everywhere-here",
+     "grounds": "compound adverb",
+     "morph": "compound"
+    },
+    {
+     "surface": "hyahaṃśabdo",
+     "gloss": "indeed-I-word",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "bodhamātraikavācakaḥ",
+     "gloss": "awareness-only-denoter",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhoktṛprabhuśabdābhyāṃ",
+     "gloss": "by-enjoyer-lord-words",
+     "grounds": "instrumental compound",
+     "morph": "inst.du.m"
+    },
+    {
+     "surface": "yājyayaṣṭṭatayoditaḥ",
+     "gloss": "sacrificial-sacrificer-status-indicated",
+     "grounds": "compound participle",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does the word I denote everywhere here?",
+   "premises": [
+    "the word I denotes awareness only",
+    "it is indicated by enjoyer and lord words"
+   ],
+   "inference": "I denotes awareness alone, not merely sacrificial status",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Everywhere here the word I denotes awareness only; it is indicated by enjoyer and lord words as sacrificial-sacrificer status."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "yājamānī",
+     "gloss": "sacrificer-ship",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃvideva",
+     "gloss": "awareness-only",
+     "grounds": "compound predicate",
+     "morph": "compound"
+    },
+    {
+     "surface": "yājyā",
+     "gloss": "sacrificial",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nānyeti",
+     "gloss": "not-other",
+     "grounds": "compound predicate",
+     "morph": "compound"
+    },
+    {
+     "surface": "coditam",
+     "gloss": "instructed",
+     "grounds": "participle",
+     "morph": "perf.part"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tvākṛtiḥ",
+     "gloss": "form",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kuto@pyanyā",
+     "gloss": "from-where-other",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "socitā",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "perf.part"
+    }
+   ],
+   "question": "What is sacrificer-ship said to be?",
+   "premises": [
+    "sacrificer-ship is awareness only",
+    "sacrificial is not other"
+   ],
+   "inference": "deity is not established as another form",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Sacrificer-ship is awareness only; the sacrificial is not other. No form is established as another deity."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "vidhiśca",
+     "gloss": "injunction-and",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "noktaḥ",
+     "gloss": "not-said",
+     "grounds": "participle",
+     "morph": "perf.part"
+    },
+    {
+     "surface": "ko@pyatra",
+     "gloss": "some-here",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantrādi",
+     "gloss": "mantra-etc",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛttidhāma",
+     "gloss": "operation-abode",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "so@yamātmānamāvṛtya",
+     "gloss": "this-self-covering",
+     "grounds": "compound absolutive",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "perf.part"
+    },
+    {
+     "surface": "jaḍapadaṃ",
+     "gloss": "inert-state",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "perf.part"
+    }
+   ],
+   "question": "What is not said here about injunction?",
+   "premises": [
+    "injunction is not said here",
+    "mantra and operation-abode are alternatives"
+   ],
+   "inference": "the self covers itself and goes to inert state",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Injunction is not said here, nor mantra or operation-abode; this self, covering itself, is situated and has gone to inert state."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "āvṛtānāvṛtātmā",
+     "gloss": "covered-uncovered-self",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devādisthāvarāntagaḥ",
+     "gloss": "gods-to-immobile-reaching",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "jaḍājaḍasyāpyetasya",
+     "gloss": "inert-noninert-this",
+     "grounds": "compound genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "dvairūpyasyāsti",
+     "gloss": "duality-exists",
+     "grounds": "compound verb",
+     "morph": "compound"
+    },
+    {
+     "surface": "citratā",
+     "gloss": "wonder",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What wonder exists in covered and uncovered self?",
+   "premises": [
+    "covered-uncovered self reaches from gods to immobile",
+    "this inert-noninert duality exists"
+   ],
+   "inference": "its duality is a wonder",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "But the covered-uncovered self reaches from gods to immobile; the duality of this inert and non-inert is a wonder."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive pronoun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "svatantrabhāvo",
+     "gloss": "freedom-nature",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yanna",
+     "gloss": "not-which",
+     "grounds": "compound relative",
+     "morph": "compound"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "would-think",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root cint"
+    },
+    {
+     "surface": "taduktaṃ",
+     "gloss": "that-said",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "triśiraḥśāstre",
+     "gloss": "trishiras-scripture",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "saṃbuddha",
+     "gloss": "awakened",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root vid"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jñeyabhāvo",
+     "gloss": "knowable-nature",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ciddharmastacchāyācchādayenna",
+     "gloss": "consciousness-nature-shadow-cover-not",
+     "grounds": "compound verb",
+     "morph": "compound"
+    },
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What is said about freedom-nature in Trishiras scripture?",
+   "premises": [
+    "freedom-nature thinks what is not thought",
+    "knowable-nature is consciousness-nature"
+   ],
+   "inference": "consciousness-nature does not cover that shadow",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Its freedom-nature indeed thinks what is not thought; as said in Trishiras scripture, one who knows the awakened thus knows that knowable-nature is consciousness-nature, and that shadow does not cover it."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "tenājaḍasya",
+     "gloss": "by-noninert",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "bhāgasya",
+     "gloss": "part",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "pudgalāṇvādisaṃjñinaḥ",
+     "gloss": "atom-named",
+     "grounds": "compound genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "anāvaraṇabhāgāṃśe",
+     "gloss": "uncovered-part-portion",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vaicitryaṃ",
+     "gloss": "variety",
+     "grounds": "subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "many-ways",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "perf.part"
+    }
+   ],
+   "question": "Where is variety situated for the non-inert part?",
+   "premises": [
+    "non-inert part is atom-named",
+    "variety is situated in uncovered portion"
+   ],
+   "inference": "variety is situated in the uncovered part of the non-inert",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "By that, variety is situated in many ways in the uncovered portion of the non-inert part, named atom and so on."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "saṃvidrūpe",
+     "gloss": "in-awareness-form",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhedo@sti",
+     "gloss": "difference-is",
+     "grounds": "compound verb",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāstavo",
+     "gloss": "real",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhruve",
+     "gloss": "fixed",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tathāpyāvṛtinirhāsatāratamyātsa",
+     "gloss": "yet-covering-removal-degree-from",
+     "grounds": "compound ablative",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣyate",
+     "gloss": "is-perceived",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres root lakṣ"
+    }
+   ],
+   "question": "Is there real difference in awareness-form?",
+   "premises": [
+    "no real difference is in awareness-form",
+    "yet it is perceived by degree of covering removal"
+   ],
+   "inference": "difference is perceived only by degree of covering removal",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In awareness-form there is no real difference, although fixed; yet it is perceived by degree of covering removal."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "tadvistareṇa",
+     "gloss": "that-in-detail",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "vakṣyāmaḥ",
+     "gloss": "we-will-say",
+     "grounds": "verb",
+     "morph": "1.pl.act-fut root vac"
+    },
+    {
+     "surface": "śaktipātavinirṇaye",
+     "gloss": "grace-descent-determination",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "samāpya",
+     "gloss": "completing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "paratāṃ",
+     "gloss": "otherness",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "sthaulyaprasaṃge",
+     "gloss": "grossness-context",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "carcayiṣyate",
+     "gloss": "will-be-discussed",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-fut root carc"
+    }
+   ],
+   "question": "Where will that be said in detail?",
+   "premises": [
+    "we will say that in detail",
+    "in grace-descent determination"
+   ],
+   "inference": "otherness and grossness will be discussed there",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "We will say that in detail in the determination of grace-descent; completing, otherness and grossness will be discussed."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "causal particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaṃcitpramātāraṃ",
+     "gloss": "some-knower",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "postposition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prathayate",
+     "gloss": "manifests",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root prath"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "lord",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pūrṇameva",
+     "gloss": "full-only",
+     "grounds": "compound adverb",
+     "morph": "compound"
+    },
+    {
+     "surface": "nijaṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kaṃcidaṃśāṃśikākramāt",
+     "gloss": "some-part-partial-sequence",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How does the lord manifest toward a knower?",
+   "premises": [
+    "lord manifests toward some knower",
+    "full own form appears by partial sequence"
+   ],
+   "inference": "manifestation is full yet sequenced by partial aspects",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Therefore the lord manifests toward some knower his own full form, by a sequence of partial aspects."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "viśvabhāvaikabhāvātmasvarūpaprathanaṃ",
+     "gloss": "world-nature-one-nature-self-form-manifestation",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "aṇūnāṃ",
+     "gloss": "of-atoms",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "tatparaṃ",
+     "gloss": "that-supreme",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tadanyadaparaṃ",
+     "gloss": "other-inferior",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahu",
+     "gloss": "much",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is supreme knowledge for atoms?",
+   "premises": [
+    "manifestation of world-nature as one self-form",
+    "that is supreme knowledge for atoms"
+   ],
+   "inference": "other knowledge is inferior and much",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Indeed, manifestation of world-nature as one self-form is supreme knowledge for atoms; other knowledge is inferior and much."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "tacca",
+     "gloss": "that-and",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "sākṣādupāyena",
+     "gloss": "direct-means",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tadupāyādināpi",
+     "gloss": "that-means-etc-also",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prathamānaṃ",
+     "gloss": "manifesting",
+     "grounds": "participle",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "vicitrābhirbhaṃgībhiriha",
+     "gloss": "by-various-breaks-here",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.f"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "differs",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres root bhid"
+    }
+   ],
+   "question": "How does that manifesting differ?",
+   "premises": [
+    "that manifests by direct means",
+    "also by that means etc"
+   ],
+   "inference": "here it differs by various breaks",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "That, manifesting by direct means and by that means etc., differs here by various breaks."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "tatrāpi",
+     "gloss": "there-also",
+     "grounds": "compound adverb",
+     "morph": "compound"
+    },
+    {
+     "surface": "svaparadvāradvāritvātsarvaśoṃśaśaḥ",
+     "gloss": "self-other-door-gate-ness-all-partial",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "vyavadhānāvyavadhinā",
+     "gloss": "by-obstruction-nonobstruction",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "bhūyānbhedaḥ",
+     "gloss": "greater-difference",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "arises",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root vṛt"
+    }
+   ],
+   "question": "What greater difference arises there also?",
+   "premises": [
+    "there also self-other door-gate-ness is partial",
+    "by obstruction and non-obstruction"
+   ],
+   "inference": "greater difference arises",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "There also, because self-other door-gate-ness is partial, greater difference arises by obstruction and non-obstruction."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowledge",
+     "grounds": "genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "cābhyupāyo",
+     "gloss": "means",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "yo",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadajñānamucyate",
+     "gloss": "that-ignorance-called",
+     "grounds": "compound verb",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñānameva",
+     "gloss": "knowledge-only",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatsūkṣmaṃ",
+     "gloss": "that-subtle",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tvicchātmakaṃ",
+     "gloss": "will-nature",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "matam",
+     "gloss": "opinion",
+     "grounds": "subject",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is the means of knowledge said to be?",
+   "premises": [
+    "means of knowledge is not called ignorance",
+    "knowledge only is subtle supreme will-nature"
+   ],
+   "inference": "the means of knowledge is subtle supreme will-nature",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The means of knowledge is not called ignorance; knowledge only is subtle, supreme, and of will-nature, according to opinion."
+  }
+ ]
+}
