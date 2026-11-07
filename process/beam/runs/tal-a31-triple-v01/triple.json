@@ -1,0 +1,419 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "matsyeṣu",
+     "gloss": "in-fishes",
+     "grounds": "matsya+loc.pl",
+     "morph": "m.loc.pl.m"
+    },
+    {
+     "surface": "vedāḥ",
+     "gloss": "vedas",
+     "grounds": "veda+nom.pl",
+     "morph": "m.nom.pl.m"
+    },
+    {
+     "surface": "sūtrāṇītyevaṃ",
+     "gloss": "threads-thus",
+     "grounds": "sūtra+iti+evaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāccaturasrakam",
+     "gloss": "would-be-square",
+     "grounds": "syāt+caturasrakam",
+     "morph": "verb.3.sg.act-pres+compound"
+    },
+    {
+     "surface": "ekasmātprabhṛti",
+     "gloss": "from-one-onward",
+     "grounds": "ekasmāt+prabhṛti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "proclaimed",
+     "grounds": "pra+vac+pp",
+     "morph": "verb.3.sg.pass-past+root"
+    },
+    {
+     "surface": "śatāntaṃ",
+     "gloss": "hundred-ending",
+     "grounds": "śata+anta",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "maṇḍala+nom.sg",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "yatas",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the hundred-ending mandala described?",
+   "premises": [
+    "Vedas are called threads.",
+    "The square form is proclaimed.",
+    "Counting begins from one."
+   ],
+   "inference": "The verse presents a square mandala whose thread-count runs to one hundred.",
+   "uncertainties": [
+    "Exact ritual referent of matsyeṣu remains unclear."
+   ],
+   "plain_english": "In the fishes, the Vedas are threads; thus a square is proclaimed, from one onward, as a hundred-ending mandala."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "siddhātantre",
+     "gloss": "in-siddhanta-tantra",
+     "grounds": "siddhānta+tantra+loc.sg",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇḍalānāṃ",
+     "gloss": "of-mandalas",
+     "grounds": "maṇḍala+gen.pl",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "śata+nom.sg",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tatpīṭha",
+     "gloss": "that-seat",
+     "grounds": "tat+pīṭha",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "vac+pass.pres",
+     "morph": "verb.3.sg.pass-pres+root"
+    },
+    {
+     "surface": "yattanmadhyagataṃ",
+     "gloss": "what-in-its-middle-goes",
+     "grounds": "yat+tat+madhya+gata",
+     "morph": "compound"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "chief",
+     "grounds": "mukhya+nom.sg",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "maṇḍalānāṃ",
+     "gloss": "of-mandalas",
+     "grounds": "maṇḍala+gen.pl",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "tri+nom.sg",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "smṛ+pp",
+     "morph": "verb.3.sg.pass-past+root"
+    }
+   ],
+   "question": "What is remembered as the chief three mandalas?",
+   "premises": [
+    "Siddhanta tantra names a hundred mandalas.",
+    "That seat is called a pitha.",
+    "What lies in its middle is chief."
+   ],
+   "inference": "The verse identifies three central mandalas as the chief remembered set.",
+   "uncertainties": [
+    "The exact identity of the three mandalas is not specified here."
+   ],
+   "plain_english": "In the Siddhanta tantra, a hundred mandalas are called that seat; what goes in its middle, the chief three mandalas, is remembered."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "madhyaśūlaṃ",
+     "gloss": "middle-trident",
+     "grounds": "madhya+śūla",
+     "morph": "compound"
+    },
+    {
+     "surface": "tritriśūlaṃ",
+     "gloss": "triple-trident",
+     "grounds": "tri+tri+śūla",
+     "morph": "compound"
+    },
+    {
+     "surface": "navaśūlamiti",
+     "gloss": "nine-trident-thus",
+     "grounds": "nava+śūla+iti",
+     "morph": "compound"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clear",
+     "grounds": "sphuṭa+nom.sg",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śūlavidhānaṃ",
+     "gloss": "trident-arrangement",
+     "grounds": "śūla+vidhāna",
+     "morph": "compound"
+    },
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "which-is-said",
+     "grounds": "yat+ukta",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedairanantakaiḥ",
+     "gloss": "by-infinite-divisions",
+     "grounds": "bheda+anantaka+instr.pl",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the trident arrangement said to be clear?",
+   "premises": [
+    "Middle, triple, and nine tridents are named.",
+    "The arrangement is said there.",
+    "Infinite divisions are mentioned."
+   ],
+   "inference": "The verse presents several trident forms and an arrangement with endless divisions.",
+   "uncertainties": [
+    "The precise ritual geometry is not fully explained."
+   ],
+   "plain_english": "Middle trident, triple trident, and nine trident are clear; there the trident arrangement is said with infinite divisions."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "tadyoni",
+     "gloss": "that-yoni",
+     "grounds": "tat+yoni",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "maṇḍala+nom.sg",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "brūmaḥ",
+     "gloss": "we-say",
+     "grounds": "brū+pres.1.pl.act",
+     "morph": "verb.1.pl.act-pres+root"
+    },
+    {
+     "surface": "sadbhāvakramadarśitam",
+     "gloss": "shown-by-true-being-order",
+     "grounds": "sat+bhāva+krama+darśita",
+     "morph": "compound"
+    },
+    {
+     "surface": "vedāśrite",
+     "gloss": "in-veda-supported",
+     "grounds": "veda+āśrita+loc.sg",
+     "morph": "compound"
+    },
+    {
+     "surface": "caturhaste",
+     "gloss": "in-four-handed",
+     "grounds": "catur+hasta+loc.sg",
+     "morph": "compound"
+    },
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-parts",
+     "grounds": "tri+bhāga+acc.sg",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvatastyajet",
+     "gloss": "abandon-all-around",
+     "grounds": "sarvatas+tyaj+opt.3.sg",
+     "morph": "verb.3.sg.act-opt+root"
+    }
+   ],
+   "question": "What mandala is said to be shown by true being?",
+   "premises": [
+    "That yoni mandala is declared.",
+    "It is shown by true being order.",
+    "Four-handed Veda support is mentioned."
+   ],
+   "inference": "The verse describes a yoni mandala to be understood through true being and Veda support.",
+   "uncertainties": [
+    "The exact meaning of abandoning three parts all around is unclear."
+   ],
+   "plain_english": "We say that yoni mandala, shown by the order of true being; in the four-handed Veda-supported form, abandon three parts all around."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "bhāgaiḥ",
+     "gloss": "by-parts",
+     "grounds": "bhāga+instr.pl",
+     "morph": "m.instr.pl.m"
+    },
+    {
+     "surface": "ṣoḍaśabhiḥ",
+     "gloss": "by-sixteen",
+     "grounds": "ṣoḍaśa+instr.pl",
+     "morph": "num.instr.pl"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "sarva+nom.sg",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "tattatkṣetraṃ",
+     "gloss": "each-field",
+     "grounds": "tat+tat+kṣetra",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhājayet",
+     "gloss": "should-divide",
+     "grounds": "vi+bhāj+opt.3.sg",
+     "morph": "verb.3.sg.act-opt+root"
+    },
+    {
+     "surface": "brahmasūtradvayasyātha",
+     "gloss": "then-of-two-brahma-threads",
+     "grounds": "brahma+sūtra+dvaya+atha",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "madhya+nom.sg",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "brahmapadaṃ",
+     "gloss": "brahma-place",
+     "grounds": "brahma+pada",
+     "morph": "compound"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clear",
+     "grounds": "sphuṭa+nom.sg",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "How should all fields be divided?",
+   "premises": [
+    "All fields are divided by parts.",
+    "Sixteen parts are specified.",
+    "The middle of two brahma threads is clear."
+   ],
+   "inference": "The verse instructs division of fields into sixteen parts and locates brahma place in the middle.",
+   "uncertainties": [
+    "The relation between field division and brahma place is not fully explicit."
+   ],
+   "plain_english": "Divide all each field by sixteen parts; then the middle of two brahma threads is clearly the brahma place."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "kṛtvāvadhiṃ",
+     "gloss": "having-made-boundary",
+     "grounds": "kṛtvā+avadhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "tatas",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lakṣyaṃ",
+     "gloss": "target",
+     "grounds": "lakṣya+nom.sg",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "caturtha+nom.sg",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "sūtramāditaḥ",
+     "gloss": "thread-from-beginning",
+     "grounds": "sūtra+āditaḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatastiryagvrajet",
+     "gloss": "then-go-transversely",
+     "grounds": "tatas+tiryak+vraj+opt.3.sg",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "sūtra+nom.sg",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "caturtha+nom.sg",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "tadanantare",
+     "gloss": "thereafter",
+     "grounds": "tat+anantara",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the boundary and target thread be handled?",
+   "premises": [
+    "A boundary is first made.",
+    "The target is the fourth thread from the beginning.",
+    "Then one goes transversely."
+   ],
+   "inference": "The verse gives a sequence for marking boundary, target, and transverse movement.",
+   "uncertainties": [
+    "The exact geometric operation remains partly unclear."
+   ],
+   "plain_english": "Having made a boundary, then the target is the fourth thread from the beginning; then go transversely to the fourth thread thereafter."
+  }
+ ]
+}

@@ -1,0 +1,761 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "ādikṣetrasya",
+     "gloss": "first-field",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-make",
+     "grounds": "token 2",
+     "morph": "opt.3sg.act-kṛ"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "token 3",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "dvāracatuṣṭayam",
+     "gloss": "four-gates",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "hastāyāmaṃ",
+     "gloss": "cubit-measure",
+     "grounds": "token 5",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vistārādapi",
+     "gloss": "from-breadth-too",
+     "grounds": "token 8",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "tatsamam",
+     "gloss": "equal-to-that",
+     "grounds": "token 9",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the first field's four gates be measured?",
+   "premises": [
+    "first field has four gates",
+    "gate measure is cubit or half",
+    "breadth may set equal measure"
+   ],
+   "inference": "the gates are laid out by cubit measure or half, matching breadth",
+   "uncertainties": [
+    "exact unit interpretation"
+   ],
+   "plain_english": "For the first field, make four gates in the directions, measuring a cubit or half, or equal to the breadth."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "token 1",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "bāhyataḥ",
+     "gloss": "outside",
+     "grounds": "token 2",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "kuryāttataḥ",
+     "gloss": "should-make-then",
+     "grounds": "token 3",
+     "morph": "opt.3sg.act-kṛ"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "token 4",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "token 6",
+     "morph": "imp.2sg.act-śru"
+    },
+    {
+     "surface": "ekaikabhāgamānāni",
+     "gloss": "single-part-measures",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuryādvṛttāni",
+     "gloss": "should-make-circles",
+     "grounds": "token 8",
+     "morph": "opt.3sg.act-kṛ"
+    },
+    {
+     "surface": "vedavat",
+     "gloss": "veda-like",
+     "grounds": "token 9",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the outer lotus to be made?",
+   "premises": [
+    "outer lotus is double",
+    "circles are made by single parts",
+    "veda-like measure applies"
+   ],
+   "inference": "make the outer lotus double, with circles measured part by part in a veda-like way",
+   "uncertainties": [
+    "circle count details"
+   ],
+   "plain_english": "Outside, make the lotus double; listen, make circles with single-part measures in a veda-like manner."
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "dikṣvaṣṭau",
+     "gloss": "eight-in-directions",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "punarapyaṣṭau",
+     "gloss": "again-eight",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "jīvasūtrāṇi",
+     "gloss": "life-threads",
+     "grounds": "token 3",
+     "morph": "acc.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "token 4",
+     "morph": "num"
+    },
+    {
+     "surface": "dvayordvayoḥ",
+     "gloss": "of-each-pair",
+     "grounds": "token 5",
+     "morph": "gen.du"
+    },
+    {
+     "surface": "punarmadhye",
+     "gloss": "again-in-middle",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatsaṃkhyātāni",
+     "gloss": "those-numbered",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "should-drop",
+     "grounds": "token 8",
+     "morph": "opt.3sg.act-pat"
+    }
+   ],
+   "question": "How are the life threads to be placed?",
+   "premises": [
+    "eight life threads in directions",
+    "again eight life threads",
+    "sixteen total in pairs"
+   ],
+   "inference": "place sixteen life threads, eight in directions and eight again, with numbered drops in the middle",
+   "uncertainties": [
+    "exact pairing"
+   ],
+   "plain_english": "In the directions eight, and again eight, life threads; sixteen in all, drop the numbered ones in the middle of each pair."
+  },
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "token 1",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "tṛtīyavṛttasthaṃ",
+     "gloss": "third-circle-placed",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "pārśvajīvasamaṃ",
+     "gloss": "side-life-equal",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhramam",
+     "gloss": "whirling",
+     "grounds": "token 4",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "etadantaṃ",
+     "gloss": "up-to-this",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "should-make",
+     "grounds": "token 6",
+     "morph": "opt.3sg.act-kṛ"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jīvāgramānayet",
+     "gloss": "should-measure-life-tip",
+     "grounds": "token 8",
+     "morph": "opt.3sg.act-nī"
+    }
+   ],
+   "question": "How is the whirling measure completed?",
+   "premises": [
+    "third circle holds side-life equal",
+    "whirling extends to this point",
+    "then life tip is measured"
+   ],
+   "inference": "make the whirling up to the third circle, then measure the life tip",
+   "uncertainties": [
+    "whirling sense"
+   ],
+   "plain_english": "Make the whirling equal to the side life in the third circle, up to this point; then measure the life tip."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "yatraiva",
+     "gloss": "wherever",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kutracitsaṅgastatsaṃbandhe",
+     "gloss": "contact-anywhere-connection",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthirīkṛte",
+     "gloss": "when-steadied",
+     "grounds": "token 3",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "token 5",
+     "morph": "abs-kṛ"
+    },
+    {
+     "surface": "nayenmantrī",
+     "gloss": "mantra-master-should-lead",
+     "grounds": "token 6",
+     "morph": "opt.3sg.act-nī"
+    },
+    {
+     "surface": "patrāgrāṇāṃ",
+     "gloss": "leaf-tips",
+     "grounds": "token 7",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "prasiddhaye",
+     "gloss": "for-success",
+     "grounds": "token 8",
+     "morph": "dat.sg"
+    }
+   ],
+   "question": "How does the mantra master steady the connection?",
+   "premises": [
+    "contact anywhere is steadied",
+    "then he acts there",
+    "leaf tips are led for success"
+   ],
+   "inference": "wherever contact is steadied, the mantra master acts there and leads leaf tips to success",
+   "uncertainties": [
+    "contact referent"
+   ],
+   "plain_english": "Wherever contact is steadied in that connection, the mantra master acts there and leads the leaf tips to success."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "ekaikasmindale",
+     "gloss": "in-each-petal",
+     "grounds": "token 1",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kuryātkesarāṇāṃ",
+     "gloss": "should-make-filaments",
+     "grounds": "token 2",
+     "morph": "opt.3sg.act-kṛ"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "token 3",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "three",
+     "grounds": "token 4",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "dviguṇāṣṭāṅgulaṃ",
+     "gloss": "double-eight-fingers",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-made",
+     "grounds": "token 6",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "tadvacchṛṅgakajatrayam",
+     "gloss": "likewise-three-horns",
+     "grounds": "token 7",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many filaments and horns are made in each petal?",
+   "premises": [
+    "each petal gets three filaments",
+    "three more filaments",
+    "double eight fingers to be made"
+   ],
+   "inference": "in each petal make three and three filaments, double eight fingers, and likewise three horns",
+   "uncertainties": [
+    "finger measure"
+   ],
+   "plain_english": "In each petal make three and three filaments, double eight fingers to be made, and likewise three horns."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "karṇikā",
+     "gloss": "pericarp",
+     "grounds": "token 1",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "pītavarṇena",
+     "gloss": "with-yellow-color",
+     "grounds": "token 2",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "mūlamadhyāgrabhedataḥ",
+     "gloss": "root-middle-tip-distinction",
+     "grounds": "token 3",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "sitaṃ",
+     "gloss": "white",
+     "grounds": "token 4",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "token 5",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "token 7",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-made",
+     "grounds": "token 8",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "kesarajālakam",
+     "gloss": "filament-net",
+     "grounds": "token 9",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the filament net colored?",
+   "premises": [
+    "pericarp is yellow",
+    "root middle tip distinction",
+    "white red yellow to be made"
+   ],
+   "inference": "the filament net is made white, red, and yellow according to root, middle, and tip",
+   "uncertainties": [
+    "color order"
+   ],
+   "plain_english": "The pericarp is yellow; the filament net is made white, red, and yellow by root, middle, and tip."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "dalāni",
+     "gloss": "petals",
+     "grounds": "token 1",
+     "morph": "nom.pl"
+    },
+    {
+     "surface": "śuklavarṇāni",
+     "gloss": "white-colored",
+     "grounds": "token 2",
+     "morph": "nom.pl"
+    },
+    {
+     "surface": "prativāraṇayā",
+     "gloss": "with-elephant-goad",
+     "grounds": "token 3",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "token 5",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "tadvaccatuṣkoṇaṃ",
+     "gloss": "likewise-four-cornered",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "karṇikārdhasamaṃ",
+     "gloss": "half-pericarp-equal",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are petals and seat arranged?",
+   "premises": [
+    "petals are white",
+    "seat is four-cornered",
+    "seat equals half pericarp outside"
+   ],
+   "inference": "white petals accompany the seat, which is four-cornered and half the pericarp outside",
+   "uncertainties": [
+    "elephant goad sense"
+   ],
+   "plain_english": "The petals are white; with the elephant goad, the seat is likewise four-cornered, half the pericarp, outside."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "sitaraktapītakṛṣṇaistatpādān",
+     "gloss": "white-red-yellow-black-feet",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "vahnitaḥ",
+     "gloss": "from-fire",
+     "grounds": "token 2",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturbhirapi",
+     "gloss": "by-four-too",
+     "grounds": "token 4",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "śṛṅgāṇi",
+     "gloss": "horns",
+     "grounds": "token 5",
+     "morph": "acc.pl"
+    },
+    {
+     "surface": "tribhirmaṇḍalamiṣyate",
+     "gloss": "three-circles-intended",
+     "grounds": "token 6",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are horns colored and arranged?",
+   "premises": [
+    "feet are white red yellow black",
+    "from fire in order",
+    "four horns and three circles intended"
+   ],
+   "inference": "the horns are colored white, red, yellow, black from fire in order, with three circles intended",
+   "uncertainties": [
+    "circle count"
+   ],
+   "plain_english": "The feet are white, red, yellow, black from fire in order; four horns, and three circles are intended."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "daṇḍaḥ",
+     "gloss": "staff",
+     "grounds": "token 1",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "syānnīlaraktena",
+     "gloss": "should-be-blue-red",
+     "grounds": "token 2",
+     "morph": "opt.3sg.act-syā"
+    },
+    {
+     "surface": "pītamāmalasārakam",
+     "gloss": "yellow-amala-essence",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "token 4",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "token 5",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "should-make",
+     "grounds": "token 6",
+     "morph": "opt.3sg.act-kṛ"
+    },
+    {
+     "surface": "yattatpūrvaṃ",
+     "gloss": "that-previously",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakalpitam",
+     "gloss": "appointed",
+     "grounds": "token 8",
+     "morph": "ppp"
+    }
+   ],
+   "question": "How is the staff and trident made?",
+   "premises": [
+    "staff should be blue red",
+    "yellow amala essence",
+    "red trident previously appointed"
+   ],
+   "inference": "make the staff blue-red with yellow amala essence, and the red trident as previously appointed",
+   "uncertainties": [
+    "amala sense"
+   ],
+   "plain_english": "The staff should be blue-red with yellow amala essence; make the red trident as previously appointed."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "paścāddvārasya",
+     "gloss": "behind-gate",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrveṇa",
+     "gloss": "in-front",
+     "grounds": "token 2",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "tyaktvāṅgulacatuṣṭayam",
+     "gloss": "leaving-four-fingers",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "gate",
+     "grounds": "token 4",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "vedāśri",
+     "gloss": "veda-cornered",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "token 6",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃkīrṇaṃ",
+     "gloss": "mixed",
+     "grounds": "token 8",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vicitritam",
+     "gloss": "variegated",
+     "grounds": "token 10",
+     "morph": "acc.sg"
+    }
+   ],
+   "question": "How is the gate behind to be shaped?",
+   "premises": [
+    "behind gate in front",
+    "leaving four fingers",
+    "gate veda-cornered round mixed or variegated"
+   ],
+   "inference": "behind the gate, leaving four fingers, make the gate veda-cornered, round, mixed, or variegated",
+   "uncertainties": [
+    "shape choice"
+   ],
+   "plain_english": "Behind the gate, in front, leaving four fingers, make the gate veda-cornered, round, mixed, or variegated."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "ekadvitripuraṃ",
+     "gloss": "one-two-three-city",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "tulyaṃ",
+     "gloss": "equal",
+     "grounds": "token 2",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "sāmudgamathavobhayam",
+     "gloss": "joined-or-both",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "kapolakaṇṭhaśobhopaśobhādibahucitritam",
+     "gloss": "cheek-throat-beauty-adornment-many-variegated",
+     "grounds": "token 4",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the city to be decorated?",
+   "premises": [
+    "one two three city equal",
+    "joined or both",
+    "cheek throat beauty adornment many variegated"
+   ],
+   "inference": "the one-two-three city is equal, joined or both, and decorated with cheek, throat, beauty, adornment, and many variegations",
+   "uncertainties": [
+    "city sense"
+   ],
+   "plain_english": "The one-two-three city is equal, joined or both, and variegated with cheek, throat, beauty, adornment, and many decorations."
+  }
+ ]
+}

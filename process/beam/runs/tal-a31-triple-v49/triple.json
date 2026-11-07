@@ -1,0 +1,863 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "lexical adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māsaṣaṭkena",
+     "gloss": "by-six-months",
+     "grounds": "compound instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "trikajñānaṃ",
+     "gloss": "trika-knowledge",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samaśnute",
+     "gloss": "attains",
+     "grounds": "verbal form",
+     "morph": "3.sg.mid.pres"
+    },
+    {
+     "surface": "yatprāpya",
+     "gloss": "having-obtained",
+     "grounds": "participial indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "heyopādeyaṃ",
+     "gloss": "rejectable-and-acceptable",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "svayameva",
+     "gloss": "by-oneself",
+     "grounds": "emphatic indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicārya",
+     "gloss": "having-considered",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What knowledge is attained by six months?",
+   "premises": [
+    "six months yields trika knowledge",
+    "one considers rejectable and acceptable things"
+   ],
+   "inference": "The practitioner attains trika knowledge through sustained practice.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Always by six months one attains trika knowledge, having obtained and considered by oneself what is to be rejected and accepted."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "dehānte",
+     "gloss": "at-body-end",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "syādbhairavātmā",
+     "gloss": "becomes-bhairava-self",
+     "grounds": "verbal compound",
+     "morph": "3.sg.opt.pres"
+    },
+    {
+     "surface": "siddhikāmo@tha",
+     "gloss": "desiring-siddhi-then",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "verbal form",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "maṇḍalasyāsya",
+     "gloss": "of-this-mandala",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vyāptiṃ",
+     "gloss": "pervasion",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "devatānyāsameva",
+     "gloss": "deity-placement-only",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who becomes Bhairava-self at body end?",
+   "premises": [
+    "desiring siddhi succeeds",
+    "mandala pervasion and deity placement matter"
+   ],
+   "inference": "One who completes mandala pervasion and deity placement becomes Bhairava-self at death.",
+   "uncertainties": [
+    "sandhi split approximate"
+   ],
+   "plain_english": "At the end of the body one becomes Bhairava-self; one desiring siddhi succeeds in this mandala through pervasion and deity placement."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "vartanāṃ",
+     "gloss": "conduct",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijānāti",
+     "gloss": "knows",
+     "grounds": "verbal form",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gurustrikaśāsane",
+     "gloss": "guru-in-trika-teaching",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive pronoun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "pādarajo",
+     "gloss": "foot-dust",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dhāryaṃ",
+     "gloss": "to-be-borne",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śivasamīhinā",
+     "gloss": "by-one-desiring-shiva",
+     "grounds": "instrumental compound",
+     "morph": "instr.sg.m"
+    }
+   ],
+   "question": "Whose foot-dust should be borne on the head?",
+   "premises": [
+    "guru knows conduct in trika teaching",
+    "foot-dust is to be borne on head"
+   ],
+   "inference": "The guru's foot-dust should be borne on the head by one desiring Shiva.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "He knows conduct as guru in trika teaching; his foot-dust is to be borne on the head by one desiring Shiva."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sṛṣṭisthitidhvaṃsān",
+     "gloss": "creation-preservation-destruction",
+     "grounds": "compound accusative",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative adverb",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "trīnapi",
+     "gloss": "even-three",
+     "grounds": "numeral accusative",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "verbal form",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "turyaṃ",
+     "gloss": "fourth",
+     "grounds": "numeral accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyato",
+     "gloss": "from-middle",
+     "grounds": "ablative adverb",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "locative adjective",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "paripūrakam",
+     "gloss": "all-filling",
+     "grounds": "adjective accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How should creation preservation and destruction be worshipped?",
+   "premises": [
+    "three processes worshipped in order",
+    "fourth fills all from middle"
+   ],
+   "inference": "Worship the three processes in order, and the fourth as all-filling from the middle or in all.",
+   "uncertainties": [
+    "turyaṃ referent unclear"
+   ],
+   "plain_english": "Here worship creation, preservation, and destruction in order; the fourth, however, is all-filling from the middle, or in all."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "catustriśūlaṃ",
+     "gloss": "four-trident",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guptadaṇḍaṃ",
+     "gloss": "hidden-staff",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yāgaṃ",
+     "gloss": "sacrifice",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "verbal form",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pūjayetsamyak",
+     "gloss": "should-worship-properly",
+     "grounds": "verbal compound",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "sphuṭaṃ",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramacatuṣṭayam",
+     "gloss": "fourfold-sequence",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What sacrifice should be performed there?",
+   "premises": [
+    "four-trident or hidden-staff sacrifice performed",
+    "fourfold sequence worshipped properly"
+   ],
+   "inference": "Perform the four-trident or hidden-staff sacrifice and worship the fourfold sequence clearly.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Or perform the four-trident or hidden-staff sacrifice; there worship that fourfold sequence properly and clearly."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "ityetatkathitaṃ",
+     "gloss": "thus-this-told",
+     "grounds": "verbal compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "gupte",
+     "gloss": "in-secret",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ṣaḍardhahṛdaye",
+     "gloss": "six-half-heart",
+     "grounds": "compound locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pare",
+     "gloss": "supreme",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ṣaṭke",
+     "gloss": "sixfold",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sūcitaṃ",
+     "gloss": "indicated",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śrīsiddhayogīśvarīmate",
+     "gloss": "in-siddhayogishvari-mata",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Where was this secret sixfold heart declared?",
+   "premises": [
+    "this was told in secret six-half heart",
+    "declared in siddhayogishvari mata"
+   ],
+   "inference": "This teaching was declared in the secret supreme sixfold heart according to Siddhayogishvari-mata.",
+   "uncertainties": [
+    "ṣaḍardhahṛdaya meaning unclear"
+   ],
+   "plain_english": "Thus this was told in the secret supreme sixfold heart, declared and indicated in Siddhayogishvari-mata."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "agrataḥ",
+     "gloss": "in-front",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrayitvā",
+     "gloss": "having-threaded",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sarvakāmadam",
+     "gloss": "all-desires-giving",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mahāśūlasamopetaṃ",
+     "gloss": "with-great-trident",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "padmacakrādibhūṣitam",
+     "gloss": "adorned-with-lotus-wheel",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is the mandala to be threaded in front?",
+   "premises": [
+    "mandala threaded in front",
+    "mandala gives all desires"
+   ],
+   "inference": "Thread the mandala in front, adorned with great trident and lotus wheel, granting all desires.",
+   "uncertainties": [
+    "sūtrayitvā exact sense"
+   ],
+   "plain_english": "Having threaded the mandala in front, it grants all desires, equipped with great trident and adorned with lotus wheel."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "dvāre",
+     "gloss": "at-gate",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dvāre",
+     "gloss": "at-gate",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "likhecchūlaṃ",
+     "gloss": "should-draw-trident",
+     "grounds": "verbal compound",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "varjayitvā",
+     "gloss": "excluding",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścimam",
+     "gloss": "western",
+     "grounds": "adjective accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "koṇeṣvapica",
+     "gloss": "also-in-corners",
+     "grounds": "locative compound",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mahāśūlaṃ",
+     "gloss": "great-trident",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "drumānvitam",
+     "gloss": "with-tree",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Where should tridents be drawn at gates?",
+   "premises": [
+    "draw trident at each gate",
+    "exclude western gate"
+   ],
+   "inference": "Draw a trident at each gate except the western one; also in corners make great trident with tree.",
+   "uncertainties": [
+    "koṇeṣvapica segmentation"
+   ],
+   "plain_english": "At each gate draw a trident, excluding the western; or in corners make a great trident with tree."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "amṛtāmbhobhavārīṇāṃ",
+     "gloss": "of-nectar-water-born-rivers",
+     "grounds": "compound genitive",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "śūlāgre",
+     "gloss": "at-trident-tip",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trikaṃ",
+     "gloss": "trika",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "trikam",
+     "gloss": "trika",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śūla",
+     "gloss": "trident",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakartavyamaṣṭadhā",
+     "gloss": "to-be-made-eightfold",
+     "grounds": "verbal compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tridhāpivā",
+     "gloss": "or-threefold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the trident tip to be made?",
+   "premises": [
+    "trika at trident tip",
+    "made eightfold or threefold"
+   ],
+   "inference": "At the trident tip place trika, making it eightfold or threefold.",
+   "uncertainties": [
+    "amṛtāmbhobhavārīṇāṃ unclear"
+   ],
+   "plain_english": "At the trident tip place trika; thus it is to be made eightfold, or threefold."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsūcitaṃ",
+     "gloss": "indicated",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "adjective nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "khecarīṇāṃ",
+     "gloss": "of-sky-goers",
+     "grounds": "genitive noun",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "puraṃ",
+     "gloss": "city",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tviti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthānāntare@pi",
+     "gloss": "even-in-other-place",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śrīsiddhātantraśāsane",
+     "gloss": "in-siddha-tantra-teaching",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Where else is the divine city of sky-goers told?",
+   "premises": [
+    "divine city of sky-goers indicated",
+    "told in siddha tantra teaching"
+   ],
+   "inference": "The divine city of sky-goers is indicated and told in Siddha-tantra teaching, even elsewhere.",
+   "uncertainties": [
+    "sandhi split approximate"
+   ],
+   "plain_english": "Thus the divine city of sky-goers is indicated; it is told in Siddha-tantra teaching, even in another place."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "kajaṃ",
+     "gloss": "lotus-born",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverb",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tadardhena",
+     "gloss": "by-its-half",
+     "grounds": "instrumental compound",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "śūlaśṛṅgāṇi",
+     "gloss": "trident-peaks",
+     "grounds": "compound accusative",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlāṅkaṃ",
+     "gloss": "trident-marked",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kalpyaṃ",
+     "gloss": "to-be-constructed",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kamalāṅkaṃ",
+     "gloss": "lotus-marked",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūraṇe",
+     "gloss": "in-filling",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "How is the mandala to be constructed in the middle?",
+   "premises": [
+    "lotus-born in middle",
+    "trident peaks by half"
+   ],
+   "inference": "Construct the trident-marked mandala in the middle, with lotus-marked filling.",
+   "uncertainties": [
+    "kajaṃ referent unclear"
+   ],
+   "plain_english": "Lotus-born in the middle, with trident peaks by its half; the trident-marked mandala is to be constructed, and lotus-marked in filling."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlābjavinyāsaḥ",
+     "gloss": "trident-lotus-arrangement",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śrīpūrve",
+     "gloss": "in-shri-purva",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "triśiromate",
+     "gloss": "in-trishira-mata",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "siddhātantre",
+     "gloss": "in-siddha-tantra",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "trikakule",
+     "gloss": "in-trika-family",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "devyāyāmalamālayoḥ",
+     "gloss": "of-devi-yamala-mala",
+     "grounds": "genitive compound",
+     "morph": "gen.pl.m"
+    }
+   ],
+   "question": "Where is the trident-lotus arrangement taught?",
+   "premises": [
+    "trident-lotus arrangement now",
+    "taught in trikakula and tantras"
+   ],
+   "inference": "The trident-lotus arrangement is taught in Shripurva, Trishira-mata, Siddha-tantra, Trikakula, and Devi-yamala-mala.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Now the trident-lotus arrangement is in Shripurva, Trishira-mata, Siddha-tantra, Trikakula, and Devi-yamala-mala."
+  }
+ ]
+}

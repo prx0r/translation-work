@@ -1,0 +1,869 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "vicitrākārasaṃsthānaṃ",
+     "gloss": "various-form-arrangement",
+     "grounds": "compound token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vallīsūkṣmagṛhānvitam",
+     "gloss": "vine-fine-house-endowed",
+     "grounds": "compound token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrīdevyāyāmale",
+     "gloss": "in-shridevyayamala",
+     "grounds": "locative token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tūktaṃ",
+     "gloss": "thus-said",
+     "grounds": "participle token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣetre",
+     "gloss": "in-field",
+     "grounds": "locative token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vedāśrite",
+     "gloss": "veda-supported",
+     "grounds": "compound token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "when-existing",
+     "grounds": "participle token",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How is the described field characterized?",
+   "premises": [
+    "field has various arrangement",
+    "field is vine-endowed",
+    "field is veda-supported"
+   ],
+   "inference": "The verse describes a field with varied arrangement and vine-endowed structure.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus it is said in the Shridevyayamala: the field has a varied arrangement and is endowed with fine vine-houses, when the veda-supported field exists."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvādaśadhā",
+     "gloss": "twelve-fold",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "token",
+     "morph": "abs."
+    },
+    {
+     "surface": "tiryagūrdhvaṃ",
+     "gloss": "horizontal-vertical",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiryajam",
+     "gloss": "horizontal-part",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāgamekaṃ",
+     "gloss": "one-portion",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svapārśvordhvaṃ",
+     "gloss": "own-side-upward",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samavatārayet",
+     "gloss": "should-lower",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "How should the teacher lower portions?",
+   "premises": [
+    "half is divided twelve-fold",
+    "horizontal and vertical parts",
+    "teacher lowers one portion"
+   ],
+   "inference": "The teacher should lower one portion after dividing half into twelve parts horizontally and vertically.",
+   "uncertainties": [
+    "exact geometric referent unclear"
+   ],
+   "plain_english": "Having made half twelve-fold, horizontally and vertically, the teacher should lower one horizontal portion upward from his own side."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "madhyasthaṃ",
+     "gloss": "middle-placed",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-part",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadante",
+     "gloss": "at-its-end",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhramayedubhau",
+     "gloss": "should-rotate-both",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "bhāgamekaṃ",
+     "gloss": "one-portion",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "abandoning",
+     "grounds": "token",
+     "morph": "abs."
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhramayetpunaḥ",
+     "gloss": "should-rotate-again",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "How are middle and end portions rotated?",
+   "premises": [
+    "middle three-part is rotated",
+    "one portion is abandoned",
+    "rotation occurs again in middle"
+   ],
+   "inference": "The middle three-part and both ends are rotated, one portion is abandoned, then rotation occurs again in the middle.",
+   "uncertainties": [
+    "pronoun referents unclear"
+   ],
+   "plain_english": "That middle three-part should be rotated at its end; abandoning one portion, one should rotate again in its middle."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "tṛtīyāṃśordhvato",
+     "gloss": "from-third-part-upward",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāmyamūrdhvāṃśaṃ",
+     "gloss": "rotating-upward-part",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāvadantataḥ",
+     "gloss": "until-end",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthāṃśāttadūrdhvaṃ",
+     "gloss": "from-fourth-part-upward",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvādho",
+     "gloss": "up-down",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayetpunaḥ",
+     "gloss": "should-join-again",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "How are upward parts joined?",
+   "premises": [
+    "third part rotates upward",
+    "fourth part goes upward",
+    "up and down are joined"
+   ],
+   "inference": "Upward parts are rotated and joined again from up to down.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "From the third part upward, rotating the upward part until the end; from the fourth part upward, but join up and down again."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "tanmānādūrdhvamābhrāmya",
+     "gloss": "rotating-up-from-that-measure",
+     "grounds": "token",
+     "morph": "abs."
+    },
+    {
+     "surface": "caturthena",
+     "gloss": "by-fourth",
+     "grounds": "token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "should-appoint",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "ūrdhvādyojayate",
+     "gloss": "joins-upward-beginning",
+     "grounds": "token",
+     "morph": "3.sg.act.pres."
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmasūtrāvadhi",
+     "gloss": "up-to-brahma-thread",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the thread joined in order?",
+   "premises": [
+    "rotating up from measure",
+    "appoint by fourth",
+    "thread joins to brahma-thread"
+   ],
+   "inference": "The thread is joined upward in order up to the brahma-thread by the fourth measure.",
+   "uncertainties": [
+    "verb form segmentation approximate"
+   ],
+   "plain_english": "Rotating upward from that measure, one should appoint by the fourth; the thread joins upward in order up to the brahma-thread."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "kramādvaipulyataḥ",
+     "gloss": "by-order-by-width",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "token",
+     "morph": "abs."
+    },
+    {
+     "surface": "aṃśaṃ",
+     "gloss": "portion",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrāsayet",
+     "gloss": "should-diminish",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhabhāgapramāṇastu",
+     "gloss": "half-portion-measure-but",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daṇḍo",
+     "gloss": "staff",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dviguṇa",
+     "gloss": "double",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "token",
+     "morph": "3.sg.pass.pres."
+    }
+   ],
+   "question": "How is the portion diminished and staff measured?",
+   "premises": [
+    "portion is made by order",
+    "portion is diminished again",
+    "staff is double half-portion"
+   ],
+   "inference": "After making the portion by order and width, it is diminished again, while the staff is desired as double the half-portion measure.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Having made the portion by order and width, one should diminish it again; the staff is desired as double the half-portion measure."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "portion",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "portion",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "token",
+     "morph": "abs."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ubhayoratha",
+     "gloss": "of-both-then",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gocarāt",
+     "gloss": "from-range",
+     "grounds": "token",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhrāmyaṃ",
+     "gloss": "rotating",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pippalavat",
+     "gloss": "like-pippala-leaf",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patraṃ",
+     "gloss": "leaf",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vartanaiṣā",
+     "gloss": "this-rotation",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvadho",
+     "gloss": "downward",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "How does the leaf-like rotation become?",
+   "premises": [
+    "portions are taken",
+    "rotation occurs from both ranges",
+    "leaf becomes downward"
+   ],
+   "inference": "Taking portions one by one from both ranges, the rotating leaf becomes downward like a pippala leaf.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Taking portion by portion from both ranges, the rotating leaf becomes downward like a pippala leaf."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṃśe",
+     "gloss": "in-sixteenth-part",
+     "grounds": "token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "likhetpadmaṃ",
+     "gloss": "should-draw-lotus",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "dvādaśāṅgulalopanāt",
+     "gloss": "by-twelve-angula-reduction",
+     "grounds": "token",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tadūrdhvaṃ",
+     "gloss": "above-that",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyabhāge",
+     "gloss": "in-middle-portion",
+     "grounds": "token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārijanma",
+     "gloss": "lotus-birth",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "should-draw-well",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "Where should the lotus be drawn?",
+   "premises": [
+    "lotus is drawn in sixteenth part",
+    "twelve-angula reduction applies",
+    "lotus-birth is drawn above middle"
+   ],
+   "inference": "The lotus should be drawn in the sixteenth part, and the lotus-birth should be drawn well above the middle portion after twelve-angula reduction.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In the sixteenth part one should draw a lotus; by twelve-angula reduction, above that in the middle portion one should draw the lotus-birth well."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "madhyaśṛṅgāvasāne",
+     "gloss": "at-middle-horn-end",
+     "grounds": "token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vilikhettataḥ",
+     "gloss": "should-draw-from-that",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "savyāsavye",
+     "gloss": "right-left",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiveha",
+     "gloss": "likewise-here",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭisthābje",
+     "gloss": "in-hip-lotus",
+     "grounds": "token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "should-draw-well",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "What should be drawn at the middle horn end?",
+   "premises": [
+    "third is drawn at middle horn end",
+    "right and left likewise",
+    "hip lotus is drawn well"
+   ],
+   "inference": "At the end of the middle horn the third should be drawn, and likewise on right and left the hip lotus should be drawn well.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "At the end of the middle horn, one should draw the third; likewise here on right and left, one should draw well in the hip lotus."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "karṇikā",
+     "gloss": "pericarp",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pītalā",
+     "gloss": "yellowish",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raktapītaśuklaṃ",
+     "gloss": "red-yellow-white",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kesaram",
+     "gloss": "filament",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dalāni",
+     "gloss": "petals",
+     "grounds": "token",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "padmabāhyasthā",
+     "gloss": "outside-lotus-placed",
+     "grounds": "token",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śuklā",
+     "gloss": "white",
+     "grounds": "token",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prativāraṇī",
+     "gloss": "counter-obstacle",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What colors belong to lotus parts?",
+   "premises": [
+    "pericarp is yellowish",
+    "filament is red-yellow-white",
+    "outer petals are white"
+   ],
+   "inference": "The lotus pericarp is yellowish, the filament is red-yellow-white, and the outer petals are white as counter-obstacle.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The pericarp is yellowish; the filament is red, yellow, and white; and the petals placed outside the lotus are white, as counter-obstacle."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇena",
+     "gloss": "by-black",
+     "grounds": "token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "rajasā",
+     "gloss": "by-powder",
+     "grounds": "token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "brahmarekhā",
+     "gloss": "brahma-line",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sitā",
+     "gloss": "white",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlāgraṃ",
+     "gloss": "trident-tip",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jvālayā",
+     "gloss": "by-flame",
+     "grounds": "token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "joined",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūladaṇḍastu",
+     "gloss": "trident-staff-but",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pītalaḥ",
+     "gloss": "yellowish",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the trident colored and joined?",
+   "premises": [
+    "trident is black powder",
+    "brahma-line is white",
+    "trident-tip is joined by flame"
+   ],
+   "inference": "The trident is black powder, the brahma-line is white, the trident-tip is joined by flame, and the trident staff is yellowish.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The trident is black powder; the brahma-line is white; the trident-tip is joined by flame; and the trident staff is yellowish."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "śūlamadhye",
+     "gloss": "in-trident-middle",
+     "grounds": "token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatpadmaṃ",
+     "gloss": "which-lotus",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatreśaṃ",
+     "gloss": "there-lord",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjayetsadā",
+     "gloss": "should-worship-always",
+     "grounds": "token",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "asyordhve",
+     "gloss": "above-it",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣe@nyāṃ",
+     "gloss": "on-right",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāparāṃ",
+     "gloss": "and-another",
+     "grounds": "token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "token",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where should the lord and supreme powers be worshipped?",
+   "premises": [
+    "lotus in trident middle",
+    "lord is worshipped there",
+    "supreme on right and another on left"
+   ],
+   "inference": "The wise one should always worship the lord in the lotus in the middle of the trident, with the supreme above it, one on the right and another on the left.",
+   "uncertainties": [
+    "token dakṣe@nyāṃ irregular"
+   ],
+   "plain_english": "In the middle of the trident, in that lotus, the wise one should always worship the lord; above it the supreme, on the right, and another on the left."
+  }
+ ]
+}

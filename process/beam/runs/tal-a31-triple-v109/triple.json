@@ -1,0 +1,821 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "bhrāmayet",
+     "gloss": "should-rotate",
+     "grounds": "rotate action",
+     "morph": "3.sg.act-opt bhram"
+    },
+    {
+     "surface": "khaṭikāsūtraṃ",
+     "gloss": "chalk-thread",
+     "grounds": "chalk thread",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaṭiṃ",
+     "gloss": "waist",
+     "grounds": "waist",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāddviraṅgulām",
+     "gloss": "make-two-finger",
+     "grounds": "make two fingers",
+     "morph": "3.sg.act-opt kṛ"
+    },
+    {
+     "surface": "vaipulyāddairghyato",
+     "gloss": "from-width-and-length",
+     "grounds": "width and length",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "caturaṅgulamānataḥ",
+     "gloss": "by-four-finger-measure",
+     "grounds": "four finger measure",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How should the chalk thread be rotated around the waist?",
+   "premises": [
+    "chalk thread rotates around waist",
+    "width and length guide measure"
+   ],
+   "inference": "waist circumference is measured by chalk thread",
+   "uncertainties": [
+    "technical ritual terms uncertain"
+   ],
+   "plain_english": "Rotate the chalk thread around the waist, making it two fingers wide and four fingers long by measure, O goddess."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "yādṛśaṃ",
+     "gloss": "such-as",
+     "grounds": "such as",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "right side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "side",
+     "grounds": "side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "left side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tadvatprakalpayet",
+     "gloss": "should-arrange-likewise",
+     "grounds": "arrange likewise",
+     "morph": "3.sg.act-opt kḷp"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "middle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śūlāgravaipulyādaṅgulaśca",
+     "gloss": "and-one-finger-from-trident-tip-width",
+     "grounds": "trident tip width",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhordhvataḥ",
+     "gloss": "below-and-above",
+     "grounds": "below and above",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should right and left sides be arranged?",
+   "premises": [
+    "right side mirrors left side",
+    "middle has one finger width"
+   ],
+   "inference": "symmetrical arrangement around middle",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Arrange the left side likewise as the right side, with one finger width from the trident tip in the middle, below and above."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "caturaṅgulamānena",
+     "gloss": "by-four-finger-measure",
+     "grounds": "four finger measure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vaipulyāttu",
+     "gloss": "from-width",
+     "grounds": "from width",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "ṣaḍaṅgulā",
+     "gloss": "six-fingers",
+     "grounds": "six fingers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ucchrāyāttu",
+     "gloss": "from-height",
+     "grounds": "from height",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-made",
+     "grounds": "should be made",
+     "morph": "f.nom.sg.pass-part kṛ"
+    },
+    {
+     "surface": "gaṇḍikā",
+     "gloss": "neck-ridge",
+     "grounds": "gaṇḍikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarūpataḥ",
+     "gloss": "by-own-form",
+     "grounds": "by own form",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How should the gaṇḍikā be made?",
+   "premises": [
+    "four finger measure guides width",
+    "six fingers guide height"
+   ],
+   "inference": "gaṇḍikā is made by own form",
+   "uncertainties": [
+    "gaṇḍikā sense uncertain"
+   ],
+   "plain_english": "By four-finger measure from width, six fingers from height, then the gaṇḍikā should be made by its own form."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "pīṭhordhve",
+     "gloss": "above-base",
+     "grounds": "above base",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "should be made",
+     "morph": "n.nom.sg.pass-part kṛ"
+    },
+    {
+     "surface": "śūlamūlaṃ",
+     "gloss": "trident-base",
+     "grounds": "trident base",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suvrate",
+     "gloss": "good-vowed-one",
+     "grounds": "good vowed one",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śūlāgramaṅgulaṃ",
+     "gloss": "trident-tip-one-finger",
+     "grounds": "trident tip one finger",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "should-be-made",
+     "grounds": "should be made",
+     "morph": "n.nom.sg.pass-part kṛ"
+    },
+    {
+     "surface": "sutīkṣṇaṃ",
+     "gloss": "very-sharp",
+     "grounds": "very sharp",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṅgulam",
+     "gloss": "six-fingers",
+     "grounds": "six fingers",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should trident base and tip be made?",
+   "premises": [
+    "trident base made above base",
+    "trident tip made one finger and sharp"
+   ],
+   "inference": "base and tip have distinct measurements",
+   "uncertainties": [
+    "suvrate address uncertain"
+   ],
+   "plain_english": "Above the base, O good-vowed one, the trident base should be made; the trident tip should be made one finger, very sharp, six fingers."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "arāmadhyaṃ",
+     "gloss": "hub-middle",
+     "grounds": "hub middle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakartavyamarādhastu",
+     "gloss": "should-be-made-below-hub",
+     "grounds": "make below hub",
+     "morph": "n.nom.sg.pass-part kṛ"
+    },
+    {
+     "surface": "ṣaḍaṅgulam",
+     "gloss": "six-fingers",
+     "grounds": "six fingers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturaṅgulanimnaṃ",
+     "gloss": "four-fingers-deep",
+     "grounds": "four fingers deep",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "middle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-arrange",
+     "grounds": "should arrange",
+     "morph": "3.sg.act-opt kḷp"
+    }
+   ],
+   "question": "How should hub middle and depth be arranged?",
+   "premises": [
+    "hub middle should be made",
+    "below hub six fingers deep"
+   ],
+   "inference": "middle depth is arranged by measure",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The hub middle should be made; below the hub, six fingers, four fingers deep, and the middle should be arranged."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "pūrvāparaṃ",
+     "gloss": "east-west",
+     "grounds": "east west",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadeveha",
+     "gloss": "that-here",
+     "grounds": "that here",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in middle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "trident",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbahiḥ",
+     "gloss": "outside-that",
+     "grounds": "outside that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayeta",
+     "gloss": "should-make",
+     "grounds": "should make",
+     "morph": "3.sg.caus-opt kṛ"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "with-three",
+     "grounds": "with three",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sūtrairekaikaṃ",
+     "gloss": "threads-one-by-one",
+     "grounds": "threads one by one",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "vartayeta",
+     "gloss": "should-turn",
+     "grounds": "should turn",
+     "morph": "3.sg.act-opt vṛt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should threads be placed around trident?",
+   "premises": [
+    "trident in middle east-west",
+    "outside that make with three threads"
+   ],
+   "inference": "threads are turned one by one around trident",
+   "uncertainties": [
+    "ritual thread placement uncertain"
+   ],
+   "plain_english": "East-west, that trident in the middle; outside that, make with three threads, turning them one by one."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "kajatrayaṃ",
+     "gloss": "three-lotuses",
+     "grounds": "three lotuses",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlāgraṃ",
+     "gloss": "trident-tip",
+     "grounds": "trident tip",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedāṃśairdvādaśāṅgulam",
+     "gloss": "twelve-fingers-by-veda-parts",
+     "grounds": "twelve fingers by Veda parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramāddakṣānyamadhyeṣu",
+     "gloss": "in-right-middle-left-in-order",
+     "grounds": "right middle left in order",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tryaṣṭadvādaśapatrakam",
+     "gloss": "three-eight-twelve-petals",
+     "grounds": "three eight twelve petals",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should lotuses be placed at trident tip?",
+   "premises": [
+    "three lotuses at trident tip",
+    "twelve fingers by Veda parts"
+   ],
+   "inference": "lotuses are arranged right middle left with petals",
+   "uncertainties": [
+    "kaja sense uncertain"
+   ],
+   "plain_english": "Three lotuses at the trident tip, twelve fingers by Veda parts, in order right, middle, left, with three, eight, and twelve petals."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "cakratrayaṃ",
+     "gloss": "three-wheels",
+     "grounds": "three wheels",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vātapuraṃ",
+     "gloss": "wind-city",
+     "grounds": "wind city",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padmamaṣṭāṅgulārakam",
+     "gloss": "lotus-eight-fingers",
+     "grounds": "lotus eight fingers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyābhikhyaṃ",
+     "gloss": "called-vidyā",
+     "grounds": "called vidyā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūlamūle",
+     "gloss": "at-trident-base",
+     "grounds": "at trident base",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rajaḥ",
+     "gloss": "powder",
+     "grounds": "powder",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paścātprapātayet",
+     "gloss": "should-scatter-afterward",
+     "grounds": "scatter afterward",
+     "morph": "3.sg.caus-opt pat"
+    }
+   ],
+   "question": "How should wheels and lotus be placed at base?",
+   "premises": [
+    "three wheels and lotus at base",
+    "lotus eight fingers called vidyā"
+   ],
+   "inference": "powder is scattered afterward at base",
+   "uncertainties": [
+    "vātapura sense uncertain"
+   ],
+   "plain_english": "Three wheels, wind city, an eight-finger lotus called vidyā at the trident base; scatter powder afterward."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "trident",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daṇḍaparyantaṃ",
+     "gloss": "up-to-staff",
+     "grounds": "up to staff",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rājavartena",
+     "gloss": "with-rājavarta",
+     "grounds": "with rājavarta",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "should-fill",
+     "grounds": "should fill",
+     "morph": "3.sg.act-opt pṝ"
+    },
+    {
+     "surface": "sūtratrayasya",
+     "gloss": "of-three-threads",
+     "grounds": "of three threads",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on-back",
+     "grounds": "on back",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuklaṃ",
+     "gloss": "white",
+     "grounds": "white",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cārātrayaṃ",
+     "gloss": "three-lines",
+     "grounds": "three lines",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "should be",
+     "morph": "3.sg.act-opt bhū"
+    }
+   ],
+   "question": "How should trident staff be filled and lined?",
+   "premises": [
+    "trident filled up to staff",
+    "three threads on back"
+   ],
+   "inference": "three white lines should be on back",
+   "uncertainties": [
+    "rājavarta sense uncertain"
+   ],
+   "plain_english": "Fill the trident up to the staff with rājavarta; on the back of the three threads, three white lines should be."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "śuklena",
+     "gloss": "with-white",
+     "grounds": "with white",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "rajasā",
+     "gloss": "powder",
+     "grounds": "powder",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śūlamūle",
+     "gloss": "at-trident-base",
+     "grounds": "at trident base",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidyāmbujaṃ",
+     "gloss": "vidyā-lotus",
+     "grounds": "vidyā lotus",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "should be",
+     "morph": "3.sg.act-opt bhū"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "red",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raktāsitaṃ",
+     "gloss": "red-black",
+     "grounds": "red black",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śuklaṃ",
+     "gloss": "white",
+     "grounds": "white",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramādūrdhvāmbujatrayam",
+     "gloss": "three-lotuses-upward-in-order",
+     "grounds": "three lotuses upward in order",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should lotuses be colored upward?",
+   "premises": [
+    "white powder at trident base",
+    "vidyā lotus should be"
+   ],
+   "inference": "three lotuses upward are red, red-black, white",
+   "uncertainties": [
+    "color sequence uncertain"
+   ],
+   "plain_english": "With white powder at the trident base, the vidyā lotus should be; upward in order, three lotuses are red, red-black, white."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "śuklena",
+     "gloss": "with-white",
+     "grounds": "with white",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vyomarekhā",
+     "gloss": "sky-line",
+     "grounds": "sky line",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "should be",
+     "morph": "3.sg.act-opt as"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthaulyādaṅgulaṃ",
+     "gloss": "one-finger-thick",
+     "grounds": "one finger thick",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "outside",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "leaving",
+     "grounds": "leaving",
+     "morph": "abs. tyaj"
+    },
+    {
+     "surface": "vedikā",
+     "gloss": "platform",
+     "grounds": "platform",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-made",
+     "grounds": "should be made",
+     "morph": "f.nom.sg.pass-part kṛ"
+    },
+    {
+     "surface": "hastamātraṃ",
+     "gloss": "hand-measure",
+     "grounds": "hand measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramāṇātaḥ",
+     "gloss": "by-measure",
+     "grounds": "by measure",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How should sky line and platform be made?",
+   "premises": [
+    "sky line one finger thick",
+    "platform made outside that"
+   ],
+   "inference": "platform is hand measure by measure",
+   "uncertainties": [
+    "vyomarekhā sense uncertain"
+   ],
+   "plain_english": "The sky line should be white, one finger thick; leaving that outside, the platform should be made hand measure by measure."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "vaipulyatriguṇaṃ",
+     "gloss": "three-times-width",
+     "grounds": "three times width",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dairghyāt",
+     "gloss": "from-length",
+     "grounds": "from length",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "prākāraṃ",
+     "gloss": "wall",
+     "grounds": "wall",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "square",
+     "grounds": "square",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samantato@tha",
+     "gloss": "then-all-around",
+     "grounds": "then all around",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "in directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "syurdvārāṇi",
+     "gloss": "there-should-be-doors",
+     "grounds": "doors should be",
+     "morph": "3.pl.act-opt as"
+    },
+    {
+     "surface": "karamātrataḥ",
+     "gloss": "hand-measure",
+     "grounds": "hand measure",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How should square wall and doors be made?",
+   "premises": [
+    "wall three times width from length",
+    "square all around"
+   ],
+   "inference": "doors in directions are hand measure",
+   "uncertainties": [
+    "sandhi segmentation uncertain"
+   ],
+   "plain_english": "The wall should be square, three times the width from length; then all around, in directions, doors should be hand measure."
+  }
+ ]
+}

@@ -1,0 +1,749 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "śakravāruṇadiksthāśca",
+     "gloss": "indra-varuna-direction-located-and",
+     "grounds": "compound of indra varuna direction located and",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāmyasaumyagatāstathā",
+     "gloss": "south-north-going-and-so",
+     "grounds": "compound of south north going and so",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekonatriṃśadvaṃśāḥ",
+     "gloss": "twenty-nine-lineages",
+     "grounds": "compound of twenty-nine lineages",
+     "morph": "compound"
+    },
+    {
+     "surface": "syurṛjutiryaggatāstathā",
+     "gloss": "are-straight-transverse-going-and-so",
+     "grounds": "compound of are straight transverse going and so",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many lineages are located in these directions?",
+   "premises": [
+    "twenty-nine lineages are named",
+    "they are located in directions",
+    "they go straight and transverse"
+   ],
+   "inference": "The verse enumerates twenty-nine lineages in directional placement.",
+   "uncertainties": [
+    "exact directional mapping is unclear"
+   ],
+   "plain_english": "Twenty-nine lineages are located in the indra, varuna, south, and north directions, going straight and transverse."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral eight",
+     "morph": "indecl."
+    },
+    {
+     "surface": "marmaśatānyekacatvāriṃśacca",
+     "gloss": "hundred-marman-forty-one-and",
+     "grounds": "compound of hundred marman forty-one and",
+     "morph": "compound"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arise",
+     "grounds": "verb root jan",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "vaṃśairviṣayasaṃkhyaiśca",
+     "gloss": "by-lineages-by-sense-counts-and",
+     "grounds": "compound of by lineages by sense counts and",
+     "morph": "compound"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "noun lotus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yugmendumaṇḍalam",
+     "gloss": "pair-moon-circle",
+     "grounds": "compound of pair moon circle",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many marman points arise in this lotus?",
+   "premises": [
+    "eight hundred forty-one marman points arise",
+    "they arise by lineages and sense counts",
+    "the form is a lotus circle"
+   ],
+   "inference": "The verse gives eight hundred forty-one marman points in the lotus.",
+   "uncertainties": [
+    "exact arithmetic grouping is unclear"
+   ],
+   "plain_english": "Eight hundred forty-one marman points arise by lineages and sense counts in the lotus circle."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "rasasaṃkhyairbhavetpīṭhaṃ",
+     "gloss": "by-taste-counts-becomes-seat",
+     "grounds": "compound of by taste counts becomes seat",
+     "morph": "compound"
+    },
+    {
+     "surface": "svastikaṃ",
+     "gloss": "svastika",
+     "grounds": "noun svastika",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvakāmadam",
+     "gloss": "all-desire-giving",
+     "grounds": "compound of all desire giving",
+     "morph": "compound"
+    },
+    {
+     "surface": "vasusaṃkhyairdvāravīthāvevaṃ",
+     "gloss": "by-vasu-counts-door-paths-thus",
+     "grounds": "compound of by vasu counts door paths thus",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgaparikramaḥ",
+     "gloss": "portion-circumambulation",
+     "grounds": "compound of portion circumambulation",
+     "morph": "compound"
+    }
+   ],
+   "question": "What becomes the seat and door paths?",
+   "premises": [
+    "the seat becomes by taste counts",
+    "the svastika gives all desires",
+    "door paths arise by vasu counts"
+   ],
+   "inference": "The verse links seat, svastika, and door paths to counts.",
+   "uncertainties": [
+    "exact count values are unclear"
+   ],
+   "plain_english": "By taste counts the seat becomes a svastika giving all desires; by vasu counts the door paths are arranged."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "randhravipraśarāgnīṃśca",
+     "gloss": "holes-brahmin-arrow-fire-and",
+     "grounds": "compound of holes brahmin arrow fire and",
+     "morph": "compound"
+    },
+    {
+     "surface": "lupyedbāhyāntaraṃ",
+     "gloss": "destroy-outer-inner",
+     "grounds": "compound of destroy outer inner",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indeclinable in order",
+     "morph": "indecl."
+    },
+    {
+     "surface": "marmāṇi",
+     "gloss": "marman-points",
+     "grounds": "noun marman points",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "compound of in four directions",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhyāddvāreṣu",
+     "gloss": "from-middle-in-doors",
+     "grounds": "compound of from middle in doors",
+     "morph": "compound"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "beautiful-one",
+     "grounds": "vocative beautiful one",
+     "morph": "voc.sg"
+    }
+   ],
+   "question": "Which marman points are destroyed in order?",
+   "premises": [
+    "holes brahmin arrow fire and points are destroyed",
+    "outer and inner are destroyed in order",
+    "this happens in four directions and doors"
+   ],
+   "inference": "The verse describes ordered destruction of marman points.",
+   "uncertainties": [
+    "exact list of points is unclear"
+   ],
+   "plain_english": "Destroy the holes, brahmin, arrow, and fire points, outer and inner, in order, in four directions and middle doors, O beautiful one."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "vahnibhūtamunivyomabāhyagarbhe",
+     "gloss": "fire-earth-sage-sky-outer-womb",
+     "grounds": "compound of fire earth sage sky outer womb",
+     "morph": "compound"
+    },
+    {
+     "surface": "purīṣu",
+     "gloss": "in-cities",
+     "grounds": "noun in cities",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lopayeccaiva",
+     "gloss": "destroy-indeed",
+     "grounds": "verb destroy indeed",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "marmāṇi",
+     "gloss": "marman-points",
+     "grounds": "noun marman points",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "antarnāḍivivarjitān",
+     "gloss": "inner-channel-devoid",
+     "grounds": "compound of inner channel devoid",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which marman points are destroyed in cities?",
+   "premises": [
+    "fire earth sage sky outer womb cities are named",
+    "marman points are destroyed",
+    "inner channel devoid points are included"
+   ],
+   "inference": "The verse names cities and points to destroy.",
+   "uncertainties": [
+    "exact city list is unclear"
+   ],
+   "plain_english": "In cities of fire, earth, sage, sky, outer, and womb, destroy marman points devoid of inner channels."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "dvāraprākārakoṇeṣu",
+     "gloss": "door-wall-corner-in",
+     "grounds": "compound of door wall corner in",
+     "morph": "compound"
+    },
+    {
+     "surface": "netrānalaśarānṛtūn",
+     "gloss": "eye-fire-arrow-seasons",
+     "grounds": "compound of eye fire arrow seasons",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāḍayo",
+     "gloss": "channels",
+     "grounds": "noun channels",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "brahmavaṃśasya",
+     "gloss": "of-brahma-lineage",
+     "grounds": "compound of of brahma lineage",
+     "morph": "compound"
+    },
+    {
+     "surface": "lopyā",
+     "gloss": "to-be-destroyed",
+     "grounds": "participle to be destroyed",
+     "morph": "pass.part"
+    },
+    {
+     "surface": "netrādrasasthitāḥ",
+     "gloss": "from-eye-taste-situated",
+     "grounds": "compound of from eye taste situated",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which channels of brahma lineage are destroyed?",
+   "premises": [
+    "door wall corners are named",
+    "eye fire arrow seasons are named",
+    "channels situated from eye taste are destroyed"
+   ],
+   "inference": "The verse identifies channels to destroy in corners.",
+   "uncertainties": [
+    "exact channel count is unclear"
+   ],
+   "plain_english": "In door and wall corners, channels of brahma lineage situated from eye and taste, including eye, fire, arrow, and seasons, are to be destroyed."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "vahnernetrānalau",
+     "gloss": "fire-eye-fire-two",
+     "grounds": "compound of fire eye fire two",
+     "morph": "compound"
+    },
+    {
+     "surface": "lopyau",
+     "gloss": "to-be-destroyed-two",
+     "grounds": "participle to be destroyed two",
+     "morph": "pass.part"
+    },
+    {
+     "surface": "vedānnetrayugaṃ",
+     "gloss": "vedas-eye-pair",
+     "grounds": "compound of vedas eye pair",
+     "morph": "compound"
+    },
+    {
+     "surface": "rasāt",
+     "gloss": "from-taste",
+     "grounds": "ablative from taste",
+     "morph": "indecl."
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "noun eye",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saumyagataṃ",
+     "gloss": "moon-going",
+     "grounds": "compound of moon going",
+     "morph": "compound"
+    },
+    {
+     "surface": "lopyaṃ",
+     "gloss": "to-be-destroyed",
+     "grounds": "participle to be destroyed",
+     "morph": "pass.part"
+    },
+    {
+     "surface": "pūrvādvedānalau",
+     "gloss": "from-east-vedas-fire-two",
+     "grounds": "compound of from east vedas fire two",
+     "morph": "compound"
+    },
+    {
+     "surface": "rasāt",
+     "gloss": "from-taste",
+     "grounds": "ablative from taste",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which fire and eye points are destroyed?",
+   "premises": [
+    "fire and eye fire two are destroyed",
+    "vedas eye pair from taste is named",
+    "moon-going eye is destroyed",
+    "east vedas fire two from taste is named"
+   ],
+   "inference": "The verse lists eye and fire points to destroy.",
+   "uncertainties": [
+    "exact directional order is unclear"
+   ],
+   "plain_english": "Destroy fire and eye-fire; vedas and eye-pair from taste; the moon-going eye; and east vedas fire from taste."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "lokasthā",
+     "gloss": "world-located",
+     "grounds": "compound of world located",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāḍikā",
+     "gloss": "small-channel",
+     "grounds": "noun small channel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hitvā",
+     "gloss": "having-abandoned",
+     "grounds": "gerund having abandoned",
+     "morph": "gerund"
+    },
+    {
+     "surface": "netrādvedāgnayaḥ",
+     "gloss": "from-eye-vedas-fires",
+     "grounds": "compound of from eye vedas fires",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indeclinable in order",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śarairvahnigataṃ",
+     "gloss": "by-arrows-fire-going",
+     "grounds": "compound of by arrows fire going",
+     "morph": "compound"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction and indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yugaṃ",
+     "gloss": "pair",
+     "grounds": "noun pair",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "netrāgnayo",
+     "gloss": "eye-fires",
+     "grounds": "compound of eye fires",
+     "morph": "compound"
+    },
+    {
+     "surface": "rasāt",
+     "gloss": "from-taste",
+     "grounds": "ablative from taste",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which channels and fires are abandoned or destroyed?",
+   "premises": [
+    "world-located small channel is abandoned",
+    "eye vedas fires follow in order",
+    "arrow fire-going pair is named",
+    "eye fires from taste are named"
+   ],
+   "inference": "The verse describes abandonment and ordered fire points.",
+   "uncertainties": [
+    "exact sequence is unclear"
+   ],
+   "plain_english": "Abandoning the world-located small channel, eye vedas fires follow in order; also the arrow fire-going pair and eye fires from taste."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "netrāt",
+     "gloss": "from-eye",
+     "grounds": "ablative from eye",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrvagatāccaiva",
+     "gloss": "east-going-and-indeed",
+     "grounds": "compound of east going and indeed",
+     "morph": "compound"
+    },
+    {
+     "surface": "sumerurdvārasaṃjñitaḥ",
+     "gloss": "sumeru-door-named",
+     "grounds": "compound of sumeru door named",
+     "morph": "compound"
+    },
+    {
+     "surface": "svastikā",
+     "gloss": "svastika",
+     "grounds": "noun svastika",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "purī",
+     "gloss": "city",
+     "grounds": "noun city",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ramyā",
+     "gloss": "pleasant",
+     "grounds": "adjective pleasant",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "compound of in four directions",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthitāvubhau",
+     "gloss": "located-both",
+     "grounds": "compound of located both",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is named sumeru door and pleasant city?",
+   "premises": [
+    "from eye east-going is named",
+    "sumeru door is named",
+    "svastika and pleasant city are located",
+    "both are in four directions"
+   ],
+   "inference": "The verse names sumeru door and pleasant city in four directions.",
+   "uncertainties": [
+    "exact relation to eye is unclear"
+   ],
+   "plain_english": "From the eye, the east-going is named sumeru door; svastika and pleasant city are located in four directions, both."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "marmaṇāṃ",
+     "gloss": "of-marman-points",
+     "grounds": "genitive of marman points",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śate",
+     "gloss": "in-hundred",
+     "grounds": "locative in hundred",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral two",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṛṣibhirguṇitā",
+     "gloss": "by-sages-multiplied",
+     "grounds": "compound of by sages multiplied",
+     "morph": "compound"
+    },
+    {
+     "surface": "diśaḥ",
+     "gloss": "directions",
+     "grounds": "noun directions",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "netrādikāṃśca",
+     "gloss": "eye-beginning-parts-and",
+     "grounds": "compound of eye beginning parts and",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃmārjya",
+     "gloss": "having-swept",
+     "grounds": "gerund having swept",
+     "morph": "gerund"
+    },
+    {
+     "surface": "mārgamadhyāt",
+     "gloss": "from-path-middle",
+     "grounds": "compound of from path middle",
+     "morph": "compound"
+    },
+    {
+     "surface": "suśobhane",
+     "gloss": "beautiful-one",
+     "grounds": "vocative beautiful one",
+     "morph": "voc.sg"
+    }
+   ],
+   "question": "How are marman points and directions multiplied?",
+   "premises": [
+    "two hundred marman points are named",
+    "sages multiply directions",
+    "eye-beginning parts are swept",
+    "from path middle is stated"
+   ],
+   "inference": "The verse describes multiplied marman points and directions.",
+   "uncertainties": [
+    "exact multiplication is unclear"
+   ],
+   "plain_english": "Two hundred marman points, directions multiplied by sages, and eye-beginning parts are swept from the path middle, O beautiful one."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "ṛṣitrayakṛte",
+     "gloss": "by-three-sages-made",
+     "grounds": "compound of by three sages made",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative in middle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viṣayaiḥ",
+     "gloss": "by-senses",
+     "grounds": "instrumental by senses",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karṇikā",
+     "gloss": "pericarp",
+     "grounds": "noun pericarp",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb becomes",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "netrīkṛtānvasūn",
+     "gloss": "eye-made-vasus",
+     "grounds": "compound of eye made vasus",
+     "morph": "compound"
+    },
+    {
+     "surface": "patraṃ",
+     "gloss": "petal",
+     "grounds": "noun petal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "noun eye",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sakṛdvibhājitam",
+     "gloss": "once-divided",
+     "grounds": "compound of once divided",
+     "morph": "compound"
+    }
+   ],
+   "question": "What becomes the pericarp and petal?",
+   "premises": [
+    "by three sages made in middle",
+    "by senses pericarp becomes",
+    "eye-made vasus are named",
+    "petal eye is once divided"
+   ],
+   "inference": "The verse describes pericarp and petal formation.",
+   "uncertainties": [
+    "exact division is unclear"
+   ],
+   "plain_english": "Made by three sages in the middle, by senses the pericarp becomes; eye-made vasus, petal, and eye are once divided."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "accusative fire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vasugataṃ",
+     "gloss": "vasu-going",
+     "grounds": "compound of vasu going",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund having made",
+     "morph": "gerund"
+    },
+    {
+     "surface": "śaśāṅkasthāṃśca",
+     "gloss": "moon-located-and",
+     "grounds": "compound of moon located and",
+     "morph": "compound"
+    },
+    {
+     "surface": "lopayet",
+     "gloss": "destroy",
+     "grounds": "verb destroy",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "vahnīṣuṛṣimadhyācca",
+     "gloss": "in-fires-sage-middle-and",
+     "grounds": "compound of in fires sage middle and",
+     "morph": "compound"
+    },
+    {
+     "surface": "lopyaṃ",
+     "gloss": "to-be-destroyed",
+     "grounds": "participle to be destroyed",
+     "morph": "pass.part"
+    },
+    {
+     "surface": "pīṭhendukāvadhi",
+     "gloss": "seat-moon-until",
+     "grounds": "compound of seat moon until",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which fire and moon points are destroyed?",
+   "premises": [
+    "fire vasu-going is made",
+    "moon-located points are destroyed",
+    "in fires sage middle is named",
+    "seat moon until is named"
+   ],
+   "inference": "The verse describes destruction of fire and moon points.",
+   "uncertainties": [
+    "exact endpoint is unclear"
+   ],
+   "plain_english": "Having made fire vasu-going, destroy moon-located points; in fires and sage middle, destroy up to seat and moon."
+  }
+ ]
+}

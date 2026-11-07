@@ -1,0 +1,401 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṇḍalinī",
+     "gloss": "kundalini",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "taraṅgākhyā",
+     "gloss": "called-wave",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahormiṇī",
+     "gloss": "great-wave-possessing",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaḍaśreṇa",
+     "gloss": "by-six-cornered",
+     "grounds": "token 8",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kandākhye",
+     "gloss": "in-kanda-called",
+     "grounds": "token 9",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "token 10",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "ṣaḍdevatātmikā",
+     "gloss": "six-deity-natured",
+     "grounds": "token 11",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess Kundalini described here?",
+   "premises": [
+    "Kundalini is called wave.",
+    "She is situated in kanda."
+   ],
+   "inference": "Kundalini is a six-deity-natured goddess in the six-cornered kanda.",
+   "uncertainties": [
+    "Exact ritual referent of kanda remains unspecified."
+   ],
+   "plain_english": "That goddess Kundalini, called wave and great-wave-possessing, is situated in the kanda called six-cornered and is six-deity-natured."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "aṣṭabhāgaiśca",
+     "gloss": "and-by-eight-parts",
+     "grounds": "token 1",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vistīrṇo",
+     "gloss": "spread-out",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīrghaścāpi",
+     "gloss": "and-long-also",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadardhataḥ",
+     "gloss": "from-half-of-that",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvārāṇi",
+     "gloss": "doors",
+     "grounds": "token 6",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kāryāṇi",
+     "gloss": "to-be-made",
+     "grounds": "token 7",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "citravartanayā",
+     "gloss": "by-variegated-turning",
+     "grounds": "token 8",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the doors be made in sequence?",
+   "premises": [
+    "The form is spread by eight parts.",
+    "Doors are made from half of that."
+   ],
+   "inference": "Doors should be made in order by variegated turning.",
+   "uncertainties": [
+    "The exact geometric object remains implicit."
+   ],
+   "plain_english": "Spread out and long by eight parts, from half of that; then doors should be made in order by variegated turning."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "vedāśrāyatarūpāṇi",
+     "gloss": "veda-resting-forms",
+     "grounds": "token 1",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yadivā",
+     "gloss": "or",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttamātrataḥ",
+     "gloss": "merely-circular",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spaṣṭaśṛṅgamatho",
+     "gloss": "and-clear-horned",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuryādyadivā",
+     "gloss": "one-should-make-or",
+     "grounds": "token 5",
+     "morph": "3.sg.act.opt.+root"
+    },
+    {
+     "surface": "vaiparītyataḥ",
+     "gloss": "in-reverse-order",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative forms may be made here?",
+   "premises": [
+    "Forms may rest on Vedas.",
+    "Forms may be merely circular."
+   ],
+   "inference": "One may make clear-horned forms or reverse-ordered forms.",
+   "uncertainties": [
+    "The referent of horn is not explicit."
+   ],
+   "plain_english": "Forms resting on the Vedas, or merely circular, or with clear horn, one should make, or in reverse order."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "unmukhaṃ",
+     "gloss": "upward-facing",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "candrayugmaṃ",
+     "gloss": "moon-pair",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaṅktvā",
+     "gloss": "having-broken",
+     "grounds": "token 4",
+     "morph": "gerund"
+    },
+    {
+     "surface": "kuryāccatuṣṭayam",
+     "gloss": "make-four",
+     "grounds": "token 5",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "kuṭilo",
+     "gloss": "crooked",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "in-middle",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spaṣṭo@dhomukhaḥ",
+     "gloss": "clear-downward-facing",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pārśvagaḥ",
+     "gloss": "side-situated",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "placed",
+     "grounds": "token 10",
+     "morph": "m.nom.sg.past-participle"
+    }
+   ],
+   "question": "How is the fourfold arrangement to be made?",
+   "premises": [
+    "One breaks upward-facing or moon-pair.",
+    "One makes four."
+   ],
+   "inference": "The arrangement has crooked middle, clear downward face, and side placement.",
+   "uncertainties": [
+    "The broken object is not fully specified."
+   ],
+   "plain_english": "Having broken the upward-facing or moon-pair, make four; crooked in the middle, clear downward-facing, situated at the side."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "uttāno@rdho@samaḥ",
+     "gloss": "upright-half-equal",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrṇaḥ",
+     "gloss": "full",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śliṣṭo",
+     "gloss": "joined",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "granthigatastathā",
+     "gloss": "and-knot-placed",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "candrasyetthaṃ",
+     "gloss": "of-moon-thus",
+     "grounds": "token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dvādaśadhā",
+     "gloss": "twelvefold",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartanā",
+     "gloss": "turning",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhramabhedinī",
+     "gloss": "delusion-breaking",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the moon's turning described here?",
+   "premises": [
+    "The moon's turning is twelvefold.",
+    "It is delusion-breaking."
+   ],
+   "inference": "The turning includes upright, full, joined, and knot-placed forms.",
+   "uncertainties": [
+    "The exact knot reference is unclear."
+   ],
+   "plain_english": "Upright, half-equal, full, joined, and knot-placed; thus the moon's turning is twelvefold and delusion-breaking."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "antarbahirmukhatvena",
+     "gloss": "by-inward-outward-facing",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punardvividhā",
+     "gloss": "again-twofold",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "token 4",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "tadbhedānmaṇḍalānāṃ",
+     "gloss": "from-those-divisions-of-circles",
+     "grounds": "token 5",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "syādasaṅkhyo",
+     "gloss": "would-be-countless",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhedavistaraḥ",
+     "gloss": "expansion-of-divisions",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the twofold division expand further?",
+   "premises": [
+    "She is considered twofold.",
+    "Circle divisions follow from those."
+   ],
+   "inference": "The expansion of divisions becomes countless.",
+   "uncertainties": [
+    "The exact circle system is not specified."
+   ],
+   "plain_english": "By inward and outward facing, she is again considered twofold; from those divisions of circles there would be countless expansion of divisions."
+  }
+ ]
+}

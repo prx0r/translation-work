@@ -1,0 +1,701 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "yathoktaḥ",
+     "gloss": "as-stated",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāraśāstre",
+     "gloss": "in-essence-treatise",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantrasadbhāvaguhyayoḥ",
+     "gloss": "of-tantra-existence-and-secrets",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradarśyate",
+     "gloss": "is-shown",
+     "grounds": "verse token",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "spaṣṭaṃ",
+     "gloss": "clearly",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadyapyuktakramādgataḥ",
+     "gloss": "though-from-stated-order",
+     "grounds": "verse token",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the stated order shown clearly?",
+   "premises": [
+    "The essence treatise states the matter.",
+    "The tantra's existence and secrets are involved.",
+    "The order is stated beforehand."
+   ],
+   "inference": "The procedure is shown clearly despite following the stated order.",
+   "uncertainties": [
+    "Exact referent of stated order is unclear."
+   ],
+   "plain_english": "As stated in the essence treatise, the existence and secrets of tantra are shown clearly, even though the order has been stated before."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "vedāśrite",
+     "gloss": "in-veda-supported",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "trihaste",
+     "gloss": "in-three-hands",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prāk",
+     "gloss": "first",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvamardha",
+     "gloss": "eastern-half",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhājayet",
+     "gloss": "one-should-divide",
+     "grounds": "verse token",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "hastārdhaṃ",
+     "gloss": "half-hand",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvatastyaktvā",
+     "gloss": "having-abandoned-everywhere",
+     "grounds": "verse token",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "pūrvodagyāmyadiggatam",
+     "gloss": "east-north-south-direction-gone",
+     "grounds": "verse token",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the eastern half be divided?",
+   "premises": [
+    "The support is veda-based.",
+    "Three hands are involved.",
+    "The eastern half is divided first."
+   ],
+   "inference": "After abandoning all sides, the measure proceeds east, north, and south.",
+   "uncertainties": [
+    "Technical hand-measure is ambiguous."
+   ],
+   "plain_english": "In the veda-supported three-hand measure, first divide the eastern half, abandoning all sides, toward east, north, and south."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "tryaṅgulaiḥ",
+     "gloss": "with-three-fingers",
+     "grounds": "verse token",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "koṣṭhakairūrdhvaistiryak",
+     "gloss": "with-upward-slanting-cells",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "cāṣṭadvidhātmakaiḥ",
+     "gloss": "and-eightfold-natured",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "verse token",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "verse token",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "bhāgau",
+     "gloss": "parts",
+     "grounds": "verse token",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "having-abandoned",
+     "grounds": "verse token",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "punardakṣiṇasaumyagau",
+     "gloss": "again-south-and-north-going",
+     "grounds": "verse token",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which parts are abandoned and where does one go?",
+   "premises": [
+    "Three-finger cells are used.",
+    "The cells are upward and slanting.",
+    "Two and two parts are abandoned."
+   ],
+   "inference": "After abandoning those parts, one proceeds south and north again.",
+   "uncertainties": [
+    "Cell geometry is not fully clear."
+   ],
+   "plain_english": "With three-finger upward slanting eightfold cells, abandon two and two parts, then proceed again south and north."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-brahma",
+     "grounds": "verse token",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārśvayorjīvāccaturthāt",
+     "gloss": "from-fourth-living-side",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvatastathā",
+     "gloss": "eastward-thus",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgārdhabhāgamānaṃ",
+     "gloss": "half-part-measure",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaṇḍacandradvayaṃ",
+     "gloss": "two-moon-segments",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What measure is taken from Brahma's side?",
+   "premises": [
+    "Brahma's side is involved.",
+    "The fourth living side is the starting point.",
+    "The measure is half-part."
+   ],
+   "inference": "Two moon-segment pairs are measured eastward from that side.",
+   "uncertainties": [
+    "Living side numbering is unclear."
+   ],
+   "plain_english": "From Brahma's side, from the fourth living side eastward, a half-part measure gives two moon-segment pairs."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "tayorantastṛtīye",
+     "gloss": "in-third-between-them",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇottarapārśvayoḥ",
+     "gloss": "of-south-and-north-sides",
+     "grounds": "verse token",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "jīve",
+     "gloss": "in-living",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "khaṇḍenduyugalaṃ",
+     "gloss": "pair-of-moon-segments",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryādantarbhramādbudhaḥ",
+     "gloss": "wise-one-should-make-inner-rotation",
+     "grounds": "verse token",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the wise one make the inner rotation?",
+   "premises": [
+    "The third between them is specified.",
+    "South and north sides are involved.",
+    "The living principle is present."
+   ],
+   "inference": "The wise one makes a pair of moon segments with inner rotation.",
+   "uncertainties": [
+    "Inner rotation direction is unspecified."
+   ],
+   "plain_english": "In the third between them, on the south and north sides, in the living principle, the wise one makes a pair of moon segments by inner rotation."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "tayoraparamarmasthaṃ",
+     "gloss": "located-in-farther-vital-point",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "khaṇḍendudvayakoṭigam",
+     "gloss": "reaching-two-moon-segment-tips",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahirmukhaṃ",
+     "gloss": "outward-facing",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhramaṃ",
+     "gloss": "rotation",
+     "grounds": "verse token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "verse token",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "khaṇḍacandradvayaṃ",
+     "gloss": "two-moon-segments",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What rotation should be made at the farther vital point?",
+   "premises": [
+    "The farther vital point is specified.",
+    "The tips of two moon segments are reached.",
+    "The rotation is outward-facing."
+   ],
+   "inference": "One makes an outward rotation and two moon-segment pairs.",
+   "uncertainties": [
+    "Vital point location is unclear."
+   ],
+   "plain_english": "At the farther vital point, reaching the tips of two moon segments, one makes an outward-facing rotation and two moon-segment pairs."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "tadvadbrahmaṇi",
+     "gloss": "similarly-in-brahma",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-do",
+     "grounds": "verse token",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhāgabhāgārdhasaṃmitam",
+     "gloss": "measure-of-part-and-half-part",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyabhāgānte",
+     "gloss": "at-end-of-second-part",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-brahma",
+     "grounds": "verse token",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārśvayordvayoḥ",
+     "gloss": "of-two-sides",
+     "grounds": "verse token",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What should be done similarly in Brahma?",
+   "premises": [
+    "Brahma is the locus.",
+    "The measure is part and half-part.",
+    "The second part's end is reached."
+   ],
+   "inference": "Similarly in Brahma, one does the part and half-part measure at the end of the second part on both sides.",
+   "uncertainties": [
+    "Exact side pairing is unclear."
+   ],
+   "plain_english": "Similarly in Brahma, one does the part and half-part measure, then at the end of the second part on both sides."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "verse token",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "rekhe",
+     "gloss": "lines",
+     "grounds": "verse token",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "pūrvage",
+     "gloss": "eastern-going",
+     "grounds": "verse token",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "neye",
+     "gloss": "to-be-led",
+     "grounds": "verse token",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "bhāgatryaṃśaśame",
+     "gloss": "in-third-part-equality",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise-ones",
+     "grounds": "verse token",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ekārdhendūrdhvakoṭisthaṃ",
+     "gloss": "at-tip-of-half-moon-above",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "brahmasūtrāgrasaṅgatam",
+     "gloss": "joined-to-brahma-thread-tip",
+     "grounds": "verse token",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the two eastern lines led?",
+   "premises": [
+    "Two lines are eastern-going.",
+    "Wise ones lead them.",
+    "They are joined to Brahma's thread tip."
+   ],
+   "inference": "The two eastern lines are led in third-part equality to the tip of the half-moon above and joined to Brahma's thread tip.",
+   "uncertainties": [
+    "Line placement is technical."
+   ],
+   "plain_english": "Two eastern-going lines are led by wise ones in third-part equality to the tip of the half-moon above, joined to Brahma's thread tip."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "sūtradvayaṃ",
+     "gloss": "two-threads",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-make",
+     "grounds": "verse token",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "madhyaśṛṅgaprasiddhaye",
+     "gloss": "for-middle-peak-establishment",
+     "grounds": "verse token",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "tadagrapārśvayorjīvāt",
+     "gloss": "from-living-side-of-that-tip",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūtramekāntare",
+     "gloss": "thread-in-one-interval",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhṛtam",
+     "gloss": "held",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Why are two threads made?",
+   "premises": [
+    "Two threads are made.",
+    "The purpose is middle peak establishment.",
+    "One thread is held in one interval."
+   ],
+   "inference": "Two threads are made for the middle peak, with one held in one interval from the living side of that tip.",
+   "uncertainties": [
+    "Interval count is unclear."
+   ],
+   "plain_english": "One should make two threads for establishing the middle peak; one thread is held in one interval from the living side of that tip."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "ādidvitīyakhaṇḍendukoṇāt",
+     "gloss": "from-corner-of-first-second-moon-segment",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "koṇāntamānayet",
+     "gloss": "one-should-bring-to-corner-end",
+     "grounds": "verse token",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tayorevāparājjīvāt",
+     "gloss": "from-living-side-of-those-farther",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "prathamārdhendukoṇataḥ",
+     "gloss": "from-corner-of-first-half-moon",
+     "grounds": "verse token",
+     "morph": "compound"
+    }
+   ],
+   "question": "From where should one bring to the corner end?",
+   "premises": [
+    "The first and second moon-segment corner is the start.",
+    "The farther living side is involved.",
+    "The first half-moon corner is also involved."
+   ],
+   "inference": "One brings to the corner end from the first and second moon-segment corner, and from the farther living side and first half-moon corner.",
+   "uncertainties": [
+    "Direction of bringing is unclear."
+   ],
+   "plain_english": "Bring to the corner end from the corner of the first and second moon segments, and from the farther living side and the corner of the first half-moon."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "tadvadeva",
+     "gloss": "just-so",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayetsūtraṃ",
+     "gloss": "one-should-lead-thread",
+     "grounds": "verse token",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śṛṅgadvitayasiddhaye",
+     "gloss": "for-two-peaks-establishment",
+     "grounds": "verse token",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "kṣetrārdhe",
+     "gloss": "in-field-half",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cāpare",
+     "gloss": "and-other",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "daṇḍo",
+     "gloss": "staff",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvikaraśchannapañcakaḥ",
+     "gloss": "two-hand-hidden-five",
+     "grounds": "verse token",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the thread led for two peaks?",
+   "premises": [
+    "The thread is led similarly.",
+    "The purpose is two peaks.",
+    "The field half is involved."
+   ],
+   "inference": "The thread is led similarly for two peaks, with a staff of two hands hidden five in the other field half.",
+   "uncertainties": [
+    "Staff measure is unclear."
+   ],
+   "plain_english": "Just so, lead the thread for establishing two peaks; in the other half of the field there is a staff of two hands, hidden five."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "ṣaḍvistṛtaṃ",
+     "gloss": "six-spread",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturdīrghaṃ",
+     "gloss": "four-long",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadadho@malasārakam",
+     "gloss": "below-that-impurity-essence",
+     "grounds": "verse token",
+     "morph": "compound"
+    },
+    {
+     "surface": "vedāṅgulaṃ",
+     "gloss": "veda-finger",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadadho",
+     "gloss": "below-that",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tīkṣṇāgramiṣyate",
+     "gloss": "sharp-tip-is-desired",
+     "grounds": "verse token",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is desired below the spread measure?",
+   "premises": [
+    "The measure is six spread and four long.",
+    "Below it is impurity essence.",
+    "Below that is the root."
+   ],
+   "inference": "A sharp tip is desired below the root, after the six-spread four-long measure and vedic finger.",
+   "uncertainties": [
+    "Impurity essence is unclear."
+   ],
+   "plain_english": "The six-spread four-long measure, with vedic finger below it and impurity essence, has its root below; a sharp tip is desired."
+  }
+ ]
+}

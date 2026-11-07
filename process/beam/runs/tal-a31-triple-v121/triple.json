@@ -1,0 +1,767 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "in-three-ways",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhajya",
+     "gloss": "having-divided",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "kramaśo",
+     "gloss": "gradually",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśāṅgulamānataḥ",
+     "gloss": "from-twelve-angula-measure",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kaṇṭhaṃ",
+     "gloss": "neck",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kapolaṃ",
+     "gloss": "cheek",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śobhāṃ",
+     "gloss": "beauty",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upaśobhāṃ",
+     "gloss": "ornament",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tadantataḥ",
+     "gloss": "at-its-end",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the twelve-angula measure be divided gradually?",
+   "premises": [
+    "The measure is divided in three ways.",
+    "Neck and cheek are named.",
+    "Beauty and ornament follow at the end."
+   ],
+   "inference": "The verse prescribes a graduated threefold division of the measure.",
+   "uncertainties": [
+    "Exact referent of tadantataḥ remains implicit."
+   ],
+   "plain_english": "Divide the twelve-angula measure gradually into three parts: neck, cheek, beauty, and ornament at the end."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "prākāraṃ",
+     "gloss": "wall",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sabhūrekhāsamanvitam",
+     "gloss": "with-lines",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sitaraktapītakṛṣṇai",
+     "gloss": "white-red-yellow-black",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "rajobhiḥ",
+     "gloss": "with-powders",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kārayettataḥ",
+     "gloss": "should-make-then",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What kind of wall should be made with colored powders?",
+   "premises": [
+    "The wall is square.",
+    "It is furnished with lines.",
+    "White red yellow and black powders are used."
+   ],
+   "inference": "The verse directs making a square lined wall with four colored powders.",
+   "uncertainties": [
+    "Whether tataḥ means after or then is context-dependent."
+   ],
+   "plain_english": "Then make a square wall furnished with lines, using white, red, yellow, and black powders."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "raktai",
+     "gloss": "with-red",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "rajobhirmadhyaṃ",
+     "gloss": "middle-with-powders",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāśobhaṃ",
+     "gloss": "as-beauty",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "should-fill",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "asyā",
+     "gloss": "of-this",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vyāptau",
+     "gloss": "in-pervasion",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "earlier",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "coktaṃ",
+     "gloss": "was-said",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatraivānusarecca",
+     "gloss": "should-follow-there",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the middle be filled and what should be followed?",
+   "premises": [
+    "The middle is filled with red powders.",
+    "Filling is as beauty.",
+    "Earlier teaching in pervasion is followed."
+   ],
+   "inference": "The verse instructs filling the middle with red powders and following the earlier teaching.",
+   "uncertainties": [
+    "asyā may refer to wall or mandala."
+   ],
+   "plain_english": "Fill the middle with red powders as befits beauty, and follow there what was said earlier about its pervasion."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "arātrayavibhāgastu",
+     "gloss": "night-day-division-but",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praveśo",
+     "gloss": "entry",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirgamo",
+     "gloss": "exit",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhramaḥ",
+     "gloss": "rotation",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anāhatapadavyāptiḥ",
+     "gloss": "anahata-place-pervasion",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṇḍalyā",
+     "gloss": "of-kundali",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "udayaḥ",
+     "gloss": "rise",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sequence of states is listed from division to supreme rise?",
+   "premises": [
+    "Night and day division is named.",
+    "Entry exit and rotation are named.",
+    "Anahata pervasion and kundali rise are named."
+   ],
+   "inference": "The verse lists stages from division through entry, exit, rotation, anahata pervasion, and supreme kundali rise.",
+   "uncertainties": [
+    "arātraya may be a compound with uncertain segmentation."
+   ],
+   "plain_english": "Night-day division, entry, exit, rotation, pervasion of the anahata place, and the supreme rise of kundali are listed."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devyastriśūlasya",
+     "gloss": "goddesses-of-trident",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sumadhyame",
+     "gloss": "in-middle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nābhisthaḥ",
+     "gloss": "navel-standing",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūladaṇḍastu",
+     "gloss": "trident-staff-but",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūlamūlaṃ",
+     "gloss": "trident-root",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "situated",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where are the trident goddesses, staff, and root located?",
+   "premises": [
+    "Goddesses of the trident are in heart place.",
+    "Trident staff stands at navel.",
+    "Trident root is situated in heart."
+   ],
+   "inference": "The verse maps trident elements to heart and navel locations.",
+   "uncertainties": [
+    "devyastriśūlasya segmentation is approximate."
+   ],
+   "plain_english": "The trident goddesses are in the heart place; the trident staff stands at the navel; the trident root is situated in the heart."
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "śaktisthānagataṃ",
+     "gloss": "shakti-place-gone",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāntaṃ",
+     "gloss": "end",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prānte",
+     "gloss": "at-end",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cakratrayaṃ",
+     "gloss": "three-wheels",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "utkṣipyotkṣipya",
+     "gloss": "lifting-lifting",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "kalayā",
+     "gloss": "by-kala",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "dehamadhyasvarūpataḥ",
+     "gloss": "from-body-middle-form",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be remembered at the end and how?",
+   "premises": [
+    "Shakti-place end is named.",
+    "Three wheels are remembered at end.",
+    "Lifting occurs by kala from body-middle form."
+   ],
+   "inference": "The verse instructs remembering three wheels at the end while lifting by kala.",
+   "uncertainties": [
+    "kalayā may mean by a small part or by kala."
+   ],
+   "plain_english": "Remember the three wheels at the end, lifting repeatedly by kala from the form of the body's middle."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "śūladaṇḍāntamadhyasthaśūlamadhyāntagocaram",
+     "gloss": "trident-staff-end-middle-situated-trident-middle-end-range",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "praviśenmūlamadhyāntaṃ",
+     "gloss": "should-enter-root-middle-end",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "prāntānte",
+     "gloss": "at-end-end",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaktiveśmani",
+     "gloss": "in-shakti-abode",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should one enter after traversing trident ranges?",
+   "premises": [
+    "Trident staff end and middle ranges are named.",
+    "One enters root middle and end.",
+    "Shakti abode is at the final end."
+   ],
+   "inference": "The verse directs entry through root, middle, and end into the shakti abode.",
+   "uncertainties": [
+    "The long compound segmentation is approximate."
+   ],
+   "plain_english": "Having traversed the trident staff and trident middle-end ranges, enter root, middle, and end into the shakti abode at the final end."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "aspandakaraṇaṃ",
+     "gloss": "non-pulsation-making",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ekadā",
+     "gloss": "once",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spandavartanam",
+     "gloss": "pulsation-turning",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūlamānandamāpīḍya",
+     "gloss": "pressing-root-bliss",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "śaktitrayapadaṃ",
+     "gloss": "shakti-triad-place",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viśet",
+     "gloss": "should-enter",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What practice leads to entering the shakti triad place?",
+   "premises": [
+    "Non-pulsation is made first.",
+    "Pulsation turning occurs once.",
+    "Root bliss is pressed."
+   ],
+   "inference": "The verse prescribes non-pulsation, pulsation turning, and pressing root bliss before entering the shakti triad place.",
+   "uncertainties": [
+    "aspandakaraṇaṃ may mean making stillness."
+   ],
+   "plain_english": "After making non-pulsation, once turning pulsation and pressing root bliss, one should enter the place of the three shaktis."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjyaṃ",
+     "gloss": "worship",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "present",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "sarvasiddhayaḥ",
+     "gloss": "all-siddhis",
+     "grounds": "nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "samastādhvasamāyogāt",
+     "gloss": "from-all-path-union",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ṣoḍhādhvavyāptibhāvataḥ",
+     "gloss": "from-sixfold-path-pervasion",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What arises from worship and path union there?",
+   "premises": [
+    "Worship is done with effort.",
+    "All siddhis arise.",
+    "They arise from all-path union and sixfold-path pervasion."
+   ],
+   "inference": "The verse states that all siddhis arise from worship, path union, and sixfold path pervasion.",
+   "uncertainties": [
+    "ṣoḍhādhva may mean six paths or sixfold way."
+   ],
+   "plain_english": "There, with effortful worship, all siddhis arise from union of all paths and from sixfold path pervasion."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "samastamantracakrādyairevamādiprayatnataḥ",
+     "gloss": "with-all-mantra-wheels-effort",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ṣaṭtriṃśattattvaracitaṃ",
+     "gloss": "thirty-six-tattva-made",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paribhāvayet",
+     "gloss": "should-contemplate",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the thirty-six-tattva trident be contemplated?",
+   "premises": [
+    "All mantra wheels and effort are involved.",
+    "The trident is made of thirty-six tattvas.",
+    "One should contemplate it."
+   ],
+   "inference": "The verse instructs contemplating the thirty-six-tattva trident with mantra-wheel effort.",
+   "uncertainties": [
+    "samastamantracakrādyairevamādiprayatnataḥ is a long compound."
+   ],
+   "plain_english": "With effort of all mantra wheels and so on, one should contemplate the trident made of thirty-six tattvas."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "viṣuvatsthena",
+     "gloss": "at-equinox",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vinyāso",
+     "gloss": "placement",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "maṇḍalottame",
+     "gloss": "in-supreme-mandala",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāryo@smin",
+     "gloss": "should-be-done-in-this",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūjite",
+     "gloss": "when-worshipped",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveśvarapadaṃ",
+     "gloss": "all-lord-place",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "should-attain",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should mantra placement be done and what is attained?",
+   "premises": [
+    "Placement is at equinox.",
+    "Mantras are placed in supreme mandala.",
+    "All-lord place is attained when worshipped."
+   ],
+   "inference": "The verse links equinox mantra placement in the supreme mandala with attainment of the all-lord place.",
+   "uncertainties": [
+    "kāryo@smin may be a sandhi form."
+   ],
+   "plain_english": "At equinox, place the mantras in the supreme mandala; when this is worshipped, one attains the place of the all-lord."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "svastikenātha",
+     "gloss": "with-svastika-lord",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "fitting",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasyocyate",
+     "gloss": "its-is-said",
+     "grounds": "present",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāḍikāḥ",
+     "gloss": "channels",
+     "grounds": "accusative",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "sthāpayetpūrvaṃ",
+     "gloss": "should-place-first",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "muhūrtaṃ",
+     "gloss": "muhurta",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parimāṇataḥ",
+     "gloss": "by-measure",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done with svastika and channels?",
+   "premises": [
+    "Fitting action is done with svastika.",
+    "Its rite is stated.",
+    "Channels are placed first by measure."
+   ],
+   "inference": "The verse prescribes fitting svastika action and placing channels first according to measure.",
+   "uncertainties": [
+    "svastikenātha may mean with svastika, O lord."
+   ],
+   "plain_english": "With svastika the fitting rite is to be done; place the channels first, according to muhurta measure."
+  }
+ ]
+}

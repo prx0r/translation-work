@@ -1,0 +1,791 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kālāntakā",
+     "gloss": "time-ending",
+     "grounds": "compound sense",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parātītā",
+     "gloss": "beyond-supreme",
+     "grounds": "compound sense",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyavasthitā",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "grasate",
+     "gloss": "devours",
+     "grounds": "verb sense",
+     "morph": "3.sg.act-pres+gras"
+    },
+    {
+     "surface": "śūlacakraṃ",
+     "gloss": "trident-wheel",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvicchāmātreṇa",
+     "gloss": "by-will-alone",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the goddess beyond time devour the trident wheel?",
+   "premises": [
+    "The goddess is beyond supreme time",
+    "She devours the trident wheel",
+    "She acts by will alone"
+   ],
+   "inference": "Divine will alone consumes the cosmic trident wheel",
+   "uncertainties": [
+    "Exact referent of trident wheel"
+   ],
+   "plain_english": "That goddess, beyond supreme time, established as time's end, always devours the trident wheel by mere will."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "śāntirūpā",
+     "gloss": "peace-form",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "power",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hyeṣā",
+     "gloss": "indeed-this",
+     "grounds": "particle+pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyārūpā",
+     "gloss": "knowledge-form",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+bhū"
+    },
+    {
+     "surface": "aparā",
+     "gloss": "lower",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "foundation",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syānnivṛttistu",
+     "gloss": "cessation-indeed",
+     "grounds": "verb+particle",
+     "morph": "3.sg.act-opt+as"
+    },
+    {
+     "surface": "parāparā",
+     "gloss": "supreme-lower",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How do peace, knowledge, foundation, and cessation relate as powers?",
+   "premises": [
+    "One power is peace-form",
+    "One power is knowledge-form",
+    "Foundation and cessation are lower or mixed"
+   ],
+   "inference": "The powers form a graded series from supreme to lower",
+   "uncertainties": [
+    "Exact mapping of parāparā"
+   ],
+   "plain_english": "This power is peace-form and knowledge-form supreme; but foundation is lower, and cessation is both supreme and lower."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "adjective/noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daṇḍa",
+     "gloss": "staff",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ūrdhvasthaṃ",
+     "gloss": "upward-standing",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sādāśivātmakam",
+     "gloss": "sada-shiva-natured",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "catasraḥ",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śaktayastvasya",
+     "gloss": "powers-of-it",
+     "grounds": "noun+pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sthūlāḥ",
+     "gloss": "gross",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sūkṣmāstvanekadhā",
+     "gloss": "subtle-in-many-ways",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What form and powers belong to the Bhairava staff?",
+   "premises": [
+    "The staff is upward-standing Bhairava form",
+    "Its nature is Sada-Shiva",
+    "It has four gross and subtle powers"
+   ],
+   "inference": "The Bhairava staff embodies Sada-Shiva with multiple powers",
+   "uncertainties": [
+    "Exact four powers"
+   ],
+   "plain_english": "The upward-standing Bhairava staff has Sada-Shiva nature; its four powers are gross and subtle in many ways."
+  },
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāgaḥ",
+     "gloss": "sacrifice",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samākhyāto",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ḍāmarākhyastriśaktikaḥ",
+     "gloss": "damara-named-three-powered",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "traiśirase",
+     "gloss": "in-trishira",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śūlābjavidhirdṛṣṭo@bhilikhyate",
+     "gloss": "trident-lotus-rite-described-written",
+     "grounds": "compound verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What sacrifice is named Damara and what rite follows?",
+   "premises": [
+    "This sacrifice is called Damara",
+    "It is three-powered",
+    "Then the trident-lotus rite is described"
+   ],
+   "inference": "The Damara sacrifice precedes the trident-lotus rite",
+   "uncertainties": [
+    "Meaning of trishira"
+   ],
+   "plain_english": "This sacrifice is called the Damara three-powered sacrifice; then the trident-lotus rite is described in Trishira."
+  },
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "vāmāmṛtādibhirmukhyaiḥ",
+     "gloss": "with-left-nectar-etc-principal",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pavitraiḥ",
+     "gloss": "with-purifiers",
+     "grounds": "adjective",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sumanoramaiḥ",
+     "gloss": "with-pleasing",
+     "grounds": "adjective",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhūmiṃ",
+     "gloss": "ground",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rajāṃsi",
+     "gloss": "dusts",
+     "grounds": "noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "karaṇīṃ",
+     "gloss": "instrument",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "khaṭikāṃ",
+     "gloss": "chalk",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mūlato@rcayet",
+     "gloss": "from-root-worship",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+arc"
+    }
+   ],
+   "question": "With what materials should the ground be worshipped from the root?",
+   "premises": [
+    "Principal purifiers include left nectar",
+    "The ground and dust are prepared",
+    "Chalk and instrument are used"
+   ],
+   "inference": "Worship begins from the root with purified materials",
+   "uncertainties": [
+    "Exact ritual sequence"
+   ],
+   "plain_english": "With principal purifiers such as left nectar, pleasing and purifying, worship the ground, dust, instrument, and chalk from the root."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "caturaśre",
+     "gloss": "in-square",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caturhaste",
+     "gloss": "four-cubits",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karatrayam",
+     "gloss": "three-hands",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caṇḍo",
+     "gloss": "fierce",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvihasta",
+     "gloss": "two-cubits",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ūrdhvādhaḥpīṭhayugvipulastvasau",
+     "gloss": "up-down-seat-pair-large-indeed",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the trident placed in the square ritual space?",
+   "premises": [
+    "The space is square and four cubits",
+    "The trident stands in the middle",
+    "It has three hands and fierce form"
+   ],
+   "inference": "The trident is centrally placed with measured dimensions",
+   "uncertainties": [
+    "Exact seat pair meaning"
+   ],
+   "plain_english": "In a square four-cubit space, place the trident in the middle; it has three hands, fierce form, two cubits, and a large up-down seat pair."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "vasvaṅgulaḥ",
+     "gloss": "eight-fingers",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakartavyaḥ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūtratrayasamanvitaḥ",
+     "gloss": "with-three-threads",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśāṅgulamānena",
+     "gloss": "by-twelve-finger-measure",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "daṇḍamūle",
+     "gloss": "at-staff-root",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhikā",
+     "gloss": "seat",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What measurements govern the staff and its seat?",
+   "premises": [
+    "The staff is eight fingers",
+    "It includes three threads",
+    "The seat is twelve fingers at the root"
+   ],
+   "inference": "The staff and seat follow specified finger measures",
+   "uncertainties": [
+    "Relation of eight and twelve fingers"
+   ],
+   "plain_english": "The staff, eight fingers and with three threads, is to be made; at the staff root, the seat is twelve fingers."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "dairghyāttūcchrāyāccordhve",
+     "gloss": "from-length-and-height-upward",
+     "grounds": "compound ablative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaṅgulamānataḥ",
+     "gloss": "by-four-finger-measure",
+     "grounds": "compound ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ūrdhve@pyucchrāyato",
+     "gloss": "upward-from-height",
+     "grounds": "compound ablative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṅgulā",
+     "gloss": "four-fingers",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dairghyāddaśāṅgulā",
+     "gloss": "from-length-ten-fingers",
+     "grounds": "compound ablative",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What upward and length measures apply here?",
+   "premises": [
+    "Upward measure is four fingers",
+    "Height measure is four fingers",
+    "Length measure is ten fingers"
+   ],
+   "inference": "The rite specifies distinct vertical and horizontal measures",
+   "uncertainties": [
+    "Exact grammatical parsing"
+   ],
+   "plain_english": "Upward from length and height, by four-finger measure; upward from height, four fingers; from length, ten fingers."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "śūlamūlagataṃ",
+     "gloss": "trident-root-gone",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīṭhīmadhyaṃ",
+     "gloss": "seat-middle",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "khābdhisamāṅgulam",
+     "gloss": "space-ocean-equal-fingers",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhirbhāgaiḥ",
+     "gloss": "with-three-parts",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samantataḥ",
+     "gloss": "all-around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the trident root seat measured and divided?",
+   "premises": [
+    "The trident root seat is measured",
+    "The staff is made as trident",
+    "It is divided into three parts all around"
+   ],
+   "inference": "The trident root seat and staff are proportioned in three parts",
+   "uncertainties": [
+    "Meaning of space-ocean-equal"
+   ],
+   "plain_english": "Having made the trident-root seat in the middle measured by space-ocean-equal fingers, make the staff a trident divided into three parts all around."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "aṣṭāṅgulapramāṇaiḥ",
+     "gloss": "by-eight-finger-measure",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "syāddhastamātraṃ",
+     "gloss": "would-be-hand-measure",
+     "grounds": "verb+compound",
+     "morph": "3.sg.act-opt+as"
+    },
+    {
+     "surface": "samantataḥ",
+     "gloss": "all-around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlāgraṃ",
+     "gloss": "trident-tip",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śūlamadhyaṃ",
+     "gloss": "trident-middle",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tacchūlamūlaṃ",
+     "gloss": "that-trident-root",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbhavet",
+     "gloss": "that-becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+bhū"
+    }
+   ],
+   "question": "What measures apply to tip, middle, and root of the trident?",
+   "premises": [
+    "Eight-finger measure applies all around",
+    "The tip is hand-measure",
+    "The middle and root follow accordingly"
+   ],
+   "inference": "The trident parts are measured from tip to root",
+   "uncertainties": [
+    "Exact hand measure"
+   ],
+   "plain_english": "By eight-finger measure all around, the trident tip would be hand-measure; the middle and root become accordingly."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "vedī",
+     "gloss": "altar",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakartavyā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ubhayośca",
+     "gloss": "and-of-both",
+     "grounds": "pronoun+particle",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ṣaḍaṅgulam",
+     "gloss": "six-fingers",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvādaśāṅguladīrghā",
+     "gloss": "twelve-fingers-long",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "of-both",
+     "grounds": "pronoun",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "pārśvayostathā",
+     "gloss": "at-sides-thus",
+     "grounds": "compound locative",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "How is the altar made in the middle and at both sides?",
+   "premises": [
+    "The altar is made in the middle",
+    "Both sides are six fingers",
+    "Both sides are twelve fingers long"
+   ],
+   "inference": "The altar has specified middle and side dimensions",
+   "uncertainties": [
+    "Relation of six and twelve fingers"
+   ],
+   "plain_english": "The altar is to be made in the middle; at both sides it is six fingers and twelve fingers long."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "caturaṅgulamucchrāyānmūle",
+     "gloss": "from-four-finger-height-at-root",
+     "grounds": "compound ablative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedīṃ",
+     "gloss": "altar",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+prakḷp"
+    },
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "of-both",
+     "grounds": "pronoun",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "pārśvayoścaivamardhacandrākṛtiṃ",
+     "gloss": "at-sides-thus-half-moon-shaped",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the altar be arranged at both sides?",
+   "premises": [
+    "The altar is arranged from four-finger height at root",
+    "Both sides are thus shaped",
+    "The shape is half-moon"
+   ],
+   "inference": "The altar sides are arranged in a half-moon form",
+   "uncertainties": [
+    "Exact height relation"
+   ],
+   "plain_english": "From four-finger height at the root, arrange the altar; at both sides it is thus half-moon shaped."
+  }
+ ]
+}

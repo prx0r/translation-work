@@ -1,0 +1,701 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "pīṭhavīthībahiarbhūmikaṇṭhakarṇakapolataḥ",
+     "gloss": "from-throne-path-many-ground-throat-ear-cheek",
+     "grounds": "verse 37 token 1",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "śobhopaśobhāsaṃbhedādguṇarekhāvikalpataḥ",
+     "gloss": "from-beauty-adornment-blending-line-variation",
+     "grounds": "verse 37 token 2",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "How do beauty and adornment blending produce line variation?",
+   "premises": [
+    "Beauty and adornment blend together.",
+    "Line variation arises from that blending."
+   ],
+   "inference": "The mandala's decorative lines vary through blended beauty and adornment.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The mandala's lines vary through the blending of beauty and adornment."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "svastikadvitayādyaṣṭatayāparyantabhedataḥ",
+     "gloss": "from-difference-swastika-pair-eightfold-end",
+     "grounds": "verse 38 token 1",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "bhāvābhāvavikalpena",
+     "gloss": "by-existence-nonexistence-variation",
+     "grounds": "verse 38 token 2",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "maṇḍalānāmanantatā",
+     "gloss": "infinity-of-circles",
+     "grounds": "verse 38 token 3",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "How does existence and nonexistence variation yield infinite circles?",
+   "premises": [
+    "Circles differ from swastika pairs to eightfold forms.",
+    "Existence and nonexistence variation expands them."
+   ],
+   "inference": "The circles become innumerable through existence and nonexistence variation.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The circles become countless through variations of existence and nonexistence."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "verse 39 token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rajāṃsi",
+     "gloss": "powders",
+     "grounds": "verse 39 token 2",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "deyāni",
+     "gloss": "to-be-given",
+     "grounds": "verse 39 token 3",
+     "morph": "verb 3.pl.pass-fut"
+    },
+    {
+     "surface": "yathāśobhānusārataḥ",
+     "gloss": "according-to-beauty",
+     "grounds": "verse 39 token 4",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "sindūraṃ",
+     "gloss": "vermilion",
+     "grounds": "verse 39 token 5",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rājavartaṃ",
+     "gloss": "lapis",
+     "grounds": "verse 39 token 6",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 39 token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "khaṭikā",
+     "gloss": "chalk",
+     "grounds": "verse 39 token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 39 token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sitottamā",
+     "gloss": "white-best",
+     "grounds": "verse 39 token 10",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "Which powders are given according to beauty?",
+   "premises": [
+    "Powders are to be given.",
+    "They follow beauty."
+   ],
+   "inference": "Vermilion, lapis, and white chalk are given according to beauty.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "Then powders are given according to beauty: vermilion, lapis, and white chalk."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "uttamāni",
+     "gloss": "excellent",
+     "grounds": "verse 40 token 1",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "rajāṃsīha",
+     "gloss": "powders-here",
+     "grounds": "verse 40 token 2",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "devatātrayayogataḥ",
+     "gloss": "by-three-deity-union",
+     "grounds": "verse 40 token 3",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "verse 40 token 4",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "candrasamaprakhyā",
+     "gloss": "moon-like",
+     "grounds": "verse 40 token 5",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "raktā",
+     "gloss": "red",
+     "grounds": "verse 40 token 6",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "verse 40 token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parāparā",
+     "gloss": "supreme-and-inferior",
+     "grounds": "verse 40 token 8",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "How do excellent powders relate to the three deities?",
+   "premises": [
+    "Excellent powders are present here.",
+    "They arise through three-deity union."
+   ],
+   "inference": "The powders correspond to supreme, moon-like, red, and supreme-inferior goddess forms.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "Excellent powders here arise through union of three deities."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "aparā",
+     "gloss": "inferior",
+     "grounds": "verse 41 token 1",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 41 token 2",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "verse 41 token 3",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "Kali",
+     "grounds": "verse 41 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhīṣaṇā",
+     "gloss": "terrifying",
+     "grounds": "verse 41 token 5",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "caṇḍayoginī",
+     "gloss": "fierce-yogini",
+     "grounds": "verse 41 token 6",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "dṛṣṭvaitanmaṇḍalaṃ",
+     "gloss": "seeing-this-circle",
+     "grounds": "verse 41 token 7",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "devyaḥ",
+     "gloss": "goddesses",
+     "grounds": "verse 41 token 8",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "verse 41 token 9",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "nṛtyanti",
+     "gloss": "dance",
+     "grounds": "verse 41 token 10",
+     "morph": "verb 3.pl.act-pres"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "verse 41 token 11",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What happens when goddesses see this circle?",
+   "premises": [
+    "Goddesses see this circle.",
+    "They dance always."
+   ],
+   "inference": "All goddesses dance always upon seeing this circle.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "All goddesses dance always when they see this circle."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "anarcite@pyadīkṣeṇa",
+     "gloss": "even-unworshipped-by-initiation",
+     "grounds": "verse 42 token 1",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "dṛṣṭe",
+     "gloss": "seen",
+     "grounds": "verse 42 token 2",
+     "morph": "verb (indecl.)"
+    },
+    {
+     "surface": "dīkṣyeta",
+     "gloss": "one-is-initiated",
+     "grounds": "verse 42 token 3",
+     "morph": "verb 3.sg.pass-opt"
+    },
+    {
+     "surface": "mātṛbhiḥ",
+     "gloss": "by-mothers",
+     "grounds": "verse 42 token 4",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kiṃvātibahunoktena",
+     "gloss": "why-say-much",
+     "grounds": "verse 42 token 5",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "tritriśūlārasaptakāḥ",
+     "gloss": "three-three-trident-seven",
+     "grounds": "verse 42 token 6",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "How can one be initiated by seeing the circle?",
+   "premises": [
+    "Even unworshipped initiation is possible.",
+    "Seeing the circle initiates one."
+   ],
+   "inference": "The mothers initiate one merely by seeing the circle.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "Even without worship, seeing the circle initiates one through the mothers."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "śūlayāgāḥ",
+     "gloss": "trident-rites",
+     "grounds": "verse 43 token 1",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "verse 43 token 2",
+     "morph": "num"
+    },
+    {
+     "surface": "sahasrāṇyevaṃ",
+     "gloss": "thousands-thus",
+     "grounds": "verse 43 token 3",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "sārdhaśatadvayam",
+     "gloss": "one-hundred-fifty",
+     "grounds": "verse 43 token 4",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "verse 43 token 5",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 43 token 6",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "verse 43 token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "verse 43 token 8",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "verse 43 token 9",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṇavāhā",
+     "gloss": "breath-bearing",
+     "grounds": "verse 43 token 10",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "vyavasthitā",
+     "gloss": "established",
+     "grounds": "verse 43 token 11",
+     "morph": "verb (indecl.)"
+    }
+   ],
+   "question": "What is the supreme power established as breath-bearing?",
+   "premises": [
+    "Trident rites number thousands.",
+    "The supreme goddess power is breath-bearing."
+   ],
+   "inference": "The supreme goddess power is established as breath-bearing among trident rites.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "The supreme goddess power is established as breath-bearing among the trident rites."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "viśvāntaḥ",
+     "gloss": "world-within",
+     "grounds": "verse 44 token 1",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "kuṇḍalākārā",
+     "gloss": "coil-shaped",
+     "grounds": "verse 44 token 2",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 44 token 3",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "sākṣādatra",
+     "gloss": "directly-here",
+     "grounds": "verse 44 token 4",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "vartitā",
+     "gloss": "situated",
+     "grounds": "verse 44 token 5",
+     "morph": "verb (indecl.)"
+    },
+    {
+     "surface": "tattvāni",
+     "gloss": "principles",
+     "grounds": "verse 44 token 6",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tattvadevyaśca",
+     "gloss": "principle-goddesses-and",
+     "grounds": "verse 44 token 7",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "viśvamasminpratiṣṭhitam",
+     "gloss": "world-in-this-established",
+     "grounds": "verse 44 token 8",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "How is the world established in this coil?",
+   "premises": [
+    "The coil is situated directly here.",
+    "Principles and principle-goddesses are present."
+   ],
+   "inference": "The world is established in this coil through principles and their goddesses.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "The world is established in this coil through principles and their goddesses."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "atrordhve",
+     "gloss": "above-here",
+     "grounds": "verse 45 token 1",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "tantumātreṇa",
+     "gloss": "by-thread-only",
+     "grounds": "verse 45 token 2",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "tisraḥ",
+     "gloss": "three",
+     "grounds": "verse 45 token 3",
+     "morph": "num"
+    },
+    {
+     "surface": "śūlāragāḥ",
+     "gloss": "trident-piercing",
+     "grounds": "verse 45 token 4",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "verse 45 token 5",
+     "morph": "verb (indecl.)"
+    },
+    {
+     "surface": "āsanatvena",
+     "gloss": "as-seat",
+     "grounds": "verse 45 token 6",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "cecchādyā",
+     "gloss": "will-etc",
+     "grounds": "verse 45 token 7",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "bhogamokṣaprasādhikāḥ",
+     "gloss": "enjoyment-liberation-accomplishing",
+     "grounds": "verse 45 token 8",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "What three trident-piercing powers sit above as seat?",
+   "premises": [
+    "Three trident-piercing powers are situated above.",
+    "They accomplish enjoyment and liberation."
+   ],
+   "inference": "The three powers above serve as seat for will and accomplish enjoyment and liberation.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "Three trident-piercing powers sit above as seat, accomplishing enjoyment and liberation."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "tāstu",
+     "gloss": "those-indeed",
+     "grounds": "verse 46 token 1",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "mokṣaikakāmasya",
+     "gloss": "of-one-desiring-liberation-only",
+     "grounds": "verse 46 token 2",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "śūlārāviddhamadhyakāḥ",
+     "gloss": "trident-pierced-middle",
+     "grounds": "verse 46 token 3",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "tasmādenaṃ",
+     "gloss": "therefore-this",
+     "grounds": "verse 46 token 4",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "mahāyāgaṃ",
+     "gloss": "great-rite",
+     "grounds": "verse 46 token 5",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "mahāvibhavavistaraiḥ",
+     "gloss": "with-great-splendor-expanses",
+     "grounds": "verse 46 token 6",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "How should one desiring liberation worship the great rite?",
+   "premises": [
+    "Those desiring liberation only are addressed.",
+    "The great rite is worshipped with splendor."
+   ],
+   "inference": "One desiring liberation worships the great rite with great splendor.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "Therefore one desiring liberation worships this great rite with great splendor."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "pūjayedbhūtikāmo",
+     "gloss": "worship-desiring-prosperity",
+     "grounds": "verse 47 token 1",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "verse 47 token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mokṣakāmo@pivā",
+     "gloss": "or-desiring-liberation",
+     "grounds": "verse 47 token 3",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "verse 47 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "verse 47 token 5",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "darśanamātreṇa",
+     "gloss": "by-merely-seeing",
+     "grounds": "verse 47 token 6",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "bhūtavetālaguhyakāḥ",
+     "gloss": "spirits-vetalas-guhyakas",
+     "grounds": "verse 47 token 7",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "What flees by merely seeing this circle?",
+   "premises": [
+    "The wise one worships for prosperity or liberation.",
+    "Merely seeing this circle affects spirits."
+   ],
+   "inference": "Spirits, vetalas, and guhyakas flee by merely seeing this circle.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "By merely seeing this circle, spirits, vetalas, and guhyakas flee."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "palāyante",
+     "gloss": "flee",
+     "grounds": "verse 48 token 1",
+     "morph": "verb 3.pl.act-pres"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "verse 48 token 2",
+     "morph": "num"
+    },
+    {
+     "surface": "diśaḥ",
+     "gloss": "directions",
+     "grounds": "verse 48 token 3",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "Shiva",
+     "grounds": "verse 48 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sākṣātprasīdati",
+     "gloss": "directly-pleased",
+     "grounds": "verse 48 token 5",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "mandaśaktibalāviddho@pyetanmaṇḍalapūjanāt",
+     "gloss": "even-weak-power-pierced-by-this-circle-worship",
+     "grounds": "verse 48 token 6",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "What happens to Shiva through worship of this circle?",
+   "premises": [
+    "Spirits flee in ten directions.",
+    "Shiva is directly pleased."
+   ],
+   "inference": "Even one weak in power pleases Shiva directly through worship of this circle.",
+   "uncertainties": [
+    "translation approximate"
+   ],
+   "plain_english": "Even one weak in power pleases Shiva directly through worship of this circle."
+  }
+ ]
+}
