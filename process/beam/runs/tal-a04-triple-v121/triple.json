@@ -1,0 +1,815 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "yojyate",
+     "gloss": "is-joined",
+     "grounds": "verb root yuj passive",
+     "morph": "3.sg.pass-pres+yuj"
+    },
+    {
+     "surface": "brahmasaddhāmni",
+     "gloss": "in-brahma-true-abode",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pūjopakaraṇaṃ",
+     "gloss": "worship-instrument",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhinnasya",
+     "gloss": "of-separated",
+     "grounds": "genitive participle",
+     "morph": "gen.sg.m/n"
+    },
+    {
+     "surface": "bhāvaughasyāpi",
+     "gloss": "even-of-being-mass",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "saṃgatiḥ",
+     "gloss": "union",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How is worship joined to brahman's true abode?",
+   "premises": [
+    "worship instrument is joined to brahman",
+    "union names separated beings"
+   ],
+   "inference": "worship unites separated beings with brahman",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Worship is joined to brahman's true abode; indeed that worship is the union of separated beings."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "svatantravimalānantabhairavīyacidātmanā",
+     "gloss": "by-self-dependent-pure-infinite-bhairavi-consciousness-self",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tathāhi",
+     "gloss": "thus-indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvideveyamantarbāhyobhayātmanā",
+     "gloss": "consciousness-this-inner-outer-both-self",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.f"
+    }
+   ],
+   "question": "How does consciousness appear as inner and outer self?",
+   "premises": [
+    "self-dependent pure consciousness is bhairavi",
+    "consciousness is inner and outer"
+   ],
+   "inference": "consciousness itself is both inner and outer self",
+   "uncertainties": [
+    "long compound gloss simplified"
+   ],
+   "plain_english": "Thus indeed by self-dependent pure infinite bhairavi consciousness, this consciousness is both inner and outer self."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "svātantryādvartamānaiva",
+     "gloss": "from-freedom-present-itself",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "parāmarśasvarūpiṇī",
+     "gloss": "reflective-awareness-nature",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśadhā",
+     "gloss": "in-twelve-ways",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamantarbhavedyataḥ",
+     "gloss": "all-is-included-because",
+     "grounds": "verb compound",
+     "morph": "3.sg.opt-pres+antarbhū"
+    }
+   ],
+   "question": "Why does all become included in twelvefold awareness?",
+   "premises": [
+    "freedom makes present reflective awareness",
+    "that awareness is twelvefold"
+   ],
+   "inference": "all is included there because awareness is twelvefold",
+   "uncertainties": [
+    "optative sense"
+   ],
+   "plain_english": "From freedom, present reflective awareness itself is that; and all is included there in twelve ways."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "sūrya",
+     "gloss": "sun",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "somātmā",
+     "gloss": "moon-self",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvamayaḥ",
+     "gloss": "all-pervading",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kalādvādaśakātmaiva",
+     "gloss": "twelve-phase-self-indeed",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tatsaṃvitparamārthataḥ",
+     "gloss": "that-consciousness-ultimate-truth",
+     "grounds": "compound",
+     "morph": "abl.sg.f"
+    }
+   ],
+   "question": "How is the sun established as twelve-phase consciousness?",
+   "premises": [
+    "sun is moon-self",
+    "it is all-pervading and established"
+   ],
+   "inference": "it is twelve-phase consciousness in ultimate truth",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "The sun indeed is moon-self; that all-pervading established one is twelve-phase self, that consciousness in ultimate truth."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātari",
+     "gloss": "in-mother",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "vijñāne",
+     "gloss": "in-knowledge",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "māne",
+     "gloss": "in-measure",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "karaṇagocare",
+     "gloss": "in-instrument-range",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "meye",
+     "gloss": "in-object",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caturvidhaṃ",
+     "gloss": "fourfold",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhāti",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+bhā"
+    },
+    {
+     "surface": "rūpamāśritya",
+     "gloss": "taking-form",
+     "grounds": "absolutive compound",
+     "morph": "abs+āśri"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does consciousness shine fourfold in mother knowledge?",
+   "premises": [
+    "that shines in mother knowledge",
+    "it takes form in four ways"
+   ],
+   "inference": "consciousness always shines fourfold in knowledge and object",
+   "uncertainties": [
+    "mātari sense"
+   ],
+   "plain_english": "That shines always in mother knowledge, measure, instrument range, and object, taking fourfold form."
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "śuddhasaṃvinmayī",
+     "gloss": "pure-consciousness-composed",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prācye",
+     "gloss": "in-eastern",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jñāne",
+     "gloss": "in-knowledge",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śabdanarūpiṇī",
+     "gloss": "sound-form",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "karaṇe",
+     "gloss": "in-instrument",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "grahaṇākārā",
+     "gloss": "grasping-form",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīyogasaṃcare",
+     "gloss": "in-yoga-course",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Why is pure consciousness sound-form in instrument?",
+   "premises": [
+    "pure consciousness is in eastern knowledge",
+    "it is sound-form in instrument"
+   ],
+   "inference": "because yoga course manifests grasping form",
+   "uncertainties": [
+    "prācye sense"
+   ],
+   "plain_english": "Pure consciousness, sound-form in eastern knowledge, is grasping-form in instrument because of yoga course."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "cakṣurmaṇḍale",
+     "gloss": "in-eye-orb",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śvete",
+     "gloss": "in-white",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pratyakṣe",
+     "gloss": "in-direct-perception",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-lady",
+     "grounds": "vocative",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "ṣoḍaśāraṃ",
+     "gloss": "sixteen-spoked",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dvādaśāraṃ",
+     "gloss": "twelve-spoked",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tatrasthaṃ",
+     "gloss": "there-standing",
+     "grounds": "participle",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "cakramuttamam",
+     "gloss": "wheel-excellent",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What wheels stand in the white eye orb?",
+   "premises": [
+    "those in white eye orb",
+    "sixteen and twelve spoked wheels"
+   ],
+   "inference": "excellent wheels stand there in direct perception",
+   "uncertainties": [
+    "cakṣurmaṇḍale reading"
+   ],
+   "plain_english": "O supreme lady, those in the white eye orb in direct perception have sixteen-spoked and twelve-spoked excellent wheels standing there."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "prativāraṇavadrakte",
+     "gloss": "in-red-like-elephant-goad",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tadbahirye",
+     "gloss": "outside-that-those",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "taducyate",
+     "gloss": "that-is-called",
+     "grounds": "verb compound",
+     "morph": "3.sg.pass-pres+vac"
+    },
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "madhyage",
+     "gloss": "in-middle-going",
+     "grounds": "locative participle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kṛṣṇaśvete",
+     "gloss": "in-black-white",
+     "grounds": "locative compound",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-orbs",
+     "grounds": "locative",
+     "morph": "loc.du.n"
+    }
+   ],
+   "question": "What is called second in red and black-white orbs?",
+   "premises": [
+    "outside red like elephant goad",
+    "those in black and white orbs"
+   ],
+   "inference": "that is called second in middle-going",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Outside the red like elephant goad, those in black and white orbs are called second in the middle-going."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "tadantarye",
+     "gloss": "inside-that-those",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sthite",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śuddhe",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bhinnāñjanasamaprabhe",
+     "gloss": "like-split-ointment-shine",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caturdale",
+     "gloss": "four-petaled",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "jñeye",
+     "gloss": "to-be-known",
+     "grounds": "participle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "agnīṣomātmake",
+     "gloss": "fire-moon-natured",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What is known in pure four-petaled fire-moon nature?",
+   "premises": [
+    "those established inside pure",
+    "like split ointment shine"
+   ],
+   "inference": "they are to be known in fire-moon nature",
+   "uncertainties": [
+    "bhinnāñjana sense"
+   ],
+   "plain_english": "Dear one, those established inside, pure, shining like split ointment, are to be known in the four-petaled fire-moon nature."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "mithunatve",
+     "gloss": "in-pairness",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sthite",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "in-wheel",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-lady",
+     "grounds": "vocative",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "saṃmīlanonmīlanaṃ",
+     "gloss": "closing-opening",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "anyonyaṃ",
+     "gloss": "mutually",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidadhātake",
+     "gloss": "perform",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+vidhā"
+    }
+   ],
+   "question": "What do two wheels perform in pairness?",
+   "premises": [
+    "two wheels established in pairness",
+    "they perform closing and opening"
+   ],
+   "inference": "they mutually perform closing and opening",
+   "uncertainties": [
+    "mithunatve sense"
+   ],
+   "plain_english": "O supreme lady, two wheels established in pairness mutually perform closing and opening."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoniśca",
+     "gloss": "and-yoni",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyogātsravato@mṛtam",
+     "gloss": "from-union-flowing-immortal",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "tathāmṛtāgnisaṃyogāddravataste",
+     "gloss": "so-from-immortal-fire-union-flowing-they",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why is there no doubt about flowing immortal fire?",
+   "premises": [
+    "as yoni and linga union flows immortal",
+    "so immortal fire union flows"
+   ],
+   "inference": "there is no doubt",
+   "uncertainties": [
+    "sandhi reading"
+   ],
+   "plain_english": "As yoni and linga union flows immortal, so from immortal fire union they flow; no doubt."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "taccakrapīḍanādrātrau",
+     "gloss": "from-that-wheel-pressure-at-night",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "jyotirbhātyarkasomagam",
+     "gloss": "light-shines-sun-moon-going",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "seeing",
+     "grounds": "absolutive",
+     "morph": "abs+dṛś"
+    },
+    {
+     "surface": "paramāṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "jyotsnāṃ",
+     "gloss": "moonlight",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kālajñānaṃ",
+     "gloss": "time-knowledge",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "proceeds",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+pravṛt"
+    }
+   ],
+   "question": "What proceeds after seeing supreme moonlight at night?",
+   "premises": [
+    "from wheel pressure at night light shines",
+    "seeing supreme moonlight"
+   ],
+   "inference": "time-knowledge proceeds",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "From that wheel pressure at night light shines sun-moon going; seeing that supreme moonlight, time-knowledge proceeds."
+  }
+ ]
+}

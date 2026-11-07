@@ -1,0 +1,779 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "āśvasto",
+     "gloss": "having-been-reassured",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nottarītavyaṃ",
+     "gloss": "not-to-be-crossed",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "verse token",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "bhedamahārṇavāt",
+     "gloss": "from-great-ocean-of-difference",
+     "grounds": "verse token",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śrīkāmikāyāṃ",
+     "gloss": "in-śrīkāmikā",
+     "grounds": "verse token",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "stated",
+     "grounds": "verse token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśaprakaraṇe",
+     "gloss": "in-bond-section",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does reassurance prevent crossing the ocean of difference?",
+   "premises": [
+    "reassurance prevents crossing",
+    "ocean of difference is vast",
+    "scripture states this clearly"
+   ],
+   "inference": "The verse counsels remaining within the stated teaching rather than crossing into difference.",
+   "uncertainties": [
+    "exact referent of tena"
+   ],
+   "plain_english": "Having been reassured, one should not cross from the great ocean of difference; this is clearly stated in the Śrīkāmikā and in the section on bonds."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "vedasāṃkhyapurāṇajñāḥ",
+     "gloss": "knowers-of-veda-sāṃkhya-purāṇas",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pāñcarātraparāyaṇāḥ",
+     "gloss": "devoted-to-pāñcarātra",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kecidṛṣayo",
+     "gloss": "some-seers",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhīrāḥ",
+     "gloss": "wise",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāstrāntaraparāyaṇāḥ",
+     "gloss": "devoted-to-other-scriptures",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which wise seers are described as devoted to various scriptures?",
+   "premises": [
+    "some seers know Veda Sāṃkhya Purāṇas",
+    "some are devoted to Pāñcarātra",
+    "some are devoted to other scriptures"
+   ],
+   "inference": "The verse classifies learned seers by their scriptural devotion.",
+   "uncertainties": [
+    "whether ye modifies all preceding nouns"
+   ],
+   "plain_english": "Those wise seers who know Veda, Sāṃkhya, and Purāṇas, devoted to Pāñcarātra, and devoted to other scriptures."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "bauddhārhatādyāḥ",
+     "gloss": "buddhists-arhats-and-others",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vidyārāgeṇa",
+     "gloss": "by-attachment-to-knowledge",
+     "grounds": "verse token",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "rañjitāḥ",
+     "gloss": "colored",
+     "grounds": "verse token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "māyāpāśena",
+     "gloss": "by-māyā-bond",
+     "grounds": "verse token",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "baddhatvācchivadīkṣāṃ",
+     "gloss": "because-bound-no-śiva-initiation",
+     "grounds": "verse token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vindate",
+     "gloss": "obtain",
+     "grounds": "verse token",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "Why do these teachers fail to obtain Śiva initiation?",
+   "premises": [
+    "all are colored by attachment to knowledge",
+    "they are bound by Māyā bond",
+    "therefore they do not obtain Śiva initiation"
+   ],
+   "inference": "Attachment and bondage prevent attainment of Śiva initiation.",
+   "uncertainties": [
+    "compound baddhatvācchivadīkṣāṃ parsing"
+   ],
+   "plain_english": "All Buddhists, Arhats, and others are colored by attachment to knowledge; because they are bound by the Māyā bond, they do not obtain Śiva initiation."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "rāgaśabdena",
+     "gloss": "by-word-rāga",
+     "grounds": "verse token",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "stated",
+     "grounds": "verse token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rāgatattvaṃ",
+     "gloss": "rāga-principle",
+     "grounds": "verse token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niyāmakam",
+     "gloss": "regulator",
+     "grounds": "verse token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māyīye",
+     "gloss": "in-māyā",
+     "grounds": "verse token",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "verse token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "verse token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tasmiñchāstre",
+     "gloss": "in-that-scripture",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niyamayediti",
+     "gloss": "regulates-it-is-said",
+     "grounds": "verse token",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How does rāga function as a regulator in Māyā?",
+   "premises": [
+    "rāga principle is stated as regulator",
+    "it operates in Māyā",
+    "it regulates him in that scripture"
+   ],
+   "inference": "The verse defines rāga as a regulating principle within Māyā.",
+   "uncertainties": [
+    "exact force of niyamayediti"
+   ],
+   "plain_english": "By the word rāga is stated the rāga principle as regulator in Māyā; and that regulates him in that scripture."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "mokṣo@pi",
+     "gloss": "even-liberation",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavāderyaḥ",
+     "gloss": "of-vaiṣṇava-and-others",
+     "grounds": "verse token",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svasaṃkalpena",
+     "gloss": "by-own-resolve",
+     "grounds": "verse token",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "bhāvitaḥ",
+     "gloss": "imagined",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraprakṛtisāyujyaṃ",
+     "gloss": "union-with-higher-nature",
+     "grounds": "verse token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadvāpyānandarūpatā",
+     "gloss": "or-bliss-form",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is liberation imagined by Vaiṣṇavas and others?",
+   "premises": [
+    "liberation is imagined by own resolve",
+    "it is union with higher nature",
+    "or it is bliss-form"
+   ],
+   "inference": "The verse presents liberation as mentally constructed in these traditions.",
+   "uncertainties": [
+    "scope of vaiṣṇavāderyaḥ"
+   ],
+   "plain_english": "Even the liberation of Vaiṣṇavas and others is imagined by their own resolve: union with higher nature, or bliss-form."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "viśuddhacittamātraṃ",
+     "gloss": "only-purified-mind",
+     "grounds": "verse token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpavatsaṃtatikṣayaḥ",
+     "gloss": "lamp-like-cessation-of-continuum",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "savedyāpavedyātmapralayākalatāmayaḥ",
+     "gloss": "composed-of-dissolution-into-kalā",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What forms can this liberation take besides union?",
+   "premises": [
+    "it may be only purified mind",
+    "or lamp-like cessation of continuum",
+    "that is composed of dissolution into kalā"
+   ],
+   "inference": "The verse lists alternative conceptions of liberation.",
+   "uncertainties": [
+    "compound savedyāpavedyātmapralayākalatāmayaḥ"
+   ],
+   "plain_english": "Or only purified mind, or lamp-like cessation of continuum; that is composed of dissolution of knowable and unknowable self into kalā."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "verse token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāpyāpi",
+     "gloss": "having-attained-even",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ciraṃ",
+     "gloss": "long",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "verse token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadgogābhogabhuktataḥ",
+     "gloss": "consumed-by-that-cow-enjoyment",
+     "grounds": "verse token",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tattattvapralayānte",
+     "gloss": "at-end-of-that-principle-dissolution",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadūrdhvāṃ",
+     "gloss": "higher-than-that",
+     "grounds": "verse token",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sṛṣṭimāgataḥ",
+     "gloss": "goes-to-creation",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens after long enjoyment of that state?",
+   "premises": [
+    "having attained it for long time",
+    "consumed by that enjoyment",
+    "at end of principle dissolution goes to higher creation"
+   ],
+   "inference": "Temporary attainment eventually leads to higher creation.",
+   "uncertainties": [
+    "tadgogābhogabhuktataḥ sense"
+   ],
+   "plain_english": "Having attained it, for a long time, consumed by that enjoyment; at the end of dissolution of that principle, then one goes to a higher creation."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "mantratvameti",
+     "gloss": "becomes-mantra",
+     "grounds": "verse token",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "saṃbodhādananteśena",
+     "gloss": "by-awakening-from-ananteśa",
+     "grounds": "verse token",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kalpitāt",
+     "gloss": "from-created",
+     "grounds": "verse token",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "etaccāgre",
+     "gloss": "this-ahead",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taniṣyāma",
+     "gloss": "we-will-explain",
+     "grounds": "verse token",
+     "morph": "1.pl.act-fut"
+    },
+    {
+     "surface": "ityāstāṃ",
+     "gloss": "let-it-be",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvadatra",
+     "gloss": "for-now-here",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "verse token",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does something become mantra in this account?",
+   "premises": [
+    "it becomes mantra by awakening",
+    "from Ananteśa's creation",
+    "further explanation is deferred"
+   ],
+   "inference": "Mantra arises through awakening from divine creation.",
+   "uncertainties": [
+    "kalpitāt attachment"
+   ],
+   "plain_english": "It becomes mantra by awakening from Ananteśa's creation; we will explain this ahead; let that be for now here."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "tenājñajanatāklṛptapravādairyo",
+     "gloss": "by-doctrines-fabricated-by-ignorant-people",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viḍambitaḥ",
+     "gloss": "mocked",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asadgurau",
+     "gloss": "in-false-guru",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rūḍhacitsa",
+     "gloss": "rooted-in-consciousness",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māyāpāśena",
+     "gloss": "by-māyā-bond",
+     "grounds": "verse token",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "rañjitaḥ",
+     "gloss": "colored",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What condition colors one bound to false guru?",
+   "premises": [
+    "mocked by doctrines of ignorant people",
+    "rooted in false guru",
+    "colored by Māyā bond"
+   ],
+   "inference": "False guru and ignorant doctrines lead to Māyā coloring.",
+   "uncertainties": [
+    "compound tenājñajanatāklṛptapravādairyo"
+   ],
+   "plain_english": "He who is mocked by doctrines fabricated by ignorant people, rooted in false guru, is colored by the Māyā bond."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "so@pi",
+     "gloss": "he-too",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sattarkayogena",
+     "gloss": "by-union-of-right-reasoning",
+     "grounds": "verse token",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "nīyate",
+     "gloss": "is-led",
+     "grounds": "verse token",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sadguruṃ",
+     "gloss": "to-true-guru",
+     "grounds": "verse token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sattarkaḥ",
+     "gloss": "right-reasoning",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuddhavidyaiva",
+     "gloss": "pure-knowledge-indeed",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cecchā",
+     "gloss": "will",
+     "grounds": "verse token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parameśituḥ",
+     "gloss": "of-supreme-lord",
+     "grounds": "verse token",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How is one led from false guru to true guru?",
+   "premises": [
+    "he too is led by right reasoning",
+    "right reasoning is pure knowledge",
+    "that is will of supreme lord"
+   ],
+   "inference": "Right reasoning, as pure knowledge and divine will, leads to true guru.",
+   "uncertainties": [
+    "sattarkaḥ as apposition"
+   ],
+   "plain_english": "He too, by union of right reasoning, is led toward the true guru; right reasoning is pure knowledge, and that is the will of the supreme lord."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "śrīpūrvaśāstre",
+     "gloss": "in-śrīpūrva-scripture",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tenoktaṃ",
+     "gloss": "said-by-him",
+     "grounds": "verse token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yiyāsuḥ",
+     "gloss": "desiring",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivecchayā",
+     "gloss": "by-śiva's-will",
+     "grounds": "verse token",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "bhuktimuktiprasiddhyarthaṃ",
+     "gloss": "for-accomplishment-of-enjoyment-liberation",
+     "grounds": "verse token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nīyate",
+     "gloss": "is-led",
+     "grounds": "verse token",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sadguruṃ",
+     "gloss": "to-true-guru",
+     "grounds": "verse token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is one led to true guru according to scripture?",
+   "premises": [
+    "in Śrīpūrva scripture it is said",
+    "desiring by Śiva's will",
+    "for accomplishment of enjoyment and liberation"
+   ],
+   "inference": "Scripture says one is led to true guru for spiritual accomplishment.",
+   "uncertainties": [
+    "tenoktaṃ referent"
+   ],
+   "plain_english": "In the Śrīpūrva scripture it is said by him: desiring, by Śiva's will, for accomplishment of enjoyment and liberation, one is led toward the true guru."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "śaktipātastu",
+     "gloss": "but-grace",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatraiṣa",
+     "gloss": "there-this",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramikaḥ",
+     "gloss": "gradual",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃpravartate",
+     "gloss": "proceeds",
+     "grounds": "verse token",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "having-abided",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo@sadgurau",
+     "gloss": "who-in-true-guru",
+     "grounds": "verse token",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāstrāntare",
+     "gloss": "in-other-scripture",
+     "grounds": "verse token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "verse token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satpathaṃ",
+     "gloss": "right-path",
+     "grounds": "verse token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śritaḥ",
+     "gloss": "having-taken",
+     "grounds": "verse token",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does grace proceed for one on the right path?",
+   "premises": [
+    "grace proceeds gradually",
+    "for one abiding in true guru",
+    "or in other scripture on right path"
+   ],
+   "inference": "Grace operates gradually for those established in right teaching.",
+   "uncertainties": [
+    "tatraiṣa reference"
+   ],
+   "plain_english": "But grace there proceeds gradually, for one who, abiding in the true guru or in another scripture, has taken the right path."
+  }
+ ]
+}

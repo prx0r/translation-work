@@ -1,0 +1,707 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāktamupāyamaṇḍalaṃ",
+     "gloss": "circle-of-shakti-means",
+     "grounds": "compound phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathayāmaḥ",
+     "gloss": "we-declare",
+     "grounds": "first person plural",
+     "morph": "1.pl.act-pres+root kath"
+    },
+    {
+     "surface": "paramātmasaṃvide",
+     "gloss": "for-supreme-self-knowledge",
+     "grounds": "dative phrase",
+     "morph": "dat.sg"
+    }
+   ],
+   "question": "What circle of means is now declared for supreme self-knowledge?",
+   "premises": [
+    "The verse opens with now.",
+    "It names a circle of means.",
+    "It is declared for supreme self-knowledge."
+   ],
+   "inference": "The topic is the shakti circle of means for supreme self-knowledge.",
+   "uncertainties": [
+    "Exact compound segmentation is simplified."
+   ],
+   "plain_english": "Now we declare the circle of shakti means for supreme self-knowledge."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "anantarāhnikokte@sminsvabhāve",
+     "gloss": "in-nature-just-described",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "pārameśvare",
+     "gloss": "supreme-lordly",
+     "grounds": "adjective phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "pravivikṣurvikalpasya",
+     "gloss": "desiring-entry-into-distinction",
+     "grounds": "genitive phrase",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "kuryātsaṃskāramañjasā",
+     "gloss": "should-make-refinement-directly",
+     "grounds": "optative phrase",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How should one refine distinction when entering supreme nature?",
+   "premises": [
+    "The nature described is supreme.",
+    "One desires entry into distinction.",
+    "Refinement should be done directly."
+   ],
+   "inference": "Direct refinement is prescribed for entering distinction within supreme nature.",
+   "uncertainties": [
+    "Sandhi segmentation is simplified."
+   ],
+   "plain_english": "In that supreme lordly nature, one desiring entry into distinction should refine it directly."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "vikalpaḥ",
+     "gloss": "distinction",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saṃskṛtaḥ",
+     "gloss": "refined",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sūte",
+     "gloss": "produces",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root sū"
+    },
+    {
+     "surface": "vikalpaṃ",
+     "gloss": "distinction",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "svātmasaṃskṛtam",
+     "gloss": "self-refined",
+     "grounds": "adjective",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "svatulyaṃ",
+     "gloss": "equal-to-itself",
+     "grounds": "adjective",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "so@pi",
+     "gloss": "that-also",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "so@pyanyaṃ",
+     "gloss": "that-another",
+     "grounds": "pronoun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "so@pyanyaṃ",
+     "gloss": "that-another",
+     "grounds": "pronoun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sadṛśātmakam",
+     "gloss": "similar-natured",
+     "grounds": "adjective",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What does refined distinction produce in this account?",
+   "premises": [
+    "Refined distinction produces distinction.",
+    "The produced distinction is self-refined.",
+    "It is equal and similar in nature."
+   ],
+   "inference": "Refinement generates further self-refined distinctions of like nature.",
+   "uncertainties": [
+    "Repeated pronoun forms are simplified."
+   ],
+   "plain_english": "Refined distinction produces a self-refined distinction equal to itself, and that produces another similar one."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "caturṣveva",
+     "gloss": "in-four-only",
+     "grounds": "locative phrase",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "vikalpeṣu",
+     "gloss": "distinctions",
+     "grounds": "locative",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saṃskāraḥ",
+     "gloss": "refinement",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kramādasau",
+     "gloss": "gradually-that",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asphuṭaḥ",
+     "gloss": "unclear",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sphuṭatābhāvī",
+     "gloss": "becoming-clear",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prasphuṭansphuṭitātmakaḥ",
+     "gloss": "fully-clear-clear-natured",
+     "grounds": "participle phrase",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How does refinement progress across four distinctions?",
+   "premises": [
+    "Refinement occurs in four distinctions.",
+    "It begins unclear.",
+    "It becomes clear and fully clear."
+   ],
+   "inference": "Refinement moves gradually from unclear to fully clear nature.",
+   "uncertainties": [
+    "Compound segmentation is simplified."
+   ],
+   "plain_english": "In four distinctions, refinement gradually moves from unclear to becoming clear and fully clear-natured."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭataro",
+     "gloss": "clearer",
+     "grounds": "comparative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yāvadante",
+     "gloss": "until-end",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭatamo",
+     "gloss": "clearest",
+     "grounds": "superlative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "asphuṭādau",
+     "gloss": "in-unclear-beginning",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vikalpe",
+     "gloss": "distinction",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedo@pyastyāntarālikaḥ",
+     "gloss": "difference-also-between",
+     "grounds": "noun phrase",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What happens as clarity increases to its limit?",
+   "premises": [
+    "Clarity increases to the end.",
+    "It becomes clearest.",
+    "Difference remains between stages."
+   ],
+   "inference": "Progression reaches maximal clarity while distinctions still differ.",
+   "uncertainties": [
+    "Compound segmentation is simplified."
+   ],
+   "plain_english": "Then it becomes clearer until the clearest; even from the unclear beginning, difference remains between stages."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭatamodāratādrūpyaparivṛṃhitā",
+     "gloss": "filled-with-clearest-nobility-form",
+     "grounds": "adjective phrase",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "saṃvidabhyeti",
+     "gloss": "consciousness-approaches",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root i"
+    },
+    {
+     "surface": "vimalāmavikalpasvarūpatām",
+     "gloss": "pure-non-distinct-nature",
+     "grounds": "accusative phrase",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What nature does consciousness approach at the end?",
+   "premises": [
+    "Consciousness approaches a state.",
+    "That state is pure.",
+    "It is non-distinct in nature."
+   ],
+   "inference": "Consciousness reaches pure non-distinct nature.",
+   "uncertainties": [
+    "Long compound segmentation is simplified."
+   ],
+   "plain_english": "Then consciousness, filled with the clearest nobility of form, approaches pure non-distinct nature."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "ataśca",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavīyaṃ",
+     "gloss": "of-bhairava",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yattejaḥ",
+     "gloss": "that-radiance",
+     "grounds": "relative noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saṃvitsvabhāvakam",
+     "gloss": "consciousness-natured",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimṛśatāṃ",
+     "gloss": "for-those-reflecting",
+     "grounds": "genitive participle",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root jan"
+    },
+    {
+     "surface": "tatsphuṭātmatā",
+     "gloss": "its-clear-selfhood",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What arises for those who repeatedly reflect?",
+   "premises": [
+    "The radiance is consciousness-natured.",
+    "Reflection occurs again and again.",
+    "Clear selfhood arises."
+   ],
+   "inference": "Repeated reflection on consciousness-natured radiance yields clear selfhood.",
+   "uncertainties": [
+    "Compound segmentation is simplified."
+   ],
+   "plain_english": "Therefore, for those reflecting again and again, the clear selfhood of that consciousness-natured radiance arises."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "nanu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvitparāmraṣṭrī",
+     "gloss": "consciousness-supreme-knower",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "parāmarśamayī",
+     "gloss": "made-of-reflection",
+     "grounds": "adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "svataḥ",
+     "gloss": "by-itself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāmṛśyā",
+     "gloss": "reflecting",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāthārūpyasṛṣṭau",
+     "gloss": "in-such-form-creation",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "jaḍā",
+     "gloss": "inert",
+     "grounds": "adjective",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How can consciousness reflect without becoming inert?",
+   "premises": [
+    "Consciousness is supreme knower.",
+    "It is made of reflection.",
+    "The objection asks about creation of such form."
+   ],
+   "inference": "The verse poses an objection about consciousness becoming inert.",
+   "uncertainties": [
+    "Compound segmentation is simplified."
+   ],
+   "plain_english": "But how can consciousness, supreme knower made of reflection, reflect by itself in such creation without becoming inert?"
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "ucyate",
+     "gloss": "it-is-said",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres+root vac"
+    },
+    {
+     "surface": "svātmasaṃvittiḥ",
+     "gloss": "self-consciousness",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "svabhāvādeva",
+     "gloss": "by-nature-alone",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbharā",
+     "gloss": "full",
+     "grounds": "adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nāsyāmapāsyaṃ",
+     "gloss": "nothing-to-remove",
+     "grounds": "noun phrase",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nādheyaṃ",
+     "gloss": "nothing-to-add",
+     "grounds": "noun phrase",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kiṃcidityuditaṃ",
+     "gloss": "anything-said",
+     "grounds": "noun phrase",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is self-consciousness not inert in reflection?",
+   "premises": [
+    "Self-consciousness is full by nature.",
+    "Nothing is to be removed.",
+    "Nothing is to be added."
+   ],
+   "inference": "Self-consciousness is complete and needs no external addition or removal.",
+   "uncertainties": [
+    "Compound segmentation is simplified."
+   ],
+   "plain_english": "It is said that self-consciousness is full by nature alone; nothing is to be removed or added, as said before."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "however",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durghaṭakāritvātsvācchandyānnirmalādasau",
+     "gloss": "from-difficult-doing-and-free-will-pure",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svātmapracchādanakrīḍāpaṇḍitaḥ",
+     "gloss": "skilled-in-self-concealment-play",
+     "grounds": "adjective phrase",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How does the supreme lord conceal himself?",
+   "premises": [
+    "The supreme lord is skilled.",
+    "He plays at self-concealment.",
+    "This arises from pure free will."
+   ],
+   "inference": "The lord freely conceals himself as a playful skill.",
+   "uncertainties": [
+    "Long compound segmentation is simplified."
+   ],
+   "plain_english": "But the supreme lord, pure through difficult doing and free will, is skilled in the play of concealing himself."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "anāvṛtte",
+     "gloss": "uncovered",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "svarūpe@pi",
+     "gloss": "even-in-own-form",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "yadātmācchādanaṃ",
+     "gloss": "when-self-concealment",
+     "grounds": "noun phrase",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vibhoḥ",
+     "gloss": "of-the-lord",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "that-itself",
+     "grounds": "pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bheda",
+     "gloss": "difference",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "etāvānviśvavṛttikaḥ",
+     "gloss": "so-much-world-occurring",
+     "grounds": "adjective phrase",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is maya in relation to the lord?",
+   "premises": [
+    "Even in uncovered own form, concealment occurs.",
+    "That itself is maya.",
+    "Difference drives world occurrence."
+   ],
+   "inference": "Maya is the lord's self-concealment producing world difference.",
+   "uncertainties": [
+    "Compound segmentation is simplified."
+   ],
+   "plain_english": "Even when his own form is uncovered, the lord's self-concealment is maya, because difference occurs throughout the world."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "tathābhāsanamevāsya",
+     "gloss": "such-appearance-only-of-him",
+     "grounds": "noun phrase",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dvaitamuktaṃ",
+     "gloss": "duality-is-said",
+     "grounds": "participle phrase",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "maheśituḥ",
+     "gloss": "of-the-great-lord",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "taddvayāpāsanenāyaṃ",
+     "gloss": "by-removing-that-duality-this",
+     "grounds": "instrumental phrase",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "parāmarśo@bhidhīyate",
+     "gloss": "reflection-is-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres+root dhā"
+    }
+   ],
+   "question": "What is called reflection in this teaching?",
+   "premises": [
+    "Duality is said to be his appearance.",
+    "Removing that duality is the means.",
+    "This is called reflection."
+   ],
+   "inference": "Reflection is the removal of the lord's apparent duality.",
+   "uncertainties": [
+    "Compound segmentation is simplified."
+   ],
+   "plain_english": "Such appearance of the great lord is called duality; by removing that duality, this is called reflection."
+  }
+ ]
+}

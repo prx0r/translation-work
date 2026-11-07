@@ -1,0 +1,755 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "adṛṣṭamaṇḍalo@pyevaṃ",
+     "gloss": "unseen-circle-even-thus",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaścidvetti",
+     "gloss": "someone-knows",
+     "grounds": "verb with indefinite subject",
+     "morph": "3.sg.act-pres+root-vid"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "truly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhibhāgbhavennityaṃ",
+     "gloss": "becomes-attainer-of-accomplishment-always",
+     "grounds": "verb plus adverb",
+     "morph": "3.sg.act-opt+indecl."
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dīkṣitaḥ",
+     "gloss": "initiated",
+     "grounds": "participle adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who becomes an accomplished yogi and initiated one?",
+   "premises": [
+    "One who truly knows becomes accomplished.",
+    "That person is called a yogi.",
+    "That person is also called initiated."
+   ],
+   "inference": "True knowledge confers accomplishment and initiation.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Whoever truly knows becomes an accomplished yogi and an initiated one."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root-vid"
+    },
+    {
+     "surface": "tattvena",
+     "gloss": "by-truth",
+     "grounds": "instrumental noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nirvāṇagāminī",
+     "gloss": "leading-to-liberation",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavediti",
+     "gloss": "becomes-thus",
+     "grounds": "verb plus quotative",
+     "morph": "3.sg.act-opt+indecl."
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tacchrītriṃśakaśāsane",
+     "gloss": "in-that-holy-thirty-treatise",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Whose initiation leads to liberation?",
+   "premises": [
+    "One who knows by truth is described.",
+    "His initiation leads to liberation.",
+    "This is declared in the treatise."
+   ],
+   "inference": "Knowledge-based initiation leads to liberation.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Thus, for one who knows by truth, initiation leads to liberation, as declared in that holy treatise."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "akalpito",
+     "gloss": "unimagined",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gururjñayaḥ",
+     "gloss": "guru-by-knowledge",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāṃsiddhika",
+     "gloss": "innate",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "but-who",
+     "grounds": "relative plus particle",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "tadrūpabhāgātmabhāvanātaḥ",
+     "gloss": "from-meditation-on-that-form-part-self",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is the guru without supreme meditation?",
+   "premises": [
+    "The unimagined guru is known by knowledge.",
+    "He is remembered as innate.",
+    "One without meditation on that form lacks the supreme."
+   ],
+   "inference": "The guru is known through innate knowledge and meditation.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The unimagined guru is known by knowledge and remembered as innate; one without meditation on that form lacks the supreme."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "śāstravitsa",
+     "gloss": "scripture-knower-he",
+     "grounds": "compound phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "in-scripture",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prokto@kalpitakalpakaḥ",
+     "gloss": "declared-imagined-imaginer",
+     "grounds": "compound phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasyāpi",
+     "gloss": "his-also",
+     "grounds": "pronoun plus particle",
+     "morph": "m.gen.sg+indecl."
+    },
+    {
+     "surface": "bhedā",
+     "gloss": "distinctions",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "utkṛṣṭamadhyamandādyupāyataḥ",
+     "gloss": "by-superior-medium-inferior-means-etc",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are scripture-knowing gurus distinguished?",
+   "premises": [
+    "A scripture knower is called guru in scripture.",
+    "He is declared as imagined imaginer.",
+    "His distinctions arise by means."
+   ],
+   "inference": "Scripture-knowing gurus are classified by superior, medium, and inferior means.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "A scripture knower is called guru in scripture, declared as an imagined imaginer, and his distinctions arise by superior, medium, and inferior means."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "bhāvanāto@tha",
+     "gloss": "from-meditation-then",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhyānājjapātsvapnādvratāddhuteḥ",
+     "gloss": "from-meditation-chanting-dream-vow-offering",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāpnotyakalpitodāramabhiṣekaṃ",
+     "gloss": "obtains-unimagined-great-initiation",
+     "grounds": "verb plus adjective",
+     "morph": "3.sg.act-pres+adj"
+    },
+    {
+     "surface": "mahāmatiḥ",
+     "gloss": "great-minded-one",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the great-minded one obtain initiation?",
+   "premises": [
+    "From meditation or other practices.",
+    "From chanting, dream, vow, or offering.",
+    "The great-minded one obtains unimagined great initiation."
+   ],
+   "inference": "Meditation and related practices lead to unimagined great initiation.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "From meditation, chanting, dream, vow, or offering, the great-minded one obtains unimagined great initiation."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "śrīmadvājasanīye",
+     "gloss": "in-holy-vajasaneya",
+     "grounds": "locative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrīvīre",
+     "gloss": "in-holy-vira",
+     "grounds": "locative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrībrahmayāmale",
+     "gloss": "in-holy-brahmayamala",
+     "grounds": "locative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrīsiddhāyāmidaṃ",
+     "gloss": "this-in-holy-siddha",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhātrā",
+     "gloss": "by-creator",
+     "grounds": "instrumental noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "proktamanyatra",
+     "gloss": "declared-elsewhere",
+     "grounds": "compound phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where is this teaching declared clearly?",
+   "premises": [
+    "It is in holy Vajasaneya.",
+    "It is in holy Vira and Brahmayamala.",
+    "It is declared elsewhere clearly by the creator."
+   ],
+   "inference": "The teaching appears in multiple holy texts and is clearly declared.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "This is in the holy Vajasaneya, Vira, and Brahmayamala, and is clearly declared elsewhere by the creator."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svecchāpravṛttatvātkāraṇānantateṣyate",
+     "gloss": "due-to-self-will-activity-cause-infinity-accepted",
+     "grounds": "compound phrase",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "kadācidbhaktiyogena",
+     "gloss": "sometimes-by-devotion-yoga",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karmaṇā",
+     "gloss": "by-action",
+     "grounds": "instrumental noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "vidyayāpi",
+     "gloss": "by-knowledge-also",
+     "grounds": "instrumental noun plus particle",
+     "morph": "f.instr.sg+indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does the supreme lord act toward worldly beings?",
+   "premises": [
+    "His activity arises from self-will.",
+    "The cause is accepted as infinite.",
+    "Sometimes by devotion yoga, action, or knowledge."
+   ],
+   "inference": "The lord acts through infinite self-willed means.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Due to self-will, his activity is accepted as infinite, sometimes through devotion yoga, action, or knowledge."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "jñānadharmopadeśena",
+     "gloss": "by-teaching-of-knowledge-dharma",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantrairvā",
+     "gloss": "by-mantras-or",
+     "grounds": "instrumental noun plus particle",
+     "morph": "m.instr.pl+indecl."
+    },
+    {
+     "surface": "dīkṣayāpi",
+     "gloss": "by-initiation-also",
+     "grounds": "instrumental noun plus particle",
+     "morph": "f.instr.sg+indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "evamādyairanekaiśca",
+     "gloss": "by-such-many-and",
+     "grounds": "adjective plus particle",
+     "morph": "m.instr.pl+indecl."
+    },
+    {
+     "surface": "prakāraiḥ",
+     "gloss": "by-means",
+     "grounds": "instrumental noun",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what means does the supreme lord grace beings?",
+   "premises": [
+    "By teaching of knowledge and dharma.",
+    "By mantras, initiation, and similar means.",
+    "The supreme lord acts through many means."
+   ],
+   "inference": "The supreme lord graces beings through diverse teachings and practices.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By teaching of knowledge and dharma, by mantras, initiation, and many similar means, the supreme lord acts."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "saṃsāriṇo@nugṛhṇāti",
+     "gloss": "graces-worldly-ones",
+     "grounds": "verb with object",
+     "morph": "3.sg.act-pres+root-grah"
+    },
+    {
+     "surface": "viśvasya",
+     "gloss": "of-universe",
+     "grounds": "genitive adjective",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "jagataḥ",
+     "gloss": "of-world",
+     "grounds": "genitive noun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "patiḥ",
+     "gloss": "lord",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātṛmaṇḍalasaṃbodhātsaṃskārāttapasaḥ",
+     "gloss": "from-mother-circle-awakening-purification-from-heat",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative adjective",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who graces worldly beings of the universe?",
+   "premises": [
+    "The lord of the universe graces worldly beings.",
+    "This arises from mother-circle awakening and purification.",
+    "It is addressed to the dear one."
+   ],
+   "inference": "The lord graces worldly beings through awakening and purification.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The lord of the universe graces worldly beings, dear one, through mother-circle awakening and purification."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "dhyānādyogājjapājjñānānmantrārādhanāto",
+     "gloss": "from-meditation-yoga-chanting-knowledge-mantra-worship",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vratāt",
+     "gloss": "from-vow",
+     "grounds": "ablative noun",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "saṃprāpyaṃ",
+     "gloss": "to-be-obtained",
+     "grounds": "gerundive adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kulasāmānyaṃ",
+     "gloss": "common-to-family",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaulikasiddhidam",
+     "gloss": "giving-kaula-accomplishment",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What knowledge is obtained through these practices?",
+   "premises": [
+    "From meditation, yoga, chanting, knowledge, mantra worship, and vow.",
+    "The knowledge to be obtained is common to the family.",
+    "It gives kaula accomplishment."
+   ],
+   "inference": "These practices yield family-common knowledge that grants kaula accomplishment.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "From meditation, yoga, chanting, knowledge, mantra worship, and vow, one obtains family-common knowledge that grants kaula accomplishment."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "tattvajñānātmakaṃ",
+     "gloss": "consisting-of-truth-knowledge",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "goal",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yatraiva",
+     "gloss": "wherever",
+     "grounds": "relative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gurustatra",
+     "gloss": "guru-there",
+     "grounds": "noun plus adverb",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "hetujālaṃ",
+     "gloss": "network-of-causes",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakalpyatām",
+     "gloss": "let-be-imagined",
+     "grounds": "passive imperative",
+     "morph": "3.sg.pass-imp"
+    }
+   ],
+   "question": "Where truth-knowledge is seen, who is guru?",
+   "premises": [
+    "The goal consists of truth-knowledge.",
+    "Wherever it is seen, he is guru.",
+    "Let the network of causes be imagined."
+   ],
+   "inference": "Where truth-knowledge appears, that person is guru.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Wherever the goal consisting of truth-knowledge is seen, he indeed is guru there; let the network of causes be imagined."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "tattvajñānādṛte",
+     "gloss": "without-truth-knowledge",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nānyallakṣaṇaṃ",
+     "gloss": "no-other-mark",
+     "grounds": "compound phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmayāmale",
+     "gloss": "in-brahmayamala",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "coktaṃ",
+     "gloss": "and-declared",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sevāyāṃ",
+     "gloss": "in-service",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kṛtāyāmavikalpataḥ",
+     "gloss": "when-done-without-doubt",
+     "grounds": "compound phrase",
+     "morph": "f.loc.sg+indecl."
+    }
+   ],
+   "question": "What mark remains without truth-knowledge?",
+   "premises": [
+    "Without truth-knowledge there is no other mark.",
+    "This is declared in Brahmayamala.",
+    "It is declared when service is done without doubt."
+   ],
+   "inference": "Truth-knowledge is the essential mark; without it no other mark remains.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Without truth-knowledge there is no other mark; this is declared in Brahmayamala when service is done without doubt."
+  }
+ ]
+}

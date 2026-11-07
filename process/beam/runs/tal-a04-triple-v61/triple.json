@@ -1,0 +1,803 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "sādhakasya",
+     "gloss": "of-practitioner",
+     "grounds": "sādhaka + sya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cetsiddhiḥ",
+     "gloss": "if-success",
+     "grounds": "cet + siddhiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryamiti",
+     "gloss": "to-be-done-thus",
+     "grounds": "kāryam + iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "codite",
+     "gloss": "when-asked",
+     "grounds": "codita + e",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ātmīyamasya",
+     "gloss": "his-own",
+     "grounds": "ātmīya + asya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃjñānakrameṇa",
+     "gloss": "by-naming-sequence",
+     "grounds": "saṃjñāna + krameṇa",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "svātmadīkṣaṇam",
+     "gloss": "self-initiation",
+     "grounds": "sva + ātma + dīkṣaṇam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "If the practitioner has no success, what is to be done?",
+   "premises": [
+    "practitioner lacks success",
+    "question asks proper action",
+    "self-initiation follows naming sequence"
+   ],
+   "inference": "The verse prescribes self-initiation by naming sequence when success is absent.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "If the practitioner has no success, self-initiation is given through the naming sequence."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "sasphuratvaprasiddhyarthaṃ",
+     "gloss": "for-establishing-vividness",
+     "grounds": "sasphuratva + prasiddhi + artham",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "to-be-accomplished",
+     "grounds": "sādhya + m",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prasiddhyati",
+     "gloss": "becomes-established",
+     "grounds": "pra + sidh + ati",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "ana + ena",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "svātmavijñānaṃ",
+     "gloss": "self-knowledge",
+     "grounds": "sva + ātma + vijñānam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sasphuratvaprasādhakam",
+     "gloss": "establishing-vividness",
+     "grounds": "sasphuratva + prasādhakam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does self-knowledge establish vividness?",
+   "premises": [
+    "vividness is to be established",
+    "self-knowledge accomplishes it",
+    "the means is given"
+   ],
+   "inference": "Self-knowledge is the means by which vividness becomes established.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Then self-knowledge, establishing vividness, accomplishes what is to be accomplished."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "ukta + m",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyatayācāryo",
+     "gloss": "as-primary-teacher",
+     "grounds": "mukhyatayā + ācāryo",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavedyadi",
+     "gloss": "if-he-becomes",
+     "grounds": "bhavet + yadi",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sasphuraḥ",
+     "gloss": "vivid",
+     "grounds": "sa + sphuraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "tatra + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmadraktārādhanakarmaṇi",
+     "gloss": "in-worship-of-red-tara",
+     "grounds": "śrīmat + raktā + ārādhana + karmaṇi",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What if the primary teacher is not vivid?",
+   "premises": [
+    "teacher may not be vivid",
+    "worship of red Tara is mentioned",
+    "alternative procedure follows"
+   ],
+   "inference": "If the primary teacher lacks vividness, the red Tara worship procedure applies.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "If the primary teacher is not vivid, then again in the worship of red Tara."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "vidhiṃ",
+     "gloss": "rule",
+     "grounds": "vidhi + m",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "prokta + m",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvanmāsenācārya",
+     "gloss": "doing-monthly-teacher",
+     "grounds": "kurvan + māsena + ācārya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "uc + yate",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "pakṣeṇa",
+     "gloss": "by-fortnight",
+     "grounds": "pakṣa + eṇa",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sādhako@rdhārdhātputrakaḥ",
+     "gloss": "practitioner-half-half-son",
+     "grounds": "sādhaka + ardha + ardha + putraka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samayī",
+     "gloss": "initiate",
+     "grounds": "samaya + ī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are teacher and practitioner classified by practice?",
+   "premises": [
+    "declared rule is always done",
+    "teacher is monthly",
+    "practitioner is half-fortnight initiate"
+   ],
+   "inference": "Roles are classified by the frequency and manner of practice.",
+   "uncertainties": [
+    "sandhi and compound boundaries approximate"
+   ],
+   "plain_english": "Doing the declared rule always, the teacher is monthly, the practitioner is half-fortnight initiate, and so on."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "dīkṣayejjapayogena",
+     "gloss": "initiate-by-mantra-practice",
+     "grounds": "dīkṣayet + japa + yogena",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "raktādevī",
+     "gloss": "red-goddess",
+     "grounds": "raktā + devī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kramādyataḥ",
+     "gloss": "from-sequence",
+     "grounds": "kramāt + yataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guroralābhe",
+     "gloss": "when-teacher-unavailable",
+     "grounds": "guroḥ + alābhe",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "proktasya",
+     "gloss": "of-declared",
+     "grounds": "prokta + sya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vidhimetaṃ",
+     "gloss": "this-rule",
+     "grounds": "vidhim + etam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "sam + ā + car + et",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How should one initiate when the teacher is unavailable?",
+   "premises": [
+    "teacher may be unavailable",
+    "red goddess sequence is declared",
+    "rule should be performed"
+   ],
+   "inference": "When the teacher is unavailable, one should perform the declared initiation rule by mantra practice.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "When the teacher is unavailable, one should perform this declared rule by mantra practice of the red goddess from the sequence."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "mate",
+     "gloss": "in-opinion",
+     "grounds": "mata + e",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pustakādvidyādhyayane",
+     "gloss": "in-study-from-book",
+     "grounds": "pustakāt + vidyā + adhyayane",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "doṣa",
+     "gloss": "fault",
+     "grounds": "doṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īdṛśaḥ",
+     "gloss": "such",
+     "grounds": "īdṛśa + ḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ukto",
+     "gloss": "said",
+     "grounds": "ukta + o",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yastena",
+     "gloss": "which-by-that",
+     "grounds": "yaḥ + tena",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "taddoṣābhāve@sau",
+     "gloss": "that-fault-absence-he",
+     "grounds": "tat + doṣa + abhāve + sau",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣiddhatā",
+     "gloss": "prohibition",
+     "grounds": "niṣiddha + tā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is book study prohibited when the fault is absent?",
+   "premises": [
+    "such fault is said",
+    "if that fault is absent",
+    "prohibition does not apply"
+   ],
+   "inference": "Book study is not prohibited when the stated fault is absent.",
+   "uncertainties": [
+    "sandhi and compound boundaries approximate"
+   ],
+   "plain_english": "In opinion, in study from a book, such a fault is said; if that fault is absent, there is no prohibition."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "mantradravyādiguptatve",
+     "gloss": "in-secrecy-of-mantra-etc",
+     "grounds": "mantra + dravya + ādi + guptatve",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "phala + m",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kimiti",
+     "gloss": "what-thus",
+     "grounds": "kim + iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "codite",
+     "gloss": "when-asked",
+     "grounds": "codita + e",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pustakādhītavidyā",
+     "gloss": "book-learned-knowledge",
+     "grounds": "pustaka + adhīta + vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dīkṣāsamayavarjitāḥ",
+     "gloss": "devoid-of-initiation-rite",
+     "grounds": "dīkṣā + samaya + varjitāḥ",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What fruit comes from secrecy of mantra and substances?",
+   "premises": [
+    "secrecy of mantra and substances is raised",
+    "book-learned knowledge is mentioned",
+    "those without initiation rite are described"
+   ],
+   "inference": "The verse questions the fruit of secrecy while noting uninitiated book learners.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "When asked what fruit comes from secrecy of mantra and substances, book-learned knowledge belongs to those devoid of the initiation rite."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "tāmasāḥ",
+     "gloss": "dark-natured",
+     "grounds": "tāmasa + āḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parahiṃsādi",
+     "gloss": "harm-to-others-etc",
+     "grounds": "para + hiṃsā + ādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaśyādi",
+     "gloss": "subjugation-etc",
+     "grounds": "vaśya + ādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carantyalam",
+     "gloss": "they-practice-enough",
+     "grounds": "caranti + alam",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "truth",
+     "grounds": "tattva + m",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidustena",
+     "gloss": "they-know-by-that",
+     "grounds": "viduḥ + tena",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "doṣabhāja",
+     "gloss": "possessing-fault",
+     "grounds": "doṣa + bhāja",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clear",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What do dark-natured practitioners know?",
+   "premises": [
+    "dark-natured ones practice harm and subjugation",
+    "they do not know truth",
+    "they are fault-bearing"
+   ],
+   "inference": "Dark-natured practitioners engage in harmful practices without knowing truth and bear fault.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Dark-natured ones practice harm to others and subjugation enough, but they do not know truth; thus they are clearly fault-bearing."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padayugaṃ",
+     "gloss": "pair-of-words",
+     "grounds": "pada + yugam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vācyamanyonyaṃ",
+     "gloss": "to-be-spoken-mutually",
+     "grounds": "vācyam + anyonyam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hetuhetumat",
+     "gloss": "cause-and-effect",
+     "grounds": "hetu + hetumat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "but-who",
+     "grounds": "yaḥ + tu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "śāstra + m",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naiti",
+     "gloss": "does-not-attain",
+     "grounds": "na + eti",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "śuddhavidyākhyasaṃvidam",
+     "gloss": "pure-knowledge-named-awareness",
+     "grounds": "śuddha + vidyā + ākhya + saṃvidam",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Can pure knowledge be attained without scripture?",
+   "premises": [
+    "first a pair of words is spoken mutually",
+    "cause and effect is considered",
+    "without scripture pure knowledge is not attained"
+   ],
+   "inference": "Pure knowledge named awareness is not attained without scripture.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "First a pair of words is to be spoken mutually as cause and effect; but without scripture one does not attain pure-knowledge-named awareness."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "guru + oḥ",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāstramanvicchustaduktaṃ",
+     "gloss": "seeking-scripture-that-declared",
+     "grounds": "śāstram + anvicchuḥ + tad + uktam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramamācaret",
+     "gloss": "should-perform-sequence",
+     "grounds": "kramam + ācaret",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kenāpyupāyena",
+     "gloss": "by-any-means",
+     "grounds": "kena + api + upāyena",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "gurumārādhya",
+     "gloss": "having-worshipped-teacher",
+     "grounds": "gurum + ārādhya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "bhaktitaḥ",
+     "gloss": "with-devotion",
+     "grounds": "bhakti + taḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one seek scripture from the teacher?",
+   "premises": [
+    "he seeks scripture declared by teacher",
+    "he should perform sequence",
+    "teacher is worshipped with devotion by any means"
+   ],
+   "inference": "One should worship the teacher with devotion by any means and perform the declared sequence to seek scripture.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "He who seeks the scripture declared by the teacher should perform the sequence, having worshipped the teacher with devotion by any means."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "taddīkṣākramayogena",
+     "gloss": "by-that-initiation-sequence",
+     "grounds": "tat + dīkṣā + krama + yogena",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "śāstrārthaṃ",
+     "gloss": "meaning-of-scripture",
+     "grounds": "śāstra + artham",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vettyasau",
+     "gloss": "he-knows-that-one",
+     "grounds": "vetti + asau",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhiṣekaṃ",
+     "gloss": "consecration",
+     "grounds": "abhiṣeka + m",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samāsādya",
+     "gloss": "having-obtained",
+     "grounds": "sam + āsādya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavetsa",
+     "gloss": "he-becomes",
+     "grounds": "bhavet + sa",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpitaḥ",
+     "gloss": "appointed",
+     "grounds": "kalpita + ḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who becomes appointed after consecration?",
+   "premises": [
+    "by initiation sequence he knows scripture meaning",
+    "then obtaining consecration",
+    "he becomes appointed"
+   ],
+   "inference": "One who knows scripture meaning through initiation and obtains consecration becomes appointed.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "By that initiation sequence he knows the meaning of scripture; then, having obtained consecration, he becomes appointed."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "sannapyaśeṣapāśaughavinivartanakovidaḥ",
+     "gloss": "skilled-in-removing-all-bonds",
+     "grounds": "sann + api + aśeṣa + pāśa + ogha + vinivartana + kovidaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathākramayogena",
+     "gloss": "by-proper-sequence",
+     "grounds": "yathā + krama + yogena",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kasmiṃścicchāstravastuni",
+     "gloss": "in-some-scriptural-matter",
+     "grounds": "kasmin + cit + śāstra + vastuni",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Who is skilled in removing all bonds?",
+   "premises": [
+    "he is skilled in removing all bonds",
+    "he acts by proper sequence",
+    "he is in some scriptural matter"
+   ],
+   "inference": "The one skilled in removing all bonds acts by proper sequence in some scriptural matter.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Skilled in removing all bonds, he acts by proper sequence in some scriptural matter."
+  }
+ ]
+}

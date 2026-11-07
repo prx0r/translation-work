@@ -1,0 +1,803 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "ākasmikaṃ",
+     "gloss": "sudden",
+     "grounds": "sudden quality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "brajedbodhaṃ",
+     "gloss": "goes-to-awakening",
+     "grounds": "movement toward knowledge",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "kalpitākalpito",
+     "gloss": "imagined-unimagined",
+     "grounds": "compound of imagined and unimagined",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yo@kalpito",
+     "gloss": "whose-imagined",
+     "grounds": "relative imagined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāgaḥ",
+     "gloss": "part",
+     "grounds": "portion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreṣṭhamaḥ",
+     "gloss": "most-excellent",
+     "grounds": "superlative quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "remembered as",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does sudden awakening relate to imagined and unimagined parts?",
+   "premises": [
+    "sudden awakening is possible",
+    "imagined and unimagined parts differ",
+    "the unimagined part is most excellent"
+   ],
+   "inference": "The highest part is the unimagined one.",
+   "uncertainties": [
+    "exact sandhi of yo@kalpito"
+   ],
+   "plain_english": "Sudden awakening occurs; among imagined and unimagined parts, the unimagined part is remembered as most excellent."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "utkarṣaḥ",
+     "gloss": "excellence",
+     "grounds": "superiority",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuddhavidyāṃśatāratamyakṛto",
+     "gloss": "made-by-purity-knowledge-degree",
+     "grounds": "compound of purity knowledge degree",
+     "morph": "compound"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedenādisiddhācchivānmuktaśivā",
+     "gloss": "from-difference-beginning-accomplished-shiva-liberated-shiva",
+     "grounds": "compound phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "hyadhaḥ",
+     "gloss": "indeed-below",
+     "grounds": "emphasis and below",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does excellence arise from degrees of pure knowledge?",
+   "premises": [
+    "excellence comes from pure knowledge degrees",
+    "difference begins from accomplished shiva",
+    "liberated shiva is below"
+   ],
+   "inference": "Excellence is graded by pure knowledge.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Excellence arises from degrees of pure knowledge, as difference begins from accomplished Shiva and liberated Shiva is below."
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāṃsiddhikajñānādāhṛtajñānino@dhamāḥ",
+     "gloss": "natural-knowledge-acquired-knowledge-possessors-lower",
+     "grounds": "compound phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatsaṃnidhau",
+     "gloss": "in-its-presence",
+     "grounds": "nearness",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nādhikārasteṣāṃ",
+     "gloss": "no-authority-theirs",
+     "grounds": "lack of authority",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktaśivātmavat",
+     "gloss": "like-liberated-shiva-self",
+     "grounds": "comparison",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why do lower possessors lack authority near the accomplished?",
+   "premises": [
+    "natural and acquired knowers differ",
+    "lower ones lack authority",
+    "they are like liberated shiva self"
+   ],
+   "inference": "Lower knowers have no authority in that presence.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Thus lower possessors of acquired knowledge have no authority in its presence, like liberated Shiva self."
+  },
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tūṣṇīṃ-sthitiryadvā",
+     "gloss": "silent-standing-or",
+     "grounds": "compound phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛtyaṃ",
+     "gloss": "action",
+     "grounds": "duty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadanuvartanam",
+     "gloss": "following-that",
+     "grounds": "conformity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yastvakalpitarūpo@pi",
+     "gloss": "who-unimagined-form-even",
+     "grounds": "relative unimagined",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃvādadṛḍhatākṛte",
+     "gloss": "agreement-firmness-made",
+     "grounds": "compound phrase",
+     "morph": "compound"
+    }
+   ],
+   "question": "What action remains for one of unimagined form?",
+   "premises": [
+    "silent standing or action remains",
+    "following that is duty",
+    "unimagined form makes agreement firm"
+   ],
+   "inference": "The unimagined form sustains firm agreement.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "But silent standing or action remains; following that is duty, and even unimagined form makes agreement firm."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "anyato",
+     "gloss": "from-elsewhere",
+     "grounds": "source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labdhasaṃskāraḥ",
+     "gloss": "obtained-impression",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣādbhairavo",
+     "gloss": "directly-bhairava",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrakramāttajjñaguruprajñānuśīlanāt",
+     "gloss": "scripture-order-that-knowing-teacher-wisdom-practice",
+     "grounds": "compound phrase",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is a teacher who obtained impressions elsewhere directly Bhairava?",
+   "premises": [
+    "impressions come from elsewhere",
+    "teacher is directly Bhairava",
+    "scripture order and teacher wisdom practice"
+   ],
+   "inference": "Such a teacher is directly Bhairava through scripture and practice.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "A teacher who obtained impressions elsewhere is directly Bhairava, because of scripture order and practice of that knowing teacher's wisdom."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "ātmapratyayitaṃ",
+     "gloss": "self-ascertained",
+     "grounds": "self certainty",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrṇatvādbhairavāyate",
+     "gloss": "from-fullness-becomes-bhairava",
+     "grounds": "compound verb",
+     "morph": "verb.3.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrument",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śrīkiraṇoktaṃ",
+     "gloss": "shri-kirana-stated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadgurutaḥ",
+     "gloss": "which-from-teacher",
+     "grounds": "source",
+     "morph": "compound"
+    },
+    {
+     "surface": "śāstrataḥ",
+     "gloss": "from-scripture",
+     "grounds": "source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svataḥ",
+     "gloss": "from-self",
+     "grounds": "source",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does self-ascertained knowledge become Bhairava?",
+   "premises": [
+    "self-ascertained knowledge is full",
+    "fullness makes it Bhairava",
+    "it is stated from teacher scripture self"
+   ],
+   "inference": "Full self-knowledge becomes Bhairava from multiple sources.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Self-ascertained knowledge becomes Bhairava through fullness; it is stated from teacher, scripture, and self."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "tripratyayamidaṃ",
+     "gloss": "three-sources-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñānamiti",
+     "gloss": "knowledge-thus",
+     "grounds": "quotation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yacca",
+     "gloss": "and-which",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśāṭane",
+     "gloss": "in-night-wandering",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tatsaṃghātaviparyāsavigrahairbhāsate",
+     "gloss": "its-aggregate-inversion-forms-shines",
+     "grounds": "compound verb",
+     "morph": "verb.3.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does three-source knowledge shine in night wandering?",
+   "premises": [
+    "knowledge has three sources",
+    "it shines through aggregate inversion forms",
+    "thus it appears"
+   ],
+   "inference": "Three-source knowledge shines through transformed forms.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "This knowledge has three sources; it shines through aggregate, inversion, and forms in night wandering."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "karaṇasya",
+     "gloss": "of-instrument",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vicitratvādvicitrāmeva",
+     "gloss": "from-variety-various-indeed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "chidam",
+     "gloss": "cutting",
+     "grounds": "action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kartuṃ",
+     "gloss": "to-do",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "vāsīṃ",
+     "gloss": "axe",
+     "grounds": "tool",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṭaṅkaṃ",
+     "gloss": "chisel",
+     "grounds": "tool",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krakacaṃ",
+     "gloss": "saw",
+     "grounds": "tool",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇate",
+     "gloss": "they-take",
+     "grounds": "verb",
+     "morph": "verb.3.pl"
+    }
+   ],
+   "question": "Why do instruments take various tools for cutting?",
+   "premises": [
+    "instrument has variety",
+    "they take axe chisel saw",
+    "cutting is to be done"
+   ],
+   "inference": "Varied instruments use varied tools for cutting.",
+   "uncertainties": [
+    "exact tool glosses"
+   ],
+   "plain_english": "Because of variety, instruments take axe, chisel, and saw to perform cutting."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "tāvacca",
+     "gloss": "so-long-and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chedanaṃ",
+     "gloss": "cutting",
+     "grounds": "action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyekaṃ",
+     "gloss": "indeed-one",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaivādyābhisaṃdhitaḥ",
+     "gloss": "thus-from-initial-intention",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "itthameva",
+     "gloss": "thus-indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mitau",
+     "gloss": "in-measure",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vācyaṃ",
+     "gloss": "to-be-spoken",
+     "grounds": "passive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karaṇasya",
+     "gloss": "of-instrument",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svakaṃ",
+     "gloss": "own",
+     "grounds": "possessive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "body",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is instrument's own body spoken in measure?",
+   "premises": [
+    "cutting is one",
+    "initial intention matters",
+    "instrument's own body is spoken"
+   ],
+   "inference": "The instrument's own body is described in measured speech.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Cutting is one from initial intention; thus the instrument's own body is to be spoken in measure."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svatantraṃ",
+     "gloss": "independent",
+     "grounds": "quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svato",
+     "gloss": "from-self",
+     "grounds": "source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuryādadhigamaṃ",
+     "gloss": "would-make-attainment",
+     "grounds": "compound verb",
+     "morph": "verb.3.sg.opt"
+    },
+    {
+     "surface": "haṭhāt",
+     "gloss": "by-force",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramātrāśvāsaparyanto",
+     "gloss": "knower-breath-limit",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yato@dhigama",
+     "gloss": "because-attainment",
+     "grounds": "reason",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive",
+     "morph": "verb.3.sg.pass"
+    }
+   ],
+   "question": "Why is measure not independent from self?",
+   "premises": [
+    "measure is not independent",
+    "attainment is not by force",
+    "knower breath limit is said"
+   ],
+   "inference": "Measure depends on knower and breath limit.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Measure is not independent from self; attainment is not by force, and the knower's breath limit is said."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "āśvāsaśca",
+     "gloss": "breath-and",
+     "grounds": "conjunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vicitro@sau",
+     "gloss": "various-that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktipātavaśāttathā",
+     "gloss": "from-power-descent-thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pramite@pi",
+     "gloss": "even-in-measure",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pramāṇānāmavakāśo@styataḥ",
+     "gloss": "of-measures-space-is-therefore",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sphuṭaḥ",
+     "gloss": "clear",
+     "grounds": "quality",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is breath various and measures have space?",
+   "premises": [
+    "breath is various",
+    "power descent causes it",
+    "measures have clear space"
+   ],
+   "inference": "Power descent makes breath varied and measures spacious.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Breath is various from power descent; even in measure, measures have clear space."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "samāśliṣya",
+     "gloss": "having-embraced",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "ciraṃ",
+     "gloss": "long",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃcarvya",
+     "gloss": "having-chewed",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "cetasā",
+     "gloss": "by-mind",
+     "grounds": "instrument",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "priyā",
+     "gloss": "beloved",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yaiḥ",
+     "gloss": "by-whom",
+     "grounds": "relative",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "parituṣyeta",
+     "gloss": "would-be-satisfied",
+     "grounds": "verb",
+     "morph": "verb.3.sg.opt"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brūmaḥ",
+     "gloss": "we-say",
+     "grounds": "verb",
+     "morph": "verb.1.pl"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tānprati",
+     "gloss": "toward-them",
+     "grounds": "direction",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What can we say to those satisfied by seeing embracing chewing?",
+   "premises": [
+    "they see embrace chew long",
+    "beloved satisfies by mind",
+    "we say what to them"
+   ],
+   "inference": "Their satisfaction is beyond ordinary speech.",
+   "uncertainties": [
+    "poetic sense"
+   ],
+   "plain_english": "Having seen, embraced, and chewed long with mind, the beloved satisfies them; what can we say to them?"
+  }
+ ]
+}
