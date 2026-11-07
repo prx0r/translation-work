@@ -1,0 +1,659 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "saṃkocatāratamyena",
+     "gloss": "by-degree-of-contraction",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pāśavaṃ",
+     "gloss": "bound-knowledge",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñānamīritam",
+     "gloss": "knowledge-declared",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vikāsatāratamyena",
+     "gloss": "by-degree-of-expansion",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "patijñānaṃ",
+     "gloss": "lord-knowledge",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bādhakam",
+     "gloss": "obstructive",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does contraction and expansion affect bound and lordly knowledge?",
+   "premises": [
+    "contraction degree yields bound knowledge",
+    "expansion degree yields lordly knowledge",
+    "lordly knowledge is obstructive"
+   ],
+   "inference": "knowledge quality varies by contraction-expansion degree",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Bound knowledge is declared by contraction, while lordly knowledge by expansion is obstructive."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvaitamidaṃ",
+     "gloss": "this-duality",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "neti",
+     "gloss": "not-so",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parasparaniṣedhataḥ",
+     "gloss": "by-mutual-negation",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māyīyabhedaklṛptaṃ",
+     "gloss": "maya-difference-constructed",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatsyādakālpanike",
+     "gloss": "that-would-be-non-imagined",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How can maya-made duality be non-imagined?",
+   "premises": [
+    "this duality is not so",
+    "mutual negation applies",
+    "maya difference is constructed"
+   ],
+   "inference": "non-imagined status is questioned",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "This duality is not so; how can maya-made difference be non-imagined?"
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhargaśikhāyāṃ",
+     "gloss": "in-bharga-crest",
+     "grounds": "compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mṛtyukālakalādikam",
+     "gloss": "death-time-arts-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvaitādvaitavikalpotthaṃ",
+     "gloss": "from-duality-nonduality-options",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "grasate",
+     "gloss": "swallows",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root gras"
+    },
+    {
+     "surface": "kṛtadhīriti",
+     "gloss": "having-made-intent-thus",
+     "grounds": "compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What swallows death-time arts arising from duality options?",
+   "premises": [
+    "it was said in bharga crest",
+    "death-time arts are included",
+    "duality-nonduality options arise"
+   ],
+   "inference": "the declared intent swallows them",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "In the bharga crest, death-time arts arising from duality options are swallowed."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "siddhānte",
+     "gloss": "in-doctrine",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "liṅgapūjoktā",
+     "gloss": "linga-worship-stated",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśvādhvamayatāvide",
+     "gloss": "for-world-path-embodiment",
+     "grounds": "compound",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kulādiṣu",
+     "gloss": "in-kula-etc",
+     "grounds": "compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "niṣiddhāsau",
+     "gloss": "that-is-forbidden",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśvātmatāvide",
+     "gloss": "for-world-self-embodiment",
+     "grounds": "compound",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "Why is world-path embodiment forbidden in kula contexts?",
+   "premises": [
+    "doctrine states linga worship",
+    "world-path embodiment is for that",
+    "forbidden in kula etc"
+   ],
+   "inference": "body world-self embodiment is distinguished",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "In doctrine, linga worship states world-path embodiment; in kula contexts it is forbidden for body world-self embodiment."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvātmake",
+     "gloss": "in-all-self",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kasmāttadvidhipratiṣedhane",
+     "gloss": "why-in-that-rule-prohibition",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niyamānupraveśena",
+     "gloss": "by-rule-entry",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tādātmyapratipattaye",
+     "gloss": "for-identity-realization",
+     "grounds": "compound",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "Why is that rule prohibited here in all-self?",
+   "premises": [
+    "here all-self is present",
+    "rule prohibition occurs",
+    "rule entry serves identity realization"
+   ],
+   "inference": "prohibition is questioned despite identity aim",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Here, in all-self, why is that rule prohibited by rule entry for identity realization?"
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "jaṭādi",
+     "gloss": "matted-hair-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaule",
+     "gloss": "in-kula",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tyāgo@sya",
+     "gloss": "its-abandonment",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sukhopāyopadeśataḥ",
+     "gloss": "by-easy-means-instruction",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vratacaryā",
+     "gloss": "vow-practice",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantrārthatādātmyapratipattaye",
+     "gloss": "for-mantra-meaning-identity-realization",
+     "grounds": "compound",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "Why abandon matted hair in kula practice?",
+   "premises": [
+    "matted hair etc in kula",
+    "abandonment by easy means",
+    "vow practice and mantra identity"
+   ],
+   "inference": "abandonment serves mantra-meaning identity",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "In kula, matted hair etc is abandoned by easy means; vow practice serves mantra-meaning identity."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "tanniṣedhastu",
+     "gloss": "but-its-prohibition",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrārthasārvātmyapratipattaye",
+     "gloss": "for-mantra-meaning-universal-self-realization",
+     "grounds": "compound",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kṣetrapīṭhopapīṭheṣu",
+     "gloss": "in-fields-seats-subseats",
+     "grounds": "compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "praveśo",
+     "gloss": "entry",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vighnaśāntaye",
+     "gloss": "for-obstacle-peace",
+     "grounds": "compound",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "Why prohibit entry into fields and seats?",
+   "premises": [
+    "its prohibition serves universal self realization",
+    "entry into fields seats subseats",
+    "obstacle peace is aim"
+   ],
+   "inference": "prohibition and entry both serve realization and peace",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Its prohibition serves mantra universal-self realization; entry into fields and seats serves obstacle peace."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "mantrādyārādhakasyātha",
+     "gloss": "then-of-mantra-worshipper",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tallābhāyopadiśyate",
+     "gloss": "for-its-gain-is-taught",
+     "grounds": "compound",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kṣetrādigamanābhāvavidhistu",
+     "gloss": "but-rule-of-not-going-to-fields-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svātmanastathā",
+     "gloss": "thus-of-own-self",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What is taught for the mantra worshipper's gain?",
+   "premises": [
+    "mantra worshipper's gain is taught",
+    "rule of not going to fields etc",
+    "own self is involved"
+   ],
+   "inference": "gain is taught through non-going rule",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "For the mantra worshipper's gain, the rule of not going to fields etc is taught for own self."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "vaiśvarūpyeṇa",
+     "gloss": "by-universal-form",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrṇatvaṃ",
+     "gloss": "fullness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñātumityapi",
+     "gloss": "to-know-thus-also",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varṇitam",
+     "gloss": "described",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samayācārasadbhāvaḥ",
+     "gloss": "existence-of-conventional-practice",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pālyatvenopadiśyate",
+     "gloss": "as-to-be-protected-is-taught",
+     "grounds": "compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is fullness known by universal form?",
+   "premises": [
+    "fullness by universal form",
+    "to know is described",
+    "conventional practice existence is taught"
+   ],
+   "inference": "conventional practice is to be protected",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Fullness by universal form is described to know; conventional practice existence is taught as to be protected."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "bhedaprāṇatayā",
+     "gloss": "by-difference-as-life",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattattyāgāttattvaviśuddhaye",
+     "gloss": "by-abandoning-each-for-principle-purity",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samayādiniṣedhastu",
+     "gloss": "but-prohibition-of-conventions-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mataśāstreṣu",
+     "gloss": "in-doctrinal-scriptures",
+     "grounds": "compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres + root kath"
+    }
+   ],
+   "question": "Why prohibit conventions in doctrinal scriptures?",
+   "premises": [
+    "difference as life",
+    "abandoning each purifies principle",
+    "convention prohibition is said"
+   ],
+   "inference": "scriptures teach convention prohibition for purity",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "By difference as life, abandoning each purifies principle; convention prohibition is said in doctrinal scriptures."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "nirmaryādaṃ",
+     "gloss": "boundless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svasaṃbodhaṃ",
+     "gloss": "self-awakening",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃpūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "buddhyatāmiti",
+     "gloss": "let-it-be-understood-thus",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parakīyamidaṃ",
+     "gloss": "this-is-another's",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyeyametattu",
+     "gloss": "but-this-is-to-be-meditated",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nijam",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form is to be meditated as own?",
+   "premises": [
+    "boundless self-awakening complete",
+    "let it be understood thus",
+    "this form is another's"
+   ],
+   "inference": "my own form is to be meditated",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Let boundless complete self-awakening be understood; this form is another's, but my own is to be meditated."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "jvālādiliṅgaṃ",
+     "gloss": "flame-etc-linga",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cānyasya",
+     "gloss": "and-of-another",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kapālādi",
+     "gloss": "skull-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nijam",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādiśabdāttapaścaryāvelātithyādi",
+     "gloss": "from-etc-word-asceticism-time-hospitality-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres + root kath"
+    }
+   ],
+   "question": "What is said about flame linga and skull etc?",
+   "premises": [
+    "flame linga belongs to another",
+    "skull etc is my own",
+    "etc includes asceticism hospitality"
+   ],
+   "inference": "own and other forms are distinguished",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Flame linga belongs to another, but skull etc is my own; etc includes asceticism and hospitality."
+  }
+ ]
+}

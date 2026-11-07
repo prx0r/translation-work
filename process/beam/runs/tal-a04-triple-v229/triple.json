@@ -1,0 +1,785 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "itthamastu",
+     "gloss": "let-it-be-thus",
+     "grounds": "token 1",
+     "morph": "3.sg.act-imp"
+    },
+    {
+     "surface": "tathāpyeṣā",
+     "gloss": "even-so-this",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "codanaiva",
+     "gloss": "injunction-only",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivoditā",
+     "gloss": "spoken-by-shiva",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syātsatīti",
+     "gloss": "would-be-true-thus",
+     "grounds": "token 6",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "cedetadanyatra",
+     "gloss": "if-this-elsewhere",
+     "grounds": "token 7",
+     "morph": "indecl"
+    },
+    {
+     "surface": "pravitānitam",
+     "gloss": "extended",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What injunction spoken by Shiva would be true if this is elsewhere?",
+   "premises": [
+    "the verse asks about an injunction",
+    "it contrasts this with elsewhere"
+   ],
+   "inference": "the question challenges where the injunction applies",
+   "uncertainties": [
+    "context of elsewhere not specified"
+   ],
+   "plain_english": "Let it be so; even so, what injunction spoken by Shiva would be true if this is elsewhere?"
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "vaidikyā",
+     "gloss": "vedic",
+     "grounds": "token 1",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "bādhiteyaṃ",
+     "gloss": "this-is-overruled",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cedviparītaṃ",
+     "gloss": "if-opposite",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 4",
+     "morph": "indecl"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "token 6",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "samyakcenmanyase",
+     "gloss": "if-you-think-correctly",
+     "grounds": "token 7",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "bādho",
+     "gloss": "overruling",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśiṣṭaviṣayatvataḥ",
+     "gloss": "from-specific-objectness",
+     "grounds": "token 9",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "If this is overruled by the Vedic, would the opposite not become true?",
+   "premises": [
+    "vedic overruling is considered",
+    "the opposite outcome is questioned"
+   ],
+   "inference": "overruling depends on specific objectness",
+   "uncertainties": [
+    "scope of overruling unclear"
+   ],
+   "plain_english": "If this is overruled by the Vedic, would the opposite not become true, if you think correctly, from specific objectness?"
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "apavādena",
+     "gloss": "by-exception",
+     "grounds": "token 1",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāmānyavihite",
+     "gloss": "in-general-rule",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "in-injunction",
+     "grounds": "token 4",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śuddhyaśuddhī",
+     "gloss": "purity-and-impurity",
+     "grounds": "token 5",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "indecl"
+    },
+    {
+     "surface": "sāmānyavihite",
+     "gloss": "in-general-rule",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tattvabodhini",
+     "gloss": "in-truth-teaching",
+     "grounds": "token 8",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "How should exception be made in a general injunction?",
+   "premises": [
+    "exception applies to general rule",
+    "purity and impurity are distinguished"
+   ],
+   "inference": "exception refines the general injunction",
+   "uncertainties": [
+    "exact exception scope unclear"
+   ],
+   "plain_english": "By exception it is to be done in a general injunction; purity and impurity in a general injunction, in truth-teaching."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "puṃsi",
+     "gloss": "in-man",
+     "grounds": "token 1",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "token 2",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bādhite",
+     "gloss": "overruled",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 4",
+     "morph": "indecl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 5",
+     "morph": "indecl"
+    },
+    {
+     "surface": "cātreti",
+     "gloss": "and-here-thus",
+     "grounds": "token 6",
+     "morph": "indecl"
+    },
+    {
+     "surface": "varṇitam",
+     "gloss": "described",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nārthavādādiśaṅkā",
+     "gloss": "no-doubt-about-arthavada-etc",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 9",
+     "morph": "indecl"
+    },
+    {
+     "surface": "vākye",
+     "gloss": "in-sentence",
+     "grounds": "token 10",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "māheśvare",
+     "gloss": "in-maheshvara",
+     "grounds": "token 11",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "token 12",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What is described when man is overruled, and is there doubt in the Maheshvara sentence?",
+   "premises": [
+    "overruling in man is described",
+    "no doubt about arthavada etc in sentence"
+   ],
+   "inference": "the Maheshvara sentence avoids such doubt",
+   "uncertainties": [
+    "reference of described item unclear"
+   ],
+   "plain_english": "When man is overruled, thus it is described here; and no doubt about arthavada etc. would be in the Maheshvara sentence."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "abuddhipūrvaṃ",
+     "gloss": "without-prior-intelligence",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 3",
+     "morph": "indecl"
+    },
+    {
+     "surface": "saṃsthite",
+     "gloss": "established",
+     "grounds": "token 4",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "token 5",
+     "morph": "indecl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "token 6",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vyomādirūpe",
+     "gloss": "in-sky-form-etc",
+     "grounds": "token 7",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nigame",
+     "gloss": "in-scripture",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaṅkā",
+     "gloss": "doubt",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mithyārthatāṃ",
+     "gloss": "false-meaning",
+     "grounds": "token 10",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "token 11",
+     "morph": "indecl"
+    }
+   ],
+   "question": "Why would doubt about false meaning always arise in scripture?",
+   "premises": [
+    "establishment without prior intelligence",
+    "doubt toward false meaning"
+   ],
+   "inference": "lack of prior intelligence causes doubt",
+   "uncertainties": [
+    "exact scripture reference unclear"
+   ],
+   "plain_english": "Without prior intelligence, thus established, doubt toward false meaning would always be in scripture of sky-form etc."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "anavacchinnavijñānavaiśvarūpyasunirbharaḥ",
+     "gloss": "full-of-unlimited-consciousness-and-universal-form",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāstrātmanā",
+     "gloss": "as-scripture-self",
+     "grounds": "token 2",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "standing",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mithyātvaṃ",
+     "gloss": "falsity",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "token 6",
+     "morph": "indecl"
+    },
+    {
+     "surface": "nārhati",
+     "gloss": "does-not-deserve",
+     "grounds": "token 7",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Why does God not deserve falsity anywhere?",
+   "premises": [
+    "God stands as scripture-self",
+    "God is full of unlimited consciousness"
+   ],
+   "inference": "falsity is incompatible with God",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "God, full of unlimited consciousness and universal form, standing as scripture-self, does not deserve falsity anywhere."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "icchāvānbhāvarūpeṇa",
+     "gloss": "as-desiring-being-form",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "token 2",
+     "morph": "indecl"
+    },
+    {
+     "surface": "tiṣṭhāsurīśvaraḥ",
+     "gloss": "wishing-to-stand-lord",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatsvarūpābhidhānena",
+     "gloss": "by-naming-its-own-form",
+     "grounds": "token 4",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tiṣṭhāsuḥ",
+     "gloss": "wishing-to-stand",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 7",
+     "morph": "indecl"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the Lord stand by naming His own form?",
+   "premises": [
+    "Lord desires to stand",
+    "He stands by naming own form"
+   ],
+   "inference": "standing follows self-naming",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "As desiring being-form, as the Lord wishing to stand, by naming its own form, wishing to stand, he thus stands."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "arthavādo@pi",
+     "gloss": "even-arthavada",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatrānyavidhyādimukhamīkṣate",
+     "gloss": "where-it-sees-other-injunction-etc",
+     "grounds": "token 2",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tatrāstvasatyaḥ",
+     "gloss": "there-let-it-be-untrue",
+     "grounds": "token 3",
+     "morph": "indecl"
+    },
+    {
+     "surface": "svātantrye",
+     "gloss": "in-freedom",
+     "grounds": "token 4",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 6",
+     "morph": "indecl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 7",
+     "morph": "indecl"
+    },
+    {
+     "surface": "vidhāyakaḥ",
+     "gloss": "enjoiner",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When arthavada sees another injunction, is it untrue?",
+   "premises": [
+    "arthavada may be untrue there",
+    "he is enjoiner in freedom"
+   ],
+   "inference": "enjoiner remains despite untrue arthavada",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Even arthavada, where it sees other injunction etc., there let it be untrue; in freedom he indeed is enjoiner."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "vidhivākyāntare",
+     "gloss": "in-other-injunction-sentence",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gacchannaṅgabhāvamathāpi",
+     "gloss": "going-to-auxiliary-state-also",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 3",
+     "morph": "indecl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 4",
+     "morph": "indecl"
+    },
+    {
+     "surface": "nirarthakaṃ",
+     "gloss": "meaningless",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evāyaṃ",
+     "gloss": "this-indeed",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃnidhergajaḍādivat",
+     "gloss": "like-elephant-etc-from-proximity",
+     "grounds": "token 7",
+     "morph": "indecl"
+    }
+   ],
+   "question": "Does going to auxiliary state in another injunction sentence become meaningless?",
+   "premises": [
+    "auxiliary state may occur",
+    "proximity like elephant etc."
+   ],
+   "inference": "proximity prevents meaninglessness",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In another injunction sentence, going to auxiliary state or not, this indeed is not meaningless, like elephant etc. from proximity."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "svārthapratyāyanaṃ",
+     "gloss": "self-meaning-proof",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāsya",
+     "gloss": "and-its",
+     "grounds": "token 2",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svasaṃvittyaiva",
+     "gloss": "by-self-awareness-only",
+     "grounds": "token 3",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "token 4",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tadapahnavanaṃ",
+     "gloss": "denial-of-that",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kartuṃ",
+     "gloss": "to-do",
+     "grounds": "token 6",
+     "morph": "indecl"
+    },
+    {
+     "surface": "śakyaṃ",
+     "gloss": "possible",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhiniṣedhayoḥ",
+     "gloss": "of-injunction-and-prohibition",
+     "grounds": "token 8",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "Can denial of self-meaning be done in injunction and prohibition?",
+   "premises": [
+    "self-meaning shines by self-awareness",
+    "denial is possible"
+   ],
+   "inference": "denial concerns injunction and prohibition",
+   "uncertainties": [
+    "exact denial scope unclear"
+   ],
+   "plain_english": "Its self-meaning shines by self-awareness only; denial of that is possible in injunction and prohibition."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "yuktiścātrāsti",
+     "gloss": "and-reason-here-is",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vākyeṣu",
+     "gloss": "in-sentences",
+     "grounds": "token 2",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "svasaṃviccāpyabādhitā",
+     "gloss": "self-awareness-also-unoverruled",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samagrārthamāṇikyatattvaniścayakāriṇī",
+     "gloss": "making-certainty-of-whole-meaning-gem-truth",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What reason is here in sentences?",
+   "premises": [
+    "reason is here in sentences",
+    "self-awareness is unoverruled"
+   ],
+   "inference": "it makes certainty of whole meaning",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "And reason is here in sentences, self-awareness also unoverruled, which makes certainty of whole meaning gem truth."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "mṛtadehe@tha",
+     "gloss": "in-dead-body-then",
+     "grounds": "token 1",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dehotthe",
+     "gloss": "body-born",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāśuddhiḥ",
+     "gloss": "and-impurity",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "token 6",
+     "morph": "indecl"
+    },
+    {
+     "surface": "neti",
+     "gloss": "not-thus",
+     "grounds": "token 7",
+     "morph": "indecl"
+    },
+    {
+     "surface": "buddhyantāmaśuddhaṃ",
+     "gloss": "let-them-understand-impure",
+     "grounds": "token 8",
+     "morph": "3.pl.act-imp"
+    },
+    {
+     "surface": "saṃvidaścyutam",
+     "gloss": "fallen-from-consciousness",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What impurity is declared in dead body and body-born?",
+   "premises": [
+    "impurity is declared",
+    "elsewhere not thus"
+   ],
+   "inference": "impurity is understood as fallen from consciousness",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In dead body then, body-born, which impurity is declared; elsewhere not thus; let them understand impure, fallen from consciousness."
+  }
+ ]
+}

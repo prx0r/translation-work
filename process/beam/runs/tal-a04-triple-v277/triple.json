@@ -1,0 +1,164 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "asmiṃśca",
+     "gloss": "in-this-and",
+     "grounds": "locative plus conjunction",
+     "morph": "m.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "yoge",
+     "gloss": "in-yoga",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśrāntiṃ",
+     "gloss": "rest",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kurvatāṃ",
+     "gloss": "of-those-doing",
+     "grounds": "genitive participle",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhavaḍambaraḥ",
+     "gloss": "worldly-pomp",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "himānīva",
+     "gloss": "like-snowfield",
+     "grounds": "simile",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "mahāgrīṣme",
+     "gloss": "in-great-summer",
+     "grounds": "locative time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svayameva",
+     "gloss": "by-itself-indeed",
+     "grounds": "emphatic adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilīyate",
+     "gloss": "dissolves",
+     "grounds": "middle verb",
+     "morph": "3.sg.mid.pres + root-lī"
+    }
+   ],
+   "question": "How does worldly pomp behave for those resting in this yoga?",
+   "premises": [
+    "resting in this yoga occurs",
+    "worldly pomp is like snowfield",
+    "great summer melts snowfield"
+   ],
+   "inference": "worldly pomp dissolves by itself for those resting in this yoga",
+   "uncertainties": [
+    "compound boundaries in asmiṃśca",
+    "exact sense of bhavaḍambaraḥ"
+   ],
+   "plain_english": "For those resting in this yoga, worldly pomp dissolves by itself, like snow in great summer."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "alaṃ",
+     "gloss": "enough",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vātiprasaṅgena",
+     "gloss": "with-excessive-digression",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "bhūyasātiprapañcite",
+     "gloss": "in-overly-expanded",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yogyo@bhinavagupto@sminko@pi",
+     "gloss": "abhinavagupta-too-is-fit",
+     "grounds": "nominative with particle",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "yāgavidhau",
+     "gloss": "in-sacrifice-rite",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is further digression declared unnecessary here?",
+   "premises": [
+    "excessive digression is enough",
+    "abhinavagupta is fit too",
+    "sacrifice rite is the context"
+   ],
+   "inference": "the wise speaker stops expanding because abhinavagupta is also fit in the sacrifice rite",
+   "uncertainties": [
+    "sandhi splitting of yogyo@bhinavagupto@sminko@pi",
+    "exact referent of budhaḥ"
+   ],
+   "plain_english": "Enough of excessive digression in this overly expanded matter: Abhinavagupta too is fit in the sacrifice rite, O wise one."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "ityanuttarapadapravikāse",
+     "gloss": "in-manifestation-of-supreme-word",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāktamaupayikamadya",
+     "gloss": "today-shakta-means",
+     "grounds": "nominative phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viviktam",
+     "gloss": "distinct",
+     "grounds": "predicate adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is declared distinct in the manifestation of the supreme word?",
+   "premises": [
+    "supreme word manifests",
+    "shakta means is today",
+    "distinct is predicated"
+   ],
+   "inference": "in the manifestation of the supreme word, the Shakta means is declared distinct today",
+   "uncertainties": [
+    "compound segmentation of ityanuttarapadapravikāse",
+    "gender of śāktamaupayikamadya"
+   ],
+   "plain_english": "In the manifestation of the supreme word, the Shakta means is distinct today."
+  }
+ ]
+}

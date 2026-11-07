@@ -7,7 +7,7 @@
     {
      "surface": "yathāhi",
      "gloss": "just-as-indeed",
-     "grounds": "introductory particle",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
@@ -19,50 +19,50 @@
     {
      "surface": "tatrāśvaḥ",
      "gloss": "horse-there",
-     "grounds": "subject horse",
-     "morph": "m.nom.sg"
+     "grounds": "compound noun",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "samanimnonnatādiṣu",
-     "gloss": "level-uneven-etc-in",
-     "grounds": "locative qualifier",
-     "morph": "n.loc.pl"
+     "gloss": "equal-low-high-and-so-on",
+     "grounds": "locative plural adjective",
+     "morph": "loc.pl.m."
     },
     {
      "surface": "citre",
-     "gloss": "painting-in",
-     "grounds": "locative setting",
-     "morph": "n.loc.sg"
+     "gloss": "painted",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.n."
     },
     {
      "surface": "deśe",
-     "gloss": "place-in",
-     "grounds": "locative setting",
-     "morph": "m.loc.sg"
+     "gloss": "land",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m."
     },
     {
      "surface": "vāhyamāno",
-     "gloss": "being-led",
-     "grounds": "participle",
-     "morph": "m.nom.sg"
+     "gloss": "being-driven",
+     "grounds": "passive participle",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "yātīcchāmātrakalpitām",
      "gloss": "goes-wish-only-imagined",
-     "grounds": "predicate phrase",
-     "morph": "f.acc.sg"
+     "grounds": "verb plus accusative phrase",
+     "morph": "3.sg.act-pres"
     }
    ],
-   "question": "How does a horse move in a painted place?",
+   "question": "What path does the horse follow in the painted land?",
    "premises": [
-    "horse movement is wish-imagined",
-    "painted place lacks real terrain"
+    "The horse is driven in a painted land.",
+    "Its path is imagined by mere wish."
    ],
-   "inference": "apparent motion is mentally projected",
+   "inference": "The verse compares apparent movement to mind-made paths.",
    "uncertainties": [
-    "compound split uncertain"
+    "Exact parsing of the compound phrase."
    ],
-   "plain_english": "Just as a horse seems to move by mere wish in a painted landscape, so movement is imagined."
+   "plain_english": "Just as a horse driven in a painted land with equal lows and highs goes along a path imagined by mere wish."
   },
   {
    "verse": 206,
@@ -70,95 +70,95 @@
     {
      "surface": "tathā",
      "gloss": "so",
-     "grounds": "correlative",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "saṃvidvicitrābhiḥ",
-     "gloss": "consciousness-variegated-by",
-     "grounds": "instrumental qualifier",
-     "morph": "f.inst.pl"
+     "gloss": "by-consciousness-varieties",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.f."
     },
     {
      "surface": "śāntaghoratarādibhiḥ",
-     "gloss": "peaceful-terrifying-etc-by",
-     "grounds": "instrumental qualifier",
-     "morph": "m.inst.pl"
+     "gloss": "peaceful-fierce-and-so-on",
+     "grounds": "instrumental plural adjective",
+     "morph": "inst.pl.f."
     },
     {
      "surface": "bhaṅgībhirabhito",
-     "gloss": "waves-around-by",
-     "grounds": "instrumental phrase",
-     "morph": "f.inst.pl"
+     "gloss": "by-patterns-around",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.f."
     },
     {
      "surface": "dvaitaṃ",
      "gloss": "duality",
-     "grounds": "object",
-     "morph": "n.acc.sg"
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n."
     },
     {
      "surface": "tyājitā",
      "gloss": "abandoned",
      "grounds": "participle",
-     "morph": "f.nom.sg"
+     "morph": "nom.sg.f."
     },
     {
      "surface": "bhairavāyate",
-     "gloss": "becomes-Bhairava",
-     "grounds": "main verb",
-     "morph": "3sg.act"
+     "gloss": "becomes-bhairava",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres"
     }
    ],
    "question": "How does duality become Bhairava?",
    "premises": [
-    "consciousness displays varied waves",
-    "duality is abandoned through them"
+    "Consciousness shows varied peaceful and fierce patterns.",
+    "Duality is abandoned through those patterns."
    ],
-   "inference": "Bhairava arises when duality is released",
+   "inference": "The verse says duality becomes Bhairava when abandoned by consciousness patterns.",
    "uncertainties": [
-    "gender of qualifier uncertain"
+    "Compound segmentation."
    ],
-   "plain_english": "So, through variegated waves of consciousness, duality is abandoned and becomes Bhairava."
+   "plain_english": "So, through the varied patterns of consciousness, peaceful, fierce, and the rest, duality is abandoned and becomes Bhairava."
   },
   {
    "verse": 207,
    "rows": [
     {
      "surface": "yathā",
-     "gloss": "as",
-     "grounds": "simile marker",
+     "gloss": "just-as",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "puraḥsthe",
-     "gloss": "front-standing-in",
-     "grounds": "locative qualifier",
-     "morph": "n.loc.sg"
+     "gloss": "in-front-placed",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m."
     },
     {
      "surface": "mukure",
-     "gloss": "mirror-in",
-     "grounds": "locative setting",
-     "morph": "m.loc.sg"
+     "gloss": "mirror",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m."
     },
     {
      "surface": "nijaṃ",
      "gloss": "own",
-     "grounds": "adjective",
-     "morph": "n.acc.sg"
+     "grounds": "accusative adjective",
+     "morph": "acc.sg.n."
     },
     {
      "surface": "vaktraṃ",
      "gloss": "face",
-     "grounds": "object",
-     "morph": "n.acc.sg"
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n."
     },
     {
      "surface": "vibhāvayan",
      "gloss": "perceiving",
      "grounds": "participle",
-     "morph": "m.nom.sg"
+     "morph": "nom.sg.m."
     },
     {
      "surface": "bhūyo",
@@ -169,38 +169,38 @@
     {
      "surface": "bhūyastadekātma",
      "gloss": "again-that-one-self",
-     "grounds": "compound phrase",
-     "morph": "(indecl.)"
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "vaktraṃ",
      "gloss": "face",
-     "grounds": "object",
-     "morph": "n.acc.sg"
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n."
     },
     {
      "surface": "vetti",
      "gloss": "knows",
-     "grounds": "main verb",
-     "morph": "3sg.act"
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
     },
     {
      "surface": "nijātmanaḥ",
-     "gloss": "own-self-of",
-     "grounds": "genitive phrase",
-     "morph": "m.gen.sg"
+     "gloss": "of-own-self",
+     "grounds": "genitive noun",
+     "morph": "gen.sg.m."
     }
    ],
-   "question": "How does one know one's own face in a mirror?",
+   "question": "How does one know one's own face in the mirror?",
    "premises": [
-    "mirror shows own face",
-    "repeated seeing reveals one self"
+    "One perceives one's own face in a mirror before one.",
+    "One again knows that same face as one's own self."
    ],
-   "inference": "self-knowledge arises by reflection",
+   "inference": "The verse compares self-knowledge to recognizing one's face in a mirror.",
    "uncertainties": [
-    "compound membership uncertain"
+    "Compound tadekātma."
    ],
-   "plain_english": "As one perceives one's own face in a mirror, so one knows that face as one's own self."
+   "plain_english": "Just as, perceiving one's own face in a mirror placed before one, one again knows that same face as one's own self."
   },
   {
    "verse": 208,
@@ -208,50 +208,50 @@
     {
      "surface": "tathā",
      "gloss": "so",
-     "grounds": "correlative",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "vikalpamukure",
-     "gloss": "thought-mirror-in",
-     "grounds": "locative setting",
-     "morph": "m.loc.sg"
+     "gloss": "in-mind-mirror",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m."
     },
     {
      "surface": "dhyānapūjārcanātmani",
-     "gloss": "meditation-worship-ritual-self-in",
-     "grounds": "locative qualifier",
-     "morph": "m.loc.sg"
+     "gloss": "in-meditation-worship-ritual-self",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m."
     },
     {
      "surface": "ātmānaṃ",
      "gloss": "self",
-     "grounds": "object",
-     "morph": "m.acc.sg"
+     "grounds": "accusative pronoun",
+     "morph": "acc.sg.m."
     },
     {
      "surface": "bhairavaṃ",
      "gloss": "Bhairava",
-     "grounds": "object complement",
-     "morph": "m.acc.sg"
+     "grounds": "accusative adjective",
+     "morph": "acc.sg.m."
     },
     {
      "surface": "paśyannacirāttanmayībhavet",
      "gloss": "seeing-soon-becomes-identified",
-     "grounds": "main verb",
-     "morph": "3sg.act"
+     "grounds": "participle and verb",
+     "morph": "3.sg.mid-pres"
     }
    ],
-   "question": "How does one become identified with Bhairava?",
+   "question": "What happens when one sees oneself as Bhairava in the mind mirror?",
    "premises": [
-    "thought is a mirror",
-    "meditation and worship reveal self"
+    "The mind is a mirror of meditation, worship, and ritual.",
+    "One sees oneself as Bhairava there."
    ],
-   "inference": "seeing Bhairava in that mirror brings identification",
+   "inference": "The verse says one soon becomes identified with Bhairava.",
    "uncertainties": [
-    "participle-verb boundary uncertain"
+    "Compound segmentation."
    ],
-   "plain_english": "So, in the mirror of thought, seeing oneself as Bhairava through meditation and worship soon brings identification."
+   "plain_english": "So, in the mind-mirror of meditation, worship, and ritual, seeing oneself as Bhairava, one soon becomes identified with him."
   },
   {
    "verse": 209,
@@ -259,74 +259,74 @@
     {
      "surface": "tanmayībhavanaṃ",
      "gloss": "becoming-identified",
-     "grounds": "subject",
-     "morph": "n.nom.sg"
+     "grounds": "noun",
+     "morph": "nom.sg.n."
     },
     {
      "surface": "nāma",
      "gloss": "named",
-     "grounds": "apposition",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "prāptiḥ",
      "gloss": "attainment",
-     "grounds": "predicate",
-     "morph": "f.nom.sg"
+     "grounds": "nominative noun",
+     "morph": "nom.sg.f."
     },
     {
      "surface": "sānuttarātmani",
-     "gloss": "supreme-self-in",
-     "grounds": "locative qualifier",
-     "morph": "m.loc.sg"
+     "gloss": "in-supreme-self",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m."
     },
     {
      "surface": "pūrṇatvasya",
-     "gloss": "fullness-of",
-     "grounds": "genitive phrase",
-     "morph": "n.gen.sg"
+     "gloss": "of-fullness",
+     "grounds": "genitive noun",
+     "morph": "gen.sg.n."
     },
     {
      "surface": "parā",
      "gloss": "supreme",
-     "grounds": "adjective",
-     "morph": "f.nom.sg"
+     "grounds": "nominative adjective",
+     "morph": "nom.sg.f."
     },
     {
      "surface": "kāṣṭhā",
      "gloss": "limit",
-     "grounds": "predicate",
-     "morph": "f.nom.sg"
+     "grounds": "nominative noun",
+     "morph": "nom.sg.f."
     },
     {
      "surface": "setyatra",
      "gloss": "that-here",
-     "grounds": "demonstrative",
+     "grounds": "pronoun and adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "negative",
      "morph": "(indecl.)"
     },
     {
      "surface": "phalāntaram",
      "gloss": "other-fruit",
-     "grounds": "object",
-     "morph": "n.nom.sg"
+     "grounds": "nominative compound",
+     "morph": "nom.sg.n."
     }
    ],
-   "question": "What is the attainment called becoming identified?",
+   "question": "What is the supreme limit of fullness in the supreme self?",
    "premises": [
-    "it is attainment in supreme self",
-    "it is supreme limit of fullness"
+    "Becoming identified is attainment in the supreme self.",
+    "It is the supreme limit of fullness."
    ],
-   "inference": "no other fruit exists beyond it",
+   "inference": "The verse says there is no other fruit beyond this.",
    "uncertainties": [
-    "demonstrative split uncertain"
+    "Compound setyatra."
    ],
-   "plain_english": "Becoming identified is attainment in the supreme self, the supreme limit of fullness; here there is no other fruit."
+   "plain_english": "Becoming identified is the attainment in the supreme self; it is the supreme limit of fullness, and here there is no other fruit."
   },
   {
    "verse": 210,
@@ -334,14 +334,14 @@
     {
      "surface": "phalaṃ",
      "gloss": "fruit",
-     "grounds": "subject",
-     "morph": "n.nom.sg"
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n."
     },
     {
      "surface": "sarvamapūrṇatve",
-     "gloss": "all-incompleteness-in",
-     "grounds": "locative qualifier",
-     "morph": "n.loc.sg"
+     "gloss": "all-in-incompleteness",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n."
     },
     {
      "surface": "tatra",
@@ -359,13 +359,13 @@
      "surface": "prakalpitam",
      "gloss": "imagined",
      "grounds": "participle",
-     "morph": "n.nom.sg"
+     "morph": "nom.sg.n."
     },
     {
      "surface": "akalpite",
-     "gloss": "unimagined-in",
-     "grounds": "locative qualifier",
-     "morph": "n.loc.sg"
+     "gloss": "unimagined",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.n."
     },
     {
      "surface": "hi",
@@ -375,27 +375,435 @@
     },
     {
      "surface": "pūrṇatve",
-     "gloss": "fullness-in",
-     "grounds": "locative qualifier",
-     "morph": "n.loc.sg"
+     "gloss": "in-fullness",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n."
     },
     {
      "surface": "phalamanyatkimucyatām",
-     "gloss": "what-other-fruit-said",
-     "grounds": "rhetorical question",
-     "morph": "3sg"
+     "gloss": "what-other-fruit-could-be-said",
+     "grounds": "interrogative phrase",
+     "morph": "3.sg.pass.opt."
     }
    ],
-   "question": "What other fruit can be named in fullness?",
+   "question": "What other fruit could be spoken in unimagined fullness?",
    "premises": [
-    "all fruit in incompleteness is imagined",
-    "fullness is unimagined"
+    "All fruit is imagined in incompleteness.",
+    "Fullness is unimagined."
    ],
-   "inference": "no other fruit can be named in fullness",
+   "inference": "The verse asks what other fruit could be spoken in fullness.",
    "uncertainties": [
-    "verb form uncertain"
+    "Compound sarvamapūrṇatve."
    ],
-   "plain_english": "All fruit in incompleteness is imagined; in unimagined fullness, what other fruit can be named?"
+   "plain_english": "All fruit is imagined in incompleteness, there and there; but in unimagined fullness, what other fruit could be spoken?"
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "yāgavidhiḥ",
+     "gloss": "sacrifice-rite",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "ko@pi",
+     "gloss": "some",
+     "grounds": "indefinite pronoun",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "kasyāpi",
+     "gloss": "of-someone",
+     "grounds": "genitive pronoun",
+     "morph": "gen.sg.m."
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n."
+    },
+    {
+     "surface": "vartate",
+     "gloss": "exists",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "genitive pronoun",
+     "morph": "gen.sg.m."
+    },
+    {
+     "surface": "prasīdecciccakraṃ",
+     "gloss": "consciousness-wheel-pleases",
+     "grounds": "verb and compound",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "drāgapaścimajanmanaḥ",
+     "gloss": "quickly-after-birth",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whose heart holds this sacrifice rite?",
+   "premises": [
+    "This sacrifice rite exists in someone's heart.",
+    "It pleases the wheel of consciousness."
+   ],
+   "inference": "The verse links the rite to pleasing consciousness quickly after birth.",
+   "uncertainties": [
+    "Compound prasīdecciccakraṃ."
+   ],
+   "plain_english": "This sacrifice rite exists in someone's heart, and it pleases the wheel of consciousness quickly after birth."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāge",
+     "gloss": "in-sacrifice",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m."
+    },
+    {
+     "surface": "gato",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "rūḍhiṃ",
+     "gloss": "to-fame",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.f."
+    },
+    {
+     "surface": "kaivalyamadhigacchati",
+     "gloss": "attains-isolation",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "lokairālokyamāno",
+     "gloss": "being-seen-by-people",
+     "grounds": "passive participle",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehabandhavidhau",
+     "gloss": "in-body-bond-rite",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m."
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "nom.sg.m."
+    }
+   ],
+   "question": "What does one attain in this sacrifice?",
+   "premises": [
+    "In this sacrifice one attains isolation.",
+    "One is seen by people while standing in body-bond rite."
+   ],
+   "inference": "The verse says the sacrifice leads to isolation even while embodied.",
+   "uncertainties": [
+    "Compound dehabandhavidhau."
+   ],
+   "plain_english": "In this sacrifice one attains isolation, though seen by people while standing in the body-bond rite."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāthaḥ",
+     "gloss": "lord",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "samācāraṃ",
+     "gloss": "conduct",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.m."
+    },
+    {
+     "surface": "paṭale@ṣṭādaśe@bhyadhāt",
+     "gloss": "in-chapter-eighteen-stated",
+     "grounds": "locative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhirna",
+     "gloss": "no-purity",
+     "grounds": "negative noun",
+     "morph": "nom.sg.f."
+    },
+    {
+     "surface": "cāśuddhirna",
+     "gloss": "nor-impurity",
+     "grounds": "negative noun",
+     "morph": "nom.sg.f."
+    },
+    {
+     "surface": "bhakṣyādivicāraṇam",
+     "gloss": "food-and-so-on-consideration",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.n."
+    }
+   ],
+   "question": "What did the lord state in the eighteenth chapter?",
+   "premises": [
+    "The lord stated conduct in the eighteenth chapter.",
+    "Here there is neither purity nor impurity."
+   ],
+   "inference": "The verse says food and similar considerations do not apply here.",
+   "uncertainties": [
+    "Sandhi in paṭale@ṣṭādaśe@bhyadhāt."
+   ],
+   "plain_english": "Here the lord stated conduct in the eighteenth chapter: there is neither purity nor impurity, nor consideration of food and the like."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvaitaṃ",
+     "gloss": "duality",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "nāpi",
+     "gloss": "nor",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cādvaitaṃ",
+     "gloss": "non-duality",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "liṅgapūjādikaṃ",
+     "gloss": "linga-worship-and-so-on",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "nor",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatparityāgo",
+     "gloss": "abandonment-of-that",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "niṣparigrahatāpi",
+     "gloss": "non-possession-also",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.f."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is neither duality nor non-duality here?",
+   "premises": [
+    "Neither duality nor non-duality applies.",
+    "Neither linga worship nor its abandonment applies."
+   ],
+   "inference": "The verse denies both possession and non-possession as fixed rules.",
+   "uncertainties": [
+    "Compound segmentation."
+   ],
+   "plain_english": "Neither duality nor non-duality; neither linga worship and the like, nor abandonment of that, nor non-possession or possession."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "saparigrahatā",
+     "gloss": "possession",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.f."
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṭābhasmādisaṃgrahaḥ",
+     "gloss": "matted-hair-ash-and-so-on-collection",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "tattyāgo",
+     "gloss": "abandonment-of-that",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vratādīnāṃ",
+     "gloss": "of-vows-and-so-on",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m."
+    },
+    {
+     "surface": "caraṇācaraṇaṃ",
+     "gloss": "performance-or-nonperformance",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.n."
+    }
+   ],
+   "question": "What is not determined by vows here?",
+   "premises": [
+    "Possession or collection of matted hair and ash may occur.",
+    "Abandonment of that is not required."
+   ],
+   "inference": "The verse says performance or nonperformance of vows is not the issue.",
+   "uncertainties": [
+    "Compound jaṭābhasmādisaṃgrahaḥ."
+   ],
+   "plain_english": "Possession, or collection of matted hair, ash, and the like, and abandonment of that, are not determined by performance or nonperformance of vows."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "kṣetrādisaṃpraveśaśca",
+     "gloss": "entry-into-field-and-so-on",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "samayādiprapālanam",
+     "gloss": "observance-of-vow-and-so-on",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "parasvarūpaliṅgādi",
+     "gloss": "other-form-linga-and-so-on",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "nāmagotrādikaṃ",
+     "gloss": "name-clan-and-so-on",
+     "grounds": "nominative compound",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.n."
+    }
+   ],
+   "question": "What external marks and observances are not essential here?",
+   "premises": [
+    "Entry into fields and observance of vows are mentioned.",
+    "Names, clans, and other forms are mentioned."
+   ],
+   "inference": "The verse lists external practices without making them essential.",
+   "uncertainties": [
+    "Compound segmentation."
+   ],
+   "plain_english": "Entry into fields and the like, observance of vows and the like, other forms, lingas, names, clans, and the like are not essential here."
   }
  ]
 }
