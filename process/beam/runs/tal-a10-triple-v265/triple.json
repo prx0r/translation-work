@@ -1,0 +1,767 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "pūrṇatāgamanaunmukhyamaudāsīnyātparicyutiḥ",
+     "gloss": "falling-away-from-fullness-aim-indifference",
+     "grounds": "verse 265 token 1",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "tatturyamucyate",
+     "gloss": "that-is-called-fourth",
+     "grounds": "verse 265 token 2",
+     "morph": "verb.3.sg.pass-pres+root"
+    },
+    {
+     "surface": "śaktisamāveśo",
+     "gloss": "absorption-of-power",
+     "grounds": "verse 265 token 3",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "hyasau",
+     "gloss": "indeed-that",
+     "grounds": "verse 265 token 4",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "is-held",
+     "grounds": "verse 265 token 5",
+     "morph": "verb.3.sg.pass-pres+root"
+    }
+   ],
+   "question": "How is the fourth state defined here?",
+   "premises": [
+    "fullness-aim-indifference causes falling away",
+    "that falling away is called fourth",
+    "absorption of power is held as that"
+   ],
+   "inference": "The fourth state is absorption of power beyond fullness-aim-indifference.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The fourth state is the absorption of power, reached by falling away from fullness, aim, and indifference."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 266 token 1",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "saṃvitsvaprakāśā",
+     "gloss": "self-luminous-consciousness",
+     "grounds": "verse 266 token 2",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 266 token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaiściduktā",
+     "gloss": "said-by-some",
+     "grounds": "verse 266 token 4",
+     "morph": "verb.3.pl.pass-pres+root"
+    },
+    {
+     "surface": "prameyataḥ",
+     "gloss": "from-object",
+     "grounds": "verse 266 token 5",
+     "morph": "noun.abl.sg"
+    },
+    {
+     "surface": "mānānmātuśca",
+     "gloss": "from-means-and-knower",
+     "grounds": "verse 266 token 6",
+     "morph": "compound.abl.sg"
+    },
+    {
+     "surface": "bhinnaiva",
+     "gloss": "distinct-indeed",
+     "grounds": "verse 266 token 7",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "tadarthaṃ",
+     "gloss": "for-that-purpose",
+     "grounds": "verse 266 token 8",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "tritayaṃ",
+     "gloss": "triad",
+     "grounds": "verse 266 token 9",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "verse 266 token 10",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why is consciousness distinct from object means and knower?",
+   "premises": [
+    "some call consciousness self-luminous",
+    "it is distinct from object means and knower",
+    "triad exists for that purpose"
+   ],
+   "inference": "Self-luminous consciousness stands apart from the object-means-knower triad.",
+   "uncertainties": [
+    "exact syntactic grouping"
+   ],
+   "plain_english": "Some call consciousness self-luminous; it is distinct from object, means, and knower, because the triad exists for that purpose."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "meyaṃ",
+     "gloss": "object",
+     "grounds": "verse 267 token 1",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "māne",
+     "gloss": "in-means",
+     "grounds": "verse 267 token 2",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "mātari",
+     "gloss": "in-knower",
+     "grounds": "verse 267 token 3",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "verse 267 token 4",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "so@pi",
+     "gloss": "he-too",
+     "grounds": "verse 267 token 5",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "verse 267 token 6",
+     "morph": "pron.loc.sg"
+    },
+    {
+     "surface": "mitau",
+     "gloss": "in-measurement",
+     "grounds": "verse 267 token 7",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "verse 267 token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśrāmyatīti",
+     "gloss": "rests-thus",
+     "grounds": "verse 267 token 9",
+     "morph": "verb.3.sg.pres+root"
+    },
+    {
+     "surface": "saivaiṣā",
+     "gloss": "that-same-goddess",
+     "grounds": "verse 267 token 10",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "verse 267 token 11",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "viśvaikajīvitam",
+     "gloss": "life-of-whole-world",
+     "grounds": "verse 267 token 12",
+     "morph": "compound.nom.sg"
+    }
+   ],
+   "question": "Where does the knower rest in measurement?",
+   "premises": [
+    "object means and knower form triad",
+    "he too rests clearly in that measurement",
+    "that goddess is life of whole world"
+   ],
+   "inference": "The knower rests in measurement, and that goddess sustains the whole world.",
+   "uncertainties": [
+    "sandhi segmentation"
+   ],
+   "plain_english": "Object, means, and knower form the triad; he too rests clearly in that measurement, and that goddess is the life of the whole world."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "verse 268 token 1",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "dṛśāhamityaṃśatrayamuttīrya",
+     "gloss": "transcending-form-seeing-I triad",
+     "grounds": "verse 268 token 2",
+     "morph": "compound.abs"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "abides",
+     "grounds": "verse 268 token 3",
+     "morph": "verb.3.sg.pres+root"
+    },
+    {
+     "surface": "dvāramātrāśritopāyā",
+     "gloss": "relying-on-door-only-means",
+     "grounds": "verse 268 token 4",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "paśyāmītyanupāyikā",
+     "gloss": "I-see-without-means",
+     "grounds": "verse 268 token 5",
+     "morph": "compound.nom.sg"
+    }
+   ],
+   "question": "What remains after transcending form seeing and I?",
+   "premises": [
+    "form seeing and I are triad",
+    "transcending them one abides",
+    "door-only-means and seeing-without-means remain"
+   ],
+   "inference": "After transcending the triad, one abides with door-only means and unmediated seeing.",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "Transcending form, seeing, and I, one abides; relying on door-only means and seeing without means."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "pramātṛtā",
+     "gloss": "knowerhood",
+     "grounds": "verse 269 token 1",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "svatantratvarūpā",
+     "gloss": "freedom-nature",
+     "grounds": "verse 269 token 2",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "that-this",
+     "grounds": "verse 269 token 3",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "verse 269 token 4",
+     "morph": "verb.3.sg.pres+root"
+    },
+    {
+     "surface": "saṃvitturīyarūpaivaṃ",
+     "gloss": "consciousness-fourth-form-thus",
+     "grounds": "verse 269 token 5",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "prakāśātmā",
+     "gloss": "light-self",
+     "grounds": "verse 269 token 6",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "itself",
+     "grounds": "verse 269 token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 269 token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 269 token 9",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "How does knowerhood shine as freedom?",
+   "premises": [
+    "knowerhood has freedom nature",
+    "it shines as consciousness fourth form",
+    "light-self itself is that"
+   ],
+   "inference": "Knowerhood shines as freedom, as the fourth form of consciousness, itself light.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Knowerhood, whose nature is freedom, shines as the fourth form of consciousness; itself light, that is it."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "tatsamāveśatādātmye",
+     "gloss": "in-absorption-identity",
+     "grounds": "verse 270 token 1",
+     "morph": "compound.loc.sg"
+    },
+    {
+     "surface": "mātṛtvaṃ",
+     "gloss": "knowerhood",
+     "grounds": "verse 270 token 2",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verse 270 token 3",
+     "morph": "verb.3.sg.pres+root"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "verse 270 token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatsamāveśoparāgānmānatvaṃ",
+     "gloss": "from-absorption-coloring meanshood",
+     "grounds": "verse 270 token 5",
+     "morph": "compound.abl.sg"
+    },
+    {
+     "surface": "meyatā",
+     "gloss": "objecthood",
+     "grounds": "verse 270 token 6",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "verse 270 token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How do knower means and object arise?",
+   "premises": [
+    "in absorption identity knowerhood becomes clear",
+    "from absorption coloring meanshood arises",
+    "objecthood arises again"
+   ],
+   "inference": "Absorption identity yields knowerhood, coloring yields meanshood, and objecthood follows.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "In absorption identity knowerhood becomes clear; from absorption coloring meanshood arises, and objecthood again."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "tatsamāveśanaikaṭyāttrayaṃ",
+     "gloss": "from-absorption-proximity triad",
+     "grounds": "verse 271 token 1",
+     "morph": "compound.abl.sg"
+    },
+    {
+     "surface": "tattadanugrahāt",
+     "gloss": "from-that-grace",
+     "grounds": "verse 271 token 2",
+     "morph": "compound.abl.sg"
+    },
+    {
+     "surface": "vedyādibhedagalanāduktā",
+     "gloss": "from-dissolution-of-object-difference said",
+     "grounds": "verse 271 token 3",
+     "morph": "compound.abl.sg"
+    },
+    {
+     "surface": "seyamanāmayā",
+     "gloss": "that-diseaseless",
+     "grounds": "verse 271 token 4",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "How does the triad become diseaseless?",
+   "premises": [
+    "from absorption proximity triad",
+    "from that grace",
+    "from dissolution of object difference said"
+   ],
+   "inference": "The triad becomes diseaseless through absorption proximity, grace, and dissolution of object difference.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "From absorption proximity, that grace, and dissolution of object difference, that diseaseless state is said."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "mātrādyanugrahādā(dhā)nātsavyāpāreti",
+     "gloss": "from-means-grace-establishment activity",
+     "grounds": "verse 272 token 1",
+     "morph": "compound.abl.sg"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-said",
+     "grounds": "verse 272 token 2",
+     "morph": "verb.3.sg.pass-pres+root"
+    },
+    {
+     "surface": "jāgradādyapi",
+     "gloss": "waking-etc-even",
+     "grounds": "verse 272 token 3",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "verse 272 token 4",
+     "morph": "noun.gen.sg"
+    },
+    {
+     "surface": "śaktitvena",
+     "gloss": "as-power",
+     "grounds": "verse 272 token 5",
+     "morph": "noun.ins.sg"
+    },
+    {
+     "surface": "vyavasthitam",
+     "gloss": "established",
+     "grounds": "verse 272 token 6",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "How is waking established as power?",
+   "premises": [
+    "from means grace establishment activity is said",
+    "waking etc even",
+    "of god as power established"
+   ],
+   "inference": "Waking and other states are established as power of god through means-grace establishment.",
+   "uncertainties": [
+    "parenthetical reading"
+   ],
+   "plain_english": "From means-grace establishment activity is said; waking and other states are established as power of god."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "aparaṃ",
+     "gloss": "other",
+     "grounds": "verse 273 token 1",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "parāparaṃ",
+     "gloss": "higher-lower",
+     "grounds": "verse 273 token 2",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 273 token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "verse 273 token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatsā",
+     "gloss": "that-she",
+     "grounds": "verse 273 token 5",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "higher",
+     "grounds": "verse 273 token 6",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "tviyam",
+     "gloss": "but-this",
+     "grounds": "verse 273 token 7",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "rūpakatvādudāsīnāccyuteyaṃ",
+     "gloss": "from-formality-from-indifferent-fallen",
+     "grounds": "verse 273 token 8",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "pūrṇatonmukhī",
+     "gloss": "toward-fullness",
+     "grounds": "verse 273 token 9",
+     "morph": "compound.nom.sg"
+    }
+   ],
+   "question": "How is the higher state twofold?",
+   "premises": [
+    "other and higher-lower twofold",
+    "that she is higher",
+    "this fallen from formality and indifference toward fullness"
+   ],
+   "inference": "The higher state is twofold; this one falls from formality and indifference toward fullness.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Other and higher-lower are twofold; that is higher, but this, fallen from formality and indifference, turns toward fullness."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "daśā",
+     "gloss": "state",
+     "grounds": "verse 274 token 1",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "verse 274 token 2",
+     "morph": "pron.loc.sg"
+    },
+    {
+     "surface": "samāpattī",
+     "gloss": "absorption",
+     "grounds": "verse 274 token 3",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "rūpātītaṃ",
+     "gloss": "beyond-form",
+     "grounds": "verse 274 token 4",
+     "morph": "compound.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 274 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yoginaḥ",
+     "gloss": "of-yogi",
+     "grounds": "verse 274 token 6",
+     "morph": "noun.gen.sg"
+    },
+    {
+     "surface": "pūrṇataunmukhyayogitvādviśvaṃ",
+     "gloss": "from-fullness-aim-yoga universe",
+     "grounds": "verse 274 token 7",
+     "morph": "compound.acc.sg"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "verse 274 token 8",
+     "morph": "verb.3.sg.pres+root"
+    },
+    {
+     "surface": "tanmayaḥ",
+     "gloss": "full-of-that",
+     "grounds": "verse 274 token 9",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What does the yogi see in absorption?",
+   "premises": [
+    "in that state absorption",
+    "beyond form but",
+    "of yogi from fullness aim yoga universe sees full of that"
+   ],
+   "inference": "In that state the yogi, through fullness-aim yoga, sees the universe beyond form and becomes full of that.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "In that state there is absorption; the yogi, through fullness-aim yoga, sees the universe beyond form and becomes full of that."
+  },
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "prasaṃkhyātā",
+     "gloss": "well-counted",
+     "grounds": "verse 275 token 1",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "pracayatasteneyaṃ",
+     "gloss": "from-accumulation-that-this",
+     "grounds": "verse 275 token 2",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "pracayo",
+     "gloss": "accumulation",
+     "grounds": "verse 275 token 3",
+     "morph": "noun.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "held",
+     "grounds": "verse 275 token 4",
+     "morph": "verb.3.sg.pass-pres+root"
+    },
+    {
+     "surface": "naitasyāmaparā",
+     "gloss": "not-in-this-other",
+     "grounds": "verse 275 token 5",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "turyadaśā",
+     "gloss": "fourth-state",
+     "grounds": "verse 275 token 6",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "saṃbhāvyate",
+     "gloss": "is-possible",
+     "grounds": "verse 275 token 7",
+     "morph": "verb.3.sg.pass-pres+root"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "verse 275 token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Is another fourth state possible here?",
+   "premises": [
+    "well-counted accumulation held",
+    "from accumulation that this",
+    "not in this other fourth state possible indeed"
+   ],
+   "inference": "No other fourth state is possible in this accumulation.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Well-counted accumulation is held; in this, no other fourth state is possible indeed."
+  },
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "saṃvinna",
+     "gloss": "consciousness-indeed",
+     "grounds": "verse 276 token 1",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "verse 276 token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vedyā",
+     "gloss": "object",
+     "grounds": "verse 276 token 3",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 276 token 4",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "vittvenaiva",
+     "gloss": "by-knowing-only",
+     "grounds": "verse 276 token 5",
+     "morph": "compound.ins.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "verse 276 token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "verse 276 token 7",
+     "morph": "verb.3.sg.pres+root"
+    },
+    {
+     "surface": "jāgradādyāstu",
+     "gloss": "waking-etc-but",
+     "grounds": "verse 276 token 8",
+     "morph": "compound.nom.pl"
+    },
+    {
+     "surface": "saṃbhāvyāstisro@syāḥ",
+     "gloss": "possible-three-of-her",
+     "grounds": "verse 276 token 9",
+     "morph": "compound.nom.pl"
+    },
+    {
+     "surface": "prāgdaśā",
+     "gloss": "prior-states",
+     "grounds": "verse 276 token 10",
+     "morph": "compound.nom.pl"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "verse 276 token 11",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why does consciousness shine as object?",
+   "premises": [
+    "consciousness indeed object that",
+    "by knowing only shines",
+    "waking etc possible three of her prior states because"
+   ],
+   "inference": "Consciousness shines as object by knowing only; waking and other prior states are possible for her.",
+   "uncertainties": [
+    "sandhi segmentation"
+   ],
+   "plain_english": "Consciousness indeed shines as object by knowing only; waking and other prior states are possible for her, because."
+  }
+ ]
+}

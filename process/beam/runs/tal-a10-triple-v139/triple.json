@@ -1,0 +1,845 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "avatāro",
+     "gloss": "descent",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñāniyogibhāve@sya",
+     "gloss": "in-his-knower-yogi-state",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "differs",
+     "grounds": "token 4",
+     "morph": "3.sg.pass-pres + root bhid"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhayāmāsa",
+     "gloss": "taught",
+     "grounds": "token 7",
+     "morph": "3.sg.act-perf + root budh"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sisṛkṣurjagatprabhuḥ",
+     "gloss": "world-lord-desiring-to-create",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the descent differ in the knower-yogi state?",
+   "premises": [
+    "descent differs in knower-yogi state",
+    "it was said and taught",
+    "the world-lord desiring to create acts"
+   ],
+   "inference": "The verse links descent, teaching, and creative lordship.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The descent differs in the state of the knower-yogi; it was said and taught by the world-lord desiring to create."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "vijñānakevalānaṣṭāviti",
+     "gloss": "eight-pure-knowers-thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīpūrvaśāsane",
+     "gloss": "in-prior-scripture",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhotsyamānatve",
+     "gloss": "in-being-about-to-be-taught",
+     "grounds": "token 4",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yānayorbodhayogyatā",
+     "gloss": "teachability-of-which-two",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which two are teachable in the prior scripture?",
+   "premises": [
+    "eight pure knowers are mentioned",
+    "prior scripture is referenced",
+    "teachability of two is raised"
+   ],
+   "inference": "The verse asks about teachability in relation to prior scripture.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In the prior scripture, eight pure knowers are mentioned; therefore the teachability of which two is considered."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "tadbalādvedyatāyogyabhāvenaivātra",
+     "gloss": "by-that-power-fitness-to-be-known-here",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāḍhanidre@pi",
+     "gloss": "even-in-deep-sleep",
+     "grounds": "token 4",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "priye@nāśaṅkitāgatām",
+     "gloss": "beloved-unexpected-arrival",
+     "grounds": "token 5",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How does knowability arise by that power?",
+   "premises": [
+    "knowability arises by that power",
+    "deep sleep is given as example",
+    "unexpected arrival is mentioned"
+   ],
+   "inference": "The verse connects power, knowability, and an example from sleep.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "By that power, fitness to be known arises here; for even in deep sleep, an unexpected arrival may come to the beloved."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "drakṣyatīti",
+     "gloss": "will-see-thus",
+     "grounds": "token 2",
+     "morph": "3.sg.act-fut + root drsh"
+    },
+    {
+     "surface": "nāṅgeṣu",
+     "gloss": "not-in-limbs",
+     "grounds": "token 3",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "sveṣu",
+     "gloss": "own",
+     "grounds": "token 4",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "mātyabhisārikā",
+     "gloss": "woman-going-to-lover",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivo@pi",
+     "gloss": "shiva-too",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manute",
+     "gloss": "thinks",
+     "grounds": "token 8",
+     "morph": "3.sg.mid-pres + root man"
+    },
+    {
+     "surface": "etasyaitatpravedyatām",
+     "gloss": "this-its-knowability",
+     "grounds": "token 9",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How does Shiva think about this knowability?",
+   "premises": [
+    "she will see me",
+    "not in her own limbs",
+    "Shiva too thinks thus"
+   ],
+   "inference": "The verse compares human anticipation with Shiva's thought of knowability.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "She will see me, not in her own limbs; thus Shiva too thinks of this knowability."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "yāsyatīti",
+     "gloss": "will-go-thus",
+     "grounds": "token 1",
+     "morph": "3.sg.act-fut + root yā"
+    },
+    {
+     "surface": "sṛjāmīti",
+     "gloss": "I-create-thus",
+     "grounds": "token 2",
+     "morph": "1.sg.act-pres + root sṛj"
+    },
+    {
+     "surface": "tadānīṃ",
+     "gloss": "then",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogyataiva",
+     "gloss": "fitness-alone",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "token 7",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhāvasya",
+     "gloss": "being",
+     "grounds": "token 8",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhoktṛtā",
+     "gloss": "enjoyership",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāvatī",
+     "gloss": "so-much",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 11",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "token 12",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is knowability at that time?",
+   "premises": [
+    "will go and I create are said",
+    "then fitness alone is knowability",
+    "enjoyership of that being is so much"
+   ],
+   "inference": "The verse identifies knowability with fitness and links it to enjoyership.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "When one will go and I create, then fitness alone is that knowability; the enjoyership of that being is so much."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "layākalasya",
+     "gloss": "of-one-in-dissolution-state",
+     "grounds": "token 1",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "citro",
+     "gloss": "wonderful",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogaḥ",
+     "gloss": "enjoyment",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-whom",
+     "grounds": "token 5",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vikalpyate",
+     "gloss": "is-imagined",
+     "grounds": "token 6",
+     "morph": "3.sg.pass-pres + root vikalp"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samvittiḥ",
+     "gloss": "awareness",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 11",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 12",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogaḥ",
+     "gloss": "enjoyment",
+     "grounds": "token 13",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuṭo@sphuṭaḥ",
+     "gloss": "manifest-manifest",
+     "grounds": "token 14",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is enjoyment imagined in dissolution?",
+   "premises": [
+    "enjoyment in dissolution is wonderful",
+    "it is imagined by whom",
+    "awareness itself is enjoyment"
+   ],
+   "inference": "The verse equates awareness with manifest enjoyment.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The enjoyment of one in dissolution is wonderful; by whom is it imagined? As awareness itself is that enjoyment, manifest and manifest."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "gatāgataṃ",
+     "gloss": "coming-going",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suvikṣiptaṃ",
+     "gloss": "well-scattered",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃgataṃ",
+     "gloss": "gathered",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "susamāhitam",
+     "gloss": "well-composed",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atrāpi",
+     "gloss": "here-too",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavannāma",
+     "gloss": "name-as-before",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "laukikaṃ",
+     "gloss": "worldly",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svapna",
+     "gloss": "dream",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityadaḥ",
+     "gloss": "thus-this",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is dream described here?",
+   "premises": [
+    "coming and going are described",
+    "states are scattered gathered composed",
+    "dream is called worldly name"
+   ],
+   "inference": "The verse describes dream-like states with varied qualities.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Coming and going, well-scattered, gathered, well-composed; here too the worldly name dream is thus this."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "bāhyābhimatabhāvānāṃ",
+     "gloss": "of-desired-external-states",
+     "grounds": "token 1",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "svāpo",
+     "gloss": "sleep",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyagrahaṇaṃ",
+     "gloss": "non-grasping",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvādhvanaḥ",
+     "gloss": "of-all-paths",
+     "grounds": "token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "state",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṇaḥ",
+     "gloss": "life-breath",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃkalpo@vagamātmakaḥ",
+     "gloss": "thought-of-going",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is sleep in relation to external states?",
+   "premises": [
+    "sleep is non-grasping of desired external states",
+    "it is considered a state of all paths",
+    "life-breath and thought are involved"
+   ],
+   "inference": "The verse defines sleep as non-grasping within a broader path-state.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Sleep is considered non-grasping of desired external states; it is a state of all paths, with life-breath and thought of going."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "padaṃ",
+     "gloss": "state",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamāpatti",
+     "gloss": "absorption-in-that",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padasthaṃ",
+     "gloss": "abiding-in-state",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yogino",
+     "gloss": "yogis",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "token 6",
+     "morph": "3.pl.act-pres + root vid"
+    },
+    {
+     "surface": "vedyasattāṃ",
+     "gloss": "existence-of-knowable",
+     "grounds": "token 7",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bahirbhūtāmanapekṣyaiva",
+     "gloss": "without-considering-external",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What do yogis know about the knowable?",
+   "premises": [
+    "yogis know absorption in state",
+    "they know existence of knowable",
+    "without considering external everywhere"
+   ],
+   "inference": "The verse says yogis know knowable existence beyond external consideration.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Yogis know absorption in that state and the existence of the knowable, without considering the external, everywhere."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "vedye",
+     "gloss": "in-knowable",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svātantryabhāg",
+     "gloss": "portion-of-freedom",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svapnaṃ",
+     "gloss": "dream",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyāptitayā",
+     "gloss": "by-pervasion",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "may-share",
+     "grounds": "token 6",
+     "morph": "3.sg.opt-pres + root bhaj"
+    },
+    {
+     "surface": "mānabhūmiriyaṃ",
+     "gloss": "this-measure-ground",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "primary",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svapno",
+     "gloss": "dream",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyāmarśanātmakaḥ",
+     "gloss": "of-nature-of-reflection",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does knowledge relate to dream?",
+   "premises": [
+    "in knowable there is portion of freedom",
+    "knowledge may share dream by pervasion",
+    "dream is reflection in nature"
+   ],
+   "inference": "The verse connects knowable freedom, knowledge, and dream as reflection.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In the knowable, a portion of freedom; knowledge may share dream by pervasion; this measure-ground is primary, and dream is of the nature of reflection."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "vedyacchāyo@vabhāso",
+     "gloss": "reflection-of-knowable",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meye@dhiṣṭhānamucyate",
+     "gloss": "support-of-measurable-called",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yattvadhiṣṭhātṛbhūtādeḥ",
+     "gloss": "from-support-base",
+     "grounds": "token 4",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pūrvoktasya",
+     "gloss": "of-previously-said",
+     "grounds": "token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vapurdhruvam",
+     "gloss": "body-permanent",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is called the support of the measurable?",
+   "premises": [
+    "reflection of knowable is indeed",
+    "support of measurable is called",
+    "from support-base of previously said body permanent"
+   ],
+   "inference": "The verse identifies reflection and support in relation to the measurable.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The reflection of the knowable is indeed called the support of the measurable, from the support-base of the previously said permanent body."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśvasya",
+     "gloss": "of-universe",
+     "grounds": "token 2",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tattūṣṇīṃbhūtaṃ",
+     "gloss": "that-silent",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sauṣuptamucyate",
+     "gloss": "called-deep-sleep",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anubhūtau",
+     "gloss": "in-experience",
+     "grounds": "token 5",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vikalpe",
+     "gloss": "in-imagination",
+     "grounds": "token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo@sau",
+     "gloss": "that-one",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "draṣṭā",
+     "gloss": "seer",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 11",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 12",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the seed of the universe called?",
+   "premises": [
+    "seed of universe is that silent",
+    "it is called deep sleep",
+    "in experience and imagination the seer is he"
+   ],
+   "inference": "The verse identifies the silent seed of the universe with deep sleep and the seer.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The seed of the universe, that silent, is called deep sleep; in experience and imagination, that seer is indeed he."
+  }
+ ]
+}

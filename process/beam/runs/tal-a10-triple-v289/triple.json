@@ -1,0 +1,715 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "tatrākṣavṛttimāśritya",
+     "gloss": "relying-on-sense-activity",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "bāhyākāragraho",
+     "gloss": "grasping-external-form",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tajjāgratsphuṭamāsīnamanubandhi",
+     "gloss": "following-clear-waking-state",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does waking perception recur through sense activity?",
+   "premises": [
+    "sense activity supports waking",
+    "external form is grasped",
+    "waking state recurs repeatedly"
+   ],
+   "inference": "waking perception is sustained by repeated sense engagement",
+   "uncertainties": [
+    "compound boundaries uncertain"
+   ],
+   "plain_english": "Waking perception arises through sense activity and repeatedly grasps external forms."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "ātmasaṃkalpanirmāṇaṃ",
+     "gloss": "self-imagination-creation",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "svapno",
+     "gloss": "dream",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāgradviparyayaḥ",
+     "gloss": "waking-opposite",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "layākalasya",
+     "gloss": "of-dissolved-limited-self",
+     "grounds": "token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhogo@sau",
+     "gloss": "enjoyment-that",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "malakarmavaśānnatu",
+     "gloss": "by-impurity-action-not",
+     "grounds": "token 6",
+     "morph": "compound"
+    }
+   ],
+   "question": "What distinguishes dream from waking experience?",
+   "premises": [
+    "dream is self-created imagination",
+    "it opposes waking",
+    "impurity and action condition enjoyment"
+   ],
+   "inference": "dream is an internally generated state distinct from waking",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Dream is self-created imagination, opposite to waking, conditioned by impurity and action."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "sthirībhavenniśābhāvātsuptaṃ",
+     "gloss": "becomes-stable-night-absence-sleep",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "saukhyādyavedane",
+     "gloss": "in-pleasure-and-other-feeling",
+     "grounds": "token 2",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "jñānākalasya",
+     "gloss": "of-knowledge-limited-self",
+     "grounds": "token 3",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "malataḥ",
+     "gloss": "from-impurity",
+     "grounds": "token 4",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "kevalādbhogamātrataḥ",
+     "gloss": "only-from-enjoyment-alone",
+     "grounds": "token 5",
+     "morph": "abl.sg"
+    }
+   ],
+   "question": "How does deep sleep become stable?",
+   "premises": [
+    "night absence stabilizes sleep",
+    "knowledge-limited self feels pleasure",
+    "impurity and enjoyment condition it"
+   ],
+   "inference": "deep sleep stabilizes through absence and limited enjoyment",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Deep sleep becomes stable through night absence and limited enjoyment."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "bhedavantaḥ",
+     "gloss": "possessing-difference",
+     "grounds": "token 1",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svato@bhinnāścikīrṣyante",
+     "gloss": "desiring-separation-from-self",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "jaḍājaḍāḥ",
+     "gloss": "inert-and-noninert",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "turye",
+     "gloss": "in-fourth-state",
+     "grounds": "token 4",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantratannāthādhīśvarāstrayaḥ",
+     "gloss": "mantra-lord-ruler-three",
+     "grounds": "token 7",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who remains situated in the fourth state?",
+   "premises": [
+    "difference is desired",
+    "inert and noninert beings exist",
+    "three powers are situated there"
+   ],
+   "inference": "three powers remain in the fourth state",
+   "uncertainties": [
+    "compound membership uncertain"
+   ],
+   "plain_english": "Three powers remain situated in the fourth state."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "yāvadbhairavabodhāntaḥpraveśanasahiṣṇavaḥ",
+     "gloss": "until-bhairava-knowledge-entry-tolerant",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvā",
+     "gloss": "beings",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vigaladātmīyasārāḥ",
+     "gloss": "losing-own-essence",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "svayamabhedinaḥ",
+     "gloss": "self-nondual",
+     "grounds": "token 4",
+     "morph": "compound"
+    }
+   ],
+   "question": "When do beings become self-nondual?",
+   "premises": [
+    "beings tolerate entry into bhairava knowledge",
+    "they lose own essence",
+    "they become self-nondual"
+   ],
+   "inference": "beings become nondual through entry into bhairava knowledge",
+   "uncertainties": [
+    "long compound split uncertain"
+   ],
+   "plain_english": "Beings become self-nondual as they enter bhairava knowledge."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "turyātītapade",
+     "gloss": "in-beyond-fourth-state",
+     "grounds": "token 1",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "saṃsyuriti",
+     "gloss": "they-merge-thus",
+     "grounds": "token 2",
+     "morph": "verb"
+    },
+    {
+     "surface": "pañcadaśātmake",
+     "gloss": "in-fifteen-fold",
+     "grounds": "token 3",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yadyatsphuṭaṃ",
+     "gloss": "whatever-clear",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tajjāgraditi",
+     "gloss": "that-waking-thus",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "manyatām",
+     "gloss": "let-it-be-thought",
+     "grounds": "token 8",
+     "morph": "verb"
+    }
+   ],
+   "question": "How is waking identified in the beyond-fourth state?",
+   "premises": [
+    "beings merge in beyond-fourth state",
+    "fifteen-fold structure applies",
+    "clear form is called waking"
+   ],
+   "inference": "clear form in the beyond-fourth state is waking",
+   "uncertainties": [
+    "verb parsing uncertain"
+   ],
+   "plain_english": "In the beyond-fourth state, clear form is considered waking."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "yadevāsthiramābhāti",
+     "gloss": "whatever-unstable-appears",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "sapūrvaṃ",
+     "gloss": "with-prior",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svapna",
+     "gloss": "dream",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īdṛśaḥ",
+     "gloss": "such",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asphuṭaṃ",
+     "gloss": "unclear",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yadābhāti",
+     "gloss": "when-it-appears",
+     "grounds": "token 7",
+     "morph": "verb"
+    },
+    {
+     "surface": "suptaṃ",
+     "gloss": "sleep",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattatpuro@pi",
+     "gloss": "that-before-even",
+     "grounds": "token 9",
+     "morph": "compound"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "token 10",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are unstable appearances classified?",
+   "premises": [
+    "unstable appearances are dream",
+    "unclear appearances are sleep",
+    "prior forms remain present"
+   ],
+   "inference": "appearances are classified by stability and clarity",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Unstable appearances are dream, unclear ones are sleep."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "trayasyāsyānusaṃdhistu",
+     "gloss": "of-three-continuity-but",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadvaśādupajāyate",
+     "gloss": "from-whose-power-arises",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "sraksūtrakalpaṃ",
+     "gloss": "thread-garland-like",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatturyaṃ",
+     "gloss": "that-fourth-state",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvabhedeṣu",
+     "gloss": "in-all-differences",
+     "grounds": "token 5",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "gṛhyatām",
+     "gloss": "let-it-be-grasped",
+     "grounds": "token 6",
+     "morph": "verb"
+    }
+   ],
+   "question": "How should the fourth state be grasped?",
+   "premises": [
+    "continuity of three arises by power",
+    "it is thread-like",
+    "it is grasped in all differences"
+   ],
+   "inference": "the fourth state is the thread-like continuity",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "The fourth state is a thread-like continuity grasped in all differences."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "yattvadvaitabharollāsadrāvitāśeṣabhedakam",
+     "gloss": "that-nondual-joy-melting-all-difference",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "turyātītaṃ",
+     "gloss": "beyond-fourth-state",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatprāhuritthaṃ",
+     "gloss": "that-they-call-thus",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-apply",
+     "grounds": "token 6",
+     "morph": "verb"
+    }
+   ],
+   "question": "What is beyond the fourth state?",
+   "premises": [
+    "nondual joy melts all difference",
+    "that is beyond fourth state",
+    "it should be applied everywhere"
+   ],
+   "inference": "beyond the fourth state is nondual joy melting difference",
+   "uncertainties": [
+    "long compound split uncertain"
+   ],
+   "plain_english": "Beyond the fourth state is nondual joy that melts all difference."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "layākale",
+     "gloss": "in-dissolved-limited-state",
+     "grounds": "token 1",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "token 3",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jāgrattatpūrvavṛtti",
+     "gloss": "waking-prior-activity",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svapnādīti",
+     "gloss": "dream-and-so-forth",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramaṃ",
+     "gloss": "order",
+     "grounds": "token 8",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "token 9",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvatrānusaredbudhaḥ",
+     "gloss": "wise-one-follows-everywhere",
+     "grounds": "token 10",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the wise follow states everywhere?",
+   "premises": [
+    "dissolved state has own form",
+    "waking prior activity follows",
+    "dream and others follow in order"
+   ],
+   "inference": "the wise follow all states in order everywhere",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "The wise follow all states in order everywhere."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "ekatrāpi",
+     "gloss": "even-in-one",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prabhau",
+     "gloss": "in-lord",
+     "grounds": "token 2",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "pūrṇe",
+     "gloss": "in-full",
+     "grounds": "token 3",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "citturyātītamucyate",
+     "gloss": "consciousness-beyond-fourth-is-called",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "ānandasturyamicchaiva",
+     "gloss": "bliss-fourth-state-only",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "bījabhūmiḥ",
+     "gloss": "seed-ground",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suṣuptatā",
+     "gloss": "deep-sleep-state",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is called beyond the fourth in the full lord?",
+   "premises": [
+    "even in one full lord",
+    "consciousness beyond fourth is named",
+    "bliss is fourth state",
+    "deep sleep is seed ground"
+   ],
+   "inference": "beyond fourth is consciousness in the full lord",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "In the full lord, consciousness beyond the fourth is named."
+  },
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "jñānaśaktiḥ",
+     "gloss": "knowledge-power",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svapna",
+     "gloss": "dream",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uktaḥ",
+     "gloss": "is-called",
+     "grounds": "token 3",
+     "morph": "verb"
+    },
+    {
+     "surface": "kriyāśaktistu",
+     "gloss": "action-power-but",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "jāgṛtiḥ",
+     "gloss": "waking",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caivamupacāraḥ",
+     "gloss": "thus-figurative",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "syātsarvaṃ",
+     "gloss": "may-be-all",
+     "grounds": "token 8",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vastutaḥ",
+     "gloss": "in-reality",
+     "grounds": "token 10",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are knowledge and action powers related to states?",
+   "premises": [
+    "knowledge power is dream",
+    "action power is waking",
+    "not merely figurative",
+    "all is there in reality"
+   ],
+   "inference": "knowledge and action powers correspond to dream and waking in reality",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Knowledge power is dream and action power is waking in reality."
+  }
+ ]
+}

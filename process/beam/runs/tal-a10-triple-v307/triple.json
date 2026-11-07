@@ -1,0 +1,243 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-form",
+     "grounds": "core term",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mantramāheśī",
+     "gloss": "mantra-great-lady-power",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktirmantramaheśvaraḥ",
+     "gloss": "power-mantra-great-lord",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "core term",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śaṃbhurimāḥ",
+     "gloss": "shambhu-these",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreśe",
+     "gloss": "in-mantra-lord",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "pañcabhedake",
+     "gloss": "fivefold-division",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the five powers arranged in the mantra-lord?",
+   "premises": [
+    "The essential nature includes five powers.",
+    "They are located in the mantra-lord.",
+    "The division is fivefold."
+   ],
+   "inference": "The five powers constitute the essential nature within the mantra-lord.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "The essential nature is the five powers in the mantra-lord, in fivefold division."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "core term",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "jñānamicchā",
+     "gloss": "knowledge-will",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃbhuratra",
+     "gloss": "shambhu-here",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth",
+     "grounds": "ordinal",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "maheśabhede",
+     "gloss": "in-great-lord-division",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "trividhe",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "jāgradādi",
+     "gloss": "waking-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirūpitam",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "ppp"
+    }
+   ],
+   "question": "How are action, knowledge, will, shambhu, and the fifth established?",
+   "premises": [
+    "Action, knowledge, and will are named.",
+    "Shambhu and the fifth are included.",
+    "The threefold division of the great lord is the setting."
+   ],
+   "inference": "These five are established in the threefold division, including waking and so on.",
+   "uncertainties": [
+    "Exact referent of the fifth is implicit."
+   ],
+   "plain_english": "Own action, knowledge, will, Shambhu, and the fifth are established in the threefold division of the great lord, including waking and the rest."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "vyāpārādādhipatyācca",
+     "gloss": "from-activity-and-lordship",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "taddhānyā",
+     "gloss": "from-abundance",
+     "grounds": "ablative",
+     "morph": "n.abl.sg.f"
+    },
+    {
+     "surface": "prerakatvataḥ",
+     "gloss": "from-impelling",
+     "grounds": "ablative",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "icchānivṛtteḥ",
+     "gloss": "from-cessation-of-will",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svasthatvācchiva",
+     "gloss": "from-abiding-in-own-state-shiva",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "eko@pi",
+     "gloss": "though-one",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is Shiva one yet fivefold?",
+   "premises": [
+    "Activity and lordship are causes.",
+    "Abundance and impelling are causes.",
+    "Cessation of will and abiding in own state are causes."
+   ],
+   "inference": "Although Shiva is one, he becomes fivefold through these causes.",
+   "uncertainties": [
+    "The causal list is compressed."
+   ],
+   "plain_english": "Through activity, lordship, abundance, impelling, cessation of will, and abiding in his own state, Shiva, though one, is fivefold."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "ityeṣa",
+     "gloss": "thus-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "darśito@smābhistattvādhvā",
+     "gloss": "shown-by-us-tattva-path",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vistarādatha",
+     "gloss": "in-detail-then",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What has been shown in detail?",
+   "premises": [
+    "The preceding teaching is complete.",
+    "The tattva path is shown.",
+    "The exposition is detailed."
+   ],
+   "inference": "Thus the tattva path has been shown by us in detail.",
+   "uncertainties": [
+    "The next topic is only implied."
+   ],
+   "plain_english": "Thus this tattva path has been shown by us in detail, and then..."
+  }
+ ]
+}

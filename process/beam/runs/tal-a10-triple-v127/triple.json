@@ -1,0 +1,785 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "vedyatvānnava",
+     "gloss": "from-knowability-nine",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "token 3",
+     "morph": "verb.3.pl.act-opt"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "token 7",
+     "morph": "pron.3.pl"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "token 9",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "satyamastyeṣā",
+     "gloss": "true-is-this",
+     "grounds": "token 10",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalanā",
+     "gloss": "distinction",
+     "grounds": "token 11",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kiṃtu",
+     "gloss": "however",
+     "grounds": "token 12",
+     "morph": "indecl."
+    },
+    {
+     "surface": "susphuṭaḥ",
+     "gloss": "very-clear",
+     "grounds": "token 13",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can the seven and five categories be reconciled?",
+   "premises": [
+    "knowability yields nine categories",
+    "seven and five are both asserted",
+    "the distinction is said to be true"
+   ],
+   "inference": "the apparent numerical tension is resolved by a clear distinction",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Although knowability yields nine, the seven and five are both asserted; the distinction is true and very clear."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "yathātra",
+     "gloss": "as-here",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sakale",
+     "gloss": "in-whole",
+     "grounds": "token 2",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "bhedo",
+     "gloss": "difference",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tvakalādike",
+     "gloss": "in-non-whole-etc",
+     "grounds": "token 6",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "anantāvāntaredṛkṣayonibhedavataḥ",
+     "gloss": "of-infinite-interval-similar-source-difference",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why is difference clear in the whole but not in the non-whole?",
+   "premises": [
+    "difference is not so in the non-whole",
+    "the whole has clear difference",
+    "infinite interval and source difference are involved"
+   ],
+   "inference": "the whole and non-whole are distinguished by how difference appears",
+   "uncertainties": [
+    "long compound gloss is approximate"
+   ],
+   "plain_english": "As here in the whole there is difference, so it is not in the non-whole; the infinite interval and source difference make this clear."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "caturdaśavidhasyāsya",
+     "gloss": "of-this-fourteen-fold",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "sakalasyāsti",
+     "gloss": "of-whole-is",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "bheditā",
+     "gloss": "difference-ness",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "layākale",
+     "gloss": "in-dissolution-non-whole",
+     "grounds": "token 4",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃskāramātrātsatyapyasau",
+     "gloss": "from-impression-only-though-true-that",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhidā",
+     "gloss": "difference",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does difference remain in dissolution for the fourteen-fold whole?",
+   "premises": [
+    "the fourteen-fold whole has difference",
+    "in dissolution only impression remains",
+    "difference is still true there"
+   ],
+   "inference": "dissolution preserves a trace of difference through impression",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "The fourteen-fold whole has difference; in dissolution, though only impression remains, difference is still true."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "akalena",
+     "gloss": "by-non-whole",
+     "grounds": "token 1",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "viśeṣāya",
+     "gloss": "for-distinction",
+     "grounds": "token 2",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "sakalasyaiva",
+     "gloss": "of-whole-only",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-fitted",
+     "grounds": "token 4",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "vijñānakevalādīnāṃ",
+     "gloss": "of-knowledge-only-etc",
+     "grounds": "token 5",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "tāvatyapi",
+     "gloss": "so-much-even",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhidā",
+     "gloss": "difference",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is distinction fitted by the non-whole for the whole?",
+   "premises": [
+    "the non-whole fits distinction for the whole",
+    "knowledge-only and others have no such difference",
+    "difference is denied there"
+   ],
+   "inference": "distinction belongs to the whole, not to knowledge-only states",
+   "uncertainties": [
+    "compound gloss is approximate"
+   ],
+   "plain_english": "The non-whole fits distinction for the whole; knowledge-only and similar states have no such difference."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "śivasvācchandyamātraṃ",
+     "gloss": "Shiva-free-will-only",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhedāyaiṣāṃ",
+     "gloss": "for-difference-of-these",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "vijṛmbhate",
+     "gloss": "unfolds",
+     "grounds": "token 4",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "ityāśayena",
+     "gloss": "with-this-intent",
+     "grounds": "token 5",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "saṃpaśyanviśeṣaṃ",
+     "gloss": "seeing-distinction",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "sakalādiha",
+     "gloss": "here-whole-etc",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does Shiva's free will unfold difference here?",
+   "premises": [
+    "Shiva's free will alone unfolds difference",
+    "this is the intent behind seeing distinction",
+    "the whole and others are viewed here"
+   ],
+   "inference": "difference arises from Shiva's free will, not from independent categories",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "Shiva's free will alone unfolds difference for these; seeing distinction, one views the whole and others here."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "layākalādau",
+     "gloss": "in-dissolution-non-whole-etc",
+     "grounds": "token 1",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "novāca",
+     "gloss": "did-not-say",
+     "grounds": "token 2",
+     "morph": "verb.3.sg.act-aor"
+    },
+    {
+     "surface": "trāyodaśyādikaṃ",
+     "gloss": "thirteen-etc",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "the-Lord",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nanvastu",
+     "gloss": "let-it-be",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāvadharmaḥ",
+     "gloss": "being-quality",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃtu",
+     "gloss": "however",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "layākalau",
+     "gloss": "dissolution-non-whole",
+     "grounds": "token 9",
+     "morph": "du.nom"
+    }
+   ],
+   "question": "Why did the Lord not state thirteen categories in dissolution?",
+   "premises": [
+    "the Lord did not state thirteen-etc in dissolution",
+    "knowability may be a being-quality",
+    "however dissolution and non-whole remain"
+   ],
+   "inference": "the Lord's silence about thirteen categories is tied to dissolution and non-whole",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "The Lord did not state thirteen and so on in dissolution; knowability may be a quality of being, but dissolution and non-whole remain."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "manvāte",
+     "gloss": "think",
+     "grounds": "token 1",
+     "morph": "verb.3.pl.act-pres"
+    },
+    {
+     "surface": "neha",
+     "gloss": "not-here",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiṃcittadapekṣā",
+     "gloss": "anything-that-dependence",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "tvasau",
+     "gloss": "but-that",
+     "grounds": "token 5",
+     "morph": "pron"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrūyatāṃ",
+     "gloss": "let-it-be-heard",
+     "grounds": "token 7",
+     "morph": "verb.3.sg.pass-imp"
+    },
+    {
+     "surface": "saṃvidaikātmyatattve@sminsaṃvyavasthite",
+     "gloss": "in-consciousness-unity-principle-established",
+     "grounds": "token 8",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is dependence denied when consciousness-unity is established?",
+   "premises": [
+    "they think not here indeed",
+    "there is no dependence on that",
+    "let it be heard when consciousness-unity is established"
+   ],
+   "inference": "dependence is denied because consciousness-unity is established",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "They think not here indeed; there is no dependence on that. Let it be heard when consciousness-unity is established."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "jaḍe@pi",
+     "gloss": "even-in-inert",
+     "grounds": "token 1",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "citirastyeva",
+     "gloss": "consciousness-is-indeed",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhotsyamāne",
+     "gloss": "in-what-will-be-known",
+     "grounds": "token 3",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "token 5",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "kathā",
+     "gloss": "question",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svabodhāvasare",
+     "gloss": "at-self-knowledge-moment",
+     "grounds": "token 7",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tāvadbhotsyate",
+     "gloss": "so-much-will-be-known",
+     "grounds": "token 8",
+     "morph": "verb.3.sg.pass-fut"
+    },
+    {
+     "surface": "layakevalī",
+     "gloss": "dissolution-only-one",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What question remains if consciousness is even in the inert?",
+   "premises": [
+    "consciousness is indeed even in the inert",
+    "but what question in what will be known",
+    "at self-knowledge the dissolution-only one will be known"
+   ],
+   "inference": "the inert still has consciousness, and self-knowledge reveals the dissolution-only one",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "Consciousness is indeed even in the inert; but what question in what will be known? At the moment of self-knowledge, the dissolution-only one will be known."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "dvividhaśca",
+     "gloss": "and-two-fold",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "prabodho@sya",
+     "gloss": "awakening-of-this",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantratvāya",
+     "gloss": "for-mantra-hood",
+     "grounds": "token 3",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "bhavāya",
+     "gloss": "for-becoming",
+     "grounds": "token 4",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāvanādibalādanyavaiṣṇavādinayoditāt",
+     "gloss": "from-meditation-power-other-Vaishnava-doctrine",
+     "grounds": "token 6",
+     "morph": "abl.sg"
+    }
+   ],
+   "question": "Why is awakening two-fold for mantra-hood and becoming?",
+   "premises": [
+    "awakening of this is two-fold",
+    "it is for mantra-hood and becoming",
+    "it arises from meditation power and other doctrine"
+   ],
+   "inference": "awakening has two purposes shaped by meditation and doctrine",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "Awakening of this is two-fold, for mantra-hood and for becoming, arising from meditation power and other Vaishnava doctrine."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "yathāsvamādharauttaryavicitrātsaṃskṛtastathā",
+     "gloss": "as-own-support-superior-varied-impressed-so",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "līnaḥ",
+     "gloss": "absorbed",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prabuddho",
+     "gloss": "awakened",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantratvaṃ",
+     "gloss": "mantra-hood",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadīśatvamathaiti",
+     "gloss": "then-lordship-then-goes",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 6",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does the absorbed awakened one attain mantra-hood or lordship?",
+   "premises": [
+    "as own support superior varied impressed so",
+    "the absorbed awakened one",
+    "attains mantra-hood or lordship"
+   ],
+   "inference": "impression and support determine whether awakening yields mantra-hood or lordship",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "As impressed by varied superior support, the absorbed awakened one attains mantra-hood or lordship."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "svātantryavarjitā",
+     "gloss": "devoid-of-freedom",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "token 2",
+     "morph": "pron"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "balānmohavaśīkṛtāḥ",
+     "gloss": "by-force-delusion-subjected",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "layākalātsvasaṃskārātprabuddhyante",
+     "gloss": "from-dissolution-non-whole-own-impression-awaken",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavāya",
+     "gloss": "for-becoming",
+     "grounds": "token 6",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "token 7",
+     "morph": "pron"
+    }
+   ],
+   "question": "Why do those devoid of freedom awaken for becoming?",
+   "premises": [
+    "those devoid of freedom are subjected by delusion",
+    "they awaken from dissolution non-whole and own impression",
+    "they awaken for becoming"
+   ],
+   "inference": "deluded beings awaken from dissolution and impression toward becoming",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "Those devoid of freedom, subjected by delusion, awaken from dissolution, non-whole, and own impression for becoming."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "jñānākalo@pi",
+     "gloss": "even-knowledge-particle",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantreśamaheśatvāya",
+     "gloss": "for-mantra-lord-great-lord-hood",
+     "grounds": "token 2",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "budhyate",
+     "gloss": "awakens",
+     "grounds": "token 3",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "mantrāditvāya",
+     "gloss": "for-mantra-etc-hood",
+     "grounds": "token 4",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jātu",
+     "gloss": "ever",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jātu",
+     "gloss": "ever",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃsṛtaye@pi",
+     "gloss": "even-for-worldly-existence",
+     "grounds": "token 8",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 9",
+     "morph": "indecl."
+    }
+   ],
+   "question": "For what does the knowledge-particle awaken?",
+   "premises": [
+    "the knowledge-particle awakens",
+    "for mantra-lord or great-lord hood",
+    "or for mantra-etc hood or worldly existence"
+   ],
+   "inference": "awakening of the knowledge-particle can lead to several outcomes",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "The knowledge-particle awakens for mantra-lord or great-lord hood, or for mantra and so on, or even for worldly existence."
+  }
+ ]
+}

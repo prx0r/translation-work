@@ -1,0 +1,669 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cenna",
+     "gloss": "if-not",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mukhyatvaṃ",
+     "gloss": "primary-status",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nopacāro@pi",
+     "gloss": "nor-secondary",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatkvacit",
+     "gloss": "that-somewhere",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "etacchrīpūrvaśāstre",
+     "gloss": "in-this-auspicious-earlier-scripture",
+     "grounds": "token 7",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sphuṭamuktaṃ",
+     "gloss": "clearly-stated",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśinā",
+     "gloss": "by-maheshvara",
+     "grounds": "token 10",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "Why is primary status denied everywhere in this teaching?",
+   "premises": [
+    "primary status absent everywhere",
+    "secondary status also absent",
+    "earlier scripture states clearly"
+   ],
+   "inference": "Maheshvara denies both primary and secondary status",
+   "uncertainties": [
+    "sandhi split in nopacāro@pi"
+   ],
+   "plain_english": "If not, then nowhere is there primary status, nor secondary status; this is clearly stated by Maheshvara in the earlier auspicious scripture."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktiśca",
+     "gloss": "and-power",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sakalaśceti",
+     "gloss": "and-sakala-thus",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattrayam",
+     "gloss": "that-triad",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jāgradavastheyaṃ",
+     "gloss": "this-waking-state",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhede",
+     "gloss": "in-division",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcadaśātmake",
+     "gloss": "fifteen-fold",
+     "grounds": "token 9",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is the waking state divided into fifteen?",
+   "premises": [
+    "own-nature power and sakala form triad",
+    "waking state has this triad",
+    "division is fifteen-fold"
+   ],
+   "inference": "the waking state contains a fifteen-fold triadic structure",
+   "uncertainties": [
+    "compound membership in pañcadaśātmake"
+   ],
+   "plain_english": "There, own-nature, power, and sakala make a triad; thus this waking state is in a fifteen-fold division."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "akalau",
+     "gloss": "in-akala",
+     "grounds": "token 1",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svapnasauṣupte",
+     "gloss": "dream-and-deep-sleep",
+     "grounds": "token 2",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "turyaṃ",
+     "gloss": "fourth-state",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrādivargabhāk",
+     "gloss": "mantra-class-bearer",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "turyātītaṃ",
+     "gloss": "beyond-fourth",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktiśaṃbhū",
+     "gloss": "power-and-shambhu",
+     "grounds": "token 6",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "trayodaśābhidhe",
+     "gloss": "in-thirteen-named",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What states occur in akala and dream-deep-sleep?",
+   "premises": [
+    "akala has dream and deep sleep",
+    "fourth state bears mantra class",
+    "beyond-fourth is power and shambhu"
+   ],
+   "inference": "thirteen-named states recur again in this scheme",
+   "uncertainties": [
+    "compound split in svapnasauṣupte"
+   ],
+   "plain_english": "In akala, dream and deep sleep; the fourth state bears the mantra class; beyond the fourth are power and Shambhu, in the thirteen-named, again."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāgradanyattu",
+     "gloss": "waking-other-but",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāgvatpralayakevale",
+     "gloss": "as-before-in-pralaya-alone",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāgratsvapnasupte",
+     "gloss": "waking-dream-sleep",
+     "grounds": "token 5",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "token 6",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "turyādyatra",
+     "gloss": "where-fourth-begins",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "token 9",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does own-nature appear in waking and other states?",
+   "premises": [
+    "own-nature differs in waking",
+    "pralaya alone is as before",
+    "waking dream sleep are two"
+   ],
+   "inference": "the fourth and following states are as before",
+   "uncertainties": [
+    "compound split in jāgratsvapnasupte"
+   ],
+   "plain_english": "Own-nature is other in waking, but in pralaya alone it is as before; waking, dream, and sleep are two, where the fourth begins, and the rest are as before."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "vijñānākalabhede@pi",
+     "gloss": "even-in-vijnanakala-division",
+     "grounds": "token 1",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "token 3",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantranāyakāḥ",
+     "gloss": "mantra-leaders",
+     "grounds": "token 4",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadīśāḥ",
+     "gloss": "their-lords",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śaktiśaṃbhvitthaṃ",
+     "gloss": "power-shambhu-thus",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "token 7",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syurjāgradādayaḥ",
+     "gloss": "would-be-waking-etc",
+     "grounds": "token 8",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What five states arise in vijnanakala division?",
+   "premises": [
+    "even in vijnanakala division",
+    "own mantras leaders and lords",
+    "power and shambhu thus"
+   ],
+   "inference": "five states from waking onward arise",
+   "uncertainties": [
+    "sandhi in vijñānākalabhede@pi"
+   ],
+   "plain_english": "Even in the vijnanakala division, own, mantras, mantra-leaders, their lords, power, and Shambhu thus make five states from waking onward."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "saptabhede",
+     "gloss": "in-seven-division",
+     "grounds": "token 1",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantrākhye",
+     "gloss": "called-mantra",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantreśā",
+     "gloss": "mantra-lords",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "maheśvarāḥ",
+     "gloss": "great-lords",
+     "grounds": "token 6",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṃbhuśca",
+     "gloss": "and-shambhu",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcoktā",
+     "gloss": "five-stated",
+     "grounds": "token 9",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "avasthā",
+     "gloss": "states",
+     "grounds": "token 10",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jāgradādayaḥ",
+     "gloss": "waking-etc",
+     "grounds": "token 11",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are states arranged in the seven-fold mantra division?",
+   "premises": [
+    "in seven-fold mantra division",
+    "own mantra-lords great-lords",
+    "power and shambhu"
+   ],
+   "inference": "five states from waking onward are stated",
+   "uncertainties": [
+    "compound split in mantrākhye"
+   ],
+   "plain_english": "But in the seven-fold division called mantra, own, mantra-lords, great lords, power, and Shambhu make five states from waking onward."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantramāheśī",
+     "gloss": "mantra-great-power",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktirmantramaheśvaraḥ",
+     "gloss": "power-mantra-great-lord",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṃbhurimāḥ",
+     "gloss": "shambhu-these",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "token 6",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "mantreśe",
+     "gloss": "in-mantra-lord",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcabhedake",
+     "gloss": "in-five-division",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What five states occur in the mantra-lord division?",
+   "premises": [
+    "own-nature mantra great power",
+    "power mantra great lord",
+    "power shambhu these"
+   ],
+   "inference": "five states occur in the five-fold mantra-lord division",
+   "uncertainties": [
+    "compound split in mantramāheśī"
+   ],
+   "plain_english": "Own-nature, mantra-great-power, power-mantra-great-lord, power, and Shambhu: these five occur in the five-fold mantra-lord division."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñānamicchā",
+     "gloss": "knowledge-and-will",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaṃbhuratra",
+     "gloss": "shambhu-here",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maheśabhede",
+     "gloss": "in-mahesha-division",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "trividhe",
+     "gloss": "three-fold",
+     "grounds": "token 9",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jāgradādi",
+     "gloss": "waking-etc",
+     "grounds": "token 10",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirūpitam",
+     "gloss": "determined",
+     "grounds": "token 11",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are waking and related states determined in Mahesha division?",
+   "premises": [
+    "own action knowledge will",
+    "shambhu here and fifth",
+    "mahesha division three-fold"
+   ],
+   "inference": "waking and related states are determined",
+   "uncertainties": [
+    "compound split in jñānamicchā"
+   ],
+   "plain_english": "Own, action, knowledge, will, and Shambhu here, plus the fifth, are determined in the three-fold Mahesha division as waking and related states."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "vyāpārādādhipatyācca",
+     "gloss": "from-activity-and-lordship",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "taddhānyā",
+     "gloss": "by-that-abundance",
+     "grounds": "token 2",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "prerakatvataḥ",
+     "gloss": "from-impelling",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "icchānivṛtteḥ",
+     "gloss": "from-will-cessation",
+     "grounds": "token 4",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "svasthatvācchiva",
+     "gloss": "from-own-stability-shiva",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eko@pi",
+     "gloss": "even-one",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "five-fold",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why does one Shiva become five-fold?",
+   "premises": [
+    "from activity and lordship",
+    "from impelling and will cessation",
+    "from own stability"
+   ],
+   "inference": "even one Shiva becomes five-fold",
+   "uncertainties": [
+    "sandhi in svasthatvācchiva"
+   ],
+   "plain_english": "From activity and lordship, from that abundance, from impelling, from cessation of will, and from own stability, even one Shiva becomes five-fold."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "ityeṣa",
+     "gloss": "thus-this",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darśito@smābhistattvādhvā",
+     "gloss": "shown-by-us-tattva-path",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vistarādatha",
+     "gloss": "in-detail-then",
+     "grounds": "token 3",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What has been shown in detail by us?",
+   "premises": [
+    "thus this shown",
+    "by us tattva path",
+    "in detail then"
+   ],
+   "inference": "the tattva path has been shown in detail",
+   "uncertainties": [
+    "sandhi in darśito@smābhistattvādhvā"
+   ],
+   "plain_english": "Thus this tattva path has been shown by us in detail."
+  }
+ ]
+}

@@ -1,0 +1,842 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvagrahaṇaṃ",
+     "gloss": "grasping-of-being",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "suṣṭhu",
+     "gloss": "well",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suptatvamucyate",
+     "gloss": "sleep-state-is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root"
+    },
+    {
+     "surface": "tatsāmyāllaukikīṃ",
+     "gloss": "by-its-similarity-worldly",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nidrāṃ",
+     "gloss": "sleep",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "suṣuptaṃ",
+     "gloss": "deep-sleep",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manvate",
+     "gloss": "think",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+root"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "wise-ones",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why is deep sleep called sleep by wise ones?",
+   "premises": [
+    "grasping of being is absent",
+    "similarity to worldly sleep remains",
+    "wise ones call it sleep"
+   ],
+   "inference": "Deep sleep is named sleep by resemblance, not by grasping being.",
+   "uncertainties": [
+    "compound boundaries uncertain"
+   ],
+   "plain_english": "Deep sleep is called sleep because it resembles ordinary sleep, though being is not grasped there."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "bījabhāvo@thāgrahaṇaṃ",
+     "gloss": "seed-being-grasping",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sāmyaṃ",
+     "gloss": "similarity",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tūṣṇīṃsvabhāvatā",
+     "gloss": "silent-nature",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "primary",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātṛdaśā",
+     "gloss": "mother-state",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "that-this",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suṣuptākhyā",
+     "gloss": "deep-sleep-named",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+root"
+    }
+   ],
+   "question": "What makes the mother state primary deep sleep?",
+   "premises": [
+    "seed-being is grasped",
+    "similarity and silent nature remain",
+    "mother state is primary"
+   ],
+   "inference": "The primary mother state is declared deep sleep through seed-being and silent nature.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "The primary mother state, with seed-being and silent nature, is declared deep sleep."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "rūpakatvācca",
+     "gloss": "because-of-form-ness",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattādātmyaṃ",
+     "gloss": "identity-with-that",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yoginaḥ",
+     "gloss": "of-yogis",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpasthaṃ",
+     "gloss": "abiding-in-form",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatsamāpattyaudāsīnyaṃ",
+     "gloss": "indifference-through-absorption",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpiṇāṃ",
+     "gloss": "of-formed-beings",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+root"
+    }
+   ],
+   "question": "How do yogis know indifference in form?",
+   "premises": [
+    "form has identity with that",
+    "yogis abide in form",
+    "formed beings know indifference"
+   ],
+   "inference": "Yogis know indifference through absorption while abiding in form.",
+   "uncertainties": [
+    "long compound split uncertain"
+   ],
+   "plain_english": "Yogis know indifference through absorption while abiding in form."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "prasaṃkhyānavataḥ",
+     "gloss": "of-one-with-enumeration",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāpi",
+     "gloss": "some",
+     "grounds": "indefinite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedyasaṃkocanātra",
+     "gloss": "contraction-of-knowable-here",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mahāvyāptiriyaṃ",
+     "gloss": "great-pervasion-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadanusārataḥ",
+     "gloss": "according-to-that",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is great pervasion said to follow from absence?",
+   "premises": [
+    "some contraction of knowable is absent",
+    "therefore great pervasion follows",
+    "it follows according to that"
+   ],
+   "inference": "Great pervasion is declared because a contraction of the knowable is absent.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Great pervasion follows because a contraction of the knowable is absent."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "udāsīnasya",
+     "gloss": "of-indifferent-one",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tasyāpi",
+     "gloss": "of-him-too",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vedyaṃ",
+     "gloss": "knowable",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūtādi",
+     "gloss": "elements-and-so-forth",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadupādhyutthamatra",
+     "gloss": "arising-from-its-superimposition-here",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedacatuṣṭayam",
+     "gloss": "fourfold-difference",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What makes the knowable fourfold for the indifferent one?",
+   "premises": [
+    "even indifferent one has knowable",
+    "elements are fourfold",
+    "difference arises from superimposition"
+   ],
+   "inference": "The knowable becomes fourfold through superimposition upon elements.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Even for the indifferent one, the knowable is fourfold through superimposition on elements."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "uditaṃ",
+     "gloss": "risen",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vipulaṃ",
+     "gloss": "vast",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suprasannamathāparam",
+     "gloss": "very-clear-and-another",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "but-which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramātmakaṃ",
+     "gloss": "cognition-natured",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramāturupari",
+     "gloss": "upon-knower",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form stands upon the knower?",
+   "premises": [
+    "risen vast peaceful form",
+    "another very clear form",
+    "cognition-natured form stands upon knower"
+   ],
+   "inference": "A cognition-natured form stands upon the knower.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "A vast, peaceful, clear cognition-natured form stands upon the knower."
+  },
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cenna",
+     "gloss": "if-not",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhyatvaṃ",
+     "gloss": "primacy",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nopacāro@pi",
+     "gloss": "nor-metaphor-even",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatkvacit",
+     "gloss": "that-somewhere",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "etacchrīpūrvaśāstre",
+     "gloss": "in-this-auspicious-earlier-treatise",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭamuktaṃ",
+     "gloss": "clearly-stated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "maheśinā",
+     "gloss": "by-great-lord",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Where is primacy clearly stated by the great lord?",
+   "premises": [
+    "if not anywhere primacy",
+    "nor metaphor anywhere",
+    "great lord clearly stated it"
+   ],
+   "inference": "Primacy is clearly stated by the great lord in the earlier treatise.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "The great lord clearly stated this primacy in the earlier treatise."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-form",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktiśca",
+     "gloss": "and-power",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sakalaśceti",
+     "gloss": "and-whole-thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tattrayam",
+     "gloss": "that-triad",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāgradavastheyaṃ",
+     "gloss": "waking-state-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhede",
+     "gloss": "in-difference",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcadaśātmake",
+     "gloss": "in-fifteenfold",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What triad constitutes the waking state?",
+   "premises": [
+    "own form power and whole",
+    "that triad is thus",
+    "waking state is in fifteenfold difference"
+   ],
+   "inference": "The waking state consists of own form, power, and whole in fifteenfold difference.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "The waking state consists of own form, power, and whole in fifteenfold difference."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "akalau",
+     "gloss": "in-non-art",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svapnasauṣupte",
+     "gloss": "dream-and-deep-sleep",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "turyaṃ",
+     "gloss": "fourth",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrādivargabhāk",
+     "gloss": "possessing-mantra-class",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "turyātītaṃ",
+     "gloss": "beyond-fourth",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktiśaṃbhū",
+     "gloss": "power-and-shambhu",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "trayodaśābhidhe",
+     "gloss": "in-thirteen-named",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What belongs to dream and deep sleep beyond the fourth?",
+   "premises": [
+    "in non-art dream and deep sleep",
+    "fourth possesses mantra class",
+    "beyond fourth power and shambhu in thirteen"
+   ],
+   "inference": "Beyond the fourth, power and Shambhu belong to dream and deep sleep in thirteenfold form.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Beyond the fourth, power and Shambhu belong to dream and deep sleep in thirteenfold form."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-form",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāgradanyattu",
+     "gloss": "but-other-than-waking",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāgvatpralayakevale",
+     "gloss": "as-before-in-dissolution-alone",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāgratsvapnasupte",
+     "gloss": "waking-dream-sleep",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "turyādyatra",
+     "gloss": "where-fourth-and-so-forth",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does own form appear apart from waking?",
+   "premises": [
+    "own form other than waking",
+    "as before in dissolution alone",
+    "two in waking dream sleep",
+    "fourth and so forth as before"
+   ],
+   "inference": "Own form appears apart from waking as before, with two in waking-dream-sleep and fourth as before.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Own form appears apart from waking as before, with two in waking-dream-sleep and fourth as before."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "vijñānākalabhede@pi",
+     "gloss": "even-in-distinction-of-cognition-limited",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantranāyakāḥ",
+     "gloss": "mantra-leaders",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadīśāḥ",
+     "gloss": "their-lords",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktiśaṃbhvitthaṃ",
+     "gloss": "power-shambhu-thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syurjāgradādayaḥ",
+     "gloss": "would-be-waking-and-so-forth",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many waking states arise in cognition-limited distinction?",
+   "premises": [
+    "even in cognition-limited distinction",
+    "own mantras leaders lords",
+    "power and shambhu thus",
+    "five waking and so forth"
+   ],
+   "inference": "Five waking states arise, including mantras, leaders, lords, power, and Shambhu.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Five waking states arise, including mantras, leaders, lords, power, and Shambhu."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "saptabhede",
+     "gloss": "in-sevenfold-distinction",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrākhye",
+     "gloss": "named-mantra",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantreśā",
+     "gloss": "mantra-lords",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "maheśvarāḥ",
+     "gloss": "great-lords",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṃbhuśca",
+     "gloss": "and-shambhu",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañcoktā",
+     "gloss": "five-stated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "avasthā",
+     "gloss": "states",
+     "grounds": "nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jāgradādayaḥ",
+     "gloss": "waking-and-so-forth",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What states are named in sevenfold mantra distinction?",
+   "premises": [
+    "in sevenfold distinction",
+    "named mantra own",
+    "mantra lords great lords power shambhu",
+    "five stated states waking and so forth"
+   ],
+   "inference": "In sevenfold mantra distinction, five states are named as waking and so forth.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "In sevenfold mantra distinction, five states are named as waking and so forth."
+  }
+ ]
+}

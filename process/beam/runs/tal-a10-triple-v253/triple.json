@@ -1,0 +1,833 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "gatāgataṃ",
+     "gloss": "going-coming",
+     "grounds": "movement to and fro",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "suvikṣiptaṃ",
+     "gloss": "well-scattered",
+     "grounds": "dispersed state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃgataṃ",
+     "gloss": "joined",
+     "grounds": "connected state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "susamāhitam",
+     "gloss": "well-composed",
+     "grounds": "settled state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atrāpi",
+     "gloss": "here-too",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavannāma",
+     "gloss": "named-as-before",
+     "grounds": "same designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "laukikaṃ",
+     "gloss": "worldly",
+     "grounds": "ordinary experience",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svapna",
+     "gloss": "dream",
+     "grounds": "dream state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityadaḥ",
+     "gloss": "thus-this",
+     "grounds": "so this",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are dream states classified here?",
+   "premises": [
+    "dream includes scattered and composed forms",
+    "ordinary naming applies here too",
+    "states are described in sequence"
+   ],
+   "inference": "dream experience has multiple ordered modalities",
+   "uncertainties": [
+    "exact syntactic grouping remains open"
+   ],
+   "plain_english": "Here too dream is described as going and coming, scattered, joined, and well composed, with ordinary naming applied."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "bāhyābhimatabhāvānāṃ",
+     "gloss": "of-desired-external-states",
+     "grounds": "external objects desired",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "svāpo",
+     "gloss": "sleep",
+     "grounds": "sleep state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyagrahaṇaṃ",
+     "gloss": "non-grasping",
+     "grounds": "not taking in",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "held",
+     "grounds": "is considered",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvādhvanaḥ",
+     "gloss": "of-all-paths",
+     "grounds": "all levels",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "station",
+     "grounds": "level or place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṇaḥ",
+     "gloss": "breath",
+     "grounds": "vital force",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃkalpo@vagamātmakaḥ",
+     "gloss": "intention-speech-natured",
+     "grounds": "thought with speech nature",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is sleep as non-grasping?",
+   "premises": [
+    "sleep is non-grasping of external states",
+    "it is a station of all paths",
+    "breath and intention have speech nature"
+   ],
+   "inference": "sleep is a non-grasping station pervading all paths",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "Sleep is considered non-grasping of desired external states, a station of all paths, with breath and intention of speech nature."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "padaṃ",
+     "gloss": "station",
+     "grounds": "level",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamāpatti",
+     "gloss": "its-absorption",
+     "grounds": "merging into it",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padasthaṃ",
+     "gloss": "stationed",
+     "grounds": "established in station",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yogino",
+     "gloss": "of-yogis",
+     "grounds": "yogic practitioners",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "recognize",
+     "morph": "3.pl.act-pres + root vid"
+    },
+    {
+     "surface": "vedyasattāṃ",
+     "gloss": "object-existence",
+     "grounds": "existence of knowable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bahirbhūtāmanapekṣyaiva",
+     "gloss": "without-regarding-external",
+     "grounds": "ignoring outside",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "in all directions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do yogis know the station?",
+   "premises": [
+    "yogis know the stationed absorption",
+    "they disregard external object existence",
+    "this knowing is everywhere"
+   ],
+   "inference": "yogic station is known independent of external objects",
+   "uncertainties": [
+    "exact case of yogino is approximate"
+   ],
+   "plain_english": "Yogis know the station and its absorption, disregarding external object existence everywhere."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "vedye",
+     "gloss": "in-knowable",
+     "grounds": "in object",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svātantryabhāg",
+     "gloss": "freedom-part",
+     "grounds": "portion of autonomy",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "awareness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svapnaṃ",
+     "gloss": "dream",
+     "grounds": "dream state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyāptitayā",
+     "gloss": "by-pervasion",
+     "grounds": "through pervasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "may-attain",
+     "grounds": "should obtain",
+     "morph": "3.sg.act-opt + root bhaj"
+    },
+    {
+     "surface": "mānabhūmiriyaṃ",
+     "gloss": "this-measure-ground",
+     "grounds": "this field of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "primary",
+     "grounds": "principal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svapno",
+     "gloss": "dream",
+     "grounds": "dream",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyāmarśanātmakaḥ",
+     "gloss": "reflective-natured",
+     "grounds": "of reflective nature",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does dream pervade knowledge?",
+   "premises": [
+    "knowledge has freedom in the knowable",
+    "dream is attained by pervasion",
+    "primary dream is reflective in nature"
+   ],
+   "inference": "dream is a reflective pervasion of knowledge",
+   "uncertainties": [
+    "compound mānabhūmiriyaṃ is approximate"
+   ],
+   "plain_english": "Knowledge has a freedom-part in the knowable; dream is attained by pervasion, and primary dream is reflective in nature."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "vedyacchāyo@vabhāso",
+     "gloss": "object-shadow-appearance",
+     "grounds": "appearance as object shadow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meye@dhiṣṭhānamucyate",
+     "gloss": "in-measure-support-is-said",
+     "grounds": "support in measure",
+     "morph": "3.sg.pass-pres + root vac"
+    },
+    {
+     "surface": "yattvadhiṣṭhātṛbhūtādeḥ",
+     "gloss": "from-that-supporter-nature",
+     "grounds": "from supporter nature",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pūrvoktasya",
+     "gloss": "of-previously-said",
+     "grounds": "of earlier stated",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vapurdhruvam",
+     "gloss": "body-certain",
+     "grounds": "fixed body",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the support of appearance?",
+   "premises": [
+    "object-shadow appearance is indeed support",
+    "support arises from supporter nature",
+    "the previously said body is fixed"
+   ],
+   "inference": "appearance rests on a fixed supporter body",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "The appearance as object shadow is indeed called support in measure, arising from supporter nature, with the previously said body fixed."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "seed state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśvasya",
+     "gloss": "of-universe",
+     "grounds": "of all",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tattūṣṇīṃbhūtaṃ",
+     "gloss": "that-silent-become",
+     "grounds": "become silent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sauṣuptamucyate",
+     "gloss": "deep-sleep-is-called",
+     "grounds": "called deep sleep",
+     "morph": "3.sg.pass-pres + root vac"
+    },
+    {
+     "surface": "anubhūtau",
+     "gloss": "in-experience",
+     "grounds": "in experience",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vikalpe",
+     "gloss": "in-doubt",
+     "grounds": "in alternation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo@sau",
+     "gloss": "that-one",
+     "grounds": "that person",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "draṣṭā",
+     "gloss": "seer",
+     "grounds": "observer",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "that one",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "certainly",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is deep sleep as seed?",
+   "premises": [
+    "seed of universe becomes silent",
+    "that is called deep sleep",
+    "seer remains in experience and doubt"
+   ],
+   "inference": "deep sleep is silent seed while seer remains",
+   "uncertainties": [
+    "yo@sau segmentation is approximate"
+   ],
+   "plain_english": "The seed of the universe, become silent, is called deep sleep; in experience and alternation, that seer indeed remains."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvagrahaṇaṃ",
+     "gloss": "object-grasping",
+     "grounds": "grasping of being",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suṣṭhu",
+     "gloss": "well",
+     "grounds": "thoroughly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suptatvamucyate",
+     "gloss": "sleep-state-is-called",
+     "grounds": "called sleeping",
+     "morph": "3.sg.pass-pres + root vac"
+    },
+    {
+     "surface": "tatsāmyāllaukikīṃ",
+     "gloss": "by-its-similarity-worldly",
+     "grounds": "like worldly sleep",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nidrāṃ",
+     "gloss": "sleep",
+     "grounds": "sleep",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "suṣuptaṃ",
+     "gloss": "deep-sleep",
+     "grounds": "deep sleep",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manvate",
+     "gloss": "consider",
+     "grounds": "think",
+     "morph": "3.pl.act-pres + root man"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "wise-ones",
+     "grounds": "learned",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "Why is deep sleep called sleep?",
+   "premises": [
+    "there is no object grasping",
+    "therefore sleeping is called well",
+    "wise consider deep sleep like worldly sleep"
+   ],
+   "inference": "deep sleep is named sleep by similarity without object grasping",
+   "uncertainties": [
+    "tatsāmyāllaukikīṃ segmentation is approximate"
+   ],
+   "plain_english": "Because there is no grasping of being, sleeping is well called; by similarity wise ones consider deep sleep like worldly sleep."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "bījabhāvo@thāgrahaṇaṃ",
+     "gloss": "seed-state-non-grasping",
+     "grounds": "not grasping seed state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāmyaṃ",
+     "gloss": "similarity",
+     "grounds": "likeness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tūṣṇīṃsvabhāvatā",
+     "gloss": "silent-nature",
+     "grounds": "nature of silence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "primary",
+     "grounds": "principal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātṛdaśā",
+     "gloss": "mother-state",
+     "grounds": "state of mother",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "that-this",
+     "grounds": "this one",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suṣuptākhyā",
+     "gloss": "deep-sleep-named",
+     "grounds": "called deep sleep",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "is stated",
+     "morph": "3.sg.pass-pres + root gad"
+    }
+   ],
+   "question": "What is primary deep sleep?",
+   "premises": [
+    "seed state is non-grasping",
+    "similarity and silent nature apply",
+    "primary mother state is called deep sleep"
+   ],
+   "inference": "primary deep sleep is a silent mother state",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "Non-grasping of seed state, similarity, and silent nature make the primary mother state called deep sleep."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "rūpakatvācca",
+     "gloss": "and-by-form-ness",
+     "grounds": "because of being form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattādātmyaṃ",
+     "gloss": "that-identity",
+     "grounds": "identity with that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yoginaḥ",
+     "gloss": "of-yogis",
+     "grounds": "yogic practitioners",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "again",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpasthaṃ",
+     "gloss": "form-stationed",
+     "grounds": "established in form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatsamāpattyaudāsīnyaṃ",
+     "gloss": "absorption-indifference",
+     "grounds": "indifference in absorption",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpiṇāṃ",
+     "gloss": "of-formed-ones",
+     "grounds": "of those with form",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "recognize",
+     "morph": "3.pl.act-pres + root vid"
+    }
+   ],
+   "question": "How do yogis know form identity?",
+   "premises": [
+    "because of form-ness form has identity",
+    "yogis again know form-stationed indifference",
+    "this applies to formed ones"
+   ],
+   "inference": "yogis know indifference in absorption with form",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "Because of form-ness, form has identity; yogis again know form-stationed indifference in absorption for formed ones."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "prasaṃkhyānavataḥ",
+     "gloss": "of-one-with-enumeration",
+     "grounds": "possessing enumeration",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kāpi",
+     "gloss": "some",
+     "grounds": "some",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyasaṃkocanātra",
+     "gloss": "object-contraction-here",
+     "grounds": "contraction of knowable here",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "that which",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "does not exist",
+     "morph": "3.sg.act-pres + root as"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "by that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāvyāptiriyaṃ",
+     "gloss": "this-great-pervasion",
+     "grounds": "great pervasion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadanusārataḥ",
+     "gloss": "according-to-that",
+     "grounds": "following that",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is there great pervasion?",
+   "premises": [
+    "for one with enumeration some object contraction is here",
+    "that contraction does not exist",
+    "therefore great pervasion follows"
+   ],
+   "inference": "absence of object contraction yields great pervasion",
+   "uncertainties": [
+    "prasaṃkhyānavataḥ segmentation is approximate"
+   ],
+   "plain_english": "For one with enumeration, some contraction of the knowable here does not exist; therefore this great pervasion follows accordingly."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "udāsīnasya",
+     "gloss": "of-indifferent-one",
+     "grounds": "of detached one",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tasyāpi",
+     "gloss": "of-him-too",
+     "grounds": "also his",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyaṃ",
+     "gloss": "knowable",
+     "grounds": "object of knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "by which",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "of four kinds",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūtādi",
+     "gloss": "elements-beginning",
+     "grounds": "elements and so on",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadupādhyutthamatra",
+     "gloss": "arising-from-that-superimposition-here",
+     "grounds": "arising from superimposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedacatuṣṭayam",
+     "gloss": "fourfold-difference",
+     "grounds": "four differences",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What knowable arises for indifferent one?",
+   "premises": [
+    "for indifferent one too knowable exists",
+    "by which fourfold elements arise",
+    "here fourfold difference arises from superimposition"
+   ],
+   "inference": "indifferent one's knowable produces fourfold difference",
+   "uncertainties": [
+    "compound segmentation is approximate"
+   ],
+   "plain_english": "For the indifferent one too, the knowable by which fourfold elements arise produces here a fourfold difference from superimposition."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "uditaṃ",
+     "gloss": "risen",
+     "grounds": "arisen",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vipulaṃ",
+     "gloss": "vast",
+     "grounds": "extensive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "calm",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suprasannamathāparam",
+     "gloss": "very-clear-then-other",
+     "grounds": "very clear and other",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "but-which",
+     "grounds": "but that which",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramātmakaṃ",
+     "gloss": "measure-natured",
+     "grounds": "of measuring nature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramāturupari",
+     "gloss": "above-knower",
+     "grounds": "upon the knower",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "established",
+     "grounds": "placed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form is established above knower?",
+   "premises": [
+    "risen vast peaceful and very clear forms exist",
+    "but measure-natured form",
+    "is established above the knower"
+   ],
+   "inference": "a measure-natured form stands above the knower",
+   "uncertainties": [
+    "suprasannamathāparam segmentation is approximate"
+   ],
+   "plain_english": "Risen, vast, peaceful, and very clear forms exist, but the measure-natured form is established above the knower."
+  }
+ ]
+}
