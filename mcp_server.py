@@ -307,16 +307,110 @@ def gates() -> dict:
     return _run(["tools/validate_all.py", "--quick"], timeout=600)
 
 
+@mcp.tool()
+def recon(work: str) -> dict:
+    """Recon report for a work (read-only): source spans + verse census,
+    workcfg registration, legacy T1 presence, lore-brief presence, beam
+    coverage per song. Start every new front here — never queue tasks blind."""
+    out: dict = {"work": work}
+    try:
+        sys.path.insert(0, str(ROOT / "tools"))
+        import workcfg
+        cfg = workcfg.work_config(work)
+        out["registered"] = cfg is not None
+        if cfg is not None:
+            out["kind"] = cfg.get("kind")
+            out["songs"] = {s: len(workcfg.song_verses(work, s)) for s in cfg.get("songs", {})}
+        spans = workcfg.source_spans(work)
+        if spans:
+            out["spans"] = len(spans)
+            out["tokens"] = sum(len(t) for t in spans.values())
+    except Exception as e:
+        out["error"] = str(e)[:300]
+    brief = _lore_path(work)
+    out["lore_brief"] = str(brief.relative_to(ROOT)) if brief else None
+    dd = ROOT / work / "data"
+    cov = {}
+    if dd.exists():
+        from pathlib import Path as _P
+        for f in sorted(dd.glob("*.t1.json")):
+            try:
+                cov[f.name] = len(json.loads(f.read_text()))
+            except ValueError:
+                cov[f.name] = "unparseable"
+    out["data_t1"] = cov
+    legacy = list((ROOT / work).glob("T1*.md"))
+    out["legacy_T1"] = [p.name for p in legacy][:10]
+    return out
+
+
+@mcp.tool()
+def assemble(work: str, song: str) -> dict:
+    """Assessor act: assemble beam runs -> working-T1/L0 + data t1/l0/argmap/
+    l2 (+C1-essence skeleton) -> validate_song + proof_record. Writes working
+    + data files as machine-proposed. Requires complete runs; use swarm_seed
+    + workers first. Promote with `promote` after this passes."""
+    return _run(["tools/tal_stage.py", "--work", work, "--song", song], timeout=600)
+
+
+@mcp.tool()
+def supervise(start_missing: bool = False) -> dict:
+    """Report the autonomous loop: continue.sh (registry sync + ralph
+    supervision), ralph.sh (workers + auto-review + convert + gate + push),
+    watchdog.sh (429 health-pause + stale-reap), tal driver, live workers.
+    With start_missing=true, (re)starts absent supervisors (never duplicates,
+    never pushes itself). The loop is the autonomy — this tool is its button."""
+    import subprocess as _sp
+    want = {"continue.sh": "tools/continue.sh", "ralph.sh": "tools/ralph.sh",
+            "watchdog.sh": "tools/watchdog.sh", "tal_run_all.sh": "tools/tal_run_all.sh",
+            "tal_stage.py": "tools/tal_stage.py"}
+    ps = _sp.run(["ps", "-eo", "cmd"], capture_output=True, text=True).stdout
+    state = {}
+    for name in want:
+        state[name] = sum(1 for ln in ps.splitlines() if name in ln and "grep" not in ln)
+    workers = sum(1 for ln in ps.splitlines() if "beam_swarm.py worker" in ln)
+    state["beam_workers"] = workers
+    started = []
+    if start_missing:
+        import os as _os
+        env = dict(_os.environ)
+        try:
+            r = _sp.run(["agent-vault", "vault", "credential", "get",
+                         "OPENCODE_GO_KEY", "--vault", "oracle"],
+                        capture_output=True, text=True, timeout=30)
+            if r.returncode == 0 and r.stdout.strip():
+                env["OPENCODE_GO_KEY"] = r.stdout.strip()
+        except Exception:
+            pass
+        def _launch(cmd: list[str], log: str):
+            if any(log in ln for ln in ps.splitlines()):
+                return False
+            _sp.Popen(["setsid", "nohup"] + cmd, stdout=open(ROOT / log, "ab"),
+                      stderr=_sp.STDOUT, stdin=_sp.DEVNULL, env=env,
+                      preexec_fn=_os.setsid if hasattr(_os, "setsid") else None,
+                      cwd=str(ROOT))
+            return True
+        if state["continue.sh"] == 0 and _launch(
+                ["bash", "tools/continue.sh"], "process/beam/continue.log"):
+            started.append("continue.sh")
+        if state["watchdog.sh"] == 0 and _launch(
+                ["bash", "tools/watchdog.sh"], "process/beam/watchdog.log"):
+            started.append("watchdog.sh")
+    return {"supervisors": state, "started": started,
+            "note": "ralph.sh is supervised by continue.sh; workers by ralph/watchdog; "
+                    "driver tal_run_all.sh seeds the campaign. 429 pauses are health-gated, not failures."}
+
+
 TOOLS = ["status", "validate", "lore", "swarm_status",
          "swarm_seed", "swarm_review", "swarm_decide", "promote",
-         "skill", "concepts", "gates"]
+         "skill", "concepts", "gates", "recon", "assemble", "supervise"]
 
 
 if __name__ == "__main__":
     import asyncio
 
     async def _list():
-        print("shastra MCP — translation-work tools\n")
+        print("shastra MCP — translation-work tools (full docs: MCP.md)\n")
         for name in TOOLS:
             fn = await mcp.get_tool(name)
             desc = (fn.description or "").splitlines()[0] if fn.description else ""
