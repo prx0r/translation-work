@@ -119,12 +119,17 @@ def review_task(t: dict, apply: bool) -> dict:
     shape_bad = check_shapes(t, drafts)
     sample = {k: v for i, (k, v) in enumerate(drafts.items()) if i < 12}
     user = ("TASK " + t["id"] + " (" + t["kind"] + "). Drafts (sample):\n"
-            + json.dumps(sample, ensure_ascii=False)[:9000]
+            + json.dumps(sample, ensure_ascii=False)[:7000]
             + "\nDeterministic shape check found: " + (", ".join(shape_bad) or "nothing")
             + ". Do your checklist pass and reply with the verdict JSON.")
     try:
-        text = beam(SYS, user, session=f"beam-review-{t['id']}",
-                    max_tokens=2000)
+        from beam_client import chat
+        import json as _j
+        raw = chat([{"role": "system", "content": SYS},
+                    {"role": "user", "content": user}],
+                   session=f"beam-review-{t['id']}", max_tokens=1500,
+                   tries=1, timeout=120)
+        text = raw
     except Exception as e:  # noqa: BLE001
         r = {"task": t["id"], "verdict": "escalate",
              "note": f"reviewer call failed: {str(e)[:150]}"}
