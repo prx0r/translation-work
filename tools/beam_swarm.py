@@ -222,7 +222,9 @@ def _mark_unlocked(tasks: list[dict], tid: str, status: str, note: str = '') -> 
         if t['id'] == tid:
             t['status'] = status
             if note:
-                t['note'] = (t.get('note', '') + ' | ' + note).strip(' |')
+                # Cap history: unbounded append bloats queue.json and slows
+                # every load/save. Keep the latest ~400 chars (the signal).
+                t['note'] = ((t.get('note', '') + ' | ' + note).strip(' |'))[-400:]
             t['updated'] = datetime.datetime.now().isoformat(timespec='seconds')
     save_q(tasks)
     try:
@@ -755,6 +757,7 @@ def worker_loop(name: str) -> int:
     os.environ['BEAM_WORKER'] = name
     from beam_client import chat  # noqa: F401  (fail fast if key missing)
     import beam_client as _b
+    import threading as _th
     _b._key()
     while True:
         tasks = load_q()
@@ -763,6 +766,20 @@ def worker_loop(name: str) -> int:
             print(f'[{name}] queue empty, exiting')
             return 0
         print(f'[{name}] claimed {t["id"]} ({t["kind"]}) try {t["attempts"]}', flush=True)
+        # Heartbeat: long beam calls (429 backoff sleeps up to ~30 min) would
+        # otherwise outlive the 15-min stale-claim window and get stolen
+        # mid-task (duplicate work + double quota burn). Touch the flag while
+        # alive; death stops the heartbeat and the claim self-heals.
+        _stop = _th.Event()
+        _flag = STATE / 'claims' / (t['id'] + '.json')
+        def _beat(flag=_flag, stop=_stop):
+            while not stop.wait(300):
+                try:
+                    flag.touch()
+                except OSError:
+                    return
+        _bt = _th.Thread(target=_beat, daemon=True)
+        _bt.start()
         try:
             if t['kind'] == 'pilot_pair':
                 ok, msg = run_pilot_pair(t)
@@ -786,6 +803,8 @@ def worker_loop(name: str) -> int:
                 ok, msg = False, f'unknown kind {t["kind"]}'
         except Exception as e:  # noqa: BLE001
             ok, msg = False, f'{type(e).__name__}: {str(e)[:300]}'
+        finally:
+            _stop.set()
         tasks = load_q()
         if ok:
             mark(tasks, t['id'], 'done', msg)
