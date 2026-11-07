@@ -1,0 +1,707 @@
+{
+ "song": "Tantraloka a05 anavopaya",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "satyatastadabhinnaṃ",
+     "gloss": "truth-that-undivided",
+     "grounds": "verse 13 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāttasyānyonyavibhedataḥ",
+     "gloss": "would-be-by-mutual-difference",
+     "grounds": "verse 13 token 2",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "viśvarūpāvibheditvaṃ",
+     "gloss": "world-form-non-difference",
+     "grounds": "verse 13 token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "śuddhatvādeva",
+     "gloss": "from-purity-alone",
+     "grounds": "verse 13 token 4",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verse 13 token 5",
+     "morph": "verb.3.sg.mid-pres"
+    }
+   ],
+   "question": "How does purity make world-form non-different from truth?",
+   "premises": [
+    "purity alone causes arising",
+    "mutual difference would divide truth",
+    "world-form remains undivided"
+   ],
+   "inference": "purity preserves non-difference between truth and world-form",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "From purity alone arises the non-difference of world-form with truth, since mutual difference would divide it."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "niṣṭhitaikasphuranmūrtermūrtyantaravirodhataḥ",
+     "gloss": "from-fixed-single-throb-form-other-form-conflict",
+     "grounds": "verse 14 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "within",
+     "grounds": "verse 14 token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃvidi",
+     "gloss": "in-consciousness",
+     "grounds": "verse 14 token 3",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "satsarvaṃ",
+     "gloss": "all-being",
+     "grounds": "verse 14 token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadyapyaparathā",
+     "gloss": "even-if-otherwise",
+     "grounds": "verse 14 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhiyi",
+     "gloss": "in-intellect",
+     "grounds": "verse 14 token 6",
+     "morph": "loc.sg.f"
+    }
+   ],
+   "question": "Why does all being remain within consciousness despite apparent form conflict?",
+   "premises": [
+    "fixed single throb conflicts with other forms",
+    "all being stays within consciousness",
+    "otherwise it would rest in intellect"
+   ],
+   "inference": "consciousness holds all being even when forms seem opposed",
+   "uncertainties": [
+    "long compound segmentation approximate"
+   ],
+   "plain_english": "Even if forms conflict, all being remains within consciousness rather than resting otherwise in intellect."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "prāṇe",
+     "gloss": "in-breath",
+     "grounds": "verse 15 token 1",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dehe@thavā",
+     "gloss": "or-in-body",
+     "grounds": "verse 15 token 2",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kasmātsaṃkrāmetkena",
+     "gloss": "from-what-would-it-move-by-whom",
+     "grounds": "verse 15 token 3",
+     "morph": "interrogative"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "verse 15 token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "verse 15 token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "even-so",
+     "grounds": "verse 15 token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nirvikalpe@sminvikalpo",
+     "gloss": "in-this-without-doubt-doubt",
+     "grounds": "verse 15 token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "verse 15 token 8",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "verse 15 token 9",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "verse 15 token 10",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How could consciousness move between breath and body without doubt?",
+   "premises": [
+    "movement between breath and body is questioned",
+    "even so no doubt exists in this",
+    "without that doubt remains absent"
+   ],
+   "inference": "the supportless state leaves no room for such movement-doubt",
+   "uncertainties": [
+    "sandhi split approximate"
+   ],
+   "plain_english": "Even so, in this doubt-free state there is no doubt without that support."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "dṛṣṭe@pyadṛṣṭakalpatvaṃ",
+     "gloss": "even-seen-unseen-imagined-state",
+     "grounds": "verse 16 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "vikalpena",
+     "gloss": "by-doubt",
+     "grounds": "verse 16 token 2",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 16 token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "niścayaḥ",
+     "gloss": "certainty",
+     "grounds": "verse 16 token 4",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "buddhiprāṇaśarīreṣu",
+     "gloss": "in-intellect-breath-body",
+     "grounds": "verse 16 token 5",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "pārameśvaryamañjasā",
+     "gloss": "by-supreme-lordship-directly",
+     "grounds": "verse 16 token 6",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does certainty arise in intellect breath and body?",
+   "premises": [
+    "even seen things become imagined by doubt",
+    "certainty arises in intellect breath body",
+    "supreme lordship acts directly"
+   ],
+   "inference": "direct supreme certainty stabilizes the supports",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "But certainty in intellect, breath, and body comes directly through supreme lordship."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "vikalpyaṃ",
+     "gloss": "to-be-imagined",
+     "grounds": "verse 17 token 1",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "śūnyarūpe",
+     "gloss": "in-void-form",
+     "grounds": "verse 17 token 2",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse 17 token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pramātari",
+     "gloss": "in-knower",
+     "grounds": "verse 17 token 4",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vikalpanam",
+     "gloss": "imagining",
+     "grounds": "verse 17 token 5",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "buddhirdhyānamayī",
+     "gloss": "intellect-meditation-made",
+     "grounds": "verse 17 token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse 17 token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇa",
+     "gloss": "breath",
+     "grounds": "verse 17 token 8",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "uccāraṇātmakaḥ",
+     "gloss": "utterance-natured",
+     "grounds": "verse 17 token 9",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is imagined in void-form and what remains in the knower?",
+   "premises": [
+    "what is imagined has void-form",
+    "imagining does not occur in knower",
+    "intellect becomes meditation and breath becomes utterance"
+   ],
+   "inference": "the knower remains free while supports take meditative and utterance forms",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "What is imagined has void-form, but imagining does not occur in the knower; there intellect is meditation and breath is utterance."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "uccāraṇaṃ",
+     "gloss": "utterance",
+     "grounds": "verse 18 token 1",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 18 token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇādyā",
+     "gloss": "breath-beginning",
+     "grounds": "verse 18 token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyānāntāḥ",
+     "gloss": "ending-in-vyana",
+     "grounds": "verse 18 token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "verse 18 token 5",
+     "morph": "numeral"
+    },
+    {
+     "surface": "vṛttayaḥ",
+     "gloss": "functions",
+     "grounds": "verse 18 token 6",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "ādyā",
+     "gloss": "first",
+     "grounds": "verse 18 token 7",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 18 token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇanābhikhyāparoccārātmikā",
+     "gloss": "breath-named-supreme-utterance-natured",
+     "grounds": "verse 18 token 9",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verse 18 token 10",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "Which five breath functions constitute utterance and which is supreme?",
+   "premises": [
+    "utterance includes five breath functions",
+    "they run from breath to vyana",
+    "the first is supreme utterance-natured"
+   ],
+   "inference": "the breath ladder begins with a supreme utterance function",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Utterance includes five breath functions from prana to vyana, and the first would be supreme utterance-natured."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "śarīrasyākṣaviṣayaitatpiṇḍatvena",
+     "gloss": "body-sense-object-this-mass-state",
+     "grounds": "verse 19 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃsthitiḥ",
+     "gloss": "establishment",
+     "grounds": "verse 19 token 2",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse 19 token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhyānamayaṃ",
+     "gloss": "meditation-made",
+     "grounds": "verse 19 token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "tāvadanuttaramihocyate",
+     "gloss": "so-far-supreme-here-is-said",
+     "grounds": "verse 19 token 5",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the body established as sense-object mass and meditation?",
+   "premises": [
+    "body is established as sense-object mass",
+    "there meditation-made is said",
+    "so far the supreme is spoken here"
+   ],
+   "inference": "bodily support becomes a meditation-made supreme state",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The body is established as a mass of sense objects; there the meditation-made supreme is spoken here."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "verse 20 token 1",
+     "morph": "rel.pron.nom.sg.m"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "light",
+     "grounds": "verse 20 token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svatantro@yaṃ",
+     "gloss": "independent-this",
+     "grounds": "verse 20 token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "citsvabhāvo",
+     "gloss": "consciousness-natured",
+     "grounds": "verse 20 token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "verse 20 token 5",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "verse 20 token 6",
+     "morph": "participle"
+    },
+    {
+     "surface": "sarvatattvamayaḥ",
+     "gloss": "all-principle-made",
+     "grounds": "verse 20 token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "proktametacca",
+     "gloss": "this-is-said-and",
+     "grounds": "verse 20 token 8",
+     "morph": "compound"
+    },
+    {
+     "surface": "triśiromate",
+     "gloss": "in-trishira-doctrine",
+     "grounds": "verse 20 token 9",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What independent light situated in the heart contains all principles?",
+   "premises": [
+    "independent consciousness-natured light is situated in heart",
+    "it is all-principle-made",
+    "this is said in trishira doctrine"
+   ],
+   "inference": "the heart-light is the all-principle conscious source",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The independent consciousness-natured light situated in the heart is all-principle-made, as said in the trishira doctrine."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "kadalīsaṃpuṭākāraṃ",
+     "gloss": "banana-sheath-shaped",
+     "grounds": "verse 21 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "sabāhyābhyantarāntaram",
+     "gloss": "with-outer-inner-middle",
+     "grounds": "verse 21 token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "īkṣate",
+     "gloss": "sees",
+     "grounds": "verse 21 token 3",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "hṛdayāntaḥsthaṃ",
+     "gloss": "heart-within-situated",
+     "grounds": "verse 21 token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatpuṣpamiva",
+     "gloss": "like-that-flower",
+     "grounds": "verse 21 token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "tattvavit",
+     "gloss": "principle-knower",
+     "grounds": "verse 21 token 6",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does the principle-knower see within the heart?",
+   "premises": [
+    "principle-knower sees heart-within-situated",
+    "it is banana-sheath-shaped",
+    "with outer inner and middle like a flower"
+   ],
+   "inference": "the heart contains a layered flower-like principle",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "The principle-knower sees within the heart a banana-sheath-shaped form with outer, inner, and middle, like a flower."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "somasūryāgnisaṃghaṭṭaṃ",
+     "gloss": "moon-sun-fire-conjunction",
+     "grounds": "verse 22 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse 22 token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhyāyedananyadhīḥ",
+     "gloss": "should-meditate-with-unwavering-mind",
+     "grounds": "verse 22 token 3",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "taddhyānāraṇisaṃkṣobhānmahābhairavahavyabhuk",
+     "gloss": "from-that-meditation-fire-stick-agitation-great-bhairava-offering-consumer",
+     "grounds": "verse 22 token 4",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should be meditated there with unwavering mind?",
+   "premises": [
+    "moon sun and fire conjunction is there",
+    "one should meditate with unwavering mind",
+    "that meditation agitation makes great bhairava consume offerings"
+   ],
+   "inference": "meditating the triadic conjunction awakens great bhairava",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "There one should meditate with unwavering mind on the conjunction of moon, sun, and fire; that meditation agitation makes great Bhairava consume offerings."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "hṛdayākhye",
+     "gloss": "named-heart",
+     "grounds": "verse 23 token 1",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "mahākuṇḍe",
+     "gloss": "in-great-basin",
+     "grounds": "verse 23 token 2",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "jājvalan",
+     "gloss": "blazing",
+     "grounds": "verse 23 token 3",
+     "morph": "participle"
+    },
+    {
+     "surface": "sphītatāṃ",
+     "gloss": "fullness",
+     "grounds": "verse 23 token 4",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "verse 23 token 5",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "verse 23 token 6",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "śaktimataḥ",
+     "gloss": "of-power-possessor",
+     "grounds": "verse 23 token 7",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sphītaśakterbhairavatejasaḥ",
+     "gloss": "of-expanded-power-bhairava-radiance",
+     "grounds": "verse 23 token 8",
+     "morph": "compound"
+    }
+   ],
+   "question": "What fullness arises in the great heart-basin?",
+   "premises": [
+    "blazing in great heart-basin goes to fullness",
+    "that power-possessor has expanded power",
+    "bhairava radiance is involved"
+   ],
+   "inference": "the heart-basin blazing expands into full power and radiance",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Blazing in the great heart-basin, fullness would arise for that power-possessor with expanded power and Bhairava radiance."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "mātṛmānaprameyākhyaṃ",
+     "gloss": "knower-knowing-known-named",
+     "grounds": "verse 24 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhāmābhedena",
+     "gloss": "by-abode-non-difference",
+     "grounds": "verse 24 token 2",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-contemplate",
+     "grounds": "verse 24 token 3",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "vahnyarkasomaśaktīnāṃ",
+     "gloss": "of-fire-sun-moon-powers",
+     "grounds": "verse 24 token 4",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "verse 24 token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "tritayaṃ",
+     "gloss": "triad",
+     "grounds": "verse 24 token 6",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "verse 24 token 7",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How should the knower knowing and known be contemplated?",
+   "premises": [
+    "knower knowing and known are named",
+    "contemplate by abode non-difference",
+    "fire sun and moon powers become that same triad"
+   ],
+   "inference": "the triad of powers becomes the non-different abode of knower knowing and known",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "One should contemplate knower, knowing, and known by abode non-difference; the fire, sun, and moon powers become that same triad."
+  }
+ ]
+}

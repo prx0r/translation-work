@@ -1,0 +1,695 @@
+{
+ "song": "Tantraloka a05 vv37-48",
+ "items": [
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triśūlāt",
+     "gloss": "from-trishula",
+     "grounds": "ablative source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "from-beginning",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣpañcārakakramāt",
+     "gloss": "by-four-five-ara-sequence",
+     "grounds": "ablative instrument",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pañcāśadaraparyantaṃ",
+     "gloss": "up-to-fifty-ara",
+     "grounds": "accusative limit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "nominative agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhāvayet",
+     "gloss": "should-visualize",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act-vibhāvay"
+    }
+   ],
+   "question": "How should the yogi visualize the wheel from trishula onward?",
+   "premises": [
+    "The yogi visualizes the wheel.",
+    "The sequence begins at trishula.",
+    "The sequence reaches fifty ara."
+   ],
+   "inference": "Visualization moves from trishula through the ara sequence to fifty ara.",
+   "uncertainties": [
+    "Compound catuṣpañcārakakramāt may be parsed as instrumental or ablative."
+   ],
+   "plain_english": "Thus, from trishula onward, by the four-five-ara sequence up to fifty ara, the yogi should visualize the wheel."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "catuṣṣaṣṭiśatāraṃ",
+     "gloss": "sixty-four-hundred-ara",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrāramathāpi",
+     "gloss": "or-thousand-ara",
+     "grounds": "compound alternative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asaṃkhyārasahasraṃ",
+     "gloss": "countless-thousand-ara",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyāyedananyadhīḥ",
+     "gloss": "one-of-undivided-mind-should-meditate",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.opt.act-dhyā"
+    }
+   ],
+   "question": "Which wheel forms may the undivided mind meditate upon?",
+   "premises": [
+    "The mind is undivided.",
+    "The wheel may have sixty-four hundred ara.",
+    "The wheel may have thousand ara."
+   ],
+   "inference": "Meditation may take several wheel forms, including countless thousand ara.",
+   "uncertainties": [
+    "sahasrāramathāpi is treated as one token in the supplied list."
+   ],
+   "plain_english": "Or the sixty-four-hundred-ara wheel, or the thousand-ara wheel, or the countless-thousand-ara wheel, the one of undivided mind should meditate."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "saṃvinnāthasya",
+     "gloss": "of-lord-of-consciousness",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mahato",
+     "gloss": "great",
+     "grounds": "genitive adjective",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devasyollāsisaṃvidaḥ",
+     "gloss": "of-god-of-arising-consciousness",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "naivāsti",
+     "gloss": "there-is-not-at-all",
+     "grounds": "negative existential",
+     "morph": "3.sg.pres.act-as"
+    },
+    {
+     "surface": "kācitkalanā",
+     "gloss": "any-calculation",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśvaśaktermaheśituḥ",
+     "gloss": "of-world-power-great-lord",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What calculation exists for the great lord of world-power?",
+   "premises": [
+    "The lord of consciousness is great.",
+    "The god's consciousness arises.",
+    "No calculation exists."
+   ],
+   "inference": "For the great lord of world-power, no calculation exists.",
+   "uncertainties": [
+    "devasyollāsisaṃvidaḥ may be a sandhi compound with ambiguous boundaries."
+   ],
+   "plain_english": "Of the great lord of consciousness, of the god of arising consciousness, there is no calculation at all of the great lord of world-power."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "śaktayo@sya",
+     "gloss": "his-powers",
+     "grounds": "nominative subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "nominative predicate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtsnaṃ",
+     "gloss": "whole",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaktimāṃstu",
+     "gloss": "power-holder-is",
+     "grounds": "copular clause",
+     "morph": "3.sg.pres.act-as"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "nominative predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṅgalaśāstre",
+     "gloss": "in-auspicious-scripture",
+     "grounds": "locative context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīśrīkaṇṭho",
+     "gloss": "sri-srikantha",
+     "grounds": "nominative agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyarūpayat",
+     "gloss": "explained",
+     "grounds": "past verb",
+     "morph": "3.sg.aor.act-rūp"
+    }
+   ],
+   "question": "What did Sri Srikantha explain in the auspicious scripture?",
+   "premises": [
+    "His powers are the whole world.",
+    "The power-holder is the great lord.",
+    "Sri Srikantha explained this."
+   ],
+   "inference": "The scripture states that powers are the world and the power-holder is the great lord.",
+   "uncertainties": [
+    "śaktimāṃstu is treated as a supplied token, not split."
+   ],
+   "plain_english": "His powers are the whole world; the power-holder is the great lord. Thus, in the auspicious scripture, Sri Srikantha explained."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "ityetat",
+     "gloss": "thus-this",
+     "grounds": "demonstrative phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prathamopāyarūpaṃ",
+     "gloss": "first-means-form",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyarūpayat",
+     "gloss": "explained",
+     "grounds": "past verb",
+     "morph": "3.sg.aor.act-rūp"
+    },
+    {
+     "surface": "śrīśaṃbhunātho",
+     "gloss": "sri-shambhunatha",
+     "grounds": "nominative agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative recipient",
+     "morph": "1.sg.dat"
+    },
+    {
+     "surface": "tuṣṭastasmai",
+     "gloss": "pleased-to-him",
+     "grounds": "participial phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīsumatiprabhuḥ",
+     "gloss": "sri-sumatiprabhu",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who explained this first-means meditation and to whom?",
+   "premises": [
+    "This is first-means-form meditation.",
+    "Sri Shambhunatha explained it.",
+    "Sri Sumatiprabhu was pleased to him."
+   ],
+   "inference": "Sri Shambhunatha explained the first-means meditation, and Sri Sumatiprabhu was pleased.",
+   "uncertainties": [
+    "tuṣṭastasmai may be read as dative or locative in context."
+   ],
+   "plain_english": "Thus this first-means-form meditation was explained by Sri Shambhunatha; to me, Sri Sumatiprabhu was pleased to him."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "anayaiva",
+     "gloss": "by-this-same",
+     "grounds": "instrumental phrase",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "diśānyāni",
+     "gloss": "direction-other",
+     "grounds": "accusative phrase",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "dhyānānyapi",
+     "gloss": "meditations-also",
+     "grounds": "accusative object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "samāśrayet",
+     "gloss": "should-resort-to",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act-āśray"
+    },
+    {
+     "surface": "anuttaropāyadhurāṃ",
+     "gloss": "burden-of-unexcelled-means",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yānyāyānti",
+     "gloss": "which-approach",
+     "grounds": "relative verb",
+     "morph": "3.pl.pres.act-yā"
+    },
+    {
+     "surface": "kramaṃ",
+     "gloss": "sequence",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should other meditations be approached by this same direction?",
+   "premises": [
+    "Other meditations should be resorted to.",
+    "They reach the burden of unexcelled means.",
+    "They approach without sequence."
+   ],
+   "inference": "By this same direction, other meditations are resorted to and reach unexcelled means without sequence.",
+   "uncertainties": [
+    "anayaiva diśānyāni may be read as one compound or phrase."
+   ],
+   "plain_english": "By this same direction, other meditations too should be resorted to, those that reach the burden of the unexcelled means without sequence."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "transitional adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇasya",
+     "gloss": "of-breath",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vṛttiḥ",
+     "gloss": "function",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāṇanādyā",
+     "gloss": "beginning-with-prana",
+     "grounds": "nominative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirūpitā",
+     "gloss": "explained",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.pastpart-nirūp"
+    },
+    {
+     "surface": "tadupāyatayā",
+     "gloss": "by-that-means",
+     "grounds": "instrumental phrase",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "brūmo@nuttarapravikāsanam",
+     "gloss": "we-speak-unexcelled-expansion",
+     "grounds": "compound verb phrase",
+     "morph": "1.pl.pres.act-brū"
+    }
+   ],
+   "question": "What is explained about breath and what follows from it?",
+   "premises": [
+    "Breath's function beginning with prana is explained.",
+    "By that means we speak.",
+    "We speak unexcelled expansion."
+   ],
+   "inference": "Because breath's function is explained, by that means unexcelled expansion is spoken.",
+   "uncertainties": [
+    "brūmo@nuttarapravikāsanam is treated as one supplied token."
+   ],
+   "plain_english": "Now, breath's function, beginning with prana, is explained; by that means we speak of unexcelled expansion."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "nijānande",
+     "gloss": "in-own-bliss",
+     "grounds": "locative phrase",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pramātraṃśamātre",
+     "gloss": "in-measure-of-knower-object",
+     "grounds": "locative phrase",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.pastpart-sthā"
+    },
+    {
+     "surface": "śūnyatāmātraviśrānternirānandaṃ",
+     "gloss": "from-rest-in-mere-void-blissless",
+     "grounds": "ablative phrase",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vibhāvayet",
+     "gloss": "should-visualize",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act-vibhāvay"
+    }
+   ],
+   "question": "What should be visualized from rest in mere void?",
+   "premises": [
+    "One is situated in own bliss.",
+    "One is in the heart.",
+    "From rest in mere void, visualize blissless."
+   ],
+   "inference": "From rest in mere void, one should visualize the blissless state.",
+   "uncertainties": [
+    "pramātraṃśamātre is an unusual compound and its exact sense is uncertain."
+   ],
+   "plain_english": "Situated formerly in the heart in own bliss, in the measure of knower and object, from rest in mere void, one should visualize the blissless."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "prāṇodaye",
+     "gloss": "at-breath-rising",
+     "grounds": "locative phrase",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prameye",
+     "gloss": "in-object",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parānandaṃ",
+     "gloss": "supreme-bliss",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vibhāvayet",
+     "gloss": "should-visualize",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act-vibhāvay"
+    },
+    {
+     "surface": "tatrānantaprameyāṃśapūraṇāpānanirvṛtaḥ",
+     "gloss": "there-freed-by-filling-endless-object-parts-with-apana",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should be visualized at breath rising in the object?",
+   "premises": [
+    "At breath rising, in the object, visualize supreme bliss.",
+    "There one is freed.",
+    "Filling endless object parts with apana frees."
+   ],
+   "inference": "At breath rising in the object, one should visualize supreme bliss and be freed by filling endless object parts with apana.",
+   "uncertainties": [
+    "tatrānantaprameyāṃśapūraṇāpānanirvṛtaḥ is a long compound with uncertain internal grouping."
+   ],
+   "plain_english": "At breath rising, in the object, one should visualize supreme bliss; there, freed by filling endless object parts with apana."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "parānandagatastiṣṭhedapānaśaśiśobhitaḥ",
+     "gloss": "standing-in-supreme-bliss-adorned-by-apana-moon",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.opt.act-sthā"
+    },
+    {
+     "surface": "tato@nantasphuranmeyasaṃghaṭṭaikāntanirvṛtaḥ",
+     "gloss": "then-freed-by-single-contact-of-endless-shining-objects",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does one stand in supreme bliss and become freed?",
+   "premises": [
+    "One stands in supreme bliss.",
+    "One is adorned by the apana moon.",
+    "Then one is freed by single contact of endless shining objects."
+   ],
+   "inference": "Standing in supreme bliss adorned by the apana moon, one becomes freed by single contact of endless shining objects.",
+   "uncertainties": [
+    "Both supplied tokens are long compounds and may contain multiple sandhi boundaries."
+   ],
+   "plain_english": "Standing in supreme bliss, adorned by the apana moon, then one is freed by the single contact of endless shining objects."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "samānabhūmimāgatya",
+     "gloss": "having-reached-samana-level",
+     "grounds": "absolutive phrase",
+     "morph": "absolutive-āgam"
+    },
+    {
+     "surface": "brahmānandamayo",
+     "gloss": "full-of-brahma-bliss",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act-bhū"
+    },
+    {
+     "surface": "tato@pi",
+     "gloss": "then-also",
+     "grounds": "conjunctive phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānameyaughakalanāgrāsatatparaḥ",
+     "gloss": "intent-on-swallowing-mass-of-knower-known-calculation",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens after reaching the samana level?",
+   "premises": [
+    "Having reached the samana level, one becomes full of brahma bliss.",
+    "Then one is intent on swallowing.",
+    "The mass of knower-known calculation is swallowed."
+   ],
+   "inference": "After reaching the samana level, one becomes full of brahma bliss and then intends to swallow the mass of knower-known calculation.",
+   "uncertainties": [
+    "mānameyaughakalanāgrāsatatparaḥ is a long compound with uncertain internal grouping."
+   ],
+   "plain_english": "Having reached the samana level, one becomes full of brahma bliss; then also one is intent on swallowing the mass of knower-known calculation."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "udānavahnau",
+     "gloss": "in-udana-fire",
+     "grounds": "locative phrase",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśrānto",
+     "gloss": "resting",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.pastpart-viśram"
+    },
+    {
+     "surface": "mahānandaṃ",
+     "gloss": "great-bliss",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vibhāvayat",
+     "gloss": "should-visualize",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act-vibhāvay"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśrāntimabhyetya",
+     "gloss": "having-reached-rest",
+     "grounds": "absolutive phrase",
+     "morph": "absolutive-abhi-i"
+    },
+    {
+     "surface": "śāmyatyasminmahārciṣi",
+     "gloss": "one-becomes-calm-in-that-great-flame",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.pres.act-śam"
+    }
+   ],
+   "question": "What should be visualized while resting in udana fire?",
+   "premises": [
+    "Resting in udana fire, one should visualize great bliss.",
+    "There, having reached rest, one becomes calm.",
+    "One becomes calm in that great flame."
+   ],
+   "inference": "While resting in udana fire, one should visualize great bliss and become calm in that great flame.",
+   "uncertainties": [
+    "śāmyatyasminmahārciṣi is treated as one supplied token."
+   ],
+   "plain_english": "Resting in udana fire, one should visualize great bliss; there, having reached rest, one becomes calm in that great flame."
+  }
+ ]
+}
