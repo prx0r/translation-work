@@ -81,3 +81,9 @@ All fixes verified: syntax OK (py + bash -n), gates green, MCP handshake 16/16.
 - Seeded 24v triples: a15 (26 groups), a28/a08 (19 each), a13 (16). a09 fell back to per-verse tasks (180v; 16 triple groups failed on content gates, need hand-draft or per-verse beam pass — per-verse seeded).
 - Per-verse fallback seeded across all incomplete songs: 2805 pending. 4 workers drafting (a01 glosses flowing).
 - Harness supervises LOOP.sh model iterations + full stack overnight. STOP: process/beam/LOOP.STOP.
+
+## Addendum — dumb+smart beam loop live (2026-11-07 ~11:15Z)
+- tools/beam_review.py: SMART seat staffed by beam-free. Hard limits: NEVER approves prose (auto-review covers briefs, humans cover meaning); bounces ONLY mechanical fails with actionable notes; everything logs to assessor-reviews.jsonl. Cheap on quota (single 1500-token call, tries=1, instant backoff on 429).
+- Wired into ralph.sh every pass (2c, --max 1 --apply) + MCP tool beam_review (17 tools). Verified live in ralph.log.
+- Fixes this session: re-applied missing 2c wire, killed duplicate watchdog (respawns under investigation — pgrep + kill on sight), stale-claim PAUSE discipline holding while beam throttled.
+- Beam currently throttled (PAUSED set, workers draining correctly). Queue preserved: 2641 pending. Loop resumes on health-check green.
