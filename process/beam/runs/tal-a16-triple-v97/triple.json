@@ -1,0 +1,749 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "śodhyādhvani",
+     "gloss": "on-path-to-be-purified",
+     "grounds": "compound sense",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaste",
+     "gloss": "when-placed",
+     "grounds": "participle",
+     "morph": "loc.sg.m-participle"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pariśodhakam",
+     "gloss": "purifier",
+     "grounds": "agent noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nyasedyathepsitaṃ",
+     "gloss": "place-as-desired",
+     "grounds": "verb compound",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śodhyaucityānusārataḥ",
+     "gloss": "according-to-propriety-of-purified",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the purifier mantra placed when the path is set?",
+   "premises": [
+    "path is placed first",
+    "purifier is placed there",
+    "placement follows propriety"
+   ],
+   "inference": "The purifier mantra is installed in the already set path according to the propriety of what is purified.",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "When the path to be purified has been placed, the purifier mantra is placed there as desired, according to the propriety of the thing purified."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "kvacicchodhyaṃ",
+     "gloss": "sometimes-thing-purified",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tvavinyasya",
+     "gloss": "without-placing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śodhakanyāsamātrataḥ",
+     "gloss": "by-purifier-placement-alone",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "itself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhyati",
+     "gloss": "becomes-pure",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "saṃśodhyaṃ",
+     "gloss": "what-is-purified",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śodhakasya",
+     "gloss": "of-purifier",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "prabhāvataḥ",
+     "gloss": "by-power",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can purification occur without placing the thing purified?",
+   "premises": [
+    "purifier placement alone suffices",
+    "purified thing becomes pure itself",
+    "purifier power acts"
+   ],
+   "inference": "Sometimes the thing to be purified need not be placed; mere placement of the purifier purifies it by the purifier's power.",
+   "uncertainties": [
+    "kvacicchodhyaṃ segmentation"
+   ],
+   "plain_english": "Sometimes, without placing the thing to be purified, mere placement of the purifier makes it pure itself; what is purified becomes pure by the purifier's power."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "aparaṃ",
+     "gloss": "another",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "parāparaṃ",
+     "gloss": "parapara",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "para",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhimicchayā",
+     "gloss": "rite-by-wish",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadyojanānusāreṇa",
+     "gloss": "according-to-combination",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śritvā",
+     "gloss": "having-resorted",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "nyasa",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ṣaḍadhvanaḥ",
+     "gloss": "of-six-paths",
+     "grounds": "compound",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "How are the three rites applied to the six paths?",
+   "premises": [
+    "three rites are named",
+    "choice governs rite",
+    "combination determines resort"
+   ],
+   "inference": "The nyasa of the six paths follows another, parapara, or para rite according to wish and their combination.",
+   "uncertainties": [
+    "technical rite names"
+   ],
+   "plain_english": "By wish one may use another, parapara, or para rite; having resorted according to their combination, one performs nyasa of the six paths."
+  },
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "lalāṭāntaṃ",
+     "gloss": "to-forehead-end",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vedavasau",
+     "gloss": "veda-vasu",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "randhrāntaṃ",
+     "gloss": "to-hole-end",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "rasarandhrake",
+     "gloss": "in-rasa-hole",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vasukhendau",
+     "gloss": "in-vasu-kha-indu",
+     "grounds": "compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dvādaśāntamityeṣa",
+     "gloss": "twelve-end-thus-this",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "trividho",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What are the threefold limits of this rite?",
+   "premises": [
+    "three limits are given",
+    "forehead and hole are named",
+    "twelve-end is included"
+   ],
+   "inference": "This rite is threefold, with limits at the forehead, the hole, and the twelve-end.",
+   "uncertainties": [
+    "technical anatomical terms"
+   ],
+   "plain_english": "This threefold rite has limits at the forehead, the hole, and the twelve-end."
+  },
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-described",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "dṛṣṭaḥ",
+     "gloss": "seen",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "in-treatise",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śrīpūrvasaṃjñite",
+     "gloss": "named-sripurva",
+     "grounds": "compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattveṣu",
+     "gloss": "in-principles",
+     "grounds": "locative",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "vinyāso",
+     "gloss": "placement",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gulphānte",
+     "gloss": "at-ankle-end",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "caturaṅgule",
+     "gloss": "four-angulas",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Where is placement made in the principles?",
+   "premises": [
+    "treatise describes in order",
+    "placement occurs there",
+    "ankle-end is specified"
+   ],
+   "inference": "As described in the treatise, placement in the principles is made at the ankle-end, four angulas.",
+   "uncertainties": [
+    "śrīpūrvasaṃjñite meaning"
+   ],
+   "plain_english": "It is described in order in the treatise named Sripurva; there placement in the principles is at the ankle-end, four angulas."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "dharā",
+     "gloss": "earth",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "jalādimūlāntaṃ",
+     "gloss": "from-water-to-root-end",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṅgulaṃ",
+     "gloss": "two-angulas",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rasaśrutyaṅgulaṃ",
+     "gloss": "rasa-sruti-angula",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nābherūrdhvamitthaṃ",
+     "gloss": "above-navel-thus",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṅgule",
+     "gloss": "six-angulas",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "How are the elements measured from earth upward?",
+   "premises": [
+    "earth to root-end is measured",
+    "each gets two angulas",
+    "above navel is six angulas"
+   ],
+   "inference": "The elements are measured in order, two angulas each from earth to root-end, and above the navel six angulas.",
+   "uncertainties": [
+    "rasaśrutyaṅgulaṃ"
+   ],
+   "plain_english": "Earth and the elements up to the root-end are measured two angulas each in order; above the navel it is six angulas."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "puṃsaḥ",
+     "gloss": "of-man",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "kalāntaṃ",
+     "gloss": "to-kala-end",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ṣaṭtattvīṃ",
+     "gloss": "six-principles",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tryaṅgule",
+     "gloss": "three-angulas",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-place",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "aṣṭādaśāṅgulaṃ",
+     "gloss": "eighteen-angulas",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tvevaṃ",
+     "gloss": "thus-indeed",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṇṭhakūpāvasānakam",
+     "gloss": "ending-at-throat-pit",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How are the six principles placed for a man?",
+   "premises": [
+    "man's principles are measured",
+    "each gets three angulas",
+    "ends at throat pit"
+   ],
+   "inference": "For a man, the six principles are placed three angulas each, ending at the throat pit, eighteen angulas in all.",
+   "uncertainties": [
+    "kalāntaṃ"
+   ],
+   "plain_english": "For a man, the six principles are placed three angulas each, ending at the throat pit, eighteen angulas in all."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "sadāśivāntaṃ",
+     "gloss": "to-sadashiva-end",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "māyādicatuṣkaṃ",
+     "gloss": "maya-and-four",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "caturaṅgule",
+     "gloss": "four-angulas",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pratyekamityabdhivasusaṃkhyamālikadeśataḥ",
+     "gloss": "each-thus-water-vasu-count-malika-place",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are sadashiva and maya measured?",
+   "premises": [
+    "sadashiva end is named",
+    "maya four is named",
+    "each is four angulas"
+   ],
+   "inference": "Sadashiva to end and the maya four are measured four angulas each from the water-vasu count malika place.",
+   "uncertainties": [
+    "long compound"
+   ],
+   "plain_english": "Sadashiva to the end and the four maya principles are measured four angulas each from the specified place."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "śivatattvaṃ",
+     "gloss": "shiva-principle",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāttejorūpamanākulam",
+     "gloss": "afterward-tejo-form-unagitated",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "vyāpakatvena",
+     "gloss": "by-pervasiveness",
+     "grounds": "instrumental",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sabāhyābhyantaraṃ",
+     "gloss": "with-external-internal",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the shiva principle be remembered?",
+   "premises": [
+    "shiva principle comes first",
+    "tejo form is unagitated",
+    "it pervades all"
+   ],
+   "inference": "One should remember the shiva principle, then the tejo form, unagitated, pervading all within and without.",
+   "uncertainties": [
+    "paścāttejorūpamanākulam"
+   ],
+   "plain_english": "One should remember the shiva principle, then the tejo form, unagitated, pervading all within and without."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "jalāddhyantaṃ",
+     "gloss": "from-water-to-end",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sārdhayugmaṃ",
+     "gloss": "with-pair",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tryaṅgulamityataḥ",
+     "gloss": "three-angulas-thus-from-here",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśāṅgulatādhikyādvidhireṣa",
+     "gloss": "twelve-angula-excess-rite-this",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "parāparaḥ",
+     "gloss": "parapara",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the parapara rite measurement?",
+   "premises": [
+    "from water to end is measured",
+    "root is three angulas",
+    "twelve-angula excess defines rite"
+   ],
+   "inference": "The parapara rite measures from water to end with a pair and root of three angulas, with twelve-angula excess.",
+   "uncertainties": [
+    "sārdhayugmaṃ"
+   ],
+   "plain_english": "The parapara rite measures from water to the end with a pair and a root of three angulas, with a twelve-angula excess."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "jalāddhyantaṃ",
+     "gloss": "from-water-to-end",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tryaṅgule",
+     "gloss": "three-angulas",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "cedavyaktaṃ",
+     "gloss": "if-unmanifest",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣṭaye",
+     "gloss": "in-four",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "taccaturviṃśatyādhikyātparo@pyaṣṭaśate",
+     "gloss": "that-twenty-four-excess-para-eight-hundred",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the para rite measurement?",
+   "premises": [
+    "from water to end is measured",
+    "if unmanifest three angulas",
+    "para rite has twenty-four excess"
+   ],
+   "inference": "If unmanifest, the para rite measures from water to end in three angulas in the four, with twenty-four excess, eight hundred.",
+   "uncertainties": [
+    "taccaturviṃśatyādhikyātparo@pyaṣṭaśate"
+   ],
+   "plain_english": "If unmanifest, the para rite measures from water to the end in three angulas in the four, with twenty-four excess, eight hundred."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "trividhonmānakaṃ",
+     "gloss": "threefold-measure",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vyaktaṃ",
+     "gloss": "manifest",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vasudigbhyo",
+     "gloss": "from-vasu-directions",
+     "grounds": "ablative",
+     "morph": "abl.pl.f"
+    },
+    {
+     "surface": "ravikṣayāt",
+     "gloss": "from-sun-decay",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "mayatantre",
+     "gloss": "in-maya-tantra",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tathācoktaṃ",
+     "gloss": "thus-also-said",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattatsvaphalavāñchayā",
+     "gloss": "each-own-fruit-desire",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the threefold measure said to be manifest?",
+   "premises": [
+    "threefold measure is manifest",
+    "from vasu directions and sun decay",
+    "maya tantra says so"
+   ],
+   "inference": "The threefold measure is manifest from the vasu directions and sun decay, as said in the maya tantra, according to desire for each fruit.",
+   "uncertainties": [
+    "vasudigbhyo"
+   ],
+   "plain_english": "The threefold measure is manifest from the vasu directions and sun decay, as also said in the maya tantra, according to desire for each fruit."
+  }
+ ]
+}

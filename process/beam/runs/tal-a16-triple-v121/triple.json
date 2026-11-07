@@ -1,0 +1,779 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "asāratvātkramasyādau",
+     "gloss": "lack-of-essence-of-order",
+     "grounds": "ablative compound phrase",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "niyatiḥ",
+     "gloss": "niyati",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parataḥ",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalā",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "athavānyonyasaṃjñābhyāṃ",
+     "gloss": "or-by-mutual-names",
+     "grounds": "instrumental dual",
+     "morph": "inst.du.f"
+    },
+    {
+     "surface": "tattvayorvyapadeśyatā",
+     "gloss": "designation-of-the-two-principles",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why does niyati precede kalā in this ordering?",
+   "premises": [
+    "order lacks essence at beginning",
+    "niyati is placed before kalā",
+    "mutual names designate the two principles"
+   ],
+   "inference": "The ordering is justified by lack of essential order and mutual designation.",
+   "uncertainties": [
+    "exact referent of tattvayor"
+   ],
+   "plain_english": "Because order lacks essence at the beginning, niyati comes before kalā, or the two principles are designated by mutual names."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "ekavīraśikheśaśrīkaṇṭhāḥ",
+     "gloss": "ekavīra-śikheśa-śrīkaṇṭha",
+     "grounds": "compound subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "trayastraye",
+     "gloss": "three-in-three",
+     "grounds": "locative phrase",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kālasya",
+     "gloss": "of-time",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyāso",
+     "gloss": "arrangement",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niyaterabhidhīyate",
+     "gloss": "of-niyati-is-described",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + niyati"
+    }
+   ],
+   "question": "How are the three lords arranged before time?",
+   "premises": [
+    "three lords are named",
+    "arrangement occurs before time",
+    "niyati is described thereby"
+   ],
+   "inference": "The arrangement of the three lords before time constitutes niyati.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "The arrangement of Ekavīra, Śikheśa, and Śrīkaṇṭha before time is described as niyati."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "athavānyonyasaṃjñābhirvyapadeśo",
+     "gloss": "or-by-mutual-names-designation",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.f"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pumādiṣaṭtattvī",
+     "gloss": "six-principles-from-puruṣa",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinyastāṣṭādaśāṅgule",
+     "gloss": "arranged-in-eighteen-angulas",
+     "grounds": "locative phrase",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "How are the six principles from puruṣa arranged?",
+   "premises": [
+    "mutual names designate them",
+    "six principles from puruṣa are seen",
+    "they are arranged in eighteen angulas"
+   ],
+   "inference": "The six principles are designated by mutual names and arranged in eighteen angulas.",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "Thus the six principles beginning with puruṣa are seen designated by mutual names and arranged in eighteen angulas."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "tato@pyaṅguṣṭhamātrāntaṃ",
+     "gloss": "then-to-thumb-measure-end",
+     "grounds": "compound phrase",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "māyātattvasthamaṣṭakam",
+     "gloss": "eight-in-māyā-principle",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratyekamardhāṅgulataḥ",
+     "gloss": "each-half-angula",
+     "grounds": "ablative phrase",
+     "morph": "abl.sg.f"
+    },
+    {
+     "surface": "syādaṅgulacatuṣṭaye",
+     "gloss": "would-be-in-four-angulas",
+     "grounds": "locative phrase",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "How much space do the eight māyā principles occupy?",
+   "premises": [
+    "eight principles stand in māyā",
+    "each is half an angula",
+    "they occupy four angulas"
+   ],
+   "inference": "The eight māyā principles occupy four angulas, each half an angula.",
+   "uncertainties": [
+    "sandhi reading"
+   ],
+   "plain_english": "Then the eight principles standing in māyā, each half an angula, occupy four angulas up to thumb measure."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyakṣṇi",
+     "gloss": "in-two-eyes",
+     "grounds": "locative dual",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "purāṇyaṣṭāviṃśatiḥ",
+     "gloss": "twenty-eight-cities",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puruṣānniśi",
+     "gloss": "from-puruṣa-at-night",
+     "grounds": "ablative phrase",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "puratrayaṃ",
+     "gloss": "three-cities",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvayostryaṃśanyūnāṅgulamiti",
+     "gloss": "less-by-one-third-angula-for-two",
+     "grounds": "compound phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the twenty-eight cities arranged in the eyes?",
+   "premises": [
+    "twenty-eight cities are in two eyes",
+    "three cities come from puruṣa at night",
+    "two are less by one third angula"
+   ],
+   "inference": "The cities are arranged in order with specified angula reductions.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Thus twenty-eight cities are in two eyes; three cities come from puruṣa at night, two are less by one-third angula, in order."
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "dvayordvayaṃ",
+     "gloss": "two-and-two",
+     "grounds": "nominative phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcapurī",
+     "gloss": "five-cities",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaidyīye",
+     "gloss": "in-vidyā",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "caturaṅgule",
+     "gloss": "in-four-angulas",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśapurāṇyaṣṭau",
+     "gloss": "eight-aiśa-cities",
+     "grounds": "nominative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "catuṣke@rdhāṅgulakramāt",
+     "gloss": "in-four-half-angulas-in-order",
+     "grounds": "locative phrase",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "How are the vidyā and aiśa cities measured?",
+   "premises": [
+    "two and two make five cities",
+    "five cities are in vidyā in four angulas",
+    "eight aiśa cities follow in four half-angulas"
+   ],
+   "inference": "The cities are measured in angulas according to their groups.",
+   "uncertainties": [
+    "sandhi reading"
+   ],
+   "plain_english": "Two and two make five cities in vidyā in four angulas; then eight aiśa cities follow in four half-angulas in order."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "tatastrīṇi",
+     "gloss": "then-three",
+     "grounds": "nominative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dvaye",
+     "gloss": "in-two",
+     "grounds": "locative",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "nominative",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayoritthaṃ",
+     "gloss": "thus-in-two",
+     "grounds": "locative phrase",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "catuṣṭaye",
+     "gloss": "in-four",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sādāśivaṃ",
+     "gloss": "sādāśiva",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcakaṃ",
+     "gloss": "fivefold",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāditthaṃ",
+     "gloss": "would-be-thus",
+     "grounds": "verb phrase",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "vasvekakaṃ",
+     "gloss": "one-vasu",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ravau",
+     "gloss": "in-sun",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "How are the sādāśiva and vasu groups arranged?",
+   "premises": [
+    "three and two are arranged",
+    "sādāśiva is fivefold",
+    "one vasu is in the sun"
+   ],
+   "inference": "The groups are arranged in specified counts and locations.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Then three in two and two thus in four; sādāśiva is fivefold, and one vasu is in the sun."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "ṣoḍaśakaṃ",
+     "gloss": "sixteenfold",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rasaviśikhaṃ",
+     "gloss": "rasa-viśikha",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vasudvikaṃ",
+     "gloss": "two-vasu",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vasuśaśīti",
+     "gloss": "vasu-moon-thus",
+     "grounds": "compound phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puravargāḥ",
+     "gloss": "city-groups",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vedā",
+     "gloss": "four",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rasābdhi",
+     "gloss": "rasa-ocean",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yugmākṣi",
+     "gloss": "pair-eye",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ravayastatra",
+     "gloss": "suns-there",
+     "grounds": "nominative phrase",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cāṅgulāḥ",
+     "gloss": "and-angulas",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the city groups measured in angulas?",
+   "premises": [
+    "city groups are named",
+    "vedas and rasa-ocean and pair-eye are counted",
+    "suns and angulas follow in order"
+   ],
+   "inference": "The city groups are measured by the listed counts in order.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Sixteenfold rasa-viśikha, two vasu, vasu-moon thus; city groups are four, rasa-ocean, pair-eye, and suns there, with angulas in order."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "aṣṭādaśādhikaśataṃ",
+     "gloss": "one-hundred-eighteen",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "purāṇi",
+     "gloss": "cities",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dehe@tra",
+     "gloss": "in-this-body",
+     "grounds": "locative phrase",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "caturaśītimite",
+     "gloss": "measured-as-eighty-four",
+     "grounds": "locative phrase",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vinyastāni",
+     "gloss": "arranged",
+     "grounds": "participle",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "taditthaṃ",
+     "gloss": "thus-that",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣe",
+     "gloss": "in-remainder",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpakaṃ",
+     "gloss": "pervading",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tattvam",
+     "gloss": "principle",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many cities are arranged in the body?",
+   "premises": [
+    "one hundred eighteen cities are arranged",
+    "they are in this body measured as eighty-four",
+    "the remainder is pervading śiva principle"
+   ],
+   "inference": "The cities are arranged in the body, and the remainder is the pervading śiva principle.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "One hundred eighteen cities are arranged in this body measured as eighty-four; thus in the remainder is the pervading śiva principle."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhiraparaḥ",
+     "gloss": "another-method",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "is-described",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parāparākhyo",
+     "gloss": "called-parāpara",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rasaśrutisthāne",
+     "gloss": "in-rasa-śruti-place",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "aṣṭaśaraṃ",
+     "gloss": "eight-arrows",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃkhyānaṃ",
+     "gloss": "enumeration",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khamunikṛtaṃ",
+     "gloss": "made-by-sky-sage",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatpare",
+     "gloss": "in-the-next",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "in-method",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is described as another method?",
+   "premises": [
+    "another method is described",
+    "it is called parāpara",
+    "enumeration is made by sky sage"
+   ],
+   "inference": "The parāpara method and its enumeration are to be known in the next method.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Thus another method, called parāpara, is described; its enumeration of eight arrows, made by the sky sage, is to be known in the next method."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "lakulāderyogāṣṭakaparyantasyātra",
+     "gloss": "from-lakula-to-eight-yogas-end-here",
+     "grounds": "compound phrase",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bhuvanapūgasya",
+     "gloss": "of-world-group",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "adhikīkuryādgaṇanāvaśena",
+     "gloss": "would-increase-by-counting",
+     "grounds": "verb phrase",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "share",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vidhidvaye",
+     "gloss": "in-two-methods",
+     "grounds": "locative",
+     "morph": "loc.du.m"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the world group's share increased?",
+   "premises": [
+    "from Lakula to eight yogas end here",
+    "world group's share is increased",
+    "counting applies in two methods"
+   ],
+   "inference": "The world group's share is increased by counting in the two methods in order.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "From Lakula to the end of eight yogas here, the world group's share is increased by counting in the two methods in order."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "aparādividhitraitādatha",
+     "gloss": "then-in-three-methods-from-aparā",
+     "grounds": "compound phrase",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "padādhvanaḥ",
+     "gloss": "of-foot-path",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśapadī",
+     "gloss": "ten-footed",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "coktā",
+     "gloss": "is-said",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svatantrā",
+     "gloss": "independent",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nyasyate",
+     "gloss": "is-placed",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is the foot-path placement independent?",
+   "premises": [
+    "placement of foot-path is in three methods",
+    "ten-footed is said before",
+    "it is placed independently when"
+   ],
+   "inference": "The foot-path placement is independent when the ten-footed is said before in the three methods.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Then in the three methods from aparā, the placement of the foot-path is said as ten-footed before; it is placed independently when."
+  }
+ ]
+}

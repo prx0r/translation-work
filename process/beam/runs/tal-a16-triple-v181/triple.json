@@ -1,0 +1,725 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "sadya+utkrāntitastraidhaṃ",
+     "gloss": "immediately-departed-threefold",
+     "grounds": "compound token",
+     "morph": "compound"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāsannamṛtau",
+     "gloss": "near-death",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāryetyājñā",
+     "gloss": "duty-thus-command",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "maheśasya",
+     "gloss": "of-mahesha",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śrīmadgahvarabhāṣitā",
+     "gloss": "spoken-in-glorious-cave",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What command is spoken by Mahesha in the glorious cave?",
+   "premises": [
+    "Mahesha speaks a command",
+    "The command concerns guru duty",
+    "The guru is near death"
+   ],
+   "inference": "The verse presents a divine command about guru duty near death.",
+   "uncertainties": [
+    "Exact sandhi and compound boundaries are uncertain"
+   ],
+   "plain_english": "Mahesha speaks a command in the glorious cave concerning the guru's duty when death is near."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jarāgrastaṃ",
+     "gloss": "old-age-afflicted",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyādhinā",
+     "gloss": "by-disease",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paripīḍitam",
+     "gloss": "greatly-afflicted",
+     "grounds": "participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "utkramayya",
+     "gloss": "having-transferred",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tatastvenaṃ",
+     "gloss": "then-him",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paratattve",
+     "gloss": "into-supreme-principle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "should-place",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should a guru treat an aged and diseased disciple?",
+   "premises": [
+    "The disciple is aged and diseased",
+    "The guru transfers him",
+    "He is placed in supreme principle"
+   ],
+   "inference": "The guru should transfer the afflicted disciple into the supreme principle.",
+   "uncertainties": [
+    "Exact sense of utkramayya is uncertain"
+   ],
+   "plain_english": "Seeing a disciple afflicted by old age and disease, the guru should transfer him and place him in the supreme principle."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "pañcatriṃśadamī",
+     "gloss": "thirty-five",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhedā",
+     "gloss": "distinctions",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gurorvā",
+     "gloss": "of-guru-or",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "guruśiṣyayoḥ",
+     "gloss": "of-guru-and-disciple",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "uktadvaividhyakalanātsaptatiḥ",
+     "gloss": "from-stated-twofold-calculation-seventy",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "participle"
+    }
+   ],
+   "question": "How many distinctions are declared for guru and disciple?",
+   "premises": [
+    "Thirty-five distinctions are stated",
+    "Seventy arise from twofold calculation",
+    "They are declared"
+   ],
+   "inference": "The verse declares thirty-five and seventy distinctions arising from twofold calculation.",
+   "uncertainties": [
+    "Exact relation of the two numbers is uncertain"
+   ],
+   "plain_english": "Thirty-five distinctions of the guru, or of guru and disciple, are declared; seventy arise from the stated twofold calculation."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "etairbhedaiḥ",
+     "gloss": "by-these-distinctions",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "puroktāṃstānbhedāndīkṣāgatānguruḥ",
+     "gloss": "previously-stated-initiation-distinctions-guru",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hatvā",
+     "gloss": "having-destroyed",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "vadetprasaṃkhyānaṃ",
+     "gloss": "should-speak-enumeration",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svabhyastajñānasiddhaye",
+     "gloss": "for-attainment-of-practiced-knowledge",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why does the guru destroy previously stated distinctions?",
+   "premises": [
+    "The guru destroys stated distinctions",
+    "He speaks enumeration",
+    "It serves practiced knowledge"
+   ],
+   "inference": "The guru destroys the stated distinctions and speaks enumeration for attainment of practiced knowledge.",
+   "uncertainties": [
+    "Exact object of hatvā is uncertain"
+   ],
+   "plain_english": "Having destroyed those previously stated initiation distinctions, the guru speaks enumeration for attainment of practiced knowledge."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "pañcāśītiśatī",
+     "gloss": "one-hundred-eighty-five",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catvāriṃśatsamuttarā",
+     "gloss": "forty-more",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "stated",
+     "grounds": "participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saptatyā",
+     "gloss": "by-seventy",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhittvā",
+     "gloss": "having-divided",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dīkṣābhedānsvayaṃ",
+     "gloss": "initiation-distinctions-oneself",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalayet",
+     "gloss": "should-calculate",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should one calculate initiation distinctions from the stated number?",
+   "premises": [
+    "A number is stated",
+    "It is divided by seventy",
+    "One calculates initiation distinctions"
+   ],
+   "inference": "One should divide the stated number by seventy and calculate initiation distinctions.",
+   "uncertainties": [
+    "Exact arithmetic value is uncertain"
+   ],
+   "plain_english": "The stated number, increased by forty, should be divided by seventy, and one should calculate initiation distinctions."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "pañcakamiha",
+     "gloss": "five-here",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣāṇāṃ",
+     "gloss": "of-lakhs",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saptanavatiḥ",
+     "gloss": "ninety-seven",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sahasraparisaṃkhyā",
+     "gloss": "thousand-count",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śatāni",
+     "gloss": "hundreds",
+     "grounds": "nominative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dīkṣābhedo@yaṃ",
+     "gloss": "initiation-distinction-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mālinītantre",
+     "gloss": "in-malini-tantra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What initiation distinction count is given in the Malini Tantra?",
+   "premises": [
+    "A large count is given",
+    "It includes lakhs and thousands",
+    "It is in Malini Tantra"
+   ],
+   "inference": "The verse gives a large initiation distinction count in the Malini Tantra.",
+   "uncertainties": [
+    "Exact total is uncertain"
+   ],
+   "plain_english": "Here five lakhs, ninety-seven thousand, and eight hundred initiation distinctions are given in the Malini Tantra."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "saptatidhā",
+     "gloss": "seventy-fold",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śoddhṛgaṇastriṃśaddhā",
+     "gloss": "purifying-group-thirty-fold",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śodhya",
+     "gloss": "to-be-purified",
+     "grounds": "gerundive",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "ekatattvādiḥ",
+     "gloss": "one-principle-beginning",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sāṇḍaḥ",
+     "gloss": "with-attendants",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍadhvarūpastathetikartavyatā",
+     "gloss": "six-rite-form-thus-duty",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "caturbhedā",
+     "gloss": "four-distinctions",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What four distinctions are mentioned with rites and duties?",
+   "premises": [
+    "Seventy-fold and thirty-fold groups are mentioned",
+    "Purification and principles are mentioned",
+    "Four distinctions are stated"
+   ],
+   "inference": "The verse states four distinctions connected with purification, principles, attendants, rites, and duties.",
+   "uncertainties": [
+    "Exact grouping is uncertain"
+   ],
+   "plain_english": "Seventy-fold and thirty-fold groups, purification, one principle and beyond, attendants, six rites, and duties yield four distinctions."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "dravyajñānamayī",
+     "gloss": "substance-knowledge-composed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jananādivivarjitātha",
+     "gloss": "free-from-birth-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadyuktā",
+     "gloss": "endowed-with-that",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañcatriṃśaddhā",
+     "gloss": "thirty-five-fold",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punareṣā",
+     "gloss": "again-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhogāpavargasandhānāt",
+     "gloss": "from-union-of-enjoyment-and-liberation",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is the knowledge composed of substance thirty-five-fold?",
+   "premises": [
+    "It is free from birth",
+    "It is endowed with that",
+    "It arises from union of enjoyment and liberation"
+   ],
+   "inference": "The substance-knowledge is thirty-five-fold because it is free from birth and arises from union of enjoyment and liberation.",
+   "uncertainties": [
+    "Exact referent of tadyuktā is uncertain"
+   ],
+   "plain_english": "That knowledge composed of substance, free from birth and endowed with that, is thirty-five-fold from the union of enjoyment and liberation."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "yasmāddvātriṃśaddhā",
+     "gloss": "because-thirty-two-fold",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhogaḥ",
+     "gloss": "enjoyment",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śubhaśuddhyaśuddhikālabhidā",
+     "gloss": "auspicious-pure-impure-time-distinction",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mokṣastredhā",
+     "gloss": "liberation-threefold",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviguṇā",
+     "gloss": "twofold",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saptatiritikāryatābhedāḥ",
+     "gloss": "seventy-thus-duty-distinctions",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are enjoyment and liberation distinguished?",
+   "premises": [
+    "Enjoyment is thirty-two-fold",
+    "Liberation is threefold",
+    "Duty distinctions are seventy"
+   ],
+   "inference": "Enjoyment and liberation are distinguished by thirty-two and threefold forms, with seventy duty distinctions.",
+   "uncertainties": [
+    "Exact relation of dviguṇā is uncertain"
+   ],
+   "plain_english": "Enjoyment is thirty-two-fold by auspicious, pure, impure, and time distinctions; liberation is threefold; duty distinctions are seventy."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "śodhanaśodhyavibhedāditikartavyatvabhedataścaiṣā",
+     "gloss": "from-purifier-purified-distinction-duty-distinction-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "many-fold",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhinnā",
+     "gloss": "divided",
+     "grounds": "participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "śodhyavihīnā",
+     "gloss": "without-purified",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saptatidhā",
+     "gloss": "seventy-fold",
+     "grounds": "numeral",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is initiation divided in many ways?",
+   "premises": [
+    "Initiation is divided many ways",
+    "It is divided by purifier and purified",
+    "Without purified it is seventy-fold"
+   ],
+   "inference": "Initiation is divided many ways by purifier and purified distinctions, but without the purified it is seventy-fold.",
+   "uncertainties": [
+    "Exact compound segmentation is uncertain"
+   ],
+   "plain_english": "Initiation is divided in many ways by distinctions of purifier and purified; without the purified, it is seventy-fold."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sakaletarasāṅganiraṅgādibhedasaṃkalanāt",
+     "gloss": "from-collection-of-mantra-limb-distinctions",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śyodhyasya",
+     "gloss": "of-purified",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattvādeḥ",
+     "gloss": "of-principle-beginning",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pañcadaśādyuktabhedaparigaṇanāt",
+     "gloss": "from-enumeration-of-fifteen-distinctions",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What causes the enumeration of mantra and purified distinctions?",
+   "premises": [
+    "Mantra distinctions are collected",
+    "Purified and principle distinctions are included",
+    "Fifteen distinctions are enumerated"
+   ],
+   "inference": "The enumeration arises from collecting mantra distinctions and enumerating fifteen distinctions of the purified and principles.",
+   "uncertainties": [
+    "Exact meaning of śyodhyasya is uncertain"
+   ],
+   "plain_english": "From collecting mantra limb distinctions and enumerating fifteen distinctions of the purified and principles, the count arises."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "bhedānāṃ",
+     "gloss": "of-distinctions",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "parigaṇanā",
+     "gloss": "enumeration",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śakyate",
+     "gloss": "can-be-done",
+     "grounds": "verb",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "kartumityasaṃkīrṇāḥ",
+     "gloss": "to-do-unmixed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedāḥ",
+     "gloss": "distinctions",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saṃkīrṇāḥ",
+     "gloss": "mixed",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "punaranye",
+     "gloss": "again-others",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūyastvakāriṇo",
+     "gloss": "more-doing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "many-fold",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why can distinctions not be fully enumerated?",
+   "premises": [
+    "Enumeration cannot be done",
+    "Unmixed distinctions exist",
+    "Mixed distinctions are many-fold"
+   ],
+   "inference": "Distinctions cannot be fully enumerated because mixed and unmixed distinctions are many-fold.",
+   "uncertainties": [
+    "Exact scope of bhūyastvakāriṇo is uncertain"
+   ],
+   "plain_english": "The distinctions cannot be fully enumerated; unmixed distinctions exist, while mixed ones are many-fold."
+  }
+ ]
+}

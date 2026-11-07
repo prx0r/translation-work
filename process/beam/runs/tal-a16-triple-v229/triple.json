@@ -1,0 +1,767 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "aṅgulamāne",
+     "gloss": "finger-measure",
+     "grounds": "locative measure",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "of-goddess",
+     "grounds": "genitive relation",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "aṣṭādaśa",
+     "gloss": "eighteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaibhavena",
+     "gloss": "by-glory",
+     "grounds": "instrumental cause",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "padamanyat",
+     "gloss": "another-foot",
+     "grounds": "compound member",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mānamidaṃ",
+     "gloss": "this-measure",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verbal predicate",
+     "morph": "3.sg.act-opt (as)"
+    },
+    {
+     "surface": "kevalaśodhakamanunyāse",
+     "gloss": "in-pure-purifying-mantra-placement",
+     "grounds": "locative context",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What measure arises in pure purifying mantra placement?",
+   "premises": [
+    "goddess glory gives eighteen fingers",
+    "another foot is other measure",
+    "placement context determines measure"
+   ],
+   "inference": "The verse states a distinct measure for pure purifying mantra placement.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In the placement of the pure purifying mantra, by the goddess's glory, eighteen fingers measure one foot, while another foot has another measure."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "turyapadātpadaṣaṭke",
+     "gloss": "from-fourth-foot-in-six-foot",
+     "grounds": "ablative and locative",
+     "morph": "abl.sg.m+loc.sg.m"
+    },
+    {
+     "surface": "mānadvitayaṃ",
+     "gloss": "two-measures",
+     "grounds": "dual measure",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "parāparaparākhyam",
+     "gloss": "called-supreme-and-inferior",
+     "grounds": "compound epithet",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dvādaśakaṃ",
+     "gloss": "twelve",
+     "grounds": "numeral",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dvādaśakaṃ",
+     "gloss": "twelve",
+     "grounds": "numeral",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tattvopari",
+     "gloss": "above-principles",
+     "grounds": "locative adverb",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pūrvavattvanyat",
+     "gloss": "other-as-before",
+     "grounds": "comparative",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What two measures are named supreme and inferior?",
+   "premises": [
+    "from fourth foot in six-foot context",
+    "two measures are twelve and twelve",
+    "other measure is as before"
+   ],
+   "inference": "The verse distinguishes supreme and inferior measures above the principles.",
+   "uncertainties": [
+    "ablative-locative compound parsing"
+   ],
+   "plain_english": "From the fourth foot in the six-foot context, two measures called supreme and inferior are twelve and twelve, with another as before above the principles."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "kevalaśodhakamantranyāsābhiprāyato",
+     "gloss": "according-to-intent-of-pure-purifying-mantra-placement",
+     "grounds": "ablative intent",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "mahādevaḥ",
+     "gloss": "great-god",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tattvakramoditamapi",
+     "gloss": "even-principle-order-declared",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "placement",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "punarāha",
+     "gloss": "again-says",
+     "grounds": "verbal predicate",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "tadviruddhamapi",
+     "gloss": "even-opposite-to-that",
+     "grounds": "accusative modifier",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Why does the great god again declare an opposite placement?",
+   "premises": [
+    "intent of pure purifying mantra placement",
+    "great god speaks again",
+    "declared placement is opposite"
+   ],
+   "inference": "The verse says the great god declares an opposite placement despite the stated intent.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "According to the intent of pure purifying mantra placement, the great god again declares a placement opposite to that principle-order placement."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "niṣkale",
+     "gloss": "in-partless",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "padamekārṇaṃ",
+     "gloss": "foot-one-syllable",
+     "grounds": "compound subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yāvattrīṇi",
+     "gloss": "up-to-three",
+     "grounds": "numeral limit",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārthive",
+     "gloss": "in-earthly",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ityādinā",
+     "gloss": "by-such-etc",
+     "grounds": "instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "tattvagatakramanyāsa",
+     "gloss": "principle-gone-order-placement",
+     "grounds": "compound subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "udīritaḥ",
+     "gloss": "declared",
+     "grounds": "participle predicate",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How is the partless foot declared in the earthly context?",
+   "premises": [
+    "partless foot is one syllable",
+    "up to three in earthly context",
+    "placement is declared by such etc"
+   ],
+   "inference": "The verse declares the principle-gone order placement for the partless foot.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In the partless, the foot is one syllable up to three in the earthly context; by such and so on, the principle-gone order placement is declared."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "punaśca",
+     "gloss": "and-again",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālinītantre",
+     "gloss": "in-mālinī-tantra",
+     "grounds": "locative text",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vargavidyāvibhedataḥ",
+     "gloss": "from-class-knowledge-distinction",
+     "grounds": "ablative cause",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "in-two-ways",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padānītyuktvākhyannyāsamanyādṛśaṃ",
+     "gloss": "having-said-feet-thus-named-placement-other-kind",
+     "grounds": "compound participle",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "lord",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How does the lord describe another placement in the mālinī tantra?",
+   "premises": [
+    "again in mālinī tantra",
+    "from class-knowledge distinction",
+    "feet are said in two ways"
+   ],
+   "inference": "The verse says the lord describes another kind of named placement.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Again in the Mālinī Tantra, from the distinction of class and knowledge, the lord says the feet are in two ways and describes another kind of named placement."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "ekaikaṃ",
+     "gloss": "each-one",
+     "grounds": "distributive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dvyaṅgulaṃ",
+     "gloss": "two-fingers",
+     "grounds": "measure",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "padatrayam",
+     "gloss": "three-feet",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "aṣṭāṅgulāni",
+     "gloss": "eight-fingers",
+     "grounds": "measure",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "daśāṅgulamataḥ",
+     "gloss": "ten-fingers-thence",
+     "grounds": "measure",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What finger measures are known for the first three feet?",
+   "premises": [
+    "each is two fingers",
+    "first three feet are eight fingers",
+    "four and ten fingers beyond"
+   ],
+   "inference": "The verse gives finger measures for the first three feet and beyond.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Each is to be known as two fingers; there the first three feet are eight fingers, four, ten fingers thence beyond."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "dvyaṅgule",
+     "gloss": "in-two-fingers",
+     "grounds": "locative measure",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "pade",
+     "gloss": "feet",
+     "grounds": "noun",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "cānye",
+     "gloss": "and-other",
+     "grounds": "conjunction adjective",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "ṣaḍaṅgulamataḥ",
+     "gloss": "six-fingers-thence",
+     "grounds": "measure",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśāṅgulamanyacca",
+     "gloss": "and-twelve-fingers-other",
+     "grounds": "measure",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dve@nye",
+     "gloss": "two-other",
+     "grounds": "numeral adjective",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "pañcāṅgule",
+     "gloss": "in-five-fingers",
+     "grounds": "locative measure",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separate",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measures apply to the other two feet?",
+   "premises": [
+    "in two fingers two feet",
+    "other six fingers beyond",
+    "twelve fingers other and two in five fingers separate"
+   ],
+   "inference": "The verse assigns separate finger measures to other feet.",
+   "uncertainties": [
+    "token dve@nye punctuation"
+   ],
+   "plain_english": "In two fingers there are two feet and other; six fingers thence beyond; and twelve fingers other, two in five fingers separate."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "padadvayaṃ",
+     "gloss": "two-feet",
+     "grounds": "compound subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "catuṣparva",
+     "gloss": "four-jointed",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tathānye",
+     "gloss": "and-other",
+     "grounds": "conjunction adjective",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "dviparvaṇī",
+     "gloss": "two-jointed",
+     "grounds": "adjective",
+     "morph": "nom.du.n"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāparādevyāḥ",
+     "gloss": "of-supreme-inferior-goddess",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "svatantro",
+     "gloss": "independent",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nyāsa",
+     "gloss": "placement",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verbal predicate",
+     "morph": "3.sg.pass"
+    }
+   ],
+   "question": "How is the independent placement of the supreme-inferior goddess described?",
+   "premises": [
+    "two feet four-jointed",
+    "other two two-jointed",
+    "thus independent placement is called"
+   ],
+   "inference": "The verse calls the independent placement of the supreme-inferior goddess thus described.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Two feet are four-jointed, and other two are two-jointed; thus the independent placement of the supreme-inferior goddess is called."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "vidyādvayaṃ",
+     "gloss": "two-knowledges",
+     "grounds": "compound subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śiṣyatanau",
+     "gloss": "in-disciple-body",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vyāptṛtvenaiva",
+     "gloss": "by-pervader-ness-only",
+     "grounds": "instrumental",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "verbal predicate",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśayituṃ",
+     "gloss": "to-show",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "nāsya",
+     "gloss": "not-its",
+     "grounds": "negation genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "pṛthaṅnyāsaṃ",
+     "gloss": "separate-placement",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nyarūpayat",
+     "gloss": "formed",
+     "grounds": "verbal predicate",
+     "morph": "3.sg.act"
+    }
+   ],
+   "question": "Why is no separate placement formed for the two knowledges?",
+   "premises": [
+    "two knowledges joined in disciple body",
+    "by pervader-ness only",
+    "to show this no separate placement"
+   ],
+   "inference": "The verse says no separate placement was formed to show the joining.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "To show that the two knowledges are joined in the disciple's body by pervader-ness only, no separate placement was formed."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhakamantrasya",
+     "gloss": "of-purifying-mantra",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "nyāse",
+     "gloss": "in-placement",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tadraśmiyogataḥ",
+     "gloss": "from-its-ray-union",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "pāśajālaṃ",
+     "gloss": "noose-net",
+     "grounds": "subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vilīyeta",
+     "gloss": "would-dissolve",
+     "grounds": "verbal predicate",
+     "morph": "3.sg.pass-opt"
+    },
+    {
+     "surface": "taddhyānabalato",
+     "gloss": "from-its-meditation-power",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "How does the noose-net dissolve in purifying mantra placement?",
+   "premises": [
+    "thus in purifying mantra placement",
+    "from its ray union",
+    "noose-net would dissolve from meditation power of teacher"
+   ],
+   "inference": "The verse says the noose-net dissolves through ray union and meditation power.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus in the placement of the purifying mantra, from its ray union the noose-net would dissolve, from the meditation power of the teacher."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "śodhyatattve",
+     "gloss": "in-principle-to-be-purified",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "samastānāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "yonīnāṃ",
+     "gloss": "of-sources",
+     "grounds": "genitive",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "tulyakālataḥ",
+     "gloss": "from-same-time",
+     "grounds": "ablative",
+     "morph": "abl.sg.f"
+    },
+    {
+     "surface": "jananādbhogataḥ",
+     "gloss": "from-birth-and-enjoyment",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "karmakṣaye",
+     "gloss": "at-action-destruction",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "syādapavṛktatā",
+     "gloss": "would-be-liberation",
+     "grounds": "verbal predicate",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "When does liberation arise for all sources?",
+   "premises": [
+    "in principle to be purified",
+    "all sources same time",
+    "from birth and enjoyment at action destruction"
+   ],
+   "inference": "The verse says liberation arises when actions are destroyed.",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In the principle to be purified, for all sources at the same time, from birth and enjoyment, at the destruction of action there would be liberation."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "dehaistāvadbhirasyāṇościtraṃ",
+     "gloss": "wonderful-with-so-many-bodies-of-atom",
+     "grounds": "instrumental",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhokturapi",
+     "gloss": "even-of-enjoyer",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clear",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mano@nusandhirno",
+     "gloss": "mind-connection-not",
+     "grounds": "negation",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "viśvasaṃyogapravibhāgavat",
+     "gloss": "having-universe-union-separation",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why is the enjoyer's mind-connection not clear?",
+   "premises": [
+    "wonderful with so many bodies of atom",
+    "even of enjoyer",
+    "mind-connection not having universe union separation"
+   ],
+   "inference": "The verse says the enjoyer's mind-connection is not clear due to many bodies.",
+   "uncertainties": [
+    "token punctuation and compound segmentation"
+   ],
+   "plain_english": "Wonderful with so many bodies of the atom, even for the enjoyer, the mind-connection is not clear, having universe union and separation."
+  }
+ ]
+}

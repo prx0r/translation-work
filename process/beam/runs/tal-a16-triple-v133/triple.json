@@ -1,0 +1,747 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "tayaiva",
+     "gloss": "by-that-very",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-done",
+     "grounds": "token 3",
+     "morph": "3.sg.pass.-kṛ"
+    },
+    {
+     "surface": "cettadeyaṃ",
+     "gloss": "if-this-is-to-be-given",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyāsakalpanā",
+     "gloss": "nyasa-arrangement",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tattvādimukhyatāyogāddīkṣāyāṃ",
+     "gloss": "because-of-primary-tattva-union-in-initiation",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "padāvalī",
+     "gloss": "word-sequence",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is nyasa arranged when initiation is primary?",
+   "premises": [
+    "initiation is done by that very means",
+    "nyasa arrangement is given if needed",
+    "primary tattva union governs initiation"
+   ],
+   "inference": "therefore the word sequence follows the primary tattva order",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Initiation is performed by that very means; if nyasa is to be given, its arrangement follows the primary tattva order in initiation, and the word sequence is set accordingly."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "tattattvādyanusāreṇa",
+     "gloss": "according-to-each-tattva",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatrāntarbhāvyate",
+     "gloss": "is-included-therein",
+     "grounds": "token 2",
+     "morph": "3.sg.pass.-bhū"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svapradhānatvayoge",
+     "gloss": "when-self-predominance-applies",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dīkṣāyāṃ",
+     "gloss": "in-initiation",
+     "grounds": "token 6",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "padapaddhatim",
+     "gloss": "word-procedure",
+     "grounds": "token 7",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the word procedure included in initiation?",
+   "premises": [
+    "each tattva is followed in order",
+    "it is included therein",
+    "self-predominance changes the rule"
+   ],
+   "inference": "therefore the word procedure is adapted to the tattva order and predominance",
+   "uncertainties": [
+    "exact syntactic grouping is uncertain"
+   ],
+   "plain_english": "According to each tattva, the procedure is included therein; when self-predominance applies, the word procedure in initiation is adjusted accordingly."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "nyasyetkrameṇa",
+     "gloss": "should-place-in-order",
+     "grounds": "token 1",
+     "morph": "3.sg.opt.-nyas"
+    },
+    {
+     "surface": "tattvādivadanānavalokinīm",
+     "gloss": "not-looking-at-tattva-etc-speech",
+     "grounds": "token 2",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caturṣvaṣṭāsu",
+     "gloss": "in-four-and-eight",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cāṣṭāsu",
+     "gloss": "and-in-eight",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "daśasvatha",
+     "gloss": "and-in-ten",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "daśasvatha",
+     "gloss": "and-in-ten",
+     "grounds": "token 6",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should nyasa be placed in ordered groups?",
+   "premises": [
+    "placement proceeds in order",
+    "groups are counted as four eight eight ten ten",
+    "the speech is not merely tattva recitation"
+   ],
+   "inference": "therefore nyasa is distributed across the counted groups in sequence",
+   "uncertainties": [
+    "compound parsing is approximate"
+   ],
+   "plain_english": "Nyasa should be placed in order across groups of four, eight, eight, ten, and ten, not merely as tattva recitation."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "daśasvatho",
+     "gloss": "and-in-ten",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañcadaśasvatha",
+     "gloss": "and-in-fifteen",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vedaśarenduṣu",
+     "gloss": "in-veda-moon-groups",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dharāpadānnavapadīṃ",
+     "gloss": "earth-word-and-navapadi",
+     "grounds": "token 4",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mātṛkāmālinīgatām",
+     "gloss": "situated-in-matrika-garland",
+     "grounds": "token 5",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How are earth and navapadi placed in the garland?",
+   "premises": [
+    "groups include ten fifteen veda moon",
+    "earth word and navapadi are named",
+    "they are situated in the matrika garland"
+   ],
+   "inference": "therefore these words are located within the matrika garland groups",
+   "uncertainties": [
+    "exact group totals are unclear"
+   ],
+   "plain_english": "In groups of ten, fifteen, veda, and moon, the earth word and navapadi are situated in the matrika garland."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "yojayedvyāptṛ",
+     "gloss": "should-join-pervader",
+     "grounds": "token 1",
+     "morph": "3.sg.opt.-yuj"
+    },
+    {
+     "surface": "daśamaṃ",
+     "gloss": "tenth",
+     "grounds": "token 2",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "token 3",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śivasaṃjñitam",
+     "gloss": "called-shiva",
+     "grounds": "token 5",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dharāpadaṃ",
+     "gloss": "earth-word",
+     "grounds": "token 6",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varjayitvā",
+     "gloss": "excluding",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "token 8",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "token 9",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "padāni",
+     "gloss": "words",
+     "grounds": "token 10",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 11",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which words are joined and which are excluded?",
+   "premises": [
+    "the pervader joins the tenth word",
+    "that word is called shiva",
+    "the earth word is excluded",
+    "five words are excluded"
+   ],
+   "inference": "therefore the shiva word is joined while earth and five words are left out",
+   "uncertainties": [
+    "referent of five words is unclear"
+   ],
+   "plain_english": "The pervader should join the tenth word, called Shiva, while excluding the earth word and five other words."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "vidhidvayaṃ",
+     "gloss": "two-rules",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syānnikṣipya",
+     "gloss": "there-are-placing",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "token 3",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dvādaśāṅgulān",
+     "gloss": "twelve-finger-lengths",
+     "grounds": "token 4",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mantrādhvano@pyeṣa",
+     "gloss": "of-mantra-path-too-this",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidhirvinyāsayojane",
+     "gloss": "rule-in-placement-joining",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What rule applies when placing twelve finger lengths?",
+   "premises": [
+    "two rules exist",
+    "twelve finger lengths are placed",
+    "the mantra path has the same rule"
+   ],
+   "inference": "therefore placement joining follows the same rule for twelve finger lengths",
+   "uncertainties": [
+    "compound sandhi is approximate"
+   ],
+   "plain_english": "There are two rules; placing twelve finger lengths follows the same rule for the mantra path in placement and joining."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "vyāptimātraṃ",
+     "gloss": "only-pervasion",
+     "grounds": "token 1",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhidyetetyuktaṃ",
+     "gloss": "it-is-said-it-differs",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāgeva",
+     "gloss": "already-before",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattathā",
+     "gloss": "so-thus",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varṇādhvano@tha",
+     "gloss": "then-of-letter-path",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyāsaḥ",
+     "gloss": "placement",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathyate@tra",
+     "gloss": "is-told-here",
+     "grounds": "token 8",
+     "morph": "3.sg.pass.-kath"
+    },
+    {
+     "surface": "vidhitraye",
+     "gloss": "in-three-rules",
+     "grounds": "token 9",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How is letter-path placement told among three rules?",
+   "premises": [
+    "only pervasion differs",
+    "this was stated before",
+    "placement of the letter path is told here"
+   ],
+   "inference": "therefore letter-path placement is explained under the three rules",
+   "uncertainties": [
+    "exact referent of pervasion is unclear"
+   ],
+   "plain_english": "Only pervasion differs, as stated before; thus the placement of the letter path is told here among three rules."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturṣu",
+     "gloss": "in-four",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvayoraṅgulayoḥ",
+     "gloss": "of-two-fingers",
+     "grounds": "token 4",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "trayoviṃśativarṇī",
+     "gloss": "twenty-three-letter",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "token 7",
+     "morph": "3.sg.opt.-as"
+    },
+    {
+     "surface": "ṣaḍvarṇyekaikaśastriṣu",
+     "gloss": "six-letters-one-by-one-in-three",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are letters distributed across fingers and groups?",
+   "premises": [
+    "one is in four",
+    "each has two fingers in order",
+    "twenty-three letters should be",
+    "six letters one by one in three"
+   ],
+   "inference": "therefore letters are distributed across fingers and groups by the stated counts",
+   "uncertainties": [
+    "exact arithmetic grouping is unclear"
+   ],
+   "plain_english": "One in four, each with two fingers in order; twenty-three letters should be, with six letters one by one in three."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "pratyekamatha",
+     "gloss": "then-each",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "catvāraścaturṣviti",
+     "gloss": "four-in-four-thus",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vilomataḥ",
+     "gloss": "in-reverse-order",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mālinīmātṛkārṇāḥ",
+     "gloss": "matrika-garland-letters",
+     "grounds": "token 4",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syurvyāptṛ",
+     "gloss": "should-be-pervader",
+     "grounds": "token 5",
+     "morph": "3.pl.opt.-as"
+    },
+    {
+     "surface": "śaivaṃ",
+     "gloss": "shaiva",
+     "grounds": "token 6",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rasendutaḥ",
+     "gloss": "from-mercury-moon",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How do matrika letters become pervader in reverse order?",
+   "premises": [
+    "then each four in four",
+    "in reverse order",
+    "matrika garland letters should be",
+    "pervader is shaiva from mercury moon"
+   ],
+   "inference": "therefore the matrika letters are arranged in reverse groups and joined to the shaiva pervader",
+   "uncertainties": [
+    "compound parsing is approximate"
+   ],
+   "plain_english": "Then four in four in reverse order; the matrika garland letters should be, and the pervader is the Shaiva one from mercury moon."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "varjayitvādyavarṇaṃ",
+     "gloss": "excluding-first-letter",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattvavatsyādravīnnavīn",
+     "gloss": "tattva-like-should-be-ravi-nine",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "token 4",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "trayoviṃśatau",
+     "gloss": "in-twenty-three",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varṇeṣvapyanyatsyādvidhidvayam",
+     "gloss": "among-letters-too-other-two-rules",
+     "grounds": "token 6",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What happens when the first letter is excluded?",
+   "premises": [
+    "the first letter is excluded",
+    "tattva-like ravi nine should be",
+    "that in twenty-three letters",
+    "other two rules also apply"
+   ],
+   "inference": "therefore excluding the first letter leaves a tattva-like arrangement with two further rules",
+   "uncertainties": [
+    "compound parsing is approximate"
+   ],
+   "plain_english": "Excluding the first letter, a tattva-like ravi-nine arrangement should be; in twenty-three letters, another two rules also apply."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "śrīpūrvaśāstre",
+     "gloss": "in-previous-shri-scripture",
+     "grounds": "token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tenādau",
+     "gloss": "by-that-first",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattveṣūktaṃ",
+     "gloss": "said-in-tattvas",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidhitrayam",
+     "gloss": "three-rules",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atidiṣṭaṃ",
+     "gloss": "extended",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadbhinnābhinnavarṇadvaye",
+     "gloss": "in-two-letters-different-and-same",
+     "grounds": "token 7",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are the three rules extended in two letters?",
+   "premises": [
+    "in previous scripture three rules were said",
+    "they are extended",
+    "in two letters different and same it is equal"
+   ],
+   "inference": "therefore the three rules are extended equally to both different and same letters",
+   "uncertainties": [
+    "exact referent of two letters is unclear"
+   ],
+   "plain_english": "In the previous scripture, three rules were first stated in the tattvas; they are extended, and in two letters, different and same, it is equal."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "dvividho@pi",
+     "gloss": "even-two-fold",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varṇānāṃ",
+     "gloss": "of-letters",
+     "grounds": "token 3",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ṣaḍvidho",
+     "gloss": "six-fold",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bheda",
+     "gloss": "difference",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "token 6",
+     "morph": "3.sg.pass.-vac"
+    },
+    {
+     "surface": "tattvamārgavidhānena",
+     "gloss": "by-tattva-path-rule",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jñātavyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramārthataḥ",
+     "gloss": "in-ultimate-sense",
+     "grounds": "token 9",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the six-fold difference of letters known?",
+   "premises": [
+    "letters are two-fold",
+    "six-fold difference is said",
+    "it is to be known by tattva path rule"
+   ],
+   "inference": "therefore the six-fold difference of letters is known ultimately through the tattva path rule",
+   "uncertainties": [
+    "relation between two-fold and six-fold is unclear"
+   ],
+   "plain_english": "Even though letters are two-fold, a six-fold difference is said; it is to be known ultimately by the tattva path rule."
+  }
+ ]
+}

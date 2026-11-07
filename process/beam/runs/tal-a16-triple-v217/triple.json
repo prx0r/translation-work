@@ -1,0 +1,755 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "trāṇi",
+     "gloss": "three",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dṛgabdhiścandraḥ",
+     "gloss": "eye-moon",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrutiḥ",
+     "gloss": "ear",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaśī",
+     "gloss": "moon",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidhumahaścandrāḥ",
+     "gloss": "moon-great-moons",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekānnaviṃśatau",
+     "gloss": "nineteen",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syādakṣarasaṃkhyā",
+     "gloss": "letter-count",
+     "grounds": "token 8",
+     "morph": "compound"
+    },
+    {
+     "surface": "padeṣviyaṃ",
+     "gloss": "in-padas-this",
+     "grounds": "token 9",
+     "morph": "compound"
+    },
+    {
+     "surface": "devyāḥ",
+     "gloss": "goddess",
+     "grounds": "token 10",
+     "morph": "f.gen.sg"
+    }
+   ],
+   "question": "How many letters are counted in the goddess's padas?",
+   "premises": [
+    "The verse gives numerical counts.",
+    "The counts concern letters in padas.",
+    "The goddess is the referent."
+   ],
+   "inference": "The verse states a letter count for the goddess's padas.",
+   "uncertainties": [
+    "Exact sandhi and compound boundaries are unclear."
+   ],
+   "plain_english": "The verse gives numerical counts of letters in the goddess's padas."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "haldvayayutavasucitraguparisaṃkhyātasvavarṇāyāḥ",
+     "gloss": "self-letter-counted",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūlāntaṃ",
+     "gloss": "root-end",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "sārdhavarṇaṃ",
+     "gloss": "half-letter",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "syānmāyāntaṃ",
+     "gloss": "maya-end",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇamekakam",
+     "gloss": "one-letter",
+     "grounds": "token 5",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the root-end letter count determined?",
+   "premises": [
+    "The verse describes letter counts.",
+    "It mentions root and maya ends.",
+    "It specifies one letter."
+   ],
+   "inference": "The verse defines a letter count ending at root and maya.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "The verse defines letter counts ending at root and maya."
+  },
+  {
+   "verse": 219,
+   "rows": [
+    {
+     "surface": "śaktyantamekamaparānyāse",
+     "gloss": "shakti-end-one-other-placement",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhirudīritaḥ",
+     "gloss": "rule-stated",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "māyāntaṃ",
+     "gloss": "maya-end",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "haltataḥ",
+     "gloss": "from-consonant",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktiparyante",
+     "gloss": "to-shakti-end",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "svara",
+     "gloss": "vowel",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "token 7",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is called a vowel in this placement?",
+   "premises": [
+    "The verse states a rule.",
+    "It mentions shakti end and maya end.",
+    "It calls a vowel."
+   ],
+   "inference": "The verse identifies a vowel in the described placement.",
+   "uncertainties": [
+    "Exact grammatical parsing is uncertain."
+   ],
+   "plain_english": "The verse states a rule and calls a vowel in the described placement."
+  },
+  {
+   "verse": 220,
+   "rows": [
+    {
+     "surface": "niṣkale",
+     "gloss": "without-parts",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śivatattve",
+     "gloss": "shiva-principle",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paro",
+     "gloss": "supreme",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paroditaḥ",
+     "gloss": "supreme-stated",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "parāparāpadānyeva",
+     "gloss": "supreme-nonsupreme-padas-indeed",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "hyaghoryādyaṣṭakadvaye",
+     "gloss": "in-aghori-eight-pair",
+     "grounds": "token 8",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where is the supreme placement stated?",
+   "premises": [
+    "The verse mentions shiva principle.",
+    "It mentions supreme placement.",
+    "It mentions padas in aghori set."
+   ],
+   "inference": "The verse locates supreme placement in the shiva principle context.",
+   "uncertainties": [
+    "Compound boundaries are uncertain."
+   ],
+   "plain_english": "The verse describes supreme placement in the shiva principle context."
+  },
+  {
+   "verse": 221,
+   "rows": [
+    {
+     "surface": "mantrāstadanusāreṇa",
+     "gloss": "mantras-by-that-accord",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "tattveṣvetaddvayaṃ",
+     "gloss": "in-principles-this-pair",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-place",
+     "grounds": "token 3",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "piṇḍākṣarāṇāṃ",
+     "gloss": "of-cluster-letters",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "token 5",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "varṇasaṃkhyā",
+     "gloss": "letter-count",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhedataḥ",
+     "gloss": "by-difference",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should mantras be placed in principles?",
+   "premises": [
+    "The verse mentions mantras.",
+    "It says to place a pair.",
+    "It mentions letter counts."
+   ],
+   "inference": "The verse instructs placing mantras according to letter counts.",
+   "uncertainties": [
+    "Exact syntactic relation is uncertain."
+   ],
+   "plain_english": "The verse instructs placing mantras in principles according to letter counts."
+  },
+  {
+   "verse": 222,
+   "rows": [
+    {
+     "surface": "avyaktāntaṃ",
+     "gloss": "unmanifest-end",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "svare",
+     "gloss": "in-vowel",
+     "grounds": "token 2",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyasyā",
+     "gloss": "placing",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śeṣeṣu",
+     "gloss": "in-remainders",
+     "grounds": "token 5",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "token 6",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seeds",
+     "grounds": "token 7",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvatattveṣu",
+     "gloss": "in-all-principles",
+     "grounds": "token 8",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyāptṛtvena",
+     "gloss": "as-pervader",
+     "grounds": "token 9",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "token 10",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should remainders and seeds be arranged?",
+   "premises": [
+    "The verse mentions placing in vowel.",
+    "It mentions remainders and seeds.",
+    "It mentions all principles."
+   ],
+   "inference": "The verse arranges remainders and seeds across principles.",
+   "uncertainties": [
+    "Participial parsing is uncertain."
+   ],
+   "plain_english": "The verse arranges remainders and seeds across all principles."
+  },
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "piṇḍānāṃ",
+     "gloss": "of-clusters",
+     "grounds": "token 1",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bījavannyāsamanye",
+     "gloss": "seed-like-placement-others",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pratipedire",
+     "gloss": "they-accepted",
+     "grounds": "token 4",
+     "morph": "3.pl.mid.perf"
+    },
+    {
+     "surface": "akṛte",
+     "gloss": "unmade",
+     "grounds": "token 5",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-then",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śodhyasya",
+     "gloss": "of-purifiable",
+     "grounds": "token 7",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nyāse",
+     "gloss": "in-placement",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vastubalāt",
+     "gloss": "by-substance-strength",
+     "grounds": "token 9",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthiteḥ",
+     "gloss": "of-standing",
+     "grounds": "token 10",
+     "morph": "f.gen.sg"
+    }
+   ],
+   "question": "What did others accept about cluster placement?",
+   "premises": [
+    "The verse mentions clusters.",
+    "It mentions seed-like placement.",
+    "It mentions purifiable placement."
+   ],
+   "inference": "The verse records acceptance of seed-like placement for clusters.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "The verse records that others accepted seed-like placement for clusters."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "śodhakanyāsamātreṇa",
+     "gloss": "by-purifying-placement-alone",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "token 2",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śodhyaṃ",
+     "gloss": "purifiable",
+     "grounds": "token 3",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viśudhyati",
+     "gloss": "becomes-pure",
+     "grounds": "token 4",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "śrīmanmṛtyuñjayādau",
+     "gloss": "in-shri-mrityunjaya-etc",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "was-told",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parameṣṭhinā",
+     "gloss": "by-supreme-lord",
+     "grounds": "token 8",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How does all purifiable become pure?",
+   "premises": [
+    "The verse mentions purifying placement.",
+    "It says all purifiable becomes pure.",
+    "It cites supreme lord."
+   ],
+   "inference": "The verse says purifying placement purifies all purifiable.",
+   "uncertainties": [
+    "Exact scope of cited texts is uncertain."
+   ],
+   "plain_english": "The verse says purifying placement purifies all purifiable."
+  },
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyāsamātreṇa",
+     "gloss": "by-placement-alone",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūtaśuddhiḥ",
+     "gloss": "element-purification",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "token 4",
+     "morph": "3.sg.mid.pres"
+    },
+    {
+     "surface": "dehaśuddhyarthamapyetattulyametena",
+     "gloss": "for-body-purification-also-this-equal",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "vastutaḥ",
+     "gloss": "in-reality",
+     "grounds": "token 6",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What arises by placement alone now?",
+   "premises": [
+    "The verse says now.",
+    "It mentions placement alone.",
+    "It mentions element purification."
+   ],
+   "inference": "The verse says element purification arises by placement alone.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "The verse says element purification arises by placement alone."
+  },
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "anyaprakaraṇoktaṃ",
+     "gloss": "stated-in-other-section",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadyuktaṃ",
+     "gloss": "if-stated",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakaraṇāntare",
+     "gloss": "in-another-section",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñāpakatvena",
+     "gloss": "as-indicator",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "sākṣādvā",
+     "gloss": "or-directly",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatkiṃ",
+     "gloss": "why-that",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "nānyatra",
+     "gloss": "not-elsewhere",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gṛhyate",
+     "gloss": "is-taken",
+     "grounds": "token 8",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "Why is a stated thing not taken elsewhere?",
+   "premises": [
+    "The verse asks why.",
+    "It mentions other sections.",
+    "It mentions indicator or direct."
+   ],
+   "inference": "The verse questions taking a stated thing elsewhere.",
+   "uncertainties": [
+    "Interrogative force is uncertain."
+   ],
+   "plain_english": "The verse questions why a stated thing is not taken elsewhere."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "mālinīmātṛkāṅgasya",
+     "gloss": "of-malini-matrika-limb",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "nyāso",
+     "gloss": "placement",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yo@rcāvidhau",
+     "gloss": "which-in-worship-rite",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "was-declared",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kevalasaṃśoddhṛmantranyāse",
+     "gloss": "in-pure-purifying-mantra-placement",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 9",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What placement was formerly declared?",
+   "premises": [
+    "The verse mentions malini matrika limb.",
+    "It mentions placement in worship rite.",
+    "It says formerly declared."
+   ],
+   "inference": "The verse identifies a formerly declared placement.",
+   "uncertainties": [
+    "Compound segmentation is uncertain."
+   ],
+   "plain_english": "The verse identifies a formerly declared placement."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "tripadī",
+     "gloss": "three-footed",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvayordvayoḥ",
+     "gloss": "of-two-and-two",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "syātpratyekamathāṣṭasu",
+     "gloss": "would-be-each-then-eight",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrutipadāni",
+     "gloss": "ear-padas",
+     "grounds": "token 4",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dikcandracandrarasaraviśaraśaradṛgdṛṅmṛgāṅkaśaśigaṇane",
+     "gloss": "in-count-of-directions-moons-etc",
+     "grounds": "token 5",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many ear-padas occur in the count?",
+   "premises": [
+    "The verse mentions three-footed.",
+    "It mentions two and two.",
+    "It mentions ear padas."
+   ],
+   "inference": "The verse gives a count involving ear padas.",
+   "uncertainties": [
+    "Long compound segmentation is uncertain."
+   ],
+   "plain_english": "The verse gives a count involving ear padas."
+  }
+ ]
+}

@@ -1,0 +1,702 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "anāmasaṃhṛtisthairyasṛṣṭicakraṃ",
+     "gloss": "unnameable-withdrawal-stability-creation-wheel",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "adjective token",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "devatābhirnijābhistanmātṛsadbhāvavṛṃhitam",
+     "gloss": "by-goddesses-own-by-that-mother-existence-augmented",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the fourfold wheel augmented by goddesses?",
+   "premises": [
+    "wheel has four kinds",
+    "goddesses augment mother-existence",
+    "creation and stability are included"
+   ],
+   "inference": "the fourfold wheel is augmented by own goddesses",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "The fourfold wheel of unnameable withdrawal, stability, and creation is augmented by the goddesses' own mother-existence."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhakavargo@yaṃ",
+     "gloss": "purifier-group-this",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "noun token",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "saptatiḥ",
+     "gloss": "seventy",
+     "grounds": "numeral token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "participle token",
+     "morph": "v.3.sg.pass-past + smṛ"
+    },
+    {
+     "surface": "ṣaḍardhaśāstreṣu",
+     "gloss": "in-six-half-treatises",
+     "grounds": "compound token",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "śrīmatsāraśāstre",
+     "gloss": "in-glorious-sara-treatise",
+     "grounds": "compound token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-taught",
+     "grounds": "verb token",
+     "morph": "v.3.sg.pass-pres + kath"
+    }
+   ],
+   "question": "Where are seventy purifying mantras remembered?",
+   "premises": [
+    "seventy mantras are remembered",
+    "six half-treatises are mentioned",
+    "glorious sara treatise is mentioned"
+   ],
+   "inference": "seventy purifying mantras are taught in those treatises",
+   "uncertainties": [
+    "sandhi restoration approximate"
+   ],
+   "plain_english": "Thus seventy mantras are remembered; in six half-treatises and in the glorious sara treatise it is taught."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "aghorādyaṣṭakeneha",
+     "gloss": "by-eight-beginning-with-aghora-here",
+     "grounds": "compound token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śodhanīyaṃ",
+     "gloss": "to-be-purified",
+     "grounds": "gerundive token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vipaścitā",
+     "gloss": "by-the-wise",
+     "grounds": "noun token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "athavaikākṣarāmantrairathavā",
+     "gloss": "or-by-one-syllable-mantras-or",
+     "grounds": "compound token",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mātṛkākramāt",
+     "gloss": "from-mother-sequence",
+     "grounds": "compound token",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "By what means is purification performed here?",
+   "premises": [
+    "eight beginning with aghora purifies",
+    "wise person performs purification",
+    "one-syllable mantras are alternative",
+    "mother sequence is alternative"
+   ],
+   "inference": "purification may be done by several listed means",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Here the wise purify by eight beginning with aghora, or by one-syllable mantras, or by the mother sequence."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "bhairavīyahṛdā",
+     "gloss": "by-bhairavi-heart",
+     "grounds": "compound token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "particle token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khecarīhṛdayena",
+     "gloss": "by-khechari-heart",
+     "grounds": "compound token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairaveṇa",
+     "gloss": "by-bhairava",
+     "grounds": "noun token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "great-goddess",
+     "grounds": "vocative token",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "tvatha",
+     "gloss": "then",
+     "grounds": "particle token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktrāṅgapañcakaiḥ",
+     "gloss": "by-five-face-limb-groups",
+     "grounds": "compound token",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What alternatives purify besides the listed mantras?",
+   "premises": [
+    "bhairavi heart is alternative",
+    "khechari heart is alternative",
+    "bhairava is alternative",
+    "five face-limb groups are alternative"
+   ],
+   "inference": "several heart and limb methods may purify",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Or by the bhairavi heart, or by the khechari heart, or by bhairava, O great goddess; then by the five face-limb groups."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun token",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun token",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "noun token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tantre@sminnudbhavaḥ",
+     "gloss": "in-this-tantra-creation",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "made",
+     "grounds": "participle token",
+     "morph": "v.3.sg.pass-past + kṛ"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-alone",
+     "grounds": "pronoun token",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "dīkṣayenmantrī",
+     "gloss": "the-mantra-knower-should-initiate",
+     "grounds": "compound token",
+     "morph": "v.3.sg.opt + dīkṣ"
+    },
+    {
+     "surface": "ityājñā",
+     "gloss": "thus-command",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pārameśvarī",
+     "gloss": "supreme-lordly",
+     "grounds": "adjective token",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "By which mantra should initiation be performed?",
+   "premises": [
+    "creation in tantra is made by a mantra",
+    "initiation should use that same mantra",
+    "command is supreme-lordly"
+   ],
+   "inference": "initiation must use the mantra by which creation was made",
+   "uncertainties": [
+    "sandhi restoration approximate"
+   ],
+   "plain_english": "By whichever mantra creation in this tantra is made, by that alone the mantra-knower should initiate; thus is the supreme command."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhakabhedena",
+     "gloss": "by-purifier-difference",
+     "grounds": "compound token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saptatiḥ",
+     "gloss": "seventy",
+     "grounds": "numeral token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "declared",
+     "grounds": "participle token",
+     "morph": "v.3.sg.pass-past + kīrt"
+    },
+    {
+     "surface": "bhidaḥ",
+     "gloss": "kinds",
+     "grounds": "noun token",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śodhyanyāsaṃ",
+     "gloss": "purifiable-nyasa",
+     "grounds": "compound token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrairetairdīkṣā",
+     "gloss": "with-these-mantras-initiation",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "occurs",
+     "grounds": "verb token",
+     "morph": "v.3.sg.opt + bhū"
+    }
+   ],
+   "question": "When does initiation occur without purifying nyasa?",
+   "premises": [
+    "seventy kinds are declared",
+    "purifier difference is used",
+    "initiation with these mantras occurs",
+    "purifying nyasa is absent"
+   ],
+   "inference": "initiation can occur without purifying nyasa under those conditions",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus seventy kinds are declared by purifier difference; when initiation with these mantras occurs without purifying nyasa."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptatidhā",
+     "gloss": "seventyfold",
+     "grounds": "adverb token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive token",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "jananādivivarjitā",
+     "gloss": "devoid-of-birth-etc",
+     "grounds": "compound token",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śodhyabhedo@tha",
+     "gloss": "purifiable-difference-then",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaktavyaḥ",
+     "gloss": "to-be-stated",
+     "grounds": "gerundive token",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saṃkṣepātso@pi",
+     "gloss": "in-brief-that-also",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "verb token",
+     "morph": "v.3.sg.pass-pres + kath"
+    }
+   ],
+   "question": "What is known seventyfold and devoid of birth?",
+   "premises": [
+    "seventyfold is to be known",
+    "it is devoid of birth etc",
+    "purifiable difference is to be stated",
+    "it is told in brief"
+   ],
+   "inference": "the purifiable difference is known seventyfold without birth",
+   "uncertainties": [
+    "sandhi restoration approximate"
+   ],
+   "plain_english": "Then it is to be known seventyfold, devoid of birth and so on; the purifiable difference is then to be stated, and that too is told in brief."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "ekatripañcaṣaṭtriṃśadbhedāttāttvaścaturvidhaḥ",
+     "gloss": "from-one-three-five-six-thirty-six-differences-tattva-fourfold",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcaikabhedāccādhvānastathaivāṇḍacatuṣṭayam",
+     "gloss": "from-five-one-differences-path-and-likewise-four-egg-groups",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many tattva and path differences are listed?",
+   "premises": [
+    "tattva is fourfold",
+    "differences include one three five six thirty-six",
+    "path and four egg groups are included"
+   ],
+   "inference": "tattva and path differences are enumerated",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Tattva is fourfold from differences of one, three, five, six, and thirty-six; path and likewise four egg groups are from five and one differences."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśavidhaṃ",
+     "gloss": "tenfold",
+     "grounds": "adjective token",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "śodhyaṃ",
+     "gloss": "purifiable",
+     "grounds": "gerundive token",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "triṃśaddhā",
+     "gloss": "thirtyfold",
+     "grounds": "adverb token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvidhitrayāt",
+     "gloss": "from-threefold-rule-of-that",
+     "grounds": "compound token",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śodhyaśodhakabhedena",
+     "gloss": "by-purifiable-purifier-difference",
+     "grounds": "compound token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śatāni",
+     "gloss": "hundreds",
+     "grounds": "numeral token",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tvekaviṃśatiḥ",
+     "gloss": "and-twenty-one",
+     "grounds": "numeral token",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many purifiable kinds result from these differences?",
+   "premises": [
+    "purifiable is tenfold",
+    "thirtyfold arises from threefold rule",
+    "purifiable-purifier difference yields hundreds and twenty-one"
+   ],
+   "inference": "the total purifiable kinds are enumerated by these differences",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Thus the purifiable is tenfold; thirtyfold from the threefold rule of that; by purifiable-purifier difference, hundreds and twenty-one."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "atrāpi",
+     "gloss": "here-also",
+     "grounds": "adverb token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsayogena",
+     "gloss": "by-nyasa-union",
+     "grounds": "compound token",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śodhye@dhvani",
+     "gloss": "in-purifiable-sound",
+     "grounds": "compound token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathākṛteḥ",
+     "gloss": "and-of-action",
+     "grounds": "compound token",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śataikaviṃśatibhidā",
+     "gloss": "one-hundred-twenty-one-kinds",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jananādyujjhitā",
+     "gloss": "devoid-of-birth-etc",
+     "grounds": "compound token",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb token",
+     "morph": "v.3.sg.opt + bhū"
+    }
+   ],
+   "question": "What becomes one hundred twenty-one kinds here?",
+   "premises": [
+    "nyasa union is used",
+    "purifiable sound and action are included",
+    "one hundred twenty-one kinds arise",
+    "birth etc are omitted"
+   ],
+   "inference": "nyasa union yields one hundred twenty-one kinds without birth",
+   "uncertainties": [
+    "sandhi restoration approximate"
+   ],
+   "plain_english": "Here too, by nyasa union, in purifiable sound and action, one hundred twenty-one kinds, devoid of birth and so on, becomes."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "jananādimayī",
+     "gloss": "consisting-of-birth-etc",
+     "grounds": "compound token",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "tāvatyevaṃ",
+     "gloss": "so-much-thus",
+     "grounds": "adverb token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatadṛśi",
+     "gloss": "in-hundredfold-scripture",
+     "grounds": "compound token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śrutiḥ",
+     "gloss": "scripture",
+     "grounds": "noun token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syātsaptatyadhikā",
+     "gloss": "would-be-seventy-plus",
+     "grounds": "compound token",
+     "morph": "v.3.sg.opt + as"
+    },
+    {
+     "surface": "sāpi",
+     "gloss": "that-also",
+     "grounds": "pronoun token",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "dravyavijñānabhedataḥ",
+     "gloss": "from-substance-knowledge-difference",
+     "grounds": "compound token",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How is scripture described as seventy plus?",
+   "premises": [
+    "birth etc are included",
+    "hundredfold scripture is mentioned",
+    "scripture would be seventy plus",
+    "substance-knowledge difference is included"
+   ],
+   "inference": "scripture is described as seventy plus by substance-knowledge difference",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Consisting of birth and so on, thus in hundredfold scripture, scripture would be seventy plus; that also from substance-knowledge difference."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "dvidheti",
+     "gloss": "twofold-thus",
+     "grounds": "adverb token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśītiḥ",
+     "gloss": "eighty-five",
+     "grounds": "numeral token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syācchatānyadhikakhābdhikā",
+     "gloss": "would-be-hundreds-plus-eleven",
+     "grounds": "compound token",
+     "morph": "v.3.sg.opt + as"
+    },
+    {
+     "surface": "bhogamokṣānusandhānāddvividhā",
+     "gloss": "from-enjoyment-liberation-inquiry-twofold",
+     "grounds": "compound token",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun token",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "participle token",
+     "morph": "v.3.sg.pass-past + prakīrt"
+    }
+   ],
+   "question": "Why is the inquiry twofold?",
+   "premises": [
+    "it is twofold",
+    "eighty-five would be hundreds plus eleven",
+    "enjoyment and liberation inquiry is twofold",
+    "that is declared"
+   ],
+   "inference": "the inquiry is twofold for enjoyment and liberation",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Twofold; eighty-five would be hundreds plus eleven; from enjoyment-liberation inquiry twofold, that is declared."
+  }
+ ]
+}

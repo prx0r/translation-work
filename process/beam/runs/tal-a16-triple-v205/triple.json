@@ -1,0 +1,809 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "tasmāduruśiṣyamatau",
+     "gloss": "therefore-for-dull-student-mind",
+     "grounds": "compound sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śivabhāvanirūḍhivitaraṇasamartham",
+     "gloss": "capable-of-bestowing-shiva-bhava-establishment",
+     "grounds": "compound sense",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "kramikaṃ",
+     "gloss": "sequential",
+     "grounds": "adjective",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "tattvoddharaṇādi",
+     "gloss": "beginning-with-extraction-of-principles",
+     "grounds": "compound sense",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "noun",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "mokṣe@pi",
+     "gloss": "even-for-liberation",
+     "grounds": "locative sense",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "yuktamativitatam",
+     "gloss": "fitting-and-widely-extended",
+     "grounds": "compound sense",
+     "morph": "adj.n.acc.sg"
+    }
+   ],
+   "question": "When is sequential ritual action fitting for liberation?",
+   "premises": [
+    "dull student mind requires graded practice",
+    "shiva-bhava establishment must be bestowed",
+    "sequential karma begins with principle extraction"
+   ],
+   "inference": "Even for liberation, graded action is appropriate when it can bestow established Shiva-bhava.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Therefore, for a dull student, sequential action beginning with extraction of principles is fitting and extensive even for liberation, when it is capable of bestowing established Shiva-bhava."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "yastu",
+     "gloss": "but-who",
+     "grounds": "pronoun plus particle",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāvanayā",
+     "gloss": "by-meditation",
+     "grounds": "instrumental sense",
+     "morph": "n.f.ins.sg"
+    },
+    {
+     "surface": "svabhyastajñānavānguruḥ",
+     "gloss": "guru-habituated-in-knowledge",
+     "grounds": "compound sense",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "śiśoḥ",
+     "gloss": "of-the-disciple",
+     "grounds": "genitive sense",
+     "morph": "n.m.gen.sg"
+    },
+    {
+     "surface": "apavargāya",
+     "gloss": "for-liberation",
+     "grounds": "dative sense",
+     "morph": "n.m.dat.sg"
+    },
+    {
+     "surface": "yathecchaṃ",
+     "gloss": "as-desired",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "which",
+     "grounds": "pronoun",
+     "morph": "pron.m.acc.sg"
+    },
+    {
+     "surface": "kaṃcidupāyamanutiṣṭhet",
+     "gloss": "may-practice-some-means",
+     "grounds": "verb sense",
+     "morph": "v.3.sg.act.opt.+root"
+    }
+   ],
+   "question": "How may a knowledgeable guru liberate a disciple?",
+   "premises": [
+    "guru is habituated in knowledge through meditation",
+    "disciple seeks liberation",
+    "means may be chosen freely"
+   ],
+   "inference": "A guru established in knowledge may practice any suitable means for the disciple's liberation as desired.",
+   "uncertainties": [
+    "verbal parsing is approximate"
+   ],
+   "plain_english": "But a guru always habituated in knowledge through meditation may, for the disciple's liberation, practice any means he wishes."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śiṣyatanau",
+     "gloss": "in-the-disciple-body",
+     "grounds": "locative sense",
+     "morph": "n.f.loc.sg"
+    },
+    {
+     "surface": "śodhyaṃ",
+     "gloss": "to-be-purified",
+     "grounds": "participle",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "nyasyādhvānaṃ",
+     "gloss": "placing-the-path",
+     "grounds": "compound sense",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "yathepsitam",
+     "gloss": "as-desired",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śodhakaṃ",
+     "gloss": "purifying",
+     "grounds": "participle",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "mantramupari",
+     "gloss": "mantra-above",
+     "grounds": "compound sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyasyettattvānusārataḥ",
+     "gloss": "should-place-according-to-principles",
+     "grounds": "verb sense",
+     "morph": "v.3.sg.act.opt.+root"
+    }
+   ],
+   "question": "How should purification be arranged in the disciple?",
+   "premises": [
+    "disciple body is to be purified",
+    "path is placed as desired",
+    "purifying mantra is placed above according to principles"
+   ],
+   "inference": "Thus the path is placed in the disciple's body and the purifying mantra above, according to principles.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Thus, in the disciple's body, the path to be purified is placed as desired, and the purifying mantra is placed above according to the principles."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "dvayormātṛkayostattvasthityā",
+     "gloss": "by-establishment-of-two-matrikas",
+     "grounds": "compound sense",
+     "morph": "n.f.ins.sg"
+    },
+    {
+     "surface": "varṇakramaḥ",
+     "gloss": "letter-sequence",
+     "grounds": "compound sense",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kathitastaṃ",
+     "gloss": "was-told-that",
+     "grounds": "verb sense",
+     "morph": "v.3.sg.pass.past"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyasyettattattattvaviśuddhaye",
+     "gloss": "should-place-for-purification-of-each-principle",
+     "grounds": "verb sense",
+     "morph": "v.3.sg.act.opt.+root"
+    }
+   ],
+   "question": "How is the letter sequence placed for purification?",
+   "premises": [
+    "two matrikas establish principles",
+    "letter sequence was told before",
+    "placement purifies each principle"
+   ],
+   "inference": "The previously described letter sequence is placed according to the two matrikas for purification of each principle.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "By the establishment of the two matrikas, the letter sequence told before is so placed for the purification of each principle."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "varṇādhvā",
+     "gloss": "letter-path",
+     "grounds": "compound sense",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "is-declared",
+     "grounds": "participle",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "śodhyaḥ",
+     "gloss": "to-be-purified",
+     "grounds": "participle",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "pāśātmakastu",
+     "gloss": "but-bound-natured",
+     "grounds": "compound sense",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "it",
+     "grounds": "pronoun",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "māyīyaḥ",
+     "gloss": "maya-born",
+     "grounds": "adjective",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "śodhakastvanyaḥ",
+     "gloss": "but-purifier-is-another",
+     "grounds": "compound sense",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "śivātmā",
+     "gloss": "shiva-natured",
+     "grounds": "compound sense",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "paravāṅmayaḥ",
+     "gloss": "supreme-speech-formed",
+     "grounds": "compound sense",
+     "morph": "adj.m.nom.sg"
+    }
+   ],
+   "question": "What is the difference between purified and purifying paths?",
+   "premises": [
+    "letter path is declared to be purified",
+    "it is bound and maya-born",
+    "purifier is another shiva-natured supreme speech"
+   ],
+   "inference": "The letter path itself is bound and to be purified, while the purifier is distinct, Shiva-natured, and supreme speech.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Although the letter path is declared and to be purified, it is bound and maya-born; the purifier is another, Shiva-natured and supreme speech."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "verb",
+     "morph": "v.3.sg.act.past"
+    },
+    {
+     "surface": "sadyojyotiśca",
+     "gloss": "and-sadyojyotis",
+     "grounds": "proper name",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "vṛttau",
+     "gloss": "in-commentary",
+     "grounds": "locative sense",
+     "morph": "n.f.loc.sg"
+    },
+    {
+     "surface": "svāyambhuvasya",
+     "gloss": "of-svayambhuva",
+     "grounds": "genitive sense",
+     "morph": "n.m.gen.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pron.n.acc.sg"
+    },
+    {
+     "surface": "bāḍhameko",
+     "gloss": "indeed-one",
+     "grounds": "compound sense",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pāśātmā",
+     "gloss": "bound-natured",
+     "grounds": "compound sense",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "śabdo@nyaśca",
+     "gloss": "and-another-sound",
+     "grounds": "compound sense",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "śivātmakaḥ",
+     "gloss": "shiva-natured",
+     "grounds": "compound sense",
+     "morph": "adj.m.nom.sg"
+    }
+   ],
+   "question": "What did Sadyojyotis say about bound and Shiva sounds?",
+   "premises": [
+    "sadyojyotis said in commentary",
+    "one sound is bound-natured",
+    "another sound is shiva-natured"
+   ],
+   "inference": "Sadyojyotis affirms that one sound is bound-natured while another is Shiva-natured.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Sadyojyotis said in the commentary on Svayambhuva: indeed one sound is bound-natured, and another is Shiva-natured."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "tasmāttasyaiva",
+     "gloss": "therefore-of-that-very",
+     "grounds": "compound sense",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "varṇasya",
+     "gloss": "letter",
+     "grounds": "genitive sense",
+     "morph": "n.m.gen.sg"
+    },
+    {
+     "surface": "yuktā",
+     "gloss": "fitting",
+     "grounds": "participle",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "śodhakaśodhyatā",
+     "gloss": "purifier-purified-relation",
+     "grounds": "compound sense",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "śrīpūrvaśāstre",
+     "gloss": "in-previous-scripture",
+     "grounds": "locative sense",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "cāpyuktaṃ",
+     "gloss": "also-is-said",
+     "grounds": "verb sense",
+     "morph": "v.3.sg.pass.past"
+    },
+    {
+     "surface": "te",
+     "gloss": "by-them",
+     "grounds": "pronoun",
+     "morph": "pron.m.gen.pl"
+    },
+    {
+     "surface": "tairāliṅgitā",
+     "gloss": "embraced-by-them",
+     "grounds": "participle",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why is the letter's purifier-purified relation fitting?",
+   "premises": [
+    "that very letter has fitting relation",
+    "previous scripture also says it",
+    "they embrace it thus"
+   ],
+   "inference": "The fitting purifier-purified relation of that letter is also stated in the previous scripture and embraced by them.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Therefore the fitting purifier-purified relation of that very letter is also said in the previous scripture; they embrace it thus."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "sadyojātādivaktrāṇi",
+     "gloss": "faces-beginning-with-sadyojata",
+     "grounds": "compound sense",
+     "morph": "n.n.nom.pl"
+    },
+    {
+     "surface": "hṛdādyaṅgāni",
+     "gloss": "limbs-beginning-with-heart",
+     "grounds": "compound sense",
+     "morph": "n.n.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṭkṛtvo",
+     "gloss": "six-times",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "participle",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "ṣaṭtriṃśannyāsaṃ",
+     "gloss": "thirty-six-placement",
+     "grounds": "compound sense",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "kuryāddharāditaḥ",
+     "gloss": "should-do-from-earth",
+     "grounds": "verb sense",
+     "morph": "v.3.sg.act.opt.+root"
+    }
+   ],
+   "question": "How is the thirty-six placement performed?",
+   "premises": [
+    "five faces beginning with sadyojata",
+    "five limbs beginning with heart",
+    "placement done six times from earth"
+   ],
+   "inference": "Having placed the faces and limbs, one performs the thirty-six placement six times beginning from earth.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Having placed the faces beginning with Sadyojata and the limbs beginning with heart, five each, six times, one should perform the thirty-six placement from earth."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "parāparāyā",
+     "gloss": "of-higher-and-lower",
+     "grounds": "genitive sense",
+     "morph": "adj.f.gen.sg"
+    },
+    {
+     "surface": "vailomyāddharāyāṃ",
+     "gloss": "by-reversal-in-earth",
+     "grounds": "compound sense",
+     "morph": "n.f.loc.sg"
+    },
+    {
+     "surface": "syātpadatrayam",
+     "gloss": "there-should-be-three-steps",
+     "grounds": "verb sense",
+     "morph": "v.3.sg.act.opt."
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jalādahaṅkāre",
+     "gloss": "from-water-to-ego",
+     "grounds": "compound sense",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "pañcāṣṭakasamāśrayāt",
+     "gloss": "from-five-eight-support",
+     "grounds": "compound sense",
+     "morph": "n.m.abl.sg"
+    }
+   ],
+   "question": "How do the steps arise in reverse order?",
+   "premises": [
+    "higher and lower are reversed in earth",
+    "three steps arise there",
+    "then from water to ego by five-eight support"
+   ],
+   "inference": "By reversal of higher and lower in earth, three steps arise; then from water to ego through five-eight support.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "By reversal of the higher and lower in earth, three steps arise; then from water to ego through the support of five and eight."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "padāni",
+     "gloss": "steps",
+     "grounds": "noun",
+     "morph": "n.n.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "dhīmūlapuṃrāgākhye",
+     "gloss": "named-intellect-root-male-color",
+     "grounds": "compound sense",
+     "morph": "adj.n.loc.sg"
+    },
+    {
+     "surface": "traye",
+     "gloss": "in-three",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "tvaśuddhavitkāladvaye",
+     "gloss": "in-two-impure-vit-times",
+     "grounds": "compound sense",
+     "morph": "n.m.loc.du"
+    },
+    {
+     "surface": "caikaṃ",
+     "gloss": "and-one",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "niyāmake",
+     "gloss": "in-controller",
+     "grounds": "locative sense",
+     "morph": "n.m.loc.sg"
+    }
+   ],
+   "question": "How are the steps distributed among principles?",
+   "premises": [
+    "five steps in three named principles",
+    "three and one in two impure times",
+    "and one in controller"
+   ],
+   "inference": "The steps are distributed as five in three named principles, three and one in two impure times, and one in the controller.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Five steps are in the three named principles of intellect, root, and male color; three and one are in the two impure times; and one is in the controller."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "kalāmāyādvaye",
+     "gloss": "in-two-kala-maya",
+     "grounds": "compound sense",
+     "morph": "n.f.loc.du"
+    },
+    {
+     "surface": "caikaṃ",
+     "gloss": "and-one",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "padamuktamiha",
+     "gloss": "step-is-said-here",
+     "grounds": "verb sense",
+     "morph": "v.3.sg.pass.past"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidyeśvarasadāśaktiśiveṣu",
+     "gloss": "in-vidyesvara-sadashiva-shiva",
+     "grounds": "compound sense",
+     "morph": "n.m.loc.pl"
+    },
+    {
+     "surface": "padapañcakam",
+     "gloss": "five-steps",
+     "grounds": "compound sense",
+     "morph": "n.n.nom.sg"
+    }
+   ],
+   "question": "How are steps assigned to higher principles?",
+   "premises": [
+    "one step in kala and maya",
+    "steps are said here in order",
+    "five steps in vidyesvara sadashiva and shiva"
+   ],
+   "inference": "One step is assigned to kala and maya, and five steps to vidyesvara, sadashiva, and shiva in order.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "One step is said here in kala and maya; in order, five steps are in vidyesvara, sadashiva, and shiva."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "ekonaviṃśatiḥ",
+     "gloss": "nineteen",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "padānāṃ",
+     "gloss": "of-steps",
+     "grounds": "genitive sense",
+     "morph": "n.n.gen.pl"
+    },
+    {
+     "surface": "syātparāparā",
+     "gloss": "should-be-higher-lower",
+     "grounds": "verb sense",
+     "morph": "v.3.sg.act.opt."
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "with-half",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caikaṃ",
+     "gloss": "and-one",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "caikaṃ",
+     "gloss": "and-one",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "with-half",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "śaśī",
+     "gloss": "moon",
+     "grounds": "noun",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "dṛgatha",
+     "gloss": "and-eye",
+     "grounds": "compound sense",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "yugmam",
+     "gloss": "pair",
+     "grounds": "noun",
+     "morph": "n.n.nom.sg"
+    }
+   ],
+   "question": "What is the total count of steps?",
+   "premises": [
+    "nineteen steps should be higher-lower",
+    "with halves and ones and twos",
+    "moon eye pair completes count"
+   ],
+   "inference": "The total is nineteen steps, arranged with halves, ones, twos, and the moon-eye pair.",
+   "uncertainties": [
+    "compound boundaries are approximate"
+   ],
+   "plain_english": "Nineteen steps should be the higher-lower arrangement, with halves, ones, twos, and the moon-eye pair."
+  }
+ ]
+}

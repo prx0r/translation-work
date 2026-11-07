@@ -1,0 +1,701 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "niyatyā",
+     "gloss": "by-necessity",
+     "grounds": "niyati+ā",
+     "morph": "fem.ins.sg"
+    },
+    {
+     "surface": "manaso",
+     "gloss": "of-mind",
+     "grounds": "manas+o",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dehamātre",
+     "gloss": "in-body-only",
+     "grounds": "deha+mātre",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vṛttistataḥ",
+     "gloss": "activity-then",
+     "grounds": "vṛtti+tataḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "param",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānusandhā",
+     "gloss": "no-continuity",
+     "grounds": "na+anusandhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "yataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saikasvāntayuktākṣakalpitā",
+     "gloss": "single-mind-united-sense-constructed",
+     "grounds": "sa+eka+svānta+yukta+akṣa+kalpitā",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why does mind not continue beyond body?",
+   "premises": [
+    "Necessity binds mind to body only.",
+    "Activity beyond body lacks continuity."
+   ],
+   "inference": "Mind's activity remains body-bound because necessity constructs it through one mind and senses.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "By necessity, the mind's activity is only in the body; beyond that there is no continuity, because it is constructed through one mind and united senses."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "pradeśavṛtti",
+     "gloss": "local-activity",
+     "grounds": "pradeśa+vṛtti",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānamātmanastatra",
+     "gloss": "knowledge-of-self-there",
+     "grounds": "jñāna+ātmanaḥ+tatra",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "tat",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "bhogyajñānaṃ",
+     "gloss": "object-knowledge",
+     "grounds": "bhogya+jñānaṃ",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "nānyadeheṣvanusandhānamarhati",
+     "gloss": "not-other-bodies-continuity-deserves",
+     "grounds": "na+anya+deheṣu+anusandhānam+arhati",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why does knowledge not continue in other bodies?",
+   "premises": [
+    "Local activity belongs to self there.",
+    "Object knowledge does not deserve continuity elsewhere."
+   ],
+   "inference": "Knowledge of self and objects remains tied to its place and does not transfer to other bodies.",
+   "uncertainties": [
+    "Long compound segmentation is approximate."
+   ],
+   "plain_english": "Local activity and knowledge of the self occur there; that object-knowledge does not deserve continuity in other bodies."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "yadā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manasastasya",
+     "gloss": "of-that-mind",
+     "grounds": "manasaḥ+tasya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dehavṛtterapi",
+     "gloss": "of-body-activity-also",
+     "grounds": "deha+vṛtteḥ+api",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "dhruvam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogamantrakriyādeḥ",
+     "gloss": "from-yoga-mantra-rite",
+     "grounds": "yoga+mantra+kriyā+ādeḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "syādvaimalyaṃ",
+     "gloss": "there-is-purity",
+     "grounds": "syāt+vaimalyaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadvidā",
+     "gloss": "by-that-knower",
+     "grounds": "tad+vidā",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "tadā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does mind become pure through yoga?",
+   "premises": [
+    "That mind's body activity becomes pure.",
+    "Yoga mantra and rite produce purity."
+   ],
+   "inference": "When yoga, mantra, and rite purify the mind's body activity, the knower then acts.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "When that mind's body activity certainly becomes pure through yoga, mantra, and rite, then the knower acts."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "yathāmalaṃ",
+     "gloss": "as-pure",
+     "grounds": "yathā+amalaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "manas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dūrasthitamapyāśu",
+     "gloss": "though-far-seen-quickly",
+     "grounds": "dūra+sthitam+api+āśu",
+     "morph": "compound"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "paś+ati",
+     "morph": "3.sg.act-pres + root paś"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "tathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyayadīkṣāyāṃ",
+     "gloss": "in-initiation-of-understanding",
+     "grounds": "pratyaya+dīkṣāyāṃ",
+     "morph": "fem.loc.sg"
+    },
+    {
+     "surface": "tattadbhuvanadarśanam",
+     "gloss": "seeing-those-worlds",
+     "grounds": "tat+tat+bhuvana+darśanam",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does pure mind see distant worlds?",
+   "premises": [
+    "Pure mind sees quickly though far.",
+    "Initiation of understanding yields world-seeing."
+   ],
+   "inference": "As pure mind sees distant things quickly, so initiation of understanding reveals those worlds.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "As pure mind sees quickly even when far, so in initiation of understanding there is seeing of those worlds."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "jananādiviyuktāṃ",
+     "gloss": "free-from-birth-etc",
+     "grounds": "janana+ādi+viyuktāṃ",
+     "morph": "fem.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "yadā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "dīkṣāṃ",
+     "morph": "fem.acc.sg"
+    },
+    {
+     "surface": "cikīrṣati",
+     "gloss": "wishes-to-do",
+     "grounds": "cikīrṣ+ati",
+     "morph": "3.sg.act-pres + root cikīrṣ"
+    },
+    {
+     "surface": "tadāsmāduddharāmīti",
+     "gloss": "then-from-this-I-lift",
+     "grounds": "tadā+asmāt+uddharāmi+iti",
+     "morph": "compound"
+    },
+    {
+     "surface": "yuktamūhaprakalpanam",
+     "gloss": "proper-deliberation-plan",
+     "grounds": "yukta+mūha+prakalpanam",
+     "morph": "compound"
+    }
+   ],
+   "question": "When is initiation free from birth?",
+   "premises": [
+    "One wishes initiation free from birth.",
+    "Then lifting from this is proper deliberation."
+   ],
+   "inference": "When one wishes initiation free from birth and so on, then the plan of lifting from this is proper deliberation.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "When one wishes initiation free from birth and so on, then the plan 'I lift from this' is proper deliberation."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "yadā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhyaṃ",
+     "gloss": "to-be-purified",
+     "grounds": "śodhyaṃ",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "vinā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śoddhṛnyāsastatrāpi",
+     "gloss": "purifier-rite-there-also",
+     "grounds": "śoddhṛ+nyāsaḥ+tatra+api",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantrataḥ",
+     "gloss": "by-mantra",
+     "grounds": "mantra+taḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jananādikramaṃ",
+     "gloss": "birth-etc-sequence",
+     "grounds": "janana+ādi+kramaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuryāttattvasaṃśleṣavarjitam",
+     "gloss": "should-do-free-from-element-union",
+     "grounds": "kuryāt+tattva+saṃśleṣa+varjitam",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is rite done without purification?",
+   "premises": [
+    "Without what is purified, rite still occurs.",
+    "Mantra performs birth sequence free from element union."
+   ],
+   "inference": "Even without purification, the purifier rite there by mantra performs the birth sequence free from element union.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Even without purification, the purifier rite there by mantra performs the birth sequence free from element union."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "ekākiśoddhṛnyāse",
+     "gloss": "in-single-purifier-rite",
+     "grounds": "ekāki+śoddhṛ+nyāse",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jananādivivarjane",
+     "gloss": "excluding-birth-etc",
+     "grounds": "janana+ādi+vivarjane",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tacchoddhṛsaṃpuṭaṃ",
+     "gloss": "that-purifier-container",
+     "grounds": "tat+śoddhṛ+saṃpuṭaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "nāma",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "kevalaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-imagine",
+     "grounds": "parikalpayet",
+     "morph": "3.sg.act-opt + root parikalp"
+    }
+   ],
+   "question": "What is imagined in single purifier rite?",
+   "premises": [
+    "In single purifier rite excluding birth.",
+    "That purifier container only should be imagined."
+   ],
+   "inference": "In the single purifier rite excluding birth and so on, only that purifier container should be imagined.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "In the single purifier rite excluding birth and so on, only that purifier container should be imagined."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "dravyayogena",
+     "gloss": "by-substance-union",
+     "grounds": "dravya+yogena",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dīkṣāyāṃ",
+     "gloss": "in-initiation",
+     "grounds": "dīkṣāyāṃ",
+     "morph": "fem.loc.sg"
+    },
+    {
+     "surface": "tilājyākṣatataṇḍulam",
+     "gloss": "sesame-ghee-rice-grains",
+     "grounds": "tila+ājya+akṣata+taṇḍulam",
+     "morph": "compound"
+    },
+    {
+     "surface": "tattanmantreṇa",
+     "gloss": "by-respective-mantra",
+     "grounds": "tat+tat+mantreṇa",
+     "morph": "compound"
+    },
+    {
+     "surface": "juhuyājjanmayogaviyogayoḥ",
+     "gloss": "should-offer-birth-union-separation",
+     "grounds": "juhuyāt+janma+yoga+viyogayoḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is offered in initiation by substance?",
+   "premises": [
+    "By substance union in initiation.",
+    "Sesame ghee unbroken rice grains are offered."
+   ],
+   "inference": "In initiation by substance union, sesame, ghee, unbroken rice, and grains are offered by respective mantra for birth union and separation.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "In initiation by substance union, sesame, ghee, unbroken rice, and grains are offered by respective mantra for birth union and separation."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "yadā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñānadīkṣāṃ",
+     "gloss": "knowledge-initiation",
+     "grounds": "vijñāna+dīkṣāṃ",
+     "morph": "fem.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryācchiṣyaṃ",
+     "gloss": "should-do-to-disciple",
+     "grounds": "kuryāt+śiṣyaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "tadā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhṛśam",
+     "gloss": "intensely",
+     "grounds": "bhṛśam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmantrasaṃjalpabalāt",
+     "gloss": "by-that-mantra-speech-force",
+     "grounds": "tat+mantra+saṃjalpa+balāt",
+     "morph": "compound"
+    },
+    {
+     "surface": "paśyedā",
+     "gloss": "would-see",
+     "grounds": "paśyet+ā",
+     "morph": "3.sg.act-opt + root paś"
+    },
+    {
+     "surface": "cāvikalpakāt",
+     "gloss": "and-from-non-conceptual",
+     "grounds": "ca+avikalpakāt",
+     "morph": "compound"
+    }
+   ],
+   "question": "When is knowledge initiation performed?",
+   "premises": [
+    "When knowledge initiation is done to disciple.",
+    "Then intensely by mantra speech force one sees."
+   ],
+   "inference": "When knowledge initiation is done to the disciple, then intensely by that mantra speech force one sees from the non-conceptual.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "When knowledge initiation is done to the disciple, then intensely by that mantra speech force one sees from the non-conceptual."
+  },
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "vikalpaḥ",
+     "gloss": "concept",
+     "grounds": "vikalpaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "kila",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃjalpamayo",
+     "gloss": "speech-composed",
+     "grounds": "saṃjalpa+mayaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatsa",
+     "gloss": "which-that",
+     "grounds": "yat+sa",
+     "morph": "compound"
+    },
+    {
+     "surface": "vimarśakaḥ",
+     "gloss": "reflective",
+     "grounds": "vimarśakaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrātmāsau",
+     "gloss": "mantra-self-that",
+     "grounds": "mantra+ātmā+asau",
+     "morph": "compound"
+    },
+    {
+     "surface": "vimarśaśca",
+     "gloss": "reflection-and",
+     "grounds": "vimarśaḥ+ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "śuddho@pāśavatātmakaḥ",
+     "gloss": "pure-bondage-natured",
+     "grounds": "śuddhaḥ+pāśavatā+ātmakaḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is concept in mantra?",
+   "premises": [
+    "Concept is speech-composed.",
+    "It is reflective mantra-self."
+   ],
+   "inference": "Concept is indeed speech-composed; that reflective one is mantra-self, and reflection is pure bondage-natured.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Concept is indeed speech-composed; that reflective one is mantra-self, and reflection is pure and bondage-natured."
+  },
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "nityaścānādivaradaśivābhedopakalpitaḥ",
+     "gloss": "eternal-beginningless-boon-shiva-identity-constructed",
+     "grounds": "nityaḥ+ca+anādi+vara+da+śiva+abheda+upakalpitaḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadyogāddaiśikasyāpi",
+     "gloss": "by-its-union-of-teacher-also",
+     "grounds": "tat+yogāt+daiśikasya+api",
+     "morph": "compound"
+    },
+    {
+     "surface": "vikalpaḥ",
+     "gloss": "concept",
+     "grounds": "vikalpaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivatāṃ",
+     "gloss": "shivahood",
+     "grounds": "śivatāṃ",
+     "morph": "fem.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-attain",
+     "grounds": "vraj+et",
+     "morph": "3.sg.act-opt + root vraj"
+    }
+   ],
+   "question": "How does concept attain shivahood?",
+   "premises": [
+    "Eternal beginningless boon shiva identity is constructed.",
+    "By its union teacher's concept may attain shivahood."
+   ],
+   "inference": "Because eternal beginningless boon shiva identity is constructed, by its union the teacher's concept may attain shivahood.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "Because eternal beginningless boon shiva identity is constructed, by its union the teacher's concept may attain shivahood."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "śrīsāraśāstre",
+     "gloss": "in-shri-sara-shastra",
+     "grounds": "śrī+sāra+śāstre",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tadidaṃ",
+     "gloss": "that-this",
+     "grounds": "tat+idam",
+     "morph": "compound"
+    },
+    {
+     "surface": "parameśena",
+     "gloss": "by-supreme-lord",
+     "grounds": "parameśena",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bhāṣitam",
+     "gloss": "spoken",
+     "grounds": "bhāṣitaṃ",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "arthasya",
+     "gloss": "of-meaning",
+     "grounds": "arthasya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratipattiryā",
+     "gloss": "comprehension-which",
+     "grounds": "pratipattiḥ+yā",
+     "morph": "compound"
+    },
+    {
+     "surface": "grāhyagrāhakarūpiṇī",
+     "gloss": "object-subject-formed",
+     "grounds": "grāhya+grāhaka+rūpiṇī",
+     "morph": "fem.nom.sg"
+    }
+   ],
+   "question": "What is spoken in shri sara shastra?",
+   "premises": [
+    "In shri sara shastra this is spoken by supreme lord.",
+    "Comprehension of meaning is object-subject-formed."
+   ],
+   "inference": "In shri sara shastra this is spoken by the supreme lord: comprehension of meaning is object-subject-formed.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "In shri sara shastra this is spoken by the supreme lord: comprehension of meaning is object-subject-formed."
+  }
+ ]
+}

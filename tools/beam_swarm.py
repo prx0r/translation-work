@@ -375,7 +375,7 @@ def run_tal_gloss(t: dict) -> tuple[bool, str]:
     ctx = t.get('args', {}).get('context', '')
     ahn = t['args'].get('ahnika') or (work.split('tantraloka-a')[-1] if work.startswith('tantraloka-a') else '')
     lore = ''
-    lp = STATE / 'lore' / f'tal-{ahn}.md' if ahn else None
+    lp = STATE / 'lore' / f'tal-a{ahn}.md' if ahn else None
     if lp is not None and lp.exists():
         lore = lp.read_text()[:4000]
     prev = (t.get('note') or '').split(' | ')[-1]
@@ -523,7 +523,7 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
     wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
     byv = {e['verse']: e for e in wt}
     ahn = work.split('tantraloka-a')[-1]
-    lp = STATE / 'lore' / f'tal-{ahn}.md'
+    lp = STATE / 'lore' / f'tal-a{ahn}.md'
     lore = lp.read_text()[:5000] if lp.exists() else ''
     blocks = []
     for v in verses:
@@ -634,7 +634,7 @@ def run_tal_am(t: dict) -> tuple[bool, str]:
         except (OSError, ValueError, KeyError):
             pass
     ahn = work.split('tantraloka-a')[-1]
-    lp = STATE / 'lore' / f'tal-{ahn}.md'
+    lp = STATE / 'lore' / f'tal-a{ahn}.md'
     lore = lp.read_text()[:6000] if lp.exists() else ''
     prev = (t.get('note') or '').split(' | ')[-1]
     user = ('VERSE %d\n' % verse

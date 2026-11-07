@@ -1,0 +1,695 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "navapañcacatustryekatattvanyāse",
+     "gloss": "nine-five-four-one-tattva-nyasa",
+     "grounds": "compound locative",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhiyā",
+     "gloss": "by-intellect",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "nyasa",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakalpayettāvattattvāntarbhāvacintanāt",
+     "gloss": "should-arrange-so-long-as-considering-tattva-inclusion",
+     "grounds": "optative verb with ablative sense",
+     "morph": "3.sg.act.opt.+root-prakalp"
+    }
+   ],
+   "question": "How should one arrange nyasa in the nine-five-four-one tattva scheme?",
+   "premises": [
+    "nyasa is arranged by intellect",
+    "tattva inclusion is contemplated",
+    "self-arrangement is prescribed"
+   ],
+   "inference": "self-arrangement follows tattva inclusion contemplation",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In the nyasa of nine, five, four, and one tattvas, one should arrange the nyasa oneself by intellect, so long as one contemplates the inclusion of tattvas."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "kalāpañcakavedāṇḍanyāso@nenaiva",
+     "gloss": "by-this-very-five-kala-egg-nyasa",
+     "grounds": "compound instrumental",
+     "morph": "compound.instr.sg.m"
+    },
+    {
+     "surface": "lakṣitaḥ",
+     "gloss": "indicated",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triśirastantre",
+     "gloss": "in-trishira-tantra",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svādhārasthaṃ",
+     "gloss": "situated-in-own-support",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathāsthitam",
+     "gloss": "as-situated",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is this five-kala egg nyasa said to be situated?",
+   "premises": [
+    "nyasa is indicated",
+    "tantra states its support",
+    "position is as situated"
+   ],
+   "inference": "the nyasa rests in its own support as stated",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By this very five-kala egg nyasa is indicated; and in Trishira Tantra it is said to be situated in its own support as it stands."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "dvādaśāṅgulamutthānaṃ",
+     "gloss": "twelve-angula-rise",
+     "grounds": "compound nominative",
+     "morph": "compound.nom.sg.n"
+    },
+    {
+     "surface": "dehātītaṃ",
+     "gloss": "beyond-body",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāsaptatirdaśa",
+     "gloss": "seventy-two-ten",
+     "grounds": "numeral compound",
+     "morph": "compound.nom.pl.n"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "nominative dual",
+     "morph": "n.nom.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehasthaṃ",
+     "gloss": "in-body",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiraso@ntataḥ",
+     "gloss": "from-head-end",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How many angulas are beyond the body and how many are in the body?",
+   "premises": [
+    "rise is twelve angulas beyond body",
+    "body contains seventy-two ten and two",
+    "measurement starts from head end"
+   ],
+   "inference": "the total rise is split between beyond-body and in-body measures",
+   "uncertainties": [
+    "numeral parsing uncertain"
+   ],
+   "plain_english": "The rise is twelve angulas beyond the body, equal; then seventy-two ten and two are in the body from the head end."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "pādādārabhya",
+     "gloss": "starting-from-feet",
+     "grounds": "indeclinable participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suśroṇi",
+     "gloss": "O-fair-hipped",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "anāhatapadāvadhi",
+     "gloss": "up-to-anahata-region",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehātīte@pi",
+     "gloss": "even-beyond-body",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśrāntyā",
+     "gloss": "by-rest",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "saṃvitteḥ",
+     "gloss": "of-consciousness",
+     "grounds": "genitive singular",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kalpanāvaśāt",
+     "gloss": "by-force-of-imagination",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does consciousness rest from feet to anahata and beyond?",
+   "premises": [
+    "path starts from feet",
+    "rest of consciousness occurs",
+    "imagination governs placement"
+   ],
+   "inference": "consciousness is placed by imaginative rest along the path",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Starting from the feet, O fair-hipped one, up to the anahata region, even beyond the body, by rest of consciousness, by force of imagination."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "dehatvamiti",
+     "gloss": "body-ness-thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmātsyādutthānaṃ",
+     "gloss": "therefore-rise-should-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "dvādaśāṅgulam",
+     "gloss": "twelve-angulas",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirṇetumatraitaduktamaṣṭottaraṃ",
+     "gloss": "to-determine-here-this-said-one-hundred-eight",
+     "grounds": "compound infinitive",
+     "morph": "compound.inf"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is the rise said to be twelve angulas?",
+   "premises": [
+    "body-ness is stated",
+    "therefore rise is twelve angulas",
+    "one hundred eight is said for determination"
+   ],
+   "inference": "the twelve-angula rise follows from body-ness",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Body-ness thus; therefore the rise should be twelve angulas; thus to determine here this is said one hundred eight."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "puranyāso@tha",
+     "gloss": "then-city-nyasa",
+     "grounds": "compound nominative",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "gulphāntaṃ",
+     "gloss": "up-to-ankle",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūḥ",
+     "gloss": "earth",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "purāṇyatra",
+     "gloss": "cities-here",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tasmādekāṅgulavyāptyā",
+     "gloss": "therefore-by-one-angula-pervasion",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakulāditaḥ",
+     "gloss": "from-lakula-onward",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are sixteen cities placed up to the ankle?",
+   "premises": [
+    "city nyasa reaches ankle",
+    "earth is named",
+    "sixteen cities are here"
+   ],
+   "inference": "each city pervades one angula from Lakula onward",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Then city nyasa up to the ankle: earth; here sixteen cities; therefore by one-angula pervasion each from Lakula onward."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "dviraṇḍāntaṃ",
+     "gloss": "up-to-two-testicles",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tryaṅgulaṃ",
+     "gloss": "three-angulas",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cchagalāṇḍamathābdhiṣu",
+     "gloss": "goat-testicle-then-in-oceans",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "devayogāṣṭake",
+     "gloss": "in-eight-deva-yogas",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "nominative dual",
+     "morph": "n.nom.dual"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyekāṅgulapādataḥ",
+     "gloss": "from-each-angula-foot",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How are angulas measured from testicles to oceans?",
+   "premises": [
+    "measure reaches two testicles",
+    "three angulas are stated",
+    "oceans and deva-yogas are named"
+   ],
+   "inference": "two units arise from each angula foot",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Up to the two testicles, three angulas; but goat-testicle then in oceans; in eight deva-yogas two indeed from each angula foot."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradhānaparyantaṃ",
+     "gloss": "up-to-pradhana",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaṭcatvāriṃśadaṅgulam",
+     "gloss": "forty-six-angulas",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭpañcāśatpurāṇītthaṃ",
+     "gloss": "fifty-six-cities-thus",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "prāgdharāyāṃ",
+     "gloss": "in-eastern-ground",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "How many angulas and cities reach pradhana?",
+   "premises": [
+    "measure reaches pradhana",
+    "forty-six angulas are stated",
+    "fifty-six cities are thus named"
+   ],
+   "inference": "eastern ground has sixteen cities",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Thus up to pradhana forty-six angulas; fifty-six cities thus; but in eastern ground sixteen."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "tato@pyardhāṅgulavyāptyā",
+     "gloss": "then-by-half-angula-pervasion",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "ṣaṭpurāṇyaṅgulatraye",
+     "gloss": "six-cities-in-three-angulas",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yugma",
+     "gloss": "pair",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekasminnekaṃ",
+     "gloss": "in-one-one",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puramaṅgule",
+     "gloss": "city-in-angula",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How are cities distributed by half-angula pervasion?",
+   "premises": [
+    "half-angula pervasion is used",
+    "six cities occupy three angulas",
+    "four and pair are stated"
+   ],
+   "inference": "one city occupies one angula in the distribution",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Then by half-angula pervasion, six cities in three angulas; four, pair; in one one; and city in angula."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "sarāge",
+     "gloss": "in-attachment",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṃspurāṇīśasaṃkhyānītthaṃ",
+     "gloss": "male-cities-lord-number-thus",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣaḍaṅgule",
+     "gloss": "in-six-angulas",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "krodheśapuramekasmindvaye",
+     "gloss": "in-anger-lord-city-one-in-pair",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cāṇḍamiyaṃ",
+     "gloss": "and-anda-this",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vit",
+     "gloss": "know",
+     "grounds": "imperative singular",
+     "morph": "2.sg.act.imp.+root-vid"
+    }
+   ],
+   "question": "What is stated about male cities and anger-lord city?",
+   "premises": [
+    "attachment context is given",
+    "male cities lord number is thus",
+    "anger-lord city is one in pair"
+   ],
+   "inference": "the anda is to be known in this scheme",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In attachment, male cities lord number thus; in six angulas; in anger-lord city one in pair; and this anda; and know."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "saṃvartajyotiṣorevaṃ",
+     "gloss": "of-samvarta-and-jyotisha-thus",
+     "grounds": "genitive dual",
+     "morph": "n.gen.dual"
+    },
+    {
+     "surface": "kalātattvagayoḥ",
+     "gloss": "of-kala-and-tattva",
+     "grounds": "genitive dual",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūrapañcāntapurayorniyatau",
+     "gloss": "of-shura-and-pancanta-cities-fixed",
+     "grounds": "nominative dual",
+     "morph": "m.nom.dual"
+    },
+    {
+     "surface": "caikayugmatā",
+     "gloss": "and-one-pair-ness",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are Samvarta and Jyotisha cities fixed?",
+   "premises": [
+    "samvarta and jyotisha are named",
+    "kala and tattva are paired",
+    "shura and pancanta cities are fixed"
+   ],
+   "inference": "one-pair-ness is stated in this order",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Of Samvarta and Jyotisha thus, of kala and tattva in order, of Shura and Pancanta cities fixed, and one-pair-ness."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "śrīpūrvaśāstre",
+     "gloss": "in-shri-purva-shastra",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "taccoktaṃ",
+     "gloss": "that-said",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parameśena",
+     "gloss": "by-supreme-lord",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "śaṃbhunā",
+     "gloss": "by-Shambhu",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "uttarādikramādadvyekabhedo",
+     "gloss": "from-northward-order-two-one-difference",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyādike",
+     "gloss": "in-vidya-etc",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "traye",
+     "gloss": "in-three",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What does Shambhu say in the Purva Shastra?",
+   "premises": [
+    "text is Shri Purva Shastra",
+    "supreme lord Shambhu speaks",
+    "northward order has two-one difference"
+   ],
+   "inference": "the difference applies in vidya and three",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In Shri Purva Shastra that is said by supreme lord Shambhu: from northward order two-one difference in vidya etc three."
+  }
+ ]
+}
