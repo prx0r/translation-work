@@ -1,0 +1,611 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "tasmādāgneyacāreṇa",
+     "gloss": "therefore-by-fiery-practice",
+     "grounds": "compound of therefore and fiery practice in instrumental",
+     "morph": "indecl.+m.instr.sg"
+    },
+    {
+     "surface": "jvālāmālāmucāviśet",
+     "gloss": "should-enter-flame-garland-emitting",
+     "grounds": "optative verb of entering",
+     "morph": "3.sg.act-opt. viś"
+    },
+    {
+     "surface": "paśorvāmena",
+     "gloss": "by-left-path-of-bound-soul",
+     "grounds": "genitive compound with instrumental ending",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "candrāṃśujālaṃ",
+     "gloss": "moon-ray-net",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāpena",
+     "gloss": "by-heat",
+     "grounds": "instrumental noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "gālayet",
+     "gloss": "should-melt",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt. gal"
+    }
+   ],
+   "question": "How should the bound soul's lunar net be melted?",
+   "premises": [
+    "fiery practice enters flame garland",
+    "left path acts on bound soul",
+    "heat melts moon ray net"
+   ],
+   "inference": "the bound soul's lunar net is melted by heat through fiery practice",
+   "uncertainties": [
+    "exact referent of paśu"
+   ],
+   "plain_english": "Therefore, by fiery practice one should enter the flame-garland, and by the left path of the bound soul melt the moon-ray net with heat."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "nābhicakre@tha",
+     "gloss": "in-navel-wheel-then",
+     "grounds": "locative compound with particle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśrāmyetprāṇaraśmigaṇaiḥ",
+     "gloss": "should-rest-with-breath-rays",
+     "grounds": "optative with instrumental compound",
+     "morph": "3.sg.act-opt. viśram"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paro",
+     "gloss": "supreme",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive",
+     "morph": "abs. bhū"
+    },
+    {
+     "surface": "svaśaktyātra",
+     "gloss": "by-own-power-here",
+     "grounds": "instrumental compound with adverb",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "jīvaṃ",
+     "gloss": "living-being",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jīvena",
+     "gloss": "by-living-being",
+     "grounds": "instrumental noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "should-wrap",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt. veṣṭ"
+    }
+   ],
+   "question": "How does one wrap the living being in the navel wheel?",
+   "premises": [
+    "rest occurs in navel wheel",
+    "supreme state arises by own power",
+    "living being is wrapped by living being"
+   ],
+   "inference": "one wraps the living being after resting in the navel wheel and becoming supreme",
+   "uncertainties": [
+    "meaning of jīvena"
+   ],
+   "plain_english": "Resting in the navel wheel with breath-rays, becoming supreme by one's own power, one should here wrap the living being with the living being."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "svacitsūryeṇa",
+     "gloss": "by-own-consciousness-sun",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "saṃtāpya",
+     "gloss": "having-heated",
+     "grounds": "absolutive",
+     "morph": "abs. samtap"
+    },
+    {
+     "surface": "drāvayet",
+     "gloss": "should-melt",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt. dru"
+    },
+    {
+     "surface": "kalāṃ",
+     "gloss": "part",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kalām",
+     "gloss": "part",
+     "grounds": "repeated accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "drutaṃ",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalājālaṃ",
+     "gloss": "net-of-parts",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpayyaikatvamātmani",
+     "gloss": "bring-to-unity-in-self",
+     "grounds": "causative plus locative compound",
+     "morph": "abs.+n.loc.sg"
+    }
+   ],
+   "question": "How are the parts melted and unified?",
+   "premises": [
+    "own consciousness sun heats",
+    "parts are melted one by one",
+    "net of parts is brought to unity in self"
+   ],
+   "inference": "heating by own consciousness sun melts parts and unifies their net in the self",
+   "uncertainties": [
+    "exact sense of kalā"
+   ],
+   "plain_english": "Heating by the sun of one's own consciousness, one should melt part by part; then quickly bring the net of parts to unity in the self."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "samastatattvasaṃpūrṇamāpyāyanavidhāyinam",
+     "gloss": "nourishing-all-principles-complete",
+     "grounds": "long accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "unmūlayeta",
+     "gloss": "should-uproot",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt. unmūl"
+    },
+    {
+     "surface": "saṃrambhātkarmabaddhamamuṃ",
+     "gloss": "this-karma-bound-with-force",
+     "grounds": "accusative compound with demonstrative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rasāt",
+     "gloss": "from-essence",
+     "grounds": "ablative noun",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What should be uprooted from essence?",
+   "premises": [
+    "the being nourishes all principles",
+    "karma-bound being is uprooted",
+    "uprooting occurs from essence"
+   ],
+   "inference": "the karma-bound being that nourishes all principles is uprooted from essence",
+   "uncertainties": [
+    "force of saṃrambhāt"
+   ],
+   "plain_english": "With force, uproot from essence this karma-bound one who nourishes and completes all principles."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unmūlanodveṣṭayogādvāmaṃ",
+     "gloss": "by-uprooting-unwrapping-yoga-left",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "paribhraman",
+     "gloss": "revolving",
+     "grounds": "present participle",
+     "morph": "pres.part. paribhram"
+    },
+    {
+     "surface": "kuṇḍalyamṛtasaṃpūrṇasvakaprāṇaprasevakaḥ",
+     "gloss": "kundali-nectar-full-own-breath-nourisher",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What follows the uprooting yoga?",
+   "premises": [
+    "uprooting and unwrapping yoga occurs",
+    "leftward revolution follows",
+    "kundali nectar nourishes own breath"
+   ],
+   "inference": "after uprooting yoga one revolves left as kundali nectar nourishes breath",
+   "uncertainties": [
+    "exact role of vāmaṃ"
+   ],
+   "plain_english": "Then, by the yoga of uprooting and unwrapping, revolving left, one becomes the nourisher of one's own breath, full of kundali nectar."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "vāmāvartakramopāttahṛtpadmāmṛtakesaraḥ",
+     "gloss": "left-circuit-sequence-taken-heart-lotus-nectar-filament",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛtkarṇikārūḍhilābhādojodhātuṃ",
+     "gloss": "by-gaining-ascent-heart-center-tissue",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vilāpitam",
+     "gloss": "melted",
+     "grounds": "past participle",
+     "morph": "ppp. vilāp"
+    }
+   ],
+   "question": "What is melted by gaining ascent?",
+   "premises": [
+    "left circuit takes heart lotus filament",
+    "ascent to heart center is gained",
+    "tissue is melted"
+   ],
+   "inference": "gaining ascent to the heart center melts the tissue",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "The filament of nectar from the heart lotus, taken by leftward circuit, melts the tissue by gaining ascent to the heart center."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "śuddhasomātmakaṃ",
+     "gloss": "pure-moon-essence",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sāramīṣallohitapītalam",
+     "gloss": "essence-slightly-red-yellow",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "abs. ādā"
+    },
+    {
+     "surface": "karihastāgrasadṛśe",
+     "gloss": "like-elephant-trunk-tip",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prāṇavigrahe",
+     "gloss": "in-breath-body",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What essence is taken into the breath body?",
+   "premises": [
+    "pure moon essence is taken",
+    "essence is slightly red and yellow",
+    "breath body is like elephant trunk tip"
+   ],
+   "inference": "pure moon essence is taken into the breath body shaped like an elephant trunk tip",
+   "uncertainties": [
+    "color description"
+   ],
+   "plain_english": "Taking the pure moon essence, slightly red and yellow, into the breath-body that is like the tip of an elephant's trunk."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "niḥsṛtya",
+     "gloss": "having-exited",
+     "grounds": "absolutive",
+     "morph": "abs. niḥsṛ"
+    },
+    {
+     "surface": "jhaṭiti",
+     "gloss": "suddenly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svātmavāmamārgeṇa",
+     "gloss": "by-own-self-left-path",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "saṃviśet",
+     "gloss": "should-enter",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt. saṃviś"
+    },
+    {
+     "surface": "āpyāyayannapānākhyacandracakrahṛdambuje",
+     "gloss": "nourishing-apāna-named-moon-wheel-heart-lotus",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should one enter after exiting?",
+   "premises": [
+    "one exits suddenly",
+    "left path of own self is used",
+    "apana moon wheel heart lotus is nourished"
+   ],
+   "inference": "one enters and nourishes the apāna moon wheel in the heart lotus",
+   "uncertainties": [
+    "exact path"
+   ],
+   "plain_english": "Having exited suddenly by the left path of one's own self, one should enter, nourishing the heart-lotus moon wheel called apāna."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "past participle",
+     "morph": "ppp. sthā"
+    },
+    {
+     "surface": "taddevatācakraṃ",
+     "gloss": "that-deity-wheel",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sāreṇa",
+     "gloss": "by-essence",
+     "grounds": "instrumental noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-nourish",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt. tṛp"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "instrumental noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sarvānrasaraktādikāṃstathā",
+     "gloss": "all-rasa-blood-etc",
+     "grounds": "accusative compound",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How is the deity wheel nourished?",
+   "premises": [
+    "deity wheel is situated",
+    "essence nourishes it",
+    "method nourishes all rasas and blood"
+   ],
+   "inference": "the situated deity wheel is nourished by essence and all rasas by this method",
+   "uncertainties": [
+    "scope of tathā"
+   ],
+   "plain_english": "That situated deity wheel should be nourished by that essence; by this method, all rasas, blood, and the rest are nourished."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "dhātūnsamāharetsaṃghakramādekaikaśo@thavā",
+     "gloss": "gather-tissues-group-sequence-one-by-one-or",
+     "grounds": "compound with optative",
+     "morph": "3.sg.act-opt. samāhṛ"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvathavāgnīnduravisaṃghaṭṭamadhyagam",
+     "gloss": "or-in-middle-of-sun-moon-fire-collision",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are the tissues gathered?",
+   "premises": [
+    "tissues are gathered in group sequence",
+    "gathering may be one by one",
+    "gathering may be in collision middle"
+   ],
+   "inference": "tissues are gathered either sequentially or in the middle of sun-moon-fire collision",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "One should gather the tissues in group sequence, one by one, or only in the middle of the collision of sun, moon, and fire."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "jyotīrūpamatha",
+     "gloss": "light-form-then",
+     "grounds": "nominative compound with adverb",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṇaśaktyākhyaṃ",
+     "gloss": "called-breath-power",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jīvamāharet",
+     "gloss": "should-take-living-being",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt. āhṛ"
+    },
+    {
+     "surface": "jīvaṃ",
+     "gloss": "living-being",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samarasīkuryāddevīcakreṇa",
+     "gloss": "should-equalize-by-goddess-wheel",
+     "grounds": "optative with instrumental compound",
+     "morph": "3.sg.act-opt. samarasīkṛ"
+    },
+    {
+     "surface": "bhāvanāt",
+     "gloss": "by-meditation",
+     "grounds": "ablative noun",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "How is the living being equalized?",
+   "premises": [
+    "light form is called breath power",
+    "living being is taken",
+    "goddess wheel equalizes by meditation"
+   ],
+   "inference": "the living being is taken and equalized by the goddess wheel through meditation",
+   "uncertainties": [
+    "exact object of āharet"
+   ],
+   "plain_english": "Then, taking the living being that is light-form called breath-power, one should equalize the living being by the goddess wheel through meditation."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-itself",
+     "grounds": "demonstrative with particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "nourishment",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "chief",
+     "grounds": "nominative adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhogyabhoktrātmataiva",
+     "gloss": "enjoyer-enjoyed-self-identity",
+     "grounds": "nominative compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "agnisaṃpuṭaphullārṇatryaśrakālātmako",
+     "gloss": "fire-casket-blossoming-three-cornered-time-self",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahān",
+     "gloss": "great",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the chief nourishment?",
+   "premises": [
+    "that itself is chief nourishment",
+    "enjoyer and enjoyed are self",
+    "great fire casket is time self"
+   ],
+   "inference": "chief nourishment is identity of enjoyer and enjoyed in the great fire casket",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "That itself is the chief nourishment: the identity of enjoyer and enjoyed; that great one is the fire-casket, blossoming, three-cornered, time-self."
+  }
+ ]
+}

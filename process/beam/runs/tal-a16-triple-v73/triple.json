@@ -1,0 +1,683 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "tato@gnau",
+     "gloss": "then",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "offering",
+     "grounds": "token 2",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryānmantracakrasya",
+     "gloss": "should-do-of-mantra-circle",
+     "grounds": "token 3",
+     "morph": "verb.3.sg.opt-√kṛ"
+    },
+    {
+     "surface": "daiśikaḥ",
+     "gloss": "teacher",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tannivedya",
+     "gloss": "having-offered-that",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devāya",
+     "gloss": "to-god",
+     "grounds": "token 7",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vijñāpayetprabhum",
+     "gloss": "should-inform-lord",
+     "grounds": "token 9",
+     "morph": "verb.3.sg.opt-√jñā"
+    }
+   ],
+   "question": "How should the teacher offer and inform the lord?",
+   "premises": [
+    "teacher performs mantra-circle offering",
+    "then informs the lord"
+   ],
+   "inference": "ritual sequence moves from offering to divine notification",
+   "uncertainties": [
+    "compound boundaries approximate"
+   ],
+   "plain_english": "Then the teacher should perform the offering to the mantra circle, offer that, and then inform the lord."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "gurutvena",
+     "gloss": "as-guru",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tvayaivāhamājñātaḥ",
+     "gloss": "by-you-I-am-known",
+     "grounds": "token 2",
+     "morph": "verb.1.sg.pass-perf-√jñā"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "supreme-lord",
+     "grounds": "token 3",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sākṣātsvapnopadeśādyairjapairgurumukhena",
+     "gloss": "directly-dream-instruction-etc-chants-guru-mouth",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 5",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the guru known by the supreme lord?",
+   "premises": [
+    "guru is known by you",
+    "through direct dream instruction"
+   ],
+   "inference": "guru authority is recognized by divine means",
+   "uncertainties": [
+    "long compound split approximate"
+   ],
+   "plain_english": "As guru, I am known by you, supreme lord, through direct dream instruction and chants from the guru's mouth."
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "anugrāhyāstvayā",
+     "gloss": "to-be-favored-by-you",
+     "grounds": "token 1",
+     "morph": "verb.3.pl.pass-fut-√grah"
+    },
+    {
+     "surface": "śiṣyāḥ",
+     "gloss": "disciples",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śivaśaktipracoditāḥ",
+     "gloss": "impelled-by-shiva-power",
+     "grounds": "token 3",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadete",
+     "gloss": "these",
+     "grounds": "token 4",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadvidhāḥ",
+     "gloss": "of-that-kind",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāptāstvamebhyaḥ",
+     "gloss": "obtained-from-them",
+     "grounds": "token 6",
+     "morph": "verb.3.pl.perf-√prāp"
+    },
+    {
+     "surface": "kurvanugraham",
+     "gloss": "doing-favor",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who are the disciples to be favored?",
+   "premises": [
+    "disciples are impelled by shiva power",
+    "they are of that kind"
+   ],
+   "inference": "favor is extended to shiva-impelled disciples",
+   "uncertainties": [
+    "compound split approximate"
+   ],
+   "plain_english": "Disciples impelled by Shiva's power are to be favored by you; these of that kind have obtained from them, doing favor."
+  },
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "samāveśaya",
+     "gloss": "absorb",
+     "grounds": "token 1",
+     "morph": "verb.2.sg.imp-√viś"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "token 2",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svātmaraśmibhiryadahaṃ",
+     "gloss": "by-own-self-rays-that-I",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavatviti",
+     "gloss": "let-it-be-thus",
+     "grounds": "token 6",
+     "morph": "verb.3.sg.imp-√bhū"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śivoktimabhinandayet",
+     "gloss": "should-welcome-shiva-word",
+     "grounds": "token 8",
+     "morph": "verb.3.sg.opt-√nand"
+    }
+   ],
+   "question": "What prayer asks for absorption into Shiva?",
+   "premises": [
+    "absorb me by own self rays",
+    "so that I become Shiva"
+   ],
+   "inference": "the practitioner seeks identity with Shiva",
+   "uncertainties": [
+    "compound split approximate"
+   ],
+   "plain_english": "Absorb me by your own self rays, so that I become Shiva; then welcome Shiva's word."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "śivābhinnamathātmānaṃ",
+     "gloss": "shiva-not-different-self",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcakṛtyakaraṃ",
+     "gloss": "five-acts-doer",
+     "grounds": "token 2",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "token 3",
+     "morph": "verb.3.sg.opt-√smṛ"
+    },
+    {
+     "surface": "svātmanaḥ",
+     "gloss": "of-own-self",
+     "grounds": "token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "token 5",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrānmūrtiṃ",
+     "gloss": "mantras-form",
+     "grounds": "token 6",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cānujighṛkṣayā",
+     "gloss": "with-desire-to-protect",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What should one remember about the self?",
+   "premises": [
+    "self is not different from Shiva",
+    "self performs five acts"
+   ],
+   "inference": "meditation identifies self with Shiva's agency",
+   "uncertainties": [
+    "compound split approximate"
+   ],
+   "plain_english": "One should remember the self as not different from Shiva, doer of five acts, instrument of own self, mantras and form, with desire to protect."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sitoṣṇīṣaṃ",
+     "gloss": "white-turban",
+     "grounds": "token 3",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hastayorarcayetkramāt",
+     "gloss": "in-hands-worship-in-order",
+     "grounds": "token 4",
+     "morph": "verb.3.sg.opt-√arc"
+    },
+    {
+     "surface": "anyonyaṃ",
+     "gloss": "mutually",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pāśadāhāya",
+     "gloss": "for-burning-bonds",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śuddhatattvavisṛṣṭaye",
+     "gloss": "for-pure-principle-emission",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why bind the white turban and worship hands?",
+   "premises": [
+    "bind white turban",
+    "worship hands in order"
+   ],
+   "inference": "the rite prepares purification and bond burning",
+   "uncertainties": [
+    "compound split approximate"
+   ],
+   "plain_english": "Then, having bound the white turban, worship the hands in order, mutually, for burning bonds and emitting pure principle."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "tejorūpeṇa",
+     "gloss": "by-light-form",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantrāṃśca",
+     "gloss": "and-mantras",
+     "grounds": "token 2",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śivahaste",
+     "gloss": "in-shiva-hand",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "token 4",
+     "morph": "verb.3.sg.opt-√arc"
+    },
+    {
+     "surface": "garbhāvaraṇagānaṅgaparivārāsanojjhitān",
+     "gloss": "excluding-womb-covering-song-limb-attendant-seat",
+     "grounds": "token 5",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How are mantras worshipped in Shiva's hand?",
+   "premises": [
+    "worship mantras by light form",
+    "in Shiva's hand"
+   ],
+   "inference": "mantras are offered in luminous form",
+   "uncertainties": [
+    "long compound split approximate"
+   ],
+   "plain_english": "By light form, worship mantras in Shiva's hand, excluding womb covering, song, limb, attendant, and seat."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāvayetpaścādekakaṃ",
+     "gloss": "should-meditate-afterward-alone",
+     "grounds": "token 2",
+     "morph": "verb.3.sg.opt-√bhū"
+    },
+    {
+     "surface": "jalacandravat",
+     "gloss": "like-water-moon",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtyopādhivaśādbhinnaṃ",
+     "gloss": "different-by-action-condition",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣoḍhābhinnaṃ",
+     "gloss": "sixfold-different",
+     "grounds": "token 5",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vastutaḥ",
+     "gloss": "in-reality",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should the self be meditated upon?",
+   "premises": [
+    "meditate on self afterward alone",
+    "like water moon"
+   ],
+   "inference": "apparent difference is conditioned, not ultimate",
+   "uncertainties": [
+    "compound split approximate"
+   ],
+   "plain_english": "Afterward meditate on the self alone, like the moon in water; different by action condition, but sixfold different only apparently, in reality one."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "maṇḍalastho@hamevāyaṃ",
+     "gloss": "in-circle-I-am-this",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣī",
+     "gloss": "witness",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cākhilakarmaṇām",
+     "gloss": "of-all-actions",
+     "grounds": "token 3",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "śuddhā",
+     "gloss": "pure",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "draṣṭṛtā",
+     "gloss": "seeing-ness",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śambhormaṇḍale",
+     "gloss": "in-shambhu-circle",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kalpitā",
+     "gloss": "imagined",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "token 9",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "What is the witness in Shambhu's circle?",
+   "premises": [
+    "I am in the circle",
+    "witness of all actions"
+   ],
+   "inference": "pure seeing is imagined in Shambhu's circle",
+   "uncertainties": [
+    "compound split approximate"
+   ],
+   "plain_english": "I am in the circle, witness of all actions; pure seeing indeed is imagined by me in Shambhu's circle."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "homādhikaraṇatvena",
+     "gloss": "as-fire-rite-subject",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vahnāvahamavasthitaḥ",
+     "gloss": "in-fire-I-am-situated",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadātmateddhā",
+     "gloss": "when-self-kindled",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "token 4",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "token 5",
+     "morph": "verb.3.pl.opt-√as"
+    },
+    {
+     "surface": "pāśaploṣavidhāvalam",
+     "gloss": "bond-burning-rite-capable",
+     "grounds": "token 6",
+     "morph": "indecl."
+    }
+   ],
+   "question": "When do mantras become capable of burning bonds?",
+   "premises": [
+    "I am situated in fire",
+    "when self is kindled"
+   ],
+   "inference": "mantras gain bond-burning power through kindled self",
+   "uncertainties": [
+    "compound split approximate"
+   ],
+   "plain_english": "As fire-rite subject, I am situated in fire; when the self is kindled, mantras would be capable of the bond-burning rite."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "sāmānyatejorūpāntarāhūtā",
+     "gloss": "called-by-common-light-form",
+     "grounds": "token 1",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhuvaneśvarāḥ",
+     "gloss": "world-lords",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tarpitāḥ",
+     "gloss": "satisfied",
+     "grounds": "token 3",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śrāvitāścāṇornādhikāraṃ",
+     "gloss": "made-to-hear-of-small-one-authority",
+     "grounds": "token 4",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pratanvate",
+     "gloss": "extend",
+     "grounds": "token 5",
+     "morph": "verb.3.pl.pres-√tan"
+    }
+   ],
+   "question": "What happens to world lords when called?",
+   "premises": [
+    "world lords called by common light form",
+    "they are satisfied"
+   ],
+   "inference": "satisfied lords extend the small one's authority",
+   "uncertainties": [
+    "compound split approximate"
+   ],
+   "plain_english": "World lords called by common light form are satisfied and made to hear; they extend the small one's authority."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "ā",
+     "gloss": "up-to",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yāgāntamahaṃ",
+     "gloss": "end-of-sacrifice-I",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kumbhe",
+     "gloss": "in-pot",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃsthito",
+     "gloss": "established",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vighnaśāntaye",
+     "gloss": "for-obstacle-peace",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sāmānyarūpatā",
+     "gloss": "common-form-ness",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśeṣāpyāyakāriṇī",
+     "gloss": "particular-nourishing",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is the common form established in the pot?",
+   "premises": [
+    "I am established in pot",
+    "up to end of sacrifice"
+   ],
+   "inference": "common form nourishes particular forms for obstacle peace",
+   "uncertainties": [
+    "compound split approximate"
+   ],
+   "plain_english": "Up to the end of sacrifice I am established in the pot for obstacle peace; common form thereby nourishes particular forms."
+  }
+ ]
+}

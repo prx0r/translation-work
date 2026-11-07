@@ -1,0 +1,767 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putrakatvasiddhyai",
+     "gloss": "for-attaining-disciplehood",
+     "grounds": "purpose of rite",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-described",
+     "grounds": "passive description",
+     "morph": "3.sg.pass-pres root nirūp"
+    },
+    {
+     "surface": "śivanirūpito",
+     "gloss": "by-Shiva-described",
+     "grounds": "describer",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "@tra",
+     "gloss": "here",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samayasthasya",
+     "gloss": "of-one-established-in-vow",
+     "grounds": "genitive relation",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "putrakatve",
+     "gloss": "into-disciplehood",
+     "grounds": "target state",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "niyojanam",
+     "gloss": "appointment",
+     "grounds": "action",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gurutve",
+     "gloss": "into-guruhood",
+     "grounds": "target state",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sādhakatve",
+     "gloss": "into-adept-hood",
+     "grounds": "target state",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartumicchati",
+     "gloss": "wishes-to-do",
+     "grounds": "teacher's intention",
+     "morph": "3.sg.act-pres root iṣ"
+    },
+    {
+     "surface": "daiśikaḥ",
+     "gloss": "teacher",
+     "grounds": "agent",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "When does the teacher appoint a vow-holder into disciplehood, guruhood, or adept-hood?",
+   "premises": [
+    "Teacher wishes to appoint vow-holder",
+    "Appointment concerns disciple guru or adept",
+    "Rite is described by Shiva"
+   ],
+   "inference": "The verse states conditions for appointment",
+   "uncertainties": [
+    "@tra marker unresolved"
+   ],
+   "plain_english": "Now the rite described by Shiva is set forth for attaining disciplehood: when a teacher wishes to appoint one established in the vow into disciplehood, guruhood, or adept-hood."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "tadādhivāsaṃ",
+     "gloss": "then-consecration",
+     "grounds": "preliminary rite",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṛtvāhni",
+     "gloss": "having-done-on-day",
+     "grounds": "temporal action",
+     "morph": "abs+loc.sg.n"
+    },
+    {
+     "surface": "dvitīye",
+     "gloss": "second",
+     "grounds": "day count",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "diagram",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-draw",
+     "grounds": "instruction",
+     "morph": "3.sg.opt.act root likh"
+    },
+    {
+     "surface": "sāmudāyikayāge@tha",
+     "gloss": "in-collective-rite",
+     "grounds": "ritual context",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tathānyatra",
+     "gloss": "and-elsewhere",
+     "grounds": "other contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathoditam",
+     "gloss": "as-stated",
+     "grounds": "reference",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done on the second day after consecration?",
+   "premises": [
+    "Consecration is performed first",
+    "Mandala is drawn on second day",
+    "Drawing follows stated rule"
+   ],
+   "inference": "The verse gives second-day mandala instruction",
+   "uncertainties": [
+    "@tha marker unresolved"
+   ],
+   "plain_english": "After performing consecration, on the second day one should draw the mandala in the collective rite and elsewhere as stated."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "ṣaḍaṣṭataddviguṇitacaturviṃśatisaṃkhyayā",
+     "gloss": "by-six-eight-and-double-twenty-four-count",
+     "grounds": "numerical specification",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "cakrapañcakamākhyātaṃ",
+     "gloss": "five-wheels-are-called",
+     "grounds": "named system",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "in-scripture",
+     "grounds": "textual source",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śrīpūrvasaṃjñite",
+     "gloss": "named-Shri-prior",
+     "grounds": "named tradition",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "How many wheels are named in the Shri-prior scripture?",
+   "premises": [
+    "Count specifies wheel system",
+    "Five wheels are named",
+    "Named in Shri-prior scripture"
+   ],
+   "inference": "The verse names a five-wheel system",
+   "uncertainties": [
+    "compound count parsing uncertain"
+   ],
+   "plain_english": "By the count of six, eight, and double twenty-four, the five-wheel system is called in the scripture named Shri-prior."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "dvātriṃśattaddviguṇitaṃ",
+     "gloss": "thirty-two-and-its-double",
+     "grounds": "numerical specification",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śrīmattraiśirase",
+     "gloss": "in-Shri-mat-Traishira",
+     "grounds": "textual source",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "mate",
+     "gloss": "in-opinion",
+     "grounds": "doctrinal view",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "asaṃkhyacakrasaṃbandhaḥ",
+     "gloss": "connection-with-countless-wheels",
+     "grounds": "wheel relation",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śrīsiddhādau",
+     "gloss": "in-Shri-Siddha-beginning",
+     "grounds": "textual source",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "nirūpitaḥ",
+     "gloss": "is-described",
+     "grounds": "description",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Where is the connection with countless wheels described?",
+   "premises": [
+    "Thirty-two and double are given",
+    "Traishira view is cited",
+    "Connection with countless wheels is described"
+   ],
+   "inference": "The verse links numerical wheels to textual sources",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Thirty-two and its double, in the Shri-mat-Traishira view, and the connection with countless wheels, are described in the Shri-Siddha beginning."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "tasmādyathātathā",
+     "gloss": "therefore-as-thus",
+     "grounds": "conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāgaṃ",
+     "gloss": "sacrifice",
+     "grounds": "ritual action",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yāvaccakreṇa",
+     "gloss": "as-far-as-by-wheel",
+     "grounds": "measure",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "saṃmitam",
+     "gloss": "measured",
+     "grounds": "quantified",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pūjayedyena",
+     "gloss": "one-should-worship-by-which",
+     "grounds": "worship instruction",
+     "morph": "3.sg.opt.act root pūj"
+    },
+    {
+     "surface": "tenātra",
+     "gloss": "by-that-here",
+     "grounds": "result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triśūlatrayamālikhet",
+     "gloss": "should-draw-three-tridents",
+     "grounds": "drawing instruction",
+     "morph": "3.sg.opt.act root likh"
+    }
+   ],
+   "question": "What should be drawn after measuring worship by the wheel?",
+   "premises": [
+    "Sacrifice is measured by wheel",
+    "Worship is performed accordingly",
+    "Three tridents are drawn here"
+   ],
+   "inference": "The verse connects wheel-measured worship to trident drawing",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Therefore, as the sacrifice is measured by the wheel, one should worship accordingly; by that, here one should draw three tridents."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "triśūlatritaye",
+     "gloss": "in-three-tridents",
+     "grounds": "location",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "devītrayaṃ",
+     "gloss": "three-goddesses",
+     "grounds": "deities",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "paryāyavṛttitaḥ",
+     "gloss": "by-rotational-course",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyasavyānyabhedena",
+     "gloss": "by-middle-left-right-distinction",
+     "grounds": "spatial distinction",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "pūrṇaṃ",
+     "gloss": "fully",
+     "grounds": "completeness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjitaṃ",
+     "gloss": "worshipped",
+     "grounds": "ritual action",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "result",
+     "morph": "3.sg.opt.act root bhū"
+    }
+   ],
+   "question": "How are the three goddesses worshipped in the three tridents?",
+   "premises": [
+    "Three goddesses are in three tridents",
+    "Rotation and spatial distinction apply",
+    "Worship becomes complete"
+   ],
+   "inference": "The verse describes complete goddess worship",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "In the three tridents, the three goddesses, by rotational course and by middle-left-right distinction, should become fully worshipped."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "vartanā",
+     "gloss": "maintenance",
+     "grounds": "practice",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "maṇḍalasyāgre",
+     "gloss": "before-mandala",
+     "grounds": "location",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "saṃkṣepādupadekṣyate",
+     "gloss": "will-be-taught-briefly",
+     "grounds": "instruction",
+     "morph": "3.sg.fut.pass root upadiś"
+    },
+    {
+     "surface": "ālikhya",
+     "gloss": "having-drawn",
+     "grounds": "preparation",
+     "morph": "abs root likh"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "diagram",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gandhavastreṇaivāsya",
+     "gloss": "with-scented-cloth-indeed-its",
+     "grounds": "purification",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "mārjanam",
+     "gloss": "wiping",
+     "grounds": "cleaning",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is taught briefly before the mandala?",
+   "premises": [
+    "Mandala is drawn first",
+    "Scented cloth wipes it",
+    "Maintenance is taught briefly"
+   ],
+   "inference": "The verse gives brief mandala maintenance instruction",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Maintenance before the mandala will be taught briefly: having drawn the mandala, one wipes it with scented cloth."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "preparation",
+     "morph": "abs root kṛ"
+    },
+    {
+     "surface": "snāto",
+     "gloss": "bathed",
+     "grounds": "purification",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "agent",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prāgvanmaṇḍalāgre@tra",
+     "gloss": "before-mandala-here",
+     "grounds": "location",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "objects",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "bāhyagāḥ",
+     "gloss": "external-going",
+     "grounds": "spatial class",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "pūjayeddvāradeśe",
+     "gloss": "should-worship-at-door-place",
+     "grounds": "worship location",
+     "morph": "3.sg.opt.act root pūj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāradevatāḥ",
+     "gloss": "door-deities",
+     "grounds": "objects",
+     "morph": "acc.pl.f"
+    }
+   ],
+   "question": "What does the bathed guru worship before the mandala?",
+   "premises": [
+    "Guru has bathed",
+    "External deities are worshipped",
+    "Door deities are worshipped at door"
+   ],
+   "inference": "The verse describes pre-mandala worship",
+   "uncertainties": [
+    "@tra marker unresolved"
+   ],
+   "plain_english": "Having bathed, the guru, before the mandala here, should worship the external deities and the door deities at the door place."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "maṇḍalasya",
+     "gloss": "of-mandala",
+     "grounds": "genitive relation",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "purobhāge",
+     "gloss": "in-front-part",
+     "grounds": "location",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tadaiśānadiśaḥ",
+     "gloss": "from-that-northeast-direction",
+     "grounds": "direction",
+     "morph": "abl.sg.f"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āgneyyantaṃ",
+     "gloss": "up-to-southeast",
+     "grounds": "directional limit",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "gaṇeśādīn",
+     "gloss": "Ganesha-and-others",
+     "grounds": "deities",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "kṣetrapāntānprapūjayet",
+     "gloss": "should-fully-worship-up-to-field-protectors",
+     "grounds": "worship instruction",
+     "morph": "3.sg.opt.act root pūj"
+    }
+   ],
+   "question": "Which deities are worshipped in order around the mandala?",
+   "premises": [
+    "Worship starts in front of mandala",
+    "Direction runs northeast to southeast",
+    "Ganesha and field protectors are worshipped"
+   ],
+   "inference": "The verse gives directional worship sequence",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "In the front part of the mandala, from the northeast direction in order up to the southeast, one should fully worship Ganesha and the others up to the field protectors."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "gaṇapatiguruparamākhyāḥ",
+     "gloss": "Ganapati-guru-Parama-named",
+     "grounds": "named deities",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "parameṣṭhī",
+     "gloss": "Paramesthi",
+     "grounds": "named deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pūrvasiddhavākkṣetrapatiḥ",
+     "gloss": "prior-siddha-speech-field-lord",
+     "grounds": "named deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptakamākhyātaṃ",
+     "gloss": "seven-are-named",
+     "grounds": "count",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "gurupaṅktividhau",
+     "gloss": "in-guru-row-rite",
+     "grounds": "ritual context",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "prapūjyamasmadgurubhiḥ",
+     "gloss": "to-be-fully-worshipped-by-our-gurus",
+     "grounds": "worship obligation",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Which seven are named in the guru-row rite?",
+   "premises": [
+    "Named deities include Ganapati guru Parama",
+    "Paramesthi and prior-siddha speech-field-lord are named",
+    "Seven are named for guru-row worship"
+   ],
+   "inference": "The verse lists seven guru-row deities",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Ganapati, guru, Parama, Paramesthi, and the prior-siddha speech-field-lord, thus seven are named in the guru-row rite to be fully worshipped by our gurus."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ājñāṃ",
+     "gloss": "command",
+     "grounds": "authorization",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "action",
+     "morph": "abs root grah"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpadhūpādipūjitam",
+     "gloss": "worshipped-with-flowers-incense-etc",
+     "grounds": "offering state",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pūjyamādhāraśaktyādi",
+     "gloss": "worshipable-support-power-and-so-forth",
+     "grounds": "deity group",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śūlamūlātprabhṛtyalam",
+     "gloss": "from-trident-root-onward-sufficient",
+     "grounds": "spatial limit",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is worshipped after taking command?",
+   "premises": [
+    "Command is taken first",
+    "Support power and related deities are worshipped",
+    "Worship runs from trident root onward"
+   ],
+   "inference": "The verse describes post-command worship",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Then, having taken command, the support power and related deities, worshipped with flowers, incense, and so forth, are sufficient from the trident root onward."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "śivāntaṃ",
+     "gloss": "up-to-Shiva",
+     "grounds": "limit",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sitapadmānte",
+     "gloss": "at-white-lotus-end",
+     "grounds": "location",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "triśūlānāṃ",
+     "gloss": "of-three-tridents",
+     "grounds": "genitive relation",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "traye",
+     "gloss": "in-three",
+     "grounds": "number",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyaśūle",
+     "gloss": "in-middle-trident",
+     "grounds": "location",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "madhyagaḥ",
+     "gloss": "middle-going",
+     "grounds": "position",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syātsadbhāvaḥ",
+     "gloss": "should-be-true-being",
+     "grounds": "result",
+     "morph": "3.sg.opt.act root as/bhū"
+    },
+    {
+     "surface": "parayā",
+     "gloss": "with-supreme",
+     "grounds": "accompaniment",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is true being located among the three tridents?",
+   "premises": [
+    "Worship runs up to Shiva",
+    "Three tridents are in white lotus",
+    "True being is in middle trident with supreme"
+   ],
+   "inference": "The verse locates true being in the middle trident",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Up to Shiva, at the end of the white lotus, among the three tridents in order, true being should be in the middle trident together with the supreme."
+  }
+ ]
+}

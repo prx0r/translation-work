@@ -1,56 +1,56 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a30",
+ "verse": 61,
  "rows": [
   {
-   "lemma": "kuñcana",
-   "morph": "n.acc.sg (neut)",
-   "grounds": "kuñcanaṃ = contraction, neuter accusative singular form"
+   "lemma": "kuñcanaṃ",
+   "morph": "nom.sg.n",
+   "grounds": "action noun"
   },
   {
-   "lemma": "ca + aṅguli",
-   "morph": "indecl. + n.gen.pl.f",
-   "grounds": "cāṅgulīnāṃ = and-of-fingers, sandhi of ca and aṅgulīnām"
-  },
-  {
-   "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "tu = but"
-  },
-  {
-   "lemma": "kartavya",
-   "morph": "gerundive neut.acc.sg",
-   "grounds": "kartavyaṃ = to-be-done"
-  },
-  {
-   "lemma": "codana",
-   "morph": "n.acc.sg (neut)",
-   "grounds": "codanaṃ = stimulation"
-  },
-  {
-   "lemma": "tatas",
-   "morph": "indecl.",
-   "grounds": "tataḥ = then"
-  },
-  {
-   "lemma": "jānvādiparacakrānta",
-   "morph": "adj neut.acc.sg",
-   "grounds": "jānvādiparacakrāntaṃ = knee-onward-crossed"
-  },
-  {
-   "lemma": "cakra + cakra",
-   "morph": "n.abl.sg + n.acc.sg",
-   "grounds": "cakrāccakraṃ = from-cakra-to-cakra, sandhi of cakrāt and cakraṃ"
+   "lemma": "cāṅgulīnāṃ",
+   "morph": "gen.pl.f",
+   "grounds": "genitive plural"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "tu = but"
+   "morph": "(indecl.)",
+   "grounds": "particle"
   },
   {
-   "lemma": "kuñc",
-   "morph": "3sg.opt.act √kuñc",
-   "grounds": "kuñcayet = should-contract"
+   "lemma": "kartavyaṃ",
+   "morph": "nom.sg.n",
+   "grounds": "gerundive"
+  },
+  {
+   "lemma": "codanaṃ",
+   "morph": "nom.sg.n",
+   "grounds": "action noun"
+  },
+  {
+   "lemma": "tataḥ",
+   "morph": "(indecl.)",
+   "grounds": "adverb"
+  },
+  {
+   "lemma": "jānvādiparacakrāntaṃ",
+   "morph": "compound",
+   "grounds": "compound"
+  },
+  {
+   "lemma": "cakrāccakraṃ",
+   "morph": "abl.sg.n-acc.sg.n",
+   "grounds": "ablative to accusative"
+  },
+  {
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "particle"
+  },
+  {
+   "lemma": "kuñcayet",
+   "morph": "3.sg.act.opt",
+   "grounds": "optative verb"
   }
  ]
 }

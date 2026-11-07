@@ -1,0 +1,249 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "ātmāntarātmaparamātmarūpaṃ",
+     "gloss": "self-inner-self-supreme-self-form",
+     "grounds": "compound of self terms",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padatrayam",
+     "gloss": "three-words",
+     "grounds": "three pada",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekārāntaṃ",
+     "gloss": "e-ending",
+     "grounds": "ending in e",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bodhanasthaṃ",
+     "gloss": "knowledge-situated",
+     "grounds": "in knowledge",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "daśārṇaṃ",
+     "gloss": "ten-syllable",
+     "grounds": "ten syllables",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "declared",
+     "morph": "verb.3.sg.pass-kirt"
+    }
+   ],
+   "question": "What form is proclaimed as ten-syllabled and e-ending?",
+   "premises": [
+    "The form has three words.",
+    "It is situated in knowledge.",
+    "It is ten-syllabled."
+   ],
+   "inference": "The verse proclaims a ten-syllabled e-ending form of self.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "A ten-syllabled form ending in e, situated in knowledge and made of three words, is proclaimed as the form of self, inner self, and supreme self."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "rudraśaktīti",
+     "gloss": "rudra-shakti-thus",
+     "grounds": "compound with iti",
+     "morph": "compound"
+    },
+    {
+     "surface": "vedārṇaṃ",
+     "gloss": "veda-syllable",
+     "grounds": "vedic syllable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syādrudradayite@tha",
+     "gloss": "may-it-be-beloved-of-rudra-then",
+     "grounds": "optative address",
+     "morph": "verb.3.sg.opt-rud"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "first person",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dahadahetyeṣā",
+     "gloss": "burn-burn-thus-this",
+     "grounds": "repeated imperative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśārṇā",
+     "gloss": "twelve-syllable",
+     "grounds": "twelve syllables",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "catuṣpadī",
+     "gloss": "four-footed",
+     "grounds": "four feet",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What twelve-syllabled four-footed formula burns sin?",
+   "premises": [
+    "The formula is called Rudra-shakti.",
+    "It is a veda-syllable.",
+    "It burns sin."
+   ],
+   "inference": "The verse gives a twelve-syllabled four-footed formula for burning sin.",
+   "uncertainties": [
+    "The @tha token is editorial."
+   ],
+   "plain_english": "May it be, O beloved of Rudra, that this veda-syllable Rudra-shakti burns my sin; this formula is twelve-syllabled and four-footed."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "saumye",
+     "gloss": "gentle-one",
+     "grounds": "vocative",
+     "morph": "adj.voc.sg.f"
+    },
+    {
+     "surface": "sadāśive",
+     "gloss": "sadashiva",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "yugmaṃ",
+     "gloss": "pair",
+     "grounds": "two",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaṭkaṃ",
+     "gloss": "six",
+     "grounds": "six",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bindviṣusāvahā",
+     "gloss": "bindu-arrow-bringing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sārdhavarṇacatuṣkaṃ",
+     "gloss": "half-syllable-four",
+     "grounds": "four half-syllables",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadityeṣā",
+     "gloss": "that-thus-this",
+     "grounds": "demonstrative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samayāpahā",
+     "gloss": "convention-removing",
+     "grounds": "removing convention",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What convention-removing formula is addressed to Sadashiva?",
+   "premises": [
+    "It contains a pair and six.",
+    "It brings bindu and arrow.",
+    "It has four half-syllables."
+   ],
+   "inference": "The verse describes a convention-removing formula addressed to Sadashiva.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "O gentle Sadashiva, this convention-removing formula contains a pair and six, brings bindu and arrow, and has four half-syllables."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "sārdhārṇakhaśarasaṃkhyā",
+     "gloss": "half-syllable-kha-arrow-number",
+     "grounds": "compound count",
+     "morph": "compound"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "pārameśvarī",
+     "gloss": "supreme-lady",
+     "grounds": "goddess",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "etadvidyātrayaṃ",
+     "gloss": "this-knowledge-triad",
+     "grounds": "three knowledges",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrīmadbhūtirājo",
+     "gloss": "glorious-bhutiraja",
+     "grounds": "name",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "nyarūpayat",
+     "gloss": "described",
+     "grounds": "portrayed",
+     "morph": "verb.3.sg.act-past-rup"
+    }
+   ],
+   "question": "Who described the triad of knowledges?",
+   "premises": [
+    "The knowledge is supreme lady.",
+    "The triad is described.",
+    "Bhutiraja described it."
+   ],
+   "inference": "Bhutiraja described the triad of knowledges.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "This knowledge, counted as half-syllable, kha, and arrow, is the supreme lady; glorious Bhutiraja described this triad of knowledges."
+  }
+ ]
+}

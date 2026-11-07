@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a30",
+ "verse": 69,
  "rows": [
   {
-   "lemma": "etāvat",
-   "morph": "instr.pl.m/n",
-   "grounds": "gloss 'by-so-many' + form etāvadbhiḥ"
+   "lemma": "etāvadbhiḥ",
+   "morph": "inst.pl.m",
+   "grounds": "instrumental plural"
   },
   {
-   "lemma": "padairetadāryāvākya",
-   "morph": "instr.pl.n",
-   "grounds": "gloss 'by-words-this-noble-statement' + form padairetadāryāvākyaṃ"
+   "lemma": "padairetadāryāvākyaṃ",
+   "morph": "compound",
+   "grounds": "compound"
   },
   {
-   "lemma": "dvitīyaka",
-   "morph": "acc.sg.n",
-   "grounds": "gloss 'second' + form dvitīyakam"
+   "lemma": "dvitīyakam",
+   "morph": "nom.sg.n",
+   "grounds": "ordinal adjective"
   },
   {
    "lemma": "haṃsa",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'swan' + form haṃsa"
+   "morph": "voc.sg.m",
+   "grounds": "vocative"
   },
   {
    "lemma": "hayagrīva",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'horse-necked' + form hayagrīva"
-  },
-  {
-   "lemma": "vibhu",
    "morph": "voc.sg.m",
-   "grounds": "gloss 'o-lord' + form vibho"
+   "grounds": "vocative"
   },
   {
-   "lemma": "sadāśiva-tvam",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'sadāśiva-you' + form sadāśivastvaṃ"
+   "lemma": "vibho",
+   "morph": "voc.sg.m",
+   "grounds": "vocative"
   },
   {
-   "lemma": "para-as",
-   "morph": "2sg.pres.act √as",
-   "grounds": "gloss 'you-are-supreme' + form paro@si"
+   "lemma": "sadāśivastvaṃ",
+   "morph": "compound",
+   "grounds": "compound"
   },
   {
-   "lemma": "jīvākhya",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'named-jīva' + form jīvākhyaḥ"
+   "lemma": "paro@si",
+   "morph": "2.sg.act.pres",
+   "grounds": "compound verb"
+  },
+  {
+   "lemma": "jīvākhyaḥ",
+   "morph": "compound",
+   "grounds": "compound"
   }
  ]
 }

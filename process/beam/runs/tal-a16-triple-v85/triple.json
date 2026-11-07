@@ -1,0 +1,677 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "śiṣyadehe",
+     "gloss": "in-disciple-body",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpāśaśithilatvaprasiddhaye",
+     "gloss": "for-establishing-loosening-of-that-bond",
+     "grounds": "dative compound",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svecchāvaśātpāśānvidhunvanniva",
+     "gloss": "as-if-shaking-off-bonds-by-own-will",
+     "grounds": "participle compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "acts",
+     "grounds": "verb root vrt",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How does the guru act in the disciple's body?",
+   "premises": [
+    "Guru acts in disciple body",
+    "Bonds loosen by own will"
+   ],
+   "inference": "Guru's presence loosens bonds",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In the disciple's body, he indeed acts as if shaking off bonds by his own will, for establishing loosening of that bond."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "sākṣātsvadehasaṃstho@haṃ",
+     "gloss": "I-am-directly-abiding-in-own-body",
+     "grounds": "compound with aham",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kartānugrahakarmaṇām",
+     "gloss": "doer-of-grace-acts",
+     "grounds": "genitive compound",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "jñānakriyāsvatantratvāddīkṣākarmaṇi",
+     "gloss": "in-initiation-act-due-to-freedom-of-knowledge-and-action",
+     "grounds": "ablative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "peśalaḥ",
+     "gloss": "skillful",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why is the guru skillful in initiation?",
+   "premises": [
+    "Guru abides in own body",
+    "Guru does grace acts"
+   ],
+   "inference": "Freedom makes initiation skillful",
+   "uncertainties": [
+    "sandhi restoration approximate"
+   ],
+   "plain_english": "I am directly abiding in my own body, doer of grace acts, and skillful in initiation due to freedom of knowledge and action."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "bhinnakāryākṛtivrātendriyacakrānusandhimān",
+     "gloss": "connected-to-circles-of-senses-and-acts",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eko",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yathāhaṃ",
+     "gloss": "as-I",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vahnyādiṣaḍrūpo@smi",
+     "gloss": "I-am-sixfold-fire-etc",
+     "grounds": "verb root as",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the one connected to many circles?",
+   "premises": [
+    "One connects sense circles",
+    "I am sixfold fire"
+   ],
+   "inference": "Unity appears through many forms",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Connected to circles of senses and acts, one, as I am sixfold fire and so on, clearly so."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "evamālocya",
+     "gloss": "having-considered-thus",
+     "grounds": "participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yenaiṣo@dhvanā",
+     "gloss": "by-which-path",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "cikīrṣati",
+     "gloss": "wishes-to-do",
+     "grounds": "desiderative verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "anusaṃhitaye",
+     "gloss": "for-connection",
+     "grounds": "dative",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "śiṣyavarjaṃ",
+     "gloss": "except-disciple",
+     "grounds": "compound",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pañcasu",
+     "gloss": "in-five",
+     "grounds": "locative numeral",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "pronoun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Whom should one worship for initiation connection?",
+   "premises": [
+    "Guru considers path",
+    "Initiation desired for connection"
+   ],
+   "inference": "Worship him in five except disciple",
+   "uncertainties": [
+    "sandhi restoration approximate"
+   ],
+   "plain_english": "Having considered thus, by which path initiation is desired for connection, except the disciple, in five, him should one worship."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "anusandhibalānte",
+     "gloss": "at-end-of-connection-strength",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāsavyāsabhedataḥ",
+     "gloss": "by-difference-of-summary-and-expansion",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "kuryādatyantamabhyastamanyāntarbhāvapūritam",
+     "gloss": "should-make-fully-practiced-and-filled-by-inclusion-of-others",
+     "grounds": "optative compound",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should practice be completed at connection's end?",
+   "premises": [
+    "Connection strength ends",
+    "Summary and expansion differ"
+   ],
+   "inference": "Make practice fully included",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "At the end of connection strength, and by difference of summary and expansion, one should make it fully practiced and filled by inclusion of others."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "tato@pi",
+     "gloss": "then-also",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayā",
+     "gloss": "by-thought",
+     "grounds": "instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "bhūyo@nusandadhyācchivātmatām",
+     "gloss": "should-connect-more-to-Shiva-nature",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ahameva",
+     "gloss": "I-alone",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "naca",
+     "gloss": "and-not",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paddhaṭavat",
+     "gloss": "like-a-path",
+     "grounds": "comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should one think after further connection?",
+   "premises": [
+    "Think by thought",
+    "Connect more to Shiva-nature"
+   ],
+   "inference": "I alone am supreme principle",
+   "uncertainties": [
+    "sandhi restoration approximate"
+   ],
+   "plain_english": "Then also by thought one should connect more to Shiva-nature: I alone am the supreme principle, and not like a path anywhere."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "mahāprakāśastattena",
+     "gloss": "by-that-great-light",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "mayi",
+     "gloss": "in-me",
+     "grounds": "locative pronoun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sarvamidaṃ",
+     "gloss": "all-this",
+     "grounds": "pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "naca",
+     "gloss": "and-not",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkenacidbāhyapratibimbavadarpitam",
+     "gloss": "projected-like-external-reflection-by-anyone",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How is the world present in the great light?",
+   "premises": [
+    "Great light is there",
+    "All world is in me"
+   ],
+   "inference": "World is not external reflection",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "By that great light, all this world is in me, and it is not projected by anyone like an external reflection."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "kartāhamasya",
+     "gloss": "I-am-maker-of-this",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tannānyādhīnaṃ",
+     "gloss": "not-dependent-on-another",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madadhiṣṭhitam",
+     "gloss": "established-by-me",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "itthaṃbhūtamahāvyāptisaṃvedanapavitritaḥ",
+     "gloss": "purified-by-experience-of-great-pervasion-thus",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the state of the purified maker?",
+   "premises": [
+    "I am maker of this",
+    "It is established by me"
+   ],
+   "inference": "Purified by great pervasion experience",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "I am maker of this; it is not dependent on another and is established by me; thus purified by experience of great pervasion."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "matsamatvaṃ",
+     "gloss": "equality-with-me",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "gato",
+     "gloss": "having-gone",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "janturmukta",
+     "gloss": "creature-liberated",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-is-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "tāpanirgharṣasekādipāramparyeṇa",
+     "gloss": "by-succession-of-heating-rubbing-pouring-etc",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "vahnitām",
+     "gloss": "fire-nature",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "When is a creature called liberated?",
+   "premises": [
+    "Creature goes to equality with me",
+    "Called liberated thus"
+   ],
+   "inference": "Fire-nature arises by succession",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "A creature having gone to equality with me is called liberated; by succession of heating, rubbing, pouring and so on, fire-nature."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "yathāyogolako",
+     "gloss": "like-iron-ball",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb root yā",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "gururevaṃ",
+     "gloss": "guru-thus",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śivātmatām",
+     "gloss": "to-Shiva-nature",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puraḥsthitaṃ",
+     "gloss": "standing-before",
+     "grounds": "participle",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "purobhāvitavigraham",
+     "gloss": "previously-manifested-form",
+     "grounds": "compound",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "How does the guru reach Shiva-nature?",
+   "premises": [
+    "Like iron ball goes",
+    "Guru thus to Shiva-nature"
+   ],
+   "inference": "Then standing before or manifested form",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Like an iron ball goes, the guru thus to Shiva-nature; then standing before, or a previously manifested form."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "parokṣadīkṣaṇe",
+     "gloss": "in-indirect-initiation",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darbhādyaiḥ",
+     "gloss": "by-kusha-etc",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "kalpite",
+     "gloss": "fashioned",
+     "grounds": "participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "mṛte",
+     "gloss": "dead",
+     "grounds": "participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śiṣye",
+     "gloss": "disciple",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vīkṣyārcya",
+     "gloss": "having-seen-and-worshipped",
+     "grounds": "participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpādyairnyasedadhvānamasya",
+     "gloss": "should-place-path-with-flowers-etc",
+     "grounds": "optative compound",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "pronoun",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What is done in indirect initiation?",
+   "premises": [
+    "Indirect initiation or fashioned",
+    "Disciple dead seen and worshipped"
+   ],
+   "inference": "Place path with flowers etc",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "In indirect initiation, or fashioned by kusha etc, the dead disciple having been seen and worshipped, one should place his path with flowers and so on."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "yenādhvanā",
+     "gloss": "by-which-path",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "mukhyatayā",
+     "gloss": "primarily",
+     "grounds": "instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "dīkṣāmicchati",
+     "gloss": "desires-initiation",
+     "grounds": "desiderative verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "daiśikaḥ",
+     "gloss": "teacher",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "pronoun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatrāntarbhāvyamanyaditi",
+     "gloss": "thus-other-should-be-included-there",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "rule",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is the rule for desired initiation?",
+   "premises": [
+    "Teacher desires initiation primarily",
+    "Him placed in body"
+   ],
+   "inference": "Other should be included there",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "By which path the teacher primarily desires initiation, having placed him in the body, there other should be included; this is the rule."
+  }
+ ]
+}

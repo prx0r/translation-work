@@ -1,0 +1,767 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "kuñcanaṃ",
+     "gloss": "contraction",
+     "grounds": "action noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "cāṅgulīnāṃ",
+     "gloss": "of-fingers",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "codanaṃ",
+     "gloss": "stimulation",
+     "grounds": "action noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānvādiparacakrāntaṃ",
+     "gloss": "knee-etc-crossed-other-chakra",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "cakrāccakraṃ",
+     "gloss": "from-chakra-to-chakra",
+     "grounds": "ablative to accusative",
+     "morph": "abl.sg.n-acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuñcayet",
+     "gloss": "should-contract",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should the fingers and chakras be contracted?",
+   "premises": [
+    "contraction of fingers is prescribed",
+    "stimulation follows contraction",
+    "chakras are crossed sequentially"
+   ],
+   "inference": "therefore practice sequential chakra contraction",
+   "uncertainties": [
+    "exact anatomical referents uncertain"
+   ],
+   "plain_english": "Contract the fingers, then stimulate; crossing from knee and other chakras, contract from chakra to chakra."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "kathitaṃ",
+     "gloss": "stated",
+     "grounds": "past participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarahasyaṃ",
+     "gloss": "with-secret",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyonirvāṇakaṃ",
+     "gloss": "immediate-liberation-giving",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "athocyate",
+     "gloss": "now-is-stated",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "brahmavidyā",
+     "gloss": "brahma-knowledge",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadyaḥpratyayadāyinī",
+     "gloss": "immediate-conviction-giving",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What teaching gives immediate liberation and conviction?",
+   "premises": [
+    "secret teaching is stated",
+    "it gives immediate liberation",
+    "brahma-knowledge gives immediate conviction"
+   ],
+   "inference": "therefore this teaching is supreme brahma-knowledge",
+   "uncertainties": [
+    "scope of secrecy unspecified"
+   ],
+   "plain_english": "The secret teaching giving immediate liberation is supreme; now brahma-knowledge is stated, giving immediate conviction."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "proper noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śrībhūtirājo",
+     "gloss": "sri-bhutiraja",
+     "grounds": "proper noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yāmasmabhyaṃ",
+     "gloss": "to-us",
+     "grounds": "dative pronoun",
+     "morph": "dat.pl"
+    },
+    {
+     "surface": "pratyapādayat",
+     "gloss": "taught",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.impf"
+    },
+    {
+     "surface": "sarveṣāmeva",
+     "gloss": "of-all-indeed",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "bhūtānāṃ",
+     "gloss": "of-beings",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "maraṇe",
+     "gloss": "at-death",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "samupasthite",
+     "gloss": "imminent",
+     "grounds": "past participle",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Who taught this when death is imminent?",
+   "premises": [
+    "shiva sri-bhutiraja taught us",
+    "death of all beings is imminent",
+    "teaching occurs at that time"
+   ],
+   "inference": "therefore the teaching is given before universal death",
+   "uncertainties": [
+    "identity of sri-bhutiraja unclear"
+   ],
+   "plain_english": "Shiva, Sri Bhutiraja, taught us when death of all beings is imminent."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative pronoun",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "paṭhitayotkramya",
+     "gloss": "read-and-transcended",
+     "grounds": "compound participle",
+     "morph": "compound"
+    },
+    {
+     "surface": "jīvo",
+     "gloss": "soul",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "nirañjanam",
+     "gloss": "stainless",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "jñānino@pi",
+     "gloss": "even-of-knower",
+     "grounds": "genitive with particle",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "saṃpūrṇakṛtyasyāpi",
+     "gloss": "even-of-completed-duty",
+     "grounds": "genitive with particle",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "śrutā",
+     "gloss": "heard",
+     "grounds": "past participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "satī",
+     "gloss": "being",
+     "grounds": "present participle",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What happens when this is read and heard?",
+   "premises": [
+    "reading and transcending leads to stainless",
+    "even a knower with completed duty hears it",
+    "hearing occurs while being"
+   ],
+   "inference": "therefore the text liberates through reading and hearing",
+   "uncertainties": [
+    "exact referent of which is implicit"
+   ],
+   "plain_english": "By which, having read and transcended, the soul goes to the stainless; even for a knower with completed duty, when heard, it is."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "prāṇādicchedajāṃ",
+     "gloss": "prana-severance-born",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mṛtyuvyathāṃ",
+     "gloss": "death-pain",
+     "grounds": "compound",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "sadyo",
+     "gloss": "immediately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyapohati",
+     "gloss": "removes",
+     "grounds": "verb",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "yāmākarṇya",
+     "gloss": "hearing-which",
+     "grounds": "compound participle",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahāmohavivaśo@pi",
+     "gloss": "even-overcome-by-great-delusion",
+     "grounds": "compound with particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramādgataḥ",
+     "gloss": "gradually-attained",
+     "grounds": "compound participle",
+     "morph": "compound"
+    }
+   ],
+   "question": "What pain does hearing this remove?",
+   "premises": [
+    "death-pain arises from prana severance",
+    "hearing it removes pain immediately",
+    "even deluded ones attain gradually"
+   ],
+   "inference": "therefore hearing removes death-pain and leads to attainment",
+   "uncertainties": [
+    "gradual attainment mechanism unspecified"
+   ],
+   "plain_english": "It immediately removes death-pain born from prana severance; hearing it, even one overcome by great delusion gradually attains."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "prabodhaṃ",
+     "gloss": "awakening",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vaktṛsāṃmukhyamabhyeti",
+     "gloss": "speaker-presence-approaches",
+     "grounds": "compound verb",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "rabhasātsvayam",
+     "gloss": "swiftly-by-itself",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramapadāttvamihāgāḥ",
+     "gloss": "from-supreme-state-you-here-came",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sanātanastvaṃ",
+     "gloss": "eternal-you",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jahīhi",
+     "gloss": "abandon",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "dehāntam",
+     "gloss": "body-end",
+     "grounds": "compound",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What should the eternal self abandon?",
+   "premises": [
+    "awakening and speaker presence approach swiftly",
+    "you came from supreme state",
+    "eternal self should abandon body-end"
+   ],
+   "inference": "therefore abandon bodily limitation and awaken",
+   "uncertainties": [
+    "speaker identity implicit"
+   ],
+   "plain_english": "Awakening, the speaker's presence approaches swiftly by itself; from the supreme state you have come here; eternal you, abandon the body-end."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "pādāṅguṣṭhādi",
+     "gloss": "toe-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibho",
+     "gloss": "lord",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "nibandhanaṃ",
+     "gloss": "binding",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bandhanaṃ",
+     "gloss": "bond",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "hyugram",
+     "gloss": "indeed-fierce",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "āryāvākyamidaṃ",
+     "gloss": "this-noble-statement",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvanākhyaiḥ",
+     "gloss": "by-world-named",
+     "grounds": "compound",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "padairbhavet",
+     "gloss": "by-words-becomes",
+     "grounds": "compound verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How does this noble statement first become?",
+   "premises": [
+    "binding begins from toe etc",
+    "this noble statement is fierce",
+    "it first becomes by world-named words"
+   ],
+   "inference": "therefore the statement is established through named words",
+   "uncertainties": [
+    "world-named words unspecified"
+   ],
+   "plain_english": "From toe etc, lord, binding; indeed fierce bond; this noble statement first becomes by world-named words."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "gulphānte",
+     "gloss": "at-ankle",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jānugataṃ",
+     "gloss": "knee-placed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jatrusthaṃ",
+     "gloss": "collarbone-placed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bandhanaṃ",
+     "gloss": "binding",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meḍhre",
+     "gloss": "at-groin",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jahihi",
+     "gloss": "abandon",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "puramagryamadhyaṃ",
+     "gloss": "foremost-middle-city",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hṛtpadmāttvaṃ",
+     "gloss": "from-heart-lotus-you",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "samuttiṣṭha",
+     "gloss": "arise",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp"
+    }
+   ],
+   "question": "Where are bindings located and what should be abandoned?",
+   "premises": [
+    "bindings are at ankle knee and collarbone",
+    "likewise at groin",
+    "abandon foremost middle city and arise from heart-lotus"
+   ],
+   "inference": "therefore release bodily bindings and rise from heart",
+   "uncertainties": [
+    "city metaphor unspecified"
+   ],
+   "plain_english": "At ankle, knee-placed, collarbone-placed binding; likewise at groin abandon the foremost middle city; from heart-lotus you arise."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "etāvadbhiḥ",
+     "gloss": "by-these-many",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "padairetadāryāvākyaṃ",
+     "gloss": "words-this-noble-statement",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "haṃsa",
+     "gloss": "hamsa",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "hayagrīva",
+     "gloss": "hayagriva",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "vibho",
+     "gloss": "lord",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "sadāśivastvaṃ",
+     "gloss": "sadashiva-you",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paro@si",
+     "gloss": "supreme-are",
+     "grounds": "compound verb",
+     "morph": "2.sg.act.pres"
+    },
+    {
+     "surface": "jīvākhyaḥ",
+     "gloss": "called-jiva",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who is addressed as supreme Sadashiva?",
+   "premises": [
+    "these words make second noble statement",
+    "hamsa hayagriva lord are addressed",
+    "you are supreme sadashiva called jiva"
+   ],
+   "inference": "therefore the addressee is supreme sadashiva",
+   "uncertainties": [
+    "identity of hamsa and hayagriva unclear"
+   ],
+   "plain_english": "By these many words this noble statement is second; Hamsa, Hayagriva, lord, you are supreme Sadashiva, called Jiva."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "ravisomavahnisaṅghadṛbindudeho",
+     "gloss": "sun-moon-fire-group-drop-body",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hahaha",
+     "gloss": "hahaha",
+     "grounds": "exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samutkrāma",
+     "gloss": "transcend",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "tṛtīyamāryāvākyaṃ",
+     "gloss": "third-noble-statement",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāksaṃkhyairekādhikaiḥ",
+     "gloss": "previous-counts-plus-one",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "padaiḥ",
+     "gloss": "by-words",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.n"
+    }
+   ],
+   "question": "What body transcends in third statement?",
+   "premises": [
+    "sun moon fire group drop body is named",
+    "transcend is commanded",
+    "third statement uses previous counts plus one words"
+   ],
+   "inference": "therefore the named body must transcend",
+   "uncertainties": [
+    "drop-body symbolism unclear"
+   ],
+   "plain_english": "Sun-moon-fire-group-drop-body, hahaha, transcend; third noble statement, by previous counts plus one words."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "haṃsamahāmantramayaḥ",
+     "gloss": "hamsa-great-mantra-composed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sanātanastvaṃ",
+     "gloss": "eternal-you",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śubhāśubhāpekṣī",
+     "gloss": "expecting-auspicious-inauspicious",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇḍalamadhyaniviṣṭaḥ",
+     "gloss": "mandala-middle-situated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktimahāsetukāraṇamahārthaḥ",
+     "gloss": "shakti-great-bridge-cause-great-meaning",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the eternal self composed of?",
+   "premises": [
+    "eternal you is composed of hamsa great mantra",
+    "you expect auspicious and inauspicious",
+    "you are situated in mandala middle"
+   ],
+   "inference": "therefore eternal self is mantra-composed and centrally situated",
+   "uncertainties": [
+    "bridge meaning unspecified"
+   ],
+   "plain_english": "Composed of the hamsa great mantra, eternal you; expecting auspicious and inauspicious; situated in the middle of the mandala; cause of the great bridge of shakti, great meaning."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "kamalobhayaviniviṣṭaḥ",
+     "gloss": "both-lotuses-situated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prabodhamāyāhi",
+     "gloss": "come-to-awakening",
+     "grounds": "compound verb",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "devatādeha",
+     "gloss": "divine-body",
+     "grounds": "compound",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "āryāvākyamidaṃ",
+     "gloss": "this-noble-statement",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "along-with",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrasaṃkhyapaderitam",
+     "gloss": "rudra-count-words",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where is one situated and what should be done?",
+   "premises": [
+    "one is situated in both lotuses",
+    "come to awakening",
+    "this noble statement is with rudra-count words"
+   ],
+   "inference": "therefore awaken from both-lotus situated divine body",
+   "uncertainties": [
+    "rudra count unspecified"
+   ],
+   "plain_english": "Situated in both lotuses, come to awakening, divine body; this noble statement along with rudra-count words."
+  }
+ ]
+}

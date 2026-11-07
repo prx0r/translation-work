@@ -1,41 +1,41 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a30",
+ "verse": 65,
  "rows": [
   {
-   "lemma": "prāṇādicchedajā",
-   "morph": "f.acc.sg",
-   "grounds": "gloss 'born-from-breath-cutting' + form ending -āṃ"
+   "lemma": "prāṇādicchedajāṃ",
+   "morph": "compound",
+   "grounds": "compound"
   },
   {
-   "lemma": "mṛtyuvyathā",
-   "morph": "f.acc.sg",
-   "grounds": "gloss 'death-pain' + form ending -āṃ"
+   "lemma": "mṛtyuvyathāṃ",
+   "morph": "acc.sg.f",
+   "grounds": "compound"
   },
   {
-   "lemma": "sadyas",
-   "morph": "indecl.",
-   "grounds": "gloss 'immediately' + indeclinable form"
+   "lemma": "sadyo",
+   "morph": "(indecl.)",
+   "grounds": "adverb"
   },
   {
-   "lemma": "vyapoh",
-   "morph": "3sg.pres.act √apoh",
-   "grounds": "gloss 'dispels' + form vyapohati"
+   "lemma": "vyapohati",
+   "morph": "3.sg.act.pres",
+   "grounds": "verb"
   },
   {
-   "lemma": "yā + ākarṇya",
-   "morph": "f.acc.sg + absol.",
-   "grounds": "gloss 'having-heard-which' + relative pronoun yām and absolutive ākarṇya"
+   "lemma": "yāmākarṇya",
+   "morph": "compound",
+   "grounds": "compound participle"
   },
   {
-   "lemma": "mahāmohavivaśa",
-   "morph": "m.nom.sg (with api indecl.)",
-   "grounds": "gloss 'even-overwhelmed-by-great-delusion' + form mahāmohavivaśo plus api"
+   "lemma": "mahāmohavivaśo@pi",
+   "morph": "compound",
+   "grounds": "compound with particle"
   },
   {
-   "lemma": "gata",
-   "morph": "m.nom.sg (with kramāt indecl.)",
-   "grounds": "gloss 'arrived-by-stages' + participle gataḥ with kramāt"
+   "lemma": "kramādgataḥ",
+   "morph": "compound",
+   "grounds": "compound participle"
   }
  ]
 }

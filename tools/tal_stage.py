@@ -45,7 +45,7 @@ def stage_parse(work, song):
     return json.loads(wt.read_text())
 
 
-def stage_seed_triple(work, song, group=12):
+def stage_seed_triple(work, song, group=24):
     wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
     q = load_q(); have = {t['id'] for t in q}; now = time.strftime('%Y-%m-%dT%H:%M:%S')
     pending_verses = [e['verse'] for e in wt
@@ -190,7 +190,7 @@ def main():
     ap.add_argument('--work', required=True)
     ap.add_argument('--song', required=True)
     ap.add_argument('--seed', action='store_true')
-    ap.add_argument('--triple', action='store_true', help='one beam call per 4 verses')
+    ap.add_argument('--triple', action='store_true', help='one beam call per 24 verses (auto-halves on output ceiling)')
     ap.add_argument('--loop', action='store_true')
     ap.add_argument('--wait', type=int, default=600)
     ap.add_argument('--max-wait', type=int, default=7200)

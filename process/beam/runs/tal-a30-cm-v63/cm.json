@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a30",
+ "verse": 63,
  "rows": [
   {
-   "lemma": "śiva",
-   "morph": "m.nom.sg",
-   "grounds": "gloss śiva + form śivaḥ"
+   "lemma": "śivaḥ",
+   "morph": "nom.sg.m",
+   "grounds": "proper noun"
   },
   {
-   "lemma": "śrī-bhūti-rāja",
-   "morph": "m.nom.sg",
-   "grounds": "gloss śrī-bhūti-king + compound form śrībhūtirājo"
+   "lemma": "śrībhūtirājo",
+   "morph": "nom.sg.m",
+   "grounds": "proper noun"
   },
   {
-   "lemma": "yāma-asmabhyam",
-   "morph": "dative plural",
-   "grounds": "gloss yama-to-us + form yāmasmabhyaṃ; segmentation uncertain"
+   "lemma": "yāmasmabhyaṃ",
+   "morph": "dat.pl",
+   "grounds": "dative pronoun"
   },
   {
    "lemma": "pratyapādayat",
-   "morph": "3sg.aor.act √pād (caus.)",
-   "grounds": "gloss presented + form pratyapādayat; exact root/tense uncertain"
+   "morph": "3.sg.act.impf",
+   "grounds": "causative verb"
   },
   {
-   "lemma": "sarva + eva",
-   "morph": "m.gen.pl + indecl.",
-   "grounds": "gloss of-all-indeed + form sarveṣāmeva"
+   "lemma": "sarveṣāmeva",
+   "morph": "gen.pl.m",
+   "grounds": "genitive plural"
   },
   {
-   "lemma": "bhūta",
-   "morph": "m.gen.pl",
-   "grounds": "gloss of-beings + form bhūtānāṃ"
+   "lemma": "bhūtānāṃ",
+   "morph": "gen.pl.n",
+   "grounds": "genitive plural"
   },
   {
-   "lemma": "maraṇa",
-   "morph": "n.loc.sg",
-   "grounds": "gloss at-death + form maraṇe"
+   "lemma": "maraṇe",
+   "morph": "loc.sg.n",
+   "grounds": "locative singular"
   },
   {
-   "lemma": "samupasthita",
-   "morph": "m/n.loc.sg",
-   "grounds": "gloss when-approached + form samupasthite; gender/voice uncertain"
+   "lemma": "samupasthite",
+   "morph": "loc.sg.n",
+   "grounds": "past participle"
   }
  ]
 }
