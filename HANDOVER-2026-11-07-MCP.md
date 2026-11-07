@@ -75,3 +75,9 @@ All fixes verified: syntax OK (py + bash -n), gates green, MCP handshake 16/16.
 - Harness live: 2-worker policy, PAUSE-file, heartbeat claims, flocked driver, assessor sweep wired into ralph.
 - LOOP.sh model loop running (PROMPT.md + promise gate); iteration 5+ completed, loop restarted once after silent death — needs a watchdog (see below).
 - Open threads: duplicate supervisors respawn (ralph/watchdog/LOOP doubles observed — kill by exact PID, keep newest+working); tal_run_all.sh ×2 (flock prevents third); a05/a30 429-failed groups need quota-window resets.
+
+## Addendum — overnight arming (2026-11-07 ~11:00Z)
+- Caught + fixed a mis-brief: tal-a15 was framed as phonematic emanation (actually a11's topic). Rewrote as samaya initiation (MVT ch8, Trident, 37th/38th tattvas, pledges). Upgraded tal-a28 with full Vol 10 verse map. All 15 fronts briefed; lore verified injected.
+- Seeded 24v triples: a15 (26 groups), a28/a08 (19 each), a13 (16). a09 fell back to per-verse tasks (180v; 16 triple groups failed on content gates, need hand-draft or per-verse beam pass — per-verse seeded).
+- Per-verse fallback seeded across all incomplete songs: 2805 pending. 4 workers drafting (a01 glosses flowing).
+- Harness supervises LOOP.sh model iterations + full stack overnight. STOP: process/beam/LOOP.STOP.
