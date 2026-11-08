@@ -1,56 +1,56 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a28",
+ "verse": 119,
  "rows": [
   {
-   "lemma": "ātman",
-   "morph": "m.gen.sg",
-   "grounds": "ātmanaḥ = of-oneself (m.gen.sg) + ca (indecl.)"
+   "lemma": "ātmanaśca",
+   "morph": "m.gen.sg + (indecl.)",
+   "grounds": "compound: ātmanaḥ + ca"
   },
   {
-   "lemma": "pavitra",
+   "lemma": "pavitraṃ",
    "morph": "n.acc.sg",
-   "grounds": "pavitraṃ = sacred-thread (n.acc.sg)"
+   "grounds": "object to be made"
   },
   {
-   "lemma": "tad",
-   "morph": "n.acc.sg",
-   "grounds": "taṃ = that (n.acc.sg)"
+   "lemma": "taṃ",
+   "morph": "m.acc.sg",
+   "grounds": "refers to the honored serpent-thread symbol"
   },
   {
-   "lemma": "kṛ + yāga-puraḥsara",
-   "morph": "3sg.opt.act √kṛ + compound(n.acc.sg)",
-   "grounds": "kuryāt = one-should-make (3sg.opt.act √kṛ) + yāga-puraḥsaram = preceded-by-worship (bahuvrīhi/avyayībhāva-style compound, n.acc.sg)"
+   "lemma": "kuryādyāgapuraḥsaram",
+   "morph": "3.sg.opt.act √kṛ + n.acc.sg",
+   "grounds": "compound: kuryāt + yāga-puraḥsaram"
   },
   {
-   "lemma": "daśan",
-   "morph": "num.nom.pl",
-   "grounds": "daśa = ten (numeral, nom.pl)"
+   "lemma": "daśa",
+   "morph": "indecl. numeral",
+   "grounds": "number"
   },
   {
-   "lemma": "koṭi",
+   "lemma": "koṭyo",
    "morph": "f.nom.pl",
-   "grounds": "koṭyo = crores (f.nom.pl)"
+   "grounds": "large number"
   },
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "na = not (indeclinable)"
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "pūjā",
+   "lemma": "pūjānāṃ",
    "morph": "f.gen.pl",
-   "grounds": "pūjānāṃ = of-worships (f.gen.pl)"
+   "grounds": "comparison base"
   },
   {
-   "lemma": "pavitrārohaṇa",
+   "lemma": "pavitrārohaṇe",
    "morph": "n.loc.sg",
-   "grounds": "pavitrārohaṇe = in-thread-offering (n.loc.sg, compound: pavitra+ārohaṇa)"
+   "grounds": "compound: pavitra-ārohaṇa"
   },
   {
-   "lemma": "sama",
+   "lemma": "samāḥ",
    "morph": "f.nom.pl",
-   "grounds": "samāḥ = equal (f.nom.pl, agreeing with koṭyaḥ)"
+   "grounds": "comparison"
   }
  ]
 }

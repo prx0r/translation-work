@@ -1,36 +1,36 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a28",
+ "verse": 117,
  "rows": [
   {
-   "lemma": "nāga",
+   "lemma": "nāgaṃ",
    "morph": "m.acc.sg",
-   "grounds": "gloss 'serpent'; accusative singular"
+   "grounds": "object placed"
   },
   {
-   "lemma": "nijajaṭājūṭapīṭhaga",
+   "lemma": "nijajaṭājūṭapīṭhagaṃ",
    "morph": "m.acc.sg",
-   "grounds": "gloss 'placed-on-seat-of-own-matted-hair'; compound (nija+jaṭā+jūṭa+pīṭha+ga), accusative singular"
+   "grounds": "compound: nija-jaṭā-jūṭa-pīṭha-ga"
   },
   {
-   "lemma": "pari-√kḷp",
-   "morph": "3sg.impf.act",
-   "grounds": "gloss 'he-arranged'; imperfect active third person singular"
+   "lemma": "paryakalpayat",
+   "morph": "3.sg.imperf.act √kḷp",
+   "grounds": "main action"
   },
   {
-   "lemma": "tatas",
+   "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "gloss 'then'; indeclinable"
+   "grounds": "sequence"
   },
   {
-   "lemma": "samastadevaughadhārita+adas",
-   "morph": "sandhi(m.inst.pl + m.nom.sg + m.nom.sg)",
-   "grounds": "gloss 'he-was-held-by-all-hosts-of-gods'; sandhi split: samastadevaughaiḥ (m.inst.pl, 'by-all-hosts-of-gods') + dhāritaḥ (m.nom.sg ppp, 'held') + asau (m.nom.sg pron., 'he')"
+   "lemma": "samastadevaughairdhārito@sau",
+   "morph": "m.inst.pl + m.nom.sg + m.nom.sg",
+   "grounds": "compound: samasta-deva-oghaiḥ + dhāritaḥ + asau"
   },
   {
-   "lemma": "svamūrdhan",
-   "morph": "m.loc.pl",
-   "grounds": "gloss 'on-their-own-heads'; locative plural"
+   "lemma": "svamūrdhani",
+   "morph": "m.loc.sg",
+   "grounds": "compound: sva-mūrdhan"
   }
  ]
 }

@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a28",
+ "verse": 110,
  "rows": [
   {
-   "lemma": "yogaparvan",
+   "lemma": "yogaparvaṇi",
    "morph": "n.loc.sg",
-   "grounds": "yogaparvaṇi = on-yoga-occasion (loc.sg. of compound yoga+parvan)"
+   "grounds": "time of rite"
   },
   {
-   "lemma": "kartavya",
-   "morph": "m.nom.sg (gerundive)",
-   "grounds": "kartavyo = to-be-done (nom.sg.m. gerundive of √kṛ)"
+   "lemma": "kartavyo",
+   "morph": "m.nom.sg",
+   "grounds": "obligation"
   },
   {
-   "lemma": "mūrtiyāga",
-   "morph": "m.nom.sg + indecl.",
-   "grounds": "mūrtiyāgastu = body-worship-but (mūrtiyāgaḥ nom.sg.m. of compound mūrti+yāga + tu indecl.)"
+   "lemma": "mūrtiyāgastu",
+   "morph": "m.nom.sg + (indecl.)",
+   "grounds": "compound: mūrti-yāga + tu"
   },
   {
    "lemma": "sarvathā",
-   "morph": "indecl.",
-   "grounds": "sarvathā = in-every-way (indeclinable adverb)"
+   "morph": "(indecl.)",
+   "grounds": "manner"
   },
   {
-   "lemma": "yad",
+   "lemma": "yaḥ",
    "morph": "m.nom.sg",
-   "grounds": "yaḥ = who (nom.sg.m. relative pronoun)"
+   "grounds": "subject of relative clause"
   },
   {
-   "lemma": "sarvayogaparvākhyā",
+   "lemma": "sarvānyogaparvākhyān",
    "morph": "m.acc.pl",
-   "grounds": "sarvānyogaparvākhyān = all-called-yoga-occasions (acc.pl.m. of compound sarva+yoga+parvan+ākhyā; sandhi/surface form)"
+   "grounds": "compound: sarva-yoga-parva-ākhyā"
   },
   {
-   "lemma": "vāsara",
+   "lemma": "vāsarān",
    "morph": "m.acc.pl",
-   "grounds": "vāsarān = days (acc.pl.m.)"
+   "grounds": "object of pūjayet"
   },
   {
-   "lemma": "pūjayet-sudhī",
-   "morph": "3sg.opt.act √pūj + m.nom.sg",
-   "grounds": "pūjayetsudhīḥ = wise-one-should-honor (pūjayet 3sg.opt.act of √pūj + sudhīḥ nom.sg.m. of sudhī)"
+   "lemma": "pūjayetsudhīḥ",
+   "morph": "3.sg.opt.act √pūj + m.nom.sg",
+   "grounds": "compound: pūjayet + sudhī"
   }
  ]
 }

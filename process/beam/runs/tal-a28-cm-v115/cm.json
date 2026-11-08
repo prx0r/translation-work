@@ -1,61 +1,61 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a28",
+ "verse": 115,
  "rows": [
   {
-   "lemma": "kevalam",
-   "morph": "indecl.",
-   "grounds": "gloss: only"
+   "lemma": "kevalaṃ",
+   "morph": "(indecl.)",
+   "grounds": "restriction"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "gloss: but"
+   "morph": "(indecl.)",
+   "grounds": "contrast"
   },
   {
-   "lemma": "pavitra",
+   "lemma": "pavitro@yaṃ",
+   "morph": "m.nom.sg + m.nom.sg",
+   "grounds": "compound: pavitraḥ + ayam"
+  },
+  {
+   "lemma": "vāyubhakṣaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss: this-pure-one; sandhi pavitro 'yam (pavitraḥ + ayam)"
+   "grounds": "compound: vāyu-bhakṣa"
   },
   {
-   "lemma": "vāyubhakṣa",
-   "morph": "m.nom.sg",
-   "grounds": "gloss: wind-eating; compound vāyu+bhakṣa (bahuvrīhi/tatpuruṣa, AMBIGUOUS)"
-  },
-  {
-   "lemma": "samā",
+   "lemma": "samāḥ",
    "morph": "f.acc.pl",
-   "grounds": "gloss: years; duration of time"
+   "grounds": "duration"
   },
   {
-   "lemma": "śata",
+   "lemma": "śatam",
    "morph": "n.acc.sg",
-   "grounds": "gloss: hundred"
+   "grounds": "number of years"
   },
   {
-   "lemma": "divya",
+   "lemma": "divyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "gloss: divine; agrees with śatam"
+   "grounds": "quality of years"
   },
   {
-   "lemma": "daśaguṇa",
+   "lemma": "daśaguṇaṃ",
    "morph": "n.acc.sg",
-   "grounds": "gloss: tenfold; compound daśa+guṇa"
+   "grounds": "compound: daśa-guṇa"
   },
   {
-   "lemma": "nātha",
+   "lemma": "nāthaṃ",
    "morph": "m.acc.sg",
-   "grounds": "gloss: lord"
+   "grounds": "object of worship"
   },
   {
-   "lemma": "bhairava",
+   "lemma": "bhairavaṃ",
    "morph": "m.acc.sg",
-   "grounds": "gloss: bhairava; appositive to nātham"
+   "grounds": "name of the lord"
   },
   {
-   "lemma": "paripūj",
-   "morph": "3sg.impf.act √pūj",
-   "grounds": "gloss: he-worshipped-fully; paryapūjayat"
+   "lemma": "paryapūjayat",
+   "morph": "3.sg.imperf.act √pūj",
+   "grounds": "main action"
   }
  ]
 }

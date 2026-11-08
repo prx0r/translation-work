@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a28",
+ "verse": 120,
  "rows": [
   {
    "lemma": "vṛthā",
-   "morph": "indecl.",
-   "grounds": "gloss: in-vain; indeclinable adverb"
+   "morph": "(indecl.)",
+   "grounds": "negated value"
   },
   {
    "lemma": "dīkṣā",
    "morph": "f.nom.sg",
-   "grounds": "gloss: initiation; nominative singular feminine"
+   "grounds": "religious act"
   },
   {
    "lemma": "vṛthā",
-   "morph": "indecl.",
-   "grounds": "gloss: in-vain; indeclinable adverb"
+   "morph": "(indecl.)",
+   "grounds": "negated value"
   },
   {
-   "lemma": "jñāna",
+   "lemma": "jñānaṃ",
    "morph": "n.nom.sg",
-   "grounds": "gloss: knowledge; nominative singular neuter (jñānam)"
+   "grounds": "religious attainment"
   },
   {
-   "lemma": "gurvārādhana",
-   "morph": "n.nom.sg+indecl.",
-   "grounds": "gloss: guru-worship-even; compound guru+ārādhana with enclitic eva"
+   "lemma": "gurvārādhanameva",
+   "morph": "n.nom.sg + (indecl.)",
+   "grounds": "compound: guru-ārādhana + eva"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "gloss: and; indeclinable conjunction"
+   "morph": "(indecl.)",
+   "grounds": "addition"
   },
   {
    "lemma": "vinā",
-   "morph": "indecl.",
-   "grounds": "gloss: without; indeclinable preposition/postposition"
+   "morph": "(indecl.)",
+   "grounds": "exclusion"
   },
   {
-   "lemma": "pavitrādyenaitaddharennāga",
-   "morph": "compound/verb phrase (AMBIGUOUS)",
-   "grounds": "gloss: without-pavitra-etc-this-serpent-would-take-away; surface appears to contain sandhi/compounding (pavitra-ādi-ena + etat + haret + nāgaḥ); segmentation and exact morphology AMBIGUOUS without further context"
+   "lemma": "pavitrādyenaitaddharennāgaḥ",
+   "morph": "n.inst.sg + n.acc.sg + 3.sg.opt.act √hṛ + m.nom.sg",
+   "grounds": "compound: pavitra-ādyena + etat + haret + nāgaḥ"
   },
   {
-   "lemma": "śivājñā",
+   "lemma": "śivājñayā",
    "morph": "f.inst.sg",
-   "grounds": "gloss: by-shiva-command; instrumental singular feminine of compound śiva+ājñā"
+   "grounds": "compound: śiva-ājñā"
   }
  ]
 }

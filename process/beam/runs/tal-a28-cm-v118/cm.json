@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a28",
+ "verse": 118,
  "rows": [
   {
-   "lemma": "mahat",
+   "lemma": "mahatāṃ",
    "morph": "m.gen.pl",
-   "grounds": "mahatāṃ = of-the-great"
+   "grounds": "possessive relation"
   },
   {
-   "lemma": "mahita",
+   "lemma": "mahitānāṃ",
    "morph": "m.gen.pl",
-   "grounds": "mahitānāṃ = of-the-honored"
+   "grounds": "possessive relation"
   },
   {
    "lemma": "hi",
-   "morph": "indecl.",
-   "grounds": "hi = indeed"
+   "morph": "(indecl.)",
+   "grounds": "emphasis"
   },
   {
-   "lemma": "na-adbhuta",
-   "morph": "n.nom.sg (na+adbhuta)",
-   "grounds": "nādbhuta = not-wonderful"
+   "lemma": "nādbhuta",
+   "morph": "(indecl.) + n.nom.sg",
+   "grounds": "compound: na + adbhuta"
   },
   {
    "lemma": "viśvapūjyatā",
-   "morph": "f.nom.sg (viśva+pūjyatā)",
-   "grounds": "viśvapūjyatā = worldwide-honor"
+   "morph": "f.nom.sg",
+   "grounds": "compound: viśva-pūjyatā"
   },
   {
-   "lemma": "tasmāt-maheśituḥ-mūrdhan",
-   "morph": "indecl.+m.gen.sg+m.loc.sg (sandhi compound)",
-   "grounds": "tasmānmaheśiturmūrdhni = therefore-on-the-head-of-the-great-lord"
+   "lemma": "tasmānmaheśiturmūrdhni",
+   "morph": "(indecl.) + m.gen.sg + m.loc.sg",
+   "grounds": "compound: tasmāt + maheśituḥ + mūrdhni"
   },
   {
-   "lemma": "devatā",
+   "lemma": "devatānāṃ",
    "morph": "f.gen.pl",
-   "grounds": "devatānāṃ = of-the-gods"
+   "grounds": "possessive relation"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "ca = and"
+   "morph": "(indecl.)",
+   "grounds": "addition"
   },
   {
-   "lemma": "sarvaśas",
-   "morph": "indecl.",
-   "grounds": "sarvaśaḥ = in-every-way"
+   "lemma": "sarvaśaḥ",
+   "morph": "(indecl.)",
+   "grounds": "extent"
   }
  ]
 }
