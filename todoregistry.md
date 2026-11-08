@@ -236,3 +236,20 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 
 - #72 tal-a37 (finale; 85u/768tok, 0 forks, proof PASS, qa NEEDS_WITNESS). Argmap sha 1bfeecb1c5a686ce. Pradipaka ch37 + Yogawiki Teil 4 + Dyczkowski Vol 11 lore.
 - REGISTRY 101/71/30. All sweeps CANONICAL. Remaining 30 pending (17 tantraloka + tantrasara none + others).
+
+## Addendum — GOLD #80–83: assessor hand-draft campaign (2026-11-08)
+
+- Beam 429-bound all session; assessor hand-drafted the shortfalls instead of waiting:
+  - #80 tal-a10 (310u, vastupramana; 24 hand ams vv13–36) — plus fixed 4 GRETIL
+    paren-markup tokens (fused readings + history; `deparen` in proof_record +
+    schemas/l2 + is_paratext narrowing; only a10 affected).
+  - #81 tal-a04 (279u, saktopaya; 48 hand ams) — clean PASS, no parens.
+  - #82 tal-a16 (311u, putraka; 60 hand ams + v26 gloss/cm).
+  - #83 tal-a29 (292u, kulayaga; 72 hand ams + 17 cm).
+- Each: assemble → validate 0 → proof PASS (align 1.0) → promote minimal gold
+  (L3/L4 waived per owner 2026-11-08). REGISTRY 101/83/18. Gates green.
+- Loop consolidated: single supervisor systemd tal-campaign → tools/harness.sh
+  (staggered workers w1→w2→w3, cap 3); full-context packets (1M in/384k out).
+- Remaining 7 need beam (quota): a09(180am) → a13(180, +115gloss) → a28(216) →
+  a03(228) → a01(261) → a08(284) → a15(444 Everest). Queue holds 1665 pending
+  gloss + driver seeds triples on healthy passes; assessor reviews on landing.
