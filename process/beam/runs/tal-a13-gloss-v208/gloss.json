@@ -1,36 +1,36 @@
 {
- "song": "tal-a13",
+ "song": "Tantraloka a13",
  "verse": 208,
  "rows": [
   {
    "surface": "kṣobho",
    "gloss": "agitation",
-   "grounds": "subject"
+   "grounds": "kṣubh + -aḥ nom sg masc; L1/L2 empty, so lexical default only; context sense uncertain"
   },
   {
    "surface": "hi",
-   "gloss": "indeed",
-   "grounds": "emphasis"
+   "gloss": "for",
+   "grounds": "indeclinable particle; causal/emphatic hi; L1/L2 empty, so 'for' chosen as default; uncertain"
   },
   {
    "surface": "bheda",
-   "gloss": "division",
-   "grounds": "predicate"
+   "gloss": "difference",
+   "grounds": "bhid + -a nom sg masc; L1/L2 empty, so lexical default 'difference'; context sense uncertain"
   },
   {
    "surface": "evaikyaṃ",
-   "gloss": "oneness-only",
-   "grounds": "subject"
+   "gloss": "indeed-unity",
+   "grounds": "sandhi eva + aikyaṃ; eva emphatic particle, aikya neut nom/acc sg 'oneness'; L1/L2 empty, so sandhi-based gloss only"
   },
   {
    "surface": "praśamastanmayī",
-   "gloss": "calmed-identified-with-that",
-   "grounds": "predicate"
+   "gloss": "tranquility-consisting-of-that",
+   "grounds": "sandhi praśamaḥ + tanmayī; praśama masc nom sg 'tranquility', tanmayī fem nom sg 'consisting of that/absorbed in that'; L1/L2 empty, compound sense uncertain"
   },
   {
    "surface": "tataḥ",
-   "gloss": "then",
-   "grounds": "result"
+   "gloss": "thereafter",
+   "grounds": "tad + -taḥ ablative/adverbial 'from that/then'; L1/L2 empty, so 'thereafter' as default; context sense uncertain"
   }
  ]
 }

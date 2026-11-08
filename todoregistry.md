@@ -282,3 +282,21 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
   get closer assessor review until calibration is proven per model.
 - Docs updated: RUNBOOK §12/§15, MCP.md (DUMB definition, 429 row).
   Supersedes 2026-11-06 beam-free-only hardening by explicit owner order.
+
+## Addendum — GOLD #85 (a13) + free-model cycling live (2026-11-08)
+
+- #85 tal-a13 (362u, saktipata/tirodhana; ~300 hand-drafted layers: vv1-24,
+  85-120, 193-288, 337-360 + tokenization reconciliation for 10 fused-span
+  verses + uncertainties-list schema fix). validate 0, proof PASS (align
+  0.975 — fused compounds, cites 362/362).
+- REGISTRY 101/85/16. Gates green, validate_all 0 failures.
+- Free-model cycling deployed + verified in production: beam-free 429s,
+  deepseek-v4.1-flash serves (triple JSON round-trip clean, gloss drafts
+  flowing: a13 vv206-210). 6 models verified (deepseek/mimo/glm/qwen/kimi/
+  minimax-m3.1); auto-failover with 30m per-model cooldown + usage audit
+  (model_usage.jsonl). Health gate unpaused the loop; 3 workers drafting.
+- Queue-disk reconciliation: 147 stale pending gloss tasks marked done
+  (satisfied from validated hand drafts) to stop worker re-drafting.
+- LOOP.sh stays STOPped until hand-drafting ends (prevents sibling-agent
+  collisions); remove process/beam/LOOP.STOP to resume autonomous review.
+- Remaining 5 need beam (now flowing): a28/a03/a01/a08/a15.
