@@ -199,12 +199,22 @@ a provisional essence from argmap inferences when absent — flagged
 State: `tal-<ahnika>/data/*.json`, `STATUS.json`, `proof/`, REGISTRY entry.
 Campaign log: `process/beam/tal_campaign.log`.
 
-## 12. Model: beam-free, hardcoded
+## 12. Models: beam-free first, free-tier cycling (owner-authorized 2026-11-08)
 
-`tools/beam_client.py` pins `MODEL = 'beam-free'` — deliberately, with no env
-override. Other models fail in this harness (owner directive 2026-11-06).
-If the free tier is unavailable, the correct response is to pause the swarm
-and queue work for the assessor, never to swap the model.
+`tools/beam_client.py` keeps `beam-free` FIRST (all benchmarks were cut
+against it — calibration continuity), then fails over across verified-free
+Go models: `deepseek-v4.1-flash` (384k out) → `mimo-v2.6-flash` →
+`glm-5.3-flash` → `qwen3.8-flash` → `kimi-k3` → `minimax-m3.1-flash`
+(512k out). This supersedes the 2026-11-06 beam-free-only hardening, by
+explicit owner order, after live verification that every fallback returns
+HTTP 200 + well-formed JSON on this box while beam-free 429s.
+
+Mechanics: a model that 429s is parked 30 min in
+`process/beam/model_health.json` (shared, so all workers agree) and the
+call fails over immediately — no more 12-minute sleeps per call. Every
+served call is appended to `process/beam/model_usage.jsonl`
+{ts, session, model} for per-model calibration audit. Untested models are
+NOT trusted for meaning: pydantic gates + assessor review apply equally.
 
 **Maximise context, minimise calls.** beam-free has a 1M context window, so
 the campaign batches 12 verses per call (gloss+CM+argmap+L2 in one pass) and
@@ -255,16 +265,18 @@ Safety properties for an unattended night:
   `tail -30 process/beam/watchdog.log`, `git log --oneline -10`,
   `python3 tools/beam_swarm.py status`, then review any parked/BLOCKED ahnika.
 
-## 15. When beam-free runs out (observed 2026-11-06 15:30 UTC)
+## 15. When beam-free runs out (observed 2026-11-06 15:30 UTC;
+   cycling added 2026-11-08)
 
 Symptom: `{"error":{"type":"rate_limit_error"}}` / HTTP 429 on a trivial
 64-token ping **with zero workers running**. That is account/region tier
 exhaustion, not our concurrency — do not "fix" it by adding workers.
 
-Policy (owner directive): **beam-free only, no model swap.** The watchdog
-probes health before every pass; on failure it logs `PAUSING 30m`, stops
-workers, preserves the queue, and retries every 30 minutes. On recovery it
-logs `RESUMING` and continues exactly where it stopped (everything is
+Policy (owner directive 2026-11-08, supersedes beam-free-only): cycle the
+verified-free models instead of idling. The watchdog probes health before
+every pass; on total failure it logs `PAUSING 30m`, stops workers,
+preserves the queue, and retries every 30 minutes. On recovery it logs
+`RESUMING` and continues exactly where it stopped (everything is
 idempotent).
 
 Queue state is durable (`process/beam/queue.json`, untracked/live) and every

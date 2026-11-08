@@ -24,8 +24,10 @@ acting. On any conflict between this file and the skills, the skills win
 
 ## 1. Concepts
 
-**DUMB (beam drafters, `beam-free`, $0).** Fast, obedient, stateless. One task,
-one session ID, no memory, no tools, no judgment. Allowed: prose drafts,
+**DUMB (beam drafters, free-tier cycling, $0).** Fast, obedient, stateless. One task,
+one session ID, no memory, no tools, no judgment. beam-free first (calibration),
+then verified-free fallbacks (deepseek → mimo → glm → qwen → kimi → minimax);
+a 429ing model is parked 30 min and the call fails over — see RUNBOOK §12. Allowed: prose drafts,
 coverage, span tiling, first-draft reasoning. Forbidden: canon, adjudication,
 witnesses, PASS, signoff, push. When it fails, it fails mechanically (format,
 uniformity, thin premises) — fix the packet (brief, windows, group size),
@@ -277,7 +279,7 @@ anything red → read the error, fix the layer, re-validate (never force)
 
 | Symptom | Cause | Fix |
 |---|---|---|
-| 429 Too Many Requests everywhere | Free-tier quota exhausted — the binding constraint (not workers, not payload; model window is 1M in / 384k out, 24-verse groups fit easily) | Nothing to fix in code. Watchdog pauses 30m; client backs off 180s×attempt. Don't hammer restarts, don't swap models (beam-free hardcoded, owner directive) |
+| 429 Too Many Requests everywhere | Per-model free-tier quota exhausted — the binding constraint (not workers, not payload; model window is 1M in / up to 512k out, 24-verse groups fit easily) | Nothing to fix in code. Client fails over across verified-free models (beam-free → deepseek → mimo → glm → qwen → kimi → minimax), parking 429ers 30m; watchdog pauses 30m only when ALL are down. Don't hammer restarts |
 | Workers exit instantly ("queue empty") | Nothing claimable: drained, or claims fresh-held | `swarm_status`: `claimed>0` + workers 0 → wait for 15-min stale expiry (self-heals). Pending 0 + failed-at-max only → seed more or hand-draft the backlog |
 | `finish=length` / null content | Small `max_tokens` vs hidden reasoning budget | `reasoning_effort: low` + generous budget (per-verse 64k, triple 384k = full model output). Never retry-loop small budgets (mistakes #22) |
 | Uniform 8-blocks / "summary unavailable" | Unbriefed beam doing geometry | Write the lore brief; windows ≤60; variety gate rejects >80% same-length spans (mistakes #21) |
