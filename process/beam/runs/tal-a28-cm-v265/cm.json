@@ -1,56 +1,56 @@
 {
- "song": "tal-a28",
- "verse": 265,
+ "song": "...",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "mṛtāste",
-   "morph": "m.nom.pl + pron.nom.pl",
-   "grounds": "mṛtāḥ (died) + te (they)"
+   "lemma": "mṛta",
+   "morph": "m.nom.pl + 2pl.nom (enclitic)",
+   "grounds": "mṛtāḥ (m.nom.pl, 'they-having-died') + te (2pl.nom enclitic, 'you/they'); sandhi mṛtāḥ te → mṛtās te"
   },
   {
    "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "in that state or place"
+   "morph": "indecl.",
+   "grounds": "tatra ('there')"
   },
   {
-   "lemma": "tadrudrasayuktvaṃ",
-   "morph": "compound + n.acc.sg",
-   "grounds": "tad (that) + rudra (Rudra) + sayuktva (union)"
+   "lemma": "tadrudrasayuktva",
+   "morph": "n.nom.sg (compound: tad+rudra+sayuktva)",
+   "grounds": "tad-rudra-sayuktvam ('union-with-that-Rudra'), tatpuruṣa/bahuvrīhi-type compound, n.nom.sg"
   },
   {
-   "lemma": "yānti",
-   "morph": "3.pl.pres.act √yā",
-   "grounds": "attain, reach"
+   "lemma": "yā",
+   "morph": "3pl.pres.act √yā",
+   "grounds": "yānti ('go-to'), 3pl.pres.act"
   },
   {
-   "lemma": "kovidāḥ",
+   "lemma": "kovida",
    "morph": "m.nom.pl",
-   "grounds": "those who know, the skilled"
+   "grounds": "kovidāḥ ('the-knowers'), m.nom.pl"
   },
   {
-   "lemma": "teṣāṃ",
-   "morph": "pron.gen.pl",
-   "grounds": "of those knowers"
+   "lemma": "tad",
+   "morph": "m.gen.pl",
+   "grounds": "teṣām ('of-them'), m.gen.pl"
   },
   {
-   "lemma": "sayuktvaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "the state of being united"
+   "lemma": "sayuktva",
+   "morph": "n.nom.sg",
+   "grounds": "sayuktvam ('union'), n.nom.sg"
   },
   {
-   "lemma": "yātānāmapi",
-   "morph": "m.gen.pl + (indecl.)",
-   "grounds": "yātānām (gone) + api (even)"
+   "lemma": "yāta",
+   "morph": "m.gen.pl + indecl. (enclitic)",
+   "grounds": "yātānām ('of-those-gone', m.gen.pl past participle of √yā) + api ('even', indecl. enclitic)"
   },
   {
-   "lemma": "saṃskārato",
-   "morph": "m.abl.sg + (indecl.)",
-   "grounds": "due to residual impression"
-  },
-  {
-   "lemma": "nijāt",
+   "lemma": "saṃskāra",
    "morph": "m.abl.sg",
-   "grounds": "from their own particular impression"
+   "grounds": "saṃskārataḥ ('from-latent-impression'), ablative with -tas suffix"
+  },
+  {
+   "lemma": "nija",
+   "morph": "m.abl.sg",
+   "grounds": "nijāt ('from-their-own'), m.abl.sg"
   }
  ]
 }

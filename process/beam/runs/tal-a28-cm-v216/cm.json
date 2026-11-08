@@ -1,51 +1,51 @@
 {
- "song": "tal-a28",
- "verse": 216,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "svakaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "one's own"
-  },
-  {
-   "lemma": "mṛtidinaṃ",
-   "morph": "n.acc.sg, compound = mṛti+dina",
-   "grounds": "death day"
-  },
-  {
-   "lemma": "yattu",
-   "morph": "(indecl.), compound = yat+tu",
-   "grounds": "but that which"
-  },
-  {
-   "lemma": "tadanyeṣāṃ",
-   "morph": "n.nom.sg, compound = tat+anyeṣām",
-   "grounds": "that is for others"
-  },
-  {
-   "lemma": "bhaviṣyati",
-   "morph": "3.sg.future, √bhū",
-   "grounds": "will be"
-  },
-  {
-   "lemma": "naimittikaṃ",
+   "lemma": "svaka",
    "morph": "n.nom.sg",
-   "grounds": "an occasional observance"
+   "grounds": "svakaṃ = one's-own (n.nom.sg)"
   },
   {
-   "lemma": "mṛto",
+   "lemma": "mṛtidina",
+   "morph": "n.nom.sg",
+   "grounds": "mṛtidinaṃ = death-day (n.nom.sg)"
+  },
+  {
+   "lemma": "yad+tu",
+   "morph": "n.nom.sg + indecl.",
+   "grounds": "yattu = but-which (sandhi: yad n.nom.sg + tu indecl.)"
+  },
+  {
+   "lemma": "tad+anya",
+   "morph": "n.nom.sg + m.gen.pl",
+   "grounds": "tadanyeṣāṃ = that-for-others (sandhi: tad n.nom.sg + anyeṣām m.gen.pl)"
+  },
+  {
+   "lemma": "bhū",
+   "morph": "3sg.fut.act √bhū",
+   "grounds": "bhaviṣyati = will-be (3sg.fut.act √bhū)"
+  },
+  {
+   "lemma": "naimittika",
+   "morph": "n.nom.sg",
+   "grounds": "naimittikaṃ = occasional (n.nom.sg)"
+  },
+  {
+   "lemma": "mṛta",
    "morph": "m.nom.sg",
-   "grounds": "the one who has died"
+   "grounds": "mṛto = dead (m.nom.sg, ppp of √mṛ)"
   },
   {
-   "lemma": "yasmācchivābhinnastadā",
-   "morph": "compound = yasmāt+śiva+abhinna+tadā",
-   "grounds": "because at that time he is non-different from Shiva"
+   "lemma": "yasmāt+śiva+abhinna+tadā",
+   "morph": "indecl. + m.stem + m.nom.sg + indecl.",
+   "grounds": "yasmācchivābhinnastadā = because-then-non-different-from-Shiva (sandhi: yasmāt indecl. + śiva + abhinnaḥ m.nom.sg + tadā indecl.)"
   },
   {
-   "lemma": "bhavet",
-   "morph": "3.sg.optative, √bhū",
-   "grounds": "would be"
+   "lemma": "bhū",
+   "morph": "3sg.opt.act √bhū",
+   "grounds": "bhavet = would-be (3sg.opt.act √bhū)"
   }
  ]
 }

@@ -1,51 +1,51 @@
 {
- "song": "tal-a28",
- "verse": 215,
+ "song": "dīkṣādikaśca saṃskāraḥ svātmano yatra cāhni tat bhavejjanmadinaṃ mukhyaṃ jñānasantānajanmataḥ",
+ "verse": 1,
  "rows": [
   {
-   "lemma": "dīkṣādikaśca",
-   "morph": "m.nom.sg, compound = dīkṣā+ādika+ca",
-   "grounds": "and initiation and so forth"
+   "lemma": "dīkṣādika",
+   "morph": "m.nom.sg + ca (indecl.)",
+   "grounds": "Gloss 'and-initiation-and-so-on'; dīkṣā + ādi compound (dvandva/itaretara or bahuvrīhi context) + ca indeclinable conjunction."
   },
   {
-   "lemma": "saṃskāraḥ",
+   "lemma": "saṃskāra",
    "morph": "m.nom.sg",
-   "grounds": "consecratory rite"
+   "grounds": "Gloss 'consecration'; saṃskāraḥ = m. nom. sg. of saṃskāra."
   },
   {
-   "lemma": "svātmano",
-   "morph": "m.gen.sg, compound = sva+ātman",
-   "grounds": "of one's own self"
+   "lemma": "svātman",
+   "morph": "m.gen.sg",
+   "grounds": "Gloss 'of-one's-own-self'; svātmano = gen. sg. of svātman (reflexive possessive compound svā + ātman)."
   },
   {
    "lemma": "yatra",
    "morph": "(indecl.)",
-   "grounds": "on which"
+   "grounds": "Gloss 'on-which'; relative adverb yatra, indeclinable."
   },
   {
-   "lemma": "cāhni",
-   "morph": "n.loc.sg, compound = ca+ahan",
-   "grounds": "and on that day"
+   "lemma": "ca + ahan",
+   "morph": "(indecl.) + n.loc.sg",
+   "grounds": "Gloss 'and-day'; cāhni = ca (indecl., conjunction) + ahan (n. loc. sg. 'ahni', sandhi cā + ahni)."
   },
   {
-   "lemma": "tat",
+   "lemma": "tad",
    "morph": "n.nom.sg",
-   "grounds": "that"
+   "grounds": "Gloss 'that'; tat = n. nom. sg. of pronoun tad."
   },
   {
-   "lemma": "bhavejjanmadinaṃ",
-   "morph": "n.nom.sg, compound = bhavet+janma+dina",
-   "grounds": "would be a birth day"
-  },
-  {
-   "lemma": "mukhyaṃ",
+   "lemma": "janmadina",
    "morph": "n.nom.sg",
-   "grounds": "primary"
+   "grounds": "Gloss 'would-be-birth-day'; bhavet + janmadinam: janmadinaṃ = n. nom./acc. sg. of janmadina (janman + dina compound); bhavej = 3sg.opt.act. of √bhū (AMBIGUOUS: optative 'would-be' inferred from context)."
   },
   {
-   "lemma": "jñānasantānajanmataḥ",
-   "morph": "n.abl.sg, compound = jñāna+santāna+janman",
-   "grounds": "because of birth in the knowledge lineage"
+   "lemma": "mukhya",
+   "morph": "n.nom.sg",
+   "grounds": "Gloss 'primary'; mukhyaṃ = n. nom./acc. sg. of mukhya, agreeing with janmadinaṃ (contextually neuter)."
+  },
+  {
+   "lemma": "jñānasantānajanman",
+   "morph": "n.abl.sg",
+   "grounds": "Gloss 'from-birth-of-knowledge-lineage'; jñānasantānajanmataḥ = abl. sg. of a bahuvrīhi/tatpuruṣa compound jñāna-santāna-janman (jñāna + santāna + janman); ablative case marked by -taḥ. AMBIGUOUS: exact compound membership not fully determinable from form alone."
   }
  ]
 }
