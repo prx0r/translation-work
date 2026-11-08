@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 475,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "kṛtvāsyāṃ",
-   "morph": "kṛtvā (gerund √kṛ) + asyām (f.loc.sg)",
-   "grounds": "prior action"
+   "lemma": "kṛtvā + asyām",
+   "morph": "abs. + f.loc.sg",
+   "grounds": "kṛtvā = absolutive of √kṛ 'having done'; asyām = loc.sg.f. of idam 'on this' (sandhi: kṛtvā + asyām)"
   },
   {
-   "lemma": "śiṣyamāropya",
-   "morph": "śiṣyam (m.acc.sg) + āropya (gerund ā-√ruh caus.)",
-   "grounds": "ritual action"
+   "lemma": "śiṣyam + āropya",
+   "morph": "m.acc.sg + abs.",
+   "grounds": "śiṣyam = acc.sg.m. of śiṣya 'disciple'; āropya = absolutive of ā-√ruh 'having placed'"
   },
   {
-   "lemma": "nyastamantraṃ",
-   "morph": "m.acc.sg",
-   "grounds": "state of disciple"
+   "lemma": "nyastamantra",
+   "morph": "m.acc.sg (bahuvrīhi)",
+   "grounds": "nyasta-mantra = 'with mantras placed' (nyasta, pp. of ni-√as + mantra); acc.sg.m. agreeing with śiṣyam"
   },
   {
    "lemma": "vidhāya",
-   "morph": "gerund vi-√dhā",
-   "grounds": "ritual action"
+   "morph": "abs.",
+   "grounds": "absolutive of vi-√dhā 'having arranged'"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connects actions"
+   "morph": "indecl.",
+   "grounds": "conjunction 'and'"
   },
   {
-   "lemma": "śiṣyahṛccakraviśrāntiṃ",
-   "morph": "f.acc.sg",
-   "grounds": "meditative placement"
+   "lemma": "śiṣyahṛccakraviśrānti",
+   "morph": "f.acc.sg (tatpuruṣa compound)",
+   "grounds": "śiṣya-hṛt-cakra-viśrānti = 'rest in the disciple's heart-wheel' (śiṣya + hṛd + cakra + viśrānti); acc.sg.f."
   },
   {
    "lemma": "kṛtvā",
-   "morph": "gerund √kṛ",
-   "grounds": "ritual action"
+   "morph": "abs.",
+   "grounds": "absolutive of √kṛ 'having made'"
   },
   {
-   "lemma": "taddvādaśāntagaḥ",
-   "morph": "compound: tat-dvādaśa-anta-gaḥ (m.nom.sg)",
-   "grounds": "guru's meditative movement"
+   "lemma": "taddvādaśāntaga",
+   "morph": "m.nom.sg (tatpuruṣa compound)",
+   "grounds": "tad-dvādaśānta-ga = 'going to his twelve-end' (tad + dvādaśānta + ga, from √gam); nom.sg.m."
   }
  ]
 }

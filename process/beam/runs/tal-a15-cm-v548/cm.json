@@ -1,61 +1,61 @@
 {
- "song": "tal-a15",
- "verse": 548,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "tena",
-   "morph": "m.ins.sg",
-   "grounds": "the pleased guru"
+   "lemma": "tad",
+   "morph": "m./n.inst.sg",
+   "grounds": "tena = by-him"
   },
   {
-   "lemma": "tuṣṭena",
-   "morph": "m.ins.sg (past participle)",
-   "grounds": "condition"
+   "lemma": "tuṣṭa",
+   "morph": "m./n.inst.sg",
+   "grounds": "tuṣṭena = being-pleased (ppp √tuṣ)"
   },
   {
-   "lemma": "tṛpyanti",
-   "morph": "3.pl.pres.act √tṛp",
-   "grounds": "result for deities and ancestors"
+   "lemma": "√tṛp",
+   "morph": "3pl.pres.act",
+   "grounds": "tṛpyanti = are-satisfied"
   },
   {
-   "lemma": "devāḥ",
+   "lemma": "deva",
    "morph": "m.nom.pl",
-   "grounds": "beneficiaries"
+   "grounds": "devāḥ = the-gods"
   },
   {
-   "lemma": "pitara",
+   "lemma": "pitṛ",
    "morph": "m.nom.pl",
-   "grounds": "beneficiaries"
+   "grounds": "pitara = the-ancestors (nom.pl variant)"
   },
   {
-   "lemma": "evaca",
-   "morph": "compound",
-   "grounds": "connective"
+   "lemma": "eva ca",
+   "morph": "indecl.",
+   "grounds": "evaca = and-also (eva + ca)"
   },
   {
-   "lemma": "uttīrya",
-   "morph": "(gerund)",
-   "grounds": "escape from hells"
+   "lemma": "ud-√tṛ",
+   "morph": "gerund (indecl.)",
+   "grounds": "uttīrya = having-crossed-over"
   },
   {
-   "lemma": "narakādyānti",
-   "morph": "compound",
-   "grounds": "result for the dead"
+   "lemma": "narakāt yānti",
+   "morph": "naraka:m.abl.sg + √yā:3pl.pres.act",
+   "grounds": "narakādyānti = from-hells-they-go (sandhi of narakāt + yānti)"
   },
   {
-   "lemma": "sadyaḥ",
-   "morph": "(indecl.)",
-   "grounds": "speed of result"
+   "lemma": "sadyas",
+   "morph": "indecl.",
+   "grounds": "sadyaḥ = immediately"
   },
   {
-   "lemma": "śivapuraṃ",
+   "lemma": "śiva-pura",
    "morph": "n.acc.sg",
-   "grounds": "destination"
+   "grounds": "śivapuraṃ = to-shiva's-city (tatpuruṣa compound)"
   },
   {
    "lemma": "mahat",
    "morph": "n.acc.sg",
-   "grounds": "quality of destination"
+   "grounds": "mahat = great"
   }
  ]
 }

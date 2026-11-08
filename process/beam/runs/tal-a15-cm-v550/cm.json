@@ -1,56 +1,56 @@
 {
- "song": "tal-a15",
- "verse": 550,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "bhuñjīta",
-   "morph": "3.sg.opt.mid √bhuj",
-   "grounds": "guru's role in the rite"
+   "lemma": "bhuj",
+   "morph": "3sg.opt.mid √bhuj",
+   "grounds": "bhuñjīta = he-should-eat"
   },
   {
-   "lemma": "sa",
+   "lemma": "tad",
    "morph": "m.nom.sg",
-   "grounds": "the guru"
+   "grounds": "sa = he"
   },
   {
-   "lemma": "svayaṃ",
-   "morph": "(indecl.)",
-   "grounds": "direct participation"
+   "lemma": "svayam",
+   "morph": "indecl.",
+   "grounds": "svayaṃ = himself"
   },
   {
-   "lemma": "cānyānādiśettatkṛte",
-   "morph": "compound",
-   "grounds": "guru's authority in the rite"
+   "lemma": "ca+anya+ā-diś+tat+kṛta",
+   "morph": "compound (indecl.+m.acc.pl+3sg.opt.act √diś+m.nom.sg+n.dat.sg)",
+   "grounds": "cānyānādiśettatkṛte = and-he-should-direct-others-for-that-purpose; sandhi/compound analysis AMBIGUOUS"
   },
   {
-   "lemma": "guruḥ",
+   "lemma": "guru",
    "morph": "m.nom.sg",
-   "grounds": "ritual authority"
+   "grounds": "guruḥ = the-guru"
   },
   {
-   "lemma": "yo",
+   "lemma": "yad",
    "morph": "m.nom.sg",
-   "grounds": "relative subject"
+   "grounds": "yo = who"
   },
   {
-   "lemma": "dīkṣitastu",
-   "morph": "compound",
-   "grounds": "qualified disciple"
+   "lemma": "dīkṣita+tu",
+   "morph": "compound (m.nom.sg+indecl.)",
+   "grounds": "dīkṣitastu = but-initiated"
   },
   {
-   "lemma": "śrāddhādau",
-   "morph": "compound",
-   "grounds": "ritual context"
+   "lemma": "śrāddha+ādi",
+   "morph": "compound (m.loc.sg)",
+   "grounds": "śrāddhādau = in-shraddha-and-so-on"
   },
   {
-   "lemma": "svatantraṃ",
+   "lemma": "svatantra",
    "morph": "m.acc.sg",
-   "grounds": "mode of action"
+   "grounds": "svatantraṃ = independently"
   },
   {
-   "lemma": "vidhimācaret",
-   "morph": "compound",
-   "grounds": "prohibited independent action"
+   "lemma": "vidhi+ā-car",
+   "morph": "3sg.opt.act √car",
+   "grounds": "vidhimācaret = should-perform-the-rite"
   }
  ]
 }

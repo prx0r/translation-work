@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 538,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "naca",
-   "morph": "(indecl.)",
-   "grounds": "prohibition"
+   "lemma": "na-ca",
+   "morph": "indecl.",
+   "grounds": "and-not; compound of negation na + conjunction ca"
   },
   {
-   "lemma": "tāṃ",
+   "lemma": "tad",
    "morph": "f.acc.sg",
-   "grounds": "criticism of the guru"
+   "grounds": "that; accusative singular feminine of tad"
   },
   {
-   "lemma": "śṛṇuyānnainaṃ",
-   "morph": "compound",
-   "grounds": "prohibition"
+   "lemma": "śṛṇuyāt-na-enam",
+   "morph": "3sg.opt.act √śru + indecl. + m.acc.sg",
+   "grounds": "one-should-hear-nor-him; sandhi of śṛṇuyāt (optative) + na + enam (accusative of etad/idam)"
   },
   {
-   "lemma": "kopayennāgrato@sya",
-   "morph": "compound",
-   "grounds": "prohibition"
+   "lemma": "kopayet-na-agratas-asya",
+   "morph": "3sg.opt.act √kup(caus.) + indecl. + indecl. + m.gen.sg",
+   "grounds": "one-should-anger-nor-before-him; sandhi of kopayet (causative optative) + na + agrataḥ + asya (genitive of idam)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "and; conjunction"
   },
   {
-   "lemma": "vinājñayā",
-   "morph": "compound",
-   "grounds": "condition on action"
+   "lemma": "vinā-ājñā",
+   "morph": "indecl. + f.ins.sg",
+   "grounds": "without-permission; vinā governing instrumental + ājñayā (instrumental singular of ājñā)"
   },
   {
    "lemma": "prakurvīta",
-   "morph": "3.sg.opt.mid √kṛ",
-   "grounds": "restricted action"
+   "morph": "3sg.opt.mid √kṛ(pra-)",
+   "grounds": "one-should-do; optative middle of pra-√kṛ"
   },
   {
-   "lemma": "kiṃcittatsevanādṛte",
-   "morph": "compound",
-   "grounds": "exception"
+   "lemma": "kiṃcit-tad-sevana-ādṛte",
+   "morph": "n.acc.sg + n.gen.sg + n.comp. + indecl.",
+   "grounds": "anything-except-his-service; kiṃcit (indefinite pronoun) + tat (genitive, referring to him) + sevana (service, compound member) + ādṛte (indeclinable/absolutive-like, 'except'); compound analysis AMBIGUOUS"
   }
  ]
 }

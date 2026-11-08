@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 545,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "sarvato@vasthitaṃ",
-   "morph": "compound",
-   "grounds": "nature of consciousness"
-  },
-  {
-   "lemma": "cittvaṃ",
+   "lemma": "sarvato'vasthita",
    "morph": "n.nom.sg",
-   "grounds": "ultimate reality"
+   "grounds": "sarvatas + avasthita, compound adj. 'present-everywhere', neuter nominative singular"
   },
   {
-   "lemma": "jñeyasthaṃ",
+   "lemma": "cittva",
    "morph": "n.nom.sg",
-   "grounds": "mode of presence"
+   "grounds": "gloss 'consciousness', neuter nominative singular (AMBIGUOUS: could be cit-tva or a variant form)"
   },
   {
-   "lemma": "yasya",
+   "lemma": "jñeyastha",
+   "morph": "n.nom.sg",
+   "grounds": "jñeya + stha, compound adj. 'abiding-in-the-knowable', neuter nominative singular"
+  },
+  {
+   "lemma": "yad",
    "morph": "m.gen.sg",
-   "grounds": "qualified teacher"
+   "grounds": "relative pronoun yasya 'of-whom', masculine genitive singular"
   },
   {
    "lemma": "tatkathā",
    "morph": "f.nom.sg",
-   "grounds": "means of uplift"
+   "grounds": "tad + kathā, compound 'his-teaching', feminine nominative singular"
   },
   {
-   "lemma": "sadya",
-   "morph": "(indecl.)",
-   "grounds": "speed of effect"
+   "lemma": "sadyas",
+   "morph": "indecl.",
+   "grounds": "adverb sadya/sadyas 'immediately'"
   },
   {
    "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "morph": "indecl.",
+   "grounds": "emphatic particle 'indeed'"
   },
   {
-   "lemma": "nayedūrdhvaṃ",
-   "morph": "compound",
-   "grounds": "effect of teaching"
+   "lemma": "nayati",
+   "morph": "3sg.pres.act √nī",
+   "grounds": "nayed + ūrdhvam, verb 'leads-upward', 3rd singular present active with ūrdhvam"
   },
   {
-   "lemma": "tasmādārādhayedgurum",
-   "morph": "compound",
-   "grounds": "conclusion"
+   "lemma": "tasmād ārādhayet gurum",
+   "morph": "phrase",
+   "grounds": "tasmāt (indecl. 'therefore') + ārādhayet (3sg.opt.act √rādh 'one-should-worship') + gurum (m.acc.sg 'the-guru'); token given as a single unit"
   }
  ]
 }

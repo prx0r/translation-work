@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 535,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "etaddravyaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "ritual property"
+   "lemma": "etaddravya",
+   "morph": "n.nom.sg.n",
+   "grounds": "etaddravyaṃ = this-substance (n.nom/acc.sg.n; nom. in context)"
   },
   {
-   "lemma": "nāpaharedguruvargaṃ",
-   "morph": "compound",
-   "grounds": "prohibition and injunction"
+   "lemma": "na + apahṛ + guruvarga",
+   "morph": "indecl. + 3sg.opt.act √hṛ + m.acc.sg",
+   "grounds": "nāpaharedguruvargaṃ = one-should-not-take-away-and-should-honor-the-guru-group (sandhi: na + apaharet + guruvargam; AMBIGUOUS compound gloss)"
   },
   {
-   "lemma": "prapūjayet",
-   "morph": "3.sg.opt.act √pūj",
-   "grounds": "injunction"
+   "lemma": "prapūjay",
+   "morph": "3sg.opt.act √pūj",
+   "grounds": "prapūjayet = one-should-honor (3sg.opt.act)"
   },
   {
-   "lemma": "sa",
+   "lemma": "tad",
    "morph": "m.nom.sg",
-   "grounds": "the guru"
+   "grounds": "sa = he (m.nom.sg)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "ca = and (indecl.)"
   },
   {
-   "lemma": "tadbhrātṛbhāryātukprāyo",
-   "morph": "compound",
-   "grounds": "social status of the guru group"
+   "lemma": "tadbhrātṛbhāryātukprāya",
+   "morph": "m.nom.sg (bahuvrīhi/tatpuruṣa compound; AMBIGUOUS)",
+   "grounds": "tadbhrātṛbhāryātukprāyo = mostly-like-his-brother-wife-and-children (compound; AMBIGUOUS internal analysis)"
   },
   {
-   "lemma": "vidyākṛto",
-   "morph": "m.nom.sg (past participle compound)",
-   "grounds": "basis of the relation"
+   "lemma": "vidyākṛta",
+   "morph": "m.nom.sg",
+   "grounds": "vidyākṛto = constituted-by-knowledge (m.nom.sg, past participle compound)"
   },
   {
-   "lemma": "bhavet",
-   "morph": "3.sg.opt.act √bhū",
-   "grounds": "normative statement"
+   "lemma": "bhū",
+   "morph": "3sg.opt.act √bhū",
+   "grounds": "bhavet = should-be (3sg.opt.act)"
   }
  ]
 }

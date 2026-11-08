@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 472,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "evaṃ",
-   "morph": "(indecl.)",
-   "grounds": "transition"
+   "lemma": "evam",
+   "morph": "indecl.",
+   "grounds": "gloss 'thus'; indeclinable adverb"
   },
   {
-   "lemma": "prasaṅgānnirṇītaṃ",
-   "morph": "prasaṅgāt (m.abl.sg) + nirṇītam (n.nom.sg past-passive-participle nir-√nī)",
-   "grounds": "completion of digression"
+   "lemma": "prasaṅga-nirṇīta",
+   "morph": "n.nom.sg (compound: prasaṅga+nirṇīta)",
+   "grounds": "gloss 'by-context-determined'; compound with ablative sense in first member (prasaṅgāt) and past passive participle nirṇīta, nominative singular neuter"
   },
   {
-   "lemma": "prakṛtaṃ",
+   "lemma": "prakṛta",
    "morph": "n.nom.sg",
-   "grounds": "main subject"
+   "grounds": "gloss 'the-topic-at-hand'; nominative singular neuter substantive/participle"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "return to main topic"
+   "morph": "indecl.",
+   "grounds": "gloss 'but'; indeclinable particle"
   },
   {
-   "lemma": "nirūpyate",
-   "morph": "3.sg.pres.pass nir-√rūp",
-   "grounds": "resumption of exposition"
+   "lemma": "nirūp",
+   "morph": "3sg.pres.pass √nirūp",
+   "grounds": "gloss 'is-examined'; third person singular present passive"
   },
   {
-   "lemma": "śivahastavidhiṃ",
-   "morph": "m.acc.sg",
-   "grounds": "ritual procedure"
+   "lemma": "śivahastavidhi",
+   "morph": "m.acc.sg (compound: śiva+hasta+vidhi)",
+   "grounds": "gloss 'śiva-hand-rite'; accusative singular masculine compound, object of kṛtvā"
   },
   {
-   "lemma": "kṛtvā",
-   "morph": "gerund √kṛ",
-   "grounds": "prior action"
+   "lemma": "kṛ",
+   "morph": "abs. √kṛ",
+   "grounds": "gloss 'having-performed'; absolutive (gerund)"
   },
   {
-   "lemma": "tena",
-   "morph": "m.inst.sg",
-   "grounds": "instrument"
+   "lemma": "tad",
+   "morph": "m.ins.sg",
+   "grounds": "gloss 'by-that'; instrumental singular masculine pronoun"
   },
   {
-   "lemma": "saṃpluṣṭapāśakam",
-   "morph": "m.acc.sg",
-   "grounds": "resulting state of disciple"
+   "lemma": "saṃpluṣṭapāśaka",
+   "morph": "m.ins.sg (compound: saṃpluṣṭa+pāśaka)",
+   "grounds": "gloss 'with-bonds-burned-away'; instrumental singular masculine bahuvrīhi/tatpuruṣa compound (AMBIGUOUS compound type), agreeing with tena"
   }
  ]
 }

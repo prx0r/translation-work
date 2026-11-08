@@ -1,41 +1,41 @@
 {
- "song": "tal-a15",
- "verse": 514,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "muninā",
-   "morph": "m.ins.sg",
-   "grounds": "authority"
+   "lemma": "muni",
+   "morph": "m.inst.sg",
+   "grounds": "muninā = by-the-sage"
   },
   {
-   "lemma": "mokṣadharmādāvetacca",
-   "morph": "compound",
-   "grounds": "text-reference"
+   "lemma": "mokṣadharmādi",
+   "morph": "m.loc.sg + indecl.",
+   "grounds": "mokṣadharmādau = in-moksha-dharma-etc (loc.sg of compound mokṣadharma-ādi) + etat = this + ca = and"
   },
   {
-   "lemma": "pravivecitam",
-   "morph": "n.nom.sg.past-passive-participle",
-   "grounds": "authority"
+   "lemma": "pravivic",
+   "morph": "n.nom.sg (ppp √vic + pra)",
+   "grounds": "pravivecitam = examined"
   },
   {
-   "lemma": "mukuṭādiṣu",
+   "lemma": "mukuṭādi",
+   "morph": "m.loc.pl",
+   "grounds": "mukuṭādiṣu = in-mukuta-and-others (loc.pl of compound mukuṭa-ādi)"
+  },
+  {
+   "lemma": "śāstra",
    "morph": "n.loc.pl",
-   "grounds": "text-reference"
+   "grounds": "śāstreṣu = in-scriptures"
   },
   {
-   "lemma": "śāstreṣu",
-   "morph": "n.loc.pl",
-   "grounds": "text-reference"
+   "lemma": "deva",
+   "morph": "m.inst.sg + indecl.",
+   "grounds": "devena = by-the-lord + api = also"
   },
   {
-   "lemma": "devenāpi",
-   "morph": "compound",
-   "grounds": "authority"
-  },
-  {
-   "lemma": "nirūpitam",
-   "morph": "n.nom.sg.past-passive-participle",
-   "grounds": "authority"
+   "lemma": "nirūp",
+   "morph": "n.nom.sg (ppp √rūp + nis)",
+   "grounds": "nirūpitam = ascertained"
   }
  ]
 }

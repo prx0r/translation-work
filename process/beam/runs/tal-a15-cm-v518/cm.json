@@ -1,41 +1,41 @@
 {
- "song": "tal-a15",
- "verse": 518,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "pāśavāni",
-   "morph": "n.nom.pl",
-   "grounds": "subject"
+   "lemma": "pāśava",
+   "morph": "n.nom.pl.nt",
+   "grounds": "pāśavāni = the pāśava-scriptures (nom/acc pl nt adj/subst)"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "contrast"
+   "morph": "indecl.",
+   "grounds": "tu = but"
   },
   {
-   "lemma": "śāstrāṇi",
-   "morph": "n.nom.pl",
-   "grounds": "subject noun"
+   "lemma": "śāstra",
+   "morph": "n.nom.pl.nt",
+   "grounds": "śāstrāṇi = scriptures (nom/acc pl nt)"
   },
   {
    "lemma": "vāmaśaktyātmakānyalam",
    "morph": "compound",
-   "grounds": "characterization"
+   "grounds": "vāma-śakti-ātmaka + alam; vāmaśaktyātmakāni (n.nom.pl.nt, fully of-the-nature of-vāma-śakti) + alam (indecl., fully)"
   },
   {
    "lemma": "sṛṣṭyāṃcisiddhaye",
-   "morph": "compound",
-   "grounds": "purpose"
+   "morph": "compound+sandhi",
+   "grounds": "sṛṣṭyām (f.loc.sg, in-creation) + ca (indecl., and) + siddhaye (f.dat.sg, for-accomplishment)"
   },
   {
-   "lemma": "śaṃbhoḥ",
+   "lemma": "śambhu",
    "morph": "m.gen.sg",
-   "grounds": "divine reference"
+   "grounds": "śaṃbhoḥ = of-Śambhu"
   },
   {
    "lemma": "śaṅkātatphalakḷptaye",
    "morph": "compound",
-   "grounds": "purpose"
+   "grounds": "śaṅkā-tat-phala-kḷpti; śaṅkā (f., fear) + tat (pron., and/that) + phala-kḷptaye (f.dat.sg, for-fruit-arrangement)"
   }
  ]
 }

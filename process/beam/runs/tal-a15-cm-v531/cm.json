@@ -1,36 +1,36 @@
 {
- "song": "tal-a15",
- "verse": 531,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "rājñaścānucarānpāpānvighnakartṝṃśca",
-   "morph": "compound",
-   "grounds": "targets of delusion"
+   "lemma": "rājan + ca + anucara + pāpa + ca + vighnakartṛ + ca",
+   "morph": "compound/sandhi chain: rājan(m.gen.sg)+indecl.+anucara(m.acc.pl)+pāpa(m.acc.pl)+indecl.+vighnakartṛ(m.acc.pl)+indecl.",
+   "grounds": "gloss 'and-the-king's-attendants-evil-and-obstacle-makers'; rājñaḥ=gen.sg of rājan, anucarān/pāpān/vighnakartṝn=acc.pl, ca particles joined by sandhi"
   },
   {
-   "lemma": "mohayet",
-   "morph": "3.sg.opt.caus.act √muh",
-   "grounds": "injunction"
+   "lemma": "mohay",
+   "morph": "3sg.opt.act √muh (caus.)",
+   "grounds": "gloss 'one-should-delude'; optative form mohayet"
   },
   {
-   "lemma": "śākinyaḥ",
+   "lemma": "śākinī",
    "morph": "f.nom.pl",
-   "grounds": "beings to be worshipped"
+   "grounds": "gloss 'the-shakinis'; nominative plural"
   },
   {
-   "lemma": "pūjanīyāśca",
-   "morph": "f.nom.pl (gerundive)",
-   "grounds": "injunction"
+   "lemma": "pūjanīya + ca",
+   "morph": "pūjanīya(f.nom.pl)+indecl.",
+   "grounds": "gloss 'and-to-be-worshipped'; gerundive pūjanīyāḥ with ca"
   },
   {
-   "lemma": "tāścetthaṃ",
-   "morph": "compound",
-   "grounds": "reference to scriptural description"
+   "lemma": "tad + ca + ittham",
+   "morph": "tad(f.nom.pl)+indecl.+indecl.",
+   "grounds": "gloss 'and-they-thus'; tāḥ=nom.pl.f of tad, ca, ittham joined by sandhi"
   },
   {
-   "lemma": "śrīgamoditāḥ",
-   "morph": "f.nom.pl (past participle)",
-   "grounds": "scriptural authority"
+   "lemma": "śrī + āgama + udita",
+   "morph": "compound: śrī(f.)+āgama(m.)+udita(f.nom.pl, ppp √vad/ud?)",
+   "grounds": "gloss 'declared-in-the-revered-scripture'; śrī-āgama compound with uditāḥ (nom.pl.f ppp); root of udita AMBIGUOUS (√vad with ud, or treated as udita)"
   }
  ]
 }

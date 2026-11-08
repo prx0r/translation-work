@@ -1,41 +1,41 @@
 {
- "song": "tal-a15",
- "verse": 509,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "dvijo",
+   "lemma": "dvija",
    "morph": "m.nom.sg",
-   "grounds": "person"
+   "grounds": "dvijo = twice-born (m.nom.sg)"
   },
   {
-   "lemma": "bhavettato",
-   "morph": "compound",
-   "grounds": "result"
+   "lemma": "bhū + tatas",
+   "morph": "3sg.opt.act √bhū + indecl.",
+   "grounds": "bhavettato = becomes-then (bhavet 3sg.opt.act √bhū + tato indecl.; sandhi)"
   },
   {
-   "lemma": "yogyo",
+   "lemma": "yogya",
    "morph": "m.nom.sg",
-   "grounds": "qualification"
+   "grounds": "yogyo = fit (m.nom.sg)"
   },
   {
-   "lemma": "rudrāṃśāpādanāya",
-   "morph": "n.dat.sg",
-   "grounds": "goal"
+   "lemma": "rudrāṃśāpādana",
+   "morph": "n.dat.sg (rudra+aṃśa+āpādana)",
+   "grounds": "rudrāṃśāpādanāya = for-attaining-rudra-share (compound, n.dat.sg)"
   },
   {
-   "lemma": "saḥ",
+   "lemma": "tad",
    "morph": "m.nom.sg",
-   "grounds": "person"
+   "grounds": "saḥ = he (m.nom.sg pronoun)"
   },
   {
-   "lemma": "etānprāṇakrameṇaiva",
-   "morph": "compound",
-   "grounds": "method"
+   "lemma": "etad + prāṇakrama + eva",
+   "morph": "m.acc.pl + m.ins.sg (prāṇa+krama) + indecl.",
+   "grounds": "etānprāṇakrameṇaiva = these-by-breath-sequence-alone (etān m.acc.pl + prāṇakrameṇa m.ins.sg compound + eva indecl.; sandhi)"
   },
   {
-   "lemma": "saṃskārānyojayedguruḥ",
-   "morph": "compound",
-   "grounds": "instruction"
+   "lemma": "saṃskāra + yojay + guru",
+   "morph": "m.acc.pl + 3sg.opt.act caus. √yuj + m.nom.sg",
+   "grounds": "saṃskārānyojayedguruḥ = guru-should-apply-consecrations (saṃskārān m.acc.pl + yojayet 3sg.opt.act caus. √yuj + guruḥ m.nom.sg; sandhi)"
   }
  ]
 }

@@ -1,36 +1,36 @@
 {
- "song": "tal-a15",
- "verse": 521,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "samayyadhikṛto@nyatra",
-   "morph": "compound",
-   "grounds": "qualified agent"
+   "lemma": "samayin-adhikṛta + anyatra",
+   "morph": "m.nom.sg + indecl.",
+   "grounds": "samayyadhikṛto@nyatra = samayi-adhikṛtaḥ (authorized as samaya-initiate, m.nom.sg ppp) + anyatra (elsewhere, indecl.); sandhi split"
   },
   {
-   "lemma": "guruṇā",
+   "lemma": "guru",
    "morph": "m.inst.sg",
-   "grounds": "agent"
+   "grounds": "guruṇā = by-the-guru (m.inst.sg)"
   },
   {
-   "lemma": "vibhumarcayet",
-   "morph": "3.sg.opt act arc",
-   "grounds": "injunction"
+   "lemma": "vibhu + arc",
+   "morph": "m.acc.sg + 3sg.opt.act √arc",
+   "grounds": "vibhumarcayet = vibhum (the-Lord, m.acc.sg) + arcayet (should-worship, 3sg.opt.act √arc); sandhi split"
   },
   {
-   "lemma": "tamāpāditarudrāṃśaṃ",
-   "morph": "compound",
-   "grounds": "recipient of instruction"
+   "lemma": "tad + āpādita-rudrāṃśa",
+   "morph": "m.acc.sg + m.acc.sg",
+   "grounds": "tamāpāditarudrāṃśaṃ = tam (him, m.acc.sg pron.) + āpādita-rudrāṃśam (given-a Rudra-share, m.acc.sg compound)"
   },
   {
-   "lemma": "samayān",
+   "lemma": "samaya",
    "morph": "m.acc.pl",
-   "grounds": "content taught"
+   "grounds": "samayān = the samaya-pledges (m.acc.pl)"
   },
   {
-   "lemma": "śrāvayedguruḥ",
-   "morph": "compound",
-   "grounds": "injunction"
+   "lemma": "śru + guru",
+   "morph": "3sg.opt.act.caus √śru + m.nom.sg",
+   "grounds": "śrāvayedguruḥ = śrāvayet (should-make-hear, 3sg.opt.act caus. √śru) + guruḥ (the-guru, m.nom.sg); sandhi split"
   }
  ]
 }

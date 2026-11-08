@@ -1,41 +1,41 @@
 {
- "song": "tal-a15",
- "verse": 540,
+ "song": "...",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "nopabhuñjīta",
-   "morph": "3.sg.opt.mid √bhuj",
-   "grounds": "prohibition"
+   "lemma": "na-upa-√bhuj",
+   "morph": "3sg.opt.mid √bhuj (negated)",
+   "grounds": "nopabhuñjīta = one-should-not-use"
   },
   {
-   "lemma": "tatpadbhyāṃ",
-   "morph": "compound",
-   "grounds": "prohibited contact"
+   "lemma": "tad-pada",
+   "morph": "n.inst.du",
+   "grounds": "tatpadbhyāṃ = with-his-feet"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not"
   },
   {
-   "lemma": "spṛśetkiṃtu",
-   "morph": "compound",
-   "grounds": "prohibition and correction"
+   "lemma": "spṛś-kiṃtu",
+   "morph": "3sg.opt.act √spṛś + indecl. (compound/sandhi)",
+   "grounds": "spṛśetkiṃtu = one-should-touch-but-rather (AMBIGUOUS: sandhi of spṛśet + kiṃtu)"
   },
   {
-   "lemma": "vandayet",
-   "morph": "3.sg.opt.caus.act √vand",
-   "grounds": "injunction"
+   "lemma": "√vand",
+   "morph": "3sg.opt.act √vand",
+   "grounds": "vandayet = one-should-honor"
   },
   {
-   "lemma": "śrīmattraiśirase@pyuktaṃ",
-   "morph": "compound",
-   "grounds": "scriptural authority"
+   "lemma": "śrīmat-traiśirasa-api-ukta",
+   "morph": "n.nom.sg (past pple compound)",
+   "grounds": "śrīmattraiśirase@pyuktaṃ = also-stated-in-the-revered-traishirasa (AMBIGUOUS: sandhi/compound analysis)"
   },
   {
-   "lemma": "kṛcchracāndrāyaṇādibhiḥ",
-   "morph": "compound",
-   "grounds": "atonement measures"
+   "lemma": "kṛcchra-cāndrāyaṇa-ādi",
+   "morph": "m.inst.pl (compound)",
+   "grounds": "kṛcchracāndrāyaṇādibhiḥ = by-krcchra-candrayana-and-other-expiations"
   }
  ]
 }

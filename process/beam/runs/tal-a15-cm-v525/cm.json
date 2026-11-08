@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 525,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "garvaṃ",
+   "lemma": "garva",
    "morph": "m.acc.sg",
-   "grounds": "prohibited attitude"
+   "grounds": "garvaṃ = pride (accusative singular)"
   },
   {
-   "lemma": "dambhaṃ",
+   "lemma": "dambha",
    "morph": "m.acc.sg",
-   "grounds": "prohibited attitude"
+   "grounds": "dambhaṃ = hypocrisy (accusative singular)"
   },
   {
-   "lemma": "bhūtaviṣavyādhitantraṃ",
-   "morph": "compound",
-   "grounds": "prohibited practice"
+   "lemma": "bhūtaviṣavyādhitantra",
+   "morph": "n.acc.sg (compound: bhūta+viṣa+vyādhi+tantra)",
+   "grounds": "bhūtaviṣavyādhitantraṃ = rites for-spirits poison and-disease (accusative singular neuter compound)"
   },
   {
-   "lemma": "nacācaret",
-   "morph": "3.sg.opt act car",
-   "grounds": "injunction"
+   "lemma": "na ācar",
+   "morph": "3sg.opt.act √car (with indecl. na)",
+   "grounds": "nacācaret = one-should-not-practice (na + ācaret, optative)"
   },
   {
-   "lemma": "svaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "object to protect"
+   "lemma": "sva",
+   "morph": "m/n.acc.sg (AMBIGUOUS)",
+   "grounds": "svaṃ = one's-own (accusative singular; gender ambiguous without broader context)"
   },
   {
-   "lemma": "mantramakṣasūtraṃ",
-   "morph": "compound",
-   "grounds": "object to protect"
+   "lemma": "mantrākṣasūtra",
+   "morph": "n.acc.sg (compound: mantra+akṣasūtra)",
+   "grounds": "mantramakṣasūtraṃ = mantra and-rosary (accusative singular neuter compound)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connector"
+   "morph": "indecl.",
+   "grounds": "ca = and (indeclinable conjunction)"
   },
   {
-   "lemma": "vidyāṃ",
+   "lemma": "vidyā",
    "morph": "f.acc.sg",
-   "grounds": "object to protect"
+   "grounds": "vidyāṃ = knowledge (accusative singular feminine)"
   },
   {
-   "lemma": "jñānasvarūpakam",
-   "morph": "compound",
-   "grounds": "qualification"
+   "lemma": "jñānasvarūpaka",
+   "morph": "f.acc.sg (compound: jñāna+svarūpaka)",
+   "grounds": "jñānasvarūpakam = having-the-form of-knowledge (accusative singular feminine, agreeing with vidyāṃ)"
   }
  ]
 }

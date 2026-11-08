@@ -1,36 +1,36 @@
 {
- "song": "tal-a15",
- "verse": 471,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
    "lemma": "etattantre",
-   "morph": "n.loc.sg",
-   "grounds": "scriptural domain"
+   "morph": "loc.sg.nt (compound: etad+tantra)",
+   "grounds": "etattantre = in-this-tantra"
   },
   {
-   "lemma": "samayyādikramādāptottarakriyaḥ",
-   "morph": "compound: samayī-ādi-kramāt-āpta-uttara-kriyaḥ (m.nom.sg)",
-   "grounds": "qualification"
+   "lemma": "samayyādikramādāptottarakriya",
+   "morph": "nom.sg.m (compound: samaya+ādi+krama+āpta+uttara+kriyā)",
+   "grounds": "samayyādikramādāptottarakriyaḥ = by-samaya-and-other-order-having-obtained-higher-rites"
   },
   {
-   "lemma": "ācāryo",
-   "morph": "m.nom.sg",
-   "grounds": "authorized office"
+   "lemma": "ācārya",
+   "morph": "nom.sg.m",
+   "grounds": "ācāryo = teacher"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not"
   },
   {
-   "lemma": "punarbauddhavaiṣṇavādiḥ",
-   "morph": "punaḥ (indecl.) + bauddha-vaiṣṇava-ādiḥ (m.nom.sg)",
-   "grounds": "excluded persons"
+   "lemma": "punarbauddhavaiṣṇavādi",
+   "morph": "nom.sg.m (compound: punar+bauddha+vaiṣṇava+ādi)",
+   "grounds": "punarbauddhavaiṣṇavādiḥ = again-buddhist-vaiṣṇava-and-so-on"
   },
   {
    "lemma": "kadācana",
-   "morph": "(indecl.)",
-   "grounds": "absolute restriction"
+   "morph": "indecl.",
+   "grounds": "kadācana = ever"
   }
  ]
 }

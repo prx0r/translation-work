@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 480,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "svapnaṃ",
+   "lemma": "svapna",
    "morph": "m.acc.sg",
-   "grounds": "object of vision"
+   "grounds": "svapnaṃ = dream (accusative singular)"
   },
   {
-   "lemma": "bhāviśubhānyatvasphuṭībhāvanakovidam",
-   "morph": "compound: bhāvi-śubha-anyatva-sphuṭībhāvana-kovidam (m.acc.sg)",
-   "grounds": "quality of dream"
+   "lemma": "bhāviśubhānyatvasphuṭībhāvanakovida",
+   "morph": "m.acc.sg",
+   "grounds": "bhāviśubhānyatvasphuṭībhāvanakovidam = skilled-in-making-clear-future-good-and-other (compound adjective, accusative singular)"
   },
   {
-   "lemma": "uktaṃ",
-   "morph": "n.nom.sg past-passive-participle √vac",
-   "grounds": "scriptural authority"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connects statements"
-  },
-  {
-   "lemma": "pūrṇāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "object of meditation"
+   "lemma": "vac",
+   "morph": "n.nom.sg.ppp (√vac)",
+   "grounds": "uktaṃ = stated (past passive participle, neuter nominative singular)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connects objects"
+   "morph": "indecl.",
+   "grounds": "ca = and (indeclinable conjunction)"
   },
   {
-   "lemma": "kṛśāṃ",
+   "lemma": "pūrṇa",
    "morph": "f.acc.sg",
-   "grounds": "object of meditation"
+   "grounds": "pūrṇāṃ = full (accusative singular feminine)"
   },
   {
-   "lemma": "dhyātvā",
-   "morph": "gerund √dhyai",
-   "grounds": "prior action"
+   "lemma": "ca",
+   "morph": "indecl.",
+   "grounds": "ca = and (indeclinable conjunction)"
   },
   {
-   "lemma": "dvādaśagocare",
+   "lemma": "kṛśa",
+   "morph": "f.acc.sg",
+   "grounds": "kṛśāṃ = thin (accusative singular feminine)"
+  },
+  {
+   "lemma": "dhyai",
+   "morph": "abs (√dhyai)",
+   "grounds": "dhyātvā = having-meditated (absolutive/gerund)"
+  },
+  {
+   "lemma": "dvādaśagocara",
    "morph": "m.loc.sg",
-   "grounds": "locus of meditation"
+   "grounds": "dvādaśagocare = in-twelve-domain (compound, locative singular)"
   }
  ]
 }

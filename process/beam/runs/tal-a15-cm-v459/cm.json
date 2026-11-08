@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 459,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "dattena",
-   "morph": "m.inst.sg past-passive-participle √dā",
-   "grounds": "describes the hand"
-  },
-  {
-   "lemma": "śivahastena",
+   "lemma": "datta",
    "morph": "m.inst.sg",
-   "grounds": "instrument of initiation"
+   "grounds": "dattena = by-given (past participle of √dā, instrumental singular)"
   },
   {
-   "lemma": "samayī",
+   "lemma": "śivahasta",
+   "morph": "m.inst.sg",
+   "grounds": "śivahastena = by-śiva-hand (compound śiva+hasta, instrumental singular)"
+  },
+  {
+   "lemma": "samayin",
    "morph": "m.nom.sg",
-   "grounds": "resulting status"
+   "grounds": "samayī = samaya-initiate (nominative singular)"
   },
   {
-   "lemma": "sa",
+   "lemma": "tad",
    "morph": "m.nom.sg",
-   "grounds": "the disciple"
+   "grounds": "sa = he (demonstrative pronoun, nominative singular masculine)"
   },
   {
-   "lemma": "vidhīyate",
-   "morph": "3.sg.pres.pass √dhā",
-   "grounds": "ritual result"
+   "lemma": "vidhī",
+   "morph": "3sg.pres.pass √dhā",
+   "grounds": "vidhīyate = is-made (passive present, 3rd person singular, with vi- prefix)"
   },
   {
-   "lemma": "sāyujyamīśvare",
-   "morph": "sāyujyam (n.nom.sg) + īśvare (m.loc.sg)",
-   "grounds": "future attainment"
+   "lemma": "sāyujya-īśvara",
+   "morph": "n.loc.sg (compound)",
+   "grounds": "sāyujyamīśvare = union-in-īśvara (compound sāyujya+īśvara, locative singular)"
   },
   {
-   "lemma": "tattve",
+   "lemma": "tattva",
    "morph": "n.loc.sg",
-   "grounds": "locus of union"
+   "grounds": "tattve = in-level (locative singular neuter)"
   },
   {
-   "lemma": "jīvato@dhītiyogyatā",
-   "morph": "jīvataḥ (m.gen.sg pres.participle √jīv) + adhīti-yogyatā (f.nom.sg)",
-   "grounds": "present attainment"
+   "lemma": "jīvat-adhīti-yogyatā",
+   "morph": "f.nom.sg (compound)",
+   "grounds": "jīvato@dhītiyogyatā = while-living-knowledge-fitness (compound of jīvat [pres. part. √jīv, gen.sg] + adhīti + yogyatā, nominative singular feminine)"
   }
  ]
 }

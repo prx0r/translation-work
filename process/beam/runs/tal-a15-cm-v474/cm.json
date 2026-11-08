@@ -1,36 +1,36 @@
 {
- "song": "tal-a15",
- "verse": 474,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "praṇāmaṃ",
+   "lemma": "praṇāma",
    "morph": "m.acc.sg",
-   "grounds": "ritual action"
+   "grounds": "praṇāmaṃ = prostration (accusative singular)"
   },
   {
-   "lemma": "kārayetpaścādbhūtamātṛbaliṃ",
-   "morph": "kārayet (3.sg.opt.caus.act √kṛ) + paścāt (indecl.) + bhūta-mātṛ-balim (m.acc.sg)",
-   "grounds": "ritual action"
+   "lemma": "kārayet-paścāt-bhūtamātṛ-bali",
+   "morph": "compound (caus.opt.+indecl.+tatpuruṣa-compound, m.acc.sg)",
+   "grounds": "kārayetpaścādbhūtamātṛbaliṃ = should-cause-afterward-being-mother-offering; sandhi/compound of kārayet (3sg.opt.act.caus √kṛ), paścāt (indecl.), bhūtamātṛbaliṃ (m.acc.sg tatpuruṣa compound: bhūta-mātṛ-bali)"
   },
   {
-   "lemma": "kṣipet",
-   "morph": "3.sg.opt.act √kṣip",
-   "grounds": "ritual action"
+   "lemma": "kṣip",
+   "morph": "3sg.opt.act √kṣip",
+   "grounds": "kṣipet = should-cast (optative active)"
   },
   {
-   "lemma": "tataḥ",
-   "morph": "(indecl.)",
-   "grounds": "sequence"
+   "lemma": "tatas",
+   "morph": "indecl.",
+   "grounds": "tataḥ = then (indeclinable)"
   },
   {
-   "lemma": "śaṃkaramabhyarcya",
-   "morph": "śaṃkaram (m.acc.sg) + abhyarcya (gerund abhi-√arc)",
-   "grounds": "prior action"
+   "lemma": "śaṃkara-abhyarc",
+   "morph": "abs. (gerund) √arc with abhi, governing śaṃkaram (m.acc.sg)",
+   "grounds": "śaṃkaramabhyarcya = having-worshipped-śaṃkara; compound of śaṃkaram (m.acc.sg) + abhyarcya (absolutive of abhi-√arc)"
   },
   {
-   "lemma": "śayyāmastrābhimantritām",
-   "morph": "śayyām (f.acc.sg) + astra-abhimantritām (f.acc.sg)",
-   "grounds": "prepared object"
+   "lemma": "śayyā-astra-abhimantrita",
+   "morph": "f.acc.sg (bahuvrīhi/tatpuruṣa participial compound)",
+   "grounds": "śayyāmastrābhimantritām = bed-consecrated-by-weapon-mantra; śayyām (f.acc.sg) + astrābhimantritām (f.acc.sg, past passive participle abhi-√mantr compounded with astra)"
   }
  ]
 }

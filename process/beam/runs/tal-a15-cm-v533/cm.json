@@ -1,56 +1,56 @@
 {
- "song": "tal-a15",
- "verse": 533,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "kulāmnāyasthitā",
-   "morph": "m.nom.pl (past participle compound)",
-   "grounds": "qualified practitioners"
-  },
-  {
-   "lemma": "vīradravyabāhyāstu",
-   "morph": "compound",
-   "grounds": "excluded practitioners"
-  },
-  {
-   "lemma": "ye",
+   "lemma": "kulāmnāyasthita",
    "morph": "m.nom.pl",
-   "grounds": "relative subject"
+   "grounds": "kulāmnāyasthitā = those-established-in-the-kula-tradition; past participle compound (kula-āmnāya-sthita, √sthā)"
+  },
+  {
+   "lemma": "vīradravyabāhya",
+   "morph": "m.nom.pl",
+   "grounds": "vīradravyabāhyāstu = but-outside-the-heroic-substances; compound (vīra-dravya-bāhya) + tu (indecl.)"
+  },
+  {
+   "lemma": "yad",
+   "morph": "m.nom.pl",
+   "grounds": "ye = who; relative pronoun"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not; negation particle"
   },
   {
-   "lemma": "taiḥ",
-   "morph": "m.ins.pl",
-   "grounds": "excluded associates"
+   "lemma": "tad",
+   "morph": "m.inst.pl",
+   "grounds": "taiḥ = with-them; demonstrative pronoun"
   },
   {
-   "lemma": "paśubhiḥ",
-   "morph": "m.ins.pl",
-   "grounds": "excluded associates"
+   "lemma": "paśu",
+   "morph": "m.inst.pl",
+   "grounds": "paśubhiḥ = with-the-bound-ones; instrumental plural"
   },
   {
    "lemma": "saha",
-   "morph": "(indecl.)",
-   "grounds": "association"
+   "morph": "indecl.",
+   "grounds": "saha = together; postposition/indeclinable"
   },
   {
-   "lemma": "vastavyamiti",
-   "morph": "compound",
-   "grounds": "prohibition"
+   "lemma": "vastavya+iti",
+   "morph": "gerundive.n.nom.sg + indecl.",
+   "grounds": "vastavyamiti = one-should-not-dwell-thus; vastavyam (gerundive, √vas) + iti (indecl.)"
   },
   {
-   "lemma": "śrīmādhave",
-   "morph": "compound",
-   "grounds": "scriptural source"
+   "lemma": "śrīmādhava",
+   "morph": "m.loc.sg",
+   "grounds": "śrīmādhave = in-the-revered-madhava; locative singular, compound/title (śrī-mādhava)"
   },
   {
-   "lemma": "kule",
+   "lemma": "kula",
    "morph": "n.loc.sg",
-   "grounds": "scriptural source"
+   "grounds": "kule = in-the-kula-text; locative singular"
   }
  ]
 }

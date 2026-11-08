@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 512,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "tena",
-   "morph": "n.ins.sg",
-   "grounds": "consequence"
+   "lemma": "tad",
+   "morph": "m./n.inst.sg",
+   "grounds": "tena = therefore (inst.sg of tad)"
   },
   {
-   "lemma": "rudratayā",
-   "morph": "f.ins.sg",
-   "grounds": "state"
+   "lemma": "rudratā",
+   "morph": "f.inst.sg",
+   "grounds": "rudratayā = as-rudra-ness (inst.sg)"
   },
   {
    "lemma": "saṃvittatkrameṇaiva",
-   "morph": "compound",
-   "grounds": "process"
+   "morph": "saṃvit+tat+krama(m.inst.sg)+eva(indecl.)",
+   "grounds": "saṃvittatkrameṇaiva = awareness-by-that-sequence-alone (compound + emphatic particle)"
   },
   {
-   "lemma": "jāyate",
-   "morph": "3.sg.present.middle",
-   "grounds": "result"
+   "lemma": "jan",
+   "morph": "3sg.pres.mid √jan",
+   "grounds": "jāyate = arises"
   },
   {
    "lemma": "yathā",
-   "morph": "(indecl.)",
-   "grounds": "analogy"
+   "morph": "indecl.",
+   "grounds": "yathā = just-as"
   },
   {
-   "lemma": "hemādidhātūnāṃ",
-   "morph": "m.gen.pl",
-   "grounds": "analogy"
+   "lemma": "hemādidhātu",
+   "morph": "hema+ādi+dhātu(m.gen.pl)",
+   "grounds": "hemādidhātūnāṃ = of-gold-and-other-metals (compound, gen.pl)"
   },
   {
-   "lemma": "pāke",
+   "lemma": "pāka",
    "morph": "m.loc.sg",
-   "grounds": "analogy"
+   "grounds": "pāke = in-refining (loc.sg)"
   },
   {
-   "lemma": "kramavaśādbhavet",
-   "morph": "compound",
-   "grounds": "analogy"
+   "lemma": "kramavaśāt bhū",
+   "morph": "kramavaśāt(indecl.)+3sg.opt.act √bhū",
+   "grounds": "kramavaśādbhavet = by-force-of-sequence-would-be (kramavaśāt + bhavet); AMBIGUOUS tokenization as single surface"
   }
  ]
 }

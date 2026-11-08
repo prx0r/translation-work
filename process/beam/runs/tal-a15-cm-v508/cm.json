@@ -1,56 +1,56 @@
 {
- "song": "tal-a15",
- "verse": 508,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ete",
+   "lemma": "etad",
    "morph": "m.nom.pl",
-   "grounds": "reference"
+   "grounds": "ete = these"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "morph": "indecl.",
+   "grounds": "tu = indeed"
   },
   {
-   "lemma": "vratabandhasya",
+   "lemma": "vratabandha",
    "morph": "m.gen.sg",
-   "grounds": "rite-stage"
+   "grounds": "vratabandhasya = of-vow-binding"
   },
   {
-   "lemma": "saṃskārā",
+   "lemma": "saṃskāra",
    "morph": "m.nom.pl",
-   "grounds": "rite-category"
+   "grounds": "saṃskārā = consecrations"
   },
   {
-   "lemma": "aṅginaḥ",
+   "lemma": "aṅgin",
    "morph": "m.nom.pl",
-   "grounds": "status"
+   "grounds": "aṅginaḥ = principal"
   },
   {
-   "lemma": "smṛtāḥ",
-   "morph": "m.nom.pl.past-passive-participle",
-   "grounds": "tradition"
+   "lemma": "smṛta",
+   "morph": "m.nom.pl (ppp √smṛ)",
+   "grounds": "smṛtāḥ = remembered"
   },
   {
-   "lemma": "pārivrājyasya",
+   "lemma": "pārivrājya",
    "morph": "n.gen.sg",
-   "grounds": "life-stage"
+   "grounds": "pārivrājyasya = of-renunciation"
   },
   {
-   "lemma": "garbhe",
+   "lemma": "garbha",
    "morph": "m.loc.sg",
-   "grounds": "metaphor"
+   "grounds": "garbhe = in-the-womb"
   },
   {
-   "lemma": "syādantyeṣṭiriti",
-   "morph": "compound",
-   "grounds": "rite-act"
+   "lemma": "syāt+antyeṣṭi+iti",
+   "morph": "3sg.opt.act √as + f.nom.sg + indecl.",
+   "grounds": "syādantyeṣṭiriti = would-be-final-rite-thus (sandhi compound)"
   },
   {
-   "lemma": "saṃskṛtaḥ",
-   "morph": "m.nom.sg.past-passive-participle",
-   "grounds": "status"
+   "lemma": "saṃskṛta",
+   "morph": "m.nom.sg (ppp √kṛ)",
+   "grounds": "saṃskṛtaḥ = consecrated"
   }
  ]
 }

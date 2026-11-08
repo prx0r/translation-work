@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 458,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "nyasyetkrameṇa",
-   "morph": "nyasyet (3.sg.opt.act √nyas) + krameṇa (m.inst.sg)",
-   "grounds": "ritual action"
+   "lemma": "ni-√as",
+   "morph": "3sg.opt.act + krama.ins.sg",
+   "grounds": "nyasyet = should place (opt. 3sg act √as with ni); krameṇa = in order (m.ins.sg of krama)"
   },
   {
-   "lemma": "sarvāṃṅgaṃ",
+   "lemma": "sarvāṅga",
    "morph": "n.acc.sg",
-   "grounds": "place of placement"
+   "grounds": "sarvāṅgam = on all limbs (compound sarva+aṅga, n.acc.sg)"
   },
   {
-   "lemma": "tenaivāsya",
-   "morph": "tena (m.inst.sg) + eva (indecl.) + asya (m.gen.sg)",
-   "grounds": "instrument and possessor"
+   "lemma": "tad",
+   "morph": "m./n.ins.sg + eva + idam.gen.sg",
+   "grounds": "tena = with that (m./n.ins.sg); eva = very; asya = of him (gen.sg of idam/tad)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connects actions"
+   "morph": "indecl.",
+   "grounds": "ca = and (conjunction)"
   },
   {
-   "lemma": "saṃspṛśet",
-   "morph": "3.sg.opt.act √spṛś",
-   "grounds": "ritual action"
+   "lemma": "sam-√spṛś",
+   "morph": "3sg.opt.act",
+   "grounds": "saṃspṛśet = should touch (opt. 3sg act √spṛś with sam)"
   },
   {
-   "lemma": "uktaṃ",
-   "morph": "n.nom.sg past-passive-participle √vac",
-   "grounds": "scriptural authority"
+   "lemma": "√vac",
+   "morph": "ppp.n.nom.sg",
+   "grounds": "uktam = stated (past passive participle, n.nom.sg)"
   },
   {
-   "lemma": "dīkṣottare",
+   "lemma": "dīkṣottara",
    "morph": "n.loc.sg",
-   "grounds": "textual source"
+   "grounds": "dīkṣottare = in Dīkṣottara (compound dīkṣā+uttara, n.loc.sg)"
   },
   {
-   "lemma": "caitajjvālāsaṃpātaśobhinā",
-   "morph": "ca (indecl.) + etat (n.nom.sg) + jvālā-saṃpāta-śobhinā (m.inst.sg)",
-   "grounds": "describes the hand"
+   "lemma": "etad",
+   "morph": "ca + n.nom.sg + jvālāsaṃpātaśobhin.ins.sg",
+   "grounds": "ca = and; etat = this (n.nom.sg); jvālāsaṃpātaśobhinā = by that shining with the fall of flames (compound jvālā+saṃpāta+śobhin, m./n.ins.sg)"
   }
  ]
 }
