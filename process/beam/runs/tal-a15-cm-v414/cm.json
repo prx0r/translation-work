@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 414,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "sarvasya",
-   "morph": "m/n.gen.sg",
-   "grounds": "scope"
+   "lemma": "sarva",
+   "morph": "m./n.gen.sg",
+   "grounds": "gloss: of-everything; form: sarvasya (genitive singular)"
   },
   {
    "lemma": "saṃskriyā",
    "morph": "f.nom.sg",
-   "grounds": "rite"
+   "grounds": "gloss: consecration; form: saṃskriyā (nominative singular)"
   },
   {
-   "lemma": "tattvaṃ",
+   "lemma": "tattva",
    "morph": "n.nom.sg",
-   "grounds": "doctrine"
+   "grounds": "gloss: true-principle; form: tattvam (nominative singular)"
   },
   {
-   "lemma": "tattasmai",
-   "morph": "n.nom.sg + m/n.dat.sg",
-   "grounds": "application"
+   "lemma": "tad",
+   "morph": "n.dat.sg",
+   "grounds": "gloss: therefore-to-that; form: tattasmai (dative singular; sandhi tat + tasmai)"
   },
   {
-   "lemma": "yadyato@malam",
-   "morph": "compound = yat+yatas+mala; n.nom.sg",
-   "grounds": "impurity"
+   "lemma": "yadyato-mala",
+   "morph": "compound (indecl.+indecl.+n.nom.sg)",
+   "grounds": "gloss: whatever-impurity-from-whatever; form: yadyato@malam (AMBIGUOUS sandhi/compound split: likely yad + yatas + malam)"
   },
   {
-   "lemma": "navāhutīratho",
-   "morph": "compound = nava+āhuti; f.acc.pl + (indecl.)",
-   "grounds": "ritual-count"
+   "lemma": "nava-āhuti-atha",
+   "morph": "compound (num.+f.acc.pl+indecl.)",
+   "grounds": "gloss: then-nine-oblations; form: navāhutīratho (AMBIGUOUS sandhi: likely nava + āhutīḥ + atha)"
   },
   {
-   "lemma": "dadyānnavātmasahitena",
-   "morph": "3.sg.optative.active + dā + compound = nava+ātman+sahita; m.ins.sg",
-   "grounds": "ritual-action"
+   "lemma": "dā",
+   "morph": "3sg.opt.act √dā + compound (num.+m.inst.sg)",
+   "grounds": "gloss: one-should-offer-with-nine-plus-self; form: dadyānnavātmasahitena (AMBIGUOUS sandhi: likely dadyāt + nava + ātma-sahitena)"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "qualification"
+   "morph": "indecl.",
+   "grounds": "gloss: but; form: tu (indeclinable particle)"
   }
  ]
 }

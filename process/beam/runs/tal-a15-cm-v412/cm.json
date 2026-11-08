@@ -1,41 +1,41 @@
 {
- "song": "tal-a15",
- "verse": 412,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "śuddhāgnerbhāgamādāya",
-   "morph": "compound = śuddha+agni+bhāga; absolutive + ā-dā",
-   "grounds": "ritual-action"
+   "lemma": "śuddhāgni-bhāga-ādāya",
+   "morph": "abs.",
+   "grounds": "compound gerund: śuddha+agni (pure-fire, gen.) + bhāga (portion, acc.) + ādāya (having taken, √dā with ā)"
   },
   {
-   "lemma": "carvarthaṃ",
-   "morph": "compound = caru+artha; n.acc.sg",
-   "grounds": "purpose"
+   "lemma": "caru-artha",
+   "morph": "m.acc.sg",
+   "grounds": "compound: caru (oblation-food) + artha (purpose), accusative singular"
   },
   {
-   "lemma": "sthāpayetpṛthak",
-   "morph": "3.sg.optative.active + sthā + (indecl.)",
-   "grounds": "ritual-action"
+   "lemma": "sthāpayet pṛthak",
+   "morph": "3sg.opt.act √sthā (caus.) + indecl.",
+   "grounds": "sthāpayet = one should place (causative optative); pṛthak = separately (indeclinable)"
   },
   {
-   "lemma": "athavāgneḥ",
-   "morph": "(indecl.) + m.gen.sg",
-   "grounds": "alternative"
+   "lemma": "athavā agni",
+   "morph": "indecl. + m.abl.sg",
+   "grounds": "athavā = or (indeclinable); agneḥ = from the fire (ablative singular)"
   },
   {
-   "lemma": "śikhāṃ",
+   "lemma": "śikhā",
    "morph": "f.acc.sg",
-   "grounds": "ritual-object"
+   "grounds": "flame, accusative singular"
   },
   {
-   "lemma": "vāmaprāṇenādāya",
-   "morph": "compound = vāma+prāṇa; absolutive + ā-dā",
-   "grounds": "subtle-method"
+   "lemma": "vāma-prāṇa-ādāya",
+   "morph": "abs.",
+   "grounds": "compound gerund: vāma (left) + prāṇa (breath, instrumental sense in compound) + ādāya (having taken, √dā with ā)"
   },
   {
-   "lemma": "hṛjjuṣā",
-   "morph": "compound = hṛd+jus; f.ins.sg",
-   "grounds": "mantra"
+   "lemma": "hṛd-juṣ",
+   "morph": "f.inst.sg",
+   "grounds": "compound/mantra term: hṛd (heart) + juṣ (pleasing/used with), instrumental singular; glossed as with heart-mantra"
   }
  ]
 }

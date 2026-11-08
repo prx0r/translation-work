@@ -1,41 +1,41 @@
 {
- "song": "tal-a15",
- "verse": 415,
+ "song": "unknown",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "śivāgnaye",
-   "morph": "compound = śiva+agni; m.dat.sg",
-   "grounds": "recipient"
+   "lemma": "śivāgni",
+   "morph": "m.dat.sg",
+   "grounds": "Gloss 'to-shiva-fire'; compound śiva + agni, dative singular ending -aye."
   },
   {
-   "lemma": "tārapūrvaṃ",
-   "morph": "compound = tāra+pūrva; n.acc.sg",
-   "grounds": "mantra-form"
+   "lemma": "tārapūrva",
+   "morph": "n.acc.sg",
+   "grounds": "Gloss 'preceded-by-om'; compound tāra + pūrva, neuter accusative singular -am (adjectival/acc. of respect)."
   },
   {
-   "lemma": "svāhāntaṃ",
-   "morph": "compound = svāhā+anta; n.acc.sg",
-   "grounds": "mantra-form"
+   "lemma": "svāhānta",
+   "morph": "n.acc.sg",
+   "grounds": "Gloss 'ending-with-svaha'; compound svāhā + anta, neuter accusative singular -am."
   },
   {
    "lemma": "saṃskriyā",
    "morph": "f.nom.sg",
-   "grounds": "rite"
+   "grounds": "Gloss 'consecration'; noun saṃskriyā, feminine nominative singular."
   },
   {
-   "lemma": "bhavet",
-   "morph": "3.sg.optative.active + bhū",
-   "grounds": "instruction"
+   "lemma": "bhū",
+   "morph": "3sg.pres.opt.act √bhū",
+   "grounds": "Gloss 'should-be'; optative of √bhū, 3rd person singular active (bhavet)."
   },
   {
-   "lemma": "śivacaitanyasāmānyavyoparūpe@nale",
-   "morph": "compound = śiva+caitanya+sāmānya+vyāpta+rūpa+anala; m.loc.sg",
-   "grounds": "doctrine"
+   "lemma": "śivacaitanyasāmānyavyūparūpa",
+   "morph": "m.loc.sg",
+   "grounds": "AMBIGUOUS: Gloss 'in-fire-formed-as-shared-shiva-consciousness'; complex compound with -nale/-anale suggesting agni/anal 'in fire' (loc.sg); membership unclear due to sandhi @nale; form and internal structure uncertain."
   },
   {
-   "lemma": "tataḥ",
+   "lemma": "tatas",
    "morph": "(indecl.)",
-   "grounds": "sequence"
+   "grounds": "Gloss 'then'; adverbial indeclinable tataḥ."
   }
  ]
 }

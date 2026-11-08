@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 422,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
    "lemma": "nanu",
-   "morph": "(indecl.)",
-   "grounds": "objection"
+   "morph": "indecl.",
+   "grounds": "gloss 'but-surely'; particle"
   },
   {
-   "lemma": "yattasya",
-   "morph": "n.nom.sg + m.gen.sg",
-   "grounds": "question"
+   "lemma": "yad + tad",
+   "morph": "compound (sandhi)",
+   "grounds": "gloss 'what-for-him'; yat (n.nom.sg) + tasya (m.gen.sg), sandhi form yattasya"
   },
   {
-   "lemma": "dīkṣāyāṃ",
+   "lemma": "dīkṣā",
    "morph": "f.loc.sg",
-   "grounds": "rite"
+   "grounds": "gloss 'in-initiation'; locative singular of dīkṣā"
   },
   {
-   "lemma": "kṛtaṃ",
-   "morph": "n.nom.sg.past-passive-participle + kṛ",
-   "grounds": "ritual-act"
+   "lemma": "kṛ",
+   "morph": "n.nom.sg (ppp)",
+   "grounds": "gloss 'done'; past passive participle kṛta"
   },
   {
-   "lemma": "karmāsya",
-   "morph": "n.nom.sg + m.gen.sg",
-   "grounds": "question"
+   "lemma": "karman + tad",
+   "morph": "compound (sandhi)",
+   "grounds": "gloss 'ritual-act-of-him'; karma (n.nom.sg) + asya (m.gen.sg), sandhi form karmāsya"
   },
   {
-   "lemma": "kiṃ",
+   "lemma": "kim",
    "morph": "n.nom.sg",
-   "grounds": "question"
+   "grounds": "gloss 'what'; interrogative pronoun neuter nominative singular"
   },
   {
-   "lemma": "phalam",
+   "lemma": "phala",
    "morph": "n.nom.sg",
-   "grounds": "result"
+   "grounds": "gloss 'fruit'; nominative singular of phala"
   },
   {
-   "lemma": "tatrāhurgamaśāstrajñā",
-   "morph": "(indecl.) + 3.pl.perfect.active + ah + compound = āgama+śāstra+jña; m.nom.pl",
-   "grounds": "authority"
+   "lemma": "tatra + ah + āgamaśāstrajña",
+   "morph": "compound (sandhi) + 3pl.perf.act √ah",
+   "grounds": "gloss 'there-say-the-knowers-of-agama-scripture'; tatra (indecl.) + āhuḥ (3pl.perf.act √ah) + āgamaśāstrajñāḥ (m.nom.pl, sandhi form)"
   },
   {
-   "lemma": "vāmāśaktimayāstadā",
-   "morph": "compound = vāma+śakti+maya; m.nom.pl + (indecl.)",
-   "grounds": "answer"
+   "lemma": "vāmāśaktimaya + tad",
+   "morph": "compound (sandhi)",
+   "grounds": "gloss 'then-made-of-vama-power'; vāmāśaktimayam (n.nom.sg) + tadā (indecl.), sandhi form vāmāśaktimayas tadā"
   }
  ]
 }

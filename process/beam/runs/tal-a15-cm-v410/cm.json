@@ -1,36 +1,36 @@
 {
- "song": "tal-a15",
- "verse": 410,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "bahnau",
+   "lemma": "bahni",
    "morph": "m.loc.sg",
-   "grounds": "ritual-medium"
+   "grounds": "bahnau = in-fire (locative singular of bahni/vahni)"
   },
   {
-   "lemma": "vahnestathānyatretyanavasthaiva",
-   "morph": "compound = vahni+tathā+anyatra+iti+anavasthā+eva; f.nom.sg",
-   "grounds": "objection"
+   "lemma": "vahni-tathā-anyatra-iti-anavasthā-eva",
+   "morph": "compound",
+   "grounds": "vahnestathānyatretyanavasthaiva = of-fire-and-so-elsewhere-thus-infinite-regress (sandhi/compound chain: vahneḥ + tathā + anyatra + iti + anavasthā + eva)"
   },
   {
-   "lemma": "saṃskṛteḥ",
+   "lemma": "saṃskṛti",
    "morph": "f.gen.sg",
-   "grounds": "rite"
+   "grounds": "saṃskṛteḥ = of-consecration (genitive singular)"
   },
   {
-   "lemma": "te",
+   "lemma": "tad",
    "morph": "m.nom.pl",
-   "grounds": "opponents"
+   "grounds": "te = they (nominative plural masculine pronoun; could also be other genders/cases in form, but gloss indicates 'they')"
   },
   {
-   "lemma": "nirutthānavihatā",
-   "morph": "compound = nirutthāna+vihata; m.nom.pl",
-   "grounds": "refutation"
+   "lemma": "nirutthāna-vihata",
+   "morph": "m.nom.pl",
+   "grounds": "nirutthānavihatā = struck-down-without-basis (bahuvrīhi/tatpuruṣa compound, nominative plural masculine agreeing with te)"
   },
   {
-   "lemma": "naye@smingurudarśane",
-   "morph": "compound = naya+asmin+guru+darśana; n.loc.sg",
-   "grounds": "doctrine"
+   "lemma": "naya-asmin-guru-darśana",
+   "morph": "compound (loc.)",
+   "grounds": "naye@smingurudarśane = in-this-guru-teaching (sandhi/compound: naye + asmin + guru-darśane; locative sense 'in this guru-teaching')"
   }
  ]
 }

@@ -1,56 +1,56 @@
 {
- "song": "tal-a15",
- "verse": 409,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "mayāpi",
-   "morph": "1.sg.ins + (indecl.)",
-   "grounds": "speaker"
+   "lemma": "aham",
+   "morph": "i.sg. + indecl.",
+   "grounds": "mayā (by-me, i.sg.) + api (also, indecl.)"
   },
   {
-   "lemma": "darśitaṃ",
-   "morph": "n.nom.sg.past-passive-participle + dṛś",
-   "grounds": "teaching"
+   "lemma": "darśay",
+   "morph": "ppp.n.nom.sg",
+   "grounds": "darśitam (shown, caus. ppp of √dṛś, n.nom.sg; could also be n.acc.sg, AMBIGUOUS)"
   },
   {
-   "lemma": "śuddhabuddhayaḥ",
-   "morph": "compound = śuddha+budhhi; m.voc.pl",
-   "grounds": "audience"
-  },
-  {
-   "lemma": "praviviñcatām",
-   "morph": "3.pl.imperative + pra-vi-vic",
-   "grounds": "invitation"
-  },
-  {
-   "lemma": "tenātra",
-   "morph": "m/n.ins.sg + (indecl.)",
-   "grounds": "transition"
-  },
-  {
-   "lemma": "ye",
+   "lemma": "śuddhabuddhi",
    "morph": "m.nom.pl",
-   "grounds": "opponents"
+   "grounds": "śuddha-buddhayaḥ (pure-minded-ones, bahuvrī/tatpuruṣa compound, m.nom.pl)"
   },
   {
-   "lemma": "codayanti",
-   "morph": "3.pl.present.active + cud",
-   "grounds": "challenge"
+   "lemma": "pra-vi-√vic",
+   "morph": "3pl.imp.act",
+   "grounds": "praviviñcatām (let-them-examine, 3pl imperative active)"
+  },
+  {
+   "lemma": "tad",
+   "morph": "n.ins.sg. + indecl.",
+   "grounds": "tena (therefore/by-that, n.ins.sg.) + atra (here, indecl.)"
+  },
+  {
+   "lemma": "yad",
+   "morph": "m.nom.pl",
+   "grounds": "ye (those-who, relative pronoun m.nom.pl)"
+  },
+  {
+   "lemma": "√cud",
+   "morph": "3pl.pres.act",
+   "grounds": "codayanti (raise-objection, 3pl present active)"
   },
   {
    "lemma": "yathā",
-   "morph": "(indecl.)",
-   "grounds": "quotation-marker"
+   "morph": "indecl.",
+   "grounds": "yathā (as-follows, indeclinable)"
   },
   {
-   "lemma": "bālasya",
+   "lemma": "bāla",
    "morph": "m.gen.sg",
-   "grounds": "analogy"
+   "grounds": "bālasya (of-a-child, m.gen.sg)"
   },
   {
    "lemma": "saṃskriyā",
    "morph": "f.nom.sg",
-   "grounds": "rite"
+   "grounds": "saṃskriyā (consecration, f.nom.sg)"
   }
  ]
 }

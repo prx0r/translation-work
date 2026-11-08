@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 419,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "kṛtvā",
-   "morph": "absolutive + kṛ",
-   "grounds": "ritual-action"
+   "lemma": "kṛ",
+   "morph": "abs. (√kṛ)",
+   "grounds": "kṛtvā = having-made"
   },
   {
-   "lemma": "mūlaṃ",
+   "lemma": "mūla",
    "morph": "n.acc.sg",
-   "grounds": "mantra"
+   "grounds": "mūlaṃ = root-mantra"
   },
   {
-   "lemma": "tarpayet",
-   "morph": "3.sg.optative.active + tṛp",
-   "grounds": "ritual-action"
+   "lemma": "tṛp",
+   "morph": "3sg.opt.act (√tṛp)",
+   "grounds": "tarpayet = one-should-satisfy"
   },
   {
-   "lemma": "śatenājyasruvaistathā",
-   "morph": "n.ins.sg + compound = ājya+sruva; m.ins.pl + (indecl.)",
-   "grounds": "ritual-count"
+   "lemma": "śata-ājya-sruva-tathā",
+   "morph": "compound (indecl. final member)",
+   "grounds": "śatenājyasruvaistathā = with-a-hundred-ladles-of-ghee-likewise (sandhi/compound: śatena+ājya-sruvaiḥ+tathā)"
   },
   {
-   "lemma": "aṅgavaktraṃ",
-   "morph": "compound = aṅga+vaktra; n.acc.sg",
-   "grounds": "mantra-body"
+   "lemma": "aṅga-vaktra",
+   "morph": "n.acc.sg (dvandva compound)",
+   "grounds": "aṅgavaktraṃ = limbs-and-faces"
   },
   {
-   "lemma": "ṣaḍaṃśena",
-   "morph": "compound = ṣaṣ+aṃśa; m.ins.sg",
-   "grounds": "proportion"
+   "lemma": "ṣaḍaṃśa",
+   "morph": "m.inst.sg",
+   "grounds": "ṣaḍaṃśena = with-a-sixth-part"
   },
   {
-   "lemma": "śeṣāṃścāpi",
-   "morph": "m.acc.pl + (indecl.) + (indecl.)",
-   "grounds": "remaining-deities"
+   "lemma": "śeṣa-ca-api",
+   "morph": "m.acc.pl + indecl. + indecl.",
+   "grounds": "śeṣāṃścāpi = and-also-the-rest (śeṣān + ca + api)"
   },
   {
-   "lemma": "daśāṃśataḥ",
-   "morph": "compound = daśa+aṃśa; m.abl.sg",
-   "grounds": "proportion"
+   "lemma": "daśāṃśatas",
+   "morph": "indecl.",
+   "grounds": "daśāṃśataḥ = by-a-tenth-part"
   }
  ]
 }

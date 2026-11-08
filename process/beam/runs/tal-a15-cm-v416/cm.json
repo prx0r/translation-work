@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 416,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "prāgvadādhāramādheyaṃ",
-   "morph": "compound = prāk+vat+ādhāra+ādheya; n.acc.sg",
-   "grounds": "ritual-structure"
+   "lemma": "prāgvadādhārādheya",
+   "morph": "acc.sg.n (compound: prākvat+ādhāra+ādheya)",
+   "grounds": "as-before-support-and-supported; prāgvadādhāramādheyaṃ"
   },
   {
-   "lemma": "devīcakraṃ",
-   "morph": "compound = devī+cakra; n.acc.sg",
-   "grounds": "mandala"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "addition"
-  },
-  {
-   "lemma": "yojayet",
-   "morph": "3.sg.optative.active + yuj",
-   "grounds": "ritual-action"
-  },
-  {
-   "lemma": "sruvaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "ritual-tool"
-  },
-  {
-   "lemma": "srucaṃ",
-   "morph": "f.acc.sg",
-   "grounds": "ritual-tool"
+   "lemma": "devīcakra",
+   "morph": "acc.sg.n (compound: devī+cakra)",
+   "grounds": "circle-of-goddesses; devīcakraṃ"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "addition"
+   "morph": "indecl.",
+   "grounds": "and; ca"
   },
   {
-   "lemma": "saṃpaśyedadhovaktrau",
-   "morph": "3.sg.optative.active + sam-paś + compound = adhas+vaktra; m.acc.dual",
-   "grounds": "visualization"
+   "lemma": "√yuj",
+   "morph": "3sg.opt.act",
+   "grounds": "one-should-install; yojayet"
   },
   {
-   "lemma": "kramādguruḥ",
-   "morph": "m.abl.sg + m.nom.sg",
-   "grounds": "officiant"
+   "lemma": "sruva",
+   "morph": "acc.sg.m",
+   "grounds": "ladle; sruvaṃ"
+  },
+  {
+   "lemma": "sruc",
+   "morph": "acc.sg.f",
+   "grounds": "spoon; srucaṃ"
+  },
+  {
+   "lemma": "ca",
+   "morph": "indecl.",
+   "grounds": "and; ca"
+  },
+  {
+   "lemma": "saṃpaśyet-adhovaktra",
+   "morph": "3sg.opt.act √dṛś + acc.du.m (compound: adhas+vaktra)",
+   "grounds": "one-should-see-as-downward-faced; saṃpaśyedadhovaktrau (sandhi/compound split; AMBIGUOUS boundary)"
+  },
+  {
+   "lemma": "kramāt-guru",
+   "morph": "indecl. (abl.adv) + nom.sg.m",
+   "grounds": "in-order-the-guru; kramādguruḥ"
   }
  ]
 }

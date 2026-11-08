@@ -1,66 +1,66 @@
 {
- "song": "tal-a15",
- "verse": 411,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "jāte@gnau",
-   "morph": "compound = jāta+agni; m.loc.sg",
-   "grounds": "ritual-stage"
+   "lemma": "jāta + agni",
+   "morph": "m.loc.sg.ppp √jan + m.loc.sg",
+   "grounds": "jāte@gnau = when-fire-has-arisen; locative absolute, sandhi-split compound"
   },
   {
-   "lemma": "saṃskṛte",
-   "morph": "m.loc.sg.past-passive-participle + sam-kṛ",
-   "grounds": "ritual-stage"
+   "lemma": "saṃskṛta",
+   "morph": "m.loc.sg.ppp sam-√kṛ",
+   "grounds": "saṃskṛte = when-consecrated; locative absolute"
   },
   {
-   "lemma": "śaive",
+   "lemma": "śaiva",
    "morph": "m.loc.sg",
-   "grounds": "ritual-mode"
+   "grounds": "śaive = as-shaiva; locative, agreeing with agni"
   },
   {
-   "lemma": "śabdarāśiṃ",
-   "morph": "compound = śabda+rāśi; m.acc.sg",
-   "grounds": "mantra-body"
+   "lemma": "śabdarāśi",
+   "morph": "m.acc.sg",
+   "grounds": "śabdarāśiṃ = mass-of-sound"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "addition"
+   "morph": "indecl.",
+   "grounds": "ca = and"
   },
   {
-   "lemma": "mālinīm",
+   "lemma": "mālinī",
    "morph": "f.acc.sg",
-   "grounds": "mantra-goddess"
+   "grounds": "mālinīm = Malini"
   },
   {
-   "lemma": "pitarau",
-   "morph": "m.acc.dual",
-   "grounds": "deities"
+   "lemma": "pitṛ",
+   "morph": "m.acc.du",
+   "grounds": "pitarau = the-two-parents"
   },
   {
-   "lemma": "pūjayitvā",
-   "morph": "absolutive + pūj",
-   "grounds": "ritual-action"
+   "lemma": "pūjay",
+   "morph": "gerund √pūj",
+   "grounds": "pūjayitvā = having-worshipped"
   },
   {
-   "lemma": "svaṃ",
+   "lemma": "sva",
    "morph": "n.acc.sg",
-   "grounds": "source"
+   "grounds": "svaṃ = own; agreeing with dhāma"
   },
   {
-   "lemma": "śuddhaṃ",
+   "lemma": "śuddha",
    "morph": "n.acc.sg",
-   "grounds": "quality"
+   "grounds": "śuddhaṃ = pure; agreeing with dhāma"
   },
   {
-   "lemma": "dhāma",
+   "lemma": "dhāman",
    "morph": "n.acc.sg",
-   "grounds": "destination"
+   "grounds": "dhāma = abode"
   },
   {
-   "lemma": "visarjayet",
-   "morph": "3.sg.optative.active + vi-sṛj",
-   "grounds": "ritual-action"
+   "lemma": "vi-sṛj",
+   "morph": "3sg.opt.act vi-√sṛj",
+   "grounds": "visarjayet = one-should-dismiss"
   }
  ]
 }

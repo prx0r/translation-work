@@ -1,41 +1,41 @@
 {
- "song": "tal-a15",
- "verse": 427,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "adhaḥ",
-   "morph": "(indecl.)",
-   "grounds": "position"
+   "lemma": "adhas",
+   "morph": "indecl.",
+   "grounds": "gloss 'below'; indeclinable adverb"
   },
   {
-   "lemma": "kuryātsrucaṃ",
-   "morph": "3.sg.optative.active + kṛ + f.acc.sg",
-   "grounds": "ritual-action"
+   "lemma": "kuryāt-srucam",
+   "morph": "3sg.opt.act √kṛ + f.acc.sg",
+   "grounds": "gloss 'one-should-place-the-spoon'; kuryāt = optative of √kṛ, srucam = accusative of sruc (AMBIGUOUS: written as single token but two words)"
   },
   {
-   "lemma": "prāṇamūrdhvordhvaṃ",
-   "morph": "compound = prāṇa+ūrdhva+ūrdhvam; m.acc.sg",
-   "grounds": "subtle-movement"
+   "lemma": "prāṇam-ūrdhvam-ūrdhvam",
+   "morph": "compound (m.acc.sg + indecl. + indecl.)",
+   "grounds": "gloss 'breath-upward-and-upward'; likely prāṇam (acc.) with repeated ūrdhvam (AMBIGUOUS: compound/phrase segmentation uncertain)"
   },
   {
-   "lemma": "saṃniyojayan",
-   "morph": "m.nom.sg.present-participle + sam-ni-yuj",
-   "grounds": "inner-action"
+   "lemma": "saṃniyojayat",
+   "morph": "m.nom.sg.pres.act.part √saṃ-ni-yuj",
+   "grounds": "gloss 'directing'; present active participle of √saṃ-ni-yuj"
   },
   {
-   "lemma": "yāvaddviṣaṭkaparyante",
-   "morph": "compound = yāvat+dviṣaṭka+paryanta; m.loc.sg",
-   "grounds": "subtle-limit"
+   "lemma": "yāvad-dviṣaṭka-paryanta",
+   "morph": "compound (indecl. + n. + m.loc.sg)",
+   "grounds": "gloss 'until-the-end-of-the-twelve'; bahuvrīhi/tatpuruṣa compound ending in locative paryante"
   },
   {
-   "lemma": "bodhāgnau",
-   "morph": "compound = bodha+agni; m.loc.sg",
-   "grounds": "inner-fire"
+   "lemma": "bodhāgni",
+   "morph": "m.loc.sg",
+   "grounds": "gloss 'in-the-fire-of-awareness'; tatpuruṣa compound bodha-agni in locative singular"
   },
   {
-   "lemma": "candracakrataḥ",
-   "morph": "compound = candra+cakra; n.abl.sg",
-   "grounds": "subtle-source"
+   "lemma": "candracakra",
+   "morph": "n.abl.sg",
+   "grounds": "gloss 'from-the-moon-circle'; tatpuruṣa compound candra-cakra in ablative singular"
   }
  ]
 }

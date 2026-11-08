@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 418,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
    "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "conclusion"
+   "morph": "indecl.",
+   "grounds": "iti = thus (indeclinable)"
   },
   {
-   "lemma": "vaktuṃ",
-   "morph": "infinitive + vac",
-   "grounds": "speech"
+   "lemma": "vac",
+   "morph": "inf.",
+   "grounds": "vaktum = to-say (infinitive of √vac)"
   },
   {
-   "lemma": "sruvādīśaḥ",
-   "morph": "compound = sruva+ādi+īśa; m.nom.sg",
-   "grounds": "authority"
+   "lemma": "sruvādīśa",
+   "morph": "m.nom.sg",
+   "grounds": "sruvādīśaḥ = lord-of-ladle-and-others (sruva+ādi+īśa compound, m.nom.sg)"
   },
   {
-   "lemma": "śrīpūrve",
-   "morph": "compound = śrī+pūrva; n.loc.sg",
-   "grounds": "textual-source"
+   "lemma": "śrīpūrva",
+   "morph": "n.loc.sg",
+   "grounds": "śrīpūrve = in-the-shri-purva (śrī+pūrva compound, n.loc.sg)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not (indeclinable)"
   },
   {
-   "lemma": "samaskarot",
-   "morph": "3.sg.imperfect.active + sam-kṛ",
-   "grounds": "ritual-action"
+   "lemma": "sam-kṛ",
+   "morph": "3sg.imperf.act √kṛ",
+   "grounds": "samaskarot = did-consecrate (3sg imperfect active of sam-√kṛ)"
   },
   {
-   "lemma": "tatastilairmṛgīṃ",
-   "morph": "(indecl.) + m.ins.pl + f.acc.sg",
-   "grounds": "ritual-action"
+   "lemma": "tatas-tila-mṛgī",
+   "morph": "f.acc.sg",
+   "grounds": "tatastilairmṛgīṃ = then-with-sesame-the-doe-mudra (sandhi-split compound: tatas+tilaiḥ+mṛgīm; mṛgī f.acc.sg; AMBIGUOUS segmentation)"
   },
   {
-   "lemma": "madhyānāmāṅguṣṭhavaśādguruḥ",
-   "morph": "compound = madhyā+anāmā+aṅguṣṭha+vaśa; m.abl.sg + m.nom.sg",
-   "grounds": "mudra-method"
+   "lemma": "madhyānāmāṅguṣṭhavaśa-guru",
+   "morph": "m.nom.sg",
+   "grounds": "madhyānāmāṅguṣṭhavaśādguruḥ = by-middle-ring-thumb-control-the-guru (sandhi-split: madhya+anāma+aṅguṣṭha+vaśāt+guruḥ; guru m.nom.sg; AMBIGUOUS compound analysis)"
   }
  ]
 }
