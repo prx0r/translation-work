@@ -1,0 +1,161 @@
+{
+ "song": "Tantraloka a01",
+ "items": [
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "adhikāraparīkṣāntaḥsaṃskāro@tha",
+     "gloss": "initiation-ending-with-qualification-examination-then",
+     "grounds": "adhikāra-parīkṣā-anta-saṃskāra + atha",
+     "morph": "compound + (indecl.)"
+    },
+    {
+     "surface": "tulāvidhiḥ",
+     "gloss": "rite-of-the-balance",
+     "grounds": "tulā-vidhi",
+     "morph": "compound, m.nom.sg"
+    },
+    {
+     "surface": "ityetadvācyasarvasvaṃ",
+     "gloss": "thus-this-entire-subject-matter-to-be-stated",
+     "grounds": "iti + etad + vācya + sarvasva",
+     "morph": "(indecl.) + compound, n.nom.sg"
+    },
+    {
+     "surface": "syādviṃśatitamāhnike",
+     "gloss": "will-be-in-the-twentieth-chapter",
+     "grounds": "syāt + viṃśatitama + āhnika",
+     "morph": "3.sg.optative + compound, n.loc.sg"
+    }
+   ],
+   "question": "What topics will be treated in the twentieth chapter?",
+   "premises": [
+    "The twentieth chapter deals with consecration ending in the examination of qualification.",
+    "The twentieth chapter also deals with the rite of the balance.",
+    "These topics constitute the entire subject matter to be stated there."
+   ],
+   "inference": "Therefore, the twentieth chapter will present consecration culminating in qualification-examination and the rite of the balance.",
+   "uncertainties": [
+    "The exact ritual sense of tulāvidhi may depend on later exposition in the twentieth chapter."
+   ],
+   "plain_english": "In the twentieth chapter, the full subject to be explained will be consecration ending with the examination of qualification, and also the rite of the balance."
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "mṛtajīvadvidhirjālo",
+     "gloss": "rite-of-dead-and-living-and-the-net",
+     "grounds": "mṛta-jīvat-vidhi + jāla",
+     "morph": "compound + m.nom.sg"
+    },
+    {
+     "surface": "padeśaḥ",
+     "gloss": "lordship-over-positions",
+     "grounds": "pada-īśa",
+     "morph": "compound, m.nom.sg"
+    },
+    {
+     "surface": "saṃskriyāgaṇaḥ",
+     "gloss": "group-of-consecratory-rites",
+     "grounds": "saṃskriyā-gaṇa",
+     "morph": "compound, m.nom.sg"
+    },
+    {
+     "surface": "balābalavicāraścetyekaviṃśāhnike",
+     "gloss": "and-examination-of-strength-and-weakness-thus-in-the-twenty-first-chapter",
+     "grounds": "bala-abala-vicāra + ca + iti + ekaviṃśa + āhnika",
+     "morph": "compound + (indecl.) + (indecl.) + compound, n.loc.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "procedure",
+     "grounds": "vidhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What procedures will be explained in the twenty-first chapter?",
+   "premises": [
+    "The twenty-first chapter includes the rite concerning the dead and the living and the net.",
+    "It includes lordship over positions and a group of consecratory rites.",
+    "It also includes an examination of strength and weakness."
+   ],
+   "inference": "Therefore, the twenty-first chapter will set forth these ritual procedures and assessments.",
+   "uncertainties": [
+    "The technical meanings of jāla and padeśa may be specified more precisely in the twenty-first chapter."
+   ],
+   "plain_english": "In the twenty-first chapter, the procedures to be explained are the rite of the dead and the living, the net, lordship over positions, the group of consecratory rites, and the examination of strength and weakness."
+  },
+  {
+   "verse": 315,
+   "rows": [
+    {
+     "surface": "śravaṇaṃ",
+     "gloss": "hearing",
+     "grounds": "śravaṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cābhyanujñānaṃ",
+     "gloss": "and-permission",
+     "grounds": "ca + abhyanujñāna",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "śodhanaṃ",
+     "gloss": "purification",
+     "grounds": "śodhana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pātakacyutiḥ",
+     "gloss": "removal-of-sin",
+     "grounds": "pātaka-cyuti",
+     "morph": "compound, f.nom.sg"
+    },
+    {
+     "surface": "śaṅkāccheda",
+     "gloss": "cutting-off-of-doubt",
+     "grounds": "śaṅkā-ccheda",
+     "morph": "compound, m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spaṣṭaṃ",
+     "gloss": "clearly",
+     "grounds": "spaṣṭa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vācyaṃ",
+     "gloss": "to-be-stated",
+     "grounds": "vac (gerundive)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgoddhṛtikrame",
+     "gloss": "in-the-course-of-removing-the-mark",
+     "grounds": "liṅga-uddhṛti-krama",
+     "morph": "compound, m.loc.sg"
+    }
+   ],
+   "question": "What is to be clearly explained in the course of removing the mark?",
+   "premises": [
+    "The course of removing the mark includes hearing and permission.",
+    "It includes purification and the removal of sin.",
+    "It also includes the cutting off of doubt."
+   ],
+   "inference": "Therefore, these elements are to be clearly stated in the procedure for removing the mark.",
+   "uncertainties": [
+    "The precise ritual referent of liṅga in this context may be clarified by the later chapter."
+   ],
+   "plain_english": "In the procedure for removing the mark, what must be clearly explained is hearing, permission, purification, the removal of sin, and the cutting off of doubt."
+  }
+ ]
+}
