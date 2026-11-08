@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a28",
+ "verse": 108,
  "rows": [
   {
-   "lemma": "mūla",
+   "lemma": "mūle",
    "morph": "n.loc.sg",
-   "grounds": "mūle = in-mula (loc.sg of mūla)"
+   "grounds": "under the Mūla lunar mansion"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "tu = but (indeclinable particle)"
+   "morph": "(indecl.)",
+   "grounds": "continuing the list"
   },
   {
    "lemma": "dvādaśī",
    "morph": "f.nom.sg",
-   "grounds": "dvādaśī = twelfth-day (nom.sg of dvādaśī)"
+   "grounds": "the twelfth lunar day"
   },
   {
-   "lemma": "brāhma",
+   "lemma": "brāhme",
    "morph": "n.loc.sg",
-   "grounds": "brāhme = in-the-brahma-star (loc.sg, referring to Rohiṇī/Brahma nakṣatra; AMBIGUOUS)"
+   "grounds": "under the Brahma-associated lunar mansion"
   },
   {
-   "lemma": "bhūtāśvinī",
-   "morph": "f.loc.sg",
-   "grounds": "bhūtāśvinyāṃ = on-fourteenth-in-ashvini (loc.sg of compound bhūta+caturdaśī+āśvinī; AMBIGUOUS segmentation)"
+   "lemma": "bhūtāśvinyāṃ",
+   "morph": "f.loc.sg, compound = bhūta+aśvinī",
+   "grounds": "the fourteenth day in Aśvinī"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "ca = and (indeclinable conjunction)"
+   "morph": "(indecl.)",
+   "grounds": "connective"
   },
   {
    "lemma": "pūrṇimā",
    "morph": "f.nom.sg",
-   "grounds": "pūrṇimā = full-moon-day (nom.sg of pūrṇimā)"
+   "grounds": "the full-moon day"
   },
   {
    "lemma": "dhaniṣṭhāyāmamāvasyā",
-   "morph": "compound: dhaniṣṭhā+amāvasyā (f.loc.sg+f.nom.sg)",
-   "grounds": "dhaniṣṭhāyāmamāvasyā = in-dhanishtha-new-moon (sandhi/compound of dhaniṣṭhāyām loc.sg and amāvasyā nom.sg)"
+   "morph": "f.nom.sg, sandhi = dhaniṣṭhāyām+amāvasyā",
+   "grounds": "the new-moon day in Dhaniṣṭhā"
   },
   {
-   "lemma": "saḥ+ayam+ekādaśātmakaḥ",
-   "morph": "compound/sandhi: saḥ (m.nom.sg pron.) + ayam (m.nom.sg pron.) + ekādaśa+ātmaka (m.nom.sg adj.)",
-   "grounds": "so@yamekādaśātmakaḥ = this-is-elevenfold (sandhi: saḥ ayam ekādaśātmakaḥ)"
+   "lemma": "so@yamekādaśātmakaḥ",
+   "morph": "m.nom.sg, sandhi = saḥ+ayam+ekādaśātmakaḥ, compound = ekādaśa+ātmaka",
+   "grounds": "this set forms an elevenfold grouping"
   }
  ]
 }

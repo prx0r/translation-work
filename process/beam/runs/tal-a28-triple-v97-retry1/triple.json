@@ -1,0 +1,848 @@
+{
+ "song": "Tantraloka a28",
+ "items": [
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "taistuṣyanti",
+     "gloss": "by-those-are-pleased",
+     "grounds": "the drops offered in the rite please these beings",
+     "morph": "3.pl.pres.middle + √tuṣ"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetālaguhyakādyā",
+     "gloss": "vetala-guhyaka-and-others",
+     "grounds": "classes of attendant beings",
+     "morph": "m.nom.pl, compound = vetāla+guhyaka+ādi"
+    },
+    {
+     "surface": "gabhastayaḥ",
+     "gloss": "rays",
+     "grounds": "radiant powers or rays",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhārayā",
+     "gloss": "by-the-stream",
+     "grounds": "the flowing stream of the offering",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhairavastuṣyet",
+     "gloss": "bhairava-is-pleased",
+     "grounds": "Bhairava is satisfied by the rite",
+     "morph": "3.sg.opt.active + √tuṣ"
+    },
+    {
+     "surface": "karapānaṃ",
+     "gloss": "hand-drinking",
+     "grounds": "drinking from the hand in the ritual",
+     "morph": "n.nom.sg, compound = kara+pāna"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "the highest form of the act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "consequence of the preceding rite",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is pleased by the stream and what makes hand-drinking supreme?",
+   "premises": [
+    "The Vetalas, Guhyakas, and other beings are pleased by that stream.",
+    "The rays or powers are also satisfied by it.",
+    "Bhairava is pleased through the supreme act of drinking from the hand."
+   ],
+   "inference": "Because the stream satisfies the attendant beings and Bhairava, drinking from the hand is the supreme ritual act.",
+   "uncertainties": [
+    "Whether gabhastayaḥ refers to rays, hands, or radiant powers in this ritual context."
+   ],
+   "plain_english": "By that stream the Vetalas, Guhyakas, and others are indeed pleased, as are the rays. Therefore Bhairava is pleased, and drinking from the hand is the supreme act."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "praveśo@tra",
+     "gloss": "entry-here",
+     "grounds": "admission into this rite",
+     "morph": "m.nom.sg, sandhi = praveśaḥ+atra"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyaḥ",
+     "gloss": "to-be-given",
+     "grounds": "should not be granted",
+     "morph": "m.nom.sg, gerundive + √dā"
+    },
+    {
+     "surface": "pūrvameva",
+     "gloss": "beforehand-only",
+     "grounds": "in advance, without prior screening",
+     "morph": "(indecl.), compound = pūrvam+eva"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasyacit",
+     "gloss": "to-anyone",
+     "grounds": "to any person at all",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "pramādāttu",
+     "gloss": "but-by-carelessness",
+     "grounds": "if someone enters through negligence",
+     "morph": "m.abl.sg, sandhi = pramādāt+tu"
+    },
+    {
+     "surface": "praviṣṭasya",
+     "gloss": "of-one-who-entered",
+     "grounds": "a person who has already entered",
+     "morph": "m.gen.sg, past-participle + pra+√viś"
+    },
+    {
+     "surface": "vicāraṃ",
+     "gloss": "inquiry",
+     "grounds": "investigation or questioning",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "strong prohibition",
+     "morph": "(indecl.), compound = na+eva"
+    },
+    {
+     "surface": "carcayet",
+     "gloss": "one-should-conduct",
+     "grounds": "one should not carry out an inquiry",
+     "morph": "3.sg.opt.active + √carc"
+    }
+   ],
+   "question": "What rule governs admission and inquiry during this ritual gathering?",
+   "premises": [
+    "Entry into the rite should not be granted to anyone beforehand.",
+    "If someone enters by carelessness, the situation has already occurred.",
+    "One should not conduct an inquiry into a person who has entered."
+   ],
+   "inference": "The rite requires strict control over admission, but once an unvetted person has entered, no inquiry should be pursued.",
+   "uncertainties": [
+    "Whether the prohibition on inquiry is absolute or applies only during the rite."
+   ],
+   "plain_english": "Entry here should not be given to anyone beforehand. But if someone has entered by carelessness, one should not conduct any inquiry into that person."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in the manner described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "after completing the rite",
+     "morph": "(indecl.), absolutive + √kṛ"
+    },
+    {
+     "surface": "kramādyāgamante",
+     "gloss": "in-order-at-rite-end",
+     "grounds": "at the conclusion of the rite performed in due order",
+     "morph": "m.loc.sg, compound = krama+ādi+yāga+anta"
+    },
+    {
+     "surface": "dakṣiṇayā",
+     "gloss": "with-offering-fee",
+     "grounds": "ritual gift or fee",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yutam",
+     "gloss": "joined-with",
+     "grounds": "accompanied by",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samālambhanatāmbūlavastrādyaṃ",
+     "gloss": "touching-betel-cloth-and-so-on",
+     "grounds": "items such as respectful touch, betel, and cloth",
+     "morph": "n.acc.sg, compound = samālambhana+tāmbūla+vastra+ādi"
+    },
+    {
+     "surface": "vitaredbudhaḥ",
+     "gloss": "wise-one-should-distribute",
+     "grounds": "the knowledgeable officiant should give these out",
+     "morph": "3.sg.opt.active + vi+√tṛ, sandhi = vitaret+budhaḥ"
+    }
+   ],
+   "question": "What should the wise officiant distribute at the end of the rite?",
+   "premises": [
+    "The rite is completed in the proper order.",
+    "The conclusion of the rite calls for gifts.",
+    "The gifts include an offering fee and items such as respectful touch, betel, and cloth."
+   ],
+   "inference": "At the end of the properly performed rite, the wise officiant should distribute the offering fee together with betel, cloth, and similar gifts.",
+   "uncertainties": [
+    "The exact ritual meaning of samālambhana in this context."
+   ],
+   "plain_english": "Having performed the rite in due order, the wise one should, at its conclusion, distribute the offering fee together with respectful gifts such as betel, cloth, and the like."
+  },
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "rūpakārdhāt",
+     "gloss": "than-half-a-coin",
+     "grounds": "less than half a silver coin",
+     "morph": "n.abl.sg, compound = rūpaka+ardha"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "beyond",
+     "grounds": "more than that amount in the sense of lower limit; here setting a minimum",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīnāṃ",
+     "gloss": "less",
+     "grounds": "an amount smaller than the minimum",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāddakṣiṇāṃ",
+     "gloss": "should-give-offering-fee",
+     "grounds": "should not give a smaller fee",
+     "morph": "3.sg.opt.active + √dā, sandhi = dadyāt+dakṣiṇām"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "the discerning officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samayibhyaḥ",
+     "gloss": "to-initiates",
+     "grounds": "recipients beginning with ordinary initiates",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "kramāddvidviguṇā",
+     "gloss": "in-order-doubled-and-doubled",
+     "grounds": "successively doubled by rank",
+     "morph": "f.nom.sg, compound = kramāt+dvi+dvi+guṇā"
+    },
+    {
+     "surface": "gurvantakaṃ",
+     "gloss": "up-to-the-guru",
+     "grounds": "continuing through the ranks up to the guru",
+     "morph": "n.acc.sg, compound = guru+anta+ka"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "the fee should follow this scale",
+     "morph": "3.sg.opt.active + √bhū"
+    }
+   ],
+   "question": "What minimum and scale should govern the ritual offering fee?",
+   "premises": [
+    "The wise one should not give an offering fee less than half a coin.",
+    "The recipients range from initiates up to the guru.",
+    "The fee increases in order by successive doubling."
+   ],
+   "inference": "The offering fee has a fixed minimum and rises by rank, doubling step by step from initiates up to the guru.",
+   "uncertainties": [
+    "The exact monetary value of rūpaka in this historical context."
+   ],
+   "plain_english": "The wise one should not give an offering fee smaller than half a coin. Starting with the initiates and proceeding in order up to the guru, it should be doubled at each step."
+  },
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "the rite just described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syānmūrtiyāgastu",
+     "gloss": "would-be-body-worship-but",
+     "grounds": "this is the body-worship",
+     "morph": "3.sg.opt.active + √as, sandhi = syāt+mūrtiyāgaḥ+tu"
+    },
+    {
+     "surface": "sarvayāgapradhānakaḥ",
+     "gloss": "chief-of-all-worships",
+     "grounds": "foremost among all forms of worship",
+     "morph": "m.nom.sg, compound = sarva+yāga+pradhānaka"
+    },
+    {
+     "surface": "kāmye",
+     "gloss": "in-desire-rite",
+     "grounds": "in a rite performed for a specific wish",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a special case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvidhau",
+     "gloss": "in-arrangement",
+     "grounds": "in that ritual procedure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saptakṛtvaḥ",
+     "gloss": "seven-times",
+     "grounds": "repeated seven times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryastathāvidhaḥ",
+     "gloss": "to-be-done-in-that-way",
+     "grounds": "should be performed in the same manner seven times",
+     "morph": "m.nom.sg, gerundive + √kṛ, sandhi = kāryaḥ+tathāvidhaḥ"
+    }
+   ],
+   "question": "What is the status of body-worship and how is it modified for desire rites?",
+   "premises": [
+    "This rite is the body-worship.",
+    "The body-worship is chief among all worships.",
+    "In a desire rite, the same procedure is performed seven times."
+   ],
+   "inference": "Body-worship is the foremost worship, and for a desire-driven purpose it should be repeated seven times in the same form.",
+   "uncertainties": [],
+   "plain_english": "This is the body-worship, the foremost of all worships. But in a rite done for a specific desire, it should be performed seven times in the same way."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "jānanti",
+     "gloss": "they-know",
+     "grounds": "the Mothers perceive or recognize",
+     "morph": "3.pl.pres.active + √jñā"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "initially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gehaṃ",
+     "gloss": "house",
+     "grounds": "the place where the rite is held",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatastasya",
+     "gloss": "then-of-that",
+     "grounds": "after that, of that place or rite",
+     "morph": "(indecl.) + m.gen.sg, sandhi = tataḥ+tasya"
+    },
+    {
+     "surface": "samarthatām",
+     "gloss": "capability",
+     "grounds": "its fitness or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "balābalaṃ",
+     "gloss": "strength-and-weakness",
+     "grounds": "its relative strength and weakness",
+     "morph": "n.acc.sg, compound = bala+abala"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "afterward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścādvismayante@tra",
+     "gloss": "afterward-are-amazed-here",
+     "grounds": "then they are struck with wonder",
+     "morph": "3.pl.pres.middle + vi+√smi, sandhi = paścāt+vismayante+atra"
+    },
+    {
+     "surface": "mātaraḥ",
+     "gloss": "mothers",
+     "grounds": "the divine Mothers",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How do the Mothers respond to the place and power of the rite?",
+   "premises": [
+    "The Mothers first recognize the house where the rite occurs.",
+    "They then perceive its capability and its strength and weakness.",
+    "Afterward they are filled with wonder."
+   ],
+   "inference": "The Mothers progressively assess the ritual site and, recognizing its power, respond with amazement.",
+   "uncertainties": [],
+   "plain_english": "First the Mothers recognize the house, then they perceive its capability and its strength and weakness, and afterward they are filled with wonder."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "tato@pi",
+     "gloss": "then-even",
+     "grounds": "after that as well",
+     "morph": "(indecl.), sandhi = tataḥ+api"
+    },
+    {
+     "surface": "saṃnidhīyante",
+     "gloss": "they-draw-near",
+     "grounds": "they become present",
+     "morph": "3.pl.pres.passive + sam+ni+√dhā"
+    },
+    {
+     "surface": "prīyante",
+     "gloss": "they-are-pleased",
+     "grounds": "they take delight",
+     "morph": "3.pl.pres.passive + √prī"
+    },
+    {
+     "surface": "varadāstataḥ",
+     "gloss": "granting-boons-then",
+     "grounds": "then they become givers of boons",
+     "morph": "f.nom.pl, sandhi = varadāḥ+tataḥ, compound = vara+da"
+    },
+    {
+     "surface": "devīnāmatha",
+     "gloss": "of-goddesses-then",
+     "grounds": "of the goddesses, and then",
+     "morph": "f.gen.pl, sandhi = devīnām+atha"
+    },
+    {
+     "surface": "nāthasya",
+     "gloss": "of-the-lord",
+     "grounds": "of the presiding lord",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parivārayujo@pyalam",
+     "gloss": "joined-with-retinue-also-greatly",
+     "grounds": "those joined with the retinue, in full measure",
+     "morph": "m.nom.pl, sandhi = parivārayujaḥ+api+alam, compound = parivāra+yuj"
+    }
+   ],
+   "question": "What happens after the Mothers are amazed by the rite?",
+   "premises": [
+    "After their amazement, the divine beings draw near.",
+    "They become pleased by the rite.",
+    "The goddesses and the lord's retinue become present and grant boons."
+   ],
+   "inference": "The rite attracts the presence of the goddesses and the lord's retinue, who become pleased and bestow boons.",
+   "uncertainties": [
+    "Whether nāthasya refers specifically to Bhairava or to the presiding lord more generally."
+   ],
+   "plain_english": "Then they draw near and are pleased, and they become givers of boons. The goddesses and those joined with the lord's retinue are also fully present."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "vallabho",
+     "gloss": "beloved",
+     "grounds": "dear and favored",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūrtiyāgo@yamataḥ",
+     "gloss": "this-body-worship-therefore",
+     "grounds": "for that reason this body-worship",
+     "morph": "m.nom.sg, sandhi = mūrtiyāgaḥ+ayam+ataḥ"
+    },
+    {
+     "surface": "kāryo",
+     "gloss": "to-be-done",
+     "grounds": "should be performed",
+     "morph": "m.nom.sg, gerundive + √kṛ"
+    },
+    {
+     "surface": "vipaścitā",
+     "gloss": "by-the-wise",
+     "grounds": "by one who knows",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rāktau",
+     "gloss": "in-delightful",
+     "grounds": "in a pleasing or consecrated setting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gupte",
+     "gloss": "in-hidden",
+     "grounds": "in a secluded place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "in a house or chamber",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vīrāḥ",
+     "gloss": "heroes",
+     "grounds": "male practitioners of the rite",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śaktayo@nyonyamapyalam",
+     "gloss": "powers-mutually-also-greatly",
+     "grounds": "the śaktis together with one another in full measure",
+     "morph": "f.nom.pl, sandhi = śaktayaḥ+anyonyam+api+alam"
+    }
+   ],
+   "question": "Where and by whom should the beloved body-worship be performed?",
+   "premises": [
+    "This body-worship is beloved and effective.",
+    "It should be performed by the wise.",
+    "It takes place in a delightful, hidden house with heroes and śaktis together."
+   ],
+   "inference": "Because body-worship is beloved, the wise should perform it in a secluded, pleasing place with the heroes and śaktis assembled together.",
+   "uncertainties": [
+    "The precise nuance of rāktau, which may suggest delight, devotion, or ritual suitability."
+   ],
+   "plain_english": "Therefore this beloved body-worship should be performed by the wise in a delightful, hidden house, with the heroes and the śaktis fully joined together."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "asaṃketayujo",
+     "gloss": "not-joined-by-prior-signal",
+     "grounds": "participants not arranged by prior appointment",
+     "morph": "m.nom.pl, compound = a+saṃketa+yuj"
+    },
+    {
+     "surface": "yojyā",
+     "gloss": "to-be-engaged",
+     "grounds": "should be brought into the rite",
+     "morph": "m.nom.pl, gerundive + √yuj"
+    },
+    {
+     "surface": "devatāśabdakīrtanāt",
+     "gloss": "from-reciting-deity-names",
+     "grounds": "identified through the recitation of deity names",
+     "morph": "n.abl.sg, compound = devatā+śabda+kīrtana"
+    },
+    {
+     "surface": "alābhe",
+     "gloss": "in-non-obtaining",
+     "grounds": "if such participants are not available",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mūrticakrasya",
+     "gloss": "of-the-body-circle",
+     "grounds": "for the circle used in body-worship",
+     "morph": "n.gen.sg, compound = mūrti+cakra"
+    },
+    {
+     "surface": "kumārīreva",
+     "gloss": "maidens-only",
+     "grounds": "only maidens should be worshipped",
+     "morph": "f.acc.pl, sandhi = kumārīḥ+eva"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "one should perform the worship",
+     "morph": "3.sg.opt.active + √pūj"
+    }
+   ],
+   "question": "How should participants be selected for the body-circle when no prior arrangement exists?",
+   "premises": [
+    "Participants may be engaged without prior arrangement.",
+    "They are identified through the recitation of deity names.",
+    "If the body-circle cannot be formed, one should worship maidens only."
+   ],
+   "inference": "The body-circle may be formed spontaneously through deity-name recitation, but if that is not possible, the rite should be performed by worshipping maidens alone.",
+   "uncertainties": [
+    "The practical method by which deity-name recitation selects participants."
+   ],
+   "plain_english": "Those not joined by prior arrangement should be engaged through the recitation of deity names. If the body-circle cannot be obtained, one should worship maidens only."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "kāmyārthe",
+     "gloss": "for-desire-purpose",
+     "grounds": "when the rite is done for a specific wish",
+     "morph": "m.loc.sg, compound = kāmya+artha"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "that maiden",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vyaṅgāṃ",
+     "gloss": "bodily-impaired",
+     "grounds": "a maiden with bodily defect",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "stanapuṣpavatīṃ",
+     "gloss": "having-breast-flower",
+     "grounds": "a maiden who is menstruating",
+     "morph": "f.acc.sg, compound = stana+puṣpa+vatī"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also excluded",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratipacchrutisaṃjñe",
+     "gloss": "named-first-day-and-hearing-star",
+     "grounds": "on the lunar first day and under the śravaṇa star",
+     "morph": "f.loc.sg, compound = pratipad+śruti+saṃjñā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthī",
+     "gloss": "fourth-day",
+     "grounds": "the fourth lunar day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cottarātraye",
+     "gloss": "and-in-the-three-uttaras",
+     "grounds": "and under the three Uttara lunar mansions",
+     "morph": "n.loc.sg, sandhi = ca+uttarātraye, compound = uttara+traya"
+    }
+   ],
+   "question": "Which maidens and which times are excluded or specified for a desire rite?",
+   "premises": [
+    "For a desire rite, a bodily impaired maiden must not be chosen.",
+    "A menstruating maiden must likewise not be chosen.",
+    "The verse also specifies the first day with śravaṇa, the fourth day, and the three Uttaras."
+   ],
+   "inference": "A desire rite requires careful selection of the maiden and observance of specific lunar days and stars.",
+   "uncertainties": [
+    "Whether the listed days and stars are prescribed as suitable times or as part of a continuing restriction."
+   ],
+   "plain_english": "But for a rite done for a specific desire, one should not choose a maiden who is bodily impaired or menstruating. The text also specifies the first lunar day with the śravaṇa star, the fourth day, and the three Uttara stars."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "haste",
+     "gloss": "in-hasta",
+     "grounds": "under the Hasta lunar mansion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth-day",
+     "grounds": "the fifth lunar day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaṣṭhī",
+     "gloss": "sixth-day",
+     "grounds": "the sixth lunar day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrvāsvatha",
+     "gloss": "in-the-purvas-then",
+     "grounds": "under the Pūrva lunar mansions",
+     "morph": "f.loc.pl, sandhi = pūrvāsu+atha"
+    },
+    {
+     "surface": "punarvasau",
+     "gloss": "in-punarvasu",
+     "grounds": "under the Punarvasu lunar mansion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saptamī",
+     "gloss": "seventh-day",
+     "grounds": "the seventh lunar day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatparā",
+     "gloss": "the-next-after-that",
+     "grounds": "the day following that",
+     "morph": "f.nom.sg, compound = tat+parā"
+    },
+    {
+     "surface": "pitrye",
+     "gloss": "in-the-ancestral-star",
+     "grounds": "under Maghā, the ancestral lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rohiṇyāṃ",
+     "gloss": "in-rohini",
+     "grounds": "under the Rohiṇī lunar mansion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "navamī",
+     "gloss": "ninth-day",
+     "grounds": "the ninth lunar day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also included",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further lunar days and stars are specified for the rite?",
+   "premises": [
+    "The verse continues the list of ritual times.",
+    "It pairs lunar days with specific lunar mansions.",
+    "The sequence includes the fifth through ninth days with their associated stars."
+   ],
+   "inference": "The rite is tied to a detailed calendar of lunar days and lunar mansions.",
+   "uncertainties": [
+    "The exact pairing intended between some days and stars in this compressed list."
+   ],
+   "plain_english": "Also specified are the fifth day in Hasta, the sixth in the Pūrvas and in Punarvasu, the seventh and the next day in the ancestral star, and likewise the ninth in Rohiṇī."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "mūle",
+     "gloss": "in-mula",
+     "grounds": "under the Mūla lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "continuing the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśī",
+     "gloss": "twelfth-day",
+     "grounds": "the twelfth lunar day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brāhme",
+     "gloss": "in-the-brahma-star",
+     "grounds": "under the Brahma-associated lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhūtāśvinyāṃ",
+     "gloss": "on-fourteenth-in-ashvini",
+     "grounds": "the fourteenth day in Aśvinī",
+     "morph": "f.loc.sg, compound = bhūta+aśvinī"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇimā",
+     "gloss": "full-moon-day",
+     "grounds": "the full-moon day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhaniṣṭhāyāmamāvasyā",
+     "gloss": "in-dhanishtha-new-moon",
+     "grounds": "the new-moon day in Dhaniṣṭhā",
+     "morph": "f.nom.sg, sandhi = dhaniṣṭhāyām+amāvasyā"
+    },
+    {
+     "surface": "so@yamekādaśātmakaḥ",
+     "gloss": "this-is-elevenfold",
+     "grounds": "this set forms an elevenfold grouping",
+     "morph": "m.nom.sg, sandhi = saḥ+ayam+ekādaśātmakaḥ, compound = ekādaśa+ātmaka"
+    }
+   ],
+   "question": "How does the calendar list conclude and what is its total structure?",
+   "premises": [
+    "The list continues with further lunar days and mansions.",
+    "It includes the twelfth, fourteenth, full moon, and new moon.",
+    "The text explicitly states that this grouping is elevenfold."
+   ],
+   "inference": "The prescribed ritual times conclude with a final set of days and stars that together form an elevenfold system.",
+   "uncertainties": [
+    "The exact identity of brāhme as a lunar mansion in this list.",
+    "How the elevenfold count is delimited across verses 106–108."
+   ],
+   "plain_english": "Also specified are the twelfth day in Mūla, the fourteenth in the Brahma star and in Aśvinī, the full moon, and the new moon in Dhaniṣṭhā. This forms an elevenfold set."
+  }
+ ]
+}

@@ -1,15 +1,15 @@
 {
  "song": "tal-a28",
  "verse": 100,
- "question": "What is the minimum ritual fee and how should it increase by rank?",
+ "question": "What minimum and scale should govern the ritual offering fee?",
  "premises": [
-  "A wise person should not give a ritual fee less than half a rūpaka.",
-  "The fee is given to initiates according to rank.",
-  "The amount should be progressively doubled up to the guru."
+  "The wise one should not give an offering fee less than half a coin.",
+  "The recipients range from initiates up to the guru.",
+  "The fee increases in order by successive doubling."
  ],
- "inference": "The ritual fee has a fixed minimum and increases by doubling through the ranks until it reaches the guru.",
+ "inference": "The offering fee has a fixed minimum and rises by rank, doubling step by step from initiates up to the guru.",
  "uncertainties": [
-  "The exact number of ranks between ordinary initiates and the guru is not specified."
+  "The exact monetary value of rūpaka in this historical context."
  ],
- "plain_english": "A wise person should not give a ritual fee smaller than half a rūpaka; for the initiates it should increase in order, doubled step by step, up to the guru."
+ "plain_english": "The wise one should not give an offering fee smaller than half a coin. Starting with the initiates and proceeding in order up to the guru, it should be doubled at each step."
 }

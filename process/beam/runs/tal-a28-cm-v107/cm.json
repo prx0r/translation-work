@@ -1,66 +1,66 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a28",
+ "verse": 107,
  "rows": [
   {
-   "lemma": "hasta",
+   "lemma": "haste",
    "morph": "m.loc.sg",
-   "grounds": "haste = in-hasta"
+   "grounds": "under the Hasta lunar mansion"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "ca = and"
+   "morph": "(indecl.)",
+   "grounds": "connective"
   },
   {
    "lemma": "pañcamī",
    "morph": "f.nom.sg",
-   "grounds": "pañcamī = fifth-day"
+   "grounds": "the fifth lunar day"
   },
   {
    "lemma": "ṣaṣṭhī",
    "morph": "f.nom.sg",
-   "grounds": "ṣaṣṭhī = sixth-day"
+   "grounds": "the sixth lunar day"
   },
   {
-   "lemma": "pūrvāsu+atha",
-   "morph": "f.loc.pl + indecl. (AMBIGUOUS)",
-   "grounds": "pūrvāsvatha = in-the-purvas-then; likely sandhi/compound of pūrvāsu (loc.pl) and atha"
+   "lemma": "pūrvāsvatha",
+   "morph": "f.loc.pl, sandhi = pūrvāsu+atha",
+   "grounds": "under the Pūrva lunar mansions"
   },
   {
-   "lemma": "punarvasu",
+   "lemma": "punarvasau",
    "morph": "m.loc.sg",
-   "grounds": "punarvasau = in-punarvasu"
+   "grounds": "under the Punarvasu lunar mansion"
   },
   {
    "lemma": "saptamī",
    "morph": "f.nom.sg",
-   "grounds": "saptamī = seventh-day"
+   "grounds": "the seventh lunar day"
   },
   {
-   "lemma": "tatpara",
-   "morph": "f.nom.sg",
-   "grounds": "tatparā = the-next-after-that"
+   "lemma": "tatparā",
+   "morph": "f.nom.sg, compound = tat+parā",
+   "grounds": "the day following that"
   },
   {
-   "lemma": "pitrya",
+   "lemma": "pitrye",
    "morph": "n.loc.sg",
-   "grounds": "pitrye = in-the-ancestral-star"
+   "grounds": "under Maghā, the ancestral lunar mansion"
   },
   {
-   "lemma": "rohiṇī",
+   "lemma": "rohiṇyāṃ",
    "morph": "f.loc.sg",
-   "grounds": "rohiṇyāṃ = in-rohini"
+   "grounds": "under the Rohiṇī lunar mansion"
   },
   {
    "lemma": "navamī",
    "morph": "f.nom.sg",
-   "grounds": "navamī = ninth-day"
+   "grounds": "the ninth lunar day"
   },
   {
    "lemma": "tathā",
-   "morph": "indecl.",
-   "grounds": "tathā = likewise"
+   "morph": "(indecl.)",
+   "grounds": "also included"
   }
  ]
 }
