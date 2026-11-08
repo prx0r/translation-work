@@ -1,0 +1,108 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "tal-a10",
+ "work": "tantraloka-a10",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v207 ratio=0.886",
+  "ALIGN_NODISP v211 ratio=0.737",
+  "ALIGN_NODISP v224 ratio=0.847",
+  "ALIGN_NODISP v272 ratio=0.742",
+  "L2_CITE_FAIL 4",
+  "DATA_OBJECTS 4 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "cf6809d2b2723b57",
+ "source_verses": 310,
+ "t1_verses": 310,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 2557
+ },
+ "align": {
+  "min_ratio": 0.737,
+  "sub090": {
+   "207": {
+    "ratio": 0.886,
+    "disposition": null
+   },
+   "211": {
+    "ratio": 0.737,
+    "disposition": null
+   },
+   "224": {
+    "ratio": 0.847,
+    "disposition": null
+   },
+   "272": {
+    "ratio": 0.742,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 76,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 310,
+  "failures": [
+   "dvitīyā śivaśaktirūpaiva sarvajñānakriyātmikā tasyāmavahito yogī kiṃ na vetti ka",
+   "saiva śaktiḥ śivasyoktā tṛtīyādituṭiṣvatha mantrādhināthatacchaktimantreśādyāḥ k",
+   "na tu kramikatā kācicchivātmatve kadācana anyanmantrādhināthādi kāraṇaṃ tattu sa",
+   "mātrādyanugrahādādhānātsavyāpāreti bhaṇyate jāgradādyapi devasya śaktitvena vyav"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[tal-a10-v207]: cite part not byte-exact in source: dvitīyā śivaśaktirūpaiva sarvajñānakriyātmikā tasyāmavahito ",
+   "l2[tal-a10-v211]: cite part not byte-exact in source: saiva śaktiḥ śivasyoktā tṛtīyādituṭiṣvatha mantrādhināthatac",
+   "l2[tal-a10-v224]: cite part not byte-exact in source: na tu kramikatā kācicchivātmatve kadācana anyanmantrādhināth",
+   "l2[tal-a10-v272]: cite part not byte-exact in source: mātrādyanugrahādādhānātsavyāpāreti bhaṇyate jāgradādyapi dev"
+  ],
+  "counts": {
+   "t1": 310,
+   "l0": 2557,
+   "argmap": 310,
+   "l2": 310,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v207",
+  "fix: word-order/gloss vs source for v211",
+  "fix: word-order/gloss vs source for v224",
+  "fix: word-order/gloss vs source for v272"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "5eb5adf5aced40bc15bda87d0620980ab7131567d9e9c89b6f4356d5d0622f4d",
+  "l0": "8a837b83a2da8c679c31c61a5b3c8bf268dc69b50cf01365f915b730e59d2882",
+  "argmap": "b0350efc3e2f7017463131ee566ffebcabd638e3e0abdb7eac3351daae7ba292",
+  "l2": "320a047b1829a4040df6d44379337e8392aa4abc73df6feef2567c78f9b60e45",
+  "c1": "639a2a54f3a32b6e78a48242c5f532332f97a159389a40a5c9ff00f57db3e842"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "cf6809d2b2723b57",
+  "t1": "tal-a10/data/tal-a10.t1.json",
+  "l0": "tal-a10/data/tal-a10.l0.json",
+  "l2": "tal-a10/data/tal-a10.l2.json",
+  "c1": "tal-a10/data/tal-a10.c1.json"
+ }
+}
