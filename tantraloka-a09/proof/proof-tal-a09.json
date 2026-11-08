@@ -1,0 +1,73 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "tal-a09",
+ "work": "tantraloka-a09",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [
+  "METACOMMENTARY ['the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)']"
+ ],
+ "mode": "shastra",
+ "source_sha": "471e19aa50655741",
+ "source_verses": 314,
+ "t1_verses": 314,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 2611
+ },
+ "align": {
+  "min_ratio": 1.0,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 53,
+ "c1_metacommentary": [
+  "the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)"
+ ],
+ "l2_cites": {
+  "checked": 314,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 314,
+   "l0": 2611,
+   "argmap": 314,
+   "l2": 314,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "layer_sha256": {
+  "t1": "8b0d4827b8f44b98b0ed2c756cb3f5797e668957df065f937b47fa4439bcc15a",
+  "l0": "333b0cccbf760032c78825fce414ba4e9fc64892a97455bdd764887cd4055e38",
+  "argmap": "f5eb42c86c5339f756d6cca2b34f4e7466666e07a1ac45c9c662824e9d248cb0",
+  "l2": "d0aafea0dc0206ff82ee85c83e96770e49325495a0e4be49cfce23cfa50aa926",
+  "c1": "1a7ad16e40b730bd18366766e95e76ad8ee8f09d4eb5f76bb1c7666234c8d473"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "471e19aa50655741",
+  "t1": "tal-a09/data/tal-a09.t1.json",
+  "l0": "tal-a09/data/tal-a09.l0.json",
+  "l2": "tal-a09/data/tal-a09.l2.json",
+  "c1": "tal-a09/data/tal-a09.c1.json"
+ }
+}
