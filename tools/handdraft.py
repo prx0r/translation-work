@@ -65,6 +65,8 @@ def main() -> int:
         raise SystemExit(f"lemma mismatch vs working-t1 for {a.song} v{a.verse}")
 
     prems = [p.strip() for p in a.premises.split("|") if p.strip()]
+    if len(prems) < 2:
+        raise SystemExit("need >=2 premises (assessor rule: no single-premise argmaps)")
     if not a.q.strip().endswith("?"):
         raise SystemExit("question must end with ?")
     if any(len(p.split()) < 3 for p in prems):
