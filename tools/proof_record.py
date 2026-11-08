@@ -399,7 +399,20 @@ def main() -> int:
                       "blocking": block, "warnings": rec["warnings"],
                       "min_ratio": rec["align"]["min_ratio"],
                       "cites": rec["l2_cites"]}, indent=1, ensure_ascii=False))
-    return 0 if not block else 1
+    if block:
+        return 1
+    # Gate passed: record the layer-accept decision trail at ingest time.
+    # A write failure here is a hard error (rc 2), never a silent skip —
+    # a proof without its decision row is incomplete state.
+    try:
+        import record_layer_accept as _rla
+        new_rows, scanned, dec_path = _rla.record(args.work, song)
+        print(f"decision trail: +{len(new_rows)} rows "
+              f"({scanned} layers) -> {dec_path.relative_to(root)}")
+    except Exception as e:  # noqa: BLE001 — fail closed with the reason
+        print(f"ERROR: decision trail write failed: {e}", file=sys.stderr)
+        return 2
+    return 0
 
 
 if __name__ == "__main__":
