@@ -1,9 +1,671 @@
 {
- "song": "Tantraloka 3.42-44",
+ "song": "Tantraloka 3.48-59",
  "items": [
   {
-   "verse": 42,
+   "verse": 48,
    "rows": [
+    {
+     "surface": "atyantasvacchatā",
+     "gloss": "absolute-transparency",
+     "grounds": "quality of consciousness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to transparency",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yatsvākṛtyanavabhāsanam",
+     "gloss": "which-non-manifestation-of-own-form",
+     "grounds": "definition of transparency",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svacchatamo",
+     "gloss": "most-transparent",
+     "grounds": "describes consciousness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bodho",
+     "gloss": "consciousness",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratnaṃ",
+     "gloss": "jewel",
+     "grounds": "contrast example",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvākṛtigrahāt",
+     "gloss": "but-because-of-grasping-form",
+     "grounds": "reason for contrast",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why is consciousness more transparent than a jewel?",
+   "premises": [
+    "Absolute transparency means not manifesting one's own form.",
+    "Consciousness does not manifest its own form.",
+    "A jewel grasps and manifests its own form."
+   ],
+   "inference": "Therefore consciousness is more transparent than a jewel.",
+   "uncertainties": [],
+   "plain_english": "Absolute transparency is the non-manifestation of one's own form. Therefore consciousness is the most transparent, unlike a jewel, which grasps and displays its own form."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "pratibimbaṃ",
+     "gloss": "reflection",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bimbena",
+     "gloss": "by-original-image",
+     "grounds": "agent of projection",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bāhyasthena",
+     "gloss": "standing-outside",
+     "grounds": "describes original image",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "samarpyate",
+     "gloss": "is-projected",
+     "grounds": "action",
+     "morph": "3.sg.passive-present"
+    },
+    {
+     "surface": "tasyaiva",
+     "gloss": "of-that-very-thing",
+     "grounds": "refers to consciousness",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pratibimbatve",
+     "gloss": "in-being-a-reflection",
+     "grounds": "condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bimbamavaśiṣyatām",
+     "gloss": "original-image-would-remain",
+     "grounds": "rhetorical conclusion",
+     "morph": "3.sg.passive-optative + śiṣ"
+    }
+   ],
+   "question": "What external original image remains if everything is a reflection in consciousness?",
+   "premises": [
+    "A reflection is usually projected by an external original image.",
+    "If everything is a reflection of consciousness itself, no external image is needed.",
+    "An external original image would have no place to remain."
+   ],
+   "inference": "Therefore no external original image remains when everything is reflected in consciousness.",
+   "uncertainties": [],
+   "plain_english": "A reflection is projected by an external original image, but if everything is a reflection of consciousness itself, what external original image could possibly remain?"
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "yadvāpi",
+     "gloss": "or-even-if",
+     "grounds": "alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃcidbimbatvenābhiṣicyate",
+     "gloss": "something-is-designated-as-original-image",
+     "grounds": "hypothetical action",
+     "morph": "3.sg.passive-present + sic"
+    },
+    {
+     "surface": "tadapi",
+     "gloss": "that-too",
+     "grounds": "refers to the cause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratibimbatvameti",
+     "gloss": "attains-reflection-ness",
+     "grounds": "result",
+     "morph": "3.sg.active-present + i"
+    },
+    {
+     "surface": "bodhe@nyathā",
+     "gloss": "in-consciousness-otherwise",
+     "grounds": "condition and contrast",
+     "morph": "m.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "tvasat",
+     "gloss": "but-unreal",
+     "grounds": "alternative status",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What happens if some cause is designated as an external original image?",
+   "premises": [
+    "One might designate some cause as an external original image.",
+    "Anything appearing in consciousness takes on the nature of a reflection.",
+    "Outside of consciousness, such a cause would be unreal."
+   ],
+   "inference": "Therefore even a supposed external cause becomes a reflection in consciousness or is unreal.",
+   "uncertainties": [],
+   "plain_english": "Even if some cause is designated as an external original image, it too becomes a reflection in consciousness; otherwise, outside of consciousness, it would be unreal."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "itthametatsvasaṃvittidṛḍhanyāyāstrarakṣitam",
+     "gloss": "thus-this-protected-by-weapon-of-firm-logic-of-own-awareness",
+     "grounds": "describes the doctrine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāmrājyameva",
+     "gloss": "sovereignty-alone",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśvatra",
+     "gloss": "everywhere",
+     "grounds": "scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibimbasya",
+     "gloss": "of-reflection",
+     "grounds": "possessor of sovereignty",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "jṛmbhate",
+     "gloss": "expands",
+     "grounds": "action",
+     "morph": "3.sg.middle-present + jṛmbh"
+    }
+   ],
+   "question": "What is established by the firm logic of one's own awareness?",
+   "premises": [
+    "The logic of one's own awareness protects this understanding.",
+    "Everything is a reflection within consciousness.",
+    "Reflection is not dependent on an external original."
+   ],
+   "inference": "Therefore the sovereignty of reflection expands everywhere.",
+   "uncertainties": [],
+   "plain_english": "Thus, protected by the firm weapon of the logic of one's own awareness, the sovereignty of reflection alone expands everywhere."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "nanu",
+     "gloss": "but-surely",
+     "grounds": "objection marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bimbasya",
+     "gloss": "of-original-image",
+     "grounds": "object of absence",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "virahe",
+     "gloss": "in-absence",
+     "grounds": "condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pratibimbaṃ",
+     "gloss": "reflection",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "could-exist",
+     "grounds": "action",
+     "morph": "3.sg.active-optative + bhū"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurmo",
+     "gloss": "can-we-do",
+     "grounds": "response",
+     "morph": "1.pl.active-present + kṛ"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "it-is-seen",
+     "grounds": "empirical fact",
+     "morph": "3.sg.passive-present + dṛś"
+    },
+    {
+     "surface": "taddhi",
+     "gloss": "for-that",
+     "grounds": "reason",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "but-surely",
+     "grounds": "counter-objection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbimbamucyatām",
+     "gloss": "let-that-be-called-original-image",
+     "grounds": "challenge",
+     "morph": "3.sg.passive-imperative + vac"
+    }
+   ],
+   "question": "How can a reflection exist without an original image?",
+   "premises": [
+    "An objector claims a reflection cannot exist without an original image.",
+    "The reflection is directly perceived regardless of this claim.",
+    "The objector is challenged to identify what the original image actually is."
+   ],
+   "inference": "The objection fails because the perceived reflection cannot be traced to a valid external original.",
+   "uncertainties": [],
+   "plain_english": "An objector asks how a reflection can exist without an original image. The reply is: what can we do, for it is seen? The objector is then challenged to identify that supposed original image."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "naivaṃ",
+     "gloss": "not-so",
+     "grounds": "rejection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tallakṣaṇābhāvādbimbaṃ",
+     "gloss": "original-image-because-of-absence-of-its-definition",
+     "grounds": "reason for rejection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kimucyate",
+     "gloss": "what-is-called",
+     "grounds": "question",
+     "morph": "3.sg.passive-present + vac"
+    },
+    {
+     "surface": "anyāmiśraṃ",
+     "gloss": "unmixed-with-other",
+     "grounds": "definition part 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svatantraṃ",
+     "gloss": "independent",
+     "grounds": "definition part 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadbhāsamānaṃ",
+     "gloss": "truly-appearing",
+     "grounds": "definition part 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "face",
+     "grounds": "example",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "comparison marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the true definition of an original image?",
+   "premises": [
+    "The supposed external object lacks the definition of a true original image.",
+    "A true original image must be unmixed with anything else.",
+    "A true original image must be independent and truly appearing, like a face."
+   ],
+   "inference": "Therefore the external object cannot be called a true original image.",
+   "uncertainties": [],
+   "plain_english": "It is not so, because the supposed original lacks the required definition. What is truly called an original image is something unmixed with others, independent, and truly appearing, just like a face."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "svarūpānapahānena",
+     "gloss": "without-abandoning-own-nature",
+     "grounds": "condition",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pararūpasadṛkṣatām",
+     "gloss": "resemblance-to-another-form",
+     "grounds": "quality",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pratibimbātmatāmāhuḥ",
+     "gloss": "they-call-the-nature-of-reflection",
+     "grounds": "definition",
+     "morph": "3.pl.active-perfect + ah"
+    },
+    {
+     "surface": "khaḍgādarśatalādivat",
+     "gloss": "like-sword-mirror-surface-and-so-on",
+     "grounds": "examples",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the nature of a reflection properly defined?",
+   "premises": [
+    "A reflection resembles another form.",
+    "A reflection does not abandon its own underlying nature.",
+    "Examples include reflections on a sword or a mirror surface."
+   ],
+   "inference": "The nature of a reflection is resembling another without losing its own nature.",
+   "uncertainties": [],
+   "plain_english": "They define the nature of a reflection as resembling another form without abandoning its own nature, like reflections seen on a sword, a mirror, or a flat surface."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "uktaṃ",
+     "gloss": "it-is-said",
+     "grounds": "citation marker",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sati",
+     "gloss": "when-existing",
+     "grounds": "condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhye@pi",
+     "gloss": "even-external",
+     "grounds": "concession",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "dhīrekānekavedanāt",
+     "gloss": "cognition-is-one-because-of-perceiving-many",
+     "grounds": "Buddhist argument",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anekasadṛśākārā",
+     "gloss": "having-forms-resembling-many",
+     "grounds": "describes cognition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaneketi",
+     "gloss": "but-many-thus",
+     "grounds": "negated conclusion",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "saugataiḥ",
+     "gloss": "by-Buddhists",
+     "grounds": "source of citation",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How do the Buddhists describe cognition in relation to multiple forms?",
+   "premises": [
+    "Even if external objects exist, cognition perceives many things.",
+    "Cognition takes on forms resembling many things.",
+    "The Buddhists argue that cognition itself does not become many."
+   ],
+   "inference": "Cognition remains one while reflecting many forms, according to the Buddhists.",
+   "uncertainties": [],
+   "plain_english": "And it is said by the Buddhists that even if external objects exist, cognition is one because it perceives many; it takes on forms resembling many, but it does not itself become many."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "nanvitthaṃ",
+     "gloss": "but-surely-thus",
+     "grounds": "objection marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibimbasya",
+     "gloss": "of-reflection",
+     "grounds": "object of definition",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "definition",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taducyate",
+     "gloss": "that-is-stated",
+     "grounds": "answer marker",
+     "morph": "3.sg.passive-present + vac"
+    },
+    {
+     "surface": "anyavyāmiśraṇāyogāttadbhedāśakyabhāsanam",
+     "gloss": "impossible-manifestation-of-difference-from-it-due-to-unfitness-for-mixing-with-other",
+     "grounds": "definition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratibimbamiti",
+     "gloss": "reflection-thus",
+     "grounds": "conclusion of definition",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "prāhurdarpaṇe",
+     "gloss": "they-say-in-a-mirror",
+     "grounds": "authority and example",
+     "morph": "3.pl.active-perfect + ah"
+    },
+    {
+     "surface": "vadanaṃ",
+     "gloss": "face",
+     "grounds": "example",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "comparison marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the formal definition of a reflection?",
+   "premises": [
+    "A reflection cannot mix with something entirely other.",
+    "Because of this, its difference from its substrate cannot be manifested.",
+    "A face reflected in a mirror illustrates this definition."
+   ],
+   "inference": "A reflection is defined as that whose difference from its substrate cannot be manifested due to non-mixing.",
+   "uncertainties": [],
+   "plain_english": "But what, then, is the definition of a reflection? It is stated as the impossible manifestation of difference from its substrate due to the unfitness for mixing with another, just as a face appears in a mirror."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "bodhamiśramidaṃ",
+     "gloss": "this-mixed-with-consciousness",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bodhādbhedenāśakyabhāsanam",
+     "gloss": "impossible-to-manifest-as-different-from-consciousness",
+     "grounds": "description",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paratattvādi",
+     "gloss": "supreme-reality-and-so-on",
+     "grounds": "refers to the universe",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bodhe",
+     "gloss": "in-consciousness",
+     "grounds": "location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibimbaṃ",
+     "gloss": "reflection",
+     "grounds": "predicate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-called",
+     "grounds": "action",
+     "morph": "3.sg.passive-present + bhaṇ"
+    }
+   ],
+   "question": "Why should the universe not be called a reflection in consciousness?",
+   "premises": [
+    "The universe, including the supreme reality, is mixed with consciousness.",
+    "The universe cannot be manifested as different from consciousness.",
+    "This matches the definition of a reflection."
+   ],
+   "inference": "Therefore the universe should be called a reflection in consciousness.",
+   "uncertainties": [],
+   "plain_english": "This universe, beginning with the supreme reality, is mixed with consciousness and cannot be manifested as different from consciousness; why, then, should it not be called a reflection in consciousness?"
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "lakṣaṇasya",
+     "gloss": "of-the-definition",
+     "grounds": "object of arrangement",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vyavasthaiṣākasmāccedbimbamucyatām",
+     "gloss": "if-this-arrangement-is-arbitrary-let-it-be-called-original-image",
+     "grounds": "objection and challenge",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "prājñā",
+     "gloss": "wise-people",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vastuni",
+     "gloss": "in-reality",
+     "grounds": "domain of concern",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yujyante",
+     "gloss": "are-engaged",
+     "grounds": "action",
+     "morph": "3.pl.passive-present + yuj"
+    },
     {
      "surface": "na",
      "gloss": "not",
@@ -17,233 +679,119 @@
      "morph": "(indecl.)"
     },
     {
-     "surface": "smṛtānmānasagocarādṛtā",
-     "gloss": "arising-from-remembered-mental-object",
-     "grounds": "describes source of action",
-     "morph": "compound"
+     "surface": "sāmayike",
+     "gloss": "in-conventional",
+     "grounds": "contrasted domain",
+     "morph": "m.loc.sg"
     },
     {
-     "surface": "bhavetkriyā",
-     "gloss": "would-be-action",
-     "grounds": "states possibility",
-     "morph": "f.nom.sg"
+     "surface": "dhvanau",
+     "gloss": "in-sound-or-term",
+     "grounds": "contrasted domain",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Does it matter if the definition of reflection is applied arbitrarily?",
+   "premises": [
+    "An objector might claim the definition is applied arbitrarily.",
+    "If it is arbitrary, the universe could just as well be called the original image.",
+    "Wise people are concerned with the nature of reality, not with conventional terminology."
+   ],
+   "inference": "The focus should remain on the reality of the reflection, not on arbitrary naming conventions.",
+   "uncertainties": [],
+   "plain_english": "If this arrangement of the definition is arbitrary, then let the universe be called the original image. Wise people are concerned with reality itself, not with conventional terminology."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "nanu",
+     "gloss": "but-surely",
+     "grounds": "objection marker",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "sā",
-     "gloss": "that",
-     "grounds": "refers to action",
-     "morph": "f.nom.sg"
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "kila",
+     "surface": "pratibimbasya",
+     "gloss": "of-reflection",
+     "grounds": "subject",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bimbaṃ",
+     "gloss": "original-image",
+     "grounds": "excluded object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavetsthitiḥ",
+     "gloss": "could-be-existence",
+     "grounds": "claim",
+     "morph": "3.sg.active-optative + bhū"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "from-that",
+     "grounds": "consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibimbe",
+     "gloss": "in-reflection",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hi",
      "gloss": "indeed",
      "grounds": "emphasis",
      "morph": "(indecl.)"
     },
     {
-     "surface": "vartamānataḥ",
-     "gloss": "from-present-state",
-     "grounds": "reason for action",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "ataḥ",
-     "gloss": "therefore",
-     "grounds": "conclusion marker",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "sthitaḥ",
-     "gloss": "situated",
-     "grounds": "describes touch",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "sparśavarastadindriye",
-     "gloss": "excellent-touch-in-that-sense-organ",
-     "grounds": "locates the object",
-     "morph": "compound"
-    },
-    {
-     "surface": "samāgataḥ",
-     "gloss": "arrived",
-     "grounds": "describes touch",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "sanviditastathākriyaḥ",
-     "gloss": "known-and-thus-active",
-     "grounds": "describes touch",
-     "morph": "compound"
-    }
-   ],
-   "question": "Why is the action of touch not derived from memory but from a present object?",
-   "premises": [
-    "An action arising from a remembered mental object is not the same as a present action.",
-    "Genuine sensory action occurs in the present moment.",
-    "The excellent touch is situated in and arrives at the sense organ as a known present object."
-   ],
-   "inference": "Therefore, the action of touch is caused by a present object known in the sense organ, not by memory.",
-   "uncertainties": [
-    "The exact nuance of sparśavaraḥ (excellent touch) in this context is slightly ambiguous."
-   ],
-   "plain_english": "An action does not arise from a remembered mental object, because such action truly belongs to the present. Therefore, the excellent touch is situated in that sense organ, having arrived there and being known, and it acts accordingly in the present."
-  },
-  {
-   "verse": 43,
-   "rows": [
-    {
-     "surface": "asaṃbhave",
-     "gloss": "in-impossibility",
-     "grounds": "sets condition",
-     "morph": "m.loc.sg"
-    },
-    {
-     "surface": "bāhyagatasya",
-     "gloss": "of-external-object",
-     "grounds": "specifies what is impossible",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "tādṛśaḥ",
-     "gloss": "such",
-     "grounds": "describes touch",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "sva",
-     "gloss": "own",
-     "grounds": "refers to internal nature",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "eva",
-     "gloss": "indeed",
-     "grounds": "emphasis",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tasminpratibimbitastathā",
-     "gloss": "reflected-in-that-thus",
-     "grounds": "describes internal state",
-     "morph": "compound"
-    },
-    {
-     "surface": "karoti",
-     "gloss": "produces",
-     "grounds": "main action",
-     "morph": "3.sg.active-present √kṛ"
-    },
-    {
-     "surface": "tāṃ",
-     "gloss": "that",
-     "grounds": "refers to sensation",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "sparśavaraḥ",
-     "gloss": "excellent-touch",
-     "grounds": "subject of action",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "sukhātmikāṃ",
-     "gloss": "consisting-of-pleasure",
-     "grounds": "describes sensation",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "sa",
-     "gloss": "it",
-     "grounds": "refers to touch",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "cāpi",
-     "gloss": "and-also",
-     "grounds": "adds location",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "kasyāmapi",
-     "gloss": "in-some",
-     "grounds": "indefinite location",
-     "morph": "f.loc.sg"
-    },
-    {
-     "surface": "nāḍisaṃtatau",
-     "gloss": "channel-continuum",
-     "grounds": "internal location",
-     "morph": "f.loc.sg"
-    }
-   ],
-   "question": "How can the sensation of touch occur if an external object is impossible?",
-   "premises": [
-    "An external object may be impossible or absent.",
-    "The excellent touch is reflected within one's own self.",
-    "This internally reflected touch operates within some continuum of channels."
-   ],
-   "inference": "Even without an external object, the internally reflected touch produces a pleasurable sensation within the body's channels.",
-   "uncertainties": [
-    "The precise physiological or subtle-body meaning of nāḍisaṃtatau (continuum of channels) depends on broader Tantric context."
-   ],
-   "plain_english": "When an external object is impossible, that same excellent touch, reflected within one's own self, produces that pleasurable sensation. It does so within some continuum of subtle channels."
-  },
-  {
-   "verse": 44,
-   "rows": [
-    {
-     "surface": "tena",
-     "gloss": "therefore",
-     "grounds": "conclusion from previous verses",
-     "morph": "n.ins.sg"
-    },
-    {
-     "surface": "saṃvittimakure",
-     "gloss": "in-consciousness-mirror",
-     "grounds": "location of reflection",
-     "morph": "m.loc.sg"
-    },
-    {
-     "surface": "viśvamātmānamarpayat",
-     "gloss": "offering-universe-as-self",
-     "grounds": "describes the Lord's action",
+     "surface": "bimbaṃ",
+     "gloss": "original-image",
+     "grounds": "subject",
      "morph": "n.nom.sg"
     },
     {
-     "surface": "nāthasya",
-     "gloss": "of-the-Lord",
-     "grounds": "possessor of the nature",
-     "morph": "m.gen.sg"
+     "surface": "tādātmyavṛtti",
+     "gloss": "existing-in-identity",
+     "grounds": "status",
+     "morph": "n.nom.sg"
     },
     {
-     "surface": "vadate@muṣya",
-     "gloss": "declares-of-this",
-     "grounds": "states the teaching",
-     "morph": "3.sg.active-present √vad"
-    },
-    {
-     "surface": "vimalāṃ",
-     "gloss": "pure",
-     "grounds": "describes universal nature",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "viśvarūpatām",
-     "gloss": "universal-form",
-     "grounds": "the nature being declared",
-     "morph": "f.acc.sg"
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "What does the reflection of the universe in consciousness reveal about the Lord's nature?",
+   "question": "Does a reflection require an original image to exist separately from it?",
    "premises": [
-    "The universe is offered as the self within the mirror of consciousness.",
-    "This process reveals the nature of the Lord.",
-    "The Lord's nature is characterized by a pure universal form."
+    "An objector claims a reflection cannot exist without an original image.",
+    "In a true reflection, the original does not exist as a separate entity.",
+    "The original exists only in identity with the reflection."
    ],
-   "inference": "The reflection of the universe in the mirror of consciousness demonstrates the Lord's pure, all-encompassing nature.",
+   "inference": "The objection is irrelevant because the original does not exist independently of the reflection.",
    "uncertainties": [],
-   "plain_english": "Therefore, by offering the universe as his own self in the mirror of consciousness, this declares the pure universal nature of the Lord."
+   "plain_english": "But surely a reflection cannot exist without an original image? What of that? In a reflection, the original image does not exist as a separate entity, for it exists only in identity with it."
   }
  ]
 }
