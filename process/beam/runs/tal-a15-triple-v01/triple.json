@@ -1,0 +1,775 @@
+{
+ "song": "a15",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "athaitadupayogāya",
+     "gloss": "now-for-this-purpose",
+     "grounds": "introduces the purpose of the following exposition",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāgastāvannirūpyate",
+     "gloss": "sacrifice-first-is-explained",
+     "grounds": "states that ritual worship is explained first",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "points to that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣaiva",
+     "gloss": "initiation-alone",
+     "grounds": "identifies initiation as the key means",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "bhoge",
+     "gloss": "in-enjoyment",
+     "grounds": "names worldly enjoyment as one goal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two goals",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktau",
+     "gloss": "in-liberation",
+     "grounds": "names liberation as the other goal",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "cāyātyupāyatām",
+     "gloss": "and-goes-to-means-ness",
+     "grounds": "asserts initiation becomes the means for both goals",
+     "morph": "3.sg.act-pres + f.acc.sg"
+    }
+   ],
+   "question": "Why is ritual worship explained first in this section?",
+   "premises": [
+    "Ritual worship is explained first for a specific purpose.",
+    "In that context initiation itself becomes the means.",
+    "Initiation serves both enjoyment and liberation."
+   ],
+   "inference": "Ritual worship is introduced because initiation, as its core, functions as the means to both enjoyment and liberation.",
+   "uncertainties": [],
+   "plain_english": "Now, for this purpose, ritual worship is explained first. In that context, initiation itself becomes the means for both enjoyment and liberation."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-itself",
+     "grounds": "indicates initiation can work directly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskārayogādvā",
+     "gloss": "or-through-consecration",
+     "grounds": "indicates initiation can work through ritual consecration",
+     "morph": "m.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "tadaṅgaṃ",
+     "gloss": "its-part",
+     "grounds": "refers to the ritual component related to initiation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatpradarśyate",
+     "gloss": "that-is-shown",
+     "grounds": "states that this part will be presented",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "introduces the candidate for initiation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatrābhilaṣedbhogān",
+     "gloss": "where-desires-enjoyments",
+     "grounds": "describes the candidate's desire for enjoyments in a particular domain",
+     "morph": "(indecl.) + 3.sg.act-opt + m.acc.pl"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers back to that candidate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-alone",
+     "grounds": "restricts placement to that same domain",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "niyojitaḥ",
+     "gloss": "is-appointed",
+     "grounds": "states the candidate is directed accordingly",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is initiation applied to a person who seeks particular enjoyments?",
+   "premises": [
+    "Initiation may operate directly or through consecration.",
+    "The relevant ritual part is shown in that context.",
+    "A person who desires enjoyments in a domain is appointed there."
+   ],
+   "inference": "Initiation is applied according to the candidate's desired domain, either directly or through consecration.",
+   "uncertainties": [],
+   "plain_english": "That part is shown as working either by itself or through consecration. Whoever desires enjoyments in a particular sphere is appointed in that very sphere."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "siddhibhāṅmantraśaktyeti",
+     "gloss": "sharer-of-success-by-mantra-power-thus",
+     "grounds": "quotes the result of mantra power as attainment of success",
+     "morph": "compound + (indecl.)"
+    },
+    {
+     "surface": "śrīmatsvāyaṃbhuve",
+     "gloss": "in-revered-svayambhuva-scripture",
+     "grounds": "cites the Svayambhuva scripture as authority",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "the-lord",
+     "grounds": "identifies the authoritative speaker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogyatāvaśato",
+     "gloss": "by-force-of-fitness",
+     "grounds": "makes fitness the determining factor",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "marks the domain of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsanā",
+     "gloss": "latent-tendency",
+     "grounds": "names the candidate's inner disposition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "refers to the candidate",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "matches placement to disposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "refers to that candidate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What determines where a candidate is placed according to the Svayambhuva scripture?",
+   "premises": [
+    "The Svayambhuva scripture states that one shares in success through mantra power.",
+    "Placement depends on the candidate's fitness.",
+    "A person is placed where their latent tendency lies."
+   ],
+   "inference": "According to the Svayambhuva, a candidate is placed in the domain matching their fitness and latent tendency, where mantra power brings success.",
+   "uncertainties": [],
+   "plain_english": "In the revered Svayambhuva scripture, the Lord says that one attains success through mantra power. By the force of fitness, a person is placed wherever their latent tendency lies."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "yojyo",
+     "gloss": "to-be-appointed",
+     "grounds": "states the candidate should be directed appropriately",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates falling away",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cyavate",
+     "gloss": "falls-away",
+     "grounds": "describes failure or deviation from that placement",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "tasmāditi",
+     "gloss": "from-that-thus",
+     "grounds": "draws a conclusion from the prior statement",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "śrīmālinīmate",
+     "gloss": "in-revered-malini-teaching",
+     "grounds": "cites the Malinimata as authority",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vadanbhogādyupāyatvaṃ",
+     "gloss": "declaring-means-ness-for-enjoyment-and-more",
+     "grounds": "attributes to the teacher the view that initiation is a means for enjoyment and other goals",
+     "morph": "m.nom.sg + n.acc.sg"
+    },
+    {
+     "surface": "dīkṣāyāḥ",
+     "gloss": "of-initiation",
+     "grounds": "identifies initiation as the subject",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prāha",
+     "gloss": "declared",
+     "grounds": "reports the teacher's statement",
+     "morph": "3.sg.act-perf"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negates the teacher as the agent in this phrasing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-teacher",
+     "grounds": "names the teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the Malinimata teaching say about initiation as a means?",
+   "premises": [
+    "A properly appointed candidate does not fall away from that placement.",
+    "The Malinimata teaching declares initiation to be a means for enjoyment and more.",
+    "This declaration is attributed in the cited teaching, not merely to the human teacher."
+   ],
+   "inference": "The Malinimata supports initiation as a stable means for enjoyment and related goals when applied to the right candidate.",
+   "uncertainties": [
+    "The exact force of 'no guruḥ' is slightly compressed in this verse."
+   ],
+   "plain_english": "Such a person should be appointed and does not fall away from that. In the revered Malinimata, initiation is declared to be a means for enjoyment and more."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "begins a negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cādhikāritā",
+     "gloss": "and-eligibility",
+     "grounds": "names eligibility as the issue",
+     "morph": "(indecl.) + f.nom.sg"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "identifies initiation as the required condition",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "marks absence of initiation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoge@sti",
+     "gloss": "in-yoga-exists",
+     "grounds": "states eligibility in yoga does not exist without initiation",
+     "morph": "m.loc.sg + 3.sg.act-pres"
+    },
+    {
+     "surface": "śāṅkare",
+     "gloss": "in-shaiva-yoga",
+     "grounds": "specifies the Shaiva yogic context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "introduces a second negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds the second point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogādhikāritvamekamevānayā",
+     "gloss": "yoga-eligibility-alone-by-this",
+     "grounds": "rejects the idea that initiation yields only yoga eligibility",
+     "morph": "n.nom.sg + n.nom.sg + (indecl.) + f.ins.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "marks a hypothetical result being denied",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Does initiation grant eligibility only for Shaiva yoga?",
+   "premises": [
+    "There is no eligibility for Shaiva yoga without initiation.",
+    "Initiation does not produce only eligibility for yoga.",
+    "Initiation has a broader scope than yoga alone."
+   ],
+   "inference": "Initiation is necessary for Shaiva yoga but its effect is not limited to yoga eligibility.",
+   "uncertainties": [],
+   "plain_english": "Without initiation there is no eligibility for Shaiva yoga. And initiation does not bring only eligibility for yoga."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "extends the scope beyond yoga",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrādhikāritvaṃ",
+     "gloss": "mantra-eligibility",
+     "grounds": "names eligibility for mantra practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "muktiśca",
+     "gloss": "and-liberation",
+     "grounds": "adds liberation as a result",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śivadīkṣayā",
+     "gloss": "by-shiva-initiation",
+     "grounds": "identifies Shiva initiation as the cause",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "ityasminmālinīvākye",
+     "gloss": "thus-in-this-malini-statement",
+     "grounds": "locates the claim in a Malini statement",
+     "morph": "(indecl.) + n.loc.sg"
+    },
+    {
+     "surface": "sākṣānmokṣābhyupāyatā",
+     "gloss": "direct-means-ness-for-liberation",
+     "grounds": "asserts initiation is a direct means to liberation",
+     "morph": "(indecl.) + f.nom.sg"
+    }
+   ],
+   "question": "What further results does Shiva initiation produce according to the Malini statement?",
+   "premises": [
+    "Shiva initiation gives eligibility for mantra practice.",
+    "Shiva initiation gives liberation.",
+    "The Malini statement presents initiation as a direct means to liberation."
+   ],
+   "inference": "According to the Malini statement, Shiva initiation directly brings both mantra eligibility and liberation.",
+   "uncertainties": [],
+   "plain_english": "Through Shiva initiation one also gains eligibility for mantra practice and liberation. In this statement from the Malini, initiation is said to be a direct means to liberation."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "dīkṣāyāḥ",
+     "gloss": "of-initiation",
+     "grounds": "identifies initiation as the subject",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "has-been-stated",
+     "grounds": "reports that a teaching has been given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prācyagranthena",
+     "gloss": "by-earlier-text",
+     "grounds": "attributes the teaching to an earlier text",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "punarucyate",
+     "gloss": "again-is-said",
+     "grounds": "introduces a further statement",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "pāramparyeṇa",
+     "gloss": "through-tradition",
+     "grounds": "indicates an indirect or transmitted mode",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃskṛtyā",
+     "gloss": "by-consecration",
+     "grounds": "names consecration as the operative process",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "mokṣabhogābhyupāyatā",
+     "gloss": "means-ness-for-liberation-and-enjoyment",
+     "grounds": "states initiation serves both liberation and enjoyment",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the earlier text describe initiation as a means to liberation and enjoyment?",
+   "premises": [
+    "An earlier text has already spoken about initiation.",
+    "It also states initiation works through transmitted consecration.",
+    "By that consecration initiation becomes a means to liberation and enjoyment."
+   ],
+   "inference": "The earlier tradition teaches that initiation, through consecration, serves as a means to both liberation and enjoyment.",
+   "uncertainties": [],
+   "plain_english": "The earlier text has spoken of initiation, and it is said again that through consecration handed down in tradition, initiation becomes a means to both liberation and enjoyment."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "yeṣāmadhyavasāyo@sti",
+     "gloss": "of-whom-there-is-resolve",
+     "grounds": "identifies those who have firm resolve",
+     "morph": "m.gen.pl + m.nom.sg + 3.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates capacity toward knowledge",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "toward-knowledge",
+     "grounds": "names knowledge as the target",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pratyaśaktitaḥ",
+     "gloss": "because-of-lack-of-power",
+     "grounds": "gives incapacity as the reason",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "sukhopāyamidaṃ",
+     "gloss": "this-easy-means",
+     "grounds": "refers to the prescribed method as easy",
+     "morph": "m.acc.sg + n.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "for-them",
+     "grounds": "identifies the intended recipients",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vidhānamuditaṃ",
+     "gloss": "procedure-has-been-declared",
+     "grounds": "states that a procedure is taught for them",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "by-the-teacher",
+     "grounds": "attributes the teaching to the teacher",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What provision is made for those who lack the capacity for knowledge?",
+   "premises": [
+    "Some people have resolve but lack the power for knowledge.",
+    "An easy means is prescribed for such people.",
+    "The teacher has declared this procedure for them."
+   ],
+   "inference": "For those unable to pursue knowledge directly, the teacher prescribes an easier ritual procedure.",
+   "uncertainties": [],
+   "plain_english": "For those who have resolve but, because of incapacity, cannot turn toward knowledge, the teacher has declared this easy means."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion of a citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmanmataṅgākhye",
+     "gloss": "in-revered-matanga-text",
+     "grounds": "cites the Matanga scripture",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hyuktā",
+     "gloss": "indeed-stated",
+     "grounds": "confirms the teaching is stated there",
+     "morph": "(indecl.) + f.nom.sg"
+    },
+    {
+     "surface": "mokṣābhyupāyatā",
+     "gloss": "means-ness-for-liberation",
+     "grounds": "names liberation as the goal served",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samyagjñānasvabhāvā",
+     "gloss": "whose-nature-is-true-knowledge",
+     "grounds": "defines knowledge by its true nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "gives the reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "identifies knowledge as the liberating factor",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sākṣādvimocikā",
+     "gloss": "directly-liberating",
+     "grounds": "states knowledge liberates directly",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is knowledge said to be a direct means to liberation in the Matanga text?",
+   "premises": [
+    "The Matanga text states a means to liberation.",
+    "Knowledge is by nature true knowledge.",
+    "Such knowledge liberates directly."
+   ],
+   "inference": "The Matanga text presents true knowledge as the direct means to liberation because of its very nature.",
+   "uncertainties": [],
+   "plain_english": "Thus it is stated in the revered Matanga text as a means to liberation. For knowledge, whose nature is true knowledge, is directly liberating."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "uktaṃ",
+     "gloss": "it-is-said",
+     "grounds": "introduces a cited statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-alone",
+     "grounds": "locates the statement in the same text",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "tattvānāṃ",
+     "gloss": "of-the-principles",
+     "grounds": "names the principles under discussion",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kāryakāraṇabhāvataḥ",
+     "gloss": "from-cause-and-effect-relation",
+     "grounds": "gives the basis for the analysis",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "heyādeyatvakathane",
+     "gloss": "in-explaining-to-be-rejected-and-accepted",
+     "grounds": "describes the topic of what should be rejected or accepted",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vidyāpāda",
+     "gloss": "knowledge-section",
+     "grounds": "names the section of the text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "emphasizes clarity of the teaching",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the analysis of principles as to be rejected or accepted clearly stated?",
+   "premises": [
+    "The same text discusses the principles.",
+    "It analyzes them through cause and effect relations.",
+    "This analysis appears clearly in the knowledge section."
+   ],
+   "inference": "The knowledge section of that same text clearly explains which principles are to be rejected or accepted based on cause and effect.",
+   "uncertainties": [],
+   "plain_english": "It is clearly said there, in the knowledge section, in the explanation of what is to be rejected and accepted among the principles based on their relations of cause and effect."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "tatrāśaktāstu",
+     "gloss": "but-there-the-incapable",
+     "grounds": "introduces those who lack capacity",
+     "morph": "(indecl.) + m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "refers to those incapable ones",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "for-them",
+     "grounds": "marks the recipients of the prescribed means",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dīkṣācaryāsamādhayaḥ",
+     "gloss": "initiation-conduct-and-contemplation",
+     "grounds": "lists the graded practices for the incapable",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to those practices",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vidyāpūrvakā",
+     "gloss": "preceded-by-knowledge",
+     "grounds": "states that these practices are grounded in knowledge",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yasmāttasmājjñānyuttamottamaḥ",
+     "gloss": "therefore-the-knower-is-supreme-of-the-supreme",
+     "grounds": "draws the conclusion that the knower is highest",
+     "morph": "(indecl.) + (indecl.) + m.nom.sg"
+    }
+   ],
+   "question": "What path is prescribed for those incapable of direct knowledge, and who is highest?",
+   "premises": [
+    "Some people are incapable of direct knowledge.",
+    "For them initiation, conduct, and contemplation are prescribed.",
+    "These are preceded by knowledge, so the knower is supreme."
+   ],
+   "inference": "The incapable follow initiation, conduct, and contemplation grounded in knowledge, but the knower remains the highest.",
+   "uncertainties": [],
+   "plain_english": "But for those who are incapable, there are initiation, conduct, and contemplation. Since these are preceded by knowledge, the knower is the highest of the high."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "names knowledge as the starting point",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the steps",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrāttaccāpi",
+     "gloss": "from-scripture-and-that-also",
+     "grounds": "states knowledge comes from scripture",
+     "morph": "n.abl.sg + n.nom.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "śrāvyo",
+     "gloss": "to-be-heard",
+     "grounds": "indicates scripture must be heard or taught",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nādīkṣito",
+     "gloss": "not-by-the-uninitiated",
+     "grounds": "restricts access to the initiated",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "gives the reason for the restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ato@sya",
+     "gloss": "therefore-of-him",
+     "grounds": "draws the consequence for that person",
+     "morph": "(indecl.) + m.gen.sg"
+    },
+    {
+     "surface": "saṃskriyāmātropayogo",
+     "gloss": "use-only-of-consecration",
+     "grounds": "states consecration alone is the applicable means",
+     "morph": "f.acc.sg + (indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "dīkṣayā",
+     "gloss": "by-initiation",
+     "grounds": "identifies initiation as the consecrating act",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "is-made",
+     "grounds": "states the consecration is effected",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why must consecration through initiation precede access to scriptural knowledge?",
+   "premises": [
+    "Knowledge comes from scripture.",
+    "Scripture is not to be heard by the uninitiated.",
+    "Therefore consecration through initiation is required first."
+   ],
+   "inference": "Because scriptural knowledge is restricted to the initiated, initiation serves as the necessary consecration that makes access possible.",
+   "uncertainties": [],
+   "plain_english": "Knowledge comes from scripture, and scripture is not to be heard by one who is uninitiated. Therefore, for such a person, only consecration through initiation is applied."
+  }
+ ]
+}

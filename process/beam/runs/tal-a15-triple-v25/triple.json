@@ -1,0 +1,1559 @@
+{
+ "song": "Tantraloka a15",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "bālabāliśavṛddhastrībhogabhugvyādhitādikaḥ",
+     "gloss": "child-fool-old-woman-enjoyer-sick-and-such",
+     "grounds": "describes the other type of candidate",
+     "morph": "compound"
+    },
+    {
+     "surface": "anyaḥ",
+     "gloss": "other",
+     "grounds": "contrasts with the previous type",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sabījo",
+     "gloss": "with-seed",
+     "grounds": "technical grade of initiation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasyetthaṃ",
+     "gloss": "for-whom-thus",
+     "grounds": "links candidate to prescribed rite",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīkṣoktā",
+     "gloss": "initiation-declared",
+     "grounds": "states what is prescribed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivaśāsane",
+     "gloss": "in-shiva-teaching",
+     "grounds": "locates the rule in scripture",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which kind of candidate receives the seeded initiation in the teaching of Shiva?",
+   "premises": [
+    "Some candidates are like children, fools, the old, women, enjoyers, or the sick.",
+    "Such a candidate is classed as the other type.",
+    "For this type the teaching of Shiva declares a seeded initiation."
+   ],
+   "inference": "The seeded initiation is prescribed for candidates who are not fit for the higher, seedless path.",
+   "uncertainties": [
+    "The compound bālabāliśavṛddhastrībhogabhugvyādhitādikaḥ may be read as a list of examples rather than a strict class definition."
+   ],
+   "plain_english": "Another kind of candidate is like a child, a fool, an old person, a woman, an enjoyer, or someone sick. For such a person, the teaching of Shiva prescribes the seeded initiation."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "vidvaddvandvasahānāṃ",
+     "gloss": "for-those-enduring-pairs-of-opposites",
+     "grounds": "identifies the qualified group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast with previous case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sabījā",
+     "gloss": "with-seed",
+     "grounds": "grade of initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samayātmikā",
+     "gloss": "consisting-of-pledges",
+     "grounds": "characterizes the initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīkṣānugrāhikā",
+     "gloss": "initiation-conferring-grace",
+     "grounds": "states its function",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pālyā",
+     "gloss": "to-be-observed",
+     "grounds": "prescribes observance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśeṣasamayāstu",
+     "gloss": "but-special-pledges",
+     "grounds": "adds a further obligation",
+     "morph": "compound"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "assigns the obligation to that group",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What kind of initiation must those who endure the pairs of opposites observe?",
+   "premises": [
+    "Some candidates are able to endure the pairs of opposites.",
+    "For them a seeded initiation consisting of pledges confers grace.",
+    "They must also observe the special pledges."
+   ],
+   "inference": "Candidates who endure opposites receive a seeded, pledge-based initiation and are bound to keep its special pledges.",
+   "uncertainties": [
+    "vidvaddvandva may refer to learned endurance of opposites or more generally to those who can bear dualities."
+   ],
+   "plain_english": "But for those who can endure the pairs of opposites, there is a seeded initiation made of pledges that confers grace. They must observe it, and they must also keep the special pledges."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "abhāvaṃ",
+     "gloss": "non-existence",
+     "grounds": "object of contemplation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāvayetsamyakkarmaṇāṃ",
+     "gloss": "should-contemplate-well-of-actions",
+     "grounds": "prescribes contemplative purification",
+     "morph": "compound"
+    },
+    {
+     "surface": "prācyabhāvinām",
+     "gloss": "of-past-and-future",
+     "grounds": "specifies which actions",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "mumukṣornirapekṣasya",
+     "gloss": "of-desireless-seeker-of-liberation",
+     "grounds": "identifies the candidate",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prārabdhrekaṃ",
+     "gloss": "one-begun-action",
+     "grounds": "names the remaining karma",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates purification of that karma",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "states what is not to be done",
+     "morph": "3.sg.opt.act √śādh"
+    }
+   ],
+   "question": "How should the actions of a desireless seeker of liberation be treated in initiation?",
+   "premises": [
+    "A desireless seeker of liberation aims only at release.",
+    "Past and future actions can be contemplated as non-existent.",
+    "Actions already begun must still run their course."
+   ],
+   "inference": "For a desireless seeker, initiation should dissolve past and future karma but not the karma already begun.",
+   "uncertainties": [
+    "śādhayet could be read as 'should purify' or 'should bring to effect'; the context favors not effecting or not removing prārabdha."
+   ],
+   "plain_english": "For a desireless seeker of liberation, one should clearly contemplate the non-existence of past and future actions. But one should not do anything to remove the action that has already begun."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "sādhakasya",
+     "gloss": "of-the-practitioner",
+     "grounds": "identifies the candidate",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrasts with the seeker of liberation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtyarthamitthameva",
+     "gloss": "for-sake-of-power-just-so",
+     "grounds": "states the practitioner's aim",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "should-purify",
+     "grounds": "prescribes purification",
+     "morph": "3.sg.opt.act √śudh (caus.)"
+    },
+    {
+     "surface": "śivadharmiṇyasau",
+     "gloss": "this-in-shiva-duty",
+     "grounds": "names the initiation type",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "subject of the statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lokadharmāpahāriṇī",
+     "gloss": "removing-worldly-duty",
+     "grounds": "describes its effect",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does initiation function for a practitioner who seeks power?",
+   "premises": [
+    "A practitioner may seek power rather than liberation alone.",
+    "For such a practitioner purification is performed accordingly.",
+    "This initiation belongs to Shiva-duty and removes worldly duty."
+   ],
+   "inference": "The initiation for a power-seeking practitioner purifies in a way that shifts the candidate from worldly duty to Shiva-duty.",
+   "uncertainties": [
+    "itthameva may refer back to the method of verse 27 or indicate a parallel but distinct procedure."
+   ],
+   "plain_english": "But for a practitioner who seeks power, one should purify in just that way. This initiation, grounded in Shiva-duty, takes away worldly duty."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "adharmarūpiṇāmeva",
+     "gloss": "only-of-those-of-unrighteous-form",
+     "grounds": "limits the scope of purification",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "excludes another class",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhānāṃ",
+     "gloss": "of-auspicious-acts",
+     "grounds": "names what is not purified away",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhanam",
+     "gloss": "purification",
+     "grounds": "states the rite's action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lokadharmiṇyasau",
+     "gloss": "this-in-worldly-duty",
+     "grounds": "names the initiation type",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "subject of the statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantrārādhanavarjitā",
+     "gloss": "without-mantra-worship",
+     "grounds": "describes its limitation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does the worldly-duty initiation purify and what does it omit?",
+   "premises": [
+    "Some candidates remain within worldly duty.",
+    "Their initiation purifies only unrighteous actions.",
+    "This initiation does not include mantra worship."
+   ],
+   "inference": "The worldly-duty initiation is limited: it removes unrighteousness but leaves auspicious worldly acts and lacks mantra worship.",
+   "uncertainties": [
+    "The exact ritual scope of mantrārādhanavarjitā is not specified in this verse."
+   ],
+   "plain_english": "For those who remain in worldly duty, this initiation purifies only what is unrighteous, not what is auspicious. It is an initiation without mantra worship."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "prārabdhadehabhede",
+     "gloss": "at-breaking-of-begun-body",
+     "grounds": "marks the time of death",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "continues the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuṅkte@sāvaṇimādikam",
+     "gloss": "he-enjoys-aṇimā-and-such",
+     "grounds": "states post-death experience",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhuktvordhvaṃ",
+     "gloss": "after-enjoying-above",
+     "grounds": "marks the next stage",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "describes movement to a state",
+     "morph": "3.sg.pres.act √yā"
+    },
+    {
+     "surface": "yatraiṣa",
+     "gloss": "where-this-one",
+     "grounds": "points to the attained level",
+     "morph": "compound"
+    },
+    {
+     "surface": "yukto@tha",
+     "gloss": "joined-then",
+     "grounds": "describes the soul's condition",
+     "morph": "compound"
+    },
+    {
+     "surface": "sakale@kale",
+     "gloss": "in-sakala-or-in-part",
+     "grounds": "names possible levels of attainment",
+     "morph": "compound"
+    }
+   ],
+   "question": "What happens to this initiate after the body shaped by begun karma falls away?",
+   "premises": [
+    "The initiated person still has karma already begun.",
+    "When that body breaks, the person enjoys powers such as aṇimā.",
+    "After that enjoyment the person goes to a level where they are joined, in sakala or a limited state."
+   ],
+   "inference": "The initiate passes through enjoyment of powers after death and then proceeds to a further level of conjunction.",
+   "uncertainties": [
+    "The exact contrast between sakale and akale in this compound is compressed and may admit more than one technical reading."
+   ],
+   "plain_english": "When the body formed by already-begun karma falls away, this person enjoys powers such as aṇimā. After enjoying them, he goes onward to the level where he becomes joined, whether in the sakala state or in a limited condition."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "samayācārapāśaṃ",
+     "gloss": "bond-of-pledge-conduct",
+     "grounds": "names what is purified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks the seedless case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbījāyāṃ",
+     "gloss": "in-seedless-initiation",
+     "grounds": "locates the procedure",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "should-purify",
+     "grounds": "prescribes the rite's action",
+     "morph": "3.sg.opt.act √śudh (caus.)"
+    },
+    {
+     "surface": "dīkṣāmātreṇa",
+     "gloss": "by-initiation-alone",
+     "grounds": "states the sufficient means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "names the result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syādbhaktyā",
+     "gloss": "would-be-through-devotion",
+     "grounds": "adds the inner condition",
+     "morph": "compound"
+    },
+    {
+     "surface": "deve",
+     "gloss": "to-god",
+     "grounds": "object of devotion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "to-guru",
+     "grounds": "object of devotion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "qualifies devotion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does seedless initiation accomplish for the ripe candidate?",
+   "premises": [
+    "Seedless initiation addresses the bond of pledge-conduct.",
+    "Initiation alone can bring liberation in this case.",
+    "Constant devotion to god and guru supports that liberation."
+   ],
+   "inference": "In seedless initiation, purification of the pledge-bond leads to liberation through initiation itself together with steady devotion.",
+   "uncertainties": [
+    "The verse leaves open whether devotion is a separate cause or the mode in which initiation becomes effective."
+   ],
+   "plain_english": "In the seedless initiation, one should purify the bond of pledge-conduct. Liberation can come through initiation alone, together with constant devotion to God and to the guru."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "sadyonirvāṇadā",
+     "gloss": "giving-immediate-liberation",
+     "grounds": "describes the initiation's fruit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "this-same",
+     "grounds": "refers to the seedless initiation",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirbījā",
+     "gloss": "seedless",
+     "grounds": "names the initiation grade",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yeti",
+     "gloss": "which-goes-as",
+     "grounds": "introduces its designation",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-called",
+     "grounds": "marks traditional naming",
+     "morph": "3.sg.pres.pass √bhaṇ"
+    },
+    {
+     "surface": "atītānāgatārabdhapāśatrayaviyojikā",
+     "gloss": "severing-three-bonds-past-future-begun",
+     "grounds": "explains why it gives immediate liberation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is the seedless initiation said to give immediate liberation?",
+   "premises": [
+    "The seedless initiation is called immediate-liberation-giving.",
+    "It severs the three bonds of past, future, and begun karma.",
+    "Removing those three bonds removes the basis for continued bondage."
+   ],
+   "inference": "Seedless initiation gives immediate liberation because it cuts all three temporal bonds at once.",
+   "uncertainties": [],
+   "plain_english": "This seedless initiation is said to give immediate liberation, because it cuts away the three bonds of past, future, and already-begun karma."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "dīkṣāvasāne",
+     "gloss": "at-end-of-initiation",
+     "grounds": "marks the ritual moment",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śuddhasya",
+     "gloss": "of-the-purified-one",
+     "grounds": "identifies the candidate",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dehatyāge",
+     "gloss": "at-body-abandonment",
+     "grounds": "marks the moment of death",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the attained state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "names the attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dehatyāge",
+     "gloss": "at-body-abandonment",
+     "grounds": "repeats the moment for contrast",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sabījāyāṃ",
+     "gloss": "in-seeded-initiation",
+     "grounds": "names the contrasted case",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "karmābhāvādvipadyate",
+     "gloss": "from-absence-of-karma-fails",
+     "grounds": "states the problem in the seeded case",
+     "morph": "compound"
+    }
+   ],
+   "question": "What different outcomes follow body abandonment after seedless and seeded initiation?",
+   "premises": [
+    "A purified person may abandon the body at the end of initiation.",
+    "In the seedless case the supreme state is attained.",
+    "In the seeded case the absence of karma creates a failure or complication."
+   ],
+   "inference": "Seedless initiation can culminate in the supreme state at death, while seeded initiation does not produce the same immediate completion.",
+   "uncertainties": [
+    "vipadyate is terse here; it may mean the expected result fails, or that the person meets an adverse outcome."
+   ],
+   "plain_english": "If a purified person gives up the body at the end of initiation, he reaches the supreme state. But if the body is given up in the case of seeded initiation, the result fails because karma is absent."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "samayācārapāśaṃ",
+     "gloss": "bond-of-pledge-conduct",
+     "grounds": "names the ongoing obligation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks the seeded initiate's duty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣitaḥ",
+     "gloss": "the-initiated-one",
+     "grounds": "identifies the subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pālayetsadā",
+     "gloss": "should-guard-always",
+     "grounds": "prescribes continual observance",
+     "morph": "compound"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "introduces the guru's procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭvā",
+     "gloss": "having-asked",
+     "grounds": "first step of assessment",
+     "morph": "gerund √praś"
+    },
+    {
+     "surface": "parijñāya",
+     "gloss": "having-understood",
+     "grounds": "second step of assessment",
+     "morph": "gerund √jñā"
+    },
+    {
+     "surface": "vicārya",
+     "gloss": "having-examined",
+     "grounds": "third step of assessment",
+     "morph": "gerund √car (caus.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the steps",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-guru",
+     "grounds": "agent of assessment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphasizes personal responsibility",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must the initiated person and the guru do after seeded initiation is chosen?",
+   "premises": [
+    "The seeded initiate remains bound to pledge-conduct.",
+    "That bond must be guarded continually.",
+    "The guru must personally ask, understand, and examine before proceeding."
+   ],
+   "inference": "Seeded initiation requires ongoing pledge observance by the disciple and careful personal assessment by the guru.",
+   "uncertainties": [],
+   "plain_english": "The initiated person must always guard the bond of pledge-conduct. The guru himself should first ask, understand, and carefully examine the candidate."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "ucitāṃ",
+     "gloss": "suitable",
+     "grounds": "qualifies the initiation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃvidhitsustāṃ",
+     "gloss": "wishing-to-perform-that",
+     "grounds": "describes the guru's intention",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāsanāṃ",
+     "gloss": "disposition",
+     "grounds": "object to be considered",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tādṛśīṃ",
+     "gloss": "of-that-kind",
+     "grounds": "matches disposition to initiation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śrayet",
+     "gloss": "should-rely-on",
+     "grounds": "prescribes the guru's approach",
+     "morph": "3.sg.opt.act √śri"
+    },
+    {
+     "surface": "āyātaśaktipātasya",
+     "gloss": "of-one-to-whom-grace-has-come",
+     "grounds": "identifies the recipient",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "object of the rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "with-regard-to",
+     "grounds": "links grace to initiation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "begins a prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daiśikaḥ",
+     "gloss": "the-initiating-guru",
+     "grounds": "agent under instruction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the guru approach initiation for someone who has received the descent of grace?",
+   "premises": [
+    "The guru wishes to perform a suitable initiation.",
+    "The candidate's disposition must match that initiation.",
+    "A person who has received the descent of grace comes forward for initiation."
+   ],
+   "inference": "The guru must fit the initiation to the candidate's disposition and must not treat a recipient of grace with disregard.",
+   "uncertainties": [
+    "The sentence continues into verse 36, so the prohibition is completed there."
+   ],
+   "plain_english": "When the guru wishes to give the right initiation, he should rely on the candidate's corresponding disposition. If the descent of grace has come to someone, the initiating guru, with regard to that initiation,"
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "avajñāṃ",
+     "gloss": "disrespect",
+     "grounds": "names the prohibited attitude",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidadhīteti",
+     "gloss": "should-make-thus",
+     "grounds": "completes the prohibition from verse 35",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaṃbhunājñā",
+     "gloss": "command-of-shambhu",
+     "grounds": "authorizes the rule",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirūpitā",
+     "gloss": "established",
+     "grounds": "states the rule's status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svadhanena",
+     "gloss": "with-his-own-wealth",
+     "grounds": "describes the guru's means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "daridrasya",
+     "gloss": "of-a-poor-person",
+     "grounds": "identifies the recipient",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kuryāddīkṣāṃ",
+     "gloss": "should-perform-initiation",
+     "grounds": "prescribes compassionate action",
+     "morph": "compound"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-guru",
+     "grounds": "agent of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphasizes personal responsibility",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the guru treat a poor person who has received the descent of grace?",
+   "premises": [
+    "Shambhu's command forbids disrespect toward one who has received grace.",
+    "A poor person may be unable to pay for initiation.",
+    "The guru may use his own wealth to perform the initiation."
+   ],
+   "inference": "The guru must not refuse or belittle a poor recipient of grace and should, if needed, initiate them at his own expense.",
+   "uncertainties": [],
+   "plain_english": "must not show disrespect. This is established as the command of Shambhu. If the person is poor, the guru himself should perform the initiation using his own wealth."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "extends the range of offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūrvāmbubhiryadvā",
+     "gloss": "or-with-durva-grass-and-water",
+     "grounds": "names a minimal offering",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīkṣāyai",
+     "gloss": "for-initiation",
+     "grounds": "states the purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "bhikṣate",
+     "gloss": "begs",
+     "grounds": "describes the disciple's action",
+     "morph": "3.sg.pres.mid √bhikṣ"
+    },
+    {
+     "surface": "śiśuḥ",
+     "gloss": "the-disciple",
+     "grounds": "identifies the seeker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhikṣopāttaṃ",
+     "gloss": "obtained-by-begging",
+     "grounds": "describes possible wealth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nijaṃ",
+     "gloss": "one's-own",
+     "grounds": "describes alternative wealth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "offers an alternative",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "object to be offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāggurave",
+     "gloss": "first-to-the-guru",
+     "grounds": "states the order of giving",
+     "morph": "compound"
+    },
+    {
+     "surface": "śiśuḥ",
+     "gloss": "the-disciple",
+     "grounds": "repeats the agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What may a disciple offer when seeking initiation despite poverty?",
+   "premises": [
+    "A disciple may lack ordinary wealth for initiation.",
+    "The disciple may beg for initiation even with durva grass and water.",
+    "Any wealth obtained by begging or owned personally should first be given to the guru."
+   ],
+   "inference": "Even minimal or begged offerings are acceptable for initiation if they are first offered to the guru.",
+   "uncertainties": [
+    "The ritual role of durva grass and water is stated minimally here, without further detail."
+   ],
+   "plain_english": "A disciple may even beg for initiation with nothing more than durva grass and water. Or the disciple may first give to the guru wealth that is his own or that he has obtained by begging."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "dadyādyena",
+     "gloss": "should-give-by-which",
+     "grounds": "links giving to purification",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśuddhaṃ",
+     "gloss": "purified",
+     "grounds": "describes the wealth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadyāgayogyatvamaśnute",
+     "gloss": "that-attains-fitness-for-giving",
+     "grounds": "states the effect of offering",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatrādau",
+     "gloss": "there-at-first",
+     "grounds": "shifts to the guru's qualification",
+     "morph": "compound"
+    },
+    {
+     "surface": "śivatāpattisvātantryāveśa",
+     "gloss": "entry-into-freedom-of-shiva-state",
+     "grounds": "names the essential qualification",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes exclusivity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "introduces the defining condition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What makes an offering fit for initiation and what first qualifies a guru?",
+   "premises": [
+    "Wealth given to the guru becomes purified and fit for offering.",
+    "The guru's qualification must be established first.",
+    "The essential qualification is entry into the freedom of Shiva-state."
+   ],
+   "inference": "A proper offering is purified by being given to the guru, and the true guru is defined first by living entry into Shiva's freedom.",
+   "uncertainties": [
+    "The compound śivatāpattisvātantryāveśa is dense and may emphasize attainment, freedom, or indwelling as aspects of one state."
+   ],
+   "plain_english": "By giving it, that wealth becomes purified and fit to be offered. In this matter, the first requirement is the entry into the freedom of the state of Shiva."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that-one",
+     "grounds": "refers to the qualified person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "gives reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "names the office",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāryastato@sau",
+     "gloss": "to-be-made-then-he",
+     "grounds": "states the consequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīkṣaṇe",
+     "gloss": "in-initiating",
+     "grounds": "specifies the task",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣamaḥ",
+     "gloss": "capable",
+     "grounds": "states fitness for the task",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivatāveśitā",
+     "gloss": "being-entered-by-shiva-state",
+     "grounds": "names the guru's condition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāsya",
+     "gloss": "and-of-him",
+     "grounds": "links condition to methods",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahūpāyā",
+     "gloss": "having-many-means",
+     "grounds": "describes the path to that condition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pradarśitā",
+     "gloss": "shown",
+     "grounds": "refers to prior teaching",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is truly fit to act as guru in initiation?",
+   "premises": [
+    "Only one who has entered the freedom of Shiva-state is truly a guru.",
+    "Such a person is capable of performing initiation.",
+    "Many means for entering that Shiva-state have already been shown."
+   ],
+   "inference": "The capacity to initiate depends on the guru's real entry into Shiva-state, which can be reached by many methods.",
+   "uncertainties": [
+    "The verse alludes to previously taught methods without naming them."
+   ],
+   "plain_english": "That person alone should be made the guru, for he is capable of giving initiation. His entry into the state of Shiva has been shown to come about through many means."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "kramikā",
+     "gloss": "gradual",
+     "grounds": "describes one mode of entry",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bāhyarūpā",
+     "gloss": "of-external-form",
+     "grounds": "describes its outward character",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces this mode",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānanyāsārcanādibhiḥ",
+     "gloss": "by-bathing-placement-worship-and-such",
+     "grounds": "lists external practices",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bahvīṣu",
+     "gloss": "among-many",
+     "grounds": "indicates plurality of methods",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "tāsu",
+     "gloss": "among-those",
+     "grounds": "refers back to the methods",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "tāsveṣa",
+     "gloss": "in-those-this-one",
+     "grounds": "locates the practitioner in those acts",
+     "morph": "compound"
+    },
+    {
+     "surface": "kriyāsu",
+     "gloss": "in-acts",
+     "grounds": "names the ritual actions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "śivatāṃ",
+     "gloss": "shiva-state",
+     "grounds": "object to be established",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-the-heart",
+     "grounds": "locates the inner realization",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How can external ritual acts lead to the state of Shiva?",
+   "premises": [
+    "There is a gradual path that takes an external form.",
+    "It uses practices such as bathing, placement, and worship.",
+    "Within these many acts, Shiva-state can be established in the heart."
+   ],
+   "inference": "External ritual practice can serve as a gradual means for inwardly establishing the state of Shiva.",
+   "uncertainties": [
+    "The verse continues into verse 41, so the result of establishing Shiva-state is completed there."
+   ],
+   "plain_english": "One gradual path takes an external form, using bathing, placement, worship, and similar acts. Among these many practices, one establishes the state of Shiva in the heart."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "saṃdadhaddṛḍhamabhyeti",
+     "gloss": "firmly-establishing-attains",
+     "grounds": "states the result of inner practice",
+     "morph": "compound"
+    },
+    {
+     "surface": "śivabhāvaṃ",
+     "gloss": "shiva-being",
+     "grounds": "names the attained state",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasannadhīḥ",
+     "gloss": "with-clear-mind",
+     "grounds": "describes the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivībhūto",
+     "gloss": "having-become-shiva",
+     "grounds": "describes the transformed state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadyadicchettattatkartuṃ",
+     "gloss": "whatever-he-wishes-to-do-that",
+     "grounds": "expresses freedom of action",
+     "morph": "compound"
+    },
+    {
+     "surface": "samīhate",
+     "gloss": "undertakes",
+     "grounds": "describes action from that state",
+     "morph": "3.sg.pres.mid √īh"
+    }
+   ],
+   "question": "What follows when Shiva-state is firmly established in the heart?",
+   "premises": [
+    "A clear-minded practitioner can firmly establish Shiva-state within.",
+    "By doing so the practitioner attains Shiva-being.",
+    "One who has become Shiva acts according to that realized freedom."
+   ],
+   "inference": "Firm inward establishment of Shiva-state leads to Shiva-being and to action grounded in that realization.",
+   "uncertainties": [
+    "The freedom to do whatever one wishes is framed by the attained Shiva-state, not by ordinary desire."
+   ],
+   "plain_english": "By firmly establishing it, the clear-minded practitioner attains the state of Shiva. Having become Shiva, he undertakes to do whatever he wishes."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "śivābhimānitopāyo",
+     "gloss": "means-identified-as-shiva",
+     "grounds": "names the effective means",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bāhyo",
+     "gloss": "external",
+     "grounds": "qualifies the means",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "heturna",
+     "gloss": "not-a-cause",
+     "grounds": "denies mere external causality",
+     "morph": "compound"
+    },
+    {
+     "surface": "mokṣadaḥ",
+     "gloss": "giving-liberation",
+     "grounds": "names the result in question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivo@yaṃ",
+     "gloss": "this-is-shiva",
+     "grounds": "states the recognition",
+     "morph": "compound"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "shiva",
+     "grounds": "invokes the identity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "evāsmītyevamācāryaśiṣyayoḥ",
+     "gloss": "indeed-i-am-thus-of-teacher-and-disciple",
+     "grounds": "expresses shared identification",
+     "morph": "compound"
+    }
+   ],
+   "question": "What makes an external means effective for liberation in the teacher-disciple relation?",
+   "premises": [
+    "An external means by itself is not the cause of liberation.",
+    "Liberation requires identification with Shiva.",
+    "Teacher and disciple must share the firm recognition 'this is Shiva; I am Shiva.'"
+   ],
+   "inference": "External practice gives liberation only when it is grounded in a firm Shiva-identification shared by teacher and disciple.",
+   "uncertainties": [
+    "The compound at the end is compressed; the exact distribution of the recognition between teacher and disciple is interpretive."
+   ],
+   "plain_english": "An external means identified with Shiva is not by itself what gives liberation. Liberation comes when teacher and disciple firmly hold the recognition: this is Shiva; I am indeed Shiva."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "hetutadvattayā",
+     "gloss": "as-cause-and-possessor-of-cause",
+     "grounds": "describes the relational structure",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "dārḍhyābhimāno",
+     "gloss": "firm-identification",
+     "grounds": "names the liberating conviction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mocako",
+     "gloss": "liberating",
+     "grounds": "states its effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyaṇoḥ",
+     "gloss": "indeed-of-the-two",
+     "grounds": "refers to teacher and disciple",
+     "morph": "compound"
+    },
+    {
+     "surface": "nādhyātmena",
+     "gloss": "not-without-inner",
+     "grounds": "rejects outer-only practice",
+     "morph": "compound"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "marks exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyaṃ",
+     "gloss": "the-external",
+     "grounds": "names outer practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nādhyātmaṃ",
+     "gloss": "not-the-inner",
+     "grounds": "rejects inner-only claim",
+     "morph": "compound"
+    },
+    {
+     "surface": "bāhyavarjitam",
+     "gloss": "deprived-of-external",
+     "grounds": "names inner practice without outer form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why must inner realization and outer practice be joined for liberation?",
+   "premises": [
+    "Firm identification functions through a cause-and-possessor relation between teacher and disciple.",
+    "That firm identification is what liberates.",
+    "External practice without inner realization fails, and inner realization without external form is also incomplete."
+   ],
+   "inference": "Liberation requires the union of inner realization and outer practice, grounded in firm shared identification.",
+   "uncertainties": [
+    "The phrase hetutadvattayā is philosophically compressed and may refer to the guru as cause and the disciple as recipient."
+   ],
+   "plain_english": "For the two of them, firm identification, understood as cause and its bearer, is what liberates. The external does not succeed without the inner, and the inner does not succeed when cut off from the external."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "siddhyejjñānakriyābhyāṃ",
+     "gloss": "succeeds-through-knowledge-and-action",
+     "grounds": "states the means of success",
+     "morph": "compound"
+    },
+    {
+     "surface": "taddvitīyaṃ",
+     "gloss": "that-second",
+     "grounds": "refers to the paired principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃprakāśate",
+     "gloss": "shines-forth",
+     "grounds": "describes its manifestation",
+     "morph": "3.sg.pres.mid √kāś"
+    },
+    {
+     "surface": "śrībrahmayāmale",
+     "gloss": "in-the-revered-brahma-yamala",
+     "grounds": "cites scriptural source",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "o-god",
+     "grounds": "marks quoted address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "refers to the cited authority",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "nyarūpayat",
+     "gloss": "he-established",
+     "grounds": "states Abhinava's use of the source",
+     "morph": "3.sg.imperf.act ni-√rūp (caus.)"
+    }
+   ],
+   "question": "What scriptural principle supports the union of knowledge and action?",
+   "premises": [
+    "Success comes through knowledge and action together.",
+    "This paired principle is clearly manifested.",
+    "The revered Brahmayamala is cited as authority for this teaching."
+   ],
+   "inference": "The union of knowledge and action is established by scriptural authority, not merely by inference.",
+   "uncertainties": [
+    "The quoted fragment beginning with deva is too brief to recover the full original sentence."
+   ],
+   "plain_english": "Success comes through knowledge and action together, and this paired principle shines forth. He established this by citing the revered Brahmayamala, where it says, 'O God...'"
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "śrīmadānandaśāstre",
+     "gloss": "in-the-revered-ananda-scripture",
+     "grounds": "cites another source",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds a further citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśuddhiḥ",
+     "gloss": "no-impurity",
+     "grounds": "states the teaching about the wise",
+     "morph": "compound"
+    },
+    {
+     "surface": "syādvipaścitaḥ",
+     "gloss": "would-be-of-the-wise",
+     "grounds": "identifies the subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "kintu",
+     "gloss": "but-rather",
+     "grounds": "introduces the real purpose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "names the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suvastratvaṃ",
+     "gloss": "wearing-good-clothes",
+     "grounds": "names an accompanying practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tuṣṭisaṃjananaṃ",
+     "gloss": "producing-contentment",
+     "grounds": "states the purpose of the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states the intended result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "Why does the wise person perform bathing and related observances?",
+   "premises": [
+    "The revered Ananda scripture is cited on this point.",
+    "For the wise person there is no real impurity.",
+    "Bathing and wearing good clothes produce contentment."
+   ],
+   "inference": "For the wise, ritual bathing is not for removing impurity but for generating contentment and fitness.",
+   "uncertainties": [
+    "suvastratvaṃ may refer broadly to clean or proper dress rather than specifically fine garments."
+   ],
+   "plain_english": "And in the revered Ananda scripture it is said that the wise person has no impurity. Rather, bathing and wearing good clothes serve to produce contentment."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "continues the topic of bathing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasiddhadehādimātṛnirmalatākramāt",
+     "gloss": "by-sequence-of-purity-of-body-and-other-measures",
+     "grounds": "describes the method of purification",
+     "morph": "compound"
+    },
+    {
+     "surface": "ayatnato@ntarantaḥ",
+     "gloss": "effortlessly-within-entering",
+     "grounds": "describes the inward movement",
+     "morph": "compound"
+    },
+    {
+     "surface": "syānnairmalya",
+     "gloss": "there-would-be-purity",
+     "grounds": "states the result",
+     "morph": "compound"
+    },
+    {
+     "surface": "snāyatāṃ",
+     "gloss": "for-those-bathing",
+     "grounds": "identifies the practitioners",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "moves to the next topic",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does true purity arise for those who perform bathing?",
+   "premises": [
+    "Bathing involves the familiar sequence of purifying body and related measures.",
+    "Through that sequence one can enter inwardly without strain.",
+    "Such inward entry produces purity for those who bathe."
+   ],
+   "inference": "Ritual bathing yields real purity when its outer sequence leads to effortless inward entry.",
+   "uncertainties": [
+    "mātṛ in this compound is technical and may refer to measures, principles, or limiting factors; the gloss keeps it general."
+   ],
+   "plain_english": "There, through the familiar sequence of purifying the body and related measures, those who bathe can enter inwardly without effort. From that, purity arises."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "names the rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "continues the explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devadevasya",
+     "gloss": "of-the-god-of-gods",
+     "grounds": "identifies the deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yanmūrtyaṣṭakamucyate",
+     "gloss": "which-is-called-the-eight-forms",
+     "grounds": "names the theological basis",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatraivaṃ",
+     "gloss": "there-thus",
+     "grounds": "introduces the inner application",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantradīpte@ntarmaladāhe",
+     "gloss": "in-inner-impurity-burning-lit-by-mantra",
+     "grounds": "describes the inner purification",
+     "morph": "compound"
+    },
+    {
+     "surface": "nimajjanam",
+     "gloss": "immersion",
+     "grounds": "defines the inner meaning of bathing",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the inner meaning of bathing in relation to the God of Gods?",
+   "premises": [
+    "Bathing is connected with the eight forms of the God of Gods.",
+    "Mantra can kindle an inner burning of impurity.",
+    "Immersion in that inner burning constitutes the deeper bath."
+   ],
+   "inference": "The true bath is inward immersion in mantra-kindled purification, grounded in the deity's eightfold form.",
+   "uncertainties": [
+    "The verse assumes knowledge of the eight forms without listing them."
+   ],
+   "plain_english": "The bathing of the God of Gods is connected with what is called his eight forms. In that context, the true immersion is the inward plunging into the burning of impurity lit by mantra."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "tatreṣṭamantrahṛdayo",
+     "gloss": "there-with-heart-of-chosen-mantra",
+     "grounds": "describes the practitioner's focus",
+     "morph": "compound"
+    },
+    {
+     "surface": "gorajo@ntaḥ",
+     "gloss": "within-cow-dust",
+     "grounds": "gives a ritual or symbolic measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "padatrayam",
+     "gloss": "three-steps",
+     "grounds": "specifies the movement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gatvāgatya",
+     "gloss": "having-gone-and-returned",
+     "grounds": "describes the ritual action",
+     "morph": "gerund compound √gam"
+    },
+    {
+     "surface": "bhajetsnānaṃ",
+     "gloss": "should-perform-bathing",
+     "grounds": "prescribes the act",
+     "morph": "compound"
+    },
+    {
+     "surface": "pārthivaṃ",
+     "gloss": "earthly",
+     "grounds": "names the type of bath",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhṛtidāyakam",
+     "gloss": "giving-steadiness",
+     "grounds": "states its effect",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the earthly bath performed and what effect does it have?",
+   "premises": [
+    "The practitioner is centered in the heart of the chosen mantra.",
+    "The rite involves going and returning three steps within the measure of cow dust.",
+    "This earthly bath gives steadiness."
+   ],
+   "inference": "The earthly bath is a mantra-centered ritual movement that produces steadiness.",
+   "uncertainties": [
+    "gorajas is a traditional measure; the exact practical distance may vary by ritual convention."
+   ],
+   "plain_english": "There, centered in the heart of the chosen mantra, one should go and return three steps within the space of cow dust and perform the earthly bath. That bath gives steadiness."
+  }
+ ]
+}
