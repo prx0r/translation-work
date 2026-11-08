@@ -1,13 +1,15 @@
 {
  "song": "tal-a01",
  "verse": 165,
- "question": "Does the diversity of means imply a diversity in liberation itself?",
+ "question": "Does the plurality of means imply a plurality of liberations?",
  "premises": [
-  "Some thinkers suspected that different means would produce different liberations.",
-  "The previous explanation shows why the means can vary greatly.",
-  "Variation in means does not by itself establish variation in the final state."
+  "Some wise people suspected that different means would produce different liberations.",
+  "The previous reasoning explains why means can be many without changing the goal.",
+  "By that reasoning, the suspicion is refuted."
  ],
- "inference": "Therefore the suspicion that liberation differs according to the means is refuted.",
- "uncertainties": [],
- "plain_english": "This also refutes what some wise people suspected: that because the means differ, liberation itself would also differ."
+ "inference": "Therefore difference in means does not entail difference in liberation.",
+ "uncertainties": [
+  "The verse refers back to anena without naming the exact prior step, though the context makes it clear."
+ ],
+ "plain_english": "This also answers those thinkers who worried that if the means differ, liberation itself must differ. That worry is removed by the reasoning just given."
 }

@@ -1,0 +1,1323 @@
+{
+ "song": "Tantraloka a01 (vijñāna-bheda)",
+ "items": [
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktitrayopāyaṃ",
+     "gloss": "means-of-three-powers",
+     "grounds": "compound describing knowledge",
+     "morph": "śakti-traya-upāya+acc.sg.nt"
+    },
+    {
+     "surface": "yajjñānaṃ",
+     "gloss": "which-knowledge",
+     "grounds": "relative pronoun with noun",
+     "morph": "yad-jñāna+nom.sg.nt"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścimam",
+     "gloss": "last",
+     "grounds": "refers to the third means",
+     "morph": "paścima+nom.sg.nt"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "foundation of the means",
+     "morph": "mūla+nom.sg.nt"
+    },
+    {
+     "surface": "taduttaraṃ",
+     "gloss": "higher-than-that",
+     "grounds": "compound indicating sequence",
+     "morph": "tad-uttara+nom.sg.nt"
+    },
+    {
+     "surface": "madhyamuttarottaramādimam",
+     "gloss": "middle-higher-highest-first",
+     "grounds": "compound listing the sequence of means",
+     "morph": "madhyama-uttara-uttarottara-ādima+nom.sg.nt"
+    }
+   ],
+   "question": "How are the three means of power ordered in relation to knowledge?",
+   "premises": [
+    "Knowledge operates through three means of power.",
+    "The last means is the root foundation.",
+    "The higher means follow in ascending order from middle to highest to first."
+   ],
+   "inference": "The three means form a graded sequence rooted in the last and culminating in the first.",
+   "uncertainties": [
+    "The exact mapping of madhyamottarottaramādimam to the three upāyas is compressed in the compound."
+   ],
+   "plain_english": "Thus, the knowledge that operates through the three means of power has the last as its root, and above that come the middle, the higher, the highest, and the first in sequence."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "tato@pi",
+     "gloss": "even-beyond-that",
+     "grounds": "indeclinable with particle",
+     "morph": "tatas-api (indecl.)"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies knowledge",
+     "morph": "parama+nom.sg.nt"
+    },
+    {
+     "surface": "jñānamupāyādivivarjitam",
+     "gloss": "knowledge-free-from-means-etc",
+     "grounds": "compound describing supreme knowledge",
+     "morph": "jñāna-upāya-ādi-vivarjita+nom.sg.nt"
+    },
+    {
+     "surface": "ānandaśaktiviśrāntamanuttaramihocyate",
+     "gloss": "resting-in-bliss-power-called-unsurpassed-here",
+     "grounds": "compound with verb of speaking",
+     "morph": "ānanda-śakti-viśrānta-anuttara-iha-ucyate (3.sg.pass.pres.√vac)"
+    }
+   ],
+   "question": "What is the supreme knowledge beyond all means?",
+   "premises": [
+    "There is knowledge beyond the three means.",
+    "This knowledge is free from means and similar supports.",
+    "It rests in the power of bliss and is called unsurpassed."
+   ],
+   "inference": "The highest knowledge transcends all means and abides in the bliss power as the unsurpassed state.",
+   "uncertainties": [],
+   "plain_english": "Even beyond that, the supreme knowledge, free from means and the like, resting in the power of bliss, is here called the unsurpassed."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "tatsvaprakāśaṃ",
+     "gloss": "that-self-luminous",
+     "grounds": "compound qualifying knowledge",
+     "morph": "tad-svaprakāśa+nom.sg.nt"
+    },
+    {
+     "surface": "vijñānaṃ",
+     "gloss": "liberating-insight",
+     "grounds": "the supreme knowledge",
+     "morph": "vijñāna+nom.sg.nt"
+    },
+    {
+     "surface": "vidyāvidyeśvarādibhiḥ",
+     "gloss": "by-knowledge-lords-and-others",
+     "grounds": "agents for whom it is rare",
+     "morph": "vidyā-vidyeśvara-ādi+ins.pl.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durlabhasadbhāvaṃ",
+     "gloss": "rare-in-true-nature",
+     "grounds": "compound describing its attainment",
+     "morph": "durlabha-sadbhāva+nom.sg.nt"
+    },
+    {
+     "surface": "śrīsiddhātantra",
+     "gloss": "in-revered-siddha-tantra",
+     "grounds": "scriptural source",
+     "morph": "śrī-siddhā-tantra+loc.sg.nt"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "verb of citation",
+     "morph": "3.sg.pass.pres.√vac"
+    }
+   ],
+   "question": "How rare is the self-luminous liberating insight described in the Siddha Tantra?",
+   "premises": [
+    "The supreme liberating insight is self-luminous.",
+    "Even lords of knowledge find its true nature hard to attain.",
+    "The revered Siddha Tantra declares this rarity."
+   ],
+   "inference": "Self-luminous liberating insight is so rare that even exalted beings scarcely attain it.",
+   "uncertainties": [],
+   "plain_english": "That self-luminous liberating insight, whose true nature is hard to attain even for the lords of knowledge and others, is declared in the revered Siddha Tantra."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "mālinyāṃ",
+     "gloss": "in-malini",
+     "grounds": "scriptural reference",
+     "morph": "mālinī+loc.sg.f"
+    },
+    {
+     "surface": "sūcitaṃ",
+     "gloss": "indicated",
+     "grounds": "past participle",
+     "morph": "sūcita+nom.sg.nt"
+    },
+    {
+     "surface": "caitatpaṭale@ṣṭādaśe",
+     "gloss": "and-this-in-eighteenth-chapter",
+     "grounds": "compound with location",
+     "morph": "ca-etad-paṭala-aṣṭādaśa+loc.sg.m"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverbial qualifier",
+     "morph": "sphuṭa+nom.sg.nt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caitadaprasannena",
+     "gloss": "and-this-by-ungracious",
+     "grounds": "compound with agent",
+     "morph": "ca-etad-aprasanna+ins.sg.m"
+    },
+    {
+     "surface": "śaṃkareṇeti",
+     "gloss": "by-shankara-thus",
+     "grounds": "agent with quotation marker",
+     "morph": "śaṃkara+ins.sg.m-iti (indecl.)"
+    },
+    {
+     "surface": "vākyataḥ",
+     "gloss": "from-statement",
+     "grounds": "source of evidence",
+     "morph": "vākya+abl.sg.nt-tas (indecl.)"
+    }
+   ],
+   "question": "Where is this teaching indicated and why is it not easily revealed?",
+   "premises": [
+    "This teaching is indicated in the Malini and stated clearly in its eighteenth chapter.",
+    "The statement says it is not revealed by an ungracious Shankara.",
+    "Divine grace is required for its disclosure."
+   ],
+   "inference": "The teaching is scripturally attested but remains hidden without the grace of Shankara.",
+   "uncertainties": [],
+   "plain_english": "This is indicated in the Malini and stated clearly in the eighteenth chapter, for the statement says that it is not revealed by an ungracious Shankara."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "ityanenaiva",
+     "gloss": "thus-by-this-very",
+     "grounds": "emphatic reference",
+     "morph": "iti-anena-eva (indecl.)"
+    },
+    {
+     "surface": "pāṭhena",
+     "gloss": "by-reading",
+     "grounds": "instrumental of text",
+     "morph": "pāṭha+ins.sg.m"
+    },
+    {
+     "surface": "mālinīvijayottare",
+     "gloss": "in-malini-vijaya-uttara",
+     "grounds": "scriptural source",
+     "morph": "mālinī-vijaya-uttara+loc.sg.nt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānacatuṣkaṃ",
+     "gloss": "fourfold-knowledge",
+     "grounds": "object of exposition",
+     "morph": "jñāna-catuṣka+nom.sg.nt"
+    },
+    {
+     "surface": "yatsiddhimuktimahodayam",
+     "gloss": "which-great-rise-of-attainment-liberation",
+     "grounds": "compound describing its fruit",
+     "morph": "yad-siddhi-mukti-mahā-udaya+nom.sg.nt"
+    },
+    {
+     "surface": "tanmayā",
+     "gloss": "that-by-me",
+     "grounds": "authorial statement",
+     "morph": "tad-mad+ins.sg"
+    },
+    {
+     "surface": "tantryate",
+     "gloss": "is-expounded",
+     "grounds": "verb of composition",
+     "morph": "3.sg.pass.pres.√tantr"
+    },
+    {
+     "surface": "tantrālokanāmnyatra",
+     "gloss": "in-tantraloka-named-here",
+     "grounds": "title and location",
+     "morph": "tantrāloka-nāman-atra+loc.sg.nt"
+    },
+    {
+     "surface": "śāsane",
+     "gloss": "in-teaching",
+     "grounds": "genre of the work",
+     "morph": "śāsana+loc.sg.nt"
+    }
+   ],
+   "question": "What is the author expounding in the Tantraloka based on the Malinivijayottara?",
+   "premises": [
+    "The Malinivijayottara presents a fourfold knowledge.",
+    "This fourfold knowledge brings the great rise of attainment and liberation.",
+    "The author expounds it in the teaching called Tantraloka."
+   ],
+   "inference": "The Tantraloka systematically expounds the fourfold knowledge taught in the Malinivijayottara for attainment and liberation.",
+   "uncertainties": [],
+   "plain_english": "Thus, following this very reading in the Malinivijayottara, I expound in this teaching called Tantraloka the fourfold knowledge that brings the great rise of attainment and liberation."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "tatreha",
+     "gloss": "there-here",
+     "grounds": "locative framing",
+     "morph": "tatra-iha (indecl.)"
+    },
+    {
+     "surface": "yadyadantarvā",
+     "gloss": "whatever-within-or",
+     "grounds": "indefinite object",
+     "morph": "yad-yad-antar-vā (indecl.)"
+    },
+    {
+     "surface": "bahirvā",
+     "gloss": "or-without",
+     "grounds": "alternative location",
+     "morph": "bahis-vā (indecl.)"
+    },
+    {
+     "surface": "parimṛśyate",
+     "gloss": "is-reflected-on",
+     "grounds": "verb of cognition",
+     "morph": "3.sg.pass.pres.√mṛś"
+    },
+    {
+     "surface": "anudghāṭitarūpaṃ",
+     "gloss": "with-unopened-form",
+     "grounds": "compound describing initial state",
+     "morph": "anudghāṭita-rūpa+nom.sg.nt"
+    },
+    {
+     "surface": "tatpūrvameva",
+     "gloss": "that-first-indeed",
+     "grounds": "temporal emphasis",
+     "morph": "tad-pūrva-eva (indecl.)"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines-forth",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.ātm.pres.√kāś"
+    }
+   ],
+   "question": "How does any object first appear in reflective awareness?",
+   "premises": [
+    "Anything reflected on may be internal or external.",
+    "Before full articulation, it appears in an unopened form.",
+    "This unopened appearance is the first shining forth."
+   ],
+   "inference": "All reflective cognition begins with an initially unopened manifestation of the object.",
+   "uncertainties": [],
+   "plain_english": "Here, whatever is reflected on, whether within or without, first shines forth in an unopened form."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "tathānudghāṭitākārā",
+     "gloss": "thus-with-unopened-shape",
+     "grounds": "compound describing appearance",
+     "morph": "tathā-anudghāṭita-ākāra+nom.sg.f"
+    },
+    {
+     "surface": "nirvācyenātmanā",
+     "gloss": "with-indescribable-nature",
+     "grounds": "instrumental of mode",
+     "morph": "nirvācya-ātman+ins.sg.m"
+    },
+    {
+     "surface": "prathā",
+     "gloss": "manifestation",
+     "grounds": "subject of the verse",
+     "morph": "prathā+nom.sg.f"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "identified with that manifestation",
+     "morph": "saṃśaya+nom.sg.m"
+    },
+    {
+     "surface": "kutracidrūpe",
+     "gloss": "in-some-form",
+     "grounds": "locative condition",
+     "morph": "kutracid-rūpa+loc.sg.nt"
+    },
+    {
+     "surface": "niścite",
+     "gloss": "when-determined",
+     "grounds": "locative absolute",
+     "morph": "niścita+loc.sg.nt"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative absolute participle",
+     "morph": "sat+loc.sg.nt"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "negated alternative",
+     "morph": "na-anyathā (indecl.)"
+    }
+   ],
+   "question": "When does the initial unopened manifestation become doubt?",
+   "premises": [
+    "The first manifestation has an unopened shape and an indescribable nature.",
+    "Doubt arises when some form is determined.",
+    "Without such determination, doubt does not arise."
+   ],
+   "inference": "Doubt is the unopened manifestation that emerges once a partial determination of form is present.",
+   "uncertainties": [],
+   "plain_english": "That manifestation, with its shape still unopened and its nature indescribable, is doubt; it arises when some form is determined, and not otherwise."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "etatkimiti",
+     "gloss": "this-what-thus",
+     "grounds": "interrogative expression",
+     "morph": "etad-kim-iti (indecl.)"
+    },
+    {
+     "surface": "mukhye@sminnetadaṃśaḥ",
+     "gloss": "in-this-main-this-part",
+     "grounds": "compound locating certainty",
+     "morph": "mukhya-etad-etad-aṃśa+nom.sg.m"
+    },
+    {
+     "surface": "suniścitaḥ",
+     "gloss": "well-determined",
+     "grounds": "qualifies the part",
+     "morph": "su-niścita+nom.sg.m"
+    },
+    {
+     "surface": "saṃśayo@stitvanāstyādidharmānudghāṭitātmakaḥ",
+     "gloss": "doubt-is-or-is-not-etc-with-unopened-properties",
+     "grounds": "compound defining doubt",
+     "morph": "saṃśaya-asti-tu-na-asti-ādi-dharma-anudghāṭita-ātmaka+nom.sg.m"
+    }
+   ],
+   "question": "What is the structure of doubt expressed as 'what is this'?",
+   "premises": [
+    "In the question 'what is this', some main part is already well determined.",
+    "Doubt concerns properties like existence or non-existence that remain unopened.",
+    "Doubt therefore combines partial certainty with unopened alternatives."
+   ],
+   "inference": "Doubt is a mixed cognition in which a core referent is fixed while its qualifying properties remain unopened.",
+   "uncertainties": [],
+   "plain_english": "In the question 'what is this?', this main part is well determined, while doubt has the nature of unopened properties such as whether it is or is not."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "kimityetasya",
+     "gloss": "of-this-word-what",
+     "grounds": "genitive of the interrogative",
+     "morph": "kim-iti-etad+gen.sg.m"
+    },
+    {
+     "surface": "śabdasya",
+     "gloss": "of-word",
+     "grounds": "noun qualified by interrogative",
+     "morph": "śabda+gen.sg.m"
+    },
+    {
+     "surface": "nādhiko@rthaḥ",
+     "gloss": "no-additional-meaning",
+     "grounds": "negated predicate",
+     "morph": "na-adhika-artha+nom.sg.m"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines-forth",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.ātm.pres.√kāś"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvanunmudritākāraṃ",
+     "gloss": "rather-unopened-shaped",
+     "grounds": "compound qualifying object",
+     "morph": "tu-anunmudrita-ākāra+acc.sg.nt"
+    },
+    {
+     "surface": "vastvevābhidadhātyayam",
+     "gloss": "object-alone-this-denotes",
+     "grounds": "verb with emphatic object",
+     "morph": "vastu-eva-abhidadhāti-ayam (3.sg.act.pres.√dhā)"
+    }
+   ],
+   "question": "What meaning does the interrogative word 'what' actually convey?",
+   "premises": [
+    "The word 'what' does not add a further determinate meaning.",
+    "It points to an object whose form is not yet opened.",
+    "Its function is to indicate an unopened object rather than define it."
+   ],
+   "inference": "The interrogative 'what' signifies an object in an unopened state, not an additional positive content.",
+   "uncertainties": [],
+   "plain_english": "The word 'what' does not reveal any additional meaning; rather, it denotes an object whose form is still unopened."
+  },
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "sthāṇurvā",
+     "gloss": "post-or",
+     "grounds": "first alternative",
+     "morph": "sthāṇu-vā (indecl.)"
+    },
+    {
+     "surface": "puruṣo",
+     "gloss": "person",
+     "grounds": "second alternative",
+     "morph": "puruṣa+nom.sg.m"
+    },
+    {
+     "surface": "veti",
+     "gloss": "or-thus",
+     "grounds": "alternative marker",
+     "morph": "vā-iti (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhyo@styeṣa",
+     "gloss": "primary-is-this",
+     "grounds": "negated predicate",
+     "morph": "mukhya-asti-eṣa (3.sg.act.pres.√as)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject",
+     "morph": "saṃśaya+nom.sg.m"
+    },
+    {
+     "surface": "bhūyaḥsthadharmajāteṣu",
+     "gloss": "among-many-present-properties",
+     "grounds": "locative context",
+     "morph": "bhūyas-stha-dharma-jāta+loc.pl.nt"
+    },
+    {
+     "surface": "niścayotpāda",
+     "gloss": "arising-of-certainty",
+     "grounds": "compound subject",
+     "morph": "niścaya-utpāda+nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is 'post or person' not the primary form of doubt?",
+   "premises": [
+    "The example 'post or person' presents two determinate alternatives.",
+    "Primary doubt arises before such determinate alternatives are fixed.",
+    "When many properties are present, certainty about them is already being produced."
+   ],
+   "inference": "The 'post or person' case is a secondary alternation, not the primary unopened doubt.",
+   "uncertainties": [],
+   "plain_english": "The doubt 'is it a post or a person?' is not the primary kind, for when many present properties are involved, what arises there is really the production of certainty."
+  },
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "āmarśanīyadvairūpyānudghāṭanavaśātpunaḥ",
+     "gloss": "again-from-unopening-of-two-reflectable-forms",
+     "grounds": "compound giving cause",
+     "morph": "āmarśanīya-dvairūpya-anudghāṭana-vaśa-punar (indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject",
+     "morph": "saṃśaya+nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "tad+nom.sg.m"
+    },
+    {
+     "surface": "kimityaṃśe",
+     "gloss": "in-the-what-part",
+     "grounds": "locative of aspect",
+     "morph": "kim-iti-aṃśa+loc.sg.m"
+    },
+    {
+     "surface": "vikalpastvanyathā",
+     "gloss": "but-conceptual-construction-otherwise",
+     "grounds": "contrastive identification",
+     "morph": "vikalpa-tu-anyathā (indecl.)"
+    },
+    {
+     "surface": "sphuṭaḥ",
+     "gloss": "clear",
+     "grounds": "predicate",
+     "morph": "sphuṭa+nom.sg.m"
+    }
+   ],
+   "question": "How do primary doubt and conceptual construction differ in this analysis?",
+   "premises": [
+    "Doubt arises again from the non-opening of two reflectable forms.",
+    "This doubt belongs to the 'what' aspect of cognition.",
+    "Conceptual construction is different and appears clearly as an alternative formation."
+   ],
+   "inference": "Primary doubt concerns unopened dual possibilities, while vikalpa is a distinct, clearer conceptual formation.",
+   "uncertainties": [],
+   "plain_english": "Again, because two reflectable forms remain unopened, that is doubt in the 'what' aspect; conceptual construction, by contrast, is clearly something else."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "tenānudghāṭitātmatvabhāvaprathanameva",
+     "gloss": "therefore-manifestation-of-unopened-beingness-alone",
+     "grounds": "compound conclusion",
+     "morph": "tena-anudghāṭita-ātmatva-bhāva-prathana-eva+nom.sg.nt"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "yad+nom.sg.nt"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "temporal qualifier",
+     "morph": "prathama+nom.sg.nt"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "tad+nom.sg.m"
+    },
+    {
+     "surface": "ihoddeśaḥ",
+     "gloss": "here-initial-indication",
+     "grounds": "technical term",
+     "morph": "iha-uddeśa+nom.sg.m"
+    },
+    {
+     "surface": "praśnaḥ",
+     "gloss": "question",
+     "grounds": "equated term",
+     "morph": "praśna+nom.sg.m"
+    },
+    {
+     "surface": "saṃśaya",
+     "gloss": "doubt",
+     "grounds": "equated term",
+     "morph": "saṃśaya+nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are initial indication, question, and doubt related in first cognition?",
+   "premises": [
+    "The first manifestation is the shining forth of an unopened beingness.",
+    "This first stage is called initial indication.",
+    "The same stage is also question and doubt."
+   ],
+   "inference": "Initial indication, question, and doubt are three names for the same first unopened manifestation.",
+   "uncertainties": [],
+   "plain_english": "Therefore, the first manifestation of an unopened beingness is here the initial indication; it is also the question and indeed the doubt."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "tathānudghāṭitākārabhāvaprasaravartmanā",
+     "gloss": "thus-by-path-of-unopened-form-expansion",
+     "grounds": "compound describing mode",
+     "morph": "tathā-anudghāṭita-ākāra-bhāva-prasara-vartman+ins.sg.m"
+    },
+    {
+     "surface": "prasarantī",
+     "gloss": "expanding",
+     "grounds": "present participle",
+     "morph": "prasarantī+nom.sg.f"
+    },
+    {
+     "surface": "svasaṃvittiḥ",
+     "gloss": "own-awareness",
+     "grounds": "subject",
+     "morph": "sva-saṃvitti+nom.sg.f"
+    },
+    {
+     "surface": "praṣṭrī",
+     "gloss": "questioner",
+     "grounds": "role assumed by awareness",
+     "morph": "praṣṭrī+nom.sg.f"
+    },
+    {
+     "surface": "śiṣyātmatāṃ",
+     "gloss": "state-of-being-disciple",
+     "grounds": "resulting identity",
+     "morph": "śiṣya-ātmatā+acc.sg.f"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone-to",
+     "grounds": "past participle",
+     "morph": "gata+nom.sg.f"
+    }
+   ],
+   "question": "How does self-awareness take on the role of the questioning disciple?",
+   "premises": [
+    "Self-awareness can expand along the path of unopened forms.",
+    "In that expansion it functions as the questioner.",
+    "This questioning function is identified as the state of being a disciple."
+   ],
+   "inference": "The disciple is not separate from awareness but is awareness in its questioning, unopened expansion.",
+   "uncertainties": [],
+   "plain_english": "Thus, as self-awareness expands along the path of unopened forms, it becomes the questioner and takes on the state of being a disciple."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "tathāntaraparāmarśaniścayātmatirohiteḥ",
+     "gloss": "thus-from-concealment-of-inner-reflective-certainty",
+     "grounds": "compound ablative cause",
+     "morph": "tathā-antar-parāmarśa-niścaya-ātma-tirohiti+abl.sg.f"
+    },
+    {
+     "surface": "prasarānantarodbhūtasaṃhārodayabhāgapi",
+     "gloss": "also-sharing-withdrawal-rise-right-after-expansion",
+     "grounds": "compound describing awareness",
+     "morph": "prasara-anantara-udbhūta-saṃhāra-udaya-bhāg-api+nom.sg.f"
+    }
+   ],
+   "question": "What happens to awareness when inner reflective certainty is concealed?",
+   "premises": [
+    "Inner reflective certainty can become concealed.",
+    "Awareness continues to move through expansion and withdrawal.",
+    "Even after expansion, withdrawal and re-emergence arise together in it."
+   ],
+   "inference": "When certainty is concealed, awareness still dynamically alternates between expansion, withdrawal, and emergence.",
+   "uncertainties": [
+    "The verse is syntactically compressed and continues the subject from the previous verse."
+   ],
+   "plain_english": "Likewise, when inner reflective certainty is concealed, awareness still partakes of withdrawal and emergence arising immediately after expansion."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "yāvatyeva",
+     "gloss": "to-whatever-extent-indeed",
+     "grounds": "correlative extent",
+     "morph": "yāvatī-eva (indecl.)"
+    },
+    {
+     "surface": "bhavedbāhyaprasare",
+     "gloss": "may-be-in-outer-expansion",
+     "grounds": "locative condition",
+     "morph": "bhavet-bāhya-prasara+loc.sg.m (3.sg.opt.√bhū)"
+    },
+    {
+     "surface": "prasphuṭātmani",
+     "gloss": "in-clearly-manifest-nature",
+     "grounds": "locative qualifier",
+     "morph": "prasphuṭa-ātman+loc.sg.m"
+    },
+    {
+     "surface": "anunmīlitarūpā",
+     "gloss": "with-unopened-form",
+     "grounds": "qualifies the questioner",
+     "morph": "anunmīlita-rūpa+nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative subject",
+     "morph": "tad+nom.sg.f"
+    },
+    {
+     "surface": "praṣṭrī",
+     "gloss": "questioner",
+     "grounds": "subject role",
+     "morph": "praṣṭrī+nom.sg.f"
+    },
+    {
+     "surface": "tāvati",
+     "gloss": "to-that-extent",
+     "grounds": "correlative extent",
+     "morph": "tāvat+loc.sg.nt"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-called",
+     "grounds": "verb of designation",
+     "morph": "3.sg.pass.pres.√bhaṇ"
+    }
+   ],
+   "question": "To what extent is awareness described as the questioner in outer expansion?",
+   "premises": [
+    "Outer expansion can become clearly manifest.",
+    "Within that expansion, awareness may still remain unopened in form.",
+    "As long as that unopenedness persists, awareness is called the questioner."
+   ],
+   "inference": "The questioning role lasts exactly as long as awareness remains unopened within manifest expansion.",
+   "uncertainties": [],
+   "plain_english": "To whatever extent, in an outer expansion that is clearly manifest, awareness remains unopened in form, to that same extent it is called the questioner."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "svayamevaṃ",
+     "gloss": "by-itself-thus",
+     "grounds": "emphatic manner",
+     "morph": "svayam-evam (indecl.)"
+    },
+    {
+     "surface": "vibodhaśca",
+     "gloss": "and-awakening",
+     "grounds": "subject with conjunction",
+     "morph": "vibodha+nom.sg.m-ca (indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praśnottarātmakaḥ",
+     "gloss": "of-question-and-answer-nature",
+     "grounds": "compound predicate",
+     "morph": "praśna-uttara-ātmaka+nom.sg.m"
+    },
+    {
+     "surface": "guruśiṣyapade@pyeṣa",
+     "gloss": "even-in-guru-disciple-roles-this",
+     "grounds": "compound with emphatic particle",
+     "morph": "guru-śiṣya-pada-api-eṣa+nom.sg.m"
+    },
+    {
+     "surface": "dehabhedo",
+     "gloss": "difference-of-bodies",
+     "grounds": "subject of negation",
+     "morph": "deha-bheda+nom.sg.m"
+    },
+    {
+     "surface": "hyatāttvikaḥ",
+     "gloss": "for-not-ultimate",
+     "grounds": "explanatory predicate",
+     "morph": "hi-atāttvika+nom.sg.m"
+    }
+   ],
+   "question": "Is the distinction between guru and disciple ultimately real in this account of awakening?",
+   "premises": [
+    "Awakening itself takes the form of question and answer.",
+    "This same dynamic appears in the roles of guru and disciple.",
+    "The bodily difference between them is not ultimately real."
+   ],
+   "inference": "Guru and disciple are functional roles within one awakening awareness, not ultimately separate beings.",
+   "uncertainties": [],
+   "plain_english": "Thus awakening itself has the nature of question and answer; even in the roles of guru and disciple, the difference of bodies is not ultimately real."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "bodho",
+     "gloss": "awareness",
+     "grounds": "subject",
+     "morph": "bodha+nom.sg.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodharūpatvādantarnānākṛtīḥ",
+     "gloss": "because-of-awareness-nature-inner-many-forms",
+     "grounds": "compound giving reason and object",
+     "morph": "bodha-rūpatva-antar-nānā-ākṛti+acc.pl.f"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "qualifies inner forms",
+     "morph": "sthita+acc.pl.f"
+    },
+    {
+     "surface": "bahirābhāsayatyeva",
+     "gloss": "makes-shine-outward-indeed",
+     "grounds": "verb with emphasis",
+     "morph": "bahis-ābhāsayati-eva (3.sg.act.pres.caus.√bhās)"
+    },
+    {
+     "surface": "drāksāmānyaviśeṣataḥ",
+     "gloss": "as-grape-universal-and-particular",
+     "grounds": "example of manifestation",
+     "morph": "drākṣā-sāmānya-viśeṣa+abl.sg.nt-tas (indecl.)"
+    }
+   ],
+   "question": "How does awareness manifest inner multiplicity as outer appearance?",
+   "premises": [
+    "Awareness is of the nature of awareness itself.",
+    "Many forms are situated within it.",
+    "It makes these inner forms shine outward, as in the case of a grape as universal and particular."
+   ],
+   "inference": "Outer multiplicity is the outward shining of forms already present within awareness.",
+   "uncertainties": [],
+   "plain_english": "For awareness, being of the nature of awareness, makes the many forms situated within it shine outward, as in the case of a grape appearing as both universal and particular."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "srakṣyamāṇaviśeṣāṃśākāṃkṣāyogyasya",
+     "gloss": "of-fit-for-expectation-of-future-particular-part",
+     "grounds": "compound qualifying property",
+     "morph": "srakṣyamāṇa-viśeṣa-aṃśa-ākāṃkṣā-yogya+gen.sg.m"
+    },
+    {
+     "surface": "kasyacit",
+     "gloss": "of-some",
+     "grounds": "indefinite qualifier",
+     "morph": "kaścit+gen.sg.m"
+    },
+    {
+     "surface": "dharmasya",
+     "gloss": "of-property",
+     "grounds": "object of creation",
+     "morph": "dharma+gen.sg.m"
+    },
+    {
+     "surface": "sṛṣṭiḥ",
+     "gloss": "creation",
+     "grounds": "subject",
+     "morph": "sṛṣṭi+nom.sg.f"
+    },
+    {
+     "surface": "sāmānyasṛṣṭiḥ",
+     "gloss": "general-creation",
+     "grounds": "identification",
+     "morph": "sāmānya-sṛṣṭi+nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "tad+nom.sg.f"
+    },
+    {
+     "surface": "saṃśayātmikā",
+     "gloss": "of-doubt-nature",
+     "grounds": "predicate",
+     "morph": "saṃśaya-ātmaka+nom.sg.f"
+    }
+   ],
+   "question": "What kind of cognitive creation corresponds to doubt?",
+   "premises": [
+    "A property may be fit for expectation of a particular part yet to be manifested.",
+    "The creation of such a property is a general creation.",
+    "This general creation has the nature of doubt."
+   ],
+   "inference": "Doubt corresponds to a general cognitive positing that awaits specification of particulars.",
+   "uncertainties": [],
+   "plain_english": "The creation of some property that is fit for the expectation of a particular part yet to be manifested is a general creation, and that is of the nature of doubt."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "srakṣyamāṇo",
+     "gloss": "to-be-manifested",
+     "grounds": "future participle",
+     "morph": "srakṣyamāṇa+nom.sg.m"
+    },
+    {
+     "surface": "viśeṣāṃśo",
+     "gloss": "particular-part",
+     "grounds": "subject",
+     "morph": "viśeṣa-aṃśa+nom.sg.m"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tūparamettadā",
+     "gloss": "but-settles-then",
+     "grounds": "verb with temporal marker",
+     "morph": "tu-uparamet-tadā (3.sg.opt.√ram)"
+    },
+    {
+     "surface": "nirṇayo",
+     "gloss": "determination",
+     "grounds": "resulting state",
+     "morph": "nirṇaya+nom.sg.m"
+    },
+    {
+     "surface": "mātṛrucito",
+     "gloss": "from-cognizer-preference",
+     "grounds": "ablative source",
+     "morph": "mātṛ-ruci+abl.sg.f-tas (indecl.)"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "negated alternative",
+     "morph": "na-anyathā (indecl.)"
+    },
+    {
+     "surface": "kalpakoṭibhiḥ",
+     "gloss": "by-crores-of-ages",
+     "grounds": "hyperbolic instrument",
+     "morph": "kalpa-koṭi+ins.pl.f"
+    }
+   ],
+   "question": "What brings about determinate resolution of a manifested particular?",
+   "premises": [
+    "A particular part may be in the process of manifestation.",
+    "When that manifestation settles, determination arises.",
+    "This determination depends on the cognizer's preference, not on endless time."
+   ],
+   "inference": "Determination is finalized by the cognizer's orientation once the particular settles, not by mere passage of time.",
+   "uncertainties": [],
+   "plain_english": "When the particular part that is to be manifested settles, determination arises from the cognizer's preference, and not otherwise, not even in millions of ages."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "tasyātha",
+     "gloss": "then-of-that",
+     "grounds": "transitional phrase",
+     "morph": "tasya-atha (indecl.)"
+    },
+    {
+     "surface": "vastunaḥ",
+     "gloss": "of-object",
+     "grounds": "genitive object",
+     "morph": "vastu+gen.sg.nt"
+    },
+    {
+     "surface": "svātmavīryākramaṇapāṭavāt",
+     "gloss": "from-skill-in-seizing-own-power",
+     "grounds": "compound ablative cause",
+     "morph": "sva-ātma-vīrya-ākramaṇa-pāṭava+abl.sg.nt"
+    },
+    {
+     "surface": "unmudraṇaṃ",
+     "gloss": "unfolding",
+     "grounds": "subject",
+     "morph": "unmudraṇa+nom.sg.nt"
+    },
+    {
+     "surface": "tayākṛtyā",
+     "gloss": "by-that-activity",
+     "grounds": "instrumental means",
+     "morph": "tad-ākṛti+ins.sg.f"
+    },
+    {
+     "surface": "lakṣaṇottaranirṇayāḥ",
+     "gloss": "definition-answer-determinations",
+     "grounds": "compound result",
+     "morph": "lakṣaṇa-uttara-nirṇaya+nom.pl.m"
+    }
+   ],
+   "question": "How does an object move from unfolding to definition and determination?",
+   "premises": [
+    "An object unfolds through the skillful seizing of its own power.",
+    "This unfolding occurs through a specific cognitive activity.",
+    "From that activity arise definition, answer, and determination."
+   ],
+   "inference": "The unfolding of an object by awareness yields the stages of definition, response, and determinate knowledge.",
+   "uncertainties": [],
+   "plain_english": "Then, through the skillful seizing of that object's own power, its unfolding occurs by that activity, giving rise to definition, answer, and determinations."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "nirṇītatāvaddharmāṃśapṛṣṭhapātitayā",
+     "gloss": "by-following-on-already-determined-property-part",
+     "grounds": "compound instrumental cause",
+     "morph": "nirṇīta-tāvat-dharma-aṃśa-pṛṣṭhapātitā+ins.sg.f"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuddeśalakṣaṇātmaparīkṣaṇam",
+     "gloss": "examination-of-indication-definition-nature",
+     "grounds": "compound object",
+     "morph": "samuddeśa-lakṣaṇa-ātma-parīkṣaṇa+nom.sg.nt"
+    }
+   ],
+   "question": "Why does the cycle of indication, definition, and examination repeat?",
+   "premises": [
+    "A property part may already be determined.",
+    "That determination becomes the basis for further inquiry.",
+    "Inquiry proceeds again and again through indication, definition, and examination."
+   ],
+   "inference": "Cognitive investigation is iterative, with each determination prompting renewed indication, definition, and examination.",
+   "uncertainties": [],
+   "plain_english": "Because each already determined property part becomes the basis for what follows, the examination consisting of indication and definition occurs again and again."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "dṛṣṭānumānaupamyāptavacanādiṣu",
+     "gloss": "in-perception-inference-comparison-trustworthy-speech-etc",
+     "grounds": "compound listing means of knowledge",
+     "morph": "dṛṣṭa-anumāna-aupamya-āpta-vacana-ādi+loc.pl.nt"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "adverb of scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uddeśalakṣaṇāvekṣātritayaṃ",
+     "gloss": "triad-of-indication-definition-examination",
+     "grounds": "compound subject",
+     "morph": "uddeśa-lakṣaṇa-avekṣā-tritaya+nom.sg.nt"
+    },
+    {
+     "surface": "prāṇināṃ",
+     "gloss": "of-living-beings",
+     "grounds": "genitive of experiencers",
+     "morph": "prāṇin+gen.pl.m"
+    },
+    {
+     "surface": "sphuret",
+     "gloss": "flashes-forth",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.opt.ātm.√sphur"
+    }
+   ],
+   "question": "Where does the triad of indication, definition, and examination operate?",
+   "premises": [
+    "Living beings use perception, inference, comparison, trustworthy speech, and other means.",
+    "Across all these means, the same cognitive pattern appears.",
+    "That pattern is the triad of indication, definition, and examination."
+   ],
+   "inference": "The triad of indication, definition, and examination is a universal structure of cognition across all valid means of knowing.",
+   "uncertainties": [],
+   "plain_english": "In perception, inference, comparison, trustworthy speech, and so on, the triad of indication, definition, and examination flashes forth everywhere for living beings."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "nirvikalpitamuddeśo",
+     "gloss": "non-conceptual-is-indication",
+     "grounds": "identification",
+     "morph": "nirvikalpita+nom.sg.nt-uddeśa+nom.sg.m"
+    },
+    {
+     "surface": "vikalpo",
+     "gloss": "conceptual-construction",
+     "grounds": "subject",
+     "morph": "vikalpa+nom.sg.m"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "definition",
+     "grounds": "identification",
+     "morph": "lakṣaṇa+nom.sg.nt"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parīkṣaṇaṃ",
+     "gloss": "examination",
+     "grounds": "subject",
+     "morph": "parīkṣaṇa+nom.sg.nt"
+    },
+    {
+     "surface": "tathādhyakṣe",
+     "gloss": "likewise-in-direct-perception",
+     "grounds": "locative context",
+     "morph": "tathā-adhyakṣa+loc.sg.nt"
+    },
+    {
+     "surface": "vikalpānāṃ",
+     "gloss": "of-conceptual-constructions",
+     "grounds": "genitive plural",
+     "morph": "vikalpa+gen.pl.m"
+    },
+    {
+     "surface": "paramparā",
+     "gloss": "series",
+     "grounds": "identification",
+     "morph": "paramparā+nom.sg.f"
+    }
+   ],
+   "question": "How do indication, definition, and examination map onto non-conceptual and conceptual cognition?",
+   "premises": [
+    "Indication is non-conceptual.",
+    "Definition is conceptual construction.",
+    "Examination, even in direct perception, unfolds as a series of conceptual constructions."
+   ],
+   "inference": "The cognitive triad spans from non-conceptual indication to conceptual definition and an extended chain of conceptual examination.",
+   "uncertainties": [],
+   "plain_english": "Indication is non-conceptual, definition is conceptual construction, and examination, even in direct perception, is a series of conceptual constructions."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "nago@yamiti",
+     "gloss": "this-is-a-mountain-thus",
+     "grounds": "example of indication",
+     "morph": "naga-ayam-iti (indecl.)"
+    },
+    {
+     "surface": "coddeśo",
+     "gloss": "and-indication",
+     "grounds": "technical identification",
+     "morph": "ca-uddeśa+nom.sg.m"
+    },
+    {
+     "surface": "dhūmitvādagnimāniti",
+     "gloss": "because-of-smoke-has-fire-thus",
+     "grounds": "example of definition",
+     "morph": "dhūmitva-agnimat-iti (indecl.)"
+    },
+    {
+     "surface": "lakṣyaṃ",
+     "gloss": "to-be-defined",
+     "grounds": "technical identification",
+     "morph": "lakṣya+nom.sg.nt"
+    },
+    {
+     "surface": "vyāptyādivijñānajālaṃ",
+     "gloss": "web-of-knowledge-of-pervasion-etc",
+     "grounds": "compound describing examination",
+     "morph": "vyāpti-ādi-vijñāna-jāla+nom.sg.nt"
+    },
+    {
+     "surface": "tvatra",
+     "gloss": "but-here",
+     "grounds": "contrastive locative",
+     "morph": "tu-atra (indecl.)"
+    },
+    {
+     "surface": "parīkṣaṇam",
+     "gloss": "examination",
+     "grounds": "technical identification",
+     "morph": "parīkṣaṇa+nom.sg.nt"
+    }
+   ],
+   "question": "How are indication, definition, and examination illustrated in the mountain-and-fire example?",
+   "premises": [
+    "The statement 'this is a mountain' functions as indication.",
+    "The statement 'it has fire because of smoke' functions as definition.",
+    "The supporting web of knowledge about pervasion and related factors functions as examination."
+   ],
+   "inference": "The inferential example concretely displays indication, definition, and examination as successive cognitive operations.",
+   "uncertainties": [],
+   "plain_english": "The indication is 'this is a mountain'; the definition is 'it has fire because it has smoke'; and the examination here is the web of knowledge involving pervasion and the like."
+  }
+ ]
+}

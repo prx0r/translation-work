@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "tadetattrividhatvaṃ",
-   "morph": "compound: tat+etat+trividhatvam",
+   "morph": "compound=tat+membership,etat+membership,trividhatvam+membership; n.nom.sg",
    "grounds": "this threefold division"
   },
   {
    "lemma": "hi",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "emphasis"
   },
   {
    "lemma": "śāstre",
@@ -19,23 +19,23 @@
   },
   {
    "lemma": "śrīpūrvanāmani",
-   "morph": "compound: śrī-pūrva-nāmani",
-   "grounds": "in the scripture called Shri Purva"
+   "morph": "compound=śrīpūrva-nāmani+membership; n.loc.sg",
+   "grounds": "in the text called Śrīpūrva"
   },
   {
    "lemma": "ādeśi",
-   "morph": "3.sg.aor.pass, ā+√diś",
+   "morph": "3.sg.pass-aorist; root=diś with ā",
    "grounds": "was declared"
   },
   {
    "lemma": "parameśitrā",
    "morph": "m.ins.sg",
-   "grounds": "by the Supreme Lord"
+   "grounds": "by the supreme Lord"
   },
   {
    "lemma": "samāveśavinirṇaye",
-   "morph": "compound: samāveśa-vinirṇaye",
-   "grounds": "in the definitive explanation of penetration"
+   "morph": "compound=samāveśa-vinirṇaye+membership; m.loc.sg",
+   "grounds": "in the analysis of immersion or penetration"
   }
  ]
 }

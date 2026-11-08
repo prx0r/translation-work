@@ -1,38 +1,60 @@
 {
- "song": "Tantraloka a01 (vijñāna-bheda) 151-156",
+ "song": "Tantraloka 1.157-168",
  "items": [
   {
-   "verse": 151,
+   "verse": 157,
    "rows": [
     {
-     "surface": "yogo",
-     "gloss": "yoga",
-     "grounds": "subject of equation",
-     "morph": "m.nom.sg"
+     "surface": "kriyādikāḥ",
+     "gloss": "action-and-others",
+     "grounds": "powers beginning with action",
+     "morph": "f.nom.pl"
     },
     {
-     "surface": "nānyaḥ",
-     "gloss": "not-other",
-     "grounds": "negated distinction",
-     "morph": "m.nom.sg"
+     "surface": "śaktayastāḥ",
+     "gloss": "those-powers",
+     "grounds": "the powers mentioned",
+     "morph": "compound=śaktayaḥ+membership,tāḥ+membership; f.nom.pl"
     },
     {
-     "surface": "kriyā",
-     "gloss": "action",
-     "grounds": "subject of equation",
-     "morph": "f.nom.sg"
+     "surface": "saṃvidrūpādhikā",
+     "gloss": "more-than-consciousness-form",
+     "grounds": "not beyond the nature of consciousness",
+     "morph": "f.nom.pl"
     },
     {
-     "surface": "nānyā",
-     "gloss": "not-other",
-     "grounds": "negated distinction",
-     "morph": "f.nom.sg"
+     "surface": "nahi",
+     "gloss": "not-at-all",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "tattvārūḍhā",
-     "gloss": "established-in-reality",
-     "grounds": "qualifies cognition",
-     "morph": "f.nom.sg"
+     "surface": "asaṃvidrūpatāyogāddharmiṇaścānirūpaṇāt",
+     "gloss": "from-no-non-consciousness-form-and-no-substrate",
+     "grounds": "because they cannot be non-conscious and no separate bearer is established",
+     "morph": "compound=asaṃvid-rūpatā-ayogāt+membership,dharmiṇaḥ+membership,ca+membership,anirūpaṇāt+membership; m.abl.sg"
+    }
+   ],
+   "question": "Why are action and the other powers not different from consciousness?",
+   "premises": [
+    "The powers of action and so on are not more than the nature of consciousness.",
+    "They cannot be joined to a non-conscious form.",
+    "No separate bearer of these powers can be established."
+   ],
+   "inference": "Therefore the powers beginning with action are nothing other than consciousness itself.",
+   "uncertainties": [
+    "The exact force of saṃvidrūpādhikā may be read as exceeding or as additional to consciousness-form."
+   ],
+   "plain_english": "The powers such as action are not anything beyond consciousness. They cannot be non-conscious, and no separate owner of them can be proved. So they are of the nature of consciousness."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "parameśvaraśāstre",
+     "gloss": "in-supreme-lord-scripture",
+     "grounds": "in the teaching of the supreme Lord",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "hi",
@@ -41,421 +63,663 @@
      "morph": "(indecl.)"
     },
     {
-     "surface": "yā",
-     "gloss": "which",
-     "grounds": "relative cognition",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "matiḥ",
-     "gloss": "cognition",
-     "grounds": "subject defined as action",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "svacittavāsanāśāntau",
-     "gloss": "in-calming-own-mind-impressions",
-     "grounds": "occasion of action",
-     "morph": "f.loc.sg, compound=svacitta+vāsanā+śānti"
-    },
-    {
-     "surface": "sā",
-     "gloss": "that",
-     "grounds": "correlative cognition",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "kriyetyabhidhīyate",
-     "gloss": "is-called-action",
-     "grounds": "conclusion of definition",
-     "morph": "3.sg.pass-pres, √dhā; compound=kriyā+iti+abhidhīyate"
-    }
-   ],
-   "question": "How are yoga and action identified with reality-grounded cognition?",
-   "premises": [
-    "Yoga is not other than action.",
-    "Action is not other than yoga.",
-    "Cognition established in reality that calms the impressions of one's own mind is called action."
-   ],
-   "inference": "Because the cognition that quiets mental impressions is reality-grounded and is called action, yoga and action are not distinct from that cognition.",
-   "uncertainties": [
-    "The exact nuance of tattvārūḍhā as established in reality or mounted on the principles is context-dependent."
-   ],
-   "plain_english": "Yoga is not different from action, and action is not different from yoga. The cognition that is firmly grounded in reality and brings the impressions of one's own mind to rest is what is called action."
-  },
-  {
-   "verse": 152,
-   "rows": [
-    {
-     "surface": "svacitte",
-     "gloss": "in-own-mind",
-     "grounds": "locus of impressions",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "vāsanāḥ",
-     "gloss": "latent-impressions",
-     "grounds": "objects to be calmed",
-     "morph": "f.nom.pl"
-    },
-    {
-     "surface": "karmamalamāyāprasūtayaḥ",
-     "gloss": "born-from-karma-impurity-maya",
-     "grounds": "origin of impressions",
-     "morph": "f.nom.pl, compound=karma+mala+māyā+prasūti"
-    },
-    {
-     "surface": "tāsāṃ",
-     "gloss": "of-those",
-     "grounds": "refers to impressions",
-     "morph": "f.gen.pl"
-    },
-    {
-     "surface": "śāntinimittaṃ",
-     "gloss": "for-the-sake-of-calming",
-     "grounds": "purpose of cognition",
-     "morph": "n.acc.sg, compound=śānti+nimitta"
-    },
-    {
-     "surface": "yā",
-     "gloss": "which",
-     "grounds": "relative cognition",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "matiḥ",
-     "gloss": "cognition",
-     "grounds": "agent of calming",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "saṃvitsvabhāvikā",
-     "gloss": "of-consciousness-nature",
-     "grounds": "essential character of cognition",
-     "morph": "f.nom.sg, compound=saṃvit+svabhāvikā"
-    }
-   ],
-   "question": "What kind of cognition brings the mind's latent impressions to rest?",
-   "premises": [
-    "Latent impressions in one's own mind arise from karma, impurity, and maya.",
-    "A cognition arises for the purpose of calming those impressions.",
-    "That cognition is of the very nature of consciousness."
-   ],
-   "inference": "The cognition that calms the impressions born of karma, impurity, and maya is not ordinary thought but consciousness in its own nature.",
-   "uncertainties": [
-    "The compound karmamalamāyāprasūtayaḥ could be parsed with slightly different internal relations among the three sources."
-   ],
-   "plain_english": "In one's own mind there are latent impressions born from karma, impurity, and maya. The cognition that arises to calm those impressions is essentially of the nature of consciousness itself."
-  },
-  {
-   "verse": 153,
-   "rows": [
-    {
-     "surface": "sā",
-     "gloss": "that",
-     "grounds": "the consciousness-nature cognition",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "dehārambhibāhyasthatattvabrātādhiśāyinī",
-     "gloss": "resting-on-outer-principles-starting-body",
-     "grounds": "describes cognition's operative range",
-     "morph": "f.nom.sg, compound=deha+ārambhin+bāhyastha+tattva+brāta+adhiśāyinī"
-    },
-    {
-     "surface": "kriyā",
-     "gloss": "action",
-     "grounds": "identified with that cognition",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "saiva",
-     "gloss": "that-very",
-     "grounds": "emphatic identity",
-     "morph": "f.nom.sg, compound=sā+eva"
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "adds second identity",
+     "grounds": "connective",
      "morph": "(indecl.)"
     },
     {
-     "surface": "yogaḥ",
-     "gloss": "yoga",
-     "grounds": "identified with that cognition",
+     "surface": "kāṇādadṛṣṭivat",
+     "gloss": "like-kaṇāda-view",
+     "grounds": "unlike the unseen principle in the Vaiśeṣika system",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktīnāṃ",
+     "gloss": "of-powers",
+     "grounds": "the powers",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "dharmarūpāṇāmāśrayaḥ",
+     "gloss": "substrate-of-attribute-form-powers",
+     "grounds": "a separate support for powers conceived as attributes",
+     "morph": "compound=dharmarūpāṇām+membership,āśrayaḥ+membership; m.nom.sg"
+    },
+    {
+     "surface": "ko@pi",
+     "gloss": "any-at-all",
+     "grounds": "any substrate whatsoever",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "syāttattvānāṃ",
-     "gloss": "would-be-of-the-principles",
-     "grounds": "condition of dissolution",
-     "morph": "3.sg.opt, √as; compound=syāt+tattvānām"
-    },
-    {
-     "surface": "cillayīkṛtau",
-     "gloss": "in-dissolution-into-consciousness",
-     "grounds": "result of that action-yoga",
-     "morph": "f.loc.sg, compound=cit+laya+kṛti"
+     "surface": "kathyate",
+     "gloss": "is-stated",
+     "grounds": "is taught",
+     "morph": "3.sg.pass-present; root=kath"
     }
    ],
-   "question": "How does consciousness-nature cognition function as both action and yoga?",
+   "question": "Does the supreme Lord's teaching posit a separate substrate for the powers?",
    "premises": [
-    "That consciousness-nature cognition rests upon the outer group of principles that initiate the body.",
-    "That same cognition is action.",
-    "That same cognition is yoga when it brings the principles to dissolution in consciousness."
+    "In the scripture of the supreme Lord no separate substrate is taught for the powers.",
+    "The powers are not treated like attributes resting on an unseen principle as in the Kaṇāda system.",
+    "This rejects an external bearer for powers conceived as mere properties."
    ],
-   "inference": "The one consciousness-nature cognition operates through the body-initiating principles as action and culminates as yoga by dissolving those principles into consciousness.",
+   "inference": "Therefore the powers do not depend on any separate substrate in this teaching.",
    "uncertainties": [
-    "The long compound dehārambhibāhyasthatattvabrātādhiśāyinī admits more than one internal grouping."
+    "kāṇādadṛṣṭivat may allude specifically to adṛṣṭa or more broadly to Vaiśeṣika ontology."
    ],
-   "plain_english": "That same cognition, which rests upon the outer range of principles that give rise to the body, is action. And that very same cognition becomes yoga when it dissolves those principles back into consciousness."
+   "plain_english": "In the teaching of the supreme Lord, no separate support is claimed for the powers, unlike the Vaiśeṣika view that treats such factors as attributes resting on something else."
   },
   {
-   "verse": 154,
+   "verse": 159,
    "rows": [
     {
-     "surface": "loke@pi",
-     "gloss": "even-in-ordinary-life",
-     "grounds": "appeal to common experience",
-     "morph": "m.loc.sg, compound=loka+api"
+     "surface": "tataśca",
+     "gloss": "and-so",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛkkriyecchādyā",
+     "gloss": "seeing-action-will-and-others",
+     "grounds": "powers such as cognition, action, and will",
+     "morph": "compound=dṛk-kriyā-icchā-ādyāḥ+membership; f.nom.pl"
+    },
+    {
+     "surface": "bhinnāścecchaktayastathā",
+     "gloss": "if-powers-different-thus",
+     "grounds": "if those powers were different in that way",
+     "morph": "compound=bhinnāḥ+membership,cet+membership,śaktayaḥ+membership,tathā+membership; f.nom.pl"
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "a single reality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "Shiva",
+     "grounds": "the supreme Lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itīyaṃ",
+     "gloss": "thus-this",
+     "grounds": "this statement",
+     "morph": "compound=iti+membership,iyam+membership; f.nom.sg"
+    },
+    {
+     "surface": "vāgvastuśūnyaiva",
+     "gloss": "speech-empty-of-reality",
+     "grounds": "mere words without real content",
+     "morph": "compound=vāk-vastu-śūnyā+membership,eva+membership; f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "would turn out to be",
+     "morph": "3.sg.mid-present; root=jan"
+    }
+   ],
+   "question": "What follows if cognition, action, and will are taken as separate powers?",
+   "premises": [
+    "Cognition, action, will, and the other powers might be imagined as mutually different.",
+    "Shiva is affirmed as one.",
+    "If the powers were truly separate, the statement that Shiva is one would lack real content."
+   ],
+   "inference": "Therefore those powers cannot be ultimately separate from the one Shiva.",
+   "uncertainties": [
+    "The verse states a consequence conditionally; it does not by itself spell out the positive resolution."
+   ],
+   "plain_english": "If seeing, doing, willing, and the other powers were really separate, then saying that Shiva is one would be empty talk. So their separateness cannot be ultimate."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "tasmātsaṃvittvamevaitatsvātantryaṃ",
+     "gloss": "therefore-this-freedom-is-consciousness",
+     "grounds": "this freedom is nothing but consciousness",
+     "morph": "compound=tasmāt+membership,saṃvittvam+membership,eva+membership,etat+membership,svātantryam+membership; n.nom.sg"
+    },
+    {
+     "surface": "yattadapyalam",
+     "gloss": "which-that-also-fully",
+     "grounds": "and that too, when examined fully",
+     "morph": "compound=yat+membership,tat+membership,api+membership,alam+membership; n.nom.sg"
+    },
+    {
+     "surface": "vivicyamānaṃ",
+     "gloss": "being-examined",
+     "grounds": "when analyzed",
+     "morph": "n.nom.sg.pass-present-participle; root=vic"
+    },
+    {
+     "surface": "bahvīṣu",
+     "gloss": "in-many",
+     "grounds": "across many",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "paryavasyati",
+     "gloss": "comes-to-rest",
+     "grounds": "culminates",
+     "morph": "3.sg.act-present; root=so with pari-ava"
+    },
+    {
+     "surface": "śaktiṣu",
+     "gloss": "in-powers",
+     "grounds": "in the various powers",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "What is the true nature of freedom when it is closely examined?",
+   "premises": [
+    "Freedom is nothing other than consciousness.",
+    "When freedom is examined carefully, it does not remain a single abstract notion.",
+    "Its expression culminates in many powers."
+   ],
+   "inference": "Therefore freedom is consciousness itself appearing as many powers.",
+   "uncertainties": [
+    "The relation between unity of consciousness and plurality of powers is stated compactly and may invite further doctrinal unpacking."
+   ],
+   "plain_english": "So this freedom is really just consciousness. When you examine it closely, it shows itself as many different powers."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "yataścātmaprathā",
+     "gloss": "because-self-manifestation",
+     "grounds": "since liberation is the manifestation of the self",
+     "morph": "compound=yataḥ+membership,ātma-prathā+membership; f.nom.sg"
+    },
+    {
+     "surface": "mokṣastannehāśaṅkyamīdṛśam",
+     "gloss": "liberation-so-not-such-doubt-here",
+     "grounds": "therefore such a doubt should not be raised here",
+     "morph": "compound=mokṣaḥ+membership,tat+membership,na+membership,iha+membership,āśaṅkyam+membership,īdṛśam+membership; n.nom.sg"
+    },
+    {
+     "surface": "nāvaśyaṃ",
+     "gloss": "not-necessarily",
+     "grounds": "not in every case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇātkārya",
+     "gloss": "from-cause-effect",
+     "grounds": "an effect arising from a cause",
+     "morph": "compound=kāraṇāt+membership,kārya+membership; n.nom.sg"
+    },
+    {
+     "surface": "tajjñānyapi",
+     "gloss": "knower-of-that-also",
+     "grounds": "even one who knows that cause-effect relation",
+     "morph": "compound=tat-jñānī+membership,api+membership; m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "becomes free",
+     "morph": "3.sg.pass-present; root=muc"
+    }
+   ],
+   "question": "Does knowing a cause-effect relation by itself guarantee liberation?",
+   "premises": [
+    "Liberation is the manifestation of the self.",
+    "A mere effect produced from a cause does not define liberation.",
+    "Even someone who knows a cause-effect relation is not necessarily liberated."
+   ],
+   "inference": "Therefore liberation cannot be reduced to ordinary causal production or to knowing such causality.",
+   "uncertainties": [
+    "The compressed syntax of the second half leaves the exact target of the doubt slightly implicit."
+   ],
+   "plain_english": "Since liberation is the self coming to light, we should not doubt it on causal grounds. An effect does not always follow in that way, and even someone who knows a cause and effect is not automatically liberated."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "since",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānena",
+     "gloss": "by-knowledge",
+     "grounds": "through liberating knowledge",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "mokṣasya",
+     "gloss": "of-liberation",
+     "grounds": "of freedom",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "the relation that",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hetuphalatoditā",
+     "gloss": "stated-as-cause-and-fruit",
+     "grounds": "described as cause and result",
+     "morph": "compound=hetu-phalatā+membership,uditā+membership; f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "that relation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "primary",
+     "grounds": "ultimate or principal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "for that reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāyaṃ",
+     "gloss": "not-this",
+     "grounds": "this objection does not apply",
+     "morph": "compound=na+membership,ayam+membership; m.nom.sg"
+    },
+    {
+     "surface": "prasaṃga",
+     "gloss": "objection",
+     "grounds": "unwanted consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "so it is concluded",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "determined",
+     "grounds": "settled",
+     "morph": "n.nom.sg.past-passive-participle; root=niś-ci"
+    }
+   ],
+   "question": "Is the relation between knowledge and liberation a primary cause-and-effect relation?",
+   "premises": [
+    "Knowledge is said to be related to liberation as cause to fruit.",
+    "That causal description is not the primary or ultimate account.",
+    "If the relation is not primary, the proposed objection does not hold."
+   ],
+   "inference": "Therefore the objection based on strict causality does not apply to knowledge and liberation.",
+   "uncertainties": [
+    "The verse denies primary causality but does not fully specify the alternative relation."
+   ],
+   "plain_english": "Knowledge is spoken of as leading to liberation, but that cause-and-result way of speaking is not the deepest truth. So the objection raised on that basis does not stand."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānasvabhāvaiva",
+     "gloss": "knowledge-nature-alone",
+     "grounds": "action is of the nature of knowledge itself",
+     "morph": "compound=jñāna-svabhāvā+membership,eva+membership; f.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "activity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthūlatvamātmani",
+     "gloss": "grossness-in-self",
+     "grounds": "a coarsened form within the self",
+     "morph": "compound=sthūlatvam+membership,ātmani+membership; n.acc.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "since",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahati",
+     "gloss": "carries",
+     "grounds": "takes on",
+     "morph": "3.sg.act-present; root=vah"
+    },
+    {
+     "surface": "tenāsyāṃ",
+     "gloss": "therefore-in-it",
+     "grounds": "for that reason in action",
+     "morph": "compound=tena+membership,asyām+membership; f.loc.sg"
+    },
+    {
+     "surface": "citratā",
+     "gloss": "variegation",
+     "grounds": "manifold diversity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dṛśyatāṃ",
+     "gloss": "is-seen",
+     "grounds": "is observed",
+     "morph": "3.sg.pass-present; root=dṛś"
     },
     {
      "surface": "kila",
      "gloss": "indeed",
-     "grounds": "marks familiar example",
+     "grounds": "as is evident",
      "morph": "(indecl.)"
-    },
-    {
-     "surface": "gacchāmītyevamantaḥ",
-     "gloss": "inner-flash-i-am-going",
-     "grounds": "example of inner cognition",
-     "morph": "(indecl.), compound=gacchāmi+iti+evam+antaḥ"
-    },
-    {
-     "surface": "sphuraiva",
-     "gloss": "just-a-flash",
-     "grounds": "characterizes inner cognition",
-     "morph": "f.nom.sg, compound=sphurā+eva"
-    },
-    {
-     "surface": "yā",
-     "gloss": "which",
-     "grounds": "relative inner flash",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "sā",
-     "gloss": "that",
-     "grounds": "correlative flash",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "dehaṃ",
-     "gloss": "body",
-     "grounds": "first instrument entered",
-     "morph": "m.acc.sg"
-    },
-    {
-     "surface": "deśamakṣāṃścāpyāviśantī",
-     "gloss": "entering-place-and-senses-too",
-     "grounds": "describes extension into action",
-     "morph": "f.nom.sg.pres-part, √viś; compound=deśa+akṣān+ca+api+āviśantī"
-    },
-    {
-     "surface": "gatikriyā",
-     "gloss": "act-of-going",
-     "grounds": "resulting physical action",
-     "morph": "f.nom.sg, compound=gati+kriyā"
     }
    ],
-   "question": "How does an ordinary act of going show that action arises from inner cognition?",
+   "question": "Why does action appear so varied if it is essentially knowledge?",
    "premises": [
-    "Even in ordinary life there is an inner flash of 'I am going'.",
-    "That inner flash enters the body, the place, and the senses.",
-    "When it enters them, it becomes the act of going."
+    "Action is in essence of the nature of knowledge.",
+    "Within the self, action takes on a grosser form.",
+    "Because of that grossening, action appears as manifold and diverse."
    ],
-   "inference": "Ordinary movement demonstrates that physical action is the outward extension of an inner cognitive flash.",
+   "inference": "Therefore the diversity seen in action does not contradict its identity with knowledge.",
    "uncertainties": [
-    "akṣān is taken as the senses; the term can be read more generally as organs in some contexts."
+    "sthūlatvam may indicate phenomenological coarsening rather than ontological change."
    ],
-   "plain_english": "Even in everyday life, when one thinks 'I am going', there is first just an inner flash. That same flash enters the body, the place, and the senses, and then it becomes the act of going."
+   "plain_english": "Action is really knowledge in nature. But in the self it takes on a grosser form, and that is why we see so much variety in it."
   },
   {
-   "verse": 155,
+   "verse": 164,
    "rows": [
     {
-     "surface": "tasmātkriyāpi",
-     "gloss": "therefore-even-action",
-     "grounds": "draws conclusion from example",
-     "morph": "(indecl.), compound=tasmāt+kriyā+api"
+     "surface": "kriyopāye@bhyupāyānāṃ",
+     "gloss": "of-means-in-action-means",
+     "grounds": "among means that operate through action",
+     "morph": "compound=kriyā-upāye+membership,abhyupāyānām+membership; m.gen.pl"
     },
     {
-     "surface": "yā",
-     "gloss": "which",
-     "grounds": "relative action",
-     "morph": "f.nom.sg"
+     "surface": "grāhyabāhyavibhedinām",
+     "gloss": "divided-by-inner-and-outer",
+     "grounds": "distinguished by what is taken in and what is external",
+     "morph": "compound=grāhya-bāhya-vibhedinām+membership; m.gen.pl"
     },
     {
-     "surface": "nāma",
-     "gloss": "so-called",
-     "grounds": "marks conventional term",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "jñānameva",
-     "gloss": "knowledge-alone",
-     "grounds": "identity claim",
-     "morph": "n.nom.sg, compound=jñānam+eva"
-    },
-    {
-     "surface": "hi",
-     "gloss": "indeed",
-     "grounds": "emphasis",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "sā",
-     "gloss": "that",
-     "grounds": "correlative action",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "tataḥ",
-     "gloss": "therefore",
-     "grounds": "consequence for liberation",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "jñānameva",
-     "gloss": "knowledge-alone",
-     "grounds": "means of liberation",
-     "morph": "n.nom.sg, compound=jñānam+eva"
-    },
-    {
-     "surface": "vimokṣāya",
-     "gloss": "for-liberation",
-     "grounds": "purpose",
-     "morph": "m.dat.sg"
-    },
-    {
-     "surface": "yuktaṃ",
-     "gloss": "fitting",
-     "grounds": "evaluates the conclusion",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "caitadudāhṛtam",
-     "gloss": "and-this-was-stated",
-     "grounds": "confirms prior teaching",
-     "morph": "n.nom.sg.past-pass-part, √hṛ; compound=ca+etat+udāhṛtam"
+     "surface": "bhedopabhedavaividhyānniḥsaṃkhyatvamavāntarāt",
+     "gloss": "countless-from-varied-divisions-and-subdivisions",
+     "grounds": "because of many divisions and subdivisions, they become countless in detail",
+     "morph": "compound=bheda-upabheda-vaividhyāt+membership,niḥsaṃkhyatvam+membership,avāntarāt+membership; n.nom.sg"
     }
    ],
-   "question": "Why does the identity of action and knowledge make knowledge sufficient for liberation?",
+   "question": "Why do action-based means become countless in their detailed forms?",
    "premises": [
-    "Even so-called action is in truth knowledge alone.",
-    "The preceding example shows action arising from an inner cognitive flash.",
-    "Therefore knowledge alone is fitting as the means to liberation."
+    "Some means operate through action.",
+    "These means are divided by inner and outer distinctions.",
+    "Their divisions and subdivisions vary in many ways."
    ],
-   "inference": "If action itself is nothing but knowledge, then liberation is rightly accomplished through knowledge alone.",
+   "inference": "Therefore action-based means become countless in their intermediate forms.",
    "uncertainties": [
-    "udāhṛtam may refer to a specific earlier scriptural or textual statement not named here."
+    "The scope of grāhya and bāhya is compressed and may cover ritual, cognitive, and practical distinctions."
    ],
-   "plain_english": "Therefore, even what is called action is really nothing but knowledge. For that reason, it is right to say that knowledge alone brings liberation, and this has already been stated."
+   "plain_english": "The means that work through action are split into inner and outer forms, and because these keep dividing into further varieties, they become countless in their detailed expressions."
   },
   {
-   "verse": 156,
+   "verse": 165,
    "rows": [
     {
-     "surface": "mokṣo",
-     "gloss": "liberation",
-     "grounds": "topic defined",
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "by this reasoning",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "caitatpradhvastaṃ",
+     "gloss": "and-this-refuted",
+     "grounds": "this view is overturned",
+     "morph": "compound=ca+membership,etat+membership,pradhvastam+membership; n.nom.sg"
+    },
+    {
+     "surface": "yatkecana",
+     "gloss": "which-some",
+     "grounds": "what certain people",
+     "morph": "compound=yat+membership,kecana+membership; n.acc.sg"
+    },
+    {
+     "surface": "śaśaṅkire",
+     "gloss": "suspected",
+     "grounds": "doubted or feared",
+     "morph": "3.pl.mid-perfect; root=śaṅk"
+    },
+    {
+     "surface": "upāyabhedānmokṣe@pi",
+     "gloss": "from-difference-of-means-even-in-liberation",
+     "grounds": "because means differ, liberation too would differ",
+     "morph": "compound=upāya-bhedāt+membership,mokṣe+membership,api+membership; m.loc.sg"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "division or plurality",
      "morph": "m.nom.sg"
     },
     {
+     "surface": "syāditi",
+     "gloss": "would-be-thus",
+     "grounds": "that there would be difference",
+     "morph": "compound=syāt+membership,iti+membership; (indecl.)"
+    },
+    {
+     "surface": "sūrayaḥ",
+     "gloss": "wise-ones",
+     "grounds": "certain learned thinkers",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Does the plurality of means imply a plurality of liberations?",
+   "premises": [
+    "Some wise people suspected that different means would produce different liberations.",
+    "The previous reasoning explains why means can be many without changing the goal.",
+    "By that reasoning, the suspicion is refuted."
+   ],
+   "inference": "Therefore difference in means does not entail difference in liberation.",
+   "uncertainties": [
+    "The verse refers back to anena without naming the exact prior step, though the context makes it clear."
+   ],
+   "plain_english": "This also answers those thinkers who worried that if the means differ, liberation itself must differ. That worry is removed by the reasoning just given."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "malatacchaktividhvaṃsatirobhūcyutimadhyataḥ",
+     "gloss": "through-destruction-or-fall-of-impurity-and-its-power",
+     "grounds": "through different causal modes involving impurity and concealment",
+     "morph": "compound=mala-tat-śakti-vidhvaṃsa-tirobhūti-cyuti-madhyataḥ+membership; (indecl.)"
+    },
+    {
+     "surface": "hetubhede@pi",
+     "gloss": "even-with-difference-of-cause",
+     "grounds": "even when the causes differ",
+     "morph": "compound=hetu-bhede+membership,api+membership; m.loc.sg"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhinnā",
+     "gloss": "different",
+     "grounds": "divided",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ghaṭadhvaṃsādivṛttivat",
+     "gloss": "like-breaking-of-a-pot-and-such",
+     "grounds": "as in cases like the destruction of a pot",
+     "morph": "compound=ghaṭa-dhvaṃsa-ādi-vṛttivat+membership; (indecl.)"
+    }
+   ],
+   "question": "Do different causes of liberation produce different kinds of liberation?",
+   "premises": [
+    "Liberation may be described through different causal modes such as destruction of impurity or removal of concealment.",
+    "Even when causes differ, the resulting event need not be different in kind.",
+    "The analogy of a pot's destruction shows one result reached through different causal descriptions."
+   ],
+   "inference": "Therefore liberation is not divided into different kinds merely because its causes are described differently.",
+   "uncertainties": [
+    "The long compound lists causal modes tersely; the exact doctrinal mapping of each member is compressed."
+   ],
+   "plain_english": "Even if liberation is explained through different causes, such as the removal of impurity or concealment, the liberation itself is not different, just as the breaking of a pot is one event though described in different ways."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "tadetattrividhatvaṃ",
+     "gloss": "therefore-this-threefoldness",
+     "grounds": "this threefold division",
+     "morph": "compound=tat+membership,etat+membership,trividhatvam+membership; n.nom.sg"
+    },
+    {
      "surface": "hi",
      "gloss": "indeed",
      "grounds": "emphasis",
      "morph": "(indecl.)"
     },
     {
-     "surface": "nāma",
-     "gloss": "so-called",
-     "grounds": "marks definition",
-     "morph": "(indecl.)"
+     "surface": "śāstre",
+     "gloss": "in-scripture",
+     "grounds": "in the teaching",
+     "morph": "n.loc.sg"
     },
     {
-     "surface": "naivānyaḥ",
-     "gloss": "not-at-all-other",
-     "grounds": "negates alternative definition",
-     "morph": "m.nom.sg, compound=na+eva+anyaḥ"
+     "surface": "śrīpūrvanāmani",
+     "gloss": "named-shripūrva",
+     "grounds": "in the text called Śrīpūrva",
+     "morph": "compound=śrīpūrva-nāmani+membership; n.loc.sg"
     },
     {
-     "surface": "svarūpaprathanaṃ",
-     "gloss": "unfolding-of-own-nature",
-     "grounds": "positive definition of liberation",
-     "morph": "n.nom.sg, compound=svarūpa+prathana"
+     "surface": "ādeśi",
+     "gloss": "was-taught",
+     "grounds": "was declared",
+     "morph": "3.sg.pass-aorist; root=diś with ā"
     },
     {
-     "surface": "hi",
-     "gloss": "indeed",
-     "grounds": "emphasis",
-     "morph": "(indecl.)"
+     "surface": "parameśitrā",
+     "gloss": "by-supreme-lord",
+     "grounds": "by the supreme Lord",
+     "morph": "m.ins.sg"
     },
     {
-     "surface": "saḥ",
-     "gloss": "that",
-     "grounds": "refers to liberation",
+     "surface": "samāveśavinirṇaye",
+     "gloss": "in-determining-penetration",
+     "grounds": "in the analysis of immersion or penetration",
+     "morph": "compound=samāveśa-vinirṇaye+membership; m.loc.sg"
+    }
+   ],
+   "question": "Where is the threefold division of immersion authoritatively taught?",
+   "premises": [
+    "A threefold division has been indicated.",
+    "This division is taught in the scripture named Śrīpūrva.",
+    "The supreme Lord declared it in the context of determining samāveśa."
+   ],
+   "inference": "Therefore the threefold account of immersion has scriptural authority from the supreme Lord.",
+   "uncertainties": [
+    "The exact referent of the threefoldness is supplied by the surrounding context rather than named in this verse."
+   ],
+   "plain_english": "This threefold division is taught by the supreme Lord in the scripture called Śrīpūrva, in the section that explains immersion."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "akiṃciccintakasyaiva",
+     "gloss": "of-one-thinking-nothing-at-all",
+     "grounds": "for one whose mind rests on no object",
+     "morph": "compound=akiṃcit-cintakasya+membership,eva+membership; m.gen.sg"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-teacher",
+     "grounds": "through the guru",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pratibodhataḥ",
+     "gloss": "through-awakening",
+     "grounds": "by being awakened or instructed",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "utpadyate",
+     "gloss": "arises",
+     "grounds": "comes into being",
+     "morph": "3.sg.mid-present; root=pad with ut"
+    },
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "that which",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "svarūpaṃ",
-     "gloss": "own-nature",
-     "grounds": "object identified",
-     "morph": "n.nom.sg"
+     "surface": "āveśaḥ",
+     "gloss": "immersion",
+     "grounds": "penetrative absorption",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "cātmanaḥ",
-     "gloss": "and-of-the-self",
-     "grounds": "possessor of own nature",
-     "morph": "m.gen.sg, compound=ca+ātmanaḥ"
-    },
-    {
-     "surface": "saṃvinnānyattatra",
-     "gloss": "consciousness-not-other-there",
-     "grounds": "identity of self-nature and consciousness",
-     "morph": "f.nom.sg, compound=saṃvit+na+anyat+tatra"
-    },
-    {
-     "surface": "tu",
-     "gloss": "but",
-     "grounds": "turns to next point",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "yāḥ",
-     "gloss": "which",
-     "grounds": "introduces following topic",
-     "morph": "f.nom.pl"
-    },
-    {
-     "surface": "punaḥ",
-     "gloss": "again",
-     "grounds": "signals continuation",
-     "morph": "(indecl.)"
+     "surface": "śāmbhavo@sāvidīritaḥ",
+     "gloss": "that-is-called-shambhava",
+     "grounds": "that immersion is declared to be śāmbhava",
+     "morph": "compound=śāmbhavaḥ+membership,asau+membership,abhidhīritaḥ+membership; m.nom.sg"
     }
    ],
-   "question": "What is liberation if it is nothing other than the self's own nature?",
+   "question": "What kind of immersion arises for one awakened by the teacher without object-thought?",
    "premises": [
-    "Liberation is not something other than the unfolding of one's own nature.",
-    "The self's own nature is not other than consciousness.",
-    "The verse turns to what follows regarding further powers or aspects."
+    "A person may be free of all object-directed thought.",
+    "Such a person may be awakened by the teacher.",
+    "The immersion that arises in that condition is identified as śāmbhava."
    ],
-   "inference": "Since liberation is the unfolding of the self's own nature and that nature is consciousness, liberation consists in the manifestation of consciousness itself.",
+   "inference": "Therefore the immersion arising through the teacher's awakening in a thought-free state is the śāmbhava immersion.",
    "uncertainties": [
-    "The final clause beginning with tu yāḥ punaḥ is transitional and its full referent appears in the next verse."
+    "akiṃciccintaka may indicate complete thoughtlessness or absence of discursive objectification."
    ],
-   "plain_english": "Liberation is nothing other than the unfolding of one's own true nature. And the self's true nature is nothing other than consciousness. The verse then turns to what comes next."
+   "plain_english": "When a person who is not thinking of any object is awakened by the teacher, the immersion that arises is called the śāmbhava immersion."
   }
  ]
 }
