@@ -377,3 +377,23 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 - Stray w9 worker killed; holding at w1-w3 per stagger policy.
 - LOOP.sh stays STOPped while assessor actively drives (avoids duplicate
   promote/review races); remove process/beam/LOOP.STOP to resume it.
+
+## Autonomous ops — retest wave seeded (2026-11-08)
+
+- Re ä15 retest verdict pending; seeded 9 a28 + 23 a01/a08 retest triples
+  (enriched packet + free-model cycling) covering all failed/missing ranges.
+- a03 has 10 pending original triples; per-verse gloss/cm/am cascade flowing.
+- Workers drafting via iceman; assessor reviews on completion, assembles and
+  promotes per ahnika. LOOP.sh stays STOPped (no sibling-agent collisions).
+
+## Autonomous ops — mass retest wave (2026-11-08)
+
+- a30 retest (vv105-120, enriched packet) PASSED first try after 4 prior
+  content-fails. Verdict: useful-first-draft, on par with beam-free baseline.
+- Mass-reset 104 content-failed triples across a01/a03/a08/a09/a13/a15/a16/
+  a28/a29/a30 for enriched-packet + free-model retry. If they pass, the
+  hand-draft backlog largely evaporates; true failures re-escalate with notes.
+- a28: 9 windowed retests seeded for missing ranges; hand-drafted 44v.
+- a01/a08: 23 retest triples seeded covering all missing-am ranges.
+- Workers drafting via iceman (free); beam-free parked on 429 cooldown.
+- LOOP.sh stays STOPped (no sibling-agent collisions while assessor drives).
