@@ -1,66 +1,66 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 297,
  "rows": [
   {
-   "lemma": "svabala + eva",
-   "morph": "instr.sg.n + indecl.",
-   "grounds": "gloss 'by-own-power-alone'; form svabalenaiva = svabalena (instr.sg.n of svabala) + eva (indecl.)"
+   "lemma": "svabalenaiva",
+   "morph": "compound=sva+balena+eva; n.ins.sg",
+   "grounds": "source of attainment"
   },
   {
-   "lemma": "bhoga",
-   "morph": "acc.sg.m",
-   "grounds": "gloss 'enjoyment'; form bhogaṃ"
-  },
-  {
-   "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "gloss 'or'; form vā"
-  },
-  {
-   "lemma": "mokṣa",
-   "morph": "acc.sg.m",
-   "grounds": "gloss 'liberation'; form mokṣaṃ"
+   "lemma": "bhogaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "possible attainment"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "gloss 'or'; form vā"
+   "morph": "(indecl.)",
+   "grounds": "alternative"
   },
   {
-   "lemma": "√labh",
-   "morph": "3sg.pres.mid",
-   "grounds": "gloss 'obtains'; form labhate"
+   "lemma": "mokṣaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "possible attainment"
   },
   {
-   "lemma": "budha",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'wise-one'; form budhaḥ"
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "alternative"
   },
   {
-   "lemma": "tad",
-   "morph": "instr.sg.m/n",
-   "grounds": "gloss 'by-that'; form tena"
+   "lemma": "labhate",
+   "morph": "3.sg.pres.mid √labh",
+   "grounds": "result"
   },
   {
-   "lemma": "vijñānayogādibala",
-   "morph": "instr.sg.m/n (uncertain)",
-   "grounds": "gloss 'through-knowledge-yoga-and-power'; form vijñānayogādibalī; compound segmentation and exact case uncertain"
+   "lemma": "budhaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "qualified disciple"
+  },
+  {
+   "lemma": "tena",
+   "morph": "n.ins.sg",
+   "grounds": "consequence"
+  },
+  {
+   "lemma": "vijñānayogādibalī",
+   "morph": "compound=vijñāna+yoga+ādi+balī; m.nom.sg",
+   "grounds": "inner capacity"
   },
   {
    "lemma": "prāk",
-   "morph": "indecl.",
-   "grounds": "gloss 'previously'; form prāk"
+   "morph": "(indecl.)",
+   "grounds": "earlier status"
   },
   {
-   "lemma": "samayin",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'basic-initiate'; form samayī"
+   "lemma": "samayī",
+   "morph": "m.nom.sg",
+   "grounds": "prior initiatory status"
   },
   {
-   "lemma": "√bhū",
-   "morph": "nom.sg.m pres.part.",
-   "grounds": "gloss 'becoming'; form bhavan"
+   "lemma": "bhavan",
+   "morph": "m.nom.sg.pres.part.act √bhū",
+   "grounds": "background condition"
   }
  ]
 }

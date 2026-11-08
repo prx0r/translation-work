@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 293,
  "rows": [
   {
    "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "gloss 'also' + form api"
+   "grounds": "addition"
   },
   {
-   "lemma": "mantrādhikāritva",
-   "morph": "n.acc.sg",
-   "grounds": "gloss 'mantra-entitlement' + form mantrādhikāritvaṃ"
+   "lemma": "mantrādhikāritvaṃ",
+   "morph": "compound=mantra+adhikāritvam; n.nom.sg",
+   "grounds": "additional result"
   },
   {
-   "lemma": "mukti + ca",
-   "morph": "f.nom.sg + (indecl.)",
-   "grounds": "gloss 'liberation-and' + form muktiśca"
+   "lemma": "muktiśca",
+   "morph": "compound=muktiḥ+ca",
+   "grounds": "further result"
   },
   {
-   "lemma": "śivadīkṣā",
-   "morph": "f.inst.sg",
-   "grounds": "gloss 'by-shiva-initiation' + form śivadīkṣayā"
+   "lemma": "śivadīkṣayā",
+   "morph": "compound=śiva+dīkṣayā; f.ins.sg",
+   "grounds": "means"
   },
   {
-   "lemma": "idam + etad + api",
-   "morph": "pron.inst.sg + pron.nom/acc.sg + (indecl.)",
-   "grounds": "gloss 'by-this-this-also' + form anenaitadapi"
+   "lemma": "anenaitadapi",
+   "morph": "compound=anena+etat+api",
+   "grounds": "reference to teaching"
   },
   {
-   "lemma": "prokta",
-   "morph": "n.nom/acc.sg (ppp √vac)",
-   "grounds": "gloss 'declared' + form proktaṃ"
+   "lemma": "proktaṃ",
+   "morph": "n.nom.sg (past participle)",
+   "grounds": "authoritative statement"
   },
   {
-   "lemma": "yogin",
+   "lemma": "yogī",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'yogi' + form yogī"
+   "grounds": "practitioner"
   },
   {
-   "lemma": "tattvaikyasiddhi",
-   "morph": "f.dat.sg",
-   "grounds": "gloss 'for-tattva-unity-accomplishment' + form tattvaikyasiddhaye"
+   "lemma": "tattvaikyasiddhaye",
+   "morph": "compound=tattva+aikya+siddhaye; f.dat.sg",
+   "grounds": "purpose"
   }
  ]
 }

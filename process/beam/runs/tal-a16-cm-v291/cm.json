@@ -1,61 +1,61 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 291,
  "rows": [
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "not + na"
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "adhikāritā",
-   "morph": "f.nom.sg",
-   "grounds": "and-eligibility + cādhikāritā"
+   "lemma": "cādhikāritā",
+   "morph": "compound=ca+adhikāritā; f.nom.sg",
+   "grounds": "qualification for practice"
   },
   {
-   "lemma": "dīkṣā",
+   "lemma": "dīkṣāṃ",
    "morph": "f.acc.sg",
-   "grounds": "initiation + dīkṣāṃ"
+   "grounds": "required rite"
   },
   {
    "lemma": "vinā",
-   "morph": "indecl.",
-   "grounds": "without + vinā"
+   "morph": "(indecl.)",
+   "grounds": "condition"
   },
   {
-   "lemma": "yoga+as",
-   "morph": "loc.sg.m + 3sg.pres.act √as",
-   "grounds": "in-yoga-is + yoge@sti"
+   "lemma": "yoge@sti",
+   "morph": "compound=yoge+asti (sandhi); 3.sg.pres.act √as",
+   "grounds": "assertion about eligibility"
   },
   {
-   "lemma": "śāṅkara",
-   "morph": "loc.sg.m/n",
-   "grounds": "in-shaiva + śāṅkare"
+   "lemma": "śāṅkare",
+   "morph": "m.loc.sg",
+   "grounds": "specific domain"
   },
   {
-   "lemma": "vibheda",
-   "morph": "instr.sg.m/n",
-   "grounds": "by-action-knowledge-distinction + kriyājñānavibhedena"
+   "lemma": "kriyājñānavibhedena",
+   "morph": "compound=kriyā+jñāna+vibhedena; m.ins.sg",
+   "grounds": "basis of division"
   },
   {
-   "lemma": "tad",
-   "morph": "nom.sg.f",
-   "grounds": "that + sā"
+   "lemma": "sā",
+   "morph": "f.nom.sg",
+   "grounds": "subject carried forward"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "and + ca"
+   "morph": "(indecl.)",
+   "grounds": "connection"
   },
   {
    "lemma": "dvedhā",
-   "morph": "indecl.",
-   "grounds": "twofold + dvedhā"
+   "morph": "(indecl.)",
+   "grounds": "classification"
   },
   {
-   "lemma": "gad",
-   "morph": "3sg.pres.pass √gad",
-   "grounds": "is-declared + nigadyate"
+   "lemma": "nigadyate",
+   "morph": "3.sg.pres.pass √gad",
+   "grounds": "scriptural statement"
   }
  ]
 }

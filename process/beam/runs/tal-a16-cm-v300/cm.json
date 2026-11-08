@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 300,
  "rows": [
   {
-   "lemma": "mocayati eva iti",
-   "morph": "AMBIGUOUS",
-   "grounds": "surface mocikaiveti gloss release-indeed-thus; compressed form not cleanly segmented"
+   "lemma": "mocikaiveti",
+   "morph": "compound=mocikā+eva+iti",
+   "grounds": "conclusion about initiation"
   },
   {
-   "lemma": "kathita",
-   "morph": "n.nom.sg",
-   "grounds": "gloss said; form kathitaṃ"
+   "lemma": "kathitaṃ",
+   "morph": "n.nom.sg (past participle)",
+   "grounds": "reported teaching"
   },
   {
-   "lemma": "yukti",
-   "morph": "f.instr.sg",
-   "grounds": "gloss by-reasoning; form yuktyā"
+   "lemma": "yuktyā",
+   "morph": "f.ins.sg",
+   "grounds": "supporting method"
   },
   {
-   "lemma": "āgama",
-   "morph": "m.abl.sg",
-   "grounds": "gloss and-from-scripture; form cāgamataḥ with ca indecl."
+   "lemma": "cāgamataḥ",
+   "morph": "compound=ca+āgamataḥ; m.abl.sg",
+   "grounds": "authoritative support"
   },
   {
    "lemma": "purā",
-   "morph": "indecl.",
-   "grounds": "gloss formerly; form purā"
+   "morph": "(indecl.)",
+   "grounds": "prior teaching"
   },
   {
-   "lemma": "yad",
-   "morph": "m.nom.sg",
-   "grounds": "gloss but-who; form yastu with tu indecl."
+   "lemma": "yastu",
+   "morph": "compound=yaḥ+tu",
+   "grounds": "introduces next case"
   },
   {
-   "lemma": "apekṣya",
-   "morph": "gerund",
-   "grounds": "gloss considering-only-initiated-ones; form dīkṣākṛtāmevāpekṣya"
+   "lemma": "dīkṣākṛtāmevāpekṣya",
+   "morph": "compound=dīkṣā+kṛtām+eva+apekṣya (gerund)",
+   "grounds": "disciple's dependence"
   },
   {
-   "lemma": "yojanikā",
+   "lemma": "yojanikāṃ",
    "morph": "f.acc.sg",
-   "grounds": "gloss connection; form yojanikāṃ"
+   "grounds": "initiatory linkage"
   },
   {
-   "lemma": "śiśu",
+   "lemma": "śiśuḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss child; form śiśuḥ"
+   "grounds": "subject continuing to next verse"
   }
  ]
 }

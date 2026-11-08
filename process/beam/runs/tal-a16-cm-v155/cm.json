@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 1,
+ "song": "tal-a16",
+ "verse": 155,
  "rows": [
   {
-   "lemma": "aghorādyaṣṭaka",
-   "morph": "m.loc.sg",
-   "grounds": "gloss 'in-eight-beginning-with-aghoras' + form aghorādyaṣṭake"
+   "lemma": "aghorādyaṣṭake",
+   "morph": "compound: aghora+ādi+aṣṭaka, n.loc.sg",
+   "grounds": "in the octad starting with Aghora"
   },
   {
-   "lemma": "dvi",
-   "morph": "num.dual.n",
-   "grounds": "gloss 'two' + form dve"
+   "lemma": "dve",
+   "morph": "n.nom.du",
+   "grounds": "two divisions"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "gloss 'and' + form ca"
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "tṛtīya",
-   "morph": "n.acc.sg",
-   "grounds": "gloss 'third' + form tṛtīyaṃ"
+   "lemma": "tṛtīyaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "a third division"
   },
   {
-   "lemma": "yāmalodaya",
-   "morph": "m.abl.sg",
-   "grounds": "gloss 'from-yamala-rise' + form yāmalodayāt"
+   "lemma": "yāmalodayāt",
+   "morph": "compound: yāmala+udaya, m.abl.sg",
+   "grounds": "arising from the yāmala pairing"
   },
   {
-   "lemma": "mātṛsadbhāvamantra",
+   "lemma": "mātṛsadbhāvamantraśca",
+   "morph": "compound: mātṛ+sadbhāva+mantra+ca, m.nom.sg",
+   "grounds": "the mantra of the true being of the Mothers"
+  },
+  {
+   "lemma": "kevalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'and-mothers-true-being-mantra' + form mātṛsadbhāvamantraśca"
+   "grounds": "by itself, single"
   },
   {
-   "lemma": "kevala",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'alone' + form kevalaḥ"
-  },
-  {
-   "lemma": "śruticakraga",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'śruti-circle-goer' + form śruticakragaḥ"
+   "lemma": "śruticakragaḥ",
+   "morph": "compound: śruti+cakra+ga, m.nom.sg",
+   "grounds": "belonging to the śruti-circle"
   }
  ]
 }

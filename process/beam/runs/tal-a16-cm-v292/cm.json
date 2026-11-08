@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 292,
  "rows": [
   {
-   "lemma": "dvividha",
+   "lemma": "dvividhā",
    "morph": "f.nom.sg",
-   "grounds": "gloss 'two-fold' + form dvividhā"
+   "grounds": "nature of initiation"
   },
   {
-   "lemma": "tad",
+   "lemma": "sā",
    "morph": "f.nom.sg",
-   "grounds": "gloss 'she-it' + form sā"
+   "grounds": "subject"
   },
   {
-   "lemma": "prakartavya",
-   "morph": "f.nom.sg",
-   "grounds": "gloss 'to-be-done' + form prakartavyā"
+   "lemma": "prakartavyā",
+   "morph": "f.nom.sg (gerundive)",
+   "grounds": "injunction"
   },
   {
-   "lemma": "tad",
-   "morph": "m.inst.sg",
-   "grounds": "gloss 'by-him' + form tena"
+   "lemma": "tena",
+   "morph": "n.ins.sg",
+   "grounds": "consequence"
   },
   {
-   "lemma": "udāhṛta",
-   "morph": "n.nom.sg",
-   "grounds": "gloss 'and-this-cited' + form caitadudāhṛtam (AMBIGUOUS: sandhi/compound not fully resolved)"
+   "lemma": "caitadudāhṛtam",
+   "morph": "compound=ca+etat+udāhṛtam",
+   "grounds": "citation of teaching"
   },
   {
-   "lemma": "na ca",
-   "morph": "(indecl.)",
-   "grounds": "gloss 'and-not' + form naca"
+   "lemma": "naca",
+   "morph": "compound=na+ca",
+   "grounds": "correction of a limited view"
   },
   {
-   "lemma": "anayā",
-   "morph": "f.inst.sg",
-   "grounds": "gloss 'by-this-one-alone-yoga-eligibility' + form yogādhikāritvamekamevānayā (AMBIGUOUS: complex sandhi/compound)"
+   "lemma": "yogādhikāritvamekamevānayā",
+   "morph": "compound=yoga+adhikāritvam+ekam+eva+anayā",
+   "grounds": "rejected limitation"
   },
   {
-   "lemma": "bhū",
-   "morph": "3sg.opt.act √bhū",
-   "grounds": "gloss 'would-be' + form bhavet"
+   "lemma": "bhavet",
+   "morph": "3.sg.opt.act √bhū",
+   "grounds": "hypothetical result"
   }
  ]
 }

@@ -1,36 +1,36 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 145,
  "rows": [
   {
-   "lemma": "upadeśātideśa",
-   "morph": "instr.du.m",
-   "grounds": "gloss 'by-instruction-and-extension' + form abhyāṃ indicates instrumental dual masculine"
+   "lemma": "upadeśātideśābhyāṃ",
+   "morph": "compound: upadeśa+atideśa, m.inst.du",
+   "grounds": "instrumental dual of the pair upadeśa (direct instruction) and atideśa (extension by analogy)"
   },
   {
-   "lemma": "yadukta",
-   "morph": "rel.pron.nom/acc.sg.n + ppp.nom/acc.sg.n √vac",
-   "grounds": "gloss 'what-was-said' + form uktaṃ indicates passive participle; yad is relative pronoun"
+   "lemma": "yaduktaṃ",
+   "morph": "compound: yad+ukta, n.nom.sg",
+   "grounds": "relative pronoun with past passive participle"
   },
   {
-   "lemma": "tatpadādi",
-   "morph": "loc.pl.m/n",
-   "grounds": "gloss 'in-those-words-and-so-on' + form ādiṣu indicates locative plural"
+   "lemma": "tatpadādiṣu",
+   "morph": "compound: tat+pada+ādi, m.loc.pl",
+   "grounds": "refers to the word-path and related paths"
   },
   {
-   "lemma": "bhūyo@tidiṣṭa",
-   "morph": "indecl. + ppp.nom/acc.sg.n √diś",
-   "grounds": "gloss 'again-indicated' + form tidiṣṭaṃ indicates passive participle; bhūyo is indeclinable"
+   "lemma": "bhūyo@tidiṣṭaṃ",
+   "morph": "compound: bhūyas+atidiṣṭa, n.nom.sg",
+   "grounds": "reapplied by extension"
   },
   {
    "lemma": "tatraiva",
-   "morph": "indecl.",
-   "grounds": "gloss 'there-indeed' + form tatraiva is indeclinable"
+   "morph": "(indecl.)",
+   "grounds": "emphatic locative adverb"
   },
   {
-   "lemma": "śāstre@smaddhṛdayeśvara",
-   "morph": "loc.sg.n/m",
-   "grounds": "gloss 'in-scripture-our-heart-lord' + form śāstre/īśvare indicates locative singular; compound membership uncertain"
+   "lemma": "śāstre@smaddhṛdayeśvare",
+   "morph": "compound: śāstra+asmad+hṛdaya+īśvara, n.loc.sg",
+   "grounds": "name of the scripture, the Hṛdayeśvara"
   }
  ]
 }
