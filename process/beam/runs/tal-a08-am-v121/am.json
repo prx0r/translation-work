@@ -1,0 +1,15 @@
+{
+ "song": "tal-a08",
+ "verse": 121,
+ "question": "How many wind paths lie between bhuvarloka and the sun?",
+ "premises": [
+  "bhuvarloka lies one lakh from the sun",
+  "ten wind paths occupy that interval",
+  "each path is ten thousand apart"
+ ],
+ "inference": "The bhuvarloka-to-sun interval contains ten wind paths spaced ten thousand units apart.",
+ "uncertainties": [
+  "exact unit of distance is not specified"
+ ],
+ "plain_english": "Between bhuvarloka and the sun there are ten wind paths, each separated by ten thousand units."
+}

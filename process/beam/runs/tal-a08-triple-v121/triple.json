@@ -1,0 +1,1547 @@
+{
+ "song": "Tantraloka ahnika 8 verses 121-144",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "bhuvarlokastathā",
+     "gloss": "bhuvar-loka-and-so",
+     "grounds": "verse 121 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "tvārkāllakṣamekaṃ",
+     "gloss": "from-sun-one-lakh",
+     "grounds": "verse 121 token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadantare",
+     "gloss": "in-that-interval",
+     "grounds": "verse 121 token 3",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "verse 121 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyupathāste",
+     "gloss": "wind-paths-those",
+     "grounds": "verse 121 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 121 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyekamayutāntarāḥ",
+     "gloss": "each-ten-thousand-apart",
+     "grounds": "verse 121 token 7",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "How many wind paths lie between bhuvarloka and the sun?",
+   "premises": [
+    "bhuvarloka lies one lakh from the sun",
+    "ten wind paths occupy that interval",
+    "each path is ten thousand apart"
+   ],
+   "inference": "The bhuvarloka-to-sun interval contains ten wind paths spaced ten thousand units apart.",
+   "uncertainties": [
+    "exact unit of distance is not specified"
+   ],
+   "plain_english": "Between bhuvarloka and the sun there are ten wind paths, each separated by ten thousand units."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "ādyo",
+     "gloss": "first",
+     "grounds": "verse 122 token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vāyupathastatra",
+     "gloss": "wind-path-there",
+     "grounds": "verse 122 token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vitataḥ",
+     "gloss": "spread-out",
+     "grounds": "verse 122 token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paricarcyate",
+     "gloss": "is-described",
+     "grounds": "verse 122 token 4",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "pañcāśadyojanordhve",
+     "gloss": "fifty-yojanas-above",
+     "grounds": "verse 122 token 5",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "syādṛtarddhirnāma",
+     "gloss": "named-ritarddhi",
+     "grounds": "verse 122 token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mārutaḥ",
+     "gloss": "wind",
+     "grounds": "verse 122 token 7",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the first wind path above bhuvarloka called?",
+   "premises": [
+    "the first wind path is fifty yojanas above",
+    "it is named ritarddhi",
+    "it is a wind"
+   ],
+   "inference": "The first wind path above bhuvarloka is ritarddhi, fifty yojanas above.",
+   "uncertainties": [
+    "whether fifty yojanas is from bhuvarloka or another base"
+   ],
+   "plain_english": "The first wind path above is ritarddhi, fifty yojanas above."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "āpyāyakaḥ",
+     "gloss": "nourishing",
+     "grounds": "verse 123 token 1",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "verse 123 token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jantūnāṃ",
+     "gloss": "of-beings",
+     "grounds": "verse 123 token 3",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "verse 123 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prācetaso",
+     "gloss": "pracetas",
+     "grounds": "verse 123 token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verse 123 token 6",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "pañcāśadyojanādūrdhva",
+     "gloss": "fifty-yojanas-above",
+     "grounds": "verse 123 token 7",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "tasmādūrdhva",
+     "gloss": "above-that",
+     "grounds": "verse 123 token 8",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "śatena",
+     "gloss": "by-hundred",
+     "grounds": "verse 123 token 9",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 123 token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What wind comes after the nourishing one?",
+   "premises": [
+    "the nourishing wind affects beings",
+    "pracetas follows it",
+    "the next level is a hundred above"
+   ],
+   "inference": "After the nourishing wind comes pracetas, a hundred units higher.",
+   "uncertainties": [
+    "the exact relation of the hundred to the fifty yojanas"
+   ],
+   "plain_english": "The nourishing wind is followed by pracetas, higher by a hundred."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "senānīvāyuratraite",
+     "gloss": "commander-wind-here-these",
+     "grounds": "verse 124 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūkameghāstaḍinmucaḥ",
+     "gloss": "mute-clouds-lightning-releasing",
+     "grounds": "verse 124 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "verse 124 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "mahyāḥ",
+     "gloss": "of-earth",
+     "grounds": "verse 124 token 4",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "krośamātreṇa",
+     "gloss": "by-a-krosa-measure",
+     "grounds": "verse 124 token 5",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "verse 124 token 6",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "jalavarṣiṇaḥ",
+     "gloss": "rain-showering",
+     "grounds": "verse 124 token 7",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Which clouds stand near the earth and shower rain?",
+   "premises": [
+    "commander wind is here",
+    "mute clouds release lightning",
+    "they stand a krosa from earth and shower rain"
+   ],
+   "inference": "Mute lightning clouds stand a krosa from earth and shower rain.",
+   "uncertainties": [
+    "whether commander wind governs these clouds"
+   ],
+   "plain_english": "Mute lightning clouds stand a krosa from earth and shower rain."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "tebhya",
+     "gloss": "from-those",
+     "grounds": "verse 125 token 1",
+     "morph": "abl.pl.m"
+    },
+    {
+     "surface": "ūrdhva",
+     "gloss": "above",
+     "grounds": "verse 125 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatānmeghā",
+     "gloss": "hundred-clouds",
+     "grounds": "verse 125 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "bhekādiprāṇivarṣiṇaḥ",
+     "gloss": "frog-and-living-beings-showering",
+     "grounds": "verse 125 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "pañcāśadūrdhvamogho@tra",
+     "gloss": "fifty-above-flood-here",
+     "grounds": "verse 125 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣavāripravarṣiṇaḥ",
+     "gloss": "poison-water-showering",
+     "grounds": "verse 125 token 6",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What clouds lie above those near the earth?",
+   "premises": [
+    "a hundred clouds are above those",
+    "they shower frogs and living beings",
+    "fifty above, poison-water clouds shower"
+   ],
+   "inference": "Above the earth-near clouds are hundred clouds showering beings, then poison-water clouds fifty higher.",
+   "uncertainties": [
+    "the exact vertical relation of the two groups"
+   ],
+   "plain_english": "Above them are clouds showering frogs and beings, and higher poison-water clouds."
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "meghāḥ",
+     "gloss": "clouds",
+     "grounds": "verse 126 token 1",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "skandodbhavāścānye",
+     "gloss": "skanda-born-and-other",
+     "grounds": "verse 126 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "piśācā",
+     "gloss": "pisacas",
+     "grounds": "verse 126 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "oghamārute",
+     "gloss": "in-flood-wind",
+     "grounds": "verse 126 token 4",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "verse 126 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśadūrdhvaṃ",
+     "gloss": "fifty-above",
+     "grounds": "verse 126 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syurmeghā",
+     "gloss": "become-clouds",
+     "grounds": "verse 126 token 7",
+     "morph": "3.pl.opt"
+    },
+    {
+     "surface": "mārakasaṃjñakāḥ",
+     "gloss": "called-marakas",
+     "grounds": "verse 126 token 8",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What clouds arise in the flood wind?",
+   "premises": [
+    "skanda-born and other clouds occur",
+    "pisacas occur in flood wind",
+    "fifty above become maraka clouds"
+   ],
+   "inference": "Skanda-born clouds and pisacas occur in flood wind, and fifty above are maraka clouds.",
+   "uncertainties": [
+    "whether pisacas are clouds or inhabitants"
+   ],
+   "plain_english": "Skanda-born clouds and pisacas occur in the flood wind; fifty above are maraka clouds."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "verse 127 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "verse 127 token 2",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "mahādevajanmānaste",
+     "gloss": "mahadeva-born-those",
+     "grounds": "verse 127 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vināyakāḥ",
+     "gloss": "vinayakas",
+     "grounds": "verse 127 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "verse 127 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "haranti",
+     "gloss": "take-away",
+     "grounds": "verse 127 token 6",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "verse 127 token 7",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "verse 127 token 8",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "narāṇāmakṛtātmanām",
+     "gloss": "of-men-unperfected-selves",
+     "grounds": "verse 127 token 9",
+     "morph": "gen.pl.m"
+    }
+   ],
+   "question": "Who takes away the actions of unperfected men?",
+   "premises": [
+    "mahadeva-born vinayakas are there",
+    "they take away done action",
+    "the men have unperfected selves"
+   ],
+   "inference": "Mahadeva-born vinayakas take away the actions of men with unperfected selves.",
+   "uncertainties": [
+    "whether this is punishment or obstruction"
+   ],
+   "plain_english": "Mahadeva-born vinayakas there take away the actions of unperfected men."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "pañcāśadūrdhvaṃ",
+     "gloss": "fifty-above",
+     "grounds": "verse 128 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vajrāṅko",
+     "gloss": "vajranka",
+     "grounds": "verse 128 token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vāyuratropalāmbudāḥ",
+     "gloss": "wind-here-stone-clouds",
+     "grounds": "verse 128 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vidyādharādhamāścātra",
+     "gloss": "vidyadhara-lowest-and-here",
+     "grounds": "verse 128 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vajrāṅke",
+     "gloss": "in-vajranka",
+     "grounds": "verse 128 token 5",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "saṃpratiṣṭhitāḥ",
+     "gloss": "established",
+     "grounds": "verse 128 token 6",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What wind and beings are fifty above?",
+   "premises": [
+    "fifty above is vajranka wind",
+    "stone clouds are there",
+    "lowest vidyadharas are established in vajranka"
+   ],
+   "inference": "Fifty above is vajranka wind with stone clouds and lowest vidyadharas.",
+   "uncertainties": [
+    "whether stone clouds belong to vajranka or nearby"
+   ],
+   "plain_english": "Fifty above is vajranka wind, with stone clouds and lowest vidyadharas."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "verse 129 token 1",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vidyāpauruṣe",
+     "gloss": "in-vidya-paurushe",
+     "grounds": "verse 129 token 2",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "verse 129 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 129 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śmaśānādiprasādhane",
+     "gloss": "in-cremation-ground-adornment",
+     "grounds": "verse 129 token 5",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "mṛtāstatsiddhisiddhāste",
+     "gloss": "dead-those-siddhi-achieved-those",
+     "grounds": "verse 129 token 6",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vajrāṃke",
+     "gloss": "in-vajranka",
+     "grounds": "verse 129 token 7",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "maruti",
+     "gloss": "in-wind",
+     "grounds": "verse 129 token 8",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "verse 129 token 9",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Where are those who died with siddhi situated?",
+   "premises": [
+    "some died in vidya-paurushe",
+    "some died in cremation-ground adornment",
+    "those with siddhi are situated in vajranka wind"
+   ],
+   "inference": "Those who died with siddhi are situated in vajranka wind.",
+   "uncertainties": [
+    "whether both groups are included"
+   ],
+   "plain_english": "Those who died with siddhi are situated in vajranka wind."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "pañcāśadūrdhvaṃ",
+     "gloss": "fifty-above",
+     "grounds": "verse 130 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vajrāṃkādvaidyuto@śanivarṣiṇaḥ",
+     "gloss": "from-vajranka-electric-rain-showering",
+     "grounds": "verse 130 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "abdā",
+     "gloss": "clouds",
+     "grounds": "verse 130 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "apsarasaścātra",
+     "gloss": "apsarasas-and-here",
+     "grounds": "verse 130 token 4",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "verse 130 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 130 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyakṛto",
+     "gloss": "merit-doing",
+     "grounds": "verse 130 token 7",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "narāḥ",
+     "gloss": "men",
+     "grounds": "verse 130 token 8",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What lies fifty above vajranka?",
+   "premises": [
+    "fifty above vajranka are electric rain clouds",
+    "apsarasas are here",
+    "merit-doing men are here"
+   ],
+   "inference": "Fifty above vajranka are electric rain clouds, apsarasas, and merit-doing men.",
+   "uncertainties": [
+    "whether all three groups share the same level"
+   ],
+   "plain_english": "Fifty above vajranka are electric rain clouds, apsarasas, and merit-doing men."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "bhṛgau",
+     "gloss": "in-bhrgu",
+     "grounds": "verse 131 token 1",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "verse 131 token 2",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "verse 131 token 3",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "verse 131 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 131 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrāme",
+     "gloss": "in-battle",
+     "grounds": "verse 131 token 6",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "cānivartinaḥ",
+     "gloss": "and-non-returning",
+     "grounds": "verse 131 token 7",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "gograhe",
+     "gloss": "in-cow-seizure",
+     "grounds": "verse 131 token 8",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vadhyamokṣe",
+     "gloss": "in-release-of-slain",
+     "grounds": "verse 131 token 9",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "verse 131 token 10",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtāste",
+     "gloss": "dead-those",
+     "grounds": "verse 131 token 11",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vaidyute",
+     "gloss": "in-electric",
+     "grounds": "verse 131 token 12",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "verse 131 token 13",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Where are those who died in these circumstances situated?",
+   "premises": [
+    "some died in bhrgu, fire, or water",
+    "some died in battle, cow seizure, or release of slain",
+    "the dead are situated in electric level"
+   ],
+   "inference": "Those who died in these circumstances are situated in the electric level.",
+   "uncertainties": [
+    "whether all listed deaths lead to the same level"
+   ],
+   "plain_english": "Those who died in these circumstances are situated in the electric level."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "vaidyutādraivatastāvāṃstatra",
+     "gloss": "from-electric-raivata-so-much-there",
+     "grounds": "verse 132 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṣṭivahāmbudāḥ",
+     "gloss": "nourishment-carrying-clouds",
+     "grounds": "verse 132 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "above",
+     "grounds": "verse 132 token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 132 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogāmbumucaḥ",
+     "gloss": "disease-water-releasing",
+     "grounds": "verse 132 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "saṃvartāstadanantare",
+     "gloss": "samvartas-then-after",
+     "grounds": "verse 132 token 6",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What clouds follow the electric level?",
+   "premises": [
+    "raivata clouds carry nourishment",
+    "disease-water clouds are above",
+    "samvartas follow after"
+   ],
+   "inference": "After the electric level come raivata nourishment clouds, disease-water clouds, and samvartas.",
+   "uncertainties": [
+    "the exact ordering of the three groups"
+   ],
+   "plain_english": "After the electric level come nourishment clouds, disease-water clouds, and samvartas."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "rocanāñjanabhasmādisiddhāstatraiva",
+     "gloss": "rochana-anjana-ash-etc-achieved-there-only",
+     "grounds": "verse 133 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "raivate",
+     "gloss": "in-raivata",
+     "grounds": "verse 133 token 2",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "krodhodakamucāṃ",
+     "gloss": "anger-water-releasing",
+     "grounds": "verse 133 token 3",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "verse 133 token 4",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "viṣāvartaḥ",
+     "gloss": "visavarta",
+     "grounds": "verse 133 token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "verse 133 token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mārutaḥ",
+     "gloss": "wind",
+     "grounds": "verse 133 token 7",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What place is in raivata for anger-water releasers?",
+   "premises": [
+    "siddhas of rochana, anjana, ash are there",
+    "raivata is the place",
+    "visavarta is that wind"
+   ],
+   "inference": "In raivata there is a place for anger-water releasers, and visavarta is that wind.",
+   "uncertainties": [
+    "whether siddhas and anger-water releasers share the place"
+   ],
+   "plain_english": "In raivata there is a place for anger-water releasers, and visavarta is that wind."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "pañcāśadūrdhvaṃ",
+     "gloss": "fifty-above",
+     "grounds": "verse 134 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "verse 134 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durdinābdā",
+     "gloss": "storm-clouds",
+     "grounds": "verse 134 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "hutāśajāḥ",
+     "gloss": "fire-born",
+     "grounds": "verse 134 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vidyādharaviśeṣāśca",
+     "gloss": "vidyadhara-specialists-and",
+     "grounds": "verse 134 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "verse 134 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "verse 134 token 7",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "parameśvaram",
+     "gloss": "supreme-lord",
+     "grounds": "verse 134 token 8",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What lies fifty above in that same place?",
+   "premises": [
+    "fifty above are storm clouds",
+    "fire-born vidyadhara specialists are there",
+    "they worship supreme lord"
+   ],
+   "inference": "Fifty above are storm clouds and fire-born vidyadhara specialists who worship the supreme lord.",
+   "uncertainties": [
+    "whether worship is the reason for their location"
+   ],
+   "plain_english": "Fifty above are storm clouds and fire-born vidyadhara specialists who worship the supreme lord."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "gāndharveṇa",
+     "gloss": "by-gandharva",
+     "grounds": "verse 135 token 1",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "sadārcanti",
+     "gloss": "always-worship",
+     "grounds": "verse 135 token 2",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "viṣāvarte@tha",
+     "gloss": "in-visavarta-then",
+     "grounds": "verse 135 token 3",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "verse 135 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "verse 135 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "viṣāvartācchatādūrdhva",
+     "gloss": "from-visavarta-hundred-above",
+     "grounds": "verse 135 token 6",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "durjayaḥ",
+     "gloss": "durjaya",
+     "grounds": "verse 135 token 7",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śvāsasaṃbhavaḥ",
+     "gloss": "breath-born",
+     "grounds": "verse 135 token 8",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What lies a hundred above visavarta?",
+   "premises": [
+    "they worship by gandharva and are situated in visavarta",
+    "a hundred above visavarta is durjaya",
+    "durjaya is breath-born"
+   ],
+   "inference": "A hundred above visavarta is durjaya, the breath-born wind.",
+   "uncertainties": [
+    "whether durjaya is a wind or a being"
+   ],
+   "plain_english": "A hundred above visavarta is durjaya, the breath-born."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "brahmaṇo@tra",
+     "gloss": "of-brahma-here",
+     "grounds": "verse 136 token 1",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "verse 136 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "meghāḥ",
+     "gloss": "clouds",
+     "grounds": "verse 136 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "pralaye",
+     "gloss": "in-dissolution",
+     "grounds": "verse 136 token 4",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vātakāriṇaḥ",
+     "gloss": "wind-causing",
+     "grounds": "verse 136 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "puṣkarābdā",
+     "gloss": "pushkara-clouds",
+     "grounds": "verse 136 token 6",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vāyugamā",
+     "gloss": "wind-going",
+     "grounds": "verse 136 token 7",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "gandharvāśca",
+     "gloss": "gandharvas-and",
+     "grounds": "verse 136 token 8",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "parāvahe",
+     "gloss": "in-paravaha",
+     "grounds": "verse 136 token 9",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What clouds and beings are in paravaha?",
+   "premises": [
+    "brahma clouds are situated here",
+    "they cause wind in dissolution",
+    "pushkara clouds, wind-goers, and gandharvas are in paravaha"
+   ],
+   "inference": "Paravaha contains brahma clouds, pushkara clouds, wind-goers, and gandharvas.",
+   "uncertainties": [
+    "whether all are clouds or some are beings"
+   ],
+   "plain_english": "Paravaha contains brahma clouds, pushkara clouds, wind-goers, and gandharvas."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "jīmūtameghāstatsaṃjñāstathā",
+     "gloss": "jimuta-clouds-those-named-so",
+     "grounds": "verse 137 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidyādharottamāḥ",
+     "gloss": "vidyadhara-highest",
+     "grounds": "verse 137 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "verse 137 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 137 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpavratā",
+     "gloss": "form-vow",
+     "grounds": "verse 137 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "lokā",
+     "gloss": "worlds",
+     "grounds": "verse 137 token 6",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "āvahe",
+     "gloss": "in-avaha",
+     "grounds": "verse 137 token 7",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "verse 137 token 8",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "pratiṣṭhitāḥ",
+     "gloss": "established",
+     "grounds": "verse 137 token 9",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What is established in avaha?",
+   "premises": [
+    "jimuta clouds are named so",
+    "highest vidyadharas are there",
+    "form-vow worlds are established in avaha"
+   ],
+   "inference": "Avaha contains jimuta clouds, highest vidyadharas, and form-vow worlds.",
+   "uncertainties": [
+    "whether form-vow worlds are inhabitants or regions"
+   ],
+   "plain_english": "Avaha contains jimuta clouds, highest vidyadharas, and form-vow worlds."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "mahāvahe",
+     "gloss": "in-mahavaha",
+     "grounds": "verse 138 token 1",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tvīśakṛtāḥ",
+     "gloss": "by-him-made",
+     "grounds": "verse 138 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "prajāhitakarāmbudāḥ",
+     "gloss": "beings-benefiting-clouds",
+     "grounds": "verse 138 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "mahāparivahe",
+     "gloss": "in-mahaparivaha",
+     "grounds": "verse 138 token 4",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "meghāḥ",
+     "gloss": "clouds",
+     "grounds": "verse 138 token 5",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kapālotthā",
+     "gloss": "skull-born",
+     "grounds": "verse 138 token 6",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "maheśituḥ",
+     "gloss": "of-mahesha",
+     "grounds": "verse 138 token 7",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "What clouds are in mahavaha and mahaparivaha?",
+   "premises": [
+    "mahavaha has beings-benefiting clouds made by him",
+    "mahaparivaha has clouds",
+    "those clouds are skull-born of mahesha"
+   ],
+   "inference": "Mahavaha has beings-benefiting clouds, and mahaparivaha has skull-born clouds of mahesha.",
+   "uncertainties": [
+    "whether skull-born clouds are the same as mahaparivaha clouds"
+   ],
+   "plain_english": "Mahavaha has beings-benefiting clouds, and mahaparivaha has skull-born clouds of mahesha."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "mahāparivahānto@yamṛtarddheḥ",
+     "gloss": "end-of-mahaparivaha-ritarddhi",
+     "grounds": "verse 139 token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāṅmarutpathaḥ",
+     "gloss": "eastern-wind-path",
+     "grounds": "verse 139 token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "agnikanyā",
+     "gloss": "fire-daughters",
+     "grounds": "verse 139 token 3",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "mātaraśca",
+     "gloss": "mothers-and",
+     "grounds": "verse 139 token 4",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "rudraśaktyā",
+     "gloss": "by-rudra-power",
+     "grounds": "verse 139 token 5",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "tvadhiṣṭhitāḥ",
+     "gloss": "by-you-established",
+     "grounds": "verse 139 token 6",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "What is at the end of mahaparivaha?",
+   "premises": [
+    "the end of mahaparivaha is ritarddhi",
+    "the eastern wind path is there",
+    "fire daughters and mothers are established by rudra power"
+   ],
+   "inference": "At the end of mahaparivaha is ritarddhi, with eastern wind path, fire daughters, and mothers established by rudra power.",
+   "uncertainties": [
+    "whether ritarddhi here is the same as earlier ritarddhi"
+   ],
+   "plain_english": "At the end of mahaparivaha is ritarddhi, with eastern wind path, fire daughters, and mothers established by rudra power."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "dvitīye",
+     "gloss": "in-second",
+     "grounds": "verse 140 token 1",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tatpare",
+     "gloss": "beyond-that",
+     "grounds": "verse 140 token 2",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "siddhacāraṇā",
+     "gloss": "siddhas-and-carana",
+     "grounds": "verse 140 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "nijakarmajāḥ",
+     "gloss": "born-of-own-action",
+     "grounds": "verse 140 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "turye",
+     "gloss": "in-fourth",
+     "grounds": "verse 140 token 5",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "devāyudhānyaṣṭau",
+     "gloss": "divine-weapons-eight",
+     "grounds": "verse 140 token 6",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "diggajāḥ",
+     "gloss": "direction-elephants",
+     "grounds": "verse 140 token 7",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "pañcame",
+     "gloss": "in-fifth",
+     "grounds": "verse 140 token 8",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "verse 140 token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What beings occupy the second, fourth, and fifth levels?",
+   "premises": [
+    "second has siddhas and caranas born of own action",
+    "fourth has eight divine weapons and direction elephants",
+    "fifth is mentioned again"
+   ],
+   "inference": "The second level has siddhas and caranas, the fourth has divine weapons and direction elephants, and the fifth is noted.",
+   "uncertainties": [
+    "what occupies the fifth level"
+   ],
+   "plain_english": "The second level has siddhas and caranas, the fourth has divine weapons and direction elephants, and the fifth is noted."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhe",
+     "gloss": "in-sixth",
+     "grounds": "verse 141 token 1",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "garutmānanyasmiṅgaṅgānyatra",
+     "gloss": "garuda-in-other-ganga-there",
+     "grounds": "verse 141 token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛṣo",
+     "gloss": "bull",
+     "grounds": "verse 141 token 3",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "lord",
+     "grounds": "verse 141 token 4",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dakṣastu",
+     "gloss": "daksha-but",
+     "grounds": "verse 141 token 5",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "navame",
+     "gloss": "in-ninth",
+     "grounds": "verse 141 token 6",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "brahmaśaktyā",
+     "gloss": "by-brahma-power",
+     "grounds": "verse 141 token 7",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "samadhiti[ni]ṣṭhitaḥ",
+     "gloss": "well-established",
+     "grounds": "verse 141 token 8",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What occupies the sixth and ninth levels?",
+   "premises": [
+    "sixth has garuda, bull, and lord",
+    "daksha is there",
+    "ninth is well established by brahma power"
+   ],
+   "inference": "The sixth level has garuda, bull, and lord, with daksha; the ninth is established by brahma power.",
+   "uncertainties": [
+    "whether garuda and bull are separate or one figure"
+   ],
+   "plain_english": "The sixth level has garuda, bull, and lord, with daksha; the ninth is established by brahma power."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "daśame",
+     "gloss": "in-tenth",
+     "grounds": "verse 142 token 1",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vasavo",
+     "gloss": "vasus",
+     "grounds": "verse 142 token 2",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "rudrā",
+     "gloss": "rudras",
+     "grounds": "verse 142 token 3",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ādityāśca",
+     "gloss": "adityas-and",
+     "grounds": "verse 142 token 4",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "marutpathe",
+     "gloss": "in-wind-path",
+     "grounds": "verse 142 token 5",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "navayojanasāhasro",
+     "gloss": "nine-thousand-yojanas",
+     "grounds": "verse 142 token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vigraho@rkasya",
+     "gloss": "body-of-sun",
+     "grounds": "verse 142 token 7",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "orb",
+     "grounds": "verse 142 token 8",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is in the tenth wind path?",
+   "premises": [
+    "tenth has vasus, rudras, and adityas",
+    "they are in wind path",
+    "sun's body orb is nine thousand yojanas"
+   ],
+   "inference": "The tenth wind path contains vasus, rudras, and adityas, and the sun's orb is nine thousand yojanas.",
+   "uncertainties": [
+    "whether the orb belongs to the tenth level"
+   ],
+   "plain_english": "The tenth wind path contains vasus, rudras, and adityas, and the sun's orb is nine thousand yojanas."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "three-guna",
+     "grounds": "verse 143 token 1",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jñānaśaktiḥ",
+     "gloss": "knowledge-power",
+     "grounds": "verse 143 token 2",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 143 token 3",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tapatyarkatayā",
+     "gloss": "shines-as-sun",
+     "grounds": "verse 143 token 4",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "prabhoḥ",
+     "gloss": "of-lord",
+     "grounds": "verse 143 token 5",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "svarlokastu",
+     "gloss": "svarga-loka-but",
+     "grounds": "verse 143 token 6",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhuvarlokāddhruvāntaṃ",
+     "gloss": "from-bhuvarloka-to-dhruva-end",
+     "grounds": "verse 143 token 7",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "paribhāṣyate",
+     "gloss": "is-defined",
+     "grounds": "verse 143 token 8",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is svarga loka defined?",
+   "premises": [
+    "knowledge power is three-guna",
+    "it shines as sun of lord",
+    "svarga loka is defined from bhuvarloka to dhruva end"
+   ],
+   "inference": "Svarga loka is defined from bhuvarloka to the end of dhruva, with knowledge power shining as the lord's sun.",
+   "uncertainties": [
+    "whether three-guna modifies knowledge power or the whole path"
+   ],
+   "plain_english": "Svarga loka is defined from bhuvarloka to the end of dhruva, with knowledge power shining as the lord's sun."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "sūryāllakṣeṇa",
+     "gloss": "from-sun-by-lakh",
+     "grounds": "verse 144 token 1",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "śītāṃśuḥ",
+     "gloss": "cool-rayed",
+     "grounds": "verse 144 token 2",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kriyāśaktiḥ",
+     "gloss": "action-power",
+     "grounds": "verse 144 token 3",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "of-shiva",
+     "grounds": "verse 144 token 4",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 144 token 5",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "candrāllakṣeṇa",
+     "gloss": "from-moon-by-lakh",
+     "grounds": "verse 144 token 6",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "nākṣatraṃ",
+     "gloss": "stellar",
+     "grounds": "verse 144 token 7",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "verse 144 token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣadvayena",
+     "gloss": "by-two-lakhs",
+     "grounds": "verse 144 token 9",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 144 token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lies a lakh from the sun and moon?",
+   "premises": [
+    "cool-rayed action power of shiva is from sun by lakh",
+    "stellar is from moon by lakh",
+    "then by two lakhs"
+   ],
+   "inference": "Cool-rayed action power of shiva is a lakh from the sun, stellar is a lakh from the moon, then two lakhs.",
+   "uncertainties": [
+    "what the final two lakhs measure"
+   ],
+   "plain_english": "Cool-rayed action power of shiva is a lakh from the sun, stellar is a lakh from the moon, then two lakhs."
+  }
+ ]
+}
