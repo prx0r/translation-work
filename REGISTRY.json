@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 101,
- "gold": 81,
+ "gold": 82,
  "partial": 0,
- "pending": 20,
+ "pending": 19,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -496,12 +496,12 @@
   },
   {
    "work": "tantraloka-a16",
-   "status": "recon complete (pending transformation, shortest-first queue)",
-   "gold": false,
+   "status": "gold (machine-proposed, minimal: L3/L4 waived)",
+   "gold": true,
    "has_data_json": false,
    "has_process_log": false,
    "verses": null,
-   "note": "2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 334-vs-333 noted; a03 verse-0 kept). Registered in workcfg kind=taloka. Queue: shortest-first per owner goal."
+   "note": "minimal gold via swarm: T1/L0/argmap/L2/C1-essence, proof PASS; L3/L4 waived."
   },
   {
    "work": "tantraloka-a17",
