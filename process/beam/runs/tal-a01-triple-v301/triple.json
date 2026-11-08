@@ -1,161 +1,287 @@
 {
- "song": "Tantraloka a01",
+ "song": "Tantraloka a01 (vijñāna-bheda)",
  "items": [
   {
-   "verse": 313,
+   "verse": 319,
    "rows": [
     {
-     "surface": "adhikāraparīkṣāntaḥsaṃskāro@tha",
-     "gloss": "initiation-ending-with-qualification-examination-then",
-     "grounds": "adhikāra-parīkṣā-anta-saṃskāra + atha",
-     "morph": "compound + (indecl.)"
-    },
-    {
-     "surface": "tulāvidhiḥ",
-     "gloss": "rite-of-the-balance",
-     "grounds": "tulā-vidhi",
-     "morph": "compound, m.nom.sg"
-    },
-    {
-     "surface": "ityetadvācyasarvasvaṃ",
-     "gloss": "thus-this-entire-subject-matter-to-be-stated",
-     "grounds": "iti + etad + vācya + sarvasva",
-     "morph": "(indecl.) + compound, n.nom.sg"
-    },
-    {
-     "surface": "syādviṃśatitamāhnike",
-     "gloss": "will-be-in-the-twentieth-chapter",
-     "grounds": "syāt + viṃśatitama + āhnika",
-     "morph": "3.sg.optative + compound, n.loc.sg"
-    }
-   ],
-   "question": "What topics will be treated in the twentieth chapter?",
-   "premises": [
-    "The twentieth chapter deals with consecration ending in the examination of qualification.",
-    "The twentieth chapter also deals with the rite of the balance.",
-    "These topics constitute the entire subject matter to be stated there."
-   ],
-   "inference": "Therefore, the twentieth chapter will present consecration culminating in qualification-examination and the rite of the balance.",
-   "uncertainties": [
-    "The exact ritual sense of tulāvidhi may depend on later exposition in the twentieth chapter."
-   ],
-   "plain_english": "In the twentieth chapter, the full subject to be explained will be consecration ending with the examination of qualification, and also the rite of the balance."
-  },
-  {
-   "verse": 314,
-   "rows": [
-    {
-     "surface": "mṛtajīvadvidhirjālo",
-     "gloss": "rite-of-dead-and-living-and-the-net",
-     "grounds": "mṛta-jīvat-vidhi + jāla",
-     "morph": "compound + m.nom.sg"
-    },
-    {
-     "surface": "padeśaḥ",
-     "gloss": "lordship-over-positions",
-     "grounds": "pada-īśa",
-     "morph": "compound, m.nom.sg"
-    },
-    {
-     "surface": "saṃskriyāgaṇaḥ",
-     "gloss": "group-of-consecratory-rites",
-     "grounds": "saṃskriyā-gaṇa",
-     "morph": "compound, m.nom.sg"
-    },
-    {
-     "surface": "balābalavicāraścetyekaviṃśāhnike",
-     "gloss": "and-examination-of-strength-and-weakness-thus-in-the-twenty-first-chapter",
-     "grounds": "bala-abala-vicāra + ca + iti + ekaviṃśa + āhnika",
-     "morph": "compound + (indecl.) + (indecl.) + compound, n.loc.sg"
-    },
-    {
-     "surface": "vidhiḥ",
-     "gloss": "procedure",
-     "grounds": "vidhi",
-     "morph": "m.nom.sg"
-    }
-   ],
-   "question": "What procedures will be explained in the twenty-first chapter?",
-   "premises": [
-    "The twenty-first chapter includes the rite concerning the dead and the living and the net.",
-    "It includes lordship over positions and a group of consecratory rites.",
-    "It also includes an examination of strength and weakness."
-   ],
-   "inference": "Therefore, the twenty-first chapter will set forth these ritual procedures and assessments.",
-   "uncertainties": [
-    "The technical meanings of jāla and padeśa may be specified more precisely in the twenty-first chapter."
-   ],
-   "plain_english": "In the twenty-first chapter, the procedures to be explained are the rite of the dead and the living, the net, lordship over positions, the group of consecratory rites, and the examination of strength and weakness."
-  },
-  {
-   "verse": 315,
-   "rows": [
-    {
-     "surface": "śravaṇaṃ",
-     "gloss": "hearing",
-     "grounds": "śravaṇa",
+     "surface": "prayojanaṃ",
+     "gloss": "purpose",
+     "grounds": "topic of remaining conduct",
      "morph": "n.nom.sg"
     },
     {
-     "surface": "cābhyanujñānaṃ",
-     "gloss": "and-permission",
-     "grounds": "ca + abhyanujñāna",
-     "morph": "(indecl.) + n.nom.sg"
+     "surface": "śeṣavṛtternityārcā",
+     "gloss": "daily-worship of-remaining-conduct",
+     "grounds": "topic of daily worship for remaining conduct",
+     "morph": "compound"
     },
     {
-     "surface": "śodhanaṃ",
-     "gloss": "purification",
-     "grounds": "śodhana",
-     "morph": "n.nom.sg"
+     "surface": "sthaṇḍile",
+     "gloss": "on-the-altar",
+     "grounds": "place of worship",
+     "morph": "n.loc.sg"
     },
     {
-     "surface": "pātakacyutiḥ",
-     "gloss": "removal-of-sin",
-     "grounds": "pātaka-cyuti",
-     "morph": "compound, f.nom.sg"
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "supreme worship on the altar",
+     "morph": "f.nom.sg"
     },
     {
-     "surface": "śaṅkāccheda",
-     "gloss": "cutting-off-of-doubt",
-     "grounds": "śaṅkā-ccheda",
-     "morph": "compound, m.nom.sg"
+     "surface": "liṅgasvarūpaṃ",
+     "gloss": "nature-of-the-liṅga",
+     "grounds": "topic of the liṅga's nature",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "manifold treatment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cākṣasūtranirūpaṇam",
+     "gloss": "and-explanation-of-the-rosary",
+     "grounds": "topic of the rosary",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which topics concerning daily worship, the liṅga, and the rosary are to be explained?",
+   "premises": [
+    "The purpose of remaining conduct is to be stated.",
+    "Daily worship on the altar is treated as supreme.",
+    "The nature of the liṅga and the rosary are explained in many ways."
+   ],
+   "inference": "The text announces a cluster of topics on remaining conduct, daily altar worship, the liṅga, and the rosary.",
+   "uncertainties": [
+    "The exact scope of śeṣavṛtti in this context is not fully specified."
+   ],
+   "plain_english": "The purpose of the remaining conduct, daily worship, the supreme worship on the altar, the nature of the liṅga in its many forms, and the explanation of the rosary are to be set forth."
+  },
+  {
+   "verse": 320,
+   "rows": [
+    {
+     "surface": "pūjābheda",
+     "gloss": "divisions-of-worship",
+     "grounds": "topic of worship types",
+     "morph": "compound"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "iti",
+     "grounds": "marks summary",
      "morph": "(indecl.)"
-    },
-    {
-     "surface": "spaṣṭaṃ",
-     "gloss": "clearly",
-     "grounds": "spaṣṭa",
-     "morph": "n.nom.sg"
     },
     {
      "surface": "vācyaṃ",
      "gloss": "to-be-stated",
-     "grounds": "vac (gerundive)",
+     "grounds": "announces exposition",
      "morph": "n.nom.sg"
     },
     {
-     "surface": "liṅgoddhṛtikrame",
-     "gloss": "in-the-course-of-removing-the-mark",
-     "grounds": "liṅga-uddhṛti-krama",
-     "morph": "compound, m.loc.sg"
+     "surface": "liṅgārcāsaṃprakāśane",
+     "gloss": "in-the-revelation-of-liṅga-worship",
+     "grounds": "section title or context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naimittikavibhāgastatprayojanavidhistataḥ",
+     "gloss": "then-division-of-occasional-rites-and-their-purpose-and-procedure",
+     "grounds": "topics of occasional rites",
+     "morph": "compound"
     }
    ],
-   "question": "What is to be clearly explained in the course of removing the mark?",
+   "question": "What topics are to be stated in the section on liṅga worship and occasional rites?",
    "premises": [
-    "The course of removing the mark includes hearing and permission.",
-    "It includes purification and the removal of sin.",
-    "It also includes the cutting off of doubt."
+    "The divisions of worship are to be stated.",
+    "These are presented in the revelation of liṅga worship.",
+    "The division, purpose, and procedure of occasional rites follow."
    ],
-   "inference": "Therefore, these elements are to be clearly stated in the procedure for removing the mark.",
+   "inference": "The exposition moves from liṅga worship and its divisions to the classification and procedure of occasional rites.",
    "uncertainties": [
-    "The precise ritual referent of liṅga in this context may be clarified by the later chapter."
+    "Whether liṅgārcāsaṃprakāśane names a specific chapter or a general topic is unclear."
    ],
-   "plain_english": "In the procedure for removing the mark, what must be clearly explained is hearing, permission, purification, the removal of sin, and the cutting off of doubt."
+   "plain_english": "The divisions of worship are to be explained in the revelation of liṅga worship, and then the division, purpose, and procedure of occasional rites."
+  },
+  {
+   "verse": 321,
+   "rows": [
+    {
+     "surface": "parvabhedāstadviśeṣaścakracarcā",
+     "gloss": "divisions-of-festivals-their-specifics-and-circle-worship",
+     "grounds": "topics of festivals and circle worship",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadarcanam",
+     "gloss": "its-worship",
+     "grounds": "worship of the circle",
+     "morph": "compound"
+    },
+    {
+     "surface": "gurvādyantadinādyarcāprayojananirūpaṇam",
+     "gloss": "explanation-of-purpose-of-worship-on-guru-and-other-beginning-and-end-days",
+     "grounds": "topic of special day worship",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which festival and special-day worship topics are to be explained next?",
+   "premises": [
+    "The divisions of festivals and their specifics are to be treated.",
+    "Circle worship and its worship procedure are included.",
+    "The purpose of worship on guru days and other special days is explained."
+   ],
+   "inference": "The text outlines a sequence covering festivals, circle worship, and worship on designated special days.",
+   "uncertainties": [
+    "The exact range of days meant by ādyanta-dina is not fully explicit."
+   ],
+   "plain_english": "The divisions of festivals, their specifics, circle worship and its performance, and the purpose of worship on guru days and other special beginning and end days are to be explained."
+  },
+  {
+   "verse": 322,
+   "rows": [
+    {
+     "surface": "mṛteḥ",
+     "gloss": "of-death",
+     "grounds": "topic of death signs",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "parīkṣā",
+     "gloss": "examination",
+     "grounds": "assessment of death signs",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yogīśīmelakādividhistathā",
+     "gloss": "and-procedure-of-gathering-of-yoginīs-and-others",
+     "grounds": "ritual gathering procedure",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyākhyāvidhiḥ",
+     "gloss": "procedure-of-exposition",
+     "grounds": "method of teaching",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrutavidhirgurupūjāvidhistviyat",
+     "gloss": "and-procedure-of-hearing-and-procedure-of-guru-worship-this-much",
+     "grounds": "further ritual procedures",
+     "morph": "compound"
+    }
+   ],
+   "question": "What procedures concerning death, gatherings, teaching, and guru worship are to be described?",
+   "premises": [
+    "The examination of signs of death is to be treated.",
+    "The procedure for gatherings of yoginīs and others is included.",
+    "Procedures for exposition, hearing, and guru worship are also stated."
+   ],
+   "inference": "The text announces a set of practical and ritual procedures ranging from death signs to teaching and guru worship.",
+   "uncertainties": [
+    "The precise nature of the yoginī gathering is not specified in this verse."
+   ],
+   "plain_english": "The examination of death, the procedure for gatherings of yoginīs and others, the method of exposition, the method of hearing, and the procedure for guru worship are to be described."
+  },
+  {
+   "verse": 323,
+   "rows": [
+    {
+     "surface": "naimittikaprakāśākhye",
+     "gloss": "in-the-section-called-revelation-of-occasional-rites",
+     "grounds": "section title",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "@pyaṣṭāviṃśāhnike",
+     "gloss": "also-in-the-twenty-eighth-chapter",
+     "grounds": "chapter reference",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "established",
+     "grounds": "content is set forth there",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhikāryātmano",
+     "gloss": "of-the-qualified-self",
+     "grounds": "topic of the practitioner",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "division",
+     "grounds": "classification of practitioners",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhapatnīkulakramaḥ",
+     "gloss": "sequence-of-the-lineage-of-siddhas-and-their-consorts",
+     "grounds": "topic of lineage order",
+     "morph": "compound"
+    }
+   ],
+   "question": "What topics are established in the twenty-eighth chapter on occasional rites?",
+   "premises": [
+    "The twenty-eighth chapter is called the revelation of occasional rites.",
+    "It sets forth the division of the qualified self.",
+    "It also sets forth the sequence of the lineage of siddhas and their consorts."
+   ],
+   "inference": "The twenty-eighth chapter combines classification of practitioners with the ordered lineage of siddhas and their consorts.",
+   "uncertainties": [
+    "The exact criteria for the division of the qualified self are not given here."
+   ],
+   "plain_english": "In the twenty-eighth chapter, called the revelation of occasional rites, are established the division of the qualified practitioner and the sequence of the lineage of siddhas and their consorts."
+  },
+  {
+   "verse": 324,
+   "rows": [
+    {
+     "surface": "arcāvidhirdautavidhī",
+     "gloss": "procedure-of-worship-and-procedure-of-messenger",
+     "grounds": "ritual procedures",
+     "morph": "compound"
+    },
+    {
+     "surface": "rahasyopaniṣatkramaḥ",
+     "gloss": "sequence-of-the-secret-upaniṣad",
+     "grounds": "esoteric teaching order",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīkṣābhiṣekau",
+     "gloss": "initiation-and-consecration",
+     "grounds": "ritual empowerments",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "bodhaścetyekonatriṃśa",
+     "gloss": "and-awakening-thus-in-the-twenty-ninth",
+     "grounds": "final topic and chapter reference",
+     "morph": "compound"
+    },
+    {
+     "surface": "āhnike",
+     "gloss": "in-the-chapter",
+     "grounds": "chapter location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which topics are covered in the twenty-ninth chapter of the text?",
+   "premises": [
+    "The chapter includes procedures of worship and of the messenger.",
+    "It includes the sequence of the secret upaniṣad.",
+    "It includes initiation, consecration, and awakening."
+   ],
+   "inference": "The twenty-ninth chapter gathers ritual procedures, esoteric instruction, and culminates in initiation, consecration, and awakening.",
+   "uncertainties": [
+    "The meaning of dautavidhi as 'procedure of the messenger' follows a common Tantric sense but is context-dependent."
+   ],
+   "plain_english": "In the twenty-ninth chapter are the procedures of worship and of the messenger, the sequence of the secret upaniṣad, initiation, consecration, and awakening."
   }
  ]
 }
