@@ -4,53 +4,53 @@
  "rows": [
   {
    "lemma": "vācyaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "the current topic"
+   "morph": "n.acc.sg.fut.pass.part vac",
+   "grounds": "topic of teaching"
   },
   {
    "lemma": "vastu",
    "morph": "n.acc.sg",
-   "grounds": "content of teaching"
+   "grounds": "content"
   },
   {
    "lemma": "samāpya",
-   "morph": "absolutive + sam-āp",
-   "grounds": "end of a section"
+   "morph": "gerund sam-āp",
+   "grounds": "end of section"
   },
   {
    "lemma": "pratarpaṇaṃ",
    "morph": "n.nom.sg",
-   "grounds": "ritual closure"
+   "grounds": "ritual conclusion"
   },
   {
    "lemma": "pūjanaṃ",
    "morph": "n.nom.sg",
-   "grounds": "ritual closure"
+   "grounds": "ritual honor"
   },
   {
    "lemma": "bhaveccakre",
-   "morph": "compound: bhavet+cakre (3.sg.optative-active + bhū; n.loc.sg)",
+   "morph": "3.sg.opt.act bhū + (indecl.) + n.loc.sg cakra",
    "grounds": "ritual setting"
   },
   {
    "lemma": "punaraparaṃ",
-   "morph": "compound: punaḥ+aparam (n.acc.sg)",
+   "morph": "(indecl.) + n.acc.sg",
    "grounds": "next topic"
   },
   {
    "lemma": "vastu",
    "morph": "n.acc.sg",
-   "grounds": "next content"
+   "grounds": "content"
   },
   {
    "lemma": "vadetpaṭalādūrdhvaṃ",
-   "morph": "compound: vadet+paṭalāt+ūrdhvam (3.sg.optative-active + vad)",
-   "grounds": "permitted continuation"
+   "morph": "3.sg.opt.act vad + m.abl.sg, compound=paṭala+ūrdhvam",
+   "grounds": "timing of next teaching"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "restriction"
+   "grounds": "contrastive"
   },
   {
    "lemma": "no",
@@ -59,8 +59,8 @@
   },
   {
    "lemma": "jalpet",
-   "morph": "3.sg.optative-active + jalp",
-   "grounds": "forbids casual speech"
+   "morph": "3.sg.opt.act jalp",
+   "grounds": "idle speech"
   }
  ]
 }

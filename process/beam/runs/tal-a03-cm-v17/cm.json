@@ -1,26 +1,26 @@
 {
- "song": "tal-a03",
- "verse": 17,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "nyagbhāvo",
+   "lemma": "nyagbhāva",
    "morph": "m.nom.sg",
-   "grounds": "state of non-manifest qualities"
+   "grounds": "nyagbhāvaḥ = suppression; nominative singular masculine"
   },
   {
-   "lemma": "grāhyatābhāvāttadabhāvo@pramāṇataḥ",
-   "morph": "compound: grāhyatā+abhāva (m.abl.sg) + compound: tad+abhāva (m.nom.sg) + apramāṇataḥ (indecl.)",
-   "grounds": "non-grasping does not prove non-existence"
+   "lemma": "grāhyatābhāva-tadabhāva-apramāṇatas",
+   "morph": "compound/sandhi: grāhyatābhāvāt (m.abl.sg) + tadabhāvaḥ (m.nom.sg) + apramāṇataḥ (indecl.)",
+   "grounds": "grāhyatābhāvāt = from absence of graspability (abl.); tadabhāvaḥ = its absence (nom.); apramāṇataḥ = is unproved/from lack of proof; fused token"
   },
   {
-   "lemma": "sa",
+   "lemma": "tad",
    "morph": "m.nom.sg",
-   "grounds": "refers to absence of graspability"
+   "grounds": "saḥ = that; nominative singular masculine pronoun"
   },
   {
-   "lemma": "cārthasaṃgamābhāvātso@pyādarśe@navasthiteḥ",
-   "morph": "ca (indecl.) + compound: artha+saṃgama+abhāva (m.abl.sg) + saḥ (m.nom.sg) + api (indecl.) + ādarśa (m.loc.sg) + compound: an+avasthiti (f.abl.sg)",
-   "grounds": "image lacks contact and location in mirror"
+   "lemma": "ca-arthasaṃgamābhāva-tad-api-ādarśa-anavasthiti",
+   "morph": "compound/sandhi: ca (indecl.) + arthasaṃgamābhāvāt (m.abl.sg) + saḥ (m.nom.sg, tad) + api (indecl.) + ādarśe (m.loc.sg) + anavasthiteḥ (f.abl.sg)",
+   "grounds": "ca = and; arthasaṃgamābhāvāt = from no contact with object (abl.); saḥ api = and that too; ādarśe = in mirror (loc.); anavasthiteḥ = from non-location (abl.); heavily fused token"
   }
  ]
 }

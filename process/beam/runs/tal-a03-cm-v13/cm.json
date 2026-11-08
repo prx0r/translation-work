@@ -1,46 +1,46 @@
 {
- "song": "tal-a03",
- "verse": 13,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "dehādanyatra",
-   "morph": "deha (m.abl.sg) + anyatra (indecl.)",
-   "grounds": "location of the supposed light"
+   "lemma": "dehāt anyatra",
+   "morph": "m.abl.sg + indecl.",
+   "grounds": "dehādanyatra = elsewhere-than-the-body; dehāt (abl.sg of deha) + anyatra (indeclinable)"
   },
   {
-   "lemma": "yattejastadadhiṣṭhāturātmanaḥ",
-   "morph": "compound: yad+tejas+tad+adhiṣṭhātṛ+ātman (m.gen.sg)",
-   "grounds": "self as knower of external light"
+   "lemma": "yad tejas tad adhiṣṭhātṛ ātman",
+   "morph": "n.nom.sg + n.nom.sg + n.nom.sg + m.gen.sg + m.gen.sg",
+   "grounds": "yattejastadadhiṣṭhāturātmanaḥ = of-the-self presiding-over that light; yat (n.nom.sg) + tejas (n.nom.sg) + tad (n.nom.sg) + adhiṣṭhātuḥ (m.gen.sg of adhiṣṭhātṛ) + ātmanaḥ (m.gen.sg of ātman)"
   },
   {
-   "lemma": "tenaiva",
-   "morph": "m/n.inst.sg + eva (indecl.)",
-   "grounds": "same light as instrument of knowing"
+   "lemma": "tad eva",
+   "morph": "n.ins.sg + indecl.",
+   "grounds": "tenaiva = by-that-very; tena (n.ins.sg of tad) + eva (indeclinable emphatic particle)"
   },
   {
-   "lemma": "tejasā",
-   "morph": "n.inst.sg",
-   "grounds": "instrument of cognition"
+   "lemma": "tejas",
+   "morph": "n.ins.sg",
+   "grounds": "tejasā = by-light; instrumental singular of tejas"
   },
   {
-   "lemma": "jñatve",
-   "morph": "locative-abstract (√jñā)",
-   "grounds": "hypothetical act of cognition"
+   "lemma": "jñatva",
+   "morph": "indecl. (gerund √jñā)",
+   "grounds": "jñatve = in-knowing; absolutive/gerund of √jñā (surface form jñatve/jñatvā variant)"
   },
   {
-   "lemma": "ko@rthaḥ",
-   "morph": "ka.m.nom.sg + artha.m.nom.sg",
-   "grounds": "challenges need for mirror"
+   "lemma": "ka artha",
+   "morph": "m.nom.sg + m.nom.sg",
+   "grounds": "ko@rthaḥ = what-purpose; kaḥ (m.nom.sg of kim) + arthaḥ (m.nom.sg of artha)"
   },
   {
-   "lemma": "syāddarpaṇena",
-   "morph": "syāt (3.sg.opt.act; √as) + darpaṇa (m.inst.sg)",
-   "grounds": "mirror becomes unnecessary"
+   "lemma": "as darpaṇa",
+   "morph": "3sg.opt.act √as + m.ins.sg",
+   "grounds": "syāddarpaṇena = would-there-be with-mirror; syāt (3sg.opt.act √as) + darpaṇena (m.ins.sg of darpaṇa)"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "emphatic contrast"
+   "morph": "indecl.",
+   "grounds": "tu = indeed; indeclinable particle"
   }
  ]
 }

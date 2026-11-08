@@ -1,41 +1,41 @@
 {
- "song": "tal-a03",
- "verse": 15,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "svamukhe",
-   "morph": "compound: sva+mukha (n.loc.sg)",
-   "grounds": "hypothetical locus of appearance"
+   "lemma": "svamukha",
+   "morph": "n.loc.sg",
+   "grounds": "svamukhe = on one's own face; locative singular of compound sva-mukha"
   },
   {
-   "lemma": "sparśavaccaitadrūpaṃ",
-   "morph": "sparśavat (indecl.) + ca (indecl.) + etad+rūpa (n.nom.sg)",
-   "grounds": "form would appear as directly present"
+   "lemma": "sparśavat-ca-etad-rūpa",
+   "morph": "n.nom.sg (compound)",
+   "grounds": "sparśavat + ca + etad + rūpam = this form like touch; nominative singular neuter compound"
   },
   {
-   "lemma": "bhāyānmametyalam",
-   "morph": "bhāyāt (3.sg.opt.act; √bhā) + mama (indecl.) + iti (indecl.) + alam (indecl.)",
-   "grounds": "expected self-attribution"
+   "lemma": "bhāyāt-mama-iti-alam",
+   "morph": "3sg.opt.act √bhā + pron.gen.sg + indecl. + indecl. (sandhi group)",
+   "grounds": "bhāyāt + mama + iti + alam = would appear as mine fully; optative of √bhā with enclitics/particles"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negates this possibility"
+   "morph": "indecl.",
+   "grounds": "na = not; negative particle"
   },
   {
-   "lemma": "tvasya",
-   "morph": "tu (indecl.) + asya (m/n.gen.sg)",
-   "grounds": "refers to mirror image"
+   "lemma": "tu-asya",
+   "morph": "indecl. + pron.gen.sg.m/n (sandhi group)",
+   "grounds": "tu + asya = but of this; particle tu with genitive singular of idam/etad"
   },
   {
-   "lemma": "spṛśyabhinnasya",
-   "morph": "compound: spṛśya+bhinna (m/n.gen.sg)",
-   "grounds": "image lacks tangibility"
+   "lemma": "spṛśyabhinna",
+   "morph": "m/n.gen.sg (compound)",
+   "grounds": "spṛśya-bhinnasya = separated from touch; genitive singular of compound spṛśya-bhinna"
   },
   {
-   "lemma": "vedyaikāntasvarūpiṇaḥ",
-   "morph": "compound: vedya+ekānta+svarūpin (m/n.gen.sg)",
-   "grounds": "image is purely an object of sight"
+   "lemma": "vedyaikāntasvarūpin",
+   "morph": "m/n.gen.sg (compound)",
+   "grounds": "vedya-ekānta-svarūpiṇaḥ = whose nature is only visible; genitive singular of bahuvrihi compound vedya-ekānta-svarūpin"
   }
  ]
 }

@@ -1,51 +1,51 @@
 {
- "song": "tal-a28",
- "verse": 108,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "mūle",
+   "lemma": "mūla",
    "morph": "n.loc.sg",
-   "grounds": "under the Mūla star"
+   "grounds": "mūle = in-mula (loc.sg of mūla)"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "continuation"
+   "morph": "indecl.",
+   "grounds": "tu = but (indeclinable particle)"
   },
   {
    "lemma": "dvādaśī",
    "morph": "f.nom.sg",
-   "grounds": "the twelfth lunar day"
+   "grounds": "dvādaśī = twelfth-day (nom.sg of dvādaśī)"
   },
   {
-   "lemma": "brāhme",
+   "lemma": "brāhma",
    "morph": "n.loc.sg",
-   "grounds": "under Rohiṇī or a Brahma-linked star"
+   "grounds": "brāhme = in-the-brahma-star (loc.sg, referring to Rohiṇī/Brahma nakṣatra; AMBIGUOUS)"
   },
   {
-   "lemma": "bhūtāśvinyāṃ",
-   "morph": "bhūta+aśvinyām, f.loc.sg",
-   "grounds": "on the fourteenth day under Aśvinī"
+   "lemma": "bhūtāśvinī",
+   "morph": "f.loc.sg",
+   "grounds": "bhūtāśvinyāṃ = on-fourteenth-in-ashvini (loc.sg of compound bhūta+caturdaśī+āśvinī; AMBIGUOUS segmentation)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connection"
+   "morph": "indecl.",
+   "grounds": "ca = and (indeclinable conjunction)"
   },
   {
    "lemma": "pūrṇimā",
    "morph": "f.nom.sg",
-   "grounds": "the full moon"
+   "grounds": "pūrṇimā = full-moon-day (nom.sg of pūrṇimā)"
   },
   {
    "lemma": "dhaniṣṭhāyāmamāvasyā",
-   "morph": "dhaniṣṭhāyām+amāvasyā, f.loc.sg+f.nom.sg",
-   "grounds": "the new moon under Dhaniṣṭhā"
+   "morph": "compound: dhaniṣṭhā+amāvasyā (f.loc.sg+f.nom.sg)",
+   "grounds": "dhaniṣṭhāyāmamāvasyā = in-dhanishtha-new-moon (sandhi/compound of dhaniṣṭhāyām loc.sg and amāvasyā nom.sg)"
   },
   {
-   "lemma": "so@yamekādaśātmakaḥ",
-   "morph": "saḥ+ayam+ekādaśa+ātmakaḥ, m.nom.sg",
-   "grounds": "this set has eleven parts"
+   "lemma": "saḥ+ayam+ekādaśātmakaḥ",
+   "morph": "compound/sandhi: saḥ (m.nom.sg pron.) + ayam (m.nom.sg pron.) + ekādaśa+ātmaka (m.nom.sg adj.)",
+   "grounds": "so@yamekādaśātmakaḥ = this-is-elevenfold (sandhi: saḥ ayam ekādaśātmakaḥ)"
   }
  ]
 }

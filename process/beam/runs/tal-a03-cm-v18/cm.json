@@ -1,56 +1,56 @@
 {
- "song": "tal-a03",
- "verse": 18,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ata",
-   "morph": "(indecl.)",
-   "grounds": "draws consequence"
+   "lemma": "atas",
+   "morph": "indecl.",
+   "grounds": "ata = therefore"
   },
   {
    "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "morph": "indecl.",
+   "grounds": "eva = indeed"
   },
   {
-   "lemma": "gurutvādirdharmo",
-   "morph": "compound: gurutva+ādi+dharma (m.nom.sg)",
-   "grounds": "material properties not perceived"
+   "lemma": "gurutvādi-dharma",
+   "morph": "m.nom.sg (compound: gurutva+ādi + dharma)",
+   "grounds": "gurutvādirdharmo = property such-as-heaviness"
   },
   {
-   "lemma": "naitasya",
-   "morph": "na (indecl.) + etasya (m/n.gen.sg)",
-   "grounds": "denies properties of image"
+   "lemma": "etad",
+   "morph": "m./n.gen.sg (with negation na)",
+   "grounds": "naitasya = not-of-this"
   },
   {
-   "lemma": "lakṣyate",
-   "morph": "3.sg.pres.pass; √lakṣ",
-   "grounds": "empirical support"
+   "lemma": "lakṣ",
+   "morph": "3sg.pres.pass √lakṣ",
+   "grounds": "lakṣyate = is-observed"
   },
   {
-   "lemma": "nahyādarśe",
-   "morph": "na (indecl.) + hi (indecl.) + ādarśa (m.loc.sg)",
-   "grounds": "image not located there"
+   "lemma": "na-hi-ādarśa",
+   "morph": "indecl. + m.loc.sg (compound/phrase: na + hi + ādarśa)",
+   "grounds": "nahyādarśe = for-not in-the-mirror"
   },
   {
-   "lemma": "saṃsthito@sau",
-   "morph": "saṃsthitaḥ (m.nom.sg) + asau (m.nom.sg)",
-   "grounds": "denies real placement"
+   "lemma": "saṃsthita",
+   "morph": "m.nom.sg (past participle, √sthā with sam)",
+   "grounds": "saṃsthito@sau = this is-situated (sandhi: saṃsthitaḥ + asau)"
   },
   {
-   "lemma": "taddṛṣṭau",
-   "morph": "compound: tad+dṛṣṭi (f.loc.sg)",
-   "grounds": "mirror's role in perception"
+   "lemma": "tad-dṛṣṭi",
+   "morph": "f.loc.sg (compound: tad + dṛṣṭi)",
+   "grounds": "taddṛṣṭau = in-seeing-that"
   },
   {
-   "lemma": "sa",
+   "lemma": "tad",
    "morph": "m.nom.sg",
-   "grounds": "the mirror"
+   "grounds": "sa = it"
   },
   {
-   "lemma": "upāyakaḥ",
+   "lemma": "upāyaka",
    "morph": "m.nom.sg",
-   "grounds": "mirror as instrumental condition"
+   "grounds": "upāyakaḥ = is-a-means"
   }
  ]
 }

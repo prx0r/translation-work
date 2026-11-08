@@ -1,56 +1,56 @@
 {
- "song": "tal-a28",
- "verse": 119,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ātmanaśca",
-   "morph": "ātmanaḥ+ca, m.gen.sg",
-   "grounds": "for oneself also"
+   "lemma": "ātman",
+   "morph": "m.gen.sg",
+   "grounds": "ātmanaḥ = of-oneself (m.gen.sg) + ca (indecl.)"
   },
   {
-   "lemma": "pavitraṃ",
+   "lemma": "pavitra",
    "morph": "n.acc.sg",
-   "grounds": "the pavitra"
+   "grounds": "pavitraṃ = sacred-thread (n.acc.sg)"
   },
   {
-   "lemma": "taṃ",
+   "lemma": "tad",
    "morph": "n.acc.sg",
-   "grounds": "that same"
+   "grounds": "taṃ = that (n.acc.sg)"
   },
   {
-   "lemma": "kuryādyāgapuraḥsaram",
-   "morph": "kuryāt+yāga+puraḥsaram, 3.sg.opt.active + √kṛ",
-   "grounds": "one should prepare it preceded by worship"
+   "lemma": "kṛ + yāga-puraḥsara",
+   "morph": "3sg.opt.act √kṛ + compound(n.acc.sg)",
+   "grounds": "kuryāt = one-should-make (3sg.opt.act √kṛ) + yāga-puraḥsaram = preceded-by-worship (bahuvrīhi/avyayībhāva-style compound, n.acc.sg)"
   },
   {
-   "lemma": "daśa",
-   "morph": "(indecl.)",
-   "grounds": "ten"
+   "lemma": "daśan",
+   "morph": "num.nom.pl",
+   "grounds": "daśa = ten (numeral, nom.pl)"
   },
   {
-   "lemma": "koṭyo",
+   "lemma": "koṭi",
    "morph": "f.nom.pl",
-   "grounds": "ten million units"
+   "grounds": "koṭyo = crores (f.nom.pl)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not (indeclinable)"
   },
   {
-   "lemma": "pūjānāṃ",
+   "lemma": "pūjā",
    "morph": "f.gen.pl",
-   "grounds": "of acts of worship"
+   "grounds": "pūjānāṃ = of-worships (f.gen.pl)"
   },
   {
-   "lemma": "pavitrārohaṇe",
-   "morph": "pavitra+ārohaṇe, n.loc.sg",
-   "grounds": "in the pavitra offering"
+   "lemma": "pavitrārohaṇa",
+   "morph": "n.loc.sg",
+   "grounds": "pavitrārohaṇe = in-thread-offering (n.loc.sg, compound: pavitra+ārohaṇa)"
   },
   {
-   "lemma": "samāḥ",
+   "lemma": "sama",
    "morph": "f.nom.pl",
-   "grounds": "equivalent"
+   "grounds": "samāḥ = equal (f.nom.pl, agreeing with koṭyaḥ)"
   }
  ]
 }

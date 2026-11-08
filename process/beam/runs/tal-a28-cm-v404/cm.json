@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "dṛḍharacitapūrvapakṣaproddharaṇapathena",
-   "morph": "compound: dṛḍha+racita+pūrva+pakṣa+proddharaṇa+pathena (m.inst.sg)",
+   "morph": "m.ins.sg, compound=dṛḍha+racita+pūrva+pakṣa+proddharaṇa+patha",
    "grounds": "structured argument"
   },
   {
    "lemma": "vastu",
-   "morph": "n.nom.sg",
-   "grounds": "what is taught"
+   "morph": "n.acc.sg",
+   "grounds": "point to be taught"
   },
   {
    "lemma": "yadvācyam",
-   "morph": "compound: yat+vācyam (n.nom.sg)",
+   "morph": "n.nom.sg + n.nom.sg.fut.pass.part vac",
    "grounds": "intended teaching"
   },
   {
    "lemma": "śiṣyamatāvārohati",
-   "morph": "compound: śiṣya+mate+ārohati (3.sg.present-active + ā-ruh)",
-   "grounds": "successful understanding"
+   "morph": "n.loc.sg, compound=śiṣya+mata + 3.sg.pres.act ā-ruh",
+   "grounds": "student comprehension"
   },
   {
    "lemma": "tadāśu",
-   "morph": "compound: tadā+āśu (indecl.)",
-   "grounds": "immediate result"
+   "morph": "(indecl.) + (indecl.)",
+   "grounds": "immediate understanding"
   },
   {
    "lemma": "saṃśayaviparyayairvikalam",
-   "morph": "compound: saṃśaya+viparyayaiḥ+vikalam (n.nom.sg)",
-   "grounds": "clarity of understanding"
+   "morph": "n.nom.sg, compound=saṃśaya+viparyaya + vikala",
+   "grounds": "clear grasp"
   }
  ]
 }

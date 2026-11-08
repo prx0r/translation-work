@@ -1,41 +1,41 @@
 {
- "song": "tal-a28",
- "verse": 193,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "tadupāyaḥ",
-   "morph": "m.nom.sg, compound = tat+upāya",
-   "grounds": "the means for that knowledge"
-  },
-  {
-   "lemma": "śāstramatra",
-   "morph": "n.nom.sg, compound = śāstra+atra",
-   "grounds": "the scripture in this context"
-  },
-  {
-   "lemma": "vaktāpyaupayiko",
-   "morph": "m.nom.sg, compound = vaktṛ+api+aupayika",
-   "grounds": "the speaker too is a suitable means"
-  },
-  {
-   "lemma": "guruḥ",
+   "lemma": "tadupāya",
    "morph": "m.nom.sg",
-   "grounds": "the teacher"
+   "grounds": "tadupāyaḥ = its-means (tat+upāya compound, nominative singular)"
   },
   {
-   "lemma": "tadvidyo@pi",
-   "morph": "m.nom.sg, compound = tat+vidya+api",
-   "grounds": "one who knows that teaching also"
+   "lemma": "śāstra",
+   "morph": "n.nom.sg (in compound with atra)",
+   "grounds": "śāstramatra = scripture-here (śāstra nominative/accusative neuter singular + atra indeclinable; sandhi form)"
   },
   {
-   "lemma": "gurubhrātā",
-   "morph": "m.nom.sg, compound = guru+bhrātṛ",
-   "grounds": "a fellow disciple of the teacher"
+   "lemma": "vaktṛ",
+   "morph": "m.nom.sg (in compound with api+aupayika)",
+   "grounds": "vaktāpyaupayiko = speaker-also-suitable (vaktā nominative singular of vaktṛ + api + aupayikaḥ)"
   },
   {
-   "lemma": "saṃvādājjñānadāyakaḥ",
-   "morph": "m.nom.sg, compound = saṃvāda+jñāna+dāyaka",
-   "grounds": "gives knowledge through dialogue"
+   "lemma": "guru",
+   "morph": "m.nom.sg",
+   "grounds": "guruḥ = teacher (nominative singular masculine)"
+  },
+  {
+   "lemma": "tadvid",
+   "morph": "m.nom.sg (with api)",
+   "grounds": "tadvidyo@pi = knowing-that-also (tadvid nominative singular + api; sandhi tadvidyo'pi)"
+  },
+  {
+   "lemma": "gurubhrātṛ",
+   "morph": "m.nom.sg",
+   "grounds": "gurubhrātā = teacher-brother (guru+bhrātṛ compound, nominative singular)"
+  },
+  {
+   "lemma": "saṃvādajñānadāyaka",
+   "morph": "m.nom.sg",
+   "grounds": "saṃvādājjñānadāyakaḥ = from-dialogue-giving-knowledge (saṃvāda+ablative sense in compound + jñāna+dāyaka, nominative singular)"
   }
  ]
 }

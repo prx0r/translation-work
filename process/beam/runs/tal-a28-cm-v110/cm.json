@@ -1,46 +1,46 @@
 {
- "song": "tal-a28",
- "verse": 110,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "yogaparvaṇi",
-   "morph": "yoga+parvaṇi, n.loc.sg",
-   "grounds": "at a yoga-parvan"
+   "lemma": "yogaparvan",
+   "morph": "n.loc.sg",
+   "grounds": "yogaparvaṇi = on-yoga-occasion (loc.sg. of compound yoga+parvan)"
   },
   {
-   "lemma": "kartavyo",
-   "morph": "m.nom.sg, gerundive + √kṛ",
-   "grounds": "should be performed"
+   "lemma": "kartavya",
+   "morph": "m.nom.sg (gerundive)",
+   "grounds": "kartavyo = to-be-done (nom.sg.m. gerundive of √kṛ)"
   },
   {
-   "lemma": "mūrtiyāgastu",
-   "morph": "mūrti+yāgaḥ+tu, m.nom.sg",
-   "grounds": "the mūrti-yāga"
+   "lemma": "mūrtiyāga",
+   "morph": "m.nom.sg + indecl.",
+   "grounds": "mūrtiyāgastu = body-worship-but (mūrtiyāgaḥ nom.sg.m. of compound mūrti+yāga + tu indecl.)"
   },
   {
    "lemma": "sarvathā",
-   "morph": "(indecl.)",
-   "grounds": "by all means"
+   "morph": "indecl.",
+   "grounds": "sarvathā = in-every-way (indeclinable adverb)"
   },
   {
-   "lemma": "yaḥ",
+   "lemma": "yad",
    "morph": "m.nom.sg",
-   "grounds": "the one who"
+   "grounds": "yaḥ = who (nom.sg.m. relative pronoun)"
   },
   {
-   "lemma": "sarvānyogaparvākhyān",
-   "morph": "sarvāni+yoga+parva+ākhyān, m.acc.pl",
-   "grounds": "all days called yoga-parvans"
-  },
-  {
-   "lemma": "vāsarān",
+   "lemma": "sarvayogaparvākhyā",
    "morph": "m.acc.pl",
-   "grounds": "the days"
+   "grounds": "sarvānyogaparvākhyān = all-called-yoga-occasions (acc.pl.m. of compound sarva+yoga+parvan+ākhyā; sandhi/surface form)"
   },
   {
-   "lemma": "pūjayetsudhīḥ",
-   "morph": "pūjayet+sudhīḥ, 3.sg.opt.active + √pūj",
-   "grounds": "the wise person should worship"
+   "lemma": "vāsara",
+   "morph": "m.acc.pl",
+   "grounds": "vāsarān = days (acc.pl.m.)"
+  },
+  {
+   "lemma": "pūjayet-sudhī",
+   "morph": "3sg.opt.act √pūj + m.nom.sg",
+   "grounds": "pūjayetsudhīḥ = wise-one-should-honor (pūjayet 3sg.opt.act of √pūj + sudhīḥ nom.sg.m. of sudhī)"
   }
  ]
 }

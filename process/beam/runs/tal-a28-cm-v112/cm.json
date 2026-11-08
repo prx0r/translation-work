@@ -1,41 +1,41 @@
 {
- "song": "tal-a28",
- "verse": 112,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "athocyate",
-   "morph": "atha+ucyate, 3.sg.pres.passive + √vac",
-   "grounds": "now it is explained"
+   "lemma": "atha ucyate",
+   "morph": "indecl. + 3sg.pres.pass √vac",
+   "grounds": "athocyate = now-is-spoken; sandhi of atha + ucyate"
   },
   {
-   "lemma": "śivenoktaḥ",
-   "morph": "śivena+uktaḥ, m.nom.sg, past-participle + √vac",
-   "grounds": "taught by Śiva"
+   "lemma": "śiva ukta",
+   "morph": "m.stem + m.nom.sg ppp √vac",
+   "grounds": "śivenoktaḥ = spoken-by-shiva; compound/instrumental + past passive participle"
   },
   {
-   "lemma": "pavitrakavidhiḥ",
-   "morph": "pavitraka+vidhiḥ, m.nom.sg",
-   "grounds": "the pavitraka procedure"
-  },
-  {
-   "lemma": "sphuṭaḥ",
+   "lemma": "pavitrakavidhi",
    "morph": "m.nom.sg",
-   "grounds": "explicit"
+   "grounds": "pavitrakavidhiḥ = thread-offering-rite; tatpuruṣa compound nominative"
   },
   {
-   "lemma": "śrīratnamālātriśiraḥśāstrayoḥ",
-   "morph": "śrī+ratnamālā+triśiraḥ+śāstrayoḥ, n.loc.dual",
-   "grounds": "in the Ratnamālā and Triśiras texts"
+   "lemma": "sphuṭa",
+   "morph": "m.nom.sg",
+   "grounds": "sphuṭaḥ = clear; adjective nominative singular masculine"
   },
   {
-   "lemma": "sūcitaḥ",
-   "morph": "m.nom.sg, past-participle + √sūc",
-   "grounds": "pointed out"
+   "lemma": "śrīratnamālātriśiraḥśāstra",
+   "morph": "n.loc.du",
+   "grounds": "śrīratnamālātriśiraḥśāstrayoḥ = in-ratnamala-and-trishiras-scriptures; dvandva compound locative dual"
   },
   {
-   "lemma": "punaḥ",
-   "morph": "(indecl.)",
-   "grounds": "further"
+   "lemma": "sūcita",
+   "morph": "m.nom.sg ppp √sūc",
+   "grounds": "sūcitaḥ = indicated; past passive participle nominative singular masculine"
+  },
+  {
+   "lemma": "punar",
+   "morph": "indecl.",
+   "grounds": "punaḥ = again; indeclinable adverb"
   }
  ]
 }
