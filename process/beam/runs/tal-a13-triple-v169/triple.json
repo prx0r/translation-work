@@ -1,0 +1,1463 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "gurvāyattā",
+     "gloss": "guru-dependent",
+     "grounds": "verse 169 token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 169 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 169 token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "verse 169 token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "badhyabandhanamokṣaṇe",
+     "gloss": "in-binding-and-liberation",
+     "grounds": "verse 169 token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prātibho@sya",
+     "gloss": "of-intuitive-nature",
+     "grounds": "verse 169 token 6",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svabhāvastu",
+     "gloss": "but-own-nature",
+     "grounds": "verse 169 token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kevalībhāvasiddhidaḥ",
+     "gloss": "giver-of-isolated-state",
+     "grounds": "verse 169 token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does initiation depend on the guru?",
+   "premises": [
+    "initiation depends on guru",
+    "intuitive nature belongs to him",
+    "own nature gives isolated state"
+   ],
+   "inference": "guru-dependent initiation leads to isolated realization",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Initiation depends on the guru; its intuitive nature is his own nature, which grants the isolated state."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "kevalasya",
+     "gloss": "of-the-isolated-one",
+     "grounds": "verse 170 token 1",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhruvaṃ",
+     "gloss": "certainly",
+     "grounds": "verse 170 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "verse 170 token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paratattvena",
+     "gloss": "by-supreme-principle",
+     "grounds": "verse 170 token 4",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "verse 170 token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "verse 170 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nṛśaktiśivamuktaṃ",
+     "gloss": "human-power-shiva-liberated",
+     "grounds": "verse 170 token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "verse 170 token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvatrayamidaṃ",
+     "gloss": "these-three-principles",
+     "grounds": "verse 170 token 9",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "verse 170 token 10",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Is liberation of the isolated one certain by supreme principle?",
+   "premises": [
+    "liberation is certain",
+    "supreme principle is involved",
+    "three principles are named"
+   ],
+   "inference": "the three principles frame the question of liberation",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Liberation of the isolated one is certain by the supreme principle; the three principles are named for you."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "verse 171 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "badhyo",
+     "gloss": "bound",
+     "grounds": "verse 171 token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bandhane",
+     "gloss": "in-bondage",
+     "grounds": "verse 171 token 3",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "verse 171 token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "verse 171 token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kartṛtāṃ",
+     "gloss": "agency",
+     "grounds": "verse 171 token 6",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "spṛśat",
+     "gloss": "touching",
+     "grounds": "verse 171 token 7",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "verse 171 token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karteti",
+     "gloss": "as-doer",
+     "grounds": "verse 171 token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatproktaṃ",
+     "gloss": "that-stated",
+     "grounds": "verse 171 token 10",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "verse 171 token 11",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gurvāgamādaṇoḥ",
+     "gloss": "from-guru-tradition",
+     "grounds": "verse 171 token 12",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Who is the doer in bondage and liberation?",
+   "premises": [
+    "power is not bound",
+    "shiva touches agency",
+    "all is stated from guru tradition"
+   ],
+   "inference": "shiva remains doer while power operates",
+   "uncertainties": [
+    "sandhi reading approximate"
+   ],
+   "plain_english": "Power is not bound in bondage; Shiva touches agency, and all this is stated from the guru tradition."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "punarvivekāduktaṃ",
+     "gloss": "again-from-discrimination-stated",
+     "grounds": "verse 172 token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taduttarottaramucyatām",
+     "gloss": "let-that-be-explained-further",
+     "grounds": "verse 172 token 2",
+     "morph": "imp.3sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "verse 172 token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivekaḥ",
+     "gloss": "discrimination",
+     "grounds": "verse 172 token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "verse 172 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsya",
+     "gloss": "or-its",
+     "grounds": "verse 172 token 6",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devadeva",
+     "gloss": "god-of-gods",
+     "grounds": "verse 172 token 7",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "vivicyate",
+     "gloss": "is-discriminated",
+     "grounds": "verse 172 token 8",
+     "morph": "pres.pass.3sg"
+    }
+   ],
+   "question": "How does discrimination arise and what is discriminated?",
+   "premises": [
+    "discrimination is stated again",
+    "further explanation is requested",
+    "god of gods is addressed"
+   ],
+   "inference": "the verse asks for the nature of discrimination",
+   "uncertainties": [
+    "compound segmentation approximate"
+   ],
+   "plain_english": "Again discrimination is stated; explain it further: how is discrimination, and what is discriminated, O god of gods?"
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "ityukte",
+     "gloss": "thus-spoken",
+     "grounds": "verse 173 token 1",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "parameśānyā",
+     "gloss": "by-supreme-lady",
+     "grounds": "verse 173 token 2",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "jagādādiguruḥ",
+     "gloss": "spoke-primal-guru",
+     "grounds": "verse 173 token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "verse 173 token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivāditattvatritayaṃ",
+     "gloss": "shiva-origin-three-principles",
+     "grounds": "verse 173 token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadāgamavaśādguroḥ",
+     "gloss": "from-guru-tradition",
+     "grounds": "verse 173 token 6",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What three principles does the primal guru speak?",
+   "premises": [
+    "thus spoken by supreme lady",
+    "primal guru shiva spoke",
+    "three principles from guru tradition"
+   ],
+   "inference": "the guru tradition presents three principles",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Thus spoken, the primal guru Shiva spoke the three principles from the guru tradition."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "adhrottaragairvākyaiḥ",
+     "gloss": "by-higher-words",
+     "grounds": "verse 174 token 1",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "siddhaṃ",
+     "gloss": "accomplished",
+     "grounds": "verse 174 token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prātibhatāṃ",
+     "gloss": "intuitive-state",
+     "grounds": "verse 174 token 3",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-go",
+     "grounds": "verse 174 token 4",
+     "morph": "opt.3sg"
+    },
+    {
+     "surface": "dīkṣāsicchinnapāśatvādbhāvanābhāvitasya",
+     "gloss": "of-one-cultivated-by-initiation",
+     "grounds": "verse 174 token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "verse 174 token 6",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does intuitive state become accomplished?",
+   "premises": [
+    "higher words accomplish it",
+    "initiated cultivated one attains it",
+    "intuitive state is the goal"
+   ],
+   "inference": "initiation and cultivation lead to intuitive state",
+   "uncertainties": [
+    "long compound gloss compressed"
+   ],
+   "plain_english": "By higher words the accomplished intuitive state is attained by one cultivated through initiation."
+  },
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "vikāsaṃ",
+     "gloss": "expansion",
+     "grounds": "verse 175 token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tattvamāyāti",
+     "gloss": "principle-approaches",
+     "grounds": "verse 175 token 2",
+     "morph": "pres.3sg"
+    },
+    {
+     "surface": "prātibhaṃ",
+     "gloss": "intuitive",
+     "grounds": "verse 175 token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadudāhṛtam",
+     "gloss": "that-illustrated",
+     "grounds": "verse 175 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhasmacchannāgnivatsphauṭyaṃ",
+     "gloss": "like-fire-covered-by-ashes",
+     "grounds": "verse 175 token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prātibhe",
+     "gloss": "in-intuition",
+     "grounds": "verse 175 token 6",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gauravāgamāt",
+     "gloss": "from-guru-tradition",
+     "grounds": "verse 175 token 7",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does intuitive principle expand?",
+   "premises": [
+    "principle approaches intuitive",
+    "illustrated by fire under ashes",
+    "guru tradition is source"
+   ],
+   "inference": "intuition expands like hidden fire",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "The principle approaches the intuitive; it is illustrated like fire covered by ashes, from the guru tradition."
+  },
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "verse 176 token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāloptasaṃsiktaṃ",
+     "gloss": "sown-and-watered-by-time",
+     "grounds": "verse 176 token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "verse 176 token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardheta",
+     "gloss": "may-grow",
+     "grounds": "verse 176 token 4",
+     "morph": "opt.3sg"
+    },
+    {
+     "surface": "tattathā",
+     "gloss": "so-thus",
+     "grounds": "verse 176 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogayāgajapairuktairguruṇā",
+     "gloss": "by-guru-through-yoga-rite-chant",
+     "grounds": "verse 176 token 6",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prātibhaṃ",
+     "gloss": "intuitive",
+     "grounds": "verse 176 token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sphuṭet",
+     "gloss": "may-become-clear",
+     "grounds": "verse 176 token 8",
+     "morph": "opt.3sg"
+    }
+   ],
+   "question": "How does intuitive knowledge become clear?",
+   "premises": [
+    "seed grows when sown",
+    "guru acts through yoga rite chant",
+    "intuitive knowledge becomes clear"
+   ],
+   "inference": "guru cultivation makes intuition clear",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "As a seed grows when sown and watered, so intuitive knowledge becomes clear through the guru's yoga, rite, and chant."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "viveko@tīndriyastveṣa",
+     "gloss": "discrimination-beyond-senses",
+     "grounds": "verse 177 token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadāyāti",
+     "gloss": "when-it-comes",
+     "grounds": "verse 177 token 2",
+     "morph": "pres.3sg"
+    },
+    {
+     "surface": "vivecanam",
+     "gloss": "discernment",
+     "grounds": "verse 177 token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paśupāśapatijñānaṃ",
+     "gloss": "knowledge-of-bound-soul-bond-lord",
+     "grounds": "verse 177 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-itself",
+     "grounds": "verse 177 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbhāsate",
+     "gloss": "shines-forth",
+     "grounds": "verse 177 token 6",
+     "morph": "pres.3sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "verse 177 token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does discrimination beyond senses shine forth?",
+   "premises": [
+    "discrimination is beyond senses",
+    "knowledge of soul bond lord shines",
+    "it shines by itself then"
+   ],
+   "inference": "trans-sensory discrimination reveals the triad",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "When discrimination beyond the senses comes, knowledge of bound soul, bond, and lord shines forth by itself."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "prātibhe",
+     "gloss": "in-intuition",
+     "grounds": "verse 178 token 1",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 178 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāyāte",
+     "gloss": "when-arrived",
+     "grounds": "verse 178 token 3",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "jñānamanyattu",
+     "gloss": "but-other-knowledge",
+     "grounds": "verse 178 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sendriyam",
+     "gloss": "with-senses",
+     "grounds": "verse 178 token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāgakṣiśrutigamyaṃ",
+     "gloss": "reachable-by-speech-eye-ear",
+     "grounds": "verse 178 token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāpyanyāpekṣaṃ",
+     "gloss": "dependent-on-another",
+     "grounds": "verse 178 token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "fair-faced-one",
+     "grounds": "verse 178 token 8",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What knowledge remains when intuition arrives?",
+   "premises": [
+    "intuition has arrived",
+    "other knowledge is sense-based",
+    "it depends on another"
+   ],
+   "inference": "ordinary knowledge is secondary to intuition",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "When intuition arrives, other knowledge is sense-based, reachable by speech, eye, and ear, and dependent on another, O fair-faced one."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "tattyajedbuddhimāsthāya",
+     "gloss": "abandon-that-taking-intellect",
+     "grounds": "verse 179 token 1",
+     "morph": "opt.3sg"
+    },
+    {
+     "surface": "pradīpaṃ",
+     "gloss": "lamp",
+     "grounds": "verse 179 token 2",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 179 token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "verse 179 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divā",
+     "gloss": "by-day",
+     "grounds": "verse 179 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prādurbhūtavivekasya",
+     "gloss": "of-manifest-discrimination",
+     "grounds": "verse 179 token 6",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "syāccidindriyagocare",
+     "gloss": "would-be-in-consciousness-range",
+     "grounds": "verse 179 token 7",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Why abandon ordinary knowledge when discrimination manifests?",
+   "premises": [
+    "abandon that taking intellect",
+    "lamp by day analogy",
+    "manifest discrimination is conscious"
+   ],
+   "inference": "ordinary knowledge becomes unnecessary",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Abandon that, taking the intellect; as a lamp by day, when discrimination manifests it is within consciousness."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "dūrācchrutyādivedhādivṛddhikrīḍāvicitritā",
+     "gloss": "varied-play-of-growth-from-distance",
+     "grounds": "verse 180 token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvabhāvavivekāttu",
+     "gloss": "but-from-discrimination-of-all-states",
+     "grounds": "verse 180 token 2",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sarvabhāvaparāṅmukhaḥ",
+     "gloss": "turned-away-from-all-states",
+     "grounds": "verse 180 token 3",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What follows from discrimination of all states?",
+   "premises": [
+    "varied play of growth",
+    "discrimination of all states",
+    "turning away from all states"
+   ],
+   "inference": "discrimination leads to detachment",
+   "uncertainties": [
+    "long compound gloss compressed"
+   ],
+   "plain_english": "Varied play of growth; but from discrimination of all states one turns away from all states."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "krīḍāsu",
+     "gloss": "in-plays",
+     "grounds": "verse 181 token 1",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "suviraktātmā",
+     "gloss": "well-detached-self",
+     "grounds": "verse 181 token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivabhāvaikabhāvitaḥ",
+     "gloss": "filled-with-shiva-nature",
+     "grounds": "verse 181 token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māhātmyametatsuśroṇi",
+     "gloss": "greatness-in-this",
+     "grounds": "verse 181 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prātibhasya",
+     "gloss": "of-intuition",
+     "grounds": "verse 181 token 5",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "verse 181 token 6",
+     "morph": "pres.pass.3sg"
+    }
+   ],
+   "question": "What greatness is prescribed for intuition?",
+   "premises": [
+    "detached self in plays",
+    "filled with shiva nature",
+    "greatness of intuition prescribed"
+   ],
+   "inference": "detachment and shiva-nature define intuitive greatness",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "In plays the well-detached self, filled with Shiva nature, has the greatness of intuition prescribed."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "svacchāyādarśavatpaśyedbahirantargataṃ",
+     "gloss": "sees-like-clear-mirror",
+     "grounds": "verse 182 token 1",
+     "morph": "opt.3sg"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "shiva",
+     "grounds": "verse 182 token 2",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "heyopādeyatattvajñastadā",
+     "gloss": "knower-of-rejectable-acceptable",
+     "grounds": "verse 182 token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyāyennijāṃ",
+     "gloss": "meditate-on-own",
+     "grounds": "verse 182 token 4",
+     "morph": "opt.3sg"
+    },
+    {
+     "surface": "citim",
+     "gloss": "consciousness",
+     "grounds": "verse 182 token 5",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How does one meditate on own consciousness?",
+   "premises": [
+    "sees shiva like clear mirror",
+    "knower of rejectable acceptable",
+    "meditates on own consciousness"
+   ],
+   "inference": "mirror-like seeing leads to meditation",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Seeing Shiva within and without like a clear mirror, the knower of rejectable and acceptable principles meditates on his own consciousness."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "siddhijālaṃ",
+     "gloss": "net-of-accomplishments",
+     "grounds": "verse 183 token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "verse 183 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "spoken",
+     "grounds": "verse 183 token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parapratyayakāraṇam",
+     "gloss": "cause-of-others-conviction",
+     "grounds": "verse 183 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ihaiva",
+     "gloss": "here-only",
+     "grounds": "verse 183 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhāḥ",
+     "gloss": "accomplished-ones",
+     "grounds": "verse 183 token 6",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kāyānte",
+     "gloss": "at-body-end",
+     "grounds": "verse 183 token 7",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "mucyeranniti",
+     "gloss": "would-be-liberated-thus",
+     "grounds": "verse 183 token 8",
+     "morph": "opt.pass.3pl"
+    },
+    {
+     "surface": "bhāvanāt",
+     "gloss": "from-cultivation",
+     "grounds": "verse 183 token 9",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "How are accomplished ones liberated?",
+   "premises": [
+    "net of accomplishments spoken",
+    "cause of others conviction",
+    "accomplished ones liberated at body end"
+   ],
+   "inference": "cultivation leads to liberation",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "The net of accomplishments is spoken as cause of others' conviction; here accomplished ones are liberated at body's end through cultivation."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "parabhāvanadārḍhyāttu",
+     "gloss": "but-from-strength-of-other-cultivation",
+     "grounds": "verse 184 token 1",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "jīvanmukto",
+     "gloss": "liberated-while-living",
+     "grounds": "verse 184 token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-called",
+     "grounds": "verse 184 token 3",
+     "morph": "pres.pass.3sg"
+    },
+    {
+     "surface": "etatte",
+     "gloss": "this-to-you",
+     "grounds": "verse 184 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prātibhe",
+     "gloss": "in-intuition",
+     "grounds": "verse 184 token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhede",
+     "gloss": "in-distinction",
+     "grounds": "verse 184 token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "mark",
+     "grounds": "verse 184 token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samudāhṛtam",
+     "gloss": "fully-illustrated",
+     "grounds": "verse 184 token 8",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What marks liberation while living?",
+   "premises": [
+    "strength of other cultivation",
+    "liberated while living is called",
+    "mark illustrated in intuition distinction"
+   ],
+   "inference": "cultivation strength defines living liberation",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "From strength of other cultivation one is called liberated while living; this mark is fully illustrated in the distinction of intuition."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "śāpānugrahakāryeṣu",
+     "gloss": "in-curse-and-grace-acts",
+     "grounds": "verse 185 token 1",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "tathābhyāsena",
+     "gloss": "by-such-practice",
+     "grounds": "verse 185 token 2",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śaktayā",
+     "gloss": "by-power",
+     "grounds": "verse 185 token 3",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "teṣūdāsīnatāyāṃ",
+     "gloss": "in-indifference-to-them",
+     "grounds": "verse 185 token 4",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 185 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "verse 185 token 6",
+     "morph": "pres.pass.3sg"
+    },
+    {
+     "surface": "mocayetparān",
+     "gloss": "liberates-others",
+     "grounds": "verse 185 token 7",
+     "morph": "opt.3sg"
+    }
+   ],
+   "question": "How is one liberated in curse and grace acts?",
+   "premises": [
+    "in curse and grace acts",
+    "by practice and power",
+    "indifference liberates and liberates others"
+   ],
+   "inference": "indifference to acts brings liberation",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "In acts of curse and grace, by such practice and power, indifference to them liberates and liberates others."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "bhūtendriyādiyogena",
+     "gloss": "by-union-of-elements-senses",
+     "grounds": "verse 186 token 1",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "baddho@ṇuḥ",
+     "gloss": "bound-atom",
+     "grounds": "verse 186 token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃsareddhruvam",
+     "gloss": "certainly-transmigrates",
+     "grounds": "verse 186 token 3",
+     "morph": "pres.3sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "verse 186 token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "verse 186 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibhāyuktaḥ",
+     "gloss": "endowed-with-intuition",
+     "grounds": "verse 186 token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktitattvaṃ",
+     "gloss": "power-principle",
+     "grounds": "verse 186 token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-called",
+     "grounds": "verse 186 token 8",
+     "morph": "pres.pass.3sg"
+    }
+   ],
+   "question": "What is the power principle?",
+   "premises": [
+    "bound atom transmigrates",
+    "endowed with intuition",
+    "power principle is called"
+   ],
+   "inference": "intuition transforms bound atom into power principle",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "The bound atom transmigrates through union of elements and senses; endowed with intuition, he is called the power principle."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "tatpātāveśato",
+     "gloss": "from-descent-entry",
+     "grounds": "verse 187 token 1",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "liberated",
+     "grounds": "verse 187 token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "shiva",
+     "grounds": "verse 187 token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "verse 187 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavārṇavāt",
+     "gloss": "from-ocean-of-becoming",
+     "grounds": "verse 187 token 5",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nanvācāryātsendriyaṃ",
+     "gloss": "from-teacher-with-senses",
+     "grounds": "verse 187 token 6",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tajjñānamuktamatīndriyam",
+     "gloss": "that-knowledge-called-beyond-senses",
+     "grounds": "verse 187 token 7",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is knowledge from teacher beyond senses?",
+   "premises": [
+    "liberated from ocean of becoming",
+    "from teacher with senses",
+    "that knowledge called beyond senses"
+   ],
+   "inference": "teacher-given knowledge transcends senses",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Liberated from the ocean of becoming by descent-entry, Shiva indeed; from the teacher with senses that knowledge is called beyond senses."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "vivekajaṃ",
+     "gloss": "born-of-discrimination",
+     "grounds": "verse 188 token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "verse 188 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbuddhyā",
+     "gloss": "by-that-intellect",
+     "grounds": "verse 188 token 3",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tatkathaṃ",
+     "gloss": "how-that",
+     "grounds": "verse 188 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syānnirindriyam",
+     "gloss": "would-be-sense-free",
+     "grounds": "verse 188 token 5",
+     "morph": "opt.3sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "verse 188 token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭo@bhyadhātsvāntadhiyorjāḍyaikavāsanāt",
+     "gloss": "questioned-answered-from-inertia",
+     "grounds": "verse 188 token 7",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can discrimination-born knowledge be sense-free?",
+   "premises": [
+    "born of discrimination",
+    "by that intellect",
+    "questioned and answered from inertia"
+   ],
+   "inference": "the objection is answered by inertia",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Born of discrimination and by that intellect, how would it be sense-free? Thus questioned, it was answered from inertia."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "akṣatvaṃ",
+     "gloss": "imperishability",
+     "grounds": "verse 189 token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pravivekena",
+     "gloss": "by-thorough-discrimination",
+     "grounds": "verse 189 token 2",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tacchittau",
+     "gloss": "in-that-mind",
+     "grounds": "verse 189 token 3",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhāsakaḥ",
+     "gloss": "illuminator",
+     "grounds": "verse 189 token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "verse 189 token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃskāraḥ",
+     "gloss": "impression",
+     "grounds": "verse 189 token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvabhāvānāṃ",
+     "gloss": "of-all-states",
+     "grounds": "verse 189 token 7",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paratā",
+     "gloss": "supremacy",
+     "grounds": "verse 189 token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "verse 189 token 9",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is proclaimed by thorough discrimination?",
+   "premises": [
+    "imperishability by discrimination",
+    "shiva illuminates mind",
+    "supremacy of all states proclaimed"
+   ],
+   "inference": "discrimination reveals shiva's supremacy",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Imperishability by thorough discrimination; Shiva illuminates that mind; the supremacy of all states is proclaimed."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "manobuddhī",
+     "gloss": "mind-and-intellect",
+     "grounds": "verse 190 token 1",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse 190 token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhinne",
+     "gloss": "different",
+     "grounds": "verse 190 token 3",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 190 token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasmiṃścitkāraṇāntare",
+     "gloss": "in-some-other-cause",
+     "grounds": "verse 190 token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viveke",
+     "gloss": "in-discrimination",
+     "grounds": "verse 190 token 6",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāraṇe",
+     "gloss": "as-cause",
+     "grounds": "verse 190 token 7",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hyete",
+     "gloss": "indeed-these",
+     "grounds": "verse 190 token 8",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "prabhuśaktyupavṛṃhite",
+     "gloss": "strengthened-by-lord-power",
+     "grounds": "verse 190 token 9",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "Are mind and intellect different?",
+   "premises": [
+    "mind and intellect not different",
+    "in some other cause",
+    "strengthened by lord power"
+   ],
+   "inference": "mind and intellect are unified by lord power",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Mind and intellect are not different; in discrimination as cause they are strengthened by the lord's power."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "verse 191 token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manobuddhihīnastu",
+     "gloss": "but-without-mind-intellect",
+     "grounds": "verse 191 token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñānasyādhigamaḥ",
+     "gloss": "attainment-of-knowledge",
+     "grounds": "verse 191 token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "verse 191 token 4",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "parabhāvāttu",
+     "gloss": "but-from-supreme-state",
+     "grounds": "verse 191 token 5",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tatsūkṣmaṃ",
+     "gloss": "that-subtle",
+     "grounds": "verse 191 token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktitattvaṃ",
+     "gloss": "power-principle",
+     "grounds": "verse 191 token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-called",
+     "grounds": "verse 191 token 8",
+     "morph": "pres.pass.3sg"
+    }
+   ],
+   "question": "Can knowledge be attained without mind and intellect?",
+   "premises": [
+    "not without mind intellect",
+    "dear one addressed",
+    "power principle is subtle supreme state"
+   ],
+   "inference": "knowledge requires mind and intellect",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Knowledge is not attained without mind and intellect, dear one; from the supreme state that subtle power principle is called."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "vivekaḥ",
+     "gloss": "discrimination",
+     "grounds": "verse 192 token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvabhāvānāṃ",
+     "gloss": "of-all-states",
+     "grounds": "verse 192 token 2",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śuddhabhāvānmahāśayaḥ",
+     "gloss": "from-pure-state-great-soul",
+     "grounds": "verse 192 token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "buddhitattvaṃ",
+     "gloss": "intellect-principle",
+     "grounds": "verse 192 token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "verse 192 token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triguṇamuttamādhamamadhyamam",
+     "gloss": "three-gunas-high-low-middle",
+     "grounds": "verse 192 token 6",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the intellect principle?",
+   "premises": [
+    "discrimination of all states",
+    "from pure state great soul",
+    "intellect principle has three gunas"
+   ],
+   "inference": "intellect principle is graded by gunas",
+   "uncertainties": [
+    "compound gloss compressed"
+   ],
+   "plain_english": "Discrimination of all states arises from pure state in the great soul; the intellect principle has three gunas: high, low, and middle."
+  }
+ ]
+}

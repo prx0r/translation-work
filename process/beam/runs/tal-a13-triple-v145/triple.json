@@ -1,485 +1,1187 @@
 {
- "song": "Tantraloka 157-168",
+ "song": "Tantraloka 145-168",
  "items": [
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "śrīsarvavīraśrībrahmayāmalādau",
+     "gloss": "in-brahmayamala-and-others",
+     "grounds": "locative compound",
+     "morph": "compound.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattathā",
+     "gloss": "thus-so",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirūpitaṃ",
+     "gloss": "explained",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśena",
+     "gloss": "by-mahesha",
+     "grounds": "agent",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kiyadvā",
+     "gloss": "how-much-or",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhyatāmidam",
+     "gloss": "let-this-be-written",
+     "grounds": "verb",
+     "morph": "v.3.sg.pass.imp"
+    }
+   ],
+   "question": "What did Mahesha explain in Brahmayamala and others?",
+   "premises": [
+    "Mahesha explained it in scriptures.",
+    "The same may be written here."
+   ],
+   "inference": "The verse authorizes recording Mahesha's explanation.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "Mahesha explained this in Brahmayamala and other texts; how much should be written here?"
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prātibhavijñānaṃ",
+     "gloss": "intuitive-knowledge",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasya",
+     "gloss": "whose",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "would-accomplish",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "yatprātibhādvā",
+     "gloss": "from-intuition-or",
+     "grounds": "ablative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cetyūce",
+     "gloss": "thus-said",
+     "grounds": "verb",
+     "morph": "v.3.sg.perf"
+    },
+    {
+     "surface": "śeṣamahāmuniḥ",
+     "gloss": "great-sage-shesha",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What would intuitive knowledge not accomplish for whom?",
+   "premises": [
+    "Intuitive knowledge accomplishes all things.",
+    "Shesha great sage said so."
+   ],
+   "inference": "Pratibha is presented as supreme means.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "Thus what would intuitive knowledge not accomplish for whom? From intuition all is accomplished, said the great sage Shesha."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tvāhurakāmasya",
+     "gloss": "say-for-desireless-one",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prātibho",
+     "gloss": "intuitive",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gururīdṛśaḥ",
+     "gloss": "such-teacher",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāmagrījanyatā",
+     "gloss": "arising-from-complete-means",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmye",
+     "gloss": "for-desired-result",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tenārimansaṃskṛto",
+     "gloss": "by-him-purified-teacher",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What do others say about intuitive teacher and complete means?",
+   "premises": [
+    "Others say intuitive teacher arises from complete means.",
+    "For desired result teacher is purified by him."
+   ],
+   "inference": "An alternative view on teacher and intuition is stated.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "Others say for the desireless one an intuitive teacher of such kind arises from complete means; for desired result the teacher is purified by him."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "niyatermahimā",
+     "gloss": "glory-of-necessity",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phale",
+     "gloss": "in-result",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sādhye",
+     "gloss": "achievable",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nivartate",
+     "gloss": "turns-back",
+     "grounds": "verb",
+     "morph": "v.3.sg.pres"
+    },
+    {
+     "surface": "abhiṣiktaścīrṇavidyāvratastena",
+     "gloss": "consecrated-practicing-vow-by-him",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phalapradaḥ",
+     "gloss": "fruit-giving",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does necessity's glory turn back from achievable result?",
+   "premises": [
+    "Necessity's glory does not turn back from achievable result.",
+    "Consecrated one practicing vow gives fruit."
+   ],
+   "inference": "Grace and practice are linked to fruit.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "The glory of necessity does not turn back from an achievable result; consecrated by him and practicing vow, he gives fruit."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "asadetaditi",
+     "gloss": "this-is-false-thus",
+     "grounds": "quotation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāhurguravastattvadarśinaḥ",
+     "gloss": "say-teachers-seeing-truth",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śrīsomānandakalyāṇabhavabhūtipurogamāḥ",
+     "gloss": "led-by-somananda-kalyana-bhavabhuti",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do truth-seeing teachers call this false?",
+   "premises": [
+    "Truth-seeing teachers call this false.",
+    "Somananda and others lead them."
+   ],
+   "inference": "The previous view is rejected by teachers.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "Truth-seeing teachers say this is false, led by Somananda, Kalyana, Bhavabhuti and others."
+  },
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trīśikāśāstravivṛtau",
+     "gloss": "in-trishika-scripture-exposition",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "te@bhyadhurbudhāḥ",
+     "gloss": "wise-ones-said",
+     "grounds": "verb",
+     "morph": "v.3.pl.perf"
+    },
+    {
+     "surface": "sāṃsiddhikaṃ",
+     "gloss": "innate",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadvijñānaṃ",
+     "gloss": "which-knowledge",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taccintāratnamucyate",
+     "gloss": "that-is-called-thought-gem",
+     "grounds": "verb",
+     "morph": "v.3.sg.pass.pres"
+    }
+   ],
+   "question": "What do wise ones say in Trishika scripture exposition?",
+   "premises": [
+    "Wise ones said in Trishika exposition.",
+    "Innate knowledge is called thought-gem."
+   ],
+   "inference": "Innate knowledge is praised as thought-gem.",
+   "uncertainties": [
+    "Sandhi segmentation uncertain."
+   ],
+   "plain_english": "For thus in the Trishika scripture exposition the wise ones said: innate knowledge is called the thought-gem."
+  },
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "tadabhāve",
+     "gloss": "in-its-absence",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tadarthaṃ",
+     "gloss": "for-its-purpose",
+     "grounds": "purpose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadāhṛtaṃ",
+     "gloss": "that-brought",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānamādṛtam",
+     "gloss": "knowledge-honored",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "veda",
+     "gloss": "knows",
+     "grounds": "verb",
+     "morph": "v.3.sg.pres"
+    },
+    {
+     "surface": "tattvena",
+     "gloss": "in-truth",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nirvāṇagāminī",
+     "gloss": "leading-to-liberation",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What happens when that knowledge is absent?",
+   "premises": [
+    "In its absence that knowledge is honored.",
+    "Who knows truth has liberation-leading path."
+   ],
+   "inference": "True knowledge leads to liberation.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "In its absence that brought knowledge is honored; thus who knows in truth, for him is liberation-leading."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavatyasandigdhā",
+     "gloss": "becomes-undoubted",
+     "grounds": "verb",
+     "morph": "v.3.sg.pres"
+    },
+    {
+     "surface": "tilājyāhutivarjitā",
+     "gloss": "without-sesame-ghee-offerings",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adṛṣṭamaṇḍalo@pyevaṃ",
+     "gloss": "even-unseen-circle",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaścidvetti",
+     "gloss": "someone-knows",
+     "grounds": "verb",
+     "morph": "v.3.sg.pres"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-truth",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does initiation become undoubted without offerings?",
+   "premises": [
+    "Initiation becomes undoubted without sesame ghee offerings.",
+    "Even unseen circle, who knows truth."
+   ],
+   "inference": "True knowledge makes initiation certain.",
+   "uncertainties": [
+    "Sandhi segmentation uncertain."
+   ],
+   "plain_english": "Initiation becomes undoubted, without sesame and ghee offerings; even with unseen circle, whoever knows truth."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhibhāgbhavennityaṃ",
+     "gloss": "becomes-possessor-of-accomplishment-always",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣitaḥ",
+     "gloss": "initiated",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avidhijño",
+     "gloss": "not-knowing-ritual",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhānajño",
+     "gloss": "knowing-ritual",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "v.3.sg.pres"
+    },
+    {
+     "surface": "yajanaṃ",
+     "gloss": "sacrifice",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who becomes possessor of accomplishment always?",
+   "premises": [
+    "He becomes possessor of accomplishment always.",
+    "He is yogi and initiated."
+   ],
+   "inference": "Knowledge makes one accomplished and initiated.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "He becomes always possessor of accomplishment; he is yogi and initiated; not knowing ritual or knowing ritual becomes toward sacrifice."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "ityādibhistrīśikoktairvākyairmāheśvaraiḥ",
+     "gloss": "by-such-maheshvara-sentences-in-trishika",
+     "grounds": "instrument",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dīkṣādisaṃskārasatattvamiti",
+     "gloss": "truth-of-initiation-rites",
+     "grounds": "predicate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varṇitam",
+     "gloss": "described",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is clearly described by Maheshvara sentences?",
+   "premises": [
+    "Maheshvara sentences in Trishika clearly describe.",
+    "Knowledge and truth of initiation rites described."
+   ],
+   "inference": "Scripture clarifies initiation and knowledge.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "By such Maheshvara sentences in Trishika, knowledge and truth of initiation rites are clearly described."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "jñānopāyastu",
+     "gloss": "means-of-knowledge-but",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīkṣādikriyā",
+     "gloss": "initiation-and-rites",
+     "grounds": "predicate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñānaviyoginām",
+     "gloss": "for-those-lacking-knowledge",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ityetadadhunaivāstā",
+     "gloss": "this-now-set-aside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svaprastāve",
+     "gloss": "in-own-discussion",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "verb",
+     "morph": "v.3.sg.fut"
+    }
+   ],
+   "question": "What is the means of knowledge for those lacking knowledge?",
+   "premises": [
+    "Means of knowledge is initiation and rites for those lacking knowledge.",
+    "This is set aside now in own discussion."
+   ],
+   "inference": "Ritual means is for those without knowledge.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "The means of knowledge is initiation and rites for those lacking knowledge; this is now set aside in its own discussion."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "guruśāstrapramāṇāderapyupāyatvamaṃjasā",
+     "gloss": "means-of-guru-scripture-authority-etc-clearly",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratibhā",
+     "gloss": "intuition",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramevaiṣā",
+     "gloss": "supreme-indeed-this",
+     "grounds": "predicate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvakāmadughā",
+     "gloss": "yielding-all-desires",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is intuition supreme among means?",
+   "premises": [
+    "Guru scripture authority means are clearly means.",
+    "Intuition is supreme and yields all desires."
+   ],
+   "inference": "Intuition surpasses other means.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "Means of guru, scripture, authority and so on are clearly means; intuition is supreme indeed, yielding all desires, because."
+  },
   {
    "verse": 157,
    "rows": [
     {
      "surface": "upāyayogakramato",
-     "gloss": "by-means-yoga-method",
-     "grounds": "compound of means, yoga, and method",
-     "morph": "indecl."
+     "gloss": "from-means-yoga-sequence",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
     },
     {
      "surface": "nirupāyamathākramam",
-     "gloss": "then-methodless-and-sequenceless",
-     "grounds": "negated means and sequence",
-     "morph": "indecl."
+     "gloss": "without-means-without-sequence",
+     "grounds": "object",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "yadrūpaṃ",
-     "gloss": "whose-form",
-     "grounds": "relative pronoun with form",
+     "gloss": "which-form",
+     "grounds": "relative",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tatparaṃ",
      "gloss": "that-supreme",
-     "grounds": "demonstrative with supreme",
+     "grounds": "predicate",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tattvaṃ",
-     "gloss": "reality",
-     "grounds": "that-ness",
+     "gloss": "truth",
+     "grounds": "subject",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "locative adverb",
-     "morph": "indecl."
+     "grounds": "adverb",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "repeated locative adverb",
-     "morph": "indecl."
+     "grounds": "adverb",
+     "morph": "(indecl.)"
     },
     {
      "surface": "suniścitam",
-     "gloss": "well-ascertained",
-     "grounds": "well-determined",
+     "gloss": "well-established",
+     "grounds": "predicate",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "How is the supreme reality described here?",
+   "question": "What is well established there?",
    "premises": [
-    "The supreme reality is methodless and sequenceless.",
-    "Its form is well ascertained there."
+    "From means and yoga sequence, without means and sequence.",
+    "Which form is supreme truth, well established there."
    ],
-   "inference": "The highest truth transcends graded means and is directly certain.",
+   "inference": "Supreme truth transcends means and sequence.",
    "uncertainties": [
-    "Compound boundaries are approximate."
+    "Compound segmentation uncertain."
    ],
-   "plain_english": "The supreme reality is methodless and sequenceless, and its form is well ascertained there."
+   "plain_english": "From means and yoga sequence, without means and sequence, which form is supreme truth, well established there."
   },
   {
    "verse": 158,
    "rows": [
     {
      "surface": "yastu",
-     "gloss": "but-he",
-     "grounds": "relative pronoun with particle",
+     "gloss": "who-but",
+     "grounds": "relative",
      "morph": "m.nom.sg"
     },
     {
      "surface": "prātibhabāhyātmasaṃskāradvayasundaraḥ",
-     "gloss": "beautiful-by-twofold-intuition-inner-outer-refinement",
-     "grounds": "compound of intuition and twofold refinement",
+     "gloss": "beautiful-with-intuitive-external-internal-purification",
+     "grounds": "adjective",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ukto@nanyopakāryatvātsa",
-     "gloss": "he-is-called-because-not-serving-another",
-     "grounds": "passive naming with reason",
+     "gloss": "said-not-serving-others-therefore-he",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sākṣādvarado",
      "gloss": "direct-boon-giver",
-     "grounds": "direct giver of boons",
+     "grounds": "predicate",
      "morph": "m.nom.sg"
     },
     {
      "surface": "guruḥ",
      "gloss": "teacher",
-     "grounds": "spiritual teacher",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Who is called the direct boon-giving teacher?",
+   "question": "Who is the direct boon-giving teacher?",
    "premises": [
-    "He is beautiful through twofold intuition-refinement.",
-    "He is called so because he does not serve another."
+    "Who is beautiful with intuitive external internal purification.",
+    "Said not serving others, therefore he is direct boon-giving teacher."
    ],
-   "inference": "The true guru directly bestows grace and is not merely an instrument for another.",
+   "inference": "The true teacher directly gives grace.",
    "uncertainties": [
-    "Sandhi splitting is approximate."
+    "Sandhi segmentation uncertain."
    ],
-   "plain_english": "He who is beautiful through twofold intuition-refinement is called the direct boon-giving teacher because he does not serve another."
+   "plain_english": "Who is beautiful with intuitive external and internal purification, said not serving others, therefore he is direct boon-giving teacher."
   },
   {
    "verse": 159,
    "rows": [
     {
      "surface": "svamuktimātre",
-     "gloss": "in-mere-self-liberation",
-     "grounds": "locative of mere self-liberation",
+     "gloss": "only-for-own-liberation",
+     "grounds": "locative",
      "morph": "n.loc.sg"
     },
     {
      "surface": "kasyāpi",
-     "gloss": "of-someone",
-     "grounds": "genitive indefinite",
+     "gloss": "of-anyone",
+     "grounds": "genitive",
      "morph": "m.gen.sg"
     },
     {
      "surface": "yāvadviśvavimocane",
      "gloss": "until-world-liberation",
-     "grounds": "until universal liberation",
+     "grounds": "locative",
      "morph": "n.loc.sg"
     },
     {
      "surface": "pratibhodeti",
      "gloss": "intuition-arises",
-     "grounds": "verb of arising",
-     "morph": "3.sg.act-pres + root ud-i"
+     "grounds": "verb",
+     "morph": "v.3.sg.pres"
     },
     {
      "surface": "khadyotaratnatārendusūryavat",
-     "gloss": "like-firefly-jewel-star-moon-sun",
-     "grounds": "simile of lights",
-     "morph": "indecl."
+     "gloss": "like-firefly-gem-star-moon-sun",
+     "grounds": "simile",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How does intuition arise for world-liberation?",
+   "question": "How does intuition arise from own liberation to world liberation?",
    "premises": [
-    "Intuition arises from mere self-liberation.",
-    "It extends until world-liberation."
+    "For anyone's own liberation only.",
+    "Until world liberation intuition arises like lights."
    ],
-   "inference": "Intuition grows from individual liberation to universal liberation like increasing lights.",
+   "inference": "Intuition scales from individual to universal liberation.",
    "uncertainties": [
-    "Compound simile boundaries are approximate."
+    "Compound segmentation uncertain."
    ],
-   "plain_english": "Intuition arises from mere self-liberation and extends until world-liberation, like firefly, jewel, star, moon, and sun."
+   "plain_english": "For anyone's own liberation only, until world liberation, intuition arises like firefly, gem, star, moon, sun."
   },
   {
    "verse": 160,
    "rows": [
     {
      "surface": "tataḥ",
-     "gloss": "therefore",
-     "grounds": "inferential particle",
-     "morph": "indecl."
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
     },
     {
      "surface": "prātibhasaṃvittyai",
-     "gloss": "for-intuition-knowledge",
-     "grounds": "dative of intuition-knowledge",
+     "gloss": "for-intuitive-awareness",
+     "grounds": "dative",
      "morph": "f.dat.sg"
     },
     {
      "surface": "śāstramasmatkṛtaṃ",
      "gloss": "scripture-made-by-us",
-     "grounds": "scripture authored by us",
+     "grounds": "subject",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tvidam",
-     "gloss": "this-indeed",
-     "grounds": "demonstrative with particle",
+     "gloss": "indeed-this",
+     "grounds": "demonstrative",
      "morph": "n.nom.sg"
     },
     {
      "surface": "yo@bhyasyetsa",
-     "gloss": "whoever-practices-it",
-     "grounds": "relative with practice",
+     "gloss": "who-practices-he",
+     "grounds": "relative",
      "morph": "m.nom.sg"
     },
     {
      "surface": "gururnaiva",
-     "gloss": "not-teacher-indeed",
-     "grounds": "negated teacher",
+     "gloss": "not-indeed-teacher",
+     "grounds": "predicate",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vastvarthā",
-     "gloss": "real-meaning",
-     "grounds": "true object-meaning",
-     "morph": "m.nom.sg"
+     "gloss": "thing-meaning",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "indecl."
+     "grounds": "particle",
+     "morph": "(indecl.)"
     },
     {
      "surface": "viḍambakāḥ",
      "gloss": "imitators",
-     "grounds": "those who imitate",
+     "grounds": "predicate",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "What is said about practicing this scripture?",
+   "question": "Who is not a teacher though practicing this scripture?",
    "premises": [
-    "This scripture is made for intuition-knowledge.",
-    "Whoever practices it is not merely a teacher."
+    "Then for intuitive awareness this scripture made by us.",
+    "Who practices he is not indeed teacher; things are imitators."
    ],
-   "inference": "Real meaning comes from practice, while mere imitators lack it.",
+   "inference": "Practice alone does not make a true teacher.",
    "uncertainties": [
-    "Sandhi splitting is approximate."
+    "Sandhi segmentation uncertain."
    ],
-   "plain_english": "Therefore this scripture made by us is for intuition-knowledge; whoever practices it is not merely a teacher, for real meaning is not found in imitators."
+   "plain_english": "Then for intuitive awareness this scripture made by us; whoever practices it is not indeed a teacher, for things are imitators."
   },
   {
    "verse": 161,
    "rows": [
     {
      "surface": "paropajīvitābuddhyā",
-     "gloss": "by-thought-of-living-on-others",
-     "grounds": "instrumental of living on others",
-     "morph": "f.inst.sg"
+     "gloss": "with-mind-living-on-others",
+     "grounds": "instrument",
+     "morph": "f.instr.sg"
     },
     {
      "surface": "sarva",
      "gloss": "all",
-     "grounds": "universal quantifier",
+     "grounds": "subject",
      "morph": "n.nom.sg"
     },
     {
      "surface": "itthaṃ",
      "gloss": "thus",
      "grounds": "adverb",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "na",
      "gloss": "not",
      "grounds": "negation",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "bhāsate",
      "gloss": "shines",
-     "grounds": "verb of shining",
-     "morph": "3.sg.act-pres + root bhās"
+     "grounds": "verb",
+     "morph": "v.3.sg.pres"
     },
     {
      "surface": "taduktyā",
-     "gloss": "by-that-statement",
-     "grounds": "instrumental of that statement",
-     "morph": "f.inst.sg"
+     "gloss": "by-its-statement",
+     "grounds": "instrument",
+     "morph": "f.instr.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
      "grounds": "negation",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "vinā",
      "gloss": "without",
      "grounds": "preposition",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "vetti",
      "gloss": "knows",
-     "grounds": "verb of knowing",
-     "morph": "3.sg.act-pres + root vid"
+     "grounds": "verb",
+     "morph": "v.3.sg.pres"
     },
     {
      "surface": "śaktipātasya",
      "gloss": "of-grace-descent",
-     "grounds": "genitive of grace-descent",
+     "grounds": "genitive",
      "morph": "m.gen.sg"
     },
     {
      "surface": "māndyataḥ",
-     "gloss": "from-slowness",
-     "grounds": "ablative of slowness",
-     "morph": "n.abl.sg"
+     "gloss": "from-weakness",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "Why does all not shine in this way?",
+   "question": "Why does all not shine with mind living on others?",
    "premises": [
-    "All does not shine by thought of living on others.",
-    "Without that statement one does not know grace-descent."
+    "With mind living on others all thus does not shine.",
+    "Without its statement one does not know grace descent from weakness."
    ],
-   "inference": "Knowledge of grace-descent depends on the stated teaching, not on parasitic living.",
+   "inference": "Grace descent is needed for true knowledge.",
    "uncertainties": [
-    "Compound boundaries are approximate."
+    "Compound segmentation uncertain."
    ],
-   "plain_english": "All does not shine by thought of living on others; without that statement one does not know grace-descent from slowness."
+   "plain_english": "With mind living on others all thus does not shine; without its statement one does not know grace descent from weakness."
   },
   {
    "verse": 162,
    "rows": [
     {
      "surface": "sphuṭametacca",
-     "gloss": "and-this-is-clear",
-     "grounds": "clear demonstrative",
-     "morph": "n.nom.sg"
+     "gloss": "this-is-clear-and",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
     },
     {
      "surface": "śāstreṣu",
      "gloss": "in-scriptures",
-     "grounds": "locative plural",
+     "grounds": "locative",
      "morph": "n.loc.pl"
     },
     {
      "surface": "teṣu",
      "gloss": "those",
-     "grounds": "demonstrative plural",
+     "grounds": "demonstrative",
      "morph": "n.loc.pl"
     },
     {
      "surface": "teṣu",
      "gloss": "those",
-     "grounds": "repeated demonstrative plural",
+     "grounds": "demonstrative",
      "morph": "n.loc.pl"
     },
     {
      "surface": "nirūpyate",
-     "gloss": "is-determined",
-     "grounds": "passive determination",
-     "morph": "3.sg.pass-pres + root nirūp"
+     "gloss": "is-explained",
+     "grounds": "verb",
+     "morph": "v.3.sg.pass.pres"
     },
     {
      "surface": "kiraṇāyāṃ",
-     "gloss": "in-Kirana",
-     "grounds": "locative of Kirana",
+     "gloss": "in-kirana",
+     "grounds": "locative",
      "morph": "f.loc.sg"
     },
     {
      "surface": "tathoktaṃ",
      "gloss": "thus-said",
-     "grounds": "participle of saying",
+     "grounds": "participle",
      "morph": "n.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
      "grounds": "conjunction",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "gurutaḥ",
      "gloss": "from-teacher",
-     "grounds": "ablative of teacher",
-     "morph": "m.abl.sg"
+     "grounds": "ablative",
+     "morph": "(indecl.)"
     },
     {
      "surface": "śāstrataḥ",
      "gloss": "from-scripture",
-     "grounds": "ablative of scripture",
-     "morph": "n.abl.sg"
+     "grounds": "ablative",
+     "morph": "(indecl.)"
     },
     {
      "surface": "svataḥ",
      "gloss": "from-self",
-     "grounds": "ablative of self",
-     "morph": "m.abl.sg"
+     "grounds": "ablative",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "Where is this clearly determined?",
+   "question": "Where is this clearly explained?",
    "premises": [
-    "This is clearly determined in those scriptures.",
-    "It is said in the Kirana and from teacher, scripture, and self."
+    "This is clear and explained in those scriptures.",
+    "In Kirana thus said from teacher scripture self."
    ],
-   "inference": "The teaching is established across scriptures and sources.",
+   "inference": "Knowledge comes from teacher, scripture, and self.",
    "uncertainties": [
-    "Repeated demonstratives may be textual."
+    "Compound segmentation uncertain."
    ],
-   "plain_english": "This is clearly determined in those scriptures; it is said in the Kirana, and from teacher, scripture, and self."
+   "plain_english": "This is clear and explained in those scriptures; in Kirana thus said from teacher, scripture, and self."
   },
   {
    "verse": 163,
    "rows": [
     {
      "surface": "jñānayogyāstathā",
-     "gloss": "thus-fit-for-knowledge",
-     "grounds": "compound of knowledge and fitness",
+     "gloss": "fit-for-knowledge-thus",
+     "grounds": "adjective",
      "morph": "m.nom.pl"
     },
     {
      "surface": "keciccaryāyogyāstathāpare",
-     "gloss": "some-fit-for-practice-others",
-     "grounds": "some fit for practice, others",
+     "gloss": "some-fit-for-practice-thus-others",
+     "grounds": "adjective",
      "morph": "m.nom.pl"
     },
     {
      "surface": "śrīmannandiśikhātantre",
-     "gloss": "in-glorious-Nandikeshvara-sikhā-tantra",
-     "grounds": "locative of tantra",
+     "gloss": "in-nandishikha-tantra",
+     "grounds": "locative",
      "morph": "n.loc.sg"
     },
     {
      "surface": "vitatyaitannirūpitam",
-     "gloss": "this-is-elaborately-determined",
-     "grounds": "elaborately determined",
+     "gloss": "this-is-expounded-in-detail",
+     "grounds": "participle",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "Where is this fitness distinction determined?",
+   "question": "What is expounded in Nandishikha tantra?",
    "premises": [
-    "Some are fit for knowledge, others for practice.",
-    "This is elaborately determined in the glorious Nandikeshvara-sikhā-tantra."
+    "Some fit for knowledge, some fit for practice.",
+    "In Nandishikha tantra this is expounded in detail."
    ],
-   "inference": "The tantra distinguishes capacities for knowledge and practice.",
+   "inference": "Scripture distinguishes capacities.",
    "uncertainties": [
-    "Compound boundaries are approximate."
+    "Compound segmentation uncertain."
    ],
-   "plain_english": "Some are fit for knowledge and others for practice; this is elaborately determined in the glorious Nandikeshvara-sikhā-tantra."
+   "plain_english": "Some are fit for knowledge, thus others fit for practice; in Nandishikha tantra this is expounded in detail."
   },
   {
    "verse": 164,
    "rows": [
     {
      "surface": "praśnottaramukheneti",
-     "gloss": "by-question-answer-manner",
-     "grounds": "instrumental of question-answer manner",
-     "morph": "n.inst.sg"
+     "gloss": "by-question-answer-mode-thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tadabhagnaṃ",
      "gloss": "that-unbroken",
-     "grounds": "unbroken that",
+     "grounds": "adjective",
      "morph": "n.nom.sg"
     },
     {
      "surface": "nirūpyate",
-     "gloss": "is-determined",
-     "grounds": "passive determination",
-     "morph": "3.sg.pass-pres + root nirūp"
+     "gloss": "is-explained",
+     "grounds": "verb",
+     "morph": "v.3.sg.pass.pres"
     },
     {
      "surface": "anirdeśyaḥ",
      "gloss": "indescribable",
-     "grounds": "not describable",
+     "grounds": "adjective",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śivastatra",
-     "gloss": "Shiva-there",
-     "grounds": "Shiva in that context",
+     "gloss": "shiva-there",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ko@bhyupāyo",
      "gloss": "what-means",
-     "grounds": "interrogative means",
+     "grounds": "interrogative",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nirūpyatām",
-     "gloss": "let-be-determined",
-     "grounds": "imperative passive",
-     "morph": "3.sg.pass-imp + root nirūp"
+     "gloss": "let-be-explained",
+     "grounds": "verb",
+     "morph": "v.3.sg.pass.imp"
     }
    ],
-   "question": "What is to be determined by question and answer?",
+   "question": "What means is to be explained for indescribable Shiva?",
    "premises": [
-    "That unbroken matter is determined by question and answer.",
-    "Shiva there is indescribable."
+    "By question-answer mode that unbroken is explained.",
+    "Indescribable Shiva there; what means let be explained."
    ],
-   "inference": "The means is to be determined through dialogue about indescribable Shiva.",
+   "inference": "The means for realizing Shiva is questioned.",
    "uncertainties": [
-    "Sandhi splitting is approximate."
+    "Sandhi segmentation uncertain."
    ],
-   "plain_english": "By question and answer that unbroken matter is determined; Shiva there is indescribable, so what means is to be determined."
+   "plain_english": "By question-answer mode that unbroken is explained; indescribable Shiva there, what means let be explained."
   },
   {
    "verse": 165,
@@ -487,80 +1189,80 @@
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "quotative particle",
-     "morph": "indecl."
+     "grounds": "quotation",
+     "morph": "(indecl.)"
     },
     {
      "surface": "praśne",
      "gloss": "in-question",
-     "grounds": "locative of question",
+     "grounds": "locative",
      "morph": "m.loc.sg"
     },
     {
      "surface": "kṛte",
      "gloss": "made",
-     "grounds": "past participle",
+     "grounds": "participle",
      "morph": "m.loc.sg"
     },
     {
      "surface": "devyā",
      "gloss": "by-goddess",
-     "grounds": "instrumental of goddess",
-     "morph": "f.inst.sg"
+     "grounds": "agent",
+     "morph": "f.instr.sg"
     },
     {
      "surface": "śrīmāñchaṃbhurnyarūpayam",
-     "gloss": "glorious-Shambhu-explained",
-     "grounds": "Shambhu explained",
+     "gloss": "glorious-shambhu-explained",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     },
     {
      "surface": "upāyo@tra",
      "gloss": "means-here",
-     "grounds": "means in this context",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vivekaikaḥ",
      "gloss": "discrimination-alone",
-     "grounds": "discrimination only",
+     "grounds": "predicate",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "pronoun",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "indecl."
+     "grounds": "particle",
+     "morph": "(indecl.)"
     },
     {
      "surface": "heyaṃ",
-     "gloss": "rejectable",
-     "grounds": "to be rejected",
+     "gloss": "to-be-rejected",
+     "grounds": "object",
      "morph": "n.acc.sg"
     },
     {
      "surface": "vihāpayan",
      "gloss": "removing",
-     "grounds": "participle of removing",
+     "grounds": "participle",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What means did Shambhu explain?",
+   "question": "What means did Shambhu explain when goddess questioned?",
    "premises": [
-    "When the goddess asked, glorious Shambhu explained.",
-    "The means here is discrimination alone."
+    "When question made by goddess, glorious Shambhu explained.",
+    "Means here is discrimination alone, removing what is to be rejected."
    ],
-   "inference": "Discrimination removes what is rejectable.",
+   "inference": "Discrimination is the means.",
    "uncertainties": [
-    "Sandhi splitting is approximate."
+    "Sandhi segmentation uncertain."
    ],
-   "plain_english": "When the goddess asked, glorious Shambhu explained: the means here is discrimination alone, which removes what is rejectable."
+   "plain_english": "Thus when question was made by goddess, glorious Shambhu explained: means here is discrimination alone, removing what is to be rejected."
   },
   {
    "verse": 166,
@@ -568,74 +1270,74 @@
     {
      "surface": "dadātyasya",
      "gloss": "gives-to-him",
-     "grounds": "verb of giving",
-     "morph": "3.sg.act-pres + root dā"
+     "grounds": "verb",
+     "morph": "v.3.sg.pres"
     },
     {
      "surface": "ca",
      "gloss": "and",
      "grounds": "conjunction",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "suśroṇi",
-     "gloss": "O-fair-hipped",
-     "grounds": "vocative address",
+     "gloss": "fair-hipped-one",
+     "grounds": "address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "prātibhaṃ",
      "gloss": "intuitive",
-     "grounds": "intuition-born",
+     "grounds": "object",
      "morph": "n.acc.sg"
     },
     {
      "surface": "jñānamuttamam",
      "gloss": "supreme-knowledge",
-     "grounds": "supreme knowledge",
+     "grounds": "object",
      "morph": "n.acc.sg"
     },
     {
      "surface": "yadā",
      "gloss": "when",
-     "grounds": "temporal conjunction",
-     "morph": "indecl."
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
     },
     {
      "surface": "pratibhayā",
      "gloss": "by-intuition",
-     "grounds": "instrumental of intuition",
-     "morph": "f.inst.sg"
+     "grounds": "instrument",
+     "morph": "f.instr.sg"
     },
     {
      "surface": "yuktastadā",
-     "gloss": "then-endowed",
-     "grounds": "endowed then",
+     "gloss": "endowed-then",
+     "grounds": "adjective",
      "morph": "m.nom.sg"
     },
     {
      "surface": "muktaśca",
      "gloss": "and-liberated",
-     "grounds": "liberated and",
+     "grounds": "predicate",
      "morph": "m.nom.sg"
     },
     {
      "surface": "mocayet",
-     "gloss": "may-liberate",
-     "grounds": "causative liberation",
-     "morph": "3.sg.act-opt + root muc"
+     "gloss": "liberates",
+     "grounds": "verb",
+     "morph": "v.3.sg.opt"
     }
    ],
    "question": "When does one liberate others?",
    "premises": [
-    "He gives supreme intuitive knowledge to him.",
-    "When endowed by intuition, then one is liberated and may liberate."
+    "He gives intuitive supreme knowledge.",
+    "When endowed by intuition, then liberated and liberates."
    ],
-   "inference": "Intuition-born knowledge enables liberation and the power to liberate others.",
+   "inference": "Intuition leads to liberation and teaching.",
    "uncertainties": [
-    "Vocative parsing is approximate."
+    "Compound segmentation uncertain."
    ],
-   "plain_english": "He gives supreme intuitive knowledge to him; O fair-hipped one, when one is endowed by intuition, then one is liberated and may liberate others."
+   "plain_english": "He gives intuitive supreme knowledge; when endowed by intuition, then liberated and liberates others."
   },
   {
    "verse": 167,
@@ -643,62 +1345,62 @@
     {
      "surface": "paraśaktinipātena",
      "gloss": "by-descent-of-supreme-power",
-     "grounds": "instrumental of supreme power descent",
-     "morph": "m.inst.sg"
+     "grounds": "instrument",
+     "morph": "m.instr.sg"
     },
     {
      "surface": "dhvastamāyāmalaḥ",
-     "gloss": "destroyed-maya-mala",
-     "grounds": "destroyed maya and mala",
+     "gloss": "destroyed-maya-impurity",
+     "grounds": "adjective",
      "morph": "m.nom.sg"
     },
     {
      "surface": "pumān",
      "gloss": "person",
-     "grounds": "human person",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nanu",
      "gloss": "indeed",
      "grounds": "particle",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "prāgdīkṣayā",
      "gloss": "by-prior-initiation",
-     "grounds": "instrumental of prior initiation",
-     "morph": "f.inst.sg"
+     "grounds": "instrument",
+     "morph": "f.instr.sg"
     },
     {
      "surface": "mokṣo@dhunā",
      "gloss": "liberation-now",
-     "grounds": "liberation now",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "contrastive particle",
-     "morph": "indecl."
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
     },
     {
      "surface": "prātibhātkatham",
      "gloss": "how-from-intuition",
-     "grounds": "interrogative from intuition",
-     "morph": "indecl."
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How is liberation from intuition possible?",
+   "question": "How is liberation from intuition if prior initiation destroyed impurity?",
    "premises": [
-    "By descent of supreme power maya and mala are destroyed.",
-    "Prior initiation gives liberation now, but how from intuition?"
+    "By descent of supreme power person's maya impurity destroyed.",
+    "Prior initiation liberation now; how from intuition?"
    ],
-   "inference": "The verse raises the problem of intuition's relation to prior initiation.",
+   "inference": "A question about intuition versus initiation is raised.",
    "uncertainties": [
-    "Sandhi splitting is approximate."
+    "Sandhi segmentation uncertain."
    ],
-   "plain_english": "By descent of supreme power maya and mala are destroyed; prior initiation gives liberation now, but how from intuition?"
+   "plain_english": "By descent of supreme power person's maya impurity is destroyed; prior initiation liberation now, but how from intuition?"
   },
   {
    "verse": 168,
@@ -706,86 +1408,86 @@
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "quotative particle",
-     "morph": "indecl."
+     "grounds": "quotation",
+     "morph": "(indecl.)"
     },
     {
      "surface": "devyā",
      "gloss": "by-goddess",
-     "grounds": "instrumental of goddess",
-     "morph": "f.inst.sg"
+     "grounds": "agent",
+     "morph": "f.instr.sg"
     },
     {
      "surface": "kṛte",
      "gloss": "made",
-     "grounds": "past participle",
+     "grounds": "participle",
      "morph": "m.loc.sg"
     },
     {
      "surface": "praśne",
      "gloss": "in-question",
-     "grounds": "locative of question",
+     "grounds": "locative",
      "morph": "m.loc.sg"
     },
     {
      "surface": "prāvartata",
-     "gloss": "arose",
-     "grounds": "verb of arising",
-     "morph": "3.sg.mid-past + root vṛt"
+     "gloss": "proceeded",
+     "grounds": "verb",
+     "morph": "v.3.sg.perf"
     },
     {
      "surface": "vibhorvacaḥ",
      "gloss": "lord's-speech",
-     "grounds": "speech of the lord",
+     "grounds": "subject",
      "morph": "n.nom.sg"
     },
     {
      "surface": "dīkṣayā",
      "gloss": "by-initiation",
-     "grounds": "instrumental of initiation",
-     "morph": "f.inst.sg"
+     "grounds": "instrument",
+     "morph": "f.instr.sg"
     },
     {
      "surface": "mucyate",
      "gloss": "is-liberated",
-     "grounds": "passive liberation",
-     "morph": "3.sg.pass-pres + root muc"
+     "grounds": "verb",
+     "morph": "v.3.sg.pass.pres"
     },
     {
      "surface": "jantuḥ",
      "gloss": "creature",
-     "grounds": "living being",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     },
     {
      "surface": "prātibhena",
      "gloss": "by-intuition",
-     "grounds": "instrumental of intuition",
-     "morph": "n.inst.sg"
+     "grounds": "instrument",
+     "morph": "n.instr.sg"
     },
     {
      "surface": "tathā",
      "gloss": "thus",
      "grounds": "adverb",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "priye",
-     "gloss": "dear",
-     "grounds": "vocative dear",
+     "gloss": "dear-one",
+     "grounds": "address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "How does the lord answer the goddess?",
+   "question": "How does lord's speech answer goddess's question?",
    "premises": [
-    "When the goddess made the question, the lord's speech arose.",
-    "A creature is liberated by initiation and by intuition."
+    "Thus when question made by goddess, lord's speech proceeded.",
+    "Creature is liberated by initiation and by intuition, dear one."
    ],
-   "inference": "Initiation and intuition both function in liberation.",
+   "inference": "Both initiation and intuition liberate.",
    "uncertainties": [
-    "Compound boundaries are approximate."
+    "Compound segmentation uncertain."
    ],
-   "plain_english": "When the goddess asked, the lord's speech arose: a creature is liberated by initiation and by intuition, dear one."
+   "plain_english": "Thus when question was made by goddess, lord's speech proceeded: creature is liberated by initiation and by intuition, dear one."
   }
  ]
 }
