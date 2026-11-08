@@ -1,0 +1,359 @@
+{
+ "song": "Tantraloka a28",
+ "items": [
+  {
+   "verse": 385,
+   "rows": [
+    {
+     "surface": "akṛtvā",
+     "gloss": "not-having-done",
+     "grounds": "negated prior action",
+     "morph": "(gerund) + kṛ"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "refers to the conduct mentioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācāraṃ",
+     "gloss": "proper-conduct",
+     "grounds": "ritual or communal observance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "punaścakraṃ",
+     "gloss": "again-the-circle",
+     "grounds": "repeated assembly worship",
+     "morph": "compound: punar+cakra, n.acc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative.active + pra-pūj"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks transition to next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vacmi",
+     "gloss": "I-speak",
+     "grounds": "authorial statement",
+     "morph": "1.sg.present.active + vac"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-the-teacher",
+     "grounds": "possessor of the procedure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śāstravyākhyākramamudāhṛtam",
+     "gloss": "the-stated-order-of-scripture-explanation",
+     "grounds": "topic being introduced",
+     "morph": "compound: śāstra+vyākhyā+krama+udāhṛta, m.acc.sg"
+    }
+   ],
+   "question": "What should be done after omitting the proper conduct, and what topic is introduced next?",
+   "premises": [
+    "The proper conduct may sometimes not be performed.",
+    "If that conduct is omitted, the circle should be worshipped again.",
+    "After this instruction, the stated order of the teacher's scripture explanation is introduced."
+   ],
+   "inference": "The text prescribes a corrective repetition of circle worship and then transitions to the procedure for the teacher's explanation of scripture.",
+   "uncertainties": [
+    "The exact nature of the omitted samācāra is not specified in this verse."
+   ],
+   "plain_english": "If that proper conduct has not been performed, one should worship the circle again. Then I will speak of the stated procedure for the teacher's explanation of scripture."
+  },
+  {
+   "verse": 386,
+   "rows": [
+    {
+     "surface": "devyāyāmalaśāstrādau",
+     "gloss": "in-the-Devyāyāmala-scripture-and-others",
+     "grounds": "scriptural context",
+     "morph": "compound: devyāyāmala+śāstra+ādi, n.loc.sg"
+    },
+    {
+     "surface": "tuhinābhīśumaulinā",
+     "gloss": "by-the-cool-rayed-moon-crested-one",
+     "grounds": "epithet of Śiva as speaker",
+     "morph": "compound: tuhina+abhīśu+maulin, m.inst.sg"
+    },
+    {
+     "surface": "kalpavittatsamūhajñaḥ",
+     "gloss": "knower-of-rituals-and-their-collections",
+     "grounds": "qualification of the teacher",
+     "morph": "compound: kalpa+vid+tad+samūha+jña, m.nom.sg"
+    },
+    {
+     "surface": "śāstravitsaṃhitārthavit",
+     "gloss": "knower-of-scripture-and-of-compendium-meaning",
+     "grounds": "qualification of the teacher",
+     "morph": "compound: śāstra+vid+saṃhitā+artha+vid, m.nom.sg"
+    }
+   ],
+   "question": "What qualifications of a teacher are stated in the Devyāyāmala and related scriptures?",
+   "premises": [
+    "The Devyāyāmala and related scriptures are cited as the source.",
+    "The cool-rayed moon-crested one is presented as the speaker.",
+    "The teacher must know rituals, their collections, scripture, and the meaning of compendia."
+   ],
+   "inference": "According to the Devyāyāmala tradition, a qualified teacher possesses comprehensive knowledge of ritual systems and scriptural meaning.",
+   "uncertainties": [
+    "The exact scope of 'kalpa' and 'saṃhitā' may vary by tradition."
+   ],
+   "plain_english": "In the Devyāyāmala and other scriptures, the moon-crested Śiva declares that the teacher should know the rituals and their collections, know the scriptures, and know the meaning of the compendia."
+  },
+  {
+   "verse": 387,
+   "rows": [
+    {
+     "surface": "sarvaśāstrārthavicceti",
+     "gloss": "knower-of-the-meaning-of-all-scriptures-thus",
+     "grounds": "summary qualification",
+     "morph": "compound: sarva+śāstra+artha+vid+ca+iti, m.nom.sg"
+    },
+    {
+     "surface": "gururbhinno@padiśyate",
+     "gloss": "the-teacher-is-taught-as-distinct",
+     "grounds": "classification of teachers",
+     "morph": "compound: guru+bhinna+upadiśyate, m.nom.sg + 3.sg.present.passive + upa-diś"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "introduces a relative clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "in-whatever",
+     "grounds": "specifies the relevant scripture",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "scripture",
+     "grounds": "domain of expertise",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svabhyastajñāno",
+     "gloss": "having-self-practiced-knowledge",
+     "grounds": "personal mastery of the scripture",
+     "morph": "compound: sva+abhyasta+jñāna, m.nom.sg"
+    },
+    {
+     "surface": "vyākhyāṃ",
+     "gloss": "explanation",
+     "grounds": "act of teaching",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "carettu",
+     "gloss": "should-perform-but",
+     "grounds": "restricted permission",
+     "morph": "3.sg.optative.active + car + (indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "refers back to the qualified person",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is authorized to give an explanation of a particular scripture?",
+   "premises": [
+    "A teacher who knows the meaning of all scriptures is described as a distinct type.",
+    "A person may have well-practiced knowledge in a particular scripture.",
+    "Only such a person should give an explanation of that scripture."
+   ],
+   "inference": "Authorization to explain a scripture depends on personally mastered knowledge of that specific scripture.",
+   "uncertainties": [
+    "The relationship between the all-knowing teacher and the scripture-specific teacher is compressed in the verse."
+   ],
+   "plain_english": "A teacher who knows the meaning of all scriptures is taught as a distinct kind. But whoever has well-practiced knowledge in a particular scripture should give the explanation of that scripture."
+  },
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "prohibition of alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadabhāvaścetsarvathā",
+     "gloss": "if-its-absence-in-every-way",
+     "grounds": "condition where such knowledge is lacking",
+     "morph": "compound: tad+abhāva+ced+sarvathā"
+    },
+    {
+     "surface": "so@pyathācaret",
+     "gloss": "he-too-should-act-otherwise",
+     "grounds": "alternative course of action",
+     "morph": "compound: saḥ+api+anyathā+caret, m.nom.sg + 3.sg.optative.active + car"
+    },
+    {
+     "surface": "śrībhairavakule",
+     "gloss": "in-the-venerable-Bhairava-lineage",
+     "grounds": "scriptural or tradition source",
+     "morph": "compound: śrī+bhairava+kula, n.loc.sg"
+    },
+    {
+     "surface": "coktaṃ",
+     "gloss": "and-stated",
+     "grounds": "citation of teaching",
+     "morph": "compound: ca+ukta, n.nom.sg"
+    },
+    {
+     "surface": "kalpādijñatvamīdṛśam",
+     "gloss": "such-knowledge-of-ritual-and-so-forth",
+     "grounds": "required qualification",
+     "morph": "compound: kalpa+ādi+jñatva+īdṛśa, n.nom.sg"
+    }
+   ],
+   "question": "What should be done if the required scriptural knowledge is completely absent?",
+   "premises": [
+    "One should not explain a scripture without the proper knowledge.",
+    "There may be cases where such knowledge is entirely absent.",
+    "The venerable Bhairava lineage states a comparable requirement of knowledge of rituals and related matters."
+   ],
+   "inference": "In the absence of the required knowledge, a different course must be taken, consistent with the Bhairava tradition's standards.",
+   "uncertainties": [
+    "The verse does not specify what the alternative action is."
+   ],
+   "plain_english": "It should not be done otherwise. But if such knowledge is completely absent, he should act in another way. In the venerable Bhairava lineage, such knowledge of rituals and related matters is likewise stated as required."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "gurorlakṣaṇametāvatsaṃpūrṇajñānataiva",
+     "gloss": "the-mark-of-a-teacher-is-only-this-complete-knowledge",
+     "grounds": "definition of the teacher's essential mark",
+     "morph": "compound: guroḥ+lakṣaṇam+etāvat+saṃpūrṇa+jñānatā+eva, n.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "introduces a qualifying clause",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatrāpi",
+     "gloss": "even-there",
+     "grounds": "adds a further distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāsya",
+     "gloss": "of-whom",
+     "grounds": "refers to the teacher",
+     "morph": "compound: yā+asya, f.nom.sg"
+    },
+    {
+     "surface": "cidvṛttikarmibhit",
+     "gloss": "distinguished-by-consciousness-activity-and-agency",
+     "grounds": "mode of differentiation in knowledge",
+     "morph": "compound: cit+vṛtti+karmin+bhid, f.nom.sg"
+    },
+    {
+     "surface": "sāpyavāntarā",
+     "gloss": "that-too-is-intermediate",
+     "grounds": "classifies that form of knowledge",
+     "morph": "compound: sā+api+avāntarā, f.nom.sg"
+    }
+   ],
+   "question": "What is the essential mark of a teacher, and how is a differentiated form of knowledge classified?",
+   "premises": [
+    "The mark of a teacher is complete knowledge.",
+    "Knowledge may be distinguished by consciousness, activity, and agency.",
+    "Such differentiated knowledge is described as intermediate."
+   ],
+   "inference": "Complete knowledge defines the teacher, while knowledge differentiated by modes of consciousness and action is only an intermediate level.",
+   "uncertainties": [
+    "The technical sense of cidvṛttikarmibhit is compressed and may admit more than one doctrinal reading."
+   ],
+   "plain_english": "The mark of a teacher is simply complete knowledge. But even that knowledge, when it is distinguished by consciousness, activity, and agency, is still only intermediate."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "devyāyāmala",
+     "gloss": "in-the-Devyāyāmala",
+     "grounds": "scriptural source",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "stated",
+     "grounds": "citation marker",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taddvāpañcāśāhva",
+     "gloss": "that-called-the-fifty-two",
+     "grounds": "named section or chapter",
+     "morph": "compound: tad+dvāpañcāśa+āhva, n.nom.sg"
+    },
+    {
+     "surface": "āhnike",
+     "gloss": "in-the-chapter",
+     "grounds": "textual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "the-god",
+     "grounds": "divine subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurutvena",
+     "gloss": "in-the-role-of-teacher",
+     "grounds": "function assumed by the god",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tiṣṭhāsurdaśadhā",
+     "gloss": "wishing-to-stand-tenfold",
+     "grounds": "divine intention to manifest in ten forms",
+     "morph": "compound: tiṣṭhāsu+daśadhā, m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "modal statement",
+     "morph": "3.sg.optative.active + bhū"
+    }
+   ],
+   "question": "How does the Devyāyāmala describe the god's manifestation in the role of teacher?",
+   "premises": [
+    "The Devyāyāmala is cited as the source.",
+    "The statement is located in the section called the fifty-two.",
+    "The god, wishing to stand as teacher, may become tenfold."
+   ],
+   "inference": "The Devyāyāmala presents the divine teacher as capable of manifesting in ten forms.",
+   "uncertainties": [
+    "The exact identity of the 'fifty-two' section is not explained in this verse."
+   ],
+   "plain_english": "In the Devyāyāmala, in the chapter called the fifty-two, it is said that the god, wishing to stand in the role of teacher, may appear in ten forms."
+  }
+ ]
+}

@@ -1,0 +1,790 @@
+{
+ "song": "Tantraloka a28",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "anaphoric subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "additive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvividhā",
+     "gloss": "twofold",
+     "grounds": "predicate adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive predicate",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "laukikā",
+     "gloss": "worldly",
+     "grounds": "first class",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dīkṣitāstathā",
+     "gloss": "initiated-and-likewise",
+     "grounds": "second class",
+     "morph": "m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "former",
+     "grounds": "refers to worldly",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śivāḥ",
+     "gloss": "shivas",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.pl.optative + √as"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "gradually",
+     "grounds": "manner of attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pare",
+     "gloss": "others",
+     "grounds": "refers to initiated",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadbhogamātrataḥ",
+     "gloss": "from-that-experience-alone",
+     "grounds": "cause of attainment",
+     "morph": "tad+bhoga+mātra+tas (indecl.)"
+    }
+   ],
+   "question": "How are these practitioners classified and how do they attain the state of Shiva?",
+   "premises": [
+    "The practitioners are to be known as twofold: worldly and initiated.",
+    "The former, the worldly ones, would gradually become Shivas.",
+    "The others, the initiated ones, become Shivas from that experience alone."
+   ],
+   "inference": "Both worldly and initiated practitioners can attain the state of Shiva, but the initiated do so immediately through experience while the worldly do so gradually.",
+   "uncertainties": [
+    "The exact referent of 'that experience' (tadbhoga) is not specified in this verse."
+   ],
+   "plain_english": "They are to be known as twofold: worldly and initiated. The former would gradually become Shivas, while the others become Shivas from that experience alone."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "dīkṣāpyūrdhvādharānekabhedayojanikāvaśāt",
+     "gloss": "by-power-of-initiation-with-higher-lower-many-divisions",
+     "grounds": "cause of variation",
+     "morph": "dīkṣā+ūrdhva+adhara+aneka+bheda+yojanikā+vaśāt (indecl.)"
+    },
+    {
+     "surface": "bhidyamānā",
+     "gloss": "being-divided",
+     "grounds": "describes initiation",
+     "morph": "f.nom.sg.present-participle.passive + √bhid"
+    },
+    {
+     "surface": "yogināṃ",
+     "gloss": "of-yogins",
+     "grounds": "recipients of fruit",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "syādvicitraphaladāyinī",
+     "gloss": "would-be-giver-of-varied-fruits",
+     "grounds": "resulting function",
+     "morph": "syāt + vicitra+phala+dāyinī f.nom.sg"
+    }
+   ],
+   "question": "How does initiation produce different results for yogins?",
+   "premises": [
+    "Initiiation is divided by higher, lower, and many other distinctions.",
+    "This division operates through the power of its application.",
+    "Such divided initiation gives varied fruits to yogins."
+   ],
+   "inference": "The diversity of initiatory forms leads to a corresponding diversity of spiritual results for practitioners.",
+   "uncertainties": [],
+   "plain_english": "Initiation, being divided by higher, lower, and many other distinctions, would give varied fruits to yogins according to the power of those divisions."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñāninaste@tra",
+     "gloss": "knowers-they-here",
+     "grounds": "class of practitioners",
+     "morph": "vijñāninaḥ m.nom.pl + te m.nom.pl + atra (indecl.)"
+    },
+    {
+     "surface": "dvedhā",
+     "gloss": "twofold",
+     "grounds": "classification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kampretaratvataḥ",
+     "gloss": "from-trembling-and-otherness",
+     "grounds": "basis of division",
+     "morph": "kampa+itara+tva+tas (indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kampravijñānāste",
+     "gloss": "trembling-knowers-they",
+     "grounds": "subclass of knowers",
+     "morph": "kampa+vijñānāḥ m.nom.pl + te m.nom.pl"
+    },
+    {
+     "surface": "dehānted",
+     "gloss": "at-body-end",
+     "grounds": "time of attainment",
+     "morph": "deha+ante m.loc.sg"
+    },
+    {
+     "surface": "śivāḥ",
+     "gloss": "shivas",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "manner of statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the knowers divided and what happens to those with trembling knowledge at death?",
+   "premises": [
+    "The knowers here are divided twofold into trembling and other.",
+    "Among them are those whose knowledge is of the trembling kind.",
+    "Those trembling knowers clearly become Shivas at the end of the body."
+   ],
+   "inference": "Even knowers whose realization is still unstable attain the state of Shiva at the time of death.",
+   "uncertainties": [
+    "The exact nature of 'trembling knowledge' (kampravijñāna) is explained in the following verses."
+   ],
+   "plain_english": "But the knowers here are twofold, divided into trembling and other. Among them, those whose knowledge is trembling clearly become Shivas at the end of the body."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñānameteṣāmutpannaṃ",
+     "gloss": "knowledge-of-these-arisen",
+     "grounds": "state of knowers",
+     "morph": "vijñānam n.nom.sg + eteṣām m.gen.pl + utpannam n.nom.sg"
+    },
+    {
+     "surface": "naca",
+     "gloss": "and-not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "susphuṭam",
+     "gloss": "very-clear",
+     "grounds": "quality lacking",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vikalpāntarayogena",
+     "gloss": "by-connection-with-other-thoughts",
+     "grounds": "cause of unclearness",
+     "morph": "vikalpa+antara+yogena m.inst.sg"
+    },
+    {
+     "surface": "nacāpyunmūlitātmakam",
+     "gloss": "and-not-also-uprooted-in-nature",
+     "grounds": "further limitation",
+     "morph": "na + ca + api + unmūlita+ātmakam n.nom.sg"
+    }
+   ],
+   "question": "Why is the knowledge of the trembling knowers described as unstable?",
+   "premises": [
+    "Knowledge has arisen in these practitioners.",
+    "Their knowledge is not very clear because it is connected with other thoughts.",
+    "Their knowledge is also not uprooted in its nature."
+   ],
+   "inference": "The trembling knowers have genuine but incomplete realization, still mixed with conceptual thought and not fully eradicated of latent tendencies.",
+   "uncertainties": [],
+   "plain_english": "Because knowledge has arisen in them, but it is not very clear due to connection with other thoughts, nor is its nature completely uprooted."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "location of thought",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pramādottho",
+     "gloss": "arisen-from-carelessness",
+     "grounds": "origin of thought",
+     "morph": "pramāda+utthaḥ m.nom.sg"
+    },
+    {
+     "surface": "vikalpo",
+     "gloss": "conceptual-thought",
+     "grounds": "obscuring factor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dehapātataḥ",
+     "gloss": "from-body-fall",
+     "grounds": "cause of removal",
+     "morph": "deha+pātataḥ (indecl.)"
+    },
+    {
+     "surface": "naśyedavaśyaṃ",
+     "gloss": "would-perish-necessarily",
+     "grounds": "inevitable result",
+     "morph": "naśyet 3.sg.optative + √naś + avaśyam (indecl.)"
+    },
+    {
+     "surface": "taccāpi",
+     "gloss": "and-that-also",
+     "grounds": "additional point",
+     "morph": "tat n.nom.sg + ca + api (indecl.)"
+    },
+    {
+     "surface": "budhyate",
+     "gloss": "is-known",
+     "grounds": "recognition of knowledge",
+     "morph": "3.sg.present.passive + √budh"
+    },
+    {
+     "surface": "jñānamuttamam",
+     "gloss": "knowledge-supreme",
+     "grounds": "true nature revealed",
+     "morph": "jñānam n.nom.sg + uttamam n.nom.sg"
+    }
+   ],
+   "question": "What happens to residual conceptual thought at death for the trembling knower?",
+   "premises": [
+    "Conceptual thought arises in the body from carelessness.",
+    "At the fall of the body, that conceptual thought necessarily perishes.",
+    "When it perishes, supreme knowledge is recognized."
+   ],
+   "inference": "Death removes the bodily basis of residual conceptual disturbance, allowing the already-arisen supreme knowledge to stand revealed.",
+   "uncertainties": [],
+   "plain_english": "Therefore, conceptual thought that arises in the body from carelessness would necessarily perish at the fall of the body, and then supreme knowledge is recognized."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "saṃskārakalpanātiṣṭhadadhvastīkṛtamantarā",
+     "gloss": "standing-within-by-latent-thoughts-not-destroyed",
+     "grounds": "condition of knowledge",
+     "morph": "saṃskāra+kalpanā+tiṣṭhat + adhvastīkṛtam n.nom.sg + antarā (indecl.)"
+    },
+    {
+     "surface": "prāptapākaṃ",
+     "gloss": "having-reached-ripeness",
+     "grounds": "maturity of knowledge",
+     "morph": "prāpta+pākam n.nom.sg"
+    },
+    {
+     "surface": "saṃvarīturapāye",
+     "gloss": "at-removal-of-obstruction",
+     "grounds": "occasion of manifestation",
+     "morph": "saṃvarītuḥ m.gen.sg + apāye m.loc.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines-forth",
+     "grounds": "manifestation",
+     "morph": "3.sg.present.middle + √bhās"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to knowledge",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does mature knowledge manifest when its obstruction is removed?",
+   "premises": [
+    "Knowledge may remain within, not destroyed, while standing among latent impressions and thoughts.",
+    "Such knowledge can reach ripeness.",
+    "When the obstruction is removed, that ripe knowledge shines forth."
+   ],
+   "inference": "Liberating knowledge can be present in a mature but obstructed form and becomes fully manifest once the obstruction disappears.",
+   "uncertainties": [],
+   "plain_english": "That knowledge, standing within undestroyed among latent impressions and thoughts and having reached ripeness, indeed shines forth when the obstruction is removed."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svabhyastavijñānamayāḥ",
+     "gloss": "made-of-well-practiced-knowledge",
+     "grounds": "nature of practitioners",
+     "morph": "su+abhyasta+vijñāna+mayāḥ m.nom.pl"
+    },
+    {
+     "surface": "śivamayāḥ",
+     "gloss": "made-of-shiva",
+     "grounds": "essential identity",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvanmuktā",
+     "gloss": "liberated-while-living",
+     "grounds": "status",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "naiṣāṃ",
+     "gloss": "not-of-them",
+     "grounds": "negation of concern",
+     "morph": "na + eṣām m.gen.pl"
+    },
+    {
+     "surface": "mṛtau",
+     "gloss": "in-death",
+     "grounds": "occasion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kāpi",
+     "gloss": "any",
+     "grounds": "indefinite negation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "mental process absent",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why do those established in well-practiced knowledge have no concern at death?",
+   "premises": [
+    "Some practitioners are made of well-practiced knowledge and are always of the nature of Shiva.",
+    "They are indeed liberated while living.",
+    "For them there is no deliberation at all at the time of death."
+   ],
+   "inference": "Because the jivanmuktas are already established in Shiva-nature, death introduces no new spiritual issue requiring deliberation.",
+   "uncertainties": [],
+   "plain_english": "But those who are made of well-practiced knowledge and are always of the nature of Shiva are indeed liberated while living; for them there is no deliberation at all at death."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "yathāhi",
+     "gloss": "just-as-indeed",
+     "grounds": "analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvanmuktānāṃ",
+     "gloss": "of-liberated-while-living",
+     "grounds": "subject of analogy",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sthitau",
+     "gloss": "in-state",
+     "grounds": "during life",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "there-is-not",
+     "grounds": "negation",
+     "morph": "3.sg.present + √as"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "absent process",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sukhiduḥkhivimūḍhatve,",
+     "gloss": "in-happy-unhappy-deluded-state",
+     "grounds": "conditions not deliberated",
+     "morph": "sukhi+duḥkhi+vimūḍha+tve n.loc.sg"
+    },
+    {
+     "surface": "mṛtāvapi",
+     "gloss": "in-death-also",
+     "grounds": "extended analogy",
+     "morph": "mṛtau f.loc.sg + api (indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "analogical conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to deliberation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the absence of deliberation at death compared to the jivanmukta's state in life?",
+   "premises": [
+    "For the liberated while living, there is no deliberation in life regarding happiness, unhappiness, or delusion.",
+    "Death is presented as analogous to that living state.",
+    "Therefore there is no such deliberation at death either."
+   ],
+   "inference": "The jivanmukta's freedom from reactive deliberation is continuous across both life and death.",
+   "uncertainties": [],
+   "plain_english": "Just as there is no deliberation for the liberated while living in states of happiness, unhappiness, or delusion, so too there is no such deliberation at death."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "śrīratnamālāśāstre",
+     "gloss": "in-holy-ratnamala-scripture",
+     "grounds": "scriptural source",
+     "morph": "śrī+ratnamālā+śāstre n.loc.sg"
+    },
+    {
+     "surface": "taduvāca",
+     "gloss": "that-said",
+     "grounds": "citation",
+     "morph": "tat n.acc.sg + uvāca 3.sg.perfect + √vac"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "speaker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svaśāstre",
+     "gloss": "in-own-scripture",
+     "grounds": "second source",
+     "morph": "sva+śāstre n.loc.sg"
+    },
+    {
+     "surface": "cāpyahīśāno",
+     "gloss": "and-also-ahi-lord",
+     "grounds": "second speaker",
+     "morph": "ca + api + ahi+īśānaḥ m.nom.sg"
+    },
+    {
+     "surface": "viśvādhāradhurandharaḥ",
+     "gloss": "bearer-of-burden-of-world-support",
+     "grounds": "epithet",
+     "morph": "viśva+ādhāra+dhurandharaḥ m.nom.sg"
+    }
+   ],
+   "question": "Which scriptural authorities are cited to support the teaching on the knower's liberation?",
+   "premises": [
+    "The Supreme Lord said this in the holy Ratnamala scripture.",
+    "The Lord Ahi, bearer of the burden of supporting the world, also said it in his own scripture."
+   ],
+   "inference": "The teaching about the knower's liberation is supported by multiple authoritative scriptural sources.",
+   "uncertainties": [
+    "The identification of 'Ahi-lord' and 'his own scripture' depends on tradition-specific attribution."
+   ],
+   "plain_english": "The Supreme Lord said this in the holy Ratnamala scripture, and the Lord Ahi, bearer of the burden of supporting the world, also said it in his own scripture."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "rathyāntare",
+     "gloss": "in-street-interior",
+     "grounds": "place of death",
+     "morph": "rathya+antare n.loc.sg"
+    },
+    {
+     "surface": "mūtrapurīṣamadhye",
+     "gloss": "amid-urine-and-feces",
+     "grounds": "impure place",
+     "morph": "mūtra+purīṣa+madhye n.loc.sg"
+    },
+    {
+     "surface": "caṇḍālagehe",
+     "gloss": "in-outcaste-house",
+     "grounds": "socially impure place",
+     "morph": "caṇḍāla+gehe n.loc.sg"
+    },
+    {
+     "surface": "niraye",
+     "gloss": "in-hell",
+     "grounds": "inauspicious place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "death-associated place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sacintako",
+     "gloss": "with-thought",
+     "grounds": "mental condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatacintako",
+     "gloss": "gone-thought",
+     "grounds": "mental condition",
+     "morph": "gata+cintakaḥ m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānī",
+     "gloss": "knower",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vimokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "attainment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "labhate@pi",
+     "gloss": "obtains-even",
+     "grounds": "result",
+     "morph": "labhate 3.sg.present.middle + √labh + api (indecl.)"
+    },
+    {
+     "surface": "cānte",
+     "gloss": "and-at-end",
+     "grounds": "time of attainment",
+     "morph": "ca + ante m.loc.sg"
+    }
+   ],
+   "question": "Does the place or mental state at death affect the knower's attainment of liberation?",
+   "premises": [
+    "The knower may die in places considered impure or inauspicious, such as a street, filth, an outcaste's house, hell, or a cremation ground.",
+    "At that time the knower may be with thought or without thought.",
+    "Even so, the knower obtains liberation at the end."
+   ],
+   "inference": "For the knower, liberation is not dependent on external purity of place or on the presence or absence of discursive thought at death.",
+   "uncertainties": [],
+   "plain_english": "Whether in a street, amid urine and feces, in an outcaste's house, in hell, or in a cremation ground, and whether with thought or without thought, the knower obtains liberation even at the end."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "apiceti",
+     "gloss": "even-and-thus",
+     "grounds": "textual emphasis",
+     "morph": "api + ca + iti (indecl.)"
+    },
+    {
+     "surface": "dhvanirjīvanmuktatāmasya",
+     "gloss": "sound-indicates-his-living-liberation",
+     "grounds": "interpretive claim",
+     "morph": "dhvaniḥ m.nom.sg + jīvanmuktatām f.acc.sg + asya m.gen.sg"
+    },
+    {
+     "surface": "bhāṣate",
+     "gloss": "expresses",
+     "grounds": "statement of meaning",
+     "morph": "3.sg.present.middle + √bhāṣ"
+    },
+    {
+     "surface": "sacintācintakatvoktiretāvatsaṃbhavasthitim",
+     "gloss": "statement-of-with-thought-and-without-thought-as-possible-state",
+     "grounds": "scope of the citation",
+     "morph": "sa+cinta+acintaka+tva+uktiḥ f.nom.sg + etāvat+saṃbhava+sthitim f.acc.sg"
+    }
+   ],
+   "question": "What does the phrase 'even' in the cited passage indicate about the knower's state?",
+   "premises": [
+    "The particle 'even' in the citation carries an expressive force.",
+    "That force indicates the knower's state of living liberation.",
+    "The mention of being with thought or without thought indicates a possible condition, not a limitation."
+   ],
+   "inference": "The scriptural citation affirms that the knower's liberation is already established, so varying mental states at death do not alter it.",
+   "uncertainties": [],
+   "plain_english": "The word 'even' expresses his state of living liberation, and the mention of being with thought or without thought indicates only a possible condition."
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "tīrthe",
+     "gloss": "at-holy-place",
+     "grounds": "auspicious place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śvapacagṛhe",
+     "gloss": "in-dog-cooker-house",
+     "grounds": "inauspicious place",
+     "morph": "śvapaca+gṛhe n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naṣṭasmṛtirapi",
+     "gloss": "lost-memory-even",
+     "grounds": "mental condition",
+     "morph": "naṣṭa+smṛtiḥ m.nom.sg + api (indecl.)"
+    },
+    {
+     "surface": "parityajeddeham",
+     "gloss": "may-abandon-body",
+     "grounds": "act of dying",
+     "morph": "parityajet 3.sg.optative + √tyaj + deham m.acc.sg"
+    },
+    {
+     "surface": "jñānasamakālamuktaḥ",
+     "gloss": "liberated-simultaneous-with-knowledge",
+     "grounds": "status of knower",
+     "morph": "jñāna+samakāla+muktaḥ m.nom.sg"
+    },
+    {
+     "surface": "kaivalyaṃ",
+     "gloss": "absolute-isolation",
+     "grounds": "final attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "attainment",
+     "morph": "3.sg.present + √yā"
+    },
+    {
+     "surface": "hataśokaḥ",
+     "gloss": "destroyed-sorrow",
+     "grounds": "resulting state",
+     "morph": "hata+śokaḥ m.nom.sg"
+    }
+   ],
+   "question": "What is the final state of one liberated simultaneously with knowledge, regardless of place or memory at death?",
+   "premises": [
+    "One may abandon the body at a holy place or in the house of a dog-cooker.",
+    "One may even have lost memory at the time of death.",
+    "One who is liberated simultaneously with knowledge goes to absolute isolation, free from sorrow."
+   ],
+   "inference": "For one liberated in the very moment of knowledge, neither place nor memory at death affects the attainment of sorrowless absolute isolation.",
+   "uncertainties": [],
+   "plain_english": "Whether at a holy place or in the house of a dog-cooker, even if memory is lost, one who abandons the body and is liberated simultaneously with knowledge goes to absolute isolation, with sorrow destroyed."
+  }
+ ]
+}
