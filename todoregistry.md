@@ -309,3 +309,16 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
   sibling-agent review/draft loop).
 - To resume: review newest dones (swarm_review sample), assemble/promote any
   complete song, keep triaging failures. Nothing is parked red; gates green.
+
+## Addendum — free-ONLY enforcement + iceman failover live (2026-11-08)
+
+- Owner correction: cycle ONLY zero-price models. /go endpoint lists 30
+  models; exactly 3 carry no price: beam-free (429), iceman-contributor-free
+  (WORKS — verified PONG + full triple JSON, finish=stop), crouton-alpha-free
+  (RegionError here — dead end).
+- HONEST ACCOUNTING: before the correction, ~15 calls went to Go-allowance
+  models (deepseek health probes, triple test, ~6 worker drafts on a13/a03).
+  Logged in model_usage.jsonl. Stopped the moment the owner flagged it;
+  beam_client.py reverted to a 2-model free-only list; docs updated.
+- Workers drafting on iceman now via the same gates (no calibration claims
+  yet — first iceman drafts under assessor sampling).
