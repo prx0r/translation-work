@@ -291,6 +291,11 @@ anything red → read the error, fix the layer, re-validate (never force)
 ## 7. Autonomy wiring
 
 ```
+systemd tal-campaign.service (Restart=always)
+      │──> harness.sh (300s): health gate → PAUSED discipline → ensure stack
+      │      → enforce workers w1→w2→w3 (cap 3) → assessor_sweep → try_assemble
+      │      → gates green/red → heartbeat. Never marks PASS, never pushes.
+      ▼
 continue.sh (300s loop) ── sync registry → PLAN.json → seed
       │                      └─ ensures ralph.sh alive
       ▼
@@ -315,14 +320,17 @@ Workers heartbeat their claim flags every 5 min during long beam calls, so a
 self-heal at 15-min stale expiry.
 
 **Deployment note (2026-11-08).** On this box the *only* supervisor is
-`systemd` unit `tal-campaign.service` (Restart=always) → `watchdog.sh`. The
-watchdog is the single health-gated authority: it probes beam, PAUSEs 30m on
-429, starts the `tal_run_all` driver once (flock), and brings workers up
-**staggered — one new slot per healthy 60s pass, hard cap 3**
-(`WORKERS=3`). Do not also launch `continue.sh`/`ralph.sh` by hand alongside
-it; that creates duplicate supervisors. Use `supervise` to inspect, and let
-the unit own the loop. Worker cap and stagger are set in the unit env +
-`watchdog.sh::start_workers`.
+`systemd` unit `tal-campaign.service` (Restart=always) → **`tools/harness.sh`**.
+The harness is the single health-gated authority: it probes beam, sets/clears
+the `PAUSED` flag (30m on 429 — workers drain between tasks, never killed
+mid-call), ensures `continue.sh` + `watchdog.sh` + `LOOP.sh` (flock/singleton
+discipline), enforces the worker set **staggered — w1 first, then w2, then w3,
+hard cap 3** (`HARNESS_WORKERS="w1 w2 w3"`), runs `assessor_sweep` verdicts,
+tries `assemble` for complete songs, and gate-checks. The watchdog additionally
+runs the `tal_run_all` campaign driver (flock singleton). Do not launch extra
+`continue.sh`/`ralph.sh`/`harness.sh` by hand alongside it. Use `supervise`
+to inspect, and let the unit own the loop. Worker policy lives in the unit
+env + `harness.sh::enforce_workers`.
 
 `shastra.supervise` reports and (re)starts this stack. Judgment stays queued:
 pilot prose, fork calls, BLOCKED dispositions, signoffs. Sampling (1-in-5

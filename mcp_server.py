@@ -408,10 +408,12 @@ def supervise(start_missing: bool = False) -> dict:
                           cwd=str(ROOT))
                 started.append("watchdog.sh(fallback)")
     return {"supervisors": state, "started": started,
-            "policy": "systemd tal-campaign owns the loop; watchdog staggers "
-                      "workers 1->2->3 (cap 3) and PAUSEs 30m on 429. Do not "
+            "policy": "systemd tal-campaign owns the loop (unit runs harness.sh); "
+                      "harness health-gates (PAUSE 30m on 429), ensures "
+                      "continue/watchdog/LOOP, staggers workers w1->w2->w3 (cap 3). Do not "
                       "start continue.sh/ralph.sh by hand alongside it.",
-            "note": "ralph/continue are the no-systemd alternative path only."}
+            "note": "single supervisor: harness.sh via systemd. tal_run_all driver starts "
+                    "on healthy passes (flock singleton). 429 pauses are health-gated, not failures."}
 
 
 @mcp.tool()
