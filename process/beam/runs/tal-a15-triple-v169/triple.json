@@ -2,346 +2,170 @@
  "song": "Tantraloka a15",
  "items": [
   {
-   "verse": 169,
+   "verse": 178,
    "rows": [
     {
-     "surface": "ānandajananaṃ",
-     "gloss": "producing-bliss",
-     "grounds": "describes the quality of what is fit for worship",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "pūjāyogyaṃ",
-     "gloss": "fit-for-worship",
-     "grounds": "states the suitability of that bliss-producing thing",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "hṛdayahāri",
-     "gloss": "heart-captivating",
-     "grounds": "adds the affective quality of what is fit for worship",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "yat",
-     "gloss": "whatever",
-     "grounds": "introduces the general class of such things",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "ataḥ",
-     "gloss": "therefore",
-     "grounds": "draws the consequence for the following traditions",
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "conclusion from prior argument",
      "morph": "(indecl.)"
     },
     {
-     "surface": "kulakramottīrṇatrikasāramatādiṣu",
-     "gloss": "in-kula-krama-transcendent-trika-essence-doctrines-and-others",
-     "grounds": "locates the consequence in specific non-dual traditions",
-     "morph": "kula+krama+uttīrṇa+trika+sāra+mata+ādi+loc.pl.neut"
-    }
-   ],
-   "question": "Why do certain non-dual traditions value bliss-producing substances in worship?",
-   "premises": [
-    "Whatever produces bliss is fit for worship.",
-    "Whatever is fit for worship is also heart-captivating.",
-    "The Kula, Krama, transcendent Trika, and related doctrines accept this principle."
-   ],
-   "inference": "Because bliss-producing and heart-captivating things are fit for worship, those traditions affirm their ritual value.",
-   "uncertainties": [
-    "The verse implies but does not explicitly name the specific substances discussed in the next verse."
-   ],
-   "plain_english": "Whatever gives rise to bliss, is fit for worship, and captivates the heart is therefore accepted in traditions such as Kula, Krama, and the transcendent Trika."
-  },
-  {
-   "verse": 170,
-   "rows": [
-    {
-     "surface": "madyakādambarīśīdhudravyādermahimā",
-     "gloss": "greatness-of-wine-kadambari-sidhu-and-such-substances",
-     "grounds": "names the substances whose ritual greatness is affirmed",
-     "morph": "madya+kādambarī+śīdhu+dravya+ādi+gen.sg.masc"
+     "surface": "viṣayabhedānno",
+     "gloss": "not because of difference of domain",
+     "grounds": "reason for non-subordination",
+     "morph": "compound: viṣaya+object, bheda+difference, na+negation, u+particle"
     },
     {
-     "surface": "param",
-     "gloss": "supreme",
-     "grounds": "qualifies the greatness of those substances",
-     "morph": "m.nom.sg"
+     "surface": "śivokterbādhikā",
+     "gloss": "overriding the word of Shiva",
+     "grounds": "relation between scriptural authorities",
+     "morph": "compound: śiva+name, ukti+word, bādhikā+overriding"
     },
     {
-     "surface": "lokasthitiṃ",
-     "gloss": "maintenance-of-the-world",
-     "grounds": "states the purpose for which wine is regulated elsewhere",
-     "morph": "loka+sthiti+acc.sg.fem"
-    },
-    {
-     "surface": "racayituṃ",
-     "gloss": "to-establish",
-     "grounds": "expresses the aim of social regulation in the other teaching",
-     "morph": "(inf.) rac"
-    },
-    {
-     "surface": "madyādeḥ",
-     "gloss": "of-wine-and-such",
-     "grounds": "identifies what is restricted in the other teaching",
-     "morph": "madya+ādi+gen.sg.neut"
-    },
-    {
-     "surface": "paśuśāsane",
-     "gloss": "in-the-teaching-for-bound-souls",
-     "grounds": "locates the restrictive rule in the lower disciplinary system",
-     "morph": "paśu+śāsana+loc.sg.neut"
-    }
-   ],
-   "question": "How do higher and lower teachings differ about wine and similar substances?",
-   "premises": [
-    "In the higher context, wine, kadambari, sidhu, and similar substances have supreme greatness.",
-    "In the teaching for bound souls, wine and such are regulated to maintain worldly order.",
-    "The same substances can be treated differently according to the level of teaching."
-   ],
-   "inference": "The ritual greatness of wine in higher teachings contrasts with its restrictive regulation in the discipline meant for bound souls.",
-   "uncertainties": [
-    "The exact ritual forms of kadambari and sidhu are not specified in this verse."
-   ],
-   "plain_english": "Wine, kadambari, sidhu, and similar substances are held to have supreme greatness, while in the teaching for bound souls wine and the like are restricted in order to maintain social order."
-  },
-  {
-   "verse": 171,
-   "rows": [
-    {
-     "surface": "proktā",
-     "gloss": "declared",
-     "grounds": "reports the status assigned in the lower teaching",
-     "morph": "f.nom.sg (past-passive-participle) vac"
-    },
-    {
-     "surface": "hyaśuddhistatraiva",
-     "gloss": "indeed-impurity-there-only",
-     "grounds": "states that impurity is asserted only in that context",
-     "morph": "hi+(indecl.) + aśuddhi+nom.sg.fem + tatra+eva+(indecl.)"
-    },
-    {
-     "surface": "tasya",
-     "gloss": "of-that",
-     "grounds": "refers back to the substance treated as impure there",
-     "morph": "n.gen.sg"
-    },
-    {
-     "surface": "kvāpi",
-     "gloss": "in-some-contexts",
-     "grounds": "introduces other contexts where the status differs",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "viśuddhatā",
-     "gloss": "purity",
-     "grounds": "asserts the opposite status in other ritual contexts",
+     "surface": "śrutiḥ",
+     "gloss": "Vedic scripture",
+     "grounds": "the authority being assessed",
      "morph": "f.nom.sg"
     },
     {
-     "surface": "pañcagavye",
-     "gloss": "in-the-five-cow-products",
-     "grounds": "gives an example of ritual purity in a mixed substance",
-     "morph": "pañca+gavya+loc.sg.neut"
+     "surface": "kvacidviṣayatulyatvādbādhyabādhakatā",
+     "gloss": "if sometimes equality of domain then subordination and overriding",
+     "grounds": "condition for mutual conflict",
+     "morph": "compound: kvacit+sometimes, viṣaya+domain, tulyatva+equality, bādhya+subordinated, bādhakatā+overriding"
     },
     {
-     "surface": "pavitratvaṃ",
-     "gloss": "purifying-status",
-     "grounds": "names the sacred quality attributed in Vedic ritual",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "somacarṇanapātrayoḥ",
-     "gloss": "of-soma-pressing-and-vessels",
-     "grounds": "gives Vedic examples where purity is affirmed",
-     "morph": "soma+carṇana+pātra+loc.dual.neut"
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces conditional case",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "Why is ritual purity or impurity treated as context-dependent?",
+   "question": "When can Vedic scripture override the word of Shiva?",
    "premises": [
-    "In the lower teaching, impurity is declared only in that specific context.",
-    "The same kind of thing can be regarded as pure in other contexts.",
-    "Vedic examples such as the five cow products and soma vessels are treated as purifying."
+    "Vedic scripture does not override the word of Shiva merely because their domains differ.",
+    "A relation of subordination and overriding arises only when their domains are equal.",
+    "Such equality of domain may occur in some cases."
    ],
-   "inference": "Purity and impurity are not fixed in the substance itself but depend on the ritual and doctrinal context.",
+   "inference": "Therefore, Vedic scripture can override the word of Shiva only in cases where both apply to the same domain.",
    "uncertainties": [
-    "The verse does not explicitly name the substance whose impurity is being contrasted."
+    "The exact scope of viṣaya-tulyatva in this ritual-epistemic context is not fully specified in this verse."
    ],
-   "plain_english": "Impurity is declared only in that lower context, yet the same thing can be pure elsewhere; for example, the five cow products and the soma pressing and vessels are treated as purifying."
+   "plain_english": "Thus, Vedic scripture does not override the word of Shiva simply because their domains differ. If, in some case, their domains are the same, then a relation of being overridden and overriding can arise."
   },
   {
-   "verse": 172,
+   "verse": 179,
    "rows": [
     {
-     "surface": "vidhiścāvabhṛthasnānaṃ",
-     "gloss": "and-the-rule-is-the-concluding-bath",
-     "grounds": "cites a Vedic ritual rule involving a concluding bath",
-     "morph": "vidhi+nom.sg.masc + ca+(indecl.) + avabhṛtha+snāna+nom.sg.neut"
+     "surface": "tadbādhyā",
+     "gloss": "overridden by that",
+     "grounds": "status of Vedic scripture in that case",
+     "morph": "compound: tad+that, bādhyā+overridden"
     },
     {
-     "surface": "haste",
-     "gloss": "in-the-hand",
-     "grounds": "specifies where the ritual object is held",
-     "morph": "m.loc.sg"
+     "surface": "śrutireveti",
+     "gloss": "it is indeed Vedic scripture",
+     "grounds": "identifies which authority is overridden",
+     "morph": "compound: śruti+Vedic-scripture, eva+indeed, iti+thus"
     },
     {
-     "surface": "kṛṣṇaviṣāṇitā",
-     "gloss": "holding-a-black-antelope-horn",
-     "grounds": "names another prescribed ritual detail",
-     "morph": "kṛṣṇa+viṣāṇa+f.nom.sg"
+     "surface": "prāgevaitannirūpitam",
+     "gloss": "this was already explained before",
+     "grounds": "refers back to earlier discussion",
+     "morph": "compound: prāk+before, eva+indeed, etad+this, nirūpitam+explained"
     },
     {
-     "surface": "na",
-     "gloss": "not",
-     "grounds": "negates the possibility of sacrifice without the wife",
-     "morph": "(indecl.)"
+     "surface": "prakṛtaṃ",
+     "gloss": "the present topic",
+     "grounds": "marks return to main subject",
+     "morph": "n.acc.sg"
     },
     {
-     "surface": "patnyā",
-     "gloss": "with-the-wife",
-     "grounds": "identifies the required participant in the sacrifice",
-     "morph": "f.ins.sg"
+     "surface": "brūmahe",
+     "gloss": "we speak",
+     "grounds": "author resumes exposition",
+     "morph": "1.pl.middle-present, root brū"
     },
     {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "adds another ritual requirement to the list",
-     "morph": "(indecl.)"
+     "surface": "kṛtvā",
+     "gloss": "having made",
+     "grounds": "preparatory action before ritual",
+     "morph": "(indecl., absolutive), root kṛ"
     },
     {
-     "surface": "vinā",
-     "gloss": "without",
-     "grounds": "marks the absence that invalidates the sacrifice",
-     "morph": "(indecl.)"
+     "surface": "nyāsaṃ",
+     "gloss": "the placement",
+     "grounds": "ritual installation on body and vessels",
+     "morph": "m.acc.sg"
     },
     {
-     "surface": "yāgaḥ",
-     "gloss": "sacrifice",
-     "grounds": "names the ritual act governed by these rules",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "sarvadaivatatulyatā",
-     "gloss": "equality-to-all-deities",
-     "grounds": "cites a further doctrinal claim found in such ritual systems",
-     "morph": "sarva+daivata+tulyatā+nom.sg.fem"
+     "surface": "dehārghapātrayoḥ",
+     "gloss": "on the body and the offering vessel",
+     "grounds": "locations of the placement",
+     "morph": "compound: deha+body, argha+offering, pātra+vessel; m.loc.dual"
     }
    ],
-   "question": "What ritual prescriptions show the complexity of Vedic sacrificial rules?",
+   "question": "What does the text do after settling the scriptural conflict?",
    "premises": [
-    "Vedic ritual prescribes a concluding bath and holding a black antelope horn.",
-    "A sacrifice is not performed without the wife.",
-    "Such systems also assert equality to all deities in certain contexts."
+    "When domains are equal, Vedic scripture is the one overridden.",
+    "This point has already been explained earlier.",
+    "The exposition now returns to the main ritual topic."
    ],
-   "inference": "Vedic sacrificial practice contains detailed and sometimes surprising prescriptions that govern ritual validity.",
+   "inference": "Having settled the authority issue, the text resumes the ritual procedure by prescribing placement on the body and the offering vessel.",
    "uncertainties": [
-    "The verse lists examples without explaining how each functions within a single rite."
+    "The specific type of nyāsa intended here is not named in this verse."
    ],
-   "plain_english": "The rule includes the concluding bath, holding a black antelope horn in the hand, and no sacrifice without the wife, along with the claim of equality to all deities."
+   "plain_english": "In that case, it is Vedic scripture that is overridden; this has already been explained before. Now we return to the matter at hand: having made the placement on the body and on the offering vessel, we continue."
   },
   {
-   "verse": 173,
+   "verse": 180,
    "rows": [
     {
-     "surface": "surāhutirbrahmasatre",
-     "gloss": "offering-of-liquor-in-the-brahma-session",
-     "grounds": "cites a Vedic example involving an offering of liquor",
-     "morph": "surā+āhuti+nom.sg.fem + brahma+satra+loc.sg.neut"
+     "surface": "sāmānyamarghapātrāmbhovipruḍbhiḥ",
+     "gloss": "with drops of water from the common offering vessel",
+     "grounds": "instrument for sprinkling purification",
+     "morph": "compound: sāmānya+common, argha+offering, pātra+vessel, ambhas+water, vipruḍ+drops; f.ins.pl"
     },
     {
-     "surface": "vapāntrahṛdayāhutiḥ",
-     "gloss": "offering-of-omentum-intestine-and-heart",
-     "grounds": "cites another Vedic example involving animal parts",
-     "morph": "vapā+antra+hṛdaya+āhuti+nom.sg.fem"
+     "surface": "prokṣya",
+     "gloss": "having sprinkled",
+     "grounds": "purificatory action",
+     "morph": "(indecl., absolutive), root prokṣ"
     },
     {
-     "surface": "pāśaveṣvapi",
-     "gloss": "even-in-the-bound-soul-scriptures",
-     "grounds": "locates these examples within the lower disciplinary texts",
-     "morph": "pāśava+loc.pl.neut + api+(indecl.)"
+     "surface": "cākhilam",
+     "gloss": "and all",
+     "grounds": "extends sprinkling to everything",
+     "morph": "compound: ca+and, akhilam+all; n.acc.sg"
     },
     {
-     "surface": "śāstreṣu",
-     "gloss": "in-the-scriptures",
-     "grounds": "identifies the textual domain where these examples appear",
-     "morph": "n.loc.pl"
+     "surface": "yāgopakaraṇaṃ",
+     "gloss": "the worship equipment",
+     "grounds": "objects to be purified",
+     "morph": "compound: yāga+worship, upakaraṇa+equipment; n.acc.sg"
     },
     {
-     "surface": "tadadarśi",
-     "gloss": "that-was-shown",
-     "grounds": "states that these examples were revealed or displayed",
-     "morph": "3.sg.passive-aorist dṛś"
+     "surface": "paścādbāhyayāgaṃ",
+     "gloss": "afterward the external worship",
+     "grounds": "next stage of the rite",
+     "morph": "compound: paścāt+afterward, bāhya+external, yāga+worship; m.acc.sg"
     },
     {
-     "surface": "maheśinā",
-     "gloss": "by-the-great-lord",
-     "grounds": "attributes the showing of these examples to Maheśa",
-     "morph": "m.ins.sg"
+     "surface": "samācaret",
+     "gloss": "one should perform",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative, root sam-ā-car"
     }
    ],
-   "question": "Who revealed controversial ritual examples even in the lower scriptures?",
+   "question": "What ritual steps follow the placement on the body and offering vessel?",
    "premises": [
-    "The offering of liquor in a brahma session is cited as an example.",
-    "The offering of omentum, intestine, and heart is also cited.",
-    "These examples appear even in scriptures meant for bound souls and were shown by the great lord."
+    "The practitioner uses drops of water from the common offering vessel.",
+    "All worship equipment is sprinkled for purification.",
+    "The external worship is performed after this purification."
    ],
-   "inference": "Even the lower scriptures contain such ritual examples because the great lord revealed them there.",
-   "uncertainties": [
-    "The verse does not specify the ritual purpose of each cited offering."
-   ],
-   "plain_english": "The offering of liquor in a brahma session and the offering of omentum, intestine, and heart were shown by the great lord even in the scriptures meant for bound souls."
-  },
-  {
-   "verse": 174,
-   "rows": [
-    {
-     "surface": "ghorāndhyahaimananiśāmadhyagāciradīptivat",
-     "gloss": "like-sudden-light-in-the-midst-of-terrible-blind-wintry-night",
-     "grounds": "gives a simile for sudden clarity amid confusion",
-     "morph": "ghora+andhya+haimana+niśā+madhya+ga+acira+dīpti+vat+(indecl.)"
-    },
-    {
-     "surface": "bhakṣyo",
-     "gloss": "to-be-eaten",
-     "grounds": "states one side of the contradictory rule",
-     "morph": "m.nom.sg (future-passive-participle) bhakṣ"
-    },
-    {
-     "surface": "haṃso",
-     "gloss": "the-goose",
-     "grounds": "names the animal subject to contradictory judgments",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "na",
-     "gloss": "not",
-     "grounds": "negates the permissibility in the opposing judgment",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "bhakṣyo@sāviti",
-     "gloss": "this-is-to-be-eaten-thus",
-     "grounds": "reports the contradictory formulation of the rule",
-     "morph": "bhakṣya+m.nom.sg + asau+nom.sg.masc + iti+(indecl.)"
-    },
-    {
-     "surface": "ripratipattiṣu",
-     "gloss": "in-opposed-understandings",
-     "grounds": "locates the contradiction in conflicting interpretations",
-     "morph": "vi+pratipatti+loc.pl.fem"
-    }
-   ],
-   "question": "How do contradictory scriptural judgments appear to the discerning reader?",
-   "premises": [
-    "Opposed understandings declare the goose both to be eaten and not to be eaten.",
-    "Such contradictions create confusion like a terrible blind wintry night.",
-    "A sudden light can appear within that confusion."
-   ],
-   "inference": "Contradictory rules in opposed interpretations are confusing, yet they can become a context for sudden insight.",
-   "uncertainties": [
-    "The verse implies a higher resolution but does not state it explicitly."
-   ],
-   "plain_english": "In opposed interpretations, the goose is said to be eaten and not to be eaten; this confusion is like a terrible blind wintry night in which a sudden light appears."
+   "inference": "After the placement, one should sprinkle all worship equipment with water from the common offering vessel and then perform the external worship.",
+   "uncertainties": [],
+   "plain_english": "Having sprinkled all the worship equipment with drops of water from the common offering vessel, one should then perform the external worship."
   }
  ]
 }

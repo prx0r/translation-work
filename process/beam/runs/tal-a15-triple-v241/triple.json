@@ -1,63 +1,801 @@
 {
- "song": "Tantraloka 253-264",
+ "song": "Tantraloka 15.241-264",
  "items": [
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "tritattvanyāsatā",
+     "gloss": "state-of-three-principle-installation",
+     "grounds": "installation of the three principles",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "cāsya",
+     "gloss": "and-of-it",
+     "grounds": "and of that",
+     "morph": "ca (indecl.) + asya m.gen.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on-the-back",
+     "grounds": "on the back",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kakṣyātrayāgate",
+     "gloss": "gone-to-three-regions",
+     "grounds": "reaching the three regions",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "tato@ghorāṣṭakanyāsaḥ",
+     "gloss": "then-installation-of-eight-ghoras",
+     "grounds": "then the installation of the eight Ghoras",
+     "morph": "tatas (indecl.) + aghorāṣṭaka-nyāsaḥ m.nom.sg (compound)"
+    },
+    {
+     "surface": "śirastaccaraṇātmakam",
+     "gloss": "head-consisting-of-their-feet",
+     "grounds": "the head consisting of their feet",
+     "morph": "śiras n.nom.sg + tat-caraṇa-ātmakam n.nom.sg (compound)"
+    }
+   ],
+   "question": "What installations follow on the back and head in this sequence?",
+   "premises": [
+    "The three-principle installation is placed on the back reaching the three regions.",
+    "Then the installation of the eight Ghoras follows.",
+    "The head is constituted by their feet."
+   ],
+   "inference": "After the three-principle installation on the back, the rite proceeds to the eight-Ghora installation culminating at the head.",
+   "uncertainties": [
+    "The exact mapping of the three regions and the feet of the eight Ghoras is not specified in this verse."
+   ],
+   "plain_english": "On the back, extending through the three regions, one performs the installation of the three principles. Then comes the installation of the eight Ghoras, with the head formed by their feet."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "tato@pi",
+     "gloss": "then-also",
+     "grounds": "then also",
+     "morph": "tatas (indecl.) + api (indecl.)"
+    },
+    {
+     "surface": "śivasadbhāvanyāsaḥ",
+     "gloss": "installation-of-shiva-being",
+     "grounds": "installation of the being of Shiva",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "svāṃgasya",
+     "gloss": "of-one's-own-body",
+     "grounds": "of one's own body",
+     "morph": "n.gen.sg (compound)"
+    },
+    {
+     "surface": "saṃyutaḥ",
+     "gloss": "joined",
+     "grounds": "connected",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ittha",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-done",
+     "grounds": "when performed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pañcake@sminyattanmukhyatayā",
+     "gloss": "in-this-fivefold-by-its-primacy",
+     "grounds": "in this fivefold set, by its primacy",
+     "morph": "pañcake n.loc.sg + asmin n.loc.sg + yat-tat-mukhyatayā f.ins.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "should be",
+     "morph": "3.sg.optative (bhū)"
+    }
+   ],
+   "question": "What determines what is to be worshipped after the fivefold installation is completed?",
+   "premises": [
+    "After that comes the installation of the being of Shiva connected with one's own body.",
+    "When this fivefold installation has been performed, primacy within it determines the focus.",
+    "The object of worship and ritual attention follows that primacy."
+   ],
+   "inference": "Once the fivefold installation is complete, the element that holds primacy within it becomes the main object of worship.",
+   "uncertainties": [
+    "The verse does not explicitly name the worshipped object, which is clarified in the next verse."
+   ],
+   "plain_english": "Then comes the installation of the being of Shiva, joined with one's own body. When this fivefold set has been performed, whatever holds primacy within it should become the main focus."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "upāsyamarcyaṃ",
+     "gloss": "to-be-contemplated-and-worshipped",
+     "grounds": "to be contemplated and worshipped",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tatsāṅgaṃ",
+     "gloss": "that-with-its-limbs",
+     "grounds": "that together with its limbs",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ṣaṣṭhe",
+     "gloss": "in-the-sixth",
+     "grounds": "in the sixth",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyāse",
+     "gloss": "in-the-installation",
+     "grounds": "in the installation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-place",
+     "grounds": "one should install",
+     "morph": "3.sg.optative (ni-yuj)"
+    },
+    {
+     "surface": "tenātra",
+     "gloss": "therefore-here",
+     "grounds": "therefore here",
+     "morph": "tena (indecl.) + atra (indecl.)"
+    },
+    {
+     "surface": "nyāsayogyo@sau",
+     "gloss": "fit-for-installation-this",
+     "grounds": "this one fit for installation",
+     "morph": "nyāsa-yogyaḥ m.nom.sg (compound) + asau m.nom.sg"
+    },
+    {
+     "surface": "bhagavānratiśekharaḥ",
+     "gloss": "lord-ratishekhara",
+     "grounds": "the Lord Ratiśekhara",
+     "morph": "bhagavān m.nom.sg + ratiśekharaḥ m.nom.sg (compound)"
+    }
+   ],
+   "question": "Who is to be installed and worshipped in the sixth installation?",
+   "premises": [
+    "The object to be contemplated and worshipped, together with its limbs, is placed in the sixth installation.",
+    "This placement makes that deity the one fit for installation here.",
+    "The deity named is the Lord Ratiśekhara."
+   ],
+   "inference": "In the sixth installation, the Lord Ratiśekhara, together with his limbs, is the proper object to be installed and worshipped.",
+   "uncertainties": [],
+   "plain_english": "In the sixth installation, one should place the object of contemplation and worship together with its limbs. Therefore, the Lord Ratiśekhara is the one fit to be installed here."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "ūrdhve",
+     "gloss": "above",
+     "grounds": "in the upper position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyāsyo",
+     "gloss": "to-be-installed",
+     "grounds": "to be installed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "navākhyasya",
+     "gloss": "of-the-ninefold",
+     "grounds": "of the one called the ninefold",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "mukhyatve@nyonyadhāmatā",
+     "gloss": "when-primary-other-abode-state",
+     "grounds": "when it is primary, the other has a different abode",
+     "morph": "mukhyatve n.loc.sg + anya-anya-dhāmatā f.nom.sg (compound)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavasadbhāvanāthe",
+     "gloss": "when-bhairava-being-is-lord",
+     "grounds": "when the being of Bhairava is the lord",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "mukhyatayā",
+     "gloss": "by-primacy",
+     "grounds": "as primary",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "if",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the placement change when the ninefold or Bhairava-being is given primacy?",
+   "premises": [
+    "The ninefold is to be installed above.",
+    "When the ninefold is primary, the other occupies a different abode.",
+    "The same principle applies if the being of Bhairava is taken as primary."
+   ],
+   "inference": "Primacy determines placement: whichever form is primary is installed in its proper position, and the other is relocated accordingly.",
+   "uncertainties": [
+    "The compound anyonyadhāmatā is read as the other having a different abode; the exact nuance is slightly compressed."
+   ],
+   "plain_english": "The ninefold is to be installed above. When it is given primacy, the other is placed in a different abode. The same rule applies if the being of Bhairava is made primary."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "upāsyatā",
+     "gloss": "state-of-being-worshipped",
+     "grounds": "the state of being worshipped",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tattatsthāna",
+     "gloss": "in-that-respective-place",
+     "grounds": "in that respective place",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "prāṅnyāsyo",
+     "gloss": "to-be-installed-before",
+     "grounds": "to be installed beforehand",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ratiśekharaḥ",
+     "gloss": "ratishekhara",
+     "grounds": "Ratiśekhara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīpūrvaśāstre",
+     "gloss": "in-the-shri-purva-scripture",
+     "grounds": "in the Śrīpūrva scripture",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "to me",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "saṃpradāyaṃ",
+     "gloss": "the-tradition",
+     "grounds": "the transmitted teaching",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyarūpayat",
+     "gloss": "set-forth",
+     "grounds": "expounded",
+     "morph": "3.sg.imperfect (ni-rūp)"
+    }
+   ],
+   "question": "How was the placement of Ratiśekhara transmitted in the Śrīpūrva tradition?",
+   "premises": [
+    "Ratiśekhara is to be installed beforehand in the respective place according to what is worshipped.",
+    "This procedure was expounded in the Śrīpūrva scripture.",
+    "The teaching was transmitted to the author as a tradition."
+   ],
+   "inference": "The author presents the prior installation of Ratiśekhara in its proper place as a received teaching from the Śrīpūrva tradition.",
+   "uncertainties": [],
+   "plain_english": "Ratiśekhara is to be installed beforehand in the place appropriate to what is being worshipped. This is how the tradition was set forth to me in the Śrīpūrva scripture."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "śaṃbhunātho",
+     "gloss": "lord-shambhu",
+     "grounds": "the Lord Śambhu",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "nyāsavidhau",
+     "gloss": "in-the-rule-of-installation",
+     "grounds": "in the procedure of installation",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "devo",
+     "gloss": "the-god",
+     "grounds": "the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "for",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathamanyathā",
+     "gloss": "how-otherwise",
+     "grounds": "how otherwise",
+     "morph": "katham (indecl.) + anyathā (indecl.)"
+    },
+    {
+     "surface": "nyāsa",
+     "gloss": "installation",
+     "grounds": "installation",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "vivarjyate@muṣminnaṅgānyapyasya",
+     "gloss": "is-excluded-in-this-and-limbs-also-of-him",
+     "grounds": "is excluded in this, and his limbs also",
+     "morph": "vivarjyate 3.sg.passive (vi-vṛj) + amuṣmin m.loc.sg + aṅgāni n.nom.pl + api (indecl.) + asya m.gen.sg"
+    },
+    {
+     "surface": "santi",
+     "gloss": "exist",
+     "grounds": "exist",
+     "morph": "3.pl.present (as)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "for",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why can the deity not be excluded from the installation procedure?",
+   "premises": [
+    "The Lord Śambhu is the deity in the procedure of installation.",
+    "If he were excluded, the installation would lack its basis.",
+    "His limbs also exist and belong to that installation."
+   ],
+   "inference": "The deity and his limbs are integral to the installation and cannot be omitted.",
+   "uncertainties": [
+    "The vocative nyāsa is slightly abrupt; it may be read as an address within the argument."
+   ],
+   "plain_english": "In the procedure of installation, the Lord Śambhu is the deity. How could he be excluded? His limbs also exist and are part of it."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "mūrtiḥ",
+     "gloss": "form",
+     "grounds": "the form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭistritattvaṃ",
+     "gloss": "emanation-three-principles",
+     "grounds": "emanation and the three principles",
+     "morph": "sṛṣṭiḥ f.nom.sg + tritattvam n.nom.sg (compound)"
+    },
+    {
+     "surface": "cetyaṣṭau",
+     "gloss": "and-thus-eight",
+     "grounds": "and thus eight",
+     "morph": "ca (indecl.) + iti (indecl.) + aṣṭau num.nom.pl"
+    },
+    {
+     "surface": "mūrtyaṅgasaṃyutāḥ",
+     "gloss": "joined-with-form-and-limbs",
+     "grounds": "joined with the form and limbs",
+     "morph": "m.nom.pl (compound)"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "Shiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāṅgaśca",
+     "gloss": "with-limbs-and",
+     "grounds": "and with limbs",
+     "morph": "sa-aṅgaḥ m.nom.sg (compound) + ca (indecl.)"
+    },
+    {
+     "surface": "vijñeyo",
+     "gloss": "to-be-known",
+     "grounds": "should be understood",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "installation",
+     "grounds": "the installation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣoḍhā",
+     "gloss": "sixfold",
+     "grounds": "in six ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "proclaimed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the sixfold installation structured in terms of form, limbs, and principles?",
+   "premises": [
+    "The form, emanation, and three principles, together with the form and limbs, make eight components.",
+    "Shiva is to be understood together with his limbs.",
+    "The installation is declared to be sixfold."
+   ],
+   "inference": "The sixfold installation integrates Shiva, his limbs, and the related components of form, emanation, and the three principles.",
+   "uncertainties": [
+    "The exact counting that yields six from the listed components is compressed in the verse."
+   ],
+   "plain_english": "The form, emanation, and the three principles, together with the form and limbs, are to be understood as belonging to Shiva with his limbs. The installation is declared to be sixfold."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "asyopari",
+     "gloss": "above-this",
+     "grounds": "above this",
+     "morph": "asya m.gen.sg + upari (indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāktaṃ",
+     "gloss": "shakta",
+     "grounds": "of the Shakti",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "installation",
+     "grounds": "installation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryācca",
+     "gloss": "one-should-do-and",
+     "grounds": "and one should perform",
+     "morph": "3.sg.optative (kṛ) + ca (indecl.)"
+    },
+    {
+     "surface": "ṣaḍvidham",
+     "gloss": "sixfold",
+     "grounds": "sixfold",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parāparāṃ",
+     "gloss": "parapara",
+     "grounds": "Parāparā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "savaktrāṃ",
+     "gloss": "with-faces",
+     "grounds": "together with faces",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "prāktataḥ",
+     "gloss": "first-from-that",
+     "grounds": "first, from that",
+     "morph": "prāk (indecl.) + tatas (indecl.)"
+    },
+    {
+     "surface": "prāgiti",
+     "gloss": "first-thus",
+     "grounds": "first, thus",
+     "morph": "prāk (indecl.) + iti (indecl.)"
+    },
+    {
+     "surface": "mālinīm",
+     "gloss": "malini",
+     "grounds": "Mālinī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is the first step in the sixfold Shakta installation performed after the previous rite?",
+   "premises": [
+    "After the preceding installation, a sixfold Shakta installation is to be performed.",
+    "The sequence begins with Parāparā together with her faces.",
+    "Mālinī is also named at the beginning of this sequence."
+   ],
+   "inference": "The Shakta installation follows the previous rite as a sixfold sequence beginning with Parāparā and Mālinī.",
+   "uncertainties": [
+    "The exact syntactic role of prāgiti mālinīm is compressed; it is read as indicating Mālinī at the start."
+   ],
+   "plain_english": "Above this, one should then perform the sixfold Shakta installation. First comes Parāparā with her faces, and thus Mālinī at the beginning."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "paścātparāditritayaṃ",
+     "gloss": "afterward-triad-beginning-with-para",
+     "grounds": "afterward the triad beginning with Parā",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "śikhāhṛtpādagaṃ",
+     "gloss": "going-to-crest-heart-feet",
+     "grounds": "placed at crest, heart, and feet",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavaktrakaṇṭheṣu",
+     "gloss": "in-head-face-throat",
+     "grounds": "in the head, face, and throat",
+     "morph": "n.loc.pl (compound)"
+    },
+    {
+     "surface": "hṛnnābhīguhya+ūrutaḥ",
+     "gloss": "from-heart-navel-secret-thighs",
+     "grounds": "from heart, navel, secret place, and thighs",
+     "morph": "hṛt-nābhī-guhya-ūrutas (indecl., compound)"
+    }
+   ],
+   "question": "Where is the triad beginning with Parā installed in the body?",
+   "premises": [
+    "After the first step, the triad beginning with Parā is installed.",
+    "It is placed in sequence at the crest, heart, and feet.",
+    "The sequence continues through head, face, throat, heart, navel, secret place, and thighs."
+   ],
+   "inference": "The triad beginning with Parā is distributed across specific bodily locations in a fixed descending order.",
+   "uncertainties": [
+    "The verse lists locations compactly; the exact assignment of each member of the triad to each location is implied rather than spelled out."
+   ],
+   "plain_english": "After that, the triad beginning with Parā is installed in order at the crest, heart, and feet. Then the sequence continues through the head, face, throat, heart, navel, secret place, and thighs."
+  },
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "jānupāde@pyaghoryādyaṃ",
+     "gloss": "in-knee-and-foot-also-beginning-with-aghora",
+     "grounds": "also in knee and foot, beginning with Aghorā",
+     "morph": "jānu-pāde n.loc.sg (compound) + api (indecl.) + aghorī-ādyam n.acc.sg (compound)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyāṅgapañcakam",
+     "gloss": "fivefold-vidya-limbs",
+     "grounds": "the fivefold limbs of the vidyā",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "tatastvāvāhayecchaktiṃ",
+     "gloss": "then-one-should-invoke-shakti",
+     "grounds": "then one should invoke the Shakti",
+     "morph": "tatas (indecl.) + tu (indecl.) + āvāhayet 3.sg.optative (ā-vah) + śaktim f.acc.sg"
+    },
+    {
+     "surface": "mātṛsadbhāvarūpiṇīm",
+     "gloss": "having-form-of-mother-being",
+     "grounds": "whose form is the being of the Mother",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "What follows the bodily placements before the invocation of Shakti?",
+   "premises": [
+    "The sequence beginning with Aghorā is placed in the knee and foot.",
+    "Then the fivefold limbs of the vidyā are installed.",
+    "After that, the Shakti whose form is the being of the Mother is invoked."
+   ],
+   "inference": "The rite moves from bodily placements to the vidyā limbs and culminates in invoking the Mother-form Shakti.",
+   "uncertainties": [],
+   "plain_english": "The sequence beginning with Aghorā is placed in the knee and foot. Then come the five limbs of the vidyā. After that, one should invoke the Shakti whose form is the being of the Mother."
+  },
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "yogeśvarīṃ",
+     "gloss": "yogeshvari",
+     "grounds": "Yogeśvarī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "the supreme",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "full",
+     "grounds": "the full",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kālasaṃkarṣiṇīṃ",
+     "gloss": "kalasamkarshini",
+     "grounds": "Kālasaṃkarṣiṇī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhruvām",
+     "gloss": "firm",
+     "grounds": "the steadfast",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aṅgavaktraparīvāraśaktidvādaśakādhikām",
+     "gloss": "augmented-by-twelve-shaktis-of-limb-face-retinue",
+     "grounds": "augmented by the twelve Shaktis of limbs, faces, and retinue",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "How is the invoked Shakti characterized in this installation?",
+   "premises": [
+    "The invoked Shakti is named as Yogeśvarī, supreme, full, Kālasaṃkarṣiṇī, and steadfast.",
+    "She is accompanied by twelve Shaktis forming her limbs, faces, and retinue.",
+    "These attributes define her presence in the rite."
+   ],
+   "inference": "The invoked Shakti is a supreme, complete Kālasaṃkarṣiṇī attended by a twelvefold retinue.",
+   "uncertainties": [],
+   "plain_english": "One invokes Yogeśvarī, the supreme, full, steadfast Kālasaṃkarṣiṇī, augmented by the twelve Shaktis of her limbs, faces, and retinue."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "sādhyānuṣṭhānabhedena",
+     "gloss": "by-difference-of-goal-and-practice",
+     "grounds": "according to the difference of aim and practice",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "nyāsakāle",
+     "gloss": "at-the-time-of-installation",
+     "grounds": "at the time of installation",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "smaredguruḥ",
+     "gloss": "the-guru-should-remember",
+     "grounds": "the guru should contemplate",
+     "morph": "smaret 3.sg.optative (smṛ) + guruḥ m.nom.sg"
+    },
+    {
+     "surface": "paraiva",
+     "gloss": "supreme-alone",
+     "grounds": "the supreme alone",
+     "morph": "parā f.nom.sg + eva (indecl.)"
+    },
+    {
+     "surface": "devītritayamadhye",
+     "gloss": "in-the-middle-of-the-goddess-triad",
+     "grounds": "in the middle of the triad of goddesses",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "yābhedinī",
+     "gloss": "who-non-differentiating",
+     "grounds": "who is non-differentiating",
+     "morph": "yā f.nom.sg + abhedinī f.nom.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "abiding",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should the guru contemplate the goddess during installation according to the aim of the rite?",
+   "premises": [
+    "The contemplation varies according to the aim and practice of the rite.",
+    "At the time of installation, the guru should remember the goddess.",
+    "The supreme goddess abides in the middle of the triad as non-differentiating."
+   ],
+   "inference": "Depending on the rite's aim, the guru should contemplate the supreme non-differentiating goddess at the center of the triad.",
+   "uncertainties": [],
+   "plain_english": "At the time of installation, the guru should contemplate according to the aim and practice of the rite. The supreme goddess, abiding in the middle of the triad, is the non-differentiating one."
+  },
   {
    "verse": 253,
    "rows": [
     {
      "surface": "sānavacchedacinmātrasadbhāveyaṃ",
-     "gloss": "consciousness-only-being-without-limitation-this",
-     "grounds": "compound phrase",
-     "morph": "compound"
+     "gloss": "she-this-unlimited-consciousness-only-being",
+     "grounds": "she, this being of unlimited consciousness alone",
+     "morph": "sā f.nom.sg + anavaccheda-cinmātra-sadbhāvā f.nom.sg (compound) + iyam f.nom.sg"
     },
     {
      "surface": "prakīrtitā",
      "gloss": "proclaimed",
-     "grounds": "passive participle",
-     "morph": "f.nom.sg.pass.part"
+     "grounds": "declared",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "sāraśāstre",
-     "gloss": "in-essential-treatise",
-     "grounds": "locative",
-     "morph": "n.loc.sg"
+     "gloss": "in-the-sara-scripture",
+     "grounds": "in the Sāra scripture",
+     "morph": "n.loc.sg (compound)"
     },
     {
      "surface": "yāmale",
-     "gloss": "in-yamala",
-     "grounds": "locative",
+     "gloss": "in-the-yamala",
+     "grounds": "in the Yāmala",
      "morph": "n.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "and",
      "morph": "(indecl.)"
     },
     {
      "surface": "devyāstena",
-     "gloss": "by-goddess-by-that",
-     "grounds": "instrumental compound",
-     "morph": "compound"
+     "gloss": "of-the-goddess-therefore",
+     "grounds": "of the goddess, therefore",
+     "morph": "devyāḥ f.gen.sg + tena (indecl.)"
     },
     {
      "surface": "prakīrtitaḥ",
      "gloss": "proclaimed",
-     "grounds": "passive participle",
-     "morph": "m.nom.sg.pass.part"
+     "grounds": "declared",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "How is this consciousness-only being proclaimed in the essential treatise?",
+   "question": "How is the supreme goddess identified in the Sāra and Yāmala scriptures?",
    "premises": [
-    "consciousness-only being is proclaimed",
-    "it is proclaimed in essential treatise",
-    "it is proclaimed in yamala"
+    "The goddess is described as the being of unlimited consciousness alone.",
+    "This identification is proclaimed in the Sāra scripture and the Yāmala.",
+    "That scriptural identification grounds her form in the rite."
    ],
-   "inference": "The verse states where and by whom this consciousness-only being is proclaimed.",
-   "uncertainties": [
-    "compound segmentation approximate"
-   ],
-   "plain_english": "This being of consciousness alone, without limitation, is proclaimed in the essential treatise and in the Yamala, and by the goddess it is proclaimed."
+   "inference": "The supreme goddess is scripturally identified as pure unlimited consciousness, and this defines her ritual form.",
+   "uncertainties": [],
+   "plain_english": "She is proclaimed as the being of unlimited consciousness alone. This is declared in the Sāra scripture and in the Yāmala, and therefore this is how the goddess is understood."
   },
   {
    "verse": 254,
@@ -65,197 +803,193 @@
     {
      "surface": "mūrtiḥ",
      "gloss": "form",
-     "grounds": "nominative",
+     "grounds": "the form",
      "morph": "f.nom.sg"
     },
     {
      "surface": "savaktrā",
      "gloss": "with-faces",
-     "grounds": "compound",
-     "morph": "compound"
+     "grounds": "with faces",
+     "morph": "f.nom.sg (compound)"
     },
     {
      "surface": "śaktiśca",
-     "gloss": "and-power",
-     "grounds": "nominative plus conjunction",
-     "morph": "f.nom.sg"
+     "gloss": "and-shakti",
+     "grounds": "and the Shakti",
+     "morph": "śaktiḥ f.nom.sg + ca (indecl.)"
     },
     {
      "surface": "śaktitrayamathāṣṭakam",
-     "gloss": "power-triad-and-octad",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "triad-of-shaktis-then-eight",
+     "grounds": "the triad of Shaktis and then the eight",
+     "morph": "śakti-trayam n.nom.sg (compound) + atha (indecl.) + aṣṭakam n.nom.sg"
     },
     {
      "surface": "pañcāṅgāni",
      "gloss": "five-limbs",
-     "grounds": "nominative plural",
-     "morph": "n.nom.pl"
+     "grounds": "the five limbs",
+     "morph": "n.nom.pl (compound)"
     },
     {
      "surface": "parā",
      "gloss": "supreme",
-     "grounds": "adjective",
+     "grounds": "the supreme",
      "morph": "f.nom.sg"
     },
     {
      "surface": "śaktirnyāsaḥ",
-     "gloss": "power-installation",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "shakti-installation",
+     "grounds": "the Shakti installation",
+     "morph": "śaktiḥ f.nom.sg + nyāsaḥ m.nom.sg"
     },
     {
      "surface": "śākto@pi",
-     "gloss": "even-shakta",
-     "grounds": "nominative with particle",
-     "morph": "m.nom.sg"
+     "gloss": "shakta-also",
+     "grounds": "the Shakta also",
+     "morph": "śāktaḥ m.nom.sg + api (indecl.)"
     },
     {
      "surface": "ṣaḍvidhaḥ",
      "gloss": "sixfold",
-     "grounds": "adjective",
+     "grounds": "sixfold",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What sixfold installation and powers are enumerated here?",
+   "question": "What are the six components of the Shakta installation?",
    "premises": [
-    "form with faces is named",
-    "power triad and octad are named",
-    "five limbs and supreme power are named"
+    "The components include the form with faces and the Shakti.",
+    "They also include the triad of Shaktis, the group of eight, the five limbs, and the supreme Shakti.",
+    "Together these constitute the Shakta installation."
    ],
-   "inference": "The verse enumerates powers, limbs, and a sixfold shakta installation.",
+   "inference": "The Shakta installation is sixfold, comprising the goddess's form, her Shakti groups, the five limbs, and the supreme Shakti.",
    "uncertainties": [
-    "sandhi segmentation approximate"
+    "The exact mapping of the listed groups into six divisions is compactly stated."
    ],
-   "plain_english": "Form with faces, power, the triad and octad of powers, five limbs, supreme power, installation, and even the shakta sixfold are named."
+   "plain_english": "The form with faces, the Shakti, the triad of Shaktis, the group of eight, the five limbs, and the supreme Shakti make up the Shakta installation, which is also sixfold."
   },
   {
    "verse": 255,
    "rows": [
     {
      "surface": "yāmalo@yaṃ",
-     "gloss": "this-yamala",
-     "grounds": "nominative",
-     "morph": "m.nom.sg"
+     "gloss": "yamala-this",
+     "grounds": "this Yāmala",
+     "morph": "yāmalaḥ m.nom.sg + ayam m.nom.sg"
     },
     {
      "surface": "mahānyāsaḥ",
      "gloss": "great-installation",
-     "grounds": "nominative",
-     "morph": "m.nom.sg"
+     "grounds": "great installation",
+     "morph": "m.nom.sg (compound)"
     },
     {
      "surface": "siddhimuktiphalapradaḥ",
-     "gloss": "giving-success-liberation-fruit",
-     "grounds": "compound adjective",
-     "morph": "compound"
+     "gloss": "giving-fruit-of-accomplishment-and-liberation",
+     "grounds": "granting the fruits of accomplishment and liberation",
+     "morph": "m.nom.sg (compound)"
     },
     {
      "surface": "muktyekārthī",
-     "gloss": "seeking-liberation-alone",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "seeker-of-liberation-alone",
+     "grounds": "one who seeks liberation alone",
+     "morph": "m.nom.sg (compound)"
     },
     {
      "surface": "punaḥ",
-     "gloss": "again",
-     "grounds": "adverb",
+     "gloss": "but",
+     "grounds": "however",
      "morph": "(indecl.)"
     },
     {
      "surface": "pūrvaṃ",
      "gloss": "first",
-     "grounds": "adverb",
-     "morph": "(indecl.)"
+     "grounds": "first",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "śāktaṃ",
      "gloss": "shakta",
-     "grounds": "accusative",
+     "grounds": "the Shakta",
      "morph": "m.acc.sg"
     },
     {
      "surface": "nyāsaṃ",
      "gloss": "installation",
-     "grounds": "accusative",
+     "grounds": "installation",
      "morph": "m.acc.sg"
     },
     {
      "surface": "samācaret",
      "gloss": "should-perform",
-     "grounds": "verb",
-     "morph": "3.sg.act.opt.+car"
+     "grounds": "should perform",
+     "morph": "3.sg.optative (sam-ā-car)"
     }
    ],
-   "question": "What should one seeking liberation perform first?",
+   "question": "How should the great Yāmala installation be adapted for one who seeks only liberation?",
    "premises": [
-    "this yamala great installation gives success and liberation",
-    "one seeking liberation alone should perform",
-    "first the shakta installation should be performed"
+    "This Yāmala great installation grants both accomplishment and liberation.",
+    "A practitioner who seeks liberation alone has a different priority.",
+    "Such a practitioner should perform the Shakta installation first."
    ],
-   "inference": "The verse directs the liberation-seeker to perform the shakta installation first.",
-   "uncertainties": [
-    "compound segmentation approximate"
-   ],
-   "plain_english": "This Yamala great installation gives success and liberation; one seeking liberation alone should first perform the shakta installation."
+   "inference": "For a seeker of liberation alone, the Shakta installation takes precedence within the great Yāmala rite.",
+   "uncertainties": [],
+   "plain_english": "This Yāmala great installation gives the fruits of accomplishment and liberation. But one who seeks liberation alone should first perform the Shakta installation."
   },
   {
    "verse": 256,
    "rows": [
     {
      "surface": "guravastvāhuritthaṃ",
-     "gloss": "thus-teachers-say",
-     "grounds": "nominative plural verb",
-     "morph": "m.nom.pl"
+     "gloss": "but-the-gurus-say-thus",
+     "grounds": "but the gurus say thus",
+     "morph": "guravaḥ m.nom.pl + tu (indecl.) + āhuḥ 3.pl.perfect (ah) + ittham (indecl.)"
     },
     {
      "surface": "yannyāsadvayamudāhṛtam",
-     "gloss": "which-two-installations-are-declared",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "which-pair-of-installations-stated",
+     "grounds": "which pair of installations has been stated",
+     "morph": "yat n.nom.sg + nyāsa-dvayam n.nom.sg (compound) + udāhṛtam n.nom.sg"
     },
     {
      "surface": "mumukṣuṇā",
      "gloss": "by-one-desiring-liberation",
-     "grounds": "instrumental",
-     "morph": "m.inst.sg"
+     "grounds": "by one desiring liberation",
+     "morph": "m.ins.sg"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "particle",
+     "grounds": "however",
      "morph": "(indecl.)"
     },
     {
      "surface": "pādādi",
-     "gloss": "from-foot-upward",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "beginning-with-the-feet",
+     "grounds": "beginning with the feet",
+     "morph": "n.nom.sg (compound)"
     },
     {
      "surface": "tatkāryaṃ",
      "gloss": "that-should-be-done",
-     "grounds": "nominative",
-     "morph": "n.nom.sg"
+     "grounds": "that should be done",
+     "morph": "n.nom.sg (compound)"
     },
     {
      "surface": "saṃhṛtikramāt",
-     "gloss": "in-order-of-withdrawal",
-     "grounds": "ablative",
-     "morph": "m.abl.sg"
+     "gloss": "by-the-order-of-withdrawal",
+     "grounds": "in the order of withdrawal",
+     "morph": "m.abl.sg (compound)"
     }
    ],
-   "question": "What do teachers say about the two installations?",
+   "question": "How do the gurus instruct a liberation-seeker to perform the two installations?",
    "premises": [
-    "teachers say thus",
-    "two installations are declared",
-    "by one desiring liberation that should be done"
+    "A pair of installations has been described.",
+    "The gurus give a specific instruction for one desiring liberation.",
+    "That practitioner should perform the rite beginning with the feet in the order of withdrawal."
    ],
-   "inference": "The verse records teachers' instruction about performing the two installations in withdrawal order.",
-   "uncertainties": [
-    "compound segmentation approximate"
-   ],
-   "plain_english": "Thus the teachers say: the two installations declared should be done by one desiring liberation, from the foot upward, in order of withdrawal."
+   "inference": "For a liberation-seeker, the gurus prescribe performing the two installations in reverse, from the feet upward, following the order of withdrawal.",
+   "uncertainties": [],
+   "plain_english": "The gurus say that for one who desires liberation, the pair of installations described should be performed beginning with the feet, in the order of withdrawal."
   },
   {
    "verse": 257,
@@ -263,139 +997,135 @@
     {
      "surface": "yāvantaḥ",
      "gloss": "as-many-as",
-     "grounds": "nominative plural",
+     "grounds": "as many as",
      "morph": "m.nom.pl"
     },
     {
      "surface": "kīrtitā",
-     "gloss": "proclaimed",
-     "grounds": "passive participle",
-     "morph": "f.nom.pl.pass.part"
+     "gloss": "declared",
+     "grounds": "proclaimed",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "bhedāḥ",
-     "gloss": "distinctions",
-     "grounds": "nominative plural",
+     "gloss": "divisions",
+     "grounds": "divisions",
      "morph": "m.nom.pl"
     },
     {
      "surface": "śaṃbhuśaktyaṇuvācakāḥ",
-     "gloss": "expressing-shambhu-power-atoms",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "denoting-shambhu-shakti-and-anu",
+     "grounds": "denoting Śambhu, Shakti, and the individual",
+     "morph": "m.nom.pl (compound)"
     },
     {
      "surface": "tāvatsvapyeṣu",
-     "gloss": "in-those-mantras",
-     "grounds": "locative plural",
-     "morph": "m.loc.pl"
+     "gloss": "in-so-many-of-these",
+     "grounds": "in all these likewise",
+     "morph": "tāvat (indecl.) + sva (indecl.) + api (indecl.) + eṣu m.loc.pl"
     },
     {
      "surface": "mantreṣu",
-     "gloss": "in-mantras",
-     "grounds": "locative plural",
+     "gloss": "in-the-mantras",
+     "grounds": "in the mantras",
      "morph": "m.loc.pl"
     },
     {
      "surface": "nyāsaḥ",
      "gloss": "installation",
-     "grounds": "nominative",
+     "grounds": "the installation",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ṣoḍhaiva",
-     "gloss": "sixfold-indeed",
-     "grounds": "nominative",
-     "morph": "m.nom.sg"
+     "gloss": "sixfold-alone",
+     "grounds": "only sixfold",
+     "morph": "ṣoḍhā (indecl.) + eva (indecl.)"
     },
     {
      "surface": "kīrtitaḥ",
-     "gloss": "proclaimed",
-     "grounds": "passive participle",
-     "morph": "m.nom.sg.pass.part"
+     "gloss": "declared",
+     "grounds": "proclaimed",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "How many installations are proclaimed in those mantras?",
+   "question": "Does the sixfold installation apply across all mantra divisions of Śambhu, Shakti, and the individual?",
    "premises": [
-    "as many distinctions are proclaimed",
-    "expressing shambhu power atoms",
-    "in those mantras installation is sixfold"
+    "There are many divisions denoting Śambhu, Shakti, and the individual.",
+    "These divisions appear across various mantras.",
+    "The installation is declared to be sixfold in all of them."
    ],
-   "inference": "The verse states that installation is proclaimed as sixfold in those mantras.",
-   "uncertainties": [
-    "compound segmentation approximate"
-   ],
-   "plain_english": "As many distinctions expressing Shambhu power atoms are proclaimed, so in those mantras installation is proclaimed sixfold."
+   "inference": "Regardless of the mantra division, the installation remains sixfold across Śambhu, Shakti, and individual forms.",
+   "uncertainties": [],
+   "plain_english": "However many divisions are declared as denoting Śambhu, Shakti, and the individual, in all those mantras the installation is proclaimed as sixfold."
   },
   {
    "verse": 258,
    "rows": [
     {
      "surface": "kiṃtvāvāhyastu",
-     "gloss": "but-external-one",
-     "grounds": "nominative",
-     "morph": "m.nom.sg"
+     "gloss": "but-to-be-invoked",
+     "grounds": "but the one to be invoked",
+     "morph": "kim tu (indecl.) + āvāhyaḥ m.nom.sg + tu (indecl.)"
     },
     {
      "surface": "yo",
-     "gloss": "which",
-     "grounds": "relative pronoun",
+     "gloss": "who",
+     "grounds": "who",
      "morph": "m.nom.sg"
     },
     {
      "surface": "mantraḥ",
      "gloss": "mantra",
-     "grounds": "nominative",
+     "grounds": "the mantra",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sa",
      "gloss": "that",
-     "grounds": "demonstrative",
+     "grounds": "that",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tatrāṅgasamanvitaḥ",
-     "gloss": "there-with-limbs-accompanied",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "there-endowed-with-limbs",
+     "grounds": "there endowed with limbs",
+     "morph": "tatra (indecl.) + aṅga-samanvitaḥ m.nom.sg (compound)"
     },
     {
      "surface": "ṣaṣṭhaḥ",
      "gloss": "sixth",
-     "grounds": "nominative",
+     "grounds": "the sixth",
      "morph": "m.nom.sg"
     },
     {
      "surface": "syāditi",
-     "gloss": "would-be-thus",
-     "grounds": "verb with particle",
-     "morph": "3.sg.opt."
+     "gloss": "should-be-thus",
+     "grounds": "should be, thus",
+     "morph": "syāt 3.sg.optative (as) + iti (indecl.)"
     },
     {
      "surface": "sarvatra",
      "gloss": "everywhere",
-     "grounds": "adverb",
+     "grounds": "in all cases",
      "morph": "(indecl.)"
     },
     {
      "surface": "ṣoḍhaivāyamudāhṛtaḥ",
-     "gloss": "this-sixfold-is-declared",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "sixfold-alone-this-stated",
+     "grounds": "this is stated as sixfold alone",
+     "morph": "ṣoḍhā (indecl.) + eva (indecl.) + ayam m.nom.sg + udāhṛtaḥ m.nom.sg"
     }
    ],
-   "question": "What is the status of the external mantra?",
+   "question": "What serves as the sixth element in the sixfold installation across all cases?",
    "premises": [
-    "the external mantra is accompanied by limbs there",
-    "it would be sixth",
-    "everywhere this sixfold is declared"
+    "The mantra that is invoked is endowed with its limbs.",
+    "That invoked mantra constitutes the sixth element.",
+    "This rule applies in all cases."
    ],
-   "inference": "The verse says the external mantra, accompanied by limbs, counts as the sixth, and the sixfold is declared everywhere.",
-   "uncertainties": [
-    "compound segmentation approximate"
-   ],
-   "plain_english": "But the external mantra, accompanied there by limbs, would be sixth; everywhere this sixfold is declared."
+   "inference": "In every case, the invoked mantra together with its limbs functions as the sixth part of the sixfold installation.",
+   "uncertainties": [],
+   "plain_english": "But the mantra that is invoked, endowed with its limbs, should be the sixth. Thus in all cases this installation is stated as sixfold."
   },
   {
    "verse": 259,
@@ -403,247 +1133,239 @@
     {
      "surface": "mudrāpradarśanaṃ",
      "gloss": "showing-of-seals",
-     "grounds": "nominative",
-     "morph": "n.nom.sg"
+     "grounds": "the display of mudrās",
+     "morph": "n.nom.sg (compound)"
     },
     {
      "surface": "paścātkāyena",
      "gloss": "afterward-by-body",
-     "grounds": "instrumental",
-     "morph": "m.inst.sg"
+     "grounds": "afterward by the body",
+     "morph": "paścāt (indecl.) + kāyena m.ins.sg"
     },
     {
      "surface": "manasā",
      "gloss": "by-mind",
-     "grounds": "instrumental",
-     "morph": "n.inst.sg"
+     "grounds": "by the mind",
+     "morph": "n.ins.sg"
     },
     {
      "surface": "girā",
      "gloss": "by-speech",
-     "grounds": "instrumental",
-     "morph": "f.inst.sg"
+     "grounds": "by speech",
+     "morph": "f.ins.sg"
     },
     {
      "surface": "pañcāvasthā",
      "gloss": "five-states",
-     "grounds": "nominative plural",
-     "morph": "f.nom.pl"
+     "grounds": "the five states",
+     "morph": "f.nom.pl (compound)"
     },
     {
      "surface": "jāgradādyāḥ",
-     "gloss": "waking-and-so-forth",
-     "grounds": "nominative plural",
-     "morph": "f.nom.pl"
+     "gloss": "beginning-with-waking",
+     "grounds": "beginning with waking",
+     "morph": "f.nom.pl (compound)"
     },
     {
      "surface": "ṣaṣṭhyanuttaranāmikā",
-     "gloss": "sixth-supreme-named",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "sixth-named-unsurpassed",
+     "grounds": "the sixth named the unsurpassed",
+     "morph": "f.nom.sg (compound)"
     }
    ],
-   "question": "What follows the showing of seals?",
+   "question": "What ritual and experiential elements follow the installation in this sequence?",
    "premises": [
-    "showing of seals comes afterward",
-    "by body mind and speech",
-    "five states waking and so forth",
-    "sixth supreme named"
+    "Afterward the mudrās are displayed by body, mind, and speech.",
+    "There are five states beginning with waking.",
+    "A sixth state is named the unsurpassed."
    ],
-   "inference": "The verse lists the five states and the sixth supreme state after showing seals.",
-   "uncertainties": [
-    "compound segmentation approximate"
-   ],
-   "plain_english": "Afterward, by body, mind, and speech, the five states beginning with waking, and the sixth supreme-named state, are shown."
+   "inference": "The rite continues with mudrā display through body, mind, and speech and culminates in the sixth unsurpassed state beyond the five.",
+   "uncertainties": [],
+   "plain_english": "Afterward come the display of mudrās by body, mind, and speech. There are the five states beginning with waking, and a sixth called the unsurpassed."
   },
   {
    "verse": 260,
    "rows": [
     {
      "surface": "ṣaṭkāraṇaṣaḍātmatvātṣaṭtriṃśattattvayojanam",
-     "gloss": "because-six-causes-six-selves-thirty-six-principles-joining",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "from-six-cause-six-selfhood-joining-thirty-six-principles",
+     "grounds": "because of six causes and sixfold selfhood, the joining of the thirty-six principles",
+     "morph": "n.nom.sg (compound)"
     },
     {
      "surface": "evaṃ",
      "gloss": "thus",
-     "grounds": "adverb",
+     "grounds": "thus",
      "morph": "(indecl.)"
     },
     {
      "surface": "ṣoḍhāmahānyāse",
-     "gloss": "in-sixfold-great-installation",
-     "grounds": "locative",
-     "morph": "m.loc.sg"
+     "gloss": "in-the-sixfold-great-installation",
+     "grounds": "in the sixfold great installation",
+     "morph": "m.loc.sg (compound)"
     },
     {
      "surface": "kṛte",
      "gloss": "when-done",
-     "grounds": "locative participle",
-     "morph": "m.loc.sg.pass.part"
+     "grounds": "when performed",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "viśvamidaṃ",
      "gloss": "this-universe",
-     "grounds": "nominative",
-     "morph": "n.nom.sg"
+     "grounds": "this universe",
+     "morph": "viśvam n.nom.sg + idam n.nom.sg"
     },
     {
      "surface": "haṭhāt",
-     "gloss": "suddenly",
-     "grounds": "adverb",
+     "gloss": "forcibly",
+     "grounds": "powerfully",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What happens when the sixfold great installation is done?",
+   "question": "What cosmic integration is achieved when the sixfold great installation is performed?",
    "premises": [
-    "because of six causes and six selves",
-    "thirty-six principles are joined",
-    "thus in sixfold great installation when done",
-    "this universe suddenly"
+    "The rite involves six causes, sixfold selfhood, and the joining of the thirty-six principles.",
+    "When the sixfold great installation is performed, this integration is enacted.",
+    "The whole universe is drawn into that integration."
    ],
-   "inference": "The verse says that when the sixfold great installation is done, this universe is suddenly joined through the thirty-six principles.",
+   "inference": "The sixfold great installation integrates the thirty-six principles and powerfully unites the universe within the rite.",
    "uncertainties": [
-    "compound segmentation approximate"
+    "The compound ṣaṭkāraṇaṣaḍātmatvāt is dense; the gloss follows the most direct reading."
    ],
-   "plain_english": "Because of six causes and six selves, the thirty-six principles are joined; thus, when the sixfold great installation is done, this universe suddenly arises."
+   "plain_english": "Because of the six causes, the sixfold selfhood, and the joining of the thirty-six principles, when the sixfold great installation is performed, this whole universe is powerfully brought into unity."
   },
   {
    "verse": 261,
    "rows": [
     {
      "surface": "dehe",
-     "gloss": "in-body",
-     "grounds": "locative",
+     "gloss": "in-the-body",
+     "grounds": "in the body",
      "morph": "m.loc.sg"
     },
     {
      "surface": "tādātmyamāpannaṃ",
-     "gloss": "having-attained-identity",
-     "grounds": "participle",
-     "morph": "n.nom.sg.pass.part"
+     "gloss": "attained-identity",
+     "grounds": "having attained identity",
+     "morph": "n.nom.sg (compound)"
     },
     {
      "surface": "śuddhāṃ",
      "gloss": "pure",
-     "grounds": "accusative",
+     "grounds": "pure",
      "morph": "f.acc.sg"
     },
     {
      "surface": "sṛṣṭiṃ",
-     "gloss": "creation",
-     "grounds": "accusative",
+     "gloss": "emanation",
+     "grounds": "emanation",
      "morph": "f.acc.sg"
     },
     {
      "surface": "prakāśayet",
-     "gloss": "would-manifest",
-     "grounds": "verb",
-     "morph": "3.sg.act.opt.+prakāś"
+     "gloss": "should-manifest",
+     "grounds": "should reveal",
+     "morph": "3.sg.optative (pra-kāś)"
     },
     {
      "surface": "mūrtinyāsātsamārabhya",
      "gloss": "beginning-from-form-installation",
-     "grounds": "ablative",
-     "morph": "m.abl.sg"
+     "grounds": "beginning from the installation of the form",
+     "morph": "mūrti-nyāsāt m.abl.sg (compound) + samārabhya (indecl.)"
     },
     {
      "surface": "yā",
      "gloss": "which",
-     "grounds": "relative pronoun",
+     "grounds": "which",
      "morph": "f.nom.sg"
     },
     {
      "surface": "sṛṣṭiḥ",
-     "gloss": "creation",
-     "grounds": "nominative",
+     "gloss": "emanation",
+     "grounds": "emanation",
      "morph": "f.nom.sg"
     },
     {
      "surface": "prasṛtātra",
-     "gloss": "spread-here",
-     "grounds": "participle",
-     "morph": "f.nom.sg.pass.part"
+     "gloss": "spread-forth-here",
+     "grounds": "has spread forth here",
+     "morph": "prasṛtā f.nom.sg + atra (indecl.)"
     },
     {
      "surface": "sā",
      "gloss": "that",
-     "grounds": "demonstrative",
+     "grounds": "that",
      "morph": "f.nom.sg"
     }
    ],
-   "question": "What creation is manifested in the body?",
+   "question": "How does the emanation begun in the installation become a pure emanation in the body?",
    "premises": [
-    "in body having attained identity",
-    "pure creation would be manifested",
-    "beginning from form installation",
-    "which creation spread here that"
+    "The universe attains identity with the body through the rite.",
+    "Beginning from the installation of the form, an emanation spreads forth.",
+    "That emanation is to be revealed as pure."
    ],
-   "inference": "The verse says the pure creation, beginning from form installation, is manifested in the body.",
-   "uncertainties": [
-    "compound segmentation approximate"
-   ],
-   "plain_english": "In the body, having attained identity, pure creation would be manifested; beginning from form installation, that creation which has spread here."
+   "inference": "The emanation initiated by the form-installation is realized in the body as a pure emanation through identity.",
+   "uncertainties": [],
+   "plain_english": "Having attained identity in the body, one should reveal a pure emanation. Beginning from the installation of the form, the emanation that has spread forth here is that pure emanation."
   },
   {
    "verse": 262,
    "rows": [
     {
      "surface": "abhedamānīya",
-     "gloss": "having-considered-non-difference",
-     "grounds": "absolutive",
-     "morph": "abs."
+     "gloss": "having-brought-to-non-difference",
+     "grounds": "having brought to non-difference",
+     "morph": "(indecl., gerund)"
     },
     {
      "surface": "kṛtā",
-     "gloss": "done",
-     "grounds": "participle",
-     "morph": "f.nom.sg.pass.part"
+     "gloss": "made",
+     "grounds": "made",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "śuddhā",
      "gloss": "pure",
-     "grounds": "nominative",
+     "grounds": "pure",
      "morph": "f.nom.sg"
     },
     {
      "surface": "nyāsabalakramāt",
-     "gloss": "by-installation-power-order",
-     "grounds": "ablative",
-     "morph": "m.abl.sg"
+     "gloss": "by-the-power-and-order-of-installation",
+     "grounds": "by the force and sequence of the installation",
+     "morph": "m.abl.sg (compound)"
     },
     {
      "surface": "tena",
-     "gloss": "by-that",
-     "grounds": "instrumental",
-     "morph": "m.inst.sg"
+     "gloss": "therefore",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ye@codayanmūḍhāḥ",
-     "gloss": "fools-who-urge",
-     "grounds": "nominative plural",
-     "morph": "m.nom.pl"
+     "gloss": "those-fools-who-object",
+     "grounds": "those deluded ones who object",
+     "morph": "ye m.nom.pl + codayan 3.pl.imperfect (cud) + mūḍhāḥ m.nom.pl"
     },
     {
      "surface": "pāśadāhavidhūnane",
-     "gloss": "in-burning-bonds-shaking-off",
-     "grounds": "locative",
-     "morph": "n.loc.sg"
+     "gloss": "in-shaking-off-the-burning-of-bonds",
+     "grounds": "regarding the shaking off of the burning of bonds",
+     "morph": "n.loc.sg (compound)"
     }
    ],
-   "question": "What do fools urge about burning bonds?",
+   "question": "Why is the objection about returning after burning the bonds misplaced?",
    "premises": [
-    "having considered non-difference done",
-    "pure by installation power order",
-    "by that fools who urge",
-    "in burning bonds shaking off"
+    "The emanation is made pure by bringing it to non-difference through the power of installation.",
+    "This process concerns the shaking off of the burning of bonds.",
+    "Some deluded people object to this process."
    ],
-   "inference": "The verse says fools urge something about burning and shaking off bonds, despite the pure installation order.",
+   "inference": "Because the rite establishes non-difference and purity, objections about reverting after the bonds are burned arise from misunderstanding.",
    "uncertainties": [
-    "compound segmentation approximate"
+    "The exact nuance of pāśadāhavidhūnane is compact; it is read as the removal that follows the burning of bonds."
    ],
-   "plain_english": "Having considered non-difference, done purely by installation power order, by that fools who urge in burning and shaking off bonds."
+   "plain_english": "By the power and order of the installation, the emanation is brought to non-difference and made pure. Therefore those deluded people who object regarding the shaking off of the burning of bonds are mistaken."
   },
   {
    "verse": 263,
@@ -651,94 +1373,91 @@
     {
      "surface": "kṛte",
      "gloss": "when-done",
-     "grounds": "locative participle",
-     "morph": "m.loc.sg.pass.part"
+     "grounds": "when accomplished",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "śānte",
-     "gloss": "peaceful",
-     "grounds": "locative",
+     "gloss": "in-the-peaceful",
+     "grounds": "in the peaceful",
      "morph": "m.loc.sg"
     },
     {
      "surface": "śive",
      "gloss": "in-shiva",
-     "grounds": "locative",
+     "grounds": "in Shiva",
      "morph": "m.loc.sg"
     },
     {
      "surface": "rūḍhaḥ",
      "gloss": "established",
-     "grounds": "nominative",
-     "morph": "m.nom.sg.pass.part"
+     "grounds": "firmly established",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "punaḥ",
      "gloss": "again",
-     "grounds": "adverb",
+     "grounds": "again",
      "morph": "(indecl.)"
     },
     {
      "surface": "kimavarohati",
-     "gloss": "why-would-descend",
-     "grounds": "verb",
-     "morph": "3.sg.act.ind.+avaruh"
+     "gloss": "why-does-he-descend",
+     "grounds": "why does he descend",
+     "morph": "kim (indecl.) + avarohati 3.sg.present (ava-ruh)"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "particle",
+     "grounds": "thus",
      "morph": "(indecl.)"
     },
     {
      "surface": "te",
      "gloss": "they",
-     "grounds": "nominative plural",
+     "grounds": "they",
      "morph": "m.nom.pl"
     },
     {
      "surface": "dūrato",
-     "gloss": "from-afar",
-     "grounds": "adverb",
+     "gloss": "from-far-away",
+     "grounds": "from afar",
      "morph": "(indecl.)"
     },
     {
      "surface": "dhvastāḥ",
-     "gloss": "destroyed",
-     "grounds": "nominative plural",
-     "morph": "m.nom.pl.pass.part"
+     "gloss": "ruined",
+     "grounds": "refuted",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "paramārthaṃ",
-     "gloss": "supreme-truth",
-     "grounds": "accusative",
-     "morph": "m.acc.sg"
+     "gloss": "ultimate-truth",
+     "grounds": "the ultimate reality",
+     "morph": "m.acc.sg (compound)"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "particle",
+     "grounds": "for",
      "morph": "(indecl.)"
     },
     {
      "surface": "śāṃbhavam",
-     "gloss": "shambhava",
-     "grounds": "accusative",
+     "gloss": "of-shambhu",
+     "grounds": "belonging to Śambhu",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "Why would one established in peaceful Shiva descend again?",
+   "question": "What is wrong with asking why one established in peaceful Shiva would descend again?",
    "premises": [
-    "when done peaceful in shiva",
-    "established again why would descend",
-    "thus they from afar destroyed",
-    "supreme truth indeed shambhava"
+    "The objection asks why one established in peaceful Shiva would descend again.",
+    "Such an objection assumes a fall from that establishment.",
+    "The objectors do not understand the ultimate reality of Śambhu."
    ],
-   "inference": "The verse asks why one established in peaceful Shiva would descend again, and says such doubters are destroyed from afar.",
-   "uncertainties": [
-    "compound segmentation approximate"
-   ],
-   "plain_english": "When done, established in peaceful Shiva, why would one descend again? Thus they are destroyed from afar; indeed the supreme truth is Shambhava."
+   "inference": "The objection is refuted because it misunderstands the Śaiva ultimate reality in which establishment in Shiva is not a reversible state.",
+   "uncertainties": [],
+   "plain_english": "When one is established in peaceful Shiva, why would he descend again? Those who ask this are refuted from the outset, for they do not understand the ultimate reality of Śambhu."
   },
   {
    "verse": 264,
@@ -746,70 +1465,67 @@
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "not",
      "morph": "(indecl.)"
     },
     {
      "surface": "vidusta",
      "gloss": "they-know",
-     "grounds": "verb",
-     "morph": "3.pl.act.ind.+vid"
+     "grounds": "they know",
+     "morph": "na (indecl.) + viduḥ 3.pl.perfect (vid)"
     },
     {
      "surface": "svasaṃvittisphurattāsāravarjitāḥ",
-     "gloss": "devoid-of-essence-of-self-awareness-throb",
-     "grounds": "compound",
-     "morph": "compound"
+     "gloss": "devoid-of-essence-of-flashing-own-awareness",
+     "grounds": "devoid of the essence of the flashing of their own awareness",
+     "morph": "m.nom.pl (compound)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "not",
      "morph": "(indecl.)"
     },
     {
      "surface": "khalveṣa",
      "gloss": "indeed-this",
-     "grounds": "nominative",
-     "morph": "m.nom.sg"
+     "grounds": "indeed this",
+     "morph": "khalu (indecl.) + eṣaḥ m.nom.sg"
     },
     {
      "surface": "śivaḥ",
      "gloss": "shiva",
-     "grounds": "nominative",
+     "grounds": "Shiva",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śānto",
      "gloss": "peaceful",
-     "grounds": "nominative",
+     "grounds": "peaceful",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nāma",
-     "gloss": "named",
-     "grounds": "particle",
+     "gloss": "by-name",
+     "grounds": "as it were",
      "morph": "(indecl.)"
     },
     {
      "surface": "kaścidvibhedavān",
-     "gloss": "some-differentiated-one",
-     "grounds": "nominative",
-     "morph": "m.nom.sg"
+     "gloss": "some-differentiated-thing",
+     "grounds": "some differentiated entity",
+     "morph": "kaścit m.nom.sg + vibhedavān m.nom.sg (compound)"
     }
    ],
-   "question": "What do those devoid of self-awareness essence not know?",
+   "question": "Why do the objectors fail to understand the nature of peaceful Shiva?",
    "premises": [
-    "they do not know",
-    "devoid of essence of self-awareness throb",
-    "not indeed this shiva peaceful named",
-    "some differentiated one"
+    "The objectors are devoid of the essence of the flashing of their own awareness.",
+    "Because of this, they do not know the truth.",
+    "Peaceful Shiva is not some differentiated entity."
    ],
-   "inference": "The verse says those lacking the essence of self-awareness do not know that peaceful Shiva is not some differentiated being.",
-   "uncertainties": [
-    "compound segmentation approximate"
-   ],
-   "plain_english": "They do not know, being devoid of the essence of self-awareness throb; indeed this Shiva, peaceful-named, is not some differentiated one."
+   "inference": "Lacking the living essence of self-awareness, the objectors misconceive peaceful Shiva as a differentiated thing.",
+   "uncertainties": [],
+   "plain_english": "They do not know, because they are devoid of the essence of the flashing of their own awareness. For this peaceful Shiva is not some differentiated entity."
   }
  ]
 }
