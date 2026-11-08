@@ -4,8 +4,9 @@
 # heartbeat. Idempotent; safe to kill and restart. Never forces a PASS.
 set -u
 cd /root/translation-work || exit 1
-# Base worker slot. Owner directive: start ONE, let ralph stagger up to 3 max.
-WORKERS=${WORKERS:-1}
+# Worker target (max 3). Owner directive: START ONE, add one more per healthy
+# pass, never exceed 3. start_workers() enforces the stagger.
+WORKERS=${WORKERS:-3}
 STALL_MINS=${STALL_MINS:-25}
 LOGDIR=process/beam
 WD_LOG=$LOGDIR/watchdog.log
@@ -14,10 +15,22 @@ export OPENCODE_GO_KEY="$(agent-vault vault credential get OPENCODE_GO_KEY --vau
 log(){ echo "[wd $(date -u +%FT%TZ)] $*" | tee -a "$WD_LOG"; }
 
 start_workers(){
-  for w in $(seq 1 "$WORKERS"); do
+  # STAGGERED: bring up at most ONE new slot per healthy pass, and only if all
+  # lower slots are already alive. So w1 first, then w2 next pass, then w3 —
+  # never more than WORKERS (hard cap 3). Health gate prevents adding on 429.
+  local target=$WORKERS
+  [ "$target" -gt 3 ] && target=3
+  local w
+  for w in $(seq 1 "$target"); do
     if ! pgrep -f "beam_swarm.py worker w$w" >/dev/null 2>&1; then
+      local ok=1 p
+      for p in $(seq 1 $((w - 1))); do
+        pgrep -f "beam_swarm.py worker w$p" >/dev/null 2>&1 || ok=0
+      done
+      [ "$ok" = 1 ] || break      # previous slot not up yet — wait
       setsid nohup python3 tools/beam_swarm.py worker "w$w" > "$LOGDIR/w$w.log" 2>&1 < /dev/null &
-      log "started worker w$w"
+      log "started worker w$w (staggered, target=$target)"
+      break                        # exactly one new slot this pass
     fi
   done
 }
