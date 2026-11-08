@@ -1,41 +1,41 @@
 {
- "song": "tal-a28",
- "verse": 297,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "prāṇacakraṃ",
-   "morph": "n.nom.sg, compound = prāṇa+cakra",
-   "grounds": "system of vital breaths"
+   "lemma": "prāṇacakra",
+   "morph": "n.nom/acc.sg",
+   "grounds": "prāṇacakraṃ = breath-circle (nom/acc.sg neuter; context ambiguous)"
   },
   {
-   "lemma": "tadāyattamapi",
-   "morph": "n.nom.sg + (indecl.), compound = tad+āyatta",
-   "grounds": "breath follows mental control"
+   "lemma": "tadāyatta",
+   "morph": "m/n.nom/acc.sg + indecl.",
+   "grounds": "tadāyattam + api = dependent-on-that-also (compound adjective + enclitic indeclinable)"
   },
   {
-   "lemma": "saṃcarate",
-   "morph": "3.sg.present-middle, sam+√car",
-   "grounds": "circulates along the path"
+   "lemma": "saṃcar",
+   "morph": "3sg.pres.mid √saṃ-car",
+   "grounds": "saṃcarate = moves (present middle)"
   },
   {
-   "lemma": "pathā",
-   "morph": "m.ins.sg",
-   "grounds": "route of movement"
+   "lemma": "pathin",
+   "morph": "m.inst.sg",
+   "grounds": "pathā = along-the-path (instrumental singular)"
   },
   {
-   "lemma": "tenaivātaḥ",
-   "morph": "n.ins.sg + (indecl.) + (indecl.)",
-   "grounds": "causal consequence"
+   "lemma": "tad + eva + atas",
+   "morph": "indecl. + indecl. + indecl.",
+   "grounds": "tena + eva + ataḥ = by-that-very-therefore (sandhi compound of indeclinable/pronominal forms)"
   },
   {
-   "lemma": "prabuddhyeta",
-   "morph": "3.sg.optative-passive, pra+√budh",
-   "grounds": "becomes active or enlivened"
+   "lemma": "prabudh",
+   "morph": "3sg.opt.mid √pra-budh",
+   "grounds": "prabuddhyeta = would-awaken (optative middle)"
   },
   {
-   "lemma": "paradehe@kṣacakrakam",
-   "morph": "m.loc.sg + n.nom.sg, compound = para+deha+akṣa+cakraka",
-   "grounds": "the set of senses in the other body"
+   "lemma": "paradehākṣacakraka",
+   "morph": "n.loc.sg",
+   "grounds": "paradehe + akṣacakrakam = in-another-body-sense-circle (locative singular of compound; sandhi split indicated by @)"
   }
  ]
 }

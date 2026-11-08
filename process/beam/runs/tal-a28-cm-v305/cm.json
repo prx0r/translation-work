@@ -1,51 +1,51 @@
 {
- "song": "tal-a28",
- "verse": 305,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ato",
-   "morph": "(indecl.)",
-   "grounds": "consequence of incomplete knowledge"
+   "lemma": "atas",
+   "morph": "indecl.",
+   "grounds": "ato = therefore (indeclinable)"
   },
   {
-   "lemma": "dehe",
+   "lemma": "deha",
    "morph": "m.loc.sg",
-   "grounds": "while embodied"
+   "grounds": "dehe = in-body (locative singular of deha)"
   },
   {
-   "lemma": "pramādottho",
-   "morph": "m.nom.sg, compound = pramāda+uttha",
-   "grounds": "thought arising from lapse"
+   "lemma": "pramādottha",
+   "morph": "m.nom.sg (pramāda+uttha)",
+   "grounds": "pramādottho = arisen-from-carelessness (bahuvrīhi/tatpuruṣa compound, nominative singular masculine)"
   },
   {
-   "lemma": "vikalpo",
+   "lemma": "vikalpa",
    "morph": "m.nom.sg",
-   "grounds": "discursive mental construction"
+   "grounds": "vikalpo = conceptual-thought (nominative singular masculine)"
   },
   {
-   "lemma": "dehapātataḥ",
-   "morph": "m.abl.sg, compound = deha+pāta",
-   "grounds": "at the fall of the body"
+   "lemma": "dehapāta",
+   "morph": "m.abl.sg (deha+pāta+tas)",
+   "grounds": "dehapātataḥ = from-body-fall (compound with ablative suffix -tas)"
   },
   {
-   "lemma": "naśyedavaśyaṃ",
-   "morph": "3.sg.optative-active, √naś + (indecl.)",
-   "grounds": "must disappear"
+   "lemma": "naśyedavaśyam",
+   "morph": "3sg.opt.act √naś + indecl. (naśyet+avaśyam)",
+   "grounds": "naśyedavaśyaṃ = would-perish-necessarily (sandhi of naśyet, optative of √naś, and avaśyam)"
   },
   {
    "lemma": "taccāpi",
-   "morph": "n.nom.sg + (indecl.) + (indecl.)",
-   "grounds": "adds further point"
+   "morph": "indecl. (tat+ca+api)",
+   "grounds": "taccāpi = and-that-also (sandhi compound of tat, ca, api)"
   },
   {
-   "lemma": "budhyate",
-   "morph": "3.sg.present-passive, √budh",
-   "grounds": "is recognized or realized"
+   "lemma": "budh",
+   "morph": "3sg.pres.pass √budh",
+   "grounds": "budhyate = is-known (present passive, 3rd singular)"
   },
   {
-   "lemma": "jñānamuttamam",
-   "morph": "n.nom.sg, compound = jñāna+uttama",
-   "grounds": "highest knowledge"
+   "lemma": "jñānamuttama",
+   "morph": "n.nom.sg (jñāna+uttama)",
+   "grounds": "jñānamuttamam = knowledge-supreme (karmadhāraya compound, nominative singular neuter)"
   }
  ]
 }

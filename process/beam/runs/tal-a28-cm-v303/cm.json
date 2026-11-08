@@ -1,61 +1,61 @@
 {
- "song": "tal-a28",
- "verse": 303,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ye",
+   "lemma": "yad",
    "morph": "m.nom.pl",
-   "grounds": "introduces knowers"
+   "grounds": "ye = who; relative pronoun, masculine nominative plural"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "contrastive particle"
+   "morph": "indecl.",
+   "grounds": "tu = but; indeclinable particle"
   },
   {
-   "lemma": "vijñāninaste@tra",
-   "morph": "m.nom.pl + m.nom.pl + (indecl.)",
-   "grounds": "class of knowers in this context"
+   "lemma": "vijñānin + tad + atra",
+   "morph": "sandhi(m.nom.pl + m.nom.pl + indecl.)",
+   "grounds": "vijñāninaste@tra = knowers-they-here; vijñāninaḥ (m.nom.pl of vijñānin) + te (m.nom.pl of tad) + atra (indeclinable)"
   },
   {
    "lemma": "dvedhā",
-   "morph": "(indecl.)",
-   "grounds": "divided into two kinds"
+   "morph": "indecl.",
+   "grounds": "dvedhā = twofold; indeclinable adverb"
   },
   {
-   "lemma": "kampretaratvataḥ",
-   "morph": "(indecl.), compound = kampa+itara+tva+tas",
-   "grounds": "basis of the twofold division"
+   "lemma": "kampetaratva",
+   "morph": "n.abl.sg",
+   "grounds": "kampretaratvataḥ = from-trembling-and-otherness; compound kampa + itara + tva with ablative singular suffix -tas"
   },
   {
    "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "within that division"
+   "morph": "indecl.",
+   "grounds": "tatra = there; indeclinable adverb"
   },
   {
-   "lemma": "ye",
+   "lemma": "yad",
    "morph": "m.nom.pl",
-   "grounds": "specifies one subgroup"
+   "grounds": "ye = who; relative pronoun, masculine nominative plural"
   },
   {
-   "lemma": "kampravijñānāste",
-   "morph": "m.nom.pl + m.nom.pl, compound = kampa+vijñāna",
-   "grounds": "knowers whose realization trembles"
+   "lemma": "kampavijñāna + tad",
+   "morph": "sandhi(m.nom.pl + m.nom.pl)",
+   "grounds": "kampravijñānāste = trembling-knowers-they; kampravijñānāḥ (m.nom.pl of kampavijñāna compound) + te (m.nom.pl of tad)"
   },
   {
-   "lemma": "dehānted",
-   "morph": "m.loc.sg, compound = deha+anta",
-   "grounds": "at the time of death"
+   "lemma": "dehānta",
+   "morph": "m.loc.sg",
+   "grounds": "dehānted = at-body-end; dehānte (m.loc.sg of dehānta); final 'd' likely sandhi artifact (AMBIGUOUS)"
   },
   {
-   "lemma": "śivāḥ",
+   "lemma": "śiva",
    "morph": "m.nom.pl",
-   "grounds": "attain Śiva-state"
+   "grounds": "śivāḥ = shivas; masculine nominative plural"
   },
   {
    "lemma": "sphuṭam",
-   "morph": "(indecl.)",
-   "grounds": "stated as clear result"
+   "morph": "indecl.",
+   "grounds": "sphuṭam = clearly; indeclinable adverb"
   }
  ]
 }

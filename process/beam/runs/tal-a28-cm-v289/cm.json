@@ -1,36 +1,36 @@
 {
- "song": "tal-a28",
- "verse": 289,
+ "song": "...",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ata",
-   "morph": "(indecl.)",
-   "grounds": "conclusion marker from prior argument"
+   "lemma": "atas",
+   "morph": "indecl.",
+   "grounds": "ata = therefore (indeclinable)"
   },
   {
    "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "morph": "indecl.",
+   "grounds": "eva = indeed (indeclinable)"
   },
   {
-   "lemma": "prabuddho@pi",
-   "morph": "m.nom.sg + (indecl.)",
-   "grounds": "awakened person despite experiences"
+   "lemma": "prabuddha",
+   "morph": "m.nom.sg",
+   "grounds": "prabuddho@pi = even-awakened; prabuddhaḥ (m.nom.sg, past participle) + api (indecl.)"
   },
   {
-   "lemma": "karmotthānbhogarūpiṇaḥ",
-   "morph": "m.acc.pl, compound = karman+uttha+bhoga+rūpin",
-   "grounds": "experiences shaped as enjoyment from karma"
+   "lemma": "karmotthabhogarūpin",
+   "morph": "m.acc.pl",
+   "grounds": "karmotthānbhogarūpiṇaḥ = karma-arisen-enjoyment-formed (compound adjective, m.acc.pl; AMBIGUOUS: could also be m.gen.sg in some contexts)"
   },
   {
-   "lemma": "yamakiṅkarasarpādipratyayāndehago",
-   "morph": "m.nom.sg, compound = yama+kiṅkara+sarpa+ādi+pratyaya+deha+ga",
-   "grounds": "perceptions like Yama's servants or snakes while in body"
+   "lemma": "yamakiṅkarasarpādipratyayadehaga",
+   "morph": "m.nom.sg",
+   "grounds": "yamakiṅkarasarpādipratyayāndehago = Yama-servant-snake-etc-perceptions-body-dwelling (compound, m.nom.sg; sandhi: -ān + dehagaḥ)"
   },
   {
-   "lemma": "bhajet",
-   "morph": "3.sg.optative-active, √bhaj",
-   "grounds": "possible undergoing of such perceptions"
+   "lemma": "bhaj",
+   "morph": "3sg.opt.act √bhaj",
+   "grounds": "bhajet = may-experience (3sg optative active, root √bhaj)"
   }
  ]
 }

@@ -1,51 +1,51 @@
 {
- "song": "tal-a28",
- "verse": 284,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ye",
-   "morph": "pron.nom.pl",
-   "grounds": "those persons who"
+   "lemma": "yad",
+   "morph": "m.nom.pl",
+   "grounds": "ye = those-who"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "however"
+   "morph": "indecl.",
+   "grounds": "tu = but"
   },
   {
-   "lemma": "kaivalyabhāgīyāḥ",
+   "lemma": "kaivalyabhāgīya",
    "morph": "m.nom.pl",
-   "grounds": "those destined for kaivalya"
+   "grounds": "kaivalyabhāgīyāḥ = belonging-to-isolation"
   },
   {
-   "lemma": "svāsthye@nunmiṣitāḥ",
-   "morph": "n.loc.sg + m.nom.pl",
-   "grounds": "not manifest when healthy"
+   "lemma": "anunmiṣita",
+   "morph": "m.nom.pl",
+   "grounds": "svāsthye@nunmiṣitāḥ = not-manifest-in-good-health (loc. svasthya + neg. participle; AMBIGUOUS sandhi split)"
   },
   {
    "lemma": "sadā",
-   "morph": "(indecl.)",
-   "grounds": "at all times"
+   "morph": "indecl.",
+   "grounds": "sadā = always"
   },
   {
-   "lemma": "asvāsthye",
+   "lemma": "asvāsthya",
    "morph": "n.loc.sg",
-   "grounds": "in an unhealthy state"
+   "grounds": "asvāsthye = in-poor-health"
   },
   {
-   "lemma": "conmiṣantyete",
-   "morph": "(indecl.) + 3.pl.pres.act ud-√miṣ + pron.nom.pl",
-   "grounds": "and these manifest"
+   "lemma": "ud-√miṣ",
+   "morph": "3pl.pres.act + etad.m.nom.pl",
+   "grounds": "conmiṣantyete = and-these-open-up (conmiṣanti 3pl.pres.act √miṣ with ud + ete; AMBIGUOUS token fusion)"
   },
   {
-   "lemma": "saṃskārāḥ",
+   "lemma": "saṃskāra",
    "morph": "m.nom.pl",
-   "grounds": "residual impressions"
+   "grounds": "saṃskārāḥ = latent-impressions"
   },
   {
-   "lemma": "śaktipātataḥ",
+   "lemma": "śaktipāta",
    "morph": "m.abl.sg",
-   "grounds": "due to the descent of power"
+   "grounds": "śaktipātataḥ = from-the-descent-of-power (abl. with -tas suffix)"
   }
  ]
 }

@@ -1,41 +1,41 @@
 {
- "song": "tal-a28",
- "verse": 298,
+ "song": "unknown",
+ "verse": 1,
  "rows": [
   {
    "lemma": "makṣikā",
-   "morph": "f.nom.pl",
-   "grounds": "analogy for the senses"
+   "morph": "f.nom.sg",
+   "grounds": "Gloss 'bees' (pl. sense) but surface form makṣikā is f.nom.sg of makṣikā; AMBIGUOUS: could be sg. referring collectively."
   },
   {
-   "lemma": "makṣikārājaṃ",
-   "morph": "m.acc.sg, compound = makṣikā+rāja",
-   "grounds": "analogy for the mind"
+   "lemma": "makṣikārāja",
+   "morph": "m.acc.sg",
+   "grounds": "Compound makṣikā + rāja (tatpuruṣa); gloss 'bee-king', form -rājaṃ shows m.acc.sg ending."
   },
   {
    "lemma": "yathotthitamanūtthitāḥ",
-   "morph": "f.nom.pl, compound = yathā+utthita+anu+utthita",
-   "grounds": "followers rise when leader rises"
+   "morph": "compound",
+   "grounds": "Compound member+membership: yathā + utthita + anu + utthitāḥ (avyaya + pp. + upasarga/pp.); gloss 'as-risen-follow-rising'; AMBIGUOUS: internal sandhi and exact membership (bahuvrīhi/tatpuruṣa) uncertain from form alone."
   },
   {
-   "lemma": "sthitaṃ",
+   "lemma": "sthita",
    "morph": "m.acc.sg",
-   "grounds": "leader at rest"
+   "grounds": "PPP of √sthā; gloss 'settled', ending -aṃ matches m.acc.sg (also n.nom/acc.sg possible; AMBIGUOUS: gender/number not fully determined by context alone)."
   },
   {
-   "lemma": "cānuviśantyevaṃ",
-   "morph": "3.pl.present-active, anu+√viś + (indecl.)",
-   "grounds": "followers enter when leader settles"
+   "lemma": "cānuviśanti+evam",
+   "morph": "indecl.",
+   "grounds": "Cluster ca + anuviśanti + evam; gloss 'and-follow-enter-thus'. anuviśanti = 3pl.pres.act. √viś with anu (verb); ca and evam are indeclinables. AMBIGUOUS: treated as a sandhi cluster rather than a single lexical token."
   },
   {
-   "lemma": "cittaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "leader of the senses"
+   "lemma": "citta",
+   "morph": "n.nom.sg",
+   "grounds": "Gloss 'mind', form cittaṃ matches n.nom.sg/acc.sg of citta; AMBIGUOUS: nom. vs acc. not distinguishable by ending alone."
   },
   {
-   "lemma": "sarvākṣavṛttayaḥ",
-   "morph": "f.nom.pl, compound = sarva+akṣa+vṛtti",
-   "grounds": "activities of all senses"
+   "lemma": "sarvākṣavṛtti",
+   "morph": "f.nom.pl",
+   "grounds": "Compound sarva + akṣa + vṛtti (bahuvrīhi/tatpuruṣa, member+membership); gloss 'all-sense-activities', ending -ayaḥ matches f.nom.pl."
   }
  ]
 }

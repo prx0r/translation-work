@@ -1,51 +1,51 @@
 {
- "song": "tal-a28",
- "verse": 294,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "eteṣāṃ",
+   "lemma": "etad",
    "morph": "m.gen.pl",
-   "grounds": "refers to yogins using concentrations"
+   "grounds": "eteṣāṃ = of-these (gen.pl pronoun)"
   },
   {
-   "lemma": "maraṇābhikhyo",
-   "morph": "m.nom.sg, compound = maraṇa+abhikhya",
-   "grounds": "experience labeled as death"
-  },
-  {
-   "lemma": "bhogo",
+   "lemma": "maraṇābhikhya",
    "morph": "m.nom.sg",
-   "grounds": "undergoing associated with death"
+   "grounds": "maraṇābhikhyaḥ = called-death (bahuvrīhi/tatpuruṣa adj., nom.sg.m)"
+  },
+  {
+   "lemma": "bhoga",
+   "morph": "m.nom.sg",
+   "grounds": "bhogaḥ = experience (nom.sg.m noun)"
   },
   {
    "lemma": "nāsti",
-   "morph": "3.sg.present-active, √as",
-   "grounds": "denial of ordinary death experience"
+   "morph": "3sg.pres.act √as",
+   "grounds": "nāsti = does-not-exist (na + asti, 3sg.pres.act)"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "contrastive particle"
+   "morph": "indecl.",
+   "grounds": "tu = however (particle)"
   },
   {
-   "lemma": "ye",
+   "lemma": "yad",
    "morph": "m.nom.pl",
-   "grounds": "specifies the practitioners"
+   "grounds": "ye = who (nom.pl.m relative pronoun)"
   },
   {
-   "lemma": "tanum",
+   "lemma": "tanu",
    "morph": "f.acc.sg",
-   "grounds": "the body being left"
+   "grounds": "tanum = body (acc.sg.f noun)"
   },
   {
    "lemma": "dhāraṇābhistyajantyāśu",
-   "morph": "3.pl.present-active, compound = dhāraṇā+abhi+√tyaj + (indecl.)",
-   "grounds": "rapid departure through concentration"
+   "morph": "compound",
+   "grounds": "dhāraṇābhiḥ+tyajanti+āśu = by-concentrations-abandon-quickly (instrumental pl + 3pl.pres.act √tyaj + indecl.; compound/phrase analysis AMBIGUOUS)"
   },
   {
    "lemma": "paradehapraveśavat",
-   "morph": "(indecl.), compound = para+deha+praveśa+vat",
-   "grounds": "comparison to deliberate transfer"
+   "morph": "indecl.",
+   "grounds": "paradehapraveśavat = like-entering-another-body (para+deha+praveśa + vati, adverbial/indeclinable)"
   }
  ]
 }
