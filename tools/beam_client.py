@@ -96,9 +96,23 @@ def _log_use(session: str, model: str) -> None:
 
 def _key() -> str:
     k = os.environ.get('OPENCODE_GO_KEY', '')
-    if not k:
-        raise RuntimeError('OPENCODE_GO_KEY not set (pull from oracle vault)')
-    return k
+    if k:
+        return k
+    # Self-heal: workers/supervisors occasionally lose the inherited env
+    # (observed 2026-11-08: harness without the var while its children had
+    # it). Fall back to the vault directly rather than failing the call.
+    try:
+        import subprocess as _sp
+        r = _sp.run(['agent-vault', 'vault', 'credential', 'get',
+                     'OPENCODE_GO_KEY', '--vault', 'oracle'],
+                    capture_output=True, text=True, timeout=20)
+        if r.returncode == 0 and r.stdout.strip():
+            k = r.stdout.strip()
+            os.environ['OPENCODE_GO_KEY'] = k
+            return k
+    except Exception:
+        pass
+    raise RuntimeError('OPENCODE_GO_KEY not set (pull from oracle vault)')
 
 
 def _candidates() -> list[tuple[str, int]]:

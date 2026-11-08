@@ -89,6 +89,13 @@ log "harness start (workers: $HWORKERS)"
 i=0
 while true; do
   i=$((i+1)); log "=== pass $i ==="
+  # Re-assert the key every pass: supervisor env has been observed without
+  # it (workers inherit from whoever starts them; beam_client self-heals too,
+  # but keep the canonical export fresh regardless).
+  if [ -z "${OPENCODE_GO_KEY:-}" ]; then
+    export OPENCODE_GO_KEY="$(agent-vault vault credential get OPENCODE_GO_KEY --vault oracle 2>/dev/null || true)"
+    [ -n "${OPENCODE_GO_KEY:-}" ] && log "key re-asserted" || log "key MISSING — beam calls will fail"
+  fi
   if health_ok; then
     rm -f "$LOGDIR/PAUSED"
     log "beam healthy"
