@@ -1,0 +1,1511 @@
+{
+ "song": "Tantraloka a13",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stood",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantrādi",
+     "gloss": "mantra-and-so-forth",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃgṛhya",
+     "gloss": "having-gathered",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tyajetso@sya",
+     "gloss": "he-would-abandon-his",
+     "grounds": "token 4",
+     "morph": "verb"
+    },
+    {
+     "surface": "tirobhavaḥ",
+     "gloss": "concealment",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīsāraśāstre",
+     "gloss": "in-sri-sara-shastra",
+     "grounds": "token 6",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhagavānvastvetatsamabhāṣata",
+     "gloss": "the-blessed-one-declared-this",
+     "grounds": "token 7",
+     "morph": "verb"
+    }
+   ],
+   "question": "How does the blessed one describe concealment after gathering mantra and so forth?",
+   "premises": [
+    "Concealment follows gathering mantra and related means.",
+    "The blessed one declares this in the sri-sara-shastra."
+   ],
+   "inference": "Concealment is presented as a declared act after gathering.",
+   "uncertainties": [
+    "Compound boundaries in token 7 are unclear."
+   ],
+   "plain_english": "Having stood and gathered mantra and so forth, he would abandon his concealment; the blessed one declared this in the Sri Sara Shastra."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "dharmādharmātmakairbhāvairanekairveṣṭayetsvayam",
+     "gloss": "with-many-states-made-of-dharma-and-adharma-he-wraps-himself",
+     "grounds": "token 1",
+     "morph": "verb"
+    },
+    {
+     "surface": "asandehaṃ",
+     "gloss": "without-doubt",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svamātmānamavīcyādiśivāntake",
+     "gloss": "his-own-self-from-avicya-to-shiva-end",
+     "grounds": "token 3",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the self wrap itself in many dharma and adharma states?",
+   "premises": [
+    "The self wraps itself in many states.",
+    "Those states are made of dharma and adharma."
+   ],
+   "inference": "Self-wrapping spans from avicya to shiva-end without doubt.",
+   "uncertainties": [
+    "Token 1 contains multiple sandhi elements."
+   ],
+   "plain_english": "He wraps himself, without doubt, in many states made of dharma and adharma, from avicya to the end of shiva."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "tadvacchaktisamūhena",
+     "gloss": "by-a-group-of-powers-like-that",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viveṣṭayet",
+     "gloss": "he-wraps",
+     "grounds": "token 5",
+     "morph": "verb"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "badhnāti",
+     "gloss": "he-binds",
+     "grounds": "token 7",
+     "morph": "verb"
+    },
+    {
+     "surface": "deveśaḥ",
+     "gloss": "lord-of-gods",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "token 10",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vimuñcati",
+     "gloss": "he-releases",
+     "grounds": "token 11",
+     "morph": "verb"
+    }
+   ],
+   "question": "How does the lord of gods bind and release by his own power?",
+   "premises": [
+    "He wraps by a group of powers like that.",
+    "The lord of gods binds and releases himself."
+   ],
+   "inference": "Binding and releasing are both the lord's own acts.",
+   "uncertainties": [
+    "Exact relation of viveṣṭayet to badhnāti is compressed."
+   ],
+   "plain_english": "By a group of powers like that, he indeed wraps himself; the lord of gods binds and also releases himself."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhoktā",
+     "gloss": "enjoyer",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jñātā",
+     "gloss": "knower",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caivopalakṣayet",
+     "gloss": "and-he-marks",
+     "grounds": "token 6",
+     "morph": "verb"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhuktiśca",
+     "gloss": "and-enjoyment",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muktiśca",
+     "gloss": "and-liberation",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "token 10",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "token 11",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "token 12",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prabhuḥ",
+     "gloss": "lord",
+     "grounds": "token 13",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the lord himself enjoyer, knower, and marker of all?",
+   "premises": [
+    "He himself is enjoyer and knower.",
+    "He himself marks enjoyment and liberation."
+   ],
+   "inference": "The goddess and lord are also himself.",
+   "uncertainties": [
+    "Token 6 verb sense is broad."
+   ],
+   "plain_english": "He himself is enjoyer, knower, and marker; enjoyment and liberation are himself; the goddess and lord are himself."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "svayamekākṣarā",
+     "gloss": "himself-one-syllable",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yathoṣmā",
+     "gloss": "as-heat",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛṣṇavartmanaḥ",
+     "gloss": "of-black-path",
+     "grounds": "token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vastūktamatra",
+     "gloss": "thing-spoken-here",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "svātantryātsvātmarūpaprakāśanam",
+     "gloss": "by-freedom-self-form-manifestation",
+     "grounds": "token 6",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the one-syllable self compared to heat of black path?",
+   "premises": [
+    "The one-syllable self is spoken here.",
+    "Manifestation of self-form arises by freedom."
+   ],
+   "inference": "The comparison illustrates self-manifestation by freedom.",
+   "uncertainties": [
+    "Token 3 sandhi is opaque."
+   ],
+   "plain_english": "He himself is the one syllable; as heat of the black path, the thing spoken here is manifestation of self-form by freedom."
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "śrīmanniśākule@pyuktaṃ",
+     "gloss": "in-sri-nishakula-also-said",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "mithyābhāvitacetasaḥ",
+     "gloss": "those-with-minds-imagined-falsely",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "malamāyāvicāreṇa",
+     "gloss": "by-examination-of-impurity-and-illusion",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kliśyante",
+     "gloss": "they-suffer",
+     "grounds": "token 4",
+     "morph": "verb"
+    },
+    {
+     "surface": "svalpabuddhayaḥ",
+     "gloss": "small-minded-ones",
+     "grounds": "token 5",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why do small-minded ones suffer by examining impurity and illusion?",
+   "premises": [
+    "Small-minded ones have falsely imagined minds.",
+    "They suffer by examining impurity and illusion."
+   ],
+   "inference": "False imagination makes such examination painful.",
+   "uncertainties": [
+    "Token 1 compound segmentation is uncertain."
+   ],
+   "plain_english": "In Sri Nishakula it is also said: small-minded ones with falsely imagined minds suffer by examining impurity and illusion."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "sphaṭikopalago",
+     "gloss": "crystal-stone-dust",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "reṇuḥ",
+     "gloss": "dust",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kurutāṃ",
+     "gloss": "let-them-do",
+     "grounds": "token 5",
+     "morph": "verb"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "token 6",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vyomnīva",
+     "gloss": "as-in-sky",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nīlaṃ",
+     "gloss": "blue",
+     "grounds": "token 8",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "malaṃ",
+     "gloss": "impurity",
+     "grounds": "token 10",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "malaśaṃkāṃ",
+     "gloss": "suspicion-of-impurity",
+     "grounds": "token 11",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatastyajet",
+     "gloss": "from-that-abandon",
+     "grounds": "token 12",
+     "morph": "verb"
+    }
+   ],
+   "question": "Why should suspicion of impurity be abandoned like dust on crystal?",
+   "premises": [
+    "Dust does not affect crystal's nature.",
+    "Impurity-suspicion should be abandoned from that."
+   ],
+   "inference": "Impurity is superficial like dust, not essential.",
+   "uncertainties": [
+    "Token 1 compound is awkward."
+   ],
+   "plain_english": "Dear one, what can dust do to crystal? As blue in the sky, abandon suspicion of impurity from that."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "śrīmānvidyāguruścāha",
+     "gloss": "the-glorious-knowledge-teacher-said",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "pramāṇastutidarśane",
+     "gloss": "in-view-of-proof-and-praise",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dharmādharmavyāptivināśāntarakāle",
+     "gloss": "at-time-of-destruction-of-dharma-adharma-pervasion",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śakteḥ",
+     "gloss": "of-power",
+     "grounds": "token 4",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pāto",
+     "gloss": "descent",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gāhanikairyaḥ",
+     "gloss": "by-those-who-conceal",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratipannaḥ",
+     "gloss": "accepted",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When does descent of power occur according to the knowledge teacher?",
+   "premises": [
+    "The knowledge teacher speaks of proof and praise.",
+    "Descent of power is accepted by those who conceal."
+   ],
+   "inference": "Descent occurs at destruction of dharma-adharma pervasion.",
+   "uncertainties": [
+    "Token 6 is obscure."
+   ],
+   "plain_english": "The glorious knowledge teacher said: in view of proof and praise, at the time of destruction of dharma-adharma pervasion, descent of power is accepted by those who conceal."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svecchātaḥ",
+     "gloss": "by-own-will",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃgiramāṇāḥ",
+     "gloss": "agreeing",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "stavakādyāḥ",
+     "gloss": "hymns-and-so-forth",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "svātantryaṃ",
+     "gloss": "freedom",
+     "grounds": "token 5",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattvayyanapekṣaṃ",
+     "gloss": "independent-of-principles",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathayeyuḥ",
+     "gloss": "they-would-declare",
+     "grounds": "token 7",
+     "morph": "verb"
+    },
+    {
+     "surface": "tāratamyaprakāśo",
+     "gloss": "manifestation-of-gradation",
+     "grounds": "token 8",
+     "morph": "compound"
+    },
+    {
+     "surface": "yastīvramadhyamamandatāḥ",
+     "gloss": "which-intense-moderate-mild",
+     "grounds": "token 9",
+     "morph": "compound"
+    }
+   ],
+   "question": "How do hymns declare freedom independent of principles?",
+   "premises": [
+    "They agree by own will.",
+    "They declare freedom independent of principles."
+   ],
+   "inference": "Gradation manifests as intense, moderate, and mild.",
+   "uncertainties": [
+    "Token 9 is a compressed list."
+   ],
+   "plain_english": "Agreeing by own will, hymns and so forth would declare freedom independent of principles; gradation manifests as intense, moderate, and mild."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "tā",
+     "gloss": "those",
+     "grounds": "token 1",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaktipātasya",
+     "gloss": "of-descent-of-power",
+     "grounds": "token 3",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "traidhamāsthitāḥ",
+     "gloss": "established-in-threefold",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "tīvratīvraḥ",
+     "gloss": "intense-intense",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktipāto",
+     "gloss": "descent-of-power",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dehapātavaśātsvayam",
+     "gloss": "by-fall-of-body-itself",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is descent of power established in threefold grades?",
+   "premises": [
+    "Those are indeed each of descent of power.",
+    "They are established in threefold."
+   ],
+   "inference": "Intense-intense descent occurs by fall of body itself.",
+   "uncertainties": [
+    "Token 5 compound is dense."
+   ],
+   "plain_english": "Those indeed are each of descent of power, established in threefold; intense-intense descent of power occurs by fall of body itself."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "mokṣapradastadaivānyakāle",
+     "gloss": "liberation-giving-at-that-time-or-other",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tāratamyataḥ",
+     "gloss": "by-gradation",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "madhyatīvrātpunaḥ",
+     "gloss": "from-moderate-intense-again",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvamajñānaṃ",
+     "gloss": "all-ignorance",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vinivartate",
+     "gloss": "turns-away",
+     "grounds": "token 6",
+     "morph": "verb"
+    }
+   ],
+   "question": "When does all ignorance turn away by gradation?",
+   "premises": [
+    "Liberation-giving occurs at that time or other.",
+    "By gradation, all ignorance turns away."
+   ],
+   "inference": "Moderate-intense descent removes all ignorance.",
+   "uncertainties": [
+    "Token 1 is heavily compounded."
+   ],
+   "plain_english": "Liberation-giving at that time or other; by gradation, from moderate-intense again all ignorance turns away."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "svayameva",
+     "gloss": "itself-indeed",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vetti",
+     "gloss": "he-knows",
+     "grounds": "token 3",
+     "morph": "verb"
+    },
+    {
+     "surface": "bandhamokṣatayātmatām",
+     "gloss": "selfhood-as-bondage-and-liberation",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatprātibhaṃ",
+     "gloss": "that-intuitive",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahājñānaṃ",
+     "gloss": "great-knowledge",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāstrācāryānapekṣi",
+     "gloss": "independent-of-scripture-and-teacher",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "yat.",
+     "gloss": "which",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why is intuitive great knowledge independent of scripture and teacher?",
+   "premises": [
+    "He himself knows selfhood as bondage and liberation.",
+    "That intuitive great knowledge is independent of scripture and teacher."
+   ],
+   "inference": "Direct knowing makes scripture and teacher unnecessary.",
+   "uncertainties": [
+    "Token 4 compound is dense."
+   ],
+   "plain_english": "Because he himself knows selfhood as bondage and liberation, that intuitive great knowledge is independent of scripture and teacher."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "pratibhācandrikāśāntadhvāntaścācāryacandramāḥ",
+     "gloss": "intuition-moonlight-quieted-darkness-and-teacher-moon",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "tamastāpau",
+     "gloss": "darkness-and-heat",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "token 3",
+     "morph": "verb"
+    },
+    {
+     "surface": "dṛśaṃ",
+     "gloss": "sight",
+     "grounds": "token 4",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "visphāryānandanirbharām",
+     "gloss": "opening-bliss-filled",
+     "grounds": "token 5",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the teacher-moon destroy darkness and heat?",
+   "premises": [
+    "Intuition-moonlight quiets darkness.",
+    "The teacher-moon destroys darkness and heat."
+   ],
+   "inference": "Sight becomes opening and bliss-filled.",
+   "uncertainties": [
+    "Token 1 is a long compound."
+   ],
+   "plain_english": "Intuition-moonlight quiets darkness, and the teacher-moon destroys darkness and heat, opening bliss-filled sight."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣṭaḥ",
+     "gloss": "disciple",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmakartṛtvācchiṣyo@nyaḥ",
+     "gloss": "from-doership-another-disciple",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "karmabhāvataḥ",
+     "gloss": "from-action-state",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śiṣṭaḥ",
+     "gloss": "disciple",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "smārtapadakālakulādiṣu",
+     "gloss": "in-smarta-status-time-family-and-so-forth",
+     "grounds": "token 8",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is a disciple distinguished by action and doership?",
+   "premises": [
+    "He is disciple from doership.",
+    "Another is disciple from action-state."
+   ],
+   "inference": "Discipleship applies everywhere in smarta status, time, family, and so forth.",
+   "uncertainties": [
+    "Token 3 sandhi is unclear."
+   ],
+   "plain_english": "He is disciple from doership; another is disciple from action-state; everywhere in smarta status, time, family, and so forth."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "uktaḥ",
+     "gloss": "said",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃbhūḥ",
+     "gloss": "self-born",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāstrārthapratibhāpariniṣṭhitaḥ",
+     "gloss": "established-in-scripture-meaning-intuition",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "yanmūlaṃ",
+     "gloss": "whose-root",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "śāsanaṃ",
+     "gloss": "instruction",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "riktaḥ",
+     "gloss": "empty",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ko@pi",
+     "gloss": "anyone",
+     "grounds": "token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jantukaḥ",
+     "gloss": "creature",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is no creature empty of self-born instruction?",
+   "premises": [
+    "The self-born is established in scripture meaning and intuition.",
+    "Instruction rooted in that leaves no creature empty."
+   ],
+   "inference": "Rooted instruction fills every creature.",
+   "uncertainties": [
+    "Token 3 compound is dense."
+   ],
+   "plain_english": "The self-born, established in scripture meaning and intuition, is said; by that rooted instruction no creature is empty."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "tatrāpi",
+     "gloss": "even-there",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tāratamyotthamānantyaṃ",
+     "gloss": "gradation-born-infinity",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "dārḍhyakamprate",
+     "gloss": "firmness-awaits",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "yuktiḥ",
+     "gloss": "reasoning",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gururvādo@bhyāsa",
+     "gloss": "teacher-speech-practice",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "ityādyapekṣate",
+     "gloss": "and-so-forth-requires",
+     "grounds": "token 7",
+     "morph": "verb"
+    }
+   ],
+   "question": "What does gradation-born infinity require for firmness?",
+   "premises": [
+    "Even there gradation-born infinity exists.",
+    "Firmness awaits reasoning, scripture, teacher speech, practice, and so forth."
+   ],
+   "inference": "Firmness depends on multiple supports.",
+   "uncertainties": [
+    "Token 3 is obscure."
+   ],
+   "plain_english": "Even there, gradation-born infinity; firmness awaits reasoning, scripture, teacher speech, practice, and so forth."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "kampamānaṃ",
+     "gloss": "shaking",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vijñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svayameva",
+     "gloss": "itself-indeed",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punarvrajet",
+     "gloss": "returns-again",
+     "grounds": "token 5",
+     "morph": "verb"
+    },
+    {
+     "surface": "kasyāpi",
+     "gloss": "of-someone",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dārḍhyamanyasya",
+     "gloss": "firmness-of-another",
+     "grounds": "token 7",
+     "morph": "compound"
+    },
+    {
+     "surface": "yuktyādyaiḥ",
+     "gloss": "by-reasoning-and-so-forth",
+     "grounds": "token 8",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kevaletaraiḥ",
+     "gloss": "by-others-alone",
+     "grounds": "token 9",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why does shaking knowledge return again?",
+   "premises": [
+    "Shaking knowledge indeed returns again itself.",
+    "Firmness of another comes by reasoning and so forth."
+   ],
+   "inference": "Knowledge without firmness relapses.",
+   "uncertainties": [
+    "Token 9 is awkward."
+   ],
+   "plain_english": "Shaking knowledge indeed returns again itself; firmness of another comes by reasoning and so forth by others alone."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parāpekṣātānavaṃ",
+     "gloss": "less-dependence-on-others",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "prātibhe",
+     "gloss": "in-intuition",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "token 5",
+     "morph": "verb"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gururasau",
+     "gloss": "that-teacher",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śreṣṭho",
+     "gloss": "best",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vijñānapāragaḥ",
+     "gloss": "gone-beyond-knowledge",
+     "grounds": "token 10",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does less dependence on others make a teacher best?",
+   "premises": [
+    "As less dependence on others may be in intuition.",
+    "So that teacher is best and gone beyond knowledge."
+   ],
+   "inference": "Teacher excellence increases with intuitive independence.",
+   "uncertainties": [
+    "Token 3 compound is dense."
+   ],
+   "plain_english": "As less dependence on others may be in intuition, so that teacher is best, gone beyond knowledge."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "anyataḥ",
+     "gloss": "from-elsewhere",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śikṣitānantajñāno@pi",
+     "gloss": "even-learned-infinite-knowledge",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratibhābalāt",
+     "gloss": "by-power-of-intuition",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yadvetti",
+     "gloss": "what-he-knows",
+     "grounds": "token 4",
+     "morph": "verb"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatrāsya",
+     "gloss": "there-his",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śivatā",
+     "gloss": "shivahood",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyāyasī",
+     "gloss": "greater",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 9",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is shivahood greater where intuition reveals knowledge?",
+   "premises": [
+    "Even learned infinite knowledge from elsewhere exists.",
+    "By power of intuition, what he knows there is greater shivahood."
+   ],
+   "inference": "Intuition makes shivahood greater than learned knowledge.",
+   "uncertainties": [
+    "Token 2 sandhi is unclear."
+   ],
+   "plain_english": "Even learned infinite knowledge from elsewhere; by power of intuition, what he knows there, that shivahood is greater."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 1",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cāsya",
+     "gloss": "and-his",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samayitvādikramo",
+     "gloss": "order-of-initiation-and-so-forth",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāpyabhiṣecanam",
+     "gloss": "nor-consecration",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "santānādi",
+     "gloss": "lineage-and-so-forth",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "token 7",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidyāvrataṃ",
+     "gloss": "vow-of-knowledge",
+     "grounds": "token 8",
+     "morph": "compound"
+    },
+    {
+     "surface": "prātibhavartmanaḥ",
+     "gloss": "of-intuitive-path",
+     "grounds": "token 9",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is not required on the intuitive path?",
+   "premises": [
+    "His order of initiation and so forth is not required.",
+    "Nor consecration, lineage, or vow of knowledge."
+   ],
+   "inference": "The intuitive path needs none of these.",
+   "uncertainties": [
+    "Token 3 compound is dense."
+   ],
+   "plain_english": "For him, order of initiation and so forth is not, nor consecration, nor lineage and so forth, nor vow of knowledge on the intuitive path."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "ādividvānmahādevastenaiṣo@dhiṣṭhito",
+     "gloss": "primordial-knower-great-god-established-by-that",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃskārāstadadhiṣṭhānasiddhyai",
+     "gloss": "purifications-for-establishment-accomplishment",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "tattasya",
+     "gloss": "that-his",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svataḥ",
+     "gloss": "by-itself",
+     "grounds": "token 6",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why are purifications for establishment accomplished by itself?",
+   "premises": [
+    "The primordial knower great god is established by that.",
+    "Purifications are for establishment accomplishment."
+   ],
+   "inference": "That accomplishment is by itself.",
+   "uncertainties": [
+    "Token 1 is heavily compounded."
+   ],
+   "plain_english": "The primordial knower great god is established by that; because purifications are for establishment accomplishment, that is by itself."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "devībhirdīkṣitastena",
+     "gloss": "initiated-by-goddesses-by-that",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "sabhaktiḥ",
+     "gloss": "with-devotion",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śivaśāsane",
+     "gloss": "in-shiva-instruction",
+     "grounds": "token 3",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dṛḍhatākampratābhedaiḥ",
+     "gloss": "by-firmness-and-distinctions",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "so@pi",
+     "gloss": "he-also",
+     "grounds": "token 5",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svayamatha",
+     "gloss": "himself-then",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vratāt",
+     "gloss": "from-vow",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is one initiated by goddesses in Shiva instruction?",
+   "premises": [
+    "He is initiated by goddesses by that.",
+    "With devotion in Shiva instruction, he also himself from vow."
+   ],
+   "inference": "Firmness and distinctions accompany initiation.",
+   "uncertainties": [
+    "Token 4 is obscure."
+   ],
+   "plain_english": "Initiated by goddesses by that, with devotion in Shiva instruction, by firmness and distinctions he also himself from vow."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "tapojapādergurutaḥ",
+     "gloss": "from-teacher-austerity-mantra-and-so-forth",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "svasaṃskāraṃ",
+     "gloss": "his-own-purification",
+     "grounds": "token 2",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "he-should-arrange",
+     "grounds": "token 3",
+     "morph": "verb"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "token 4",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vājasineyākhya",
+     "gloss": "called-vajasineya",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siñcetsvayaṃ",
+     "gloss": "he-should-sprinkle-himself",
+     "grounds": "token 7",
+     "morph": "verb"
+    },
+    {
+     "surface": "tanum",
+     "gloss": "body",
+     "grounds": "token 8",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should one arrange his own purification from teacher?",
+   "premises": [
+    "From teacher, austerity, mantra, and so forth, he should arrange his own purification.",
+    "Because it is said in Vajasineya, he should sprinkle body."
+   ],
+   "inference": "Purification is arranged through teacher and ritual sprinkling.",
+   "uncertainties": [
+    "Token 1 compound is dense."
+   ],
+   "plain_english": "From teacher, austerity, mantra, and so forth, he should arrange his own purification; because it is said in Vajasineya, he should sprinkle the body himself."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "ityādyupakramaṃ",
+     "gloss": "beginning-with-and-so-forth",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāvadante",
+     "gloss": "until-end",
+     "grounds": "token 2",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatpariniṣṭhitam",
+     "gloss": "that-established",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "abhiṣikto",
+     "gloss": "consecrated",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavedevaṃ",
+     "gloss": "would-be-thus",
+     "grounds": "token 5",
+     "morph": "verb"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 6",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bāhyakalaśāmbubhiḥ",
+     "gloss": "by-external-pot-waters",
+     "grounds": "token 7",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is consecration completed without external pot waters?",
+   "premises": [
+    "From beginning with and so forth until end, that is established.",
+    "Consecrated would be thus, not by external pot waters."
+   ],
+   "inference": "Consecration is internal establishment, not external water.",
+   "uncertainties": [
+    "Token 1 compound is dense."
+   ],
+   "plain_english": "From beginning with and so forth until end, that established; consecrated would be thus, not by external pot waters."
+  }
+ ]
+}
