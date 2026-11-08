@@ -2,725 +2,763 @@
  "song": "Tantraloka a01",
  "items": [
   {
-   "verse": 49,
+   "verse": 61,
    "rows": [
     {
-     "surface": "dehasadbhāvaparyantamātmabhāvo",
-     "gloss": "self-identity-extending-up-to-body-existence",
-     "grounds": "compound: deha+sadbhāva+paryanta+m+ātma+bhāvaḥ",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "yato",
-     "gloss": "because",
-     "grounds": "causal particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "dhiyi",
-     "gloss": "in-the-mind",
-     "grounds": "location of the mistaken identity",
-     "morph": "f.loc.sg"
-    },
-    {
-     "surface": "dehānte@pi",
-     "gloss": "even-at-body-end",
-     "grounds": "compound: deha+anta+api",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "na",
-     "gloss": "not",
-     "grounds": "negation",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "mokṣaḥ",
-     "gloss": "liberation",
-     "grounds": "the goal denied",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "syātpauruṣājñānahānitaḥ",
-     "gloss": "would-be-from-non-removal-of-human-ignorance",
-     "grounds": "compound: syāt+pauruṣa+ajñāna+hānitaḥ",
-     "morph": "3.sg.opt.act + m.abl.sg"
-    }
-   ],
-   "question": "Why does identifying the self with the body prevent liberation even at death?",
-   "premises": [
-    "In the mind, self-identity extends only up to the existence of the body.",
-    "If that identity remains, human ignorance is not removed.",
-    "Without the removal of human ignorance, liberation does not occur even when the body ends."
-   ],
-   "inference": "Therefore, mere bodily death cannot bring liberation as long as the self is identified with the body.",
-   "uncertainties": [
-    "The exact scope of pauruṣa-ajñāna (human or personal ignorance) is compressed in the compound."
-   ],
-   "plain_english": "Because the mind takes the self to last only as long as the body exists, there would be no liberation even at the end of the body, since human ignorance would still not have been removed."
-  },
-  {
-   "verse": 50,
-   "rows": [
-    {
-     "surface": "bauddhājñānanivṛttau",
-     "gloss": "when-Buddhist-ignorance-ceases",
-     "grounds": "compound: bauddha+ajñāna+nivṛttau",
-     "morph": "f.loc.sg"
-    },
-    {
-     "surface": "tu",
-     "gloss": "but",
-     "grounds": "contrastive particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "vikalponmūlanāddhruvam",
-     "gloss": "certainly-from-uprooting-of-conceptualization",
-     "grounds": "compound: vikalpa+unmūlanāt+dhruvam",
-     "morph": "n.abl.sg + (indecl.)"
-    },
-    {
-     "surface": "tadaiva",
-     "gloss": "right-then",
-     "grounds": "compound: tadā+eva",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "mokṣa",
-     "gloss": "liberation",
-     "grounds": "the result attained",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "ityuktaṃ",
-     "gloss": "thus-stated",
-     "grounds": "compound: iti+uktam",
-     "morph": "n.nom.sg (past-passive-participle, √vac)"
-    },
-    {
-     "surface": "dhātrā",
-     "gloss": "by-the-author",
-     "grounds": "agent of the teaching",
-     "morph": "m.ins.sg"
-    },
-    {
-     "surface": "śrīmanniśāṭane",
-     "gloss": "in-the-revered-Niśāṭana",
-     "grounds": "compound: śrīmat+niśāṭane; name of a scripture",
-     "morph": "n.loc.sg"
-    }
-   ],
-   "question": "When does liberation occur according to the teaching cited from the Niśāṭana?",
-   "premises": [
-    "Buddhist ignorance can cease through the uprooting of conceptualization.",
-    "The revered Niśāṭana teaches that liberation occurs at that very moment.",
-    "This teaching is presented as certain by its author."
-   ],
-   "inference": "Therefore, liberation is immediate when conceptualization and its associated ignorance are uprooted.",
-   "uncertainties": [
-    "The precise referent of dhātrā (author, teacher, or divine source) is not explicit in the verse."
-   ],
-   "plain_english": "But when Buddhist ignorance ceases through the uprooting of conceptualization, liberation occurs right then; this is what the author stated in the revered Niśāṭana."
-  },
-  {
-   "verse": 51,
-   "rows": [
-    {
-     "surface": "vikalpayuktacitastu",
-     "gloss": "but-consciousness-endowed-with-conceptualization",
-     "grounds": "compound: vikalpa+yukta+citaḥ+tu",
-     "morph": "f.nom.sg + (indecl.)"
-    },
-    {
-     "surface": "piṇḍapātācchivaṃ",
-     "gloss": "from-fall-of-the-body-to-Śiva",
-     "grounds": "compound: piṇḍa+pātāt+śivam",
-     "morph": "m.abl.sg + m.acc.sg"
-    },
-    {
-     "surface": "brajet",
-     "gloss": "would-go",
-     "grounds": "attainment of Śiva",
-     "morph": "3.sg.opt.act (√vraj)"
-    },
-    {
-     "surface": "itarastu",
-     "gloss": "but-the-other",
-     "grounds": "compound: itaraḥ+tu",
-     "morph": "m.nom.sg + (indecl.)"
-    },
-    {
-     "surface": "tadaiveti",
-     "gloss": "right-then-thus",
-     "grounds": "compound: tadā+eva+iti",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "śāstrasyātra",
-     "gloss": "of-scripture-here",
-     "grounds": "compound: śāstrasya+atra",
-     "morph": "n.gen.sg + (indecl.)"
-    },
-    {
-     "surface": "pradhānataḥ",
-     "gloss": "because-of-primacy",
-     "grounds": "reason for the distinction",
-     "morph": "(indecl.)"
-    }
-   ],
-   "question": "How does the timing of reaching Śiva differ for those with and without conceptualization?",
-   "premises": [
-    "A consciousness still joined with conceptualization reaches Śiva only when the body falls.",
-    "The other, freed from conceptualization, reaches Śiva right then.",
-    "This distinction is made because scripture is primary in this context."
-   ],
-   "inference": "Therefore, the removal of conceptualization makes liberation immediate, while its persistence delays it until bodily death.",
-   "uncertainties": [
-    "The exact scriptural source indicated by śāstrasya is not named in this verse."
-   ],
-   "plain_english": "A mind still caught in conceptualization would reach Śiva only when the body falls, but the other would reach Śiva right then; this is so because scripture holds primacy here."
-  },
-  {
-   "verse": 52,
-   "rows": [
-    {
-     "surface": "jñeyasya",
-     "gloss": "of-the-knowable",
-     "grounds": "object of knowledge",
-     "morph": "n.gen.sg"
-    },
-    {
-     "surface": "hi",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "paraṃ",
-     "gloss": "supreme",
-     "grounds": "highest status",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "tattvaṃ",
-     "gloss": "reality",
-     "grounds": "ultimate principle",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "yaḥ",
-     "gloss": "which",
-     "grounds": "relative pronoun",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "prakāśātmakaḥ",
-     "gloss": "whose-nature-is-light",
-     "grounds": "compound: prakāśa+ātmakaḥ",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "śivaḥ",
-     "gloss": "Śiva",
-     "grounds": "the supreme reality",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "nahyaprakāśarūpasya",
-     "gloss": "for-not-of-what-lacks-light-nature",
-     "grounds": "compound: na+hi+aprakāśa+rūpasya",
-     "morph": "(indecl.) + m.gen.sg"
-    },
-    {
-     "surface": "prākāśyaṃ",
-     "gloss": "manifestness",
-     "grounds": "capacity to appear",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "vastutāpi",
-     "gloss": "even-thingness",
-     "grounds": "compound: vastutā+api",
-     "morph": "f.nom.sg + (indecl.)"
-    },
-    {
-     "surface": "vā",
-     "gloss": "or",
-     "grounds": "alternative particle",
-     "morph": "(indecl.)"
-    }
-   ],
-   "question": "What is the supreme reality among knowable things and why must it be luminous?",
-   "premises": [
-    "Among knowable things, the supreme reality is Śiva, whose nature is light.",
-    "What lacks the nature of light cannot have manifestness.",
-    "Without manifestness, even thingness cannot be established."
-   ],
-   "inference": "Therefore, the supreme knowable reality must be Śiva as self-luminous light.",
-   "uncertainties": [
-    "The verse leaves open whether vastutā is affirmed or denied for the non-luminous; the argument points to its impossibility."
-   ],
-   "plain_english": "Indeed, the supreme reality to be known is Śiva, whose very nature is light; for what is not luminous cannot be manifest, nor can it even be a real thing."
-  },
-  {
-   "verse": 53,
-   "rows": [
-    {
-     "surface": "avastutāpi",
-     "gloss": "even-non-thingness",
-     "grounds": "compound: avastutā+api",
-     "morph": "f.nom.sg + (indecl.)"
-    },
-    {
-     "surface": "bhāvānāṃ",
-     "gloss": "of-beings",
-     "grounds": "entities under discussion",
-     "morph": "m.gen.pl"
-    },
-    {
-     "surface": "camatkāraikagocarā",
-     "gloss": "having-wonder-as-its-only-field",
-     "grounds": "compound: camatkāra+eka+gocarā",
+     "surface": "niyatā",
+     "gloss": "fixed",
+     "grounds": "v60: anapekṣasya vaśino deśakālākṛtikramāḥ",
      "morph": "f.nom.sg"
     },
     {
-     "surface": "yatkuḍyasadṛśī",
-     "gloss": "because-like-a-wall",
-     "grounds": "compound: yat+kuḍya+sadṛśī",
-     "morph": "(indecl.) + f.nom.sg"
-    },
-    {
-     "surface": "neyaṃ",
-     "gloss": "not-this",
-     "grounds": "compound: na+iyam",
-     "morph": "(indecl.) + f.nom.sg"
-    },
-    {
-     "surface": "dhīravastvetadityapi",
-     "gloss": "the-mind-this-is-unreal-thus-also",
-     "grounds": "compound: dhīḥ+avastu+etat+iti+api",
-     "morph": "f.nom.sg + n.nom.sg + n.nom.sg + (indecl.) + (indecl.)"
-    }
-   ],
-   "question": "Can the being or non-being of things be established apart from conscious wonder?",
-   "premises": [
-    "Both the thingness and non-thingness of beings fall within the field of conscious wonder.",
-    "A wall-like, non-luminous reality cannot account for such appearance.",
-    "Even the judgment that something is unreal arises in awareness."
-   ],
-   "inference": "Therefore, no status of beings, whether real or unreal, is possible outside the field of luminous awareness.",
-   "uncertainties": [
-    "The compound dhīravastvetadityapi is compressed; the parsing follows the sense that even the cognition 'this is unreal' depends on awareness."
-   ],
-   "plain_english": "Even the non-thingness of beings belongs only to the field of conscious wonder; since it is not like an inert wall, even the thought 'this is unreal' depends on awareness."
-  },
-  {
-   "verse": 54,
-   "rows": [
-    {
-     "surface": "prakāśo",
-     "gloss": "light",
-     "grounds": "self-luminous awareness",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "nāma",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "surface": "neti",
+     "gloss": "not thus",
+     "grounds": "v59: parāpekṣā na vidyate",
      "morph": "(indecl.)"
-    },
-    {
-     "surface": "yaścāyaṃ",
-     "gloss": "which-this",
-     "grounds": "compound: yaḥ+ca+ayam",
-     "morph": "m.nom.sg + (indecl.) + m.nom.sg"
-    },
-    {
-     "surface": "sarvatraiva",
-     "gloss": "everywhere-indeed",
-     "grounds": "compound: sarvatra+eva",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "prakāśate",
-     "gloss": "shines",
-     "grounds": "self-manifesting activity",
-     "morph": "3.sg.pres.mid (√kāś)"
-    },
-    {
-     "surface": "anapahnavanīyatvāt",
-     "gloss": "because-it-cannot-be-denied",
-     "grounds": "compound: an+apahnavanīyatvāt",
-     "morph": "n.abl.sg"
-    },
-    {
-     "surface": "kiṃ",
-     "gloss": "what",
-     "grounds": "rhetorical question",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tasminmānakalpanaiḥ",
-     "gloss": "in-that-with-fabrications-of-proof",
-     "grounds": "compound: tasmin+māna+kalpanaiḥ",
-     "morph": "m.loc.sg + f.ins.pl"
-    }
-   ],
-   "question": "Why is there no need to prove the light of awareness through external means of knowledge?",
-   "premises": [
-    "This light shines everywhere.",
-    "What shines everywhere cannot be denied.",
-    "Means of knowledge themselves depend on manifestation."
-   ],
-   "inference": "Therefore, fabricating proofs for self-luminous light is unnecessary and misplaced.",
-   "uncertainties": [],
-   "plain_english": "This light shines everywhere and cannot be denied; so what use is there in inventing proofs for it?"
-  },
-  {
-   "verse": 55,
-   "rows": [
-    {
-     "surface": "pramāṇānyapi",
-     "gloss": "even-means-of-knowledge",
-     "grounds": "compound: pramāṇāni+api",
-     "morph": "n.nom.pl + (indecl.)"
-    },
-    {
-     "surface": "vastūnāṃ",
-     "gloss": "of-things",
-     "grounds": "objects known",
-     "morph": "n.gen.pl"
-    },
-    {
-     "surface": "jīvitaṃ",
-     "gloss": "life",
-     "grounds": "vital power of knowing",
-     "morph": "n.acc.sg"
-    },
-    {
-     "surface": "yāni",
-     "gloss": "which",
-     "grounds": "relative pronoun",
-     "morph": "n.nom.pl"
-    },
-    {
-     "surface": "tanvate",
-     "gloss": "extend",
-     "grounds": "make known or sustain",
-     "morph": "3.pl.pres.mid (√tan)"
-    },
-    {
-     "surface": "teṣāmapi",
-     "gloss": "even-of-them",
-     "grounds": "compound: teṣām+api",
-     "morph": "n.gen.pl + (indecl.)"
-    },
-    {
-     "surface": "paro",
-     "gloss": "supreme",
-     "grounds": "highest source",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "jīvaḥ",
-     "gloss": "life",
-     "grounds": "animating principle",
-     "morph": "m.nom.sg"
     },
     {
      "surface": "sa",
-     "gloss": "that",
-     "grounds": "demonstrative pronoun",
+     "gloss": "he",
+     "grounds": "v59: tasya devātidevasya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhurnityo",
+     "gloss": "all-pervading-eternal",
+     "grounds": "v59: parāpekṣā na vidyate",
+     "morph": "compound = vibhu+nitya"
+    },
+    {
+     "surface": "viśvākṛtiḥ",
+     "gloss": "having-the-form-of-the-universe",
+     "grounds": "v66: devaḥ sarvākṛtirnirākṛtiḥ",
+     "morph": "compound = viśva+ākṛti"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "Shiva",
+     "grounds": "v73: śivaścāluptavibhavaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhutvātsarvago",
+     "gloss": "all-going-because-of-all-pervasiveness",
+     "grounds": "v66: sarvaṃ vyāptaṃ carācaram",
+     "morph": "compound = vibhutva+sarvaga"
+    },
+    {
+     "surface": "nityabhāvādādyantavarjitaḥ",
+     "gloss": "free-from-beginning-and-end-because-of-eternal-being",
+     "grounds": "v60: anapekṣasya vaśinaḥ",
+     "morph": "compound = nityabhāva+ādyantavarjita"
+    }
+   ],
+   "question": "Why is Shiva described as unfixed, all-pervading, eternal, and universal in form?",
+   "premises": [
+    "Shiva is not fixed or limited.",
+    "He is all-pervading and therefore present everywhere.",
+    "He is eternal and therefore without beginning or end.",
+    "He has the form of the universe."
+   ],
+   "inference": "Because Shiva is all-pervading, eternal, and universal in form, he is not subject to limitation in space, time, or shape.",
+   "uncertainties": [],
+   "plain_english": "Shiva is not fixed or limited. He is all-pervading and eternal, and he takes the form of the whole universe. Because he pervades everything, he is present everywhere; because he is eternal, he has no beginning or end."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "viśvākṛtitvāccidacittadvaicitryāvabhāsakaḥ",
+     "gloss": "manifesting-the-variety-of-conscious-and-unconscious-because-of-having-the-universe-as-form",
+     "grounds": "v73: śivaścāluptavibhavastathā sṛṣṭo@vabhāsate",
+     "morph": "compound = viśvākṛtitva+cidacit+tadvaicitrya+avabhāsaka"
+    },
+    {
+     "surface": "tato@sya",
+     "gloss": "therefore-of-him",
+     "grounds": "v74: tasmādyena mukhenaiṣa bhāti",
+     "morph": "(indecl.) + m.gen.sg"
+    },
+    {
+     "surface": "bahurūpatvamuktaṃ",
+     "gloss": "manifold-formhood-is-stated",
+     "grounds": "v66: devaḥ sarvākṛtirnirākṛtiḥ",
+     "morph": "compound = bahurūpatva+ukta"
+    },
+    {
+     "surface": "dīkṣottarādike",
+     "gloss": "in-the-Dikshottara-and-other-texts",
+     "grounds": "v59: kāmike tata evoktaṃ",
+     "morph": "compound = dīkṣottara+ādika, n.loc.sg"
+    }
+   ],
+   "question": "Why is Shiva said to have manifold forms in the scriptures?",
+   "premises": [
+    "Shiva has the universe as his form.",
+    "As such, he manifests the variety of conscious and unconscious things.",
+    "Scriptures like the Dikshottara state his manifold formhood."
+   ],
+   "inference": "Shiva is described as manifold because his universal form appears as the diverse conscious and unconscious world.",
+   "uncertainties": [],
+   "plain_english": "Because Shiva takes the universe as his form, he appears as the full variety of conscious and unconscious things. For this reason, texts such as the Dikshottara say that he has many forms."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "bhuvanaṃ",
+     "gloss": "world",
+     "grounds": "v62: viśvākṛtitva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vigraho",
+     "gloss": "body",
+     "grounds": "v66: sarvākṛtiḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jyotiḥ",
+     "gloss": "light",
+     "grounds": "v73: avabhāsate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khaṃ",
+     "gloss": "space",
+     "grounds": "v64: vyomādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śabdo",
+     "gloss": "sound",
+     "grounds": "v64: śabdavijñānāt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "v64: śabdavijñānāt",
      "morph": "m.nom.sg"
     },
     {
      "surface": "eva",
-     "gloss": "alone",
-     "grounds": "emphatic particle",
+     "gloss": "indeed",
+     "grounds": "v63: śiva ucyate",
      "morph": "(indecl.)"
     },
     {
-     "surface": "parameśvaraḥ",
-     "gloss": "supreme-Lord",
-     "grounds": "Śiva as ultimate source",
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "v63: ṣaḍvidhaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bindunādādisaṃbhinnaḥ",
+     "gloss": "joined-with-bindu-nada-and-so-on",
+     "grounds": "v64: vyomādiśabdavijñānāt",
+     "morph": "compound = bindu+nāda+ādi+saṃbhinna"
+    },
+    {
+     "surface": "ṣaḍvidhaḥ",
+     "gloss": "sixfold",
+     "grounds": "v63: śiva ucyate",
+     "morph": "compound = ṣaṣ+vidha"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "Shiva",
+     "grounds": "v73: śivaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "v62: uktam",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "In what sixfold way is Shiva said to be expressed?",
+   "premises": [
+    "Shiva is identified with world, body, light, space, sound, and mantra.",
+    "The mantra aspect includes bindu, nada, and related forms.",
+    "This gives a sixfold description of Shiva."
+   ],
+   "inference": "Shiva is spoken of in six modes that range from cosmic and bodily forms to subtle sonic and mantric forms.",
+   "uncertainties": [],
+   "plain_english": "Shiva is said to appear in six ways: as the world, as a body, as light, as space, as sound, and as mantra. The mantric form also includes bindu, nada, and related expressions."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "whoever",
+     "grounds": "v64: sa prapadyate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadātmakatāniṣṭhastadbhāvaṃ",
+     "gloss": "established-in-being-of-that-nature-attains-that-state",
+     "grounds": "v73: svasaṃvinmātṛmakure",
+     "morph": "compound = yadātmakatā+niṣṭha+tadbhāva"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "v64: yo",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prapadyate",
+     "gloss": "attains",
+     "grounds": "v64: paro mokṣaḥ",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "vyomādiśabdavijñānātparo",
+     "gloss": "supreme-from-knowledge-of-space-and-sound-and-so-on",
+     "grounds": "v63: khaṃ śabdo mantra",
+     "morph": "compound = vyoma+ādi+śabda+vijñāna+para"
+    },
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "v64: na saṃśayaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "v64: na saṃśayaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "v64: na saṃśayaḥ",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What gives life to the means of knowledge that reveal objects?",
+   "question": "How does knowledge of space, sound, and related forms lead to liberation?",
    "premises": [
-    "The means of knowledge extend the life, or knowability, of things.",
-    "Those means of knowledge themselves require a living source.",
-    "That supreme life of all knowing is the supreme Lord."
+    "One who is established in a particular nature attains that state.",
+    "Space, sound, and related forms are modes of Shiva.",
+    "Knowledge of these modes leads to the supreme state."
    ],
-   "inference": "Therefore, even the means of knowledge depend on the supreme Lord as their ultimate animating light.",
-   "uncertainties": [
-    "jīvitaṃ can suggest both 'life' and 'vital functioning'; the verse uses it metaphorically for the power that makes knowing possible."
-   ],
-   "plain_english": "Even the means of knowledge that give life to the knowledge of things have a supreme life of their own, and that is none other than the supreme Lord."
+   "inference": "By becoming established in the knowledge of Shiva's sonic and spatial forms, one attains supreme liberation.",
+   "uncertainties": [],
+   "plain_english": "Whoever becomes firmly established in a particular nature comes to share in that state. Since space, sound, and related forms are ways Shiva appears, true knowledge of them leads to supreme liberation without doubt."
   },
   {
-   "verse": 56,
+   "verse": 65,
    "rows": [
     {
-     "surface": "sarvāpahnavahevākadharmāpyevaṃ",
-     "gloss": "even-the-assertion-that-denies-everything-thus",
-     "grounds": "compound: sarva+apahnava+hevāka+dharma+api+evam",
-     "morph": "f.nom.sg + (indecl.) + (indecl.)"
+     "surface": "viśvākṛtitve",
+     "gloss": "in-having-the-universe-as-form",
+     "grounds": "v61: viśvākṛtiḥ; v62: viśvākṛtitvāt",
+     "morph": "n.loc.sg"
     },
     {
-     "surface": "hi",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "surface": "devasya",
+     "gloss": "of-the-Lord",
+     "grounds": "v59: devātidevasya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tadetaccopalakṣaṇam",
+     "gloss": "this-is-an-indicative-mark",
+     "grounds": "v63: ṣaḍvidhaḥ śiva ucyate",
+     "morph": "compound = tad+etat+upalakṣaṇa"
+    },
+    {
+     "surface": "anavacchinnatārūḍhāvavacchedalaye@sya",
+     "gloss": "in-his-dissolution-of-limitation-within-unlimitedness",
+     "grounds": "v60: anapekṣasya vaśinaḥ",
+     "morph": "compound = anavacchinnatā+ārūḍha+avaccheda+laya, m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "v65: upalakṣaṇam",
      "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the Lord's universal form indicate about limitation and unlimitedness?",
+   "premises": [
+    "The Lord has the universe as his form.",
+    "This universal form is only an indicative mark, not a final boundary.",
+    "In him, limitation dissolves within unlimitedness."
+   ],
+   "inference": "The Lord's universal form points to a reality in which all apparent limits are absorbed into his unlimited nature.",
+   "uncertainties": [],
+   "plain_english": "The Lord's having the universe as his form is only an indication of his nature. Even when he appears in limited forms, those limits dissolve within his unlimited being."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "uktaṃ",
+     "gloss": "it-is-said",
+     "grounds": "v59: kāmike tata evoktaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "v66: uktaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmike",
+     "gloss": "in-the-Kamika",
+     "grounds": "v59: kāmike",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "the-Lord",
+     "grounds": "v59: devātidevasya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvākṛtirnirākṛtiḥ",
+     "gloss": "of-all-forms-and-formless",
+     "grounds": "v61: viśvākṛtiḥ",
+     "morph": "compound = sarvākṛti+nirākṛti"
+    },
+    {
+     "surface": "jaladarpaṇavattena",
+     "gloss": "by-him-like-water-and-a-mirror",
+     "grounds": "v66: sarvaṃ vyāptaṃ",
+     "morph": "compound = jala+darpaṇa+vat, m.inst.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "v66: carācaram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyāptaṃ",
+     "gloss": "pervaded",
+     "grounds": "v61: vibhutvāt sarvagaḥ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "carācaram",
+     "gloss": "moving-and-unmoving",
+     "grounds": "v62: cidacittadvaicitrya",
+     "morph": "compound = cara+acara"
+    }
+   ],
+   "question": "How does the Kamika describe the Lord's pervasion of all things?",
+   "premises": [
+    "The Kamika states that the Lord is both of all forms and formless.",
+    "He pervades all moving and unmoving things.",
+    "The image of water and a mirror illustrates this pervasive presence."
+   ],
+   "inference": "The Lord pervades the entire universe while remaining both manifest in all forms and beyond form.",
+   "uncertainties": [],
+   "plain_english": "The Kamika says that the Lord has all forms and yet is also formless. Like water or a mirror, he pervades everything, both moving and unmoving."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "v67: eka eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāsya",
+     "gloss": "and-of-him",
+     "grounds": "v65: devasya",
+     "morph": "(indecl.) + m.gen.sg"
+    },
+    {
+     "surface": "vimutādyo@yaṃ",
+     "gloss": "this-quality-such-as-pervasion-and-so-on",
+     "grounds": "v66: sarvaṃ vyāptaṃ",
+     "morph": "compound = vibhu+ādi, m.nom.sg"
+    },
+    {
+     "surface": "dharmo@nyonyaṃ",
+     "gloss": "quality-mutually",
+     "grounds": "v67: na vibhidyate",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "vibhidyate",
+     "gloss": "is-divided",
+     "grounds": "v67: eka eva",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "v67: eka eva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evāsya",
+     "gloss": "indeed-of-him",
+     "grounds": "v65: devasya",
+     "morph": "(indecl.) + m.gen.sg"
+    },
+    {
+     "surface": "dharmo@sau",
+     "gloss": "this-quality",
+     "grounds": "v67: sarvākṣepeṇa vartate",
+     "morph": "m.nom.sg + m.nom.sg"
+    },
+    {
+     "surface": "sarvākṣepeṇa",
+     "gloss": "by-including-all",
+     "grounds": "v66: sarvaṃ vyāptaṃ",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "vartate",
      "gloss": "operates",
-     "grounds": "takes place",
-     "morph": "3.sg.pres.mid (√vṛt)"
-    },
-    {
-     "surface": "jñānamātmārthamityetanneti",
-     "gloss": "knowledge-is-for-the-self-thus-this-not-thus",
-     "grounds": "compound: jñānam+ātma+artham+iti+etat+na+iti",
-     "morph": "n.nom.sg + n.nom.sg + (indecl.) + n.nom.sg + (indecl.) + (indecl.)"
-    },
-    {
-     "surface": "māṃ",
-     "gloss": "to-me",
-     "grounds": "the one addressed by the denial",
-     "morph": "1.acc.sg"
-    },
-    {
-     "surface": "prati",
-     "gloss": "toward",
-     "grounds": "direction of manifestation",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "bhāsate",
-     "gloss": "appears",
-     "grounds": "shines in awareness",
-     "morph": "3.sg.pres.mid (√bhās)"
+     "grounds": "v73: avabhāsate",
+     "morph": "3.sg.mid-pres"
     }
    ],
-   "question": "Does the denial of all knowledge escape the light of awareness?",
+   "question": "Are Shiva's qualities such as pervasion really separate from one another?",
    "premises": [
-    "Even a statement that denies everything is itself an act of assertion.",
-    "The claim that knowledge is not for the self must appear to someone.",
-    "What appears to someone appears within awareness."
+    "Qualities like pervasion are attributed to Shiva.",
+    "These qualities are not mutually divided in him.",
+    "They function as one quality that includes all."
    ],
-   "inference": "Therefore, total denial cannot escape self-luminous awareness, because the denial itself shines within it.",
+   "inference": "Shiva's many attributed qualities are expressions of a single all-inclusive reality.",
    "uncertainties": [
-    "hevāka is rare; it is taken here as an emphatic assertion or challenge."
+    "The exact first member of vimutādyaḥ is slightly compressed in the transmitted form."
    ],
-   "plain_english": "Even the bold claim that denies everything still operates in this way: the statement 'knowledge is not for the self' appears to me, and so it cannot escape awareness."
+   "plain_english": "Qualities such as pervasion and the rest are not really separate in Shiva. They are not divided from one another, but operate as one single quality that includes everything."
   },
   {
-   "verse": 57,
+   "verse": 68,
    "rows": [
     {
-     "surface": "apahnutau",
-     "gloss": "in-denial",
-     "grounds": "act of negating",
-     "morph": "f.loc.sg"
-    },
-    {
-     "surface": "sādhane",
-     "gloss": "in-establishing",
-     "grounds": "act of proving",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "vā",
-     "gloss": "or",
-     "grounds": "alternative particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "vastūnāmādyamīdṛśam",
-     "gloss": "of-things-the-first-is-such",
-     "grounds": "compound: vastūnām+ādyam+īdṛśam",
-     "morph": "n.gen.pl + n.nom.sg + n.nom.sg"
-    },
-    {
-     "surface": "yattatra",
-     "gloss": "that-there",
-     "grounds": "compound: yat+tatra",
-     "morph": "n.nom.sg + (indecl.)"
-    },
-    {
-     "surface": "ke",
-     "gloss": "what",
-     "grounds": "rhetorical question",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "pramāṇānāmupapattyupayogite",
-     "gloss": "for-means-of-knowledge-the-use-of-justification",
-     "grounds": "compound: pramāṇānām+upapatti+upayogite",
-     "morph": "n.gen.pl + f.nom.du"
-    }
-   ],
-   "question": "What role do means of knowledge have when the primal light is already presupposed in denial or proof?",
-   "premises": [
-    "In either denying or establishing things, a primal luminous ground is already present.",
-    "That ground is presupposed by any act of justification.",
-    "Means of knowledge cannot function without such a presupposed ground."
-   ],
-   "inference": "Therefore, means of knowledge have no independent use in establishing the primal light that makes their own operation possible.",
-   "uncertainties": [
-    "The dual ending in upapattyupayogite is metrically compressed; it is read as referring to the paired functions of justification and application."
-   ],
-   "plain_english": "Whether things are denied or established, such a primal ground is already there; so what use do the means of knowledge and their justifications have in that case?"
-  },
-  {
-   "verse": 58,
-   "rows": [
-    {
-     "surface": "[58",
-     "gloss": "verse-58-marker",
-     "grounds": "placeholder in source",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "missing]",
-     "gloss": "missing",
-     "grounds": "verse text absent in source",
-     "morph": "(indecl.)"
-    }
-   ],
-   "question": "What is the content of verse 58 in this source?",
-   "premises": [
-    "The source marks verse 58 explicitly.",
-    "No verse text is supplied for verse 58."
-   ],
-   "inference": "Therefore, verse 58 cannot be analyzed from the provided material.",
-   "uncertainties": [
-    "The verse is missing in the supplied text."
-   ],
-   "plain_english": "Verse 58 is missing in the provided source."
-  },
-  {
-   "verse": 59,
-   "rows": [
-    {
-     "surface": "kāmike",
-     "gloss": "in-the-Kāmika",
-     "grounds": "name of a scripture",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "tata",
+     "surface": "tena",
      "gloss": "therefore",
-     "grounds": "consequential particle",
+     "grounds": "v67: eka eva dharmaḥ",
      "morph": "(indecl.)"
     },
     {
-     "surface": "evoktaṃ",
-     "gloss": "indeed-stated",
-     "grounds": "compound: eva+uktam",
-     "morph": "(indecl.) + n.nom.sg (past-passive-participle, √vac)"
+     "surface": "svātantryaśaktyaiva",
+     "gloss": "by-the-power-of-freedom-alone",
+     "grounds": "v60: svatantraḥ; v73: svātantryāt",
+     "morph": "compound = svātantrya+śakti, f.inst.sg + (indecl.)"
     },
     {
-     "surface": "hetuvādavivarjitam",
-     "gloss": "free-from-reasoning-by-external-cause",
-     "grounds": "compound: hetu+vāda+vivarjitam",
-     "morph": "n.nom.sg"
+     "surface": "yukta",
+     "gloss": "endowed",
+     "grounds": "v74: śaktirityeṣa vastveva",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "tasya",
-     "gloss": "of-that",
-     "grounds": "demonstrative pronoun",
+     "surface": "ityāñjaso",
+     "gloss": "thus-straightforwardly",
+     "grounds": "v68: vidhiḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "the-rule",
+     "grounds": "v68: yukta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahuśaktitvamapyasya",
+     "gloss": "and-also-his-having-many-powers",
+     "grounds": "v74: śaktitadvatkramaḥ",
+     "morph": "compound = bahuśaktitva+api, n.nom.sg + m.gen.sg"
+    },
+    {
+     "surface": "tacchaktyaivāviyuktatā",
+     "gloss": "is-non-separation-by-that-very-power",
+     "grounds": "v74: śaktirityeṣa vastveva",
+     "morph": "compound = tat+śakti+eva+aviyuktatā"
+    }
+   ],
+   "question": "How can Shiva be said to have many powers without losing unity?",
+   "premises": [
+    "Shiva is endowed with the power of freedom.",
+    "He is also spoken of as having many powers.",
+    "These many powers are not separate from that one power."
+   ],
+   "inference": "Shiva's many powers are expressions of his one power of freedom and do not compromise his unity.",
+   "uncertainties": [],
+   "plain_english": "So the straightforward conclusion is that Shiva is endowed with the power of freedom. Even when he is said to have many powers, those powers are not separate from that one power."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "śaktiśca",
+     "gloss": "and-power",
+     "grounds": "v68: svātantryaśaktyaiva",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "v69: svaṃ rūpam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-a-being",
+     "grounds": "v74: śaktirityeṣa vastveva",
      "morph": "m.gen.sg"
     },
     {
-     "surface": "devātidevasya",
-     "gloss": "of-the-God-beyond-gods",
-     "grounds": "compound: deva+atidevasya",
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "v73: svasaṃvinmātṛmakure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "v61: viśvākṛtiḥ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mātṛkalpitam",
+     "gloss": "projected-by-the-knowing-subject",
+     "grounds": "v73: svasaṃvinmātṛmakure",
+     "morph": "compound = mātṛ+kalpita"
+    },
+    {
+     "surface": "tenādvayaḥ",
+     "gloss": "therefore-nondual",
+     "grounds": "v67: eka eva",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "v61: sa śivaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evāpi",
+     "gloss": "even-indeed",
+     "grounds": "v69: śaktimatparikalpane",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktimatparikalpane",
+     "gloss": "in-the-conception-of-him-as-possessing-power",
+     "grounds": "v68: bahuśaktitvam",
+     "morph": "compound = śaktimat+parikalpana, n.loc.sg"
+    }
+   ],
+   "question": "What is meant by calling Shiva both nondual and a possessor of power?",
+   "premises": [
+    "Power is the own form of a being as projected by the knowing subject.",
+    "Shiva is nondual in reality.",
+    "He can still be conceived as possessing power."
+   ],
+   "inference": "The attribution of power to Shiva does not create real duality, because power is his own form as it appears in cognition.",
+   "uncertainties": [],
+   "plain_english": "Power is simply a being's own form as it is projected by the knowing subject. For that reason, Shiva remains nondual even when he is thought of as possessing power."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "mātṛklṛpte",
+     "gloss": "projected-by-the-knowing-subject",
+     "grounds": "v69: mātṛkalpitam",
+     "morph": "compound = mātṛ+klṛpta, n.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "v70: ko bhedaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-the-Lord",
+     "grounds": "v65: devasya",
      "morph": "m.gen.sg"
     },
     {
-     "surface": "parāpekṣā",
-     "gloss": "dependence-on-another",
-     "grounds": "compound: para+apekṣā",
-     "morph": "f.nom.sg"
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "v70: vapuṣi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "and-there",
+     "grounds": "v70: vapuṣi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vapuṣyalam",
+     "gloss": "in-the-various-bodies",
+     "grounds": "v63: vigrahaḥ",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "ko",
+     "gloss": "what",
+     "grounds": "v70: bhedaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhedo",
+     "gloss": "difference",
+     "grounds": "v67: na vibhidyate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vastuto",
+     "gloss": "in-reality",
+     "grounds": "v71: paramārthena",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnerdagdhṛpaktṛtvayoriva",
+     "gloss": "like-fire-in-burning-and-cooking",
+     "grounds": "v70: ko bhedaḥ",
+     "morph": "compound = vahni+dagdhṛtva+paktṛtva, m.gen.sg + (indecl.)"
+    }
+   ],
+   "question": "Is there any real difference among the Lord's various projected forms?",
+   "premises": [
+    "The Lord's various bodies are projected by the knowing subject.",
+    "A single reality can appear with different functions.",
+    "Fire remains one while burning and cooking."
+   ],
+   "inference": "There is no real difference among the Lord's various forms, only different appearances of one reality.",
+   "uncertainties": [],
+   "plain_english": "When the Lord appears in different bodies as projected by the knowing subject, there is no real difference between them. It is like fire, which remains one whether it is burning or cooking."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "v71: paramārthena",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsau",
+     "gloss": "and-he",
+     "grounds": "v61: sa śivaḥ",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "paramārthena",
+     "gloss": "in-ultimate-truth",
+     "grounds": "v70: vastutaḥ",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "v71: kiṃcit",
      "morph": "(indecl.)"
     },
     {
-     "surface": "vidyate",
-     "gloss": "exists",
-     "grounds": "is found",
-     "morph": "3.sg.pres.pass (√vid)"
+     "surface": "kiṃcidbhāsanādṛte",
+     "gloss": "anything-apart-from-manifestation",
+     "grounds": "v73: avabhāsate",
+     "morph": "compound = kiṃcit+bhāsana, (indecl.)"
+    },
+    {
+     "surface": "nahyasti",
+     "gloss": "for-there-is-not",
+     "grounds": "v71: vāstavaḥ",
+     "morph": "(indecl.) + 3.sg.act-pres"
+    },
+    {
+     "surface": "kiṃcittacchaktitadvadbhedo@pi",
+     "gloss": "any-real-difference-between-his-power-and-its-possessor",
+     "grounds": "v69: śaktimatparikalpane",
+     "morph": "compound = kiṃcit+tat+śakti+tadvat+bheda, m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "vāstavaḥ",
+     "gloss": "real",
+     "grounds": "v70: vastutaḥ",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "What does the Kāmika scripture say about the supreme God's dependence on anything else?",
+   "question": "Is there anything real in Shiva apart from manifestation or a real split between power and possessor?",
    "premises": [
-    "The Kāmika is cited as scriptural authority.",
-    "It states, without appeal to external causal reasoning, that the God beyond gods has no dependence on another.",
-    "A supreme reality cannot be supreme if it depends on something else."
+    "In ultimate truth, Shiva is nothing apart from manifestation.",
+    "Power and possessor of power are distinguished conceptually.",
+    "No real difference exists between them."
    ],
-   "inference": "Therefore, the supreme God is independent and not established by external causes.",
+   "inference": "Ultimately, Shiva is pure manifestation, and the distinction between power and possessor is not ultimately real.",
    "uncertainties": [],
-   "plain_english": "For that reason, the Kāmika states, without resorting to causal argument, that the God beyond gods has no dependence on anything else."
+   "plain_english": "In the highest sense, Shiva is nothing other than manifestation itself. There is no real thing apart from that shining, and there is no ultimately real difference between his power and the one who possesses it."
   },
   {
-   "verse": 60,
+   "verse": 72,
    "rows": [
     {
-     "surface": "parasya",
-     "gloss": "of-the-supreme",
-     "grounds": "the highest reality",
-     "morph": "m.gen.sg"
+     "surface": "svaśaktyudrekajanakaṃ",
+     "gloss": "producing-the-surge-of-its-own-power",
+     "grounds": "v68: svātantryaśaktyaiva",
+     "morph": "compound = sva+śakti+udreka+janaka"
     },
     {
-     "surface": "tadapekṣatvātsvatantro@yamataḥ",
-     "gloss": "because-of-dependence-on-that-this-is-independent-therefore",
-     "grounds": "compound: tat+apekṣatvāt+svatantraḥ+ayam+ataḥ",
-     "morph": "n.abl.sg + m.nom.sg + m.nom.sg + (indecl.)"
+     "surface": "tādātmyādvastuno",
+     "gloss": "because-of-identity-with-the-reality",
+     "grounds": "v71: vāstavaḥ bhedaḥ na",
+     "morph": "n.abl.sg + n.gen.sg"
     },
     {
-     "surface": "sthitaḥ",
-     "gloss": "stands",
-     "grounds": "is established",
-     "morph": "m.nom.sg (past-passive-participle, √sthā)"
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "v72: śaktiḥ",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "anapekṣasya",
-     "gloss": "of-the-independent-one",
-     "grounds": "one who depends on nothing",
-     "morph": "m.gen.sg"
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "v72: tat śaktiḥ",
+     "morph": "n.nom.sg"
     },
     {
-     "surface": "vaśino",
-     "gloss": "of-the-sovereign",
-     "grounds": "one who has mastery",
-     "morph": "m.gen.sg"
+     "surface": "śaktistadapi",
+     "gloss": "that-too-is-power",
+     "grounds": "v74: śaktirityeṣa vastveva",
+     "morph": "f.nom.sg + n.nom.sg + (indecl.)"
     },
     {
-     "surface": "deśakālākṛtikramāḥ",
-     "gloss": "orders-of-place-time-and-form",
-     "grounds": "compound: deśa+kāla+ākṛti+kramāḥ",
-     "morph": "m.nom.pl"
+     "surface": "devyevaṃ",
+     "gloss": "thus-the-Goddess",
+     "grounds": "v68: svātantryaśaktyaiva",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "bhāntyapyanyasvarūpiṇī",
+     "gloss": "though-appearing-with-another-form",
+     "grounds": "v70: tatra tatra vapuṣi",
+     "morph": "compound = bhāntī+api+anya+svarūpiṇī"
     }
    ],
-   "question": "How do place, time, and form relate to the independent and sovereign supreme reality?",
+   "question": "How can the Goddess appear as other while still being identical with the one reality?",
    "premises": [
-    "What depends on the supreme is not itself the ultimate independent ground.",
-    "The supreme is independent and sovereign.",
-    "Place, time, and form are ordered conditions that presuppose limitation."
+    "Whatever produces the surge of a reality's own power is identical with that reality.",
+    "Such a power is still called power.",
+    "The Goddess can appear with another form while remaining that same reality."
    ],
-   "inference": "Therefore, the orders of place, time, and form do not bind the independent and sovereign supreme reality.",
-   "uncertainties": [
-    "The compound tadapekṣatvātsvatantro@yamataḥ is compressed; the reading follows the contrast between dependence on the supreme and the supreme's own independence."
-   ],
-   "plain_english": "Because others depend on the supreme, it stands as independent; for that independent and sovereign reality, the orders of place, time, and form do not apply as limiting conditions."
+   "inference": "The Goddess is the one reality's own power, appearing as other without being ultimately different from it.",
+   "uncertainties": [],
+   "plain_english": "Whatever brings forth the surge of a reality's own power is not different from that reality, because it is identical with it. That is power, and in this way the Goddess appears with another form even while remaining the same reality."
   }
  ]
 }

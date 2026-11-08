@@ -2,148 +2,888 @@
  "song": "Tantraloka a01",
  "items": [
   {
-   "verse": 109,
+   "verse": 97,
    "rows": [
     {
-     "surface": "tāsāmapi",
-     "gloss": "of-them-also",
-     "grounds": "refers to the energies/goddesses mentioned before",
-     "morph": "f.gen.pl + (indecl.)"
+     "surface": "saṃsārabhītijanitādravātparāmarśato@pi",
+     "gloss": "even-from-touch-born-of-fear-of-worldly-existence",
+     "grounds": "compound describing the cause of arising",
+     "morph": "indecl.+compound"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-the-heart",
+     "grounds": "location of arising",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jātaḥ",
+     "gloss": "arisen",
+     "grounds": "what has come into being",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "prakaṭībhūtaṃ",
+     "gloss": "become-manifest",
+     "grounds": "state of the reflection",
+     "morph": "n.nom.sg.past-participle+compound"
+    },
+    {
+     "surface": "bhavabhayavimarśanaṃ",
+     "gloss": "reflection-on-fear-of-existence",
+     "grounds": "the manifest content",
+     "morph": "n.nom.sg+compound"
+    },
+    {
+     "surface": "śaktipātato",
+     "gloss": "from-the-descent-of-power",
+     "grounds": "ultimate cause",
+     "morph": "m.abl.sg+compound"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental cause linking to next verse",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "How does reflection on the fear of existence arise in the heart?",
+   "premises": [
+    "Fear of worldly existence can produce a touch or contact in the heart.",
+    "From that contact, reflection on the fear of existence can arise.",
+    "This manifest reflection ultimately occurs through the descent of power."
+   ],
+   "inference": "Even a fear-born touch in the heart becomes a manifest reflection on existential fear because it is activated by the descent of power.",
+   "uncertainties": [
+    "The exact nuance of ādrava as touch, melting, or agitation is context-dependent."
+   ],
+   "plain_english": "Even from a touch born of fear of worldly existence, a reflection on the fear of existence arises and becomes manifest in the heart through the descent of power."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "nakṣatraprerakakālatattvasaṃśoṣakāriṇo",
+     "gloss": "drying-up-the-time-principle-that-drives-the-stars",
+     "grounds": "description of those in whom he is manifest",
+     "morph": "m.gen.sg+compound"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "subject group",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
      "grounds": "connective",
-     "morph": "(indecl.)"
+     "morph": "indecl."
+    },
+    {
+     "surface": "kālagrāsasamādhānarasikamanaḥsu",
+     "gloss": "in-minds-delighting-in-absorption-of-devouring-time",
+     "grounds": "location of manifestation",
+     "morph": "n.loc.pl+compound"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "refers back to the minds",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "emphatic connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakaṭaḥ",
+     "gloss": "manifest",
+     "grounds": "state of the deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In whom does Bhairava become manifest through the transcendence of time?",
+   "premises": [
+    "Some practitioners dry up the time principle that drives the stars.",
+    "Their minds delight in the absorption that devours time.",
+    "Bhairava becomes manifest in such minds."
+   ],
+   "inference": "Bhairava is manifest in those whose contemplative absorption transcends and consumes the limiting power of time.",
+   "uncertainties": [
+    "The compound nakṣatraprerakakālatattva can be parsed in slightly different ways, but the sense of transcending time remains clear."
+   ],
+   "plain_english": "He is manifest in those who dry up the time principle that drives the stars, and in minds that delight in the absorption which devours time."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "saṃkocipaśujanabhiye",
+     "gloss": "for-fear-of-contracted-bound-beings",
+     "grounds": "purpose of the sound",
+     "morph": "f.dat.sg+compound"
+    },
+    {
+     "surface": "yāsāṃ",
+     "gloss": "of-whom",
+     "grounds": "refers to the goddesses",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ravaṇaṃ",
+     "gloss": "roaring-sound",
+     "grounds": "the action attributed to them",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svakaraṇadevīnām",
+     "gloss": "of-the-goddesses-of-one's-own-senses",
+     "grounds": "the agents of the sound",
+     "morph": "f.gen.pl+compound"
+    },
+    {
+     "surface": "antarbahiścaturvidhakhecaryādikagaṇasyāpi",
+     "gloss": "and-also-of-the-fourfold-group-of-khecari-and-others-within-and-without",
+     "grounds": "extends the scope to other goddess groups",
+     "morph": "m.gen.sg+compound"
+    }
+   ],
+   "question": "Whose roaring sound terrifies contracted bound beings?",
+   "premises": [
+    "The goddesses of one's own senses produce a roaring sound.",
+    "The fourfold group of Khecari and others, within and without, also participates in this.",
+    "This roaring sound instills fear in contracted bound beings."
+   ],
+   "inference": "The terrifying roar arises from the goddesses of the senses and the inner and outer groups such as Khecari, affecting bound beings.",
+   "uncertainties": [
+    "The exact grouping of the fourfold khecari class is assumed from standard Tantric taxonomy."
+   ],
+   "plain_english": "The roaring sound of the goddesses of one's own senses, and also of the fourfold group of Khecari and others within and without, is for the fear of contracted bound beings."
+  },
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the group mentioned before",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svāmī",
+     "gloss": "lord",
+     "grounds": "role of Bhairava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃsāravṛttivighaṭanamahābhīmaḥ",
+     "gloss": "greatly-terrifying-in-shattering-the-course-of-worldly-existence",
+     "grounds": "description of Bhairava",
+     "morph": "m.nom.sg+compound"
+    },
+    {
+     "surface": "bhairava",
+     "gloss": "Bhairava",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gurubhirimairanvarthaiḥ",
+     "gloss": "by-the-teachers-with-these-etymological-meanings",
+     "grounds": "source of the praise",
+     "morph": "m.ins.pl+compound"
+    },
+    {
+     "surface": "saṃstutaḥ",
+     "gloss": "praised",
+     "grounds": "action done in scripture",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "in-the-scripture",
+     "grounds": "location of praise",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Why is the deity praised as Bhairava in the scripture?",
+   "premises": [
+    "He is the lord of the goddess groups described earlier.",
+    "He is greatly terrifying because he shatters the course of worldly existence.",
+    "Teachers praise him in scripture through such etymological meanings."
+   ],
+   "inference": "The name Bhairava is explained theologically as the lord who is terrifying in breaking the cycle of worldly existence.",
+   "uncertainties": [],
+   "plain_english": "As the lord of that group, greatly terrifying in shattering the course of worldly existence, he is praised in the scripture by the teachers with these etymological meanings as Bhairava."
+  },
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "heyopādeyakathāvirahe",
+     "gloss": "in-the-absence-of-talk-of-rejectable-and-acceptable",
+     "grounds": "condition for divine play",
+     "morph": "m.loc.sg+compound"
+    },
+    {
+     "surface": "svānandaghanatayocchalanam",
+     "gloss": "overflowing-through-the-density-of-one's-own-bliss",
+     "grounds": "definition of play",
+     "morph": "n.nom.sg+compound"
+    },
+    {
+     "surface": "krīḍā",
+     "gloss": "play",
+     "grounds": "divine activity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvotkarṣeṇavartanecchā",
+     "gloss": "will-to-abide-in-supremacy-over-all",
+     "grounds": "definition of sovereignty",
+     "morph": "f.nom.sg+compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svatantratvam",
+     "gloss": "independence",
+     "grounds": "divine attribute",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are play and independence in the context of Bhairava's nature?",
+   "premises": [
+    "Divine play occurs where there is no concern with what should be rejected or accepted.",
+    "Play is the overflowing of the density of one's own bliss.",
+    "Independence is the will to abide in supremacy over all."
+   ],
+   "inference": "Bhairava's play and independence are expressions of blissful sovereignty beyond dualistic valuation.",
+   "uncertainties": [],
+   "plain_english": "Play is the overflowing of the density of one's own bliss in the absence of any talk of what is to be rejected or accepted; likewise, independence is the will to abide in supremacy over all."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "vyavaharaṇamabhinne@pi",
+     "gloss": "activity-even-in-the-undivided",
+     "grounds": "paradoxical divine action",
+     "morph": "n.nom.sg+compound"
+    },
+    {
+     "surface": "svātmani",
+     "gloss": "in-one's-own-self",
+     "grounds": "locus of activity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhedena",
+     "gloss": "through-difference",
+     "grounds": "mode of activity",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saṃjalpaḥ",
+     "gloss": "articulate-expression",
+     "grounds": "definition related to mantra or speech",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nikhilāvabhāsanācca",
+     "gloss": "and-from-the-manifestation-of-all",
+     "grounds": "basis of illumination",
+     "morph": "f.abl.sg+compound"
+    },
+    {
+     "surface": "dyotanamasya",
+     "gloss": "his-illumination",
+     "grounds": "definition of praise or shining",
+     "morph": "n.nom.sg+compound"
+    },
+    {
+     "surface": "stutiryataḥ",
+     "gloss": "praise-because",
+     "grounds": "reason for the term",
+     "morph": "f.nom.sg+indecl."
+    },
+    {
+     "surface": "sakalam",
+     "gloss": "everything",
+     "grounds": "scope of manifestation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are articulate expression and praise understood in Bhairava's undivided self?",
+   "premises": [
+    "Even in the undivided self, activity can appear through difference.",
+    "Such differentiated expression is called articulate expression.",
+    "Because everything is manifested, that shining forth is called praise."
+   ],
+   "inference": "Expression and praise are modes in which the undivided reality manifests difference and illumination without losing its unity.",
+   "uncertainties": [
+    "saṃjalpa may also carry a nuance of inner discourse or mantra-like formulation."
+   ],
+   "plain_english": "Articulate expression is activity through difference even within the undivided self, and because everything is manifested, that illumination is called praise."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "tatpravaṇamātmalābhātprabhṛti",
+     "gloss": "inclined-toward-that-from-the-attainment-of-self-onward",
+     "grounds": "starting point of orientation",
+     "morph": "indecl.+compound"
+    },
+    {
+     "surface": "samaste@pi",
+     "gloss": "even-in-every",
+     "grounds": "scope of action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kartavye",
+     "gloss": "thing-to-be-done",
+     "grounds": "domain of activity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bodhātmakaḥ",
+     "gloss": "consisting-of-awareness",
+     "grounds": "nature of the path",
+     "morph": "m.nom.sg+compound"
+    },
+    {
+     "surface": "samastakriyāmayo",
+     "gloss": "consisting-of-all-action",
+     "grounds": "nature of the path",
+     "morph": "m.nom.sg+compound"
+    },
+    {
+     "surface": "dṛkkriyāguṇaśca",
+     "gloss": "and-having-the-qualities-of-seeing-and-doing",
+     "grounds": "characterization of the path",
+     "morph": "m.nom.sg+compound"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "the-path",
+     "grounds": "subject being defined",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the nature of the path after the attainment of the self?",
+   "premises": [
+    "From the attainment of the self onward, one becomes inclined toward that reality.",
+    "This orientation applies in every action to be done.",
+    "The path is awareness, all action, and the qualities of seeing and doing."
+   ],
+   "inference": "After self-attainment, the path integrates awareness and action in every deed through the powers of knowing and doing.",
+   "uncertainties": [],
+   "plain_english": "From the attainment of the self onward, in every action to be done, the path is inclined toward that reality; it consists of awareness, consists of all action, and has the qualities of seeing and doing."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusion marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nirvacanaiḥ",
+     "gloss": "by-etymological-explanations",
+     "grounds": "method of teaching",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "śivatanuśāstre",
+     "gloss": "in-the-scripture-on-the-body-of-shiva",
+     "grounds": "textual source",
+     "morph": "n.loc.sg+compound"
+    },
+    {
+     "surface": "gurubhiḥ",
+     "gloss": "by-the-teachers",
+     "grounds": "authoritative interpreters",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "smṛto",
+     "gloss": "remembered-taught",
+     "grounds": "traditional transmission",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "the-god",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāsanarodhanapālanapācanayogātsa",
+     "gloss": "because-of-commanding-restraining-protecting-and-maturing",
+     "grounds": "etymological basis of pati",
+     "morph": "m.abl.sg+compound"
+    },
+    {
+     "surface": "sarvamupakurute",
+     "gloss": "he-benefits-all",
+     "grounds": "divine function",
+     "morph": "3.sg.pres.act"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "logical connector",
+     "morph": "indecl."
+    },
+    {
+     "surface": "patiḥ",
+     "gloss": "the-lord",
+     "grounds": "title derived",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śreyomaya",
+     "gloss": "consisting-of-good",
+     "grounds": "nature of Shiva",
+     "morph": "m.nom.sg+compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śivo",
+     "gloss": "Shiva",
+     "grounds": "the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāśivaṃ",
+     "gloss": "not-inauspicious",
+     "grounds": "negation of the opposite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kimapi",
+     "gloss": "anything-at-all",
+     "grounds": "scope of negation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that reality",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why is the deity called Pati and identified as wholly auspicious Shiva?",
+   "premises": [
+    "Teachers explain the deity through etymologies in the scripture on the body of Shiva.",
+    "He commands, restrains, protects, and matures, thereby benefiting all.",
+    "Because of these functions he is called Pati, and in him there is nothing inauspicious."
+   ],
+   "inference": "The lordship of Shiva is defined by beneficent governance, so his nature is entirely auspicious.",
+   "uncertainties": [
+    "The compound śāsanarodhanapālanapācanayoga compresses several functions traditionally associated with the term Pati."
+   ],
+   "plain_english": "Thus, by etymological explanations in the scripture on the body of Shiva, the teachers have taught the god: because he commands, restrains, protects, and matures, he benefits all. Therefore he is Pati, and Shiva is indeed wholly auspicious; there is nothing inauspicious in him."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "īdṛgrūpaṃ",
+     "gloss": "such-a-form",
+     "grounds": "the nature described above",
+     "morph": "n.nom.sg+compound"
+    },
+    {
+     "surface": "kiyadapi",
+     "gloss": "even-a-little",
+     "grounds": "limited degree of manifestation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rudropendrādiṣu",
+     "gloss": "in-Rudra-Upendra-and-others",
+     "grounds": "other deities",
+     "morph": "m.loc.pl+compound"
+    },
+    {
+     "surface": "sphuredyena",
+     "gloss": "by-which-it-might-shine",
+     "grounds": "reason for qualification",
+     "morph": "indecl.+3.sg.opt.act"
+    },
+    {
+     "surface": "tenāvacchedanude",
+     "gloss": "therefore-to-the-one-who-removes-limitation",
+     "grounds": "purpose of the epithet",
+     "morph": "indecl.+m.dat.sg+compound"
+    },
+    {
+     "surface": "paramamahatpadaviśeṣaṇamupāttam",
+     "gloss": "the-qualifier-supreme-great-state-is-applied",
+     "grounds": "conclusion about the epithet",
+     "morph": "n.nom.sg.past-participle+compound"
+    }
+   ],
+   "question": "Why is the qualifier 'supreme and great' applied to Shiva's state?",
+   "premises": [
+    "A little of such a form may shine in Rudra, Upendra, and others.",
+    "Shiva removes limitation rather than being limited by it.",
+    "Therefore the qualifier 'supreme and great state' is applied to him."
+   ],
+   "inference": "Because Shiva transcends the partial manifestations found in other deities, he is designated by the supreme and great state.",
+   "uncertainties": [
+    "The sandhi in tenāvacchedanude is compressed; the sense of removing limitation is inferred from context."
+   ],
+   "plain_english": "Since even a little of such a form may shine in Rudra, Upendra, and others, the qualifier 'supreme and great state' is applied to him as the one who removes limitation."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "introductory marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yajjñeyasatattvaṃ",
+     "gloss": "that-true-reality-to-be-known",
+     "grounds": "object of teaching",
+     "morph": "n.nom.sg+compound"
+    },
+    {
+     "surface": "darśyate",
+     "gloss": "is-shown",
+     "grounds": "act of exposition",
+     "morph": "3.sg.pres.pass"
+    },
+    {
+     "surface": "tacchivājñayā",
+     "gloss": "that-by-the-command-of-shiva",
+     "grounds": "authority for teaching",
+     "morph": "n.nom.sg+f.ins.sg+compound"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker",
+     "morph": "ins.sg"
+    },
+    {
+     "surface": "svasaṃvitsattarkapatiśāstratrikakramāt",
+     "gloss": "through-one's-own-awareness-true-reasoning-lordly-scripture-and-the-trika-sequence",
+     "grounds": "sources and method",
+     "morph": "m.abl.sg+compound"
+    }
+   ],
+   "question": "By what authority and method is the knowable reality being shown?",
+   "premises": [
+    "The true reality to be known is being shown.",
+    "It is shown by the command of Shiva.",
+    "The exposition proceeds through one's own awareness, true reasoning, lordly scripture, and the Trika sequence."
+   ],
+   "inference": "The teaching of ultimate reality is grounded in Shiva's command and articulated through awareness, reasoning, scripture, and Trika tradition.",
+   "uncertainties": [
+    "The compound patiśāstra may refer to authoritative scripture or to the doctrine of the Lord; the broader sense is clear."
+   ],
+   "plain_english": "Thus, that true reality which is to be known is shown by me, by the command of Shiva, through my own awareness, sound reasoning, the lordly scripture, and the sequence of the Trika."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to Shiva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śaktaya",
+     "gloss": "powers",
+     "grounds": "subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "evaitāstisro",
+     "gloss": "indeed-these-three",
+     "grounds": "identification of the powers",
+     "morph": "indecl.+f.nom.pl"
+    },
+    {
+     "surface": "bhānti",
+     "gloss": "shine",
+     "grounds": "their manifestation",
+     "morph": "3.pl.pres.act"
+    },
+    {
+     "surface": "parādikāḥ",
+     "gloss": "beginning-with-para",
+     "grounds": "names of the powers",
+     "morph": "f.nom.pl+compound"
+    },
+    {
+     "surface": "sṛṣṭau",
+     "gloss": "in-creation",
+     "grounds": "domain of operation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sthitau",
+     "gloss": "in-maintenance",
+     "grounds": "domain of operation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "laye",
+     "gloss": "in-dissolution",
+     "grounds": "domain of operation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "turye",
+     "gloss": "in-the-fourth",
+     "grounds": "transcendent domain",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tenaitā",
+     "gloss": "therefore-these",
+     "grounds": "logical result",
+     "morph": "indecl.+f.nom.pl"
+    },
+    {
+     "surface": "dvādaśoditāḥ",
+     "gloss": "declared-as-twelve",
+     "grounds": "expanded enumeration",
+     "morph": "f.nom.pl.past-participle+compound"
+    }
+   ],
+   "question": "How do Shiva's three primary powers become twelve?",
+   "premises": [
+    "Shiva has three powers beginning with Para.",
+    "These powers shine in creation, maintenance, dissolution, and the fourth state.",
+    "Operating across these four domains, they are declared as twelve."
+   ],
+   "inference": "The three primary powers unfold into twelve by functioning in the four cosmic domains.",
+   "uncertainties": [],
+   "plain_english": "His three powers, beginning with Para, shine in creation, maintenance, dissolution, and the fourth state; therefore they are declared as twelve."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "tāvānpūrṇasvabhāvo@sau",
+     "gloss": "to-that-extent-this-one-of-full-nature",
+     "grounds": "measure of fullness",
+     "morph": "m.nom.sg+compound"
+    },
+    {
+     "surface": "paramaḥ",
+     "gloss": "supreme",
+     "grounds": "epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "Shiva",
+     "grounds": "the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.pres.pass"
+    },
+    {
+     "surface": "tenātropāsakāḥ",
+     "gloss": "therefore-here-the-worshippers",
+     "grounds": "result for practitioners",
+     "morph": "indecl.+indecl.+m.nom.pl"
+    },
+    {
+     "surface": "sākṣāttatraiva",
+     "gloss": "directly-right-there",
+     "grounds": "place of culmination",
+     "morph": "indecl.+indecl."
+    },
+    {
+     "surface": "pariniṣṭhitāḥ",
+     "gloss": "fully-established",
+     "grounds": "state of practitioners",
+     "morph": "m.nom.pl.past-participle"
+    }
+   ],
+   "question": "Where do worshippers become fully established in relation to supreme Shiva?",
+   "premises": [
+    "Supreme Shiva is called full in nature to that extent.",
+    "His fullness is understood through these powers.",
+    "Worshippers become directly and fully established right there."
+   ],
+   "inference": "Direct establishment in supreme Shiva occurs in the very fullness expressed through his powers.",
+   "uncertainties": [],
+   "plain_english": "To that extent this supreme Shiva is called of full nature; therefore worshippers are directly and fully established right there."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "tāsāmapi",
+     "gloss": "even-of-them",
+     "grounds": "refers to the powers",
+     "morph": "f.gen.pl+indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
     },
     {
      "surface": "bhedāṃśanyūnādhikyādiyojanam",
-     "gloss": "divisions-and-less-more-etc-application",
-     "grounds": "variations in number and arrangement",
-     "morph": "compound"
+     "gloss": "the-arrangement-of-divisions-and-portions-by-lesser-greater-and-so-on",
+     "grounds": "further differentiation",
+     "morph": "n.acc.sg+compound"
     },
     {
      "surface": "tatsvātantryabalādeva",
-     "gloss": "by-that-freedom-power-alone",
-     "grounds": "due to the Lord's own autonomy",
-     "morph": "compound"
+     "gloss": "precisely-by-the-force-of-his-independence",
+     "grounds": "cause of differentiation",
+     "morph": "n.abl.sg+compound"
     },
     {
      "surface": "śāstreṣu",
      "gloss": "in-the-scriptures",
-     "grounds": "in the sacred teachings",
+     "grounds": "where it is taught",
      "morph": "n.loc.pl"
     },
     {
      "surface": "paribhāṣitam",
-     "gloss": "declared",
-     "grounds": "stated or explained",
-     "morph": "n.nom.sg.ppp + pari-bhāṣ"
+     "gloss": "has-been-explained",
+     "grounds": "traditional exposition",
+     "morph": "n.nom.sg.past-participle"
     }
    ],
-   "question": "Why do the scriptures describe varied divisions and arrangements of these energies?",
+   "question": "What explains the further divisions among Shiva's powers in the scriptures?",
    "premises": [
-    "The energies can appear in different divisions and arrangements.",
-    "These variations include lesser, greater, and other configurations.",
-    "Such variations arise from the Lord's own autonomous power."
+    "The powers are further divided into portions of lesser, greater, and other arrangements.",
+    "These arrangements are explained in the scriptures.",
+    "Their cause is the force of Shiva's independence."
    ],
-   "inference": "Therefore, the scriptures declare these diverse arrangements because they express the Lord's freedom.",
-   "uncertainties": [
-    "The exact scope of ādi in nyūnādhikyādi is not specified."
-   ],
-   "plain_english": "The scriptures also describe divisions and arrangements of these energies, in lesser, greater, and other forms, because of the power of that same freedom."
+   "inference": "All scriptural differentiations of the powers arise from Shiva's own sovereign freedom.",
+   "uncertainties": [],
+   "plain_english": "The further arrangement of their divisions and portions, by lesser, greater, and so on, has been explained in the scriptures precisely by the force of his independence."
   },
   {
    "verse": 110,
    "rows": [
     {
      "surface": "ekavīro",
-     "gloss": "one-hero",
-     "grounds": "a form characterized by a single hero",
-     "morph": "m.nom.sg"
+     "gloss": "the-one-hero",
+     "grounds": "first form of Bhairava",
+     "morph": "m.nom.sg+compound"
     },
     {
      "surface": "yāmalo@tha",
-     "gloss": "paired-then",
-     "grounds": "a twofold or paired form",
-     "morph": "m.nom.sg + (indecl.)"
+     "gloss": "then-the-paired-one",
+     "grounds": "second form",
+     "morph": "m.nom.sg+indecl."
     },
     {
      "surface": "triśaktiścaturātmakaḥ",
-     "gloss": "three-powered-four-natured",
-     "grounds": "having three powers and a fourfold nature",
-     "morph": "m.nom.sg + m.nom.sg"
+     "gloss": "having-three-powers-and-fourfold-nature",
+     "grounds": "third and fourth forms",
+     "morph": "m.nom.sg+compound"
     },
     {
      "surface": "pañcamūrtiḥ",
-     "gloss": "five-formed",
-     "grounds": "having five forms",
-     "morph": "m.nom.sg"
+     "gloss": "having-five-forms",
+     "grounds": "fifth form",
+     "morph": "m.nom.sg+compound"
     },
     {
      "surface": "ṣaḍātmāyaṃ",
-     "gloss": "six-natured-this",
-     "grounds": "this one having a sixfold nature",
-     "morph": "m.nom.sg + m.nom.sg"
+     "gloss": "this-one-having-sixfold-nature",
+     "grounds": "sixth form",
+     "morph": "m.nom.sg+compound"
     },
     {
      "surface": "saptako@ṣṭakabhūṣitaḥ",
-     "gloss": "adorned-with-seven-and-eight",
-     "grounds": "arrayed in groups of seven and eight",
-     "morph": "m.nom.sg"
+     "gloss": "adorned-as-sevenfold-and-eightfold",
+     "grounds": "seventh and eighth forms",
+     "morph": "m.nom.sg+compound"
     }
    ],
-   "question": "In what numerical forms is this Lord described in the scriptures?",
+   "question": "What are the first series of forms in which Bhairava is enumerated?",
    "premises": [
-    "The Lord is presented through multiple numerical configurations.",
-    "These configurations range from one to groups of seven and eight.",
-    "Each configuration names a distinct mode of manifestation."
+    "Bhairava is described through successive numerical forms.",
+    "These forms range from one to eight in this verse.",
+    "Each form names a distinct configuration of his nature."
    ],
-   "inference": "Thus the same Lord is described as appearing in progressively varied numerical forms.",
-   "uncertainties": [
-    "The precise referents of saptaka and aṣṭaka are not explicit in this verse."
-   ],
-   "plain_english": "He is described as the One Hero, then as the Paired One, as Three-Powered and Four-Natured, as Five-Formed, as Six-Natured, and as adorned with the sevenfold and eightfold."
+   "inference": "Bhairava is presented as a single reality unfolding through multiple numerical configurations.",
+   "uncertainties": [],
+   "plain_english": "He is the One Hero, then the Paired One, the one with three powers and fourfold nature, the one with five forms, the one with sixfold nature, and the one adorned as sevenfold and eightfold."
   },
   {
    "verse": 111,
    "rows": [
     {
      "surface": "navātmā",
-     "gloss": "nine-natured",
-     "grounds": "having a ninefold nature",
-     "morph": "m.nom.sg"
+     "gloss": "ninefold-self",
+     "grounds": "ninth form",
+     "morph": "m.nom.sg+compound"
     },
     {
      "surface": "daśadikchaktirekādaśakalātmakaḥ",
-     "gloss": "ten-direction-powered-eleven-part-natured",
-     "grounds": "having the powers of the ten directions and an eleven-part nature",
-     "morph": "m.nom.sg + m.nom.sg"
+     "gloss": "having-the-powers-of-the-ten-directions-and-elevenfold-nature",
+     "grounds": "tenth and eleventh forms",
+     "morph": "m.nom.sg+compound"
     },
     {
      "surface": "dvādaśāramahācakranāyako",
      "gloss": "lord-of-the-great-twelve-spoked-wheel",
-     "grounds": "master of the great twelve-spoked circle",
-     "morph": "m.nom.sg"
+     "grounds": "twelfth form",
+     "morph": "m.nom.sg+compound"
     },
     {
      "surface": "bhairavastviti",
-     "gloss": "Bhairava-thus",
-     "grounds": "identified as Bhairava",
-     "morph": "m.nom.sg + (indecl.) + (indecl.)"
+     "gloss": "thus-Bhairava",
+     "grounds": "conclusion of enumeration",
+     "morph": "m.nom.sg+indecl.+indecl."
     }
    ],
-   "question": "How is Bhairava further identified through higher numerical configurations?",
+   "question": "How does the enumeration of Bhairava's forms culminate in the twelvefold wheel?",
    "premises": [
-    "The sequence of numerical forms continues beyond the earlier ones.",
-    "Bhairava is associated with nine, ten, eleven, and twelvefold structures.",
-    "These structures include directions, parts, and a great wheel."
+    "The enumeration continues beyond the eightfold forms.",
+    "Bhairava is described as ninefold, ten-directional, and elevenfold.",
+    "He culminates as lord of the great twelve-spoked wheel."
    ],
-   "inference": "Therefore Bhairava is presented as the Lord who encompasses these higher configurations.",
-   "uncertainties": [
-    "The exact technical mapping of the eleven parts is not stated here."
-   ],
-   "plain_english": "He is Nine-Natured, endowed with the powers of the ten directions, Eleven-Part in nature, and the Lord of the great twelve-spoked wheel—thus he is Bhairava."
+   "inference": "The numerical unfolding of Bhairava reaches a culminating form as sovereign of the twelvefold wheel.",
+   "uncertainties": [],
+   "plain_english": "Thus Bhairava is the ninefold self, the one with the powers of the ten directions and elevenfold nature, and the lord of the great twelve-spoked wheel."
   },
   {
    "verse": 112,
@@ -151,287 +891,283 @@
     {
      "surface": "evaṃ",
      "gloss": "thus",
-     "grounds": "in this manner",
-     "morph": "(indecl.)"
+     "grounds": "summary marker",
+     "morph": "indecl."
     },
     {
      "surface": "yāvatsahasrāre",
-     "gloss": "up-to-thousand-spoked",
-     "grounds": "extending even to a thousand spokes",
-     "morph": "n.loc.sg"
+     "gloss": "up-to-the-thousand-spoked",
+     "grounds": "extent of expansion",
+     "morph": "n.loc.sg+compound"
     },
     {
      "surface": "niḥsaṃkhyāre@pi",
-     "gloss": "in-countless-spoked-also",
-     "grounds": "even in one with countless spokes",
-     "morph": "n.loc.sg + (indecl.)"
+     "gloss": "even-in-the-uncountably-spoked",
+     "grounds": "further extent",
+     "morph": "n.loc.sg+compound"
     },
     {
      "surface": "vā",
      "gloss": "or",
      "grounds": "alternative",
-     "morph": "(indecl.)"
+     "morph": "indecl."
     },
     {
      "surface": "prabhuḥ",
-     "gloss": "the-Lord",
-     "grounds": "the sovereign master",
+     "gloss": "the-lord",
+     "grounds": "subject",
      "morph": "m.nom.sg"
     },
     {
      "surface": "viśvacakre",
-     "gloss": "in-the-universal-wheel",
-     "grounds": "in the wheel of the universe",
-     "morph": "n.loc.sg"
+     "gloss": "in-the-wheel-of-the-universe",
+     "grounds": "cosmic locus",
+     "morph": "n.loc.sg+compound"
     },
     {
      "surface": "maheśāno",
-     "gloss": "the-Great-Lord",
-     "grounds": "Maheśāna, the supreme ruler",
+     "gloss": "the-great-lord",
+     "grounds": "epithet",
      "morph": "m.nom.sg"
     },
     {
      "surface": "viśvaśaktirvijṛmbhate",
-     "gloss": "universal-powered-unfolds",
-     "grounds": "manifests with all powers",
-     "morph": "m.nom.sg + 3.sg.pres.act + vi-jṛmbh"
+     "gloss": "as-the-power-of-the-universe-he-expands",
+     "grounds": "dynamic manifestation",
+     "morph": "m.nom.sg+3.sg.pres.act"
     }
    ],
-   "question": "How far does the Lord's manifestation in wheel-forms extend?",
+   "question": "How far does Bhairava's expansion extend in the cosmic wheel?",
    "premises": [
-    "The Lord's forms are not limited to small numerical configurations.",
-    "They can extend to a thousand-spoked or even countless-spoked wheel.",
-    "The universal wheel is the field of this manifestation."
+    "Bhairava's forms can be enumerated up to a thousand spokes.",
+    "They can also extend to an uncountable number of spokes.",
+    "As universal power, the great lord expands in the wheel of the universe."
    ],
-   "inference": "Therefore the Great Lord unfolds as the power of the universe in wheels of any magnitude.",
+   "inference": "Bhairava's manifestation is not limited to fixed numerical forms but expands infinitely as universal power.",
    "uncertainties": [],
-   "plain_english": "Thus, in the universal wheel, whether it has a thousand spokes or even countless spokes, the Lord Maheśāna unfolds as the power of the whole universe."
+   "plain_english": "Thus, up to the thousand-spoked or even the uncountably spoked wheel of the universe, the lord, the great sovereign, expands as the power of the universe."
   },
   {
    "verse": 113,
    "rows": [
     {
      "surface": "teṣāmapi",
-     "gloss": "of-those-also",
-     "grounds": "of those wheels as well",
-     "morph": "n.gen.pl + (indecl.)"
+     "gloss": "even-of-those",
+     "grounds": "refers to the wheels",
+     "morph": "n.gen.pl+indecl."
     },
     {
      "surface": "ca",
      "gloss": "and",
      "grounds": "connective",
-     "morph": "(indecl.)"
+     "morph": "indecl."
     },
     {
      "surface": "cakrāṇā",
      "gloss": "of-the-wheels",
-     "grounds": "of the circles or mandalas",
+     "grounds": "subject of differentiation",
      "morph": "n.gen.pl"
     },
     {
      "surface": "svavargānugamātmanā",
-     "gloss": "by-own-group-following-nature",
-     "grounds": "through unity that follows each one's own group",
-     "morph": "compound"
+     "gloss": "by-the-nature-of-following-their-own-group",
+     "grounds": "principle of unity",
+     "morph": "m.ins.sg+compound"
     },
     {
      "surface": "aikyena",
-     "gloss": "by-unity",
-     "grounds": "through oneness",
+     "gloss": "through-unity",
+     "grounds": "mode of organization",
      "morph": "n.ins.sg"
     },
     {
      "surface": "cakrago",
-     "gloss": "wheel-based",
-     "grounds": "belonging to the wheels",
-     "morph": "m.nom.sg"
+     "gloss": "belonging-to-the-wheel",
+     "grounds": "type of division",
+     "morph": "m.nom.sg+compound"
     },
     {
      "surface": "bhedastatra",
      "gloss": "division-there",
-     "grounds": "a distinction in that context",
-     "morph": "m.nom.sg + (indecl.)"
+     "grounds": "resulting differentiation",
+     "morph": "m.nom.sg+indecl."
     },
     {
      "surface": "tatra",
-     "gloss": "there",
-     "grounds": "in various places",
-     "morph": "(indecl.)"
+     "gloss": "in-each-case",
+     "grounds": "distributed location",
+     "morph": "indecl."
     },
     {
      "surface": "nirūpitaḥ",
-     "gloss": "explained",
-     "grounds": "determined or set forth",
-     "morph": "m.nom.sg.ppp + nir-rūp"
+     "gloss": "has-been-determined",
+     "grounds": "scriptural determination",
+     "morph": "m.nom.sg.past-participle"
     }
    ],
-   "question": "How are distinctions among the various wheels explained?",
+   "question": "How are divisions among the many wheels explained without losing unity?",
    "premises": [
-    "There are many wheels described in the teachings.",
-    "Each wheel can be understood through the unity of its own group.",
-    "Scriptural explanations distinguish wheels in different contexts."
+    "There are many wheels of manifestation.",
+    "Each follows its own group or class.",
+    "Their divisions are determined through a unity that belongs to each wheel."
    ],
-   "inference": "Therefore the distinctions among wheels are explained through group-based unities in their respective contexts.",
-   "uncertainties": [
-    "The repetition of tatra may indicate emphasis or different loci; the nuance is slight."
-   ],
-   "plain_english": "Among those wheels too, distinctions are explained in different places through a unity that follows the grouping proper to each wheel."
+   "inference": "Multiplicity among the wheels is organized by class-based unity rather than by absolute separation.",
+   "uncertainties": [],
+   "plain_english": "Even among those wheels, divisions belonging to each wheel have been determined there by a unity that follows its own group."
   },
   {
    "verse": 114,
    "rows": [
     {
      "surface": "catuṣṣaḍdvirdvigaṇanāyogāttraiśirase",
-     "gloss": "by-joining-four-six-two-two-counting-in-Traiśirasa",
-     "grounds": "by the combination of four, six, two, and two in the Traiśirasa teaching",
-     "morph": "compound"
+     "gloss": "by-the-combination-of-counting-four-six-two-and-two-in-the-traiśirasa",
+     "grounds": "numerical basis in a specific tradition",
+     "morph": "m.abl.sg+compound"
     },
     {
      "surface": "mate",
-     "gloss": "in-the-doctrine",
-     "grounds": "in that view or system",
+     "gloss": "doctrine",
+     "grounds": "school or teaching",
      "morph": "n.loc.sg"
     },
     {
      "surface": "ṣaṭcakreśvaratā",
      "gloss": "lordship-over-six-wheels",
-     "grounds": "the state of being lord of six wheels",
-     "morph": "f.nom.sg"
+     "grounds": "doctrinal claim",
+     "morph": "f.nom.sg+compound"
     },
     {
      "surface": "nāthasyoktā",
-     "gloss": "of-the-Lord-declared",
-     "grounds": "stated of the Lord",
-     "morph": "m.gen.sg + f.nom.sg.ppp + vac"
+     "gloss": "of-the-lord-has-been-stated",
+     "grounds": "reported teaching",
+     "morph": "f.nom.sg.past-participle+compound"
     },
     {
      "surface": "citranijākṛteḥ",
-     "gloss": "of-wondrous-own-form",
-     "grounds": "whose own form is manifold and wondrous",
-     "morph": "m.gen.sg"
+     "gloss": "of-the-one-whose-own-form-is-wondrous",
+     "grounds": "description of the lord",
+     "morph": "m.gen.sg+compound"
     }
    ],
-   "question": "How does the Traiśirasa doctrine present the Lord's lordship over wheels?",
+   "question": "How does the Traiśirasa doctrine explain the lordship over six wheels?",
    "premises": [
-    "The Traiśirasa doctrine uses a specific numerical combination.",
-    "That combination yields a six-wheel structure.",
-    "The Lord's own form is described as wondrous and manifold."
+    "The Traiśirasa doctrine uses a numerical combination of four, six, two, and two.",
+    "On that basis it states the lordship of the deity over six wheels.",
+    "This lord is described as having a wondrous own form."
    ],
-   "inference": "Therefore the Traiśirasa doctrine declares the wondrous Lord to be sovereign over six wheels.",
+   "inference": "A specific scriptural tradition derives sixfold wheel-lordship from its own numerical scheme.",
    "uncertainties": [
-    "The exact derivation of four, six, two, and two into the six wheels is compressed in the compound."
+    "The internal arithmetic of the compound catuṣṣaḍdvirdvigaṇanā is compressed and tradition-specific."
    ],
-   "plain_english": "In the Traiśirasa doctrine, by combining the counts of four, six, two, and two, the Lord of wondrous form is declared to be the sovereign of six wheels."
+   "plain_english": "In the Traiśirasa doctrine, by the combination of counting four, six, two, and two, the lordship of the Lord, whose own form is wondrous, over six wheels has been stated."
   },
   {
    "verse": 115,
    "rows": [
     {
      "surface": "nāmāni",
-     "gloss": "names",
-     "grounds": "the names",
+     "gloss": "the-names",
+     "grounds": "subject",
      "morph": "n.nom.pl"
     },
     {
      "surface": "cakradevīnāṃ",
-     "gloss": "of-the-wheel-goddesses",
-     "grounds": "of the goddesses of the wheels",
-     "morph": "f.gen.pl"
+     "gloss": "of-the-goddesses-of-the-wheel",
+     "grounds": "whose names",
+     "morph": "f.gen.pl+compound"
     },
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "in that context",
-     "morph": "(indecl.)"
+     "grounds": "in that doctrine",
+     "morph": "indecl."
     },
     {
      "surface": "kṛtyavibhedataḥ",
-     "gloss": "from-difference-of-functions",
-     "grounds": "according to distinctions in their activities",
-     "morph": "m.abl.sg"
+     "gloss": "according-to-differences-of-function",
+     "grounds": "principle of naming",
+     "morph": "m.abl.sg+compound"
     },
     {
      "surface": "saumyaraudrākṛtidhyānayogīnyanvarthakalpanāt",
-     "gloss": "from-meaningful-forming-of-gentle-fierce-form-meditation-yoginis",
-     "grounds": "from assigning fitting names based on gentle or fierce forms and meditations of the yoginis",
-     "morph": "compound"
+     "gloss": "from-etymological-formulation-of-yoginis-through-meditation-on-gentle-and-fierce-forms",
+     "grounds": "method of naming",
+     "morph": "f.abl.sg+compound"
     }
    ],
-   "question": "On what basis are the names of the wheel-goddesses assigned?",
+   "question": "How are the names of the wheel-goddesses determined in that system?",
    "premises": [
     "The wheel-goddesses have distinct names.",
-    "Their functions differ from one another.",
-    "Their forms and meditations can be gentle or fierce."
+    "Their names correspond to differences in function.",
+    "They are also formed etymologically through meditation on gentle and fierce forms of yoginis."
    ],
-   "inference": "Therefore their names are meaningfully assigned according to function and to gentle or fierce contemplative forms.",
-   "uncertainties": [
-    "The compound is dense; the relation between yoginī and dhyāna is interpretively compressed."
-   ],
-   "plain_english": "There, the names of the wheel-goddesses are given according to differences in their functions and by meaningfully assigning them forms and meditations, gentle or fierce, proper to the yoginis."
+   "inference": "The names of the wheel-goddesses express both their functions and the contemplative forms through which they are known.",
+   "uncertainties": [],
+   "plain_english": "There, the names of the goddesses of the wheel are determined according to differences of function and by etymological formulation of the yoginis through meditation on their gentle and fierce forms."
   },
   {
    "verse": 116,
    "rows": [
     {
      "surface": "ekasya",
-     "gloss": "of-one",
-     "grounds": "of a single",
+     "gloss": "of-the-one",
+     "grounds": "refers to the single lord of awareness",
      "morph": "m.gen.sg"
     },
     {
      "surface": "saṃvinnāthasya",
-     "gloss": "of-the-lord-of-consciousness",
-     "grounds": "of the master who is consciousness",
-     "morph": "m.gen.sg"
+     "gloss": "of-the-lord-of-awareness",
+     "grounds": "subject of manifestation",
+     "morph": "m.gen.sg+compound"
     },
     {
      "surface": "hyāntarī",
      "gloss": "indeed-inner",
-     "grounds": "the inward",
-     "morph": "(indecl.) + f.nom.sg"
+     "grounds": "quality of the form",
+     "morph": "indecl.+f.nom.sg"
     },
     {
      "surface": "pratibhā",
-     "gloss": "creative-flash",
-     "grounds": "intuitive creative awareness",
+     "gloss": "creative-intuition",
+     "grounds": "manifest form",
      "morph": "f.nom.sg"
     },
     {
      "surface": "tanuḥ",
-     "gloss": "body",
-     "grounds": "form or embodiment",
+     "gloss": "body-form",
+     "grounds": "mode of appearance",
      "morph": "f.nom.sg"
     },
     {
      "surface": "saumyaṃ",
      "gloss": "gentle",
-     "grounds": "mild or benign",
+     "grounds": "possible character",
      "morph": "n.nom.sg"
     },
     {
      "surface": "vānyanmitaṃ",
-     "gloss": "or-other-measured",
-     "grounds": "or another limited form",
-     "morph": "(indecl.) + n.nom.sg + n.nom.sg"
+     "gloss": "or-another-measured-form",
+     "grounds": "alternative character",
+     "morph": "indecl.+n.nom.sg.past-participle"
     },
     {
      "surface": "saṃvidūrmicakramupāsyate",
-     "gloss": "consciousness-wave-wheel-is-worshipped",
-     "grounds": "the wheel of waves of consciousness is contemplated or worshipped",
-     "morph": "n.nom.sg + 3.sg.pres.pass + up-ās"
+     "gloss": "the-wheel-of-waves-of-awareness-is-worshipped",
+     "grounds": "object of worship",
+     "morph": "n.nom.sg+3.sg.pres.pass"
     }
    ],
-   "question": "What is worshipped as the wheel of consciousness-waves in the Lord?",
+   "question": "What is worshipped as the wheel of waves of awareness?",
    "premises": [
-    "The Lord of consciousness has an inner creative intuition.",
-    "That intuition takes form as a body or manifestation.",
-    "The manifestation may appear as gentle or as another measured form."
+    "The one lord of awareness has an inner creative intuition as his body-form.",
+    "That form may appear as gentle or as another measured manifestation.",
+    "This is worshipped as the wheel of waves of awareness."
    ],
-   "inference": "Therefore the wheel of consciousness-waves worshipped is the inner creative intuition of the one Lord taking such forms.",
+   "inference": "The wheel of awareness is the inner intuitive manifestation of the one lord, appearing in varied forms.",
    "uncertainties": [
-    "Whether vānyanmitaṃ contrasts gentle with fierce or with any limited form is not fully explicit."
+    "anyanmitaṃ could suggest a limited or differently measured form; the contrast with gentle is clear."
    ],
-   "plain_english": "The inner creative intuition of the one Lord of consciousness is his own body; as a gentle or other measured form, it is worshipped as the wheel of waves of consciousness."
+   "plain_english": "The inner creative intuition of the one lord of awareness is his body-form; whether gentle or another measured form, it is worshipped as the wheel of waves of awareness."
   },
   {
    "verse": 117,
@@ -439,133 +1175,131 @@
     {
      "surface": "asya",
      "gloss": "of-this",
-     "grounds": "of this one",
+     "grounds": "refers to the practitioner or lord",
      "morph": "m.gen.sg"
     },
     {
      "surface": "syātpuṣṭirityeṣā",
      "gloss": "may-there-be-nourishment-thus-this",
-     "grounds": "the thought 'may there be nourishment for this'",
-     "morph": "3.sg.opt.act + as + f.nom.sg + (indecl.) + f.nom.sg"
+     "grounds": "intention directed to awareness",
+     "morph": "3.sg.opt.act+f.nom.sg+indecl.+f.nom.sg"
     },
     {
      "surface": "saṃviddevī",
-     "gloss": "consciousness-goddess",
-     "grounds": "the goddess who is consciousness",
-     "morph": "f.nom.sg"
+     "gloss": "the-goddess-awareness",
+     "grounds": "subject nourished",
+     "morph": "f.nom.sg+compound"
     },
     {
      "surface": "tathoditāt",
-     "gloss": "from-thus-described",
-     "grounds": "from what has been described in that way",
-     "morph": "(indecl.) + m.abl.sg.ppp + vad"
+     "gloss": "from-that-thus-described",
+     "grounds": "source of nourishment",
+     "morph": "indecl.+m.abl.sg.past-participle"
     },
     {
      "surface": "dhyānātsaṃjalpasaṃmiśrād",
-     "gloss": "from-meditation-mixed-with-inner-speech",
-     "grounds": "from contemplation blended with inner verbalization",
-     "morph": "n.abl.sg + m.abl.sg"
+     "gloss": "from-meditation-mixed-with-articulate-expression",
+     "grounds": "inner practice",
+     "morph": "n.abl.sg+compound"
     },
     {
      "surface": "vyāpārāccāpi",
      "gloss": "and-also-from-activity",
-     "grounds": "and also from outward action",
-     "morph": "m.abl.sg + (indecl.) + (indecl.)"
+     "grounds": "outer practice",
+     "morph": "m.abl.sg+indecl.+indecl."
     },
     {
      "surface": "bāhyataḥ",
      "gloss": "externally",
-     "grounds": "on the outer level",
-     "morph": "(indecl.)"
+     "grounds": "mode of activity",
+     "morph": "indecl."
     }
    ],
-   "question": "How does the goddess of consciousness become active as nourishment for the practitioner?",
+   "question": "How is the goddess Awareness nourished in practice?",
    "premises": [
-    "A conscious intention for nourishment can arise.",
-    "Meditation may be mixed with inner speech.",
-    "Outer activity can also participate in the same process."
+    "The intention arises that this awareness should be nourished.",
+    "Nourishment comes from meditation mixed with articulate expression.",
+    "It also comes from external activity."
    ],
-   "inference": "Therefore the goddess of consciousness operates through intention, contemplative speech, and outer action to bring nourishment.",
-   "uncertainties": [
-    "The antecedent of asya could be the practitioner or the contemplated form; the verse leaves it open."
-   ],
-   "plain_english": "The thought 'may this be nourished' is the goddess of consciousness herself; arising from the meditation described, mixed with inner speech and also expressed through outward activity, she becomes operative."
+   "inference": "Awareness is nourished through a combination of contemplative meditation, expressive formulation, and outward action.",
+   "uncertainties": [],
+   "plain_english": "With the intention, 'May this be nourished,' the goddess Awareness is nourished by the meditation described above mixed with articulate expression, and also by outward activity."
   },
   {
    "verse": 118,
    "rows": [
     {
      "surface": "sphuṭībhūtā",
-     "gloss": "become-clear",
-     "grounds": "having become manifest",
-     "morph": "f.nom.sg.ppp"
+     "gloss": "having-become-clear",
+     "grounds": "result of nourishment",
+     "morph": "f.nom.sg.past-participle+compound"
     },
     {
      "surface": "satī",
      "gloss": "being",
-     "grounds": "being present",
-     "morph": "f.nom.sg.prp + as"
+     "grounds": "state of awareness",
+     "morph": "f.nom.sg.pres-participle"
     },
     {
      "surface": "bhāti",
      "gloss": "shines",
-     "grounds": "appears clearly",
-     "morph": "3.sg.pres.act + bhā"
+     "grounds": "manifestation",
+     "morph": "3.sg.pres.act"
     },
     {
      "surface": "tasya",
      "gloss": "for-him",
-     "grounds": "for that one",
+     "grounds": "recipient of fruit",
      "morph": "m.gen.sg"
     },
     {
      "surface": "tādṛkphalapradā",
-     "gloss": "giver-of-such-fruit",
-     "grounds": "bestowing a corresponding result",
-     "morph": "f.nom.sg"
+     "gloss": "granting-such-a-fruit",
+     "grounds": "efficacy of awareness",
+     "morph": "f.nom.sg+compound"
     },
     {
      "surface": "puṣṭiḥ",
      "gloss": "nourishment",
-     "grounds": "fullness or flourishing",
+     "grounds": "subject defined by analogy",
      "morph": "f.nom.sg"
     },
     {
      "surface": "śuṣkasya",
      "gloss": "of-the-dry",
-     "grounds": "of what is withered",
-     "morph": "m.gen.sg"
+     "grounds": "analogy",
+     "morph": "n.gen.sg"
     },
     {
      "surface": "sarasībhāvo",
      "gloss": "becoming-a-lake",
-     "grounds": "transformation into a lake",
-     "morph": "m.nom.sg"
+     "grounds": "analogy for nourishment",
+     "morph": "m.nom.sg+compound"
     },
     {
      "surface": "jalamataḥ",
-     "gloss": "from-water-therefore",
-     "grounds": "because of water",
-     "morph": "n.nom.sg + (indecl.)"
+     "gloss": "therefore-water",
+     "grounds": "means of transformation",
+     "morph": "n.nom.sg+indecl."
     },
     {
      "surface": "sitam",
      "gloss": "clear",
-     "grounds": "bright or pure",
-     "morph": "n.nom.sg"
+     "grounds": "quality of the means",
+     "morph": "n.nom.sg.past-participle"
     }
    ],
-   "question": "What result appears when the nourishing consciousness becomes fully manifest?",
+   "question": "What is the effect when nourished awareness becomes clear?",
    "premises": [
-    "When consciousness becomes clear, it shines forth.",
-    "Its manifestation yields a result corresponding to its nature.",
-    "Nourishment transforms dryness into a lake-like fullness."
+    "When nourished, awareness becomes clear and shines.",
+    "That clear awareness grants a corresponding fruit to the practitioner.",
+    "Nourishment is like a dry place becoming a lake through clear water."
    ],
-   "inference": "Therefore the manifest goddess of consciousness grants nourishment that turns dryness into clear fullness.",
+   "inference": "Clarified awareness yields fitting results, transforming dryness into fullness like water forming a lake.",
    "uncertainties": [
-    "The image may be metaphorical for spiritual flourishing; the verse states it directly as an analogy."
+    "sitam can mean white or clear; in the water analogy, clear fits best."
    ],
-   "plain_english": "When she becomes fully clear and shines forth, she gives a corresponding fruit: nourishment. Just as what is dry becomes a lake because of clear water, so that nourishment appears."
+   "plain_english": "When it becomes clear, awareness shines and grants a corresponding fruit to him. Nourishment is like a dry place becoming a lake, and for that clear water is needed."
   },
   {
    "verse": 119,
@@ -573,151 +1307,151 @@
     {
      "surface": "anugamya",
      "gloss": "having-followed",
-     "grounds": "after following along",
-     "morph": "(gerund) + anu-gam"
+     "grounds": "method of practice",
+     "morph": "indecl.gerund"
     },
     {
      "surface": "tato",
-     "gloss": "then",
-     "grounds": "from that",
-     "morph": "(indecl.)"
+     "gloss": "therefore",
+     "grounds": "logical sequence",
+     "morph": "indecl."
     },
     {
      "surface": "dhyānaṃ",
      "gloss": "meditation",
-     "grounds": "contemplation",
-     "morph": "n.nom.sg"
+     "grounds": "practice to be developed",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tatpradhānaṃ",
-     "gloss": "having-that-as-primary",
-     "grounds": "centered on that",
-     "morph": "n.nom.sg"
+     "gloss": "centered-on-that",
+     "grounds": "orientation of meditation",
+     "morph": "n.acc.sg+compound"
     },
     {
      "surface": "pratanyate",
      "gloss": "is-extended",
-     "grounds": "is carried forward",
-     "morph": "3.sg.pres.pass + pra-tan"
+     "grounds": "development of practice",
+     "morph": "3.sg.pres.pass"
     },
     {
      "surface": "ye",
      "gloss": "which",
-     "grounds": "those which",
+     "grounds": "refers to sounds or letters",
      "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
      "grounds": "connective",
-     "morph": "(indecl.)"
+     "morph": "indecl."
     },
     {
      "surface": "svabhāvato",
-     "gloss": "by-nature",
-     "grounds": "naturally",
-     "morph": "(indecl.)"
+     "gloss": "by-their-own-nature",
+     "grounds": "intrinsic quality",
+     "morph": "indecl."
     },
     {
      "surface": "varṇā",
-     "gloss": "sounds",
-     "grounds": "phonetic sounds or letters",
+     "gloss": "sounds-letters",
+     "grounds": "phonetic elements",
      "morph": "m.nom.pl"
     },
     {
      "surface": "rasaniḥṣyandino",
      "gloss": "flowing-with-essence",
-     "grounds": "exuding savor or potency",
-     "morph": "m.nom.pl"
+     "grounds": "quality of the sounds",
+     "morph": "m.nom.pl+compound"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "for example",
-     "morph": "(indecl.)"
+     "grounds": "introduces example",
+     "morph": "indecl."
     }
    ],
-   "question": "How does meditation continue through sounds that naturally carry potency?",
+   "question": "How do naturally essence-flowing sounds support meditation centered on awareness?",
    "premises": [
-    "Meditation can be extended after an initial following or attunement.",
-    "Certain sounds naturally flow with essence or potency.",
-    "Such sounds can become primary in contemplative practice."
+    "Meditation centered on that awareness is extended by following it.",
+    "Certain sounds or letters are by nature flowing with essence.",
+    "These sounds serve as examples of what supports the practice."
    ],
-   "inference": "Therefore meditation is carried forward by centering on sounds that naturally exude potency.",
+   "inference": "Meditation on awareness is strengthened by aligning with sounds whose intrinsic nature carries nourishing essence.",
    "uncertainties": [
-    "Rasa here may mean savor, fluid essence, or potency; the verse supports a potency reading."
+    "rasa may suggest fluid, savor, or essence; essence fits the nourishing context."
    ],
-   "plain_english": "Then, following that, meditation centered on it is extended. Some sounds, by their very nature, flow with potency, as for example certain ones do."
+   "plain_english": "Therefore, by following that, meditation centered on it is extended; and there are sounds which by their own nature flow with essence, as follows."
   },
   {
    "verse": 120,
    "rows": [
     {
      "surface": "dantyauṣṭhyadantyaprāyāste",
-     "gloss": "mostly-dental-labial-dental-those",
-     "grounds": "those sounds mostly dental, labial, and dental",
-     "morph": "m.nom.pl + m.nom.pl"
+     "gloss": "those-mostly-dental-labial-dental",
+     "grounds": "phonetic description",
+     "morph": "m.nom.pl+compound"
     },
     {
      "surface": "kaiścidvarṇaiḥ",
      "gloss": "with-certain-sounds",
-     "grounds": "together with certain other letters",
-     "morph": "m.ins.pl + m.ins.pl"
+     "grounds": "accompanying elements",
+     "morph": "m.ins.pl"
     },
     {
      "surface": "kṛtāḥ",
      "gloss": "formed",
-     "grounds": "made or combined",
-     "morph": "m.nom.pl.ppp + kṛ"
+     "grounds": "composition of the sounds",
+     "morph": "m.nom.pl.past-participle"
     },
     {
      "surface": "saha",
      "gloss": "together",
-     "grounds": "along with",
-     "morph": "(indecl.)"
+     "grounds": "combination",
+     "morph": "indecl."
     },
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "that state",
+     "grounds": "refers to seed state",
      "morph": "m.acc.sg"
     },
     {
      "surface": "bījabhāvamāgatya",
-     "gloss": "having-come-to-seed-state",
-     "grounds": "having become seed-like",
-     "morph": "(gerund) + ā-gam"
+     "gloss": "having-attained-the-state-of-seed",
+     "grounds": "transformation into potency",
+     "morph": "indecl.gerund+compound"
     },
     {
      "surface": "saṃvidaṃ",
-     "gloss": "consciousness",
-     "grounds": "awareness",
+     "gloss": "awareness",
+     "grounds": "object clarified",
      "morph": "f.acc.sg"
     },
     {
      "surface": "sphuṭayanti",
      "gloss": "make-clear",
-     "grounds": "bring to manifestation",
-     "morph": "3.pl.pres.act + sphuṭ"
+     "grounds": "effect of the sounds",
+     "morph": "3.pl.pres.act"
     },
     {
      "surface": "tām",
      "gloss": "that",
-     "grounds": "that consciousness",
+     "grounds": "refers back to awareness",
      "morph": "f.acc.sg"
     }
    ],
-   "question": "How do specific sound-combinations make consciousness manifest as seed?",
+   "question": "How do certain phonetic combinations clarify awareness?",
    "premises": [
-    "Certain sounds are characterized by dental and labial articulation.",
-    "These sounds can be combined with other letters.",
-    "Such combinations can assume a seed-like potency."
+    "Certain sounds are mostly dental, labial, and dental in character.",
+    "When formed together with certain other sounds, they attain a seed state.",
+    "In that seed state they make awareness clear."
    ],
-   "inference": "Therefore these sound-combinations, becoming seed-like, bring that consciousness into clear manifestation.",
+   "inference": "Specific phonetic combinations become potent seeds that clarify awareness.",
    "uncertainties": [
-    "The verse alludes to specific phonetic groups without naming the exact mantra or letters."
+    "The exact mantra or syllables intended by the phonetic description are not specified in this verse."
    ],
-   "plain_english": "Those sounds, mostly dental, labial, and dental, formed together with certain other letters, attain the state of a seed and make that consciousness clearly manifest."
+   "plain_english": "Those sounds, mostly dental, labial, and dental, formed together with certain other sounds, attain the state of a seed and make that awareness clear."
   }
  ]
 }
