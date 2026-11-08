@@ -1,0 +1,687 @@
+{
+ "song": "Tantraloka a29",
+ "items": [
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "past-passive-participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīyogasañcāre",
+     "gloss": "in-holy-yoga-course",
+     "grounds": "locative of text title",
+     "morph": "m.loc.sg, compound=śrī+yoga+sañcāra"
+    },
+    {
+     "surface": "brahmacarye",
+     "gloss": "in-brahmacarya",
+     "grounds": "locative of topic",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitiṃ",
+     "gloss": "abiding",
+     "grounds": "object of bhajet",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-practice",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √bhaj"
+    },
+    {
+     "surface": "ānando",
+     "gloss": "bliss",
+     "grounds": "subject of equation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "predicate nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies brahman",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "connects to next clause",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "location of bliss",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "manner of being situated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "situated",
+     "grounds": "describes that bliss",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does the Śrīyogasañcāra teach about brahmacarya and bliss?",
+   "premises": [
+    "The Śrīyogasañcāra states that one should practice abiding in brahmacarya.",
+    "Bliss is identified with the supreme brahman.",
+    "That same bliss is situated threefold in the body."
+   ],
+   "inference": "True brahmacarya consists in abiding in the supreme bliss that is present threefold within the body.",
+   "uncertainties": [],
+   "plain_english": "It is said in the Śrīyogasañcāra that one should abide in brahmacarya. Bliss is the supreme brahman, and that bliss is situated threefold in the body."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "upakāri",
+     "gloss": "beneficial",
+     "grounds": "describes the pair",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the threefold division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalamanyattadātmakam",
+     "gloss": "other-fruit-of-that-nature",
+     "grounds": "describes the third element",
+     "morph": "n.nom.sg, compound=phala+anya+tad+ātmaka"
+    },
+    {
+     "surface": "oṣṭhyāntyatritayāsevī",
+     "gloss": "server-of-lip-final-triad",
+     "grounds": "defines the brahmacārī",
+     "morph": "m.nom.sg, compound=oṣṭhya+antya+tritaya+āsevin"
+    },
+    {
+     "surface": "brahmacārī",
+     "gloss": "brahmacārī",
+     "grounds": "subject of definition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "anaphoric subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "definitional statement",
+     "morph": "3.sg.present-passive √vac"
+    }
+   ],
+   "question": "Who is called a true brahmacārī in this teaching?",
+   "premises": [
+    "Among the threefold presence in the body, two elements are beneficial.",
+    "The third element is a fruit of a different nature.",
+    "One who serves the triad ending with the labial is called a brahmacārī."
+   ],
+   "inference": "A true brahmacārī is defined by serving the specific triad associated with the labial, not merely by external restraint.",
+   "uncertainties": [
+    "The exact referent of 'lip-final triad' (oṣṭhyāntyatritaya) is not explicit in this verse."
+   ],
+   "plain_english": "There, two of the three are beneficial, while the other is a fruit of a different nature. He who serves the triad ending with the labial is called a brahmacārī."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "tadvarjitā",
+     "gloss": "deprived-of-that",
+     "grounds": "describes those who lack it",
+     "morph": "m.nom.pl, compound=tad+varjita"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paśava",
+     "gloss": "bound-beings",
+     "grounds": "predicate for the deprived",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ānandaparivarjitāḥ",
+     "gloss": "deprived-of-bliss",
+     "grounds": "further describes them",
+     "morph": "m.nom.pl, compound=ānanda+parivarjita"
+    },
+    {
+     "surface": "ānandakṛttrimāhārāstadvarjaṃ",
+     "gloss": "feeding-on-artificial-bliss-except-that",
+     "grounds": "describes circle priests",
+     "morph": "m.nom.pl, compound=ānanda+kṛttrima+āhāra+tad+varja"
+    },
+    {
+     "surface": "cakrayājakāḥ",
+     "gloss": "circle-worshippers",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.pl, compound=cakra+yājaka"
+    }
+   ],
+   "question": "What happens to those who lack the true bliss in ritual?",
+   "premises": [
+    "Those deprived of that true bliss are bound beings.",
+    "They are deprived of genuine bliss.",
+    "Circle worshippers who feed on artificial bliss, excluding the true one, fall into this category."
+   ],
+   "inference": "Ritual practice without genuine bliss reduces practitioners to bound beings who rely on artificial substitutes.",
+   "uncertainties": [],
+   "plain_english": "Those who are deprived of that are bound beings, lacking true bliss. The circle worshippers who feed on artificial bliss, excluding the real one, are such."
+  },
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "dvaye@pi",
+     "gloss": "even-in-both",
+     "grounds": "includes both groups",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "niraye",
+     "gloss": "into-hell",
+     "grounds": "destination",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "they-go",
+     "grounds": "result of their state",
+     "morph": "3.pl.present-active √yā"
+    },
+    {
+     "surface": "raurave",
+     "gloss": "raurava",
+     "grounds": "name of the hell",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhīṣaṇe",
+     "gloss": "terrifying",
+     "grounds": "qualifies the hell",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tviti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of quotation",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "śakterlakṣaṇametāvattadvato",
+     "gloss": "this-much-mark-of-power-possessor",
+     "grounds": "defines the characteristic of śakti",
+     "morph": "n.nom.sg, compound=śakti+lakṣaṇa+etāvat+tadvat"
+    },
+    {
+     "surface": "hyavibheditā",
+     "gloss": "indeed-non-differentiation",
+     "grounds": "key quality of the possessor",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the consequence for both groups and what marks true śakti?",
+   "premises": [
+    "Both groups go to the terrifying Raurava hell.",
+    "The defining mark of śakti is this much.",
+    "Its possessor is characterized by non-differentiation."
+   ],
+   "inference": "Lacking true non-differentiated śakti leads to a dire fate, while true śakti is marked by non-differentiation.",
+   "uncertainties": [
+    "The exact scope of 'both' (dvaye) depends on the preceding context."
+   ],
+   "plain_english": "Thus, both go to the terrifying Raurava hell. This much is the mark of śakti: its possessor is characterized by non-differentiation."
+  },
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "tādṛśīṃ",
+     "gloss": "such",
+     "grounds": "qualifies the śakti to be made",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "draws consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "refers to śakti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryānnatu",
+     "gloss": "one-should-make-not",
+     "grounds": "negative injunction",
+     "morph": "3.sg.optative-active √kṛ + (indecl.)"
+    },
+    {
+     "surface": "varṇādyapekṣaṇam",
+     "gloss": "regard-for-class-and-such",
+     "grounds": "what must not be considered",
+     "morph": "n.acc.sg, compound=varṇa+ādi+apekṣaṇa"
+    },
+    {
+     "surface": "laukikālaukikadvyātmasaṅgāttādātmyato@dhikāt",
+     "gloss": "from-union-of-worldly-unworldly-pair-surpassing-identity",
+     "grounds": "reason for transcending social distinctions",
+     "morph": "m.abl.sg, compound=laukika+alaukika+dvi+ātma+saṅga+tādātmya+adhika"
+    }
+   ],
+   "question": "Why should one not consider social class when engaging such śakti?",
+   "premises": [
+    "One should make that śakti such as described.",
+    "One should not have regard for class and similar distinctions.",
+    "This is because of a surpassing identity arising from the union of the worldly and unworldly pair."
+   ],
+   "inference": "The union of worldly and unworldly realities produces an identity that overrides conventional distinctions like class.",
+   "uncertainties": [],
+   "plain_english": "Therefore one should make her such, and not pay regard to class and the like, because of a surpassing identity born from the union of the worldly and the unworldly pair."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "kāryahetusahotthā",
+     "gloss": "arisen-with-effect-and-cause",
+     "grounds": "describes the origin of śakti",
+     "morph": "f.nom.sg, compound=kārya+hetu+saha+uttha"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tridhoktā",
+     "gloss": "declared-threefold",
+     "grounds": "states her classification",
+     "morph": "f.nom.sg, compound=tridhā+ukta"
+    },
+    {
+     "surface": "śāsane",
+     "gloss": "in-teaching",
+     "grounds": "scriptural context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "source of transmission",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sākṣātparamparāyogāttattulyeti",
+     "gloss": "from-direct-and-lineage-union-as-equal",
+     "grounds": "explains the threefold division",
+     "morph": "m.abl.sg + (indecl.), compound=sākṣāt+paramparā+yoga+tad+tulya+iti"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "repeats the classification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates further division",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is śakti classified in the teaching according to its arising?",
+   "premises": [
+    "Śakti arises together with effect and cause.",
+    "In the teaching she is declared threefold.",
+    "She is again threefold through direct union with the teacher, through lineage, and as equal to that."
+   ],
+   "inference": "Śakti is classified in multiple threefold ways, based both on her causal arising and on the mode of transmission from the teacher.",
+   "uncertainties": [
+    "The precise mapping of 'equal to that' (tattulya) within the transmission triad is compressed."
+   ],
+   "plain_english": "Arising together with effect and cause, she is declared threefold in the teaching. Again she is threefold through direct union with the teacher, through lineage, and as equal to that."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "śrīsarvācārahṛdaye",
+     "gloss": "in-heart-of-all-conduct",
+     "grounds": "locative of text title",
+     "morph": "n.loc.sg, compound=śrī+sarva+ācāra+hṛdaya"
+    },
+    {
+     "surface": "tadetadupasaṃhṛtam",
+     "gloss": "this-is-summarized",
+     "grounds": "states the summary",
+     "morph": "n.nom.sg, compound=tad+etad+upasaṃhṛta"
+    },
+    {
+     "surface": "ṣaḍetāḥ",
+     "gloss": "these-six",
+     "grounds": "introduces the powers",
+     "morph": "f.nom.pl, compound=ṣaṣ+etā"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhuktimuktiphalapradāḥ",
+     "gloss": "giving-fruits-of-enjoyment-liberation",
+     "grounds": "describes their effect",
+     "morph": "f.nom.pl, compound=bhukti+mukti+phala+prada"
+    }
+   ],
+   "question": "What summary about the powers is given in the Śrīsarvācārahṛdaya?",
+   "premises": [
+    "The Śrīsarvācārahṛdaya summarizes the teaching.",
+    "It declares six powers.",
+    "These six powers grant the fruits of enjoyment and liberation."
+   ],
+   "inference": "The tradition recognizes six powers whose proper engagement yields both worldly enjoyment and liberation.",
+   "uncertainties": [],
+   "plain_english": "In the Śrīsarvācārahṛdaya this is summarized: these six powers are declared to grant the fruits of enjoyment and liberation."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "instrumental of the two powers",
+     "morph": "f.inst.dual"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sṛṣṭisaṃhārau",
+     "gloss": "creation-and-dissolution",
+     "grounds": "the two processes",
+     "morph": "m.nom.dual, compound=sṛṣṭi+saṃhāra"
+    },
+    {
+     "surface": "tasmānmelakamuttamam",
+     "gloss": "therefore-supreme-union",
+     "grounds": "resulting ritual union",
+     "morph": "n.nom.sg, compound=tasmāt+melaka+uttama"
+    },
+    {
+     "surface": "tāmāhṛtya",
+     "gloss": "having-brought-her",
+     "grounds": "first ritual action",
+     "morph": "(indecl.), absolutive √ā-hṛ"
+    },
+    {
+     "surface": "mitho@bhyarcya",
+     "gloss": "having-worshipped-mutually",
+     "grounds": "second ritual action",
+     "morph": "(indecl.), absolutive √abhyarc"
+    },
+    {
+     "surface": "tarpayitvā",
+     "gloss": "having-satisfied",
+     "grounds": "third ritual action",
+     "morph": "(indecl.), absolutive √tṛp-causative"
+    },
+    {
+     "surface": "parasparam",
+     "gloss": "each-other",
+     "grounds": "reciprocal object",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions follow from the powers of creation and dissolution?",
+   "premises": [
+    "Creation and dissolution are effected by two powers.",
+    "From them arises the supreme union.",
+    "The rite proceeds by bringing her, worshipping mutually, and satisfying each other."
+   ],
+   "inference": "The cosmic functions of creation and dissolution are ritually enacted through mutual worship and satisfaction in the supreme union.",
+   "uncertainties": [],
+   "plain_english": "By two powers come creation and dissolution; therefore there is the supreme union. Having brought her, having worshipped mutually, and having satisfied each other—"
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "antaraṅgakrameṇaiva",
+     "gloss": "by-inner-sequence-alone",
+     "grounds": "specifies the mode of worship",
+     "morph": "m.inst.sg + (indecl.), compound=antaraṅga+krama+eva"
+    },
+    {
+     "surface": "mukhyacakrasya",
+     "gloss": "of-main-circle",
+     "grounds": "object of worship",
+     "morph": "n.gen.sg, compound=mukhya+cakra"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "the ritual act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadevānandasandohi",
+     "gloss": "which-indeed-abundance-of-bliss",
+     "grounds": "identifies the inner reality",
+     "morph": "m.nom.sg, compound=yad+eva+ānanda+sandoha"
+    },
+    {
+     "surface": "saṃvido",
+     "gloss": "of-consciousness",
+     "grounds": "source of the bliss",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "hyantaraṅgakam",
+     "gloss": "indeed-inner",
+     "grounds": "characterizes that abundance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the worship of the main circle to be performed?",
+   "premises": [
+    "The worship of the main circle is performed by the inner sequence alone.",
+    "The abundance of bliss of consciousness is indeed the inner reality.",
+    "Thus inner worship corresponds to the bliss of consciousness."
+   ],
+   "inference": "True worship of the main circle is an inward process grounded in the abundant bliss of consciousness.",
+   "uncertainties": [],
+   "plain_english": "The worship of the main circle is performed by the inner sequence alone. For the abundance of bliss in consciousness is indeed what is inner."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "tatpradhānaṃ",
+     "gloss": "having-that-as-primary",
+     "grounds": "describes the circle",
+     "morph": "n.nom.sg, compound=tad+pradhāna"
+    },
+    {
+     "surface": "bhaveccakramanucakramato@param",
+     "gloss": "circle-would-be-supreme-beyond-subsidiary-circles",
+     "grounds": "states the supremacy of the circle",
+     "morph": "n.nom.sg, compound=bhavet+cakra+anucakrama+atas+para"
+    },
+    {
+     "surface": "vikāsāttṛptitaḥ",
+     "gloss": "from-expansion-from-satisfaction",
+     "grounds": "first pair of causes",
+     "morph": "m.abl.sg + m.abl.sg, compound=vikāsa+tṛpti"
+    },
+    {
+     "surface": "pāśotkartanātkṛtiśaktitaḥ",
+     "gloss": "from-cutting-bonds-from-power-of-action",
+     "grounds": "second pair of causes",
+     "morph": "n.abl.sg + f.abl.sg, compound=pāśa+utkartana+kṛti+śakti"
+    }
+   ],
+   "question": "What makes the circle supreme beyond subsidiary circles?",
+   "premises": [
+    "The circle in which that inner bliss is primary becomes supreme beyond subsidiary circles.",
+    "Its supremacy arises from expansion and satisfaction.",
+    "It also arises from the cutting of bonds and from the power of action."
+   ],
+   "inference": "The supremacy of the main circle is established by inner expansion, satisfaction, liberation from bonds, and the power of action.",
+   "uncertainties": [],
+   "plain_english": "With that as primary, the circle becomes supreme beyond the subsidiary circles, through expansion and satisfaction, and through the cutting of bonds and the power of action."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "term being explained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaseścakeḥ",
+     "gloss": "from-root-kas-and-cak",
+     "grounds": "etymological sources",
+     "morph": "m.abl.sg + m.abl.sg"
+    },
+    {
+     "surface": "kṛtyā",
+     "gloss": "by-action",
+     "grounds": "mode of derivation",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "karoteśca",
+     "gloss": "and-from-root-kṛ",
+     "grounds": "additional etymological source",
+     "morph": "m.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "kiloditam",
+     "gloss": "indeed-said",
+     "grounds": "reports traditional explanation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāgaśca",
+     "gloss": "and-sacrifice",
+     "grounds": "ritual term",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "satisfaction",
+     "grounds": "ritual term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "in-external",
+     "grounds": "locative of outer rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vikāsastacca",
+     "gloss": "and-that-expansion",
+     "grounds": "inner meaning of the rite",
+     "morph": "m.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "kīrtyate",
+     "gloss": "is-declared",
+     "grounds": "scriptural statement",
+     "morph": "3.sg.present-passive √kīrt"
+    }
+   ],
+   "question": "How are the terms cakra and yāga explained in this context?",
+   "premises": [
+    "The word cakra is said to be derived from the roots kas, cak, and kṛ in relation to action.",
+    "Sacrifice and satisfaction occur in the external rite.",
+    "That same process is declared to be expansion."
+   ],
+   "inference": "The external ritual terms cakra and yāga point to an inner dynamic of action and expansion.",
+   "uncertainties": [
+    "The etymological derivation is traditional and compressed; the exact grammatical analysis is not fully explicit."
+   ],
+   "plain_english": "The word 'cakra' is said to be derived, through action, from the roots kas, cak, and kṛ. Sacrifice and satisfaction take place in the external rite, and that is declared to be expansion."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "cakrānucakrāntaragācchaktimatparikalpitāt",
+     "gloss": "from-power-filled-movement-between-circles",
+     "grounds": "ablative source of the experience",
+     "morph": "n.abl.sg, compound=cakra+anucakra+antaraga+śaktimat+parikalpita"
+    },
+    {
+     "surface": "prāṇagādapyathānandasyandino@bhyavahārataḥ",
+     "gloss": "and-from-enjoyment-of-bliss-flowing-with-breath",
+     "grounds": "second ablative source",
+     "morph": "m.abl.sg, compound=prāṇaga+api+atha+ānanda+syandin+abhyavahāra"
+    }
+   ],
+   "question": "What sources give rise to the inner experience described here?",
+   "premises": [
+    "There is movement between the main circle and subsidiary circles conceived as filled with power.",
+    "There is also the enjoyment of bliss flowing along with the breath.",
+    "Both are presented as sources of the culminating experience."
+   ],
+   "inference": "The culminating inner experience arises from empowered movement among the circles and from bliss flowing with the breath.",
+   "uncertainties": [
+    "This verse is syntactically compressed and appears to continue the sentence from the previous verse."
+   ],
+   "plain_english": "It arises from movement between the main circle and the subsidiary circles, conceived as filled with power, and also from the enjoyment of bliss flowing along with the breath."
+  }
+ ]
+}

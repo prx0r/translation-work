@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 1,
+ "song": "tal-a04",
+ "verse": 274,
  "rows": [
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "not + na"
+   "grounds": "negation of constraint"
   },
   {
    "lemma": "yantraṇātra",
-   "morph": "compound: yantraṇā (f.nom.sg) + atra (indecl.)",
-   "grounds": "constraint-here + yantraṇātra"
+   "morph": "yantraṇā (f.nom.sg) + atra (indecl.)",
+   "grounds": "rigid restriction in this matter"
   },
   {
    "lemma": "kāryeti",
-   "morph": "compound: kārya (n.nom.sg) + iti (indecl.)",
-   "grounds": "action-thus + kāryeti"
+   "morph": "kāryā (f.nom.sg, future passive participle, √kṛ) + iti (indecl.)",
+   "grounds": "concludes that no constraint should be imposed"
   },
   {
-   "lemma": "prokta",
-   "morph": "m.nom.sg/n.acc.sg",
-   "grounds": "said + proktaṃ"
+   "lemma": "proktaṃ",
+   "morph": "proktam (n.nom.sg, past passive participle, √vac with pra)",
+   "grounds": "authoritative teaching"
   },
   {
-   "lemma": "śrītrikaśāsana",
-   "morph": "n.loc.sg",
-   "grounds": "in-sri-trika-teaching + śrītrikaśāsane"
+   "lemma": "śrītrikaśāsane",
+   "morph": "śrī+trika+śāsane (n.loc.sg, compound)",
+   "grounds": "the revered Trika scripture"
   },
   {
    "lemma": "samatā",
-   "morph": "f.nom.sg",
-   "grounds": "equality + samatā"
+   "morph": "samatā (f.nom.sg)",
+   "grounds": "non-hierarchical sameness in essence"
   },
   {
    "lemma": "sarvadevānāmovallīmantravarṇayoḥ",
-   "morph": "gen.pl (ambiguous)",
-   "grounds": "of-all-gods-creeper-mantra-letters + sarvadevānāmovallīmantravarṇayoḥ"
+   "morph": "sarva+devānām (m.gen.pl, compound) + oṣadhi+vallī+mantra+varṇayoḥ (m.gen.du, compound)",
+   "grounds": "equality across deities, plants, mantras, and letters"
   }
  ]
 }

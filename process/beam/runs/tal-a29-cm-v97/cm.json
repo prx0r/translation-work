@@ -1,66 +1,66 @@
 {
- "song": "",
- "verse": 1,
+ "song": "tal-a29",
+ "verse": 97,
  "rows": [
   {
-   "lemma": "ukta",
-   "morph": "n.nom/acc.sg",
-   "grounds": "gloss 'said' + form uktaṃ"
+   "lemma": "uktaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "past-passive-participle"
   },
   {
-   "lemma": "śrīyogasañcāra",
-   "morph": "m.loc.sg",
-   "grounds": "gloss 'in-śrī-yoga-course' + form śrīyogasañcāre"
+   "lemma": "śrīyogasañcāre",
+   "morph": "m.loc.sg, compound=śrī+yoga+sañcāra",
+   "grounds": "locative of text title"
   },
   {
-   "lemma": "brahmacarya",
+   "lemma": "brahmacarye",
    "morph": "n.loc.sg",
-   "grounds": "gloss 'in-brahmacarya' + form brahmacarye"
+   "grounds": "locative of topic"
   },
   {
-   "lemma": "sthiti",
+   "lemma": "sthitiṃ",
    "morph": "f.acc.sg",
-   "grounds": "gloss 'abiding' + form sthitiṃ"
+   "grounds": "object of bhajet"
   },
   {
-   "lemma": "bhaj",
-   "morph": "3sg.opt.act √bhaj",
-   "grounds": "gloss 'should-cultivate' + form bhajet"
+   "lemma": "bhajet",
+   "morph": "3.sg.optative-active √bhaj",
+   "grounds": "injunction"
   },
   {
-   "lemma": "ānanda",
+   "lemma": "ānando",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'bliss' + form ānando"
+   "grounds": "subject of equation"
   },
   {
-   "lemma": "brahman",
-   "morph": "n.nom/acc.sg",
-   "grounds": "gloss 'brahman' + form brahma"
+   "lemma": "brahma",
+   "morph": "n.nom.sg",
+   "grounds": "predicate nominative"
   },
   {
-   "lemma": "parama",
-   "morph": "n.nom/acc.sg",
-   "grounds": "gloss 'supreme' + form paramaṃ"
+   "lemma": "paramaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "qualifies brahman"
   },
   {
-   "lemma": "tat",
-   "morph": "n.nom/acc.sg + ca (indecl.)",
-   "grounds": "gloss 'and-that' + form tacca"
+   "lemma": "tacca",
+   "morph": "n.nom.sg + (indecl.)",
+   "grounds": "connects to next clause"
   },
   {
-   "lemma": "deha",
+   "lemma": "dehe",
    "morph": "m.loc.sg",
-   "grounds": "gloss 'in-body' + form dehe"
+   "grounds": "location of bliss"
   },
   {
    "lemma": "tridhā",
    "morph": "(indecl.)",
-   "grounds": "gloss 'threefold' + form tridhā"
+   "grounds": "manner of being situated"
   },
   {
-   "lemma": "sthita",
-   "morph": "n.nom/acc.sg",
-   "grounds": "gloss 'situated' + form sthitam"
+   "lemma": "sthitam",
+   "morph": "n.nom.sg",
+   "grounds": "describes that bliss"
   }
  ]
 }

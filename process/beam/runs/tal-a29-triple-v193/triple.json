@@ -1,0 +1,742 @@
+{
+ "song": "Tantraloka a29",
+ "items": [
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "vāmabhūṣaṇajaṅghābhyāṃ",
+     "gloss": "with-left-ornamented-thighs",
+     "grounds": "locates the ritual action on the left ornamented thighs",
+     "morph": "f.ins.du"
+    },
+    {
+     "surface": "nitambenāpyalaṅkṛtam",
+     "gloss": "and-also-adorned-at-the-hips",
+     "grounds": "adds the hips as similarly adorned",
+     "morph": "compound + (indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "śiṣyahaste",
+     "gloss": "in-the-disciple-hand",
+     "grounds": "specifies where the next item is placed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṣpabhṛte",
+     "gloss": "bearing-flowers",
+     "grounds": "describes the disciple's hand as holding flowers",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "codanāstraṃ",
+     "gloss": "the-impelling-weapon",
+     "grounds": "names the ritual implement to be applied",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "marks a procedural step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-apply",
+     "grounds": "prescribes the action to be performed",
+     "morph": "3.sg.opt.act √yuj"
+    }
+   ],
+   "question": "What should the teacher do with the impelling weapon in the disciple's flower-bearing hand?",
+   "premises": [
+    "The ritual context involves the left ornamented thighs and adorned hips.",
+    "The disciple holds flowers in the hand.",
+    "The impelling weapon is to be applied there."
+   ],
+   "inference": "The teacher should apply the impelling weapon in the disciple's flower-bearing hand in that ritual setting.",
+   "uncertainties": [
+    "The exact bodily reference of vāmabhūṣaṇajaṅghābhyāṃ nitambenāpyalaṅkṛtam in this rite is not fully explicit in the verse alone."
+   ],
+   "plain_english": "With the left ornamented thighs and the adorned hips as the setting, the teacher should apply the impelling weapon in the disciple's flower-bearing hand."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "yāvatsa",
+     "gloss": "until-that",
+     "grounds": "sets the temporal condition for the event",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "stobhamāyātaḥ",
+     "gloss": "having-come-with-a-throb",
+     "grounds": "describes the arriving sign or impulse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-itself",
+     "grounds": "emphasizes spontaneous occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patati",
+     "gloss": "falls",
+     "grounds": "states the main action of the sign",
+     "morph": "3.sg.pres.act √pat"
+    },
+    {
+     "surface": "mūrdhani",
+     "gloss": "on-the-head",
+     "grounds": "gives the place where it falls",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śivahastaḥ",
+     "gloss": "the-hand-of-shiva",
+     "grounds": "identifies what falls as Shiva's hand",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-itself",
+     "grounds": "again stresses spontaneity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so@yaṃ",
+     "gloss": "that-this",
+     "grounds": "points to the event just described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadyaḥpratyayakārakaḥ",
+     "gloss": "producing-immediate-certainty",
+     "grounds": "states the effect of the event",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens when the sign arrives and falls on the disciple's head?",
+   "premises": [
+    "A throbbing sign arrives by itself.",
+    "It falls by itself on the head as Shiva's hand.",
+    "This event produces immediate certainty."
+   ],
+   "inference": "The spontaneous fall of Shiva's hand on the head is taken as a sign that produces immediate conviction.",
+   "uncertainties": [
+    "The precise physical or visionary nature of stobha and śivahasta is not specified in the verse."
+   ],
+   "plain_english": "When that throbbing sign comes and falls by itself on the head as Shiva's hand, this very event brings immediate certainty."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "anenaiva",
+     "gloss": "by-this-very",
+     "grounds": "links the next action to the same procedure",
+     "morph": "n.ins.sg + (indecl.)"
+    },
+    {
+     "surface": "prayogeṇa",
+     "gloss": "by-procedure",
+     "grounds": "names the method being used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "carukaṃ",
+     "gloss": "the-caruka-offering",
+     "grounds": "identifies the substance to be taken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "grāhayedguruḥ",
+     "gloss": "the-guru-should-make-take",
+     "grounds": "prescribes the guru's action toward the disciple",
+     "morph": "3.sg.opt.caus.act √grah + m.nom.sg"
+    },
+    {
+     "surface": "śiṣyeṇa",
+     "gloss": "by-the-disciple",
+     "grounds": "indicates the agent who takes it",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dantakāṣṭhaṃ",
+     "gloss": "the-tooth-stick",
+     "grounds": "names another item involved in the rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds the tooth-stick to the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpātaḥ",
+     "gloss": "its-falling",
+     "grounds": "refers to the falling of that item as a sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāgvadeva",
+     "gloss": "just-as-before",
+     "grounds": "connects the sign to the earlier pattern",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes continuity with the prior case",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the guru use the same procedure with the caruka and the tooth-stick?",
+   "premises": [
+    "The same procedure is to be used again.",
+    "The guru should make the disciple take the caruka.",
+    "The tooth-stick is involved and its falling is read as before."
+   ],
+   "inference": "By the same method, the guru has the disciple take the caruka and uses the falling of the tooth-stick as a sign in the same way as before.",
+   "uncertainties": [
+    "Whether tatpātaḥ refers only to the tooth-stick or also echoes the earlier falling sign is slightly compressed in the verse."
+   ],
+   "plain_english": "Using this very same procedure, the guru should have the disciple take the caruka and also the tooth-stick; its falling is to be understood just as before."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "karastobho",
+     "gloss": "the-hand-throb",
+     "grounds": "names the sign to be observed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "netrapaṭagrahāt",
+     "gloss": "from-the-taking-of-the-eye-band",
+     "grounds": "marks the starting point of observation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "onward",
+     "grounds": "extends the observation from that point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "introduces the sign under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "marks the statement as established",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dantakāṣṭhasamādānaparyantastatra",
+     "gloss": "extending-up-to-the-taking-of-the-tooth-stick-there",
+     "grounds": "sets the endpoint and locus of observation",
+     "morph": "compound + (indecl.)"
+    },
+    {
+     "surface": "lakṣayet",
+     "gloss": "one-should-observe",
+     "grounds": "prescribes careful attention to the sign",
+     "morph": "3.sg.opt.act √lakṣ"
+    }
+   ],
+   "question": "During which span of the rite should the hand-throb be observed?",
+   "premises": [
+    "The hand-throb is the sign in question.",
+    "Observation begins from the taking of the eye-band.",
+    "Observation continues up to the taking of the tooth-stick."
+   ],
+   "inference": "The hand-throb should be watched throughout the interval from removing the eye-band to taking the tooth-stick.",
+   "uncertainties": [],
+   "plain_english": "One should observe the hand-throb from the moment the eye-band is taken, all the way up to the taking of the tooth-stick."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "tīvramandādibhedena",
+     "gloss": "by-differences-of-intense-mild-and-so-on",
+     "grounds": "classifies the sign by degrees",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śaktipātaṃ",
+     "gloss": "the-descent-of-power",
+     "grounds": "names what is being assessed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathāvidham",
+     "gloss": "of-that-kind",
+     "grounds": "refers back to the observed form of the sign",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ityeṣa",
+     "gloss": "thus-this",
+     "grounds": "introduces the resulting status",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "samayī",
+     "gloss": "a-samaya-initiate",
+     "grounds": "names the initiate's level",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "is-declared",
+     "grounds": "reports the traditional designation",
+     "morph": "m.nom.sg past-passive-participle √vac"
+    },
+    {
+     "surface": "śrīpūrve",
+     "gloss": "in-the-shripūrva",
+     "grounds": "locates the teaching in a source tradition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karakampataḥ",
+     "gloss": "from-the-trembling-of-the-hand",
+     "grounds": "gives the sign used for this determination",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is the descent of power and the samaya initiate identified in the Shripūrva teaching?",
+   "premises": [
+    "The descent of power is distinguished as intense, mild, and so on.",
+    "This assessment is made from the trembling of the hand.",
+    "The Shripūrva declares such a person a samaya initiate."
+   ],
+   "inference": "By observing degrees of hand-trembling, one discerns the kind of descent of power and identifies the person as a samaya initiate according to the Shripūrva.",
+   "uncertainties": [
+    "karakampataḥ may refer to a specific textual source or to the sign of hand-trembling; the verse allows both readings."
+   ],
+   "plain_english": "According to the Shripūrva, by the trembling of the hand and by differences such as intense or mild, one recognizes that kind of descent of power; such a person is declared a samaya initiate."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "samayī",
+     "gloss": "the-samaya-initiate",
+     "grounds": "names the subject of the instruction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces an alternative procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karastobhāditi",
+     "gloss": "from-the-hand-throb-thus",
+     "grounds": "refers to the sign and cites the teaching",
+     "morph": "m.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "śrībhogahastake",
+     "gloss": "in-the-shribhogahastaka",
+     "grounds": "names the textual source for this rule",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "carveva",
+     "gloss": "as-if-moving",
+     "grounds": "describes the manner of the rite or response",
+     "morph": "3.sg.opt.act √car + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gururdadyādvāmāmṛtapariplutam",
+     "gloss": "the-guru-should-give-what-is-flooded-with-left-nectar",
+     "grounds": "prescribes the guru's alternative offering",
+     "morph": "m.nom.sg + 3.sg.opt.act √dā + n.acc.sg"
+    }
+   ],
+   "question": "What alternative instruction is given for the samaya initiate in the Shribhogahastaka?",
+   "premises": [
+    "The samaya initiate is considered in relation to the hand-throb.",
+    "The Shribhogahastaka gives a specific instruction.",
+    "The guru may give something flooded with left nectar."
+   ],
+   "inference": "In the Shribhogahastaka, the samaya initiate is treated according to the hand-throb, and alternatively the guru should give what is flooded with left nectar.",
+   "uncertainties": [
+    "The exact sense of carveva in this ritual context is unclear.",
+    "The precise substance described as vāmāmṛtapariplutam is not specified in the verse."
+   ],
+   "plain_english": "But for the samaya initiate, as taught in the Shribhogahastaka in connection with the hand-throb, the rite may proceed in that manner, or else the guru should give what is flooded with left nectar."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "niḥśaṅkaṃ",
+     "gloss": "without-hesitation",
+     "grounds": "describes the manner of receiving",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grahaṇācchaktigotro",
+     "gloss": "from-taking-one-of-shakti-lineage",
+     "grounds": "states the condition and resulting identity",
+     "morph": "n.abl.sg + m.nom.sg"
+    },
+    {
+     "surface": "māyojjhito",
+     "gloss": "freed-from-maya",
+     "grounds": "describes the spiritual state attained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "he-would-become",
+     "grounds": "states the result of fearless acceptance",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "sakampastvādadānaḥ",
+     "gloss": "but-trembling-and-not-taking",
+     "grounds": "describes the opposite response",
+     "morph": "m.nom.sg + (indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "he-would-be",
+     "grounds": "states the result of refusal",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "samayī",
+     "gloss": "a-samaya-initiate",
+     "grounds": "names the status that remains",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vācanādiṣu",
+     "gloss": "in-recitation-and-so-on",
+     "grounds": "limits the initiate to preliminary observances",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "What distinguishes fearless acceptance from hesitant refusal in this initiation context?",
+   "premises": [
+    "Taking without hesitation leads to belonging to the Shakti lineage.",
+    "Such a person becomes freed from maya.",
+    "Trembling refusal leaves one as a samaya initiate limited to recitation and similar acts."
+   ],
+   "inference": "Fearless acceptance marks a deeper initiation into the Shakti lineage, while hesitant refusal keeps the person at the samaya level.",
+   "uncertainties": [],
+   "plain_english": "If he takes it without hesitation, he becomes one of the Shakti lineage and freed from maya; but if he trembles and does not take it, he remains a samaya initiate, limited to recitation and similar practices."
+  },
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "kālāntare@dhvasaṃśuddhyā",
+     "gloss": "at-another-time-by-purification-of-the-path",
+     "grounds": "states a later means of progress",
+     "morph": "n.loc.sg + f.ins.sg"
+    },
+    {
+     "surface": "pālanātsamayasthiteḥ",
+     "gloss": "by-maintaining-the-samaya-state",
+     "grounds": "adds observance of the vow as a condition",
+     "morph": "n.abl.sg + f.abl.sg"
+    },
+    {
+     "surface": "siddhipātramiti",
+     "gloss": "a-vessel-of-accomplishment-thus",
+     "grounds": "gives the resulting designation",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śrīmadānandeśvara",
+     "gloss": "in-the-glorious-anandeshvara",
+     "grounds": "names the source text",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "it-is-said",
+     "grounds": "reports the authoritative statement",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "How can a samaya initiate later become fit for accomplishment?",
+   "premises": [
+    "Progress may occur at another time through purification of the path.",
+    "Maintaining the samaya observance is required.",
+    "The Anandeshvara text calls such a person a vessel of accomplishment."
+   ],
+   "inference": "By later path-purification and steadfast observance of the samaya, the initiate becomes fit for accomplishment.",
+   "uncertainties": [],
+   "plain_english": "At another time, through purification of the path and by maintaining the samaya observance, such a person becomes a vessel of accomplishment, as is said in the glorious Anandeshvara."
+  },
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "introduces a conditional stage in the rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition to the next case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putrakaṃ",
+     "gloss": "a-son-initiate",
+     "grounds": "names the initiate to be made",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāttadā",
+     "gloss": "one-should-make-then",
+     "grounds": "states the action at that stage",
+     "morph": "3.sg.opt.act √kṛ + (indecl.)"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "names the rite to be performed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes carrying out the initiation",
+     "morph": "3.sg.opt.act sam-ā-√car"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "it-is-said",
+     "grounds": "introduces a cited teaching",
+     "morph": "n.nom.sg past-passive-participle √vac"
+    },
+    {
+     "surface": "śrīratnamālāyāṃ",
+     "gloss": "in-the-shriratnamala",
+     "grounds": "names the source text",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nādiphāntāṃ",
+     "gloss": "extending-from-na-to-pha",
+     "grounds": "describes the mantra range to be used",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jvalatprabhām",
+     "gloss": "with-blazing-radiance",
+     "grounds": "describes the visualized form of that power",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What should be done when the disciple is to be made a son-initiate?",
+   "premises": [
+    "A further stage arises when making a son-initiate.",
+    "At that point initiation should be performed.",
+    "The Shriratnamala prescribes a blazing form extending from na to pha."
+   ],
+   "inference": "When elevating the disciple to son-initiate status, the guru should perform initiation using the blazing na-to-pha form taught in the Shriratnamala.",
+   "uncertainties": [
+    "The exact referent of nādiphāntāṃ as mantra, syllable series, or power-form is compressed in the verse."
+   ],
+   "plain_english": "When one is to make the disciple a son-initiate, then initiation should be performed; in the Shriratnamala it is taught as the blazing form extending from na to pha."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "nyasyecchikhāntaṃ",
+     "gloss": "one-should-place-it-up-to-the-crown",
+     "grounds": "prescribes the placement of the visualized power",
+     "morph": "3.sg.opt.act ni-√as + n.acc.sg"
+    },
+    {
+     "surface": "patati",
+     "gloss": "it-falls",
+     "grounds": "states the resulting movement of the power",
+     "morph": "3.sg.pres.act √pat"
+    },
+    {
+     "surface": "tenātredṛk",
+     "gloss": "by-that-here-such",
+     "grounds": "connects the placement to the observed sequence",
+     "morph": "n.ins.sg + (indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "kramo",
+     "gloss": "sequence",
+     "grounds": "names the ordered process",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-occur",
+     "grounds": "states the expected result",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "prokṣitasya",
+     "gloss": "of-the-sprinkled-one",
+     "grounds": "identifies the prepared disciple",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śiśornyastaproktaśodhyādhvapaddhateḥ",
+     "gloss": "of-the-child-with-the-stated-purifiable-path-method-laid-down",
+     "grounds": "describes the disciple as prepared by the prescribed path-purification method",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What sequence follows when the power is placed up to the crown in the prepared disciple?",
+   "premises": [
+    "The power is placed up to the crown.",
+    "It then falls in a definite sequence.",
+    "The disciple has been sprinkled and prepared by the prescribed path-purification method."
+   ],
+   "inference": "For the properly prepared disciple, placing the power up to the crown produces a corresponding descending sequence.",
+   "uncertainties": [
+    "The exact technical meaning of the descending sequence is not fully spelled out in the verse."
+   ],
+   "plain_english": "One should place it up to the crown; then it falls, and by that a definite sequence occurs for the sprinkled disciple in whom the prescribed method of path-purification has been laid down."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "ṛjudehajuṣaḥ",
+     "gloss": "of-one-with-a-straight-body",
+     "grounds": "describes the disciple's posture or condition",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "the-power",
+     "grounds": "names the object of meditation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pādānmūrdhāntamāgatām",
+     "gloss": "arrived-from-the-feet-up-to-the-head",
+     "grounds": "describes the power's course through the body",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pāśāndahantīṃ",
+     "gloss": "burning-the-bonds",
+     "grounds": "states the purifying function of the power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃdīptāṃ",
+     "gloss": "blazing",
+     "grounds": "describes the power's radiant intensity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cintayettanmayo",
+     "gloss": "one-should-meditate-identified-with-that",
+     "grounds": "prescribes contemplative identification with the power",
+     "morph": "3.sg.opt.act √cint + m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-guru",
+     "grounds": "names the agent performing the meditation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the guru meditate on the power in the disciple with a straight body?",
+   "premises": [
+    "The disciple is described as having a straight body.",
+    "The power moves from the feet up to the head.",
+    "The power is blazing and burns the bonds."
+   ],
+   "inference": "The guru should meditate, in identification with it, on the blazing power rising through the disciple's body and burning the bonds.",
+   "uncertainties": [],
+   "plain_english": "For the disciple who holds the body straight, the guru should meditate, becoming identified with it, on the blazing power that has come from the feet up to the head and burns away the bonds."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "upaviśya",
+     "gloss": "having-sat-down",
+     "grounds": "sets the posture for the rite",
+     "morph": "gerund upa-√viś"
+    },
+    {
+     "surface": "tatastasya",
+     "gloss": "then-of-that",
+     "grounds": "continues the procedure for that disciple",
+     "morph": "(indecl.) + m.gen.sg"
+    },
+    {
+     "surface": "mūlaśodhyāt",
+     "gloss": "from-the-root-to-be-purified",
+     "grounds": "marks the starting point of purification",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "prabhṛtyalam",
+     "gloss": "beginning-fully",
+     "grounds": "indicates the process starts from there",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "antaśodhyāvasānāntāṃ",
+     "gloss": "extending-to-the-end-of-the-final-purifiable",
+     "grounds": "marks the endpoint of the purification sequence",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dahantīṃ",
+     "gloss": "burning",
+     "grounds": "describes the power as consuming impurities",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cintayetkramāt",
+     "gloss": "one-should-meditate-in-order",
+     "grounds": "prescribes sequential contemplation",
+     "morph": "3.sg.opt.act √cint + (indecl.)"
+    }
+   ],
+   "question": "In what order should the guru meditate on the burning purification process?",
+   "premises": [
+    "The guru sits down to perform the meditation.",
+    "The process begins from the root to be purified.",
+    "It extends to the end of the final purifiable and proceeds in order."
+   ],
+   "inference": "The guru should sequentially meditate on the burning power from the root purifiable through to the final purifiable.",
+   "uncertainties": [
+    "The technical scope of mūlaśodhya and antaśodhya is not defined within this verse."
+   ],
+   "plain_english": "Having sat down, the guru should then meditate in order on the burning power, beginning from the root to be purified and continuing up to the end of the final purifiable."
+  }
+ ]
+}

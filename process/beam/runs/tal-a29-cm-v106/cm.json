@@ -1,26 +1,26 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a29",
+ "verse": 106,
  "rows": [
   {
-   "lemma": "tatpradhāna",
-   "morph": "compound (tat+pradhāna), nom/acc.sg.n",
-   "grounds": "gloss 'that-principal' + form ending -aṃ"
+   "lemma": "tatpradhānaṃ",
+   "morph": "n.nom.sg, compound=tad+pradhāna",
+   "grounds": "describes the circle"
   },
   {
-   "lemma": "bhū / cakra / anucakra / param",
-   "morph": "AMBIGUOUS (opt.3sg + acc/nom + abl + indecl.)",
-   "grounds": "gloss 'would-be-wheel-from-wheel-supreme' + sandhi-heavy compound; segmentation uncertain"
+   "lemma": "bhaveccakramanucakramato@param",
+   "morph": "n.nom.sg, compound=bhavet+cakra+anucakrama+atas+para",
+   "grounds": "states the supremacy of the circle"
   },
   {
-   "lemma": "vikāsa / tṛpti",
-   "morph": "abl.sg.m + abl.sg.f",
-   "grounds": "gloss 'from-expansion-from-satisfaction' + endings -āt/-taḥ"
+   "lemma": "vikāsāttṛptitaḥ",
+   "morph": "m.abl.sg + m.abl.sg, compound=vikāsa+tṛpti",
+   "grounds": "first pair of causes"
   },
   {
-   "lemma": "pāśotkartana / kṛtiśakti",
-   "morph": "abl.sg.m + abl.sg.f",
-   "grounds": "gloss 'from-bond-cutting-from-action-power' + endings -āt/-taḥ"
+   "lemma": "pāśotkartanātkṛtiśaktitaḥ",
+   "morph": "n.abl.sg + f.abl.sg, compound=pāśa+utkartana+kṛti+śakti",
+   "grounds": "second pair of causes"
   }
  ]
 }

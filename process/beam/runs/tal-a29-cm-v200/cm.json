@@ -1,31 +1,31 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a29",
+ "verse": 200,
  "rows": [
   {
-   "lemma": "kālāntara + dhvasaṃśuddhi",
-   "morph": "loc.sg + instr.sg",
-   "grounds": "gloss 'in-another-time-by-destruction-purification' matches kālāntare (loc.sg) and dhvasaṃśuddhyā (instr.sg)"
+   "lemma": "kālāntare@dhvasaṃśuddhyā",
+   "morph": "n.loc.sg + f.ins.sg",
+   "grounds": "states a later means of progress"
   },
   {
-   "lemma": "pālana + samayasthiti",
-   "morph": "abl.sg + gen.sg",
-   "grounds": "gloss 'from-maintenance-of-established-convention' matches pālanāt (abl.sg) and samayasthiteḥ (gen.sg)"
+   "lemma": "pālanātsamayasthiteḥ",
+   "morph": "n.abl.sg + f.abl.sg",
+   "grounds": "adds observance of the vow as a condition"
   },
   {
-   "lemma": "siddhipātra + iti",
-   "morph": "acc.sg.n + indecl.",
-   "grounds": "gloss 'as-vessel-of-accomplishment' matches siddhipātram (acc.sg.n) with iti (indecl.)"
+   "lemma": "siddhipātramiti",
+   "morph": "n.nom.sg + (indecl.)",
+   "grounds": "gives the resulting designation"
   },
   {
    "lemma": "śrīmadānandeśvara",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'glorious-lord-of-bliss' is a compound in nominative singular masculine"
+   "morph": "n.loc.sg",
+   "grounds": "names the source text"
   },
   {
-   "lemma": "√vac",
-   "morph": "3sg.pres.pass",
-   "grounds": "gloss 'is-said' matches ucyate (passive present 3sg)"
+   "lemma": "ucyate",
+   "morph": "3.sg.pres.pass √vac",
+   "grounds": "reports the authoritative statement"
   }
  ]
 }

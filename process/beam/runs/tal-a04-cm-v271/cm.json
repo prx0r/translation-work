@@ -1,66 +1,66 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a04",
+ "verse": 271,
  "rows": [
   {
    "lemma": "nāsminvidhīyate",
-   "morph": "indecl.",
-   "grounds": "not-enjoined-in-this + nāsminvidhīyate"
+   "morph": "na (indecl.) + asmin (m.loc.sg) + vidhīyate (3.sg.pass-pres, √vidh)",
+   "grounds": "negation of injunction in the present context"
   },
   {
    "lemma": "taddhi",
-   "morph": "indecl.",
-   "grounds": "that-indeed + taddhi"
+   "morph": "tat (n.nom.sg) + hi (indecl.)",
+   "grounds": "emphatic reason for the non-enjoinment"
   },
   {
-   "lemma": "sākṣānnaupayika",
-   "morph": "acc.sg.n",
-   "grounds": "directly-not-suitable + sākṣānnaupayikaṃ"
+   "lemma": "sākṣānnaupayikaṃ",
+   "morph": "sākṣāt (indecl.) + na (indecl.) + aupayikam (n.nom.sg)",
+   "grounds": "not directly applicable as a means"
   },
   {
-   "lemma": "śiva",
-   "morph": "loc.sg.m",
-   "grounds": "in-Shiva + śive"
+   "lemma": "śive",
+   "morph": "śive (m.loc.sg)",
+   "grounds": "with respect to the supreme reality"
   },
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "not + na"
+   "morph": "(indecl.)",
+   "grounds": "negation introducing the next clause"
   },
   {
-   "lemma": "tad",
-   "morph": "gen.sg.m",
-   "grounds": "of-that + tasya"
+   "lemma": "tasya",
+   "morph": "tasya (n.gen.sg)",
+   "grounds": "refers back to what is not enjoined"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "and + ca"
+   "morph": "(indecl.)",
+   "grounds": "connects non-enjoinment with non-prohibition"
   },
   {
-   "lemma": "niṣodha",
-   "morph": "nom.sg.m",
-   "grounds": "prohibition + niṣodho"
+   "lemma": "niṣodho",
+   "morph": "niṣedhaḥ (m.nom.sg)",
+   "grounds": "ritual or scriptural prohibition"
   },
   {
    "lemma": "ya",
-   "morph": "nom.sg.m",
-   "grounds": "which + ya"
+   "morph": "yat (n.nom.sg)",
+   "grounds": "relative pronoun introducing reason"
   },
   {
-   "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "not + nna"
+   "lemma": "nna",
+   "morph": "na (indecl.)",
+   "grounds": "negation in the relative clause"
   },
   {
-   "lemma": "tattattva",
-   "morph": "gen.sg.n",
-   "grounds": "of-that-principle + tattattvasya"
+   "lemma": "tattattvasya",
+   "morph": "tat (indecl.) + tattvasya (n.gen.sg)",
+   "grounds": "the principle or reality in question"
   },
   {
-   "lemma": "khaṇḍana",
-   "morph": "nom.sg.n",
-   "grounds": "refutation + khaṇḍanam"
+   "lemma": "khaṇḍanam",
+   "morph": "khaṇḍanam (n.nom.sg)",
+   "grounds": "breaking or negating that reality"
   }
  ]
 }

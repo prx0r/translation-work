@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a29",
+ "verse": 98,
  "rows": [
   {
-   "lemma": "upakārin",
-   "morph": "m.voc.sg",
-   "grounds": "benefactor + upakāri"
+   "lemma": "upakāri",
+   "morph": "n.nom.sg",
+   "grounds": "describes the pair"
   },
   {
-   "lemma": "dvaya",
-   "morph": "n.nom/acc.sg",
-   "grounds": "two + dvayaṃ"
+   "lemma": "dvayaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "subject"
   },
   {
    "lemma": "tatra",
-   "morph": "indecl.",
-   "grounds": "there + tatra"
+   "morph": "(indecl.)",
+   "grounds": "refers to the threefold division"
   },
   {
-   "lemma": "phalamanyattadātmaka",
-   "morph": "n.nom.sg",
-   "grounds": "fruit-other-that-natured + phalamanyattadātmakam"
+   "lemma": "phalamanyattadātmakam",
+   "morph": "n.nom.sg, compound=phala+anya+tad+ātmaka",
+   "grounds": "describes the third element"
   },
   {
-   "lemma": "oṣṭhyāntyatritayāsevin",
+   "lemma": "oṣṭhyāntyatritayāsevī",
+   "morph": "m.nom.sg, compound=oṣṭhya+antya+tritaya+āsevin",
+   "grounds": "defines the brahmacārī"
+  },
+  {
+   "lemma": "brahmacārī",
    "morph": "m.nom.sg",
-   "grounds": "lip-final-three-serving + oṣṭhyāntyatritayāsevī"
+   "grounds": "subject of definition"
   },
   {
-   "lemma": "brahmacārin",
+   "lemma": "sa",
    "morph": "m.nom.sg",
-   "grounds": "celibate + brahmacārī"
+   "grounds": "anaphoric subject"
   },
   {
-   "lemma": "tad",
-   "morph": "m.nom.sg",
-   "grounds": "he + sa"
-  },
-  {
-   "lemma": "vac",
-   "morph": "3sg.pres.pass √vac",
-   "grounds": "is-called + ucyate"
+   "lemma": "ucyate",
+   "morph": "3.sg.present-passive √vac",
+   "grounds": "definitional statement"
   }
  ]
 }
