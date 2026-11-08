@@ -1,13 +1,15 @@
 {
  "song": "tal-a28",
  "verse": 33,
- "question": "Which world-wanderings in both forts are declared common-common festival?",
+ "question": "Which days are declared the most general fulfilment times in both lunar fortnights?",
  "premises": [
-  "fourth-eighth-other world-wandering, of both, in forts here",
-  "common-common",
-  "festival declared"
+  "The fourth, eighth, and final days are identified in both lunar fortnights.",
+  "These days recur regularly in the lunar cycle.",
+  "They are declared the most general fulfilment times."
  ],
- "inference": "Fort-wandering fourths/eighths are the common-common festival.",
- "uncertainties": "tithis kept technical",
- "plain_english": "Fourth-eighth-other world-wandering, of both, in forts here — common-common festival is declared."
+ "inference": "The fourth, eighth, and final lunar days in both fortnights form the most general class of fulfilment times.",
+ "uncertainties": [
+  "The compound 'anyabhuvanacaramāṇi' is terse and its cosmological nuance is not fully explicit."
+ ],
+ "plain_english": "In both lunar fortnights, the fourth, eighth, and final days are declared the most general fulfilment times."
 }
