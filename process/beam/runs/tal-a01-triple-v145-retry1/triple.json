@@ -1,0 +1,461 @@
+{
+ "song": "Tantraloka a01 (vijñāna-bheda) 151-156",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "yogo",
+     "gloss": "yoga",
+     "grounds": "subject of equation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nānyaḥ",
+     "gloss": "not-other",
+     "grounds": "negated distinction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "subject of equation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nānyā",
+     "gloss": "not-other",
+     "grounds": "negated distinction",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tattvārūḍhā",
+     "gloss": "established-in-reality",
+     "grounds": "qualifies cognition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative cognition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matiḥ",
+     "gloss": "cognition",
+     "grounds": "subject defined as action",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svacittavāsanāśāntau",
+     "gloss": "in-calming-own-mind-impressions",
+     "grounds": "occasion of action",
+     "morph": "f.loc.sg, compound=svacitta+vāsanā+śānti"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "correlative cognition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyetyabhidhīyate",
+     "gloss": "is-called-action",
+     "grounds": "conclusion of definition",
+     "morph": "3.sg.pass-pres, √dhā; compound=kriyā+iti+abhidhīyate"
+    }
+   ],
+   "question": "How are yoga and action identified with reality-grounded cognition?",
+   "premises": [
+    "Yoga is not other than action.",
+    "Action is not other than yoga.",
+    "Cognition established in reality that calms the impressions of one's own mind is called action."
+   ],
+   "inference": "Because the cognition that quiets mental impressions is reality-grounded and is called action, yoga and action are not distinct from that cognition.",
+   "uncertainties": [
+    "The exact nuance of tattvārūḍhā as established in reality or mounted on the principles is context-dependent."
+   ],
+   "plain_english": "Yoga is not different from action, and action is not different from yoga. The cognition that is firmly grounded in reality and brings the impressions of one's own mind to rest is what is called action."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "svacitte",
+     "gloss": "in-own-mind",
+     "grounds": "locus of impressions",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāsanāḥ",
+     "gloss": "latent-impressions",
+     "grounds": "objects to be calmed",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "karmamalamāyāprasūtayaḥ",
+     "gloss": "born-from-karma-impurity-maya",
+     "grounds": "origin of impressions",
+     "morph": "f.nom.pl, compound=karma+mala+māyā+prasūti"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-those",
+     "grounds": "refers to impressions",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "śāntinimittaṃ",
+     "gloss": "for-the-sake-of-calming",
+     "grounds": "purpose of cognition",
+     "morph": "n.acc.sg, compound=śānti+nimitta"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative cognition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matiḥ",
+     "gloss": "cognition",
+     "grounds": "agent of calming",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃvitsvabhāvikā",
+     "gloss": "of-consciousness-nature",
+     "grounds": "essential character of cognition",
+     "morph": "f.nom.sg, compound=saṃvit+svabhāvikā"
+    }
+   ],
+   "question": "What kind of cognition brings the mind's latent impressions to rest?",
+   "premises": [
+    "Latent impressions in one's own mind arise from karma, impurity, and maya.",
+    "A cognition arises for the purpose of calming those impressions.",
+    "That cognition is of the very nature of consciousness."
+   ],
+   "inference": "The cognition that calms the impressions born of karma, impurity, and maya is not ordinary thought but consciousness in its own nature.",
+   "uncertainties": [
+    "The compound karmamalamāyāprasūtayaḥ could be parsed with slightly different internal relations among the three sources."
+   ],
+   "plain_english": "In one's own mind there are latent impressions born from karma, impurity, and maya. The cognition that arises to calm those impressions is essentially of the nature of consciousness itself."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "the consciousness-nature cognition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dehārambhibāhyasthatattvabrātādhiśāyinī",
+     "gloss": "resting-on-outer-principles-starting-body",
+     "grounds": "describes cognition's operative range",
+     "morph": "f.nom.sg, compound=deha+ārambhin+bāhyastha+tattva+brāta+adhiśāyinī"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "identified with that cognition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "that-very",
+     "grounds": "emphatic identity",
+     "morph": "f.nom.sg, compound=sā+eva"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds second identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "identified with that cognition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāttattvānāṃ",
+     "gloss": "would-be-of-the-principles",
+     "grounds": "condition of dissolution",
+     "morph": "3.sg.opt, √as; compound=syāt+tattvānām"
+    },
+    {
+     "surface": "cillayīkṛtau",
+     "gloss": "in-dissolution-into-consciousness",
+     "grounds": "result of that action-yoga",
+     "morph": "f.loc.sg, compound=cit+laya+kṛti"
+    }
+   ],
+   "question": "How does consciousness-nature cognition function as both action and yoga?",
+   "premises": [
+    "That consciousness-nature cognition rests upon the outer group of principles that initiate the body.",
+    "That same cognition is action.",
+    "That same cognition is yoga when it brings the principles to dissolution in consciousness."
+   ],
+   "inference": "The one consciousness-nature cognition operates through the body-initiating principles as action and culminates as yoga by dissolving those principles into consciousness.",
+   "uncertainties": [
+    "The long compound dehārambhibāhyasthatattvabrātādhiśāyinī admits more than one internal grouping."
+   ],
+   "plain_english": "That same cognition, which rests upon the outer range of principles that give rise to the body, is action. And that very same cognition becomes yoga when it dissolves those principles back into consciousness."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "loke@pi",
+     "gloss": "even-in-ordinary-life",
+     "grounds": "appeal to common experience",
+     "morph": "m.loc.sg, compound=loka+api"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "marks familiar example",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchāmītyevamantaḥ",
+     "gloss": "inner-flash-i-am-going",
+     "grounds": "example of inner cognition",
+     "morph": "(indecl.), compound=gacchāmi+iti+evam+antaḥ"
+    },
+    {
+     "surface": "sphuraiva",
+     "gloss": "just-a-flash",
+     "grounds": "characterizes inner cognition",
+     "morph": "f.nom.sg, compound=sphurā+eva"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative inner flash",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "correlative flash",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "first instrument entered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deśamakṣāṃścāpyāviśantī",
+     "gloss": "entering-place-and-senses-too",
+     "grounds": "describes extension into action",
+     "morph": "f.nom.sg.pres-part, √viś; compound=deśa+akṣān+ca+api+āviśantī"
+    },
+    {
+     "surface": "gatikriyā",
+     "gloss": "act-of-going",
+     "grounds": "resulting physical action",
+     "morph": "f.nom.sg, compound=gati+kriyā"
+    }
+   ],
+   "question": "How does an ordinary act of going show that action arises from inner cognition?",
+   "premises": [
+    "Even in ordinary life there is an inner flash of 'I am going'.",
+    "That inner flash enters the body, the place, and the senses.",
+    "When it enters them, it becomes the act of going."
+   ],
+   "inference": "Ordinary movement demonstrates that physical action is the outward extension of an inner cognitive flash.",
+   "uncertainties": [
+    "akṣān is taken as the senses; the term can be read more generally as organs in some contexts."
+   ],
+   "plain_english": "Even in everyday life, when one thinks 'I am going', there is first just an inner flash. That same flash enters the body, the place, and the senses, and then it becomes the act of going."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "tasmātkriyāpi",
+     "gloss": "therefore-even-action",
+     "grounds": "draws conclusion from example",
+     "morph": "(indecl.), compound=tasmāt+kriyā+api"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative action",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "so-called",
+     "grounds": "marks conventional term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānameva",
+     "gloss": "knowledge-alone",
+     "grounds": "identity claim",
+     "morph": "n.nom.sg, compound=jñānam+eva"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "correlative action",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "consequence for liberation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānameva",
+     "gloss": "knowledge-alone",
+     "grounds": "means of liberation",
+     "morph": "n.nom.sg, compound=jñānam+eva"
+    },
+    {
+     "surface": "vimokṣāya",
+     "gloss": "for-liberation",
+     "grounds": "purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "fitting",
+     "grounds": "evaluates the conclusion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caitadudāhṛtam",
+     "gloss": "and-this-was-stated",
+     "grounds": "confirms prior teaching",
+     "morph": "n.nom.sg.past-pass-part, √hṛ; compound=ca+etat+udāhṛtam"
+    }
+   ],
+   "question": "Why does the identity of action and knowledge make knowledge sufficient for liberation?",
+   "premises": [
+    "Even so-called action is in truth knowledge alone.",
+    "The preceding example shows action arising from an inner cognitive flash.",
+    "Therefore knowledge alone is fitting as the means to liberation."
+   ],
+   "inference": "If action itself is nothing but knowledge, then liberation is rightly accomplished through knowledge alone.",
+   "uncertainties": [
+    "udāhṛtam may refer to a specific earlier scriptural or textual statement not named here."
+   ],
+   "plain_english": "Therefore, even what is called action is really nothing but knowledge. For that reason, it is right to say that knowledge alone brings liberation, and this has already been stated."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "topic defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "so-called",
+     "grounds": "marks definition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivānyaḥ",
+     "gloss": "not-at-all-other",
+     "grounds": "negates alternative definition",
+     "morph": "m.nom.sg, compound=na+eva+anyaḥ"
+    },
+    {
+     "surface": "svarūpaprathanaṃ",
+     "gloss": "unfolding-of-own-nature",
+     "grounds": "positive definition of liberation",
+     "morph": "n.nom.sg, compound=svarūpa+prathana"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "refers to liberation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "object identified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cātmanaḥ",
+     "gloss": "and-of-the-self",
+     "grounds": "possessor of own nature",
+     "morph": "m.gen.sg, compound=ca+ātmanaḥ"
+    },
+    {
+     "surface": "saṃvinnānyattatra",
+     "gloss": "consciousness-not-other-there",
+     "grounds": "identity of self-nature and consciousness",
+     "morph": "f.nom.sg, compound=saṃvit+na+anyat+tatra"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "turns to next point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "introduces following topic",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "signals continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is liberation if it is nothing other than the self's own nature?",
+   "premises": [
+    "Liberation is not something other than the unfolding of one's own nature.",
+    "The self's own nature is not other than consciousness.",
+    "The verse turns to what follows regarding further powers or aspects."
+   ],
+   "inference": "Since liberation is the unfolding of the self's own nature and that nature is consciousness, liberation consists in the manifestation of consciousness itself.",
+   "uncertainties": [
+    "The final clause beginning with tu yāḥ punaḥ is transitional and its full referent appears in the next verse."
+   ],
+   "plain_english": "Liberation is nothing other than the unfolding of one's own true nature. And the self's true nature is nothing other than consciousness. The verse then turns to what comes next."
+  }
+ ]
+}
