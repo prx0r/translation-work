@@ -1,0 +1,828 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "śataśo@pi",
+     "gloss": "hundreds-even",
+     "grounds": "token 1 of verse 73",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hlādatāpaśūnyāṃ",
+     "gloss": "free-from-heat-and-cold",
+     "grounds": "token 2 of verse 73",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃcinvate",
+     "gloss": "they-gather",
+     "grounds": "token 3 of verse 73",
+     "morph": "3.pl.act-pres+root-saṃci"
+    },
+    {
+     "surface": "daśām",
+     "gloss": "state",
+     "grounds": "token 4 of verse 73",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 5 of verse 73",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6 of verse 73",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktirasāveśamiti",
+     "gloss": "devotion-rasa-immersion",
+     "grounds": "token 7 of verse 73",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūmnā",
+     "gloss": "by-abundance",
+     "grounds": "token 8 of verse 73",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vilokitam",
+     "gloss": "seen",
+     "grounds": "token 9 of verse 73",
+     "morph": "n.nom.sg.past-part"
+    }
+   ],
+   "question": "Why is devotion-rasa immersion not seen despite gathering states?",
+   "premises": [
+    "states are gathered in abundance",
+    "heat-and-cold-free condition is sought",
+    "devotion-rasa immersion is not seen"
+   ],
+   "inference": "abundant state-gathering alone does not reveal devotion-rasa immersion",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Even gathering hundreds of states free from heat and cold, devotion-rasa immersion is not seen in abundance."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "athāpi",
+     "gloss": "even-so",
+     "grounds": "token 1 of verse 74",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālamāhātmyamapekṣya",
+     "gloss": "considering-time-greatness",
+     "grounds": "token 2 of verse 74",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "token 3 of verse 74",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 4 of verse 74",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "token 5 of verse 74",
+     "morph": "3.sg.act-pres+root-kṛ"
+    },
+    {
+     "surface": "vaktavyaṃ",
+     "gloss": "to-be-said",
+     "grounds": "token 6 of verse 74",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "kālo@sau",
+     "gloss": "that-time",
+     "grounds": "token 7 of verse 74",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kīdṛśastviti",
+     "gloss": "what-kind-indeed",
+     "grounds": "token 8 of verse 74",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of time is that when the supreme lord acts thus?",
+   "premises": [
+    "supreme lord acts thus",
+    "time's greatness is considered",
+    "the kind of time remains to be said"
+   ],
+   "inference": "the lord's action depends on the greatness of time",
+   "uncertainties": [
+    "sandhi split of kālo@sau"
+   ],
+   "plain_english": "Even so, considering the greatness of time, the supreme lord acts thus; what kind is that time?"
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "token 1 of verse 75",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānādirayaṃ",
+     "gloss": "and-beginningless-this",
+     "grounds": "token 2 of verse 75",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhogaḥ",
+     "gloss": "enjoyment",
+     "grounds": "token 3 of verse 75",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmānādi",
+     "gloss": "karma-beginningless",
+     "grounds": "token 4 of verse 75",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sapudgalam",
+     "gloss": "with-person",
+     "grounds": "token 5 of verse 75",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataśca",
+     "gloss": "and-thence",
+     "grounds": "token 6 of verse 75",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogaparyāyakālaḥ",
+     "gloss": "enjoyment-cycle-time",
+     "grounds": "token 7 of verse 75",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "token 8 of verse 75",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "niḥsamaḥ",
+     "gloss": "unequalled",
+     "grounds": "token 9 of verse 75",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can beginningless enjoyment and karma be equal for all?",
+   "premises": [
+    "enjoyment is beginningless",
+    "karma is beginningless",
+    "enjoyment-cycle time is unequalled for all"
+   ],
+   "inference": "beginninglessness does not make enjoyment and karma uniform",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "What of this beginningless enjoyment and beginningless karma with person? Hence enjoyment-cycle time is unequalled for all."
+  },
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "ādimattve",
+     "gloss": "in-having-beginning",
+     "grounds": "token 1 of verse 76",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2 of verse 76",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasyāpi",
+     "gloss": "of-someone",
+     "grounds": "token 3 of verse 76",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vargādasmādbhavediyam",
+     "gloss": "from-this-class-would-arise-this",
+     "grounds": "token 4 of verse 76",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaicitrī",
+     "gloss": "variety",
+     "grounds": "token 5 of verse 76",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhuktametena",
+     "gloss": "enjoyed-by-this",
+     "grounds": "token 6 of verse 76",
+     "morph": "n.nom.sg.past-part"
+    },
+    {
+     "surface": "kalpametena",
+     "gloss": "by-this-aeon",
+     "grounds": "token 7 of verse 76",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 8 of verse 76",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "token 9 of verse 76",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "If there were a beginning, how could variety arise?",
+   "premises": [
+    "beginning would imply a class",
+    "variety would arise from that class",
+    "enjoyment and aeon form a pair"
+   ],
+   "inference": "a beginning would make variety derivative rather than original",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "If there were a beginning for someone, variety would arise from that class; enjoyed by this and by this aeon, but the pair."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "iyato",
+     "gloss": "so-much",
+     "grounds": "token 1 of verse 77",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhogaparyāyātsyātsāmyaṃ",
+     "gloss": "from-enjoyment-cycle-would-be-equality",
+     "grounds": "token 2 of verse 77",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaṇāmiti",
+     "gloss": "of-karmas-thus",
+     "grounds": "token 3 of verse 77",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "token 4 of verse 77",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "nayabījena",
+     "gloss": "by-method-seed",
+     "grounds": "token 5 of verse 77",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "manye",
+     "gloss": "I-think",
+     "grounds": "token 6 of verse 77",
+     "morph": "1.sg.act-pres+root-man"
+    },
+    {
+     "surface": "vaicitryakāraṇam",
+     "gloss": "cause-of-variety",
+     "grounds": "token 7 of verse 77",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the cause of variety if karma equality follows enjoyment?",
+   "premises": [
+    "equality of karma follows enjoyment cycle",
+    "this method-seed is considered",
+    "variety's cause is sought"
+   ],
+   "inference": "variety requires a cause beyond mere karma equality",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "From so much enjoyment cycle there would be equality of karmas; by this method-seed I think the cause of variety."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "jagataḥ",
+     "gloss": "of-world",
+     "grounds": "token 1 of verse 78",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "karma",
+     "grounds": "token 2 of verse 78",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatklaptaṃ",
+     "gloss": "what-is-fixed",
+     "grounds": "token 3 of verse 78",
+     "morph": "n.nom.sg.past-part"
+    },
+    {
+     "surface": "tattathā",
+     "gloss": "that-thus",
+     "grounds": "token 4 of verse 78",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāvakalpate",
+     "gloss": "does-not-fit",
+     "grounds": "token 5 of verse 78",
+     "morph": "3.sg.mid-pres+root-kḷp"
+    },
+    {
+     "surface": "anādimalasaṃcchannā",
+     "gloss": "covered-by-beginningless-impurity",
+     "grounds": "token 6 of verse 78",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "aṇavo",
+     "gloss": "atoms",
+     "grounds": "token 7 of verse 78",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dṛkkriyātmanā",
+     "gloss": "as-cognition-action-self",
+     "grounds": "token 8 of verse 78",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "Why does fixed world karma not fit beginningless impurity?",
+   "premises": [
+    "world karma is fixed",
+    "it does not fit thus",
+    "atoms are covered by beginningless impurity"
+   ],
+   "inference": "fixed karma cannot account for atoms covered by beginningless impurity",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The world's fixed karma does not fit thus; atoms covered by beginningless impurity are cognition-action-self."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "token 1 of verse 79",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tulyāḥ",
+     "gloss": "equal",
+     "grounds": "token 2 of verse 79",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "token 3 of verse 79",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citrāṃ",
+     "gloss": "variegated",
+     "grounds": "token 4 of verse 79",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śritāḥ",
+     "gloss": "resorted-to",
+     "grounds": "token 5 of verse 79",
+     "morph": "m.nom.pl.past-part"
+    },
+    {
+     "surface": "karmaparamparām",
+     "gloss": "karma-succession",
+     "grounds": "token 6 of verse 79",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhogalolikayā",
+     "gloss": "by-enjoyment-craving",
+     "grounds": "token 7 of verse 79",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "cetsā",
+     "gloss": "if-mind",
+     "grounds": "token 8 of verse 79",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicitreti",
+     "gloss": "variegated-thus",
+     "grounds": "token 9 of verse 79",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuto",
+     "gloss": "whence",
+     "grounds": "token 10 of verse 79",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "token 11 of verse 79",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can all equal beings resort to variegated karma succession?",
+   "premises": [
+    "all are equal",
+    "they resort to variegated karma succession",
+    "enjoyment craving is involved"
+   ],
+   "inference": "equality of beings conflicts with variegated karma succession",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "How are all equal yet resort to variegated karma succession by enjoyment craving? Variegated indeed, whence?"
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "anādi",
+     "gloss": "beginningless",
+     "grounds": "token 1 of verse 80",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmasaṃskāravaicitryāditi",
+     "gloss": "from-karma-impression-variety",
+     "grounds": "token 2 of verse 80",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cetpunaḥ",
+     "gloss": "if-again",
+     "grounds": "token 3 of verse 80",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācyaṃ",
+     "gloss": "to-be-said",
+     "grounds": "token 4 of verse 80",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "token 5 of verse 80",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaicitryaṃ",
+     "gloss": "variety",
+     "grounds": "token 6 of verse 80",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuto",
+     "gloss": "whence",
+     "grounds": "token 7 of verse 80",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyatirāgayoḥ",
+     "gloss": "of-necessity-and-attachment",
+     "grounds": "token 8 of verse 80",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "If variety comes from beginningless karma impressions, whence variety of necessity and attachment?",
+   "premises": [
+    "beginningless karma impressions may be cited",
+    "that same variety remains",
+    "necessity and attachment are questioned"
+   ],
+   "inference": "citing karma impressions does not explain variety of necessity and attachment",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "If again beginningless karma impression variety is to be said, that same variety, whence of necessity and attachment?"
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "mahimā",
+     "gloss": "greatness",
+     "grounds": "token 1 of verse 81",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cedayaṃ",
+     "gloss": "if-this",
+     "grounds": "token 2 of verse 81",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "token 3 of verse 81",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "token 4 of verse 81",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsamañjasyabhāginau",
+     "gloss": "not-inconsistent-sharers",
+     "grounds": "token 5 of verse 81",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "īśvarecchānapekṣā",
+     "gloss": "independent-of-lord's-will",
+     "grounds": "token 6 of verse 81",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 7 of verse 81",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedaheturna",
+     "gloss": "cause-of-difference-not",
+     "grounds": "token 8 of verse 81",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpate",
+     "gloss": "is-possible",
+     "grounds": "token 9 of verse 81",
+     "morph": "3.sg.mid-pres+root-kḷp"
+    }
+   ],
+   "question": "If greatness is independent of lord's will, why are those two not inconsistent?",
+   "premises": [
+    "greatness is considered",
+    "those two are questioned",
+    "independence from lord's will is not a cause of difference"
+   ],
+   "inference": "greatness cannot be independent of lord's will without inconsistency",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "If this greatness, why are those two not inconsistent sharers? But independence from lord's will is not a possible cause of difference."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "athānāditvamātreṇa",
+     "gloss": "by-beginninglessness-alone",
+     "grounds": "token 1 of verse 82",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktihīnena",
+     "gloss": "by-reasonless",
+     "grounds": "token 2 of verse 82",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sādhyate",
+     "gloss": "is-proved",
+     "grounds": "token 3 of verse 82",
+     "morph": "3.sg.pass-pres+root-sādh"
+    },
+    {
+     "surface": "vyavastheyamalaṃ",
+     "gloss": "impurity-of-order",
+     "grounds": "token 4 of verse 82",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tarhi",
+     "gloss": "then",
+     "grounds": "token 5 of verse 82",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "malenāstu",
+     "gloss": "let-it-be-by-impurity",
+     "grounds": "token 6 of verse 82",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛthāmunā",
+     "gloss": "vain-by-this",
+     "grounds": "token 7 of verse 82",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is beginninglessness alone enough to prove impurity of order?",
+   "premises": [
+    "beginninglessness alone is reasonless",
+    "impurity of order is proved",
+    "then let it be by impurity"
+   ],
+   "inference": "beginninglessness alone is insufficient to establish impurity of order",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "By beginninglessness alone, reasonless, impurity of order is proved; then let it be by impurity, vain by this."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "token 1 of verse 83",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "karma",
+     "grounds": "token 2 of verse 83",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāvanno",
+     "gloss": "so-long-not",
+     "grounds": "token 3 of verse 83",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvanmāyā",
+     "gloss": "until-maya",
+     "grounds": "token 4 of verse 83",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 5 of verse 83",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pudgale",
+     "gloss": "in-person",
+     "grounds": "token 6 of verse 83",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vyāpriyeta",
+     "gloss": "is-active",
+     "grounds": "token 7 of verse 83",
+     "morph": "3.sg.pass-pres+root-vyāpṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 8 of verse 83",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāhetustadvṛttistanmito",
+     "gloss": "and-cause-its-course-that-measured",
+     "grounds": "token 9 of verse 83",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "malaḥ",
+     "gloss": "impurity",
+     "grounds": "token 10 of verse 83",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does maya's activity in person relate to impurity?",
+   "premises": [
+    "karma lasts until maya is active in person",
+    "cause and course are measured",
+    "impurity is named"
+   ],
+   "inference": "karma's duration is tied to maya's activity in person",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "For thus karma lasts not until maya is active in person; and cause, its course, that measured impurity."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "token 1 of verse 84",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2 of verse 84",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpite",
+     "gloss": "in-assumed",
+     "grounds": "token 3 of verse 84",
+     "morph": "n.loc.sg.past-part"
+    },
+    {
+     "surface": "māyākārye",
+     "gloss": "in-maya-effect",
+     "grounds": "token 4 of verse 84",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-karma",
+     "grounds": "token 5 of verse 84",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hetutām",
+     "gloss": "causality",
+     "grounds": "token 6 of verse 84",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "anādi",
+     "gloss": "beginningless",
+     "grounds": "token 7 of verse 84",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "karma",
+     "grounds": "token 8 of verse 84",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cedgacchetkiṃ",
+     "gloss": "if-goes-what",
+     "grounds": "token 9 of verse 84",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "malasyopakalpanam",
+     "gloss": "assumption-of-impurity",
+     "grounds": "token 10 of verse 84",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "If beginningless karma becomes cause in assumed maya-effect, what of impurity's assumption?",
+   "premises": [
+    "maya-effect and karma are assumed",
+    "causality is considered",
+    "beginningless karma is questioned",
+    "impurity's assumption is questioned"
+   ],
+   "inference": "assuming maya-effect as cause raises the problem of impurity's assumption",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Thus and in assumed maya-effect in karma, causality; if beginningless karma goes, what of assumption of impurity?"
+  }
+ ]
+}
