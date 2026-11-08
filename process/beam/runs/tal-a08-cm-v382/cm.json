@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "udrikta",
-   "morph": "compound-member",
-   "grounds": "description"
+   "morph": "compound",
+   "grounds": "attribute"
   },
   {
    "lemma": "taijasatvena",
@@ -15,12 +15,12 @@
   {
    "lemma": "hemno",
    "morph": "n.gen.sg",
-   "grounds": "example"
+   "grounds": "possessor"
   },
   {
    "lemma": "bhūparamāṇavaḥ",
    "morph": "m.nom.pl",
-   "grounds": "example"
+   "grounds": "subject"
   },
   {
    "lemma": "yathā",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "bhāntyevamūrdhvādhorudradehagāḥ",
-   "morph": "compound+3.pl.present, √bhā",
-   "grounds": "comparison and conclusion"
+   "morph": "compound",
+   "grounds": "comparison and subject"
   }
  ]
 }
