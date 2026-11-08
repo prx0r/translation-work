@@ -1,0 +1,231 @@
+{
+ "song": "Tantraloka a01",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "mantrasvarūpaṃ",
+     "gloss": "mantra-nature",
+     "grounds": "topic of the thirtieth chapter",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadvīryamiti",
+     "gloss": "its-power-thus",
+     "grounds": "topic of the thirtieth chapter",
+     "morph": "compound"
+    },
+    {
+     "surface": "triṃśe",
+     "gloss": "in-the-thirtieth",
+     "grounds": "chapter reference",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nirūpitam",
+     "gloss": "explained",
+     "grounds": "predicate",
+     "morph": "n.nom.sg.ppp"
+    },
+    {
+     "surface": "śūlābjabhedo",
+     "gloss": "division-of-trident-and-lotus",
+     "grounds": "topic of the thirty-first chapter",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyomaśasvastikādinirūpaṇam",
+     "gloss": "explanation-of-sky-rabbit-svastika-and-others",
+     "grounds": "topic of the thirty-first chapter",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which topics are explained in the thirtieth and thirty-first chapters?",
+   "premises": [
+    "The nature of mantra and its power are explained in the thirtieth chapter.",
+    "The division of the trident and lotus is a topic of the thirty-first chapter.",
+    "The explanation of the sky-rabbit, svastika, and others is a topic of the thirty-first chapter."
+   ],
+   "inference": "The thirtieth chapter treats mantra and its power, while the thirty-first treats the trident-lotus division and related diagrams.",
+   "uncertainties": [
+    "The exact referents of vyomaśa and svastika in this ritual context are not fully specified in the verse."
+   ],
+   "plain_english": "In the thirtieth chapter, the nature of mantra and its power are explained. In the thirty-first, the division of the trident and lotus and the explanation of the sky-rabbit, svastika, and other figures are to be treated."
+  },
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "vistareṇābhidhātavyamityekatriṃśa",
+     "gloss": "to-be-explained-in-detail-thus-in-the-thirty-first",
+     "grounds": "chapter reference and predicate",
+     "morph": "compound"
+    },
+    {
+     "surface": "āhnike",
+     "gloss": "in-the-chapter",
+     "grounds": "chapter reference",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "guṇapradhānatābhedāḥ",
+     "gloss": "distinctions-of-quality-and-principality",
+     "grounds": "topic of the thirty-second chapter",
+     "morph": "compound"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "topic of the thirty-second chapter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīryacarcanam",
+     "gloss": "worship-of-power",
+     "grounds": "topic of the thirty-second chapter",
+     "morph": "compound"
+    }
+   ],
+   "question": "What topics are to be explained in detail in the thirty-first and thirty-second chapters?",
+   "premises": [
+    "Certain matters are to be explained in detail in the thirty-first chapter.",
+    "The distinctions of quality and principality are topics of the thirty-second chapter.",
+    "The own nature and the worship of power are topics of the thirty-second chapter."
+   ],
+   "inference": "The thirty-first chapter gives a detailed treatment, and the thirty-second chapter addresses distinctions of quality and principality, own nature, and the worship of power.",
+   "uncertainties": [
+    "The verse compresses the transition between chapters, so the exact boundary of topics is slightly ambiguous."
+   ],
+   "plain_english": "These matters are to be explained in detail in the thirty-first chapter. In the thirty-second chapter, the distinctions of quality and principality, the own nature, and the worship of power are set forth."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "kalābheda",
+     "gloss": "division-of-parts",
+     "grounds": "topic of the thirty-second chapter",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "predicate",
+     "morph": "n.nom.sg.ppp"
+    },
+    {
+     "surface": "mudrāṇāṃ",
+     "gloss": "of-the-seals",
+     "grounds": "topic domain",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "saṃprakāśane",
+     "gloss": "in-the-full-revelation",
+     "grounds": "context of exposition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvātriṃśatattvādīśākhyātprabhṛti",
+     "gloss": "beginning-from-the-thirty-two-principles-and-the-lord-teaching",
+     "grounds": "reason for no further division",
+     "morph": "compound"
+    },
+    {
+     "surface": "prasphuṭo",
+     "gloss": "clearly-manifest",
+     "grounds": "reason for no further division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal connector",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the division of parts declared in the full revelation of the seals?",
+   "premises": [
+    "The division of parts is declared in the full revelation of the seals.",
+    "From the thirty-two principles and the Lord's teaching onward, the matter is clearly manifest.",
+    "Clear manifestation makes the division evident."
+   ],
+   "inference": "The division of parts in the seals is declared because, from the thirty-two principles and the Lord's teaching onward, it becomes clearly manifest.",
+   "uncertainties": [
+    "The compound dvātriṃśatattvādīśākhyātprabhṛti may refer to a specific textual or doctrinal sequence that is not fully explicit here."
+   ],
+   "plain_english": "Thus the division of parts is declared in the full revelation of the seals, because from the thirty-two principles and the Lord's teaching onward it becomes clearly manifest."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedo@sti",
+     "gloss": "division-exists",
+     "grounds": "predicate",
+     "morph": "compound"
+    },
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "noktamuddeśāntaramatra",
+     "gloss": "no-other-enunciation-stated-here",
+     "grounds": "conclusion",
+     "morph": "compound"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "topic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyatvena",
+     "gloss": "by-being-primary",
+     "grounds": "reason",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyatvādadhikārāntarakramaḥ",
+     "gloss": "because-of-being-known-the-sequence-of-other-topics",
+     "grounds": "reason",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is no further separate enunciation given at this point?",
+   "premises": [
+    "No further division exists at this point.",
+    "Therefore no other enunciation is stated here.",
+    "The matter is primary and already known, so the sequence of other topics follows."
+   ],
+   "inference": "Because no further division exists and the subject is primary and already known, no separate enunciation is given here.",
+   "uncertainties": [
+    "The scope of adhikārāntarakramaḥ could refer to subsequent chapters or to subordinate topics within the same exposition."
+   ],
+   "plain_english": "There is no further division here, so no other separate enunciation is given. Because this subject is primary and already known, the sequence of the remaining topics follows."
+  }
+ ]
+}
