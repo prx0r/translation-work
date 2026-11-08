@@ -1,0 +1,383 @@
+{
+ "song": "Tantraloka a15",
+ "items": [
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "conclusion from previous",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehasthitaṃ",
+     "gloss": "situated-in-the-body",
+     "grounds": "location of worship",
+     "morph": "compound: deha+sthita (n.nom.sg)"
+    },
+    {
+     "surface": "tasmāddehāyatanago",
+     "gloss": "therefore-going-to-the-body-as-abode",
+     "grounds": "shift to bodily site",
+     "morph": "compound: tasmāt+deha+āyatana+ga (m.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.optative + bhū"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "in-the-external",
+     "grounds": "external site",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛśāntaḥsthayogamārgaviśāradāḥ",
+     "gloss": "skilled-in-the-inner-yoga-path-of-that-kind",
+     "grounds": "qualified practitioners",
+     "morph": "compound: tādṛśa+antaḥstha+yoga+mārga+viśārada (m.nom.pl)"
+    }
+   ],
+   "question": "Where should worship be performed and who is qualified for the external form?",
+   "premises": [
+    "Worship can be situated in the body as its abode.",
+    "External worship is also possible.",
+    "Only those skilled in the corresponding inner yoga path are qualified for the external form."
+   ],
+   "inference": "Bodily worship is primary, while external worship is valid only for practitioners already adept in the inner yoga path.",
+   "uncertainties": [
+    "The exact scope of tādṛśa in tādṛśāntaḥsthayogamārgaviśāradāḥ depends on the immediately preceding context."
+   ],
+   "plain_english": "Therefore worship should be situated in the body, taking the body as its abode. External worship, however, is for those who are skilled in the corresponding inner yoga path."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "devyaḥ",
+     "gloss": "goddesses",
+     "grounds": "divine powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "svabhāvājjāyante",
+     "gloss": "arise-from-their-own-nature",
+     "grounds": "spontaneous manifestation",
+     "morph": "3.pl.present.middle + jan (with ablative compound)"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "sacred-seat",
+     "grounds": "ritual site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvāhyamucyate",
+     "gloss": "is-called-external-to-that",
+     "grounds": "definition of external seat",
+     "morph": "3.sg.present.passive + vac (with compound tad+bāhya)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svabhāvato",
+     "gloss": "by-their-own-nature",
+     "grounds": "natural disposition",
+     "morph": "(indecl., ablative sense)"
+    },
+    {
+     "surface": "mlecchā",
+     "gloss": "barbarians",
+     "grounds": "example group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "adharmapathavartinaḥ",
+     "gloss": "following-the-path-of-unrighteousness",
+     "grounds": "characterization of example",
+     "morph": "compound: adharma+patha+vartin (m.nom.pl)"
+    }
+   ],
+   "question": "How are the goddesses and the external sacred seat said to arise?",
+   "premises": [
+    "The goddesses arise from their own nature.",
+    "The sacred seat is called external to that inner reality.",
+    "An analogy is given with people who follow unrighteousness by their own nature."
+   ],
+   "inference": "Both the manifestation of the goddesses and the designation of an external seat are explained through inherent nature rather than external construction.",
+   "uncertainties": [
+    "The force of the analogy with mlecchas may be illustrative rather than strictly doctrinal."
+   ],
+   "plain_english": "The goddesses arise from their own nature, and the sacred seat is said to be external to that. This is like barbarians who, by their own nature, follow the path of unrighteousness."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "in-the-place",
+     "grounds": "location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niyatyetthaṃ",
+     "gloss": "by-fixed-rule-thus",
+     "grounds": "determined condition",
+     "morph": "compound: niyati+ittham"
+    },
+    {
+     "surface": "jñānayogau",
+     "gloss": "knowledge-and-yoga",
+     "grounds": "two disciplines",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "sthitau",
+     "gloss": "established",
+     "grounds": "present condition",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "somewhere",
+     "grounds": "occasional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathācātanmayo@pyeti",
+     "gloss": "just-as-even-one-made-of-consciousness-goes",
+     "grounds": "analogy of transformation",
+     "morph": "3.sg.present + i (with compounds yathā+caitanya+maya+api)"
+    },
+    {
+     "surface": "pāpitāṃ",
+     "gloss": "state-of-sinfulness",
+     "grounds": "negative transformation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "agents of association",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samāgamāt",
+     "gloss": "through-association",
+     "grounds": "cause of change",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What effect can association with such a place have on knowledge and yoga?",
+   "premises": [
+    "In certain places knowledge and yoga are established in a fixed way.",
+    "Even a being made of consciousness can fall into sinfulness.",
+    "Such a fall can occur through association with others in that place."
+   ],
+   "inference": "Association with a particular place and its people can degrade even established knowledge and yoga.",
+   "uncertainties": [
+    "The sandhi resolution of yathācātanmayo@pyeti follows the supplied tokenization and may admit minor variation."
+   ],
+   "plain_english": "In some such place, knowledge and yoga may be established by fixed rule, yet even one who is made of consciousness can fall into sinfulness through association with those there."
+  },
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "parallel case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhasthito@pyeti",
+     "gloss": "even-one-situated-in-the-sacred-seat-attains",
+     "grounds": "positive transformation",
+     "morph": "3.sg.present + i (with compounds pīṭha+sthita+api)"
+    },
+    {
+     "surface": "jñānayogādipātratām",
+     "gloss": "fitness-for-knowledge-yoga-and-so-on",
+     "grounds": "result of sacred association",
+     "morph": "compound: jñāna+yoga+ādi+pātratā (f.acc.sg)"
+    },
+    {
+     "surface": "mukhyatvena",
+     "gloss": "primarily",
+     "grounds": "mode of attainment",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śarīre@ntaḥ",
+     "gloss": "within-the-body",
+     "grounds": "inner locus",
+     "morph": "compound: śarīra+antaḥ (locative sense)"
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "in-the-breath",
+     "grounds": "subtle locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃvidi",
+     "gloss": "in-consciousness",
+     "grounds": "innermost locus",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "paśyataḥ",
+     "gloss": "for-one-who-sees",
+     "grounds": "qualified perceiver",
+     "morph": "m.gen.sg (present participle of dṛś)"
+    }
+   ],
+   "question": "How does one attain fitness for knowledge and yoga in the highest sense?",
+   "premises": [
+    "One situated in a sacred seat can attain fitness for knowledge and yoga.",
+    "This attainment is primary when seen inwardly.",
+    "The inward seeing occurs in the body, in the breath, and in consciousness."
+   ],
+   "inference": "True fitness for knowledge and yoga arises primarily through inward realization across body, breath, and consciousness.",
+   "uncertainties": [
+    "The exact syntactic scope of mukhyatvena could be read with paśyataḥ or with the attainment itself."
+   ],
+   "plain_english": "Likewise, even one situated in a sacred seat attains fitness for knowledge, yoga, and the rest, primarily for one who sees inwardly in the body, in the breath, and in consciousness."
+  },
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "viśvametatkimanyaiḥ",
+     "gloss": "this-whole-universe-what-with-others",
+     "grounds": "rhetorical dismissal of alternatives",
+     "morph": "compound: viśva+etat+kim+anya (inst.pl sense)"
+    },
+    {
+     "surface": "syādbahirbhramaṇaḍambaraiḥ",
+     "gloss": "would-be-with-outer-wandering-displays",
+     "grounds": "critique of externalism",
+     "morph": "3.sg.optative + as (with compound bahir+bhramaṇa+ḍambara, m.inst.pl)"
+    },
+    {
+     "surface": "ityevamantarbāhye",
+     "gloss": "thus-in-this-way-inward-and-outward",
+     "grounds": "summary of two domains",
+     "morph": "compound: iti+evam+antar+bāhya (n.loc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattaccakraphalārthinām",
+     "gloss": "for-those-seeking-the-fruit-of-each-respective-circle",
+     "grounds": "intended practitioners",
+     "morph": "compound: tat+tat+cakra+phala+arthin (m.gen.pl)"
+    }
+   ],
+   "question": "Why is outer wandering unnecessary for those seeking the fruit of the sacred circles?",
+   "premises": [
+    "The whole universe is already present in the inward and outward domains under discussion.",
+    "Outer wandering is presented as mere display.",
+    "Practitioners seek the fruit of specific sacred circles."
+   ],
+   "inference": "For seekers of the circles' fruit, elaborate external wandering is unnecessary because the relevant reality is accessible inwardly and outwardly as taught.",
+   "uncertainties": [
+    "The compound viśvametatkimanyaiḥ is compressed and its rhetorical force is slightly interpretive."
+   ],
+   "plain_english": "This whole universe is already here, so what is the use of other outward displays of wandering? Thus, for those who seek the fruit of each respective circle, the matter applies both inwardly and outwardly."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "sthānabhedo",
+     "gloss": "difference-of-place",
+     "grounds": "topic of variation",
+     "morph": "compound: sthāna+bheda (m.nom.sg)"
+    },
+    {
+     "surface": "vicitraśca",
+     "gloss": "and-varied",
+     "grounds": "characterization",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "anaphoric reference",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "in-scripture",
+     "grounds": "textual locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃkhyayojjhitaḥ",
+     "gloss": "beyond-counting",
+     "grounds": "immeasurable variety",
+     "morph": "compound: saṃkhyā+ujjhita (m.nom.sg)"
+    },
+    {
+     "surface": "śrīvīrāvalihṛdaye",
+     "gloss": "in-the-heart-of-the-venerable-vīrāvali",
+     "grounds": "scriptural citation",
+     "morph": "compound: śrī+vīrāvali+hṛdaya (n.loc.sg)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "specific count",
+     "morph": "(indecl., numeral)"
+    },
+    {
+     "surface": "sthānāni",
+     "gloss": "places",
+     "grounds": "listed sites",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śaktikamalayugam",
+     "gloss": "pair-of-śakti-lotuses",
+     "grounds": "specific site-pair",
+     "morph": "compound: śakti+kamala+yuga (n.nom.sg)"
+    }
+   ],
+   "question": "How extensive is the variation of sacred places taught in the scriptures?",
+   "premises": [
+    "The difference of sacred places is varied.",
+    "In scripture this variation is beyond counting.",
+    "The Vīrāvalihṛdaya specifically mentions seven places and a pair of śakti-lotuses."
+   ],
+   "inference": "Although scriptural teaching presents countless variations of sacred places, some texts give specific enumerations.",
+   "uncertainties": [
+    "The final token śaktikamalayugam may be part of the enumerated list in a way not fully explicit in this verse alone."
+   ],
+   "plain_english": "The difference of sacred places is varied and, in scripture, beyond counting. In the Vīrāvalihṛdaya, seven places are mentioned, along with a pair of śakti-lotuses."
+  }
+ ]
+}
