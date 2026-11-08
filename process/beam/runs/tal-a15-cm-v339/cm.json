@@ -1,61 +1,61 @@
 {
- "song": "tal-a15",
- "verse": 339,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
    "lemma": "iha",
-   "morph": "(indecl.)",
-   "grounds": "context"
+   "morph": "indecl.",
+   "grounds": "here"
   },
   {
    "lemma": "kila",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "morph": "indecl.",
+   "grounds": "indeed"
   },
   {
-   "lemma": "dṛkkarmecchāḥ",
-   "morph": "dṛk-karma-icchāḥ f.nom.pl",
-   "grounds": "three powers"
+   "lemma": "dṛkkarmecchā",
+   "morph": "f.nom.pl",
+   "grounds": "compound dṛk+karman+icchā (seeing-action-will), nominative plural"
   },
   {
    "lemma": "śiva",
    "morph": "m.voc.sg",
-   "grounds": "address"
+   "grounds": "O-Shiva, vocative singular"
   },
   {
-   "lemma": "uktāstāstu",
-   "morph": "uktāḥ f.nom.pl + tāḥ f.nom.pl + tu (indecl.)",
-   "grounds": "transition"
+   "lemma": "uktāḥ tāḥ tu",
+   "morph": "m/f.nom.pl (past ppp √vac) + f.nom.pl (pron.) + indecl.",
+   "grounds": "spoken-those-but; sandhi split into uktāḥ, tāḥ, tu (AMBIGUOUS gender agreement context)"
   },
   {
-   "lemma": "vedyakhaṇḍanake",
-   "morph": "vedya-khaṇḍanake n.loc.sg",
-   "grounds": "function"
-  },
-  {
-   "lemma": "sthūle",
+   "lemma": "vedyakhaṇḍanaka",
    "morph": "n.loc.sg",
-   "grounds": "level"
+   "grounds": "compound vedya+khaṇḍanaka (in-cutting-of-knowable), locative singular"
   },
   {
-   "lemma": "sūkṣme",
-   "morph": "n.loc.sg",
-   "grounds": "level"
+   "lemma": "sthūla",
+   "morph": "m/n.loc.sg",
+   "grounds": "gross, locative singular"
   },
   {
-   "lemma": "kramaśaḥ",
-   "morph": "(indecl.)",
-   "grounds": "sequence"
+   "lemma": "sūkṣma",
+   "morph": "m/n.loc.sg",
+   "grounds": "subtle, locative singular"
   },
   {
-   "lemma": "sakalapralayākalau",
-   "morph": "sakala-pralayākalau m.nom.du",
-   "grounds": "two subject types"
+   "lemma": "kramaśas",
+   "morph": "indecl.",
+   "grounds": "in-order"
   },
   {
-   "lemma": "bhavataḥ",
-   "morph": "3.du.pres.act √bhū",
-   "grounds": "result"
+   "lemma": "sakalapralayākala",
+   "morph": "m.nom.du",
+   "grounds": "dvandva compound sakala+pralayākala (sakala-and-pralayākala), nominative dual"
+  },
+  {
+   "lemma": "bhū",
+   "morph": "3du.pres.act √bhū",
+   "grounds": "become, 3rd person dual present active"
   }
  ]
 }

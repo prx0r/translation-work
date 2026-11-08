@@ -1,66 +1,66 @@
 {
- "song": "tal-a15",
- "verse": 346,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
    "lemma": "prāk",
-   "morph": "(indecl.)",
-   "grounds": "prior state"
+   "morph": "indecl.",
+   "grounds": "before (indecl.)"
   },
   {
-   "lemma": "prasphuṭaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "quality"
+   "lemma": "prasphuṭam",
+   "morph": "indecl.",
+   "grounds": "very-clear (indecl., adverbial)"
   },
   {
-   "lemma": "tribhāvaṃ",
-   "morph": "tri-bhāvam m.acc.sg",
-   "grounds": "structure"
+   "lemma": "tribhāva",
+   "morph": "m.acc.sg",
+   "grounds": "threefold-state (m.acc.sg)"
   },
   {
-   "lemma": "nāgacchannatra",
-   "morph": "na (indecl.) + āgacchan m.nom.sg pres.part √gam+ā + atra (indecl.)",
-   "grounds": "negation"
+   "lemma": "na-āgacchat-atra",
+   "morph": "m.nom.sg.pres.part.act √gam + indecl.",
+   "grounds": "not-reaching-here (negated pres.part m.nom.sg √gam + atra; AMBIGUOUS tokenization)"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "contrast"
+   "morph": "indecl.",
+   "grounds": "but (indecl.)"
   },
   {
    "lemma": "tathā",
-   "morph": "(indecl.)",
-   "grounds": "manner"
+   "morph": "indecl.",
+   "grounds": "so (indecl.)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "not (indecl.)"
   },
   {
-   "lemma": "anyonyātmakabhedāvacchedanakalanasaṃgrasiṣṇutayā",
-   "morph": "anyonya-ātmaka-bheda-avacchedana-kalana-saṃgrasiṣṇutayā f.inst.sg",
-   "grounds": "cause"
+   "lemma": "anyonyātmakabhedāvacchedanakalanasaṃgrasiṣṇutā",
+   "morph": "f.inst.sg",
+   "grounds": "by-readiness-to-devour-cutting-of-mutual-difference (f.inst.sg, abstract noun)"
   },
   {
-   "lemma": "svātantryamātrasārā",
-   "morph": "svātantrya-mātra-sārā f.nom.sg",
-   "grounds": "nature"
+   "lemma": "svātantryamātrasāra",
+   "morph": "f.nom.sg",
+   "grounds": "whose-essence-is-freedom-alone (f.nom.sg, bahuvrīhi)"
   },
   {
-   "lemma": "saṃvitsā",
-   "morph": "saṃvit f.nom.sg + sā f.nom.sg",
-   "grounds": "subject"
+   "lemma": "saṃvit-sā",
+   "morph": "f.nom.sg + f.nom.sg",
+   "grounds": "that-consciousness (saṃvit f.nom.sg + tad f.nom.sg; AMBIGUOUS sandhi/tokenization)"
   },
   {
    "lemma": "kālakarṣiṇī",
-   "morph": "kāla-karṣiṇī f.nom.sg",
-   "grounds": "name"
+   "morph": "f.nom.sg",
+   "grounds": "time-drawer (f.nom.sg)"
   },
   {
-   "lemma": "kathitā",
-   "morph": "f.nom.sg past-part √kath",
-   "grounds": "designation"
+   "lemma": "kathita",
+   "morph": "f.nom.sg.ppp √kath",
+   "grounds": "declared (f.nom.sg past passive participle √kath)"
   }
  ]
 }

@@ -1,41 +1,41 @@
 {
- "song": "tal-a15",
- "verse": 345,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "bibhrati",
-   "morph": "3.pl.pres.act √bhṛ",
-   "grounds": "continuation"
+   "lemma": "bhṛ",
+   "morph": "3pl.pres.act √bhṛ",
+   "grounds": "bibhrati = they-bear"
   },
   {
-   "lemma": "tāstu",
-   "morph": "tāḥ f.nom.pl + tu (indecl.)",
-   "grounds": "subject"
+   "lemma": "tad",
+   "morph": "f.nom.pl + indecl.",
+   "grounds": "tāstu = they-but (tāḥ + tu); sandhi form"
   },
   {
-   "lemma": "tritvaṃ",
+   "lemma": "tritva",
    "morph": "n.acc.sg",
-   "grounds": "structure"
+   "grounds": "tritvaṃ = threefoldness"
   },
   {
-   "lemma": "tāsāṃ",
+   "lemma": "tad",
    "morph": "f.gen.pl",
-   "grounds": "reference"
+   "grounds": "tāsāṃ = of-them"
   },
   {
-   "lemma": "sphuṭameva",
-   "morph": "sphuṭam (indecl.) + eva (indecl.)",
-   "grounds": "emphasis"
+   "lemma": "sphuṭam-eva",
+   "morph": "indecl. + indecl.",
+   "grounds": "sphuṭameva = clearly-indeed (compound/adverbial)"
   },
   {
-   "lemma": "lakṣyeta",
-   "morph": "3.sg.opt.pass √lakṣ",
-   "grounds": "cognition"
+   "lemma": "lakṣ",
+   "morph": "3sg.opt.pass √lakṣ",
+   "grounds": "lakṣyeta = would-be-perceived"
   },
   {
-   "lemma": "saṃbhāvyavedyakāluṣyayogato@nyonyalabdhasaṃkarataḥ",
-   "morph": "saṃbhāvya-vedya-kāluṣya-yogataḥ (indecl.) + anyonya-labdha-saṃkarataḥ (indecl.)",
-   "grounds": "cause"
+   "lemma": "saṃbhāvyavedyakāluṣyayoga-anyonyālabdhasaṃkaratā",
+   "morph": "f.abl.sg (compound)",
+   "grounds": "saṃbhāvyavedyakāluṣyayogato@nyonyalabdhasaṃkarataḥ = from-possible-knowable-impurity-and-mutual-mixture; complex compound, analysis approximate (AMBIGUOUS)"
   }
  ]
 }

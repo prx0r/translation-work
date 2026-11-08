@@ -1,56 +1,56 @@
 {
- "song": "tal-a15",
- "verse": 337,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "pūrakaiḥ",
+   "lemma": "pūraka",
    "morph": "m.inst.pl",
-   "grounds": "breath technique"
+   "grounds": "pūrakaiḥ = with-inhalations"
   },
   {
-   "lemma": "kumbhakairdhatte",
-   "morph": "kumbhakaiḥ m.inst.pl + dhatte 3.sg.pres.mid √dhā",
-   "grounds": "breath technique"
+   "lemma": "kumbhaka + √dhā",
+   "morph": "m.inst.pl + 3sg.pres.mid",
+   "grounds": "kumbhakairdhatte = with-retentions-holds (sandhi: kumbhakaiḥ dhatte)"
   },
   {
-   "lemma": "grasate",
-   "morph": "3.sg.pres.mid √gras",
-   "grounds": "action on time"
+   "lemma": "√gras",
+   "morph": "3sg.pres.act",
+   "grounds": "grasate = seizes"
   },
   {
-   "lemma": "recakena",
+   "lemma": "recaka",
    "morph": "m.inst.sg",
-   "grounds": "breath technique"
+   "grounds": "recakena = with-exhalation"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "contrast"
+   "morph": "indecl.",
+   "grounds": "tu = but"
   },
   {
-   "lemma": "kālaṃ",
+   "lemma": "kāla",
    "morph": "m.acc.sg",
-   "grounds": "object seized"
+   "grounds": "kālaṃ = time"
   },
   {
-   "lemma": "saṃgrasate",
-   "morph": "3.sg.pres.mid √gras+sam",
-   "grounds": "action on time"
+   "lemma": "sam-√gras",
+   "morph": "3sg.pres.act",
+   "grounds": "saṃgrasate = completely-seizes"
   },
   {
-   "lemma": "sarvaṃ",
+   "lemma": "sarva",
    "morph": "n.acc.sg",
-   "grounds": "totality"
+   "grounds": "sarvaṃ = all"
   },
   {
-   "lemma": "recakenotthitā",
-   "morph": "recakena m.inst.sg + utthitā f.nom.sg",
-   "grounds": "power's movement"
+   "lemma": "recaka + utthita",
+   "morph": "m.inst.sg + f.nom.sg (ppp)",
+   "grounds": "recakenotthitā = risen-with-exhalation (sandhi: recakena utthitā)"
   },
   {
-   "lemma": "kṣaṇāt",
+   "lemma": "kṣaṇa",
    "morph": "m.abl.sg",
-   "grounds": "suddenness"
+   "grounds": "kṣaṇāt = in-an-instant"
   }
  ]
 }

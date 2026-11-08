@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 341,
+ "song": "...",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "bhinne",
+   "lemma": "bhinna",
+   "morph": "m.loc.sg.n",
+   "grounds": "bhinne = when-divided (loc.sg.n. of bhinna, past participle of √bhid)"
+  },
+  {
+   "lemma": "tu akhila",
+   "morph": "indecl. + n.loc.sg",
+   "grounds": "tvakhile = but-entire (tu = but, indecl.; akhile = loc.sg.n. of akhila)"
+  },
+  {
+   "lemma": "vedya",
    "morph": "n.loc.sg",
-   "grounds": "condition"
+   "grounds": "vedye = knowable (loc.sg.n. of vedya, gerundive of √vid)"
   },
   {
-   "lemma": "tvakhile",
-   "morph": "tu (indecl.) + akhile n.loc.sg",
-   "grounds": "totality"
+   "lemma": "mantreśa tanmaheśa tu",
+   "morph": "m.nom.pl + m.nom.pl + indecl.",
+   "grounds": "mantreśāstanmaheśāstu = lords-of-mantras-and-great-lords-but (mantreśāḥ = nom.pl.m. of mantreśa; tanmaheśāḥ = nom.pl.m. of tanmaheśa; tu = but, indecl.)"
   },
   {
-   "lemma": "vedye",
-   "morph": "n.loc.sg",
-   "grounds": "object"
+   "lemma": "bhinnābhinna",
+   "morph": "m.nom.pl (dvandva compound)",
+   "grounds": "bhinnābhinne = divided-and-undivided (nom.pl.m. dvandva of bhinna + abhinna)"
   },
   {
-   "lemma": "mantreśāstanmaheśāstu",
-   "morph": "mantreśāḥ m.nom.pl + tat-maheśāḥ m.nom.pl + tu (indecl.)",
-   "grounds": "higher subjects"
-  },
-  {
-   "lemma": "bhinnābhinne",
-   "morph": "bhinna-abhinne n.loc.sg",
-   "grounds": "condition"
-  },
-  {
-   "lemma": "tadiyān",
+   "lemma": "tadīya",
    "morph": "m.acc.pl",
-   "grounds": "relation"
+   "grounds": "tadiyān = their-own (acc.pl.m. of tadīya)"
   },
   {
-   "lemma": "suśivānto@dhvoditaḥ",
-   "morph": "suśiva-antaḥ m.nom.sg + adhva-uditaḥ m.nom.sg",
-   "grounds": "range"
+   "lemma": "suśivāntādhvodita",
+   "morph": "m.nom.sg (compound)",
+   "grounds": "suśivānto@dhvoditaḥ = up-to-sadashiva-path-arisen (nom.sg.m. compound: suśiva-anta-adhvan + udita, past participle of ud-√i)"
   },
   {
-   "lemma": "prete",
+   "lemma": "pretṛ",
    "morph": "m.loc.sg",
-   "grounds": "supreme subject"
+   "grounds": "prete = in-the-lord (loc.sg.m. of pretṛ, agent noun from pra-√i; AMBIGUOUS: could also be loc.sg. of preta 'departed spirit', but gloss indicates 'lord')"
   }
  ]
 }

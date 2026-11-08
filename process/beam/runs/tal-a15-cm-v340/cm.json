@@ -1,56 +1,56 @@
 {
- "song": "tal-a15",
- "verse": 340,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "śuddhā",
-   "morph": "f.nom.sg",
-   "grounds": "state of powers"
+   "lemma": "śuddha",
+   "morph": "f.nom.pl",
+   "grounds": "gloss 'pure'; nominative plural feminine adjective"
   },
   {
    "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "morph": "indecl.",
+   "grounds": "gloss 'indeed'; emphatic particle"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "contrast"
+   "morph": "indecl.",
+   "grounds": "gloss 'but'; adversative particle"
   },
   {
-   "lemma": "suptā",
-   "morph": "f.nom.sg",
-   "grounds": "state of powers"
-  },
-  {
-   "lemma": "jñānākalatāṃ",
-   "morph": "jñāna-ākalatām f.acc.sg",
-   "grounds": "subject type"
-  },
-  {
-   "lemma": "gatāḥ",
+   "lemma": "supta",
    "morph": "f.nom.pl",
-   "grounds": "transition"
+   "grounds": "gloss 'asleep'; past participle, nominative plural feminine"
   },
   {
-   "lemma": "prabuddhāstu",
-   "morph": "prabuddhāḥ f.nom.pl + tu (indecl.)",
-   "grounds": "contrast"
+   "lemma": "jñānākalatā",
+   "morph": "f.acc.sg",
+   "grounds": "gloss 'state-of-knowledge-limited'; accusative singular feminine"
   },
   {
-   "lemma": "pravibhinnakatipayātmakavedyavido",
-   "morph": "pravibhinna-katipaya-ātmaka-vedya-vidaḥ m.nom.pl",
-   "grounds": "mantra state"
+   "lemma": "gata",
+   "morph": "f.nom.pl",
+   "grounds": "gloss 'gone-to'; past participle, nominative plural feminine"
+  },
+  {
+   "lemma": "prabuddha + tu",
+   "morph": "m.nom.pl + indecl.",
+   "grounds": "gloss 'awakened-but'; sandhi token prabuddhāstu = prabuddhāḥ (prabuddha, m.nom.pl) + tu (indecl.)"
+  },
+  {
+   "lemma": "pravibhinnakatipayātmakavedyavid",
+   "morph": "m.nom.pl (compound)",
+   "grounds": "gloss 'knowers-of-some-divided-knowables'; bahuvrīhi/tatpuruṣa compound, nominative plural masculine"
   },
   {
    "lemma": "mantra",
    "morph": "m.nom.pl",
-   "grounds": "subject type"
+   "grounds": "gloss 'mantras'; nominative plural masculine noun"
   },
   {
-   "lemma": "ucyante",
-   "morph": "3.pl.pres.pass √vac",
-   "grounds": "designation"
+   "lemma": "√vac",
+   "morph": "3pl.pres.pass",
+   "grounds": "gloss 'are-called'; ucyante, present passive"
   }
  ]
 }
