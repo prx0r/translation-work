@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 555,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "veśyāḥ",
+   "lemma": "veśyā",
    "morph": "f.nom.pl",
-   "grounds": "women who are courtesans"
+   "grounds": "veśyāḥ = courtesans"
   },
   {
-   "lemma": "pūjyāstadgṛhaṃ",
-   "morph": "compound: pūjya+to-be-honored (f.nom.pl) + tad+their + gṛha+house (n.nom.sg)",
-   "grounds": "courtesans and their dwelling are worthy of honor"
+   "lemma": "pūjya-tad-gṛha",
+   "morph": "n.nom.sg (compound)",
+   "grounds": "pūjyāstadgṛhaṃ = to-be-honored-and-their-house"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "ca = and"
   },
   {
-   "lemma": "prayāgo@tra",
-   "morph": "compound: prayāga+sacred-confluence (m.nom.sg) + atra+here",
-   "grounds": "this place is treated as a sacred meeting point"
+   "lemma": "prayāga-atra",
+   "morph": "m.nom.sg + indecl. (compound/sandhi)",
+   "grounds": "prayāgo@tra = here-as-a-sacred-confluence"
   },
   {
-   "lemma": "yajetkramam",
-   "morph": "compound: yajet+should-worship (3.sg.optative, √yaj) + krama+sequence (m.acc.sg)",
-   "grounds": "perform the ritual sequence"
+   "lemma": "yaj-krama",
+   "morph": "3sg.opt.act √yaj + m.acc.sg (sandhi)",
+   "grounds": "yajetkramam = one-should-worship-the-sequence"
   },
   {
-   "lemma": "strīṣu",
+   "lemma": "strī",
    "morph": "f.loc.pl",
-   "grounds": "in relation to women"
+   "grounds": "strīṣu = toward-women"
   },
   {
-   "lemma": "tannācaretkicidyena",
-   "morph": "compound: tat+that + na+not + ācaret+should-do (3.sg.optative, √car) + kiṃcit+anything + yena+by-which",
-   "grounds": "avoid any action that causes a certain reaction"
+   "lemma": "tad-na-ācar-kiṃcid-yena",
+   "morph": "indecl. + indecl. + 3sg.opt.act √ācar + n.acc.sg + n.ins.sg (sandhi/compound)",
+   "grounds": "tannācaretkicidyena = one-should-not-do-anything-by-which"
   },
   {
-   "lemma": "tābhyo",
+   "lemma": "tad",
    "morph": "f.dat.pl",
-   "grounds": "toward those women"
+   "grounds": "tābhyo = toward-them"
   },
   {
-   "lemma": "jugupsate",
-   "morph": "3.sg.present.middle (√gup, desiderative sense)",
-   "grounds": "one becomes repelled"
+   "lemma": "jugups",
+   "morph": "3sg.pres.mid √jugups",
+   "grounds": "jugupsate = one-feels-disgust"
   }
  ]
 }

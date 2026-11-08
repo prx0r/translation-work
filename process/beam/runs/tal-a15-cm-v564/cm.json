@@ -1,71 +1,71 @@
 {
- "song": "tal-a15",
- "verse": 564,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "śrīpūrvaṃ",
-   "morph": "compound: śrī+revered + pūrva+preceded (n.acc.sg)",
-   "grounds": "beginning with the honorific śrī"
+   "lemma": "śrīpūrva",
+   "morph": "n.nom.sg",
+   "grounds": "preceded-by-śrī (śrīpūrvaṃ), compound śrī+pūrva"
   },
   {
-   "lemma": "nāma",
-   "morph": "n.acc.sg",
-   "grounds": "the personal or sacred name"
+   "lemma": "nāman",
+   "morph": "n.nom.sg",
+   "grounds": "the-name (nāma)"
   },
   {
-   "lemma": "vaktavyaṃ",
-   "morph": "n.nom.sg (future passive participle, √vac)",
-   "grounds": "should be uttered"
+   "lemma": "vac",
+   "morph": "gerundive.n.nom.sg (√vac)",
+   "grounds": "to-be-spoken (vaktavyaṃ)"
   },
   {
-   "lemma": "gurordravyakareṇa",
-   "morph": "compound: guroḥ+of-the-guru (m.gen.sg) + dravya+substance + kareṇa+by-one-having-in-hand (m.inst.sg)",
-   "grounds": "by someone with the guru's offering in hand"
+   "lemma": "gurudravyakara",
+   "morph": "m.inst.sg",
+   "grounds": "by-one-holding-offering-for-the-guru (gurordravyakareṇa), compound guru+dravya+kara"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "and (ca)"
   },
   {
-   "lemma": "gurvādīnāṃ",
-   "morph": "compound: guru+guru + ādīnām+and-others (m.gen.pl)",
-   "grounds": "of the guru and related revered figures"
+   "lemma": "gurvādi",
+   "morph": "m.gen.pl",
+   "grounds": "of-the-guru-and-others (gurvādīnāṃ), compound guru+ādi"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "not (na)"
   },
   {
-   "lemma": "laṅghyā",
-   "morph": "f.nom.sg (future passive participle, √laṅgh)",
-   "grounds": "must not be stepped over"
+   "lemma": "laṅgh",
+   "morph": "gerundive.f.nom.sg (√laṅgh)",
+   "grounds": "to-be-crossed (laṅghyā)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "and (ca)"
   },
   {
    "lemma": "chāyā",
    "morph": "f.nom.sg",
-   "grounds": "their shadow"
+   "grounds": "the-shadow (chāyā)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "not (na)"
   },
   {
-   "lemma": "tairthikaiḥ",
+   "lemma": "tairthika",
    "morph": "m.inst.pl",
-   "grounds": "with followers of other paths"
+   "grounds": "with-sectarian-rivals (tairthikaiḥ)"
   },
   {
    "lemma": "saha",
-   "morph": "(indecl.)",
-   "grounds": "in association with"
+   "morph": "indecl.",
+   "grounds": "together-with (saha)"
   }
  ]
 }

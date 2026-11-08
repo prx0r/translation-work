@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 562,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "āgatasya",
-   "morph": "m.gen.sg (past participle, √gam)",
-   "grounds": "of a mantra that has come"
+   "lemma": "āgata",
+   "morph": "m.gen.sg",
+   "grounds": "āgatasya = 'of-one-that-has-arrived' (gen.sg of past participle of ā-√gam)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "ca = 'and' (indeclinable conjunction)"
   },
   {
-   "lemma": "mantrasya",
+   "lemma": "mantra",
    "morph": "m.gen.sg",
-   "grounds": "of the mantra"
+   "grounds": "mantrasya = 'of-the-mantra' (gen.sg)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = 'not' (indeclinable negation)"
   },
   {
-   "lemma": "kuryāttarpaṇaṃ",
-   "morph": "compound: kuryāt+should-do (3.sg.optative, √kṛ) + tarpaṇam+satisfaction (n.acc.sg)",
-   "grounds": "one should not offer tarpaṇa"
+   "lemma": "kuryāt-tarpaṇa",
+   "morph": "sandhi: 3sg.opt.act √kṛ + n.acc.sg",
+   "grounds": "kuryāttarpaṇaṃ = 'one-should-not-perform-satisfaction' (kuryāt, optative of √kṛ, + tarpaṇam, acc.sg of tarpaṇa)"
   },
   {
    "lemma": "yadi",
-   "morph": "(indecl.)",
-   "grounds": "conditional marker"
+   "morph": "indecl.",
+   "grounds": "yadi = 'if' (indeclinable conditional particle)"
   },
   {
-   "lemma": "haratyardhaśarīraṃ",
-   "morph": "compound: harati+takes (3.sg.present, √hṛ) + ardha+half + śarīram+body (n.acc.sg)",
-   "grounds": "it removes half of one's body or power"
+   "lemma": "harati-ardha-śarīra",
+   "morph": "sandhi: 3sg.pres.act √hṛ + n.acc.sg compound",
+   "grounds": "haratyardhaśarīraṃ = 'it-takes-half-the-body' (harati, present of √hṛ, + ardhaśarīram, acc.sg tatpuruṣa compound)"
   },
   {
-   "lemma": "tadityūce",
-   "morph": "compound: tat+that + iti+thus + ūce+said (3.sg.perfect, √vac)",
-   "grounds": "this was declared"
+   "lemma": "tad-iti-ūce",
+   "morph": "sandhi: n.nom/acc.sg + indecl. + 3sg.perf.act √vac",
+   "grounds": "tadityūce = 'thus-he-said-that' (tad + iti + ūce, perfect of √vac)"
   },
   {
-   "lemma": "bhagavānyataḥ",
-   "morph": "compound: bhagavān+Blessed-One (m.nom.sg) + yataḥ+because",
-   "grounds": "since the Blessed Lord declared it"
+   "lemma": "bhagavat-yatas",
+   "morph": "sandhi: m.nom.sg + indecl.",
+   "grounds": "bhagavānyataḥ = 'because-the-Blessed-One' (bhagavān, nom.sg of bhagavat, + yatas, indeclinable causal particle)"
   }
  ]
 }

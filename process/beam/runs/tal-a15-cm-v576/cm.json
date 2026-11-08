@@ -1,36 +1,36 @@
 {
- "song": "tal-a15",
- "verse": 576,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "śāsanasthānpurājātyā",
-   "morph": "compound",
-   "grounds": "people concerned"
+   "lemma": "śāsanastha-purājāti",
+   "morph": "compound: śāsanastha (m.acc.pl.) + purājāti (f.inst.sg.)",
+   "grounds": "śāsanasthān = those standing in the teaching (m.acc.pl. of śāsanastha); purājātyā = by former birth (f.inst.sg. of purājāti)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not (negation particle)"
   },
   {
-   "lemma": "paśyennāpyudīrayet",
-   "morph": "compound",
-   "grounds": "prohibited attitude"
+   "lemma": "na-api-paś-ud-īr",
+   "morph": "compound/sandhi: na (indecl.) + api (indecl.) + paś (3sg.opt.act. √dṛś) + udīrayet (3sg.opt.act. √ud-īr)",
+   "grounds": "paśyet = should regard (3sg.opt.act. √dṛś); na api = nor; udīrayet = should mention (3sg.opt.act. √ud-īr)"
   },
   {
-   "lemma": "naca",
-   "morph": "(indecl.)",
-   "grounds": "further negation"
+   "lemma": "na-ca",
+   "morph": "indecl. + indecl.",
+   "grounds": "na = not; ca = and (conjoined particles)"
   },
   {
-   "lemma": "vyavaharetsarvāñchivābhedena",
-   "morph": "compound",
-   "grounds": "required attitude"
+   "lemma": "vi-avahṛ-sarva-śivābheda",
+   "morph": "compound/sandhi: vyavaharet (3sg.opt.act. √vi-avahṛ) + sarvān (m.acc.pl.) + śivābhedena (m.inst.sg.)",
+   "grounds": "vyavaharet = should deal with (3sg.opt.act. √vi-avahṛ); sarvān = all (m.acc.pl. of sarva); śivābhedena = as non-different from Śiva (m.inst.sg. of śivābheda, compound śiva+abheda)"
   },
   {
    "lemma": "kevalam",
-   "morph": "(indecl.)",
-   "grounds": "restriction"
+   "morph": "indecl.",
+   "grounds": "kevalam = only (adverb/indeclinable)"
   }
  ]
 }

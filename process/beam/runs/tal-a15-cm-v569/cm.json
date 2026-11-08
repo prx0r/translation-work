@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 569,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "dīkṣitānāṃ",
+   "lemma": "dīkṣita",
    "morph": "m.gen.pl",
-   "grounds": "people concerned"
+   "grounds": "dīkṣitānāṃ = of-the-initiated"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not"
   },
   {
    "lemma": "nindādi",
-   "morph": "n.acc.sg",
-   "grounds": "prohibited behavior"
+   "morph": "n.acc.sg (compound: nindā+ādi)",
+   "grounds": "nindādi = criticism-and-such"
   },
   {
-   "lemma": "kuryādvidveṣapūrvakam",
-   "morph": "compound",
-   "grounds": "prohibition"
+   "lemma": "kṛ + vidveṣapūrvaka",
+   "morph": "3sg.opt.act √kṛ + n.acc.sg (compound: vidveṣa+pūrvaka)",
+   "grounds": "kuryādvidveṣapūrvakam = should-do-preceded-by-hostility (sandhi of kuryāt + avidveṣapūrvakam/vidveṣapūrvakam; token contains verb and adverbial compound)"
   },
   {
-   "lemma": "upadeśāya",
+   "lemma": "upadeśa",
    "morph": "m.dat.sg",
-   "grounds": "permitted purpose"
+   "grounds": "upadeśāya = for-instruction"
   },
   {
-   "lemma": "no",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "lemma": "na + u",
+   "morph": "indecl. + indecl.",
+   "grounds": "no = not (sandhi of na + u)"
   },
   {
-   "lemma": "doṣaḥ",
+   "lemma": "doṣa",
    "morph": "m.nom.sg",
-   "grounds": "moral status"
+   "grounds": "doṣaḥ = fault"
   },
   {
-   "lemma": "sa",
+   "lemma": "tad",
    "morph": "m.nom.sg",
-   "grounds": "refers to correction"
+   "grounds": "sa = that"
   },
   {
-   "lemma": "hyavidveṣapūrvakaḥ",
-   "morph": "compound",
-   "grounds": "qualifying condition"
+   "lemma": "hi + avidveṣapūrvaka",
+   "morph": "indecl. + m.nom.sg (compound: a+vidveṣa+pūrvaka)",
+   "grounds": "hyavidveṣapūrvakaḥ = indeed-not-preceded-by-hostility (sandhi of hi + avidveṣapūrvakaḥ)"
   }
  ]
 }

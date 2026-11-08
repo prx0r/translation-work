@@ -1,56 +1,56 @@
 {
- "song": "tal-a15",
- "verse": 559,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "negation particle = not"
   },
   {
-   "lemma": "jugupseta",
-   "morph": "3.sg.optative.middle (√gup, desiderative sense)",
-   "grounds": "one should not be repelled"
+   "lemma": "jugups",
+   "morph": "3sg.opt.mid √gup",
+   "grounds": "jugupseta = one-should-feel-disgust"
   },
   {
    "lemma": "madyādi",
-   "morph": "compound: madya+wine + ādi+and-so-on (n.acc.sg)",
-   "grounds": "alcohol and similar substances"
+   "morph": "n.nom.sg (compound: madya+ādi)",
+   "grounds": "madyādi = wine-and-such"
   },
   {
-   "lemma": "vīradravyaṃ",
-   "morph": "compound: vīra+hero + dravya+substance (n.acc.sg)",
-   "grounds": "ritual substances used by vīras"
+   "lemma": "vīradravya",
+   "morph": "n.nom.sg",
+   "grounds": "vīradravyaṃ = hero-substance"
   },
   {
    "lemma": "kadācana",
-   "morph": "(indecl.)",
-   "grounds": "at any time"
+   "morph": "indecl.",
+   "grounds": "kadācana = ever"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "negation particle = not"
   },
   {
-   "lemma": "nindedatha",
-   "morph": "compound: nindet+should-criticize (3.sg.optative, √nind) + atha+then",
-   "grounds": "one should not blame"
+   "lemma": "nind",
+   "morph": "3sg.opt.act √nind (AMBIGUOUS)",
+   "grounds": "nindedatha = one-should-not-criticize-then; form is unusual, possibly sandhi or variant of nindeta"
   },
   {
-   "lemma": "vandeta",
-   "morph": "3.sg.optative.middle (√vand)",
-   "grounds": "one should praise or revere"
+   "lemma": "vand",
+   "morph": "3sg.opt.act √vand",
+   "grounds": "vandeta = one-should-honor"
   },
   {
-   "lemma": "nityaṃ",
-   "morph": "(indecl.)",
-   "grounds": "continually"
+   "lemma": "nityam",
+   "morph": "indecl.",
+   "grounds": "nityaṃ = always"
   },
   {
-   "lemma": "tajjoṣiṇastathā",
-   "morph": "compound: tad+that + joṣin+enjoying (m.acc.pl) + tathā+likewise",
-   "grounds": "those who partake of those substances"
+   "lemma": "tajjoṣin-tathā",
+   "morph": "m.nom.pl + indecl. (compound/sandhi: tajjoṣin+tathā)",
+   "grounds": "tajjoṣiṇastathā = and-likewise-those-who-use-them"
   }
  ]
 }

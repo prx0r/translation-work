@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 561,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "guroḥ",
+   "lemma": "guru",
    "morph": "m.gen.sg",
-   "grounds": "belonging to the teacher"
+   "grounds": "guroḥ = of-the-guru"
   },
   {
-   "lemma": "śāstrasya",
+   "lemma": "śāstra",
    "morph": "n.gen.sg",
-   "grounds": "belonging to the teaching text"
+   "grounds": "śāstrasya = of-the-scripture"
   },
   {
-   "lemma": "devīnāṃ",
+   "lemma": "devī",
    "morph": "f.gen.pl",
-   "grounds": "belonging to the goddesses"
+   "grounds": "devīnāṃ = of-the-goddesses"
   },
   {
-   "lemma": "nāma",
+   "lemma": "nāman",
    "morph": "n.nom.sg",
-   "grounds": "the sacred name"
+   "grounds": "nāma = the-name (nom./acc. sg.; nominative in context)"
   },
   {
-   "lemma": "mantre",
+   "lemma": "mantra",
    "morph": "m.loc.sg",
-   "grounds": "within mantra recitation"
+   "grounds": "mantre = in-the-mantra"
   },
   {
-   "lemma": "yatastataḥ",
-   "morph": "(indecl.)",
-   "grounds": "here and there without proper context"
+   "lemma": "yatas-tatas",
+   "morph": "indecl.",
+   "grounds": "yatastataḥ = casually (indeclinable compound/adverb)"
   },
   {
-   "lemma": "arcāto@nyatra",
-   "morph": "compound: arcātaḥ+from-worship (f.abl.sg) + anyatra+elsewhere",
-   "grounds": "outside of ritual worship"
+   "lemma": "arcā-anyatra",
+   "morph": "f.nom.sg+indecl. (sandhi compound)",
+   "grounds": "arcāto@nyatra = except-in-worship (arcātaḥ/arcā + anyatra; sandhi form, AMBIGUOUS segmentation)"
   },
   {
-   "lemma": "noccāryamāhūtaṃ",
-   "morph": "compound: na+not + uccāryam+to-be-uttered (n.nom.sg) + āhūtam+invoked (n.nom.sg)",
-   "grounds": "it should not be uttered casually, but invoked properly"
+   "lemma": "na-uccārya-āhūta",
+   "morph": "indecl.+gerund+n.nom.sg (compound)",
+   "grounds": "noccāryamāhūtaṃ = not-to-be-uttered-but-invoked (na + uccārya + āhūtam)"
   },
   {
-   "lemma": "tarpayettataḥ",
-   "morph": "compound: tarpayet+should-satisfy (3.sg.optative, √tṛp, causative) + tataḥ+then",
-   "grounds": "then one should offer satisfaction"
+   "lemma": "tarpay-tatas",
+   "morph": "3sg.opt.act √tṛp (caus.)+indecl. (sandhi)",
+   "grounds": "tarpayettataḥ = one-should-then-satisfy (tarpayet + tataḥ)"
   }
  ]
 }

@@ -1,56 +1,56 @@
 {
- "song": "tal-a15",
- "verse": 563,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "śrīmadūrmau",
-   "morph": "compound: śrīmat+revered + ūrmi+Ūrmi (m.loc.sg)",
-   "grounds": "in the sacred Ūrmi text"
+   "lemma": "śrīmadūrmi",
+   "morph": "m.loc.sg",
+   "grounds": "śrīmadūrmau = in-the-revered-Ūrmi-scripture (locative singular)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "ca = and (indeclinable conjunction)"
   },
   {
-   "lemma": "devīnāṃ",
+   "lemma": "devī",
    "morph": "f.gen.pl",
-   "grounds": "belonging to the goddesses"
+   "grounds": "devīnāṃ = of-the-goddesses (genitive plural)"
   },
   {
-   "lemma": "vīrāṇāṃ",
+   "lemma": "vīra",
    "morph": "m.gen.pl",
-   "grounds": "belonging to the vīras"
+   "grounds": "vīrāṇāṃ = of-the-heroes (genitive plural)"
   },
   {
-   "lemma": "ceṣṭitaṃ",
+   "lemma": "ceṣṭita",
    "morph": "n.acc.sg",
-   "grounds": "their behavior or actions"
+   "grounds": "ceṣṭitaṃ = the-conduct (accusative singular neuter)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not (indeclinable negation)"
   },
   {
    "lemma": "vai",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "morph": "indecl.",
+   "grounds": "vai = indeed (indeclinable particle)"
   },
   {
-   "lemma": "prathayenna",
-   "morph": "compound: prathayet+should-spread (3.sg.optative, √prath, causative) + na+not",
-   "grounds": "one should not spread or proclaim"
+   "lemma": "prathay",
+   "morph": "3sg.opt.act √prath + indecl.",
+   "grounds": "prathayenna = one-should-not-publicize (optative 3sg active of √prath with prohibitive na)"
   },
   {
-   "lemma": "jugupseta",
-   "morph": "3.sg.optative.middle (√gup, desiderative sense)",
-   "grounds": "one should not be repelled"
+   "lemma": "jugups",
+   "morph": "3sg.opt.mid √gup (desid.)",
+   "grounds": "jugupseta = one-should-feel-disgust (optative 3sg middle, desiderative of √gup)"
   },
   {
-   "lemma": "vadennādravyapāṇikaḥ",
-   "morph": "compound: vadet+should-speak (3.sg.optative, √vad) + na+not + adravyapāṇikaḥ+without-substance-in-hand (m.nom.sg)",
-   "grounds": "one should not speak without holding the ritual substance"
+   "lemma": "vadennādravyapāṇika",
+   "morph": "3sg.opt.act √vad + indecl. + na + a-dravya-pāṇi-ka (compound, m.nom.sg)",
+   "grounds": "vadennādravyapāṇikaḥ = one-should-not-speak-without-offering-in-hand (optative vadet + na + compound adjective; AMBIGUOUS sandhi/tokenization)"
   }
  ]
 }

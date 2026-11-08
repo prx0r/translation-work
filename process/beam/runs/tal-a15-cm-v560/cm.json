@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 560,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "upadeśāya",
+   "lemma": "upadeśa",
    "morph": "m.dat.sg",
-   "grounds": "for the purpose of teaching"
+   "grounds": "upadeśāya = for-instruction"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not"
   },
   {
-   "lemma": "doṣā",
+   "lemma": "doṣa",
    "morph": "m.nom.pl",
-   "grounds": "defects or blameworthy points"
+   "grounds": "doṣā = faults"
   },
   {
-   "lemma": "hṛdayaṃ",
+   "lemma": "hṛdaya",
    "morph": "n.nom.sg",
-   "grounds": "one's inner disposition"
+   "grounds": "hṛdayaṃ = the-heart"
   },
   {
-   "lemma": "cenna",
-   "morph": "compound: cet+if + na+not",
-   "grounds": "conditional negation"
+   "lemma": "ced + na",
+   "morph": "indecl.+indecl.",
+   "grounds": "cenna = if-not (sandhi of cet + na)"
   },
   {
-   "lemma": "vidviṣet",
-   "morph": "3.sg.optative (√dviṣ)",
-   "grounds": "one should feel hostility"
+   "lemma": "vidviṣ",
+   "morph": "3sg.opt.act √dviṣ",
+   "grounds": "vidviṣet = one-should-hate"
   },
   {
-   "lemma": "vijātīyavikalpāṃśotpuṃsanāya",
-   "morph": "compound: vijātīya+alien + vikalpān+conceptions (m.acc.pl) + utpuṃsanāya+for-uprooting (n.dat.sg)",
-   "grounds": "for removing contrary mental constructions"
+   "lemma": "vijātīya-vikalpa-utpuṃsana",
+   "morph": "n.dat.sg (compound)",
+   "grounds": "vijātīyavikalpāṃśotpuṃsanāya = to-uproot-alien-conceptions (sandhi/compound: vijātīya-vikalpān + utpuṃsanāya)"
   },
   {
-   "lemma": "yateta",
-   "morph": "3.sg.optative.middle (√yat)",
-   "grounds": "one should make effort"
+   "lemma": "yat",
+   "morph": "3sg.opt.mid √yat",
+   "grounds": "yateta = one-should-strive"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "ca = and"
   }
  ]
 }
