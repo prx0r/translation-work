@@ -1,0 +1,15 @@
+{
+ "song": "tal-a15",
+ "verse": 507,
+ "question": "How many vows are counted in this list and which types appear?",
+ "premises": [
+  "The Bhauta and Pashupata vows are named as two.",
+  "The Ganesha and Ganapatya vows are named.",
+  "Additional vows including Unmattaka, sword-edge, and Ghrita-lord bring the total to fourteen."
+ ],
+ "inference": "The verse gives a total count of fourteen vows belonging to specific named observance types.",
+ "uncertainties": [
+  "The internal parsing of the final compound may admit variant readings of the vow names."
+ ],
+ "plain_english": "The Bhauta and Pashupata are two, then the Ganesha and Ganapatya, and with the Unmattaka, sword-edge, and Ghrita-lord observances they make fourteen in all."
+}
