@@ -2,822 +2,768 @@
  "song": "Tantraloka a08",
  "items": [
   {
-   "verse": 385,
+   "verse": 397,
    "rows": [
     {
-     "surface": "ardhamātraḥ",
-     "gloss": "half-measure",
-     "grounds": "name of the bindu level",
-     "morph": "m.nom.sg"
+     "surface": "madhyato",
+     "gloss": "in-the-middle",
+     "grounds": "locative sense of position",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "smṛto",
-     "gloss": "remembered",
-     "grounds": "declared in tradition",
-     "morph": "m.nom.sg ppp"
-    },
-    {
-     "surface": "bindurvyomarūpī",
-     "gloss": "bindu-having-space-form",
-     "grounds": "describes the bindu",
-     "morph": "compound"
-    },
-    {
-     "surface": "catuṣkalaḥ",
-     "gloss": "having-four-parts",
-     "grounds": "describes the bindu",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "tadardhamardhacandrastadaṣṭāṃśena",
-     "gloss": "its-half-is-half-moon-by-its-eighth-part",
-     "grounds": "states the measure of the half-moon",
-     "morph": "compound"
-    },
-    {
-     "surface": "nirodhikā",
-     "gloss": "obstructing-power",
-     "grounds": "name of the next level",
+     "surface": "vyāpinī",
+     "gloss": "pervading-goddess",
+     "grounds": "present in that middle",
      "morph": "f.nom.sg"
-    }
-   ],
-   "question": "How are the half-measure bindu and the obstructing power defined in this cosmology?",
-   "premises": [
-    "The bindu is remembered as half-measure and has the form of space.",
-    "This bindu has four parts.",
-    "The half-moon is half of that bindu, and the obstructing power is an eighth part of it."
-   ],
-   "inference": "The text defines a descending sequence of subtle levels from the half-measure bindu to the obstructing power by form and proportion.",
-   "uncertainties": [
-    "The exact referent of 'its' in the proportional compound is compressed and could be read in more than one way."
-   ],
-   "plain_english": "The bindu is called the half-measure and is said to have the form of space with four parts. Half of that is the half-moon, and by an eighth part of it comes the obstructing power."
-  },
-  {
-   "verse": 386,
-   "rows": [
-    {
-     "surface": "hetūnbrahmādikān",
-     "gloss": "causes-beginning-with-Brahma",
-     "grounds": "object of obstruction",
-     "morph": "m.acc.pl"
     },
     {
-     "surface": "runddhe",
-     "gloss": "obstructs",
-     "grounds": "action of the obstructing power",
-     "morph": "3.sg.pres.act √rudh"
+     "surface": "tasyāṃ",
+     "gloss": "in-her",
+     "grounds": "refers to the pervading goddess",
+     "morph": "f.loc.sg"
     },
     {
-     "surface": "rodhikāṃ",
-     "gloss": "obstructing-power",
-     "grounds": "object to be abandoned",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "tāṃ",
-     "gloss": "that",
-     "grounds": "refers to the obstructing power",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "tyajettataḥ",
-     "gloss": "one-should-abandon-then",
-     "grounds": "instruction for ascent",
-     "morph": "3.sg.opt.act √tyaj"
-    },
-    {
-     "surface": "nirodhikāmimāṃ",
-     "gloss": "this-obstructing-power",
-     "grounds": "object to be pierced",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "bhittvā",
-     "gloss": "having-pierced",
-     "grounds": "prior action in ascent",
-     "morph": "absolutive √bhid"
-    },
-    {
-     "surface": "sādākhyaṃ",
-     "gloss": "called-Sadakhya",
-     "grounds": "name of the world",
-     "morph": "n.acc.sg"
-    },
-    {
-     "surface": "bhuvanaṃ",
-     "gloss": "world",
-     "grounds": "destination reached",
-     "morph": "n.acc.sg"
-    },
-    {
-     "surface": "param",
-     "gloss": "supreme",
-     "grounds": "qualifies the world",
-     "morph": "n.acc.sg"
-    }
-   ],
-   "question": "What must be done with the obstructing power to reach the supreme Sadakhya world?",
-   "premises": [
-    "The obstructing power blocks the causes beginning with Brahma.",
-    "That obstructing power should then be abandoned.",
-    "After piercing this obstructing power, one reaches the supreme world called Sadakhya."
-   ],
-   "inference": "Transcending the obstructing power is the condition for ascending to the supreme Sadakhya world.",
-   "uncertainties": [
-    "The subject of 'should abandon' and 'having pierced' is implicit rather than stated."
-   ],
-   "plain_english": "The obstructing power blocks the causes beginning with Brahma. One should abandon it, and after piercing through it, one reaches the supreme world called Sadakhya."
-  },
-  {
-   "verse": 387,
-   "rows": [
-    {
-     "surface": "pararūpeṇa",
-     "gloss": "with-supreme-form",
-     "grounds": "mode of presence",
-     "morph": "n.ins.sg"
-    },
-    {
-     "surface": "yatrāste",
-     "gloss": "where-abides",
-     "grounds": "locates the deity",
-     "morph": "3.sg.pres.mid √ās"
-    },
-    {
-     "surface": "pañcamantramahātanuḥ",
-     "gloss": "having-great-body-of-five-mantras",
-     "grounds": "describes the deity in Sadakhya",
+     "surface": "vyāpīśo",
+     "gloss": "pervading-lord",
+     "grounds": "resides in her",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "ityardhendunirodhyantabindvāvṛtyūrdhvato",
-     "gloss": "thus-covering-bindu-up-to-half-moon-and-obstruction-above",
-     "grounds": "summarizes the preceding levels",
+     "surface": "vyāpinīdharaḥ",
+     "gloss": "bearer-of-the-pervading-goddess",
+     "grounds": "epithet of the pervading lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktitattvamidaṃ",
+     "gloss": "this-is-the-shakti-principle",
+     "grounds": "identifies the level described",
      "morph": "compound"
     },
     {
-     "surface": "mahān",
-     "gloss": "great",
-     "grounds": "qualifies the next level",
+     "surface": "yasya",
+     "gloss": "of-which",
+     "grounds": "refers to the shakti principle",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prapañco@yaṃ",
+     "gloss": "this-manifest-expanse",
+     "grounds": "the world-expanse belonging to it",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dharāntakaḥ",
+     "gloss": "ending-with-earth",
+     "grounds": "extends down to the earth principle",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Who abides in the supreme Sadakhya world and what level follows above the bindu sequence?",
+   "question": "What is the nature of the Shakti principle and its manifest expanse?",
    "premises": [
-    "In that world abides one whose great body consists of the five mantras.",
-    "That presence is in a supreme form.",
-    "Above the bindu sequence ending with half-moon and obstruction comes the great Nada."
+    "In the middle is the pervading goddess Vyāpinī.",
+    "In her resides the pervading lord Vyāpīśa, bearer of Vyāpinī.",
+    "This level is the Shakti principle, whose manifest expanse extends down to earth."
    ],
-   "inference": "Sadakhya is the abode of the five-mantra supreme form, and beyond the bindu sequence the great Nada appears.",
-   "uncertainties": [
-    "The compound in the last token is dense, so the exact boundaries of the summarized sequence are interpretive."
-   ],
-   "plain_english": "There abides, in supreme form, the one whose great body is made of the five mantras. Thus, above the bindu sequence that extends through the half-moon and the obstructing level, comes the great Nada."
+   "inference": "The Shakti principle is the cosmic level where Vyāpinī and Vyāpīśa preside over the entire manifest expanse down to earth.",
+   "uncertainties": [],
+   "plain_english": "In the middle is the pervading goddess Vyāpinī, and in her dwells the pervading lord Vyāpīśa, who bears her. This is the Shakti principle, and its manifest expanse stretches all the way down to the earth principle."
   },
   {
-   "verse": 388,
+   "verse": 398,
    "rows": [
     {
-     "surface": "nādaḥ",
-     "gloss": "Nada",
-     "grounds": "name of the level",
+     "surface": "śivatattvaṃ",
+     "gloss": "the-shiva-principle",
+     "grounds": "the next higher level",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatastatra",
+     "gloss": "then-there",
+     "grounds": "indicates transition to that level",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdikkaṃ",
+     "gloss": "in-the-four-directions",
+     "grounds": "spatial arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "are-established",
+     "grounds": "describes the placement of deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vyāpī",
+     "gloss": "pervading",
+     "grounds": "quality of the lord",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "kiñjalkasadṛśo",
-     "gloss": "resembling-filaments",
-     "grounds": "describes Nada's form",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "mahadbhiḥ",
-     "gloss": "by-great",
-     "grounds": "qualifies the surrounding beings",
-     "morph": "m.ins.pl"
-    },
-    {
-     "surface": "puruṣairvṛtaḥ",
-     "gloss": "surrounded-by-beings",
-     "grounds": "describes Nada's retinue",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "catvāri",
-     "gloss": "four",
-     "grounds": "number of worlds",
-     "morph": "n.nom.pl"
-    },
-    {
-     "surface": "bhuvanānyatra",
-     "gloss": "worlds-there",
-     "grounds": "locates the worlds in Nada",
-     "morph": "n.nom.pl"
-    },
-    {
-     "surface": "dikṣu",
-     "gloss": "in-the-directions",
-     "grounds": "placement of four worlds",
-     "morph": "f.loc.pl"
-    },
+     "surface": "vyomātmako@nanto@nāthastacchaktibhāginaḥ",
+     "gloss": "sky-natured-infinite-lord-and-his-shakti-sharers",
+     "grounds": "names the central lord and associated powers",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the deities arranged in the Shiva principle?",
+   "premises": [
+    "Above that is the Shiva principle.",
+    "In the four directions there are established deities.",
+    "At the center is the pervading, sky-natured, infinite lord together with those who share his shakti."
+   ],
+   "inference": "The Shiva principle is organized with the infinite sky-natured lord and his shakti-sharers at the center and other deities established in the four directions.",
+   "uncertainties": [
+    "The exact identities of the deities in the four directions are not named in this verse."
+   ],
+   "plain_english": "Then comes the Shiva principle. There, deities are established in the four directions, and at the center is the pervading, sky-natured, infinite lord together with those who partake of his shakti."
+  },
+  {
+   "verse": 399,
+   "rows": [
     {
      "surface": "madhye",
      "gloss": "in-the-middle",
-     "grounds": "placement of the fifth world",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "adds the middle location",
+     "grounds": "central position",
      "morph": "(indecl.)"
     },
     {
-     "surface": "pañcamam",
-     "gloss": "fifth",
-     "grounds": "the central world",
-     "morph": "n.nom.sg"
-    }
-   ],
-   "question": "What is the form of Nada and how are its worlds arranged?",
-   "premises": [
-    "Nada resembles filaments and is surrounded by great beings.",
-    "There are four worlds in the directions.",
-    "There is a fifth world in the middle."
-   ],
-   "inference": "Nada is a populated level with a fivefold world arrangement: four directional and one central.",
-   "uncertainties": [],
-   "plain_english": "Nada resembles filaments and is surrounded by great beings. In that level there are four worlds in the directions and a fifth in the middle."
-  },
-  {
-   "verse": 389,
-   "rows": [
-    {
-     "surface": "indhikā",
-     "gloss": "kindling",
-     "grounds": "name of a power",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "dīpikā",
-     "gloss": "illuminating",
-     "grounds": "name of a power",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "caiva",
-     "gloss": "and-also",
-     "grounds": "connects the names",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "rodhikā",
-     "gloss": "obstructing",
-     "grounds": "name of a power",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "mocikordhvagā",
-     "gloss": "releasing-and-upward-going",
-     "grounds": "names of two powers",
-     "morph": "compound"
-    },
-    {
-     "surface": "madhye@tra",
-     "gloss": "in-the-middle-here",
-     "grounds": "locates the lotus",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "padmaṃ",
-     "gloss": "lotus",
-     "grounds": "central form in Nada",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "tatrordhvagāmī",
-     "gloss": "there-upward-going",
-     "grounds": "describes the central presence",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "tacchaktibhirvṛtaḥ",
-     "gloss": "surrounded-by-its-powers",
-     "grounds": "describes the central presence",
-     "morph": "m.nom.sg"
-    }
-   ],
-   "question": "Which powers are present in Nada and what occupies its center?",
-   "premises": [
-    "The powers named Kindling, Illuminating, Obstructing, Releasing, and Upward-going are present.",
-    "In the middle there is a lotus.",
-    "There an upward-going presence is surrounded by those powers."
-   ],
-   "inference": "Nada's center contains a lotus with an upward-going presence attended by five named powers.",
-   "uncertainties": [
-    "The identity of the upward-going presence is not explicitly named in this verse."
-   ],
-   "plain_english": "The powers Kindling, Illuminating, Obstructing, Releasing, and Upward-going are there. In the middle is a lotus, and there an upward-going presence is surrounded by those powers."
-  },
-  {
-   "verse": 390,
-   "rows": [
-    {
-     "surface": "nādordhvatastu",
-     "gloss": "but-above-Nada",
-     "grounds": "marks the next level",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "sauṣumnaṃ",
-     "gloss": "Sushumna-level",
-     "grounds": "name of the next level",
+     "surface": "tvanāśritaṃ",
+     "gloss": "but-the-unsupported",
+     "grounds": "names the highest state",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "locates the lord",
+     "grounds": "location in that center",
      "morph": "(indecl.)"
     },
     {
-     "surface": "tacchaktibhṛtprabhuḥ",
-     "gloss": "lord-bearing-its-power",
-     "grounds": "describes the presiding lord",
+     "surface": "devadevo",
+     "gloss": "god-of-gods",
+     "grounds": "supreme deity",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "tadīśaḥ",
-     "gloss": "its-lord",
-     "grounds": "identifies the ruler of that level",
+     "surface": "hyanāśritaḥ",
+     "gloss": "indeed-the-unsupported",
+     "grounds": "epithet of the supreme deity",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "piṅgalelābhyāṃ",
-     "gloss": "by-Pingala-and-Ida",
-     "grounds": "names the surrounding channels or powers",
-     "morph": "f.ins.dual"
-    },
-    {
-     "surface": "vṛtaḥ",
-     "gloss": "surrounded",
-     "grounds": "describes the lord's retinue",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "savyāpasavyayoḥ",
-     "gloss": "on-left-and-right",
-     "grounds": "placement of Pingala and Ida",
-     "morph": "n.loc.dual"
-    }
-   ],
-   "question": "What level lies above Nada and how is its lord situated?",
-   "premises": [
-    "Above Nada is the Sushumna level.",
-    "There the lord bearing its power presides.",
-    "That lord is surrounded on the left and right by Pingala and Ida."
-   ],
-   "inference": "The Sushumna level above Nada is ruled by a lord flanked by Pingala and Ida.",
-   "uncertainties": [
-    "Whether Pingala and Ida are meant as channels, powers, or both is not specified here."
-   ],
-   "plain_english": "Above Nada is the Sushumna level. There presides its lord, bearing its power, surrounded on the left and right by Pingala and Ida."
-  },
-  {
-   "verse": 391,
-   "rows": [
-    {
-     "surface": "yā",
-     "gloss": "who",
-     "grounds": "introduces the goddess",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "prabhoraṅkagā",
-     "gloss": "going-to-the-lord's-lap",
-     "grounds": "describes the goddess's position",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "devī",
-     "gloss": "goddess",
-     "grounds": "subject of the verse",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "suṣumnā",
-     "gloss": "Sushumna",
-     "grounds": "name of the goddess",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "śaśisaprabhā",
-     "gloss": "having-moonlike-radiance",
-     "grounds": "describes her appearance",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "grathito@dhvā",
-     "gloss": "the-path-is-strung",
-     "grounds": "states her cosmic function",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "tayā",
-     "gloss": "by-her",
-     "grounds": "agent of the stringing",
-     "morph": "f.ins.sg"
-    },
-    {
-     "surface": "sarva",
-     "gloss": "all",
-     "grounds": "qualifies the path",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "ūrdhvaścādhastanastathā",
-     "gloss": "above-and-below-likewise",
-     "grounds": "describes the extent of the path",
+     "surface": "tacchaktyutsaṅgabhṛtsūryaśatakoṭisamaprabhaḥ",
+     "gloss": "bearing-his-shakti-in-his-lap-with-splendor-equal-to-a-billion-suns",
+     "grounds": "describes his radiance and union with shakti",
      "morph": "compound"
     }
    ],
-   "question": "Who is the goddess Sushumna and what is her role in the cosmic path?",
+   "question": "Who presides at the center of the unsupported level?",
    "premises": [
-    "The goddess Sushumna sits in the lord's lap and has moonlike radiance.",
-    "By her the whole path is strung together.",
-    "That path extends both above and below."
+    "In the middle is the unsupported level.",
+    "There resides the god of gods, the unsupported one.",
+    "He bears his shakti in his lap and shines with the splendor of a billion suns."
    ],
-   "inference": "Sushumna is the radiant goddess who links the entire cosmic path vertically.",
+   "inference": "The unsupported level is presided over by the supreme unsupported god, radiant like a billion suns and united with his shakti.",
    "uncertainties": [],
-   "plain_english": "The goddess Sushumna, who rests in the lord's lap and shines like the moon, strings together the whole path, both above and below."
+   "plain_english": "In the middle, however, is the unsupported level. There dwells the god of gods, the unsupported one, bearing his shakti in his lap and shining with a splendor equal to a billion suns."
   },
   {
-   "verse": 392,
+   "verse": 400,
    "rows": [
     {
-     "surface": "nādaḥsuṣumnādhārastu",
-     "gloss": "but-the-support-of-Nada-and-Sushumna",
-     "grounds": "subject of the verse",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "bhittvā",
-     "gloss": "having-pierced",
-     "grounds": "describes its pervasive action",
-     "morph": "absolutive √bhid"
-    },
-    {
-     "surface": "viśvamidaṃ",
-     "gloss": "this-whole",
-     "grounds": "object pierced",
-     "morph": "n.acc.sg"
-    },
-    {
-     "surface": "jagat",
-     "gloss": "world",
-     "grounds": "object pierced",
-     "morph": "n.acc.sg"
-    },
-    {
-     "surface": "adhaḥśaktyā",
-     "gloss": "by-the-downward-power",
-     "grounds": "means of downward movement",
-     "morph": "f.ins.sg"
-    },
-    {
-     "surface": "vinirgacchedūrdhvaśaktyā",
-     "gloss": "goes-out-by-the-upward-power",
-     "grounds": "describes movement in both directions",
-     "morph": "3.sg.opt.act √gam"
-    },
-    {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "connects downward and upward movement",
+     "surface": "śivatattvordhvataḥ",
+     "gloss": "above-the-shiva-principle",
+     "grounds": "location relative to Shiva principle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "mūrdhataḥ",
-     "gloss": "from-the-head",
-     "grounds": "point of upward emergence",
-     "morph": "(indecl.)"
-    }
-   ],
-   "question": "How does the support of Nada and Sushumna pervade and move through the world?",
-   "premises": [
-    "The support of Nada and Sushumna pierces this whole world.",
-    "It goes out below by the downward power.",
-    "It goes out above from the head by the upward power."
-   ],
-   "inference": "The support of Nada and Sushumna pervades the entire world and moves in both downward and upward directions.",
-   "uncertainties": [
-    "The verse uses an optative form, which may be descriptive or may carry an instructional nuance."
-   ],
-   "plain_english": "The support of Nada and Sushumna pierces this whole world. By the downward power it goes out below, and by the upward power it goes out above from the head."
-  },
-  {
-   "verse": 393,
-   "rows": [
-    {
-     "surface": "nāḍyā",
-     "gloss": "in-the-channel",
-     "grounds": "location of absorption",
-     "morph": "f.ins.sg"
-    },
-    {
-     "surface": "brahmabile",
-     "gloss": "in-the-Brahma-opening",
-     "grounds": "specific location of absorption",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "līnaḥ",
-     "gloss": "absorbed",
-     "grounds": "state of the sound",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "so@vyaktadhvanirakṣaraḥ",
-     "gloss": "that-unmanifest-sound-without-syllables",
-     "grounds": "describes the absorbed sound",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "nadansarveṣu",
-     "gloss": "resounding-in-all",
-     "grounds": "describes its pervasive presence",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "bhūteṣu",
-     "gloss": "in-beings",
-     "grounds": "scope of resonance",
-     "morph": "n.loc.pl"
-    },
-    {
-     "surface": "śivaśaktyā",
-     "gloss": "by-Shiva's-power",
-     "grounds": "supporting force",
-     "morph": "f.ins.sg"
-    },
-    {
-     "surface": "hyadhiṣṭhitaḥ",
-     "gloss": "indeed-presided-over",
-     "grounds": "states its divine support",
-     "morph": "m.nom.sg"
-    }
-   ],
-   "question": "What is the nature of the unmanifest sound absorbed in the Brahma opening?",
-   "premises": [
-    "An unmanifest, syllableless sound is absorbed in the channel at the Brahma opening.",
-    "That sound resounds in all beings.",
-    "It is presided over by Shiva's power."
-   ],
-   "inference": "The syllableless unmanifest sound is both inwardly absorbed and universally pervasive through Shiva's power.",
-   "uncertainties": [
-    "The first token's case relation is slightly compressed in the compound context."
-   ],
-   "plain_english": "In the channel, at the Brahma opening, that unmanifest syllableless sound is absorbed. Yet it resounds in all beings, upheld by the power of Shiva."
-  },
-  {
-   "verse": 394,
-   "rows": [
-    {
-     "surface": "suṣumnordhve",
-     "gloss": "above-Sushumna",
-     "grounds": "locates the next covering",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "brahmabilasaṃjñayāvaraṇaṃ",
-     "gloss": "covering-known-as-Brahma-opening",
-     "grounds": "names the covering",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "tridṛk",
-     "gloss": "three-eyed",
-     "grounds": "describes the deity there",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "tatra",
-     "gloss": "there",
-     "grounds": "locates the deity",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "brahmā",
-     "gloss": "Brahma",
-     "grounds": "name of the deity",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "sitaḥ",
-     "gloss": "white",
-     "grounds": "describes the deity",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "śūlī",
-     "gloss": "bearing-a-trident",
-     "grounds": "describes the deity",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "pañcāsyaḥ",
-     "gloss": "five-faced",
-     "grounds": "describes the deity",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "śaśiśekharaḥ",
-     "gloss": "moon-crested",
-     "grounds": "describes the deity",
-     "morph": "m.nom.sg"
-    }
-   ],
-   "question": "What covering lies above Sushumna and who is present there?",
-   "premises": [
-    "Above Sushumna there is a covering known as the Brahma opening.",
-    "There is present a deity named Brahma.",
-    "That deity is white, three-eyed, trident-bearing, five-faced, and moon-crested."
-   ],
-   "inference": "The Brahma-opening covering above Sushumna is presided over by a Brahma figure with Shaiva attributes.",
-   "uncertainties": [
-    "The deity is called Brahma but bears attributes often associated with Shiva, which may reflect a specific tantric identification."
-   ],
-   "plain_english": "Above Sushumna is a covering known as the Brahma opening. There is Brahma, white in color, three-eyed, bearing a trident, five-faced, and crowned with the moon."
-  },
-  {
-   "verse": 395,
-   "rows": [
-    {
-     "surface": "tasyotsaṅge",
-     "gloss": "in-his-lap",
-     "grounds": "locates the goddess",
-     "morph": "m.loc.sg"
+     "surface": "śaktiḥ",
+     "gloss": "shakti",
+     "grounds": "supreme power",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "parā",
      "gloss": "supreme",
-     "grounds": "qualifies the goddess",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "devī",
-     "gloss": "goddess",
-     "grounds": "subject of the verse",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "brahmāṇī",
-     "gloss": "Brahmani",
-     "grounds": "name of the goddess",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "mokṣamārgagā",
-     "gloss": "going-on-the-path-of-liberation",
-     "grounds": "describes her function",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "roddhrī",
-     "gloss": "obstructing",
-     "grounds": "describes her power",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "dātrī",
-     "gloss": "giving",
-     "grounds": "describes her power",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "connects her powers",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "mokṣasya",
-     "gloss": "of-liberation",
-     "grounds": "object of giving",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "tāṃ",
-     "gloss": "her",
-     "grounds": "object to be pierced",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "bhittvā",
-     "gloss": "having-pierced",
-     "grounds": "prior action in ascent",
-     "morph": "absolutive √bhid"
-    },
-    {
-     "surface": "cordhvakuṇḍalī",
-     "gloss": "and-above-is-Kundalini",
-     "grounds": "introduces the next level",
-     "morph": "f.nom.sg"
-    }
-   ],
-   "question": "Who is the goddess in Brahma's lap and what lies beyond her?",
-   "premises": [
-    "In Brahma's lap sits the supreme goddess Brahmani, who moves on the path of liberation.",
-    "She both obstructs and grants liberation.",
-    "After piercing her, one reaches the upward Kundalini."
-   ],
-   "inference": "Brahmani governs access to liberation, and beyond her lies the upward Kundalini.",
-   "uncertainties": [
-    "The sense in which she both obstructs and grants liberation is stated but not explained in this verse."
-   ],
-   "plain_english": "In his lap sits the supreme goddess Brahmani, who moves on the path of liberation. She both obstructs and grants liberation. Having pierced through her, one comes to the upward Kundalini."
-  },
-  {
-   "verse": 396,
-   "rows": [
-    {
-     "surface": "śaktiḥ",
-     "gloss": "power",
-     "grounds": "subject of the verse",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "suptāhisadṛśī",
-     "gloss": "resembling-a-sleeping-snake",
-     "grounds": "describes Kundalini's form",
+     "grounds": "qualifies shakti",
      "morph": "f.nom.sg"
     },
     {
      "surface": "sā",
      "gloss": "she",
-     "grounds": "refers to the power",
+     "grounds": "refers to supreme shakti",
      "morph": "f.nom.sg"
     },
     {
-     "surface": "viśvādhāra",
-     "gloss": "support-of-the-universe",
-     "grounds": "name or description of her role",
+     "surface": "samanāhvayā",
+     "gloss": "called-samana",
+     "grounds": "her name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "scope of the causes",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kāraṇānāṃ",
+     "gloss": "of-the-causes",
+     "grounds": "the causal powers",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "repeats the subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kartṛbhūtā",
+     "gloss": "being-the-agent",
+     "grounds": "her role as doer",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyavasthitā",
+     "gloss": "is-established",
+     "grounds": "her fixed status",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the role of the supreme Shakti above the Shiva principle?",
+   "premises": [
+    "Above the Shiva principle is the supreme Shakti.",
+    "She is called Samanā.",
+    "She is established as the agent of all causes."
+   ],
+   "inference": "Samanā, the supreme Shakti above the Shiva principle, functions as the active agent behind all causes.",
+   "uncertainties": [],
+   "plain_english": "Above the Shiva principle stands the supreme Shakti, called Samanā. She is established as the agent who acts through all causes."
+  },
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "bibhartyaṇḍānyanekāni",
+     "gloss": "she-bears-many-eggs",
+     "grounds": "her sustaining function",
+     "morph": "3.sg.pres.act + root bhṛ"
+    },
+    {
+     "surface": "śivena",
+     "gloss": "by-shiva",
+     "grounds": "the empowering presence",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "samadhiṣṭhitā",
+     "gloss": "presided-over",
+     "grounds": "empowered by Shiva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadārūḍhaḥ",
+     "gloss": "mounted-upon-her",
+     "grounds": "Shiva's relation to her",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "ucyate",
-     "gloss": "is-called",
-     "grounds": "states her designation",
-     "morph": "3.sg.pres.pass √vac"
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "the supreme lord",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "tasyāṃ",
-     "gloss": "in-her",
-     "grounds": "locates the next subtle powers",
-     "morph": "f.loc.sg"
+     "surface": "kṛtyapañcakaṃ",
+     "gloss": "the-five-acts",
+     "grounds": "creation, maintenance, dissolution, concealment, grace",
+     "morph": "n.acc.sg"
     },
     {
-     "surface": "sūkṣmā",
-     "gloss": "subtle",
-     "grounds": "name of a power within her",
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "his cosmic activity",
+     "morph": "3.sg.pres.mid + root kṛ"
+    },
+    {
+     "surface": "prabhuḥ",
+     "gloss": "the-lord",
+     "grounds": "epithet of Shiva",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do Samanā and Shiva cooperate in cosmic activity?",
+   "premises": [
+    "Presided over by Shiva, Samanā bears many cosmic eggs.",
+    "Mounted upon her, Shiva performs the five acts.",
+    "Shiva is the lord who carries out this cosmic activity."
+   ],
+   "inference": "Samanā sustains the many cosmic eggs under Shiva's presiding power, while Shiva, mounted upon her, performs the five cosmic acts.",
+   "uncertainties": [],
+   "plain_english": "Empowered by Shiva, she bears many cosmic eggs. Mounted upon her, the lord Shiva performs the five cosmic acts."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "samanā",
+     "gloss": "samana",
+     "grounds": "the supreme shakti",
      "morph": "f.nom.sg"
     },
     {
-     "surface": "susūkṣmā",
-     "gloss": "very-subtle",
-     "grounds": "name of a power within her",
+     "surface": "karaṇaṃ",
+     "gloss": "the-instrument",
+     "grounds": "her functional role",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the great lord",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hetukarturmahośituḥ",
+     "gloss": "of-the-causal-agent-the-great-lord",
+     "grounds": "Shiva as primary causal agent",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "anāśritaṃ",
+     "gloss": "the-unsupported",
+     "grounds": "the level or principle named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpāre",
+     "gloss": "in-activity",
+     "grounds": "context of cosmic operation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nimittaṃ",
+     "gloss": "the-occasioning-cause",
+     "grounds": "its causal role",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "heturucyate",
+     "gloss": "is-called-the-cause",
+     "grounds": "technical designation",
+     "morph": "3.sg.pres.pass + root vac"
+    }
+   ],
+   "question": "How are Samanā and the unsupported principle distinguished as causes?",
+   "premises": [
+    "Samanā is the instrument of the great lord, the causal agent.",
+    "The unsupported principle is called the occasioning cause in cosmic activity.",
+    "Different causal roles are assigned to Samanā and the unsupported principle."
+   ],
+   "inference": "In cosmic activity, Samanā serves as the instrument of the great lord, while the unsupported principle functions as the occasioning cause.",
+   "uncertainties": [],
+   "plain_english": "Samanā is the instrument of the great lord, the causal agent. The unsupported principle, however, is called the occasioning cause in cosmic activity."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "tayādhitiṣṭhati",
+     "gloss": "through-her-he-presides",
+     "grounds": "Shiva's presiding through Samanā",
+     "morph": "3.sg.pres.act + root sthā"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "the-all-pervading-lord",
+     "grounds": "Shiva as sovereign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraṇānāṃ",
+     "gloss": "of-the-causes",
+     "grounds": "the causal powers",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connects to the next clause",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcakam",
+     "gloss": "the-group-of-five",
+     "grounds": "the five causes",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anāśrito@nāthamayamanantaṃ",
+     "gloss": "this-unsupported-lord-consisting-of-ananta",
+     "grounds": "identifies the lord as Ananta",
+     "morph": "compound"
+    },
+    {
+     "surface": "khavapuḥ",
+     "gloss": "whose-body-is-space",
+     "grounds": "describes his nature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant presiding",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the all-pervading lord preside over the five causes?",
+   "premises": [
+    "Through Samanā the all-pervading lord presides.",
+    "He presides over the five causes.",
+    "He always presides over the unsupported lord Ananta, whose body is space."
+   ],
+   "inference": "The all-pervading lord, through Samanā, continually presides over the five causes and over the unsupported lord Ananta, whose body is space.",
+   "uncertainties": [
+    "The exact identity of the five causes is not specified in this verse."
+   ],
+   "plain_english": "Through her the all-pervading lord presides over the five causes, and he always presides over this unsupported lord Ananta, whose body is space."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the presiding lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāpinaṃ",
+     "gloss": "the-pervading-one",
+     "grounds": "the deity being impelled",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prerayati",
+     "gloss": "impels",
+     "grounds": "initiates activity",
+     "morph": "3.sg.pres.act + root īr (caus.)"
+    },
+    {
+     "surface": "svaśaktyā",
+     "gloss": "by-his-own-shakti",
+     "grounds": "means of impelling",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "karaṇena",
+     "gloss": "by-means-of-the-instrument",
+     "grounds": "instrumental agency",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces māyā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmarūpā",
+     "gloss": "having-the-form-of-action",
+     "grounds": "characterizes māyā",
      "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "stands",
+     "grounds": "her position",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "the cosmic power below",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yadadhaḥ",
+     "gloss": "below-which",
+     "grounds": "locates what comes lower",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktikuṇḍalī",
+     "gloss": "the-coiled-shakti",
+     "grounds": "the kundalini power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the supreme lord set the lower powers into motion?",
+   "premises": [
+    "He impels the pervading one by his own shakti.",
+    "Below, as an instrument, stands māyā in the form of action.",
+    "Below that is the coiled shakti, kuṇḍalinī."
+   ],
+   "inference": "The supreme lord impels the pervading one through his own shakti, while māyā functions below as the instrument of action and kuṇḍalinī lies below that.",
+   "uncertainties": [],
+   "plain_english": "He impels the pervading one by his own shakti. Below, māyā stands as the instrument in the form of action, and below that is the coiled shakti, kuṇḍalinī."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "nādabindvādikaṃ",
+     "gloss": "beginning-with-nada-and-bindu",
+     "grounds": "subtle products of manifestation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryamityādijagadudbhavaḥ",
+     "gloss": "thus-the-effect-and-so-forth-is-the-origin-of-the-world",
+     "grounds": "summarizes the causal sequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatsadāśivaparyantaṃ",
+     "gloss": "what-extends-up-to-sadashiva",
+     "grounds": "upper limit of this domain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pārthivādyaṃ",
+     "gloss": "beginning-with-earth",
+     "grounds": "lower limit of this domain",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connects the powers",
+     "grounds": "connects the two limits",
      "morph": "(indecl.)"
     },
     {
-     "surface": "tathānye",
-     "gloss": "and-likewise-others",
-     "grounds": "indicates additional powers",
-     "morph": "f.nom.pl"
-    },
-    {
-     "surface": "amṛtāmite",
-     "gloss": "immortal-and-measureless",
-     "grounds": "names or describes further powers",
-     "morph": "f.nom.dual"
+     "surface": "śāsane",
+     "gloss": "in-the-teaching",
+     "grounds": "according to the doctrine",
+     "morph": "n.loc.sg"
     }
    ],
-   "question": "How is Kundalini described and what further powers are said to reside within her?",
+   "question": "What range of manifestation is described as arising from nāda, bindu, and related principles?",
    "premises": [
-    "The power called Kundalini resembles a sleeping snake.",
-    "She is called the support of the universe.",
-    "Within her are the Subtle, the Very Subtle, and likewise others such as the Immortal and the Measureless."
+    "Nāda, bindu, and so forth are described as effects giving rise to the world.",
+    "This domain extends upward to Sadāśiva.",
+    "This domain extends downward to the earth principle, according to the teaching."
    ],
-   "inference": "Kundalini is the universal support and contains further increasingly subtle powers within herself.",
+   "inference": "The teaching presents nāda, bindu, and related principles as the source of a manifest domain stretching from Sadāśiva down to earth.",
+   "uncertainties": [],
+   "plain_english": "Nāda, bindu, and the rest are the effects through which the world arises. In this teaching, that whole domain extends upward to Sadāśiva and downward to the earth principle."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "tatsarva",
+     "gloss": "all-that",
+     "grounds": "the entire domain just described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prākṛtaṃ",
+     "gloss": "derived-from-prakriti",
+     "grounds": "classified as belonging to prakriti",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "is-declared",
+     "grounds": "doctrinal statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vināśotpattisaṃyutam",
+     "gloss": "joined-with-destruction-and-origination",
+     "grounds": "subject to arising and passing away",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks a transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalabhuvanamānaṃ",
+     "gloss": "the-measure-of-all-the-worlds",
+     "grounds": "topic to be explained next",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yanmahyaṃ",
+     "gloss": "which-to-me",
+     "grounds": "received teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nigaditaṃ",
+     "gloss": "was-told",
+     "grounds": "transmitted by teachers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nijairgurubhiḥ",
+     "gloss": "by-my-own-gurus",
+     "grounds": "source of the teaching",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How is the manifest domain classified, and what topic is introduced next?",
+   "premises": [
+    "All that manifest domain is declared to be derived from prakriti.",
+    "It is subject to origination and destruction.",
+    "The author now turns to the measure of all the worlds as taught by his own gurus."
+   ],
+   "inference": "The manifest domain from Sadāśiva down to earth is classified as prākṛta and impermanent, and the text now moves to explain the measure of all the worlds.",
+   "uncertainties": [],
+   "plain_english": "All of that is declared to be derived from prakriti and subject to arising and destruction. Now I will explain the measure of all the worlds, just as it was taught to me by my own gurus."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "tadvakṣyate",
+     "gloss": "that-will-be-told",
+     "grounds": "announces the exposition",
+     "morph": "3.sg.fut.pass + root vac"
+    },
+    {
+     "surface": "samāsādbuddhau",
+     "gloss": "briefly-for-the-understanding",
+     "grounds": "mode of explanation",
+     "morph": "(indecl.) + f.loc.sg"
+    },
+    {
+     "surface": "yenāśu",
+     "gloss": "by-which-quickly",
+     "grounds": "purpose of the explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅkrāmet",
+     "gloss": "one-may-pass-over",
+     "grounds": "mental traversal of the worlds",
+     "morph": "3.sg.opt.act + root kram"
+    },
+    {
+     "surface": "aṇḍasyāntaranantaḥ",
+     "gloss": "within-the-egg-is-ananta",
+     "grounds": "first item in the cosmology",
+     "morph": "compound"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "next cosmic principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kūṣmāṇḍahāṭakau",
+     "gloss": "kushmanda-and-hataka",
+     "grounds": "two worlds or regions named",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "brahmaharī",
+     "gloss": "brahma-and-hari",
+     "grounds": "two deities or worlds named",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What initial elements of the world-measure are introduced for contemplation?",
+   "premises": [
+    "The measure of the worlds will be explained briefly for understanding.",
+    "The explanation enables one to pass quickly through the cosmic egg in contemplation.",
+    "Within the egg are Ananta, Kāla, Kūṣmāṇḍa and Hāṭaka, and Brahmā and Hari."
+   ],
+   "inference": "The text begins its brief world-measure by listing Ananta, Kāla, Kūṣmāṇḍa, Hāṭaka, Brahmā, and Hari within the cosmic egg.",
    "uncertainties": [
-    "The final two terms may be names of powers or descriptive epithets; the verse does not make this fully explicit."
+    "Kūṣmāṇḍa and Hāṭaka may refer to worlds or regions; the verse names them without explicit category labels."
    ],
-   "plain_english": "That power, resembling a sleeping snake, is called the support of the universe. Within her are the Subtle, the Very Subtle, and likewise others, the Immortal and the Measureless."
+   "plain_english": "That will now be explained briefly, so that one may quickly pass through it in understanding. Within the cosmic egg are Ananta, Kāla, Kūṣmāṇḍa and Hāṭaka, and Brahmā and Hari."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "rudrāḥ",
+     "gloss": "the-rudras",
+     "grounds": "group of deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "a-hundred",
+     "grounds": "their number",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "savīraṃ",
+     "gloss": "with-their-heroes",
+     "grounds": "accompanied by attendant powers",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahirnivṛttistu",
+     "gloss": "but-outside-is-nivritti",
+     "grounds": "locates the nivritti level",
+     "morph": "compound"
+    },
+    {
+     "surface": "sāṣṭaśatabhuvanā",
+     "gloss": "having-one-hundred-and-eight-worlds",
+     "grounds": "count of worlds in nivritti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "states the count",
+     "morph": "3.sg.opt.act + root as"
+    },
+    {
+     "surface": "jalatejaḥsamīranabho@haṃkṛddhīmūlasaptake",
+     "gloss": "in-the-group-of-seven-beginning-with-water-fire-wind-space-ego-and-intellect",
+     "grounds": "the seven lower principles",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pratyekam",
+     "gloss": "each-in-turn",
+     "grounds": "distribution across the seven",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many worlds belong to the nivritti level and how are they distributed?",
+   "premises": [
+    "There are a hundred Rudras together with their attendant heroes.",
+    "Outside is the nivritti level, which has one hundred and eight worlds.",
+    "These are distributed across the seven principles beginning with water, fire, wind, space, ego, and intellect."
+   ],
+   "inference": "The nivritti level contains one hundred and eight worlds distributed across the seven lower principles, and it is associated with a hundred Rudras and their attendants.",
+   "uncertainties": [
+    "The verse gives six members of the sevenfold group explicitly; the seventh is implied by 'mūlasaptake' but not named in the surface text."
+   ],
+   "plain_english": "There are a hundred Rudras with their attendant heroes. Outside lies the nivritti level, which has one hundred and eight worlds, distributed across the seven principles beginning with water, fire, wind, space, ego, and intellect."
   }
  ]
 }
