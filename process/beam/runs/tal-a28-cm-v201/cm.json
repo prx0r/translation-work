@@ -1,41 +1,41 @@
 {
- "song": "tal-a28",
- "verse": 201,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ya",
+   "lemma": "yad",
    "morph": "m.nom.sg",
-   "grounds": "whatever"
+   "grounds": "ya = which (relative pronoun, m.nom.sg)"
   },
   {
-   "lemma": "upāyaḥ",
+   "lemma": "upāya",
    "morph": "m.nom.sg",
-   "grounds": "means"
+   "grounds": "upāyaḥ = means (m.nom.sg)"
   },
   {
-   "lemma": "samucito",
+   "lemma": "samucita",
    "morph": "m.nom.sg",
-   "grounds": "appropriate"
+   "grounds": "samucitaḥ = suitable (past participle/adjective, m.nom.sg)"
   },
   {
    "lemma": "jñānasantāna",
-   "morph": "m.nom.sg, compound = jñāna+santāna",
-   "grounds": "the lineage of knowledge"
-  },
-  {
-   "lemma": "eṣa",
    "morph": "m.nom.sg",
-   "grounds": "this is it"
+   "grounds": "jñānasantānaḥ = knowledge-lineage (compound: jñāna+saṃtāna, m.nom.sg)"
   },
   {
-   "lemma": "saḥ",
+   "lemma": "etad",
    "morph": "m.nom.sg",
-   "grounds": "that means"
+   "grounds": "eṣaḥ = this (demonstrative pronoun, m.nom.sg)"
   },
   {
-   "lemma": "kramasphuṭībhavattādṛksadṛśajñānadhārayā",
-   "morph": "f.ins.sg, compound = krama+sphuṭībhavat+tādṛk+sadṛśa+jñāna+dhārā",
-   "grounds": "through a stream of such and similar knowledge gradually becoming clear"
+   "lemma": "tad",
+   "morph": "m.nom.sg",
+   "grounds": "saḥ = that (demonstrative pronoun, m.nom.sg)"
+  },
+  {
+   "lemma": "kramasphuṭībhavattādṛksadṛśajñānadhārā",
+   "morph": "f.inst.sg",
+   "grounds": "kramasphuṭībhavattādṛksadṛśajñānadhārayā = by-stream-of-such-and-similar-knowledge-gradually-becoming-clear (compound: krama+sphuṭībhavat+tādṛk+sadṛśa+jñāna+dhārā, f.inst.sg)"
   }
  ]
 }

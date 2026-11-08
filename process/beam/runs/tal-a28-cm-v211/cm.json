@@ -1,51 +1,51 @@
 {
- "song": "tal-a28",
- "verse": 211,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "sāmarthyaṃ",
+   "lemma": "sāmarthya",
    "morph": "n.nom.sg",
-   "grounds": "capacity"
+   "grounds": "sāmarthyaṃ = capacity (nom.sg.nt)"
   },
   {
-   "lemma": "yogino",
+   "lemma": "yogin",
    "morph": "m.gen.sg",
-   "grounds": "of a yogi"
+   "grounds": "yogino = of-yogi (gen.sg.m)"
   },
   {
-   "lemma": "yadvadvināpi",
-   "morph": "(indecl.), compound = yadvat+vinā+api",
-   "grounds": "just as, even without"
+   "lemma": "yadvat+vinā+api",
+   "morph": "indecl.+indecl.+indecl.",
+   "grounds": "yadvadvināpi = just-as-even-without (sandhi of yadvat, vinā, api)"
   },
   {
-   "lemma": "sahakāriṇam",
+   "lemma": "sahakārin",
    "morph": "m.acc.sg",
-   "grounds": "an assisting cause"
+   "grounds": "sahakāriṇam = assisting-cause (acc.sg.m)"
   },
   {
-   "lemma": "ekajanyā",
-   "morph": "m.nom.pl, compound = eka+janya",
-   "grounds": "born of one source"
-  },
-  {
-   "lemma": "bhrātaraḥ",
+   "lemma": "ekajanya",
    "morph": "m.nom.pl",
-   "grounds": "brothers"
+   "grounds": "ekajanyā = born-of-one (nom.pl.m, sandhi form of ekajanyāḥ)"
   },
   {
-   "lemma": "syustatsadṛgyastu",
-   "morph": "compound = syuḥ+tat+sadṛś+yaḥ+tu",
-   "grounds": "they would be so, and whoever is similar to that"
+   "lemma": "bhrātṛ",
+   "morph": "m.nom.pl",
+   "grounds": "bhrātaraḥ = brothers (nom.pl.m)"
   },
   {
-   "lemma": "ko@pi",
-   "morph": "m.nom.sg, compound = kaḥ+api",
-   "grounds": "anyone at all"
+   "lemma": "as+tad+sādṛśya+tu",
+   "morph": "3pl.opt.act √as+pron.+n.nom.sg+indecl.",
+   "grounds": "syustatsadṛgyastu = would-be-and-similar-to-that-whoever (sandhi of syuḥ, tat, sādṛgyaḥ/sādṛśyaḥ, tu; AMBIGUOUS: sādṛgyaḥ parsed as nom.sg.m or related form)"
   },
   {
-   "lemma": "saḥ",
-   "morph": "m.nom.sg",
-   "grounds": "that person"
+   "lemma": "ka+api",
+   "morph": "pron.nom.sg.m+indecl.",
+   "grounds": "ko@pi = anyone (sandhi of kaḥ, api)"
+  },
+  {
+   "lemma": "tad",
+   "morph": "pron.nom.sg.m",
+   "grounds": "saḥ = he (nom.sg.m)"
   }
  ]
 }

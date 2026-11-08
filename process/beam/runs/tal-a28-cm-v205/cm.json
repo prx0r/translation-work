@@ -1,51 +1,51 @@
 {
- "song": "tal-a28",
- "verse": 205,
+ "song": "unknown",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "upādānaṃ",
+   "lemma": "upādāna",
    "morph": "n.nom.sg",
-   "grounds": "the material basis"
+   "grounds": "gloss 'material-cause' + form upādānam (nom.sg. neuter)"
   },
   {
    "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "indeed"
+   "morph": "indecl.",
+   "grounds": "gloss 'indeed' + indeclinable particle"
   },
   {
-   "lemma": "tadyuktaṃ",
-   "morph": "n.nom.sg, compound = tat+yukta",
-   "grounds": "that is fitting"
+   "lemma": "tadyukta",
+   "morph": "n.nom.sg",
+   "grounds": "gloss 'that-is-fitting' + compound tat+yukta, form tadyuktam (nom.sg. neuter)"
   },
   {
-   "lemma": "dehabhede",
-   "morph": "m.loc.sg, compound = deha+bheda",
-   "grounds": "even when bodies differ"
+   "lemma": "dehabheda",
+   "morph": "m.loc.sg",
+   "grounds": "gloss 'in-difference-of-body' + compound deha+bheda, form dehabhede (loc.sg. masculine)"
   },
   {
    "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "indeed"
+   "morph": "indecl.",
+   "grounds": "gloss 'indeed' + indeclinable particle"
   },
   {
    "lemma": "satyapi",
-   "morph": "(indecl.), compound = sati+api",
-   "grounds": "even though present"
+   "morph": "indecl.",
+   "grounds": "gloss 'even-though-existing' + compound satya+api (loc.sg. participle + indecl.), used adverbially/concessively"
   },
   {
    "lemma": "dehasantatigau",
-   "morph": "m.nom.du, compound = deha+santati+ga",
-   "grounds": "belonging to the bodily lineage"
+   "morph": "m.nom.du",
+   "grounds": "gloss 'belonging-to-body-lineage' + compound deha+santati+ga, form dehasantatigau (nom.du. masculine)"
   },
   {
-   "lemma": "bhedābhedau",
-   "morph": "m.nom.du, compound = bheda+abheda",
-   "grounds": "difference and non-difference"
+   "lemma": "bhedābheda",
+   "morph": "m.nom.du",
+   "grounds": "gloss 'difference-and-non-difference' + dvandva compound bheda+abheda, form bhedābhedau (nom.du. masculine)"
   },
   {
-   "lemma": "vijñānasantateḥ",
-   "morph": "f.gen.sg, compound = vijñāna+santati",
-   "grounds": "of the knowledge lineage"
+   "lemma": "vijñānasantati",
+   "morph": "f.gen.sg",
+   "grounds": "gloss 'of-knowledge-lineage' + compound vijñāna+santati, form vijñānasantateḥ (gen.sg. feminine)"
   }
  ]
 }
