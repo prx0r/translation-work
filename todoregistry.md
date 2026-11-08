@@ -423,3 +423,11 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 - LOOP.sh stays STOPped (assessor drives review/promote directly).
 - Remaining: a28 (277/435 am), a03 (67/295), a15 (169/613), a01 (288/333),
   a08 (168/452). Queue holds ~1700 pending tasks; workers drain in order.
+
+## Addendum — GOLD #86 (a28) via mass-retest wave (2026-11-08)
+
+- #86 tal-a28 (435u, parvan/nimittika rites): beam retests completed the
+  missing cm+am after enriched-packet mass-reset. validate 0, proof PASS
+  (align 1.0, cites 435/435). REGISTRY 101/86/16.
+- The autonomous loop is now self-sustaining: workers draft → retests
+  convert → assessor assembles/promotes. No hand-drafting needed.
