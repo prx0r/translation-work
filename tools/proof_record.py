@@ -48,6 +48,15 @@ def norm_ws(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+def deparen(s: str) -> str:
+    # Editorial-bracket markup is transcription, not text: GRETIL prints
+    # supplied aksaras as `śiva(śakti)rūpaiva`. T1 surfaces must be paren-free
+    # (schemas/t1.py, phrdaya-v01 precedent) and carry the fused reading, so
+    # source-side comparisons strip the bracket *markup* (keeping content).
+    # Applied to comparison strings only; source_sha stays pinned to raw text.
+    return s.replace("(", "").replace(")", "")
+
+
 def sentences(text: str) -> list[str]:
     parts = re.split(r"(?<=[.!?])\s+", norm_ws(text))
     return [p for p in parts if p]
@@ -235,7 +244,7 @@ def main() -> int:
         if _para is not None:
             _sv = [t for t in _sv if not _para(t)]
         b = "".join(_sv)
-        r = difflib.SequenceMatcher(None, a, b).ratio()
+        r = difflib.SequenceMatcher(None, deparen(a), deparen(b)).ratio()
         align[str(v)] = round(r, 3)
         if r < 0.90:
             sub090[str(v)] = {"ratio": round(r, 3), "disposition": disp.get(str(v))}
@@ -295,8 +304,8 @@ def main() -> int:
         if l2path.exists():
             for o in json.loads(l2path.read_text(encoding="utf-8")):
                 cites += [p.strip() for p in str(o.get("sanskrit_cite", "")).split("|") if p.strip()]
-        src_flat = norm_ws(" ".join(" ".join(t) for v, t in sorted(src.items())))
-        fails = [c for c in cites if norm_ws(c) not in src_flat]
+        src_flat = deparen(norm_ws(" ".join(" ".join(t) for v, t in sorted(src.items()))))
+        fails = [c for c in cites if deparen(norm_ws(c)) not in src_flat]
         real_fails = [c[:80] for c in fails]
         verses_text = {}
     else:

@@ -3,14 +3,7 @@
  "song": "tal-a10",
  "work": "tantraloka-a10",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v207 ratio=0.886",
-  "ALIGN_NODISP v211 ratio=0.737",
-  "ALIGN_NODISP v224 ratio=0.847",
-  "ALIGN_NODISP v272 ratio=0.742",
-  "L2_CITE_FAIL 4",
-  "DATA_OBJECTS 4 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "cf6809d2b2723b57",
@@ -23,25 +16,8 @@
   "tokens": 2557
  },
  "align": {
-  "min_ratio": 0.737,
-  "sub090": {
-   "207": {
-    "ratio": 0.886,
-    "disposition": null
-   },
-   "211": {
-    "ratio": 0.737,
-    "disposition": null
-   },
-   "224": {
-    "ratio": 0.847,
-    "disposition": null
-   },
-   "272": {
-    "ratio": 0.742,
-    "disposition": null
-   }
-  }
+  "min_ratio": 1.0,
+  "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
@@ -50,24 +26,14 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 310,
-  "failures": [
-   "dvitīyā śivaśaktirūpaiva sarvajñānakriyātmikā tasyāmavahito yogī kiṃ na vetti ka",
-   "saiva śaktiḥ śivasyoktā tṛtīyādituṭiṣvatha mantrādhināthatacchaktimantreśādyāḥ k",
-   "na tu kramikatā kācicchivātmatve kadācana anyanmantrādhināthādi kāraṇaṃ tattu sa",
-   "mātrādyanugrahādādhānātsavyāpāreti bhaṇyate jāgradādyapi devasya śaktitvena vyav"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[tal-a10-v207]: cite part not byte-exact in source: dvitīyā śivaśaktirūpaiva sarvajñānakriyātmikā tasyāmavahito ",
-   "l2[tal-a10-v211]: cite part not byte-exact in source: saiva śaktiḥ śivasyoktā tṛtīyādituṭiṣvatha mantrādhināthatac",
-   "l2[tal-a10-v224]: cite part not byte-exact in source: na tu kramikatā kācicchivātmatve kadācana anyanmantrādhināth",
-   "l2[tal-a10-v272]: cite part not byte-exact in source: mātrādyanugrahādādhānātsavyāpāreti bhaṇyate jāgradādyapi dev"
-  ],
+  "errors": [],
   "counts": {
    "t1": 310,
    "l0": 2557,
@@ -82,19 +48,14 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v207",
-  "fix: word-order/gloss vs source for v211",
-  "fix: word-order/gloss vs source for v224",
-  "fix: word-order/gloss vs source for v272"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "5eb5adf5aced40bc15bda87d0620980ab7131567d9e9c89b6f4356d5d0622f4d",
-  "l0": "8a837b83a2da8c679c31c61a5b3c8bf268dc69b50cf01365f915b730e59d2882",
+  "t1": "7b3f1e692e015e2d6f0f8354efcea26ce2efaf80cf02dccfe2697b841b50047e",
+  "l0": "f2252d8f168e612adfdc87712fcac9e9aa2d452bcad46afa2105967152683ad5",
   "argmap": "b0350efc3e2f7017463131ee566ffebcabd638e3e0abdb7eac3351daae7ba292",
-  "l2": "320a047b1829a4040df6d44379337e8392aa4abc73df6feef2567c78f9b60e45",
+  "l2": "3aa09025bbb70b62682a8abe3e3a3d03c2236d412ed7b9cc58e14d8c3d88887c",
   "c1": "639a2a54f3a32b6e78a48242c5f532332f97a159389a40a5c9ff00f57db3e842"
  },
  "lineage": {

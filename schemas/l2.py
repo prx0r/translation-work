@@ -33,9 +33,14 @@ def validate(obj: dict, path: str = "l2", l0_ids: set | None = None,
     cite = obj.get("sanskrit_cite", "")
     if source_text is not None and cite:
         import re as _re
-        flat = _re.sub(r"\s+", " ", source_text)
+        def _flat(s: str) -> str:
+            # whitespace-insensitive; editorial-bracket markup in the source
+            # (śiva(śakti)rūpaiva) is transcription, not text — the fused T1
+            # reading (śivaśaktirūpaiva, history-recorded) compares clean.
+            return _re.sub(r"\s+", "", s).replace("(", "").replace(")", "")
+        flat = _flat(source_text)
         for part in [p.strip() for p in cite.split("|") if p.strip()]:
-            if _re.sub(r"\s+", "", part) not in _re.sub(r"\s+", "", flat):
+            if _flat(part) not in flat:
                 out.append(err(path, f"cite part not byte-exact in source: {part[:60]}"))
                 break
     return out

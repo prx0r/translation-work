@@ -23,9 +23,11 @@ from workcfg import source_spans, data_dir
 
 
 def is_paratext(t: str) -> bool:
-    """Editorial apparatus is never glossed (contract: paratext never enters T1/L0)."""
-    if '(' in t or ')' in t:
-        return True  # schema: no parens in surface -> any paren token is editorial
+    """Editorial apparatus is never glossed (contract: paratext never enters T1/L0).
+    NOTE (2026-11-08, tal-a10 v207/v211/v224/v272): brackets *inside* a Sanskrit
+    token mark supplied aksaras (śiva(śakti)rūpaiva), NOT apparatus — the fused
+    reading is genuine text and IS glossed. Only tokens that *are* apparatus
+    (fullmatch patterns below) filter out; mid-token brackets never filter."""
     if '|' in t:
         return True  # ASCII pipe never in Sanskrit: editorial refs (3|249), daṇda splits
     if re.search(r'\([^)]*[?]', t):
