@@ -1,71 +1,71 @@
 {
- "song": "tal-a28",
- "verse": 310,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "rathyāntare",
-   "morph": "n.loc.sg, compound = rathya+antara",
-   "grounds": "an ordinary or impure place"
+   "lemma": "rathyāntara",
+   "morph": "loc.sg.n.",
+   "grounds": "in-street-interior = rathyāntare"
   },
   {
-   "lemma": "mūtrapurīṣamadhye",
-   "morph": "n.loc.sg, compound = mūtra+purīṣa+madhya",
-   "grounds": "a defiled place"
+   "lemma": "mūtrapurīṣamadhya",
+   "morph": "loc.sg.n. (compound)",
+   "grounds": "amid-urine-and-feces = mūtrapurīṣamadhye"
   },
   {
-   "lemma": "caṇḍālagehe",
-   "morph": "n.loc.sg, compound = caṇḍāla+geha",
-   "grounds": "a socially marginalized place"
+   "lemma": "caṇḍālageha",
+   "morph": "loc.sg.n.",
+   "grounds": "in-outcaste-house = caṇḍālagehe"
   },
   {
-   "lemma": "niraye",
-   "morph": "m.loc.sg",
-   "grounds": "a place of suffering"
+   "lemma": "niraya",
+   "morph": "loc.sg.m.",
+   "grounds": "in-hell = niraye"
   },
   {
-   "lemma": "śmaśāne",
-   "morph": "n.loc.sg",
-   "grounds": "a place associated with death"
+   "lemma": "śmaśāna",
+   "morph": "loc.sg.n.",
+   "grounds": "in-cremation-ground = śmaśāne"
   },
   {
-   "lemma": "sacintako",
-   "morph": "m.nom.sg, compound = sa+cintaka",
-   "grounds": "aware or reflective"
-  },
-  {
-   "lemma": "vā",
-   "morph": "(indecl.)",
-   "grounds": "alternative"
-  },
-  {
-   "lemma": "gatacintako",
-   "morph": "m.nom.sg, compound = gata+cintaka",
-   "grounds": "without reflective thought"
+   "lemma": "sacintaka",
+   "morph": "nom.sg.m.",
+   "grounds": "with-thought = sacintako"
   },
   {
    "lemma": "vā",
-   "morph": "(indecl.)",
-   "grounds": "alternative"
+   "morph": "indecl.",
+   "grounds": "or = vā"
   },
   {
-   "lemma": "jñānī",
-   "morph": "m.nom.sg",
-   "grounds": "one established in knowledge"
+   "lemma": "gatacintaka",
+   "morph": "nom.sg.m.",
+   "grounds": "gone-thought = gatacintako"
   },
   {
-   "lemma": "vimokṣaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "release"
+   "lemma": "vā",
+   "morph": "indecl.",
+   "grounds": "or = vā"
   },
   {
-   "lemma": "labhate@pi",
-   "morph": "3.sg.present-middle, √labh + (indecl.)",
-   "grounds": "attains despite circumstances"
+   "lemma": "jñānin",
+   "morph": "nom.sg.m.",
+   "grounds": "knower = jñānī"
   },
   {
-   "lemma": "cānte",
-   "morph": "(indecl.) + m.loc.sg",
-   "grounds": "at the end of life"
+   "lemma": "vimokṣa",
+   "morph": "acc.sg.m.",
+   "grounds": "liberation = vimokṣaṃ"
+  },
+  {
+   "lemma": "labh + api",
+   "morph": "3sg.pres.mid √labh + indecl.",
+   "grounds": "obtains-even = labhate@pi"
+  },
+  {
+   "lemma": "ca + anta",
+   "morph": "indecl. + loc.sg.m.",
+   "grounds": "and-at-end = cānte"
   }
  ]
 }

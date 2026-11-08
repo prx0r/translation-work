@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a01",
+ "verse": 180,
  "rows": [
   {
-   "lemma": "as",
-   "morph": "3pl.imp.act √as",
-   "grounds": "santu = let-them-be"
+   "lemma": "santu",
+   "morph": "3.pl.active.imperative",
+   "grounds": "√as"
   },
   {
-   "lemma": "tādātmyamāpanna",
-   "morph": "m.nom.pl (compound: tādātmya+āpanna)",
-   "grounds": "tādātmyamāpannā = identity-attained"
+   "lemma": "tādātmyamāpannā",
+   "morph": "m.nom.pl.past-active-participle",
+   "grounds": "tādātmya-√āp"
   },
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "na = not"
+   "morph": "(indecl.)",
+   "grounds": "na"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "tu = but"
+   "morph": "(indecl.)",
+   "grounds": "tu"
   },
   {
-   "lemma": "tad+upāyatā",
-   "morph": "teṣām: m.gen.pl; upāyatā: f.nom.sg",
-   "grounds": "teṣāmupāyatā = their-means-ness"
+   "lemma": "teṣāmupāyatā",
+   "morph": "f.nom.sg",
+   "grounds": "tad-upāyatā"
   },
   {
-   "lemma": "vikalpāpekṣā",
-   "morph": "f.inst.sg (compound: vikalpa+apekṣā)",
-   "grounds": "vikalpāpekṣayā = by-conceptual-dependence"
+   "lemma": "vikalpāpekṣayā",
+   "morph": "f.inst.sg",
+   "grounds": "vikalpa-apekṣā"
   },
   {
-   "lemma": "māna+avikalpa+iti",
-   "morph": "mānam: n.nom.sg; avikalpam: n.nom.sg; iti: indecl.",
-   "grounds": "mānamavikalpamiti = measure-nonconceptual-thus"
+   "lemma": "mānamavikalpamiti",
+   "morph": "(indecl.)",
+   "grounds": "māna-avikalpa-iti"
   },
   {
-   "lemma": "brū",
-   "morph": "m.nom.sg.pres.act.part √brū",
-   "grounds": "bruvan = saying"
+   "lemma": "bruvan",
+   "morph": "m.nom.sg.present-participle",
+   "grounds": "√brū"
   }
  ]
 }
