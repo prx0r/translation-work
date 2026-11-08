@@ -1,13 +1,15 @@
 {
  "song": "tal-a03",
  "verse": 28,
- "question": "Why do perceivers in the middle hear the echo?",
+ "question": "Who hears the echo if a reflection must face its original?",
  "premises": [
   "A reflection is necessarily oriented toward its original.",
-  "The echo follows this rule of facing the source.",
-  "Perceivers located between source and reflecting surface are in that orientation."
+  "The echo is a reflection of sound.",
+  "Perceivers located between the original sound and its reflecting locus are suitably positioned."
  ],
- "inference": "Those situated in the middle hear the echo because of the reflection's orientation toward the original.",
- "uncertainties": [],
- "plain_english": "Because a reflection must face its original, perceivers standing in the middle hear the echo."
+ "inference": "Those situated between the source and the reflecting locus hear the echo.",
+ "uncertainties": [
+  "tanmadhyagāḥ is read spatially as those between source and reflecting surface."
+ ],
+ "plain_english": "Because a reflection must face its original, the perceivers who stand between the source and the reflecting place are the ones who hear the echo."
 }

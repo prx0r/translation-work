@@ -1,0 +1,749 @@
+{
+ "song": "Tantraloka 3.24-35",
+ "items": [
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "manner of presentation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradarśite@mutra",
+     "gloss": "shown-here",
+     "grounds": "topic established in this context",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratibimbanavartmani",
+     "gloss": "on-the-path-of-reflection",
+     "grounds": "doctrinal framework",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śabdasya",
+     "gloss": "of-sound",
+     "grounds": "object under discussion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratibimbaṃ",
+     "gloss": "reflection",
+     "grounds": "phenomenon being identified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative reference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratiśrutketi",
+     "gloss": "as-echo",
+     "grounds": "common name for the phenomenon",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-called",
+     "grounds": "conventional designation",
+     "morph": "3.sg.pass-pres bhaṇ"
+    }
+   ],
+   "question": "What is the echo in the framework of reflection presented here?",
+   "premises": [
+    "The path of reflection has already been presented in this context.",
+    "Sound can have a reflected form.",
+    "That reflected form of sound is commonly called an echo."
+   ],
+   "inference": "Within the doctrine of reflection, an echo is the reflection of sound.",
+   "uncertainties": [
+    "The exact sandhi split of pratiśrutketi is taken as pratiśrutkā iti."
+   ],
+   "plain_english": "In the account of reflection presented here, the reflection of sound is what is called an echo."
+  },
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāsau",
+     "gloss": "and-that",
+     "grounds": "refers to the echo",
+     "morph": "compound"
+    },
+    {
+     "surface": "śabdajaḥ",
+     "gloss": "born-from-sound",
+     "grounds": "rejected causal explanation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śabda",
+     "gloss": "sound",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āgacchattvena",
+     "gloss": "by-arriving-back",
+     "grounds": "reason for hearing it",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃśravāt",
+     "gloss": "because-of-hearing",
+     "grounds": "apparent evidence",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-very",
+     "grounds": "same speaker",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaktrā",
+     "gloss": "by-speaker",
+     "grounds": "original source of sound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dūrasthaiḥ",
+     "gloss": "by-those-far-away",
+     "grounds": "observers at a distance",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śabdasyāśravaṇādapi",
+     "gloss": "also-because-of-not-hearing-the-sound",
+     "grounds": "counter-evidence to travel theory",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is the echo not simply the original sound returning to the hearer?",
+   "premises": [
+    "The echo is heard as if the sound had come back.",
+    "The same speaker does not hear the sound again in the same way distant hearers do.",
+    "People far away may fail to hear the original sound even when the echo is heard."
+   ],
+   "inference": "The echo cannot be explained as the original sound traveling back to its source.",
+   "uncertainties": [
+    "The compound boundaries in śabdasyāśravaṇādapi follow the transmitted reading."
+   ],
+   "plain_english": "The echo is not produced by the original sound coming back, because although it is heard as if returning, the speaker does not hear it in that way and distant listeners may not hear the original sound at all."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "piṭhirādipidhānāṃśaviśiṣṭachidrasaṃgatau",
+     "gloss": "when-meeting-holes-marked-by-covers-like-jars",
+     "grounds": "physical condition affecting the echo",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "citratvāccāsya",
+     "gloss": "and-because-of-the-variedness-of-this",
+     "grounds": "reason for variation",
+     "morph": "compound"
+    },
+    {
+     "surface": "śabdasya",
+     "gloss": "of-sound",
+     "grounds": "object whose reflection varies",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratibimbaṃ",
+     "gloss": "reflection",
+     "grounds": "echo as reflected sound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhādivat",
+     "gloss": "like-a-face-and-so-on",
+     "grounds": "analogy with visual reflection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the echo behave like an ordinary visual reflection?",
+   "premises": [
+    "An echo changes according to the cavities or openings it encounters, such as those in jars or similar coverings.",
+    "This variation belongs to the reflected sound itself.",
+    "Visual reflections also vary according to the reflecting surface."
+   ],
+   "inference": "The echo is a reflection of sound, varying with its reflecting conditions just as a face varies in a mirror.",
+   "uncertainties": [
+    "piṭhira is taken in the sense of a jar or hollow covering, following context."
+   ],
+   "plain_english": "Because an echo changes according to the hollows or openings it meets, the reflection of sound behaves like the reflection of a face or other visible form."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "idamanyasya",
+     "gloss": "this-of-another",
+     "grounds": "recognition of a distinct source",
+     "morph": "compound"
+    },
+    {
+     "surface": "vedyasya",
+     "gloss": "of-an-object-known",
+     "grounds": "object presented in awareness",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "rūpamityavabhāsate",
+     "gloss": "appears-as-the-form",
+     "grounds": "mode of appearance",
+     "morph": "compound"
+    },
+    {
+     "surface": "yathādarśe",
+     "gloss": "as-in-a-mirror",
+     "grounds": "visual analogy",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "parallel case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kenāpyuktamākarṇaye",
+     "gloss": "I-hear-something-spoken-by-someone",
+     "grounds": "auditory recognition",
+     "morph": "compound"
+    },
+    {
+     "surface": "tviti",
+     "gloss": "thus",
+     "grounds": "reported cognition",
+     "morph": "compound"
+    }
+   ],
+   "question": "What kind of cognition occurs when one hears an echo?",
+   "premises": [
+    "In a mirror, what appears is recognized as the form of another object.",
+    "In hearing an echo, one recognizes speech as belonging to another.",
+    "Both cases involve appearance of something as other than the immediate locus."
+   ],
+   "inference": "Hearing an echo is analogous to seeing a reflection: it presents the form of another knowable object.",
+   "uncertainties": [
+    "The exact nuance of kenāpyuktam could be 'spoken by someone' or 'something said by someone'."
+   ],
+   "plain_english": "Just as a mirror shows the form of another object, an echo is heard as something spoken by another."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "niyamādbimbasāṃmukhyaṃ",
+     "gloss": "necessarily-facing-the-original",
+     "grounds": "rule governing reflection",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratibimbasya",
+     "gloss": "of-the-reflection",
+     "grounds": "subject of the rule",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "yattataḥ",
+     "gloss": "since-therefore",
+     "grounds": "logical transition",
+     "morph": "compound"
+    },
+    {
+     "surface": "tanmadhyagāḥ",
+     "gloss": "those-situated-between-them",
+     "grounds": "hearers in the middle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pramātāraḥ",
+     "gloss": "perceivers",
+     "grounds": "subjects who hear",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śṛṇvanti",
+     "gloss": "hear",
+     "grounds": "auditory experience",
+     "morph": "3.pl.act-pres śru"
+    },
+    {
+     "surface": "pratiśabdakam",
+     "gloss": "the-echo",
+     "grounds": "reflected sound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who hears the echo if a reflection must face its original?",
+   "premises": [
+    "A reflection is necessarily oriented toward its original.",
+    "The echo is a reflection of sound.",
+    "Perceivers located between the original sound and its reflecting locus are suitably positioned."
+   ],
+   "inference": "Those situated between the source and the reflecting locus hear the echo.",
+   "uncertainties": [
+    "tanmadhyagāḥ is read spatially as those between source and reflecting surface."
+   ],
+   "plain_english": "Because a reflection must face its original, the perceivers who stand between the source and the reflecting place are the ones who hear the echo."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "mukhyagrahaṃ",
+     "gloss": "grasp-of-the-original",
+     "grounds": "direct perception of the source",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tvapi",
+     "gloss": "even-without",
+     "grounds": "concessive condition",
+     "morph": "compound"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "absence of original grasp",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibimbagraho",
+     "gloss": "grasp-of-the-reflection",
+     "grounds": "perception of reflected form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "can-occur",
+     "grounds": "possibility",
+     "morph": "3.sg.opt-act bhū"
+    },
+    {
+     "surface": "svapaścātsthaṃ",
+     "gloss": "standing-behind-oneself",
+     "grounds": "object not directly seen",
+     "morph": "compound"
+    },
+    {
+     "surface": "priyaṃ",
+     "gloss": "beloved",
+     "grounds": "example of reflected object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśyeṭṭaṅkitaṃ",
+     "gloss": "one-may-see-imprinted",
+     "grounds": "visual parallel",
+     "morph": "compound"
+    },
+    {
+     "surface": "mukure",
+     "gloss": "in-a-mirror",
+     "grounds": "reflecting surface",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "reflected form",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Can a reflection be perceived without directly perceiving the original?",
+   "premises": [
+    "A reflected form may be grasped even when the original is not directly grasped.",
+    "One can see in a mirror the body of a beloved person standing behind oneself.",
+    "The mirror example supports the same possibility for auditory reflection."
+   ],
+   "inference": "Perception of a reflection does not require direct perception of the original.",
+   "uncertainties": [
+    "paśyeṭṭaṅkitaṃ is read as paśyet ṭaṅkitam with the transmitted sandhi."
+   ],
+   "plain_english": "A reflection can be perceived even without perceiving the original directly, just as one may see in a mirror the body of a beloved person standing behind oneself."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "sāṃmukhyaṃ",
+     "gloss": "facingness",
+     "grounds": "property being defined",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cocyate",
+     "gloss": "and-is-said",
+     "grounds": "definition",
+     "morph": "3.sg.pass-pres vac"
+    },
+    {
+     "surface": "tādṛgdarpaṇābhedasaṃsthiteḥ",
+     "gloss": "from-being-situated-in-non-difference-from-such-a-mirror",
+     "grounds": "basis of facingness",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "What does facingness mean in the case of reflection?",
+   "premises": [
+    "The reflection appears in a mirror-like locus.",
+    "Its orientation is determined by that locus.",
+    "Facingness is explained through its situated non-difference from that reflecting condition."
+   ],
+   "inference": "Facingness means the reflection's being situated in non-difference from the corresponding mirror-like locus.",
+   "uncertainties": [
+    "abheda here is taken phenomenally as non-difference in situated appearance, not metaphysical identity."
+   ],
+   "plain_english": "Facingness is explained as the reflection's being situated in non-difference from the mirror-like condition in which it appears."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "conclusion from previous verses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūpādipiṭhirākāśe",
+     "gloss": "in-the-hollow-space-of-a-well-or-jar",
+     "grounds": "reflecting acoustic space",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatpratibimbitam",
+     "gloss": "reflected-there",
+     "grounds": "resulting reflection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaktrākāśaṃ",
+     "gloss": "the-speaker-space",
+     "grounds": "original locus of speech",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saśabdaṃ",
+     "gloss": "together-with-sound",
+     "grounds": "sound accompanies the reflected locus",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadbhāti",
+     "gloss": "appears-clearly",
+     "grounds": "manifest appearance",
+     "morph": "3.sg.act-pres bhā"
+    },
+    {
+     "surface": "tatparavaktavat",
+     "gloss": "like-another-speaker-there",
+     "grounds": "analogy for the echo",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the speaker's sound appear in a hollow reflecting space?",
+   "premises": [
+    "A hollow space such as a well or jar can serve as a reflecting locus.",
+    "The speaker's space is reflected there together with sound.",
+    "The reflected result appears as if another speaker were present."
+   ],
+   "inference": "In a hollow reflecting space, the speaker's sounding presence appears reflected as another speaker.",
+   "uncertainties": [
+    "vaktrākāśaṃ is interpreted as the spatial locus of the speaker rather than a technical speech-level term here."
+   ],
+   "plain_english": "Therefore, in the hollow space of a well or jar, the speaker's space is reflected together with sound and appears as if another speaker were there."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "opening analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cādarśapāścātyabhāgastho",
+     "gloss": "and-one-standing-behind-the-mirror",
+     "grounds": "visual perceiver",
+     "morph": "compound"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "cognition",
+     "morph": "3.sg.act-pres vid"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukham",
+     "gloss": "the-face",
+     "grounds": "original object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "parallel case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāvidhākāśapaścātstho",
+     "gloss": "one-standing-behind-such-a-space",
+     "grounds": "auditory perceiver",
+     "morph": "compound"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "cognition",
+     "morph": "3.sg.act-pres vid"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhvanim",
+     "gloss": "the-sound",
+     "grounds": "original auditory object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Why does someone behind the reflecting locus fail to perceive the original?",
+   "premises": [
+    "A person standing behind a mirror does not directly know the original face.",
+    "An echo involves a reflecting spatial locus analogous to a mirror.",
+    "A person standing behind such a reflecting space is similarly positioned."
+   ],
+   "inference": "One behind the reflecting acoustic space does not directly know the original sound, just as one behind a mirror does not directly know the original face.",
+   "uncertainties": [
+    "tathāvidhākāśa is read as a space of the same reflecting kind described in verse 31."
+   ],
+   "plain_english": "Just as someone standing behind a mirror does not directly know the face, someone standing behind such a reflecting space does not directly know the original sound."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "śabdo",
+     "gloss": "sound",
+     "grounds": "subject of reflection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānabhivyaktaḥ",
+     "gloss": "and-unmanifest",
+     "grounds": "condition preventing reflection",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratibimbati",
+     "gloss": "is-reflected",
+     "grounds": "reflection event",
+     "morph": "3.sg.act-pres prati-bimb"
+    },
+    {
+     "surface": "taddhruvam",
+     "gloss": "that-certainly",
+     "grounds": "asserted rule",
+     "morph": "compound"
+    },
+    {
+     "surface": "abhivyaktiśrutī",
+     "gloss": "manifestation-and-hearing",
+     "grounds": "two aspects of the original sound",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the sound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samakālaṃ",
+     "gloss": "at-the-same-time",
+     "grounds": "temporal relation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyake",
+     "gloss": "in-the-second",
+     "grounds": "next moment",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "When can sound be reflected, and how is its manifestation related to hearing?",
+   "premises": [
+    "An unmanifest sound is not reflected.",
+    "The manifestation of a sound and its hearing occur together.",
+    "This simultaneity is stated in relation to the second moment."
+   ],
+   "inference": "Only a manifest sound can be reflected, and its manifestation and hearing are temporally simultaneous.",
+   "uncertainties": [
+    "The reference to dvitīyake kṣaṇe spans into verse 34 and is read across the verse boundary."
+   ],
+   "plain_english": "An unmanifest sound is not reflected; its manifestation and hearing occur at the same time, in the second moment."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "kṣaṇe",
+     "gloss": "in-the-moment",
+     "grounds": "temporal unit",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibimbatvaṃ",
+     "gloss": "state-of-being-a-reflection",
+     "grounds": "echo event",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrutiśca",
+     "gloss": "and-hearing",
+     "grounds": "perception of the echo",
+     "morph": "compound"
+    },
+    {
+     "surface": "samakālikā",
+     "gloss": "simultaneous",
+     "grounds": "temporal relation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tulyakālaṃ",
+     "gloss": "at-the-same-time",
+     "grounds": "supporting analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastatacchāyārūpaniścayaḥ",
+     "gloss": "certainty-of-hand-and-its-shadow-form",
+     "grounds": "analogy for non-simultaneity being denied",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Are the echo's reflection and its hearing simultaneous?",
+   "premises": [
+    "In the relevant moment, the sound's reflected status and its hearing occur together.",
+    "The text compares this to the relation between a hand and its shadow.",
+    "The analogy supports simultaneity rather than a temporal gap."
+   ],
+   "inference": "The reflection of sound and the hearing of that reflection are simultaneous.",
+   "uncertainties": [
+    "The hand-shadow analogy is compressed; the verse states the simultaneity more directly than the analogy's full logic."
+   ],
+   "plain_english": "In that moment, the sound's being reflected and its being heard occur at the same time, just as one does not ascertain a hand and its shadow at different times."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "summary transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradarśite@mutra",
+     "gloss": "shown-here",
+     "grounds": "completed exposition",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratibimbasatattvake",
+     "gloss": "in-the-true-nature-of-reflection",
+     "grounds": "doctrinal topic established",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prakṛtaṃ",
+     "gloss": "the-present-topic",
+     "grounds": "main subject to resume",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brūmahe",
+     "gloss": "we-shall-state",
+     "grounds": "authorial transition",
+     "morph": "1.pl.mid-pres brū"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that established framework",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibimbanamarhati",
+     "gloss": "reflection-is-fitting",
+     "grounds": "application to the main topic",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does the exposition of echo accomplish for the main argument?",
+   "premises": [
+    "The true nature of reflection has now been presented through the example of echo.",
+    "The text announces a return to its main topic.",
+    "That main topic can be treated in terms of reflection."
+   ],
+   "inference": "Having established the nature of reflection, the text can now apply reflection to its primary subject.",
+   "uncertainties": [
+    "prakṛtaṃ is left general because the verse transitions without naming the next specific referent."
+   ],
+   "plain_english": "Now that the true nature of reflection has been shown here, we return to the main topic, for reflection properly applies there."
+  }
+ ]
+}

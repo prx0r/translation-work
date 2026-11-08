@@ -1,34 +1,6 @@
 {
- "generated": "2026-11-08T14:16:24",
+ "generated": "2026-11-08T14:21:25",
  "items": [
-  {
-   "db_work": "tantraloka-a01",
-   "local_work": "tantraloka-a01",
-   "tier": "T0-abhinavagupta",
-   "kind": "transform",
-   "reason": "pending: recon complete (pending transformation, shortest-first queue); 2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 3"
-  },
-  {
-   "db_work": "tantraloka-a03",
-   "local_work": "tantraloka-a03",
-   "tier": "T0-abhinavagupta",
-   "kind": "transform",
-   "reason": "pending: recon complete (pending transformation, shortest-first queue); 2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 3"
-  },
-  {
-   "db_work": "tantraloka-a08",
-   "local_work": "tantraloka-a08",
-   "tier": "T0-abhinavagupta",
-   "kind": "transform",
-   "reason": "pending: recon complete (pending transformation, shortest-first queue); 2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 3"
-  },
-  {
-   "db_work": "tantraloka-a15",
-   "local_work": "tantraloka-a15",
-   "tier": "T0-abhinavagupta",
-   "kind": "transform",
-   "reason": "pending: recon complete (pending transformation, shortest-first queue); 2026-11-06 recon: GRETIL spans verified vs legacy frozen T1 (counts match; a01 3"
-  },
   {
    "db_work": "abhinavabharati",
    "local_work": "abhinavabharati",
@@ -83,7 +55,7 @@
    "local_work": "ipvv-vivrti-vimarsini",
    "tier": "T0-abhinavagupta",
    "kind": "translate",
-   "reason": "pending: pending (P0: source on disk, translation queued later); pending (P0 source on disk: ipvv sanskrit/ipvv-vol1..3.txt; longest work: transl"
+   "reason": "pending: in progress (48/49 shastra PASS; V2-N gap to close); 2026-11-08 audit: vols 1-3 built (49 passages, T1/L0/argmap/L2, pilots, bundles)"
   },
   {
    "db_work": "paramarthacarca",
@@ -107,11 +79,25 @@
    "reason": "gold; next: ptvmadhyama (queue 2.4): source intake \u2014 T1 CORRUPT, rebuild T1 first per queue note; then lore + fu"
   },
   {
+   "db_work": "tantraloka-a01",
+   "local_work": "tantraloka-a01",
+   "tier": "T0-abhinavagupta",
+   "kind": "translate",
+   "reason": "pending: in progress (swarm translation; gleam review); 2026-11-08: minimal-gold campaign in progress, am coverage 309/333; all gaps que"
+  },
+  {
    "db_work": "tantraloka-a02",
    "local_work": "tantraloka-a02",
    "tier": "T0-abhinavagupta",
    "kind": "review",
    "reason": "gold; next: Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a19 (56 units)."
+  },
+  {
+   "db_work": "tantraloka-a03",
+   "local_work": "tantraloka-a03",
+   "tier": "T0-abhinavagupta",
+   "kind": "translate",
+   "reason": "pending: in progress (swarm translation; gleam review); 2026-11-08: minimal-gold campaign in progress, am coverage 247/295; all gaps que"
   },
   {
    "db_work": "tantraloka-a04",
@@ -140,6 +126,13 @@
    "tier": "T0-abhinavagupta",
    "kind": "review",
    "reason": "gold; next: Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a26 (76u)."
+  },
+  {
+   "db_work": "tantraloka-a08",
+   "local_work": "tantraloka-a08",
+   "tier": "T0-abhinavagupta",
+   "kind": "translate",
+   "reason": "pending: in progress (swarm translation; gleam review); 2026-11-08: minimal-gold campaign in progress, am coverage 440/452; all gaps que"
   },
   {
    "db_work": "tantraloka-a09",
@@ -182,6 +175,13 @@
    "tier": "T0-abhinavagupta",
    "kind": "review",
    "reason": "gold; next: Site ABSTENTION (owner commits ipvv). Next shortest-first: tantraloka-a22 (48 units)."
+  },
+  {
+   "db_work": "tantraloka-a15",
+   "local_work": "tantraloka-a15",
+   "tier": "T0-abhinavagupta",
+   "kind": "translate",
+   "reason": "pending: in progress (swarm translation; gleam review); 2026-11-08: minimal-gold campaign in progress, am coverage 577/613; all gaps que"
   },
   {
    "db_work": "tantraloka-a16",
