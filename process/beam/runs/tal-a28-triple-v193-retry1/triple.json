@@ -1,0 +1,1463 @@
+{
+ "song": "Tantraloka a28",
+ "items": [
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "tadupāyaḥ",
+     "gloss": "its-means",
+     "grounds": "the means for that knowledge",
+     "morph": "m.nom.sg, compound = tat+upāya"
+    },
+    {
+     "surface": "śāstramatra",
+     "gloss": "scripture-here",
+     "grounds": "the scripture in this context",
+     "morph": "n.nom.sg, compound = śāstra+atra"
+    },
+    {
+     "surface": "vaktāpyaupayiko",
+     "gloss": "speaker-also-suitable",
+     "grounds": "the speaker too is a suitable means",
+     "morph": "m.nom.sg, compound = vaktṛ+api+aupayika"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadvidyo@pi",
+     "gloss": "knowing-that-also",
+     "grounds": "one who knows that teaching also",
+     "morph": "m.nom.sg, compound = tat+vidya+api"
+    },
+    {
+     "surface": "gurubhrātā",
+     "gloss": "teacher-brother",
+     "grounds": "a fellow disciple of the teacher",
+     "morph": "m.nom.sg, compound = guru+bhrātṛ"
+    },
+    {
+     "surface": "saṃvādājjñānadāyakaḥ",
+     "gloss": "from-dialogue-giving-knowledge",
+     "grounds": "gives knowledge through dialogue",
+     "morph": "m.nom.sg, compound = saṃvāda+jñāna+dāyaka"
+    }
+   ],
+   "question": "Who can serve as a suitable means for transmitting this knowledge?",
+   "premises": [
+    "The scripture is a means for attaining that knowledge.",
+    "A suitable speaker, namely the teacher, is also a means.",
+    "One who knows that teaching, such as a fellow disciple, can give knowledge through dialogue."
+   ],
+   "inference": "Knowledge can be transmitted through scripture, the teacher, or a knowledgeable fellow disciple in dialogue.",
+   "uncertainties": [
+    "The exact scope of 'tad' (that) depends on the immediately preceding discussion of knowledge."
+   ],
+   "plain_english": "Here the means is the scripture, and a suitable speaker is the teacher. Even one who knows that teaching, such as a fellow disciple, can give knowledge through dialogue."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "belonging to the teacher",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "patnī",
+     "gloss": "wife",
+     "grounds": "the teacher's wife",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "and also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrātā",
+     "gloss": "brother",
+     "grounds": "the teacher's brother",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "putra",
+     "gloss": "son",
+     "grounds": "the teacher's son",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityādiko",
+     "gloss": "and-so-forth",
+     "grounds": "and others of that kind",
+     "morph": "m.nom.sg, compound = iti+ādika"
+    },
+    {
+     "surface": "gaṇaḥ",
+     "gloss": "group",
+     "grounds": "the group around the teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not by that basis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yonisaṃbandhavaśādvidyāsaṃbandhajastu",
+     "gloss": "not-by-birth-tie-but-by-knowledge-tie",
+     "grounds": "their status arises from connection through knowledge, not birth",
+     "morph": "m.nom.sg, compound = yoni+saṃbandha+vaśa+vidyā+saṃbandha+ja+tu"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "that group",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What makes the teacher's family and associates part of the teacher's group?",
+   "premises": [
+    "The teacher's wife, brother, son, and others form a group around the teacher.",
+    "This group is not constituted by birth connection.",
+    "This group is constituted by connection through knowledge."
+   ],
+   "inference": "Membership in the teacher's group depends on a bond of knowledge rather than a bond of birth.",
+   "uncertainties": [
+    "The verse states the principle generally and does not specify whether every family member automatically shares that knowledge bond."
+   ],
+   "plain_english": "The teacher's wife, brother, son, and others may be called the teacher's group, but not because of birth ties. They belong to that group because of their connection through knowledge."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "vīryāruṇaparīṇāmadehāhantāpratiṣṭhitāḥ",
+     "gloss": "rooted-in-body-ego-from-seed-blood",
+     "grounds": "established in body and ego formed from seed and menstrual blood",
+     "morph": "m.nom.pl, compound = vīrya+aruṇa+parīṇāma+deha+ahantā+pratiṣṭhita"
+    },
+    {
+     "surface": "dehopakārasantānā",
+     "gloss": "lineage-supporting-body",
+     "grounds": "a lineage that supports the body",
+     "morph": "m.nom.pl, compound = deha+upakāra+santāna"
+    },
+    {
+     "surface": "jñāteye",
+     "gloss": "in-blood-kin",
+     "grounds": "among blood relatives",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pariniṣṭhitāḥ",
+     "gloss": "fully-established",
+     "grounds": "firmly established",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are blood relatives characterized in relation to bodily lineage?",
+   "premises": [
+    "Blood relatives are established in body and ego formed from seed and menstrual blood.",
+    "They form a lineage that supports the body.",
+    "Their kinship is fully established in that bodily basis."
+   ],
+   "inference": "Blood kinship is grounded in bodily origin and bodily continuity.",
+   "uncertainties": [
+    "The compound is dense, and the exact nuance of 'ahantā' here may range from ego-sense to personal identity."
+   ],
+   "plain_english": "Blood relatives are rooted in a body and sense of self that come from seed and blood. They form a lineage that supports the body, and their kinship is firmly established on that basis."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "tathāca",
+     "gloss": "and-so",
+     "grounds": "accordingly",
+     "morph": "(indecl.), compound = tathā+ca"
+    },
+    {
+     "surface": "smṛtiśāstreṣu",
+     "gloss": "in-traditional-law-texts",
+     "grounds": "in the texts of traditional law",
+     "morph": "n.loc.pl, compound = smṛti+śāstra"
+    },
+    {
+     "surface": "santaterdāyahāritā",
+     "gloss": "inheritance-taking-by-lineage",
+     "grounds": "the taking of inheritance by lineage",
+     "morph": "f.nom.sg, compound = santati+dāya+hāritā"
+    },
+    {
+     "surface": "yuktaiva",
+     "gloss": "indeed-fitting",
+     "grounds": "is indeed appropriate",
+     "morph": "f.nom.sg, compound = yukta+eva"
+    },
+    {
+     "surface": "tāvānsa",
+     "gloss": "to-that-extent-that",
+     "grounds": "that extent of claim",
+     "morph": "m.nom.sg, compound = tāvat+sa"
+    },
+    {
+     "surface": "hyukto",
+     "gloss": "for-fitting",
+     "grounds": "is fitting",
+     "morph": "m.nom.sg, compound = hi+ukta"
+    },
+    {
+     "surface": "bhedāddūrāntikatvataḥ",
+     "gloss": "by-difference-of-near-and-far",
+     "grounds": "according to degrees of nearness and distance",
+     "morph": "m.abl.sg, compound = bheda+dūra+antikatva"
+    }
+   ],
+   "question": "Why is inheritance by bodily lineage considered appropriate in traditional law?",
+   "premises": [
+    "Traditional law texts assign inheritance through lineage.",
+    "Such inheritance is fitting because it follows bodily kinship.",
+    "The strength of that claim varies with nearness and distance within the lineage."
+   ],
+   "inference": "Inheritance rules in traditional law reflect graded degrees of bodily kinship.",
+   "uncertainties": [
+    "The verse compresses a legal argument, so the exact procedural details of inheritance are not spelled out."
+   ],
+   "plain_english": "So in the traditional law texts, it is fitting that inheritance goes through lineage. That claim is appropriate to the degree of nearness or distance within the family."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "those people who",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "in contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaktaśarīrāsthā",
+     "gloss": "abandoned-body-attachment",
+     "grounds": "have given up attachment to the body",
+     "morph": "m.nom.pl, compound = tyakta+śarīra+āsthā"
+    },
+    {
+     "surface": "bodhāhambhāvabhāginaḥ",
+     "gloss": "sharing-awareness-and-I-sense",
+     "grounds": "share in awareness and the sense of 'I'",
+     "morph": "m.nom.pl, compound = bodha+ahambhāva+bhāgin"
+    },
+    {
+     "surface": "bodhopakārasantānadvayātte",
+     "gloss": "they-by-two-lineages-supporting-awareness",
+     "grounds": "they belong through two lineages that support awareness",
+     "morph": "m.nom.pl, compound = bodha+upakāra+santāna+dvaya+te"
+    },
+    {
+     "surface": "bandhutājuṣaḥ",
+     "gloss": "enjoying-kinship",
+     "grounds": "enjoy a kind of kinship",
+     "morph": "m.nom.pl, compound = bandhutā+juṣ"
+    }
+   ],
+   "question": "What kind of kinship belongs to those who have moved beyond bodily attachment?",
+   "premises": [
+    "Some people abandon attachment to the body.",
+    "They share in awareness and the sense of 'I'.",
+    "They are connected through two lineages that support awareness."
+   ],
+   "inference": "A higher kinship can be based on shared awareness rather than bodily descent.",
+   "uncertainties": [
+    "The phrase 'two lineages that support awareness' is not fully explained in this verse alone."
+   ],
+   "plain_english": "But those who have let go of attachment to the body share in awareness and the sense of 'I'. Through two lineages that support awareness, they enjoy a true kinship."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "tatretthaṃ",
+     "gloss": "there-in-this-way",
+     "grounds": "in that context, in this way",
+     "morph": "(indecl.), compound = tatra+ittham"
+    },
+    {
+     "surface": "prāgyadā",
+     "gloss": "formerly-when",
+     "grounds": "when one looks back to earlier stages",
+     "morph": "(indecl.), compound = prāk+yadā"
+    },
+    {
+     "surface": "paśyecchaktyunmīlitadṛkkriyaḥ",
+     "gloss": "seeing-acting-opened-by-lord-power",
+     "grounds": "with seeing and acting opened by the Lord's power",
+     "morph": "m.nom.sg, compound = paśyat+śakti+unmīlita+dṛk+kriya"
+    },
+    {
+     "surface": "dehastāvadayaṃ",
+     "gloss": "this-body-indeed",
+     "grounds": "this body, to begin with",
+     "morph": "m.nom.sg, compound = deha+tāvat+ayam"
+    },
+    {
+     "surface": "pūrvapūrvopādānanirmitaḥ",
+     "gloss": "made-from-earlier-earlier-material",
+     "grounds": "formed from earlier and earlier material causes",
+     "morph": "m.nom.sg, compound = pūrva+pūrva+upādāna+nirmita"
+    }
+   ],
+   "question": "How should one understand the formation of the body when viewed in this way?",
+   "premises": [
+    "One may look back with seeing and acting opened by the Lord's power.",
+    "From that perspective, this body is seen as produced.",
+    "Its production traces back through earlier and earlier material causes."
+   ],
+   "inference": "The body appears as a product of a long causal chain when seen from an awakened perspective.",
+   "uncertainties": [
+    "The verse introduces a contemplative perspective, but it does not yet state the full metaphysical conclusion."
+   ],
+   "plain_english": "In that context, when one looks with vision and action opened by the Lord's power, this body is seen to be formed from earlier and earlier material causes."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "the self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vikārarahitaḥ",
+     "gloss": "free-from-change",
+     "grounds": "without change",
+     "morph": "m.nom.sg, compound = vikāra+rahita"
+    },
+    {
+     "surface": "śāśvatatvādahetukaḥ",
+     "gloss": "because-eternal-without-cause",
+     "grounds": "without a cause because it is eternal",
+     "morph": "m.nom.sg, compound = śāśvatatva+ahetuka"
+    },
+    {
+     "surface": "svātantryāt",
+     "gloss": "from-freedom",
+     "grounds": "through its own freedom",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "punarātmīyādayaṃ",
+     "gloss": "again-from-own-this",
+     "grounds": "again, from its own nature, this appears",
+     "morph": "m.nom.sg, compound = punar+ātmīya+ayam"
+    },
+    {
+     "surface": "channa",
+     "gloss": "concealed",
+     "grounds": "concealed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "as-if",
+     "grounds": "as if",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "remains",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "If the self is changeless and eternal, how can it appear in embodied form?",
+   "premises": [
+    "The self is free from change.",
+    "Because it is eternal, it has no cause.",
+    "Through its own freedom, it appears as if concealed in its own embodied condition."
+   ],
+   "inference": "Embodiment does not alter the self but appears as a concealment arising from the self's freedom.",
+   "uncertainties": [
+    "The phrase 'punarātmīyāt' is compact and could also be read with a slightly different causal nuance."
+   ],
+   "plain_english": "The self is changeless and, because it is eternal, without a cause. Yet through its own freedom it seems to stand concealed, as if taking on its own embodied condition."
+  },
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "punaśca",
+     "gloss": "and-again",
+     "grounds": "and again",
+     "morph": "(indecl.), compound = punar+ca"
+    },
+    {
+     "surface": "prakaṭībhūya",
+     "gloss": "having-become-manifest",
+     "grounds": "having become manifest",
+     "morph": "(indecl.), absolutive"
+    },
+    {
+     "surface": "bhairavībhāvabhājanam",
+     "gloss": "attaining-state-of-Bhairava",
+     "grounds": "becomes fit for the state of Bhairava",
+     "morph": "n.nom.sg, compound = bhairavī+bhāva+bhājana"
+    },
+    {
+     "surface": "tatrāsya",
+     "gloss": "there-of-this",
+     "grounds": "there, for this self",
+     "morph": "m.gen.sg, compound = tatra+asya"
+    },
+    {
+     "surface": "prakaṭībhāve",
+     "gloss": "in-manifestation",
+     "grounds": "in that manifestation",
+     "morph": "m.loc.sg, compound = prakaṭī+bhāva"
+    },
+    {
+     "surface": "bhuktimuktyātmake",
+     "gloss": "consisting-of-enjoyment-and-liberation",
+     "grounds": "consisting of enjoyment and liberation",
+     "morph": "m.loc.sg, compound = bhukti+mukti+ātmaka"
+    },
+    {
+     "surface": "bhṛśam",
+     "gloss": "greatly",
+     "grounds": "to a great degree",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens when the self becomes manifest again?",
+   "premises": [
+    "The self can become manifest again.",
+    "In that manifestation it becomes fit for the state of Bhairava.",
+    "That manifestation strongly involves both enjoyment and liberation."
+   ],
+   "inference": "The self's re-manifestation culminates in the Bhairava state, which encompasses enjoyment and liberation.",
+   "uncertainties": [
+    "The verse ends abruptly in sense and is completed by the next verse's discussion of the means."
+   ],
+   "plain_english": "And again, when it becomes manifest, it becomes fit for the state of Bhairava. In that manifestation, which consists greatly of both enjoyment and liberation,"
+  },
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "whatever",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upāyaḥ",
+     "gloss": "means",
+     "grounds": "means",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samucito",
+     "gloss": "suitable",
+     "grounds": "appropriate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñānasantāna",
+     "gloss": "knowledge-lineage",
+     "grounds": "the lineage of knowledge",
+     "morph": "m.nom.sg, compound = jñāna+santāna"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "this is it",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "that means",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramasphuṭībhavattādṛksadṛśajñānadhārayā",
+     "gloss": "by-stream-of-such-like-knowledge-gradually-clear",
+     "grounds": "through a stream of such and similar knowledge gradually becoming clear",
+     "morph": "f.ins.sg, compound = krama+sphuṭībhavat+tādṛk+sadṛśa+jñāna+dhārā"
+    }
+   ],
+   "question": "What is the suitable means for that manifestation of the Bhairava state?",
+   "premises": [
+    "A suitable means is required for that manifestation.",
+    "That means is the lineage of knowledge.",
+    "It works through a gradually clarifying stream of such and similar knowledge."
+   ],
+   "inference": "The knowledge lineage is the effective means because it steadily clarifies the relevant realization.",
+   "uncertainties": [
+    "The exact referent of 'such and similar knowledge' depends on the preceding account of manifestation."
+   ],
+   "plain_english": "The suitable means for that is the lineage of knowledge. It works through a stream of such and similar knowledge that gradually becomes clear."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "galadvijātīyatayā",
+     "gloss": "by-fading-of-otherness",
+     "grounds": "as otherness fades away",
+     "morph": "f.ins.sg, compound = galat+vijātīyatā"
+    },
+    {
+     "surface": "prāpyaṃ",
+     "gloss": "to-be-attained",
+     "grounds": "what is to be attained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "quickly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "is obtained",
+     "morph": "3.sg.passive-present, √labh"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānādisaṃsārocitavijñānasantateḥ",
+     "gloss": "and-of-knowledge-lineage-used-to-beginningless-world",
+     "grounds": "and of a knowledge lineage accustomed to beginningless worldly life",
+     "morph": "f.gen.sg, compound = ca+anādi+saṃsāra+ucita+vijñāna+santati"
+    }
+   ],
+   "question": "How does the knowledge lineage make the goal attainable quickly?",
+   "premises": [
+    "As otherness fades, the goal becomes accessible.",
+    "What is to be attained is then obtained quickly.",
+    "This matters especially for a knowledge lineage long accustomed to beginningless worldly life."
+   ],
+   "inference": "The fading of otherness within the knowledge lineage accelerates attainment, even against long worldly conditioning.",
+   "uncertainties": [
+    "The genitive at the end sets up the next verse, so its full syntactic role is completed there."
+   ],
+   "plain_english": "As otherness fades away, what is to be attained is indeed obtained quickly. This is especially relevant for a knowledge lineage long accustomed to beginningless worldly life."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "dhvaṃse",
+     "gloss": "in-destruction",
+     "grounds": "when that is destroyed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "lokottaraṃ",
+     "gloss": "beyond-world",
+     "grounds": "transcending the world",
+     "morph": "n.nom.sg, compound = loka+uttara"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "santānāntaratāṃ",
+     "gloss": "state-of-another-lineage",
+     "grounds": "the status of another lineage",
+     "morph": "f.acc.sg, compound = santāna+antara+tā"
+    },
+    {
+     "surface": "śrayet",
+     "gloss": "would-take-refuge-in",
+     "grounds": "would take on or resort to",
+     "morph": "3.sg.optative, √śri"
+    },
+    {
+     "surface": "asaṃsārocitodāratathāvijñānasantateḥ",
+     "gloss": "of-noble-knowledge-lineage-not-used-to-world",
+     "grounds": "of a noble knowledge lineage not accustomed to worldly life",
+     "morph": "f.gen.sg, compound = a+saṃsāra+ucita+udāra+tathā+vijñāna+santati"
+    }
+   ],
+   "question": "What happens when a worldly knowledge lineage is destroyed?",
+   "premises": [
+    "A knowledge lineage accustomed to beginningless worldly life can be destroyed.",
+    "When it is destroyed, transcendent knowledge can take the place of another lineage.",
+    "That other lineage is a noble knowledge lineage not accustomed to worldly life."
+   ],
+   "inference": "The destruction of worldly conditioning allows one to enter a transcendent knowledge lineage.",
+   "uncertainties": [
+    "The optative 'śrayet' may express a general principle or a hypothetical transition."
+   ],
+   "plain_english": "When that worldly knowledge lineage is destroyed, transcendent knowledge would take on the character of another lineage, namely a noble knowledge lineage not accustomed to worldly life."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "the cause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyamādyaṃ",
+     "gloss": "primary-and-first",
+     "grounds": "primary and original",
+     "morph": "n.nom.sg, compound = mukhya+ādya"
+    },
+    {
+     "surface": "tadguruvijñānamātmagam",
+     "gloss": "that-teacher-knowledge-gone-to-self",
+     "grounds": "that knowledge of the teacher entering the self",
+     "morph": "n.nom.sg, compound = tat+guru+vijñāna+ātma+ga"
+    },
+    {
+     "surface": "atyantaṃ",
+     "gloss": "completely",
+     "grounds": "completely",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svaviśeṣāṇāṃ",
+     "gloss": "of-own-special-qualities",
+     "grounds": "of its own special qualities",
+     "morph": "m.gen.pl, compound = sva+viśeṣa"
+    },
+    {
+     "surface": "tatrārpaṇavaśāt",
+     "gloss": "by-force-of-bestowing-there",
+     "grounds": "through bestowing them there",
+     "morph": "m.abl.sg, compound = tatra+arpaṇa+vaśa"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "clearly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the primary cause of entry into that noble knowledge lineage?",
+   "premises": [
+    "A primary and original cause is identified.",
+    "That cause is the teacher's knowledge entering the disciple's self.",
+    "It works by clearly bestowing its own special qualities."
+   ],
+   "inference": "The teacher's transmitted knowledge is the chief cause of transformation into the noble knowledge lineage.",
+   "uncertainties": [
+    "The verse emphasizes transmission but does not detail the ritual or pedagogical mechanism."
+   ],
+   "plain_english": "The primary and original cause is the teacher's knowledge entering the self. It works clearly by bestowing its own special qualities there."
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "upādānaṃ",
+     "gloss": "material-cause",
+     "grounds": "the material basis",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadyuktaṃ",
+     "gloss": "that-is-fitting",
+     "grounds": "that is fitting",
+     "morph": "n.nom.sg, compound = tat+yukta"
+    },
+    {
+     "surface": "dehabhede",
+     "gloss": "in-difference-of-body",
+     "grounds": "even when bodies differ",
+     "morph": "m.loc.sg, compound = deha+bheda"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyapi",
+     "gloss": "even-though-existing",
+     "grounds": "even though present",
+     "morph": "(indecl.), compound = sati+api"
+    },
+    {
+     "surface": "dehasantatigau",
+     "gloss": "belonging-to-body-lineage",
+     "grounds": "belonging to the bodily lineage",
+     "morph": "m.nom.du, compound = deha+santati+ga"
+    },
+    {
+     "surface": "bhedābhedau",
+     "gloss": "difference-and-non-difference",
+     "grounds": "difference and non-difference",
+     "morph": "m.nom.du, compound = bheda+abheda"
+    },
+    {
+     "surface": "vijñānasantateḥ",
+     "gloss": "of-knowledge-lineage",
+     "grounds": "of the knowledge lineage",
+     "morph": "f.gen.sg, compound = vijñāna+santati"
+    }
+   ],
+   "question": "How do bodily difference and knowledge continuity relate to each other?",
+   "premises": [
+    "The teacher's knowledge functions as a fitting material basis.",
+    "Bodies may differ even when there is continuity.",
+    "Difference and non-difference in the bodily lineage do not determine the knowledge lineage in the same way."
+   ],
+   "inference": "The continuity of the knowledge lineage is not governed by bodily sameness or difference.",
+   "uncertainties": [
+    "The syntax is compressed; the contrast between bodily and knowledge lineage is inferred from the argument's flow."
+   ],
+   "plain_english": "That knowledge is a fitting material basis. Even when bodies differ, the difference and non-difference that belong to the bodily lineage do not apply in the same way to the lineage of knowledge."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathātvāya",
+     "gloss": "for-being-such",
+     "grounds": "for being of that same kind",
+     "morph": "n.dat.sg, compound = tathātva"
+    },
+    {
+     "surface": "yogīcchāviṣṭaśāvaśarīravat",
+     "gloss": "like-corpse-body-entered-by-yogi-will",
+     "grounds": "like a corpse body entered by a yogi's will",
+     "morph": "(indecl.), compound = yogin+icchā+āviṣṭa+śāva+śarīra+vat"
+    },
+    {
+     "surface": "yoginaḥ",
+     "gloss": "of-yogi",
+     "grounds": "of a yogi",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paradehādijīvattāpādane",
+     "gloss": "in-causing-life-in-another-body-etc",
+     "grounds": "in causing life in another body and so on",
+     "morph": "n.loc.sg, compound = para+deha+ādi+jīvattā+āpādana"
+    },
+    {
+     "surface": "nijam",
+     "gloss": "own",
+     "grounds": "his own",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Does a yogi's animation of another body create the same kind of knowledge lineage?",
+   "premises": [
+    "A yogi may enter and animate another body by will.",
+    "Such a case is compared to a corpse body entered by a yogi.",
+    "This does not establish the same kind of knowledge-lineage continuity."
+   ],
+   "inference": "Animating another body is not equivalent to transmitting a knowledge lineage.",
+   "uncertainties": [
+    "The verse is elliptical and relies on the following verse to complete the argument."
+   ],
+   "plain_english": "It is not the same as that, like a corpse body entered by a yogi's will. When a yogi causes life in another body and so on, while keeping his own,"
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "dehamatyajato",
+     "gloss": "not-abandoning-body",
+     "grounds": "while not abandoning his body",
+     "morph": "m.gen.sg, compound = deha+a+tyajat"
+    },
+    {
+     "surface": "nānājñānopādānatā",
+     "gloss": "state-of-being-material-for-various-knowledges",
+     "grounds": "the state of being a material basis for various knowledges",
+     "morph": "f.nom.sg, compound = nānā+jñāna+upādānatā"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "is it not so?",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "is-it",
+     "grounds": "is it not?",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñānasantānaprādhānyādyaunasantateḥ",
+     "gloss": "because-primacy-of-knowledge-lineage-over-bodily-lineage",
+     "grounds": "because the knowledge lineage is primary over the bodily lineage",
+     "morph": "n.abl.sg, compound = vijñāna+santāna+prādhānya+yauna+santati"
+    }
+   ],
+   "question": "Why does the yogi's case not undermine the primacy of the knowledge lineage?",
+   "premises": [
+    "A yogi may act on other bodies without abandoning his own.",
+    "This does not make him the material basis of various knowledge lineages in the same way.",
+    "The knowledge lineage is primary over the bodily lineage."
+   ],
+   "inference": "Extraordinary bodily influence does not override the primacy of transmitted knowledge.",
+   "uncertainties": [
+    "The rhetorical 'na kim' is read as an emphatic affirmation in context."
+   ],
+   "plain_english": "Even while not abandoning his own body, he does not thereby become the material basis for various knowledge lineages. Therefore, the knowledge lineage is primary over the bodily lineage."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "anyonyaṃ",
+     "gloss": "mutually",
+     "grounds": "in mutual relation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurusantāno",
+     "gloss": "teacher-lineage",
+     "grounds": "the teacher lineage",
+     "morph": "m.nom.sg, compound = guru+santāna"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "which",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivajñānaniṣṭhitaḥ",
+     "gloss": "established-in-Shiva-knowledge",
+     "grounds": "established in knowledge of Shiva",
+     "morph": "m.nom.sg, compound = śiva+jñāna+niṣṭhita"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthite",
+     "gloss": "being-established",
+     "grounds": "when this is established",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "threefold",
+     "grounds": "a threefold structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "primary",
+     "grounds": "primary",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "cause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sahakāri",
+     "gloss": "assisting",
+     "grounds": "assisting cause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the teacher lineage structured when it is grounded in Shiva knowledge?",
+   "premises": [
+    "The teacher lineage is mutually connected.",
+    "It is established in knowledge of Shiva.",
+    "When so established, it involves a primary cause and an assisting cause in a threefold structure."
+   ],
+   "inference": "The teacher lineage functions through an ordered structure of primary and assisting causes grounded in Shiva knowledge.",
+   "uncertainties": [
+    "The exact threefold division is clarified in the next verse."
+   ],
+   "plain_english": "The teacher lineage, mutually connected and established in knowledge of Shiva, stands in this way as a threefold structure with a primary cause and an assisting cause."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "ekakāraṇakāryaṃ",
+     "gloss": "having-one-cause-and-effect",
+     "grounds": "sharing one cause and one effect",
+     "morph": "n.nom.sg, compound = eka+kāraṇa+kārya"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastvityeṣa",
+     "gloss": "thing-thus-this",
+     "grounds": "thus this reality",
+     "morph": "n.nom.sg, compound = vastu+iti+eṣa"
+    },
+    {
+     "surface": "gurorgaṇaḥ",
+     "gloss": "group-of-teacher",
+     "grounds": "the teacher's group",
+     "morph": "m.nom.sg, compound = guru+gaṇa"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraṇamatroktaṃ",
+     "gloss": "here-said-as-cause",
+     "grounds": "is here said to be the cause",
+     "morph": "n.nom.sg, compound = kāraṇa+atra+ukta"
+    },
+    {
+     "surface": "tatpatnī",
+     "gloss": "his-wife",
+     "grounds": "his wife",
+     "morph": "f.nom.sg, compound = tat+patnī"
+    },
+    {
+     "surface": "sahakāriṇī",
+     "gloss": "assisting",
+     "grounds": "is the assisting cause",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are the teacher and his wife positioned within the teacher's group?",
+   "premises": [
+    "The teacher's group is described as sharing one cause and one effect.",
+    "The teacher is identified as the cause.",
+    "The teacher's wife is identified as the assisting cause."
+   ],
+   "inference": "Within the teacher's group, the teacher is the primary cause and his wife functions as the assisting cause.",
+   "uncertainties": [
+    "The verse names only two roles explicitly, while verse 208 suggested a threefold structure."
+   ],
+   "plain_english": "Thus the teacher's group is a single reality sharing one cause and one effect. Here the teacher is said to be the cause, and his wife is the assisting cause."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "because",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niḥśaktikasyāsya",
+     "gloss": "of-this-without-power",
+     "grounds": "of this one without power",
+     "morph": "m.gen.sg, compound = niḥśaktika+asya"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāge@dhikṛtirbhavet",
+     "gloss": "in-rite-eligibility-would-be",
+     "grounds": "there would be no eligibility in the rite",
+     "morph": "3.sg.optative, compound = yāga+adhikṛti+bhū"
+    },
+    {
+     "surface": "antaḥsthodārasaṃvittiśakterbāhyāṃ",
+     "gloss": "of-inner-noble-awareness-power-the-outer",
+     "grounds": "of the inner noble awareness-power, the outer",
+     "morph": "f.acc.sg, compound = antaḥstha+udāra+saṃvitti+śakti+bāhya"
+    },
+    {
+     "surface": "vināpi",
+     "gloss": "even-without",
+     "grounds": "even without",
+     "morph": "(indecl.), compound = vinā+api"
+    },
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "that outer power",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Why is the teacher's wife described as an assisting cause in ritual eligibility?",
+   "premises": [
+    "Without power, one would lack eligibility in the rite.",
+    "The teacher's wife is associated with an outer form of power.",
+    "The verse contrasts this with inner noble awareness-power."
+   ],
+   "inference": "The assisting role is explained through the need for power in ritual eligibility, with an outer power complementing inner awareness.",
+   "uncertainties": [
+    "The syntax is compressed and the sentence continues into the next verse, so the full comparison is completed there."
+   ],
+   "plain_english": "Because without power there would be no eligibility in the rite, the outer power is considered in relation to the inner noble power of awareness, even without that outer form."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "sāmarthyaṃ",
+     "gloss": "capacity",
+     "grounds": "capacity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yogino",
+     "gloss": "of-yogi",
+     "grounds": "of a yogi",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yadvadvināpi",
+     "gloss": "just-as-even-without",
+     "grounds": "just as, even without",
+     "morph": "(indecl.), compound = yadvat+vinā+api"
+    },
+    {
+     "surface": "sahakāriṇam",
+     "gloss": "assisting-cause",
+     "grounds": "an assisting cause",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekajanyā",
+     "gloss": "born-of-one",
+     "grounds": "born of one source",
+     "morph": "m.nom.pl, compound = eka+janya"
+    },
+    {
+     "surface": "bhrātaraḥ",
+     "gloss": "brothers",
+     "grounds": "brothers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syustatsadṛgyastu",
+     "gloss": "would-be-and-similar-to-that-whoever",
+     "grounds": "they would be so, and whoever is similar to that",
+     "morph": "compound = syuḥ+tat+sadṛś+yaḥ+tu"
+    },
+    {
+     "surface": "ko@pi",
+     "gloss": "anyone",
+     "grounds": "anyone at all",
+     "morph": "m.nom.sg, compound = kaḥ+api"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "that person",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the analogy of the yogi clarify the roles of assisting causes and brothers in the lineage?",
+   "premises": [
+    "A yogi may have capacity even without an assisting cause.",
+    "Brothers are described as born of one source.",
+    "Anyone similar to that shared-source relation can be counted in the same way."
+   ],
+   "inference": "The lineage can include both exceptional independence and relations defined by shared origin or similarity.",
+   "uncertainties": [
+    "The verse is highly compressed, and the exact mapping of 'brothers' to the earlier threefold structure is interpretive."
+   ],
+   "plain_english": "Just as a yogi can have capacity even without an assisting cause, brothers are those born of one source; and anyone similar to that may also be counted in that way."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "again",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramparāyogādguruvargo@pi",
+     "gloss": "also-teacher-group-by-lineage-connection",
+     "grounds": "the teacher group also, by connection through lineage",
+     "morph": "m.nom.sg, compound = paramparā+yoga+guru+varga+api"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-spoken-of",
+     "grounds": "is spoken of",
+     "morph": "3.sg.passive-present, √bhaṇ"
+    },
+    {
+     "surface": "mukhya",
+     "gloss": "primary",
+     "grounds": "primary",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "this",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "however",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "santānaḥ",
+     "gloss": "lineage",
+     "grounds": "lineage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjyo",
+     "gloss": "to-be-worshiped",
+     "grounds": "to be worshiped",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mānyaśca",
+     "gloss": "and-to-be-honored",
+     "grounds": "and to be honored",
+     "morph": "m.nom.sg, compound = mānya+ca"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "always",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should the teacher lineage be honored at all times?",
+   "premises": [
+    "The teacher group is also understood through lineage connection.",
+    "This lineage is identified as primary.",
+    "What is primary in this transmission deserves worship and honor."
+   ],
+   "inference": "Because the teacher lineage is primary in transmission, it should always be worshiped and honored.",
+   "uncertainties": [
+    "The verse states the duty of honor but does not specify the ritual forms it takes."
+   ],
+   "plain_english": "Again, by connection through lineage, this is also called the teacher group. But this primary lineage should always be worshiped and honored."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "gurvādīnāṃ",
+     "gloss": "of-teachers-and-others",
+     "grounds": "of teachers and others",
+     "morph": "m.gen.pl, compound = guru+ādi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambhūtau",
+     "gloss": "in-birth",
+     "grounds": "in birth",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dīkṣāyāṃ",
+     "gloss": "in-initiation",
+     "grounds": "in initiation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "prāyaṇe@pi",
+     "gloss": "also-in-death",
+     "grounds": "also in death",
+     "morph": "n.loc.sg, compound = prāyaṇa+api"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadahastaddhi",
+     "gloss": "for-whatever-day-that-indeed",
+     "grounds": "whatever day that is, indeed",
+     "morph": "compound = yat+ahas+tat+hi"
+    },
+    {
+     "surface": "vijñānopāyadehādikāraṇam",
+     "gloss": "cause-of-knowledge-means-body-and-so-on",
+     "grounds": "a cause of knowledge, means, body, and so on",
+     "morph": "n.nom.sg, compound = vijñāna+upāya+deha+ādi+kāraṇa"
+    }
+   ],
+   "question": "Why are the birth, initiation, and death days of teachers ritually significant?",
+   "premises": [
+    "Teachers and others have significant days of birth, initiation, and death.",
+    "Each of these days marks a causal moment.",
+    "That causal moment concerns knowledge, means, body, and related factors."
+   ],
+   "inference": "These days are significant because they mark causal junctures in the transmission of knowledge and embodied life.",
+   "uncertainties": [
+    "The verse states the principle broadly and leaves the specific observances to be inferred from context."
+   ],
+   "plain_english": "For teachers and others, the days of birth, initiation, and death are significant, because each such day is a cause connected with knowledge, the means, the body, and so on."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svajanmadivaso",
+     "gloss": "one-own-birth-day",
+     "grounds": "one's own birth day",
+     "morph": "m.nom.sg, compound = sva+janma+divasa"
+    },
+    {
+     "surface": "vijñānopāya",
+     "gloss": "means-of-knowledge",
+     "grounds": "a means of knowledge",
+     "morph": "m.nom.sg, compound = vijñāna+upāya"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "is called",
+     "morph": "3.sg.passive-present, √vac"
+    },
+    {
+     "surface": "tādṛgbhogāpavargādihetordehasya",
+     "gloss": "of-body-cause-of-such-enjoyment-liberation-and-so-on",
+     "grounds": "of the body that is the cause of such enjoyment, liberation, and so on",
+     "morph": "m.gen.sg, compound = tādṛś+bhoga+apavarga+ādi+hetu+deha"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "a cause",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In what sense can one's own birth day be called a means of knowledge?",
+   "premises": [
+    "One's own birth day is called a means of knowledge.",
+    "It is connected with the body that makes possible such enjoyment and liberation.",
+    "That bodily occasion functions as a cause in the larger spiritual process."
+   ],
+   "inference": "One's birth day is ritually meaningful because it marks the bodily condition for knowledge, enjoyment, and liberation.",
+   "uncertainties": [
+    "The verse links bodily birth to knowledge indirectly, through the body's role in spiritual attainment."
+   ],
+   "plain_english": "In this way, one's own birth day is called a means of knowledge, because it is connected with the body that becomes a cause of such enjoyment, liberation, and so on."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "dīkṣādikaśca",
+     "gloss": "and-initiation-and-so-on",
+     "grounds": "and initiation and so forth",
+     "morph": "m.nom.sg, compound = dīkṣā+ādika+ca"
+    },
+    {
+     "surface": "saṃskāraḥ",
+     "gloss": "consecration",
+     "grounds": "consecratory rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svātmano",
+     "gloss": "of-one-own-self",
+     "grounds": "of one's own self",
+     "morph": "m.gen.sg, compound = sva+ātman"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "on-which",
+     "grounds": "on which",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāhni",
+     "gloss": "and-day",
+     "grounds": "and on that day",
+     "morph": "n.loc.sg, compound = ca+ahan"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavejjanmadinaṃ",
+     "gloss": "would-be-birth-day",
+     "grounds": "would be a birth day",
+     "morph": "n.nom.sg, compound = bhavet+janma+dina"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "primary",
+     "grounds": "primary",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānasantānajanmataḥ",
+     "gloss": "from-birth-of-knowledge-lineage",
+     "grounds": "because of birth in the knowledge lineage",
+     "morph": "n.abl.sg, compound = jñāna+santāna+janman"
+    }
+   ],
+   "question": "Why can the day of initiation be considered a primary birth day?",
+   "premises": [
+    "Initiation and related consecrations transform one's own self.",
+    "The day on which such a consecration occurs marks a new beginning.",
+    "That beginning is a birth within the knowledge lineage."
+   ],
+   "inference": "The day of initiation counts as a primary birth day because it marks birth into the knowledge lineage.",
+   "uncertainties": [
+    "The verse treats initiation as paradigmatic; other consecrations are included but not individually specified."
+   ],
+   "plain_english": "And when initiation or another consecration of one's own self takes place, that day becomes a primary birth day, because it is a birth in the lineage of knowledge."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "svakaṃ",
+     "gloss": "one-own",
+     "grounds": "one's own",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mṛtidinaṃ",
+     "gloss": "death-day",
+     "grounds": "death day",
+     "morph": "n.acc.sg, compound = mṛti+dina"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "but-which",
+     "grounds": "but that which",
+     "morph": "(indecl.), compound = yat+tu"
+    },
+    {
+     "surface": "tadanyeṣāṃ",
+     "gloss": "that-for-others",
+     "grounds": "that is for others",
+     "morph": "n.nom.sg, compound = tat+anyeṣām"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "will be",
+     "morph": "3.sg.future, √bhū"
+    },
+    {
+     "surface": "naimittikaṃ",
+     "gloss": "occasional",
+     "grounds": "an occasional observance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛto",
+     "gloss": "dead",
+     "grounds": "the one who has died",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasmācchivābhinnastadā",
+     "gloss": "because-then-non-different-from-Shiva",
+     "grounds": "because at that time he is non-different from Shiva",
+     "morph": "compound = yasmāt+śiva+abhinna+tadā"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "would be",
+     "morph": "3.sg.optative, √bhū"
+    }
+   ],
+   "question": "Why is one's own death day treated as an occasional observance for others rather than for oneself?",
+   "premises": [
+    "One's own death day is considered in relation to others.",
+    "For others it becomes an occasional observance.",
+    "At death, the person is non-different from Shiva."
+   ],
+   "inference": "The death day is ritually marked by others because the deceased is understood to be non-different from Shiva.",
+   "uncertainties": [
+    "The verse assumes the theological claim of non-difference from Shiva rather than arguing for it here."
+   ],
+   "plain_english": "One's own death day will be an occasional observance for others, because at that time the one who has died would be non-different from Shiva."
+  }
+ ]
+}

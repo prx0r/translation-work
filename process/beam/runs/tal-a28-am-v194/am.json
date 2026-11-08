@@ -1,13 +1,15 @@
 {
  "song": "tal-a28",
  "verse": 194,
- "question": "On what basis are the teacher's family members included in the honored group?",
+ "question": "What makes the teacher's family and associates part of the teacher's group?",
  "premises": [
-  "The teacher's wife, brother, son, and others form a group.",
-  "Their inclusion is not based on birth or family connection.",
-  "Their inclusion is based on their connection with knowledge."
+  "The teacher's wife, brother, son, and others form a group around the teacher.",
+  "This group is not constituted by birth connection.",
+  "This group is constituted by connection through knowledge."
  ],
- "inference": "Membership in the teacher's honored circle depends on a connection with knowledge, not on biological kinship.",
- "uncertainties": [],
- "plain_english": "The teacher's wife, brother, son, and others belong to this group not because of birth relations, but because of their connection with knowledge."
+ "inference": "Membership in the teacher's group depends on a bond of knowledge rather than a bond of birth.",
+ "uncertainties": [
+  "The verse states the principle generally and does not specify whether every family member automatically shares that knowledge bond."
+ ],
+ "plain_english": "The teacher's wife, brother, son, and others may be called the teacher's group, but not because of birth ties. They belong to that group because of their connection through knowledge."
 }
