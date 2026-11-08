@@ -4,48 +4,48 @@
  "rows": [
   {
    "lemma": "māṃ",
-   "morph": "m.acc.sg",
-   "grounds": "token 1"
+   "morph": "acc.sg",
+   "grounds": "object"
   },
   {
    "lemma": "drakṣyatīti",
-   "morph": "3.sg.act-fut + root drsh",
-   "grounds": "token 2"
+   "morph": "compound = drakṣyati+member + iti+membership",
+   "grounds": "expectation"
   },
   {
    "lemma": "nāṅgeṣu",
-   "morph": "n.loc.pl",
-   "grounds": "token 3"
+   "morph": "compound = na+negation + aṅgeṣu+member",
+   "grounds": "restraint"
   },
   {
    "lemma": "sveṣu",
    "morph": "n.loc.pl",
-   "grounds": "token 4"
+   "grounds": "possession"
   },
   {
    "lemma": "mātyabhisārikā",
-   "morph": "f.nom.sg",
-   "grounds": "token 5"
+   "morph": "compound = mā+member + ati+member + abhisārikā+membership",
+   "grounds": "example"
   },
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "token 6"
+   "grounds": "analogy"
   },
   {
    "lemma": "śivo@pi",
-   "morph": "m.nom.sg",
-   "grounds": "token 7"
+   "morph": "compound = śiva+member + api+membership",
+   "grounds": "agent"
   },
   {
    "lemma": "manute",
-   "morph": "3.sg.mid-pres + root man",
-   "grounds": "token 8"
+   "morph": "3.sg.middle-present — man",
+   "grounds": "cognition"
   },
   {
    "lemma": "etasyaitatpravedyatām",
-   "morph": "f.acc.sg",
-   "grounds": "token 9"
+   "morph": "compound = etasya+member + etat+member + pravedyatā+membership",
+   "grounds": "epistemic-term"
   }
  ]
 }

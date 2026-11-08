@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "tadbalādvedyatāyogyabhāvenaivātra",
-   "morph": "(indecl.)",
-   "grounds": "token 1"
+   "morph": "compound = tad+member + bala+member + vedyatā+member + yogya+member + bhāva+member + eva+member + atra+membership",
+   "grounds": "epistemic-condition"
   },
   {
    "lemma": "vedyatā",
    "morph": "f.nom.sg",
-   "grounds": "token 2"
+   "grounds": "epistemic-term"
   },
   {
    "lemma": "tathāhi",
    "morph": "(indecl.)",
-   "grounds": "token 3"
+   "grounds": "illustration"
   },
   {
    "lemma": "gāḍhanidre@pi",
-   "morph": "f.loc.sg",
-   "grounds": "token 4"
+   "morph": "compound = gāḍha+member + nidrā+member + api+membership",
+   "grounds": "example"
   },
   {
    "lemma": "priye@nāśaṅkitāgatām",
-   "morph": "f.acc.sg",
-   "grounds": "token 5"
+   "morph": "compound = priyā+member + anāśaṅkita+member + āgatā+membership",
+   "grounds": "example"
   }
  ]
 }

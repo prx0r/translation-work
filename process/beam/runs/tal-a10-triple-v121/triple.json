@@ -1,0 +1,785 @@
+{
+ "song": "Tantraloka a10",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "ko@pi",
+     "gloss": "some",
+     "grounds": "indefinite subject",
+     "morph": "m.nom.sg (indecl. compound)"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "state",
+     "grounds": "entity or condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "projjhatīti",
+     "gloss": "abandons-thus",
+     "grounds": "reported claim",
+     "morph": "3.sg.pres.act (√ujjh) + (indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "true",
+     "grounds": "concession",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadbhāvanā",
+     "gloss": "meditation-on-that",
+     "grounds": "contemplation of that state",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "phalet",
+     "gloss": "may-bear-fruit",
+     "grounds": "possible result",
+     "morph": "3.sg.opt.act (√phal)"
+    },
+    {
+     "surface": "śrīpūrvaśāstre",
+     "gloss": "in-earlier-scripture",
+     "grounds": "scriptural source",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "tenoktaṃ",
+     "gloss": "by-him-said",
+     "grounds": "reported teaching",
+     "morph": "n.nom.sg (past passive participle, √vac, compound)"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "Shiva",
+     "grounds": "supreme reality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣānna",
+     "gloss": "directly-not",
+     "grounds": "negation of direct division",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "is-divided",
+     "grounds": "denial of division",
+     "morph": "3.sg.pres.pass (√bhid)"
+    }
+   ],
+   "question": "If a state is abandoned through meditation, does Shiva become directly divided?",
+   "premises": [
+    "It is true that some state may be abandoned.",
+    "Meditation on that state may bear fruit.",
+    "The earlier scripture states that Shiva is not directly divided."
+   ],
+   "inference": "The abandonment of a state does not entail a direct division in Shiva.",
+   "uncertainties": [
+    "The exact referent of ko'pi bhāvaḥ is not specified in this verse."
+   ],
+   "plain_english": "It is true that some state may be abandoned and that meditation on it may bear fruit, but the earlier scripture teaches that Shiva is not directly divided."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "sākṣātpadenāyamarthaḥ",
+     "gloss": "by-word-directly-this-meaning",
+     "grounds": "explicit statement",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "samastaḥ",
+     "gloss": "whole",
+     "grounds": "entire meaning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasphuṭīkṛtaḥ",
+     "gloss": "made-clear",
+     "grounds": "clarification",
+     "morph": "m.nom.sg (past passive participle, √kṛ, compound)"
+    },
+    {
+     "surface": "nanvekarūpatāyuktaḥ",
+     "gloss": "but-endowed-with-one-formness",
+     "grounds": "objection",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "śivastadvaśato",
+     "gloss": "Shiva-by-that-power",
+     "grounds": "Shiva under that condition",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "hypothetical consequence",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "Does the explicit teaching imply that Shiva would become limited to one form?",
+   "premises": [
+    "The word 'directly' makes the whole meaning clear.",
+    "An objection arises that Shiva would be endowed with one-formness.",
+    "That one-formness would follow from the power of that state."
+   ],
+   "inference": "The objection claims that denying direct division would make Shiva one-formed by that state's power.",
+   "uncertainties": [
+    "The referent of tadvaśataḥ depends on the preceding argument."
+   ],
+   "plain_english": "By the word 'directly' the whole meaning is made clear, yet an objection arises: would Shiva, by that power, become endowed with a single form?"
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "trivedatāmantramahānāthe",
+     "gloss": "in-great-lord-mantra-three-veda-ness",
+     "grounds": "level of mantra-maheshvara",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "kātra",
+     "gloss": "what-here",
+     "grounds": "rhetorical challenge",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "vivāditā",
+     "gloss": "dispute",
+     "grounds": "denial of controversy",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maheśvareśamantrāṇāṃ",
+     "gloss": "of-maheshvara-isha-mantras",
+     "grounds": "higher perceiver classes",
+     "morph": "m.gen.pl (compound)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalinordvayoḥ",
+     "gloss": "of-two-kevalins",
+     "grounds": "two isolated perceivers",
+     "morph": "m.gen.du (compound)"
+    }
+   ],
+   "question": "Is there any dispute about the status of mantra-maheshvara and the two kevalins?",
+   "premises": [
+    "The case of the mantra-maheshvara associated with the three Vedas is not in dispute.",
+    "The same applies to the classes of maheshvara, isha, and mantra.",
+    "The same applies to the two kevalins."
+   ],
+   "inference": "The higher perceiver levels and the two kevalins are accepted without controversy in this context.",
+   "uncertainties": [
+    "The exact scope of trivedatā in the compound is doctrinally compressed."
+   ],
+   "plain_english": "What dispute is there here regarding the mantra-maheshvara, or likewise regarding the maheshvaras, ishas, and mantras, or regarding the two kevalins?"
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "anantabhedataikaikaṃ",
+     "gloss": "from-infinite-difference-one-by-one",
+     "grounds": "multiplicity within a class",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "established condition",
+     "morph": "f.nom.sg (past participle, √sthā)"
+    },
+    {
+     "surface": "sakalavatkila",
+     "gloss": "like-sakala-indeed",
+     "grounds": "comparison to sakala",
+     "morph": "(indecl. compound) + (indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "layākale",
+     "gloss": "in-layakala",
+     "grounds": "object-level of pralayakala",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "meye",
+     "gloss": "in-object",
+     "grounds": "knowable field",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pramātāsti",
+     "gloss": "perceiver-exists",
+     "grounds": "existence of a subject",
+     "morph": "m.nom.sg + 3.sg.pres.act (√as)"
+    },
+    {
+     "surface": "layākalaḥ",
+     "gloss": "layakala-perceiver",
+     "grounds": "pralayakala subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why must a layakala perceiver exist in relation to the layakala object?",
+   "premises": [
+    "Each class is situated with infinite differentiation, like the sakala.",
+    "The layakala level functions as an object.",
+    "An object implies a corresponding perceiver."
+   ],
+   "inference": "Therefore a layakala perceiver exists in relation to the layakala object.",
+   "uncertainties": [
+    "The verse uses layākala for both the object-level and the perceiver; the distinction is contextual."
+   ],
+   "plain_english": "Since each class stands differentiated in countless ways like the sakala, and since the layakala is an object, there must be a layakala perceiver corresponding to it."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "atastrayodaśatvaṃ",
+     "gloss": "therefore-thirteen-ness",
+     "grounds": "resulting count",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "syāditthaṃ",
+     "gloss": "may-be-thus",
+     "grounds": "hypothetical conclusion",
+     "morph": "3.sg.opt.act (√as) + (indecl.)"
+    },
+    {
+     "surface": "naikādaśātmatā",
+     "gloss": "not-eleven-selfhood",
+     "grounds": "rejection of elevenfold count",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "vijñānākalavedyatve@pyanyo",
+     "gloss": "in-vijnanakala-perceptibility-even-other",
+     "grounds": "additional perceiver at that level",
+     "morph": "n.loc.sg (compound) + (indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "jñānākalo",
+     "gloss": "jnanakala-perceiver",
+     "grounds": "distinct perceiver name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "hypothetical existence",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "Does the perceptibility of vijnanakala require adding another perceiver and changing the count?",
+   "premises": [
+    "If another perceiver is posited, the count would become thirteen.",
+    "That would contradict the elevenfold account.",
+    "Even within vijnanakala perceptibility, another jnanakala perceiver might be proposed."
+   ],
+   "inference": "Positing an additional perceiver at the vijnanakala level would wrongly alter the established count.",
+   "uncertainties": [
+    "The relation between vijñānākala and jñānākala is presented as an objection, not a settled doctrine."
+   ],
+   "plain_english": "On that basis the count would become thirteen rather than eleven, since even in the perceptibility of the vijnanakala another jnanakala perceiver might be posited."
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "mātā",
+     "gloss": "perceiver",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadekādaśatā",
+     "gloss": "that-eleven-ness",
+     "grounds": "elevenfold count",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "syānnaiva",
+     "gloss": "would-be-not-indeed",
+     "grounds": "qualified denial",
+     "morph": "3.sg.opt.act (√as) + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navātmatā",
+     "gloss": "nine-selfhood",
+     "grounds": "ninefold count",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summary transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantratadīśānāṃ",
+     "gloss": "of-mantra-and-their-lords",
+     "grounds": "mantra and mantresha classes",
+     "morph": "m.gen.pl (compound)"
+    },
+    {
+     "surface": "mantreśāntarasaṃbhave",
+     "gloss": "in-arising-within-mantresha-interval",
+     "grounds": "intermediate level",
+     "morph": "m.loc.sg (compound)"
+    }
+   ],
+   "question": "If a perceiver is added, does the system become elevenfold or ninefold?",
+   "premises": [
+    "Adding a perceiver would suggest elevenfoldness.",
+    "The verse rejects reducing the account to ninefoldness.",
+    "The same counting issue arises for mantra, their lords, and the interval within mantresha."
+   ],
+   "inference": "The proposed addition does not justify collapsing the taxonomy into a simple ninefold scheme.",
+   "uncertainties": [
+    "The precise arithmetic referents of eleven and nine are compressed and depend on the surrounding doctrine."
+   ],
+   "plain_english": "If another perceiver is assumed, that would suggest elevenfoldness, but not ninefoldness; the same issue arises for the mantras, their lords, and what arises in the interval of the mantresha level."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "vedyatvānnava",
+     "gloss": "from-perceptibility-nine",
+     "grounds": "count derived from knowability",
+     "morph": "n.abl.sg (compound) + (indecl.)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "alternative count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "hypothetical result",
+     "morph": "3.pl.opt.act (√as)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "repeated count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "further reduction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "the counted items",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "challenge",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "answer marker",
+     "morph": "3.sg.pres.pass (√vac)"
+    },
+    {
+     "surface": "satyamastyeṣā",
+     "gloss": "true-is-this",
+     "grounds": "concession",
+     "morph": "n.nom.sg + 3.sg.pres.act (√as) + f.nom.sg (compound)"
+    },
+    {
+     "surface": "kalanā",
+     "gloss": "distinction",
+     "grounds": "conceptual division",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kiṃtu",
+     "gloss": "however",
+     "grounds": "qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "susphuṭaḥ",
+     "gloss": "very-clear",
+     "grounds": "degree of clarity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can the counts shift from nine to seven to five without contradiction?",
+   "premises": [
+    "From perceptibility one might derive counts of nine, seven, or five.",
+    "Such shifting counts raise the question of how they are to be explained.",
+    "The distinction is admitted, but its clarity varies."
+   ],
+   "inference": "The numerical distinctions are conceptually possible, yet they are not equally clear at every level.",
+   "uncertainties": [
+    "The exact items being counted are not named in this verse."
+   ],
+   "plain_english": "From perceptibility they might be counted as nine, or seven, or even five; how is that to be explained? The answer is that such distinction is real, but it is not equally clear in every case."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "yathātra",
+     "gloss": "as-here",
+     "grounds": "comparison",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "sakale",
+     "gloss": "in-sakala",
+     "grounds": "contracted perceiver level",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhedo",
+     "gloss": "difference",
+     "grounds": "division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation in comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvakalādike",
+     "gloss": "in-akala-and-others",
+     "grounds": "less contracted levels",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "anantāvāntaredṛkṣayonibhedavataḥ",
+     "gloss": "of-having-difference-of-infinite-inner-similar-sources",
+     "grounds": "cause of clear differentiation",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "degree of manifestation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is difference clearer in the sakala than in akala and higher levels?",
+   "premises": [
+    "Difference appears clearly in the sakala.",
+    "The same degree of difference does not appear in akala and similar levels.",
+    "The sakala has infinite inner differentiations of similar source-types."
+   ],
+   "inference": "Difference is most explicit in the sakala because its field contains many clearly differentiated source-conditions.",
+   "uncertainties": [
+    "The compound anantāvāntaredṛkṣayonibhedavataḥ is dense and its internal relations are interpretive."
+   ],
+   "plain_english": "Difference is not as clear in the akala and higher levels as it is in the sakala, because in the sakala it appears distinctly through countless inner differentiations of similar source-conditions."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "caturdaśavidhasyāsya",
+     "gloss": "of-this-fourteenfold",
+     "grounds": "classified sakala domain",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "sakalasyāsti",
+     "gloss": "of-sakala-there-is",
+     "grounds": "possession of difference",
+     "morph": "m.gen.sg + 3.sg.pres.act (√as)"
+    },
+    {
+     "surface": "bheditā",
+     "gloss": "differentiation",
+     "grounds": "state of being divided",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "layākale",
+     "gloss": "in-layakala",
+     "grounds": "pralayakala level",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskāramātrātsatyapyasau",
+     "gloss": "from-impression-only-though-real-that",
+     "grounds": "difference reduced to trace",
+     "morph": "n.abl.sg (compound) + (indecl.) + f.nom.sg (compound)"
+    },
+    {
+     "surface": "bhidā",
+     "gloss": "difference",
+     "grounds": "residual division",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does differentiation in the layakala differ from differentiation in the sakala?",
+   "premises": [
+    "The fourteenfold sakala domain possesses clear differentiation.",
+    "In the layakala, difference still exists.",
+    "In the layakala, that difference rests only on residual impression."
+   ],
+   "inference": "Differentiation is explicit in the sakala but only latent as impression in the layakala.",
+   "uncertainties": [
+    "The basis of the fourteenfold classification is assumed from context rather than stated here."
+   ],
+   "plain_english": "This fourteenfold sakala has clear differentiation, but in the layakala that difference, though real, exists only as a residual impression."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "akalena",
+     "gloss": "by-akala",
+     "grounds": "comparison with akala",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "viśeṣāya",
+     "gloss": "for-distinction",
+     "grounds": "purpose of differentiation",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sakalasyaiva",
+     "gloss": "of-sakala-only",
+     "grounds": "restricted applicability",
+     "morph": "m.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-fitting",
+     "grounds": "appropriate attribution",
+     "morph": "3.sg.pres.pass (√yuj)"
+    },
+    {
+     "surface": "vijñānakevalādīnāṃ",
+     "gloss": "of-vijnanakevala-and-others",
+     "grounds": "higher isolated perceivers",
+     "morph": "m.gen.pl (compound)"
+    },
+    {
+     "surface": "tāvatyapi",
+     "gloss": "even-to-that-extent",
+     "grounds": "minimal degree",
+     "morph": "f.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhidā",
+     "gloss": "difference",
+     "grounds": "differentiation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "At which levels is differentiation truly fitting, and where does it cease to apply?",
+   "premises": [
+    "Distinction by contrast with the akala is fitting only for the sakala.",
+    "In vijnanakevala and similar levels, even that much difference is not present.",
+    "The degree of difference decreases as contraction decreases."
+   ],
+   "inference": "Clear differentiation belongs to the sakala, not to vijnanakevala and higher isolated levels.",
+   "uncertainties": [
+    "The phrase tāvatyapi na vai bhidā leaves the threshold of 'that much difference' somewhat implicit."
+   ],
+   "plain_english": "Such distinction is fitting only for the sakala in contrast with the akala; in the vijnanakevala and similar levels there is not even that much difference."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "śivasvācchandyamātraṃ",
+     "gloss": "Shiva-freedom-only",
+     "grounds": "sole cause of differentiation",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedāyaiṣāṃ",
+     "gloss": "for-difference-of-these",
+     "grounds": "purpose of manifestation",
+     "morph": "m.dat.sg (compound)"
+    },
+    {
+     "surface": "vijṛmbhate",
+     "gloss": "unfolds",
+     "grounds": "spontaneous manifestation",
+     "morph": "3.sg.pres.mid (√jṛmbh)"
+    },
+    {
+     "surface": "ityāśayena",
+     "gloss": "with-this-intent",
+     "grounds": "authorial rationale",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "saṃpaśyanviśeṣaṃ",
+     "gloss": "seeing-distinction",
+     "grounds": "recognition of difference",
+     "morph": "m.nom.sg (present participle, √paś, compound)"
+    },
+    {
+     "surface": "sakalādiha",
+     "gloss": "here-in-sakala-and-others",
+     "grounds": "domain of visible distinction",
+     "morph": "m.loc.sg (compound) + (indecl.)"
+    }
+   ],
+   "question": "What ultimately accounts for the differences among these perceiver levels?",
+   "premises": [
+    "Only Shiva's freedom unfolds as the basis of their difference.",
+    "The teacher recognizes distinction among sakala and related levels.",
+    "That recognition is guided by this underlying intent."
+   ],
+   "inference": "The differences among perceiver levels are expressions of Shiva's freedom, not independent divisions in Shiva.",
+   "uncertainties": [
+    "The scope of eṣām could include several adjacent perceiver classes."
+   ],
+   "plain_english": "Only Shiva's own freedom unfolds to produce their differences; with that understanding, one sees distinction here among the sakala and related levels."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "layākalādau",
+     "gloss": "in-layakala-and-others",
+     "grounds": "higher subtle levels",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "novāca",
+     "gloss": "did-not-say",
+     "grounds": "scriptural silence",
+     "morph": "3.sg.perf.act (na + √vac)"
+    },
+    {
+     "surface": "trāyodaśyādikaṃ",
+     "gloss": "thirteenfold-and-such",
+     "grounds": "extended counting scheme",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "the-Lord",
+     "grounds": "authoritative teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nanvastu",
+     "gloss": "let-there-be",
+     "grounds": "objection conceded",
+     "morph": "(indecl.) + 3.sg.impv.act (√as)"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "perceptibility",
+     "grounds": "knowability",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāvadharmaḥ",
+     "gloss": "property-of-being",
+     "grounds": "intrinsic attribute",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "kiṃtu",
+     "gloss": "however",
+     "grounds": "counterpoint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "layākalau",
+     "gloss": "layakala-levels",
+     "grounds": "the levels under discussion",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Why did the Lord not teach a thirteenfold scheme for layakala and higher levels?",
+   "premises": [
+    "The Lord did not state a thirteenfold scheme for layakala and similar levels.",
+    "One may grant that perceptibility is a property of beings.",
+    "Even so, the case of the layakala levels requires a different treatment."
+   ],
+   "inference": "The absence of a thirteenfold teaching reflects the weaker clarity of differentiation at those levels, despite perceptibility being real.",
+   "uncertainties": [
+    "The dual layākalau may refer to two related layakala cases; the exact pair is not explicit here."
+   ],
+   "plain_english": "The Lord did not teach a thirteenfold scheme for the layakala and higher levels. One may grant that perceptibility is a property of beings, but the case of the layakala levels is still different."
+  }
+ ]
+}

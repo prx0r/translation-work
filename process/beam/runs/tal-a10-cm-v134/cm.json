@@ -4,48 +4,48 @@
  "rows": [
   {
    "lemma": "jaḍe@pi",
-   "morph": "loc.sg",
-   "grounds": "token 1"
+   "morph": "compound = jaḍa+member + api+membership",
+   "grounds": "scope"
   },
   {
    "lemma": "citirastyeva",
-   "morph": "compound",
-   "grounds": "token 2"
+   "morph": "compound = citi+member + asti+member + eva+membership",
+   "grounds": "assertion"
   },
   {
    "lemma": "bhotsyamāne",
-   "morph": "loc.sg",
-   "grounds": "token 3"
+   "morph": "m.loc.sg.future-participle-middle — budh",
+   "grounds": "future-object"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "token 4"
+   "morph": "(indecl.)",
+   "grounds": "contrast"
   },
   {
    "lemma": "kā",
-   "morph": "pron.f.nom.sg",
-   "grounds": "token 5"
+   "morph": "f.nom.sg",
+   "grounds": "question"
   },
   {
    "lemma": "kathā",
    "morph": "f.nom.sg",
-   "grounds": "token 6"
+   "grounds": "rhetorical"
   },
   {
    "lemma": "svabodhāvasare",
-   "morph": "loc.sg",
-   "grounds": "token 7"
+   "morph": "compound = sva+member + bodha+member + avasara+membership",
+   "grounds": "occasion"
   },
   {
    "lemma": "tāvadbhotsyate",
-   "morph": "verb.3.sg.pass-fut",
-   "grounds": "token 8"
+   "morph": "compound = tāvat+member + bhotsyate+membership",
+   "grounds": "limited-cognition"
   },
   {
    "lemma": "layakevalī",
-   "morph": "m.nom.sg",
-   "grounds": "token 9"
+   "morph": "m.nom.sg compound = laya+member + kevalin+membership",
+   "grounds": "perceiver-type"
   }
  ]
 }

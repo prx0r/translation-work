@@ -1,56 +1,56 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a10",
+ "verse": 29,
  "rows": [
   {
-   "lemma": "avedya",
-   "morph": "f.nom.sg",
-   "grounds": "gloss 'unknowable' + form avedyā"
+   "lemma": "avedyā",
+   "morph": "m.nom.pl",
+   "grounds": "a-vedya = not knowable"
   },
   {
    "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "gloss 'indeed' + form eva"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "tad/tvam",
-   "morph": "2sg.dat or 3pl.nom",
-   "grounds": "AMBIGUOUS: gloss 'to-you-or-they' + form te"
+   "lemma": "te",
+   "morph": "m.nom.pl",
+   "grounds": "demonstrative pronoun"
   },
   {
-   "lemma": "saṃsyuḥ+jñāna",
-   "morph": "3pl.fut.mid √as + n.loc.sg",
-   "grounds": "gloss 'will-be-in-knowledge' + form saṃsyurjñāne"
+   "lemma": "saṃsyurjñāne",
+   "morph": "compound: syuḥ+jñāne",
+   "grounds": "syuḥ = they would be; jñāne = in knowledge"
   },
   {
-   "lemma": "satya+api",
-   "morph": "(indecl.)",
-   "grounds": "gloss 'even-if-true' + form satyapi"
+   "lemma": "satyapi",
+   "morph": "compound: sati+api",
+   "grounds": "sati = being present; api = even"
   },
   {
-   "lemma": "varṇita",
-   "morph": "m/f/n.loc.sg",
-   "grounds": "gloss 'described' + form varṇite"
+   "lemma": "varṇite",
+   "morph": "n.loc.sg (past participle)",
+   "grounds": "varṇita = described/explained"
   },
   {
-   "lemma": "yathā+hi",
-   "morph": "(indecl.)",
-   "grounds": "gloss 'as-indeed' + form yathāhi"
+   "lemma": "yathāhi",
+   "morph": "compound: yathā+hi",
+   "grounds": "yathā = as; hi = indeed"
   },
   {
-   "lemma": "pṛthubudhnādirūpa",
-   "morph": "n.loc.sg",
-   "grounds": "gloss 'in-form-beginning-broad-base' + form pṛthubudhnādirūpe"
+   "lemma": "pṛthubudhnādirūpe",
+   "morph": "compound: pṛthu-budhna-ādi-rūpe (n.loc.sg)",
+   "grounds": "pṛthu-budhna = broad base; ādi = and so on; rūpa = form"
   },
   {
-   "lemma": "kumbha",
+   "lemma": "kumbhasya",
    "morph": "m.gen.sg",
-   "grounds": "gloss 'of-pot' + form kumbhasya"
+   "grounds": "kumbha = pot"
   },
   {
-   "lemma": "satya+api",
-   "morph": "(indecl.)",
-   "grounds": "gloss 'even-if-true' + form satyapi"
+   "lemma": "satyapi",
+   "morph": "compound: sati+api",
+   "grounds": "sati = being present; api = even"
   }
  ]
 }

@@ -4,48 +4,48 @@
  "rows": [
   {
    "lemma": "jñānākalo@pi",
-   "morph": "compound",
-   "grounds": "token 1"
+   "morph": "compound = jñānākala+member + api+membership",
+   "grounds": "perceiver-type"
   },
   {
    "lemma": "mantreśamaheśatvāya",
-   "morph": "dat.sg",
-   "grounds": "token 2"
+   "morph": "compound = mantreśa+member + maheśatva+membership",
+   "grounds": "goal"
   },
   {
    "lemma": "budhyate",
-   "morph": "verb.3.sg.act-pres",
-   "grounds": "token 3"
+   "morph": "3.sg.middle-present — budh",
+   "grounds": "awakening"
   },
   {
    "lemma": "mantrāditvāya",
-   "morph": "dat.sg",
-   "grounds": "token 4"
+   "morph": "compound = mantra+member + āditva+membership",
+   "grounds": "goal"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "token 5"
+   "morph": "(indecl.)",
+   "grounds": "alternative"
   },
   {
    "lemma": "jātu",
-   "morph": "indecl.",
-   "grounds": "token 6"
+   "morph": "(indecl.)",
+   "grounds": "occasion"
   },
   {
    "lemma": "jātu",
-   "morph": "indecl.",
-   "grounds": "token 7"
+   "morph": "(indecl.)",
+   "grounds": "occasion"
   },
   {
    "lemma": "saṃsṛtaye@pi",
-   "morph": "dat.sg",
-   "grounds": "token 8"
+   "morph": "compound = saṃsṛti+member + api+membership",
+   "grounds": "goal"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "token 9"
+   "morph": "(indecl.)",
+   "grounds": "alternative"
   }
  ]
 }

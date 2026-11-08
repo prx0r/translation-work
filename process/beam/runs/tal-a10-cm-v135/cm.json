@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "dvividhaśca",
-   "morph": "compound",
-   "grounds": "token 1"
+   "morph": "compound = dvividha+member + ca+membership",
+   "grounds": "classification"
   },
   {
    "lemma": "prabodho@sya",
-   "morph": "compound",
-   "grounds": "token 2"
+   "morph": "compound = prabodha+member + asya+membership",
+   "grounds": "awakening"
   },
   {
    "lemma": "mantratvāya",
-   "morph": "dat.sg",
-   "grounds": "token 3"
+   "morph": "n.dat.sg",
+   "grounds": "goal"
   },
   {
    "lemma": "bhavāya",
-   "morph": "dat.sg",
-   "grounds": "token 4"
+   "morph": "m.dat.sg",
+   "grounds": "goal"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "token 5"
+   "morph": "(indecl.)",
+   "grounds": "coordination"
   },
   {
    "lemma": "bhāvanādibalādanyavaiṣṇavādinayoditāt",
-   "morph": "abl.sg",
-   "grounds": "token 6"
+   "morph": "compound = bhāvanā+member + ādi+member + bala+member + anya+member + vaiṣṇava+member + ādi+member + naya+member + udita+membership",
+   "grounds": "cause"
   }
  ]
 }

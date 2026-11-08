@@ -1,61 +1,61 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a10",
+ "verse": 121,
  "rows": [
   {
-   "lemma": "ka",
+   "lemma": "ko@pi",
+   "morph": "m.nom.sg (indecl. compound)",
+   "grounds": "indefinite subject"
+  },
+  {
+   "lemma": "bhāvaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'some' + form ko'pi"
+   "grounds": "entity or condition"
   },
   {
-   "lemma": "bhāva",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'state' + form bhāvaḥ"
+   "lemma": "projjhatīti",
+   "morph": "3.sg.pres.act (√ujjh) + (indecl.)",
+   "grounds": "reported claim"
   },
   {
-   "lemma": "projjh",
-   "morph": "3sg.pres.act √ujjh",
-   "grounds": "gloss 'abandons-thus' + form projjhatīti"
-  },
-  {
-   "lemma": "satya",
+   "lemma": "satyaṃ",
    "morph": "n.nom.sg",
-   "grounds": "gloss 'truth' + form satyaṃ"
+   "grounds": "concession"
   },
   {
    "lemma": "tadbhāvanā",
-   "morph": "f.nom.sg",
-   "grounds": "gloss 'that-meditation' + compound tat+bhāvanā"
+   "morph": "f.nom.sg (compound)",
+   "grounds": "contemplation of that state"
   },
   {
-   "lemma": "phal",
-   "morph": "3sg.pres.act √phal",
-   "grounds": "gloss 'bears-fruit' + form phalet"
+   "lemma": "phalet",
+   "morph": "3.sg.opt.act (√phal)",
+   "grounds": "possible result"
   },
   {
-   "lemma": "śrīpūrvaśāstra",
-   "morph": "n.loc.sg",
-   "grounds": "gloss 'in-earlier-scripture' + form śrīpūrvaśāstre"
+   "lemma": "śrīpūrvaśāstre",
+   "morph": "n.loc.sg (compound)",
+   "grounds": "scriptural source"
   },
   {
-   "lemma": "ukta",
-   "morph": "n.nom.sg",
-   "grounds": "gloss 'by-him-said' + form tenoktaṃ"
+   "lemma": "tenoktaṃ",
+   "morph": "n.nom.sg (past passive participle, √vac, compound)",
+   "grounds": "reported teaching"
   },
   {
-   "lemma": "śiva",
+   "lemma": "śivaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'siva' + form śivaḥ"
+   "grounds": "supreme reality"
   },
   {
-   "lemma": "sākṣāt",
-   "morph": "indecl.",
-   "grounds": "gloss 'directly-not' + form sākṣānna"
+   "lemma": "sākṣānna",
+   "morph": "(indecl.) + (indecl.)",
+   "grounds": "negation of direct division"
   },
   {
-   "lemma": "bhid",
-   "morph": "3sg.pres.pass √bhid",
-   "grounds": "gloss 'is-divided' + form bhidyate"
+   "lemma": "bhidyate",
+   "morph": "3.sg.pres.pass (√bhid)",
+   "grounds": "denial of division"
   }
  ]
 }

@@ -1,0 +1,411 @@
+{
+ "song": "Tantraloka a10",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "bhāvasyārthaprakāśātma",
+     "gloss": "of-being whose-nature-is-manifestation-of-objects",
+     "grounds": "bhāva = entity/being; artha-prakāśa = manifestation of objects; ātmā = nature; compound describing knowledge",
+     "morph": "compound: bhāvasya+artha-prakāśa-ātmā"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparison particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānamidaṃ",
+     "gloss": "this-knowledge",
+     "grounds": "jñāna = knowledge; idam = this",
+     "morph": "compound: jñānam+idam"
+    },
+    {
+     "surface": "tvasat",
+     "gloss": "but-unreal",
+     "grounds": "tu = but; asat = unreal/nonexistent",
+     "morph": "compound: tu+asat"
+    },
+    {
+     "surface": "ekavijñātṛvedyatve",
+     "gloss": "in-knowability-by-a-single-knower",
+     "grounds": "eka = single; vijñātṛ = knower; vedyatva = knowability",
+     "morph": "compound: eka-vijñātṛ-vedyatve (n.loc.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātrantaravedyatā",
+     "gloss": "knowability-by-another-knower",
+     "grounds": "jñātṛ-antara = another knower; vedyatā = knowability",
+     "morph": "compound: jñātṛ-antara-vedyatā (f.nom.sg)"
+    }
+   ],
+   "question": "If knowledge manifests objects, can something known by one knower be known by another?",
+   "premises": [
+    "Knowledge has the nature of manifesting objects.",
+    "If knowability belonged only to a single knower, that knowledge would be unreal for others.",
+    "Knowability by a single knower excludes knowability by another knower."
+   ],
+   "inference": "Restricting knowability to one knower makes shared knowledge impossible and undermines the reality of knowledge.",
+   "uncertainties": [
+    "The exact referent of 'this knowledge' is context-dependent."
+   ],
+   "plain_english": "Knowledge is by nature the manifestation of objects. But if something were knowable only by a single knower, that knowledge would be unreal, because what is knowable by one knower would not be knowable by another."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "samastajñātṛvedyatve",
+     "gloss": "in-knowability-by-all-knowers",
+     "grounds": "samasta = all; jñātṛ = knower; vedyatva = knowability",
+     "morph": "compound: samasta-jñātṛ-vedyatve (n.loc.sg)"
+    },
+    {
+     "surface": "naikavijñātṛvedyatā",
+     "gloss": "not-knowability-by-a-single-knower",
+     "grounds": "na = not; eka = single; vijñātṛ = knower; vedyatā = knowability",
+     "morph": "compound: na+eka-vijñātṛ-vedyatā (f.nom.sg)"
+    },
+    {
+     "surface": "tasmānna",
+     "gloss": "therefore-not",
+     "grounds": "tasmāt = therefore; na = not",
+     "morph": "compound: tasmāt+na"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "vedyatā = knowability/perceptibility",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvadharmo@sti",
+     "gloss": "is-a-property-of-an-entity",
+     "grounds": "bhāva = entity; dharma = property/nature; asti = is",
+     "morph": "compound: bhāva-dharmaḥ+asti"
+    },
+    {
+     "surface": "kaścana",
+     "gloss": "any",
+     "grounds": "indefinite pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can knowability be a property belonging to an entity itself?",
+   "premises": [
+    "If knowability belonged to all knowers, it could not belong to a single knower as such.",
+    "Knowability cannot be consistently assigned either to one knower or to all knowers as an entity's property.",
+    "A property that cannot be coherently located is not a property of the entity."
+   ],
+   "inference": "Knowability is not any property inherent in an entity.",
+   "uncertainties": [],
+   "plain_english": "If something were knowable by all knowers, it would not be knowable by a single knower in that exclusive sense. Therefore, knowability is not any property that belongs to an entity."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-an-entity",
+     "grounds": "bhāva = entity/being",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "vedyatā = knowability/perceptibility",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "that-very",
+     "grounds": "sā = that; eva = very",
+     "morph": "compound: sā+eva"
+    },
+    {
+     "surface": "saṃvido",
+     "gloss": "of-consciousness",
+     "grounds": "saṃvid = consciousness/awareness",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samudbhavaḥ",
+     "gloss": "arising",
+     "grounds": "samudbhava = arising/emergence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "arthagrahaṇarūpaṃ",
+     "gloss": "in-the-form-of-grasping-an-object",
+     "grounds": "artha = object; grahaṇa = grasping; rūpa = form",
+     "morph": "compound: artha-grahaṇa-rūpam (n.nom.sg)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñānamātmani",
+     "gloss": "in-consciousness-itself",
+     "grounds": "vijñāna = consciousness/cognition; ātman = self",
+     "morph": "compound: vijñānam+ātmani (n.loc.sg)"
+    }
+   ],
+   "question": "What is the knowability of an entity if it is not an inherent property?",
+   "premises": [
+    "Knowability cannot be an inherent property of an entity.",
+    "Consciousness arises in the form of grasping an object.",
+    "This arising of consciousness occurs within consciousness itself."
+   ],
+   "inference": "The knowability of an entity is nothing other than the arising of consciousness in the form of object-grasping.",
+   "uncertainties": [],
+   "plain_english": "The knowability of an entity is that very arising of consciousness which takes the form of grasping an object, occurring within consciousness itself."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "samavaiti",
+     "gloss": "comes-together",
+     "grounds": "sam-ava-√i = to come together/converge",
+     "morph": "3.sg.pres.act (sam-ava-√i)"
+    },
+    {
+     "surface": "prakāśyo@rthastaṃ",
+     "gloss": "that-manifest-object",
+     "grounds": "prakāśya = to be manifested; artha = object; tam = that",
+     "morph": "compound: prakāśyaḥ+arthaḥ+tam"
+    },
+    {
+     "surface": "pratyeṣaiva",
+     "gloss": "toward-this-very",
+     "grounds": "prati = toward; eṣā = this; eva = very",
+     "morph": "compound: prati+eṣā+eva"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "vedyatā = knowability/perceptibility",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brūmaḥ",
+     "gloss": "we-say",
+     "grounds": "√brū = to say",
+     "morph": "1.pl.pres.act (√brū)"
+    },
+    {
+     "surface": "padārthānāṃ",
+     "gloss": "of-objects",
+     "grounds": "padārtha = object/thing",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmo",
+     "gloss": "a-property",
+     "grounds": "dharma = property/nature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "vedyatā = knowability/perceptibility",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should knowability be understood in relation to manifest objects?",
+   "premises": [
+    "A manifest object comes together with consciousness in the act of knowing.",
+    "This convergence toward the object is what is called knowability.",
+    "Knowability is therefore not a separate property residing in objects."
+   ],
+   "inference": "Knowability is the event of consciousness converging on a manifest object, not a property of objects.",
+   "uncertainties": [
+    "The sandhi in 'prakāśyo@rthastaṃ' allows slight variation in parsing."
+   ],
+   "plain_english": "When a manifest object comes together with consciousness, that very convergence toward it is knowability. Here we say that knowability is not a property of objects."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "avedyā",
+     "gloss": "unknowable",
+     "grounds": "a-vedya = not knowable",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saṃsyurjñāne",
+     "gloss": "they-would-be-in-knowledge",
+     "grounds": "syuḥ = they would be; jñāne = in knowledge",
+     "morph": "compound: syuḥ+jñāne"
+    },
+    {
+     "surface": "satyapi",
+     "gloss": "even-if-present",
+     "grounds": "sati = being present; api = even",
+     "morph": "compound: sati+api"
+    },
+    {
+     "surface": "varṇite",
+     "gloss": "described",
+     "grounds": "varṇita = described/explained",
+     "morph": "n.loc.sg (past participle)"
+    },
+    {
+     "surface": "yathāhi",
+     "gloss": "just-as",
+     "grounds": "yathā = as; hi = indeed",
+     "morph": "compound: yathā+hi"
+    },
+    {
+     "surface": "pṛthubudhnādirūpe",
+     "gloss": "in-the-form-of-broad-base-and-so-on",
+     "grounds": "pṛthu-budhna = broad base; ādi = and so on; rūpa = form",
+     "morph": "compound: pṛthu-budhna-ādi-rūpe (n.loc.sg)"
+    },
+    {
+     "surface": "kumbhasya",
+     "gloss": "of-a-pot",
+     "grounds": "kumbha = pot",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "satyapi",
+     "gloss": "even-if-present",
+     "grounds": "sati = being present; api = even",
+     "morph": "compound: sati+api"
+    }
+   ],
+   "question": "What follows if knowability were treated as a property of objects?",
+   "premises": [
+    "If knowability were an object's property, objects would remain unknowable even when described in knowledge.",
+    "A pot may have features like a broad base.",
+    "The mere presence of such features does not make another thing share them."
+   ],
+   "inference": "Treating knowability as an object-property fails to explain how objects become known.",
+   "uncertainties": [],
+   "plain_english": "If knowability were a property of objects, they would remain unknowable even when described in knowledge. Just as a pot may have a broad base and other features, that alone does not make something else take on those features."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "atadātmā",
+     "gloss": "not-having-that-nature",
+     "grounds": "a-tad-ātman = not of that nature",
+     "morph": "m.nom.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "paṭo",
+     "gloss": "cloth",
+     "grounds": "paṭa = cloth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naiti",
+     "gloss": "does-not-attain",
+     "grounds": "na = not; eti = goes/attains",
+     "morph": "compound: na+eti (3.sg.pres.act √i)"
+    },
+    {
+     "surface": "pṛthubudhnādirūpatām",
+     "gloss": "the-state-of-having-broad-base-and-so-on",
+     "grounds": "pṛthu-budhna-ādi-rūpa = form of broad base etc.; -tā = state",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "comparison particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyapi",
+     "gloss": "even-though-present",
+     "grounds": "sati = being present; api = even",
+     "morph": "compound: sati+api"
+    },
+    {
+     "surface": "vijñāne",
+     "gloss": "in-knowledge",
+     "grounds": "vijñāna = knowledge/consciousness",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vijñātṛsamavāyini",
+     "gloss": "inhering-in-the-knower",
+     "grounds": "vijñātṛ = knower; samavāyin = inhering/conjoined",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Why does the presence of knowledge not make objects inherently knowable?",
+   "premises": [
+    "A cloth does not acquire the form of a pot even when the pot's features exist.",
+    "Knowledge inheres in the knower, not in external objects.",
+    "An object does not take on a nature that belongs elsewhere."
+   ],
+   "inference": "Even when knowledge is present in the knower, objects do not thereby possess knowability as their own nature.",
+   "uncertainties": [],
+   "plain_english": "A cloth does not take on the form of a pot with a broad base and so on. In the same way, even when knowledge is present in the knower, objects do not thereby become knowable by their own nature."
+  }
+ ]
+}

@@ -1,36 +1,36 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a10",
+ "verse": 125,
  "rows": [
   {
-   "lemma": "atas+trayodaśatva",
-   "morph": "indecl.+n.nom.sg",
-   "grounds": "gloss 'therefore-thirteen-ness'; form atastrayodaśatvaṃ"
+   "lemma": "atastrayodaśatvaṃ",
+   "morph": "n.nom.sg (compound)",
+   "grounds": "resulting count"
   },
   {
-   "lemma": "syāt+ittham",
-   "morph": "3sg.opt.act √as + indecl.",
-   "grounds": "gloss 'may-be-thus'; form syāditthaṃ"
+   "lemma": "syāditthaṃ",
+   "morph": "3.sg.opt.act (√as) + (indecl.)",
+   "grounds": "hypothetical conclusion"
   },
   {
-   "lemma": "na+ekādaśātmatā",
-   "morph": "indecl.+f.nom.sg",
-   "grounds": "gloss 'not-eleven-selfhood'; form naikādaśātmatā"
+   "lemma": "naikādaśātmatā",
+   "morph": "f.nom.sg (compound)",
+   "grounds": "rejection of elevenfold count"
   },
   {
-   "lemma": "vijñānākala-vedyatva+api+anya",
-   "morph": "n.loc.sg + indecl. + m.nom.sg",
-   "grounds": "gloss 'vijnanakala-perceptibility-indeed-other'; form vijñānākalavedyatve@pyanyo"
+   "lemma": "vijñānākalavedyatve@pyanyo",
+   "morph": "n.loc.sg (compound) + (indecl.) + m.nom.sg",
+   "grounds": "additional perceiver at that level"
   },
   {
-   "lemma": "jñānākala",
+   "lemma": "jñānākalo",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'jnanakala'; form jñānākalo"
+   "grounds": "distinct perceiver name"
   },
   {
-   "lemma": "bhū",
-   "morph": "3sg.opt.act √bhū",
-   "grounds": "gloss 'would-be'; form bhavet"
+   "lemma": "bhavet",
+   "morph": "3.sg.opt.act (√bhū)",
+   "grounds": "hypothetical existence"
   }
  ]
 }

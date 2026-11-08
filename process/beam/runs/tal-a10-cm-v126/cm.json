@@ -1,46 +1,46 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a10",
+ "verse": 126,
  "rows": [
   {
-   "lemma": "mātṛ",
-   "morph": "nom.sg.f",
-   "grounds": "gloss 'mother' + form mātā"
+   "lemma": "mātā",
+   "morph": "m.nom.sg",
+   "grounds": "subject"
   },
   {
    "lemma": "tadekādaśatā",
-   "morph": "nom.sg.f",
-   "grounds": "gloss 'that-eleven-ness' + compound form"
+   "morph": "f.nom.sg (compound)",
+   "grounds": "elevenfold count"
   },
   {
-   "lemma": "syāt+na+eva",
-   "morph": "3sg.opt.act √as + indecl. + indecl.",
-   "grounds": "gloss 'not-indeed-would-be' + sandhi form syānnaiva"
+   "lemma": "syānnaiva",
+   "morph": "3.sg.opt.act (√as) + (indecl.) + (indecl.)",
+   "grounds": "qualified denial"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "gloss 'but' + indeclinable form"
+   "morph": "(indecl.)",
+   "grounds": "contrast"
   },
   {
    "lemma": "navātmatā",
-   "morph": "nom.sg.f",
-   "grounds": "gloss 'nine-self-ness' + compound form"
+   "morph": "f.nom.sg (compound)",
+   "grounds": "ninefold count"
   },
   {
    "lemma": "evaṃ",
-   "morph": "indecl.",
-   "grounds": "gloss 'thus' + indeclinable form"
+   "morph": "(indecl.)",
+   "grounds": "summary transition"
   },
   {
-   "lemma": "mantratadīśa",
-   "morph": "gen.pl.m",
-   "grounds": "gloss 'of-mantra-and-their-lords' + form mantratadīśānāṃ"
+   "lemma": "mantratadīśānāṃ",
+   "morph": "m.gen.pl (compound)",
+   "grounds": "mantra and mantresha classes"
   },
   {
-   "lemma": "mantreśāntarasaṃbhava",
-   "morph": "loc.sg.m",
-   "grounds": "gloss 'in-mantra-lord-interval-arising' + form mantreśāntarasaṃbhave"
+   "lemma": "mantreśāntarasaṃbhave",
+   "morph": "m.loc.sg (compound)",
+   "grounds": "intermediate level"
   }
  ]
 }

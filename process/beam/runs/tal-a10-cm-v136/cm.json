@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "yathāsvamādharauttaryavicitrātsaṃskṛtastathā",
-   "morph": "compound",
-   "grounds": "token 1"
+   "morph": "compound = yathāsvam+member + ādhāra+member + auttarya+member + vicitra+member + saṃskṛta+member + tathā+membership",
+   "grounds": "conditioning"
   },
   {
    "lemma": "līnaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "token 2"
+   "morph": "m.nom.sg past-participle — lī",
+   "grounds": "state"
   },
   {
    "lemma": "prabuddho",
-   "morph": "m.nom.sg",
-   "grounds": "token 3"
+   "morph": "m.nom.sg past-participle — budh",
+   "grounds": "state"
   },
   {
    "lemma": "mantratvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "token 4"
+   "grounds": "attainment"
   },
   {
    "lemma": "tadīśatvamathaiti",
-   "morph": "compound",
-   "grounds": "token 5"
+   "morph": "compound = tad+member + īśatva+member + atha+member + eti+membership",
+   "grounds": "attainment"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "token 6"
+   "morph": "(indecl.)",
+   "grounds": "alternative"
   }
  ]
 }

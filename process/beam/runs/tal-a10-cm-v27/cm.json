@@ -1,56 +1,56 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a10",
+ "verse": 27,
  "rows": [
   {
-   "lemma": "bhāva",
+   "lemma": "bhāvasya",
    "morph": "m.gen.sg",
-   "grounds": "gloss of-entity + form bhāvasya"
+   "grounds": "bhāva = entity/being"
   },
   {
    "lemma": "vedyatā",
    "morph": "f.nom.sg",
-   "grounds": "gloss perceptibility + form vedyatā"
+   "grounds": "vedyatā = knowability/perceptibility"
   },
   {
-   "lemma": "sa+eva",
-   "morph": "m.nom.sg (AMBIGUOUS: could be f.nom.sg)",
-   "grounds": "gloss that-very + form saiva"
+   "lemma": "saiva",
+   "morph": "compound: sā+eva",
+   "grounds": "sā = that; eva = very"
   },
   {
-   "lemma": "saṃvid",
+   "lemma": "saṃvido",
    "morph": "f.gen.sg",
-   "grounds": "gloss of-consciousness + form saṃvido"
+   "grounds": "saṃvid = consciousness/awareness"
   },
   {
-   "lemma": "ya",
+   "lemma": "yaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss which + form yaḥ"
+   "grounds": "relative pronoun"
   },
   {
-   "lemma": "samudbhava",
+   "lemma": "samudbhavaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss origin + form samudbhavaḥ"
+   "grounds": "samudbhava = arising/emergence"
   },
   {
-   "lemma": "arthagrahaṇarūpa",
-   "morph": "n.acc.sg (AMBIGUOUS: could be n.nom.sg)",
-   "grounds": "gloss object-grasping-form + form arthagrahaṇarūpaṃ"
+   "lemma": "arthagrahaṇarūpaṃ",
+   "morph": "compound: artha-grahaṇa-rūpam (n.nom.sg)",
+   "grounds": "artha = object; grahaṇa = grasping; rūpa = form"
   },
   {
    "lemma": "hi",
    "morph": "(indecl.)",
-   "grounds": "gloss indeed + form hi"
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "yatra",
    "morph": "(indecl.)",
-   "grounds": "gloss where + form yatra"
+   "grounds": "relative adverb"
   },
   {
-   "lemma": "vijñānamātman",
-   "morph": "m.loc.sg",
-   "grounds": "gloss in-consciousness-self + form vijñānamātmani"
+   "lemma": "vijñānamātmani",
+   "morph": "compound: vijñānam+ātmani (n.loc.sg)",
+   "grounds": "vijñāna = consciousness/cognition; ātman = self"
   }
  ]
 }

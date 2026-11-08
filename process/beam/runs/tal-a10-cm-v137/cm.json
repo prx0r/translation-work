@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "svātantryavarjitā",
-   "morph": "compound",
-   "grounds": "token 1"
+   "morph": "m.nom.pl compound = svātantrya+member + varjita+membership",
+   "grounds": "condition"
   },
   {
    "lemma": "ye",
-   "morph": "pron",
-   "grounds": "token 2"
+   "morph": "m.nom.pl",
+   "grounds": "subject"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "token 3"
+   "morph": "(indecl.)",
+   "grounds": "contrast"
   },
   {
    "lemma": "balānmohavaśīkṛtāḥ",
-   "morph": "compound",
-   "grounds": "token 4"
+   "morph": "compound = balāt+member + moha+member + vaśīkṛta+membership",
+   "grounds": "cause"
   },
   {
    "lemma": "layākalātsvasaṃskārātprabuddhyante",
-   "morph": "compound",
-   "grounds": "token 5"
+   "morph": "compound = layākala+member + sva+member + saṃskāra+member + prabuddhyante+membership",
+   "grounds": "awakening"
   },
   {
    "lemma": "bhavāya",
-   "morph": "dat.sg",
-   "grounds": "token 6"
+   "morph": "m.dat.sg",
+   "grounds": "goal"
   },
   {
    "lemma": "te",
-   "morph": "pron",
-   "grounds": "token 7"
+   "morph": "m.nom.pl",
+   "grounds": "subject"
   }
  ]
 }

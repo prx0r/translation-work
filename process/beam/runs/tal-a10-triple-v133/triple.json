@@ -1,0 +1,791 @@
+{
+ "song": "Tantraloka a10",
+ "items": [
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "manvāte",
+     "gloss": "they-think",
+     "grounds": "cognition",
+     "morph": "3.pl.middle-present — man"
+    },
+    {
+     "surface": "neha",
+     "gloss": "not-here",
+     "grounds": "negation",
+     "morph": "indecl. compound = na+negation + iha+member"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃcittadapekṣā",
+     "gloss": "anything-depending-on-that",
+     "grounds": "dependence",
+     "morph": "compound = kiṃcit+member + tad+member + apekṣā+membership"
+    },
+    {
+     "surface": "tvasau",
+     "gloss": "but-that",
+     "grounds": "contrast",
+     "morph": "compound = tu+member + asau+membership"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrūyatāṃ",
+     "gloss": "let-it-be-heard",
+     "grounds": "instruction",
+     "morph": "3.sg.passive-imperative — śru"
+    },
+    {
+     "surface": "saṃvidaikātmyatattve@sminsaṃvyavasthite",
+     "gloss": "in-this-consciousness-unity-principle-established",
+     "grounds": "doctrinal-ground",
+     "morph": "compound = saṃvid+member + ekātmya+member + tattva+member + asmin+member + saṃvyavasthita+membership"
+    }
+   ],
+   "question": "How can beings think anything here if everything depends on the established principle of consciousness-unity?",
+   "premises": [
+    "Beings do not think anything here independently.",
+    "All cognition depends on that underlying principle.",
+    "The principle of consciousness-unity is already established."
+   ],
+   "inference": "The possibility of thinking must be explained from the established unity of consciousness.",
+   "uncertainties": [
+    "The exact referent of 'that' in 'depending-on-that' is not explicit in this verse alone."
+   ],
+   "plain_english": "They do not really think anything here on their own, because everything depends on that. How is this so? Listen: it is because the principle of the unity of consciousness is firmly established."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "jaḍe@pi",
+     "gloss": "even-in-inert",
+     "grounds": "scope",
+     "morph": "compound = jaḍa+member + api+membership"
+    },
+    {
+     "surface": "citirastyeva",
+     "gloss": "consciousness-is-indeed",
+     "grounds": "assertion",
+     "morph": "compound = citi+member + asti+member + eva+membership"
+    },
+    {
+     "surface": "bhotsyamāne",
+     "gloss": "in-what-will-be-known",
+     "grounds": "future-object",
+     "morph": "m.loc.sg.future-participle-middle — budh"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "question",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathā",
+     "gloss": "question",
+     "grounds": "rhetorical",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svabodhāvasare",
+     "gloss": "at-self-knowledge-moment",
+     "grounds": "occasion",
+     "morph": "compound = sva+member + bodha+member + avasara+membership"
+    },
+    {
+     "surface": "tāvadbhotsyate",
+     "gloss": "so-much-will-be-known",
+     "grounds": "limited-cognition",
+     "morph": "compound = tāvat+member + bhotsyate+membership"
+    },
+    {
+     "surface": "layakevalī",
+     "gloss": "dissolution-only-one",
+     "grounds": "perceiver-type",
+     "morph": "m.nom.sg compound = laya+member + kevalin+membership"
+    }
+   ],
+   "question": "How does consciousness operate in the inert and in the dissolution-only-one who is about to know?",
+   "premises": [
+    "Consciousness is present even in what is inert.",
+    "What is about to be known is not outside consciousness.",
+    "At the moment of self-knowledge, the dissolution-only-one will know only to a limited extent."
+   ],
+   "inference": "Even limited future knowing in the dissolution-only-one presupposes the presence of consciousness.",
+   "uncertainties": [
+    "The scope of 'so-much' in the dissolution-only-one's knowing is not specified here."
+   ],
+   "plain_english": "Consciousness is present even in the inert; so what question is there about what is about to be known? At the moment of self-knowledge, the one absorbed in dissolution will know only to that extent."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "dvividhaśca",
+     "gloss": "and-two-fold",
+     "grounds": "classification",
+     "morph": "compound = dvividha+member + ca+membership"
+    },
+    {
+     "surface": "prabodho@sya",
+     "gloss": "awakening-of-this",
+     "grounds": "awakening",
+     "morph": "compound = prabodha+member + asya+membership"
+    },
+    {
+     "surface": "mantratvāya",
+     "gloss": "for-mantra-hood",
+     "grounds": "goal",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "bhavāya",
+     "gloss": "for-becoming",
+     "grounds": "goal",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordination",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvanādibalādanyavaiṣṇavādinayoditāt",
+     "gloss": "from-meditation-power-and-other-vaishnava-doctrine",
+     "grounds": "cause",
+     "morph": "compound = bhāvanā+member + ādi+member + bala+member + anya+member + vaiṣṇava+member + ādi+member + naya+member + udita+membership"
+    }
+   ],
+   "question": "What are the two kinds of awakening available to this dissolution-only-one?",
+   "premises": [
+    "The awakening of this being is twofold.",
+    "One awakening leads to mantra-hood.",
+    "Another awakening leads to worldly becoming and arises from meditation-power and other Vaishnava doctrines."
+   ],
+   "inference": "The dissolution-only-one can awaken either toward mantra-hood or toward renewed becoming, depending on the cause.",
+   "uncertainties": [
+    "The exact range covered by 'other Vaishnava doctrines' is not specified."
+   ],
+   "plain_english": "This being's awakening is of two kinds: one leads to mantra-hood, and the other leads to worldly becoming, arising from the power of meditation and from other Vaishnava teachings."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "yathāsvamādharauttaryavicitrātsaṃskṛtastathā",
+     "gloss": "so-impressed-by-own-support-and-higher-variety",
+     "grounds": "conditioning",
+     "morph": "compound = yathāsvam+member + ādhāra+member + auttarya+member + vicitra+member + saṃskṛta+member + tathā+membership"
+    },
+    {
+     "surface": "līnaḥ",
+     "gloss": "absorbed",
+     "grounds": "state",
+     "morph": "m.nom.sg past-participle — lī"
+    },
+    {
+     "surface": "prabuddho",
+     "gloss": "awakened",
+     "grounds": "state",
+     "morph": "m.nom.sg past-participle — budh"
+    },
+    {
+     "surface": "mantratvaṃ",
+     "gloss": "mantra-hood",
+     "grounds": "attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadīśatvamathaiti",
+     "gloss": "then-goes-to-its-lordship",
+     "grounds": "attainment",
+     "morph": "compound = tad+member + īśatva+member + atha+member + eti+membership"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What determines whether the absorbed being attains mantra-hood or lordship upon awakening?",
+   "premises": [
+    "The absorbed being is shaped by its own support and by higher varied impressions.",
+    "Awakening occurs in accordance with those impressions.",
+    "The result may be mantra-hood or lordship over that level."
+   ],
+   "inference": "The specific attainment after awakening depends on the impressions and support conditioning the absorbed being.",
+   "uncertainties": [
+    "The precise referent of 'its lordship' is not fully explicit in this verse."
+   ],
+   "plain_english": "Shaped by its own support and by higher, varied impressions, the absorbed being awakens and attains either mantra-hood or lordship over that level."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "svātantryavarjitā",
+     "gloss": "devoid-of-freedom",
+     "grounds": "condition",
+     "morph": "m.nom.pl compound = svātantrya+member + varjita+membership"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balānmohavaśīkṛtāḥ",
+     "gloss": "forcibly-subjected-by-delusion",
+     "grounds": "cause",
+     "morph": "compound = balāt+member + moha+member + vaśīkṛta+membership"
+    },
+    {
+     "surface": "layākalātsvasaṃskārātprabuddhyante",
+     "gloss": "awaken-from-dissolution-non-whole-by-own-impression",
+     "grounds": "awakening",
+     "morph": "compound = layākala+member + sva+member + saṃskāra+member + prabuddhyante+membership"
+    },
+    {
+     "surface": "bhavāya",
+     "gloss": "for-becoming",
+     "grounds": "goal",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do some beings awaken from the dissolution-non-whole state only for renewed worldly becoming?",
+   "premises": [
+    "Some beings lack freedom.",
+    "They are forcibly subjected by delusion.",
+    "They awaken from the layākala state according to their own impressions."
+   ],
+   "inference": "Because they are constrained by delusion and their own impressions, such beings awaken only for renewed becoming.",
+   "uncertainties": [
+    "The verse does not specify whether any external grace intervenes in this case."
+   ],
+   "plain_english": "But those who lack freedom and are forcibly overcome by delusion awaken from the layākala state according to their own impressions, and they awaken only for renewed worldly becoming."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "jñānākalo@pi",
+     "gloss": "even-knowledge-non-whole",
+     "grounds": "perceiver-type",
+     "morph": "compound = jñānākala+member + api+membership"
+    },
+    {
+     "surface": "mantreśamaheśatvāya",
+     "gloss": "for-mantra-lord-and-great-lord-hood",
+     "grounds": "goal",
+     "morph": "compound = mantreśa+member + maheśatva+membership"
+    },
+    {
+     "surface": "budhyate",
+     "gloss": "awakens",
+     "grounds": "awakening",
+     "morph": "3.sg.middle-present — budh"
+    },
+    {
+     "surface": "mantrāditvāya",
+     "gloss": "for-mantra-etc-hood",
+     "grounds": "goal",
+     "morph": "compound = mantra+member + āditva+membership"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātu",
+     "gloss": "sometimes",
+     "grounds": "occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātu",
+     "gloss": "sometimes",
+     "grounds": "occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsṛtaye@pi",
+     "gloss": "even-for-worldly-existence",
+     "grounds": "goal",
+     "morph": "compound = saṃsṛti+member + api+membership"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What different outcomes are possible for the awakening of the knowledge-non-whole being?",
+   "premises": [
+    "The jñānākala can awaken to the status of mantra-lord or great lord.",
+    "The jñānākala can awaken to mantra-level status.",
+    "The jñānākala can sometimes awaken even toward worldly existence."
+   ],
+   "inference": "The awakening of the jñānākala admits multiple possible outcomes, including higher lordship and, in some cases, worldly existence.",
+   "uncertainties": [
+    "The conditions that determine which outcome occurs are not stated in this verse."
+   ],
+   "plain_english": "Even the knowledge-non-whole being may awaken to the status of mantra-lord or great lord, or to mantra-level status, and sometimes even to worldly existence."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "avatāro",
+     "gloss": "descent",
+     "grounds": "manifestation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñāniyogibhāve@sya",
+     "gloss": "in-his-knower-yogi-state",
+     "grounds": "state",
+     "morph": "compound = vijñānin+member + yogin+member + bhāva+member + asya+membership"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "differs",
+     "grounds": "distinction",
+     "morph": "3.sg.passive-present — bhid"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "scriptural-reference",
+     "morph": "n.nom.sg past-participle — vac"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordination",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhayāmāsa",
+     "gloss": "taught",
+     "grounds": "instruction",
+     "morph": "3.sg.perfect-active — budh (causative)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sisṛkṣurjagatprabhuḥ",
+     "gloss": "world-lord-desiring-to-create",
+     "grounds": "agent",
+     "morph": "compound = sisṛkṣu+member + jagat+member + prabhu+membership"
+    }
+   ],
+   "question": "How is the descent of the knower-yogi distinguished in the scriptural account?",
+   "premises": [
+    "The descent in the state of the knower-yogi is distinct.",
+    "Scripture has stated this distinction.",
+    "The world-lord, desiring to create, taught accordingly."
+   ],
+   "inference": "The knower-yogi's descent is a recognized and scripturally grounded mode of manifestation.",
+   "uncertainties": [
+    "The specific scriptural passage referred to by 'it is said' is not identified here."
+   ],
+   "plain_english": "The descent in the state of the knower-yogi is indeed distinct. Scripture says so, and the world-lord, desiring to create, taught in that way."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "vijñānakevalānaṣṭāviti",
+     "gloss": "eight-pure-knowers-thus",
+     "grounds": "scriptural-count",
+     "morph": "compound = vijñāna+member + kevala+member + aṣṭau+member + iti+membership"
+    },
+    {
+     "surface": "śrīpūrvaśāsane",
+     "gloss": "in-the-prior-scripture",
+     "grounds": "scriptural-reference",
+     "morph": "compound = śrī+member + pūrva+member + śāsana+membership"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhotsyamānatve",
+     "gloss": "in-being-about-to-be-taught",
+     "grounds": "readiness",
+     "morph": "compound = pra+member + bhotsyamānatva+membership"
+    },
+    {
+     "surface": "yānayorbodhayogyatā",
+     "gloss": "teachability-of-those-two",
+     "grounds": "fitness",
+     "morph": "compound = yā+member + anayoḥ+member + bodha+member + yogyatā+membership"
+    }
+   ],
+   "question": "Why are certain beings considered fit to be taught according to the prior scripture?",
+   "premises": [
+    "The prior scripture speaks of eight pure knowers.",
+    "Some beings are about to be taught.",
+    "Teachability belongs to those two in that context."
+   ],
+   "inference": "Scriptural classification supports the teachability of the beings who are about to receive instruction.",
+   "uncertainties": [
+    "The identity of 'those two' is not explicit in this verse alone."
+   ],
+   "plain_english": "The prior scripture speaks of eight pure knowers. Therefore, in the state of being about to be taught, those two are fit to receive instruction."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "tadbalādvedyatāyogyabhāvenaivātra",
+     "gloss": "here-by-that-power-as-fitness-to-be-known-alone",
+     "grounds": "epistemic-condition",
+     "morph": "compound = tad+member + bala+member + vedyatā+member + yogya+member + bhāva+member + eva+member + atra+membership"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "epistemic-term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "illustration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāḍhanidre@pi",
+     "gloss": "even-in-deep-sleep",
+     "grounds": "example",
+     "morph": "compound = gāḍha+member + nidrā+member + api+membership"
+    },
+    {
+     "surface": "priye@nāśaṅkitāgatām",
+     "gloss": "beloved-arrived-unexpectedly",
+     "grounds": "example",
+     "morph": "compound = priyā+member + anāśaṅkita+member + āgatā+membership"
+    }
+   ],
+   "question": "How can knowability exist here when it depends only on fitness to be known?",
+   "premises": [
+    "Knowability here arises by the power of fitness to be known.",
+    "Knowability does not require an already explicit act of knowing.",
+    "Even in deep sleep, an unexpectedly arrived beloved can be an object in this qualified sense."
+   ],
+   "inference": "Knowability is grounded in fitness to be known, not in an immediately manifest act of cognition.",
+   "uncertainties": [
+    "The verse gives the example but does not fully spell out the analogy's conclusion."
+   ],
+   "plain_english": "Here, knowability exists only as fitness to be known, by that very power. For example, even in deep sleep, a beloved who has arrived unexpectedly can stand in that relation."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "drakṣyatīti",
+     "gloss": "will-see-thus",
+     "grounds": "expectation",
+     "morph": "compound = drakṣyati+member + iti+membership"
+    },
+    {
+     "surface": "nāṅgeṣu",
+     "gloss": "not-in-limbs",
+     "grounds": "restraint",
+     "morph": "compound = na+negation + aṅgeṣu+member"
+    },
+    {
+     "surface": "sveṣu",
+     "gloss": "own",
+     "grounds": "possession",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "mātyabhisārikā",
+     "gloss": "woman-going-to-lover",
+     "grounds": "example",
+     "morph": "compound = mā+member + ati+member + abhisārikā+membership"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivo@pi",
+     "gloss": "shiva-too",
+     "grounds": "agent",
+     "morph": "compound = śiva+member + api+membership"
+    },
+    {
+     "surface": "manute",
+     "gloss": "thinks",
+     "grounds": "cognition",
+     "morph": "3.sg.middle-present — man"
+    },
+    {
+     "surface": "etasyaitatpravedyatām",
+     "gloss": "this-knowability-of-this",
+     "grounds": "epistemic-term",
+     "morph": "compound = etasya+member + etat+member + pravedyatā+membership"
+    }
+   ],
+   "question": "How does the analogy of the woman going to her lover clarify Shiva's regard for knowability?",
+   "premises": [
+    "The woman restrains her own limbs thinking she will be seen.",
+    "Her action is guided by anticipated perception.",
+    "Shiva likewise regards the knowability of this for this."
+   ],
+   "inference": "Anticipated knowability can shape action and cognition even before explicit perception occurs.",
+   "uncertainties": [
+    "The exact referents of the two 'this' elements in 'this-knowability-of-this' are ambiguous in isolation."
+   ],
+   "plain_english": "A woman going to her lover restrains her own limbs, thinking, 'He will see me.' In the same way, Shiva too regards this as knowable for this."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "yāsyatīti",
+     "gloss": "will-go-thus",
+     "grounds": "anticipation",
+     "morph": "compound = yāsyati+member + iti+membership"
+    },
+    {
+     "surface": "sṛjāmīti",
+     "gloss": "I-create-thus",
+     "grounds": "creative-intention",
+     "morph": "compound = sṛjāmi+member + iti+membership"
+    },
+    {
+     "surface": "tadānīṃ",
+     "gloss": "then",
+     "grounds": "time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogyataiva",
+     "gloss": "fitness-alone",
+     "grounds": "epistemic-condition",
+     "morph": "compound = yogyatā+member + eva+membership"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "reference",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedyatā",
+     "gloss": "knowability",
+     "grounds": "epistemic-term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "reference",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-the-being",
+     "grounds": "entity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhoktṛtā",
+     "gloss": "enjoyership",
+     "grounds": "experiential-status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāvatī",
+     "gloss": "so-much",
+     "grounds": "measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordination",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "reference",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "In what sense are knowability and enjoyership present before explicit manifestation occurs?",
+   "premises": [
+    "Anticipations such as 'it will go' and 'I create' indicate a prior orientation.",
+    "At that time, what is present is fitness alone.",
+    "That fitness counts as knowability and, to that extent, as enjoyership of the being."
+   ],
+   "inference": "Before explicit manifestation, knowability and enjoyership exist in the mode of fitness rather than full actuality.",
+   "uncertainties": [
+    "The subject of 'will go' is not specified in the verse."
+   ],
+   "plain_english": "When there is the sense 'it will go' or 'I create,' what exists then is only fitness. That fitness is knowability, and to that same extent it is the enjoyership of that being."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "layākalasya",
+     "gloss": "of-the-dissolution-non-whole",
+     "grounds": "perceiver-type",
+     "morph": "m.gen.sg compound = laya+member + ākala+membership"
+    },
+    {
+     "surface": "citro",
+     "gloss": "wonderful",
+     "grounds": "evaluation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogaḥ",
+     "gloss": "enjoyment",
+     "grounds": "experience",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-whom",
+     "grounds": "question",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vikalpyate",
+     "gloss": "is-imagined",
+     "grounds": "conceptualization",
+     "morph": "3.sg.passive-present — vikalp"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "correlation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "correlation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samvittiḥ",
+     "gloss": "awareness",
+     "grounds": "consciousness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "identity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogaḥ",
+     "gloss": "enjoyment",
+     "grounds": "experience",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuṭo@sphuṭaḥ",
+     "gloss": "manifest-unmanifest",
+     "grounds": "degree",
+     "morph": "compound = sphuṭa+member + asphuṭa+membership"
+    }
+   ],
+   "question": "How should the enjoyment of the dissolution-non-whole being be understood?",
+   "premises": [
+    "The enjoyment of the layākala is difficult to conceptualize.",
+    "Enjoyment corresponds to awareness.",
+    "Awareness may be manifest or unmanifest."
+   ],
+   "inference": "The layākala's enjoyment is real as awareness, even when that awareness is not fully manifest.",
+   "uncertainties": [
+    "The rhetorical force of 'by whom is it imagined' may imply impossibility or merely difficulty."
+   ],
+   "plain_english": "Who can really imagine the wonderful enjoyment of the one in the layākala state? For enjoyment is just awareness, whether manifest or unmanifest."
+  }
+ ]
+}

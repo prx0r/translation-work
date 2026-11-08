@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a10",
+ "verse": 25,
  "rows": [
   {
    "lemma": "bhāvasyārthaprakāśātma",
-   "morph": "compound (gen.sg. embedded)",
-   "grounds": "gloss being's-meaning-manifestation-nature; form contains genitive bhāvasya within compound"
+   "morph": "compound: bhāvasya+artha-prakāśa-ātmā",
+   "grounds": "bhāva = entity/being; artha-prakāśa = manifestation of objects; ātmā = nature; compound describing knowledge"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "gloss as; indeclinable particle"
+   "grounds": "comparison particle"
   },
   {
    "lemma": "jñānamidaṃ",
-   "morph": "nom.sg.n. + nom.sg.n. pronoun",
-   "grounds": "gloss this-knowledge; sandhi of jñānam and idam"
+   "morph": "compound: jñānam+idam",
+   "grounds": "jñāna = knowledge; idam = this"
   },
   {
    "lemma": "tvasat",
-   "morph": "(indecl.) + nom.sg.n.",
-   "grounds": "gloss but-unreal; sandhi of tu and asat"
+   "morph": "compound: tu+asat",
+   "grounds": "tu = but; asat = unreal/nonexistent"
   },
   {
    "lemma": "ekavijñātṛvedyatve",
-   "morph": "loc.sg.n.",
-   "grounds": "gloss in-single-knower-knowability; ending -e indicates locative singular"
+   "morph": "compound: eka-vijñātṛ-vedyatve (n.loc.sg)",
+   "grounds": "eka = single; vijñātṛ = knower; vedyatva = knowability"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "gloss not; negative particle"
+   "grounds": "negation"
   },
   {
    "lemma": "jñātrantaravedyatā",
-   "morph": "nom.sg.f.",
-   "grounds": "gloss knowability-by-another-knower; ending -ā indicates nominative singular feminine"
+   "morph": "compound: jñātṛ-antara-vedyatā (f.nom.sg)",
+   "grounds": "jñātṛ-antara = another knower; vedyatā = knowability"
   }
  ]
 }

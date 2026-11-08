@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "vijñānakevalānaṣṭāviti",
-   "morph": "(indecl.)",
-   "grounds": "token 1"
+   "morph": "compound = vijñāna+member + kevala+member + aṣṭau+member + iti+membership",
+   "grounds": "scriptural-count"
   },
   {
    "lemma": "śrīpūrvaśāsane",
-   "morph": "n.loc.sg",
-   "grounds": "token 2"
+   "morph": "compound = śrī+member + pūrva+member + śāsana+membership",
+   "grounds": "scriptural-reference"
   },
   {
    "lemma": "ataḥ",
    "morph": "(indecl.)",
-   "grounds": "token 3"
+   "grounds": "consequence"
   },
   {
    "lemma": "prabhotsyamānatve",
-   "morph": "n.loc.sg",
-   "grounds": "token 4"
+   "morph": "compound = pra+member + bhotsyamānatva+membership",
+   "grounds": "readiness"
   },
   {
    "lemma": "yānayorbodhayogyatā",
-   "morph": "f.nom.sg",
-   "grounds": "token 5"
+   "morph": "compound = yā+member + anayoḥ+member + bodha+member + yogyatā+membership",
+   "grounds": "fitness"
   }
  ]
 }

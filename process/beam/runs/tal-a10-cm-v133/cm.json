@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "manvāte",
-   "morph": "verb.3.pl.act-pres",
-   "grounds": "token 1"
+   "morph": "3.pl.middle-present — man",
+   "grounds": "cognition"
   },
   {
    "lemma": "neha",
-   "morph": "indecl.",
-   "grounds": "token 2"
+   "morph": "indecl. compound = na+negation + iha+member",
+   "grounds": "negation"
   },
   {
    "lemma": "vai",
-   "morph": "indecl.",
-   "grounds": "token 3"
+   "morph": "(indecl.)",
+   "grounds": "emphasis"
   },
   {
    "lemma": "kiṃcittadapekṣā",
-   "morph": "compound",
-   "grounds": "token 4"
+   "morph": "compound = kiṃcit+member + tad+member + apekṣā+membership",
+   "grounds": "dependence"
   },
   {
    "lemma": "tvasau",
-   "morph": "pron",
-   "grounds": "token 5"
+   "morph": "compound = tu+member + asau+membership",
+   "grounds": "contrast"
   },
   {
    "lemma": "katham",
-   "morph": "indecl.",
-   "grounds": "token 6"
+   "morph": "(indecl.)",
+   "grounds": "question"
   },
   {
    "lemma": "śrūyatāṃ",
-   "morph": "verb.3.sg.pass-imp",
-   "grounds": "token 7"
+   "morph": "3.sg.passive-imperative — śru",
+   "grounds": "instruction"
   },
   {
    "lemma": "saṃvidaikātmyatattve@sminsaṃvyavasthite",
-   "morph": "compound",
-   "grounds": "token 8"
+   "morph": "compound = saṃvid+member + ekātmya+member + tattva+member + asmin+member + saṃvyavasthita+membership",
+   "grounds": "doctrinal-ground"
   }
  ]
 }
