@@ -358,11 +358,12 @@ def assemble(work: str, song: str) -> dict:
 
 @mcp.tool()
 def supervise(start_missing: bool = False) -> dict:
-    """Report the autonomous loop: continue.sh (registry sync + ralph
-    supervision), ralph.sh (workers + auto-review + convert + gate + push),
-    watchdog.sh (429 health-pause + stale-reap), tal driver, live workers.
-    With start_missing=true, (re)starts absent supervisors (never duplicates,
-    never pushes itself). The loop is the autonomy — this tool is its button."""
+    """Report the autonomous loop. On this box systemd unit `tal-campaign`
+    (Restart=always) -> watchdog.sh is the ONE supervisor: it health-gates
+    (429 pause), starts the tal driver once (flock), and brings workers up
+    staggered 1->2->3 (cap 3). With start_missing=true this (re)starts the
+    systemd unit if it is inactive — it never spawns continue.sh/ralph.sh by
+    hand (that creates duplicate supervisors), never pushes."""
     import subprocess as _sp
     want = {"continue.sh": "tools/continue.sh", "ralph.sh": "tools/ralph.sh",
             "watchdog.sh": "tools/watchdog.sh", "tal_run_all.sh": "tools/tal_run_all.sh",
@@ -373,35 +374,44 @@ def supervise(start_missing: bool = False) -> dict:
         state[name] = sum(1 for ln in ps.splitlines() if name in ln and "grep" not in ln)
     workers = sum(1 for ln in ps.splitlines() if "beam_swarm.py worker" in ln)
     state["beam_workers"] = workers
+    # systemd unit state (the canonical supervisor here)
+    unit = "tal-campaign"
+    unit_active = None
+    try:
+        unit_active = _sp.run(["systemctl", "is-active", unit],
+                              capture_output=True, text=True).returncode == 0
+    except Exception:
+        unit_active = None
+    state["systemd_unit"] = unit_active
     started = []
     if start_missing:
-        import os as _os
-        env = dict(_os.environ)
-        try:
-            r = _sp.run(["agent-vault", "vault", "credential", "get",
-                         "OPENCODE_GO_KEY", "--vault", "oracle"],
-                        capture_output=True, text=True, timeout=30)
-            if r.returncode == 0 and r.stdout.strip():
-                env["OPENCODE_GO_KEY"] = r.stdout.strip()
-        except Exception:
-            pass
-        def _launch(cmd: list[str], log: str):
-            if any(log in ln for ln in ps.splitlines()):
-                return False
-            _sp.Popen(["setsid", "nohup"] + cmd, stdout=open(ROOT / log, "ab"),
-                      stderr=_sp.STDOUT, stdin=_sp.DEVNULL, env=env,
-                      preexec_fn=_os.setsid if hasattr(_os, "setsid") else None,
-                      cwd=str(ROOT))
-            return True
-        if state["continue.sh"] == 0 and _launch(
-                ["bash", "tools/continue.sh"], "process/beam/continue.log"):
-            started.append("continue.sh")
-        if state["watchdog.sh"] == 0 and _launch(
-                ["bash", "tools/watchdog.sh"], "process/beam/watchdog.log"):
-            started.append("watchdog.sh")
+        if unit_active is False:
+            r = _sp.run(["systemctl", "start", unit], capture_output=True, text=True)
+            started.append(f"systemd:{unit}" if r.returncode == 0
+                            else f"systemd:{unit}:FAILED {r.stderr[:120]}")
+        elif unit_active is None:
+            # no systemd unit — fall back to one watchdog (never both)
+            import os as _os
+            if state["watchdog.sh"] == 0 and state["continue.sh"] == 0:
+                env = dict(_os.environ)
+                try:
+                    kv = _sp.run(["agent-vault", "vault", "credential", "get",
+                                  "OPENCODE_GO_KEY", "--vault", "oracle"],
+                                 capture_output=True, text=True, timeout=30)
+                    if kv.returncode == 0 and kv.stdout.strip():
+                        env["OPENCODE_GO_KEY"] = kv.stdout.strip()
+                except Exception:
+                    pass
+                _sp.Popen(["setsid", "nohup", "bash", "tools/watchdog.sh"],
+                          stdout=open(ROOT / "process/beam/watchdog.log", "ab"),
+                          stderr=_sp.STDOUT, stdin=_sp.DEVNULL, env=env,
+                          cwd=str(ROOT))
+                started.append("watchdog.sh(fallback)")
     return {"supervisors": state, "started": started,
-            "note": "ralph.sh is supervised by continue.sh; workers by ralph/watchdog; "
-                    "driver tal_run_all.sh seeds the campaign. 429 pauses are health-gated, not failures."}
+            "policy": "systemd tal-campaign owns the loop; watchdog staggers "
+                      "workers 1->2->3 (cap 3) and PAUSEs 30m on 429. Do not "
+                      "start continue.sh/ralph.sh by hand alongside it.",
+            "note": "ralph/continue are the no-systemd alternative path only."}
 
 
 @mcp.tool()

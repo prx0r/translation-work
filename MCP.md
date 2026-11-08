@@ -1,6 +1,6 @@
 # MCP.md — shastra MCP: translation-work as callable tools
 
-*2026-11-07. Server: `mcp_server.py` (FastMCP stdio, 14 tools). Registered as
+*2026-11-08. Server: `mcp_server.py` v3.4.7 (FastMCP stdio, **17 tools**). Registered as
 `shastra` in `~/.config/opencode/opencode.jsonc` — restart opencode to load.
 This file is the complete manual: concepts, lanes, every tool with WHEN and
 worked examples, the autonomous loop, troubleshooting, and boundaries. The law
@@ -12,7 +12,7 @@ acting. On any conflict between this file and the skills, the skills win
 
 1. Concepts — DUMB/SMART/scripts, machine-proposed, the layers
 2. Skills — the law, and how to load it
-3. Tool reference — all 14 tools: purpose, args, returns, WHEN, example
+3. Tool reference — all 17 tools: purpose, args, returns, WHEN, example
 4. Standard flows — small work, large work, autonomy (with worked sessions)
 5. Decision trees — which lane, which tool next
 6. Troubleshooting — symptoms, causes, fixes
@@ -172,14 +172,16 @@ the tree is coherent.
 
 ### `supervise(start_missing=false)` — read (+start). The autonomy button.
 
-Reports continue.sh / ralph.sh / watchdog.sh / tal drivers / live workers.
-With `start_missing=true`, (re)starts absent supervisors without duplicating
-running ones; never pushes itself. See §7.
+Reports the loop: systemd unit `tal-campaign` state, watchdog/ralph/continue/
+tal drivers, and live workers. With `start_missing=true` it (re)starts the
+**systemd unit** if inactive (the single supervisor) — it does NOT spawn
+continue.sh/ralph.sh by hand; never pushes. See §7.
 
 ### `swarm_workers(action="status", target="1")` — the throttle.
 
 `status`: live workers + what each holds. `start`: launch up to `target`
-free slots (w1..w5), staggered ~8s, HEALTH-GATED (refuses while beam is down).
+free slots (numbers 1..5; house policy is ≤3), staggered ~8s, HEALTH-GATED
+(refuses while beam is down).
 `stop`: kill named slots (`target: "w4,w5"`) — claims self-heal via stale
 expiry. Doctrine: start ONE; add a second only if quota is healthy; never
 pound a throttled tier. Supervisors (ralph/watchdog) keep their own workers —
@@ -192,6 +194,27 @@ escalation of content-failures-at-max to the hand-draft backlog, `lore_queries`
 seeding for unbriefed fronts. Never bounces, never approves prose, never
 writes data/. Runs inside ralph every pass — the loop's eyes while the model
 sleeps; meaning judgment stays queued.
+
+### `beam_review(task_id="", max_new=1, apply=false)` — SMART-beam reviewer.
+
+One cheap "dumb+smart" pass over the newest unreviewed DONE drafts, bouncing
+ONLY mechanical fails with an actionable note (never approves prose, never
+touches meaning). `task_id` reviews one specific task; omit to sweep. Off by
+default in ralph (`RALPH_BEAM_REVIEW=0`) so it does not steal quota from the
+drafters; turn on when the tier is quiet. Logs every verdict to
+`process/beam/assessor-reviews.jsonl`.
+
+### Review console (CLI, not an MCP tool) — `tools/review_inbox.py`
+
+The assessor's hands-on view while beam drafts: no model calls, reads only
+`process/beam/runs/`. Use it to drive quality by hand.
+
+```
+python3 tools/review_inbox.py coverage tantraloka-a13   # per-layer done/missing + task status
+python3 tools/review_inbox.py verse    tantraloka-a13 58 # source + gloss/cm/am for one verse
+python3 tools/review_inbox.py next     tantraloka-a13    # first verse missing a layer, shown
+python3 tools/review_inbox.py newest                     # newest am drafts across fronts
+```
 
 ## 4. Standard flows (with worked sessions)
 
@@ -254,9 +277,9 @@ anything red → read the error, fix the layer, re-validate (never force)
 
 | Symptom | Cause | Fix |
 |---|---|---|
-| 429 Too Many Requests everywhere | Free-tier quota exhausted — the binding constraint (not workers, not payload; 24-verse groups fit the 128k budget) | Nothing to fix in code. Watchdog pauses 30m; client backs off 180s×attempt. Don't hammer restarts, don't swap models (beam-free hardcoded, owner directive) |
+| 429 Too Many Requests everywhere | Free-tier quota exhausted — the binding constraint (not workers, not payload; model window is 1M in / 384k out, 24-verse groups fit easily) | Nothing to fix in code. Watchdog pauses 30m; client backs off 180s×attempt. Don't hammer restarts, don't swap models (beam-free hardcoded, owner directive) |
 | Workers exit instantly ("queue empty") | Nothing claimable: drained, or claims fresh-held | `swarm_status`: `claimed>0` + workers 0 → wait for 15-min stale expiry (self-heals). Pending 0 + failed-at-max only → seed more or hand-draft the backlog |
-| `finish=length` / null content | Small `max_tokens` vs hidden reasoning budget | `reasoning_effort: low` + generous budget (triple: 131072). Never retry-loop small budgets (mistakes #22) |
+| `finish=length` / null content | Small `max_tokens` vs hidden reasoning budget | `reasoning_effort: low` + generous budget (per-verse 64k, triple 384k = full model output). Never retry-loop small budgets (mistakes #22) |
 | Uniform 8-blocks / "summary unavailable" | Unbriefed beam doing geometry | Write the lore brief; windows ≤60; variety gate rejects >80% same-length spans (mistakes #21) |
 | `premise too short` / `question rejected` / `bad row` at max | Content failure | Hand-draft backlog. Never auto-retry, never vote-promote (mistakes #20: the 3,044-row lesson) |
 | Brief exists, drafts ignore it | Lookup/filename mismatch (this exact bug: `tal-{N}` vs `tal-a{N}`) | Convention is `tal-aNN.md` everywhere; `recon` reports the resolved path — verify it before seeding |
@@ -271,7 +294,7 @@ anything red → read the error, fix the layer, re-validate (never force)
 continue.sh (300s loop) ── sync registry → PLAN.json → seed
       │                      └─ ensures ralph.sh alive
       ▼
-ralph.sh (180s × 240) ── manifest → workers ($RALPH_WORKERS, default 5)
+ralph.sh (180s × 240) ── manifest → workers ($RALPH_WORKERS, default 3, staggered 1→2→3)
       │                   → auto-review (briefs only) → assessor_sweep (verdicts
       │                     + escalations + lore-gap seeding, log only)
       │                   → convert pilots → validate_all --quick → push on green
@@ -290,12 +313,16 @@ assessor (you, on wake) ── lore briefs → swarm_review/decide → hand-draf
 Workers heartbeat their claim flags every 5 min during long beam calls, so a
 24-verse task in 429-backoff is never stolen mid-task; dead workers' claims
 self-heal at 15-min stale expiry.
-      ▼
-tal_run_all.sh / tal_stage.py --loop ── seed → wait → assemble → validate → proof
-      ▼
-assessor (you, on wake) ── lore briefs → swarm_review/decide → hand-draft backlog
-                          → assemble/promote → HANDOVER → human review queue
-```
+
+**Deployment note (2026-11-08).** On this box the *only* supervisor is
+`systemd` unit `tal-campaign.service` (Restart=always) → `watchdog.sh`. The
+watchdog is the single health-gated authority: it probes beam, PAUSEs 30m on
+429, starts the `tal_run_all` driver once (flock), and brings workers up
+**staggered — one new slot per healthy 60s pass, hard cap 3**
+(`WORKERS=3`). Do not also launch `continue.sh`/`ralph.sh` by hand alongside
+it; that creates duplicate supervisors. Use `supervise` to inspect, and let
+the unit own the loop. Worker cap and stagger are set in the unit env +
+`watchdog.sh::start_workers`.
 
 `shastra.supervise` reports and (re)starts this stack. Judgment stays queued:
 pilot prose, fork calls, BLOCKED dispositions, signoffs. Sampling (1-in-5
@@ -323,9 +350,10 @@ session; a 4-token verse should never cost a swarm round-trip. Size routing
 launder shared error. Proven on easy verses only (tsa-a02-v01 4/4 traces) —
 assumed weak until proven otherwise.
 
-**Why 24 verses per triple call?** Fewer, bigger requests: uses the 128k
-output budget, dodges the per-request 429 limiter. Oversize groups auto-halve
-on output ceiling. Seeding is free; quota is not.
+**Why 24 verses per triple call?** Fewer, bigger requests: the model gives
+1M-token context and 384k-token output; each triple packet carries the FULL
+transmission brief + legacy per-token hints + neighbouring verses. Oversize
+groups auto-halve on the output ceiling. Seeding is free; quota is not.
 
 **Why do workers keep dying?** They exit when nothing is claimable — by
 design. Supervisors relaunch per batch. A dead worker's claim self-heals via
