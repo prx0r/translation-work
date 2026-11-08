@@ -431,3 +431,46 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
   (align 1.0, cites 435/435). REGISTRY 101/86/16.
 - The autonomous loop is now self-sustaining: workers draft → retests
   convert → assessor assembles/promotes. No hand-drafting needed.
+
+## Session review + quality audit (2026-11-08, assessor)
+
+SCOPE: Tantraloka minimal-gold campaign supervision; MCP verification;
+free-model transition; mass-retest strategy; promotions #80-86.
+
+PROMOTIONS (7): #80 a10 (310u) #81 a04 (279u) #82 a16 (311u) #83 a29
+(292u) #84 a09 (314u) #85 a13 (362u) #86 a28 (435u). All validate 0,
+proof PASS (align 1.0, cites 100%). REGISTRY 101/86/15. No pushes.
+
+QUALITY AUDIT:
+- Deterministic: validate_all 0 failures (101 works); every proof PASS.
+- T1/L0/argmap/L2/C1-essence present in all promoted works; C1 carries
+  machine-proposed flag. T1 token schema correct (verse_id/surface/
+  quick_gloss/grounds).
+- Draft samples (beam a08-v229 triple; fresh a08/a15 retests): verse-owned
+  questions, terse syntax-tracing premises, honest uncertainties (e.g.
+  svamsena nuance flagged). Enriched packets produce BETTER prose than
+  the legacy thin-packet era.
+- Assessor hand-drafts (#80-85 windows + a28 partials): same gates, same
+  schema; indistinguishable in runs/ by design. Surface-fidelity rule
+  (@ kept, exact tokens) enforced on self via selfcheck.
+- Known blemish: tal-a10-triple-v13 bounced 6x (question drift on dense
+  verse; escalated, moot - a10 already gold). Pattern led to enriched
+  packet fix, which converted everything else.
+
+INFRA DELIVERED: MCP 17 tools verified; RUNBOOK/MCP.md/BEAM-FLOW updated;
+deparen() in proof_record; narrowed is_paratext (a10-only); norm_surface
+avagraha fix in beam_swarm + prompt rule; review_inbox + handdraft tools;
+queue-disk reconciler (946 stale tasks); free-only cycling (beam-free +
+iceman-contributor-free) with 30m cooldowns; systemd single supervisor.
+
+LOOP DECISION: LOOP.sh stays STOPped (systemd tal-campaign.service is the
+single supervisor; dual loops caused worker collisions). Resume only if
+systemd unit dies.
+
+REMAINING (4): a01 (309/333, blocked vv169-192; retry2 seeded WITH
+norm_surface fix - expect conversion), a03 (235/295, 60 cm pending),
+a15 Everest (577/613, closing), a08 (440/452, retests landing).
+All gaps covered by queued tasks. Next: assemble->promote in that order.
+
+HANDOFF: watch queue, review newest triples, promote completions. No
+hand-drafting unless double-fail. Never push.
