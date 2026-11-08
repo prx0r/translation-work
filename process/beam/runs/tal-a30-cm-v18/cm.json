@@ -1,61 +1,61 @@
 {
- "song": "",
- "verse": 1,
+ "song": "tal-a30",
+ "verse": 18,
  "rows": [
   {
-   "lemma": "oṃkāra",
-   "morph": "m.nom.sg",
-   "grounds": "om-syllable-then"
+   "lemma": "oṃkāro@tha",
+   "morph": "m.nom.sg; cpd=oṃ+kāra; indecl=atha",
+   "grounds": "legacy hint; om opening"
   },
   {
-   "lemma": "caturthyanta",
-   "morph": "f.nom.sg",
-   "grounds": "fourth-case-ending"
+   "lemma": "caturthyantā",
+   "morph": "f.nom.sg; cpd=caturthī+anta",
+   "grounds": "legacy hint; grammatical ending"
   },
   {
    "lemma": "saṃjñā",
    "morph": "f.nom.sg",
-   "grounds": "name"
+   "grounds": "legacy hint; naming"
   },
   {
-   "lemma": "na iti",
-   "morph": "indecl.",
-   "grounds": "not-so-thus"
+   "lemma": "natiriti",
+   "morph": "f.nom.sg; indecl=iti",
+   "grounds": "legacy hint; doubtful legacy gloss"
   },
   {
-   "lemma": "krama",
-   "morph": "m.abl.sg",
-   "grounds": "in-order"
+   "lemma": "kramāt",
+   "morph": "(indecl.)",
+   "grounds": "legacy hint; sequence"
   },
   {
-   "lemma": "gaṇeśādi",
-   "morph": "m.loc.pl",
-   "grounds": "in-ganesha-etc"
+   "lemma": "gaṇeśādiṣu",
+   "morph": "m.loc.pl; cpd=gaṇeśa+ādi",
+   "grounds": "legacy hint; deity list"
   },
   {
-   "lemma": "mantra",
+   "lemma": "mantraḥ",
    "morph": "m.nom.sg",
-   "grounds": "mantra"
+   "grounds": "legacy hint; formula"
   },
   {
-   "lemma": "syāt bījam",
-   "morph": "3sg.opt.act √as + n.nom.sg",
-   "grounds": "would-be-seed"
+   "lemma": "syādbījaṃ",
+   "morph": "3.sg.act.opt; root=as; n.nom.sg=bīja",
+   "grounds": "legacy hint; seed status"
   },
   {
-   "lemma": "yad",
-   "morph": "m.loc.pl",
-   "grounds": "in-which"
+   "lemma": "yeṣu",
+   "morph": "pron.m.loc.pl",
+   "grounds": "legacy hint; relative"
   },
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "not"
+   "morph": "(indecl.)",
+   "grounds": "legacy hint; negation"
   },
   {
-   "lemma": "codita",
-   "morph": "n.nom.sg",
-   "grounds": "declared"
+   "lemma": "coditam",
+   "morph": "n.nom.sg; pp",
+   "grounds": "legacy hint; instruction"
   }
  ]
 }

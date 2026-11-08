@@ -1,0 +1,991 @@
+{
+ "song": "Tantraloka a30.105-120",
+ "items": [
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "guruṇā",
+     "gloss": "by-the-guru",
+     "grounds": "legacy hint",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tattvavidā",
+     "gloss": "by-the-truth-knower",
+     "grounds": "legacy hint; compound split",
+     "morph": "m.ins.sg; tattva+vid"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śiṣyo",
+     "gloss": "student",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mokṣamātrakṛtahṛdayaḥ",
+     "gloss": "liberation-only-made-heart",
+     "grounds": "legacy hint; compound split",
+     "morph": "m.nom.sg; mokṣa+mātra+kṛta+hṛdaya"
+    },
+    {
+     "surface": "mokṣaikadānacaturā",
+     "gloss": "liberation-alone-gift-skilled",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; mokṣa+eka+dāna+caturā"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "this",
+     "grounds": "legacy hint; contraction",
+     "morph": "f.nom.sg; sā+iyam"
+    },
+    {
+     "surface": "paropaniṣaduktā",
+     "gloss": "supreme-upanishad-stated",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; para+upaniṣad+uktā"
+    }
+   ],
+   "question": "How does the guru's liberation-only initiation work for the student whose heart seeks only liberation?",
+   "premises": [
+    "A truth-knowing guru initiates a student.",
+    "The student's heart is set only on liberation.",
+    "The initiation grants liberation alone and is taught in the supreme Upanishad."
+   ],
+   "inference": "Such an initiation is sufficient for the liberation-only student.",
+   "uncertainties": [
+    "seyaṃ is a contraction and its referent is not explicit.",
+    "paropaniṣad may name a specific text or teaching."
+   ],
+   "plain_english": "If a student whose heart is set only on liberation is initiated by a guru who knows reality, this initiation, skilled in granting liberation alone, is declared in the supreme Upanishad."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "etaddīkṣādīkṣita",
+     "gloss": "this-initiation-initiated",
+     "grounds": "legacy hint; compound split",
+     "morph": "m.nom.sg; etad+dīkṣā+dīkṣita"
+    },
+    {
+     "surface": "etadvidyātrayaṃ",
+     "gloss": "this-knowledge-triad",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; etad+vidyā+traya"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg; smṛ"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhyārcādi",
+     "gloss": "external-worship-etc",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.acc.sg; bāhya+arcā+ādi"
+    },
+    {
+     "surface": "vinaiva",
+     "gloss": "without-indeed",
+     "grounds": "legacy hint; contraction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vrajati",
+     "gloss": "goes",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.pres; vraj"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "abode",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dehānte",
+     "gloss": "at-end-of-body",
+     "grounds": "legacy hint; compound split",
+     "morph": "m.loc.sg; deha+anta"
+    }
+   ],
+   "question": "What happens at death to one initiated by this initiation and remembering the knowledge triad?",
+   "premises": [
+    "The initiated person remembers the threefold knowledge in the heart.",
+    "External worship and the like are not required.",
+    "At the body's end that person goes to the supreme abode."
+   ],
+   "inference": "Initiation plus inward remembrance leads to the supreme abode without outer ritual.",
+   "uncertainties": [
+    "bāhyārcādi may depend on a different case than shown.",
+    "vrajati may have an implied subject other than the initiate."
+   ],
+   "plain_english": "One initiated by this initiation, remembering the threefold knowledge in the heart, goes to the supreme abode at the end of the body without external worship and the like."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "praṇavo",
+     "gloss": "om",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "illusion",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bindurvarṇatrayamāditaḥ",
+     "gloss": "bindu-three-letters-from-start",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; bindu+varṇa+traya+āditas"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt; kṛ"
+    },
+    {
+     "surface": "padapañcakasya",
+     "gloss": "of-five-word-formula",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.gen.sg; pada+pañcaka"
+    },
+    {
+     "surface": "saṃbodhanayuktasyāgnidayitānte",
+     "gloss": "with-address-joined-fire-beloved-end",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.gen.sg; saṃbodhana+yukta+agni+dayitā+anta"
+    }
+   ],
+   "question": "How is the five-word formula with address and fire-beloved ending constructed from OM, Māyā, and bindu?",
+   "premises": [
+    "OM, Māyā, and bindu are placed at the beginning.",
+    "The formula has five words.",
+    "Its address and ending are joined to the fire-beloved."
+   ],
+   "inference": "The ritual formula is built by prefixing OM, Māyā, and bindu to a five-word address formula ending in Agnidayitā.",
+   "uncertainties": [
+    "The exact placement of bindu and the three letters is unclear.",
+    "Agnidayitā may be a name or an epithet."
+   ],
+   "plain_english": "One should make OM, Māyā, and bindu at the start of the five-word formula joined with an address and ending with Agnidayitā."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "siddhasādhani",
+     "gloss": "o-accomplished-accomplishing",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.voc.sg; siddha+sādhani"
+    },
+    {
+     "surface": "tatpūrvaṃ",
+     "gloss": "before-that",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; tad+pūrva"
+    },
+    {
+     "surface": "śabdabrahmasvarūpiṇi",
+     "gloss": "sound-brahman-form",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.voc.sg; śabda+brahman+svarūpa"
+    },
+    {
+     "surface": "samastabandhaśabdena",
+     "gloss": "all-bond-word-by",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.ins.sg; samasta+bandha+śabda"
+    },
+    {
+     "surface": "sahitaṃ",
+     "gloss": "joined",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nikṛntani",
+     "gloss": "o-cutting-one",
+     "grounds": "legacy hint",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the cutting mantra joined with the all-bond word and prefixed by that?",
+   "premises": [
+    "The formula is addressed to Siddhasādhani.",
+    "It is prefixed with tat.",
+    "The word for all bonds joins it and it cuts."
+   ],
+   "inference": "The mantra consists of that prefix, the sound-brahman form, and the all-bond word, and it severs bonds.",
+   "uncertainties": [
+    "siddhasādhani and nikṛntani are vocatives whose deity is not named here.",
+    "The placement of tatpūrva is not fully specified."
+   ],
+   "plain_english": "O Siddhasādhani, O sound-brahman form, the cutting formula is joined with the word for all bonds and prefixed by that."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "bodhani",
+     "gloss": "o-awakening-one",
+     "grounds": "legacy hint",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śivasadbhāvajananyāmantritaṃ",
+     "gloss": "invoked-by-shiva-true-being-mother",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; śiva+sadbhāva+jananī+āmantrita"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcāṣṭarandhratryaṣṭārṇakrameṇa",
+     "gloss": "five-eight-nine-three-eight-order",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.ins.sg; pañca+aṣṭa+randhra+tri+aṣṭa+arṇa+krama"
+    },
+    {
+     "surface": "padapañcakam",
+     "gloss": "five-word-formula",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; pada+pañcaka"
+    }
+   ],
+   "question": "How is the five-word formula invoked by the mother of Shiva's true being arranged in the five-eight-three-eight syllable order?",
+   "premises": [
+    "Bodhani is addressed.",
+    "The formula is invoked by the mother of Shiva's true being.",
+    "Its five words follow the five-eight-three-eight syllable sequence."
+   ],
+   "inference": "The mantra's five parts are ordered by that syllable pattern under the invoked goddess.",
+   "uncertainties": [
+    "The numbers may count syllables or bījas.",
+    "The identity of the mother of Shiva's true being is not spelled out."
+   ],
+   "plain_english": "O Bodhani, that five-word formula, invoked by the mother of Shiva's true being, is arranged in the five-eight-nine-three-eight order."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "khapañcārṇā",
+     "gloss": "kha-five-syllable",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; kha+pañca+arṇa"
+    },
+    {
+     "surface": "parabrahmavidyeyaṃ",
+     "gloss": "supreme-brahman-knowledge-this",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; para+brahman+vidyā+iyam"
+    },
+    {
+     "surface": "mokṣadā",
+     "gloss": "liberation-giving",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivā",
+     "gloss": "auspicious",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anuttarecche",
+     "gloss": "supreme-desire",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; anuttara+icchā"
+    },
+    {
+     "surface": "ghāntaśca",
+     "gloss": "gha-ending-and",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; gha+anta+ca"
+    },
+    {
+     "surface": "satrayodaśasusvaraḥ",
+     "gloss": "with-thirteen-good-sounds",
+     "grounds": "legacy hint; compound split",
+     "morph": "m.nom.sg; sa+trayodaśa+su-svara"
+    }
+   ],
+   "question": "What is the five-syllable supreme-brahman knowledge that gives liberation and has thirteen good sounds?",
+   "premises": [
+    "The knowledge is called kha-five-syllable.",
+    "It is supreme-brahman knowledge, liberation-giving, and auspicious.",
+    "It has a gha ending and thirteen good sounds."
+   ],
+   "inference": "This goddess-formula is a liberating supreme-brahman vidyā with thirteen sound units.",
+   "uncertainties": [
+    "khapañcārṇā may mean five syllables beginning with kha.",
+    "ghāntaśca and satrayodaśasusvaraḥ are damaged or unclear."
+   ],
+   "plain_english": "This five-syllable Kha formula is supreme-brahman knowledge, liberation-giving, auspicious, with supreme desire, a gha ending, and thirteen good sounds."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "legacy hint",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "varṇatrayasyānte",
+     "gloss": "at-end-of-three-letters",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.loc.sg; varṇa+traya+anta"
+    },
+    {
+     "surface": "tvantaḥsthānāṃ",
+     "gloss": "t-ending-semi-vowels",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.gen.pl; t+antaḥsthā"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "fourfold-set",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vargādyaśvau",
+     "gloss": "class-first-horse-two",
+     "grounds": "legacy hint; compound split",
+     "morph": "m.nom.du; varga+ādya+aśva"
+    },
+    {
+     "surface": "tryasrabinduyuk",
+     "gloss": "triangle-bindu-joined",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; tri-asra+bindu+yuk"
+    },
+    {
+     "surface": "pānto@rṇatrayādataḥ",
+     "gloss": "after-p-three-letters-from",
+     "grounds": "legacy hint; obscure compound",
+     "morph": "n.abl.sg; p+anta+arṇa+traya+ādatas"
+    }
+   ],
+   "question": "How are the syllables placed at the end of the three letters and around the semivowels ending in t?",
+   "premises": [
+    "At the end of the three letters stands a fourfold set.",
+    "The first of the class and the horse are joined with triangle and bindu.",
+    "After p there are three letters."
+   ],
+   "inference": "The mantra's syllables are assembled from these specified letter positions.",
+   "uncertainties": [
+    "tvantaḥsthānāṃ and pānto@rṇatrayādataḥ are obscure.",
+    "The exact letters intended by class-first and horse are uncertain."
+   ],
+   "plain_english": "At the end of the three letters stands a fourfold set; the first of the class and the horse are joined with triangle and bindu; after p there are three letters."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "mahāhāṭakaśabdādyamīśvarītyarṇasaptakam",
+     "gloss": "mahāhāṭaka-word-īśvarī-seven-syllable",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; mahāhāṭaka+śabda+īśvarī+arṇa+saptaka"
+    },
+    {
+     "surface": "āmantritaṃ",
+     "gloss": "addressed",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣamasveti",
+     "gloss": "forgive-thus",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tryarṇaṃ",
+     "gloss": "three-syllable",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpāntakāriṇi",
+     "gloss": "o-sin-destroying-one",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.voc.sg; pāpa+anta+kārin"
+    }
+   ],
+   "question": "What is the seven-syllable mantra beginning with Mahāhāṭaka and Īśvarī that destroys sin?",
+   "premises": [
+    "The seven-syllable formula begins with Mahāhāṭaka and Īśvarī.",
+    "It is addressed with the word forgive.",
+    "It has three syllables and destroys sin."
+   ],
+   "inference": "This addressed seven-syllable goddess mantra includes a three-syllable forgive formula and destroys sin.",
+   "uncertainties": [
+    "mahāhāṭakaśabda may be a bīja or a name.",
+    "The placement of the three syllables is not stated."
+   ],
+   "plain_english": "The seven-syllable formula beginning with Mahāhāṭaka and Īśvarī is addressed with forgive; it has three syllables and destroys sin."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "ṣaḍarṇaṃ",
+     "gloss": "six-syllable",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpaśabdādivimohanipadaṃ",
+     "gloss": "sin-word-beginning-deluding-word",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; pāpa+śabda+ādi+vimohana+pada"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hana",
+     "gloss": "kill",
+     "grounds": "legacy hint",
+     "morph": "2.sg.act.imp; han"
+    },
+    {
+     "surface": "dhuna",
+     "gloss": "shake-off",
+     "grounds": "legacy hint",
+     "morph": "2.sg.act.imp; dhū"
+    },
+    {
+     "surface": "dvirdvirdaśārṇaṃ",
+     "gloss": "twice-twice-ten-syllable",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; dvir+dvir+daśa+arṇa"
+    },
+    {
+     "surface": "padamīdṛśam",
+     "gloss": "such-word",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; pada+īdṛśa"
+    }
+   ],
+   "question": "What is the six-syllable and twenty-syllable formula beginning with the word sin and including kill and shake off?",
+   "premises": [
+    "A six-syllable formula begins with the word pāpa and a deluding word.",
+    "Then the words pāpa, hana, and dhuna occur.",
+    "A twenty-syllable formula has such a word."
+   ],
+   "inference": "These are sin-destroying mantra formulas built from pāpa, hana, and dhuna.",
+   "uncertainties": [
+    "dvirdvirdaśārṇa may mean twice-twelve or twenty.",
+    "hana and dhuna may be imperatives or seed syllables."
+   ],
+   "plain_english": "The six-syllable formula begins with the word pāpa and a deluding word; then sin, kill, and shake off; the twenty-syllable formula has such a word."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "pañcamyantaṃ",
+     "gloss": "fifth-ending",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; pañcamī+anta"
+    },
+    {
+     "surface": "ṣaḍarṇaṃ",
+     "gloss": "six-syllable",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syādrudraśaktivaśāditi",
+     "gloss": "may-be-rudra-power-by-thus",
+     "grounds": "legacy hint; compound split",
+     "morph": "indecl.; syāt+rudra+śakti+vaśa+iti"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ekākṣaraṃ",
+     "gloss": "one-syllable",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yattadvisargabrahma",
+     "gloss": "that-visarga-brahman",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; yad+tad+visarga+brahman"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does the six-syllable formula ending in the fifth form combine with the one-syllable visarga-brahman through Rudra's power?",
+   "premises": [
+    "A six-syllable formula ends with the fifth form.",
+    "It is pronounced as may-be by Rudra's power.",
+    "Then the one-syllable visarga-brahman is declared."
+   ],
+   "inference": "Rudra's power joins the six-syllable formula to the one-syllable brahman.",
+   "uncertainties": [
+    "pañcamyanta may refer to an ablative or ordinal ending.",
+    "visargabrahma is not identified further here."
+   ],
+   "plain_english": "The six-syllable formula ending in the fifth form is pronounced as may-be by Rudra's power; then the one-syllable visarga-brahman is declared."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "tadanackatakāreṇa",
+     "gloss": "by-that-uncertain-letter",
+     "grounds": "legacy hint; obscure compound",
+     "morph": "n.ins.sg; tad+anacka+takāra"
+    },
+    {
+     "surface": "sahaikībhāvataḥ",
+     "gloss": "from-union-with",
+     "grounds": "legacy hint; compound split",
+     "morph": "m.abl.sg; saha+ekībhāva"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt; paṭh"
+    },
+    {
+     "surface": "randhrābdhivarṇā",
+     "gloss": "nine-four-letter",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; randhra+abdhi+varṇa"
+    },
+    {
+     "surface": "vidyeyaṃ",
+     "gloss": "this-knowledge",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; vidyā+iyam"
+    },
+    {
+     "surface": "dīkṣāvidyeti",
+     "gloss": "initiation-knowledge-thus",
+     "grounds": "legacy hint; compound split",
+     "morph": "indecl.; dīkṣā+vidyā+iti"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "is-called",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should one recite this knowledge as initiation knowledge using union with that uncertain letter and the nine-four letter count?",
+   "premises": [
+    "One recites with union to that uncertain letter.",
+    "The knowledge has letters counted as nine and four.",
+    "It is called initiation knowledge."
+   ],
+   "inference": "This recitation combines the uncertain letter with the nine-four knowledge formula and is known as initiation knowledge.",
+   "uncertainties": [
+    "anackatakāra is obscure.",
+    "randhrābdhi may be 9-4 or another numeral code."
+   ],
+   "plain_english": "Through union with that uncertain letter one should recite this nine-four-letter knowledge, called initiation knowledge."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "māyārṇañca",
+     "gloss": "māyā-syllable-and",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; māyā+arṇa+ca"
+    },
+    {
+     "surface": "pare",
+     "gloss": "supreme",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahme",
+     "gloss": "in-brahman",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caturvidye",
+     "gloss": "in-fourfold-knowledge",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.loc.sg; catur+vidyā"
+    },
+    {
+     "surface": "padatrayam",
+     "gloss": "three-word-formula",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; pada+traya"
+    },
+    {
+     "surface": "aṣṭārṇamatha",
+     "gloss": "eight-syllable-then",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; aṣṭa+arṇa+atha"
+    },
+    {
+     "surface": "pañcārṇaṃ",
+     "gloss": "five-syllable",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yogadhāriṇisaṃjñitam",
+     "gloss": "yogadhāriṇī-named",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; yoga+dhāriṇī+saṃjñita"
+    }
+   ],
+   "question": "Which formulas are placed in the supreme brahman and fourfold knowledge as the three-word, eight-syllable, and five-syllable Yogadhāriṇi?",
+   "premises": [
+    "Māyā's syllable is in the supreme brahman.",
+    "In the fourfold knowledge there is a three-word formula.",
+    "Then an eight-syllable and a five-syllable are named Yogadhāriṇi."
+   ],
+   "inference": "The mantra set comprises Māyā, a three-word formula, and eight- and five-syllable Yogadhāriṇi formulas.",
+   "uncertainties": [
+    "caturvidye may be a deity-name rather than a knowledge.",
+    "The placement of ca is not fully clear."
+   ],
+   "plain_english": "Māyā's syllable is in the supreme brahman; in the fourfold knowledge there is a three-word formula, then an eight-syllable and a five-syllable named Yogadhāriṇi."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "ātmāntarātmaparamātmarūpaṃ",
+     "gloss": "self-inner-self-supreme-self-form",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; ātman+antar+ātman+parama+ātman+rūpa"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "padatrayam",
+     "gloss": "three-word-formula",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; pada+traya"
+    },
+    {
+     "surface": "ekārāntaṃ",
+     "gloss": "e-ending",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; e+āra+anta"
+    },
+    {
+     "surface": "bodhanasthaṃ",
+     "gloss": "knowledge-situated",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; bodhana+stha"
+    },
+    {
+     "surface": "daśārṇaṃ",
+     "gloss": "ten-syllable",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the ten-syllable formula with three words ending in e and situated in awakening, formed as self, inner self, and supreme self?",
+   "premises": [
+    "The formula has the form self, inner self, and supreme self.",
+    "It is three words.",
+    "It ends in e, stands in awakening, and has ten syllables."
+   ],
+   "inference": "This ten-syllable mantra is proclaimed as the threefold self-form ending in e within awakening.",
+   "uncertainties": [
+    "ekārānta may modify one word rather than the whole formula.",
+    "bodhanastha may refer to a place or a deity."
+   ],
+   "plain_english": "The formula of self, inner self, and supreme self is three words, ends in e, stands in awakening, and is proclaimed as ten syllables."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "rudraśaktīti",
+     "gloss": "rudra-shakti-thus",
+     "grounds": "legacy hint; compound split",
+     "morph": "indecl.; rudra+śakti+iti"
+    },
+    {
+     "surface": "vedārṇaṃ",
+     "gloss": "veda-syllable",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; veda+arṇa"
+    },
+    {
+     "surface": "syādrudradayite@tha",
+     "gloss": "may-be-rudra-beloved-then",
+     "grounds": "legacy hint; damaged compound",
+     "morph": "indecl.; syāt+rudra+dayita+atha"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "legacy hint",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dahadahetyeṣā",
+     "gloss": "burn-burn-thus-this",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; dahadaha+iti+eṣā"
+    },
+    {
+     "surface": "dvādaśārṇā",
+     "gloss": "twelve-syllable",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catuṣpadī",
+     "gloss": "four-footed",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the twelve-syllable four-footed formula of Rudra's power that says burn, burn and removes my sin?",
+   "premises": [
+    "The formula is called Rudra's power.",
+    "It contains the words burn, burn.",
+    "It has twelve syllables and four feet and removes my sin."
+   ],
+   "inference": "This four-footed twelve-syllable goddess formula burns away sin through Rudra's power.",
+   "uncertainties": [
+    "syādrudradayite@tha is damaged.",
+    "dahadahetyeṣā is a contraction whose exact division is unclear."
+   ],
+   "plain_english": "The twelve-syllable four-footed formula of Rudra's power says burn, burn and removes my sin."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "saumye",
+     "gloss": "o-gentle-one",
+     "grounds": "legacy hint",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sadāśive",
+     "gloss": "o-sadāśiva",
+     "grounds": "legacy hint",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yugmaṃ",
+     "gloss": "pair",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭkaṃ",
+     "gloss": "six",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bindviṣusāvahā",
+     "gloss": "bindu-arrow-bringing",
+     "grounds": "legacy hint; obscure compound",
+     "morph": "f.nom.sg; bindu+iṣu+sāvaha"
+    },
+    {
+     "surface": "sārdhavarṇacatuṣkaṃ",
+     "gloss": "half-syllable-four",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; sārdha+varṇa+catuṣka"
+    },
+    {
+     "surface": "tadityeṣā",
+     "gloss": "that-thus-this",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; tad+iti+eṣā"
+    },
+    {
+     "surface": "samayāpahā",
+     "gloss": "convention-removing",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; samayā+apahā"
+    }
+   ],
+   "question": "What is the pair of six with bindu and arrow, the half-four syllables, that removes convention in gentle Sadāśiva?",
+   "premises": [
+    "The address is to gentle Sadāśiva.",
+    "There is a pair of six and a half-four syllable set.",
+    "It brings bindu and arrow and removes convention."
+   ],
+   "inference": "This formula in Sadāśiva combines six-pair and half-four units to remove convention.",
+   "uncertainties": [
+    "yugmaṃ ṣaṭkaṃ may mean 6+6 or 2+6.",
+    "bindviṣusāvahā is an obscure compound."
+   ],
+   "plain_english": "O gentle Sadāśiva, the pair of six with bindu and arrow, the half-four syllables, is this convention-removing formula."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sārdhārṇakhaśarasaṃkhyā",
+     "gloss": "half-syllable-kha-arrow-number",
+     "grounds": "legacy hint; compound split",
+     "morph": "f.nom.sg; sārdha+arṇa+kha+śara+saṃkhyā"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pārameśvarī",
+     "gloss": "supreme-lady",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "etadvidyātrayaṃ",
+     "gloss": "this-knowledge-triad",
+     "grounds": "legacy hint; compound split",
+     "morph": "n.nom.sg; etad+vidyā+traya"
+    },
+    {
+     "surface": "śrīmadbhūtirājo",
+     "gloss": "glorious-bhūtirāja",
+     "grounds": "legacy hint; compound split",
+     "morph": "m.nom.sg; śrīmad+bhūtirāja"
+    },
+    {
+     "surface": "nyarūpayat",
+     "gloss": "described",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.impf; rūp"
+    }
+   ],
+   "question": "Which three knowledges did glorious Bhūtirāja describe, including the supreme lady with half-syllable, kha, arrow, and number?",
+   "premises": [
+    "The knowledge has half-syllable, kha, arrow, and number count.",
+    "She is the supreme lady.",
+    "Glorious Bhūtirāja described this triad of knowledges."
+   ],
+   "inference": "Bhūtirāja set out the three-vidyā set whose supreme lady formula uses that numeric syllable pattern.",
+   "uncertainties": [
+    "sārdhārṇakhaśarasaṃkhyā numerals are uncertain.",
+    "Bhūtirāja's identity is not specified here."
+   ],
+   "plain_english": "This knowledge is the supreme lady with half-syllable, kha, arrow, and number; glorious Bhūtirāja described this triad of knowledges."
+  }
+ ]
+}

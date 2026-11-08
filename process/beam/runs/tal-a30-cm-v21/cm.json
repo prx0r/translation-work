@@ -1,36 +1,36 @@
 {
- "song": "unknown",
- "verse": 1,
+ "song": "tal-a30",
+ "verse": 21,
  "rows": [
   {
-   "lemma": "punardevītraya",
-   "morph": "gen.sg.n",
-   "grounds": "again-three-goddesses-of-also: genitive singular of compound"
+   "lemma": "punardevītrayasyāpi",
+   "morph": "indecl=punaḥ; n.gen.sg; cpd=devī+traya; indecl=api",
+   "grounds": "legacy hint; three goddesses again"
   },
   {
-   "lemma": "kramādāmantraṇatraya",
-   "morph": "acc.sg.n",
-   "grounds": "order-by-three-invocations: accusative singular neuter compound"
+   "lemma": "kramādāmantraṇatrayam",
+   "morph": "indecl=kramāt; n.nom.sg; cpd=āmantraṇa+traya",
+   "grounds": "legacy hint; invocation sequence"
   },
   {
-   "lemma": "dvitīyasminpadekāra",
-   "morph": "loc.sg.m",
-   "grounds": "second-word-in-kāra: locative singular masculine compound"
+   "lemma": "dvitīyasminpade@kāra",
+   "morph": "n.loc.sg; cpd=dvitīya+pada+akāra",
+   "grounds": "legacy hint; word position"
   },
   {
-   "lemma": "ekāra",
-   "morph": "gen.sg.m",
-   "grounds": "e-sound-of-here: genitive singular masculine"
+   "lemma": "ekārasyeha",
+   "morph": "n.gen.sg=ekāra; indecl=iha",
+   "grounds": "legacy hint; vowel substitution"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "and: indeclinable conjunction"
+   "morph": "(indecl.)",
+   "grounds": "legacy hint; connector"
   },
   {
-   "lemma": "smṛta",
-   "morph": "nom.sg.m",
-   "grounds": "mentioned: past passive participle nominative singular masculine"
+   "lemma": "smṛtaḥ",
+   "morph": "m.nom.sg; pp",
+   "grounds": "legacy hint; traditional teaching"
   }
  ]
 }

@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a30",
+ "verse": 23,
  "rows": [
   {
-   "lemma": "akārayuktāvastra",
-   "morph": "acc.sg.n",
-   "grounds": "gloss akāra-endowed-naked + form -ṃ"
+   "lemma": "akārayuktāvastraṃ",
+   "morph": "n.nom.sg; cpd=akāra+yukta+astra",
+   "grounds": "legacy hint; weapon formula"
   },
   {
    "lemma": "huṃ",
-   "morph": "indecl.",
-   "grounds": "gloss hum + indeclinable particle"
+   "morph": "(indecl.)",
+   "grounds": "legacy hint; seed syllable"
   },
   {
    "lemma": "ha",
-   "morph": "indecl.",
-   "grounds": "gloss ha + indeclinable particle"
+   "morph": "(indecl.)",
+   "grounds": "legacy hint; syllable"
   },
   {
-   "lemma": "visargin",
-   "morph": "nom.sg.m",
-   "grounds": "gloss visarga-possessor + form -ī"
+   "lemma": "visargī",
+   "morph": "m.nom.sg; cpd=visarga+in",
+   "grounds": "legacy hint; visarga bearer"
   },
   {
    "lemma": "punaḥ",
-   "morph": "indecl.",
-   "grounds": "gloss again + indeclinable"
+   "morph": "(indecl.)",
+   "grounds": "legacy hint; repetition"
   },
   {
-   "lemma": "śara",
-   "morph": "nom.sg.m",
-   "grounds": "gloss arrow + form -ḥ"
+   "lemma": "śaraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "legacy hint; arrow image"
   },
   {
-   "lemma": "tāra",
-   "morph": "instr.sg.m/n",
-   "grounds": "gloss with-tārā + form -eṇa"
+   "lemma": "tāreṇa",
+   "morph": "f.instr.sg",
+   "grounds": "legacy hint; Tārā name"
   },
   {
    "lemma": "saha",
-   "morph": "indecl.",
-   "grounds": "gloss with + indeclinable"
+   "morph": "(indecl.)",
+   "grounds": "legacy hint; accompaniment"
   },
   {
    "lemma": "vasvagnivarṇārdhārṇadvayādhikā",
-   "morph": "nom.sg.f",
-   "grounds": "gloss vasu-fire-color-half-syllable-two-exceeding + form -ā"
+   "morph": "f.nom.sg; cpd=vasu+agni+varṇa+ardha+arṇa+dvaya+adhika",
+   "grounds": "legacy hint; syllable arithmetic"
   }
  ]
 }

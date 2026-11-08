@@ -1,46 +1,46 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a30",
+ "verse": 22,
  "rows": [
   {
-   "lemma": "tatas",
+   "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "gloss 'then' + form tataḥ"
+   "grounds": "legacy hint; sequence"
   },
   {
-   "lemma": "śaktidvayāmantra",
-   "morph": "compound, nom.sg.m",
-   "grounds": "gloss 'mantra-of-two-powers' + form śaktidvayāmantro"
+   "lemma": "śaktidvayāmantro",
+   "morph": "m.nom.sg; cpd=śakti+dvaya+mantra",
+   "grounds": "legacy hint; two powers"
   },
   {
-   "lemma": "lupta",
-   "morph": "pp, nom/acc.sg.n",
-   "grounds": "gloss 'omitted' + form luptaṃ"
+   "lemma": "luptaṃ",
+   "morph": "n.nom.sg; pp",
+   "grounds": "legacy hint; omission"
   },
   {
-   "lemma": "tatrāntyākṣara",
-   "morph": "compound, nom/acc.sg.n",
-   "grounds": "gloss 'there-final-letter' + form tatrāntyamakṣaram"
+   "lemma": "tatrāntyamakṣaram",
+   "morph": "indecl=tatra; n.nom.sg; cpd=antya+akṣara",
+   "grounds": "legacy hint; final syllable"
   },
   {
-   "lemma": "hegnivarṇa",
-   "morph": "compound, nom/acc.du.m",
-   "grounds": "gloss 'both-fire-letters' + form he@gnivarṇāvubhau"
+   "lemma": "he@gnivarṇāvubhau",
+   "morph": "m.nom.dual; cpd=agni+varṇa; m.nom.dual=ubha",
+   "grounds": "legacy hint; fire letters"
   },
   {
-   "lemma": "pañcasvarayukta",
-   "morph": "adj, nom/acc.du.m/n",
-   "grounds": "gloss 'joined-with-five-vowels' + form pañcasvarayuktau"
+   "lemma": "pañcasvarayuktau",
+   "morph": "m.nom.dual; cpd=pañca+svara+yukta",
+   "grounds": "legacy hint; vowel count"
   },
   {
-   "lemma": "para",
-   "morph": "adj, nom/acc.du.m/n",
-   "grounds": "gloss 'two-distant' + form parau"
+   "lemma": "parau",
+   "morph": "m.nom.dual",
+   "grounds": "legacy hint; placement"
   },
   {
    "lemma": "pṛthak",
    "morph": "(indecl.)",
-   "grounds": "gloss 'separately' + form pṛthak"
+   "grounds": "legacy hint; separation"
   }
  ]
 }

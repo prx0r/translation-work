@@ -1,41 +1,41 @@
 {
- "song": "unknown",
- "verse": 1,
+ "song": "tal-a30",
+ "verse": 14,
  "rows": [
   {
    "lemma": "etāvatī",
    "morph": "f.nom.sg",
-   "grounds": "gloss 'such' + form etāvatī"
+   "grounds": "legacy hint; summary marker"
   },
   {
    "lemma": "mahāvyāptirmūrtitvenātra",
-   "morph": "AMBIGUOUS",
-   "grounds": "compound/sandhi sequence 'great-pervasion-embodiment-here'; not cleanly one lemma"
+   "morph": "f.nom.sg; cpd=mahā+vyāpti+mūrtitva+atra",
+   "grounds": "legacy hint; pervasion as embodiment"
   },
   {
    "lemma": "kīrtitā",
-   "morph": "f.nom.sg",
-   "grounds": "gloss 'proclaimed' + participle form kīrtitā"
+   "morph": "f.nom.sg; pp",
+   "grounds": "legacy hint; teaching formula"
   },
   {
    "lemma": "pariṇāmastallayaśca",
-   "morph": "AMBIGUOUS",
-   "grounds": "sandhi/compound sequence 'transformation-dissolution-and'"
+   "morph": "m.nom.sg; cpd=pariṇāma+tallaya+ca",
+   "grounds": "legacy hint; transformation and absorption pair"
   },
   {
    "lemma": "namaskāraḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'salutation' + form namaskāraḥ"
+   "grounds": "legacy hint; ritual term"
   },
   {
    "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'that' + form sa"
+   "morph": "pron.m.nom.sg",
+   "grounds": "legacy hint; pronoun referent"
   },
   {
    "lemma": "ucyate",
-   "morph": "3sg.pres.pass √vac",
-   "grounds": "gloss 'is-called' + form ucyate"
+   "morph": "3.sg.pass.pres; root=vac",
+   "grounds": "legacy hint; naming verb"
   }
  ]
 }

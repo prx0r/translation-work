@@ -1,41 +1,41 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a30",
+ "verse": 20,
  "rows": [
   {
-   "lemma": "āmantritānyaghoryāditritaya",
-   "morph": "gen.sg.n",
-   "grounds": "gloss 'of-triad-beginning-with-āmantritānya-ghora' + form -asya"
+   "lemma": "āmantritānyaghoryāditritayasya",
+   "morph": "n.nom.pl; cpd=āmantrita+aghora+ādi+tritaya",
+   "grounds": "legacy hint; triad names"
   },
   {
-   "lemma": "kramodita",
-   "morph": "instr.pl.m/n",
-   "grounds": "gloss 'by-order-arisen' + form -aiḥ"
+   "lemma": "kramoditaiḥ",
+   "morph": "m.instr.pl; cpd=krama+udita",
+   "grounds": "legacy hint; sequence"
   },
   {
    "lemma": "bījairvisargiṇī",
-   "morph": "nom.sg.f",
-   "grounds": "gloss 'seed-visarga-having' + feminine nominative singular form"
+   "morph": "f.nom.sg; cpd=bīja+visargin",
+   "grounds": "legacy hint; visarga deity"
   },
   {
    "lemma": "māyā",
-   "morph": "nom.sg.f",
-   "grounds": "gloss 'māyā' + form māyā"
+   "morph": "f.nom.sg",
+   "grounds": "legacy hint; goddess name"
   },
   {
    "lemma": "huṃ",
-   "morph": "indecl.",
-   "grounds": "gloss 'huṃ' + indeclinable mantra syllable"
+   "morph": "(indecl.)",
+   "grounds": "legacy hint; seed syllable"
   },
   {
-   "lemma": "hakāra",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'letter-ha' + form -o"
+   "lemma": "hakāro",
+   "morph": "m.nom.sg; cpd=ha+kāra",
+   "grounds": "legacy hint; ha syllable"
   },
   {
-   "lemma": "visargavat",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'having-visarga' + form visargavān"
+   "lemma": "visargavān",
+   "morph": "m.nom.sg; cpd=visarga+vant",
+   "grounds": "legacy hint; visarga ending"
   }
  ]
 }
