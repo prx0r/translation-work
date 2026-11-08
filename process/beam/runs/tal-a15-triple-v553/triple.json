@@ -1,0 +1,765 @@
+{
+ "song": "Tantraloka a15",
+ "items": [
+  {
+   "verse": 565,
+   "rows": [
+    {
+     "surface": "jalpaṃ",
+     "gloss": "talk",
+     "grounds": "object of speaking",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurvansvaśāstrārthaṃ",
+     "gloss": "making-own-scripture-meaning",
+     "grounds": "while speaking",
+     "morph": "compound"
+    },
+    {
+     "surface": "vadennāpica",
+     "gloss": "should-speak-and-not-also",
+     "grounds": "prohibition",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūcayet",
+     "gloss": "should-indicate",
+     "grounds": "prohibition",
+     "morph": "3.sg.opt.act √sūc"
+    },
+    {
+     "surface": "nityādviśeṣapūjāṃ",
+     "gloss": "special-worship-beyond-daily",
+     "grounds": "object of doing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryānnaimittike",
+     "gloss": "should-do-in-occasional",
+     "grounds": "ritual context",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "rite",
+     "grounds": "location of action",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What speech and worship rules apply during occasional rites?",
+   "premises": [
+    "One may speak while explaining the meaning of one's own scripture.",
+    "One should not speak in other ways or hint at restricted matters.",
+    "In an occasional rite, one should not perform special worship beyond the daily worship."
+   ],
+   "inference": "During occasional rites, speech must be limited to scriptural explanation and worship must not exceed the prescribed daily form.",
+   "uncertainties": [
+    "The exact scope of what should not be hinted at is not specified in the verse."
+   ],
+   "plain_english": "When talking, one may explain the meaning of one's own scripture, but should not speak otherwise or give hints. In an occasional rite, one should not add special worship beyond the daily worship."
+  },
+  {
+   "verse": 566,
+   "rows": [
+    {
+     "surface": "tato@pi",
+     "gloss": "even-more-than-that",
+     "grounds": "emphatic comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "time location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "varṣasya",
+     "gloss": "of-the-year",
+     "grounds": "time period",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tato@pi",
+     "gloss": "even-more-than-that",
+     "grounds": "emphatic comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pavitrake",
+     "gloss": "in-the-pavitraka-rite",
+     "grounds": "ritual occasion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "anyastamantro",
+     "gloss": "devoted-to-another-mantra",
+     "grounds": "excluded person",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāsīta",
+     "gloss": "should-not-sit",
+     "grounds": "prohibition",
+     "morph": "3.sg.opt.act √ās"
+    },
+    {
+     "surface": "sevyaṃ",
+     "gloss": "to-be-followed",
+     "grounds": "object of prohibition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāstrāntaraṃ",
+     "gloss": "another-scripture",
+     "grounds": "excluded teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who should be excluded and what teachings avoided at key ritual times?",
+   "premises": [
+    "The middle of the year is a significant ritual time.",
+    "The pavitraka rite is an even more significant occasion.",
+    "A person devoted to another mantra should not sit there, and another scripture should not be followed."
+   ],
+   "inference": "At major ritual occasions, especially mid-year and pavitraka, outsiders in mantra or scripture must be excluded.",
+   "uncertainties": [
+    "The verse does not specify whether 'should not sit' refers to participation in the rite or mere presence."
+   ],
+   "plain_english": "In the middle of the year, and especially during the pavitraka rite, one devoted to another mantra should not take part, and another scripture should not be followed."
+  },
+  {
+   "verse": 567,
+   "rows": [
+    {
+     "surface": "aprarūḍhaṃ",
+     "gloss": "not-firmly-rooted",
+     "grounds": "quality of knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kampetetarabhāvanāt",
+     "gloss": "shakes-from-contemplation-of-others",
+     "grounds": "cause of instability",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhopaskaraṇāstrāṇi",
+     "gloss": "household-implements-and-weapons",
+     "grounds": "objects to be worshipped",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "davatāyāgayogataḥ",
+     "gloss": "by-connection-with-fire-and-offering",
+     "grounds": "ritual means",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why can immature knowledge become unstable and how are implements treated ritually?",
+   "premises": [
+    "Knowledge that is not firmly rooted is unstable.",
+    "Such knowledge shakes when exposed to the contemplations of others.",
+    "Household implements and weapons are to be honored through connection with fire and offering."
+   ],
+   "inference": "Because immature knowledge is vulnerable to outside influence, ritual consecration of implements through fire and offering is prescribed.",
+   "uncertainties": [
+    "The exact ritual procedure for honoring implements is not detailed in this verse."
+   ],
+   "plain_english": "Knowledge that is not firmly rooted can be shaken by the views of others. Household implements and weapons should be honored through fire and offering."
+  },
+  {
+   "verse": 568,
+   "rows": [
+    {
+     "surface": "arcyānīti",
+     "gloss": "thinking-they-are-to-be-worshipped",
+     "grounds": "reason for restraint",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padbhyāṃ",
+     "gloss": "with-the-feet",
+     "grounds": "instrument of contact",
+     "morph": "m.ins.du"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśennāpi",
+     "gloss": "should-touch-and-not-also",
+     "grounds": "prohibition",
+     "morph": "compound"
+    },
+    {
+     "surface": "vilaṅghyet",
+     "gloss": "should-step-over",
+     "grounds": "prohibited action",
+     "morph": "3.sg.opt.act √laṅgh"
+    },
+    {
+     "surface": "guruvarge",
+     "gloss": "when-the-guru-group",
+     "grounds": "social context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gṛhāyāte",
+     "gloss": "has-come-to-the-house",
+     "grounds": "occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśeṣaṃ",
+     "gloss": "special-honor",
+     "grounds": "object of action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kaṃcidācaret",
+     "gloss": "should-perform-some",
+     "grounds": "required action",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should one show respect to worshipful objects and visiting gurus?",
+   "premises": [
+    "Objects regarded as worshipful should not be touched or stepped over with the feet.",
+    "The arrival of the guru group at one's house is a special occasion.",
+    "On that occasion, one should perform some special act of honor."
+   ],
+   "inference": "Respect requires both physical restraint toward sacred objects and active special honor toward visiting gurus.",
+   "uncertainties": [
+    "The specific form of the special honor is not stated."
+   ],
+   "plain_english": "One should not touch or step over worshipful things with the feet. When the guru and his group come to the house, one should show them some special honor."
+  },
+  {
+   "verse": 569,
+   "rows": [
+    {
+     "surface": "dīkṣitānāṃ",
+     "gloss": "of-the-initiated",
+     "grounds": "people concerned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindādi",
+     "gloss": "criticism-and-such",
+     "grounds": "prohibited behavior",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryādvidveṣapūrvakam",
+     "gloss": "should-do-preceded-by-hostility",
+     "grounds": "prohibition",
+     "morph": "compound"
+    },
+    {
+     "surface": "upadeśāya",
+     "gloss": "for-instruction",
+     "grounds": "permitted purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "moral status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "refers to correction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyavidveṣapūrvakaḥ",
+     "gloss": "indeed-not-preceded-by-hostility",
+     "grounds": "qualifying condition",
+     "morph": "compound"
+    }
+   ],
+   "question": "When is criticism of initiated persons forbidden or permitted?",
+   "premises": [
+    "One should not criticize initiated persons out of hostility.",
+    "Correction given for instruction is not a fault.",
+    "Instructional correction is acceptable only when it is not preceded by hostility."
+   ],
+   "inference": "Criticism of the initiated is forbidden when hostile but permitted when offered as non-hostile instruction.",
+   "uncertainties": [],
+   "plain_english": "One should not criticize initiated people out of hostility. If correction is given for instruction and without hostility, it is not a fault."
+  },
+  {
+   "verse": 570,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṣṇavādikādhaḥsthadṛṣṭibhiḥ",
+     "gloss": "with-those-holding-lower-views-such-as-vaishnavas",
+     "grounds": "people to avoid",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃvasedalam",
+     "gloss": "should-dwell-closely",
+     "grounds": "prohibited association",
+     "morph": "compound"
+    },
+    {
+     "surface": "sahabhojanaśayyādyarnaiṣāṃ",
+     "gloss": "nor-eating-and-sleeping-together-with-them",
+     "grounds": "specific prohibitions",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakaṭayetsthitim",
+     "gloss": "should-reveal-one's-state",
+     "grounds": "prohibited disclosure",
+     "morph": "compound"
+    }
+   ],
+   "question": "What kinds of association and disclosure are forbidden with those of lower views?",
+   "premises": [
+    "One should not live closely with those who hold lower views, such as Vaishnavas and others.",
+    "One should not share food, bedding, and similar intimacies with them.",
+    "One should not reveal one's own spiritual state to them."
+   ],
+   "inference": "Close social intimacy and disclosure of one's spiritual standing are prohibited with those regarded as holding lower views.",
+   "uncertainties": [
+    "The compound boundaries in the printed text are compressed, so the exact segmentation is slightly uncertain."
+   ],
+   "plain_english": "One should not live closely with those who hold lower views, such as Vaishnavas and others. One should not eat or sleep with them, nor reveal one's own spiritual state to them."
+  },
+  {
+   "verse": 571,
+   "rows": [
+    {
+     "surface": "uktaṃ",
+     "gloss": "it-is-said",
+     "grounds": "scriptural citation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīṃmādhavakule",
+     "gloss": "in-the-revered-madhava-lineage",
+     "grounds": "source tradition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāsanāntarasaṃsthitān",
+     "gloss": "those-established-in-other-teachings",
+     "grounds": "people concerned",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vedoktiṃ",
+     "gloss": "vedic-statement",
+     "grounds": "teaching to avoid",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vaiṣṇavoktiṃ",
+     "gloss": "vaishnava-statement",
+     "grounds": "teaching to avoid",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tairuktaṃ",
+     "gloss": "spoken-by-them",
+     "grounds": "source of statements",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varjayetsadā",
+     "gloss": "should-always-avoid",
+     "grounds": "injunction",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which teachings should be avoided according to the Madhava lineage?",
+   "premises": [
+    "The revered Madhava lineage gives an instruction on this matter.",
+    "Some people are established in other teachings.",
+    "One should always avoid Vedic statements, Vaishnava statements, and what is spoken by such people."
+   ],
+   "inference": "The Madhava lineage enjoins constant avoidance of teachings and statements coming from other doctrinal systems.",
+   "uncertainties": [
+    "The exact identity of 'śrīṃmādhavakule' is not explained in the verse."
+   ],
+   "plain_english": "It is said in the revered Madhava lineage that one should always avoid Vedic and Vaishnava teachings, and whatever is spoken by those established in other systems."
+  },
+  {
+   "verse": 572,
+   "rows": [
+    {
+     "surface": "akulīneṣu",
+     "gloss": "with-those-of-unworthy-lineage",
+     "grounds": "people to avoid",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "saṃparkāttatkulātpatanādbhayam",
+     "gloss": "from-association-fear-of-falling-from-that-lineage",
+     "grounds": "reason for avoidance",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekapātre",
+     "gloss": "in-one-vessel",
+     "grounds": "shared ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kulāmnāye",
+     "gloss": "in-the-kula-tradition",
+     "grounds": "doctrinal context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tasmāttānparivarjayet",
+     "gloss": "therefore-one-should-avoid-them",
+     "grounds": "conclusion",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why should association with the unworthy be avoided in the Kula tradition?",
+   "premises": [
+    "Association with those of unworthy lineage creates danger.",
+    "That danger includes falling from one's own lineage.",
+    "The Kula tradition involves shared ritual contexts such as one vessel."
+   ],
+   "inference": "Because improper association threatens one's standing in the Kula tradition, such people must be avoided.",
+   "uncertainties": [
+    "The phrase 'ekapātre' may refer to a specific ritual sharing, but the verse does not spell out the rite."
+   ],
+   "plain_english": "Association with those of unworthy lineage brings the fear of falling from one's own lineage. Therefore, in the Kula tradition, especially where one vessel is shared, one should avoid them."
+  },
+  {
+   "verse": 573,
+   "rows": [
+    {
+     "surface": "pramādācca",
+     "gloss": "and-through-carelessness",
+     "grounds": "cause of lapse",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-made",
+     "grounds": "condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sakhye",
+     "gloss": "friendship",
+     "grounds": "relation formed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "goṣṭhyāṃ",
+     "gloss": "in-the-gathering",
+     "grounds": "social setting",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "the-circle",
+     "grounds": "ritual remedy",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive remedy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "śrīmadūrmau",
+     "gloss": "in-the-revered-urma",
+     "grounds": "scriptural source",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitamāgamāntarasevake",
+     "gloss": "it-is-taught-regarding-a-follower-of-another-agama",
+     "grounds": "case specified",
+     "morph": "compound"
+    }
+   ],
+   "question": "What remedy is prescribed if one carelessly befriends a follower of another Agama?",
+   "premises": [
+    "Friendship may be formed carelessly in a gathering.",
+    "The revered Urma text addresses the case of a follower of another Agama.",
+    "In that case, one should worship the circle as a remedy."
+   ],
+   "inference": "Careless association with a follower of another Agama requires ritual repair through worship of the circle.",
+   "uncertainties": [
+    "The exact form of the 'cakra' worship is not described in this verse."
+   ],
+   "plain_english": "If, through carelessness, one forms a friendship in a gathering with a follower of another Agama, the revered Urma teaches that one should worship the circle."
+  },
+  {
+   "verse": 574,
+   "rows": [
+    {
+     "surface": "gurvantararate",
+     "gloss": "delighting-in-another-guru",
+     "grounds": "person to avoid",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mūḍhe",
+     "gloss": "deluded",
+     "grounds": "person to avoid",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devadravyopajīvake",
+     "gloss": "living-off-the-property-of-the-gods",
+     "grounds": "person to avoid",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaktihiṃsākare",
+     "gloss": "doing-harm-to-the-shakti",
+     "grounds": "person to avoid",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "duṣṭe",
+     "gloss": "corrupt",
+     "grounds": "person to avoid",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃparkaṃ",
+     "gloss": "association",
+     "grounds": "object of prohibition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "strong negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "prohibited action",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    }
+   ],
+   "question": "With which kinds of corrupt persons must association be completely avoided?",
+   "premises": [
+    "Some persons delight in another guru.",
+    "Some are deluded, live off divine property, harm the shakti, or are otherwise corrupt.",
+    "Association with such persons should not be made at all."
+   ],
+   "inference": "The verse forbids all association with persons marked by doctrinal disloyalty, exploitation, or harm to the shakti.",
+   "uncertainties": [
+    "The exact sense of 'śaktihiṃsākare' could range from harming a consort to harming spiritual power."
+   ],
+   "plain_english": "One should not associate at all with someone who delights in another guru, is deluded, lives off the property of the gods, harms the shakti, or is corrupt."
+  },
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikalpena",
+     "gloss": "by-doubtful-fancy",
+     "grounds": "wrong motive",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dīkṣādau",
+     "gloss": "in-initiation-and-such",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vrajedāyatanādikam",
+     "gloss": "should-go-to-a-shrine-and-such",
+     "grounds": "prohibited action",
+     "morph": "compound"
+    },
+    {
+     "surface": "uktāsthāśithilatve",
+     "gloss": "when-the-prescribed-faith-becomes-loose",
+     "grounds": "condition for restraint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yannimittaṃ",
+     "gloss": "for-whatever-reason",
+     "grounds": "scope of restraint",
+     "morph": "compound"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "strong negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taccaret",
+     "gloss": "should-do-that",
+     "grounds": "prohibited action",
+     "morph": "compound"
+    }
+   ],
+   "question": "When should one refrain from going to shrines or performing related acts?",
+   "premises": [
+    "One should not go to a shrine and such places in initiation contexts out of mere doubtful fancy.",
+    "If the prescribed faith becomes loose, action becomes problematic.",
+    "Whatever is done for that weakened reason should not be carried out."
+   ],
+   "inference": "Ritual movement and action must be avoided when they arise from doubt or weakened faith rather than firm commitment.",
+   "uncertainties": [
+    "The compound 'uktāsthāśithilatve' is compressed; the reading as loosened prescribed faith is interpretive."
+   ],
+   "plain_english": "One should not go to a shrine or similar place in initiation and related matters out of mere doubt. If the prescribed faith has become weak, one should not act on that basis."
+  },
+  {
+   "verse": 576,
+   "rows": [
+    {
+     "surface": "śāsanasthānpurājātyā",
+     "gloss": "those-standing-in-the-teaching-by-former-birth",
+     "grounds": "people concerned",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyennāpyudīrayet",
+     "gloss": "should-regard-nor-mention",
+     "grounds": "prohibited attitude",
+     "morph": "compound"
+    },
+    {
+     "surface": "naca",
+     "gloss": "and-not",
+     "grounds": "further negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavaharetsarvāñchivābhedena",
+     "gloss": "should-deal-with-all-as-non-different-from-shiva",
+     "grounds": "required attitude",
+     "morph": "compound"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "only",
+     "grounds": "restriction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one regard others in the teaching regardless of former birth?",
+   "premises": [
+    "Some people stand in the teaching due to former birth.",
+    "One should not look down on them or speak of them in that limiting way.",
+    "One should deal with all as non-different from Shiva."
+   ],
+   "inference": "Within the teaching, social or birth-based distinctions must be set aside in favor of seeing all as non-different from Shiva.",
+   "uncertainties": [
+    "The phrase 'purājātyā' is terse; it likely refers to status carried from a former birth."
+   ],
+   "plain_english": "One should not judge or speak of those in the teaching in terms of their former birth. One should deal with all simply as non-different from Shiva."
+  }
+ ]
+}
