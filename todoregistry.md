@@ -263,3 +263,22 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 - Vs Tantrasara gold: base layers at ~80% (span-exact T1, 100% PARSED L0, verse-owned Qs avg premise 5.8w, proof PASS align 1.0). Gaps: L0 stems/grounds thinness (MEDIUM), fork audit outstanding (UNKNOWN — beam never mints), argmap/L2 need redaction + read-aloud (MEDIUM), C1 derived essences are scaffolding not argument (LARGE — the real gap), c1.NOTE missing (SMALL). L3/L4/C2 waived per owner.
 - LOOP.sh paused (LOOP.STOP set) to prevent hand-draft collisions; remove STOP to resume autonomous drafting/review when assessor pauses.
 - Beam still 429; harness + staggered workers + full-context packets armed for auto-resume. Remaining beam-dependent: a28/a03/a01/a08/a15 (~1,300 layer-items).
+
+## Addendum — free-model cycling (owner-authorized 2026-11-08)
+
+- beam-free 429 persisted all session (also matches upstream reports of free-tier
+  throttling from datacenter IPs). Owner directed: try other free Go models.
+- GET /inference/go/openai/v1/models lists 30 models; live-probed 6 with real
+  JSON drafts, all HTTP 200 while beam-free 429s: deepseek-v4.1-flash
+  (384k out), mimo-v2.6-flash, glm-5.3-flash, qwen3.8-flash, kimi-k3,
+  minimax-m3.1-flash (512k out).
+- beam_client.py rewritten: beam-free stays FIRST (calibration continuity),
+  then fallbacks in fixed order; 429 parks a model 30m (shared
+  process/beam/model_health.json so all workers agree); immediate failover,
+  no 12-minute sleeps. Every served call logged to model_usage.jsonl
+  {ts, session, model} for per-model calibration audit.
+- Verified: health() → ok:deepseek-v4.1-flash; full triple JSON round-trip OK.
+  Gates are model-agnostic (same pydantic + proof); first production drafts
+  get closer assessor review until calibration is proven per model.
+- Docs updated: RUNBOOK §12/§15, MCP.md (DUMB definition, 429 row).
+  Supersedes 2026-11-06 beam-free-only hardening by explicit owner order.
