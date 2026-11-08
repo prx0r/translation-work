@@ -26,18 +26,15 @@ import json, os, sys, time, urllib.request
 
 ENDPOINT = 'https://opencode.ai/inference/go/openai/v1/chat/completions'
 UA = 'translation-work-harness/1.0'
-# HARDCODED: beam-free only. Other models fail in this harness (owner
 # FREE ONLY (owner directive 2026-11-06 beam-free-only, extended 2026-11-08
 # to free-only cycling: the /go catalogue beyond beam-free bills Go
 # allowances, EXCEPT iceman-contributor-free which is zero-price like
 # beam-free). Do not add an env override. Only the MODELS list below may
 # ever be called, and only zero-price entries may enter it.
 MODEL = 'beam-free'
-# FREE-ONLY preference order, verified live 2026-11-08 on this box.
-# beam-free first (calibration continuity); iceman-contributor-free is the
-# ONLY other zero-price model reachable here (crouton-alpha-free returns
-# RegionError). Everything else on the endpoint bills Go allowance — never
-# add it here.
+# Preference order: beam-free first (calibration continuity), then the only
+# other zero-price model reachable here. Verified live 2026-11-08.
+# crouton-alpha-free is also free but region-blocked (RegionError).
 MODELS: list[tuple[str, int]] = [
     ('beam-free', 131072),
     ('iceman-contributor-free', 131072),
