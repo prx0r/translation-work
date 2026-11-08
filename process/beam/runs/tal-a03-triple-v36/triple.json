@@ -1,0 +1,249 @@
+{
+ "song": "Tantraloka 3.42-44",
+ "items": [
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtānmānasagocarādṛtā",
+     "gloss": "arising-from-remembered-mental-object",
+     "grounds": "describes source of action",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavetkriyā",
+     "gloss": "would-be-action",
+     "grounds": "states possibility",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to action",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartamānataḥ",
+     "gloss": "from-present-state",
+     "grounds": "reason for action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "describes touch",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sparśavarastadindriye",
+     "gloss": "excellent-touch-in-that-sense-organ",
+     "grounds": "locates the object",
+     "morph": "compound"
+    },
+    {
+     "surface": "samāgataḥ",
+     "gloss": "arrived",
+     "grounds": "describes touch",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sanviditastathākriyaḥ",
+     "gloss": "known-and-thus-active",
+     "grounds": "describes touch",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is the action of touch not derived from memory but from a present object?",
+   "premises": [
+    "An action arising from a remembered mental object is not the same as a present action.",
+    "Genuine sensory action occurs in the present moment.",
+    "The excellent touch is situated in and arrives at the sense organ as a known present object."
+   ],
+   "inference": "Therefore, the action of touch is caused by a present object known in the sense organ, not by memory.",
+   "uncertainties": [
+    "The exact nuance of sparśavaraḥ (excellent touch) in this context is slightly ambiguous."
+   ],
+   "plain_english": "An action does not arise from a remembered mental object, because such action truly belongs to the present. Therefore, the excellent touch is situated in that sense organ, having arrived there and being known, and it acts accordingly in the present."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "asaṃbhave",
+     "gloss": "in-impossibility",
+     "grounds": "sets condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bāhyagatasya",
+     "gloss": "of-external-object",
+     "grounds": "specifies what is impossible",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tādṛśaḥ",
+     "gloss": "such",
+     "grounds": "describes touch",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "refers to internal nature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasminpratibimbitastathā",
+     "gloss": "reflected-in-that-thus",
+     "grounds": "describes internal state",
+     "morph": "compound"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "produces",
+     "grounds": "main action",
+     "morph": "3.sg.active-present √kṛ"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "refers to sensation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sparśavaraḥ",
+     "gloss": "excellent-touch",
+     "grounds": "subject of action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhātmikāṃ",
+     "gloss": "consisting-of-pleasure",
+     "grounds": "describes sensation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "it",
+     "grounds": "refers to touch",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "adds location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasyāmapi",
+     "gloss": "in-some",
+     "grounds": "indefinite location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nāḍisaṃtatau",
+     "gloss": "channel-continuum",
+     "grounds": "internal location",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "How can the sensation of touch occur if an external object is impossible?",
+   "premises": [
+    "An external object may be impossible or absent.",
+    "The excellent touch is reflected within one's own self.",
+    "This internally reflected touch operates within some continuum of channels."
+   ],
+   "inference": "Even without an external object, the internally reflected touch produces a pleasurable sensation within the body's channels.",
+   "uncertainties": [
+    "The precise physiological or subtle-body meaning of nāḍisaṃtatau (continuum of channels) depends on broader Tantric context."
+   ],
+   "plain_english": "When an external object is impossible, that same excellent touch, reflected within one's own self, produces that pleasurable sensation. It does so within some continuum of subtle channels."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "conclusion from previous verses",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃvittimakure",
+     "gloss": "in-consciousness-mirror",
+     "grounds": "location of reflection",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśvamātmānamarpayat",
+     "gloss": "offering-universe-as-self",
+     "grounds": "describes the Lord's action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāthasya",
+     "gloss": "of-the-Lord",
+     "grounds": "possessor of the nature",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vadate@muṣya",
+     "gloss": "declares-of-this",
+     "grounds": "states the teaching",
+     "morph": "3.sg.active-present √vad"
+    },
+    {
+     "surface": "vimalāṃ",
+     "gloss": "pure",
+     "grounds": "describes universal nature",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viśvarūpatām",
+     "gloss": "universal-form",
+     "grounds": "the nature being declared",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What does the reflection of the universe in consciousness reveal about the Lord's nature?",
+   "premises": [
+    "The universe is offered as the self within the mirror of consciousness.",
+    "This process reveals the nature of the Lord.",
+    "The Lord's nature is characterized by a pure universal form."
+   ],
+   "inference": "The reflection of the universe in the mirror of consciousness demonstrates the Lord's pure, all-encompassing nature.",
+   "uncertainties": [],
+   "plain_english": "Therefore, by offering the universe as his own self in the mirror of consciousness, this declares the pure universal nature of the Lord."
+  }
+ ]
+}
