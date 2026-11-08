@@ -1,5 +1,5 @@
 {
- "song": "Tantraloka a01 (vijñāna-bheda)",
+ "song": "Tantraloka a01",
  "items": [
   {
    "verse": 217,
@@ -7,81 +7,79 @@
     {
      "surface": "evaṃ",
      "gloss": "thus",
-     "grounds": "conclusion from preceding account",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "vaikalpikī",
-     "gloss": "of-conceptual-construction",
-     "grounds": "characterizes the level of vikalpa",
+     "gloss": "of-conceptual-thought",
+     "grounds": "adjective",
      "morph": "f.nom.sg"
     },
     {
      "surface": "bhūmiḥ",
      "gloss": "level",
-     "grounds": "stage of experience",
+     "grounds": "noun",
      "morph": "f.nom.sg"
     },
     {
      "surface": "śākte",
-     "gloss": "in-the-śākta",
-     "grounds": "locates this in śāktopāya",
-     "morph": "m.loc.sg"
+     "gloss": "in-the-shakta",
+     "grounds": "adjective",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "kartṛtvavedane",
-     "gloss": "in-awareness-of-agency",
-     "grounds": "recognition of oneself as doer",
-     "morph": "n.loc.sg, compound=kartṛtva+vedana"
+     "gloss": "awareness-of-agency",
+     "grounds": "compound",
+     "morph": "kartṛtva+vedana n.loc.sg"
     },
     {
      "surface": "yasyāṃ",
      "gloss": "in-which",
-     "grounds": "refers to the level",
+     "grounds": "relative pronoun",
      "morph": "f.loc.sg"
     },
     {
      "surface": "sphuṭe",
-     "gloss": "when-clear",
-     "grounds": "condition of vivid agency-awareness",
+     "gloss": "clear",
+     "grounds": "adjective",
      "morph": "n.loc.sg"
     },
     {
      "surface": "paraṃ",
      "gloss": "but",
-     "grounds": "introduces a qualification",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "tvasyāṃ",
      "gloss": "but-in-this",
-     "grounds": "sandhi: tu+asyām",
-     "morph": "(indecl.)+f.loc.sg"
+     "grounds": "compound",
+     "morph": "tu+asyām f.loc.sg"
     },
     {
      "surface": "saṃkocaḥ",
      "gloss": "contraction",
-     "grounds": "limitation within that level",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "pūrvanītitaḥ",
-     "gloss": "from-the-previous-method",
-     "grounds": "residue of the lower means",
-     "morph": "(indecl.), compound=pūrva+nīti+tas"
+     "gloss": "by-earlier-method",
+     "grounds": "compound",
+     "morph": "pūrva+nīti m.abl.sg"
     }
    ],
-   "question": "What limitation remains in the conceptual level of the śākta means?",
+   "question": "How does the conceptual level operate within the shakta awareness of agency?",
    "premises": [
-    "In the śākta means there is a conceptual level grounded in awareness of agency.",
-    "When awareness of agency becomes clear, that level is operative.",
-    "Even in that śākta level, contraction remains because of the previous method."
+    "The conceptual level arises within the shakta awareness of agency.",
+    "In that clear awareness, contraction still remains.",
+    "This contraction follows the method described earlier."
    ],
-   "inference": "The śākta means includes a conceptual awareness of agency, but it still carries contraction inherited from the lower āṇava method.",
-   "uncertainties": [
-    "pūrvanītitaḥ may refer specifically to āṇavopāya or more generally to any prior procedure."
-   ],
-   "plain_english": "Thus, in the śākta means there is a conceptual level consisting in the awareness of being an agent. When that awareness is clear, this level is present; yet even here there is still contraction, carried over from the previous method."
+   "inference": "Even in the shakta state, conceptual thought persists with a residual contraction.",
+   "uncertainties": [],
+   "plain_english": "Thus the conceptual level belongs to the shakta awareness of agency; when that awareness is clear, contraction still remains in it according to the earlier method."
   },
   {
    "verse": 218,
@@ -89,51 +87,49 @@
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "continues the description",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "saṃkocasaṃbhāravilāyanaparasya",
-     "gloss": "of-one-intent-on-dissolving-the-mass-of-contraction",
-     "grounds": "describes the practitioner in śāktopāya",
-     "morph": "m.gen.sg, compound=saṃkoca+saṃbhāra+vilāyana+para"
+     "gloss": "intent-on-dissolving-mass-of-contraction",
+     "grounds": "compound",
+     "morph": "saṃkoca+saṃbhāra+vilāyana+para m.gen.sg"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "marks contrast or emphasis",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "sā",
      "gloss": "that",
-     "grounds": "refers to śakti",
+     "grounds": "demonstrative pronoun",
      "morph": "f.nom.sg"
     },
     {
      "surface": "yatheṣṭāntarābhāsakāriṇī",
-     "gloss": "making-appear-whatever-is-desired-within",
-     "grounds": "creative power of śakti",
-     "morph": "f.nom.sg, compound=yathā+iṣṭa+antara+ābhāsa+kārin"
+     "gloss": "making-inner-appearance-as-desired",
+     "grounds": "compound",
+     "morph": "yathā+iṣṭa+antara+ābhāsa+kārin f.nom.sg"
     },
     {
      "surface": "śaktirujjvalā",
-     "gloss": "radiant-śakti",
-     "grounds": "the luminous power itself",
-     "morph": "f.nom.sg, compound=śakti+ujjvala"
+     "gloss": "radiant-power",
+     "grounds": "compound",
+     "morph": "śakti+ujjvala f.nom.sg"
     }
    ],
-   "question": "What happens to śakti for one who dissolves contraction in the śākta means?",
+   "question": "What happens to radiant power for one intent on dissolving contraction?",
    "premises": [
-    "A practitioner may be intent on dissolving the whole mass of contraction.",
-    "In that dissolution, śakti becomes operative in a heightened way.",
-    "This śakti can manifest whatever is desired within awareness."
+    "One may be intent on dissolving the whole mass of contraction.",
+    "Radiant power can manifest inner appearances as desired.",
+    "This power becomes active in that state."
    ],
-   "inference": "For one who dissolves contraction, radiant śakti arises and freely manifests desired appearances within.",
-   "uncertainties": [
-    "yatheṣṭāntarābhāsakāriṇī could emphasize inner manifestation rather than external effects."
-   ],
-   "plain_english": "Likewise, for one who is intent on dissolving the whole mass of contraction, that radiant śakti shines forth, making whatever is desired appear within."
+   "inference": "For one dissolving contraction, radiant power freely produces the desired inner manifestations.",
+   "uncertainties": [],
+   "plain_english": "Likewise, for one intent on dissolving the mass of contraction, that radiant power makes inner appearances arise just as desired."
   },
   {
    "verse": 219,
@@ -141,201 +137,199 @@
     {
      "surface": "nanu",
      "gloss": "but-surely",
-     "grounds": "introduces an objection",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "vaikalpikī",
      "gloss": "conceptual",
-     "grounds": "refers to vikalpa-based cognition",
+     "grounds": "adjective",
      "morph": "f.nom.sg"
     },
     {
      "surface": "kiṃ",
      "gloss": "does",
-     "grounds": "question particle in objection",
+     "grounds": "interrogative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "dhīrāṇave",
-     "gloss": "cognition-in-the-āṇava-means",
-     "grounds": "locates the issue in āṇavopāya",
-     "morph": "f.nom.sg, compound=dhī+āṇava (locative sense in compound context)"
+     "gloss": "thought-in-individual-means",
+     "grounds": "compound",
+     "morph": "dhī+āṇava f.nom.sg"
     },
     {
      "surface": "nāsti",
      "gloss": "not-exist",
-     "grounds": "the objector's claim",
-     "morph": "3.sg.pres.act, √as"
+     "grounds": "verb",
+     "morph": "3.sg.pres.act √as"
     },
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "in that āṇava context",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "sā",
-     "gloss": "that",
-     "grounds": "refers to conceptual cognition",
+     "gloss": "it",
+     "grounds": "demonstrative pronoun",
      "morph": "f.nom.sg"
     },
     {
      "surface": "anyopāyātra",
-     "gloss": "here-as-another-means",
-     "grounds": "sandhi: anya+upāya+atra; marks a different classification",
-     "morph": "(indecl.), compound=anya+upāya+atra"
+     "gloss": "other-means-here",
+     "grounds": "compound",
+     "morph": "anya+upāya+atra m.nom.sg"
     },
     {
      "surface": "tūccārarahitatvaṃ",
      "gloss": "but-absence-of-utterance",
-     "grounds": "sandhi: tu+uccāra+rahitatvam; defining feature stated earlier",
-     "morph": "(indecl.)+n.acc.sg, compound=uccāra+rahitatva"
+     "grounds": "compound",
+     "morph": "tu+uccāra+rahitatva n.acc.sg"
     },
     {
      "surface": "nyarūpayat",
      "gloss": "defined",
-     "grounds": "refers to the prior formulation",
-     "morph": "3.sg.imperf.act, ni+√rūp"
+     "grounds": "verb",
+     "morph": "3.sg.imperf.act ni-√rūp"
     }
    ],
-   "question": "Why is conceptual cognition not denied in the āṇava means despite its definition as without utterance?",
+   "question": "Does conceptual thought exist in the individual means or is it absent there?",
    "premises": [
-    "An objection claims that conceptual cognition does not exist in the āṇava means.",
-    "The āṇava means was previously defined by the absence of utterance.",
-    "Absence of utterance does not by itself exclude all conceptual cognition."
+    "An objection asks whether conceptual thought is absent in the individual means.",
+    "The text states that conceptual thought is present there.",
+    "The other means was defined by the absence of utterance."
    ],
-   "inference": "The āṇava means can still involve conceptual cognition, because its defining mark is absence of utterance rather than absence of vikalpa.",
-   "uncertainties": [
-    "The compound dhīrāṇave is compressed; the exact syntactic relation is slightly ambiguous."
-   ],
-   "plain_english": "An objection arises: does conceptual cognition not exist in the āṇava means? The answer is that it does exist there; but in that other means it was defined as lacking utterance."
+   "inference": "Conceptual thought belongs to the individual means, while absence of utterance characterizes another means.",
+   "uncertainties": [],
+   "plain_english": "One might ask whether conceptual thought is absent in the individual means; it is present there, but the other means was defined as lacking utterance."
   },
   {
    "verse": 220,
    "rows": [
     {
      "surface": "uccāraśabdenātroktā",
-     "gloss": "here-stated-by-the-word-utterance",
-     "grounds": "clarifies the earlier term",
-     "morph": "f.nom.sg, compound=uccāra+śabda+atra+ukta"
+     "gloss": "stated-here-by-word-utterance",
+     "grounds": "compound",
+     "morph": "uccāra+śabda+atra+ukta m.pl.nom"
     },
     {
      "surface": "bahvantena",
-     "gloss": "by-that-including-much",
-     "grounds": "the term has a broad scope",
-     "morph": "m.inst.sg, compound=bahu+anta"
+     "gloss": "by-that-including-many",
+     "grounds": "compound",
+     "morph": "bahu+anta m.inst.sg"
     },
     {
      "surface": "tadādayaḥ",
      "gloss": "those-and-others",
-     "grounds": "utterance and related processes",
-     "morph": "m.nom.pl, compound=tad+ādi"
+     "grounds": "compound",
+     "morph": "tad+ādi m.pl.nom"
     },
     {
      "surface": "śaktyupāye",
-     "gloss": "in-the-śākta-means",
-     "grounds": "contrasted locus",
-     "morph": "m.loc.sg, compound=śakti+upāya"
+     "gloss": "in-the-shakta-means",
+     "grounds": "compound",
+     "morph": "śakti+upāya m.loc.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "santyete",
-     "gloss": "do-these-exist",
-     "grounds": "sandhi: santi+ete",
-     "morph": "3.pl.pres.act, √as + m.nom.pl"
+     "gloss": "exist-these",
+     "grounds": "compound",
+     "morph": "santi+ete 3.pl.pres.act √as"
     },
     {
      "surface": "bhedābhedau",
      "gloss": "difference-and-non-difference",
-     "grounds": "the dual structure characteristic of śakti",
-     "morph": "m.nom.du, compound=bheda+abheda"
+     "grounds": "compound",
+     "morph": "bheda+abheda m.du.nom"
     },
     {
      "surface": "hi",
-     "gloss": "for",
-     "grounds": "gives the reason",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "śaktitā",
-     "gloss": "the-state-of-being-śakti",
-     "grounds": "defines śāktopāya",
+     "gloss": "state-of-power",
+     "grounds": "noun",
      "morph": "f.nom.sg"
     }
    ],
-   "question": "What does the term utterance exclude, and why does that fit the śākta means?",
+   "question": "Why are utterance and related processes absent in the shakta means?",
    "premises": [
-    "The word utterance was used in a broad sense to include related processes.",
-    "Those utterance-related processes are not present in the śākta means.",
-    "The nature of śakti is constituted by both difference and non-difference."
+    "The term utterance here includes many related processes.",
+    "These processes do not exist in the shakta means.",
+    "The nature of power is marked by both difference and non-difference."
    ],
-   "inference": "Because śāktopāya is defined by the interplay of difference and non-difference, it does not operate through the broad range of utterance-based processes.",
+   "inference": "The shakta means transcends utterance-based processes because its nature holds difference and non-difference together.",
    "uncertainties": [
-    "The exact range covered by bahvantena is not fully specified in the verse."
+    "The exact scope of tadādayaḥ is not fully specified in this verse."
    ],
-   "plain_english": "Here the word utterance was used in a broad sense, covering that and related processes. These do not occur in the śākta means, for the very nature of śakti is difference-and-non-difference."
+   "plain_english": "By the word utterance, many related processes are meant, and these do not exist in the shakta means, for the nature of power is both difference and non-difference."
   },
   {
    "verse": 221,
    "rows": [
     {
      "surface": "aṇurnāma",
-     "gloss": "the-limited-self-namely",
-     "grounds": "defines aṇu",
-     "morph": "m.nom.sg + (indecl.)"
+     "gloss": "the-individual-namely",
+     "grounds": "compound",
+     "morph": "aṇu+nāman m.nom.sg"
     },
     {
      "surface": "sphuṭo",
      "gloss": "clear",
-     "grounds": "explicitly manifest",
+     "grounds": "adjective",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhedastadupāya",
-     "gloss": "difference-and-its-means",
-     "grounds": "sandhi: bhedaḥ+tad+upāyaḥ; links aṇu to bheda",
-     "morph": "m.nom.sg, compound=tad+upāya"
+     "gloss": "difference-its-means",
+     "grounds": "compound",
+     "morph": "bheda+tad+upāya m.nom.sg"
     },
     {
      "surface": "ihāṇavaḥ",
-     "gloss": "here-the-āṇava-means",
-     "grounds": "sandhi: iha+āṇavaḥ",
-     "morph": "(indecl.)+m.nom.sg"
+     "gloss": "here-individual",
+     "grounds": "compound",
+     "morph": "iha+āṇava m.nom.sg"
     },
     {
      "surface": "vikalpaniścayātmaiva",
-     "gloss": "consisting-just-of-concept-and-determination",
-     "grounds": "sandhi: vikalpa+niścaya+ātmā+eva",
-     "morph": "m.nom.sg, compound=vikalpa+niścaya+ātman"
+     "gloss": "of-nature-of-thought-and-certainty-alone",
+     "grounds": "compound",
+     "morph": "vikalpa+niścaya+ātman+eva m.nom.sg"
     },
     {
      "surface": "paryante",
      "gloss": "at-the-end",
-     "grounds": "culmination of the means",
-     "morph": "m.loc.sg"
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
     },
     {
      "surface": "nirvikalpakaḥ",
-     "gloss": "non-conceptual",
-     "grounds": "final state reached",
+     "gloss": "without-conceptual-thought",
+     "grounds": "adjective",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "How is the āṇava means characterized and what is its culmination?",
+   "question": "What defines the individual and the individual means in this teaching?",
    "premises": [
-    "The limited self is marked by clear difference.",
-    "The āṇava means is the means corresponding to that clear difference.",
-    "The āṇava means operates through conceptual construction and determination."
+    "The individual is characterized by clear difference.",
+    "The individual means operates through thought and certainty.",
+    "At its culmination it becomes free of conceptual thought."
    ],
-   "inference": "The āṇava means, rooted in clear difference and operating through vikalpa and niścaya, culminates in the non-conceptual.",
+   "inference": "The individual means begins in differentiated thought and resolves into a non-conceptual state.",
    "uncertainties": [],
-   "plain_english": "The limited self is defined by clear difference, and its corresponding means here is the āṇava. That means consists in conceptual construction and determination, yet at its culmination it becomes non-conceptual."
+   "plain_english": "The individual is clear difference, and the individual means here consists in thought and certainty, yet at its end it becomes non-conceptual."
   },
   {
    "verse": 222,
@@ -343,63 +337,61 @@
     {
      "surface": "nanu",
      "gloss": "but-surely",
-     "grounds": "introduces an objection",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "dhī-mānasāhaṃkṛtpumāṃso",
-     "gloss": "intellect-mind-ego-and-limited-self",
-     "grounds": "sandhi: dhī+mānasa+ahaṃkṛt+pumāṃsaḥ; lower tattvas",
-     "morph": "m.nom.pl, compound=dhī+mānasa+ahaṃkṛt+pumāṃs"
+     "gloss": "intellect-mind-ego-person",
+     "grounds": "compound",
+     "morph": "dhī+manas+ahaṃkṛt+pumāṃs m.pl.nom"
     },
     {
      "surface": "vyāpnuyuḥ",
      "gloss": "could-pervade",
-     "grounds": "hypothetical capacity",
-     "morph": "3.pl.opt.act, vi+√āp"
+     "grounds": "verb",
+     "morph": "3.pl.opt.act vi-√āp"
     },
     {
      "surface": "śivam",
-     "gloss": "śiva",
-     "grounds": "the supreme reality",
+     "gloss": "shiva",
+     "grounds": "proper noun",
      "morph": "m.acc.sg"
     },
     {
      "surface": "nādhovartitayā",
-     "gloss": "not-by-being-situated-below",
-     "grounds": "sandhi: na+adhaḥ+vartitayā; reason for doubt",
-     "morph": "(indecl.)+f.inst.sg, compound=adhaḥ+vartitā"
+     "gloss": "not-by-existing-below",
+     "grounds": "compound",
+     "morph": "na+adhas+vartitā f.inst.sg"
     },
     {
      "surface": "tena",
      "gloss": "therefore",
-     "grounds": "draws the consequence",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "kathitaṃ",
      "gloss": "stated",
-     "grounds": "refers to the teaching given",
-     "morph": "n.nom.sg, past participle"
+     "grounds": "participle",
+     "morph": "n.nom.sg ppp √kath"
     },
     {
      "surface": "kathamīdṛśam",
      "gloss": "how-such-a-thing",
-     "grounds": "sandhi: katham+īdṛśam; challenges the claim",
-     "morph": "(indecl.)+n.nom.sg"
+     "grounds": "compound",
+     "morph": "katham+īdṛśa n.nom.sg"
     }
    ],
-   "question": "How can lower faculties like intellect and ego reach śiva if they are situated below him?",
+   "question": "How can intellect, mind, ego, and person pervade Shiva if they are lower principles?",
    "premises": [
-    "Intellect, mind, ego, and the limited self are lower principles.",
-    "What is situated below seems unable to pervade what is supreme.",
-    "The teaching claims that such lower faculties can reach śiva."
+    "Intellect, mind, ego, and person are lower principles.",
+    "An objection claims they cannot pervade Shiva.",
+    "The text has nevertheless spoken in such a way."
    ],
-   "inference": "There is an apparent contradiction between the lower status of these faculties and the claim that they can pervade śiva.",
-   "uncertainties": [
-    "vyāpnuyuḥ may imply actual pervasion or only the possibility of reaching."
-   ],
-   "plain_english": "But surely intellect, mind, ego, and the limited self cannot pervade śiva, since they exist below him. How, then, could such a thing be said?"
+   "inference": "The objection challenges how lower faculties could reach or pervade Shiva.",
+   "uncertainties": [],
+   "plain_english": "But surely intellect, mind, ego, and the individual person cannot pervade Shiva, since they exist below him; so how can such a statement be made?"
   },
   {
    "verse": 223,
@@ -407,67 +399,67 @@
     {
      "surface": "ucyate",
      "gloss": "it-is-said",
-     "grounds": "introduces the reply",
-     "morph": "3.sg.pres.pass, √vac"
+     "grounds": "verb",
+     "morph": "3.sg.pres.pass √vac"
     },
     {
      "surface": "vastuto@smākaṃ",
      "gloss": "in-reality-for-us",
-     "grounds": "sandhi: vastutaḥ+asmākam; doctrinal standpoint",
-     "morph": "(indecl.)+1.pl.gen"
+     "grounds": "compound",
+     "morph": "vastutas+asmākam (indecl.+pron.)"
     },
     {
      "surface": "śiva",
-     "gloss": "śiva",
-     "grounds": "the supreme reality",
+     "gloss": "shiva",
+     "grounds": "proper noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "eva",
      "gloss": "alone",
-     "grounds": "exclusivity",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "tathāvidhaḥ",
      "gloss": "of-such-a-nature",
-     "grounds": "capable of appearing in that way",
-     "morph": "m.nom.sg, compound=tathā+vidha"
+     "grounds": "compound",
+     "morph": "tathā+vidha m.nom.sg"
     },
     {
      "surface": "svarūpagopanaṃ",
-     "gloss": "concealment-of-own-nature",
-     "grounds": "self-veiling",
-     "morph": "n.acc.sg, compound=svarūpa+gopana"
+     "gloss": "concealing-own-nature",
+     "grounds": "compound",
+     "morph": "svarūpa+gopana n.acc.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "prior act of concealment",
-     "morph": "absolutive, √kṛ"
+     "grounds": "participle",
+     "morph": "gerund √kṛ"
     },
     {
      "surface": "svaprakāśaḥ",
      "gloss": "self-luminous",
-     "grounds": "śiva's intrinsic nature",
-     "morph": "m.nom.sg, compound=sva+prakāśa"
+     "grounds": "compound",
+     "morph": "sva+prakāśa m.nom.sg"
     },
     {
      "surface": "punastathā",
-     "gloss": "again-in-that-way",
-     "grounds": "reappears in the lower form",
-     "morph": "(indecl.), compound=punar+tathā"
+     "gloss": "again-thus",
+     "grounds": "compound",
+     "morph": "punar+tathā (indecl.)"
     }
    ],
-   "question": "How can śiva be reached through lower faculties without denying his supremacy?",
+   "question": "How does the text answer the objection about lower faculties pervading Shiva?",
    "premises": [
-    "In reality, śiva alone is the self-luminous reality.",
-    "Śiva can conceal his own nature.",
-    "After concealing his nature, śiva can appear again in that lower mode."
+    "In reality, Shiva alone is of such a nature.",
+    "Shiva can conceal his own nature.",
+    "Being self-luminous, he can appear again in that way."
    ],
-   "inference": "The lower faculties can reach śiva because it is śiva himself who, while self-luminous, conceals and manifests his own nature through them.",
+   "inference": "The apparent pervasion by lower faculties is explained by Shiva's self-concealment and self-manifestation.",
    "uncertainties": [],
-   "plain_english": "The answer is this: in reality it is śiva alone, self-luminous by nature. Having concealed his own nature, he appears again in that very form."
+   "plain_english": "The answer is that, in reality, it is Shiva alone who, though self-luminous, conceals his own nature and then appears again in that way."
   },
   {
    "verse": 224,
@@ -475,61 +467,61 @@
     {
      "surface": "dvaitaśāstre",
      "gloss": "in-dualistic-scripture",
-     "grounds": "textual authority cited",
-     "morph": "n.loc.sg, compound=dvaita+śāstra"
+     "grounds": "compound",
+     "morph": "dvaita+śāstra n.loc.sg"
     },
     {
      "surface": "mataṅgādau",
-     "gloss": "in-the-mataṅga-and-others",
-     "grounds": "example of such scriptures",
-     "morph": "n.loc.sg, compound=mataṅga+ādi"
+     "gloss": "in-matanga-and-others",
+     "grounds": "compound",
+     "morph": "mataṅga+ādi n.loc.sg"
     },
     {
      "surface": "cāpyetatsunirūpitam",
-     "gloss": "and-also-this-well-established",
-     "grounds": "sandhi: ca+api+etat+su+nirūpitam",
-     "morph": "(indecl.)+(indecl.)+n.nom.sg, compound=su+nirūpita"
+     "gloss": "and-also-this-well-explained",
+     "grounds": "compound",
+     "morph": "ca+api+etat+su-nirūpita n.nom.sg"
     },
     {
      "surface": "adhovyāptuḥ",
-     "gloss": "of-the-pervader-of-the-lower",
-     "grounds": "śiva as present below",
-     "morph": "m.gen.sg, compound=adhaḥ+vyāpṭṛ"
+     "gloss": "of-the-pervader-below",
+     "grounds": "compound",
+     "morph": "adhas+vyāpṛ m.gen.sg"
     },
     {
      "surface": "śivasyaiva",
-     "gloss": "of-śiva-alone",
-     "grounds": "exclusivity of the source",
-     "morph": "m.gen.sg + (indecl.)"
+     "gloss": "of-shiva-alone",
+     "grounds": "compound",
+     "morph": "śiva+eva m.gen.sg"
     },
     {
      "surface": "sa",
      "gloss": "that",
-     "grounds": "refers to the light",
+     "grounds": "demonstrative pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "prakāśo",
      "gloss": "light",
-     "grounds": "manifest consciousness",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vyavasthitaḥ",
      "gloss": "established",
-     "grounds": "firmly present",
-     "morph": "m.nom.sg, past participle"
+     "grounds": "participle",
+     "morph": "m.nom.sg ppp vi-ava-√sthā"
     }
    ],
-   "question": "Is the presence of śiva in lower realms acknowledged in other scriptural traditions?",
+   "question": "Where is the doctrine of Shiva's lower pervasion also taught?",
    "premises": [
-    "Dualistic scriptures such as the Mataṅga discuss this matter.",
-    "They recognize śiva as pervading even the lower levels.",
-    "The light present there is identified as śiva's own light."
+    "Dualistic scriptures such as the Matanga explain this point.",
+    "The light present below is attributed to Shiva alone.",
+    "That light is established as his manifestation."
    ],
-   "inference": "Even dualistic scriptures affirm that the light operating in the lower realms is the established light of śiva himself.",
+   "inference": "Even dualistic texts acknowledge that the lower pervading light is Shiva's own light.",
    "uncertainties": [],
-   "plain_english": "This is well established even in dualistic scriptures such as the Mataṅga: that light which operates in the lower realms is the established light of śiva himself, the pervader of what is below."
+   "plain_english": "This is well explained in dualistic scriptures such as the Matanga: the light that pervades below is established as the light of Shiva alone."
   },
   {
    "verse": 225,
@@ -537,43 +529,43 @@
     {
      "surface": "yena",
      "gloss": "by-which",
-     "grounds": "refers to that light of śiva",
+     "grounds": "relative pronoun",
      "morph": "m.inst.sg"
     },
     {
      "surface": "buddhi-manobhūmāvapi",
-     "gloss": "even-on-the-level-of-intellect-and-mind",
-     "grounds": "sandhi: buddhi+manas+bhūmau+api",
-     "morph": "f.loc.sg, compound=buddhi+manas+bhūmi + (indecl.)"
+     "gloss": "even-on-level-of-intellect-and-mind",
+     "grounds": "compound",
+     "morph": "buddhi+manas+bhūmi+api f.loc.sg"
     },
     {
      "surface": "bhāti",
      "gloss": "shines",
-     "grounds": "manifest appearance",
-     "morph": "3.sg.pres.act, √bhā"
+     "grounds": "verb",
+     "morph": "3.sg.pres.act √bhā"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "highest reality",
+     "grounds": "adjective",
      "morph": "n.nom.sg"
     },
     {
      "surface": "padam",
      "gloss": "state",
-     "grounds": "the supreme abode or reality",
+     "grounds": "noun",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "Where does the supreme state become manifest according to this account?",
+   "question": "What is the result of Shiva's light reaching the lower levels?",
    "premises": [
-    "Śiva's light is established even in the lower realms.",
-    "The levels of intellect and mind belong to those lower realms.",
-    "That same light makes the supreme state appear there."
+    "Shiva's light extends to the levels of intellect and mind.",
+    "That light makes the supreme state appear there.",
+    "The supreme state can shine even in lower domains."
    ],
-   "inference": "By śiva's own light, the supreme state shines even on the level of intellect and mind.",
+   "inference": "Because of Shiva's light, the supreme state becomes manifest even on the levels of intellect and mind.",
    "uncertainties": [],
-   "plain_english": "By that light, the supreme state shines forth even on the level of intellect and mind."
+   "plain_english": "By that light, the supreme state shines even on the level of intellect and mind."
   },
   {
    "verse": 226,
@@ -581,191 +573,1015 @@
     {
      "surface": "dvāvapyetau",
      "gloss": "these-two-also",
-     "grounds": "sandhi: dvau+api+etau; refers to two absorptions/means",
-     "morph": "m.nom.du + (indecl.) + m.nom.du"
+     "grounds": "compound",
+     "morph": "dvau+api+etau m.du.nom"
     },
     {
      "surface": "samāveśau",
-     "gloss": "absorptions",
-     "grounds": "immersions into reality",
-     "morph": "m.nom.du"
+     "gloss": "immersions",
+     "grounds": "noun",
+     "morph": "m.du.nom"
     },
     {
      "surface": "nirvikalpārṇavaṃ",
-     "gloss": "to-the-ocean-of-the-non-conceptual",
-     "grounds": "goal of both absorptions",
-     "morph": "m.acc.sg, compound=nirvikalpa+arṇava"
+     "gloss": "ocean-of-non-conceptual",
+     "grounds": "compound",
+     "morph": "nirvikalpa+arṇava m.acc.sg"
     },
     {
      "surface": "prati",
      "gloss": "toward",
-     "grounds": "directional marker",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "prayāta",
      "gloss": "gone",
-     "grounds": "oriented toward that goal",
-     "morph": "m.nom.du, past participle"
+     "grounds": "participle",
+     "morph": "m.du.nom ppp pra-√yā"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphasis",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "tadrūḍhiṃ",
      "gloss": "firm-establishment-in-that",
-     "grounds": "stable realization of the non-conceptual",
-     "morph": "f.acc.sg, compound=tad+rūḍhi"
+     "grounds": "compound",
+     "morph": "tad+rūḍhi f.acc.sg"
     },
     {
      "surface": "vinā",
      "gloss": "without",
-     "grounds": "condition of insufficiency",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "naiva",
      "gloss": "not-at-all",
-     "grounds": "strong negation",
-     "morph": "(indecl.)"
+     "grounds": "compound",
+     "morph": "na+eva (indecl.)"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "emphatic reason",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "kiṃcana",
      "gloss": "anything",
-     "grounds": "no result is achieved",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What do the two absorptions accomplish without firm establishment in the non-conceptual?",
+   "question": "Where do the two immersions ultimately lead in this account?",
    "premises": [
-    "Both absorptions are directed toward the ocean of the non-conceptual.",
-    "Their orientation alone is not the same as stable realization.",
-    "Without firm establishment in that non-conceptual state, no real attainment occurs."
+    "Both immersions move toward the ocean of the non-conceptual.",
+    "Without firm establishment in that state, nothing is achieved.",
+    "The non-conceptual is the decisive culmination."
    ],
-   "inference": "Although both absorptions aim at the non-conceptual, they accomplish nothing without firm establishment in it.",
+   "inference": "The two immersions are fulfilled only when they culminate in firm establishment in the non-conceptual.",
    "uncertainties": [
-    "The identity of the two samāveśas is not explicit in this verse alone."
+    "The identity of the two immersions is implied by context rather than named here."
    ],
-   "plain_english": "Both of these absorptions are indeed directed toward the ocean of the non-conceptual; but without firm establishment in that, nothing at all is truly accomplished."
+   "plain_english": "Both of these immersions lead to the ocean of the non-conceptual, and without firm establishment in that, nothing at all is accomplished."
   },
   {
    "verse": 227,
    "rows": [
     {
      "surface": "saṃvittiphalabhiccātra",
-     "gloss": "and-here-a-difference-in-the-fruit-of-awareness",
-     "grounds": "sandhi: saṃvitti+phala+bhit+ca+atra",
-     "morph": "f.nom.sg, compound=saṃvitti+phala+bhid + (indecl.) + (indecl.)"
+     "gloss": "and-difference-of-fruit-of-awareness-here",
+     "grounds": "compound",
+     "morph": "saṃvitti+phala+bhid+ca+atra f.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "prakalpyetyato@bravīt",
-     "gloss": "should-be-assumed-therefore-he-said",
-     "grounds": "sandhi: prakalpyā+iti+ataḥ+abravīt",
-     "morph": "f.nom.sg gerundive + (indecl.) + (indecl.) + 3.sg.imperf.act, √brū"
+     "gloss": "to-be-imagined-thus-he-said",
+     "grounds": "compound",
+     "morph": "pra-√kḷp+iti+atas+abravīt"
     },
     {
      "surface": "kalpanāyāśca",
      "gloss": "and-of-conceptual-construction",
-     "grounds": "sandhi: kalpanāyāḥ+ca",
-     "morph": "f.gen.sg + (indecl.)"
+     "grounds": "compound",
+     "morph": "kalpanā+ca f.gen.sg"
     },
     {
      "surface": "mukhyatvamatraiva",
-     "gloss": "primacy-right-here",
-     "grounds": "sandhi: mukhyatvam+atra+eva",
-     "morph": "n.nom.sg, compound=mukhya+tva + (indecl.) + (indecl.)"
+     "gloss": "primacy-here-alone",
+     "grounds": "compound",
+     "morph": "mukhyatva+atra+eva n.nom.sg"
     },
     {
      "surface": "kila",
      "gloss": "indeed",
-     "grounds": "reports a known point",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
      "surface": "sūcitam",
      "gloss": "indicated",
-     "grounds": "hinted by the teaching",
-     "morph": "n.nom.sg, past participle"
+     "grounds": "participle",
+     "morph": "n.nom.sg ppp sūc"
     }
    ],
-   "question": "Is there a difference in the final fruit of awareness, and what is primary in this context?",
+   "question": "Is there a difference in the fruit of awareness between these approaches?",
    "premises": [
-    "One might suppose a difference in the fruit of awareness.",
-    "The teaching rejects positing such a difference here.",
-    "In this context, conceptual construction is indicated as having primacy."
+    "No difference in the fruit of awareness should be imagined here.",
+    "The text indicates the primacy of conceptual construction in this context.",
+    "The statement addresses how the means are evaluated."
    ],
-   "inference": "No difference in the fruit of awareness should be assumed here; rather, the primacy of conceptual construction in this stage is being indicated.",
-   "uncertainties": [
-    "The scope of 'here' (atra) may refer to the śākta stage or to the present discussion more broadly."
-   ],
-   "plain_english": "Here no difference in the fruit of awareness should be assumed; therefore it was said that, in this context, conceptual construction is indeed indicated as primary."
+   "inference": "Although conceptual construction has a primary role here, it does not produce a different ultimate fruit of awareness.",
+   "uncertainties": [],
+   "plain_english": "No difference in the fruit of awareness should be imagined here; therefore it is indicated that conceptual construction has primacy in this context."
   },
   {
    "verse": 228,
    "rows": [
     {
      "surface": "vikalpāpekṣayā",
-     "gloss": "in-dependence-on-conceptual-construction",
-     "grounds": "relative to vikalpa",
-     "morph": "f.inst.sg, compound=vikalpa+apekṣā"
+     "gloss": "in-relation-to-conceptual-thought",
+     "grounds": "compound",
+     "morph": "vikalpa+apekṣā f.inst.sg"
     },
     {
      "surface": "yo@pi",
-     "gloss": "even-that-which",
-     "grounds": "sandhi: yaḥ+api",
-     "morph": "m.nom.sg + (indecl.)"
+     "gloss": "who-even",
+     "grounds": "compound",
+     "morph": "yaḥ+api m.nom.sg"
     },
     {
      "surface": "prāmāṇyaṃ",
-     "gloss": "valid-cognition",
-     "grounds": "authoritative knowing",
+     "gloss": "validity",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "prāha",
      "gloss": "declared",
-     "grounds": "stated in that view",
-     "morph": "3.sg.perf.act, pra+√ah/√brū"
+     "grounds": "verb",
+     "morph": "3.sg.perf.act pra-√ah"
     },
     {
      "surface": "tanmate",
      "gloss": "in-that-view",
-     "grounds": "sandhi: tat+mate",
-     "morph": "n.loc.sg, compound=tad+mata"
+     "grounds": "compound",
+     "morph": "tad+mata n.loc.sg"
     },
     {
      "surface": "tadvikalpakramopāttanirvikalpapramāṇatā",
-     "gloss": "validity-of-the-non-conceptual-obtained-through-the-sequence-of-those-concepts",
-     "grounds": "non-conceptual knowing reached via vikalpa sequence",
-     "morph": "f.nom.sg, compound=tad+vikalpa+krama+upātta+nirvikalpa+pramāṇatā"
+     "gloss": "validity-of-non-conceptual-gained-through-that-conceptual-sequence",
+     "grounds": "compound",
+     "morph": "tad+vikalpa+krama+upātta+nirvikalpa+pramāṇatā f.nom.sg"
     }
    ],
-   "question": "How can the non-conceptual have validity if validity is explained in relation to conceptual construction?",
+   "question": "How can validity be attributed to the non-conceptual in relation to conceptual thought?",
    "premises": [
-    "Some accounts explain valid cognition in dependence on conceptual construction.",
-    "In that same framework, the non-conceptual can be reached through a sequence of concepts.",
-    "What is reached through that sequence can still count as valid cognition."
+    "Some declare validity in relation to conceptual thought.",
+    "In that view, the non-conceptual is reached through a sequence of conceptual steps.",
+    "The non-conceptual thereby gains recognized validity."
    ],
-   "inference": "Even in a view that grounds validity in vikalpa, the non-conceptual attained through the sequence of concepts can possess valid cognitive status.",
-   "uncertainties": [
-    "tanmate may refer to a specific opponent school or to a general epistemic position."
+   "inference": "Even the non-conceptual may be treated as valid when it is attained through a disciplined conceptual sequence.",
+   "uncertainties": [],
+   "plain_english": "For one who declares validity in relation to conceptual thought, the non-conceptual has validity because it is attained through that sequence of conceptual steps."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "ratnatattvamavidvānprāṅniścayopāyacarcanāt",
+     "gloss": "not-knowing-jewel-truth-first-by-practice-of-certainty-means",
+     "grounds": "compound",
+     "morph": "ratna+tattva+a-vidvas+prāk+niścaya+upāya+carcana m.nom.sg"
+    },
+    {
+     "surface": "anupāyāvikalpāptau",
+     "gloss": "on-attaining-non-conceptual-without-means",
+     "grounds": "compound",
+     "morph": "anupāya+avikalpa+āpti f.loc.sg"
+    },
+    {
+     "surface": "ratnajña",
+     "gloss": "knower-of-jewel",
+     "grounds": "compound",
+     "morph": "ratna+jña m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pres.pass √bhaṇ"
+    }
    ],
-   "plain_english": "Even in that view which explains valid cognition in dependence on conceptual construction, the non-conceptual attained through the sequence of those concepts is still regarded as valid cognition."
+   "question": "Why is someone called a knower of the jewel after first using the means of certainty?",
+   "premises": [
+    "At first one may not know the true nature of the jewel.",
+    "Practice through the means of certainty precedes direct attainment.",
+    "Attainment of the non-conceptual without means follows."
+   ],
+   "inference": "One is called a knower of the jewel because mediated practice leads to direct non-conceptual attainment.",
+   "uncertainties": [],
+   "plain_english": "One who at first does not know the true nature of the jewel, but practices through the means of certainty, is called a knower of the jewel when the non-conceptual is attained without means."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "abhedopāyamatroktaṃ",
+     "gloss": "here-non-difference-means-stated",
+     "grounds": "compound",
+     "morph": "abheda+upāya+atra+ukta n.nom.sg"
+    },
+    {
+     "surface": "śāmbhavaṃ",
+     "gloss": "shambhava",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāktamucyate",
+     "gloss": "shakta-is-called",
+     "grounds": "compound",
+     "morph": "śākta+ucyate n.nom.sg"
+    },
+    {
+     "surface": "bhedābhedātmakopāyaṃ",
+     "gloss": "means-of-nature-of-difference-and-non-difference",
+     "grounds": "compound",
+     "morph": "bheda+abheda+ātmaka+upāya n.nom.sg"
+    },
+    {
+     "surface": "bhedopāyaṃ",
+     "gloss": "difference-means",
+     "grounds": "compound",
+     "morph": "bheda+upāya n.nom.sg"
+    },
+    {
+     "surface": "tadāṇavam",
+     "gloss": "that-individual",
+     "grounds": "compound",
+     "morph": "tad+āṇava n.nom.sg"
+    }
+   ],
+   "question": "How are the three means classified by difference and non-difference?",
+   "premises": [
+    "The shambhava means is characterized by non-difference.",
+    "The shakta means is characterized by both difference and non-difference.",
+    "The individual means is characterized by difference."
+   ],
+   "inference": "The three means form a graded classification based on how difference and non-difference are held.",
+   "uncertainties": [],
+   "plain_english": "Here the shambhava means is taught as the means of non-difference, the shakta as the means of both difference and non-difference, and the individual as the means of difference."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "in-the-end",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāne@tra",
+     "gloss": "in-knowledge-here",
+     "grounds": "compound",
+     "morph": "jñāna+atra n.loc.sg"
+    },
+    {
+     "surface": "sopāye",
+     "gloss": "with-means",
+     "grounds": "compound",
+     "morph": "sa+upāya n.loc.sg"
+    },
+    {
+     "surface": "samastaḥ",
+     "gloss": "entire",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmavistaraḥ",
+     "gloss": "expanse-of-action",
+     "grounds": "compound",
+     "morph": "karman+vistara m.nom.sg"
+    },
+    {
+     "surface": "prasphuṭenaiva",
+     "gloss": "by-very-clear",
+     "grounds": "compound",
+     "morph": "pra-sphuṭa+eva m.inst.sg"
+    },
+    {
+     "surface": "rūpeṇa",
+     "gloss": "form",
+     "grounds": "noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhāvī",
+     "gloss": "to-be",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "so@ntarbhaviṣyati",
+     "gloss": "that-will-be-included-within",
+     "grounds": "compound",
+     "morph": "saḥ+antar-√bhū 3.sg.fut.act"
+    }
+   ],
+   "question": "What becomes of the whole expanse of action in knowledge that still involves means?",
+   "premises": [
+    "Knowledge here may still be accompanied by means.",
+    "The entire expanse of action remains relevant in that context.",
+    "That expanse will be included within knowledge in a clear form."
+   ],
+   "inference": "In mediated knowledge, all action is ultimately contained within knowledge itself.",
+   "uncertainties": [],
+   "plain_english": "In the end, within knowledge that still involves means, the entire expanse of action will be included in a very clear form."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "namely",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñānānnānyadvastu",
+     "gloss": "not-other-thing-than-knowledge",
+     "grounds": "compound",
+     "morph": "vijñāna+na+anya+vastu n.nom.sg"
+    },
+    {
+     "surface": "kramātmatām",
+     "gloss": "state-of-sequential-nature",
+     "grounds": "compound",
+     "morph": "krama+ātmatā f.acc.sg"
+    },
+    {
+     "surface": "upāyavaśataḥ",
+     "gloss": "by-force-of-means",
+     "grounds": "compound",
+     "morph": "upāya+vaśatas (indecl.)"
+    },
+    {
+     "surface": "prāptaṃ",
+     "gloss": "attained",
+     "grounds": "participle",
+     "morph": "n.nom.sg ppp pra-√āp"
+    },
+    {
+     "surface": "tatkriyeti",
+     "gloss": "that-is-action-thus",
+     "grounds": "compound",
+     "morph": "tad+kriyā+iti f.nom.sg"
+    },
+    {
+     "surface": "puroditam",
+     "gloss": "stated-before",
+     "grounds": "compound",
+     "morph": "puras+udita n.nom.sg"
+    }
+   ],
+   "question": "What is the relation between action and liberating knowledge in this teaching?",
+   "premises": [
+    "Action is not a thing other than knowledge.",
+    "Through the force of means, knowledge appears in sequential form.",
+    "That sequential appearance is called action."
+   ],
+   "inference": "Action is knowledge appearing sequentially under the influence of means.",
+   "uncertainties": [],
+   "plain_english": "Action is not something other than knowledge; it is knowledge that, through the force of means, has taken on a sequential form, and that is what was called action earlier."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "samyagjñānaṃ",
+     "gloss": "right-knowledge",
+     "grounds": "compound",
+     "morph": "samyak+jñāna n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktyekakāraṇaṃ",
+     "gloss": "sole-cause-of-liberation",
+     "grounds": "compound",
+     "morph": "mukti+eka+kāraṇa n.nom.sg"
+    },
+    {
+     "surface": "svaparasthitam",
+     "gloss": "abiding-in-self-and-other",
+     "grounds": "compound",
+     "morph": "sva+para+sthita n.nom.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpanāmātraṃ",
+     "gloss": "mere-conceptual-construction",
+     "grounds": "compound",
+     "morph": "kalpanā+mātra n.nom.sg"
+    },
+    {
+     "surface": "svaparādivibhūtayaḥ",
+     "gloss": "manifestations-of-self-and-other-and-so-on",
+     "grounds": "compound",
+     "morph": "sva+para+ādi+vibhūti f.pl.nom"
+    }
+   ],
+   "question": "Why is right knowledge said to be the sole cause of liberation?",
+   "premises": [
+    "Right knowledge is the sole cause of liberation.",
+    "The divisions of self, other, and so on are mere conceptual constructions.",
+    "These divisions appear as abiding in self and other."
+   ],
+   "inference": "Liberation depends on right knowledge because the apparent divisions it overcomes are only conceptual.",
+   "uncertainties": [],
+   "plain_english": "Right knowledge is the sole cause of liberation, because the manifestations of self, other, and so on are nothing more than conceptual construction."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "tulye",
+     "gloss": "when-equal",
+     "grounds": "adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kālpanikatve",
+     "gloss": "state-of-being-conceptual",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadaikyasphuraṇātmakaḥ",
+     "gloss": "when-of-nature-of-flash-of-oneness",
+     "grounds": "compound",
+     "morph": "yadā+aikya+sphuraṇa+ātmaka m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāvadekātmā",
+     "gloss": "then-of-one-nature",
+     "grounds": "compound",
+     "morph": "tāvat+eka+ātman m.nom.sg"
+    },
+    {
+     "surface": "siddho",
+     "gloss": "accomplished",
+     "grounds": "participle",
+     "morph": "m.nom.sg ppp √sidh"
+    },
+    {
+     "surface": "muktaśca",
+     "gloss": "and-liberated",
+     "grounds": "compound",
+     "morph": "mukta+ca m.nom.sg"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pres.pass √bhaṇ"
+    }
+   ],
+   "question": "What distinguishes the teacher when all appearances are equally conceptual?",
+   "premises": [
+    "All appearances may be equally conceptual in status.",
+    "The teacher is characterized by a flash of oneness.",
+    "That oneness defines his realized state."
+   ],
+   "inference": "The teacher is called accomplished and liberated because he abides in the flash of oneness amid equally conceptual appearances.",
+   "uncertainties": [],
+   "plain_english": "When all things are equally conceptual, the teacher whose nature is a flash of oneness is called accomplished and liberated, being of one nature."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "yāvānasya",
+     "gloss": "as-far-as-his",
+     "grounds": "compound",
+     "morph": "yāvat+asya m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃtāno",
+     "gloss": "continuum",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gurustāvatsa",
+     "gloss": "teacher-to-that-extent-he",
+     "grounds": "compound",
+     "morph": "guru+tāvat+sa m.nom.sg"
+    },
+    {
+     "surface": "kīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg ppp √kīrt"
+    },
+    {
+     "surface": "samyagjñānamayaśceti",
+     "gloss": "and-made-of-right-knowledge-thus",
+     "grounds": "compound",
+     "morph": "samyak+jñāna+maya+ca+iti m.nom.sg"
+    },
+    {
+     "surface": "svātmanā",
+     "gloss": "by-his-own-self",
+     "grounds": "compound",
+     "morph": "sva+ātman m.inst.sg"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "verb",
+     "morph": "3.sg.pres.pass √muc"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How far does the teacher's liberating knowledge extend?",
+   "premises": [
+    "The teacher is identified with the extent of his continuum.",
+    "That continuum is made of right knowledge.",
+    "Liberation occurs through that very self."
+   ],
+   "inference": "The teacher is liberated by his own self insofar as his whole continuum is constituted by right knowledge.",
+   "uncertainties": [],
+   "plain_english": "To the extent of his continuum, he is declared the teacher, made of right knowledge; therefore he is liberated by his own self."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svasaṃtānaṃ",
+     "gloss": "his-own-continuum",
+     "grounds": "compound",
+     "morph": "sva+saṃtāna m.acc.sg"
+    },
+    {
+     "surface": "jñānī",
+     "gloss": "the-knower",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tārayatītyadaḥ",
+     "gloss": "carries-across-thus-this",
+     "grounds": "compound",
+     "morph": "tārayati+iti+adas 3.sg.pres.act √tṛ"
+    },
+    {
+     "surface": "yuktyāgamābhyāṃ",
+     "gloss": "by-reasoning-and-scripture",
+     "grounds": "compound",
+     "morph": "yukti+āgama m.du.inst"
+    },
+    {
+     "surface": "saṃsiddhaṃ",
+     "gloss": "well-established",
+     "grounds": "participle",
+     "morph": "n.nom.sg ppp sam-√sidh"
+    },
+    {
+     "surface": "tāvāneko",
+     "gloss": "to-that-extent-one",
+     "grounds": "compound",
+     "morph": "tāvat+eka m.nom.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can the knower carry others across if liberation is by knowledge?",
+   "premises": [
+    "The knower carries across his own continuum.",
+    "This is established by reasoning and scripture.",
+    "To that extent the sage is one with that continuum."
+   ],
+   "inference": "The knower's power to carry across is grounded in the unity of his knowledge-filled continuum.",
+   "uncertainties": [],
+   "plain_english": "Therefore the knower carries across his own continuum; this is well established by reasoning and scripture, because to that extent the sage is one."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "tenātra",
+     "gloss": "therefore-here",
+     "grounds": "compound",
+     "morph": "tena+atra (indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "relative pronoun",
+     "morph": "m.pl.nom"
+    },
+    {
+     "surface": "codayanti",
+     "gloss": "object",
+     "grounds": "verb",
+     "morph": "3.pl.pres.act √cud"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "but-surely",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānādvimuktatā",
+     "gloss": "liberation-from-knowledge",
+     "grounds": "compound",
+     "morph": "jñāna+vimuktatā f.nom.sg"
+    },
+    {
+     "surface": "dīkṣādikā",
+     "gloss": "initiation-and-so-on",
+     "grounds": "compound",
+     "morph": "dīkṣā+ādi f.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "ritual-action",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ceyaṃ",
+     "gloss": "and-this",
+     "grounds": "compound",
+     "morph": "ca+iyam f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktaye",
+     "gloss": "for-liberation",
+     "grounds": "noun",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "could-be",
+     "grounds": "verb",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "How can ritual action like initiation lead to liberation if liberation comes from knowledge?",
+   "premises": [
+    "Liberation is said to come from knowledge.",
+    "Initiation and other ritual actions are also taught.",
+    "Opponents question how ritual action can cause liberation."
+   ],
+   "inference": "The objection sets up a tension between knowledge as the cause of liberation and ritual action as a means.",
+   "uncertainties": [],
+   "plain_english": "Therefore some object here: if liberation comes from knowledge, how can initiation and other ritual actions bring about liberation?"
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "jñānātmā",
+     "gloss": "of-nature-of-knowledge",
+     "grounds": "compound",
+     "morph": "jñāna+ātman f.nom.sg"
+    },
+    {
+     "surface": "seti",
+     "gloss": "if-it-is-thus",
+     "grounds": "compound",
+     "morph": "sā+iti f.nom.sg"
+    },
+    {
+     "surface": "cejjñānaṃ",
+     "gloss": "if-knowledge",
+     "grounds": "compound",
+     "morph": "cet+jñāna n.nom.sg"
+    },
+    {
+     "surface": "yatrasthaṃ",
+     "gloss": "standing-where",
+     "grounds": "compound",
+     "morph": "yatra+stha n.nom.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that-one",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vimocayet",
+     "gloss": "would-liberate",
+     "grounds": "verb",
+     "morph": "3.sg.opt.act vi-√muc"
+    },
+    {
+     "surface": "anyasya",
+     "gloss": "of-another",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mocane",
+     "gloss": "in-liberating",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "compound",
+     "morph": "vā+api (indecl.)"
+    },
+    {
+     "surface": "bhavetkiṃ",
+     "gloss": "would-there-be-what",
+     "grounds": "compound",
+     "morph": "bhavet+kim 3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "nāsamañjasam",
+     "gloss": "not-improper",
+     "grounds": "compound",
+     "morph": "na+asamañjasa n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.pl.nom"
+    },
+    {
+     "surface": "mūlataḥ",
+     "gloss": "from-the-root",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣiptā",
+     "gloss": "refuted",
+     "grounds": "participle",
+     "morph": "m.pl.nom ppp √kṣip"
+    },
+    {
+     "surface": "yattvatrānyaiḥ",
+     "gloss": "because-here-by-others",
+     "grounds": "compound",
+     "morph": "yat+tu+atra+anya m.pl.inst"
+    },
+    {
+     "surface": "samarthitam",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "n.nom.sg ppp sam-√arth"
+    }
+   ],
+   "question": "Does the objection about knowledge and ritual action undermine the teaching?",
+   "premises": [
+    "If ritual action is of the nature of knowledge, it should liberate where that knowledge stands.",
+    "Liberating another would raise a further difficulty.",
+    "Others have already established an answer to this objection."
+   ],
+   "inference": "The objection is rejected as baseless because its implications have already been addressed.",
+   "uncertainties": [],
+   "plain_english": "If initiation is of the nature of knowledge, then knowledge would liberate where it stands; and if it liberated another, what inconsistency would there be? Those who raise this objection are refuted at the root, since others have already established the answer."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "malo",
+     "gloss": "impurity",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "namely",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cakṣuḥsthapaṭalādivat",
+     "gloss": "like-film-on-the-eye-and-so-on",
+     "grounds": "compound",
+     "morph": "cakṣus+stha+paṭala+ādi+vat (indecl.)"
+    },
+    {
+     "surface": "tadvihantrī",
+     "gloss": "destroyer-of-that",
+     "grounds": "compound",
+     "morph": "tad+vihantrī f.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "ritual-action",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvañjanādikakarmavat",
+     "gloss": "like-applying-collyrium-and-such-acts",
+     "grounds": "compound",
+     "morph": "tu+añjana+ādi+ka+karman+vat (indecl.)"
+    }
+   ],
+   "question": "How do some explain impurity and the role of initiation as ritual action?",
+   "premises": [
+    "Some hold that impurity is a substance.",
+    "They compare it to a film over the eye.",
+    "They compare initiation to an act like applying collyrium."
+   ],
+   "inference": "In this view, initiation is a ritual action that removes a substantial impurity.",
+   "uncertainties": [],
+   "plain_english": "Some say that impurity is indeed a substance, like a film on the eye, and that initiation is a ritual action that removes it, like applying collyrium."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "tatpurastānniṣetsyāmo",
+     "gloss": "that-we-will-refute-later",
+     "grounds": "compound",
+     "morph": "tad+purastāt+ni-√sidh 1.pl.fut.act"
+    },
+    {
+     "surface": "yuktyāgamavigarhitam",
+     "gloss": "condemned-by-reasoning-and-scripture",
+     "grounds": "compound",
+     "morph": "yukti+āgama+vigarhita n.acc.sg"
+    },
+    {
+     "surface": "malamāyākarmaṇāṃ",
+     "gloss": "of-impurity-maya-and-karma",
+     "grounds": "compound",
+     "morph": "mala+māyā+karman n.pl.gen"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśayiṣyāmahe",
+     "gloss": "we-will-show",
+     "grounds": "verb",
+     "morph": "1.pl.fut.mid √dṛś"
+    },
+    {
+     "surface": "sthitim",
+     "gloss": "status",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How will the text respond to the substantialist view of impurity and initiation?",
+   "premises": [
+    "The substantialist view is criticized by reasoning and scripture.",
+    "The text promises to refute that view later.",
+    "The text will also explain the status of impurity, maya, and karma."
+   ],
+   "inference": "The author postpones a fuller refutation and will clarify the true status of impurity, maya, and karma.",
+   "uncertainties": [],
+   "plain_english": "We will refute that view later, since it is condemned by reasoning and scripture, and we will show the true status of impurity, maya, and karma."
   }
  ]
 }
