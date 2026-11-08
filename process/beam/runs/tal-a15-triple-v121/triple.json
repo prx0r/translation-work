@@ -1,0 +1,894 @@
+{
+ "song": "Tantraloka a15",
+ "items": [
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "na",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "body-part",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṛ",
+     "gloss": "ṛ",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṝ",
+     "gloss": "ṝ",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḷ",
+     "gloss": "ḷ",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḷḷ",
+     "gloss": "ḷḷ",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiromālā",
+     "gloss": "head-garland",
+     "grounds": "body-part",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tha",
+     "gloss": "tha",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mastakam",
+     "gloss": "skull-top",
+     "grounds": "body-part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "netrāṇi",
+     "gloss": "eyes",
+     "grounds": "body-part",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "cordhve",
+     "gloss": "and-upper",
+     "grounds": "location",
+     "morph": "ca+(indecl.)+n.nom.pl"
+    },
+    {
+     "surface": "dho@nye",
+     "gloss": "lower-and-other",
+     "grounds": "location",
+     "morph": "adhas+(indecl.)+n.nom.pl"
+    },
+    {
+     "surface": "ī",
+     "gloss": "ī",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghrāṇaṃ",
+     "gloss": "nose",
+     "grounds": "body-part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mudre",
+     "gloss": "two-seals",
+     "grounds": "body-part",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "ṇu",
+     "gloss": "ṇu",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṇū",
+     "gloss": "ṇū",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutī",
+     "gloss": "two-ears",
+     "grounds": "body-part",
+     "morph": "f.nom.du"
+    }
+   ],
+   "question": "Which phonemes of the Malini are assigned to the crest, head, eyes, nose, seals, and ears?",
+   "premises": [
+    "The phoneme na is placed on the crest.",
+    "The phonemes ṛ, ṝ, ḷ, and ḷḷ are placed on the head-garland.",
+    "The phoneme tha is placed on the skull-top, and the upper and lower eyes receive their assigned phonemes.",
+    "The phoneme ī is placed on the nose, and ṇu and ṇū are placed on the two seals and two ears."
+   ],
+   "inference": "This verse continues the bodily installation of Malini phonemes by mapping specific syllables to the upper head, eyes, nose, ritual seals, and ears.",
+   "uncertainties": [
+    "The exact parsing of cordhve and dho@nye is compressed in the transmitted text.",
+    "The identity of the two mudras or seals is not specified in this verse."
+   ],
+   "plain_english": "Na is placed on the crest; ṛ, ṝ, ḷ, and ḷḷ on the garland of the head; tha on the top of the skull. The upper and lower eyes receive their phonemes, ī is placed on the nose, and ṇu and ṇū on the two seals and the two ears."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "bakavarga+i+ā",
+     "gloss": "ba-ka-group-with-i-and-ā",
+     "grounds": "phoneme-group",
+     "morph": "ba-ka-varga+i+ā"
+    },
+    {
+     "surface": "vaktradantajihvāgiri",
+     "gloss": "mouth-teeth-tongue-palate",
+     "grounds": "body-part",
+     "morph": "vaktra-danta-jihvā-giri+loc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequence",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vabhayāḥ",
+     "gloss": "of-va-and-bha",
+     "grounds": "phoneme",
+     "morph": "va-bha+f.gen.sg"
+    },
+    {
+     "surface": "kaṇṭhadakṣādiskandhayorbhujayorḍaḍhau",
+     "gloss": "throat-right-shoulder-left-shoulder-arms-ḍa-and-ḍha",
+     "grounds": "body-part+phoneme",
+     "morph": "kaṇṭha-dakṣa-ādi-skandha+loc.du+bhuja+loc.du+ḍa-ḍha+nom.du"
+    }
+   ],
+   "question": "How are the ba-ka group and related phonemes assigned in sequence to the mouth, throat, shoulders, and arms?",
+   "premises": [
+    "The ba-ka group together with i and ā is assigned in order to the mouth, teeth, tongue, and palate.",
+    "The phonemes va and bha are assigned to the throat and the right and other shoulders.",
+    "The phonemes ḍa and ḍha are assigned to the two arms."
+   ],
+   "inference": "The Malini installation proceeds downward from the oral cavity to the throat, shoulders, and arms in a fixed sequence.",
+   "uncertainties": [
+    "The compound bakavarga+i+ā is given in an analytical form in the source and may reflect an editorial segmentation.",
+    "The exact distribution of va and bha across throat and shoulders is compressed in the compound."
+   ],
+   "plain_english": "The ba-ka group, together with i and ā, is placed in order on the mouth, teeth, tongue, and palate. Va and bha are assigned to the throat and the shoulders, and ḍa and ḍha to the two arms."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "ṭho",
+     "gloss": "ṭha",
+     "grounds": "phoneme",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hastayorjhañau",
+     "gloss": "on-two-hands-ja-and-ña",
+     "grounds": "body-part+phoneme",
+     "morph": "hasta+loc.du+ja-ña+nom.du"
+    },
+    {
+     "surface": "śākhā",
+     "gloss": "branches",
+     "grounds": "body-part",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jraṭau",
+     "gloss": "jra-and-ṭa",
+     "grounds": "phoneme",
+     "morph": "nom.du"
+    },
+    {
+     "surface": "śūlakapālake",
+     "gloss": "trident-and-skull-cup",
+     "grounds": "attribute",
+     "morph": "śūla-kapālaka+nom.du"
+    },
+    {
+     "surface": "pa",
+     "gloss": "pa",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛcchalau",
+     "gloss": "heart-and-cha-and-la",
+     "grounds": "body-part+phoneme",
+     "morph": "hṛd+cha-la+nom.du"
+    },
+    {
+     "surface": "stanau",
+     "gloss": "two-breasts",
+     "grounds": "body-part",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kṣīramā",
+     "gloss": "milk-and-mā",
+     "grounds": "substance+phoneme",
+     "morph": "kṣīra+mā"
+    },
+    {
+     "surface": "sa",
+     "gloss": "sa",
+     "grounds": "phoneme",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvo",
+     "gloss": "life-force",
+     "grounds": "vital-principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "visargayuk",
+     "gloss": "joined-with-visarga",
+     "grounds": "phoneme-feature",
+     "morph": "visarga-yuj+nom.sg"
+    }
+   ],
+   "question": "Which phonemes are placed on the hands, branches, heart, breasts, and vital breath in this stage of the Malini installation?",
+   "premises": [
+    "Ṭha is placed on the two hands, and ja and ña are placed on the branches.",
+    "Jra and ṭa are associated with the trident and skull-cup, while pa, cha, and la are placed on the heart and breasts.",
+    "Sa joined with visarga is identified with the life-force."
+   ],
+   "inference": "The installation links phonemes not only to body parts but also to divine attributes and the vital principle.",
+   "uncertainties": [
+    "The form jraṭau is unusual and may reflect a compressed or transmitted cluster.",
+    "The exact referent of śākhā, whether fingers or extended limbs, is not explicit."
+   ],
+   "plain_english": "Ṭha is placed on the two hands, and ja and ña on the branches. Jra and ṭa are linked with the trident and skull-cup. Pa, cha, and la are placed on the heart and breasts, with milk and mā, and sa joined with visarga is identified as the life-force."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "prāṇo",
+     "gloss": "breath",
+     "grounds": "vital-principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "havarṇaḥ",
+     "gloss": "ha-phoneme",
+     "grounds": "phoneme",
+     "morph": "ha-varṇa+m.nom.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "declared",
+     "grounds": "statement",
+     "morph": "m.nom.sg.past-passive-participle kath"
+    },
+    {
+     "surface": "ṣakṣāvudaranābhigau",
+     "gloss": "ṣa-and-kṣa-going-to-belly-and-navel",
+     "grounds": "phoneme+body-part",
+     "morph": "ṣa-kṣa+nom.du+udara-nābhi-ga+m.nom.du"
+    },
+    {
+     "surface": "maśāntā",
+     "gloss": "ending-with-ma-and-śa",
+     "grounds": "phoneme-group",
+     "morph": "ma-śa-anta+m.nom.pl"
+    },
+    {
+     "surface": "kaṭiguhyoruyugmagā",
+     "gloss": "going-to-hips-groin-and-thigh-pair",
+     "grounds": "body-part",
+     "morph": "kaṭi-guhya-ūru-yugma-ga+m.nom.pl"
+    },
+    {
+     "surface": "jānunī",
+     "gloss": "two-knees",
+     "grounds": "body-part",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the breath and the phonemes ha, ṣa, kṣa, ma, and śa distributed over the torso and lower body?",
+   "premises": [
+    "The ha phoneme is declared to be the breath.",
+    "Ṣa and kṣa go to the belly and navel.",
+    "The group ending with ma and śa goes to the hips, groin, and pair of thighs, and likewise to the knees."
+   ],
+   "inference": "The Malini installation extends into the vital and lower bodily regions, aligning phonemes with breath and generative centers.",
+   "uncertainties": [
+    "The scope of maśāntā is compact and may include intermediate phonemes not named separately.",
+    "The exact mapping to knees versus thighs is compressed in the verse."
+   ],
+   "plain_english": "The ha phoneme is declared to be the breath. Ṣa and kṣa are placed on the belly and navel. The group ending with ma and śa goes to the hips, groin, and pair of thighs, and likewise to the knees."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "eaikārau",
+     "gloss": "e-and-ai",
+     "grounds": "phoneme",
+     "morph": "e-ai+m.nom.du"
+    },
+    {
+     "surface": "tatparau",
+     "gloss": "following-them",
+     "grounds": "sequence",
+     "morph": "tad-para+m.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṅghe",
+     "gloss": "two-shins",
+     "grounds": "body-part",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "caraṇagau",
+     "gloss": "going-to-feet",
+     "grounds": "body-part",
+     "morph": "caraṇa-ga+m.nom.du"
+    },
+    {
+     "surface": "daphau",
+     "gloss": "da-and-pha",
+     "grounds": "phoneme",
+     "morph": "da-pha+nom.du"
+    },
+    {
+     "surface": "ityeṣā",
+     "gloss": "thus-this",
+     "grounds": "conclusion",
+     "morph": "iti+eṣā+f.nom.sg"
+    },
+    {
+     "surface": "mālinī",
+     "gloss": "malini",
+     "grounds": "goddess-mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktimatkṣobhitā",
+     "gloss": "stirred-by-the-power-holder",
+     "grounds": "doctrine",
+     "morph": "śaktimat-kṣobhita+f.nom.sg.past-passive-participle kṣubh"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the Malini installation conclude on the lower limbs, and why is Malini called a stirred goddess?",
+   "premises": [
+    "E and ai, and the phonemes following them, are placed on the shins.",
+    "Da and pha go to the feet.",
+    "This Malini goddess is stirred by the holder of power."
+   ],
+   "inference": "The completed bodily mapping reveals Malini as a goddess whose phonemic body is activated by the stirring of Shakti.",
+   "uncertainties": [
+    "The phrase tatparau leaves the identity of the following phonemes implicit.",
+    "Śaktimat could refer to Shiva or to a power-bearing principle; the verse does not name the agent explicitly."
+   ],
+   "plain_english": "E and ai, and the phonemes that follow them, are placed on the shins, while da and pha go to the feet. This is the goddess Malini, because she is stirred into activity by the one who holds power."
+  },
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "kṛtyāveśāttataḥ",
+     "gloss": "from-entry-into-action-therefore",
+     "grounds": "doctrine",
+     "morph": "kṛtya-āveśa+abl.sg+tatas"
+    },
+    {
+     "surface": "śāktī",
+     "gloss": "belonging-to-shakti",
+     "grounds": "doctrine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tanuḥ",
+     "gloss": "body",
+     "grounds": "form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "referent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramārthataḥ",
+     "gloss": "in-ultimate-truth",
+     "grounds": "doctrine",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyonyaṃ",
+     "gloss": "mutually",
+     "grounds": "relation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījayonīnāṃ",
+     "gloss": "of-seeds-and-wombs",
+     "grounds": "doctrine",
+     "morph": "bīja-yoni+f.gen.pl"
+    },
+    {
+     "surface": "kṣobhādvaisargikodayāt",
+     "gloss": "from-stirring-from-emissive-arising",
+     "grounds": "doctrine",
+     "morph": "kṣobha+abl.sg+vaisargika-udaya+abl.sg"
+    }
+   ],
+   "question": "Why is Malini's body ultimately identified as a Shakti body?",
+   "premises": [
+    "Because she enters into action, her body is of the nature of Shakti.",
+    "In ultimate truth, this arises from the mutual stirring of seeds and wombs.",
+    "That stirring produces an emissive arising."
+   ],
+   "inference": "Malini's phonemic form is not merely symbolic but is grounded in the dynamic Shakti process of mutual arousal and emission.",
+   "uncertainties": [
+    "Bīja and yoni may refer simultaneously to phonemic seeds and cosmic principles.",
+    "Vaisargikodaya can suggest both phonetic emission and creative outflow."
+   ],
+   "plain_english": "Because she enters into action, her body is, in ultimate truth, a body of Shakti. This comes from the mutual stirring of seeds and wombs and from the arising that flows out as emission."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "kāṃ",
+     "gloss": "what",
+     "grounds": "question",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāṃ",
+     "gloss": "what",
+     "grounds": "question",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "goal",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vitaretkiṃ",
+     "gloss": "would-she-not-give-what",
+     "grounds": "rhetorical-question",
+     "morph": "3.sg.optative vi-tṛ+kim"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyūnaṃ",
+     "gloss": "deficiency",
+     "grounds": "lack",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "would-she-fill",
+     "grounds": "result",
+     "morph": "3.sg.optative pūr"
+    },
+    {
+     "surface": "yonibījārṇasāṃkaryaṃ",
+     "gloss": "intermixture-of-womb-seed-phonemes",
+     "grounds": "doctrine",
+     "morph": "yoni-bīja-arṇa-sāṃkarya+n.nom.sg"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "concession",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "established",
+     "grounds": "state",
+     "morph": "n.nom.sg.past-passive-participle sthā"
+    }
+   ],
+   "question": "What powers does Malini grant despite the many possible intermixtures of womb, seed, and phoneme?",
+   "premises": [
+    "Malini can grant every accomplishment.",
+    "Malini can fill every deficiency.",
+    "The intermixture of womb, seed, and phoneme exists in many forms."
+   ],
+   "inference": "Even though the phonemic combinations vary widely, Malini's power remains complete and efficacious.",
+   "uncertainties": [
+    "The verse uses rhetorical questions, so the scope of 'every accomplishment' is emphatic rather than enumerated.",
+    "Yonibījārṇasāṃkarya may refer to mantra arrangement, cosmology, or both."
+   ],
+   "plain_english": "What accomplishment would she not grant, or what deficiency would she not fill? Although the intermixture of wombs, seeds, and phonemes exists in many forms, her power is complete."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "tathāpi",
+     "gloss": "even-so",
+     "grounds": "concession",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nādiphānto@yaṃ",
+     "gloss": "this-beginning-with-na-and-ending-with-pha",
+     "grounds": "phoneme-order",
+     "morph": "na-ādi-pha-anta+m.nom.sg+ayam"
+    },
+    {
+     "surface": "kramo",
+     "gloss": "sequence",
+     "grounds": "order",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mukhyaḥ",
+     "gloss": "primary",
+     "grounds": "evaluation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "statement",
+     "morph": "m.nom.sg.past-passive-participle pra-kṛt"
+    },
+    {
+     "surface": "phakārādisamuccārānnakārānte@dhvamaṇḍalam",
+     "gloss": "from-utterance-beginning-with-pha-to-na-end-path-circle",
+     "grounds": "phoneme-order+doctrine",
+     "morph": "pha-kāra-ādi-samuccāra+abl.sg+na-kāra-anta+adhvan-maṇḍala+n.nom.sg"
+    }
+   ],
+   "question": "Which sequence of Malini phonemes is declared to be the primary one?",
+   "premises": [
+    "Many intermixtures of phonemes are possible.",
+    "The sequence beginning with na and ending with pha is proclaimed primary.",
+    "The path-circle is formed by utterance beginning with pha and ending with na."
+   ],
+   "inference": "Among multiple valid arrangements, the tradition gives doctrinal priority to the na-to-pha Malini sequence.",
+   "uncertainties": [
+    "The verse presents two directional descriptions that may reflect different ritual or contemplative perspectives.",
+    "The term adhvamaṇḍala is compressed and may refer to the full circuit of the path."
+   ],
+   "plain_english": "Even so, the sequence beginning with na and ending with pha is proclaimed as the primary one. By uttering from pha to na, the whole circle of the path is formed."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "saṃhṛtya",
+     "gloss": "having-withdrawn",
+     "grounds": "action",
+     "morph": "absolutive sam-hṛ"
+    },
+    {
+     "surface": "saṃvidyā",
+     "gloss": "by-consciousness",
+     "grounds": "doctrine",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pūrṇā",
+     "gloss": "full",
+     "grounds": "state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "referent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śabdairvarṇyate",
+     "gloss": "is-described-by-words",
+     "grounds": "expression",
+     "morph": "3.sg.present-passive varṇ+śabda+inst.pl"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstreṣu",
+     "gloss": "in-scriptures",
+     "grounds": "source",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulaputtalikādibhiḥ",
+     "gloss": "by-kula-doll-and-other",
+     "grounds": "classification",
+     "morph": "kula-puttalikā-ādi+inst.pl"
+    }
+   ],
+   "question": "If Malini is withdrawn into full consciousness, how can the scriptures still describe her in many forms?",
+   "premises": [
+    "When withdrawn, Malini is full consciousness.",
+    "Full consciousness cannot be adequately described by words.",
+    "The scriptures nevertheless describe her in many ways, such as through kula and puttalika forms."
+   ],
+   "inference": "Scriptural classifications of Malini are provisional expressions of a reality that is ultimately beyond verbal description.",
+   "uncertainties": [
+    "The technical terms kula and puttalika are left untranslated in sense because the verse does not define them.",
+    "The syntax of the second half is compressed and may imply additional classificatory schemes."
+   ],
+   "plain_english": "When withdrawn into consciousness, she is full and complete, so how could she truly be described by words? For that reason the scriptures speak of her in many ways, through forms such as kula, puttalika, and others."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "bhedairgītā",
+     "gloss": "sung-through-divisions",
+     "grounds": "expression",
+     "morph": "bheda+inst.pl+f.nom.sg.past-passive-participle gā"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhyeyaṃ",
+     "gloss": "this-primary",
+     "grounds": "evaluation",
+     "morph": "mukhya+f.nom.sg+iyam"
+    },
+    {
+     "surface": "nādiphānteti",
+     "gloss": "as-beginning-with-na-and-ending-with-pha",
+     "grounds": "phoneme-order",
+     "morph": "na-ādi-pha-anta+iti"
+    },
+    {
+     "surface": "mālinī",
+     "gloss": "malini",
+     "grounds": "goddess-mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śabdarāśerbhairavasya",
+     "gloss": "of-bhairava-as-mass-of-sound",
+     "grounds": "doctrine",
+     "morph": "śabda-rāśi+m.gen.sg+bhairava+m.gen.sg"
+    },
+    {
+     "surface": "yānucchūnatayāntarī",
+     "gloss": "which-inner-by-uncontracted-state",
+     "grounds": "doctrine",
+     "morph": "yā+anucchūnatā+inst.sg+antarī+f.nom.sg"
+    }
+   ],
+   "question": "Why is the na-to-pha Malini regarded as the primary form among the many divisions taught in scripture?",
+   "premises": [
+    "Malini is sung in many divisions in the scriptures.",
+    "The na-to-pha form is the primary Malini.",
+    "As the inner, uncontracted state of Bhairava who is the mass of sound, she underlies those divisions."
+   ],
+   "inference": "The primary Malini is the inner, expansive sound-form of Bhairava from which the various scriptural divisions arise.",
+   "uncertainties": [
+    "Anucchūnatā is a technical term suggesting uncontracted fullness; the gloss is approximate.",
+    "The relation between Bhairava and the sound-mass is doctrinally dense in this verse."
+   ],
+   "plain_english": "Although she is sung in many divisions, this Malini, beginning with na and ending with pha, is the primary one. She is the inner, uncontracted form of Bhairava, who is the mass of sound."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "referent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māteva",
+     "gloss": "like-a-mother",
+     "grounds": "comparison",
+     "morph": "mātṛ+iva"
+    },
+    {
+     "surface": "bhaviṣyattvāttenāsau",
+     "gloss": "because-of-future-becoming-by-that-she",
+     "grounds": "reason",
+     "morph": "bhaviṣyat-tva+abl.sg+tena+asau"
+    },
+    {
+     "surface": "mātṛkoditā",
+     "gloss": "called-mother",
+     "grounds": "name",
+     "morph": "mātṛkā+udita+f.nom.sg.past-passive-participle vad"
+    },
+    {
+     "surface": "mālinī",
+     "gloss": "malini",
+     "grounds": "goddess-mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālitā",
+     "gloss": "garlanded",
+     "grounds": "name",
+     "morph": "f.nom.sg.past-passive-participle māl"
+    },
+    {
+     "surface": "rudrairdhārikā",
+     "gloss": "upheld-by-rudras-supporter",
+     "grounds": "function",
+     "morph": "rudra+inst.pl+dhārikā+f.nom.sg"
+    },
+    {
+     "surface": "siddhimokṣayoḥ",
+     "gloss": "of-accomplishment-and-liberation",
+     "grounds": "goal",
+     "morph": "siddhi-mokṣa+gen.du"
+    }
+   ],
+   "question": "Why is Malini called the mother and described as the supporter of accomplishment and liberation?",
+   "premises": [
+    "She is like a mother because of her power to bring forth what is to be.",
+    "For that reason she is called the mother.",
+    "She is garlanded by the Rudras and upholds accomplishment and liberation."
+   ],
+   "inference": "Malini's maternal and supportive names express her role as the generative and sustaining power behind both worldly attainment and release.",
+   "uncertainties": [
+    "The etymological play on mālinī, mālitā, and mātṛkā is interpretive and not fully explicit in the syntax.",
+    "The identity and number of the Rudras are not specified here."
+   ],
+   "plain_english": "She is like a mother because she brings forth what is to come, and so she is called the mother. As Malini, garlanded and upheld by the Rudras, she supports both accomplishment and liberation."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "phaleṣu",
+     "gloss": "in-fruits",
+     "grounds": "result",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "puṣpitā",
+     "gloss": "flowered",
+     "grounds": "image",
+     "morph": "f.nom.sg.past-passive-participle puṣp"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "worthy-of-worship",
+     "grounds": "ritual-status",
+     "morph": "f.nom.sg.future-passive-participle pūj"
+    },
+    {
+     "surface": "saṃhāradhvaniṣaṭpadī",
+     "gloss": "six-footed-bee-of-withdrawal-sound",
+     "grounds": "image+doctrine",
+     "morph": "saṃhāra-dhvani-ṣaṭpadī+f.nom.sg"
+    },
+    {
+     "surface": "saṃhāradānādānādiśaktiyuktā",
+     "gloss": "endowed-with-powers-of-withdrawal-giving-and-taking",
+     "grounds": "doctrine",
+     "morph": "saṃhāra-dāna-ādāna-ādi-śakti-yukta+f.nom.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ralau",
+     "gloss": "ra-and-la",
+     "grounds": "phoneme",
+     "morph": "ra-la+nom.du"
+    }
+   ],
+   "question": "Why is Malini praised as a flowering, worshipful bee endowed with powers of withdrawal, giving, and taking?",
+   "premises": [
+    "Malini flowers in fruits and is worthy of worship.",
+    "She is likened to a six-footed bee of the sound of withdrawal.",
+    "She is endowed with powers such as withdrawal, giving, and taking, because of ra and la."
+   ],
+   "inference": "The verse closes the section by praising Malini as a dynamic sonic power whose phonemic elements enact withdrawal and exchange.",
+   "uncertainties": [
+    "The connection between ra and la and the named powers is traditional but not explained in the verse.",
+    "The image of the six-footed bee may carry mantra or yogic associations not stated explicitly."
+   ],
+   "plain_english": "She flowers in fruits and is worthy of worship, like a six-footed bee in the sound of withdrawal. Because of ra and la, she is endowed with powers of withdrawal, giving, taking, and more."
+  }
+ ]
+}

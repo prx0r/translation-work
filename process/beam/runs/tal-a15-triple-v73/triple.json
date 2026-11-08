@@ -1,0 +1,749 @@
+{
+ "song": "Tantraloka a15",
+ "items": [
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "nādapīṭhaṃ",
+     "gloss": "sound-seat",
+     "grounds": "the seat of sound",
+     "morph": "nāda+pīṭha (compound) n.acc.sg"
+    },
+    {
+     "surface": "pūrṇagirirdakṣiṇe",
+     "gloss": "full-mountain in-south",
+     "grounds": "Pūrṇagiri in the south",
+     "morph": "pūrṇa+giri (compound) m.nom.sg + dakṣiṇa (indecl./loc)"
+    },
+    {
+     "surface": "vāmataḥ",
+     "gloss": "on-left",
+     "grounds": "on the left side",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "and again",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhamuḍḍayanaṃ",
+     "gloss": "seat uḍḍayana",
+     "grounds": "the seat Uḍḍayana",
+     "morph": "pīṭha+uḍḍayana (compound) n.nom.sg"
+    },
+    {
+     "surface": "bindurmukhyaṃ",
+     "gloss": "point chief",
+     "grounds": "the bindu is the chief",
+     "morph": "bindu m.nom.sg + mukhya n.nom.sg"
+    },
+    {
+     "surface": "pīṭhatrayaṃ",
+     "gloss": "seat-triad",
+     "grounds": "the triad of seats",
+     "morph": "pīṭha+traya (compound) n.nom.sg"
+    },
+    {
+     "surface": "tvidam",
+     "gloss": "indeed this",
+     "grounds": "this indeed",
+     "morph": "tu (indecl.) + idam n.nom.sg"
+    }
+   ],
+   "question": "Which three seats form the primary triad and how are they located?",
+   "premises": [
+    "The sound-seat is Pūrṇagiri in the south.",
+    "On the left side is the seat Uḍḍayana.",
+    "The bindu is the chief, forming this triad of seats."
+   ],
+   "inference": "The primary triad of seats consists of the sound-seat Pūrṇagiri in the south, Uḍḍayana on the left, and the chief bindu.",
+   "uncertainties": [
+    "The exact spatial referent of 'left' (vāmataḥ) relative to the practitioner or mandala is not specified."
+   ],
+   "plain_english": "The sound-seat is Pūrṇagiri in the south, and on the left is the seat Uḍḍayana; the bindu is the chief. This is the triad of seats."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "should be known",
+     "morph": "jñā (gerundive) n.nom.sg"
+    },
+    {
+     "surface": "saṃkalpanārūpamardhapīṭhamataḥ",
+     "gloss": "conception-form half-seat from-that",
+     "grounds": "from that, the half-seat has the form of conception",
+     "morph": "saṃkalpanā+rūpa (compound) + ardha+pīṭha (compound) n.nom.sg + atas (indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "beyond that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāktaṃ",
+     "gloss": "power-seat",
+     "grounds": "the Śākta seat",
+     "morph": "śākta n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍalinī",
+     "gloss": "coiled-power",
+     "grounds": "Kuṇḍalinī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedakalaṃ",
+     "gloss": "knowledge-part",
+     "grounds": "the part of knowledge",
+     "morph": "veda+kalā (compound) n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tryupapīṭhakam",
+     "gloss": "triad-sub-seat",
+     "grounds": "the triad of sub-seats",
+     "morph": "tri+upa+pīṭhaka (compound) n.nom.sg"
+    }
+   ],
+   "question": "What constitutes the half-seat and the triad of sub-seats beyond the primary triad?",
+   "premises": [
+    "Beyond the primary triad, the half-seat should be known as having the form of conception.",
+    "Beyond that is the Śākta seat.",
+    "Kuṇḍalinī and the part of knowledge form the triad of sub-seats."
+   ],
+   "inference": "The structure extends from the half-seat of conception to the Śākta seat, with Kuṇḍalinī and the part of knowledge completing a triad of sub-seats.",
+   "uncertainties": [
+    "The precise identity of 'vedakalaṃ' (knowledge-part) as a named seat or principle is context-dependent."
+   ],
+   "plain_english": "Beyond that, the half-seat should be known as having the form of conception. Beyond that is the Śākta seat. Kuṇḍalinī and the part of knowledge make up the triad of sub-seats."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "devīkoṭṭojjayinyau",
+     "gloss": "devīkoṭṭa-and-ujjayinī",
+     "grounds": "Devīkoṭṭa and Ujjayinī",
+     "morph": "devīkoṭṭa+ujjayinī (compound, dual) f.nom.du"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "the two",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulagiriḥ",
+     "gloss": "family-mountain",
+     "grounds": "Kulagiri",
+     "morph": "kula+giri (compound) m.nom.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "the supreme",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lālanaṃ",
+     "gloss": "cherishing",
+     "grounds": "Lālana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "baindavaṃ",
+     "gloss": "of-bindu",
+     "grounds": "the Baindava",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyāptiriti",
+     "gloss": "pervasion thus",
+     "grounds": "thus pervasion",
+     "morph": "vyāpti f.nom.sg + iti (indecl.)"
+    },
+    {
+     "surface": "saṃdohakatrayam",
+     "gloss": "cluster-triad",
+     "grounds": "the triad of clusters",
+     "morph": "saṃdohaka+traya (compound) n.nom.sg"
+    }
+   ],
+   "question": "Which places and principles form the triad of clusters in this scheme?",
+   "premises": [
+    "Devīkoṭṭa and Ujjayinī are two, and likewise the supreme Kulagiri.",
+    "Lālana is the Baindava, and thus there is pervasion.",
+    "Together these form the triad of clusters."
+   ],
+   "inference": "The triad of clusters is constituted by the pair Devīkoṭṭa and Ujjayinī with Kulagiri, and by the Baindava Lālana understood as pervasion.",
+   "uncertainties": [
+    "The mapping of 'lālanaṃ baindavaṃ vyāptiḥ' to specific seats versus abstract principles is ambiguous."
+   ],
+   "plain_english": "Devīkoṭṭa and Ujjayinī are two, and likewise the supreme Kulagiri. Lālana is the Baindava, and thus pervasion; this is the triad of clusters."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "puṇḍravardhanavārendre",
+     "gloss": "puṇḍravardhana-and-vārendra",
+     "grounds": "Puṇḍravardhana and Vārendra",
+     "morph": "puṇḍravardhana+vārendra (compound, dual) n.loc.du"
+    },
+    {
+     "surface": "tathaikāmramidaṃ",
+     "gloss": "likewise ekāmra this",
+     "grounds": "likewise this Ekāmra",
+     "morph": "tathā (indecl.) + ekāmra n.nom.sg + idam n.nom.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "externally",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "in nine ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "has been declared",
+     "morph": "kath (past participle) n.nom.sg"
+    },
+    {
+     "surface": "pīṭhamantarbāhyakrameṇa",
+     "gloss": "seat by-inner-outer-order",
+     "grounds": "the seat in inner and outer sequence",
+     "morph": "pīṭha n.nom.sg + antar+bāhya+krama (compound) m.inst.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the seat declared in its ninefold inner and outer arrangement?",
+   "premises": [
+    "Puṇḍravardhana and Vārendra, and likewise Ekāmra, are included externally.",
+    "The seat has been declared in nine ways.",
+    "This ninefold division follows an inner and outer sequence."
+   ],
+   "inference": "The seat is taught as a ninefold structure organized by an inner-to-outer sequence, incorporating Puṇḍravardhana, Vārendra, and Ekāmra externally.",
+   "uncertainties": [
+    "The exact enumeration of all nine divisions is distributed across verses and not fully explicit here."
+   ],
+   "plain_english": "With Puṇḍravardhana and Vārendra, and likewise Ekāmra, included externally, that seat has been declared in nine ways, in an inner and outer sequence."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "kṣetrāṣṭakaṃ",
+     "gloss": "field-octad",
+     "grounds": "the octad of fields",
+     "morph": "kṣetra+aṣṭaka (compound) n.nom.sg"
+    },
+    {
+     "surface": "kṣetravido",
+     "gloss": "knowers-of-field",
+     "grounds": "O knowers of the field",
+     "morph": "kṣetra+vid (compound) m.voc.pl"
+    },
+    {
+     "surface": "hṛdambhojadalāṣṭakam",
+     "gloss": "heart-lotus-petal-octad",
+     "grounds": "the octad of heart-lotus petals",
+     "morph": "hṛd+ambhoja+dala+aṣṭaka (compound) n.nom.sg"
+    },
+    {
+     "surface": "prayāgo",
+     "gloss": "prayāga",
+     "grounds": "Prayāga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varaṇā",
+     "gloss": "varaṇā",
+     "grounds": "Varaṇā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paścādaṭṭahāso",
+     "gloss": "after aṭṭahāsa",
+     "grounds": "then Aṭṭahāsa",
+     "morph": "paścāt (indecl.) + aṭṭahāsa m.nom.sg"
+    },
+    {
+     "surface": "jayantikā",
+     "gloss": "jayantikā",
+     "grounds": "Jayantikā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the octad of fields correspond to the heart-lotus and which sites begin the list?",
+   "premises": [
+    "The octad of fields is addressed to knowers of the field.",
+    "This octad corresponds to the eight petals of the heart-lotus.",
+    "The list begins with Prayāga, Varaṇā, then Aṭṭahāsa and Jayantikā."
+   ],
+   "inference": "The external octad of sacred fields is mapped onto the eight petals of the heart-lotus, beginning with Prayāga, Varaṇā, Aṭṭahāsa, and Jayantikā.",
+   "uncertainties": [
+    "The full assignment of each field to a specific petal is not given in this verse alone."
+   ],
+   "plain_english": "O knowers of the field, the octad of fields corresponds to the eight petals of the heart-lotus: Prayāga, Varaṇā, then Aṭṭahāsa and Jayantikā."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "vārāṇasī",
+     "gloss": "vārāṇasī",
+     "grounds": "Vārāṇasī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāliṅgaṃ",
+     "gloss": "kāliṅga",
+     "grounds": "Kāliṅga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulūtā",
+     "gloss": "kulūtā",
+     "grounds": "Kulūtā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lāhulā",
+     "gloss": "lāhulā",
+     "grounds": "Lāhulā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upakṣetrāṣṭakaṃ",
+     "gloss": "sub-field-octad",
+     "grounds": "the octad of sub-fields",
+     "morph": "upa+kṣetra+aṣṭaka (compound) n.acc.sg"
+    },
+    {
+     "surface": "prāhurhṛtpadmāgradalāṣṭakam",
+     "gloss": "they-declare heart-lotus-front-petal-octad",
+     "grounds": "they declare the octad of front petals of the heart-lotus",
+     "morph": "prāhuḥ (3.pl.perfect) + hṛt+padma+agra+dala+aṣṭaka (compound) n.acc.sg"
+    }
+   ],
+   "question": "Which sites complete the field octad and what is the corresponding sub-field octad?",
+   "premises": [
+    "Vārāṇasī, Kāliṅga, Kulūtā, and likewise Lāhulā complete the list of fields.",
+    "The teachers declare an octad of sub-fields.",
+    "The sub-field octad corresponds to the eight front petals of the heart-lotus."
+   ],
+   "inference": "The field octad is completed by Vārāṇasī, Kāliṅga, Kulūtā, and Lāhulā, while a parallel sub-field octad is mapped to the front petals of the heart-lotus.",
+   "uncertainties": [
+    "The term 'front petals' (agradala) may indicate petal tips or a specific petal subset; the exact anatomical mapping is unclear."
+   ],
+   "plain_english": "And Vārāṇasī, Kāliṅga, Kulūtā, and likewise Lāhulā: they declare this as the octad of sub-fields, corresponding to the eight front petals of the heart-lotus."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "virajairuḍikā",
+     "gloss": "viraja-and-airuḍikā",
+     "grounds": "Viraja and Airuḍikā",
+     "morph": "viraja+airuḍikā (compound) f.nom.sg"
+    },
+    {
+     "surface": "hālā",
+     "gloss": "hālā",
+     "grounds": "Hālā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "elā",
+     "gloss": "elā",
+     "grounds": "Elā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūḥ",
+     "gloss": "city",
+     "grounds": "Pūḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣīrikā",
+     "gloss": "kṣīrikā",
+     "grounds": "Kṣīrikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "purī",
+     "gloss": "town",
+     "grounds": "Purī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māyākhyā",
+     "gloss": "called-māyā",
+     "grounds": "the one called Māyā",
+     "morph": "māyā+ākhyā (compound) f.nom.sg"
+    },
+    {
+     "surface": "marudeśaśca",
+     "gloss": "maru-land and",
+     "grounds": "and the Maru region",
+     "morph": "maru+deśa (compound) m.nom.sg + ca (indecl.)"
+    },
+    {
+     "surface": "bāhyābhyantararūpataḥ",
+     "gloss": "by-outer-inner-form",
+     "grounds": "in outer and inner form",
+     "morph": "bāhya+abhyantara+rūpa (compound) + -tas (indecl.)"
+    }
+   ],
+   "question": "Which places are named as having both outer and inner forms in this mapping?",
+   "premises": [
+    "The verse lists Viraja, Airuḍikā, Hālā, Elā, Pūḥ, Kṣīrikā, Purī, the one called Māyā, and the Maru region.",
+    "These places are presented as a set.",
+    "They are understood in both outer and inner form."
+   ],
+   "inference": "The named sites constitute a group that is to be recognized simultaneously as external locations and as inner correlates.",
+   "uncertainties": [
+    "The segmentation of 'virajairuḍikā' as two names versus a compound is slightly ambiguous in transmission."
+   ],
+   "plain_english": "Viraja and Airuḍikā, Hālā, Elā, Pūḥ, Kṣīrikā, Purī, the one called Māyā, and the Maru region are to be understood in both outer and inner form."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "hṛtpadmadalasandhīnāmupasaṃdohakāṣṭatā",
+     "gloss": "heart-lotus-petal-junctions sub-cluster-octad-state",
+     "grounds": "the state of being an octad of sub-clusters at the junctions of the heart-lotus petals",
+     "morph": "hṛt+padma+dala+sandhi (compound) m.gen.pl + upasaṃdohaka+aṣṭatā (compound) f.nom.sg"
+    },
+    {
+     "surface": "jālandharaṃ",
+     "gloss": "jālandhara",
+     "grounds": "Jālandhara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naipālaṃ",
+     "gloss": "naipāla",
+     "grounds": "Naipāla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaśmīrā",
+     "gloss": "kaśmīra",
+     "grounds": "Kaśmīra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gargikā",
+     "gloss": "gargikā",
+     "grounds": "Gargikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "haraḥ",
+     "gloss": "hara",
+     "grounds": "Hara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are the junctions of the heart-lotus petals identified with external sites?",
+   "premises": [
+    "The junctions of the heart-lotus petals form an octad of sub-clusters.",
+    "Jālandhara, Naipāla, Kaśmīra, Gargikā, and Hara are named in this context.",
+    "These names are correlated with the petal junctions."
+   ],
+   "inference": "The octad of sub-clusters at the heart-lotus petal junctions is identified with specific external sites including Jālandhara, Naipāla, Kaśmīra, Gargikā, and Hara.",
+   "uncertainties": [
+    "Only five names appear in this verse while an octad is indicated; the remaining three may follow in adjacent verses or be implied."
+   ],
+   "plain_english": "At the junctions of the heart-lotus petals there is an octad of sub-clusters: Jālandhara, Naipāla, Kaśmīra, Gargikā, and Hara."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "mlecchadigdvāravṛttiśca",
+     "gloss": "barbarian-direction-gate-situated and",
+     "grounds": "and situated at the gate of the barbarian direction",
+     "morph": "mleccha+diś+dvāra+vṛtti (compound) f.nom.sg + ca (indecl.)"
+    },
+    {
+     "surface": "kurukṣetraṃ",
+     "gloss": "kurukṣetra",
+     "grounds": "Kurukṣetra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kheṭakam",
+     "gloss": "kheṭaka",
+     "grounds": "Kheṭaka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvipathaṃ",
+     "gloss": "two-path",
+     "grounds": "a two-path crossing",
+     "morph": "dvi+patha (compound) n.nom.sg"
+    },
+    {
+     "surface": "dvayasaṃghaṭṭāttripathaṃ",
+     "gloss": "from-two-meeting three-path",
+     "grounds": "a three-path crossing from the meeting of two",
+     "morph": "dvaya+saṃghaṭṭa (compound) m.abl.sg + tri+patha (compound) n.nom.sg"
+    },
+    {
+     "surface": "trayamelakāt",
+     "gloss": "from-three-meeting",
+     "grounds": "from the meeting of three",
+     "morph": "traya+melaka (compound) m.abl.sg"
+    }
+   ],
+   "question": "How are crossings classified according to the meeting of paths in this context?",
+   "premises": [
+    "Kurukṣetra and Kheṭaka are named, including a place situated at the gate of the barbarian direction.",
+    "A two-path crossing is identified.",
+    "A three-path crossing arises from the meeting of two, and further classification comes from the meeting of three."
+   ],
+   "inference": "Sacred sites and crossings are classified by the number of paths that meet, extending from two-path to three-path junctions.",
+   "uncertainties": [
+    "The phrase 'from the meeting of three' (trayamelakāt) anticipates the next verse's four-path crossing; its syntactic completion is split across verses."
+   ],
+   "plain_english": "Kurukṣetra and Kheṭaka, including the one at the gate of the barbarian direction: a two-path crossing, and a three-path crossing from the meeting of two, and from the meeting of three..."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "catuṣpathaṃ",
+     "gloss": "four-path",
+     "grounds": "a four-path crossing",
+     "morph": "catur+patha (compound) n.nom.sg"
+    },
+    {
+     "surface": "śaktimato",
+     "gloss": "from-power-holder",
+     "grounds": "from the holder of power",
+     "morph": "śaktimat m.abl.sg"
+    },
+    {
+     "surface": "layāttatraiva",
+     "gloss": "from-dissolution there-indeed",
+     "grounds": "from dissolution right there",
+     "morph": "laya m.abl.sg + tatra (indecl.) + eva (indecl.)"
+    },
+    {
+     "surface": "manvate",
+     "gloss": "they-consider",
+     "grounds": "they consider",
+     "morph": "man 3.pl.present-middle"
+    },
+    {
+     "surface": "nāsāntatālurandhrāntametaddehe",
+     "gloss": "nose-end-palate-cavity-end this in-body",
+     "grounds": "ending at the nose-tip and the palate cavity, this in the body",
+     "morph": "nāsā+anta+tālu+randhra+anta (compound) n.acc.sg + etad n.nom.sg + deha m.loc.sg"
+    },
+    {
+     "surface": "vyavasthitam",
+     "gloss": "established",
+     "grounds": "is established",
+     "morph": "vi+avasthā (past participle) n.nom.sg"
+    }
+   ],
+   "question": "Where is the four-path crossing located within the subtle body?",
+   "premises": [
+    "A four-path crossing arises from the meeting of three, in relation to the holder of power and dissolution.",
+    "The teachers consider this crossing to be located right there in dissolution.",
+    "In the body it is established as ending at the nose-tip and the palate cavity."
+   ],
+   "inference": "The four-path crossing is mapped internally to the region ending at the nose-tip and the palate cavity, associated with dissolution in the holder of power.",
+   "uncertainties": [
+    "The precise yogic locus of 'nāsānta-tālurandhrānta' (nose-tip to palate cavity) admits multiple interpretations in subtle-body mapping."
+   ],
+   "plain_english": "From the meeting of three comes the four-path crossing; they consider it to arise from dissolution in the holder of power right there. In the body it is established as the region ending at the nose-tip and the palate cavity."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "bhrūmadhyakaṇṭhahṛtsaṃjñaṃ",
+     "gloss": "brow-middle-throat-heart-named",
+     "grounds": "named the middle of the brows, throat, and heart",
+     "morph": "bhrū+madhya+kaṇṭha+hṛt+saṃjña (compound) n.nom.sg"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "the middle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadudāhṛtam",
+     "gloss": "that declared",
+     "grounds": "that is declared",
+     "morph": "tad n.nom.sg + udāhṛta (past participle) n.nom.sg"
+    },
+    {
+     "surface": "nābhikandamahānandadhāma",
+     "gloss": "navel-bulb-great-bliss-abode",
+     "grounds": "the abode of great bliss at the navel-bulb",
+     "morph": "nābhi+kanda+mahānanda+dhāman (compound) n.nom.sg"
+    },
+    {
+     "surface": "tatkaulikaṃ",
+     "gloss": "that kaula",
+     "grounds": "that is the Kaula",
+     "morph": "tad n.nom.sg + kaulika n.nom.sg"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "triad",
+     "grounds": "the triad",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What three bodily regions are distinguished as middle and Kaula in this mapping?",
+   "premises": [
+    "The region named the middle of the brows, throat, and heart is declared the middle.",
+    "The abode of great bliss at the navel-bulb is identified separately.",
+    "Together these form a Kaula triad."
+   ],
+   "inference": "The body is mapped into a triad: the middle region spanning brow-center, throat, and heart, and the Kaula abode of great bliss at the navel-bulb.",
+   "uncertainties": [
+    "Whether the triad counts three points within the middle plus the navel, or three distinct groupings, is slightly compressed in the verse."
+   ],
+   "plain_english": "The region named the middle of the brows, throat, and heart is declared the middle. The abode of great bliss at the navel-bulb is the Kaula. This is the triad."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "parvatāgraṃ",
+     "gloss": "mountain-top",
+     "grounds": "a mountain peak",
+     "morph": "parvata+agra (compound) n.nom.sg"
+    },
+    {
+     "surface": "nadītīramekaliṅgaṃ",
+     "gloss": "river-bank single-liṅga",
+     "grounds": "a river bank, a single liṅga",
+     "morph": "nadī+tīra (compound) n.nom.sg + eka+liṅga (compound) n.nom.sg"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that indeed",
+     "grounds": "that very same",
+     "morph": "tad n.nom.sg + eva (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "what is the use",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vātibahunā",
+     "gloss": "or by-very-much",
+     "grounds": "or by saying much more",
+     "morph": "vā (indecl.) + ati+bahu (compound) n.inst.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "everything",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃvittau",
+     "gloss": "in-consciousness",
+     "grounds": "in consciousness",
+     "morph": "saṃvid f.loc.sg"
+    },
+    {
+     "surface": "prāṇagaṃ",
+     "gloss": "breath-going",
+     "grounds": "going into the breath",
+     "morph": "prāṇa+ga (compound) n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the text conclude that all external sites ultimately reside in consciousness and breath?",
+   "premises": [
+    "External sites such as a mountain peak, a river bank, or a single liṅga are mentioned as examples.",
+    "The text dismisses the need to enumerate many more such sites.",
+    "Everything is said to be in consciousness and therefore to go into the breath."
+   ],
+   "inference": "All the enumerated external and internal sacred sites are ultimately grounded in consciousness and realized through the movement of breath.",
+   "uncertainties": [
+    "The phrase 'prāṇagaṃ' could mean 'going to the breath' or 'situated in the breath'; the directional nuance is interpretive."
+   ],
+   "plain_english": "A mountain peak, a river bank, or a single liṅga—what is the use of saying more? Everything is in consciousness and therefore goes into the breath."
+  }
+ ]
+}
