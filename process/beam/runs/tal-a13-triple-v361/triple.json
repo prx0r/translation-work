@@ -1,0 +1,94 @@
+{
+ "song": "Tantraloka",
+ "items": [
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "tathāvidhāmeva",
+     "gloss": "such-like-indeed",
+     "grounds": "tathāvidhām eva",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "matiṃ",
+     "gloss": "mind",
+     "grounds": "mati",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "satyasaṃsparśanākṣamām",
+     "gloss": "truth-touch-incapable",
+     "grounds": "satya-saṃsparśana-akṣamā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvaiṣāṃ",
+     "gloss": "having-seen-of-these",
+     "grounds": "dṛṣṭvā eṣām",
+     "morph": "indecl."
+    },
+    {
+     "surface": "brahmaviṣṇvādyairbuddhairapi",
+     "gloss": "by-brahma-vishnu-etc-buddhas-also",
+     "grounds": "brahma-viṣṇu-ādya-buddhaiḥ api",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "tathoditam",
+     "gloss": "thus-spoken",
+     "grounds": "tathā uditam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is śaktipāta distinguished by reasoning and scripture?",
+   "premises": [
+    "Such mind incapable of touching truth is seen in these.",
+    "Even buddhas like Brahma and Vishnu speak thus."
+   ],
+   "inference": "Śaktipāta is classified through reason and scripture.",
+   "uncertainties": [
+    "sandhi split tathāvidhām eva; dṛṣṭvā eṣām"
+   ],
+   "plain_english": "Seeing such a mind incapable of touching truth among these, even buddhas like Brahma and Vishnu speak thus; therefore this śaktipāta is distinguished by reasoning and scripture."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "ityeṣa",
+     "gloss": "thus-this",
+     "grounds": "iti eṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yuktyāgamataḥ",
+     "gloss": "from-reasoning-and-scripture",
+     "grounds": "yukti-āgamataḥ",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śaktipāto",
+     "gloss": "power-descent",
+     "grounds": "śaktipāta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vivecitaḥ",
+     "gloss": "distinguished",
+     "grounds": "vivecita",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is śaktipāta distinguished by reasoning and scripture?",
+   "premises": [
+    "Thus this power-descent is distinguished by reasoning and scripture."
+   ],
+   "inference": "Śaktipāta is classified through reason and scripture.",
+   "uncertainties": [
+    "compound yukti-āgama split"
+   ],
+   "plain_english": "Thus this śaktipāta is distinguished by reasoning and scripture."
+  }
+ ]
+}
