@@ -1,46 +1,46 @@
 {
- "song": "tal-a10",
- "verse": 102,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "pāñcadaśyaṃ",
-   "morph": "nom/acc.sg.n",
-   "grounds": "fifteen-fold; adjective from pāñcadaśa"
+   "lemma": "pāñcadaśya",
+   "morph": "n.acc.sg (AMBIGUOUS: m.acc.sg possible)",
+   "grounds": "gloss 'fifteen-fold'; form ends -aṃ"
   },
   {
-   "lemma": "dharādhantarniviṣṭe",
-   "morph": "loc.sg.n (compound)",
-   "grounds": "situated within earth to its end"
+   "lemma": "dharā-adha-antar-niviṣṭa",
+   "morph": "loc.sg.m/n (AMBIGUOUS)",
+   "grounds": "gloss 'situated-within-earth'; form ends -e"
   },
   {
-   "lemma": "sakale@pi",
-   "morph": "loc.sg.n + indecl.",
-   "grounds": "even in sakala; sandhi sakale + pi"
+   "lemma": "sakala + api",
+   "morph": "loc.sg.m/n + indecl.",
+   "grounds": "gloss 'even-in-sakala'; token sakale@pi"
   },
   {
    "lemma": "ca",
    "morph": "indecl.",
-   "grounds": "and"
+   "grounds": "gloss 'and'; indeclinable conjunction"
   },
   {
-   "lemma": "sakalāntaramastyeva",
-   "morph": "nom.sg.n + 3sg.pres + indecl.",
-   "grounds": "there is indeed an interior of sakala"
+   "lemma": "sakala-antaram asti eva",
+   "morph": "compound/sentence fragment (AMBIGUOUS)",
+   "grounds": "gloss 'there-is-indeed-interior-of-sakala'"
   },
   {
-   "lemma": "prameye@trāpi",
-   "morph": "loc.sg.n + indecl.",
-   "grounds": "even in the object of knowledge; prameya + tra + api"
+   "lemma": "prameya + api/trā",
+   "morph": "loc.sg.m/n + indecl. (AMBIGUOUS)",
+   "grounds": "gloss 'even-in-object-of-knowledge'; token prameye@trāpi"
   },
   {
    "lemma": "mātṛ",
-   "morph": "nom.sg.m",
-   "grounds": "knower; perceiver taxonomy term"
+   "morph": "nom.sg.f",
+   "grounds": "gloss 'knower'; form mātṛ"
   },
   {
    "lemma": "hi",
    "morph": "indecl.",
-   "grounds": "indeed"
+   "grounds": "gloss 'indeed'; indeclinable particle"
   }
  ]
 }

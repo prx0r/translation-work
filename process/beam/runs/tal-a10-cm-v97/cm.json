@@ -1,51 +1,51 @@
 {
- "song": "tal-a10",
- "verse": 97,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "avedyameva",
-   "morph": "nom.sg.n + indecl.",
-   "grounds": "a-vedya + eva; perception is imperceptible"
+   "lemma": "avedya+eva",
+   "morph": "n.nom.sg + indecl.",
+   "grounds": "gloss 'not-perceptible-indeed' matches avedya (not perceptible) + eva (indeed) from form avedyameva"
   },
   {
-   "lemma": "bhānaṃ",
-   "morph": "nom.sg.n",
-   "grounds": "perception; subject of the claim"
+   "lemma": "bhāna",
+   "morph": "n.nom.sg",
+   "grounds": "gloss 'perception' matches bhānaṃ"
   },
   {
    "lemma": "hi",
    "morph": "indecl.",
-   "grounds": "emphatic particle"
+   "grounds": "gloss 'indeed' matches hi"
   },
   {
    "lemma": "tathā",
    "morph": "indecl.",
-   "grounds": "thus; manner of inquiry"
+   "grounds": "gloss 'thus' matches tathā"
   },
   {
-   "lemma": "kamanuyuñjmahe",
-   "morph": "1pl.pres.mid √anuyuj",
-   "grounds": "we inquire into it"
+   "lemma": "anuyuj",
+   "morph": "1pl.pres.mid √yuj",
+   "grounds": "gloss 'we-inquire' matches kamanuyuñjmahe"
   },
   {
    "lemma": "evaṃ",
    "morph": "indecl.",
-   "grounds": "in this way"
+   "grounds": "gloss 'thus' matches evaṃ"
   },
   {
-   "lemma": "pañcadaśātmeyaṃ",
-   "morph": "nom.sg.n (compound)",
-   "grounds": "this fifteen-aspected; pañcadaśa-ātman-idam"
+   "lemma": "pañcadaśātman+idam",
+   "morph": "n.nom.sg",
+   "grounds": "gloss 'this-fifteen-aspect' matches pañcadaśātmeyaṃ"
   },
   {
    "lemma": "dharā",
-   "morph": "nom.sg.f",
-   "grounds": "earth; first tattva in the series"
+   "morph": "f.nom.sg",
+   "grounds": "gloss 'earth' matches dharā"
   },
   {
-   "lemma": "tadvajjalādayaḥ",
-   "morph": "nom.pl.n (compound)",
-   "grounds": "water and the like; tadvat-jala-ādi"
+   "lemma": "tadvat+jala+ādi",
+   "morph": "m.nom.pl",
+   "grounds": "gloss 'water-and-the-like' matches tadvajjalādayaḥ"
   }
  ]
 }
