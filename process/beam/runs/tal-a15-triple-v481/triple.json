@@ -1,0 +1,1512 @@
+{
+ "song": "Tantraloka 15",
+ "items": [
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "praviśya",
+     "gloss": "entering",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhyāye",
+     "gloss": "meditate",
+     "grounds": "token 3",
+     "morph": "3.sg.act-pres+root dhyai"
+    },
+    {
+     "surface": "tsuptaḥ",
+     "gloss": "sleeping",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svācchandyamāpnuyāt",
+     "gloss": "attain-freedom",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt+root ap"
+    },
+    {
+     "surface": "āyātanidre",
+     "gloss": "in-temple-sleep",
+     "grounds": "token 6",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiśau",
+     "gloss": "in-child",
+     "grounds": "token 8",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gururabhyarcya",
+     "gloss": "guru-worship",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṅkaram",
+     "gloss": "shankara",
+     "grounds": "token 10",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How does the guru worship Shankara in the child's sleep?",
+   "premises": [
+    "The guru enters the heart and meditates.",
+    "The sleeping child receives worship.",
+    "Shankara is the object of worship."
+   ],
+   "inference": "The rite installs divine presence through the guru's meditation in the child.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "Entering the heart, meditate; the sleeping child, with the guru worshipping Shankara, attains freedom in temple sleep."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "caruṃ",
+     "gloss": "offering",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhuñjīta",
+     "gloss": "eat",
+     "grounds": "token 2",
+     "morph": "3.sg.act-opt+root bhuj"
+    },
+    {
+     "surface": "sasakhā",
+     "gloss": "with-friend",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tato@dyāddantadhāvanam",
+     "gloss": "then-tooth-cleaning",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svapyācca",
+     "gloss": "and-sleep",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt+root svap"
+    },
+    {
+     "surface": "mantraraśmīddhahṛccakrārpitamānasaḥ",
+     "gloss": "mantra-ray-heart-wheel-mind",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What daily actions follow the offering?",
+   "premises": [
+    "The offering is eaten with a friend.",
+    "Tooth cleaning follows.",
+    "Sleep occurs with mantra-fixed mind."
+   ],
+   "inference": "Daily practice continues after the rite through eating, cleaning, and mantra-centered sleep.",
+   "uncertainties": [
+    "Long compound gloss is compressed."
+   ],
+   "plain_english": "Eat the offering with a friend, then clean the teeth, and sleep with mind fixed in the heart wheel by mantra rays."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "prātarguruḥ",
+     "gloss": "morning-guru",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtāśeṣanityo@bhyarcitaśaṃkaraḥ",
+     "gloss": "completed-daily-worship-shankara",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyātmanoḥ",
+     "gloss": "of-disciple-self",
+     "grounds": "token 3",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "svapnadṛṣṭāvarthau",
+     "gloss": "dream-seen-meanings",
+     "grounds": "token 4",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "vitte",
+     "gloss": "knows",
+     "grounds": "token 5",
+     "morph": "3.sg.act-pres+root vid"
+    },
+    {
+     "surface": "balābalāt",
+     "gloss": "from-strength-weakness",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the guru know the dream meanings?",
+   "premises": [
+    "The guru completes daily worship.",
+    "He knows the disciple's dream meanings.",
+    "Strength and weakness determine them."
+   ],
+   "inference": "The guru's knowledge of dreams is tied to the disciple's condition and daily worship.",
+   "uncertainties": [
+    "Compound segmentation is approximate."
+   ],
+   "plain_english": "In the morning the guru, having completed daily worship of Shankara, knows the dream-seen meanings of disciple and self from strength and weakness."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "svadṛṣṭaṃ",
+     "gloss": "self-seen",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "balavannānyatsaṃbodhodrekayogataḥ",
+     "gloss": "strong-not-other-awakening-excess",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhasāmye",
+     "gloss": "in-knowledge-equality",
+     "grounds": "token 3",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svapnasāmyaṃ",
+     "gloss": "dream-equality",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syādguruśiṣyayoḥ",
+     "gloss": "would-be-guru-disciple",
+     "grounds": "token 6",
+     "morph": "3.sg.act-opt+root as"
+    }
+   ],
+   "question": "When does dream equality arise between guru and disciple?",
+   "premises": [
+    "Self-seen strength is not other.",
+    "Knowledge equality matters.",
+    "Dream equality follows for guru and disciple."
+   ],
+   "inference": "Dream equality depends on knowledge equality and the strength of self-seen awakening.",
+   "uncertainties": [
+    "Long compound is compressed."
+   ],
+   "plain_english": "Self-seen strength is not other through awakening excess; in knowledge equality, dream equality would again arise between guru and disciple."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "devāgnigurutatpūjākāraṇopaskarādikam",
+     "gloss": "god-fire-guru-worship-cause-utensils",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛdyā",
+     "gloss": "pleasing",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madyapānaṃ",
+     "gloss": "wine-drinking",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāpyāmamāṃsasya",
+     "gloss": "and-uncooked-meat",
+     "grounds": "token 5",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "bhakṣaṇam",
+     "gloss": "eating",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What pleasing things appear in the dream?",
+   "premises": [
+    "God, fire, guru, and worship utensils are pleasing.",
+    "Woman, wine, and uncooked meat appear.",
+    "Eating is included."
+   ],
+   "inference": "The dream contains pleasing ritual and worldly objects.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "God, fire, guru, worship cause and utensils are pleasing; woman, wine drinking, and eating of uncooked meat also appear."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "raktapānaṃ",
+     "gloss": "blood-drinking",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiraśchedo",
+     "gloss": "head-cutting",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raktaviṇmūtralepanam",
+     "gloss": "blood-feces-urine-smearing",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parvatāśvagajaprāyahṛdyayugyādhirohaṇam",
+     "gloss": "mountain-horse-elephant-pleasing-vehicle-riding",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What further dream signs are listed?",
+   "premises": [
+    "Blood drinking appears.",
+    "Head cutting appears.",
+    "Blood, feces, and urine smearing appear.",
+    "Riding pleasing vehicles appears."
+   ],
+   "inference": "The dream list includes violent and auspicious riding signs.",
+   "uncertainties": [
+    "Long compound is compressed."
+   ],
+   "plain_english": "Blood drinking, head cutting, smearing with blood, feces, and urine, and riding pleasing vehicles such as mountain, horse, and elephant."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "yatprītyai",
+     "gloss": "for-pleasure",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syādapi",
+     "gloss": "even-would-be",
+     "grounds": "token 2",
+     "morph": "3.sg.act-opt+root as"
+    },
+    {
+     "surface": "prāyastattacchubhamudāhṛtam",
+     "gloss": "mostly-that-auspicious-declared",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "khyāpayettuṣṭivṛddhyai",
+     "gloss": "announce-for-satisfaction-growth",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt+root khyap"
+    },
+    {
+     "surface": "hlādo",
+     "gloss": "joy",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why should the guru announce the dream?",
+   "premises": [
+    "Pleasing signs are mostly auspicious.",
+    "Announcing them grows satisfaction.",
+    "Joy is the supreme fruit."
+   ],
+   "inference": "The guru announces auspicious dreams to increase satisfaction and joy.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "For pleasure it would even be; mostly that is declared auspicious; announce it for growth of satisfaction, for joy indeed is the supreme fruit."
+  },
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "ato@nyadaśubhaṃ",
+     "gloss": "therefore-other-inauspicious",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homo@ṣṭaśatako@strataḥ",
+     "gloss": "homa-eight-hundred-from",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśubhaṃ",
+     "gloss": "inauspicious",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāśubhamiti",
+     "gloss": "not-inauspicious-thus",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyebhyo",
+     "gloss": "to-disciples",
+     "grounds": "token 6",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "kathayedguruḥ",
+     "gloss": "would-tell-guru",
+     "grounds": "token 7",
+     "morph": "3.sg.act-opt+root kath"
+    }
+   ],
+   "question": "What does the guru tell disciples about inauspicious signs?",
+   "premises": [
+    "Other inauspicious signs exist there.",
+    "Homa of eight hundred removes them.",
+    "The guru tells disciples they are not inauspicious."
+   ],
+   "inference": "Inauspicious dream signs are neutralized by homa and explained to disciples.",
+   "uncertainties": [
+    "Sandhi and compound boundaries are approximate."
+   ],
+   "plain_english": "Therefore other inauspicious signs there; from homa of eight hundred, inauspicious is not inauspicious; thus the guru tells the disciples."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "rūḍhāṃ",
+     "gloss": "rooted",
+     "grounds": "token 1",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkāṃ",
+     "gloss": "doubt",
+     "grounds": "token 3",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vicchettuṃ",
+     "gloss": "to-cut",
+     "grounds": "token 4",
+     "morph": "inf+root chid"
+    },
+    {
+     "surface": "yatnaḥ",
+     "gloss": "effort",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃghaṭate",
+     "gloss": "arises",
+     "grounds": "token 6",
+     "morph": "3.sg.act-pres+root ghat"
+    },
+    {
+     "surface": "mahān",
+     "gloss": "great",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "whose",
+     "grounds": "token 8",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkāvilayasteṣāṃ",
+     "gloss": "doubt-dissolution-theirs",
+     "grounds": "token 10",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svapnavaśotthitam",
+     "gloss": "dream-power-arisen",
+     "grounds": "token 11",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is rooted doubt cut?",
+   "premises": [
+    "Great effort arises to cut rooted doubt.",
+    "For those whose doubt dissolves, dream-power arises.",
+    "The dream state is the result."
+   ],
+   "inference": "Doubt is removed by great effort, and dream-power arises for those freed from doubt.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Indeed great effort arises to cut rooted doubt; but for those whose doubt dissolves, dream-power arises."
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "śubhāśubhaṃ",
+     "gloss": "auspicious-inauspicious",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃcitsyāt",
+     "gloss": "anything-would-be",
+     "grounds": "token 3",
+     "morph": "3.sg.act-opt+root as"
+    },
+    {
+     "surface": "syuścetthaṃ",
+     "gloss": "would-be-if-thus",
+     "grounds": "token 4",
+     "morph": "3.pl.act-opt+root as"
+    },
+    {
+     "surface": "citratāvaśāt",
+     "gloss": "from-variegation-power",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭaṃ",
+     "gloss": "clearly",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "token 7",
+     "morph": "3.sg.act-pres+root drsh"
+    },
+    {
+     "surface": "sattvātmā",
+     "gloss": "sattva-self",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājaso",
+     "gloss": "rajasic",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "liṅgamātrataḥ",
+     "gloss": "from-sign-only",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is nothing auspicious or inauspicious?",
+   "premises": [
+    "Nothing would be auspicious or inauspicious.",
+    "If so, variegation power makes it clear.",
+    "The sattva self sees from sign only."
+   ],
+   "inference": "Auspiciousness is not fixed; perception depends on variegation and the seer's quality.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Nothing auspicious or inauspicious would be; if thus, from variegation power the sattva self clearly sees from sign only."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃcittāmasastasya",
+     "gloss": "anything-tamasic-his",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhaduḥkhācchubhāśubham",
+     "gloss": "pleasure-pain-auspicious-inauspicious",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nanvatra",
+     "gloss": "indeed-here",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmaso",
+     "gloss": "tamasic",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogyo",
+     "gloss": "fit",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "in-rite",
+     "grounds": "token 9",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "token 10",
+     "morph": "3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "How can a tamasic person be fit for the rite?",
+   "premises": [
+    "Nothing tamasic is his pleasure or pain.",
+    "Indeed here the tamasic named one is questioned.",
+    "How would he be fit in the rite?"
+   ],
+   "inference": "The verse questions the fitness of a tamasic person for ritual practice.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Nothing tamasic is his pleasure, pain, auspiciousness, or inauspiciousness; indeed here, how would the one named tamasic be fit in the rite?"
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "maiva",
+     "gloss": "not-indeed",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mā",
+     "gloss": "not",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vigrahaṃ",
+     "gloss": "dispute",
+     "grounds": "token 3",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kaścitkvacitkasyāpi",
+     "gloss": "anyone-anywhere-anyone's",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇaḥ",
+     "gloss": "quality",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvasāttvikaceṣṭo@pi",
+     "gloss": "all-sattvic-action-even",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhojane",
+     "gloss": "in-eating",
+     "grounds": "token 8",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmasaḥ",
+     "gloss": "tamasic",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why should there be no dispute about qualities?",
+   "premises": [
+    "No one should dispute anywhere.",
+    "Quality is indeed present.",
+    "Even all sattvic action in eating may be tamasic."
+   ],
+   "inference": "Qualities are not grounds for dispute because sattvic action can appear tamasic.",
+   "uncertainties": [
+    "Long compound is compressed."
+   ],
+   "plain_english": "Let no one dispute anywhere indeed; quality is present; even all sattvic action in eating, if tamasic."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so@dhamaḥ",
+     "gloss": "that-low",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kivāpyutkṛṣṭastadviparyayaḥ",
+     "gloss": "or-high-opposite",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āyātaśaktipāto@pi",
+     "gloss": "arrived-power-descent-even",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīkṣito@pi",
+     "gloss": "initiated-even",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guṇasthiteḥ",
+     "gloss": "from-quality-state",
+     "grounds": "token 7",
+     "morph": "f.gen.sg"
+    }
+   ],
+   "question": "What follows from quality state?",
+   "premises": [
+    "Then what is low?",
+    "Or high is the opposite.",
+    "Even arrived power descent and initiation depend on quality state."
+   ],
+   "inference": "Status depends on quality state, not merely initiation or power descent.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Then what is low, or high is the opposite; even arrived power descent and initiation depend on quality state."
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "vicitrātmā",
+     "gloss": "variegated-self",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavedeva",
+     "gloss": "would-be-indeed",
+     "grounds": "token 2",
+     "morph": "3.sg.act-opt+root bhū"
+    },
+    {
+     "surface": "mukhye",
+     "gloss": "in-chief",
+     "grounds": "token 3",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tvarthe",
+     "gloss": "in-purpose",
+     "grounds": "token 4",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiśormantrapūrvakaṃ",
+     "gloss": "of-child-mantra-preceded",
+     "grounds": "token 8",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devatārcanam",
+     "gloss": "deity-worship",
+     "grounds": "token 9",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does the guru teach after composure?",
+   "premises": [
+    "The variegated self would indeed be composed.",
+    "In chief purpose composure occurs.",
+    "Then the guru teaches mantra-preceded deity worship to the child."
+   ],
+   "inference": "After composure, the guru instructs the child in mantra-based deity worship.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "The variegated self would indeed be composed in chief purpose; then the guru teaches the child mantra-preceded deity worship."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "deśayetsa",
+     "gloss": "would-teach-he",
+     "grounds": "token 1",
+     "morph": "3.sg.act-opt+root dish"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkuryātsaṃskuryāttaṃ",
+     "gloss": "that-would-do-purify-him",
+     "grounds": "token 3",
+     "morph": "3.sg.act-opt+root kṛ"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛdādicakraṣaṭkasthānbrahmādīn",
+     "gloss": "heart-first-six-wheels-places-brahma-etc",
+     "grounds": "token 6",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the composed guru purify?",
+   "premises": [
+    "He would teach and do that.",
+    "He would purify him.",
+    "Then the composed guru addresses six places from heart, brahma and others."
+   ],
+   "inference": "The guru purifies the disciple and installs awareness in six heart-centered wheels.",
+   "uncertainties": [
+    "Long compound is compressed."
+   ],
+   "plain_english": "He would teach and do that, purify him; then the composed guru addresses six places from the heart, brahma and others."
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "spṛśecchiśoḥ",
+     "gloss": "would-touch-child's",
+     "grounds": "token 1",
+     "morph": "3.sg.act-opt+root spṛsh"
+    },
+    {
+     "surface": "prāṇavṛttyā",
+     "gloss": "by-breath-function",
+     "grounds": "token 2",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāṣṭa",
+     "gloss": "and-eight",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskriyāḥ",
+     "gloss": "purifications",
+     "grounds": "token 5",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hṛdayādidviṣaṭkāntaṃ",
+     "gloss": "heart-first-twelve-ended",
+     "grounds": "token 6",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bodhasparśapavitritaḥ",
+     "gloss": "knowledge-touch-purified",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are the eight purifications performed?",
+   "premises": [
+    "He would touch the child's breath function.",
+    "Each of eight purifications occurs.",
+    "Knowledge-touch purifies to the heart-first twelve end."
+   ],
+   "inference": "Purification proceeds by breath-touch through eight rites to the twelve centers.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "He would touch the child's breath function; each of eight purifications, purified by knowledge-touch, extends to the heart-first twelve end."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "āhārabījabhāvādidoṣadhvaṃsādbhaveddvijaḥ",
+     "gloss": "food-seed-state-etc-fault-destruction-becomes-twice-born",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vasuvedākhyasaṃskārapūrṇa",
+     "gloss": "vasu-veda-named-purification-full",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijaḥ",
+     "gloss": "twice-born",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does one become twice-born?",
+   "premises": [
+    "Food, seed, state, and fault destruction make one twice-born.",
+    "Vasu-veda-named purification is full.",
+    "Thus the twice-born stands."
+   ],
+   "inference": "Twice-born status results from destruction of faults and full purification.",
+   "uncertainties": [
+    "Long compound is compressed."
+   ],
+   "plain_english": "By destruction of faults from food, seed, state, and so on, one becomes twice-born; full of vasu-veda-named purification, thus the twice-born stands."
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "garbhādhānaṃ",
+     "gloss": "conception-rite",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṃsavanaṃ",
+     "gloss": "male-producing",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sīmanto",
+     "gloss": "parting-rite",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jātakarma",
+     "gloss": "birth-rite",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "naming",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣkrāmaṇaṃ",
+     "gloss": "exit-rite",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cānnapraśaścūḍā",
+     "gloss": "and-food-tasting-tonsure",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathāṣṭamī",
+     "gloss": "and-eighth",
+     "grounds": "token 9",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which rites are listed first?",
+   "premises": [
+    "Conception, male-producing, parting, and birth rites are listed.",
+    "Naming, exit, food tasting, and tonsure follow.",
+    "The eighth is also included."
+   ],
+   "inference": "The verse enumerates early life-cycle rites.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Conception, male-producing, parting, birth, naming, exit, food tasting, tonsure, and the eighth."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "vratabandhaiṣṭike",
+     "gloss": "vow-binding-sacrificial",
+     "grounds": "token 1",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maujjībhautike",
+     "gloss": "sacred-thread-worldly",
+     "grounds": "token 2",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saumikaṃ",
+     "gloss": "soma-related",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "godānamiti",
+     "gloss": "cow-gift-thus",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedendusaṃskriyā",
+     "gloss": "veda-moon-purification",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmacaryataḥ",
+     "gloss": "from-celibacy",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rites follow in order?",
+   "premises": [
+    "Vow binding and sacrificial rites occur.",
+    "Sacred thread and worldly rites occur.",
+    "Soma-related, cow gift, veda-moon purification, and celibacy follow in order."
+   ],
+   "inference": "The verse continues the ordered list of initiation and Vedic rites.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "In vow binding and sacrificial, sacred thread and worldly rites, in order: soma-related, cow gift, veda-moon purification, from celibacy."
+  },
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "pratyudvāhaḥ",
+     "gloss": "marriage",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcadaśaḥ",
+     "gloss": "fifteenth",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pākamakhāstvataḥ",
+     "gloss": "cooked-sacrifices-from-there",
+     "grounds": "token 4",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "aṣṭakāḥ",
+     "gloss": "eighth-day-rites",
+     "grounds": "token 5",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pārvaṇī",
+     "gloss": "fortnightly",
+     "grounds": "token 6",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "ancestral-offering",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrāvaṇyāgrāyaṇīdvayam",
+     "gloss": "shravana-agrayana-pair",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What rites are numbered fifteenth and after?",
+   "premises": [
+    "Marriage is the fifteenth.",
+    "Seven cooked sacrifices follow from there.",
+    "Eighth-day, fortnightly, ancestral, and shravana-agrayana rites are listed."
+   ],
+   "inference": "The verse continues the numbered sequence of domestic and ancestral rites.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Marriage is fifteenth; from there seven cooked sacrifices, eighth-day rites, fortnightly, ancestral offering, and the shravana-agrayana pair."
+  },
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "caitrī",
+     "gloss": "chaitra-rite",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāśvayujī",
+     "gloss": "and-ashvayuja",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "after",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptaiva",
+     "gloss": "seven-indeed",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "havirmakhāḥ",
+     "gloss": "oblation-sacrifices",
+     "grounds": "token 6",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ādheyamagnihotraṃ",
+     "gloss": "placed-fire-offering",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paurṇamāsaḥ",
+     "gloss": "full-moon",
+     "grounds": "token 9",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadarśakaḥ",
+     "gloss": "with-seeing",
+     "grounds": "token 10",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What rites come after the pair?",
+   "premises": [
+    "Chaitra and ashvayuja rites occur.",
+    "After them seven oblation sacrifices indeed.",
+    "Placed fire offering, full moon, and seeing rites follow."
+   ],
+   "inference": "The verse continues the sacrificial calendar after the named rites.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Chaitra and ashvayuja; after them seven oblation sacrifices; placed fire offering, full moon, and seeing."
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "cāturmāsyaṃ",
+     "gloss": "four-month-rite",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paśūdbandhaḥ",
+     "gloss": "animal-binding",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sautrāmaṇyā",
+     "gloss": "sautramani",
+     "grounds": "token 3",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvamī",
+     "gloss": "these",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "agniṣṭomo@tipūrvo@tha",
+     "gloss": "agnishtoma-first-then",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sokyyaḥ",
+     "gloss": "soma-related",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśivājapau",
+     "gloss": "sixteen-vajapeya",
+     "grounds": "token 8",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What rites are grouped with sautramani?",
+   "premises": [
+    "Four-month and animal-binding rites occur.",
+    "With sautramani these are listed.",
+    "Agnishtoma first, then soma-related and sixteen vajapeya follow."
+   ],
+   "inference": "The verse groups seasonal, animal, and soma sacrifices.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Four-month rite, animal binding, with sautramani; these, agnishtoma first, then soma-related and sixteen vajapeya."
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "āptoryāmātirātrau",
+     "gloss": "aptoryama-atiratra",
+     "grounds": "token 1",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptaitāḥ",
+     "gloss": "seven-these",
+     "grounds": "token 3",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "somasaṃsthitāḥ",
+     "gloss": "soma-established",
+     "grounds": "token 4",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hiraṇyapādādimakhaḥ",
+     "gloss": "golden-foot-etc-sacrifice",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sahasreṇa",
+     "gloss": "by-thousand",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāvṛtaḥ",
+     "gloss": "surrounded",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What are the seven soma-established rites?",
+   "premises": [
+    "Aptoryama and atiratra are included.",
+    "These seven are soma-established.",
+    "Golden-foot sacrifice is surrounded by a thousand."
+   ],
+   "inference": "The verse lists seven soma rites and a large golden-foot sacrifice.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Aptoryama and atiratra; these seven are soma-established; golden-foot sacrifice surrounded by a thousand."
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "aṣṭatriṃśastvaśvamedho",
+     "gloss": "thirty-eighth-horse-sacrifice",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gārhasthyamiyatā",
+     "gloss": "householder-by-measure",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "token 3",
+     "morph": "3.sg.act-opt+root bhū"
+    },
+    {
+     "surface": "vānasthyapārivrājye",
+     "gloss": "forest-renunciation",
+     "grounds": "token 4",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāriṃśadamī",
+     "gloss": "fortieth-these",
+     "grounds": "token 6",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "token 7",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the final rites counted?",
+   "premises": [
+    "The thirty-eighth is horse sacrifice.",
+    "Householder rite would be by measure.",
+    "Forest and renunciation rites are considered the fortieth."
+   ],
+   "inference": "The verse closes the numbered rite sequence with horse, householder, forest, and renunciation rites.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "The thirty-eighth is horse sacrifice; householder rite would be by measure; forest and renunciation rites are considered the fortieth."
+  }
+ ]
+}
