@@ -1,71 +1,71 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a04",
+ "verse": 101,
  "rows": [
   {
    "lemma": "nahyasya",
-   "morph": "indecl.",
-   "grounds": "gloss 'not-indeed-his' + form nahyasya"
+   "morph": "compound=na+hi+asya",
+   "grounds": "negation of external implantation"
   },
   {
-   "lemma": "guru",
-   "morph": "m.instr.sg",
-   "grounds": "gloss 'by-guru' + form guruṇā"
+   "lemma": "guruṇā",
+   "morph": "m.ins.sg",
+   "grounds": "external teacher"
   },
   {
-   "lemma": "śakya",
+   "lemma": "śakyaṃ",
    "morph": "n.nom.sg",
-   "grounds": "gloss 'possible' + form śakyaṃ"
+   "grounds": "limit of transmission"
   },
   {
-   "lemma": "sva",
+   "lemma": "svaṃ",
    "morph": "n.acc.sg",
-   "grounds": "gloss 'own' + form svaṃ"
+   "grounds": "intrinsic knowledge"
   },
   {
-   "lemma": "jñāna",
+   "lemma": "jñānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "gloss 'knowledge' + form jñānaṃ"
+   "grounds": "what is to awaken"
   },
   {
    "lemma": "śabda",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'word' + form śabda"
+   "grounds": "verbal means"
   },
   {
    "lemma": "eva",
-   "morph": "indecl.",
-   "grounds": "gloss 'only' + form eva"
+   "morph": "(indecl.)",
+   "grounds": "restriction"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "gloss 'or' + form vā"
+   "morph": "(indecl.)",
+   "grounds": "alternative means"
   },
   {
-   "lemma": "dhi",
+   "lemma": "dhiyi",
    "morph": "f.loc.sg",
-   "grounds": "gloss 'in-intellect' + form dhiyi"
+   "grounds": "recipient faculty"
   },
   {
-   "lemma": "ropayitum",
-   "morph": "inf.",
-   "grounds": "gloss 'to-implant' + form ropayituṃ"
+   "lemma": "ropayituṃ",
+   "morph": "inf √ruh",
+   "grounds": "attempted transmission"
   },
   {
-   "lemma": "tad",
-   "morph": "m.instr.sg",
-   "grounds": "gloss 'therefore' + form tena"
+   "lemma": "tena",
+   "morph": "(indecl.)",
+   "grounds": "consequence"
   },
   {
-   "lemma": "svaprabodhakrama",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'self-awakening-sequence' + form svaprabodhakramo"
+   "lemma": "svaprabodhakramo",
+   "morph": "m.nom.sg compound=sva+prabodha+krama",
+   "grounds": "inner process"
   },
   {
-   "lemma": "dhruva",
-   "morph": "n.nom.sg",
-   "grounds": "gloss 'certain' + form dhruvam"
+   "lemma": "dhruvam",
+   "morph": "(indecl.)",
+   "grounds": "necessity of inner awakening"
   }
  ]
 }

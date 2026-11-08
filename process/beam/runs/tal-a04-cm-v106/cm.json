@@ -1,56 +1,56 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a04",
+ "verse": 106,
  "rows": [
   {
-   "lemma": "ukta",
-   "morph": "n.nom/acc.sg (past part. √vac)",
-   "grounds": "gloss 'said' + form uktaṃ"
+   "lemma": "uktaṃ",
+   "morph": "n.nom.sg ppp",
+   "grounds": "scriptural citation"
   },
   {
-   "lemma": "śrīpūrvaśāstra",
-   "morph": "m/n.loc.sg",
-   "grounds": "gloss 'in-former-scripture' + form śrīpūrvaśastre"
+   "lemma": "śrīpūrvaśastre",
+   "morph": "n.loc.sg compound=śrī+pūrva+śāstra",
+   "grounds": "authoritative source"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "gloss 'and' + form ca"
+   "morph": "(indecl.)",
+   "grounds": "addition"
   },
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "gloss 'not' + form na"
+   "morph": "(indecl.)",
+   "grounds": "negation of duality"
   },
   {
-   "lemma": "dvaita",
-   "morph": "n.acc.sg",
-   "grounds": "gloss 'duality' + form dvaitaṃ"
+   "lemma": "dvaitaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "first rejected category"
   },
   {
    "lemma": "nāpi",
-   "morph": "indecl.",
-   "grounds": "gloss 'nor' + form nāpi"
+   "morph": "compound=na+api",
+   "grounds": "negation of nonduality"
   },
   {
-   "lemma": "cādvaya",
-   "morph": "n.acc.sg (with ca)",
-   "grounds": "gloss 'and-non-duality' + form cādvayam"
+   "lemma": "cādvayam",
+   "morph": "compound=ca+advaya",
+   "grounds": "second rejected category"
   },
   {
-   "lemma": "liṅgapūjādika",
-   "morph": "n.acc.sg",
-   "grounds": "gloss 'linga-worship-etc' + form liṅgapūjādikaṃ"
+   "lemma": "liṅgapūjādikaṃ",
+   "morph": "n.nom.sg compound=liṅga+pūjā+ādika",
+   "grounds": "ritual practices included in scope"
   },
   {
    "lemma": "sarvamityupakramya",
-   "morph": "gerund (√kram with upa) with sarvam/iti",
-   "grounds": "gloss 'having-begun-all-thus' + form sarvamityupakramya"
+   "morph": "gerund compound=sarva+iti+upakramya",
+   "grounds": "introductory scriptural move"
   },
   {
-   "lemma": "śambhu",
-   "morph": "m.instr.sg",
-   "grounds": "gloss 'by-shambhu' + form śaṃbhunā"
+   "lemma": "śaṃbhunā",
+   "morph": "m.ins.sg",
+   "grounds": "divine speaker"
   }
  ]
 }

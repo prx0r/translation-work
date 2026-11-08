@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a04",
+ "verse": 103,
  "rows": [
   {
-   "lemma": "saṃketānādara",
-   "morph": "m.loc.sg",
-   "grounds": "disregard-of-convention; form ends -e"
+   "lemma": "saṃketānādare",
+   "morph": "m.loc.sg compound=saṃketa+anādara",
+   "grounds": "condition of word-fixation"
   },
   {
-   "lemma": "śabdaniṣṭhamāmarśana",
-   "morph": "n.acc.sg",
-   "grounds": "word-fixed-reflection; form ends -aṃ"
+   "lemma": "śabdaniṣṭhamāmarśanaṃ",
+   "morph": "n.nom.sg compound=śabda+niṣṭha+āmarśana",
+   "grounds": "verbal mode of cognition"
   },
   {
-   "lemma": "paṭhi",
+   "lemma": "paṭhiḥ",
    "morph": "m.nom.sg",
-   "grounds": "path; form ends -iḥ"
+   "grounds": "name of the practice"
   },
   {
-   "lemma": "tadādara",
-   "morph": "m.loc.sg",
-   "grounds": "in-that-regard; form ends -e"
+   "lemma": "tadādare",
+   "morph": "m.loc.sg compound=tad+ādara",
+   "grounds": "condition of meaning-focus"
   },
   {
-   "lemma": "tadartha + tu",
-   "morph": "m.nom.sg + indecl.",
-   "grounds": "but-its-meaning; compound with tu"
+   "lemma": "tadarthastu",
+   "morph": "compound=tad+artha+tu",
+   "grounds": "semantic object"
   },
   {
-   "lemma": "cint",
-   "morph": "3sg.pres.act √cint",
-   "grounds": "thinking-thus; verbal form"
+   "lemma": "cinteti",
+   "morph": "compound=cintā+iti",
+   "grounds": "definition of contemplation"
   },
   {
-   "lemma": "paricar",
-   "morph": "3sg.imp.pass √paricar",
-   "grounds": "let-it-be-examined; passive imperative form"
+   "lemma": "paricarcyatām",
+   "morph": "3.sg.pass.imp √car",
+   "grounds": "instruction to discern"
   }
  ]
 }

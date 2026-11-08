@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a04",
+ "verse": 242,
  "rows": [
   {
-   "lemma": "sarva",
-   "morph": "gen.pl.m/n",
-   "grounds": "of-all; form sarveṣāṃ"
+   "lemma": "sarveṣāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "sarva (all)"
   },
   {
-   "lemma": "vāhaka",
-   "morph": "nom.sg.m",
-   "grounds": "carrier; form vāhako"
+   "lemma": "vāhako",
+   "morph": "m.nom.sg",
+   "grounds": "vāhaka (carrier)"
   },
   {
-   "lemma": "jīva",
-   "morph": "nom.sg.m",
-   "grounds": "living-being; form jīvo"
+   "lemma": "jīvo",
+   "morph": "m.nom.sg",
+   "grounds": "jīva (living being)"
   },
   {
-   "lemma": "na asti",
-   "morph": "3sg.pres.act √as (negative)",
-   "grounds": "is-not; form nāsti"
+   "lemma": "nāsti",
+   "morph": "3.sg.present",
+   "grounds": "na (not) + as (to be)"
   },
   {
-   "lemma": "kiṃcidajīvaka",
-   "morph": "acc.sg.n",
-   "grounds": "something-non-living; form kiṃcidajīvakam"
+   "lemma": "kiṃcidajīvakam",
+   "morph": "n.nom.sg",
+   "grounds": "kiṃcit (something) + ajīvaka (lifeless)"
   },
   {
-   "lemma": "yatkiṃcijjīvarahitamaśuddha",
-   "morph": "acc.sg.n",
-   "grounds": "whatever-lifeless-impure; form yatkiṃcijjīvarahitamaśuddhaṃ"
+   "lemma": "yatkiṃcijjīvarahitamaśuddhaṃ",
+   "morph": "compound",
+   "grounds": "yatkiṃcit (whatever) + jīva (life) + rahita (devoid) + aśuddha (impure)"
   },
   {
-   "lemma": "tad + vijānata",
-   "morph": "2pl.imp.act √jñā",
-   "grounds": "know-that; form tadvijānata"
+   "lemma": "tadvijānata",
+   "morph": "2.pl.imperative",
+   "grounds": "tad (that) + vijñā (to know)"
   }
  ]
 }

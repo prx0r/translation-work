@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a04",
+ "verse": 250,
  "rows": [
   {
-   "lemma": "vaiṣṇava",
-   "morph": "acc.sg.m/n",
-   "grounds": "gloss vishnu-related; form vaiṣṇavaṃ ends in -am"
+   "lemma": "vaiṣṇavaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "vaiṣṇava (Vaishnava)"
   },
   {
    "lemma": "brahmasaṃbhūtairnetyādi",
-   "morph": "compound (AMBIGUOUS)",
-   "grounds": "gloss brahma-born-etc; sandhi/compound not fully segmented"
+   "morph": "compound",
+   "grounds": "brahma (Brahma) + saṃbhūta (born from) + na (not) + iti (thus) + ādi (and so on)"
   },
   {
-   "lemma": "paricarcay",
-   "morph": "3sg.opt.act √paricarc",
-   "grounds": "gloss should-discuss; form paricarcayet optative ending -et"
+   "lemma": "paricarcayet",
+   "morph": "3.sg.optative",
+   "grounds": "pari (around) + carc (to examine)"
   },
   {
-   "lemma": "bādh",
-   "morph": "3sg.pres.mid √bādh",
-   "grounds": "gloss obstructs; form bādhate middle present"
+   "lemma": "bādhate",
+   "morph": "3.sg.present",
+   "grounds": "bādh (to obstruct, overrule)"
   },
   {
-   "lemma": "ya",
-   "morph": "nom.sg.m",
-   "grounds": "gloss who; form yo relative pronoun"
+   "lemma": "yo",
+   "morph": "m.nom.sg",
+   "grounds": "yad (who)"
   },
   {
-   "lemma": "vaiparītyātsamūḍha",
-   "morph": "compound (AMBIGUOUS)",
-   "grounds": "gloss confused-by-opposition; sandhi of ablative and participle not fully segmented"
+   "lemma": "vaiparītyātsamūḍhaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "vaiparītya (reversal) + samūḍha (deluded)"
   },
   {
    "lemma": "pāpabhāgbhavet",
-   "morph": "compound/verb (AMBIGUOUS)",
-   "grounds": "gloss becomes-sin-sharer; sandhi of noun and bhavet not fully segmented"
+   "morph": "3.sg.optative",
+   "grounds": "pāpa (sin) + bhāj (sharer) + bhū (to become)"
   }
  ]
 }

@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a04",
+ "verse": 107,
  "rows": [
   {
-   "lemma": "vihita",
-   "morph": "m/n.acc.sg",
-   "grounds": "gloss 'prescribed' + form vihitaṃ"
+   "lemma": "vihitaṃ",
+   "morph": "n.nom.sg ppp",
+   "grounds": "ritual injunction"
   },
   {
-   "lemma": "sarva+eva+atra",
-   "morph": "indecl.",
-   "grounds": "gloss 'all-indeed-here' + compound form"
+   "lemma": "sarvamevātra",
+   "morph": "compound=sarva+eva+atra",
+   "grounds": "total scope"
   },
   {
-   "lemma": "pratiṣiddha+atha+api",
-   "morph": "m/n.acc.sg + indecl. + indecl.",
-   "grounds": "gloss 'prohibited-and-even' + form"
+   "lemma": "pratiṣiddhamathāpi",
+   "morph": "compound=pratiṣiddha+atha+api",
+   "grounds": "paired ritual negation"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "gloss 'or' + form vā"
+   "morph": "(indecl.)",
+   "grounds": "alternative framing"
   },
   {
-   "lemma": "prāṇāyāma+ādi+kairaṅga+yoga",
+   "lemma": "prāṇāyāmādikairaṅgairyogāḥ",
+   "morph": "compound=prāṇāyāma+ādika+aṅga+yoga",
+   "grounds": "disciplined practices under review"
+  },
+  {
+   "lemma": "syuḥ",
+   "morph": "3.pl.opt √as",
+   "grounds": "modal status"
+  },
+  {
+   "lemma": "kṛttrimā",
    "morph": "m.nom.pl",
-   "grounds": "gloss 'yogas-with-pranayama-etc-limbs' + form yogāḥ"
-  },
-  {
-   "lemma": "as",
-   "morph": "3pl.opt.act √as",
-   "grounds": "gloss 'would-be' + form syuḥ"
-  },
-  {
-   "lemma": "kṛttrima",
-   "morph": "f.nom.sg / m/n.nom.pl",
-   "grounds": "gloss 'artificial' + form kṛttrimā (AMBIGUOUS)"
+   "grounds": "constructed character"
   },
   {
    "lemma": "yataḥ",
-   "morph": "indecl.",
-   "grounds": "gloss 'because' + form yataḥ"
+   "morph": "(indecl.)",
+   "grounds": "reason for limitation"
   }
  ]
 }

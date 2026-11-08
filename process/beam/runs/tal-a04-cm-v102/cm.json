@@ -1,61 +1,61 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a04",
+ "verse": 102,
  "rows": [
   {
    "lemma": "ata",
    "morph": "(indecl.)",
-   "grounds": "gloss 'therefore' + form ata"
+   "grounds": "consequence of prior claim"
   },
   {
    "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "gloss 'indeed' + form eva"
+   "grounds": "emphasis"
   },
   {
-   "lemma": "svapnakāla",
-   "morph": "loc.sg.m",
-   "grounds": "gloss 'in-dream-time' + form svapnakāle"
+   "lemma": "svapnakāle",
+   "morph": "m.loc.sg compound=svapna+kāla",
+   "grounds": "example context"
   },
   {
-   "lemma": "śruta",
-   "morph": "loc.sg.n",
-   "grounds": "gloss 'when-heard' + form śrute"
+   "lemma": "śrute",
+   "morph": "n.loc.sg ppp",
+   "grounds": "received content"
   },
   {
    "lemma": "tatrāpi",
-   "morph": "(indecl.)",
-   "grounds": "gloss 'there-too' + form tatrāpi"
+   "morph": "compound=tatra+api",
+   "grounds": "extension of argument"
   },
   {
-   "lemma": "vastu",
-   "morph": "loc.sg.n",
-   "grounds": "gloss 'in-object' + form vastuni"
+   "lemma": "vastuni",
+   "morph": "n.loc.sg",
+   "grounds": "object of contemplation"
   },
   {
-   "lemma": "tādātmyabhāvanāyoga",
-   "morph": "nom.sg.m",
-   "grounds": "gloss 'identity-contemplation-union' + form tādātmyabhāvanāyogo"
-  },
-  {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "gloss 'not' + form na"
-  },
-  {
-   "lemma": "phala",
-   "morph": "dat.sg.n",
-   "grounds": "gloss 'for-fruit' + form phalāya"
+   "lemma": "tādātmyabhāvanāyogo",
+   "morph": "m.nom.sg compound=tādātmya+bhāvanā+yoga",
+   "grounds": "practice being evaluated"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "gloss 'not' + form na"
+   "grounds": "negation of result"
   },
   {
-   "lemma": "bhaṇ",
-   "morph": "3sg.pres.pass √bhaṇ",
-   "grounds": "gloss 'is-said' + form bhaṇyate"
+   "lemma": "phalāya",
+   "morph": "n.dat.sg",
+   "grounds": "intended outcome"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "reinforced negation"
+  },
+  {
+   "lemma": "bhaṇyate",
+   "morph": "3.sg.pass.pres √bhaṇ",
+   "grounds": "traditional judgment"
   }
  ]
 }
