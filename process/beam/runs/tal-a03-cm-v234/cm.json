@@ -1,51 +1,51 @@
 {
- "song": "tal-a03",
- "verse": 234,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "eṣā",
-   "morph": "pron.f.nom.sg",
-   "grounds": "this"
+   "lemma": "etad",
+   "morph": "f.nom.sg",
+   "grounds": "eṣā = this (f.nom.sg demonstrative pronoun)"
   },
   {
-   "lemma": "vastuta",
-   "morph": "(indecl.)",
-   "grounds": "in reality"
+   "lemma": "vastutas",
+   "morph": "indecl.",
+   "grounds": "vastuta = in-reality (indeclinable adverb)"
   },
   {
    "lemma": "ekaiva",
-   "morph": "adj.f.nom.sg + (indecl.)",
-   "grounds": "one alone"
+   "morph": "f.nom.sg",
+   "grounds": "ekaiva = one-alone (eka f.nom.sg + eva indecl. emphatic particle)"
   },
   {
-   "lemma": "parā",
-   "morph": "adj.f.nom.sg",
-   "grounds": "supreme"
+   "lemma": "para",
+   "morph": "f.nom.sg",
+   "grounds": "parā = supreme (f.nom.sg adjective)"
   },
   {
-   "lemma": "kālasya",
-   "morph": "n.m.gen.sg",
-   "grounds": "of time"
+   "lemma": "kāla",
+   "morph": "m.gen.sg",
+   "grounds": "kālasya = of-time (m.gen.sg noun)"
   },
   {
-   "lemma": "karṣiṇī",
-   "morph": "adj.f.nom.sg",
-   "grounds": "drawing forth"
+   "lemma": "karṣin",
+   "morph": "f.nom.sg",
+   "grounds": "karṣiṇī = drawing-forth (f.nom.sg present participle/adjective)"
   },
   {
-   "lemma": "śaktimadbhedayogena",
-   "morph": "n.m.inst.sg, compound śaktimat-bheda-yogena",
-   "grounds": "through connection with the differentiation of the power-holder"
+   "lemma": "śaktimadbhedayoga",
+   "morph": "m.inst.sg (compound: śaktimat+bheda+yoga)",
+   "grounds": "śaktimadbhedayogena = through-connection-with-difference-of-power-holder (tatpuruṣa/bahuvrīhi-type compound, m.inst.sg)"
   },
   {
-   "lemma": "yāmalatvaṃ",
-   "morph": "n.n.acc.sg",
-   "grounds": "the state of being a pair"
+   "lemma": "yāmalatva",
+   "morph": "n.acc.sg (compound: yāmala+tva)",
+   "grounds": "yāmalatvaṃ = state-of-being-a-pair (abstract noun compound, n.acc.sg)"
   },
   {
-   "lemma": "prapadyate",
-   "morph": "3.sg.present, root pad with pra",
-   "grounds": "attains"
+   "lemma": "pra-pad",
+   "morph": "3sg.pres.mid",
+   "grounds": "prapadyate = attains (3sg.pres.mid √pra-pad)"
   }
  ]
 }
