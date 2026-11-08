@@ -253,3 +253,13 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 - Remaining 7 need beam (quota): a09(180am) → a13(180, +115gloss) → a28(216) →
   a03(228) → a01(261) → a08(284) → a15(444 Everest). Queue holds 1665 pending
   gloss + driver seeds triples on healthy passes; assessor reviews on landing.
+
+## Addendum — GOLD #84–85 + review vs Tantrasara bar (2026-11-08)
+
+- #84 tal-a09 (314u, tattvadhvan territory + perceivers; 162 hand ams + v293 gloss/cm; LOOP agent contributed vv175-192 before STOP).
+- #85 tal-a13 (362u, saktipata/tirodhana; ~180 hand-drafted layers: vv1-24, 85-120, 193-288, 337-360 + v293 gloss/cm).
+- Assembler fixes: tokenization drift (10 fused-span verses re-conformed to working-t1); uncertainties-as-string (60) wrapped to lists.
+- REGISTRY 101/85/16. Gates green, validate_all 0 failures.
+- Vs Tantrasara gold: base layers at ~80% (span-exact T1, 100% PARSED L0, verse-owned Qs avg premise 5.8w, proof PASS align 1.0). Gaps: L0 stems/grounds thinness (MEDIUM), fork audit outstanding (UNKNOWN — beam never mints), argmap/L2 need redaction + read-aloud (MEDIUM), C1 derived essences are scaffolding not argument (LARGE — the real gap), c1.NOTE missing (SMALL). L3/L4/C2 waived per owner.
+- LOOP.sh paused (LOOP.STOP set) to prevent hand-draft collisions; remove STOP to resume autonomous drafting/review when assessor pauses.
+- Beam still 429; harness + staggered workers + full-context packets armed for auto-resume. Remaining beam-dependent: a28/a03/a01/a08/a15 (~1,300 layer-items).
