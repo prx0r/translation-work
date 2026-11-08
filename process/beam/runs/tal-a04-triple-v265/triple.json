@@ -1,5 +1,5 @@
 {
- "song": "Tantraloka a04 271-276",
+ "song": "Tantraloka a04",
  "items": [
   {
    "verse": 271,
@@ -7,87 +7,87 @@
     {
      "surface": "nāsminvidhīyate",
      "gloss": "not-in-this-is-enjoined",
-     "grounds": "negation of injunction in the present context",
-     "morph": "na (indecl.) + asmin (m.loc.sg) + vidhīyate (3.sg.pass-pres, √vidh)"
+     "grounds": "negation + locative reference + passive prescription",
+     "morph": "na (indecl.) + asmin (pron.loc.sg.n) + vidhīyate (3.sg.pass-pres; √vidh)"
     },
     {
      "surface": "taddhi",
      "gloss": "that-indeed",
-     "grounds": "emphatic reason for the non-enjoinment",
-     "morph": "tat (n.nom.sg) + hi (indecl.)"
+     "grounds": "emphatic reason",
+     "morph": "tat (pron.nom.sg.n) + hi (indecl.)"
     },
     {
      "surface": "sākṣānnaupayikaṃ",
      "gloss": "directly-not-suitable",
-     "grounds": "not directly applicable as a means",
-     "morph": "sākṣāt (indecl.) + na (indecl.) + aupayikam (n.nom.sg)"
+     "grounds": "negated applicability",
+     "morph": "sākṣāt (indecl.) + na (indecl.) + aupayikam (adj.nom.sg.n)"
     },
     {
      "surface": "śive",
      "gloss": "in-shiva",
-     "grounds": "with respect to the supreme reality",
+     "grounds": "supreme reality as locus",
      "morph": "śive (m.loc.sg)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation introducing the next clause",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "tasya",
      "gloss": "of-that",
-     "grounds": "refers back to what is not enjoined",
-     "morph": "tasya (n.gen.sg)"
+     "grounds": "anaphoric reference",
+     "morph": "tasya (pron.gen.sg.n)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connects non-enjoinment with non-prohibition",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "niṣodho",
      "gloss": "prohibition",
-     "grounds": "ritual or scriptural prohibition",
+     "grounds": "ritual or conceptual negation",
      "morph": "niṣedhaḥ (m.nom.sg)"
     },
     {
      "surface": "ya",
      "gloss": "which",
-     "grounds": "relative pronoun introducing reason",
-     "morph": "yat (n.nom.sg)"
+     "grounds": "relative pronoun",
+     "morph": "yaḥ (pron.nom.sg.m, sandhi)"
     },
     {
      "surface": "nna",
      "gloss": "not",
-     "grounds": "negation in the relative clause",
-     "morph": "na (indecl.)"
+     "grounds": "negation",
+     "morph": "na (indecl., sandhi)"
     },
     {
      "surface": "tattattvasya",
-     "gloss": "of-that-reality",
-     "grounds": "the principle or reality in question",
-     "morph": "tat (indecl.) + tattvasya (n.gen.sg)"
+     "gloss": "of-that-principle",
+     "grounds": "reference to a specific reality",
+     "morph": "tat (pron.) + tattvasya (n.gen.sg)"
     },
     {
      "surface": "khaṇḍanam",
      "gloss": "refutation",
-     "grounds": "breaking or negating that reality",
+     "grounds": "breaking or negating",
      "morph": "khaṇḍanam (n.nom.sg)"
     }
    ],
-   "question": "Why is this practice neither enjoined nor prohibited in Shiva?",
+   "question": "Why is neither injunction nor prohibition directly applicable in the case of Shiva?",
    "premises": [
-    "Nothing is enjoined in this context because it is not directly suitable as a means in Shiva.",
-    "There is also no prohibition of that practice.",
-    "A prohibition would not amount to a refutation of that reality."
+    "In this context, injunction is not directly enjoined because it is not suitable for Shiva.",
+    "There is also no prohibition of that, because prohibition would refute that principle.",
+    "Shiva as the principle cannot be properly limited by direct ritual prescription or negation."
    ],
-   "inference": "In relation to Shiva, the practice stands outside both injunction and prohibition because neither applies to that reality.",
+   "inference": "Therefore, direct injunction and direct prohibition do not apply to Shiva without undermining the principle itself.",
    "uncertainties": [
-    "The exact referent of 'that' (tat/tasya) depends on the immediately preceding verses about lineage restrictions."
+    "The exact referent of 'in this' (asmin) depends on the immediately preceding ritual or doctrinal context."
    ],
-   "plain_english": "In this context nothing is laid down as a rule, because it is not directly suitable as a means in Shiva. Nor is it forbidden, since forbidding it would not refute that reality."
+   "plain_english": "In this case nothing is directly enjoined, because such an injunction does not truly fit Shiva. Nor is there a direct prohibition, since prohibiting it would amount to denying that very principle."
   },
   {
    "verse": 272,
@@ -95,81 +95,81 @@
     {
      "surface": "viśvātmano",
      "gloss": "of-universal-self",
-     "grounds": "the Lord whose self is the universe",
-     "morph": "viśva+ātmanas (m.gen.sg, compound)"
+     "grounds": "all-encompassing subject",
+     "morph": "viśva+ātmanaḥ (m.gen.sg)"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "emphasizes the reason",
+     "grounds": "emphasis",
      "morph": "(indecl.)"
     },
     {
      "surface": "nāthasya",
-     "gloss": "of-lord",
-     "grounds": "the supreme Lord",
+     "gloss": "of-the-lord",
+     "grounds": "sovereign deity",
      "morph": "nāthasya (m.gen.sg)"
     },
     {
      "surface": "svasminrūpe",
      "gloss": "in-own-form",
-     "grounds": "in the Lord's intrinsic nature",
-     "morph": "svasmin (n.loc.sg) + rūpe (n.loc.sg)"
+     "grounds": "intrinsic nature as locus",
+     "morph": "svasmin (pron.loc.sg.n) + rūpe (n.loc.sg)"
     },
     {
      "surface": "vikalpitau",
      "gloss": "imagined",
-     "grounds": "mentally constructed distinctions",
-     "morph": "vikalpitau (m.nom.du, past participle, √kalp with vi)"
+     "grounds": "mentally constructed",
+     "morph": "vikalpitau (m.nom.du, past participle; vi-√kḷp)"
     },
     {
      "surface": "vidhirniṣedho",
-     "gloss": "injunction-prohibition",
-     "grounds": "the pair of scriptural command and prohibition",
-     "morph": "vidhiḥ (m.nom.sg) + niṣedhaḥ (m.nom.sg, compound)"
+     "gloss": "injunction-and-prohibition",
+     "grounds": "paired ritual categories",
+     "morph": "vidhiḥ (m.nom.sg) + niṣedhaḥ (m.nom.sg, sandhi)"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "alternative locus for the imagined pair",
+     "grounds": "alternative",
      "morph": "(indecl.)"
     },
     {
      "surface": "śaktau",
      "gloss": "in-power",
-     "grounds": "in the Lord's energy",
+     "grounds": "divine energy as locus",
      "morph": "śaktau (f.loc.sg)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation of breaking the own nature",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "svarūpasya",
      "gloss": "of-own-nature",
-     "grounds": "the intrinsic nature of the Lord",
-     "morph": "sva+rūpasya (n.gen.sg, compound)"
+     "grounds": "intrinsic essence",
+     "morph": "sva+rūpasya (n.gen.sg)"
     },
     {
      "surface": "khaṇḍane",
      "gloss": "in-breaking",
-     "grounds": "in the act of refuting or dividing that nature",
+     "grounds": "act of negation or division",
      "morph": "khaṇḍane (n.loc.sg)"
     }
    ],
-   "question": "Where do injunction and prohibition arise for the universal Lord?",
+   "question": "Where do injunction and prohibition belong in relation to the universal Lord's own nature?",
    "premises": [
-    "The Lord's self is the entire universe.",
-    "Injunction and prohibition are imagined either in the Lord's own form or in his power.",
-    "These imagined distinctions do not break the Lord's own nature."
+    "The universal Lord's own form is not subject to real division by injunction and prohibition.",
+    "Injunction and prohibition are imagined constructs, whether applied to his own form or to his power.",
+    "They do not operate by breaking or negating the Lord's intrinsic nature."
    ],
-   "inference": "Injunction and prohibition are conceptual constructions within the Lord's manifestation and do not divide his intrinsic nature.",
+   "inference": "Thus injunction and prohibition are conceptual impositions, not realities that divide the Lord's essence.",
    "uncertainties": [
-    "Whether 'in his own form or in his power' marks two distinct loci or two aspects of the same locus is slightly compressed in the verse."
+    "The phrase 'na svarūpasya khaṇḍane' can be read as limiting the scope of injunction/prohibition rather than denying their conventional use."
    ],
-   "plain_english": "For the Lord whose self is the universe, injunction and prohibition are imagined either in his own form or in his power. They do not break his own nature."
+   "plain_english": "For the Lord, who is the universal Self, injunction and prohibition are only imagined, whether in relation to his own form or to his power. They do not actually break or negate his true nature."
   },
   {
    "verse": 273,
@@ -177,87 +177,87 @@
     {
      "surface": "paratattvapraveśe",
      "gloss": "in-entry-into-supreme-reality",
-     "grounds": "the approach to the highest principle",
-     "morph": "para+tattva+praveśe (m.loc.sg, compound)"
+     "grounds": "approach to the highest principle",
+     "morph": "para+tattva+praveśe (m.loc.sg)"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "marks a practical qualification",
+     "grounds": "contrast or qualification",
      "morph": "(indecl.)"
     },
     {
      "surface": "yameva",
-     "gloss": "which-indeed",
-     "grounds": "whichever means is recognized",
-     "morph": "yam (m.acc.sg) + eva (indecl.)"
+     "gloss": "whichever-indeed",
+     "grounds": "emphatic selection",
+     "morph": "yam (pron.acc.sg.m) + eva (indecl.)"
     },
     {
      "surface": "nikaṭaṃ",
      "gloss": "near",
-     "grounds": "close or immediately effective",
-     "morph": "nikaṭam (m.acc.sg)"
+     "grounds": "proximate or suitable",
+     "morph": "nikaṭam (adj.acc.sg.m)"
     },
     {
      "surface": "yadā",
      "gloss": "when",
-     "grounds": "at the time of recognition",
+     "grounds": "temporal condition",
      "morph": "(indecl.)"
     },
     {
      "surface": "upāyaṃ",
      "gloss": "means",
-     "grounds": "a method for entering the supreme reality",
+     "grounds": "method or approach",
      "morph": "upāyam (m.acc.sg)"
     },
     {
      "surface": "vetti",
      "gloss": "knows",
-     "grounds": "recognizes as effective",
-     "morph": "vetti (3.sg.act-pres, √vid)"
+     "grounds": "recognition or discernment",
+     "morph": "vetti (3.sg.act-pres; √vid)"
     },
     {
      "surface": "sa",
      "gloss": "he",
      "grounds": "the practitioner",
-     "morph": "saḥ (m.nom.sg)"
+     "morph": "saḥ (pron.nom.sg.m)"
     },
     {
      "surface": "grāhyastadā",
      "gloss": "to-be-accepted-then",
-     "grounds": "the means is adopted at that time",
-     "morph": "grāhyaḥ (m.nom.sg, future passive participle, √grah) + tadā (indecl.)"
+     "grounds": "situational adoption",
+     "morph": "grāhyaḥ (m.nom.sg, gerundive; √grah) + tadā (indecl.)"
     },
     {
      "surface": "tyājyo@tha",
      "gloss": "to-be-abandoned-then",
-     "grounds": "or the means is set aside at that time",
-     "morph": "tyājyaḥ (m.nom.sg, future passive participle, √tyaj) + atha (indecl.)"
+     "grounds": "situational rejection",
+     "morph": "tyājyaḥ (m.nom.sg, gerundive; √tyaj) + atha (indecl.)"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "alternative to acceptance",
+     "grounds": "alternative",
      "morph": "(indecl.)"
     },
     {
      "surface": "kvacit",
      "gloss": "sometimes",
-     "grounds": "depending on circumstance",
+     "grounds": "occasional applicability",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How should a means be chosen for entering the supreme reality?",
+   "question": "How should a means be chosen when entering the supreme reality?",
    "premises": [
-    "Entry into the supreme reality depends on recognizing an effective means.",
-    "A means that is known to be near and suitable may be accepted at that time.",
-    "The same kind of means may sometimes be abandoned depending on circumstance."
+    "In the approach to the supreme reality, suitability depends on what is near or effective for the practitioner.",
+    "When a person recognizes a particular means as near, that means may be accepted.",
+    "At another time or in another case, that same kind of means may be abandoned."
    ],
-   "inference": "Acceptance or abandonment of a means is situational, guided by what is immediately effective for entering the supreme reality.",
+   "inference": "Therefore, acceptance or abandonment of a means is situational, not fixed by an absolute rule.",
    "uncertainties": [
-    "The subject of 'knows' could be read as the practitioner or as a general knower; the sense remains practical."
+    "The subject of 'vetti' is supplied as 'he' from context; the verse states it elliptically."
    ],
-   "plain_english": "But in entering the supreme reality, when one recognizes a means as near and effective, it should be accepted then, or sometimes set aside. There is no fixed constraint here."
+   "plain_english": "But in entering the supreme reality, whatever means one recognizes as near and fitting should be taken up at that time. At other times, or in other cases, it may just as well be set aside."
   },
   {
    "verse": 274,
@@ -265,57 +265,57 @@
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation of constraint",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "yantraṇātra",
      "gloss": "constraint-here",
-     "grounds": "rigid restriction in this matter",
+     "grounds": "rigid compulsion",
      "morph": "yantraṇā (f.nom.sg) + atra (indecl.)"
     },
     {
      "surface": "kāryeti",
      "gloss": "to-be-done-thus",
-     "grounds": "concludes that no constraint should be imposed",
-     "morph": "kāryā (f.nom.sg, future passive participle, √kṛ) + iti (indecl.)"
+     "grounds": "prescriptive closure",
+     "morph": "kāryā (f.nom.sg, gerundive; √kṛ) + iti (indecl.)"
     },
     {
      "surface": "proktaṃ",
      "gloss": "said",
-     "grounds": "authoritative teaching",
-     "morph": "proktam (n.nom.sg, past passive participle, √vac with pra)"
+     "grounds": "scriptural declaration",
+     "morph": "proktam (n.nom.sg, past participle; pra-√vac)"
     },
     {
      "surface": "śrītrikaśāsane",
-     "gloss": "in-trika-teaching",
-     "grounds": "the revered Trika scripture",
-     "morph": "śrī+trika+śāsane (n.loc.sg, compound)"
+     "gloss": "in-sri-trika-teaching",
+     "grounds": "authoritative tradition",
+     "morph": "śrī+trika+śāsane (n.loc.sg)"
     },
     {
      "surface": "samatā",
      "gloss": "equality",
-     "grounds": "non-hierarchical sameness in essence",
+     "grounds": "non-hierarchical vision",
      "morph": "samatā (f.nom.sg)"
     },
     {
      "surface": "sarvadevānāmovallīmantravarṇayoḥ",
      "gloss": "of-all-gods-creeper-mantra-letters",
-     "grounds": "equality across deities, plants, mantras, and letters",
-     "morph": "sarva+devānām (m.gen.pl, compound) + oṣadhi+vallī+mantra+varṇayoḥ (m.gen.du, compound)"
+     "grounds": "inclusive scope across domains",
+     "morph": "sarva+devānām (m.gen.pl) + oṣadhi+vallī+mantra+varṇayoḥ (gen.du, compound)"
     }
    ],
-   "question": "What does the Trika teaching say about constraint and equality?",
+   "question": "What does the Trika teaching say about constraint and equality across sacred forms?",
    "premises": [
-    "The revered Trika teaching states that no rigid constraint should be imposed here.",
-    "It affirms equality among all gods.",
-    "It affirms equality among plants, mantras, and letters."
+    "The revered Trika teaching does not impose rigid constraint here.",
+    "It declares equality across all gods.",
+    "It also declares equality across plants, creepers, mantras, and letters."
    ],
-   "inference": "Because all these forms share the same ultimate ground, the Trika teaching rejects rigid constraint and affirms their equality.",
+   "inference": "Therefore, in this teaching, realization is not bound by rigid hierarchies among sacred forms.",
    "uncertainties": [
-    "The compound 'ovallīmantravarṇayoḥ' is read as covering plants/creepers, mantras, and letters; the exact grouping is compact."
+    "The compound 'ovallīmantravarṇayoḥ' is compressed; the exact intended pairing of its members is slightly ambiguous."
    ],
-   "plain_english": "The revered Trika teaching says that no rigid constraint should be made here. It teaches the equality of all gods, and of plants, mantras, and letters."
+   "plain_english": "The revered Trika teaching says there should be no rigid constraint here. It teaches an equality that extends to all the gods, and even to plants, creepers, mantras, and letters."
   },
   {
    "verse": 275,
@@ -324,7 +324,7 @@
      "surface": "āgamanāṃ",
      "gloss": "of-arrivals",
      "grounds": "comings or approaches",
-     "morph": "āgamanānām (n.gen.pl)"
+     "morph": "āgamanānām (n.gen.pl, sandhi)"
     },
     {
      "surface": "gatīnāṃ",
@@ -335,63 +335,63 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "joins arrivals and goings",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "the whole range of movement",
+     "grounds": "totality",
      "morph": "sarvam (n.nom.sg)"
     },
     {
      "surface": "śivamayaṃ",
      "gloss": "shiva-filled",
-     "grounds": "consisting entirely of Shiva",
-     "morph": "śiva+mayam (n.nom.sg, compound)"
+     "grounds": "pervaded by Shiva",
+     "morph": "śiva+mayam (adj.nom.sg.n)"
     },
     {
      "surface": "yataḥ",
      "gloss": "because",
-     "grounds": "introduces the reason for the vision",
+     "grounds": "reason",
      "morph": "(indecl.)"
     },
     {
      "surface": "sa",
      "gloss": "he",
      "grounds": "the realized seer",
-     "morph": "saḥ (m.nom.sg)"
+     "morph": "saḥ (pron.nom.sg.m)"
     },
     {
      "surface": "hyakhaṇḍitasadbhāvaṃ",
      "gloss": "undivided-true-being",
-     "grounds": "reality whose true being is unbroken",
-     "morph": "hi (indecl.) + akhaṇḍita+sat+bhāvam (m.acc.sg, compound)"
+     "grounds": "unbroken reality",
+     "morph": "hi (indecl.) + akhaṇḍita+sat+bhāvam (m.acc.sg)"
     },
     {
      "surface": "śivatattvaṃ",
-     "gloss": "shiva-reality",
-     "grounds": "the principle of Shiva",
-     "morph": "śiva+tattvam (n.acc.sg, compound)"
+     "gloss": "shiva-principle",
+     "grounds": "supreme reality",
+     "morph": "śiva+tattvam (n.acc.sg)"
     },
     {
      "surface": "prapaśyati",
      "gloss": "sees",
-     "grounds": "directly perceives",
-     "morph": "prapaśyati (3.sg.act-pres, √paś with pra)"
+     "grounds": "direct vision",
+     "morph": "prapaśyati (3.sg.act-pres; pra-√paś)"
     }
    ],
-   "question": "Why does the realized seer perceive all movement as Shiva?",
+   "question": "Why does the realized person see all comings and goings as pervaded by Shiva?",
    "premises": [
-    "All arrivals and goings are entirely filled with Shiva.",
-    "The realized seer directly perceives the Shiva-reality.",
-    "That Shiva-reality is an undivided true being."
+    "All arrivals and departures are, in truth, pervaded by Shiva.",
+    "The realized person directly sees the Shiva-principle as undivided true being.",
+    "Because of this vision, no movement falls outside Shiva's reality."
    ],
-   "inference": "Because every movement is Shiva-filled, the seer perceives the undivided true being of the Shiva-reality in all comings and goings.",
+   "inference": "Therefore, for one who sees truly, every coming and going is recognized as Shiva-filled.",
    "uncertainties": [
-    "The sandhi in 'hyakhaṇḍita' is resolved as 'hi akhaṇḍita'; the emphasis remains clear."
+    "The verse compresses 'sa hi' into the tokenization; the causal-emphatic force is clear but the sandhi split is editorial."
    ],
-   "plain_english": "Because all arrivals and goings are filled with Shiva, the realized seer perceives the Shiva-reality as an undivided true being."
+   "plain_english": "Because all comings and goings are filled with Shiva, such a person sees the Shiva-principle as an undivided, unbroken reality."
   },
   {
    "verse": 276,
@@ -399,43 +399,43 @@
     {
      "surface": "yo",
      "gloss": "who",
-     "grounds": "the qualified practitioner",
-     "morph": "yaḥ (m.nom.sg)"
+     "grounds": "relative subject",
+     "morph": "yaḥ (pron.nom.sg.m)"
     },
     {
      "surface": "hyakhaṇḍitasadbhāvamātmatattvaṃ",
-     "gloss": "undivided-true-being-self-reality",
-     "grounds": "the self-reality as unbroken true being",
-     "morph": "hi (indecl.) + akhaṇḍita+sat+bhāvam (m.acc.sg, compound) + ātma+tattvam (n.acc.sg, compound)"
+     "gloss": "undivided-true-being-self-principle",
+     "grounds": "unbroken reality of the self",
+     "morph": "hi (indecl.) + akhaṇḍita+sat+bhāvam (adj.) + ātma+tattvam (n.acc.sg)"
     },
     {
      "surface": "prapadyate",
-     "gloss": "approaches",
-     "grounds": "takes refuge in or attains",
-     "morph": "prapadyate (3.sg.mid-pres, √pad with pra)"
+     "gloss": "attains",
+     "grounds": "approaches or realizes",
+     "morph": "prapadyate (3.sg.mid-pres; pra-√pad)"
     },
     {
      "surface": "ketakīkusumasaurabhe",
      "gloss": "in-ketaki-flower-fragrance",
-     "grounds": "the subtle fragrance of the ketaki flower",
-     "morph": "ketakī+kusuma+saurabhe (n.loc.sg, compound)"
+     "grounds": "simile of refined attraction",
+     "morph": "ketakī+kusuma+saurabhe (n.loc.sg)"
     },
     {
      "surface": "bhṛśaṃ",
      "gloss": "intensely",
-     "grounds": "with strong delight",
+     "grounds": "strong degree",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhṛṅga",
      "gloss": "bee",
-     "grounds": "the discerning bee",
+     "grounds": "discerning enjoyer",
      "morph": "bhṛṅgaḥ (m.nom.sg)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphasizes the comparison",
+     "grounds": "emphasis",
      "morph": "(indecl.)"
     },
     {
@@ -447,51 +447,51 @@
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation of the fly",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "makṣikā",
      "gloss": "fly",
-     "grounds": "the undiscerning fly",
+     "grounds": "undiscerning seeker",
      "morph": "makṣikā (f.nom.sg)"
     },
     {
      "surface": "bhairavīyaparamādvayārcane",
      "gloss": "in-supreme-nondual-bhairava-worship",
-     "grounds": "worship of the supreme nondual Bhairava",
-     "morph": "bhairavīya+parama+advaya+arcane (n.loc.sg, compound)"
+     "grounds": "highest nondual practice",
+     "morph": "bhairavīya+parama+advaya+arcane (n.loc.sg)"
     },
     {
      "surface": "ko@pi",
      "gloss": "someone",
-     "grounds": "a rare qualified person",
-     "morph": "kaḥ (m.nom.sg) + api (indecl.)"
+     "grounds": "rare individual",
+     "morph": "kaḥ (pron.nom.sg.m) + api (indecl.)"
     },
     {
      "surface": "rajyati",
      "gloss": "delights",
-     "grounds": "takes joy and becomes absorbed",
-     "morph": "rajyati (3.sg.act-pres, √rañj)"
+     "grounds": "takes joy or becomes absorbed",
+     "morph": "rajyati (3.sg.act-pres; √rañj)"
     },
     {
      "surface": "maheśacoditaḥ",
      "gloss": "impelled-by-great-lord",
-     "grounds": "moved by the impulse of the great Lord",
-     "morph": "maheśa+coditaḥ (m.nom.sg, compound, past passive participle, √cud)"
+     "grounds": "moved by divine impulse",
+     "morph": "maheśa+coditaḥ (m.nom.sg, past participle; √cud)"
     }
    ],
    "question": "Who truly delights in the supreme nondual worship of Bhairava?",
    "premises": [
-    "One who approaches the self-reality as undivided true being is like a bee savoring the fragrance of a ketaki flower.",
-    "Such a person is a connoisseur, not like an undiscerning fly.",
-    "Only someone impelled by the great Lord delights in the supreme nondual worship of Bhairava."
+    "One who attains the undivided true being of the Self is like a bee drawn to the fragrance of the ketaki flower.",
+    "Such a person is a discerning connoisseur, not like a fly.",
+    "Only someone impelled by the Great Lord delights in the supreme nondual worship of Bhairava."
    ],
-   "inference": "Delight in supreme nondual Bhairava worship belongs to the rare, divinely impelled connoisseur who recognizes undivided reality.",
+   "inference": "Therefore, delight in supreme nondual Bhairava worship belongs to the rare, divinely impelled connoisseur of undivided reality.",
    "uncertainties": [
-    "The compound 'bhairavīyaparamādvayārcane' can be parsed tightly as worship belonging to Bhairava in its supreme nondual form; the translation keeps that sense."
+    "The simile's application spans both clauses; the verse links realization of the Self and delight in Bhairava worship by analogy rather than explicit syntax."
    ],
-   "plain_english": "One who approaches the self-reality as undivided true being delights intensely, like a bee savoring the fragrance of a ketaki flower, not like a fly. Only someone impelled by the great Lord takes delight in the supreme nondual worship of Bhairava."
+   "plain_english": "One who reaches the undivided true being of the Self is like a bee, a true connoisseur drawn to the fragrance of the ketaki flower, not like a fly. Only someone moved by the Great Lord takes delight in the supreme nondual worship of Bhairava."
   }
  ]
 }

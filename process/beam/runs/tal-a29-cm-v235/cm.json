@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a29",
+ "verse": 235,
  "rows": [
   {
    "lemma": "sa",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'that' + form sa"
+   "grounds": "refers to the transfer described above"
   },
   {
    "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "gloss 'indeed' + form eva"
+   "grounds": "emphasis"
   },
   {
-   "lemma": "pūrṇa",
-   "morph": "m/n.inst.pl",
-   "grounds": "gloss 'full' + form pūrṇaiḥ"
+   "lemma": "pūrṇaiḥ",
+   "morph": "m.ins.pl",
+   "grounds": "contrasts with the usual pitchers"
   },
   {
-   "lemma": "kalaśa+abhiṣeka",
-   "morph": "m.inst.pl + m.nom.sg",
-   "grounds": "gloss 'pitcher-consecration' + form kalaśairabhiṣekaḥ"
+   "lemma": "kalaśairabhiṣekaḥ",
+   "morph": "kalaśaiḥ (m.ins.pl) + abhiṣekaḥ (m.nom.sg)",
+   "grounds": "the ritual being redefined"
   },
   {
-   "lemma": "para",
+   "lemma": "paraḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'supreme' + form paraḥ"
+   "grounds": "evaluates this consecration"
   },
   {
-   "lemma": "smṛta",
-   "morph": "m.nom.sg (ppp √smṛ)",
-   "grounds": "gloss 'declared' + form smṛtaḥ"
+   "lemma": "smṛtaḥ",
+   "morph": "m.nom.sg, past participle",
+   "grounds": "scriptural authority"
   },
   {
    "lemma": "vinā",
    "morph": "(indecl.)",
-   "grounds": "gloss 'without' + form vinā"
+   "grounds": "removes the need for external items"
   },
   {
-   "lemma": "bāhya+api+iti+ukta",
-   "morph": "m.inst.pl + (indecl.) + (indecl.) + n.nom/acc.sg (ppp √vac)",
-   "grounds": "gloss 'external-ones-too-thus-said' + form bāhyairapītyuktaṃ"
+   "lemma": "bāhyairapītyuktaṃ",
+   "morph": "bāhyaiḥ (m.ins.pl) + api (indecl.) + iti (indecl.) + uktam (n.nom.sg, past participle)",
+   "grounds": "states the teaching explicitly"
   },
   {
-   "lemma": "śrīvīrāvalibhairava",
-   "morph": "m.loc.sg",
-   "grounds": "gloss 'in-śrīvīrāvali-bhairava' + form śrīvīrāvalibhairave"
+   "lemma": "śrīvīrāvalibhairave",
+   "morph": "śrī+vīrāvali+bhairava, compound; m.loc.sg",
+   "grounds": "scriptural source"
   }
  ]
 }

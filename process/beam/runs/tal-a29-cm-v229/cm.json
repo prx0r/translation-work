@@ -1,41 +1,41 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a29",
+ "verse": 229,
  "rows": [
   {
-   "lemma": "aṣṭāṣṭaka",
-   "morph": "instr.sg.n",
-   "grounds": "gloss 'by-eight-octads' + form aṣṭāṣṭakena"
+   "lemma": "aṣṭāṣṭakena",
+   "morph": "n.ins.sg",
+   "grounds": "instrument for worship"
   },
   {
-   "lemma": "pūj",
-   "morph": "3pl.pres.pass",
-   "grounds": "gloss 'are-to-be-worshipped' + form pūjyāste (AMBIGUOUS sandhi)"
+   "lemma": "pūjyāste",
+   "morph": "pūjyāḥ (m.nom.pl, gerundive) + te (m.nom.pl)",
+   "grounds": "prescribes worship"
   },
   {
-   "lemma": "madhya",
-   "morph": "loc.sg.n",
-   "grounds": "gloss 'in-middle' + form madhye"
+   "lemma": "madhye",
+   "morph": "(indecl.)",
+   "grounds": "location of worship"
   },
   {
    "lemma": "prāgvat",
-   "morph": "indecl.",
-   "grounds": "gloss 'as-before' + form prāgvat"
+   "morph": "(indecl.)",
+   "grounds": "refers to earlier procedure"
   },
   {
-   "lemma": "kuleśvara",
-   "morph": "nom.du.m",
-   "grounds": "gloss 'two-kula-lords' + form kuleśvarau"
+   "lemma": "kuleśvarau",
+   "morph": "kula+īśvara, compound; m.nom.du",
+   "grounds": "objects of worship"
   },
   {
-   "lemma": "śivahastoktayukti",
-   "morph": "instr.sg.f",
-   "grounds": "gloss 'by-śiva-hand-stated-method-only' + form śivahastoktayuktyaiva (eva indecl.)"
+   "lemma": "śivahastoktayuktyaiva",
+   "morph": "śiva+hasta+ukta+yukti, compound + eva (indecl.); f.ins.sg",
+   "grounds": "specifies the ritual method"
   },
   {
-   "lemma": "abhiṣecay",
-   "morph": "3sg.opt.act",
-   "grounds": "gloss 'should-consecrate-guru-too' + form gurumapyabhiṣecayet (gurum acc.sg.m, api indecl.)"
+   "lemma": "gurumapyabhiṣecayet",
+   "morph": "gurum (m.acc.sg) + api (indecl.) + abhiṣecayet (3.sg.optative, abhi-ṣic)",
+   "grounds": "main ritual instruction"
   }
  ]
 }

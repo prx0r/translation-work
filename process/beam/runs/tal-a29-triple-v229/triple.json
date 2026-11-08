@@ -1,0 +1,779 @@
+{
+ "song": "Tantraloka a29",
+ "items": [
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "aṣṭāṣṭakena",
+     "gloss": "with-eight-groups-of-eight",
+     "grounds": "instrument for worship",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "pūjyāste",
+     "gloss": "they-are-to-be-worshipped",
+     "grounds": "prescribes worship",
+     "morph": "pūjyāḥ (m.nom.pl, gerundive) + te (m.nom.pl)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "location of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "refers to earlier procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuleśvarau",
+     "gloss": "the-two-lords-of-the-kula",
+     "grounds": "objects of worship",
+     "morph": "kula+īśvara, compound; m.nom.du"
+    },
+    {
+     "surface": "śivahastoktayuktyaiva",
+     "gloss": "by-the-method-taught-as-shiva-hand-alone",
+     "grounds": "specifies the ritual method",
+     "morph": "śiva+hasta+ukta+yukti, compound + eva (indecl.); f.ins.sg"
+    },
+    {
+     "surface": "gurumapyabhiṣecayet",
+     "gloss": "one-should-also-consecrate-the-guru",
+     "grounds": "main ritual instruction",
+     "morph": "gurum (m.acc.sg) + api (indecl.) + abhiṣecayet (3.sg.optative, abhi-ṣic)"
+    }
+   ],
+   "question": "How should the two Kula lords and the guru be worshipped and consecrated in this rite?",
+   "premises": [
+    "The two lords of the Kula are to be worshipped in the middle with the eight groups of eight, as before.",
+    "The worship and consecration follow only the method taught as the hand of Shiva.",
+    "The guru should also be consecrated by that same method."
+   ],
+   "inference": "The consecration of the Kula lords and the guru forms a single ritual procedure performed by the Shiva-hand method.",
+   "uncertainties": [
+    "The exact identity of the 'eight groups of eight' is not specified in this verse."
+   ],
+   "plain_english": "They are to be worshipped in the middle with the eight groups of eight, as before, as the two lords of the Kula. By the very method taught as the hand of Shiva, one should also consecrate the guru."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "abhiṣiktāvimāvevaṃ",
+     "gloss": "these-two-thus-consecrated",
+     "grounds": "refers to the consecrated pair",
+     "morph": "abhiṣiktau (m.nom.du, past participle) + imau (m.nom.du) + evam (indecl.)"
+    },
+    {
+     "surface": "sarvayogigaṇena",
+     "gloss": "by-the-whole-group-of-yogins",
+     "grounds": "agents who recognize them",
+     "morph": "sarva+yogin+gaṇa, compound; m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viditau",
+     "gloss": "recognized",
+     "grounds": "result of consecration",
+     "morph": "m.nom.du, past participle"
+    },
+    {
+     "surface": "bhavatastatra",
+     "gloss": "become-there",
+     "grounds": "states their status in that context",
+     "morph": "bhavataḥ (3.du.present, bhū) + tatra (indecl.)"
+    },
+    {
+     "surface": "gururmokṣaprado",
+     "gloss": "the-guru-becomes-a-giver-of-liberation",
+     "grounds": "declares the guru's function",
+     "morph": "guruḥ (m.nom.sg) + mokṣa+pradaḥ (m.nom.sg), compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting status",
+     "morph": "3.sg.optative, bhū"
+    }
+   ],
+   "question": "What status do the consecrated pair gain, and what role does the guru assume?",
+   "premises": [
+    "When these two are consecrated in this way, the whole group of yogins recognizes them.",
+    "Recognition occurs in that ritual context.",
+    "The guru thereby becomes a giver of liberation."
+   ],
+   "inference": "Proper consecration establishes public recognition among yogins and authorizes the guru to grant liberation.",
+   "uncertainties": [
+    "The verse does not explicitly identify who the 'two' are beyond the prior context."
+   ],
+   "plain_english": "When these two have been consecrated in this way, they become recognized by the whole group of yogins. In that setting, the guru becomes a giver of liberation."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "tātparyamasya",
+     "gloss": "the-intent-of-this",
+     "grounds": "introduces the purpose",
+     "morph": "tātparyam (n.nom.sg) + asya (m./n.gen.sg)"
+    },
+    {
+     "surface": "pādasya",
+     "gloss": "of-the-section",
+     "grounds": "specifies what the intent concerns",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the qualified guru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhīḥ",
+     "gloss": "accomplishments",
+     "grounds": "what is granted",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "saṃprayacchati",
+     "gloss": "bestows",
+     "grounds": "act of granting",
+     "morph": "3.sg.present, sam-pra-yam"
+    },
+    {
+     "surface": "gururyaḥ",
+     "gloss": "the-guru-who",
+     "grounds": "defines the granting guru",
+     "morph": "guruḥ (m.nom.sg) + yaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "is-a-practitioner",
+     "grounds": "qualification of that guru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāksyādanyo",
+     "gloss": "another-may-be-formerly",
+     "grounds": "contrasts with a different case",
+     "morph": "prāk (indecl.) + syāt (3.sg.optative, as) + anyaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "what the other gives",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadātyalam",
+     "gloss": "gives-fully",
+     "grounds": "act of granting liberation",
+     "morph": "dadāti (3.sg.present, dā) + alam (indecl.)"
+    }
+   ],
+   "question": "What is the intent of this section regarding the powers of different gurus?",
+   "premises": [
+    "The intent of this section concerns what a guru grants.",
+    "A guru who is a practitioner bestows accomplishments.",
+    "Another guru may instead give liberation fully."
+   ],
+   "inference": "The section distinguishes the fruits granted by different kinds of gurus, namely accomplishments or liberation.",
+   "uncertainties": [
+    "The contrast between 'practitioner guru' and 'another' is compressed and may depend on Jayaratha's commentary."
+   ],
+   "plain_english": "The intent of this section is this: a guru who is himself a practitioner bestows accomplishments. Another, as before, may give liberation fully."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "anayoḥ",
+     "gloss": "to-these-two",
+     "grounds": "recipients of instruction",
+     "morph": "m./f./n.gen.du"
+    },
+    {
+     "surface": "kathayejjñānaṃ",
+     "gloss": "one-should-teach-knowledge",
+     "grounds": "instructional duty",
+     "morph": "kathayet (3.sg.optative, kath) + jñānam (n.acc.sg)"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "classifies the knowledge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvamapyalam",
+     "gloss": "all-of-it-completely",
+     "grounds": "emphasizes completeness",
+     "morph": "sarvam (n.acc.sg) + api (indecl.) + alam (indecl.)"
+    },
+    {
+     "surface": "svakīyājñāṃ",
+     "gloss": "one's-own-command",
+     "grounds": "what is bestowed",
+     "morph": "sva+kīya+ājñā, compound; f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another bestowal",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vitaret",
+     "gloss": "one-should-bestow",
+     "grounds": "act of transmission",
+     "morph": "3.sg.optative, vi-tṛ"
+    },
+    {
+     "surface": "svakriyākaraṇaṃ",
+     "gloss": "the-performing-of-one's-own-rite",
+     "grounds": "purpose of the command",
+     "morph": "sva+kriyā+karaṇa, compound; n.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "for",
+     "grounds": "marks the purpose",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should the guru transmit to the two after consecration?",
+   "premises": [
+    "The guru should teach the complete threefold knowledge to these two.",
+    "The guru should also bestow his own command.",
+    "That command is given for the performance of his own rite."
+   ],
+   "inference": "After consecration, the guru transmits both doctrinal knowledge and ritual authorization to act.",
+   "uncertainties": [
+    "The content of the 'threefold knowledge' is not specified in this verse."
+   ],
+   "plain_english": "To these two he should teach the complete threefold knowledge. He should also bestow his own command for the performance of his own rite."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "ṣaṭkaṃ",
+     "gloss": "the-group-of-six",
+     "grounds": "names a set",
+     "morph": "n.nom./acc.sg"
+    },
+    {
+     "surface": "kāraṇasaṃjñaṃ",
+     "gloss": "called-the-causes",
+     "grounds": "identifies the set",
+     "morph": "kāraṇa+saṃjña, compound; n.nom./acc.sg"
+    },
+    {
+     "surface": "yattathā",
+     "gloss": "which-thus",
+     "grounds": "introduces the set",
+     "morph": "yat (n.nom./acc.sg) + tathā (indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "introduces the supreme Shiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramaḥ",
+     "gloss": "supreme",
+     "grounds": "qualifies Shiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "Shiva",
+     "grounds": "the supreme principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākaṃ",
+     "gloss": "together-with",
+     "grounds": "joins Shiva with Bhairava",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavanāthena",
+     "gloss": "the-lord-Bhairava",
+     "grounds": "added to the group of six",
+     "morph": "bhairava+nātha, compound; m.ins.sg"
+    },
+    {
+     "surface": "tadaṣṭakamudāhṛtam",
+     "gloss": "that-is-declared-the-group-of-eight",
+     "grounds": "states the resulting total",
+     "morph": "tat (n.nom.sg) + aṣṭakam (n.nom.sg) + udāhṛtam (n.nom.sg, past participle)"
+    }
+   ],
+   "question": "How is the group of eight formed from the causes and the supreme deities?",
+   "premises": [
+    "There is a group of six called the causes.",
+    "The supreme Shiva is included together with the lord Bhairava.",
+    "Together these are declared to form a group of eight."
+   ],
+   "inference": "The ritual group of eight is composed of the six causes plus supreme Shiva and lord Bhairava.",
+   "uncertainties": [
+    "The individual members of the 'six causes' are not listed in this verse."
+   ],
+   "plain_english": "The group of six called the causes, together with the supreme Shiva and the lord Bhairava, is declared to be that group of eight."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "in-each-case",
+     "grounds": "applies the vision individually",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the group of eight",
+     "morph": "m./n.gen.sg"
+    },
+    {
+     "surface": "sārvātmyaṃ",
+     "gloss": "all-pervading-selfhood",
+     "grounds": "the nature to be seen",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paśyaṃstāṃ",
+     "gloss": "seeing-that",
+     "grounds": "the guru's contemplative act",
+     "morph": "paśyan (m.nom.sg, present participle) + tām (f.acc.sg)"
+    },
+    {
+     "surface": "vṛttimātmagām",
+     "gloss": "activity-reaching-the-self",
+     "grounds": "what is transferred",
+     "morph": "vṛttim (f.acc.sg) + ātma+gām (f.acc.sg), compound"
+    },
+    {
+     "surface": "cakṣurādau",
+     "gloss": "into-the-eye-and-so-on",
+     "grounds": "target sense faculties",
+     "morph": "cakṣus+ādi, compound; n.loc.sg"
+    },
+    {
+     "surface": "saṃkramayedyatra",
+     "gloss": "he-should-transfer-wherever",
+     "grounds": "ritual transfer instruction",
+     "morph": "saṃkramayet (3.sg.optative, sam-kram) + yatra (indecl.)"
+    },
+    {
+     "surface": "yatrendriye",
+     "gloss": "into-whatever-sense-organ",
+     "grounds": "specifies the locus of transfer",
+     "morph": "yatra (indecl.) + indriye (n.loc.sg)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-guru",
+     "grounds": "agent of the transfer",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the guru transfer the contemplative activity into the disciple's senses?",
+   "premises": [
+    "The guru sees the all-pervading selfhood of each member of that group.",
+    "He sees that activity as reaching the self.",
+    "He transfers that activity into the eye or any other sense organ."
+   ],
+   "inference": "The guru's contemplative recognition of universal selfhood is ritually directed into the disciple's sense faculties.",
+   "uncertainties": [
+    "The verse is compressed; the exact mechanism of transfer is not described."
+   ],
+   "plain_english": "Seeing in each case the all-pervading selfhood of that group, and seeing that activity as reaching the self, the guru should transfer it into the eye or into whatever sense organ he chooses."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "refers to the transfer described above",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "itself",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇaiḥ",
+     "gloss": "with-full",
+     "grounds": "contrasts with the usual pitchers",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kalaśairabhiṣekaḥ",
+     "gloss": "consecration-with-pitchers",
+     "grounds": "the ritual being redefined",
+     "morph": "kalaśaiḥ (m.ins.pl) + abhiṣekaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "evaluates this consecration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-declared",
+     "grounds": "scriptural authority",
+     "morph": "m.nom.sg, past participle"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "even-without",
+     "grounds": "removes the need for external items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyairapītyuktaṃ",
+     "gloss": "external-things-too-thus-it-is-said",
+     "grounds": "states the teaching explicitly",
+     "morph": "bāhyaiḥ (m.ins.pl) + api (indecl.) + iti (indecl.) + uktam (n.nom.sg, past participle)"
+    },
+    {
+     "surface": "śrīvīrāvalibhairave",
+     "gloss": "in-the-shri-viravali-bhairava",
+     "grounds": "scriptural source",
+     "morph": "śrī+vīrāvali+bhairava, compound; m.loc.sg"
+    }
+   ],
+   "question": "Why is this inner transfer called the supreme consecration even without external pitchers?",
+   "premises": [
+    "The transfer described above is itself declared the supreme consecration.",
+    "It is supreme even without external pitchers.",
+    "This teaching is stated in the Shri Viravali Bhairava."
+   ],
+   "inference": "The text elevates inner contemplative transfer above external pitcher consecration and grounds this claim in scripture.",
+   "uncertainties": [],
+   "plain_english": "That itself is declared the supreme consecration, even without external pitchers. This is said in the Shri Viravali Bhairava."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "sadya",
+     "gloss": "immediately",
+     "grounds": "marks immediacy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a specific case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogepsoryogātsiddhatamo",
+     "gloss": "most-accomplished-through-yoga-for-one-desiring-enjoyment",
+     "grounds": "describes the guru's capacity",
+     "morph": "bhoga+īpsu, compound (m.gen.sg) + yogāt (m.abl.sg) + siddhatamaḥ (m.nom.sg, superlative)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-guru",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryātsadyastathābhīṣṭaphaladaṃ",
+     "gloss": "should-perform-immediately-thus-giving-the-desired-fruit",
+     "grounds": "prescribes the initiation",
+     "morph": "kuryāt (3.sg.optative, kṛ) + sadyaḥ (indecl.) + tathā (indecl.) + abhīṣṭa+phala+dam (n.acc.sg), compound"
+    },
+    {
+     "surface": "vedhadīkṣaṇam",
+     "gloss": "piercing-initiation",
+     "grounds": "the rite performed",
+     "morph": "vedha+dīkṣaṇam, compound; n.acc.sg"
+    }
+   ],
+   "question": "When and how should a highly accomplished guru perform piercing initiation for a seeker of enjoyment?",
+   "premises": [
+    "A guru most accomplished through yoga may act for one who desires enjoyment.",
+    "Such a guru can perform piercing initiation immediately.",
+    "The initiation gives the desired fruit at once."
+   ],
+   "inference": "For a seeker of enjoyment, a highly accomplished guru may confer the desired result immediately through piercing initiation.",
+   "uncertainties": [],
+   "plain_english": "But for one who desires enjoyment, a guru most accomplished through yoga should immediately perform the piercing initiation, which at once gives the desired fruit."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "vedhadīkṣā",
+     "gloss": "piercing-initiation",
+     "grounds": "topic of the verse",
+     "morph": "vedha+dīkṣā, compound; f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "continues the topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "describes its variety",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locates the teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "emphasizes various contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirūpitā",
+     "gloss": "has-been-explained",
+     "grounds": "states prior exposition",
+     "morph": "f.nom.sg, past participle"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers back to piercing initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cābhyāsavatā",
+     "gloss": "and-by-one-who-has-practice",
+     "grounds": "qualification of the agent",
+     "morph": "ca (indecl.) + abhyāsa+vatā (m.ins.sg), compound"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-performed",
+     "grounds": "prescriptive instruction",
+     "morph": "f.nom.sg, gerundive"
+    },
+    {
+     "surface": "yenordhvordhvapraveśataḥ",
+     "gloss": "so-that-by-higher-and-higher-entry",
+     "grounds": "states the intended process",
+     "morph": "yena (m./n.ins.sg) + ūrdhva+ūrdhva+praveśataḥ (indecl.), compound"
+    }
+   ],
+   "question": "Who should perform piercing initiation and by what ascending process does it work?",
+   "premises": [
+    "Piercing initiation has been explained in many ways in various places.",
+    "It should be performed by one who has practice.",
+    "Its effect proceeds through higher and higher entry."
+   ],
+   "inference": "Effective piercing initiation requires an experienced practitioner and unfolds as a progressive ascent.",
+   "uncertainties": [],
+   "plain_english": "Piercing initiation has been explained in many ways in various places. It should be performed by one who has practice, so that entry proceeds higher and higher."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "śiṣyasya",
+     "gloss": "of-the-disciple",
+     "grounds": "the one affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cakrasaṃbhedapratyayo",
+     "gloss": "the-certainty-of-the-piercing-of-the-centers",
+     "grounds": "the experience produced",
+     "morph": "cakra+saṃbheda+pratyayaḥ, compound; m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "result of the initiation",
+     "morph": "3.sg.present, jan"
+    },
+    {
+     "surface": "dhruvaḥ",
+     "gloss": "certain",
+     "grounds": "qualifies the arising",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yenāṇimādikā",
+     "gloss": "by-which-the-power-of-smallness-and-others",
+     "grounds": "links the experience to powers",
+     "morph": "yena (m./n.ins.sg) + aṇimā+ādikā (f.nom.sg), compound"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "resulting attainment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīmālāyāṃ",
+     "gloss": "in-the-shri-mala",
+     "grounds": "scriptural source",
+     "morph": "śrī+mālā, compound; f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds scriptural reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "coditā",
+     "gloss": "is-taught",
+     "grounds": "scriptural authority",
+     "morph": "f.nom.sg, past participle"
+    }
+   ],
+   "question": "What certain result arises in the disciple from piercing initiation according to the Shri Mala?",
+   "premises": [
+    "Through higher entry, the disciple gains a certain recognition of the piercing of the centers.",
+    "This leads to accomplishments such as the power of becoming small.",
+    "The Shri Mala teaches this result."
+   ],
+   "inference": "Piercing initiation produces a definite experiential breakthrough in the disciple that can manifest as siddhis.",
+   "uncertainties": [
+    "The term 'cakra' is left general here; the verse does not specify which centers."
+   ],
+   "plain_english": "In the disciple there arises a certain recognition of the piercing of the centers, by which the accomplishment of smallness and the other powers arises, as taught in the Shri Mala."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "ūrdhvacakradaśālābhe",
+     "gloss": "when-the-state-of-the-upper-centers-is-attained",
+     "grounds": "condition for the described state",
+     "morph": "ūrdhva+cakra+daśā+lābhe, compound; m.loc.sg"
+    },
+    {
+     "surface": "piśācāveśa",
+     "gloss": "possession-by-a-spirit",
+     "grounds": "names the apparent state",
+     "morph": "piśāca+āveśaḥ, compound; m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to the attained state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantranādabinduśaktibhujaṅgamaparātmikā",
+     "gloss": "whose-nature-is-mantra-sound-point-power-serpent-and-supreme-self",
+     "grounds": "redefines the possession as a spiritual process",
+     "morph": "mantra+nāda+bindu+śakti+bhujaṅgama+para+ātmikā, compound; f.nom.sg"
+    }
+   ],
+   "question": "What is the true nature of the state that appears as spirit possession when the upper centers are attained?",
+   "premises": [
+    "When the state of the upper centers is attained, a condition called spirit possession appears.",
+    "That same state is identified with mantra, sound, point, power, the serpent, and the supreme self.",
+    "The verse equates the apparent possession with an inner spiritual reality."
+   ],
+   "inference": "What looks like possession at the upper centers is reinterpreted as an ascent through mantra, sound, bindu, power, and the serpent to the supreme self.",
+   "uncertainties": [
+    "The verse is highly compressed; the relation among mantra, nada, bindu, shakti, and the serpent is not spelled out."
+   ],
+   "plain_english": "When the state of the upper centers is attained, that which appears as spirit possession is in truth a state whose nature is mantra, sound, point, power, the serpent, and the supreme self."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "ṣoḍhā",
+     "gloss": "in-six-ways",
+     "grounds": "classifies the teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīgahvare",
+     "gloss": "in-the-shri-gahvara",
+     "grounds": "scriptural source",
+     "morph": "śrī+gahvara, compound; m.loc.sg"
+    },
+    {
+     "surface": "vedhadīkṣoktā",
+     "gloss": "piercing-initiation-is-taught",
+     "grounds": "states the doctrine",
+     "morph": "vedha+dīkṣā+uktā, compound; f.nom.sg, past participle"
+    },
+    {
+     "surface": "parameśinā",
+     "gloss": "by-the-supreme-lord",
+     "grounds": "divine speaker",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "jvālākulaṃ",
+     "gloss": "the-flame-kula",
+     "grounds": "names a form taught in one's own scripture",
+     "morph": "jvālā+kula, compound; n.nom./acc.sg"
+    },
+    {
+     "surface": "svaśāstroktaṃ",
+     "gloss": "taught-in-one's-own-scripture",
+     "grounds": "source of that teaching",
+     "morph": "sva+śāstra+ukta, compound; n.nom./acc.sg, past participle"
+    },
+    {
+     "surface": "cakramaṣṭārakādikam",
+     "gloss": "the-wheel-beginning-with-eight-spokes",
+     "grounds": "names the associated diagram",
+     "morph": "cakram (n.nom./acc.sg) + aṣṭa+āraka+ādikam (n.nom./acc.sg), compound"
+    }
+   ],
+   "question": "How is piercing initiation classified in the Shri Gahvara and what related forms are taught?",
+   "premises": [
+    "In the Shri Gahvara, the supreme lord teaches piercing initiation in six ways.",
+    "One's own scripture teaches the flame Kula.",
+    "It also teaches the wheel beginning with eight spokes."
+   ],
+   "inference": "Piercing initiation is presented as a sixfold doctrine linked with the flame Kula and an eight-spoked wheel.",
+   "uncertainties": [
+    "The six modes of piercing initiation are not enumerated in this verse."
+   ],
+   "plain_english": "In the Shri Gahvara, the supreme lord teaches piercing initiation in six ways. One's own scripture teaches the flame Kula and the wheel that begins with eight spokes."
+  }
+ ]
+}
