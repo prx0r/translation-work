@@ -1,56 +1,56 @@
 {
- "song": "unknown",
- "verse": 1,
+ "song": "tal-a10",
+ "verse": 33,
  "rows": [
   {
-   "lemma": "kim",
+   "lemma": "kiṃ",
    "morph": "n.nom.sg",
-   "grounds": "gloss 'what' + form kiṃ"
+   "grounds": "interrogative pronoun"
   },
   {
-   "lemma": "tatprakāśatā",
-   "morph": "f.acc.sg",
-   "grounds": "gloss 'that-illumination' + form tatprakāśatāṃ"
+   "lemma": "tatprakāśatāṃ",
+   "morph": "compound: tat+prakāśatā, f.acc.sg",
+   "grounds": "tat (that) + prakāśatā (luminosity, state of shining)"
   },
   {
    "lemma": "nāma",
    "morph": "(indecl.)",
-   "grounds": "gloss 'indeed' + form nāma"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "supta",
-   "morph": "m/n.loc.sg",
-   "grounds": "gloss 'in-sleeping' + form supte"
-  },
-  {
-   "lemma": "jagat",
+   "lemma": "supte",
    "morph": "n.loc.sg",
-   "grounds": "gloss 'in-world' + form jagati"
+   "grounds": "supta (asleep)"
+  },
+  {
+   "lemma": "jagati",
+   "morph": "n.loc.sg",
+   "grounds": "jagat (world)"
   },
   {
    "lemma": "sarvataḥ",
    "morph": "(indecl.)",
-   "grounds": "gloss 'everywhere' + form sarvataḥ"
+   "grounds": "adverb of totality"
   },
   {
-   "lemma": "jñānasyārthaprakāśatva",
-   "morph": "n.nom/acc.sg",
-   "grounds": "gloss 'knowledge-object-illumination-ness' + form jñānasyārthaprakāśatvaṃ"
+   "lemma": "jñānasyārthaprakāśatvaṃ",
+   "morph": "compound: jñāna+artha+prakāśatva, n.nom.sg",
+   "grounds": "jñāna (knowledge) + artha (object) + prakāśatva (state of manifesting)"
   },
   {
    "lemma": "nanu",
    "morph": "(indecl.)",
-   "grounds": "gloss 'surely' + form nanu"
+   "grounds": "particle introducing an objection or reminder"
   },
   {
-   "lemma": "rūpa",
+   "lemma": "rūpaṃ",
    "morph": "n.nom.sg",
-   "grounds": "gloss 'form' + form rūpaṃ"
+   "grounds": "rūpa (form, nature)"
   },
   {
    "lemma": "pradīpavat",
-   "morph": "(indecl.)",
-   "grounds": "gloss 'like-lamp' + form pradīpavat"
+   "morph": "compound: pradīpa+vat, (indecl.)",
+   "grounds": "pradīpa (lamp) + -vat (like)"
   }
  ]
 }

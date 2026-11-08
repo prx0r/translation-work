@@ -1,51 +1,51 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a10",
+ "verse": 35,
  "rows": [
   {
-   "lemma": "artha",
+   "lemma": "arthaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'object' + form arthaḥ"
+   "grounds": "artha (object)"
   },
   {
-   "lemma": "prakāśa+ced+rūpa+artha",
-   "morph": "sandhi: prakāśaḥ (m.nom.sg) + ced (indecl.) + rūpam (n.nom/acc.sg) + arthaḥ (m.nom.sg)",
-   "grounds": "gloss 'luminosity-if-form-object' + form prakāśaścedrūpamartho"
+   "lemma": "prakāśaścedrūpamartho",
+   "morph": "compound: prakāśaḥ+cet+rūpam+arthaḥ, m.nom.sg + (indecl.) + n.nom.sg + m.nom.sg",
+   "grounds": "prakāśaḥ (luminosity) + cet (if) + rūpam (form) + arthaḥ (object)"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "gloss 'or' + form vā"
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
   },
   {
-   "lemma": "jñāna+eva",
-   "morph": "sandhi: jñānam (n.nom/acc.sg) + eva (indecl.)",
-   "grounds": "gloss 'knowledge-only' + form jñānameva"
+   "lemma": "jñānameva",
+   "morph": "compound: jñānam+eva, n.nom.sg",
+   "grounds": "jñānam (knowledge) + eva (alone)"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "gloss 'or' + form vā"
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
   },
   {
-   "lemma": "atha+artha",
-   "morph": "sandhi: atha (indecl.) + arthasya (m/n.gen.sg)",
-   "grounds": "gloss 'then-of-object' + form athārthasya"
+   "lemma": "athārthasya",
+   "morph": "compound: atha+arthasya, (indecl.) + m.gen.sg",
+   "grounds": "atha (or else) + arthasya (of the object)"
   },
   {
-   "lemma": "prakāśa",
+   "lemma": "prakāśo",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'luminosity' + form prakāśo"
+   "grounds": "prakāśa (luminosity, manifestation)"
   },
   {
-   "lemma": "yaḥ+tat+rūpa+iti",
-   "morph": "sandhi: yaḥ (m.nom.sg) + tat (n.nom/acc.sg) + rūpam (n.nom/acc.sg) + iti (indecl.)",
-   "grounds": "gloss 'which-that-form-thus' + form yastadrūpamiti"
+   "lemma": "yastadrūpamiti",
+   "morph": "compound: yaḥ+tat+rūpam+iti, m.nom.sg + n.nom.sg + n.nom.sg + (indecl.)",
+   "grounds": "yaḥ (which) + tat (that) + rūpam (form) + iti (thus)"
   },
   {
-   "lemma": "bhaṇ",
-   "morph": "3sg.pres.pass √bhaṇ",
-   "grounds": "gloss 'is-called' + form bhaṇyate"
+   "lemma": "bhaṇyate",
+   "morph": "3.sg.pres.pass, root bhaṇ",
+   "grounds": "bhaṇ (to say, speak)"
   }
  ]
 }

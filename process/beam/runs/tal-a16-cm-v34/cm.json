@@ -1,51 +1,51 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 34,
  "rows": [
   {
    "lemma": "kampeta",
-   "morph": "3sg.opt.mid √kamp",
-   "grounds": "gloss 'would-tremble' matches optative form kampeta"
+   "morph": "3.sg.act.opt",
+   "grounds": "possible effect"
   },
   {
    "lemma": "prasravetstabdhaḥ",
-   "morph": "sandhi: 3sg.opt.act √sru (pra) + nom.sg.m ppp √stambh",
-   "grounds": "gloss 'would-flow-stiffened' splits into prasravet + stabdhaḥ"
+   "morph": "compound=member+membership",
+   "grounds": "possible effect"
   },
   {
    "lemma": "pralīno",
-   "morph": "nom.sg.m ppp √lī (pra)",
-   "grounds": "gloss 'dissolved' matches pralīna"
+   "morph": "m.nom.sg.pp",
+   "grounds": "possible effect"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "gloss 'or' is indeclinable vā"
+   "morph": "(indecl.)",
+   "grounds": "alternation"
   },
   {
    "lemma": "yathottaram",
-   "morph": "indecl.",
-   "grounds": "gloss 'in-order' is adverbial compound yathottaram"
+   "morph": "(indecl.)",
+   "grounds": "order of effects"
   },
   {
    "lemma": "upātto",
-   "morph": "nom.sg.m ppp √dā (upa+ā)",
-   "grounds": "gloss 'taken-up' matches upātta"
+   "morph": "m.nom.sg.pp",
+   "grounds": "state of offering"
   },
   {
    "lemma": "yāgasānnidhye",
-   "morph": "loc.sg.n (compound)",
-   "grounds": "gloss 'in-presence-of-sacrifice' matches locative yāgasānnidhye"
+   "morph": "compound=member+membership",
+   "grounds": "location of rite"
   },
   {
    "lemma": "śamitaḥ",
-   "morph": "nom.sg.m ppp √śam",
-   "grounds": "gloss 'pacified' matches śamita"
+   "morph": "m.nom.sg.pp",
+   "grounds": "resulting state"
   },
   {
    "lemma": "śastramārutaiḥ",
-   "morph": "instr.pl.m (compound)",
-   "grounds": "gloss 'by-weapons-and-winds' matches instrumental plural śastramārutaiḥ"
+   "morph": "compound=member+membership",
+   "grounds": "means of pacification"
   }
  ]
 }

@@ -1,36 +1,36 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 33,
  "rows": [
   {
-   "lemma": "saṃdraṣṭṛ",
+   "lemma": "saṃdraṣṭā",
    "morph": "m.nom.sg",
-   "grounds": "gloss complete-seer; form saṃdraṣṭā"
+   "grounds": "agent qualified"
   },
   {
-   "lemma": "darśitāśeṣasamyakpūjitamaṇḍala",
-   "morph": "m.nom.sg",
-   "grounds": "gloss shown-all-properly-worshipped-mandala; form ends -aḥ"
+   "lemma": "darśitāśeṣasamyakpūjitamaṇḍalaḥ",
+   "morph": "compound=member+membership",
+   "grounds": "qualification of agent"
   },
   {
    "lemma": "prālabdha",
-   "morph": "m.nom.sg",
-   "grounds": "gloss commenced; participle/adjective form prālabdha"
+   "morph": "m.nom.sg.pp",
+   "grounds": "state of action"
   },
   {
-   "lemma": "uktatritayasaṃskṛta",
-   "morph": "m.nom.sg",
-   "grounds": "gloss purified-by-spoken-triad; form ends -aḥ"
+   "lemma": "uktatritayasaṃskṛtaḥ",
+   "morph": "compound=member+membership",
+   "grounds": "purification means"
   },
   {
-   "lemma": "saḥ + api",
-   "morph": "m.nom.sg + indecl.",
-   "grounds": "gloss he-too; sandhi form so@pi"
+   "lemma": "so@pi",
+   "morph": "compound=member+membership",
+   "grounds": "anaphoric to qualified agent"
   },
   {
-   "lemma": "dhūnay",
-   "morph": "3sg.opt.act √dhū",
-   "grounds": "gloss should-shake; form dhūnayet"
+   "lemma": "dhūnayet",
+   "morph": "3.sg.act.opt",
+   "grounds": "prescribed action"
   }
  ]
 }

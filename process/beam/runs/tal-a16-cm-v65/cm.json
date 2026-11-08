@@ -1,36 +1,36 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 65,
  "rows": [
   {
-   "lemma": "ukta",
+   "lemma": "uktaṃ",
    "morph": "n.nom.sg",
-   "grounds": "gloss 'said' + form uktaṃ"
+   "grounds": "vac"
   },
   {
-   "lemma": "tvānandaśāstra",
-   "morph": "m.loc.sg",
-   "grounds": "gloss 'in-tantra-scripture' + form tvānandaśāstre"
+   "lemma": "tvānandaśāstre",
+   "morph": "compound=member+membership",
+   "grounds": "tu + ānanda + śāstra"
   },
   {
-   "lemma": "ya",
+   "lemma": "yo",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'who' + form yo"
+   "grounds": "relative pronoun"
   },
   {
    "lemma": "mantrasaṃskāravāṃstyajet",
-   "morph": "3sg.pres.opt.act √tyaj",
-   "grounds": "gloss 'abandons-mantra-consecration-possessor' + form mantrasaṃskāravāṃstyajet"
+   "morph": "compound=member+membership",
+   "grounds": "mantra + saṃskāra + tyaj"
   },
   {
    "lemma": "samayānkutsayeddevīrdadyānmantrānvinā",
-   "morph": "3sg.pres.opt.act √kuts + 3sg.pres.opt.act √dā + indecl.",
-   "grounds": "gloss 'reviles-initiations-goddesses-gives-mantras-without' + form samayānkutsayeddevīrdadyānmantrānvinā"
+   "morph": "compound=member+membership",
+   "grounds": "samaya + kuts + devī + dā + mantra + vinā"
   },
   {
-   "lemma": "nī",
-   "morph": "3sg.pres.opt.act √nī",
-   "grounds": "gloss 'leads' + form nayāt"
+   "lemma": "nayāt",
+   "morph": "3.sg.act.opt",
+   "grounds": "nī"
   }
  ]
 }

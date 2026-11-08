@@ -1,56 +1,56 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 61,
  "rows": [
   {
-   "lemma": "tena-etat-māraṇa",
-   "morph": "instr.sg.n (compound)",
-   "grounds": "by-that-this-killing"
+   "lemma": "tenaitanmāraṇaṃ",
+   "morph": "compound=member+membership",
+   "grounds": "tena + etat + māraṇaṃ"
   },
   {
-   "lemma": "na-ukta",
-   "morph": "ppp (indecl.+ppp)",
-   "grounds": "not-said"
+   "lemma": "noktaṃ",
+   "morph": "3.sg.pass.perf/part.(indecl.-neg)+verb",
+   "grounds": "na + uktaṃ"
   },
   {
-   "lemma": "dīkṣā",
-   "morph": "nom.sg.f",
-   "grounds": "initiation"
+   "lemma": "dīkṣeyaṃ",
+   "morph": "f.nom.sg",
+   "grounds": "dīkṣā + iyam context"
   },
   {
-   "lemma": "citrarūpin",
-   "morph": "nom.sg.f",
-   "grounds": "variegated-formed"
+   "lemma": "citrarūpiṇī",
+   "morph": "f.nom.sg",
+   "grounds": "citra + rūpin"
   },
   {
-   "lemma": "rūḍhapāśa",
-   "morph": "gen.sg.m/n",
-   "grounds": "of-bound-fettered"
+   "lemma": "rūḍhapāśasya",
+   "morph": "m.gen.sg",
+   "grounds": "rūḍha + pāśa"
   },
   {
-   "lemma": "yad",
-   "morph": "nom.sg.m",
-   "grounds": "who"
+   "lemma": "yaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "relative pronoun"
   },
   {
-   "lemma": "prāṇa-viyoga",
-   "morph": "instr.pl.m + nom.sg.m (compound)",
-   "grounds": "separation-by-breaths"
+   "lemma": "prāṇairviyogo",
+   "morph": "compound=member+membership",
+   "grounds": "prāṇa + viyoga"
   },
   {
-   "lemma": "māraṇa",
-   "morph": "nom/acc.sg.n",
-   "grounds": "killing"
+   "lemma": "māraṇaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "action noun"
   },
   {
    "lemma": "hi",
-   "morph": "indecl.",
-   "grounds": "indeed"
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "tad",
-   "morph": "nom/acc.sg.n",
-   "grounds": "that"
+   "lemma": "tat",
+   "morph": "n.nom.sg",
+   "grounds": "anaphoric reference"
   }
  ]
 }

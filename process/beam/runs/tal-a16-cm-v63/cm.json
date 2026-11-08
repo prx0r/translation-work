@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 63,
  "rows": [
   {
-   "lemma": "nivedita",
+   "lemma": "niveditaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'offered' + form niveditaḥ"
+   "grounds": "ni + vid"
   },
   {
-   "lemma": "punaḥprāpta-deha",
-   "morph": "m.nom.sg (compound)",
-   "grounds": "gloss 'again-obtained-body' + form punaḥprāptadeho"
+   "lemma": "punaḥprāptadeho",
+   "morph": "compound=member+membership",
+   "grounds": "punar + prāpta + deha"
   },
   {
-   "lemma": "bhūyonivedita",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'again-offered' + form bhūyoniveditaḥ"
+   "lemma": "bhūyoniveditaḥ",
+   "morph": "compound=member+membership",
+   "grounds": "bhūyas + nivedita"
   },
   {
-   "lemma": "ṣaṭkṛtvas",
+   "lemma": "ṣaṭkṛtva",
    "morph": "(indecl.)",
-   "grounds": "gloss 'six-times' + form ṣaṭkṛtva"
+   "grounds": "numeral adverb"
   },
   {
-   "lemma": "ittham",
+   "lemma": "itthaṃ",
    "morph": "(indecl.)",
-   "grounds": "gloss 'thus' + form itthaṃ"
+   "grounds": "manner adverb"
   },
   {
-   "lemma": "ya",
+   "lemma": "yaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'who' + form yaḥ"
+   "grounds": "relative pronoun"
   },
   {
-   "lemma": "sa + atra",
-   "morph": "m.nom.sg + (indecl.)",
-   "grounds": "gloss 'he-here' + form so@tra"
+   "lemma": "so@tra",
+   "morph": "compound=member+membership",
+   "grounds": "sa + atra"
   },
   {
-   "lemma": "ṣaḍjanman",
+   "lemma": "ṣaḍjanmā",
+   "morph": "compound=member+membership",
+   "grounds": "ṣaṣ + janman"
+  },
+  {
+   "lemma": "paśuruttamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'six-births' + form ṣaḍjanmā"
-  },
-  {
-   "lemma": "paśu-uttama",
-   "morph": "m.nom.sg (compound)",
-   "grounds": "gloss 'supreme-animal' + form paśuruttamaḥ"
+   "grounds": "paśu + uttama"
   }
  ]
 }

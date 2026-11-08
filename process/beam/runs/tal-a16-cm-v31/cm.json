@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 1,
+ "song": "tal-a16",
+ "verse": 31,
  "rows": [
   {
-   "lemma": "ya + tu",
-   "morph": "ya (m.nom.sg) + tu (indecl.)",
-   "grounds": "gloss 'whoever' matches relative pronoun ya plus particle tu"
+   "lemma": "yastu",
+   "morph": "compound=member+membership",
+   "grounds": "conditional case"
   },
   {
-   "lemma": "dīkṣāvihīna + api",
-   "morph": "dīkṣāvihīna (m.nom.sg) + api (indecl.)",
-   "grounds": "gloss 'initiation-devoid-even' matches compound plus even"
+   "lemma": "dīkṣāvihīno@pi",
+   "morph": "compound=member+membership",
+   "grounds": "exception case"
   },
   {
-   "lemma": "śivecchāvidhicodita",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'shiva-will-rite-impelled' is a masculine nominative singular participle/adjective"
+   "lemma": "śivecchāvidhicoditaḥ",
+   "morph": "compound=member+membership",
+   "grounds": "motive for action"
   },
   {
-   "lemma": "bhaktyā + aś",
-   "morph": "bhaktyā (f.instr.sg) + aśnāti (3sg.pres.act √aś)",
-   "grounds": "gloss 'by-devotion-eats' splits into instrumental devotion and present verb eats"
+   "lemma": "bhaktyāśnāti",
+   "morph": "3.sg.act.pres.ind",
+   "grounds": "action"
   },
   {
    "lemma": "sa",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'he' is masculine nominative singular pronoun"
+   "grounds": "anaphoric"
   },
   {
-   "lemma": "saṃpūrṇa",
+   "lemma": "saṃpūrṇaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'complete' is masculine nominative singular adjective"
+   "grounds": "status"
   },
   {
    "lemma": "samayī",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'samaya-initiate' is masculine nominative singular noun/adjective"
+   "grounds": "status assigned"
   },
   {
-   "lemma": "as + subhāvita",
-   "morph": "syāt (3sg.opt.act √as) + subhāvitaḥ (m.nom.sg)",
-   "grounds": "gloss 'would-be-well-cultivated' splits into optative 'would be' and cultivated participle"
+   "lemma": "syātsubhāvitaḥ",
+   "morph": "3.sg.act.opt",
+   "grounds": "status assigned"
   }
  ]
 }

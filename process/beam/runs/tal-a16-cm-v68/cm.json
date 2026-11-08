@@ -1,56 +1,56 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 68,
  "rows": [
   {
-   "lemma": "dātrārpita",
-   "morph": "adj.nom.sg.m",
-   "grounds": "gloss 'given-by-giver-that' + form dātrarpito@sau"
+   "lemma": "dātrarpito@sau",
+   "morph": "compound=member+membership",
+   "grounds": "dātṛ + arpita + asau"
   },
   {
-   "lemma": "taddvāra",
-   "morph": "n.instr.sg",
-   "grounds": "gloss 'by-that-door' + form taddvārā"
+   "lemma": "taddvārā",
+   "morph": "compound=member+membership",
+   "grounds": "tad + dvāra"
   },
   {
-   "lemma": "yā",
-   "morph": "3sg.pres.act √yā",
-   "grounds": "gloss 'goes' + form yāti"
+   "lemma": "yāti",
+   "morph": "3.sg.act.pres",
+   "grounds": "yā"
   },
   {
-   "lemma": "sāyujya",
+   "lemma": "sāyujyataḥ",
    "morph": "n.abl.sg",
-   "grounds": "gloss 'from-union' + form sāyujyataḥ"
+   "grounds": "sāyujya"
   },
   {
-   "lemma": "śiva",
+   "lemma": "śivam",
    "morph": "m.acc.sg",
-   "grounds": "gloss 'shiva' + form śivam"
+   "grounds": "śiva"
   },
   {
    "lemma": "iti",
-   "morph": "indecl.",
-   "grounds": "gloss 'thus' + form iti"
+   "morph": "(indecl.)",
+   "grounds": "quotation marker"
   },
   {
    "lemma": "saṃbhāvya",
-   "morph": "absolutive",
-   "grounds": "gloss 'having-considered' + form saṃbhāvya"
+   "morph": "(indecl.)",
+   "grounds": "sam + bhū"
   },
   {
-   "lemma": "citra",
-   "morph": "n.acc.sg",
-   "grounds": "gloss 'strange' + form citraṃ"
-  },
-  {
-   "lemma": "tatpaśu",
-   "morph": "m.gen.pl",
-   "grounds": "gloss 'of-those-beasts' + form tatpaśūnāṃ"
-  },
-  {
-   "lemma": "praviceṣṭita",
+   "lemma": "citraṃ",
    "morph": "n.nom.sg",
-   "grounds": "gloss 'activity' + form praviceṣṭitam"
+   "grounds": "adjectival noun"
+  },
+  {
+   "lemma": "tatpaśūnāṃ",
+   "morph": "compound=member+membership",
+   "grounds": "tad + paśu"
+  },
+  {
+   "lemma": "praviceṣṭitam",
+   "morph": "n.nom.sg",
+   "grounds": "pra + vi + ceṣṭ"
   }
  ]
 }

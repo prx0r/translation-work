@@ -1,15 +1,16 @@
 {
  "song": "tal-a16",
  "verse": 30,
- "question": "Who may eat the Shiva-used offering?",
+ "question": "To whom may the offering used for shiva be given or consumed, according to this sequential rule?",
  "premises": [
-  "in order, never give to the unworthy",
-  "the Shiva-used oblation is restricted",
-  "not everyone is worthy to eat"
+  "In order, that which is used for shiva is not to be given to the unworthy under any circumstance.",
+  "Indeed, not everyone is worthy to eat an offering used for shiva.",
+  "The restriction applies sequentially and without exception."
  ],
- "inference": "Sacred leavings are graded; worthiness gates eating.",
+ "inference": "In order and without exception, an offering used for shiva is not to be given to the unworthy, for not everyone is worthy to eat it.",
  "uncertainties": [
-  "yathottaram (in order) as distribution-rank"
+  "Criteria for unworthy are not specified by this verse alone.",
+  "Boundary between giving and eating is treated together but not distinguished here."
  ],
- "plain_english": "In order, never to be given to the unworthy — the Shiva-used oblation indeed not everyone is worthy to eat."
+ "plain_english": "In order and never otherwise, an offering used for shiva is not to be given to the unworthy, for not everyone is worthy to eat it."
 }

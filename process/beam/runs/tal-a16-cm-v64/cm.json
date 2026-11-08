@@ -1,66 +1,66 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 64,
  "rows": [
   {
    "lemma": "yathā",
-   "morph": "indecl.",
-   "grounds": "gloss 'as' + form yathā"
+   "morph": "(indecl.)",
+   "grounds": "comparative particle"
   },
   {
-   "lemma": "pākakramācchuddha",
-   "morph": "n.acc.sg",
-   "grounds": "gloss 'purified-by-cooking-process' + form -am"
+   "lemma": "pākakramācchuddhaṃ",
+   "morph": "compound=member+membership",
+   "grounds": "pāka + krama + śudh"
   },
   {
    "lemma": "hema",
    "morph": "n.nom.sg",
-   "grounds": "gloss 'gold' + form hema"
+   "grounds": "substance noun"
   },
   {
    "lemma": "tadvatsa",
+   "morph": "compound=member+membership",
+   "grounds": "tad + vat + sa"
+  },
+  {
+   "lemma": "kīrtitaḥ",
    "morph": "m.nom.sg",
-   "grounds": "gloss 'like-that-he' + form tadvatsa"
+   "grounds": "kīrt"
   },
   {
-   "lemma": "kīrtita",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'proclaimed' + form kīrtitaḥ"
-  },
-  {
-   "lemma": "ka",
+   "lemma": "kāṃ",
    "morph": "f.acc.sg",
-   "grounds": "gloss 'which' + form kāṃ"
+   "grounds": "interrogative pronoun"
   },
   {
-   "lemma": "siddhi",
+   "lemma": "siddhiṃ",
    "morph": "f.acc.sg",
-   "grounds": "gloss 'perfection' + form siddhiṃ"
+   "grounds": "action/result noun"
   },
   {
    "lemma": "naiva",
-   "morph": "indecl.",
-   "grounds": "gloss 'not-indeed' + form naiva"
+   "morph": "(indecl.)",
+   "grounds": "negation emphatic"
   },
   {
-   "lemma": "vitṛ",
-   "morph": "3sg.opt.act √tṛ + svayam (indecl.)",
-   "grounds": "gloss 'would-bestow-himself' + form vitaretsvayaṃ"
+   "lemma": "vitaretsvayaṃ",
+   "morph": "3.sg.act.opt",
+   "grounds": "vi + tṛ + sva"
   },
   {
    "lemma": "kiṃvā",
-   "morph": "indecl.",
-   "grounds": "gloss 'or' + form kiṃvā"
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
   },
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "gloss 'not' + form na"
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "muc",
-   "morph": "3sg.pres.pass √muc",
-   "grounds": "gloss 'is-liberated' + form mucyate"
+   "lemma": "mucyate",
+   "morph": "3.sg.pass.pres",
+   "grounds": "muc"
   }
  ]
 }

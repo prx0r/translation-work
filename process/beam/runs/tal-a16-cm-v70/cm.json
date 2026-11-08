@@ -1,56 +1,56 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 70,
  "rows": [
   {
-   "lemma": "tad",
+   "lemma": "taṃ",
    "morph": "m.acc.sg",
-   "grounds": "gloss 'that' + form taṃ"
+   "grounds": "demonstrative"
   },
   {
-   "lemma": "paśu",
+   "lemma": "paśuṃ",
    "morph": "m.acc.sg",
-   "grounds": "gloss 'animal' + form paśuṃ"
+   "grounds": "victim noun"
   },
   {
    "lemma": "kiṃtu",
-   "morph": "indecl.",
-   "grounds": "gloss 'but' + form kiṃtu"
+   "morph": "(indecl.)",
+   "grounds": "contrastive particle"
   },
   {
    "lemma": "kāṅkṣā",
    "morph": "f.nom.sg",
-   "grounds": "gloss 'desire' + form kāṅkṣā"
+   "grounds": "noun of desire"
   },
   {
-   "lemma": "ced+viśeṣa",
-   "morph": "indecl.+m.loc.sg",
-   "grounds": "gloss 'if-in-particular' + form cedviśeṣe"
+   "lemma": "cedviśeṣe",
+   "morph": "compound=member+membership",
+   "grounds": "ced + viśeṣa"
   },
   {
-   "lemma": "tad",
+   "lemma": "taṃ",
    "morph": "m.acc.sg",
-   "grounds": "gloss 'that' + form taṃ"
+   "grounds": "demonstrative"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "gloss 'then' + form tu"
+   "morph": "(indecl.)",
+   "grounds": "consecutive particle"
   },
   {
-   "lemma": "√ḍhauk",
-   "morph": "3sg.pres.opt.act",
-   "grounds": "gloss 'offer' + form ḍhaukayet"
+   "lemma": "ḍhaukayet",
+   "morph": "3.sg.act.opt",
+   "grounds": "ḍhauk"
   },
   {
-   "lemma": "tāvataḥ+tān+paśūn+dadyāt+tathā+uktaṃ",
-   "morph": "compound",
-   "grounds": "gloss 'so-many-those-animals-give-thus-as-said' + form tāvatastānpaśūndadyāttathācoktaṃ"
+   "lemma": "tāvatastānpaśūndadyāttathācoktaṃ",
+   "morph": "compound=member+membership",
+   "grounds": "tāvat + paśu + dā + tathā + ukta"
   },
   {
-   "lemma": "maheśin",
-   "morph": "m.ins.sg",
-   "grounds": "gloss 'by-Maheshin' + form maheśinā"
+   "lemma": "maheśinā",
+   "morph": "m.abl.sg",
+   "grounds": "agent noun"
   }
  ]
 }

@@ -1,41 +1,41 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 66,
  "rows": [
   {
-   "lemma": "dīkṣāmantrādika",
-   "morph": "acc.sg.n",
-   "grounds": "gloss initiation-mantra-etc; compound dīkṣā+mantra+ādika, accusative singular neuter"
+   "lemma": "dīkṣāmantrādikaṃ",
+   "morph": "compound=member+membership",
+   "grounds": "dīkṣā + mantra + ādi"
   },
   {
-   "lemma": "prāp",
+   "lemma": "prāpya",
    "morph": "(indecl.)",
-   "grounds": "gloss having-obtained; absolutive form prāpya"
+   "grounds": "pra + āp"
   },
   {
-   "lemma": "tyajetputrādimohita",
-   "morph": "3sg.opt.act √tyaj + nom.sg.m",
-   "grounds": "gloss should-abandon-deluded-by-son-etc; token combines optative tyajet with adjective putrādimohitaḥ"
+   "lemma": "tyajetputrādimohitaḥ",
+   "morph": "compound=member+membership",
+   "grounds": "tyaj + putra + ādi + mohit"
   },
   {
-   "lemma": "tatas",
+   "lemma": "tato",
    "morph": "(indecl.)",
-   "grounds": "gloss then; form tato"
+   "grounds": "consecutive adverb"
   },
   {
    "lemma": "manuṣyatāmetya",
-   "morph": "(indecl.)",
-   "grounds": "gloss having-attained-humanity; compound/absolutive form"
+   "morph": "compound=member+membership",
+   "grounds": "manuṣyatā + i"
   },
   {
-   "lemma": "punarevam",
-   "morph": "(indecl.)",
-   "grounds": "gloss again-thus; compound punar+evam"
+   "lemma": "punarevaṃ",
+   "morph": "compound=member+membership",
+   "grounds": "punar + evam"
   },
   {
-   "lemma": "kar",
-   "morph": "3sg.pres.act √kṛ + (indecl.)",
-   "grounds": "gloss does-also; form karotyapi combines karoti and api"
+   "lemma": "karotyapi",
+   "morph": "3.sg.act.pres",
+   "grounds": "kṛ + api"
   }
  ]
 }

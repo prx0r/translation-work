@@ -1,36 +1,36 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 67,
  "rows": [
   {
    "lemma": "itthamekādisaptāntajanmāsau",
-   "morph": "indecl.",
-   "grounds": "gloss 'thus-one-to-seven-births-this' + form itthamekādisaptāntajanmāsau"
+   "morph": "compound=member+membership",
+   "grounds": "ittham + eka + ādi + sapta + anta + janman + asau"
   },
   {
-   "lemma": "dvividha",
-   "morph": "adj.nom.sg.m",
-   "grounds": "gloss 'twofold' + form dvividho"
+   "lemma": "dvividho",
+   "morph": "m.nom.sg",
+   "grounds": "dvi + vidha"
   },
   {
-   "lemma": "dvipād",
-   "morph": "adj.nom.sg.m",
-   "grounds": "gloss 'two-footed' + form dvipāt"
+   "lemma": "dvipāt",
+   "morph": "m.nom.sg",
+   "grounds": "dvi + pād"
   },
   {
-   "lemma": "catuṣpād",
-   "morph": "adj.nom.sg.m",
-   "grounds": "gloss 'or-four-footed' + form catuṣpādvā"
+   "lemma": "catuṣpādvā",
+   "morph": "compound=member+membership",
+   "grounds": "catuṣ + pād + vā"
   },
   {
-   "lemma": "paśurdevīcarukārtha",
-   "morph": "noun.nom.sg.m",
-   "grounds": "gloss 'animal-for-goddess-oblation-purpose' + form paśurdevīcarukārthaṃ"
+   "lemma": "paśurdevīcarukārthaṃ",
+   "morph": "compound=member+membership",
+   "grounds": "paśu + devī + caru + artha"
   },
   {
-   "lemma": "prajan",
-   "morph": "3sg.pres.mid √jan",
-   "grounds": "gloss 'is-born' + form prajāyate"
+   "lemma": "prajāyate",
+   "morph": "3.sg.mid.pres",
+   "grounds": "pra + jan"
   }
  ]
 }

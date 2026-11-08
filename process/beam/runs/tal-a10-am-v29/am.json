@@ -1,13 +1,15 @@
 {
  "song": "tal-a10",
  "verse": 29,
- "question": "What follows if knowability were treated as a property of objects?",
+ "question": "What follows if knowability were treated as a property of objects even when knowledge is present?",
  "premises": [
-  "If knowability were an object's property, objects would remain unknowable even when described in knowledge.",
-  "A pot may have features like a broad base.",
-  "The mere presence of such features does not make another thing share them."
+  "If knowability were an object-property, objects would remain unknowable even when knowledge of them is present.",
+  "A described form present in one thing does not by itself transfer to another thing.",
+  "The pot's form, such as having a broad base, illustrates this non-transfer."
  ],
- "inference": "Treating knowability as an object-property fails to explain how objects become known.",
- "uncertainties": [],
- "plain_english": "If knowability were a property of objects, they would remain unknowable even when described in knowledge. Just as a pot may have a broad base and other features, that alone does not make something else take on those features."
+ "inference": "Making knowability an object-property yields the absurd result that objects stay unknowable despite knowledge.",
+ "uncertainties": [
+  "The addressee of te (they/to you) is context-dependent; taken here as 'they' (the objects)."
+ ],
+ "plain_english": "If knowability were a property of objects, they would remain unknowable even when knowledge of them is present and described. Just as a pot may have a broad base and other features, that does not by itself make something else share that form."
 }

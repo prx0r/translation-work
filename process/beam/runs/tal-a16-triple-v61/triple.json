@@ -1,0 +1,815 @@
+{
+ "song": "Ahnika a16",
+ "items": [
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "tenaitanmāraṇaṃ",
+     "gloss": "by-that-this-killing",
+     "grounds": "tena + etat + māraṇaṃ",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "noktaṃ",
+     "gloss": "not-said",
+     "grounds": "na + uktaṃ",
+     "morph": "3.sg.pass.perf/part.(indecl.-neg)+verb"
+    },
+    {
+     "surface": "dīkṣeyaṃ",
+     "gloss": "initiation-this",
+     "grounds": "dīkṣā + iyam context",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "citrarūpiṇī",
+     "gloss": "varied-formed",
+     "grounds": "citra + rūpin",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rūḍhapāśasya",
+     "gloss": "bound-fetter",
+     "grounds": "rūḍha + pāśa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇairviyogo",
+     "gloss": "breath-separation",
+     "grounds": "prāṇa + viyoga",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "māraṇaṃ",
+     "gloss": "killing",
+     "grounds": "action noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "anaphoric reference",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In what sense can breath separation count as killing for one already bound by fetters?",
+   "premises": [
+    "Breath separation is here called killing in a specific ritual sense.",
+    "The initiation described takes a varied form for one bound by fetters.",
+    "By that account the act of killing is not stated as the initiation itself."
+   ],
+   "inference": "For one bound by fetters, separation by breath is termed killing, but that killing is not identified with the initiation.",
+   "uncertainties": [
+    "The exact force of dīkṣeyaṃ remains unclear from this verse alone.",
+    "It is uncertain whether māraṇaṃ here denotes ritual action or its result."
+   ],
+   "plain_english": "For one bound by fetters, separation by breath is indeed called killing, but that killing is not said to be this varied form of initiation."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "anaphoric reference",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojanaiva",
+     "gloss": "arrangement-only",
+     "grounds": "yojanā + eva",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "syātpaśordevāya",
+     "gloss": "be-animal-for-god",
+     "grounds": "paśu + deva",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tarpaṇe",
+     "gloss": "in-offering",
+     "grounds": "locative of offering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasmāddevoktimāśritya",
+     "gloss": "from-that-god-word-relying",
+     "grounds": "tad + deva + ukti + āśritya",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "paśūndadyādbahūniti",
+     "gloss": "animals-give-many-thus",
+     "grounds": "paśu + dā + bahu",
+     "morph": "compound=member+membership"
+    }
+   ],
+   "question": "On what authority should many animals be given in offering for a god rather than for another purpose?",
+   "premises": [
+    "This arrangement alone applies to an animal offered for a god in an offering.",
+    "Reliance falls on a word spoken by a god as the basis for action.",
+    "That authority leads to the instruction to give many animals thus."
+   ],
+   "inference": "The giving of many animals in offering is not a general rule but an arrangement made for a god on the authority of a god's word.",
+   "uncertainties": [
+    "The scope of yojanā here is uncertain without the surrounding rite context.",
+    "It is unclear whether bahūn refers to a fixed number or to an open quantity."
+   ],
+   "plain_english": "This is but an arrangement for an animal in offering to a god; relying on a word spoken by a god, one should give many animals thus."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "niveditaḥ",
+     "gloss": "offered",
+     "grounds": "ni + vid",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punaḥprāptadeho",
+     "gloss": "again-obtained-body",
+     "grounds": "punar + prāpta + deha",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "bhūyoniveditaḥ",
+     "gloss": "again-offered",
+     "grounds": "bhūyas + nivedita",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "ṣaṭkṛtva",
+     "gloss": "six-times",
+     "grounds": "numeral adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "so@tra",
+     "gloss": "he-here",
+     "grounds": "sa + atra",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "ṣaḍjanmā",
+     "gloss": "six-births",
+     "grounds": "ṣaṣ + janman",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "paśuruttamaḥ",
+     "gloss": "supreme-animal",
+     "grounds": "paśu + uttama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does repeated offering across regained bodies lead to the status of a supreme animal after six times?",
+   "premises": [
+    "An offering is made, and a body is obtained again in sequence.",
+    "That process is repeated, with offering again, six times in this manner.",
+    "The one who undergoes this here becomes a supreme animal of six births."
+   ],
+   "inference": "Repeated offering across successive regained bodies, carried out six times, results in the status of a supreme animal marked by six births.",
+   "uncertainties": [
+    "It is unclear whether six births are completed or counted prospectively.",
+    "The precise link between regained body and renewed offering remains open."
+   ],
+   "plain_english": "Offered once and again obtaining a body, offered again, six times thus: he here becomes a supreme animal of six births."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pākakramācchuddhaṃ",
+     "gloss": "cooking-order-purified",
+     "grounds": "pāka + krama + śudh",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "hema",
+     "gloss": "gold",
+     "grounds": "substance noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvatsa",
+     "gloss": "that-like-he",
+     "grounds": "tad + vat + sa",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "kīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "kīrt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāṃ",
+     "gloss": "which",
+     "grounds": "interrogative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "perfection",
+     "grounds": "action/result noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negation emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vitaretsvayaṃ",
+     "gloss": "bestow-himself",
+     "grounds": "vi + tṛ + sva",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kiṃvā",
+     "gloss": "or-what",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "muc",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "By what comparison is it shown that purification does not by itself bestow perfection or liberation?",
+   "premises": [
+    "As gold is purified by order of cooking, so too is the case proclaimed here.",
+    "Such purification does not by itself bestow which perfection is in question.",
+    "Nor is liberation necessarily attained by that purification alone."
+   ],
+   "inference": "Purification is a necessary likeness to refined gold, but like refined gold it does not by itself bestow perfection or bring about liberation.",
+   "uncertainties": [
+    "It is unclear whether the comparison applies to the animal, to the giver, or to both.",
+    "The referent of siddhi remains open without wider context."
+   ],
+   "plain_english": "As gold is purified by the order of cooking, so too it is proclaimed here: such a one does not by himself bestow any perfection, or is he liberated?"
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "vac",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvānandaśāstre",
+     "gloss": "but-bliss-scripture",
+     "grounds": "tu + ānanda + śāstra",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrasaṃskāravāṃstyajet",
+     "gloss": "mantra-preparation-having-abandon",
+     "grounds": "mantra + saṃskāra + tyaj",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "samayānkutsayeddevīrdadyānmantrānvinā",
+     "gloss": "vows-revile-goddesses-give-mantras-without",
+     "grounds": "samaya + kuts + devī + dā + mantra + vinā",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "nayāt",
+     "gloss": "leads",
+     "grounds": "nī",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "According to the stated scripture, what consequence follows for one who abandons preparation and acts against vows and goddesses?",
+   "premises": [
+    "It is said in the scripture of bliss that certain actions carry consequence.",
+    "One who has mantra preparation but abandons it, reviles vows and goddesses, or gives mantras without basis acts contrary to that teaching.",
+    "Such action leads to a stated undesirable consequence."
+   ],
+   "inference": "Abandoning mantra preparation and reviling vows or goddesses while giving mantras without basis leads away from the stated goal according to the scripture of bliss.",
+   "uncertainties": [
+    "The exact destination implied by nayāt is not specified in this verse.",
+    "The scope of dadyānmantrānvinā remains open to interpretation."
+   ],
+   "plain_english": "But it is said in the scripture of bliss: one who, having had mantra preparation, abandons it, reviles vows and goddesses, or gives mantras without them, is led astray."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "dīkṣāmantrādikaṃ",
+     "gloss": "initiation-mantra-etc",
+     "grounds": "dīkṣā + mantra + ādi",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "pra + āp",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajetputrādimohitaḥ",
+     "gloss": "abandon-son-etc-deluded",
+     "grounds": "tyaj + putra + ādi + mohit",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "consecutive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuṣyatāmetya",
+     "gloss": "human-state-attaining",
+     "grounds": "manuṣyatā + i",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "punarevaṃ",
+     "gloss": "again-thus",
+     "grounds": "punar + evam",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "karotyapi",
+     "gloss": "does-also",
+     "grounds": "kṛ + api",
+     "morph": "3.sg.act.pres"
+    }
+   ],
+   "question": "What sequence of states is said to follow if one who obtained initiation and mantra abandons them out of delusion?",
+   "premises": [
+    "One obtains initiation, mantra, and related things.",
+    "Deluded by son and related things, that one abandons them.",
+    "Then attaining a human state, that one again does the same thus."
+   ],
+   "inference": "Abandonment out of delusion leads to a human state, and from there the same pattern of action is said to occur again.",
+   "uncertainties": [
+    "It is unclear whether the return to a human state is a fall or a stage in a cycle.",
+    "The exact force of api is uncertain from this verse alone."
+   ],
+   "plain_english": "Having obtained initiation, mantra, and so on, one deluded by son and so on abandons them; then attaining a human state, one does the same again."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "itthamekādisaptāntajanmāsau",
+     "gloss": "thus-one-to-seven-end-births-this",
+     "grounds": "ittham + eka + ādi + sapta + anta + janman + asau",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "dvividho",
+     "gloss": "twofold",
+     "grounds": "dvi + vidha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvipāt",
+     "gloss": "two-footed",
+     "grounds": "dvi + pād",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "catuṣpādvā",
+     "gloss": "four-footed-or",
+     "grounds": "catuṣ + pād + vā",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "paśurdevīcarukārthaṃ",
+     "gloss": "animal-goddess-oblation-for",
+     "grounds": "paśu + devī + caru + artha",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "pra + jan",
+     "morph": "3.sg.mid.pres"
+    }
+   ],
+   "question": "For what purpose is this twofold being said to be born as two-footed or four-footed for one to seven births?",
+   "premises": [
+    "Thus this being passes through births from one up to seven.",
+    "That being is twofold, either two-footed or four-footed.",
+    "Such a being is born as an animal for the purpose of an oblation to a goddess."
+   ],
+   "inference": "A being who falls into this cycle is born twofold as two-footed or four-footed for one to seven births as an animal for a goddess oblation.",
+   "uncertainties": [
+    "It is unclear whether the count is fixed to seven or extends up to seven.",
+    "The relation between the twofold form and the cycle of births remains open."
+   ],
+   "plain_english": "Thus this being, twofold as two-footed or four-footed, is born for one to seven births as an animal for the purpose of an oblation to a goddess."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "dātrarpito@sau",
+     "gloss": "giver-offered-this",
+     "grounds": "dātṛ + arpita + asau",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "taddvārā",
+     "gloss": "that-by-door",
+     "grounds": "tad + dvāra",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "yā",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "sāyujyataḥ",
+     "gloss": "from-union",
+     "grounds": "sāyujya",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "to-shiva",
+     "grounds": "śiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbhāvya",
+     "gloss": "having-considered",
+     "grounds": "sam + bhū",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citraṃ",
+     "gloss": "strange",
+     "grounds": "adjectival noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatpaśūnāṃ",
+     "gloss": "that-animals-of",
+     "grounds": "tad + paśu",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "praviceṣṭitam",
+     "gloss": "activity",
+     "grounds": "pra + vi + ceṣṭ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How can the activity of animals in this offering be considered strange if the offered animal goes to union with Shiva?",
+   "premises": [
+    "This animal, offered by a giver, goes by that door to union with Shiva.",
+    "This is to be considered thus.",
+    "The activity of those animals is strange in light of that result."
+   ],
+   "inference": "Given that an animal offered by a giver goes by that means to union with Shiva, the course of activity for such animals appears strange and calls for consideration.",
+   "uncertainties": [
+    "The referent of taddvārā is not explicit in this verse.",
+    "It is unclear what aspect of the animals' activity is meant by citraṃ."
+   ],
+   "plain_english": "This animal, offered by a giver, goes by that door to union with Shiva, thus. Considering this, the activity of those animals is strange."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "bhogyīcikīrṣitaṃ",
+     "gloss": "enjoyment-desired",
+     "grounds": "bhogya + īcch + kṛ",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negation emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādanyatra",
+     "gloss": "do-elsewhere",
+     "grounds": "kṛ + anyatra",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśum",
+     "gloss": "animal",
+     "grounds": "victim noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāpi",
+     "gloss": "nor-also",
+     "grounds": "negation emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naiṣa",
+     "gloss": "not-this",
+     "grounds": "na + eṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavedyogya",
+     "gloss": "be-suitable",
+     "grounds": "bhū + yogya",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusive marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhvāpasārayet",
+     "gloss": "having-understood-remove",
+     "grounds": "budh + apa + sṛ",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Why should one not use an animal intended for this offering for enjoyment elsewhere, and remove it if unsuitable?",
+   "premises": [
+    "What is desired for enjoyment should not be done with this animal elsewhere.",
+    "This animal is not suitable for that purpose.",
+    "Having understood this thus, one should remove that animal."
+   ],
+   "inference": "An animal designated for this offering is not to be diverted to enjoyment elsewhere, and if it is not suitable for the offering, one should remove it after understanding that.",
+   "uncertainties": [
+    "The criterion for yogya is not stated in this verse.",
+    "It is unclear whether removal means substitution or cessation of offering."
+   ],
+   "plain_english": "One should not do what is desired for enjoyment elsewhere with that animal; nor is this animal suitable for it. Having understood this, one should remove it."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśuṃ",
+     "gloss": "animal",
+     "grounds": "victim noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kiṃtu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṅkṣā",
+     "gloss": "desire",
+     "grounds": "noun of desire",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cedviśeṣe",
+     "gloss": "if-in-particular",
+     "grounds": "ced + viśeṣa",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "consecutive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍhaukayet",
+     "gloss": "offer",
+     "grounds": "ḍhauk",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tāvatastānpaśūndadyāttathācoktaṃ",
+     "gloss": "so-many-animals-give-thus-as-said",
+     "grounds": "tāvat + paśu + dā + tathā + ukta",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "maheśinā",
+     "gloss": "by-maheshin",
+     "grounds": "agent noun",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Under what condition may an animal be offered, and how many are to be given according to the stated teaching?",
+   "premises": [
+    "If there is a particular desire, that animal may then be offered.",
+    "In that case one should give so many animals, thus.",
+    "This is as said by Maheshin."
+   ],
+   "inference": "Offering of an animal is not obligatory, but if a particular desire arises, one offers it and gives so many animals as Maheshin has said.",
+   "uncertainties": [
+    "The quantity tāvat is left indefinite in this verse.",
+    "The nature of viśeṣa kāṅkṣā is not specified here."
+   ],
+   "plain_english": "But if there is a particular desire, one should then offer that animal; one should give so many animals, thus as said by Maheshin."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "paśorvapāmedasī",
+     "gloss": "animal-omentum-marrow",
+     "grounds": "paśu + vapā + medas",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gālite",
+     "gloss": "melted",
+     "grounds": "gal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vahnimadhyataḥ",
+     "gloss": "fire-middle-from",
+     "grounds": "vahni + madhya",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "arpayecchakticakrāya",
+     "gloss": "offer-shakti-wheel-to",
+     "grounds": "arpay + śakti + cakra",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "offering",
+     "grounds": "offering noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "man",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which parts of the animal are to be offered, in what form, and to whom as a supreme offering?",
+   "premises": [
+    "The omentum and marrow of the animal, and these when melted, are taken from the middle of the fire.",
+    "They are to be offered to the wheel of Shakti.",
+    "This is considered a supreme offering."
+   ],
+   "inference": "Melted omentum and marrow of the animal, taken from the middle of the fire, are offered to the wheel of Shakti as a supreme offering.",
+   "uncertainties": [
+    "The procedure for taking from the middle of the fire is not detailed here.",
+    "It is unclear whether other parts are excluded by this instruction."
+   ],
+   "plain_english": "The omentum and marrow of the animal, and these melted, from the middle of the fire one should offer to the wheel of Shakti; this is considered a supreme offering."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "hṛdantramuṇḍāṃsayakṛtpradhānaṃ",
+     "gloss": "heart-intestine-head-shoulder-liver-principal",
+     "grounds": "hṛd + antara + muṇḍa + aṃsa + yakṛt + pradhāna",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "vinivedayet",
+     "gloss": "should-offer",
+     "grounds": "vi + ni + vid",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "karṇikākuṇḍalīmajjaparśu",
+     "gloss": "earring-coil-marrow-axe",
+     "grounds": "karṇikā + kuṇḍalī + majjan + paraśu",
+     "morph": "compound=member+membership"
+    },
+    {
+     "surface": "mukhyataraṃ",
+     "gloss": "more-principal",
+     "grounds": "mukhya + tara",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which principal parts are to be offered, and is there an alternative set considered more principal?",
+   "premises": [
+    "One should offer the principal parts: heart, intestine, head, shoulder, and liver.",
+    "Or one should offer earring, coil, marrow, and axe as what is more principal.",
+    "The instruction allows for one of these sets as principal."
+   ],
+   "inference": "Two alternative sets of parts are indicated for offering, with the second set presented as more principal in this instruction.",
+   "uncertainties": [
+    "The ritual reason for the alternative set is not stated in this verse.",
+    "It is unclear whether karṇikā and kuṇḍalī denote parts or objects here."
+   ],
+   "plain_english": "One should offer the principal parts: heart, intestine, head, shoulder, and liver, or alternatively earring, coil, marrow, and axe as what is more principal."
+  }
+ ]
+}

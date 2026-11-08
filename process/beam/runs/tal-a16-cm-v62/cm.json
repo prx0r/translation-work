@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 62,
  "rows": [
   {
-   "lemma": "idam",
+   "lemma": "iyaṃ",
    "morph": "f.nom.sg",
-   "grounds": "gloss this"
+   "grounds": "anaphoric reference"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "gloss but"
+   "morph": "(indecl.)",
+   "grounds": "contrastive particle"
   },
   {
-   "lemma": "yojana+eva",
-   "morph": "indecl. compound",
-   "grounds": "gloss yojana-only"
+   "lemma": "yojanaiva",
+   "morph": "compound=member+membership",
+   "grounds": "yojanā + eva"
   },
   {
-   "lemma": "as+paśu+deva",
-   "morph": "3sg.opt.pres √as + m.gen.sg + m.dat.sg (sandhi)",
-   "grounds": "gloss may-be-of-animal-for-god"
+   "lemma": "syātpaśordevāya",
+   "morph": "compound=member+membership",
+   "grounds": "paśu + deva"
   },
   {
-   "lemma": "tarpaṇa",
+   "lemma": "tarpaṇe",
    "morph": "n.loc.sg",
-   "grounds": "gloss in-offering"
+   "grounds": "locative of offering"
   },
   {
-   "lemma": "tad+devokti+āśri",
-   "morph": "m.abl.sg + f.acc.sg + abs. √āśri (sandhi)",
-   "grounds": "gloss relying-on-god-word-from-that"
+   "lemma": "tasmāddevoktimāśritya",
+   "morph": "compound=member+membership",
+   "grounds": "tad + deva + ukti + āśritya"
   },
   {
-   "lemma": "paśu+dā+bahu+iti",
-   "morph": "m.acc.pl + 3sg.opt.pres √dā + m.acc.pl + indecl. (sandhi)",
-   "grounds": "gloss animals-one-should-give-many-thus"
+   "lemma": "paśūndadyādbahūniti",
+   "morph": "compound=member+membership",
+   "grounds": "paśu + dā + bahu"
   }
  ]
 }

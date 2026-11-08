@@ -1,51 +1,51 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 30,
  "rows": [
   {
-   "lemma": "yathottaram",
-   "morph": "indecl.",
-   "grounds": "gloss 'in-order' + form yathottaraṃ"
+   "lemma": "yathottaraṃ",
+   "morph": "(indecl.)",
+   "grounds": "sequential rule"
   },
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "gloss 'not' + form na"
+   "morph": "(indecl.)",
+   "grounds": "prohibition"
   },
   {
-   "lemma": "dātavya+ayogya",
-   "morph": "gerundive.acc.sg.n + adj.dat.pl.m/n",
-   "grounds": "gloss 'to-be-given-to-unworthy' + sandhi form dātavyamayogyebhyaḥ"
+   "lemma": "dātavyamayogyebhyaḥ",
+   "morph": "compound=member+membership",
+   "grounds": "recipient restriction"
   },
   {
    "lemma": "kadācana",
-   "morph": "indecl.",
-   "grounds": "gloss 'never' + form kadācana"
+   "morph": "(indecl.)",
+   "grounds": "strengthens prohibition"
   },
   {
-   "lemma": "śiva+upayukta",
-   "morph": "adj.acc.sg.n",
-   "grounds": "gloss 'shiva-used' + form śivopayuktaṃ"
+   "lemma": "śivopayuktaṃ",
+   "morph": "compound=member+membership",
+   "grounds": "qualification of offering"
   },
   {
    "lemma": "hi",
-   "morph": "indecl.",
-   "grounds": "gloss 'indeed' + form hi"
+   "morph": "(indecl.)",
+   "grounds": "justificatory"
   },
   {
-   "lemma": "havis+na",
-   "morph": "noun.nom/acc.sg.n + indecl.",
-   "grounds": "gloss 'offering-not' + sandhi form havirna"
+   "lemma": "havirna",
+   "morph": "compound=member+membership",
+   "grounds": "prohibition on consumption"
   },
   {
-   "lemma": "sarva",
-   "morph": "adj.nom.sg.m",
-   "grounds": "gloss 'everyone' + form sarvo"
+   "lemma": "sarvo",
+   "morph": "m.nom.sg",
+   "grounds": "universal restriction"
   },
   {
-   "lemma": "arh",
-   "morph": "3sg.pres.act √arh",
-   "grounds": "gloss 'is-worthy-to-eat' + form bhoktumarhati (with infinitive bhoktum)"
+   "lemma": "bhoktumarhati",
+   "morph": "3.sg.act.pres.ind",
+   "grounds": "restriction on consumption"
   }
  ]
 }

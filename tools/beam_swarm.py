@@ -512,10 +512,15 @@ TAL_TRIPLE_SYS = ('You process Tantraloka verses for a translation pipeline in O
   'question (the verse\'s own question, >=5 words, never "what does verse N state"), '
   'premises (terse logical statements, >=3 words each), inference, uncertainties, '
   'plain_english (readable translation, no metacommentary). Output ONLY JSON.\n'
+  'SURFACE FIDELITY (hard gate — mismatches are rejected wholesale): copy every '
+  'token surface character-for-character EXACTLY as listed. NEVER split a token '
+  '(fused sandhi forms like yAgastAvannirUpyate stay ONE row), NEVER merge tokens, '
+  'NEVER normalize spelling or sandhi. Row count MUST equal token count.\n'
   'Gloss: lowercase English, hyphen-joined, no parens/quotes, max 6 parts, NO grammar '
   'terms (never genitive/nominative/dual/sandhi/compound — use plain English).\n'
   'Morph: case.number.gender (m.nom.sg), verb person.number.voice-tense/mood + root, '
-  '(indecl.), compound = member+membership.')
+  '(indecl.), compound = member+membership. Analyze the FUSED form as given; note '
+  'internal sandhi in grounds, do not split the row.')
 
 
 def run_tal_triple(t: dict) -> tuple[bool, str]:

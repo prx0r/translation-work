@@ -1,56 +1,56 @@
 {
- "song": "unknown",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 69,
  "rows": [
   {
-   "lemma": "bhogyīcikīrṣita",
-   "morph": "adj.acc.sg.n",
-   "grounds": "gloss desired-to-be-enjoyed; form bhogyīcikīrṣitaṃ"
+   "lemma": "bhogyīcikīrṣitaṃ",
+   "morph": "compound=member+membership",
+   "grounds": "bhogya + īcch + kṛ"
   },
   {
    "lemma": "naiva",
    "morph": "(indecl.)",
-   "grounds": "gloss not-indeed; form naiva"
+   "grounds": "negation emphatic"
   },
   {
-   "lemma": "kṛ+anyatra",
-   "morph": "3sg.opt.act √kṛ + (indecl.)",
-   "grounds": "gloss should-do-elsewhere; form kuryādanyatra"
+   "lemma": "kuryādanyatra",
+   "morph": "3.sg.act.opt",
+   "grounds": "kṛ + anyatra"
   },
   {
-   "lemma": "tad",
+   "lemma": "taṃ",
    "morph": "m.acc.sg",
-   "grounds": "gloss that; form taṃ"
+   "grounds": "demonstrative"
   },
   {
-   "lemma": "paśu",
+   "lemma": "paśum",
    "morph": "m.acc.sg",
-   "grounds": "gloss animal-victim; form paśum"
+   "grounds": "victim noun"
   },
   {
    "lemma": "nāpi",
    "morph": "(indecl.)",
-   "grounds": "gloss nor-also; form nāpi"
+   "grounds": "negation emphatic"
   },
   {
-   "lemma": "na+eṣa",
-   "morph": "(indecl.) + m.nom.sg",
-   "grounds": "gloss not-this; form naiṣa"
+   "lemma": "naiṣa",
+   "morph": "m.nom.sg",
+   "grounds": "na + eṣa"
   },
   {
-   "lemma": "bhū+yogya",
-   "morph": "3sg.opt.act √bhū + adj",
-   "grounds": "gloss would-be-suitable; form bhavedyogya"
+   "lemma": "bhavedyogya",
+   "morph": "compound=member+membership",
+   "grounds": "bhū + yogya"
   },
   {
    "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "gloss thus; form iti"
+   "grounds": "conclusive marker"
   },
   {
-   "lemma": "budh+apasāraya",
-   "morph": "absol. √budh + 3sg.opt.act",
-   "grounds": "gloss having-understood-remove; form buddhvāpasārayet"
+   "lemma": "buddhvāpasārayet",
+   "morph": "3.sg.act.opt",
+   "grounds": "budh + apa + sṛ"
   }
  ]
 }

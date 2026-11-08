@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 71,
  "rows": [
   {
-   "lemma": "paśu",
-   "morph": "gen.sg.m + vapāmedas dual.acc.n",
-   "grounds": "animal-omentum-marrow + form paśorvapāmedasī"
+   "lemma": "paśorvapāmedasī",
+   "morph": "compound=member+membership",
+   "grounds": "paśu + vapā + medas"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "and + form ca"
+   "morph": "(indecl.)",
+   "grounds": "conjunctive particle"
   },
   {
-   "lemma": "gālita",
-   "morph": "loc.sg.m/n",
-   "grounds": "melted + form gālite"
+   "lemma": "gālite",
+   "morph": "n.loc.sg",
+   "grounds": "gal"
   },
   {
-   "lemma": "vahnimadhya",
-   "morph": "abl.sg.n",
-   "grounds": "from-fire-middle + form vahnimadhyataḥ"
+   "lemma": "vahnimadhyataḥ",
+   "morph": "compound=member+membership",
+   "grounds": "vahni + madhya"
   },
   {
-   "lemma": "arpayati",
-   "morph": "3sg.opt.act √ṛ + śakticakra dat.sg.n",
-   "grounds": "should-offer-to-shakti-wheel + form arpayecchakticakrāya"
+   "lemma": "arpayecchakticakrāya",
+   "morph": "compound=member+membership",
+   "grounds": "arpay + śakti + cakra"
   },
   {
-   "lemma": "parama",
-   "morph": "acc.sg.n",
-   "grounds": "supreme + form paramaṃ"
+   "lemma": "paramaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "adjective"
   },
   {
-   "lemma": "tarpaṇa",
-   "morph": "acc.sg.n",
-   "grounds": "offering + form tarpaṇaṃ"
+   "lemma": "tarpaṇaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "offering noun"
   },
   {
-   "lemma": "mata",
-   "morph": "acc.sg.n",
-   "grounds": "considered + form matam"
+   "lemma": "matam",
+   "morph": "n.nom.sg",
+   "grounds": "man"
   }
  ]
 }

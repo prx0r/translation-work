@@ -1,36 +1,36 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a16",
+ "verse": 36,
  "rows": [
   {
-   "lemma": "dakṣiṇāgni",
-   "morph": "m.inst.sg",
-   "grounds": "gloss 'by-southern-fire' + form dakṣiṇenāgninā"
+   "lemma": "dakṣiṇenāgninā",
+   "morph": "m.ins.sg",
+   "grounds": "rite fire specified"
   },
   {
-   "lemma": "saumyakalājālavilāpana",
-   "morph": "n.abl.sg",
-   "grounds": "gloss 'from-gentle-kala-net-dissolution' + form saumyakalājālavilāpanāt"
+   "lemma": "saumyakalājālavilāpanāt",
+   "morph": "compound=member+membership",
+   "grounds": "means"
   },
   {
    "lemma": "tathāhyādau",
-   "morph": "indecl.",
-   "grounds": "gloss 'thus-indeed-at-first' + form tathāhyādau"
+   "morph": "compound=member+membership",
+   "grounds": "temporal marker"
   },
   {
-   "lemma": "para",
+   "lemma": "paraṃ",
    "morph": "n.acc.sg",
-   "grounds": "gloss 'supreme' + form paraṃ"
+   "grounds": "object"
   },
   {
-   "lemma": "rūpekībhāva",
-   "morph": "m.inst.sg",
-   "grounds": "gloss 'form-by-becoming-one' + form rūpamekībhāvena"
+   "lemma": "rūpamekībhāvena",
+   "morph": "compound=member+membership",
+   "grounds": "mode"
   },
   {
-   "lemma": "saṃśri",
-   "morph": "3sg.opt.act √śri",
-   "grounds": "gloss 'he-should-resort' + form saṃśrayet"
+   "lemma": "saṃśrayet",
+   "morph": "3.sg.act.opt",
+   "grounds": "prescribed action"
   }
  ]
 }
