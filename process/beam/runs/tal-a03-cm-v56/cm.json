@@ -1,56 +1,56 @@
 {
- "song": "tal-a03",
- "verse": 56,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "nanvitthaṃ",
-   "morph": "(indecl.)",
-   "grounds": "objection marker"
+   "lemma": "nanvittham",
+   "morph": "indecl.",
+   "grounds": "nanvitthaṃ = but-surely-thus; indeclinable particle cluster (nanu + ittham)"
   },
   {
-   "lemma": "pratibimbasya",
+   "lemma": "pratibimba",
    "morph": "n.gen.sg",
-   "grounds": "object of definition"
+   "grounds": "pratibimbasya = of-reflection; genitive singular of pratibimba"
   },
   {
-   "lemma": "lakṣaṇaṃ",
+   "lemma": "lakṣaṇa",
    "morph": "n.nom.sg",
-   "grounds": "subject"
+   "grounds": "lakṣaṇaṃ = definition; nominative singular neuter"
   },
   {
-   "lemma": "kiṃ",
-   "morph": "(indecl.)",
-   "grounds": "question"
+   "lemma": "kim",
+   "morph": "n.nom.sg",
+   "grounds": "kiṃ = what; interrogative pronoun, nominative singular neuter"
   },
   {
    "lemma": "taducyate",
-   "morph": "3.sg.passive-present + vac",
-   "grounds": "answer marker"
+   "morph": "3sg.pres.pass √vac",
+   "grounds": "taducyate = that-is-stated; sandhi of tat + ucyate, passive of √vac"
   },
   {
    "lemma": "anyavyāmiśraṇāyogāttadbhedāśakyabhāsanam",
+   "morph": "compound",
+   "grounds": "anyavyāmiśraṇāyogāttadbhedāśakyabhāsanam = impossible-manifestation-of-difference-from-it-due-to-unfitness-for-mixing-with-other; bahuvrīhi/tatpuruṣa-style compound (anya-vyāmiśraṇa-ayoga + tad-bheda-aśakya-bhāsana), nominative/accusative neuter singular in function (AMBIGUOUS case)"
+  },
+  {
+   "lemma": "pratibimba",
    "morph": "n.nom.sg",
-   "grounds": "definition"
+   "grounds": "pratibimbamiti = reflection-thus; pratibimbam (nom.sg.n.) + iti"
   },
   {
-   "lemma": "pratibimbamiti",
-   "morph": "n.nom.sg + (indecl.)",
-   "grounds": "conclusion of definition"
+   "lemma": "prāh",
+   "morph": "3pl.perf.act √brū",
+   "grounds": "prāhurdarpaṇe = they-say-in-a-mirror; prāhuḥ (3pl perfect active of √brū) in sandhi with darpaṇe"
   },
   {
-   "lemma": "prāhurdarpaṇe",
-   "morph": "3.pl.active-perfect + ah",
-   "grounds": "authority and example"
-  },
-  {
-   "lemma": "vadanaṃ",
+   "lemma": "vadana",
    "morph": "n.nom.sg",
-   "grounds": "example"
+   "grounds": "vadanaṃ = face; nominative singular neuter"
   },
   {
    "lemma": "yathā",
-   "morph": "(indecl.)",
-   "grounds": "comparison marker"
+   "morph": "indecl.",
+   "grounds": "yathā = just-as; indeclinable particle of comparison"
   }
  ]
 }

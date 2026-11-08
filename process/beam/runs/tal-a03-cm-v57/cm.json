@@ -1,46 +1,46 @@
 {
- "song": "tal-a03",
- "verse": 57,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "bodhamiśramidaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "subject"
+   "lemma": "bodhamiśra+idam",
+   "morph": "compound+n.nom/acc.sg.n",
+   "grounds": "bodhamiśram (mixed with consciousness) + idam (this), n.nom/acc.sg"
   },
   {
-   "lemma": "bodhādbhedenāśakyabhāsanam",
-   "morph": "n.nom.sg",
-   "grounds": "description"
+   "lemma": "bodha+bheda+aśakyabhāsana",
+   "morph": "compound+n.nom/acc.sg.n",
+   "grounds": "bodhāt (from consciousness, abl.) + bhedena (by difference, instr.) + aśakyabhāsanam (impossible to manifest), bahuvrīhi/tatpuruṣa compound, n.nom/acc.sg"
   },
   {
-   "lemma": "paratattvādi",
-   "morph": "n.nom.sg",
-   "grounds": "refers to the universe"
+   "lemma": "paratattva+ādi",
+   "morph": "compound+n.nom/acc.sg.n",
+   "grounds": "paratattva (supreme reality) + ādi (and so on), n.nom/acc.sg"
   },
   {
-   "lemma": "bodhe",
+   "lemma": "bodha",
    "morph": "m.loc.sg",
-   "grounds": "location"
+   "grounds": "bodhe = in consciousness, loc.sg of bodha"
   },
   {
-   "lemma": "kiṃ",
-   "morph": "(indecl.)",
-   "grounds": "rhetorical question"
+   "lemma": "kim",
+   "morph": "indecl.",
+   "grounds": "kiṃ = why/interrogative particle"
   },
   {
-   "lemma": "pratibimbaṃ",
+   "lemma": "pratibimba",
    "morph": "n.nom.sg",
-   "grounds": "predicate"
+   "grounds": "pratibimbam = reflection, n.nom.sg"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not, negation particle"
   },
   {
-   "lemma": "bhaṇyate",
-   "morph": "3.sg.passive-present + bhaṇ",
-   "grounds": "action"
+   "lemma": "bhaṇ",
+   "morph": "3sg.pres.pass",
+   "grounds": "bhaṇyate = is called, 3sg.pres.pass √bhaṇ"
   }
  ]
 }

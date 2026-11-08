@@ -1,51 +1,51 @@
 {
- "song": "tal-a03",
- "verse": 53,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "naivaṃ",
-   "morph": "(indecl.)",
-   "grounds": "rejection"
+   "lemma": "na evam",
+   "morph": "indecl. + indecl.",
+   "grounds": "naivaṃ = not-so; sandhi of na + evam"
   },
   {
-   "lemma": "tallakṣaṇābhāvādbimbaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "reason for rejection"
+   "lemma": "tallakṣaṇābhāvāt bimba",
+   "morph": "n.abl.sg (compound) + n.nom.sg",
+   "grounds": "tallakṣaṇābhāvādbimbaṃ = original-image-because-of-absence-of-its-definition; tat+lakṣaṇa+abhāva (abl.) + bimba"
   },
   {
    "lemma": "kila",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "morph": "indecl.",
+   "grounds": "kila = indeed"
   },
   {
-   "lemma": "kimucyate",
-   "morph": "3.sg.passive-present + vac",
-   "grounds": "question"
+   "lemma": "kim ucyate",
+   "morph": "n.nom.sg + 3sg.pres.pass √vac",
+   "grounds": "kimucyate = what-is-called; kim + ucyate"
   },
   {
-   "lemma": "anyāmiśraṃ",
+   "lemma": "anyāmiśra",
    "morph": "n.nom.sg",
-   "grounds": "definition part 1"
+   "grounds": "anyāmiśraṃ = unmixed-with-other; anya+āmiśra compound"
   },
   {
-   "lemma": "svatantraṃ",
+   "lemma": "svatantra",
    "morph": "n.nom.sg",
-   "grounds": "definition part 2"
+   "grounds": "svatantraṃ = independent"
   },
   {
-   "lemma": "sadbhāsamānaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "definition part 3"
+   "lemma": "sadbhāsamāna",
+   "morph": "n.nom.sg (pres.part.mid √bhās)",
+   "grounds": "sadbhāsamānaṃ = truly-appearing; sat+bhāsamāna"
   },
   {
-   "lemma": "mukhaṃ",
+   "lemma": "mukha",
    "morph": "n.nom.sg",
-   "grounds": "example"
+   "grounds": "mukhaṃ = face"
   },
   {
    "lemma": "yathā",
-   "morph": "(indecl.)",
-   "grounds": "comparison marker"
+   "morph": "indecl.",
+   "grounds": "yathā = just-as"
   }
  ]
 }

@@ -1,136 +1,136 @@
 {
- "song": "tal-a03",
- "verse": 23,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "negation particle = not"
   },
   {
-   "lemma": "deśoṃ",
-   "morph": "deśa (m.nom.sg)",
-   "grounds": "no fixed location"
+   "lemma": "deśa",
+   "morph": "m.nom.sg",
+   "grounds": "deśaḥ (sandhi deśoṃ before nasal/context) = place"
   },
   {
-   "lemma": "no",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "lemma": "na",
+   "morph": "indecl.",
+   "grounds": "negation particle = not (no)"
   },
   {
-   "lemma": "rūpaṃ",
+   "lemma": "rūpa",
    "morph": "n.nom.sg",
-   "grounds": "no independent form"
+   "grounds": "rūpam = form"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "negation particle = not"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "conjunction = and"
   },
   {
-   "lemma": "samayayogo",
-   "morph": "compound: samaya+yoga (m.nom.sg)",
-   "grounds": "no temporal linkage"
-  },
-  {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
-  },
-  {
-   "lemma": "parimā",
-   "morph": "f.nom.sg",
-   "grounds": "no determinate size"
+   "lemma": "samayayoga",
+   "morph": "m.nom.sg",
+   "grounds": "samaya+yoga compound (tatpuruṣa) = connection-with-time"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "negation particle = not"
   },
   {
-   "lemma": "cānyonyāsaṃgo",
-   "morph": "ca (indecl.) + compound: anyonya+āsaṅga (m.nom.sg)",
-   "grounds": "no reciprocal contact"
+   "lemma": "pariman",
+   "morph": "n.nom.sg",
+   "grounds": "parima (parimāṇa/pariman, form AMBIGUOUS) = measure"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "negation particle = not"
+  },
+  {
+   "lemma": "ca+anyonya+āsaṅga",
+   "morph": "indecl.+pron.comp+m.nom.sg",
+   "grounds": "ca = and; anyonya+āsaṅga compound (tatpuruṣa) = mutual-connection"
+  },
+  {
+   "lemma": "na",
+   "morph": "indecl.",
+   "grounds": "negation particle = not"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "conjunction = and"
   },
   {
-   "lemma": "tadapahānirna",
-   "morph": "compound: tad+apahāni (f.nom.sg) + na (indecl.)",
-   "grounds": "no ordinary loss"
+   "lemma": "tad+apahāni+na",
+   "morph": "pron.comp+f.nom.sg+indecl.",
+   "grounds": "tad+apahāni compound = its-removal; na = not (sandhi tadapahānirna)"
   },
   {
    "lemma": "ghanatā",
    "morph": "f.nom.sg",
-   "grounds": "no density"
+   "grounds": "ghanatā = solidity"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "negation particle = not"
   },
   {
-   "lemma": "cāvastutvaṃ",
-   "morph": "ca (indecl.) + avastutva (n.nom.sg)",
-   "grounds": "not simply nonexistent"
+   "lemma": "ca+avastutva",
+   "morph": "indecl.+n.nom.sg",
+   "grounds": "ca = and; avastutva = unreality"
   },
   {
-   "lemma": "syānna",
-   "morph": "syāt (3.sg.opt.act; √as) + na (indecl.)",
-   "grounds": "negation of simple unreality"
+   "lemma": "as+na",
+   "morph": "3sg.opt.act √as+indecl.",
+   "grounds": "syāt = would-be; na = not (sandhi syānna)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective"
+   "morph": "indecl.",
+   "grounds": "conjunction = and"
   },
   {
    "lemma": "kimapi",
-   "morph": "kim (n.nom.sg) + api (indecl.)",
-   "grounds": "no definite essence"
+   "morph": "indecl.",
+   "grounds": "kim+api compound pronoun/indecl. = anything-at-all"
   },
   {
-   "lemma": "sāraṃ",
+   "lemma": "sāra",
    "morph": "n.nom.sg",
-   "grounds": "no own core"
+   "grounds": "sāram = essence"
   },
   {
-   "lemma": "nijamiti",
-   "morph": "nija (n.nom.sg) + iti (indecl.)",
-   "grounds": "denies intrinsic essence"
+   "lemma": "nija+iti",
+   "morph": "n.nom.sg+indecl.",
+   "grounds": "nijam = of-its-own; iti = thus (sandhi nijamiti)"
   },
   {
-   "lemma": "dhruvaṃ",
-   "morph": "(indecl.)",
-   "grounds": "assured result"
+   "lemma": "dhruvam",
+   "morph": "indecl.",
+   "grounds": "adverb = certainly"
   },
   {
-   "lemma": "mohaḥ",
+   "lemma": "moha",
    "morph": "m.nom.sg",
-   "grounds": "confusion about reflection"
+   "grounds": "mohaḥ = delusion"
   },
   {
-   "lemma": "śāmyediti",
-   "morph": "śāmyet (3.sg.opt.act; √śam) + iti (indecl.)",
-   "grounds": "purpose of analysis"
+   "lemma": "śam+iti",
+   "morph": "3sg.opt.act √śam+indecl.",
+   "grounds": "śāmyet = would-subside; iti = thus (sandhi śāmyediti)"
   },
   {
-   "lemma": "niradiśaddarpaṇavidhiḥ",
-   "morph": "niradiśat (3.sg.imperf.act; nir-√diś) + compound: darpaṇa+vidhi (m.nom.sg)",
-   "grounds": "teaching on mirror reflection"
+   "lemma": "niradiśat+darpaṇa+vidhi",
+   "morph": "3sg.impf.act √diś+comp+m.nom.sg",
+   "grounds": "niradiśat = declared; darpaṇa+vidhi compound (tatpuruṣa) = the-mirror-account"
   }
  ]
 }

@@ -1,41 +1,41 @@
 {
- "song": "tal-a03",
- "verse": 62,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ata",
-   "morph": "(indecl.)",
-   "grounds": "conclusion marker"
+   "lemma": "atas",
+   "morph": "indecl.",
+   "grounds": "ata = therefore (indeclinable)"
   },
   {
    "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "morph": "indecl.",
+   "grounds": "eva = indeed (indeclinable)"
   },
   {
-   "lemma": "purovartinyāloke",
-   "morph": "m.loc.sg",
-   "grounds": "occasioning context"
+   "lemma": "purovartin-āloka",
+   "morph": "m.loc.sg (compound: purovartin+āloka)",
+   "grounds": "purovartinyāloke = in light present before one (locative singular of compound)"
   },
   {
-   "lemma": "smaraṇādinā",
-   "morph": "n.ins.sg",
-   "grounds": "instrumental trigger"
+   "lemma": "smaraṇa-ādi",
+   "morph": "n.inst.sg (compound: smaraṇa+ādi)",
+   "grounds": "smaraṇādinā = by memory and such (instrumental singular of compound)"
   },
   {
-   "lemma": "nimittena",
-   "morph": "n.ins.sg",
-   "grounds": "apparent cause"
+   "lemma": "nimitta",
+   "morph": "n.inst.sg",
+   "grounds": "nimittena = by an instrument (instrumental singular neuter)"
   },
   {
-   "lemma": "ghanenāstu",
-   "morph": "m.ins.sg + (indecl.)",
-   "grounds": "concessive description"
+   "lemma": "ghanena astu",
+   "morph": "ghanena: m/n.inst.sg; astu: 3sg.imper.act √as (sandhi)",
+   "grounds": "ghanenāstu = let it be dense (sandhi of ghanena, instrumental, + astu, imperative of √as)"
   },
   {
-   "lemma": "saṃkrāntadayitākṛtiḥ",
-   "morph": "f.nom.sg",
-   "grounds": "experienced appearance"
+   "lemma": "saṃkrānta-dayitā-ākṛti",
+   "morph": "f.nom.sg (compound: saṃkrānta+dayitā+ākṛti)",
+   "grounds": "saṃkrāntadayitākṛtiḥ = form of beloved transferred (nominative singular feminine compound)"
   }
  ]
 }

@@ -1,71 +1,71 @@
 {
- "song": "tal-a03",
- "verse": 59,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
    "lemma": "nanu",
-   "morph": "(indecl.)",
-   "grounds": "objection marker"
+   "morph": "indecl.",
+   "grounds": "gloss: but-surely; form: nanu"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "gloss: not; form: na"
   },
   {
-   "lemma": "pratibimbasya",
+   "lemma": "pratibimba",
    "morph": "n.gen.sg",
-   "grounds": "subject"
+   "grounds": "gloss: of-reflection; form: pratibimbasya"
   },
   {
    "lemma": "vinā",
-   "morph": "(indecl.)",
-   "grounds": "exclusion"
+   "morph": "indecl.",
+   "grounds": "gloss: without; form: vinā"
   },
   {
-   "lemma": "bimbaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "excluded object"
+   "lemma": "bimba",
+   "morph": "n.nom.sg",
+   "grounds": "gloss: original-image; form: bimbaṃ"
   },
   {
-   "lemma": "bhavetsthitiḥ",
-   "morph": "3.sg.active-optative + bhū",
-   "grounds": "claim"
+   "lemma": "bhavetsthiti",
+   "morph": "compound",
+   "grounds": "gloss: could-be-existence; form: bhavetsthitiḥ (AMBIGUOUS: likely sandhi/compound of bhavet + sthitiḥ, 'could be existence')"
   },
   {
-   "lemma": "kiṃ",
-   "morph": "(indecl.)",
-   "grounds": "rhetorical question"
+   "lemma": "kim",
+   "morph": "n.nom.sg",
+   "grounds": "gloss: what; form: kiṃ"
   },
   {
-   "lemma": "tataḥ",
-   "morph": "(indecl.)",
-   "grounds": "consequence"
+   "lemma": "tatas",
+   "morph": "indecl.",
+   "grounds": "gloss: from-that; form: tataḥ"
   },
   {
-   "lemma": "pratibimbe",
+   "lemma": "pratibimba",
    "morph": "n.loc.sg",
-   "grounds": "location"
+   "grounds": "gloss: in-reflection; form: pratibimbe"
   },
   {
    "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "morph": "indecl.",
+   "grounds": "gloss: indeed; form: hi"
   },
   {
-   "lemma": "bimbaṃ",
+   "lemma": "bimba",
    "morph": "n.nom.sg",
-   "grounds": "subject"
+   "grounds": "gloss: original-image; form: bimbaṃ"
   },
   {
    "lemma": "tādātmyavṛtti",
-   "morph": "n.nom.sg",
-   "grounds": "status"
+   "morph": "f.nom.sg (compound: tādātmya+vṛtti)",
+   "grounds": "gloss: existing-in-identity; form: tādātmyavṛtti (bahuvrīhi/tatpuruṣa compound, AMBIGUOUS: exact compound type)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "gloss: not; form: na"
   }
  ]
 }

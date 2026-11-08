@@ -1,36 +1,36 @@
 {
- "song": "tal-a03",
- "verse": 20,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "dīpacakṣurvibodhānāṃ",
-   "morph": "compound: dīpa+cakṣus+vibodha (m/n.gen.pl)",
-   "grounds": "factors compared to mirror"
+   "lemma": "dīpacakṣurvibodha",
+   "morph": "m.gen.pl",
+   "grounds": "genitive plural of compound 'dīpa-cakṣus-vibodha' (lamp-eye-cognition); gloss 'of-lamp eye and-cognition'"
   },
   {
-   "lemma": "kāṭhinyābhāvataḥ",
-   "morph": "compound: kāṭhinya+abhāva (m.abl.sg) + -tas (indecl.)",
-   "grounds": "they lack solidity"
+   "lemma": "kāṭhinyābhāva",
+   "morph": "m.abl.sg",
+   "grounds": "ablative singular with -tas suffix; gloss 'because-of-absence-of-hardness'"
   },
   {
    "lemma": "param",
-   "morph": "(indecl.)",
-   "grounds": "emphasizes clarity"
+   "morph": "indecl.",
+   "grounds": "indeclinable adverb; gloss 'supremely'"
   },
   {
    "lemma": "sarvataścāpi",
-   "morph": "sarvatas (indecl.) + ca (indecl.) + api (indecl.)",
-   "grounds": "pervasive clarity"
+   "morph": "indecl.",
+   "grounds": "compound of indeclinables 'sarvatas + ca + api'; gloss 'and-also from-all-sides'"
   },
   {
-   "lemma": "nairmalyānna",
-   "morph": "nairmalya (n.abl.sg) + na (indecl.)",
-   "grounds": "reason no separate reflection"
+   "lemma": "nairmalyāt-na",
+   "morph": "indecl.",
+   "grounds": "sandhi of 'nairmalyāt' (abl.sg of nairmalya, 'because-of-purity') + 'na' (indecl. negation, 'not'); AMBIGUOUS as single token containing two words"
   },
   {
-   "lemma": "vibhādarśavatpṛthak",
-   "morph": "vibhā (f.nom.sg) + ādarśavat (indecl.) + pṛthak (indecl.)",
-   "grounds": "no distinct mirror-like image"
+   "lemma": "vibhādarśavat-pṛthak",
+   "morph": "indecl.",
+   "grounds": "sandhi of 'vibhā-darśavat' (like appearance/mirror, indecl. -vat) + 'pṛthak' (indecl., 'separately'); AMBIGUOUS as single token containing two words"
   }
  ]
 }

@@ -1,51 +1,51 @@
 {
- "song": "tal-a03",
- "verse": 58,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "lakṣaṇasya",
+   "lemma": "lakṣaṇa",
    "morph": "n.gen.sg",
-   "grounds": "object of arrangement"
+   "grounds": "of-the-definition (lakṣaṇasya)"
   },
   {
-   "lemma": "vyavasthaiṣākasmāccedbimbamucyatām",
-   "morph": "f.nom.sg + (indecl.)",
-   "grounds": "objection and challenge"
+   "lemma": "vyavasthā-eṣā-ākasmāt-ced-bimba-uc",
+   "morph": "compound+indecl.+indecl.+3sg.imp.pass √vac",
+   "grounds": "if-this-arrangement-is-arbitrary-let-it-be-called-original-image (vyavasthaiṣākasmāccedbimbamucyatām); sandhi/compound of vyavasthā, eṣā, ākasmāt, ced, bimbam, ucyatām"
   },
   {
-   "lemma": "prājñā",
+   "lemma": "prājña",
    "morph": "m.nom.pl",
-   "grounds": "subject"
+   "grounds": "wise-people (prājñāḥ/prājñā)"
   },
   {
-   "lemma": "vastuni",
+   "lemma": "vastu",
    "morph": "n.loc.sg",
-   "grounds": "domain of concern"
+   "grounds": "in-reality (vastuni)"
   },
   {
-   "lemma": "yujyante",
-   "morph": "3.pl.passive-present + yuj",
-   "grounds": "action"
+   "lemma": "yuj",
+   "morph": "3pl.pres.pass √yuj",
+   "grounds": "are-engaged (yujyante)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "not (na)"
   },
   {
    "lemma": "tu",
-   "morph": "(indecl.)",
-   "grounds": "contrast"
+   "morph": "indecl.",
+   "grounds": "but (tu)"
   },
   {
-   "lemma": "sāmayike",
-   "morph": "m.loc.sg",
-   "grounds": "contrasted domain"
+   "lemma": "sāmayika-dhvani",
+   "morph": "m.loc.sg (compound: sāmayika+dhvani)",
+   "grounds": "in-conventional in-sound-or-term (sāmayike dhvanau); split across two tokens"
   },
   {
-   "lemma": "dhvanau",
+   "lemma": "dhvani",
    "morph": "m.loc.sg",
-   "grounds": "contrasted domain"
+   "grounds": "in-sound-or-term (dhvanau); second member of sāmayika-dhvani"
   }
  ]
 }

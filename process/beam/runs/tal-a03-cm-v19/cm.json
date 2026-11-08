@@ -1,56 +1,56 @@
 {
- "song": "tal-a03",
- "verse": 19,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "tasmāttu",
-   "morph": "tasmāt (indecl.) + tu (indecl.)",
-   "grounds": "conclusion from prior argument"
+   "lemma": "tasmāt tu",
+   "morph": "indecl. + indecl.",
+   "grounds": "tasmāt (therefore) + tu (however); sandhi tasmāttu"
   },
   {
-   "lemma": "naiṣa",
-   "morph": "na (indecl.) + eṣa (m.nom.sg)",
-   "grounds": "denies separate existence"
+   "lemma": "na eṣa",
+   "morph": "indecl. + pron.nom.sg.m",
+   "grounds": "na (not) + eṣa (this); sandhi naiṣa"
   },
   {
-   "lemma": "bhedena",
-   "morph": "m.inst.sg",
-   "grounds": "mode of appearance denied"
+   "lemma": "bheda",
+   "morph": "m.ins.sg",
+   "grounds": "bhedena (as-separate), instrumental singular of bheda"
   },
   {
-   "lemma": "yadbhāti",
-   "morph": "yad (n.nom.sg) + bhāti (3.sg.pres.act; √bhā)",
-   "grounds": "the appearing image"
+   "lemma": "yad bhāti",
+   "morph": "pron.nom.sg.n + 3sg.pres.act √bhā",
+   "grounds": "yad (what) + bhāti (appears); sandhi yadbhāti"
   },
   {
-   "lemma": "tata",
-   "morph": "(indecl.)",
-   "grounds": "introduces designation"
+   "lemma": "tatas",
+   "morph": "indecl.",
+   "grounds": "tata/tatas (therefore); final s elided before ucyate"
   },
   {
-   "lemma": "ucyate",
-   "morph": "3.sg.pres.pass; √vac",
-   "grounds": "conventional explanation"
+   "lemma": "vac",
+   "morph": "3sg.pres.pass √vac",
+   "grounds": "ucyate (is-called), passive of √vac"
   },
   {
-   "lemma": "ādhārastatra",
-   "morph": "ādhāra (m.nom.sg) + tatra (indecl.)",
-   "grounds": "mirror called support conventionally"
+   "lemma": "ādhāra tatra",
+   "morph": "m.nom.sg + indecl.",
+   "grounds": "ādhāraḥ (support) + tatra (there); sandhi ādhārastatra"
   },
   {
-   "lemma": "tūpāyā",
-   "morph": "tu (indecl.) + upāya (m.nom.pl)",
-   "grounds": "actual causal aids"
+   "lemma": "tu upāya",
+   "morph": "indecl. + m.nom.pl",
+   "grounds": "tu (but) + upāyāḥ (means); sandhi tūpāyā, nominative plural"
   },
   {
-   "lemma": "dīpadṛksaṃvidaḥ",
-   "morph": "compound: dīpa+dṛś+saṃvid (f.nom.pl)",
-   "grounds": "conditions enabling reflection"
+   "lemma": "dīpa-dṛk-saṃvid",
+   "morph": "f.gen.sg (compound)",
+   "grounds": "dīpa-dṛk-saṃvidaḥ (of lamp, sight and awareness); genitive singular of compound dīpa-dṛk-saṃvid"
   },
   {
    "lemma": "kramāt",
-   "morph": "(indecl.)",
-   "grounds": "ordered contributing factors"
+   "morph": "m.abl.sg",
+   "grounds": "kramāt (in-sequence), ablative singular of krama"
   }
  ]
 }

@@ -1,51 +1,51 @@
 {
- "song": "tal-a03",
- "verse": 55,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "uktaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "citation marker"
+   "lemma": "ukta",
+   "morph": "n.nom.sg.ppp",
+   "grounds": "uktaṃ = it-is-said; past passive participle of √vac"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connector"
+   "morph": "indecl.",
+   "grounds": "ca = and"
   },
   {
-   "lemma": "sati",
-   "morph": "n.loc.sg",
-   "grounds": "condition"
+   "lemma": "sat",
+   "morph": "m/n.loc.sg.pres.part",
+   "grounds": "sati = when-existing; locative absolute, present participle of √as"
   },
   {
-   "lemma": "bāhye@pi",
-   "morph": "n.loc.sg + (indecl.)",
-   "grounds": "concession"
+   "lemma": "bāhya",
+   "morph": "m/n.loc.sg",
+   "grounds": "bāhye = external (loc.sg) + api = even; bāhye@pi"
   },
   {
-   "lemma": "dhīrekānekavedanāt",
+   "lemma": "dhīrekānekavedana",
+   "morph": "compound",
+   "grounds": "dhīr-ekā-aneka-vedanāt = cognition-is-one-because-of-perceiving-many; ablative compound (dhīḥ + ekā + aneka + vedana)"
+  },
+  {
+   "lemma": "anekasadṛśākāra",
    "morph": "f.nom.sg",
-   "grounds": "Buddhist argument"
-  },
-  {
-   "lemma": "anekasadṛśākārā",
-   "morph": "f.nom.sg",
-   "grounds": "describes cognition"
+   "grounds": "anekasadṛśākārā = having-forms-resembling-many; bahuvrīhi compound (aneka + sadṛśa + ākāra)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "na = not"
   },
   {
-   "lemma": "tvaneketi",
-   "morph": "f.nom.sg + (indecl.)",
-   "grounds": "negated conclusion"
+   "lemma": "tu-anekā-iti",
+   "morph": "compound",
+   "grounds": "tvaneketi = but-many-thus; sandhi of tu + anekā + iti"
   },
   {
-   "lemma": "saugataiḥ",
+   "lemma": "saugata",
    "morph": "m.inst.pl",
-   "grounds": "source of citation"
+   "grounds": "saugataiḥ = by-Buddhists"
   }
  ]
 }
