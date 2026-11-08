@@ -1,0 +1,815 @@
+{
+ "song": "Tantraloka a29",
+ "items": [
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "raktavartīñśrutidṛśo",
+     "gloss": "red-wicked-ear-seeing",
+     "grounds": "lamps described as red-wicked and placed at ears and eyes",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīpānkurvīta",
+     "gloss": "lamps-should-make",
+     "grounds": "ritual instruction to prepare lamps",
+     "morph": "verb 3.sg.optative-middle + kṛ"
+    },
+    {
+     "surface": "sarpiṣā",
+     "gloss": "with-ghee",
+     "grounds": "substance used for the lamps",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "yatkiñcidathavā",
+     "gloss": "whatever-or-else",
+     "grounds": "alternative substance may be used",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location of the practice",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svānuṣṭhānaṃ",
+     "gloss": "own-practice",
+     "grounds": "the practitioner's own ritual observance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual instruction to worship",
+     "morph": "verb 3.sg.optative-active + prapūj"
+    }
+   ],
+   "question": "How should lamps be prepared and worship performed in the middle of the rite?",
+   "premises": [
+    "Lamps with red wicks should be placed at the ears and eyes.",
+    "The lamps may be made with ghee or with any other suitable substance.",
+    "In the middle, one should worship one's own practice."
+   ],
+   "inference": "The ritual requires preparing red-wicked lamps at the ears and eyes with ghee or another substance and worshipping one's own practice in the central space.",
+   "uncertainties": [
+    "The exact ritual placement implied by 'ear-seeing' is not fully explicit.",
+    "The compound 'raktavartīñśrutidṛśo' may admit alternative readings."
+   ],
+   "plain_english": "One should prepare lamps with red wicks at the ears and eyes, using ghee or any other suitable substance, and in the middle worship one's own practice."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "advaitameva",
+     "gloss": "non-duality-alone",
+     "grounds": "the supreme teaching affirms non-duality",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of duality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvaitamityājñā",
+     "gloss": "duality-thus-command",
+     "grounds": "the command states that duality is not the truth",
+     "morph": "compound"
+    },
+    {
+     "surface": "parameśituḥ",
+     "gloss": "of-supreme-lord",
+     "grounds": "source of the command",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "siddhāntavaiṣṇavādyuktā",
+     "gloss": "siddhanta-vaishnava-etc-spoken",
+     "grounds": "mantras taught in other systems",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "ritual formulas under discussion",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "malayutāstataḥ",
+     "gloss": "impurity-joined-therefore",
+     "grounds": "such mantras are tainted by impurity",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the supreme lord's command regarding non-duality and other systems' mantras?",
+   "premises": [
+    "The supreme lord's command affirms non-duality alone, not duality.",
+    "Mantras spoken in Siddhanta, Vaishnava, and similar systems are based on dualistic frameworks.",
+    "Because of that dualistic basis, those mantras are joined with impurity."
+   ],
+   "inference": "Since the supreme command is non-dual, mantras from dualistic systems like Siddhanta and Vaishnava are considered impure in this context.",
+   "uncertainties": [
+    "The scope of 'impurity' (ritual, doctrinal, or both) is not specified."
+   ],
+   "plain_english": "The supreme lord's command is non-duality alone, not duality. Therefore, mantras taught in Siddhanta, Vaishnava, and similar systems are joined with impurity."
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "tāvattejo@sahiṣṇutvānnirjīvāḥ",
+     "gloss": "so-long-light-unbearable-thus-lifeless",
+     "grounds": "they cannot endure the light and become lifeless",
+     "morph": "compound"
+    },
+    {
+     "surface": "syurihādvaye",
+     "gloss": "would-be-here-in-non-duality",
+     "grounds": "their status in the non-dual context",
+     "morph": "verb 3.pl.optative-active + as; n.loc.sg"
+    },
+    {
+     "surface": "kalaśaṃ",
+     "gloss": "vessel",
+     "grounds": "ritual item to be set aside",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "netrabandhādi",
+     "gloss": "eye-binding-and-so-on",
+     "grounds": "ritual acts or items beginning with eye-binding",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle-diagram",
+     "grounds": "ritual diagram to be set aside",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sruksruvānalam",
+     "gloss": "ladle-spoon-fire",
+     "grounds": "ritual implements and fire to be set aside",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why are certain ritual elements set aside in this non-dual practice?",
+   "premises": [
+    "In this non-dual context, some elements cannot endure its light and become lifeless.",
+    "The vessel, eye-binding and related acts, the circle diagram, and the ladle, spoon, and fire are listed.",
+    "These items belong to a more elaborate ritual framework."
+   ],
+   "inference": "Because they cannot withstand the non-dual light, the vessel, eye-binding and related rites, the mandala, and the fire implements are to be abandoned here.",
+   "uncertainties": [
+    "The verse states the consequence but implies rather than explicitly states the abandonment; the next verse makes it explicit."
+   ],
+   "plain_english": "In this non-dual setting, such things would be lifeless because they cannot bear its light; therefore the vessel, eye-binding and the like, the mandala, and the ladle, spoon, and fire are set aside."
+  },
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "hitvātra",
+     "gloss": "having-abandoned-here",
+     "grounds": "explicit instruction to leave aside prior elements",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "result of the practice",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sanmadye",
+     "gloss": "in-good-wine",
+     "grounds": "the ritual substance used as the vessel's content",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "in-vessel",
+     "grounds": "container for the offering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central focus of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛśāṃ",
+     "gloss": "the-thin-one",
+     "grounds": "the feminine presence to be worshipped in the center",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "ritual instruction",
+     "morph": "verb 3.sg.optative-active + yaj"
+    },
+    {
+     "surface": "ahorātramimaṃ",
+     "gloss": "day-and-night-this",
+     "grounds": "duration of the rite",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāgaṃ",
+     "gloss": "rite",
+     "grounds": "the ritual performance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurvataścāpare@hani",
+     "gloss": "of-doing-and-on-next-day",
+     "grounds": "continuation of the rite into the following day",
+     "morph": "compound"
+    }
+   ],
+   "question": "What simplified rite brings success after abandoning the earlier ritual elements?",
+   "premises": [
+    "The earlier ritual elements are to be abandoned here.",
+    "Success comes through worship in a vessel of good wine, focusing on the thin one in the middle.",
+    "This rite may be performed through day and night and continued on the next day."
+   ],
+   "inference": "After setting aside the elaborate implements, one attains success by performing this central worship in good wine, continuing it day and night and into the next day.",
+   "uncertainties": [
+    "The identity of 'kṛśāṃ' (the thin one) is not specified in the verse.",
+    "The exact ritual role of the vessel of wine is context-dependent."
+   ],
+   "plain_english": "Having abandoned those things here, one attains success by worshipping the thin one in the middle, in a vessel of good wine. One should perform this rite day and night, and continue it on the following day."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "vīrabhojye",
+     "gloss": "in-hero-feast",
+     "grounds": "ritual meal associated with the hero practice",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛte@vaśyaṃ",
+     "gloss": "done-certainly",
+     "grounds": "when the feast is performed, the result is assured",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "the formulas to be accomplished",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "siddhyantyayatnataḥ",
+     "gloss": "succeed-without-effort",
+     "grounds": "mantras become effective effortlessly",
+     "morph": "verb 3.pl.present-middle + sidh; (indecl.)"
+    },
+    {
+     "surface": "pīṭhastotraṃ",
+     "gloss": "seat-hymn",
+     "grounds": "hymn to the sacred seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭhedatra",
+     "gloss": "should-recite-here",
+     "grounds": "instruction to recite during the rite",
+     "morph": "verb 3.sg.optative-active + paṭh; (indecl.)"
+    },
+    {
+     "surface": "yāge",
+     "gloss": "in-rite",
+     "grounds": "ritual context of the recitation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāgyāvahāhvaye",
+     "gloss": "in-fortune-bringing-invocation",
+     "grounds": "the rite is characterized as bringing good fortune",
+     "morph": "compound"
+    }
+   ],
+   "question": "What results follow from the hero feast and what should be recited in this rite?",
+   "premises": [
+    "When the hero feast is performed, mantras succeed without effort.",
+    "The seat hymn should be recited in this rite.",
+    "The rite is described as bringing good fortune."
+   ],
+   "inference": "Performing the hero feast makes mantra accomplishment effortless, and the practitioner should recite the seat hymn in this fortune-bringing rite.",
+   "uncertainties": [
+    "The specific content of the 'seat hymn' is not given in this verse."
+   ],
+   "plain_english": "When the hero feast is performed, the mantras succeed without effort. In this fortune-bringing rite, one should recite the hymn to the sacred seat."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "mūrtīrevāthavā",
+     "gloss": "forms-or-else",
+     "grounds": "alternative objects of worship",
+     "morph": "f.acc.pl + (indecl.)"
+    },
+    {
+     "surface": "yugmarūpā",
+     "gloss": "pair-formed",
+     "grounds": "the forms appear as couples",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "vīrasvarūpiṇīḥ",
+     "gloss": "hero-natured",
+     "grounds": "the forms embody the hero nature",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "avadhūtā",
+     "gloss": "the-unbound-ones",
+     "grounds": "those who have cast off conventional restraints",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nirācārāḥ",
+     "gloss": "without-conventional-conduct",
+     "grounds": "those beyond ordinary ritual conduct",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pūjayetkramaśo",
+     "gloss": "should-worship-in-order",
+     "grounds": "instruction to worship sequentially",
+     "morph": "verb 3.sg.optative-active + pūj; (indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "the-wise-one",
+     "grounds": "the practitioner who understands the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Whom may the wise practitioner worship in this alternative form of the rite?",
+   "premises": [
+    "The wise practitioner may worship forms that appear as couples and embody the hero nature.",
+    "Alternatively, the worship may be directed to the unbound ones who are beyond conventional conduct.",
+    "The worship should be performed in due order."
+   ],
+   "inference": "In this rite, the wise practitioner may worship either heroic couple-forms or unbound, convention-free practitioners, doing so in proper sequence.",
+   "uncertainties": [
+    "It is unclear whether 'mūrtīḥ' refers to visualized forms, images, or embodied persons.",
+    "The relation between the couple-forms and the unbound ones is not fully specified."
+   ],
+   "plain_english": "Alternatively, the wise one should worship, in order, forms that appear as couples and embody the hero nature, or the unbound ones who are beyond conventional conduct."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "a single practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evātha",
+     "gloss": "indeed-then",
+     "grounds": "emphatic alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kauleśaḥ",
+     "gloss": "kula-lord",
+     "grounds": "the master of the Kula rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "the practitioner acts personally",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtvāpi",
+     "gloss": "even-having-become",
+     "grounds": "by assuming the role himself",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvatīḥ",
+     "gloss": "so-many",
+     "grounds": "the corresponding number of powers",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "śaktīryāmalayogena",
+     "gloss": "powers-by-couple-union",
+     "grounds": "satisfaction through union with the paired powers",
+     "morph": "compound"
+    },
+    {
+     "surface": "tarpayedviśvarūpavat",
+     "gloss": "should-satisfy-like-universal-form",
+     "grounds": "the practitioner satisfies all powers as in a universal form",
+     "morph": "verb 3.sg.optative-active + tṛp; (indecl.)"
+    }
+   ],
+   "question": "How can a single Kula lord perform the satisfaction of all the powers?",
+   "premises": [
+    "A single Kula lord may himself take on the role.",
+    "He can unite with the corresponding powers through the couple practice.",
+    "By doing so, he can satisfy them all as if in a universal form."
+   ],
+   "inference": "One Kula lord alone can satisfy all the powers by personally enacting the couple union, encompassing them like a universal form.",
+   "uncertainties": [
+    "The exact number indicated by 'tāvatīḥ' depends on the preceding ritual context.",
+    "The phrase 'viśvarūpavat' may be doctrinally allusive rather than literal."
+   ],
+   "plain_english": "Or else, a single Kula lord, by himself becoming the agent, may satisfy all those powers through union with the couple, just as in a universal form."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "kramo",
+     "gloss": "sequence",
+     "grounds": "ordered progression in ritual or cognition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaścitsyātprakāśamayasaṃvidi",
+     "gloss": "any-would-be-in-light-made-awareness",
+     "grounds": "no sequence exists in awareness made of light",
+     "morph": "compound"
+    },
+    {
+     "surface": "cidabhāvo",
+     "gloss": "absence-of-awareness",
+     "grounds": "a state without awareness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "reason for the claim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāstyeva",
+     "gloss": "does-not-exist-at-all",
+     "grounds": "awareness is never absent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tenākālaṃ",
+     "gloss": "therefore-timeless",
+     "grounds": "satisfaction is not bound by time",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpaṇam",
+     "gloss": "satisfaction",
+     "grounds": "the act of satisfying the powers",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is there no real sequence or fixed time for satisfaction in this awareness?",
+   "premises": [
+    "In awareness made of light, no sequence truly exists.",
+    "There is never an absence of awareness.",
+    "Satisfaction therefore is not bound by time."
+   ],
+   "inference": "Because awareness is ever-present and luminous, ritual sequence and temporal restriction do not ultimately apply to satisfaction.",
+   "uncertainties": [
+    "The doctrinal force of 'timeless satisfaction' in ritual practice may be stronger than a purely philosophical claim."
+   ],
+   "plain_english": "In awareness made of light there is no real sequence at all, for there is never any absence of awareness. Therefore, satisfaction is timeless."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krame",
+     "gloss": "in-sequence",
+     "grounds": "within the ritual order",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhedataroḥ",
+     "gloss": "of-difference-tree",
+     "grounds": "the tree of differentiation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samūlamunmūlanādāsanapakṣacarcā",
+     "gloss": "from-root-uprooting-seat-side-discussion",
+     "grounds": "because difference is uprooted at the root, side-discussions about seats are unnecessary",
+     "morph": "compound"
+    },
+    {
+     "surface": "pṛthaṅna",
+     "gloss": "separately-not",
+     "grounds": "no separate treatment is fitting",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktā",
+     "gloss": "fitting",
+     "grounds": "appropriate or justified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parameśvaro",
+     "gloss": "supreme-lord",
+     "grounds": "the ultimate reality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "reason for the claim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svaśaktidhāmnīva",
+     "gloss": "as-in-own-power-abode",
+     "grounds": "resting in the abode of his own power",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśaṃśramīti",
+     "gloss": "rests",
+     "grounds": "the supreme lord reposes fully",
+     "morph": "verb 3.sg.present-active + viśram"
+    }
+   ],
+   "question": "Why is separate discussion of ritual seats unnecessary in this sequence?",
+   "premises": [
+    "In this sequence, the tree of difference is uprooted from its root.",
+    "When difference is uprooted, separate discussion of seats and related details is not fitting.",
+    "The supreme lord rests in the abode of his own power."
+   ],
+   "inference": "Because the root of difference is removed and the supreme lord rests in his own power, no separate treatment of ritual seats is needed.",
+   "uncertainties": [
+    "The technical nuance of 'āsanapakṣacarcā' may refer to specific ritual debates not fully recoverable from the verse alone."
+   ],
+   "plain_english": "Here, since the tree of difference is uprooted from its very root, a separate discussion of seats and such matters is not fitting; for the supreme lord rests in the abode of his own power."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "transition to the next practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakartavyastrilakṣādivibhedataḥ",
+     "gloss": "to-be-performed-by-three-hundred-thousand-etc-divisions",
+     "grounds": "recitation is performed in divisions such as three hundred thousand",
+     "morph": "compound"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīyogasañcāre",
+     "gloss": "in-shri-yoga-sancara",
+     "grounds": "source text for the teaching",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "refers to the recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citrasvarūpakaḥ",
+     "gloss": "of-varied-form",
+     "grounds": "the recitation has multiple forms",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is said about the performance and nature of recitation after this stage?",
+   "premises": [
+    "After this, recitation should be performed in divisions such as three hundred thousand.",
+    "This teaching is stated in the Shri Yoga Sancara.",
+    "That recitation is of varied form."
+   ],
+   "inference": "The next step is mantra recitation in set numerical divisions, and according to the Shri Yoga Sancara it takes varied forms.",
+   "uncertainties": [
+    "The full range of divisions implied by 'three hundred thousand etc.' is not specified here."
+   ],
+   "plain_english": "Then recitation should be performed in divisions such as three hundred thousand. This is said in the Shri Yoga Sancara, and that recitation is of varied form."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "udaye",
+     "gloss": "at-rising",
+     "grounds": "point of arising",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṅgame",
+     "gloss": "at-union",
+     "grounds": "point of meeting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāntau",
+     "gloss": "in-peace",
+     "grounds": "point of quiescence",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "trilakṣo",
+     "gloss": "three-hundred-thousand",
+     "grounds": "number of recitations",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "scriptural designation",
+     "morph": "verb 3.sg.present-passive + vac"
+    },
+    {
+     "surface": "āsye",
+     "gloss": "in-mouth",
+     "grounds": "locus of recitation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gamāgame",
+     "gloss": "in-going-and-coming",
+     "grounds": "locus in the movement of breath",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sūtre",
+     "gloss": "in-thread",
+     "grounds": "locus in the subtle channel or thread",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "haṃsākhye",
+     "gloss": "called-hamsa",
+     "grounds": "the breath-mantra known as hamsa",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaivayugmake",
+     "gloss": "in-shaiva-pair",
+     "grounds": "the Shaiva pair as a locus of recitation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the three-hundred-thousand recitation said to be performed?",
+   "premises": [
+    "The three-hundred-thousand recitation is defined in relation to rising, union, and peace.",
+    "It is performed in the mouth, in going and coming, in the thread, in the hamsa, and in the Shaiva pair.",
+    "These are presented as loci or modes of recitation."
+   ],
+   "inference": "The three-hundred-thousand recitation is taught as occurring across specific experiential and bodily loci, including breath, hamsa, and the Shaiva pair.",
+   "uncertainties": [
+    "The precise technical mapping of 'rising, union, peace' to the listed loci is not explicit in the verse.",
+    "The term 'sūtra' may refer to a subtle channel or another technical referent."
+   ],
+   "plain_english": "The three-hundred-thousand recitation is said to occur at rising, union, and peace, in the mouth, in going and coming, in the thread, in what is called hamsa, and in the Shaiva pair."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "pañcalakṣā",
+     "gloss": "five-hundred-thousand",
+     "grounds": "number of recitations",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ime",
+     "gloss": "these",
+     "grounds": "the recitations just described",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "proportion for the fire offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "homamācaret",
+     "gloss": "should-perform-fire-offering",
+     "grounds": "ritual instruction",
+     "morph": "verb 3.sg.optative-active + ācar"
+    },
+    {
+     "surface": "netre",
+     "gloss": "in-eyes",
+     "grounds": "locus of recitation",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "gamāgame",
+     "gloss": "in-going-and-coming",
+     "grounds": "locus in breath movement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "in-mouth",
+     "grounds": "locus of recitation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "haṃse",
+     "gloss": "in-hamsa",
+     "grounds": "locus in the hamsa mantra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caivākṣasūtrake",
+     "gloss": "and-also-in-rosary",
+     "grounds": "locus in the rosary",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the five-hundred-thousand recitation and what offering accompanies it?",
+   "premises": [
+    "These recitations are declared as five hundred thousand.",
+    "A fire offering of one tenth should be performed.",
+    "The loci named include the eyes, going and coming, the mouth, hamsa, and the rosary."
+   ],
+   "inference": "The five-hundred-thousand recitation is performed in these loci and is accompanied by a fire offering equal to one tenth of the recitation.",
+   "uncertainties": [
+    "The verse lists loci but does not fully explain how they combine to total five hundred thousand.",
+    "The relation between this set and the previous three-hundred-thousand set is compressed."
+   ],
+   "plain_english": "These are declared as the five-hundred-thousand recitations, and one should perform a fire offering of one tenth. They are done in the eyes, in going and coming, in the mouth, in hamsa, and also with the rosary."
+  }
+ ]
+}

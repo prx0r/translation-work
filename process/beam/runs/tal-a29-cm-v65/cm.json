@@ -1,56 +1,56 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a29",
+ "verse": 65,
  "rows": [
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "gloss 'not' + form na"
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "tithi + na",
-   "morph": "f.nom.sg + indecl.",
-   "grounds": "gloss 'tithi-not' + form tithirna"
+   "lemma": "tithirna",
+   "morph": "na+tithiḥ f.nom.sg",
+   "grounds": "negated ritual condition"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "gloss 'and' + form ca"
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
   },
   {
-   "lemma": "nakṣatra",
-   "morph": "n.nom/acc.sg",
-   "grounds": "gloss 'nakshatra' + form nakṣatraṃ"
+   "lemma": "nakṣatraṃ",
+   "morph": "n.nom.sg",
+   "grounds": "negated ritual condition"
   },
   {
-   "lemma": "upavāsa + na",
-   "morph": "m.nom.sg + indecl.",
-   "grounds": "gloss 'fasting-not' + form nopavāso"
+   "lemma": "nopavāso",
+   "morph": "na+upavāsaḥ m.nom.sg",
+   "grounds": "negated ritual condition"
   },
   {
-   "lemma": "vidhā",
-   "morph": "3sg.pres.pass √dhā",
-   "grounds": "gloss 'is-prescribed' + form vidhīyate"
+   "lemma": "vidhīyate",
+   "morph": "3.sg.pres.pass √vidh",
+   "grounds": "ritual prescription"
   },
   {
-   "lemma": "grāmya-dharma-rata",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'devoted-to-worldly-dharma' + form grāmyadharmarataḥ"
+   "lemma": "grāmyadharmarataḥ",
+   "morph": "compound m.nom.sg",
+   "grounds": "description of the practitioner"
   },
   {
-   "lemma": "siddh + sarvadā",
-   "morph": "3sg.opt.act √siddh + indecl.",
-   "grounds": "gloss 'succeeds-always' + form siddhyetsarvadā"
+   "lemma": "siddhyetsarvadā",
+   "morph": "3.sg.opt.act √sidh+sarvadā",
+   "grounds": "result of practice"
   },
   {
-   "lemma": "smaraṇa",
-   "morph": "n.instr.sg",
-   "grounds": "gloss 'by-remembrance' + form smaraṇena"
+   "lemma": "smaraṇena",
+   "morph": "n.ins.sg",
+   "grounds": "means of success"
   },
   {
    "lemma": "hi",
-   "morph": "indecl.",
-   "grounds": "gloss 'indeed' + form hi"
+   "morph": "(indecl.)",
+   "grounds": "emphasis"
   }
  ]
 }

@@ -1,0 +1,741 @@
+{
+ "song": "Tantraloka a29",
+ "items": [
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "eḍābhīmudare",
+     "gloss": "in-the-belly-at-eḍābhī",
+     "grounds": "locative of body place",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "hālāṃ",
+     "gloss": "hālā",
+     "grounds": "name of a sacred site",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "in-the-navel",
+     "grounds": "locative of body place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kande",
+     "gloss": "in-the-bulb",
+     "grounds": "locative of body place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gośrutim",
+     "gloss": "gośruti",
+     "grounds": "name of a sacred site",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upasthe",
+     "gloss": "in-the-lap",
+     "grounds": "locative of body place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "marukośaṃ",
+     "gloss": "marukośa",
+     "grounds": "name of a sacred site",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nagaraṃ",
+     "gloss": "the-city",
+     "grounds": "place name element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pauṇḍravardhanam",
+     "gloss": "pauṇḍravardhana",
+     "grounds": "name of a sacred site",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which sacred sites are mapped to the belly, navel, bulb, and lap?",
+   "premises": [
+    "The text continues a body-to-site mapping begun in earlier verses.",
+    "Each body location is paired with a named sacred site in the accusative.",
+    "The belly, navel, bulb, and lap are the body locations named here."
+   ],
+   "inference": "Hālā is placed at the belly near eḍābhī, Gośruti at the navel and bulb, and Marukośa and the city Pauṇḍravardhana at the lap.",
+   "uncertainties": [
+    "The exact parsing of eḍābhīmudare as a compound is somewhat compressed in the text."
+   ],
+   "plain_english": "At the belly by eḍābhī is Hālā; at the navel and at the bulb is Gośruti; and at the lap are Marukośa and the city Pauṇḍravardhana."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "elāpuraṃ",
+     "gloss": "elāpura",
+     "grounds": "name of a sacred site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "purastīraṃ",
+     "gloss": "the-eastern-bank",
+     "grounds": "name of a sacred site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sakthyūrvordakṣiṇāditaḥ",
+     "gloss": "from-the-right-thigh-and-hip",
+     "grounds": "locative-directional body reference",
+     "morph": "compound abl.sg"
+    },
+    {
+     "surface": "kuḍyākeśīṃ",
+     "gloss": "kuḍyākeśī",
+     "grounds": "name of a sacred site",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sopānaṃ",
+     "gloss": "sopāna",
+     "grounds": "name of a sacred site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māyāpūkṣīrake",
+     "gloss": "at-māyāpū-and-kṣīraka",
+     "grounds": "locative of body places",
+     "morph": "compound loc.du.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacred sites are assigned to the right thigh, hip, and the places called māyāpū and kṣīraka?",
+   "premises": [
+    "The verse continues the mapping of sacred sites onto body parts.",
+    "The right thigh and hip are treated as a directional starting point.",
+    "Māyāpū and kṣīraka are named as paired locations."
+   ],
+   "inference": "Elāpura and the Eastern Bank are placed from the right thigh and hip, while Kuḍyākeśī and Sopāna are placed at Māyāpū and Kṣīraka.",
+   "uncertainties": [
+    "The identification of māyāpū and kṣīraka as specific body locations is not explicit in the verse."
+   ],
+   "plain_english": "From the right thigh and hip are Elāpura and the Eastern Bank; likewise, at Māyāpū and Kṣīraka are Kuḍyākeśī and Sopāna."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "jānujaṅghe",
+     "gloss": "at-the-knees-and-calves",
+     "grounds": "locative of body places",
+     "morph": "compound loc.du.n"
+    },
+    {
+     "surface": "gulphayugme",
+     "gloss": "at-the-pair-of-ankles",
+     "grounds": "locative of body place",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "tvāmrātanṛpasadmanī",
+     "gloss": "āmrāta-and-the-king's-palace",
+     "grounds": "names of sacred sites",
+     "morph": "compound acc.du.n"
+    },
+    {
+     "surface": "pādādhāre",
+     "gloss": "at-the-base-of-the-feet",
+     "grounds": "locative of body place",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vairiñcīṃ",
+     "gloss": "vairiñcī",
+     "grounds": "name of a sacred site",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kālāgnyavadhidārikām",
+     "gloss": "kālāgnyavadhidārikā",
+     "grounds": "name of a sacred site",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which sacred sites are mapped to the knees, calves, ankles, and the base of the feet?",
+   "premises": [
+    "The verse assigns sacred sites to lower limb locations.",
+    "Knees and calves are treated as a pair, and the ankles as another pair.",
+    "The base of the feet receives two named sites."
+   ],
+   "inference": "Āmrāta and the King's Palace are placed at the knees, calves, and ankles, while Vairiñcī and Kālāgnyavadhidārikā are placed at the base of the feet.",
+   "uncertainties": [
+    "The distribution of āmrāta and nṛpasadmanī across the paired locations is not specified in detail."
+   ],
+   "plain_english": "At the knees and calves and at the pair of ankles are Āmrāta and the King's Palace; and at the base of the feet are Vairiñcī and Kālāgnyavadhidārikā."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "nāhamasmi",
+     "gloss": "i-am-not",
+     "grounds": "negated self-identification",
+     "morph": "na+aham+1.sg.pres.act √as"
+    },
+    {
+     "surface": "nacānyo@sti",
+     "gloss": "and-no-other-exists",
+     "grounds": "negated otherness",
+     "morph": "na+ca+anyaḥ+3.sg.pres.act √as"
+    },
+    {
+     "surface": "kevalāḥ",
+     "gloss": "only",
+     "grounds": "qualification of powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śaktayastvaham",
+     "gloss": "the-powers-but-i-am",
+     "grounds": "affirmation of identity with powers",
+     "morph": "śaktayaḥ+tu+aham"
+    },
+    {
+     "surface": "ityevaṃvāsanāṃ",
+     "gloss": "such-a-disposition",
+     "grounds": "mental imprint to be cultivated",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "kuryātsarvadā",
+     "gloss": "one-should-make-always",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act √kṛ+sarvadā"
+    },
+    {
+     "surface": "smṛtimātrataḥ",
+     "gloss": "from-mere-remembrance",
+     "grounds": "means of cultivation",
+     "morph": "compound abl.sg"
+    }
+   ],
+   "question": "What contemplative disposition should the practitioner maintain at all times?",
+   "premises": [
+    "The verse negates both the limited self and any separate other.",
+    "It affirms identity with the powers alone.",
+    "It prescribes maintaining this understanding through mere remembrance."
+   ],
+   "inference": "The practitioner should always cultivate the disposition that there is no limited self or other, but only the powers, through simple remembrance.",
+   "uncertainties": [],
+   "plain_english": "One should always maintain, through mere remembrance, the disposition: 'I am not, nor is there another; I am only the powers.'"
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tithirna",
+     "gloss": "not-a-lunar-day",
+     "grounds": "negated ritual condition",
+     "morph": "na+tithiḥ f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nakṣatraṃ",
+     "gloss": "a-lunar-mansion",
+     "grounds": "negated ritual condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nopavāso",
+     "gloss": "not-fasting",
+     "grounds": "negated ritual condition",
+     "morph": "na+upavāsaḥ m.nom.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "ritual prescription",
+     "morph": "3.sg.pres.pass √vidh"
+    },
+    {
+     "surface": "grāmyadharmarataḥ",
+     "gloss": "devoted-to-worldly-observance",
+     "grounds": "description of the practitioner",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "siddhyetsarvadā",
+     "gloss": "succeeds-always",
+     "grounds": "result of practice",
+     "morph": "3.sg.opt.act √sidh+sarvadā"
+    },
+    {
+     "surface": "smaraṇena",
+     "gloss": "by-remembrance",
+     "grounds": "means of success",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual conditions are required for success in this practice?",
+   "premises": [
+    "The verse explicitly denies the need for lunar day, lunar mansion, or fasting.",
+    "It refers to one devoted to worldly observance.",
+    "It states that success comes always through remembrance."
+   ],
+   "inference": "No special calendrical or ascetic conditions are required; constant remembrance alone brings success.",
+   "uncertainties": [
+    "The phrase grāmyadharmarataḥ may describe either the ordinary practitioner or a contrastive case; the verse does not fully clarify."
+   ],
+   "plain_english": "No lunar day, no lunar mansion, and no fasting is prescribed; indeed, one devoted to worldly observance succeeds always through remembrance."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "mātaṅgakṛṣṇasaunikakārmukacārmikavikoṣidhātuvibhedāḥ",
+     "gloss": "the-distinctions-of-elephant-handler-blacksmith-butcher-bow-maker-leather-worker-and-metal-worker",
+     "grounds": "list of social or occupational types",
+     "morph": "compound m.nom.pl"
+    },
+    {
+     "surface": "mātsyikacākrikadayitāsteṣāṃ",
+     "gloss": "the-beloveds-of-fishermen-and-potters-of-them",
+     "grounds": "additional female participants",
+     "morph": "compound f.nom.pl"
+    },
+    {
+     "surface": "patnyo",
+     "gloss": "the-wives",
+     "grounds": "female participants in the rite",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "navātra",
+     "gloss": "nine-here",
+     "grounds": "number in this context",
+     "morph": "nava+atra"
+    },
+    {
+     "surface": "navayāge",
+     "gloss": "in-the-ninefold-sacrifice",
+     "grounds": "ritual setting",
+     "morph": "compound loc.sg.m"
+    }
+   ],
+   "question": "Who are the nine female participants in the ninefold sacrifice described here?",
+   "premises": [
+    "The verse lists several occupational groups and their beloveds or wives.",
+    "It explicitly states that there are nine here.",
+    "The setting is identified as the ninefold sacrifice."
+   ],
+   "inference": "In the ninefold sacrifice, nine women associated with specified occupational groups are the designated participants.",
+   "uncertainties": [
+    "The exact mapping of each occupational term to a specific woman in the count of nine is compressed and not fully explicit."
+   ],
+   "plain_english": "In the ninefold sacrifice, the nine here are the wives or beloveds associated with the elephant-handler, blacksmith, butcher, bow-maker, leather-worker, metal-worker, fishermen, and potters."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "saṅgamavaruṇākulagiryaṭṭahāsajayantīcaritrakāmrakakoṭṭam",
+     "gloss": "saṅgama-varuṇa-ākulagiri-aṭṭahāsa-jayantī-caritra-kāmraka-koṭṭa",
+     "grounds": "list of sacred places",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "haimapuraṃ",
+     "gloss": "haimapura",
+     "grounds": "name of a sacred place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "navamaṃ",
+     "gloss": "the-ninth",
+     "grounds": "ordinal position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syānmadhye",
+     "gloss": "would-be-in-the-middle",
+     "grounds": "placement statement",
+     "morph": "3.sg.opt.act √as+madhye"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-them",
+     "grounds": "reference to the group of women or sites",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakriṇī",
+     "gloss": "the-wheel-bearing-one",
+     "grounds": "chief female figure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "chief",
+     "grounds": "status",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which places form the group of nine and who is chief among them?",
+   "premises": [
+    "The verse lists eight named places and adds Haimapura as the ninth.",
+    "It states that Haimapura would be in the middle.",
+    "It identifies the wheel-bearing one as chief among them."
+   ],
+   "inference": "The nine places are the listed group with Haimapura as the ninth in the middle, and the cakriṇī is the chief among them.",
+   "uncertainties": [
+    "The referent of tāsāṃ could be the women of the previous verse or the places named here; the syntax allows some ambiguity."
+   ],
+   "plain_english": "Saṅgama, Varuṇa, Ākulagiri, Aṭṭahāsa, Jayantī, Caritra, Kāmraka, and Koṭṭa, with Haimapura as the ninth in the middle—among them the wheel-bearing one is chief."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "the-seed",
+     "grounds": "object affected",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "subject, identified as kuṇḍalinī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pīḍayate",
+     "gloss": "presses",
+     "grounds": "action",
+     "morph": "3.sg.pres.act √pīḍ"
+    },
+    {
+     "surface": "rasaśalkavibhāgato@tra",
+     "gloss": "here-by-division-of-essence-and-fragment",
+     "grounds": "mode of action",
+     "morph": "compound abl.sg+atra"
+    },
+    {
+     "surface": "kuṇḍalinī",
+     "gloss": "kuṇḍalinī",
+     "grounds": "name of the power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adhyuṣṭapīṭhanetrī",
+     "gloss": "guide-of-the-inhabited-seat",
+     "grounds": "role of kuṇḍalinī",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "kandasthā",
+     "gloss": "situated-in-the-bulb",
+     "grounds": "location of kuṇḍalinī",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "viśvato",
+     "gloss": "on-all-sides",
+     "grounds": "direction of movement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhramati",
+     "gloss": "moves-around",
+     "grounds": "action",
+     "morph": "3.sg.pres.act √bhram"
+    }
+   ],
+   "question": "How does kuṇḍalinī act upon the seed and where is she situated?",
+   "premises": [
+    "Kuṇḍalinī is named as the agent who presses the seed.",
+    "Her action is described as occurring by division of essence and fragment.",
+    "She is located in the bulb and moves in all directions as guide of the inhabited seat."
+   ],
+   "inference": "Kuṇḍalinī, situated in the bulb and guiding the inhabited seat, presses the seed by dividing essence and fragment and moves on all sides.",
+   "uncertainties": [
+    "The technical meanings of rasa and śalka in this ritual context are not fully determined by the verse alone."
+   ],
+   "plain_english": "Here Kuṇḍalinī presses the seed by dividing essence and fragment; situated in the bulb and guiding the inhabited seat, she moves on all sides."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "iṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "absolutive √yaj"
+    },
+    {
+     "surface": "cakrodayaṃ",
+     "gloss": "the-arising-of-the-wheel",
+     "grounds": "object of worship",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "tvitthaṃ",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "tu+ittham"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "location of worship",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "injunction",
+     "morph": "f.nom.sg gerundive √pūj"
+    },
+    {
+     "surface": "kuleśvarī",
+     "gloss": "the-mistress-of-the-kula",
+     "grounds": "deity to be worshipped",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṅkarṣiṇī",
+     "gloss": "the-drawing-together-one",
+     "grounds": "epithet of the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadantānte",
+     "gloss": "at-the-end-of-that-end",
+     "grounds": "ritual location or phase",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "saṃhārāpyāyakāriṇī",
+     "gloss": "causing-dissolution-and-nourishment",
+     "grounds": "function of the deity",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "Who should be worshipped in the middle after the arising of the wheel?",
+   "premises": [
+    "The arising of the wheel is worshipped first.",
+    "The mistress of the kula is to be worshipped in the middle.",
+    "She is described as drawing together and causing both dissolution and nourishment."
+   ],
+   "inference": "After worshipping the arising of the wheel, the practitioner should worship Kuleśvarī in the middle as Saṅkarṣiṇī, who dissolves and nourishes.",
+   "uncertainties": [
+    "The phrase tadantānte is obscure and may indicate a specific ritual boundary or concluding phase."
+   ],
+   "plain_english": "Having thus worshipped the arising of the wheel, one should worship Kuleśvarī in the middle—Saṅkarṣiṇī, who at the end of that end brings about both dissolution and nourishment."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "ekavīrā",
+     "gloss": "the-solitary-heroine",
+     "grounds": "form of the deity or practice",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cakrayuktā",
+     "gloss": "joined-with-the-wheel",
+     "grounds": "qualification",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "cakrayāmalagāpi",
+     "gloss": "also-going-in-the-wheel-yāmala",
+     "grounds": "alternative mode",
+     "morph": "compound f.nom.sg+api"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśendrāgniyamakravyātkavāyūdakṣu",
+     "gloss": "in-īśa-indra-agni-yama-kravyāt-vāyu-and-udak",
+     "grounds": "directional or guardian sequence",
+     "morph": "compound loc.sg"
+    },
+    {
+     "surface": "hāsataḥ",
+     "gloss": "from-laughter",
+     "grounds": "starting point or mode",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "In what forms or modes may the solitary heroine be approached in the wheel?",
+   "premises": [
+    "The verse names Ekavīrā as joined with the wheel.",
+    "It allows an alternative mode connected with the wheel-yāmala.",
+    "It refers to a sequence involving Īśa, Indra, Agni, Yama, Kravyāt, Vāyu, and Udak, beginning from laughter."
+   ],
+   "inference": "Ekavīrā may be approached either joined with the wheel or in the wheel-yāmala mode, following the named guardian sequence from laughter.",
+   "uncertainties": [
+    "The exact ritual application of the guardian sequence and the phrase hāsataḥ is not fully explicit."
+   ],
+   "plain_english": "The solitary heroine may be joined with the wheel, or also approached in the wheel-yāmala mode, in the sequence of Īśa, Indra, Agni, Yama, Kravyāt, Vāyu, and Udak, beginning from laughter."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "trikaṃ",
+     "gloss": "a-triad",
+     "grounds": "ritual unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "trikaṃ",
+     "gloss": "a-triad",
+     "grounds": "repeated ritual unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yajedetadbhāvisvatrikasaṃyutam",
+     "gloss": "one-should-worship-this-joined-with-the-future-own-triad",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act √yaj+compound n.acc.sg"
+    },
+    {
+     "surface": "hṛtkuṇḍalī",
+     "gloss": "the-heart-and-kuṇḍalinī",
+     "grounds": "first locus in the sequence",
+     "morph": "compound nom.du or nom.sg"
+    },
+    {
+     "surface": "bhruvormadhyametadeva",
+     "gloss": "the-middle-of-the-eyebrows-this-indeed",
+     "grounds": "second locus in the sequence",
+     "morph": "compound n.nom.sg+etad+eva"
+    },
+    {
+     "surface": "kramāttrayam",
+     "gloss": "the-three-in-sequence",
+     "grounds": "ordered set",
+     "morph": "kramāt+n.acc.sg"
+    }
+   ],
+   "question": "How should the triads be worshipped and in what bodily sequence?",
+   "premises": [
+    "The verse instructs worship of triad after triad joined with the future own triad.",
+    "It names the heart, kuṇḍalinī, and the middle of the eyebrows.",
+    "It states that these form a sequence of three."
+   ],
+   "inference": "One should worship the triads in sequence, joined with the future own triad, at the heart and kuṇḍalinī, then at the middle of the eyebrows, as a threefold order.",
+   "uncertainties": [
+    "The expression bhāvisvatrikasaṃyutam is doctrinally compressed and its precise technical referent is unclear."
+   ],
+   "plain_english": "One should worship triad after triad, joined with the future own triad: in sequence, the heart and kuṇḍalinī, and then the middle of the eyebrows—these three in order."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "śmaśānāni",
+     "gloss": "the-cremation-grounds",
+     "grounds": "ritual sites",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kramātkṣetrabhavaṃ",
+     "gloss": "in-sequence-the-field-born-group",
+     "grounds": "ordered manifestation",
+     "morph": "kramāt+compound m.acc.sg"
+    },
+    {
+     "surface": "sadyoginīgaṇam",
+     "gloss": "together-with-the-group-of-yoginīs",
+     "grounds": "associated powers",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "vasvaṅgulonnatānūrdhvavartulān",
+     "gloss": "raised-eight-fingers-high-upward-and-round",
+     "grounds": "physical description",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "kṣāmamadhyakān",
+     "gloss": "slender-in-the-middle",
+     "grounds": "physical description",
+     "morph": "compound m.acc.pl"
+    }
+   ],
+   "question": "How are the cremation grounds and the associated yoginī group to be visualized or established?",
+   "premises": [
+    "The verse names cremation grounds in sequence.",
+    "It includes the field-born group together with the group of yoginīs.",
+    "It gives a physical description: eight fingers high, upward, round, and slender in the middle."
+   ],
+   "inference": "The cremation grounds are to be taken in sequence with the field-born group and the yoginīs, formed as shapes eight fingers high, upward, round, and slender in the middle.",
+   "uncertainties": [
+    "The verse is elliptical and does not supply an explicit main verb such as 'visualize' or 'establish'."
+   ],
+   "plain_english": "In sequence, the cremation grounds, the field-born group, together with the group of yoginīs—raised eight fingers high, upward and round, slender in the middle."
+  }
+ ]
+}
