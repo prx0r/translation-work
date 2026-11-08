@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 358,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "tato",
-   "morph": "(indecl.)",
-   "grounds": "sequence"
+   "lemma": "tatas",
+   "morph": "indecl.",
+   "grounds": "tato = then (indeclinable)"
   },
   {
-   "lemma": "japaṃ",
+   "lemma": "japa",
    "morph": "m.acc.sg",
-   "grounds": "ritual action"
+   "grounds": "japaṃ = recitation (accusative singular masculine)"
   },
   {
-   "lemma": "prakurvīta",
-   "morph": "3.sg.opt.mid √kṛ+pra",
-   "grounds": "injunction"
+   "lemma": "prakṛ",
+   "morph": "3sg.opt.mid √kṛ",
+   "grounds": "prakurvīta = one-should-perform (optative middle, 3rd singular, root √kṛ with pra)"
   },
   {
-   "lemma": "pratimantraṃ",
-   "morph": "(indecl.)",
-   "grounds": "distribution"
+   "lemma": "pratimantram",
+   "morph": "indecl.",
+   "grounds": "pratimantraṃ = for-each-mantra (avyayībhāva/indeclinable)"
   },
   {
    "lemma": "dvipañcadhā",
-   "morph": "(indecl.)",
-   "grounds": "count"
+   "morph": "indecl.",
+   "grounds": "dvipañcadhā = ten-times (indeclinable numeral adverb)"
   },
   {
-   "lemma": "ekaikasya",
+   "lemma": "ekaika",
    "morph": "m.gen.sg",
-   "grounds": "distribution"
+   "grounds": "ekaikasya = of-each-one (genitive singular masculine)"
   },
   {
-   "lemma": "tryātmakatvādabhedāccāpi",
-   "morph": "tri-ātmakatvāt n.abl.sg + abhedāt m.abl.sg + ca (indecl.) + api (indecl.)",
-   "grounds": "reason"
+   "lemma": "tryātmakatva-abheda-ca-api",
+   "morph": "compound: tryātmakatva+abheda+ca+api",
+   "grounds": "tryātmakatvādabhedāccāpi = from-threefold-nature-and-also-non-difference (ablative compound/sandhi: tryātmakatvāt + abhedāt + ca + api)"
   },
   {
-   "lemma": "sarvaśaḥ",
-   "morph": "(indecl.)",
-   "grounds": "totality"
+   "lemma": "sarvaśas",
+   "morph": "indecl.",
+   "grounds": "sarvaśaḥ = in-all-respects (indeclinable)"
   }
  ]
 }

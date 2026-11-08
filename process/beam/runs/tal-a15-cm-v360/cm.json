@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 360,
+ "song": "...",
+ "verse": 1,
  "rows": [
   {
    "lemma": "dīkṣākarmaṇi",
-   "morph": "dīkṣā-karmaṇi n.loc.sg",
-   "grounds": "ritual context"
+   "morph": "comp. dīkṣā + karman, n.loc.sg.",
+   "grounds": "Gloss 'in-the-act-of-initiation'; compound dīkṣā-karman with locative ending -i (n.loc.sg.)."
   },
   {
    "lemma": "kartavye",
-   "morph": "n.loc.sg gerundive √kṛ",
-   "grounds": "obligation"
+   "morph": "kṛtavya, n.nom./loc.sg. (or m./n.loc.sg.), gerundive",
+   "grounds": "Gloss 'to-be-done'; gerundive of √kṛ with -tavya, ending -e matches n.loc.sg. or m.loc.sg.; context favors locative/attributive (AMBIGUOUS: nom./loc. distinction possible)."
   },
   {
-   "lemma": "dīkṣāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "ritual act"
+   "lemma": "dīkṣām",
+   "morph": "dīkṣā, f.acc.sg.",
+   "grounds": "Gloss 'initiation'; feminine noun dīkṣā with accusative ending -ām."
   },
   {
    "lemma": "yenādhvanā",
-   "morph": "yena m.inst.sg + adhvanā m.inst.sg",
-   "grounds": "method"
+   "morph": "comp. yena + adhvanā, m.instr.sg. (relative + noun)",
+   "grounds": "Gloss 'by-which-path'; relative pronoun ya- m.instr.sg. yena + adhvan m.instr.sg. adhvanā (sandhi); compound/member analysis yena + adhvan."
   },
   {
    "lemma": "guruḥ",
-   "morph": "m.nom.sg",
-   "grounds": "agent"
+   "morph": "guru, m.nom.sg.",
+   "grounds": "Gloss 'the-teacher'; masculine noun guru with nominative singular ending -ḥ."
   },
   {
    "lemma": "cikīrṣurdeha",
-   "morph": "cikīrṣuḥ m.nom.sg desid.adj √kṛ + dehe m.loc.sg",
-   "grounds": "intention"
+   "morph": "comp. cikīrṣu + deha, m.nom.sg.",
+   "grounds": "Gloss 'desiring-to-do-in-the-body'; desiderative participle/adjectival cikīrṣu (from √kṛ, desiderative) + deha m.nom.sg.; bahuvrīhi-like compound (member+membership)."
   },
   {
    "lemma": "evādau",
-   "morph": "eva (indecl.) + ādau (indecl.)",
-   "grounds": "sequence"
+   "morph": "comp. eva + ādau, (indecl.) + m.loc.sg.",
+   "grounds": "Gloss 'indeed-at-first'; eva (indecl.) + ādi m.loc.sg. ādau; adverbial compound with locative of ādi."
   },
   {
    "lemma": "bhūyastaṃ",
-   "morph": "bhūyaḥ (indecl.) + tam m.acc.sg",
-   "grounds": "reference"
+   "morph": "bhūyas, n.acc.sg. (or m.acc.sg.)",
+   "grounds": "Gloss 'again-that'; comparative adverbial/nominal bhūyas with accusative ending -tam; anaphoric use here (AMBIGUOUS: degree/adverbial force possible)."
   },
   {
    "lemma": "mukhyato@rpayet",
-   "morph": "mukhyataḥ (indecl.) + arpayet 3.sg.opt.caus.act √ṛ",
-   "grounds": "injunction"
+   "morph": "3sg.pres.opt./pres.mid? √ṛ + upa (upa-√ṛ), 3sg.pres.mid./opt. (contextual), mukhyatas (indecl. adverb)",
+   "grounds": "Gloss 'should-primarily-apply'; mukhyatas (indecl., 'primarily') + upa-√ṛ 'to apply/reach'; form -arpayet corresponds to 3sg. optative/present of causative upa-√ṛ (upa + ṛ causative) — AMBIGUOUS: tense/mood (pres.opt. vs pres.ind.) not fully determinable from form alone."
   }
  ]
 }

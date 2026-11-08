@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 354,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "śaktyaṅgāni",
-   "morph": "śakti-aṅgāni n.acc.pl",
-   "grounds": "mantra group"
+   "lemma": "śaktyaṅga",
+   "morph": "n.nom.pl",
+   "grounds": "śaktyaṅgāni = limbs-of-the-power; compound śakti+aṅga, neuter nominative plural"
   },
   {
-   "lemma": "śivāṅgāni",
-   "morph": "śiva-aṅgāni n.acc.pl",
-   "grounds": "mantra group"
+   "lemma": "śivāṅga",
+   "morph": "n.nom.pl",
+   "grounds": "śivāṅgāni = limbs-of-shiva; compound śiva+aṅga, neuter nominative plural"
   },
   {
-   "lemma": "tathaivātra",
-   "morph": "tathā (indecl.) + eva (indecl.) + atra (indecl.)",
-   "grounds": "parallel placement"
+   "lemma": "tathaiva+atra",
+   "morph": "indecl.+indecl.",
+   "grounds": "tathaivātra = likewise-here; sandhi of tathā+eva+atra (indeclinables)"
   },
   {
-   "lemma": "punardvaye",
-   "morph": "punar (indecl.) + dvaye n.loc.sg",
-   "grounds": "locus"
+   "lemma": "punar+dvaya",
+   "morph": "indecl.+n.loc.sg",
+   "grounds": "punardvaye = again-in-the-pair; punar (indecl.) + dvaya, neuter locative singular"
   },
   {
-   "lemma": "astraṃ",
+   "lemma": "astra",
    "morph": "n.acc.sg",
-   "grounds": "mantra"
+   "grounds": "astraṃ = weapon-mantra; neuter accusative singular"
   },
   {
-   "lemma": "nyasyeccaturdikkaṃ",
-   "morph": "nyasyet 3.sg.opt.act √nyas + catur-dikkam (indecl.)",
-   "grounds": "injunction"
+   "lemma": "nyas+caturdiś",
+   "morph": "3sg.opt.act √nyas + indecl.",
+   "grounds": "nyasyeccaturdikkaṃ = one-should-place-in-four-directions; nyasyet (3sg.opt.act √nyas) + caturdiśam/caturdikkam (indeclinable adverbial form, AMBIGUOUS exact derivation)"
   },
   {
-   "lemma": "madhye",
+   "lemma": "madhya",
    "morph": "n.loc.sg",
-   "grounds": "locus"
+   "grounds": "madhye = in-the-middle; neuter locative singular"
   },
   {
-   "lemma": "locanasaṃjñakam",
-   "morph": "locana-saṃjñakam n.acc.sg",
-   "grounds": "mantra name"
+   "lemma": "locanasaṃjñaka",
+   "morph": "n.acc.sg",
+   "grounds": "locanasaṃjñakam = called-locana; compound locana+saṃjñaka, neuter accusative singular"
   }
  ]
 }

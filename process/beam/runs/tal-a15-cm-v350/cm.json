@@ -1,71 +1,71 @@
 {
- "song": "tal-a15",
- "verse": 350,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "avikalpamiha",
-   "morph": "avikalpam n.nom.sg + iha (indecl.)",
-   "grounds": "state"
+   "lemma": "avikalpa",
+   "morph": "m.nom.sg (sandhi: avikalpaḥ + iha)",
+   "grounds": "non-conceptual-here; sandhi form of avikalpaḥ iha"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "not"
   },
   {
-   "lemma": "yāti",
-   "morph": "3.sg.pres.act √yā",
-   "grounds": "attainment"
+   "lemma": "yā",
+   "morph": "3sg.pres.act √yā",
+   "grounds": "goes-to"
   },
   {
    "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "morph": "indecl.",
+   "grounds": "indeed"
   },
   {
-   "lemma": "pūjyatvaṃ",
+   "lemma": "pūjyatva",
    "morph": "n.acc.sg",
-   "grounds": "ritual status"
+   "grounds": "worshippability"
   },
   {
-   "lemma": "naca",
-   "morph": "na (indecl.) + ca (indecl.)",
-   "grounds": "negation"
+   "lemma": "na ca",
+   "morph": "indecl. + indecl. (sandhi: na + ca)",
+   "grounds": "and-not; sandhi form naca"
   },
   {
    "lemma": "vikalpa",
    "morph": "m.nom.sg",
-   "grounds": "state"
+   "grounds": "conceptual-construction"
   },
   {
    "lemma": "ekatra",
-   "morph": "(indecl.)",
-   "grounds": "locus"
+   "morph": "indecl.",
+   "grounds": "in-one-place"
   },
   {
-   "lemma": "bahavo",
+   "lemma": "bahu",
    "morph": "m.nom.pl",
-   "grounds": "plurality"
+   "grounds": "many"
   },
   {
-   "lemma": "dharmāstasmād",
-   "morph": "dharmāḥ m.nom.pl + tasmāt (indecl.)",
-   "grounds": "reasoning"
+   "lemma": "dharma tasmāt",
+   "morph": "m.nom.pl + indecl. (sandhi: dharmāḥ + tasmāt)",
+   "grounds": "attributes-therefore; sandhi form dharmāstasmād"
   },
   {
-   "lemma": "yo",
+   "lemma": "yad",
    "morph": "m.nom.sg",
-   "grounds": "relative"
+   "grounds": "which"
   },
   {
-   "lemma": "dharmastāvato",
-   "morph": "dharmaḥ m.nom.sg + tāvataḥ m.acc.pl",
-   "grounds": "scope"
+   "lemma": "dharma tāvat",
+   "morph": "m.nom.sg + indecl. (sandhi: dharmaḥ + tāvataḥ/tāvat; AMBIGUOUS)",
+   "grounds": "attribute-that-many; sandhi form dharmastāvato, tāvato form AMBIGUOUS"
   },
   {
-   "lemma": "dharmān",
+   "lemma": "dharma",
    "morph": "m.acc.pl",
-   "grounds": "object"
+   "grounds": "attributes"
   }
  ]
 }

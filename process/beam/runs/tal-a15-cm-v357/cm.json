@@ -1,26 +1,26 @@
 {
- "song": "tal-a15",
- "verse": 357,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "itthaṃ",
-   "morph": "(indecl.)",
-   "grounds": "manner"
+   "lemma": "ittham",
+   "morph": "indecl.",
+   "grounds": "indeclinable adverb = 'thus'"
   },
   {
-   "lemma": "triśūlaparyantadevītādātmyavṛttitaḥ",
-   "morph": "triśūla-paryanta-devī-tādātmya-vṛttitaḥ (indecl.)",
-   "grounds": "meditative stance"
+   "lemma": "triśūlaparyantadevītādātmyavṛtti",
+   "morph": "f.abl.sg (compound: triśūla+paryanta+devī+tādātmya+vṛtti)",
+   "grounds": "ablative singular of compound noun = 'by-abiding-in-identity-with-goddesses-up-to-trident'"
   },
   {
-   "lemma": "tiṣṭhannatrārpayanviśvaṃ",
-   "morph": "tiṣṭhan m.nom.sg pres.part √sthā + atra (indecl.) + arpayan m.nom.sg pres.part √ṛ + viśvam n.acc.sg",
-   "grounds": "ritual action"
+   "lemma": "tiṣṭhat+atra+arpayat+viśva",
+   "morph": "m.nom.sg.pres.act.ptc √sthā + indecl. + m.nom.sg.pres.act.caus.ptc √ṛ + n.acc.sg",
+   "grounds": "compound token: tiṣṭhan = 'standing' (pres. act. ptc.), atra = 'here' (indecl.), arpayan = 'offering' (caus. pres. act. ptc.), viśvam = 'the-universe' (acc. sg.); parsed as a sandhi-joined sequence"
   },
   {
-   "lemma": "tarpayeddevatāgaṇam",
-   "morph": "tarpayet 3.sg.opt.act √tṛp + devatā-gaṇam m.acc.sg",
-   "grounds": "injunction"
+   "lemma": "tarpay+devatāgaṇa",
+   "morph": "3sg.opt.act.caus √tṛp + m.acc.sg (compound: devatā+gaṇa)",
+   "grounds": "compound token: tarpayet = 'one-should-satisfy' (caus. optative 3sg.), devatāgaṇam = 'the-host-of-deities' (acc. sg. compound); parsed as a sandhi-joined sequence"
   }
  ]
 }

@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 368,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "yastu",
-   "morph": "compound",
-   "grounds": "subject"
+   "lemma": "yaḥ tu",
+   "morph": "m.nom.sg + indecl.",
+   "grounds": "yastu = yaḥ (relative pronoun, m.nom.sg) + tu (indeclinable particle) 'but whoever'"
   },
   {
-   "lemma": "siddhyādivimukhaḥ",
-   "morph": "compound",
-   "grounds": "qualification"
+   "lemma": "siddhyādivimukha",
+   "morph": "m.nom.sg (bahuvrīhi/tatpuruṣa compound)",
+   "grounds": "siddhyādivimukhaḥ = siddhi-ādi-vimukha 'turned away from powers and such', m.nom.sg"
   },
   {
-   "lemma": "sa",
+   "lemma": "tad",
    "morph": "m.nom.sg",
-   "grounds": "subject"
+   "grounds": "sa = tad (demonstrative pronoun) 'he', m.nom.sg"
   },
   {
-   "lemma": "bahiryajati",
-   "morph": "3.sg.present.active + yaj",
-   "grounds": "action"
+   "lemma": "bahiryaj",
+   "morph": "3sg.pres.act √yaj",
+   "grounds": "bahiryajati = bahis + yajati 'worships outwardly', 3sg.pres.act √yaj"
   },
   {
-   "lemma": "prabhum",
+   "lemma": "prabhu",
    "morph": "m.acc.sg",
-   "grounds": "object"
+   "grounds": "prabhum = prabhu 'the Lord', m.acc.sg"
   },
   {
-   "lemma": "antarmahāyāgarūḍhyai",
-   "morph": "compound",
-   "grounds": "purpose"
+   "lemma": "antarmahāyāgarūḍhi",
+   "morph": "f.dat.sg (compound)",
+   "grounds": "antarmahāyāgarūḍhyai = antar-mahā-yāga-rūḍhi 'for ascent into the inner great worship', f.dat.sg"
   },
   {
-   "lemma": "tayaivāsau",
-   "morph": "compound",
-   "grounds": "result"
+   "lemma": "tad eva asau",
+   "morph": "f.ins.sg + indecl. + m.nom.sg",
+   "grounds": "tayaivāsau = tayā (f.ins.sg of tad) + eva (indeclinable) + asau (m.nom.sg demonstrative) 'by that very means he'"
   },
   {
-   "lemma": "kṛtārthakaḥ",
+   "lemma": "kṛtārthaka",
    "morph": "m.nom.sg",
-   "grounds": "result"
+   "grounds": "kṛtārthakaḥ = kṛta-arthaka 'has attained his goal', m.nom.sg"
   }
  ]
 }

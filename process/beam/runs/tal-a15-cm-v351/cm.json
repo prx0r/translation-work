@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 351,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ākṣipati",
-   "morph": "3.sg.pres.act √kṣip+ā",
-   "grounds": "function"
+   "lemma": "ākṣip",
+   "morph": "3sg.pres.act √ākṣip",
+   "grounds": "ākṣipati = draws-in"
   },
   {
    "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "locus"
+   "morph": "indecl.",
+   "grounds": "tatra = there"
   },
   {
-   "lemma": "rūḍhaḥ",
-   "morph": "m.nom.sg past-part √ruh",
-   "grounds": "status"
+   "lemma": "rūḍha",
+   "morph": "m.nom.sg",
+   "grounds": "rūḍhaḥ = established"
   },
   {
-   "lemma": "sarvotkṛṣṭo@dharasthitāstvanye",
-   "morph": "sarva-utkṛṣṭaḥ m.nom.sg + adhara-sthitāḥ m.nom.pl + tu (indecl.) + anye m.nom.pl",
-   "grounds": "hierarchy"
+   "lemma": "sarvotkṛṣṭa+dharasthita+tu+anya",
+   "morph": "compound (m.nom.sg + m.nom.pl + indecl. + m.nom.pl)",
+   "grounds": "sarvotkṛṣṭo@dharasthitāstvanye = supreme-while-others-stand-lower (sandhi/compound split: sarvotkṛṣṭaḥ + dharasthitāḥ + tu + anye)"
   },
   {
    "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "conclusion"
+   "morph": "indecl.",
+   "grounds": "iti = thus"
   },
   {
-   "lemma": "bhairavaparapūjātattvaṃ",
-   "morph": "bhairava-para-pūjā-tattvam n.nom.sg",
-   "grounds": "doctrine"
+   "lemma": "bhairavaparapūjātattva",
+   "morph": "n.nom.sg (compound)",
+   "grounds": "bhairavaparapūjātattvaṃ = principle-of-supreme-bhairava-worship"
   },
   {
-   "lemma": "śrīḍāmare",
-   "morph": "śrī-ḍāmare m.loc.sg",
-   "grounds": "source text"
+   "lemma": "śrīḍāmara",
+   "morph": "m.loc.sg",
+   "grounds": "śrīḍāmare = in-the-revered-ḍāmara"
   },
   {
-   "lemma": "mahāyāge",
-   "morph": "mahā-yāge m.loc.sg",
-   "grounds": "ritual context"
+   "lemma": "mahāyāga",
+   "morph": "m.loc.sg",
+   "grounds": "mahāyāge = in-the-great-rite"
   }
  ]
 }

@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 366,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "itthaṃ",
-   "morph": "(indecl.)",
-   "grounds": "summary"
+   "lemma": "ittham",
+   "morph": "indecl.",
+   "grounds": "itthaṃ = in this way (indeclinable adverb)"
   },
   {
-   "lemma": "prāṇādvyomapadaparyantaṃ",
-   "morph": "compound",
-   "grounds": "range"
+   "lemma": "prāṇādvyomapadaparyanta",
+   "morph": "m.acc.sg (compound: prāṇa+ādi+vyoma+pada+paryanta)",
+   "grounds": "prāṇādvyomapadaparyantaṃ = from breath up to the level of space (ablative sense in compound context, accusative form; compound)"
   },
   {
-   "lemma": "cetanaṃ",
+   "lemma": "cetana",
    "morph": "n.acc.sg",
-   "grounds": "object to be transformed"
+   "grounds": "cetanaṃ = consciousness (neuter accusative singular)"
   },
   {
-   "lemma": "nijam",
+   "lemma": "nija",
    "morph": "n.acc.sg",
-   "grounds": "qualifies consciousness"
+   "grounds": "nijam = one's own (neuter accusative singular, agreeing with cetanaṃ)"
   },
   {
-   "lemma": "śivībhāvyārcanāyogāttato",
-   "morph": "compound",
-   "grounds": "method"
+   "lemma": "śivībhāvyārcanāyogāt+tatas",
+   "morph": "indecl. (compound: śivībhāvya+arcana+yoga + abl.sg/indecl. + tatas)",
+   "grounds": "śivībhāvyārcanāyogāttato = then through worship-yoga by making it Śiva (compound with ablative ending -yogāt and indeclinable tatas)"
   },
   {
-   "lemma": "bāhyaṃ",
+   "lemma": "bāhya",
    "morph": "m.acc.sg",
-   "grounds": "qualifies rite"
+   "grounds": "bāhyaṃ = external (masculine accusative singular, agreeing with vidhiṃ)"
   },
   {
-   "lemma": "vidhiṃ",
+   "lemma": "vidhi",
    "morph": "m.acc.sg",
-   "grounds": "object"
+   "grounds": "vidhiṃ = rite (masculine accusative singular)"
   },
   {
-   "lemma": "caret",
-   "morph": "3.sg.optative + car",
-   "grounds": "instruction"
+   "lemma": "√car",
+   "morph": "3sg.opt.act √car",
+   "grounds": "caret = one should perform (third person singular optative active of √car)"
   }
  ]
 }
