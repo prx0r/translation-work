@@ -1,69 +1,1253 @@
 {
- "song": "Tantraloka 8.403-408",
+ "song": "Tantraloka a08 385-408",
  "items": [
+  {
+   "verse": 385,
+   "rows": [
+    {
+     "surface": "ardhamātraḥ",
+     "gloss": "half-measure",
+     "grounds": "a subtle unit of sound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛto",
+     "gloss": "remembered",
+     "grounds": "is taught as",
+     "morph": "m.nom.sg.past-passive-part smṛ"
+    },
+    {
+     "surface": "bindurvyomarūpī",
+     "gloss": "bindu-sky-formed",
+     "grounds": "bindu having the form of space",
+     "morph": "m.nom.sg compound bindu+vyoma+rūpin"
+    },
+    {
+     "surface": "catuṣkalaḥ",
+     "gloss": "four-phased",
+     "grounds": "having four kalas",
+     "morph": "m.nom.sg compound catur+kalā"
+    },
+    {
+     "surface": "tadardhamardhacandrastadaṣṭāṃśena",
+     "gloss": "its-half-half-moon-by-its-eighth-part",
+     "grounds": "half of that is the half-moon, by an eighth of that",
+     "morph": "m.nom.sg compound tad+ardha+ardha-candra+tad+aṣṭāṃśa"
+    },
+    {
+     "surface": "nirodhikā",
+     "gloss": "restraining-power",
+     "grounds": "the obstructing kalā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are the subtle sound units from bindu to nirodhikā defined?",
+   "premises": [
+    "The half-measure is taught as bindu in the form of space.",
+    "Bindu is described as having four kalas.",
+    "Half of bindu is the half-moon, and by an eighth of that comes nirodhikā."
+   ],
+   "inference": "The verse maps a descending sequence of subtle sound measures from bindu through half-moon to nirodhikā.",
+   "uncertainties": [
+    "The exact mathematical parsing of tadardhamardhacandrastadaṣṭāṃśena is compressed and may allow slight variation."
+   ],
+   "plain_english": "The half-measure is called bindu, which has the form of space and four phases. Half of that is the half-moon, and by an eighth part of that comes nirodhikā."
+  },
+  {
+   "verse": 386,
+   "rows": [
+    {
+     "surface": "hetūnbrahmādikān",
+     "gloss": "causes-beginning-with-brahma",
+     "grounds": "the causal lords starting with Brahma",
+     "morph": "m.acc.pl compound hetu+brahma+ādika"
+    },
+    {
+     "surface": "runddhe",
+     "gloss": "obstructs",
+     "grounds": "blocks or restrains",
+     "morph": "3.sg.pres.act rudh"
+    },
+    {
+     "surface": "rodhikāṃ",
+     "gloss": "restraining-power",
+     "grounds": "the obstructing kalā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "that rodhikā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tyajettataḥ",
+     "gloss": "should-abandon-then",
+     "grounds": "one should leave it after that",
+     "morph": "3.sg.opt.act tyaj + (indecl.)"
+    },
+    {
+     "surface": "nirodhikāmimāṃ",
+     "gloss": "this-restraining-power",
+     "grounds": "this nirodhikā",
+     "morph": "f.acc.sg compound nirodhikā+idam"
+    },
+    {
+     "surface": "bhittvā",
+     "gloss": "having-pierced",
+     "grounds": "after breaking through",
+     "morph": "absolutive bhid"
+    },
+    {
+     "surface": "sādākhyaṃ",
+     "gloss": "called-sadakhya",
+     "grounds": "the world named Sadakhya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhuvanaṃ",
+     "gloss": "world",
+     "grounds": "realm",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must be transcended to reach the supreme Sadakhya world?",
+   "premises": [
+    "Rodhikā obstructs the causal lords beginning with Brahma.",
+    "That rodhikā should be abandoned.",
+    "After piercing this nirodhikā one reaches the supreme Sadakhya world."
+   ],
+   "inference": "Spiritual ascent requires passing beyond rodhikā and nirodhikā to attain Sadakhya.",
+   "uncertainties": [
+    "The subject of tyajet is implicit, likely the practitioner."
+   ],
+   "plain_english": "Rodhikā blocks the causal lords beginning with Brahma; one should abandon it. Then, after piercing this nirodhikā, one reaches the supreme world called Sadakhya."
+  },
+  {
+   "verse": 387,
+   "rows": [
+    {
+     "surface": "pararūpeṇa",
+     "gloss": "with-supreme-form",
+     "grounds": "in the highest mode",
+     "morph": "n.inst.sg compound para+rūpa"
+    },
+    {
+     "surface": "yatrāste",
+     "gloss": "where-abides",
+     "grounds": "where he dwells",
+     "morph": "(indecl.) + 3.sg.pres.mid ās"
+    },
+    {
+     "surface": "pañcamantramahātanuḥ",
+     "gloss": "five-mantra-great-body",
+     "grounds": "having a great body of five mantras",
+     "morph": "m.nom.sg compound pañca+mantra+mahā+tanu"
+    },
+    {
+     "surface": "ityardhendunirodhyantabindvāvṛtyūrdhvato",
+     "gloss": "thus-half-moon-nirodhi-ending-bindu-covering-above",
+     "grounds": "thus, above the covering of bindu ending in half-moon and nirodhi",
+     "morph": "(indecl.) + (indecl.) compound ardha+indu+nirodhi+anta+bindu+āvṛti+ūrdhvatas"
+    },
+    {
+     "surface": "mahān",
+     "gloss": "great",
+     "grounds": "vast",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What great reality abides above bindu ending in half-moon and nirodhi?",
+   "premises": [
+    "In Sadakhya abides one with a great body of five mantras.",
+    "He abides there in a supreme form.",
+    "Above the covering of bindu ending in half-moon and nirodhi there is a great reality."
+   ],
+   "inference": "Beyond the bindu sequence, in supreme form, dwells the great five-mantra-bodied lord.",
+   "uncertainties": [
+    "The compound ityardhendunirodhyantabindvāvṛtyūrdhvato is dense and its internal boundaries are interpretive."
+   ],
+   "plain_english": "There, in supreme form, abides the one whose great body is made of the five mantras. Thus, above the covering of bindu that ends in the half-moon and nirodhi, there is a great presence."
+  },
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "nādaḥ",
+     "gloss": "resonance",
+     "grounds": "the subtle sound nāda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiñjalkasadṛśo",
+     "gloss": "like-filaments",
+     "grounds": "resembling flower filaments",
+     "morph": "m.nom.sg compound kiñjalka+sadṛśa"
+    },
+    {
+     "surface": "mahadbhiḥ",
+     "gloss": "by-great-ones",
+     "grounds": "by great beings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "puruṣairvṛtaḥ",
+     "gloss": "surrounded-by-beings",
+     "grounds": "encircled by persons",
+     "morph": "m.nom.sg compound puruṣa+vṛta"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "four in number",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhuvanānyatra",
+     "gloss": "worlds-there",
+     "grounds": "worlds in that place",
+     "morph": "n.nom.pl compound bhuvana+atra"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "in the quarters",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in the center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamam",
+     "gloss": "fifth",
+     "grounds": "a fifth one",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is nāda described and how are its worlds arranged?",
+   "premises": [
+    "Nāda is like flower filaments and surrounded by great beings.",
+    "There are four worlds there in the directions.",
+    "There is a fifth world in the middle."
+   ],
+   "inference": "Nāda is a populated subtle realm arranged with four directional worlds and one central world.",
+   "uncertainties": [],
+   "plain_english": "Nāda is like the filaments of a flower and is surrounded by great beings. There are four worlds in the directions and a fifth in the center."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "indhikā",
+     "gloss": "kindling-power",
+     "grounds": "a kalā named Indhikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīpikā",
+     "gloss": "illuminating-power",
+     "grounds": "a kalā named Dīpikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "and indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rodhikā",
+     "gloss": "restraining-power",
+     "grounds": "a kalā named Rodhikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mocikordhvagā",
+     "gloss": "releasing-upward-going",
+     "grounds": "Mocikā going upward",
+     "morph": "f.nom.sg compound mocikā+ūrdhvaga"
+    },
+    {
+     "surface": "madhye@tra",
+     "gloss": "in-middle-here",
+     "grounds": "here in the center",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "a lotus",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatrordhvagāmī",
+     "gloss": "there-upward-going",
+     "grounds": "there the upward-moving one",
+     "morph": "m.nom.sg compound tatra+ūrdhvagāmin"
+    },
+    {
+     "surface": "tacchaktibhirvṛtaḥ",
+     "gloss": "surrounded-by-its-powers",
+     "grounds": "encircled by its śaktis",
+     "morph": "m.nom.sg compound tad+śakti+vṛta"
+    }
+   ],
+   "question": "Which powers and central form are present in the nāda realm?",
+   "premises": [
+    "Indhikā, Dīpikā, Rodhikā, and upward-going Mocikā are present.",
+    "In the middle there is a lotus.",
+    "There the upward-moving one is surrounded by its śaktis."
+   ],
+   "inference": "The nāda realm contains four named powers around a central lotus with an upward-moving presence attended by śaktis.",
+   "uncertainties": [
+    "The identity of the upward-moving one is not explicitly named in this verse."
+   ],
+   "plain_english": "Indhikā, Dīpikā, Rodhikā, and the upward-going Mocikā are there. In the middle is a lotus, and there the upward-moving one is surrounded by its powers."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "nādordhvatastu",
+     "gloss": "above-nada-but",
+     "grounds": "but above nāda",
+     "morph": "m.abl.sg compound nāda+ūrdhvatas + (indecl.)"
+    },
+    {
+     "surface": "sauṣumnaṃ",
+     "gloss": "suṣumna-realm",
+     "grounds": "the suṣumna level",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tacchaktibhṛtprabhuḥ",
+     "gloss": "lord-bearing-its-powers",
+     "grounds": "the lord who bears its śaktis",
+     "morph": "m.nom.sg compound tad+śakti+bhṛt+prabhu"
+    },
+    {
+     "surface": "tadīśaḥ",
+     "gloss": "its-lord",
+     "grounds": "the lord of that",
+     "morph": "m.nom.sg compound tad+īśa"
+    },
+    {
+     "surface": "piṅgalelābhyāṃ",
+     "gloss": "by-pingala-and-ida",
+     "grounds": "by Piṅgalā and Iḍā",
+     "morph": "f.inst.dual compound piṅgalā+iḍā"
+    },
+    {
+     "surface": "vṛtaḥ",
+     "gloss": "surrounded",
+     "grounds": "encircled",
+     "morph": "m.nom.sg.past-passive-part vṛ"
+    },
+    {
+     "surface": "savyāpasavyayoḥ",
+     "gloss": "on-left-and-right",
+     "grounds": "on the left and right sides",
+     "morph": "n.loc.dual compound savya+apasavya"
+    }
+   ],
+   "question": "What lies above nāda and how is its lord attended?",
+   "premises": [
+    "Above nāda is the suṣumna realm.",
+    "There the lord bears its śaktis.",
+    "That lord is surrounded on left and right by Piṅgalā and Iḍā."
+   ],
+   "inference": "The suṣumna level above nāda is ruled by a lord attended by śaktis and flanked by Piṅgalā and Iḍā.",
+   "uncertainties": [],
+   "plain_english": "Above nāda is the suṣumna realm. There the lord who bears its powers is surrounded on the left and right by Piṅgalā and Iḍā."
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "she who",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prabhoraṅkagā",
+     "gloss": "going-to-lord-lap",
+     "grounds": "resting in the lord's lap",
+     "morph": "f.nom.sg compound prabhu+aṅka+ga"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suṣumnā",
+     "gloss": "suṣumna",
+     "grounds": "Suṣumnā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaśisaprabhā",
+     "gloss": "moon-like-radiance",
+     "grounds": "shining like the moon",
+     "morph": "f.nom.sg compound śaśin+prabhā"
+    },
+    {
+     "surface": "grathito@dhvā",
+     "gloss": "strung-path",
+     "grounds": "the path is strung together",
+     "morph": "m.nom.sg.past-passive-part granth + m.nom.sg"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "by-her",
+     "grounds": "by that goddess",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "the whole",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ūrdhvaścādhastanastathā",
+     "gloss": "above-and-below-likewise",
+     "grounds": "above and likewise below",
+     "morph": "m.nom.sg compound ūrdhva+ca+adhastana+tathā"
+    }
+   ],
+   "question": "How does Suṣumnā structure the entire path above and below?",
+   "premises": [
+    "The goddess Suṣumnā rests in the lord's lap and shines like the moon.",
+    "By her the whole path is strung together.",
+    "This includes both the upper and the lower regions."
+   ],
+   "inference": "Suṣumnā is the unifying channel that binds the entire vertical path.",
+   "uncertainties": [],
+   "plain_english": "The goddess Suṣumnā, resting in the lord's lap and shining like the moon, strings together the whole path, both above and below."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "nādaḥsuṣumnādhārastu",
+     "gloss": "nada-suṣumna-support-but",
+     "grounds": "but the support of nāda and suṣumnā",
+     "morph": "m.nom.sg compound nāda+suṣumnā+ādhāra + (indecl.)"
+    },
+    {
+     "surface": "bhittvā",
+     "gloss": "having-pierced",
+     "grounds": "after penetrating",
+     "morph": "absolutive bhid"
+    },
+    {
+     "surface": "viśvamidaṃ",
+     "gloss": "this-universe",
+     "grounds": "this whole universe",
+     "morph": "n.acc.sg compound viśva+idam"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "moving world",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhaḥśaktyā",
+     "gloss": "by-downward-power",
+     "grounds": "by the lower śakti",
+     "morph": "f.inst.sg compound adhas+śakti"
+    },
+    {
+     "surface": "vinirgacchedūrdhvaśaktyā",
+     "gloss": "would-go-out-by-upward-power",
+     "grounds": "goes forth by the upward śakti",
+     "morph": "3.sg.opt.act vinirgam + f.inst.sg compound ūrdhva+śakti"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrdhataḥ",
+     "gloss": "from-head",
+     "grounds": "from the crown",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the nāda-suṣumnā support pervade and exit the universe?",
+   "premises": [
+    "The support of nāda and suṣumnā pierces this entire universe.",
+    "It goes out below by the downward śakti.",
+    "It goes out above from the crown by the upward śakti."
+   ],
+   "inference": "The nāda-suṣumnā axis permeates the whole cosmos and extends beyond it in both directions.",
+   "uncertainties": [],
+   "plain_english": "The support of nāda and suṣumnā pierces this entire universe; it goes out below by the downward power and above from the crown by the upward power."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "nāḍyā",
+     "gloss": "by-channel",
+     "grounds": "through the channel",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "brahmabile",
+     "gloss": "in-brahma-cavity",
+     "grounds": "in the cavity of Brahma",
+     "morph": "n.loc.sg compound brahma+bila"
+    },
+    {
+     "surface": "līnaḥ",
+     "gloss": "absorbed",
+     "grounds": "merged",
+     "morph": "m.nom.sg.past-passive-part lī"
+    },
+    {
+     "surface": "so@vyaktadhvanirakṣaraḥ",
+     "gloss": "he-unmanifest-sound-imperishable",
+     "grounds": "that unmanifest, resonant, imperishable one",
+     "morph": "m.nom.sg compound sa+avyakta+dhvani+akṣara"
+    },
+    {
+     "surface": "nadansarveṣu",
+     "gloss": "resounding-in-all",
+     "grounds": "sounding in all",
+     "morph": "m.nom.sg.pres-part nad + n.loc.pl"
+    },
+    {
+     "surface": "bhūteṣu",
+     "gloss": "in-beings",
+     "grounds": "in all beings",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "śivaśaktyā",
+     "gloss": "by-shiva-power",
+     "grounds": "by Śiva's śakti",
+     "morph": "f.inst.sg compound śiva+śakti"
+    },
+    {
+     "surface": "hyadhiṣṭhitaḥ",
+     "gloss": "indeed-presided-over",
+     "grounds": "indeed empowered and presided over",
+     "morph": "(indecl.) + m.nom.sg.past-passive-part adhiṣṭhā"
+    }
+   ],
+   "question": "What is the nature of the unmanifest sound absorbed in the brahma cavity?",
+   "premises": [
+    "Through the channel it is absorbed in the cavity of Brahma.",
+    "It is unmanifest, resonant, and imperishable.",
+    "It resounds in all beings, presided over by Śiva's śakti."
+   ],
+   "inference": "The subtle imperishable sound abides in the brahma cavity yet pervades all beings through Śiva's śakti.",
+   "uncertainties": [],
+   "plain_english": "Absorbed through the channel in the cavity of Brahma, that unmanifest, resonant, imperishable sound resounds in all beings, empowered by Śiva's śakti."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "suṣumnordhve",
+     "gloss": "above-suṣumna",
+     "grounds": "above Suṣumnā",
+     "morph": "f.loc.sg compound suṣumnā+ūrdhva"
+    },
+    {
+     "surface": "brahmabilasaṃjñayāvaraṇaṃ",
+     "gloss": "covering-called-brahma-cavity",
+     "grounds": "the covering known as the brahma cavity",
+     "morph": "n.nom.sg compound brahmabila+saṃjñā+āvaraṇa"
+    },
+    {
+     "surface": "tridṛk",
+     "gloss": "three-eyed",
+     "grounds": "having three eyes",
+     "morph": "m.nom.sg compound tri+dṛś"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "Brahmā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sitaḥ",
+     "gloss": "white",
+     "grounds": "white in color",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūlī",
+     "gloss": "trident-bearer",
+     "grounds": "bearing a trident",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcāsyaḥ",
+     "gloss": "five-faced",
+     "grounds": "having five faces",
+     "morph": "m.nom.sg compound pañca+āsya"
+    },
+    {
+     "surface": "śaśiśekharaḥ",
+     "gloss": "moon-crested",
+     "grounds": "having the moon as crest",
+     "morph": "m.nom.sg compound śaśin+śekhara"
+    }
+   ],
+   "question": "Who resides in the covering called the brahma cavity above Suṣumnā?",
+   "premises": [
+    "Above Suṣumnā is the covering known as the brahma cavity.",
+    "There resides Brahmā.",
+    "He is described as white, three-eyed, trident-bearing, five-faced, and moon-crested."
+   ],
+   "inference": "The brahma cavity above Suṣumnā is inhabited by a Brahmā depicted with Śaiva attributes.",
+   "uncertainties": [
+    "The Śaiva iconography applied to Brahmā here is unusual and may reflect a specific tantric identification."
+   ],
+   "plain_english": "Above Suṣumnā is the covering called the brahma cavity. There dwells Brahmā, white, three-eyed, bearing a trident, five-faced, and crowned with the moon."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "tasyotsaṅge",
+     "gloss": "in-his-lap",
+     "grounds": "on his lap",
+     "morph": "m.loc.sg compound tad+utsaṅga"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmāṇī",
+     "gloss": "brahmani",
+     "grounds": "Brahmāṇī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣamārgagā",
+     "gloss": "going-on-liberation-path",
+     "grounds": "moving on the path of liberation",
+     "morph": "f.nom.sg compound mokṣa+mārga+ga"
+    },
+    {
+     "surface": "roddhrī",
+     "gloss": "obstructing",
+     "grounds": "the one who blocks",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dātrī",
+     "gloss": "giver",
+     "grounds": "the one who grants",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣasya",
+     "gloss": "of-liberation",
+     "grounds": "of release",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "that goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhittvā",
+     "gloss": "having-pierced",
+     "grounds": "after breaking through",
+     "morph": "absolutive bhid"
+    },
+    {
+     "surface": "cordhvakuṇḍalī",
+     "gloss": "and-upward-kundalini",
+     "grounds": "and above is Kuṇḍalinī",
+     "morph": "(indecl.) + f.nom.sg compound ūrdhva+kuṇḍalī"
+    }
+   ],
+   "question": "What role does Brahmāṇī play and what lies beyond her?",
+   "premises": [
+    "In Brahmā's lap sits the supreme goddess Brahmāṇī on the path of liberation.",
+    "She both obstructs and grants liberation.",
+    "After piercing her, one reaches the upward Kuṇḍalinī."
+   ],
+   "inference": "Brahmāṇī is a threshold power who can block or grant liberation, beyond whom Kuṇḍalinī rises.",
+   "uncertainties": [],
+   "plain_english": "In his lap sits the supreme goddess Brahmāṇī, who moves on the path of liberation and both obstructs and grants release. Piercing through her, one comes to the upward Kuṇḍalinī."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "the śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suptāhisadṛśī",
+     "gloss": "like-sleeping-snake",
+     "grounds": "resembling a sleeping serpent",
+     "morph": "f.nom.sg compound supta+ahi+sadṛśī"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "that śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśvādhāra",
+     "gloss": "support-of-universe",
+     "grounds": "the support of the universe",
+     "morph": "m.nom.sg compound viśva+ādhāra"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "is said to be",
+     "morph": "3.sg.pres.pass vac"
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-her",
+     "grounds": "within her",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sūkṣmā",
+     "gloss": "subtle",
+     "grounds": "the subtle one",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "susūkṣmā",
+     "gloss": "very-subtle",
+     "grounds": "the very subtle one",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathānye",
+     "gloss": "and-likewise-others",
+     "grounds": "and likewise others",
+     "morph": "(indecl.) + f.nom.pl"
+    },
+    {
+     "surface": "amṛtāmite",
+     "gloss": "nectar-and-measureless",
+     "grounds": "Amṛtā and Amitā",
+     "morph": "f.nom.dual compound amṛtā+amitā"
+    }
+   ],
+   "question": "How is Kuṇḍalinī described and what powers reside within her?",
+   "premises": [
+    "Kuṇḍalinī is a śakti like a sleeping serpent.",
+    "She is called the support of the universe.",
+    "Within her are Sūkṣmā, Susūkṣmā, Amṛtā, Amitā, and others."
+   ],
+   "inference": "Kuṇḍalinī is the cosmic support containing a hierarchy of increasingly subtle śaktis.",
+   "uncertainties": [
+    "The verse names some śaktis explicitly but leaves others unspecified as 'others'."
+   ],
+   "plain_english": "That śakti is like a sleeping serpent and is called the support of the universe. Within her are the subtle, the very subtle, Amṛtā, Amitā, and other powers."
+  },
+  {
+   "verse": 397,
+   "rows": [
+    {
+     "surface": "madhyato",
+     "gloss": "in-middle",
+     "grounds": "in the center",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpinī",
+     "gloss": "pervading-power",
+     "grounds": "Vyāpinī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-her",
+     "grounds": "within her",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vyāpīśo",
+     "gloss": "pervading-lord",
+     "grounds": "the lord Vyāpīśa",
+     "morph": "m.nom.sg compound vyāpin+īśa"
+    },
+    {
+     "surface": "vyāpinīdharaḥ",
+     "gloss": "holder-of-vyapini",
+     "grounds": "the bearer of Vyāpinī",
+     "morph": "m.nom.sg compound vyāpinī+dhara"
+    },
+    {
+     "surface": "śaktitattvamidaṃ",
+     "gloss": "this-power-principle",
+     "grounds": "this is the śakti principle",
+     "morph": "n.nom.sg compound śakti+tattva+idam"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-which",
+     "grounds": "whose",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prapañco@yaṃ",
+     "gloss": "this-manifestation",
+     "grounds": "this expansion",
+     "morph": "m.nom.sg compound prapañca+ayam"
+    },
+    {
+     "surface": "dharāntakaḥ",
+     "gloss": "ending-with-earth",
+     "grounds": "extending down to earth",
+     "morph": "m.nom.sg compound dharā+antaka"
+    }
+   ],
+   "question": "What is the śakti principle and how far does its manifestation extend?",
+   "premises": [
+    "In the middle is Vyāpinī, and within her is Vyāpīśa, the bearer of Vyāpinī.",
+    "This is the śakti principle.",
+    "Its manifestation extends all the way down to earth."
+   ],
+   "inference": "The śakti principle, centered in Vyāpinī and Vyāpīśa, unfolds as the entire cosmos down to the earth level.",
+   "uncertainties": [],
+   "plain_english": "In the middle is Vyāpinī, and within her is Vyāpīśa, the bearer of Vyāpinī. This is the śakti principle, whose manifestation extends all the way down to earth."
+  },
+  {
+   "verse": 398,
+   "rows": [
+    {
+     "surface": "śivatattvaṃ",
+     "gloss": "shiva-principle",
+     "grounds": "the Śiva principle",
+     "morph": "n.nom.sg compound śiva+tattva"
+    },
+    {
+     "surface": "tatastatra",
+     "gloss": "then-there",
+     "grounds": "then in that place",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "caturdikkaṃ",
+     "gloss": "in-four-directions",
+     "grounds": "toward the four quarters",
+     "morph": "n.acc.sg compound catur+diś"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "established",
+     "grounds": "situated",
+     "morph": "m.nom.pl.past-passive-part vyavasthā"
+    },
+    {
+     "surface": "vyāpī",
+     "gloss": "pervading",
+     "grounds": "Vyāpī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyomātmako@nanto@nāthastacchaktibhāginaḥ",
+     "gloss": "sky-natured-ananta-lord-sharers-of-its-powers",
+     "grounds": "the sky-natured Ananta lord and those sharing his śaktis",
+     "morph": "m.nom.sg compound vyoma+ātmaka+ananta+nātha+tad+śakti+bhāgin"
+    }
+   ],
+   "question": "What appears at the Śiva principle and who is established there?",
+   "premises": [
+    "Beyond that is the Śiva principle.",
+    "In the four directions are established beings.",
+    "There are Vyāpī, the sky-natured Ananta lord, and those who share his śaktis."
+   ],
+   "inference": "At the Śiva principle level, Vyāpī and the sky-natured Ananta with associated śaktis are established in the four directions.",
+   "uncertainties": [
+    "The compound at the end is compressed; the exact grouping of Ananta and the śakti-sharers is interpretive."
+   ],
+   "plain_english": "Then comes the Śiva principle. Established in the four directions are Vyāpī, the sky-natured lord Ananta, and those who share in his powers."
+  },
+  {
+   "verse": 399,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in the center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tvanāśritaṃ",
+     "gloss": "but-unsupported",
+     "grounds": "but the unsupported one",
+     "morph": "(indecl.) + n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devadevo",
+     "gloss": "god-of-gods",
+     "grounds": "the lord of gods",
+     "morph": "m.nom.sg compound deva+deva"
+    },
+    {
+     "surface": "hyanāśritaḥ",
+     "gloss": "indeed-unsupported",
+     "grounds": "indeed the unsupported",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "tacchaktyutsaṅgabhṛtsūryaśatakoṭisamaprabhaḥ",
+     "gloss": "bearing-its-power-in-lap-equal-to-hundred-crore-suns-radiance",
+     "grounds": "bearing its śakti in his lap, radiant like a hundred crore suns",
+     "morph": "m.nom.sg compound tad+śakti+utsaṅga+bhṛt+sūrya+śata+koṭi+sama+prabha"
+    }
+   ],
+   "question": "Who is the unsupported lord at the center of the Śiva principle?",
+   "premises": [
+    "In the middle is the unsupported reality.",
+    "There is the god of gods, indeed the unsupported one.",
+    "He bears his śakti in his lap and shines like a hundred crore suns."
+   ],
+   "inference": "The center of the Śiva principle is occupied by Anāśrita Śiva, radiant and united with his śakti.",
+   "uncertainties": [],
+   "plain_english": "In the middle there is the unsupported one: the god of gods, Anāśrita, bearing his śakti in his lap and shining with the radiance of a hundred crore suns."
+  },
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "śivatattvordhvataḥ",
+     "gloss": "above-shiva-principle",
+     "grounds": "above the Śiva principle",
+     "morph": "n.abl.sg compound śiva+tattva+ūrdhvatas"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "the śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "that śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samanāhvayā",
+     "gloss": "called-samana",
+     "grounds": "named Samanā",
+     "morph": "f.nom.sg compound samanā+āhvaya"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "of all",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kāraṇānāṃ",
+     "gloss": "of-causes",
+     "grounds": "of the causes",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "that śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kartṛbhūtā",
+     "gloss": "become-agent",
+     "grounds": "acting as the doer",
+     "morph": "f.nom.sg compound kartṛ+bhūta"
+    },
+    {
+     "surface": "vyavasthitā",
+     "gloss": "established",
+     "grounds": "abides",
+     "morph": "f.nom.sg.past-passive-part vyavasthā"
+    }
+   ],
+   "question": "What supreme śakti abides above the Śiva principle and what is her role?",
+   "premises": [
+    "Above the Śiva principle is the supreme śakti.",
+    "She is called Samanā.",
+    "She abides as the agent of all causes."
+   ],
+   "inference": "Samanā is the supreme causal agency operating above the Śiva principle.",
+   "uncertainties": [],
+   "plain_english": "Above the Śiva principle is the supreme śakti called Samanā. She abides as the active agent of all causes."
+  },
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "bibhartyaṇḍānyanekāni",
+     "gloss": "bears-many-eggs",
+     "grounds": "supports many cosmic eggs",
+     "morph": "3.sg.pres.act bhṛ + n.acc.pl compound aṇḍa+aneka"
+    },
+    {
+     "surface": "śivena",
+     "gloss": "by-shiva",
+     "grounds": "by Śiva",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "samadhiṣṭhitā",
+     "gloss": "fully-presided-over",
+     "grounds": "fully empowered",
+     "morph": "f.nom.sg.past-passive-part samadhiṣṭhā"
+    },
+    {
+     "surface": "tadārūḍhaḥ",
+     "gloss": "mounted-on-her",
+     "grounds": "resting upon her",
+     "morph": "m.nom.sg compound tad+ārūḍha"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "Śiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtyapañcakaṃ",
+     "gloss": "five-acts",
+     "grounds": "the five acts",
+     "morph": "n.acc.sg compound kṛtya+pañcaka"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "carries out",
+     "morph": "3.sg.pres.mid kṛ"
+    },
+    {
+     "surface": "prabhuḥ",
+     "gloss": "lord",
+     "grounds": "the sovereign lord",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do Samanā and Śiva function together in cosmic activity?",
+   "premises": [
+    "Empowered by Śiva, Samanā bears many cosmic eggs.",
+    "Śiva, mounted upon her, is the lord.",
+    "He performs the five acts."
+   ],
+   "inference": "Samanā supports the cosmos while Śiva, acting through her, performs the five cosmic functions.",
+   "uncertainties": [],
+   "plain_english": "Empowered by Śiva, she bears many cosmic eggs. Resting upon her, Lord Śiva performs the five acts."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "samanā",
+     "gloss": "samana",
+     "grounds": "Samanā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "the instrument",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "of that lord",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hetukarturmahośituḥ",
+     "gloss": "of-causal-agent-great-lord",
+     "grounds": "of the causal agent, the great lord",
+     "morph": "m.gen.sg compound hetu+kartṛ+mahā+īśitṛ"
+    },
+    {
+     "surface": "anāśritaṃ",
+     "gloss": "unsupported",
+     "grounds": "the unsupported",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "however",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpāre",
+     "gloss": "in-activity",
+     "grounds": "in operation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nimittaṃ",
+     "gloss": "occasioning-cause",
+     "grounds": "the instrumental occasion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "heturucyate",
+     "gloss": "is-called-cause",
+     "grounds": "is called the cause",
+     "morph": "3.sg.pres.pass vac compound hetu+ucyate"
+    }
+   ],
+   "question": "How are Samanā and the unsupported principle classified as causes?",
+   "premises": [
+    "Samanā is the instrument of the great causal lord.",
+    "The unsupported principle functions in activity as the occasioning cause.",
+    "That unsupported principle is called the cause."
+   ],
+   "inference": "Samanā serves as instrument, while the unsupported Śiva principle is the ultimate occasioning cause.",
+   "uncertainties": [],
+   "plain_english": "Samanā is the instrument of that great causal lord. The unsupported principle, in activity, is the occasioning cause and is called the cause."
+  },
   {
    "verse": 403,
    "rows": [
     {
      "surface": "tayādhitiṣṭhati",
-     "gloss": "by-that presides-over",
-     "grounds": "by that power he presides",
-     "morph": "3.sg.pres.act + adhi-√sthā"
+     "gloss": "by-her-presides",
+     "grounds": "through her he presides",
+     "morph": "f.inst.sg + 3.sg.pres.act adhiṣṭhā"
     },
     {
      "surface": "vibhuḥ",
-     "gloss": "the-all-pervading-lord",
-     "grounds": "subject of presiding",
+     "gloss": "all-pervading-lord",
+     "grounds": "the sovereign lord",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kāraṇānāṃ",
-     "gloss": "of-the-instruments",
-     "grounds": "the five instruments",
+     "gloss": "of-causes",
+     "grounds": "of the causes",
      "morph": "n.gen.pl"
     },
     {
      "surface": "tu",
-     "gloss": "indeed",
-     "grounds": "emphasis",
+     "gloss": "but",
+     "grounds": "indeed",
      "morph": "(indecl.)"
     },
     {
      "surface": "pañcakam",
-     "gloss": "the-group-of-five",
-     "grounds": "object presided over",
+     "gloss": "group-of-five",
+     "grounds": "the fivefold set",
      "morph": "n.acc.sg"
     },
     {
      "surface": "anāśrito@nāthamayamanantaṃ",
-     "gloss": "unsupported lord-made endless",
-     "grounds": "describing the lord as independent and infinite",
-     "morph": "compound = anāśrita+nāthamaya+ananta (m.acc.sg)"
+     "gloss": "unsupported-lordly-this-endless",
+     "grounds": "this unsupported, lordly, endless one",
+     "morph": "m.nom.sg compound anāśrita+nāthamaya+ayam+ananta"
     },
     {
      "surface": "khavapuḥ",
-     "gloss": "whose-body-is-space",
-     "grounds": "describing the lord's form",
-     "morph": "compound = kha+vapus (m.nom.sg)"
+     "gloss": "sky-bodied",
+     "grounds": "having a body of space",
+     "morph": "m.nom.sg compound kha+vapus"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "constant presiding",
+     "grounds": "eternally",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How does the all-pervading Lord preside over the five instruments?",
+   "question": "How does the all-pervading lord govern the five causes?",
    "premises": [
-    "The all-pervading Lord, whose body is space, always presides by that power.",
-    "He presides over the group of five instruments.",
-    "He is unsupported, made of lordship, and endless."
+    "Through Samanā the all-pervading lord presides over the five causes.",
+    "He is unsupported, lordly, endless, and sky-bodied.",
+    "He abides thus always."
    ],
-   "inference": "The independent, space-bodied Lord eternally governs the five instruments through his own power.",
+   "inference": "The eternal unsupported lord governs the fivefold causal system through Samanā.",
    "uncertainties": [
-    "The exact referent of tayā is inferred from the preceding context as Śiva's power or prior agency."
+    "The identity of the five causes is not specified in this verse."
    ],
-   "plain_english": "The all-pervading Lord, whose body is space, always presides by that power over the five instruments; he is unsupported, lordly, and endless."
+   "plain_english": "Through her the all-pervading lord presides over the five causes. This unsupported, lordly, endless, sky-bodied one does so always."
   },
   {
    "verse": 404,
@@ -71,331 +1255,327 @@
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "the Lord as agent",
+     "grounds": "that lord",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vyāpinaṃ",
-     "gloss": "the-pervasive-one",
-     "grounds": "object impelled by the Lord",
+     "gloss": "pervading-one",
+     "grounds": "the pervading lord",
      "morph": "m.acc.sg"
     },
     {
      "surface": "prerayati",
      "gloss": "impels",
-     "grounds": "action of the Lord",
-     "morph": "3.sg.pres.act + pra-√īr"
+     "grounds": "sets in motion",
+     "morph": "3.sg.pres.act preray"
     },
     {
      "surface": "svaśaktyā",
-     "gloss": "by-his-own-power",
-     "grounds": "means of impelling",
-     "morph": "compound = sva+śakti (f.inst.sg)"
+     "gloss": "by-own-power",
+     "grounds": "by his own śakti",
+     "morph": "f.inst.sg compound sva+śakti"
     },
     {
      "surface": "karaṇena",
-     "gloss": "as-instrument",
-     "grounds": "role of Māyā",
+     "gloss": "by-instrument",
+     "grounds": "as instrument",
      "morph": "n.inst.sg"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "contrast or specification",
+     "grounds": "indeed",
      "morph": "(indecl.)"
     },
     {
      "surface": "karmarūpā",
-     "gloss": "whose-form-is-action",
-     "grounds": "describing Māyā",
-     "morph": "compound = karman+rūpa (f.nom.sg)"
+     "gloss": "karma-formed",
+     "grounds": "having the form of karma",
+     "morph": "f.nom.sg compound karman+rūpa"
     },
     {
      "surface": "sthitā",
      "gloss": "situated",
-     "grounds": "state of Māyā",
-     "morph": "f.nom.sg"
+     "grounds": "abiding",
+     "morph": "f.nom.sg.past-passive-part sthā"
     },
     {
      "surface": "māyā",
-     "gloss": "Māyā",
-     "grounds": "the instrument",
+     "gloss": "maya",
+     "grounds": "Māyā",
      "morph": "f.nom.sg"
     },
     {
      "surface": "yadadhaḥ",
      "gloss": "below-which",
-     "grounds": "location relative to Māyā",
-     "morph": "compound = yad+adhas (indecl.)"
+     "grounds": "below which",
+     "morph": "(indecl.) compound yad+adhas"
     },
     {
      "surface": "śaktikuṇḍalī",
-     "gloss": "the-coiled-power",
-     "grounds": "power situated below Māyā",
-     "morph": "compound = śakti+kuṇḍalī (f.nom.sg)"
+     "gloss": "power-kundalini",
+     "grounds": "the śakti Kuṇḍalinī",
+     "morph": "f.nom.sg compound śakti+kuṇḍalī"
     }
    ],
-   "question": "How does the Lord set the pervasive principle into motion?",
+   "question": "How does the lord set the lower cosmic process in motion?",
    "premises": [
-    "The Lord impels the pervasive one by his own power.",
-    "Māyā, whose form is action, is situated as the instrument.",
-    "Below Māyā is the coiled power."
+    "He impels the pervading lord by his own śakti as instrument.",
+    "Below that abides Māyā in the form of karma.",
+    "Below that is the śakti Kuṇḍalinī."
    ],
-   "inference": "The Lord uses Māyā as his instrument to impel the pervasive principle, with the coiled power situated below Māyā.",
-   "uncertainties": [
-    "The identity of vyāpinaṃ is not explicit in this verse and may refer to a pervasive tattva or principle from context."
-   ],
-   "plain_english": "He impels the pervasive one by his own power, using Māyā, whose form is action, as the instrument; below Māyā lies the coiled power."
+   "inference": "The supreme lord initiates manifestation through his śakti, leading down to Māyā and Kuṇḍalinī.",
+   "uncertainties": [],
+   "plain_english": "He impels the pervading lord by his own śakti as instrument. Below that abides Māyā in the form of karma, and below that is the śakti Kuṇḍalinī."
   },
   {
    "verse": 405,
    "rows": [
     {
      "surface": "nādabindvādikaṃ",
-     "gloss": "beginning-with-sound-and-point",
-     "grounds": "early products in manifestation",
-     "morph": "compound = nāda+bindu+ādika (n.nom.sg)"
+     "gloss": "beginning-with-nada-and-bindu",
+     "grounds": "starting with nāda and bindu",
+     "morph": "n.nom.sg compound nāda+bindu+ādika"
     },
     {
      "surface": "kāryamityādijagadudbhavaḥ",
-     "gloss": "the-world-arising-as-effect-and-so-on",
-     "grounds": "the emergence of the world as product",
-     "morph": "compound = kārya+iti+ādi+jagat+udbhava (m.nom.sg)"
+     "gloss": "effect-thus-beginning-world-arising",
+     "grounds": "the arising of the world beginning thus as effect",
+     "morph": "m.nom.sg compound kārya+iti+ādi+jagat+udbhava"
     },
     {
      "surface": "yatsadāśivaparyantaṃ",
-     "gloss": "what-extends-up-to-Sadāśiva",
-     "grounds": "upper limit of the described range",
-     "morph": "compound = yad+sadāśiva+paryanta (n.nom.sg)"
+     "gloss": "what-up-to-sadashiva",
+     "grounds": "what extends up to Sadāśiva",
+     "morph": "n.nom.sg compound yad+sadāśiva+paryanta"
     },
     {
      "surface": "pārthivādyaṃ",
      "gloss": "beginning-with-earth",
-     "grounds": "lower limit of the described range",
-     "morph": "compound = pārthiva+ādya (n.nom.sg)"
+     "grounds": "beginning with the earthly",
+     "morph": "n.nom.sg compound pārthiva+ādya"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connects the two limits",
+     "grounds": "and",
      "morph": "(indecl.)"
     },
     {
      "surface": "śāsane",
-     "gloss": "in-the-teaching",
-     "grounds": "doctrinal context",
+     "gloss": "in-teaching",
+     "grounds": "in the scripture",
      "morph": "n.loc.sg"
     }
    ],
-   "question": "What range of manifestation is described as arising in the teaching?",
+   "question": "What range of manifestation is described as effect in the teaching?",
    "premises": [
-    "The world arises as effect beginning with sound and point.",
-    "This range extends up to Sadāśiva.",
-    "This range also begins with earth in the teaching."
+    "The arising of the world begins as effect with nāda, bindu, and so on.",
+    "In the teaching this range extends up to Sadāśiva.",
+    "It also includes what begins with the earthly level."
    ],
-   "inference": "The teaching presents a continuous manifestation from earth up to Sadāśiva, arising through stages such as sound and point.",
+   "inference": "The scriptural teaching treats the whole manifest range, from subtle nāda-bindu down to earth and up to Sadāśiva, as produced effect.",
    "uncertainties": [
-    "The compound structure of kāryamityādijagadudbhavaḥ allows slight variation in parsing, but the overall meaning is clear."
+    "The verse is syntactically compressed and continues the thought from the previous verse."
    ],
-   "plain_english": "In the teaching, the world arises as effect beginning with sound and point, extending from earth up to Sadāśiva."
+   "plain_english": "The arising of the world as effect begins with nāda, bindu, and so on. In the teaching, this includes everything from the earthly level up to Sadāśiva."
   },
   {
    "verse": 406,
    "rows": [
     {
      "surface": "tatsarva",
-     "gloss": "all-that",
-     "grounds": "the whole range just described",
-     "morph": "compound = tad+sarva (n.nom.sg)"
+     "gloss": "that-all",
+     "grounds": "all that",
+     "morph": "n.nom.sg compound tad+sarva"
     },
     {
      "surface": "prākṛtaṃ",
-     "gloss": "derived-from-primal-nature",
-     "grounds": "classification of that range",
+     "gloss": "produced",
+     "grounds": "belonging to manifestation",
      "morph": "n.nom.sg"
     },
     {
      "surface": "proktaṃ",
      "gloss": "declared",
-     "grounds": "scriptural statement",
-     "morph": "n.nom.sg past-passive-participle + pra-√vac"
+     "grounds": "said to be",
+     "morph": "n.nom.sg.past-passive-part praukt"
     },
     {
      "surface": "vināśotpattisaṃyutam",
      "gloss": "joined-with-destruction-and-arising",
-     "grounds": "its mutable character",
-     "morph": "compound = vināśa+utpatti+saṃyuta (n.nom.sg)"
+     "grounds": "subject to destruction and arising",
+     "morph": "n.nom.sg compound vināśa+utpatti+saṃyuta"
     },
     {
      "surface": "atha",
      "gloss": "now",
-     "grounds": "transition to next topic",
+     "grounds": "then",
      "morph": "(indecl.)"
     },
     {
      "surface": "sakalabhuvanamānaṃ",
-     "gloss": "the-measure-of-all-worlds",
-     "grounds": "topic to be explained",
-     "morph": "compound = sakala+bhuvana+māna (n.nom.sg)"
+     "gloss": "measure-of-all-worlds",
+     "grounds": "the measure of all the worlds",
+     "morph": "n.nom.sg compound sakala+bhuvana+māna"
     },
     {
      "surface": "yanmahyaṃ",
      "gloss": "which-to-me",
-     "grounds": "what was taught to the speaker",
-     "morph": "compound = yad+mahyam (n.nom.sg)"
+     "grounds": "which to me",
+     "morph": "n.nom.sg + (indecl.)"
     },
     {
      "surface": "nigaditaṃ",
      "gloss": "told",
-     "grounds": "received teaching",
-     "morph": "n.nom.sg past-passive-participle + ni-√gad"
+     "grounds": "was declared",
+     "morph": "n.nom.sg.past-passive-part nigad"
     },
     {
      "surface": "nijairgurubhiḥ",
-     "gloss": "by-my-own-teachers",
-     "grounds": "source of the teaching",
-     "morph": "compound = nija+guru (m.inst.pl)"
+     "gloss": "by-own-teachers",
+     "grounds": "by my own gurus",
+     "morph": "m.inst.pl compound nija+guru"
     }
    ],
-   "question": "What has been declared about that range and what topic follows next?",
+   "question": "How is the manifest range characterized and what topic is introduced next?",
    "premises": [
-    "All that range is declared to be derived from primal nature.",
-    "It is joined with destruction and arising.",
-    "The measure of all worlds, as told by the speaker's teachers, will now be explained."
+    "All that manifest range is declared to be produced.",
+    "It is subject to arising and destruction.",
+    "Now the measure of all the worlds, as taught by the gurus, will be presented."
    ],
-   "inference": "The mutable manifested range is classified as prākṛta, and the text now turns to the measure of all worlds taught by the gurus.",
-   "uncertainties": [
-    "The scope of prākṛta here may be technical and broader or narrower than ordinary usage."
-   ],
-   "plain_english": "All that is declared to be derived from primal nature and subject to arising and destruction; now the measure of all the worlds, as taught to me by my own teachers, will be explained."
+   "inference": "The produced cosmos is impermanent, and the text now turns to the gurus' account of the worlds' measure.",
+   "uncertainties": [],
+   "plain_english": "All that is declared to be produced and subject to arising and destruction. Now I will present the measure of all the worlds as it was taught to me by my own gurus."
   },
   {
    "verse": 407,
    "rows": [
     {
      "surface": "tadvakṣyate",
-     "gloss": "that-will-be-told",
-     "grounds": "announcement of exposition",
-     "morph": "3.sg.fut.pass + √vac"
+     "gloss": "that-will-be-spoken",
+     "grounds": "that will be explained",
+     "morph": "3.sg.fut.pass vac"
     },
     {
      "surface": "samāsādbuddhau",
-     "gloss": "briefly-in-the-mind",
-     "grounds": "manner and locus of understanding",
-     "morph": "compound = samāsāt+buddhi (f.loc.sg)"
+     "gloss": "briefly-in-understanding",
+     "grounds": "briefly for understanding",
+     "morph": "(indecl.) + f.loc.sg"
     },
     {
      "surface": "yenāśu",
      "gloss": "by-which-quickly",
-     "grounds": "purpose of the brief account",
-     "morph": "compound = yena+āśu (indecl.)"
+     "grounds": "so that quickly",
+     "morph": "n.inst.sg + (indecl.)"
     },
     {
      "surface": "saṅkrāmet",
-     "gloss": "one-may-pass-over",
-     "grounds": "mental movement through the worlds",
-     "morph": "3.sg.opt.act + sam-√kram"
+     "gloss": "may-pass-over",
+     "grounds": "one may move across",
+     "morph": "3.sg.opt.act saṅkram"
     },
     {
      "surface": "aṇḍasyāntaranantaḥ",
-     "gloss": "within-the-egg-Ananta",
-     "grounds": "first item in the enumeration",
-     "morph": "compound = aṇḍa+antaḥ+ananta (m.nom.sg)"
+     "gloss": "inside-egg-ananta",
+     "grounds": "within the egg is Ananta",
+     "morph": "n.gen.sg compound aṇḍa+antaḥ + m.nom.sg"
     },
     {
      "surface": "kālaḥ",
-     "gloss": "Kāla",
-     "grounds": "next item in the enumeration",
+     "gloss": "time",
+     "grounds": "Kāla",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kūṣmāṇḍahāṭakau",
-     "gloss": "Kūṣmāṇḍa-and-Hāṭaka",
-     "grounds": "paired items in the enumeration",
-     "morph": "compound = kūṣmāṇḍa+hāṭaka (m.nom.du)"
+     "gloss": "kushmanda-and-hataka",
+     "grounds": "Kūṣmāṇḍa and Hāṭaka",
+     "morph": "m.nom.dual compound kūṣmāṇḍa+hāṭaka"
     },
     {
      "surface": "brahmaharī",
-     "gloss": "Brahmā-and-Hari",
-     "grounds": "paired deities in the enumeration",
-     "morph": "compound = brahman+hari (m.nom.du)"
+     "gloss": "brahma-and-hari",
+     "grounds": "Brahmā and Hari",
+     "morph": "m.nom.dual compound brahma+hari"
     }
    ],
-   "question": "Why will the measure of the worlds be told briefly and what begins the list?",
+   "question": "What inner cosmic figures are listed at the start of the world-measure account?",
    "premises": [
-    "That measure will be told briefly so the mind may quickly pass through it.",
-    "The enumeration begins within the cosmic egg.",
-    "The first named figures include Ananta, Kāla, Kūṣmāṇḍa and Hāṭaka, and Brahmā and Hari."
+    "The account will be given briefly for understanding so one may quickly traverse it.",
+    "Within the cosmic egg are Ananta and Kāla.",
+    "Also present are Kūṣmāṇḍa and Hāṭaka, and Brahmā and Hari."
    ],
-   "inference": "A concise account is given to aid rapid mental traversal of the worlds, starting with Ananta and other figures within the egg.",
+   "inference": "The world-measure summary begins by naming key figures inside the cosmic egg.",
    "uncertainties": [
-    "The exact cosmological placement of each named figure depends on the wider compendium context."
+    "The verse bridges a general introduction and a list, so its syntax is slightly compressed."
    ],
-   "plain_english": "That will be explained briefly so that the mind may quickly pass through it: within the egg are Ananta, Kāla, Kūṣmāṇḍa and Hāṭaka, and Brahmā and Hari."
+   "plain_english": "That will now be explained briefly so that the mind may quickly move through it. Within the cosmic egg are Ananta, Kāla, Kūṣmāṇḍa and Hāṭaka, and Brahmā and Hari."
   },
   {
    "verse": 408,
    "rows": [
     {
      "surface": "rudrāḥ",
-     "gloss": "the-Rudras",
-     "grounds": "group in the enumeration",
+     "gloss": "rudras",
+     "grounds": "the Rudras",
      "morph": "m.nom.pl"
     },
     {
      "surface": "śataṃ",
-     "gloss": "a-hundred",
-     "grounds": "number of Rudras",
+     "gloss": "hundred",
+     "grounds": "one hundred",
      "morph": "n.nom.sg"
     },
     {
      "surface": "savīraṃ",
-     "gloss": "together-with-their-heroes",
-     "grounds": "the Rudras with attendant powers",
-     "morph": "compound = sa+vīra (n.acc.sg used adverbially/collectively)"
+     "gloss": "with-heroes",
+     "grounds": "together with their hosts",
+     "morph": "n.acc.sg compound sa+vīra"
     },
     {
      "surface": "bahirnivṛttistu",
-     "gloss": "but-the-outer-Nivṛtti",
-     "grounds": "the outer level named Nivṛtti",
-     "morph": "compound = bahis+nivṛtti (f.nom.sg) + tu"
+     "gloss": "but-outer-nivritti",
+     "grounds": "but outside is Nivṛtti",
+     "morph": "f.nom.sg compound bahis+nivṛtti + (indecl.)"
     },
     {
      "surface": "sāṣṭaśatabhuvanā",
-     "gloss": "having-one-hundred-and-eight-worlds",
-     "grounds": "count of worlds in that level",
-     "morph": "compound = sa+aṣṭaśata+bhuvana (f.nom.sg)"
+     "gloss": "with-one-hundred-eight-worlds",
+     "grounds": "having one hundred and eight worlds",
+     "morph": "f.nom.sg compound sa+aṣṭa+śata+bhuvana"
     },
     {
      "surface": "syāt",
      "gloss": "would-be",
-     "grounds": "statement of the count",
-     "morph": "3.sg.opt.act + √as"
+     "grounds": "is",
+     "morph": "3.sg.opt.act as"
     },
     {
      "surface": "jalatejaḥsamīranabho@haṃkṛddhīmūlasaptake",
-     "gloss": "in-the-group-of-seven-water-fire-wind-space-ego-intellect-root",
-     "grounds": "the seven tattvas in which worlds are distributed",
-     "morph": "compound = jala+tejas+samīraṇa+nabhas+ahaṃkṛt+dhī+mūla+saptaka (n.loc.sg)"
+     "gloss": "in-water-fire-wind-space-ego-intellect-root-seven",
+     "grounds": "in the group of seven: water, fire, wind, space, ego, intellect, and root",
+     "morph": "n.loc.sg compound jala+tejas+samīraṇa+bhas+ahaṃkṛt+dhī+mūla+saptaka"
     },
     {
      "surface": "pratyekam",
-     "gloss": "each-in-turn",
-     "grounds": "distribution across the seven",
+     "gloss": "each",
+     "grounds": "individually",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How many worlds belong to outer Nivṛtti and across which tattvas are they distributed?",
+   "question": "How are the Rudras and the outer Nivṛtti worlds enumerated?",
    "premises": [
-    "There are a hundred Rudras together with their heroes.",
-    "Outer Nivṛtti has one hundred and eight worlds.",
-    "These are distributed each in turn across the seven tattvas: water, fire, wind, space, ego, intellect, and root nature."
+    "There are one hundred Rudras together with their hosts.",
+    "Outside is Nivṛtti with one hundred and eight worlds.",
+    "These are distributed individually across the sevenfold group of water, fire, wind, space, ego, intellect, and root."
    ],
-   "inference": "The outer Nivṛtti level comprises 108 worlds apportioned across the seven lower tattvas from water up to prakṛti.",
+   "inference": "The verse gives a numerical placement of Rudras and Nivṛtti worlds within the lower tattva grouping.",
    "uncertainties": [
-    "The relation of the hundred Rudras to the 108 worlds is compactly stated and may rely on the surrounding cosmological scheme."
+    "The exact distribution implied by pratyekam across the sevenfold group is not fully spelled out in this verse."
    ],
-   "plain_english": "There are a hundred Rudras with their heroes, and outer Nivṛtti has one hundred and eight worlds, distributed one by one across the seven tattvas of water, fire, wind, space, ego, intellect, and primal nature."
+   "plain_english": "There are one hundred Rudras with their hosts. Outside is Nivṛtti, which has one hundred and eight worlds, distributed individually across the sevenfold group of water, fire, wind, space, ego, intellect, and root."
   }
  ]
 }
