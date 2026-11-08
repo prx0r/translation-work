@@ -300,3 +300,12 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 - LOOP.sh stays STOPped until hand-drafting ends (prevents sibling-agent
   collisions); remove process/beam/LOOP.STOP to resume autonomous review.
 - Remaining 5 need beam (now flowing): a28/a03/a01/a08/a15.
+
+## Session pause (2026-11-08, owner said stop)
+
+- State at pause: REGISTRY 101/85/16. Loop healthy, 3 workers drafting via
+  deepseek failover; a03 has 10 triple groups pending; a15 glosses flowing.
+- LOOP.sh remains STOPped (remove process/beam/LOOP.STOP to resume the
+  sibling-agent review/draft loop).
+- To resume: review newest dones (swarm_review sample), assemble/promote any
+  complete song, keep triaging failures. Nothing is parked red; gates green.
