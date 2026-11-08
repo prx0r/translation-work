@@ -2,382 +2,784 @@
  "song": "Tantraloka a15",
  "items": [
   {
-   "verse": 97,
+   "verse": 109,
    "rows": [
     {
-     "surface": "tato",
-     "gloss": "therefore",
-     "grounds": "conclusion from previous",
+     "surface": "tacca",
+     "gloss": "and that",
+     "grounds": "connects to the preceding point",
      "morph": "(indecl.)"
     },
     {
-     "surface": "dehasthitaṃ",
-     "gloss": "situated-in-the-body",
-     "grounds": "location of worship",
-     "morph": "compound: deha+sthita (n.nom.sg)"
+     "surface": "saṃvidvikāsena",
+     "gloss": "by expansion of awareness",
+     "grounds": "means of realization",
+     "morph": "m.ins.sg"
     },
     {
-     "surface": "tasmāddehāyatanago",
-     "gloss": "therefore-going-to-the-body-as-abode",
-     "grounds": "shift to bodily site",
-     "morph": "compound: tasmāt+deha+āyatana+ga (m.nom.sg)"
-    },
-    {
-     "surface": "bhavet",
-     "gloss": "should-be",
-     "grounds": "prescriptive statement",
-     "morph": "3.sg.optative + bhū"
-    },
-    {
-     "surface": "bāhye",
-     "gloss": "in-the-external",
-     "grounds": "external site",
+     "surface": "śrīmadvīrāvalīpade",
+     "gloss": "in the glorious line of heroes",
+     "grounds": "locus of practice",
      "morph": "n.loc.sg"
     },
     {
-     "surface": "tu",
-     "gloss": "but",
-     "grounds": "contrast",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tādṛśāntaḥsthayogamārgaviśāradāḥ",
-     "gloss": "skilled-in-the-inner-yoga-path-of-that-kind",
-     "grounds": "qualified practitioners",
-     "morph": "compound: tādṛśa+antaḥstha+yoga+mārga+viśārada (m.nom.pl)"
-    }
-   ],
-   "question": "Where should worship be performed and who is qualified for the external form?",
-   "premises": [
-    "Worship can be situated in the body as its abode.",
-    "External worship is also possible.",
-    "Only those skilled in the corresponding inner yoga path are qualified for the external form."
-   ],
-   "inference": "Bodily worship is primary, while external worship is valid only for practitioners already adept in the inner yoga path.",
-   "uncertainties": [
-    "The exact scope of tādṛśa in tādṛśāntaḥsthayogamārgaviśāradāḥ depends on the immediately preceding context."
-   ],
-   "plain_english": "Therefore worship should be situated in the body, taking the body as its abode. External worship, however, is for those who are skilled in the corresponding inner yoga path."
-  },
-  {
-   "verse": 98,
-   "rows": [
-    {
-     "surface": "devyaḥ",
-     "gloss": "goddesses",
-     "grounds": "divine powers",
-     "morph": "f.nom.pl"
-    },
-    {
-     "surface": "svabhāvājjāyante",
-     "gloss": "arise-from-their-own-nature",
-     "grounds": "spontaneous manifestation",
-     "morph": "3.pl.present.middle + jan (with ablative compound)"
-    },
-    {
-     "surface": "pīṭhaṃ",
-     "gloss": "sacred-seat",
-     "grounds": "ritual site",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "tadvāhyamucyate",
-     "gloss": "is-called-external-to-that",
-     "grounds": "definition of external seat",
-     "morph": "3.sg.present.passive + vac (with compound tad+bāhya)"
-    },
-    {
-     "surface": "yathā",
-     "gloss": "just-as",
-     "grounds": "analogy",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "svabhāvato",
-     "gloss": "by-their-own-nature",
-     "grounds": "natural disposition",
-     "morph": "(indecl., ablative sense)"
-    },
-    {
-     "surface": "mlecchā",
-     "gloss": "barbarians",
-     "grounds": "example group",
-     "morph": "m.nom.pl"
-    },
-    {
-     "surface": "adharmapathavartinaḥ",
-     "gloss": "following-the-path-of-unrighteousness",
-     "grounds": "characterization of example",
-     "morph": "compound: adharma+patha+vartin (m.nom.pl)"
-    }
-   ],
-   "question": "How are the goddesses and the external sacred seat said to arise?",
-   "premises": [
-    "The goddesses arise from their own nature.",
-    "The sacred seat is called external to that inner reality.",
-    "An analogy is given with people who follow unrighteousness by their own nature."
-   ],
-   "inference": "Both the manifestation of the goddesses and the designation of an external seat are explained through inherent nature rather than external construction.",
-   "uncertainties": [
-    "The force of the analogy with mlecchas may be illustrative rather than strictly doctrinal."
-   ],
-   "plain_english": "The goddesses arise from their own nature, and the sacred seat is said to be external to that. This is like barbarians who, by their own nature, follow the path of unrighteousness."
-  },
-  {
-   "verse": 99,
-   "rows": [
-    {
-     "surface": "tatra",
-     "gloss": "there",
-     "grounds": "in that place",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "deśe",
-     "gloss": "in-the-place",
-     "grounds": "location",
+     "surface": "guravastu",
+     "gloss": "but in the guru",
+     "grounds": "object of focus",
      "morph": "m.loc.sg"
     },
     {
-     "surface": "niyatyetthaṃ",
-     "gloss": "by-fixed-rule-thus",
-     "grounds": "determined condition",
-     "morph": "compound: niyati+ittham"
-    },
-    {
-     "surface": "jñānayogau",
-     "gloss": "knowledge-and-yoga",
-     "grounds": "two disciplines",
-     "morph": "m.nom.du"
-    },
-    {
-     "surface": "sthitau",
-     "gloss": "established",
-     "grounds": "present condition",
-     "morph": "m.nom.du"
-    },
-    {
-     "surface": "kvacit",
-     "gloss": "somewhere",
-     "grounds": "occasional case",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "yathācātanmayo@pyeti",
-     "gloss": "just-as-even-one-made-of-consciousness-goes",
-     "grounds": "analogy of transformation",
-     "morph": "3.sg.present + i (with compounds yathā+caitanya+maya+api)"
-    },
-    {
-     "surface": "pāpitāṃ",
-     "gloss": "state-of-sinfulness",
-     "grounds": "negative transformation",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "taiḥ",
-     "gloss": "by-them",
-     "grounds": "agents of association",
-     "morph": "m.inst.pl"
-    },
-    {
-     "surface": "samāgamāt",
-     "gloss": "through-association",
-     "grounds": "cause of change",
-     "morph": "m.abl.sg"
-    }
-   ],
-   "question": "What effect can association with such a place have on knowledge and yoga?",
-   "premises": [
-    "In certain places knowledge and yoga are established in a fixed way.",
-    "Even a being made of consciousness can fall into sinfulness.",
-    "Such a fall can occur through association with others in that place."
-   ],
-   "inference": "Association with a particular place and its people can degrade even established knowledge and yoga.",
-   "uncertainties": [
-    "The sandhi resolution of yathācātanmayo@pyeti follows the supplied tokenization and may admit minor variation."
-   ],
-   "plain_english": "In some such place, knowledge and yoga may be established by fixed rule, yet even one who is made of consciousness can fall into sinfulness through association with those there."
-  },
-  {
-   "verse": 100,
-   "rows": [
-    {
-     "surface": "tathā",
-     "gloss": "likewise",
-     "grounds": "parallel case",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "pīṭhasthito@pyeti",
-     "gloss": "even-one-situated-in-the-sacred-seat-attains",
-     "grounds": "positive transformation",
-     "morph": "3.sg.present + i (with compounds pīṭha+sthita+api)"
-    },
-    {
-     "surface": "jñānayogādipātratām",
-     "gloss": "fitness-for-knowledge-yoga-and-so-on",
-     "grounds": "result of sacred association",
-     "morph": "compound: jñāna+yoga+ādi+pātratā (f.acc.sg)"
-    },
-    {
-     "surface": "mukhyatvena",
-     "gloss": "primarily",
-     "grounds": "mode of attainment",
-     "morph": "n.inst.sg"
-    },
-    {
-     "surface": "śarīre@ntaḥ",
-     "gloss": "within-the-body",
-     "grounds": "inner locus",
-     "morph": "compound: śarīra+antaḥ (locative sense)"
-    },
-    {
-     "surface": "prāṇe",
-     "gloss": "in-the-breath",
-     "grounds": "subtle locus",
-     "morph": "m.loc.sg"
-    },
-    {
-     "surface": "saṃvidi",
-     "gloss": "in-consciousness",
-     "grounds": "innermost locus",
+     "surface": "vimuktau",
+     "gloss": "in liberation",
+     "grounds": "goal",
      "morph": "f.loc.sg"
     },
     {
-     "surface": "paśyataḥ",
-     "gloss": "for-one-who-sees",
-     "grounds": "qualified perceiver",
-     "morph": "m.gen.sg (present participle of dṛś)"
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhau",
+     "gloss": "in attainment",
+     "grounds": "goal",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimalā",
+     "gloss": "pure",
+     "grounds": "quality of mind",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matiḥ",
+     "gloss": "mind",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
     }
    ],
-   "question": "How does one attain fitness for knowledge and yoga in the highest sense?",
+   "question": "What role does a pure mind focused on the guru play in liberation or attainment?",
    "premises": [
-    "One situated in a sacred seat can attain fitness for knowledge and yoga.",
-    "This attainment is primary when seen inwardly.",
-    "The inward seeing occurs in the body, in the breath, and in consciousness."
+    "Expansion of awareness occurs in the glorious line of heroes.",
+    "A pure mind may be directed toward the guru.",
+    "Liberation and attainment are presented as alternative aims."
    ],
-   "inference": "True fitness for knowledge and yoga arises primarily through inward realization across body, breath, and consciousness.",
+   "inference": "Through expansion of awareness in the heroic lineage, a pure mind directed toward the guru serves as the basis for either liberation or attainment.",
    "uncertainties": [
-    "The exact syntactic scope of mukhyatvena could be read with paśyataḥ or with the attainment itself."
+    "The exact nuance of śrīmadvīrāvalīpade as a place, state, or tradition is context-dependent."
    ],
-   "plain_english": "Likewise, even one situated in a sacred seat attains fitness for knowledge, yoga, and the rest, primarily for one who sees inwardly in the body, in the breath, and in consciousness."
+   "plain_english": "Through the expansion of awareness in the glorious line of heroes, a pure mind directed toward the guru becomes the cause for either liberation or attainment."
   },
   {
-   "verse": 101,
+   "verse": 110,
    "rows": [
     {
-     "surface": "viśvametatkimanyaiḥ",
-     "gloss": "this-whole-universe-what-with-others",
-     "grounds": "rhetorical dismissal of alternatives",
-     "morph": "compound: viśva+etat+kim+anya (inst.pl sense)"
+     "surface": "heturityubhayatrāpi",
+     "gloss": "is the cause in both cases also",
+     "grounds": "states causal role",
+     "morph": "f.nom.sg"
     },
     {
-     "surface": "syādbahirbhramaṇaḍambaraiḥ",
-     "gloss": "would-be-with-outer-wandering-displays",
-     "grounds": "critique of externalism",
-     "morph": "3.sg.optative + as (with compound bahir+bhramaṇa+ḍambara, m.inst.pl)"
+     "surface": "yāgauko",
+     "gloss": "fit for worship",
+     "grounds": "suitable object or place",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "ityevamantarbāhye",
-     "gloss": "thus-in-this-way-inward-and-outward",
-     "grounds": "summary of two domains",
-     "morph": "compound: iti+evam+antar+bāhya (n.loc.sg)"
+     "surface": "yanmanoramam",
+     "gloss": "whatever is pleasing to the mind",
+     "grounds": "criterion of choice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niyatiprāṇatāyogātsāmagrītastu",
+     "gloss": "but from completeness joined to the life of necessity",
+     "grounds": "explains efficacy",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "concession",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why can whatever is pleasing and fit for worship serve as a cause in both liberation and attainment?",
+   "premises": [
+    "The same cause can operate in both liberation and attainment.",
+    "Whatever is pleasing to the mind and fit for worship may be chosen.",
+    "Its effectiveness depends on completeness joined with the force of necessity."
+   ],
+   "inference": "Although the chosen object may vary, its causal power in both aims comes from the completeness of conditions grounded in necessity.",
+   "uncertainties": [
+    "The compressed compound niyatiprāṇatāyogātsāmagrītastu allows more than one syntactic unpacking."
+   ],
+   "plain_english": "In both liberation and attainment, whatever is pleasing to the mind and fit for worship can be the cause, because its effectiveness comes from the completeness of conditions operating through necessity."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "siddhayo",
+     "gloss": "attainments",
+     "grounds": "possible results",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhāvavaimalyaṃ",
+     "gloss": "purity of being",
+     "grounds": "inner condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "even so",
+     "grounds": "concession",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikhilottamam",
+     "gloss": "best of all",
+     "grounds": "highest standard",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vimalībhūtahṛdayo",
+     "gloss": "one whose heart has become pure",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yattatra",
+     "gloss": "whatever there",
+     "grounds": "object of reflection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibimbayet",
+     "gloss": "would reflect",
+     "grounds": "act of contemplation",
+     "morph": "3.sg.opt.act √pratibimb"
+    }
+   ],
+   "question": "How does a person with a purified heart determine what is truly best among possible attainments?",
+   "premises": [
+    "Attainments and purity of being are both possible outcomes.",
+    "A practitioner may have a heart that has become pure.",
+    "Such a practitioner reflects on what is highest in that context."
+   ],
+   "inference": "Even when attainments are available, the one with a purified heart discerns and reflects upon what is best of all.",
+   "uncertainties": [
+    "The referent of tatra is not explicit within this verse alone."
+   ],
+   "plain_english": "Although attainments and purity of being may both arise, a person whose heart has become pure reflects on whatever is best of all in that situation."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "what is to be accomplished",
+     "grounds": "goal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadasya",
+     "gloss": "that of this person",
+     "grounds": "possession or relation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dārḍhyena",
+     "gloss": "through firmness",
+     "grounds": "means",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saphalatvāya",
+     "gloss": "for fruitful success",
+     "grounds": "purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kalpate",
+     "gloss": "becomes fit",
+     "grounds": "result",
+     "morph": "3.sg.pres.mid √kḷp"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "it is said",
+     "grounds": "scriptural citation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīsāraśāstre",
+     "gloss": "in the glorious Sāraśāstra",
+     "grounds": "source text",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connection",
+     "grounds": "addition",
      "morph": "(indecl.)"
     },
     {
-     "surface": "tattaccakraphalārthinām",
-     "gloss": "for-those-seeking-the-fruit-of-each-respective-circle",
-     "grounds": "intended practitioners",
-     "morph": "compound: tat+tat+cakra+phala+arthin (m.gen.pl)"
-    }
-   ],
-   "question": "Why is outer wandering unnecessary for those seeking the fruit of the sacred circles?",
-   "premises": [
-    "The whole universe is already present in the inward and outward domains under discussion.",
-    "Outer wandering is presented as mere display.",
-    "Practitioners seek the fruit of specific sacred circles."
-   ],
-   "inference": "For seekers of the circles' fruit, elaborate external wandering is unnecessary because the relevant reality is accessible inwardly and outwardly as taught.",
-   "uncertainties": [
-    "The compound viśvametatkimanyaiḥ is compressed and its rhetorical force is slightly interpretive."
-   ],
-   "plain_english": "This whole universe is already here, so what is the use of other outward displays of wandering? Thus, for those who seek the fruit of each respective circle, the matter applies both inwardly and outwardly."
-  },
-  {
-   "verse": 102,
-   "rows": [
-    {
-     "surface": "sthānabhedo",
-     "gloss": "difference-of-place",
-     "grounds": "topic of variation",
-     "morph": "compound: sthāna+bheda (m.nom.sg)"
-    },
-    {
-     "surface": "vicitraśca",
-     "gloss": "and-varied",
-     "grounds": "characterization",
-     "morph": "m.nom.sg + (indecl.)"
-    },
-    {
-     "surface": "sa",
-     "gloss": "that",
-     "grounds": "anaphoric reference",
+     "surface": "nirvikalpo",
+     "gloss": "free of conceptual construction",
+     "grounds": "qualified state",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "śāstre",
-     "gloss": "in-scripture",
-     "grounds": "textual locus",
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "result",
+     "morph": "3.sg.pres.act √sidh"
+    }
+   ],
+   "question": "What makes a chosen spiritual goal become truly fruitful according to the cited teaching?",
+   "premises": [
+    "A goal becomes fruitful when pursued with firmness.",
+    "The Sāraśāstra is cited as authority.",
+    "The one free of conceptual construction succeeds."
+   ],
+   "inference": "Firmness makes the goal fruitful, and scriptural authority supports this by stating that success belongs to the one free of conceptual construction.",
+   "uncertainties": [
+    "The exact identity of śrīsāraśāstra is not specified in this verse."
+   ],
+   "plain_english": "What one seeks becomes fruitful through firmness, and the Sāraśāstra says that the one who is free of conceptual construction truly succeeds."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "kliśyante",
+     "gloss": "they struggle",
+     "grounds": "difficulty",
+     "morph": "3.pl.pres.pass √kliś"
+    },
+    {
+     "surface": "savikalpāstu",
+     "gloss": "but those with conceptual construction",
+     "grounds": "contrasted group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kalpokte@pi",
+     "gloss": "even when what is prescribed by ritual is done",
+     "grounds": "concession",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when performed",
+     "grounds": "condition",
      "morph": "n.loc.sg"
     },
     {
-     "surface": "saṃkhyayojjhitaḥ",
-     "gloss": "beyond-counting",
-     "grounds": "immeasurable variety",
-     "morph": "compound: saṃkhyā+ujjhita (m.nom.sg)"
+     "surface": "sati",
+     "gloss": "being so",
+     "grounds": "condition",
+     "morph": "n.loc.sg"
     },
     {
-     "surface": "śrīvīrāvalihṛdaye",
-     "gloss": "in-the-heart-of-the-venerable-vīrāvali",
-     "grounds": "scriptural citation",
-     "morph": "compound: śrī+vīrāvali+hṛdaya (n.loc.sg)"
+     "surface": "tadākramya",
+     "gloss": "having resorted to that",
+     "grounds": "method",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "sapta",
-     "gloss": "seven",
-     "grounds": "specific count",
-     "morph": "(indecl., numeral)"
+     "surface": "balaṃ",
+     "gloss": "power",
+     "grounds": "force accessed",
+     "morph": "n.acc.sg"
     },
     {
-     "surface": "sthānāni",
-     "gloss": "places",
-     "grounds": "listed sites",
-     "morph": "n.nom.pl"
+     "surface": "mantrā",
+     "gloss": "the mantras",
+     "grounds": "agents",
+     "morph": "m.nom.pl"
     },
     {
-     "surface": "śaktikamalayugam",
-     "gloss": "pair-of-śakti-lotuses",
-     "grounds": "specific site-pair",
-     "morph": "compound: śakti+kamala+yuga (n.nom.sg)"
+     "surface": "ayamevodayaḥ",
+     "gloss": "this indeed is the arising",
+     "grounds": "conclusion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuṭaḥ",
+     "gloss": "clear",
+     "grounds": "quality of conclusion",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "How extensive is the variation of sacred places taught in the scriptures?",
+   "question": "Why do conceptually divided practitioners struggle even when ritual prescriptions are followed?",
    "premises": [
-    "The difference of sacred places is varied.",
-    "In scripture this variation is beyond counting.",
-    "The Vīrāvalihṛdaya specifically mentions seven places and a pair of śakti-lotuses."
+    "Those with conceptual construction struggle even when prescribed rites are performed.",
+    "Mantras draw upon a power that must be accessed.",
+    "The arising of that power is presented as clear and direct."
    ],
-   "inference": "Although scriptural teaching presents countless variations of sacred places, some texts give specific enumerations.",
+   "inference": "Ritual performance alone does not remove struggle for the conceptually divided, because effective mantra power depends on directly accessing that underlying force.",
    "uncertainties": [
-    "The final token śaktikamalayugam may be part of the enumerated list in a way not fully explicit in this verse alone."
+    "The antecedent of tad in tadākramya could refer to a state, method, or support mentioned earlier."
    ],
-   "plain_english": "The difference of sacred places is varied and, in scripture, beyond counting. In the Vīrāvalihṛdaya, seven places are mentioned, along with a pair of śakti-lotuses."
+   "plain_english": "Those who remain caught in conceptual construction struggle even when they perform what the ritual prescribes, but when that underlying power is truly accessed, the mantras rise clearly and effectively."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "ityādibhiḥ",
+     "gloss": "by such statements and others",
+     "grounds": "supporting citations",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "spandavākyairetadeva",
+     "gloss": "by sayings of the Spanda, this very point",
+     "grounds": "authoritative source",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "nirūpitam",
+     "gloss": "has been explained",
+     "grounds": "established teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmātsiddhyai",
+     "gloss": "therefore for attainment",
+     "grounds": "purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "vimuktyai",
+     "gloss": "or for liberation",
+     "grounds": "purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjājapasamādhiṣu",
+     "gloss": "in worship, recitation, and absorption",
+     "grounds": "contexts of practice",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "What do the Spanda teachings establish about practice aimed at attainment or liberation?",
+   "premises": [
+    "Sayings of the Spanda and similar statements explain the same point.",
+    "Attainment and liberation are both valid aims.",
+    "Worship, recitation, and absorption are the relevant practices."
+   ],
+   "inference": "The Spanda teachings confirm that the same principle applies in worship, recitation, and absorption whether the aim is attainment or liberation.",
+   "uncertainties": [
+    "The exact Spanda passages referred to by ityādibhiḥ are not named here."
+   ],
+   "plain_english": "Statements from the Spanda and others make this same point clear: in worship, recitation, and absorption, the same principle holds whether one seeks attainment or liberation."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "tatsthānaṃ",
+     "gloss": "that place",
+     "grounds": "locus of practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśrāntisundaraṃ",
+     "gloss": "beautiful with repose",
+     "grounds": "quality of the heart",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "the heart",
+     "grounds": "inner center",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may be",
+     "grounds": "condition",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "yāgaukaḥ",
+     "gloss": "fit for worship",
+     "grounds": "suitability",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having reached",
+     "grounds": "prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhātmā",
+     "gloss": "one of pure being",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahireva",
+     "gloss": "only outwardly",
+     "grounds": "mode of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavasthitaḥ",
+     "gloss": "situated",
+     "grounds": "stance",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where should a purified practitioner establish worship when the heart comes to rest?",
+   "premises": [
+    "A place becomes fit for worship where the heart rests beautifully.",
+    "The practitioner is described as pure in being.",
+    "The practitioner may still be situated outwardly."
+   ],
+   "inference": "The proper place for worship is wherever the heart finds repose, and a purified practitioner may take that as the basis even while acting outwardly.",
+   "uncertainties": [
+    "It is slightly ambiguous whether tatsthānaṃ refers to an inner locus, an outer site, or both."
+   ],
+   "plain_english": "Wherever the heart comes to rest in a beautiful stillness, that place is fit for worship; having reached it, a purified practitioner may remain outwardly engaged while grounded there."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "installation",
+     "grounds": "ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāmānyataḥ",
+     "gloss": "in a general way",
+     "grounds": "mode",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādbahiryāgaprasiddhaye",
+     "gloss": "one should perform for the establishment of outer worship",
+     "grounds": "purpose",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "mātṛkāṃ",
+     "gloss": "the Mātṛkā",
+     "grounds": "mantra system",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mālinīṃ",
+     "gloss": "the Mālinī",
+     "grounds": "mantra system",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or else",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitayaṃ",
+     "gloss": "the pair",
+     "grounds": "combined option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramākramāt",
+     "gloss": "in sequence or non-sequence",
+     "grounds": "method",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the practitioner perform nyāsa to establish outer worship?",
+   "premises": [
+    "Nyāsa is performed for the establishment of outer worship.",
+    "The Mātṛkā and Mālinī are available systems.",
+    "They may be used singly or together, in sequence or non-sequence."
+   ],
+   "inference": "To establish outer worship, one should perform a general nyāsa using Mātṛkā, Mālinī, or both, following either sequential or non-sequential order.",
+   "uncertainties": [
+    "The practical distinction between krama and akrama here depends on ritual context not fully stated in the verse."
+   ],
+   "plain_english": "For the establishment of outer worship, one should perform a general nyāsa using the Mātṛkā, the Mālinī, or both, either in sequence or in non-sequence."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "sṛṣṭyapyayadvayaiḥ",
+     "gloss": "with the two modes of emission and withdrawal",
+     "grounds": "ritual pattern",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kuryādekaikaṃ",
+     "gloss": "one should do each one",
+     "grounds": "instruction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "saṃghaśo",
+     "gloss": "in groups",
+     "grounds": "distribution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviśaḥ",
+     "gloss": "two by two",
+     "grounds": "distribution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lalāṭavaktre",
+     "gloss": "on forehead and face",
+     "grounds": "body locations",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dṛkkarṇanāsāgaṇḍaradauṣṭhage",
+     "gloss": "placed on eyes, ears, nose, cheeks, teeth, and lips",
+     "grounds": "body locations",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How are the mantra elements to be placed on the upper parts of the body during nyāsa?",
+   "premises": [
+    "The placement follows the two modes of emission and withdrawal.",
+    "The elements are applied individually and in groups.",
+    "Specific upper facial locations are named for placement."
+   ],
+   "inference": "The nyāsa is performed by applying each element, singly and in pairs, according to emission and withdrawal, across the forehead, face, and other upper facial parts.",
+   "uncertainties": [
+    "The exact mapping of each phoneme to each location is continued in the following verses."
+   ],
+   "plain_english": "Using the two modes of emission and withdrawal, one should place the elements one by one and in pairs on the forehead, face, eyes, ears, nose, cheeks, teeth, and lips."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "dvaye",
+     "gloss": "in the pair",
+     "grounds": "grouping",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvaye",
+     "gloss": "in the pair",
+     "grounds": "grouping",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śikhājihve",
+     "gloss": "on crown-tuft and tongue",
+     "grounds": "body locations",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "visargāntāstu",
+     "gloss": "but ending with visarga",
+     "grounds": "phoneme range",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣānyayoḥ",
+     "gloss": "on right and left",
+     "grounds": "sides of body",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "skandhabāhukarāṅgulinakhe",
+     "gloss": "on shoulder, arm, hand, finger, and nail",
+     "grounds": "body locations",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kacau",
+     "gloss": "the ka and ca groups",
+     "grounds": "phoneme groups",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which phoneme groups and body locations are assigned in this stage of the nyāsa?",
+   "premises": [
+    "Sixteen phonemes ending with visarga are assigned in pairs.",
+    "The crown-tuft and tongue are specified locations.",
+    "The ka and ca groups are placed on the right and left upper limbs."
+   ],
+   "inference": "This stage assigns sixteen phonemes up to visarga in paired placements, including the crown-tuft and tongue, and distributes the ka and ca groups across the right and left shoulders, arms, hands, fingers, and nails.",
+   "uncertainties": [
+    "The exact pairwise mapping of the sixteen phonemes is compressed and partly implicit."
+   ],
+   "plain_english": "In this stage, sixteen phonemes ending with visarga are placed in pairs, including on the crown-tuft and tongue, while the ka and ca groups are assigned to the right and left shoulders, arms, hands, fingers, and nails."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "vargau",
+     "gloss": "the two groups",
+     "grounds": "phoneme groups",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "ṭatau",
+     "gloss": "ṭa and ta",
+     "grounds": "specific groups",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "kramātkaṭyāmūrvādiṣu",
+     "gloss": "in order on hips, thighs, and so on",
+     "grounds": "body locations",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one should place",
+     "grounds": "instruction",
+     "morph": "3.sg.opt.act √ni-yuj"
+    },
+    {
+     "surface": "pavargaṃ",
+     "gloss": "the pa group",
+     "grounds": "phoneme group",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on the two sides",
+     "grounds": "body locations",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on the back",
+     "grounds": "body location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jaṭhare",
+     "gloss": "on the belly",
+     "grounds": "body location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdyatho",
+     "gloss": "and then on the heart",
+     "grounds": "body location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "count",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the ṭa, ta, and pa phoneme groups be placed in the continuing nyāsa sequence?",
+   "premises": [
+    "The ṭa and ta groups are to be placed in order on the lower body.",
+    "The pa group is assigned to the sides, back, belly, and heart.",
+    "A count of nine is specified in this placement."
+   ],
+   "inference": "The nyāsa continues by placing the ṭa and ta groups in sequence on the hips and lower limbs, and the pa group across the sides, back, belly, and heart in a ninefold assignment.",
+   "uncertainties": [
+    "The verse compresses the exact distribution that yields the count of nine."
+   ],
+   "plain_english": "One should place the ṭa and ta groups in order on the hips, thighs, and so forth, and place the pa group on the sides, back, belly, and heart, making a ninefold assignment."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "tvagraktamāṃsasūtrāsthivasāśukrapurogamān",
+     "gloss": "led by skin, blood, flesh, sinew, bone, fat, and seed",
+     "grounds": "bodily constituents",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ityeṣa",
+     "gloss": "thus this",
+     "grounds": "summary marker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātṛkānyāso",
+     "gloss": "Mātṛkā installation",
+     "grounds": "ritual system",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mālinyāstu",
+     "gloss": "but of the Mālinī",
+     "grounds": "transition to next system",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is explained",
+     "grounds": "forthcoming exposition",
+     "morph": "3.sg.pres.pass √nirūp"
+    }
+   ],
+   "question": "How does the text conclude the Mātṛkā nyāsa and introduce the Mālinī nyāsa?",
+   "premises": [
+    "The Mātṛkā nyāsa is associated with bodily constituents beginning with skin and ending with seed.",
+    "The verse marks the completion of that exposition.",
+    "The Mālinī nyāsa is introduced as the next topic."
+   ],
+   "inference": "The text summarizes the Mātṛkā nyāsa as extending through the bodily constituents and then turns to explain the Mālinī nyāsa.",
+   "uncertainties": [
+    "The precise correlation between each constituent and each mantra element is not spelled out in this verse."
+   ],
+   "plain_english": "This completes the Mātṛkā nyāsa, extending through the bodily constituents from skin to seed, and now the Mālinī nyāsa is explained."
   }
  ]
 }
