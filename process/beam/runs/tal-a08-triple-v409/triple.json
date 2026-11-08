@@ -1,0 +1,805 @@
+{
+ "song": "Tantraloka 8.421-432",
+ "items": [
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "niyatau",
+     "gloss": "in-restriction",
+     "grounds": "tattva of niyati",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śaṅkaradaśakaṃ",
+     "gloss": "group-of-ten-Śaṅkaras",
+     "grounds": "ten worlds",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "tattva of kāla",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śivadaśakamiti",
+     "gloss": "group-of-ten-Śivas-thus",
+     "grounds": "ten worlds",
+     "morph": "n.nom.sg + (indecl.), compound"
+    },
+    {
+     "surface": "puradvitayam",
+     "gloss": "pair-of-cities",
+     "grounds": "two world-groups",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "rāge",
+     "gloss": "in-attachment",
+     "grounds": "tattva of rāga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "suhṛṣṭabhuvanaṃ",
+     "gloss": "well-delighted-world",
+     "grounds": "named world",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "guruśiṣyapuraṃ",
+     "gloss": "teacher-disciple-city",
+     "grounds": "named world",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vitkalāyugale",
+     "gloss": "in-the-pair-of-vidyā-and-kalā",
+     "grounds": "tattvas vidyā and kalā",
+     "morph": "n.loc.sg, compound"
+    }
+   ],
+   "question": "Which world-groups are assigned to niyati, kāla, rāga, and the vidyā-kalā pair?",
+   "premises": [
+    "In niyati there is a group of ten Śaṅkaras.",
+    "In kāla there is a group of ten Śivas, forming a pair of cities.",
+    "In rāga there is the well-delighted world and the teacher-disciple city.",
+    "In the pair of vidyā and kalā further worlds are assigned."
+   ],
+   "inference": "The tattvas niyati, kāla, rāga, and the vidyā-kalā pair each contain specific named world-groups in the spatial hierarchy.",
+   "uncertainties": [
+    "The exact identity of the ten Śaṅkaras and ten Śivas is not specified in this verse."
+   ],
+   "plain_english": "In the tattva of restriction there are ten Śaṅkara worlds; in time there are ten Śiva worlds, making two cities. In attachment there are the well-delighted world and the teacher-disciple city, and in the pair of knowledge and limited agency there are further worlds."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "bhuvanaṃ",
+     "gloss": "world",
+     "grounds": "unit of space",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhuvanaṃ",
+     "gloss": "world",
+     "grounds": "repeated unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "in-night",
+     "grounds": "location or division",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "puṭapuratrayaṃ",
+     "gloss": "three-cities-of-the-sheath",
+     "grounds": "group of three worlds",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "vākpuraṃ",
+     "gloss": "city-of-speech",
+     "grounds": "named world",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "pramāṇapuram",
+     "gloss": "city-of-measure",
+     "grounds": "named world",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptaviṃśatipurā",
+     "gloss": "having-twenty-seven-cities",
+     "grounds": "total count",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "tattva or domain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puruṣāditattvasaptakayuk",
+     "gloss": "joined-with-seven-tattvas-beginning-with-puruṣa",
+     "grounds": "tattva grouping",
+     "morph": "f.nom.sg, compound"
+    }
+   ],
+   "question": "How many cities belong to vidyā together with the seven tattvas beginning with puruṣa?",
+   "premises": [
+    "World after world is placed in night, including the three cities of the sheath.",
+    "The city of speech and the city of measure are included.",
+    "Vidyā, joined with the seven tattvas beginning with puruṣa, has twenty-seven cities."
+   ],
+   "inference": "The domain of vidyā together with the seven tattvas beginning with puruṣa comprises twenty-seven worlds in total.",
+   "uncertainties": [
+    "The sense of 'niśi' (in night) as a cosmological division is not fully clear from this verse alone."
+   ],
+   "plain_english": "World after world is set out, including the three sheath-cities, the city of speech, and the city of measure. Thus vidyā, together with the seven tattvas beginning with puruṣa, contains twenty-seven cities."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "vāmeśarūpasūkṣmaṃ",
+     "gloss": "Vāmeśa-Rūpa-Sūkṣma",
+     "grounds": "named worlds or principles",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "pure domain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyātha",
+     "gloss": "knowledge-then",
+     "grounds": "tattva of śuddhavidyā",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śaktitejasvimitiḥ",
+     "gloss": "measure-of-Śakti’s-radiance",
+     "grounds": "named principle",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "suviśuddhiśivau",
+     "gloss": "Suviśuddhi-and-Śiva",
+     "grounds": "named worlds",
+     "morph": "m.nom.du, compound"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "named world or state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhuveṣisaṃbuddhasamayasauśivasaṃjñāḥ",
+     "gloss": "named-Dhuva-Īśa-Saṃbuddha-Samaya-Sauśiva",
+     "grounds": "list of named worlds",
+     "morph": "m.nom.pl, compound"
+    }
+   ],
+   "question": "Which pure worlds and principles are enumerated in the domain of pure knowledge?",
+   "premises": [
+    "Vāmeśa, Rūpa, and Sūkṣma belong to the pure domain.",
+    "Pure knowledge and the measure of Śakti’s radiance are included.",
+    "Suviśuddhi, Śiva, Mokṣa, Dhuva, Īśa, Saṃbuddha, Samaya, and Sauśiva are named."
+   ],
+   "inference": "The verse enumerates a sequence of pure worlds and principles associated with śuddhavidyā and the higher pure order.",
+   "uncertainties": [
+    "The exact boundaries between tattvas and world-names in this list are compressed in the compound."
+   ],
+   "plain_english": "In the pure domain are Vāmeśa, Rūpa, and Sūkṣma; then pure knowledge and the measure of Śakti’s radiance; then Suviśuddhi and Śiva, and the worlds named Mokṣa, Dhuva, Īśa, Saṃbuddha, Samaya, and Sauśiva."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "saptadaśapurā",
+     "gloss": "having-seventeen-cities",
+     "grounds": "total count",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "śāntā",
+     "gloss": "peaceful",
+     "grounds": "śāntā level",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyeśasadāśivapuratritayayuktā",
+     "gloss": "joined-with-the-three-cities-of-Vidyeśa-and-Sadāśiva",
+     "grounds": "included world-groups",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "bindvardhendunirodhyaḥ",
+     "gloss": "Bindu-Half-moon-Nirodhikā",
+     "grounds": "named subtle principles",
+     "morph": "f.nom.pl, compound"
+    },
+    {
+     "surface": "parasauśivamindhikādipurasauṣumne",
+     "gloss": "in-the-supreme-Sauśiva-and-Indhikā-and-other-cities-of-the-central-channel",
+     "grounds": "higher subtle locations",
+     "morph": "n.loc.sg, compound"
+    }
+   ],
+   "question": "What constitutes the seventeen-city domain of the peaceful level?",
+   "premises": [
+    "The peaceful level has seventeen cities.",
+    "It is joined with the three cities of Vidyeśa and Sadāśiva.",
+    "It includes Bindu, Half-moon, and Nirodhikā.",
+    "It extends to the supreme Sauśiva and the Indhikā and other cities of the central channel."
+   ],
+   "inference": "The śāntā level is defined as a seventeen-world domain spanning Vidyeśa-Sadāśiva cities and subtle principles up to the central-channel Sauśiva region.",
+   "uncertainties": [
+    "The precise parsing of 'indhikādi' as a world-name series is inferred from context."
+   ],
+   "plain_english": "The peaceful level has seventeen cities. It includes the three cities of the Vidyeśas and Sadāśiva, the principles Bindu, Half-moon, and Nirodhikā, and reaches up to the supreme Sauśiva and the Indhikā and other cities of the central channel."
+  },
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "paranādo",
+     "gloss": "supreme-sound",
+     "grounds": "highest nāda principle",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "brahmabilaṃ",
+     "gloss": "cavity-of-Brahman",
+     "grounds": "subtle locus",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "sūkṣmādiyutordhvakuṇḍalī",
+     "gloss": "upper-Kuṇḍalinī-joined-with-Sūkṣma-and-others",
+     "grounds": "subtle power and associates",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "Śakti principle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāpivyomānantānāthānāśritapurāṇi",
+     "gloss": "cities-supported-by-Vyāpin-Vyoman-Ananta-Anātha",
+     "grounds": "four supporting principles",
+     "morph": "n.nom.pl, compound"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "count",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which five cities follow after the supreme sound and related subtle principles?",
+   "premises": [
+    "The supreme sound, the cavity of Brahman, and the upper Kuṇḍalinī joined with Sūkṣma and others are named.",
+    "Śakti is included in this sequence.",
+    "Five cities are supported by Vyāpin, Vyoman, Ananta, and Anātha."
+   ],
+   "inference": "After the highest subtle principles, five cities are established in dependence on Vyāpin, Vyoman, Ananta, and Anātha.",
+   "uncertainties": [
+    "The syntactic role of 'śaktiḥ' in the list is slightly compressed and may mark a transition."
+   ],
+   "plain_english": "There are the supreme sound, the cavity of Brahman, the upper Kuṇḍalinī joined with Sūkṣma and others, and Śakti; then come five cities supported by Vyāpin, Vyoman, Ananta, and Anātha."
+  },
+  {
+   "verse": 426,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "ordinal count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramamanāśritamatha",
+     "gloss": "supported-by-Paramamanas-then",
+     "grounds": "sixth support",
+     "morph": "n.nom.sg + (indecl.), compound"
+    },
+    {
+     "surface": "samanābhuvanaṣoḍaśī",
+     "gloss": "sixteen-world-group-of-Samanā",
+     "grounds": "alternative grouping",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bindvāvaraṇaṃ",
+     "gloss": "enclosure-of-Bindu",
+     "grounds": "subtle domain",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "parasauśivaṃ",
+     "gloss": "supreme-Sauśiva",
+     "grounds": "highest Sauśiva level",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcendhikādibhuvanāni",
+     "gloss": "five-worlds-beginning-with-Indhikā",
+     "grounds": "group of five worlds",
+     "morph": "n.nom.pl, compound"
+    }
+   ],
+   "question": "What alternative arrangements are given for the sixth and the Samanā world-group?",
+   "premises": [
+    "A sixth city is supported by Paramamanas.",
+    "Alternatively, there is a sixteen-world group of Samanā.",
+    "Another arrangement includes the enclosure of Bindu, the supreme Sauśiva, and five worlds beginning with Indhikā."
+   ],
+   "inference": "The text presents alternative ways of counting or grouping the highest subtle worlds around Paramamanas, Samanā, Bindu, and Sauśiva.",
+   "uncertainties": [
+    "The exact equivalence between the two alternative groupings is not spelled out in this verse."
+   ],
+   "plain_english": "Then there is a sixth, supported by Paramamanas. Alternatively, one may speak of the sixteen-world group of Samanā, or of the enclosure of Bindu, the supreme Sauśiva, and the five worlds beginning with Indhikā."
+  },
+  {
+   "verse": 427,
+   "rows": [
+    {
+     "surface": "sauṣumnaṃ",
+     "gloss": "of-the-central-channel",
+     "grounds": "subtle channel domain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmabilaṃ",
+     "gloss": "cavity-of-Brahman",
+     "grounds": "subtle locus",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "kuṇḍalinī",
+     "gloss": "Kuṇḍalinī",
+     "grounds": "subtle power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāpipañcakaṃ",
+     "gloss": "group-of-five-Vyāpins",
+     "grounds": "fivefold vyāpi principles",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "samanā",
+     "gloss": "Samanā",
+     "grounds": "highest subtle principle in this set",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "summary marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśabhuvaneyaṃ",
+     "gloss": "this-sixteen-world-group",
+     "grounds": "total count",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "tattvayugaṃ",
+     "gloss": "pair-of-tattvas",
+     "grounds": "associated tattva pair",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "śāntyatītā",
+     "gloss": "beyond-peace",
+     "grounds": "śāntyatītā level",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "identification",
+     "morph": "3.sg.optative, √as"
+    }
+   ],
+   "question": "How is the sixteen-world group of the beyond-peace level defined?",
+   "premises": [
+    "The central-channel domain, the cavity of Brahman, Kuṇḍalinī, the five Vyāpins, and Samanā are listed.",
+    "Together these form a sixteen-world group.",
+    "This group is identified with the pair of tattvas of the beyond-peace level."
+   ],
+   "inference": "The śāntyatītā level consists of sixteen worlds corresponding to a pair of tattvas and culminating in Samanā.",
+   "uncertainties": [
+    "The exact internal count that yields sixteen from the listed items is not itemized in the verse."
+   ],
+   "plain_english": "The central-channel domain, the cavity of Brahman, Kuṇḍalinī, the five Vyāpins, and Samanā together make up this sixteen-world group. This is the pair of tattvas belonging to the level beyond peace."
+  },
+  {
+   "verse": 428,
+   "rows": [
+    {
+     "surface": "śrīmanmataṅgaśāstre",
+     "gloss": "in-the-revered-Mataṅga-scripture",
+     "grounds": "scriptural source",
+     "morph": "n.loc.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramo@yaṃ",
+     "gloss": "this-sequence",
+     "grounds": "order of worlds",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "purapūgagaḥ",
+     "gloss": "going-through-the-mass-of-cities",
+     "grounds": "arrangement of worlds",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "kālāgnirnarakāḥ",
+     "gloss": "Kālāgni-and-the-hells",
+     "grounds": "lowest region",
+     "morph": "m.nom.pl, compound"
+    },
+    {
+     "surface": "khābdhiyutaṃ",
+     "gloss": "joined-with-zero-and-four",
+     "grounds": "numerical expression for forty",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "mukhyatayā",
+     "gloss": "principally",
+     "grounds": "qualification",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "count",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What world-order is reported from the Mataṅga scripture at the lowest level?",
+   "premises": [
+    "The revered Mataṅga scripture gives a sequence of world-groups.",
+    "That sequence begins with Kālāgni and the hells.",
+    "It includes a hundred, principally joined with forty."
+   ],
+   "inference": "According to the Mataṅga scripture, the lower cosmological sequence starts from Kālāgni and the hells and is counted as one hundred and forty in its main reckoning.",
+   "uncertainties": [
+    "The exact referent of the additional forty within the hundred is not specified in this verse."
+   ],
+   "plain_english": "In the revered Mataṅga scripture this sequence of cities is given: beginning with Kālāgni and the hells, it amounts principally to one hundred and forty."
+  },
+  {
+   "verse": 429,
+   "rows": [
+    {
+     "surface": "kūṣmāṇḍaḥ",
+     "gloss": "Kūṣmāṇḍa",
+     "grounds": "world or ruler",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptapātālī",
+     "gloss": "seven-netherworlds",
+     "grounds": "lower regions",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "saptalokī",
+     "gloss": "seven-worlds",
+     "grounds": "upper regions",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "Maheśvara",
+     "grounds": "ruling principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityaṇḍamadhyaṃ",
+     "gloss": "thus-the-middle-of-the-egg",
+     "grounds": "cosmic interior",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "beyond the egg",
+     "morph": "n.loc.sg, compound"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rudrā",
+     "gloss": "Rudras",
+     "grounds": "group of deities or worlds",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "summary marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "located",
+     "morph": "m.nom.pl, past-participle, √sthā"
+    }
+   ],
+   "question": "What regions make up the middle of the cosmic egg and what lies outside it?",
+   "premises": [
+    "Kūṣmāṇḍa, the seven netherworlds, the seven worlds, and Maheśvara form the middle of the egg.",
+    "Outside that middle there are a hundred Rudras.",
+    "These Rudras are described as situated there."
+   ],
+   "inference": "The cosmic egg’s interior is structured by lower and upper world-series under Maheśvara, while a hundred Rudras occupy the region beyond it.",
+   "uncertainties": [
+    "Whether 'Kūṣmāṇḍa' names a world, a being, or both is not explicit in this verse."
+   ],
+   "plain_english": "Kūṣmāṇḍa, the seven netherworlds, the seven worlds, and Maheśvara make up the middle of the cosmic egg. Outside that, a hundred Rudras are situated."
+  },
+  {
+   "verse": 430,
+   "rows": [
+    {
+     "surface": "sthānānāṃ",
+     "gloss": "of-places",
+     "grounds": "locations or stations",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "dviśatī",
+     "gloss": "two-hundred",
+     "grounds": "count",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūmiḥ",
+     "gloss": "level",
+     "grounds": "stage or plane",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saptapañcāśatā",
+     "gloss": "with-fifty-seven",
+     "grounds": "added count",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yutā",
+     "gloss": "joined",
+     "grounds": "combined",
+     "morph": "f.nom.sg, past-participle, √yu"
+    },
+    {
+     "surface": "pañcāṣṭakasya",
+     "gloss": "of-the-group-of-five-eights",
+     "grounds": "fortyfold grouping",
+     "morph": "n.gen.sg, compound"
+    },
+    {
+     "surface": "madhyāddvātriṃśadbhūtacatuṣṭaye",
+     "gloss": "from-the-middle-thirty-two-in-the-four-elements",
+     "grounds": "distribution across elements",
+     "morph": "n.loc.sg, compound"
+    }
+   ],
+   "question": "How are the two hundred and fifty-seven stations distributed in the elemental grouping?",
+   "premises": [
+    "There are two hundred places forming a level.",
+    "That level is joined with fifty-seven more.",
+    "From the middle of a group of five eights, thirty-two are placed in the four elements."
+   ],
+   "inference": "The verse gives a numerical distribution of 257 stations, with thirty-two of them assigned within the four-element grouping derived from a larger set.",
+   "uncertainties": [
+    "The structure of the 'group of five eights' and its relation to the total count is mathematically compressed."
+   ],
+   "plain_english": "There is a level of two hundred places joined with fifty-seven more. From the middle of a group of five eights, thirty-two are assigned within the four elements."
+  },
+  {
+   "verse": 431,
+   "rows": [
+    {
+     "surface": "tanmātreṣu",
+     "gloss": "in-the-subtle-elements",
+     "grounds": "five tanmātras",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "count",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syurviśvedevāstato@ṣṭakam",
+     "gloss": "there-would-be-the-Viśvedevas-then-a-group-of-eight",
+     "grounds": "assigned groups",
+     "morph": "3.pl.optative, √as + m.nom.pl + n.nom.sg, compound"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "ordinal group",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sendriye",
+     "gloss": "with-the-senses",
+     "grounds": "sense faculty domain",
+     "morph": "n.loc.sg, compound"
+    },
+    {
+     "surface": "garve",
+     "gloss": "in-egoity",
+     "grounds": "ahaṅkāra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "buddhau",
+     "gloss": "in-intellect",
+     "grounds": "buddhi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "devāṣṭakaṃ",
+     "gloss": "group-of-eight-gods",
+     "grounds": "assigned group",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "guṇe",
+     "gloss": "in-the-quality",
+     "grounds": "guṇa domain",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How are groups of five and eight assigned across the subtle elements and inner faculties?",
+   "premises": [
+    "Five are placed in the subtle elements.",
+    "The Viśvedevas are there, followed by a group of eight.",
+    "A fifth group is associated with the senses, egoity, intellect, and the guṇas, including a group of eight gods."
+   ],
+   "inference": "The cosmological count continues by assigning groups of five and eight to the tanmātras and to inner faculties such as senses, egoity, intellect, and guṇa.",
+   "uncertainties": [
+    "The exact mapping of each group to each faculty is compressed and not fully explicit."
+   ],
+   "plain_english": "In the subtle elements there are five, and there are the Viśvedevas and then a group of eight. A fifth grouping is connected with the senses, egoity, intellect, and the guṇas, including a group of eight gods."
+  },
+  {
+   "verse": 432,
+   "rows": [
+    {
+     "surface": "yogāṣṭakaṃ",
+     "gloss": "group-of-eight-yogas",
+     "grounds": "assigned group",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "krodhasaṃjñaṃ",
+     "gloss": "named-Krodha",
+     "grounds": "designation",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "in-the-root",
+     "grounds": "mūla level",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "kāla tattva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sanaiyate",
+     "gloss": "with-Naiyati",
+     "grounds": "associated principle",
+     "morph": "n.loc.sg, compound"
+    },
+    {
+     "surface": "patadrugādyāścāṅguṣṭhamātrādyā",
+     "gloss": "Patadruga-and-others-and-Aṅguṣṭhamātra-and-others",
+     "grounds": "named groups",
+     "morph": "m.nom.pl, compound"
+    },
+    {
+     "surface": "rāgatattvagāḥ",
+     "gloss": "going-to-the-tattva-of-attachment",
+     "grounds": "located in rāga",
+     "morph": "m.nom.pl, compound"
+    }
+   ],
+   "question": "Which groups are assigned to the root, time, niyati, and the tattva of attachment?",
+   "premises": [
+    "A group of eight yogas named Krodha is placed in the root.",
+    "It is associated with time and with Naiyati.",
+    "Patadruga and others, and Aṅguṣṭhamātra and others, belong to the tattva of attachment."
+   ],
+   "inference": "The enumeration continues by locating specific named groups in the root, in kāla with niyati, and in the rāga tattva.",
+   "uncertainties": [
+    "The form 'sanaiyate' is metrically compressed; it is read here as association with niyati."
+   ],
+   "plain_english": "In the root there is a group of eight yogas called Krodha, associated with time and with niyati. Patadruga and others, and Aṅguṣṭhamātra and others, belong to the tattva of attachment."
+  }
+ ]
+}
