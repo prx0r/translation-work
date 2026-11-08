@@ -1,171 +1,1395 @@
 {
- "song": "Tantraloka a15",
+ "song": "Tantraloka 15.169-192",
  "items": [
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "ānandajananaṃ",
+     "gloss": "producing-bliss",
+     "grounds": "describes what is fit for worship",
+     "morph": "compound=ānanda-janana+n.nom.sg.n"
+    },
+    {
+     "surface": "pūjāyogyaṃ",
+     "gloss": "fit-for-worship",
+     "grounds": "describes what is fit for worship",
+     "morph": "compound=pūjā-yogya+n.nom.sg.n"
+    },
+    {
+     "surface": "hṛdayahāri",
+     "gloss": "heart-captivating",
+     "grounds": "describes what is fit for worship",
+     "morph": "compound=hṛdaya-hāri+n.nom.sg.n"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "introduces the qualifying substance or thing",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "draws the consequence for certain teachings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulakramottīrṇatrikasāramatādiṣu",
+     "gloss": "in-kula-sequence-transcending-trika-essence-teachings-and-others",
+     "grounds": "locates the consequence in specific traditions",
+     "morph": "compound=kula-krama-uttīrṇa-trika-sāra-mata-ādi+m.loc.pl.n"
+    }
+   ],
+   "question": "Why are certain substances praised in Kula, Krama, and Trika teachings?",
+   "premises": [
+    "Whatever produces bliss is fit for worship.",
+    "Whatever is fit for worship is heart-captivating.",
+    "Such bliss-producing things are valued in Kula, Krama, and Trika teachings."
+   ],
+   "inference": "Therefore the excellence of certain substances in those teachings rests on their power to generate bliss.",
+   "uncertainties": [
+    "The exact scope of ādiṣu is not specified in this verse."
+   ],
+   "plain_english": "Whatever produces bliss, is fit for worship, and captivates the heart is therefore praised in the teachings of Kula, Krama, the transcendent Trika essence, and others."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "madyakādambarīśīdhudravyādermahimā",
+     "gloss": "greatness-of-wine-kādambarī-śīdhu-and-such-substances",
+     "grounds": "states the subject whose greatness is affirmed",
+     "morph": "compound=madya-kādambarī-śīdhu-dravya-ādi-mahimā+m.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifies the greatness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lokasthitiṃ",
+     "gloss": "worldly-order",
+     "grounds": "states the purpose for which restriction is made",
+     "morph": "compound=loka-sthiti+f.acc.sg"
+    },
+    {
+     "surface": "racayituṃ",
+     "gloss": "to-maintain",
+     "grounds": "expresses purpose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madyādeḥ",
+     "gloss": "of-wine-and-such",
+     "grounds": "identifies what is restricted",
+     "morph": "compound=madya-ādi+n.gen.sg"
+    },
+    {
+     "surface": "paśuśāsane",
+     "gloss": "in-the-teaching-for-bound-souls",
+     "grounds": "locates the restriction",
+     "morph": "compound=paśu-śāsana+n.loc.sg"
+    }
+   ],
+   "question": "How can wine be praised in some teachings yet restricted in others?",
+   "premises": [
+    "Wine, kādambarī, śīdhu, and similar substances have supreme greatness.",
+    "The teaching for bound souls aims to maintain worldly order.",
+    "To maintain worldly order, that teaching restricts wine and similar substances."
+   ],
+   "inference": "The restriction of wine in the paśu teaching serves social order, not a denial of its intrinsic greatness.",
+   "uncertainties": [
+    "The verse states the restriction but does not explicitly repeat the word for prohibition."
+   ],
+   "plain_english": "Wine, kādambarī, śīdhu, and such substances have supreme greatness, yet in the teaching meant for bound souls they are restricted in order to maintain worldly order."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "reports what the paśu teaching states",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hyaśuddhistatraiva",
+     "gloss": "indeed-impurity-there-alone",
+     "grounds": "states the declared impurity and its location",
+     "morph": "compound=hi-aśuddhi-tatra-eva"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers back to the restricted substance",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "in-some-contexts",
+     "grounds": "limits where purity is affirmed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśuddhatā",
+     "gloss": "purity",
+     "grounds": "states the contrasting status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcagavye",
+     "gloss": "in-the-five-cow-products",
+     "grounds": "gives an example of ritual purity",
+     "morph": "compound=pañca-gavya+n.loc.sg"
+    },
+    {
+     "surface": "pavitratvaṃ",
+     "gloss": "purifying-status",
+     "grounds": "states another example of ritual purity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "somacarṇanapātrayoḥ",
+     "gloss": "of-soma-remains-and-vessels",
+     "grounds": "gives another example of ritual purity",
+     "morph": "compound=soma-carṇa-pātra+n.gen.dual"
+    }
+   ],
+   "question": "Is impurity an absolute property of a substance or context-dependent?",
+   "premises": [
+    "In that paśu teaching, the substance is declared impure.",
+    "In some contexts the same kind of ritual logic affirms purity.",
+    "The five cow products and soma remains and vessels are treated as purifying."
+   ],
+   "inference": "Purity and impurity are assigned by ritual context rather than belonging absolutely to the substance.",
+   "uncertainties": [
+    "The verse implies but does not explicitly state that the same substance can be pure elsewhere."
+   ],
+   "plain_english": "In that teaching it is declared impure, yet in some contexts there is purity; for example, the five cow products are purifying, as are soma remains and ritual vessels."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "vidhiścāvabhṛthasnānaṃ",
+     "gloss": "and-the-rule-is-the-avabhṛtha-bath",
+     "grounds": "lists a ritual rule",
+     "morph": "compound=vidhi-ca-avabhṛtha-snāna+m.nom.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-the-hand",
+     "grounds": "locates a ritual requirement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛṣṇaviṣāṇitā",
+     "gloss": "holding-the-black-antelope-horn",
+     "grounds": "states a ritual requirement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patnyā",
+     "gloss": "with-the-wife",
+     "grounds": "states a ritual condition",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects ritual conditions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "negates a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāgaḥ",
+     "gloss": "sacrifice",
+     "grounds": "states the ritual act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvadaivatatulyatā",
+     "gloss": "equality-of-all-deities",
+     "grounds": "states another ritual doctrine",
+     "morph": "compound=sarva-daivata-tulyatā+f.nom.sg"
+    }
+   ],
+   "question": "What kinds of ritual rules show that purity is conventionally regulated?",
+   "premises": [
+    "Ritual rules prescribe acts such as the avabhṛtha bath and holding the black antelope horn.",
+    "Some sacrifices are said not to occur without the wife.",
+    "Some ritual systems assert the equality of all deities."
+   ],
+   "inference": "These varied rules show that ritual purity and validity depend on prescribed conventions.",
+   "uncertainties": [
+    "The verse lists examples without explicitly naming the source tradition for each rule."
+   ],
+   "plain_english": "There are rules such as the concluding bath, holding the black antelope horn in the hand, not performing the sacrifice without the wife, and treating all deities as equal."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "surāhutirbrahmasatre",
+     "gloss": "liquor-offering-in-the-brahma-session",
+     "grounds": "gives an example of a sanctioned offering",
+     "morph": "compound=surā-āhuti-brahma-satra+f.nom.sg"
+    },
+    {
+     "surface": "vapāntrahṛdayāhutiḥ",
+     "gloss": "offering-of-omentum-intestine-and-heart",
+     "grounds": "gives another example of a sanctioned offering",
+     "morph": "compound=vapā-antra-hṛdaya-āhuti+f.nom.sg"
+    },
+    {
+     "surface": "pāśaveṣvapi",
+     "gloss": "even-in-the-teachings-for-bound-souls",
+     "grounds": "locates these examples in restrictive traditions",
+     "morph": "compound=pāśava+loc.pl.m+api"
+    },
+    {
+     "surface": "śāstreṣu",
+     "gloss": "in-the-scriptures",
+     "grounds": "locates the examples",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "tadadarśi",
+     "gloss": "that-was-shown",
+     "grounds": "reports scriptural attestation",
+     "morph": "3.sg.passive-aorist+root dṛś"
+    },
+    {
+     "surface": "maheśinā",
+     "gloss": "by-the-great-lord",
+     "grounds": "names the authority who showed it",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Do even restrictive scriptures permit offerings that seem impure?",
+   "premises": [
+    "A liquor offering in a brahma session is attested.",
+    "An offering of omentum, intestine, and heart is attested.",
+    "These are shown by the great lord even in scriptures for bound souls."
+   ],
+   "inference": "Even restrictive scriptures contain ritually sanctioned uses of substances otherwise treated as impure.",
+   "uncertainties": [
+    "The specific scriptural passages are not named in this verse."
+   ],
+   "plain_english": "Even in the scriptures meant for bound souls, the great lord showed a liquor offering in a brahma session and an offering of omentum, intestine, and heart."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "ghorāndhyahaimananiśāmadhyagāciradīptivat",
+     "gloss": "like-a-lamp-shining-at-midnight-in-terrible-darkness-in-a-snowy-place",
+     "grounds": "gives a simile for clarity amid confusion",
+     "morph": "compound=ghora-andhya-haimana-niśā-madhya-ga-cira-dīpti-vat+(indecl.)"
+    },
+    {
+     "surface": "bhakṣyo",
+     "gloss": "to-be-eaten",
+     "grounds": "states one side of the dispute",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haṃso",
+     "gloss": "the-goose",
+     "grounds": "names the disputed object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the other side of the dispute",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣyo@sāviti",
+     "gloss": "this-is-to-be-eaten-thus",
+     "grounds": "reports the contradictory judgments",
+     "morph": "compound=bhakṣya-asau-iti"
+    },
+    {
+     "surface": "ripratipattiṣu",
+     "gloss": "in-opposed-judgments",
+     "grounds": "locates the contradiction",
+     "morph": "compound=ripratipatti+f.loc.pl"
+    }
+   ],
+   "question": "How should one understand contradictory scriptural judgments about what may be eaten?",
+   "premises": [
+    "Opposed judgments declare the goose edible and not edible.",
+    "Such contradictions create confusion like darkness.",
+    "A clear principle can shine within that confusion like a lamp."
+   ],
+   "inference": "Contradictory dietary rules require a higher clarifying principle rather than literal uniformity.",
+   "uncertainties": [
+    "The clarifying principle is suggested by the simile but not named in this verse."
+   ],
+   "plain_english": "In opposed judgments, one says the goose is to be eaten and another says it is not; amid such confusion, clarity is like a lamp shining at midnight in terrible snowy darkness."
+  },
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "smārtīṣu",
+     "gloss": "among-smārta-teachings",
+     "grounds": "locates the prevailing principle",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vijayatyeko",
+     "gloss": "one-alone-prevails",
+     "grounds": "asserts the supremacy of one principle",
+     "morph": "compound=vijayati-ekaḥ"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "introduces the prevailing principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivābhedaśuddhikaḥ",
+     "gloss": "purifying-through-non-difference-from-śiva",
+     "grounds": "names the prevailing principle",
+     "morph": "compound=śiva-abheda-śuddhika+m.nom.sg"
+    },
+    {
+     "surface": "ajñatvavedādarśitvarāgadveṣādayo",
+     "gloss": "ignorance-veda-display-attachment-aversion-and-such",
+     "grounds": "lists the defects that undermine authority",
+     "morph": "compound=ajñatva-veda-adarśitva-rāga-dveṣa-ādi+m.nom.pl"
+    },
+    {
+     "surface": "hyamī",
+     "gloss": "indeed-these",
+     "grounds": "points to those defects",
+     "morph": "compound=hi-amī"
+    }
+   ],
+   "question": "What principle can prevail over contradictory ritual authorities?",
+   "premises": [
+    "Among smārta teachings, one purifying principle prevails.",
+    "That principle is purification through non-difference from Śiva.",
+    "Ignorance, mere Vedic display, attachment, aversion, and similar defects weaken ordinary authority."
+   ],
+   "inference": "The authority of non-difference from Śiva surpasses authorities compromised by ignorance and passion.",
+   "uncertainties": [
+    "The relation between smārta teachings and Śaiva non-difference is compressed in this verse."
+   ],
+   "plain_english": "Among smārta teachings, the one principle that prevails is purification through non-difference from Śiva; for ignorance, mere appeal to the Veda, attachment, aversion, and such defects undermine authority."
+  },
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "munīnāṃ",
+     "gloss": "of-the-sages",
+     "grounds": "identifies the speakers whose words are affected",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vacasi",
+     "gloss": "in-the-speech",
+     "grounds": "locates the effect of the defects",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svasminprāmāṇyonmūlanakṣamāḥ",
+     "gloss": "capable-of-uprooting-its-own-authority",
+     "grounds": "states the effect of the defects",
+     "morph": "compound=sva-prāmāṇya-unmūlana-kṣama+m.nom.pl"
+    },
+    {
+     "surface": "vede@pi",
+     "gloss": "even-in-the-veda",
+     "grounds": "extends the point to Vedic teaching",
+     "morph": "compound=veda-api"
+    },
+    {
+     "surface": "yadabhakṣyaṃ",
+     "gloss": "what-is-not-to-be-eaten",
+     "grounds": "states one Vedic judgment",
+     "morph": "compound=yad-abhakṣya+n.nom.sg"
+    },
+    {
+     "surface": "tadbhakṣyamityupadiśyate",
+     "gloss": "that-is-taught-as-to-be-eaten",
+     "grounds": "states the contrary Vedic judgment",
+     "morph": "compound=tad-bhakṣyam-iti-upadiśyate"
+    }
+   ],
+   "question": "Can defects in speakers or texts undermine their own authority?",
+   "premises": [
+    "The listed defects can uproot the authority of the sages' own speech.",
+    "Even in the Veda, what is said not to be eaten is elsewhere taught as edible.",
+    "Such reversals weaken claims to simple, uniform authority."
+   ],
+   "inference": "Authority cannot rest on bare citation when the cited sources contain self-undermining contradictions.",
+   "uncertainties": [
+    "The verse does not specify which Vedic passages are in view."
+   ],
+   "plain_english": "These defects can uproot the authority of the sages' own words; even in the Veda, what is said not to be eaten is taught elsewhere as something to be eaten."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates a shared basis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhipratiṣedhākhyadharmayorekamāspadam",
+     "gloss": "one-basis-for-the-duties-called-injunction-and-prohibition",
+     "grounds": "states the logical problem",
+     "morph": "compound=vidhi-pratiṣedha-ākhya-dharma-eka-āspada+n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introduces a conditional response",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to a specific context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "states the prohibition in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbhakṣyaṃ",
+     "gloss": "that-to-be-eaten",
+     "grounds": "states the prohibited object",
+     "morph": "compound=tad-bhakṣya+n.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "points to the contextual resolution",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "affirms the contextual resolution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "draws the conclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can injunction and prohibition both be valid without sharing one basis?",
+   "premises": [
+    "Injunction and prohibition do not have one and the same basis.",
+    "In a given context, something may be not to be eaten.",
+    "Context determines how the rule applies."
+   ],
+   "inference": "The apparent conflict between injunction and prohibition is resolved by differences of context.",
+   "uncertainties": [
+    "The verse is elliptical and leaves the contextual terms unstated."
+   ],
+   "plain_english": "Injunction and prohibition do not rest on one single basis; if in a particular context something is not to be eaten, then that is how it stands there, and the matter is resolved accordingly."
+  },
   {
    "verse": 178,
    "rows": [
     {
      "surface": "evaṃ",
      "gloss": "thus",
-     "grounds": "conclusion from prior argument",
+     "grounds": "draws the consequence from the prior argument",
      "morph": "(indecl.)"
     },
     {
      "surface": "viṣayabhedānno",
-     "gloss": "not because of difference of domain",
-     "grounds": "reason for non-subordination",
-     "morph": "compound: viṣaya+object, bheda+difference, na+negation, u+particle"
+     "gloss": "because-of-difference-of-domain-not",
+     "grounds": "states the reason for non-contradiction",
+     "morph": "compound=viṣaya-bhedāt-na"
     },
     {
      "surface": "śivokterbādhikā",
-     "gloss": "overriding the word of Shiva",
-     "grounds": "relation between scriptural authorities",
-     "morph": "compound: śiva+name, ukti+word, bādhikā+overriding"
+     "gloss": "overriding-of-śiva's-word",
+     "grounds": "names what is denied",
+     "morph": "compound=śiva-ukti-bādhikā+f.nom.sg"
     },
     {
      "surface": "śrutiḥ",
-     "gloss": "Vedic scripture",
-     "grounds": "the authority being assessed",
+     "gloss": "vedic-revelation",
+     "grounds": "names the potential overrider",
      "morph": "f.nom.sg"
     },
     {
      "surface": "kvacidviṣayatulyatvādbādhyabādhakatā",
-     "gloss": "if sometimes equality of domain then subordination and overriding",
-     "grounds": "condition for mutual conflict",
-     "morph": "compound: kvacit+sometimes, viṣaya+domain, tulyatva+equality, bādhya+subordinated, bādhakatā+overriding"
+     "gloss": "if-sometimes-domains-are-equal-then-overruled-and-overruling-status",
+     "grounds": "states the exception condition",
+     "morph": "compound=kvacid-viṣaya-tulyatvāt-bādhya-bādhakatā+f.nom.sg"
     },
     {
      "surface": "yadi",
      "gloss": "if",
-     "grounds": "introduces conditional case",
+     "grounds": "introduces the exception",
      "morph": "(indecl.)"
     }
    ],
-   "question": "When can Vedic scripture override the word of Shiva?",
+   "question": "Does Vedic revelation override the word of Śiva in matters of ritual use?",
    "premises": [
-    "Vedic scripture does not override the word of Shiva merely because their domains differ.",
-    "A relation of subordination and overriding arises only when their domains are equal.",
-    "Such equality of domain may occur in some cases."
+    "Śiva's word and Vedic revelation may address different domains.",
+    "Difference of domain prevents one from overriding the other.",
+    "Only if their domains were equal would overruling and being overruled arise."
    ],
-   "inference": "Therefore, Vedic scripture can override the word of Shiva only in cases where both apply to the same domain.",
+   "inference": "Because their domains differ, Vedic revelation does not override Śiva's word.",
    "uncertainties": [
-    "The exact scope of viṣaya-tulyatva in this ritual-epistemic context is not fully specified in this verse."
+    "The verse states the principle generally without naming a specific disputed case."
    ],
-   "plain_english": "Thus, Vedic scripture does not override the word of Shiva simply because their domains differ. If, in some case, their domains are the same, then a relation of being overridden and overriding can arise."
+   "plain_english": "Thus, because their domains differ, Vedic revelation does not override the word of Śiva; only if their domains were the same would there be a relation of overruling and being overruled."
   },
   {
    "verse": 179,
    "rows": [
     {
      "surface": "tadbādhyā",
-     "gloss": "overridden by that",
-     "grounds": "status of Vedic scripture in that case",
-     "morph": "compound: tad+that, bādhyā+overridden"
+     "gloss": "then-overruled",
+     "grounds": "states the consequence in the equal-domain case",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "śrutireveti",
-     "gloss": "it is indeed Vedic scripture",
-     "grounds": "identifies which authority is overridden",
-     "morph": "compound: śruti+Vedic-scripture, eva+indeed, iti+thus"
+     "gloss": "vedic-revelation-itself-thus",
+     "grounds": "identifies what would be overruled",
+     "morph": "compound=śruti-eva-iti"
     },
     {
      "surface": "prāgevaitannirūpitam",
-     "gloss": "this was already explained before",
-     "grounds": "refers back to earlier discussion",
-     "morph": "compound: prāk+before, eva+indeed, etad+this, nirūpitam+explained"
+     "gloss": "this-was-already-established-before",
+     "grounds": "appeals to prior discussion",
+     "morph": "compound=prāk-eva-etat-nirūpitam+n.nom.sg"
     },
     {
      "surface": "prakṛtaṃ",
-     "gloss": "the present topic",
-     "grounds": "marks return to main subject",
+     "gloss": "the-present-topic",
+     "grounds": "marks the return to the main ritual sequence",
      "morph": "n.acc.sg"
     },
     {
      "surface": "brūmahe",
-     "gloss": "we speak",
-     "grounds": "author resumes exposition",
-     "morph": "1.pl.middle-present, root brū"
+     "gloss": "we-speak",
+     "grounds": "signals transition to the ritual procedure",
+     "morph": "1.pl.present-middle+root brū"
     },
     {
      "surface": "kṛtvā",
-     "gloss": "having made",
-     "grounds": "preparatory action before ritual",
-     "morph": "(indecl., absolutive), root kṛ"
+     "gloss": "having-performed",
+     "grounds": "introduces the completed preparatory act",
+     "morph": "(indecl.)"
     },
     {
      "surface": "nyāsaṃ",
-     "gloss": "the placement",
-     "grounds": "ritual installation on body and vessels",
+     "gloss": "installation",
+     "grounds": "names the preparatory act",
      "morph": "m.acc.sg"
     },
     {
      "surface": "dehārghapātrayoḥ",
-     "gloss": "on the body and the offering vessel",
-     "grounds": "locations of the placement",
-     "morph": "compound: deha+body, argha+offering, pātra+vessel; m.loc.dual"
+     "gloss": "on-the-body-and-the-offering-vessel",
+     "grounds": "locates the installation",
+     "morph": "compound=deha-argha-pātra+n.loc.dual"
     }
    ],
-   "question": "What does the text do after settling the scriptural conflict?",
+   "question": "How does the text move from doctrinal justification back to ritual procedure?",
    "premises": [
-    "When domains are equal, Vedic scripture is the one overridden.",
-    "This point has already been explained earlier.",
-    "The exposition now returns to the main ritual topic."
+    "If domains were equal, Vedic revelation would be overruled, as established earlier.",
+    "The doctrinal issue has already been settled.",
+    "The ritual sequence resumes after installation on the body and the offering vessel."
    ],
-   "inference": "Having settled the authority issue, the text resumes the ritual procedure by prescribing placement on the body and the offering vessel.",
+   "inference": "Having settled the doctrinal dispute, the text returns to the next step in the worship procedure.",
    "uncertainties": [
-    "The specific type of nyāsa intended here is not named in this verse."
+    "The earlier discussion referred to by prāk is not identified in this verse."
    ],
-   "plain_english": "In that case, it is Vedic scripture that is overridden; this has already been explained before. Now we return to the matter at hand: having made the placement on the body and on the offering vessel, we continue."
+   "plain_english": "If their domains were equal, Vedic revelation itself would be overruled; this has already been established. Now we return to the present topic: after performing installation on the body and the offering vessel."
   },
   {
    "verse": 180,
    "rows": [
     {
      "surface": "sāmānyamarghapātrāmbhovipruḍbhiḥ",
-     "gloss": "with drops of water from the common offering vessel",
-     "grounds": "instrument for sprinkling purification",
-     "morph": "compound: sāmānya+common, argha+offering, pātra+vessel, ambhas+water, vipruḍ+drops; f.ins.pl"
+     "gloss": "with-sprinkles-of-water-from-the-common-offering-vessel",
+     "grounds": "states the means of purification",
+     "morph": "compound=sāmānya-argha-pātra-ambhas-vipruḍ+f.inst.pl"
     },
     {
      "surface": "prokṣya",
-     "gloss": "having sprinkled",
-     "grounds": "purificatory action",
-     "morph": "(indecl., absolutive), root prokṣ"
+     "gloss": "having-sprinkled",
+     "grounds": "states the purifying action",
+     "morph": "(indecl.)"
     },
     {
      "surface": "cākhilam",
-     "gloss": "and all",
-     "grounds": "extends sprinkling to everything",
-     "morph": "compound: ca+and, akhilam+all; n.acc.sg"
+     "gloss": "and-all",
+     "grounds": "extends the action to everything",
+     "morph": "compound=ca-akhilam"
     },
     {
      "surface": "yāgopakaraṇaṃ",
-     "gloss": "the worship equipment",
-     "grounds": "objects to be purified",
-     "morph": "compound: yāga+worship, upakaraṇa+equipment; n.acc.sg"
+     "gloss": "worship-equipment",
+     "grounds": "names what is purified",
+     "morph": "compound=yāga-upakaraṇa+n.acc.sg"
     },
     {
      "surface": "paścādbāhyayāgaṃ",
-     "gloss": "afterward the external worship",
-     "grounds": "next stage of the rite",
-     "morph": "compound: paścāt+afterward, bāhya+external, yāga+worship; m.acc.sg"
+     "gloss": "afterward-the-external-worship",
+     "grounds": "names the next ritual stage",
+     "morph": "compound=paścāt-bāhya-yāga+m.acc.sg"
     },
     {
      "surface": "samācaret",
-     "gloss": "one should perform",
-     "grounds": "prescriptive instruction",
-     "morph": "3.sg.optative, root sam-ā-car"
+     "gloss": "one-should-perform",
+     "grounds": "prescribes the next action",
+     "morph": "3.sg.optative-active+root car"
     }
    ],
-   "question": "What ritual steps follow the placement on the body and offering vessel?",
+   "question": "What is the next ritual step after installation on body and vessel?",
    "premises": [
-    "The practitioner uses drops of water from the common offering vessel.",
-    "All worship equipment is sprinkled for purification.",
-    "The external worship is performed after this purification."
+    "The common offering vessel provides purifying water.",
+    "All worship equipment is to be sprinkled with that water.",
+    "After purification, external worship is performed."
    ],
-   "inference": "After the placement, one should sprinkle all worship equipment with water from the common offering vessel and then perform the external worship.",
+   "inference": "The ritual proceeds from purification of implements to the performance of external worship.",
    "uncertainties": [],
-   "plain_english": "Having sprinkled all the worship equipment with drops of water from the common offering vessel, one should then perform the external worship."
+   "plain_english": "After sprinkling all the worship implements with drops of water from the common offering vessel, one should then perform the external worship."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "prabhāmaṇḍalake",
+     "gloss": "in-the-circle-of-light",
+     "grounds": "gives one possible locus of worship",
+     "morph": "compound=prabhā-maṇḍalaka+n.loc.sg"
+    },
+    {
+     "surface": "khe",
+     "gloss": "in-space",
+     "grounds": "gives another possible locus of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suliptāyāṃ",
+     "gloss": "on-a-well-smeared",
+     "grounds": "qualifies the ground",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-the-ground",
+     "grounds": "gives another possible locus of worship",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "triśūlārkavṛṣāndikasthā",
+     "gloss": "standing-on-trident-sun-bull-and-nandin",
+     "grounds": "describes the placement of the mothers",
+     "morph": "compound=triśūla-arka-vṛṣa-andika-stha+f.nom.pl"
+    },
+    {
+     "surface": "mātaraḥ",
+     "gloss": "the-mothers",
+     "grounds": "names the deities to be worshipped",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kṣetrapaṃ",
+     "gloss": "the-lord-of-the-field",
+     "grounds": "names another deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes the worship",
+     "morph": "3.sg.optative-active+root yaj"
+    }
+   ],
+   "question": "Where and whom should one worship at the start of the external rite?",
+   "premises": [
+    "The worship may be performed in a circle of light, in space, or on a well-smeared ground.",
+    "The mothers are envisioned standing on trident, sun, bull, and Nandin.",
+    "The lord of the field is also to be worshipped."
+   ],
+   "inference": "The external rite begins by worshipping the mothers and the lord of the field in a ritually prepared locus.",
+   "uncertainties": [
+    "The exact visual arrangement of the supports is compressed in the compound."
+   ],
+   "plain_english": "In a circle of light, in space, or on a well-smeared ground, one should worship the mothers, who stand on the trident, the sun, the bull, and Nandin, and also worship the lord of the field."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "yoginīśca",
+     "gloss": "and-the-yoginīs",
+     "grounds": "adds further deities to be worshipped",
+     "morph": "compound=yoginī-ca+f.acc.pl"
+    },
+    {
+     "surface": "pṛthaṅmantrairoṃnamonāmayojitaiḥ",
+     "gloss": "with-separate-mantras-joined-with-om-namas-and-name",
+     "grounds": "states one method of mantra application",
+     "morph": "compound=pṛthak-mantra-oṃ-namas-nāma-yojita+m.inst.pl"
+    },
+    {
+     "surface": "ekoccāreṇa",
+     "gloss": "with-a-single-utterance",
+     "grounds": "states an alternative method",
+     "morph": "compound=eka-uccāra+m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks the alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyaparivāretiśabditāḥ",
+     "gloss": "called-the-outer-retinue",
+     "grounds": "names the group collectively",
+     "morph": "compound=bāhya-parivāra-iti-śabdita+f.nom.pl"
+    }
+   ],
+   "question": "How may the yoginīs and outer retinue be worshipped?",
+   "premises": [
+    "The yoginīs are included in the worship.",
+    "They may be addressed with separate mantras joined with oṃ, namas, and their names.",
+    "Alternatively they may be addressed with a single utterance as the outer retinue."
+   ],
+   "inference": "The rite allows either individualized mantra worship or a collective utterance for the outer retinue.",
+   "uncertainties": [],
+   "plain_english": "One should also worship the yoginīs, either with separate mantras joined with oṃ, namas, and their names, or with a single utterance, as they are called the outer retinue."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "tāro",
+     "gloss": "the-syllable-oṃ",
+     "grounds": "gives the first element of the mantra formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "the-name",
+     "grounds": "gives the second element of the mantra formula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturthyantaṃ",
+     "gloss": "ending-in-the-fourth-case-form",
+     "grounds": "specifies the grammatical form of the name",
+     "morph": "compound=caturthī-anta+n.nom.sg"
+    },
+    {
+     "surface": "namaścetyarcane",
+     "gloss": "and-namas-thus-in-worship",
+     "grounds": "completes the mantra formula for worship",
+     "morph": "compound=namas-ca-iti-arcana+n.loc.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "the-mantra",
+     "grounds": "identifies the formula as the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers back to the completed outer worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "locates the completed worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "marks completion of the outer worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "the-doorway",
+     "grounds": "names the next object of ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "states the purifying action at the doorway",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes worship at the doorway",
+     "morph": "3.sg.optative-active+root pūj"
+    }
+   ],
+   "question": "What mantra formula and next action follow the outer worship?",
+   "premises": [
+    "The worship mantra consists of oṃ, the deity's name in the fourth-case form, and namas.",
+    "After completing the outer worship, the doorway is sprinkled.",
+    "The doorway is then worshipped."
+   ],
+   "inference": "The rite moves from outer-retinue worship to doorway purification and worship using the standard mantra formula.",
+   "uncertainties": [],
+   "plain_english": "In worship the mantra is oṃ, the name in the fourth-case form, and namas. Having thus worshipped outside, one should sprinkle the doorway and then worship it."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "triśiraḥśāsanādau",
+     "gloss": "in-the-teaching-of-the-three-headed-one-and-others",
+     "grounds": "locates the described procedure in a scriptural source",
+     "morph": "compound=triśiras-śāsana-ādi+n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the source reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "refers to the procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭo",
+     "gloss": "seen",
+     "grounds": "states that the procedure is attested",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhirucyate",
+     "gloss": "the-rule-is-stated",
+     "grounds": "introduces the rule to be given",
+     "morph": "compound=vidhi-ucyate"
+    },
+    {
+     "surface": "gaṇeśalakṣmyau",
+     "gloss": "gaṇeśa-and-lakṣmī",
+     "grounds": "names the deities at the upper doorway",
+     "morph": "compound=gaṇeśa-lakṣmī+f.acc.dual"
+    },
+    {
+     "surface": "dvārordhve",
+     "gloss": "above-the-doorway",
+     "grounds": "locates those deities",
+     "morph": "compound=dvāra-ūrdhva+n.loc.sg"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "on-the-right",
+     "grounds": "gives the placement of one deity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-the-left",
+     "grounds": "gives the placement of the other deity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "refers back to Gaṇeśa and Lakṣmī",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "introduces the next placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are placed at the upper part of the doorway?",
+   "premises": [
+    "The procedure is attested in the teaching of the Three-headed One and others.",
+    "Gaṇeśa and Lakṣmī are worshipped above the doorway.",
+    "They are placed on the right and left respectively."
+   ],
+   "inference": "The doorway worship begins above the door with Gaṇeśa on the right and Lakṣmī on the left.",
+   "uncertainties": [
+    "The exact identification of triśiraḥśāsana is not explained in this verse."
+   ],
+   "plain_english": "This procedure is seen in the teaching of the Three-headed One and others. Above the doorway one should worship Gaṇeśa and Lakṣmī, on the right and left, and then continue with those associated with them."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "locates the next deity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāgīśvarīṃ",
+     "gloss": "vāgīśvarī",
+     "grounds": "names the central deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "diṇḍimahodarayugaṃ",
+     "gloss": "the-pair-diṇḍi-and-mahodara",
+     "grounds": "names the next pair of deities",
+     "morph": "compound=diṇḍi-mahodara-yuga+n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramātsvadakṣavāmasthaṃ",
+     "gloss": "in-order-standing-on-their-own-right-and-left",
+     "grounds": "specifies the placement of the pair",
+     "morph": "compound=kramāt-sva-dakṣa-vāma-stha+n.acc.sg"
+    },
+    {
+     "surface": "tathaitena",
+     "gloss": "and-so-by-this",
+     "grounds": "refers to the same ordering principle",
+     "morph": "compound=tathā-etena"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "by-the-sequence",
+     "grounds": "emphasizes ordered placement",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "continues the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the ordered placement of deities around the central doorway figure?",
+   "premises": [
+    "Vāgīśvarī is placed in the middle.",
+    "The pair Diṇḍi and Mahodara is placed in sequence.",
+    "Their placement follows right and left order."
+   ],
+   "inference": "The doorway deities are arranged by a fixed central-right-left sequence.",
+   "uncertainties": [
+    "The verse continues the sequence but does not complete it within this unit."
+   ],
+   "plain_english": "In the middle one should place Vāgīśvarī, and likewise the pair Diṇḍi and Mahodara, in order on their own right and left, following that same sequence."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "ekaikaṃ",
+     "gloss": "each-one",
+     "grounds": "prescribes individual worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjayetsamyaṅ",
+     "gloss": "one-should-worship-properly",
+     "grounds": "prescribes the act of worship",
+     "morph": "compound=pūjayet-samyak"
+    },
+    {
+     "surface": "nandikālau",
+     "gloss": "nandi-and-kāla",
+     "grounds": "names a pair of deities",
+     "morph": "compound=nandi-kāla+m.acc.dual"
+    },
+    {
+     "surface": "trimārgagām",
+     "gloss": "the-one-who-goes-by-three-paths",
+     "grounds": "names Gaṅgā",
+     "morph": "compound=tri-mārga-gā+f.acc.sg"
+    },
+    {
+     "surface": "kālindīṃ",
+     "gloss": "kālindī",
+     "grounds": "names Yamunā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "chāgameṣāsyau",
+     "gloss": "the-goat-faced-and-ram-faced-pair",
+     "grounds": "names another pair of deities",
+     "morph": "compound=chāga-meṣa-āsya+m.acc.dual"
+    },
+    {
+     "surface": "svadakṣāddvāḥsthaśākhayoḥ",
+     "gloss": "on-the-door-branches-from-one's-own-right",
+     "grounds": "locates the deities on the door frame",
+     "morph": "compound=sva-dakṣa-dvāḥstha-śākhā+f.loc.dual"
+    }
+   ],
+   "question": "Which deities are worshipped on the branches of the doorway?",
+   "premises": [
+    "Each deity is to be worshipped properly.",
+    "Nandi and Kāla, the three-path river, Kālindī, and the goat-faced and ram-faced pair are included.",
+    "They are placed on the door branches beginning from one's own right."
+   ],
+   "inference": "The doorway worship continues along the door branches with a specified sequence of deities.",
+   "uncertainties": [
+    "The exact mapping of each deity to each branch is not fully explicit."
+   ],
+   "plain_english": "One should properly worship each one: Nandi and Kāla, the river who flows by three paths, Kālindī, and the goat-faced and ram-faced pair, on the door branches beginning from one's own right."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "adhodehalyananteśādhāraśaktīśca",
+     "gloss": "below-dehalī-ananta-īśa-and-the-supporting-power",
+     "grounds": "names the deities below the threshold",
+     "morph": "compound=adhas-dehalī-ananta-īśa-ādhāra-śakti+f.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes worship",
+     "morph": "3.sg.optative-active+root pūj"
+    },
+    {
+     "surface": "dvāramadhye",
+     "gloss": "in-the-middle-of-the-doorway",
+     "grounds": "locates the next worship",
+     "morph": "compound=dvāra-madhya+n.loc.sg"
+    },
+    {
+     "surface": "sarasvatyā",
+     "gloss": "with-sarasvatī",
+     "grounds": "names the deity associated with the weapon",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mahāstraṃ",
+     "gloss": "the-great-weapon",
+     "grounds": "names the object to be worshipped",
+     "morph": "compound=mahā-astra+n.acc.sg"
+    },
+    {
+     "surface": "pūjayedamī",
+     "gloss": "one-should-worship-these",
+     "grounds": "prescribes worship of the named group",
+     "morph": "compound=pūjayet-amī"
+    }
+   ],
+   "question": "Which deities are worshipped below the threshold and at the doorway center?",
+   "premises": [
+    "Below the threshold one worships Dehalī, Ananta, Īśa, and the supporting power.",
+    "In the middle of the doorway one worships the great weapon together with Sarasvatī.",
+    "These are included in the doorway worship sequence."
+   ],
+   "inference": "The doorway rite covers the threshold below and the central space with specific guardian powers.",
+   "uncertainties": [
+    "The exact identity of Dehalī as a deity or threshold power is not explained here."
+   ],
+   "plain_english": "Below the threshold one should worship Dehalī, Ananta, Īśa, and the supporting power; in the middle of the doorway one should worship the great weapon together with Sarasvatī."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "padmādhāragatāḥ",
+     "gloss": "situated-on-the-lotus-support",
+     "grounds": "describes the location of the deities",
+     "morph": "compound=padma-ādhāra-gata+m.nom.pl"
+    },
+    {
+     "surface": "sarve@pyuditā",
+     "gloss": "all-even-are-declared",
+     "grounds": "states that all are included",
+     "morph": "compound=sarve-api-udita+m.nom.pl"
+    },
+    {
+     "surface": "vighnanāśakāḥ",
+     "gloss": "destroyers-of-obstacles",
+     "grounds": "states their function",
+     "morph": "compound=vighna-nāśaka+m.nom.pl"
+    },
+    {
+     "surface": "pūjane",
+     "gloss": "in-the-worship",
+     "grounds": "locates the mantra use",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvavanmantro",
+     "gloss": "the-mantra-as-before",
+     "grounds": "specifies the mantra method",
+     "morph": "compound=pūrvavat-mantra+m.nom.sg"
+    },
+    {
+     "surface": "dīpakadvayakalpitaḥ",
+     "gloss": "arranged-as-two-lamps",
+     "grounds": "adds a ritual arrangement",
+     "morph": "compound=dīpaka-dvaya-kalpita+m.nom.sg"
+    }
+   ],
+   "question": "What is the common status and mantra method for these doorway deities?",
+   "premises": [
+    "All these deities are situated on the lotus support.",
+    "They are declared to be destroyers of obstacles.",
+    "In worship the mantra is used as before, with an arrangement of two lamps."
+   ],
+   "inference": "The doorway deities share an obstacle-removing function and are worshipped with the established mantra method.",
+   "uncertainties": [
+    "The phrase dīpakadvayakalpitaḥ may refer to a visual or ritual arrangement not fully specified here."
+   ],
+   "plain_english": "All these, situated on the lotus support, are declared to be destroyers of obstacles. In their worship the mantra is used as before, with an arrangement of two lamps."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "arghapuṣpasamālambhadhūpanaivedyavandanaiḥ",
+     "gloss": "with-offering-water-flowers-touch-incense-food-and-homage",
+     "grounds": "lists the offerings used in worship",
+     "morph": "compound=argha-puṣpa-samālambha-dhūpa-naivedya-vandana+n.inst.pl"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "names the act to be performed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryādihārghaścāpyuttamadravyayojitaḥ",
+     "gloss": "one-should-do-here-and-the-offering-water-also-joined-with-excellent-substances",
+     "grounds": "prescribes the worship and qualifies the offering water",
+     "morph": "compound=kuryāt-iha-argha-ca-api-uttama-dravya-yojita+m.nom.sg"
+    }
+   ],
+   "question": "What offerings should be used in this doorway worship?",
+   "premises": [
+    "Worship is performed with offering water, flowers, touch, incense, food, and homage.",
+    "The offering water should be joined with excellent substances.",
+    "These offerings constitute the prescribed worship."
+   ],
+   "inference": "The doorway worship requires a full set of offerings, with specially prepared offering water.",
+   "uncertainties": [
+    "The exact excellent substances for the argha are not listed in this verse."
+   ],
+   "plain_english": "One should perform the worship here with offering water, flowers, touch, incense, food offerings, and homage; and the offering water should be prepared with excellent substances."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "ekoccāreṇa",
+     "gloss": "with-a-single-utterance",
+     "grounds": "states an alternative method",
+     "morph": "compound=eka-uccāra+m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks the alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāddvāḥsthadaivatapūjanam",
+     "gloss": "one-should-perform-worship-of-the-doorway-deities",
+     "grounds": "prescribes the alternative worship",
+     "morph": "compound=kuryāt-dvāḥstha-daivata-pūjana+n.acc.sg"
+    },
+    {
+     "surface": "rahasyapūjāṃ",
+     "gloss": "secret-worship",
+     "grounds": "introduces a special case",
+     "morph": "compound=rahasya-pūjā+f.acc.sg"
+    },
+    {
+     "surface": "cetkuryāttadbāhyaparivārakam",
+     "gloss": "if-one-should-do-then-that-outer-retinue",
+     "grounds": "states the consequence for secret worship",
+     "morph": "compound=cet-kuryāt-tad-bāhya-parivāraka+n.acc.sg"
+    }
+   ],
+   "question": "How is doorway worship modified in the case of secret worship?",
+   "premises": [
+    "The doorway deities may be worshipped with a single utterance.",
+    "Secret worship is a possible mode of practice.",
+    "In secret worship, the outer retinue is treated accordingly."
+   ],
+   "inference": "Secret worship permits a condensed treatment of the doorway deities and their outer retinue.",
+   "uncertainties": [
+    "The verse is compressed; the exact procedural change in secret worship is not fully spelled out."
+   ],
+   "plain_english": "Or one may perform the worship of the doorway deities with a single utterance. If one performs secret worship, then that outer retinue is included in that condensed form."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "dvāḥsthāṃśca",
+     "gloss": "and-the-doorway-deities",
+     "grounds": "names the deities to be worshipped",
+     "morph": "compound=dvāḥstha-ca+m.acc.pl"
+    },
+    {
+     "surface": "pūjayedantardevāgre",
+     "gloss": "one-should-worship-inside-before-the-deity",
+     "grounds": "states the location of worship",
+     "morph": "compound=pūjayet-antar-deva-agra+n.loc.sg"
+    },
+    {
+     "surface": "kalpanākramāt",
+     "gloss": "according-to-the-visualized-sequence",
+     "grounds": "specifies the method of worship",
+     "morph": "compound=kalpanā-krama+m.abl.sg"
+    },
+    {
+     "surface": "kṣiptvāstrajaptaṃ",
+     "gloss": "having-thrown-what-is-consecrated-by-the-weapon-mantra",
+     "grounds": "states a protective action",
+     "morph": "compound=kṣiptvā-astra-japta+n.acc.sg"
+    },
+    {
+     "surface": "kusumaṃ",
+     "gloss": "a-flower",
+     "grounds": "names the object used for protection",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jvaladveśmani",
+     "gloss": "in-the-blazing-shrine",
+     "grounds": "locates the protective action",
+     "morph": "compound=jvalat-veśman+n.loc.sg"
+    },
+    {
+     "surface": "vghnanut",
+     "gloss": "destroying-obstacles",
+     "grounds": "states the purpose of the action",
+     "morph": "compound=vighna-nud+m.nom.sg"
+    }
+   ],
+   "question": "How are obstacles removed before entering the worship space?",
+   "premises": [
+    "The doorway deities may be worshipped inwardly before the deity according to visualization.",
+    "A flower consecrated by the weapon mantra is thrown.",
+    "This act destroys obstacles in the blazing shrine."
+   ],
+   "inference": "Obstacle removal is accomplished by inward worship and the projection of a weapon-consecrated flower.",
+   "uncertainties": [
+    "The compound jvaladveśmani may describe a ritually energized space rather than literal fire."
+   ],
+   "plain_english": "One may worship the doorway deities inwardly before the deity according to the visualized sequence. Then, throwing a flower consecrated by the weapon mantra into the blazing shrine, one destroys obstacles."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "marks entry into the shrine",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaraśmīddhadṛśā",
+     "gloss": "with-a-gaze-empowered-by-śiva's-rays",
+     "grounds": "states the mode of perception on entry",
+     "morph": "compound=śiva-raśmi-iddha-dṛś+f.inst.sg"
+    },
+    {
+     "surface": "veśmāvalokayet",
+     "gloss": "one-should-look-upon-the-shrine",
+     "grounds": "prescribes the act after entry",
+     "morph": "compound=veśma-avalokayet"
+    },
+    {
+     "surface": "diśo@streṇa",
+     "gloss": "the-directions-with-the-weapon-mantra",
+     "grounds": "states the means of binding the directions",
+     "morph": "compound=diśas-astra+m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects protective acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "badhnīyācchādayedvarmaṇākhilāḥ",
+     "gloss": "one-should-bind-and-cover-all-with-the-armor-mantra",
+     "grounds": "prescribes the protective sealing of the space",
+     "morph": "compound=badhnīyāt-chādayet-varmaṇā-akhilāḥ"
+    }
+   ],
+   "question": "What protective acts are performed immediately upon entering the shrine?",
+   "premises": [
+    "After entering, one looks upon the shrine with a gaze empowered by Śiva's rays.",
+    "The directions are bound with the weapon mantra.",
+    "All directions are covered with the armor mantra."
+   ],
+   "inference": "Entry into the shrine is secured by empowered vision, directional binding, and protective covering.",
+   "uncertainties": [],
+   "plain_english": "Having entered, one should look upon the shrine with a gaze empowered by Śiva's rays; then one should bind the directions with the weapon mantra and cover them all with the armor mantra."
   }
  ]
 }
