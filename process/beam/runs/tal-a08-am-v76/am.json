@@ -4,10 +4,12 @@
  "question": "What region lies between Hema and Nishadha south of Meru?",
  "premises": [
   "South of Meru stand the two mountains Hema and Nishadha.",
-  "Between them lies the region called Harya.",
-  "Harya is nine thousand in extent and its lifespan exceeds that by a thousand years."
+  "Between them lies the region called Harivarsha.",
+  "Harivarsha is nine thousand in extent and its lifespan is a thousand more."
  ],
- "inference": "The region Harya, between Hema and Nishadha south of Meru, measures nine thousand and has a lifespan of ten thousand years.",
- "uncertainties": [],
- "plain_english": "South of Meru are the mountains Hema and Nishadha, and between them lies Harya, nine thousand wide, where the lifespan is ten thousand years."
+ "inference": "Harivarsha, nine thousand wide with a lifespan exceeding that by a thousand, lies between Hema and Nishadha south of Meru.",
+ "uncertainties": [
+  "The baseline to which 'a thousand more' is added is implied by the preceding verses."
+ ],
+ "plain_english": "South of Meru are the mountains Hema and Nishadha, and between them lies Harivarsha, nine thousand in extent, where the lifespan is a thousand more."
 }

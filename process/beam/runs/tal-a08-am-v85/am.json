@@ -1,13 +1,15 @@
 {
  "song": "tal-a08",
  "verse": 85,
- "question": "What sub-islands and mountains are found in the ninth Kanya division?",
+ "question": "What sub-islands are associated with the ninth division, Kanya?",
  "premises": [
   "The ninth division is Kanya island.",
   "South of it, in the middle of the ocean, there are six sub-islands.",
-  "Kanya is adorned by seven chief mountains."
+  "Kanya island is adorned by seven chief mountains."
  ],
- "inference": "In the ninth Kanya division there are six oceanic sub-islands to the south and seven chief mountains adorning it.",
- "uncertainties": [],
- "plain_english": "In the ninth division, Kanya island, there are six sub-islands in the ocean to the south, and it is adorned by seven chief mountains."
+ "inference": "Kanya, the ninth division, has six oceanic sub-islands to its south and is marked by seven chief mountains.",
+ "uncertainties": [
+  "The names of the seven chief mountains are given in the next verse rather than this one."
+ ],
+ "plain_english": "In the ninth division, Kanya island, there are six sub-islands situated to the south in the middle of the ocean, and the island is adorned by seven chief mountains."
 }

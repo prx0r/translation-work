@@ -1,13 +1,15 @@
 {
  "song": "tal-a08",
  "verse": 77,
- "question": "What region lies between Hema and Himavat farther south?",
+ "question": "What region lies between Hema and Himavat to the south?",
  "premises": [
   "Farther south lie the mountains Hema and Himavat.",
-  "Between them lies the Kinnara region.",
-  "The Kinnara region is nine thousand in extent and its lifespan exceeds that by a thousand years."
+  "Between them lies the region called Kimpurusha.",
+  "Kimpurusha is nine thousand in extent and its lifespan is a thousand more."
  ],
- "inference": "The Kinnara region, between Hema and Himavat, measures nine thousand and has a lifespan of ten thousand years.",
- "uncertainties": [],
- "plain_english": "Farther south, between Hema and Himavat, lies the Kinnara region, nine thousand wide, where the lifespan is ten thousand years."
+ "inference": "Kimpurusha, nine thousand wide with a lifespan exceeding that by a thousand, lies between Hema and Himavat.",
+ "uncertainties": [
+  "The baseline to which 'a thousand more' is added is implied by the preceding verses."
+ ],
+ "plain_english": "Farther south, between Hema and Himavat, lies Kimpurusha, nine thousand in extent, where the lifespan is a thousand more."
 }

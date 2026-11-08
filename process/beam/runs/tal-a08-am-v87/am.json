@@ -1,13 +1,15 @@
 {
  "song": "tal-a08",
  "verse": 87,
- "question": "Who inhabits the islands and sub-islands according to the teaching of Shri Ruru?",
+ "question": "Who inhabits the islands and sub-islands, and what is their character?",
  "premises": [
-  "The islands and sub-islands are inhabited by various peoples.",
-  "These peoples are mostly described as mlecchas.",
-  "The regions are rich in pearls, gold, and gems, according to Shri Ruru's teaching."
+  "The islands and sub-islands are inhabited mostly by various foreign peoples.",
+  "These regions are rich in pearls, gold, and gems.",
+  "This description is attributed to the teaching of Shri Ruru."
  ],
- "inference": "According to Shri Ruru's teaching, the islands and sub-islands are mostly inhabited by diverse foreign peoples and abound in precious materials.",
- "uncertainties": [],
- "plain_english": "According to the teaching of Shri Ruru, the islands and sub-islands are mostly inhabited by various foreign peoples and are rich in pearls, gold, and gems."
+ "inference": "The islands and sub-islands are mostly populated by diverse foreign peoples and are materially rich, according to Shri Ruru's teaching.",
+ "uncertainties": [
+  "The term 'mleccha' is culturally marked; it is rendered descriptively here as 'foreign peoples'."
+ ],
+ "plain_english": "The islands and sub-islands are inhabited mostly by various foreign peoples and are rich in pearls, gold, and gems, as stated in the teaching of Shri Ruru."
 }

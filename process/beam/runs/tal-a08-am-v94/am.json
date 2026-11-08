@@ -1,13 +1,15 @@
 {
  "song": "tal-a08",
  "verse": 94,
- "question": "Who ruled the Jambu region among the sons of Svayambhuva Manu?",
+ "question": "Who ruled Jambu among the sons of Svayambhuva Manu?",
  "premises": [
   "Svayambhuva Manu had ten sons.",
-  "Three of them departed.",
+  "Three of them later departed.",
   "In the region called Jambu, the king was the one named Agnidhra."
  ],
- "inference": "Among Svayambhuva Manu's ten sons, Agnidhra became king in the Jambu region after three departed.",
- "uncertainties": [],
- "plain_english": "Svayambhuva Manu had ten sons; three of them departed, and in the region called Jambu the king was Agnidhra."
+ "inference": "Among Svayambhuva Manu's ten sons, Agnidhra became the ruler of Jambu after three departed.",
+ "uncertainties": [
+  "The reason for the departure of the three sons is not given in this verse."
+ ],
+ "plain_english": "Svayambhuva Manu had ten sons; later three departed, and in the land called Jambu the king was Agnidhra."
 }

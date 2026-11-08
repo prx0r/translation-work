@@ -1,13 +1,15 @@
 {
  "song": "tal-a08",
  "verse": 79,
- "question": "Which regions are lands of enjoyment rather than lands of action?",
+ "question": "Which regions are lands of enjoyment but not lands of action?",
  "premises": [
-  "Ilavrita, Ketubhadra, Kuru, Hairanya, Ramyaka, Hari, and the Kinnara regions are named.",
-  "These regions are described as lands of enjoyment.",
-  "These regions are not lands of action."
+  "Ilavrita, Ketubhadra, Kuru, Hairanya, Ramyaka, Hari, and Kimpurusha are named regions.",
+  "These regions are characterized as lands of enjoyment.",
+  "These regions are not characterized as lands of action."
  ],
- "inference": "Ilavrita and the other named regions are realms of enjoyment only, not realms where new karma is performed.",
- "uncertainties": [],
- "plain_english": "Ilavrita, Ketubhadra, Kuru, Hairanya, Ramyaka, Hari, and the Kinnara regions are lands of enjoyment, not lands of action."
+ "inference": "Ilavrita, Ketubhadra, Kuru, Hairanya, Ramyaka, Hari, and Kimpurusha are lands of enjoyment only, not lands of action.",
+ "uncertainties": [
+  "The compound 'kuruhairaṇyaramyakam' groups three regions together; the parsing follows the standard cosmological list."
+ ],
+ "plain_english": "Ilavrita, Ketubhadra, Kuru, Hairanya, Ramyaka, and the regions of Hari and Kimpurusha are lands of enjoyment, but not lands of action."
 }
