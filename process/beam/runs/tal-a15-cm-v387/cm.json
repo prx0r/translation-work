@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 387,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "pūrveṇa",
-   "morph": "m.ins.sg",
-   "grounds": "refers to the method already described"
+   "lemma": "pūrva",
+   "morph": "m./n.inst.sg",
+   "grounds": "pūrveṇa = by-the-previous (instrumental singular)"
   },
   {
-   "lemma": "vidhināstraṃ",
-   "morph": "compound.n.acc.sg",
-   "grounds": "the weapon-mantra is applied according to prior procedure"
+   "lemma": "vidhinā+astra",
+   "morph": "m.inst.sg + n.acc.sg (sandhi/compound)",
+   "grounds": "vidhināstraṃ = by-the-method-the-weapon (vidhinā inst.sg of vidhi + astram acc.sg of astra; AMBIGUOUS segmentation)"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connects actions"
+   "morph": "indecl.",
+   "grounds": "ca = and (conjunction)"
   },
   {
-   "lemma": "karkaryāṃ",
+   "lemma": "karkarī",
    "morph": "f.loc.sg",
-   "grounds": "ritual vessel used for obstacle removal"
+   "grounds": "karkaryāṃ = in-the-karkarī-vessel (locative singular)"
   },
   {
-   "lemma": "vighnanudyajet",
-   "morph": "3.sg.optative-active",
-   "grounds": "protective action using the weapon"
+   "lemma": "vighna+ud-√yaj",
+   "morph": "m.acc.pl + 3sg.opt.act (sandhi)",
+   "grounds": "vighnanudyajet = he-should-drive-away-obstacles (vighnān acc.pl of vighna + udyajet optative of ud-√yaj; AMBIGUOUS segmentation/analysis)"
   },
   {
-   "lemma": "madhyegṛhaṃ",
-   "morph": "compound.n.acc.sg",
-   "grounds": "central location for the next worship"
+   "lemma": "madhye+gṛha",
+   "morph": "indecl. + n.acc.sg (sandhi)",
+   "grounds": "madhyegṛhaṃ = in-the-middle-of-the-house (madhye loc./indecl. + gṛham acc.sg of gṛha)"
   },
   {
-   "lemma": "tato",
-   "morph": "(indecl.)",
-   "grounds": "next step in the sequence"
+   "lemma": "tatas",
+   "morph": "indecl.",
+   "grounds": "tato = then (indeclinable adverb)"
   },
   {
-   "lemma": "gandhamaṇḍale",
-   "morph": "n.loc.sg",
-   "grounds": "prepared ritual ground for worship"
+   "lemma": "gandha-maṇḍala",
+   "morph": "n.loc.sg (tatpuruṣa compound)",
+   "grounds": "gandhamaṇḍale = on-the-fragrant-diagram (locative singular of compound)"
   },
   {
-   "lemma": "pūjayedguruḥ",
-   "morph": "compound.3.sg.optative-active",
-   "grounds": "officiant performs worship"
+   "lemma": "√pūj+guru",
+   "morph": "3sg.opt.act + m.nom.sg (sandhi)",
+   "grounds": "pūjayedguruḥ = the-guru-should-worship (pūjayet optative of √pūj + guruḥ nom.sg of guru)"
   }
  ]
 }

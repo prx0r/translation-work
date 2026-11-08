@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 379,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "pūjitaṃ",
-   "morph": "m.acc.sg.past.part + pūj",
-   "grounds": "qualification"
+   "lemma": "pūjita",
+   "morph": "n.acc.sg",
+   "grounds": "worshipped (ppp of √pūj, acc.sg.n)"
   },
   {
-   "lemma": "carcitaṃ",
-   "morph": "m.acc.sg.past.part + carc",
-   "grounds": "qualification"
+   "lemma": "carcita",
+   "morph": "n.acc.sg",
+   "grounds": "anointed (ppp of √carc, acc.sg.n)"
   },
   {
-   "lemma": "mūlamanunā",
-   "morph": "compound",
-   "grounds": "instrument"
+   "lemma": "mūlamanu",
+   "morph": "m.inst.sg",
+   "grounds": "with the root mantra (mūla+manu compound, inst.sg.m)"
   },
   {
    "lemma": "mantrayecchatam",
-   "morph": "compound + 3.sg.optative + mantr",
-   "grounds": "instruction"
+   "morph": "3sg.opt.act √mantr + n.acc.sg",
+   "grounds": "one should consecrate one hundred times (sandhi: mantrayet + śatam)"
   },
   {
-   "lemma": "asinā",
+   "lemma": "asi",
    "morph": "m.inst.sg",
-   "grounds": "instrument"
+   "grounds": "with the sword-mantra (inst.sg.m; gloss indicates sword-mantra)"
   },
   {
-   "lemma": "karkarīṃ",
+   "lemma": "karkarī",
    "morph": "f.acc.sg",
-   "grounds": "object"
+   "grounds": "the water-pot (acc.sg.f)"
   },
   {
-   "lemma": "pūrvamastrayāgo",
-   "morph": "compound",
-   "grounds": "condition"
+   "lemma": "pūrvamastrayāga",
+   "morph": "indecl. + m.nom.sg",
+   "grounds": "if the weapon-worship previously (sandhi: pūrvam + astrayāgaḥ)"
   },
   {
    "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "morph": "indecl.",
+   "grounds": "not (indeclinable particle)"
   },
   {
-   "lemma": "cetkṛtaḥ",
-   "morph": "compound",
-   "grounds": "condition"
+   "lemma": "cetkṛta",
+   "morph": "indecl. + m.nom.sg",
+   "grounds": "if done (sandhi: cet + kṛtaḥ, ppp of √kṛ)"
   }
  ]
 }

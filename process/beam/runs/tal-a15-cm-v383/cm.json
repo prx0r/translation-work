@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 383,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "sāvadhānena",
-   "morph": "m.inst.sg",
-   "grounds": "manner"
+   "lemma": "sāvadhāna",
+   "morph": "n.ins.sg",
+   "grounds": "sāvadhānena = with attentiveness (instrumental singular)"
   },
   {
-   "lemma": "karmāntaṃ",
-   "morph": "compound",
-   "grounds": "duration"
+   "lemma": "karmānta",
+   "morph": "m.acc.sg",
+   "grounds": "karmāntaṃ = until the end of the rite (accusative singular)"
   },
   {
-   "lemma": "bhavitavyaṃ",
-   "morph": "n.nom.sg.future.part + bhū",
-   "grounds": "obligation"
+   "lemma": "bhū",
+   "morph": "fut.ptcp.n.nom.sg (gerundive) √bhū",
+   "grounds": "bhavitavyaṃ = it must be (gerundive, neuter nominative singular)"
   },
   {
-   "lemma": "śivājñayā",
-   "morph": "compound",
-   "grounds": "authority"
+   "lemma": "śivājñā",
+   "morph": "f.ins.sg",
+   "grounds": "śivājñayā = by Śiva's command (instrumental singular, compound: śiva+ājñā)"
   },
   {
-   "lemma": "tryakṣare",
-   "morph": "compound",
-   "grounds": "mantric condition"
-  },
-  {
-   "lemma": "nirṛtiprāye",
-   "morph": "compound",
-   "grounds": "mantric condition"
-  },
-  {
-   "lemma": "nāmni",
+   "lemma": "tryakṣara",
    "morph": "n.loc.sg",
-   "grounds": "mantric condition"
+   "grounds": "tryakṣare = in the three-syllable (locative singular, compound: tri+akṣara)"
   },
   {
-   "lemma": "bhoḥśabdamekakam",
-   "morph": "compound",
-   "grounds": "adjustment"
+   "lemma": "nirṛtiprāya",
+   "morph": "n.loc.sg",
+   "grounds": "nirṛtiprāye = mostly belonging to Nirṛti (locative singular, compound: nirṛti+prāya)"
+  },
+  {
+   "lemma": "nāman",
+   "morph": "n.loc.sg",
+   "grounds": "nāmni = name (locative singular)"
+  },
+  {
+   "lemma": "bhoḥśabda-ekaka",
+   "morph": "n.nom.sg",
+   "grounds": "bhoḥśabdamekakam = one single word 'bhoḥ' (nominative singular, compound: bhoḥ+śabda+ekaka)"
   }
  ]
 }

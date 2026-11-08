@@ -1,36 +1,36 @@
 {
- "song": "tal-a15",
- "verse": 380,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "tamaiśānyāṃ",
-   "morph": "compound",
-   "grounds": "location"
+   "lemma": "tad-aiśānī",
+   "morph": "m.acc.sg + f.loc.sg",
+   "grounds": "sandhi compound of tam (tad, m.acc.sg, 'that') + aiśānyām (aiśānī, f.loc.sg, 'in the Īśāna direction')"
   },
   {
-   "lemma": "yajetkumbhaṃ",
-   "morph": "compound + 3.sg.optative + yaj",
-   "grounds": "instruction"
+   "lemma": "yaj-kumbha",
+   "morph": "3sg.opt.act √yaj + m.acc.sg",
+   "grounds": "sandhi of yajet (3sg.opt.act √yaj, 'one should worship') + kumbham (kumbha, m.acc.sg, 'the jar')"
   },
   {
-   "lemma": "vāmasthakalaśānvitam",
-   "morph": "compound",
-   "grounds": "qualification"
+   "lemma": "vāmastha-kalaśa-anvita",
+   "morph": "m.acc.sg (bahuvrīhi/tatpuruṣa compound)",
+   "grounds": "vāma-stha-kalaśa-anvitam: compound 'together with the vessel placed on the left', m.acc.sg"
   },
   {
-   "lemma": "tataḥ",
-   "morph": "(indecl.)",
-   "grounds": "sequence"
+   "lemma": "tatas",
+   "morph": "indecl.",
+   "grounds": "tataḥ, indeclinable adverb 'then'"
   },
   {
-   "lemma": "sauradigāśrityā",
-   "morph": "compound",
-   "grounds": "location"
+   "lemma": "saura-diś-āśritya",
+   "morph": "indecl. (gerund/absolutive compound)",
+   "grounds": "saura-dig-āśrityā: gerund 'taking refuge in the solar direction', from ā-√śri"
   },
   {
-   "lemma": "sāstrāṃllokeśvarānyajet",
-   "morph": "compound + 3.sg.optative + yaj",
-   "grounds": "instruction"
+   "lemma": "sa-astra-lokeśvara-yaj",
+   "morph": "m.acc.pl + m.acc.pl + 3sg.opt.act √yaj",
+   "grounds": "sandhi of sāstrān (sa-astra, m.acc.pl, 'together with their weapons') + lokeśvarān (lokeśvara, m.acc.pl, 'the world-lords') + yajet (3sg.opt.act √yaj, 'one should worship')"
   }
  ]
 }

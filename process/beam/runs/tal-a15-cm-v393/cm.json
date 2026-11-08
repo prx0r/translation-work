@@ -1,51 +1,51 @@
 {
- "song": "tal-a15",
- "verse": 393,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "juhoti",
-   "morph": "3.sg.present-active √hu",
-   "grounds": "Caṇḍikā performs the fire offering"
+   "lemma": "hu",
+   "morph": "3sg.pres.act √hu",
+   "grounds": "juhoti = she-offers-into-fire"
   },
   {
-   "lemma": "japati",
-   "morph": "3.sg.present-active √jap",
-   "grounds": "Caṇḍikā performs mantra recitation"
+   "lemma": "jap",
+   "morph": "3sg.pres.act √jap",
+   "grounds": "japati = she-recites"
   },
   {
-   "lemma": "preddhe",
+   "lemma": "pra-iddha",
    "morph": "m.loc.sg",
-   "grounds": "context of the offering"
+   "grounds": "preddhe = in-the-kindled-fire (locative of past participle; gender AMBIGUOUS, likely m. with agni)"
   },
   {
-   "lemma": "pūjayedvihasedvrajet",
-   "morph": "compound.3.sg.optative/present-active",
-   "grounds": "a series of actions attributed to the same goddess"
+   "lemma": "pūjayet-vihaset-vrajet",
+   "morph": "3sg.opt.act √pūj + 3sg.opt.act √vi-has + 3sg.opt.act √vraj",
+   "grounds": "pūjayedvihasedvrajet = she-worships-laughs-and-goes (sandhi-compounded verb sequence)"
   },
   {
-   "lemma": "āhāre",
+   "lemma": "āhāra",
    "morph": "m.loc.sg",
-   "grounds": "bodily activity as her domain"
+   "grounds": "āhāre = in-eating"
   },
   {
-   "lemma": "maithune",
+   "lemma": "maithuna",
    "morph": "n.loc.sg",
-   "grounds": "bodily activity as her domain"
+   "grounds": "maithune = in-sexual-union"
   },
   {
-   "lemma": "saiva",
-   "morph": "f.nom.sg",
-   "grounds": "identifies the same goddess as the sole agent"
+   "lemma": "sā eva",
+   "morph": "f.nom.sg + (indecl.)",
+   "grounds": "saiva = she-alone (sandhi of sā + eva)"
   },
   {
-   "lemma": "dehasthā",
+   "lemma": "dehastha",
    "morph": "f.nom.sg",
-   "grounds": "her immanent presence"
+   "grounds": "dehasthā = dwelling-in-the-body (bahuvrīhi/tatpuruṣa-derived adjective, feminine nominative)"
   },
   {
    "lemma": "karmakāriṇī",
    "morph": "f.nom.sg",
-   "grounds": "she is the true agent of all acts"
+   "grounds": "karmakāriṇī = the-doer-of-actions (feminine agent noun)"
   }
  ]
 }
