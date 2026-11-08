@@ -526,3 +526,4 @@
 {"ts": "2026-11-08T03:57:44Z", "reviewer": "beam-smart", "task": "tal-a09-cm-v66", "verdict": "needs-fix", "note": "cm header does not match gloss header | bounce: Fix cm header to song 'Tantraloka a09' and verse 66; do not leave song 'unknown' and verse 0."}
 {"ts": "2026-11-08T04:00:55Z", "reviewer": "beam-smart", "task": "tal-a09-cm-v123", "verdict": "looks-good", "note": ""}
 {"ts": "2026-11-08T04:04:05Z", "reviewer": "beam-smart", "task": "tal-a09-cm-v171", "verdict": "needs-fix", "note": "cm metadata does not match gloss metadata | bounce: Fix cm header: song should be 'Tantraloka a09' and verse should be 171, not 'unknown' and 0."}
+{"ts": "2026-11-08T04:07:24Z", "reviewer": "beam-smart", "task": "tal-a09-cm-v226", "verdict": "needs-fix", "note": "cm metadata does not match gloss: song is empty and verse is 0 instead of 'Tantraloka a09' and 226 | bounce: Fix cm header metadata: set song to 'Tantraloka a09' and verse to 226 to match v226/gloss"}
