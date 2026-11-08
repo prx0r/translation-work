@@ -322,3 +322,15 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
   beam_client.py reverted to a 2-model free-only list; docs updated.
 - Workers drafting on iceman now via the same gates (no calibration claims
   yet — first iceman drafts under assessor sampling).
+
+## Correction — free-ONLY cycling, allowance models banned (2026-11-08)
+
+- Owner: cycle ONLY zero-price models. /go lists 30 models; exactly 3 are
+  free: beam-free (429), iceman-contributor-free (WORKS — PONG + full triple
+  JSON, finish=stop), crouton-alpha-free (RegionError here — dead).
+- Honest accounting: ~15 calls hit Go-allowance models (deepseek health
+  probes, 1 triple test, ~6 worker a15-gloss drafts) before the owner flagged
+  it. Stopped immediately; client now hard-restricted to the 2 free models;
+  usage logged in model_usage.jsonl as audit trail.
+- Workers drafting on iceman now through identical gates; first iceman drafts
+  under assessor sampling before any calibration claims.
