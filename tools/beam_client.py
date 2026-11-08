@@ -15,10 +15,12 @@ UA = 'translation-work-harness/1.0'
 # HARDCODED: beam-free only. Other models fail in this harness (owner
 # directive 2026-11-06). Do not add an env override, do not swap models.
 MODEL = 'beam-free'
-# Published limits (GET /inference/go/openai/v1/models): context 1,048,576,
-# output 131,072. Use the ceiling — fewer, bigger requests also avoid the
-# 429 rate limiter seen with many small calls.
-MAX_OUTPUT = 131072
+# Published limits (GET /inference/go/openai/v1/models, 2026-11-08):
+# deepseek-v4.1-flash -> context 1,000,000, output 384,000. Use the full
+# context (assemble whole-ahnika packets) and the full output ceiling —
+# fewer, bigger requests also avoid the 429 limiter seen with many small calls.
+MAX_CONTEXT = 1000000
+MAX_OUTPUT = 384000
 
 def _key() -> str:
     k = os.environ.get('OPENCODE_GO_KEY', '')

@@ -388,7 +388,7 @@ def run_tal_gloss(t: dict) -> tuple[bool, str]:
             + (f'PREVIOUS ATTEMPT NOTE: {prev}\n\n' if prev and 'attempt failed' not in prev and len(prev) > 5 else '')
             + 'Gloss EVERY token in order. Reply ONLY JSON: {"song": "...", "verse": N, '
               '"rows": [{"surface": "...(exact)", "gloss": "...", "grounds": "..."}]}')
-    text = beam(TAL_GLOSS_SYS, user, session=f'tal-gloss-{song}-v{verse}-001', max_tokens=6000)
+    text = beam(TAL_GLOSS_SYS, user, session=f'tal-gloss-{song}-v{verse}-001', max_tokens=64000)
     start, end = text.find('{'), text.rfind('}')
     if start < 0:
         return False, 'no JSON object: ' + text[:300]
@@ -445,7 +445,7 @@ def run_tal_cm(t: dict) -> tuple[bool, str]:
             + '\n'.join(f'{s} = {g}' for s, g in pairs)
             + '\n\nOne CM row per token IN ORDER: [lemma_iast, morph, grounds]. '
               'Reply ONLY JSON: {"song": "...", "verse": N, "rows": [{"lemma": "...", "morph": "...", "grounds": "..."}]}')
-    text = beam(TAL_CM_SYS, user, session=f'tal-cm-{song}-v{verse}-001', max_tokens=6000)
+    text = beam(TAL_CM_SYS, user, session=f'tal-cm-{song}-v{verse}-001', max_tokens=64000)
     start, end = text.find('{'), text.rfind('}')
     if start < 0:
         return False, 'no JSON object: ' + text[:300]
@@ -526,14 +526,29 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
     byv = {e['verse']: e for e in wt}
     ahn = work.split('tantraloka-a')[-1]
     lp = STATE / 'lore' / f'tal-a{ahn}.md'
-    lore = lp.read_text()[:5000] if lp.exists() else ''
+    # FULL transmission brief — we have a 1M-token window; do not truncate.
+    lore = lp.read_text() if lp.exists() else ''
+    # Whole-ahnika map for orientation (which verses exist / where this group sits)
+    all_vs = sorted(byv)
+    amap = f"Ahnika a{ahn}: verses {all_vs[0]}..{all_vs[-1]} ({len(all_vs)} units). This group: {verses[0]}..{verses[-1]}."
+    # Neighbouring verses (immediate before/after) for continuity of the argument.
+    neigh = [v for v in (verses[0]-2, verses[0]-1, verses[-1]+1, verses[-1]+2) if v in byv]
+    nblocks = []
+    for v in neigh:
+        e = byv[v]
+        nblocks.append(f"[context v{v}] " + ' '.join(x['surface'] for x in e['tokens']))
     blocks = []
     for v in verses:
         e = byv[v]
-        blocks.append(f"VERSE {v} ({len(e['tokens'])} tokens):\n"
-                      + '\n'.join(f"  {i+1}. {x['surface']}" for i, x in enumerate(e['tokens'])))
+        rows = []
+        for i, x in enumerate(e['tokens']):
+            hint = (x.get('quick_gloss') or '').strip()
+            rows.append(f"  {i+1}. {x['surface']}" + (f"  [legacy hint: {hint}]" if hint else ''))
+        blocks.append(f"VERSE {v} ({len(e['tokens'])} tokens):\n" + '\n'.join(rows))
     prev = (t.get('note') or '').split(' | ')[-1]
-    user = ('\n\n'.join(blocks)
+    user = (amap + '\n'
+            + (('\n'.join(nblocks) + '\n\n') if nblocks else '')
+            + '\n\n'.join(blocks)
             + ('\n\nLORE (what this ahnika is doing):\n' + lore if lore else '')
             + (('\n\nFIX: ' + prev) if prev and 'attempt failed' not in prev and len(prev) > 5 else '')
             + '\n\nReply ONLY JSON: {"song":"...","items":[{"verse":N,'
@@ -541,7 +556,7 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
               '"question":"...","premises":["..."],"inference":"...",'
               '"uncertainties":["..."],"plain_english":"..."}]}')
     wk = os.environ.get('BEAM_WORKER', 'w0')
-    text = beam(TAL_TRIPLE_SYS, user, session=f'tal-triple-{song}-{wk}', max_tokens=131072)
+    text = beam(TAL_TRIPLE_SYS, user, session=f'tal-triple-{song}-{wk}', max_tokens=384000)
     a, b = text.find('{'), text.rfind('}')
     if a < 0 or b < a:
         if len(verses) > 1:  # likely hit the output ceiling: halve the group
@@ -647,7 +662,7 @@ def run_tal_am(t: dict) -> tuple[bool, str]:
             + '\n\nReply ONLY JSON: {"song":"...","verse":N,"question":"...",'
               '"premises":["..."],"inference":"...","uncertainties":["..."],'
               '"plain_english":"..."}')
-    text = beam(TAL_AM_SYS, user, session=f'tal-am-{song}-v{verse}-001', max_tokens=6000)
+    text = beam(TAL_AM_SYS, user, session=f'tal-am-{song}-v{verse}-001', max_tokens=64000)
     a, b = text.find('{'), text.rfind('}')
     if a < 0:
         return False, 'no JSON: ' + text[:200]

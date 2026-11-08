@@ -4,7 +4,8 @@
 # heartbeat. Idempotent; safe to kill and restart. Never forces a PASS.
 set -u
 cd /root/translation-work || exit 1
-WORKERS=${WORKERS:-2}
+# Base worker slot. Owner directive: start ONE, let ralph stagger up to 3 max.
+WORKERS=${WORKERS:-1}
 STALL_MINS=${STALL_MINS:-25}
 LOGDIR=process/beam
 WD_LOG=$LOGDIR/watchdog.log

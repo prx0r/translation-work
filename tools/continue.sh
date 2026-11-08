@@ -16,7 +16,7 @@ step_sync_seed() {
 }
 
 step_workers() {
-  for w in ${RALPH_WORKERS:-w1 w2 w3 w4 w5}; do
+  for w in ${RALPH_WORKERS:-w1 w2 w3}; do
     if ! pgrep -f "beam_swarm.py worker $w" >/dev/null 2>&1; then
       setsid nohup python3 tools/beam_swarm.py worker "$w" > "process/beam/$w.log" 2>&1 < /dev/null &
       log "started worker $w"
@@ -53,8 +53,8 @@ if [ "$ONCE" = "once" ]; then
   exit 0
 fi
 
-# Worker policy for ralph (owner: start small, add only if healthy).
-export RALPH_WORKERS="${RALPH_WORKERS:-w1 w2}"
+# Worker policy for ralph (owner: start ONE, stagger to max 3).
+export RALPH_WORKERS="${RALPH_WORKERS:-w1 w2 w3}"
 
 # loop mode: keep the registry fresh + seeded, let ralph.sh run the work loop.
 # One loop implementation only (ralph.sh); this button supervises it.
