@@ -1,0 +1,1355 @@
+{
+ "song": "Tantraloka a15",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "astramantritamṛddhūtamalaḥ",
+     "gloss": "with-impurity-removed-by-weapon-mantra-consecrated-clay",
+     "grounds": "compound describing the practitioner purified by clay consecrated with the weapon mantra",
+     "morph": "compound: astra-mantrita-mṛd-dhūta-mala+membership; m.nom.sg"
+    },
+    {
+     "surface": "pañcāṅgamantritaiḥ",
+     "gloss": "consecrated-by-five-limb-mantras",
+     "grounds": "waters empowered by the five-limb mantras",
+     "morph": "compound: pañca-aṅga-mantrita+membership; n.inst.pl"
+    },
+    {
+     "surface": "jalairmūrdhādipādāntaṃ",
+     "gloss": "with-waters-from-head-to-feet",
+     "grounds": "washing the body from head down to the feet",
+     "morph": "compound: jala+mūrdhan-ādi-pāda-anta+membership; n.inst.pl + m.acc.sg"
+    },
+    {
+     "surface": "kramādākṣālayettataḥ",
+     "gloss": "then-one-should-wash-in-order",
+     "grounds": "instruction to perform the washing sequentially",
+     "morph": "kramāt (indecl.) + ā-kṣālayet 3.sg.opt.act √kṣal + tataḥ (indecl.)"
+    }
+   ],
+   "question": "How should the practitioner wash the body with consecrated waters?",
+   "premises": [
+    "Impurity is removed using clay consecrated by the weapon mantra.",
+    "Waters are consecrated by the five-limb mantras.",
+    "The body is washed in order from head to feet."
+   ],
+   "inference": "After removing impurity with consecrated clay, the practitioner should sequentially wash the body from head to feet with waters empowered by the five-limb mantras.",
+   "uncertainties": [],
+   "plain_english": "Having removed impurity with clay consecrated by the weapon mantra, one should then wash the body in order from head to feet with waters consecrated by the five-limb mantras."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "nimajjetsāṅgamūlākhyaṃ",
+     "gloss": "one-should-immerse-reciting-root-with-limbs",
+     "grounds": "immersion while reciting the root mantra together with its limbs",
+     "morph": "ni-majjet 3.sg.opt.act √majj + compound: sa-aṅga-mūla-ākhya+membership; m.acc.sg"
+    },
+    {
+     "surface": "japannā",
+     "gloss": "reciting-or",
+     "grounds": "alternative of reciting during immersion",
+     "morph": "japan m.nom.sg.pres.part.act √jap + nā (indecl.)"
+    },
+    {
+     "surface": "tanmayatvataḥ",
+     "gloss": "from-becoming-one-with-that",
+     "grounds": "immersion grounded in identification with the mantra or deity",
+     "morph": "compound: tanmaya-tva+tas; (indecl.)"
+    },
+    {
+     "surface": "utthāyāśeṣasajjyotirdevatāgarbhamambare",
+     "gloss": "having-risen-the-sun-containing-all-luminous-deities-in-sky",
+     "grounds": "after rising, one visualizes the sun in the sky as containing all luminous deities",
+     "morph": "utthāya (indecl.gerund) + compound: aśeṣa-sat-jyotis-devatā-garbha+membership; m.acc.sg + ambare n.loc.sg"
+    }
+   ],
+   "question": "What should the practitioner do during and after immersion in water?",
+   "premises": [
+    "Immersion is performed while reciting the root mantra with its limbs.",
+    "Immersion can also be grounded in becoming one with that mantra.",
+    "After rising, the sun in the sky is contemplated as containing all luminous deities."
+   ],
+   "inference": "The practitioner should immerse while reciting the root mantra with its limbs or through identification with it, then rise and contemplate the sun in the sky as holding all luminous deities.",
+   "uncertainties": [
+    "The exact force of 'nā' in 'japannā' is slightly ambiguous in this compressed phrasing."
+   ],
+   "plain_english": "One should immerse while reciting the root mantra together with its limbs, or through becoming one with it. After rising, one should contemplate in the sky the sun that contains all the luminous deities."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "sūryaṃ",
+     "gloss": "the-sun",
+     "grounds": "object of offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "medium of the offering",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mālinyā",
+     "gloss": "with-malini-mantra",
+     "grounds": "mantra used for the offering",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tarpayedviśvatarpakam",
+     "gloss": "one-should-satisfy-the-satisfier-of-all",
+     "grounds": "the sun is satisfied as the one who satisfies the whole world",
+     "morph": "tarpayet 3.sg.opt.caus.act √tṛp + compound: viśva-tarpaka+membership; m.acc.sg"
+    },
+    {
+     "surface": "devānpitṝnmunīnyakṣān",
+     "gloss": "gods-ancestors-sages-yakshas",
+     "grounds": "classes of beings to be satisfied",
+     "morph": "devān m.acc.pl + pitṝn m.acc.pl + munīn m.acc.pl + yakṣān m.acc.pl"
+    },
+    {
+     "surface": "rakṣāṃsyanyacca",
+     "gloss": "demons-and-whatever-else",
+     "grounds": "additional beings included in the offering",
+     "morph": "rakṣāṃsi n.acc.pl + anyat n.acc.sg + ca (indecl.)"
+    },
+    {
+     "surface": "bhautikam",
+     "gloss": "elemental",
+     "grounds": "other beings composed of the elements",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Whom should the practitioner satisfy with water and the Malini mantra?",
+   "premises": [
+    "The sun is satisfied with water using the Malini mantra.",
+    "The sun is described as the satisfier of all.",
+    "Gods, ancestors, sages, yakshas, demons, and other elemental beings are also satisfied."
+   ],
+   "inference": "By offering water with the Malini mantra to the sun, the satisfier of all, the practitioner also satisfies gods, ancestors, sages, yakshas, demons, and other elemental beings.",
+   "uncertainties": [],
+   "plain_english": "With water and the Malini mantra, one should satisfy the sun, the satisfier of the whole world, and also satisfy the gods, ancestors, sages, yakshas, demons, and whatever else is elemental."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of beings to be satisfied",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃtarpayetprāṇo",
+     "gloss": "one-should-satisfy-the-vital-breath",
+     "grounds": "the vital breath is the agent of satisfaction",
+     "morph": "saṃ-tarpayet 3.sg.opt.caus.act √tṛp + prāṇaḥ m.nom.sg"
+    },
+    {
+     "surface": "vīryātmā",
+     "gloss": "whose-nature-is-power",
+     "grounds": "the vital breath is characterized as power",
+     "morph": "compound: vīrya-ātman+membership; m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "refers back to the vital breath or power",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāskaraḥ",
+     "gloss": "the-sun",
+     "grounds": "identifies that power with the sun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the next step in the rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japetparāmekāṃ",
+     "gloss": "one-should-recite-the-single-supreme",
+     "grounds": "recitation of the one supreme mantra",
+     "morph": "japet 3.sg.opt.act √jap + parām f.acc.sg + ekām f.acc.sg"
+    },
+    {
+     "surface": "prāguktoccārayogataḥ",
+     "gloss": "according-to-the-previously-taught-utterance-method",
+     "grounds": "the recitation follows the method of utterance taught earlier",
+     "morph": "compound: prāk-ukta-uccāra-yoga+tas; (indecl.)"
+    }
+   ],
+   "question": "What principle underlies the satisfaction of all beings and what follows it?",
+   "premises": [
+    "The vital breath, whose nature is power, satisfies all beings.",
+    "That same power is identified with the sun.",
+    "After this, one recites the single supreme mantra by the previously taught method of utterance."
+   ],
+   "inference": "Because the vital breath as power is the sun, satisfying all through it is effective, and the practitioner then recites the single supreme mantra as previously taught.",
+   "uncertainties": [],
+   "plain_english": "One should satisfy all beings through the vital breath, whose nature is power, and that power is the sun. Then one should recite the single supreme mantra according to the method of utterance taught earlier."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "ā",
+     "gloss": "up-to",
+     "grounds": "indicates extent or culmination",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmayatvasaṃvitterjalasnānamidaṃ",
+     "gloss": "from-awareness-of-becoming-one-with-that-this-is-water-bath",
+     "grounds": "water bathing is defined by awareness of becoming one with that reality",
+     "morph": "compound: tanmaya-tva-saṃvitti+tas; (indecl.) + compound: jala-snāna+membership; n.nom.sg + idam n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "regarded",
+     "grounds": "states the accepted view",
+     "morph": "n.nom.sg past-passive-participle √man"
+    },
+    {
+     "surface": "agnyutthaṃ",
+     "gloss": "arisen-from-fire",
+     "grounds": "introduces the fire-born substance for the next bath",
+     "morph": "compound: agni-uttha+membership; n.nom.sg"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ash",
+     "grounds": "substance used in the fire bath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śastreṇa",
+     "gloss": "with-the-weapon-mantra",
+     "grounds": "mantra used to empower the ash",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "recitation precedes use of the ash",
+     "morph": "(indecl.gerund) √jap"
+    },
+    {
+     "surface": "malanivarhaṇam",
+     "gloss": "removing-impurity",
+     "grounds": "purpose of the consecrated ash",
+     "morph": "compound: mala-nivarhaṇa+membership; n.nom.sg"
+    }
+   ],
+   "question": "What completes the water bath and what begins the fire bath?",
+   "premises": [
+    "Water bathing is regarded as complete through awareness of becoming one with that reality.",
+    "Ash arisen from fire is used for the next form of bathing.",
+    "The ash is recited over with the weapon mantra to remove impurity."
+   ],
+   "inference": "The water bath culminates in identification-awareness, and the fire bath begins by empowering fire-born ash with the weapon mantra for the removal of impurity.",
+   "uncertainties": [
+    "The initial 'ā' may indicate extent up to full identification; the exact syntactic force is compressed."
+   ],
+   "plain_english": "This is regarded as the water bath, culminating in the awareness of becoming one with that. For the fire bath, ash arisen from fire is recited over with the weapon mantra so that it removes impurity."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "kavaktrahṛdguhyapade",
+     "gloss": "on-head-face-heart-secret-place",
+     "grounds": "body locations where ash is applied",
+     "morph": "compound: ka-vaktra-hṛd-guhya-pada+membership; n.loc.sg"
+    },
+    {
+     "surface": "pañcāṅgairbhasma",
+     "gloss": "ash-with-the-five-limbs",
+     "grounds": "ash consecrated by the five-limb mantras",
+     "morph": "pañca-aṅgaiḥ n.inst.pl + bhasma n.nom.sg"
+    },
+    {
+     "surface": "mantritam",
+     "gloss": "consecrated",
+     "grounds": "the ash is empowered by mantra",
+     "morph": "n.nom.sg past-passive-participle √mantr"
+    },
+    {
+     "surface": "bhasmamuṣṭiṃ",
+     "gloss": "a-handful-of-ash",
+     "grounds": "the quantity of ash to be used",
+     "morph": "compound: bhasma-muṣṭi+membership; f.acc.sg"
+    },
+    {
+     "surface": "sāṅgamūlajaptāṃ",
+     "gloss": "recited-over-with-root-and-limbs",
+     "grounds": "the handful is empowered by the root mantra and its limbs",
+     "morph": "compound: sa-aṅga-mūla-japta+membership; f.acc.sg"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-the-head",
+     "grounds": "place where the handful is cast",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣipettataḥ",
+     "gloss": "then-one-should-cast",
+     "grounds": "instruction to apply the ash",
+     "morph": "kṣipet 3.sg.opt.act √kṣip + tataḥ (indecl.)"
+    }
+   ],
+   "question": "How is consecrated ash applied to the body in the fire bath?",
+   "premises": [
+    "Ash is consecrated with the five-limb mantras.",
+    "It is applied to the head, face, heart, and secret place.",
+    "A handful of ash recited over with the root mantra and its limbs is then cast on the head."
+   ],
+   "inference": "The fire bath applies ash consecrated by the five-limb mantras to key body locations and then casts a handful empowered by the root mantra and its limbs onto the head.",
+   "uncertainties": [
+    "The initial 'ka' in 'kavaktra' is taken as referring to the head; the compound is compressed."
+   ],
+   "plain_english": "Ash consecrated with the five-limb mantras is applied to the head, face, heart, and secret place. Then a handful of ash, recited over with the root mantra and its limbs, should be cast on the head."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "hastapādau",
+     "gloss": "hands-and-feet",
+     "grounds": "parts washed after applying ash",
+     "morph": "compound: hasta-pāda+membership; m.acc.du"
+    },
+    {
+     "surface": "jalenaiva",
+     "gloss": "with-water-alone",
+     "grounds": "only water is used for this washing",
+     "morph": "jalena n.inst.sg + eva (indecl.)"
+    },
+    {
+     "surface": "prakṣālyācamanādikam",
+     "gloss": "having-washed-sipping-and-so-on",
+     "grounds": "washing is followed by sipping water and related acts",
+     "morph": "pra-kṣālya (indecl.gerund) + compound: ācamana-ādika+membership; n.acc.sg"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "satisfaction-offering",
+     "grounds": "offering of satisfaction follows",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "mantra recitation follows",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus-in-this-way",
+     "grounds": "summarizes the sequence",
+     "morph": "iti (indecl.) + evam (indecl.)"
+    },
+    {
+     "surface": "bhasmasnānaṃ",
+     "gloss": "ash-bath",
+     "grounds": "names the rite completed by this sequence",
+     "morph": "compound: bhasma-snāna+membership; n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasizes the identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taijasam",
+     "gloss": "fiery",
+     "grounds": "classifies the ash bath as belonging to fire",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What concluding acts complete the ash bath and how is it classified?",
+   "premises": [
+    "Hands and feet are washed with water alone after the ash application.",
+    "Sipping water, satisfaction offerings, and recitation follow.",
+    "This sequence constitutes the ash bath."
+   ],
+   "inference": "The ash bath is completed by washing, sipping, satisfaction, and recitation, and it is classified as the fiery bath.",
+   "uncertainties": [],
+   "plain_english": "After washing the hands and feet with water alone, one performs sipping and the other acts, then satisfaction and recitation. In this way, the ash bath is indeed the fiery bath."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "gorajovatyanudrikte",
+     "gloss": "like-cow-dust-when-not-excessive",
+     "grounds": "describes a gentle wind carrying dust like that raised by cows",
+     "morph": "compound: go-rajas-vat+membership; (indecl.) + ati-anudrikte m.loc.sg"
+    },
+    {
+     "surface": "vāyau",
+     "gloss": "in-the-wind",
+     "grounds": "the wind is the medium of this bath",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hlādini",
+     "gloss": "refreshing",
+     "grounds": "the wind is pleasant and refreshing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantravāk",
+     "gloss": "uttering-the-mantra",
+     "grounds": "the practitioner speaks the mantra",
+     "morph": "compound: mantra-vāc+membership; m.nom.sg"
+    },
+    {
+     "surface": "gatyāgatiprayoge",
+     "gloss": "in-the-practice-of-going-and-coming",
+     "grounds": "moving back and forth in the wind",
+     "morph": "compound: gati-āgati-prayoga+membership; m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative mode of practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyavyaṃ",
+     "gloss": "wind-bath",
+     "grounds": "names the bath belonging to wind",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "snānamācaret",
+     "gloss": "one-should-perform-the-bath",
+     "grounds": "instruction to carry out the wind bath",
+     "morph": "snānam n.acc.sg + ā-caret 3.sg.opt.act √car"
+    }
+   ],
+   "question": "How is the wind bath performed using a gentle breeze and mantra?",
+   "premises": [
+    "A refreshing wind, not excessive and like dust raised by cows, is present.",
+    "The practitioner utters the mantra.",
+    "The practitioner may move back and forth in that wind."
+   ],
+   "inference": "The wind bath is performed by uttering the mantra while standing in or moving through a gentle, refreshing breeze.",
+   "uncertainties": [],
+   "plain_english": "When a refreshing wind blows gently, like the dust raised by cows, one should perform the wind bath by uttering the mantra, or by moving back and forth in that wind."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "amale",
+     "gloss": "in-the-stainless",
+     "grounds": "describes the purity of the sky",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gagane",
+     "gloss": "in-the-sky",
+     "grounds": "the locus of contemplation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vyāpinyekāgrībhūtadṛṣṭikaḥ",
+     "gloss": "with-gaze-made-one-pointed-on-the-pervasive",
+     "grounds": "the practitioner fixes attention on the pervasive sky",
+     "morph": "compound: vyāpin-ekāgrībhūta-dṛṣṭika+membership; m.nom.sg"
+    },
+    {
+     "surface": "smaranmantraṃ",
+     "gloss": "remembering-the-mantra",
+     "grounds": "mantra recollection accompanies the gaze",
+     "morph": "smaran m.nom.sg.pres.part.act √smṛ + mantram m.acc.sg"
+    },
+    {
+     "surface": "yadāsīta",
+     "gloss": "when-one-sits",
+     "grounds": "the practice is done while seated",
+     "morph": "yadā (indecl.) + āsīta 3.sg.opt.act √ās"
+    },
+    {
+     "surface": "kānyā",
+     "gloss": "what-other",
+     "grounds": "rhetorical question about purity",
+     "morph": "kā f.nom.sg + anyā f.nom.sg"
+    },
+    {
+     "surface": "nirmalatā",
+     "gloss": "stainlessness",
+     "grounds": "the purity attained through this contemplation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "than-that",
+     "grounds": "compares other purity to this state",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What purity arises from contemplating the stainless sky with mantra?",
+   "premises": [
+    "The practitioner sits with a one-pointed gaze on the stainless, pervasive sky.",
+    "The practitioner remembers the mantra while doing so.",
+    "The verse rhetorically asks what purity could surpass this."
+   ],
+   "inference": "Contemplation of the stainless sky with one-pointed gaze and mantra remembrance yields a supreme purity beyond comparison.",
+   "uncertainties": [],
+   "plain_english": "When one sits in the stainless sky with a gaze made one-pointed on the pervasive expanse, remembering the mantra, what other purity could there be beyond that?"
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces an alternative form of the sky bath",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks the alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmalādvyomnaḥ",
+     "gloss": "from-the-stainless-sky",
+     "grounds": "source of the falling water",
+     "morph": "nirmalāt n.abl.sg + vyomnaḥ n.abl.sg"
+    },
+    {
+     "surface": "patatā",
+     "gloss": "by-falling",
+     "grounds": "describes the water descending",
+     "morph": "n.inst.sg pres.part.act √pat"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "with-water",
+     "grounds": "medium touching the body",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tanum",
+     "gloss": "the-body",
+     "grounds": "object touched by the water",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sparśayenmantrajapayuṅ",
+     "gloss": "one-should-touch-joined-with-mantra-recitation",
+     "grounds": "the body is touched by water while reciting mantra",
+     "morph": "sparśayet 3.sg.opt.caus.act √spṛś + compound: mantra-japa-yuj+membership; m.nom.sg"
+    },
+    {
+     "surface": "nābhasaṃ",
+     "gloss": "sky-bath",
+     "grounds": "names this form of bathing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "snānamīdṛśam",
+     "gloss": "such-a-bath",
+     "grounds": "identifies the described practice as the sky bath",
+     "morph": "snānam n.nom.sg + īdṛśam n.nom.sg"
+    }
+   ],
+   "question": "What alternative practice counts as the sky bath using falling water?",
+   "premises": [
+    "Water falls from the stainless sky.",
+    "That falling water touches the body.",
+    "The practitioner is joined with mantra recitation during this contact."
+   ],
+   "inference": "Letting water falling from the stainless sky touch the body while reciting mantra constitutes the sky bath.",
+   "uncertainties": [],
+   "plain_english": "Or, if one lets water falling from the stainless sky touch the body while joined with mantra recitation, that is such a sky bath."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to the preceding methods",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "somārkatejaḥsu",
+     "gloss": "in-moon-sun-and-fire-lights",
+     "grounds": "the luminous media of bathing and contemplation",
+     "morph": "compound: soma-arka-tejas+membership; n.loc.pl"
+    },
+    {
+     "surface": "śivabhāvena",
+     "gloss": "with-the-state-of-shiva",
+     "grounds": "the contemplative attitude of being Shiva",
+     "morph": "compound: śiva-bhāva+membership; m.inst.sg"
+    },
+    {
+     "surface": "bhāvanāt",
+     "gloss": "through-contemplation",
+     "grounds": "the practice is accomplished by contemplative identification",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "nimajjandhautamālinyaḥ",
+     "gloss": "immersing-purified-by-malini",
+     "grounds": "the practitioner is immersed and purified through the Malini",
+     "morph": "nimajjan m.nom.sg.pres.part.act √majj + compound: dhauta-mālinī+membership; m.nom.sg"
+    },
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "rhetorical question about limitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "extends the rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogyo",
+     "gloss": "fit",
+     "grounds": "asks about the practitioner's fitness or scope",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates limitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "states the result of the practice",
+     "morph": "3.sg.pres.mid √jan"
+    }
+   ],
+   "question": "What limitless fitness arises from bathing in the lights with Shiva-awareness?",
+   "premises": [
+    "The practitioner contemplates moon, sun, and fire lights with the state of Shiva.",
+    "Immersion and purification occur through this contemplation and the Malini.",
+    "The verse rhetorically denies any limit to the practitioner's fitness."
+   ],
+   "inference": "Through contemplative immersion in the lights of moon, sun, and fire with Shiva-awareness, the practitioner purified by the Malini becomes fit without limitation.",
+   "uncertainties": [],
+   "plain_english": "Thus, by contemplating with the state of Shiva in the lights of moon, sun, and fire, and by immersing purified through the Malini, where would one not become fit?"
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "ātmaiva",
+     "gloss": "the-self-alone",
+     "grounds": "identifies the self as the supreme reality",
+     "morph": "ātmā m.nom.sg + eva (indecl.)"
+    },
+    {
+     "surface": "parameśāno",
+     "gloss": "the-supreme-lord",
+     "grounds": "equates the self with Parameshana",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirācāramahāhradaḥ",
+     "gloss": "the-great-pool-beyond-ritual-observance",
+     "grounds": "the self is a vast pool not limited by external observance",
+     "morph": "compound: nir-ācāra-mahā-hrada+membership; m.nom.sg"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "the-universe",
+     "grounds": "all things are immersed in that self",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nimajjya",
+     "gloss": "having-immersed",
+     "grounds": "the universe is plunged into the self",
+     "morph": "(indecl.gerund) ni-√majj"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-alone",
+     "grounds": "the immersion remains in that same self",
+     "morph": "tatra (indecl.) + eva (indecl.)"
+    },
+    {
+     "surface": "tiṣṭhecchuddhaśca",
+     "gloss": "one-should-abide-and-pure",
+     "grounds": "abiding in the self is both pure and purifying",
+     "morph": "tiṣṭhet 3.sg.opt.act √sthā + śuddhaḥ m.nom.sg + ca (indecl.)"
+    },
+    {
+     "surface": "śodhakaḥ",
+     "gloss": "purifying",
+     "grounds": "the self also purifies all that is immersed in it",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the self function as the ultimate bath beyond ritual?",
+   "premises": [
+    "The self alone is the supreme lord.",
+    "The self is a great pool beyond ritual observance.",
+    "The universe is immersed in that self and abides there."
+   ],
+   "inference": "When the universe is immersed in the self, the supreme lord as a great pool beyond ritual, one abides there as both pure and purifying.",
+   "uncertainties": [],
+   "plain_english": "The self alone is the supreme lord, the great pool beyond ritual observance. Having immersed the universe there, one should abide in that very place as pure and as the purifier."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the preceding teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānāṣṭakaṃ",
+     "gloss": "the-group-of-eight-baths",
+     "grounds": "names the complete set of eight baths",
+     "morph": "compound: snāna-aṣṭaka+membership; n.nom.sg"
+    },
+    {
+     "surface": "śuddhāvuttarottaramuttamam",
+     "gloss": "in-purification-each-later-one-better",
+     "grounds": "each successive bath is superior in purification",
+     "morph": "śuddhau f.loc.sg + compound: uttara-uttara-uttama+membership; n.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "in-all-cases",
+     "grounds": "applies to every bath in the set",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāttaṃ",
+     "gloss": "afterward-that",
+     "grounds": "after each bath a mantra is applied",
+     "morph": "paścāt (indecl.) + tam m.acc.sg"
+    },
+    {
+     "surface": "mantramekībhūtamupāharet",
+     "gloss": "one-should-apply-the-mantra-as-unified",
+     "grounds": "the mantra is brought in as a unified presence",
+     "morph": "mantram m.acc.sg + ekībhūtam m.acc.sg + upa-ā-haret 3.sg.opt.act √hṛ"
+    }
+   ],
+   "question": "How should the eight baths be ranked and completed with mantra?",
+   "premises": [
+    "There is a group of eight baths.",
+    "In purification, each later bath is better than the previous one.",
+    "After each bath, the mantra is applied in a unified form."
+   ],
+   "inference": "The eight baths form an ascending sequence of purification, and each is completed by applying the mantra as a unified presence.",
+   "uncertainties": [],
+   "plain_english": "Thus there is the group of eight baths, each later one better than the previous in purification. In every case, afterward one should apply that mantra in a unified form."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "ghṛtyāpyāyamalaploṣavīryavyāptimṛjisthitīḥ",
+     "gloss": "firmness-nourishment-burning-impurity-power-pervasion-purification-abiding",
+     "grounds": "lists the successive fruits attained through the eight baths",
+     "morph": "compound: ghṛti-āpyāya-mala-ploṣa-vīrya-vyāpti-mṛj-sthiti+membership; f.acc.pl"
+    },
+    {
+     "surface": "abhedaṃ",
+     "gloss": "non-difference",
+     "grounds": "the final fruit is non-difference",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds the final fruit to the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramādeti",
+     "gloss": "in-order-attains",
+     "grounds": "these fruits are attained sequentially",
+     "morph": "kramāt (indecl.) + eti 3.sg.pres.act √i"
+    },
+    {
+     "surface": "snānāṣṭakaparo",
+     "gloss": "devoted-to-the-eight-baths",
+     "grounds": "the practitioner committed to the eightfold bathing",
+     "morph": "compound: snāna-aṣṭaka-para+membership; m.nom.sg"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "the-sage",
+     "grounds": "the practitioner who performs the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sequence of fruits does the practitioner of the eight baths attain?",
+   "premises": [
+    "The eight baths are practiced in order.",
+    "Their fruits include firmness, nourishment, burning of impurity, power, pervasion, purification, abiding, and non-difference.",
+    "The sage devoted to the eight baths attains these fruits sequentially."
+   ],
+   "inference": "The sage devoted to the eight baths attains, in order, firmness, nourishment, burning of impurity, power, pervasion, purification, abiding, and finally non-difference.",
+   "uncertainties": [
+    "The mapping of each fruit to each specific bath is implied by sequence but not explicitly stated in this verse."
+   ],
+   "plain_english": "The sage devoted to the eight baths attains in order firmness, nourishment, the burning away of impurity, power, pervasion, purification, abiding, and non-difference."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "refers to the eight baths or their powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hyanugrahātmāno",
+     "gloss": "indeed-whose-nature-is-grace",
+     "grounds": "the forms are essentially gracious",
+     "morph": "hi (indecl.) + compound: anugraha-ātman+membership; f.nom.pl"
+    },
+    {
+     "surface": "mūrtayo@ṣṭau",
+     "gloss": "the-eight-forms",
+     "grounds": "identifies the eight as forms of Shiva",
+     "morph": "mūrtayaḥ f.nom.pl + aṣṭau (indecl.)"
+    },
+    {
+     "surface": "śivātmikāḥ",
+     "gloss": "whose-nature-is-shiva",
+     "grounds": "the eight forms are Shiva in essence",
+     "morph": "compound: śiva-ātmaka+membership; f.nom.pl"
+    },
+    {
+     "surface": "svarūpaśivarūpābhyāṃ",
+     "gloss": "through-own-form-and-shiva-form",
+     "grounds": "meditation occurs through the practitioner's own form and Shiva's form",
+     "morph": "compound: sva-rūpa-śiva-rūpa+membership; n.inst.du"
+    },
+    {
+     "surface": "dhyānāttattatphalapradāḥ",
+     "gloss": "through-meditation-giving-their-respective-fruits",
+     "grounds": "meditation on these forms yields their specific fruits",
+     "morph": "dhyānāt n.abl.sg + compound: tat-tat-phala-prada+membership; f.nom.pl"
+    }
+   ],
+   "question": "What is the essential nature of the eight forms and how do they give fruit?",
+   "premises": [
+    "The eight forms are gracious in nature.",
+    "They are essentially forms of Shiva.",
+    "Meditation through one's own form and Shiva's form makes them give their respective fruits."
+   ],
+   "inference": "The eight gracious forms, being Shiva in essence, grant their respective fruits when meditated upon through one's own form and Shiva's form.",
+   "uncertainties": [],
+   "plain_english": "These eight forms are indeed gracious in nature and are essentially Shiva. Through meditation on them as one's own form and as Shiva's form, they grant their respective fruits."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "refers to the method just taught",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vidhinārcāyāṃ",
+     "gloss": "by-this-method-in-worship",
+     "grounds": "the method is applied in ritual worship",
+     "morph": "vidhinā m.inst.sg + arcāyām f.loc.sg"
+    },
+    {
+     "surface": "kandādhārādiyojanām",
+     "gloss": "the-application-beginning-with-bulb-and-support",
+     "grounds": "the rite includes placing or linking the bulb, support, and so on",
+     "morph": "compound: kanda-ādhāra-ādi-yojanā+membership; f.acc.sg"
+    },
+    {
+     "surface": "kurvanvyāsasamāsābhyāṃ",
+     "gloss": "doing-by-expansion-and-contraction",
+     "grounds": "the application is performed in detailed and condensed forms",
+     "morph": "kurvan m.nom.sg.pres.part.act √kṛ + compound: vyāsa-samāsa+membership; n.inst.du"
+    },
+    {
+     "surface": "dharādestatphalaṃ",
+     "gloss": "from-earth-and-so-on-its-fruit",
+     "grounds": "the fruits correspond to earth and the other principles",
+     "morph": "compound: dharā-ādi+tas; (indecl.) + compound: tat-phala+membership; n.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-obtain",
+     "grounds": "the practitioner receives the corresponding fruit",
+     "morph": "3.sg.opt.act √bhaj"
+    }
+   ],
+   "question": "How does applying this method in worship yield the fruits of the elements?",
+   "premises": [
+    "The method is applied in worship.",
+    "It includes the application beginning with the bulb and support.",
+    "It may be performed in expanded or condensed form."
+   ],
+   "inference": "By applying this method in worship, including the bulb and support in expanded or condensed form, the practitioner obtains the corresponding fruits beginning with earth.",
+   "uncertainties": [
+    "The technical referents of 'kanda' and 'ādhāra' are context-dependent in the rite."
+   ],
+   "plain_english": "By this method in worship, performing the application beginning with the bulb and the support, whether in expanded or condensed form, one obtains the corresponding fruit beginning with earth."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "introduces an explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogasaṃcāre",
+     "gloss": "in-the-movement-of-yoga",
+     "grounds": "in the yogic circulation or application",
+     "morph": "compound: yoga-saṃcāra+membership; m.loc.sg"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "the-mantras",
+     "grounds": "mantras take on the nature of the levels",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syurbhuvi",
+     "gloss": "on-earth-are",
+     "grounds": "on the earth level they are earthly",
+     "morph": "syuḥ 3.pl.opt.act √as + bhuvi f.loc.sg"
+    },
+    {
+     "surface": "pārthivāḥ",
+     "gloss": "earthly",
+     "grounds": "mantras have an earthly character on earth",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "āpye",
+     "gloss": "in-the-watery",
+     "grounds": "on the water level",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "āpyā",
+     "gloss": "watery",
+     "grounds": "mantras have a watery character in water",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yāvadamī",
+     "gloss": "as-far-as-these",
+     "grounds": "extends the correspondence upward through the levels",
+     "morph": "yāvat (indecl.) + amī m.nom.pl"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-shiva",
+     "grounds": "culmination at the level of Shiva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śivamayā",
+     "gloss": "consisting-of-shiva",
+     "grounds": "at Shiva they are of Shiva's nature",
+     "morph": "compound: śiva-maya+membership; m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the explanation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do mantras correspond to the levels in yogic application?",
+   "premises": [
+    "In the movement of yoga, mantras align with the levels where they are applied.",
+    "On earth they are earthly and in water they are watery.",
+    "This correspondence continues up to Shiva, where they are of Shiva's nature."
+   ],
+   "inference": "In yogic application, mantras take on the character of each level, from earth up to Shiva, where they become wholly of Shiva's nature.",
+   "uncertainties": [],
+   "plain_english": "For in the movement of yoga, the mantras are earthly on earth, watery in water, and so on, until in Shiva they become wholly of Shiva's nature."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "śrīnirmaryādaśāstre@pi",
+     "gloss": "also-in-the-revered-unrestricted-scripture",
+     "grounds": "appeals to the authority of the Nirmaryada scripture",
+     "morph": "compound: śrī-nirmaryāda-śāstra+membership; n.loc.sg + api (indecl.)"
+    },
+    {
+     "surface": "taditthaṃ",
+     "gloss": "that-thus",
+     "grounds": "the same point is stated there",
+     "morph": "tat n.nom.sg + ittham (indecl.)"
+    },
+    {
+     "surface": "sunirūpitam",
+     "gloss": "well-explained",
+     "grounds": "the teaching is clearly established in that scripture",
+     "morph": "n.nom.sg past-passive-participle su-ni-√rūp"
+    },
+    {
+     "surface": "dharādeśca",
+     "gloss": "and-of-earth-and-so-on",
+     "grounds": "introduces a special understanding of the elements",
+     "morph": "compound: dharā-ādi+tas; (indecl.) + ca (indecl.)"
+    },
+    {
+     "surface": "viśeṣo@sti",
+     "gloss": "there-is-a-special-form",
+     "grounds": "the elements have a distinctive heroic interpretation",
+     "morph": "viśeṣaḥ m.nom.sg + asti 3.sg.pres.act √as"
+    },
+    {
+     "surface": "vīrasādhakasaṃmataḥ",
+     "gloss": "approved-by-heroic-practitioners",
+     "grounds": "this special form is accepted by vira practitioners",
+     "morph": "compound: vīra-sādhaka-saṃmata+membership; m.nom.sg"
+    }
+   ],
+   "question": "What special interpretation of the elements is taught for heroic practitioners?",
+   "premises": [
+    "The revered Nirmaryada scripture explains this matter well.",
+    "Earth and the other elements have a special form.",
+    "That special form is approved by heroic practitioners."
+   ],
+   "inference": "Beyond the general teaching, the Nirmaryada scripture presents a special interpretation of earth and the other elements approved by heroic practitioners.",
+   "uncertainties": [],
+   "plain_english": "In the revered Nirmaryada scripture this is well explained: earth and the other elements also have a special form approved by heroic practitioners."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "raṇareṇurvīrajalaṃ",
+     "gloss": "battle-dust-is-hero-water",
+     "grounds": "dust from battle serves as the heroic form of water-bath substance",
+     "morph": "compound: raṇa-reṇu+membership; m.nom.sg + compound: vīra-jala+membership; n.nom.sg"
+    },
+    {
+     "surface": "vīrabhasma",
+     "gloss": "hero-ash",
+     "grounds": "the heroic form of ash",
+     "morph": "compound: vīra-bhasma+membership; n.nom.sg"
+    },
+    {
+     "surface": "mahāmarut",
+     "gloss": "the-great-wind",
+     "grounds": "the heroic form of wind",
+     "morph": "compound: mahā-marut+membership; m.nom.sg"
+    },
+    {
+     "surface": "śmaśānāraṇyagaganaṃ",
+     "gloss": "cremation-ground-forest-sky",
+     "grounds": "the heroic loci corresponding to space and related elements",
+     "morph": "compound: śmaśāna-araṇya-gagana+membership; n.nom.sg"
+    },
+    {
+     "surface": "candrārkau",
+     "gloss": "moon-and-sun",
+     "grounds": "the heroic luminous pair",
+     "morph": "compound: candra-arka+membership; m.nom.du"
+    },
+    {
+     "surface": "tadupāhitau",
+     "gloss": "brought-about-by-that",
+     "grounds": "moon and sun are understood as conditioned or invoked in that heroic context",
+     "morph": "compound: tat-upāhita+membership; m.nom.du"
+    }
+   ],
+   "question": "What are the heroic equivalents of the bathing elements and loci?",
+   "premises": [
+    "Battle dust is treated as the heroic water.",
+    "Heroic ash and the great wind are included.",
+    "Cremation ground, forest, sky, and the moon and sun as invoked there complete the set."
+   ],
+   "inference": "For heroic practitioners, the bathing elements are reinterpreted as battle dust, heroic ash, great wind, cremation ground, forest, sky, and the moon and sun as present in that context.",
+   "uncertainties": [
+    "The exact mapping of each item to the earlier eightfold bath sequence is compressed and partly implicit."
+   ],
+   "plain_english": "For heroic practitioners, battle dust is the heroic water, there is heroic ash and the great wind, and also the cremation ground, forest, and sky, along with the moon and sun as brought into that setting."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "ātmā",
+     "gloss": "the-self",
+     "grounds": "the self is the final member of the heroic set",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirdhūtaniḥśeṣavikalpātaṅkasusthitaḥ",
+     "gloss": "well-established-with-all-affliction-of-conceptual-thought-shaken-off",
+     "grounds": "the self is stable after all conceptual affliction has been removed",
+     "morph": "compound: nirdhūta-niḥśeṣa-vikalpa-ātaṅka-susthita+membership; m.nom.sg"
+    },
+    {
+     "surface": "snānārcādāvityupāsyaṃ",
+     "gloss": "thus-to-be-honored-in-bathing-and-worship-and-so-on",
+     "grounds": "this set is to be used in bathing, worship, and related rites",
+     "morph": "compound: snāna-arcā-ādi+membership; n.loc.sg + iti (indecl.) + upāsyam n.nom.sg"
+    },
+    {
+     "surface": "vīrāṇāṃ",
+     "gloss": "of-the-heroes",
+     "grounds": "this practice belongs to heroic practitioners",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vigrahāṣṭakam",
+     "gloss": "the-group-of-eight-forms",
+     "grounds": "names the heroic eightfold body or set of forms",
+     "morph": "compound: vigraha-aṣṭaka+membership; n.nom.sg"
+    }
+   ],
+   "question": "What completes the heroic eightfold set used in bathing and worship?",
+   "premises": [
+    "The self is included in the heroic set.",
+    "That self is well established after all affliction of conceptual thought has been shaken off.",
+    "This eightfold set is to be honored in bathing, worship, and related rites by heroic practitioners."
+   ],
+   "inference": "The heroic eightfold set culminates in the self, free of all conceptual affliction, and this set is to be honored by heroes in bathing and worship.",
+   "uncertainties": [],
+   "plain_english": "The self, well established with all the affliction of conceptual thought shaken off, completes the heroic group of eight forms to be honored in bathing, worship, and so on."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "śrīmantriśirasi",
+     "gloss": "in-the-revered-mantri-scripture",
+     "grounds": "introduces a teaching from the Mantrishiras",
+     "morph": "compound: śrī-mantri-śiras+membership; n.loc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "it-is-taught",
+     "grounds": "marks scriptural authority",
+     "morph": "n.nom.sg past-passive-participle pra-√vac"
+    },
+    {
+     "surface": "madyaśīdhusurādinā",
+     "gloss": "by-wine-liquor-and-other-spirits",
+     "grounds": "lists intoxicating substances used in the rite",
+     "morph": "compound: madya-śīdhu-surā-ādi+membership; n.inst.sg"
+    },
+    {
+     "surface": "susvādunā",
+     "gloss": "very-tasty",
+     "grounds": "qualifies the substance as pleasant in taste",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "prasannena",
+     "gloss": "clear",
+     "grounds": "qualifies the substance as clear or settled",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tanunā",
+     "gloss": "subtle",
+     "grounds": "qualifies the substance as fine or subtle",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "susugandhinā",
+     "gloss": "very-fragrant",
+     "grounds": "qualifies the substance as fragrant",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What kind of intoxicating substance is prescribed in the Mantrishiras teaching?",
+   "premises": [
+    "The teaching is attributed to the revered Mantrishiras.",
+    "Wine, liquor, and other spirits are mentioned.",
+    "The substance should be tasty, clear, subtle, and very fragrant."
+   ],
+   "inference": "The Mantrishiras prescribes wine, liquor, or similar spirits that are tasty, clear, subtle, and very fragrant for this rite.",
+   "uncertainties": [],
+   "plain_english": "In the revered Mantrishiras it is taught that one may use wine, liquor, or other such spirits, provided they are very tasty, clear, subtle, and very fragrant."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "kandalādigatenāntarbahiḥ",
+     "gloss": "present-in-the-bulb-and-so-on-within-and-without",
+     "grounds": "the substance is related to the bulb and other loci inside and outside",
+     "morph": "compound: kanda-ādi-gata+membership; n.inst.sg + antar (indecl.) + bahis (indecl.)"
+    },
+    {
+     "surface": "saṃskārapañcakam",
+     "gloss": "the-five-consecrations",
+     "grounds": "a set of five ritual consecrations is performed",
+     "morph": "compound: saṃskāra-pañcaka+membership; n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "the consecrations are completed first",
+     "morph": "(indecl.gerund) √kṛ"
+    },
+    {
+     "surface": "nirīkṣaṇaṃ",
+     "gloss": "inspection",
+     "grounds": "one of the consecratory acts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prokṣya",
+     "gloss": "sprinkling",
+     "grounds": "one of the consecratory acts",
+     "morph": "(indecl.gerund) pra-√ukṣ"
+    },
+    {
+     "surface": "tāḍanāpyāyaguṇṭhanam",
+     "gloss": "striking-nourishing-and-veiling",
+     "grounds": "the remaining consecratory acts in the set",
+     "morph": "compound: tāḍana-āpyāya-guṇṭhana+membership; n.acc.sg"
+    }
+   ],
+   "question": "What consecrations are performed on the substance before its ritual use?",
+   "premises": [
+    "The substance is connected with the bulb and other loci within and without.",
+    "Five consecrations are performed.",
+    "These include inspection, sprinkling, striking, nourishing, and veiling."
+   ],
+   "inference": "Before ritual use, the substance associated with the bulb and other loci is prepared by five consecrations: inspection, sprinkling, striking, nourishing, and veiling.",
+   "uncertainties": [],
+   "plain_english": "Using the substance as present in the bulb and so on, within and without, one performs the five consecrations: inspection, sprinkling, striking, nourishing, and veiling."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "mantracakrasya",
+     "gloss": "of-the-mantra-circle",
+     "grounds": "the ritual is centered on the mantra circle",
+     "morph": "compound: mantra-cakra+membership; n.gen.sg"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "worship takes place in the center of that circle",
+     "morph": "compound: tat-madhya+membership; n.loc.sg"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual worship is performed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vipruṭpratarpaṇam",
+     "gloss": "satisfaction-with-drops",
+     "grounds": "offering satisfaction by means of drops",
+     "morph": "compound: vipruṭ-pratarpaṇa+membership; n.acc.sg"
+    },
+    {
+     "surface": "tenātmasekaḥ",
+     "gloss": "by-that-self-sprinkling",
+     "grounds": "the practitioner sprinkles the self with that substance",
+     "morph": "tena n.inst.sg + compound: ātma-seka+membership; m.nom.sg"
+    },
+    {
+     "surface": "kalaśamudrayā",
+     "gloss": "with-the-jar-seal",
+     "grounds": "the jar seal is used in the rite",
+     "morph": "compound: kalaśa-mudrā+membership; f.inst.sg"
+    },
+    {
+     "surface": "cābhiṣecanam",
+     "gloss": "and-consecratory-sprinkling",
+     "grounds": "the rite includes sprinkling or anointing",
+     "morph": "ca (indecl.) + abhiṣecanam n.nom.sg"
+    }
+   ],
+   "question": "What ritual actions are performed with the consecrated substance in the mantra circle?",
+   "premises": [
+    "Worship is performed in the middle of the mantra circle.",
+    "Satisfaction is offered with drops of the substance.",
+    "The practitioner sprinkles the self and performs consecratory sprinkling with the jar seal."
+   ],
+   "inference": "Within the mantra circle, the consecrated substance is used for worship, drop-offerings, self-sprinkling, and consecratory sprinkling with the jar seal.",
+   "uncertainties": [],
+   "plain_english": "In the middle of the mantra circle one performs worship and satisfaction with drops. With that substance one sprinkles oneself and performs consecratory sprinkling using the jar seal."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "devatātarpaṇaṃ",
+     "gloss": "satisfaction-of-the-deity",
+     "grounds": "the deity is satisfied through the rite",
+     "morph": "compound: devatā-tarpaṇa+membership; n.nom.sg"
+    },
+    {
+     "surface": "dehaprāṇobhayapathāśritam",
+     "gloss": "resting-on-the-path-of-both-body-and-breath",
+     "grounds": "the satisfaction operates through both body and vital breath",
+     "morph": "compound: deha-prāṇa-ubhaya-patha-āśrita+membership; n.nom.sg"
+    },
+    {
+     "surface": "sarvatīrthatapoyajñadānādi",
+     "gloss": "all-pilgrimages-austerities-sacrifices-gifts-and-so-on",
+     "grounds": "lists the merits ordinarily gained by other religious acts",
+     "morph": "compound: sarva-tīrtha-tapas-yajña-dāna-ādi+membership; n.acc.sg"
+    },
+    {
+     "surface": "phalamaśnute",
+     "gloss": "one-obtains-the-fruit",
+     "grounds": "the practitioner gains the fruit of those acts",
+     "morph": "phalam n.acc.sg + aśnute 3.sg.pres.mid √aś"
+    }
+   ],
+   "question": "What fruit does the practitioner gain from this deity-satisfaction rite?",
+   "premises": [
+    "The rite includes satisfaction of the deity.",
+    "That satisfaction rests on the path of both body and vital breath.",
+    "The verse compares its result to the fruits of pilgrimages, austerities, sacrifices, gifts, and similar acts."
+   ],
+   "inference": "By satisfying the deity through the path of both body and vital breath, the practitioner obtains the fruit of all pilgrimages, austerities, sacrifices, gifts, and similar meritorious acts.",
+   "uncertainties": [],
+   "plain_english": "Through satisfaction of the deity, resting on the path of both body and vital breath, one obtains the fruit of all pilgrimages, austerities, sacrifices, gifts, and the like."
+  }
+ ]
+}
