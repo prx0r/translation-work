@@ -397,3 +397,14 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 - a01/a08: 23 retest triples seeded covering all missing-am ranges.
 - Workers drafting via iceman (free); beam-free parked on 429 cooldown.
 - LOOP.sh stays STOPped (no sibling-agent collisions while assessor drives).
+
+## Autonomous ops — mass-retest wave succeeding (2026-11-08 ~12:00 UTC)
+
+- Retest verdict CONFIRMED at scale: enriched packet + free-model triples
+  passing first try across a01/a04/a09/a13/a28/a29/a30 (0 retest failures).
+  Workers drafting via iceman; beam-free parked on 429 cooldown.
+- a01 nearly complete (288/333 am); retests cover all missing ranges.
+  a28 retests converting failed blocks steadily.
+- Hand-drafting paused (beam covers everything now); assessor mode is
+  review → assemble → proof → promote on completion.
+- Pending: ~1400 tasks (gloss backlog + triples + per-verse cm/am cascade).
