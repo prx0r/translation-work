@@ -408,3 +408,18 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
 - Hand-drafting paused (beam covers everything now); assessor mode is
   review → assemble → proof → promote on completion.
 - Pending: ~1400 tasks (gloss backlog + triples + per-verse cm/am cascade).
+
+## Autonomous ops — mass-retest wave working (2026-11-08 ~12:30 UTC)
+
+- Retest verdict CONFIRMED at scale: enriched packet + free models convert
+  content-fails to DONE first-try (a30, a29, a04, a01 triples completing).
+  31 retests queued (a28x9 incl. 1 re-seeded, a15, a01x11, a03 pending).
+- Assemble-on-completion: workers auto-convert runs; assessor assembles +
+  validates + proofs + promotes per completed ahnika. No hand-drafting
+  unless beam fails twice on same verses (hand-draft backlog via
+  swarm_decide escalation).
+- Free-only enforced: beam-free + iceman-contributor-free. Usage audited
+  in model_usage.jsonl. No allowance models (user directive).
+- LOOP.sh stays STOPped (assessor drives review/promote directly).
+- Remaining: a28 (277/435 am), a03 (67/295), a15 (169/613), a01 (288/333),
+  a08 (168/452). Queue holds ~1700 pending tasks; workers drain in order.

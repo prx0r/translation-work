@@ -24,6 +24,15 @@ sys.path.insert(0, str(ROOT / 'tools'))
 STATE = ROOT / 'process' / 'beam'
 QFILE = STATE / 'queue.json'
 
+_AVAGRAHA = {'\u02bc', '\u2019', "'", '`', '\u02bd'}
+
+
+def norm_surface(s: str) -> str:
+    """Compare token surfaces modulo avagraha representation + whitespace.
+    GRETIL/transcription uses ASCII ', beam often emits U+02BC or omits it;
+    the linguistic content is identical. Compare normalized, store verbatim."""
+    return ''.join('\u02bc' if c in _AVAGRAHA else c for c in s).strip()
+
 try:
     from pydantic import BaseModel, Field, ValidationError
 except ImportError:
@@ -589,7 +598,7 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
         if it.verse not in verses:
             return False, f'unexpected verse {it.verse}'
         toks = [x['surface'] for x in byv[it.verse]['tokens']]
-        if [r.surface for r in it.rows] != toks:
+        if [norm_surface(r.surface) for r in it.rows] != [norm_surface(t) for t in toks]:
             return False, f'v{it.verse}: surface drift ({len(it.rows)} vs {len(toks)})'
         for r in it.rows:
             if (not r.gloss or '(' in r.gloss or ')' in r.gloss or '"' in r.gloss
