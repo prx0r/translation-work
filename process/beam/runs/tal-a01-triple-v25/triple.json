@@ -1,0 +1,1452 @@
+{
+ "song": "Tantraloka a01 (vijñāna-bheda)",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "ajñānamiti",
+     "gloss": "ignorance-thus",
+     "grounds": "states the term under discussion",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the following definition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānābhāvaścātiprasaṅgataḥ",
+     "gloss": "knowledge-absence-and-from-over-extension",
+     "grounds": "gives the reason for rejecting mere absence of knowledge",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "refers to absence of knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "introduces the supporting reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "loṣṭādike@pyasti",
+     "gloss": "in-clod-and-such-even-exists",
+     "grounds": "shows the definition would apply to inert things",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the clauses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāsti",
+     "gloss": "of-that-there-is",
+     "grounds": "states what does not belong to the clod",
+     "morph": "m.gen.sg+3.sg.pres"
+    },
+    {
+     "surface": "saṃsṛtiḥ",
+     "gloss": "transmigration",
+     "grounds": "names the consequence that would wrongly follow",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is ignorance not simply the absence of knowledge?",
+   "premises": [
+    "Ignorance is the term being defined.",
+    "If ignorance were mere absence of knowledge, the definition would over-extend.",
+    "Absence of knowledge exists even in a clod and similar inert things.",
+    "A clod does not undergo transmigration."
+   ],
+   "inference": "Therefore ignorance cannot be defined as mere absence of knowledge.",
+   "uncertainties": [
+    "The sandhi in jñānābhāvaścātiprasaṅgataḥ could be segmented in more than one way, but the sense is clear."
+   ],
+   "plain_english": "Ignorance is not simply the absence of knowledge, because that would apply too widely. Even a clod lacks knowledge, yet a clod does not wander in transmigration."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "draws the consequence from the previous verse",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyasya",
+     "gloss": "of-the-knowable",
+     "grounds": "qualifies the reality to be known",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tattvasya",
+     "gloss": "of-the-reality",
+     "grounds": "names the object of knowledge",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sāmastyenāprathātmakam",
+     "gloss": "in-totality-not-manifesting",
+     "grounds": "describes knowledge that fails to reveal the whole",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñānameva",
+     "gloss": "knowledge-itself",
+     "grounds": "identifies the positive nature of ignorance",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "tadajñānaṃ",
+     "gloss": "that-ignorance",
+     "grounds": "equates limited knowledge with ignorance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivasūtreṣu",
+     "gloss": "in-the-shiva-sutras",
+     "grounds": "cites the scriptural source",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "bhāṣitam",
+     "gloss": "stated",
+     "grounds": "marks the teaching as authoritative",
+     "morph": "n.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "What is ignorance according to the Shiva Sutras?",
+   "premises": [
+    "Ignorance is not mere absence of knowledge.",
+    "The knowable reality can be apprehended either fully or partially.",
+    "Knowledge that does not manifest the knowable reality in its totality is still a form of knowledge."
+   ],
+   "inference": "Therefore ignorance is knowledge that fails to manifest the knowable reality in its fullness, as taught in the Shiva Sutras.",
+   "uncertainties": [],
+   "plain_english": "So ignorance is not a blank absence; it is knowledge that does not reveal the knowable reality in its fullness. This is what the Shiva Sutras teach."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "caitanyamātmā",
+     "gloss": "consciousness-is-the-self",
+     "grounds": "quotes the first sutra phrase",
+     "morph": "n.nom.sg+m.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "names the subject of the second sutra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two sutra references",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandha",
+     "gloss": "bondage",
+     "grounds": "names the result stated in the second sutra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityatra",
+     "gloss": "thus-here",
+     "grounds": "points to the cited sutras",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrayoḥ",
+     "gloss": "in-the-two-sutras",
+     "grounds": "locates the teaching in the pair of sutras",
+     "morph": "n.loc.dual"
+    },
+    {
+     "surface": "saṃśleṣetarayogāśyāmayamarthaḥ",
+     "gloss": "by-connection-and-separation-this-meaning",
+     "grounds": "explains how the two sutras yield the intended sense",
+     "morph": "compound"
+    },
+    {
+     "surface": "pradarśitaḥ",
+     "gloss": "shown",
+     "grounds": "states that the meaning has been displayed",
+     "morph": "m.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "How do the two Shiva Sutras together explain self, knowledge, and bondage?",
+   "premises": [
+    "One sutra states that consciousness is the self.",
+    "Another sutra states that knowledge is bondage.",
+    "Read together by connection and separation, the two sutras convey a single meaning."
+   ],
+   "inference": "Therefore the paired sutras show that the self is consciousness, while limited knowledge functions as bondage.",
+   "uncertainties": [
+    "The exact sutra numbers are not named in the verse."
+   ],
+   "plain_english": "The two sutras, 'Consciousness is the self' and 'Knowledge is bondage,' are meant to be read together. Taken in relation to each other, they show that the self is consciousness, but limited knowledge becomes bondage."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "caitanyamiti",
+     "gloss": "consciousness-thus",
+     "grounds": "introduces the term being analyzed",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "bhāvāntaḥ",
+     "gloss": "ending-in-abstract-state",
+     "grounds": "describes the grammatical form of the word",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śabdaḥ",
+     "gloss": "word",
+     "grounds": "identifies the subject as a linguistic form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svātantryamātrakam",
+     "gloss": "mere-freedom",
+     "grounds": "gives the core meaning of the term",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anākṣipraviśeṣaṃ",
+     "gloss": "without-drawn-particulars",
+     "grounds": "excludes added specifications",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadāha",
+     "gloss": "always-speaks",
+     "grounds": "states the constant meaning of the term",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "sūtre",
+     "gloss": "in-the-sutra",
+     "grounds": "locates the usage in scripture",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "purātane",
+     "gloss": "ancient",
+     "grounds": "qualifies the sutra as traditional",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What does the word 'consciousness' mean in the ancient sutra?",
+   "premises": [
+    "The word 'caitanya' is an abstract noun form.",
+    "In the ancient sutra it denotes freedom alone.",
+    "It does not bring in any further particular specifications."
+   ],
+   "inference": "Therefore in that sutra 'consciousness' means sheer freedom, without added qualifications.",
+   "uncertainties": [],
+   "plain_english": "In the ancient sutra, the word 'consciousness' is used in its abstract sense to mean sheer freedom, without importing any extra particular features."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "dvitīyena",
+     "gloss": "by-the-second",
+     "grounds": "refers to the second sutra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks a contrast with the previous point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtreṇa",
+     "gloss": "by-the-sutra",
+     "grounds": "identifies the source of the statement",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kriyāṃ",
+     "gloss": "action",
+     "grounds": "names one possible object of knowledge",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "names another possible object of knowledge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "reinforces the alternative framing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bruvatā",
+     "gloss": "by-speaking-of",
+     "grounds": "describes what the sutra expresses",
+     "morph": "n.inst.sg.present-participle"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers back to sheer consciousness",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "cinmātrarūpasya",
+     "gloss": "of-the-form-of-sheer-consciousness",
+     "grounds": "qualifies the subject as pure consciousness",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dvaitamucyate",
+     "gloss": "duality-is-stated",
+     "grounds": "states the effect of introducing action or instrument",
+     "morph": "n.nom.sg+3.sg.pres.passive"
+    }
+   ],
+   "question": "How does the second sutra introduce duality into sheer consciousness?",
+   "premises": [
+    "The second sutra speaks of action or instrument.",
+    "Sheer consciousness in itself has no such divisions.",
+    "Naming action or instrument introduces a distinction."
+   ],
+   "inference": "Therefore the second sutra presents duality in what is otherwise sheer consciousness.",
+   "uncertainties": [],
+   "plain_english": "But the second sutra, by speaking of action or instrument, introduces duality into what is in itself sheer consciousness."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "dvaitaprathā",
+     "gloss": "manifestation-of-duality",
+     "grounds": "names the appearance of duality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadajñānaṃ",
+     "gloss": "that-ignorance",
+     "grounds": "identifies dual manifestation with ignorance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tucchatvādbandha",
+     "gloss": "from-emptiness-bondage",
+     "grounds": "gives the reason it is called bondage",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "marks the doctrinal designation",
+     "morph": "3.sg.pres.passive"
+    },
+    {
+     "surface": "tata",
+     "gloss": "from-that",
+     "grounds": "draws the consequence from its being bondage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samucchedyamityāvṛttyānirūpitam",
+     "gloss": "to-be-cut-off-thus-by-repetition-explained",
+     "grounds": "states that it must be removed, as explained by repetition",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is the manifestation of duality called ignorance and bondage?",
+   "premises": [
+    "The manifestation of duality is ignorance.",
+    "It is insubstantial.",
+    "What is insubstantial bondage must be removed."
+   ],
+   "inference": "Therefore dual manifestation is called ignorance and bondage, and for that reason it is to be cut off.",
+   "uncertainties": [
+    "The phrase āvṛttyā nirūpitam may refer to repeated scriptural explanation; the exact reference is not specified."
+   ],
+   "plain_english": "The appearance of duality is ignorance. Because it is insubstantial, it is called bondage, and for that very reason it is something to be cut away, as the teaching explains repeatedly."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "svatantrātmātiriktastu",
+     "gloss": "but-other-than-the-free-self",
+     "grounds": "sets up the contrast with the free self",
+     "morph": "compound"
+    },
+    {
+     "surface": "tuccho@",
+     "gloss": "empty",
+     "grounds": "characterizes what is other than the free self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tuccho@pi",
+     "gloss": "even-if-empty",
+     "grounds": "concedes its emptiness while continuing the argument",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "kaścana",
+     "gloss": "any",
+     "grounds": "generalizes the point",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the existence of a separate liberation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "names what is denied as a separate entity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "emphasizes that not even the name applies separately",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tannāsya",
+     "gloss": "therefore-not-of-it",
+     "grounds": "draws the consequence for naming",
+     "morph": "indecl.+n.gen.sg"
+    },
+    {
+     "surface": "pṛthaṅnāmāpi",
+     "gloss": "even-a-separate-name",
+     "grounds": "denies a distinct designation",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhyate",
+     "gloss": "is-taken",
+     "grounds": "states that no separate name is accepted",
+     "morph": "3.sg.pres.passive"
+    }
+   ],
+   "question": "If what is other than the free self is empty, can liberation be a separate thing?",
+   "premises": [
+    "Anything other than the free self is empty.",
+    "An empty something cannot constitute a real separate liberation.",
+    "A real separate liberation would require a distinct name and status."
+   ],
+   "inference": "Therefore there is no liberation as a separate entity apart from the free self, not even in name.",
+   "uncertainties": [],
+   "plain_english": "Anything apart from the free self is empty. Since that is so, there is no separate thing called liberation, and it does not even deserve a separate name."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "yattu",
+     "gloss": "but-what",
+     "grounds": "introduces the contrasting kind of knowledge",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "jñeyasatattvasya",
+     "gloss": "of-the-true-knowable-reality",
+     "grounds": "names the object of this knowledge",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pūrṇapūrṇaprathātmakam",
+     "gloss": "consisting-in-ever-full-manifestation",
+     "grounds": "describes progressively complete revelation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taduttarottaraṃ",
+     "gloss": "that-higher-and-higher",
+     "grounds": "marks increasing degrees of knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "names the liberating cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattatsaṃsāraśāntidam",
+     "gloss": "giving-that-much-quieting-of-transmigration",
+     "grounds": "states its graduated liberating effect",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of knowledge brings about the quieting of transmigration?",
+   "premises": [
+    "The knowable reality can be manifested more and more fully.",
+    "Knowledge may correspond to those increasing degrees of fullness.",
+    "Greater fullness of manifestation reduces transmigratory bondage."
+   ],
+   "inference": "Therefore progressively fuller knowledge of the true knowable reality brings a corresponding quieting of transmigration.",
+   "uncertainties": [],
+   "plain_english": "But knowledge that reveals the true knowable reality more and more fully, step by step, brings a corresponding quieting of transmigration."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "rāgādyakaluṣo@smyantaḥśūnyo@haṃ",
+     "gloss": "I-am-untainted-by-passion-and-such-inwardly-empty",
+     "grounds": "gives a sample contemplative recognition",
+     "morph": "compound"
+    },
+    {
+     "surface": "kartṛtojjhitaḥ",
+     "gloss": "devoid-of-agency",
+     "grounds": "adds another aspect of the recognition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "introduces the mode of knowing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāsavyāsābhyāṃ",
+     "gloss": "in-brief-and-in-detail",
+     "grounds": "indicates the scope of such knowledge",
+     "morph": "m.inst.dual"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "names the liberating insight",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "muñcati",
+     "gloss": "liberates",
+     "grounds": "states its freeing effect",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "tāvataḥ",
+     "gloss": "to-that-extent",
+     "grounds": "limits the liberation to the degree of knowledge",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does limited liberating knowledge free one to a corresponding extent?",
+   "premises": [
+    "One may recognize oneself as untainted, inwardly empty, and devoid of agency.",
+    "Such recognition can be held briefly or in detail.",
+    "Liberating knowledge works according to its scope."
+   ],
+   "inference": "Therefore knowledge of this kind liberates one only to the extent that it is actually realized.",
+   "uncertainties": [
+    "The exact doctrinal nuance of antaḥśūnyaḥ here may vary by tradition; it is rendered as inwardly empty."
+   ],
+   "plain_english": "Recognitions such as 'I am untainted by passion, inwardly empty, and without agency,' whether grasped briefly or in detail, do liberate, but only to the extent that such knowledge is actually present."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "tasmānmukto@pyavacchedādavacchedāntarasthiteḥ",
+     "gloss": "therefore-liberated-yet-from-limitation-because-of-standing-in-another-limitation",
+     "grounds": "explains partial liberation",
+     "morph": "compound"
+    },
+    {
+     "surface": "amukta",
+     "gloss": "not-liberated",
+     "grounds": "states the residual bondage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the paradoxical remainder",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktastu",
+     "gloss": "but-liberated",
+     "grounds": "introduces the fully liberated state",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "sarvāvacchedavarjitaḥ",
+     "gloss": "free-from-all-limitations",
+     "grounds": "defines complete liberation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When is someone truly liberated rather than only partially liberated?",
+   "premises": [
+    "A person may be freed from one limitation.",
+    "That same person may still remain within another limitation.",
+    "Complete liberation requires freedom from all limitations."
+   ],
+   "inference": "Therefore one who is freed only in part is still not fully liberated, while the truly liberated is free from all limitations.",
+   "uncertainties": [],
+   "plain_english": "So someone may be liberated in one respect and still remain unliberated because another limitation persists. Only one who is free from all limitations is truly liberated."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "yattu",
+     "gloss": "but-what",
+     "grounds": "introduces the highest kind of knowledge",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "jñeyasatattvasya",
+     "gloss": "of-the-true-knowable-reality",
+     "grounds": "names the object of knowledge",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "names the cognition in question",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvātmanojjhitam",
+     "gloss": "devoid-in-every-way",
+     "grounds": "describes knowledge free of all limiting exclusions",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "avacchedairna",
+     "gloss": "not-by-limitations",
+     "grounds": "denies any limiting conditions",
+     "morph": "m.inst.pl+indecl."
+    },
+    {
+     "surface": "tatkutrāpyajñānaṃ",
+     "gloss": "that-nowhere-ignorance",
+     "grounds": "states that ignorance has no place in it",
+     "morph": "compound"
+    },
+    {
+     "surface": "satyamuktidam",
+     "gloss": "giving-true-liberation",
+     "grounds": "states its final effect",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of knowledge yields true liberation without remainder?",
+   "premises": [
+    "Some knowledge is still marked by limitations.",
+    "Knowledge of the true knowable reality can be free from all limitations.",
+    "Where no limitation remains, ignorance has no foothold."
+   ],
+   "inference": "Therefore knowledge of the true knowable reality that is free from all limitations leaves no room for ignorance and gives true liberation.",
+   "uncertainties": [
+    "sarvātmanojjhitam is terse; it is taken here as devoid of limitation in every respect."
+   ],
+   "plain_english": "But knowledge of the true knowable reality that is free from every limitation leaves no place anywhere for ignorance, and that knowledge gives true liberation."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "jñānājñānasvarūpaṃ",
+     "gloss": "the-nature-of-knowledge-and-ignorance",
+     "grounds": "names the topic just discussed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "which-was-stated",
+     "grounds": "refers back to the preceding teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratyekamapyadaḥ",
+     "gloss": "each-of-these-also",
+     "grounds": "extends the analysis to both members",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "states the division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pauruṣabauddhatvabhidoktaṃ",
+     "gloss": "said-as-divided-into-personal-and-buddhi-based",
+     "grounds": "names the two kinds",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivaśāsane",
+     "gloss": "in-the-shiva-teaching",
+     "grounds": "locates the classification in scripture",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How does the Shiva teaching further classify knowledge and ignorance?",
+   "premises": [
+    "Knowledge and ignorance have already been described.",
+    "Each of them admits further distinction.",
+    "The Shiva teaching distinguishes a personal and a buddhi-based form."
+   ],
+   "inference": "Therefore in the Shiva teaching both knowledge and ignorance are each classified as twofold: personal and buddhi-based.",
+   "uncertainties": [],
+   "plain_english": "The nature of knowledge and ignorance described above is further divided in the Shiva teaching: each of them is twofold, as personal and as buddhi-based."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "introduces the first subdivision",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṃso",
+     "gloss": "of-the-person",
+     "grounds": "specifies whose ignorance is meant",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yadajñānaṃ",
+     "gloss": "which-ignorance",
+     "grounds": "identifies the item being defined",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "malākhyaṃ",
+     "gloss": "called-impurity",
+     "grounds": "names this ignorance as mala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tajjamapyaya",
+     "gloss": "born-from-that-and-dissolving-into-that",
+     "grounds": "describes its origin and locus",
+     "morph": "compound"
+    },
+    {
+     "surface": "svapūrṇacitkriyārūpaśivatāvaraṇātmakam",
+     "gloss": "consisting-in-veiling-of-one's-own-full-consciousness-action-shiva-nature",
+     "grounds": "defines its essential character",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the personal ignorance called mala in the individual?",
+   "premises": [
+    "The person has a form of ignorance specific to itself.",
+    "This ignorance is called mala.",
+    "It veils the person's own full nature of consciousness and action, which is Shiva-nature."
+   ],
+   "inference": "Therefore personal ignorance, called mala, is the veiling of one's own full consciousness-action Shiva-nature.",
+   "uncertainties": [],
+   "plain_english": "In the individual, the ignorance called mala is that which veils one's own full Shiva-nature of consciousness and action. It arises in relation to that very condition and consists in its concealment."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "saṃkocidṛkkriyārūpaṃ",
+     "gloss": "of-contracted-seeing-and-acting-form",
+     "grounds": "describes the limited condition of the bound subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatpaśoravikalpitam",
+     "gloss": "that-of-the-bound-being-unconceptualized",
+     "grounds": "states that this ignorance is pre-conceptual",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadajñānaṃ",
+     "gloss": "that-ignorance",
+     "grounds": "identifies the personal ignorance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates its belonging to the intellect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budghyaṃśo@dhyavasāyādyabhāvataḥ",
+     "gloss": "a-part-of-buddhi-because-of-absence-of-determination-and-such",
+     "grounds": "gives the reason it is not intellectual",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is the bound being's personal ignorance not a function of the intellect?",
+   "premises": [
+    "The bound being's cognition and action are contracted.",
+    "This personal ignorance is unconceptualized.",
+    "Determination and similar intellectual operations are absent in it."
+   ],
+   "inference": "Therefore this ignorance belongs to the bound subject as such and is not a part of the intellect.",
+   "uncertainties": [],
+   "plain_english": "For the bound being, whose seeing and acting are contracted, that ignorance is unconceptualized. It is not a function of the intellect, because determination and similar mental operations are not present there."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "ahamitthamidaṃ",
+     "gloss": "I-thus-this",
+     "grounds": "begins the form of determinate cognition",
+     "morph": "compound"
+    },
+    {
+     "surface": "vedmītyevamadhyavasāyinī",
+     "gloss": "know-thus-determining",
+     "grounds": "completes the determinate judgment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaṭkañcukābilāṇūtthapratibimbanato",
+     "gloss": "from-reflection-arising-from-the-atom-through-the-cavity-of-the-six-sheaths",
+     "grounds": "explains the causal condition of that cognition",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "introduces the temporal condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition does determinate cognition of the form 'I know this thus' arise?",
+   "premises": [
+    "Determinate cognition takes the form 'I know this thus.'",
+    "Such cognition depends on reflection arising through the six sheaths.",
+    "The six sheaths condition the limited atom."
+   ],
+   "inference": "Therefore determinate cognition arises when reflection occurs through the limiting structure of the six sheaths.",
+   "uncertainties": [
+    "The compound ṣaṭkañcukābilāṇūtthapratibimbanato is compressed; the causal chain is interpreted in line with standard Trika doctrine."
+   ],
+   "plain_english": "When a determinate cognition arises in the form 'I know this in this way,' it does so through a reflection that comes up from the limited self under the conditioning of the six sheaths."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "dhīrjāyate",
+     "gloss": "intellect-arises",
+     "grounds": "states the emergence of determinate intellect",
+     "morph": "f.nom.sg+3.sg.pres"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the moment of that arising",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛgjñānamajñānaśabditam",
+     "gloss": "such-knowledge-called-ignorance",
+     "grounds": "identifies this cognition as ignorance in the technical sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bauddhaṃ",
+     "gloss": "buddhi-based",
+     "grounds": "classifies it as belonging to the intellect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the buddhi-based ignorance",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds a further relation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpauṃsnaṃ",
+     "gloss": "that-personal",
+     "grounds": "refers to the corresponding personal ignorance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "poṣaṇīyaṃ",
+     "gloss": "to-be-nourished",
+     "grounds": "states its dependent status",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two roles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "poṣṭṛca",
+     "gloss": "and-nourisher",
+     "grounds": "states the supporting role of buddhi-based ignorance",
+     "morph": "n.nom.sg+indecl."
+    }
+   ],
+   "question": "How are buddhi-based ignorance and personal ignorance related when determinate intellect arises?",
+   "premises": [
+    "Determinate intellect arises under the conditions described previously.",
+    "That determinate cognition is called buddhi-based ignorance.",
+    "Personal ignorance stands in a nourishing relation to it."
+   ],
+   "inference": "Therefore when determinate intellect arises, buddhi-based ignorance appears, with personal ignorance as what is nourished and buddhi-based ignorance as what nourishes it.",
+   "uncertainties": [
+    "The reciprocal nourishing relation is compactly stated; the verse is read as assigning poṣya/poṣṭṛ roles in that context."
+   ],
+   "plain_english": "When that determinate intellect arises, such cognition is called buddhi-based ignorance. In relation to it, the personal ignorance is what is nourished, and the buddhi-based ignorance acts as what nourishes it."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "kṣīṇe",
+     "gloss": "when-diminished",
+     "grounds": "sets the condition for higher knowledge",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks a shift to the opposite case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśusaṃskāre",
+     "gloss": "the-bound-being's-latent-impression",
+     "grounds": "names the limiting residue that weakens",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṃsaḥ",
+     "gloss": "of-the-person",
+     "grounds": "specifies the subject",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prāptaparasthiteḥ",
+     "gloss": "who-has-reached-the-higher-state",
+     "grounds": "describes the person's attainment",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vikasvaraṃ",
+     "gloss": "expansive",
+     "grounds": "characterizes the arising knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvijñānaṃ",
+     "gloss": "that-insight",
+     "grounds": "names the higher cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pauruṣaṃ",
+     "gloss": "personal",
+     "grounds": "classifies the insight as personal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirvikalpakam",
+     "gloss": "non-conceptual",
+     "grounds": "states its mode beyond determination",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of knowledge arises when the bound being's latent impressions weaken?",
+   "premises": [
+    "The bound being carries limiting latent impressions.",
+    "These impressions can diminish.",
+    "A person may reach a higher inner state."
+   ],
+   "inference": "Therefore when those latent impressions weaken in a person who has reached the higher state, expansive personal non-conceptual insight arises.",
+   "uncertainties": [],
+   "plain_english": "But when the bound being's latent impressions have weakened and the person has reached a higher state, an expansive personal insight arises, and it is non-conceptual."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "vikasvarāvikalpātmajñānaucityena",
+     "gloss": "by-the-fitness-of-expansive-non-conceptual-knowledge",
+     "grounds": "states the measure governing the relation",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yāvasā",
+     "gloss": "to-the-extent-that",
+     "grounds": "introduces proportionality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbauddhaṃ",
+     "gloss": "that-buddhi-based",
+     "grounds": "refers to buddhi-based cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relates the condition to the subject",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tatpauṃsnaṃ",
+     "gloss": "that-personal",
+     "grounds": "refers to personal knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgvatpoṣyaṃ",
+     "gloss": "as-before-to-be-nourished",
+     "grounds": "states the continued dependent role",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the roles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "poṣṭṛ",
+     "gloss": "nourisher",
+     "grounds": "states the supporting role",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "completes the pair",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do personal and buddhi-based knowledge relate when expansive non-conceptual knowledge is present?",
+   "premises": [
+    "Expansive non-conceptual personal knowledge can arise.",
+    "Buddhi-based cognition still stands in relation to it.",
+    "Their relation follows the fitness of that higher knowledge."
+   ],
+   "inference": "Therefore, according to the measure of expansive non-conceptual knowledge, the personal remains what is nourished and the buddhi-based remains what nourishes, as before.",
+   "uncertainties": [
+    "The syntax of yāvasā is compressed; the verse is read as expressing proportional correspondence."
+   ],
+   "plain_english": "To the extent that expansive non-conceptual knowledge is fittingly present, the relation remains as before: the personal is what is nourished, and the buddhi-based functions as what nourishes it."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to that state of knowledge",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣādinā",
+     "gloss": "by-initiation-and-such",
+     "grounds": "names the ritual means",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pauṃsnamajñānaṃ",
+     "gloss": "personal-ignorance",
+     "grounds": "identifies what is destroyed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhvaṃsi",
+     "gloss": "destroyed",
+     "grounds": "states the effect of initiation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "introduces a concession",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "still",
+     "grounds": "introduces the limiting qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taccharīrānte",
+     "gloss": "at-the-end-of-that-body",
+     "grounds": "specifies when full manifestation occurs",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tajjñānaṃ",
+     "gloss": "that-knowledge",
+     "grounds": "refers to the personal knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyajyate",
+     "gloss": "is-manifested",
+     "grounds": "states its clear revelation",
+     "morph": "3.sg.pres.passive"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "emphasizes the clarity of manifestation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the effect of initiation on personal ignorance and personal knowledge?",
+   "premises": [
+    "Initiation and related rites can destroy personal ignorance.",
+    "The destruction of ignorance does not always yield immediate full manifestation.",
+    "Personal knowledge may become fully clear at the end of the body."
+   ],
+   "inference": "Therefore initiation destroys personal ignorance, yet the corresponding personal knowledge is clearly manifested at the end of that body.",
+   "uncertainties": [],
+   "plain_english": "Through initiation and similar means, personal ignorance is destroyed. Even so, the corresponding personal knowledge becomes clearly manifest at the end of that body."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "bauddhajñānena",
+     "gloss": "by-buddhi-based-knowledge",
+     "grounds": "names the effective means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrasts this case with the previous one",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "introduces the condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bauddhamajñānajṛmbhitam",
+     "gloss": "the-expansion-of-buddhi-based-ignorance",
+     "grounds": "names what is dissolved",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vilīyate",
+     "gloss": "dissolves",
+     "grounds": "states the removal of that ignorance",
+     "morph": "3.sg.pres.passive"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvanmuktiḥ",
+     "gloss": "liberation-while-living",
+     "grounds": "names the resulting state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karatale",
+     "gloss": "on-the-palm",
+     "grounds": "uses an image of immediate presence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "stands",
+     "grounds": "states that liberation is directly present",
+     "morph": "f.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "When does liberation while living become directly present?",
+   "premises": [
+    "Buddhi-based ignorance can expand and dominate cognition.",
+    "Buddhi-based knowledge can dissolve that ignorance.",
+    "The removal of that ignorance has an immediate existential effect."
+   ],
+   "inference": "Therefore when buddhi-based knowledge dissolves buddhi-based ignorance, liberation while living stands immediately present.",
+   "uncertainties": [],
+   "plain_english": "But when buddhi-based knowledge dissolves the swelling of buddhi-based ignorance, liberation while living is right there, as if placed on the palm of the hand."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "dīkṣāpi",
+     "gloss": "initiation-too",
+     "grounds": "extends the discussion to initiation",
+     "morph": "f.nom.sg+indecl."
+    },
+    {
+     "surface": "bauddhavijñānapūrvā",
+     "gloss": "preceded-by-buddhi-based-insight",
+     "grounds": "states the condition for effective initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truly",
+     "grounds": "affirms the claim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimocikā",
+     "gloss": "liberating",
+     "grounds": "describes initiation's effect",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "draws the consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatrāpi",
+     "gloss": "there-too",
+     "grounds": "applies the point to initiation as well",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bauddhasya",
+     "gloss": "of-the-buddhi-based",
+     "grounds": "specifies the kind of knowledge",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "jñānasyāsti",
+     "gloss": "of-knowledge-there-is",
+     "grounds": "asserts its presence and role",
+     "morph": "n.gen.sg+3.sg.pres"
+    },
+    {
+     "surface": "pradhānatā",
+     "gloss": "primacy",
+     "grounds": "states its decisive importance",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is buddhi-based insight primary even in initiation?",
+   "premises": [
+    "Initiation can be liberating.",
+    "Its liberating power depends on being preceded by buddhi-based insight.",
+    "What makes initiation effective has primacy in that context."
+   ],
+   "inference": "Therefore even in initiation, buddhi-based knowledge has primacy.",
+   "uncertainties": [],
+   "plain_english": "Initiation truly liberates when it is preceded by buddhi-based insight. For that reason, even in initiation, buddhi-based knowledge holds the primary place."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "jñānājñānāgataṃ",
+     "gloss": "arising-in-knowledge-and-ignorance",
+     "grounds": "describes the domain of the distinction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caitaddvitvaṃ",
+     "gloss": "and-this-twofoldness",
+     "grounds": "refers to the personal/buddhi-based division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svāyambhuve",
+     "gloss": "in-the-svayambhuva",
+     "grounds": "cites one scriptural source",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rurau",
+     "gloss": "in-the-ruru",
+     "grounds": "cites another scriptural source",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mataṅgādau",
+     "gloss": "in-the-matanga-and-others",
+     "grounds": "extends the citation to related texts",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "made",
+     "grounds": "states that the division is established there",
+     "morph": "n.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "śrīmatkheṭapālādidaiśikaiḥ",
+     "gloss": "by-the-revered-khetapala-and-other-teachers",
+     "grounds": "attributes the teaching to authoritative teachers",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Where is the twofold division of knowledge and ignorance taught in the tradition?",
+   "premises": [
+    "Knowledge and ignorance have been divided into personal and buddhi-based forms.",
+    "This division appears in authoritative scriptures.",
+    "Respected teachers also transmit this division."
+   ],
+   "inference": "Therefore the twofold division of knowledge and ignorance is established in the Svayambhuva, Ruru, Matanga, and related texts, and taught by revered teachers such as Khetapala.",
+   "uncertainties": [
+    "The exact scope of 'Matanga and others' is not specified in the verse."
+   ],
+   "plain_english": "This twofold division within knowledge and ignorance is taught in the Svayambhuva, the Ruru, the Matanga and other texts, and it is upheld by revered teachers such as Khetapala."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "tathāvidhāvasāyātmabauddhavijñānasampade",
+     "gloss": "for-the-attainment-of-such-determinate-buddhi-based-insight",
+     "grounds": "states the purpose served by scripture",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "śāstrameva",
+     "gloss": "scripture-alone",
+     "grounds": "identifies the primary means",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "pradhānaṃ",
+     "gloss": "primary",
+     "grounds": "assigns it chief importance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yajjñeyatattvapradarśakam",
+     "gloss": "which-displays-the-knowable-reality",
+     "grounds": "explains why scripture is primary",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the primary means for attaining determinate buddhi-based insight?",
+   "premises": [
+    "Determinate buddhi-based insight is a specific attainment.",
+    "Scripture displays the knowable reality.",
+    "What displays the knowable reality is primary for attaining that insight."
+   ],
+   "inference": "Therefore scripture is the primary means for attaining such determinate buddhi-based insight.",
+   "uncertainties": [],
+   "plain_english": "For attaining that kind of determinate buddhi-based insight, scripture is primary, because it reveals the knowable reality."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "dīkṣayā",
+     "gloss": "by-initiation",
+     "grounds": "names the ritual means",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "galite@pyantarajñāne",
+     "gloss": "even-when-inner-ignorance-has-fallen-away",
+     "grounds": "states a concession about inner removal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pauruṣātmani",
+     "gloss": "in-the-personal-self",
+     "grounds": "locates the inner change",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhīgatasyānivṛttatvādvikalpo@pi",
+     "gloss": "because-what-is-in-the-intellect-has-not-ceased-conceptualization-too",
+     "grounds": "gives the reason a residue remains",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasizes the reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbhaveta",
+     "gloss": "may-still-occur",
+     "grounds": "states the possible persistence of conceptualization",
+     "morph": "3.sg.optative"
+    }
+   ],
+   "question": "Why can conceptualization still arise even after initiation removes inner personal ignorance?",
+   "premises": [
+    "Initiation can remove inner personal ignorance.",
+    "Conceptual formations may still remain in the intellect.",
+    "What remains in the intellect can still give rise to conceptualization."
+   ],
+   "inference": "Therefore even after initiation removes inner personal ignorance, conceptualization may still arise because the intellect's residue has not ceased.",
+   "uncertainties": [],
+   "plain_english": "Even if initiation has dissolved inner personal ignorance, conceptualization may still arise, because what remains in the intellect has not yet come to an end."
+  }
+ ]
+}
