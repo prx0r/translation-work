@@ -1,0 +1,1287 @@
+{
+ "song": "Tantraloka a01",
+ "items": [
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "adhikāraparīkṣāntaḥsaṃskāro@tha",
+     "gloss": "then consecration ending in examination of qualification",
+     "grounds": "adhikāra (qualification), parīkṣā (examination), anta (ending), saṃskāra (consecration), atha (then)",
+     "morph": "compound"
+    },
+    {
+     "surface": "tulāvidhiḥ",
+     "gloss": "the rite of the balance",
+     "grounds": "tulā (balance), vidhi (rite)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityetadvācyasarvasvaṃ",
+     "gloss": "thus this is the entire subject matter to be stated",
+     "grounds": "iti (thus), etad (this), vācya (to be stated), sarvasva (entire substance)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syādviṃśatitamāhnike",
+     "gloss": "will be in the twentieth chapter",
+     "grounds": "syāt (will be), viṃśatitama (twentieth), āhnika (chapter)",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What topics are to be covered in the twentieth chapter?",
+   "premises": [
+    "The twentieth chapter deals with consecration ending in the examination of qualification.",
+    "It also covers the rite of the balance.",
+    "These constitute the entire subject matter of that chapter."
+   ],
+   "inference": "The twentieth chapter is dedicated to the examination of qualification, consecration, and the rite of the balance.",
+   "uncertainties": [],
+   "plain_english": "Then, consecration culminating in the examination of qualification, and the rite of the balance—this is the entire subject matter to be stated in the twentieth chapter."
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "mṛtajīvadvidhirjālo",
+     "gloss": "the rite of the dead and living and the net",
+     "grounds": "mṛta (dead), jīvat (living), vidhi (rite), jāla (net)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "padeśaḥ",
+     "gloss": "the instruction on the path",
+     "grounds": "pada (path/word), īśa (lord/instruction)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃskriyāgaṇaḥ",
+     "gloss": "the group of consecrations",
+     "grounds": "saṃskriyā (consecration), gaṇa (group)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "balābalavicāraścetyekaviṃśāhnike",
+     "gloss": "and the investigation of strength and weakness, thus in the twenty-first chapter",
+     "grounds": "bala (strength), abala (weakness), vicāra (investigation), ca (and), iti (thus), ekaviṃśa (twenty-first), āhnika (chapter)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "the rite",
+     "grounds": "vidhi (rite)",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What rites and investigations are presented in the twenty-first chapter?",
+   "premises": [
+    "The twenty-first chapter includes the rite of the dead and living and the net.",
+    "It covers the instruction on the path and the group of consecrations.",
+    "It also includes the investigation of strength and weakness."
+   ],
+   "inference": "The twenty-first chapter presents a collection of rites and an investigation into strength and weakness.",
+   "uncertainties": [
+    "The exact meaning of 'jāla' (net) and 'padeśa' in this ritual context is technical."
+   ],
+   "plain_english": "The rite of the dead and living, the net, the instruction on the path, the group of consecrations, and the investigation of strength and weakness—such is the rite in the twenty-first chapter."
+  },
+  {
+   "verse": 315,
+   "rows": [
+    {
+     "surface": "śravaṇaṃ",
+     "gloss": "hearing",
+     "grounds": "śravaṇa (hearing)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cābhyanujñānaṃ",
+     "gloss": "and permission",
+     "grounds": "ca (and), abhyanujñāna (permission)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śodhanaṃ",
+     "gloss": "purification",
+     "grounds": "śodhana (purification)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pātakacyutiḥ",
+     "gloss": "removal of sin",
+     "grounds": "pātaka (sin), cyuti (removal/falling away)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṅkāccheda",
+     "gloss": "cutting of doubt",
+     "grounds": "śaṅkā (doubt), cheda (cutting)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti (thus)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spaṣṭaṃ",
+     "gloss": "clearly",
+     "grounds": "spaṣṭa (clear)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vācyaṃ",
+     "gloss": "to be stated",
+     "grounds": "vācya (to be stated)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgoddhṛtikrame",
+     "gloss": "in the procedure of removing the liṅga",
+     "grounds": "liṅga (mark/sign), uddhṛti (removal), krama (procedure)",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What topics are clearly stated in the procedure of removing the liṅga?",
+   "premises": [
+    "The procedure of removing the liṅga includes hearing and permission.",
+    "It includes purification and the removal of sin.",
+    "It includes the cutting of doubt."
+   ],
+   "inference": "The procedure for removing the liṅga clearly covers a sequence of preparatory and purificatory steps.",
+   "uncertainties": [],
+   "plain_english": "Hearing, permission, purification, removal of sin, and the cutting of doubt—these are to be clearly stated in the procedure of removing the liṅga."
+  },
+  {
+   "verse": 316,
+   "rows": [
+    {
+     "surface": "parīkṣācāryakaraṇaṃ",
+     "gloss": "examination and the making of a teacher",
+     "grounds": "parīkṣā (examination), ācārya (teacher), karaṇa (making)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvrataṃ",
+     "gloss": "his vow",
+     "grounds": "tad (his), vrata (vow)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "haraṇaṃ",
+     "gloss": "the removal",
+     "grounds": "haraṇa (removal)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mateḥ",
+     "gloss": "of the mind",
+     "grounds": "mati (mind)",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tadvibhāgaḥ",
+     "gloss": "its division",
+     "grounds": "tad (its), vibhāga (division)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sādhakatvamabhiṣekavidhau",
+     "gloss": "the state of being a sādhaka in the rite of consecration",
+     "grounds": "sādhakatva (state of being a sādhaka), abhiṣeka (consecration), vidhi (rite)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tviyat",
+     "gloss": "and this",
+     "grounds": "tu (and), iyat (this much)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What elements are included in the rite of consecration for a sādhaka?",
+   "premises": [
+    "The rite includes examination and the making of a teacher.",
+    "It includes the teacher's vow and the removal of the mind's impurities.",
+    "It includes the division of these elements and the state of being a sādhaka."
+   ],
+   "inference": "The consecration rite for a sādhaka encompasses the teacher's qualification, vows, mental purification, and the sādhaka's status.",
+   "uncertainties": [
+    "The exact referent of 'tadvibhāgaḥ' (its division) is slightly ambiguous without further context."
+   ],
+   "plain_english": "Examination and the making of a teacher, his vow, the removal of the mind's impurities, its division, and the state of being a sādhaka—this is included in the rite of consecration."
+  },
+  {
+   "verse": 317,
+   "rows": [
+    {
+     "surface": "adhikāryatha",
+     "gloss": "then the qualified person",
+     "grounds": "adhikārin (qualified person), atha (then)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃskārastatprayojanamityadaḥ",
+     "gloss": "consecration and its purpose, thus this",
+     "grounds": "saṃskāra (consecration), tad (its), prayojana (purpose), iti (thus), adaḥ (this)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturviṃśe@ntyayāgākhye",
+     "gloss": "in the twenty-fourth, called the final worship",
+     "grounds": "caturviṃśa (twenty-fourth), antya (final), yāga (worship), ākhya (called)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vaktavyaṃ",
+     "gloss": "to be spoken",
+     "grounds": "vaktavya (to be spoken)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paricarcyate",
+     "gloss": "is discussed",
+     "grounds": "paricarcyate (is discussed)",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "What is discussed in the twenty-fourth chapter, known as the final worship?",
+   "premises": [
+    "The twenty-fourth chapter is called the final worship.",
+    "It discusses the qualified person and consecration.",
+    "It also discusses the purpose of that consecration."
+   ],
+   "inference": "The twenty-fourth chapter focuses on the qualified person, their consecration, and the purpose of that final worship.",
+   "uncertainties": [],
+   "plain_english": "The qualified person, consecration, and its purpose—this is to be spoken of and is discussed in the twenty-fourth chapter, which is called the final worship."
+  },
+  {
+   "verse": 318,
+   "rows": [
+    {
+     "surface": "prayojanaṃ",
+     "gloss": "the purpose",
+     "grounds": "prayojana (purpose)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhogamokṣadānenātra",
+     "gloss": "by giving enjoyment and liberation here",
+     "grounds": "bhoga (enjoyment), mokṣa (liberation), dāna (giving), atra (here)",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "the rite",
+     "grounds": "vidhi (rite)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuṭaḥ",
+     "gloss": "is clear",
+     "grounds": "sphuṭa (clear)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcaviṃśāhnike",
+     "gloss": "in the twenty-fifth chapter",
+     "grounds": "pañcaviṃśa (twenty-fifth), āhnika (chapter)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrāddhaprakāśe",
+     "gloss": "in the illumination of the śrāddha rite",
+     "grounds": "śrāddha (ancestral rite), prakāśa (illumination)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vastusaṃgrahaḥ",
+     "gloss": "the summary of the subject matter",
+     "grounds": "vastu (subject matter), saṃgraha (summary)",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the purpose and subject matter of the twenty-fifth chapter?",
+   "premises": [
+    "The twenty-fifth chapter illuminates the śrāddha rite.",
+    "Its purpose is the giving of enjoyment and liberation.",
+    "The rite and the summary of the subject matter are clearly presented there."
+   ],
+   "inference": "The twenty-fifth chapter clearly explains the śrāddha rite, whose purpose is to grant both enjoyment and liberation.",
+   "uncertainties": [],
+   "plain_english": "The purpose, by giving enjoyment and liberation, and the clear rite—this is the summary of the subject matter in the twenty-fifth chapter, which illuminates the śrāddha rite."
+  },
+  {
+   "verse": 319,
+   "rows": [
+    {
+     "surface": "prayojanaṃ",
+     "gloss": "the purpose",
+     "grounds": "prayojana (purpose)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śeṣavṛtternityārcā",
+     "gloss": "daily worship for the remainder of life",
+     "grounds": "śeṣa (remainder), vṛtti (life/conduct), nitya (daily), arcā (worship)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on the altar",
+     "grounds": "sthaṇḍila (altar)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "parā (supreme)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "liṅgasvarūpaṃ",
+     "gloss": "the nature of the liṅga",
+     "grounds": "liṅga (mark/sign), svarūpa (own nature)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in many ways",
+     "grounds": "bahudhā (in many ways)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cākṣasūtranirūpaṇam",
+     "gloss": "and the explanation of the rosary",
+     "grounds": "ca (and), akṣasūtra (rosary), nirūpaṇa (explanation)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What topics related to daily worship and the liṅga are covered next?",
+   "premises": [
+    "The purpose of daily worship for the remainder of life is discussed.",
+    "Supreme worship on the altar and the nature of the liṅga in many ways are explained.",
+    "The explanation of the rosary is also included."
+   ],
+   "inference": "The text covers the purpose of lifelong daily worship, the nature of the liṅga, and the use of the rosary.",
+   "uncertainties": [],
+   "plain_english": "The purpose of daily worship for the remainder of one's life, supreme worship on the altar, the nature of the liṅga in its many forms, and the explanation of the rosary."
+  },
+  {
+   "verse": 320,
+   "rows": [
+    {
+     "surface": "pūjābheda",
+     "gloss": "the divisions of worship",
+     "grounds": "pūjā (worship), bheda (division)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti (thus)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācyaṃ",
+     "gloss": "to be stated",
+     "grounds": "vācya (to be stated)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgārcāsaṃprakāśane",
+     "gloss": "in the illumination of liṅga worship",
+     "grounds": "liṅga (mark/sign), arcā (worship), saṃprakāśana (illumination)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naimittikavibhāgastatprayojanavidhistataḥ",
+     "gloss": "then the division of occasional rites and the method of their purpose",
+     "grounds": "naimittika (occasional), vibhāga (division), tad (their), prayojana (purpose), vidhi (method), tataḥ (then)",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is to be stated regarding liṅga worship and occasional rites?",
+   "premises": [
+    "The divisions of worship are to be stated in the illumination of liṅga worship.",
+    "Following that, the division of occasional rites is discussed.",
+    "The method and purpose of these occasional rites are also explained."
+   ],
+   "inference": "The text will explain the types of liṅga worship and then detail the classification and purpose of occasional rites.",
+   "uncertainties": [],
+   "plain_english": "The divisions of worship are to be stated in the illumination of liṅga worship; then, the division of occasional rites and the method of their purpose."
+  },
+  {
+   "verse": 321,
+   "rows": [
+    {
+     "surface": "parvabhedāstadviśeṣaścakracarcā",
+     "gloss": "the divisions of festivals, their specifics, and the worship of the circle",
+     "grounds": "parvan (festival), bheda (division), tad (their), viśeṣa (specifics), cakra (circle), carcā (worship)",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadarcanam",
+     "gloss": "its worship",
+     "grounds": "tad (its), arcana (worship)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gurvādyantadinādyarcāprayojananirūpaṇam",
+     "gloss": "the explanation of the purpose of worship on days like the guru's beginning and end",
+     "grounds": "guru (teacher), ādi (beginning), anta (end), dina (day), ādi (etc.), arcā (worship), prayojana (purpose), nirūpaṇa (explanation)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What specific festivals and worship practices are explained in this section?",
+   "premises": [
+    "The divisions of festivals and their specific details are covered.",
+    "The worship of the circle and its specific worship are explained.",
+    "The purpose of worship on special days, such as the guru's anniversaries, is explained."
+   ],
+   "inference": "This section details various festivals, circle worship, and the purpose of worship on specific commemorative days.",
+   "uncertainties": [],
+   "plain_english": "The divisions of festivals and their specifics, the worship of the circle and its worship, and the explanation of the purpose of worship on days such as the beginning and end days of the guru."
+  },
+  {
+   "verse": 322,
+   "rows": [
+    {
+     "surface": "mṛteḥ",
+     "gloss": "of death",
+     "grounds": "mṛti (death)",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "parīkṣā",
+     "gloss": "examination",
+     "grounds": "parīkṣā (examination)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yogīśīmelakādividhistathā",
+     "gloss": "and likewise the rite of the gathering of yoginīs and others",
+     "grounds": "yogīśī (yoginī), melaka (gathering), ādi (and others), vidhi (rite), tathā (likewise)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyākhyāvidhiḥ",
+     "gloss": "the method of explanation",
+     "grounds": "vyākhyā (explanation), vidhi (method)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrutavidhirgurupūjāvidhistviyat",
+     "gloss": "the method of hearing and the method of guru worship, and this",
+     "grounds": "śruta (hearing), vidhi (method), gurupūjā (guru worship), vidhi (method), tu (and), iyat (this)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What rites concerning death, gatherings, and teaching are described here?",
+   "premises": [
+    "The examination of death is described.",
+    "The rite of the gathering of yoginīs and others is included.",
+    "The methods of explanation, hearing, and guru worship are also covered."
+   ],
+   "inference": "This section addresses rites related to death, yoginī gatherings, and the transmission of teachings through explanation and guru worship.",
+   "uncertainties": [],
+   "plain_english": "The examination of death, the rite of the gathering of yoginīs and others, the method of explanation, the method of hearing, and the method of guru worship—this much."
+  },
+  {
+   "verse": 323,
+   "rows": [
+    {
+     "surface": "naimittikaprakāśākhye",
+     "gloss": "in the one called the illumination of occasional rites",
+     "grounds": "naimittika (occasional), prakāśa (illumination), ākhya (called)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "@pyaṣṭāviṃśāhnike",
+     "gloss": "also in the twenty-eighth chapter",
+     "grounds": "api (also), aṣṭāviṃśa (twenty-eighth), āhnika (chapter)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "is established",
+     "grounds": "sthita (established)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhikāryātmano",
+     "gloss": "of the qualified self",
+     "grounds": "adhikārin (qualified), ātman (self)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "the division",
+     "grounds": "bheda (division)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhapatnīkulakramaḥ",
+     "gloss": "the sequence of the lineage of the siddha's consort",
+     "grounds": "siddha (accomplished one), patnī (consort), kula (lineage), krama (sequence)",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is established in the twenty-eighth chapter regarding the qualified self and lineage?",
+   "premises": [
+    "The twenty-eighth chapter is called the illumination of occasional rites.",
+    "It establishes the division of the qualified self.",
+    "It also establishes the sequence of the lineage of the siddha's consort."
+   ],
+   "inference": "The twenty-eighth chapter details the types of qualified selves and the lineage sequence of the siddha's consort.",
+   "uncertainties": [],
+   "plain_english": "In the twenty-eighth chapter, also called the illumination of occasional rites, is established the division of the qualified self and the sequence of the lineage of the siddha's consort."
+  },
+  {
+   "verse": 324,
+   "rows": [
+    {
+     "surface": "arcāvidhirdautavidhī",
+     "gloss": "the method of worship and the methods of the messenger",
+     "grounds": "arcā (worship), vidhi (method), dauta (messenger), vidhi (methods)",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "rahasyopaniṣatkramaḥ",
+     "gloss": "the sequence of the secret upaniṣad",
+     "grounds": "rahasya (secret), upaniṣat (upaniṣad), krama (sequence)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīkṣābhiṣekau",
+     "gloss": "initiation and consecration",
+     "grounds": "dīkṣā (initiation), abhiṣeka (consecration)",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "bodhaścetyekonatriṃśa",
+     "gloss": "and awakening, thus in the twenty-ninth",
+     "grounds": "bodha (awakening), ca (and), iti (thus), ekonatriṃśa (twenty-ninth)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "āhnike",
+     "gloss": "chapter",
+     "grounds": "āhnika (chapter)",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What topics are covered in the twenty-ninth chapter?",
+   "premises": [
+    "The twenty-ninth chapter covers the method of worship and the methods of the messenger.",
+    "It includes the sequence of the secret upaniṣad.",
+    "It also covers initiation, consecration, and awakening."
+   ],
+   "inference": "The twenty-ninth chapter deals with worship, messenger rites, secret teachings, initiation, consecration, and awakening.",
+   "uncertainties": [
+    "The term 'dautavidhi' (methods of the messenger) is a technical ritual term."
+   ],
+   "plain_english": "The method of worship and the methods of the messenger, the sequence of the secret upaniṣad, initiation and consecration, and awakening—these are in the twenty-ninth chapter."
+  },
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "mantrasvarūpaṃ",
+     "gloss": "the nature of the mantra",
+     "grounds": "mantra (mantra), svarūpa (own nature)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvīryamiti",
+     "gloss": "and its power, thus",
+     "grounds": "tad (its), vīrya (power), iti (thus)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triṃśe",
+     "gloss": "in the thirtieth",
+     "grounds": "triṃśa (thirtieth)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nirūpitam",
+     "gloss": "is explained",
+     "grounds": "nirūpita (explained)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūlābjabhedo",
+     "gloss": "the division of the trident and lotus",
+     "grounds": "śūla (trident), abja (lotus), bheda (division)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyomaśasvastikādinirūpaṇam",
+     "gloss": "the explanation of the sky, rabbit, svastika, and others",
+     "grounds": "vyoman (sky), śaśa (rabbit), svastika (svastika), ādi (and others), nirūpaṇa (explanation)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is explained in the thirtieth chapter regarding mantras and diagrams?",
+   "premises": [
+    "The thirtieth chapter explains the nature of the mantra and its power.",
+    "It explains the division of the trident and lotus.",
+    "It also explains diagrams such as the sky, rabbit, and svastika."
+   ],
+   "inference": "The thirtieth chapter focuses on the nature and power of mantras, as well as specific ritual diagrams.",
+   "uncertainties": [
+    "The terms 'vyomaśa' (sky-rabbit) and 'svastika' refer to specific ritual diagrams whose exact forms are technical."
+   ],
+   "plain_english": "The nature of the mantra and its power are explained in the thirtieth chapter, along with the division of the trident and lotus, and the explanation of the sky, rabbit, svastika, and other diagrams."
+  },
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "vistareṇābhidhātavyamityekatriṃśa",
+     "gloss": "to be described in detail, thus in the thirty-first",
+     "grounds": "vistareṇa (in detail), abhidhātavya (to be described), iti (thus), ekatriṃśa (thirty-first)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āhnike",
+     "gloss": "chapter",
+     "grounds": "āhnika (chapter)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "guṇapradhānatābhedāḥ",
+     "gloss": "the divisions of primary and secondary qualities",
+     "grounds": "guṇa (quality/secondary), pradhānatā (primacy), bheda (divisions)",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "the nature",
+     "grounds": "svarūpa (own nature)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīryacarcanam",
+     "gloss": "the worship of power",
+     "grounds": "vīrya (power), carcana (worship)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is to be described in detail in the thirty-first chapter?",
+   "premises": [
+    "The thirty-first chapter describes topics in detail.",
+    "It covers the divisions of primary and secondary qualities.",
+    "It also covers the nature and the worship of power."
+   ],
+   "inference": "The thirty-first chapter provides a detailed account of the hierarchy of qualities, their nature, and the worship of power.",
+   "uncertainties": [],
+   "plain_english": "To be described in detail in the thirty-first chapter are the divisions of primary and secondary qualities, their nature, and the worship of power."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "kalābheda",
+     "gloss": "the division of the parts",
+     "grounds": "kalā (part), bheda (division)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti (thus)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "is declared",
+     "grounds": "prokta (declared)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mudrāṇāṃ",
+     "gloss": "of the seals",
+     "grounds": "mudrā (seal)",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "saṃprakāśane",
+     "gloss": "in the illumination",
+     "grounds": "saṃprakāśana (illumination)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvātriṃśatattvādīśākhyātprabhṛti",
+     "gloss": "beginning from the teaching of the lord of the thirty-two principles",
+     "grounds": "dvātriṃśat (thirty-two), tattva (principle), ādi (and others), īśa (lord), ākhya (teaching), prabhṛti (beginning from)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasphuṭo",
+     "gloss": "very clear",
+     "grounds": "prasphuṭa (very clear)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "yatas (because)",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the division of parts declared in the illumination of the seals?",
+   "premises": [
+    "The division of parts is declared in the illumination of the seals.",
+    "This begins from the teaching of the lord of the thirty-two principles.",
+    "The subject matter is very clear from that point onward."
+   ],
+   "inference": "The division of parts in the context of seals is clearly explained starting from the doctrine of the thirty-two principles.",
+   "uncertainties": [],
+   "plain_english": "The division of parts is thus declared in the illumination of the seals, because it is very clear beginning from the teaching of the lord of the thirty-two principles."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "na (not)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedo@sti",
+     "gloss": "there is division",
+     "grounds": "bheda (division), asti (is)",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "tatas (therefore)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "noktamuddeśāntaramatra",
+     "gloss": "no other topic is stated here",
+     "grounds": "na (not), ukta (stated), uddeśa (topic), antara (other), atra (here)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "tad (that)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyatvena",
+     "gloss": "by being primary",
+     "grounds": "mukhyatva (primacy)",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca (and)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyatvādadhikārāntarakramaḥ",
+     "gloss": "because it is to be known, the sequence of other qualifications",
+     "grounds": "vedyatva (state of being known), adhikāra (qualification), antara (other), krama (sequence)",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is no other topic stated here regarding the sequence of qualifications?",
+   "premises": [
+    "There is no division in the subject matter at this point.",
+    "Therefore, no other topic is stated here.",
+    "Because it is primary and to be known, the sequence of other qualifications is implied."
+   ],
+   "inference": "No further topics are introduced because the primary subject is clear and implies the sequence of other qualifications.",
+   "uncertainties": [],
+   "plain_english": "Since there is no division, no other topic is stated here; and because that is primary and to be known, the sequence of other qualifications follows."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "ityuddeśavidhiḥ",
+     "gloss": "thus the method of enunciation",
+     "grounds": "iti (thus), uddeśa (enunciation), vidhi (method)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "has been declared",
+     "grounds": "prokta (declared)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhasaṃgrahahetave",
+     "gloss": "for the sake of an easy summary",
+     "grounds": "sukha (easy), saṃgraha (summary), hetu (sake)",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "athāsya",
+     "gloss": "now of this",
+     "grounds": "atha (now), asya (of this)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "lakṣaṇāvekṣe",
+     "gloss": "in the examination of the definition",
+     "grounds": "lakṣaṇa (definition), avekṣā (examination)",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nirūpyete",
+     "gloss": "are explained",
+     "grounds": "nirūpyete (are explained)",
+     "morph": "3.pl.pass.pres"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in due order",
+     "grounds": "yathākramam (in due order)",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What has been declared and what will be explained next in due order?",
+   "premises": [
+    "The method of enunciation has been declared for the sake of an easy summary.",
+    "Now the examination of the definition of this subject will begin.",
+    "The topics will be explained in due order."
+   ],
+   "inference": "Having completed the summary of topics, the text will now proceed to define and examine them in order.",
+   "uncertainties": [],
+   "plain_english": "Thus the method of enunciation has been declared for the sake of an easy summary. Now, in the examination of its definition, the topics are explained in due order."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "ātmā",
+     "gloss": "the self",
+     "grounds": "ātman (self)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃvitprakāśasthitiranavayavā",
+     "gloss": "abiding in the light of consciousness, without parts",
+     "grounds": "saṃvit (consciousness), prakāśa (light), sthiti (abiding), anavayava (without parts)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃvidityāttaśaktivrātaṃ",
+     "gloss": "consciousness, thus having taken up the multitude of its powers",
+     "grounds": "saṃvid (consciousness), iti (thus), ātta (taken up), śakti (power), vrāta (multitude)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "tad (its)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own nature",
+     "grounds": "svarūpa (own nature)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "it",
+     "grounds": "tad (it)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca (and)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "nija (own)",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahasaśchādanādbaddharūpaḥ",
+     "gloss": "having a bound form due to the concealment of its own splendor",
+     "grounds": "mahas (splendor), chādana (concealment), baddha (bound), rūpa (form)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmajyotiḥsvabhāvaprakaṭanavidhinā",
+     "gloss": "by the method of manifesting the nature of the light of the self",
+     "grounds": "ātman (self), jyotis (light), svabhāva (nature), prakaṭana (manifesting), vidhi (method)",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "tad (its)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "mokṣa (liberation)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "tad (that)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cāyaṃ",
+     "gloss": "and this",
+     "grounds": "ca (and), ayam (this)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "citrākārasya",
+     "gloss": "of the varied form",
+     "grounds": "citra (varied), ākāra (form)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "citraḥ",
+     "gloss": "varied",
+     "grounds": "citra (varied)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakaṭita",
+     "gloss": "manifested",
+     "grounds": "prakaṭita (manifested)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "iha (here)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatsaṃgraheṇārtha",
+     "gloss": "which in summary is the meaning",
+     "grounds": "yad (which), saṃgraha (summary), artha (meaning)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "etad (this)",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the nature of the self, its bondage, and its liberation?",
+   "premises": [
+    "The self abides in the light of consciousness, is without parts, and possesses a multitude of powers.",
+    "It appears bound due to the concealment of its own splendor.",
+    "Its liberation occurs through the manifestation of the nature of the light of the self."
+   ],
+   "inference": "The self is inherently luminous and powerful but appears bound by self-concealment; liberation is the manifestation of its true luminous nature.",
+   "uncertainties": [],
+   "plain_english": "The self abides in the light of consciousness, is without parts, and is consciousness possessing a multitude of powers. It takes on a bound form through the concealment of its own splendor. Its liberation is achieved by the method of manifesting the nature of the light of the self. This, in summary, is the varied meaning manifested here for the varied form of reality."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "mithyājñānaṃ",
+     "gloss": "false knowledge",
+     "grounds": "mithyā (false), ajñāna (knowledge/ignorance)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "timiramasamān",
+     "gloss": "unequaled darkness",
+     "grounds": "timira (darkness), asama (unequaled)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭidoṣānprasūte",
+     "gloss": "produces defects of vision",
+     "grounds": "dṛṣṭi (vision), doṣa (defect), prasūte (produces)",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "tatsadbhāvādvimalamapi",
+     "gloss": "due to its presence, even the pure",
+     "grounds": "tad (its), sadbhāva (presence), vimala (pure), api (even)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadbhāti",
+     "gloss": "that appears",
+     "grounds": "tad (that), bhāti (appears)",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "mālinyadhāma",
+     "gloss": "as an abode of impurity",
+     "grounds": "mālinya (impurity), dhāman (abode)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "but that which",
+     "grounds": "yad (which), tu (but)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prekṣyaṃ",
+     "gloss": "is to be seen",
+     "grounds": "prekṣya (to be seen)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dṛśi",
+     "gloss": "in vision",
+     "grounds": "dṛś (vision)",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "parigataṃ",
+     "gloss": "encompassed",
+     "grounds": "parigata (encompassed)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taimirīṃ",
+     "gloss": "the darkness-born",
+     "grounds": "taimirī (darkness-born)",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "doṣamudrāṃ",
+     "gloss": "seal of defect",
+     "grounds": "doṣa (defect), mudrā (seal)",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dūraṃ",
+     "gloss": "far away",
+     "grounds": "dūra (far)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "runddhetprabhavatu",
+     "gloss": "removes, may it prevail",
+     "grounds": "runddhe (removes), prabhavatu (may it prevail)",
+     "morph": "3.sg.pres / 3.sg.imperative"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "katham (how)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra (there)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālinyaśaṅkā",
+     "gloss": "suspicion of impurity",
+     "grounds": "mālinya (impurity), śaṅkā (suspicion)",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does false knowledge obscure reality and how is that obscuration removed?",
+   "premises": [
+    "False knowledge is an unequaled darkness that produces defects of vision.",
+    "Because of it, even the pure appears as an abode of impurity.",
+    "When true vision removes the seal of defect caused by darkness, suspicion of impurity cannot arise."
+   ],
+   "inference": "False knowledge distorts perception, making the pure seem impure; true vision removes this distortion, eliminating any doubt about purity.",
+   "uncertainties": [],
+   "plain_english": "False knowledge is an unequaled darkness that produces defects of vision; due to its presence, even the pure appears as an abode of impurity. But when true vision, which is to be seen, removes the seal of defect born of that darkness, how can there be any suspicion of impurity there?"
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "bhāvavrāta?",
+     "gloss": "O multitude of beings",
+     "grounds": "bhāva (being), vrāta (multitude)",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "haṭhājjanasya",
+     "gloss": "forcibly of people",
+     "grounds": "haṭhāt (forcibly), jana (people)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hṛdayānyākramya",
+     "gloss": "having seized the hearts",
+     "grounds": "hṛdaya (heart), ākramya (having seized)",
+     "morph": "gerund"
+    },
+    {
+     "surface": "yannartayan",
+     "gloss": "making them dance",
+     "grounds": "yad (which), nartayan (making dance)",
+     "morph": "m.nom.sg.pres.part"
+    },
+    {
+     "surface": "bhaṅgībhirvividhābhirātmahṛdayaṃ",
+     "gloss": "with various gestures the heart of the self",
+     "grounds": "bhaṅgī (gesture), vividha (various), ātman (self), hṛdaya (heart)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pracchādya",
+     "gloss": "having concealed",
+     "grounds": "pracchādya (having concealed)",
+     "morph": "gerund"
+    },
+    {
+     "surface": "saṃkrīḍase",
+     "gloss": "you play",
+     "grounds": "saṃkrīḍase (you play)",
+     "morph": "2.sg.pres.mid"
+    },
+    {
+     "surface": "yastvāmāha",
+     "gloss": "whoever calls you",
+     "grounds": "yad (whoever), tvām (you), āha (calls)",
+     "morph": "3.sg.perf"
+    },
+    {
+     "surface": "jaḍaṃ",
+     "gloss": "insentient",
+     "grounds": "jaḍa (insentient)",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jaḍaḥ",
+     "gloss": "is insentient",
+     "grounds": "jaḍa (insentient)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sahṛdayaṃmanyatvaduḥśikṣito",
+     "gloss": "badly taught in the belief of having a heart",
+     "grounds": "sahṛdaya (having a heart), manyatva (belief), duḥśikṣita (badly taught)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manye@muṣya",
+     "gloss": "I think of this person",
+     "grounds": "manye (I think), amuṣya (of this person)",
+     "morph": "1.sg.pres / m.gen.sg"
+    },
+    {
+     "surface": "jaḍātmatā",
+     "gloss": "insentient nature",
+     "grounds": "jaḍa (insentient), ātmatā (nature)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "stutipadaṃ",
+     "gloss": "a word of praise",
+     "grounds": "stuti (praise), pada (word)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvatsāmyasaṃbhāvanāt",
+     "gloss": "due to the possibility of similarity to you",
+     "grounds": "tvad (your), sāmya (similarity), saṃbhāvana (possibility)",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why is calling the dynamic reality insentient considered a misunderstanding?",
+   "premises": [
+    "The multitude of beings forcibly seizes people's hearts and makes them dance, concealing the heart of the self.",
+    "Anyone who calls this dynamic reality insentient is themselves insentient and badly taught.",
+    "Calling such a person insentient is actually a word of praise, as it suggests a similarity to that dynamic reality."
+   ],
+   "inference": "The dynamic play of reality is not insentient; those who fail to recognize its conscious play are themselves insentient, and ironically, that insentience mirrors the very dynamism they deny.",
+   "uncertainties": [
+    "The exact parsing of 'bhāvavrāta?' as a vocative is inferred from context; the text shows a question mark in the source."
+   ],
+   "plain_english": "O multitude of beings, having forcibly seized people's hearts and making them dance with various gestures, you play while concealing the heart of the self. Whoever calls you insentient is himself insentient, badly taught in the belief that he has a heart. I think that calling him insentient is actually a word of praise, because it suggests a similarity to you."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "iha (here)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galitamalāḥ",
+     "gloss": "those whose impurities have fallen away",
+     "grounds": "galita (fallen away), mala (impurity)",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parāvarajñāḥ",
+     "gloss": "knowers of the highest and the lowest",
+     "grounds": "para (highest), avara (lowest), jña (knower)",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śivasadbhāvamayā",
+     "gloss": "consisting of the true nature of Śiva",
+     "grounds": "śiva (Śiva), sadbhāva (true nature), maya (consisting of)",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "adhikriyante",
+     "gloss": "are qualified",
+     "grounds": "adhikriyante (are qualified)",
+     "morph": "3.pl.pass.pres"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "the teachers",
+     "grounds": "guru (teacher)",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pravicāraṇe",
+     "gloss": "in the investigation",
+     "grounds": "pravicāraṇa (investigation)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yatastadviphalā",
+     "gloss": "because fruitless for that",
+     "grounds": "yatas (because), tad (that), viphala (fruitless)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dveṣakalaṃkahāniyācñā",
+     "gloss": "hatred, fault-finding, loss, and begging",
+     "grounds": "dveṣa (hatred), kalaṅka (fault-finding), hāni (loss), yācñā (begging)",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is qualified to investigate this teaching and why are negative attitudes fruitless?",
+   "premises": [
+    "Teachers whose impurities have fallen away and who know the highest and lowest are qualified.",
+    "These teachers consist of the true nature of Śiva.",
+    "Hatred, fault-finding, loss, and begging are fruitless in this investigation."
+   ],
+   "inference": "Only pure, knowledgeable teachers embodying Śiva's nature are qualified to investigate this teaching, as negative or deficient attitudes yield no fruit.",
+   "uncertainties": [],
+   "plain_english": "Here, teachers whose impurities have fallen away, who know the highest and the lowest, and who consist of the true nature of Śiva, are qualified for this investigation; because for it, hatred, fault-finding, loss, and begging are fruitless."
+  }
+ ]
+}
