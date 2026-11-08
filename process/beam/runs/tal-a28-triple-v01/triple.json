@@ -1,0 +1,1438 @@
+{
+ "song": "Tantraloka a28",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityavidhiḥ",
+     "gloss": "obligatory-rite",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "token 3",
+     "morph": "3.sg.pass.past"
+    },
+    {
+     "surface": "naimittikamathocyate",
+     "gloss": "occasional-then-stated",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the text announce the occasional rites after obligatory rites?",
+   "premises": [
+    "Obligatory rites were declared first.",
+    "Occasional rites are now stated."
+   ],
+   "inference": "The chapter moves from nitya to naimittika rites.",
+   "uncertainties": [
+    "Sandhi split of naimittikamathocyate is approximate."
+   ],
+   "plain_english": "Thus the obligatory rite has been declared; now the occasional rite is stated."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "niyataṃ",
+     "gloss": "fixed",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvi",
+     "gloss": "future",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yannityaṃ",
+     "gloss": "what-is-obligatory",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadityasminvidhau",
+     "gloss": "that-in-this-rule",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthite",
+     "gloss": "established",
+     "grounds": "token 5",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "mukhyatvaṃ",
+     "gloss": "primacy",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tanmayībhūtiḥ",
+     "gloss": "becoming-identified",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naimittikaṃ",
+     "gloss": "occasional",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What becomes occasional when obligatory rites are established?",
+   "premises": [
+    "Fixed future obligatory rites are established.",
+    "Primacy and identification follow."
+   ],
+   "inference": "All occasional rites derive from that established rule.",
+   "uncertainties": [
+    "Compound boundaries are approximate."
+   ],
+   "plain_english": "When the fixed future obligatory rite is established, primacy and identification follow; therefore all is occasional."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "dinādikalpanotthe",
+     "gloss": "arising-from-day-etc-conception",
+     "grounds": "token 1",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naiyatye",
+     "gloss": "in-necessity",
+     "grounds": "token 3",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "sarvanityatā",
+     "gloss": "universal-obligatoriness",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dinamāsarkṣavarṣādinaiyatyāducyate",
+     "gloss": "from-day-month-star-year-necessity-stated",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is universal obligatoriness explained through time units?",
+   "premises": [
+    "Necessity arises from day and related conceptions.",
+    "Universal obligatoriness is stated from time-unit necessity."
+   ],
+   "inference": "Time-unit necessity grounds universal obligatoriness.",
+   "uncertainties": [
+    "Long compound gloss is compressed."
+   ],
+   "plain_english": "But in necessity arising from day and related conceptions, universal obligatoriness is stated from the necessity of days, months, stars, and years."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "aśaṅkitavyāvaśyantāsattākaṃ",
+     "gloss": "unhesitating-necessary-existence",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jātucidbhavam",
+     "gloss": "sometimes-arising",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramātraniyataṃ",
+     "gloss": "knower-determined",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāhurnaimittikamidaṃ",
+     "gloss": "they-call-this-occasional",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "the-wise",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What do the wise call occasional?",
+   "premises": [
+    "Sometimes arising existence is knower-determined.",
+    "The wise call this occasional."
+   ],
+   "inference": "Occasional rites are knower-determined and sometimes arising.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "The wise call this occasional: sometimes arising, knower-determined existence."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "sandhyādi",
+     "gloss": "twilight-etc",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvasaṃpūjā",
+     "gloss": "occasion-worship",
+     "grounds": "token 2",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pavitrakamidaṃ",
+     "gloss": "this-thread-offering",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "obligatory",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyatarūpatvātsarvasmin",
+     "gloss": "because-of-fixed-form-in-all",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāsanāśrite",
+     "gloss": "in-scripture-refuge",
+     "grounds": "token 7",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Why are twilight worship and thread offering called obligatory?",
+   "premises": [
+    "Twilight worship and thread offering occur.",
+    "They are fixed in form for all under scripture."
+   ],
+   "inference": "They are always obligatory because of fixed form.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Twilight worship, occasion worship, and this thread offering are always obligatory because of their fixed form for all under scripture."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "jñānaśāstragurubhrātṛtadvargaprāptayastathā",
+     "gloss": "knowledge-scripture-teacher-brother-group-attainments",
+     "grounds": "token 1",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tajjanmasaṃskriyābhedāḥ",
+     "gloss": "their-birth-rite-differences",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svajanmotsavasaṃgatiḥ",
+     "gloss": "own-birth-festival-association",
+     "grounds": "token 3",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What occasions are listed as occasional rites?",
+   "premises": [
+    "Knowledge, scripture, teacher, brother, and group attainments occur.",
+    "Birth rites and own birth festival association occur."
+   ],
+   "inference": "These are listed among occasional rites.",
+   "uncertainties": [
+    "Long compound gloss is compressed."
+   ],
+   "plain_english": "Knowledge, scripture, teacher, brother, and group attainments, birth rite differences, and own birth festival association are listed."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "ancestral-offering",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vipatpratīkāraḥ",
+     "gloss": "calamity-remedy",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pramodo@dbhutadarśanam",
+     "gloss": "joy-wonder-sight",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yoginīmelakaḥ",
+     "gloss": "yogini-assembly",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svāṃśasantānādyaiśca",
+     "gloss": "own-part-lineage-etc-and",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "melanam",
+     "gloss": "meeting",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What further occasional rites are enumerated?",
+   "premises": [
+    "Ancestral offering and calamity remedy occur.",
+    "Joy, wonder sight, yogini assembly, and meetings occur."
+   ],
+   "inference": "These are enumerated as occasional rites.",
+   "uncertainties": [
+    "Sandhi split is approximate."
+   ],
+   "plain_english": "Ancestral offering, calamity remedy, joy and wonder sight, yogini assembly, and meetings with own part and lineage are enumerated."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "śāstravyākhyāpurāmadhyāvasānāni",
+     "gloss": "scripture-explanation-city-residence-endings",
+     "grounds": "token 1",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kramodayaḥ",
+     "gloss": "ordered-emergence",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatādarśanaṃ",
+     "gloss": "deity-vision",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svāpnamājñā",
+     "gloss": "dream-command",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samayaniṣkṛtiḥ",
+     "gloss": "vow-expiation",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What additional occasional rites are listed?",
+   "premises": [
+    "Scripture explanation, city residence, and endings occur.",
+    "Ordered emergence, deity vision, dream command, and vow expiation occur."
+   ],
+   "inference": "These are additional occasional rites.",
+   "uncertainties": [
+    "Long compound gloss is compressed."
+   ],
+   "plain_english": "Scripture explanation, city residence, endings, ordered emergence, deity vision, dream command, and vow expiation are listed."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naimittikaṃ",
+     "gloss": "occasional",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīmattantrasāre",
+     "gloss": "in-glorious-tantra-essence",
+     "grounds": "token 3",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "nirūpitam",
+     "gloss": "determined",
+     "grounds": "token 4",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trayoviṃśatibhedena",
+     "gloss": "by-twenty-three-divisions",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣārcānibandhanam",
+     "gloss": "special-worship-foundation",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many divisions of occasional rites are determined?",
+   "premises": [
+    "Occasional rites are determined in the glorious tantra essence.",
+    "They have twenty-three divisions and special worship foundation."
+   ],
+   "inference": "There are twenty-three divisions of occasional rites.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Thus occasional rites are determined in the glorious tantra essence in twenty-three divisions as the foundation of special worship."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvavidhiṃ",
+     "gloss": "occasion-rite",
+     "grounds": "token 2",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "brūmo",
+     "gloss": "we-speak",
+     "grounds": "token 3",
+     "morph": "1.pl.act.pres"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parva",
+     "gloss": "occasion",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulākulam",
+     "gloss": "kula-and-akula",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulāṣṭakakṛtaṃ",
+     "gloss": "made-by-eight-kulas",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīyogasaṃcare",
+     "gloss": "in-glorious-yoga-course",
+     "grounds": "token 10",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "How is the occasion rite divided?",
+   "premises": [
+    "The occasion rite is spoken there.",
+    "It is twofold as kula and akula."
+   ],
+   "inference": "The occasion rite is first declared in the glorious yoga course.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "There we speak of the occasion rite: it is twofold, kula and akula; the first was declared in the glorious yoga course."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "abdhīndu",
+     "gloss": "ocean-moon",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munirityetanmāheśyā",
+     "gloss": "sage-thus-this-maheśi",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmasantateḥ",
+     "gloss": "of-brahma-lineage",
+     "grounds": "token 3",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pratipatpañcadaśyau",
+     "gloss": "first-and-fifteenth",
+     "grounds": "token 4",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaumāryā",
+     "gloss": "of-kaumari",
+     "grounds": "token 6",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "rasavahniyuk",
+     "gloss": "juice-fire-joined",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which days belong to which kula lineages?",
+   "premises": [
+    "Ocean moon and sage are stated for maheśi.",
+    "First and fifteenth belong to brahma lineage; two to kaumari."
+   ],
+   "inference": "Days are assigned to kula lineages.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Ocean moon and sage are thus for maheśi; first and fifteenth belong to brahma lineage, and two to kaumari."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "abdhirakṣīndu",
+     "gloss": "ocean-protector-moon",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiṣṇavyā",
+     "gloss": "of-vaiṣṇavi",
+     "grounds": "token 2",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "aindryāstvastraṃ",
+     "gloss": "of-aindri-weapon",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayodaśī",
+     "gloss": "thirteenth",
+     "grounds": "token 4",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vārāhyā",
+     "gloss": "of-vārāhi",
+     "grounds": "token 5",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "randhrarudrau",
+     "gloss": "cavity-rudra-two",
+     "grounds": "token 6",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍyā",
+     "gloss": "of-caṇḍi",
+     "grounds": "token 8",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vasvakṣiyugmakam",
+     "gloss": "vasu-destruction-pair",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are further days assigned to kula lineages?",
+   "premises": [
+    "Ocean protector moon belongs to vaiṣṇavi.",
+    "Thirteenth belongs to aindri; two to vārāhi; pair to caṇḍi."
+   ],
+   "inference": "Further days are assigned to kula lineages.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Ocean protector moon belongs to vaiṣṇavi; thirteenth to aindri; two to vārāhi; and a pair to caṇḍi."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tithī",
+     "gloss": "lunar-days",
+     "grounds": "token 3",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāsāṃ",
+     "gloss": "of-all",
+     "grounds": "token 5",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "yogeśyā",
+     "gloss": "of-yogeśi",
+     "grounds": "token 6",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "daśamī",
+     "gloss": "tenth",
+     "grounds": "token 7",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyā",
+     "gloss": "of-her",
+     "grounds": "token 9",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "apyaṣṭamī",
+     "gloss": "also-eighth",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasmāddvitithiḥ",
+     "gloss": "because-two-day",
+     "grounds": "token 11",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "token 12",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "token 13",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is the tenth proclaimed as two days?",
+   "premises": [
+    "Two lunar days belong to all.",
+    "Tenth belongs to yogeśi; eighth also belongs to her."
+   ],
+   "inference": "The tenth is proclaimed as two days because of the eighth.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Two lunar days belong to all; the tenth belongs to yogeśi, and the eighth also belongs to her, so it is proclaimed as two days."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "anyāścākulaparvāpi",
+     "gloss": "other-akula-occasions-also",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiparītyena",
+     "gloss": "in-reverse",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣitam",
+     "gloss": "marked",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulaparveti",
+     "gloss": "as-kula-occasion",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbrūmo",
+     "gloss": "that-we-speak",
+     "grounds": "token 5",
+     "morph": "1.pl.act.pres"
+    },
+    {
+     "surface": "yathoktaṃ",
+     "gloss": "as-stated",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairave",
+     "gloss": "in-bhairava",
+     "grounds": "token 7",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kule",
+     "gloss": "kula",
+     "grounds": "token 8",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "How are akula occasions distinguished?",
+   "premises": [
+    "Other akula occasions are marked in reverse.",
+    "They are spoken as kula occasion as stated in bhairava kula."
+   ],
+   "inference": "Akula occasions are distinguished by reverse marking.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Other akula occasions are marked in reverse; we speak of them as kula occasion as stated in bhairava kula."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "haiḍare",
+     "gloss": "in-haiḍara",
+     "grounds": "token 1",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "trikasadbhāve",
+     "gloss": "in-trika-existence",
+     "grounds": "token 2",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "trikakālīkulādike",
+     "gloss": "trika-kali-kula-etc",
+     "grounds": "token 3",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "yo@yaṃ",
+     "gloss": "this-which",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇāśritaḥ",
+     "gloss": "breath-supported",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "suvistarāt",
+     "gloss": "in-detail",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What time was first declared in haiḍara trika?",
+   "premises": [
+    "In haiḍara trika existence and kula, this breath-supported time was first declared in detail."
+   ],
+   "inference": "A breath-supported time was first declared in detail.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "In haiḍara, in trika existence and trika kali kula etc., this breath-supported time was first declared in detail."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cakrabhedasaṃcāre",
+     "gloss": "in-wheel-difference-movement",
+     "grounds": "token 2",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kāṃcit",
+     "gloss": "some",
+     "grounds": "token 3",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sūte",
+     "gloss": "produces",
+     "grounds": "token 4",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "svasaṃvidam",
+     "gloss": "own-consciousness",
+     "grounds": "token 5",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svasaṃvitpūrṇatālābhasamayaḥ",
+     "gloss": "own-consciousness-fullness-gain-time",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parva",
+     "gloss": "occasion",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaṇyate",
+     "gloss": "is-called",
+     "grounds": "token 8",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "What is produced in wheel-difference movement?",
+   "premises": [
+    "That produces some own consciousness in wheel-difference movement.",
+    "The time of gaining fullness of own consciousness is called occasion."
+   ],
+   "inference": "Occasion is the time of gaining fullness of own consciousness.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "That produces some own consciousness in wheel-difference movement; the time of gaining fullness of own consciousness is called occasion."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "parva",
+     "gloss": "occasion",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūraṇa",
+     "gloss": "filling",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityeva",
+     "gloss": "thus-indeed",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṝ",
+     "gloss": "root-fill",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūraṇārthakaḥ",
+     "gloss": "meaning-filling",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parvaśabdo",
+     "gloss": "occasion-word",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niruktaśca",
+     "gloss": "etymology-and",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parva",
+     "gloss": "occasion",
+     "grounds": "token 9",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatpūraṇāditi",
+     "gloss": "from-that-filling-thus",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the etymology of parva?",
+   "premises": [
+    "Occasion means filling.",
+    "The word occasion has etymology from the root fill."
+   ],
+   "inference": "Parva derives from filling.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "Occasion means filling; or the word occasion has etymology from the root meaning filling, from that filling."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "haiḍare@tra",
+     "gloss": "in-haiḍara-here",
+     "grounds": "token 1",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdo@yaṃ",
+     "gloss": "this-word",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāntetaraḥ",
+     "gloss": "not-end-other",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutaḥ",
+     "gloss": "heard",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "taccakracāraniṣṇātā",
+     "gloss": "skilled-in-that-wheel-movement",
+     "grounds": "token 7",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "token 8",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kecit",
+     "gloss": "some",
+     "grounds": "token 9",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pūrṇasaṃvidaḥ",
+     "gloss": "full-consciousness",
+     "grounds": "token 10",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How is the word heard in haiḍara?",
+   "premises": [
+    "Here in haiḍara the word is twofold.",
+    "Those skilled in that wheel movement have full consciousness."
+   ],
+   "inference": "The word is heard twofold among the skilled.",
+   "uncertainties": [
+    "Sandhi split is approximate."
+   ],
+   "plain_english": "Here in haiḍara the word is heard twofold; those skilled in that wheel movement have full consciousness."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "tanmelakasamāyuktāste",
+     "gloss": "joined-in-that-assembly-they",
+     "grounds": "token 1",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatpūjāparāḥ",
+     "gloss": "devoted-to-that-worship",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo@pyatanmaya",
+     "gloss": "even-not-identified",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣo@pi",
+     "gloss": "this-also",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkāle",
+     "gloss": "at-that-time",
+     "grounds": "token 6",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "svakramārcanāt",
+     "gloss": "from-own-ordered-worship",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do assembly members worship?",
+   "premises": [
+    "Those joined in that assembly are devoted to that worship always.",
+    "Even one not identified worships at that time from own ordered worship."
+   ],
+   "inference": "Assembly members and others worship through ordered worship.",
+   "uncertainties": [
+    "Sandhi split is approximate."
+   ],
+   "plain_english": "Those joined in that assembly are devoted to that worship always; even one not identified worships at that time through own ordered worship."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "tadyoginīsiddhasaṅghamelakāt",
+     "gloss": "from-that-yogini-siddha-assembly",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmayībhavet",
+     "gloss": "becomes-identified",
+     "grounds": "token 2",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prekṣaṇake",
+     "gloss": "in-spectacle",
+     "grounds": "token 4",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tattaddraṣṭṛsaṃvidabheditām",
+     "gloss": "seer-consciousness-nondifference",
+     "grounds": "token 5",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How does identification occur from assembly?",
+   "premises": [
+    "From that yogini siddha assembly one becomes identified.",
+    "As in spectacle, seer consciousness becomes nondifferent."
+   ],
+   "inference": "Assembly leads to identification and nondifference of seer consciousness.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "From that yogini and siddha assembly one becomes identified, as in a spectacle seer consciousness becomes nondifferent."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "kramoditāṃ",
+     "gloss": "ordered-risen",
+     "grounds": "token 1",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sadya",
+     "gloss": "immediately",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "token 4",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "tatpraveśanāt",
+     "gloss": "from-entering-that",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogābhyāsakramopāttāṃ",
+     "gloss": "gained-by-yoga-practice-order",
+     "grounds": "token 6",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "full",
+     "grounds": "token 8",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svasaṃvidam",
+     "gloss": "own-consciousness",
+     "grounds": "token 9",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is obtained immediately by entering?",
+   "premises": [
+    "Ordered-risen full own consciousness is obtained immediately by entering that.",
+    "It is gained by yoga practice order."
+   ],
+   "inference": "Entering yields full own consciousness immediately.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "One immediately obtains ordered-risen full own consciousness by entering that, gained by yoga practice order."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "labhante",
+     "gloss": "they-obtain",
+     "grounds": "token 1",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "sadya",
+     "gloss": "immediately",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaitatsaṃvidaikyapraveśanāt",
+     "gloss": "from-entering-consciousness-unity",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkālaṃ",
+     "gloss": "at-that-time",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvitteḥ",
+     "gloss": "of-consciousness",
+     "grounds": "token 6",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pūrṇatvāt",
+     "gloss": "because-of-fullness",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmadogdhṛtā",
+     "gloss": "wish-milking",
+     "grounds": "token 8",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why do they obtain immediately?",
+   "premises": [
+    "They obtain immediately from entering consciousness unity.",
+    "At that time consciousness is full, wish-milking."
+   ],
+   "inference": "Full consciousness at that time yields immediate attainment.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "They obtain immediately from entering consciousness unity; at that time consciousness is full and wish-milking."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattatphalaṃ",
+     "gloss": "various-fruit",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "at-time",
+     "grounds": "token 4",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "saṃpūjayācirāt",
+     "gloss": "by-worship-quickly",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ciropāttadhanaḥ",
+     "gloss": "long-held-wealth",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kurvannutsavamādarāt",
+     "gloss": "making-festival-eagerly",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens by worship at that time?",
+   "premises": [
+    "By that, various fruit is obtained there at that time by worship quickly.",
+    "As one with long-held wealth makes festival eagerly."
+   ],
+   "inference": "Worship at that time quickly yields fruit.",
+   "uncertainties": [
+    "Compound gloss is compressed."
+   ],
+   "plain_english": "By that, various fruit is obtained there at that time by worship quickly, as one with long-held wealth makes festival eagerly."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "atithiṃ",
+     "gloss": "guest",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "so@nugṛhṇāti",
+     "gloss": "he-favors",
+     "grounds": "token 2",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "tatkālābhijñamāgatam",
+     "gloss": "arrived-knowing-that-time",
+     "grounds": "token 3",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suphalasaṃsiddhyai",
+     "gloss": "for-good-fruit-accomplishment",
+     "grounds": "token 5",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "yoginīsiddhanāyakāḥ",
+     "gloss": "yogini-siddha-leaders",
+     "grounds": "token 6",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do leaders favor a guest?",
+   "premises": [
+    "He favors a guest who arrived knowing that time.",
+    "Thus yogini siddha leaders act for good fruit accomplishment."
+   ],
+   "inference": "Leaders favor timely guests for good fruit accomplishment.",
+   "uncertainties": [
+    "Sandhi split is approximate."
+   ],
+   "plain_english": "He favors a guest who arrived knowing that time; thus yogini and siddha leaders act for good fruit accomplishment."
+  }
+ ]
+}

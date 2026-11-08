@@ -1,0 +1,830 @@
+{
+ "song": "Tantraloka a15",
+ "items": [
+  {
+   "verse": 601,
+   "rows": [
+    {
+     "surface": "saṃkocakāriṇī",
+     "gloss": "contraction-causing",
+     "grounds": "token 1",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvaḥ",
+     "gloss": "all",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grahastāṃ",
+     "gloss": "graha-state",
+     "grounds": "token 4",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-abandon",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt + root parityaj"
+    },
+    {
+     "surface": "śrīmadānandaśāstre",
+     "gloss": "in-splendid-ananda-scripture",
+     "grounds": "token 6",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "token 8",
+     "morph": "n.nom.sg.past-part"
+    },
+    {
+     "surface": "parameṣṭhinā",
+     "gloss": "by-supreme-lord",
+     "grounds": "token 9",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Why should the contraction-causing graha-state be abandoned?",
+   "premises": [
+    "The supreme lord declared this in the splendid ananda scripture.",
+    "All should abandon the contraction-causing graha-state."
+   ],
+   "inference": "The verse prescribes abandoning the contraction-causing graha-state as taught by the supreme lord.",
+   "uncertainties": [
+    "Exact referent of grahastā remains context-dependent."
+   ],
+   "plain_english": "The supreme lord declared in the splendid Ananda scripture that all should abandon the contraction-causing graha-state."
+  },
+  {
+   "verse": 602,
+   "rows": [
+    {
+     "surface": "nirapekṣaḥ",
+     "gloss": "independent",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prabhurvāmo",
+     "gloss": "lord-vama",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhyā",
+     "gloss": "by-purity",
+     "grounds": "token 4",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devītṛptirmakhe",
+     "gloss": "goddess-satisfaction-in-sacrifice",
+     "grounds": "token 7",
+     "morph": "f.nom.sg.loc"
+    },
+    {
+     "surface": "raktamāṃsairno",
+     "gloss": "by-blood-flesh-not",
+     "grounds": "token 8",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śaucayojanāt",
+     "gloss": "from-purity-arrangement",
+     "grounds": "token 9",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What is the cause there if not purity?",
+   "premises": [
+    "The independent lord Vama is not caused by purity there.",
+    "Goddess satisfaction in sacrifice is not from blood and flesh or purity arrangement."
+   ],
+   "inference": "The verse denies purity, blood, flesh, and purity arrangement as the cause there.",
+   "uncertainties": [
+    "Compound boundaries in raktamāṃsairno and śaucayojanāt are compressed."
+   ],
+   "plain_english": "There the independent lord Vama is not caused by purity; goddess satisfaction in sacrifice is not from blood, flesh, or purity arrangement."
+  },
+  {
+   "verse": 603,
+   "rows": [
+    {
+     "surface": "dvijāntyajaiḥ",
+     "gloss": "with-twice-born-and-outcastes",
+     "grounds": "token 1",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equally",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-done",
+     "grounds": "token 3",
+     "morph": "f.nom.sg.pass-part"
+    },
+    {
+     "surface": "carcānte@pi",
+     "gloss": "even-at-end-of-discussion",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marīcayaḥ",
+     "gloss": "rays",
+     "grounds": "token 5",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "avikārakṛtastena",
+     "gloss": "by-unchanged-maker-thereby",
+     "grounds": "token 6",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vikalpānnirayo",
+     "gloss": "from-doubt-hell",
+     "grounds": "token 7",
+     "morph": "m.nom.sg.abl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-arise",
+     "grounds": "token 8",
+     "morph": "3.sg.act-opt + root bhū"
+    }
+   ],
+   "question": "What arises from doubt after discussion?",
+   "premises": [
+    "Discussion should be done equally with twice-born and outcastes.",
+    "Rays unchanged by that maker would arise from doubt as hell."
+   ],
+   "inference": "The verse warns that doubt after discussion leads to hell.",
+   "uncertainties": [
+    "The exact syntactic role of marīcayaḥ is unclear."
+   ],
+   "plain_english": "Discussion should be done equally with twice-born and outcastes; even at its end, rays unchanged by that maker would arise from doubt as hell."
+  },
+  {
+   "verse": 604,
+   "rows": [
+    {
+     "surface": "sarvadevamayaḥ",
+     "gloss": "all-god-filled",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāyaḥ",
+     "gloss": "body",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvaprāṇiṣviti",
+     "gloss": "in-all-beings-thus",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmadbhirnakuleśādyairapyetatsunirūpitam",
+     "gloss": "by-splendid-nakulesha-and-others-this-well-determined",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is clearly determined about the body?",
+   "premises": [
+    "The body is all-god-filled in all beings.",
+    "This is clearly determined by splendid Nakulesha and others."
+   ],
+   "inference": "The verse states that the body is all-god-filled in all beings.",
+   "uncertainties": [
+    "The long compound compresses several modifiers."
+   ],
+   "plain_english": "The body is all-god-filled in all beings; this is clearly determined by splendid Nakulesha and others."
+  },
+  {
+   "verse": 605,
+   "rows": [
+    {
+     "surface": "śarīramevāyatanaṃ",
+     "gloss": "body-itself-shrine",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nānyadāyatanaṃ",
+     "gloss": "not-another-shrine",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "token 3",
+     "morph": "3.sg.act-opt + root vraj"
+    },
+    {
+     "surface": "tīrthamekaṃ",
+     "gloss": "one-tirtha",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smarenmantramanyatīrthāni",
+     "gloss": "should-remember-mantra-other-tirthas",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt + root smṛ"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "token 6",
+     "morph": "3.sg.act-opt + root varj"
+    }
+   ],
+   "question": "Which shrine should one go to?",
+   "premises": [
+    "The body itself is the shrine, not another shrine.",
+    "One should go to one tirtha, remember mantra, and avoid other tirthas."
+   ],
+   "inference": "The verse identifies the body as the shrine and restricts pilgrimage to one tirtha.",
+   "uncertainties": [
+    "The exact relation between tīrthamekaṃ and mantra is compressed."
+   ],
+   "plain_english": "The body itself is the shrine, not another; one should go to one tirtha, remember the mantra, and avoid other tirthas."
+  },
+  {
+   "verse": 606,
+   "rows": [
+    {
+     "surface": "vidhimenaṃ",
+     "gloss": "this-rite",
+     "grounds": "token 1",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "easily",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "token 3",
+     "morph": "absolutive + root jñā"
+    },
+    {
+     "surface": "vidhijālaṃ",
+     "gloss": "rite-net",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-abandon",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt + root parityaj"
+    },
+    {
+     "surface": "samādhirniścayaṃ",
+     "gloss": "samadhi-certainty",
+     "grounds": "token 6",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "muktvā",
+     "gloss": "having-released",
+     "grounds": "token 7",
+     "morph": "absolutive + root muc"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānyenopalabhyate",
+     "gloss": "and-by-another-obtained",
+     "grounds": "token 9",
+     "morph": "3.sg.pass-pres + root upalabh"
+    }
+   ],
+   "question": "What should be abandoned after knowing this rite?",
+   "premises": [
+    "Having known this rite easily, one should abandon the rite-net.",
+    "Samadhi certainty is not obtained by another."
+   ],
+   "inference": "The verse says knowing the rite leads to abandoning the rite-net, while samadhi certainty is not otherwise obtained.",
+   "uncertainties": [
+    "The exact scope of samādhirniścayaṃ is compressed."
+   ],
+   "plain_english": "Having easily known this rite, one should abandon the rite-net; samadhi certainty is not obtained by another."
+  },
+  {
+   "verse": 607,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matvā",
+     "gloss": "having-thought",
+     "grounds": "token 2",
+     "morph": "absolutive + root man"
+    },
+    {
+     "surface": "vidhānajñaḥ",
+     "gloss": "rite-knower",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃmohaṃ",
+     "gloss": "delusion",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt + root parivarj"
+    },
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "token 6",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "token 7",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muktvā",
+     "gloss": "having-released",
+     "grounds": "token 8",
+     "morph": "absolutive + root muc"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānyatparamaṃ",
+     "gloss": "and-another-supreme",
+     "grounds": "token 10",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "token 11",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should the rite-knower avoid?",
+   "premises": [
+    "Thus thinking, the rite-knower should avoid delusion.",
+    "Besides the heart of mantra, nothing else is supreme anywhere."
+   ],
+   "inference": "The verse instructs the rite-knower to avoid delusion and affirms mantra-heart as supreme.",
+   "uncertainties": [
+    "The exact force of iti matvā is interpretive."
+   ],
+   "plain_english": "Thus thinking, the rite-knower should avoid delusion; besides the heart of the mantra, nothing else is supreme anywhere."
+  },
+  {
+   "verse": 608,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matvā",
+     "gloss": "having-thought",
+     "grounds": "token 2",
+     "morph": "absolutive + root man"
+    },
+    {
+     "surface": "vidhānajño",
+     "gloss": "rite-knower",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrajālaṃ",
+     "gloss": "mantra-net",
+     "grounds": "token 4",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-abandon",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt + root parityaj"
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "offering",
+     "grounds": "token 6",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāśayennadyāstaccheṣaṃ",
+     "gloss": "should-feed-river-remainder",
+     "grounds": "token 7",
+     "morph": "3.sg.act-opt + root prāś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "token 9",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-throw",
+     "grounds": "token 10",
+     "morph": "3.sg.act-opt + root kṣip"
+    }
+   ],
+   "question": "What should the rite-knower abandon and do?",
+   "premises": [
+    "Thus thinking, the rite-knower should abandon the mantra-net.",
+    "He should feed the offering and throw the river remainder in water."
+   ],
+   "inference": "The verse pairs abandonment of mantra-net with ritual disposal of offering remainder.",
+   "uncertainties": [
+    "The compound prāśayennadyāstaccheṣaṃ is compressed."
+   ],
+   "plain_english": "Thus thinking, the rite-knower should abandon the mantra-net; he should feed the offering and throw the river remainder in water."
+  },
+  {
+   "verse": 609,
+   "rows": [
+    {
+     "surface": "tairbhukte",
+     "gloss": "by-them-eaten",
+     "grounds": "token 1",
+     "morph": "m.inst.pl.past-part"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaveddoṣo",
+     "gloss": "fault-would-arise",
+     "grounds": "token 3",
+     "morph": "3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "jalajaiḥ",
+     "gloss": "by-water-born",
+     "grounds": "token 4",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūrvadīkṣitaiḥ",
+     "gloss": "by-previously-initiated",
+     "grounds": "token 5",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "avayaśpālanīyatvātparattvena",
+     "gloss": "from-protecting-honor-by-supremacy",
+     "grounds": "token 6",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "saṃgamāt",
+     "gloss": "from-contact",
+     "grounds": "token 7",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why is there no fault after they eat?",
+   "premises": [
+    "When eaten by them, no fault would arise.",
+    "Water-born and previously initiated ones are protected by supremacy from contact."
+   ],
+   "inference": "The verse says no fault arises because supremacy protects from contact.",
+   "uncertainties": [
+    "The compound avayaśpālanīyatvātparattvena is compressed."
+   ],
+   "plain_english": "When eaten by them, no fault would arise; water-born and previously initiated ones are protected by supremacy from contact."
+  },
+  {
+   "verse": 610,
+   "rows": [
+    {
+     "surface": "jñānaprāptyabhyupāyatvātsamayāste",
+     "gloss": "from-means-of-knowledge-attainment-pledges-these",
+     "grounds": "token 1",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "token 2",
+     "morph": "m.nom.pl.past-part"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśrāvya",
+     "gloss": "having-proclaimed",
+     "grounds": "token 4",
+     "morph": "absolutive + root śru"
+    },
+    {
+     "surface": "samayāndevaṃ",
+     "gloss": "pledges-god",
+     "grounds": "token 5",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "token 6",
+     "morph": "absolutive + root pūj"
+    },
+    {
+     "surface": "daiśikaḥ",
+     "gloss": "teacher",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why are these pledges declared?",
+   "premises": [
+    "These pledges are declared as means of knowledge attainment.",
+    "Thus proclaiming pledges, the teacher worships the god."
+   ],
+   "inference": "The verse links pledges to knowledge attainment and teacher worship.",
+   "uncertainties": [
+    "The long compound jñānaprāptyabhyupāyatvātsamayāste is compressed."
+   ],
+   "plain_english": "These pledges are declared as means of knowledge attainment; thus proclaiming pledges, the teacher worships the god."
+  },
+  {
+   "verse": 611,
+   "rows": [
+    {
+     "surface": "visarjayetsvacidvyomni",
+     "gloss": "should-release-in-own-consciousness-space",
+     "grounds": "token 1",
+     "morph": "3.sg.act-opt + root visṛj"
+    },
+    {
+     "surface": "śānte",
+     "gloss": "in-peaceful",
+     "grounds": "token 2",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mūrtivilāpanāt",
+     "gloss": "from-form-dissolution",
+     "grounds": "token 3",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putrakadīkṣāsya",
+     "gloss": "his-son-initiation",
+     "grounds": "token 5",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-done",
+     "grounds": "token 7",
+     "morph": "f.nom.sg.pass-part"
+    },
+    {
+     "surface": "samanantaram",
+     "gloss": "immediately",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should son initiation not be done immediately?",
+   "premises": [
+    "He should release in own consciousness space, peaceful, from form dissolution.",
+    "If his son initiation is not to be done immediately."
+   ],
+   "inference": "The verse connects release in consciousness space with delayed son initiation.",
+   "uncertainties": [
+    "The exact condition for yadi is compressed."
+   ],
+   "plain_english": "He should release in his own consciousness space, peaceful, from form dissolution; if his son initiation is not to be done immediately."
+  },
+  {
+   "verse": 612,
+   "rows": [
+    {
+     "surface": "tadābhiṣiñcetsāstreṇa",
+     "gloss": "then-should-anoint-by-scripture",
+     "grounds": "token 1",
+     "morph": "3.sg.act-opt + root abhiṣic"
+    },
+    {
+     "surface": "śivakumbhena",
+     "gloss": "with-shiva-pot",
+     "grounds": "token 2",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "token 3",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śiśum",
+     "gloss": "child",
+     "grounds": "token 4",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "token 5",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasmājjalamūrtirmaheśvaraḥ",
+     "gloss": "because-water-form-is-great-lord",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why anoint the child and self with the Shiva pot?",
+   "premises": [
+    "Then he should anoint that child and self with the Shiva pot by scripture.",
+    "Because water-form is great lord."
+   ],
+   "inference": "The verse prescribes anointing child and self, grounded in water-form as great lord.",
+   "uncertainties": [
+    "The exact relation between tadā and yasmāt is compressed."
+   ],
+   "plain_english": "Then he should anoint that child and himself with the Shiva pot by scripture, because water-form is the great lord."
+  },
+  {
+   "verse": 613,
+   "rows": [
+    {
+     "surface": "mantrayuṅnikhilāpyāyī",
+     "gloss": "mantra-uniting-all-nourishing",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "should-be-done",
+     "grounds": "token 2",
+     "morph": "n.nom.sg.pass-part"
+    },
+    {
+     "surface": "tadabhiṣecanam",
+     "gloss": "that-anointing",
+     "grounds": "token 3",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samayadīkṣaṇamidaṃ",
+     "gloss": "this-samaya-initiation",
+     "grounds": "token 5",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakāśitaṃ",
+     "gloss": "revealed",
+     "grounds": "token 6",
+     "morph": "n.nom.sg.past-part"
+    },
+    {
+     "surface": "vistarācca",
+     "gloss": "and-from-detail",
+     "grounds": "token 7",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "saṃkṣepāt",
+     "gloss": "from-brevity",
+     "grounds": "token 8",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What is revealed about samaya initiation?",
+   "premises": [
+    "Mantra-uniting all-nourishing anointing should be done.",
+    "This samaya initiation is revealed from detail and brevity."
+   ],
+   "inference": "The verse concludes that samaya initiation is revealed in both detail and brevity.",
+   "uncertainties": [
+    "The compound mantrayuṅnikhilāpyāyī is compressed."
+   ],
+   "plain_english": "Mantra-uniting all-nourishing anointing should be done; this samaya initiation is revealed from detail and brevity."
+  }
+ ]
+}
