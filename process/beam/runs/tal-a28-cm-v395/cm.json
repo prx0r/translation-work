@@ -4,48 +4,48 @@
  "rows": [
   {
    "lemma": "so@pi",
-   "morph": "m.nom.sg",
-   "grounds": "agent"
+   "morph": "compound: saḥ+api (m.nom.sg)",
+   "grounds": "the teacher in turn"
   },
   {
    "lemma": "svaśāsanīye",
    "morph": "m.loc.sg",
-   "grounds": "recipient condition"
+   "grounds": "primary recipient"
   },
   {
    "lemma": "paraśiṣye@pivāpi",
-   "morph": "m.loc.sg",
-   "grounds": "alternative recipient"
+   "morph": "compound: para+śiṣye+api+vā+api (m.loc.sg)",
+   "grounds": "secondary recipient"
   },
   {
    "lemma": "tādṛśaṃ",
    "morph": "n.acc.sg",
-   "grounds": "quality of object"
+   "grounds": "the appropriate scripture"
   },
   {
    "lemma": "śāstram",
    "morph": "n.acc.sg",
-   "grounds": "object"
+   "grounds": "object of explanation"
   },
   {
    "lemma": "śrotuṃ",
-   "morph": "(infinitive)",
-   "grounds": "purpose"
+   "morph": "infinitive + śru",
+   "grounds": "readiness of the listener"
   },
   {
    "lemma": "yogye",
    "morph": "m.loc.sg",
-   "grounds": "qualification"
+   "grounds": "qualification of the listener"
   },
   {
    "lemma": "kuryādvyākhyānaṃ",
-   "morph": "3.sg.optative-active √kṛ",
-   "grounds": "injunction"
+   "morph": "compound: kuryāt+vyākhyānam (3.sg.optative-active + kṛ; n.acc.sg)",
+   "grounds": "teacher's duty"
   },
   {
    "lemma": "vaiṣṇavādyadhare",
-   "morph": "m.loc.sg",
-   "grounds": "excluded or lower recipient"
+   "morph": "compound: vaiṣṇava+ādi+adhare (m.loc.sg)",
+   "grounds": "possible recipient outside the lineage"
   }
  ]
 }

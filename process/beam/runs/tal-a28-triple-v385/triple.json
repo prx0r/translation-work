@@ -2,183 +2,874 @@
  "song": "Tantraloka a28",
  "items": [
   {
+   "verse": 385,
+   "rows": [
+    {
+     "surface": "akṛtvā",
+     "gloss": "without-having-done",
+     "grounds": "precedes the next rite",
+     "morph": "absolutive + kṛ"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "refers to the prior observance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācāraṃ",
+     "gloss": "observance",
+     "grounds": "ritual conduct to be completed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "punaścakraṃ",
+     "gloss": "again-the-circle",
+     "grounds": "renewed worship of the circle",
+     "morph": "compound: punaḥ+cakram (n.acc.sg)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active + pra-pūj"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vacmi",
+     "gloss": "I-speak",
+     "grounds": "authorial statement",
+     "morph": "1.sg.present-active + vac"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-the-teacher",
+     "grounds": "subject of the explanation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śāstravyākhyākramamudāhṛtam",
+     "gloss": "the-stated-order-of-scripture-explanation",
+     "grounds": "topic being introduced",
+     "morph": "compound: śāstra+vyākhyā+krama+udāhṛtam (m.acc.sg)"
+    }
+   ],
+   "question": "What should be done before the next circle worship, and what topic is introduced next?",
+   "premises": [
+    "That observance must not be left undone before worshipping the circle again.",
+    "After this, the stated order of the teacher's scripture explanation is introduced."
+   ],
+   "inference": "The rite proceeds to renewed circle worship only after completing the prior observance, and then turns to the teacher's method of explaining scripture.",
+   "uncertainties": [],
+   "plain_english": "Without omitting that observance, one should worship the circle again. Now I will speak of the stated order for the teacher's explanation of scripture."
+  },
+  {
+   "verse": 386,
+   "rows": [
+    {
+     "surface": "devyāyāmalaśāstrādau",
+     "gloss": "in-the-Devīyāmala-scripture-and-others",
+     "grounds": "scriptural source context",
+     "morph": "compound: devī+yāmala+śāstra+ādau (n.loc.sg)"
+    },
+    {
+     "surface": "tuhinābhīśumaulinā",
+     "gloss": "by-the-one-with-cool-rayed-moon-as-crest",
+     "grounds": "epithet of Śiva as speaker",
+     "morph": "compound: tuhina+abhīśu+maulinā (m.inst.sg)"
+    },
+    {
+     "surface": "kalpavittatsamūhajñaḥ",
+     "gloss": "knower-of-ritual-procedure-and-its-collections",
+     "grounds": "first level of scriptural competence",
+     "morph": "compound: kalpa+vit+tat+samūha+jñaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "śāstravitsaṃhitārthavit",
+     "gloss": "knower-of-scripture-and-knower-of-compendium-meaning",
+     "grounds": "further levels of competence",
+     "morph": "compound: śāstra+vit+saṃhitā+artha+vit (m.nom.sg)"
+    }
+   ],
+   "question": "What levels of scriptural knowledge are described in the Devīyāmala and related texts?",
+   "premises": [
+    "The Devīyāmala and related scriptures are cited as the source.",
+    "The speaker is described as the one with the cool-rayed moon as his crest.",
+    "Different levels of knowing ritual procedure, collections, scripture, and compendium meaning are distinguished."
+   ],
+   "inference": "The cited scriptures present graded levels of competence in ritual procedure and scriptural understanding.",
+   "uncertainties": [],
+   "plain_english": "In the Devīyāmala and related scriptures, the moon-crested Lord describes one who knows ritual procedure and its collections, one who knows scripture, and one who knows the meaning of the compendia."
+  },
+  {
+   "verse": 387,
+   "rows": [
+    {
+     "surface": "sarvaśāstrārthavicceti",
+     "gloss": "and-knower-of-the-meaning-of-all-scriptures",
+     "grounds": "highest level of knowledge",
+     "morph": "compound: sarva+śāstra+artha+vit+ca+iti (m.nom.sg)"
+    },
+    {
+     "surface": "gururbhinno@padiśyate",
+     "gloss": "the-teacher-is-taught-as-distinct",
+     "grounds": "classification of teachers",
+     "morph": "compound: guruḥ+bhinnaḥ+upadiśyate (m.nom.sg + 3.sg.present-passive + upa-diś)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "introduces the qualified explainer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "in-which",
+     "grounds": "specifies the scripture",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "scripture",
+     "grounds": "domain of explanation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svabhyastajñāno",
+     "gloss": "having-knowledge-well-practiced-by-himself",
+     "grounds": "qualification for explaining",
+     "morph": "compound: sva+abhyasta+jñānaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "vyākhyāṃ",
+     "gloss": "explanation",
+     "grounds": "act to be performed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "carettu",
+     "gloss": "should-carry-out",
+     "grounds": "prescriptive rule",
+     "morph": "3.sg.optative-active + car + tu"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the qualified person",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is qualified to give an explanation of a particular scripture?",
+   "premises": [
+    "Teachers are distinguished by their level of scriptural knowledge.",
+    "A knower of the meaning of all scriptures is recognized as a distinct type of teacher.",
+    "Only one whose knowledge in a given scripture is well practiced by himself should explain that scripture."
+   ],
+   "inference": "The right to explain a scripture belongs to the teacher who has personally mastered that scripture.",
+   "uncertainties": [],
+   "plain_english": "A teacher who knows the meaning of all scriptures is taught as distinct. But in any given scripture, only the one who has thoroughly mastered it himself should give the explanation."
+  },
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "prohibits unqualified explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadabhāvaścetsarvathā",
+     "gloss": "but-if-there-is-complete-absence-of-that",
+     "grounds": "exceptional circumstance",
+     "morph": "compound: tat+abhāvaḥ+cet+sarvathā"
+    },
+    {
+     "surface": "so@pyathācaret",
+     "gloss": "even-he-may-act-otherwise",
+     "grounds": "allows an exception",
+     "morph": "compound: saḥ+api+athā+caret (3.sg.optative-active + car)"
+    },
+    {
+     "surface": "śrībhairavakule",
+     "gloss": "in-the-revered-Bhairava-lineage",
+     "grounds": "scriptural authority",
+     "morph": "compound: śrī+bhairava+kule (n.loc.sg)"
+    },
+    {
+     "surface": "coktaṃ",
+     "gloss": "and-it-is-said",
+     "grounds": "citation marker",
+     "morph": "compound: ca+uktam (n.nom.sg)"
+    },
+    {
+     "surface": "kalpādijñatvamīdṛśam",
+     "gloss": "such-knowledge-of-ritual-procedure-and-so-on",
+     "grounds": "refers back to required knowledge",
+     "morph": "compound: kalpa+ādi+jñatvam+īdṛśam (n.nom.sg)"
+    }
+   ],
+   "question": "May someone explain a scripture without full mastery, and what exception is allowed?",
+   "premises": [
+    "Explanation should not be given otherwise than by one who has mastered the scripture.",
+    "If such a qualified person is completely unavailable, an exception is permitted.",
+    "The Bhairava lineage also speaks of such knowledge of ritual procedure and related matters."
+   ],
+   "inference": "Full mastery is the rule for explanation, but total absence of a qualified teacher allows a limited exception.",
+   "uncertainties": [],
+   "plain_english": "It should not be done otherwise. But if such a qualified person is entirely unavailable, even then one may act differently. In the revered Bhairava lineage, such knowledge of ritual procedure and the rest is also described."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "gurorlakṣaṇametāvatsaṃpūrṇajñānataiva",
+     "gloss": "this-much-is-the-mark-of-a-teacher-complete-knowledge-alone",
+     "grounds": "defines the teacher's essential mark",
+     "morph": "compound: guroḥ+lakṣaṇam+etāvat+saṃpūrṇa+jñānatā+eva (n.nom.sg)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "refers to complete knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatrāpi",
+     "gloss": "even-there",
+     "grounds": "introduces a further distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāsya",
+     "gloss": "of-whom",
+     "grounds": "points to the teacher's consciousness",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cidvṛttikarmibhit",
+     "gloss": "divided-by-activities-of-consciousness",
+     "grounds": "differentiates modes of awareness",
+     "morph": "compound: cit+vṛtti+karmibhiḥ (f.inst.pl)"
+    },
+    {
+     "surface": "sāpyavāntarā",
+     "gloss": "that-too-has-inner-divisions",
+     "grounds": "complete knowledge is not uniform",
+     "morph": "compound: sā+api+avāntarā (f.nom.sg)"
+    }
+   ],
+   "question": "What is the defining mark of a teacher, and is that knowledge uniform?",
+   "premises": [
+    "The essential mark of a teacher is complete knowledge.",
+    "Even complete knowledge can be differentiated by the activities of consciousness.",
+    "Therefore that knowledge admits inner divisions."
+   ],
+   "inference": "A teacher is defined by complete knowledge, but that completeness can still appear in distinct modes of consciousness.",
+   "uncertainties": [
+    "The exact sense of cidvṛttikarmibhiḥ is compressed and may refer to specific modes or functions of consciousness."
+   ],
+   "plain_english": "The mark of a teacher is simply complete knowledge. Yet even that knowledge has inner divisions, according to the differing activities of consciousness."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "devyāyāmala",
+     "gloss": "in-the-Devīyāmala",
+     "grounds": "scriptural source",
+     "morph": "compound: devī+yāmale (n.loc.sg)"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "it-is-said",
+     "grounds": "citation marker",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taddvāpañcāśāhva",
+     "gloss": "that-in-the-fifty-two-named",
+     "grounds": "locates the teaching in a section",
+     "morph": "compound: tat+dvi+pañcāśa+āhve (n.loc.sg)"
+    },
+    {
+     "surface": "āhnike",
+     "gloss": "chapter",
+     "grounds": "textual division",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "the-god",
+     "grounds": "divine teacher principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurutvena",
+     "gloss": "as-teacher",
+     "grounds": "role assumed",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tiṣṭhāsurdaśadhā",
+     "gloss": "wishing-to-stand-tenfold",
+     "grounds": "divine manifestation as ten teachers",
+     "morph": "compound: tiṣṭhāsuḥ+daśadhā (m.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting form",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "How does the Devīyāmala describe the divine principle manifesting as teacher?",
+   "premises": [
+    "The Devīyāmala is cited as the authority.",
+    "The teaching is located in the section named fifty-two.",
+    "The god, wishing to stand as teacher, becomes tenfold."
+   ],
+   "inference": "According to the Devīyāmala, the one divine teacher principle manifests in ten forms.",
+   "uncertainties": [
+    "The exact reference of dvāpañcāśāhva āhnike is text-specific and not fully clear from the verse alone."
+   ],
+   "plain_english": "In the Devīyāmala, in the section called the fifty-two, it is said that the god himself, wishing to stand as teacher, becomes tenfold."
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "ucchuṣmaśavaracaṇḍagumataṅgaghorāntakograhalahalakāḥ",
+     "gloss": "Ucchuṣma-Śavara-Caṇḍa-Gumataṅga-Ghora-Antaka-Ugra-Hala-Halaka",
+     "grounds": "names of the ten teachers",
+     "morph": "compound: list of names (m.nom.pl)"
+    },
+    {
+     "surface": "krodhī",
+     "gloss": "Krodhin",
+     "grounds": "ninth or included fierce teacher name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "huluhulurete",
+     "gloss": "Huluhulu-these",
+     "grounds": "completes the list of ten",
+     "morph": "compound: huluhuluḥ+ete (m.nom.sg + m.nom.pl)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "total number",
+     "morph": "indeclinable numeral"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "identified figures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śivamayāḥ",
+     "gloss": "consisting-of-Śiva",
+     "grounds": "their essential nature",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "the-ancient-ones",
+     "grounds": "primordial teachers",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the ten primordial teachers described as manifestations of Śiva?",
+   "premises": [
+    "The verse lists a series of named figures.",
+    "These figures are counted as ten teachers.",
+    "They are described as ancient and consisting of Śiva."
+   ],
+   "inference": "The ten named primordial teachers are manifestations whose nature is Śiva.",
+   "uncertainties": [
+    "The exact segmentation of the long name compound may vary in different editions."
+   ],
+   "plain_english": "Ucchuṣma, Śavara, Caṇḍa, Gumataṅga, Ghora, Antaka, Ugra, Hala, Halaka, Krodhin, and Huluhulu—these are the ten ancient teachers, all consisting of Śiva."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "the ten teachers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svāṃśacittavṛttikrameṇa",
+     "gloss": "by-the-sequence-of-their-own-partial-consciousness-activities",
+     "grounds": "mode of manifestation",
+     "morph": "compound: sva+aṃśa+citta+vṛtti+krameṇa (m.inst.sg)"
+    },
+    {
+     "surface": "pauruṣaśarīramāsthāya",
+     "gloss": "having-assumed-a-human-body",
+     "grounds": "embodied manifestation",
+     "morph": "compound: pauruṣa+śarīram+āsthāya (absolutive + ā-sthā)"
+    },
+    {
+     "surface": "anyonyabhinnasaṃvitkriyā",
+     "gloss": "with-consciousness-and-activity-different-from-one-another",
+     "grounds": "their distinct expressions",
+     "morph": "compound: anyonya+bhinna+saṃvit+kriyāḥ (m.nom.pl)"
+    },
+    {
+     "surface": "api",
+     "gloss": "although",
+     "grounds": "concessive force",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānaparipūrṇāḥ",
+     "gloss": "full-of-knowledge",
+     "grounds": "their shared completeness",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How can the ten teachers differ in expression while remaining fully endowed with knowledge?",
+   "premises": [
+    "The teachers manifest through the sequence of their own partial consciousness activities.",
+    "They assume human bodies.",
+    "Their consciousness and activity differ from one another, yet they remain full of knowledge."
+   ],
+   "inference": "The ten teachers appear as distinct embodied modes of consciousness while sharing complete knowledge.",
+   "uncertainties": [],
+   "plain_english": "By the sequence of their own partial modes of consciousness, they assume human bodies. Though their awareness and activity differ from one another, they are all full of knowledge."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "sarve@limāṃsanidhuvanadīkṣārcanaśāstrasevane",
+     "gloss": "all-in-service-to-meat-wine-union-initiation-worship-and-scripture",
+     "grounds": "shared ritual orientation",
+     "morph": "compound: sarve+ali+māṃsa+nidhuvana+dīkṣā+arcana+śāstra+sevane (n.loc.sg)"
+    },
+    {
+     "surface": "niratāḥ",
+     "gloss": "engaged",
+     "grounds": "their common dedication",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "abhimānaśamakrodhakṣamādiravāntaro",
+     "gloss": "inner-difference-such-as-pride-calm-anger-and-forbearance",
+     "grounds": "their temperamental distinctions",
+     "morph": "compound: abhimāna+śama+krodha+kṣamā+ādiḥ+avāntaraḥ (m.nom.sg)"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "variation among them",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What do the ten teachers share, and in what way do they differ?",
+   "premises": [
+    "All the teachers are engaged in the same range of ritual and scriptural practices.",
+    "They differ inwardly in qualities such as pride, calm, anger, and forbearance."
+   ],
+   "inference": "The teachers share a common ritual life but differ in inner temperament.",
+   "uncertainties": [
+    "The compound listing ritual elements is dense; the exact nuance of nidhuvana in this context is transmitted by the tradition."
+   ],
+   "plain_english": "All of them are devoted to the service of meat, wine, union, initiation, worship, and scripture. Their inner difference lies in qualities such as pride, calm, anger, and forbearance."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the preceding teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñāya",
+     "gloss": "having-understood",
+     "grounds": "prerequisite for the student",
+     "morph": "absolutive + vi-jñā"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "ongoing disposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "the-student",
+     "grounds": "agent of the request",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sampūrṇaśāstraboddhāram",
+     "gloss": "the-knower-of-the-complete-scripture",
+     "grounds": "qualified teacher to be approached",
+     "morph": "compound: sampūrṇa+śāstra+boddhāram (m.acc.sg)"
+    },
+    {
+     "surface": "vyākhyāyai",
+     "gloss": "for-explanation",
+     "grounds": "purpose of the request",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "gurumabhyarthayeta",
+     "gloss": "should-request-the-teacher",
+     "grounds": "prescribed action",
+     "morph": "compound: gurum+abhyarthayeta (3.sg.optative-middle + abhi-arth)"
+    },
+    {
+     "surface": "pūjāpuraḥsaraṃ",
+     "gloss": "with-worship-beforehand",
+     "grounds": "proper manner of request",
+     "morph": "compound: pūjā+puraḥsaram (indecl./adverbial)"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "the-wise-one",
+     "grounds": "quality of the student",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should a student seek scriptural explanation from a qualified teacher?",
+   "premises": [
+    "The student should understand the preceding distinctions about teachers.",
+    "The teacher approached must be a knower of the complete scripture.",
+    "The request for explanation should be made with worship beforehand."
+   ],
+   "inference": "A wise student should respectfully request explanation from a fully qualified teacher, preceded by worship.",
+   "uncertainties": [],
+   "plain_english": "Having understood this, the wise student should always request a teacher who knows the complete scripture to give an explanation, doing so with worship beforehand."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "so@pi",
+     "gloss": "he-too",
+     "grounds": "the teacher in turn",
+     "morph": "compound: saḥ+api (m.nom.sg)"
+    },
+    {
+     "surface": "svaśāsanīye",
+     "gloss": "to-one-under-his-own-discipline",
+     "grounds": "primary recipient",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paraśiṣye@pivāpi",
+     "gloss": "or-even-to-another's-student",
+     "grounds": "secondary recipient",
+     "morph": "compound: para+śiṣye+api+vā+api (m.loc.sg)"
+    },
+    {
+     "surface": "tādṛśaṃ",
+     "gloss": "such",
+     "grounds": "the appropriate scripture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śāstram",
+     "gloss": "scripture",
+     "grounds": "object of explanation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrotuṃ",
+     "gloss": "to-hear",
+     "grounds": "readiness of the listener",
+     "morph": "infinitive + śru"
+    },
+    {
+     "surface": "yogye",
+     "gloss": "to-one-fit",
+     "grounds": "qualification of the listener",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuryādvyākhyānaṃ",
+     "gloss": "should-give-explanation",
+     "grounds": "teacher's duty",
+     "morph": "compound: kuryāt+vyākhyānam (3.sg.optative-active + kṛ; n.acc.sg)"
+    },
+    {
+     "surface": "vaiṣṇavādyadhare",
+     "gloss": "even-to-a-Vaiṣṇava-or-other-lower-adherent",
+     "grounds": "possible recipient outside the lineage",
+     "morph": "compound: vaiṣṇava+ādi+adhare (m.loc.sg)"
+    }
+   ],
+   "question": "To whom may a qualified teacher give scriptural explanation?",
+   "premises": [
+    "The teacher may explain to his own student or even to another's student.",
+    "The listener must be fit to hear that scripture.",
+    "Explanation may even be given to a Vaiṣṇava or other lower adherent if fit."
+   ],
+   "inference": "A teacher should explain scripture to any listener who is properly qualified, whether inside or outside his immediate circle.",
+   "uncertainties": [
+    "The term adhare may indicate a lower doctrinal position rather than a moral judgment."
+   ],
+   "plain_english": "The teacher should give an explanation of such a scripture to his own student, or even to another's student, if the person is fit to hear it—even to a Vaiṣṇava or someone of a lower affiliation."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "karuṇārasaparipūrṇo",
+     "gloss": "filled-with-the-essence-of-compassion",
+     "grounds": "teacher's inner disposition",
+     "morph": "compound: karuṇā+rasa+paripūrṇaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "the-teacher",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punarmarmadhāmaparivarjam",
+     "gloss": "again-avoiding-the-vital-secret-places",
+     "grounds": "restriction on what is explained",
+     "morph": "compound: punaḥ+marma+dhāma+parivarjam (indecl./adverbial)"
+    },
+    {
+     "surface": "adhame@pi",
+     "gloss": "even-to-a-low-person",
+     "grounds": "possible recipient",
+     "morph": "compound: adhame+api (m.loc.sg)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyākuryātsambhāvya",
+     "gloss": "may-explain-having-considered",
+     "grounds": "conditional permission",
+     "morph": "compound: vyākuryāt+sambhāvya (3.sg.optative-active + vi-ā-kṛ; absolutive + sam-bhū)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "reason marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktipātavaicitryam",
+     "gloss": "the-variety-of-the-descent-of-power",
+     "grounds": "reason for compassionate flexibility",
+     "morph": "compound: śakti+pāta+vaicitryam (n.acc.sg)"
+    }
+   ],
+   "question": "Why might a compassionate teacher explain even to a low recipient, and with what restriction?",
+   "premises": [
+    "A teacher may be filled with compassion.",
+    "Even a low recipient might receive explanation if the teacher considers the situation.",
+    "The vital secret places must be avoided.",
+    "The descent of power varies in different beings."
+   ],
+   "inference": "Compassion may lead a teacher to explain even to a low recipient, but only while withholding the most secret teachings, because grace manifests unpredictably.",
+   "uncertainties": [],
+   "plain_english": "A teacher filled with compassion may explain even to a low person, while avoiding the vital secret matters, because the descent of power can occur in many different ways."
+  },
+  {
    "verse": 397,
    "rows": [
     {
      "surface": "liptāyāṃ",
-     "gloss": "on-smeared",
-     "grounds": "prepared ground",
+     "gloss": "on-a-smeared",
+     "grounds": "prepared ritual surface",
      "morph": "f.loc.sg"
     },
     {
      "surface": "bhuvi",
-     "gloss": "on-ground",
-     "grounds": "place of ritual",
+     "gloss": "ground",
+     "grounds": "place of the rite",
      "morph": "f.loc.sg"
     },
     {
      "surface": "pīṭhe",
-     "gloss": "on-seat",
+     "gloss": "on-a-seat",
      "grounds": "ritual platform",
      "morph": "n.loc.sg"
     },
     {
      "surface": "caturasre",
-     "gloss": "four-cornered",
-     "grounds": "shape of seat",
+     "gloss": "square",
+     "grounds": "shape of the seat",
      "morph": "n.loc.sg"
     },
     {
      "surface": "paṅkajatrayaṃ",
-     "gloss": "lotus-triad",
-     "grounds": "three lotuses",
-     "morph": "n.acc.sg, compound"
+     "gloss": "three-lotuses",
+     "grounds": "diagram to be made",
+     "morph": "compound: paṅkaja+trayam (n.acc.sg)"
     },
     {
      "surface": "kajage",
-     "gloss": "on-lotus-born",
-     "grounds": "on the lotus",
-     "morph": "n.loc.sg, compound"
+     "gloss": "on-the-lotus-born",
+     "grounds": "location for the knowledge seat",
+     "morph": "compound: kaja+ge (n.loc.sg)"
     },
     {
      "surface": "kuryādvidyāpīṭhaṃ",
-     "gloss": "should-make-knowledge-seat",
-     "grounds": "ritual instruction",
-     "morph": "3.sg.opt.act √kṛ + n.acc.sg, compound"
+     "gloss": "one-should-make-the-seat-of-knowledge",
+     "grounds": "ritual construction",
+     "morph": "compound: kuryāt+vidyā+pīṭham (3.sg.optative-active + kṛ; n.acc.sg)"
     },
     {
      "surface": "syādrasavahnyaṅgulaṃ",
-     "gloss": "should-be-six-fire-finger-measure",
-     "grounds": "size specification",
-     "morph": "3.sg.opt.act √as + n.nom.sg, compound"
+     "gloss": "it-should-be-six-fire-fingers",
+     "grounds": "measurement of the seat",
+     "morph": "compound: syāt+rasa+vahni+aṅgulam (3.sg.optative-active + as; n.nom.sg)"
     },
     {
      "surface": "tvetat",
      "gloss": "and-this",
-     "grounds": "refers to seat",
-     "morph": "(indecl.) + n.nom.sg"
+     "grounds": "refers to the measurement",
+     "morph": "compound: tu+etat (n.nom.sg)"
     }
    ],
-   "question": "How should the knowledge-seat be prepared for the scripture explanation?",
+   "question": "How should the ritual seat for scripture explanation be prepared?",
    "premises": [
-    "The ritual takes place on a smeared, four-cornered ground used as a seat.",
-    "A triad of lotuses is arranged to form the knowledge-seat.",
-    "The knowledge-seat should measure six finger-breadths."
+    "The rite takes place on a smeared, square seat on the ground.",
+    "Three lotuses are to be made.",
+    "On the lotus-born seat, a seat of knowledge should be made with a specified measure."
    ],
-   "inference": "The teacher should construct a six-finger-breadth knowledge-seat made of three lotuses on a prepared four-cornered ground.",
+   "inference": "The explanation rite begins with a carefully prepared square platform bearing three lotuses and a measured seat of knowledge.",
    "uncertainties": [
-    "The exact interpretation of rasavahnyaṅgulaṃ as six finger-breadths follows a common numerical code but is not explicit in the verse."
+    "The numerical expression rasavahnyaṅgulaṃ follows traditional number symbolism; the exact count is interpreted as six and three in that order."
    ],
-   "plain_english": "On a smeared, four-cornered ground, one should make a knowledge-seat consisting of three lotuses. This seat should measure six finger-breadths."
+   "plain_english": "On a smeared, square seat on the ground, one should make three lotuses. On the lotus, one should make the seat of knowledge, measuring six and three finger-widths."
   },
   {
    "verse": 398,
    "rows": [
     {
      "surface": "madhye",
-     "gloss": "in-middle",
+     "gloss": "in-the-middle",
      "grounds": "central position",
      "morph": "n.loc.sg"
     },
     {
      "surface": "vāgīśānīṃ",
-     "gloss": "Lady-of-Speech",
-     "grounds": "deity worshipped",
+     "gloss": "Vāgīśānī",
+     "grounds": "goddess of speech",
      "morph": "f.acc.sg"
     },
     {
      "surface": "dakṣottarayorgurūngaṇeśaṃ",
-     "gloss": "in-south-north-teachers-and-Ganesha",
-     "grounds": "deities in side positions",
-     "morph": "n.loc.du + m.acc.pl + m.acc.sg, compound"
+     "gloss": "on-the-south-and-north-the-teachers-and-Gaṇeśa",
+     "grounds": "placement of deities",
+     "morph": "compound: dakṣa+uttarayoḥ+gurūn+gaṇeśam (m.acc.pl + m.acc.sg)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connects items",
+     "grounds": "connects placements",
      "morph": "(indecl.)"
     },
     {
      "surface": "adhare",
-     "gloss": "in-lower",
+     "gloss": "on-the-lower",
      "grounds": "lower lotus position",
      "morph": "n.loc.sg"
     },
     {
      "surface": "kaje",
-     "gloss": "in-lotus",
-     "grounds": "lotus seat",
+     "gloss": "lotus",
+     "grounds": "ritual support",
      "morph": "n.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "adds item",
+     "grounds": "adds another placement",
      "morph": "(indecl.)"
     },
     {
      "surface": "kalpeśvaraṃ",
-     "gloss": "Lord-of-the-ritual-tradition",
-     "grounds": "deity worshipped",
-     "morph": "m.acc.sg, compound"
+     "gloss": "the-lord-of-the-ritual-tradition",
+     "grounds": "deity to be worshipped below",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "prapūjyārghapuṣpatarpaṇakaiḥ",
-     "gloss": "having-worshipped-with-offering-flower-libations",
+     "gloss": "having-worshipped-with-offering-water-flowers-and-libations",
      "grounds": "mode of worship",
-     "morph": "absolutive + n.ins.pl, compound"
+     "morph": "compound: prapūjya+argha+puṣpa+tarpaṇakaiḥ (absolutive + pra-pūj; n.inst.pl)"
     }
    ],
-   "question": "Which deities should be worshipped on the three lotuses before the explanation?",
+   "question": "Which deities are worshipped on the prepared lotuses before the explanation?",
    "premises": [
-    "The Lady of Speech is worshipped in the middle lotus.",
-    "The teachers and Ganesha are worshipped in the south and north positions.",
-    "The Lord of the ritual tradition is worshipped in the lower lotus with offerings, flowers, and libations."
+    "Vāgīśānī is placed in the middle.",
+    "The teachers and Gaṇeśa are placed on the south and north.",
+    "The lord of the ritual tradition is worshipped on the lower lotus with offerings."
    ],
-   "inference": "Before the explanation, the teacher should worship the Lady of Speech, the teachers, Ganesha, and the Lord of the ritual tradition in their assigned lotus positions.",
-   "uncertainties": [
-    "The exact distribution of teachers and Ganesha between the south and north positions is not fully specified."
-   ],
-   "plain_english": "In the middle lotus one should worship the Lady of Speech, in the south and north the teachers and Ganesha, and in the lower lotus the Lord of the ritual tradition, using offerings, flowers, and libations."
+   "inference": "The ritual seat is consecrated by worshipping Vāgīśānī, the teachers, Gaṇeśa, and the lord of the ritual tradition with appropriate offerings.",
+   "uncertainties": [],
+   "plain_english": "In the middle one should worship Vāgīśānī; on the south and north, the teachers and Gaṇeśa; and on the lower lotus, the lord of the ritual tradition, using offering water, flowers, and libations."
   },
   {
    "verse": 399,
    "rows": [
     {
      "surface": "sāmānyavidhiniyuktārghapātrayogena",
-     "gloss": "by-use-of-offering-vessel-appointed-by-general-rule",
-     "grounds": "ritual procedure",
-     "morph": "m.ins.sg, compound"
+     "gloss": "by-the-use-of-the-offering-vessel-employed-in-the-general-rite",
+     "grounds": "ritual method",
+     "morph": "compound: sāmānya+vidhi+niyukta+argha+pātra+yogena (m.inst.sg)"
     },
     {
      "surface": "cakramatha",
-     "gloss": "the-circle-then",
-     "grounds": "assembly of deities or participants",
-     "morph": "n.acc.sg + (indecl.)"
+     "gloss": "then-the-circle",
+     "grounds": "object of worship",
+     "morph": "compound: cakram+atha (n.acc.sg)"
     },
     {
      "surface": "samyak",
      "gloss": "properly",
-     "grounds": "manner of action",
+     "grounds": "correct performance",
      "morph": "(indecl.)"
     },
     {
      "surface": "santarpya",
      "gloss": "having-satisfied",
-     "grounds": "ritual act",
-     "morph": "absolutive √tṛp"
+     "grounds": "completion of worship",
+     "morph": "absolutive + sam-tṛp"
     },
     {
      "surface": "vyākhyānaṃ",
      "gloss": "explanation",
-     "grounds": "scripture teaching",
+     "grounds": "main act",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kuryātsambandhapūrvakaṃ",
      "gloss": "should-make-preceded-by-connection",
      "grounds": "method of explanation",
-     "morph": "3.sg.opt.act √kṛ + n.acc.sg, compound"
+     "morph": "compound: kuryāt+sambandha+pūrvakam (3.sg.optative-active + kṛ; n.acc.sg)"
     },
     {
      "surface": "matimān",
@@ -187,267 +878,261 @@
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What should the wise teacher do before beginning the scripture explanation?",
+   "question": "What must the teacher do immediately before beginning the scriptural explanation?",
    "premises": [
-    "The offering vessel is used according to the general rule.",
-    "The circle is properly satisfied through that ritual procedure.",
-    "The explanation should begin with a statement of connection."
+    "The offering vessel is used according to the general rite.",
+    "The circle must be properly satisfied.",
+    "The explanation must begin with a statement of connection."
    ],
-   "inference": "After satisfying the circle with the prescribed offering vessel, the wise teacher should begin the explanation by establishing its connection.",
-   "uncertainties": [
-    "Whether cakra refers to a deity circle, a ritual circle, or an assembly of participants is not explicit."
-   ],
-   "plain_english": "Using the offering vessel as prescribed by the general rule, the wise teacher should properly satisfy the circle and then give the explanation, beginning with the proper connection."
+   "inference": "After properly satisfying the circle through the general rite, the wise teacher should begin the explanation by establishing its connection.",
+   "uncertainties": [],
+   "plain_english": "Using the offering vessel as in the general rite, the wise teacher should properly satisfy the circle and then give the explanation, beginning with the proper connection."
   },
   {
    "verse": 400,
    "rows": [
     {
      "surface": "sūtrapadavākyapaṭalagranthakramayojanena",
-     "gloss": "by-joining-the-order-of-aphorism-word-sentence-chapter-text",
-     "grounds": "method of textual connection",
-     "morph": "n.ins.sg, compound"
+     "gloss": "by-joining-in-order-aphorism-word-sentence-chapter-and-text",
+     "grounds": "levels of textual connection",
+     "morph": "compound: sūtra+pada+vākya+paṭala+grantha+krama+yojanena (n.inst.sg)"
     },
     {
      "surface": "sambandhāt",
      "gloss": "through-connection",
-     "grounds": "basis of explanation",
+     "grounds": "principle of coherence",
      "morph": "m.abl.sg"
     },
     {
      "surface": "avyāhatapūrvāparamupavṛhya",
-     "gloss": "having-supported-unbroken-prior-and-later",
-     "grounds": "coherent exposition",
-     "morph": "absolutive, compound"
+     "gloss": "having-supported-what-is-unbroken-before-and-after",
+     "grounds": "maintaining continuity",
+     "morph": "compound: avyāhata+pūrva+aparam+upavṛhya (absolutive + upa-vṛh)"
     },
     {
      "surface": "nayeta",
      "gloss": "one-should-lead",
-     "grounds": "instructional action",
-     "morph": "3.sg.opt.act √nī"
+     "grounds": "method of exposition",
+     "morph": "3.sg.optative-active + nī"
     },
     {
      "surface": "vākyāni",
      "gloss": "the-sentences",
-     "grounds": "units of explanation",
+     "grounds": "units being explained",
      "morph": "n.acc.pl"
     }
    ],
-   "question": "How should the teacher connect and present the sentences of the text?",
+   "question": "How should the teacher connect and present the text during explanation?",
    "premises": [
-    "The explanation should join aphorisms, words, sentences, chapters, and the whole text in order.",
-    "This ordered joining establishes the connection of the teaching.",
-    "The prior and later parts must remain unbroken and mutually supportive."
+    "Explanation must join aphorism, word, sentence, chapter, and text in order.",
+    "The connection between earlier and later parts must remain unbroken.",
+    "The sentences should be led forward on that basis."
    ],
-   "inference": "The teacher should present the sentences by maintaining a coherent connection across all levels of the text from earlier to later parts.",
+   "inference": "The teacher should expound the text by maintaining coherent connections across all textual levels without breaking the sequence of meaning.",
    "uncertainties": [],
-   "plain_english": "By connecting aphorisms, words, sentences, chapters, and the whole text in proper order, the teacher should present the sentences so that earlier and later parts support each other without contradiction."
+   "plain_english": "By connecting aphorism, word, sentence, chapter, and the whole text in order, and by supporting an unbroken link between what comes before and after, one should lead the sentences forward."
   },
   {
    "verse": 401,
    "rows": [
     {
      "surface": "maṇḍūkaplavasiṃhāvalokanādyairyathāyathaṃ",
-     "gloss": "by-frog-leap-lion-glance-and-others-as-appropriate",
+     "gloss": "by-frog-leap-lion-glance-and-so-on-as-appropriate",
      "grounds": "exegetical methods",
-     "morph": "m.ins.pl, compound"
+     "morph": "compound: maṇḍūka+plava+siṃha+avalokana+ādyaiḥ+yathāyatham (m.inst.pl)"
     },
     {
      "surface": "nyāyaiḥ",
-     "gloss": "by-methods",
-     "grounds": "principles of interpretation",
-     "morph": "m.ins.pl"
+     "gloss": "by-principles",
+     "grounds": "interpretive rules",
+     "morph": "m.inst.pl"
     },
     {
      "surface": "avihatapūrvāparakaṃ",
-     "gloss": "with-unbroken-prior-and-later",
-     "grounds": "coherent meaning",
-     "morph": "m.acc.sg, compound"
+     "gloss": "with-before-and-after-unharmed",
+     "grounds": "preserves coherence",
+     "morph": "compound: avihata+pūrva+aparakam (m.acc.sg)"
     },
     {
      "surface": "śāstrārthaṃ",
      "gloss": "the-meaning-of-the-scripture",
-     "grounds": "object of explanation",
-     "morph": "m.acc.sg, compound"
+     "grounds": "object of interpretation",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "yojayedasaṅkīrṇam",
-     "gloss": "one-should-apply-unmixed",
+     "gloss": "one-should-apply-it-unmixed",
      "grounds": "clear interpretation",
-     "morph": "3.sg.opt.act √yuj + m.acc.sg, compound"
+     "morph": "compound: yojayet+asaṅkīrṇam (3.sg.optative-active + yuj; m.acc.sg)"
     }
    ],
-   "question": "By what interpretive methods should the meaning of the scripture be applied?",
+   "question": "What interpretive principles should guide the explanation of scriptural meaning?",
    "premises": [
-    "Methods such as the frog-leap and the lion-glance may be used as appropriate.",
-    "The meaning must preserve the continuity of earlier and later parts.",
-    "The interpretation should remain unmixed and clear."
+    "Methods such as the frog-leap and lion-glance may be used as appropriate.",
+    "The relation between earlier and later meaning must not be harmed.",
+    "The meaning of the scripture should be presented without confusion."
    ],
-   "inference": "The teacher should apply suitable interpretive methods to present the scripture's meaning coherently and without confusion.",
+   "inference": "The teacher should use established interpretive methods flexibly while preserving coherence and keeping the scriptural meaning clear and unmixed.",
    "uncertainties": [
-    "The precise technical scope of maṇḍūkaplava and siṃhāvalokana is assumed from common exegetical usage."
+    "The technical names of the interpretive methods are traditional exegetical terms."
    ],
-   "plain_english": "Using methods such as the frog-leap and the lion-glance as appropriate, the teacher should present the meaning of the scripture so that earlier and later parts remain coherent and the interpretation stays clear and unmixed."
+   "plain_english": "Using principles such as the frog-leap and the lion-glance as appropriate, one should present the meaning of the scripture clearly, without mixing it up and without breaking the link between what comes before and after."
   },
   {
    "verse": 402,
    "rows": [
     {
      "surface": "tantrāvartanabādhaprasaṅgatarkādibhiśca",
-     "gloss": "and-by-repetition-contradiction-relevance-reasoning-and-others",
-     "grounds": "logical tools",
-     "morph": "m.ins.pl, compound"
+     "gloss": "and-by-repetition-contradiction-unwanted-consequence-reasoning-and-so-on",
+     "grounds": "logical tools of explanation",
+     "morph": "compound: tantra+āvartana+bādha+prasaṅga+tarka+ādibhiḥ+ca (m.inst.pl)"
     },
     {
      "surface": "sannyāyaiḥ",
-     "gloss": "by-sound-methods",
+     "gloss": "by-sound-principles",
      "grounds": "valid reasoning",
-     "morph": "m.ins.pl, compound"
+     "morph": "m.inst.pl"
     },
     {
      "surface": "vastu",
      "gloss": "the-subject-matter",
-     "grounds": "topic explained",
+     "grounds": "what is being explained",
      "morph": "n.acc.sg"
     },
     {
      "surface": "vadedvākyajño",
-     "gloss": "should-speak-the-sentence-knower",
+     "gloss": "one-skilled-in-sentences-should-state",
      "grounds": "qualified explainer",
-     "morph": "3.sg.opt.act √vad + m.nom.sg, compound"
+     "morph": "compound: vadet+vākya+jñaḥ (3.sg.optative-active + vad; m.nom.sg)"
     },
     {
      "surface": "vastvantarato",
      "gloss": "from-other-subject-matter",
-     "grounds": "distinction of topics",
-     "morph": "n.abl.sg, compound"
+     "grounds": "source of confusion",
+     "morph": "compound: vastu+antarataḥ (indecl.)"
     },
     {
      "surface": "viviktatāṃ",
      "gloss": "distinctness",
-     "grounds": "clarity of boundaries",
+     "grounds": "clarity of meaning",
      "morph": "f.acc.sg"
     },
     {
      "surface": "vidadhat",
      "gloss": "establishing",
-     "grounds": "act of clarification",
-     "morph": "m.nom.sg.pres.part.act √dhā"
+     "grounds": "result of good explanation",
+     "morph": "m.nom.sg present-participle + vi-dhā"
     }
    ],
-   "question": "How should a skilled explainer present the subject matter using reasoning?",
+   "question": "How should a skilled explainer use reasoning to clarify the subject matter?",
    "premises": [
-    "The explainer should use sound methods such as repetition, avoidance of contradiction, relevance, and reasoning.",
-    "The subject matter must be clearly distinguished from other subject matters.",
-    "The speaker must be skilled in understanding sentences."
+    "The explainer should be skilled in understanding sentences.",
+    "Reasoning tools include repetition, contradiction, unwanted consequence, and inference.",
+    "The subject matter must be kept distinct from other topics."
    ],
-   "inference": "A skilled explainer should present the subject matter through sound reasoning while clearly distinguishing it from other topics.",
-   "uncertainties": [
-    "The technical force of tantrāvartana in this exegetical context may carry more specific scholastic nuance."
-   ],
-   "plain_english": "A person skilled in sentences should explain the subject matter using sound methods such as repetition, avoidance of contradiction, relevance, and reasoning, while clearly distinguishing it from other topics."
+   "inference": "A skilled explainer should use sound reasoning to present the subject clearly and distinguish it from unrelated matters.",
+   "uncertainties": [],
+   "plain_english": "One who understands sentences should explain the subject using sound reasoning—such as repetition, contradiction, unwanted consequence, and inference—while keeping it clearly distinct from other matters."
   },
   {
    "verse": 403,
    "rows": [
     {
      "surface": "yadyadvyāhṛtipadavīmāyāti",
-     "gloss": "whatever-comes-into-the-path-of-expression",
-     "grounds": "point under discussion",
-     "morph": "n.nom.sg + f.acc.sg + 3.sg.pres.act √yā, compound"
+     "gloss": "whatever-comes-into-the-range-of-expression",
+     "grounds": "any point raised in explanation",
+     "morph": "compound: yat+yat+vyāhṛti+padavīm+āyāti (3.sg.present-active + ā-yā)"
     },
     {
      "surface": "tadeva",
      "gloss": "that-very-thing",
-     "grounds": "focus of argument",
-     "morph": "n.acc.sg + (indecl.)"
+     "grounds": "focus of support",
+     "morph": "compound: tat+eva (n.acc.sg)"
     },
     {
      "surface": "dṛḍhatarairnyāyaiḥ",
-     "gloss": "with-very-firm-methods",
+     "gloss": "with-very-firm-principles",
      "grounds": "strong reasoning",
-     "morph": "m.ins.pl, compound"
+     "morph": "compound: dṛḍhataraiḥ+nyāyaiḥ (m.inst.pl)"
     },
     {
      "surface": "balavatkuryāddūṣyaṃ",
-     "gloss": "one-should-make-strong-the-objectionable-point",
-     "grounds": "handling of critique",
-     "morph": "3.sg.opt.act √kṛ + n.acc.sg, compound"
+     "gloss": "one-should-strengthen-what-is-to-be-refuted",
+     "grounds": "method of fair argument",
+     "morph": "compound: balavat+kuryāt+dūṣyam (3.sg.optative-active + kṛ; n.acc.sg)"
     },
     {
      "surface": "yadyapyagre",
      "gloss": "even-if-later",
-     "grounds": "future discussion",
-     "morph": "(indecl.) + n.loc.sg"
+     "grounds": "future refutation",
+     "morph": "compound: yadyapi+agre (indecl.)"
     },
     {
      "surface": "bhaviṣyatsyāt",
-     "gloss": "it-may-be-future",
-     "grounds": "anticipated issue",
-     "morph": "n.nom.sg.fut.part √bhū + 3.sg.opt.act √as"
+     "gloss": "it-will-be",
+     "grounds": "anticipated objection",
+     "morph": "compound: bhaviṣyat+syāt (n.nom.sg + 3.sg.optative-active + as)"
     }
    ],
-   "question": "How should the teacher handle points that arise or may later be criticized?",
+   "question": "How should an explainer treat a position that will later be refuted?",
    "premises": [
-    "Any point that enters the discussion becomes a focus of explanation.",
-    "Such a point should be supported with very firm reasoning.",
-    "Even a point that may be criticized later should be addressed strongly."
+    "Any point that enters the explanation must be addressed.",
+    "Even a position to be refuted later should be stated strongly.",
+    "Firm reasoning should be used in presenting it."
    ],
-   "inference": "The teacher should proactively strengthen every point under discussion with firm reasoning, including those vulnerable to later criticism.",
-   "uncertainties": [
-    "The phrase balavatkuryāddūṣyaṃ is syntactically compressed and could also suggest strengthening a point against what is objectionable."
-   ],
-   "plain_english": "Whatever point comes up in the explanation should be supported with very firm reasoning, even if it may become open to criticism later."
+   "inference": "A fair explanation strengthens even the opposing position before refuting it later.",
+   "uncertainties": [],
+   "plain_english": "Whatever point comes up in the explanation should be supported with very firm reasoning, even if it is something that will later be refuted."
   },
   {
    "verse": 404,
    "rows": [
     {
      "surface": "dṛḍharacitapūrvapakṣaproddharaṇapathena",
-     "gloss": "by-the-path-of-raising-a-firmly-formed-opposing-view",
-     "grounds": "method of argument",
-     "morph": "m.ins.sg, compound"
+     "gloss": "by-the-method-of-raising-a-firmly-formed-prior-view",
+     "grounds": "structured argument",
+     "morph": "compound: dṛḍha+racita+pūrva+pakṣa+proddharaṇa+pathena (m.inst.sg)"
     },
     {
      "surface": "vastu",
      "gloss": "the-subject-matter",
-     "grounds": "topic to be taught",
+     "grounds": "what is taught",
      "morph": "n.nom.sg"
     },
     {
      "surface": "yadvācyam",
-     "gloss": "which-is-to-be-spoken",
-     "grounds": "teaching content",
-     "morph": "n.nom.sg, compound"
+     "gloss": "which-is-to-be-stated",
+     "grounds": "intended teaching",
+     "morph": "compound: yat+vācyam (n.nom.sg)"
     },
     {
      "surface": "śiṣyamatāvārohati",
-     "gloss": "enters-the-student's-understanding",
-     "grounds": "successful comprehension",
-     "morph": "n.loc.sg + 3.sg.pres.act √ruh, compound"
+     "gloss": "enters-the-student's-mind",
+     "grounds": "successful understanding",
+     "morph": "compound: śiṣya+mate+ārohati (3.sg.present-active + ā-ruh)"
     },
     {
      "surface": "tadāśu",
      "gloss": "then-quickly",
      "grounds": "immediate result",
-     "morph": "(indecl.) + (indecl.)"
+     "morph": "compound: tadā+āśu (indecl.)"
     },
     {
      "surface": "saṃśayaviparyayairvikalam",
      "gloss": "free-from-doubt-and-error",
      "grounds": "clarity of understanding",
-     "morph": "m.ins.pl + n.nom.sg, compound"
+     "morph": "compound: saṃśaya+viparyayaiḥ+vikalam (n.nom.sg)"
     }
    ],
-   "question": "How does the teaching become quickly clear and free from doubt in the student?",
+   "question": "How does presenting a strong prior view help the student understand the teaching?",
    "premises": [
-    "The teacher presents the subject by firmly stating and then resolving an opposing view.",
-    "When the teaching enters the student's understanding, it does so effectively.",
-    "The resulting understanding is free from doubt and error."
+    "The prior view should be firmly formed and then raised for examination.",
+    "The subject matter to be taught is presented through this method.",
+    "When taught this way, it enters the student's mind quickly."
    ],
-   "inference": "By raising and resolving a strong opposing view, the teacher enables the student to grasp the subject quickly without doubt or error.",
+   "inference": "A well-structured presentation of the prior view leads the student to grasp the teaching quickly, without doubt or error.",
    "uncertainties": [],
-   "plain_english": "When the subject is explained by first setting out and then resolving a firmly stated opposing view, it quickly enters the student's mind free from doubt and error."
+   "plain_english": "When the subject is taught by first setting out a firmly formed prior view and then resolving it, it quickly enters the student's mind, free from doubt and misunderstanding."
   },
   {
    "verse": 405,
@@ -460,20 +1145,20 @@
     },
     {
      "surface": "nyāyo",
-     "gloss": "method",
-     "grounds": "reasoning approach",
+     "gloss": "reasoning",
+     "grounds": "method of argument",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vādo",
-     "gloss": "discussion-style",
+     "gloss": "discussion",
      "grounds": "form of discourse",
      "morph": "m.nom.sg"
     },
     {
      "surface": "layaḥ",
-     "gloss": "pace",
-     "grounds": "rhythm of delivery",
+     "gloss": "absorption",
+     "grounds": "manner of engagement",
      "morph": "m.nom.sg"
     },
     {
@@ -485,172 +1170,170 @@
     {
      "surface": "yadyadeti",
      "gloss": "whatever-becomes",
-     "grounds": "adaptive choice",
-     "morph": "n.nom.sg + 3.sg.pres.act √i"
+     "grounds": "adaptive means",
+     "morph": "compound: yat+yat+eti (3.sg.present-active + i)"
     },
     {
      "surface": "śiṣyasya",
-     "gloss": "of-the-student",
+     "gloss": "for-the-student",
      "grounds": "recipient of teaching",
      "morph": "m.gen.sg"
     },
     {
      "surface": "sambodhopāyatvaṃ",
-     "gloss": "state-of-being-a-means-to-awakening",
-     "grounds": "pedagogical effectiveness",
-     "morph": "n.acc.sg, compound"
+     "gloss": "a-means-to-awakening",
+     "grounds": "purpose of adaptation",
+     "morph": "compound: sambodha+upāyatvam (n.acc.sg)"
     },
     {
      "surface": "tathaiva",
      "gloss": "in-that-very-way",
-     "grounds": "adaptive response",
-     "morph": "(indecl.) + (indecl.)"
+     "grounds": "adaptive instruction",
+     "morph": "compound: tathā+eva (indecl.)"
     },
     {
      "surface": "gururāśrayedvyākhyām",
      "gloss": "the-teacher-should-adopt-the-explanation",
-     "grounds": "instructional method",
-     "morph": "m.nom.sg + 3.sg.opt.act √śri + f.acc.sg, compound"
+     "grounds": "pedagogical flexibility",
+     "morph": "compound: guruḥ+āśrayet+vyākhyām (3.sg.optative-active + ā-śri; f.acc.sg)"
     }
    ],
-   "question": "How should the teacher adapt the explanation to the student?",
+   "question": "How should a teacher adapt the method of explanation to the student?",
    "premises": [
-    "Language, method, discussion style, pace, and order can vary in teaching.",
-    "Whatever serves as a means to awaken the student is pedagogically effective.",
-    "The teacher should shape the explanation according to that effectiveness."
+    "Language, reasoning, discussion, absorption, and order can vary.",
+    "Whatever serves as a means to awaken the student is appropriate.",
+    "The teacher should adapt the explanation accordingly."
    ],
-   "inference": "The teacher should adapt every aspect of the explanation to whatever best awakens understanding in the student.",
+   "inference": "The teacher should shape the explanation in whatever form best awakens understanding in the student.",
    "uncertainties": [
-    "Laya can suggest tempo, absorption, or manner of delivery; pace is chosen as the most pedagogical fit."
+    "The term layaḥ can have several nuances; here it likely refers to the student's mode of mental absorption or attunement."
    ],
-   "plain_english": "Whatever language, method, style of discussion, pace, or order helps awaken the student, the teacher should adopt that very approach in the explanation."
+   "plain_english": "Whatever language, reasoning, style of discussion, level of absorption, or order becomes a means of awakening for the student, the teacher should adopt that form of explanation."
   },
   {
    "verse": 406,
    "rows": [
     {
      "surface": "vācyaṃ",
-     "gloss": "to-be-spoken",
-     "grounds": "teaching content",
+     "gloss": "to-be-explained",
+     "grounds": "the current topic",
      "morph": "n.acc.sg"
     },
     {
      "surface": "vastu",
      "gloss": "subject-matter",
-     "grounds": "topic",
+     "grounds": "content of teaching",
      "morph": "n.acc.sg"
     },
     {
      "surface": "samāpya",
      "gloss": "having-completed",
-     "grounds": "end of section",
-     "morph": "absolutive √āp"
+     "grounds": "end of a section",
+     "morph": "absolutive + sam-āp"
     },
     {
      "surface": "pratarpaṇaṃ",
-     "gloss": "libation-offering",
-     "grounds": "ritual act",
+     "gloss": "satisfaction-offering",
+     "grounds": "ritual closure",
      "morph": "n.nom.sg"
     },
     {
      "surface": "pūjanaṃ",
      "gloss": "worship",
-     "grounds": "ritual act",
+     "grounds": "ritual closure",
      "morph": "n.nom.sg"
     },
     {
      "surface": "bhaveccakre",
      "gloss": "should-be-in-the-circle",
      "grounds": "ritual setting",
-     "morph": "3.sg.opt.act √bhū + n.loc.sg, compound"
+     "morph": "compound: bhavet+cakre (3.sg.optative-active + bhū; n.loc.sg)"
     },
     {
      "surface": "punaraparaṃ",
      "gloss": "again-another",
      "grounds": "next topic",
-     "morph": "(indecl.) + n.acc.sg"
+     "morph": "compound: punaḥ+aparam (n.acc.sg)"
     },
     {
      "surface": "vastu",
      "gloss": "subject-matter",
-     "grounds": "topic",
+     "grounds": "next content",
      "morph": "n.acc.sg"
     },
     {
      "surface": "vadetpaṭalādūrdhvaṃ",
-     "gloss": "one-should-speak-after-a-chapter",
-     "grounds": "resumption of teaching",
-     "morph": "3.sg.opt.act √vad + m.abl.sg + (indecl.), compound"
+     "gloss": "one-may-speak-after-a-chapter",
+     "grounds": "permitted continuation",
+     "morph": "compound: vadet+paṭalāt+ūrdhvam (3.sg.optative-active + vad)"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "contrast",
+     "grounds": "restriction",
      "morph": "(indecl.)"
     },
     {
      "surface": "no",
      "gloss": "not",
-     "grounds": "restriction",
+     "grounds": "prohibition",
      "morph": "(indecl.)"
     },
     {
      "surface": "jalpet",
      "gloss": "one-should-chatter",
-     "grounds": "prohibited speech",
-     "morph": "3.sg.opt.act √jalp"
+     "grounds": "forbids casual speech",
+     "morph": "3.sg.optative-active + jalp"
     }
    ],
-   "question": "What should be done after completing a topic in the explanation session?",
+   "question": "What should be done between sections of scriptural explanation, and what speech is forbidden?",
    "premises": [
-    "After finishing a topic, libation and worship should be performed in the circle.",
-    "Another topic may be taught after completing a chapter.",
-    "Idle speech should not occur during the session."
+    "After completing a subject, satisfaction and worship should be performed in the circle.",
+    "Another subject may be taught after a chapter.",
+    "Casual chatter is not permitted."
    ],
-   "inference": "Each completed topic should be ritually closed with worship, and further teaching should resume only in an orderly way without idle talk.",
-   "uncertainties": [
-    "The boundary between paṭala as a chapter and as a ritual section is not fully explicit."
-   ],
-   "plain_english": "After completing the topic being explained, one should perform libation and worship in the circle. Another topic may be taught after a chapter, but there should be no idle chatter."
+   "inference": "The explanation proceeds in ritually marked sections, with worship between topics and no idle speech.",
+   "uncertainties": [],
+   "plain_english": "After completing the subject being explained, there should be satisfaction and worship in the circle. Another subject may be taught after a chapter, but there should be no idle talk."
   },
   {
    "verse": 407,
    "rows": [
     {
      "surface": "vyākhyānte",
-     "gloss": "at-the-end-of-explanation",
-     "grounds": "closing of session",
-     "morph": "m.loc.sg, compound"
+     "gloss": "at-the-end-of-the-explanation",
+     "grounds": "closing moment",
+     "morph": "compound: vyākhyā+ante (m.loc.sg)"
     },
     {
      "surface": "kṣamayitvā",
-     "gloss": "having-asked-forgiveness",
-     "grounds": "ritual closure",
-     "morph": "absolutive √kṣam"
+     "gloss": "having-asked-for-forgiveness",
+     "grounds": "ritual humility",
+     "morph": "absolutive + kṣam"
     },
     {
      "surface": "visṛjya",
      "gloss": "having-dismissed",
-     "grounds": "release of invoked presence",
-     "morph": "absolutive √sṛj"
+     "grounds": "release of the invoked presence",
+     "morph": "absolutive + vi-sṛj"
     },
     {
      "surface": "sarvaṃ",
-     "gloss": "all",
+     "gloss": "everything",
      "grounds": "all ritual elements",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṣipedagādhajale",
      "gloss": "one-should-cast-into-deep-water",
-     "grounds": "disposal rite",
-     "morph": "3.sg.opt.act √kṣip + n.loc.sg, compound"
+     "grounds": "disposal of offerings",
+     "morph": "compound: kṣipet+agādha+jale (3.sg.optative-active + kṣip; n.loc.sg)"
     },
     {
      "surface": "śāstrādimadhyanidhane",
-     "gloss": "at-beginning-middle-and-end-of-the-scripture",
-     "grounds": "key points of recitation",
-     "morph": "n.loc.sg, compound"
+     "gloss": "at-the-beginning-middle-and-end-of-the-scripture",
+     "grounds": "special occasions for worship",
+     "morph": "compound: śāstra+ādi+madhya+nidhane (n.loc.sg)"
     },
     {
      "surface": "viśeṣataḥ",
@@ -661,27 +1344,25 @@
     {
      "surface": "pūjanaṃ",
      "gloss": "worship",
-     "grounds": "ritual act",
+     "grounds": "required rite",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kuryāt",
      "gloss": "one-should-perform",
-     "grounds": "instruction",
-     "morph": "3.sg.opt.act √kṛ"
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active + kṛ"
     }
    ],
-   "question": "What closing rites should be performed at the end of the scripture explanation?",
+   "question": "How should the teacher conclude the explanation and mark its major divisions?",
    "premises": [
-    "At the end of the explanation, forgiveness is asked and all invoked elements are dismissed.",
-    "The ritual materials are to be cast into deep water.",
+    "At the end of the explanation, forgiveness is asked and everything is dismissed.",
+    "The ritual remains are cast into deep water.",
     "Special worship should be performed at the beginning, middle, and end of the scripture."
    ],
-   "inference": "The explanation session concludes with dismissal, disposal of ritual materials, and special worship at the scripture's key divisions.",
-   "uncertainties": [
-    "What exactly is included in sarvaṃ for disposal is not specified in the verse."
-   ],
-   "plain_english": "At the end of the explanation, one should ask forgiveness, dismiss everything, and cast the materials into deep water. Worship should be performed especially at the beginning, middle, and end of the scripture."
+   "inference": "The explanation ends with ritual dismissal and disposal, and its major divisions are marked by special worship.",
+   "uncertainties": [],
+   "plain_english": "At the end of the explanation, one should ask forgiveness, dismiss everything, and cast the remains into deep water. Worship should be performed especially at the beginning, middle, and end of the scripture."
   },
   {
    "verse": 408,
@@ -690,56 +1371,54 @@
      "surface": "viśeṣapūjanaṃ",
      "gloss": "special-worship",
      "grounds": "additional rite",
-     "morph": "n.acc.sg, compound"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "kuryātsamayebhyaśca",
-     "gloss": "one-should-do-and-for-the-initiates",
+     "gloss": "one-should-perform-and-for-the-initiates",
      "grounds": "recipients of worship",
-     "morph": "3.sg.opt.act √kṛ + m.dat.pl + (indecl.), compound"
+     "morph": "compound: kuryāt+samayebhyaḥ+ca (3.sg.optative-active + kṛ; m.dat.pl)"
     },
     {
      "surface": "niṣkṛtau",
-     "gloss": "at-the-conclusion",
+     "gloss": "at-the-completion",
      "grounds": "closing occasion",
      "morph": "f.loc.sg"
     },
     {
      "surface": "avikalpamaterna",
      "gloss": "for-one-of-undivided-mind-not",
-     "grounds": "qualified practitioner",
-     "morph": "m.gen.sg + (indecl.), compound"
+     "grounds": "exemption from expiation",
+     "morph": "compound: avikalpa+mateḥ+na (m.gen.sg)"
     },
     {
      "surface": "syuḥ",
      "gloss": "there-would-be",
-     "grounds": "hypothetical result",
-     "morph": "3.pl.opt.act √as"
+     "grounds": "possible result",
+     "morph": "3.pl.optative-active + as"
     },
     {
      "surface": "prāyaścittāni",
      "gloss": "expiations",
-     "grounds": "atonement rites",
+     "grounds": "ritual remedies",
      "morph": "n.nom.pl"
     },
     {
      "surface": "yadyapi",
      "gloss": "even-though",
-     "grounds": "concessive clause",
+     "grounds": "concessive condition",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What special observance is prescribed at the conclusion, and who is exempt from expiation?",
+   "question": "What closing worship is prescribed, and who may be exempt from expiation?",
    "premises": [
-    "Special worship should be performed for the initiates at the conclusion.",
+    "Special worship should be performed for the initiates at the completion.",
     "Expiations are generally relevant in ritual contexts.",
-    "A person of undivided mind is treated as exempt from expiations."
+    "A person of undivided mind may not require expiations."
    ],
-   "inference": "At the conclusion, special worship is offered to the initiates, while one whose mind is undivided does not incur the need for expiation.",
-   "uncertainties": [
-    "The concessive force of yadyapi leaves open whether expiations might still apply in other cases not specified here."
-   ],
-   "plain_english": "At the conclusion, one should perform special worship for the initiates. Even so, for a person of undivided mind there are no expiations."
+   "inference": "The rite closes with special worship for the initiates, but one whose mind is undivided may be exempt from expiatory rites.",
+   "uncertainties": [],
+   "plain_english": "At the completion, one should perform special worship for the initiates. Even so, for one whose mind is undivided, there may be no need for expiations."
   }
  ]
 }

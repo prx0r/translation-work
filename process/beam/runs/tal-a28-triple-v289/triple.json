@@ -1,0 +1,779 @@
+{
+ "song": "Tantraloka a28",
+ "items": [
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "conclusion from prior context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabuddho@pi",
+     "gloss": "even-awakened",
+     "grounds": "concessive subject",
+     "morph": "compound=prabuddha+api"
+    },
+    {
+     "surface": "karmotthānbhogarūpiṇaḥ",
+     "gloss": "karma-arisen-enjoyment-formed",
+     "grounds": "describes experiences undergone",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yamakiṅkarasarpādipratyayāndehago",
+     "gloss": "Yama-servant-snake-etc-perceptions-body-dwelling",
+     "grounds": "describes the subject experiencing death visions",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "may-experience",
+     "grounds": "main action",
+     "morph": "3.sg.opt.act √bhaj"
+    }
+   ],
+   "question": "Why might even an awakened person undergo frightening death experiences?",
+   "premises": [
+    "An awakened person still inhabits a body.",
+    "Karma can give rise to experiences in the form of enjoyments or sufferings.",
+    "At death, perceptions such as Yama's servants or snakes may arise from karma."
+   ],
+   "inference": "Therefore, even an awakened person may undergo karma-born death experiences like visions of Yama's servants or snakes.",
+   "uncertainties": [
+    "The exact nuance of bhajet here, whether 'undergo', 'experience', or 'accept', is slightly open."
+   ],
+   "plain_english": "For this very reason, even an awakened person, while still in the body, may undergo karma-born experiences at death, such as visions of Yama's servants, snakes, and the like."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "naitāvatā",
+     "gloss": "not-by-this-much",
+     "grounds": "denies a conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukto@sau",
+     "gloss": "liberated-he",
+     "grounds": "denied status",
+     "morph": "compound=mukta+asau"
+    },
+    {
+     "surface": "mṛtirbhogo",
+     "gloss": "death-enjoyment",
+     "grounds": "equated with other life events",
+     "morph": "compound=mṛti+bhoga"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janmavat",
+     "gloss": "like-birth",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitivacca",
+     "gloss": "and-like-continuance",
+     "grounds": "comparison",
+     "morph": "compound=sthiti+vat+ca"
+    },
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duḥkhasukhābhyāṃ",
+     "gloss": "by-pain-and-pleasure",
+     "grounds": "basis of division",
+     "morph": "n.inst.dual"
+    },
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "subject divided",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "classification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does undergoing death experiences mean the awakened person is not liberated?",
+   "premises": [
+    "Experiencing death does not by itself negate liberation.",
+    "Death is a form of experience, like birth and continued life.",
+    "Experiences can be marked by pain or pleasure."
+   ],
+   "inference": "Therefore, death is twofold, as painful or pleasant, but it does not by itself disprove liberation.",
+   "uncertainties": [
+    "The compound mṛtirbhogo could also be read as 'death is an enjoyment/experience'; the translation follows the contextual sense."
+   ],
+   "plain_english": "This alone does not mean he is not liberated, for death is an experience just like birth and ongoing life. Therefore death can be of two kinds, involving pain or pleasure."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabuddhasya",
+     "gloss": "of-the-awakened",
+     "grounds": "subject of comparison",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sukhaduḥkhavicitratāḥ",
+     "gloss": "pleasure-pain-varieties",
+     "grounds": "experiences during life",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sthitau",
+     "gloss": "in-continuance",
+     "grounds": "time or condition",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghnanti",
+     "gloss": "destroy",
+     "grounds": "denied effect",
+     "morph": "3.pl.pres.act √han"
+    },
+    {
+     "surface": "muktatvaṃ",
+     "gloss": "liberated-state",
+     "grounds": "what is not destroyed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maraṇe@pi",
+     "gloss": "even-in-death",
+     "grounds": "extended comparison",
+     "morph": "compound=maraṇa+api"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "just-so",
+     "grounds": "parallel conclusion",
+     "morph": "compound=tathā+eva"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "refers to pleasure-pain varieties",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Do painful or pleasant experiences at death destroy the awakened person's liberation?",
+   "premises": [
+    "An awakened person may experience varied pleasures and pains during life.",
+    "Such experiences during life do not destroy liberation.",
+    "Death is another occasion of experience."
+   ],
+   "inference": "Therefore, the varieties of pleasure and pain at death likewise do not destroy the awakened person's liberation.",
+   "uncertainties": [],
+   "plain_english": "So, just as the varied pleasures and pains of life do not destroy the liberated state of an awakened person, those same kinds of experiences at death do not destroy it either."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "introduces a class of yogins",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "punaryoginaste@pi",
+     "gloss": "but-those-yogins-also",
+     "grounds": "specific class",
+     "morph": "compound=punar+yoginaḥ+te+api"
+    },
+    {
+     "surface": "yasmiṃstattve",
+     "gloss": "in-whatever-principle",
+     "grounds": "object of contemplation",
+     "morph": "compound=yasmin+tattve"
+    },
+    {
+     "surface": "subhāvitāḥ",
+     "gloss": "well-cultivated",
+     "grounds": "trained state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cittaṃ",
+     "gloss": "mind",
+     "grounds": "instrument of focus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niveśayantyeva",
+     "gloss": "fix-indeed",
+     "grounds": "deliberate act",
+     "morph": "compound=niveśayanti+eva"
+    },
+    {
+     "surface": "tattattvaṃ",
+     "gloss": "that-very-principle",
+     "grounds": "destination attained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāntyaśaṅkitāḥ",
+     "gloss": "go-without-doubt",
+     "grounds": "result of fixation",
+     "morph": "compound=yānti+aśaṅkitāḥ"
+    }
+   ],
+   "question": "What happens to yogins who have deeply cultivated a particular principle at death?",
+   "premises": [
+    "Some yogins are well cultivated in a particular tattva.",
+    "At the critical moment they deliberately fix their mind on that tattva.",
+    "Focused cultivation directs the post-death movement of consciousness."
+   ],
+   "inference": "Therefore, such yogins go without doubt to the very tattva in which they have been well cultivated.",
+   "uncertainties": [],
+   "plain_english": "But those yogins who have become well established in a particular principle fix their mind on that very principle and, without doubt, go to it."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "śrīsvacchande",
+     "gloss": "in-the-revered-Svacchanda",
+     "grounds": "scriptural source",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "scriptural support",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gandhadhāraṇayā",
+     "gloss": "by-fragrance-concentration",
+     "grounds": "method named",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mṛtāḥ",
+     "gloss": "those-who-died",
+     "grounds": "subjects of the teaching",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-forth",
+     "grounds": "abbreviated citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālinīśāstre",
+     "gloss": "in-the-Malini-scripture",
+     "grounds": "second scriptural source",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhāraṇānāṃ",
+     "gloss": "of-the-concentrations",
+     "grounds": "topic of teaching",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "parallel citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result stated",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What scriptural authorities support the claim that concentration determines the yogin's destination at death?",
+   "premises": [
+    "The Svacchanda Tantra teaches outcomes for those who die using specific concentrations.",
+    "The Malini scripture also teaches the fruits of concentrations.",
+    "These texts provide authoritative support for the preceding claim."
+   ],
+   "inference": "Therefore, scripture confirms that specific dharanas yield corresponding results at death.",
+   "uncertainties": [
+    "The exact Svacchanda passage is only indicated by ityadi and is not specified here."
+   ],
+   "plain_english": "This is stated in the revered Svacchanda Tantra, beginning with the teaching about those who die through concentration on fragrance, and likewise the Malini scripture gives the fruits of the various concentrations."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "eteṣāṃ",
+     "gloss": "of-these",
+     "grounds": "refers to such yogins",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "maraṇābhikhyo",
+     "gloss": "called-death",
+     "grounds": "qualifies the experience",
+     "morph": "compound=maraṇa+ābhikhya"
+    },
+    {
+     "surface": "bhogo",
+     "gloss": "experience",
+     "grounds": "what is denied",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "does-not-exist",
+     "grounds": "negation",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "tu",
+     "gloss": "however",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "specifies the group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tanum",
+     "gloss": "body",
+     "grounds": "what is abandoned",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhāraṇābhistyajantyāśu",
+     "gloss": "by-concentrations-abandon-quickly",
+     "grounds": "manner of leaving the body",
+     "morph": "compound=dhāraṇābhiḥ+tyajanti+āśu"
+    },
+    {
+     "surface": "paradehapraveśavat",
+     "gloss": "like-entering-another-body",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do yogins who leave the body through concentration undergo the usual experience of death?",
+   "premises": [
+    "Some yogins abandon the body quickly through dharanas.",
+    "Their departure resembles entering another body.",
+    "Ordinary death involves a distinct death-experience."
+   ],
+   "inference": "Therefore, for such yogins there is no experience properly called death.",
+   "uncertainties": [],
+   "plain_english": "For those who quickly abandon the body through concentrations, as if entering another body, there is no experience that can properly be called death."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "etāvānmṛtibhogo",
+     "gloss": "this-much-death-experience",
+     "grounds": "defines ordinary death",
+     "morph": "compound=etāvān+mṛti+bhoga"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marmacchinmūḍhatākṣagā",
+     "gloss": "vital-point-cutting-delusion-sense-going",
+     "grounds": "characterizes death experience",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhvāntābilatvaṃ",
+     "gloss": "darkness-cavity-state",
+     "grounds": "mental condition in death",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manasi",
+     "gloss": "in-the-mind",
+     "grounds": "location of the condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "taccaiteṣu",
+     "gloss": "and-that-in-these",
+     "grounds": "denies presence in such yogins",
+     "morph": "compound=tat+ca+eteṣu"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "denied occurrence",
+     "morph": "3.sg.pres.pass √vid"
+    }
+   ],
+   "question": "What constitutes the ordinary experience of death that these yogins do not undergo?",
+   "premises": [
+    "Ordinary death involves a shock to vital points and delusion affecting the senses.",
+    "It also involves a mental state like entering a dark cavity.",
+    "Yogins who depart through concentration do not undergo this process."
+   ],
+   "inference": "Therefore, the defining features of ordinary death-experience are absent in such yogins.",
+   "uncertainties": [
+    "dhvāntābilatvaṃ is metaphorical; the exact experiential nuance is interpretive."
+   ],
+   "plain_english": "The ordinary experience of death consists in a cutting shock at the vital points, delusion spreading through the senses, and a mental sinking into darkness. None of this is found in these yogins."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "introduces explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "qualifies effort",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yatnaṃ",
+     "gloss": "effort",
+     "grounds": "sustained activity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tāvatsamadhitiṣṭhati",
+     "gloss": "so-long-maintains",
+     "grounds": "continued control",
+     "morph": "compound=tāvat+samadhitiṣṭhati"
+    },
+    {
+     "surface": "ahaṃrūḍhyā",
+     "gloss": "by-I-sense-establishment",
+     "grounds": "mode of identification",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pare",
+     "gloss": "in-another",
+     "grounds": "target body",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "body",
+     "grounds": "location of identification",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yāvatsyādbuddhisaṃcaraḥ",
+     "gloss": "as-long-as-there-is-intellect-movement",
+     "grounds": "condition for maintaining effort",
+     "morph": "compound=yāvat+syāt+buddhi+saṃcaraḥ"
+    }
+   ],
+   "question": "How does a yogin maintain conscious control when entering another body?",
+   "premises": [
+    "Entering another body requires sustained mental effort.",
+    "The yogin establishes an I-sense in the other body.",
+    "This process depends on the continued movement of intellect."
+   ],
+   "inference": "Therefore, the yogin maintains mental effort and identification in the other body as long as intellect continues to operate there.",
+   "uncertainties": [],
+   "plain_english": "For the yogin maintains mental effort, establishing an I-sense in another body, as long as the movement of intellect continues there."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "prāṇacakraṃ",
+     "gloss": "breath-circle",
+     "grounds": "vital system involved",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadāyattamapi",
+     "gloss": "dependent-on-that-also",
+     "grounds": "follows intellect and effort",
+     "morph": "compound=tat+āyattam+api"
+    },
+    {
+     "surface": "saṃcarate",
+     "gloss": "moves",
+     "grounds": "vital movement",
+     "morph": "3.sg.pres.mid √car"
+    },
+    {
+     "surface": "pathā",
+     "gloss": "along-the-path",
+     "grounds": "route of movement",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tenaivātaḥ",
+     "gloss": "by-that-very-therefore",
+     "grounds": "causal link",
+     "morph": "compound=tena+eva+ataḥ"
+    },
+    {
+     "surface": "prabuddhyeta",
+     "gloss": "would-awaken",
+     "grounds": "resulting activation",
+     "morph": "3.sg.opt.pass √budh"
+    },
+    {
+     "surface": "paradehe@kṣacakrakam",
+     "gloss": "in-another-body-sense-circle",
+     "grounds": "what becomes active",
+     "morph": "compound=paradehe+akṣa+cakrakam"
+    }
+   ],
+   "question": "What enables the senses in another body to become active for the yogin?",
+   "premises": [
+    "The breath-circle follows the yogin's directed mental process.",
+    "Vital movement proceeds along the established path.",
+    "The senses depend on the activation of the vital system."
+   ],
+   "inference": "Therefore, through that same process the circle of senses in the other body becomes awakened.",
+   "uncertainties": [
+    "akṣacakrakam may refer to the group of sense organs or the whole sensory apparatus."
+   ],
+   "plain_english": "The circle of breath, dependent on that same process, moves along the path, and by that very means the circle of senses in the other body becomes awakened."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "makṣikā",
+     "gloss": "bees",
+     "grounds": "analogy subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "makṣikārājaṃ",
+     "gloss": "bee-king",
+     "grounds": "leader in analogy",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yathotthitamanūtthitāḥ",
+     "gloss": "as-risen-follow-rising",
+     "grounds": "first part of analogy",
+     "morph": "compound=yathā+utthitam+anūtthitāḥ"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "settled",
+     "grounds": "second state of leader",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cānuviśantyevaṃ",
+     "gloss": "and-follow-enter-thus",
+     "grounds": "application of analogy",
+     "morph": "compound=ca+anuviśanti+evam"
+    },
+    {
+     "surface": "cittaṃ",
+     "gloss": "mind",
+     "grounds": "leader in the yogic process",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvākṣavṛttayaḥ",
+     "gloss": "all-sense-activities",
+     "grounds": "followers of the mind",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How do the senses follow the mind during the yogin's transfer into another body?",
+   "premises": [
+    "Bees rise when their king rises and settle when he settles.",
+    "The mind leads the process of transfer.",
+    "The activities of the senses depend on the mind."
+   ],
+   "inference": "Therefore, all sense activities follow the mind just as bees follow their king.",
+   "uncertainties": [],
+   "plain_english": "Just as bees rise when the bee-king rises and settle when he settles, so all the activities of the senses follow the mind."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "ato@sya",
+     "gloss": "therefore-of-him",
+     "grounds": "consequence for the yogin",
+     "morph": "compound=ataḥ+asya"
+    },
+    {
+     "surface": "paradehādisaṃcāre",
+     "gloss": "in-moving-to-another-body-etc",
+     "grounds": "context of transfer",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "there-is-not",
+     "grounds": "negation",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "melanam",
+     "gloss": "merging",
+     "grounds": "what is denied",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akṣāṇāṃ",
+     "gloss": "of-the-senses",
+     "grounds": "what would merge",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "madhyagaṃ",
+     "gloss": "going-to-the-middle",
+     "grounds": "ordinary dissolution process",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūkṣmaṃ",
+     "gloss": "subtle",
+     "grounds": "manner of transition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syādetaddehavatpunaḥ",
+     "gloss": "this-would-be-again-like-a-body",
+     "grounds": "resulting subtle embodiment",
+     "morph": "compound=syāt+etat+deha+vat+punaḥ"
+    }
+   ],
+   "question": "What happens to the senses when the yogin moves into another body?",
+   "premises": [
+    "Ordinary death involves the senses merging inward.",
+    "The yogin's transfer is controlled and follows the mind.",
+    "A subtle continuity is maintained in the transition."
+   ],
+   "inference": "Therefore, in moving to another body there is no inward merging of the senses; instead a subtle body-like continuity arises.",
+   "uncertainties": [
+    "madhyagaṃ melanam is compressed; it likely refers to the senses withdrawing into an inner center."
+   ],
+   "plain_english": "Therefore, when he moves into another body, there is no inward merging of the senses as in ordinary death. Instead, a subtle continuity arises again, like a body."
+  },
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the argument",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraśarīrādicāriṇāmiva",
+     "gloss": "like-those-moving-in-other-bodies-etc",
+     "grounds": "comparison class",
+     "morph": "compound=para+śarīra+ādi+cāriṇām+iva"
+    },
+    {
+     "surface": "yoginām",
+     "gloss": "of-yogins",
+     "grounds": "subject group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tattattattvaśarīrāntaścāriṇāṃ",
+     "gloss": "moving-within-bodies-of-various-principles",
+     "grounds": "extended class of yogins",
+     "morph": "compound=tat+tat+tattva+śarīra+antaḥ+cāriṇām"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "there-is-not",
+     "grounds": "negation",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "mūḍhatā",
+     "gloss": "delusion",
+     "grounds": "ordinary death condition denied",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Do yogins who move through other bodies or other tattva-bodies experience delusion at death?",
+   "premises": [
+    "Some yogins can move into other bodies.",
+    "Others can move into bodies corresponding to various tattvas.",
+    "Their transitions are governed by conscious concentration rather than collapse."
+   ],
+   "inference": "Therefore, such yogins do not undergo the delusion characteristic of ordinary death.",
+   "uncertainties": [],
+   "plain_english": "Thus, for yogins who move into other bodies and likewise for those who move within bodies formed of various principles, there is no delusion."
+  }
+ ]
+}
