@@ -1,13 +1,15 @@
 {
  "song": "tal-a01",
  "verse": 321,
- "question": "What specific festivals and worship practices are explained in this section?",
+ "question": "Which festival and worship topics are explained in this section?",
  "premises": [
-  "The divisions of festivals and their specific details are covered.",
-  "The worship of the circle and its specific worship are explained.",
-  "The purpose of worship on special days, such as the guru's anniversaries, is explained."
+  "The section treats divisions of festivals and their specific forms.",
+  "It treats wheel worship and its worship procedure.",
+  "It explains the purpose of worship on guru days and other beginning and end days."
  ],
- "inference": "This section details various festivals, circle worship, and the purpose of worship on specific commemorative days.",
- "uncertainties": [],
- "plain_english": "The divisions of festivals and their specifics, the worship of the circle and its worship, and the explanation of the purpose of worship on days such as the beginning and end days of the guru."
+ "inference": "This section explains festival divisions, wheel worship, and the purpose of special-day worship.",
+ "uncertainties": [
+  "cakracarcā may refer to a specific tantric circle rite rather than a general wheel worship."
+ ],
+ "plain_english": "This section will explain the divisions of festivals and their details, wheel worship and its performance, and the purpose of worship on guru days and other special beginning and end days."
 }
