@@ -1,0 +1,699 @@
+{
+ "song": "Tantraloka 145-156",
+ "items": [
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "mumukṣuratha",
+     "gloss": "aspirant-for-liberation-then",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "token 2",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathābhīṣṭaṃ",
+     "gloss": "as-desired",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "token 5",
+     "morph": "3.sg.act-opt + root car"
+    },
+    {
+     "surface": "śivatāpattirevārtho",
+     "gloss": "shiva-nature-attainment-indeed-purpose",
+     "grounds": "token 6",
+     "morph": "compound"
+    },
+    {
+     "surface": "hyeṣāṃ",
+     "gloss": "indeed-of-these",
+     "grounds": "token 7",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nyāsādikarmaṇām",
+     "gloss": "of-nyasa-and-other-rites",
+     "grounds": "token 8",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "Why is Shiva-nature attainment the purpose of nyasa and related rites?",
+   "premises": [
+    "The aspirant performs as desired for him.",
+    "Shiva-nature attainment is the purpose.",
+    "It concerns nyasa and related rites."
+   ],
+   "inference": "The rite's purpose is Shiva-nature attainment.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "The aspirant for liberation should perform for him as desired; the attainment of Shiva-nature is indeed the purpose of these nyasa and related rites."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "nyasa",
+     "grounds": "token 2",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidhāyārghapātre",
+     "gloss": "having-placed-in-argha-vessel",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhimupācaret",
+     "gloss": "should-perform-rite",
+     "grounds": "token 4",
+     "morph": "3.sg.act-opt + root car"
+    },
+    {
+     "surface": "uktanītyaiva",
+     "gloss": "by-stated-rule-indeed",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpaścāt",
+     "gloss": "thereafter",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayennyastavācakaiḥ",
+     "gloss": "should-worship-with-installed-mantras",
+     "grounds": "token 7",
+     "morph": "3.sg.act-opt + root pūj"
+    }
+   ],
+   "question": "How should worship follow nyasa in the argha vessel?",
+   "premises": [
+    "Nyasa is performed in the argha vessel.",
+    "The rite follows the stated rule.",
+    "Worship follows with installed mantras."
+   ],
+   "inference": "Nyasa in the vessel precedes rule-governed worship with installed mantras.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "Having thus performed nyasa in the argha vessel, one should perform the rite according to the stated rule; thereafter worship with the installed mantras."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samastabhāvānāṃ",
+     "gloss": "of-all-beings",
+     "grounds": "token 2",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śivātsiddhimayādatho",
+     "gloss": "from-shiva-perfection-coming",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrṇādavyatirekitvaṃ",
+     "gloss": "non-difference-from-the-full",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "kārakāṇāmihārcayā",
+     "gloss": "of-agents-in-this-worship",
+     "grounds": "token 5",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why are agents non-different from the full Shiva in worship?",
+   "premises": [
+    "All beings attain perfection from Shiva.",
+    "The full one is non-different.",
+    "This concerns agents in worship."
+   ],
+   "inference": "Agents in worship are non-different from the full Shiva.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "Because all beings attain perfection from Shiva, and from the full one comes non-difference of agents in this worship."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "samastaṃ",
+     "gloss": "whole",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kārakavrātaṃ",
+     "gloss": "host-of-agents",
+     "grounds": "token 2",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivābhinnaṃ",
+     "gloss": "non-different-from-shiva",
+     "grounds": "token 3",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradarśitam",
+     "gloss": "shown",
+     "grounds": "token 4",
+     "morph": "n.nom.sg.past-part"
+    },
+    {
+     "surface": "pūjodāharaṇe",
+     "gloss": "in-worship-example",
+     "grounds": "token 5",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "token 6",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyaśnute",
+     "gloss": "attains",
+     "grounds": "token 7",
+     "morph": "3.sg.act.pres + root aś"
+    },
+    {
+     "surface": "gamanādyapi",
+     "gloss": "even-going-and-so-forth",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is shown about agents in the example of worship?",
+   "premises": [
+    "The whole host of agents is shown.",
+    "It is non-different from Shiva.",
+    "In worship one attains all, even going."
+   ],
+   "inference": "Worship reveals agents as Shiva and grants all attainments.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "The whole host of agents is shown as non-different from Shiva; in the example of worship one attains all, even going and the rest."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "yathāhi",
+     "gloss": "as-indeed",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāhakaṭakabhramasvātantryamāgataḥ",
+     "gloss": "having-come-under-bridle-freedom",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "aśvaḥ",
+     "gloss": "horse",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃgrāmarūḍho@pi",
+     "gloss": "though-mounted-in-battle",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "token 5",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śikṣāṃ",
+     "gloss": "training",
+     "grounds": "token 6",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nātivartate",
+     "gloss": "does-not-transgress",
+     "grounds": "token 7",
+     "morph": "3.sg.act.pres + root vṛt"
+    }
+   ],
+   "question": "What does the horse illustrate about trained agents?",
+   "premises": [
+    "The horse comes under bridle control.",
+    "Though mounted in battle, it does not transgress training."
+   ],
+   "inference": "A trained agent remains within discipline even in action.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "As a horse that has come under the rider's control through the bridle's freedom, though mounted in battle, does not transgress that training."
+  },
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "tathārcanakriyābhyāsaśivībhāvitakārakaḥ",
+     "gloss": "agent-habituated-by-worship-practice-and-made-shiva-like",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "gacchaṃstiṣṭhannapi",
+     "gloss": "though-going-or-standing",
+     "grounds": "token 2",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvaitaṃ",
+     "gloss": "duality",
+     "grounds": "token 3",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārakāṇāṃ",
+     "gloss": "of-agents",
+     "grounds": "token 4",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vyapojjhati",
+     "gloss": "abandons",
+     "grounds": "token 5",
+     "morph": "3.sg.act.pres + root hā"
+    }
+   ],
+   "question": "What happens to an agent habituated by worship practice?",
+   "premises": [
+    "The agent is habituated by worship practice.",
+    "The agent is made Shiva-like.",
+    "Though going or standing, duality of agents is abandoned."
+   ],
+   "inference": "Worship habituation removes agent-duality in ordinary action.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "So the agent habituated by worship-practice and made Shiva-like, though going or standing, abandons duality of agents."
+  },
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "tathaikyābhyāsaniṣṭhasyākramādviśvamidaṃ",
+     "gloss": "thus-for-one-established-in-unity-practice-this-universe-suddenly",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "haṭhāt",
+     "gloss": "by-force",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūrṇaśivatākṣobhanarīnartadiva",
+     "gloss": "like-a-dancer-full-shiva-nature-flashing",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "sphuret",
+     "gloss": "may-flash",
+     "grounds": "token 4",
+     "morph": "3.sg.act.opt + root sphur"
+    }
+   ],
+   "question": "What may flash for one established in unity practice?",
+   "premises": [
+    "One is established in unity practice.",
+    "The universe may suddenly flash by force.",
+    "It flashes like a dancer as full Shiva-nature."
+   ],
+   "inference": "Unity practice can make the whole universe flash as full Shiva-nature.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "Thus for one established in unity-practice, this universe suddenly, by force, like a dancer, may flash as full Shiva-nature."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "token 1",
+     "morph": "3.sg.act.aor + root vac"
+    },
+    {
+     "surface": "pūjanastotre",
+     "gloss": "in-worship-praise",
+     "grounds": "token 2",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hyasmākaṃ",
+     "gloss": "indeed-our",
+     "grounds": "token 3",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paramo",
+     "gloss": "supreme",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "token 5",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aho",
+     "gloss": "ah",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svādurasaḥ",
+     "gloss": "sweet-taste",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ko@pi",
+     "gloss": "some",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivapūjāmayotsavaḥ",
+     "gloss": "festival-of-shiva-worship",
+     "grounds": "token 9",
+     "morph": "compound"
+    }
+   ],
+   "question": "What did the supreme guru say about Shiva worship?",
+   "premises": [
+    "The supreme guru said in worship praise.",
+    "He exclaimed at the sweet taste.",
+    "He called it some festival of Shiva worship."
+   ],
+   "inference": "Shiva worship is praised as a sweet festival.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "Our supreme guru said in the praise of worship: 'Ah, what sweet taste, what festival of Shiva-worship!'"
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśato@pi",
+     "gloss": "even-of-thirty-six",
+     "grounds": "token 1",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvānāṃ",
+     "gloss": "of-principles",
+     "grounds": "token 2",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kṣobho",
+     "gloss": "agitation",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatrollasatyalam",
+     "gloss": "where-it-shines-indeed",
+     "grounds": "token 4",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadetādṛkpūrṇaśivaviśvāveśāya",
+     "gloss": "for-such-full-shiva-entry-into-universe",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "ye@rcanam",
+     "gloss": "those-who-worship",
+     "grounds": "token 6",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "For what purpose do worshippers act amid the thirty-six principles?",
+   "premises": [
+    "Agitation of thirty-six principles shines there.",
+    "It is for full Shiva entry into the universe.",
+    "Those who worship act for this."
+   ],
+   "inference": "Worship aims at full Shiva entry into the universe.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "The agitation of thirty-six principles, where it shines, is for full Shiva-entry into the universe; those who worship."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "kurvanti",
+     "gloss": "do",
+     "grounds": "token 1",
+     "morph": "3.pl.act.pres + root kṛ"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "token 2",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śivā",
+     "gloss": "shiva",
+     "grounds": "token 3",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token 4",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tānpūrṇānprati",
+     "gloss": "toward-those-full-ones",
+     "grounds": "token 5",
+     "morph": "compound"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "token 7",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vināpi",
+     "gloss": "even-without",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānayogābhyāṃ",
+     "gloss": "knowledge-and-yoga",
+     "grounds": "token 9",
+     "morph": "m.abl.du"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "token 10",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nyāsārcanādikā",
+     "gloss": "nyasa-worship-and-so-forth",
+     "grounds": "token 11",
+     "morph": "compound"
+    }
+   ],
+   "question": "What fruit is there for full ones who are Shiva?",
+   "premises": [
+    "They who do are Shiva indeed.",
+    "They are toward the full ones.",
+    "What fruit, even without knowledge and yoga?",
+    "Action is nyasa, worship, and so forth."
+   ],
+   "inference": "For those already full and Shiva, such action needs no further fruit.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "They are Shiva indeed; what fruit for the full ones? Even without knowledge and yoga, action like nyasa and worship."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "itthamaikyasamāpattidānātparaphalapradā",
+     "gloss": "thus-by-granting-unity-samapatti-bestowing-other-fruit",
+     "grounds": "token 1",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhakasyāpi",
+     "gloss": "even-of-the-practitioner",
+     "grounds": "token 2",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tatsadvipradamantraikatāṃ",
+     "gloss": "unity-with-that-good-vipra-mantra",
+     "grounds": "token 3",
+     "morph": "compound"
+    },
+    {
+     "surface": "gatam",
+     "gloss": "attained",
+     "grounds": "token 4",
+     "morph": "n.nom.sg.past-part"
+    }
+   ],
+   "question": "What does the practitioner attain through unity-samapatti?",
+   "premises": [
+    "By granting unity-samapatti and bestowing other fruit, even the practitioner attains mantra-unity with that good vipra."
+   ],
+   "inference": "The practitioner attains mantra-unity with the good vipra.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "Thus by granting unity-samapatti, bestowing other fruit, the practitioner too has attained mantra-unity with that good vipra."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "token 1",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vrajadavighnatvaṃ",
+     "gloss": "unobstructedness",
+     "grounds": "token 2",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svāṃ",
+     "gloss": "its-own",
+     "grounds": "token 3",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "perfection",
+     "grounds": "token 4",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śīghramāvahet",
+     "gloss": "would-quickly-bring",
+     "grounds": "token 5",
+     "morph": "3.sg.act.opt + root vah"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "token 6",
+     "morph": "n.nom.sg.past-part"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśena",
+     "gloss": "by-supreme-lord",
+     "grounds": "token 8",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhirnārcanakramaḥ",
+     "gloss": "rule-nor-worship-procedure",
+     "grounds": "token 10",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does the Supreme Lord say about rule and worship procedure?",
+   "premises": [
+    "The universe would quickly attain unobstructedness and its own perfection.",
+    "It is said by the Supreme Lord.",
+    "Neither rule nor worship procedure."
+   ],
+   "inference": "The Supreme Lord declares beyond rule and worship procedure.",
+   "uncertainties": [
+    "Compound segmentation simplified."
+   ],
+   "plain_english": "The universe would quickly attain unobstructedness and its own perfection; it is said by the Supreme Lord: neither rule nor worship procedure."
+  }
+ ]
+}
