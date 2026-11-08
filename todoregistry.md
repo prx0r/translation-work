@@ -474,3 +474,30 @@ All gaps covered by queued tasks. Next: assemble->promote in that order.
 
 HANDOFF: watch queue, review newest triples, promote completions. No
 hand-drafting unless double-fail. Never push.
+
+## ROADMAP (booked 2026-11-08, owner; Sanskrit only, mystics out)
+
+After TAL 37/37 (132 verses left: a08x12/a01x24/a15x36/a03x60):
+1. TAL 37/37 verification + push.
+2. IPVV V2-N coverage fix (T1 38% -> full; char-offset work).
+3. IPVV proof sweep + REGISTRY promotion (49 passages, 48/49 PASS now).
+4. sivasutravimarsini campaign (short; next swarm target).
+5. gitarthasangraha campaign (Gita; reuses Abhinavagupta lore).
+6. malinivijayavarttika -> abhinavabharati -> tattvasandoha (needs source).
+IPVV note: registry P0 entry is STALE - vols 1-3 essentially built
+(T1/L0/argmap/L2, pilots, bundles). Audit + correct registry at promo.
+
+## FULL SWEEP (2026-11-08, owner-ordered; minimal gold = done)
+
+- Tantraloka: 33/37 gold, 5,864 verses total, 132 left
+  (a08x12/a01x24/a15x36/a03x60). All gaps queued, loop running.
+- Tantrasara: 22/22 COMPLETE. Nothing left.
+- Stotras/small works + VBT + sivasutra/spanda mula: 31 gold.
+- Sanskrit queue: sivasutravimarsini, gitarthasangraha,
+  malinivijayavarttika, abhinavabharati, ipvv (48/49 PASS, V2-N gap),
+  tattvasandoha (NO SOURCE - needs acquisition).
+- Out of scope (Sanskrit-only directive): lalded, rupabhavani,
+  parmanand, nundrishi, santosh.
+REGISTRY corrections applied: 16 verse counts filled (all 37 TAL now
+numbered), 4 in-progress statuses (were stale recon), ipvv P0 corrected
+(vols 1-3 built). Backup: /tmp/REGISTRY.backup-20261108.json.
