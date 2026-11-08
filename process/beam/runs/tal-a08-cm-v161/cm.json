@@ -4,53 +4,53 @@
  "rows": [
   {
    "lemma": "śarvarudrau",
-   "morph": "m.nom.du",
-   "grounds": "Sharva and Rudra"
+   "morph": "m.nom.du, compound=śarva+rudra",
+   "grounds": "lords"
   },
   {
    "lemma": "bhīmabhavāvugro",
-   "morph": "m.nom.du + m.nom.sg, compound",
-   "grounds": "Bhima, Bhava, and Ugra"
+   "morph": "m.nom.pl, compound=bhīma+bhava+ugra",
+   "grounds": "lords"
   },
   {
    "lemma": "devo",
    "morph": "m.nom.sg",
-   "grounds": "the god"
+   "grounds": "lord"
   },
   {
    "lemma": "mahānatha",
-   "morph": "m.nom.sg + (indecl.), compound",
-   "grounds": "Mahan and then"
+   "morph": "(indecl.), compound=mahān+atha",
+   "grounds": "sequence"
   },
   {
    "lemma": "īśāna",
    "morph": "m.nom.sg",
-   "grounds": "Ishana"
+   "grounds": "lord"
   },
   {
    "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "thus"
+   "grounds": "enumeration"
   },
   {
    "lemma": "bhūrlokāt",
-   "morph": "m.abl.sg, compound",
-   "grounds": "from the earth world upward"
+   "morph": "m.abl.sg, compound=bhū+loka",
+   "grounds": "starting point"
   },
   {
    "lemma": "sapta",
-   "morph": "m.nom.pl",
-   "grounds": "seven"
+   "morph": "(indecl.)",
+   "grounds": "count"
   },
   {
    "lemma": "lokeśvarāḥ",
-   "morph": "m.nom.pl, compound",
-   "grounds": "lords of the worlds"
+   "morph": "m.nom.pl, compound=loka+īśvara",
+   "grounds": "rulers"
   },
   {
    "lemma": "śivāḥ",
    "morph": "m.nom.pl",
-   "grounds": "forms of Shiva"
+   "grounds": "divine nature"
   }
  ]
 }
