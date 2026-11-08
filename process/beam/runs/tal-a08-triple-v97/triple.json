@@ -1,0 +1,1429 @@
+{
+ "song": "Tantraloka 8.97-120",
+ "items": [
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "lakṣaikamātro",
+     "gloss": "one-hundred-thousand-measure",
+     "grounds": "measure of the salt ocean",
+     "morph": "compound"
+    },
+    {
+     "surface": "lavaṇastadbāhye@sya",
+     "gloss": "salt-ocean outside-of-it",
+     "grounds": "location of the next region",
+     "morph": "compound"
+    },
+    {
+     "surface": "puro@drayaḥ",
+     "gloss": "mountains in-front",
+     "grounds": "mountains around it",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṛṣabho",
+     "gloss": "Rishabha",
+     "grounds": "name of a mountain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dundubhirdhūmraḥ",
+     "gloss": "Dundubhi and Dhumra",
+     "grounds": "names of mountains",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaṅkadroṇendavo",
+     "gloss": "Kanka Drona and Indu",
+     "grounds": "names of mountains",
+     "morph": "compound"
+    },
+    {
+     "surface": "hyudak",
+     "gloss": "indeed in-the-north",
+     "grounds": "direction of these mountains",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lies beyond the salt ocean and which mountains stand to its north?",
+   "premises": [
+    "The salt ocean measures one hundred thousand yojanas.",
+    "Outside that salt ocean there are mountains.",
+    "To the north stand the mountains Rishabha, Dundubhi, Dhumra, Kanka, Drona, and Indu."
+   ],
+   "inference": "The salt ocean is bounded on its northern side by a specific group of named mountains.",
+   "uncertainties": [
+    "The exact compound split of puro@drayaḥ is slightly compressed in the text."
+   ],
+   "plain_english": "The salt ocean measures one hundred thousand yojanas. Outside it stand mountains, and to the north are Rishabha, Dundubhi, Dhumra, Kanka, Drona, and Indu."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "varāhanandanāśokāḥ",
+     "gloss": "Varaha Nandana and Ashoka",
+     "grounds": "names of mountains",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "in-the-west",
+     "grounds": "direction of these mountains",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahabalāhakau",
+     "gloss": "with-Balahaka",
+     "grounds": "additional mountain in the west",
+     "morph": "compound"
+    },
+    {
+     "surface": "dakṣiṇa",
+     "gloss": "in-the-south",
+     "grounds": "direction of the next mountains",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakramainākau",
+     "gloss": "Chakra and Mainaka",
+     "grounds": "names of southern mountains",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vāḍavo@ntastayoḥ",
+     "gloss": "submarine-fire between-them",
+     "grounds": "fire located between the two southern mountains",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "position of the submarine fire",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mountains stand to the west and south of the salt ocean, and what lies between the southern pair?",
+   "premises": [
+    "Varaha, Nandana, Ashoka, and Balahaka stand in the west.",
+    "Chakra and Mainaka stand in the south.",
+    "The submarine fire is situated between Chakra and Mainaka."
+   ],
+   "inference": "The salt ocean is surrounded by named mountains in different directions, with the submarine fire placed between the two southern mountains.",
+   "uncertainties": [],
+   "plain_english": "To the west stand Varaha, Nandana, Ashoka, and Balahaka. To the south stand Chakra and Mainaka, and between those two is the submarine fire."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "abdherdakṣiṇataḥ",
+     "gloss": "south-of-the-ocean",
+     "grounds": "location relative to the ocean",
+     "morph": "compound"
+    },
+    {
+     "surface": "khākṣisahasrātikramād",
+     "gloss": "after-passing-two-thousand-yojanas",
+     "grounds": "distance from the ocean",
+     "morph": "compound"
+    },
+    {
+     "surface": "giriḥ",
+     "gloss": "mountain",
+     "grounds": "a mountain at that distance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyutvāṃstrisahasrocchridāyāmo@tra",
+     "gloss": "Vidyutvan three-thousand-high-and-wide there",
+     "grounds": "name and dimensions of the mountain",
+     "morph": "compound"
+    },
+    {
+     "surface": "phalāśinaḥ",
+     "gloss": "fruit-eaters",
+     "grounds": "inhabitants there",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What mountain lies south of the ocean and who lives there?",
+   "premises": [
+    "South of the ocean, after a distance of two thousand yojanas, there is a mountain.",
+    "That mountain is named Vidyutvan and is three thousand yojanas high and wide.",
+    "Its inhabitants live on fruit."
+   ],
+   "inference": "A large mountain named Vidyutvan lies south of the ocean and is inhabited by fruit-eating beings.",
+   "uncertainties": [
+    "khākṣi is read as a numerical expression for two thousand."
+   ],
+   "plain_english": "South of the ocean, two thousand yojanas away, stands the mountain Vidyutvan, three thousand yojanas high and wide. There live people who eat fruit."
+  },
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "maladigdhā",
+     "gloss": "smeared-with-dirt",
+     "grounds": "description of the inhabitants",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dīrghakeśaśmaśravo",
+     "gloss": "with-long-hair-and-beards",
+     "grounds": "description of the inhabitants",
+     "morph": "compound"
+    },
+    {
+     "surface": "gosadharmakāḥ",
+     "gloss": "having-cow-like-nature",
+     "grounds": "description of the inhabitants",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nagnāḥ",
+     "gloss": "naked",
+     "grounds": "description of the inhabitants",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saṃvatsarāśītijīvinastṛṇabhojinaḥ",
+     "gloss": "living-eighty-years eating-grass",
+     "grounds": "lifespan and diet of the inhabitants",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the inhabitants of Vidyutvan described in appearance, conduct, and lifespan?",
+   "premises": [
+    "The inhabitants are smeared with dirt, have long hair and beards, and go naked.",
+    "They have a cow-like nature.",
+    "They live for eighty years and eat grass."
+   ],
+   "inference": "The people of Vidyutvan are portrayed as primitive, naked, grass-eating beings with a long but finite lifespan.",
+   "uncertainties": [],
+   "plain_english": "They are smeared with dirt, have long hair and beards, go naked, and behave like cows. They live for eighty years and eat grass."
+  },
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "niryantrāṇi",
+     "gloss": "unbarred",
+     "grounds": "nature of the entrances",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "time of being open",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of the entrances",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvārāṇi",
+     "gloss": "doors",
+     "grounds": "entrances to the netherworld",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bilasiddhaye",
+     "gloss": "for-attaining-the-netherworld",
+     "grounds": "purpose of the doors",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "ityetad",
+     "gloss": "thus this",
+     "grounds": "reference to the teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurubhirgītaṃ",
+     "gloss": "sung-by-the-teachers",
+     "grounds": "source of the teaching",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrīmadrauravaśāsane",
+     "gloss": "in-the-revered-Raurava-scripture",
+     "grounds": "scriptural authority",
+     "morph": "compound"
+    }
+   ],
+   "question": "What scriptural authority describes the entrances to the netherworld in that region?",
+   "premises": [
+    "There are always unbarred doors there for reaching the netherworld.",
+    "This teaching was sung by the teachers.",
+    "The teaching is found in the revered Raurava scripture."
+   ],
+   "inference": "The account of open entrances to the netherworld is grounded in the authority of the Raurava scripture.",
+   "uncertainties": [],
+   "plain_english": "There are always unbarred doors there for entering the netherworld. This is taught by the teachers in the revered Raurava scripture."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "summary of the preceding account",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "relative reference to the ocean",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative reference to the ocean",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lavaṇasamudraḥ",
+     "gloss": "salt-ocean",
+     "grounds": "the ocean described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratipāditaḥ",
+     "gloss": "explained",
+     "grounds": "completion of the description",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadbahiḥ",
+     "gloss": "outside-it",
+     "grounds": "location beyond the salt ocean",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍamī",
+     "gloss": "these-six",
+     "grounds": "number of continents",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dvīpāḥ",
+     "gloss": "continents",
+     "grounds": "landmasses beyond the ocean",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "distribution of surrounding oceans",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svārṇavairvṛtāḥ",
+     "gloss": "surrounded-by-their-own-oceans",
+     "grounds": "arrangement of continents and oceans",
+     "morph": "compound"
+    }
+   ],
+   "question": "What lies beyond the salt ocean after its description is completed?",
+   "premises": [
+    "The salt ocean has now been explained.",
+    "Beyond the salt ocean there are six continents.",
+    "Each of those continents is surrounded by its own ocean."
+   ],
+   "inference": "The cosmography extends outward from the salt ocean into six further continents, each ringed by a distinct ocean.",
+   "uncertainties": [],
+   "plain_english": "Thus the salt ocean has been described. Beyond it lie six continents, and each one is surrounded by its own ocean."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "kramadviguṇitāḥ",
+     "gloss": "successively-doubled",
+     "grounds": "size progression of the continents",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṣaḍbhirmanuputrairadhiṣṭhitāḥ",
+     "gloss": "ruled-by-six-sons-of-Manu",
+     "grounds": "rulers of the continents",
+     "morph": "compound"
+    },
+    {
+     "surface": "śākakuśakrauñcāḥ",
+     "gloss": "Shaka Kusha and Krauncha",
+     "grounds": "names of continents",
+     "morph": "compound"
+    },
+    {
+     "surface": "śalmaligomedhābjamiti",
+     "gloss": "Shalmali Gomeda and Pushkara thus",
+     "grounds": "names of continents",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍdvīpāḥ",
+     "gloss": "six-continents",
+     "grounds": "the six landmasses",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kṣīradadhisarpiraikṣavamadirāmadhurāmbukāḥ",
+     "gloss": "with-milk-curd-ghee-sugarcane-liquor-and-sweet-water",
+     "grounds": "the oceans surrounding the continents",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍambudhayaḥ",
+     "gloss": "six-oceans",
+     "grounds": "the six surrounding oceans",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which six continents and six oceans follow the salt ocean in order?",
+   "premises": [
+    "The six continents are successively doubled in size and ruled by six sons of Manu.",
+    "The continents are Shaka, Kusha, Krauncha, Shalmali, Gomeda, and Pushkara.",
+    "The six oceans are of milk, curd, ghee, sugarcane juice, liquor, and sweet water."
+   ],
+   "inference": "Beyond the salt ocean the world expands through six named continents and six corresponding oceans in a fixed order.",
+   "uncertainties": [],
+   "plain_english": "The six continents, each successively doubled in size and ruled by six sons of Manu, are Shaka, Kusha, Krauncha, Shalmali, Gomeda, and Pushkara. Their six oceans are of milk, curd, ghee, sugarcane juice, liquor, and sweet water."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "medhātithirvapuṣmāñjyotiṣmāndyutimatā",
+     "gloss": "Medhatithi Vapushmat Jyotishmat with-Dyutimat",
+     "grounds": "names of rulers",
+     "morph": "compound"
+    },
+    {
+     "surface": "havī",
+     "gloss": "Havi",
+     "grounds": "name of a ruler",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "title of the ruler",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃvara",
+     "gloss": "Samvara",
+     "grounds": "name of a ruler",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "completion of the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śākādiṣu",
+     "gloss": "in-Shaka-and-the-rest",
+     "grounds": "continents ruled by them",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "jambudvīpe",
+     "gloss": "in-Jambu-continent",
+     "grounds": "continent ruled by Agnidhra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyarūpi",
+     "gloss": "was-appointed",
+     "grounds": "appointment of the ruler",
+     "morph": "3.sg.pass-aorist"
+    },
+    {
+     "surface": "cāgnīdhraḥ",
+     "gloss": "and-Agnidhra",
+     "grounds": "ruler of Jambu continent",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who are the rulers assigned to Shaka and the other continents, and who rules Jambu?",
+   "premises": [
+    "Medhatithi, Vapushmat, Jyotishmat, Dyutimat, King Havi, and Samvara rule Shaka and the other continents.",
+    "Agnidhra was appointed in Jambu continent."
+   ],
+   "inference": "The cosmography assigns a specific Manu-descended ruler to each of the named continents, including Agnidhra for Jambu.",
+   "uncertainties": [],
+   "plain_english": "Medhatithi, Vapushmat, Jyotishmat, Dyutimat, King Havi, and Samvara rule Shaka and the other continents, and Agnidhra was appointed over Jambu continent."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "girisaptakaparikalpitatāvatkhaṇḍāstu",
+     "gloss": "but-divided-into-as-many-regions-by-seven-mountains",
+     "grounds": "internal division of the continents",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number of continents so divided",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śākādyāḥ",
+     "gloss": "Shaka-and-the-rest",
+     "grounds": "the continents divided by mountains",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "puṣkarasaṃjño",
+     "gloss": "named-Pushkara",
+     "grounds": "the sixth continent",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvidalo",
+     "gloss": "two-parted",
+     "grounds": "division of Pushkara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hariyamavaruṇendavo@tra",
+     "gloss": "Hari Yama Varuna and Indra there",
+     "grounds": "rulers of Pushkara's regions",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvādau",
+     "gloss": "in-the-east-and-so-on",
+     "grounds": "directional placement of rulers",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are Shaka and the other continents internally divided, and how is Pushkara arranged?",
+   "premises": [
+    "The five continents beginning with Shaka are divided into regions by seven mountains each.",
+    "Pushkara is divided into two parts.",
+    "Hari, Yama, Varuna, and Indra rule there in the eastern and other directions."
+   ],
+   "inference": "Most of the outer continents follow a seven-mountain division, while Pushkara has a distinct two-part structure with directional rulers.",
+   "uncertainties": [
+    "The four rulers in Pushkara are given, but their exact assignment to the two parts is not fully explicit."
+   ],
+   "plain_english": "The five continents beginning with Shaka are each divided into regions by seven mountains. Pushkara is divided into two parts, and there Hari, Yama, Varuna, and Indra rule in the east and the other directions."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "tripañcāśacca",
+     "gloss": "and-fifty-three",
+     "grounds": "part of the total measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣāṇi",
+     "gloss": "hundred-thousands",
+     "grounds": "unit of measure",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dvikoṭyayutapañcakam",
+     "gloss": "two-crores-plus-fifty-thousand",
+     "grounds": "part of the total measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "svādvarṇavāntaṃ",
+     "gloss": "ending-with-the-sweet-water-ocean",
+     "grounds": "extent of the measured region",
+     "morph": "compound"
+    },
+    {
+     "surface": "mervardhādyojananāmiyaṃ",
+     "gloss": "from-half-of-Meru in-yojanas this",
+     "grounds": "basis and unit of the measurement",
+     "morph": "compound"
+    },
+    {
+     "surface": "pramā",
+     "gloss": "measure",
+     "grounds": "total measurement",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the total measured extent from half of Meru to the end of the sweet-water ocean?",
+   "premises": [
+    "The measurement is given in yojanas from half of Meru.",
+    "The extent reaches to the end of the sweet-water ocean.",
+    "The total measure is two crores, fifty-three hundred-thousands, and fifty thousand yojanas."
+   ],
+   "inference": "The cosmography gives a precise cumulative distance for the world-system up to the sweet-water ocean.",
+   "uncertainties": [
+    "The exact parsing of the large number compound follows the traditional reading but is compressed."
+   ],
+   "plain_english": "From half of Meru up to the end of the sweet-water ocean, the total measure is two crores, fifty-three lakhs, and fifty thousand yojanas."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "saptamajaladherbāhye",
+     "gloss": "outside-the-seventh-ocean",
+     "grounds": "location beyond the seventh ocean",
+     "morph": "compound"
+    },
+    {
+     "surface": "haimī",
+     "gloss": "golden",
+     "grounds": "nature of the land",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūḥ",
+     "gloss": "land",
+     "grounds": "the golden region",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "koṭidaśakamatha",
+     "gloss": "then-ten-crores",
+     "grounds": "extent of the region",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣam",
+     "gloss": "one-hundred-thousand",
+     "grounds": "height of the boundary mountain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucchrityā",
+     "gloss": "in-height",
+     "grounds": "vertical measure",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vistārādayutaṃ",
+     "gloss": "ten-thousand-in-breadth",
+     "grounds": "breadth of the boundary mountain",
+     "morph": "compound"
+    },
+    {
+     "surface": "loketarācalaḥ",
+     "gloss": "mountain-other-than-the-world",
+     "grounds": "the Lokāloka boundary mountain",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "is-described",
+     "grounds": "statement of the teaching",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What lies beyond the seventh ocean and what boundary mountain is described there?",
+   "premises": [
+    "Outside the seventh ocean there is a golden land extending ten crores of yojanas.",
+    "Beyond it is described the Lokāloka mountain, different from the inhabited world.",
+    "That mountain is one hundred thousand yojanas high and ten thousand yojanas broad."
+   ],
+   "inference": "The golden land beyond the seventh ocean ends at the Lokāloka mountain, which marks the boundary of the world.",
+   "uncertainties": [],
+   "plain_english": "Beyond the seventh ocean lies a golden land extending ten crores of yojanas. After that is the Lokāloka mountain, one hundred thousand yojanas high and ten thousand yojanas broad."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "lokālokadigaṣṭaka",
+     "gloss": "in-the-eight-directions-of-Lokaloka",
+     "grounds": "location of the Rudras",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃsthaṃ",
+     "gloss": "situated",
+     "grounds": "position of the Rudras",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rudrāṣṭakaṃ",
+     "gloss": "group-of-eight-Rudras",
+     "grounds": "deities stationed there",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "salokeśam",
+     "gloss": "with-the-world-lords",
+     "grounds": "companions of the Rudras",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kevalamityapi",
+     "gloss": "and-also-only-this",
+     "grounds": "alternative view",
+     "morph": "compound"
+    },
+    {
+     "surface": "kecillokālokāntare",
+     "gloss": "some-say within-Lokaloka",
+     "grounds": "limit of the sun's reach",
+     "morph": "compound"
+    },
+    {
+     "surface": "ravirna",
+     "gloss": "the-sun not",
+     "grounds": "sun does not go beyond",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "beyond Lokāloka",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is stationed at Lokāloka and how far does the sun travel according to some teachers?",
+   "premises": [
+    "A group of eight Rudras together with the world-lords is situated in the eight directions of Lokāloka.",
+    "Some teachers hold that the sun travels only within Lokāloka.",
+    "According to that view, the sun does not go beyond Lokāloka."
+   ],
+   "inference": "Lokāloka is both a divine station of Rudras and, for some authorities, the outer limit of the sun's course.",
+   "uncertainties": [],
+   "plain_english": "Eight Rudras with the world-lords are stationed in the eight directions of Lokāloka. Some say the sun moves only within Lokāloka and never goes beyond it."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "pitṛdevapathāvasyodagdakṣiṇagau",
+     "gloss": "the-paths-of-ancestors-and-gods going-north-and-south",
+     "grounds": "two solar paths",
+     "morph": "compound"
+    },
+    {
+     "surface": "svajātpare",
+     "gloss": "beyond-its-own-birth",
+     "grounds": "relation to the sun's course",
+     "morph": "compound"
+    },
+    {
+     "surface": "vīthyau",
+     "gloss": "two-tracks",
+     "grounds": "the two courses",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "bhānoruttaradakṣiṇamayanadvayametadeva",
+     "gloss": "this-very-northern-and-southern-course-of-the-sun",
+     "grounds": "identification of the two paths",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathayanti",
+     "gloss": "they-say",
+     "grounds": "traditional teaching",
+     "morph": "3.pl.pres.act"
+    }
+   ],
+   "question": "How are the sun's northern and southern courses identified in traditional teaching?",
+   "premises": [
+    "The paths of the ancestors and the gods go south and north.",
+    "These are described as two tracks beyond the sun's own rising point.",
+    "Teachers identify them as the sun's northern and southern courses."
+   ],
+   "inference": "The traditional doctrine equates the ancestral and divine paths with the sun's two ayanas, its southern and northern courses.",
+   "uncertainties": [
+    "The phrase svajātpare is somewhat compressed and may refer to the sun's position relative to its rising."
+   ],
+   "plain_english": "The paths of the ancestors and the gods, going south and north, are the sun's two tracks. Teachers say these are the sun's southern and northern courses."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "'sarveṣāmuttaro",
+     "gloss": "north-of-all",
+     "grounds": "quoted position of Meru",
+     "morph": "compound"
+    },
+    {
+     "surface": "merurlokālokaśca",
+     "gloss": "Meru and-Lokaloka",
+     "grounds": "the two reference points",
+     "morph": "compound"
+    },
+    {
+     "surface": "dakṣiṇaḥ.'",
+     "gloss": "south",
+     "grounds": "quoted position of Lokāloka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udayāstamayāvitthaṃ",
+     "gloss": "thus-rising-and-setting",
+     "grounds": "how sunrise and sunset are understood",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūryasya",
+     "gloss": "of-the-sun",
+     "grounds": "subject of rising and setting",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paribhāvayet",
+     "gloss": "one-should-conceive",
+     "grounds": "instruction for understanding",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "How should the sun's rising and setting be understood in relation to Meru and Lokāloka?",
+   "premises": [
+    "Meru is said to be north of all.",
+    "Lokāloka is said to be south.",
+    "The sun's rising and setting should be conceived in relation to these two reference points."
+   ],
+   "inference": "Sunrise and sunset are explained cosmographically by the fixed positions of Meru in the north and Lokāloka in the south.",
+   "uncertainties": [],
+   "plain_english": "Meru is north of all and Lokāloka is south. In this way one should understand the sun's rising and setting."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "ardharātro@marāvatyāṃ",
+     "gloss": "midnight in-Amaravati",
+     "grounds": "time in Indra's city",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāmyāyāmastameva",
+     "gloss": "in-Yama's-city just-sunset",
+     "grounds": "time in Yama's city",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the time statements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyandinaṃ",
+     "gloss": "midday",
+     "grounds": "time in Varuna's city",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvāruṇyāṃ",
+     "gloss": "then in-Varuna's-city",
+     "grounds": "location of midday",
+     "morph": "compound"
+    },
+    {
+     "surface": "saumye",
+     "gloss": "in-Soma's-city",
+     "grounds": "location of sunrise",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sūryodayaḥ",
+     "gloss": "sunrise",
+     "grounds": "time in Soma's city",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "traditional teaching",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do the times of day differ simultaneously in the four directional cities?",
+   "premises": [
+    "When it is midnight in Amaravati, it is sunset in Yama's city.",
+    "At that same time it is midday in Varuna's city.",
+    "At that same time it is sunrise in Soma's city."
+   ],
+   "inference": "The sun's motion produces different simultaneous times in the four directional cities around Meru.",
+   "uncertainties": [],
+   "plain_english": "When it is midnight in Amaravati, it is sunset in Yama's city, midday in Varuna's city, and sunrise in Soma's city."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "udayo",
+     "gloss": "sunrise",
+     "grounds": "time in Amaravati",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yo@marāvatyāṃ",
+     "gloss": "which in-Amaravati",
+     "grounds": "reference point",
+     "morph": "compound"
+    },
+    {
+     "surface": "so@rdharātro",
+     "gloss": "that midnight",
+     "grounds": "time in Yama's city",
+     "morph": "compound"
+    },
+    {
+     "surface": "yamālaye",
+     "gloss": "in-Yama's-abode",
+     "grounds": "location of midnight",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ke@staṃ",
+     "gloss": "in-Kubera's-city sunset",
+     "grounds": "time in Soma's city",
+     "morph": "compound"
+    },
+    {
+     "surface": "saumye",
+     "gloss": "in-Soma's-city",
+     "grounds": "location of sunset",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the time statements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyāhna",
+     "gloss": "midday",
+     "grounds": "time in Varuna's city",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "summary of the pattern",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryagatāgate",
+     "gloss": "the-sun's-going-and-coming",
+     "grounds": "solar motion",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the same solar motion create another set of simultaneous times in the four cities?",
+   "premises": [
+    "When it is sunrise in Amaravati, it is midnight in Yama's abode.",
+    "At that same time it is sunset in Soma's city and midday in Varuna's city.",
+    "This pattern follows the sun's going and coming."
+   ],
+   "inference": "The alternating times in the four cities are explained as effects of the sun's continuous circuit.",
+   "uncertainties": [
+    "ke@staṃ is read as referring to Kubera/Soma's quarter with sunset."
+   ],
+   "plain_english": "When it is sunrise in Amaravati, it is midnight in Yama's abode, sunset in Soma's city, and midday in Varuna's city. Thus the times change with the sun's movement."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "pañcatriṃ",
+     "gloss": "thirty-five",
+     "grounds": "part of the number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatkoṭisaṃkhyā",
+     "gloss": "hundred-crore in-number",
+     "grounds": "scale of the darkness",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣāṇyekonaviṃśatiḥ",
+     "gloss": "nineteen-hundred-thousands",
+     "grounds": "part of the number",
+     "morph": "compound"
+    },
+    {
+     "surface": "catvāriṃśatsahasrāṇi",
+     "gloss": "forty-thousand",
+     "grounds": "part of the number",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhvāntaṃ",
+     "gloss": "darkness",
+     "grounds": "region beyond Lokāloka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lokācalādbahiḥ",
+     "gloss": "outside-the-world-mountain",
+     "grounds": "location of the darkness",
+     "morph": "compound"
+    }
+   ],
+   "question": "How vast is the darkness beyond the Lokāloka mountain?",
+   "premises": [
+    "Beyond the Lokāloka mountain there is darkness.",
+    "Its extent is measured in crores, lakhs, and thousands of yojanas.",
+    "The stated measure is thirty-five hundred crores, nineteen lakhs, and forty thousand yojanas."
+   ],
+   "inference": "The cosmography places an immense region of darkness outside the boundary mountain of the world.",
+   "uncertainties": [
+    "The large numerical compound is interpreted according to the standard cosmological reading."
+   ],
+   "plain_english": "Beyond the Lokāloka mountain lies darkness extending thirty-five hundred crores, nineteen lakhs, and forty thousand yojanas."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "saptasāgaramānastu",
+     "gloss": "but-equal-to-the-seven-oceans",
+     "grounds": "measure of Garbhoda ocean",
+     "morph": "compound"
+    },
+    {
+     "surface": "garbhodākhyaḥ",
+     "gloss": "called-Garbhoda",
+     "grounds": "name of the ocean",
+     "morph": "compound"
+    },
+    {
+     "surface": "samudrarāṭ",
+     "gloss": "king-of-oceans",
+     "grounds": "status of Garbhoda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lokālokasya",
+     "gloss": "of-Lokaloka",
+     "grounds": "reference boundary",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parato",
+     "gloss": "beyond",
+     "grounds": "location relative to Lokāloka",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadgarbhe",
+     "gloss": "in-whose-womb",
+     "grounds": "Garbhoda contains the earth",
+     "morph": "compound"
+    },
+    {
+     "surface": "nikhilaiva",
+     "gloss": "the-entire",
+     "grounds": "totality of the earth",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūḥ",
+     "gloss": "earth",
+     "grounds": "the world contained within",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the Garbhoda ocean and what does it contain beyond Lokāloka?",
+   "premises": [
+    "Beyond Lokāloka lies the Garbhoda ocean, called the king of oceans.",
+    "Its measure is equal to that of the seven oceans.",
+    "The entire earth is contained within its womb."
+   ],
+   "inference": "Garbhoda is presented as the vast containing ocean in which the whole earth-system rests.",
+   "uncertainties": [],
+   "plain_english": "Beyond Lokāloka lies the Garbhoda ocean, the king of oceans, equal in measure to the seven oceans. In its womb rests the entire earth."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "siddhātantre@tra",
+     "gloss": "in-the-Siddhanta-scripture here",
+     "grounds": "scriptural source",
+     "morph": "compound"
+    },
+    {
+     "surface": "garbhābdhestīre",
+     "gloss": "on-the-shore-of-the-Garbhoda-ocean",
+     "grounds": "location described",
+     "morph": "compound"
+    },
+    {
+     "surface": "kauśeyasaṃjñitam",
+     "gloss": "named-Kausheya",
+     "grounds": "name of the region",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "region",
+     "grounds": "the area on the shore",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "garuḍastatra",
+     "gloss": "Garuda there",
+     "grounds": "being present there",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhapakṣasamāvṛtaḥ",
+     "gloss": "surrounded-by-accomplished-birds",
+     "grounds": "Garuda's retinue",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does the Siddhanta scripture place on the shore of the Garbhoda ocean?",
+   "premises": [
+    "The Siddhanta scripture describes a region on the shore of the Garbhoda ocean.",
+    "That region is named Kausheya.",
+    "Garuda dwells there surrounded by accomplished birds."
+   ],
+   "inference": "The shore of the Garbhoda ocean contains a named region, Kausheya, associated with Garuda and his retinue.",
+   "uncertainties": [],
+   "plain_english": "According to the Siddhanta scripture, on the shore of the Garbhoda ocean is a region called Kausheya. There Garuda lives surrounded by accomplished birds."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "krīḍantiṃ",
+     "gloss": "sporting",
+     "grounds": "activity of the beings there",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parvatāgre",
+     "gloss": "on-the-mountain-top",
+     "grounds": "location of their sport",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "the beings there",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "number of principal mountains",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cātra",
+     "gloss": "and-here",
+     "grounds": "location of the mountains",
+     "morph": "compound"
+    },
+    {
+     "surface": "kulādrayaḥ",
+     "gloss": "principal-mountains",
+     "grounds": "major mountains in that region",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "next region in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uṣṇodakāstriṃśannadyaḥpātālagāstataḥ",
+     "gloss": "then-thirty-hot-water-rivers going-to-the-netherworld",
+     "grounds": "rivers flowing from there",
+     "morph": "compound"
+    }
+   ],
+   "question": "What features are found in the Kausheya region beyond Garuda's presence?",
+   "premises": [
+    "Beings sport on the mountain tops there.",
+    "There are nine principal mountains in that region.",
+    "Beyond them flow thirty hot-water rivers that go down to the netherworld."
+   ],
+   "inference": "The Kausheya region contains inhabited mountain heights and a system of hot rivers descending to the netherworld.",
+   "uncertainties": [
+    "The compound at the end is dense and may also imply a sequence of locations."
+   ],
+   "plain_english": "There they sport on mountain tops, and there are nine principal mountains. Beyond them are thirty hot-water rivers that flow down to the netherworld."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "caturdiṅnaimirodyānaṃ",
+     "gloss": "Naimi-garden in-the-four-directions",
+     "grounds": "garden in that region",
+     "morph": "compound"
+    },
+    {
+     "surface": "yoginīsevitaṃ",
+     "gloss": "attended-by-yoginis",
+     "grounds": "inhabitants of the garden",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "next in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "merustato",
+     "gloss": "Meru then",
+     "grounds": "next landmark",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāgā",
+     "gloss": "serpents",
+     "grounds": "beings in the next region",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "meghā",
+     "gloss": "clouds",
+     "grounds": "next region or beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hemāṇḍakaṃ",
+     "gloss": "golden-egg",
+     "grounds": "cosmic enclosure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next in sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of regions and beings follows the hot-water rivers toward the cosmic enclosure?",
+   "premises": [
+    "There is the Naimi garden in the four directions, always attended by yoginis.",
+    "Beyond it come Meru, then serpents, then clouds.",
+    "After that comes the golden egg."
+   ],
+   "inference": "The cosmography moves through a sacred sequence from the yogini-attended garden to the golden cosmic enclosure.",
+   "uncertainties": [
+    "The brief list may compress distinct regions into a single sequence."
+   ],
+   "plain_english": "Then comes the Naimi garden in the four directions, always attended by yoginis. After that are Meru, the serpents, the clouds, and then the golden egg."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "brahmaṇo@ṇḍakaṭāhena",
+     "gloss": "by-the-shell-of-Brahma's-egg",
+     "grounds": "outer boundary of the world",
+     "morph": "compound"
+    },
+    {
+     "surface": "merorardhena",
+     "gloss": "by-half-of-Meru",
+     "grounds": "measure related to Meru",
+     "morph": "compound"
+    },
+    {
+     "surface": "koṭayaḥ",
+     "gloss": "crores",
+     "grounds": "unit of extent",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pañcāśadevaṃ",
+     "gloss": "fifty thus",
+     "grounds": "total extent",
+     "morph": "compound"
+    },
+    {
+     "surface": "daśasu",
+     "gloss": "in-the-ten",
+     "grounds": "extent in all directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "dicu",
+     "gloss": "directions",
+     "grounds": "spatial directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "bhūrlokasaṃjñitam",
+     "gloss": "called-the-earth-world",
+     "grounds": "name of this world-system",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the total extent of the world called Bhurloka within Brahma's cosmic shell?",
+   "premises": [
+    "The world is bounded by the shell of Brahma's egg.",
+    "Its extent is measured in relation to half of Meru.",
+    "It extends fifty crores of yojanas in the ten directions and is called Bhurloka."
+   ],
+   "inference": "Bhurloka is defined as a vast, directionally measured world enclosed within Brahma's cosmic egg.",
+   "uncertainties": [
+    "The role of merorardhena in the measurement is syntactically compressed."
+   ],
+   "plain_english": "Enclosed by the shell of Brahma's egg, the world called Bhurloka extends fifty crores of yojanas in the ten directions."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "paśukhagamṛgatarumānuṣasarīsṛpaiḥ",
+     "gloss": "by-beasts-birds-deer-trees-humans-and-reptiles",
+     "grounds": "classes of beings in Bhurloka",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍbhireṣa",
+     "gloss": "by-these-six this",
+     "grounds": "sixfold population",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūrlokaḥ",
+     "gloss": "earth-world",
+     "grounds": "the inhabited world",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāptaḥ",
+     "gloss": "pervaded",
+     "grounds": "filled by these beings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "piśācarakṣogandharvāṇāṃ",
+     "gloss": "of-pishachas-rakshasas-and-gandharvas",
+     "grounds": "other classes of beings",
+     "morph": "compound"
+    },
+    {
+     "surface": "sayakṣāṇām",
+     "gloss": "together-with-yakshas",
+     "grounds": "additional beings",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which kinds of beings pervade the earth-world called Bhurloka?",
+   "premises": [
+    "Bhurloka is pervaded by six classes: beasts, birds, deer, trees, humans, and reptiles.",
+    "It is also inhabited by pishachas, rakshasas, gandharvas, and yakshas."
+   ],
+   "inference": "Bhurloka contains both ordinary embodied life-forms and various semi-divine or supernatural beings.",
+   "uncertainties": [],
+   "plain_english": "This earth-world is filled with six kinds of beings: beasts, birds, deer, trees, humans, and reptiles. It is also inhabited by pishachas, rakshasas, gandharvas, and yakshas."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "vidyābhṛtāṃ",
+     "gloss": "of-the-vidyadharas",
+     "grounds": "another class of beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds to the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "rhetorical extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "rhetorical extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahunā",
+     "gloss": "with-much",
+     "grounds": "rhetorical shortening",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "all created beings",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhūtasargasya",
+     "gloss": "of-the-creation-of-beings",
+     "grounds": "the whole realm of creatures",
+     "morph": "compound"
+    },
+    {
+     "surface": "abhimānato",
+     "gloss": "according-to-desire",
+     "grounds": "basis for choosing residence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatheṣṭaṃ",
+     "gloss": "as-desired",
+     "grounds": "freedom of enjoyment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogasthānaṃ",
+     "gloss": "place-of-enjoyment",
+     "grounds": "where beings enjoy",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nivāsaśca",
+     "gloss": "and-residence",
+     "grounds": "where beings dwell",
+     "morph": "compound"
+    }
+   ],
+   "question": "How broadly does Bhurloka serve as a place of enjoyment and residence for beings?",
+   "premises": [
+    "Vidyadharas and many other beings are included in Bhurloka.",
+    "The text extends the account to the whole creation of beings.",
+    "All beings may have places of enjoyment and residence there according to their desire."
+   ],
+   "inference": "Bhurloka functions as a comprehensive world of habitation and enjoyment for the full range of embodied beings.",
+   "uncertainties": [
+    "abhimānato can suggest desire, self-conception, or inclination; 'according to desire' fits the context best."
+   ],
+   "plain_english": "It is also the abode of vidyadharas, and in short, for the whole creation of beings it serves as a place of enjoyment and residence according to their desire."
+  }
+ ]
+}

@@ -1,0 +1,1494 @@
+{
+ "song": "Tantraloka 8.73-96",
+ "items": [
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "kuruvarṣasyottare@tha",
+     "gloss": "north-of-Kuruvarsha-then",
+     "grounds": "kuruvarṣa, uttara, atha",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāyavye@bdhau",
+     "gloss": "in-northwest-ocean",
+     "grounds": "vāyavya, abdhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramāccharāḥ",
+     "gloss": "in-order-lakes",
+     "grounds": "krama, śara",
+     "morph": "compound"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "daśan",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "ca, iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sahasrāṇi",
+     "gloss": "thousands",
+     "grounds": "sahasra",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dvīpau",
+     "gloss": "two-islands",
+     "grounds": "dvīpa",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "candro@tha",
+     "gloss": "Candra-then",
+     "grounds": "candra, atha",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhadrakaḥ",
+     "gloss": "Bhadraka",
+     "grounds": "bhadraka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What lakes and islands lie north of Kuruvarsha in the northwest ocean?",
+   "premises": [
+    "North of Kuruvarsha in the northwest ocean there are ten thousand lakes in order.",
+    "There are two islands there named Candra and Bhadraka."
+   ],
+   "inference": "The region north of Kuruvarsha in the northwest ocean contains ten thousand lakes and the two islands Candra and Bhadraka.",
+   "uncertainties": [
+    "The exact syntactic role of 'kramāt' is slightly compressed in the compound."
+   ],
+   "plain_english": "North of Kuruvarsha, in the northwest ocean, there are ten thousand lakes in sequence, and two islands called Candra and Bhadraka."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "yau",
+     "gloss": "which-two",
+     "grounds": "yad",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "śvetaśṛṅgiṇau",
+     "gloss": "having-white-peaks",
+     "grounds": "śveta, śṛṅgin",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "merorvāme",
+     "gloss": "on-left-of-Meru",
+     "grounds": "meru, vāma",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "madhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hiraṇmayam",
+     "gloss": "golden-region",
+     "grounds": "hiraṇmaya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tayornavakavistīrṇamāyuścārdhatrayodaśa",
+     "gloss": "between-them-nine-thousand-wide-and-life-thirteen-and-a-half",
+     "grounds": "tad, navaka, vistīrṇa, āyus, ca, ardha, trayodaśan",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the golden region between the two white-peaked mountains west of Meru?",
+   "premises": [
+    "Two white-peaked mountains stand on the left side of Meru.",
+    "Between them lies a golden region nine thousand in extent.",
+    "The lifespan there is thirteen and a half thousand years."
+   ],
+   "inference": "The golden region between the two white-peaked mountains west of Meru measures nine thousand and grants a lifespan of thirteen and a half thousand years.",
+   "uncertainties": [
+    "The unit for 'navaka' and 'ardhatrayodaśa' is supplied from context as thousands."
+   ],
+   "plain_english": "On the left side of Meru are two white-peaked mountains, and between them lies a golden region nine thousand wide, where the lifespan is thirteen and a half thousand years."
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "vai",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vāmataḥ",
+     "gloss": "to-the-left",
+     "grounds": "vāma",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śvetanīlayo",
+     "gloss": "of-Shveta-and-Nila",
+     "grounds": "śveta, nīla",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ramyako@ntare",
+     "gloss": "Ramyaka-between",
+     "grounds": "ramyaka, antara",
+     "morph": "compound"
+    },
+    {
+     "surface": "sahasranavavistīrṇamāyurdvādaśa",
+     "gloss": "nine-thousand-wide-and-life-twelve",
+     "grounds": "sahasra, nava, vistīrṇa, āyus, dvādaśan",
+     "morph": "compound"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "tad",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What region lies between the Shveta and Nila mountains to the left?",
+   "premises": [
+    "To the left there are the Shveta and Nila mountains.",
+    "Between them lies the region called Ramyaka.",
+    "Ramyaka is nine thousand in extent and its lifespan is twelve thousand years."
+   ],
+   "inference": "Ramyaka, situated between Shveta and Nila to the left, measures nine thousand and has a lifespan of twelve thousand years.",
+   "uncertainties": [
+    "The final 'tāni ca' may refer back to the thousands as units."
+   ],
+   "plain_english": "There, to the left, between the Shveta and Nila mountains, lies Ramyaka, nine thousand wide, where the lifespan is twelve thousand years."
+  },
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "merordakṣiṇato",
+     "gloss": "south-of-Meru",
+     "grounds": "meru, dakṣiṇatas",
+     "morph": "compound"
+    },
+    {
+     "surface": "hemaniṣadhau",
+     "gloss": "Hema-and-Nishadha",
+     "grounds": "hema, niṣadha",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "yau",
+     "gloss": "which-two",
+     "grounds": "yad",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tadantare",
+     "gloss": "between-them",
+     "grounds": "tad, antara",
+     "morph": "compound"
+    },
+    {
+     "surface": "haryākhyaṃ",
+     "gloss": "called-Harya",
+     "grounds": "hari, ākhya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navasāhasraṃ",
+     "gloss": "nine-thousand",
+     "grounds": "nava, sāhasra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatsahasrādhikāyuṣam",
+     "gloss": "with-lifespan-a-thousand-more",
+     "grounds": "tad, sahasra, adhika, āyus",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What region lies between Hema and Nishadha south of Meru?",
+   "premises": [
+    "South of Meru stand the two mountains Hema and Nishadha.",
+    "Between them lies the region called Harya.",
+    "Harya is nine thousand in extent and its lifespan exceeds that by a thousand years."
+   ],
+   "inference": "The region Harya, between Hema and Nishadha south of Meru, measures nine thousand and has a lifespan of ten thousand years.",
+   "uncertainties": [],
+   "plain_english": "South of Meru are the mountains Hema and Nishadha, and between them lies Harya, nine thousand wide, where the lifespan is ten thousand years."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "tatra, eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "to-the-south",
+     "grounds": "dakṣiṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hemahimavaddvitayāntare",
+     "gloss": "between-the-pair-Hema-and-Himavat",
+     "grounds": "hema, himavat, dvitaya, antara",
+     "morph": "compound"
+    },
+    {
+     "surface": "kainnaraṃ",
+     "gloss": "Kinnara-region",
+     "grounds": "kainnara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navasāhasraṃ",
+     "gloss": "nine-thousand",
+     "grounds": "nava, sāhasra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatsahasrādhikāyuṣam",
+     "gloss": "with-lifespan-a-thousand-more",
+     "grounds": "tad, sahasra, adhika, āyus",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What region lies between Hema and Himavat farther south?",
+   "premises": [
+    "Farther south lie the mountains Hema and Himavat.",
+    "Between them lies the Kinnara region.",
+    "The Kinnara region is nine thousand in extent and its lifespan exceeds that by a thousand years."
+   ],
+   "inference": "The Kinnara region, between Hema and Himavat, measures nine thousand and has a lifespan of ten thousand years.",
+   "uncertainties": [],
+   "plain_english": "Farther south, between Hema and Himavat, lies the Kinnara region, nine thousand wide, where the lifespan is ten thousand years."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "tatra, eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "to-the-south",
+     "grounds": "dakṣiṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "merorhimavānyasya",
+     "gloss": "of-Meru-where-Himavat",
+     "grounds": "meru, himavat, yad",
+     "morph": "compound"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "to-the-south",
+     "grounds": "dakṣiṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhārataṃ",
+     "gloss": "Bharata",
+     "grounds": "bhārata",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navasāhasraṃ",
+     "gloss": "nine-thousand",
+     "grounds": "nava, sāhasra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāpavatkarmabhogabhūḥ",
+     "gloss": "and-lowest-land-of-action-and-enjoyment",
+     "grounds": "ca, apavat, karman, bhoga, bhū",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the region south of the Himavat mountain near Meru?",
+   "premises": [
+    "South of the Himavat mountain lies the Bharata region.",
+    "Bharata is nine thousand in extent.",
+    "Bharata is the lowest land where both action and its enjoyment occur."
+   ],
+   "inference": "Bharata, south of Himavat, measures nine thousand and is the lowest realm of both action and enjoyment.",
+   "uncertainties": [
+    "The compound 'merorhimavānyasya' is syntactically compressed."
+   ],
+   "plain_english": "South of the Himavat mountain lies Bharata, nine thousand wide, the lowest land where beings both perform actions and experience their results."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "ilāvṛtaṃ",
+     "gloss": "Ilavrita",
+     "grounds": "ilāvṛta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ketubhadraṃ",
+     "gloss": "Ketubhadra",
+     "grounds": "ketubhadra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuruhairaṇyaramyakam",
+     "gloss": "Kuru-Hairanya-and-Ramyaka",
+     "grounds": "kuru, hairaṇya, ramyaka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "harikinnaravarṣe",
+     "gloss": "in-Hari-and-Kinnara-regions",
+     "grounds": "hari, kinnara, varṣa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhogabhūrna",
+     "gloss": "land-of-enjoyment-not",
+     "grounds": "bhoga, bhū, na",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karmabhūḥ",
+     "gloss": "land-of-action",
+     "grounds": "karman, bhū",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which regions are lands of enjoyment rather than lands of action?",
+   "premises": [
+    "Ilavrita, Ketubhadra, Kuru, Hairanya, Ramyaka, Hari, and the Kinnara regions are named.",
+    "These regions are described as lands of enjoyment.",
+    "These regions are not lands of action."
+   ],
+   "inference": "Ilavrita and the other named regions are realms of enjoyment only, not realms where new karma is performed.",
+   "uncertainties": [],
+   "plain_english": "Ilavrita, Ketubhadra, Kuru, Hairanya, Ramyaka, Hari, and the Kinnara regions are lands of enjoyment, not lands of action."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "atra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bāhulyataḥ",
+     "gloss": "generally",
+     "grounds": "bāhulya",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karmabhūbhāvo@trāpyakarmaṇām",
+     "gloss": "state-of-action-land-here-also-of-non-actors",
+     "grounds": "karmabhū, bhāva, atra, api, akarman",
+     "morph": "compound"
+    },
+    {
+     "surface": "paśūnāṃ",
+     "gloss": "of-bound-beings",
+     "grounds": "paśu",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "karmasaṃskāraḥ",
+     "gloss": "karmic-impression",
+     "grounds": "karman, saṃskāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāttādṛgdṛḍhasaṃskṛteḥ",
+     "gloss": "may-arise-from-such-firm-conditioning",
+     "grounds": "as, tādṛś, dṛḍha, saṃskṛti",
+     "morph": "compound"
+    }
+   ],
+   "question": "Can karmic impressions arise even for beings not acting in a land of action?",
+   "premises": [
+    "Generally these regions are not lands of action.",
+    "Even there, bound beings may not be performing new actions.",
+    "Karmic impressions can still arise due to firm prior conditioning."
+   ],
+   "inference": "Even in regions that are generally not lands of action, bound beings may develop karmic impressions because of strong prior conditioning.",
+   "uncertainties": [
+    "The compound 'karmabhūbhāvo@trāpyakarmaṇām' is dense and allows slight interpretive variation."
+   ],
+   "plain_english": "Although these are generally not lands of action, even there bound beings can form karmic impressions because of firmly established prior conditioning."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "saṃbhavantyapyasaṃskārā",
+     "gloss": "also-arise-those-without-impressions",
+     "grounds": "sambhū, api, asaṃskāra",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhārate@nyatra",
+     "gloss": "in-Bharata-elsewhere",
+     "grounds": "bhārata, anyatra",
+     "morph": "compound"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "ca, api",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "hi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dṛḍhaprāktanasaṃskārādīśecchātaḥ",
+     "gloss": "from-firm-prior-impression-and-by-will-of-the-Lord",
+     "grounds": "dṛḍha, prāktana, saṃskāra, īśa, icchā",
+     "morph": "compound"
+    },
+    {
+     "surface": "śubhāśubham",
+     "gloss": "good-and-bad",
+     "grounds": "śubha, aśubha",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Can beings without fresh impressions still experience good and bad results elsewhere?",
+   "premises": [
+    "Beings without new impressions may arise in Bharata and elsewhere.",
+    "Firm prior impressions persist in them.",
+    "The will of the Lord also operates in their experience."
+   ],
+   "inference": "Even without forming new impressions, beings may undergo good and bad results due to firm prior impressions and the Lord's will.",
+   "uncertainties": [],
+   "plain_english": "Even those without fresh impressions may appear in Bharata or elsewhere, and they still experience good and bad results through firm past impressions and by the will of the Lord."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "sthānāntare@pi",
+     "gloss": "in-another-place-also",
+     "grounds": "sthāna, antara, api",
+     "morph": "compound"
+    },
+    {
+     "surface": "karmāsti",
+     "gloss": "action-exists",
+     "grounds": "karman, as",
+     "morph": "compound"
+    },
+    {
+     "surface": "dṛṣṭaṃ",
+     "gloss": "observed",
+     "grounds": "dṛś",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "tad, ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "purātane",
+     "gloss": "in-ancient-tradition",
+     "grounds": "purātana",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tretā",
+     "gloss": "Treta-age",
+     "grounds": "tretā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "sadā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kālo",
+     "gloss": "time",
+     "grounds": "kāla",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhārate",
+     "gloss": "in-Bharata",
+     "grounds": "bhārata",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturyugam",
+     "gloss": "four-ages",
+     "grounds": "catur, yuga",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does the experience of time differ between other regions and Bharata?",
+   "premises": [
+    "Action is observed to exist in other places as well, according to ancient tradition.",
+    "In those other regions the time is always like the Treta age.",
+    "In Bharata the full cycle of four ages occurs."
+   ],
+   "inference": "Other regions may have action but remain fixed in a Treta-like condition, whereas Bharata passes through all four ages.",
+   "uncertainties": [],
+   "plain_english": "Action is also found in other places, as the ancient tradition shows: there time remains always like Treta, but in Bharata the full cycle of four ages unfolds."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "bhārate",
+     "gloss": "in-Bharata",
+     "grounds": "bhārata",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "navakhaṇḍaṃ",
+     "gloss": "nine-divisions",
+     "grounds": "nava, khaṇḍa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sāmudreṇāmbhasātra",
+     "gloss": "by-ocean-water-here",
+     "grounds": "sāmudra, ambhas, atra",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthalaṃ",
+     "gloss": "land",
+     "grounds": "sthala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcaśatī",
+     "gloss": "five-hundred",
+     "grounds": "pañcaśatī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadvajjalaṃ",
+     "gloss": "likewise-water",
+     "grounds": "tadvat, jala",
+     "morph": "compound"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "ca, iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vibhajyate",
+     "gloss": "is-divided",
+     "grounds": "vi-bhaj",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is the Bharata region divided into land and water?",
+   "premises": [
+    "Bharata consists of nine divisions.",
+    "It is separated here by ocean water.",
+    "The land measures five hundred and the water likewise measures five hundred."
+   ],
+   "inference": "Bharata is divided into nine sections, with land and ocean water each measuring five hundred units.",
+   "uncertainties": [
+    "The unit for 'pañcaśatī' is not explicitly stated in this verse."
+   ],
+   "plain_english": "In Bharata there are nine divisions, separated by ocean water; the land measures five hundred and the water measures five hundred as well."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "indraḥ",
+     "gloss": "Indra",
+     "grounds": "indra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaśerustāmrābho",
+     "gloss": "Kasheru-and-Tamrabha",
+     "grounds": "kaśeru, tāmrābha",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāgīyaḥ",
+     "gloss": "Nagiya",
+     "grounds": "nāgīya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāggabhastimān",
+     "gloss": "Prag-Gabhastiman",
+     "grounds": "prāk, gabhastimat",
+     "morph": "compound"
+    },
+    {
+     "surface": "saumyagāndharvavārāhāḥ",
+     "gloss": "Saumya-Gandharva-and-Varaha",
+     "grounds": "saumya, gāndharva, vārāha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kanyākhyaṃ",
+     "gloss": "called-Kanya",
+     "grounds": "kanyā, ākhya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāsamudrataḥ",
+     "gloss": "and-up-to-the-ocean",
+     "grounds": "ca, ā, samudra",
+     "morph": "compound"
+    }
+   ],
+   "question": "What are the named divisions of Bharata extending to the ocean?",
+   "premises": [
+    "The divisions named are Indra, Kasheru, Tamrabha, Nagiya, Prag-Gabhastiman, Saumya, Gandharva, and Varaha.",
+    "The ninth division is called Kanya.",
+    "These divisions extend up to the ocean."
+   ],
+   "inference": "Bharata's nine divisions include eight named regions and the ninth called Kanya, reaching to the ocean.",
+   "uncertainties": [
+    "The segmentation of the compound names follows traditional cosmological lists and may vary slightly."
+   ],
+   "plain_english": "The divisions are Indra, Kasheru, Tamrabha, Nagiya, Prag-Gabhastiman, Saumya, Gandharva, Varaha, and the ninth called Kanya, extending to the ocean."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "kanyādvīpe",
+     "gloss": "in-Kanya-island",
+     "grounds": "kanyā, dvīpa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "navame",
+     "gloss": "in-the-ninth",
+     "grounds": "navama",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇenābdhimadhyagāḥ",
+     "gloss": "to-the-south-situated-in-mid-ocean",
+     "grounds": "dakṣiṇa, abdhi, madhya, ga",
+     "morph": "compound"
+    },
+    {
+     "surface": "upadvīpāḥ",
+     "gloss": "sub-islands",
+     "grounds": "upadvīpa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "ṣaṣ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kulādrisaptakena",
+     "gloss": "by-seven-chief-mountains",
+     "grounds": "kulādri, saptaka",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vibhūṣite",
+     "gloss": "adorned",
+     "grounds": "vi-bhūṣ",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What sub-islands and mountains are found in the ninth Kanya division?",
+   "premises": [
+    "The ninth division is Kanya island.",
+    "South of it, in the middle of the ocean, there are six sub-islands.",
+    "Kanya is adorned by seven chief mountains."
+   ],
+   "inference": "In the ninth Kanya division there are six oceanic sub-islands to the south and seven chief mountains adorning it.",
+   "uncertainties": [],
+   "plain_english": "In the ninth division, Kanya island, there are six sub-islands in the ocean to the south, and it is adorned by seven chief mountains."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "aṅgayavamalayaśaṅkuḥ",
+     "gloss": "Anga-Yava-Malaya-and-Shanku",
+     "grounds": "aṅga, yava, malaya, śaṅku",
+     "morph": "compound"
+    },
+    {
+     "surface": "kumudavarāhau",
+     "gloss": "Kumuda-and-Varaha",
+     "grounds": "kumuda, varāha",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "malayago@gastya",
+     "gloss": "on-Malaya-Agastya",
+     "grounds": "malaya, ga, agastya",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "tatra, eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "trikūṭe",
+     "gloss": "on-Trikuta",
+     "grounds": "trikūṭa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "laṅkā",
+     "gloss": "Lanka",
+     "grounds": "laṅkā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaḍamī",
+     "gloss": "these-six",
+     "grounds": "ṣaṣ, amī",
+     "morph": "compound"
+    },
+    {
+     "surface": "hyupadvīpāḥ",
+     "gloss": "indeed-sub-islands",
+     "grounds": "hi, upadvīpa",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which mountains and sub-islands are associated with the Kanya region?",
+   "premises": [
+    "The chief mountains include Anga, Yava, Malaya, Shanku, Kumuda, and Varaha.",
+    "Agastya is associated with the Malaya mountain.",
+    "Lanka is located on Trikuta, and these are the six sub-islands."
+   ],
+   "inference": "The Kanya region is marked by six chief mountains and six sub-islands, including Agastya on Malaya and Lanka on Trikuta.",
+   "uncertainties": [
+    "The verse compresses mountains and sub-islands together; traditional lists help disambiguate the grouping."
+   ],
+   "plain_english": "The mountains are Anga, Yava, Malaya, Shanku, Kumuda, and Varaha; Agastya dwells on Malaya, and Lanka stands on Trikuta—these are the six sub-islands."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "dvīpopadvīpagāḥ",
+     "gloss": "dwelling-on-islands-and-sub-islands",
+     "grounds": "dvīpa, upadvīpa, ga",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāyo",
+     "gloss": "mostly",
+     "grounds": "prāyas",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mlecchā",
+     "gloss": "foreign-peoples",
+     "grounds": "mleccha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nānāvidhā",
+     "gloss": "of-various-kinds",
+     "grounds": "nānāvidha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "janāḥ",
+     "gloss": "people",
+     "grounds": "jana",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "muktākāñcanaratnāḍhyā",
+     "gloss": "rich-in-pearls-gold-and-gems",
+     "grounds": "muktā, kāñcana, ratna, āḍhya",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrīruruśāsane",
+     "gloss": "in-the-teaching-of-Shri-Ruru",
+     "grounds": "śrī, ruru, śāsana",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Who inhabits the islands and sub-islands according to the teaching of Shri Ruru?",
+   "premises": [
+    "The islands and sub-islands are inhabited by various peoples.",
+    "These peoples are mostly described as mlecchas.",
+    "The regions are rich in pearls, gold, and gems, according to Shri Ruru's teaching."
+   ],
+   "inference": "According to Shri Ruru's teaching, the islands and sub-islands are mostly inhabited by diverse foreign peoples and abound in precious materials.",
+   "uncertainties": [],
+   "plain_english": "According to the teaching of Shri Ruru, the islands and sub-islands are mostly inhabited by various foreign peoples and are rich in pearls, gold, and gems."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "bhārate",
+     "gloss": "in-Bharata",
+     "grounds": "bhārata",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yatkṛtaṃ",
+     "gloss": "whatever-done",
+     "grounds": "yad, kṛ",
+     "morph": "compound"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "karman",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣapitaṃ",
+     "gloss": "exhausted",
+     "grounds": "kṣap",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpyavīcitaḥ",
+     "gloss": "or-from-the-lowest-hell",
+     "grounds": "vā, api, avīci",
+     "morph": "compound"
+    },
+    {
+     "surface": "śivāntaṃ",
+     "gloss": "up-to-Shiva",
+     "grounds": "śiva, anta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "tad",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "muktirvā",
+     "gloss": "or-liberation",
+     "grounds": "mukti, vā",
+     "morph": "compound"
+    },
+    {
+     "surface": "kanyākhye",
+     "gloss": "in-the-one-called-Kanya",
+     "grounds": "kanyā, ākhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "viśeṣa",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why is action performed in Bharata, especially in Kanya, spiritually decisive?",
+   "premises": [
+    "Action performed in Bharata can be exhausted there.",
+    "Through such action one may attain any state from the lowest hell up to Shiva.",
+    "Liberation is possible through it, especially in the Kanya division."
+   ],
+   "inference": "Bharata, and especially Kanya, is uniquely decisive because action there can lead from the lowest states up to Shiva and even to liberation.",
+   "uncertainties": [],
+   "plain_english": "Whatever action is done in Bharata can be exhausted there, and through it one may reach any state from the lowest hell up to Shiva, or even liberation—especially in the Kanya division."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "mahākālādikā",
+     "gloss": "Mahakala-and-others",
+     "grounds": "mahākāla, ādi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rudrakoṭiratraiva",
+     "gloss": "crore-of-Rudras-here-indeed",
+     "grounds": "rudra, koṭi, atra, eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhārate",
+     "gloss": "in-Bharata",
+     "grounds": "bhārata",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gaṅgādipañcaśatikā",
+     "gloss": "five-hundred-beginning-with-Ganga",
+     "grounds": "gaṅgā, ādi, pañcaśatī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "janman",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tenātra",
+     "gloss": "therefore-here",
+     "grounds": "tena, atra",
+     "morph": "compound"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "hard-to-obtain",
+     "grounds": "durlabha",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What makes birth in Bharata especially rare and precious?",
+   "premises": [
+    "A crore of Rudras beginning with Mahakala are present in Bharata.",
+    "Five hundred sacred rivers beginning with the Ganga are present there.",
+    "Because of this, birth in Bharata is difficult to obtain."
+   ],
+   "inference": "Birth in Bharata is rare because it is filled with powerful divine presences and sacred rivers.",
+   "uncertainties": [],
+   "plain_english": "In Bharata dwell a crore of Rudras beginning with Mahakala and five hundred sacred rivers beginning with the Ganga; therefore birth here is hard to obtain."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "anyavarṣeṣu",
+     "gloss": "in-other-regions",
+     "grounds": "anya, varṣa",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "paśuvad",
+     "gloss": "like-bound-beings",
+     "grounds": "paśu, vat",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhogātkarmātivāhanam",
+     "gloss": "passing-of-karma-through-enjoyment",
+     "grounds": "bhoga, karman, ativāhana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāpyaṃ",
+     "gloss": "to-be-attained",
+     "grounds": "prāp",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manorathātītamapi",
+     "gloss": "even-beyond-desire",
+     "grounds": "manoratha, atīta, api",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāratajanmanām",
+     "gloss": "for-those-born-in-Bharata",
+     "grounds": "bhārata, janman",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "How does life in other regions compare with birth in Bharata?",
+   "premises": [
+    "In other regions beings pass through karma mainly by enjoyment, like bound creatures.",
+    "For those born in Bharata, attainment can go even beyond what is desired.",
+    "Bharata offers more than mere karmic exhaustion through enjoyment."
+   ],
+   "inference": "Other regions allow only enjoyment-based karmic passage, while birth in Bharata can yield attainments beyond desire.",
+   "uncertainties": [],
+   "plain_english": "In other regions beings pass through their karma by enjoyment, like animals; but for those born in Bharata, attainments beyond even desire are possible."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "nānāvarṇāśramācārasukhaduḥkhavicitratā",
+     "gloss": "variety-of-many-classes-stages-conducts-pleasures-and-pains",
+     "grounds": "nānā, varṇa, āśrama, ācāra, sukha, duḥkha, vicitratā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanyādvīpe",
+     "gloss": "in-Kanya-island",
+     "grounds": "kanyā, dvīpa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yatastena",
+     "gloss": "because-therefore",
+     "grounds": "yatas, tena",
+     "morph": "compound"
+    },
+    {
+     "surface": "karmabhūḥ",
+     "gloss": "land-of-action",
+     "grounds": "karman, bhū",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "seyamuttamā",
+     "gloss": "this-is-supreme",
+     "grounds": "sā, iyam, uttama",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why is Kanya island considered the supreme land of action?",
+   "premises": [
+    "Kanya island contains great variety in classes, stages of life, conduct, pleasures, and pains.",
+    "Such variety supports the performance and fruition of action.",
+    "Therefore Kanya is a land of action."
+   ],
+   "inference": "Because of its rich variety of life conditions, Kanya island is the supreme land of action.",
+   "uncertainties": [],
+   "plain_english": "Because Kanya island contains a great variety of social orders, stages of life, conduct, pleasures, and pains, it is the supreme land of action."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "puṃsā",
+     "gloss": "by-a-person",
+     "grounds": "puṃs",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sitāsitānyatra",
+     "gloss": "white-and-black-actions-here",
+     "grounds": "sita, asita, atra",
+     "morph": "compound"
+    },
+    {
+     "surface": "kurvatāṃ",
+     "gloss": "of-those-doing",
+     "grounds": "kṛ",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "kila",
+     "morph": "indecl."
+    },
+    {
+     "surface": "siddhyataḥ",
+     "gloss": "are-accomplished",
+     "grounds": "sidh",
+     "morph": "3.du.pres"
+    },
+    {
+     "surface": "parāparau",
+     "gloss": "higher-and-lower",
+     "grounds": "para, apara",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "svarnirayāviti",
+     "gloss": "heaven-and-hell-thus",
+     "grounds": "svar, niraya, iti",
+     "morph": "compound"
+    },
+    {
+     "surface": "rauravavārtike",
+     "gloss": "in-the-Raurava-varttika",
+     "grounds": "raurava, vārttika",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What results follow from pure and impure actions according to the Raurava tradition?",
+   "premises": [
+    "A person here performs both pure and impure actions.",
+    "These actions lead to higher and lower results.",
+    "The Raurava tradition identifies these results as heaven and hell."
+   ],
+   "inference": "According to the Raurava tradition, pure and impure actions in this realm yield the higher and lower destinies of heaven and hell.",
+   "uncertainties": [
+    "The exact title or scope of 'rauravavārtike' is not fully clear from this verse alone."
+   ],
+   "plain_english": "As stated in the Raurava tradition, those who perform pure and impure actions here attain the higher and lower results of heaven and hell."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "evam",
+     "morph": "indecl."
+    },
+    {
+     "surface": "meroradho",
+     "gloss": "below-Meru",
+     "grounds": "meru, adhas",
+     "morph": "compound"
+    },
+    {
+     "surface": "jambūrabhito",
+     "gloss": "around-Jambu",
+     "grounds": "jambū, abhitas",
+     "morph": "compound"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "yad",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "tad",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vistarāt",
+     "gloss": "in-detail",
+     "grounds": "vistara",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "saptadaśadhā",
+     "gloss": "in-seventeen-ways",
+     "grounds": "saptadaśan",
+     "morph": "indecl."
+    },
+    {
+     "surface": "khaṇḍairnavabhistu",
+     "gloss": "but-by-nine-divisions",
+     "grounds": "khaṇḍa, navan, tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "samāsataḥ",
+     "gloss": "in-summary",
+     "grounds": "samāsa",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the region below Meru around Jambu divided in detail and in summary?",
+   "premises": [
+    "The region below Meru around Jambu is being described.",
+    "In detailed reckoning it is divided into seventeen parts.",
+    "In summary it is divided into nine parts."
+   ],
+   "inference": "The Jambu region below Meru can be counted as seventeen divisions in detail or nine divisions in summary.",
+   "uncertainties": [],
+   "plain_english": "Thus the region below Meru around Jambu is divided into seventeen parts in detail, but into nine parts in summary."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "manoḥ",
+     "gloss": "of-Manu",
+     "grounds": "manu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svāyaṃbhuvasyāsan",
+     "gloss": "of-Svayambhuva-there-were",
+     "grounds": "svāyaṃbhuva, as",
+     "morph": "compound"
+    },
+    {
+     "surface": "sutā",
+     "gloss": "sons",
+     "grounds": "suta",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "daśan",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatastrayaḥ",
+     "gloss": "then-three",
+     "grounds": "tatas, tri",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāvrajannatha",
+     "gloss": "departed-then",
+     "grounds": "pra-vraj, atha",
+     "morph": "compound"
+    },
+    {
+     "surface": "jambvākhye",
+     "gloss": "in-the-one-called-Jambu",
+     "grounds": "jambū, ākhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "rājan",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yo@gnīdhranāmakaḥ",
+     "gloss": "who-named-Agnidhra",
+     "grounds": "yad, agnīdhra, nāmaka",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who ruled the Jambu region among the sons of Svayambhuva Manu?",
+   "premises": [
+    "Svayambhuva Manu had ten sons.",
+    "Three of them departed.",
+    "In the region called Jambu, the king was the one named Agnidhra."
+   ],
+   "inference": "Among Svayambhuva Manu's ten sons, Agnidhra became king in the Jambu region after three departed.",
+   "uncertainties": [],
+   "plain_english": "Svayambhuva Manu had ten sons; three of them departed, and in the region called Jambu the king was Agnidhra."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "tasyābhavannava",
+     "gloss": "of-him-there-were-nine",
+     "grounds": "tad, bhū, navan",
+     "morph": "compound"
+    },
+    {
+     "surface": "sutāstato@yaṃ",
+     "gloss": "sons-then-this",
+     "grounds": "suta, tatas, ayam",
+     "morph": "compound"
+    },
+    {
+     "surface": "navakhaṇḍakaḥ",
+     "gloss": "ninefold-division",
+     "grounds": "nava, khaṇḍaka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nābhiryo",
+     "gloss": "Nabhi-who",
+     "grounds": "nābhi, yad",
+     "morph": "compound"
+    },
+    {
+     "surface": "navamastasya",
+     "gloss": "ninth-of-him",
+     "grounds": "navama, tad",
+     "morph": "compound"
+    },
+    {
+     "surface": "naptā",
+     "gloss": "grandson",
+     "grounds": "naptṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bharata",
+     "gloss": "Bharata",
+     "grounds": "bharata",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ārṣabhiḥ",
+     "gloss": "son-of-Rishabha",
+     "grounds": "ārṣabhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How did the ninefold division arise through Agnidhra's lineage?",
+   "premises": [
+    "Agnidhra had nine sons.",
+    "From that arose the ninefold division.",
+    "Nabhi was the ninth, and his grandson was Bharata, son of Rishabha."
+   ],
+   "inference": "The ninefold division of the region is traced to Agnidhra's nine sons, with Nabhi and later Bharata in that lineage.",
+   "uncertainties": [],
+   "plain_english": "Agnidhra had nine sons, and from them came the ninefold division; Nabhi was the ninth, and his grandson was Bharata, the son of Rishabha."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "tasyāṣṭau",
+     "gloss": "of-him-eight",
+     "grounds": "tad, aṣṭan",
+     "morph": "compound"
+    },
+    {
+     "surface": "tanayāḥ",
+     "gloss": "sons",
+     "grounds": "tanaya",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sākaṃ",
+     "gloss": "together-with",
+     "grounds": "sākam",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kanyayā",
+     "gloss": "a-daughter",
+     "grounds": "kanyā",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "navamoṃ@śakaḥ",
+     "gloss": "ninth-share",
+     "grounds": "navama, aṃśaka",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhuktaistairnavadhā",
+     "gloss": "enjoyed-by-them-in-nine-ways",
+     "grounds": "bhuj, tad, navadhā",
+     "morph": "compound"
+    },
+    {
+     "surface": "tasmāllakṣayojanamātrakāt",
+     "gloss": "from-that-measuring-a-lakh-yojanas",
+     "grounds": "tad, lakṣa, yojana, mātra",
+     "morph": "compound"
+    }
+   ],
+   "question": "How was the territory further divided among Bharata's descendants?",
+   "premises": [
+    "Bharata had eight sons together with one daughter.",
+    "This made a ninth share.",
+    "They enjoyed the territory in nine parts out of a total measuring a lakh yojanas."
+   ],
+   "inference": "Bharata's descendants divided the lakh-yojana territory into nine shares, corresponding to eight sons and one daughter.",
+   "uncertainties": [
+    "The role of the daughter in the territorial division is stated compactly and may reflect a conventional enumeration."
+   ],
+   "plain_english": "Bharata had eight sons and one daughter, making a ninth share; they divided and enjoyed that territory, measuring a lakh yojanas, in nine parts."
+  }
+ ]
+}
