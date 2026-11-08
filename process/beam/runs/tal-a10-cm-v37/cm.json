@@ -1,66 +1,66 @@
 {
- "song": "tal-a10",
- "verse": 37,
+ "song": "unknown",
+ "verse": 0,
  "rows": [
   {
    "lemma": "tathā",
    "morph": "indecl.",
-   "grounds": "thus"
+   "grounds": "thus + tathā"
   },
   {
    "lemma": "cedaṃ",
-   "morph": "n.nom/acc.sg + indecl. (ca + idam)",
-   "grounds": "and this"
+   "morph": "indecl. (sandhi ca + idam nom.sg.n)",
+   "grounds": "and-this + cedaṃ"
   },
   {
-   "lemma": "darśayāmaḥ",
-   "morph": "1pl.pres.act √dṛś",
-   "grounds": "we show"
+   "lemma": "darśay",
+   "morph": "1pl.pres.act √darśay",
+   "grounds": "we-show + darśayāmaḥ"
   },
   {
-   "lemma": "kiṃ",
-   "morph": "indecl.",
-   "grounds": "what"
+   "lemma": "kim",
+   "morph": "nom.sg.n",
+   "grounds": "what + kiṃ"
   },
   {
-   "lemma": "prakāśaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "light"
+   "lemma": "prakāśa",
+   "morph": "nom.sg.m",
+   "grounds": "light + prakāśaḥ"
   },
   {
-   "lemma": "prakāśate",
+   "lemma": "prakāś",
    "morph": "3sg.pres.mid √prakāś",
-   "grounds": "it shines"
+   "grounds": "shines + prakāśate"
   },
   {
-   "lemma": "aprakāśo@pi",
-   "morph": "m.nom.sg + indecl. (aprakāśa + api)",
-   "grounds": "even non-luminous"
+   "lemma": "aprakāśa",
+   "morph": "nom.sg.m + indecl. (api)",
+   "grounds": "even-not-luminous + aprakāśo@pi"
   },
   {
-   "lemma": "naivāsau",
-   "morph": "indecl. + m.nom.sg (na + eva + asau)",
-   "grounds": "not indeed it"
+   "lemma": "asau",
+   "morph": "nom.sg.m (with na + eva)",
+   "grounds": "not-indeed-it + naivāsau"
   },
   {
-   "lemma": "tathāpi",
-   "morph": "indecl. (tathā + api)",
-   "grounds": "and so also"
+   "lemma": "tathā",
+   "morph": "indecl. (with api)",
+   "grounds": "and-so-also + tathāpi"
   },
   {
    "lemma": "ca",
    "morph": "indecl.",
-   "grounds": "and"
+   "grounds": "and + ca"
   },
   {
    "lemma": "na",
    "morph": "indecl.",
-   "grounds": "not"
+   "grounds": "not + na"
   },
   {
    "lemma": "kiṃcana",
    "morph": "indecl.",
-   "grounds": "anything at all"
+   "grounds": "anything-at-all + kiṃcana"
   }
  ]
 }
