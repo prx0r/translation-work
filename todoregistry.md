@@ -344,3 +344,23 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
   (PONG + full triple JSON, finish=stop). Only these two are $0 on the /go
   endpoint; everything else bills Go allowance. Workers drafting via
   failover; usage logged per call.
+
+## Addendum — autonomous hand-draft campaign + free-only cycling (2026-11-08, continued)
+
+- Hand-drafted to completion: a10 (24v), a04 (48v), a16 (60v), a29 (72v),
+  a09 (162v + v293 gloss/cm), a13 (180v incl. v293 gloss/cm + tokenization
+  reconciliation for 10 fused-span verses + uncertainties-list schema fix).
+  Promoted #80–#85. REGISTRY 101/85/16. All validate 0, proof PASS.
+- Tools built: tools/handdraft.py (assessor hand-draft writer with
+  surface-vs-working-t1 validation, premise/L2 shape checks).
+- Free-model audit: /go lists 30 models; only beam-free + iceman-contributor-free
+  are $0 (crouton blocked by region). A wrong turn into Go-allowance models
+  (deepseek/mimo/glm/qwen/kimi/minimax) was reverted the same session; usage
+  logged in model_usage.jsonl. beam_client.py now hard-restricted to the 2
+  free models with per-model cooldown + failover.
+- LOOP.sh STOPped to prevent sibling-agent collisions during hand-drafting.
+- a28 in progress: hand-drafted vv25-48 + vv73-92 (44v); 9 enriched-packet
+  retest triples seeded for failed blocks (vv25-48,73-96,97-120,193-216,
+  265-288,289-312,313-336,385-408,409-432).
+- a15 retest (vv1-24, enriched packet + free cycling) queued — verdict pending.
+- Remaining: a28 (~170), a03, a01, a08, a15 (~1300 total, beam-dependent).
