@@ -334,3 +334,13 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
   usage logged in model_usage.jsonl as audit trail.
 - Workers drafting on iceman now through identical gates; first iceman drafts
   under assessor sampling before any calibration claims.
+
+## Addendum — GOLD #85 (a13) + free-model verification (2026-11-08)
+
+- #85 tal-a13 (362u, saktipata/tirodhana; all layers hand-drafted or
+  beam-drafted, tokenization reconciled, validate 0, proof PASS align 0.975,
+  cites 362/362). REGISTRY 101/85/16. Gates green.
+- Free-model audit: beam-free 429s; iceman-contributor-free verified live
+  (PONG + full triple JSON, finish=stop). Only these two are $0 on the /go
+  endpoint; everything else bills Go allowance. Workers drafting via
+  failover; usage logged per call.
