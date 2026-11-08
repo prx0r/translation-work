@@ -1,46 +1,46 @@
 {
- "song": "tal-a15",
- "verse": 185,
+ "song": "...",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "madhye",
+   "lemma": "madhya",
    "morph": "n.loc.sg",
-   "grounds": "locates the next deity"
+   "grounds": "madhye = in-the-middle"
   },
   {
-   "lemma": "vāgīśvarīṃ",
+   "lemma": "vāgīśvarī",
    "morph": "f.acc.sg",
-   "grounds": "names the central deity"
+   "grounds": "vāgīśvarīṃ = vāgīśvarī"
   },
   {
-   "lemma": "diṇḍimahodarayugaṃ",
-   "morph": "compound=diṇḍi-mahodara-yuga+n.acc.sg",
-   "grounds": "names the next pair of deities"
+   "lemma": "diṇḍimahodarayuga",
+   "morph": "n.acc.sg (compound: diṇḍima+mahodara+yuga)",
+   "grounds": "diṇḍimahodarayugaṃ = the-pair-diṇḍi-and-mahodara"
   },
   {
    "lemma": "tathā",
-   "morph": "(indecl.)",
-   "grounds": "continues the sequence"
+   "morph": "indecl.",
+   "grounds": "tathā = likewise"
   },
   {
-   "lemma": "kramātsvadakṣavāmasthaṃ",
-   "morph": "compound=kramāt-sva-dakṣa-vāma-stha+n.acc.sg",
-   "grounds": "specifies the placement of the pair"
+   "lemma": "kramātsvadakṣavāmastha",
+   "morph": "n.acc.sg (compound: krama+sva+dakṣa+vāma+stha)",
+   "grounds": "kramātsvadakṣavāmasthaṃ = in-order-standing-on-their-own-right-and-left"
   },
   {
-   "lemma": "tathaitena",
-   "morph": "compound=tathā-etena",
-   "grounds": "refers to the same ordering principle"
+   "lemma": "tathā+etad",
+   "morph": "indecl.+m./n.inst.sg (sandhi)",
+   "grounds": "tathaitena = and-so-by-this"
   },
   {
-   "lemma": "krameṇa",
+   "lemma": "krama",
    "morph": "m.inst.sg",
-   "grounds": "emphasizes ordered placement"
+   "grounds": "krameṇa = by-the-sequence"
   },
   {
    "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "continues the instruction"
+   "morph": "indecl.",
+   "grounds": "ca = and"
   }
  ]
 }

@@ -1,41 +1,41 @@
 {
- "song": "tal-a15",
- "verse": 186,
+ "song": "...",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ekaikaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "prescribes individual worship"
+   "lemma": "ekaika",
+   "morph": "m.acc.sg",
+   "grounds": "ekaikaṃ = each-one (accusative singular)"
   },
   {
-   "lemma": "pūjayetsamyaṅ",
-   "morph": "compound=pūjayet-samyak",
-   "grounds": "prescribes the act of worship"
+   "lemma": "pūj + samyak",
+   "morph": "3sg.opt.act √pūj + indecl.",
+   "grounds": "pūjayet samyaṅ (sandhi) = one-should-worship-properly; pūjayet optative, samyak indeclinable"
   },
   {
-   "lemma": "nandikālau",
-   "morph": "compound=nandi-kāla+m.acc.dual",
-   "grounds": "names a pair of deities"
+   "lemma": "nandikāla",
+   "morph": "m.acc.du",
+   "grounds": "nandikālau = nandi-and-kāla (dvandva compound, accusative dual)"
   },
   {
-   "lemma": "trimārgagām",
-   "morph": "compound=tri-mārga-gā+f.acc.sg",
-   "grounds": "names Gaṅgā"
-  },
-  {
-   "lemma": "kālindīṃ",
+   "lemma": "trimārgaga",
    "morph": "f.acc.sg",
-   "grounds": "names Yamunā"
+   "grounds": "trimārgagām = the-one-who-goes-by-three-paths (bahuvrīhi, accusative singular, agreeing with Kālindī)"
   },
   {
-   "lemma": "chāgameṣāsyau",
-   "morph": "compound=chāga-meṣa-āsya+m.acc.dual",
-   "grounds": "names another pair of deities"
+   "lemma": "kālindī",
+   "morph": "f.acc.sg",
+   "grounds": "kālindīṃ = kālindī (accusative singular)"
   },
   {
-   "lemma": "svadakṣāddvāḥsthaśākhayoḥ",
-   "morph": "compound=sva-dakṣa-dvāḥstha-śākhā+f.loc.dual",
-   "grounds": "locates the deities on the door frame"
+   "lemma": "chāgameṣāsya",
+   "morph": "m.acc.du",
+   "grounds": "chāgameṣāsyau = the-goat-faced-and-ram-faced-pair (dvandva/bahuvrīhi compound, accusative dual)"
+  },
+  {
+   "lemma": "svadakṣa + dvāḥsthaśākhā",
+   "morph": "m.abl.sg + f.loc.du",
+   "grounds": "svadakṣāt dvāḥsthaśākhayoḥ (sandhi) = on-the-door-branches-from-one's-own-right; svadakṣāt ablative, dvāḥsthaśākhayoḥ locative dual"
   }
  ]
 }

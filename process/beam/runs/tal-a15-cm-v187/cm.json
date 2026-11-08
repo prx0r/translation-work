@@ -1,36 +1,36 @@
 {
- "song": "tal-a15",
- "verse": 187,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "adhodehalyananteśādhāraśaktīśca",
-   "morph": "compound=adhas-dehalī-ananta-īśa-ādhāra-śakti+f.acc.pl",
-   "grounds": "names the deities below the threshold"
+   "lemma": "adhodehalyananteśādhāraśakti",
+   "morph": "f.acc.pl (compound+ca)",
+   "grounds": "compound 'below-dehalī-ananta-īśa-and-the-supporting-power' (adhas+dehalī+ananta+īśa+ādhāraśakti) with enclitic ca 'and'; acc.pl object of pūjayet"
   },
   {
-   "lemma": "pūjayet",
-   "morph": "3.sg.optative-active+root pūj",
-   "grounds": "prescribes worship"
+   "lemma": "pūjay",
+   "morph": "3sg.opt.act √pūj",
+   "grounds": "optative 'one-should-worship'; 3rd person singular active"
   },
   {
-   "lemma": "dvāramadhye",
-   "morph": "compound=dvāra-madhya+n.loc.sg",
-   "grounds": "locates the next worship"
+   "lemma": "dvāramadhya",
+   "morph": "n.loc.sg (compound)",
+   "grounds": "compound 'in-the-middle-of-the-doorway' (dvāra+madhya); locative singular"
   },
   {
-   "lemma": "sarasvatyā",
-   "morph": "f.inst.sg",
-   "grounds": "names the deity associated with the weapon"
+   "lemma": "sarasvatī",
+   "morph": "f.ins.sg",
+   "grounds": "instrumental singular 'with-sarasvatī'"
   },
   {
-   "lemma": "mahāstraṃ",
-   "morph": "compound=mahā-astra+n.acc.sg",
-   "grounds": "names the object to be worshipped"
+   "lemma": "mahāstra",
+   "morph": "n.acc.sg (compound)",
+   "grounds": "compound 'the-great-weapon' (mahā+astra); accusative singular"
   },
   {
-   "lemma": "pūjayedamī",
-   "morph": "compound=pūjayet-amī",
-   "grounds": "prescribes worship of the named group"
+   "lemma": "pūjay",
+   "morph": "3sg.opt.act √pūj (sandhi+pronoun)",
+   "grounds": "pūjayet+amī sandhi 'one-should-worship-these'; optative 3sg.act √pūj with following pronoun amī"
   }
  ]
 }

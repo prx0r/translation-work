@@ -1,31 +1,31 @@
 {
- "song": "tal-a15",
- "verse": 190,
+ "song": "",
+ "verse": 0,
  "rows": [
   {
-   "lemma": "ekoccāreṇa",
-   "morph": "compound=eka-uccāra+m.inst.sg",
-   "grounds": "states an alternative method"
+   "lemma": "ekoccāra",
+   "morph": "m.inst.sg",
+   "grounds": "ekoccāreṇa = with-a-single-utterance"
   },
   {
    "lemma": "vā",
-   "morph": "(indecl.)",
-   "grounds": "marks the alternative"
+   "morph": "indecl.",
+   "grounds": "vā = or"
   },
   {
-   "lemma": "kuryāddvāḥsthadaivatapūjanam",
-   "morph": "compound=kuryāt-dvāḥstha-daivata-pūjana+n.acc.sg",
-   "grounds": "prescribes the alternative worship"
+   "lemma": "kṛ + dvāḥsthadaivatapūjana",
+   "morph": "3sg.opt.act √kṛ + n.acc.sg (compound)",
+   "grounds": "kuryāddvāḥsthadaivatapūjanam = one-should-perform-worship-of-the-doorway-deities (sandhi: kuryāt + dvāḥstha-daivata-pūjanam)"
   },
   {
-   "lemma": "rahasyapūjāṃ",
-   "morph": "compound=rahasya-pūjā+f.acc.sg",
-   "grounds": "introduces a special case"
+   "lemma": "rahasyapūjā",
+   "morph": "f.acc.sg",
+   "grounds": "rahasyapūjāṃ = secret-worship"
   },
   {
-   "lemma": "cetkuryāttadbāhyaparivārakam",
-   "morph": "compound=cet-kuryāt-tad-bāhya-parivāraka+n.acc.sg",
-   "grounds": "states the consequence for secret worship"
+   "lemma": "ced + kṛ + tad + bāhyaparivāraka",
+   "morph": "indecl. + 3sg.opt.act √kṛ + n.nom.sg + n.acc.sg (compound/sandhi)",
+   "grounds": "cetkuryāttadbāhyaparivārakam = if-one-should-do-then-that-outer-retinue (sandhi: cet + kuryāt + tat + bāhya-parivārakam)"
   }
  ]
 }
