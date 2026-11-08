@@ -364,3 +364,16 @@ post-translation, never a prerequisite (FINAL-PROCESS §concept timing).
   265-288,289-312,313-336,385-408,409-432).
 - a15 retest (vv1-24, enriched packet + free cycling) queued — verdict pending.
 - Remaining: a28 (~170), a03, a01, a08, a15 (~1300 total, beam-dependent).
+
+## Autonomous ops update (2026-11-08, ~10:45Z)
+
+- 85 gold / 16 pending. Gates green. Free-only cycling live (beam-free +
+  iceman; allowance models hard-blocked).
+- Workers drafting via iceman (a28 + a15 gloss flowing; usage-audited).
+- Seeded 943 per-verse cm tasks (cascade → am next) across a28/a03/a15/a01;
+  10 retest triples (enriched packet) queued incl. a15 vv1-24 + 9× a28.
+- a28 hand-drafted to 277/435 am (vv25-48,73-92,93-108,259-276... partial);
+  remaining 158 am await beam triples/retests.
+- Stray w9 worker killed; holding at w1-w3 per stagger policy.
+- LOOP.sh stays STOPped while assessor actively drives (avoids duplicate
+  promote/review races); remove process/beam/LOOP.STOP to resume it.
