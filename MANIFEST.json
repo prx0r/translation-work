@@ -1,6 +1,6 @@
 {
- "rev": "79ca0daf120faf639aaabab2923b424b3f18579c",
- "at": "2026-11-09T08:07:16+00:00",
+ "rev": "f68f29c544f57a393d2b689a931b358e7f984b7b",
+ "at": "2026-11-09T08:10:43+00:00",
  "files": {
   "ajadapramatrsiddhi/data/ajad-p01.argmap.json": {
    "sha256": "f7f7ec1ce551288d8b4f2e2294a3351a25afefbdc3efb460413975c6e271df80",
@@ -2322,6 +2322,26 @@
    "sha256": "1692b7a407254b896314c639f0a9706865e37dc88c63bd9c9a5d027ab30c61f7",
    "bytes": 148854
   },
+  "gitarthasangraha/data/gita-a09.argmap.json": {
+   "sha256": "5281d3277f73184320cc4962c3780a524ab04c2da9eea4a0e3affe03e390d0e9",
+   "bytes": 50711
+  },
+  "gitarthasangraha/data/gita-a09.c1.json": {
+   "sha256": "736420f81b0959cb9fe6f132cae9d7a26e2c2ca1b4e7ace0399e5da68f483cbf",
+   "bytes": 793
+  },
+  "gitarthasangraha/data/gita-a09.l0.json": {
+   "sha256": "83827b2f846cc78e543a5d1e726aa22239807384948f0ee3a591da703f3430c8",
+   "bytes": 307547
+  },
+  "gitarthasangraha/data/gita-a09.l2.json": {
+   "sha256": "8227720123c038280e3a094bf5859cef20bb064fcea1523f42bf7a55a3cc352d",
+   "bytes": 44764
+  },
+  "gitarthasangraha/data/gita-a09.t1.json": {
+   "sha256": "05ffe7a43e4230be86f7203564a0bdf572503254b35e5aa5ddbca7d0bc04b81f",
+   "bytes": 129614
+  },
   "gitarthasangraha/data/gita-a10.argmap.json": {
    "sha256": "63f1ea3a8ebcf79a44e266161f3ac4b26a18ba0fec7ccbeb10a00d3d7cc77b6d",
    "bytes": 45506
@@ -2342,6 +2362,26 @@
    "sha256": "9292a50d7fe4ae6bab4ce01c9de6521b04a910b18c325cd8f738fde3d8b4af1e",
    "bytes": 84297
   },
+  "gitarthasangraha/data/gita-a11.argmap.json": {
+   "sha256": "3450991e60eebd5433ea4d64bef5c94ec3cb9007caa8501927854f5870c6d05f",
+   "bytes": 67578
+  },
+  "gitarthasangraha/data/gita-a11.c1.json": {
+   "sha256": "28a302eb8fc80d1779b4a54f2ad30a2d3a083364fa21eb126e10581051419ca6",
+   "bytes": 584
+  },
+  "gitarthasangraha/data/gita-a11.l0.json": {
+   "sha256": "753bad83010e31470037258cda565ed7a84c2505085fad8db2854affd9cbc012",
+   "bytes": 311729
+  },
+  "gitarthasangraha/data/gita-a11.l2.json": {
+   "sha256": "d44924fdef500880c55d5a52a7c17fa0277a02ff007bcbddd45789b636482c29",
+   "bytes": 51932
+  },
+  "gitarthasangraha/data/gita-a11.t1.json": {
+   "sha256": "8d5a6af0b1fb4a150e10232049681832a7614a26981f95e1fb470c65ca92c944",
+   "bytes": 134958
+  },
   "gitarthasangraha/data/gita-a12.argmap.json": {
    "sha256": "e92236f7705dd26236b51222d3f5a03bea7065aacbe1ea7470d8a99ae956bcb8",
    "bytes": 29523
@@ -2361,6 +2401,46 @@
   "gitarthasangraha/data/gita-a12.t1.json": {
    "sha256": "3a398cdef298b66ad1b645dc149e940ec03b946aa8f5f3563e9a9e8da2b2489b",
    "bytes": 66253
+  },
+  "gitarthasangraha/data/gita-a13.argmap.json": {
+   "sha256": "f7e89db25aea7088951e7d9d59f9377fbfc8c5f57a803ff2e6613c549ce297ff",
+   "bytes": 43002
+  },
+  "gitarthasangraha/data/gita-a13.c1.json": {
+   "sha256": "b6432fbfbc794481838fd3b5e0a0266fae9a9bbfe1bc3f2cab0afe456c0eb52e",
+   "bytes": 594
+  },
+  "gitarthasangraha/data/gita-a13.l0.json": {
+   "sha256": "ad98aae0576d413e9378e45c67146b4d8ff80b25531e5fa7a570c73e9d2af722",
+   "bytes": 233852
+  },
+  "gitarthasangraha/data/gita-a13.l2.json": {
+   "sha256": "fb256d58845bd31352bbefa0444d74521a84af12211b9476a0319d677407bc3a",
+   "bytes": 34984
+  },
+  "gitarthasangraha/data/gita-a13.t1.json": {
+   "sha256": "4c2cab055326b691f6d9cb66ef1c1f9b1f3651455ddc6767a50f4603cb8f1350",
+   "bytes": 99187
+  },
+  "gitarthasangraha/data/gita-a14.argmap.json": {
+   "sha256": "82310dfe84a155fab28a1b6450376c0c801d6135fe5dd3fdedca6722aaaf83fa",
+   "bytes": 37287
+  },
+  "gitarthasangraha/data/gita-a14.c1.json": {
+   "sha256": "1371aac888bd0a6ff611f982b9cda2a2b04864b8db225bf35e233403f0f777bb",
+   "bytes": 823
+  },
+  "gitarthasangraha/data/gita-a14.l0.json": {
+   "sha256": "6a95e6546712eea5ac5c3aa8c3bd9ee947e7d357c189bb8598dfbf5f9485d8b2",
+   "bytes": 194562
+  },
+  "gitarthasangraha/data/gita-a14.l2.json": {
+   "sha256": "5f8fe6d9afcce97099264ead5864978fd943e4d4d507f8015113cda94bbcb8ac",
+   "bytes": 29524
+  },
+  "gitarthasangraha/data/gita-a14.t1.json": {
+   "sha256": "5c741f9a9665078b0fd1508d03282ab193c361376c71ebf0d8324d57c0f728e5",
+   "bytes": 83026
   },
   "gitarthasangraha/data/gita-a15.argmap.json": {
    "sha256": "1d469f4535f7bf8c05f7da4a52ca3ba6fff7f607e95d8245369803e47487ee28",
@@ -2421,6 +2501,26 @@
   "gitarthasangraha/data/gita-a17.t1.json": {
    "sha256": "46f11d0964d7f4a6cfa25b15a062fc259e0a57a6b084bfd3f2f32be7a6458404",
    "bytes": 94960
+  },
+  "gitarthasangraha/data/gita-a18.argmap.json": {
+   "sha256": "27dcd3df30bd719556422e75e3c664f40bb425d5e3f7494aaf69e8b35c274577",
+   "bytes": 98850
+  },
+  "gitarthasangraha/data/gita-a18.c1.json": {
+   "sha256": "fa53ee63afe68d2ae23905ca796ad1899028dc240403055d713e6f087687d975",
+   "bytes": 707
+  },
+  "gitarthasangraha/data/gita-a18.l0.json": {
+   "sha256": "7e5370a2ecf9c94da277787fffd87350e9b8dd02dde0fa4881521480b12987b2",
+   "bytes": 561859
+  },
+  "gitarthasangraha/data/gita-a18.l2.json": {
+   "sha256": "47718af043acf2a519ac6a8a646af70236db6c31b579e8fac98c9bf82e56d8f1",
+   "bytes": 83082
+  },
+  "gitarthasangraha/data/gita-a18.t1.json": {
+   "sha256": "1d64d0fc1e4cc37384767048917704b68793dab0c5ee54d10e5b79ea6f724a95",
+   "bytes": 230726
   },
   "gitarthasangraha/T1-gita-a00.md": {
    "sha256": "e422a1645e13ea9f6a03a6b421c154b3ee59af50e2fd271ba88d4e647eb9001e",
