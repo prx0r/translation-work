@@ -1,0 +1,763 @@
+{
+ "song": "gita-a08",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "dhūmo",
+     "gloss": "smoke",
+     "grounds": "smoke path",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rātristathā",
+     "gloss": "night-and-so",
+     "grounds": "fused sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "dark",
+     "grounds": "dark fortnight",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṇmāsā",
+     "gloss": "six-months",
+     "grounds": "southern course",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dakṣiṇāyanam",
+     "gloss": "southern-course",
+     "grounds": "southern half-year",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that path",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāndramasaṃ",
+     "gloss": "lunar",
+     "grounds": "moon light",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jyotiryogī",
+     "gloss": "light-yogi",
+     "grounds": "yogi of light",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-reached",
+     "grounds": "reaching path",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "nivartate",
+     "gloss": "returns",
+     "grounds": "returns again",
+     "morph": "3.sg.mid-pres root nivṛt"
+    },
+    {
+     "surface": "uttareṇa-ūrdhvena",
+     "gloss": "by-northern-upward",
+     "grounds": "northern upward course",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayanaṃ-ṣāṇmāsikam",
+     "gloss": "course-six-monthly",
+     "grounds": "six-month course",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "that-and",
+     "grounds": "that path",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakāśādidharmakatvāt",
+     "gloss": "from-light-etc-nature",
+     "grounds": "light-nature reason",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "dahanādikaiḥ",
+     "gloss": "by-burning-etc",
+     "grounds": "burning words",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śabdairupacaryate",
+     "gloss": "is-metaphorically-called",
+     "grounds": "metaphorical naming",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "ato",
+     "gloss": "hence",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viparītaṃ",
+     "gloss": "opposite",
+     "grounds": "opposite path",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viparyayeṇa",
+     "gloss": "by-inversion",
+     "grounds": "inverted course",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that path",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candramaso",
+     "gloss": "moon's",
+     "grounds": "lunar share",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhogyāṃśānupraveśādbhogāyāvṛttiḥ",
+     "gloss": "entry-into-enjoyable-parts-for-enjoyment-return",
+     "grounds": "return for enjoyment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "25",
+     "gloss": "twenty-five",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the southern path lead to return for enjoyment?",
+   "premises": [
+    "smoke and dark fortnight mark southern course",
+    "yogi reaching lunar light returns again",
+    "opposite northern course is light-natured"
+   ],
+   "inference": "The southern path returns for enjoyment, while the northern path is light-natured and non-returning.",
+   "uncertainties": [
+    "fused sandhi forms are kept as single rows"
+   ],
+   "plain_english": "Smoke, night, the dark fortnight, and the southern course mark the path by which the yogi reaches lunar light and returns; the opposite northern course is light-natured and leads to non-return."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "śuklakṛṣṇe",
+     "gloss": "white-black",
+     "grounds": "two paths",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "gatī",
+     "gloss": "paths",
+     "grounds": "two courses",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "hyete",
+     "gloss": "indeed-these",
+     "grounds": "these two",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jagataḥ",
+     "gloss": "world's",
+     "grounds": "world's paths",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śāśvate",
+     "gloss": "eternal",
+     "grounds": "eternal courses",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mate",
+     "gloss": "held",
+     "grounds": "held as eternal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anayoryātyanāvṛttimādyayāvartate'nyayā",
+     "gloss": "by-one-goes-nonreturn-by-first-by-other-returns",
+     "grounds": "fused sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anayorgatyormadhyādādyayā-anāvṛttiḥ-mokṣaḥ",
+     "gloss": "among-these-paths-by-first-nonreturn-liberation",
+     "grounds": "first path liberates",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anyayā",
+     "gloss": "by-other",
+     "grounds": "other path",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhogaḥ",
+     "gloss": "enjoyment",
+     "grounds": "enjoyment returns",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "26",
+     "gloss": "twenty-six",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which of the two eternal paths leads to liberation and which to enjoyment?",
+   "premises": [
+    "white and black paths are eternal",
+    "by one path one goes to non-return",
+    "by the other one returns for enjoyment"
+   ],
+   "inference": "The first path yields liberation, while the other yields enjoyment.",
+   "uncertainties": [
+    "fused sandhi forms are kept as single rows"
+   ],
+   "plain_english": "These white and black paths are the world's eternal courses; by one one goes to non-return, by the other one returns for enjoyment."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "naite",
+     "gloss": "not-these",
+     "grounds": "not these paths",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sṛtī",
+     "gloss": "paths",
+     "grounds": "two courses",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "son-of-prthā",
+     "grounds": "address to Arjuna",
+     "morph": "voc.sg"
+    },
+    {
+     "surface": "jānan",
+     "gloss": "knowing",
+     "grounds": "knowing them",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "yogi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muhyati",
+     "gloss": "is-deluded",
+     "grounds": "is not deluded",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kaścana",
+     "gloss": "anyone",
+     "grounds": "no one",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmātsarveṣu",
+     "gloss": "therefore-in-all",
+     "grounds": "therefore in all",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kāleṣu",
+     "gloss": "times",
+     "grounds": "times",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yogayukto",
+     "gloss": "joined-to-yoga",
+     "grounds": "joined to yoga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavārjuna",
+     "gloss": "be-arjuna",
+     "grounds": "be Arjuna",
+     "morph": "2.sg.imp"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "these paths",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sṛtī",
+     "gloss": "paths",
+     "grounds": "two courses",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "who knows",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti-ābhyantareṇa",
+     "gloss": "knows-within",
+     "grounds": "knows inwardly",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "in order",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yogābhyāsasvīkṛtenetyarthaḥ",
+     "gloss": "meaning-yoga-practice-accepted",
+     "grounds": "accepted yoga practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etacca",
+     "gloss": "this-and",
+     "grounds": "this too",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vitatya",
+     "gloss": "having-spread",
+     "grounds": "having spread",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "prakāśyamānaṃ",
+     "gloss": "being-manifested",
+     "grounds": "being manifested",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "granthaṃ",
+     "gloss": "text",
+     "grounds": "text",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vistārayatītyalam",
+     "gloss": "expands-thus-enough",
+     "grounds": "expands enough",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "all times",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "who are",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kālā",
+     "gloss": "times",
+     "grounds": "internal times",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ābhyantarāḥ",
+     "gloss": "internal",
+     "grounds": "internal",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadviṣayaṃ",
+     "gloss": "that-object",
+     "grounds": "that object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yogamabhyasyet",
+     "gloss": "should-practice-yoga",
+     "grounds": "should practice yoga",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "asmadguravastvāhuḥ-sarvānugrāhakatayā",
+     "gloss": "our-teachers-say-all-gracing",
+     "grounds": "teachers say all-gracing",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in middle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ābhyantarakālakṛtamutkrāntibhedamabhidhāya",
+     "gloss": "having-described-internal-time-made-exit-difference",
+     "grounds": "internal time exit difference",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "prakṛtameva",
+     "gloss": "original-only",
+     "grounds": "original only",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bāhyakālaviṣayaṃ",
+     "gloss": "external-time-object",
+     "grounds": "external time object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "principal",
+     "grounds": "principal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prameyamupasaṃhṛtam",
+     "gloss": "conclusion-gathered",
+     "grounds": "conclusion gathered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasmātsarveṣu",
+     "gloss": "therefore-in-all",
+     "grounds": "therefore in all",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kāleṣu-ityādinā",
+     "gloss": "times-etc",
+     "grounds": "times etc",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "27",
+     "gloss": "twenty-seven",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should a yogi not be deluded by these two paths?",
+   "premises": [
+    "knowing yogi is not deluded by these paths",
+    "therefore one should be yoga-joined in all times",
+    "internal and external times are gathered into principal conclusion"
+   ],
+   "inference": "Knowledge of the paths removes delusion, so yoga should be practiced in every time.",
+   "uncertainties": [
+    "long fused compounds are kept as single rows"
+   ],
+   "plain_english": "No knowing yogi is deluded by these paths; therefore be yoga-joined in all times, Arjuna."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "vedeṣu",
+     "gloss": "in-vedas",
+     "grounds": "in vedas",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yajñeṣu",
+     "gloss": "in-sacrifices",
+     "grounds": "in sacrifices",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tapaḥsu",
+     "gloss": "in-austerities",
+     "grounds": "in austerities",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "and indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāneṣu",
+     "gloss": "in-gifts",
+     "grounds": "in gifts",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yatpuṇyaphalaṃ",
+     "gloss": "which-merit-fruit",
+     "grounds": "merit fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pradiṣṭam",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhyeti",
+     "gloss": "approaches",
+     "grounds": "approaches",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tatsarvamidaṃ",
+     "gloss": "all-this",
+     "grounds": "all this",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viditvā",
+     "gloss": "having-known",
+     "grounds": "having known",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "yogi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "supreme",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthānamupaiti",
+     "gloss": "reaches-place",
+     "grounds": "reaches place",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "cādyam",
+     "gloss": "and-first",
+     "grounds": "and first",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhyeti-abhibhavati-sarvakarmasaṃskārāṇāṃ",
+     "gloss": "approaches-overcomes-all-action-impressions",
+     "grounds": "overcomes impressions",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "bhagavatsmṛtyā",
+     "gloss": "by-lord-remembrance",
+     "grounds": "by lord remembrance",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "viphalīkaraṇāt",
+     "gloss": "from-fruitlessness-making",
+     "grounds": "making fruitless",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "sarvakarmaparikṣaye",
+     "gloss": "in-all-action-exhaustion",
+     "grounds": "action exhaustion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cāsau",
+     "gloss": "and-that",
+     "grounds": "and that one",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhenaiva",
+     "gloss": "easily-indeed",
+     "grounds": "easily indeed",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "finds",
+     "grounds": "finds",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "supreme",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivamiti",
+     "gloss": "shiva-thus",
+     "grounds": "shiva thus",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "shiva",
+     "grounds": "shiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "28",
+     "gloss": "twenty-eight",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruit does the yogi gain by knowing all declared merit?",
+   "premises": [
+    "yogi knowing all declared merit reaches supreme place",
+    "by lord remembrance action impressions become fruitless",
+    "in action exhaustion one easily finds supreme shiva"
+   ],
+   "inference": "Knowledge of all merit leads the yogi to the supreme place and finally to Shiva.",
+   "uncertainties": [
+    "fused sandhi forms are kept as single rows"
+   ],
+   "plain_english": "Knowing all declared merit, the yogi reaches the supreme place and, through remembrance of the Lord, easily finds supreme Shiva."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "summary verse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatattvagatatvena",
+     "gloss": "by-all-principles-pervasion",
+     "grounds": "all principles pervasion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vijñāte",
+     "gloss": "known",
+     "grounds": "known",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parameśvare",
+     "gloss": "supreme-lord",
+     "grounds": "supreme lord",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "antarbahirna",
+     "gloss": "inside-outside-not",
+     "grounds": "no inside outside",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāvasthā",
+     "gloss": "condition",
+     "grounds": "condition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasyāṃ",
+     "gloss": "in-which",
+     "grounds": "in which",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "shines",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "all-pervading",
+     "grounds": "all-pervading",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "8",
+     "gloss": "eight",
+     "grounds": "chapter number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmaheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "composed-by-abhinavagupta",
+     "grounds": "composed by Abhinavagupta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrīmadbhagavadgītārthasaṃgrahe'ṣṭamo'dhyāyaḥ",
+     "gloss": "in-gita-meaning-gathering-eighth-chapter",
+     "grounds": "eighth chapter",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "8",
+     "gloss": "eight",
+     "grounds": "chapter number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the summary verse's teaching about the supreme Lord?",
+   "premises": [
+    "when all principles are known in the supreme Lord",
+    "there is no inside-or-outside condition",
+    "the all-pervading one shines"
+   ],
+   "inference": "The summary verse states that in the known supreme Lord there is no limiting condition and the all-pervading shines.",
+   "uncertainties": [
+    "paratext tokens are glossed as numbers"
+   ],
+   "plain_english": "Here is the summary verse: when all principles are known in the supreme Lord, there is no inside-or-outside condition in which the all-pervading shines."
+  }
+ ]
+}
