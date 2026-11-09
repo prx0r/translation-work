@@ -15,7 +15,7 @@ from beam_client import beam
 from beam_swarm import TAL_GLOSS_SYS, TAL_CM_SYS, TalGloss, TalCm  # noqa
 
 RUNS = ROOT / 'process' / 'beam' / 'runs'
-CHUNK = 120  # tokens per call — well under the truncation ceiling
+CHUNK = int(__import__("os").environ.get("BEAM_CHUNK", "120"))
 
 
 def draft_gloss(work, song, verse, tokens, lore):
