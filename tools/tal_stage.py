@@ -143,12 +143,13 @@ def stage_assemble(work, song):
     print(r.stdout.strip()[-300:] or r.stderr.strip()[-300:])
     # emit data
     l0 = json.loads((W / f'working-l0-{song}.json').read_text())
-    src_sha = wt[0]['source_sha']
+    _fallback_sha = wt[0].get('source_sha', '')
     by = {}
     for o in l0:
         by.setdefault(o['verse_id'], []).append(o)
     am, l2 = [], []
     for e in wt:
+        src_sha = e.get('source_sha', _fallback_sha)
         d = json.loads((RUNS / f"{song}-am-v{e['verse']:02d}" / 'am.json').read_text())
         ids = [o['id'] for o in by.get(e['verse_id'], [])]
         am.append({'verse_id': e['verse_id'], 'song': song, 'verse': e['verse'],

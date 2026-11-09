@@ -146,3 +146,26 @@ awareness; prakāśa = manifestation; āmnāya = oral tradition (the teacher's);
 gūḍhārtha = hidden meaning; prastāva = opening/occasion; adhikāra =
 eligibility; adhikārin = the qualified one; prayojana = purpose;
 siddhānta = settled doctrine; pūrvapakṣa = the opponent's case.
+
+## APPENDIX — concrete K-vs-V facts (verified 2026-11-09, use to orient, never to override the source)
+
+- K 1.1a reads *sarvakṣatrasamāgame* (not vulgate *samavetā yuyutsavaḥ*).
+  If our 1.1 carries it, gloss it; do not "correct" to the vulgate.
+- Five extra verses follow K 3.37 (3.37.1–5, on kāma/krodha as the enemy:
+  *bhavatyeṣa kathaṃ kṛṣṇa…*, *kāmakrodhamayo ghoraḥ…* etc.). They are REAL
+  content in K. Sharma/Marjanovic translate them; Burba 2024 gives text +
+  word-analyzed Ukrainian renderings — usable as comparative grounds.
+- K 5.16.1 (*smaranto'pi… paṅke ravikarā iva*) and 6.9.1 (*ihaiva tair
+  jitaḥ sargo…*) are K-only verses. Same treatment.
+- Typical K variant moves (Belvalkar's catalogue): grammatical smoothing
+  (2.50ab, 2.60a, 3.23a, 5.1cd, 6.39a, 7.18b, 9.31c, 10.9d, 11.41b, 14.23d,
+  16.2c, 16.13b), syntax normalization, and a handful of sense-changing
+  readings (e.g. 2.11ab, 11.46 *bhujadvayena* vs *caturbhujena*). When our
+  text carries one, note it; the gloss follows our text.
+- The vulgate crept into K prints (Schrader: even into Abhinava's pratīkas).
+  If a mūla line in our edition contradicts Abhinava's own gloss of it,
+  THAT is a LIVE fork (print contamination), adjudicated in the argmap —
+  this is exactly the Ingalls/Sharma corruption class.
+- Sharma's full English translation is openly consultable
+  (gianfrancobertagni.it/materiali/tantra/sharma.pdf) — use it as a
+  comparative witness for hard passages (grounds cite, never canon).

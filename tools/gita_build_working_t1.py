@@ -61,6 +61,7 @@ def main(argv: list[str]) -> int:
                 'song': song, 'verse': v,
                 'span': s.get('verse'), 'start': s['start'], 'end': s['end'],
                 'label': s.get('label', ''),
+                'source_sha': __import__('hashlib').sha256(text.encode('utf-8')).hexdigest()[:16],
                 'quick_english': 'SCAFFOLD pending (T1 drafted from runs at assemble)',
                 'tokens': [{'surface': t, 'quick_gloss': ''} for t in toks],
             })

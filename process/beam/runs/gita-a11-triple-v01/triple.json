@@ -1,0 +1,521 @@
+{
+ "song": "gita-a11",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśo'dhyāyaḥ",
+     "gloss": "eleventh-chapter",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samanantareṇādhyāyena",
+     "gloss": "by-immediately-preceding-chapter",
+     "grounds": "instrumental of compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evārtha",
+     "gloss": "that-very-meaning",
+     "grounds": "fused eva+artha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uktastameva",
+     "gloss": "that-stated-meaning-itself",
+     "grounds": "fused uktas+tam+eva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratyakṣīkartumarjunaḥ",
+     "gloss": "Arjuna-to-make-directly-seen",
+     "grounds": "infinitive compound with Arjuna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pṛcchati",
+     "gloss": "asks",
+     "grounds": "root pṛch",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyupadeśakrameṇārtho'vagataḥ",
+     "gloss": "meaning-understood-through-teaching-order",
+     "grounds": "fused hya+upadeśa+krama+artha+avagata",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyakṣasaṃvidopāruhyamāṇaḥ",
+     "gloss": "being-mounted-by-direct-cognition",
+     "grounds": "present passive participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuṭībhavati",
+     "gloss": "becomes-clear",
+     "grounds": "root bhū with sphuṭī",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tadarthameveme",
+     "gloss": "for-that-purpose-these",
+     "grounds": "fused tadartham+eva+ime",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "uktipratyuktī",
+     "gloss": "statement-and-reply",
+     "grounds": "dual compound",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "ucyete",
+     "gloss": "are-said",
+     "grounds": "passive plural",
+     "morph": "3.du.pass-pres"
+    },
+    {
+     "surface": "arjuna",
+     "gloss": "Arjuna",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "root vac",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "madanugrahāya",
+     "gloss": "for-my-grace",
+     "grounds": "fused mad+anugraha",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guhyamadhyātmasaṃjñitam",
+     "gloss": "called-secret-self-knowledge",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yattvayoktaṃ",
+     "gloss": "which-by-you-was-spoken",
+     "grounds": "fused yat+tvayā+uktam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vacastena",
+     "gloss": "by-that-speech",
+     "grounds": "fused vacas+tena",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "moho'yaṃ",
+     "gloss": "this-delusion",
+     "grounds": "fused mohaḥ+ayam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vigato",
+     "gloss": "gone",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Why does Arjuna ask to see the Lord's form?",
+   "premises": [
+    "Arjuna asks to make the stated meaning directly seen.",
+    "The meaning understood through teaching becomes clear when mounted by direct cognition.",
+    "Arjuna says his delusion is gone by that speech."
+   ],
+   "inference": "Arjuna's request follows from the need for direct vision of the already taught meaning.",
+   "uncertainties": [
+    "The exact scope of pratyakṣasaṃvidopāruhyamāṇaḥ is compressed."
+   ],
+   "plain_english": "Now the eleventh chapter: Arjuna asks to make directly seen the very meaning stated in the preceding chapter, since what is understood through teaching becomes clear when mounted by direct cognition; therefore these statements and replies are spoken. Arjuna said: for my grace you spoke the supreme secret called self-knowledge; by that speech this delusion of mine is gone."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "bhavāpyayau",
+     "gloss": "birth-and-dissolution",
+     "grounds": "dual compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtānāṃ",
+     "gloss": "of-beings",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śrutau",
+     "gloss": "heard",
+     "grounds": "past participle",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vistaraśo",
+     "gloss": "in-detail",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tvattaḥ",
+     "gloss": "from-you",
+     "grounds": "ablative pronoun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kamalapatrākṣa",
+     "gloss": "lotus-petal-eyed",
+     "grounds": "compound vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "māhātmyamapi",
+     "gloss": "greatness-too",
+     "grounds": "fused māhātmyam+api",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāvyayam",
+     "gloss": "and-imperishable",
+     "grounds": "fused ca+avyayam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What has Arjuna heard about beings' birth and dissolution?",
+   "premises": [
+    "Arjuna has heard birth and dissolution of beings in detail from the Lord.",
+    "He has also heard the Lord's greatness and imperishability.",
+    "He addresses the lotus-petal-eyed Lord."
+   ],
+   "inference": "Arjuna's hearing establishes the background for requesting direct vision.",
+   "uncertainties": [
+    "Whether śrutau is dual participle or noun is compressed."
+   ],
+   "plain_english": "Birth and dissolution of beings have indeed been heard by me in detail from you, lotus-petal-eyed one; your greatness and imperishability too."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "evametadyathāttha",
+     "gloss": "thus-this-as-you-said",
+     "grounds": "fused evam+etat+yathā+āttha",
+     "morph": "2.sg.act-aor"
+    },
+    {
+     "surface": "tvamātmānaṃ",
+     "gloss": "you-yourself",
+     "grounds": "fused tvam+ātmānam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parameśvaram",
+     "gloss": "supreme-lord",
+     "grounds": "accusative of address",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "draṣṭumicchāmyahaṃ",
+     "gloss": "I-wish-to-see",
+     "grounds": "fused draṣṭum+icchāmi+aham",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "rūpamaiśvaraṃ",
+     "gloss": "divine-form",
+     "grounds": "fused rūpam+aiśvaram",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puruṣottama",
+     "gloss": "best-of-persons",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What form does Arjuna wish to see?",
+   "premises": [
+    "Arjuna accepts what the Lord said.",
+    "He wishes to see the Lord himself as supreme lord.",
+    "He asks to see the divine form."
+   ],
+   "inference": "Arjuna's desire is directed toward the Lord's own divine form.",
+   "uncertainties": [
+    "The exact force of evametadyathāttha is compressed."
+   ],
+   "plain_english": "Thus this is as you said: I wish to see you yourself, supreme lord, your divine form, O best of persons."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "manyase",
+     "gloss": "you-think",
+     "grounds": "root man",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tacchakyaṃ",
+     "gloss": "that-possible",
+     "grounds": "fused tat+śakyam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "draṣṭumiti",
+     "gloss": "to-see-thus",
+     "grounds": "fused draṣṭum+iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yogīśvara",
+     "gloss": "lord-of-yogis",
+     "grounds": "compound vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darśayātmānamavyayam",
+     "gloss": "show-yourself-imperishable",
+     "grounds": "fused darśaya+ātmānam+avyayam",
+     "morph": "2.sg.act-imp"
+    }
+   ],
+   "question": "How does Arjuna ask the Lord to show himself?",
+   "premises": [
+    "Arjuna asks if seeing is possible for him.",
+    "He addresses the Lord as lord of yogis.",
+    "He then asks the Lord to show his imperishable self."
+   ],
+   "inference": "The request is conditional and then becomes a direct plea for revelation.",
+   "uncertainties": [
+    "Whether tacchakyaṃ is neuter adjective or noun is compressed."
+   ],
+   "plain_english": "If you think that is possible for me to see, O lord, lord of yogis, then show me your imperishable self."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "the-blessed-lord-said",
+     "grounds": "fused śrī+bhagavān+uvāca",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "paśya",
+     "gloss": "see",
+     "grounds": "root paś",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "son-of-Pritha",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "rūpāṇi",
+     "gloss": "forms",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śataśo'tha",
+     "gloss": "by-hundreds-then",
+     "grounds": "fused śataśaḥ+atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasraśaḥ",
+     "gloss": "by-thousands",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānāvidhāni",
+     "gloss": "of-various-kinds",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "divyāni",
+     "gloss": "divine",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nānāvarṇākṛtīni",
+     "gloss": "of-various-colors-and-forms",
+     "grounds": "compound adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What forms does the Lord tell Arjuna to see?",
+   "premises": [
+    "The blessed Lord tells Arjuna to see.",
+    "He offers forms by hundreds and thousands.",
+    "The forms are divine, various, and many-colored."
+   ],
+   "inference": "The Lord promises a vast divine vision rather than one fixed form.",
+   "uncertainties": [
+    "The exact enumeration of forms is compressed."
+   ],
+   "plain_english": "The blessed Lord said: see, O son of Pritha, my forms by hundreds and by thousands, of various kinds, divine, of various colors and forms."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "paśyādityānvasūnrudrānaśvinau",
+     "gloss": "see-Adityas-Vasus-Rudras-Ashvins",
+     "grounds": "fused imperative and accusatives",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "marutastathā",
+     "gloss": "and-Maruts",
+     "grounds": "fused marutas+tathā",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bahūnyadṛṣṭapūrvāṇi",
+     "gloss": "many-never-seen-before",
+     "grounds": "compound adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "paśyāścaryāṇi",
+     "gloss": "see-wonders",
+     "grounds": "fused paśya+āścaryāṇi",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "pāṇḍava",
+     "gloss": "son-of-Pandu",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What divine beings and wonders does the Lord show?",
+   "premises": [
+    "The Lord tells Arjuna to see Adityas, Vasus, Rudras, Ashvins, and Maruts.",
+    "He shows many things never seen before.",
+    "He also shows wonders."
+   ],
+   "inference": "The vision includes multiple divine hosts and unprecedented wonders.",
+   "uncertainties": [
+    "The fused imperative-accusative string is compressed."
+   ],
+   "plain_english": "See the Adityas, Vasus, Rudras, Ashvins, and Maruts, and many things never seen before; see wonders, O son of Pandu."
+  }
+ ]
+}

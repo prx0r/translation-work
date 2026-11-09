@@ -1,0 +1,389 @@
+{
+ "song": "gita-a11",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "ihaikasthaṃ",
+     "gloss": "here-in-one-place",
+     "grounds": "compound iha+ekasthaṃ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jagatkṛtsnaṃ",
+     "gloss": "whole-world",
+     "grounds": "compound jagat+kṛtsnaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paśyādya",
+     "gloss": "see-now",
+     "grounds": "imperative paśya + adya",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "sacarācaram",
+     "gloss": "moving-and-still",
+     "grounds": "compound sa+carācara",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive of aham",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "locative deha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "guḍākeśa",
+     "gloss": "guḍākeśa",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yaccānyad",
+     "gloss": "and-whatever-else",
+     "grounds": "relative + ca + anyat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "draṣṭumicchasi",
+     "gloss": "you-wish-to-see",
+     "grounds": "infinitive + icchasi",
+     "morph": "2.sg.act-pres"
+    }
+   ],
+   "question": "What does Arjuna wish to see in Krishna's body?",
+   "premises": [
+    "Arjuna asks to see the whole world in one place.",
+    "He also asks to see whatever else he wishes."
+   ],
+   "inference": "The verse frames the vision as a request for total cosmic sight within the Lord's body.",
+   "uncertainties": [
+    "Kashmirian recension wording may differ from vulgate."
+   ],
+   "plain_english": "Here, in one place, see the whole world, moving and still, in my body, Guḍākeśa, and whatever else you wish to see."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "natu",
+     "gloss": "but-not",
+     "grounds": "na + tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative of aham",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "śakyase",
+     "gloss": "you-are-able",
+     "grounds": "passive śak + se",
+     "morph": "2.sg.pass-pres"
+    },
+    {
+     "surface": "draṣṭumanenaiva",
+     "gloss": "to-see-with-this-very",
+     "grounds": "infinitive + anena + eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svacakṣuṣā",
+     "gloss": "with-own-eye",
+     "grounds": "compound sva+cakṣuṣā",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadāmi",
+     "gloss": "I-give",
+     "grounds": "root dā",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative of tvam",
+     "morph": "2.dat.sg"
+    },
+    {
+     "surface": "cakṣuḥ",
+     "gloss": "eye",
+     "grounds": "accusative cakṣus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paśya",
+     "gloss": "see",
+     "grounds": "imperative paś",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive of aham",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "rūpamaiśvaram",
+     "gloss": "divine-form",
+     "grounds": "compound rūpa + aiśvara",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Why can Arjuna not see Krishna's divine form with his own eye?",
+   "premises": [
+    "Arjuna cannot see Krishna with his own eye.",
+    "Krishna gives him a divine eye to see the divine form."
+   ],
+   "inference": "The verse establishes that ordinary perception must be replaced by a granted divine capacity.",
+   "uncertainties": [
+    "The fused form rūpamaiśvaram is kept as one token."
+   ],
+   "plain_english": "But you cannot see me with this own eye; I give you a divine eye: see my divine form."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "saṃjaya",
+     "gloss": "saṃjaya",
+     "grounds": "nominative name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "root vac",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "evamuktvā",
+     "gloss": "having-said-thus",
+     "grounds": "compound evam+uktvā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rājan",
+     "gloss": "O-king",
+     "grounds": "vocative rājan",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "mahāyogīśvaro",
+     "gloss": "great-lord-of-yoga",
+     "grounds": "compound mahā+yogīśvara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hariḥ",
+     "gloss": "Hari",
+     "grounds": "nominative name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darśayāmāsa",
+     "gloss": "showed",
+     "grounds": "causative darśaya + āmāsa",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "pārthāya",
+     "gloss": "to-Pārtha",
+     "grounds": "dative pārtha",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpamaiśvaram",
+     "gloss": "divine-form",
+     "grounds": "compound rūpa+aiśvara",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Who shows the supreme divine form to Pārtha?",
+   "premises": [
+    "Saṃjaya reports the event.",
+    "Hari, great lord of yoga, showed the supreme divine form to Pārtha."
+   ],
+   "inference": "The verse marks the vision as an act of the Lord's yogic power.",
+   "uncertainties": [
+    "Kashmirian recension may vary in wording."
+   ],
+   "plain_english": "Saṃjaya said: having said thus, then, O king, Hari, the great lord of yoga, showed to Pārtha the supreme divine form."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "anekavaktranayanamanekādbhutadarśanam",
+     "gloss": "many-mouths-eyes-and-many-wondrous-sights",
+     "grounds": "long compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anekadivyābharaṇaṃ",
+     "gloss": "many-divine-ornaments",
+     "grounds": "compound aneka+divya+ābharaṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "divyānekodyatāyudham",
+     "gloss": "divine-many-raised-weapons",
+     "grounds": "compound divya+aneka+udyata+āyudha",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What features characterize the divine form shown to Arjuna?",
+   "premises": [
+    "The form has many mouths, eyes, and wondrous sights.",
+    "It has many divine ornaments and raised weapons."
+   ],
+   "inference": "The verse piles up plural divine features to convey overwhelming cosmic multiplicity.",
+   "uncertainties": [
+    "Long compounds are kept as single tokens."
+   ],
+   "plain_english": "Many mouths and eyes, many wondrous sights; many divine ornaments; divine, many raised weapons."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "divyamālyāmbaradharaṃ",
+     "gloss": "wearing-divine-garlands-and-garments",
+     "grounds": "compound divya+mālya+ambara+dhara",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "divyagandhānulepanam",
+     "gloss": "anointed-with-divine-fragrance",
+     "grounds": "compound divya+gandha+anulepana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvāścaryamayaṃ",
+     "gloss": "full-of-all-wonders",
+     "grounds": "compound sarva+āścarya+maya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devamanantaṃ",
+     "gloss": "divine-and-endless",
+     "grounds": "compound deva+ananta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viśvatomukham",
+     "gloss": "faces-everywhere",
+     "grounds": "compound viśvataḥ+mukha",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the divine form further described in its adornment and scope?",
+   "premises": [
+    "It wears divine garlands and garments.",
+    "It is anointed with divine fragrance and full of wonders."
+   ],
+   "inference": "The description extends from adornment to boundless, all-facing cosmic presence.",
+   "uncertainties": [
+    "Compound boundaries are interpretive but surface is preserved."
+   ],
+   "plain_english": "Wearing divine garlands and garments, anointed with divine fragrance, full of all wonders, divine and endless, with faces everywhere."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "divi",
+     "gloss": "in-heaven",
+     "grounds": "locative div",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sūryasahasrasya",
+     "gloss": "of-a-thousand-suns",
+     "grounds": "compound sūrya+sahasra",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "bhavedyugapadutthitā",
+     "gloss": "were-risen-at-once",
+     "grounds": "compound bhavet+yugapad+utthitā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāḥ",
+     "gloss": "splendor",
+     "grounds": "nominative bhās",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadṛśī",
+     "gloss": "like",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syādbhāsastasya",
+     "gloss": "would-be-the-splendor-of-that-one",
+     "grounds": "compound syāt+bhāsas+tasya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahātmanaḥ",
+     "gloss": "of-the-great-soul",
+     "grounds": "compound mahā+ātman",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What comparison conveys the splendor of the great soul's form?",
+   "premises": [
+    "If a thousand suns rose at once in heaven, their splendor might resemble it.",
+    "That splendor belongs to the great soul."
+   ],
+   "inference": "The verse uses an impossible solar blaze to measure the form's radiance.",
+   "uncertainties": [
+    "Fused sandhi forms are kept as single tokens."
+   ],
+   "plain_english": "If the splendor of a thousand suns were to rise at once in heaven, that might be like the splendor of that great soul."
+  }
+ ]
+}

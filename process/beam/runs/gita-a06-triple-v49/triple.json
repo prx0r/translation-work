@@ -1,0 +1,277 @@
+{
+ "song": "gita-a06",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "yogināmapi",
+     "gloss": "of-yogins-even",
+     "grounds": "genitive plural of yogin with api",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m/n"
+    },
+    {
+     "surface": "madgatenāntarātmanā",
+     "gloss": "with-inner-self-gone-to-me",
+     "grounds": "instrumental singular compound",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "śraddhāvān",
+     "gloss": "faithful",
+     "grounds": "nominative singular adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhajate",
+     "gloss": "worships",
+     "grounds": "third singular present active of bhaj",
+     "morph": "3.sg.act-pres (bhaj)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative singular pronoun",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive singular pronoun",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "yuktatamo",
+     "gloss": "most-united",
+     "grounds": "superlative nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "past participle nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sarvayogimadhye",
+     "gloss": "among-all-yogis",
+     "grounds": "locative singular compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ya",
+     "gloss": "who",
+     "grounds": "relative pronoun nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māmantaḥkaraṇe",
+     "gloss": "in-inner-organ-me",
+     "grounds": "locative singular compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "niveśya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of niveś",
+     "morph": "abs (niveś)"
+    },
+    {
+     "surface": "bhaktiśraddhātatparo",
+     "gloss": "devoted-to-devotion-and-faith",
+     "grounds": "nominative singular compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gurucaraṇasevālabdhasaṃpradāyakrameṇa",
+     "gloss": "by-tradition-order-obtained-by-service-to-guru-feet",
+     "grounds": "instrumental singular compound",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "māmeva-nānyat",
+     "gloss": "me-only-not-other",
+     "grounds": "fused accusative phrase",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "bhajatevimṛśyate",
+     "gloss": "worships-and-reflects",
+     "grounds": "fused verbal form",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yuktatamaḥ-parameśvarasamāviṣṭaḥ",
+     "gloss": "most-united-entered-into-supreme-lord",
+     "grounds": "fused nominative compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "seśvarasya",
+     "gloss": "of-with-lord",
+     "grounds": "genitive singular compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowing",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "sarvaprādhānyamuktamiti",
+     "gloss": "thus-declared-supremacy-of-all",
+     "grounds": "fused participle phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "closing benedictory word",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "49",
+     "gloss": "forty-nine",
+     "grounds": "verse number",
+     "morph": "(numeral)"
+    }
+   ],
+   "question": "Who is declared the most united among all yogins?",
+   "premises": [
+    "The faithful yogin worships the Lord with inner self gone to Him.",
+    "He places the Lord in the inner organ and serves the guru's feet.",
+    "Thus the supremacy of knowing with the Lord is declared."
+   ],
+   "inference": "The most united yogin is the one devoted to the Lord through faith and guru-tradition.",
+   "uncertainties": [
+    "Fused forms are analyzed as given without splitting."
+   ],
+   "plain_english": "Among all yogins, the faithful one who worships the Lord with inner self turned toward Him is considered most united; he places the Lord in the inner organ, is devoted to devotion and faith, and by the tradition-order obtained through service to the guru's feet worships and reflects on the Lord alone, not another; he is most united, entered into the supreme Lord. Thus the supremacy of all knowing with the Lord is declared. Auspicious. 49."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "nominative singular compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhagavannāmasaṃprāptimātrātsarvamavāpyate",
+     "gloss": "all-is-obtained-by-mere-attainment-of-lord-name",
+     "grounds": "fused ablative phrase",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "phalitāḥ",
+     "gloss": "ripened",
+     "grounds": "nominative plural participle",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "śālayaḥ",
+     "gloss": "rice-plants",
+     "grounds": "nominative plural noun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "samyagvṛṣṭimātre'valokite",
+     "gloss": "when-proper-rain-alone-is-seen",
+     "grounds": "fused locative phrase",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "6",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(numeral)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmaheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "composed-by-feet-of-abhinavagupta",
+     "grounds": "locative singular compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śrīmadbhagavadgītārthasaṃgrahe",
+     "gloss": "in-gathering-of-meaning-of-gita",
+     "grounds": "locative singular compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ṣaṣṭho'dhyāyaḥ",
+     "gloss": "sixth-chapter",
+     "grounds": "nominative singular compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "6",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(numeral)"
+    }
+   ],
+   "question": "What is the summary verse's teaching about obtaining all?",
+   "premises": [
+    "Here is the summary verse.",
+    "All is obtained by mere attainment of the Lord's name.",
+    "Rice plants ripen when proper rain alone is seen."
+   ],
+   "inference": "The summary verse teaches that all is obtained by mere attainment of the Lord's name, as rice ripens by proper rain.",
+   "uncertainties": [
+    "Fused forms are analyzed as given without splitting."
+   ],
+   "plain_english": "Here is the summary verse: all is obtained by mere attainment of the Lord's name, as rice plants ripen when proper rain alone is seen. 6. Thus in the gathering of the meaning of the holy Bhagavad Gita, composed by the feet of Abhinavagupta, the sixth chapter. 6."
+  }
+ ]
+}

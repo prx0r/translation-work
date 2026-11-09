@@ -1,0 +1,533 @@
+{
+ "song": "gita-a11",
+ "items": [
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "anādimadhyāntamanantavīrya-",
+     "gloss": "without-beginning-middle-end-infinite-power",
+     "grounds": "fused compound adjective continuing into next token",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "manantabāhuṃ",
+     "gloss": "infinite-armed",
+     "grounds": "accusative adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaśisūryanetram",
+     "gloss": "moon-sun-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśyāmi",
+     "gloss": "i-see",
+     "grounds": "first person singular present active",
+     "morph": "1.sg.act-pres root paś"
+    },
+    {
+     "surface": "tvā",
+     "gloss": "you",
+     "grounds": "accusative pronoun",
+     "morph": "2.sg.acc"
+    },
+    {
+     "surface": "dīptahutāśavaktraṃ",
+     "gloss": "blazing-fire-mouthed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svatejasā",
+     "gloss": "by-own-radiance",
+     "grounds": "instrumental singular",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "viśvamidaṃ",
+     "gloss": "this-universe",
+     "grounds": "accusative noun phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tapantam",
+     "gloss": "scorching",
+     "grounds": "present participle",
+     "morph": "m.acc.sg pres.part"
+    }
+   ],
+   "question": "What form of the Lord does Arjuna see as scorching the universe?",
+   "premises": [
+    "Arjuna sees the Lord with infinite power and arms",
+    "The Lord's mouth blazes like fire",
+    "The Lord's own radiance scorches this universe"
+   ],
+   "inference": "The vision presents the Lord as all-pervading cosmic fire",
+   "uncertainties": [
+    "The hyphenated first token continues into the next token"
+   ],
+   "plain_english": "I see you, infinite in power and arms, moon-and-sun-eyed, with a blazing fire-mouth, scorching this universe by your own radiance."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "dyāvāpṛthivyoridamantaraṃ",
+     "gloss": "between-heaven-and-earth-this-interval",
+     "grounds": "fused compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāptaṃ",
+     "gloss": "pervaded",
+     "grounds": "past participle",
+     "morph": "n.acc.sg pp"
+    },
+    {
+     "surface": "tvayaikena",
+     "gloss": "by-you-alone",
+     "grounds": "instrumental singular compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "diśaśca",
+     "gloss": "and-directions",
+     "grounds": "accusative plural with particle",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "accusative plural adjective",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "dṛṣṭvādbhutaṃ",
+     "gloss": "having-seen-wonderful",
+     "grounds": "fused absolutive and adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpamugraṃ",
+     "gloss": "form-fierce",
+     "grounds": "accusative noun phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tavedṛ",
+     "gloss": "your-such",
+     "grounds": "fused possessive and demonstrative",
+     "morph": "m/n.acc.sg (compound)"
+    },
+    {
+     "surface": "glokatrayaṃ",
+     "gloss": "three-worlds",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pravyathitaṃ",
+     "gloss": "agitated",
+     "grounds": "past participle",
+     "morph": "n.acc.sg pp"
+    },
+    {
+     "surface": "mahātman",
+     "gloss": "great-soul",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How does the Lord's fierce form affect the three worlds?",
+   "premises": [
+    "The interval between heaven and earth is pervaded by you alone",
+    "All directions are included in that pervasion",
+    "The three worlds are agitated by your fierce form"
+   ],
+   "inference": "The universal form fills and disturbs the whole cosmos",
+   "uncertainties": [
+    "tavedṛ is a fused form whose exact internal split is not expanded"
+   ],
+   "plain_english": "Indeed, this interval between heaven and earth is pervaded by you alone, and all directions; seeing your wonderful fierce form, the three worlds are agitated, great soul."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "amī",
+     "gloss": "these",
+     "grounds": "nominative plural pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvā",
+     "gloss": "you",
+     "grounds": "accusative pronoun",
+     "morph": "2.sg.acc"
+    },
+    {
+     "surface": "surasaṅghā",
+     "gloss": "god-hosts",
+     "grounds": "nominative plural compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "third person plural present active",
+     "morph": "3.pl.act-pres root viś"
+    },
+    {
+     "surface": "kecidbhītāḥ",
+     "gloss": "some-frightened",
+     "grounds": "fused pronoun and participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāñjalayo",
+     "gloss": "with-joined-palms",
+     "grounds": "nominative plural adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gṛṇanti",
+     "gloss": "praise",
+     "grounds": "third person plural present active",
+     "morph": "3.pl.act-pres root gṛ"
+    },
+    {
+     "surface": "svastīti",
+     "gloss": "svasti-thus",
+     "grounds": "fused indeclinable phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cottacaiva",
+     "gloss": "and-also",
+     "grounds": "fused particles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maharṣisaṅghāḥ",
+     "gloss": "great-sage-hosts",
+     "grounds": "nominative plural compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "stuvanti",
+     "gloss": "hymn",
+     "grounds": "third person plural present active",
+     "morph": "3.pl.act-pres root stu"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "accusative pronoun",
+     "morph": "2.sg.acc"
+    },
+    {
+     "surface": "stutibhiḥ",
+     "gloss": "with-praises",
+     "grounds": "instrumental plural",
+     "morph": "f.instr.pl"
+    },
+    {
+     "surface": "puṣkalābhiḥ",
+     "gloss": "abundant",
+     "grounds": "instrumental plural adjective",
+     "morph": "f.instr.pl"
+    }
+   ],
+   "question": "How do gods and sages respond to the universal form?",
+   "premises": [
+    "God-hosts enter into you",
+    "Some frightened ones praise with joined palms",
+    "Great-sage hosts hymn you with abundant praises"
+   ],
+   "inference": "The vision draws worship, fear, and praise from divine and sage assemblies",
+   "uncertainties": [
+    "cottacaiva is a fused particle cluster not split"
+   ],
+   "plain_english": "Indeed these god-hosts enter into you; some frightened ones, with joined palms, praise, saying svasti; and great-sage hosts hymn you with abundant praises."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "rudrādityā",
+     "gloss": "rudras-and-adityas",
+     "grounds": "nominative plural compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vasavo",
+     "gloss": "vasus",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyā",
+     "gloss": "sādhyas",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viśve'śvinau",
+     "gloss": "viśve-and-aśvins",
+     "grounds": "fused nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "marutaścoṣmapāśca",
+     "gloss": "maruts-and-uṣmapās-and",
+     "grounds": "fused nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gandharvayakṣāsurasiddhasaṅghā",
+     "gloss": "gandharva-yakṣa-asura-siddha-hosts",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vīkṣante",
+     "gloss": "behold",
+     "grounds": "third person plural present active",
+     "morph": "3.pl.act-pres root vīkṣ"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "accusative pronoun",
+     "morph": "2.sg.acc"
+    },
+    {
+     "surface": "vismitāścaiva",
+     "gloss": "astonished-and-also",
+     "grounds": "fused participle and particles",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which beings behold the Lord with astonishment?",
+   "premises": [
+    "Rudras, Adityas, Vasus, Sādhyas, Viśve, and Aśvins behold you",
+    "Maruts, Uṣmapās, and host-groups behold you",
+    "All are astonished at the vision"
+   ],
+   "inference": "The entire divine assembly witnesses the universal form in wonder",
+   "uncertainties": [
+    "viśve'śvinau and marutaścoṣmapāśca are fused sandhi forms"
+   ],
+   "plain_english": "Rudras, Adityas, Vasus, Sādhyas, Viśve, Aśvins, Maruts, Uṣmapās, and Gandharva, Yakṣa, Asura, and Siddha hosts all behold you, astonished."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahatte",
+     "gloss": "great",
+     "grounds": "accusative singular adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bahuvaktranetraṃ",
+     "gloss": "many-mouthed-eyed",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahābāho",
+     "gloss": "mighty-armed",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "bahubāhūrupādam",
+     "gloss": "many-arms-thighs-feet",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bahūdaraṃ",
+     "gloss": "many-bellied",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bahudaṃṣṭrākarālaṃ",
+     "gloss": "many-tusked-fanged",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive",
+     "morph": "absolutive root dṛś"
+    },
+    {
+     "surface": "lokāḥ",
+     "gloss": "worlds",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pravyathitāstathā'ham",
+     "gloss": "agitated-and-so-i",
+     "grounds": "fused participle and first-person statement",
+     "morph": "m.nom.pl + 1.sg.nom"
+    }
+   ],
+   "question": "What happens when beings see the Lord's many-limbed form?",
+   "premises": [
+    "The great form has many mouths, eyes, arms, thighs, feet, bellies, tusks, and fangs",
+    "Worlds are agitated upon seeing it",
+    "The speaker is likewise agitated"
+   ],
+   "inference": "The terrifying multiplicity of the form disturbs all observers",
+   "uncertainties": [
+    "pravyathitāstathā'ham fuses plural participle with first-person statement"
+   ],
+   "plain_english": "Seeing your great form with many mouths and eyes, mighty-armed, with many arms, thighs, feet, bellies, tusks, and fangs, the worlds are agitated, and so am I."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "nabhaḥspṛśaṃ",
+     "gloss": "touching-sky",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīptamanekavarṇaṃ",
+     "gloss": "blazing-many-colored",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyāttānanaṃ",
+     "gloss": "open-mouthed",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīptaviśālanetram",
+     "gloss": "blazing-wide-eyed",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive",
+     "morph": "absolutive root dṛś"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "accusative pronoun",
+     "morph": "2.sg.acc"
+    },
+    {
+     "surface": "pravyathitāntarātmā",
+     "gloss": "agitated-inner-self",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhṛtiṃ",
+     "gloss": "steadiness",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vindāmi",
+     "gloss": "i-find",
+     "grounds": "first person singular present active",
+     "morph": "1.sg.act-pres root vid"
+    },
+    {
+     "surface": "śamaṃ",
+     "gloss": "peace",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇo",
+     "gloss": "viṣṇu",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Why does the seer lose steadiness and peace?",
+   "premises": [
+    "The form touches the sky and blazes in many colors",
+    "Its mouth is open and its eyes are blazing and wide",
+    "Seeing you, the inner self is agitated"
+   ],
+   "inference": "The overwhelming cosmic form destroys inner composure",
+   "uncertainties": [
+    "The vocative viṣṇo addresses the Lord directly"
+   ],
+   "plain_english": "Seeing you, whose form touches the sky, blazing in many colors, with open mouth and blazing wide eyes, my inner self is agitated; I find neither steadiness nor peace, O Viṣṇu."
+  }
+ ]
+}

@@ -32,12 +32,22 @@ def main() -> int:
     args = ap.parse_args()
 
     sp = workcfg.source_spans(args.work)
-    if not sp:
-        print('ERROR: no source spans (intake source/segments missing?)', file=sys.stderr)
-        return 1
 
-    t1 = {}          # verse -> T1 record
-    for f in sorted((ROOT / args.work).glob('working-t1-*.json')):
+    # Song-scoped T1 load: the CM filename names its song (l0cm-{song}-...).
+    # Multi-song works (song-local verse numbers) must NOT merge all
+    # working-t1 files into one verse-keyed dict (keys collide). Legacy
+    # single-song CM names fall back to the old glob.
+    import re as _re
+    _song = None
+    _m = _re.search(r'l0cm-(.+?)-v\d+-\d+', Path(args.cm[0]).name)
+    if _m:
+        _cand = ROOT / args.work / f'working-t1-{_m.group(1)}.json'
+        if _cand.exists():
+            _song = _m.group(1)
+    t1 = {}          # verse -> T1 record (song-scoped)
+    _files = [ROOT / args.work / f'working-t1-{_song}.json'] if _song \
+        else sorted((ROOT / args.work).glob('working-t1-*.json'))
+    for f in _files:
         for e in json.loads(f.read_text(encoding='utf-8')):
             t1[e['verse']] = e
     if not t1:
@@ -53,15 +63,14 @@ def main() -> int:
 
     built: dict[str, list[tuple[int, list]]] = {}
     for v in sorted(cm):
-        span = [t for t in sp[v] if set(t) != {'|'} and t != '/']
         rec_t1 = t1.get(v)
         assert rec_t1 is not None, f'no T1 record for verse {v}'
+        toks = [t['surface'] for t in rec_t1['tokens']]
         cms = cm[v]
-        assert len(cms) == len(span), (v, 'CM', len(cms), 'span', len(span))
-        assert len(rec_t1['tokens']) == len(span), (v, 'T1', len(rec_t1['tokens']), 'span', len(span))
+        assert len(cms) == len(toks), (v, 'CM', len(cms), 'T1', len(toks))
         song = rec_t1['verse_id'].rsplit('-v', 1)[0]
         recs = []
-        for i, (c, s, tk) in enumerate(zip(cms, span, rec_t1['tokens'])):
+        for i, (c, s, tk) in enumerate(zip(cms, toks, rec_t1['tokens'])):
             assert s == tk['surface'], (v, i, s, tk['surface'])
             assert len(c) >= 2, (v, i, c)
             o = {'gloss': tk['quick_gloss'], 'rank': 1, 'source': 't1-draft'}
