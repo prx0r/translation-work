@@ -288,6 +288,8 @@ anything red → read the error, fix the layer, re-validate (never force)
 | `promote` refuses | validate errors or BLOCKED without disposition | Fix the data layer, or record a BLOCKED disposition via proof tooling. Never force PASS |
 | `gates()` manifest-fresh red | New canonical files unregistered | `promote` regenerates automatically; manual: `tools/manifest.py gen` |
 | Duplicate drivers / double seeding | Raced starts across sessions | Seeding is idempotent (have-check) so harmless; keep newest, kill older by exact PID (never pkill) |
+| Driver spins, seeds 0, coverage incomplete | Exhausted task IDs block re-seeding by design (deadlock) | Do NOT hand-edit queue.json. Run `python3 tools/beam_swarm.py retest <task-id>` (fresh id, attempts reset, max 3 total) or `supersede <id> <why>`; `tal_stage --loop` now exits 3 with the dead list instead of spinning. Verify with `tools/check_front.py --work W --song S` before reseeding |
+| 24-verse windows fail on prose-heavy works | Fixed verse-count grouping blows the output ceiling | `swarm_seed` auto-packs by source tokens (≈250) for non-Tantraloka fronts; `stage_seed_triple(..., token_budget=N)` overrides. Tantraloka keeps legacy 24-verse grouping |
 | Surprise push from the loop | Push-on-green is the contract (machine-proposed commits) | Review `git log`; to hold pushes, stop ralph, work, restart. Never rewrite pushed history |
 
 ## 7. Autonomy wiring

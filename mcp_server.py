@@ -141,20 +141,35 @@ def swarm_status() -> dict:
 
 
 @mcp.tool()
-def swarm_seed(work: str, song: str, group: int = 24) -> dict:
+def swarm_seed(work: str, song: str, group: int = 24, token_budget: int = 0) -> dict:
     """Seed swarmable triple tasks (gloss+CM+argmap+L2 per verse-group) for a
     song. Writes queue.json ONLY. Requires a lore brief (see lore tool) —
     unbriefed seeds degenerate (mistakes #21). 24 verses/group default;
-    auto-halves on output ceiling."""
+    auto-halves on output ceiling. token_budget>0 packs by source tokens
+    instead (prose-heavy units: 24-verse windows blow output; ~250 works)."""
     if _lore_path(work) is None and work.startswith("tantraloka-a"):
         return {"seeded": 0, "warning": "no transmission brief for this front — write lore first"}
     sys.path.insert(0, str(ROOT / "tools"))
     import tal_stage
+    import subprocess as _sp
+    _chk = _sp.run([sys.executable, "tools/check_front.py",
+                    "--work", work, "--song", song],
+                   capture_output=True, text=True, cwd=str(ROOT))
+    _warnings = [ln for ln in _chk.stdout.splitlines() if ln.startswith("WARN:")]
+    if _chk.returncode not in (0,):
+        return {"seeded": 0, "blocked": True,
+                "detail": (_chk.stdout + _chk.stderr)[-800:]}
+    if not token_budget and not work.startswith("tantraloka-a"):
+        token_budget = 250  # prose-heavy non-TAL fronts: size by tokens
     wt = tal_stage.stage_parse(work, song)
     before = len(tal_stage.load_q())
-    tal_stage.stage_seed_triple(work, song, group=group)
+    tal_stage.stage_seed_triple(work, song, group=group, token_budget=token_budget)
     after = len(tal_stage.load_q())
-    return {"seeded": after - before, "verses": len(wt), "group": group}
+    out = {"seeded": after - before, "verses": len(wt), "group": group,
+           "token_budget": token_budget}
+    if _warnings:
+        out["warnings"] = _warnings
+    return out
 
 
 @mcp.tool()
