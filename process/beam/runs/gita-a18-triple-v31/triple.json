@@ -1,0 +1,605 @@
+{
+ "song": "gita-a18",
+ "items": [
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative pronoun introducing the rajasic intellect",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "dharmamadharmaṃ",
+     "gloss": "right-and-wrong",
+     "grounds": "compound of dharma and adharma",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "duty",
+     "grounds": "what is to be done",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cākāryameva",
+     "gloss": "and-non-duty-indeed",
+     "grounds": "fused ca + akārya + eva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayathāvat",
+     "gloss": "not-as-it-is",
+     "grounds": "adverb of improper knowing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajānāti",
+     "gloss": "knows",
+     "grounds": "verb of cognition",
+     "morph": "3.sg.act-pres + root jñā"
+    },
+    {
+     "surface": "buddhiḥ",
+     "gloss": "intellect",
+     "grounds": "subject of knowing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "O-Pārtha",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "rājasī",
+     "gloss": "rajasic",
+     "grounds": "guṇa classification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ayathāvat-asamyak",
+     "gloss": "not-as-it-is-improperly",
+     "grounds": "gloss token fused with hyphen",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the rajasic intellect misjudge duty and non-duty?",
+   "premises": [
+    "The rajasic intellect knows right and wrong improperly.",
+    "It also misjudges duty and non-duty.",
+    "This is the guṇa-classified intellect."
+   ],
+   "inference": "Rajasic knowing distorts practical and moral discrimination.",
+   "uncertainties": [
+    "The fused gloss token is retained as one surface."
+   ],
+   "plain_english": "The intellect by which one improperly knows right and wrong, duty and non-duty, is rajasic, O Pārtha."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "adharmaṃ",
+     "gloss": "wrong",
+     "grounds": "object misidentified",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dharmamiti",
+     "gloss": "as-right-thus",
+     "grounds": "fused dharmam + iti",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "buddhyate",
+     "gloss": "is-understood",
+     "grounds": "passive of cognition",
+     "morph": "3.sg.pass-pres + root budh"
+    },
+    {
+     "surface": "tamasānvitā",
+     "gloss": "joined-with-darkness",
+     "grounds": "compound with tamas",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvārthānviparītāṃśca",
+     "gloss": "and-all-meanings-reversed",
+     "grounds": "fused compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "buddhiḥ",
+     "gloss": "intellect",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāmasī",
+     "gloss": "tamasic",
+     "grounds": "guṇa classification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-considered",
+     "grounds": "passive of opinion",
+     "morph": "3.sg.pass-pres + root man"
+    }
+   ],
+   "question": "How does the tamasic intellect reverse all meanings?",
+   "premises": [
+    "The tamasic intellect understands wrong as right.",
+    "It is joined with darkness.",
+    "It reverses all meanings."
+   ],
+   "inference": "Tamasic knowing inverts moral and practical values entirely.",
+   "uncertainties": [
+    "The fused compound is kept as one row."
+   ],
+   "plain_english": "The intellect joined with darkness, which understands wrong as right and reverses all meanings, is considered tamasic."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "dhṛtyā",
+     "gloss": "by-steadfastness",
+     "grounds": "instrumental of dhṛti",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental of first person",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "dhārayate",
+     "gloss": "holds",
+     "grounds": "verb of sustaining",
+     "morph": "3.sg.act-pres + root dhṛ"
+    },
+    {
+     "surface": "manaḥprāṇendriyakriyāḥ",
+     "gloss": "mind-breath-sense-actions",
+     "grounds": "compound of mental, vital, and sense actions",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "yogenāvyabhicāriṇyā",
+     "gloss": "by-unwavering-yoga",
+     "grounds": "fused compound",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "dhṛtiḥ",
+     "gloss": "steadfastness",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sāttvikīmatā",
+     "gloss": "is-considered-sattvic",
+     "grounds": "fused sāttvikī + matā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manaḥprāṇendriyakriyāḥ",
+     "gloss": "mind-breath-sense-actions",
+     "grounds": "repeated compound",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "yogena",
+     "gloss": "by-yoga",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "dhārayati",
+     "gloss": "holds",
+     "grounds": "verb of sustaining",
+     "morph": "3.sg.act-pres + root dhṛ"
+    },
+    {
+     "surface": "yatā",
+     "gloss": "restrained",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mamopabhogādibhiḥ",
+     "gloss": "with-my-enjoyments-and-so-forth",
+     "grounds": "fused compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "sarvathaivātmārāmo",
+     "gloss": "in-every-way-self-delighting",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūyāsam-iti",
+     "gloss": "may-I-become-thus",
+     "grounds": "fused optative with iti",
+     "morph": "1.sg.opt"
+    },
+    {
+     "surface": "manvānaḥ",
+     "gloss": "thinking",
+     "grounds": "participle of man",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is sattvic steadfastness in holding mind, breath, and senses?",
+   "premises": [
+    "Sattvic steadfastness holds mind, breath, and sense actions by unwavering yoga.",
+    "It restrains them through yoga.",
+    "It aims at self-delight rather than enjoyment."
+   ],
+   "inference": "Sattvic dhṛti sustains the faculties in disciplined self-delight.",
+   "uncertainties": [
+    "The repeated compound is retained as a separate surface."
+   ],
+   "plain_english": "Steadfastness by which, through unwavering yoga, one holds mind, breath, and sense actions, is sattvic; thinking 'may I become self-delighting in every way,' one restrains them by yoga."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative pronoun",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmakāmārthāndhṛtyā",
+     "gloss": "duty-desire-wealth-by-steadfastness",
+     "grounds": "fused compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dhārayate'rjuna",
+     "gloss": "holds-O-Arjuna",
+     "grounds": "fused dhārayate + arjuna",
+     "morph": "3.sg.act-pres + root dhṛ"
+    },
+    {
+     "surface": "prasaṅgena",
+     "gloss": "by-attachment",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "phalākāṃkṣī",
+     "gloss": "desiring-fruit",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhṛtiḥ",
+     "gloss": "steadfastness",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "O-Pārtha",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "rājasī",
+     "gloss": "rajasic",
+     "grounds": "guṇa classification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasaṅgeneti-na",
+     "gloss": "by-attachment-thus-not",
+     "grounds": "fused gloss token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathābhiniveśena",
+     "gloss": "with-such-fixation",
+     "grounds": "fused compound",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "How does rajasic steadfastness hold duty, desire, and wealth?",
+   "premises": [
+    "Rajasic steadfastness holds duty, desire, and wealth.",
+    "It is attached and fruit-desiring.",
+    "It is not mere attachment but such fixation."
+   ],
+   "inference": "Rajasic dhṛti sustains worldly aims with attached fruit-desire.",
+   "uncertainties": [
+    "The fused gloss token is retained as one surface."
+   ],
+   "plain_english": "But steadfastness by which one holds duty, desire, and wealth, O Arjuna, with attachment and fruit-desire, is rajasic, O Pārtha; not by mere attachment but by such fixation."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative pronoun",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "svapnaṃ",
+     "gloss": "sleep",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śokaṃ",
+     "gloss": "grief",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viṣādaṃ",
+     "gloss": "despair",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mohameva",
+     "gloss": "delusion-indeed",
+     "grounds": "fused moha + eva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimuñcati",
+     "gloss": "releases",
+     "grounds": "verb of letting go",
+     "morph": "3.sg.act-pres + root muc"
+    },
+    {
+     "surface": "durmedhā",
+     "gloss": "dull-minded-one",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhṛtiḥ",
+     "gloss": "steadfastness",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāmasī",
+     "gloss": "tamasic",
+     "grounds": "guṇa classification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-considered",
+     "grounds": "passive of opinion",
+     "morph": "3.sg.pass-pres + root man"
+    },
+    {
+     "surface": "nidrākalahādiṣveva",
+     "gloss": "in-sleep-quarrels-and-so-forth-indeed",
+     "grounds": "fused compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative pronoun",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "santoṣaṃ",
+     "gloss": "contentment",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "badhnāti",
+     "gloss": "binds",
+     "grounds": "verb of binding",
+     "morph": "3.sg.act-pres + root bandh"
+    },
+    {
+     "surface": "tatparatayā-sā",
+     "gloss": "by-devotion-to-that-that",
+     "grounds": "fused compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāmasī",
+     "gloss": "tamasic",
+     "grounds": "guṇa classification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhṛtiḥ",
+     "gloss": "steadfastness",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does tamasic steadfastness cling to sleep, fear, grief, and delusion?",
+   "premises": [
+    "Tamasic steadfastness does not release sleep, fear, grief, despair, and delusion.",
+    "It binds contentment to those states.",
+    "It is considered tamasic."
+   ],
+   "inference": "Tamasic dhṛti clings to dull and binding states rather than liberating steadfastness.",
+   "uncertainties": [
+    "The fused gloss token is retained as one surface."
+   ],
+   "plain_english": "Steadfastness by which the dull-minded one does not release sleep, fear, grief, despair, and delusion is tamasic; by which one binds contentment to those states, that too is tamasic steadfastness."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvidānīṃ",
+     "gloss": "but-now",
+     "grounds": "fused tu + idānīm",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp + root śru"
+    },
+    {
+     "surface": "me",
+     "gloss": "from-me",
+     "grounds": "ablative/genitive of first person",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bharatarṣabha",
+     "gloss": "O-bull-of-Bharatas",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "abhyāsādramate",
+     "gloss": "delights-from-practice",
+     "grounds": "fused compound",
+     "morph": "3.sg.act-pres + root ram"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duḥkhāntaṃ",
+     "gloss": "end-of-suffering",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nigacchati",
+     "gloss": "reaches",
+     "grounds": "verb of attainment",
+     "morph": "3.sg.act-pres + root gam"
+    }
+   ],
+   "question": "What threefold happiness should be heard now?",
+   "premises": [
+    "Happiness is now threefold.",
+    "It is to be heard from the speaker.",
+    "Where practice delights, suffering ends."
+   ],
+   "inference": "The threefold happiness is introduced as something to be heard and practiced toward ending suffering.",
+   "uncertainties": [
+    "The fused verb compound is retained as one surface."
+   ],
+   "plain_english": "But now hear from me, O bull of the Bharatas, the threefold happiness, where one delights through practice and reaches the end of suffering."
+  }
+ ]
+}

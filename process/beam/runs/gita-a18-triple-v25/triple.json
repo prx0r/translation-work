@@ -1,0 +1,716 @@
+{
+ "song": "gita-a18",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "anubandhaṃ",
+     "gloss": "result",
+     "grounds": "object of seeing",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kṣayaṃ",
+     "gloss": "destruction",
+     "grounds": "object of seeing",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "hiṃsāmanavekṣya",
+     "gloss": "without-considering-violence",
+     "grounds": "fused compound",
+     "morph": "abs."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pauruṣam",
+     "gloss": "manly-effort",
+     "grounds": "object of seeing",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mohādārabhyate",
+     "gloss": "begins-from-delusion",
+     "grounds": "fused verb",
+     "morph": "3.sg.pass-pres root ārabh"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yattattāmasamucyate",
+     "gloss": "that-is-called-tamasic",
+     "grounds": "fused verb",
+     "morph": "3.sg.pass-pres root uc"
+    },
+    {
+     "surface": "mohāt-abhiniveśamayāt",
+     "gloss": "from-delusion-full-of-attachment",
+     "grounds": "fused ablative",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What kind of action is called tamasic when begun from delusion?",
+   "premises": [
+    "action begun from delusion is tamasic",
+    "violence and result are ignored",
+    "manly effort is not considered"
+   ],
+   "inference": "Tamasic action arises from delusion without regard for consequence or harm.",
+   "uncertainties": [
+    "pauruṣam may mean manly effort or human agency"
+   ],
+   "plain_english": "Action begun from delusion, without considering consequence, destruction, violence, or manly effort, is called tamasic."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "muktasaṅgo'nahaṃvādī",
+     "gloss": "free-from-attachment-not-claiming-i-am-doer",
+     "grounds": "fused compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dhṛtyutsāhasamanvitaḥ",
+     "gloss": "endowed-with-steadfastness-and-zeal",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "siddhyasiddhyornirvikāraḥ",
+     "gloss": "unchanged-in-success-or-failure",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sāttvika",
+     "gloss": "sattvic",
+     "grounds": "predicate",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres root uc"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "quoted claim",
+     "morph": "nom.sg."
+    },
+    {
+     "surface": "kartā",
+     "gloss": "doer",
+     "grounds": "quoted claim",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadan",
+     "gloss": "not-saying",
+     "grounds": "participle",
+     "morph": "pres.part root vad"
+    },
+    {
+     "surface": "tacchīlastaddharmā",
+     "gloss": "of-that-character-and-quality",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tatsādhukārī",
+     "gloss": "doer-of-that-good",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavatīti-anahaṃvādī-ityanena",
+     "gloss": "by-this-not-claiming-i-am-doer",
+     "grounds": "fused phrase",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "ṇininā",
+     "gloss": "by-suffix",
+     "grounds": "fused morphological note",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "vyavahāramātrasaṃvṛtivaśena",
+     "gloss": "by-conventional-usage-only",
+     "grounds": "compound",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "yogino'pi",
+     "gloss": "even-of-yogis",
+     "grounds": "fused genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "quoted claim",
+     "morph": "nom.sg."
+    },
+    {
+     "surface": "karomi-iti",
+     "gloss": "i-do-thus",
+     "grounds": "fused verb",
+     "morph": "1.sg.act-pres root kṛ + iti"
+    },
+    {
+     "surface": "vaco",
+     "gloss": "speech",
+     "grounds": "object",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣiddham",
+     "gloss": "forbidden",
+     "grounds": "predicate",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What marks the sattvic agent and how is the yogi's speech treated?",
+   "premises": [
+    "the sattvic agent is free from attachment",
+    "he is unchanged in success or failure",
+    "he does not say i am the doer",
+    "even yogis' conventional speech is not forbidden"
+   ],
+   "inference": "Sattvic agency is non-egoic steadiness, while ordinary yogic speech remains permitted.",
+   "uncertainties": [
+    "tacchīlastaddharmā is compressed and ambiguous"
+   ],
+   "plain_english": "The agent free from attachment, endowed with steadfastness and zeal, unchanged in success or failure, is called sattvic; he does not say 'I am the doer,' yet even a yogi's conventional speech 'I do' is not forbidden."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "rāgī",
+     "gloss": "attached",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "karmaphalaprepsurlubdho",
+     "gloss": "desiring-fruit-and-greedy",
+     "grounds": "fused compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "hiṃsātmako'śuciḥ",
+     "gloss": "violent-and-impure",
+     "grounds": "fused compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "harṣaśokānvitaḥ",
+     "gloss": "joined-with-joy-and-sorrow",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "rājasaḥ",
+     "gloss": "rajasic",
+     "grounds": "predicate",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "parakīrtyate",
+     "gloss": "is-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres root kṛt"
+    },
+    {
+     "surface": "harṣaśokānvitaḥ-siddhyasiddhyoḥ",
+     "gloss": "in-success-and-failure",
+     "grounds": "fused locative",
+     "morph": "loc.du.f"
+    }
+   ],
+   "question": "What characterizes the rajasic agent?",
+   "premises": [
+    "the rajasic agent is attached",
+    "he desires fruit and is greedy",
+    "he is violent impure and swayed by joy and sorrow"
+   ],
+   "inference": "Rajasic agency is driven by attachment, desire for results, and emotional fluctuation.",
+   "uncertainties": [
+    "harṣaśokānvitaḥ-siddhyasiddhyoḥ is a fused locative phrase"
+   ],
+   "plain_english": "The attached agent who desires fruit, is greedy, violent, impure, and joined with joy and sorrow in success and failure, is called rajasic."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "ayuktaḥ",
+     "gloss": "undisciplined",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prākṛtaḥ",
+     "gloss": "ordinary",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "stabdhaḥ",
+     "gloss": "stiff",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śaṭho",
+     "gloss": "deceitful",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "naiṣkṛtiko'lasaḥ",
+     "gloss": "cruel-and-lazy",
+     "grounds": "fused compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "viṣādī",
+     "gloss": "despondent",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dīrghasūtraśca",
+     "gloss": "procrastinating-and",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tāmasa",
+     "gloss": "tamasic",
+     "grounds": "predicate",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres root uc"
+    },
+    {
+     "surface": "nikṛtiḥ-nairghṛṇyam",
+     "gloss": "cruelty-lack-of-compassion",
+     "grounds": "fused gloss",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What characterizes the tamasic agent?",
+   "premises": [
+    "the tamasic agent is undisciplined and ordinary",
+    "he is stiff deceitful cruel and lazy",
+    "he is despondent and procrastinating"
+   ],
+   "inference": "Tamasic agency is marked by inertia, deceit, cruelty, and delay.",
+   "uncertainties": [
+    "nikṛtiḥ-nairghṛṇyam is a fused explanatory gloss"
+   ],
+   "plain_english": "The undisciplined, ordinary, stiff, deceitful, cruel, lazy, despondent, and procrastinating agent is called tamasic."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "buddherbhedaṃ",
+     "gloss": "distinction-of-intellect",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dhṛteścaiva",
+     "gloss": "and-of-steadfastness",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "guṇatastrividhaṃ",
+     "gloss": "threefold-by-strands",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp root śru"
+    },
+    {
+     "surface": "procyamānamaśeṣeṇa",
+     "gloss": "being-told-completely",
+     "grounds": "participle",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pṛthaktvena",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "dhanañjaya",
+     "gloss": "arjuna",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "buddhiḥ-niścayaḥ",
+     "gloss": "intellect-is-decision",
+     "grounds": "fused gloss",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "dhṛtiḥ-santoṣaḥ",
+     "gloss": "steadfastness-is-contentment",
+     "grounds": "fused gloss",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sarvo",
+     "gloss": "all",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukṛtaṃ",
+     "gloss": "good-deed",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "duṣkṛtaṃ",
+     "gloss": "bad-deed",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs root kṛ"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "necessarily",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "predicate",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "karaṇīyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "predicate",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kimanyena-iti",
+     "gloss": "what-else-thus",
+     "grounds": "fused phrase",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dhiyaṃ",
+     "gloss": "intellect",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "gṛhṇāti",
+     "gloss": "takes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root grah"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyābhyo",
+     "gloss": "from-actions",
+     "grounds": "ablative",
+     "morph": "abl.pl.f"
+    },
+    {
+     "surface": "vyuparame",
+     "gloss": "on-ceasing",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "interrogative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "hetuḥ",
+     "gloss": "cause",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.opt root as"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasyaiva",
+     "gloss": "of-all-indeed",
+     "grounds": "genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "dhṛtirastīti",
+     "gloss": "steadfastness-exists-thus",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres root as + iti"
+    },
+    {
+     "surface": "tātparyārthaḥ",
+     "gloss": "intended-meaning",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "padārthastvaprasiddho",
+     "gloss": "word-meaning-however-unestablished",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vyākhyāyata",
+     "gloss": "is-explained",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres root vyākhyā"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are intellect and steadfastness divided by the strands?",
+   "premises": [
+    "the threefold distinction is by strands",
+    "intellect is decision and steadfastness is contentment",
+    "all action done is necessarily done",
+    "steadfastness exists in all things"
+   ],
+   "inference": "Intellect and steadfastness are classified by strands, with steadfastness pervading all action.",
+   "uncertainties": [
+    "padārthastvaprasiddho indicates an unestablished word-meaning"
+   ],
+   "plain_english": "Hear completely and separately, Arjuna, the threefold distinction of intellect and steadfastness by the strands: intellect is decision, steadfastness is contentment; whatever good or bad is done is necessarily done, and steadfastness exists in all."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "pravṛttiṃ",
+     "gloss": "activity",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivṛttiṃ",
+     "gloss": "withdrawal",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryākārye",
+     "gloss": "in-duty-and-non-duty",
+     "grounds": "compound",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "bhayābhaye",
+     "gloss": "in-fear-and-fearlessness",
+     "grounds": "compound",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "bandhaṃ",
+     "gloss": "bondage",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "buddhirveda",
+     "gloss": "intellect-knows",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres root vid"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "arjuna",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "sātvakī",
+     "gloss": "sattvic",
+     "grounds": "predicate",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What intellect is considered sattvic?",
+   "premises": [
+    "it knows activity and withdrawal",
+    "it knows duty and non-duty",
+    "it knows fear and fearlessness",
+    "it knows bondage and liberation"
+   ],
+   "inference": "The sattvic intellect discerns paired opposites including bondage and liberation.",
+   "uncertainties": [
+    "buddhirveda is a fused verb form"
+   ],
+   "plain_english": "The intellect that knows activity and withdrawal, duty and non-duty, fear and fearlessness, bondage and liberation, is considered sattvic, Arjuna."
+  }
+ ]
+}

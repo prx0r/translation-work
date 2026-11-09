@@ -1,0 +1,470 @@
+{
+ "song": "gita-a18",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "asaktabuddhiḥ",
+     "gloss": "unattached-mind",
+     "grounds": "asakta + buddhiḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jitātmā",
+     "gloss": "self-conquered",
+     "grounds": "jita + ātmā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vigataspṛhaḥ",
+     "gloss": "desire-gone",
+     "grounds": "vigata + spṛhā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naiṣkarmyasiddhiṃ",
+     "gloss": "perfection-of-inaction",
+     "grounds": "naiṣkarmya + siddhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paramāṃ",
+     "gloss": "supreme",
+     "grounds": "feminine adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃnyāsenādhigacchati",
+     "gloss": "by-renunciation-attains",
+     "grounds": "saṃnyāsena + adhigacchati",
+     "morph": "3.sg.act-pres root adhi-gam"
+    }
+   ],
+   "question": "How does one attain supreme perfection of inaction?",
+   "premises": [
+    "unattached mind acts everywhere",
+    "self-conquest removes desire",
+    "renunciation brings perfection"
+   ],
+   "inference": "The verse presents renunciation as the means to supreme inaction-perfection.",
+   "uncertainties": [
+    "compound parsing of saṃnyāsenādhigacchati"
+   ],
+   "plain_english": "One with unattached mind, self-conquered and free from desire, attains supreme perfection of inaction through renunciation."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "siddhiṃ",
+     "gloss": "perfection",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāpto",
+     "gloss": "attained",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathāpnoti",
+     "gloss": "thus-attains",
+     "grounds": "tathā + āpnoti",
+     "morph": "3.sg.act-pres root āp"
+    },
+    {
+     "surface": "nibodha",
+     "gloss": "know",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imper root budh"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "first person",
+     "morph": "1.sg.gen/dat"
+    },
+    {
+     "surface": "samāsene",
+     "gloss": "in-brief",
+     "grounds": "locative form",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "son-of-kunti",
+     "grounds": "vocative",
+     "morph": "voc.sg"
+    },
+    {
+     "surface": "niṣṭhā",
+     "gloss": "steadfastness",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowledge",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "feminine adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the supreme steadfastness of knowledge?",
+   "premises": [
+    "attained perfection resembles brahman",
+    "brief teaching is requested",
+    "supreme steadfastness belongs to knowledge"
+   ],
+   "inference": "The verse asks for concise knowledge of the supreme steadfastness leading to brahman-like perfection.",
+   "uncertainties": [
+    "exact case of samāsene"
+   ],
+   "plain_english": "As one who has attained perfection reaches brahman, so know from me in brief, O son of Kunti, the supreme steadfastness of knowledge."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "buddhyā",
+     "gloss": "by-intellect",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "viśuddhayā",
+     "gloss": "purified",
+     "grounds": "instrumental adjective",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yukto",
+     "gloss": "joined",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhṛtyātmānaṃ",
+     "gloss": "by-firmness-self",
+     "grounds": "fused instrumental and accusative",
+     "morph": "fused inst.acc"
+    },
+    {
+     "surface": "niyamya",
+     "gloss": "having-restrained",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdādīnviṣayāṃstyaktvā",
+     "gloss": "having-abandoned-sound-etc-objects",
+     "grounds": "fused compound gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "rāgadveṣau",
+     "gloss": "attachment-aversion",
+     "grounds": "dual accusative",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "vyudasya",
+     "gloss": "having-cast-away",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the self restrained for knowledge?",
+   "premises": [
+    "purified intellect joins the practitioner",
+    "firmness restrains the self",
+    "sound and other objects are abandoned",
+    "attachment and aversion are cast away"
+   ],
+   "inference": "The verse describes disciplined restraint and abandonment of objects and passions.",
+   "uncertainties": [
+    "fused compound parsing"
+   ],
+   "plain_english": "Joined with purified intellect, restraining the self by firmness, abandoning sound and other objects, and casting away attachment and aversion."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "viviktasevī",
+     "gloss": "secluded-dwelling",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "laghvāśī",
+     "gloss": "light-eating",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatavākkāyamānasaḥ",
+     "gloss": "restrained-speech-body-mind",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyānayogaparo",
+     "gloss": "devoted-to-meditation-yoga",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vairāgyaṃ",
+     "gloss": "dispassion",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samupāśritaḥ",
+     "gloss": "having-taken-refuge",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What practices support steadfast knowledge?",
+   "premises": [
+    "seclusion and light eating are adopted",
+    "speech body and mind are restrained",
+    "meditation yoga is pursued",
+    "dispassion is taken as refuge"
+   ],
+   "inference": "The verse lists ascetic and meditative supports for knowledge.",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "Dwelling in seclusion, eating lightly, restraining speech, body, and mind, devoted to meditation yoga, always taking refuge in dispassion."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "ahaṅkāraṃ",
+     "gloss": "ego",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "balaṃ",
+     "gloss": "strength",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "darpaṃ",
+     "gloss": "pride",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "desire",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "krodhaṃ",
+     "gloss": "anger",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parigraham",
+     "gloss": "possession",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vimucya",
+     "gloss": "having-released",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "nirmamaḥ",
+     "gloss": "without-mine-ness",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śānto",
+     "gloss": "peaceful",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmabhūyāya",
+     "gloss": "for-brahman-becoming",
+     "grounds": "dative purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kalpate",
+     "gloss": "becomes-fit",
+     "grounds": "middle verb",
+     "morph": "3.sg.mid-pres root kḷp"
+    }
+   ],
+   "question": "What release prepares one for brahman-becoming?",
+   "premises": [
+    "ego strength pride desire anger possession are released",
+    "freedom from mine-ness and peace remain",
+    "one becomes fit for brahman-becoming"
+   ],
+   "inference": "The verse connects release from egoic and possessive traits with fitness for brahman-becoming.",
+   "uncertainties": [
+    "exact sense of balaṃ"
+   ],
+   "plain_english": "Having released ego, strength, pride, desire, anger, and possession, free from mine-ness and peaceful, one becomes fit for brahman-becoming."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "brahmabhūtaḥ",
+     "gloss": "become-brahman",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasannātmā",
+     "gloss": "clear-self",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śocati",
+     "gloss": "grieves",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres root śuc"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛṣyati",
+     "gloss": "rejoices",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres root hṛṣ"
+    },
+    {
+     "surface": "samaḥ",
+     "gloss": "equal",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "locative plural",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "bhūteṣu",
+     "gloss": "in-beings",
+     "grounds": "locative plural",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "madbhaktiṃ",
+     "gloss": "my-devotion",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "middle verb",
+     "morph": "3.sg.mid-pres root labh"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "accusative adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What follows from becoming brahman?",
+   "premises": [
+    "brahman-become self is clear",
+    "neither grief nor rejoicing occurs",
+    "equality toward all beings remains",
+    "supreme devotion to the Lord is obtained"
+   ],
+   "inference": "The verse states that brahman-becoming yields equanimity and supreme devotion.",
+   "uncertainties": [
+    "scope of samaḥ"
+   ],
+   "plain_english": "Becoming brahman, with clear self, one neither grieves nor rejoices, is equal toward all beings, and obtains supreme devotion to me."
+  }
+ ]
+}

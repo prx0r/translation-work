@@ -1,0 +1,425 @@
+{
+ "song": "gita-a18",
+ "items": [
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "śauryaṃ",
+     "gloss": "heroism",
+     "grounds": "kshatriya quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tejo",
+     "gloss": "splendor",
+     "grounds": "kshatriya quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhṛtirdākṣyaṃ",
+     "gloss": "steadiness-skill",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yuddhe",
+     "gloss": "in-battle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cāpyapalāyanam",
+     "gloss": "and-not-fleeing",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dānamīśvarabhāvaśca",
+     "gloss": "generosity-lordliness-and",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṣātraṃ",
+     "gloss": "kshatriya",
+     "grounds": "class duty",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "duty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svabhāvajam",
+     "gloss": "born-of-nature",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What qualities define kshatriya duty by nature?",
+   "premises": [
+    "kshatriya duty arises from nature",
+    "heroism and splendor are listed",
+    "battle and generosity belong to it"
+   ],
+   "inference": "kshatriya action is nature-born and class-specific",
+   "uncertainties": [
+    "compound internal splits not expanded"
+   ],
+   "plain_english": "Heroism, splendor, steadiness, skill, not fleeing in battle, generosity, and lordliness are kshatriya action born of nature."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "kṛṣigorakṣyavāṇijyaṃ",
+     "gloss": "farming-cattle-trade",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaiśyakarma",
+     "gloss": "vaishya-duty",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svabhāvajam",
+     "gloss": "born-of-nature",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "payutthānātmakaṃ",
+     "gloss": "service-based",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "duty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūdrasyāpi",
+     "gloss": "of-shudra-too",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "svabhāvajam",
+     "gloss": "born-of-nature",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What duties belong to vaishya and shudra by nature?",
+   "premises": [
+    "vaishya duty is farming cattle trade",
+    "shudra duty is service-based action",
+    "both are nature-born"
+   ],
+   "inference": "class duties are determined by nature",
+   "uncertainties": [
+    "compound internal splits not expanded"
+   ],
+   "plain_english": "Farming, cattle protection, and trade are vaishya duty; service-based action is shudra duty, both born of nature."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "sve",
+     "gloss": "in-own",
+     "grounds": "locative",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "sve",
+     "gloss": "in-own",
+     "grounds": "locative",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "karmaṇyabhirataḥ",
+     "gloss": "engaged-in-action",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃsiddhiṃ",
+     "gloss": "perfection",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + labh"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svakarmanirataḥ",
+     "gloss": "devoted-to-own-duty",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "success",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "finds",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + vid"
+    },
+    {
+     "surface": "tacchṛṇu",
+     "gloss": "hear-that",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does a person attain perfection through own duty?",
+   "premises": [
+    "engagement in own duty brings perfection",
+    "devotion to own work brings success",
+    "listener is asked to hear"
+   ],
+   "inference": "own-duty engagement leads to perfection",
+   "uncertainties": [
+    "fused tacchṛṇu not split"
+   ],
+   "plain_english": "A person engaged in his own duty obtains perfection; devoted to his own work he finds success; hear that."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "yataḥ",
+     "gloss": "from-whom",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravṛttirbhūtānāṃ",
+     "gloss": "origin-of-beings",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "instrumental",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamidaṃ",
+     "gloss": "all-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatam",
+     "gloss": "pervaded",
+     "grounds": "participle",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "svakarmaṇā",
+     "gloss": "by-own-action",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tamabhyarcya",
+     "gloss": "worshipping-him",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "success",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "finds",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + vid"
+    },
+    {
+     "surface": "mānavaḥ",
+     "gloss": "human",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does a human attain success through worship?",
+   "premises": [
+    "beings originate from him",
+    "all this is pervaded by him",
+    "worshipping him through own action brings success"
+   ],
+   "inference": "worship of the source through own action yields success",
+   "uncertainties": [
+    "fused compounds not split"
+   ],
+   "plain_english": "From whom beings originate and by whom all this is pervaded, a human worshipping him through his own action finds success."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "śreyānsvadharmo",
+     "gloss": "better-own-duty",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "viguṇaḥ",
+     "gloss": "deficient",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "paradharmātsvanuṣṭhitāt",
+     "gloss": "than-another-duty-well-performed",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svabhāvaniyataṃ",
+     "gloss": "nature-fixed",
+     "grounds": "compound",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "duty",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kurvannāpnoti",
+     "gloss": "doing-not-incur",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kilviṣam",
+     "gloss": "sin",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Why is own duty better even when deficient?",
+   "premises": [
+    "own duty is better though deficient",
+    "another duty well performed is inferior",
+    "doing nature-fixed action avoids sin"
+   ],
+   "inference": "own nature-fixed duty is preferable and sinless",
+   "uncertainties": [
+    "fused compounds not split"
+   ],
+   "plain_english": "One's own duty, though deficient, is better than another's duty well performed; doing nature-fixed action one does not incur sin."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "sahajaṃ",
+     "gloss": "innate",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "duty",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "kaunteya",
+     "grounds": "vocative",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "sadoṣamapi",
+     "gloss": "even-with-fault",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + tyaj"
+    },
+    {
+     "surface": "sarvārambhā",
+     "gloss": "all-beginnings",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣeṇa",
+     "gloss": "by-fault",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dhūmenā'gnirivāvṛtāḥ",
+     "gloss": "like-fire-by-smoke-covered",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why should innate action not be abandoned despite fault?",
+   "premises": [
+    "innate action should not be abandoned",
+    "all beginnings are covered by fault",
+    "like fire covered by smoke"
+   ],
+   "inference": "innate duty remains despite apparent fault",
+   "uncertainties": [
+    "fused compound not split"
+   ],
+   "plain_english": "Kaunteya, one should not abandon innate action even if faulty, for all beginnings are covered by fault like fire by smoke."
+  }
+ ]
+}
