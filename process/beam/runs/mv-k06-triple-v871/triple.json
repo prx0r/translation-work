@@ -2,683 +2,749 @@
  "song": "mv-k06",
  "items": [
   {
-   "verse": 871,
+   "verse": 883,
    "rows": [
     {
-     "surface": "ekaikaśas",
-     "gloss": "one-by-one",
-     "grounds": "adverbial distributive",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tryātmakatvāt",
-     "gloss": "from threefold-nature",
-     "grounds": "abstract noun in ablative sense",
-     "morph": "n.abl.sg"
-    },
-    {
-     "surface": "traye",
-     "gloss": "in-the-triad",
-     "grounds": "locative of the threefold group",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "vā",
-     "gloss": "or",
-     "grounds": "disjunctive particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "cāturātmyataḥ",
-     "gloss": "from fourfold-nature",
-     "grounds": "abstract noun with ablative suffix",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "sṛṣṭiṃ",
-     "gloss": "emanation",
-     "grounds": "object of cognition",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "kalayate",
-     "gloss": "conceives",
-     "grounds": "activity of consciousness",
-     "morph": "3.sg.middle-present, √kal"
-    },
-    {
-     "surface": "saṃvit",
-     "gloss": "consciousness",
-     "grounds": "subject of the process",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "tatrābhyeti",
-     "gloss": "there-attains",
-     "grounds": "fused form: tatra + abhyeti",
-     "morph": "3.sg.active-present, √i"
-    },
-    {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "connective particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "raktatām",
-     "gloss": "redness",
-     "grounds": "state attained by consciousness",
-     "morph": "f.acc.sg"
-    }
-   ],
-   "question": "How does consciousness conceive emanation and attain redness?",
-   "premises": [
-    "Consciousness can conceive emanation one by one through a threefold nature.",
-    "Consciousness can also conceive emanation in the triad through a fourfold nature.",
-    "In that process consciousness attains the state called redness."
-   ],
-   "inference": "Consciousness generates emanation through structured multiplicities and thereby enters the colored phase of manifestation.",
-   "uncertainties": [
-    "The exact referents of the triad and fourfold nature are not specified in this verse."
-   ],
-   "plain_english": "Consciousness conceives emanation either one by one through a threefold nature, or in the triad through a fourfold nature, and in doing so it takes on redness."
-  },
-  {
-   "verse": 872,
-   "rows": [
-    {
-     "surface": "sthitināśaṃ",
-     "gloss": "maintenance-and-dissolution",
-     "grounds": "compound object of cognition",
-     "morph": "m.acc.sg, compound"
-    },
-    {
-     "surface": "kalayate",
-     "gloss": "conceives",
-     "grounds": "activity of consciousness",
-     "morph": "3.sg.middle-present, √kal"
-    },
-    {
-     "surface": "kvāpi",
-     "gloss": "somewhere",
-     "grounds": "indefinite locative adverb",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "śaṅkāṃ",
-     "gloss": "doubt",
-     "grounds": "mental state produced",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "prakalpayet",
-     "gloss": "might-produce",
-     "grounds": "potential mental construction",
-     "morph": "3.sg.active-optative, √kḷp"
-    },
-    {
-     "surface": "tāṃ",
+     "surface": "tad",
      "gloss": "that",
-     "grounds": "refers back to doubt",
-     "morph": "f.acc.sg"
+     "grounds": "demonstrative pronoun referring to the wheel/reality",
+     "morph": "n.nom.sg"
     },
     {
-     "surface": "saṃhṛtya",
-     "gloss": "having-withdrawn",
-     "grounds": "prior act of retraction",
-     "morph": "(gerund), √hṛ"
+     "surface": "asaṃkhyānam",
+     "gloss": "innumerable",
+     "grounds": "negated countable quality",
+     "morph": "n.nom.sg"
     },
     {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "connective particle",
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "alternative particle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "bhāvāṃśaṃ",
-     "gloss": "portion-of-being",
-     "grounds": "object withdrawn",
-     "morph": "m.acc.sg, compound"
-    },
-    {
-     "surface": "saṃhārāt",
-     "gloss": "from-withdrawal",
-     "grounds": "cause of the next phase",
-     "morph": "m.abl.sg"
-    },
-    {
-     "surface": "svātmanaḥ",
-     "gloss": "of-own-self",
-     "grounds": "source of withdrawal",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "punaḥ",
-     "gloss": "again",
-     "grounds": "renewed sequence",
-     "morph": "(indecl.)"
-    }
-   ],
-   "question": "What happens when consciousness conceives maintenance and dissolution?",
-   "premises": [
-    "Consciousness conceives maintenance and dissolution.",
-    "In some cases it may produce doubt.",
-    "That doubt and the portion of being are withdrawn again from the withdrawal of its own self."
-   ],
-   "inference": "The phases of maintenance and dissolution include the arising and retraction of doubt within consciousness itself.",
-   "uncertainties": [
-    "The subject of prakalpayet is implicit and taken as consciousness."
-   ],
-   "plain_english": "Consciousness conceives maintenance and dissolution, and at times it may give rise to doubt; then, withdrawing that doubt and the portion of being, it returns again through the withdrawal of its own self."
-  },
-  {
-   "verse": 873,
-   "rows": [
-    {
-     "surface": "saṃhartrītvaṃ",
-     "gloss": "withdrawer-hood",
-     "grounds": "state of being the withdrawer",
-     "morph": "n.acc.sg"
-    },
-    {
-     "surface": "carcayate",
-     "gloss": "reflects-on",
-     "grounds": "deliberative activity of consciousness",
-     "morph": "3.sg.middle-present, √carc"
-    },
-    {
-     "surface": "tadantaḥ",
-     "gloss": "within-that",
-     "grounds": "fused form: tad + antaḥ",
+     "surface": "vāpy",
+     "gloss": "or-also",
+     "grounds": "sandhi: vā + api",
      "morph": "(indecl.)"
     },
     {
-     "surface": "puṇyapāpayoḥ",
-     "gloss": "of-merit-and-demerit",
-     "grounds": "pair considered within withdrawal",
-     "morph": "n.gen.dual, compound"
+     "surface": "anyonyāśritagarbhakam",
+     "gloss": "mutually-supported-within",
+     "grounds": "compound: anyonya-āśrita-garbhakam",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "negation particle",
      "morph": "(indecl.)"
-    },
-    {
-     "surface": "drutaṃ",
-     "gloss": "quickly",
-     "grounds": "manner negated",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "na",
-     "gloss": "not",
-     "grounds": "negation",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "nirodhaṃ",
-     "gloss": "suppression",
-     "grounds": "alternative action negated",
-     "morph": "m.acc.sg"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "disjunctive particle",
+     "grounds": "alternative particle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "svasvātantryeṇa",
-     "gloss": "by-own-freedom",
-     "grounds": "instrument of choice",
-     "morph": "n.ins.sg, compound"
-    },
-    {
-     "surface": "vāñchati",
-     "gloss": "desires",
-     "grounds": "volitional act of consciousness",
-     "morph": "3.sg.active-present, √vāñch"
-    }
-   ],
-   "question": "How does consciousness act when reflecting on its role as withdrawer?",
-   "premises": [
-    "Consciousness reflects on its own withdrawer-hood.",
-    "Within that reflection it considers merit and demerit.",
-    "By its own freedom it does not desire either a quick resolution or suppression."
-   ],
-   "inference": "As withdrawer, consciousness freely refrains from hastily resolving or suppressing merit and demerit.",
-   "uncertainties": [
-    "The precise scope of drutaṃ is context-dependent and could qualify resolution rather than action in general."
-   ],
-   "plain_english": "Reflecting on its role as the withdrawer, consciousness considers merit and demerit within that state, and by its own freedom it does not wish for a quick outcome or for suppression."
-  },
-  {
-   "verse": 874,
-   "rows": [
-    {
-     "surface": "evaṃ",
-     "gloss": "thus",
-     "grounds": "resumptive adverb",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "bodhāṃśakaraṇamarīcīcakram",
-     "gloss": "wheel-of-rays-of-faculties-of-awareness-parts",
-     "grounds": "complex compound object",
-     "morph": "n.acc.sg, compound"
-    },
-    {
-     "surface": "ātmani",
-     "gloss": "in-the-self",
-     "grounds": "locus of withdrawal",
-     "morph": "m.loc.sg"
-    },
-    {
-     "surface": "grasamānā",
-     "gloss": "devouring",
-     "grounds": "present participle describing consciousness",
-     "morph": "f.nom.sg.present-participle, √gras"
-    },
-    {
-     "surface": "saṃharate",
-     "gloss": "withdraws",
-     "grounds": "act of reabsorption",
-     "morph": "3.sg.middle-present, √hṛ"
-    },
-    {
-     "surface": "pramāṇāṃśasthitān",
-     "gloss": "situated-in-the-measure-part",
-     "grounds": "describes the suns being withdrawn",
-     "morph": "m.acc.pl, compound"
-    },
-    {
-     "surface": "ravīn",
-     "gloss": "suns",
-     "grounds": "objects withdrawn",
-     "morph": "m.acc.pl"
-    }
-   ],
-   "question": "What does consciousness withdraw in this phase of reabsorption?",
-   "premises": [
-    "Consciousness devours the wheel of rays consisting of faculties and parts of awareness.",
-    "This devouring occurs within the self.",
-    "It withdraws the suns situated in the measure-part."
-   ],
-   "inference": "In reabsorption, consciousness draws the radiant cognitive faculties and their measuring lights back into itself.",
-   "uncertainties": [
-    "The metaphorical referents of the rays and suns are not explicitly identified in this verse."
-   ],
-   "plain_english": "Thus, devouring within itself the wheel of rays made of the faculties and portions of awareness, consciousness withdraws the suns that stand in the part of measurement."
-  },
-  {
-   "verse": 875,
-   "rows": [
-    {
-     "surface": "tataḥ",
-     "gloss": "then",
-     "grounds": "sequence marker",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "kalpitamātraṃśaṃ",
-     "gloss": "the-constructed-measure-part",
-     "grounds": "object withdrawn next",
-     "morph": "m.acc.sg, compound"
-    },
-    {
-     "surface": "saṃhṛtyākalpite",
-     "gloss": "having-withdrawn-into-the-unconstructed",
-     "grounds": "fused form: saṃhṛtya + akalpite",
-     "morph": "(gerund)+n.loc.sg, √hṛ"
-    },
-    {
-     "surface": "hṛdi",
-     "gloss": "in-the-heart",
-     "grounds": "inner locus",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "tatsarvātītam",
-     "gloss": "that-beyond-all",
-     "grounds": "fused form: tat + sarvātītam",
-     "morph": "n.acc.sg, compound"
-    },
-    {
-     "surface": "apy",
-     "gloss": "even",
-     "grounds": "inclusive particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "antar",
-     "gloss": "within",
-     "grounds": "inner placement",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "anavacchinnadhāmani",
-     "gloss": "in-the-unlimited-abode",
-     "grounds": "final locus of absorption",
-     "morph": "n.loc.sg, compound"
-    }
-   ],
-   "question": "Where is the constructed measure-part withdrawn after the previous reabsorption?",
-   "premises": [
-    "After withdrawing the previous elements, consciousness withdraws the constructed measure-part.",
-    "It withdraws that part into the unconstructed heart.",
-    "Even what is beyond all is taken within the unlimited abode."
-   ],
-   "inference": "The process of withdrawal culminates by dissolving constructed measure into an unconstructed and unlimited inner ground.",
-   "uncertainties": [
-    "The subject carrying out the withdrawal remains implicit as consciousness."
-   ],
-   "plain_english": "Then, having withdrawn the constructed part of measurement into the unconstructed heart, it takes even what is beyond all into the unlimited inner abode."
-  },
-  {
-   "verse": 876,
-   "rows": [
-    {
-     "surface": "nayet",
-     "gloss": "should-lead",
-     "grounds": "injunctive or optative-like directive in sequence",
-     "morph": "3.sg.active-optative, √nī"
-    },
-    {
-     "surface": "tan",
+     "surface": "tac",
      "gloss": "that",
-     "grounds": "object to be led",
-     "morph": "n.acc.sg"
-    },
-    {
-     "surface": "nayanadvārād",
-     "gloss": "through-the-door-of-the-eye",
-     "grounds": "channel of leading",
-     "morph": "n.abl.sg, compound"
-    },
-    {
-     "surface": "viśvaṃ",
-     "gloss": "the-universe",
-     "grounds": "totality to be led",
-     "morph": "n.acc.sg"
-    },
-    {
-     "surface": "yāvat",
-     "gloss": "until",
-     "grounds": "extent marker",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tathā",
-     "gloss": "in-that-way",
-     "grounds": "manner of leading",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "nayet",
-     "gloss": "should-lead",
-     "grounds": "repeated directive",
-     "morph": "3.sg.active-optative, √nī"
-    },
-    {
-     "surface": "tataḥ",
-     "gloss": "then",
-     "grounds": "sequence marker",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "sṛṣṭiṃ",
-     "gloss": "emanation",
-     "grounds": "object to be conceived next",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "connective particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "kalayed",
-     "gloss": "should-conceive",
-     "grounds": "directive for re-emanation",
-     "morph": "3.sg.active-optative, √kal"
-    },
-    {
-     "surface": "ityādikramayogataḥ",
-     "gloss": "by-such-sequential-practice",
-     "grounds": "methodological summary",
-     "morph": "(indecl.), compound"
-    }
-   ],
-   "question": "How should the universe be led and re-emanated in this practice?",
-   "premises": [
-    "That totality should be led through the door of the eye.",
-    "The universe should be led in that same way to the stated extent.",
-    "Then emanation should be conceived again by such sequential practice."
-   ],
-   "inference": "The contemplative method alternates between leading the universe inward and conceiving its emanation again in ordered sequence.",
-   "uncertainties": [
-    "The phrase nayanadvārād may be literal or symbolic; the verse does not decide explicitly."
-   ],
-   "plain_english": "One should lead that universe through the door of the eye, lead it in that way as far as required, and then conceive emanation again, following this and similar sequential practice."
-  },
-  {
-   "verse": 877,
-   "rows": [
-    {
-     "surface": "dvādaśāram",
-     "gloss": "twelve-spoked",
-     "grounds": "describes the wheel",
-     "morph": "n.acc.sg, compound"
-    },
-    {
-     "surface": "idaṃ",
-     "gloss": "this",
-     "grounds": "demonstrative",
+     "grounds": "sandhi: tat before cakram",
      "morph": "n.nom.sg"
-    },
-    {
-     "surface": "cakraṃ",
-     "gloss": "wheel",
-     "grounds": "subject of rotation",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "sarvadā",
-     "gloss": "always",
-     "grounds": "continuous time",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "parivartate",
-     "gloss": "revolves",
-     "grounds": "ongoing motion",
-     "morph": "3.sg.middle-present, √vṛt"
-    },
-    {
-     "surface": "yasyaitāḥ",
-     "gloss": "of-which-these",
-     "grounds": "fused form: yasya + etāḥ",
-     "morph": "f.nom.pl"
-    },
-    {
-     "surface": "sthūlamātratvaṃ",
-     "gloss": "gross-measure-state",
-     "grounds": "coarse manifestation of the wheel",
-     "morph": "n.acc.sg, compound"
-    },
-    {
-     "surface": "māsarāśyādisaṃpadaḥ",
-     "gloss": "the-arrays-of-months-zodiac-signs-and-so-on",
-     "grounds": "examples of gross manifestation",
-     "morph": "f.nom.pl, compound"
-    }
-   ],
-   "question": "What is the nature of the twelve-spoked wheel described here?",
-   "premises": [
-    "This wheel has twelve spokes.",
-    "It revolves always.",
-    "Its gross measure-state appears as the arrays of months, zodiac signs, and so on."
-   ],
-   "inference": "The twelve-spoked wheel is a continuously revolving structure whose coarse expressions include calendrical and zodiacal divisions.",
-   "uncertainties": [
-    "The verse states correspondence but does not fully explain the metaphysical basis of the calendrical mapping."
-   ],
-   "plain_english": "This twelve-spoked wheel revolves at all times, and its gross form appears as the arrangements of months, zodiac signs, and the like."
-  },
-  {
-   "verse": 878,
-   "rows": [
-    {
-     "surface": "akramakramavaśād",
-     "gloss": "by-force-of-nonsequence-and-sequence",
-     "grounds": "modal cause of variation",
-     "morph": "m.abl.sg, compound"
-    },
-    {
-     "surface": "dviśas",
-     "gloss": "in-twos",
-     "grounds": "distributive grouping",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "triśo",
-     "gloss": "in-threes",
-     "grounds": "distributive grouping",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "bhūriśo",
-     "gloss": "in-many-ways",
-     "grounds": "multiple grouping",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "'tha",
-     "gloss": "then",
-     "grounds": "clipped form of atha",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "vividhaiḥ",
-     "gloss": "by-various",
-     "grounds": "qualifies orders",
-     "morph": "m.ins.pl"
-    },
-    {
-     "surface": "kramākramaiḥ",
-     "gloss": "by-sequences-and-nonsequences",
-     "grounds": "modes of manifestation",
-     "morph": "m.ins.pl, compound"
     },
     {
      "surface": "cakram",
      "gloss": "wheel",
-     "grounds": "subject",
+     "grounds": "subject of the verse",
      "morph": "n.nom.sg"
     },
     {
-     "surface": "etad",
-     "gloss": "this",
-     "grounds": "demonstrative",
-     "morph": "n.nom.sg"
+     "surface": "atha",
+     "gloss": "or-rather",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "uditaṃ",
-     "gloss": "arisen",
-     "grounds": "manifested state",
-     "morph": "n.nom.sg.past-participle, √vad"
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative particle introducing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyomaivaikaṃ",
+     "gloss": "space-alone-one",
+     "grounds": "sandhi: vyoma + eva + ekam",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "vijṛmbhate",
      "gloss": "expands",
-     "grounds": "dynamic unfolding",
+     "grounds": "verb of manifestation",
      "morph": "3.sg.middle-present, √jṛmbh"
-    },
-    {
-     "surface": "meyamānamitimātṛbhakṣakam",
-     "gloss": "devouring-object-measure-and-subject",
-     "grounds": "describes the wheel's total scope",
-     "morph": "n.nom.sg, compound"
     }
    ],
-   "question": "How does this wheel expand across different orders of manifestation?",
+   "question": "Is that wheel innumerable, mutually nested, or simply one space expanding?",
    "premises": [
-    "The wheel operates by the force of sequence and nonsequence.",
-    "It appears in twos, threes, and many other groupings.",
-    "It expands through various orders while devouring object, measure, and subject."
+    "The wheel may be conceived as innumerable.",
+    "The wheel may be conceived as mutually nested within itself.",
+    "The wheel may be conceived as not a wheel but as one expanding space."
    ],
-   "inference": "The same wheel unfolds in multiple ordered and nonordered configurations and encompasses all poles of cognition.",
+   "inference": "The nature of the wheel admits multiple alternative descriptions of its structure and unity.",
    "uncertainties": [
-    "The exact technical mapping of the twofold and threefold groupings is not specified here."
+    "The exact referent of 'that wheel' depends on the preceding verses."
    ],
-   "plain_english": "By the power of sequence and nonsequence, this arisen wheel expands in twos, in threes, and in many other ways, through various orders, devouring the object, the measure, and the subject."
+   "plain_english": "Is that wheel innumerable, or mutually nested within itself, or not a wheel at all—does one space alone expand?"
   },
   {
-   "verse": 879,
+   "verse": 884,
    "rows": [
     {
-     "surface": "etaccakragatānantakiraṇārāsamāśrayāt",
-     "gloss": "from-resting-on-the-endless-spokes-of-rays-in-this-wheel",
-     "grounds": "fused form: etat + cakra + gata + ananta + kiraṇa + ārā + samāśrayāt",
-     "morph": "m.abl.sg, compound"
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
     },
     {
-     "surface": "cakrabhedo",
-     "gloss": "division-of-the-wheel",
-     "grounds": "subject whose count is in question",
-     "morph": "m.nom.sg, compound"
-    },
-    {
-     "surface": "na",
-     "gloss": "not",
-     "grounds": "negation",
+     "surface": "apy",
+     "gloss": "also",
+     "grounds": "sandhi: api",
      "morph": "(indecl.)"
     },
     {
-     "surface": "saṃkhyātuṃ",
-     "gloss": "to-be-counted",
-     "grounds": "infinitive of enumeration",
-     "morph": "(infinitive), √khyā"
+     "surface": "anantasaccakragarbhaṃ",
+     "gloss": "containing-infinite-true-wheels",
+     "grounds": "compound: ananta-sat-cakra-garbham",
+     "morph": "n.nom.sg"
     },
     {
-     "surface": "kadācid",
-     "gloss": "ever",
-     "grounds": "indefinite time",
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "sandhi: vā + api",
      "morph": "(indecl.)"
     },
     {
-     "surface": "api",
-     "gloss": "even",
-     "grounds": "emphatic particle",
+     "surface": "vibhāsate",
+     "gloss": "shines-forth",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.middle-present, √bhās"
+    },
+    {
+     "surface": "anantavyomagarbhaṃ",
+     "gloss": "containing-infinite-spaces",
+     "grounds": "compound: ananta-vyoma-garbham",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "śakyate",
-     "gloss": "is-possible",
-     "grounds": "potential passive",
-     "morph": "3.sg.passive-present, √śak"
+     "surface": "mahāvyomaikam",
+     "gloss": "one-great-space",
+     "grounds": "compound: mahā-vyoma-ekam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb of designation",
+     "morph": "3.sg.passive-present, √vac"
     }
    ],
-   "question": "Can the divisions of this wheel ever be counted?",
+   "question": "How does that space manifest in relation to infinite wheels and spaces?",
    "premises": [
-    "This wheel contains endless rays and spokes.",
-    "The divisions of the wheel depend on that endless structure.",
-    "What depends on an endless structure cannot be fully enumerated."
+    "That reality may shine forth as containing infinite true wheels.",
+    "That reality may shine forth as containing infinite spaces.",
+    "That reality may be called one great space."
    ],
-   "inference": "The divisions of the wheel are uncountable because they arise from an endless array within it.",
+   "inference": "The same reality can be described as containing infinite wheels, containing infinite spaces, or as one great space.",
    "uncertainties": [],
-   "plain_english": "Because this wheel rests on endless rays and spokes within it, the divisions of the wheel can never be counted."
+   "plain_english": "That too shines forth as containing infinite true wheels, or as containing infinite spaces, or it is called the one great space."
   },
   {
-   "verse": 880,
+   "verse": 885,
    "rows": [
     {
      "surface": "yathā",
      "gloss": "just-as",
-     "grounds": "opens a comparison",
+     "grounds": "comparative particle",
      "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyomaivaikaṃ",
+     "gloss": "space-alone-one",
+     "grounds": "sandhi: vyoma + eva + ekam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kacati",
+     "gloss": "gleams",
+     "grounds": "verb of shining",
+     "morph": "3.sg.active-present, √kac"
+    },
+    {
+     "surface": "sitanīlāruṇatayā",
+     "gloss": "as-white-blue-red",
+     "grounds": "compound: sita-nīla-aruṇatayā",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caite",
+     "gloss": "and-these",
+     "grounds": "sandhi: ca + ete",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "meghāḥ",
+     "gloss": "clouds",
+     "grounds": "subject of second comparison",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhānti",
+     "gloss": "appear",
+     "grounds": "verb of appearance",
+     "morph": "3.pl.active-present, √bhā"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "adverb of multiplicity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvittattvaṃ",
+     "gloss": "consciousness-principle",
+     "grounds": "compound: saṃvit-tattvam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalanaparisaṃkhyāvirahitaiḥ",
+     "gloss": "devoid-of-construction-and-enumeration",
+     "grounds": "compound: kalana-parisaṃkhyā-virahitaiḥ",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "svatantraṃ",
+     "gloss": "autonomous",
+     "grounds": "describing consciousness-principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svākāraiḥ",
+     "gloss": "with-its-own-forms",
+     "grounds": "compound: sva-ākāraiḥ",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sphurati",
+     "gloss": "vibrates-forth",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.active-present, √sphur"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun referring to forms",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ke",
+     "gloss": "any",
+     "grounds": "indefinite pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cana",
+     "gloss": "whatsoever",
+     "grounds": "indefinite particle with ke",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "from-that",
+     "grounds": "ablative adverb indicating separation from consciousness",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the consciousness principle manifest its many forms without losing unity?",
+   "premises": [
+    "One space gleams as white, blue, and red without ceasing to be one space.",
+    "Clouds appear in many ways while arising in that same space.",
+    "The autonomous consciousness principle vibrates forth in its own forms beyond construction and enumeration, yet those forms are not anything separate from it."
+   ],
+   "inference": "Multiplicity of appearance does not compromise the unity and autonomy of the consciousness principle.",
+   "uncertainties": [],
+   "plain_english": "Just as one space gleams as white, blue, and red, and just as clouds appear in many ways, so the autonomous principle of consciousness vibrates forth in many ways through its own forms, beyond construction and enumeration—and yet those forms are not anything separate from it."
+  },
+  {
+   "verse": 886,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvam",
+     "gloss": "principle",
+     "grounds": "object of description",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyarūpayan",
+     "gloss": "described",
+     "grounds": "participial verb of teaching",
+     "morph": "m.nom.sg.active-present-participle, ni-√rūp"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "nātho",
+     "gloss": "lord",
+     "grounds": "teacher figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛdayasthitaḥ",
+     "gloss": "seated-in-heart",
+     "grounds": "compound: hṛdaya-sthitaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "reflexive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratipadya",
+     "gloss": "having-realized",
+     "grounds": "absolutive of realization",
+     "morph": "(indecl.) absolutive, prati-√pad"
+    },
+    {
+     "surface": "vicitrarūpakam",
+     "gloss": "of-varied-form",
+     "grounds": "compound: vicitra-rūpakam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gurusaṃtānaparamparāyitam",
+     "gloss": "transmitted-through-lineage-of-teachers",
+     "grounds": "compound: guru-saṃtāna-paramparā-āyitam",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How was this principle of varied form transmitted to the speaker?",
+   "premises": [
+    "The speaker's lord, seated in the heart, himself realized this principle.",
+    "That lord described this principle of varied form.",
+    "The teaching came through the successive lineage of teachers."
+   ],
+   "inference": "The doctrine of the varied yet non-separate principle is grounded in direct realization and transmitted through the guru lineage.",
+   "uncertainties": [],
+   "plain_english": "Thus my lord, seated in my heart, having himself realized this principle of varied form, described it as transmitted through the successive lineage of teachers."
+  },
+  {
+   "verse": 887,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "therefore",
+     "grounds": "consequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amutra",
+     "gloss": "in-that",
+     "grounds": "locative adverb referring to that teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naye",
+     "gloss": "in-the-doctrine",
+     "grounds": "locative of the teaching system",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prarūḍhiṃ",
+     "gloss": "firm-grounding",
+     "grounds": "object of attaining",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pratipattuṃ",
+     "gloss": "to-attain",
+     "grounds": "infinitive of attainment",
+     "morph": "(indecl.) infinitive, prati-√pad"
+    },
+    {
+     "surface": "kṣamatām",
+     "gloss": "capacity",
+     "grounds": "object of resorting to",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upāśrayante",
+     "gloss": "resort-to",
+     "grounds": "verb of taking refuge",
+     "morph": "3.pl.middle-present, upa-ā-√śri"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpratibodhanāya",
+     "gloss": "for-their-awakening",
+     "grounds": "compound: tat-pratibodhanāya",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "the-Lord",
+     "grounds": "divine teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vividhāṃ",
+     "gloss": "various",
+     "grounds": "describing the construction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "maṇḍalakalpanām",
+     "gloss": "construction-of-maṇḍalas",
+     "grounds": "compound: maṇḍala-kalpanām",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "avocat",
+     "gloss": "spoke",
+     "grounds": "verb of revelation",
+     "morph": "3.sg.active-aorist, √vac"
+    }
+   ],
+   "question": "Why did the Lord teach the construction of various maṇḍalas?",
+   "premises": [
+    "Some people do not have the capacity to attain firm grounding in that doctrine.",
+    "The Lord intends to awaken those people.",
+    "The Lord therefore taught various constructions of maṇḍalas."
+   ],
+   "inference": "The maṇḍala teachings are a pedagogical means for those unable to grasp the doctrine directly.",
+   "uncertainties": [],
+   "plain_english": "For those who do not resort to the capacity to attain firm grounding in that doctrine, the Lord indeed spoke the construction of various maṇḍalas for their awakening."
+  },
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "bālo",
+     "gloss": "a-child",
+     "grounds": "subject of comparison",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadvat",
+     "gloss": "just-as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rekhayā",
+     "gloss": "by-a-line",
+     "grounds": "instrument of teaching",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "varṇajāte",
+     "gloss": "in-the-set-of-letters",
+     "grounds": "compound: varṇa-jāte",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svaiḥ",
+     "gloss": "by-its-own",
+     "grounds": "referring to conventional signs",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saṃketair",
+     "gloss": "by-conventions",
+     "grounds": "instrument of instruction",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yojyate",
+     "gloss": "is-engaged",
+     "grounds": "verb of training",
+     "morph": "3.sg.passive-present, √yuj"
+    },
+    {
+     "surface": "tatkrameṇa",
+     "gloss": "by-that-sequence",
+     "grounds": "compound: tat-krameṇa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tadvanmudrāmaṇḍalair",
+     "gloss": "so-by-mudrās-and-maṇḍalas",
+     "grounds": "compound: tadvat-mudrā-maṇḍalaiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mantratantraiḥ",
+     "gloss": "by-mantras-and-tantras",
+     "grounds": "compound: mantra-tantraiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pūrṇe",
+     "gloss": "in-the-full",
+     "grounds": "describing the abode",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svasmin",
+     "gloss": "in-one's-own",
+     "grounds": "reflexive possessive",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yojyate",
+     "gloss": "is-engaged",
+     "grounds": "verb of training",
+     "morph": "3.sg.passive-present, √yuj"
+    },
+    {
+     "surface": "dhāmny",
+     "gloss": "in-the-abode",
+     "grounds": "locative of the spiritual domain",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "anarghe",
+     "gloss": "priceless",
+     "grounds": "describing the abode",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How do mudrās, maṇḍalas, mantras, and tantras function as teaching aids?",
+   "premises": [
+    "A child is trained in letters by lines and conventional signs in sequence.",
+    "Similarly, a practitioner is engaged through mudrās, maṇḍalas, mantras, and tantras.",
+    "This engagement leads into one's own full and priceless abode."
+   ],
+   "inference": "Ritual and scriptural forms are sequential pedagogical devices guiding one to the full inner reality.",
+   "uncertainties": [],
+   "plain_english": "Just as a child is trained in the set of letters by lines and conventional signs in due sequence, so one is engaged, through mudrās, maṇḍalas, mantras, and tantras, in one's own full and priceless abode."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "atrāpi",
+     "gloss": "here-too",
+     "grounds": "sandhi: atra + api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiñcana",
+     "gloss": "something",
+     "grounds": "indefinite pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vibhāti",
+     "gloss": "shines-forth",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.active-present, vi-√bhā"
+    },
+    {
+     "surface": "tadicchayaiva",
+     "gloss": "by-that-will-alone",
+     "grounds": "compound/sandhi: tat-icchayā + eva",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "dūraṃ",
+     "gloss": "far",
+     "grounds": "adverb of distance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "correlative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "savidham",
+     "gloss": "near",
+     "grounds": "adverb of proximity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśritatāratamyam",
+     "gloss": "gradation-according-to-resort",
+     "grounds": "compound: āśrita-tāratamyam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asaṃspṛg",
+     "gloss": "untouched",
+     "grounds": "describing the ultimate state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "apy",
+     "gloss": "even",
+     "grounds": "sandhi: api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "and-yet",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niraṃśapadapratiṣṭham",
+     "gloss": "established-in-partless-state",
+     "grounds": "compound: niraṃśa-pada-pratiṣṭham",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyāpaṭalago",
+     "gloss": "belonging-to-the-section-on-ritual-action",
+     "grounds": "compound: kriyā-paṭala-gaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahudhaiva",
+     "gloss": "in-many-ways-indeed",
+     "grounds": "sandhi: bahudhā + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "division",
+     "grounds": "subject of the statement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why does ritual teaching present divisions of near and far if reality is partless?",
+   "premises": [
+    "In this domain something shines forth by that will alone as far or near, according to the gradation of those who resort to it.",
+    "That reality remains untouched and established in a partless state.",
+    "Thus the division found in the section on ritual action appears in many ways."
+   ],
+   "inference": "Ritual divisions reflect the gradation of practitioners, not a division in the partless reality itself.",
+   "uncertainties": [],
+   "plain_english": "Here too something shines forth by that will alone as far or near, according to the gradation of those who take refuge; yet it remains untouched and established in the partless state. Thus the division belonging to the section on ritual action appears in many ways."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramāṇatābhāgi",
+     "gloss": "sharing-in-valid-cognition",
+     "grounds": "compound: pramāṇatā-bhāgi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "subject described",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "hi",
@@ -687,175 +753,371 @@
      "morph": "(indecl.)"
     },
     {
-     "surface": "varhiṇaḥ",
-     "gloss": "of-the-peacock",
-     "grounds": "possessor in comparison",
-     "morph": "m.gen.sg"
+     "surface": "nyarūpyata",
+     "gloss": "was-described",
+     "grounds": "verb of teaching",
+     "morph": "3.sg.passive-imperfect, ni-√rūp"
     },
     {
-     "surface": "patre",
-     "gloss": "on-the-feather",
-     "grounds": "locus of appearance",
-     "morph": "n.loc.sg"
+     "surface": "parāparā",
+     "gloss": "supreme-and-non-supreme",
+     "grounds": "compound: parā-aparā",
+     "morph": "f.nom.sg"
     },
     {
-     "surface": "sitapītāruṇādikam",
-     "gloss": "white-yellow-red-and-so-on",
-     "grounds": "colors appearing",
-     "morph": "n.nom.sg, compound"
+     "surface": "bhagavatī",
+     "gloss": "goddess",
+     "grounds": "divine power",
+     "morph": "f.nom.sg"
     },
     {
-     "surface": "pronmiṣan",
-     "gloss": "opening-forth",
-     "grounds": "appearance phase",
-     "morph": "n.nom.sg.present-participle, √miṣ"
-    },
-    {
-     "surface": "nimiṣac",
-     "gloss": "and-closing",
-     "grounds": "fused form: nimiṣat + ca",
-     "morph": "n.nom.sg.present-participle, √miṣ"
-    },
-    {
-     "surface": "cātra",
-     "gloss": "and-here",
-     "grounds": "fused form: ca + atra",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "bhāsate",
-     "gloss": "shines",
-     "grounds": "manifest appearance",
-     "morph": "3.sg.middle-present, √bhās"
-    },
-    {
-     "surface": "'py",
-     "gloss": "even",
-     "grounds": "clipped form of api",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "atathātmakam",
-     "gloss": "not-of-that-nature",
-     "grounds": "qualifies the appearing colors",
-     "morph": "n.nom.sg, compound"
-    }
-   ],
-   "question": "What analogy illustrates the wheel's shifting appearances?",
-   "premises": [
-    "On a peacock's feather colors such as white, yellow, and red appear.",
-    "These colors seem to open forth and close.",
-    "They shine even though they are not ultimately of that fixed nature."
-   ],
-   "inference": "The analogy shows that vivid appearances can manifest dynamically without having a fixed independent nature.",
-   "uncertainties": [],
-   "plain_english": "Just as on a peacock’s feather colors like white, yellow, and red seem to open and close and shine, even though they are not truly fixed in that way, so appearances can manifest dynamically."
-  },
-  {
-   "verse": 881,
-   "rows": [
-    {
-     "surface": "tathānunmiṣitālīnasūkṣmasaṃvitsunirbharaḥ",
-     "gloss": "so-full-of-subtle-consciousness-unopened-and-dissolved",
-     "grounds": "fused form: tathā + anunmiṣita + ālīna + sūkṣma + saṃvit + sunirbharaḥ",
-     "morph": "m.nom.sg, compound"
-    },
-    {
-     "surface": "cakreśo",
-     "gloss": "lord-of-the-wheel",
-     "grounds": "subject of the comparison",
-     "morph": "m.nom.sg, compound"
+     "surface": "seyaṃ",
+     "gloss": "she-this",
+     "grounds": "sandhi: sā + iyam",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "bhāti",
      "gloss": "shines",
-     "grounds": "manifest presence",
+     "grounds": "verb of manifestation",
      "morph": "3.sg.active-present, √bhā"
     },
     {
-     "surface": "nimiṣatpronmiṣadvṛtticitritaḥ",
-     "gloss": "variegated-by-closing-and-opening-activities",
-     "grounds": "describes the lord of the wheel",
-     "morph": "m.nom.sg, compound"
+     "surface": "tathā",
+     "gloss": "in-that-way",
+     "grounds": "correlative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-in-that-way",
+     "grounds": "repeated correlative particle",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How does the lord of the wheel appear in relation to subtle consciousness?",
+   "question": "What is the goddess who shines forth as the described principle?",
    "premises": [
-    "The lord of the wheel is full of subtle consciousness that is unopened and dissolved.",
-    "He shines in a manner comparable to the peacock-feather analogy.",
-    "His appearance is variegated by activities of closing and opening."
+    "The principle that was described participates in valid cognition.",
+    "That principle is the goddess who is both supreme and non-supreme.",
+    "She shines forth in various ways."
    ],
-   "inference": "The lord of the wheel manifests diverse activities while remaining grounded in subtle, unmanifest consciousness.",
+   "inference": "The supreme-and-non-supreme goddess is the manifest form of the principle established by valid cognition.",
    "uncertainties": [],
-   "plain_english": "In the same way, the lord of the wheel shines, full of subtle consciousness that is unopened and dissolved, and made variegated by the activities of closing and opening."
+   "plain_english": "Thus the principle that was described as participating in valid cognition is that goddess, supreme and non-supreme, who shines forth in various ways."
   },
   {
-   "verse": 882,
+   "verse": 891,
    "rows": [
     {
-     "surface": "tat",
+     "surface": "tad",
      "gloss": "therefore",
-     "grounds": "conclusive particle",
+     "grounds": "consequential particle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "kasyāpi",
-     "gloss": "of-someone",
-     "grounds": "fused form: kasya + api",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "nimeṣeṇa",
-     "gloss": "by-closing",
-     "grounds": "instrumental cause",
-     "morph": "m.ins.sg"
-    },
-    {
-     "surface": "kasyāpy",
-     "gloss": "of-someone",
-     "grounds": "fused form: kasya + api",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "unmeṣayogataḥ",
-     "gloss": "through-connection-with-opening",
-     "grounds": "instrumental-causal compound",
-     "morph": "(indecl.), compound"
-    },
-    {
-     "surface": "ekāracakrāt",
-     "gloss": "from-the-one-spoked-wheel",
-     "grounds": "starting point of variation",
-     "morph": "n.abl.sg, compound"
-    },
-    {
-     "surface": "prabhṛti",
-     "gloss": "beginning-from",
-     "grounds": "marks range start",
+     "surface": "atraiva",
+     "gloss": "right-here",
+     "grounds": "sandhi: atra + eva",
      "morph": "(indecl.)"
     },
     {
-     "surface": "sahasrāraṃ",
-     "gloss": "to-the-thousand-spoked",
-     "grounds": "end point of variation",
-     "morph": "n.acc.sg, compound"
+     "surface": "parāṃśo",
+     "gloss": "supreme-part",
+     "grounds": "compound/sandhi: para-aṃśaḥ",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "vivartate",
-     "gloss": "turns-forth",
-     "grounds": "manifest transformation",
-     "morph": "3.sg.middle-present, √vṛt"
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "correlative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātraṃśo",
+     "gloss": "knower-part",
+     "grounds": "compound/sandhi: mātṛ-aṃśaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'paraḥ",
+     "gloss": "other",
+     "grounds": "sandhi: aparaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meyāṃśa",
+     "gloss": "known-part",
+     "grounds": "compound: meya-aṃśaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "previously",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evāsmābhiḥ",
+     "gloss": "indeed-by-us",
+     "grounds": "sandhi: eva + asmābhiḥ",
+     "morph": "1.pl.inst"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "made-clear",
+     "grounds": "verb of exposition",
+     "morph": "n.nom.sg.passive-past-participle, pra-√kāś"
     }
    ],
-   "question": "What causes the wheel to vary from one spoke to a thousand spokes?",
+   "question": "How are the supreme, knower, and known aspects distinguished within this reality?",
    "premises": [
-    "The wheel's manifestation is linked to closing and opening.",
-    "For some it turns through closing and for others through opening.",
-    "This variation ranges from a one-spoked wheel to a thousand-spoked wheel."
+    "Within this same reality there is a supreme part.",
+    "There is also a knower part and a known part.",
+    "This division was previously made clear by us."
    ],
-   "inference": "The wheel's manifold configurations arise from differing dynamics of closing and opening.",
+   "inference": "The one reality is articulated into supreme, knower, and known aspects as previously explained.",
    "uncertainties": [],
-   "plain_english": "Therefore, through the closing of some and the opening of others, the wheel turns forth in forms ranging from one spoke to a thousand spokes."
+   "plain_english": "Right here, the supreme part, the knower part, and again the known part—this was previously made clear by us."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "mātraṃśo",
+     "gloss": "knower-part",
+     "grounds": "compound/sandhi: mātṛ-aṃśaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "also",
+     "grounds": "sandhi: api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pare",
+     "gloss": "in-the-supreme",
+     "grounds": "locative of the higher aspect",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-the-part",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "adverb of multiplicity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitas",
+     "gloss": "situated",
+     "grounds": "sandhi: sthitaḥ",
+     "morph": "m.nom.sg.past-participle, √sthā"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "consequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāparatayodriktaḥ",
+     "gloss": "predominant-as-supreme-and-non-supreme",
+     "grounds": "compound: parāparatayā-udriktaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paro",
+     "gloss": "supreme",
+     "grounds": "sandhi: paraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantreśarūpakaḥ",
+     "gloss": "having-the-form-of-a-lord-of-mantras",
+     "grounds": "compound: mantreśa-rūpakaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form does the knower aspect take when situated in the supreme part?",
+   "premises": [
+    "The knower part is situated in many ways within the supreme part.",
+    "Because of that situation, it becomes predominant as both supreme and non-supreme.",
+    "In that state it takes the form of a lord of mantras."
+   ],
+   "inference": "When the knower aspect abides in the supreme, it manifests as the mantreśa level characterized by the supreme-and-non-supreme.",
+   "uncertainties": [],
+   "plain_english": "Because the knower part is situated in many ways within the supreme part, it becomes predominant as supreme-and-non-supreme and takes the form of a lord of mantras."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "udriktāparabhāvas",
+     "gloss": "with-predominant-lower-aspect",
+     "grounds": "compound/sandhi: udrikta-apara-bhāvaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "designation of that level",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "sandhi: iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "verb of designation",
+     "morph": "3.sg.passive-present, abhi-√dhā"
+    },
+    {
+     "surface": "parāparas",
+     "gloss": "supreme-and-non-supreme",
+     "grounds": "compound/sandhi: parā-aparaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "knower",
+     "grounds": "subject of the next classification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samudriktaparāparaḥ",
+     "gloss": "with-balanced-supreme-and-non-supreme",
+     "grounds": "compound: samudrikta-parāparaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are the mantra and balanced knower levels distinguished by predominance?",
+   "premises": [
+    "When the lower aspect predominates, that level is called mantra.",
+    "There is also a knower who is characterized as supreme-and-non-supreme.",
+    "In that knower the supreme-and-non-supreme aspects are balanced in predominance."
+   ],
+   "inference": "The mantra level is marked by predominance of the lower aspect, while another knower level is marked by a balanced supreme-and-non-supreme state.",
+   "uncertainties": [],
+   "plain_english": "But when the lower aspect predominates, it is called mantra; and the knower who is supreme-and-non-supreme, with the supreme-and-non-supreme balanced in predominance—"
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative pronoun referring to that knower",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vijñānākalaḥ",
+     "gloss": "vijñānākala",
+     "grounds": "technical designation of a knower level",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "verb of designation",
+     "morph": "m.nom.sg.passive-past-participle, pra-√vac"
+    },
+    {
+     "surface": "prabuddhaparabhāvakaḥ",
+     "gloss": "with-awakened-supreme-aspect",
+     "grounds": "compound: prabuddha-para-bhāvakaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aparodrekayogena",
+     "gloss": "through-predominance-of-the-lower",
+     "grounds": "compound: apara-udreka-yogena",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "same knower under another condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pralayākalaḥ",
+     "gloss": "pralayākala",
+     "grounds": "technical designation of a knower level",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do vijñānākala and pralayākala arise from the same knower?",
+   "premises": [
+    "The balanced supreme-and-non-supreme knower is declared vijñānākala.",
+    "That vijñānākala has an awakened supreme aspect.",
+    "Through predominance of the lower aspect, that same knower is pralayākala."
+   ],
+   "inference": "Vijñānākala and pralayākala are two states of the same knower distinguished by the relative predominance of supreme and lower aspects.",
+   "uncertainties": [],
+   "plain_english": "He is declared the vijñānākala, with the supreme aspect awakened; through the predominance of the lower aspect, that same one is the pralayākala."
   }
  ]
 }
