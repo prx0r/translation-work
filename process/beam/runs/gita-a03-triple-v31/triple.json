@@ -1,0 +1,611 @@
+{
+ "song": "gita-a03",
+ "items": [
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "indriyasyendriyasyārthe",
+     "gloss": "for-each-sense-in-its-object",
+     "grounds": "compound sense-object relation",
+     "morph": "compound"
+    },
+    {
+     "surface": "rāgadveṣau",
+     "gloss": "attraction-and-aversion",
+     "grounds": "dual compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vyavasthitau",
+     "gloss": "are-established",
+     "grounds": "participle",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tayorna",
+     "gloss": "by-those-not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśamāgacchettau",
+     "gloss": "one-should-come-under-sway",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "hyasya",
+     "gloss": "for-his",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paripanthinau",
+     "gloss": "are-obstacles",
+     "grounds": "adjective",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "How should one avoid coming under sense-attraction and aversion?",
+   "premises": [
+    "attraction and aversion are established in sense-objects",
+    "they are obstacles to the person",
+    "one should not come under their sway"
+   ],
+   "inference": "sense-discipline means not yielding to raga and dvesha",
+   "uncertainties": [
+    "compound parsing of indriyasyendriyasyārthe"
+   ],
+   "plain_english": "For each sense in its object, attraction and aversion are established; one should not come under their sway, for they are obstacles to him."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "śreyān",
+     "gloss": "better",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svadharmo",
+     "gloss": "one's-own-duty",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viguṇaḥ",
+     "gloss": "though-flawed",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paradharmātsvanuṣṭhitāt",
+     "gloss": "than-another's-duty-well-performed",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "svadharme",
+     "gloss": "in-one's-own-duty",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nidhanaṃ",
+     "gloss": "death",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreyaḥ",
+     "gloss": "is-better",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paradharmodayādapiḥ",
+     "gloss": "than-another's-duty-arising",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "saṃsārī",
+     "gloss": "world-bound-one",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prativiṣayaṃ",
+     "gloss": "toward-each-object",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāgaṃ",
+     "gloss": "attraction",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dveṣaṃ",
+     "gloss": "aversion",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇāti",
+     "gloss": "grasps",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ātmakartṛkāṇyeva",
+     "gloss": "as-self-performed-indeed",
+     "grounds": "compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vimūḍhatvādabhimanyate",
+     "gloss": "through-delusion-regards",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samamapi",
+     "gloss": "even-equally",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhojanādivyavahāraṃ",
+     "gloss": "eating-and-other-conduct",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurvatorjñānisaṃsāriṇorastyayaṃ",
+     "gloss": "for-knowing-and-world-bound-ones-doing-there-is-this",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "difference",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "our",
+     "grounds": "pronoun",
+     "morph": "1.pl.gen"
+    },
+    {
+     "surface": "siddhāntaḥ-sarvathā",
+     "gloss": "settled-doctrine-in-every-way",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktasaṃgasya",
+     "gloss": "of-one-freed-from-attachment",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svadharmacāriṇo",
+     "gloss": "of-one-practicing-own-duty",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "there-is-not",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kaścitpuṇyapāpātmako",
+     "gloss": "any-merit-or-demerit-natured",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bandhaḥ",
+     "gloss": "bondage",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svadharmo",
+     "gloss": "one's-own-duty",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayādanapāyī",
+     "gloss": "not-departing-from-the-heart",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svarasanirūḍha",
+     "gloss": "rooted-in-one's-own-nature",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kaścidapi",
+     "gloss": "any-at-all",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rikto",
+     "gloss": "empty",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "janturjāyate-ityatyājyaḥ",
+     "gloss": "creature-is-born-thus-to-be-abandoned",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "35",
+     "gloss": "verse-number",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is one's own duty better even when flawed?",
+   "premises": [
+    "one's own duty is better than another's well performed",
+    "death in one's own duty is better than another's arising",
+    "the world-bound one grasps attraction and aversion toward each object"
+   ],
+   "inference": "own duty rooted in nature is not bondage for the unattached",
+   "uncertainties": [
+    "long fused compounds in commentary prose"
+   ],
+   "plain_english": "One's own duty, though flawed, is better than another's well performed; death in one's own duty is better than another's arising. The world-bound one grasps attraction and aversion toward each object, regarding actions as self-performed through delusion. Even equally in eating and conduct, the knowing and world-bound differ. Our settled doctrine: for one freed from attachment and practicing own duty, no merit-demerit bondage exists, since own duty does not depart from the heart and is rooted in one's own nature; thus no creature is born empty, so it is not to be abandoned."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "arjuna",
+     "gloss": "arjuna",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "verb",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-what",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prayukto'yaṃ",
+     "gloss": "impelled-this",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "carati",
+     "gloss": "commits",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "pūruṣaḥ",
+     "gloss": "person",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anicchamano'pi",
+     "gloss": "even-unwilling",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "balādākramyeva",
+     "gloss": "as-if-forced-by-strength",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyojitaḥ",
+     "gloss": "appointed",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāpatayā",
+     "gloss": "as-sin",
+     "grounds": "noun",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vidannapi",
+     "gloss": "though-knowing",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "janaḥ",
+     "gloss": "person",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "therein",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "proceeds",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "?",
+     "gloss": "question-mark",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praśnaḥ",
+     "gloss": "question",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "praśnasyotthāne'yamāśayaḥ-svadharmo",
+     "gloss": "in-arising-of-this-question-this-intent-own-duty",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svahṛdayādanapāyitvādatyājyaḥ",
+     "gloss": "because-not-departing-from-own-heart-to-be-abandoned",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarhyadharmācaraṇameṣāmiti",
+     "gloss": "then-unrighteous-conduct-is-this",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ko'yaṃ",
+     "gloss": "what-is-this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svadharmo",
+     "gloss": "own-duty",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yenārikto",
+     "gloss": "by-which-empty",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jantuḥ-ityuktaṃ",
+     "gloss": "creature-thus-said",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "36",
+     "gloss": "verse-number",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atrottaraṃ",
+     "gloss": "here-answer",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyapi",
+     "gloss": "even-though-true",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svadharme",
+     "gloss": "in-own-duty",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hṛdisthe",
+     "gloss": "in-the-heart",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "āgantukāvaraṇakṛto'yaṃ",
+     "gloss": "this-made-by-foreign-covering",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vilpavaḥ",
+     "gloss": "disturbance",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadabhāvakṛtaḥ-ityāśayena-",
+     "gloss": "made-by-its-absence-thus-intent",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What drives a person to sin even unwillingly?",
+   "premises": [
+    "arjuna asks by what impelled a person commits sin",
+    "even knowing it as sin a person proceeds",
+    "the question arises about own duty and its abandonment"
+   ],
+   "inference": "the disturbance comes from a foreign covering, not from absence of own duty",
+   "uncertainties": [
+    "fused commentary compounds and punctuation"
+   ],
+   "plain_english": "Arjuna asks by what impelled a person commits sin even unwillingly, as if forced, and how a person proceeds knowing it as sin. The question's arising has this intent: if own duty does not depart from the heart, how can unrighteous conduct be this? What is this own duty by which a creature is said to be empty? Here the answer: even though own duty is in the heart, this disturbance is made by a foreign covering, not by its absence."
+  }
+ ]
+}

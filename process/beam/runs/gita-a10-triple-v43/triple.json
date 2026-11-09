@@ -1,0 +1,111 @@
+{
+ "song": "gita-a10",
+ "items": [
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "compound saṃgraha+śloka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "icchāyāmindriye",
+     "gloss": "in-desire-or-sense",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadevāyāti",
+     "gloss": "whatever-comes",
+     "grounds": "fused yad eva āyāti",
+     "morph": "3.sg.act-pres (root yā)"
+    },
+    {
+     "surface": "gocaram",
+     "gloss": "range",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haṭhādvilāpayaṃstattatpraśāntaṃ",
+     "gloss": "by-force-dissolving-that-peaceful",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "pres.part.acc.sg.n"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-meditate",
+     "grounds": "causative optative",
+     "morph": "3.sg.opt.act (root bhū caus.)"
+    },
+    {
+     "surface": "10",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmaheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "in-composed-by-abhinavagupta",
+     "grounds": "fused compound kept whole",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śrīmadbhagavadgītārthasaṃgrahe",
+     "gloss": "in-gita-meaning-gathering",
+     "grounds": "fused compound kept whole",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "daśamo'dhyāyaḥ",
+     "gloss": "tenth-chapter",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "10",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What compressed doctrine closes the tenth chapter?",
+   "premises": [
+    "saṃgraha verse gathers meaning",
+    "meditate brahman after dissolving objects",
+    "colophon names abhinavagupta"
+   ],
+   "inference": "The verse compresses the chapter's doctrine into a meditation instruction and closes with the work's colophon.",
+   "uncertainties": [
+    "fused sandhi tokens are parsed as given without splitting"
+   ],
+   "plain_english": "Here is the summary verse: whatever comes within desire or sense, forcibly dissolve it and meditate peaceful brahman. Thus in the Gita meaning-gathering composed by Abhinavagupta, tenth chapter."
+  }
+ ]
+}

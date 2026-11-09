@@ -1,0 +1,124 @@
+{
+ "song": "gita-a03",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghanāni",
+     "gloss": "dense-things",
+     "grounds": "neuter plural adjective/noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dārāndehaṃ",
+     "gloss": "wives-and-body",
+     "grounds": "fused accusative forms",
+     "morph": "n.acc.pl+sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo'nyatvenādhigacchati",
+     "gloss": "who-as-other-attains",
+     "grounds": "fused relative clause",
+     "morph": "3.sg.act.pres (root adhi-gam)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kurvanti",
+     "gloss": "do",
+     "grounds": "plural verb",
+     "morph": "3.pl.act.pres (root kṛ)"
+    },
+    {
+     "surface": "krodhādyāścittavibhramāḥ",
+     "gloss": "anger-and-other-mind-delusions",
+     "grounds": "compound subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "3",
+     "gloss": "three",
+     "grounds": "numeral marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmāheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "composed-by-abhinavagupta",
+     "grounds": "long compound colophon",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "śrīmadbhagavadgītārthasaṃgrahe",
+     "gloss": "in-gita-meaning-gathering",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tṛtīyo'dhyāyaḥ",
+     "gloss": "third-chapter",
+     "grounds": "fused ordinal noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "3",
+     "gloss": "three",
+     "grounds": "numeral marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What can anger and other mind-delusions do to one who treats wife and body as other?",
+   "premises": [
+    "Dense wife and body are treated as other.",
+    "Anger and delusions act on such a one.",
+    "The summary verse closes the third chapter."
+   ],
+   "inference": "Treating embodied attachments as other leaves one vulnerable to anger and delusion; the verse gathers the chapter's teaching.",
+   "uncertainties": [
+    "The numeral tokens may be verse markers or paratext.",
+    "The fused dārāndehaṃ reading is uncertain."
+   ],
+   "plain_english": "Here is the summary verse: what can anger and other mind-delusions do to one who regards wife, body, and dense things as other? Thus ends the third chapter of Abhinavagupta's Gita Meaning Gathering."
+  }
+ ]
+}

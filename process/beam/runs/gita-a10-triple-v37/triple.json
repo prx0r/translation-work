@@ -1,0 +1,827 @@
+{
+ "song": "gita-a10",
+ "items": [
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "vṛṣṇīnāṃ",
+     "gloss": "of-the-vṛṣṇis",
+     "grounds": "genitive plural of vṛṣṇi",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "vāsudevo'smi",
+     "gloss": "i-am-vāsudeva",
+     "grounds": "fused vāsudevaḥ asmi",
+     "morph": "nom.sg.m + 1sg.pres.act"
+    },
+    {
+     "surface": "pāṇḍavānāṃ",
+     "gloss": "of-the-pāṇḍavas",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "dhanañjayaḥ",
+     "gloss": "dhanañjaya",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "munīnāmapyahaṃ",
+     "gloss": "among-sages-too-i",
+     "grounds": "fused munīnām api aham",
+     "morph": "gen.pl.m + indecl. + 1sg.nom"
+    },
+    {
+     "surface": "vyāsaḥ",
+     "gloss": "vyāsa",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kavīnāmuśanā",
+     "gloss": "of-poets-uśanas",
+     "grounds": "fused kavīnām uśanā",
+     "morph": "gen.pl.m + nom.sg.m"
+    },
+    {
+     "surface": "kaviḥ",
+     "gloss": "poet",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which forms does the Lord name as his own among peoples and sages?",
+   "premises": [
+    "The Lord names Vāsudeva among the Vṛṣṇis.",
+    "The Lord names Dhanañjaya among the Pāṇḍavas.",
+    "The Lord names Vyāsa among sages and Uśanas among poets."
+   ],
+   "inference": "The verse lists representative divine manifestations among named groups.",
+   "uncertainties": [
+    "The fused token munīnāmapyahaṃ is glossed as a whole, not split."
+   ],
+   "plain_english": "Among the Vṛṣṇis I am Vāsudeva; among the Pāṇḍavas, Dhanañjaya; among sages, Vyāsa; among poets, Uśanas the poet."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "daṇḍo",
+     "gloss": "rod",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "damayatāmasmi",
+     "gloss": "i-am-rod-among-punishers",
+     "grounds": "fused damayatām asmi",
+     "morph": "gen.pl.m + 1sg.pres.act"
+    },
+    {
+     "surface": "nītirasmi",
+     "gloss": "i-am-policy",
+     "grounds": "fused nītiḥ asmi",
+     "morph": "nom.sg.f + 1sg.pres.act"
+    },
+    {
+     "surface": "jigīṣatām",
+     "gloss": "of-conquerors",
+     "grounds": "genitive plural participle",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "maunaṃ",
+     "gloss": "silence",
+     "grounds": "nominative/accusative singular",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "caivāsmi",
+     "gloss": "and-indeed-i-am",
+     "grounds": "fused ca eva asmi",
+     "morph": "indecl. + indecl. + 1sg.pres.act"
+    },
+    {
+     "surface": "guhyānāṃ",
+     "gloss": "of-secrets",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "nominative/accusative singular",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "jñānavatāmaham",
+     "gloss": "i-am-knowledge-among-knowers",
+     "grounds": "fused jñānavatām aham",
+     "morph": "gen.pl.m + 1sg.nom"
+    }
+   ],
+   "question": "What further powers and qualities does the Lord claim as his own?",
+   "premises": [
+    "The Lord is the rod among those who punish.",
+    "The Lord is policy among those who seek victory.",
+    "The Lord is silence among secrets and knowledge among knowers."
+   ],
+   "inference": "The verse extends the list of divine manifestations to discipline, strategy, silence, and knowledge.",
+   "uncertainties": [
+    "The fused token jñānavatāmaham is glossed as a whole, not split."
+   ],
+   "plain_english": "I am the rod among punishers, policy among conquerors; and indeed I am silence among secrets, knowledge among knowers."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "yaccāpi",
+     "gloss": "and-whatever",
+     "grounds": "fused yad ca api",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvabhūtānāṃ",
+     "gloss": "of-all-beings",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "nominative/accusative singular",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "tadahamarjuna",
+     "gloss": "that-i-am-arjuna",
+     "grounds": "fused tad aham arjuna",
+     "morph": "nom.sg.n + 1sg.nom + voc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadasti",
+     "gloss": "that-is",
+     "grounds": "fused tad asti",
+     "morph": "nom.sg.n + 3sg.pres.act"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatsyānmayā",
+     "gloss": "which-would-be-without-me",
+     "grounds": "fused yad syāt mayā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhūtaṃ",
+     "gloss": "being",
+     "grounds": "nominative/accusative singular",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "carācaram",
+     "gloss": "moving-and-still",
+     "grounds": "compound of cara and acara",
+     "morph": "nom/acc.sg.n"
+    }
+   ],
+   "question": "What is the Lord's relation to the seed of all beings?",
+   "premises": [
+    "Whatever is the seed of all beings, that the Lord is.",
+    "Nothing exists without the Lord.",
+    "No being, moving or still, exists apart from the Lord."
+   ],
+   "inference": "The Lord is the universal seed and ground of all beings.",
+   "uncertainties": [
+    "The fused token yatsyānmayā is glossed as a whole, not split."
+   ],
+   "plain_english": "Whatever is the seed of all beings, that I am, Arjuna; nothing exists without me, no being moving or still."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "nānto'sti",
+     "gloss": "there-is-no-end",
+     "grounds": "fused na antaḥ asti",
+     "morph": "indecl. + nom.sg.m + 3sg.pres.act"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "divyānāṃ",
+     "gloss": "of-divine",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "vibhūtīnāṃ",
+     "gloss": "of-glories",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "parantapa",
+     "gloss": "parantapa",
+     "grounds": "vocative singular",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tūddeśataḥ",
+     "gloss": "briefly",
+     "grounds": "fused tu uddeśataḥ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prokto",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "nom.sg.m pp."
+    },
+    {
+     "surface": "vibhūtervistaro",
+     "gloss": "glory's-extent",
+     "grounds": "fused vibhūteḥ vistaraḥ",
+     "morph": "gen.sg.f + nom.sg.m"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental singular",
+     "morph": "inst.sg.m"
+    }
+   ],
+   "question": "Is there any end to the Lord's divine glories?",
+   "premises": [
+    "There is no end to the Lord's divine glories.",
+    "The Lord has spoken this extent of glory briefly.",
+    "The address is to Parantapa."
+   ],
+   "inference": "The Lord's glories are inexhaustible, though only briefly indicated.",
+   "uncertainties": [
+    "The fused token vibhūtervistaro is glossed as a whole, not split."
+   ],
+   "plain_english": "There is no end, Parantapa, to my divine glories; this extent of glory has been spoken by me briefly."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "yadyadvibhūtimatsattvaṃ",
+     "gloss": "whatever-glorious-being",
+     "grounds": "fused yad yad vibhūtimat sattvam",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śrīmadūrjitameva",
+     "gloss": "splendid-and-mighty-indeed",
+     "grounds": "fused śrīmat ūrjitam eva",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattadevāvagaccha",
+     "gloss": "know-that-very-thing",
+     "grounds": "fused tat tat eva avagaccha",
+     "morph": "2sg.imp.act"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "nominative singular",
+     "morph": "2sg.nom"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tejoṃśasambhavam",
+     "gloss": "born-of-a-spark-of-splendor",
+     "grounds": "fused tejaḥ aṃśa sambhavam",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How should one recognize glorious beings?",
+   "premises": [
+    "Whatever being is glorious, splendid, or mighty is to be known.",
+    "Such a being arises from a spark of the Lord's splendor.",
+    "Arjuna is instructed to recognize this."
+   ],
+   "inference": "Glorious beings are sparks of the Lord's splendor.",
+   "uncertainties": [
+    "The fused token yadyadvibhūtimatsattvaṃ is glossed as a whole, not split."
+   ],
+   "plain_english": "Whatever being is glorious, splendid, or mighty, know that very thing, you, to be born of a spark of my splendor."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahunaitena",
+     "gloss": "by-this-much",
+     "grounds": "fused bahunā etena",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jñānena",
+     "gloss": "with-knowledge",
+     "grounds": "instrumental singular",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "tavārjuna",
+     "gloss": "for-you-arjuna",
+     "grounds": "fused tava arjuna",
+     "morph": "gen.sg.m + voc.sg.m"
+    },
+    {
+     "surface": "!",
+     "gloss": "exclamation",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṭabhyāhamidaṃ",
+     "gloss": "i-support-this",
+     "grounds": "fused viṣṭabhya aham idam",
+     "morph": "abs. + 1sg.nom + acc.sg.n"
+    },
+    {
+     "surface": "kṛtsnamekāṃśena",
+     "gloss": "with-one-part-entirely",
+     "grounds": "fused kṛtsnam eka aṃśena",
+     "morph": "acc.sg.n + nom.sg.m + inst.sg.m"
+    },
+    {
+     "surface": "jagatsthitaḥ",
+     "gloss": "standing-in-the-world",
+     "grounds": "fused jagat sthitaḥ",
+     "morph": "acc.sg.n + nom.sg.m pp."
+    },
+    {
+     "surface": "ahamātmā",
+     "gloss": "i-am-the-self",
+     "grounds": "fused aham ātmā",
+     "morph": "1sg.nom + nom.sg.m"
+    },
+    {
+     "surface": "ityanena",
+     "gloss": "by-this",
+     "grounds": "fused iti anena",
+     "morph": "indecl. + inst.sg.n"
+    },
+    {
+     "surface": "vyavacchedaṃ",
+     "gloss": "distinction",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nivārayati",
+     "gloss": "prevents",
+     "grounds": "3sg.pres.act",
+     "morph": "3sg.pres.act"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāvarāṇāṃ",
+     "gloss": "of-immovable-things",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "himālayaḥ",
+     "gloss": "himālaya",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ityādivākyeṣu",
+     "gloss": "in-sentences-such-as",
+     "grounds": "fused iti ādi vākyeṣu",
+     "morph": "indecl. + nom.sg.n + loc.pl.n"
+    },
+    {
+     "surface": "himālaya",
+     "gloss": "himālaya",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavānnānyaḥ",
+     "gloss": "the-lord-not-another",
+     "grounds": "fused bhagavān na anyaḥ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavacchedena",
+     "gloss": "by-distinction",
+     "grounds": "instrumental singular",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "nirvibhāgatvābhāvāt",
+     "gloss": "from-absence-of-undividedness",
+     "grounds": "ablative singular compound",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "brahmadarśanaṃ",
+     "gloss": "vision-of-brahman",
+     "grounds": "nominative/accusative singular",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "khaṇḍitamabhaviṣyat",
+     "gloss": "would-have-been-broken",
+     "grounds": "fused khaṇḍitam abhaviṣyat",
+     "morph": "nom.sg.n + 3sg.cond.act"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasyākhaṇḍākāravyāptistathā",
+     "gloss": "whose-pervasion-is-undivided-form",
+     "grounds": "fused yasya akhaṇḍa ākāra vyāptiḥ tathā",
+     "morph": "gen.sg.m + nom.sg.f"
+    },
+    {
+     "surface": "cetasi",
+     "gloss": "in-mind",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nopārohati",
+     "gloss": "does-not-rise",
+     "grounds": "fused na upārohati",
+     "morph": "3sg.pres.act"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jijñāsati",
+     "gloss": "seeks-to-know",
+     "grounds": "3sg.pres.act",
+     "morph": "3sg.pres.act"
+    },
+    {
+     "surface": "tasyāyamupadeśagranthaḥ",
+     "gloss": "this-teaching-text-for-him",
+     "grounds": "fused tasya ayam upadeśa granthaḥ",
+     "morph": "gen.sg.m + nom.sg.m"
+    },
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "fused tathā hi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "upasaṃhāre",
+     "gloss": "in-conclusion",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhedābhedavādaṃ-yadyadvibhūtimatsattvam",
+     "gloss": "difference-and-nondifference-doctrine",
+     "grounds": "compound phrase",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ityanenābhidhāya",
+     "gloss": "having-stated-thus",
+     "grounds": "fused iti anena abhidhāya",
+     "morph": "abs."
+    },
+    {
+     "surface": "paścādabhedamevopasaṃharati-",
+     "gloss": "afterward-concludes-nondifference",
+     "grounds": "fused paścāt abhedam eva upasaṃharati",
+     "morph": "3sg.pres.act"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahunaitena*",
+     "gloss": "by-this-much",
+     "grounds": "fused bahunā etena",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṭabhyāham",
+     "gloss": "i-support",
+     "grounds": "fused viṣṭabhya aham",
+     "morph": "abs. + 1sg.nom"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "marker",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekāṃśena",
+     "gloss": "with-one-part",
+     "grounds": "instrumental singular",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "jagatsthitaḥ",
+     "gloss": "standing-in-the-world",
+     "grounds": "fused jagat sthitaḥ",
+     "morph": "acc.sg.n + nom.sg.m pp."
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "past participle",
+     "morph": "nom.sg.n pp."
+    },
+    {
+     "surface": "hi-",
+     "gloss": "for",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādo'sya",
+     "gloss": "his-foot",
+     "grounds": "fused pādaḥ asya",
+     "morph": "nom.sg.m + gen.sg.m"
+    },
+    {
+     "surface": "viśvā",
+     "gloss": "all",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "bhūtāni",
+     "gloss": "beings",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "tripādasyāmṛtaṃ",
+     "gloss": "three-fourths-immortal",
+     "grounds": "fused tripādaḥ asya amṛtam",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "divi",
+     "gloss": "in-heaven",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajānāṃ",
+     "gloss": "of-beings",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "sṛṣṭihetuḥ",
+     "gloss": "cause-of-creation",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sarvamidaṃ",
+     "gloss": "all-this",
+     "grounds": "fused sarvam idam",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhagavattattvameva",
+     "gloss": "the-lord's-principle-indeed",
+     "grounds": "fused bhagavat tattvam eva",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "taistairvicitrai",
+     "gloss": "by-those-various",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "rūpairbhāvyamānaṃ",
+     "gloss": "being-manifested-in-forms",
+     "grounds": "fused rūpaiḥ bhāvyamānam",
+     "morph": "inst.pl.n + nom.sg.n pp."
+    },
+    {
+     "surface": "sakalasya",
+     "gloss": "of-all",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "viṣayatāṃ",
+     "gloss": "objecthood",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "yātīti",
+     "gloss": "goes-thus",
+     "grounds": "fused yāti iti",
+     "morph": "3sg.pres.act + indecl."
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "42",
+     "gloss": "forty-two",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the Lord say he supports the world with one part?",
+   "premises": [
+    "The Lord supports the whole world with one part.",
+    "This prevents an exclusive distinction that would break the vision of Brahman.",
+    "All this is the Lord's principle manifested in various forms."
+   ],
+   "inference": "The Lord's one-part support preserves nonexclusive divine pervasion.",
+   "uncertainties": [
+    "Editorial markers and fused compounds in this long prose span are glossed as wholes."
+   ],
+   "plain_english": "Or else, what is the use of much knowledge for you, Arjuna? Supporting this whole world, I stand with one part. I am the Self. This teaching prevents a distinction that would otherwise break the vision of Brahman; all this is the Lord's principle, manifested in various forms and becoming the object of all."
+  }
+ ]
+}
