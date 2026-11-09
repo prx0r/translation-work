@@ -1,0 +1,1879 @@
+{
+ "song": "mv-k04",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "pūrvam",
+     "gloss": "earlier",
+     "grounds": "time adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "why",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tūṣṇīṃ",
+     "gloss": "silently",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nātiṣṭhan",
+     "gloss": "did-not-stand",
+     "grounds": "negated past action",
+     "morph": "2.sg.imperfect-active + sthā"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikatthanaiḥ",
+     "gloss": "with-boastings",
+     "grounds": "instrument of action",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ātmanaś",
+     "gloss": "of-self",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cābhisaṃdhānavandhyasyaiva",
+     "gloss": "and-of-intention-barren-indeed",
+     "grounds": "compound: ca+abhisaṃdhāna+vandhya+eva; sandhi inside fused token",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "balādayam",
+     "gloss": "by-force-this",
+     "grounds": "compound: balāt+ayam; sandhi inside fused token",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "Why did this person not remain silent earlier instead of boasting by force?",
+   "premises": [
+    "The opponent did not remain silent earlier.",
+    "The opponent engages in boastful speech.",
+    "The opponent's intention is barren and ineffective."
+   ],
+   "inference": "The opponent's forceful boasting is pointless because it lacks a valid intention.",
+   "uncertainties": [],
+   "plain_english": "Why did you not keep silent before? What is the use of these boastings, when this person, barren of any real intention, acts only by force?"
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "manokṣajālasaṃyogo",
+     "gloss": "mind-sense-net-connection",
+     "grounds": "compound: manas+akṣa+jāla+saṃyoga",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "potential occurrence",
+     "morph": "3.sg.optative-active + bhū"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsamañjasaḥ",
+     "gloss": "not-improper",
+     "grounds": "compound: na+asamañjasa; sandhi inside fused token",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "abhisandhir",
+     "gloss": "intention",
+     "grounds": "mental directing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "athaitasya",
+     "gloss": "now-of-this",
+     "grounds": "compound: atha+etasya; sandhi inside fused token",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "viṣayaṃ",
+     "gloss": "object",
+     "grounds": "target of intention",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "directional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present occurrence",
+     "morph": "3.sg.present-middle + jan"
+    }
+   ],
+   "question": "How could the connection of mind and senses arise without an improper intention toward an object?",
+   "premises": [
+    "Perception is explained as a connection between mind and the sense network.",
+    "Such a connection would require a directing intention.",
+    "An intention must be directed toward some object."
+   ],
+   "inference": "The proposed mind-sense connection presupposes an intention that itself needs explanation.",
+   "uncertainties": [],
+   "plain_english": "How could the connection of mind with the network of senses occur without an improper intention? And if there is an intention, it arises toward some object."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "ajñāte",
+     "gloss": "when-unknown",
+     "grounds": "condition of object",
+     "morph": "m.loc.sg (past-participle)"
+    },
+    {
+     "surface": "ko",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'bhisandhiḥ",
+     "gloss": "intention",
+     "grounds": "elided a- after sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāj",
+     "gloss": "could-be",
+     "grounds": "potential occurrence; sandhi before jñāte",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "jñāte",
+     "gloss": "when-known",
+     "grounds": "condition of object",
+     "morph": "m.loc.sg (past-participle)"
+    },
+    {
+     "surface": "ko",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'rtho",
+     "gloss": "purpose",
+     "grounds": "elided a- after sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'kṣasaṃyujā",
+     "gloss": "by-sense-connection",
+     "grounds": "compound: akṣa+saṃyuj; elided a- after sandhi",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "prajñāte",
+     "gloss": "when-clearly-known",
+     "grounds": "condition of object",
+     "morph": "m.loc.sg (past-participle)"
+    },
+    {
+     "surface": "smaryamāṇe",
+     "gloss": "when-being-remembered",
+     "grounds": "condition of object",
+     "morph": "m.loc.sg (present-passive-participle) + smṛ"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhisandhātṛbhāvitaḥ",
+     "gloss": "formed-by-intender",
+     "grounds": "compound: abhisandhātṛ+bhāvita",
+     "morph": "m.nom.sg (compound, past-passive-participle) + bhū"
+    }
+   ],
+   "question": "What intention is possible toward an unknown object, and what use is sense contact with an already known object?",
+   "premises": [
+    "An intention cannot arise toward what is completely unknown.",
+    "If the object is already known, sense connection serves no purpose.",
+    "If the object is clearly known and remembered, the intention is already formed by the intender."
+   ],
+   "inference": "The theory that intention initiates sense contact fails whether the object is unknown, known, or remembered.",
+   "uncertainties": [],
+   "plain_english": "If the object is unknown, what intention could there be? If it is known, what is the point of sense contact? And if it is clearly known and remembered, then the intention has already been formed by the one who intends."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "anyad",
+     "gloss": "one-thing",
+     "grounds": "distinct object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evābhisandhātuḥ",
+     "gloss": "indeed-of-intender",
+     "grounds": "compound: eva+abhisandhātṛ; sandhi inside fused token",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "prayatno",
+     "gloss": "effort",
+     "grounds": "mental exertion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'nyatra",
+     "gloss": "elsewhere",
+     "grounds": "elided a- after sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present occurrence",
+     "morph": "3.sg.present-middle + jan"
+    },
+    {
+     "surface": "mmanoyuktātmasaṃbaddhacakṣurādyakṣasaṃśritāḥ",
+     "gloss": "resting-on-eye-etc-senses-linked-to-self-joined-with-mind",
+     "grounds": "compound: manas+yukta+ātman+saṃbaddha+cakṣus+ādi+akṣa+saṃśrita; long fused token",
+     "morph": "m.nom.pl (compound, past-passive-participle) + śri"
+    }
+   ],
+   "question": "How can the intender's effort be directed to one thing while perception arises elsewhere through the senses?",
+   "premises": [
+    "The intender's effort may be directed toward one thing.",
+    "Perceptual objects arise elsewhere, resting on senses connected to the self joined with mind.",
+    "The locus of intention and the locus of sensory arising can diverge."
+   ],
+   "inference": "The divergence between intention and sensory arising undermines the claim that intention controls perception.",
+   "uncertainties": [],
+   "plain_english": "The intender's effort is directed to one thing, but the objects arise elsewhere, resting on the eye and other senses that are connected to the self joined with the mind."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "viṣayāḥ",
+     "gloss": "objects",
+     "grounds": "objects of perception",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "savidhībhūtanetrādyullaṅghanakramāt",
+     "gloss": "by-process-of-transcending-eye-etc-become-near",
+     "grounds": "compound: savidhībhūta+netra+ādi+ullaṅghana+krama",
+     "morph": "m.abl.sg (compound)"
+    },
+    {
+     "surface": "ātmany",
+     "gloss": "in-self",
+     "grounds": "locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaṃkāraṃ",
+     "gloss": "in-what-manner",
+     "grounds": "interrogative manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramātṛtvaṃ",
+     "gloss": "knower-hood",
+     "grounds": "status of being the knower",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratanvatām",
+     "gloss": "let-them-extend",
+     "grounds": "imperative force in argument",
+     "morph": "3.pl.imperative-active + tan"
+    }
+   ],
+   "question": "How can objects, by transcending the nearby senses, extend knowerhood in the self itself?",
+   "premises": [
+    "Objects are encountered through the eye and other senses that become near.",
+    "The process described requires transcending those senses.",
+    "Knowerhood is said to be extended in the self."
+   ],
+   "inference": "If objects must transcend the senses to reach the self, the mechanism of knowerhood remains unexplained.",
+   "uncertainties": [],
+   "plain_english": "How, by a process that transcends the eye and other senses once they have become near, could the objects extend knowerhood in the self itself?"
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "nanu",
+     "gloss": "but-surely",
+     "grounds": "objection particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānakṛto",
+     "gloss": "made-by-knowledge",
+     "grounds": "compound: jñāna+kṛta",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "mātṛbhāvo",
+     "gloss": "knower-state",
+     "grounds": "compound: mātṛ+bhāva",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "vijñānam",
+     "gloss": "cognition",
+     "grounds": "act of knowing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ātmani",
+     "gloss": "in-self",
+     "grounds": "locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samavaiti",
+     "gloss": "inheres",
+     "grounds": "inherence relation",
+     "morph": "3.sg.present-active + sam-ava-i"
+    },
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "'nyasya",
+     "gloss": "of-another",
+     "grounds": "elided a- after sandhi",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛtvaśaṅkanam",
+     "gloss": "doubt-of-knowerhood",
+     "grounds": "compound: mātṛtva+śaṅkana",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "If knowerhood is produced by knowledge inhering in the self, how can knowerhood be suspected in another?",
+   "premises": [
+    "The opponent claims knowerhood is produced by knowledge.",
+    "The opponent claims cognition inheres in the self.",
+    "Knowerhood would then belong to the locus where cognition inheres."
+   ],
+   "inference": "Given the opponent's own premises, attributing knowerhood to anything other than that self is unwarranted.",
+   "uncertainties": [],
+   "plain_english": "But surely, if the state of being a knower is produced by knowledge and cognition inheres in the self, then how could there be any suspicion that knowerhood belongs to something else?"
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "point under discussion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vayaṃ",
+     "gloss": "we",
+     "grounds": "speaker",
+     "morph": "pron.nom.pl"
+    },
+    {
+     "surface": "brūmo",
+     "gloss": "say",
+     "grounds": "assertion",
+     "morph": "1.pl.present-active + brū"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "compound: tatra+eva; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "from-where",
+     "grounds": "interrogative source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhayāt",
+     "gloss": "from-fear",
+     "grounds": "motive",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "svapakṣapātāndhas",
+     "gloss": "blinded-by-attachment-to-own-view",
+     "grounds": "compound: sva+pakṣa+pāta+andha",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "same point",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "evottaram",
+     "gloss": "indeed-as-answer",
+     "grounds": "compound: eva+uttara; sandhi inside fused token",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "abhyadhāt",
+     "gloss": "stated",
+     "grounds": "reported reply",
+     "morph": "3.sg.aorist-active + abhi-dhā"
+    }
+   ],
+   "question": "Why does the opponent, blinded by attachment to his own view, treat the very point in dispute as an answer?",
+   "premises": [
+    "The author asserts that knowledge must be located there in the self.",
+    "The opponent is blinded by attachment to his own position.",
+    "The opponent offers the disputed claim itself as the answer."
+   ],
+   "inference": "The opponent's reply is question-begging because it assumes what must be established.",
+   "uncertainties": [],
+   "plain_english": "This is exactly what we are saying: how is knowledge there in the first place? Yet, blinded by attachment to his own view, he stated that very same point as the answer."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "yathendriyātmasaṃyoge",
+     "gloss": "as-in-sense-self-connection",
+     "grounds": "compound: yathā+indriya+ātman+saṃyoga; sandhi inside fused token",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "internal organ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "explanatory factor",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "doctrinal claim",
+     "morph": "3.sg.present-passive + vac"
+    },
+    {
+     "surface": "tathaivātmamanoyoge",
+     "gloss": "so-too-in-self-mind-connection",
+     "grounds": "compound: tathā+eva+ātman+manas+yoga; sandhi inside fused token",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "kāraṇāntaram",
+     "gloss": "another-cause",
+     "grounds": "compound: kāraṇa+antara",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ucyatām",
+     "gloss": "let-be-stated",
+     "grounds": "challenge to opponent",
+     "morph": "3.sg.imperative-passive + vac"
+    }
+   ],
+   "question": "If mind is the cause in the connection of sense and self, what further cause explains the connection of self and mind?",
+   "premises": [
+    "The opponent posits mind as the cause of the connection between sense and self.",
+    "The connection between self and mind is another relation requiring explanation.",
+    "By parity of reasoning, that relation would also require a cause."
+   ],
+   "inference": "The opponent's explanatory model demands an additional cause for the self-mind connection.",
+   "uncertainties": [],
+   "plain_english": "Just as mind is said to be the cause in the connection of sense and self, so too let another cause be stated for the connection of self and mind."
+  },
+  {
+   "verse": 459,
+   "rows": [
+    {
+     "surface": "tathātve",
+     "gloss": "if-so",
+     "grounds": "compound: tathā+tva; assumed condition",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "cānavasthaiva",
+     "gloss": "and-infinite-regress-indeed",
+     "grounds": "compound: ca+anavasthā+eva; sandhi inside fused token",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "mūlakṣatikarī",
+     "gloss": "root-destroying",
+     "grounds": "compound: mūla+kṣati+karī",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to regress",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "alternative move",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāntātmasaṃyogo",
+     "gloss": "mind-self-connection",
+     "grounds": "compound: svānta+ātman+saṃyoga",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "dhruva",
+     "gloss": "constant",
+     "grounds": "permanent relation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evābhyupeyate",
+     "gloss": "indeed-is-admitted",
+     "grounds": "compound: eva+abhyupeyate; sandhi inside fused token",
+     "morph": "3.sg.present-passive + abhi-upa-i"
+    }
+   ],
+   "question": "Does admitting a further cause lead to a destructive regress, or must the mind-self connection be taken as constant?",
+   "premises": [
+    "If every connection requires another cause, an infinite regress follows.",
+    "An infinite regress destroys the foundational explanation.",
+    "To avoid regress, one might admit a constant mind-self connection."
+   ],
+   "inference": "The opponent faces a dilemma between destructive regress and an ungrounded constant connection.",
+   "uncertainties": [],
+   "plain_english": "If that is so, there is an infinite regress, and it destroys the very foundation. Or else the connection of mind and self must be admitted as constant."
+  },
+  {
+   "verse": 460,
+   "rows": [
+    {
+     "surface": "jñātāraḥ",
+     "gloss": "knowers",
+     "grounds": "subjects of knowledge",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "unwanted consequence",
+     "morph": "3.pl.optative-active + as"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suptamattamūrchitadurbhagāḥ",
+     "gloss": "sleeping-intoxicated-fainted-unfortunate-ones",
+     "grounds": "compound: supta+matta+mūrchita+durbhaga",
+     "morph": "m.nom.pl (compound)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caitad",
+     "gloss": "and-this",
+     "grounds": "compound: ca+etad; sandhi inside fused token",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavatāṃ",
+     "gloss": "of-you",
+     "grounds": "opponent's position",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhīṣṭaṃ",
+     "gloss": "desired",
+     "grounds": "accepted doctrine",
+     "morph": "n.nom.sg (past-passive-participle) + abhi-iṣ"
+    },
+    {
+     "surface": "śākyaśiṣyavat",
+     "gloss": "like-Buddhist-disciple",
+     "grounds": "compound: śākya+śiṣya+vat",
+     "morph": "(indecl., compound)"
+    }
+   ],
+   "question": "If the mind-self connection is constant, why would even the sleeping or fainted not be perpetual knowers?",
+   "premises": [
+    "A constant mind-self connection would make cognition always available.",
+    "Sleeping, intoxicated, fainted, or unfortunate persons do not always know.",
+    "The opponent does not accept perpetual cognition in the manner of a Buddhist disciple."
+   ],
+   "inference": "A constant mind-self connection leads to an unacceptable consequence of universal perpetual knowing.",
+   "uncertainties": [],
+   "plain_english": "Then those who are asleep, intoxicated, fainted, or unfortunate would always be knowers. But you do not accept such knowledge, like a disciple of the Buddhists."
+  },
+  {
+   "verse": 461,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyakṣatā",
+     "gloss": "perceptibility",
+     "grounds": "status of direct perception",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indriyagocarāt",
+     "gloss": "from-sense-range",
+     "grounds": "compound: indriya+gocara",
+     "morph": "m.abl.sg (compound)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyekam",
+     "gloss": "one-by-one",
+     "grounds": "method of examination",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eteṣāṃ",
+     "gloss": "of-these",
+     "grounds": "items to examine",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "parīkṣeyaṃ",
+     "gloss": "this-examination",
+     "grounds": "compound: parīkṣā+iyam; sandhi inside fused token",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "pratanyate",
+     "gloss": "is-extended",
+     "grounds": "undertaken",
+     "morph": "3.sg.present-passive + pra-tan"
+    }
+   ],
+   "question": "How can perceptibility arise merely from the range of the senses, and how should each factor be examined?",
+   "premises": [
+    "The previous arguments undermine a simple sense-based account of perception.",
+    "Perceptibility cannot be explained merely by the senses' range.",
+    "Each proposed factor must therefore be examined separately."
+   ],
+   "inference": "A detailed examination of each component of the perceptual theory is required.",
+   "uncertainties": [],
+   "plain_english": "Therefore, how can there be perceptibility merely from the range of the senses? Now this examination of each of these factors is set forth."
+  },
+  {
+   "verse": 462,
+   "rows": [
+    {
+     "surface": "tatrāṇu",
+     "gloss": "there-atomic",
+     "grounds": "compound: tatra+aṇu; sandhi inside fused token",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "eternal",
+     "grounds": "claimed property",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvārthaṃ",
+     "gloss": "reaching-all-objects",
+     "grounds": "compound: sarva+artha",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vegavallaghv",
+     "gloss": "swift-and-light",
+     "grounds": "compound: vegavat+laghu; sandhi inside fused token",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "abhautikam",
+     "gloss": "non-material",
+     "grounds": "claimed property",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manas",
+     "gloss": "mind",
+     "grounds": "internal organ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tac",
+     "gloss": "and-that",
+     "grounds": "sandhi before ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "compound: ca+api; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "naiveha",
+     "gloss": "not-at-all-here",
+     "grounds": "compound: na+eva+iha; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "yuktisiddhatvam",
+     "gloss": "being-established-by-reasoning",
+     "grounds": "compound: yukti+siddhatva",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "attains",
+     "grounds": "achieves status",
+     "morph": "3.sg.present-middle + aś"
+    }
+   ],
+   "question": "Can the mind, described as atomic, eternal, all-reaching, swift, light, and non-material, be established by reasoning?",
+   "premises": [
+    "The mind is claimed to be atomic, eternal, all-reaching, swift, light, and non-material.",
+    "These properties are presented as a theoretical account of mind.",
+    "A philosophical account must be established by reasoning."
+   ],
+   "inference": "The proposed characterization of mind does not attain rational establishment.",
+   "uncertainties": [],
+   "plain_english": "The mind is said to be atomic, eternal, capable of reaching all objects, swift, light, and non-material; but even this does not attain establishment by reasoning here."
+  },
+  {
+   "verse": 463,
+   "rows": [
+    {
+     "surface": "aṇu",
+     "gloss": "atomic",
+     "grounds": "assumed property",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cec",
+     "gloss": "if",
+     "grounds": "conditional particle; sandhi before chīgra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chīgrasaṃcāri",
+     "gloss": "swift-moving",
+     "grounds": "compound: śīghra+saṃcārin; spelling as given",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "internal organ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "if",
+     "grounds": "conditional relation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣayān",
+     "gloss": "objects",
+     "grounds": "objects of perception",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "muhuḥ",
+     "gloss": "repeatedly",
+     "grounds": "frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "would-touch",
+     "grounds": "hypothetical contact",
+     "morph": "3.sg.optative-active + spṛś"
+    },
+    {
+     "surface": "tadaiva",
+     "gloss": "then-indeed",
+     "grounds": "compound: tadā+eva; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "dehasya",
+     "gloss": "of-body",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavec",
+     "gloss": "would-be",
+     "grounds": "unwanted consequence; sandhi before chava",
+     "morph": "3.sg.optative-active + bhū"
+    },
+    {
+     "surface": "chavaśarīratā",
+     "gloss": "corpse-body-state",
+     "grounds": "compound: śava+śarīra+tā; spelling as given",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "If an atomic mind moved swiftly and repeatedly touched objects, would the body become like a corpse?",
+   "premises": [
+    "An atomic mind would have to move from place to place to contact objects.",
+    "Repeated contact with different objects would require repeated departure from the body.",
+    "Life in the body depends on the mind's presence."
+   ],
+   "inference": "The hypothesis of a swiftly moving atomic mind entails the absurd consequence that the body would become a corpse.",
+   "uncertainties": [],
+   "plain_english": "If the mind were atomic and moved swiftly, repeatedly touching objects, then the body would at once become a corpse."
+  },
+  {
+   "verse": 464,
+   "rows": [
+    {
+     "surface": "dehasthe",
+     "gloss": "located-in-body",
+     "grounds": "compound: deha+stha",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "elided a- after sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manoyoge",
+     "gloss": "mind-connection",
+     "grounds": "compound: manas+yoga",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "compound: tatra+eva; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "jñānayogataḥ",
+     "gloss": "because-of-connection-with-knowledge",
+     "grounds": "compound: jñāna+yoga+tas",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "ekāṇumātraṃ",
+     "gloss": "only-one-atom-measure",
+     "grounds": "compound: eka+aṇu+mātra",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "jīvaḥ",
+     "gloss": "living-being",
+     "grounds": "embodied self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāc",
+     "gloss": "would-be",
+     "grounds": "unwanted consequence; sandhi before chiṣṭaṃ",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "chiṣṭaṃ",
+     "gloss": "the-rest",
+     "grounds": "remainder of body; spelling as given",
+     "morph": "n.nom.sg (past-passive-participle) + śiṣ"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "unwanted consequence",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "ghaṭakuḍyavat",
+     "gloss": "like-pot-and-wall",
+     "grounds": "compound: ghaṭa+kuḍya+vat",
+     "morph": "(indecl., compound)"
+    }
+   ],
+   "question": "If the mind's connection remains in the body, would only an atom-sized part be alive while the rest is inert like a pot or wall?",
+   "premises": [
+    "If mind is atomic, its connection is localized.",
+    "Knowledge would occur only where that localized connection exists.",
+    "The rest of the body would lack that connection."
+   ],
+   "inference": "An atomic mind confined to the body implies that only a minute part is alive and the rest is insentient.",
+   "uncertainties": [],
+   "plain_english": "Even if the mind's connection remained in the body, knowledge would occur only there; the living being would be just the measure of a single atom, and the rest would be like a pot or a wall."
+  },
+  {
+   "verse": 465,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "alternative hypothesis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāntena",
+     "gloss": "with-mind",
+     "grounds": "instrument of connection",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yogaś",
+     "gloss": "connection",
+     "grounds": "sandhi before cej",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cej",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātaḥ",
+     "gloss": "arisen",
+     "grounds": "hypothetical occurrence",
+     "morph": "m.nom.sg (past-passive-participle) + jan"
+    },
+    {
+     "surface": "kvāpy",
+     "gloss": "anywhere",
+     "grounds": "compound: kva+api; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "ātmagocare",
+     "gloss": "in-self-sphere",
+     "grounds": "compound: ātman+gocara",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "then",
+     "grounds": "consequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhor",
+     "gloss": "of-all-pervading",
+     "grounds": "property of self",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ātmano",
+     "gloss": "of-self",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samavāyīti",
+     "gloss": "inheres-thus",
+     "grounds": "compound: samavāyi+iti; sandhi inside fused token",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "mātṛtā",
+     "gloss": "knowerhood",
+     "grounds": "status of knower",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "If the mind connects with the self anywhere, does knowledge inhere in the all-pervading self and thereby constitute knowerhood?",
+   "premises": [
+    "The opponent may claim that mind connects with the self in some locus.",
+    "The self is held to be all-pervading.",
+    "Knowledge is said to inhere in that self, producing knowerhood."
+   ],
+   "inference": "If knowledge inheres in an all-pervading self, the localization of knowing becomes problematic.",
+   "uncertainties": [],
+   "plain_english": "But if a connection with the mind arises anywhere in the sphere of the self, then knowledge inheres in the all-pervading self, and that is said to be knowerhood."
+  },
+  {
+   "verse": 466,
+   "rows": [
+    {
+     "surface": "jāteti",
+     "gloss": "arisen-thus",
+     "grounds": "compound: jāta+iti; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "sarvadehasthaṃ",
+     "gloss": "present-in-all-bodies",
+     "grounds": "compound: sarva+deha+stha",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "jīvanaṃ",
+     "gloss": "life",
+     "grounds": "vitality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "is-established",
+     "grounds": "would follow",
+     "morph": "3.sg.present-active + sidh"
+    },
+    {
+     "surface": "enayaiva",
+     "gloss": "by-this-very",
+     "grounds": "compound: enayā+eva; sandhi inside fused token",
+     "morph": "f.inst.sg (compound)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktyā",
+     "gloss": "by-reasoning",
+     "grounds": "method of inference",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ghaṭāder",
+     "gloss": "of-pot-etc",
+     "grounds": "compound: ghaṭa+ādi; sandhi before jīvanaṃ",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "jīvanaṃ",
+     "gloss": "life",
+     "grounds": "vitality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "unwanted consequence",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "If knowledge arises in an all-pervading self, why would life not be established in all bodies and even in pots and the like?",
+   "premises": [
+    "The opponent allows knowledge to arise in an all-pervading self.",
+    "An all-pervading self is present everywhere.",
+    "The same reasoning would extend life or sentience beyond individual bodies."
+   ],
+   "inference": "The all-pervading-self account overgeneralizes and absurdly implies life in all bodies and inert objects.",
+   "uncertainties": [],
+   "plain_english": "If it has arisen in that way, why would life not be established in all bodies? And by that very reasoning, why would pots and the like not also be alive?"
+  },
+  {
+   "verse": 467,
+   "rows": [
+    {
+     "surface": "vibhāv",
+     "gloss": "in-all-pervading",
+     "grounds": "sandhi before ātmani",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ātmani",
+     "gloss": "in-self",
+     "grounds": "locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jātaṃ",
+     "gloss": "arisen",
+     "grounds": "occurrence of knowledge",
+     "morph": "n.nom.sg (past-passive-participle) + jan"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatraikadeśataḥ",
+     "gloss": "there-in-one-part",
+     "grounds": "compound: tatra+eka+deśa+tas; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "dehamātre",
+     "gloss": "in-body-alone",
+     "grounds": "compound: deha+mātra",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "further restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svānte",
+     "gloss": "in-mind",
+     "grounds": "internal locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "hypothetical restriction",
+     "morph": "3.sg.optative-active + bhū"
+    },
+    {
+     "surface": "sāvayavā",
+     "gloss": "having-parts",
+     "grounds": "compound: sa+avayava",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "state",
+     "grounds": "condition of self",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "If knowledge arises in an all-pervading self but only in one part, body, or mind, does that make the self divisible?",
+   "premises": [
+    "Knowledge is said to arise in an all-pervading self.",
+    "To avoid overgeneralization, it may be restricted to one part, the body, or the mind.",
+    "Such restriction implies division or parts."
+   ],
+   "inference": "Restricting knowledge within an all-pervading self entails an unwanted partite state of the self.",
+   "uncertainties": [],
+   "plain_english": "If knowledge arises in an all-pervading self, but only in one part, or only in the body, or again only in the mind, then the self would have a state composed of parts."
+  },
+  {
+   "verse": 468,
+   "rows": [
+    {
+     "surface": "vibhutve",
+     "gloss": "if-all-pervasiveness",
+     "grounds": "assumed property of mind",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mānasasya",
+     "gloss": "of-mind",
+     "grounds": "subject of property",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "consequence",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "yugapat",
+     "gloss": "simultaneously",
+     "grounds": "time mode",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvavedanam",
+     "gloss": "cognition-of-all",
+     "grounds": "compound: sarva+vedana",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "nitye",
+     "gloss": "if-eternal",
+     "grounds": "assumed property of mind",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manasi",
+     "gloss": "in-mind",
+     "grounds": "locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadaiva",
+     "gloss": "always-indeed",
+     "grounds": "compound: sarvadā+eva; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "consequence",
+     "morph": "3.sg.optative-active + bhū"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "If the mind were all-pervading or eternal, would it produce simultaneous or perpetual cognition of everything?",
+   "premises": [
+    "An all-pervading mind would be in contact with all objects at once.",
+    "An eternal mind would be constantly available for cognition.",
+    "Ordinary experience does not show simultaneous or perpetual cognition of all things."
+   ],
+   "inference": "The hypotheses of an all-pervading or eternal mind entail impossible cognitive consequences.",
+   "uncertainties": [],
+   "plain_english": "If the mind were all-pervading, there would be simultaneous cognition of everything; and if the mind were eternal, knowledge would arise always."
+  },
+  {
+   "verse": 469,
+   "rows": [
+    {
+     "surface": "mokṣāvasthāpi",
+     "gloss": "state-of-liberation-too",
+     "grounds": "compound: mokṣa+avasthā+api; sandhi inside fused token",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "vijñānayoginy",
+     "gloss": "joined-with-cognition",
+     "grounds": "compound: vijñāna+yogin; sandhi before eva",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "evopajāyate",
+     "gloss": "indeed-arises",
+     "grounds": "compound: eva+upajāyate; sandhi inside fused token",
+     "morph": "3.sg.present-middle + upa-jan"
+    },
+    {
+     "surface": "muktau",
+     "gloss": "in-liberation",
+     "grounds": "state under discussion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "cātmamanoyogo",
+     "gloss": "and-self-mind-connection",
+     "grounds": "compound: ca+ātman+manas+yoga; sandhi inside fused token",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "nāstīty",
+     "gloss": "does-not-exist-thus",
+     "grounds": "compound: na+asti+iti; sandhi inside fused token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "etan",
+     "gloss": "this",
+     "grounds": "doctrinal claim",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahādbhutam",
+     "gloss": "very-wonderful",
+     "grounds": "compound: mahā+adbhuta",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "How can liberation be a state joined with cognition if there is no self-mind connection in liberation?",
+   "premises": [
+    "The opponent treats cognition as dependent on the connection of self and mind.",
+    "Liberation is described as a state joined with cognition.",
+    "The opponent also claims there is no self-mind connection in liberation."
+   ],
+   "inference": "The opponent's account of liberation is internally inconsistent.",
+   "uncertainties": [],
+   "plain_english": "Even the state of liberation would then arise as joined with cognition; yet you say that in liberation there is no connection of self and mind. That is most astonishing."
+  },
+  {
+   "verse": 470,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpakatā",
+     "gloss": "all-pervasiveness",
+     "grounds": "property of self",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣe",
+     "gloss": "in-liberation",
+     "grounds": "state under discussion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svātmano",
+     "gloss": "of-own-self",
+     "grounds": "compound: sva+ātman",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "vinirudhyate",
+     "gloss": "is-obstructed",
+     "grounds": "denied property",
+     "morph": "3.sg.present-passive + vi-ni-rudh"
+    },
+    {
+     "surface": "abhautikaṃ",
+     "gloss": "non-material",
+     "grounds": "claimed property of mind",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvārthaṃ",
+     "gloss": "reaching-all-objects",
+     "grounds": "compound: sarva+artha",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "kathaṃkāraṃ",
+     "gloss": "in-what-manner",
+     "grounds": "interrogative manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "internal organ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "could-be",
+     "grounds": "possibility questioned",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "Is the self's all-pervasiveness obstructed in liberation, and how could a non-material mind reach all objects?",
+   "premises": [
+    "If the self is all-pervading, liberation should not obstruct that pervasiveness.",
+    "The mind is claimed to be non-material and capable of reaching all objects.",
+    "The mechanism by which a non-material mind reaches all objects is unclear."
+   ],
+   "inference": "The opponent's claims about the self in liberation and the mind's reach lack a coherent explanation.",
+   "uncertainties": [],
+   "plain_english": "Is the all-pervasiveness of one's own self somehow obstructed in liberation? And if the mind is non-material and reaches all objects, how could that be?"
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "āśrayadvārako",
+     "gloss": "through-a-support",
+     "grounds": "compound: āśraya+dvāraka",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "'kṣāṇām",
+     "gloss": "of-senses",
+     "grounds": "elided a- after sandhi",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "anugraha",
+     "gloss": "assistance",
+     "grounds": "aid to senses",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhatsva",
+     "gloss": "state",
+     "grounds": "challenge to opponent",
+     "morph": "2.sg.imperative-middle + abhi-dhā"
+    },
+    {
+     "surface": "ka",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eteṣām",
+     "gloss": "of-these",
+     "grounds": "refers to senses",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "āśrayo",
+     "gloss": "support",
+     "grounds": "required basis",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'stv",
+     "gloss": "should-be",
+     "grounds": "elided a- after sandhi; sandhi before iti",
+     "morph": "3.sg.imperative-active + as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "codite",
+     "gloss": "when-challenged",
+     "grounds": "condition of debate",
+     "morph": "m.loc.sg (past-passive-participle) + cud"
+    }
+   ],
+   "question": "If the senses are assisted through a support, what exactly is that support when the opponent is challenged to state it clearly?",
+   "premises": [
+    "The opponent claims the senses receive assistance through a support.",
+    "A clear account must identify what that support is.",
+    "The challenge demands an explicit definition of the support."
+   ],
+   "inference": "The opponent's appeal to a supporting basis remains vague until the support is specified.",
+   "uncertainties": [],
+   "plain_english": "You say clearly that the senses receive assistance through a support; but when challenged, state plainly what the support of these senses is supposed to be."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "that-which",
+     "grounds": "relative referent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anugrahayogo",
+     "gloss": "connection-of-assistance",
+     "grounds": "compound: anugraha+yoga",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "'sya",
+     "gloss": "of-this",
+     "grounds": "elided a- after sandhi",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evāśraya",
+     "gloss": "indeed-support",
+     "grounds": "compound: eva+āśraya; sandhi inside fused token",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "quotation marker; sandhi before ayam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "refers to reasoning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāyo",
+     "gloss": "reasoning",
+     "grounds": "argument form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'nyonyasamālambī",
+     "gloss": "mutually-dependent",
+     "grounds": "compound: anyonya+samālambin; elided a- after sandhi",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "cakrakaṃ",
+     "gloss": "circularity",
+     "grounds": "logical fault",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nātivartate",
+     "gloss": "does-not-transcend",
+     "grounds": "compound: na+ativartate; sandhi inside fused token",
+     "morph": "3.sg.present-middle + ati-vṛt"
+    }
+   ],
+   "question": "Does defining the support as that which has the connection of assistance create a mutual dependence?",
+   "premises": [
+    "The opponent may define the support by the connection of assistance.",
+    "The connection of assistance may in turn be defined by that support.",
+    "Such definitions rely on each other."
+   ],
+   "inference": "The proposed definition does not escape circular reasoning.",
+   "uncertainties": [],
+   "plain_english": "If one says that whatever has the connection of assistance is itself the support, this reasoning depends on mutual reference and does not go beyond circularity."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "vāyuprakṛti",
+     "gloss": "having-air-as-nature",
+     "grounds": "compound: vāyu+prakṛti",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "yac",
+     "gloss": "that-which",
+     "grounds": "relative referent; sandhi before coktaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "coktaṃ",
+     "gloss": "and-said",
+     "grounds": "compound: ca+ukta; sandhi inside fused token",
+     "morph": "n.nom.sg (compound, past-passive-participle) + vac"
+    },
+    {
+     "surface": "sparśanaṃ",
+     "gloss": "touch-organ",
+     "grounds": "sense of touch",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "topic resumed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vivicyate",
+     "gloss": "is-examined",
+     "grounds": "analysis undertaken",
+     "morph": "3.sg.present-passive + vi-vic"
+    },
+    {
+     "surface": "vāyor",
+     "gloss": "of-air",
+     "grounds": "elemental basis",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vegavatī",
+     "gloss": "swift",
+     "grounds": "property of air",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāvad",
+     "gloss": "first-of-all",
+     "grounds": "limiting particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aniruddhā",
+     "gloss": "unobstructed",
+     "grounds": "property of motion",
+     "morph": "f.nom.sg (past-passive-participle) + a-ni-rudh"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "state",
+     "grounds": "mode of presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "present condition",
+     "morph": "f.nom.sg (past-passive-participle) + sthā"
+    }
+   ],
+   "question": "How should the claim that the organ of touch has the nature of air be examined, given air's swift and unobstructed state?",
+   "premises": [
+    "The organ of touch is said to have the nature of air.",
+    "Air is characterized by swift and unobstructed motion.",
+    "The elemental account of touch must be examined against that characterization."
+   ],
+   "inference": "The air-nature theory of touch requires scrutiny because air's properties do not straightforwardly explain localized touch.",
+   "uncertainties": [],
+   "plain_english": "What is said to be the organ of touch, having the nature of air, is now examined: the state of air is swift and unobstructed."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "dehadeśe",
+     "gloss": "in-body-region",
+     "grounds": "compound: deha+deśa",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sparśaḥ",
+     "gloss": "touch",
+     "grounds": "tactile sensation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuḍya",
+     "gloss": "in-wall",
+     "grounds": "comparison locus; form as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "explanation",
+     "grounds": "accounting principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cakṣuś",
+     "gloss": "eye",
+     "grounds": "sense organ; sandhi before ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taijasaṃ",
+     "gloss": "fiery",
+     "grounds": "having fire nature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tejaḥ",
+     "gloss": "light-fire",
+     "grounds": "fiery element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prasṛtaṃ",
+     "gloss": "spread-forth",
+     "grounds": "outward motion",
+     "morph": "n.nom.sg (past-passive-participle) + pra-sṛ"
+    },
+    {
+     "surface": "bāhyagocare",
+     "gloss": "to-external-range",
+     "grounds": "compound: bāhya+gocara",
+     "morph": "m.loc.sg (compound)"
+    }
+   ],
+   "question": "If touch occurs in the body but not in a wall, and the fiery eye spreads outward, what principle explains these differences?",
+   "premises": [
+    "Touch is experienced in a region of the body but not in an inert wall.",
+    "The eye is said to be fiery and to spread its light toward external objects.",
+    "An elemental theory must explain why different senses operate in different ways."
+   ],
+   "inference": "The elemental accounts of touch and sight lack a clear principle explaining their distinct modes of operation.",
+   "uncertainties": [
+    "The form 'kuḍya' is taken as a locative-like comparison locus as given in the text."
+   ],
+   "plain_english": "If touch occurs in a region of the body and not in a wall, what is the explanation? And the eye is fiery: its fire spreads forth toward external objects."
+  }
+ ]
+}
