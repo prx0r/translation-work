@@ -1,0 +1,124 @@
+{
+ "song": "gita-a16",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "compound: gathering-verse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abodhe",
+     "gloss": "in-ignorance",
+     "grounds": "locative of bodha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svātmabuddhyaiva",
+     "gloss": "by-one's-own-self-intellect-alone",
+     "grounds": "instrumental compound with eva",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "duty",
+     "grounds": "accusative of kārya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle with eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicārayet",
+     "gloss": "should-deliberate",
+     "grounds": "optative of vicāray",
+     "morph": "3.sg.act-opt. (root vicār)"
+    },
+    {
+     "surface": "kintu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstroktavidhinā",
+     "gloss": "by-scripture-declared-rule",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "nominative of śāstra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bodhavivardhanam",
+     "gloss": "increasing-knowing",
+     "grounds": "compound: knowing-increase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "16",
+     "gloss": "sixteen",
+     "grounds": "numeral marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmaheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "composed-by-abhinavagupta",
+     "grounds": "long compound colophon",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrīmadbhagavadgītārthasaṃgrahe",
+     "gloss": "in-gita-meaning-gathering",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣoḍaśo'dhyāyaḥ",
+     "gloss": "sixteenth-chapter",
+     "grounds": "ordinal compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "16",
+     "gloss": "sixteen",
+     "grounds": "numeral marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one act when lacking knowledge?",
+   "premises": [
+    "in ignorance one should not deliberate duty by self-intellect",
+    "scripture-declared rule should guide action",
+    "scripture itself increases knowing"
+   ],
+   "inference": "therefore action follows scripture, not self-will, and knowing grows",
+   "uncertainties": [
+    "colophon tokens are paratextual markers",
+    "numeral tokens are edition markers"
+   ],
+   "plain_english": "In ignorance, one should not determine duty by one's own intellect; rather, by the rule declared in scripture, and scripture itself increases knowing. Thus ends the sixteenth chapter of Abhinavagupta's Gathering of the Gita's Meaning."
+  }
+ ]
+}

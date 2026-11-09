@@ -1,0 +1,556 @@
+{
+ "song": "gita-a16",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daivī",
+     "gloss": "divine",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃpaduktā",
+     "gloss": "wealth-described",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abhayamityādinā",
+     "gloss": "by-abhaya-etc",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "āsurīmāha",
+     "gloss": "demonic-says",
+     "grounds": "compound",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "pravṛttiṃ",
+     "gloss": "activity",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivṛttiṃ",
+     "gloss": "cessation",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janā",
+     "gloss": "people",
+     "grounds": "plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidurāsurāḥ",
+     "gloss": "know-demonic",
+     "grounds": "compound",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaucaṃ",
+     "gloss": "purity",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāpi",
+     "gloss": "nor",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cācāro",
+     "gloss": "conduct",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "pravṛttiḥ-kuta",
+     "gloss": "activity-whence",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idamutpannamiti",
+     "gloss": "this-arisen-thus",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivṛttiḥ-ka",
+     "gloss": "cessation-what",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pralīyate",
+     "gloss": "dissolves",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "7",
+     "gloss": "verse-seven",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do demonic people fail to know activity and cessation?",
+   "premises": [
+    "demonic people lack purity conduct truth",
+    "they do not know activity or cessation",
+    "activity and cessation are not found in them"
+   ],
+   "inference": "The verse contrasts divine wealth with demonic ignorance of right action and restraint.",
+   "uncertainties": [
+    "compound boundaries are editorial",
+    "verse numeral is paratext-like but retained"
+   ],
+   "plain_english": "This divine wealth is described by abhaya and so on; demonic people do not know activity or cessation, and purity, conduct, and truth are not found in them."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "asatyamapratiṣṭhaṃ",
+     "gloss": "untrue-unstable",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jagadāhuranīśvaram",
+     "gloss": "world-call-lordless",
+     "grounds": "compound",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "aparasparasambhūtamakiṃcatkamahetukam",
+     "gloss": "mutually-born-without-cause",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "anything",
+     "grounds": "indefinite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭādanyat",
+     "gloss": "seen-other",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "effect",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "yatreti-akiṃcitkam",
+     "gloss": "where-thus-nothing",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "8",
+     "gloss": "verse-eight",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What false view do demonic people hold about the world?",
+   "premises": [
+    "they call the world untrue and unstable",
+    "they call it lordless and causeless",
+    "they see no effect beyond the seen"
+   ],
+   "inference": "The verse states the demonic worldview that denies order, lordship, and causation.",
+   "uncertainties": [
+    "long compound is editorially fused",
+    "verse numeral retained"
+   ],
+   "plain_english": "They call the world untrue, unstable, lordless, and causeless; they see no effect beyond what is seen."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "etāṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭimavaṣṭabhya",
+     "gloss": "view-relying",
+     "grounds": "compound",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "naṣṭātmāno'lpabuddhayaḥ",
+     "gloss": "lost-selves-small-intellects",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prabhavantyugrakarmāṇaḥ",
+     "gloss": "arise-fierce-actions",
+     "grounds": "compound",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kṣayāya",
+     "gloss": "for-destruction",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "jagato'śubhāḥ",
+     "gloss": "world-in-auspicious",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What follows from holding this demonic view?",
+   "premises": [
+    "they rely on this view",
+    "lost selves with small intellects arise",
+    "fierce actions lead to world destruction"
+   ],
+   "inference": "The verse links the demonic view to destructive action and ruin.",
+   "uncertainties": [
+    "sandhi forms retained",
+    "compound boundaries editorial"
+   ],
+   "plain_english": "Relying on this view, lost selves with small intellects arise as fierce actors, inauspicious for the world's destruction."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "kāmamāśritya",
+     "gloss": "desire-relying",
+     "grounds": "compound",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "duṣpūraṃ",
+     "gloss": "hard-to-fill",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dambhamānamadānvitāḥ",
+     "gloss": "pride-conceit-intoxicated",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "asadgrahāśtāḥ",
+     "gloss": "false-grasping-eight",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "(-śtiḥ)",
+     "gloss": "parenthetical-note",
+     "grounds": "editorial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krūrāḥ",
+     "gloss": "cruel",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pracarantyaśucivratāḥ",
+     "gloss": "act-impure-vows",
+     "grounds": "compound",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "How do desire-driven demonic people behave?",
+   "premises": [
+    "they rely on insatiable desire",
+    "they are filled with pride conceit intoxication",
+    "they act cruelly with impure vows"
+   ],
+   "inference": "The verse describes demonic conduct rooted in desire and false grasping.",
+   "uncertainties": [
+    "parenthetical token retained",
+    "compound boundaries editorial"
+   ],
+   "plain_english": "Relying on insatiable desire, filled with pride, conceit, and intoxication, they act cruelly with impure vows."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "cintāmaparimeyāṃ",
+     "gloss": "anxiety-immeasurable",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pralayāntāmupāśritāḥ",
+     "gloss": "dissolution-ending-relying",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kāmopabhogaparamā",
+     "gloss": "desire-enjoyment-supreme",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "etāvaditi",
+     "gloss": "this-much-thus",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niścitāḥ",
+     "gloss": "certain",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What certainty do desire-driven people hold?",
+   "premises": [
+    "they rely on immeasurable anxiety until dissolution",
+    "they make desire-enjoyment supreme",
+    "they are certain only this much exists"
+   ],
+   "inference": "The verse states their limited certainty centered on enjoyment.",
+   "uncertainties": [
+    "compound boundaries editorial"
+   ],
+   "plain_english": "Relying on immeasurable anxiety until dissolution, making desire-enjoyment supreme, they are certain only this much exists."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "āśāpāśaśatairbaddhāḥ",
+     "gloss": "hope-noose-hundreds-bound",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kāmakrodhaparāyaṇāḥ",
+     "gloss": "desire-anger-devoted",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "īhante",
+     "gloss": "strive",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kāmabhogārthamanyāyenārthasañcayān",
+     "gloss": "desire-enjoyment-purpose-unjust-wealth-gathering",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "cintā",
+     "gloss": "anxiety",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "their",
+     "grounds": "pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pralayāntā-avirataṃ",
+     "gloss": "dissolution-ending-unceasing",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsṛtipralayāvyuparamāt",
+     "gloss": "transmigration-dissolution-not-ceasing",
+     "grounds": "compound",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "etāvaditi-kāmopabhoga",
+     "gloss": "this-much-thus-desire-enjoyment",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtyaṃ",
+     "gloss": "duty",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tannāśācca",
+     "gloss": "its-destruction-and",
+     "grounds": "compound",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "krodhaḥ",
+     "gloss": "anger",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evāha",
+     "gloss": "thus-says",
+     "grounds": "compound",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kāmakrodhaparāyaṇāḥ-iti",
+     "gloss": "desire-anger-devoted-thus",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "12",
+     "gloss": "verse-twelve",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are demonic people bound by desire and anger?",
+   "premises": [
+    "they are bound by hundreds of hope-nooses",
+    "they strive unjustly for desire-enjoyment wealth",
+    "anxiety continues until transmigration and dissolution cease"
+   ],
+   "inference": "The verse explains demonic bondage through desire, anger, and unjust accumulation.",
+   "uncertainties": [
+    "long fused compounds retained",
+    "verse numeral retained"
+   ],
+   "plain_english": "Bound by hundreds of hope-nooses and devoted to desire and anger, they strive unjustly to gather wealth for desire-enjoyment; their anxiety continues until transmigration and dissolution cease."
+  }
+ ]
+}

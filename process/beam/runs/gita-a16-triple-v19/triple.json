@@ -1,0 +1,641 @@
+{
+ "song": "gita-a16",
+ "items": [
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "tānahaṃ",
+     "gloss": "those-i",
+     "grounds": "fused pronoun and first-person pronoun",
+     "morph": "m.acc.pl + pron.1sg.nom"
+    },
+    {
+     "surface": "dviṣataḥ",
+     "gloss": "hating",
+     "grounds": "participle in accusative plural masculine",
+     "morph": "m.acc.pl.participle"
+    },
+    {
+     "surface": "krūrānsaṃsāreṣu",
+     "gloss": "cruel-in-samsaras",
+     "grounds": "fused adjective and locative plural",
+     "morph": "m.acc.pl.adj + loc.pl.m"
+    },
+    {
+     "surface": "narādhamān",
+     "gloss": "lowest-men",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṣipāmyajasramaśubhāsvāsurīṣveva",
+     "gloss": "i-cast-continually-into-asuri-wombs",
+     "grounds": "fused verb and locative phrase with indeed",
+     "morph": "1sg.act-pres + loc.pl.f"
+    },
+    {
+     "surface": "yoniṣu",
+     "gloss": "wombs",
+     "grounds": "locative plural feminine",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "What happens to those who hate and act cruelly?",
+   "premises": [
+    "The verse names hated cruel persons.",
+    "It places them in asuri wombs.",
+    "It states continual casting into those wombs."
+   ],
+   "inference": "Hateful cruel persons are repeatedly born in asuri wombs.",
+   "uncertainties": [
+    "The fused token is rendered as one row."
+   ],
+   "plain_english": "I continually cast those hateful cruel lowest men into asuri wombs."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "āsurīṃ",
+     "gloss": "asuri",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yonimāpannā",
+     "gloss": "having-entered-womb",
+     "grounds": "fused participle",
+     "morph": "f.nom.sg.participle"
+    },
+    {
+     "surface": "mūḍhā",
+     "gloss": "deluded",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl.adj"
+    },
+    {
+     "surface": "janmani",
+     "gloss": "birth",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "janmani",
+     "gloss": "birth",
+     "grounds": "repeated locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "māmaprāpyaiva",
+     "gloss": "without-reaching-me-indeed",
+     "grounds": "fused compound with eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "kaunteya",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāntyadhamāṃ",
+     "gloss": "go-to-lowest",
+     "grounds": "fused verb and adjective",
+     "morph": "3pl.act-pres + f.acc.sg.adj"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "destination",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ātmani",
+     "gloss": "in-self",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dveṣavantaḥ",
+     "gloss": "hating",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl.adj"
+    },
+    {
+     "surface": "ātmano",
+     "gloss": "of-self",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hyahitaṃ",
+     "gloss": "harmful",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.adj"
+    },
+    {
+     "surface": "nirayapātahetumācaranti",
+     "gloss": "cause-fall-into-hell",
+     "grounds": "fused compound verb",
+     "morph": "3pl.act-pres"
+    },
+    {
+     "surface": "tāṃścāhaṃ",
+     "gloss": "those-and-i",
+     "grounds": "fused pronoun",
+     "morph": "m.acc.pl + pron.1sg.nom"
+    },
+    {
+     "surface": "āsurīṣveva",
+     "gloss": "in-asuri-indeed",
+     "grounds": "locative plural feminine with eva",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "yoniṣu",
+     "gloss": "wombs",
+     "grounds": "locative plural feminine",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "kṣipāmi",
+     "gloss": "i-cast",
+     "grounds": "first person singular present active",
+     "morph": "1sg.act-pres"
+    },
+    {
+     "surface": "20",
+     "gloss": "twenty",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the result of asuri birth and hatred?",
+   "premises": [
+    "Asuri-born deluded ones do not reach the Lord.",
+    "They go to the lowest destination.",
+    "Hating ones act harmfully and cause hell-fall."
+   ],
+   "inference": "Asuri birth and hatred lead to lowest destination and hell-fall.",
+   "uncertainties": [
+    "Fused tokens are kept as single rows."
+   ],
+   "plain_english": "Born in asuri wombs, deluded ones fail to reach me and go to the lowest state; hating ones act harmfully and cause hell-fall, so I cast them into asuri wombs."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.adj"
+    },
+    {
+     "surface": "narakasyedaṃ",
+     "gloss": "of-hell-this",
+     "grounds": "fused genitive and pronoun",
+     "morph": "n.gen.sg + n.nom.sg.pron"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "gate",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāśanamātmanaḥ",
+     "gloss": "destruction-of-self",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg + m.gen.sg"
+    },
+    {
+     "surface": "kāmaḥ",
+     "gloss": "desire",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krodhastathā",
+     "gloss": "anger-and-so",
+     "grounds": "fused nominative and indeclinable",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "lobhastasmādetattrayaṃ",
+     "gloss": "greed-therefore-this-triad",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-abandon",
+     "grounds": "third person singular optative active",
+     "morph": "3sg.act.opt"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmādikaṃ",
+     "gloss": "desire-and-the-rest",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.adj"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "narakasyaiva",
+     "gloss": "of-hell-indeed",
+     "grounds": "genitive singular neuter with eva",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dvāram",
+     "gloss": "gate",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasmādetattyajet",
+     "gloss": "therefore-this-abandon",
+     "grounds": "fused compound",
+     "morph": "(indecl.) + n.acc.sg + 3sg.act.opt"
+    },
+    {
+     "surface": "21",
+     "gloss": "twenty-one",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the three gates of hell?",
+   "premises": [
+    "Desire, anger, and greed are threefold.",
+    "They are the gate of hell and self-destruction.",
+    "Therefore one should abandon this triad."
+   ],
+   "inference": "Desire, anger, and greed form the threefold gate of hell, so they should be abandoned.",
+   "uncertainties": [
+    "Fused tokens are kept as single rows."
+   ],
+   "plain_english": "Desire, anger, and greed are the threefold gate of hell and destruction of self; therefore one should abandon this triad."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "etairviyuktaḥ",
+     "gloss": "freed-from-these",
+     "grounds": "nominative singular masculine participle",
+     "morph": "m.nom.sg.participle"
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "kaunteya",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tamodvāraistribhirnaraḥ",
+     "gloss": "man-from-three-dark-gates",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg + loc.pl.n"
+    },
+    {
+     "surface": "ācaratyātmanaḥ",
+     "gloss": "practices-for-self",
+     "grounds": "fused verb and genitive",
+     "morph": "3sg.act-pres + m.gen.sg"
+    },
+    {
+     "surface": "śreyastato",
+     "gloss": "good-then",
+     "grounds": "fused comparative and indeclinable",
+     "morph": "n.acc.sg.adj + (indecl.)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "third person singular present active",
+     "morph": "3sg.act-pres"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg.adj"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "destination",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What happens when one is freed from the three dark gates?",
+   "premises": [
+    "Freed from these three dark gates, a man practices for self.",
+    "Then he goes to the supreme destination."
+   ],
+   "inference": "Freedom from the three dark gates leads to the supreme destination.",
+   "uncertainties": [
+    "Fused tokens are kept as single rows."
+   ],
+   "plain_english": "Freed from these three dark gates, O Kaunteya, a man practices for self and then goes to the supreme destination."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caitat",
+     "gloss": "and-this",
+     "grounds": "fused indeclinable and pronoun",
+     "morph": "(indecl.) + n.nom.sg.pron"
+    },
+    {
+     "surface": "puruṣavacanamityanādaraṇīyam",
+     "gloss": "human-saying-thus-disregardable",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "apitu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anādi",
+     "gloss": "beginningless",
+     "grounds": "nominative singular neuter adjective",
+     "morph": "n.nom.sg.adj"
+    },
+    {
+     "surface": "śāstramatra",
+     "gloss": "scripture-here",
+     "grounds": "fused nominative and indeclinable",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "pramāṇam-ityucyate",
+     "gloss": "authority-thus-is-said",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg + (indecl.) + 3sg.pass-pres"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative singular masculine relative",
+     "morph": "m.nom.sg.rel"
+    },
+    {
+     "surface": "śāstravidhimutsṛjya",
+     "gloss": "abandoning-scriptural-rule",
+     "grounds": "fused participle",
+     "morph": "m.nom.sg.participle"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "acts",
+     "grounds": "third person singular present middle",
+     "morph": "3sg.mid-pres"
+    },
+    {
+     "surface": "kāmakārataḥ",
+     "gloss": "from-desire",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg.pron"
+    },
+    {
+     "surface": "siddhimavāpnoti",
+     "gloss": "attains-perfection",
+     "grounds": "fused verb",
+     "morph": "3sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg.adj"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "destination",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Why should scripture be treated as authority?",
+   "premises": [
+    "This is not merely a human saying to disregard.",
+    "Scripture here is beginningless authority.",
+    "One who abandons scriptural rule and acts from desire attains neither perfection, happiness, nor supreme destination."
+   ],
+   "inference": "Scripture is beginningless authority, and abandoning it for desire yields no perfection, happiness, or supreme destination.",
+   "uncertainties": [
+    "Fused tokens are kept as single rows."
+   ],
+   "plain_english": "This is not a human saying to disregard; scripture here is beginningless authority. One who abandons scriptural rule and acts from desire attains neither perfection, happiness, nor supreme destination."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "tasmācchāstraṃ",
+     "gloss": "therefore-scripture",
+     "grounds": "fused indeclinable and nominative",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "authority",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "for-you",
+     "grounds": "dative singular",
+     "morph": "pron.2sg.dat"
+    },
+    {
+     "surface": "kāryākāryavyavasthitau",
+     "gloss": "in-determining-action-and-inaction",
+     "grounds": "fused compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śāstravidhānoktaṃ",
+     "gloss": "scripturally-prescribed",
+     "grounds": "fused compound adjective",
+     "morph": "n.acc.sg.adj"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kartumihārhasi",
+     "gloss": "should-do-here",
+     "grounds": "fused infinitive and verb",
+     "morph": "inf + 2sg.act-pres"
+    },
+    {
+     "surface": "śāstravidhiṃ",
+     "gloss": "scriptural-rule",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tyajataḥ",
+     "gloss": "abandoning",
+     "grounds": "genitive singular masculine participle",
+     "morph": "m.gen.sg.participle"
+    },
+    {
+     "surface": "svamanīṣayaiva",
+     "gloss": "by-own-opinion-indeed",
+     "grounds": "fused instrumental and eva",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kāryākāryavicāraṃ",
+     "gloss": "deliberation-on-action-and-inaction",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurvataḥ",
+     "gloss": "doing",
+     "grounds": "genitive singular masculine participle",
+     "morph": "m.gen.sg.participle"
+    },
+    {
+     "surface": "pratyuta",
+     "gloss": "on-the-contrary",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakapātaḥ",
+     "gloss": "fall-into-hell",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmādātmabuddhyā",
+     "gloss": "therefore-by-self-intellect",
+     "grounds": "fused instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kāryākāryavyavasthāṃ",
+     "gloss": "determination-of-action-and-inaction",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārṣīriti",
+     "gloss": "do-thus",
+     "grounds": "fused optative and indeclinable",
+     "morph": "2sg.act.opt + (indecl.)"
+    },
+    {
+     "surface": "tātparyam",
+     "gloss": "purport",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "24",
+     "gloss": "twenty-four",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one determine action and inaction?",
+   "premises": [
+    "Scripture is authority for you in determining action and inaction.",
+    "Having known this, you should do scripturally prescribed action here.",
+    "Abandoning scriptural rule and deliberating by one's own opinion leads to fall into hell.",
+    "Therefore do not determine action and inaction by self-intellect."
+   ],
+   "inference": "Scriptural authority, not self-intellect, determines action and inaction.",
+   "uncertainties": [
+    "Fused tokens are kept as single rows."
+   ],
+   "plain_english": "Therefore scripture is authority for you in determining action and inaction; having known this, you should do scripturally prescribed action here. Abandoning scriptural rule and deliberating by one's own opinion leads to fall into hell, so do not determine action and inaction by self-intellect; this is the purport."
+  }
+ ]
+}
