@@ -1,0 +1,803 @@
+{
+ "song": "gita-a13",
+ "items": [
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtapṛthagbhāvamekasthamunapaśyati",
+     "gloss": "sees-distinct-beings-unified",
+     "grounds": "fused compound-verb form",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "demonstrative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "expansion",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "sampadyate",
+     "gloss": "becomes",
+     "grounds": "verb of attainment",
+     "morph": "verb.3.sg.mid-pres"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does unified seeing of distinct beings become brahman?",
+   "premises": [
+    "unified seeing of distinct beings",
+    "leads to brahman expansion",
+    "then attainment follows"
+   ],
+   "inference": "Unified perception transforms into brahman.",
+   "uncertainties": [
+    "fused verb parsing"
+   ],
+   "plain_english": "When one sees distinct beings as unified, then brahman is attained."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "anāditvānnirguṇatvātparamātmā'yamavyayaḥ",
+     "gloss": "beginningless-qualityless-supreme-self-imperishable",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śarīrastho'pi",
+     "gloss": "though-in-body",
+     "grounds": "locative compound",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "O-Kaunteya",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "acts",
+     "grounds": "verb of action",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "stained",
+     "grounds": "passive verb",
+     "morph": "verb.3.sg.pass-pres"
+    }
+   ],
+   "question": "Why does the supreme self remain unstained in the body?",
+   "premises": [
+    "supreme self is beginningless",
+    "supreme self is qualityless",
+    "body residence does not stain"
+   ],
+   "inference": "The imperishable self neither acts nor is stained.",
+   "uncertainties": [
+    "fused compound segmentation"
+   ],
+   "plain_english": "The beginningless, qualityless supreme self, though in the body, neither acts nor is stained."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvagataṃ",
+     "gloss": "all-pervading",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "saukṣmyādākāśaṃ",
+     "gloss": "space-by-subtlety",
+     "grounds": "ablative compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "nopalipyate",
+     "gloss": "not-stained",
+     "grounds": "negative passive verb",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "sarvatrāvasthito",
+     "gloss": "situated-everywhere",
+     "grounds": "participle adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tathātmā",
+     "gloss": "so-self",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "nopalipyate",
+     "gloss": "not-stained",
+     "grounds": "negative passive verb",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "vistīrṇatvena",
+     "gloss": "by-expansion",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "sarvavyāptyā",
+     "gloss": "by-all-pervasion",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtānāṃ",
+     "gloss": "of-beings",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "pṛthaktāṃ-bhinnatām",
+     "gloss": "distinctness-difference",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "ātmanyeva",
+     "gloss": "in-self-only",
+     "grounds": "locative emphatic",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "verb of perception",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "ātmana",
+     "gloss": "self",
+     "grounds": "genitive/ablative noun",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "coditāṃ",
+     "gloss": "impelled",
+     "grounds": "past participle",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "manyate",
+     "gloss": "thinks",
+     "grounds": "verb of cognition",
+     "morph": "verb.3.sg.mid-pres"
+    },
+    {
+     "surface": "tadāpi",
+     "gloss": "then-also",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakartṛtvānna",
+     "gloss": "not-by-all-agency",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "lepabhāk",
+     "gloss": "stained",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yato'sau",
+     "gloss": "because-that",
+     "grounds": "causal pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramātmaiva",
+     "gloss": "supreme-self-only",
+     "grounds": "nominative emphatic",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śarīrastho'pi",
+     "gloss": "though-in-body",
+     "grounds": "locative compound",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate-ākāśavat",
+     "gloss": "stained-like-space",
+     "grounds": "fused simile",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "33",
+     "gloss": "thirty-three",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the self remain unstained like space?",
+   "premises": [
+    "space is unstained by subtlety",
+    "self pervades all beings",
+    "supreme self is not stained"
+   ],
+   "inference": "The self remains unstained despite bodily residence.",
+   "uncertainties": [
+    "fused simile parsing"
+   ],
+   "plain_english": "As space remains unstained, so the self remains unstained even in the body."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśayatyekaḥ",
+     "gloss": "one-illuminates",
+     "grounds": "verb with subject",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "kṛtsnaṃ",
+     "gloss": "whole",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "lokamimaṃ",
+     "gloss": "this-world",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "raviḥ",
+     "gloss": "sun",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kṣetrī",
+     "gloss": "field-knower",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtsnaṃ",
+     "gloss": "whole",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "prakāśayati",
+     "gloss": "illuminates",
+     "grounds": "verb of manifestation",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "bhārata",
+     "gloss": "O-Bharata",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "numeral adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "paramātmā",
+     "gloss": "supreme-self",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kathamanekāni",
+     "gloss": "how-many",
+     "grounds": "interrogative compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣetrāṇi",
+     "gloss": "fields",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "vyāpnoti",
+     "gloss": "pervades",
+     "grounds": "verb of pervasion",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "?-ityāśaṅkā",
+     "gloss": "doubt-thus",
+     "grounds": "fused interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasiddhena",
+     "gloss": "well-known",
+     "grounds": "instrumental adjective",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "raviṇā",
+     "gloss": "sun",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "dṛṣṭāntenāpākṛtā",
+     "gloss": "removed-by-example",
+     "grounds": "instrumental compound",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "kṛtsnaṃ",
+     "gloss": "whole",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kṣetraṃ-carācarāṇi",
+     "gloss": "field-moving-still",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṣetrāṇītyarthaḥ",
+     "gloss": "fields-thus-meaning",
+     "grounds": "compound gloss",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "34",
+     "gloss": "thirty-four",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can one supreme self pervade many fields?",
+   "premises": [
+    "sun illuminates one world",
+    "supreme self illuminates all",
+    "sun example removes doubt"
+   ],
+   "inference": "One self pervades all fields like the sun.",
+   "uncertainties": [
+    "fused gloss tokens"
+   ],
+   "plain_english": "As the sun illuminates the world, the supreme self illuminates all fields."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "kṣetrakṣetrajñayorevamantaraṃ",
+     "gloss": "difference-between-field-and-knower",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "jñānacakṣuṣā",
+     "gloss": "knowledge-eye",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "bhūtaprakṛtimokṣaṃ",
+     "gloss": "release-from-nature",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "viduryānti",
+     "gloss": "know-go",
+     "grounds": "fused verb",
+     "morph": "verb.3.pl.act-pres"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "evamadhyāyena",
+     "gloss": "thus-chapter",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "said",
+     "grounds": "relative participle",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "knowable",
+     "grounds": "gerundive adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kṣetrakṣetrajñayorantaraṃ",
+     "gloss": "difference-field-knower",
+     "grounds": "genitive compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhūtaprakṛteśca",
+     "gloss": "and-nature",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "svalpātpariṇāmadharmatvānmocanaṃ",
+     "gloss": "release-from-small-change",
+     "grounds": "ablative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "jñānalakṣaṇena",
+     "gloss": "knowledge-marked",
+     "grounds": "instrumental compound",
+     "morph": "adj.inst.sg.n"
+    },
+    {
+     "surface": "sarvatrāpratihatenālaukikena",
+     "gloss": "everywhere-unobstructed-transcendent",
+     "grounds": "instrumental compound",
+     "morph": "adj.inst.sg.n"
+    },
+    {
+     "surface": "cakṣuṣā",
+     "gloss": "eye",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "paśyanti",
+     "gloss": "see",
+     "grounds": "verb of perception",
+     "morph": "verb.3.pl.act-pres"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "vāsudevatāṃ",
+     "gloss": "Vasudeva",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "attaining",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "labhanta",
+     "gloss": "obtain",
+     "grounds": "verb of attainment",
+     "morph": "verb.3.pl.mid-pres"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śivamiti",
+     "gloss": "Shiva-thus",
+     "grounds": "fused quotation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "Shiva",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "35",
+     "gloss": "thirty-five",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who attains supreme Shiva through knowledge?",
+   "premises": [
+    "knowers see field-knower difference",
+    "they are released from nature",
+    "transcendent knowledge leads to Shiva"
+   ],
+   "inference": "Those who see with knowledge attain supreme Shiva.",
+   "uncertainties": [
+    "fused verb parsing"
+   ],
+   "plain_english": "Those who know the difference between field and knower attain supreme Shiva."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pumānprakṛtirityeṣa",
+     "gloss": "man-nature-thus-this",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saṃmūḍhacetasām",
+     "gloss": "confused-minds",
+     "grounds": "genitive compound",
+     "morph": "adj.gen.pl.m"
+    },
+    {
+     "surface": "paripūrṇāstu",
+     "gloss": "complete",
+     "grounds": "adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "manyante",
+     "gloss": "think",
+     "grounds": "verb of cognition",
+     "morph": "verb.3.pl.mid-pres"
+    },
+    {
+     "surface": "nirmalātmamayaṃ",
+     "gloss": "pure-self-filled",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "13",
+     "gloss": "thirteen",
+     "grounds": "chapter number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmaheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "composed-by-Abhinavagupta",
+     "grounds": "locative compound",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "śrīmadbhagavadgītārthasaṃgrahe",
+     "gloss": "in-Gita-meaning-gathering",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "trayodaśo'dhyāyaḥ",
+     "gloss": "thirteenth-chapter",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "13",
+     "gloss": "thirteen",
+     "grounds": "chapter number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the summary of the thirteenth chapter?",
+   "premises": [
+    "summary verse states difference",
+    "confused minds see distinction",
+    "complete see pure self world"
+   ],
+   "inference": "The chapter gathers the distinction between person and nature.",
+   "uncertainties": [
+    "fused compound parsing"
+   ],
+   "plain_english": "Here is the summary verse: confused minds see person and nature as distinct, while the complete see the world as pure self."
+  }
+ ]
+}

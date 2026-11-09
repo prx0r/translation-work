@@ -1,0 +1,479 @@
+{
+ "song": "gita-a13",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "object of knowledge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yattatpravakṣyāmi",
+     "gloss": "that-i-shall-declare",
+     "grounds": "future declaration",
+     "morph": "1.sg.act-fut root pravac"
+    },
+    {
+     "surface": "yajjñātvā'mṛtamaśnute",
+     "gloss": "having-known-which-one-eats-immortality",
+     "grounds": "knowledge leading to immortality",
+     "morph": "3.sg.mid-pres root aś"
+    },
+    {
+     "surface": "anādimatparaṃ",
+     "gloss": "beginningless-supreme",
+     "grounds": "Brahman qualifier",
+     "morph": "adj"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "Brahman",
+     "grounds": "supreme reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sattannāsaducyate",
+     "gloss": "called-neither-existent-nor-nonexistent",
+     "grounds": "transcends sat and asat",
+     "morph": "3.sg.pass-pres root vac"
+    }
+   ],
+   "question": "What is the beginningless supreme Brahman to be known?",
+   "premises": [
+    "Brahman is beginningless and supreme",
+    "it is neither existent nor nonexistent",
+    "knowing it brings immortality"
+   ],
+   "inference": "The knowable Brahman transcends ordinary existence categories.",
+   "uncertainties": [
+    "compound parsing of yattatpravakṣyāmi"
+   ],
+   "plain_english": "I shall declare that which is to be known, by knowing which one eats immortality: the beginningless supreme Brahman, called neither existent nor nonexistent."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "omnipresence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṇipādaṃ",
+     "gloss": "hands-and-feet",
+     "grounds": "limbs everywhere",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatsarvato'kṣiśiromukham",
+     "gloss": "that-with-eyes-heads-mouths-everywhere",
+     "grounds": "all sense organs everywhere",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "omnipresence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutimalloke",
+     "gloss": "hearing-in-the-world",
+     "grounds": "audition everywhere",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvamāvṛttya",
+     "gloss": "having-pervaded-all",
+     "grounds": "pervasion",
+     "morph": "gerund root vṛ"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "abiding",
+     "morph": "3.sg.act-pres root sthā"
+    }
+   ],
+   "question": "How does the supreme pervade all directions and organs?",
+   "premises": [
+    "it has hands and feet everywhere",
+    "it has eyes heads and mouths everywhere",
+    "it pervades all and stands"
+   ],
+   "inference": "The supreme is omnipresent through all organs and directions.",
+   "uncertainties": [
+    "compound boundary in tatsarvato'kṣiśiromukham"
+   ],
+   "plain_english": "Everywhere are its hands and feet; everywhere its eyes, heads, and mouths; everywhere hearing in the world; having pervaded all, it stands."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "sarvendriyaguṇābhāsaṃ",
+     "gloss": "reflection-of-all-sense-qualities",
+     "grounds": "appears through senses",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvendriyavivarjitam",
+     "gloss": "devoid-of-all-senses",
+     "grounds": "sense-transcendence",
+     "morph": "adj"
+    },
+    {
+     "surface": "asaktaṃ",
+     "gloss": "unattached",
+     "grounds": "non-attachment",
+     "morph": "adj"
+    },
+    {
+     "surface": "sarvabhṛccaiva",
+     "gloss": "and-bearer-of-all",
+     "grounds": "supports all",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirguṇaṃ",
+     "gloss": "without-strands",
+     "grounds": "beyond gunas",
+     "morph": "adj"
+    },
+    {
+     "surface": "guṇabhoktṛ",
+     "gloss": "enjoyer-of-strands",
+     "grounds": "experiences gunas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can the supreme both reflect senses and lack senses?",
+   "premises": [
+    "it reflects all sense qualities",
+    "it is devoid of all senses",
+    "it is unattached and bears all"
+   ],
+   "inference": "The supreme manifests through senses while remaining beyond them.",
+   "uncertainties": [
+    "exact case of sarvabhṛccaiva"
+   ],
+   "plain_english": "It is the reflection of all sense qualities, yet devoid of all senses; unattached, bearer of all, without strands, and enjoyer of strands."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "bahirantaśca",
+     "gloss": "and-outside-and-inside",
+     "grounds": "inner and outer presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtānāmacaraṃ",
+     "gloss": "moving-among-beings",
+     "grounds": "immanent motion",
+     "morph": "adj"
+    },
+    {
+     "surface": "carameva",
+     "gloss": "indeed-unmoving",
+     "grounds": "transcendent stillness",
+     "morph": "adj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūkṣmatvāttadavijñeyaṃ",
+     "gloss": "because-of-subtlety-that-unknowable",
+     "grounds": "subtlety hides it",
+     "morph": "adj"
+    },
+    {
+     "surface": "dūrasthaṃ",
+     "gloss": "far",
+     "grounds": "distance",
+     "morph": "adj"
+    },
+    {
+     "surface": "cāntike",
+     "gloss": "and-near",
+     "grounds": "proximity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "referent",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "Why is the supreme both moving and unmoving, far and near?",
+   "premises": [
+    "it is outside and inside beings",
+    "it moves and is unmoving",
+    "it is unknowable yet far and near"
+   ],
+   "inference": "The supreme is immanent and transcendent at once.",
+   "uncertainties": [
+    "compound parsing of sūkṣmatvāttadavijñeyaṃ"
+   ],
+   "plain_english": "It is outside and inside beings, moving and unmoving; because of subtlety it is unknowable, far and near."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "avibhaktaṃ",
+     "gloss": "undivided",
+     "grounds": "unity",
+     "morph": "adj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūteṣu",
+     "gloss": "in-beings",
+     "grounds": "immanence",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "vibhaktamiva",
+     "gloss": "as-if-divided",
+     "grounds": "apparent division",
+     "morph": "adj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "standing",
+     "grounds": "abiding",
+     "morph": "adj"
+    },
+    {
+     "surface": "bhūtabhartṛ",
+     "gloss": "bearer-of-beings",
+     "grounds": "supports beings",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tajjñeyaṃ",
+     "gloss": "that-to-be-known",
+     "grounds": "object of knowledge",
+     "morph": "adj"
+    },
+    {
+     "surface": "grasiṣṇu",
+     "gloss": "devouring",
+     "grounds": "absorbing",
+     "morph": "adj"
+    },
+    {
+     "surface": "prabhaviṣṇu",
+     "gloss": "ruling",
+     "grounds": "sovereignty",
+     "morph": "adj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can the undivided supreme appear divided among beings?",
+   "premises": [
+    "it is undivided in beings",
+    "it appears as if divided",
+    "it bears beings and devours and rules"
+   ],
+   "inference": "The supreme remains one while appearing distributed.",
+   "uncertainties": [
+    "participial force of sthitam"
+   ],
+   "plain_english": "Undivided in beings, yet as if divided, it stands; bearer of beings, that to-be-known, devouring and ruling."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "jyotiṣāmapi",
+     "gloss": "even-of-lights",
+     "grounds": "beyond lights",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tajjyotistamasaḥ",
+     "gloss": "that-light-beyond-darkness",
+     "grounds": "supreme light",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramucyate",
+     "gloss": "is-called-supreme",
+     "grounds": "highest designation",
+     "morph": "3.sg.pass-pres root vac"
+    },
+    {
+     "surface": "jñānajñeyaṃ",
+     "gloss": "knowing-and-known",
+     "grounds": "knowledge and object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānagamyaṃ",
+     "gloss": "reachable-by-knowing",
+     "grounds": "accessible through knowledge",
+     "morph": "adj"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "inner presence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "universal",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "viṣṭhitam",
+     "gloss": "placed",
+     "grounds": "abiding within",
+     "morph": "adj"
+    },
+    {
+     "surface": "anādimatparaṃ",
+     "gloss": "beginningless-supreme",
+     "grounds": "Brahman qualifier",
+     "morph": "adj"
+    },
+    {
+     "surface": "brahma-ityādibhirviśeṣaṇairbrahmasvarūpākṣepānugrāhakaṃ",
+     "gloss": "by-qualifiers-beginning-with-Brahman-indicating-and-supporting-Brahman-nature",
+     "grounds": "qualifiers reveal Brahman",
+     "morph": "adj"
+    },
+    {
+     "surface": "sarvapravādābhihitavijñānāpṛthagbhāvaṃ",
+     "gloss": "non-difference-from-knowledge-stated-by-all-doctrines",
+     "grounds": "unity of knowledges",
+     "morph": "adj"
+    },
+    {
+     "surface": "kathayati",
+     "gloss": "declares",
+     "grounds": "statement",
+     "morph": "3.sg.act-pres root kath"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣaṇāṇi",
+     "gloss": "qualifiers",
+     "grounds": "descriptors",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pūrvameva",
+     "gloss": "already-before",
+     "grounds": "prior explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyākhyātānīti",
+     "gloss": "as-explained",
+     "grounds": "commentary note",
+     "morph": "3.pl.pass-perf root khyā"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "rhetorical question",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "niṣphalayā",
+     "gloss": "fruitless",
+     "grounds": "useless",
+     "morph": "adj"
+    },
+    {
+     "surface": "punaruktyā",
+     "gloss": "by-repetition",
+     "grounds": "redundancy",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "18",
+     "gloss": "eighteen",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why repeat qualifiers already explained for the supreme light?",
+   "premises": [
+    "the supreme light is beyond darkness",
+    "it is knowing and known and reachable by knowing",
+    "qualifiers beginning with Brahman support Brahman's nature"
+   ],
+   "inference": "The verse gathers Brahman's nature through non-different knowledge.",
+   "uncertainties": [
+    "long compound segmentation in brahma-ityādibhir..."
+   ],
+   "plain_english": "That light beyond darkness is called supreme; knowing and known, reachable by knowing, it abides in the heart of all; beginningless supreme Brahman, by qualifiers beginning with Brahman indicating and supporting Brahman's nature, non-different from knowledge stated by all doctrines, is declared. These qualifiers were already explained; what fruitless repetition?"
+  }
+ ]
+}
