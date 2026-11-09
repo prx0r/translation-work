@@ -45,64 +45,89 @@ def stage_parse(work, song):
     return json.loads(wt.read_text())
 
 
-def stage_seed_triple(work, song, group=24):
+def stage_seed_triple(work, song, group=24, token_budget=0):
     wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
-    q = load_q(); have = {t['id'] for t in q}; now = time.strftime('%Y-%m-%dT%H:%M:%S')
-    pending_verses = [e['verse'] for e in wt
-                      if not ((RUNS / f'{song}-gloss-v{e["verse"]:02d}' / 'gloss.json').exists()
-                              and (RUNS / f'{song}-cm-v{e["verse"]:02d}' / 'cm.json').exists()
-                              and (RUNS / f'{song}-am-v{e["verse"]:02d}' / 'am.json').exists())]
-    new = 0
-    for i in range(0, len(pending_verses), group):
-        grp = pending_verses[i:i + group]
-        tid = f'{song}-triple-v{grp[0]:02d}'
-        if tid in have:
-            continue
-        q.append({'id': tid, 'kind': 'tal_triple',
-                  'args': {'work': work, 'song': song, 'verses': grp},
-                  'status': 'pending', 'attempts': 0, 'max_attempts': 6,
-                  'worker': '', 'note': '', 'created': now, 'updated': now})
-        new += 1
-    if new:
-        save_q(q)
-    print(f'seeded {new} triple groups ({len(pending_verses)} verses)')
+    import sys as _sys
+    _sys.path.insert(0, str(ROOT / 'tools'))
+    from beam_swarm import queue_update
+    now = time.strftime('%Y-%m-%dT%H:%M:%S')
+    pending = [(e['verse'], len(e['tokens'])) for e in wt
+               if not ((RUNS / f'{song}-gloss-v{e["verse"]:02d}' / 'gloss.json').exists()
+                       and (RUNS / f'{song}-cm-v{e["verse"]:02d}' / 'cm.json').exists()
+                       and (RUNS / f'{song}-am-v{e["verse"]:02d}' / 'am.json').exists())]
+    groups = []
+    if token_budget and token_budget > 0:
+        # Pack verses by source-token budget, not verse count: prose-heavy
+        # units (40+ tokens) blow the model's output ceiling in 24-verse
+        # windows (proven: 21-unit Gita windows fail, 6-span/≈180tok pass).
+        cur, acc = [], 0
+        for v, nt in pending:
+            if cur and acc + nt > token_budget:
+                groups.append([x for x, _ in cur]); cur, acc = [], 0
+            cur.append((v, nt)); acc += nt
+        if cur:
+            groups.append([x for x, _ in cur])
+    else:
+        vs = [v for v, _ in pending]
+        groups = [vs[i:i + group] for i in range(0, len(vs), group)]
+
+    def _add(q):
+        have = {t['id'] for t in q}
+        new = 0
+        for grp in groups:
+            tid = f'{song}-triple-v{grp[0]:02d}'
+            if tid in have:
+                continue
+            q.append({'id': tid, 'kind': 'tal_triple',
+                      'args': {'work': work, 'song': song, 'verses': grp},
+                      'status': 'pending', 'attempts': 0, 'max_attempts': 6,
+                      'worker': '', 'note': '', 'created': now, 'updated': now})
+            new += 1
+        return q, new
+    new = queue_update(_add)
+    print(f'seeded {new} triple groups ({len(pending)} verses)')
 
 
 def stage_seed(work, song, am_ctx=True):
     wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
-    q = load_q(); have = {t['id'] for t in q}
+    import sys as _sys
+    _sys.path.insert(0, str(ROOT / 'tools'))
+    from beam_swarm import queue_update
     now = time.strftime('%Y-%m-%dT%H:%M:%S')
-    new = 0
     ahn = work.split('tantraloka-a')[-1]
-    for e in wt:
-        v = e['verse']
-        if not (RUNS / f'{song}-gloss-v{v:02d}' / 'gloss.json').exists():
-            tid = f'{song}-gloss-v{v:02d}'
-            if tid not in have:
-                q.append({'id': tid, 'kind': 'tal_gloss', 'args': {
-                    'work': work, 'song': song, 'verse': v, 'ahnika': ahn,
-                    'context': ''}, 'status': 'pending', 'attempts': 0,
-                    'max_attempts': 3, 'worker': '', 'note': '', 'created': now, 'updated': now})
-                new += 1
-        elif not (RUNS / f'{song}-cm-v{v:02d}' / 'cm.json').exists():
-            tid = f'{song}-cm-v{v:02d}'
-            if tid not in have:
-                q.append({'id': tid, 'kind': 'tal_cm', 'args': {
-                    'work': work, 'song': song, 'verse': v}, 'status': 'pending',
-                    'attempts': 0, 'max_attempts': 3, 'worker': '', 'note': '',
-                    'created': now, 'updated': now})
-                new += 1
-        elif am_ctx and not (RUNS / f'{song}-am-v{v:02d}' / 'am.json').exists():
-            tid = f'{song}-am-v{v:02d}'
-            if tid not in have:
-                prev = ' '.join(t.get('quick_gloss', '') for t in e['tokens'])
-                q.append({'id': tid, 'kind': 'tal_am', 'args': {
-                    'work': work, 'song': song, 'verse': v, 'prev': prev},
-                    'status': 'pending', 'attempts': 0, 'max_attempts': 3,
-                    'worker': '', 'note': '', 'created': now, 'updated': now})
-                new += 1
-    if new:
-        save_q(q)
+
+    def _add(q):
+        have = {t['id'] for t in q}
+        new = 0
+        for e in wt:
+            v = e['verse']
+            if not (RUNS / f'{song}-gloss-v{v:02d}' / 'gloss.json').exists():
+                tid = f'{song}-gloss-v{v:02d}'
+                if tid not in have:
+                    q.append({'id': tid, 'kind': 'tal_gloss', 'args': {
+                        'work': work, 'song': song, 'verse': v, 'ahnika': ahn,
+                        'context': ''}, 'status': 'pending', 'attempts': 0,
+                        'max_attempts': 3, 'worker': '', 'note': '', 'created': now, 'updated': now})
+                    new += 1
+            elif not (RUNS / f'{song}-cm-v{v:02d}' / 'cm.json').exists():
+                tid = f'{song}-cm-v{v:02d}'
+                if tid not in have:
+                    q.append({'id': tid, 'kind': 'tal_cm', 'args': {
+                        'work': work, 'song': song, 'verse': v}, 'status': 'pending',
+                        'attempts': 0, 'max_attempts': 3, 'worker': '', 'note': '',
+                        'created': now, 'updated': now})
+                    new += 1
+            elif am_ctx and not (RUNS / f'{song}-am-v{v:02d}' / 'am.json').exists():
+                tid = f'{song}-am-v{v:02d}'
+                if tid not in have:
+                    prev = ' '.join(t.get('quick_gloss', '') for t in e['tokens'])
+                    q.append({'id': tid, 'kind': 'tal_am', 'args': {
+                        'work': work, 'song': song, 'verse': v, 'prev': prev},
+                        'status': 'pending', 'attempts': 0, 'max_attempts': 3,
+                        'worker': '', 'note': '', 'created': now, 'updated': now})
+                    new += 1
+        return q, new
+    new = queue_update(_add)
     print(f'seeded {new} tasks')
 
 
@@ -223,6 +248,24 @@ def main():
         if not a.loop or waited >= a.max_wait:
             print('incomplete — rerun with --loop (and workers running)')
             return 1
+        # Deadlock guard: coverage incomplete but nothing claimable for this
+        # song (all remaining tasks failed-at-max or stale-claimed). Sleeping
+        # and re-seeding cannot help — the seeder skips exhausted ids by
+        # design. Exit for the assessor (retest protocol or hand-draft)
+        # instead of spinning until max-wait.
+        _sys_path = str(ROOT / 'tools')
+        if _sys_path not in sys.path:
+            sys.path.insert(0, _sys_path)
+        from beam_swarm import load_q as _load_q, claimable as _claimable
+        _song_tasks = [t for t in _load_q()
+                       if t.get('args', {}).get('song') == a.song
+                       and t.get('kind') in ('tal_triple', 'tal_gloss', 'tal_cm', 'tal_am')]
+        _driveable = [t['id'] for t in _song_tasks if _claimable(t)]
+        if not _driveable and _song_tasks:
+            _dead = sorted(t['id'] for t in _song_tasks if t.get('status') == 'failed')
+            print(f'{a.song}: DEADLOCK — no claimable tasks, coverage incomplete.')
+            print(f'  assessor needed: retest or hand-draft: {_dead}')
+            return 3
         time.sleep(a.wait); waited += a.wait
         if a.triple:
             stage_seed_triple(a.work, a.song)

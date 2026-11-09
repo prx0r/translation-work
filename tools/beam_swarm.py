@@ -159,6 +159,16 @@ def _locked():
             fh.close()
     return cm()
 
+def queue_update(fn):
+    """Atomic read-modify-write: fn(tasks) -> (tasks, result). All seeder and
+    driver mutations MUST go through here — plain load_q/save_q pairs lose
+    tasks when workers rewrite the queue mid-edit (lost-task incident)."""
+    with _locked():
+        tasks = load_q()
+        tasks, result = fn(tasks)
+        save_q(tasks)
+        return result
+
 def load_q() -> list[dict]:
     for _ in range(3):
         if not QFILE.exists():
@@ -992,6 +1002,46 @@ def cmd_bounce(tid: str, note: str) -> None:
     mark(tasks, tid, 'pending', 'bounce: ' + note)
     print(f'{tid} bounced with note for worker retry')
 
+def cmd_retest(tid: str) -> None:
+    """Assessor retest protocol (no manual queue surgery): clone a failed
+    task to <id>-retryN with attempts reset, enriched packet intact (args
+    unchanged), and retire the original as superseded. Refuses non-failed
+    tasks and tasks already at the retry ceiling (hand-draft instead)."""
+    import datetime as _dt
+    def _do(tasks):
+        t = next((x for x in tasks if x['id'] == tid), None)
+        if not t:
+            return tasks, 'unknown task'
+        if t.get('status') != 'failed':
+            return tasks, f'refused: status is {t.get("status")}, not failed'
+        base = tid.split('-retry')[0]
+        n = sum(1 for x in tasks if x['id'] == tid or x['id'].startswith(tid + '-retry'))
+        if n >= 3:
+            return tasks, 'refused: retry ceiling reached — hand-draft, do not retest'
+        nid = f'{tid}-retry{n}'
+        now = _dt.datetime.now().isoformat(timespec='seconds')
+        c = json.loads(json.dumps(t))
+        c.update({'id': nid, 'status': 'pending', 'attempts': 0,
+                  'worker': '', 'created': now, 'updated': now,
+                  'note': (t.get('note', '') + f' | [retest {n}: fresh id, attempts reset, enriched packet kept]')[-400:]})
+        t['note'] = (t.get('note', '') + f' | [superseded by {nid}]')[-400:]
+        tasks.append(c)
+        return tasks, f'retested as {nid}'
+    print(queue_update(_do))
+
+def cmd_supersede(tid: str, why: str = '') -> None:
+    """Retire an exhausted task id (frees the canonical id for reseeding).
+    History is preserved under the -exhausted name; nothing is deleted."""
+    def _do(tasks):
+        t = next((x for x in tasks if x['id'] == tid), None)
+        if not t:
+            return tasks, 'unknown task'
+        if not tid.endswith('-exhausted'):
+            t['id'] = tid + '-exhausted'
+        t['note'] = (t.get('note', '') + f' | [superseded{": " + why if why else ""}]')[-400:]
+        return tasks, f'superseded as {t["id"]}'
+    print(queue_update(_do))
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest='c', required=True)
@@ -1001,6 +1051,8 @@ def main() -> int:
     r = sub.add_parser('review'); r.add_argument('id')
     a = sub.add_parser('approve'); a.add_argument('id')
     b = sub.add_parser('bounce'); b.add_argument('id'); b.add_argument('note')
+    rt = sub.add_parser('retest'); rt.add_argument('id')
+    sp = sub.add_parser('supersede'); sp.add_argument('id'); sp.add_argument('why', nargs='?', default='')
     sub.add_parser('auto-review')
     args = ap.parse_args()
     if args.c == 'init-queue':
@@ -1015,6 +1067,10 @@ def main() -> int:
         cmd_approve(args.id)
     elif args.c == 'bounce':
         cmd_bounce(args.id, args.note)
+    elif args.c == 'retest':
+        cmd_retest(args.id)
+    elif args.c == 'supersede':
+        cmd_supersede(args.id, args.why)
     elif args.c == 'auto-review':
         cmd_auto_review()
     return 0

@@ -457,6 +457,10 @@ def _workers(action: str, target: str = "1") -> dict:
             n = max(1, min(int(target), 5))
         except ValueError:
             return {"error": "start target must be a number 1..5"}
+        # House policy: the systemd harness owns w1..w3 (cap 3). This tool
+        # launches only canonical slots and never exceeds 3 live workers
+        # total — starting w4/w5 by hand alongside the harness created
+        # duplicate-supervisor churn. Need more? Change HARNESS_WORKERS.
         key = _os.environ.get("OPENCODE_GO_KEY", "")
         if not key:
             try:
@@ -480,9 +484,11 @@ def _workers(action: str, target: str = "1") -> dict:
             return {"started": [], "reason": f"beam down, not starting: {msg}"}
         env = dict(_os.environ)
         alive = live()
+        if len(alive) >= 3:
+            return {"started": [], "reason": f"cap 3 reached ({sorted(alive)} live) — stop one first or let the harness manage"}
         started = []
-        for w in ("w1", "w2", "w3", "w4", "w5"):
-            if len(started) >= n:
+        for w in ("w1", "w2", "w3"):
+            if len(started) >= n or len(alive) + len(started) >= 3:
                 break
             if w in alive:
                 continue
