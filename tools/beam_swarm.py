@@ -454,6 +454,13 @@ def run_tal_gloss(t: dict) -> tuple[bool, str]:
     outd.mkdir(parents=True, exist_ok=True)
     (outd / 'gloss.json').write_text(g.model_dump_json(indent=1, ensure_ascii=False))
     (outd / 'raw.txt').write_text(text)
+    # Canonical output path (content-addressed by song/kind/verse, not attempt):
+    # retests (-retryN) must land where coverage/assemble look, or successful
+    # retries go invisible and the song can never complete. Task-id dir above
+    # keeps the audit trail.
+    cdir = ROOT / 'process' / 'beam' / 'runs' / f'{song}-gloss-v{verse:02d}'
+    cdir.mkdir(parents=True, exist_ok=True)
+    (cdir / 'gloss.json').write_text(g.model_dump_json(indent=1, ensure_ascii=False))
     return True, f'{len(g.rows)} glosses'
 
 
@@ -503,6 +510,9 @@ def run_tal_cm(t: dict) -> tuple[bool, str]:
     outd.mkdir(parents=True, exist_ok=True)
     (outd / 'cm.json').write_text(c.model_dump_json(indent=1, ensure_ascii=False))
     (outd / 'raw.txt').write_text(text)
+    cdir = ROOT / 'process' / 'beam' / 'runs' / f'{song}-cm-v{verse:02d}'
+    cdir.mkdir(parents=True, exist_ok=True)
+    (cdir / 'cm.json').write_text(c.model_dump_json(indent=1, ensure_ascii=False))
     return True, f'{len(c.rows)} CM rows'
 
 
@@ -731,6 +741,9 @@ def run_tal_am(t: dict) -> tuple[bool, str]:
     outd.mkdir(parents=True, exist_ok=True)
     (outd / 'am.json').write_text(d.model_dump_json(indent=1, ensure_ascii=False))
     (outd / 'raw.txt').write_text(text)
+    cdir = ROOT / 'process' / 'beam' / 'runs' / f'{song}-am-v{verse:02d}'
+    cdir.mkdir(parents=True, exist_ok=True)
+    (cdir / 'am.json').write_text(d.model_dump_json(indent=1, ensure_ascii=False))
     return True, f'{len(d.premises)} premises'
 
 
