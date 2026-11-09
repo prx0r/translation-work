@@ -1,0 +1,395 @@
+{
+ "song": "gita-a01",
+ "items": [
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "ta",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ime'vasthitā",
+     "gloss": "these-standing",
+     "grounds": "sandhi ime+avasthitā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yuddhe",
+     "gloss": "in-battle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prāṇāṃstyaktvā",
+     "gloss": "lives-abandoning",
+     "grounds": "sandhi prāṇān+tyaktvā",
+     "morph": "acc.pl+gerund"
+    },
+    {
+     "surface": "dhanāni",
+     "gloss": "wealth",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācāryāḥ",
+     "gloss": "teachers",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pitaraḥ",
+     "gloss": "fathers",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "putrāstathaiva",
+     "gloss": "sons-and-so",
+     "grounds": "sandhi putrāḥ+tathā+eva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitāmahāḥ",
+     "gloss": "grandfathers",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which kin stand arrayed in battle with lives and wealth at stake?",
+   "premises": [
+    "kin stand arrayed in battle",
+    "lives and wealth are at stake",
+    "teachers fathers sons and grandfathers are named"
+   ],
+   "inference": "The verse enumerates the kin whose possible loss makes battle grievous.",
+   "uncertainties": [
+    "ta is read as demonstrative plural without resolving sandhi"
+   ],
+   "plain_english": "Those standing in battle, abandoning lives and wealth, are teachers, fathers, sons, and grandfathers."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "mātulāḥ",
+     "gloss": "maternal-uncles",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śvaśurāḥ",
+     "gloss": "fathers-in-law",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pautrāḥ",
+     "gloss": "grandsons",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syālāḥ",
+     "gloss": "brothers-in-law",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sambandhinastathā",
+     "gloss": "relatives-and-so",
+     "grounds": "sandhi sambandhinaḥ+tathā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "etānna",
+     "gloss": "these-not",
+     "grounds": "sandhi etān+na",
+     "morph": "m.acc.pl+(indecl.)"
+    },
+    {
+     "surface": "hantumicchāmi",
+     "gloss": "wish-to-kill",
+     "grounds": "sandhi hantum+icchāmi",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "ghnato'pi",
+     "gloss": "even-of-slayer",
+     "grounds": "sandhi ghnataḥ+api",
+     "morph": "m.gen.sg+(indecl.)"
+    },
+    {
+     "surface": "madhusūdana",
+     "gloss": "Madhusudana",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "exclamation",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trailokyarājyasya",
+     "gloss": "of-three-worlds-kingdom",
+     "grounds": "genitive singular compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "hetoḥ",
+     "gloss": "for-sake",
+     "grounds": "ablative or genitive",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kimu",
+     "gloss": "how-much-more",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahīkṛte",
+     "gloss": "for-earth",
+     "grounds": "dative or ablative sense",
+     "morph": "f.dat/abl.sg"
+    },
+    {
+     "surface": "amī",
+     "gloss": "these",
+     "grounds": "demonstrative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ācāryādayaḥ",
+     "gloss": "teachers-and-so",
+     "grounds": "compound with ādi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣabuddhyā",
+     "gloss": "by-distinctive-intellect",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "buddhāvāropyamāṇā",
+     "gloss": "being-attributed-to-intellect",
+     "grounds": "sandhi buddhau+āropyamāṇā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vadhakarmatayāvaśyaṃ",
+     "gloss": "by-killing-action-necessarily",
+     "grounds": "sandhi vadhakarmatayā+avaśyaṃ",
+     "morph": "f.instr.sg+(indecl.)"
+    },
+    {
+     "surface": "pāpadāyinaḥ",
+     "gloss": "sin-giving",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogasukhādidṛṣṭārthametadyuddhaṃ",
+     "gloss": "this-war-for-seen-ends",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "passive present",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhyā",
+     "gloss": "by-intellect",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "kriyamāṇaṃ",
+     "gloss": "being-done",
+     "grounds": "present participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yuddheṣvavadhyahananādi",
+     "gloss": "in-wars-killing-of-non-slayable-etc",
+     "grounds": "fused compound",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "tadavaśyaṃ",
+     "gloss": "that-necessarily",
+     "grounds": "sandhi tad+avaśyaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātakakārīti",
+     "gloss": "sin-doer-thus",
+     "grounds": "sandhi pātakakārī+iti",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "pūrvapakṣābhiprāyaḥ",
+     "gloss": "opponent's-intent",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ata",
+     "gloss": "hence",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svadharmamātratayaiva",
+     "gloss": "by-own-duty-alone",
+     "grounds": "sandhi svadharmamātratayā+eva",
+     "morph": "f.instr.sg+(indecl.)"
+    },
+    {
+     "surface": "karmāṇyanutiṣṭha",
+     "gloss": "perform-actions",
+     "grounds": "imperative plural",
+     "morph": "2.pl.act-imp"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣadhiyā-ityuttaraṃ",
+     "gloss": "by-distinctive-intellect-thus-answer",
+     "grounds": "fused hyphenated compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dāsyate",
+     "gloss": "will-give",
+     "grounds": "future",
+     "morph": "3.sg.act-fut"
+    },
+    {
+     "surface": "35",
+     "gloss": "thirty-five",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why refuse to kill even for three-worlds sovereignty or earth?",
+   "premises": [
+    "maternal uncles fathers-in-law grandsons and relatives are named",
+    "killing them is refused even for sovereignty",
+    "the opponent's case attributes sin to distinctive intellect"
+   ],
+   "inference": "The verse refuses kin-slaying and frames the opponent's reasoning before the answer.",
+   "uncertainties": [
+    "some fused compounds are glossed as wholes without internal pada-split"
+   ],
+   "plain_english": "I do not wish to kill these kin, even for three-worlds sovereignty or earth; the opponent's view is stated before the answer."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "nihatya",
+     "gloss": "having-slain",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "dhārtarāṣṭrānnaḥ",
+     "gloss": "Dhartarashtrans-our",
+     "grounds": "sandhi dhārtarāṣṭrān+naḥ",
+     "morph": "m.acc.pl+(pron.)"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prītiḥ",
+     "gloss": "joy",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syājjanārdana",
+     "gloss": "would-be-Janardana",
+     "grounds": "sandhi syāt+janārdana",
+     "morph": "3.sg.opt+(voc.)"
+    },
+    {
+     "surface": "!",
+     "gloss": "exclamation",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What joy could follow from slaying the Dhartarashtrans?",
+   "premises": [
+    "slaying the Dhartarashtrans is posited",
+    "joy is questioned",
+    "Janardana is addressed"
+   ],
+   "inference": "The verse asks what joy could arise from such slaying.",
+   "uncertainties": [
+    "syājjanārdana is glossed as a fused optative plus vocative"
+   ],
+   "plain_english": "Having slain the Dhartarashtrans, what joy would there be, O Janardana?"
+  }
+ ]
+}

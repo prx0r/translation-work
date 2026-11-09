@@ -1,0 +1,630 @@
+{
+ "song": "gita-a01",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "asmākaṃ",
+     "gloss": "our",
+     "grounds": "first-person plural genitive pronoun",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśiṣṭā",
+     "gloss": "distinguished",
+     "grounds": "adjective in nominative plural feminine",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tānnibodha",
+     "gloss": "know-them",
+     "grounds": "fused imperative with accusative pronoun",
+     "morph": "2.sg.imp.act"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-of-twice-born",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "nāyakā",
+     "gloss": "leaders",
+     "grounds": "nominative plural masculine noun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "first-person singular genitive pronoun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sainyasya",
+     "gloss": "of-army",
+     "grounds": "genitive singular neuter noun",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "saṃjñārthaṃ",
+     "gloss": "for-recognition",
+     "grounds": "purpose compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "accusative plural masculine pronoun",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "bravīmi",
+     "gloss": "I-speak",
+     "grounds": "first-person singular present active verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative singular masculine pronoun",
+     "morph": "dat.sg.m"
+    }
+   ],
+   "question": "Who are the distinguished leaders among our forces?",
+   "premises": [
+    "Duryodhana asks for named leaders",
+    "He wants recognition of his army",
+    "He addresses the twice-born best"
+   ],
+   "inference": "The verse opens the Kaurava commander's roll call.",
+   "uncertainties": [
+    "Surface viśiṣṭā lacks visarga in supplied token"
+   ],
+   "plain_english": "But know, best of the twice-born, the distinguished leaders among us, for naming my army's commanders to you."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "sainye",
+     "gloss": "in-army",
+     "grounds": "locative singular neuter noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "mahati",
+     "gloss": "great",
+     "grounds": "locative singular neuter adjective",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural masculine pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "netāraḥ",
+     "gloss": "leaders",
+     "grounds": "nominative plural masculine noun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "śūrasammatāḥ",
+     "gloss": "approved-by-heroes",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "bhavān",
+     "gloss": "you",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhīṣmaśca",
+     "gloss": "and-Bhishma",
+     "grounds": "nominative singular masculine name with particle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "karṇaśca",
+     "gloss": "and-Karna",
+     "grounds": "nominative singular masculine name with particle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kṛpaḥ",
+     "gloss": "Kripa",
+     "grounds": "nominative singular masculine name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śalyo",
+     "gloss": "Shalya",
+     "grounds": "nominative singular masculine name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jayadrathaḥ",
+     "gloss": "Jayadratha",
+     "grounds": "nominative singular masculine name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "aśvatthāmā",
+     "gloss": "Ashvatthama",
+     "grounds": "nominative singular masculine name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vikarṇaśca",
+     "gloss": "and-Vikarna",
+     "grounds": "nominative singular masculine name with particle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saumadattiśca",
+     "gloss": "and-Saumadatti",
+     "grounds": "nominative singular masculine name with particle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vīryavān",
+     "gloss": "valiant",
+     "grounds": "nominative singular masculine adjective",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Who are the approved leaders in the great army?",
+   "premises": [
+    "Duryodhana names his commanders",
+    "Bhishma and others are listed",
+    "They are hero-approved leaders"
+   ],
+   "inference": "The verse supplies the Kaurava command structure.",
+   "uncertainties": [
+    "Token aśvatthāmā lacks final visarga in supplied text"
+   ],
+   "plain_english": "In the great army, all these hero-approved leaders are: you, Bhishma, Karna, Kripa, Shalya, Jayadratha, Ashvatthama, Vikarna, and valiant Saumadatti."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "nominative plural masculine pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahavaḥ",
+     "gloss": "many",
+     "grounds": "nominative plural masculine adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "śūrā",
+     "gloss": "heroes",
+     "grounds": "nominative plural masculine noun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "madarthe",
+     "gloss": "for-my-sake",
+     "grounds": "compound adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaktajīvitāḥ",
+     "gloss": "life-abandoned",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "nānāśastrapraharaṇā",
+     "gloss": "various-weapon-armed",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "there-is-not",
+     "grounds": "negated existential verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "nānāyuddhaviśāradāḥ",
+     "gloss": "skilled-in-various-battles",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What other heroes fight for Duryodhana?",
+   "premises": [
+    "Many other heroes are named",
+    "They have abandoned their lives",
+    "They are armed and battle-skilled"
+   ],
+   "inference": "The verse broadens the Kaurava force beyond named commanders.",
+   "uncertainties": [
+    "nāsti may be corrupt or elliptical in supplied text"
+   ],
+   "plain_english": "And many other heroes, for my sake having abandoned life, armed with various weapons and skilled in various battles, are there."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "kiṃvānena",
+     "gloss": "what-by-this",
+     "grounds": "interrogative compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parigaṇanena",
+     "gloss": "by-enumeration",
+     "grounds": "instrumental singular neuter noun",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tāvadvastutattvamityāha",
+     "gloss": "so-far-reality-thus-says",
+     "grounds": "fused commentary phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aparyāptaṃ",
+     "gloss": "insufficient",
+     "grounds": "nominative singular neuter adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tadasmākaṃ",
+     "gloss": "that-our",
+     "grounds": "demonstrative with genitive pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "balaṃ",
+     "gloss": "force",
+     "grounds": "nominative singular neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhīmābhirakṣitam",
+     "gloss": "protected-by-Bhima",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "paryāptaṃ",
+     "gloss": "sufficient",
+     "grounds": "nominative singular neuter adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tvidameteṣāṃ",
+     "gloss": "but-this-theirs",
+     "grounds": "demonstrative with genitive pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "balaṃ",
+     "gloss": "force",
+     "grounds": "nominative singular neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhīṣmābhirakṣitam",
+     "gloss": "protected-by-Bhishma",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhīmasenābhirakṣitaṃ",
+     "gloss": "protected-by-Bhimasena",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pāṇḍavīyaṃ",
+     "gloss": "Pandava",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "balam",
+     "gloss": "force",
+     "grounds": "nominative singular neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "asmākamaparyāptaṃ-jetumaśakyam",
+     "gloss": "our-insufficient-to-conquer-impossible",
+     "grounds": "fused commentary phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "athavā-aparyāptaṃ-kiyattadasmadvalasyetyarthaḥ",
+     "gloss": "or-insufficient-how-much-our-force-thus-meaning",
+     "grounds": "fused commentary phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīṣmābhirakṣitaṃ",
+     "gloss": "protected-by-Bhishma",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "balamasmākaṃ",
+     "gloss": "force-our",
+     "grounds": "compound noun phrase",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saṃbandhi",
+     "gloss": "related",
+     "grounds": "nominative singular neuter adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "eteṣāṃ-pāṇḍavānāṃ",
+     "gloss": "of-these-Pandavas",
+     "grounds": "fused genitive phrase",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "paryāptaṃ-jetuṃ",
+     "gloss": "sufficient-to-conquer",
+     "grounds": "fused infinitive phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakyam",
+     "gloss": "possible",
+     "grounds": "nominative singular neuter adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paryāptaṃ-bahu",
+     "gloss": "sufficient-much",
+     "grounds": "fused phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samare",
+     "gloss": "in-battle",
+     "grounds": "locative singular neuter noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "jayyametairiti",
+     "gloss": "conquerable-by-them-thus",
+     "grounds": "fused commentary phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does Duryodhana compare the two armies?",
+   "premises": [
+    "Our force is insufficient",
+    "Their force is sufficient",
+    "Bhishma protects their side"
+   ],
+   "inference": "The verse and commentary weigh relative military strength.",
+   "uncertainties": [
+    "Many fused commentary tokens are not standard mula",
+    "Print corruption possible in long compound phrases"
+   ],
+   "plain_english": "What use is this enumeration? Our force, protected by Bhima, is insufficient; but their force, protected by Bhishma, is sufficient. The Pandava force protected by Bhimasena is ours and insufficient to conquer; or the force protected by Bhishma is related to these Pandavas and sufficient to conquer, if much is not conquerable by them in battle."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "ayaneṣu",
+     "gloss": "in-passages",
+     "grounds": "locative plural neuter noun",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "all",
+     "grounds": "locative plural neuter adjective",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "yathābhāgamavasthitāḥ",
+     "gloss": "stationed-according-to-portion",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "bhīṣmamevābhirakṣantu",
+     "gloss": "let-them-protect-Bhishma",
+     "grounds": "imperative verb with accusative",
+     "morph": "3.pl.imp.act"
+    },
+    {
+     "surface": "bhavantaḥ",
+     "gloss": "you",
+     "grounds": "nominative plural masculine pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "nominative plural masculine adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the Kaurava leaders be stationed?",
+   "premises": [
+    "All are stationed in their places",
+    "They must protect Bhishma",
+    "Duryodhana commands all of them"
+   ],
+   "inference": "The verse gives tactical positioning around Bhishma.",
+   "uncertainties": [
+    "ayaneṣu may mean passages or positions"
+   ],
+   "plain_english": "Stationed in all passages according to your portions, you all indeed must protect Bhishma."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive singular masculine pronoun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sañjanayan",
+     "gloss": "causing",
+     "grounds": "present participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "harṣaṃ",
+     "gloss": "joy",
+     "grounds": "accusative singular masculine noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kuruvṛddhaḥ",
+     "gloss": "Kuru-elder",
+     "grounds": "nominative singular masculine compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pitāmahaḥ",
+     "gloss": "grandsire",
+     "grounds": "nominative singular masculine noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "siṃhanādaṃ",
+     "gloss": "lion-roar",
+     "grounds": "accusative singular masculine compound",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vinadyoccaiḥ",
+     "gloss": "shouting-loudly",
+     "grounds": "fused adverbial verb form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkhaṃ",
+     "gloss": "conch",
+     "grounds": "accusative singular masculine noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dadhmau",
+     "gloss": "blew",
+     "grounds": "third-person singular aorist active verb",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "pratāpavān",
+     "gloss": "valiant",
+     "grounds": "nominative singular masculine adjective",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How does Bhishma respond to Duryodhana?",
+   "premises": [
+    "The Kuru elder is the grandsire",
+    "He causes joy in Duryodhana",
+    "He roars and blows the conch"
+   ],
+   "inference": "The verse marks Bhishma's rallying signal.",
+   "uncertainties": [
+    "vinadyoccaiḥ is a fused form in supplied text"
+   ],
+   "plain_english": "Causing joy in him, the valiant Kuru elder and grandsire roared loudly and blew the conch."
+  }
+ ]
+}

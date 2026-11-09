@@ -1,0 +1,342 @@
+{
+ "song": "gita-a01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "bhīṣmadroṇapramukhataḥ",
+     "gloss": "with-bhishma-drona-leading",
+     "grounds": "compound naming leaders at front",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahīkṣitām",
+     "gloss": "of-earth-rulers",
+     "grounds": "genitive plural compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "verb of speaking",
+     "morph": "3.sg.act-aor + vac"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "o-partha",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "paśyaitānsamavetānkurūniti",
+     "gloss": "see-these-gathered-kurus-thus",
+     "grounds": "fused imperative and object",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does Arjuna ask Krishna to see among the gathered Kurus?",
+   "premises": [
+    "Arjuna addresses Krishna as Partha",
+    "He points to Bhishma and Drona leading",
+    "He asks to see gathered Kurus"
+   ],
+   "inference": "Arjuna directs Krishna's attention to the assembled kin and teachers before battle.",
+   "uncertainties": [
+    "Fused imperative token not split"
+   ],
+   "plain_english": "Arjuna said, O Partha, see these gathered Kurus led by Bhishma and Drona."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "tatrāpaśyatsthitānpārthaḥ",
+     "gloss": "there-saw-standing-partha",
+     "grounds": "fused verb and object",
+     "morph": "3.sg.act-aor + paś"
+    },
+    {
+     "surface": "pitṛnatha",
+     "gloss": "fathers-and",
+     "grounds": "accusative plural with conjunction",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pitāmahān",
+     "gloss": "grandfathers",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā",
+     "gloss": "teachers-uncles-brothers-sons-grandsons-friends-also",
+     "grounds": "long fused accusative list",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Whom does Partha see standing in both armies?",
+   "premises": [
+    "Partha looks into the armies",
+    "He sees fathers and grandfathers",
+    "He sees teachers uncles brothers sons grandsons friends"
+   ],
+   "inference": "The sight includes elders, teachers, and close kin on both sides.",
+   "uncertainties": [
+    "Fused accusative list not split"
+   ],
+   "plain_english": "There Partha saw standing fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, and friends."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "śvaśurānsuhṛdaścaiva",
+     "gloss": "fathers-in-law-friends-and-also",
+     "grounds": "fused accusative compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "senayorubhayorapi",
+     "gloss": "in-both-armies-too",
+     "grounds": "locative dual with particle",
+     "morph": "f.loc.du"
+    }
+   ],
+   "question": "Which additional relatives appear in both armies?",
+   "premises": [
+    "Fathers-in-law are seen",
+    "Friends are seen",
+    "Both armies contain them"
+   ],
+   "inference": "Arjuna's kinship network extends across both opposing forces.",
+   "uncertainties": [
+    "Fused accusative token not split"
+   ],
+   "plain_english": "Fathers-in-law and friends were also in both armies."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "tānsamīkṣya",
+     "gloss": "having-seen-them",
+     "grounds": "absolutive from sam-īkṣ",
+     "morph": "abs + īkṣ"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaunteyaḥ",
+     "gloss": "son-of-kunti",
+     "grounds": "patronymic",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bandhūnavasthitān",
+     "gloss": "kinsmen-standing",
+     "grounds": "fused accusative participle",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "with-compassion",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "parayāviṣṭo",
+     "gloss": "overcome-by-supreme",
+     "grounds": "fused participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sīdamāno'bravīdidam",
+     "gloss": "sinking-said-this",
+     "grounds": "fused participle and verb",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to Arjuna after seeing all his kinsmen?",
+   "premises": [
+    "He sees all standing kinsmen",
+    "Compassion overwhelms him",
+    "He sinks and speaks"
+   ],
+   "inference": "The sight of kin produces compassionate distress and speech.",
+   "uncertainties": [
+    "Fused participle tokens not split"
+   ],
+   "plain_english": "Seeing all those kinsmen standing there, Arjuna was overcome by supreme compassion, sank down, and said this."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "arjuna",
+     "gloss": "arjuna",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "verb of speaking",
+     "morph": "3.sg.act-aor + vac"
+    },
+    {
+     "surface": "dṛṣṭvemānsvajanānkṛṣṇa",
+     "gloss": "seeing-these-kinsmen-krishna",
+     "grounds": "fused participle and vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yuyutsūnsamupasthitān",
+     "gloss": "eager-to-fight-present",
+     "grounds": "fused accusative participle",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sīdanti",
+     "gloss": "sink",
+     "grounds": "present plural",
+     "morph": "3.pl.act-pres + sad"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gātrāṇi",
+     "gloss": "limbs",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "mouth",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pariśuṣyati",
+     "gloss": "dries-up",
+     "grounds": "present singular",
+     "morph": "3.sg.act-pres + śuṣ"
+    }
+   ],
+   "question": "What bodily signs show Arjuna's distress before battle?",
+   "premises": [
+    "He sees kinsmen eager to fight",
+    "His limbs sink",
+    "His mouth dries up"
+   ],
+   "inference": "Arjuna's body manifests grief and weakness at the prospect of fighting kin.",
+   "uncertainties": [
+    "Fused participle token not split"
+   ],
+   "plain_english": "Arjuna said, seeing these kinsmen eager to fight, Krishna, my limbs sink and my mouth dries up."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "vepathuśca",
+     "gloss": "trembling-and",
+     "grounds": "nominative singular with conjunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śarīre",
+     "gloss": "in-body",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "romaharṣaśca",
+     "gloss": "hair-standing-and",
+     "grounds": "nominative singular with conjunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present middle",
+     "morph": "3.sg.mid-pres + jan"
+    },
+    {
+     "surface": "gāṇḍīvaṃ",
+     "gloss": "gandiva",
+     "grounds": "nominative singular proper bow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sraṃsate",
+     "gloss": "slips",
+     "grounds": "present middle",
+     "morph": "3.sg.mid-pres + sraṃs"
+    },
+    {
+     "surface": "hastāttvakcaiva",
+     "gloss": "from-hand-skin-and-also",
+     "grounds": "fused ablative compound",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "paridahyate",
+     "gloss": "burns",
+     "grounds": "present passive",
+     "morph": "3.sg.pass-pres + dah"
+    }
+   ],
+   "question": "What further physical symptoms does Arjuna describe?",
+   "premises": [
+    "Trembling arises in his body",
+    "Hair stands on end",
+    "Gandiva slips from his hand",
+    "His skin burns"
+   ],
+   "inference": "Arjuna's distress appears as trembling, horripilation, loss of grip, and burning skin.",
+   "uncertainties": [
+    "Fused ablative token not split"
+   ],
+   "plain_english": "Trembling and hair-standing arise in my body; Gandiva slips from my hand, and my skin burns."
+  }
+ ]
+}

@@ -1,0 +1,395 @@
+{
+ "song": "gita-a01",
+ "items": [
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghoṣo",
+     "gloss": "sound",
+     "grounds": "subject of tore",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhārtarāṣṭrāṇāṃ",
+     "gloss": "of-dhartarashtras-sons",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hṛdayāni",
+     "gloss": "hearts",
+     "grounds": "object of tore",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vyadārayat",
+     "gloss": "tore",
+     "grounds": "causative imperfect",
+     "morph": "3.sg.act-impf root dṛ"
+    },
+    {
+     "surface": "nabhaśca",
+     "gloss": "and-sky",
+     "grounds": "sky plus ca",
+     "morph": "n.nom.sg + indecl."
+    },
+    {
+     "surface": "pṛthivīṃ",
+     "gloss": "earth",
+     "grounds": "object of resounding",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tumulo",
+     "gloss": "tumultuous",
+     "grounds": "modifier of sound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyanunādayan",
+     "gloss": "resounding",
+     "grounds": "present participle",
+     "morph": "m.nom.sg.act-pres.part"
+    }
+   ],
+   "question": "What effect did the conch sound have on the opposing forces?",
+   "premises": [
+    "the sound tore hearts",
+    "it resounded through sky and earth"
+   ],
+   "inference": "the blast shook both armies and the cosmos",
+   "uncertainties": [
+    "exact force of vyadārayat"
+   ],
+   "plain_english": "That sound tore the hearts of Dhartarashtra's sons and resounded tumultuously through sky and earth."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vyavasthitāndṛṣṭvā",
+     "gloss": "having-seen-arrayed",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "dhārtarāṣṭrānkapidhvajaḥ",
+     "gloss": "dhartarashtras-sons-monkey-bannered",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "pravṛtte",
+     "gloss": "begun",
+     "grounds": "locative absolute",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "śastrasampāte",
+     "gloss": "weapon-clash",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhanurudyamya",
+     "gloss": "raising-bow",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "pāṇḍavaḥ",
+     "gloss": "pandava",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What did the Pandava do when weapons began to clash?",
+   "premises": [
+    "he saw Dhartarashtra's sons arrayed",
+    "weapons had begun to clash"
+   ],
+   "inference": "Arjuna raised his bow as battle commenced",
+   "uncertainties": [
+    "exact referent of kapidhvaja"
+   ],
+   "plain_english": "Then, seeing Dhartarashtra's sons arrayed and weapons begun to clash, the monkey-bannered Pandava raised his bow."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "hṛṣīkeśaṃ",
+     "gloss": "hrishikesha",
+     "grounds": "object of spoke",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vākyamidamāha",
+     "gloss": "spoke-this-word",
+     "grounds": "fused verb phrase",
+     "morph": "3.sg.act-aor root ah"
+    },
+    {
+     "surface": "mahīpate",
+     "gloss": "lord-of-earth",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "arjuna",
+     "gloss": "arjuna",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "narrative verb",
+     "morph": "3.sg.act-aor root vac"
+    },
+    {
+     "surface": "senayorubhayormadhye",
+     "gloss": "between-both-armies",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "rathaṃ",
+     "gloss": "chariot",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sthāpaya",
+     "gloss": "place",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp root sthā"
+    },
+    {
+     "surface": "me'cyuta",
+     "gloss": "my-acyuta",
+     "grounds": "fused pronoun plus vocative",
+     "morph": "m.voc.sg + indecl."
+    }
+   ],
+   "question": "Where did Arjuna ask Krishna to place the chariot?",
+   "premises": [
+    "Arjuna spoke to Hrishikesha",
+    "he requested chariot placement"
+   ],
+   "inference": "he wanted it between both armies",
+   "uncertainties": [
+    "exact force of me'cyuta"
+   ],
+   "plain_english": "Then Arjuna spoke this word to Hrishikesha: O lord of earth, place my chariot between both armies, O Acyuta."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "yāvadetānnirīkṣe'haṃ",
+     "gloss": "until-i-see-these",
+     "grounds": "fused clause",
+     "morph": "1.sg.act-pres root īkṣ"
+    },
+    {
+     "surface": "yoddhrukāmānavasthitān",
+     "gloss": "standing-eager-to-fight",
+     "grounds": "compound participle",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kairmayā",
+     "gloss": "with-whom-by-me",
+     "grounds": "fused interrogative",
+     "morph": "m.inst.pl + 1.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "postposition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yoddhavyamasmin",
+     "gloss": "to-be-fought-in-this",
+     "grounds": "fused gerundive",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "raṇasamudyame",
+     "gloss": "battle-effort",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Why did Arjuna want to see the assembled warriors?",
+   "premises": [
+    "he wanted to see those standing eager to fight",
+    "he asked with whom he must fight"
+   ],
+   "inference": "he sought to identify opponents before battle",
+   "uncertainties": [
+    "exact parsing of kairmayā"
+   ],
+   "plain_english": "Until I see these standing eager to fight, with whom by me must be fought in this battle effort."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "yotsyamānānavekṣe'haṃ",
+     "gloss": "i-wish-to-see-those-who-will-fight",
+     "grounds": "fused clause",
+     "morph": "1.sg.act-pres root īkṣ"
+    },
+    {
+     "surface": "ya",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ete'tra",
+     "gloss": "these-here",
+     "grounds": "fused demonstrative",
+     "morph": "m.nom.pl + indecl."
+    },
+    {
+     "surface": "samāgatāḥ",
+     "gloss": "assembled",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhārtarāṣṭrasya",
+     "gloss": "of-dhartarashtra",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "durbuddheryuddhe",
+     "gloss": "in-war-of-evil-minded",
+     "grounds": "fused locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "priyacikīrṣavaḥ",
+     "gloss": "desiring-to-please",
+     "grounds": "compound participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Whom did Arjuna wish to see assembled for battle?",
+   "premises": [
+    "those who will fight are assembled here",
+    "they desire to please evil-minded Dhartarashtra"
+   ],
+   "inference": "he wanted to inspect the opposing host",
+   "uncertainties": [
+    "exact force of yotsyamānānavekṣe'haṃ"
+   ],
+   "plain_english": "I wish to see those who will fight, who are assembled here, desiring to please evil-minded Dhartarashtra in war."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "sañjaya",
+     "gloss": "sanjaya",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "narrative verb",
+     "morph": "3.sg.act-aor root vac"
+    },
+    {
+     "surface": "evamukto",
+     "gloss": "thus-addressed",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛṣīkeśo",
+     "gloss": "hrishikesha",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guḍākeśena",
+     "gloss": "by-gudakesha",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhārata",
+     "gloss": "bharata",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "exclamation",
+     "grounds": "punctuation token",
+     "morph": "indecl."
+    },
+    {
+     "surface": "senayorubhayormadhye",
+     "gloss": "between-both-armies",
+     "grounds": "locative phrase",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "rathottamam",
+     "gloss": "best-chariot",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How did Krishna respond to Arjuna's request?",
+   "premises": [
+    "Krishna was addressed by Gudakesha",
+    "he placed the best chariot between armies"
+   ],
+   "inference": "he fulfilled Arjuna's request",
+   "uncertainties": [
+    "function of exclamation token"
+   ],
+   "plain_english": "Sanjaya said: thus addressed by Gudakesha, O Bharata, Hrishikesha placed the best chariot between both armies."
+  }
+ ]
+}

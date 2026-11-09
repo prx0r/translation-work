@@ -1,0 +1,16 @@
+{
+ "song": "gita-a01",
+ "verse": 10,
+ "question": "How does Duryodhana compare the two armies?",
+ "premises": [
+  "Our force is insufficient",
+  "Their force is sufficient",
+  "Bhishma protects their side"
+ ],
+ "inference": "The verse and commentary weigh relative military strength.",
+ "uncertainties": [
+  "Many fused commentary tokens are not standard mula",
+  "Print corruption possible in long compound phrases"
+ ],
+ "plain_english": "What use is this enumeration? Our force, protected by Bhima, is insufficient; but their force, protected by Bhishma, is sufficient. The Pandava force protected by Bhimasena is ours and insufficient to conquer; or the force protected by Bhishma is related to these Pandavas and sufficient to conquer, if much is not conquerable by them in battle."
+}

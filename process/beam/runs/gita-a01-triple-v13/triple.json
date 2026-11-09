@@ -1,0 +1,400 @@
+{
+ "song": "gita-a01",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkhāśca",
+     "gloss": "and-conches",
+     "grounds": "plural nominative conches plus ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhīryaśca",
+     "gloss": "and-drums",
+     "grounds": "plural nominative drums plus ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paṇavānakagomukhāḥ",
+     "gloss": "paṇavas-anakas-gomukhas",
+     "grounds": "compound of drum names",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sahasaivābhyahanyanta",
+     "gloss": "were-struck-all-at-once",
+     "grounds": "passive plural verb",
+     "morph": "3.pl.pass.-han"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śabdastumulo'bhavat",
+     "gloss": "sound-became-tumultuous",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act.-bhū"
+    }
+   ],
+   "question": "What sound arose when the armies' instruments were struck?",
+   "premises": [
+    "instruments were struck together",
+    "a tumultuous sound resulted",
+    "the sound filled the field"
+   ],
+   "inference": "the battle's sonic onset is established",
+   "uncertainties": [
+    "bhīryaśca spelling as given"
+   ],
+   "plain_english": "Then conches, drums, paṇavas, anakas, and gomukhas were struck all at once, and that sound became tumultuous."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śvetairhayairyukte",
+     "gloss": "yoked-with-white-horses",
+     "grounds": "instrumental plural adjective phrase",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahati",
+     "gloss": "great",
+     "grounds": "locative adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "syandane",
+     "gloss": "chariot",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthitau",
+     "gloss": "standing",
+     "grounds": "nominative dual participle",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "mādhavaḥ",
+     "gloss": "Mādhava",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāṇḍavaścaiva",
+     "gloss": "and-Pāṇḍava-also",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "divyau",
+     "gloss": "divine",
+     "grounds": "nominative dual adjective",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "śaṅkhau",
+     "gloss": "conches",
+     "grounds": "nominative dual noun",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "pradadhmatuḥ",
+     "gloss": "blew",
+     "grounds": "dual verb",
+     "morph": "3.du.act.-dhmā"
+    }
+   ],
+   "question": "Who blew divine conches while standing in the great chariot?",
+   "premises": [
+    "Mādhava and Pāṇḍava stood in the chariot",
+    "the chariot had white horses",
+    "both blew divine conches"
+   ],
+   "inference": "the two principal warriors announce themselves by conch",
+   "uncertainties": [],
+   "plain_english": "Then Mādhava and the Pāṇḍava, standing in the great chariot yoked with white horses, blew their divine conches."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "pāñjajanyaṃ",
+     "gloss": "Pāñcajanya",
+     "grounds": "accusative conch name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hṛṣīkeśo",
+     "gloss": "Hṛṣīkeśa",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devadattaṃ",
+     "gloss": "Devadatta",
+     "grounds": "accusative conch name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhanañjayaḥ",
+     "gloss": "Dhanañjaya",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pauṇḍraṃ",
+     "gloss": "Pauṇḍra",
+     "grounds": "accusative conch name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadhmau",
+     "gloss": "blew",
+     "grounds": "singular verb",
+     "morph": "3.sg.act.-dhmā"
+    },
+    {
+     "surface": "mahāśaṅkhaṃ",
+     "gloss": "great-conch",
+     "grounds": "accusative adjective-noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhīmakarmā",
+     "gloss": "of-terrible-deeds",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛkodaraḥ",
+     "gloss": "Vṛkodara",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which named conches did Hṛṣīkeśa, Dhanañjaya, and Vṛkodara blow?",
+   "premises": [
+    "Hṛṣīkeśa blew Pāñcajanya",
+    "Dhanañjaya blew Devadatta",
+    "Vṛkodara blew Pauṇḍra, the great conch"
+   ],
+   "inference": "each major warrior has a named conch",
+   "uncertainties": [],
+   "plain_english": "Hṛṣīkeśa blew Pāñcajanya, Dhanañjaya blew Devadatta, and Vṛkodara of terrible deeds blew Pauṇḍra, the great conch."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "anantavijayaṃ",
+     "gloss": "Anantavijaya",
+     "grounds": "accusative conch name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuntīputro",
+     "gloss": "Kuntī's-son",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yudhiṣṭhiraḥ",
+     "gloss": "Yudhiṣṭhira",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nakulaḥ",
+     "gloss": "Nakula",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sahadevaśva",
+     "gloss": "and-Sahadeva",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sughoṣamaṇipuṣpakau",
+     "gloss": "Sughoṣa-and-Maṇipuṣpaka",
+     "grounds": "dual accusative compound",
+     "morph": "m.acc.du"
+    }
+   ],
+   "question": "Which conches did Yudhiṣṭhira, Nakula, and Sahadeva blow?",
+   "premises": [
+    "Yudhiṣṭhira blew Anantavijaya",
+    "Nakula and Sahadeva blew two conches",
+    "the two conches are Sughoṣa and Maṇipuṣpaka"
+   ],
+   "inference": "the remaining Pāṇḍava brothers are named with their conches",
+   "uncertainties": [
+    "sahadevaśva fused form as given"
+   ],
+   "plain_english": "King Yudhiṣṭhira, Kuntī's son, blew Anantavijaya; Nakula and Sahadeva blew Sughoṣa and Maṇipuṣpaka."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "kāśyaśca",
+     "gloss": "and-Kāśya",
+     "grounds": "nominative plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parameṣvāsaḥ",
+     "gloss": "supreme-archer",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śikhaṇḍī",
+     "gloss": "Śikhaṇḍin",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahārathaḥ",
+     "gloss": "great-chariot-fighter",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhṛṣṭadyumno",
+     "gloss": "Dhṛṣṭadyumna",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "virāṭaśca",
+     "gloss": "and-Virāṭa",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sātyakiścāparājitaḥ",
+     "gloss": "and-Sātyaki-the-unconquered",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which allied warriors are named as supreme archers and great chariot-fighters?",
+   "premises": [
+    "Kāśya is a supreme archer",
+    "Śikhaṇḍin is a great chariot-fighter",
+    "Dhṛṣṭadyumna, Virāṭa, and Sātyaki are named"
+   ],
+   "inference": "the allied commanders are introduced before battle",
+   "uncertainties": [],
+   "plain_english": "Kāśya, the supreme archer, Śikhaṇḍin, the great chariot-fighter, Dhṛṣṭadyumna, Virāṭa, and the unconquered Sātyaki."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "pāñcālaśca",
+     "gloss": "and-Pāñcāla",
+     "grounds": "nominative plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheṣvāso",
+     "gloss": "great-archer",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "draupadeyāśca",
+     "gloss": "and-Draupadeyas",
+     "grounds": "nominative plural plus ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saubhadraśca",
+     "gloss": "and-Saubhadra",
+     "grounds": "nominative plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahābāhuḥ",
+     "gloss": "mighty-armed",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṅkhāndadhmuḥ",
+     "gloss": "blew-conches",
+     "grounds": "fused sandhi form",
+     "morph": "3.pl.act.-dhmā"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "repeated adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who among the Pāñcālas, Draupadeyas, and Saubhadra blew conches separately?",
+   "premises": [
+    "the Pāñcāla great archer is named",
+    "the five Draupadeyas are named",
+    "mighty-armed Saubhadra is named",
+    "each blew conches separately"
+   ],
+   "inference": "the allied side's conch-blowing is completed",
+   "uncertainties": [],
+   "plain_english": "The Pāñcāla great archer, the five Draupadeyas, and mighty-armed Saubhadra each blew conches separately."
+  }
+ ]
+}
