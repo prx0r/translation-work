@@ -38,14 +38,18 @@ def tokens_of(text: str) -> list[str]:
         i += 1
     out = []
     for w in joined:
-        if w in {'|', '||'}:
+        if w in {'|', '||', '-'}:
             continue
+        if re.fullmatch(r'\.+', w):
+            continue  # editorial ellipsis (lacuna marker, not text)
+        if w.startswith('|'):
+            continue  # bracket-derived pipe remnant
         if re.fullmatch(r'\d+-\d+', w):
             continue
         if re.fullmatch(r'\d+\)?', w):
             continue
         w = w.replace('[', '').replace(']', '')
-        if not w:
+        if not w or w in {'|', '||', '-'} or re.fullmatch(r'\.+', w):
             continue
         out.append(w)
     return out

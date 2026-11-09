@@ -1,0 +1,829 @@
+{
+ "song": "ssv-u1",
+ "items": [
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīpratyabhijñāyām",
+     "gloss": "in-pratyabhijna",
+     "grounds": "locative in commentary",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "āṇavamalabhittikaṃ",
+     "gloss": "anava-mala-based",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "saṃkucitaviśiṣṭajñānatayaivoktam",
+     "gloss": "said-as-limited-distinct-knowledge",
+     "grounds": "participial compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "plural adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "malā",
+     "gloss": "impurities",
+     "grounds": "plural noun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkucitaviśiṣṭajñānarūpā",
+     "gloss": "limited-distinct-knowledge-form",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "|",
+     "gloss": "end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "transitional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathamasyājñānātmakajñāna-yonivarga-kalāśarīrarūpasya",
+     "gloss": "how-of-this-ignorance-nature-knowledge-yoni-group-kala-body-form",
+     "grounds": "long compound genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "trividhasya",
+     "gloss": "threefold",
+     "grounds": "genitive adjective",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "malasya",
+     "gloss": "of-impurity",
+     "grounds": "genitive noun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "bandhakatvamityāha",
+     "gloss": "bondage-thus-says",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "-",
+     "gloss": "dash",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does threefold impurity bind?",
+   "premises": [
+    "All impurities are limited distinct knowledge.",
+    "Threefold impurity has ignorance-nature knowledge form.",
+    "Bondage is explained next."
+   ],
+   "inference": "The verse asks how threefold impurity binds.",
+   "uncertainties": [
+    "Compound boundaries are editorial."
+   ],
+   "plain_english": "Thus in Pratyabhijna, anava-mala-based limited distinct knowledge is said; all impurities are only limited distinct knowledge. Now how does threefold impurity, of ignorance-nature knowledge-yoni-group-kala-body form, bind? Thus says."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "jñānādhiṣṭhānaṃ",
+     "gloss": "knowledge-foundation",
+     "grounds": "compound noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mother-letters",
+     "grounds": "technical term",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yadetat",
+     "gloss": "this-which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "trividhamalasvarūpam",
+     "gloss": "threefold-impurity-form",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "apūrṇammanyatābhinnavedyaprathā##akārādikṣakārāntarūpā",
+     "gloss": "incompleteness-notion-distinct-object-appearance-a-to-ksha-form",
+     "grounds": "fused compound with sandhi marker",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "|",
+     "gloss": "end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ajñātā",
+     "gloss": "un-known",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mother-letters",
+     "grounds": "technical term",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ajñātā",
+     "gloss": "un-known",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mother-letters",
+     "grounds": "technical term",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ajñāte",
+     "gloss": "when-unknown",
+     "grounds": "locative participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pratyayaḥ",
+     "gloss": "cognition",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iyameva",
+     "gloss": "this-only",
+     "grounds": "demonstrative particle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bandhayitrī",
+     "gloss": "binder",
+     "grounds": "feminine agent noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "jñātā",
+     "gloss": "known",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyupapādikā",
+     "gloss": "accomplishment-supporting",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "viśvajananī",
+     "gloss": "world-mother",
+     "grounds": "compound noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tattatsaṃkucitavedyābhāsātmano",
+     "gloss": "that-limited-object-appearance-self",
+     "grounds": "compound genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowledge",
+     "grounds": "genitive noun",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "apūrṇo'smi",
+     "gloss": "i-am-incomplete",
+     "grounds": "first person statement",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "apūrṇo'smi",
+     "gloss": "i-am-incomplete",
+     "grounds": "repeated statement",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "ityādinā",
+     "gloss": "by-such-etc",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āṇavamāyīyakārmamalānyudāhriyante",
+     "gloss": "anava-mayiya-karma-impurities-are-cited",
+     "grounds": "passive verb",
+     "morph": "3.pl.pass.pres"
+    },
+    {
+     "surface": "|",
+     "gloss": "end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣāmaḥ",
+     "gloss": "emaciated",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sthūlo",
+     "gloss": "stout",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vāsmi",
+     "gloss": "or-i-am",
+     "grounds": "compound verb",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "agniṣṭomayājyasmi",
+     "gloss": "i-am-agnishtoma-sacrificer",
+     "grounds": "compound statement",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "ityāditattadavikalpakasavikalpakāvabhāsaparāmarśamayasya",
+     "gloss": "by-such-nonconceptual-conceptual-appearance-reflection-form",
+     "grounds": "long compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sthūlasūkṣmaśabdaparāmarśamayasya",
+     "gloss": "gross-subtle-word-reflection-form",
+     "grounds": "compound adjective",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowledge",
+     "grounds": "genitive noun",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "|",
+     "gloss": "end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattadvācakaśabdānuvedhadvāreṇa",
+     "gloss": "through-corresponding-word-connection",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so'sti",
+     "gloss": "there-is",
+     "grounds": "existential verb",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "pratyayo",
+     "gloss": "cognition",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śabdānugamādṛte",
+     "gloss": "apart-from-word-following",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti-sthityā",
+     "gloss": "by-such-position",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdasaṃbhinnameva",
+     "gloss": "word-mixed-only",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "|",
+     "gloss": "end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śoka-smaya-harṣa-rāgādirūpatāmādadhānā",
+     "gloss": "sorrow-wonder-joy-attachment-form-bearing",
+     "grounds": "compound participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "karandhracitimadhyastha",
+     "gloss": "in-heart-consciousness-middle-standing",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ke",
+     "gloss": "who",
+     "grounds": "interrogative pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vyomni",
+     "gloss": "in-space",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "cidgagane",
+     "gloss": "in-consciousness-sky",
+     "grounds": "compound locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "citiḥ",
+     "gloss": "consciousness",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tanmadhyasthāḥ",
+     "gloss": "standing-in-its-middle",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "cicchaktirūpā",
+     "gloss": "consciousness-power-form",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastutaḥ",
+     "gloss": "in-reality",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmapāśa",
+     "gloss": "brahma-noose",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durgranthirabhedyatvāt",
+     "gloss": "hard-knot-unbreakable-because",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmyādyā",
+     "gloss": "brahmi-etc",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "ghoratarāḥ",
+     "gloss": "more-terrible",
+     "grounds": "comparative adjective",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "|",
+     "gloss": "end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmapāśāvalambikāḥ",
+     "gloss": "brahma-noose-dependent",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "pīṭheśvaryo",
+     "gloss": "seat-goddesses",
+     "grounds": "compound noun",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "mahāghorā",
+     "gloss": "very-terrible",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "mohayanti",
+     "gloss": "delude",
+     "grounds": "verb",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "muhurmuhuḥ",
+     "gloss": "again-and-again",
+     "grounds": "reduplicative indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quoting particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrītimirodghāṭaproktanītyā",
+     "gloss": "by-timirodghata-stated-rule",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vargavargāḥ",
+     "gloss": "group-groups",
+     "grounds": "compound noun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalas",
+     "grounds": "noun",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "nivṛttyādayaḥ",
+     "gloss": "nivritti-etc",
+     "grounds": "compound noun",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "ādinā",
+     "gloss": "by-etc",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍadhvānaḥ",
+     "gloss": "six-paths",
+     "grounds": "compound noun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "|##śrīsarvavīrādyāgamaprasiddhalipikramasaṃniveśotthāpikā",
+     "gloss": "by-sarvavira-etc-script-arrangement-raising",
+     "grounds": "fused compound with sandhi marker",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ambā-jyeṣṭhā##mātṛkāśaktirityarthaḥ",
+     "gloss": "amba-jyeshtha-mother-power-thus-meaning",
+     "grounds": "fused compound with sandhi marker",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "|",
+     "gloss": "end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiradhiṣṭhātrī",
+     "gloss": "power-presiding",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tadadhiṣṭhānādeva",
+     "gloss": "from-that-foundation-only",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antara'bhedānusaṃdhivandhyatvāt",
+     "gloss": "inner-nondifference-connection-barrenness-because",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "within",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇāhantāyāṃ",
+     "gloss": "in-full-i-ness",
+     "grounds": "compound locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "yo'bhedānusaṃdhiścidabhedaparāmarśastacchūnyatvāt",
+     "gloss": "whose-nondifference-connection-consciousness-nondifference-reflection-empty-because",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "|",
+     "gloss": "end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaṇamapi",
+     "gloss": "even-for-moment",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alabdhaviśrāntīni",
+     "gloss": "not-obtained-rest",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "bahirmukhānyeva",
+     "gloss": "outward-only",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "jñānāni",
+     "gloss": "knowledges",
+     "grounds": "plural noun",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quoting particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktaiva",
+     "gloss": "fitting-only",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive pronoun",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "jñānānām",
+     "gloss": "of-knowledges",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "bandhakatvoktiḥ",
+     "gloss": "bondage-statement",
+     "grounds": "compound noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "etacca",
+     "gloss": "and-this",
+     "grounds": "compound pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śabdarāśisamutthasya",
+     "gloss": "of-word-mass-arisen",
+     "grounds": "compound genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": ".....................",
+     "gloss": "ellipsis",
+     "grounds": "omitted text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quoting particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārikayā",
+     "gloss": "by-verse",
+     "grounds": "instrumental noun",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "svarūpāvaraṇe",
+     "gloss": "in-self-covering",
+     "grounds": "compound locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "cāsya",
+     "gloss": "and-its",
+     "grounds": "compound pronoun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "plural noun",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "satatotthitāḥ",
+     "gloss": "constantly-arisen",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quoting particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārikayā",
+     "gloss": "by-verse",
+     "grounds": "instrumental noun",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "saṃgṛhītam",
+     "gloss": "summarized",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "transitional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etadbandhapraśamopāyamupeyaviśrāntisatattvamādiśati",
+     "gloss": "this-bondage-pacification-means-goal-rest-true-principle-teaches",
+     "grounds": "long compound verb",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "satattvaṃ",
+     "gloss": "true-principle",
+     "grounds": "compound noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saparamārtham",
+     "gloss": "with-ultimate-meaning",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "|",
+     "gloss": "end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "-",
+     "gloss": "dash",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does matrika bind knowledge?",
+   "premises": [
+    "Matrika is knowledge foundation.",
+    "Unknown mother binds cognition.",
+    "Known mother supports accomplishment."
+   ],
+   "inference": "The verse explains matrika as binder and foundation.",
+   "uncertainties": [
+    "Long compounds are glossed loosely."
+   ],
+   "plain_english": "Knowledge foundation is matrika; this threefold impurity form is incomplete notion distinct object appearance from a to ksha. Unknown mother matrika binds; known mother supports world mother. Limited knowledge says I am incomplete. Word-mixed knowledge binds. Consciousness power in heart is brahma noose. Eight kalas and six paths arise. Powers constantly arise. Now true principle of bondage pacification is taught."
+  }
+ ]
+}

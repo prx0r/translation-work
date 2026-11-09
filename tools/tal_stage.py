@@ -163,9 +163,13 @@ def stage_assemble(work, song):
             _rows = []
             for r in d['rows']:
                 _lm = r.get('lemma', '')
-                # drop paratext rows (locators/numbers) that the T1 token
-                # stream excludes — keeps CM↔T1 positional alignment
-                if _lm in {'|', '||'} or _re.fullmatch(r'\d+', _lm) or _re.fullmatch(r'\d+-\d+', _lm):
+                # drop paratext rows (locators/numbers/pipes/dashes/ellipses) that
+                # the T1 token stream excludes — keeps CM↔T1 positional alignment
+                if _lm in {'|', '||', '-'} or _re.fullmatch(r'\.+', _lm):
+                    continue
+                if _re.fullmatch(r'\d+', _lm) or _re.fullmatch(r'\d+-\d+', _lm):
+                    continue
+                if _lm.startswith('|'):
                     continue
                 _rows.append([r['lemma'], r['morph'], r.get('grounds', '')])
             cm[str(e['verse'])] = _rows
