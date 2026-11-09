@@ -1,0 +1,415 @@
+{
+ "song": "gita-a05",
+ "items": [
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "sāṅkhyayogau",
+     "gloss": "sankhya-and-yoga",
+     "grounds": "compound of sāṅkhya and yoga; dual nominative masculine",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "pṛthagbālāḥ",
+     "gloss": "separate-fools",
+     "grounds": "pṛthak with bālāḥ; nominative plural masculine",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "pravadanti",
+     "gloss": "declare",
+     "grounds": "pra-vad, third person plural active present",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṇḍitāḥ",
+     "gloss": "wise-ones",
+     "grounds": "nominative plural masculine",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ekamapyāsthitaḥ",
+     "gloss": "even-one-who-abides",
+     "grounds": "eka + api + āsthitaḥ; nominative singular masculine participle",
+     "morph": "nom.sg.m.part"
+    },
+    {
+     "surface": "samyagubhayorvindate",
+     "gloss": "rightly-finds-of-both",
+     "grounds": "samyak + ubhayoḥ + vindate; third person singular middle present",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "accusative singular neuter",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Why do fools separate sankhya and yoga while the wise find one fruit?",
+   "premises": [
+    "fools declare sankhya and yoga separate",
+    "wise do not so declare",
+    "one who abides rightly finds fruit of both"
+   ],
+   "inference": "sankhya and yoga are one recognition, not two rival paths",
+   "uncertainties": [
+    "Kashmirian recension wording and Abhinava's Śaiva turn may differ from vulgate memory"
+   ],
+   "plain_english": "Fools call sankhya and yoga separate, but the wise do not; one who abides rightly obtains the fruit of both."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "yatsāṅkhyaiḥ",
+     "gloss": "that-by-sankhya",
+     "grounds": "yat + sāṅkhyaiḥ; instrumental plural masculine",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "prāpyate",
+     "gloss": "is-obtained",
+     "grounds": "pra-āp, third person singular passive present",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tadyogairanagamyate",
+     "gloss": "that-by-yoga-is-not-reached",
+     "grounds": "tat + yogaiḥ + an + agamyate; instrumental plural masculine",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sāṅkhyaṃ",
+     "gloss": "sankhya",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "accusative singular masculine",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative singular masculine relative",
+     "morph": "nom.sg.m.rel"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "paś, third person singular active present",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "paś, third person singular active present",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sāṃkhyam",
+     "gloss": "sankhya",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaḥ-iti",
+     "gloss": "yoga-thus",
+     "grounds": "yogaḥ + iti; nominative singular masculine with quotation particle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "etau",
+     "gloss": "these-two",
+     "grounds": "nominative dual masculine",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityasaṃbaddhau",
+     "gloss": "eternally-connected",
+     "grounds": "nitya + saṃbaddhau; nominative dual masculine",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowing",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogena",
+     "gloss": "by-yoga",
+     "grounds": "instrumental singular masculine",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "binā",
+     "gloss": "without",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogo'pi",
+     "gloss": "yoga-also",
+     "grounds": "yogaḥ + api; nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular masculine/neuter",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "vineti",
+     "gloss": "without-thus",
+     "grounds": "vinā + iti; indeclinable with quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekatvamanayoḥ",
+     "gloss": "oneness-of-these-two",
+     "grounds": "ekatvam + anayoḥ; nominative singular neuter with genitive dual",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "5",
+     "gloss": "five",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can sankhya and yoga be one when their names differ?",
+   "premises": [
+    "what sankhya attains yoga also reaches",
+    "one who sees both sees rightly",
+    "these two are eternally connected",
+    "knowing is not without yoga and yoga not without knowing"
+   ],
+   "inference": "sankhya and yoga are one recognition, not separate disciplines",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given, not split"
+   ],
+   "plain_english": "What sankhya attains yoga also reaches; one who sees both sees rightly, for these two are eternally connected and neither knowing nor yoga stands without the other."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "saṃnyāsastu",
+     "gloss": "renunciation-but",
+     "grounds": "saṃnyāsaḥ + tu; nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mahābāho",
+     "gloss": "mighty-armed-one",
+     "grounds": "vocative singular masculine",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "duḥkhamāptumayogataḥ",
+     "gloss": "hard-to-obtain-without-yoga",
+     "grounds": "duḥkham + āptum + a + yogataḥ; fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yogayukto",
+     "gloss": "yoga-united",
+     "grounds": "yoga + yuktaḥ; nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "munirbrahma",
+     "gloss": "sage-brahman",
+     "grounds": "muniḥ + brahma; nominative singular masculine/neuter fused",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cireṇādhigacchati",
+     "gloss": "after-long-time-attains",
+     "grounds": "cireṇa + adhigacchati; instrumental singular masculine with verb",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tuśabdo'vadhāraṇe",
+     "gloss": "tu-word-in-certainty",
+     "grounds": "tu + śabdaḥ + avadhāraṇe; nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhinnakramaḥ",
+     "gloss": "different-order",
+     "grounds": "bhinnakramaḥ; nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yogarahitasya",
+     "gloss": "of-one-without-yoga",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "saṃnyāsamāptuṃ",
+     "gloss": "to-obtain-renunciation",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "duḥkhameva-prāṅgītyā",
+     "gloss": "pain-indeed-before-thus",
+     "grounds": "duḥkham + eva + prāṅ + ityā; fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "karmaṇāṃ",
+     "gloss": "of-actions",
+     "grounds": "genitive plural neuter",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "duḥsaṃnyāsatvāt",
+     "gloss": "because-of-bad-renunciation",
+     "grounds": "ablative singular neuter",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "yogibhistu",
+     "gloss": "by-yogis-but",
+     "grounds": "instrumental plural masculine with tu",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "sulabhamevaitat-ityuktaṃ",
+     "gloss": "easily-obtained-this-thus-said",
+     "grounds": "sulabham + eva + etat + iti + uktaṃ; fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāk",
+     "gloss": "before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "6",
+     "gloss": "six",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is renunciation hard without yoga but easy for yogis?",
+   "premises": [
+    "renunciation is hard to obtain without yoga",
+    "a yoga-united sage attains brahman not after long time",
+    "without yoga renunciation is painful because actions are badly renounced",
+    "for yogis this is easily obtained"
+   ],
+   "inference": "yoga makes renunciation attainable and fruitful",
+   "uncertainties": [
+    "fused sandhi compounds are analyzed as given, not split"
+   ],
+   "plain_english": "Renunciation is hard without yoga, but a yoga-united sage attains brahman without delay; for yogis this is easily obtained, while without yoga it is painful."
+  }
+ ]
+}
