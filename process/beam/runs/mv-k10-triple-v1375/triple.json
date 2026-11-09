@@ -1,0 +1,511 @@
+{
+ "song": "mv-k10",
+ "items": [
+  {
+   "verse": 1381,
+   "rows": [
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative pronoun, subject of īheta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃdhātum",
+     "gloss": "to-join-together",
+     "grounds": "infinitive of purpose with īheta",
+     "morph": "inf. (sam-dhā)"
+    },
+    {
+     "surface": "īheta",
+     "gloss": "strives",
+     "grounds": "main verb of relative clause",
+     "morph": "3.sg.middle-optative (īh)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative pronoun, subject of implied identity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb qualifying parameśvaraḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "predicate noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "for-him",
+     "grounds": "refers to the one who strives to join",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun, object of kuryāt",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject of kuryāt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "could-do",
+     "grounds": "rhetorical question verb",
+     "morph": "3.sg.active-optative (kṛ)"
+    },
+    {
+     "surface": "so",
+     "gloss": "he",
+     "grounds": "subject of ucyate, refers to that person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'nyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "those for whom he is teacher",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gurur",
+     "gloss": "teacher",
+     "grounds": "predicate noun with ucyate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "main verb of concluding clause",
+     "morph": "3.sg.passive-present (vac)"
+    }
+   ],
+   "question": "What role remains for a human teacher when someone can unite the teaching by their own power?",
+   "premises": [
+    "A person who strives to unite the teaching by himself is directly the supreme lord.",
+    "For such a person, a human teacher can do nothing further.",
+    "That same person is called the teacher of others."
+   ],
+   "inference": "Self-sufficient realization makes one independent of an external teacher and qualifies one to teach others.",
+   "uncertainties": [],
+   "plain_english": "But whoever strives to join the teaching together by himself is directly the supreme lord; what could a teacher do for him? He is called the teacher of others."
+  },
+  {
+   "verse": 1382,
+   "rows": [
+    {
+     "surface": "nānyato",
+     "gloss": "not-from-another",
+     "grounds": "negated source expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedavidbhyaś",
+     "gloss": "than-knowers-of-knowledge",
+     "grounds": "comparison group in ablative sense",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "cetyata",
+     "gloss": "and-thus",
+     "grounds": "connective particle sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manvate",
+     "gloss": "they-think",
+     "grounds": "reports a common view",
+     "morph": "3.pl.middle-present (man)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws conclusion from prior view",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādātmyam",
+     "gloss": "identity-with-that",
+     "grounds": "state attained by the teacher",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpanno",
+     "gloss": "having-attained",
+     "grounds": "describes the teacher",
+     "morph": "m.nom.sg (ā-pad, past-participle)"
+    },
+    {
+     "surface": "gurur",
+     "gloss": "teacher",
+     "grounds": "subject of abhidhīyate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-designated",
+     "grounds": "main verb of conclusion",
+     "morph": "3.sg.passive-present (abhi-dhā)"
+    }
+   ],
+   "question": "Why is a teacher defined as one who has attained identity with the teaching?",
+   "premises": [
+    "People hold that knowledge is not obtained from anyone other than those who truly know.",
+    "A teacher is therefore understood through attained identity with that knowledge.",
+    "The designation 'teacher' rests on this attained identity."
+   ],
+   "inference": "The title of teacher is grounded in realized identity with the knowledge, not merely in external transmission.",
+   "uncertainties": [],
+   "plain_english": "For people think that knowledge does not come from anyone other than those who know; therefore one who has attained identity with that is designated a teacher."
+  },
+  {
+   "verse": 1383,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject, the teacher or realized one",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvati",
+     "gloss": "to-whatever-extent",
+     "grounds": "correlative extent expression",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yatraiva",
+     "gloss": "wherever-indeed",
+     "grounds": "correlative place expression with emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "correlative place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvati",
+     "gloss": "to-that-extent",
+     "grounds": "correlative extent",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "excludes alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "but-surely",
+     "grounds": "introduces an objection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiṣṇavaśāstrārthas",
+     "gloss": "meaning-of-Vaishnava-scripture",
+     "grounds": "subject of the objection; compound of vaiṣṇava+śāstra+artha",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "tatkālaṃ",
+     "gloss": "at-that-time",
+     "grounds": "temporal qualifier in the objection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivabhāvanāt",
+     "gloss": "from-contemplation-of-Shiva",
+     "grounds": "cause cited in the objection; compound of śiva+bhāvanā",
+     "morph": "f.abl.sg, compound"
+    }
+   ],
+   "question": "Does temporary contemplation of Shiva undermine the authority of a Vaishnava scriptural teacher?",
+   "premises": [
+    "The realized teacher's identity holds only in the domain and to the extent where it is attained, not otherwise.",
+    "An objection arises that the meaning of Vaishnava scripture might be affected at the time of contemplating Shiva.",
+    "The objection assumes that shifting contemplative focus changes scriptural identity."
+   ],
+   "inference": "The verse sets up the problem of whether contemplative identification transfers or cancels a teacher's scriptural authority.",
+   "uncertainties": [
+    "The first clause is compressed; the exact scope of yāvati/yatraiva/tāvati depends on the surrounding argument."
+   ],
+   "plain_english": "And he is so only to that extent and in that domain, not otherwise. But surely, does the meaning of Vaishnava scripture, at the time of contemplating Shiva, become affected?"
+  },
+  {
+   "verse": 1384,
+   "rows": [
+    {
+     "surface": "tādātmyaṃ",
+     "gloss": "identity-with-that",
+     "grounds": "subject of hanti",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gurutāṃ",
+     "gloss": "teacherhood",
+     "grounds": "object of hanti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "verb expressing the objection's claim",
+     "morph": "3.sg.active-present (han)"
+    },
+    {
+     "surface": "pūrṇadhīḥ",
+     "gloss": "one-of-full-understanding",
+     "grounds": "speaker of the rebuttal; compound of pūrṇa+dhī",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "pralapaty",
+     "gloss": "prattles",
+     "grounds": "dismisses the objection",
+     "morph": "3.sg.active-present (pra-lap)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this-person",
+     "grounds": "refers to the objector",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāmarāvaṇanāṭyeṣu",
+     "gloss": "in-Rama-Ravana-dramas",
+     "grounds": "analogy domain; compound of rāma+rāvaṇa+nāṭya",
+     "morph": "n.loc.pl, compound"
+    },
+    {
+     "surface": "nahy",
+     "gloss": "for-not",
+     "grounds": "introduces reason for the analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "refers to the roles or identities in question",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "naṭabhūmikāḥ",
+     "gloss": "actors-roles",
+     "grounds": "predicate of the analogy; compound of naṭa+bhūmikā",
+     "morph": "f.nom.pl, compound"
+    }
+   ],
+   "question": "Does contemplative identification destroy a teacher's authority like an actor losing a role?",
+   "premises": [
+    "The objection claims that identity with another deity destroys teacherhood.",
+    "The reply calls this objection foolish talk.",
+    "In Rama-Ravana dramas, assumed roles do not become fixed ontological identities."
+   ],
+   "inference": "Contemplative identification is not like a theatrical role-change that abolishes the teacher's underlying authority.",
+   "uncertainties": [],
+   "plain_english": "If someone says that such identity destroys teacherhood, the person of full understanding replies that this is mere prattle; for in the dramas of Rama and Ravana, these are not actors' roles in that fixed sense."
+  },
+  {
+   "verse": 1385,
+   "rows": [
+    {
+     "surface": "nepathyādiparāvṛttyā",
+     "gloss": "by-turning-away-from-costume-and-such",
+     "grounds": "instrumental cause in theatrical analogy; compound of nepathya+ādi+parāvṛtti",
+     "morph": "f.ins.sg, compound"
+    },
+    {
+     "surface": "yenānyatvaṃ",
+     "gloss": "by-which-otherness",
+     "grounds": "relative clause describing change of identity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prapadyate",
+     "gloss": "is-assumed",
+     "grounds": "verb of the relative clause",
+     "morph": "3.sg.middle-present (pra-pad)"
+    },
+    {
+     "surface": "vaiṣṇavo",
+     "gloss": "a-Vaishnava",
+     "grounds": "subject contemplating identity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇur",
+     "gloss": "Vishnu",
+     "grounds": "first contemplated identity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evāhaṃ",
+     "gloss": "indeed-I",
+     "grounds": "contemplative assertion; sandhi of eva+aham",
+     "morph": "(indecl.)+1.nom.sg"
+    },
+    {
+     "surface": "taddāso",
+     "gloss": "his-servant",
+     "grounds": "alternative contemplated identity; compound of tad+dāsa",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "veti",
+     "gloss": "or-thus",
+     "grounds": "presents alternatives in contemplation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carcayan",
+     "gloss": "reflecting",
+     "grounds": "describes the Vaishnava's contemplative activity",
+     "morph": "m.nom.sg (carc, present-participle)"
+    }
+   ],
+   "question": "How does a Vaishnava's contemplative identification differ from an actor changing costume?",
+   "premises": [
+    "An actor assumes otherness by changing costume and stage accessories.",
+    "A Vaishnava reflects 'I am Vishnu' or 'I am his servant' as contemplative identifications.",
+    "The comparison tests whether contemplative identity is merely external role-assumption."
+   ],
+   "inference": "The verse contrasts theatrical role-change with contemplative identification to clarify the nature of religious identity.",
+   "uncertainties": [],
+   "plain_english": "Otherness is assumed by changing costume and the like; so too a Vaishnava reflects, 'I am indeed Vishnu' or 'I am his servant.'"
+  },
+  {
+   "verse": 1386,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "temporal marker in the objection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation in the contemplated statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāsmīti",
+     "gloss": "thus-am-I",
+     "grounds": "reported contemplative reversal; sandhi of tathā+asmi+iti",
+     "morph": "(indecl.)+1.sg.active-present (as)+(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "is-this",
+     "grounds": "interrogative challenging coherence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to the reversal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "susamañjasam",
+     "gloss": "well-fitting",
+     "grounds": "asks whether the reversal is coherent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locates the analysis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hy",
+     "gloss": "for",
+     "grounds": "introduces explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekatamā",
+     "gloss": "one-of-the-two",
+     "grounds": "one of the competing cognitions",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃvin",
+     "gloss": "awareness",
+     "grounds": "subject that becomes false knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mithyājñānatvam",
+     "gloss": "state-of-false-knowledge",
+     "grounds": "result for one awareness; compound of mithyā+jñāna+tva",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "attains",
+     "grounds": "main verb of the explanation",
+     "morph": "3.sg.middle-present (aś)"
+    }
+   ],
+   "question": "If a contemplative identity can be reversed, does that make one of the cognitions false?",
+   "premises": [
+    "A person may later say, 'Now I am not thus.'",
+    "Such a reversal raises the question of whether the earlier or later identification is coherent.",
+    "If two conflicting identifications are treated as fixed truths, one awareness becomes false knowledge."
+   ],
+   "inference": "The problem is not contemplation itself but treating shifting identifications as mutually exclusive fixed truths.",
+   "uncertainties": [],
+   "plain_english": "If one now says, 'I am not thus,' is that really coherent? For in that case, one of the two awarenesses ends up being false knowledge."
+  }
+ ]
+}
