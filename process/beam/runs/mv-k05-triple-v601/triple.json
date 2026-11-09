@@ -2,104 +2,1036 @@
  "song": "mv-k05",
  "items": [
   {
-   "verse": 613,
+   "verse": 601,
    "rows": [
     {
-     "surface": "mūlakṣatikarī",
-     "gloss": "root-destruction-causing",
-     "grounds": "bahuvrīhi/compound adjective describing anavasthā",
-     "morph": "compound=mūla+root, kṣati+destruction, karī+causing; f.nom.sg"
-    },
-    {
-     "surface": "seyam",
-     "gloss": "this",
-     "grounds": "sandhi: sā + iyam",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "anavasthā",
-     "gloss": "infinite-regress",
-     "grounds": "subject of the clause",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "patiṣyati",
-     "gloss": "will-fall",
-     "grounds": "future result of the faulty position",
-     "morph": "3.sg.act-fut √pat"
-    },
-    {
-     "surface": "ataś",
+     "surface": "tena",
      "gloss": "therefore",
-     "grounds": "sandhi: ataḥ + ca contextually separated; here ataḥ",
+     "grounds": "consequential particle",
      "morph": "(indecl.)"
+    },
+    {
+     "surface": "svasṛṣṭe",
+     "gloss": "self-created",
+     "grounds": "own creation; sva-sṛṣṭa",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvāṃśe",
+     "gloss": "in-portion-of-being",
+     "grounds": "part or aspect of existence; bhāva-aṃśa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svarūpātmany",
+     "gloss": "in-own-nature-self",
+     "grounds": "whose essence is one's own nature; svarūpa-ātman",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāratantryāvabhāso",
+     "gloss": "appearance-of-dependence",
+     "grounds": "manifestation of being dependent; pāratantrya-avabhāsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'yaṃ",
+     "gloss": "this",
+     "grounds": "elided demonstrative ayam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devenaivāvabhāsyate",
+     "gloss": "by-Lord-alone-is-manifested",
+     "grounds": "deva-eva-āvabhāsyate; sandhi within token",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Who manifests the clear appearance of dependence even in the self-created realm of being?",
+   "premises": [
+    "The portion of being is self-created and essentially one's own nature.",
+    "Even there a clear appearance of dependence arises.",
+    "That appearance is manifested by the Lord alone."
+   ],
+   "inference": "Dependence in the self-created realm is not imposed from outside but is manifested by the Lord himself.",
+   "uncertainties": [],
+   "plain_english": "Therefore, even in the self-created portion of being, which is essentially one's own nature, this clear appearance of dependence is manifested by the Lord alone."
+  },
+  {
+   "verse": 602,
+   "rows": [
+    {
+     "surface": "pāratantryaṃ",
+     "gloss": "dependence",
+     "grounds": "state of being dependent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalayati",
+     "gloss": "fashions",
+     "grounds": "makes, constructs, experiences as",
+     "morph": "3.sg.act-pres √kal"
+    },
+    {
+     "surface": "svatantraḥ",
+     "gloss": "self-dependent",
+     "grounds": "autonomous, free",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-Lord",
+     "grounds": "highest Lord; parama-īśvara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svātantrye",
+     "gloss": "in-autonomy",
+     "grounds": "in freedom",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pāratantrye",
+     "gloss": "in-dependence",
+     "grounds": "in being dependent",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
-     "surface": "so",
-     "gloss": "that",
-     "grounds": "sandhi: saḥ + u; refers to the knower/agent",
+     "surface": "nānyal",
+     "gloss": "not-other",
+     "grounds": "na-anyat; sandhi within token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "defining-mark",
+     "grounds": "characteristic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "is said",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What is the defining mark of autonomy and dependence in the supreme Lord?",
+   "premises": [
+    "The self-dependent supreme Lord fashions dependence.",
+    "Autonomy and dependence are both considered here.",
+    "No other defining mark is stated for them."
+   ],
+   "inference": "The sole defining mark of dependence and autonomy is that the autonomous Lord freely fashions dependence.",
+   "uncertainties": [],
+   "plain_english": "The self-dependent supreme Lord fashions dependence; no other defining mark is stated for autonomy and dependence than this."
+  },
+  {
+   "verse": 603,
+   "rows": [
+    {
+     "surface": "paricchinnaprakāśo",
+     "gloss": "limited-light",
+     "grounds": "one whose light is circumscribed; paricchinna-prakāśa",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "'paricchinnaḥ",
-     "gloss": "unlimited",
-     "grounds": "avagraha marks elided a: aparicchinnaḥ",
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaḍas",
+     "gloss": "inert",
+     "grounds": "insentient",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tenātra",
+     "gloss": "therefore-here",
+     "grounds": "tena-atra; sandhi within token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "standing, present",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paricchedaka",
      "gloss": "limiter",
-     "grounds": "predicate in the conventional sense",
+     "grounds": "that which delimits",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣo",
+     "gloss": "this",
+     "grounds": "eṣaḥ with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "also",
+     "grounds": "elided api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paricchedyo",
+     "gloss": "to-be-limited",
+     "grounds": "delimitable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows if the limiter itself is clearly limited?",
+   "premises": [
+    "What has limited light is inert.",
+    "A limiter is posited here as standing over the limited.",
+    "If that limiter is itself clearly limited, it shares the same condition."
+   ],
+   "inference": "Treating the limiter as itself limited threatens to collapse the distinction between limiter and limited.",
+   "uncertainties": [],
+   "plain_english": "For what has limited light is inert; therefore, if the limiter posited here is itself clearly something to be limited, a problem arises."
+  },
+  {
+   "verse": 604,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "then",
+     "grounds": "consequential",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "of that thing",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rūpagrahaṇe",
+     "gloss": "in-grasping-form",
+     "grounds": "in apprehending its nature; rūpa-grahaṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "light",
+     "grounds": "luminosity, awareness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "appears, manifests",
+     "morph": "3.sg.mid-pres √kāś"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "in that way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyo",
+     "gloss": "external",
+     "grounds": "outer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvāṃśaḥ",
+     "gloss": "portion-of-being",
+     "grounds": "aspect of existence; bhāva-aṃśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-itself",
+     "grounds": "on its own",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naiṣa",
+     "gloss": "not-this",
+     "grounds": "na-eṣa; sandhi within token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "appears, manifests",
+     "morph": "3.sg.mid-pres √kāś"
+    }
+   ],
+   "question": "Why does light fail to shine in grasping the form of a limited object?",
+   "premises": [
+    "If the limiter is limited, light does not shine in grasping its form.",
+    "An external portion of being does not shine by itself.",
+    "Self-manifestation is absent in the merely external object."
+   ],
+   "inference": "Because the external object lacks self-luminosity, its apprehension cannot be grounded in it alone.",
+   "uncertainties": [],
+   "plain_english": "Then, in grasping its form, light does not shine; for an external portion of being does not shine by itself."
+  },
+  {
+   "verse": 605,
+   "rows": [
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arthaprakāśātma",
+     "gloss": "whose-nature-is-object-light",
+     "grounds": "having the illumination of objects as its essence; artha-prakāśa-ātman",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tac",
+     "gloss": "and-that",
+     "grounds": "tat with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cānābhātam",
+     "gloss": "and-unmanifest",
+     "grounds": "ca-anābhāta; not appearing; sandhi within token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāpi",
+     "gloss": "of-that-too",
+     "grounds": "tasya-api; sandhi within token",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "samavāyy",
+     "gloss": "inherent",
+     "grounds": "inhering; samavāyin (truncated in sandhi)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "essence, nature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "na-eva; sandhi within token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāti",
+     "gloss": "shines",
+     "grounds": "appears",
+     "morph": "3.sg.act-pres √bhā"
+    },
+    {
+     "surface": "svarūpataḥ",
+     "gloss": "by-own-nature",
+     "grounds": "from its own form; svarūpa-tas",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can knowledge whose nature is object-illumination shine by its own nature if it is unmanifest?",
+   "premises": [
+    "Knowledge is taken as having the illumination of objects as its nature.",
+    "If that knowledge is unmanifest, it does not appear.",
+    "Even its inherent self does not shine by its own nature."
+   ],
+   "inference": "Knowledge cannot ground manifestation if it is itself unmanifest and not self-luminous.",
+   "uncertainties": [
+    "The truncated form samavāyy is read as samavāyin/samavāyī in sandhi; analysis follows that reading."
+   ],
+   "plain_english": "Knowledge is of the nature of illuminating objects, yet if it is unmanifest, even its inherent self does not shine by its own nature."
+  },
+  {
+   "verse": 606,
+   "rows": [
+    {
+     "surface": "tadīyakaraṇaṃ",
+     "gloss": "its-instrument",
+     "grounds": "the instrument belonging to that; tadīya-karaṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "netraprabhṛty",
+     "gloss": "eye-and-so-forth",
+     "grounds": "beginning with the eye; netra-prabhṛti",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "appears",
+     "morph": "3.sg.mid-pres √bhās"
+    },
+    {
+     "surface": "ālokādeś",
+     "gloss": "of-light-and-so-forth",
+     "grounds": "of light etc.; āloka-ādi (with sandhi)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñānād",
+     "gloss": "from-consciousness",
+     "grounds": "apart from cognition/awareness",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ṛte",
+     "gloss": "without",
+     "grounds": "except, apart from",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivāvābhāsanam",
+     "gloss": "not-at-all-manifestation",
+     "grounds": "na-eva-avābhāsana; sandhi within token",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Can sense instruments or external aids manifest anything without consciousness?",
+   "premises": [
+    "The instrument such as the eye does not shine by itself.",
+    "External aids such as light do not manifest objects on their own.",
+    "Without consciousness there is no manifestation at all."
+   ],
+   "inference": "Neither sense organs nor external conditions can account for manifestation apart from consciousness.",
+   "uncertainties": [],
+   "plain_english": "Its instrument, such as the eye, does not shine by itself; and without consciousness there is no manifestation at all, even with light and other aids."
+  },
+  {
+   "verse": 607,
+   "rows": [
+    {
+     "surface": "nanu",
+     "gloss": "but-surely",
+     "grounds": "objection-introducing particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātaṃ",
+     "gloss": "arisen",
+     "grounds": "produced",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arthasyāsau",
+     "gloss": "of-object-that",
+     "grounds": "arthasya-asau; sandhi within token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśatā",
+     "gloss": "luminosity",
+     "grounds": "state of being manifest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktir",
+     "gloss": "power",
+     "grounds": "capacity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dharmo",
+     "gloss": "property",
+     "grounds": "attribute",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāptaṃ",
+     "gloss": "obtained",
+     "grounds": "would follow, arrived at",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārvajñyaṃ",
+     "gloss": "omniscience",
+     "grounds": "all-knowingness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśvamaṇḍale",
+     "gloss": "in-world-sphere",
+     "grounds": "in the whole universe; viśva-maṇḍala",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What objection arises if an object's luminosity is treated as its own power or property?",
+   "premises": [
+    "An opponent may claim that when knowledge arises, the object becomes manifest.",
+    "The opponent may treat that manifestness as the object's own power or property.",
+    "If every object had such a property, universal omniscience would follow."
+   ],
+   "inference": "Making luminosity an intrinsic property of objects leads to the absurd consequence of omniscience throughout the world.",
+   "uncertainties": [],
+   "plain_english": "But if, when knowledge arises, that luminosity of the object is its own power or property, then omniscience would follow throughout the whole universe."
+  },
+  {
+   "verse": 608,
+   "rows": [
+    {
+     "surface": "anyad",
+     "gloss": "other",
+     "grounds": "something different",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evātha",
+     "gloss": "indeed-then",
+     "grounds": "eva-atha; sandhi within token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "something",
+     "grounds": "somewhat, some entity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakāśatvābhiśabditam",
+     "gloss": "called-luminosity",
+     "grounds": "designated by the term luminosity; prakāśatva-abhiśabdita",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "tat with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "meyamātṛmāneṣu",
+     "gloss": "among-object-subject-measures",
+     "grounds": "among known, knower, and knowing; meya-mātṛ-māna",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "na-eva; sandhi within token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutrāpi",
+     "gloss": "anywhere",
+     "grounds": "kutra-api; sandhi within token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgatam",
+     "gloss": "coherent",
+     "grounds": "fitting, consistent",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Can luminosity be coherently located as some separate entity among object, subject, and cognition?",
+   "premises": [
+    "One might posit luminosity as some other entity.",
+    "The candidates for locating it are the known, the knower, and the act of knowing.",
+    "It does not fit coherently in any of these."
+   ],
+   "inference": "Luminosity cannot be explained as a separate entity situated within the object-subject-cognition triad.",
+   "uncertainties": [],
+   "plain_english": "Or if that so-called luminosity is taken as something else, it does not fit coherently anywhere among the known, the knower, and the means of knowing."
+  },
+  {
+   "verse": 609,
+   "rows": [
+    {
+     "surface": "tataś",
+     "gloss": "therefore",
+     "grounds": "from that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāprakaṭaṃ",
+     "gloss": "and-unmanifest",
+     "grounds": "ca-aprakaṭa; sandhi within token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "all",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadaiva",
+     "gloss": "always",
+     "grounds": "sarvadā-eva; sandhi within token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "would become",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aprakāśasya",
+     "gloss": "of-unluminous",
+     "grounds": "of what does not shine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-being",
+     "grounds": "of an entity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syād",
+     "gloss": "there-were",
+     "grounds": "would be",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "prakāśanam",
+     "gloss": "illumination",
+     "grounds": "manifestation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dilemma follows if beings are intrinsically unmanifest yet somehow become illuminated?",
+   "premises": [
+    "If luminosity is not grounded, the whole universe would always remain unmanifest.",
+    "If an intrinsically unmanifest being were to become illuminated, that is a further problem.",
+    "The opponent faces a dilemma between permanent non-manifestation and altered nature."
+   ],
+   "inference": "Treating beings as intrinsically unmanifest makes either universal non-manifestation or loss of nature unavoidable.",
+   "uncertainties": [],
+   "plain_english": "Therefore this whole universe would always remain unmanifest; and if an unmanifest being were to become illuminated, another difficulty follows."
+  },
+  {
+   "verse": 610,
+   "rows": [
+    {
+     "surface": "tāvataivāsya",
+     "gloss": "by-that-much-alone-of-it",
+     "grounds": "tāvatā-eva-asya; sandhi within token",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hīyeta",
+     "gloss": "would-be-lost",
+     "grounds": "would be diminished",
+     "morph": "3.sg.pass-opt √hā"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "essential form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parihānitaḥ",
+     "gloss": "from-loss",
+     "grounds": "because of diminution",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "jñānotpattiś",
+     "gloss": "arising-of-knowledge",
+     "grounds": "production of cognition; jñāna-utpatti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-being",
+     "grounds": "of an entity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svarūpasthasya",
+     "gloss": "standing-in-own-nature",
+     "grounds": "remaining in its essential form; svarūpa-stha",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathā",
+     "gloss": "manifestation",
+     "grounds": "appearance, shining forth",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Does the arising of knowledge preserve or destroy the nature of a being that remains in its own form?",
+   "premises": [
+    "If illumination changes an unmanifest being, its own nature would be lost.",
+    "If knowledge arises while the being remains in its own nature, that is called manifestation.",
+    "The opponent must explain manifestation without altering the being's nature."
+   ],
+   "inference": "Manifestation cannot be explained as a change in the object's nature while it remains what it is.",
+   "uncertainties": [],
+   "plain_english": "By that much its own nature would be lost; and if the arising of knowledge is the manifestation of a being while it remains in its own nature, that must be explained."
+  },
+  {
+   "verse": 611,
+   "rows": [
+    {
+     "surface": "aviśiṣṭe",
+     "gloss": "in-undifferentiated",
+     "grounds": "not distinguished",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svarūpasthabhāve",
+     "gloss": "in-being-standing-in-own-nature",
+     "grounds": "in an entity remaining in its essence; svarūpa-stha-bhāva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśvasya",
+     "gloss": "of-universe",
+     "grounds": "of all",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "that manifestation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "why",
+     "grounds": "rhetorical question particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "from that reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśo",
+     "gloss": "light",
+     "grounds": "manifestation, luminosity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśvasya",
+     "gloss": "of-universe",
+     "grounds": "of all",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "paricchedakaniṣṭhitaḥ",
+     "gloss": "resting-in-limiter",
+     "grounds": "grounded in the delimiting principle; paricchedaka-niṣṭhita",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why would manifestation not occur universally if beings remain undifferentiated in their own nature?",
+   "premises": [
+    "If a being remains undifferentiated in its own nature, no selective manifestation is explained.",
+    "Manifestation of the whole universe would then be inexplicable or universal.",
+    "Therefore the light of the universe must be grounded in a limiter."
+   ],
+   "inference": "The manifestation of the universe is grounded in the delimiting principle, not in undifferentiated objective being.",
+   "uncertainties": [],
+   "plain_english": "If a being remains undifferentiated in its own nature, why would that manifestation not belong to the whole universe? Therefore the light of the universe rests in the limiter."
+  },
+  {
+   "verse": 612,
+   "rows": [
+    {
+     "surface": "tatsvātantryāvabhāsotthacitrākāravibheditaḥ",
+     "gloss": "differentiated-by-varied-forms-risen-from-its-free-manifestation",
+     "grounds": "tat-svātantrya-avabhāsa-uttha-citra-ākāra-vibhedita; long compound within token",
+     "morph": "compound"
+    },
+    {
+     "surface": "paricchedaka",
+     "gloss": "limiter",
+     "grounds": "delimiting principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paricchedyo",
+     "gloss": "to-be-limited",
+     "grounds": "delimitable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "would become",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "from that",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows if the limiter differentiated by freely manifested forms is itself limited?",
+   "premises": [
+    "The limiter is differentiated by varied forms arising from its own free manifestation.",
+    "One might still suppose that this limiter is itself limited.",
+    "That supposition would generate a further regress."
+   ],
+   "inference": "If the freely manifesting limiter is treated as limited, the account of limitation becomes unstable.",
+   "uncertainties": [],
+   "plain_english": "If the limiter, differentiated by varied forms arising from the manifestation of its own freedom, were itself something to be limited, then a consequence follows."
+  },
+  {
+   "verse": 613,
+   "rows": [
+    {
+     "surface": "mūlakṣatikarī",
+     "gloss": "root-destroying",
+     "grounds": "damaging the foundation; mūla-kṣati-karī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "seyam",
+     "gloss": "this-indeed",
+     "grounds": "sā-iyam; sandhi within token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anavasthā",
+     "gloss": "infinite-regress",
+     "grounds": "lack of stable ground",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "patiṣyati",
+     "gloss": "will-fall",
+     "grounds": "will occur",
+     "morph": "3.sg.act-fut √pat"
+    },
+    {
+     "surface": "ataś",
+     "gloss": "therefore",
+     "grounds": "from this",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so",
+     "gloss": "that",
+     "grounds": "saḥ with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'paricchinnaḥ",
+     "gloss": "unlimited",
+     "grounds": "elided a-paricchinnaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paricchedaka",
+     "gloss": "limiter",
+     "grounds": "delimiting principle",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ucyate",
      "gloss": "is-called",
-     "grounds": "states the conventional designation",
+     "grounds": "is said",
      "morph": "3.sg.pass-pres √vac"
     }
    ],
-   "question": "Why is the unlimited self still called a limiter?",
+   "question": "Why must the ultimate limiter be called unlimited?",
    "premises": [
-    "Treating the knower as limited by time leads to a root-destroying infinite regress.",
-    "To avoid that regress, the knower must be taken as unlimited.",
-    "Even so, that unlimited knower is conventionally called a limiter."
+    "If the limiter were itself limited, a root-destroying infinite regress would follow.",
+    "An infinite regress cannot ground manifestation.",
+    "Therefore the limiter must be unlimited."
    ],
-   "inference": "The knower is unlimited in essence but is designated a limiter to avoid infinite regress.",
+   "inference": "To avoid infinite regress, the ultimate delimiting principle must itself be unlimited.",
    "uncertainties": [],
-   "plain_english": "This would lead to a root-destroying infinite regress. Therefore that unlimited one is called a limiter."
+   "plain_english": "Then this root-destroying infinite regress would occur; therefore that limiter is said to be unlimited."
   },
   {
    "verse": 614,
    "rows": [
     {
      "surface": "akālpyas",
-     "gloss": "not-conceivable",
-     "grounds": "sandhi: akalpyaḥ; not subject to conceptual limitation",
+     "gloss": "not-constructible",
+     "grounds": "not to be conceptually fabricated; a-kalpya",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tena",
      "gloss": "therefore",
-     "grounds": "instrumental used adverbially as logical connector",
+     "grounds": "for that reason",
      "morph": "(indecl.)"
     },
     {
      "surface": "śāstreṣu",
      "gloss": "in-scriptures",
-     "grounds": "locative of authority",
+     "grounds": "in the teachings",
      "morph": "n.loc.pl"
     },
     {
      "surface": "tan",
      "gloss": "therefore",
-     "grounds": "sandhi: tat; correlative/conclusive particle",
+     "grounds": "tat with sandhi; consequential",
      "morph": "(indecl.)"
     },
     {
@@ -111,49 +1043,49 @@
     {
      "surface": "kālasya",
      "gloss": "of-time",
-     "grounds": "time as limiting principle",
+     "grounds": "of temporal limitation",
      "morph": "m.gen.sg"
     },
     {
      "surface": "gocaraḥ",
-     "gloss": "within-range",
-     "grounds": "predicate: not an object of time",
+     "gloss": "object",
+     "grounds": "domain, range",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tenāsya",
-     "gloss": "therefore-its",
-     "grounds": "sandhi: tena + asya",
-     "morph": "compound=tena+therefore, asya+its"
+     "gloss": "therefore-of-it",
+     "grounds": "tena-asya; sandhi within token",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "vedyadharmatvaṃ",
-     "gloss": "knowable-object-status",
-     "grounds": "sandhi: vedyadharmatvam; status of being a property of the knowable",
-     "morph": "compound=vedya+knowable, dharma+property, tva+status; n.nom.sg"
+     "gloss": "state-of-being-known-object-property",
+     "grounds": "the condition of having knowable properties; vedya-dharma-tva",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "kālasya",
      "gloss": "of-time",
-     "grounds": "time is assigned this status",
+     "grounds": "of temporal limitation",
      "morph": "m.gen.sg"
     },
     {
      "surface": "paribhāṣitam",
-     "gloss": "declared",
-     "grounds": "scriptural declaration",
-     "morph": "n.nom.sg past-passive-participle √bhāṣ with pari"
+     "gloss": "explained",
+     "grounds": "defined, stated",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "Why is time said to belong to the knowable rather than limit the knower?",
+   "question": "Why is the unlimited limiter not within the domain of time according to the scriptures?",
    "premises": [
-    "The knower is not conceptually limited.",
-    "Therefore the knower does not fall within the range of time.",
-    "The scriptures accordingly declare time to be a property of the knowable."
+    "The unlimited limiter is not conceptually constructible as a limited object.",
+    "Therefore it is not within the domain of time.",
+    "The knowable-property status belongs to time, not to that limiter."
    ],
-   "inference": "Time cannot limit the knower and is instead classified as belonging to the knowable.",
+   "inference": "Time governs knowable, delimited properties, so the unlimited limiter cannot fall under time's domain.",
    "uncertainties": [],
-   "plain_english": "Because the knower cannot be conceptually limited, he is not within the range of time; therefore the scriptures declare that time has the status of a property of the knowable."
+   "plain_english": "Therefore it is not constructible and, as the scriptures say, not within the domain of time; for that reason the condition of being a knowable object is explained as belonging to time."
   },
   {
    "verse": 615,
@@ -161,85 +1093,85 @@
     {
      "surface": "yadi",
      "gloss": "if",
-     "grounds": "introduces a hypothetical",
+     "grounds": "conditional particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "kālaś",
      "gloss": "time",
-     "grounds": "sandhi: kālaḥ",
+     "grounds": "kālaḥ with sandhi",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "mātāraṃ",
-     "gloss": "knower",
-     "grounds": "object of limitation in the hypothetical",
+     "gloss": "subject",
+     "grounds": "the knower",
      "morph": "m.acc.sg"
     },
     {
      "surface": "paricchindyāt",
      "gloss": "would-limit",
-     "grounds": "hypothetical action of time",
-     "morph": "3.sg.act-opt √chid with pari"
+     "grounds": "would delimit",
+     "morph": "3.sg.act-opt √chid"
     },
     {
      "surface": "tato",
      "gloss": "then",
-     "grounds": "consequence of the hypothetical",
+     "grounds": "from that",
      "morph": "(indecl.)"
     },
     {
      "surface": "dhruvam",
      "gloss": "certainly",
-     "grounds": "emphasizes the consequence",
+     "grounds": "fixedly, surely",
      "morph": "(indecl.)"
     },
     {
      "surface": "mātṛlagnaiva",
-     "gloss": "knower-attached-alone",
-     "grounds": "sandhi: mātṛlagnā + eva; time's existence would depend on the knower",
-     "morph": "compound=mātṛ+knower, lagna+attached, eva+alone; f.nom.sg"
+     "gloss": "attached-to-subject-alone",
+     "grounds": "mātṛ-lagna-eva; sandhi within token",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "kālasya",
      "gloss": "of-time",
-     "grounds": "possessor in the consequence",
+     "grounds": "of temporal limitation",
      "morph": "m.gen.sg"
     },
     {
      "surface": "sthitir",
-     "gloss": "existence",
-     "grounds": "sandhi: sthitiḥ; what would require support",
+     "gloss": "standing",
+     "grounds": "stability, position",
      "morph": "f.nom.sg"
     },
     {
      "surface": "nirvāham",
      "gloss": "functioning",
-     "grounds": "object of the need for support",
+     "grounds": "carrying through, operation",
      "morph": "m.acc.sg"
     },
     {
      "surface": "icchati",
-     "gloss": "would-require",
-     "grounds": "states the dependency",
+     "gloss": "requires",
+     "grounds": "wishes, seeks",
      "morph": "3.sg.act-pres √iṣ"
     }
    ],
-   "question": "What follows if time is supposed to limit the knower?",
+   "question": "What follows if time is supposed to delimit the knowing subject?",
    "premises": [
-    "Suppose time limits the knower.",
-    "Then time's own existence would depend on being attached to that knower.",
-    "Time would require that knower for its functioning."
+    "Suppose time delimits the subject.",
+    "Time's own stability would then depend on that subject.",
+    "Time would require the subject's functioning to operate."
    ],
-   "inference": "If time limited the knower, time would itself be dependent on the knower.",
+   "inference": "Time cannot be the ultimate delimiter of the subject, because its operation presupposes the subject.",
    "uncertainties": [],
-   "plain_english": "If time were to limit the knower, then the existence of time would certainly depend on that knower alone and would require him for its functioning."
+   "plain_english": "If time were to delimit the subject, then the stability of time would certainly depend on the subject and would require the subject's functioning."
   },
   {
    "verse": 616,
@@ -253,79 +1185,79 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "mātrantaraṃ",
-     "gloss": "another-knower",
-     "grounds": "sandhi: mātṛantaram; alternative limiting knower",
-     "morph": "compound=mātṛ+knower, antara+another; n.nom.sg"
+     "gloss": "another-subject",
+     "grounds": "a different knower; mātṛ-antara",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "kiṃcit",
      "gloss": "any",
-     "grounds": "indefinite qualifier",
+     "grounds": "some",
      "morph": "n.nom.sg"
     },
     {
      "surface": "saṃbhaved",
-     "gloss": "could-arise",
-     "grounds": "denies the possibility of another knower",
-     "morph": "3.sg.act-opt √bhū with sam"
+     "gloss": "would-be-possible",
+     "grounds": "could arise",
+     "morph": "3.sg.act-opt √bhū"
     },
     {
      "surface": "anavasthiteḥ",
      "gloss": "because-of-infinite-regress",
-     "grounds": "reason for denying another knower",
+     "grounds": "due to instability/regress",
      "morph": "f.abl.sg"
     },
     {
      "surface": "tāṃ",
      "gloss": "that",
-     "grounds": "refers to the infinite regress",
+     "grounds": "that regress",
      "morph": "f.acc.sg"
     },
     {
      "surface": "hantuṃ",
      "gloss": "to-remove",
-     "grounds": "purpose of the next step",
-     "morph": "infinitive √han"
+     "grounds": "to destroy, to end",
+     "morph": "(inf.) √han"
     },
     {
      "surface": "vopagamyo",
-     "gloss": "must-be-accepted",
-     "grounds": "sandhi: vā + upagamyaḥ; gerundive of acceptance",
-     "morph": "compound=vā+or, upagamyaḥ+to-be-accepted; m.nom.sg"
+     "gloss": "or-to-be-accepted",
+     "grounds": "vā-upagamya; sandhi within token",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "'sau",
      "gloss": "that",
-     "grounds": "avagraha marks elided a: asau",
+     "grounds": "elided asau",
      "morph": "m.nom.sg"
     },
     {
      "surface": "mātā",
-     "gloss": "knower",
-     "grounds": "the knower who must be accepted as ultimate",
+     "gloss": "subject",
+     "grounds": "the knower",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kālakalojjhitaḥ",
-     "gloss": "free-from-time-and-limitation",
-     "grounds": "describes the accepted knower",
-     "morph": "compound=kāla+time, kalā+limitation, ujjhita+free-from; m.nom.sg"
+     "gloss": "free-from-time-division",
+     "grounds": "devoid of temporal limitation; kāla-kalā-ujjhita",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Why must the ultimate knower be accepted as free from time and limitation?",
+   "question": "How can infinite regress be avoided if another subject is posited to ground time?",
    "premises": [
-    "No other knower can be posited without falling into infinite regress.",
-    "To remove that infinite regress, a final knower must be accepted.",
-    "That accepted knower must be free from time and limitation."
+    "Positing another subject to ground time would not be possible without infinite regress.",
+    "Infinite regress must be removed to make the account coherent.",
+    "Therefore the subject must be accepted as free from temporal division."
    ],
-   "inference": "Avoiding infinite regress requires accepting a knower who is not limited by time.",
+   "inference": "To avoid regress, the knowing subject must ultimately be free from time's delimitation.",
    "uncertainties": [],
-   "plain_english": "No other knower can be admitted, because that would lead to infinite regress; to remove that regress, one must accept that knower as free from time and limitation."
+   "plain_english": "And no other subject could be posited, because of infinite regress; to remove that regress, this subject must be accepted as free from the divisions of time."
   },
   {
    "verse": 617,
@@ -333,7 +1265,7 @@
     {
      "surface": "ya",
      "gloss": "who",
-     "grounds": "sandhi: yaḥ; relative pronoun",
+     "grounds": "yaḥ with sandhi",
      "morph": "m.nom.sg"
     },
     {
@@ -351,20 +1283,20 @@
     {
      "surface": "paricchedyo",
      "gloss": "limited",
-     "grounds": "describes the empirical knower",
+     "grounds": "to be delimited",
      "morph": "m.nom.sg"
     },
     {
      "surface": "mātā",
-     "gloss": "knower",
-     "grounds": "subject of the relative clause",
+     "gloss": "subject",
+     "grounds": "the knower",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tallagna",
      "gloss": "attached-to-that",
-     "grounds": "sandhi: tatlagnaḥ; attached to time",
-     "morph": "compound=tat+that, lagna+attached; m.nom.sg"
+     "grounds": "dependent on that; tat-lagna",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "eva",
@@ -381,106 +1313,106 @@
     {
      "surface": "sa",
      "gloss": "that",
-     "grounds": "refers to time",
+     "grounds": "demonstrative",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kālo",
      "gloss": "time",
-     "grounds": "subject in the consequence",
+     "grounds": "temporal limitation",
      "morph": "m.nom.sg"
     },
     {
      "surface": "mātṛmeyatve",
-     "gloss": "in-being-measured-by-knower",
-     "grounds": "locative of the problematic condition",
-     "morph": "compound=mātṛ+knower, meya+measured, tva+state; n.loc.sg"
+     "gloss": "in-subject-object-status",
+     "grounds": "in being both knower and known; mātṛ-meya-tva",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "tarhy",
      "gloss": "then",
-     "grounds": "sandhi: tarhi; introduces the challenge",
+     "grounds": "tarhi with sandhi",
      "morph": "(indecl.)"
     },
     {
      "surface": "ekasya",
      "gloss": "of-one",
-     "grounds": "points to the same entity playing both roles",
+     "grounds": "of a single entity",
      "morph": "m.gen.sg"
     },
     {
      "surface": "kathaṃ",
      "gloss": "how",
-     "grounds": "rhetorical challenge",
+     "grounds": "interrogative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tava",
      "gloss": "for-you",
-     "grounds": "addresses the opponent",
-     "morph": "pronoun.gen.sg"
+     "grounds": "in your view",
+     "morph": "pron.gen.sg"
     }
    ],
-   "question": "How can one entity be both limited by time and the measure of time in a dualist view?",
+   "question": "How can one entity be both subject and object if time is attached to a limited subject?",
    "premises": [
-    "The limited knower is said to be attached to time.",
-    "If time is also measured by that knower, the same entity plays both roles.",
-    "In a dualist framework, this mutual dependence is problematic."
+    "A limited subject may be taken as dependent on time.",
+    "If time makes that same entity both subject and known, a dual role is assigned.",
+    "In a strict difference-based view, one entity cannot coherently hold both roles."
    ],
-   "inference": "The opponent's dualist account cannot coherently make the same knower both time-bound and time-measuring.",
+   "inference": "The opponent's difference-based framework cannot explain one entity functioning as both subject and object under time.",
    "uncertainties": [],
-   "plain_english": "But if the limited knower is attached to time, and time is in turn measured by that knower, then how can this be so for you, when it concerns one and the same entity?"
+   "plain_english": "But if the limited subject is indeed dependent on that time, then how, in your view, can one and the same entity be both subject and object?"
   },
   {
    "verse": 618,
    "rows": [
     {
      "surface": "bhedavāde",
-     "gloss": "in-dualist-doctrine",
-     "grounds": "locative of the opponent's position",
-     "morph": "compound=bheda+difference, vāda+doctrine; m.loc.sg"
+     "gloss": "in-difference-doctrine",
+     "grounds": "in the view based on difference; bheda-vāda",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "hi",
-     "gloss": "indeed",
+     "gloss": "for",
      "grounds": "explanatory particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhavatāṃ",
      "gloss": "of-you-all",
-     "grounds": "addresses the dualist opponents",
-     "morph": "pronoun.gen.pl"
+     "grounds": "of your school",
+     "morph": "pron.gen.pl"
     },
     {
      "surface": "niṣṭhitā",
      "gloss": "fixed",
-     "grounds": "describes their settled view",
-     "morph": "f.nom.sg past-passive-participle √sthā with nis"
+     "grounds": "settled, established",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "matir",
      "gloss": "view",
-     "grounds": "subject: their doctrinal stance",
+     "grounds": "opinion, understanding",
      "morph": "f.nom.sg"
     },
     {
      "surface": "īdṛśī",
      "gloss": "such",
-     "grounds": "refers to the rigid separation implied above",
+     "grounds": "of this kind",
      "morph": "f.nom.sg"
     },
     {
      "surface": "abhedavādināṃ",
-     "gloss": "of-nondualist-speakers",
-     "grounds": "contrasts with the dualists",
-     "morph": "compound=abheda+non-difference, vādin+speaker; m.gen.pl"
+     "gloss": "of-non-difference-speakers",
+     "grounds": "of those who hold non-difference; abheda-vādin",
+     "morph": "m.gen.pl"
     },
     {
      "surface": "nas",
      "gloss": "for-us",
-     "grounds": "sandhi: naḥ; the author's side",
-     "morph": "pronoun.gen.pl"
+     "grounds": "naḥ with sandhi",
+     "morph": "pron.gen.pl"
     },
     {
      "surface": "tu",
@@ -491,37 +1423,37 @@
     {
      "surface": "naiva",
      "gloss": "not-at-all",
-     "grounds": "sandhi: na + eva; strong negation",
-     "morph": "compound=na+not, eva+indeed"
+     "grounds": "na-eva; sandhi within token",
+     "morph": "(indecl.)"
     },
     {
      "surface": "kāpy",
      "gloss": "any",
-     "grounds": "sandhi: kāpi; indefinite qualifier",
+     "grounds": "kā-api; sandhi within token",
      "morph": "f.nom.sg"
     },
     {
      "surface": "astu",
      "gloss": "let-there-be",
-     "grounds": "concessive/imperative force",
-     "morph": "3.sg.act-imperative √as"
+     "grounds": "may be",
+     "morph": "3.sg.act-imper √as"
     },
     {
      "surface": "khaṇḍanā",
      "gloss": "refutation",
-     "grounds": "states that the objection does not apply to nondualists",
+     "grounds": "objection, defeat",
      "morph": "f.nom.sg"
     }
    ],
-   "question": "Why does the objection about time and knower not refute the nondualist position?",
+   "question": "Why does the subject-object objection not refute the non-difference position?",
    "premises": [
-    "The objection depends on a fixed dualist commitment to separation.",
-    "That commitment belongs to the dualists, not to the nondualists.",
-    "For nondualists, the same objection has no refuting force."
+    "The objection presupposes a fixed commitment to difference.",
+    "That commitment belongs to the difference-doctrine.",
+    "For those who hold non-difference, the same objection does not apply."
    ],
-   "inference": "The time-knower dilemma undermines dualism but does not apply to the nondualist view.",
+   "inference": "The objection is effective only within a difference framework and does not refute the non-difference view.",
    "uncertainties": [],
-   "plain_english": "In the doctrine of difference, your view is fixed in that way; but for us, who uphold non-difference, there is no such refutation at all."
+   "plain_english": "For in the doctrine of difference your view is fixed in that way; but for us, who uphold non-difference, let there be no such refutation at all."
   },
   {
    "verse": 619,
@@ -529,43 +1461,43 @@
     {
      "surface": "viśvaṃ",
      "gloss": "universe",
-     "grounds": "the totality of manifestation",
+     "grounds": "all",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mātṛmayaṃ",
-     "gloss": "knower-made",
-     "grounds": "universe consists of the knower",
-     "morph": "compound=mātṛ+knower, maya+made-of; n.nom.sg"
+     "gloss": "consisting-of-subject",
+     "grounds": "made of the knower; mātṛ-maya",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "yeṣāṃ",
      "gloss": "for-whom",
-     "grounds": "relative pronoun marking the nondualist position",
+     "grounds": "of those",
      "morph": "m.gen.pl"
     },
     {
      "surface": "mātā",
-     "gloss": "knower",
-     "grounds": "subject of the reciprocal identity",
+     "gloss": "subject",
+     "grounds": "the knower",
      "morph": "m.nom.sg"
     },
     {
      "surface": "viśvamayas",
-     "gloss": "universe-made",
-     "grounds": "sandhi: viśvamayaḥ; knower consists of the universe",
-     "morph": "compound=viśva+universe, maya+made-of; m.nom.sg"
+     "gloss": "consisting-of-universe",
+     "grounds": "made of all; viśva-maya",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "marks reciprocal identity",
+     "grounds": "in the same way",
      "morph": "(indecl.)"
     },
     {
      "surface": "tan",
      "gloss": "therefore",
-     "grounds": "sandhi: tat; draws the conclusion",
+     "grounds": "tat with sandhi",
      "morph": "(indecl.)"
     },
     {
@@ -576,100 +1508,100 @@
     },
     {
      "surface": "kālakalājālajambālaiḥ",
-     "gloss": "by-time-and-limitation-net-mires",
-     "grounds": "instrumental of what does not taint the Lord",
-     "morph": "compound=kāla+time, kalā+limitation, jāla+net, jambāla+mire; m.inst.pl"
+     "gloss": "by-mires-of-time-and-limitation-nets",
+     "grounds": "by entangling nets of time and limiting factors; kāla-kalā-jāla-jambāla",
+     "morph": "m.inst.pl"
     },
     {
      "surface": "parameśvaraḥ",
-     "gloss": "supreme-lord",
-     "grounds": "subject untouched by limiting factors",
-     "morph": "compound=parama+supreme, īśvara+lord; m.nom.sg"
+     "gloss": "supreme-Lord",
+     "grounds": "highest Lord; parama-īśvara",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Why is the supreme Lord not tainted by time and limitation?",
+   "question": "Why is the supreme Lord not bound by time and limiting factors in the non-difference view?",
    "premises": [
-    "For nondualists, the universe is made of the knower and the knower is made of the universe.",
-    "This reciprocal identity leaves no external limiting principle over the Lord.",
-    "Therefore the nets and mires of time and limitation do not taint the supreme Lord."
+    "For this view, the universe consists of the subject.",
+    "Likewise the subject consists of the universe.",
+    "The supreme Lord is not entangled by the nets and mire of time and limitation."
    ],
-   "inference": "Because knower and universe are non-different, the supreme Lord remains untouched by time and limitation.",
+   "inference": "Because subject and universe are mutually contained in the supreme Lord, time and limitation do not bind him.",
    "uncertainties": [],
-   "plain_english": "For those for whom the universe is made of the knower and the knower is likewise made of the universe, the supreme Lord is not tainted by the nets and mires of time and limitation."
+   "plain_english": "For those for whom the universe consists of the subject and the subject likewise consists of the universe, the supreme Lord is not entangled in the mire of the nets of time and limiting factors."
   },
   {
    "verse": 620,
    "rows": [
     {
      "surface": "citiśaktiprakāśo",
-     "gloss": "consciousness-power-light",
-     "grounds": "the light of the power of consciousness",
-     "morph": "compound=citi+consciousness, śakti+power, prakāśa+light; m.nom.sg"
+     "gloss": "light-of-consciousness-power",
+     "grounds": "the luminosity of the power of consciousness; citi-śakti-prakāśa",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "hi",
-     "gloss": "indeed",
+     "gloss": "for",
      "grounds": "explanatory particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mālinyam",
-     "gloss": "taint",
-     "grounds": "apparent obscuration",
+     "gloss": "tarnish",
+     "grounds": "impurity, obscuration",
      "morph": "n.acc.sg"
     },
     {
      "surface": "avalambate",
-     "gloss": "assumes",
-     "grounds": "takes on an appearance of taint",
-     "morph": "3.sg.mid-pres √lamb with ava"
+     "gloss": "takes-on",
+     "grounds": "assumes, rests upon",
+     "morph": "3.sg.mid-pres √lamb"
     },
     {
      "surface": "atas",
      "gloss": "therefore",
-     "grounds": "draws the consequence",
+     "grounds": "from that",
      "morph": "(indecl.)"
     },
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "at that stage of apparent taint",
+     "grounds": "at that time",
      "morph": "(indecl.)"
     },
     {
      "surface": "saṃvṛto",
      "gloss": "concealed",
-     "grounds": "sandhi: saṃvṛtaḥ; appears covered",
-     "morph": "m.nom.sg past-passive-participle √vṛ with sam"
+     "grounds": "covered",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "'sau",
      "gloss": "that",
-     "grounds": "avagraha marks elided a: asau",
+     "grounds": "elided asau",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paścāt",
-     "gloss": "later",
-     "grounds": "subsequent stage",
+     "gloss": "afterward",
+     "grounds": "later",
      "morph": "(indecl.)"
     },
     {
      "surface": "prakaṭarūpakaḥ",
-     "gloss": "manifest-form",
-     "grounds": "appears openly manifest again",
-     "morph": "compound=prakaṭa+manifest, rūpaka+form; m.nom.sg"
+     "gloss": "having-manifest-form",
+     "grounds": "appearing openly; prakaṭa-rūpaka",
+     "morph": "m.nom.sg"
     }
    ],
    "question": "How can the light of consciousness appear concealed and later manifest?",
    "premises": [
-    "The light of consciousness-power can assume an appearance of taint.",
-    "When it assumes that appearance, it seems concealed.",
-    "Later that same light appears in manifest form."
+    "The light of the power of consciousness takes on an appearance of tarnish.",
+    "Because of that, it appears concealed at one stage.",
+    "Afterward it appears in manifest form."
    ],
-   "inference": "Concealment and manifestation are apparent modes of the one light of consciousness.",
+   "inference": "Concealment and manifestation are modes of appearance of the same consciousness-power, not changes in its essence.",
    "uncertainties": [],
-   "plain_english": "The light of the power of consciousness indeed assumes a kind of taint; therefore at that time it appears concealed, and later it appears in manifest form."
+   "plain_english": "For the light of the power of consciousness takes on a kind of tarnish; therefore it appears concealed at that time and later appears in manifest form."
   },
   {
    "verse": 621,
@@ -677,129 +1609,129 @@
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "marks the conclusion of the preceding account",
+     "grounds": "in this way",
      "morph": "(indecl.)"
     },
     {
      "surface": "tasyaiva",
      "gloss": "of-that-alone",
-     "grounds": "sandhi: tasya + eva; refers to the light of consciousness",
-     "morph": "compound=tasya+of-that, eva+alone"
+     "grounds": "tasya-eva; sandhi within token",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "jṛmbheyaṃ",
      "gloss": "this-unfolding",
-     "grounds": "the expansion described above",
+     "grounds": "this expansion, blossoming",
      "morph": "f.nom.sg"
     },
     {
      "surface": "tathātvavyapadeśinī",
-     "gloss": "indicating-such-state",
-     "grounds": "describes the unfolding as expressive of that condition",
-     "morph": "compound=tathātva+such-state, vyapadeśinī+indicating; f.nom.sg"
+     "gloss": "designating-such-state",
+     "grounds": "indicating that condition; tathātva-vyapadeśinī",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "kalanaivāsya",
-     "gloss": "creative-activity-alone-of-it",
-     "grounds": "sandhi: kalanā + eva + asya",
-     "morph": "compound=kalanā+creative-activity, eva+alone, asya+of-it"
+     "gloss": "creative-construal-alone-of-it",
+     "grounds": "kalanā-eva-asya; sandhi within token",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "sā",
      "gloss": "that",
-     "grounds": "refers to the unfolding",
+     "grounds": "demonstrative",
      "morph": "f.nom.sg"
     },
     {
      "surface": "kācit",
      "gloss": "a-certain",
-     "grounds": "indefinite but specific power",
+     "grounds": "kā-cit; sandhi within token",
      "morph": "f.nom.sg"
     },
     {
      "surface": "svarūpāmarśanātmikā",
-     "gloss": "self-awareness-natured",
-     "grounds": "its essence is reflective awareness of its own nature",
-     "morph": "compound=svarūpa+own-nature, āmarśana+reflective-awareness, ātmikā+natured; f.nom.sg"
+     "gloss": "whose-nature-is-self-awareness",
+     "grounds": "consisting in reflective awareness of one's own nature; svarūpa-āmarśana-ātmikā",
+     "morph": "f.nom.sg"
     }
    ],
-   "question": "What is the nature of the unfolding that makes consciousness seem concealed and manifest?",
+   "question": "What is the unfolding that designates concealment and manifestation in consciousness?",
    "premises": [
-    "The unfolding described above belongs to that same light of consciousness.",
-    "That unfolding indicates the apparent states of concealment and manifestation.",
-    "It is a creative activity whose essence is reflective awareness of its own nature."
+    "The described concealment and manifestation are an unfolding of that same consciousness.",
+    "This unfolding designates such a condition.",
+    "It is a certain creative construal whose nature is reflective awareness of one's own form."
    ],
-   "inference": "The apparent concealment and manifestation are expressions of consciousness's own self-reflective creative activity.",
+   "inference": "The apparent change is the Lord's own reflective creative activity, not an external alteration.",
    "uncertainties": [],
-   "plain_english": "Thus this unfolding, which indicates such states, is that very creative activity of consciousness alone, a certain power whose nature is reflective awareness of its own being."
+   "plain_english": "Thus this unfolding, which designates that condition, belongs to that same reality alone; it is a certain creative construal of its own, whose nature is reflective awareness of its own form."
   },
   {
    "verse": 622,
    "rows": [
     {
      "surface": "śivayogārham",
-     "gloss": "fit-for-union-with-shiva",
-     "grounds": "describes the self as capable of union with Shiva",
-     "morph": "compound=śiva+shiva, yoga+union, arha+fit; m.acc.sg"
+     "gloss": "fit-for-union-with-Śiva",
+     "grounds": "worthy of Śiva-union; śiva-yoga-arha",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "ātmānaṃ",
      "gloss": "self",
-     "grounds": "object of self-recognition",
+     "grounds": "oneself",
      "morph": "m.acc.sg"
     },
     {
      "surface": "yasyām",
      "gloss": "in-which",
-     "grounds": "refers to the creative activity of consciousness",
+     "grounds": "in that construal",
      "morph": "f.loc.sg"
     },
     {
      "surface": "ātmābhimanyate",
-     "gloss": "self-recognizes",
-     "grounds": "sandhi: ātmā + abhimanyate; the self takes itself as such",
-     "morph": "compound=ātmā+self, abhimanyate+recognizes; 3.sg.mid-pres √man with abhi"
+     "gloss": "self-regards-itself",
+     "grounds": "the self takes itself to be; ātmā-abhimanyate",
+     "morph": "3.sg.mid-pres √man"
     },
     {
      "surface": "yato",
      "gloss": "because",
-     "grounds": "introduces the reason for varied experience",
+     "grounds": "since",
      "morph": "(indecl.)"
     },
     {
      "surface": "vaicitryayogena",
      "gloss": "through-connection-with-variety",
-     "grounds": "instrumental cause of diverse self-apprehension",
-     "morph": "compound=vaicitrya+variety, yoga+connection; m.inst.sg"
+     "grounds": "by association with diversity; vaicitrya-yoga",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "tathātmānaṃ",
      "gloss": "thus-self",
-     "grounds": "sandhi: tathā + ātmānam; the self in varied forms",
-     "morph": "compound=tathā+thus, ātmānam+self"
+     "grounds": "tathā-ātmānam; sandhi within token",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sa",
-     "gloss": "that",
-     "grounds": "refers to the self",
+     "gloss": "he",
+     "grounds": "that self",
      "morph": "m.nom.sg"
     },
     {
      "surface": "manyate",
-     "gloss": "considers",
-     "grounds": "the self apprehends itself in diverse ways",
+     "gloss": "regards",
+     "grounds": "considers, takes itself",
      "morph": "3.sg.mid-pres √man"
     }
    ],
-   "question": "How does the self come to recognize itself in varied ways?",
+   "question": "How does the self come to regard itself in varied ways while remaining fit for union with Śiva?",
    "premises": [
-    "In that creative activity, the self can recognize itself as fit for union with Shiva.",
-    "Through connection with variety, the same self apprehends itself in different forms.",
-    "Self-recognition therefore admits both unity and diversity."
+    "In that reflective construal the self regards itself as fit for union with Śiva.",
+    "Through association with variety the self regards itself in particular ways.",
+    "These self-regardings are modes of the same self's construal."
    ],
-   "inference": "The self's varied self-apprehensions arise within consciousness's creative activity without abandoning its capacity for union with Shiva.",
+   "inference": "The self's varied self-understandings arise through its own reflective construal in connection with variety.",
    "uncertainties": [],
-   "plain_english": "In that activity the self recognizes itself as fit for union with Shiva, and because of its connection with variety, that same self comes to regard itself in various ways."
+   "plain_english": "In that construal the self regards itself as fit for union with Śiva; for through connection with variety it comes to regard itself in that way."
   },
   {
    "verse": 623,
@@ -807,55 +1739,55 @@
     {
      "surface": "śaktipātasya",
      "gloss": "of-descent-of-power",
-     "grounds": "the grace/descent of power",
-     "morph": "compound=śakti+power, pāta+descent; m.gen.sg"
+     "grounds": "of the fall/descent of grace-power; śakti-pāta",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "tenoktā",
      "gloss": "therefore-stated",
-     "grounds": "sandhi: tena + uktā; stated for that reason",
-     "morph": "compound=tena+therefore, uktā+stated; f.nom.sg past-passive-participle √vac"
+     "grounds": "tena-uktā; sandhi within token",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "navadhātra",
      "gloss": "ninefold-here",
-     "grounds": "sandhi: navadhā + atra; ninefold arrangement",
-     "morph": "compound=navadhā+ninefold, atra+here"
+     "grounds": "navadhā-atra; sandhi within token",
+     "morph": "(indecl.)"
     },
     {
      "surface": "vyavasthitiḥ",
      "gloss": "arrangement",
-     "grounds": "the structured classification",
+     "grounds": "classification, system",
      "morph": "f.nom.sg"
     },
     {
      "surface": "anyathā",
      "gloss": "otherwise",
-     "grounds": "introduces the rejected alternative",
+     "grounds": "if not so",
      "morph": "(indecl.)"
     },
     {
      "surface": "neśvarasyāsti",
-     "gloss": "not-of-lord-is",
-     "grounds": "sandhi: na + īśvarasya + asti; denies passion in the Lord",
-     "morph": "compound=na+not, īśvarasya+of-lord, asti+is"
+     "gloss": "not-of-Lord-is",
+     "grounds": "na-īśvarasya-asti; sandhi within token",
+     "morph": "3.sg.act-pres √as"
     },
     {
      "surface": "rāgo",
      "gloss": "attachment",
-     "grounds": "a possible motive denied of the Lord",
+     "grounds": "desire, partiality",
      "morph": "m.nom.sg"
     },
     {
      "surface": "dveṣo",
      "gloss": "aversion",
-     "grounds": "sandhi: dveṣaḥ; another possible motive denied of the Lord",
+     "grounds": "hatred, repulsion",
      "morph": "m.nom.sg"
     },
     {
      "surface": "'tha",
      "gloss": "or",
-     "grounds": "avagraha marks elided a: atha; alternative particle",
+     "grounds": "elided atha",
      "morph": "(indecl.)"
     },
     {
@@ -867,19 +1799,19 @@
     {
      "surface": "kvacit",
      "gloss": "anywhere",
-     "grounds": "denies such motives in any case",
+     "grounds": "in any case",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Why is the descent of power said to have a ninefold arrangement?",
+   "question": "Why is the descent of power said to have a ninefold arrangement without implying partiality in the Lord?",
    "premises": [
     "The descent of power is taught here as ninefold.",
-    "If it were otherwise, one would have to attribute attachment or aversion to the Lord.",
+    "If this variety were due to preference, the Lord would have attachment or aversion.",
     "The Lord has no attachment or aversion anywhere."
    ],
-   "inference": "The ninefold arrangement of the descent of power explains its variation without attributing passion to the Lord.",
+   "inference": "The ninefold arrangement of śaktipāta reflects the structure of reception, not partiality in the Lord.",
    "uncertainties": [],
-   "plain_english": "For this reason the descent of power is said here to have a ninefold arrangement; otherwise the Lord would have attachment or aversion somewhere, which he does not."
+   "plain_english": "Therefore the descent of power is taught here as ninefold; otherwise the Lord would have attachment or aversion somewhere, which he does not."
   },
   {
    "verse": 624,
@@ -887,91 +1819,91 @@
     {
      "surface": "yena",
      "gloss": "by-which",
-     "grounds": "relative pronoun indicating a motive",
+     "grounds": "whereby",
      "morph": "m.inst.sg"
     },
     {
      "surface": "kvāpy",
      "gloss": "anywhere",
-     "grounds": "sandhi: kvāpi; in any case",
+     "grounds": "kva-api; sandhi within token",
      "morph": "(indecl.)"
     },
     {
      "surface": "eṣa",
      "gloss": "this",
-     "grounds": "refers to the Lord",
+     "grounds": "demonstrative",
      "morph": "m.nom.sg"
     },
     {
      "surface": "niyatāṃ",
-     "gloss": "restricted",
-     "grounds": "describes a selectively directed power",
-     "morph": "f.acc.sg past-passive-participle √yam with ni"
+     "gloss": "fixed",
+     "grounds": "determined, restricted",
+     "morph": "f.acc.sg"
     },
     {
      "surface": "svāṃ",
      "gloss": "own",
-     "grounds": "refers to the Lord's own power",
+     "grounds": "his own",
      "morph": "f.acc.sg"
     },
     {
      "surface": "śaktiṃ",
      "gloss": "power",
-     "grounds": "object of the descent",
+     "grounds": "energy, grace-power",
      "morph": "f.acc.sg"
     },
     {
      "surface": "pātayed",
-     "gloss": "would-cause-to-descend",
-     "grounds": "hypothetical motivated action denied of the Lord",
-     "morph": "3.sg.act-opt causative √pat"
+     "gloss": "would-cause-to-fall",
+     "grounds": "would send down",
+     "morph": "3.sg.act-opt √pat (caus.)"
     },
     {
      "surface": "vibhuḥ",
-     "gloss": "all-pervading-lord",
-     "grounds": "subject of the hypothetical",
+     "gloss": "all-pervading-Lord",
+     "grounds": "sovereign",
      "morph": "m.nom.sg"
     },
     {
      "surface": "animittas",
-     "gloss": "without-motive",
-     "grounds": "sandhi: animittaḥ; describes the descent of power",
-     "morph": "compound=a+without, nimitta+motive; m.nom.sg"
+     "gloss": "without-cause",
+     "grounds": "without external motive; a-nimitta",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "thus",
-     "grounds": "draws the conclusion",
+     "grounds": "accordingly",
      "morph": "(indecl.)"
     },
     {
      "surface": "cāyaṃ",
      "gloss": "and-this",
-     "grounds": "sandhi: ca + ayam",
-     "morph": "compound=ca+and, ayam+this"
+     "grounds": "ca-ayam; sandhi within token",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "śaktipāto",
      "gloss": "descent-of-power",
-     "grounds": "sandhi: śaktipātaḥ; subject of the conclusion",
-     "morph": "compound=śakti+power, pāta+descent; m.nom.sg"
+     "grounds": "fall/descent of grace-power; śakti-pāta",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "maheśituḥ",
-     "gloss": "of-great-lord",
-     "grounds": "possessor of the descent of power",
-     "morph": "compound=mahā+great, īśituḥ+lord; m.gen.sg"
+     "gloss": "of-great-Lord",
+     "grounds": "of the great sovereign; mahā-īśitṛ",
+     "morph": "m.gen.sg"
     }
    ],
-   "question": "Is the Lord's descent of power caused by any motive?",
+   "question": "What would follow if the all-pervading Lord sent down his power in a fixed and motivated way?",
    "premises": [
-    "If the Lord acted from a motive, he would selectively direct his power in a restricted way.",
-    "The Lord has no attachment or aversion that could supply such a motive.",
-    "Therefore the descent of the great Lord's power is without motive."
+    "If the Lord caused his own power to descend in a fixed manner somewhere, that would imply a determining cause.",
+    "The Lord is not subject to attachment, aversion, or external motive.",
+    "Therefore the descent of power is without external cause."
    ],
-   "inference": "The descent of power is not motivated by passion but occurs without external cause in the Lord.",
+   "inference": "The great Lord's descent of power is causeless with respect to external motives, though it appears in ordered forms.",
    "uncertainties": [],
-   "plain_english": "There is no motive by which the all-pervading Lord would cause his own power to descend in a restricted way anywhere; thus this descent of the great Lord's power is without motive."
+   "plain_english": "For if this all-pervading Lord were to send down his own power in a fixed way anywhere, that would imply a motive; thus this descent of power of the great Lord is without external cause."
   }
  ]
 }
