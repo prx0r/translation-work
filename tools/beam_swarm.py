@@ -24,6 +24,23 @@ sys.path.insert(0, str(ROOT / 'tools'))
 STATE = ROOT / 'process' / 'beam'
 QFILE = STATE / 'queue.json'
 
+
+def _brief_text(work: str, ahn: str = '') -> str:
+    """Transmission brief for a front. tantraloka brief (tal-aNN.md) wins;
+    otherwise fall back to a work-level brief ({work}.md). Returns '' when
+    neither exists. Additive only — tantraloka resolution unchanged."""
+    cands = []
+    if ahn:
+        cands.append(STATE / 'lore' / f'tal-a{ahn}.md')
+    cands.append(STATE / 'lore' / f'{work}.md')
+    for p in cands:
+        try:
+            if p.exists():
+                return p.read_text()
+        except OSError:
+            continue
+    return ''
+
 _AVAGRAHA = {'\u02bc', '\u2019', "'", '`', '\u02bd'}
 
 
@@ -385,10 +402,7 @@ def run_tal_gloss(t: dict) -> tuple[bool, str]:
     surfs = [x['surface'] for x in entry['tokens']]
     ctx = t.get('args', {}).get('context', '')
     ahn = t['args'].get('ahnika') or (work.split('tantraloka-a')[-1] if work.startswith('tantraloka-a') else '')
-    lore = ''
-    lp = STATE / 'lore' / f'tal-a{ahn}.md' if ahn else None
-    if lp is not None and lp.exists():
-        lore = lp.read_text()[:4000]
+    lore = _brief_text(work, ahn)[:4000]
     prev = (t.get('note') or '').split(' | ')[-1]
     user = (f'Verse {verse} ({len(surfs)} tokens, hyphen-split compounds, @ marks sandhi):\n'
             + '\n'.join(f'{i}: {s}' for i, s in enumerate(surfs))
@@ -450,8 +464,11 @@ def run_tal_cm(t: dict) -> tuple[bool, str]:
             pass
     if any(not g for _, g in pairs):
         return False, 'glosses missing — run tal_gloss first'
+    ahn = t['args'].get('ahnika') or (work.split('tantraloka-a')[-1] if work.startswith('tantraloka-a') else '')
+    cmlore = _brief_text(work, ahn)[:2000]
     user = ('Verse tokens (surface = gloss):\n'
             + '\n'.join(f'{s} = {g}' for s, g in pairs)
+            + ('\n\nTRANSMISSION BRIEF (orient morphology + grounds to this doctrine):\n' + cmlore if cmlore else '')
             + '\n\nOne CM row per token IN ORDER: [lemma_iast, morph, grounds]. '
               'Reply ONLY JSON: {"song": "...", "verse": N, "rows": [{"lemma": "...", "morph": "...", "grounds": "..."}]}')
     text = beam(TAL_CM_SYS, user, session=f'tal-cm-{song}-v{verse}-001', max_tokens=64000)
@@ -542,12 +559,11 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
     wt = json.loads((ROOT / work / f'working-t1-{song}.json').read_text())
     byv = {e['verse']: e for e in wt}
     ahn = work.split('tantraloka-a')[-1]
-    lp = STATE / 'lore' / f'tal-a{ahn}.md'
     # FULL transmission brief — we have a 1M-token window; do not truncate.
-    lore = lp.read_text() if lp.exists() else ''
+    lore = _brief_text(work, ahn)
     # Whole-ahnika map for orientation (which verses exist / where this group sits)
     all_vs = sorted(byv)
-    amap = f"Ahnika a{ahn}: verses {all_vs[0]}..{all_vs[-1]} ({len(all_vs)} units). This group: {verses[0]}..{verses[-1]}."
+    amap = f"Song {song}: units {all_vs[0]}..{all_vs[-1]} ({len(all_vs)} units). This group: {verses[0]}..{verses[-1]}."
     # Neighbouring verses (immediate before/after) for continuity of the argument.
     neigh = [v for v in (verses[0]-2, verses[0]-1, verses[-1]+1, verses[-1]+2) if v in byv]
     nblocks = []
@@ -668,8 +684,7 @@ def run_tal_am(t: dict) -> tuple[bool, str]:
         except (OSError, ValueError, KeyError):
             pass
     ahn = work.split('tantraloka-a')[-1]
-    lp = STATE / 'lore' / f'tal-a{ahn}.md'
-    lore = lp.read_text()[:6000] if lp.exists() else ''
+    lore = _brief_text(work, ahn)[:6000]
     prev = (t.get('note') or '').split(' | ')[-1]
     user = ('VERSE %d\n' % verse
             + '\n'.join(f'{s} = {g}   [{morph.get(s,"")}]' for s, g in pairs)
