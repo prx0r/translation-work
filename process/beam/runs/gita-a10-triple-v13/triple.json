@@ -1,0 +1,437 @@
+{
+ "song": "gita-a10",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "āhustvāmṛṣayaḥ",
+     "gloss": "sages-say-you",
+     "grounds": "fused sandhi form; sages speak of you",
+     "morph": "3pl.act.pres+acc.sg+nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "adjective modifying sages",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "devarṣirnāradastathā",
+     "gloss": "and-divine-sage-narada",
+     "grounds": "fused compound; divine sage Narada likewise",
+     "morph": "nom.sg.m+indecl."
+    },
+    {
+     "surface": "asito",
+     "gloss": "asita",
+     "grounds": "proper name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "devalo",
+     "gloss": "devala",
+     "grounds": "proper name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vyāsaḥ",
+     "gloss": "vyasa",
+     "grounds": "proper name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "fused indeclinables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bravīṣi",
+     "gloss": "you-speak",
+     "grounds": "second person singular present",
+     "morph": "2sg.act.pres"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Who are named as witnesses that Krishna is the supreme Lord?",
+   "premises": [
+    "sages and named teachers say you",
+    "you yourself also speak to me",
+    "the list includes Narada Asita Devala Vyasa"
+   ],
+   "inference": "Arjuna cites authoritative witnesses to Krishna's supreme status",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given without splitting"
+   ],
+   "plain_english": "The sages all say this of you, and likewise the divine sage Narada, Asita, Devala, and Vyasa; you yourself also speak to me."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "sarvametadṛtaṃ",
+     "gloss": "all-this-true",
+     "grounds": "fused compound; entire statement accepted as true",
+     "morph": "acc.sg.n+indecl."
+    },
+    {
+     "surface": "manye",
+     "gloss": "i-think",
+     "grounds": "first person singular present",
+     "morph": "1sg.act.pres"
+    },
+    {
+     "surface": "yanme",
+     "gloss": "what-to-me",
+     "grounds": "fused relative and pronoun",
+     "morph": "rel+dat.sg"
+    },
+    {
+     "surface": "vadasi",
+     "gloss": "you-speak",
+     "grounds": "second person singular present",
+     "morph": "2sg.act.pres"
+    },
+    {
+     "surface": "keśava",
+     "gloss": "kesava",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "genitive of you",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "bhagavanvyaktiṃ",
+     "gloss": "lord-manifestation",
+     "grounds": "fused compound; manifestation of the Lord",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vidurdevā",
+     "gloss": "gods-know",
+     "grounds": "fused form; gods know",
+     "morph": "3pl.act.pres+nom.pl.m"
+    },
+    {
+     "surface": "mahaṣayaḥ",
+     "gloss": "great-sages",
+     "grounds": "nominal plural",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Why do gods and great sages fail to know Krishna's manifestation?",
+   "premises": [
+    "Arjuna accepts all Krishna says as true",
+    "gods and great sages do not know your manifestation",
+    "Krishna's self-knowledge exceeds theirs"
+   ],
+   "inference": "Krishna's manifestation is known only by himself",
+   "uncertainties": [
+    "fused token vidurdevā analyzed as one surface"
+   ],
+   "plain_english": "I think all this is true, O Kesava, that you speak to me; for neither gods nor great sages know your manifestation, O Lord."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "svayamevātmanātmānaṃ",
+     "gloss": "oneself-by-oneself-oneself",
+     "grounds": "fused reflexive compound",
+     "morph": "nom.sg+instr.sg+acc.sg"
+    },
+    {
+     "surface": "vettha",
+     "gloss": "you-know",
+     "grounds": "second person singular perfect",
+     "morph": "2sg.act.pft"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "nominative pronoun",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "puruṣottama",
+     "gloss": "best-person",
+     "grounds": "vocative compound",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "bhūtabhāvana",
+     "gloss": "creator-of-beings",
+     "grounds": "vocative compound",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "bhūteśa",
+     "gloss": "lord-of-beings",
+     "grounds": "vocative compound",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "devadeva",
+     "gloss": "god-of-gods",
+     "grounds": "vocative compound",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "jagatpate",
+     "gloss": "lord-of-world",
+     "grounds": "vocative compound",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "How does Krishna know himself without another knower?",
+   "premises": [
+    "you know yourself by yourself",
+    "you are addressed as best person",
+    "you are creator lord and god of gods"
+   ],
+   "inference": "Krishna's self-knowledge is immediate and unmediated",
+   "uncertainties": [
+    "long fused reflexive compound kept as one row"
+   ],
+   "plain_english": "You yourself know yourself by yourself, O best of persons, creator of beings, lord of beings, god of gods, lord of the world."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "vaktumarhasyaśeṣeṇa",
+     "gloss": "you-should-tell-completely",
+     "grounds": "fused infinitive and verb",
+     "morph": "inf+2sg.act.pres+indecl."
+    },
+    {
+     "surface": "vibhūtīrātmanaḥ",
+     "gloss": "glories-of-self",
+     "grounds": "fused genitive compound",
+     "morph": "acc.pl.f+gen.sg"
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "adjective modifying glories",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "yābhirvibhūtibhirlokānimāṃstvaṃ",
+     "gloss": "by-which-glories-these-worlds-you",
+     "grounds": "fused relative instrumental and pronoun",
+     "morph": "rel.instr.pl+acc.pl.m+nom.sg"
+    },
+    {
+     "surface": "vyāpya",
+     "gloss": "having-pervaded",
+     "grounds": "gerund",
+     "morph": "ger"
+    },
+    {
+     "surface": "tiṣṭhasi",
+     "gloss": "you-stand",
+     "grounds": "second person singular present",
+     "morph": "2sg.act.pres"
+    }
+   ],
+   "question": "What glories pervade and sustain all these worlds?",
+   "premises": [
+    "Krishna should tell his glories completely",
+    "the glories are auspicious",
+    "by them he pervades and stands in worlds"
+   ],
+   "inference": "Krishna's vibhutis are the means of cosmic pervasion",
+   "uncertainties": [
+    "fused relative instrumental kept as one surface"
+   ],
+   "plain_english": "You should tell completely the auspicious glories of yourself, by which glories you pervade and stand in all these worlds."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyāmahaṃ",
+     "gloss": "may-i-know",
+     "grounds": "first person singular optative",
+     "morph": "1sg.act.opt"
+    },
+    {
+     "surface": "yogiṃstvāmahaṃ",
+     "gloss": "yogi-you-i",
+     "grounds": "fused vocative accusative nominative",
+     "morph": "voc.sg.m+acc.sg+nom.sg"
+    },
+    {
+     "surface": "paricintayan",
+     "gloss": "considering",
+     "grounds": "present participle",
+     "morph": "nom.sg.m.part"
+    },
+    {
+     "surface": "keṣu",
+     "gloss": "in-which",
+     "grounds": "locative plural interrogative",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "keṣu",
+     "gloss": "in-which",
+     "grounds": "locative plural interrogative",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāveṣu",
+     "gloss": "in-states",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "cintyo'si",
+     "gloss": "you-are-to-be-thought",
+     "grounds": "fused passive form",
+     "morph": "2sg.pass.pres"
+    },
+    {
+     "surface": "bhagavanmayā",
+     "gloss": "lord-by-me",
+     "grounds": "fused vocative and instrumental",
+     "morph": "voc.sg.m+instr.sg"
+    }
+   ],
+   "question": "In which states should Arjuna continually think of Krishna?",
+   "premises": [
+    "Arjuna asks how he may know Krishna",
+    "he considers Krishna while thinking",
+    "Krishna is to be thought in certain states"
+   ],
+   "inference": "Arjuna seeks the specific loci of meditative remembrance",
+   "uncertainties": [
+    "fused vocative accusative nominative kept as one surface"
+   ],
+   "plain_english": "How may I know you, O yogi, while I consider you? In which and which states are you to be thought, O Lord, by me?"
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "vistareṇātmano",
+     "gloss": "in-detail-of-self",
+     "grounds": "fused instrumental and genitive",
+     "morph": "instr.sg.m+gen.sg"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vibhūtiṃ",
+     "gloss": "glory",
+     "grounds": "accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janārdana",
+     "gloss": "janardana",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaya",
+     "gloss": "tell",
+     "grounds": "second person singular imperative",
+     "morph": "2sg.act.imp"
+    },
+    {
+     "surface": "tṛptirhi",
+     "gloss": "satisfaction-indeed",
+     "grounds": "fused noun and particle",
+     "morph": "nom.sg.f+indecl."
+    },
+    {
+     "surface": "śṛṇvato",
+     "gloss": "of-hearing",
+     "grounds": "genitive participle",
+     "morph": "gen.sg.m.part"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "negative existential",
+     "morph": "3sg.act.pres"
+    },
+    {
+     "surface": "me'mṛtam",
+     "gloss": "my-nectar",
+     "grounds": "fused genitive and nominative",
+     "morph": "gen.sg+nom.sg.n"
+    }
+   ],
+   "question": "Why does Arjuna ask Krishna to speak again in detail?",
+   "premises": [
+    "Arjuna asks for yoga and glory in detail",
+    "he says there is no satisfaction in hearing",
+    "the hearing is like nectar to him"
+   ],
+   "inference": "Arjuna's desire for Krishna's teaching is inexhaustible",
+   "uncertainties": [
+    "fused genitive nominative kept as one surface"
+   ],
+   "plain_english": "Tell again in detail your yoga and glory, O Janardana; for there is no satisfaction for me hearing this nectar."
+  }
+ ]
+}

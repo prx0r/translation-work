@@ -1,0 +1,574 @@
+{
+ "song": "gita-a10",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "etāṃ",
+     "gloss": "this",
+     "grounds": "feminine accusative singular of etad",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vibhūtiṃ",
+     "gloss": "glory",
+     "grounds": "accusative singular of vibhūti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "accusative singular of yoga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive singular of asmad",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "masculine nominative singular of yad",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "third singular active present of vid",
+     "morph": "3.sg.act-pres (root vid)"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-truth",
+     "grounds": "ablative adverb from tattva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so'vikampena",
+     "gloss": "by-unshaken",
+     "grounds": "fused sandhi form so + avikampena",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "yogena",
+     "gloss": "by-yoga",
+     "grounds": "instrumental singular of yoga",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-united",
+     "grounds": "third singular passive present of yuj",
+     "morph": "3.sg.pass-pres (root yuj)"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "fused sandhi form na + atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular of saṃśaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who knows this glory and yoga in truth?",
+   "premises": [
+    "Knowing in truth unites one with yoga",
+    "No doubt remains in this matter"
+   ],
+   "inference": "True knowing of the Lord's glory and yoga removes doubt and unites the knower.",
+   "uncertainties": [
+    "The fused sandhi forms are analyzed as given without splitting"
+   ],
+   "plain_english": "Whoever truly knows this glory and yoga is united by unshaken yoga; there is no doubt here."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "first person nominative singular of asmad",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive singular of sarva",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prabhavo",
+     "gloss": "source",
+     "grounds": "nominative singular of prabhava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itaḥ",
+     "gloss": "from-this",
+     "grounds": "ablative adverb from idam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "nominative singular of sarva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "proceeds",
+     "grounds": "third singular active present of pravṛt",
+     "morph": "3.sg.act-pres (root pravṛt)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matvā",
+     "gloss": "having-thought",
+     "grounds": "absolutive of man",
+     "morph": "abs (root man)"
+    },
+    {
+     "surface": "bhajante",
+     "gloss": "worship",
+     "grounds": "third plural active present of bhaj",
+     "morph": "3.pl.act-pres (root bhaj)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative singular of asmad",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "budhā",
+     "gloss": "the-wise",
+     "grounds": "nominative plural of budha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhāvasamanvitāḥ",
+     "gloss": "endowed-with-devotion",
+     "grounds": "nominative plural compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do the wise worship the Lord?",
+   "premises": [
+    "The Lord is source of all",
+    "All proceeds from the Lord",
+    "The wise worship with devotion"
+   ],
+   "inference": "Recognizing the Lord as source of all leads the wise to devoted worship.",
+   "uncertainties": [
+    "Compound bhāvasamanvitāḥ is glossed as a whole"
+   ],
+   "plain_english": "I am the source of all; all proceeds from me; thus the wise, endowed with devotion, worship me."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "maccittā",
+     "gloss": "minds-fixed-on-me",
+     "grounds": "nominative plural compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "madgataprāṇā",
+     "gloss": "lives-gone-to-me",
+     "grounds": "nominative plural compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bodhayantaḥ",
+     "gloss": "enlightening",
+     "grounds": "nominative plural present participle of bodh",
+     "morph": "m.nom.pl.part (root bodh)"
+    },
+    {
+     "surface": "parasparam",
+     "gloss": "one-another",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathayantaśca",
+     "gloss": "and-telling",
+     "grounds": "nominative plural present participle of kath with ca",
+     "morph": "m.nom.pl.part (root kath)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative singular of asmad",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṣyanti",
+     "gloss": "are-satisfied",
+     "grounds": "third plural active present of tuṣ",
+     "morph": "3.pl.act-pres (root tuṣ)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ramayanti",
+     "gloss": "delight",
+     "grounds": "third plural active present of ram",
+     "morph": "3.pl.act-pres (root ram)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parasparabodhanayā",
+     "gloss": "by-mutual-enlightenment",
+     "grounds": "instrumental singular compound",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "anyonyabodhasphārasaṃkramaṇāt",
+     "gloss": "from-transfer-of-mutual-knowing",
+     "grounds": "ablative singular compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "nominative singular of sarva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramātāra",
+     "gloss": "knowers",
+     "grounds": "nominative plural of pramātṛ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "nominative singular of eka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśvaraḥ-iti",
+     "gloss": "Lord-thus",
+     "grounds": "fused sandhi form īśvaraḥ + iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vitatavyāptyā",
+     "gloss": "by-pervasion",
+     "grounds": "instrumental singular compound",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "sukhenaiva",
+     "gloss": "easily-indeed",
+     "grounds": "fused sandhi form sukhena + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśaktikasarvagatasvātmarūpatādhigamena",
+     "gloss": "by-attaining-all-power-all-pervading-self-form",
+     "grounds": "instrumental singular compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "māheśvaryameṣāmiti",
+     "gloss": "this-is-Lordship-thus",
+     "grounds": "fused sandhi form māheśvaryam + eṣā + iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative singular of bhāva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "9",
+     "gloss": "nine",
+     "grounds": "numeral marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do devoted knowers mutually delight in the Lord?",
+   "premises": [
+    "Devoted knowers enlighten one another",
+    "Mutual knowing transfers between them",
+    "All knowers are one Lord through pervasion"
+   ],
+   "inference": "Mutual enlightenment among devoted knowers reveals the one Lord pervading all.",
+   "uncertainties": [
+    "Long compounds are glossed as wholes",
+    "The numeral token is retained as given"
+   ],
+   "plain_english": "With minds fixed on me and lives gone to me, they enlighten and tell of me always, delighting one another through mutual knowing; all knowers are one Lord, attained easily by pervasion."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural of tad",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "satatayuktānāṃ",
+     "gloss": "of-constantly-united",
+     "grounds": "genitive plural compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhajatāṃ",
+     "gloss": "of-worshippers",
+     "grounds": "genitive plural present participle of bhaj",
+     "morph": "m.gen.pl.part (root bhaj)"
+    },
+    {
+     "surface": "prītipūrvakam",
+     "gloss": "with-love-first",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadāmi",
+     "gloss": "I-give",
+     "grounds": "first singular active present of dā",
+     "morph": "1.sg.act-pres (root dā)"
+    },
+    {
+     "surface": "buddhiyogaṃ",
+     "gloss": "wisdom-yoga",
+     "grounds": "accusative singular compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "accusative singular of tad",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental singular of yad",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative singular of asmad",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "prāpayanti",
+     "gloss": "they-reach",
+     "grounds": "third plural active present of prāp",
+     "morph": "3.pl.act-pres (root prāp)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "nominative plural of tad",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What does the Lord give to constant worshippers?",
+   "premises": [
+    "Constant worshippers receive wisdom-yoga",
+    "That wisdom-yoga leads to the Lord"
+   ],
+   "inference": "The Lord gives wisdom-yoga to devoted worshippers so they reach him.",
+   "uncertainties": [
+    "Compound buddhiyogaṃ is glossed as a whole"
+   ],
+   "plain_english": "To those constantly united and worshipping with love, I give that wisdom-yoga by which they reach me."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "teṣāmevānukampārthamahamajñānajaṃ",
+     "gloss": "for-their-compassion-I-ignorance-born",
+     "grounds": "fused sandhi compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tamaḥ",
+     "gloss": "darkness",
+     "grounds": "accusative singular of tamas",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāśayāmyātmabhāvastho",
+     "gloss": "I-destroy-abiding-in-self-state",
+     "grounds": "fused sandhi compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñānadīpena",
+     "gloss": "by-knowledge-lamp",
+     "grounds": "instrumental singular compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "bhāsvatā",
+     "gloss": "shining",
+     "grounds": "instrumental singular of bhāsvat",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "How does the Lord remove ignorance-born darkness?",
+   "premises": [
+    "Compassion moves the Lord",
+    "He abides in self-state",
+    "He destroys darkness by shining knowledge"
+   ],
+   "inference": "Out of compassion, the Lord destroys ignorance-born darkness with the shining lamp of knowledge.",
+   "uncertainties": [
+    "Fused sandhi compounds are analyzed as given without splitting"
+   ],
+   "plain_english": "For their compassion, I, abiding in self-state, destroy ignorance-born darkness with the shining lamp of knowledge."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "arjuna",
+     "gloss": "Arjuna",
+     "grounds": "vocative singular of arjuna",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "third singular active perfect of vac",
+     "morph": "3.sg.act-perf (root vac)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "accusative singular of para",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "Brahman",
+     "grounds": "accusative singular of brahman",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "accusative singular of para",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "abode",
+     "grounds": "accusative singular of dhāman",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pavitraṃ",
+     "gloss": "pure",
+     "grounds": "accusative singular of pavitra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "highest",
+     "grounds": "accusative singular of parama",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavān",
+     "gloss": "you",
+     "grounds": "nominative singular of bhavat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puruṣaṃ",
+     "gloss": "person",
+     "grounds": "accusative singular of puruṣa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāśvataṃ",
+     "gloss": "eternal",
+     "grounds": "accusative singular of śāśvata",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "divyamādidevamajaṃ",
+     "gloss": "divine-first-god-unborn",
+     "grounds": "fused sandhi compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vibhum",
+     "gloss": "all-pervading",
+     "grounds": "accusative singular of vibhu",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How does Arjuna describe the Lord?",
+   "premises": [
+    "Arjuna calls the Lord supreme Brahman",
+    "He calls him supreme abode and pure",
+    "He calls him eternal divine first god"
+   ],
+   "inference": "Arjuna addresses the Lord as supreme Brahman, abode, pure, eternal, divine, first god, unborn, and all-pervading.",
+   "uncertainties": [
+    "Fused sandhi compound is analyzed as given without splitting"
+   ],
+   "plain_english": "Arjuna said: you are supreme Brahman, supreme abode, pure, highest person, eternal, divine first god, unborn, all-pervading."
+  }
+ ]
+}

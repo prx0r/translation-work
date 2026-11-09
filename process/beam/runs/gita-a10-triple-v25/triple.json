@@ -1,0 +1,401 @@
+{
+ "song": "gita-a10",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "maharṣīṇāṃ",
+     "gloss": "of great sages",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhṛgurahaṃ",
+     "gloss": "I am Bhṛgu",
+     "grounds": "fused bhṛgu + aham",
+     "morph": "m.nom.sg + 1sg"
+    },
+    {
+     "surface": "girāmapyekamakṣaram",
+     "gloss": "one imperishable syllable among speeches",
+     "grounds": "fused girām + api + ekam + akṣaram",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yajñānāṃ",
+     "gloss": "of sacrifices",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "japayajño'smi",
+     "gloss": "I am the sacrifice of muttered prayer",
+     "grounds": "fused japayajñaḥ + asmi",
+     "morph": "m.nom.sg + 1sg"
+    },
+    {
+     "surface": "sthāvarāṇāṃ",
+     "gloss": "of immovable things",
+     "grounds": "genitive plural neuter",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "himālayaḥ",
+     "gloss": "Himalaya",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which forms does the Lord declare among sages, speech, sacrifices, and mountains?",
+   "premises": [
+    "Bhṛgu is named among great sages.",
+    "One imperishable syllable is named among speeches.",
+    "Himalaya is named among immovable things."
+   ],
+   "inference": "The verse lists divine self-identifications across categories.",
+   "uncertainties": [],
+   "plain_english": "Among great sages I am Bhṛgu; among speeches the one imperishable syllable; among sacrifices the sacrifice of muttered prayer; among immovable things Himalaya."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "aśvatthaḥ",
+     "gloss": "sacred fig tree",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvavṛkṣāṇāṃ",
+     "gloss": "of all trees",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "devarṣīṇāṃ",
+     "gloss": "of divine sages",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāradaḥ",
+     "gloss": "Nārada",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gandharvāṇāṃ",
+     "gloss": "of gandharvas",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "citrarathaḥ",
+     "gloss": "Citraratha",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhānāṃ",
+     "gloss": "of perfected ones",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kapilo",
+     "gloss": "Kapila",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which forms does the Lord declare among trees, divine sages, gandharvas, and perfected ones?",
+   "premises": [
+    "The sacred fig tree is named among all trees.",
+    "Nārada is named among divine sages.",
+    "Citraratha is named among gandharvas.",
+    "Kapila is named among perfected sages."
+   ],
+   "inference": "The verse continues divine self-identification by category.",
+   "uncertainties": [],
+   "plain_english": "Among all trees the sacred fig tree; among divine sages Nārada; among gandharvas Citraratha; among perfected ones Kapila the sage."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "uccaiḥ",
+     "gloss": "loudly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śravasamaśvānāṃ",
+     "gloss": "of horses the swift one",
+     "grounds": "fused śravasam + aśvānām",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "second person singular imperative",
+     "morph": "2sg.impv"
+    },
+    {
+     "surface": "māmamṛtodbhavam",
+     "gloss": "me born of nectar",
+     "grounds": "fused mām + amṛtodbhavam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "airāvataṃ",
+     "gloss": "Airāvata",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gajendrāṇāṃ",
+     "gloss": "of lordly elephants",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "narāṇāṃ",
+     "gloss": "of men",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narādhipam",
+     "gloss": "lord of men",
+     "grounds": "compound accusative singular masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which forms does the Lord declare among horses, elephants, and men?",
+   "premises": [
+    "The swift one is named among horses.",
+    "Airāvata is named among lordly elephants.",
+    "The lord of men is named among men."
+   ],
+   "inference": "The verse identifies divine forms in animal and human categories.",
+   "uncertainties": [
+    "The fused token śravasamaśvānāṃ is treated as one row."
+   ],
+   "plain_english": "Know me as the swift one among horses, Airāvata among lordly elephants, and the lord of men among men."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "āyudhānāmahaṃ",
+     "gloss": "I am of weapons",
+     "grounds": "fused āyudhānām + aham",
+     "morph": "n.gen.pl + 1sg"
+    },
+    {
+     "surface": "vajraṃ",
+     "gloss": "thunderbolt",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhenūnāmasmi",
+     "gloss": "I am of cows",
+     "grounds": "fused dhenūnām + asmi",
+     "morph": "f.gen.pl + 1sg"
+    },
+    {
+     "surface": "kāmadhuk",
+     "gloss": "wish-cow",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajanaścāsmi",
+     "gloss": "I am procreation",
+     "grounds": "fused prajanaḥ + ca + asmi",
+     "morph": "m.nom.sg + 1sg"
+    },
+    {
+     "surface": "kandarpaḥ",
+     "gloss": "Kandarpa",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarpāṇāmasmi",
+     "gloss": "I am of serpents",
+     "grounds": "fused sarpāṇām + asmi",
+     "morph": "m.gen.pl + 1sg"
+    },
+    {
+     "surface": "vāsukiḥ",
+     "gloss": "Vāsuki",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which forms does the Lord declare among weapons, cows, procreation, and serpents?",
+   "premises": [
+    "The thunderbolt is named among weapons.",
+    "The wish-cow is named among cows.",
+    "Kandarpa is named as procreation.",
+    "Vāsuki is named among serpents."
+   ],
+   "inference": "The verse identifies divine forms across weapons, cattle, desire, and serpents.",
+   "uncertainties": [],
+   "plain_english": "I am the thunderbolt among weapons, the wish-cow among cows, Kandarpa as procreation, and Vāsuki among serpents."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "anantaścāsmi",
+     "gloss": "I am Ananta",
+     "grounds": "fused anantaḥ + ca + asmi",
+     "morph": "m.nom.sg + 1sg"
+    },
+    {
+     "surface": "nāgānāṃ",
+     "gloss": "of serpents",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "varuṇo",
+     "gloss": "Varuṇa",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yādasāmaham",
+     "gloss": "I am of aquatic beings",
+     "grounds": "fused yādasām + aham",
+     "morph": "n.gen.pl + 1sg"
+    },
+    {
+     "surface": "pitṛṇāmaryamā",
+     "gloss": "Aryaman of ancestors",
+     "grounds": "fused pitṛṇām + aryamā",
+     "morph": "m.gen.pl + m.nom.sg"
+    },
+    {
+     "surface": "cāsmi",
+     "gloss": "and I am",
+     "grounds": "fused ca + asmi",
+     "morph": "(indecl.) + 1sg"
+    },
+    {
+     "surface": "yamaḥ",
+     "gloss": "Yama",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃyamatāmaham",
+     "gloss": "I am of controllers",
+     "grounds": "fused saṃyamatām + aham",
+     "morph": "m.gen.pl + 1sg"
+    }
+   ],
+   "question": "Which forms does the Lord declare among serpents, waters, ancestors, and controllers?",
+   "premises": [
+    "Ananta is named among serpents.",
+    "Varuṇa is named among aquatic beings.",
+    "Aryaman is named among ancestors.",
+    "Yama is named among controllers."
+   ],
+   "inference": "The verse identifies divine forms in cosmic and ancestral categories.",
+   "uncertainties": [],
+   "plain_english": "I am Ananta among serpents, Varuṇa among aquatic beings, Aryaman among ancestors, and Yama among controllers."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "prahlādaścāsmi",
+     "gloss": "I am Prahlāda",
+     "grounds": "fused prahlādaḥ + ca + asmi",
+     "morph": "m.nom.sg + 1sg"
+    },
+    {
+     "surface": "daityānāṃ",
+     "gloss": "of daityas",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalayatāmaham",
+     "gloss": "I am of those who reckon",
+     "grounds": "fused kalayatām + aham",
+     "morph": "m.gen.pl + 1sg"
+    },
+    {
+     "surface": "mṛgāṇāṃ",
+     "gloss": "of beasts",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛgendro'haṃ",
+     "gloss": "I am lion king",
+     "grounds": "fused mṛgendraḥ + aham",
+     "morph": "m.nom.sg + 1sg"
+    },
+    {
+     "surface": "vainateyaśca",
+     "gloss": "and Vainateya",
+     "grounds": "fused vainateyaḥ + ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pakṣiṇām",
+     "gloss": "of birds",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Which forms does the Lord declare among daityas, reckoners, beasts, and birds?",
+   "premises": [
+    "Prahlāda is named among daityas.",
+    "Time is named among those who reckon.",
+    "The lion king is named among beasts.",
+    "Vainateya is named among birds."
+   ],
+   "inference": "The verse identifies divine forms across demonic, temporal, animal, and avian categories.",
+   "uncertainties": [],
+   "plain_english": "I am Prahlāda among daityas, time among those who reckon, the lion king among beasts, and Vainateya among birds."
+  }
+ ]
+}

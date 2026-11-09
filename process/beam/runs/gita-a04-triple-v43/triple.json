@@ -1,0 +1,112 @@
+{
+ "song": "gita-a04",
+ "items": [
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb introducing the summary verse",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "compound: saṃgraha + śloka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhatte",
+     "gloss": "declares",
+     "grounds": "root vidhā, third singular present active",
+     "morph": "3.sg.act-pres, root vidhā"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative object of vidhatte",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yatkiñcidakṣecchāmātrapūrvakam",
+     "gloss": "preceded-by-mere-desire-for-whatever",
+     "grounds": "long compound describing karma; analyzed as fused surface",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-alone",
+     "grounds": "instrumental pronoun plus eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhabhājaḥ",
+     "gloss": "good-possessing-ones",
+     "grounds": "compound adjective in nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syustṛptāḥ",
+     "gloss": "would-be-satisfied",
+     "grounds": "fused sandhi form; not split",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṇadevatāḥ",
+     "gloss": "sense-powers-divinities",
+     "grounds": "compound in nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "4",
+     "gloss": "paratext-numeral",
+     "grounds": "verse number, excluded as paratext",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmāheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "paratext-colophon",
+     "grounds": "colophon, excluded as paratext",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmadbhagavadgītārthasaṃgrahe",
+     "gloss": "paratext-title",
+     "grounds": "work title, excluded as paratext",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturtho'dhyāyaḥ",
+     "gloss": "paratext-chapter",
+     "grounds": "chapter rubric, excluded as paratext",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "4",
+     "gloss": "paratext-numeral",
+     "grounds": "chapter number, excluded as paratext",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the summary verse gather about karma and divine agents?",
+   "premises": [
+    "karma is declared as preceded by mere desire",
+    "that alone makes good-possessing ones satisfied",
+    "sense-powers divinities are the agents named"
+   ],
+   "inference": "The saṃgraha verse gathers karma into desire-conditioned action and its satisfaction of divine sense-powers.",
+   "uncertainties": [
+    "The fused form syustṛptāḥ is not split; its exact internal sandhi is not resolved here",
+    "Colophon and rubric tokens are treated as paratext and not glossed as content"
+   ],
+   "plain_english": "Here the summary verse declares that action preceded by mere desire alone satisfies the good-possessing sense-powers divinities."
+  }
+ ]
+}

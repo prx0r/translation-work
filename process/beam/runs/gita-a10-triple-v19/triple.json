@@ -1,0 +1,421 @@
+{
+ "song": "gita-a10",
+ "items": [
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "the-blessed-lord-said",
+     "grounds": "opening speech attribution",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hanta",
+     "gloss": "indeed",
+     "grounds": "exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kathayiṣyāmi",
+     "gloss": "i-will-tell",
+     "grounds": "future first person",
+     "morph": "1.sg.act-fut root kath"
+    },
+    {
+     "surface": "vibhūtirātmānaḥ",
+     "gloss": "glories-of-my-self",
+     "grounds": "compound of vibhūti and ātman",
+     "morph": "compound"
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "prādhānyataḥ",
+     "gloss": "chiefly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuruśreṣṭha",
+     "gloss": "best-of-kurus",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "nāstyanto",
+     "gloss": "there-is-no-end",
+     "grounds": "fused negation and anta",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistarasya",
+     "gloss": "of-the-expansion",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "of-mine",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How does Krishna begin listing his vibhutis?",
+   "premises": [
+    "Krishna promises to speak",
+    "he names principal glories",
+    "the list has no end"
+   ],
+   "inference": "The Lord's manifestations are inexhaustible yet chiefly named.",
+   "uncertainties": [
+    "no genuine textual fork recorded"
+   ],
+   "plain_english": "The blessed Lord said: indeed, I will tell you my auspicious glories chiefly, best of Kurus; there is no end to my expansion."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "ahamātmā",
+     "gloss": "i-am-the-self",
+     "grounds": "fused pronoun and noun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guḍākeśa",
+     "gloss": "guḍākeśa",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sarvabhūtāśayasthitaḥ",
+     "gloss": "dwelling-in-all-beings-hearts",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ahamādiśca",
+     "gloss": "i-am-beginning-and",
+     "grounds": "fused pronoun, noun, conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtānāmanta",
+     "gloss": "end-of-beings",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is Krishna's relation to all beings?",
+   "premises": [
+    "he is self in all hearts",
+    "he is beginning middle and end",
+    "the relation is total"
+   ],
+   "inference": "Krishna is the inner self and temporal totality of beings.",
+   "uncertainties": [
+    "no genuine textual fork recorded"
+   ],
+   "plain_english": "I am the self, Guḍākeśa, dwelling in the hearts of all beings; I am the beginning, middle, and indeed the end of beings."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "ādityānāmahaṃ",
+     "gloss": "among-adityas-i",
+     "grounds": "fused genitive and pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇurjyotiṣāṃ",
+     "gloss": "viṣṇu-among-lights",
+     "grounds": "fused noun and genitive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raviraṃśumān",
+     "gloss": "sun-possessing-rays",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "marīcirmarutāmasmi",
+     "gloss": "marīci-among-winds-i-am",
+     "grounds": "fused noun and pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nakṣatrāṇāmahaṃ",
+     "gloss": "among-stars-i",
+     "grounds": "fused genitive and pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaśī",
+     "gloss": "moon",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which lights and winds does Krishna identify with?",
+   "premises": [
+    "he is viṣṇu among lights",
+    "he is marīci among winds",
+    "he is moon among stars"
+   ],
+   "inference": "Krishna names himself through selected cosmic luminaries and winds.",
+   "uncertainties": [
+    "no genuine textual fork recorded"
+   ],
+   "plain_english": "Among Ādityas I am Viṣṇu, among lights the sun with rays; among Maruts I am Marīci, and among stars I am the moon."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "vedānāṃ",
+     "gloss": "of-vedas",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sāmavedo'haṃ",
+     "gloss": "sāmaveda-i-am",
+     "grounds": "fused noun and pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devānāmasmi",
+     "gloss": "among-gods-i-am",
+     "grounds": "fused genitive and verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsavaḥ",
+     "gloss": "vāsava",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "indriyāṇāṃ",
+     "gloss": "of-senses",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "manaścāsmi",
+     "gloss": "mind-and-i-am",
+     "grounds": "fused noun, conjunction, verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtānāmasmi",
+     "gloss": "among-beings-i-am",
+     "grounds": "fused genitive and verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cetanā",
+     "gloss": "consciousness",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which Veda, god, sense, and life does Krishna name?",
+   "premises": [
+    "he is sāmaveda among vedas",
+    "he is vāsava among gods",
+    "he is mind among senses",
+    "he is consciousness among beings"
+   ],
+   "inference": "Krishna identifies with the leading principle in each domain.",
+   "uncertainties": [
+    "no genuine textual fork recorded"
+   ],
+   "plain_english": "Among Vedas I am the Sāmaveda; among gods I am Vāsava; among senses I am mind; among beings I am consciousness."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "rudrāṇāṃ",
+     "gloss": "of-rudras",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śaṅkaraścāsmi",
+     "gloss": "śaṅkara-and-i-am",
+     "grounds": "fused noun, conjunction, verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vitteśo",
+     "gloss": "lord-of-wealth",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yakṣarakṣasām",
+     "gloss": "of-yakṣas-and-rākṣasas",
+     "grounds": "compound genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "vasūnāṃ",
+     "gloss": "of-vasus",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pāvakaścāsmi",
+     "gloss": "fire-and-i-am",
+     "grounds": "fused noun, conjunction, verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meruḥ",
+     "gloss": "meru",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śikhariṇāmaham",
+     "gloss": "among-peaks-i",
+     "grounds": "fused genitive and pronoun",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which Rudras, Yakshas, Vasus, and mountain does Krishna name?",
+   "premises": [
+    "he is śaṅkara among rudras",
+    "he is vitteśa among yakṣas and rākṣasas",
+    "he is fire among vasus",
+    "he is meru among peaks"
+   ],
+   "inference": "Krishna names himself through chief deities and the supreme mountain.",
+   "uncertainties": [
+    "no genuine textual fork recorded"
+   ],
+   "plain_english": "Among Rudras I am Śaṅkara; among Yakṣas and Rākṣasas I am the lord of wealth; among Vasus I am fire; among peaks I am Meru."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "purodhasāṃ",
+     "gloss": "of-priests",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "chief",
+     "grounds": "accusative adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "imperative second person",
+     "morph": "2.sg.act-imp root vid"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "pārtha",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "exclamation",
+     "grounds": "punctuation token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bṛhaspatim",
+     "gloss": "bṛhaspati",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "senānyāmapyahaṃ",
+     "gloss": "among-army-leaders-also-i",
+     "grounds": "fused compound and pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "skandaḥ",
+     "gloss": "skanda",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarasāmasmi",
+     "gloss": "among-rivers-i-am",
+     "grounds": "fused genitive and verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāgaraḥ",
+     "gloss": "ocean",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which priest, commander, river, and ocean does Krishna name?",
+   "premises": [
+    "know bṛhaspati as chief priest",
+    "he is skanda among army leaders",
+    "he is ocean among rivers"
+   ],
+   "inference": "Krishna identifies with the foremost priest, commander, and ocean.",
+   "uncertainties": [
+    "punctuation token retained as surface"
+   ],
+   "plain_english": "And know, Pārtha, Bṛhaspati as chief among priests; among army leaders I am Skanda; among rivers I am the ocean."
+  }
+ ]
+}
