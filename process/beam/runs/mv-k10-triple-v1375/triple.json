@@ -2,135 +2,19 @@
  "song": "mv-k10",
  "items": [
   {
-   "verse": 1381,
+   "verse": 1387,
    "rows": [
     {
-     "surface": "yas",
-     "gloss": "who",
-     "grounds": "relative pronoun, subject of īheta",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "tu",
-     "gloss": "but",
-     "grounds": "contrastive particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "saṃdhātum",
-     "gloss": "to-join-together",
-     "grounds": "infinitive of purpose with īheta",
-     "morph": "inf. (sam-dhā)"
-    },
-    {
-     "surface": "īheta",
-     "gloss": "strives",
-     "grounds": "main verb of relative clause",
-     "morph": "3.sg.middle-optative (īh)"
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative pronoun, instrumental, referring to a cognition or view",
+     "morph": "f.ins.sg"
     },
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "correlative pronoun, subject of implied identity",
+     "grounds": "demonstrative pronoun, subject",
      "morph": "m.nom.sg"
-    },
-    {
-     "surface": "sākṣāt",
-     "gloss": "directly",
-     "grounds": "adverb qualifying parameśvaraḥ",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "parameśvaraḥ",
-     "gloss": "supreme-lord",
-     "grounds": "predicate noun",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "tasya",
-     "gloss": "for-him",
-     "grounds": "refers to the one who strives to join",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "kiṃ",
-     "gloss": "what",
-     "grounds": "interrogative pronoun, object of kuryāt",
-     "morph": "n.acc.sg"
-    },
-    {
-     "surface": "vā",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "guruḥ",
-     "gloss": "teacher",
-     "grounds": "subject of kuryāt",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "kuryāt",
-     "gloss": "could-do",
-     "grounds": "rhetorical question verb",
-     "morph": "3.sg.active-optative (kṛ)"
-    },
-    {
-     "surface": "so",
-     "gloss": "he",
-     "grounds": "subject of ucyate, refers to that person",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "'nyeṣāṃ",
-     "gloss": "of-others",
-     "grounds": "those for whom he is teacher",
-     "morph": "m.gen.pl"
-    },
-    {
-     "surface": "gurur",
-     "gloss": "teacher",
-     "grounds": "predicate noun with ucyate",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "ucyate",
-     "gloss": "is-called",
-     "grounds": "main verb of concluding clause",
-     "morph": "3.sg.passive-present (vac)"
-    }
-   ],
-   "question": "What role remains for a human teacher when someone can unite the teaching by their own power?",
-   "premises": [
-    "A person who strives to unite the teaching by himself is directly the supreme lord.",
-    "For such a person, a human teacher can do nothing further.",
-    "That same person is called the teacher of others."
-   ],
-   "inference": "Self-sufficient realization makes one independent of an external teacher and qualifies one to teach others.",
-   "uncertainties": [],
-   "plain_english": "But whoever strives to join the teaching together by himself is directly the supreme lord; what could a teacher do for him? He is called the teacher of others."
-  },
-  {
-   "verse": 1382,
-   "rows": [
-    {
-     "surface": "nānyato",
-     "gloss": "not-from-another",
-     "grounds": "negated source expression",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "vedavidbhyaś",
-     "gloss": "than-knowers-of-knowledge",
-     "grounds": "comparison group in ablative sense",
-     "morph": "m.abl.pl"
-    },
-    {
-     "surface": "cetyata",
-     "gloss": "and-thus",
-     "grounds": "connective particle sequence",
-     "morph": "(indecl.)"
     },
     {
      "surface": "eva",
@@ -139,373 +23,1105 @@
      "morph": "(indecl.)"
     },
     {
-     "surface": "hi",
-     "gloss": "for",
-     "grounds": "explanatory particle",
+     "surface": "patitaḥ",
+     "gloss": "fallen",
+     "grounds": "past participle, one who has lapsed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyo",
+     "gloss": "disciple",
+     "grounds": "noun, subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "manvate",
-     "gloss": "they-think",
-     "grounds": "reports a common view",
-     "morph": "3.pl.middle-present (man)"
+     "surface": "patito",
+     "gloss": "fallen",
+     "grounds": "past participle, sandhi form before bhavet",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "tasmāt",
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "tasmān",
      "gloss": "therefore",
-     "grounds": "draws conclusion from prior view",
+     "grounds": "ablative demonstrative used as conclusion marker",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mukhyo",
+     "gloss": "primary",
+     "grounds": "adjective, sandhi form before hy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "emphatic particle, sandhi form of hi",
      "morph": "(indecl.)"
     },
     {
-     "surface": "tādātmyam",
-     "gloss": "identity-with-that",
-     "grounds": "state attained by the teacher",
-     "morph": "n.acc.sg"
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "āpanno",
-     "gloss": "having-attained",
-     "grounds": "describes the teacher",
-     "morph": "m.nom.sg (ā-pad, past-participle)"
+     "surface": "kalpaḥ",
+     "gloss": "rule",
+     "grounds": "noun, the prescribed arrangement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratiśāstraṃ",
+     "gloss": "for-each-scripture",
+     "grounds": "adverbial compound indicating distribution",
+     "morph": "prati+śāstra (indecl. compound)"
     },
     {
      "surface": "gurur",
      "gloss": "teacher",
-     "grounds": "subject of abhidhīyate",
+     "grounds": "noun, repeated for emphasis",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "ity",
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "noun, repeated for emphasis",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why must the teacher belong to the same scripture as the disciple?",
+   "premises": [
+    "A disciple can become fallen through a cognition that shifts allegiance to another system.",
+    "Such a fall shows that scriptural alignment is not indifferent.",
+    "Therefore the primary rule is that each scripture has its own proper teacher."
+   ],
+   "inference": "Because crossing scriptural allegiance can make a disciple fall, the governing rule is that a teacher must correspond to the disciple's own scripture.",
+   "uncertainties": [
+    "The exact antecedent of yayā is implicit from the preceding verses rather than stated in this verse."
+   ],
+   "plain_english": "By that same outlook a disciple may become fallen, so the main rule is that for each scripture the proper teacher is its own teacher."
+  },
+  {
+   "verse": 1388,
+   "rows": [
+    {
+     "surface": "uktaṃ",
+     "gloss": "stated",
+     "grounds": "past participle used impersonally",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svatantraśāstreṣu",
+     "gloss": "in-independent-scriptures",
+     "grounds": "locative compound referring to authoritative scriptures of each system",
+     "morph": "sva+tantra+śāstra (loc.pl.n compound)"
+    },
+    {
+     "surface": "nāsau",
+     "gloss": "not-he",
+     "grounds": "negative particle fused with demonstrative pronoun",
+     "morph": "na+asau (m.nom.sg)"
+    },
+    {
+     "surface": "siddhiphalapradaḥ",
+     "gloss": "giver-of-success-fruit",
+     "grounds": "compound predicate describing efficacy",
+     "morph": "siddhi+phala+prada (m.nom.sg compound)"
+    },
+    {
+     "surface": "anyaśāstrarato",
+     "gloss": "devoted-to-another-scripture",
+     "grounds": "compound describing misplaced allegiance, sandhi form before yaḥ",
+     "morph": "anya+śāstra+rata (m.nom.sg compound)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "tacchāstranirato",
+     "gloss": "absorbed-in-that-scripture",
+     "grounds": "compound describing exclusive commitment, sandhi form before 'pi",
+     "morph": "tad+śāstra+nirata (m.nom.sg compound)"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "inclusive particle, elided form of api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who fails to grant the fruit of attainment according to the independent scriptures?",
+   "premises": [
+    "The independent scriptures state a restriction on who can grant attainment.",
+    "A person devoted to another scripture is excluded from granting that fruit.",
+    "Even one merely absorbed in that other scripture is excluded."
+   ],
+   "inference": "Only a teacher aligned with the relevant scripture can grant its fruit of attainment, not someone attached to a different scripture.",
+   "uncertainties": [],
+   "plain_english": "The independent scriptures say that someone devoted to another scripture, or even absorbed in that other scripture, does not give the fruit of spiritual attainment."
+  },
+  {
+   "verse": 1389,
+   "rows": [
+    {
+     "surface": "loke",
+     "gloss": "in-the-world",
+     "grounds": "locative noun marking common practice",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "also",
+     "grounds": "inclusive particle, elided form of api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvad",
+     "gloss": "to-the-extent",
+     "grounds": "particle introducing extent or prevalence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īdṛkṣaḥ",
+     "gloss": "such",
+     "grounds": "adjective describing the prevailing custom",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pravādo",
+     "gloss": "customary-saying",
+     "grounds": "noun for common report or convention, sandhi form before jyotirādike",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jyotirādike",
+     "gloss": "in-astrology-and-such",
+     "grounds": "locative compound giving an example domain",
+     "morph": "jyotis+ādi (loc.sg.n compound)"
+    },
+    {
+     "surface": "viṣṇor",
+     "gloss": "of-Vishnu",
+     "grounds": "possessive relation to worshippers",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhāgavatā",
+     "gloss": "Bhagavatas",
+     "grounds": "followers of Vishnu, sandhi form before magāś",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "magāś",
+     "gloss": "Magas",
+     "grounds": "a priestly group associated with solar worship",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "savituḥ",
+     "gloss": "of-the-Sun",
+     "grounds": "possessive relation to worshippers",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śāṃbhor",
+     "gloss": "of-Shambhu",
+     "grounds": "possessive relation to worshippers, sandhi form before jaṭābhasmino",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jaṭābhasmino",
+     "gloss": "ash-smeared-matted-hair-ascetics",
+     "grounds": "compound naming Shaiva ascetics, sandhi form before māt-ṛṇām",
+     "morph": "jaṭā+bhasmin (m.nom.pl compound)"
+    },
+    {
+     "surface": "māt-ṛṇām",
+     "gloss": "of-the-Mothers",
+     "grounds": "possessive relation to worshippers; hyphen preserved as given",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle marking sequence in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛmaṇḍalavido",
+     "gloss": "knowers-of-the-Mothers-circle",
+     "grounds": "compound naming specialists in the Mothers' circle, sandhi form before viprās",
+     "morph": "mātṛ+maṇḍala+vid (m.nom.pl compound)"
+    },
+    {
+     "surface": "viprās",
+     "gloss": "brahmins",
+     "grounds": "noun, subject group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tv",
+     "gloss": "but",
+     "grounds": "contrastive particle, sandhi form of tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle marking sequence in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-Brahma",
+     "grounds": "possessive relation to worshippers",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śākyāḥ",
+     "gloss": "Shakyas",
+     "grounds": "Buddhist followers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sattvahitasya",
+     "gloss": "of-the-one-benefiting-beings",
+     "grounds": "compound epithet of the Buddha",
+     "morph": "sattva+hita (m.gen.sg compound)"
+    },
+    {
+     "surface": "buddhavapuṣo",
+     "gloss": "of-the-Buddha-bodied-one",
+     "grounds": "compound identifying the Buddha, sandhi form before nagnās",
+     "morph": "buddha+vapus (m.gen.sg compound)"
+    },
+    {
+     "surface": "nagnās",
+     "gloss": "naked-ascetics",
+     "grounds": "Jain ascetics",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathaivārhato",
+     "gloss": "likewise-of-the-Arhat",
+     "grounds": "fused form indicating Jain allegiance, sandhi form before yo",
+     "morph": "tathā+eva+arhata (m.gen.sg)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun, sandhi form before yair",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yair",
+     "gloss": "by-whom",
+     "grounds": "relative pronoun, instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "deva",
+     "gloss": "deity",
+     "grounds": "noun, object of worship, sandhi form before upāsyate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upāsyate",
+     "gloss": "is-worshipped",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres √upās"
+    },
+    {
+     "surface": "svavidhinā",
+     "gloss": "by-own-rite",
+     "grounds": "instrumental compound indicating proper ritual method",
+     "morph": "sva+vidhi (ins.sg.m compound)"
+    },
+    {
+     "surface": "tais",
+     "gloss": "by-them",
+     "grounds": "correlative pronoun",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "demonstrative pronoun referring to that deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "rite",
+     "grounds": "noun, ritual action",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What common-world examples support the rule that worship follows the deity's own rite?",
+   "premises": [
+    "In ordinary life there is a widespread convention that each deity is served by its own adherents.",
+    "Examples include Bhagavatas for Vishnu, Magas for the Sun, Shaiva ascetics for Shambhu, specialists for the Mothers, brahmins for Brahma, Shakyas for the Buddha, and naked ascetics for the Arhat.",
+    "The general rule is that those who worship a deity by its own method should perform that deity's rite."
+   ],
+   "inference": "The restriction of ritual and teaching to the proper tradition is confirmed by both scriptural rule and common religious practice.",
+   "uncertainties": [
+    "The syntax of the final relative-correlative clause is compressed and spans several listed examples."
+   ],
+   "plain_english": "Even in ordinary life the same convention holds: Vishnu is served by Bhagavatas, the Sun by Magas, Shambhu by ash-smeared ascetics, the Mothers by their specialists, Brahma by brahmins, the Buddha by Shakyas, and the Arhat by naked ascetics; whoever worships a deity by its own method should perform that deity's rite."
+  },
+  {
+   "verse": 1390,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evādhikajñānaśālī",
+     "gloss": "indeed-possessing-higher-knowledge",
+     "grounds": "compound predicate describing a superior knower; initial e fused with ata",
+     "morph": "eva+adhika+jñāna+śālin (m.nom.sg compound)"
+    },
+    {
+     "surface": "saṃnihito",
+     "gloss": "present-nearby",
+     "grounds": "past participle indicating proximity, sandhi form before yadi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "in-the-place",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaven",
+     "gloss": "there-may-be",
+     "grounds": "optative verb, sandhi form before nānā",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "nānā",
+     "gloss": "variously",
+     "grounds": "adverb indicating multiplicity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nādhikārasya",
+     "gloss": "not-of-eligibility",
+     "grounds": "negative compound expressing lack of qualification",
+     "morph": "na+adhikāra (gen.sg.m compound)"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "occasion",
+     "grounds": "noun meaning ground or basis",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Does the mere presence of a more knowledgeable teacher create multiple eligibilities?",
+   "premises": [
+    "A teacher possessing higher knowledge may be present in the same place.",
+    "Such proximity does not by itself alter the disciple's proper qualification.",
+    "Eligibility is not multiplied merely because a superior knower is nearby."
+   ],
+   "inference": "The presence of a higher knower does not override the established rule of scriptural eligibility.",
+   "uncertainties": [],
+   "plain_english": "Therefore, even if someone with higher knowledge is present in the same place, that does not create different eligibilities."
+  },
+  {
+   "verse": 1391,
+   "rows": [
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative pronoun, sandhi form before tv",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tv",
+     "gloss": "but",
+     "grounds": "contrastive particle, sandhi form of tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "demonstrative pronoun referring to the present teaching",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrṇasaṃbodhe",
+     "gloss": "in-full-awakening",
+     "grounds": "compound describing complete realization",
+     "morph": "pūrṇa+saṃbodha (loc.sg.m compound)"
+    },
+    {
+     "surface": "rūḍho",
+     "gloss": "established",
+     "grounds": "past participle indicating firm attainment, sandhi form before vāstavaśāsane",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāstavaśāsane",
+     "gloss": "in-the-real-teaching",
+     "grounds": "compound naming the true doctrine",
+     "morph": "vāstava+śāsana (loc.sg.n compound)"
+    },
+    {
+     "surface": "uttarottararūḍhyarthaṃ",
+     "gloss": "for-ever-higher-ascent",
+     "grounds": "compound expressing progressive establishment",
+     "morph": "uttarottara+rūḍhi+artha (acc.sg.m compound)"
+    },
+    {
+     "surface": "śiśoḥ",
+     "gloss": "of-the-disciple",
+     "grounds": "possessive relation to the act of guidance",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karaṇamānasam",
+     "gloss": "making-the-mind",
+     "grounds": "compound describing the teacher's intention or mental act",
+     "morph": "karaṇa+mānasa (n.acc.sg compound)"
+    },
+    {
+     "surface": "(?)",
+     "gloss": "unclear-reading",
+     "grounds": "editorial marker indicating uncertain or missing text",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What is the role of a teacher established in the full and real teaching?",
+   "premises": [
+    "A teacher may be firmly established in this full awakening and real teaching.",
+    "Such a teacher directs the disciple toward progressively higher establishment.",
+    "The teacher's action is oriented to the disciple's ascent rather than to crossing scriptural boundaries."
+   ],
+   "inference": "Within the true teaching, a fully established teacher guides the disciple upward through successive levels of realization.",
+   "uncertainties": [
+    "The final token '(?)' marks an uncertain or incomplete reading in the transmitted text."
+   ],
+   "plain_english": "But one who is firmly established in this full awakening and in the real teaching sets the disciple's mind toward ever higher ascent."
+  },
+  {
+   "verse": 1392,
+   "rows": [
+    {
+     "surface": "phalasaṃpattaye",
+     "gloss": "for-fruit-attainment",
+     "grounds": "dative compound expressing purpose",
+     "morph": "phala+saṃpatti (dat.sg.f compound)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "inclusive alternative particle",
+     "morph": "vā+api (indecl.)"
+    },
+    {
+     "surface": "bhāvāṃśavaśaśālinaḥ",
+     "gloss": "of-one-governed-by-a-share-of-being",
+     "grounds": "compound describing a disciple limited by partial disposition",
+     "morph": "bhāva+aṃśa+vaśa+śālin (gen.sg.m compound)"
+    },
+    {
+     "surface": "anugrahaṃ",
+     "gloss": "grace",
+     "grounds": "noun, object of the teacher's action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun referring to the teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-bestow",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "pūrṇatvād",
+     "gloss": "because-of-fullness",
+     "grounds": "ablative abstract noun giving the reason",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ūrdhvavṛttitaḥ",
+     "gloss": "from-higher-functioning",
+     "grounds": "ablative compound indicating operation from a higher level",
+     "morph": "ūrdhva+vṛtti (abl.sg.f compound)"
+    }
+   ],
+   "question": "Why may a fully established teacher bestow grace on a partially prepared disciple?",
+   "premises": [
+    "A disciple may be governed only by a partial share of spiritual disposition.",
+    "The teacher may act for the attainment of the disciple's fruit.",
+    "The teacher's fullness and higher functioning make such grace possible."
+   ],
+   "inference": "Because the teacher operates from fullness, he can bestow grace even on a disciple whose readiness is partial.",
+   "uncertainties": [],
+   "plain_english": "For the attainment of fruit, or for a disciple governed only by a partial disposition, that teacher should indeed bestow grace, because of his fullness and his functioning from a higher level."
+  },
+  {
+   "verse": 1393,
+   "rows": [
+    {
+     "surface": "nanv",
+     "gloss": "but-surely",
+     "grounds": "objection particle introducing a challenge",
+     "morph": "nanu (indecl.)"
+    },
+    {
+     "surface": "advaye",
+     "gloss": "in-nonduality",
+     "grounds": "locative noun naming the doctrinal context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "higher",
+     "grounds": "adjective or adverb indicating a higher level",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syān",
+     "gloss": "could-be",
+     "grounds": "optative verb, sandhi form before na",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃcid",
+     "gloss": "anything",
+     "grounds": "indefinite pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhedamohitāḥ",
+     "gloss": "deluded-by-difference",
+     "grounds": "compound describing those confused by duality",
+     "morph": "bheda+mohita (m.nom.pl compound)"
+    },
+    {
+     "surface": "bhavatas",
+     "gloss": "of-you",
+     "grounds": "honorific or plural pronoun, possessive sense",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tv",
+     "gloss": "but",
+     "grounds": "contrastive particle, sandhi form of tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adharāvasthā",
+     "gloss": "lower-state",
+     "grounds": "compound naming an inferior condition",
+     "morph": "adhara+avasthā (f.nom.sg compound)"
+    },
+    {
+     "surface": "bheda",
+     "gloss": "difference",
+     "grounds": "noun naming duality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evadharo",
+     "gloss": "indeed-lower",
+     "grounds": "fused emphatic and adjective, sandhi form before yataḥ",
+     "morph": "eva+adhara (m.nom.sg)"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can there be a higher level if the teaching is nondual?",
+   "premises": [
+    "An objector claims that in nonduality there can be nothing higher.",
+    "The reply states that those who think so are deluded by difference.",
+    "Difference itself is the lower state, not a limit on nonduality."
+   ],
+   "inference": "Talk of higher and lower does not contradict nonduality, because lower levels are modes of difference within what nonduality contains.",
+   "uncertainties": [],
+   "plain_english": "Someone may object: in nonduality, what could be higher? Nothing. The answer is that those who think this are deluded by difference; for you the lower state is difference, because difference itself is lower."
+  },
+  {
+   "verse": 1394,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "conclusion marker",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kecanānye",
+     "gloss": "any-others",
+     "grounds": "indefinite compound referring to other groups",
+     "morph": "ke+cana+anya (m.nom.pl compound)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative verb",
+     "morph": "3.pl.act-opt √as"
+    },
+    {
+     "surface": "paśuśāsanavartinaḥ",
+     "gloss": "abiding-in-bound-soul-teachings",
+     "grounds": "compound describing followers of lower, dualistic disciplines",
+     "morph": "paśu+śāsana+vartin (m.nom.pl compound)"
+    },
+    {
+     "surface": "vaiṣṇavāḥ",
+     "gloss": "Vaishnavas",
+     "grounds": "followers of Vishnu",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saugatāḥ",
+     "gloss": "Buddhists",
+     "grounds": "followers of the Buddha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śrautās",
+     "gloss": "Vedic-ritualists",
+     "grounds": "followers of Vedic ritual teaching",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb extending the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutyantavādinaḥ",
+     "gloss": "Vedanta-speakers",
+     "grounds": "compound naming proponents of the end of the Veda",
+     "morph": "śrutyanta+vādin (m.nom.pl compound)"
+    }
+   ],
+   "question": "Which other traditions are classed as followers of lower teachings in this context?",
+   "premises": [
+    "The preceding argument distinguishes lower difference-bound states from the supreme teaching.",
+    "Various groups may abide in teachings oriented to bound souls.",
+    "These include Vaishnavas, Buddhists, Vedic ritualists, and Vedanta speakers."
+   ],
+   "inference": "From the standpoint of this supreme teaching, those traditions are counted among disciplines that remain within lower, difference-bound frameworks.",
+   "uncertainties": [
+    "The verse lists traditions as examples of paśuśāsana-vartins; the degree of polemical generalization is contextual."
+   ],
+   "plain_english": "Therefore, any others who follow teachings meant for bound souls—such as Vaishnavas, Buddhists, Vedic ritualists, and Vedanta speakers—are included in that class."
+  },
+  {
+   "verse": 1395,
+   "rows": [
+    {
+     "surface": "ityādayo",
+     "gloss": "such-and-others",
+     "grounds": "compound concluding the preceding list, sandhi form before nādhikṛtā",
+     "morph": "iti+ādi (m.nom.pl compound)"
+    },
+    {
+     "surface": "nādhikṛtā",
+     "gloss": "not-authorized",
+     "grounds": "negative past participle indicating lack of eligibility",
+     "morph": "na+adhikṛta (m.nom.pl)"
+    },
+    {
+     "surface": "jātucit",
+     "gloss": "ever",
+     "grounds": "indefinite temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patiśāsane",
+     "gloss": "in-the-Lord's-teaching",
+     "grounds": "compound naming the higher Shaiva discipline",
+     "morph": "pati+śāsana (loc.sg.n compound)"
+    },
+    {
+     "surface": "uktavān",
+     "gloss": "has-stated",
+     "grounds": "perfect active participle referring to an authoritative speaker",
+     "morph": "m.nom.sg perf-part √vac"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb locating the scriptural statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstreṣv",
+     "gloss": "in-scriptures",
+     "grounds": "locative plural noun, sandhi form before apy",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "apy",
+     "gloss": "also",
+     "grounds": "inclusive particle, sandhi form of api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikārivivecane",
+     "gloss": "in-determining-eligibility",
+     "grounds": "compound naming the topic of qualification",
+     "morph": "adhikārin+vivecana (loc.sg.n compound)"
+    }
+   ],
+   "question": "Are followers of those other teachings ever authorized in the Lord's teaching?",
+   "premises": [
+    "The listed traditions are treated as following other disciplines.",
+    "The Lord's teaching has its own rules of eligibility.",
+    "Scriptural discussions of eligibility state that such followers are not authorized there."
+   ],
+   "inference": "Followers of those other teachings are never eligible within the Lord's teaching, as stated in scriptural determinations of qualification.",
+   "uncertainties": [
+    "The subject of uktavān is not named in this verse and is supplied by context."
+   ],
+   "plain_english": "Such groups are never authorized in the Lord's teaching, as has been stated in the scriptures when determining who is eligible."
+  },
+  {
+   "verse": 1396,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun, sandhi form before vaiṣṇavo",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavo",
+     "gloss": "a-Vaishnava",
+     "grounds": "noun naming a follower of Vishnu, sandhi form before manuṃ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra-initiation",
+     "grounds": "accusative object, here the initiatory formula or rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāc",
+     "gloss": "should-give",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "chaivaṃ",
+     "gloss": "to-a-Shaiva",
+     "grounds": "fused form indicating the recipient; sandhi preserves the given token",
+     "morph": "śaiva (dat.sg.m, fused form)"
+    },
+    {
+     "surface": "mūḍhamatiḥ",
+     "gloss": "of-deluded-mind",
+     "grounds": "compound describing the improper teacher",
+     "morph": "mūḍha+mati (m.nom.sg compound)"
+    },
+    {
+     "surface": "śiśoḥ",
+     "gloss": "to-the-disciple",
+     "grounds": "genitive used in relation to the recipient context",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the improper teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sinful",
+     "grounds": "adjective qualifying the improper teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vañcakaṃ",
+     "gloss": "deceiver",
+     "grounds": "noun or agentive adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive participle",
+     "morph": "abs √tyaj"
+    },
+    {
+     "surface": "śiśur",
+     "gloss": "the-disciple",
+     "grounds": "noun, subject of the main action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāyyaṃ",
+     "gloss": "what-is-proper",
+     "grounds": "adjective used substantively as the right course",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-practice",
+     "grounds": "optative verb expressing prescribed conduct",
+     "morph": "3.sg.act-opt sam+ā+√car"
+    }
+   ],
+   "question": "What should a disciple do if initiated by a teacher from the wrong tradition?",
+   "premises": [
+    "A Vaishnava of deluded mind might give initiation to a Shaiva disciple.",
+    "Such a teacher acts improperly and deceptively across scriptural boundaries.",
+    "The disciple should reject that teacher and follow the proper course."
+   ],
+   "inference": "An initiation given by a teacher outside the proper tradition is invalid, so the disciple must abandon that teacher and act according to what is proper.",
+   "uncertainties": [
+    "The token chaivaṃ is a fused form; the intended recipient reading is clear from context but the sandhi is compact."
+   ],
+   "plain_english": "If a deluded Vaishnava were to give initiation to a Shaiva disciple, the disciple should abandon that sinful deceiver and follow the proper course."
+  },
+  {
+   "verse": 1397,
+   "rows": [
+    {
+     "surface": "ihāpy",
+     "gloss": "here-also",
+     "grounds": "locative adverb fused with inclusive particle",
+     "morph": "iha+api (indecl.)"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "stated",
+     "grounds": "past participle used impersonally",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mokṣadaḥ",
+     "gloss": "giver-of-liberation",
+     "grounds": "compound predicate",
+     "morph": "mokṣa+da (m.nom.sg compound)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "svabhyastajñānavān",
+     "gloss": "possessing-well-practiced-knowledge",
+     "grounds": "compound describing the qualified teacher, sandhi form before iti",
+     "morph": "su+abhyasta+jñāna+vat (m.nom.sg compound)"
+    },
+    {
+     "surface": "iti",
      "gloss": "thus",
      "grounds": "quotation marker",
      "morph": "(indecl.)"
     },
     {
-     "surface": "abhidhīyate",
-     "gloss": "is-designated",
-     "grounds": "main verb of conclusion",
-     "morph": "3.sg.passive-present (abhi-dhā)"
-    }
-   ],
-   "question": "Why is a teacher defined as one who has attained identity with the teaching?",
-   "premises": [
-    "People hold that knowledge is not obtained from anyone other than those who truly know.",
-    "A teacher is therefore understood through attained identity with that knowledge.",
-    "The designation 'teacher' rests on this attained identity."
-   ],
-   "inference": "The title of teacher is grounded in realized identity with the knowledge, not merely in external transmission.",
-   "uncertainties": [],
-   "plain_english": "For people think that knowledge does not come from anyone other than those who know; therefore one who has attained identity with that is designated a teacher."
-  },
-  {
-   "verse": 1383,
-   "rows": [
-    {
-     "surface": "sa",
-     "gloss": "he",
-     "grounds": "subject, the teacher or realized one",
-     "morph": "m.nom.sg"
+     "surface": "abhyastaṃ",
+     "gloss": "well-practiced",
+     "grounds": "past participle describing knowledge",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
-     "surface": "yāvati",
-     "gloss": "to-whatever-extent",
-     "grounds": "correlative extent expression",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "yatraiva",
-     "gloss": "wherever-indeed",
-     "grounds": "correlative place expression with emphasis",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tatra",
-     "gloss": "there",
-     "grounds": "correlative place",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tāvati",
-     "gloss": "to-that-extent",
-     "grounds": "correlative extent",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "nānyathā",
-     "gloss": "not-otherwise",
-     "grounds": "excludes alternative",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "nanu",
-     "gloss": "but-surely",
-     "grounds": "introduces an objection",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "vaiṣṇavaśāstrārthas",
-     "gloss": "meaning-of-Vaishnava-scripture",
-     "grounds": "subject of the objection; compound of vaiṣṇava+śāstra+artha",
-     "morph": "m.nom.sg, compound"
-    },
-    {
-     "surface": "tatkālaṃ",
-     "gloss": "at-that-time",
-     "grounds": "temporal qualifier in the objection",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "śivabhāvanāt",
-     "gloss": "from-contemplation-of-Shiva",
-     "grounds": "cause cited in the objection; compound of śiva+bhāvanā",
-     "morph": "f.abl.sg, compound"
-    }
-   ],
-   "question": "Does temporary contemplation of Shiva undermine the authority of a Vaishnava scriptural teacher?",
-   "premises": [
-    "The realized teacher's identity holds only in the domain and to the extent where it is attained, not otherwise.",
-    "An objection arises that the meaning of Vaishnava scripture might be affected at the time of contemplating Shiva.",
-    "The objection assumes that shifting contemplative focus changes scriptural identity."
-   ],
-   "inference": "The verse sets up the problem of whether contemplative identification transfers or cancels a teacher's scriptural authority.",
-   "uncertainties": [
-    "The first clause is compressed; the exact scope of yāvati/yatraiva/tāvati depends on the surrounding argument."
-   ],
-   "plain_english": "And he is so only to that extent and in that domain, not otherwise. But surely, does the meaning of Vaishnava scripture, at the time of contemplating Shiva, become affected?"
-  },
-  {
-   "verse": 1384,
-   "rows": [
-    {
-     "surface": "tādātmyaṃ",
-     "gloss": "identity-with-that",
-     "grounds": "subject of hanti",
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying knowledge",
      "morph": "n.nom.sg"
     },
     {
-     "surface": "gurutāṃ",
-     "gloss": "teacherhood",
-     "grounds": "object of hanti",
-     "morph": "f.acc.sg"
-    },
-    {
-     "surface": "hanti",
-     "gloss": "destroys",
-     "grounds": "verb expressing the objection's claim",
-     "morph": "3.sg.active-present (han)"
-    },
-    {
-     "surface": "pūrṇadhīḥ",
-     "gloss": "one-of-full-understanding",
-     "grounds": "speaker of the rebuttal; compound of pūrṇa+dhī",
-     "morph": "m.nom.sg, compound"
-    },
-    {
-     "surface": "pralapaty",
-     "gloss": "prattles",
-     "grounds": "dismisses the objection",
-     "morph": "3.sg.active-present (pra-lap)"
-    },
-    {
-     "surface": "ayam",
-     "gloss": "this-person",
-     "grounds": "refers to the objector",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "rāmarāvaṇanāṭyeṣu",
-     "gloss": "in-Rama-Ravana-dramas",
-     "grounds": "analogy domain; compound of rāma+rāvaṇa+nāṭya",
-     "morph": "n.loc.pl, compound"
-    },
-    {
-     "surface": "nahy",
-     "gloss": "for-not",
-     "grounds": "introduces reason for the analogy",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "etā",
-     "gloss": "these",
-     "grounds": "refers to the roles or identities in question",
-     "morph": "f.nom.pl"
-    },
-    {
-     "surface": "naṭabhūmikāḥ",
-     "gloss": "actors-roles",
-     "grounds": "predicate of the analogy; compound of naṭa+bhūmikā",
-     "morph": "f.nom.pl, compound"
-    }
-   ],
-   "question": "Does contemplative identification destroy a teacher's authority like an actor losing a role?",
-   "premises": [
-    "The objection claims that identity with another deity destroys teacherhood.",
-    "The reply calls this objection foolish talk.",
-    "In Rama-Ravana dramas, assumed roles do not become fixed ontological identities."
-   ],
-   "inference": "Contemplative identification is not like a theatrical role-change that abolishes the teacher's underlying authority.",
-   "uncertainties": [],
-   "plain_english": "If someone says that such identity destroys teacherhood, the person of full understanding replies that this is mere prattle; for in the dramas of Rama and Ravana, these are not actors' roles in that fixed sense."
-  },
-  {
-   "verse": 1385,
-   "rows": [
-    {
-     "surface": "nepathyādiparāvṛttyā",
-     "gloss": "by-turning-away-from-costume-and-such",
-     "grounds": "instrumental cause in theatrical analogy; compound of nepathya+ādi+parāvṛtti",
-     "morph": "f.ins.sg, compound"
-    },
-    {
-     "surface": "yenānyatvaṃ",
-     "gloss": "by-which-otherness",
-     "grounds": "relative clause describing change of identity",
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "noun",
      "morph": "n.nom.sg"
     },
     {
-     "surface": "prapadyate",
-     "gloss": "is-assumed",
-     "grounds": "verb of the relative clause",
-     "morph": "3.sg.middle-present (pra-pad)"
-    },
-    {
-     "surface": "vaiṣṇavo",
-     "gloss": "a-Vaishnava",
-     "grounds": "subject contemplating identity",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "viṣṇur",
-     "gloss": "Vishnu",
-     "grounds": "first contemplated identity",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "evāhaṃ",
-     "gloss": "indeed-I",
-     "grounds": "contemplative assertion; sandhi of eva+aham",
-     "morph": "(indecl.)+1.nom.sg"
-    },
-    {
-     "surface": "taddāso",
-     "gloss": "his-servant",
-     "grounds": "alternative contemplated identity; compound of tad+dāsa",
-     "morph": "m.nom.sg, compound"
-    },
-    {
-     "surface": "veti",
-     "gloss": "or-thus",
-     "grounds": "presents alternatives in contemplation",
+     "surface": "yato",
+     "gloss": "from-which",
+     "grounds": "relative or causal adverb indicating source",
      "morph": "(indecl.)"
     },
     {
-     "surface": "carcayan",
-     "gloss": "reflecting",
-     "grounds": "describes the Vaishnava's contemplative activity",
-     "morph": "m.nom.sg (carc, present-participle)"
+     "surface": "nāsty",
+     "gloss": "there-is-not",
+     "grounds": "negative existential fused with asti",
+     "morph": "na+asti (3.sg.act-pres √as)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "at-all",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicyutiḥ",
+     "gloss": "falling-away",
+     "grounds": "noun indicating lapse or deviation",
+     "morph": "f.nom.sg"
     }
    ],
-   "question": "How does a Vaishnava's contemplative identification differ from an actor changing costume?",
+   "question": "What kind of knowledge makes a teacher capable of giving liberation?",
    "premises": [
-    "An actor assumes otherness by changing costume and stage accessories.",
-    "A Vaishnava reflects 'I am Vishnu' or 'I am his servant' as contemplative identifications.",
-    "The comparison tests whether contemplative identity is merely external role-assumption."
+    "It is stated here that a giver of liberation must possess well-practiced knowledge.",
+    "The relevant knowledge is supreme knowledge.",
+    "From supreme knowledge there is no falling away."
    ],
-   "inference": "The verse contrasts theatrical role-change with contemplative identification to clarify the nature of religious identity.",
+   "inference": "A teacher can grant liberation only when grounded in supreme, firmly practiced knowledge from which no lapse occurs.",
    "uncertainties": [],
-   "plain_english": "Otherness is assumed by changing costume and the like; so too a Vaishnava reflects, 'I am indeed Vishnu' or 'I am his servant.'"
+   "plain_english": "Here too it is said that one who gives liberation must possess well-practiced knowledge; and that supreme knowledge is well practiced because there is no falling away from it."
   },
   {
-   "verse": 1386,
+   "verse": 1398,
    "rows": [
     {
-     "surface": "idānīṃ",
-     "gloss": "now",
-     "grounds": "temporal marker in the objection",
-     "morph": "(indecl.)"
+     "surface": "paramādvayavijñānān",
+     "gloss": "from-supreme-nondual-realization",
+     "grounds": "ablative compound naming the source beyond lapse; sandhi form before na",
+     "morph": "parama+advaya+vijñāna (abl.sg.n compound)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation in the contemplated statement",
+     "grounds": "negative particle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "tathāsmīti",
-     "gloss": "thus-am-I",
-     "grounds": "reported contemplative reversal; sandhi of tathā+asmi+iti",
-     "morph": "(indecl.)+1.sg.active-present (as)+(indecl.)"
-    },
-    {
-     "surface": "kim",
-     "gloss": "is-this",
-     "grounds": "interrogative challenging coherence",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "etat",
-     "gloss": "this",
-     "grounds": "refers to the reversal",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "susamañjasam",
-     "gloss": "well-fitting",
-     "grounds": "asks whether the reversal is coherent",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "atra",
-     "gloss": "here",
-     "grounds": "locates the analysis",
+     "surface": "khalv",
+     "gloss": "indeed",
+     "grounds": "emphatic particle, sandhi form before apy",
      "morph": "(indecl.)"
     },
     {
-     "surface": "hy",
-     "gloss": "for",
-     "grounds": "introduces explanation",
+     "surface": "apy",
+     "gloss": "even",
+     "grounds": "inclusive particle, sandhi form of api",
      "morph": "(indecl.)"
     },
     {
-     "surface": "ekatamā",
-     "gloss": "one-of-the-two",
-     "grounds": "one of the competing cognitions",
+     "surface": "asti",
+     "gloss": "there-is",
+     "grounds": "existential verb",
+     "morph": "3.sg.act-pres √as"
+    },
+    {
+     "surface": "vicyutiḥ",
+     "gloss": "falling-away",
+     "grounds": "noun indicating lapse or deviation",
      "morph": "f.nom.sg"
     },
     {
-     "surface": "saṃvin",
-     "gloss": "awareness",
-     "grounds": "subject that becomes false knowledge",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "mithyājñānatvam",
-     "gloss": "state-of-false-knowledge",
-     "grounds": "result for one awareness; compound of mithyā+jñāna+tva",
-     "morph": "n.acc.sg, compound"
-    },
-    {
-     "surface": "aśnute",
-     "gloss": "attains",
-     "grounds": "main verb of the explanation",
-     "morph": "3.sg.middle-present (aś)"
+     "surface": "svātmapakṣasthitāśeṣajñānanirbharavṛttikaḥ",
+     "gloss": "whose-functioning-is-filled-with-all-knowledge-standing-on-the-side-of-the-self",
+     "grounds": "long compound describing the state grounded in supreme nondual realization",
+     "morph": "sva+ātman+pakṣa+sthita+aśeṣa+jñāna+nirbhara+vṛttika (m.nom.sg compound)"
     }
    ],
-   "question": "If a contemplative identity can be reversed, does that make one of the cognitions false?",
+   "question": "Why is there no falling away from supreme nondual realization?",
    "premises": [
-    "A person may later say, 'Now I am not thus.'",
-    "Such a reversal raises the question of whether the earlier or later identification is coherent.",
-    "If two conflicting identifications are treated as fixed truths, one awareness becomes false knowledge."
+    "Supreme nondual realization is the highest knowledge.",
+    "From that realization there is no falling away at all.",
+    "Its functioning is filled with all knowledge established on the side of the Self."
    ],
-   "inference": "The problem is not contemplation itself but treating shifting identifications as mutually exclusive fixed truths.",
+   "inference": "Because supreme nondual realization contains and stabilizes all knowledge in the Self, no lapse from it is possible.",
    "uncertainties": [],
-   "plain_english": "If one now says, 'I am not thus,' is that really coherent? For in that case, one of the two awarenesses ends up being false knowledge."
+   "plain_english": "From supreme nondual realization there is indeed no falling away at all, because its functioning is fully pervaded by all knowledge established on the side of the Self."
   }
  ]
 }
