@@ -1,0 +1,917 @@
+{
+ "song": "gita-a07",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "nāhaṃ",
+     "gloss": "not-i",
+     "grounds": "negation with first-person pronoun",
+     "morph": "(indecl.)+pron.1.nom.sg"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "manifestation",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive qualifier",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "yogamāyāsamāvṛtaḥ",
+     "gloss": "covered-by-yoga-maya",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "mūḍho'yaṃ",
+     "gloss": "this-foolish-one",
+     "grounds": "demonstrative adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "nābhijānāti",
+     "gloss": "does-not-know",
+     "grounds": "negated verb of knowing",
+     "morph": "verb.3.sg.act-pres root jñā"
+    },
+    {
+     "surface": "loko",
+     "gloss": "world",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "māmajamavyayam",
+     "gloss": "me-unborn-imperishable",
+     "grounds": "accusative object with adjectives",
+     "morph": "pron.acc.sg + adj.acc.sg.m"
+    }
+   ],
+   "question": "Why does the deluded world fail to recognize the unborn imperishable Lord?",
+   "premises": [
+    "Yoga-maya covers the Lord's manifestation",
+    "The foolish world does not know the unborn imperishable",
+    "Recognition is withheld by covering power"
+   ],
+   "inference": "The Lord remains hidden from the deluded by yoga-maya, so they do not recognize the unborn imperishable.",
+   "uncertainties": [
+    "The exact scope of yoga-maya is not specified in this span"
+   ],
+   "plain_english": "I am not manifest to all, being covered by yoga-maya; this foolish world does not know me, the unborn and imperishable."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "vedā'haṃ",
+     "gloss": "i-know",
+     "grounds": "first-person verb of knowing",
+     "morph": "verb.1.sg.act-pres root vid"
+    },
+    {
+     "surface": "samatītāni",
+     "gloss": "past-things",
+     "grounds": "accusative plural adjective",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "vartamānāni",
+     "gloss": "present-things",
+     "grounds": "accusative plural adjective",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "cārjuna",
+     "gloss": "and-arjuna",
+     "grounds": "conjunction with vocative",
+     "morph": "(indecl.)+voc.sg.m"
+    },
+    {
+     "surface": "bhaviṣyanti",
+     "gloss": "will-be",
+     "grounds": "future verb",
+     "morph": "verb.3.pl.act-fut root bhū"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtāni",
+     "gloss": "beings",
+     "grounds": "accusative plural noun",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative object",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veda",
+     "gloss": "knows",
+     "grounds": "third-person verb",
+     "morph": "verb.3.sg.act-pres root vid"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaścana",
+     "gloss": "anyone",
+     "grounds": "indefinite pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "nāhaṃ",
+     "gloss": "not-i",
+     "grounds": "negation with first-person pronoun",
+     "morph": "(indecl.)+pron.1.nom.sg"
+    },
+    {
+     "surface": "gocaratāṃ",
+     "gloss": "range",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "prāpnomi",
+     "gloss": "i-reach",
+     "grounds": "first-person verb",
+     "morph": "verb.1.sg.act-pres root prāp"
+    },
+    {
+     "surface": "26",
+     "gloss": "verse-number",
+     "grounds": "editorial numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmāṇyeva",
+     "gloss": "actions-only",
+     "grounds": "accusative plural with emphasis",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "kriyamāṇāni",
+     "gloss": "being-done",
+     "grounds": "present participle",
+     "morph": "part.acc.pl.n"
+    },
+    {
+     "surface": "pralayakāle",
+     "gloss": "at-dissolution-time",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vidadhate",
+     "gloss": "grant",
+     "grounds": "third-person plural verb",
+     "morph": "verb.3.pl.act-pres root vidhā"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kimiti",
+     "gloss": "why",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāpralaya",
+     "gloss": "great-dissolution",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "upajāyate",
+     "gloss": "arises",
+     "grounds": "third-person verb",
+     "morph": "verb.3.sg.act-pres root jan"
+    },
+    {
+     "surface": "?",
+     "gloss": "question-mark",
+     "grounds": "punctuation token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityāśaṅkāyāmārabhate-",
+     "gloss": "begins-in-doubt",
+     "grounds": "third-person verb in doubt",
+     "morph": "verb.3.sg.act-pres root ārabh"
+    }
+   ],
+   "question": "How can the Lord know all beings while no one knows the Lord?",
+   "premises": [
+    "The Lord knows past present and future beings",
+    "No one knows the Lord's range",
+    "The doubt asks whether actions at dissolution grant liberation"
+   ],
+   "inference": "The Lord's omniscience is not reciprocal; the question of dissolution and liberation is raised as a doubt.",
+   "uncertainties": [
+    "The editorial numeral and punctuation are paratext-like but retained as tokens"
+   ],
+   "plain_english": "I know past, present, and future beings, Arjuna, but no one knows me; I do not come within the range of all. The doubt begins: do actions at dissolution grant liberation, otherwise why does great dissolution arise?"
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "icchādveṣasamutthena",
+     "gloss": "born-of-desire-hatred",
+     "grounds": "instrumental compound adjective",
+     "morph": "adj.ins.sg.m"
+    },
+    {
+     "surface": "dvandvamohena",
+     "gloss": "by-pair-delusion",
+     "grounds": "instrumental noun",
+     "morph": "n.ins.sg.m"
+    },
+    {
+     "surface": "bhārata",
+     "gloss": "o-bharata",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "sarvabhūtāni",
+     "gloss": "all-beings",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "sammohaṃ",
+     "gloss": "delusion",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sarge",
+     "gloss": "at-creation",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "third-person plural verb",
+     "morph": "verb.3.pl.act-pres root yā"
+    },
+    {
+     "surface": "parantapa",
+     "gloss": "o-parantapa",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "icchādveṣakrodhamohādibhistāvanmohātmaka",
+     "gloss": "delusion-natured-by-desire-hatred-anger",
+     "grounds": "instrumental compound",
+     "morph": "adj.ins.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "sphītībhāva-mupanīyate",
+     "gloss": "is-brought-to-expansion",
+     "grounds": "passive verb",
+     "morph": "verb.3.sg.pass-pres root nī"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental relative pronoun",
+     "morph": "pron.ins.sg.n"
+    },
+    {
+     "surface": "prakṛtijaṭharāntarvarti",
+     "gloss": "in-womb-of-prakriti",
+     "grounds": "locative compound adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "samagrameva",
+     "gloss": "whole-indeed",
+     "grounds": "accusative adjective with emphasis",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nijakāryakaraṇamātrākṣamameva",
+     "gloss": "only-capable-of-own-action-organ",
+     "grounds": "accusative compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "prasuptatāmavalambate",
+     "gloss": "takes-sleep",
+     "grounds": "third-person verb",
+     "morph": "verb.3.sg.act-pres root lamb"
+    },
+    {
+     "surface": "āmohaṃ-vāsanānubhavātpratidinam",
+     "gloss": "from-daily-experience-of-delusion-impression",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "rātrisamaye",
+     "gloss": "at-night-time",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sauṣuptavat",
+     "gloss": "like-deep-sleep",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "natu",
+     "gloss": "not-but",
+     "grounds": "negative contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvatā",
+     "gloss": "by-that-much",
+     "grounds": "instrumental adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimuktarūpatā-mohānubhavasamāptau",
+     "gloss": "at-end-of-delusion-experience-of-liberated-form",
+     "grounds": "locative compound",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "punarvicitravyāpārasaṃsāradarśanāt",
+     "gloss": "from-seeing-varied-activity-samsara",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "27",
+     "gloss": "verse-number",
+     "grounds": "editorial numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does pair-delusion at creation bring all beings into confusion?",
+   "premises": [
+    "Desire and hatred produce pair-delusion",
+    "All beings enter delusion at creation",
+    "Delusion expands and the world becomes sleep-like"
+   ],
+   "inference": "Pair-delusion arising from desire and hatred confuses all beings at creation, making the world functionally asleep.",
+   "uncertainties": [
+    "The long fused compounds are interpreted as compound adjectives without splitting"
+   ],
+   "plain_english": "Born of desire and hatred, all beings enter pair-delusion at creation, O Bharata; that delusion expands, and the whole world, capable only of its own action-organs, takes on a sleep-like state, not ended merely by that much experience."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "whose",
+     "grounds": "genitive relative pronoun",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "tvantaṃ",
+     "gloss": "end",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "gataṃ",
+     "gloss": "gone",
+     "grounds": "past participle",
+     "morph": "part.acc.sg.m"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "janānāṃ",
+     "gloss": "of-people",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "puṇyakarmaṇām",
+     "gloss": "of-meritorious-actions",
+     "grounds": "genitive plural compound",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "nominative plural",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "dvandvamohanirmuktā",
+     "gloss": "freed-from-pair-delusion",
+     "grounds": "nominative compound adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "bhajante",
+     "gloss": "worship",
+     "grounds": "third-person plural verb",
+     "morph": "verb.3.pl.act-pres root bhaj"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative object",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "dṛḍhavratāḥ",
+     "gloss": "firm-vowed",
+     "grounds": "nominative adjective",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "Who becomes free from pair-delusion and worships the Lord?",
+   "premises": [
+    "Sin has reached its end for those people",
+    "They are doers of meritorious action",
+    "Freed from pair-delusion they worship with firm vows"
+   ],
+   "inference": "Those whose sin is ended and whose actions are meritorious become free from pair-delusion and worship the Lord with firm vows.",
+   "uncertainties": [
+    "The exact relation between sin-ending and meritorious action is not further specified"
+   ],
+   "plain_english": "Those people whose sin has come to an end, doers of meritorious action, freed from pair-delusion, worship me with firm vows."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "jarāmaraṇamokṣāya",
+     "gloss": "for-liberation-from-old-age-death",
+     "grounds": "dative compound",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "māmāśritya",
+     "gloss": "resorting-to-me",
+     "grounds": "absolutive compound",
+     "morph": "abs root āśri"
+    },
+    {
+     "surface": "yatanti",
+     "gloss": "strive",
+     "grounds": "third-person plural verb",
+     "morph": "verb.3.pl.act-pres root yat"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tadviduḥ",
+     "gloss": "know-that",
+     "grounds": "third-person plural verb",
+     "morph": "verb.3.pl.act-pres root vid"
+    },
+    {
+     "surface": "kṛtsnamadhyātmaṃ",
+     "gloss": "whole-inner",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "cākhilam",
+     "gloss": "and-all",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaṣṭatāmasāḥ",
+     "gloss": "destroyed-darkness",
+     "grounds": "nominative compound adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "puṇyāpuṇyaparikṣayakṣemīkṛtātmānaste",
+     "gloss": "whose-selves-made-secure-by-exhaustion-of-merit-demerit",
+     "grounds": "nominative compound adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "vipāṭitamahāmohavitānāḥ",
+     "gloss": "torn-great-delusion-canopy",
+     "grounds": "nominative compound adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "sarvameva",
+     "gloss": "all-indeed",
+     "grounds": "accusative adjective with emphasis",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhagavadraśmikhacitaṃ",
+     "gloss": "studded-with-lord-rays",
+     "grounds": "accusative compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jarāmaraṇamayatamisrasrutaṃ",
+     "gloss": "stream-of-darkness-of-old-age-death",
+     "grounds": "accusative compound noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vidanti",
+     "gloss": "know",
+     "grounds": "third-person plural verb",
+     "morph": "verb.3.pl.act-pres root vid"
+    },
+    {
+     "surface": "29",
+     "gloss": "verse-number",
+     "grounds": "editorial numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who knows brahman fully through striving for liberation from old age and death?",
+   "premises": [
+    "Those resorting to the Lord strive for liberation from old age and death",
+    "They know brahman and all inner action",
+    "Those with destroyed darkness know brahman as lord-ray-studded stream"
+   ],
+   "inference": "Striving for liberation through resort to the Lord yields full knowledge of brahman and action.",
+   "uncertainties": [
+    "The long compound adjectives are kept as single glosses without internal splitting"
+   ],
+   "plain_english": "Those who strive, resorting to me, for liberation from old age and death know that brahman, all inner action, and everything; but those whose darkness is destroyed know brahman as all, studded with the Lord's rays, a stream of darkness of old age and death."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "sādhibhūtādhidaivaṃ",
+     "gloss": "with-adhibhuta-adhidaiva",
+     "grounds": "accusative compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative object",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "sādhiyajñaṃ",
+     "gloss": "with-adhiyajna",
+     "grounds": "accusative compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "third-person plural verb",
+     "morph": "verb.3.pl.act-pres root vid"
+    },
+    {
+     "surface": "prayāṇakāle'pi",
+     "gloss": "even-at-departure-time",
+     "grounds": "locative compound with emphasis",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative object",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "viduryuktacetasaḥ",
+     "gloss": "know-with-united-mind",
+     "grounds": "third-person plural verb with adjective",
+     "morph": "verb.3.pl.act-pres root vid + adj.nom.pl.m"
+    },
+    {
+     "surface": "ādhyātmikādhibhautikādhidaivikādhiyajñikāni",
+     "gloss": "inner-elemental-divine-sacrificial",
+     "grounds": "accusative compound adjective",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mamaiva",
+     "gloss": "my-only",
+     "grounds": "genitive pronoun with emphasis",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "rūpāntarāṇi",
+     "gloss": "other-forms",
+     "grounds": "accusative plural noun",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "prayāṇakāle",
+     "gloss": "at-departure-time",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavadbhāvitāntaḥ",
+     "gloss": "lord-filled-inner",
+     "grounds": "nominative compound adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "karaṇatvānmāṃ",
+     "gloss": "due-to-being-instrument-me",
+     "grounds": "ablative compound with accusative",
+     "morph": "abl.sg.n + pron.acc.sg"
+    },
+    {
+     "surface": "jānanti",
+     "gloss": "know",
+     "grounds": "third-person plural verb",
+     "morph": "verb.3.pl.act-pres root jñā"
+    },
+    {
+     "surface": "yeto",
+     "gloss": "from-which",
+     "grounds": "ablative relative pronoun",
+     "morph": "pron.abl.sg.n"
+    },
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "whose",
+     "grounds": "genitive relative pronoun",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "janmapūrvameva",
+     "gloss": "even-before-birth",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavattattvaṃ",
+     "gloss": "lord-principle",
+     "grounds": "nominative compound noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "te'ntakāle",
+     "gloss": "they-at-end-time",
+     "grounds": "nominative plural with locative",
+     "morph": "pron.nom.pl.m + loc.sg.m"
+    },
+    {
+     "surface": "parameśvaraṃ",
+     "gloss": "supreme-lord",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "saṃsmareyuḥ",
+     "gloss": "would-remember",
+     "grounds": "optative verb",
+     "morph": "verb.3.pl.act-opt root smṛ"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "janmāsevanayā-iti",
+     "gloss": "by-birth-service-thus",
+     "grounds": "instrumental compound with quotation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "manyante",
+     "gloss": "think",
+     "grounds": "third-person plural verb",
+     "morph": "verb.3.pl.act-pres root man"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "their",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "tūṣṇīṃbhāva",
+     "gloss": "silence-state",
+     "grounds": "nominative compound noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhana",
+     "gloss": "auspicious",
+     "grounds": "nominative adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "nominative adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "30",
+     "gloss": "verse-number",
+     "grounds": "editorial numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do those who know the Lord with adhibhuta, adhidaiva, and adhiyajna remember him at departure?",
+   "premises": [
+    "Those who know the Lord with adhibhuta, adhidaiva, and adhiyajna know him even at departure",
+    "They know his other forms as inner, elemental, divine, and sacrificial",
+    "Those with the Lord-principle before birth remember the supreme Lord at the end"
+   ],
+   "inference": "Knowledge of the Lord's manifold forms, especially before birth, leads to remembrance of the supreme Lord at departure.",
+   "uncertainties": [
+    "The final rhetorical question about birth-service is left as a challenge in the source"
+   ],
+   "plain_english": "Those who know me with adhibhuta and adhidaiva, and with adhiyajna, know me even at departure with united mind; they know my other forms as inner, elemental, divine, and sacrificial. Because their inner organ is always filled with the Lord, they know me; from which, those whose Lord-principle is known even before birth would remember the supreme Lord at the end. What of birth-service? Those who think so, silence itself is auspicious. Thus auspicious."
+  }
+ ]
+}

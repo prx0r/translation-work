@@ -1,0 +1,881 @@
+{
+ "song": "gita-a07",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptamo'dhyāyaḥ",
+     "gloss": "seventh-chapter",
+     "grounds": "fused saptamaḥ+adhyāyaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "blessed-lord-said",
+     "grounds": "fused śrībhagavān+uvāca",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "mayyāsaktamanāḥ",
+     "gloss": "mind-fixed-in-me",
+     "grounds": "fused mayi+āsakta+manāḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "pārtha",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "exclamation",
+     "grounds": "punctuation",
+     "morph": "(punct.)"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yuñjanmadāśritaḥ",
+     "gloss": "practicing-yoga-refuge-in-me",
+     "grounds": "fused yuñjan+madāśritaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asaṃśayaṃ",
+     "gloss": "without-doubt",
+     "grounds": "accusative adverbial",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samagraṃ",
+     "gloss": "whole",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative pronoun",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "relative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāsyasi",
+     "gloss": "you-will-know",
+     "grounds": "root jñā",
+     "morph": "2.sg.act-fut"
+    },
+    {
+     "surface": "tacchṛṇu",
+     "gloss": "hear-that",
+     "grounds": "fused tat+śṛṇu",
+     "morph": "2.sg.act-imp"
+    }
+   ],
+   "question": "How does one know the whole Lord without doubt?",
+   "premises": [
+    "mind fixed in the Lord",
+    "yoga practiced with refuge in him",
+    "whole Lord known without doubt"
+   ],
+   "inference": "Devotional fixation and yoga yield complete knowledge of the Lord.",
+   "uncertainties": [
+    "fused sandhi forms analyzed as given"
+   ],
+   "plain_english": "Now the seventh chapter: the blessed Lord said, O Pārtha, with mind fixed in me, practicing yoga while taking refuge in me, you will know me wholly without doubt; hear that."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "te'haṃ",
+     "gloss": "I-to-you",
+     "grounds": "fused te+aham",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "savijñānamidaṃ",
+     "gloss": "this-with-direct-knowledge",
+     "grounds": "fused sa+vijñānam+idam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣyāmyaśeṣataḥ",
+     "gloss": "I-will-speak-completely",
+     "grounds": "root vac plus aśeṣataḥ",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "yajjñātvā",
+     "gloss": "having-known-which",
+     "grounds": "fused yad+jñātvā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūnaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃcijjñātavyamavaśiṣyate",
+     "gloss": "nothing-remains-to-be-known",
+     "grounds": "root śiṣ passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "jñānavijñāne",
+     "gloss": "in-knowledge-and-direct-knowledge",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñānakriye",
+     "gloss": "in-knowledge-and-action",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃcidavaśiṣyate-sarvasva",
+     "gloss": "nothing-remains-all-wealth",
+     "grounds": "fused kiṃcid+avaśiṣyate+sarvasva",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "jñeyasya",
+     "gloss": "of-knowable",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jñānakriyāniṣṭhatvāt",
+     "gloss": "from-fixity-in-knowledge-and-action",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "2",
+     "gloss": "verse-two",
+     "grounds": "numeral",
+     "morph": "(numeral)"
+    }
+   ],
+   "question": "What knowledge leaves nothing further to be known?",
+   "premises": [
+    "Lord speaks knowledge with direct knowledge",
+    "knowing it leaves nothing to know",
+    "fixity in knowledge and action remains"
+   ],
+   "inference": "Complete knowledge is paired with direct realization and action.",
+   "uncertainties": [
+    "long fused compound analyzed as one row"
+   ],
+   "plain_english": "I will speak to you this knowledge with direct knowledge completely; having known it, nothing remains to be known, since in knowledge and action nothing of the knowable remains, because of fixity in knowledge and action."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "manuṣyāṇāṃ",
+     "gloss": "of-men",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sahasreṣu",
+     "gloss": "among-thousands",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kaścidyatati",
+     "gloss": "someone-strives",
+     "grounds": "root yat",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-perfection",
+     "grounds": "dative",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "yatatāmapi",
+     "gloss": "even-of-strivers",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "siddhānāṃ",
+     "gloss": "of-accomplished",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kaścinmāṃ",
+     "gloss": "someone-me",
+     "grounds": "fused kaścit+mām",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "root vid",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-truth",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastunaḥ",
+     "gloss": "of-thing",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sarvo",
+     "gloss": "all",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogyaḥ",
+     "gloss": "fit",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityanena",
+     "gloss": "by-this",
+     "grounds": "fused iti+anena",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durlabhatvāt",
+     "gloss": "from-rarity",
+     "grounds": "ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "yatnasevyatā-māha",
+     "gloss": "effort-worthy-said",
+     "grounds": "fused yatnasevyatā+māha",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "3",
+     "gloss": "verse-three",
+     "grounds": "numeral",
+     "morph": "(numeral)"
+    }
+   ],
+   "question": "How rare is true knowledge of the Lord?",
+   "premises": [
+    "among thousands one strives for perfection",
+    "among accomplished ones one knows him truly",
+    "rarity makes effort-worthy knowledge difficult"
+   ],
+   "inference": "True knowledge of the Lord is rare and effort-worthy.",
+   "uncertainties": [
+    "fused commentary tokens analyzed as given"
+   ],
+   "plain_english": "Among thousands of men someone strives for perfection; among strivers and accomplished ones someone knows me in truth. By this, all are not fit for this thing, because of its rarity; effort-worthy knowledge is declared."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "bhūmirāpo'nalo",
+     "gloss": "earth-water-fire",
+     "grounds": "fused bhūmiḥ+āpaḥ+analaḥ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāyuḥ",
+     "gloss": "wind",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khaṃ",
+     "gloss": "space",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "buddhireva",
+     "gloss": "intellect-indeed",
+     "grounds": "fused buddhiḥ+eva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ahaṅkāra",
+     "gloss": "ego",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itīyaṃ",
+     "gloss": "thus-this",
+     "grounds": "fused iti+iyam",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "bhinnā",
+     "gloss": "divided",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakṛtiraṣṭadhā",
+     "gloss": "nature-eightfold",
+     "grounds": "fused prakṛtiḥ+aṣṭadhā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What are the eightfold divisions of material nature?",
+   "premises": [
+    "earth water fire wind space mind intellect ego",
+    "these are my divided nature",
+    "nature is eightfold"
+   ],
+   "inference": "Material nature has eight divisions.",
+   "uncertainties": [
+    "fused sandhi forms analyzed as given"
+   ],
+   "plain_english": "Earth, water, fire, wind, space, mind, intellect indeed, and ego: thus this divided nature of mine is eightfold."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "apareyamitastvanyāṃ",
+     "gloss": "other-than-this-from-here-another",
+     "grounds": "fused apareyam+itaḥ+tvanyām",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakṛtiṃ",
+     "gloss": "nature",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "root vid",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "superior",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jīvabhūtāṃ",
+     "gloss": "living-being",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahābāho",
+     "gloss": "mighty-armed",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yayedaṃ",
+     "gloss": "by-which-this",
+     "grounds": "fused yayā+idam",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhāryate",
+     "gloss": "is-sustained",
+     "grounds": "root dhṛ passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iyamiti-pratyakṣeṇa",
+     "gloss": "this-thus-by-direct-perception",
+     "grounds": "fused iyam+iti+pratyakṣeṇa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃsārāvasthāyāṃ",
+     "gloss": "in-worldly-state",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarvajanaparidṛśyamānā",
+     "gloss": "seen-by-all-people",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caikaiva",
+     "gloss": "and-one-only",
+     "grounds": "fused ca+ekā+eva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satī",
+     "gloss": "being",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakārāṣṭakena",
+     "gloss": "by-eight-modes",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "is-divided",
+     "grounds": "root bhid passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaprakṛtyārabdhatvādekameva",
+     "gloss": "from-one-nature-beginning-one-indeed",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvamiti",
+     "gloss": "world-thus",
+     "grounds": "fused viśvam+iti",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakṛtivāde'pyadvaitaṃ",
+     "gloss": "in-nature-discussion-even-nonduality",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pradarśitam",
+     "gloss": "shown",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "she-indeed",
+     "grounds": "fused sā+eva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jīvatvaṃ-puruṣatvaṃ",
+     "gloss": "livingness-personhood",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāptā",
+     "gloss": "obtained",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "superior",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mamaiva",
+     "gloss": "my-indeed",
+     "grounds": "fused mama+eva",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "nānyasya",
+     "gloss": "not-of-another",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sobhayarūpā",
+     "gloss": "with-both-forms",
+     "grounds": "fused sa+ubhaya+rūpā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vedyavedakātmakaprapañcoparacanavicitrā",
+     "gloss": "knowable-knower-made-manifold-arrangement-varied",
+     "grounds": "long compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tata",
+     "gloss": "from-that",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svātmavimalamukuratalakalitasakalabhāvabhūmiḥ",
+     "gloss": "own-self-pure-mirror-surface-established-all-being-ground",
+     "grounds": "long compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svasvabhāvātmikā",
+     "gloss": "own-nature-essence",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satatamavyabhicāriṇī",
+     "gloss": "always-unfailing",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakṛtiḥ",
+     "gloss": "nature",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagat-bhūmyādi",
+     "gloss": "world-earth-etc",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "5",
+     "gloss": "verse-five",
+     "grounds": "numeral",
+     "morph": "(numeral)"
+    }
+   ],
+   "question": "What is the superior nature that sustains the world?",
+   "premises": [
+    "other than eightfold nature is superior nature",
+    "superior nature is living being",
+    "by it the world is sustained"
+   ],
+   "inference": "The Lord's superior nature is the living being that sustains the world.",
+   "uncertainties": [
+    "long fused compounds analyzed as one row"
+   ],
+   "plain_english": "Know my other superior nature, O mighty-armed, the living being by which this world is sustained; that which is seen by all people in the worldly state is one only, yet divided into eight modes; thus nonduality is shown even in nature-discussion, and she, having obtained livingness and personhood, is my superior nature, not another's, with both forms, varied manifold arrangement of knowable and knower, and from that indeed nature is the ground of all being, own-nature essence, always unfailing; this world-earth etc."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "etadyonīni",
+     "gloss": "having-this-womb",
+     "grounds": "fused etad+yonīni",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhūtāni",
+     "gloss": "beings",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sarvāṇītyupadhāraya",
+     "gloss": "all-thus-ascertain",
+     "grounds": "fused sarvāṇi+iti+upadhāraya",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "nominative",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "kṛtsnasya",
+     "gloss": "of-whole",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jagataḥ",
+     "gloss": "of-world",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prabhavaḥ",
+     "gloss": "source",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pralayastathā",
+     "gloss": "dissolution-and-so",
+     "grounds": "fused pralayaḥ+tathā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upadhāraya-abhyāsāhitānubhavakrameṇātmasamīpe",
+     "gloss": "ascertain-by-practice-aided-experience-sequence-near-self",
+     "grounds": "fused compound",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "root kṛ",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvamevopadhāraya-yadahaṃ",
+     "gloss": "you-indeed-ascertain-that-I",
+     "grounds": "fused compound",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "vāsudevībhūtaḥ",
+     "gloss": "become-vāsudeva",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prabhavaḥ",
+     "gloss": "source",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pralayaśca",
+     "gloss": "dissolution-and",
+     "grounds": "fused pralayaḥ+ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aham-ityanena",
+     "gloss": "I-thus-by-this",
+     "grounds": "fused aham+iti+anena",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "prakṛtipuruṣapuruṣottamebhyo'vyatirikto'pīśvaraḥ",
+     "gloss": "not-different-from-nature-person-supreme-person-even-lord",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvānugatatvena",
+     "gloss": "by-all-pervadingness",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "sthita",
+     "gloss": "situated",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāṃkhyayogayornāsti",
+     "gloss": "of-sāṃkhya-and-yoga-not-is",
+     "grounds": "fused compound",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "bhedavādaḥ-iti",
+     "gloss": "difference-doctrine-thus",
+     "grounds": "fused bhedavādaḥ+iti",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pradarśitam",
+     "gloss": "shown",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "6",
+     "gloss": "verse-six",
+     "grounds": "numeral",
+     "morph": "(numeral)"
+    }
+   ],
+   "question": "How is the Lord source and dissolution of all beings?",
+   "premises": [
+    "all beings have this as womb",
+    "Lord is source and dissolution of whole world",
+    "Lord is not different from nature person and supreme person"
+   ],
+   "inference": "The Lord pervades all as source and dissolution without difference.",
+   "uncertainties": [
+    "long fused compounds analyzed as one row"
+   ],
+   "plain_english": "Ascertain that all beings have this as womb; I am the source and likewise dissolution of the whole world; do thus, and you indeed ascertain that I, become Vāsudeva, am source and dissolution of all; by this, the Lord is not different from nature, person, and supreme person, situated in every way by all-pervadingness; thus no difference-doctrine between Sāṃkhya and yoga is shown."
+  }
+ ]
+}

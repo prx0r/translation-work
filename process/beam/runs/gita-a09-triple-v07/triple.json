@@ -1,0 +1,659 @@
+{
+ "song": "gita-a09",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "opening adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvabhāveṣu",
+     "gloss": "in-all-beings",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "carāmyanabhilakṣitaḥ",
+     "gloss": "I-move-unseen",
+     "grounds": "fused verb+participle",
+     "morph": "1.sg.act-pres+part"
+    },
+    {
+     "surface": "bhūtaprakṛtimāsthāya",
+     "gloss": "resting-on-being-nature",
+     "grounds": "compound participle",
+     "morph": "part"
+    },
+    {
+     "surface": "sahaiva",
+     "gloss": "together-only",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaiva",
+     "gloss": "without-only",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadvadākāśavāyvoravinābhāvinyapi",
+     "gloss": "as-space-and-wind-inseparable-though",
+     "grounds": "long fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbandhe",
+     "gloss": "in-connection",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātucinnabhaḥ",
+     "gloss": "ever-sky",
+     "grounds": "fused emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśyatā",
+     "gloss": "touchability",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrūyate",
+     "gloss": "is-heard",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalasaṃsāravisāryapi",
+     "gloss": "though-all-world-spread",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavattattvaṃ",
+     "gloss": "lord-principle",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvajanaviṣayam",
+     "gloss": "object-for-all-people",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "7",
+     "gloss": "verse-seven",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the Lord pervade all beings while remaining unseen?",
+   "premises": [
+    "The Lord moves in all beings unseen.",
+    "Being-nature supports this hidden presence.",
+    "Space and wind illustrate inseparability without contact."
+   ],
+   "inference": "The Lord's principle is not an ordinary object for all people.",
+   "uncertainties": [
+    "Fused compounds are read as single units."
+   ],
+   "plain_english": "Thus indeed I move unseen in all beings, resting on being-nature, together and without; as space and wind remain inseparable yet sky is never touched, so the Lord's principle, though spread through all world, is not an object for everyone."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "sarvabhūtāni",
+     "gloss": "all-beings",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "son-of-kunti",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "prakṛtiṃ",
+     "gloss": "nature",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "māmikām",
+     "gloss": "my-own",
+     "grounds": "possessive adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kalpakṣaye",
+     "gloss": "at-world-dissolution",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "punastāni",
+     "gloss": "again-those",
+     "grounds": "fused pronoun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kalpādau",
+     "gloss": "at-world-beginning",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "visṛjāmyaham",
+     "gloss": "I-emit",
+     "grounds": "fused verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "prakṛtim-avyaktarūpām",
+     "gloss": "nature-unmanifest-form",
+     "grounds": "fused compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "8",
+     "gloss": "verse-eight",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where do beings go and from where do they return?",
+   "premises": [
+    "All beings go to the Lord's nature.",
+    "At dissolution they enter that nature.",
+    "At creation the Lord emits them again."
+   ],
+   "inference": "Nature is the unmanifest source and resting place of beings.",
+   "uncertainties": [
+    "The fused token is kept whole."
+   ],
+   "plain_english": "All beings, son of Kunti, go to my nature at world-dissolution; again at world-beginning I emit those beings into unmanifest nature."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "prakṛtiṃ",
+     "gloss": "nature",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svāmavaṣṭabhya",
+     "gloss": "taking-hold-of-own",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "visṛjāmi",
+     "gloss": "I-emit",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtagrāmamimaṃ",
+     "gloss": "this-group-of-beings",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtsnamavaśaṃ",
+     "gloss": "entire-helpless",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakṛtervaśāt",
+     "gloss": "by-nature's-control",
+     "grounds": "ablative compound",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "svāṃ",
+     "gloss": "own",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakṛtimavaṣṭabhya-ityetāvatā",
+     "gloss": "by-taking-hold-of-nature-thus-far",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaḍo'pi",
+     "gloss": "even-inert",
+     "grounds": "fused adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svato'yaṃ",
+     "gloss": "this-by-itself",
+     "grounds": "fused pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvagrāmaḥ",
+     "gloss": "group-of-beings",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraprakṛtyanvayātprakāśatāṃ",
+     "gloss": "through-other-nature-connection-manifestness",
+     "grounds": "long fused compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāptaḥ",
+     "gloss": "has-obtained",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "9",
+     "gloss": "verse-nine",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does inert being become manifest through nature?",
+   "premises": [
+    "The Lord repeatedly emits the whole group of beings.",
+    "Beings are helpless under nature's control.",
+    "Even inert being gains manifestness through connection with higher nature."
+   ],
+   "inference": "Manifestation depends on the Lord's nature, not on beings themselves.",
+   "uncertainties": [
+    "Long fused compounds are not split."
+   ],
+   "plain_english": "Taking hold of my own nature, I emit again and again this entire helpless group of beings by nature's control; by this much, even this inert group of beings has obtained manifestness through connection with the higher nature."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "nibadhnanti",
+     "gloss": "bind",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "dhanañjaya",
+     "gloss": "wealth-winner",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "udāsīnavadāsīnamasaktaṃ",
+     "gloss": "seated-like-indifferent-unattached",
+     "grounds": "fused compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "locative pronoun",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "karmasu",
+     "gloss": "in-actions",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Why do actions not bind the Lord?",
+   "premises": [
+    "Actions do not bind the Lord.",
+    "The Lord sits indifferent and unattached.",
+    "Attachment is absent in those actions."
+   ],
+   "inference": "Non-attachment keeps the Lord free from karmic bondage.",
+   "uncertainties": [
+    "The fused compound is kept whole."
+   ],
+   "plain_english": "Those actions do not bind me, wealth-winner, seated like an indifferent one, unattached in those actions."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "mayādhyakṣeṇa",
+     "gloss": "with-me-as-overseer",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛtiḥ",
+     "gloss": "nature",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sūyate",
+     "gloss": "produces",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sacarācaram",
+     "gloss": "moving-and-still",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hetunānena",
+     "gloss": "by-this-cause",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "son-of-kunti",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "jagad",
+     "gloss": "world",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viparivartate",
+     "gloss": "revolves",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me'sti",
+     "gloss": "there-is-for-me",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "karmabandhaḥ-audāsītyena",
+     "gloss": "bondage-of-action-by-indifference",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vartamāno'haṃ",
+     "gloss": "I-existing",
+     "grounds": "fused participle",
+     "morph": "part"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evāhaṃ",
+     "gloss": "I-indeed",
+     "grounds": "fused pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jagannirmāṇe'nāśritavyāpāratvāddhetuḥ",
+     "gloss": "cause-in-world-creation-without-relying-on-activity",
+     "grounds": "long fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "11",
+     "gloss": "verse-eleven",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the world revolve under the Lord's oversight?",
+   "premises": [
+    "Nature produces moving and still things under the Lord's oversight.",
+    "By this cause the world revolves.",
+    "The Lord has no action-bondage because of indifference."
+   ],
+   "inference": "The Lord is cause of world-creation without relying on activity.",
+   "uncertainties": [
+    "Fused compounds are read as single units."
+   ],
+   "plain_english": "With me as overseer, nature produces moving and still things; by this cause, son of Kunti, the world revolves. There is no action-bondage for me by indifference, because I exist; therefore I am cause in world-creation without relying on activity."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "avajānanti",
+     "gloss": "despise",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mūḍhā",
+     "gloss": "fools",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mānuṣīṃ",
+     "gloss": "human",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tanumāsthitam",
+     "gloss": "dwelling-in-body",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāvamajānanto",
+     "gloss": "not-knowing-being",
+     "grounds": "participle",
+     "morph": "part"
+    },
+    {
+     "surface": "mamāvyayamanuttamam",
+     "gloss": "my-imperishable-highest",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "so'haṃ",
+     "gloss": "I-thus",
+     "grounds": "fused pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvajanāntaḥśāyī",
+     "gloss": "lying-within-all-people",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvasyātmapararūpatayāvajñāspadam-yanmānuṣādi-caturdaśavidhasa",
+     "gloss": "as-inner-self-of-all-despised-place-where-human-and-fourteen-kinds",
+     "grounds": "long fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rgavyatirikta",
+     "gloss": "beyond-the-fourteen-kinds",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśvaro",
+     "gloss": "lord",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nopalabhyate",
+     "gloss": "is-not-found",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathamastīti",
+     "gloss": "how-does-he-exist-thus",
+     "grounds": "fused clause",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "12",
+     "gloss": "verse-twelve",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why do fools despise the Lord in human form?",
+   "premises": [
+    "Fools despise the Lord dwelling in human body.",
+    "They do not know the supreme imperishable being.",
+    "The Lord lies within all people yet is not found among the fourteen kinds."
+   ],
+   "inference": "Despisers mistake the Lord's human form for his whole nature.",
+   "uncertainties": [
+    "The long fused compound is kept whole."
+   ],
+   "plain_english": "Fools despise me dwelling in human body, not knowing the supreme imperishable being; I lie within all people, yet the Lord beyond the fourteen kinds, including human, is not found, so how does he exist?"
+  }
+ ]
+}

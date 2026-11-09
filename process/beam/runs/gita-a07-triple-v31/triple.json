@@ -1,0 +1,111 @@
+{
+ "song": "gita-a07",
+ "items": [
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb marking place of summary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "compressed doctrinal verse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuṭaṃ",
+     "gloss": "clearly",
+     "grounds": "adverb of clarity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavato",
+     "gloss": "of-the-Lord",
+     "grounds": "genitive of bhagavat",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhaktirāhitā",
+     "gloss": "devotion-devoid",
+     "grounds": "compound describing absence of devotion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalpamañjarī",
+     "gloss": "wish-fulfilling-cluster",
+     "grounds": "compound naming cluster",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sādhakecchāsamucitāṃ",
+     "gloss": "suitable-to-practitioner's-wish",
+     "grounds": "compound describing fittingness",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yenāśāṃ",
+     "gloss": "by-whom-desires",
+     "grounds": "fused form yena plus āśāṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paripūrayet",
+     "gloss": "may-fulfill",
+     "grounds": "optative of paripūr",
+     "morph": "3.sg.opt.act (paripūr)"
+    },
+    {
+     "surface": "7",
+     "gloss": "seven",
+     "grounds": "chapter numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmaheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "composed-by-abhinavagupta",
+     "grounds": "long compound naming author",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "śrīmadbhagavadgītārthasaṃgrahe",
+     "gloss": "in-gita-meaning-gathering",
+     "grounds": "compound naming work",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "saptamo'dhyāyaḥ",
+     "gloss": "seventh-chapter",
+     "grounds": "compound naming chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "7",
+     "gloss": "seven",
+     "grounds": "closing numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the seventh chapter's summary verse state?",
+   "premises": [
+    "summary verse states clearly",
+    "devotion-devoid wish-fulfilling cluster",
+    "practitioner's wish may be fulfilled"
+   ],
+   "inference": "The verse presents a clear summary of wish-fulfillment through a devotion-devoid cluster.",
+   "uncertainties": [
+    "exact force of bhaktirāhitā remains context-dependent"
+   ],
+   "plain_english": "Here is the summary verse: clearly, the Lord's devotion-devoid wish-fulfilling cluster, suitable to the practitioner's wish, may fulfill desires; thus, in the Gita meaning-gathering composed by Abhinavagupta, the seventh chapter, seven."
+  }
+ ]
+}
