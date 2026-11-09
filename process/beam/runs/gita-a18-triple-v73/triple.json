@@ -1,0 +1,575 @@
+{
+ "song": "gita-a18",
+ "items": [
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "arjuna",
+     "gloss": "arjuna",
+     "grounds": "vocative name",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "verb",
+     "morph": "3.sg.act-aor + root vac"
+    },
+    {
+     "surface": "naṣṭo",
+     "gloss": "destroyed",
+     "grounds": "participle",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "mohaḥ",
+     "gloss": "delusion",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtirlabdhā",
+     "gloss": "memory-gained",
+     "grounds": "fused compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvatprasādānmayā'cyuta",
+     "gloss": "by-your-grace-by-me-o-unchanging",
+     "grounds": "fused compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthito'smi",
+     "gloss": "i-stand",
+     "grounds": "fused verb",
+     "morph": "1.sg.act-pres + root sthā"
+    },
+    {
+     "surface": "gatasandehaḥ",
+     "gloss": "gone-doubt",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kariṣye",
+     "gloss": "i-will-do",
+     "grounds": "verb",
+     "morph": "1.sg.act-fut + root kṛ"
+    },
+    {
+     "surface": "vacanaṃ",
+     "gloss": "word",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "naṣṭo",
+     "gloss": "destroyed",
+     "grounds": "repeated",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "mohaḥ-ityādinā",
+     "gloss": "delusion-thus-beginning",
+     "grounds": "fused compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yuddhapravṛttistāvadarjunasyotpannā",
+     "gloss": "war-readiness-now-arjuna's-arisen",
+     "grounds": "fused compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "natu",
+     "gloss": "but-not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyagbrahma-vittvaṃ",
+     "gloss": "right-brahman-knowledge-state",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jātam-iti",
+     "gloss": "born-thus",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūcayanbhāvino'nugītārthasyāvakāśaṃ",
+     "gloss": "indicating-future-anugita-meaning's-scope",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root dā"
+    }
+   ],
+   "question": "How does Arjuna's declaration of recovered memory and readiness to act frame the closing of the Gita?",
+   "premises": [
+    "Arjuna says delusion is destroyed and memory is gained by Krishna's grace.",
+    "He declares readiness to perform Krishna's word.",
+    "The commentary adds that war-readiness has arisen but full brahman-knowledge has not yet arisen."
+   ],
+   "inference": "The verse closes the dialogue by showing action-readiness while leaving room for further recognition.",
+   "uncertainties": [
+    "The fused compounds are read as given without splitting."
+   ],
+   "plain_english": "Arjuna says his delusion is gone, memory is gained by Krishna's grace, he stands free of doubt, and will do Krishna's word; the commentary notes that war-readiness has arisen, though full brahman-knowledge has not yet arisen."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "sañjaya",
+     "gloss": "sanjaya",
+     "grounds": "name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "verb",
+     "morph": "3.sg.act-aor + root vac"
+    },
+    {
+     "surface": "ityahaṃ",
+     "gloss": "thus-i",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsudevasya",
+     "gloss": "of-vasudeva's-son",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārthasya",
+     "gloss": "of-partha",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahātmanaḥ",
+     "gloss": "of-great-soul",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃvādamimamaśrauṣamadbhutaṃ",
+     "gloss": "this-dialogue-i-heard-wondrous",
+     "grounds": "fused compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "romaharṣaṇam",
+     "gloss": "hair-raising",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What does Sanjaya report hearing between Vasudeva's son and Partha?",
+   "premises": [
+    "Sanjaya says he heard this wondrous dialogue.",
+    "The dialogue is between Vasudeva's son and the great-souled Partha.",
+    "It is described as hair-raising."
+   ],
+   "inference": "Sanjaya frames the Gita as an astonishing, bodily-affecting divine dialogue.",
+   "uncertainties": [
+    "The fused form is kept as one row."
+   ],
+   "plain_english": "Sanjaya says he heard this wondrous, hair-raising dialogue between Vasudeva's son and the great-souled Partha."
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "vyāsaprasādācchrutavānetadguhyataraṃ",
+     "gloss": "by-vyasa's-grace-heard-this-more-secret",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yogīśvarātkṛṣṇātsākṣātkathayataḥ",
+     "gloss": "from-yoga-lord-krishna-directly-speaking",
+     "grounds": "fused compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does Sanjaya describe the source and greatness of the yoga he heard?",
+   "premises": [
+    "He heard this more secret great yoga by Vyasa's grace.",
+    "It came directly from Krishna, lord of yoga.",
+    "Krishna spoke it himself."
+   ],
+   "inference": "The yoga is presented as directly revealed, secret, and great.",
+   "uncertainties": [
+    "The fused compound is kept as one row."
+   ],
+   "plain_english": "By Vyasa's grace he heard this more secret great yoga, spoken directly by Krishna, lord of yoga, himself."
+  },
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "rājan",
+     "gloss": "o-king",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "saṃsmṛtya",
+     "gloss": "remembering",
+     "grounds": "gerund",
+     "morph": "gerund + root smṛ"
+    },
+    {
+     "surface": "saṃsmṛtya",
+     "gloss": "remembering",
+     "grounds": "repeated gerund",
+     "morph": "gerund + root smṛ"
+    },
+    {
+     "surface": "saṃvādamimamadbhutam",
+     "gloss": "this-wondrous-dialogue",
+     "grounds": "fused compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "keśavārjunayoḥ",
+     "gloss": "of-kesava-and-arjuna",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "meritorious",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hṛṣyāmi",
+     "gloss": "i-rejoice",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres + root hṛṣ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repeated adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does Sanjaya rejoice repeatedly while remembering the dialogue?",
+   "premises": [
+    "He remembers again and again the wondrous dialogue of Kesava and Arjuna.",
+    "That dialogue is meritorious.",
+    "He rejoices again and again."
+   ],
+   "inference": "Repeated remembrance of the divine dialogue produces repeated joy.",
+   "uncertainties": [
+    "The fused compound is kept as one row."
+   ],
+   "plain_english": "O king, remembering again and again the wondrous, meritorious dialogue of Kesava and Arjuna, I rejoice again and again."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsmṛtya",
+     "gloss": "remembering",
+     "grounds": "gerund",
+     "morph": "gerund + root smṛ"
+    },
+    {
+     "surface": "saṃsmṛtya",
+     "gloss": "remembering",
+     "grounds": "repeated gerund",
+     "morph": "gerund + root smṛ"
+    },
+    {
+     "surface": "rūpamatyudbhutaṃ",
+     "gloss": "form-most-wondrous",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hareḥ",
+     "gloss": "of-hari",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vismayo",
+     "gloss": "wonder",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mahārāja",
+     "gloss": "great-king",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "prahṛṣye",
+     "gloss": "i-rejoice-greatly",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres + root hṛṣ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repeated adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect does remembering Hari's wondrous form have on Sanjaya?",
+   "premises": [
+    "He remembers again and again Hari's most wondrous form.",
+    "Wonder arises in him.",
+    "He rejoices greatly again and again."
+   ],
+   "inference": "Memory of the divine form intensifies wonder and joy.",
+   "uncertainties": [
+    "The fused compound is kept as one row."
+   ],
+   "plain_english": "And remembering again and again Hari's most wondrous form, wonder arises in me, O great king; I rejoice greatly again and again."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogīśvaraḥ",
+     "gloss": "yoga-lord",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇo",
+     "gloss": "krishna",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārtho",
+     "gloss": "partha",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanurdharaḥ",
+     "gloss": "bow-bearer",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīrvijayo",
+     "gloss": "splendor-victory",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtirdhruvā",
+     "gloss": "prosperity-certain",
+     "grounds": "fused compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nītirmatirmama",
+     "gloss": "policy-opinion-mine",
+     "grounds": "fused compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃjayavacanena",
+     "gloss": "by-sanjaya's-word",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saṃvādamupasaṃharannetadarthasya",
+     "gloss": "gathering-dialogue-this-meaning's",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gāḍhaprabandhakrameṇa",
+     "gloss": "firm-connection-order",
+     "grounds": "fused compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nirantaracintāsantānopakṛtanairyantaryādeva",
+     "gloss": "unbroken-thought-continuity-aided-uninterruptedness-indeed",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānte",
+     "gloss": "and-at-end",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suparisphuṭanirvikalpānubhavarūpatāmāpādyamānaṃ",
+     "gloss": "very-clear-nondual-experience-form-being-brought",
+     "grounds": "fused compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaraṇamātrameva",
+     "gloss": "mere-remembrance-only",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parabrahmapradāyakam-ityucyate",
+     "gloss": "supreme-brahman-giving-thus-is-said",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavadarjunasaṃvādamātrasmaraṇādeva",
+     "gloss": "lord-arjuna-dialogue-mere-remembrance-from-indeed",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvāvāptyā",
+     "gloss": "by-reality-attainment",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "śrīvijayavibhūtaya",
+     "gloss": "splendor-victory-powers",
+     "grounds": "fused compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "closing word",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the final teaching about where Krishna and Arjuna are present together?",
+   "premises": [
+    "Where Krishna, lord of yoga, and Partha, bow-bearer, are present, there are splendor, victory, certain prosperity, and policy.",
+    "Sanjaya's word gathers the dialogue in firm order.",
+    "Mere remembrance of the dialogue is said to give supreme Brahman."
+   ],
+   "inference": "The closing verse identifies the presence of Krishna and Arjuna with victory and prosperity, and elevates remembrance of their dialogue to a means of supreme realization.",
+   "uncertainties": [
+    "The long fused compounds are kept as single rows."
+   ],
+   "plain_english": "Where Krishna, lord of yoga, and Partha, bow-bearer, are, there are splendor, victory, certain prosperity, and policy; Sanjaya gathers the dialogue in firm order, and mere remembrance of it is said to give supreme Brahman, so that by mere remembrance of the Lord-Arjuna dialogue, through attainment of reality, splendor, victory, and powers arise."
+  }
+ ]
+}
