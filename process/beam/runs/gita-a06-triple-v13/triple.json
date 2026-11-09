@@ -1,0 +1,226 @@
+{
+ "song": "gita-a06",
+ "items": [
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "yogo'sti",
+     "gloss": "yoga-is-not",
+     "grounds": "fused yoga + asti",
+     "morph": "m.nom.sg + 3sg.act.pres root as"
+    },
+    {
+     "surface": "naivātyaśato",
+     "gloss": "not-indeed-excessive-eating",
+     "grounds": "fused na eva atyaśataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caikāntamanaśnataḥ",
+     "gloss": "and-not-one-sided-fasting",
+     "grounds": "fused ca ekāntam anaśnataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cātisvapnaśīlasya",
+     "gloss": "and-excessive-sleep-habit",
+     "grounds": "fused ca atisvapnaśīlasya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nātijāgarato'rjuna",
+     "gloss": "not-excessive-waking-arjuna",
+     "grounds": "fused na atijāgarataḥ arjuna",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What extremes of eating, fasting, sleeping, and waking prevent yoga?",
+   "premises": [
+    "yoga is not for excessive eating",
+    "yoga is not for one-sided fasting",
+    "yoga is not for excessive sleeping",
+    "yoga is not for excessive waking"
+   ],
+   "inference": "Yoga requires avoiding both excess and one-sided deprivation in bodily regimen.",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given without splitting"
+   ],
+   "plain_english": "Yoga is not for one who eats too much, nor for one who fasts one-sidedly, nor for one who sleeps too much, nor for one who stays awake too much, Arjuna."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "yuktāhāravihārasya",
+     "gloss": "of-moderate-food-and-recreation",
+     "grounds": "compound yuktāhāra vihāra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yuktaceṣṭasya",
+     "gloss": "of-moderate-effort",
+     "grounds": "compound yukta ceṣṭa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karmasu",
+     "gloss": "in-actions",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yuktasvapnāvabodhasya",
+     "gloss": "of-moderate-sleep-and-waking",
+     "grounds": "compound yukta svapna avabodha",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yogo",
+     "gloss": "yoga",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "root bhū",
+     "morph": "3sg.act.pres root bhū"
+    },
+    {
+     "surface": "duḥkhahā",
+     "gloss": "pain-removing",
+     "grounds": "compound duḥkha hā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āhāreṣu-āhiyamāṇeṣu",
+     "gloss": "in-foods-being-restrained",
+     "grounds": "fused āhāreṣu ahiyamāṇeṣu",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "viṣayeṣu",
+     "gloss": "in-sense-objects",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vihāraḥ-upabhogāya",
+     "gloss": "recreation-for-enjoyment",
+     "grounds": "fused vihāraḥ upabhogāya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravṛttiḥ",
+     "gloss": "activity",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasyāśca",
+     "gloss": "and-of-that",
+     "grounds": "fused tasyāḥ ca",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "yuktatvaṃ-nātyantāsaktiḥ",
+     "gloss": "moderation-not-extreme-attachment",
+     "grounds": "fused yuktatvam nātyantāsaktiḥ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nātyantaparivarjanam",
+     "gloss": "not-extreme-abandonment",
+     "grounds": "compound nātyanta parivarjanam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣṭaṃ",
+     "gloss": "remainder",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "spaṣṭam",
+     "gloss": "clear",
+     "grounds": "nominative predicate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāgarataḥ-",
+     "gloss": "of-waking",
+     "grounds": "fused genitive form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "etcetera",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muneḥ",
+     "gloss": "of-sage",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pramāṇatvādredavat",
+     "gloss": "because-of-authority-like-Veda",
+     "grounds": "fused pramāṇatvāt redavat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evamanyatrāpi",
+     "gloss": "likewise-elsewhere-too",
+     "grounds": "fused evam anyatra api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "18",
+     "gloss": "verse-number",
+     "grounds": "paratext marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What moderation in food, recreation, effort, sleep, and waking makes yoga remove suffering?",
+   "premises": [
+    "moderate food and recreation support yoga",
+    "moderate effort in actions supports yoga",
+    "moderate sleep and waking support yoga",
+    "yoga becomes pain-removing through such moderation"
+   ],
+   "inference": "Moderation across bodily and active life, not extreme attachment or abandonment, makes yoga remove suffering.",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given without splitting",
+    "verse number token treated as paratext marker"
+   ],
+   "plain_english": "For one moderate in food and recreation, moderate in effort in actions, and moderate in sleep and waking, yoga becomes pain-removing."
+  }
+ ]
+}

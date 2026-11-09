@@ -1,0 +1,983 @@
+{
+ "song": "gita-a06",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭho'dhyāyaḥ",
+     "gloss": "sixth-chapter",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "the-lord-said",
+     "grounds": "fused compound form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anāśritaḥ",
+     "gloss": "not-relying",
+     "grounds": "negative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmaphalaṃ",
+     "gloss": "action-fruit",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "duty",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "root kṛ",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃnyāsī",
+     "gloss": "renouncer",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niragnirna",
+     "gloss": "not-without-fire",
+     "grounds": "fused negative form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cākriyaḥ",
+     "gloss": "and-inactive",
+     "grounds": "fused adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who counts as both renouncer and yogi?",
+   "premises": [
+    "action done without relying on fruit",
+    "renouncer and yogi are named together",
+    "not fireless and not inactive"
+   ],
+   "inference": "renunciation and yoga are joined in action without fruit-attachment",
+   "uncertainties": [
+    "fused forms retain sandhi as given"
+   ],
+   "plain_english": "The lord said: one who does duty as action without relying on its fruit is both renouncer and yogi, not one who merely abandons fire or action."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃnyāsamiti",
+     "gloss": "as-renunciation",
+     "grounds": "fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāhuryogaṃ",
+     "gloss": "they-call-yoga",
+     "grounds": "fused verb form",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "pāṇḍava",
+     "gloss": "pandava",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hyasaṃnyastasaṅkalpo",
+     "gloss": "indeed-without-renounced-resolve",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kaścana",
+     "gloss": "anyone",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāktanenādhyāyagaṇena",
+     "gloss": "by-previous-chapter-group",
+     "grounds": "fused compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sādhito'rthaḥ",
+     "gloss": "established-meaning",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ślokadvayena",
+     "gloss": "by-two-verses",
+     "grounds": "compound",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "kāryaṃ-svajātyādivihitam",
+     "gloss": "duty-prescribed-by-own-class-etc",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃnyāsī",
+     "gloss": "renouncer",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paryāyāvetau",
+     "gloss": "these-two-synonyms",
+     "grounds": "fused compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evāha",
+     "gloss": "indeed-said",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃnyāsamiti",
+     "gloss": "as-renunciation",
+     "grounds": "fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca-yogamantareṇa",
+     "gloss": "and-without-yoga",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃnyāso",
+     "gloss": "renunciation",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nopapadyate",
+     "gloss": "does-not-arise",
+     "grounds": "negative verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkalpasaṃnyāsaṃ",
+     "gloss": "renunciation-of-resolve",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogo",
+     "gloss": "yoga",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-joined",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "tasmātsatatasaṃbaddhau",
+     "gloss": "therefore-constantly-connected",
+     "grounds": "fused compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "yogasaṃnyāsau",
+     "gloss": "yoga-and-renunciation",
+     "grounds": "compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niragrirityādināyamartho",
+     "gloss": "by-not-fireless-etc-this-meaning",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhvanyate-niragniśca",
+     "gloss": "is-suggested-not-fireless-and",
+     "grounds": "fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "niṣkriyaśca",
+     "gloss": "and-inactive",
+     "grounds": "fused adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃnyāsī-ityadbhutam",
+     "gloss": "renouncer-thus-wonderful",
+     "grounds": "fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "2",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are renunciation and yoga declared to be one?",
+   "premises": [
+    "what is called renunciation is yoga",
+    "without renounced resolve no yogi arises",
+    "without yoga renunciation does not arise"
+   ],
+   "inference": "renunciation and yoga are constantly connected, not mere abandonment",
+   "uncertainties": [
+    "many fused prose compounds retain sandhi"
+   ],
+   "plain_english": "What is called renunciation is yoga; know this, pandava. No one becomes a yogi without renounced resolve, and renunciation without yoga does not arise."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "tadyapi",
+     "gloss": "yet-that",
+     "grounds": "fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dyūtamasiṃhāsanaṃ",
+     "gloss": "gambling-throne",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rājyam",
+     "gloss": "kingdom",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktyā",
+     "gloss": "by-reasoning",
+     "grounds": "noun",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalasya",
+     "gloss": "of-the-alone",
+     "grounds": "adjective",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "niṣkriyasya",
+     "gloss": "of-the-inactive",
+     "grounds": "adjective",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃnyāsitvamupapadyate",
+     "gloss": "renunciation-status-arises",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ityuktam",
+     "gloss": "thus-said",
+     "grounds": "fused participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "even-so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārurukṣormuneryogaṃ",
+     "gloss": "for-the-ascending-sage-yoga",
+     "grounds": "fused compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāraṇamucyate",
+     "gloss": "is-called-cause",
+     "grounds": "fused verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "yogārūḍhasya",
+     "gloss": "of-the-established-in-yoga",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tasyaiva",
+     "gloss": "of-that-very",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śamaḥ",
+     "gloss": "calm",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraṇamucyate",
+     "gloss": "is-called-cause",
+     "grounds": "fused verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "muneḥ-jñānavataḥ",
+     "gloss": "of-the-knowing-sage",
+     "grounds": "fused compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karma-karaṇīyaṃ",
+     "gloss": "action-to-be-done",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāraṇaṃ-prāpakaḥ",
+     "gloss": "cause-bringer",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śamaḥ-prāptabhūmāvanuparamaḥ",
+     "gloss": "calm-on-attained-ground-unceasing",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraṇamatra",
+     "gloss": "cause-here",
+     "grounds": "fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "mark",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "3",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evārthaḥ",
+     "gloss": "indeed-meaning",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśyate-",
+     "gloss": "is-manifested",
+     "grounds": "fused verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What causes yoga for the ascending sage and calm for the established?",
+   "premises": [
+    "for the ascending sage action is cause",
+    "for the established sage calm is cause",
+    "calm remains unceasing on attained ground"
+   ],
+   "inference": "yoga has distinct causes according to stage",
+   "uncertainties": [
+    "fused glosses are compressed"
+   ],
+   "plain_english": "Even so, for the sage ascending to yoga action is called the cause, while for the one established in yoga calm itself is called the cause."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nendriyārtheṣu",
+     "gloss": "not-in-sense-objects",
+     "grounds": "fused form",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmasvanuṣajjati",
+     "gloss": "clings-to-actions",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sarvasaṅkalpasaṃnyāsī",
+     "gloss": "renouncer-of-all-resolves",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogārūḍhastadocyate",
+     "gloss": "established-in-yoga-is-called-that",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "indriyārthāḥ-viṣayāḥ",
+     "gloss": "sense-objects-objects",
+     "grounds": "fused gloss",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadarthāni",
+     "gloss": "their-purposes",
+     "grounds": "pronoun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmāṇi-viṣayārjanādīni",
+     "gloss": "actions-such-as-acquiring-objects",
+     "grounds": "fused gloss",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "4",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asyāṃ",
+     "gloss": "in-this",
+     "grounds": "pronoun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhāvavaśyamevāvadheyamityāha-",
+     "gloss": "in-intellect-certainly-to-be-noted-thus-said",
+     "grounds": "fused form",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is one called established in yoga?",
+   "premises": [
+    "not clinging to sense objects",
+    "not clinging to actions",
+    "renouncer of all resolves"
+   ],
+   "inference": "establishment in yoga is marked by non-attachment to objects and actions",
+   "uncertainties": [
+    "commentary glosses are fused with verse tokens"
+   ],
+   "plain_english": "When one does not cling to sense objects or actions, that renouncer of all resolves is called established in yoga."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "uddharedātmanātmānaṃ",
+     "gloss": "one-should-lift-self-by-self",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nātmānamavasādayet",
+     "gloss": "not-should-degrade-self",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ātmaiva",
+     "gloss": "self-indeed",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hyātmano",
+     "gloss": "indeed-of-self",
+     "grounds": "fused form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bandhurātmaiva",
+     "gloss": "friend-self-indeed",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ripurātmanaḥ",
+     "gloss": "enemy-of-self",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānya",
+     "gloss": "not-other",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upāya",
+     "gloss": "means",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "apitu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmaiva-mana",
+     "gloss": "self-indeed-mind",
+     "grounds": "fused gloss",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evetyarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "5",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one raise oneself rather than degrade oneself?",
+   "premises": [
+    "lift self by self",
+    "do not degrade self",
+    "self is friend and enemy of self"
+   ],
+   "inference": "the self alone is the means, not another",
+   "uncertainties": [
+    "fused commentary glosses remain unsplit"
+   ],
+   "plain_english": "One should lift oneself by oneself and not degrade oneself; the self is indeed friend and enemy of itself."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "bandhurātmātmanastasya",
+     "gloss": "friend-self-of-self-of-that",
+     "grounds": "fused compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yenātmaivātmanā",
+     "gloss": "by-whom-self-indeed-by-self",
+     "grounds": "fused form",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "jitaḥ",
+     "gloss": "conquered",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ajitātmanastu",
+     "gloss": "but-of-unconquered-self",
+     "grounds": "fused form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śatrutve",
+     "gloss": "in-enmity",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vartetātmaiva",
+     "gloss": "self-indeed-remains",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śatruvat",
+     "gloss": "like-enemy",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jitaṃ",
+     "gloss": "conquered",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mitraṃ",
+     "gloss": "friend",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ghoratarasaṃsāroddharaṇaṃ",
+     "gloss": "terrible-samsara-lifting",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ajitaṃ",
+     "gloss": "unconquered",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīvranirayapātanācchatrutvaṃ",
+     "gloss": "severe-hell-falling-enmity",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "6",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jitamanasa",
+     "gloss": "of-conquered-mind",
+     "grounds": "compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpam-",
+     "gloss": "form",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What difference does a conquered or unconquered mind make?",
+   "premises": [
+    "self is friend when self is conquered",
+    "self acts as enemy when unconquered",
+    "conquered mind lifts from samsara"
+   ],
+   "inference": "mind's conquest determines whether self functions as friend or enemy",
+   "uncertainties": [
+    "fused forms retain sandhi"
+   ],
+   "plain_english": "For one who has conquered the self by the self, the self is friend; for the unconquered, the self remains like an enemy."
+  }
+ ]
+}

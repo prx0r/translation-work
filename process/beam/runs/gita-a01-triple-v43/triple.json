@@ -1,0 +1,599 @@
+{
+ "song": "gita-a01",
+ "items": [
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "patanti",
+     "gloss": "fall",
+     "grounds": "verb pat",
+     "morph": "3.pl.act-pres + root pat"
+    },
+    {
+     "surface": "pitaro",
+     "gloss": "ancestors",
+     "grounds": "pitṛ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hyeṣāṃ",
+     "gloss": "indeed-of-these",
+     "grounds": "hi + eṣām",
+     "morph": "indecl. + m.gen.pl"
+    },
+    {
+     "surface": "luptapiṇḍodakakriyāḥ",
+     "gloss": "deprived-of-rice-water-rites",
+     "grounds": "lupta + piṇḍa + udaka + kriyā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "doṣairetaiḥ",
+     "gloss": "by-these-faults",
+     "grounds": "doṣa + etaiḥ",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kulaghnānāṃ",
+     "gloss": "of-family-destroyers",
+     "grounds": "kula + ghna",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "varṇasaṅkarakārakaiḥ",
+     "gloss": "causing-mixture-of-castes",
+     "grounds": "varṇa + saṅkara + kāraka",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What happens to ancestors when family-destroyers cause caste mixture?",
+   "premises": [
+    "ancestors fall when rites cease",
+    "family-destroyers cause caste mixture",
+    "faults remove ancestral offerings"
+   ],
+   "inference": "destroying family order cuts off ancestral rites and brings ruin",
+   "uncertainties": [
+    "compound segmentation follows listed fused forms"
+   ],
+   "plain_english": "The ancestors fall because the rites of rice and water are lost, through the faults of family-destroyers who cause caste mixture."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "utsādyante",
+     "gloss": "are-destroyed",
+     "grounds": "utsād",
+     "morph": "3.pl.pass-pres + root utsād"
+    },
+    {
+     "surface": "jātidharmāḥ",
+     "gloss": "birth-duties",
+     "grounds": "jāti + dharma",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kuladharmāśca",
+     "gloss": "and-family-duties",
+     "grounds": "kula + dharma + ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāśvatāḥ",
+     "gloss": "eternal",
+     "grounds": "śāśvata",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "utsannakuladharmāṇāṃ",
+     "gloss": "of-those-with-destroyed-family-duties",
+     "grounds": "utsanna + kula + dharma",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "manuṣyāṇāṃ",
+     "gloss": "of-men",
+     "grounds": "manuṣya",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "janārdana",
+     "gloss": "janardana",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "exclamation",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narake",
+     "gloss": "in-hell",
+     "grounds": "naraka",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "certainly",
+     "grounds": "niyata",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāso",
+     "gloss": "dwelling",
+     "grounds": "vāsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavatītyanuśuśruma",
+     "gloss": "we-have-heard-that-it-becomes",
+     "grounds": "bhavati + iti + anuśuśruma",
+     "morph": "3.sg.act-pres + indecl. + 1.pl.perf"
+    }
+   ],
+   "question": "What is the certain dwelling of those whose family duties are destroyed?",
+   "premises": [
+    "eternal birth and family duties are destroyed",
+    "men with destroyed family duties fall",
+    "hell is the certain dwelling"
+   ],
+   "inference": "loss of family duty leads to hell",
+   "uncertainties": [
+    "fused final token kept as one row"
+   ],
+   "plain_english": "Eternal birth-duties and family-duties are destroyed; for men whose family duties are destroyed, O Janardana, we have heard that dwelling in hell is certain."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "viśeṣaphalabuddhyā",
+     "gloss": "by-special-fruit-intention",
+     "grounds": "viśeṣa + phala + buddhi",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "hantavyādiviśeṣabuddhyā",
+     "gloss": "by-special-intention-of-those-to-be-killed",
+     "grounds": "hantavya + ādi + viśeṣa + buddhi",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hananaṃ",
+     "gloss": "killing",
+     "grounds": "han",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahāpātakamiti",
+     "gloss": "as-great-sin",
+     "grounds": "mahā + pātaka + iti",
+     "morph": "n.nom.sg + indecl."
+    },
+    {
+     "surface": "etadeva",
+     "gloss": "this-very",
+     "grounds": "etad + eva",
+     "morph": "n.nom.sg + indecl."
+    },
+    {
+     "surface": "saṃkṣipyābhidhātuṃ",
+     "gloss": "to-state-briefly",
+     "grounds": "saṃkṣipya + abhidhātuṃ",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "paritāpātiśayasūcanāyātmagatamevārjuno",
+     "gloss": "arjuna's-own-great-distress-indication",
+     "grounds": "paritāpa + atiśaya + sūcanā + ātma + gata + eva + arjuna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vacanamāha",
+     "gloss": "speaks-the-word",
+     "grounds": "vacana + āha",
+     "morph": "3.sg.act-pres + root ah"
+    },
+    {
+     "surface": "aho",
+     "gloss": "alas",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vata",
+     "gloss": "indeed",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahatpāpaṃ",
+     "gloss": "great-sin",
+     "grounds": "mahat + pāpa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kartuṃ",
+     "gloss": "to-do",
+     "grounds": "kṛ",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "vyavasitā",
+     "gloss": "resolved",
+     "grounds": "vyavasita",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vayam",
+     "gloss": "we",
+     "grounds": "vayam",
+     "morph": "1.pl.nom"
+    },
+    {
+     "surface": "yadrājyasukhalobhena",
+     "gloss": "because-of-desire-for-kingdom-pleasure",
+     "grounds": "yat + rājya + sukha + lobha + ena",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hantuṃ",
+     "gloss": "to-kill",
+     "grounds": "han",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "svajanamudyatāḥ",
+     "gloss": "prepared-to-kill-kinsmen",
+     "grounds": "sva + jana + udyata",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vayamiti",
+     "gloss": "we-thus",
+     "grounds": "vayam + iti",
+     "morph": "1.pl.nom + indecl."
+    },
+    {
+     "surface": "-",
+     "gloss": "dash",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kauravapāṇḍavabhedabhinnāḥ",
+     "gloss": "divided-by-kaurava-pandava-distinction",
+     "grounds": "kaurava + pāṇḍava + bheda + bhinna",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "sarva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "evetyarthaḥ",
+     "gloss": "thus-is-the-meaning",
+     "grounds": "eva + iti + artha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why does Arjuna call the planned killing a great sin?",
+   "premises": [
+    "killing for kingdom pleasure is great sin",
+    "arjuna expresses distress",
+    "kinsmen are to be killed"
+   ],
+   "inference": "desire for kingdom pleasure makes killing kinsmen a great sin",
+   "uncertainties": [
+    "long fused compound kept as one row"
+   ],
+   "plain_english": "Arjuna says it is a great sin to kill kinsmen out of desire for kingdom pleasure, expressing his own distress."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "evam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣvavivekiṣu",
+     "gloss": "among-all-undiscerning",
+     "grounds": "sarva + avivekin",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "mad",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "vivekinaḥ",
+     "gloss": "discerning-one",
+     "grounds": "vivekin",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kimucitam",
+     "gloss": "what-is-fitting",
+     "grounds": "kim + ucita",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucitaṃ",
+     "gloss": "fitting",
+     "grounds": "ucita",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāvadyuddhānnivartanam",
+     "gloss": "withdrawal-from-war-for-now",
+     "grounds": "tāvat + yuddha + nivartana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etattūcitataramityāha",
+     "gloss": "says-this-is-more-fitting",
+     "grounds": "etat + tu + ucitatara + iti + āha",
+     "morph": "3.sg.act-pres + root ah"
+    },
+    {
+     "surface": "yadimāmapratīkāramaśastraṃ",
+     "gloss": "if-unarmed-without-resistance",
+     "grounds": "yadi + imām + apratīkāra + aśastra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śastrapāṇayaḥ",
+     "gloss": "weapon-handed-ones",
+     "grounds": "śastra + pāṇi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhārtarāṣṭrā",
+     "gloss": "dhartarashtras",
+     "grounds": "dhārtarāṣṭra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "raṇe",
+     "gloss": "in-battle",
+     "grounds": "raṇa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hanyustanme",
+     "gloss": "would-kill-me-that-for-me",
+     "grounds": "hanyuḥ + tat + me",
+     "morph": "3.pl.opt + n.nom.sg + 1.sg.gen"
+    },
+    {
+     "surface": "kṣemataraṃ",
+     "gloss": "more-beneficial",
+     "grounds": "kṣema + tara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "bhū",
+     "morph": "3.sg.opt + root bhū"
+    }
+   ],
+   "question": "What would be more beneficial than fighting for Arjuna?",
+   "premises": [
+    "discerning one asks what is fitting",
+    "withdrawal from war is fitting",
+    "being killed unarmed is more beneficial"
+   ],
+   "inference": "non-resistance and being killed unarmed is better than fighting",
+   "uncertainties": [
+    "fused tokens kept as listed"
+   ],
+   "plain_english": "For the discerning one, withdrawal from war is fitting; being killed unarmed by weapon-handed Dhartarashtras in battle would be more beneficial."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "sañjaya",
+     "gloss": "sanjaya",
+     "grounds": "narrator",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "vac",
+     "morph": "3.sg.act-perf + root vac"
+    },
+    {
+     "surface": "evamuktvārjunaḥ",
+     "gloss": "arjuna-having-spoken-thus",
+     "grounds": "evam + uktvā + arjuna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṅkhye",
+     "gloss": "in-battle",
+     "grounds": "saṅkhya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rathopastha",
+     "gloss": "chariot-seat",
+     "grounds": "ratha + upastha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "upāviśat",
+     "gloss": "sat-down",
+     "grounds": "upa + viś",
+     "morph": "3.sg.act-aor + root viś"
+    },
+    {
+     "surface": "visṛjya",
+     "gloss": "having-cast-aside",
+     "grounds": "visṛj",
+     "morph": "gerund"
+    },
+    {
+     "surface": "saśaraṃ",
+     "gloss": "with-arrow",
+     "grounds": "sa + śara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cāpaṃ",
+     "gloss": "bow",
+     "grounds": "cāpa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śokasaṃvignamānasaḥ",
+     "gloss": "with-distressed-mind",
+     "grounds": "śoka + saṃvigna + mānasa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does Arjuna do after speaking thus in battle?",
+   "premises": [
+    "arjuna speaks thus",
+    "he sits in chariot seat",
+    "he casts aside bow and arrow"
+   ],
+   "inference": "overcome by grief, Arjuna lays down his weapons",
+   "uncertainties": [
+    "compound kept as one row"
+   ],
+   "plain_english": "Sanjaya said: having spoken thus in battle, Arjuna sat down in the chariot seat, casting aside bow and arrow, his mind distressed with grief."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "saṃgraha + śloka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyāvidyobhayāghātasaṃghaṭṭa",
+     "gloss": "collision-of-knowledge-and-ignorance-striking-both",
+     "grounds": "vidyā + avidyā + ubhaya + āghāta + saṃghaṭṭa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vivaśīkṛtaḥ",
+     "gloss": "made-helpless",
+     "grounds": "vivaśī + kṛta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yuktyā",
+     "gloss": "by-reason",
+     "grounds": "yukti",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "dvayamapi",
+     "gloss": "both-too",
+     "grounds": "dvaya + api",
+     "morph": "n.nom.sg + indecl."
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "tyaj",
+     "morph": "gerund"
+    },
+    {
+     "surface": "nirviveko",
+     "gloss": "without-discernment",
+     "grounds": "nir + viveka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavenmuniḥ",
+     "gloss": "becomes-sage",
+     "grounds": "bhavet + muni",
+     "morph": "3.sg.opt + m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmāheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "composed-by-abhinavagupta",
+     "grounds": "śrī + mahā + māheśvara + ācārya + varya + rājānaka + abhinavagupta + pāda + viracita",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrīmadbhavadgītārthasaṃgrahe",
+     "gloss": "in-gita-meaning-gathering",
+     "grounds": "śrīmat + bhagavad + gītā + artha + saṃgraha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prathamo'dhyāyaḥ",
+     "gloss": "first-chapter",
+     "grounds": "prathama + adhyāya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "1",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "śiva",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the summary verse and colophon of the first chapter?",
+   "premises": [
+    "summary verse follows",
+    "both knowledge and ignorance are abandoned",
+    "first chapter composed by abhinavagupta"
+   ],
+   "inference": "the chapter closes with a summary verse and colophon",
+   "uncertainties": [
+    "colophon treated as content token per source"
+   ],
+   "plain_english": "Here is the summary verse: made helpless by the collision of knowledge and ignorance, abandoning both by reason, the sage without discernment becomes; thus in the Gita meaning-gathering composed by Abhinavagupta, first chapter, one, thus auspicious."
+  }
+ ]
+}
