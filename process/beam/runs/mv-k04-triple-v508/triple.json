@@ -1,0 +1,1739 @@
+{
+ "song": "mv-k04",
+ "items": [
+  {
+   "verse": 508,
+   "rows": [
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedyadeśe",
+     "gloss": "in-knowable-place",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "'sau",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāyanaḥ",
+     "gloss": "eye",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiraṇavrajaḥ",
+     "gloss": "ray-swarm",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanta",
+     "gloss": "alas",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñānam",
+     "gloss": "knowledge",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ātmadeśe",
+     "gloss": "in-self-place",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt+bhū"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should knowledge not arise in the self's own place?",
+   "premises": [
+    "The eye's ray-swarm reaches the knowable place.",
+    "Knowledge could instead arise in the self's place.",
+    "The opponent asks whether that is possible."
+   ],
+   "inference": "The verse challenges locating perception in the external knowable place.",
+   "uncertainties": [
+    "Exact force of hanta is rhetorical."
+   ],
+   "plain_english": "If the eye's rays reach the object, why should knowledge not arise in the self's own place?"
+  },
+  {
+   "verse": 509,
+   "rows": [
+    {
+     "surface": "tatraivātmā",
+     "gloss": "self-there-itself",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhutvena",
+     "gloss": "by-omnipresence",
+     "grounds": "instrumental",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogāśrayo",
+     "gloss": "enjoyment-support",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deho",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvann",
+     "gloss": "living",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛthoktayaḥ",
+     "gloss": "vain-sayings",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are claims about body as enjoyment-support called vain?",
+   "premises": [
+    "The self is omnipresent.",
+    "The instrument is there itself.",
+    "Therefore body-based enjoyment-support claims are vain."
+   ],
+   "inference": "Omnipresence makes a separate bodily instrument unnecessary.",
+   "uncertainties": [
+    "vṛthoktayaḥ may be plural predicate."
+   ],
+   "plain_english": "Since the self is omnipresent and the instrument is there itself, talk of the body as support of enjoyment is vain."
+  },
+  {
+   "verse": 510,
+   "rows": [
+    {
+     "surface": "nāyanānāṃ",
+     "gloss": "of-eyes",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mayūkhānāṃ",
+     "gloss": "of-rays",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gantṛtve",
+     "gloss": "in-going-ness",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "'vasite",
+     "gloss": "settled",
+     "grounds": "participle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative absolute",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāvṛte",
+     "gloss": "in-uncovered",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "'raṇyamārge",
+     "gloss": "in-forest-path",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "svahastāt",
+     "gloss": "from-own-hand",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "from",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clear",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does clear perception arise once eye-rays are settled?",
+   "premises": [
+    "Eye-rays have a going-nature.",
+    "That going-nature is settled.",
+    "Clear perception then begins from one's own hand."
+   ],
+   "inference": "Perception is not explained by rays traveling to distant objects.",
+   "uncertainties": [
+    "svahastāt may be illustrative."
+   ],
+   "plain_english": "Once the going of eye-rays is settled, clear perception begins from one's own hand along an uncovered forest path."
+  },
+  {
+   "verse": 511,
+   "rows": [
+    {
+     "surface": "arkacandrādisaṃdṛṣṭiḥ",
+     "gloss": "sun-moon-etc-perception",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmopajāyatām",
+     "gloss": "let-not-arise",
+     "grounds": "fused form",
+     "morph": "3.sg.mid.opt+jan"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śīghratve",
+     "gloss": "in-swiftness",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktabhedo",
+     "gloss": "stated-difference",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dūrāvidūragaḥ",
+     "gloss": "far-near-goer",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can sun and moon perception arise at all?",
+   "premises": [
+    "Even swiftness does not solve the problem.",
+    "The stated difference concerns far and near going.",
+    "The opponent asks how such perception arises."
+   ],
+   "inference": "Distance and speed do not adequately explain perception.",
+   "uncertainties": [
+    "nāmopajāyatām is optative negation."
+   ],
+   "plain_english": "How can perception of sun and moon arise, even if swift, when the stated difference concerns going far and near?"
+  },
+  {
+   "verse": 512,
+   "rows": [
+    {
+     "surface": "dīpanetrāvabhāsābhyāṃ",
+     "gloss": "by-lamp-eye-illumination",
+     "grounds": "instrumental dual",
+     "morph": "instr.du.n"
+    },
+    {
+     "surface": "channe",
+     "gloss": "covered",
+     "grounds": "participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "demonstrative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matiḥ",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddha",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt+bhū"
+    },
+    {
+     "surface": "bhāve",
+     "gloss": "in-being",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tābhyāṃ",
+     "gloss": "by-those",
+     "grounds": "instrumental dual",
+     "morph": "instr.du.f"
+    },
+    {
+     "surface": "vyāmalatājuṣi",
+     "gloss": "possessing-spread-creeper",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can mind know when lamp and eye cover it?",
+   "premises": [
+    "Lamp and eye illumination cover that.",
+    "The opponent asks how mind arises there.",
+    "Pure being would remain in that state."
+   ],
+   "inference": "External illumination does not explain cognition.",
+   "uncertainties": [
+    "vyāmalatājuṣi is obscure compound."
+   ],
+   "plain_english": "How can mind arise when lamp and eye illumination cover it; pure being would remain in that state."
+  },
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "andhatvaṃ",
+     "gloss": "blindness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cikitsā",
+     "gloss": "treatment",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktāśrayadūṣaṇā",
+     "gloss": "fit-support-fault",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rasanā",
+     "gloss": "tongue",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalātmā",
+     "gloss": "water-self",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taj",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "srutimadyataḥ",
+     "gloss": "from-flow-middle",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is blindness and its treatment not a fit support fault?",
+   "premises": [
+    "Blindness and treatment are not a fit support fault.",
+    "If tongue is water-self, that water flows from the middle.",
+    "The verse turns to taste and water."
+   ],
+   "inference": "The argument rejects reducing sense organs to material elements.",
+   "uncertainties": [
+    "srutimadyataḥ is obscure."
+   ],
+   "plain_english": "Blindness and its treatment are not a fault of fit support; if tongue is water-self, that water flows from the middle."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthairyaṃ",
+     "gloss": "stability",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānārasaprathā",
+     "gloss": "various-taste-manifestation",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyaikarasatāyoge",
+     "gloss": "in-its-one-taste-union",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tasyā",
+     "gloss": "of-it",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "naikarasasthiteḥ",
+     "gloss": "of-not-one-taste-station",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can stability and various tastes both arise?",
+   "premises": [
+    "Then how is its stability possible?",
+    "What various taste manifestation occurs?",
+    "One-taste union conflicts with not-one-taste station."
+   ],
+   "inference": "A single taste nature cannot explain varied taste experience.",
+   "uncertainties": [
+    "tasyā refers to taste or tongue."
+   ],
+   "plain_english": "Then how is its stability possible, and what various taste manifestation occurs, if one-taste union conflicts with not-one-taste station?"
+  },
+  {
+   "verse": 515,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt+as"
+    },
+    {
+     "surface": "ekarasajñaptir",
+     "gloss": "one-taste-cognition",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pittabhare",
+     "gloss": "in-bile-abundance",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative absolute",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiktā",
+     "gloss": "bitter",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rasanavṛttir",
+     "gloss": "tongue-function",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mādhuryaṃ",
+     "gloss": "sweetness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viditaṃ",
+     "gloss": "known",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣamā",
+     "gloss": "possible",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is one-taste cognition impossible when bile abounds?",
+   "premises": [
+    "One-taste cognition would not arise.",
+    "When bile abounds, tongue function is bitter.",
+    "Sweetness is not known as possible."
+   ],
+   "inference": "Bile conditions taste, so tongue is not an independent taste organ.",
+   "uncertainties": [
+    "kṣamā may mean capacity."
+   ],
+   "plain_english": "One-taste cognition would not arise; when bile abounds, tongue function is bitter, and sweetness is not known as possible."
+  },
+  {
+   "verse": 516,
+   "rows": [
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pittagataṃ",
+     "gloss": "bile-gone",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taiktyaṃ",
+     "gloss": "bitterness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tv",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rasanāgatam",
+     "gloss": "tongue-gone",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarhi",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pittagūḍau",
+     "gloss": "bile-hidden",
+     "grounds": "participle",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tulyaṃ",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rasanāpathagāminau",
+     "gloss": "tongue-path-goers",
+     "grounds": "compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is bitterness not tongue-gone if bile-gone?",
+   "premises": [
+    "Bitterness is bile-gone, not tongue-gone.",
+    "Then bile-hidden and tongue-path-goers are equal.",
+    "The opponent presses the distinction."
+   ],
+   "inference": "If taste is tied to bile, tongue and bile become indistinguishable.",
+   "uncertainties": [
+    "pittagūḍau may modify bile."
+   ],
+   "plain_english": "Bitterness is bile-gone, not tongue-gone; then bile-hidden and tongue-path-goers are equal."
+  },
+  {
+   "verse": 517,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt+as"
+    },
+    {
+     "surface": "yugapaj",
+     "gloss": "simultaneously",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñaptis",
+     "gloss": "cognition",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tiktamādhuryagocarā",
+     "gloss": "bitter-sweet-object",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīrasā",
+     "gloss": "tasteless",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rasanā",
+     "gloss": "tongue",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rasābhivyañjikā",
+     "gloss": "taste-manifesting",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "whence",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can simultaneous bitter-sweet cognition occur?",
+   "premises": [
+    "Thus cognition would be simultaneous.",
+    "Its object would be bitter and sweet.",
+    "If tongue is tasteless, how does it manifest taste?"
+   ],
+   "inference": "A tasteless tongue cannot manifest taste.",
+   "uncertainties": [
+    "jñaptis may be cognition of taste."
+   ],
+   "plain_english": "Thus cognition would be simultaneous toward bitter and sweet; if tongue is tasteless, whence does it manifest taste?"
+  },
+  {
+   "verse": 518,
+   "rows": [
+    {
+     "surface": "svabhāvād",
+     "gloss": "from-nature",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-her",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ko",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'yam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āmbhasatāgrahaḥ",
+     "gloss": "water-ness-grasp",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghrāṇaṃ",
+     "gloss": "nose",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārthivaṃ",
+     "gloss": "earthly",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāṭhinyaṃ",
+     "gloss": "hardness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "passive present",
+     "morph": "3.sg.pass.pres+dṛś"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does water-nature not imply hardness for nose?",
+   "premises": [
+    "If from nature, what is this water-ness grasp?",
+    "Nose is earthly.",
+    "Why is its hardness not seen?"
+   ],
+   "inference": "Sense organs are not reducible to their element's qualities.",
+   "uncertainties": [
+    "āmbhasatāgrahaḥ is obscure."
+   ],
+   "plain_english": "If from nature, what is this water-ness grasp? Nose is earthly, so why is its hardness not seen?"
+  },
+  {
+   "verse": 519,
+   "rows": [
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhaguṇodreki",
+     "gloss": "smell-quality-excessive",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gandho",
+     "gloss": "smell",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāsate",
+     "gloss": "shines",
+     "grounds": "middle present",
+     "morph": "3.sg.mid.pres+bhās"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "present",
+     "morph": "3.sg.act.pres+as"
+    },
+    {
+     "surface": "tatrendriyavyaktagandhavattve",
+     "gloss": "in-smell-being-manifest-by-sense-there",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramā",
+     "gloss": "valid-cognition",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does smell not shine if quality-excessive?",
+   "premises": [
+    "If smell-quality-excessive, why does smell not shine?",
+    "There is no valid cognition there.",
+    "Smell is not manifest by sense in that way."
+   ],
+   "inference": "Smell cannot be reduced to an excessive quality.",
+   "uncertainties": [
+    "tatrendriyavyaktagandhavattve is long compound."
+   ],
+   "plain_english": "If smell is quality-excessive, why does smell not shine? There is no valid cognition there in that way."
+  },
+  {
+   "verse": 520,
+   "rows": [
+    {
+     "surface": "nirgandham",
+     "gloss": "smell-less",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "apṛthivyātmā",
+     "gloss": "non-earth-self",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gandhagrahakṣamam",
+     "gloss": "smell-grasping-capable",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asty",
+     "gloss": "is",
+     "grounds": "present",
+     "morph": "3.sg.act.pres+as"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavatāṃ",
+     "gloss": "of-yours",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "nānumā",
+     "gloss": "no-inference",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tādṛśā",
+     "gloss": "such",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣamā",
+     "gloss": "possible",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can mind grasp smell if smell-less and non-earth?",
+   "premises": [
+    "Mind is smell-less and non-earth-self.",
+    "Yet it is smell-grasping-capable.",
+    "Such inference is not possible for you."
+   ],
+   "inference": "Mind's capacity to grasp smell is not inferable from elemental reduction.",
+   "uncertainties": [
+    "tādṛśā modifies inference."
+   ],
+   "plain_english": "Mind is smell-less and non-earth-self, yet smell-grasping-capable; such inference is not possible for you."
+  },
+  {
+   "verse": 521,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indriyasaṃghāto",
+     "gloss": "sense-aggregate",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhautiko",
+     "gloss": "elemental",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nopapadyate",
+     "gloss": "does-not-fit",
+     "grounds": "middle present",
+     "morph": "3.sg.mid.pres+pad"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhaṃkārikatāyāṃ",
+     "gloss": "in-egoity",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāptṛtvam",
+     "gloss": "pervasion",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "avibhinnatā",
+     "gloss": "non-distinctness",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does elemental sense-aggregate not fit?",
+   "premises": [
+    "Therefore elemental sense-aggregate does not fit.",
+    "But in egoity there is pervasion.",
+    "There is non-distinctness."
+   ],
+   "inference": "Sense organs are better explained by egoity than by elements.",
+   "uncertainties": [
+    "āhaṃkārikatāyāṃ may mean ego-principle."
+   ],
+   "plain_english": "Therefore an elemental sense-aggregate does not fit; but in egoity there is pervasion and non-distinctness."
+  },
+  {
+   "verse": 522,
+   "rows": [
+    {
+     "surface": "dehāśrayavirodhaś",
+     "gloss": "body-support-contradiction",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṇatvena",
+     "gloss": "by-instrumentality",
+     "grounds": "instrumental",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "cāsthitiḥ",
+     "gloss": "and-non-stability",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgādi",
+     "gloss": "speech-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yac",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmākṣapañcakaṃ",
+     "gloss": "action-sense-five",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vivicyatām",
+     "gloss": "let-be-distinguished",
+     "grounds": "passive imperative",
+     "morph": "3.sg.pass.imp+vicār"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must speech and five action-senses be distinguished?",
+   "premises": [
+    "Body-support contradicts instrumentality.",
+    "There is non-stability as instrument.",
+    "Speech and five action-senses should be distinguished."
+   ],
+   "inference": "The bodily instrument theory is unstable and needs distinction.",
+   "uncertainties": [
+    "cāsthitiḥ may be non-establishment."
+   ],
+   "plain_english": "Body-support contradicts instrumentality and non-stability; speech and the five action-senses should be distinguished."
+  },
+  {
+   "verse": 523,
+   "rows": [
+    {
+     "surface": "ānābher",
+     "gloss": "from-navel",
+     "grounds": "ablative",
+     "morph": "abl.sg.f"
+    },
+    {
+     "surface": "mūrdhaparyantaṃ",
+     "gloss": "up-to-head",
+     "grounds": "adverb",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samīrābhighātajaḥ",
+     "gloss": "wind-strike-born",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "distinction",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ko",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgātmā",
+     "gloss": "speech-self",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tādṛg",
+     "gloss": "such",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-said",
+     "grounds": "passive present",
+     "morph": "3.sg.pass.pres+kath"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What distinction is speech-self born from wind-strike?",
+   "premises": [
+    "From navel up to head, wind-strike-born.",
+    "What distinction is speech-self?",
+    "Such is said here."
+   ],
+   "inference": "Speech is located in a bodily wind process from navel to head.",
+   "uncertainties": [
+    "samīrābhighātajaḥ may be breath-impulse."
+   ],
+   "plain_english": "From navel to head, wind-strike-born; what distinction is speech-self? Such is said here."
+  },
+  {
+   "verse": 524,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "work",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavec",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt+bhū"
+    },
+    {
+     "surface": "chabdaḥ",
+     "gloss": "sound",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "doer",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "interrogative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'tra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicāryatām",
+     "gloss": "let-be-examined",
+     "grounds": "passive imperative",
+     "morph": "3.sg.pass.imp+vicār"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmano",
+     "gloss": "of-self",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartṛtvaṃ",
+     "gloss": "doership",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathātve",
+     "gloss": "in-such-state",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhutvataḥ",
+     "gloss": "from-omnipresence",
+     "grounds": "ablative",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is the doer if sound is its work?",
+   "premises": [
+    "Its work would be sound.",
+    "Who is doer here, let be examined.",
+    "Self has no doership due to omnipresence."
+   ],
+   "inference": "Omnipresence excludes self as doer of speech.",
+   "uncertainties": [
+    "tathātve refers to that state."
+   ],
+   "plain_english": "Its work would be sound; who is the doer here, let be examined. The self has no doership, even in that state, due to omnipresence."
+  },
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "proccārite",
+     "gloss": "uttered",
+     "grounds": "participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śabde",
+     "gloss": "in-sound",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaktā",
+     "gloss": "speaker",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyase",
+     "gloss": "are-born",
+     "grounds": "middle present",
+     "morph": "2.sg.mid.pres+jan"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛtāv",
+     "gloss": "in-prakṛti",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣo",
+     "gloss": "fault",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'yaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartryāṃ",
+     "gloss": "in-doership",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "kartṛtvavarjitā",
+     "gloss": "doership-devoid",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are you not speaker when I utter sound?",
+   "premises": [
+    "When I utter sound, are you not speaker?",
+    "Even in prakṛti this fault remains.",
+    "Doership is devoid of doership."
+   ],
+   "inference": "Attributing speech to another speaker is faulty.",
+   "uncertainties": [
+    "kartryāṃ may mean in the doer."
+   ],
+   "plain_english": "When I utter sound, why are you not speaker? Even in prakṛti this fault remains: doership is devoid of doership."
+  }
+ ]
+}
