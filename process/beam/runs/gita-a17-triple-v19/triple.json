@@ -1,0 +1,672 @@
+{
+ "song": "gita-a17",
+ "items": [
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "mūḍhagrāheṇātmano",
+     "gloss": "foolish-grasp-of-self",
+     "grounds": "fused compound; instrumental foolish grasp; genitive self",
+     "morph": "compound (m.inst.sg + m.gen.sg)"
+    },
+    {
+     "surface": "yatpīḍayā",
+     "gloss": "by-whose-torment",
+     "grounds": "relative instrumental torment",
+     "morph": "f.rel.inst.sg.f"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "passive present of root kṛ",
+     "morph": "3.sg.passive-present root kṛ"
+    },
+    {
+     "surface": "tapaḥ",
+     "gloss": "austerity",
+     "grounds": "neuter noun",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "parasyotsādanārthaṃ",
+     "gloss": "for-destroying-another",
+     "grounds": "compound purpose",
+     "morph": "compound (m.gen.sg + n.acc.sg)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattāmasamudāhṛtam",
+     "gloss": "that-is-called-tamasic",
+     "grounds": "fused compound",
+     "morph": "compound (n.nom.sg + m.nom.sg)"
+    },
+    {
+     "surface": "trividhe'pi",
+     "gloss": "even-in-threefold",
+     "grounds": "fused indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapasi",
+     "gloss": "in-austerity",
+     "grounds": "locative of tapas",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śraddhā",
+     "gloss": "faith",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sāttvikasya",
+     "gloss": "of-sattvic",
+     "grounds": "genitive adjective",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmayī",
+     "gloss": "consisting-in-that",
+     "grounds": "feminine adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śraddhā",
+     "gloss": "faith",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rājasasya",
+     "gloss": "of-rajasic",
+     "grounds": "genitive adjective",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rajasi-dambhādāveva",
+     "gloss": "in-passion-pride-etc-only",
+     "grounds": "fused compound with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śraddhā",
+     "gloss": "faith",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tamoniṣṭhasya",
+     "gloss": "of-tamas-fixed",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parotsādanādāveva",
+     "gloss": "in-harming-others-etc-only",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śraddhā",
+     "gloss": "faith",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhamapi",
+     "gloss": "even-threefold",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapaḥ",
+     "gloss": "austerity",
+     "grounds": "neuter noun",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "sraddhayopetaṃ",
+     "gloss": "endowed-with-faith",
+     "grounds": "fused compound with sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "munirāha",
+     "gloss": "sage-says",
+     "grounds": "fused muni plus verb āha",
+     "morph": "3.sg.act.present root ah"
+    },
+    {
+     "surface": "19",
+     "gloss": "nineteen",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does faith qualify the three kinds of austerity?",
+   "premises": [
+    "faith is sattvic when austerity aims at self-consistency",
+    "faith is rajasic when austerity seeks pride and display",
+    "faith is tamasic when austerity harms another"
+   ],
+   "inference": "austerity's quality is determined by the faith and motive behind it",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given",
+    "print spelling sraddha is retained"
+   ],
+   "plain_english": "Austerity performed with foolish self-torment or to destroy another is tamasic; in all three kinds, faith is sattvic, rajasic, or tamasic according to its aim."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "dātavyamiti",
+     "gloss": "it-is-to-be-given-thus",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaddānaṃ",
+     "gloss": "which-gift",
+     "grounds": "relative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dīyate'nupakāriṇe",
+     "gloss": "is-given-to-unhelpful-one",
+     "grounds": "fused passive verb and dative",
+     "morph": "3.sg.passive-present root dā + m.dat.sg"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "in-place",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "in-worthy-recipient",
+     "grounds": "locative",
+     "morph": "m/n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddānaṃ",
+     "gloss": "that-gift",
+     "grounds": "demonstrative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāttvikaṃ",
+     "gloss": "sattvic",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "is-remembered",
+     "grounds": "passive perfect of root smṛ",
+     "morph": "3.sg.passive-perfect root smṛ"
+    },
+    {
+     "surface": "dātavyamiti-dadyātiti",
+     "gloss": "it-is-to-be-given-thus-one-should-give-thus",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyogamātraṃ",
+     "gloss": "mere-obligation",
+     "grounds": "compound",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "pālanīyamiti",
+     "gloss": "to-be-observed-thus",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "20",
+     "gloss": "twenty",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What makes a gift sattvic?",
+   "premises": [
+    "a gift given without expectation of return is sattvic",
+    "place time and recipient must be fitting",
+    "obligation alone is to be observed"
+   ],
+   "inference": "sattvic giving is measured by motive and fitness rather than mere duty",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given"
+   ],
+   "plain_english": "A gift given to an unhelpful person at the right place and time to a worthy recipient is sattvic; mere obligation is only to be observed."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "yattu",
+     "gloss": "but-which",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyupakārārthaṃ",
+     "gloss": "for-reciprocal-benefit",
+     "grounds": "compound accusative purpose",
+     "morph": "m/n.acc.sg"
+    },
+    {
+     "surface": "phalamuddiśya",
+     "gloss": "aiming-at-fruit",
+     "grounds": "absolutive compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "is-given",
+     "grounds": "passive present of root dā",
+     "morph": "3.sg.passive-present root dā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikliṣṭaṃ",
+     "gloss": "distressed",
+     "grounds": "past participle",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "tadrājasamiti",
+     "gloss": "that-is-rajasic-thus",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "is-remembered",
+     "grounds": "passive perfect of root smṛ",
+     "morph": "3.sg.passive-perfect root smṛ"
+    },
+    {
+     "surface": "doṣābhisandhānāya",
+     "gloss": "for-union-with-fault",
+     "grounds": "dative compound",
+     "morph": "m/n.dat.sg"
+    },
+    {
+     "surface": "parikliṣṭaṃ-mitādidoṣāt",
+     "gloss": "from-distress-limited-etc-fault",
+     "grounds": "fused ablative compound",
+     "morph": "m/n.abl.sg"
+    },
+    {
+     "surface": "21",
+     "gloss": "twenty-one",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is a gift given for return or fruit rajasic?",
+   "premises": [
+    "a gift given for reciprocal benefit is rajasic",
+    "a gift given with distress is rajasic",
+    "such giving is tied to fault"
+   ],
+   "inference": "rajasic giving is motivated by return, fruit, or distress",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given"
+   ],
+   "plain_english": "A gift given for reciprocal benefit or with an eye to fruit, or given in distress, is called rajasic."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "adeśakāle",
+     "gloss": "in-wrong-place-time",
+     "grounds": "fused locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yaddānamapātrebhyaśca",
+     "gloss": "which-gift-to-unworthy-and",
+     "grounds": "fused relative noun dative and indeclinable",
+     "morph": "n.nom.sg + m.abl.pl + (indecl.)"
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "is-given",
+     "grounds": "passive present of root dā",
+     "morph": "3.sg.passive-present root dā"
+    },
+    {
+     "surface": "asatkṛtamavajñātaṃ",
+     "gloss": "disrespected-and-scorned",
+     "grounds": "fused compound",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "tattāmasamudāhṛtam",
+     "gloss": "that-is-called-tamasic",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dānasya",
+     "gloss": "of-gift",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "cāsatkaraṇaṃ",
+     "gloss": "and-disrespectful-performance",
+     "grounds": "fused compound",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "tatsaṃpradānādyasatkaraṇāt",
+     "gloss": "from-that-gift's-disrespectful-performance-etc",
+     "grounds": "fused ablative compound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laukikānāṃ",
+     "gloss": "of-worldly-people",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sāttvikāditriprakārāśayānusāreṇa",
+     "gloss": "according-to-sattvic-etc-threefold-intent",
+     "grounds": "fused instrumental compound",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyākhyātā",
+     "gloss": "is-explained",
+     "grounds": "passive perfect of root vyākhyā",
+     "morph": "3.sg.passive-perfect root vyākhyā"
+    },
+    {
+     "surface": "22",
+     "gloss": "twenty-two",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guṇatritayasaṃkaṭottīrṇadhiyaste",
+     "gloss": "those-whose-intellect-crosses-three-strand-difficulty",
+     "grounds": "fused compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kriyāṃ",
+     "gloss": "action",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kathamācarantīti",
+     "gloss": "how-do-they-perform-thus",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛk",
+     "gloss": "such",
+     "grounds": "indeclinable adjective",
+     "morph": "m/n.nom.sg"
+    },
+    {
+     "surface": "prakāra",
+     "gloss": "manner",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate-",
+     "gloss": "is-said",
+     "grounds": "fused passive present of root vac",
+     "morph": "3.sg.passive-present root vac"
+    }
+   ],
+   "question": "How is tamasic giving defined and what follows?",
+   "premises": [
+    "giving at wrong place or time to unworthy recipients is tamasic",
+    "disrespectful performance makes the gift tamasic",
+    "worldly actions are explained by threefold intent"
+   ],
+   "inference": "tamasic giving is defined by unfit circumstance and disrespect, then the question turns to those beyond the three strands",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given"
+   ],
+   "plain_english": "A gift given at the wrong place or time to unworthy recipients, disrespectfully, is tamasic; worldly actions are explained by threefold intent, and now the manner of those beyond the three strands is stated."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsaditi",
+     "gloss": "that-is-true-thus",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirdeśo",
+     "gloss": "designation",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmaṇastrividhaḥ",
+     "gloss": "of-brahman-threefold",
+     "grounds": "fused genitive and adjective",
+     "morph": "m.gen.sg + m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "passive perfect of root smṛ",
+     "morph": "3.sg.passive-perfect root smṛ"
+    },
+    {
+     "surface": "brāhmaṇāstena",
+     "gloss": "brahmins-by-that",
+     "grounds": "fused nominative and instrumental",
+     "morph": "m.nom.pl + m.inst.sg"
+    },
+    {
+     "surface": "vedāśca",
+     "gloss": "and-vedas",
+     "grounds": "fused nominative and indeclinable",
+     "morph": "m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "yañāśca",
+     "gloss": "and-sacrifices",
+     "grounds": "fused nominative and indeclinable",
+     "morph": "m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "vihitāḥ",
+     "gloss": "prescribed",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What threefold designation is remembered for brahman?",
+   "premises": [
+    "om tat sat is the threefold designation of brahman",
+    "brahmins vedas and sacrifices were prescribed by it",
+    "this designation is remembered from of old"
+   ],
+   "inference": "the threefold designation grounds brahmin vedic and sacrificial order",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given"
+   ],
+   "plain_english": "Om tat sat is the threefold designation of brahman; by it brahmins, vedas, and sacrifices were prescribed formerly."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "tasmādomityudāhṛtya",
+     "gloss": "therefore-uttering-om",
+     "grounds": "fused absolutive compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajñadānatapaḥkriyāḥ",
+     "gloss": "sacrifice-gift-austerity-actions",
+     "grounds": "fused compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pravartante",
+     "gloss": "proceed",
+     "grounds": "active present of root pravṛt",
+     "morph": "3.pl.act.present root pravṛt"
+    },
+    {
+     "surface": "vidhānoktāḥ",
+     "gloss": "prescribed-by-rule",
+     "grounds": "compound participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmavādinām",
+     "gloss": "of-brahman-speakers",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "How do brahman-speakers begin prescribed actions?",
+   "premises": [
+    "actions of sacrifice gift and austerity proceed",
+    "they are prescribed by rule",
+    "brahman-speakers utter om first"
+   ],
+   "inference": "prescribed action among brahman-speakers begins with om",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given"
+   ],
+   "plain_english": "Therefore, uttering om, the prescribed actions of sacrifice, gift, and austerity proceed always among speakers of brahman."
+  }
+ ]
+}

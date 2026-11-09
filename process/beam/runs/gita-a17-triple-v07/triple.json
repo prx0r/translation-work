@@ -1,0 +1,483 @@
+{
+ "song": "gita-a17",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "āhārastvapi",
+     "gloss": "food-too",
+     "grounds": "compound of āhāra + api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "trividho",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajñastapastathā",
+     "gloss": "sacrifice-austerity-and-so",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-those",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhedamimaṃ",
+     "gloss": "this-distinction",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    }
+   ],
+   "question": "How is food, sacrifice, austerity, and gift threefold and dear to each nature?",
+   "premises": [
+    "food is threefold for all",
+    "sacrifice austerity and gift are likewise threefold",
+    "their distinction is to be heard"
+   ],
+   "inference": "The verse opens a threefold classification of food, sacrifice, austerity, and gift according to nature.",
+   "uncertainties": [
+    "fused sandhi in yajñastapastathā is kept as one row"
+   ],
+   "plain_english": "Food is threefold for all, and sacrifice, austerity, and gift are likewise threefold; hear this distinction."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ",
+     "gloss": "life-purity-strength-health-joy-affection-increasing",
+     "grounds": "long compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rasyāḥ",
+     "gloss": "tasty",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "snigdhāḥ",
+     "gloss": "unctuous",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sthirā",
+     "gloss": "steady",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hṛdyā",
+     "gloss": "heart-pleasing",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "āhārāḥ",
+     "gloss": "foods",
+     "grounds": "noun plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sāttvikapriyāḥ",
+     "gloss": "dear-to-sattva",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which foods are dear to the sattva nature?",
+   "premises": [
+    "sattva-dear foods increase life purity strength health joy and affection",
+    "they are tasty unctuous steady and heart-pleasing"
+   ],
+   "inference": "Sattva-dear foods are wholesome, pleasing, and life-enhancing.",
+   "uncertainties": [
+    "compound members are glossed in order"
+   ],
+   "plain_english": "Foods that increase life, purity, strength, health, joy, and affection, being tasty, unctuous, steady, and heart-pleasing, are dear to sattva."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ",
+     "gloss": "bitter-sour-salty-very-hot-sharp-dry-burning",
+     "grounds": "long compound of food qualities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "āhārā",
+     "gloss": "foods",
+     "grounds": "noun plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rājasasyeṣṭā",
+     "gloss": "desired-by-rajas",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "duḥkhaśokāmayapradāḥ",
+     "gloss": "giving-pain-grief-disease",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which foods are desired by the rajas nature?",
+   "premises": [
+    "rajas-desired foods are bitter sour salty very hot sharp dry and burning",
+    "they give pain grief and disease"
+   ],
+   "inference": "Rajas-dear foods are harsh and produce suffering and illness.",
+   "uncertainties": [
+    "compound is kept as one row"
+   ],
+   "plain_english": "Foods that are bitter, sour, salty, very hot, sharp, dry, and burning are desired by rajas and give pain, grief, and disease."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "yātayāmaṃ",
+     "gloss": "stale",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gatarasaṃ",
+     "gloss": "tasteless",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūti",
+     "gloss": "putrid",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paryuṣitaṃ",
+     "gloss": "stale",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucchiṣṭamapi",
+     "gloss": "leftover-too",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāmedhyaṃ",
+     "gloss": "and-impure",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhojanaṃ",
+     "gloss": "food",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāmasapriyam",
+     "gloss": "dear-to-tamas",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yātayāmamiti-yātā",
+     "gloss": "yātayāma-means-yātā",
+     "grounds": "editorial gloss token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmā",
+     "gloss": "yāmā",
+     "grounds": "editorial gloss token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-which",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "10",
+     "gloss": "verse-ten",
+     "grounds": "verse number token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which foods are dear to the tamas nature?",
+   "premises": [
+    "tamas-dear food is stale tasteless putrid and leftover",
+    "it is also impure",
+    "the editorial gloss explains yātayāma"
+   ],
+   "inference": "Tamas-dear food is degraded, stale, and impure.",
+   "uncertainties": [
+    "editorial gloss tokens are retained as rows"
+   ],
+   "plain_english": "Food that is stale, tasteless, putrid, leftover, and impure is dear to tamas."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "aphalākāṃkṣibhiryajño",
+     "gloss": "sacrifice-by-those-not-desiring-fruit",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhidṛṣṭo",
+     "gloss": "according-to-rule",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ya",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ijyate",
+     "gloss": "is-performed",
+     "grounds": "verb yaj",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "yaṣṭavyamityeva",
+     "gloss": "as-duty-only",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samādhāya",
+     "gloss": "having-fixed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāttvikaḥ",
+     "gloss": "sattvic",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samādhāya-niścayenānusandhāya",
+     "gloss": "having-fixed-with-resolve",
+     "grounds": "editorial gloss token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "11",
+     "gloss": "verse-eleven",
+     "grounds": "verse number token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What makes a sacrifice sattvic?",
+   "premises": [
+    "a sattvic sacrifice is performed by those not desiring fruit",
+    "it follows rule and duty",
+    "the mind is fixed with resolve"
+   ],
+   "inference": "Sattvic sacrifice is rule-bound, duty-oriented, and free from fruit-desire.",
+   "uncertainties": [
+    "editorial gloss token is retained as one row"
+   ],
+   "plain_english": "A sacrifice performed by those not desiring fruit, according to rule, with the mind fixed on duty alone, is sattvic."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "abhisandhāya",
+     "gloss": "having-aimed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dambhārthamapi",
+     "gloss": "for-show-too",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ijyate",
+     "gloss": "is-performed",
+     "grounds": "verb yaj",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yajñaṃ",
+     "gloss": "sacrifice",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rājasaṃ",
+     "gloss": "rajasic",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "calamadhruvam",
+     "gloss": "unsteady-impermanent",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dambhārthamapīti",
+     "gloss": "for-show-too-thus",
+     "grounds": "editorial gloss token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dambho-loko",
+     "gloss": "show-world",
+     "grounds": "editorial gloss token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māmevaṃvidhaṃ",
+     "gloss": "me-such",
+     "grounds": "editorial gloss token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānīyāditi",
+     "gloss": "may-know-thus",
+     "grounds": "editorial gloss token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "12",
+     "gloss": "verse-twelve",
+     "grounds": "verse number token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What makes a sacrifice rajasic?",
+   "premises": [
+    "a rajasic sacrifice aims at fruit",
+    "it is performed for show",
+    "it is unsteady and impermanent"
+   ],
+   "inference": "Rajasic sacrifice is fruit-seeking, show-oriented, and unstable.",
+   "uncertainties": [
+    "editorial gloss tokens are retained as rows"
+   ],
+   "plain_english": "Know that a sacrifice performed aiming at fruit and for show is rajasic, unsteady, and impermanent."
+  }
+ ]
+}
