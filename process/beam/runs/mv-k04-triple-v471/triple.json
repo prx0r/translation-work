@@ -1,0 +1,931 @@
+{
+ "song": "mv-k04",
+ "items": [
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cābhautikaṃ",
+     "gloss": "non-elemental",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sūkṣmaṃ",
+     "gloss": "subtle",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "would-grasp",
+     "grounds": "verb of perception",
+     "morph": "3.sg.act-opt + root grh"
+    },
+    {
+     "surface": "parvatādikam",
+     "gloss": "mountain-and-such",
+     "grounds": "compound noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhivyaktiḥ",
+     "gloss": "manifestation",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "samānasya",
+     "gloss": "of-the-same",
+     "grounds": "adjective",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "samānena",
+     "gloss": "by-the-same",
+     "grounds": "adjective",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-established",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root vidh"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How could a non-elemental subtle thing grasp mountains and similar objects?",
+   "premises": [
+    "manifestation is established by like through like",
+    "a non-elemental subtle perceiver lacks elemental contact"
+   ],
+   "inference": "the opponent's subtle perceiver cannot account for gross perception",
+   "uncertainties": [
+    "exact referent of samāna remains implicit"
+   ],
+   "plain_english": "How could a non-elemental subtle thing grasp mountains and the like? Manifestation is established by the same through the same."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "nanv",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-it-be",
+     "grounds": "verb of existence",
+     "morph": "3.sg.act-imp + root as"
+    },
+    {
+     "surface": "prākṛtī",
+     "gloss": "material",
+     "grounds": "adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "buddhis",
+     "gloss": "intellect",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "'haṃkṛt",
+     "gloss": "ego-maker",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ittham",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apy",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṇutā",
+     "gloss": "atomicity",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manasaḥ",
+     "gloss": "of-mind",
+     "grounds": "noun",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "saṃprasiddhyati",
+     "gloss": "is-established",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-pres + root sidh"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Even if intellect, ego, and mind arise in sequence, how is mind's atomicity established?",
+   "premises": [
+    "the opponent proposes a material intellect",
+    "then ego and then mind follow",
+    "atomicity of mind is not thereby established"
+   ],
+   "inference": "the proposed sequence fails to prove mind's atomicity",
+   "uncertainties": [
+    "prākṛtī may modify buddhi or the whole chain"
+   ],
+   "plain_english": "Let there be material intellect, then ego, then mind; even so, mind's atomicity is not established."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "vyāpakatvena",
+     "gloss": "by-pervasiveness",
+     "grounds": "abstract noun",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "pūrvoktadūṣaṇāni",
+     "gloss": "previously-stated-refutations",
+     "grounds": "compound noun",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "sthitāny",
+     "gloss": "remain",
+     "grounds": "participle",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "alam",
+     "gloss": "enough",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktyaṃśair",
+     "gloss": "by-reason-parts",
+     "grounds": "compound noun",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "mānasāvarjanāya",
+     "gloss": "for-mind's-acceptance",
+     "grounds": "compound noun",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "for-us",
+     "grounds": "pronoun",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do the previous refutations remain valid because mind is pervasive?",
+   "premises": [
+    "pervasiveness leaves previous refutations standing",
+    "mind is not accepted by reason-parts",
+    "acceptance of mind is not established for us"
+   ],
+   "inference": "mind cannot be accepted on the opponent's rational grounds",
+   "uncertainties": [
+    "alam may be exclamatory rather than conclusive"
+   ],
+   "plain_english": "By pervasiveness the previous refutations remain; thus mind is not accepted by reason-parts for us."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "yādṛg",
+     "gloss": "of-such-kind",
+     "grounds": "relative adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vādyantarair",
+     "gloss": "by-other-instruments",
+     "grounds": "compound noun",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "iṣṭaṃ",
+     "gloss": "desired",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dvaitavyāmūḍhadṛṣṭibhiḥ",
+     "gloss": "by-dualist-deluded-views",
+     "grounds": "compound noun",
+     "morph": "inst.pl.f"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cidātmanaḥ",
+     "gloss": "of-consciousness-self",
+     "grounds": "compound noun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "prakāśasya",
+     "gloss": "of-manifestation",
+     "grounds": "noun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tathābhāsanabhāginī",
+     "gloss": "participating-in-such-appearance",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of instrument do dualist-deluded views desire for consciousness's manifestation?",
+   "premises": [
+    "dualist-deluded views desire other instruments",
+    "consciousness-self's manifestation participates in such appearance"
+   ],
+   "inference": "the desired instrument is tied to a particular mode of appearance",
+   "uncertainties": [
+    "the verse is syntactically elliptical"
+   ],
+   "plain_english": "Such as is desired by other instruments for dualist-deluded views, so participates in the manifestation of consciousness-self."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śaktis",
+     "gloss": "power",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "manas",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tv",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-it-be",
+     "grounds": "verb of existence",
+     "morph": "3.sg.act-imp + root as"
+    },
+    {
+     "surface": "svasvātantryopakalpitam",
+     "gloss": "self-autonomy-imagined",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotraṃ",
+     "gloss": "ear",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nabhas",
+     "gloss": "space",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśabdaśrutir",
+     "gloss": "all-sound-hearing",
+     "grounds": "compound noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb of existence",
+     "morph": "3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "If mind is a self-autonomy-imagined power, where would all sound be heard?",
+   "premises": [
+    "mind may be a power imagined by self-autonomy",
+    "where ear and space are, all sound hearing would be"
+   ],
+   "inference": "hearing is tied to space rather than to a separate mind",
+   "uncertainties": [
+    "tan manas may be appositional or predicative"
+   ],
+   "plain_english": "Let that mind be a power imagined by self-autonomy; where ear and space are, there all sound hearing would be."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "cakṣurādyaiś",
+     "gloss": "by-eye-and-such",
+     "grounds": "compound noun",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirvibandhaṃ",
+     "gloss": "without-obstruction",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nabhaḥ",
+     "gloss": "space",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmādharmair",
+     "gloss": "by-merit-and-demerit",
+     "grounds": "compound noun",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "vibandhaś",
+     "gloss": "obstruction",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktyupanyāsavaikalī",
+     "gloss": "reasoning-presentation-weakness",
+     "grounds": "compound noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is perception everywhere unobstructed by eye and similar organs?",
+   "premises": [
+    "eye and similar organs perceive everywhere without obstruction",
+    "space is the reason",
+    "merit and demerit cause obstruction",
+    "the opponent's reasoning presentation is weak"
+   ],
+   "inference": "obstruction belongs to merit and demerit, not to space-based perception",
+   "uncertainties": [
+    "yuktyupanyāsavaikalī may qualify the opponent's argument"
+   ],
+   "plain_english": "By eye and the rest perception is everywhere unobstructed because of space; obstruction by merit and demerit shows the opponent's reasoning is weak."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "bādhiryādi",
+     "gloss": "deafness-and-such",
+     "grounds": "compound noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb of existence",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taccikitsanam",
+     "gloss": "its-treatment",
+     "grounds": "compound noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhāśrayavighātena",
+     "gloss": "by-destroying-bond-support",
+     "grounds": "compound noun",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tadanugrahas",
+     "gloss": "its-grace",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How could deafness and similar conditions arise, and how could they be treated?",
+   "premises": [
+    "deafness and similar conditions raise a problem",
+    "treatment is also questioned",
+    "destroying the support of bondage brings grace"
+   ],
+   "inference": "grace follows from removing the support of bondage",
+   "uncertainties": [
+    "tadanugrahas may refer to grace of the sense or of consciousness"
+   ],
+   "plain_english": "How could deafness and the like arise, or how could they be treated? Thus grace comes by destroying the support of bondage."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "akṣaṃ",
+     "gloss": "sense-organ",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "svāvayaveṣv",
+     "gloss": "in-its-own-parts",
+     "grounds": "compound noun",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "x",
+     "gloss": "illegible-token",
+     "grounds": "textual gap",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "x",
+     "gloss": "illegible-token",
+     "grounds": "textual gap",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "x",
+     "gloss": "illegible-token",
+     "grounds": "textual gap",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samavāyinaḥ",
+     "gloss": "inherent",
+     "grounds": "adjective",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nabho",
+     "gloss": "space",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvāpy",
+     "gloss": "anywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśritam",
+     "gloss": "dependent",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "position",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is a sense organ inherent in its own parts, and is space dependent anywhere?",
+   "premises": [
+    "sense organ is considered in its own parts",
+    "three tokens are illegible",
+    "space is not dependent anywhere"
+   ],
+   "inference": "the position denies dependence of space while affirming inherent sense-organ relation",
+   "uncertainties": [
+    "the three x tokens prevent full reconstruction"
+   ],
+   "plain_english": "A sense organ is inherent in its own parts; space is not dependent anywhere: this is the position."
+  },
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "saṃyogitā",
+     "gloss": "conjunction",
+     "grounds": "abstract noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "\\ldots",
+     "gloss": "ellipsis",
+     "grounds": "textual gap",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sākaṃ",
+     "gloss": "together",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvena",
+     "gloss": "with-being",
+     "grounds": "noun",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "occurs",
+     "grounds": "verb of existence",
+     "morph": "3.sg.act-pres + root vṛt"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadanugrahaghātābhyām",
+     "gloss": "by-grace-and-destruction",
+     "grounds": "compound noun",
+     "morph": "inst.du.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikriyatāṃ",
+     "gloss": "let-it-be-modified",
+     "grounds": "verb of change",
+     "morph": "3.sg.pass-imp + root vikṛ"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does conjunction occur together with being, and may it be modified by grace and destruction?",
+   "premises": [
+    "conjunction occurs together with being",
+    "grace and destruction modify it",
+    "modification follows from those two"
+   ],
+   "inference": "conjunction is subject to modification by grace and destruction",
+   "uncertainties": [
+    "the ellipsis hides part of the argument"
+   ],
+   "plain_english": "Conjunction occurs together with being; by grace and destruction let it be modified then."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anugrahas",
+     "gloss": "grace",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anugrahaḥ",
+     "gloss": "grace",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tadāśrayaḥ",
+     "gloss": "its-support",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-pause",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "itīyaṃ",
+     "gloss": "thus-this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "svavacaḥkḷptir",
+     "gloss": "self-speech-construction",
+     "grounds": "compound noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "niḥsāraiva",
+     "gloss": "empty-indeed",
+     "grounds": "adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vibhāti",
+     "gloss": "appears",
+     "grounds": "verb of appearance",
+     "morph": "3.sg.act-pres + root bhā"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "to-us",
+     "grounds": "pronoun",
+     "morph": "dat.pl"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is grace itself the support of grace, and is that self-speech construction empty?",
+   "premises": [
+    "grace is said to be its own support",
+    "this is a self-speech construction",
+    "to us it appears empty"
+   ],
+   "inference": "the opponent's circular support-claim is empty",
+   "uncertainties": [
+    "tadāśrayaḥ may be predicative or appositional"
+   ],
+   "plain_english": "Grace is grace and that is its support; thus this self-speech construction appears empty to us."
+  }
+ ]
+}
