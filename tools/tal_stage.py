@@ -129,12 +129,21 @@ def stage_assemble(work, song):
                 t['grounds'] = r['grounds']
     (W / f'working-t1-{song}.json').write_text(json.dumps(wt, indent=1, ensure_ascii=False))
     # CM assemble
+    import re as _re
     cm = {}
     for e in wt:
         f = RUNS / f"{song}-cm-v{e['verse']:02d}" / 'cm.json'
         if f.exists():
             d = json.loads(f.read_text())
-            cm[str(e['verse'])] = [[r['lemma'], r['morph'], r['grounds']] for r in d['rows']]
+            _rows = []
+            for r in d['rows']:
+                _lm = r.get('lemma', '')
+                # drop paratext rows (locators/numbers) that the T1 token
+                # stream excludes — keeps CM↔T1 positional alignment
+                if _lm in {'|', '||'} or _re.fullmatch(r'\d+', _lm) or _re.fullmatch(r'\d+-\d+', _lm):
+                    continue
+                _rows.append([r['lemma'], r['morph'], r.get('grounds', '')])
+            cm[str(e['verse'])] = _rows
     (W / 'cm').mkdir(exist_ok=True)
     cmf = W / 'cm' / f'l0cm-{song}-v1-{len(wt)}.json'
     cmf.write_text(json.dumps(cm, indent=1, ensure_ascii=False))

@@ -46,7 +46,9 @@ def tokens_of(text: str) -> list[str]:
             if w in {'|', '||'}:
                 continue
             if MARKER.fullmatch(w):
-                continue  # verse locators (1-2); meaning lives in // N // prose
+                continue  # verse locators (1-2, 7-8) — paratext
+            if re.fullmatch(r'\d+', w):
+                continue  # bare verse numbers — paratext locators
             out.append(w)
     return out
 

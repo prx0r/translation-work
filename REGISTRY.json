@@ -5,9 +5,9 @@
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
  "total_works": 101,
- "gold": 86,
+ "gold": 92,
  "partial": 0,
- "pending": 15,
+ "pending": 9,
  "works": [
   {
    "work": "ajadapramatrsiddhi",
@@ -961,12 +961,12 @@
   },
   {
    "work": "gitarthasangraha",
-   "status": "pending (P0: source on disk, translation queued later)",
-   "gold": false,
+   "status": "gold (machine-proposed, minimal: L3/L4 waived)",
+   "gold": true,
    "has_data_json": false,
    "has_process_log": false,
    "verses": null,
-   "note": "pending (P0 source on disk: ipvv sanskrit/gitarthasangraha.txt, Muktabodha M00244; longer work: translate later)"
+   "note": "minimal gold via swarm: T1/L0/argmap/L2/C1-essence, proof PASS; L3/L4 waived."
   },
   {
    "work": "abhinavabharati",

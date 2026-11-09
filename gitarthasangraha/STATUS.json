@@ -1,23 +1,24 @@
 {
-  "work": "gitarthasangraha",
-  "updated": "2026-11-04",
-  "next": "gita-a01 (adhyāya 1, 48 units) onward — one slice at a time; then a02..a18. Owner: first-verse L4 voice verdict (gita-a00-v01). Site ABSTENTION skeleton written (owner commits ipvv).",
-  "counts": {
-    "songs_total": 19,
-    "songs_done": 1,
-    "benedictory_verses": 6,
-    "l0_parsed": 58,
-    "l0_ambiguous": 0,
-    "l0_failed": 0,
-    "l0_forks_live": 5,
-    "l4_drafts": 6,
-    "l4_with_craft": 6
-  },
-  "notes": "SLICE 1/19 (MACHINE_PROPOSED) 2026-11-04: gita-a00 (six benedictory verses). L0 hand-crafted 58 tok 100% PARSED with 5 LIVE forks (mādhānyataḥ prime: neutral surface, 3 emend candidates recorded; ety/śivāpaha/bhāvanāvaśata/iyānprathiḥ also live; grounds cite Ingalls print-corruption + pending Gita Supersite/Sharma-1983 collation) / T1 md+jsonl+report (paratext excluded, paratext scope) / argmaps 6 (sha 6a98eb15da125792; mādhānyataḥ option_choices = honest-gap record) / L2 6 (cites pipe-exact) / C1 essence 6 + 7-part + rasa adbhuta-śānta (0 quotes, 0 shared) / L3 6 (forks noted, held) / L4 6 DRAFTs craft+rejected+read-aloud / c1 md / site ABSTENTION. validate 0, proof PASS (ALIGN v1 disposition: paratext-scope, tools/proof-disp.json), qa NEEDS_WITNESS, check.py CANONICAL. Witnesses: Sharma 1983 (English, emendations) + Gita Supersite pending as collation/witness. C2 waived per owner. OPEN: first-verse L4 voice verdict; human review.",
-  "needs": [
-    "first-verse L4 voice verdict (owner)",
-    "human-review (machine-proposed)",
-    "Sharma 1983 quote for qa witness (future)"
-  ],
-  "rasa": "adbhuta-śānta of the treasury opened (wonder at the work’s own store)"
+ "work": "gitarthasangraha",
+ "updated": "2026-11-09",
+ "next": "minimal gold complete; L3/L4 waived; human review pending",
+ "counts": {
+  "songs_total": 19,
+  "songs_done": 1,
+  "benedictory_verses": 6,
+  "l0_parsed": 58,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l0_forks_live": 5,
+  "l4_drafts": 6,
+  "l4_with_craft": 6,
+  "proof": "PASS"
+ },
+ "notes": "SLICE 1/19 (MACHINE_PROPOSED) 2026-11-04: gita-a00 (six benedictory verses). L0 hand-crafted 58 tok 100% PARSED with 5 LIVE forks (mādhānyataḥ prime: neutral surface, 3 emend candidates recorded; ety/śivāpaha/bhāvanāvaśata/iyānprathiḥ also live; grounds cite Ingalls print-corruption + pending Gita Supersite/Sharma-1983 collation) / T1 md+jsonl+report (paratext excluded, paratext scope) / argmaps 6 (sha 6a98eb15da125792; mādhānyataḥ option_choices = honest-gap record) / L2 6 (cites pipe-exact) / C1 essence 6 + 7-part + rasa adbhuta-śānta (0 quotes, 0 shared) / L3 6 (forks noted, held) / L4 6 DRAFTs craft+rejected+read-aloud / c1 md / site ABSTENTION. validate 0, proof PASS (ALIGN v1 disposition: paratext-scope, tools/proof-disp.json), qa NEEDS_WITNESS, check.py CANONICAL. Witnesses: Sharma 1983 (English, emendations) + Gita Supersite pending as collation/witness. C2 waived per owner. OPEN: first-verse L4 voice verdict; human review.",
+ "needs": [
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed)",
+  "Sharma 1983 quote for qa witness (future)"
+ ],
+ "rasa": "adbhuta-śānta of the treasury opened (wonder at the work’s own store)"
 }

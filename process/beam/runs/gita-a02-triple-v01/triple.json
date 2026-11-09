@@ -1,0 +1,845 @@
+{
+ "song": "gita-a02",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyo'dhyāyaḥ",
+     "gloss": "second-chapter",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sañjaya",
+     "gloss": "sanjaya",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "root vac",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "accusative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛpayāviṣṭamaśrupūrṇākulekṣaṇam",
+     "gloss": "compassion-overcome-tear-filled-distressed-eyed",
+     "grounds": "long compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viṣīdantamidaṃ",
+     "gloss": "grieving-this",
+     "grounds": "fused participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vākyamuvāca",
+     "gloss": "spoke-words",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "madhusūdanaḥ",
+     "gloss": "madhusudana",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does Sanjaya describe Arjuna's state before Krishna speaks?",
+   "premises": [
+    "Arjuna is grief-stricken",
+    "Krishna addresses him",
+    "The chapter opens with compassion"
+   ],
+   "inference": "The scene is set for Krishna's teaching",
+   "uncertainties": [
+    "No textual fork adjudicated in this span"
+   ],
+   "plain_english": "Sanjaya says that Krishna, seeing Arjuna overcome with compassion and grief, spoke these words to him."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "blessed-lord-said",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "kutastvā",
+     "gloss": "whence-you",
+     "grounds": "fused pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaśmalamidaṃ",
+     "gloss": "this-faintness",
+     "grounds": "demonstrative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṣame",
+     "gloss": "in-difficulty",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samupasthitam",
+     "gloss": "arisen",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anāryajuṣṭamasvargyamakīrtikaramarjuna",
+     "gloss": "unworthy-practiced-not-heavenly-fame-destroying-arjuna",
+     "grounds": "long compound",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokavyavahārāśrayeṇaiva",
+     "gloss": "by-worldly-conduct-reliance-only",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "śrībhagavānarjunaṃ",
+     "gloss": "blessed-lord-arjuna",
+     "grounds": "fused compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratibodhayati",
+     "gloss": "awakens",
+     "grounds": "root budh",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kramāttu",
+     "gloss": "then-gradually",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kariṣyatīti",
+     "gloss": "will-do-thus",
+     "grounds": "fused future",
+     "morph": "3.sg.fut.act"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāryajuṣṭam",
+     "gloss": "unworthy-practiced",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityāha",
+     "gloss": "thus-says",
+     "grounds": "root ah",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Why does Krishna call Arjuna's faintness unworthy and not heavenly?",
+   "premises": [
+    "Krishna questions Arjuna's grief",
+    "The faintness is called unworthy",
+    "Worldly conduct is the first appeal"
+   ],
+   "inference": "Krishna begins by challenging Arjuna's dejection",
+   "uncertainties": [
+    "Commentary glosses are treated as content, not mula"
+   ],
+   "plain_english": "Krishna asks whence this faintness has come in difficulty, calling it unworthy, not heavenly, and fame-destroying, while first awakening Arjuna through worldly conduct."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "klaivyādibhirnirbhartsanamabhidadhadadharme",
+     "gloss": "scolding-by-impotence-etc-in-unrighteousness",
+     "grounds": "long compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dharmābhimāno'yamityādi",
+     "gloss": "this-conceit-of-duty-etc",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darśayati",
+     "gloss": "shows",
+     "grounds": "root drsh",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "prohibitive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "klaibyaṃ",
+     "gloss": "impotence",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gaccha",
+     "gloss": "go",
+     "grounds": "root gam",
+     "morph": "2.sg.act-imper"
+    },
+    {
+     "surface": "kauntena",
+     "gloss": "kaunteya",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "naitattvayyupapadyate",
+     "gloss": "this-does-not-fit-in-you",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kṣudraṃ",
+     "gloss": "petty",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdayadaurbalyaṃ",
+     "gloss": "heart-weakness",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvottiṣṭha",
+     "gloss": "abandon-rise",
+     "grounds": "fused imperative",
+     "morph": "2.sg.act-imper"
+    },
+    {
+     "surface": "parantapa",
+     "gloss": "scorcher-of-foes",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Why does Krishna reject Arjuna's claim of righteous hesitation?",
+   "premises": [
+    "Krishna scolds impotence",
+    "Arjuna's duty-conceit is shown",
+    "Heart-weakness must be abandoned"
+   ],
+   "inference": "Arjuna is urged to rise and fight",
+   "uncertainties": [
+    "Some fused forms are read as given"
+   ],
+   "plain_english": "Krishna shows that Arjuna's conceit of duty is unrighteous, forbids impotence, and commands him to abandon petty heart-weakness and rise."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "arjuna",
+     "gloss": "arjuna",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "root vac",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīṣmamahaṃ",
+     "gloss": "bhishma-me",
+     "grounds": "fused pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṅkhye",
+     "gloss": "in-battle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "droṇaṃ",
+     "gloss": "drona",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhusūdana",
+     "gloss": "madhusudana",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "iṣubhiḥ",
+     "gloss": "with-arrows",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "pratiyotsyāmi",
+     "gloss": "will-fight-against",
+     "grounds": "future",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "pūjārhāvarisūdana",
+     "gloss": "worship-worthy-foe-destroyer",
+     "grounds": "compound",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How can Arjuna shoot arrows at Bhishma and Drona?",
+   "premises": [
+    "Arjuna questions fighting elders",
+    "Bhishma and Drona are worship-worthy",
+    "Arrows would oppose them"
+   ],
+   "inference": "Arjuna voices his moral conflict",
+   "uncertainties": [
+    "No K-vs-V fork noted here"
+   ],
+   "plain_english": "Arjuna asks how he can fight Bhishma and Drona with arrows in battle, calling them worship-worthy."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "gurūnahatvā",
+     "gloss": "not-killing-teachers",
+     "grounds": "absolutive compound",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahānubhāvā-",
+     "gloss": "great-souled",
+     "grounds": "compound fragment",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ñchreyaścartuṃ",
+     "gloss": "better-to-practice",
+     "grounds": "infinitive",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "bhaikṣamapīha",
+     "gloss": "begging-even-here",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvarthakāmastu",
+     "gloss": "desire-for-gain-but",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gurūnnihatya",
+     "gloss": "killing-teachers",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "bhuñjīya",
+     "gloss": "would-enjoy",
+     "grounds": "optative",
+     "morph": "1.sg.act-opt"
+    },
+    {
+     "surface": "bhogān",
+     "gloss": "pleasures",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "rudhirapradigdhān",
+     "gloss": "blood-smeared",
+     "grounds": "adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhīṣmaṃ",
+     "gloss": "bhishma",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "droṇaṃ",
+     "gloss": "drona",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityādinā",
+     "gloss": "by-etc",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "bhuñjīya",
+     "gloss": "would-enjoy",
+     "grounds": "optative",
+     "morph": "1.sg.act-opt"
+    },
+    {
+     "surface": "bhogān",
+     "gloss": "pleasures",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ityanena",
+     "gloss": "by-this",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaviśeṣānu-sandhānaṃ",
+     "gloss": "action-particular-inquiry",
+     "grounds": "hyphenated compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phalaviśeṣānusandhānaṃ",
+     "gloss": "result-particular-inquiry",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "heyatayā",
+     "gloss": "as-rejectable",
+     "grounds": "instrumental",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "pūrvapakṣe",
+     "gloss": "in-opponent-case",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sūcayati",
+     "gloss": "indicates",
+     "grounds": "root suc",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Why does Arjuna prefer begging to killing his teachers?",
+   "premises": [
+    "Killing teachers is rejected",
+    "Begging is preferred",
+    "Enjoyment after killing is condemned"
+   ],
+   "inference": "Arjuna's opponent-case is set out",
+   "uncertainties": [
+    "Hyphenated compound retained as one row"
+   ],
+   "plain_english": "Arjuna says it is better to live by begging than to kill great-souled teachers, and he would not enjoy blood-smeared pleasures after killing Bhishma and Drona."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "naitadvidmaḥ",
+     "gloss": "we-do-not-know-this",
+     "grounds": "fused verb",
+     "morph": "1.pl.act-pres"
+    },
+    {
+     "surface": "kataranno",
+     "gloss": "which-for-us",
+     "grounds": "fused pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "garīyo",
+     "gloss": "better",
+     "grounds": "comparative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "whether",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayema",
+     "gloss": "we-may-conquer",
+     "grounds": "optative",
+     "morph": "1.pl.act-opt"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "us",
+     "grounds": "pronoun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "jayeyuḥ",
+     "gloss": "they-may-conquer",
+     "grounds": "optative",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "yāneva",
+     "gloss": "those-very",
+     "grounds": "fused pronoun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "hatvā",
+     "gloss": "having-killed",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jijīviṣāma-",
+     "gloss": "we-wish-to-live",
+     "grounds": "compound fragment",
+     "morph": "1.pl.act-opt"
+    },
+    {
+     "surface": "ste",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "our",
+     "grounds": "pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pramukhe",
+     "gloss": "in-front",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhārtarāṣṭrāḥ",
+     "gloss": "dhartarashtras",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "naitadvidyaḥ-ityanena",
+     "gloss": "by-this-we-do-not-know",
+     "grounds": "fused compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaviśeṣānusaṃdhānamāha",
+     "gloss": "states-action-particular-inquiry",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "nirabhisaṃdhānaṃ",
+     "gloss": "without-intent",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāvatkarma",
+     "gloss": "that-action",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nopapadyate",
+     "gloss": "does-not-fit",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parājayamabhisaṃdhāya",
+     "gloss": "intending-defeat",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "yuddhe",
+     "gloss": "in-battle",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "proceeds",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "jayo'pi",
+     "gloss": "victory-even",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cāyamanartha",
+     "gloss": "and-this-misfortune",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadāha",
+     "gloss": "thus-says",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ahatvā",
+     "gloss": "not-killing",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "gurūn",
+     "gloss": "teachers",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhaikṣamapi",
+     "gloss": "begging-even",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cartuṃ",
+     "gloss": "to-practice",
+     "grounds": "infinitive",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "śreyaḥ",
+     "gloss": "better",
+     "grounds": "comparative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etacca",
+     "gloss": "and-this",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niścetumaśakyam-kiṃ",
+     "gloss": "unable-to-decide-whether",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jayaṃ",
+     "gloss": "victory",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāṅkṣāmaḥ",
+     "gloss": "we-desire",
+     "grounds": "verb",
+     "morph": "1.pl.act-pres"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "whether",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parājayam",
+     "gloss": "defeat",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jayo'pi",
+     "gloss": "victory-even",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bandhūnāṃ",
+     "gloss": "of-relatives",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vināśāt",
+     "gloss": "from-destruction",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why does Arjuna say he cannot decide between victory and defeat?",
+   "premises": [
+    "Arjuna does not know which is better",
+    "Killing relatives makes victory a misfortune",
+    "Defeat is also not intended"
+   ],
+   "inference": "Arjuna's conflict remains unresolved",
+   "uncertainties": [
+    "Fused fragments are kept as single rows"
+   ],
+   "plain_english": "Arjuna says he does not know which is better, that victory over relatives would be misfortune, and that he cannot decide whether to desire victory or defeat."
+  }
+ ]
+}

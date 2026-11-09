@@ -42,6 +42,7 @@ def is_paratext(t: str) -> bool:
         or re.fullmatch(r'\([^)]{1,24}\)', t)
         or re.fullmatch(r'[a-zā-īūṛḷṃḥṅñṭḍṇśṣ]{1,4}\.', t)
         or re.fullmatch(r'\d+\)?', t)
+        or re.fullmatch(r'\d+-\d+', t)
     )
 
 

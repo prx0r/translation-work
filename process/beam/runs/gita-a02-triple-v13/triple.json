@@ -1,0 +1,1631 @@
+{
+ "song": "gita-a02",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "evamarthadvayamāha",
+     "gloss": "thus-two-meanings-says",
+     "grounds": "commentary phrase introducing the two senses",
+     "morph": "compound"
+    },
+    {
+     "surface": "nahyevāhaṃ",
+     "gloss": "not-indeed-i",
+     "grounds": "fused negation with pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "jātu",
+     "gloss": "ever",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsaṃ",
+     "gloss": "not-was",
+     "grounds": "negated past of as",
+     "morph": "verb"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second person pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "neme",
+     "gloss": "not-these",
+     "grounds": "negated demonstrative",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "janādhipāḥ",
+     "gloss": "people-lords",
+     "grounds": "compound for kings",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "fused conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyāmaḥ",
+     "gloss": "we-will-be",
+     "grounds": "future first person plural",
+     "morph": "verb"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "plural adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "vayamitaḥ",
+     "gloss": "we-from-here",
+     "grounds": "fused pronoun and adverb",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the verse establish the eternity of selves across time?",
+   "premises": [
+    "the self never ceases to be",
+    "past present and future selves remain",
+    "therefore grief over death is unfounded"
+   ],
+   "inference": "The verse argues that the self persists through all temporal states, so destruction is not real.",
+   "uncertainties": [
+    "commentary prose fused with verse tokens"
+   ],
+   "plain_english": "Thus the two meanings are stated: I never was not, nor were you or these lords; we all shall be beyond this."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "dehino'sminyathā",
+     "gloss": "embodied-one-in-this-as",
+     "grounds": "fused genitive and locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "locative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "kaumāraṃ",
+     "gloss": "childhood",
+     "grounds": "neuter accusative",
+     "morph": "noun"
+    },
+    {
+     "surface": "yauvanaṃ",
+     "gloss": "youth",
+     "grounds": "neuter accusative",
+     "morph": "noun"
+    },
+    {
+     "surface": "jarā",
+     "gloss": "old-age",
+     "grounds": "feminine nominative",
+     "morph": "noun"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehāntaraprāptirdhīrastatra",
+     "gloss": "body-change-attainment-steady-there",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muhyati",
+     "gloss": "is-deluded",
+     "grounds": "present third singular",
+     "morph": "verb"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "first person pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "fused negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsam",
+     "gloss": "not-was",
+     "grounds": "negated past",
+     "morph": "verb"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsam",
+     "gloss": "was",
+     "grounds": "first person singular past",
+     "morph": "verb"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "second person pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "amī",
+     "gloss": "these",
+     "grounds": "demonstrative plural",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājānaḥ",
+     "gloss": "kings",
+     "grounds": "nominative plural",
+     "morph": "noun"
+    },
+    {
+     "surface": "ākārāntare",
+     "gloss": "in-other-form",
+     "grounds": "locative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative absolute",
+     "morph": "participle"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śocyatā",
+     "gloss": "grief-worthiness",
+     "grounds": "abstract noun",
+     "morph": "noun"
+    },
+    {
+     "surface": "tarhi",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaumārāt",
+     "gloss": "from-childhood",
+     "grounds": "ablative",
+     "morph": "noun"
+    },
+    {
+     "surface": "yauvanāvāptau",
+     "gloss": "at-youth-attainment",
+     "grounds": "locative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kimiti",
+     "gloss": "why",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śocyate",
+     "gloss": "is-grieved",
+     "grounds": "passive present",
+     "morph": "verb"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "dhīraḥ",
+     "gloss": "steady-one",
+     "grounds": "nominative singular",
+     "morph": "adj"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śocati",
+     "gloss": "grieves",
+     "grounds": "present third singular",
+     "morph": "verb"
+    },
+    {
+     "surface": "dhairyaṃ",
+     "gloss": "steadiness",
+     "grounds": "neuter accusative",
+     "morph": "noun"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etaccharīre'pi",
+     "gloss": "this-in-body-even",
+     "grounds": "fused locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "yasyāsthā",
+     "gloss": "whose-firmness",
+     "grounds": "genitive compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "negated present",
+     "morph": "verb"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "instrumental pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "sukaram",
+     "gloss": "easy",
+     "grounds": "neuter accusative",
+     "morph": "adj"
+    },
+    {
+     "surface": "atastvaṃ",
+     "gloss": "therefore-you",
+     "grounds": "fused adverb and pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "dhairyamanviccha",
+     "gloss": "steadiness-seek",
+     "grounds": "imperative compound",
+     "morph": "verb"
+    },
+    {
+     "surface": "adhīrāstu",
+     "gloss": "unsteady-ones",
+     "grounds": "nominative plural",
+     "morph": "adj"
+    },
+    {
+     "surface": "mātrāśabdavācyairarthairye",
+     "gloss": "sense-word-meant-by-things-which",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛtāḥ",
+     "gloss": "made",
+     "grounds": "past participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "sparśā",
+     "gloss": "contacts",
+     "grounds": "nominative plural",
+     "morph": "noun"
+    }
+   ],
+   "question": "How does bodily change support the claim that the self is not grieved?",
+   "premises": [
+    "bodily stages change like childhood to youth",
+    "the embodied self remains through change",
+    "a steady person does not grieve"
+   ],
+   "inference": "Since the self persists through bodily change, grief over bodily loss is irrational.",
+   "uncertainties": [
+    "long fused commentary compounds"
+   ],
+   "plain_english": "As the embodied self passes through childhood, youth, and old age, so it passes to another body; the steady one is not deluded."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "indriyadvāreṇātmanā",
+     "gloss": "through-sense-gate-by-self",
+     "grounds": "fused instrumental compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃbandhāḥ",
+     "gloss": "connections",
+     "grounds": "nominative plural",
+     "morph": "noun"
+    },
+    {
+     "surface": "tatkṛtā",
+     "gloss": "by-that-made",
+     "grounds": "past participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "śītoṣṇasukhaduḥkhādyāvasthā",
+     "gloss": "cold-heat-pleasure-pain-etc-states",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "anityāḥ",
+     "gloss": "impermanent",
+     "grounds": "nominative plural",
+     "morph": "adj"
+    },
+    {
+     "surface": "tāsvapi",
+     "gloss": "in-those-even",
+     "grounds": "locative with particle",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "śocanti",
+     "gloss": "grieve",
+     "grounds": "present third plural",
+     "morph": "verb"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvevaṃ",
+     "gloss": "but-thus",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhīrā",
+     "gloss": "steady-ones",
+     "grounds": "nominative plural",
+     "morph": "adj"
+    },
+    {
+     "surface": "ityāha",
+     "gloss": "thus-says",
+     "grounds": "present third singular",
+     "morph": "verb"
+    },
+    {
+     "surface": "mātrāsparśāstu",
+     "gloss": "sense-contacts-but",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "kaunteya",
+     "grounds": "vocative",
+     "morph": "noun"
+    },
+    {
+     "surface": "śītoṣṇasukhaduḥkhadāḥ",
+     "gloss": "cold-heat-pleasure-pain-givers",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "āgamāpāyino'nityāstāṃstitikṣasva",
+     "gloss": "coming-going-impermanent-those-endure",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhārata",
+     "gloss": "bharata",
+     "grounds": "vocative",
+     "morph": "noun"
+    },
+    {
+     "surface": "!",
+     "gloss": "exclamation",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "athavā-mātrābhiḥ-indriyairyeṣāṃ",
+     "gloss": "or-by-measures-by-senses-of-whom",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sparśoṃ",
+     "gloss": "contact",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sākṣātparamātmanā",
+     "gloss": "directly-supreme-self",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "āgamaḥ-utpattiḥ",
+     "gloss": "arrival-birth",
+     "grounds": "compound gloss",
+     "morph": "compound"
+    },
+    {
+     "surface": "apāyo-vināśaḥ",
+     "gloss": "departure-destruction",
+     "grounds": "compound gloss",
+     "morph": "compound"
+    },
+    {
+     "surface": "etadyukrāṃstitikṣasva-sahasva",
+     "gloss": "this-endure-endure",
+     "grounds": "fused imperative",
+     "morph": "verb"
+    }
+   ],
+   "question": "Why should impermanent sense contacts be endured rather than grieved?",
+   "premises": [
+    "sense contacts produce changing states",
+    "those states are impermanent",
+    "the steady one endures them"
+   ],
+   "inference": "Because sense-born states come and go, grief is inappropriate and endurance is taught.",
+   "uncertainties": [
+    "fused commentary glosses"
+   ],
+   "plain_english": "Sense contacts through the senses produce impermanent states; endure them, Bharata."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyathayantyete",
+     "gloss": "disturb-these",
+     "grounds": "present third plural",
+     "morph": "verb"
+    },
+    {
+     "surface": "puruṣaṃ",
+     "gloss": "person",
+     "grounds": "accusative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "puruṣarṣabha",
+     "gloss": "bull-of-men",
+     "grounds": "vocative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "!",
+     "gloss": "exclamation",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samaduḥkhasukhaṃ",
+     "gloss": "equal-pain-pleasure",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhīraṃ",
+     "gloss": "steady",
+     "grounds": "accusative singular",
+     "morph": "adj"
+    },
+    {
+     "surface": "so'mṛtatvāya",
+     "gloss": "he-for-immortality",
+     "grounds": "fused dative",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalpate",
+     "gloss": "is-fit",
+     "grounds": "present third singular",
+     "morph": "verb"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yata",
+     "gloss": "from-which",
+     "grounds": "relative",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "evāgamāpāyina",
+     "gloss": "indeed-coming-going",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "plural",
+     "morph": "adj"
+    },
+    {
+     "surface": "daśāviśeṣāstata",
+     "gloss": "state-distinctions-from-there",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śocyante",
+     "gloss": "are-grieved",
+     "grounds": "passive present",
+     "morph": "verb"
+    },
+    {
+     "surface": "?",
+     "gloss": "question",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maivam",
+     "gloss": "not-so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ko'yamāgamo",
+     "gloss": "what-this-arrival",
+     "grounds": "fused interrogative",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "?",
+     "gloss": "question",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utpattiriti",
+     "gloss": "birth-thus",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāpi",
+     "gloss": "that-even",
+     "grounds": "pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "?",
+     "gloss": "question",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asata",
+     "gloss": "of-nonbeing",
+     "grounds": "genitive",
+     "morph": "noun"
+    },
+    {
+     "surface": "ātmalābhaḥ",
+     "gloss": "self-gain",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvasat",
+     "gloss": "but-nonbeing",
+     "grounds": "fused",
+     "morph": "noun"
+    },
+    {
+     "surface": "asatsvabhāvatā",
+     "gloss": "nonbeing-nature-ness",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niḥsvabhāvatā",
+     "gloss": "absence-of-nature",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirātmatā",
+     "gloss": "absence-of-self",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirātmā",
+     "gloss": "without-self",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niḥsvabhāvaḥ",
+     "gloss": "without-nature",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "svabhāvīkartuṃ",
+     "gloss": "to-make-natured",
+     "grounds": "infinitive compound",
+     "morph": "verb"
+    },
+    {
+     "surface": "śakyaḥ",
+     "gloss": "possible",
+     "grounds": "nominative singular",
+     "morph": "adj"
+    },
+    {
+     "surface": "anīlaṃ",
+     "gloss": "non-blue",
+     "grounds": "compound",
+     "morph": "adj"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlīkartuṃ",
+     "gloss": "to-make-blue",
+     "grounds": "infinitive compound",
+     "morph": "verb"
+    },
+    {
+     "surface": "śakyam-svabhāvāntarāpatterduṣṭatvāt",
+     "gloss": "possible-nature-change-corruption",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstram",
+     "gloss": "scripture",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not-indeed",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svabhāvo",
+     "gloss": "nature",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "bhāvānāṃ",
+     "gloss": "of-beings",
+     "grounds": "genitive plural",
+     "morph": "noun"
+    },
+    {
+     "surface": "vyāvartetauṣṇyavadraveḥ",
+     "gloss": "would-turn-heat-like-fluid",
+     "grounds": "fused compound",
+     "morph": "verb"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sata",
+     "gloss": "of-being",
+     "grounds": "genitive",
+     "morph": "noun"
+    },
+    {
+     "surface": "evātmalābha",
+     "gloss": "indeed-self-gain",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "utpattiḥ",
+     "gloss": "birth",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labdhātmano'sya",
+     "gloss": "of-gained-self-his",
+     "grounds": "fused genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "jātvapi",
+     "gloss": "ever-even",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anabhāvāt",
+     "gloss": "from-non-destruction",
+     "grounds": "ablative",
+     "morph": "noun"
+    },
+    {
+     "surface": "nityataivetyāgame",
+     "gloss": "eternity-thus-in-arrival",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "śocyatā",
+     "gloss": "grief-worthiness",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "evamapāyo'pi",
+     "gloss": "thus-departure-even",
+     "grounds": "fused",
+     "morph": "compound"
+    },
+    {
+     "surface": "sato'sato",
+     "gloss": "of-being-of-nonbeing",
+     "grounds": "fused genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asattāvadasadeva",
+     "gloss": "nonbeing-indeed-nonbeing-only",
+     "grounds": "fused",
+     "morph": "compound"
+    },
+    {
+     "surface": "satsvabhāvasyāpi",
+     "gloss": "of-being-nature-even",
+     "grounds": "fused genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathamasattāsvabhāvaḥ",
+     "gloss": "how-nonbeing-nature",
+     "grounds": "fused interrogative",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvitīye",
+     "gloss": "in-second",
+     "grounds": "locative",
+     "morph": "adj"
+    },
+    {
+     "surface": "kṣaṇe'sāvasatsvabhāvaḥ-iti",
+     "gloss": "in-moment-that-nonbeing-nature-thus",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādye'pi",
+     "gloss": "in-first-even",
+     "grounds": "fused locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāditi",
+     "gloss": "would-be-thus",
+     "grounds": "fused",
+     "morph": "verb"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaścidbhāvaḥ",
+     "gloss": "any-being",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "verb"
+    },
+    {
+     "surface": "svabhāvasyātyāgāt",
+     "gloss": "from-nature-abandonment",
+     "grounds": "ablative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudgarādināsya",
+     "gloss": "by-hammer-etc-his",
+     "grounds": "fused instrumental",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the verse argue that the steady person is fit for immortality?",
+   "premises": [
+    "sense contacts do not disturb the steady person",
+    "equal pain and pleasure mark steadiness",
+    "such steadiness fits one for immortality"
+   ],
+   "inference": "The verse identifies steadiness amid changing contacts as the condition for immortality.",
+   "uncertainties": [
+    "extensive commentary argumentation"
+   ],
+   "plain_english": "The person whom these contacts do not disturb, steady in pain and pleasure, is fit for immortality."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "nāśaḥ",
+     "gloss": "destruction",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "passive present",
+     "morph": "verb"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyatiriktaḥ",
+     "gloss": "distinct",
+     "grounds": "nominative singular",
+     "morph": "adj"
+    },
+    {
+     "surface": "bhāvasya",
+     "gloss": "of-being",
+     "grounds": "genitive singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "vṛttam",
+     "gloss": "happened",
+     "grounds": "past participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "?",
+     "gloss": "question",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyate-iti",
+     "gloss": "is-seen-thus",
+     "grounds": "fused",
+     "morph": "verb"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mā",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśi",
+     "gloss": "seen",
+     "grounds": "participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "being",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvanyathābhūtaḥ",
+     "gloss": "but-otherwise-become",
+     "grounds": "fused",
+     "morph": "adj"
+    },
+    {
+     "surface": "paṭāvṛta",
+     "gloss": "covered-by-cloth",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avyatiriktastu",
+     "gloss": "not-distinct-but",
+     "grounds": "fused",
+     "morph": "adj"
+    },
+    {
+     "surface": "nāsāvityuktam",
+     "gloss": "not-that-thus-said",
+     "grounds": "fused",
+     "morph": "verb"
+    },
+    {
+     "surface": "tadetatsaṃkṣipyāha",
+     "gloss": "that-this-summarizes-says",
+     "grounds": "fused",
+     "morph": "verb"
+    },
+    {
+     "surface": "nāsato",
+     "gloss": "of-nonbeing-not",
+     "grounds": "fused genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "present third singular",
+     "morph": "verb"
+    },
+    {
+     "surface": "bhāvo",
+     "gloss": "being",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "nābhāvo",
+     "gloss": "not-nonbeing",
+     "grounds": "fused",
+     "morph": "noun"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "present third singular",
+     "morph": "verb"
+    },
+    {
+     "surface": "sataḥ",
+     "gloss": "of-being",
+     "grounds": "genitive singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "ubhayorapi",
+     "gloss": "of-both-even",
+     "grounds": "fused genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "dṛṣṭo'ntastvanayostattvadarśibhiḥ",
+     "gloss": "seen-end-in-these-truth-seers",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokavṛttenedamāha-asato-nityavināśinaḥ",
+     "gloss": "by-world-practice-this-says-of-nonbeing-eternally-destructible",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śarīrasya",
+     "gloss": "of-body",
+     "grounds": "genitive singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvaḥ-anavaratamavasthābhiḥ",
+     "gloss": "being-unceasingly-by-states",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pariṇāmitvāt",
+     "gloss": "from-transformation",
+     "grounds": "ablative",
+     "morph": "noun"
+    },
+    {
+     "surface": "nityasataśca-paramātmano",
+     "gloss": "of-eternal-being-and-supreme-self",
+     "grounds": "fused genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "negated present",
+     "morph": "verb"
+    },
+    {
+     "surface": "kadācidvināśo'pariṇāmadharmatvāt",
+     "gloss": "ever-destruction-from-non-transformation-nature",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedaḥ",
+     "gloss": "veda",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "avināśī",
+     "gloss": "indestructible",
+     "grounds": "nominative singular",
+     "morph": "adj"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "are'yamātmānucchittidharmā",
+     "gloss": "indeed-this-self-non-destruction-nature",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bṛ0",
+     "gloss": "brihadaranyaka",
+     "grounds": "abbreviation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ā0",
+     "gloss": "adhyaya",
+     "grounds": "abbreviation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "4|",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anayoḥ",
+     "gloss": "of-these-two",
+     "grounds": "genitive dual",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "sadasatorantaḥ-pratiṣṭhāpadaṃ",
+     "gloss": "of-being-nonbeing-end-resting-place",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatrānayorviśrāntiḥ",
+     "gloss": "where-of-these-two-rest",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the verse distinguish being from non-being?",
+   "premises": [
+    "non-being has no being",
+    "being has no non-being",
+    "truth-seers see the end of both"
+   ],
+   "inference": "The verse states that being and non-being are mutually exclusive and known by truth-seers.",
+   "uncertainties": [
+    "abbreviations and fused commentary"
+   ],
+   "plain_english": "Non-being has no being, and being has no non-being; truth-seers see the end of both."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "yastattvadarśibhidṛṣṭaḥ",
+     "gloss": "by-truth-seers-seen",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityo'nityo",
+     "gloss": "eternal-non-eternal",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā-ityāśaṅkyāha",
+     "gloss": "or-thus-doubting-says",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "avināśi",
+     "gloss": "indestructible",
+     "grounds": "nominative singular",
+     "morph": "adj"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadviddhi",
+     "gloss": "know-that",
+     "grounds": "imperative",
+     "morph": "verb"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "instrumental relative",
+     "morph": "pronoun"
+    },
+    {
+     "surface": "sarvamidaṃ",
+     "gloss": "all-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatam",
+     "gloss": "pervaded",
+     "grounds": "past participle",
+     "morph": "participle"
+    },
+    {
+     "surface": "vināśamavyayasyāsya",
+     "gloss": "destruction-of-imperishable-this",
+     "grounds": "fused genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaścitkartumarhati",
+     "gloss": "anyone-to-do-is-able",
+     "grounds": "fused",
+     "morph": "verb"
+    },
+    {
+     "surface": "tuścārthe",
+     "gloss": "but-in-meaning",
+     "grounds": "fused",
+     "morph": "compound"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avināśī",
+     "gloss": "indestructible",
+     "grounds": "nominative singular",
+     "morph": "adj"
+    },
+    {
+     "surface": "tuścārthe",
+     "gloss": "but-in-meaning",
+     "grounds": "fused",
+     "morph": "compound"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "nominative singular",
+     "morph": "noun"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avināśī",
+     "gloss": "indestructible",
+     "grounds": "nominative singular",
+     "morph": "adj"
+    }
+   ],
+   "question": "How does the verse describe the self that pervades all?",
+   "premises": [
+    "the self pervades all this",
+    "no one can destroy the imperishable",
+    "therefore the self is indestructible"
+   ],
+   "inference": "The verse teaches that the all-pervading self cannot be destroyed.",
+   "uncertainties": [
+    "repeated commentary glosses"
+   ],
+   "plain_english": "Know that as indestructible by which all this is pervaded; no one can destroy the imperishable."
+  }
+ ]
+}
