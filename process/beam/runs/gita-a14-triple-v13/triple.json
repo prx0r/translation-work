@@ -1,0 +1,773 @@
+{
+ "song": "gita-a14",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "aprakāśo'pravṛttiśca",
+     "gloss": "darkness-inertia-and",
+     "grounds": "fused compound",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "pramādo",
+     "gloss": "delusion",
+     "grounds": "single noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "moha",
+     "gloss": "confusion",
+     "grounds": "single noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tamasyetāni",
+     "gloss": "these-in-darkness",
+     "grounds": "fused compound",
+     "morph": "compound.nom.pl.n"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "verb",
+     "morph": "3.pl.mid-pres+jan"
+    },
+    {
+     "surface": "vivṛddhe",
+     "gloss": "when-increased",
+     "grounds": "locative participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kurunandana",
+     "gloss": "Arjuna",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "sarvadvāreṣu-sarvendriyeṣu",
+     "gloss": "in-all-gates-senses",
+     "grounds": "fused compound",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "lobhādayaḥ",
+     "gloss": "greed-etc",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "krameṇaiva",
+     "gloss": "gradually-indeed",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rajasyudricyamāne",
+     "gloss": "when-rajas-excess",
+     "grounds": "fused participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "verb",
+     "morph": "3.pl.mid-pres+jan"
+    },
+    {
+     "surface": "evamaprakāśādayaḥ",
+     "gloss": "thus-darkness-etc",
+     "grounds": "fused compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "krameṇaiva",
+     "gloss": "gradually-indeed",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tamovivṛddhāvāvirbhavanti",
+     "gloss": "when-tamas-increased-appear",
+     "grounds": "fused compound",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "13",
+     "gloss": "thirteen",
+     "grounds": "verse marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do increased strands produce darkness and inertia?",
+   "premises": [
+    "increased tamas yields darkness",
+    "increased rajas yields greed",
+    "strands operate through all gates"
+   ],
+   "inference": "The verse maps strand increase to corresponding mental and sensory effects.",
+   "uncertainties": [
+    "fused compounds require careful pada-splitting"
+   ],
+   "plain_english": "When tamas increases, darkness, inertia, delusion, and confusion arise; when rajas increases, greed and related qualities arise gradually through all the senses."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sattve",
+     "gloss": "in-sattva",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pravṛddhe",
+     "gloss": "increased",
+     "grounds": "participle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pralayaṃ",
+     "gloss": "dissolution",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+yā"
+    },
+    {
+     "surface": "dehabhṛt",
+     "gloss": "body-bearer",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tadottamavidāṃ",
+     "gloss": "then-of-knowers",
+     "grounds": "fused compound",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "lokānamalānpratipadyate",
+     "gloss": "attains-pure-worlds",
+     "grounds": "fused verb",
+     "morph": "3.sg.mid-pres+prati+pad"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samagreṇaiva",
+     "gloss": "wholly-indeed",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janmanānavaratasāttvikavyāpārābhyāsātsattvaṃ",
+     "gloss": "by-unbroken-sattvic-practice-sattva",
+     "grounds": "fused compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "vivṛddhaṃ",
+     "gloss": "increased",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+bhū"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāptapralayasya",
+     "gloss": "of-one-who-has-dissolution",
+     "grounds": "compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "śubhalokāvāptiḥ",
+     "gloss": "attainment-of-auspicious-world",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "14",
+     "gloss": "fourteen",
+     "grounds": "verse marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows when sattva is fully increased?",
+   "premises": [
+    "increased sattva leads dissolution",
+    "body-bearer attains pure worlds",
+    "unbroken sattvic practice increases sattva"
+   ],
+   "inference": "Full sattvic cultivation leads to auspicious attainment after dissolution.",
+   "uncertainties": [
+    "long fused compound needs pada-splitting"
+   ],
+   "plain_english": "When sattva increases, the embodied one goes to dissolution and attains pure worlds; through unbroken sattvic practice, increased sattva brings auspicious attainment."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "rajasi",
+     "gloss": "in-rajas",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pralayaṃ",
+     "gloss": "dissolution",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive",
+     "morph": "abs+gam"
+    },
+    {
+     "surface": "karmasaṅgiṣu",
+     "gloss": "among-action-bound",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres+jan"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pralīnastamasi",
+     "gloss": "dissolved-in-tamas",
+     "grounds": "fused compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mūḍhayoniṣu",
+     "gloss": "in-deluded-wombs",
+     "grounds": "locative plural",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres+jan"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janmābhyastarājasakarmaṇaḥ",
+     "gloss": "of-one-habituated-to-rajas-action",
+     "grounds": "fused compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "prayāṇāt",
+     "gloss": "from-departure",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "vimiśropabhogāya",
+     "gloss": "for-mixed-enjoyment",
+     "grounds": "dative",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "mānupyāvāptiḥ",
+     "gloss": "human-attainment",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tathā-tenaiva",
+     "gloss": "thus-by-that-indeed",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "gradually",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samagreṇa",
+     "gloss": "wholly",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "janmanā",
+     "gloss": "by-birth",
+     "grounds": "instrumental",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "tāmasameva",
+     "gloss": "tamas-indeed",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmābhyasyate",
+     "gloss": "action-is-practiced",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres+abhyas"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakatiryagvṛkṣādideheṣūtpadyate",
+     "gloss": "is-born-in-hell-animal-tree-bodies",
+     "grounds": "fused compound",
+     "morph": "3.sg.mid-pres+ut+pad"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "relative",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyācakṣate-maraṇakāla",
+     "gloss": "explain-death-time",
+     "grounds": "fused compound",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sattvādau",
+     "gloss": "in-sattva-etc",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vivṛddhe",
+     "gloss": "increased",
+     "grounds": "participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "phalāni-iti",
+     "gloss": "fruits-thus",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyakśārīre'nubhave",
+     "gloss": "in-proper-bodily-experience",
+     "grounds": "fused compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "praviṣṭāḥ",
+     "gloss": "entered",
+     "grounds": "participle",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasyaiva",
+     "gloss": "of-all-indeed",
+     "grounds": "fused compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sarvathāntye",
+     "gloss": "at-final-moment",
+     "grounds": "fused compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kṣaṇe",
+     "gloss": "moment",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "moha",
+     "gloss": "confusion",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "evopajāyate",
+     "gloss": "indeed-arises",
+     "grounds": "fused verb",
+     "morph": "3.sg.mid-pres+upa+jan"
+    },
+    {
+     "surface": "asmadvyākhyāyāṃ",
+     "gloss": "in-our-explanation",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvādīnīmāni",
+     "gloss": "these-agreeing",
+     "grounds": "fused compound",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "ślokāntarāṇi",
+     "gloss": "other-verses",
+     "grounds": "compound",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "15",
+     "gloss": "fifteen",
+     "grounds": "verse marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do rajas and tamas shape rebirth?",
+   "premises": [
+    "rajas dissolution leads action-bound birth",
+    "tamas dissolution leads deluded wombs",
+    "tamas practice leads lower births"
+   ],
+   "inference": "Strand-conditioned action determines the quality and realm of rebirth.",
+   "uncertainties": [
+    "long fused compounds and editorial glosses"
+   ],
+   "plain_english": "Dissolution in rajas leads birth among action-bound beings; dissolution in tamas leads birth in deluded wombs; habitual tamas leads hell, animal, or tree births."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "karmaṇaḥ",
+     "gloss": "of-action",
+     "grounds": "genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "sukṛtasyāhuḥ",
+     "gloss": "of-good-deed-they-say",
+     "grounds": "fused verb",
+     "morph": "3.pl.act-pres+āh"
+    },
+    {
+     "surface": "sāttvikaṃ",
+     "gloss": "sattvic",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nirmalaṃ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "rajasastu",
+     "gloss": "of-rajas-but",
+     "grounds": "fused particle",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "duḥkhamajñānaṃ",
+     "gloss": "suffering-ignorance",
+     "grounds": "fused compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tamasaḥ",
+     "gloss": "of-tamas",
+     "grounds": "genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What fruit does each strand yield?",
+   "premises": [
+    "good action yields pure sattvic fruit",
+    "rajas yields suffering and ignorance",
+    "tamas yields its own fruit"
+   ],
+   "inference": "Each strand produces a distinct karmic result.",
+   "uncertainties": [
+    "compound duḥkhamajñānaṃ is fused"
+   ],
+   "plain_english": "Good action yields pure sattvic fruit; rajas yields suffering and ignorance; tamas yields its own fruit."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "sattvātsañjāyate",
+     "gloss": "from-sattva-arises",
+     "grounds": "fused verb",
+     "morph": "3.sg.mid-pres+saṃ+jan"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "rajaso",
+     "gloss": "of-rajas",
+     "grounds": "genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "lobha",
+     "gloss": "greed",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramādamohau",
+     "gloss": "delusion-confusion",
+     "grounds": "compound",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "jāyete",
+     "gloss": "arise",
+     "grounds": "verb",
+     "morph": "3.du.mid-pres+jan"
+    },
+    {
+     "surface": "tamaso'jñānameva",
+     "gloss": "of-tamas-ignorance-indeed",
+     "grounds": "fused compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mental qualities arise from each strand?",
+   "premises": [
+    "sattva produces knowledge",
+    "rajas produces greed",
+    "tamas produces ignorance"
+   ],
+   "inference": "Strand dominance determines the arising mental quality.",
+   "uncertainties": [
+    "fused forms need careful reading"
+   ],
+   "plain_english": "From sattva arises knowledge; from rajas arises greed, delusion, and confusion; from tamas arises ignorance."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "upward",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchanti",
+     "gloss": "go",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+gam"
+    },
+    {
+     "surface": "sattvasthā",
+     "gloss": "those-established-in-sattva",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+sthā"
+    },
+    {
+     "surface": "rājasāḥ",
+     "gloss": "rajas-ones",
+     "grounds": "adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "jaghanyaguṇavṛttisthā",
+     "gloss": "those-in-lowest-strand-conduct",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "adho",
+     "gloss": "downward",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gachanti",
+     "gloss": "go",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres+gam"
+    },
+    {
+     "surface": "tāmasāḥ",
+     "gloss": "tamas-ones",
+     "grounds": "adjective",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Where do beings established in each strand go?",
+   "premises": [
+    "sattva-established go upward",
+    "rajas-established remain middle",
+    "tamas-established go downward"
+   ],
+   "inference": "Strand establishment determines vertical movement or station.",
+   "uncertainties": [
+    "compound jaghanyaguṇavṛttisthā is dense"
+   ],
+   "plain_english": "Those established in sattva go upward; rajas ones remain in the middle; tamas ones go downward."
+  }
+ ]
+}
