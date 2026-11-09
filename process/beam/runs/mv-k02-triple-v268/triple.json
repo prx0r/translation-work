@@ -1,0 +1,426 @@
+{
+ "song": "mv-k02",
+ "items": [
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing ascent-to-consciousness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvidupārohaṃ",
+     "gloss": "ascent-to-consciousness",
+     "grounds": "compound: consciousness + ascent; object of 'without'",
+     "morph": "compound=saṃvid+upāroham; m.acc.sg"
+    },
+    {
+     "surface": "sattāsattā",
+     "gloss": "existence-nonexistence",
+     "grounds": "compound: being and non-being",
+     "morph": "compound=sattā+asattā; f.nom.sg"
+    },
+    {
+     "surface": "jaḍo",
+     "gloss": "inert",
+     "grounds": "quality contrasted with non-inert",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'jaḍaḥ",
+     "gloss": "non-inert",
+     "grounds": "negated quality; sandhi elision marked by apostrophe",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anīlaṃ",
+     "gloss": "non-blue",
+     "grounds": "negated color term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nīlam",
+     "gloss": "blue",
+     "grounds": "color term contrasted with non-blue",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityādivyavasthā",
+     "gloss": "such-distinctions",
+     "grounds": "compound: thus-etc + arrangement",
+     "morph": "compound=iti+ādi+vyavasthā; f.nom.sg"
+    },
+    {
+     "surface": "kalpatāṃ",
+     "gloss": "could-be-constructed",
+     "grounds": "passive potential of forming distinctions",
+     "morph": "3.sg.passive-optative; √kḷp"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "rhetorical question particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How could distinctions like existence and nonexistence arise without ascent to consciousness?",
+   "premises": [
+    "Distinctions such as existence and nonexistence require determination.",
+    "Distinctions such as inert and non-inert require determination.",
+    "Distinctions such as blue and non-blue require determination.",
+    "Determination depends on ascent to consciousness."
+   ],
+   "inference": "Without ascent to consciousness, such distinctions cannot be constructed.",
+   "uncertainties": [],
+   "plain_english": "Without rising into consciousness, how could distinctions like existence and nonexistence, inert and non-inert, or blue and non-blue ever be established?"
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative connector introducing citation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uvācotpalagurur",
+     "gloss": "Utpalaguru-said",
+     "grounds": "compound: spoke + Utpalaguru; sandhi fusion in form",
+     "morph": "compound=uvāca+utpalaguruḥ; 3.sg.perfect-active + m.nom.sg; √vac"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "correlative with 'tathā'",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadasatāṃ",
+     "gloss": "of-existent-nonexistent",
+     "grounds": "compound: existent and nonexistent",
+     "morph": "compound=sat+asatām; m.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so-too",
+     "grounds": "correlative with 'yathā'",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaḍājaḍānāṃ",
+     "gloss": "of-inert-non-inert",
+     "grounds": "compound: inert and non-inert",
+     "morph": "compound=jaḍa+ajaḍānām; m.gen.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of intrinsic difference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svātmaviśeṣa",
+     "gloss": "own-nature-difference",
+     "grounds": "compound: own-self + distinction",
+     "morph": "compound=sva+ātma+viśeṣaḥ; m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "ascertained",
+     "grounds": "concludes the cited teaching",
+     "morph": "n.nom.sg; past-passive-participle; √niś-ci"
+    }
+   ],
+   "question": "What authoritative teaching supports the claim that such distinctions lack intrinsic difference?",
+   "premises": [
+    "Utpalaguru stated a principle about existent and nonexistent things.",
+    "The same principle applies to inert and non-inert things.",
+    "The principle denies an intrinsic difference in their own nature."
+   ],
+   "inference": "It is ascertained that these opposed classes do not differ by their own intrinsic nature.",
+   "uncertainties": [],
+   "plain_english": "As Utpalaguru said, just as the existent and the nonexistent have no intrinsic difference in their own nature, so too the inert and the non-inert do not; this is firmly established."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "draws consequence from prior verses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhabharollāsavisṛṣṭasvaparasthitim",
+     "gloss": "releasing-own-and-other-states-in-fullness-of-awareness",
+     "grounds": "long compound: awareness-fullness + blossoming + emitted + own-other + state",
+     "morph": "compound=bodha+bhara+ullāsa+visṛṣṭa+sva+para+sthitim; f.acc.sg"
+    },
+    {
+     "surface": "cidanuprāṇanāṃ",
+     "gloss": "animation-by-consciousness",
+     "grounds": "compound: consciousness + enlivening",
+     "morph": "compound=cit+anuprāṇanām; f.acc.sg"
+    },
+    {
+     "surface": "viṣvag",
+     "gloss": "everywhere",
+     "grounds": "indicates all-pervading emission",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vamann",
+     "gloss": "emitting",
+     "grounds": "describes the subject's expressive activity",
+     "morph": "m.nom.sg; present-active-participle; √vam"
+    },
+    {
+     "surface": "ānandasundarām",
+     "gloss": "beautiful-with-bliss",
+     "grounds": "compound: bliss + beautiful; qualifies consciousness-animation",
+     "morph": "compound=ānanda+sundarām; f.acc.sg"
+    }
+   ],
+   "question": "What follows from consciousness being the basis of all distinctions?",
+   "premises": [
+    "The prior argument denies intrinsic difference apart from consciousness.",
+    "Consciousness can release the states of self and other in the fullness of awareness.",
+    "Consciousness can animate all things everywhere with blissful beauty."
+   ],
+   "inference": "Therefore consciousness is the all-pervading source that emits and animates the states of self and other.",
+   "uncertainties": [],
+   "plain_english": "Therefore, consciousness, in the fullness of its awareness, releases the states of self and other, and everywhere emits an animation of consciousness that is beautiful with bliss."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "cidekavapuṣā",
+     "gloss": "with-consciousness-as-one-body",
+     "grounds": "compound: consciousness + one + body; instrumental manner",
+     "morph": "compound=cit+eka+vapuṣā; n.inst.sg"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "the-universe",
+     "grounds": "object desired to be made own",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svīcikīrṣaṃś",
+     "gloss": "desiring-to-make-own",
+     "grounds": "desiderative participle describing divine intent",
+     "morph": "m.nom.sg; desiderative-present-active-participle; √kṛ"
+    },
+    {
+     "surface": "cidātmani",
+     "gloss": "in-the-consciousness-self",
+     "grounds": "compound: consciousness + self; locus of emission",
+     "morph": "compound=cit+ātmani; m.loc.sg"
+    },
+    {
+     "surface": "svabodhaśaktivamanāt",
+     "gloss": "from-emission-of-own-awareness-power",
+     "grounds": "compound: own-awareness + power + emission",
+     "morph": "compound=sva+bodha+śakti+vamanāt; n.abl.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "subject identified as the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāma",
+     "gloss": "Vāma",
+     "grounds": "name of the deity in this aspect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "names the divine function",
+     "morph": "3.sg.passive-present; √vac"
+    }
+   ],
+   "question": "Why is the deity called Vāma in this act of manifestation?",
+   "premises": [
+    "The deity has consciousness as its one body.",
+    "The deity desires to make the universe its own within the consciousness-self.",
+    "This occurs through the emission of its own power of awareness."
+   ],
+   "inference": "Because of this self-emitting appropriation of the universe, that deity is called Vāma.",
+   "uncertainties": [],
+   "plain_english": "That God, whose one body is consciousness, desiring to make the universe his own within the self of consciousness by emitting his own power of awareness, is called Vāma."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "svabodhaśaktyudrekeṇa",
+     "gloss": "by-surge-of-own-awareness-power",
+     "grounds": "compound: own-awareness + power + surge; instrumental cause",
+     "morph": "compound=sva+bodha+śakti+udrekeṇa; m.inst.sg"
+    },
+    {
+     "surface": "yady",
+     "gloss": "although",
+     "grounds": "first part of concessive; sandhi before apy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apy",
+     "gloss": "even",
+     "grounds": "second part of concessive with yady",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative subject, the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "bestows",
+     "grounds": "act of granting form to beings",
+     "morph": "3.sg.active-present; √pra-yam"
+    },
+    {
+     "surface": "bhāvānāṃ",
+     "gloss": "to-beings",
+     "grounds": "recipients of bestowed form",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "svavapus",
+     "gloss": "own-form",
+     "grounds": "compound: own + body/form",
+     "morph": "compound=sva+vapuḥ; n.acc.sg"
+    },
+    {
+     "surface": "tādṛk",
+     "gloss": "such",
+     "grounds": "indicates a corresponding form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "nevertheless",
+     "grounds": "concessive conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramārthataḥ",
+     "gloss": "in-ultimate-truth",
+     "grounds": "marks the higher standpoint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does the bestowal of form to beings contradict the deity's ultimate intent?",
+   "premises": [
+    "By the surge of its own awareness-power, the deity bestows such a form to beings.",
+    "This bestowal appears as an outward giving of form.",
+    "The ultimate standpoint may differ from this appearance."
+   ],
+   "inference": "Although the deity bestows form to beings, the ultimate truth of that act remains to be stated.",
+   "uncertainties": [],
+   "plain_english": "Although, by the surge of his own power of awareness, this deity bestows such a form upon beings, nevertheless, in ultimate truth, the matter stands otherwise."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "svīkartum",
+     "gloss": "to-make-own",
+     "grounds": "infinitive expressing intent",
+     "morph": "infinitive; √kṛ"
+    },
+    {
+     "surface": "icchan",
+     "gloss": "desiring",
+     "grounds": "present participle of divine will",
+     "morph": "m.nom.sg; present-active-participle; √iṣ"
+    },
+    {
+     "surface": "saṃhāram",
+     "gloss": "withdrawal",
+     "grounds": "object of appropriation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "refers to the beings or distinctions",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kalpayate",
+     "gloss": "constructs",
+     "grounds": "divine act of forming divisions",
+     "morph": "3.sg.middle-present; √kḷp"
+    },
+    {
+     "surface": "bhidaḥ",
+     "gloss": "divisions",
+     "grounds": "plural distinctions brought into play",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "draws conclusion from divine intent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedavyavasthāyāṃ",
+     "gloss": "in-the-arrangement-of-difference",
+     "grounds": "compound: difference + arrangement; locus of the name",
+     "morph": "compound=bheda+vyavasthāyām; f.loc.sg"
+    },
+    {
+     "surface": "vāmo",
+     "gloss": "Vāma",
+     "grounds": "name of the supreme lord in this function",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'sau",
+     "gloss": "this",
+     "grounds": "demonstrative; sandhi elision marked by apostrophe",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "compound: supreme + lord",
+     "morph": "compound=parama+īśvaraḥ; m.nom.sg"
+    }
+   ],
+   "question": "Why is the supreme lord called Vāma in the arrangement of difference?",
+   "premises": [
+    "The deity desires to make the withdrawal of beings its own.",
+    "To accomplish this, the deity constructs divisions among them.",
+    "The name Vāma is applied in the context of this arrangement of difference."
+   ],
+   "inference": "Therefore, in the arrangement of difference, this supreme lord is called Vāma because he constructs divisions while intending their reabsorption.",
+   "uncertainties": [],
+   "plain_english": "Desiring to take back these beings into himself, he constructs their divisions; therefore, in the arrangement of difference, this supreme lord is called Vāma."
+  }
+ ]
+}
