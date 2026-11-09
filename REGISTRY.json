@@ -4,7 +4,7 @@
  "date": "2026-11-07",
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
- "total_works": 96,
+ "total_works": 95,
  "gold": 92,
  "partial": 0,
  "pending": 4,
@@ -967,15 +967,6 @@
    "has_process_log": false,
    "verses": null,
    "note": "minimal gold via swarm: T1/L0/argmap/L2/C1-essence, proof PASS; L3/L4 waived."
-  },
-  {
-   "work": "abhinavabharati",
-   "status": "pending (P0: source on disk, translation queued later)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "pending (P0 source on disk: ipvv sanskrit/abhinavabharati-vol1..4 + ke, GOS scan OCR; longer work: translate later; Muktabodha clean text behind login)"
   },
   {
    "work": "ipvv-vivrti-vimarsini",
