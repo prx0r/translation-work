@@ -1,7 +1,7 @@
 {
  "work": "ipvv",
- "updated": "2026-11-06",
- "next": "48/49 shastra PASS; remaining: V2-N (T1 38%, needs char-offset coverage work)",
+ "updated": "2026-11-09",
+ "next": "49/49 shastra PASS — minimal gold complete (L3/L4 waived); human review pending",
  "counts": {
   "passages": 49,
   "t1_files_root": 49,
@@ -38,6 +38,7 @@
    "chunk-v2-k-pancamo-vimarsa-k20-21",
    "chunk-v2-l-sastho-vimarsa-smrti-apohana",
    "chunk-v2-m-sastho-vimarsa-k6-7",
+   "chunk-v2-n-sastho-k8-11",
    "chunk-v2-o-saptamo-vimarsa",
    "chunk-v2-p-saptamo-k5-10",
    "chunk-v2-q-saptamo-k11-close",
@@ -66,7 +67,8 @@
   "parsed": 149683,
   "ambiguous": 4773,
   "still_gap": 0,
-  "unparsed_placeholders": 3149
+  "unparsed_placeholders": 3149,
+  "shastra_pass_count": 49
  },
  "r2": {
   "l0_v1": {

@@ -1,6 +1,6 @@
 {
- "rev": "e5cc183b7e2d9a80b81e358c5765b49ee36b76a0",
- "at": "2026-11-09T05:35:16+00:00",
+ "rev": "d55aaeb7ad052287bf945febd7eed255b8a8146a",
+ "at": "2026-11-09T05:39:46+00:00",
  "files": {
   "ajadapramatrsiddhi/data/ajad-p01.argmap.json": {
    "sha256": "f7f7ec1ce551288d8b4f2e2294a3351a25afefbdc3efb460413975c6e271df80",
@@ -2407,16 +2407,16 @@
    "bytes": 370
   },
   "ipvv/data/chunk-v2-n-sastho-k8-11.l0.json": {
-   "sha256": "a3326f82540f91f76896d1dc54d2862b8b3901fff27780141dcc47e1edf4266a",
-   "bytes": 783583
+   "sha256": "457a2523594d26a1fca1b2f79057bd98b8f571df367af590ac179e1091147647",
+   "bytes": 784126
   },
   "ipvv/data/chunk-v2-n-sastho-k8-11.l2.json": {
    "sha256": "f4e4fccc5ca0337ec5e0e054636a45c2ad0e0b7b0eebeda18f769598f15347e0",
    "bytes": 27586
   },
   "ipvv/data/chunk-v2-n-sastho-k8-11.t1.json": {
-   "sha256": "222bf30c4b5471d62f9e07e73e96bb45671e0fafdc5fd3fa78b059ec03d94102",
-   "bytes": 133421
+   "sha256": "66a8bcbe439cdecfba51c5a3587c839c042bbe8f2bbc3903bd62009d2df3cec7",
+   "bytes": 133895
   },
   "ipvv/data/chunk-v2-o-saptamo-vimarsa.l0.json": {
    "sha256": "c27575befaa0f69ca2d5fd4d12ce2b72e255c3a6a4fafafc457c63505bec70e2",
@@ -2807,8 +2807,8 @@
    "bytes": 4769
   },
   "ipvv/STATUS.json": {
-   "sha256": "067807716d19673f9ad8cdd900761f3e2f1b6642078d60527a38c992d1725fc3",
-   "bytes": 3499
+   "sha256": "b1512b1992757a90a5881df066b811c27c6a2a59f7633b509cf0b048d4d45978",
+   "bytes": 3561
   },
   "ipvv/passages.jsonl": {
    "sha256": "2ccacead70475c83344eeb1bdc2b8e7c8e22cf8d6e9482688828560c884713cb",
@@ -2821,6 +2821,10 @@
   "ipvv/cm/chunk-v2-n-sastho-k8-11_Gauto.py": {
    "sha256": "0f2be1b991c3cfbed404b5bd96f36208206b263ef5f9baea9c8ac490d6d21173",
    "bytes": 42650
+  },
+  "ipvv/cm/chunk-v2-n-sastho-k8-11_Ghand.py": {
+   "sha256": "88a0b6656a3c986857e260596489afe3b37c03ea2b34e7d2bbb2b7c27f455fd8",
+   "bytes": 4700
   },
   "ipvv/cm/chunkB_G1.py": {
    "sha256": "1b065d38a5f9291a4d8fb1365c20cd41d7933a3b1dacd2beb9d217ad37cf1fa9",
@@ -3421,6 +3425,10 @@
   "ipvv/cm/v2n_Gauto.py": {
    "sha256": "0f2be1b991c3cfbed404b5bd96f36208206b263ef5f9baea9c8ac490d6d21173",
    "bytes": 42650
+  },
+  "ipvv/cm/v2n_Ghand.py": {
+   "sha256": "a15de1b52a71d3e427f846790e05ae2e42bb44903d9dc2883c7416af85d48abc",
+   "bytes": 4839
   },
   "ipvv/cm/v2s_G1.py": {
    "sha256": "7d21f2d1bc8c46404fe6c883fbcaf906929d52c793d0f20a83e6a0ea6342f06b",
@@ -13655,16 +13663,16 @@
    "bytes": 370
   },
   "ipvv/chunkV2-N-sastho-k8-11/data/chunk-v2-n-sastho-k8-11.l0.json": {
-   "sha256": "a3326f82540f91f76896d1dc54d2862b8b3901fff27780141dcc47e1edf4266a",
-   "bytes": 783583
+   "sha256": "457a2523594d26a1fca1b2f79057bd98b8f571df367af590ac179e1091147647",
+   "bytes": 784126
   },
   "ipvv/chunkV2-N-sastho-k8-11/data/chunk-v2-n-sastho-k8-11.l2.json": {
    "sha256": "f4e4fccc5ca0337ec5e0e054636a45c2ad0e0b7b0eebeda18f769598f15347e0",
    "bytes": 27586
   },
   "ipvv/chunkV2-N-sastho-k8-11/data/chunk-v2-n-sastho-k8-11.t1.json": {
-   "sha256": "222bf30c4b5471d62f9e07e73e96bb45671e0fafdc5fd3fa78b059ec03d94102",
-   "bytes": 133421
+   "sha256": "66a8bcbe439cdecfba51c5a3587c839c042bbe8f2bbc3903bd62009d2df3cec7",
+   "bytes": 133895
   },
   "ipvv/chunkV2-N-sastho-k8-11/data/chunkV2-N-sastho-k8-11.l2.json": {
    "sha256": "0729306bd27ecb6740dacb54fd978c7b367c21769952113a3fcb2970d4258c68",
@@ -14351,8 +14359,8 @@
    "bytes": 29384
   },
   "REGISTRY.json": {
-   "sha256": "1396a264522c2ab246b3c91439760de22b3d1efd9c67dae415c1a8cd989ceb16",
-   "bytes": 43778
+   "sha256": "d37a67b698e76d70748dd09b9207cc461d1e0f2d8e6460f409ed4be143c20377",
+   "bytes": 43806
   },
   "INDEX.json": {
    "sha256": "964dd3a8c97afb6ce48942e490bc8a173162a2da1842db12574b6906ea28e46b",
