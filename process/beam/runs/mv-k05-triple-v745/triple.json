@@ -1,0 +1,345 @@
+{
+ "song": "mv-k05",
+ "items": [
+  {
+   "verse": 745,
+   "rows": [
+    {
+     "surface": "bhūtaḥ",
+     "gloss": "past",
+     "grounds": "past time, what has been",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraṇakḷptyā",
+     "gloss": "by-assumption-of-cause",
+     "grounds": "instrumental of positing a cause",
+     "morph": "f.inst.sg, compound=kāraṇa+kḷpti"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvy",
+     "gloss": "future",
+     "grounds": "what is to be, future time",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikalpyate",
+     "gloss": "is-conceived",
+     "grounds": "is imagined or posited",
+     "morph": "3.sg.pass-pres, √kḷp+pari"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cāyaṃ",
+     "gloss": "and-this",
+     "grounds": "conjunction plus demonstrative",
+     "morph": "ca(indecl.)+ayam(m.nom.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svatantro",
+     "gloss": "independent",
+     "grounds": "self-dependent, autonomous",
+     "morph": "m.nom.sg, compound=sva+tantra"
+    },
+    {
+     "surface": "'sti",
+     "gloss": "is",
+     "grounds": "exists",
+     "morph": "3.sg.act-pres, √as"
+    },
+    {
+     "surface": "kaś",
+     "gloss": "any",
+     "grounds": "indefinite pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cid",
+     "gloss": "at-all",
+     "grounds": "indefinite particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyonyasaṃśrayāt",
+     "gloss": "from-mutual-dependence",
+     "grounds": "because of relying on each other",
+     "morph": "m.abl.sg, compound=anyonya+saṃśraya"
+    }
+   ],
+   "question": "Why can past and future time not be established as independent realities?",
+   "premises": [
+    "The past is conceived by assuming a cause.",
+    "The future is conceived as something yet to come.",
+    "Neither past nor future can stand on its own because each depends on the other."
+   ],
+   "inference": "Past and future lack independent existence due to mutual dependence.",
+   "uncertainties": [],
+   "plain_english": "The past is conceived through the assumption of a cause, while the future is conceived as what is to come; but neither of these is in any way independent, because they depend on each other."
+  },
+  {
+   "verse": 746,
+   "rows": [
+    {
+     "surface": "anavasthānato",
+     "gloss": "from-infinite-regress",
+     "grounds": "because of lack of stable stopping point",
+     "morph": "n.abl.sg, compound=an+avasthāna"
+    },
+    {
+     "surface": "rūpaparāvṛttyavalokanāt",
+     "gloss": "from-seeing-reversal-of-form",
+     "grounds": "because form is observed to turn back or change",
+     "morph": "n.abl.sg, compound=rūpa+parāvṛtti+avalokana"
+    },
+    {
+     "surface": "iyattārūḍhyabhāvāc",
+     "gloss": "from-absence-of-fixed-measure",
+     "grounds": "because no determinate limit is established",
+     "morph": "m.abl.sg, compound=iyattā+ārūḍhi+abhāva"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛmeyobhayāśrayāt",
+     "gloss": "from-dependence-on-both-subject-and-object",
+     "grounds": "because it relies on both knower and known",
+     "morph": "m.abl.sg, compound=mātṛ+meya+ubhaya+āśraya"
+    }
+   ],
+   "question": "What further faults undermine the independent reality of time?",
+   "premises": [
+    "Positing time leads to infinite regress.",
+    "Observed forms reverse and change, preventing a stable temporal form.",
+    "Time lacks a fixed measure and depends on both subject and object."
+   ],
+   "inference": "These defects show that time cannot be established as an independent reality.",
+   "uncertainties": [],
+   "plain_english": "Time cannot stand independently because it leads to infinite regress, because forms are seen to reverse, because it has no fixed measure, and because it depends on both the knower and the known."
+  },
+  {
+   "verse": 747,
+   "rows": [
+    {
+     "surface": "nirupādhikatadrūpapratibhānaviyogataḥ",
+     "gloss": "from-lack-of-unconditioned-appearance-of-its-form",
+     "grounds": "because its form never appears without limiting conditions",
+     "morph": "m.abl.sg, compound=nirupādhika+tad+rūpa+pratibhāna+viyoga"
+    },
+    {
+     "surface": "ekānekadhruvānityasvarūpānupapattitaḥ",
+     "gloss": "from-impossibility-of-one-many-permanent-impermanent-nature",
+     "grounds": "because its nature cannot be coherently one, many, permanent, or impermanent",
+     "morph": "m.abl.sg, compound=eka+aneka+dhruva+anitya+svarūpa+anupapatti"
+    }
+   ],
+   "question": "Why does time fail to have a coherent intrinsic nature?",
+   "premises": [
+    "Time never appears in an unconditioned form.",
+    "Time cannot be consistently defined as one or many.",
+    "Time cannot be consistently defined as permanent or impermanent."
+   ],
+   "inference": "Time lacks a coherent intrinsic nature.",
+   "uncertainties": [],
+   "plain_english": "Time has no coherent nature of its own, because it never appears without conditions and because it cannot be consistently established as one or many, permanent or impermanent."
+  },
+  {
+   "verse": 748,
+   "rows": [
+    {
+     "surface": "ekasyaikopadher",
+     "gloss": "of-one-single-limiting-condition",
+     "grounds": "for one thing with one condition",
+     "morph": "f.gen.sg, compound=eka+eka+upadhi"
+    },
+    {
+     "surface": "aikyāt",
+     "gloss": "from-oneness",
+     "grounds": "because of unity",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tirodher",
+     "gloss": "of-concealment",
+     "grounds": "of disappearance or obscuration",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "(?)",
+     "gloss": "unclear-reading",
+     "grounds": "textually uncertain token in source",
+     "morph": "(uncertain)"
+    },
+    {
+     "surface": "upadherapi",
+     "gloss": "even-of-the-limiting-condition",
+     "grounds": "even of the condition itself",
+     "morph": "f.gen.sg+api(indecl.)"
+    },
+    {
+     "surface": "kriyāyāḥ",
+     "gloss": "of-action",
+     "grounds": "of activity or operation",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "svagate",
+     "gloss": "in-its-own",
+     "grounds": "located within itself",
+     "morph": "m.loc.sg, compound=sva+gata"
+    },
+    {
+     "surface": "bhede",
+     "gloss": "difference",
+     "grounds": "internal division or distinction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kālasyānupayogataḥ",
+     "gloss": "from-time-being-of-no-use",
+     "grounds": "because time serves no explanatory role",
+     "morph": "m.abl.sg, compound=kāla+anupayoga"
+    }
+   ],
+   "question": "Why is time unnecessary for explaining action and its limiting conditions?",
+   "premises": [
+    "If one thing has one limiting condition, unity alone does not require time.",
+    "If difference arises within action or its condition, that difference is explained internally.",
+    "Time adds no explanatory function in either case."
+   ],
+   "inference": "Time is explanatorily redundant with respect to action and its conditions.",
+   "uncertainties": [
+    "The token '(?)' marks a textual uncertainty in the transmitted reading."
+   ],
+   "plain_english": "If a single thing has a single limiting condition, its unity does not require time; and if difference belongs to action or to the condition itself, that is explained internally, so time serves no purpose."
+  },
+  {
+   "verse": 749,
+   "rows": [
+    {
+     "surface": "tatkṛte",
+     "gloss": "if-done-by-that",
+     "grounds": "if produced by time itself",
+     "morph": "n.loc.sg, compound=tad+kṛta"
+    },
+    {
+     "surface": "'nyonyasaṃśrityānyakṛte",
+     "gloss": "if-done-by-another-through-mutual-dependence",
+     "grounds": "if produced by something else while mutually dependent",
+     "morph": "n.loc.sg, compound=anyonya+saṃśritya+anya+kṛta"
+    },
+    {
+     "surface": "'py",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anavasthiteḥ",
+     "gloss": "from-infinite-regress",
+     "grounds": "because no stable stopping point is reached",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "aupādhikabhidāvṛtter",
+     "gloss": "from-occurrence-of-conditioned-difference",
+     "grounds": "because difference arises only through conditions",
+     "morph": "f.abl.sg, compound=aupādhika+bhidā+vṛtti"
+    },
+    {
+     "surface": "asatyatvād",
+     "gloss": "from-unreality",
+     "grounds": "because it is not ultimately real",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "avāstavāt",
+     "gloss": "from-being-unsubstantial",
+     "grounds": "because it lacks real substantiality",
+     "morph": "n.abl.sg, compound=a+vāstava"
+    }
+   ],
+   "question": "Why does attributing difference to time fail whether time or another cause produces it?",
+   "premises": [
+    "If time produces difference, the account falls into infinite regress.",
+    "If another cause produces difference through mutual dependence, the same regress follows.",
+    "Conditioned difference is not ultimately real or substantial."
+   ],
+   "inference": "Difference cannot establish time as a real independent principle.",
+   "uncertainties": [],
+   "plain_english": "Whether difference is produced by time itself or by something else through mutual dependence, the result is infinite regress; and since such conditioned difference is unreal and unsubstantial, it cannot establish time as truly real."
+  },
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "kāryasyānupapattitvād",
+     "gloss": "from-impossibility-of-an-effect",
+     "grounds": "because a produced effect cannot be established",
+     "morph": "n.abl.sg, compound=kārya+anupapattitva"
+    },
+    {
+     "surface": "ekasyānupayogataḥ",
+     "gloss": "from-uselessness-of-a-single-thing",
+     "grounds": "because a single undivided thing serves no temporal function",
+     "morph": "m.abl.sg, compound=eka+anupayoga"
+    },
+    {
+     "surface": "citaś",
+     "gloss": "of-consciousness",
+     "grounds": "of awareness or cit",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭatādattavartamānasadātvataḥ",
+     "gloss": "from-consciousness-giving-clear-present-alwaysness",
+     "grounds": "because consciousness bestows vivid presentness and enduring presence",
+     "morph": "n.abl.sg, compound=sphuṭatā+datta+vartamāna+sadātva"
+    }
+   ],
+   "question": "How does consciousness account for presentness without positing time as an independent principle?",
+   "premises": [
+    "Time cannot be established as a produced effect.",
+    "A single undivided entity does not require time for its function.",
+    "Consciousness itself gives vividness, presentness, and enduring presence."
+   ],
+   "inference": "The appearance of the present is grounded in consciousness rather than in an independent time.",
+   "uncertainties": [
+    "The compound 'sphuṭatādattavartamānasadātvataḥ' is compact; the gloss follows the most plausible reading in this argumentative context."
+   ],
+   "plain_english": "Because time cannot be established as an effect and a single undivided thing does not need it, the clear sense of the present and its enduring presence are given by consciousness itself."
+  }
+ ]
+}
