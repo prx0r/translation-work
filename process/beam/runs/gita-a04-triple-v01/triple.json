@@ -1,0 +1,761 @@
+{
+ "song": "gita-a04",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturtho'dhyāyaḥ",
+     "gloss": "fourth-chapter",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "the-lord-said",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivasvate",
+     "gloss": "to-vivasvat",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "proktavānahamavyayam",
+     "gloss": "i-taught-imperishable",
+     "grounds": "fused sandhi form",
+     "morph": "1.sg.act-perf"
+    },
+    {
+     "surface": "vivasvānmanave",
+     "gloss": "vivasvat-to-manu",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāha",
+     "gloss": "spoke",
+     "grounds": "verb",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "manurikṣvākave'bravīt",
+     "gloss": "manu-to-ikshvaku-said",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act-aor"
+    }
+   ],
+   "question": "How was the imperishable yoga transmitted from the Lord to vivasvat and onward?",
+   "premises": [
+    "The Lord taught yoga to vivasvat.",
+    "Vivasvat spoke it to manu.",
+    "Manu declared it to ikshvaku."
+   ],
+   "inference": "The yoga is transmitted through a royal lineage.",
+   "uncertainties": [
+    "Fused sandhi forms are analyzed as given."
+   ],
+   "plain_english": "Now the fourth chapter: the Lord said, thus I taught the imperishable yoga to Vivasvat; Vivasvat spoke it to Manu, and Manu declared it to Ikshvaku."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramparāprāptamimaṃ",
+     "gloss": "this-by-tradition-received",
+     "grounds": "fused sandhi form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rājarṣayo",
+     "gloss": "royal-sages",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "knew",
+     "grounds": "verb",
+     "morph": "3.pl.act-aor"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāleneha",
+     "gloss": "in-time-here",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahatā",
+     "gloss": "great",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yogo",
+     "gloss": "yoga",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naṣṭaḥ",
+     "gloss": "lost",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parantapa",
+     "gloss": "scorcher-of-foes",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "etacca",
+     "gloss": "and-this",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruparamparayā",
+     "gloss": "by-teacher-lineage",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "prāptamapi",
+     "gloss": "though-obtained",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adyatve",
+     "gloss": "now",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naṣṭam",
+     "gloss": "lost",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityanena",
+     "gloss": "by-this",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavānasya",
+     "gloss": "the-lord-of-this",
+     "grounds": "fused sandhi form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowledge",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "durlabhatāṃ",
+     "gloss": "rarity",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gauravaṃ",
+     "gloss": "weight",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradarśayati",
+     "gloss": "shows",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "2",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the Lord stress the rarity and weight of this knowledge?",
+   "premises": [
+    "Royal sages knew the tradition-received yoga.",
+    "It was lost in great time.",
+    "Even lineage-obtained knowledge is now lost."
+   ],
+   "inference": "The Lord reveals the rarity and gravity of this knowledge.",
+   "uncertainties": [
+    "The numeral token is retained as given."
+   ],
+   "plain_english": "Thus royal sages knew this tradition-received yoga, but it was lost in great time, scorcher of foes; and though obtained by teacher lineage, it is now lost; by this the Lord shows the rarity and weight of this knowledge."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evāyaṃ",
+     "gloss": "indeed-this",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "te'dya",
+     "gloss": "to-you-today",
+     "grounds": "fused sandhi form",
+     "morph": "2.sg.dat"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "taught",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "purātanaḥ",
+     "gloss": "ancient",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhakto'si",
+     "gloss": "you-are-devotee",
+     "grounds": "fused sandhi form",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "sakhā",
+     "gloss": "friend",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-so",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyetaduttamam",
+     "gloss": "indeed-this-highest",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhakto'si",
+     "gloss": "you-are-devotee",
+     "grounds": "fused sandhi form",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "sakhā",
+     "gloss": "friend",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-so",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "pronoun",
+     "morph": "2.sg.nom"
+    },
+    {
+     "surface": "bhakto",
+     "gloss": "devotee",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "matparamaḥ",
+     "gloss": "supreme-in-me",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sakhā",
+     "gloss": "friend",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caśabdenānvācaya",
+     "gloss": "by-ca-word-secondary-sense",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhikṣāṭane",
+     "gloss": "in-begging",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhikṣāṇāṃ",
+     "gloss": "of-alms",
+     "grounds": "genitive",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "prādhānyaṃ",
+     "gloss": "primacy",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gavānayane",
+     "gloss": "in-cow-leading",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tvaprādhānyam",
+     "gloss": "non-primacy",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktiratra",
+     "gloss": "devotion-here",
+     "grounds": "fused sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "teacher",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pradhānaṃ",
+     "gloss": "primary",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakhitvamapīti",
+     "gloss": "friendship-even-thus",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tātparyārthaḥ",
+     "gloss": "purport",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "3",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arjuno",
+     "gloss": "arjuna",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhagavatsvarūpaṃ",
+     "gloss": "the-lord's-own-form",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jānannapi",
+     "gloss": "though-knowing",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sphuṭīkartuṃ",
+     "gloss": "to-make-clear",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "pṛcchati-",
+     "gloss": "asks",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Why does Arjuna ask about the Lord's birth despite knowing his form?",
+   "premises": [
+    "The ancient yoga was taught to Arjuna.",
+    "Arjuna is devotee and friend.",
+    "Arjuna asks to make the Lord's form clear in the world."
+   ],
+   "inference": "The question serves to clarify the Lord's form publicly.",
+   "uncertainties": [
+    "Fused sandhi forms are analyzed as given."
+   ],
+   "plain_english": "That same ancient yoga has been taught to you today; you are my devotee and friend, and this highest secret is so; by the word ca a secondary sense is said, so devotion here is primary toward the teacher, not friendship; this is the purport. Arjuna, though knowing the Lord's own form, asks in the world to make it clear."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "arjuna",
+     "gloss": "arjuna",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "verb",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "later",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavato",
+     "gloss": "your",
+     "grounds": "genitive",
+     "morph": "2.sg.gen"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "earlier",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vivasvataḥ",
+     "gloss": "of-vivasvat",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kathametadvijānīyāṃ",
+     "gloss": "how-should-i-know-this",
+     "grounds": "fused sandhi form",
+     "morph": "1.sg.act-opt"
+    },
+    {
+     "surface": "tvamādau",
+     "gloss": "you-at-first",
+     "grounds": "fused sandhi form",
+     "morph": "2.sg.nom"
+    },
+    {
+     "surface": "proktavāniti",
+     "gloss": "taught-thus",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can Arjuna know the Lord's later birth and Vivasvat's earlier birth?",
+   "premises": [
+    "Arjuna asks about the Lord's birth.",
+    "He asks about Vivasvat's birth.",
+    "He asks how he should know this."
+   ],
+   "inference": "Arjuna seeks to understand the Lord's teaching chronology.",
+   "uncertainties": [
+    "Fused sandhi forms are analyzed as given."
+   ],
+   "plain_english": "Arjuna said: your later birth and Vivasvat's earlier birth—how should I know this, that you taught at first?"
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "the-lord-said",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "bahūni",
+     "gloss": "many",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "vyatītāni",
+     "gloss": "passed",
+     "grounds": "participle",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "janmāni",
+     "gloss": "births",
+     "grounds": "nominative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive",
+     "morph": "2.sg.gen"
+    },
+    {
+     "surface": "cārjuna",
+     "gloss": "and-arjuna",
+     "grounds": "fused sandhi form",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tānyahaṃ",
+     "gloss": "those-i",
+     "grounds": "fused sandhi form",
+     "morph": "1.sg.nom"
+    },
+    {
+     "surface": "veda",
+     "gloss": "know",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "pronoun",
+     "morph": "2.sg.nom"
+    },
+    {
+     "surface": "vettha",
+     "gloss": "know",
+     "grounds": "verb",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "parantapa",
+     "gloss": "scorcher-of-foes",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What distinguishes the Lord's knowledge of births from Arjuna's?",
+   "premises": [
+    "Many births of mine have passed.",
+    "Many births of yours have passed.",
+    "I know all of them, but you do not."
+   ],
+   "inference": "The Lord knows all births while Arjuna does not.",
+   "uncertainties": [
+    "Fused sandhi forms are analyzed as given."
+   ],
+   "plain_english": "The Lord said: many births of mine have passed, and yours too, Arjuna; I know all those, but you do not, scorcher of foes."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "ajo'pi",
+     "gloss": "unborn-though",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sannavyayātmā",
+     "gloss": "being-imperishable-self",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtānāmīśvaro'pi",
+     "gloss": "lord-of-beings-though",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "san",
+     "gloss": "being",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakṛtiṃ",
+     "gloss": "nature",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svāmadhiṣṭhāya",
+     "gloss": "having-presided-over-own",
+     "grounds": "fused sandhi form",
+     "morph": "abs"
+    },
+    {
+     "surface": "sambhavāmyātmamāyayā",
+     "gloss": "i-am-born-by-own-maya",
+     "grounds": "fused sandhi form",
+     "morph": "1.sg.act-pres"
+    }
+   ],
+   "question": "How can the unborn Lord be born while remaining lord of beings?",
+   "premises": [
+    "The Lord is unborn and imperishable.",
+    "He is lord of beings.",
+    "He presides over his own nature and is born by his own maya."
+   ],
+   "inference": "The Lord's birth is a self-willed manifestation, not ordinary birth.",
+   "uncertainties": [
+    "Fused sandhi forms are analyzed as given."
+   ],
+   "plain_english": "Though unborn and imperishable in self, though lord of beings, presiding over my own nature, I am born by my own maya."
+  }
+ ]
+}

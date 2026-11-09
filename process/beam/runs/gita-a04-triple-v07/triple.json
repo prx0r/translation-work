@@ -1,0 +1,1007 @@
+{
+ "song": "gita-a04",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal clause opener",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "repeated temporal marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dharmasya",
+     "gloss": "of-duty",
+     "grounds": "genitive of dharma",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "glānirbhavati",
+     "gloss": "decline-occurs",
+     "grounds": "fused sandhi form",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "bhārata",
+     "gloss": "o-bharata",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "abhyutthānamadharmasya",
+     "gloss": "rise-of-unrighteousness",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadātmāṃśaṃ",
+     "gloss": "then-self-portion",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "sṛjāmyaham",
+     "gloss": "i-create",
+     "grounds": "fused first-person verb",
+     "morph": "v.1.sg.act-pres+root"
+    },
+    {
+     "surface": "śrībhagavānkila",
+     "gloss": "the-lord-indeed",
+     "grounds": "fused vocative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrṇaṣāḍguṇyatvāccharīrasaṃparkamātrarahito'pi",
+     "gloss": "though-free-from-body-contact",
+     "grounds": "long compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthitikāritvātkāruṇikatayā",
+     "gloss": "by-sustaining-compassion",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ātmāṃśaṃ",
+     "gloss": "self-portion",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sṛjati",
+     "gloss": "creates",
+     "grounds": "third-person verb",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "ātmā-pūrṇaṣāḍguṇyaḥ",
+     "gloss": "self-full-six-qualities",
+     "grounds": "compound gloss",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṃśaḥ-upakārakatvenāpradhānabhūto",
+     "gloss": "portion-as-helper-not-primary",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadātmāṃśaṃ-śarīraṃ",
+     "gloss": "then-self-portion-body",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhṇātītyarthaḥ",
+     "gloss": "takes-thus-meaning",
+     "grounds": "fused gloss phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "7",
+     "gloss": "verse-seven",
+     "grounds": "verse number",
+     "morph": "indecl."
+    }
+   ],
+   "question": "When does the Lord create a self-portion?",
+   "premises": [
+    "dharma declines and unrighteousness rises",
+    "the Lord sustains through compassion",
+    "a self-portion takes a body"
+   ],
+   "inference": "The Lord manifests a portion to restore dharma.",
+   "uncertainties": [
+    "Fused commentary phrases are glossed as compounds."
+   ],
+   "plain_english": "When duty declines and unrighteousness rises, the Lord creates a self-portion and takes a body to sustain the world."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "paritrāṇāya",
+     "gloss": "for-protection",
+     "grounds": "dative purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sādhūnāṃ",
+     "gloss": "of-the-good",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vināśāya",
+     "gloss": "for-destruction",
+     "grounds": "dative purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "duṣkṛtām",
+     "gloss": "of-wrongdoers",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dharmasaṃsthāpanārthāya",
+     "gloss": "for-establishing-duty",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sambhavāmi",
+     "gloss": "i-manifest",
+     "grounds": "first-person verb",
+     "morph": "v.1.sg.act-pres+root"
+    },
+    {
+     "surface": "yuge",
+     "gloss": "in-age",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yuge",
+     "gloss": "in-age",
+     "grounds": "repeated locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Why does the Lord manifest in every age?",
+   "premises": [
+    "the good need protection",
+    "wrongdoers need destruction",
+    "duty needs establishment"
+   ],
+   "inference": "The Lord manifests repeatedly to protect, destroy, and establish duty.",
+   "uncertainties": [
+    "No major uncertainty."
+   ],
+   "plain_english": "For protecting the good, destroying wrongdoers, and establishing duty, I manifest in every age."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "divyamevaṃ",
+     "gloss": "divine-thus",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "third-person verb",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-truth",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-left",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "punarjanma",
+     "gloss": "rebirth",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "naiti",
+     "gloss": "does-not-go",
+     "grounds": "fused negative verb",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "māmeti",
+     "gloss": "comes-to-me",
+     "grounds": "fused verb",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "so'rjuna",
+     "gloss": "he-arjuna",
+     "grounds": "fused vocative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "evāsya",
+     "gloss": "of-this",
+     "grounds": "fused genitive",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yata",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ātmamāyayā",
+     "gloss": "by-self-power",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yogaprajñayā",
+     "gloss": "by-yoga-wisdom",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svasvātantryaśaktyā",
+     "gloss": "by-own-freedom-power",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ārabdhaṃ",
+     "gloss": "begun",
+     "grounds": "past participle",
+     "morph": "pp"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karmabhiḥ",
+     "gloss": "by-actions",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "karmāpi",
+     "gloss": "action-also",
+     "grounds": "fused form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "divyaṃ-phaladānāsamarthatvāt",
+     "gloss": "divine-unable-to-give-fruit",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yaścaivametattatvaṃ",
+     "gloss": "who-thus-this-truth",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vetti-ātmanyapyevameva",
+     "gloss": "knows-in-self-also-thus",
+     "grounds": "fused phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "manyate",
+     "gloss": "thinks",
+     "grounds": "third-person verb",
+     "morph": "v.3.sg.mid-pres+root"
+    },
+    {
+     "surface": "so'vaśyaṃ",
+     "gloss": "he-certainly",
+     "grounds": "fused adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhagavadvāsudevatattvaṃ",
+     "gloss": "lord-vasudeva-truth",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jānāti",
+     "gloss": "knows",
+     "grounds": "third-person verb",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "9",
+     "gloss": "verse-nine",
+     "grounds": "verse number",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What follows from knowing the Lord's divine birth and action?",
+   "premises": [
+    "divine birth and action are known in truth",
+    "one leaves the body without rebirth",
+    "one reaches the Lord"
+   ],
+   "inference": "True knowledge of the Lord's divine nature ends rebirth and leads to him.",
+   "uncertainties": [
+    "Fused commentary phrases are treated as compounds."
+   ],
+   "plain_english": "Whoever truly knows my divine birth and action leaves the body without rebirth and comes to me."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "vītarāgabhayakrodhā",
+     "gloss": "free-from-attachment-fear-anger",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "manmayā",
+     "gloss": "absorbed-in-me",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "madvyapāśrayāḥ",
+     "gloss": "taking-refuge-in-me",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahavo",
+     "gloss": "many",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jñānatapasā",
+     "gloss": "by-knowledge-austerity",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūtā",
+     "gloss": "purified",
+     "grounds": "past participle",
+     "morph": "pp"
+    },
+    {
+     "surface": "madbhāvamāgatāḥ",
+     "gloss": "attained-my-state",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "fused conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidantaḥ",
+     "gloss": "knowing",
+     "grounds": "participle",
+     "morph": "ptcp"
+    },
+    {
+     "surface": "manmayatvātparipūrṇecchatvāt",
+     "gloss": "because-absorbed-in-me-and-full-desire",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "krodhādirahitā",
+     "gloss": "free-from-anger-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karaṇīyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "gdv"
+    },
+    {
+     "surface": "kurvāṇā",
+     "gloss": "doing",
+     "grounds": "participle",
+     "morph": "ptcp"
+    },
+    {
+     "surface": "bahavo",
+     "gloss": "many",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matsvarūpamavāptāḥ",
+     "gloss": "attained-my-form",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "10",
+     "gloss": "verse-ten",
+     "grounds": "verse number",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yataḥ-",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How do purified people attain the Lord's state?",
+   "premises": [
+    "many are purified by knowledge and austerity",
+    "they are absorbed in the Lord",
+    "they do fruitless action without anger"
+   ],
+   "inference": "Purified, refuge-taking people attain the Lord's state through action without attachment.",
+   "uncertainties": [
+    "Trailing yataḥ- is an incomplete commentary marker."
+   ],
+   "plain_english": "Many, purified by knowledge and austerity and absorbed in me, attain my state while doing action without fruit."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative pronoun",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "prapadyante",
+     "gloss": "surrender",
+     "grounds": "third-person verb",
+     "morph": "v.3.pl.mid-pres+root"
+    },
+    {
+     "surface": "tāṃstathaiva",
+     "gloss": "them-thus-indeed",
+     "grounds": "fused form",
+     "morph": "pron.acc.pl"
+    },
+    {
+     "surface": "bhajāmyaham",
+     "gloss": "i-worship",
+     "grounds": "fused first-person verb",
+     "morph": "v.1.sg.act-pres+root"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "vartmānuvartante",
+     "gloss": "follow-the-path",
+     "grounds": "compound verb",
+     "morph": "v.3.pl.act-pres+root"
+    },
+    {
+     "surface": "manuṣyāḥ",
+     "gloss": "people",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "o-partha",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sarvaśaḥ",
+     "gloss": "in-every-way",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "p.",
+     "gloss": "page",
+     "grounds": "paratext marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "111)",
+     "gloss": "one-eleven",
+     "grounds": "page number",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl"
+    },
+    {
+     "surface": "yayaiva",
+     "gloss": "by-whichever-indeed",
+     "grounds": "fused form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "buddhyā",
+     "gloss": "by-intellect",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "māmāśrayante",
+     "gloss": "take-refuge-in-me",
+     "grounds": "fused verb",
+     "morph": "v.3.pl.mid-pres+root"
+    },
+    {
+     "surface": "tānprati",
+     "gloss": "toward-them",
+     "grounds": "fused preposition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "fused pronoun",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-form",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhṇaṃstānanugṛhṇāmi",
+     "gloss": "taking-them-i-favor",
+     "grounds": "fused participle",
+     "morph": "ptcp"
+    },
+    {
+     "surface": "evameva",
+     "gloss": "thus-indeed",
+     "grounds": "fused adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "madīyaṃ",
+     "gloss": "my",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mārgaṃ",
+     "gloss": "path",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manmayā",
+     "gloss": "absorbed-in-me",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "amanmayāśca",
+     "gloss": "not-absorbed-and",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "evānuvartante",
+     "gloss": "indeed-follow",
+     "grounds": "fused verb",
+     "morph": "v.3.pl.act-pres+root"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not-indeed",
+     "grounds": "fused negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jyotiṣṭomādiranyo",
+     "gloss": "jyotistoma-etc-other",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mārgaḥ",
+     "gloss": "path",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madīyaiva",
+     "gloss": "mine-indeed",
+     "grounds": "fused adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathecchā",
+     "gloss": "such-desire",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-said",
+     "grounds": "future passive",
+     "morph": "v.3.sg.pass-fut+root"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cāturvarṇya",
+     "gloss": "four-classes",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental pronoun",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "sṛṣṭam",
+     "gloss": "created",
+     "grounds": "past participle",
+     "morph": "pp"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anyastvāha-liṅarthe",
+     "gloss": "another-says-for-tense",
+     "grounds": "fused commentary",
+     "morph": "compound"
+    },
+    {
+     "surface": "laṭ",
+     "gloss": "present-tense",
+     "grounds": "grammatical term",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atirātre",
+     "gloss": "at-atiratra",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣoḍaśinaṃ",
+     "gloss": "sodashin",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gṛhṇanti-gṛhṇīyurityarthaḥ",
+     "gloss": "take-should-take-meaning",
+     "grounds": "fused gloss",
+     "morph": "compound"
+    },
+    {
+     "surface": "evamihāpi",
+     "gloss": "thus-here-also",
+     "grounds": "fused adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anuvartante-anuvarteranniti",
+     "gloss": "follow-would-follow-thus",
+     "grounds": "fused gloss",
+     "morph": "compound"
+    },
+    {
+     "surface": "11",
+     "gloss": "verse-eleven",
+     "grounds": "verse number",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does the Lord respond to those who surrender?",
+   "premises": [
+    "those who surrender are worshipped in return",
+    "people follow the Lord's path",
+    "the Lord takes the form sought by devotees"
+   ],
+   "inference": "The Lord reciprocates surrender and guides all along his path.",
+   "uncertainties": [
+    "Page marker and fused commentary glosses are treated as tokens."
+   ],
+   "plain_english": "As people surrender to me, so I worship them; all follow my path, and I take the form sought by devotees."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "kāṅkṣantaḥ",
+     "gloss": "desiring",
+     "grounds": "participle",
+     "morph": "ptcp"
+    },
+    {
+     "surface": "karmaṇāṃ",
+     "gloss": "of-actions",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "success",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajanta",
+     "gloss": "worship",
+     "grounds": "third-person verb",
+     "morph": "v.3.pl.act-pres+root"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "accusative plural",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kṣipraṃ",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mānuṣe",
+     "gloss": "human",
+     "grounds": "locative adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "siddhirbhavati",
+     "gloss": "success-occurs",
+     "grounds": "fused verb",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "karmajā",
+     "gloss": "action-born",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mānuṣa",
+     "gloss": "human",
+     "grounds": "locative adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhogāpavargalakṣaṇā",
+     "gloss": "marked-by-enjoyment-and-liberation",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhirnānyatra",
+     "gloss": "success-not-elsewhere",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "12",
+     "gloss": "verse-twelve",
+     "grounds": "verse number",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where does action-born success quickly occur?",
+   "premises": [
+    "people desiring action-success worship deities",
+    "success occurs quickly in the human world",
+    "success marked by enjoyment and liberation occurs there"
+   ],
+   "inference": "Action-born success, including enjoyment and liberation, occurs in the human world.",
+   "uncertainties": [
+    "No major uncertainty."
+   ],
+   "plain_english": "Those desiring success in action worship deities here; success born of action occurs quickly in the human world."
+  }
+ ]
+}
