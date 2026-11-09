@@ -33,7 +33,7 @@ def is_paratext(t: str) -> bool:
     if re.search(r'\([^)]*[?]', t):
         return True  # editorial uncertainty: bādhe.....(?)
     return bool(
-        t in ('|', '||', '|]', '(page', '(saṃṣi.', 'END', 'OF', 'FILE')
+        t in ('|', '||', '|]', '/', '//', '(page', '(saṃṣi.', 'END', 'OF', 'FILE')
         or re.fullmatch(r'#+', t)
         or re.fullmatch(r'\([a-zā-īūṛḷṃḥṅñṭḍṇśṣ]+\.', t)
         or re.fullmatch(r'\(page \d+\)', t)
@@ -43,6 +43,7 @@ def is_paratext(t: str) -> bool:
         or re.fullmatch(r'[a-zā-īūṛḷṃḥṅñṭḍṇśṣ]{1,4}\.', t)
         or re.fullmatch(r'\d+\)?', t)
         or re.fullmatch(r'\d+-\d+', t)
+        or re.fullmatch(r'\[AgMsv_\d+\.\d+\]', t)
     )
 
 

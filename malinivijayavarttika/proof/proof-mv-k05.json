@@ -1,0 +1,78 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mv-k05",
+ "work": "malinivijayavarttika",
+ "date": "2026-11-01",
+ "blocking": [
+  "DATA_OBJECTS 6 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "b7f2dc11ebbe418e",
+ "source_verses": 150,
+ "t1_verses": 150,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 1496
+ },
+ "align": {
+  "min_ratio": 0.988,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 74,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 150,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l0[mv-k05-v748-p003]: chosen 'unclear-reading' != T1.quick_gloss 'even-of-the-limiting-condition' (mark revised+reason)",
+   "l0[mv-k05-v748-p004]: chosen 'even-of-the-limiting-condition' != T1.quick_gloss 'of-action' (mark revised+reason)",
+   "l0[mv-k05-v748-p005]: chosen 'of-action' != T1.quick_gloss 'in-its-own' (mark revised+reason)",
+   "l0[mv-k05-v748-p006]: chosen 'in-its-own' != T1.quick_gloss 'difference' (mark revised+reason)",
+   "l0[mv-k05-v748-p007]: chosen 'difference' != T1.quick_gloss 'from-time-being-of-no-use' (mark revised+reason)",
+   "l0[mv-k05-v748-p008]: chosen 'from-time-being-of-no-use' != T1.quick_gloss None (mark revised+reason)"
+  ],
+  "counts": {
+   "t1": 150,
+   "l0": 1496,
+   "argmap": 150,
+   "l2": 150,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "7a391ee995e69768d6cc7aebf5a3b69403a28446373d68b1afd8b17514cc65e1",
+  "l0": "794e879cc5392e5a644b86cad34b5bf496eac258bc0c544fcf345aad872217bd",
+  "argmap": "2233d26b836293651b17802a0a2f9368b7fb97c921ee8afd830bea4a655f56db",
+  "l2": "b3abe6734fc0b978bd77cd219590d9e92c683b7e56504d489e91bff64328154d",
+  "c1": "4f9187301505a05020745efea2a183d9b09d8fdcffb72f3450f7f8f00d51b14c"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "b7f2dc11ebbe418e",
+  "t1": "mv-k05/data/mv-k05.t1.json",
+  "l0": "mv-k05/data/mv-k05.l0.json",
+  "l2": "mv-k05/data/mv-k05.l2.json",
+  "c1": "mv-k05/data/mv-k05.c1.json"
+ }
+}
