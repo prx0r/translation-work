@@ -1,0 +1,737 @@
+{
+ "song": "gita-a12",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśo'dhyāyaḥ",
+     "gloss": "twelfth-chapter",
+     "grounds": "chapter heading",
+     "morph": "compound"
+    },
+    {
+     "surface": "arjuna",
+     "gloss": "arjuna",
+     "grounds": "addressee",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "narrative verb",
+     "morph": "3.sg.act-aor root vac"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satatayuktā",
+     "gloss": "constantly-united",
+     "grounds": "describes devotees",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "rel.nom.pl.m"
+    },
+    {
+     "surface": "bhaktāstvāṃ",
+     "gloss": "devotees-you",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "paryupāsate",
+     "gloss": "worship-around",
+     "grounds": "devotional action",
+     "morph": "3.pl.mid-pres root upās"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "rel.nom.pl.m"
+    },
+    {
+     "surface": "cāpyakṣaramavyaktaṃ",
+     "gloss": "and-also-imperishable-unmanifest",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive reference",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "ke",
+     "gloss": "which",
+     "grounds": "interrogative",
+     "morph": "interrog.nom.pl.m"
+    },
+    {
+     "surface": "yogavittamāḥ",
+     "gloss": "yoga-knowers-best",
+     "grounds": "superlative",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "evam-uktena",
+     "gloss": "thus-spoken",
+     "grounds": "instrumental phrase",
+     "morph": "adj.instr.sg.n"
+    },
+    {
+     "surface": "nayena",
+     "gloss": "method",
+     "grounds": "instrument",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "rel.nom.pl.m"
+    },
+    {
+     "surface": "seśvarabrahmopāsakāḥ",
+     "gloss": "with-lord-brahma-worshippers",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "rel.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalamātmamātra-mupāsate",
+     "gloss": "only-self-alone-worship",
+     "grounds": "fused compound and verb",
+     "morph": "3.pl.mid-pres root upās"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive reference",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "viśeṣākhyānāya",
+     "gloss": "for-distinct-description",
+     "grounds": "purpose",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "praśnaḥ",
+     "gloss": "question",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "1",
+     "gloss": "one",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which devotees are deemed most united in yoga?",
+   "premises": [
+    "Arjuna asks about constantly united devotees.",
+    "He contrasts worship of the Lord with worship of the unmanifest.",
+    "The question seeks a distinction among devotees."
+   ],
+   "inference": "The verse frames a comparative question about devotees and their objects of worship.",
+   "uncertainties": [
+    "The fused compound kevalamātmamātra-mupāsate is treated as one token."
+   ],
+   "plain_english": "Arjuna asks which devotees are most accomplished in yoga, those who worship the Lord or those who worship the unmanifest."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "blessed-lord-said",
+     "grounds": "speaker attribution",
+     "morph": "compound"
+    },
+    {
+     "surface": "mayyāveśya",
+     "gloss": "having-entered-into-me",
+     "grounds": "absolutive",
+     "morph": "absolutive root āviś"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "rel.nom.pl.m"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nityayuktā",
+     "gloss": "always-united",
+     "grounds": "adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "upāsate",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.pl.mid-pres root upās"
+    },
+    {
+     "surface": "śraddhayā",
+     "gloss": "with-faith",
+     "grounds": "instrument",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "parayopetāste",
+     "gloss": "endowed-with-supreme-they",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "yuktatamā",
+     "gloss": "most-united",
+     "grounds": "superlative",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "passive participle",
+     "morph": "nom.pl.m pp root man"
+    },
+    {
+     "surface": "māheśvaryaviṣayo",
+     "gloss": "subject-of-great-lordship",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "whose",
+     "grounds": "relative genitive",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "samāveśaḥ-akṛtrimastanmayībhāvaḥ",
+     "gloss": "absorption-unfeigned-becoming-me",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "yuktatamā",
+     "gloss": "most-united",
+     "grounds": "superlative",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "matāḥ-ityanena",
+     "gloss": "considered-thus-by-this",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratijñā",
+     "gloss": "promise",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-made",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres root kṛ"
+    },
+    {
+     "surface": "2",
+     "gloss": "two",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who are considered most united with the Lord?",
+   "premises": [
+    "The Lord says those who fix mind on him are most united.",
+    "Their absorption is unfeigned and becomes him.",
+    "This statement is a promise."
+   ],
+   "inference": "Devotees with unfeigned absorption in the Lord are declared most united.",
+   "uncertainties": [
+    "The fused compound samāveśaḥ-akṛtrimastanmayībhāvaḥ is treated as one token."
+   ],
+   "plain_english": "The Lord declares that devotees who enter him with mind and worship him with supreme faith are most united."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "rel.nom.pl.m"
+    },
+    {
+     "surface": "tvakṣaramanirdeśyamavyaktaṃ",
+     "gloss": "but-imperishable-indescribable-unmanifest",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "paryupāsate",
+     "gloss": "worship-around",
+     "grounds": "verb",
+     "morph": "3.pl.mid-pres root upās"
+    },
+    {
+     "surface": "sarvatragamacintyaṃ",
+     "gloss": "all-pervading-inconceivable",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭasthamacalaṃ",
+     "gloss": "unchanging-immovable",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "firm",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Who worships the imperishable unmanifest?",
+   "premises": [
+    "Some worship the imperishable unmanifest.",
+    "It is all-pervading and inconceivable.",
+    "It is unchanging, immovable, and firm."
+   ],
+   "inference": "The verse describes devotees of the unmanifest Brahman.",
+   "uncertainties": [
+    "The fused form tvakṣaramanirdeśyamavyaktaṃ is treated as one token."
+   ],
+   "plain_english": "Those who worship the imperishable, indescribable, unmanifest, all-pervading, inconceivable, unchanging, immovable, and firm."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "sanniyamyendriyagrāmaṃ",
+     "gloss": "having-restrained-sense-group",
+     "grounds": "absolutive compound",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samabuddhayaḥ",
+     "gloss": "equal-minded",
+     "grounds": "adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "prāpnuvanti",
+     "gloss": "attain",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root prāp"
+    },
+    {
+     "surface": "māmeva",
+     "gloss": "me-only",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvabhūtahite",
+     "gloss": "in-welfare-of-all-beings",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ratāḥ",
+     "gloss": "delighted",
+     "grounds": "participle",
+     "morph": "nom.pl.m pp root ram"
+    }
+   ],
+   "question": "What do equal-minded devotees attain?",
+   "premises": [
+    "They restrain the senses.",
+    "They are equal-minded everywhere.",
+    "They are devoted to the welfare of all beings."
+   ],
+   "inference": "Such devotees attain the Lord alone.",
+   "uncertainties": [
+    "The fused form sanniyamyendriyagrāmaṃ is treated as one token."
+   ],
+   "plain_english": "By restraining the senses and being equal-minded everywhere, devoted to all beings' welfare, they attain me alone."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "kleśo'dhikatarasteṣāmavyaktāsaktacetasām",
+     "gloss": "suffering-greater-for-them-unmanifest-attached-minds",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "avyaktā",
+     "gloss": "unmanifest",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatirduḥkhaṃ",
+     "gloss": "path-is-suffering",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "dehabhṛdbhiravāpyate",
+     "gloss": "by-body-bearers-is-attained",
+     "grounds": "fused sandhi",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "rel.nom.pl.m"
+    },
+    {
+     "surface": "punarakṣaraṃ",
+     "gloss": "again-imperishable",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "brahmopāsate",
+     "gloss": "worship-brahman",
+     "grounds": "fused sandhi",
+     "morph": "3.pl.mid-pres root upās"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sarvatragam-ityādibhirviśeṣaṇairātmanaḥ",
+     "gloss": "all-pervading-etc-by-qualifiers-of-self",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "īśvaradharmā",
+     "gloss": "lordly-qualities",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "āropyante",
+     "gloss": "are-attributed",
+     "grounds": "passive verb",
+     "morph": "3.pl.pass-pres root āruh"
+    },
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmopāsakā",
+     "gloss": "brahman-worshippers",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māmeva",
+     "gloss": "me-only",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root yā"
+    },
+    {
+     "surface": "tathāpyadhikatarasteṣāṃ",
+     "gloss": "yet-greater-for-them",
+     "grounds": "fused sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "kleśaḥ",
+     "gloss": "suffering",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ātmani",
+     "gloss": "in-self",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kilāpahatapāpmatvādiguṇāṣṭakāropaṃ",
+     "gloss": "indeed-eight-qualities-attribution",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "absolutive root vidhā"
+    },
+    {
+     "surface": "paścāttamevopāsate",
+     "gloss": "afterwards-him-only-worship",
+     "grounds": "fused sandhi",
+     "morph": "3.pl.mid-pres root upās"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svataḥsiddhaguṇagrāmagarimaṇi",
+     "gloss": "self-established-quality-group-glory",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "īśvare'yatnasādhye",
+     "gloss": "in-lord-effortlessly-attainable",
+     "grounds": "fused sandhi",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sthite'pi",
+     "gloss": "though-established",
+     "grounds": "fused sandhi",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dviguṇamāyāsaṃ",
+     "gloss": "double-effort",
+     "grounds": "compound",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vindanti",
+     "gloss": "find",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root vid"
+    },
+    {
+     "surface": "5",
+     "gloss": "five",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is worship of the unmanifest more difficult?",
+   "premises": [
+    "The unmanifest path is suffering for embodied beings.",
+    "Brahman-worshippers attribute lordly qualities to the self.",
+    "They still attain the Lord, but with greater effort."
+   ],
+   "inference": "Worship of the unmanifest is harder because it requires attributing qualities and greater effort.",
+   "uncertainties": [
+    "Several fused compounds are treated as single tokens."
+   ],
+   "plain_english": "The unmanifest path is hard for embodied beings; even Brahman-worshippers attain the Lord, but with greater effort."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "rel.nom.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "object",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "mayi",
+     "gloss": "in-me",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "saṃnyasya",
+     "gloss": "having-renounced",
+     "grounds": "absolutive",
+     "morph": "absolutive root saṃnyas"
+    },
+    {
+     "surface": "matparāḥ",
+     "gloss": "devoted-to-me",
+     "grounds": "adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ananyenaiva",
+     "gloss": "by-non-other-only",
+     "grounds": "fused sandhi",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "yogena",
+     "gloss": "by-yoga",
+     "grounds": "instrument",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dhyāyanta",
+     "gloss": "meditating",
+     "grounds": "participle",
+     "morph": "nom.pl.m pres.part root dhyā"
+    },
+    {
+     "surface": "upāsate",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.pl.mid-pres root upās"
+    }
+   ],
+   "question": "How do devotees worship by action?",
+   "premises": [
+    "They renounce all actions into the Lord.",
+    "They are devoted to the Lord.",
+    "They meditate on the Lord through yoga."
+   ],
+   "inference": "Devotees worship by dedicating all actions and meditating on the Lord.",
+   "uncertainties": [
+    "The fused form ananyenaiva is treated as one token."
+   ],
+   "plain_english": "Those who renounce all actions into me, devoted to me, meditate on me through yoga and worship."
+  }
+ ]
+}
