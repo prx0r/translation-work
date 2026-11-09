@@ -2,928 +2,1216 @@
  "song": "mv-k08",
  "items": [
   {
-   "verse": 1051,
+   "verse": 1063,
    "rows": [
     {
-     "surface": "dhyeyapūjyādivaicitryam",
-     "gloss": "variety-of-meditation-worship-and-such",
-     "grounds": "compound denoting diverse forms of meditation, worship, etc.",
-     "morph": "n.acc.sg"
+     "surface": "bhede",
+     "gloss": "in-difference",
+     "grounds": "locative of bheda",
+     "morph": "m.loc.sg"
     },
     {
-     "surface": "ittham",
-     "gloss": "thus",
-     "grounds": "manner adverb",
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "indeclinable, sandhi form of api",
      "morph": "(indecl.)"
     },
     {
-     "surface": "arthakriyākaram",
-     "gloss": "producing-effective-action",
-     "grounds": "compound describing something that accomplishes practical ends",
-     "morph": "n.acc.sg"
+     "surface": "kiṃtv",
+     "gloss": "but",
+     "grounds": "indeclinable, sandhi form of kiṃ tu",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "mūrto",
-     "gloss": "embodied",
-     "grounds": "having form",
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "bhinnaḥ",
-     "gloss": "divided",
-     "grounds": "appearing as separate",
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyasaṃsārakārisukṛtādivighātahetuḥ",
+     "gloss": "cause-of-destroying-future-world-producing-merit-and-so-on",
+     "grounds": "compound describing the cause of obstructing merit that produces future transmigration",
+     "morph": "compound=bhaviṣyat+saṃsāra+kārin+sukṛta+ādi+vighāta+hetu; m.nom.sg"
+    },
+    {
+     "surface": "śuddhas",
+     "gloss": "pure",
+     "grounds": "adjective, sandhi form of śuddhaḥ",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "samāhūto",
-     "gloss": "invoked",
-     "grounds": "called or summoned",
-     "morph": "m.nom.sg"
+     "surface": "tatas",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "hitvā",
-     "gloss": "having-abandoned",
-     "grounds": "absolutive of leaving behind",
-     "morph": "abs.√hā"
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
     },
     {
-     "surface": "bhogān",
-     "gloss": "enjoyments",
-     "grounds": "objects of experience",
-     "morph": "m.acc.pl"
-    },
-    {
-     "surface": "nijān",
-     "gloss": "own",
-     "grounds": "one's own",
-     "morph": "m.acc.pl"
-    },
-    {
-     "surface": "kṣaṇāt",
-     "gloss": "in-an-instant",
-     "grounds": "ablative indicating immediate time",
-     "morph": "m.abl.sg"
-    }
-   ],
-   "question": "How can an embodied and divided deity be invoked and act effectively?",
-   "premises": [
-    "Meditation and worship take diverse forms.",
-    "An embodied and divided deity can be invoked.",
-    "Such invocation can produce effective action in an instant."
-   ],
-   "inference": "The variety of meditation and worship is effective because an embodied, divided deity can be invoked and act immediately.",
-   "uncertainties": [],
-   "plain_english": "Thus the variety of meditation, worship, and the like becomes effective in action: an embodied, divided deity, when invoked, can abandon its own enjoyments and act in an instant."
-  },
-  {
-   "verse": 1052,
-   "rows": [
-    {
-     "surface": "deva",
-     "gloss": "O-god",
-     "grounds": "vocative address",
-     "morph": "m.voc.sg"
-    },
-    {
-     "surface": "etīti",
-     "gloss": "comes-thus",
-     "grounds": "verb with quotative particle fused in the token",
-     "morph": "3.sg.pres.act.√i+iti"
-    },
-    {
-     "surface": "vārtaiṣā",
-     "gloss": "this-talk",
-     "grounds": "fused form referring to such a report or claim",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "vacaneṣv",
-     "gloss": "in-scriptural-statements",
-     "grounds": "locative plural with sandhi before eva",
-     "morph": "n.loc.pl"
+     "surface": "ata",
+     "gloss": "from-this",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
     },
     {
      "surface": "eva",
-     "gloss": "only",
-     "grounds": "restrictive particle",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
      "morph": "(indecl.)"
     },
     {
-     "surface": "śobhate",
-     "gloss": "appears-fitting",
-     "grounds": "is appropriate or shines",
-     "morph": "3.sg.pres.mid.√śubh"
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "amūrtādisvarūpatvaṃ",
-     "gloss": "nature-of-formless-and-such",
-     "grounds": "abstract state of being formless and so on",
+     "surface": "tattvajālaṃ",
+     "gloss": "network-of-principles",
+     "grounds": "compound of tattva and jāla",
+     "morph": "compound=tattva+jāla; n.nom.sg"
+    },
+    {
+     "surface": "śuddhetarasthititayā",
+     "gloss": "by-state-of-pure-and-other",
+     "grounds": "instrumental expressing the mode of division",
+     "morph": "compound=śuddha+itara+sthiti+tā; f.inst.sg"
+    },
+    {
+     "surface": "nikhilaṃ",
+     "gloss": "entire",
+     "grounds": "adjective qualifying tattvajālaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvidhaiva",
+     "gloss": "twofold-only",
+     "grounds": "indeclinable dvidhā with emphatic eva",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the entire network of principles divided in the state of difference?",
+   "premises": [
+    "Even in difference, this pure factor destroys merit that would produce future transmigration.",
+    "Because of that, the entire network of principles is classified by pure and other states.",
+    "The classification of all principles is therefore only twofold."
+   ],
+   "inference": "The whole set of principles is divided into pure and impure solely because the pure factor blocks future transmigratory merit.",
+   "uncertainties": [],
+   "plain_english": "Even within difference, this pure element destroys the merit that would cause future transmigration. For that reason, the entire network of principles is only twofold, divided into pure and other."
+  },
+  {
+   "verse": 1064,
+   "rows": [
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "adjective, neuter subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triśaktikhacitaṃ",
+     "gloss": "filled-with-three-powers",
+     "grounds": "compound describing the pure as pervaded by three powers",
+     "morph": "compound=tri+śakti+kha+cita; n.nom.sg"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle introducing an objection or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmalaṃ",
+     "gloss": "paired",
+     "grounds": "adjective referring to the Yāmala character",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāty",
+     "gloss": "shines",
+     "grounds": "verb, sandhi form of bhāti",
+     "morph": "3.sg.pres.act √bhā"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "instrumental used adverbially",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bahudhaiṣa",
+     "gloss": "in-many-ways-this",
+     "grounds": "sandhi fusion of bahudhā and eṣaḥ",
+     "morph": "compound=bahudhā+eṣa; m.nom.sg"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "made",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kriyāyāḥ",
+     "gloss": "of-ritual-action",
+     "grounds": "genitive of kriyā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vyāpārakalpanāvaśān",
+     "gloss": "by-force-of-conceived-operations",
+     "grounds": "ablative compound indicating cause",
+     "morph": "compound=vyāpāra+kalpanā+vaśa; m.abl.sg"
+    },
+    {
+     "surface": "niyatiprapañcaḥ",
+     "gloss": "expanse-of-restriction",
+     "grounds": "compound of niyati and prapañca",
+     "morph": "compound=niyati+prapañca; m.nom.sg"
+    },
+    {
+     "surface": "svalpetaratvakṛtatādṛśabhogayogaḥ",
+     "gloss": "having-connection-to-such-enjoyment-made-by-smallness-and-otherness",
+     "grounds": "compound describing the regulated expanse as linked to limited enjoyment",
+     "morph": "compound=svalpa+itara+tva+kṛta+tādṛśa+bhoga+yoga; m.nom.sg"
+    }
+   ],
+   "question": "Why does a manifold expanse of ritual restriction arise from the pure reality?",
+   "premises": [
+    "The pure shines as filled with the three powers and as paired.",
+    "Because of this, ritual action is conceived in many ways.",
+    "The expanse of restriction arises through conceived operations and yields limited forms of enjoyment."
+   ],
+   "inference": "The manifold system of ritual restriction is a differentiated projection of the pure reality shaped by conceived ritual operations.",
+   "uncertainties": [
+    "The exact nuance of yāmalaṃ in this doctrinal context is interpretive."
+   ],
+   "plain_english": "The pure reality shines as filled with the three powers and as paired. From this, ritual action is conceived in many ways, and so an expanse of restriction arises that brings about limited forms of enjoyment."
+  },
+  {
+   "verse": 1065,
+   "rows": [
+    {
+     "surface": "mudrāmaṇḍalasaṃghātaḥ",
+     "gloss": "assemblage-of-seals-and-mandalas",
+     "grounds": "compound subject",
+     "morph": "compound=mudrā+maṇḍala+saṃghāta; m.nom.sg"
+    },
+    {
+     "surface": "samantratantracarcitaḥ",
+     "gloss": "practiced-with-mantras-and-tantras",
+     "grounds": "past participle describing the assemblage",
+     "morph": "compound=sa+mantra+tantra+carcita; m.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogādikaṃ",
+     "gloss": "yoga-and-so-on",
+     "grounds": "compound object",
+     "morph": "compound=yoga+ādika; n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective qualifying yogādikaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phaladānāya",
+     "gloss": "for-giving-fruit",
+     "grounds": "dative of purpose",
+     "morph": "compound=phala+dāna; n.dat.sg"
+    },
+    {
+     "surface": "kalpate",
+     "gloss": "is-fit",
+     "grounds": "verb",
+     "morph": "3.sg.pres.mid √kḷp"
+    }
+   ],
+   "question": "What ritual complex becomes capable of yielding results in this system?",
+   "premises": [
+    "An assemblage of seals and mandalas is practiced together with mantras and tantras.",
+    "In that context, yoga and related practices are included.",
+    "Such a complex becomes fit to give results."
+   ],
+   "inference": "The combined ritual complex of seals, mandalas, mantras, tantras, and yoga is what produces the promised fruits.",
+   "uncertainties": [],
+   "plain_english": "Where the assemblage of seals and mandalas is practiced together with mantras and tantras, all practices such as yoga become capable of yielding their fruits."
+  },
+  {
+   "verse": 1066,
+   "rows": [
+    {
+     "surface": "nirvṛtiphalasaṃprāptikāṅkṣāsaṃkocasusthitāḥ",
+     "gloss": "well-established-in-contraction-of-desire-for-attaining-liberation-fruit",
+     "grounds": "compound describing practitioners whose aspiration is narrowed to liberation as a result",
+     "morph": "compound=nirvṛti+phala+saṃprāpti+kāṅkṣā+saṃkoca+susthita; m.nom.pl"
+    },
+    {
+     "surface": "anavacchinnatām",
+     "gloss": "unlimitedness",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalatvenātra",
+     "gloss": "as-fruit-here",
+     "grounds": "sandhi fusion of phalatvena and atra",
+     "morph": "compound=phala+tva+atra; n.inst.sg"
+    },
+    {
+     "surface": "manvate",
+     "gloss": "they-regard",
+     "grounds": "verb",
+     "morph": "3.pl.pres.mid √man"
+    }
+   ],
+   "question": "How do those fixed on attaining liberation conceive the highest fruit?",
+   "premises": [
+    "Some practitioners are established in a narrowed desire for attaining liberation as a fruit.",
+    "They take unlimitedness itself as the fruit in this context.",
+    "Their conception of the goal is therefore framed as an attained result."
+   ],
+   "inference": "Even those seeking the highest liberation still conceive unlimitedness as a fruit to be attained.",
+   "uncertainties": [],
+   "plain_english": "Those who are fixed in the narrowed desire to attain liberation regard unlimitedness itself as the fruit to be obtained here."
+  },
+  {
+   "verse": 1067,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hy",
+     "gloss": "for",
+     "grounds": "indeclinable, sandhi form of hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantānav/yacchede",
+     "gloss": "in-unlimited-unbroken",
+     "grounds": "locative compound; slash in source marks an editorial reading boundary",
+     "morph": "compound=ananta+anavaccheda; m.loc.sg"
+    },
+    {
+     "surface": "kāpi",
+     "gloss": "any-at-all",
+     "grounds": "sandhi fusion of kā and api",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāgādikalpanā",
+     "gloss": "conception-of-sacrifice-and-so-on",
+     "grounds": "compound subject",
+     "morph": "compound=yāga+ādi+kalpanā; f.nom.sg"
+    },
+    {
+     "surface": "anavacchinnavāñchā",
+     "gloss": "desire-for-unlimited",
+     "grounds": "compound describing the aspiration",
+     "morph": "compound=anavacchinna+vāñchā; f.nom.sg"
+    },
+    {
+     "surface": "1.1131",
+     "gloss": "verse-reference-1.1131",
+     "grounds": "editorial reference marker in the text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "tatsarvottīrṇadṛṣṭayaḥ",
+     "gloss": "those-with-vision-transcending-all-that",
+     "grounds": "compound describing the highest seers",
+     "morph": "compound=tad+sarva+uttīrṇa+dṛṣṭi; m.nom.pl"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "even-so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidite",
+     "gloss": "when-known",
+     "grounds": "locative absolute participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hy",
+     "gloss": "for",
+     "grounds": "indeclinable, sandhi form of hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthe",
+     "gloss": "in-the-reality",
+     "grounds": "locative of artha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paramādvayasundare",
+     "gloss": "in-supreme-nondual-beautiful",
+     "grounds": "compound describing the highest reality",
+     "morph": "compound=parama+advaya+sundara; m.loc.sg"
+    }
+   ],
+   "question": "Can ritual conception apply where the unlimited supreme nondual reality is known?",
+   "premises": [
+    "In the unlimited and unbroken, no conception of sacrifice and the like applies.",
+    "Those whose vision transcends all that have no such ritual framing.",
+    "Even so, when the supreme nondual reality is known, desire for a fruit may still arise in some."
+   ],
+   "inference": "Ritual conception is incompatible with the unlimited nondual, yet knowledge of that reality does not automatically abolish all fruit-seeking.",
+   "uncertainties": [
+    "The token anantānav/yacchede contains an editorial slash whose exact intended segmentation is uncertain."
+   ],
+   "plain_english": "In what is unlimited and unbroken, there is no room for conceiving sacrifice and similar rites; such is the view of those who have transcended all that. Still, even when the supremely nondual reality is known, some desire for a fruit can remain."
+  },
+  {
+   "verse": 1068,
+   "rows": [
+    {
+     "surface": "saṃvitsvabhāvasvātantryāt",
+     "gloss": "from-freedom-of-consciousness-nature",
+     "grounds": "ablative compound giving the reason",
+     "morph": "compound=saṃvit+svabhāva+svātantrya; n.abl.sg"
+    },
+    {
+     "surface": "keṣāṃcit",
+     "gloss": "of-some",
+     "grounds": "genitive plural indefinite pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "phalakāmatā",
+     "gloss": "desire-for-fruit",
+     "grounds": "compound subject",
+     "morph": "compound=phala+kāmatā; f.nom.sg"
+    },
+    {
+     "surface": "tāny",
+     "gloss": "those",
+     "grounds": "accusative plural demonstrative, sandhi form of tāni",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "evoddiśya",
+     "gloss": "having-aimed-at-indeed",
+     "grounds": "gerund with sandhi fusion of eva and uddiśya",
+     "morph": "gerund √diś with ud"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūraṇāya",
+     "gloss": "for-fulfillment",
+     "grounds": "dative of purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "dharāditaḥ",
+     "gloss": "from-earth-onward",
+     "grounds": "ablative compound indicating the starting point of the hierarchy",
+     "morph": "compound=dharā+ādi; m.abl.sg"
+    }
+   ],
+   "question": "Why is the full hierarchical teaching presented if the highest reality transcends fruit-seeking?",
+   "premises": [
+    "Because of the freedom of consciousness's own nature, some still desire fruits.",
+    "Aiming at those seekers, the teaching presents the whole system.",
+    "The presentation extends from earth up to Śiva for their fulfillment."
+   ],
+   "inference": "The graded scriptural system is taught out of consciousness's freedom to accommodate those who still seek fruits.",
+   "uncertainties": [],
+   "plain_english": "Because consciousness is free by its very nature, some people still desire fruits. For their sake, the entire teaching is set forth, from earth up to Śiva, so that their aims may be fulfilled."
+  },
+  {
+   "verse": 1069,
+   "rows": [
+    {
+     "surface": "śivāntaṃ",
+     "gloss": "ending-with-Śiva",
+     "grounds": "accusative compound describing the range",
+     "morph": "compound=śiva+anta; n.acc.sg"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedair",
+     "gloss": "by-divisions",
+     "grounds": "instrumental plural of bheda",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dhāraṇāgrantha",
+     "gloss": "text-on-concentrations",
+     "grounds": "compound subject, sandhi form of dhāraṇāgranthaḥ",
+     "morph": "compound=dhāraṇā+grantha; m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-taught",
+     "grounds": "verb",
+     "morph": "3.sg.pres.pass √vac"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānyanayeṣv",
+     "gloss": "not-in-other-systems",
+     "grounds": "sandhi fusion of na, anya, nayeṣu",
+     "morph": "compound=na+anya+naya; m.loc.pl"
+    },
+    {
+     "surface": "iva",
+     "gloss": "as",
+     "grounds": "indeclinable particle of comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiñcana",
+     "gloss": "anything-at-all",
+     "grounds": "indefinite pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sphuritam",
+     "gloss": "manifested",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "verb",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun, sandhi form of yad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyataḥ",
+     "gloss": "in-truth",
+     "grounds": "ablative used adverbially",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyapade",
+     "gloss": "in-the-level-of-truth",
+     "grounds": "locative compound",
+     "morph": "compound=satya+pada; n.loc.sg"
+    },
+    {
+     "surface": "sthitibhāgināṃ",
+     "gloss": "of-those-sharing-abidance",
+     "grounds": "genitive plural compound",
+     "morph": "compound=sthiti+bhāgin; m.gen.pl"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "possibly",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "heyapade",
+     "gloss": "in-the-level-to-be-rejected",
+     "grounds": "locative compound",
+     "morph": "compound=heya+pada; n.loc.sg"
+    },
+    {
+     "surface": "nipatiṣyati",
+     "gloss": "will-fall",
+     "grounds": "verb",
+     "morph": "3.sg.fut.act √pat with ni"
+    }
+   ],
+   "question": "Why does this teaching present the whole range up to Śiva without rejecting other manifestations?",
+   "premises": [
+    "The text on concentrations teaches the range up to Śiva through many divisions.",
+    "Unlike in other systems, nothing manifested here is denied its reality.",
+    "For those abiding in the level of truth, nothing can fall into a merely rejectable level."
+   ],
+   "inference": "Because all manifestations are grounded in truth, the teaching can include the whole range without treating any part as ultimately rejectable.",
+   "uncertainties": [],
+   "plain_english": "The teaching on concentrations sets out the whole range up to Śiva in many divisions. Here, unlike in other systems, nothing that appears is unreal; so for those who abide in truth, what could possibly fall into the category of what must be rejected?"
+  },
+  {
+   "verse": 1070,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptadaśādhikāracaramaṃ",
+     "gloss": "final-of-seventeen-sections",
+     "grounds": "compound describing the culminating principle",
+     "morph": "compound=saptadaśa+adhikāra+carama; n.nom.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun, sandhi form of yad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ābhāsate",
+     "gloss": "appears",
+     "grounds": "verb",
+     "morph": "3.sg.pres.mid √bhās with ā"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun, sandhi form of tat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirṇītam",
+     "gloss": "determined",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anuttaraṃ",
+     "gloss": "unsurpassed",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivapadaṃ",
+     "gloss": "Śiva-state",
+     "grounds": "compound",
+     "morph": "compound=śiva+pada; n.nom.sg"
+    },
+    {
+     "surface": "saṃprāptikāmān",
+     "gloss": "those-desiring-attainment",
+     "grounds": "accusative plural compound",
+     "morph": "compound=saṃprāpti+kāma; m.acc.pl"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "indeclinable postposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun, sandhi form of etad",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sarvam",
      "gloss": "all",
-     "grounds": "the whole of it",
+     "grounds": "adjective",
      "morph": "n.nom.sg"
     },
     {
-     "surface": "etat",
-     "gloss": "this",
-     "grounds": "demonstrative referring to the preceding account",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "tu",
-     "gloss": "but",
-     "grounds": "contrastive particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "yujyate",
-     "gloss": "is-fitting",
-     "grounds": "is logically appropriate",
-     "morph": "3.sg.pres.pass.√yuj"
-    }
-   ],
-   "question": "Does the claim that a god comes and acts fit the true nature of reality?",
-   "premises": [
-    "The report that a god comes and acts may suit scriptural statements.",
-    "The ultimate nature is formless and beyond such limitations.",
-    "A doctrine must fit that ultimate nature to be fully valid."
-   ],
-   "inference": "The coming-and-going account is only scripturally suitable, while the formless nature is what truly fits.",
-   "uncertainties": [],
-   "plain_english": "Saying 'O god, he comes' is fitting only within scriptural statements; but all this is truly fitting only as the nature of the formless and so forth."
-  },
-  {
-   "verse": 1053,
-   "rows": [
-    {
-     "surface": "ātmaiva",
-     "gloss": "the-self-alone",
-     "grounds": "fused form emphasizing the self",
-     "morph": "m.nom.sg+eva"
-    },
-    {
-     "surface": "hi",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tathābhūtas",
-     "gloss": "being-such",
-     "grounds": "having that very nature",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "tathā",
-     "gloss": "so",
-     "grounds": "in that manner",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "bhāty",
-     "gloss": "appears",
-     "grounds": "shines or manifests",
-     "morph": "3.sg.pres.act.√bhā"
-    },
-    {
-     "surface": "eva",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "bhedataḥ",
-     "gloss": "through-division",
-     "grounds": "by way of differentiation",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "evaṃ",
-     "gloss": "thus",
-     "grounds": "manner adverb",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "svabhāva",
-     "gloss": "own-nature",
-     "grounds": "inherent character",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "evaiṣa",
-     "gloss": "indeed-this",
-     "grounds": "fused emphatic demonstrative",
-     "morph": "m.nom.sg+eva"
-    },
-    {
-     "surface": "saṃvido",
-     "gloss": "of-consciousness",
-     "grounds": "of awareness",
-     "morph": "f.gen.sg"
-    },
-    {
-     "surface": "yaḥ",
-     "gloss": "which",
-     "grounds": "relative pronoun",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "sa",
-     "gloss": "that",
-     "grounds": "correlative demonstrative",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "eva",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tu",
-     "gloss": "but",
-     "grounds": "contrastive particle",
-     "morph": "(indecl.)"
-    }
-   ],
-   "question": "What is the true source of the appearance of division?",
-   "premises": [
-    "The self alone has that ultimate nature.",
-    "The self appears in divided forms.",
-    "This appearing as division is the very nature of consciousness."
-   ],
-   "inference": "Division is not external to the self but is consciousness manifesting according to its own nature.",
-   "uncertainties": [],
-   "plain_english": "Indeed the self alone, being of that nature, appears just so through division; for this is the very nature of consciousness, and that alone is what appears."
-  },
-  {
-   "verse": 1054,
-   "rows": [
-    {
-     "surface": "bhedagrastatayā",
-     "gloss": "by-being-seized-by-division",
-     "grounds": "instrumental abstract expressing domination by difference",
-     "morph": "f.inst.sg"
-    },
-    {
-     "surface": "kārmo",
-     "gloss": "karmic",
-     "grounds": "related to action and its traces",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "malaḥ",
-     "gloss": "impurity",
-     "grounds": "defilement or limiting stain",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "śāstre",
-     "gloss": "in-scripture",
-     "grounds": "in the revealed teaching",
-     "morph": "n.loc.sg"
-    },
-    {
-     "surface": "nirūpyate",
-     "gloss": "is-defined",
-     "grounds": "is explained or determined",
-     "morph": "3.sg.pres.pass.√nirūp"
-    },
-    {
-     "surface": "dīkṣādikarmayoge",
-     "gloss": "in-connection-with-initiation-and-ritual-action",
-     "grounds": "compound locative referring to initiatory and ritual practice",
-     "morph": "m.loc.sg"
-    },
-    {
-     "surface": "tu",
-     "gloss": "but",
-     "grounds": "contrastive particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "na",
-     "gloss": "not",
-     "grounds": "negation",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "malatvaṃ",
-     "gloss": "impurity-status",
-     "grounds": "the condition of being an impurity",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "pratāyate",
-     "gloss": "is-understood",
-     "grounds": "is recognized or extended as such",
-     "morph": "3.sg.pres.pass.√tan"
-    }
-   ],
-   "question": "When is karmic differentiation treated as an impurity and when is it not?",
-   "premises": [
-    "Scripture defines karmic impurity as being seized by division.",
-    "Initiation and ritual action operate within differentiated forms.",
-    "In the context of initiation, that differentiation is not treated as impurity."
-   ],
-   "inference": "Karmic division counts as impurity in bondage but not in the liberating use of initiation and ritual.",
-   "uncertainties": [],
-   "plain_english": "In scripture the karmic impurity is defined as being seized by division; but in the practice of initiation and related rites, it is not regarded as an impurity."
-  },
-  {
-   "verse": 1055,
-   "rows": [
-    {
-     "surface": "sa",
-     "gloss": "that",
-     "grounds": "demonstrative referring to the karmic factor or rite context",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "hi",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "bhedamayāśeṣasaṃsāradahanavrataḥ",
-     "gloss": "vowed-to-burning-all-division-made-transmigration",
-     "grounds": "compound describing a vow to consume the whole world of division",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "dīkṣā",
-     "gloss": "initiation",
-     "grounds": "the initiatory rite",
-     "morph": "f.nom.sg"
+     "surface": "ihoditaṃ",
+     "gloss": "stated-here",
+     "grounds": "sandhi fusion of iha and uditam",
+     "morph": "compound=iha+udita; n.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "indeclinable conjunction",
      "morph": "(indecl.)"
     },
     {
-     "surface": "vastutas",
-     "gloss": "in-reality",
-     "grounds": "from the standpoint of true nature",
+     "surface": "jagadānande",
+     "gloss": "in-world-bliss",
+     "grounds": "locative compound referring to the text or state",
+     "morph": "compound=jagat+ānanda; m.loc.sg"
+    },
+    {
+     "surface": "vipakṣātmakaṃ",
+     "gloss": "of-opposing-nature",
+     "grounds": "compound adjective",
+     "morph": "compound=vipakṣa+ātmaka; n.nom.sg"
+    },
+    {
+     "surface": "bhedaprāṇatayā",
+     "gloss": "by-being-animated-by-difference",
+     "grounds": "instrumental compound giving reason",
+     "morph": "compound=bheda+prāṇatā; f.inst.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "indeclinable, sandhi form of yataḥ",
      "morph": "(indecl.)"
     },
     {
-     "surface": "tādṛksatyasaṃvitsvarūpiṇī",
-     "gloss": "having-the-nature-of-such-true-consciousness",
-     "grounds": "compound describing initiation as true awareness itself",
-     "morph": "f.nom.sg"
-    }
-   ],
-   "question": "What is initiation in its essential nature?",
-   "premises": [
-    "Initiation is directed toward burning away the whole division-made world of transmigration.",
-    "Its true function is not merely external ritual.",
-    "In reality it consists in true consciousness of that liberating kind."
-   ],
-   "inference": "Initiation is essentially the true consciousness that destroys division-based transmigration.",
-   "uncertainties": [],
-   "plain_english": "For initiation is vowed to burning away the entire world of transmigration made of division; and in reality it is of the nature of that true consciousness."
-  },
-  {
-   "verse": 1056,
-   "rows": [
-    {
-     "surface": "evaṃ",
-     "gloss": "thus",
-     "grounds": "manner adverb",
+     "surface": "'tra",
+     "gloss": "here",
+     "grounds": "indeclinable, sandhi form of atra",
      "morph": "(indecl.)"
     },
     {
-     "surface": "yo",
-     "gloss": "who",
-     "grounds": "relative pronoun",
+     "surface": "nikhilo",
+     "gloss": "entire",
+     "grounds": "adjective, sandhi form of nikhilaḥ",
      "morph": "m.nom.sg"
     },
     {
-     "surface": "veda",
-     "gloss": "knows",
-     "grounds": "understands",
-     "morph": "3.sg.perf.act.√vid"
-    },
-    {
-     "surface": "tattvenety",
-     "gloss": "in-truth-thus",
-     "grounds": "fused form with quotative particle",
-     "morph": "n.inst.sg+iti"
-    },
-    {
-     "surface": "uktaṃ",
-     "gloss": "it-is-said",
-     "grounds": "stated in scripture",
-     "morph": "n.nom.sg.ppp.√vac"
-    },
-    {
-     "surface": "cānuttare",
-     "gloss": "and-in-the-supreme",
-     "grounds": "fused connective and locative referring to the highest teaching",
-     "morph": "ca+m.loc.sg"
-    },
-    {
-     "surface": "naye",
-     "gloss": "in-the-doctrine",
-     "grounds": "in the system or path",
-     "morph": "m.loc.sg"
-    },
-    {
-     "surface": "evaṃ",
-     "gloss": "thus",
-     "grounds": "manner adverb",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "vijñānayoge",
-     "gloss": "in-the-yoga-of-realization",
-     "grounds": "in the discipline of direct knowledge",
-     "morph": "m.loc.sg"
-    },
-    {
-     "surface": "hi",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "śamite",
-     "gloss": "when-quieted",
-     "grounds": "locative absolute describing pacification",
-     "morph": "m.loc.sg.ppp.√śam"
-    },
-    {
-     "surface": "bhedagocare",
-     "gloss": "the-sphere-of-division",
-     "grounds": "the domain of differentiated perception",
-     "morph": "m.loc.sg"
-    }
-   ],
-   "question": "What is realized when the domain of division is pacified in the supreme teaching?",
-   "premises": [
-    "The supreme teaching states that one who knows thus knows in truth.",
-    "This knowledge arises in the yoga of realization.",
-    "In that yoga the sphere of division becomes quieted."
-   ],
-   "inference": "True knowledge in the supreme doctrine consists in realization when division is pacified.",
-   "uncertainties": [],
-   "plain_english": "Thus it is said in the supreme doctrine: one who knows in this way knows in truth; for in the yoga of realization, when the sphere of division is quieted, this is understood."
-  },
-  {
-   "verse": 1057,
-   "rows": [
-    {
-     "surface": "ātmaiva",
-     "gloss": "the-self-alone",
-     "grounds": "fused emphatic form",
-     "morph": "m.nom.sg+eva"
-    },
-    {
-     "surface": "śiva",
-     "gloss": "Śiva",
-     "grounds": "the supreme reality",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "evaikaḥ",
-     "gloss": "indeed-one",
-     "grounds": "fused emphatic form stressing unity",
-     "morph": "eva+m.nom.sg"
-    },
-    {
-     "surface": "ko",
-     "gloss": "what",
-     "grounds": "interrogative pronoun",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "bandhaḥ",
-     "gloss": "bondage",
-     "grounds": "state of being bound",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "kā",
-     "gloss": "what",
-     "grounds": "interrogative pronoun",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "connective particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "muktatā",
-     "gloss": "liberation-state",
-     "grounds": "the condition of being liberated",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "etaddīkṣāmahāsaṃvidpraveśāya",
-     "gloss": "for-entry-into-this-initiation-great-consciousness",
-     "grounds": "compound dative expressing purpose",
-     "morph": "m.dat.sg"
-    },
-    {
-     "surface": "tu",
-     "gloss": "but",
-     "grounds": "contrastive particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "bhaṇyate",
-     "gloss": "is-taught",
-     "grounds": "is explained",
-     "morph": "3.sg.pres.pass.√bhaṇ"
-    }
-   ],
-   "question": "If the self is one with Śiva, what meaning do bondage and liberation have?",
-   "premises": [
-    "In realization the self alone is Śiva, the one reality.",
-    "From that standpoint bondage and liberation lose their ultimate distinction.",
-    "Teaching still speaks of initiation to lead one into that great consciousness."
-   ],
-   "inference": "Bondage and liberation are pedagogical distinctions used to guide entry into the nondual consciousness where self is Śiva.",
-   "uncertainties": [],
-   "plain_english": "The self alone is Śiva, the one reality—so what bondage is there, and what liberation? Yet this is taught for the sake of entry into the great consciousness of initiation."
-  },
-  {
-   "verse": 1058,
-   "rows": [
-    {
-     "surface": "kriyāsvabhāvadīkṣāsau",
-     "gloss": "this-initiation-whose-nature-is-action",
-     "grounds": "fused compound referring to initiation characterized by ritual action",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "karmādimalahānaye",
-     "gloss": "for-removal-of-karmic-and-other-impurities",
-     "grounds": "dative of purpose",
-     "morph": "f.dat.sg"
-    },
-    {
-     "surface": "svabhāvakḷptaniyatibalākṣipteṣu",
-     "gloss": "in-actions-compelled-by-the-fixed-force-fashioned-by-nature",
-     "grounds": "compound locative plural describing karmic actions governed by inherent necessity",
-     "morph": "n.loc.pl"
-    },
-    {
-     "surface": "karmasu",
-     "gloss": "in-actions",
-     "grounds": "karmic deeds",
-     "morph": "n.loc.pl"
-    }
-   ],
-   "question": "How does action-based initiation remove karmic and other impurities?",
-   "premises": [
-    "There is an initiation whose nature is action.",
-    "Its purpose is the removal of karmic and other impurities.",
-    "It operates within actions compelled by a fixed force fashioned by nature."
-   ],
-   "inference": "Action-based initiation works by transforming karmic actions that are otherwise governed by fixed necessity.",
-   "uncertainties": [],
-   "plain_english": "This initiation, whose nature is action, is for the removal of karmic and other impurities, operating within actions that are driven by the fixed force fashioned by nature."
-  },
-  {
-   "verse": 1059,
-   "rows": [
-    {
-     "surface": "bhogo",
-     "gloss": "experience",
-     "grounds": "enjoyment or fruition",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "'sya",
-     "gloss": "of-him",
-     "grounds": "elided form of asya",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "yugapadyasmāt",
-     "gloss": "simultaneously-because",
-     "grounds": "fused adverb and causal particle",
-     "morph": "(indecl.)+yasmāt"
-    },
-    {
-     "surface": "kriyate",
-     "gloss": "is-effected",
-     "grounds": "is brought about",
-     "morph": "3.sg.pres.pass.√kṛ"
-    },
-    {
-     "surface": "mantraśaktitaḥ",
-     "gloss": "by-mantra-power",
-     "grounds": "through the power of mantra",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tathā",
-     "gloss": "likewise",
-     "grounds": "in that way",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "hi",
-     "gloss": "indeed",
-     "grounds": "emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "prāṇagā",
-     "gloss": "going-in-the-breath",
-     "grounds": "present in the vital current",
-     "morph": "m.nom.pl"
-    },
-    {
-     "surface": "deśakalākālādhvaniścayāḥ",
-     "gloss": "determinations-of-space-art-time-path",
-     "grounds": "compound naming limiting determinations along the paths of space, limited agency, and time",
-     "morph": "m.nom.pl"
-    }
-   ],
-   "question": "How can the fruition of karma be experienced simultaneously through initiation?",
-   "premises": [
-    "Initiation can bring about the experience of karma for the initiate.",
-    "This fruition can occur simultaneously through mantra power.",
-    "The limiting determinations of breath, space, limited agency, and time are thereby engaged."
-   ],
-   "inference": "Mantra power in initiation can compress and resolve karmic fruition across the usual limiting paths.",
-   "uncertainties": [
-    "The exact scope of deśakalākālādhvaniścayāḥ is compressed in the compound and follows traditional Trika categories."
-   ],
-   "plain_english": "Because his experience is brought about simultaneously through the power of mantra, the determinations belonging to breath, space, limited agency, and time are likewise brought into play."
-  },
-  {
-   "verse": 1060,
-   "rows": [
-    {
-     "surface": "jātayo",
-     "gloss": "births",
-     "grounds": "classes or states of birth",
-     "morph": "f.nom.pl"
-    },
-    {
-     "surface": "'sya",
-     "gloss": "of-him",
-     "grounds": "elided form of asya",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "pratāyante",
-     "gloss": "are-extended",
-     "grounds": "are unfolded or made manifest",
-     "morph": "3.pl.pres.pass.√tan"
-    },
-    {
-     "surface": "dharaṇyādiśivāntataḥ",
-     "gloss": "from-earth-up-to-Śiva",
-     "grounds": "compound indicating the full range of levels",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "tatraiva",
-     "gloss": "right-there",
-     "grounds": "fused emphatic locative adverb",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "janmasaṃbhogādhikāralayabhājanam",
-     "gloss": "becoming-subject-to-birth-experience-authority-and-dissolution",
-     "grounds": "compound describing undergoing birth, enjoyment, office, and dissolution",
-     "morph": "n.nom.sg"
-    }
-   ],
-   "question": "Across what range are the initiate's births and experiences unfolded?",
-   "premises": [
-    "The initiate's births are unfolded across the whole cosmic range.",
-    "That range extends from earth up to Śiva.",
-    "Within that range occur birth, experience, authority, and dissolution."
-   ],
-   "inference": "Initiatory transformation encompasses the full spectrum of existence from the lowest to the highest level.",
-   "uncertainties": [],
-   "plain_english": "His births are unfolded from earth all the way up to Śiva, and right there he becomes subject to birth, experience, authority, and dissolution."
-  },
-  {
-   "verse": 1061,
-   "rows": [
-    {
-     "surface": "vidhāyotkṛṣyate",
-     "gloss": "having-arranged-is-elevated",
-     "grounds": "absolutive plus passive verb indicating elevation after arrangement",
-     "morph": "abs.√vidhā+3.sg.pres.pass.√utkṛṣ"
-    },
-    {
-     "surface": "tasmād",
-     "gloss": "from-that",
-     "grounds": "ablative indicating source or reason",
-     "morph": "n.abl.sg"
-    },
-    {
-     "surface": "anyatra",
-     "gloss": "elsewhere",
-     "grounds": "to another place or level",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "connective particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "vidhīyate",
-     "gloss": "is-placed",
-     "grounds": "is appointed or established",
-     "morph": "3.sg.pres.pass.√vidhā"
-    },
-    {
-     "surface": "itthaṃ",
-     "gloss": "thus",
-     "grounds": "manner adverb",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "guror",
-     "gloss": "of-the-guru",
-     "grounds": "teacher",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "niścitasaṃvidātmarūḍheś",
-     "gloss": "of-the-established-consciousness-self-mounted-lord",
-     "grounds": "compound describing a guru or lord grounded in settled consciousness",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "ca",
-     "gloss": "and",
-     "grounds": "connective particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "śiṣyasya",
-     "gloss": "of-the-disciple",
-     "grounds": "student",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "paraspareṇa",
-     "gloss": "mutually",
-     "grounds": "by one another",
-     "morph": "m.inst.sg"
-    },
-    {
-     "surface": "niṣkarmacetor",
-     "gloss": "of-actionless-mind",
-     "grounds": "compound with truncated genitive form indicating minds free of karmic action",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "acitaiva",
-     "gloss": "by-the-unthought-alone",
-     "grounds": "fused instrumental-like form emphasizing non-conceptual means",
-     "morph": "f.inst.sg+eva"
-    },
-    {
-     "surface": "dīkṣā",
-     "gloss": "initiation",
-     "grounds": "the initiatory transmission",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "prākkarmaśaktīr",
-     "gloss": "prior-karmic-powers",
-     "grounds": "the potencies of previous actions",
-     "morph": "f.acc.pl"
-    },
-    {
-     "surface": "akhilā",
-     "gloss": "all",
-     "grounds": "without remainder",
-     "morph": "f.acc.pl"
-    },
-    {
-     "surface": "ruṇaddhi",
-     "gloss": "blocks",
-     "grounds": "obstructs or restrains",
-     "morph": "3.sg.pres.act.√rudh"
-    }
-   ],
-   "question": "How does initiation block all prior karmic powers between guru and disciple?",
-   "premises": [
-    "The initiate is elevated from one level and established in another.",
-    "Guru and disciple meet in a state grounded in settled consciousness and free of karmic mind.",
-    "Initiation operates through a non-conceptual transmission between them."
-   ],
-   "inference": "Mutual non-conceptual initiation between guru and disciple restrains all prior karmic powers.",
-   "uncertainties": [
-    "niṣkarmacetor is metrically compressed; taken as a genitive dual/collective sense in context."
-   ],
-   "plain_english": "Thus, having been arranged and elevated from one level and placed in another, initiation—through the mutual, non-conceptual meeting of a guru established in settled consciousness and a disciple of actionless mind—blocks all the powers of prior karma."
-  },
-  {
-   "verse": 1062,
-   "rows": [
-    {
-     "surface": "tatrāpi",
-     "gloss": "even-there",
-     "grounds": "fused locative adverb and particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "taṇḍulatilājyacaruprabandha",
-     "gloss": "series-of-rice-sesame-ghee-and-oblation",
-     "grounds": "compound listing ritual substances and procedures",
-     "morph": "m.nom.sg"
-    },
-    {
-     "surface": "ityādi",
-     "gloss": "and-so-forth",
-     "grounds": "indicates continuation of a list",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "śaivaniyatipratibhārakḷptam",
-     "gloss": "fashioned-by-the-appearance-of-Śaiva-necessity",
-     "grounds": "compound describing ritual forms shaped by Śaiva rule",
-     "morph": "n.nom.sg"
-    },
-    {
-     "surface": "tāvaty",
-     "gloss": "to-that-extent",
-     "grounds": "locative-like adverbial form indicating degree",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "api",
+     "surface": "'py",
      "gloss": "even",
-     "grounds": "inclusive particle",
+     "grounds": "indeclinable, sandhi form of api",
      "morph": "(indecl.)"
     },
     {
-     "surface": "sphuṭapade",
-     "gloss": "in-a-clear-stage",
-     "grounds": "in an explicit or manifest level",
-     "morph": "n.loc.sg"
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prapañcaḥ",
+     "gloss": "expanse",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "stands",
+     "grounds": "past participle used predicatively",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the culminating principle related to the Śiva-state and to the differentiated world?",
+   "premises": [
+    "The principle that appears as the culmination of the seventeen sections is determined as the unsurpassed Śiva-state for those desiring attainment.",
+    "All that is taught here in the Jagadānanda appears as of opposing nature.",
+    "This entire expanse stands here because it is animated by difference."
+   ],
+   "inference": "The culminating principle is identified with the unsurpassed Śiva-state, while the differentiated expanse is presented as its opposition-shaped manifestation for seekers.",
+   "uncertainties": [
+    "jagadānande may refer to a textual section or to bliss in the world; the reference is context-dependent."
+   ],
+   "plain_english": "Thus the principle that appears as the culmination of the seventeen sections is determined to be the unsurpassed state of Śiva for those who desire attainment. Everything taught here appears in an opposing form, because this entire expanse stands animated by difference."
+  },
+  {
+   "verse": 1071,
+   "rows": [
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāṇḍaḥ",
+     "gloss": "section",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvaro",
+     "gloss": "great-lord",
+     "grounds": "noun, sandhi form of maheśvaraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "noun, sandhi form of devaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśvātmatvena",
+     "gloss": "as-being-the-self-of-all",
+     "grounds": "instrumental compound expressing mode",
+     "morph": "compound=viśva+ātma+tva; n.inst.sg"
+    },
+    {
+     "surface": "saṃsthitaḥ",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramikajñānayogābhyāṃ",
+     "gloss": "by-gradual-knowledge-and-yoga",
+     "grounds": "instrumental dual compound",
+     "morph": "compound=kramika+jñāna+yoga; m.inst.du"
+    },
+    {
+     "surface": "dhāraṇābhir",
+     "gloss": "by-concentrations",
+     "grounds": "instrumental plural of dhāraṇā",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "upāsyate",
+     "gloss": "is-worshiped",
+     "grounds": "verb",
+     "morph": "3.sg.pres.pass √ās with upa"
+    }
+   ],
+   "question": "How is Maheśvara approached in the second section of the teaching?",
+   "premises": [
+    "The second section presents Maheśvara as established as the self of all.",
+    "He is approached through gradual knowledge and yoga.",
+    "He is also approached through concentrations."
+   ],
+   "inference": "In the second section, Maheśvara is worshiped as the universal self through graded knowledge, yoga, and concentrations.",
+   "uncertainties": [],
+   "plain_english": "Thus, in the second section, the great Lord is established as the self of all and is worshiped through gradual knowledge and yoga, and through concentrations."
+  },
+  {
+   "verse": 1072,
+   "rows": [
+    {
+     "surface": "tattvakramaṃ",
+     "gloss": "sequence-of-principles",
+     "grounds": "accusative compound object",
+     "morph": "compound=tattva+krama; m.acc.sg"
+    },
+    {
+     "surface": "gatadvaitamalamāyādijālakam",
+     "gloss": "with-net-of-duality-impurity-māyā-and-so-on-gone",
+     "grounds": "compound describing the purified sequence",
+     "morph": "compound=gata+dvaita+mala+māyā+ādi+jālaka; m.acc.sg"
+    },
+    {
+     "surface": "aṣṭādaśe",
+     "gloss": "in-the-eighteenth",
+     "grounds": "locative of ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṭale",
+     "gloss": "in-chapter",
+     "grounds": "locative of paṭala",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samyag",
+     "gloss": "fully",
+     "grounds": "indeclinable adverb, sandhi form of samyak",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhāvyate",
+     "gloss": "is-expounded",
+     "grounds": "verb",
+     "morph": "3.sg.pres.pass √bhū with vi causative"
+    }
+   ],
+   "question": "What is expounded in the eighteenth chapter regarding the principles?",
+   "premises": [
+    "The eighteenth chapter takes up the sequence of principles.",
+    "That sequence is presented with the net of duality, impurity, māyā, and so on removed.",
+    "The principle is fully expounded there."
+   ],
+   "inference": "The eighteenth chapter fully expounds the purified sequence of principles beyond duality, impurity, and māyā.",
+   "uncertainties": [],
+   "plain_english": "In the eighteenth chapter, the sequence of principles is fully expounded as freed from the net of duality, impurity, māyā, and the like."
+  },
+  {
+   "verse": 1073,
+   "rows": [
+    {
+     "surface": "prāṇāyāmādikaṃ",
+     "gloss": "breath-control-and-so-on",
+     "grounds": "compound subject",
+     "morph": "compound=prāṇāyāma+ādika; n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "heyam",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "indeclinable, sandhi form of iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇyate",
+     "gloss": "is-described",
+     "grounds": "verb",
+     "morph": "3.sg.pres.pass √varṇ"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "indeclinable negation",
      "morph": "(indecl.)"
     },
     {
-     "surface": "niśāprapañco",
-     "gloss": "the-expanse-of-night",
-     "grounds": "compound metaphorically suggesting obscurity or darkness",
-     "morph": "m.nom.sg"
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "nirmūlatām",
-     "gloss": "rootlessness",
-     "grounds": "state of being without foundation",
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive demonstrative",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying vittiṃ",
      "morph": "f.acc.sg"
     },
     {
-     "surface": "upagato",
-     "gloss": "has-attained",
-     "grounds": "has reached",
-     "morph": "m.nom.sg.ppp.√upagam"
+     "surface": "vittiṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
     },
     {
-     "surface": "'pi",
-     "gloss": "even",
-     "grounds": "elided form of api",
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "indeclinable postposition",
      "morph": "(indecl.)"
     },
     {
-     "surface": "vibhedavṛtteḥ",
-     "gloss": "because-of-the-operation-of-division",
-     "grounds": "ablative/genitive sense indicating the persistence of differentiation",
-     "morph": "f.abl.sg"
+     "surface": "kācid",
+     "gloss": "any",
+     "grounds": "indefinite pronoun, sandhi form of kācit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "upāyatā",
+     "gloss": "state-of-being-a-means",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
     }
    ],
-   "question": "Do external Śaiva ritual forms fully eliminate the obscurity of division?",
+   "question": "Why are practices like breath control described as to be abandoned here?",
    "premises": [
-    "Śaiva ritual employs substances like rice, sesame, ghee, and oblations.",
-    "These forms are fashioned according to Śaiva necessity and operate at a clear level.",
-    "Even so, division continues to operate."
+    "Breath control and similar practices are described as to be abandoned in this context.",
+    "They do not function as a means to supreme knowledge.",
+    "What is not a means to the highest knowledge is set aside at this level."
    ],
-   "inference": "External ritual forms do not completely uproot the obscurity of division because differentiation still persists.",
-   "uncertainties": [
-    "niśāprapañco is metaphorical; interpreted as the expanse of obscurity rather than literal night."
+   "inference": "Practices such as breath control are rejected here because they do not serve as means to supreme knowledge.",
+   "uncertainties": [],
+   "plain_english": "Here, practices such as breath control are described as to be abandoned, because they are not a means to supreme knowledge."
+  },
+  {
+   "verse": 1074,
+   "rows": [
+    {
+     "surface": "antaḥ",
+     "gloss": "within",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvidi",
+     "gloss": "in-consciousness",
+     "grounds": "locative of saṃvid",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yan",
+     "gloss": "what",
+     "grounds": "relative pronoun, sandhi form of yad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirūḍham",
+     "gloss": "firmly-established",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhitas",
+     "gloss": "completely",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṇadhīvigrahe",
+     "gloss": "in-body-of-breath-and-mind",
+     "grounds": "locative compound",
+     "morph": "compound=prāṇa+dhī+vigraha; m.loc.sg"
+    },
+    {
+     "surface": "saṃcāryeta",
+     "gloss": "could-be-moved",
+     "grounds": "verb",
+     "morph": "3.sg.opt.pass √car with sam"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "indeclinable interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatheti",
+     "gloss": "thus",
+     "grounds": "sandhi fusion of tathā and iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭatām",
+     "gloss": "let-be-possible",
+     "grounds": "imperative verb",
+     "morph": "3.sg.imper.act √ghaṭ"
+    },
+    {
+     "surface": "abhyāsayogakramaḥ",
+     "gloss": "method-of-practice-and-yoga",
+     "grounds": "compound subject",
+     "morph": "compound=abhyāsa+yoga+krama; m.nom.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tv",
+     "gloss": "but",
+     "grounds": "indeclinable, sandhi form of tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyāsapathena",
+     "gloss": "by-path-of-practice",
+     "grounds": "instrumental compound",
+     "morph": "compound=abhyāsa+patha; m.inst.sg"
+    },
+    {
+     "surface": "saṃvidam",
+     "gloss": "consciousness",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "imāṃ",
+     "gloss": "this",
+     "grounds": "demonstrative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃskartum",
+     "gloss": "to-refine",
+     "grounds": "infinitive",
+     "morph": "inf. √kṛ with sam"
+    },
+    {
+     "surface": "abhyudyatās",
+     "gloss": "striving",
+     "grounds": "nominative plural participle, sandhi form of abhyudyatāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kutra",
+     "gloss": "where",
+     "grounds": "indeclinable interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "from-where",
+     "grounds": "indeclinable interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "indeclinable interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidadhatām",
+     "gloss": "should-accomplish",
+     "grounds": "imperative verb, third person plural",
+     "morph": "3.pl.imper.act √dhā with vi"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "indeclinable, sandhi form of iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃdihmahe",
+     "gloss": "we-doubt",
+     "grounds": "verb",
+     "morph": "1.pl.pres.mid √dih with sam"
+    }
    ],
-   "plain_english": "Even there, the series of rice, sesame, ghee, oblations, and so forth—fashioned according to Śaiva necessity—does not, even at a clear stage, make the expanse of obscurity rootless, because division still continues to operate."
+   "question": "How could consciousness established within itself be produced by external practice?",
+   "premises": [
+    "What is firmly established within consciousness cannot be transferred into the body of breath and mind.",
+    "If one still insists, a method of practice and yoga may be proposed.",
+    "But those who try to refine consciousness by practice face insoluble questions about what, where, from where, and how they would do it."
+   ],
+   "inference": "Because consciousness is already inwardly established, attempts to produce or refine it through external practice are fundamentally doubtful.",
+   "uncertainties": [],
+   "plain_english": "What is firmly established within consciousness cannot be moved into the apparatus of breath and mind; so how could a method of practice make that happen? If some still strive to refine consciousness through practice, we doubt what they could accomplish, where, from what basis, and how."
   }
  ]
 }

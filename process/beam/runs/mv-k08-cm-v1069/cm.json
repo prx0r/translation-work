@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "śivāntaṃ",
-   "morph": "śiva+anta (compound) n.acc.sg",
-   "grounds": "compound describing range"
+   "morph": "compound=śiva+anta; n.acc.sg",
+   "grounds": "accusative compound describing the range"
   },
   {
    "lemma": "bahudhā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb"
+   "grounds": "indeclinable"
   },
   {
    "lemma": "bhedair",
-   "morph": "m.ins.pl",
-   "grounds": "instrumental of manner"
+   "morph": "m.inst.pl",
+   "grounds": "instrumental plural of bheda"
   },
   {
    "lemma": "dhāraṇāgrantha",
-   "morph": "dhāraṇā+grantha (compound) m.nom.sg",
-   "grounds": "compound subject"
+   "morph": "compound=dhāraṇā+grantha; m.nom.sg",
+   "grounds": "compound subject, sandhi form of dhāraṇāgranthaḥ"
   },
   {
    "lemma": "ucyate",
-   "morph": "3.sg.pass-pres √vac",
-   "grounds": "passive verb"
+   "morph": "3.sg.pres.pass √vac",
+   "grounds": "verb"
   },
   {
    "lemma": "iha",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb"
+   "grounds": "indeclinable"
   },
   {
    "lemma": "hi",
    "morph": "(indecl.)",
-   "grounds": "indeclinable particle"
+   "grounds": "indeclinable"
   },
   {
    "lemma": "nānyanayeṣv",
-   "morph": "na+anya+naya (compound) m.loc.pl",
-   "grounds": "negated locative compound with sandhi"
+   "morph": "compound=na+anya+naya; m.loc.pl",
+   "grounds": "sandhi fusion of na, anya, nayeṣu"
   },
   {
    "lemma": "iva",
@@ -59,8 +59,8 @@
   },
   {
    "lemma": "asti",
-   "morph": "3.sg.act-pres √as",
-   "grounds": "verb of existence"
+   "morph": "3.sg.pres.act √as",
+   "grounds": "verb"
   },
   {
    "lemma": "na",
@@ -70,7 +70,7 @@
   {
    "lemma": "yat",
    "morph": "n.nom.sg",
-   "grounds": "relative pronoun"
+   "grounds": "relative pronoun, sandhi form of yad"
   },
   {
    "lemma": "kila",
@@ -79,8 +79,8 @@
   },
   {
    "lemma": "satyataḥ",
-   "morph": "(indecl.)",
-   "grounds": "ablative adverbial form"
+   "morph": "f.abl.sg",
+   "grounds": "ablative used adverbially"
   },
   {
    "lemma": "tad",
@@ -90,17 +90,17 @@
   {
    "lemma": "iha",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb"
+   "grounds": "indeclinable"
   },
   {
    "lemma": "satyapade",
-   "morph": "satya+pada (compound) n.loc.sg",
+   "morph": "compound=satya+pada; n.loc.sg",
    "grounds": "locative compound"
   },
   {
    "lemma": "sthitibhāgināṃ",
-   "morph": "sthiti+bhāgin (compound) m.gen.pl",
-   "grounds": "compound describing participants"
+   "morph": "compound=sthiti+bhāgin; m.gen.pl",
+   "grounds": "genitive plural compound"
   },
   {
    "lemma": "kim",
@@ -114,13 +114,13 @@
   },
   {
    "lemma": "heyapade",
-   "morph": "heya+pada (compound) n.loc.sg",
+   "morph": "compound=heya+pada; n.loc.sg",
    "grounds": "locative compound"
   },
   {
    "lemma": "nipatiṣyati",
-   "morph": "3.sg.act-fut √pat",
-   "grounds": "future verb"
+   "morph": "3.sg.fut.act √pat with ni",
+   "grounds": "verb"
   }
  ]
 }

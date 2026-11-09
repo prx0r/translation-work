@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "mudrāmaṇḍalasaṃghātaḥ",
-   "morph": "mudrā+maṇḍala+saṃghāta (compound) m.nom.sg",
+   "morph": "compound=mudrā+maṇḍala+saṃghāta; m.nom.sg",
    "grounds": "compound subject"
   },
   {
    "lemma": "samantratantracarcitaḥ",
-   "morph": "sa+mantra+tantra+carcita (compound) m.nom.sg",
-   "grounds": "compound describing the assemblage"
+   "morph": "compound=sa+mantra+tantra+carcita; m.nom.sg",
+   "grounds": "past participle describing the assemblage"
   },
   {
    "lemma": "yatra",
@@ -19,23 +19,23 @@
   },
   {
    "lemma": "yogādikaṃ",
-   "morph": "yoga+ādika (compound) n.nom.sg",
+   "morph": "compound=yoga+ādika; n.nom.sg",
    "grounds": "compound object"
   },
   {
    "lemma": "sarvaṃ",
    "morph": "n.nom.sg",
-   "grounds": "adjective qualifying yoga and so on"
+   "grounds": "adjective qualifying yogādikaṃ"
   },
   {
    "lemma": "phaladānāya",
-   "morph": "phala+dāna (compound) n.dat.sg",
+   "morph": "compound=phala+dāna; n.dat.sg",
    "grounds": "dative of purpose"
   },
   {
    "lemma": "kalpate",
-   "morph": "3.sg.mid-pres √kḷp",
-   "grounds": "verb expressing suitability"
+   "morph": "3.sg.pres.mid √kḷp",
+   "grounds": "verb"
   }
  ]
 }
