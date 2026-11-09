@@ -394,8 +394,14 @@ def run_recon(t: dict) -> tuple[bool, str]:
 
 TAL_GLOSS_SYS = ('You gloss Sanskrit verse tokens for a translation pipeline. '
                  'Output ONLY JSON matching the schema. Glosses: lowercase English, '
-                 'hyphen-joined, no parens, no quotes, max 6 parts. Grounds: morphology '
-                 '+ which L1/L2 line supports it. Never invent; mark uncertainty in grounds.')
+                 'hyphen-joined, no parens, no quotes, max 6 parts. '
+                 'GLOSS IS MEANING ONLY — never grammatical labels: no case words '
+                 '(genitive, dative, locative, etc.), no number words (singular, '
+                 'dual, plural), no part-of-speech words (noun, verb, adjective, '
+                 'participle, compound, sandhi), no person/tense words. '
+                 '"rājñaḥ" = "of-the-king", NEVER "king-genitive-singular". '
+                 'Grounds: morphology + which L1/L2 line supports it. '
+                 'Never invent; mark uncertainty in grounds.')
 
 
 def _not_lower(g: str) -> bool:
