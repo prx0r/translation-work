@@ -1,0 +1,1407 @@
+{
+ "song": "mv-k08",
+ "items": [
+  {
+   "verse": 1147,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun, object of āśrayati",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āśrayati",
+     "gloss": "resorts-to",
+     "grounds": "verb governing yad",
+     "morph": "3.sg.act.pres ā-śri"
+    },
+    {
+     "surface": "śaivī",
+     "gloss": "Śaiva",
+     "grounds": "adjective qualifying sā parā devī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying devī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject of āśrayati",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "from-that",
+     "grounds": "ablative adverb, indicating consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svātantryahelānirmeye",
+     "gloss": "fashioned-by-play-of-freedom",
+     "grounds": "compound adjective qualifying bhāvaughe (v1148): svātantrya-helā-nirmeya",
+     "morph": "m.loc.sg compound=svātantrya+helā+nirmeya"
+    },
+    {
+     "surface": "tattadarthakriyāmaye",
+     "gloss": "consisting-of-various-efficacies",
+     "grounds": "compound adjective qualifying bhāvaughe (v1148): tat-tad-artha-kriyā-maya",
+     "morph": "m.loc.sg compound=tat+tad+artha+kriyā+maya"
+    }
+   ],
+   "question": "What does the supreme Śaiva goddess resort to after that state?",
+   "premises": [
+    "The supreme Śaiva goddess resorts to a further domain.",
+    "That domain is fashioned by the play of her freedom.",
+    "That domain consists of manifold efficacies."
+   ],
+   "inference": "After the prior state, the supreme Śaiva goddess turns to the stream of phenomena created by her autonomous play and filled with diverse efficacies.",
+   "uncertainties": [
+    "The antecedent of yad/tataḥ depends on the immediately preceding verses (1145–1146)."
+   ],
+   "plain_english": "Then that supreme Śaiva goddess resorts again to the stream of phenomena, which is fashioned by the play of her freedom and consists of manifold efficacies."
+  },
+  {
+   "verse": 1148,
+   "rows": [
+    {
+     "surface": "bhāvaughe",
+     "gloss": "in-stream-of-phenomena",
+     "grounds": "locative domain qualified by adjectives from v1147",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sotsukaunmukhyavimarśarasayogataḥ",
+     "gloss": "joined-to-savor-of-eager-awakening-awareness",
+     "grounds": "compound adverbial/ablative: sa-utsuka-unmukhya-vimarśa-rasa-yoga-taḥ",
+     "morph": "(indecl.) compound=sa+utsuka+unmukhya+vimarśa+rasa+yoga+tas"
+    },
+    {
+     "surface": "viśeṣaspandasadbhūmiṃ",
+     "gloss": "true-ground-of-particular-vibration",
+     "grounds": "compound object of saṃspṛśya: viśeṣa-spanda-sat-bhūmi",
+     "morph": "f.acc.sg compound=viśeṣa+spanda+sat+bhūmi"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "appositive to viśeṣaspandasadbhūmiṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃspṛśya",
+     "gloss": "having-touched",
+     "grounds": "absolutive participle",
+     "morph": "(gerund) sam-spṛś"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "abides",
+     "grounds": "main verb, subject is the goddess from v1147",
+     "morph": "3.sg.mid.pres vṛt"
+    }
+   ],
+   "question": "How does the goddess abide within the stream of phenomena?",
+   "premises": [
+    "The goddess enters the stream of phenomena.",
+    "She is joined to the savor of eager, awakening reflective awareness.",
+    "She touches the true ground of particular vibration, which is Śakti."
+   ],
+   "inference": "Within the stream of phenomena, the goddess abides by contacting Śakti as the true ground of particular vibration, infused with eager reflective savor.",
+   "uncertainties": [],
+   "plain_english": "In that stream of phenomena, joined to the savor of eager, awakening awareness, she touches Śakti—the true ground of particular vibration—and abides there."
+  },
+  {
+   "verse": 1149,
+   "rows": [
+    {
+     "surface": "etenādhiṣṭhitā",
+     "gloss": "presided-over-by-this",
+     "grounds": "compound: etena + adhiṣṭhitā; subject svamantrāḥ",
+     "morph": "f.nom.pl compound=etena+adhiṣṭhitā"
+    },
+    {
+     "surface": "dhāmnā",
+     "gloss": "by-power",
+     "grounds": "instrumental, refers to Śakti/power in v1148",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "svamantrāstatprakāśane",
+     "gloss": "own-mantras-in-its-manifestation",
+     "grounds": "sandhi fusion marked by editor: svamantrāḥ + tat-prakāśane; kept as one token",
+     "morph": "compound=sva+mantrāḥ+tat+prakāśana (sandhi @-style fusion in token)"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "attain",
+     "grounds": "main verb",
+     "morph": "3.pl.act.pres yā"
+    },
+    {
+     "surface": "svātantrayogitvaṃ",
+     "gloss": "state-of-possessing-autonomy",
+     "grounds": "compound object: svātantrya-yogitva",
+     "morph": "n.acc.sg compound=svātantrya+yogitva"
+    },
+    {
+     "surface": "vicitrāsvapi",
+     "gloss": "even-in-various",
+     "grounds": "sandhi: vicitrāsu + api; locative plural adjective with particle",
+     "morph": "f.loc.pl + (indecl.)"
+    },
+    {
+     "surface": "siddhiṣu",
+     "gloss": "in-accomplishments",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "What effect does this presiding power have on one's own mantras?",
+   "premises": [
+    "The mantras are presided over by this power.",
+    "In its manifestation the mantras become active.",
+    "They attain the state of possessing autonomy even amid various accomplishments."
+   ],
+   "inference": "When empowered by this Śakti, one's own mantras gain autonomy and function freely even in diverse accomplishments.",
+   "uncertainties": [
+    "The fused token svamantrāstatprakāśane contains internal sandhi; analyzed as a single surface unit per instruction."
+   ],
+   "plain_english": "Presided over by this power, one's own mantras, in its manifestation, attain autonomy even in the midst of various accomplishments."
+  },
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "hānādānatiraskāravṛttau",
+     "gloss": "in-activity-beyond-rejection-and-acceptance",
+     "grounds": "compound locative: hāna-ādāna-tiraskāra-vṛtti",
+     "morph": "f.loc.sg compound=hāna+ādāna+tiraskāra+vṛtti"
+    },
+    {
+     "surface": "rūḍhim",
+     "gloss": "firm-establishment",
+     "grounds": "object of upāgataḥ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upāgataḥ",
+     "gloss": "having-attained",
+     "grounds": "past participle describing the yogin",
+     "morph": "m.nom.sg past-part upa-ā-gam"
+    },
+    {
+     "surface": "sarvabhāsanayogena",
+     "gloss": "through-connection-with-all-manifestation",
+     "grounds": "compound instrumental: sarva-bhāsana-yoga",
+     "morph": "m.inst.sg compound=sarva+bhāsana+yoga"
+    },
+    {
+     "surface": "bhāsamānaṃ",
+     "gloss": "shining-forth",
+     "grounds": "present participle qualifying dṛśyaṃ (v1151)",
+     "morph": "n.acc.sg pres-part bhās"
+    },
+    {
+     "surface": "cidātmanā",
+     "gloss": "as-consciousness-self",
+     "grounds": "compound instrumental: cit-ātman",
+     "morph": "m.inst.sg compound=cit+ātman"
+    }
+   ],
+   "question": "What stance does the yogin attain toward manifestation?",
+   "premises": [
+    "The yogin becomes firmly established in activity beyond rejection and acceptance.",
+    "All that appears shines forth through its connection with universal manifestation.",
+    "What shines forth does so as consciousness itself."
+   ],
+   "inference": "Established beyond acceptance and rejection, the yogin recognizes all manifestation as shining forth in the nature of consciousness.",
+   "uncertainties": [],
+   "plain_english": "Having become firmly established in a mode beyond rejection and acceptance, he sees everything shining forth, through its connection with all manifestation, as consciousness itself."
+  },
+  {
+   "verse": 1151,
+   "rows": [
+    {
+     "surface": "abhedavṛttitaḥ",
+     "gloss": "from-non-difference-mode",
+     "grounds": "compound ablative/adverbial: abheda-vṛtti-tas",
+     "morph": "(indecl.) compound=abheda+vṛtti+tas"
+    },
+    {
+     "surface": "paśyan",
+     "gloss": "seeing",
+     "grounds": "present participle describing the yogin",
+     "morph": "m.nom.sg pres-part dṛś"
+    },
+    {
+     "surface": "dṛśyaṃ",
+     "gloss": "the-visible",
+     "grounds": "object of paśyan",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "citicamatkṛteḥ",
+     "gloss": "from-wonder-of-consciousness",
+     "grounds": "compound ablative: citi-camatkṛti",
+     "morph": "f.abl.sg compound=citi+camatkṛti"
+    },
+    {
+     "surface": "arthakriyārthitādainyakāritāṃ",
+     "gloss": "causing-wretchedness-of-craving-for-efficacy",
+     "grounds": "compound object of vihāya (v1152): artha-kriyā-arthitā-dainya-kāritā",
+     "morph": "f.acc.sg compound=artha+kriyā+arthitā+dainya+kāritā"
+    },
+    {
+     "surface": "kātarāṃ",
+     "gloss": "timid",
+     "grounds": "adjective qualifying sthitm",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sthitm",
+     "gloss": "state",
+     "grounds": "object of vihāya (v1152); final consonant cluster as given",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What does the yogin abandon when seeing the visible as non-different from consciousness?",
+   "premises": [
+    "The yogin sees the visible from a mode of non-difference.",
+    "This seeing arises from the wonder of consciousness.",
+    "He abandons the timid state caused by wretched craving for practical efficacy."
+   ],
+   "inference": "Seeing the visible as non-different through the wonder of consciousness, the yogin gives up the anxious dependence on practical efficacy.",
+   "uncertainties": [],
+   "plain_english": "Seeing the visible from a stance of non-difference, through the wonder of consciousness, he abandons the timid state that comes from the wretched craving for practical results."
+  },
+  {
+   "verse": 1152,
+   "rows": [
+    {
+     "surface": "vihāya",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive participle",
+     "morph": "(gerund) vi-hā"
+    },
+    {
+     "surface": "yāvad",
+     "gloss": "as-long-as",
+     "grounds": "correlative adverb with tāvac",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsīta",
+     "gloss": "he-remains",
+     "grounds": "optative/imperative-like sense in correlative clause",
+     "morph": "3.sg.mid.opt ās"
+    },
+    {
+     "surface": "tāvac",
+     "gloss": "so-long",
+     "grounds": "correlative adverb with yāvad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chāṃbhavabhūmikām",
+     "gloss": "the-Śāmbhava-level",
+     "grounds": "compound object of āviśati: śāmbhava-bhūmikā (initial ch- as given)",
+     "morph": "f.acc.sg compound=śāmbhava+bhūmikā"
+    },
+    {
+     "surface": "bhairavīm",
+     "gloss": "Bhairava-like",
+     "grounds": "adjective qualifying bhūmikām/bhūmim",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āviśaty",
+     "gloss": "enters",
+     "grounds": "present participle/verb form in sandhi context (āviśati)",
+     "morph": "3.sg.act.pres ā-viś"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying bhūmim",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhūmim",
+     "gloss": "level",
+     "grounds": "object of āviśaty",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ayatnataḥ",
+     "gloss": "without-effort",
+     "grounds": "ablative/adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What level does the yogin enter after abandoning that timid state?",
+   "premises": [
+    "The yogin abandons the timid, efficacy-craving state.",
+    "As long as he remains in that abandonment, a transition occurs.",
+    "He effortlessly enters the Bhairava-like Śāmbhava and supreme level."
+   ],
+   "inference": "By remaining free of anxious craving, the yogin effortlessly enters the Bhairava Śāmbhava, the supreme level.",
+   "uncertainties": [
+    "chāṃbhavabhūmikām shows an initial consonant variation from expected śāmbhava; transcribed exactly as given."
+   ],
+   "plain_english": "Having abandoned that state, as long as he remains so, he effortlessly enters the Bhairava-like Śāmbhava level, the supreme state."
+  },
+  {
+   "verse": 1153,
+   "rows": [
+    {
+     "surface": "etadāviṣṭasaṃvitti",
+     "gloss": "one-whose-awareness-is-entered-by-this",
+     "grounds": "compound: etad-āviṣṭa-saṃvitti; describes the yogin",
+     "morph": "m.nom.sg compound=etad+āviṣṭa+saṃvitti"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "everything",
+     "grounds": "object of nirīkṣyate",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirīkṣyate",
+     "gloss": "is-seen",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass.pres nir-īkṣ"
+    },
+    {
+     "surface": "prakāśarūpatākrāntaṃ",
+     "gloss": "pervaded-by-nature-of-light",
+     "grounds": "compound participle qualifying sarvam: prakāśa-rūpatā-ākrānta",
+     "morph": "n.acc.sg compound=prakāśa+rūpatā+ākrānta"
+    },
+    {
+     "surface": "caitanyaṃ",
+     "gloss": "consciousness",
+     "grounds": "subject of prakāśate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "main verb of explanatory clause",
+     "morph": "3.sg.mid.pres prakāś"
+    }
+   ],
+   "question": "How does everything appear to one whose awareness is entered by this state?",
+   "premises": [
+    "The yogin's awareness is entered by the supreme Bhairava state.",
+    "He sees everything as pervaded by the nature of light.",
+    "Consciousness itself shines as that light."
+   ],
+   "inference": "For one entered by this state, all things are seen as pervaded by light because consciousness alone shines.",
+   "uncertainties": [],
+   "plain_english": "For one whose awareness is entered by this state, everything is seen as pervaded by the nature of light, for it is consciousness that shines."
+  },
+  {
+   "verse": 1154,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāprakāśaṃ",
+     "gloss": "and-the-unmanifest",
+     "grounds": "sandhi: ca + aprakāśam",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "prākāśyayogād",
+     "gloss": "from-connection-with-what-is-to-be-manifested",
+     "grounds": "compound ablative: prākāśya-yoga",
+     "morph": "m.abl.sg compound=prākāśya+yoga"
+    },
+    {
+     "surface": "eti",
+     "gloss": "attains",
+     "grounds": "verb",
+     "morph": "3.sg.act.pres i"
+    },
+    {
+     "surface": "prakāśatām",
+     "gloss": "state-of-manifestation",
+     "grounds": "object of eti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistarataḥ",
+     "gloss": "at-length",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "previously",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "made-clear",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg past-pass-part pra-kāś"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "subject of prakāśitam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why can the unmanifest not become manifest through connection with something else?",
+   "premises": [
+    "What is unmanifest does not become manifest merely by connection with something to be manifested.",
+    "This point has already been explained at length.",
+    "The reason is given as previously established."
+   ],
+   "inference": "Manifestation cannot be produced in the unmanifest by external relation, as has already been demonstrated.",
+   "uncertainties": [],
+   "plain_english": "And what is unmanifest does not attain manifestation merely by being connected with something to be manifested; this has already been explained at length."
+  },
+  {
+   "verse": 1155,
+   "rows": [
+    {
+     "surface": "mahāsāhasasaṃyogavilīnākhilavṛttikaḥ",
+     "gloss": "with-all-activities-dissolved-by-union-with-great-audacity",
+     "grounds": "compound: mahā-sāhasa-saṃyoga-vilīna-akhila-vṛttika; describes the yogin",
+     "morph": "m.nom.sg compound=mahā+sāhasa+saṃyoga+vilīna+akhila+vṛttika"
+    },
+    {
+     "surface": "puñjībhūtasvaraśmyoghanirbharībhūtamānasaḥ",
+     "gloss": "with-mind-filled-by-mass-of-concentrated-self-rays",
+     "grounds": "compound: puñjībhūta-sva-raśmi-ogha-nirbharībhūta-mānasa; describes the yogin",
+     "morph": "m.nom.sg compound=puñjībhūta+sva+raśmi+ogha+nirbharībhūta+mānasa"
+    }
+   ],
+   "question": "What inner condition characterizes the yogin in this intense practice?",
+   "premises": [
+    "All mental activities dissolve through union with great audacity.",
+    "The mind becomes filled by a concentrated mass of its own rays.",
+    "These two descriptions characterize the same yogin."
+   ],
+   "inference": "The yogin's state is marked by dissolution of all activities and saturation of the mind by concentrated self-radiance.",
+   "uncertainties": [
+    "svaraśmyogha contains internal sandhi (sva-raśmi-ogha) within the single token; analyzed without splitting the row."
+   ],
+   "plain_english": "All his activities dissolved through union with great audacity, his mind becomes wholly filled by a concentrated mass of his own rays."
+  },
+  {
+   "verse": 1156,
+   "rows": [
+    {
+     "surface": "akiṃciccintakaḥ",
+     "gloss": "thinking-of-nothing",
+     "grounds": "compound: a-kiṃcit-cintaka",
+     "morph": "m.nom.sg compound=a+kiṃcit+cintaka"
+    },
+    {
+     "surface": "spaṣṭadṛṣṭabhedojjhitasthitiḥ",
+     "gloss": "with-state-abandoning-clearly-seen-difference",
+     "grounds": "compound: spaṣṭa-dṛṣṭa-bheda-ujjhita-sthiti",
+     "morph": "m.nom.sg compound=spaṣṭa+dṛṣṭa+bheda+ujjhita+sthiti"
+    },
+    {
+     "surface": "yāvad",
+     "gloss": "as-long-as",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsīta",
+     "gloss": "he-remains",
+     "grounds": "optative verb",
+     "morph": "3.sg.mid.opt ās"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvoktā",
+     "gloss": "previously-described",
+     "grounds": "compound adjective: pūrva-uktā",
+     "morph": "f.nom.pl compound=pūrva+ukta"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmayaḥ",
+     "gloss": "levels",
+     "grounds": "subject of yānti (v1157)",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What happens when the yogin remains without thought and without clearly seen difference?",
+   "premises": [
+    "The yogin thinks of nothing.",
+    "He abandons the state of clearly seen difference.",
+    "As long as he remains thus, the previously described levels respond."
+   ],
+   "inference": "Remaining thought-free and beyond clearly seen difference brings the previously described levels into presence.",
+   "uncertainties": [],
+   "plain_english": "Thinking of nothing and having abandoned the state of clearly seen difference, as long as he remains so, the previously described levels come forward."
+  },
+  {
+   "verse": 1157,
+   "rows": [
+    {
+     "surface": "sāṃmukhyaṃ",
+     "gloss": "presence-before",
+     "grounds": "object of yānti",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "come-to",
+     "grounds": "main verb",
+     "morph": "3.pl.act.pres yā"
+    },
+    {
+     "surface": "saṃsārasadmadāhaikahetavaḥ",
+     "gloss": "sole-causes-of-burning-worldly-intoxication",
+     "grounds": "compound describing bhūmayaḥ: saṃsāra-sat-mada-dāha-eka-hetu",
+     "morph": "f.nom.pl compound=saṃsāra+sat+mada+dāha+eka+hetu"
+    },
+    {
+     "surface": "yaś",
+     "gloss": "and-which",
+     "grounds": "sandhi: yaḥ + ca (relative with particle)",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divyo",
+     "gloss": "divine",
+     "grounds": "adjective qualifying akṣasaṃghāto",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'kṣasaṃghāto",
+     "gloss": "aggregate-of-senses",
+     "grounds": "compound: akṣa-saṃghāta; initial apostrophe marks elision",
+     "morph": "m.nom.sg compound=akṣa+saṃghāta"
+    },
+    {
+     "surface": "bhedarūḍhitirohitaḥ",
+     "gloss": "overgrown-by-firm-sense-of-difference",
+     "grounds": "compound: bheda-rūḍhi-tirohita",
+     "morph": "m.nom.sg compound=bheda+rūḍhi+tirohita"
+    }
+   ],
+   "question": "Which levels and faculties come into play in this state?",
+   "premises": [
+    "The previously described levels come into presence.",
+    "These levels are the sole causes for burning away worldly intoxication.",
+    "The divine aggregate of senses, once overgrown by difference, is also involved."
+   ],
+   "inference": "The liberating levels and the divine senses, freed from the dominance of difference, present themselves to the yogin.",
+   "uncertainties": [
+    "The phrase saṃsārasadmadāhaikahetavaḥ can be read as burning worldly intoxication; the exact nuance of sat-mada is context-sensitive."
+   ],
+   "plain_english": "Those levels come into presence as the sole causes for burning away the intoxication of worldly existence, and so does the divine aggregate of senses that had been overgrown by the firm sense of difference."
+  },
+  {
+   "verse": 1158,
+   "rows": [
+    {
+     "surface": "svātantryapoṣakakrīḍāmātropakaraṇātmakaḥ",
+     "gloss": "whose-nature-is-play-nourishing-freedom-as-mere-instrument",
+     "grounds": "compound describing akṣasaṃghātaḥ: svātantrya-poṣaka-krīḍā-mātra-upakaraṇa-ātmaka",
+     "morph": "m.nom.sg compound=svātantrya+poṣaka+krīḍā+mātra+upakaraṇa+ātmaka"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimīlanāvandhyas",
+     "gloss": "not-barren-in-inward-turning",
+     "grounds": "sandhi: nimīlana-avandhyaḥ; compound adjective",
+     "morph": "m.nom.sg compound=nimīlana+avandhya"
+    },
+    {
+     "surface": "tiṣṭhaty",
+     "gloss": "stands",
+     "grounds": "verb",
+     "morph": "3.sg.act.pres sthā"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "adjective qualifying kṣaṇaṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "moment",
+     "grounds": "duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition does the inward-turning sense aggregate become fruitful?",
+   "premises": [
+    "The sense aggregate becomes an instrument of play that nourishes freedom.",
+    "It can remain fruitful in inward turning.",
+    "This fruitfulness occurs when it stands inwardly for even one moment."
+   ],
+   "inference": "When the senses, as instruments of freedom's play, remain fruitfully turned inward for a moment, a transformative result follows.",
+   "uncertainties": [],
+   "plain_english": "When that aggregate, whose nature is play that nourishes freedom, remains fruitfully turned inward for even a single moment, then—"
+  },
+  {
+   "verse": 1159,
+   "rows": [
+    {
+     "surface": "taddvāroditasaṃbodhamahājvālāvilāpitam",
+     "gloss": "melted-by-great-flame-of-awareness-risen-through-that-door",
+     "grounds": "compound: tad-dvāra-udita-saṃbodha-mahā-jvālā-vilāpita",
+     "morph": "n.nom.sg compound=tad+dvāra+udita+saṃbodha+mahā+jvālā+vilāpita"
+    },
+    {
+     "surface": "viśvam",
+     "gloss": "the-universe",
+     "grounds": "subject of abhyeti",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhyeti",
+     "gloss": "attains",
+     "grounds": "main verb",
+     "morph": "3.sg.act.pres abhi-i"
+    },
+    {
+     "surface": "paramānandasāgaraśāyitām",
+     "gloss": "state-of-resting-in-ocean-of-supreme-bliss",
+     "grounds": "compound object: paramānanda-sāgara-śāyitā",
+     "morph": "f.acc.sg compound=paramānanda+sāgara+śāyitā"
+    }
+   ],
+   "question": "What happens to the universe when awareness rises through that inward door?",
+   "premises": [
+    "Awareness rises through the door of inward turning.",
+    "Its great flame melts the universe's apparent solidity.",
+    "The universe then comes to rest in supreme bliss."
+   ],
+   "inference": "Through inwardly risen awareness, the universe is dissolved and comes to rest in the ocean of supreme bliss.",
+   "uncertainties": [],
+   "plain_english": "Then the universe, melted by the great flame of awareness that has arisen through that door, attains the state of resting in the ocean of supreme bliss."
+  },
+  {
+   "verse": 1160,
+   "rows": [
+    {
+     "surface": "tadrasāpānaviśrāntaḥ",
+     "gloss": "resting-in-drinking-that-savor",
+     "grounds": "compound: tad-rasa-āpāna-viśrānta",
+     "morph": "m.nom.sg compound=tad+rasa+āpāna+viśrānta"
+    },
+    {
+     "surface": "saṃviddevīḥ",
+     "gloss": "goddesses-of-awareness",
+     "grounds": "compound object of pratarpayan: saṃvid-devī",
+     "morph": "f.acc.pl compound=saṃvid+devī"
+    },
+    {
+     "surface": "pratarpayan",
+     "gloss": "satisfying",
+     "grounds": "present participle",
+     "morph": "m.nom.sg pres-part pra-tṛp (caus.)"
+    },
+    {
+     "surface": "acirād",
+     "gloss": "before-long",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eti",
+     "gloss": "attains",
+     "grounds": "main verb",
+     "morph": "3.sg.act.pres i"
+    },
+    {
+     "surface": "maraṇajanmatrāsavihīnatām",
+     "gloss": "freedom-from-fear-of-death-and-birth",
+     "grounds": "compound: maraṇa-janma-trāsa-vihīnatā",
+     "morph": "f.acc.sg compound=maraṇa+janma+trāsa+vihīnatā"
+    }
+   ],
+   "question": "What result comes from resting in the savor of that bliss?",
+   "premises": [
+    "The yogin rests in drinking the savor of supreme bliss.",
+    "He satisfies the goddesses of awareness.",
+    "This leads to freedom from fear of death and birth."
+   ],
+   "inference": "By abiding in that blissful savor and satisfying the powers of awareness, the yogin soon becomes free from fear of death and birth.",
+   "uncertainties": [],
+   "plain_english": "Resting in the drinking of that savor and satisfying the goddesses of awareness, he soon attains freedom from the fear of death and birth."
+  },
+  {
+   "verse": 1161,
+   "rows": [
+    {
+     "surface": "āśyānabhāvaṃ",
+     "gloss": "state-of-congealing",
+     "grounds": "object of gatā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "having-gone-to",
+     "grounds": "past participle describing sā (awareness)",
+     "morph": "f.nom.sg past-part gam"
+    },
+    {
+     "surface": "svasaṃviddehendriyajñeyamayatvam",
+     "gloss": "state-of-being-made-of-own-awareness-body-senses-and-knowns",
+     "grounds": "compound object of āptā: sva-saṃvid-deha-indriya-jñeya-mayatva",
+     "morph": "n.acc.sg compound=sva+saṃvid+deha+indriya+jñeya+mayatva"
+    },
+    {
+     "surface": "āptā",
+     "gloss": "having-attained",
+     "grounds": "past participle describing sā",
+     "morph": "f.nom.sg past-part āp"
+    },
+    {
+     "surface": "yuktyā",
+     "gloss": "by-method",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that-awareness",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāptavilīnabhāvāt",
+     "gloss": "from-attained-dissolved-state",
+     "grounds": "compound ablative: prāpta-vilīna-bhāva",
+     "morph": "m.abl.sg compound=prāpta+vilīna+bhāva"
+    },
+    {
+     "surface": "saṃvidghanaṃ",
+     "gloss": "mass-of-awareness",
+     "grounds": "compound adjective qualifying vapur",
+     "morph": "n.acc.sg compound=saṃvid+ghana"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "adjective qualifying vapur",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vapur",
+     "gloss": "body",
+     "grounds": "object of yāti",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "becomes",
+     "grounds": "main verb",
+     "morph": "3.sg.act.pres yā"
+    }
+   ],
+   "question": "How does awareness return to its own mass-like nature after congealing into body and world?",
+   "premises": [
+    "Awareness congeals and takes on the form of body, senses, and known objects.",
+    "By the proper method, that congealed state dissolves.",
+    "When dissolved, awareness becomes its own dense mass of consciousness."
+   ],
+   "inference": "Awareness that has congealed into body, senses, and objects returns, through dissolution, to its own dense conscious nature.",
+   "uncertainties": [],
+   "plain_english": "For awareness, having congealed and taken on the form of its own awareness, body, senses, and objects, returns by the proper method—once that state has dissolved—to its own dense body of consciousness."
+  },
+  {
+   "verse": 1162,
+   "rows": [
+    {
+     "surface": "yuktyā",
+     "gloss": "by-method",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yayaiva",
+     "gloss": "by-which-very",
+     "grounds": "sandhi: yayā + eva",
+     "morph": "f.inst.sg + (indecl.)"
+    },
+    {
+     "surface": "bāhyārthavivaśīkṛtacetasām",
+     "gloss": "of-those-whose-minds-are-overpowered-by-external-objects",
+     "grounds": "compound: bāhya-artha-vivaśīkṛta-cetas",
+     "morph": "m.gen.pl compound=bāhya+artha+vivaśīkṛta+cetas"
+    },
+    {
+     "surface": "vyutthitir",
+     "gloss": "emergence-outward",
+     "grounds": "subject of jāyate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb",
+     "morph": "3.sg.mid.pres jan"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "that-very",
+     "grounds": "sandhi: sā + eva",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "bhairavānandasaṃvidaḥ",
+     "gloss": "of-awareness-of-Bhairava-bliss",
+     "grounds": "compound: bhairava-ānanda-saṃvid",
+     "morph": "f.gen.sg compound=bhairava+ānanda+saṃvid"
+    }
+   ],
+   "question": "What method leads to the awareness of Bhairava's bliss?",
+   "premises": [
+    "Minds overpowered by external objects undergo outward emergence by a certain method.",
+    "That same method can be applied in reverse.",
+    "The very same method yields awareness of Bhairava's bliss."
+   ],
+   "inference": "The same method by which consciousness is drawn outward to objects can lead to the awareness of Bhairava's bliss.",
+   "uncertainties": [],
+   "plain_english": "By the very same method through which those whose minds are overpowered by external objects emerge outward, there arises the awareness of Bhairava's bliss."
+  },
+  {
+   "verse": 1163,
+   "rows": [
+    {
+     "surface": "tayaiva",
+     "gloss": "by-that-very",
+     "grounds": "sandhi: tayā + eva",
+     "morph": "f.inst.sg + (indecl.)"
+    },
+    {
+     "surface": "yoginīvaktrasaṃpradāyakramāptayā",
+     "gloss": "obtained-through-lineage-of-yogini-mouth",
+     "grounds": "compound: yoginī-vaktra-saṃpradāya-krama-āptā",
+     "morph": "f.inst.sg compound=yoginī+vaktra+saṃpradāya+krama+āpta"
+    },
+    {
+     "surface": "vidhūtakalmaṣāveśā",
+     "gloss": "with-entry-of-impurity-shaken-off",
+     "grounds": "compound: vidhūta-kalmaṣa-āveśa",
+     "morph": "f.nom.sg compound=vidhūta+kalmaṣa+āveśa"
+    },
+    {
+     "surface": "tiṣṭhate",
+     "gloss": "stands",
+     "grounds": "verb",
+     "morph": "3.sg.mid.pres sthā"
+    },
+    {
+     "surface": "cinmayī",
+     "gloss": "made-of-consciousness",
+     "grounds": "adjective qualifying sthitiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "state",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the consciousness-made state established through the yoginī transmission?",
+   "premises": [
+    "The same method is received through the lineage of the yoginī's mouth.",
+    "Through it the entry of impurity is shaken off.",
+    "The state that remains is made of consciousness."
+   ],
+   "inference": "Received through the yoginī-mouth transmission, that method removes impurity and establishes the consciousness-made state.",
+   "uncertainties": [],
+   "plain_english": "By that very method, received through the lineage of the yoginī's mouth, the entry of impurity is shaken off and the state made of consciousness stands firm."
+  },
+  {
+   "verse": 1164,
+   "rows": [
+    {
+     "surface": "vaktram",
+     "gloss": "mouth",
+     "grounds": "object of vikāsayati",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īṣad",
+     "gloss": "slightly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vikāsayati",
+     "gloss": "opens",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.pres caus. vi-kas"
+    },
+    {
+     "surface": "saṃvidaḥ",
+     "gloss": "of-awareness",
+     "grounds": "genitive, related to vaktram/cakrāḥ",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "adjective qualifying cakrāḥ (implied)",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "indriyanāḍyantaścakrākramaṇasaṃśrayāḥ",
+     "gloss": "resting-on-traversal-of-inner-circles-of-senses-and-channels",
+     "grounds": "compound: indriya-nāḍī-antaḥ-cakra-ākramaṇa-saṃśraya",
+     "morph": "f.nom.pl compound=indriya+nāḍī+antaḥ+cakra+ākramaṇa+saṃśraya"
+    }
+   ],
+   "question": "What inner structures are affected when the yogin slightly opens the mouth of awareness?",
+   "premises": [
+    "The yogin slightly opens the mouth of awareness.",
+    "All inner circles connected with senses and channels depend on this opening.",
+    "Their traversal is activated by that opening."
+   ],
+   "inference": "A slight opening of the mouth of awareness activates all inner circles and channels of the senses.",
+   "uncertainties": [
+    "The referent of sarvā is syntactically compressed; taken as all the cakra-structures implied by the compound."
+   ],
+   "plain_english": "When the yogin slightly opens the mouth of awareness, all the inner circles of the senses and channels, resting on that traversal, are activated."
+  },
+  {
+   "verse": 1165,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikāsaṃ",
+     "gloss": "expansion",
+     "grounds": "object of prayānti",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "grāhyārthabhedābhāvamayaṃ",
+     "gloss": "consisting-of-absence-of-difference-in-grasped-objects",
+     "grounds": "compound: grāhya-artha-bheda-abhāva-maya",
+     "morph": "m.acc.sg compound=grāhya+artha+bheda+abhāva+maya"
+    },
+    {
+     "surface": "haṭhāt",
+     "gloss": "suddenly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayānti",
+     "gloss": "go-to",
+     "grounds": "verb",
+     "morph": "3.pl.act.pres pra-yā"
+    },
+    {
+     "surface": "cidunmukhatvāt",
+     "gloss": "because-of-turning-toward-consciousness",
+     "grounds": "compound ablative: cit-unmukhatva",
+     "morph": "n.abl.sg compound=cit+unmukhatva"
+    },
+    {
+     "surface": "nīlapītādibhedavān",
+     "gloss": "having-differences-like-blue-and-yellow",
+     "grounds": "compound adjective describing grāhyagrāhakasaṃbandhabhedaḥ (v1166): nīla-pīta-ādi-bheda-vat",
+     "morph": "m.nom.sg compound=nīla+pīta+ādi+bheda+vat"
+    }
+   ],
+   "question": "What kind of expansion occurs when consciousness turns toward itself?",
+   "premises": [
+    "The inner structures are activated by the opening of awareness.",
+    "Because of turning toward consciousness, they expand suddenly.",
+    "That expansion consists in the absence of difference among grasped objects."
+   ],
+   "inference": "When consciousness turns toward itself, the system expands into a state where differences among grasped objects fall away.",
+   "uncertainties": [],
+   "plain_english": "Then, because of turning toward consciousness, they suddenly move into an expansion consisting in the absence of difference among grasped objects, even though differences like blue and yellow had appeared."
+  },
+  {
+   "verse": 1166,
+   "rows": [
+    {
+     "surface": "grāhyagrāhakasaṃbandhabhedaḥ",
+     "gloss": "difference-of-relation-between-grasped-and-grasper",
+     "grounds": "compound subject: grāhya-grāhaka-saṃbandha-bheda",
+     "morph": "m.nom.sg compound=grāhya+grāhaka+saṃbandha+bheda"
+    },
+    {
+     "surface": "sapadi",
+     "gloss": "at-once",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhidyate",
+     "gloss": "is-split",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass.pres bhid"
+    },
+    {
+     "surface": "yoginīvaktrasaṃrūḍhasaṃpradāyakramāptayā",
+     "gloss": "by-attainment-of-lineage-rooted-in-yogini-mouth",
+     "grounds": "compound instrumental: yoginī-vaktra-saṃrūḍha-saṃpradāya-krama-āptā",
+     "morph": "f.inst.sg compound=yoginī+vaktra+saṃrūḍha+saṃpradāya+krama+āpta"
+    }
+   ],
+   "question": "What breaks the difference between grasper and grasped?",
+   "premises": [
+    "The relation between grasper and grasped appears as a difference.",
+    "That difference is split at once.",
+    "The splitting occurs through attainment of the lineage rooted in the yoginī's mouth."
+   ],
+   "inference": "The subject-object difference is immediately broken through the yoginī-mouth transmission.",
+   "uncertainties": [],
+   "plain_english": "The difference in the relation between grasper and grasped is split at once through attainment of the lineage rooted in the yoginī's mouth."
+  },
+  {
+   "verse": 1167,
+   "rows": [
+    {
+     "surface": "sadyo",
+     "gloss": "immediately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "'nubhavadāyinyā",
+     "gloss": "by-experience-giving",
+     "grounds": "sandhi: anubhava-dāyinyā",
+     "morph": "f.inst.sg compound=anubhava+dāyinī"
+    },
+    {
+     "surface": "mudrayā",
+     "gloss": "by-seal",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mudritākhilaḥ",
+     "gloss": "with-all-sealed",
+     "grounds": "compound: mudrita-akhila",
+     "morph": "m.nom.sg compound=mudrita+akhila"
+    },
+    {
+     "surface": "sarvādhiṣṭhātṛcidrūpasākṣādbhairavatandritaḥ",
+     "gloss": "absorbed-in-direct-Bhairava-as-consciousness-form-presiding-over-all",
+     "grounds": "compound: sarva-adhiṣṭhātṛ-cid-rūpa-sākṣāt-bhairava-tandrita",
+     "morph": "m.nom.sg compound=sarva+adhiṣṭhātṛ+cid+rūpa+sākṣāt+bhairava+tandrita"
+    }
+   ],
+   "question": "What seals the yogin in this realization?",
+   "premises": [
+    "An experience-giving seal acts immediately.",
+    "By it the yogin is wholly sealed.",
+    "He becomes absorbed in direct Bhairava, the consciousness-form presiding over all."
+   ],
+   "inference": "The immediate seal of direct experience absorbs the yogin wholly in Bhairava as the all-presiding consciousness.",
+   "uncertainties": [
+    "tandritaḥ is read as absorbed/entranced; nuance depends on tantric usage."
+   ],
+   "plain_english": "Immediately, by the experience-giving seal, he is wholly sealed and absorbed in direct Bhairava, the consciousness-form that presides over all."
+  },
+  {
+   "verse": 1168,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vismayāviṣṭo",
+     "gloss": "entered-by-wonder",
+     "grounds": "compound: vismaya-āviṣṭa",
+     "morph": "m.nom.sg compound=vismaya+āviṣṭa"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.mid.pres labh"
+    },
+    {
+     "surface": "svātmasaṃvidam",
+     "gloss": "awareness-of-own-self",
+     "grounds": "compound object: sva-ātma-saṃvid",
+     "morph": "f.acc.sg compound=sva+ātma+saṃvid"
+    },
+    {
+     "surface": "tattaddṛśyodayāpāyayoge",
+     "gloss": "even-in-connection-with-arising-and-passing-of-various-objects",
+     "grounds": "compound locative: tat-tad-dṛśya-udaya-apāya-yoga",
+     "morph": "m.loc.sg compound=tat+tad+dṛśya+udaya+apāya+yoga"
+    },
+    {
+     "surface": "'py",
+     "gloss": "even",
+     "grounds": "sandhi: api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anapayatsthiti",
+     "gloss": "with-state-not-departing",
+     "grounds": "compound: an-apayāt-sthiti (describing the yogin)",
+     "morph": "m.nom.sg compound=an+apāya+sthiti"
+    }
+   ],
+   "question": "What does the yogin obtain when sealed in this wonder-filled absorption?",
+   "premises": [
+    "The yogin is entered by wonder.",
+    "He obtains awareness of his own self.",
+    "That awareness remains even amid the arising and passing of various objects."
+   ],
+   "inference": "In wonder-filled absorption, the yogin gains self-awareness that does not depart despite changing phenomena.",
+   "uncertainties": [],
+   "plain_english": "That yogin, filled with wonder, obtains awareness of his own self and remains in a state that does not depart even amid the arising and passing of various objects."
+  },
+  {
+   "verse": 1169,
+   "rows": [
+    {
+     "surface": "taḍāgavartinimnāmbu",
+     "gloss": "low-water-situated-in-a-tank",
+     "grounds": "compound subject: taḍāga-varti-nimna-ambu",
+     "morph": "n.nom.sg compound=taḍāga+varti+nimna+ambu"
+    },
+    {
+     "surface": "tannānyatra",
+     "gloss": "that-not-elsewhere",
+     "grounds": "sandhi: tat + na + anyatra",
+     "morph": "n.nom.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "flows",
+     "grounds": "verb",
+     "morph": "3.sg.mid.pres pra-vṛt"
+    },
+    {
+     "surface": "prayatnenāpi",
+     "gloss": "even-by-effort",
+     "grounds": "sandhi: prayatnena + api",
+     "morph": "m.inst.sg + (indecl.)"
+    },
+    {
+     "surface": "tanmātrapūraṇāya",
+     "gloss": "for-filling-only-that",
+     "grounds": "compound dative: tad-mātra-pūraṇa",
+     "morph": "n.dat.sg compound=tad+mātra+pūraṇa"
+    },
+    {
+     "surface": "yad",
+     "gloss": "because",
+     "grounds": "causal relative/conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣamam",
+     "gloss": "incapable",
+     "grounds": "adjective explaining why it does not flow elsewhere",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why does water in a low tank not flow elsewhere by effort?",
+   "premises": [
+    "Water situated low in a tank does not flow elsewhere.",
+    "Even effort cannot make it flow out.",
+    "It is incapable because it only fills that limited place."
+   ],
+   "inference": "Like low tank-water, a limited state cannot overflow elsewhere because it is only sufficient to fill itself.",
+   "uncertainties": [],
+   "plain_english": "Water lying low in a tank does not flow elsewhere, even with effort, because it is incapable of doing more than filling that place alone."
+  },
+  {
+   "verse": 1170,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvantaḥdvāravāridhārasaṃpūritaṃ",
+     "gloss": "but-filled-by-stream-of-water-through-inner-door",
+     "grounds": "compound: tu + antaḥ-dvāra-vāri-dhārā-saṃpūrita",
+     "morph": "n.nom.sg compound=tu+antaḥ+dvāra+vāri+dhārā+saṃpūrita"
+    },
+    {
+     "surface": "rasāt",
+     "gloss": "with-savor",
+     "grounds": "ablative/adverbial nuance",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "it-may-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt bhū"
+    },
+    {
+     "surface": "bhaveyustatpūrṇāḥ",
+     "gloss": "they-would-be-filled-by-that",
+     "grounds": "sandhi: bhaveyuḥ + tat-pūrṇāḥ",
+     "morph": "3.pl.act.opt bhū + m.nom.pl compound=tad+pūrṇa"
+    },
+    {
+     "surface": "pravāhāḥ",
+     "gloss": "streams",
+     "grounds": "subject of bhaveyuḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvatomukhāḥ",
+     "gloss": "facing-all-directions",
+     "grounds": "compound adjective: sarvatas-mukha",
+     "morph": "m.nom.pl compound=sarvatas+mukha"
+    }
+   ],
+   "question": "What happens when the inner source fills the system abundantly?",
+   "premises": [
+    "The inner door can pour in a stream of water.",
+    "When filled by that inner stream, the system overflows.",
+    "The resulting streams flow in all directions."
+   ],
+   "inference": "When filled from the inner source, consciousness overflows outward in streams facing all directions.",
+   "uncertainties": [
+    "The compound tvantaḥdvāravāridhārasaṃpūritaṃ is read as tu + antaḥ-dvāra-vāri-dhārā-saṃpūritaṃ; internal sandhi is within the single token."
+   ],
+   "plain_english": "But when it is filled with savor by a stream of water flowing through the inner door, then streams filled by that overflow in all directions."
+  }
+ ]
+}
