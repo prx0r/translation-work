@@ -1,56 +1,56 @@
 {
- "song": "...",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 333,
  "rows": [
   {
    "lemma": "parā",
    "morph": "f.nom.sg",
-   "grounds": "gloss 'supreme'; nominative singular feminine form"
+   "grounds": "adjective"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "gloss 'but'; indeclinable particle"
+   "morph": "(indecl.)",
+   "grounds": "particle"
   },
   {
    "lemma": "mātṛkā",
    "morph": "f.nom.sg",
-   "grounds": "gloss 'mother-matrix'; nominative singular feminine form"
+   "grounds": "noun"
   },
   {
    "lemma": "devī",
    "morph": "f.nom.sg",
-   "grounds": "gloss 'goddess'; nominative singular feminine form"
+   "grounds": "noun"
   },
   {
    "lemma": "mālinī",
    "morph": "f.nom.sg",
-   "grounds": "gloss 'Mālinī'; nominative singular feminine proper name"
+   "grounds": "adjective"
   },
   {
    "lemma": "madhyagoditā",
-   "morph": "f.nom.sg (compound: madhya+go+udita, ppp)",
-   "grounds": "gloss 'proclaimed-in-middle'; nominative singular feminine past passive participle in compound"
+   "morph": "f.nom.sg",
+   "grounds": "compound adjective"
   },
   {
    "lemma": "madhye",
    "morph": "n.loc.sg",
-   "grounds": "gloss 'in-middle'; locative singular neuter form of madhya"
+   "grounds": "noun"
   },
   {
-   "lemma": "nyasyet-sūryarucim",
-   "morph": "3sg.opt.act √nyas + f.acc.sg (compound: sūrya+ruci)",
-   "grounds": "gloss 'should-place-sun-radiance'; optative verb nyasyet with accusative compound object sūryarucim (AMBIGUOUS: could be analyzed as two tokens nyasyet + sūryarucim)"
+   "lemma": "nyasyetsūryaruciṃ",
+   "morph": "3.sg.act.opt",
+   "grounds": "fused optative verb"
   },
   {
-   "lemma": "sarvākṣaramayī",
-   "morph": "f.acc.sg (compound: sarva+akṣara+mayī)",
-   "grounds": "gloss 'consisting-of-all-letters'; accusative singular feminine adjective in compound"
-  },
-  {
-   "lemma": "parā",
+   "lemma": "sarvākṣaramayīṃ",
    "morph": "f.acc.sg",
-   "grounds": "gloss 'supreme'; accusative singular feminine form agreeing with sūryarucim/sarvākṣaramayīm"
+   "grounds": "compound adjective"
+  },
+  {
+   "lemma": "parām",
+   "morph": "f.acc.sg",
+   "grounds": "adjective"
   }
  ]
 }

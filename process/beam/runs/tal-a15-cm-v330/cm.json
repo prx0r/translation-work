@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 330,
  "rows": [
   {
-   "lemma": "madhya",
-   "morph": "loc.sg.n",
-   "grounds": "madhye = in-the-middle (locative)"
+   "lemma": "madhye",
+   "morph": "n.loc.sg",
+   "grounds": "noun"
   },
   {
-   "lemma": "devī-abhidhā",
-   "morph": "f.nom.sg (compound)",
-   "grounds": "devyabhidhā = named-goddess (devī+abhidhā)"
-  },
-  {
-   "lemma": "pūjya",
+   "lemma": "devyabhidhā",
    "morph": "f.nom.sg",
-   "grounds": "pūjyā = to-be-worshipped (nom.sg.f)"
+   "grounds": "compound adjective"
   },
   {
-   "lemma": "traya",
+   "lemma": "pūjyā",
+   "morph": "f.nom.sg",
+   "grounds": "adjective"
+  },
+  {
+   "lemma": "trayaṃ",
    "morph": "n.nom.sg",
-   "grounds": "trayaṃ = the-triad (nom/acc.sg.n; here nom.sg.n)"
+   "grounds": "noun"
   },
   {
-   "lemma": "bhū",
-   "morph": "3sg.pres.act √bhū",
-   "grounds": "bhavati = becomes"
+   "lemma": "bhavati",
+   "morph": "3.sg.act.pres+bhū",
+   "grounds": "present verb"
   },
   {
-   "lemma": "pūj",
-   "morph": "n.nom.sg (past ppp)",
-   "grounds": "pūjitam = worshipped (past passive participle, nom.sg.n)"
+   "lemma": "pūjitam",
+   "morph": "n.nom.sg",
+   "grounds": "past participle"
   },
   {
-   "lemma": "tatas",
-   "morph": "indecl.",
-   "grounds": "tato = then"
+   "lemma": "tato",
+   "morph": "(indecl.)",
+   "grounds": "adverb"
   },
   {
-   "lemma": "madhyagata-bodharāśi",
-   "morph": "m.abl.sg (compound)",
-   "grounds": "madhyagatāttasmādbodharāśeḥ = from-that-middle-situated-mass-of-consciousness (madhyagata+tad+bodharāśi, abl.sg.m)"
+   "lemma": "madhyagatāttasmādbodharāśeḥ",
+   "morph": "m.abl.sg",
+   "grounds": "compound ablative"
   },
   {
-   "lemma": "sadā-eva",
-   "morph": "indecl. (compound)",
-   "grounds": "sadaivatāt = always-indeed (sadā+eva; surface form AMBIGUOUS, possibly sadaiva or sadaivāt)"
+   "lemma": "sadaivatāt",
+   "morph": "m.abl.sg",
+   "grounds": "compound ablative"
   }
  ]
 }

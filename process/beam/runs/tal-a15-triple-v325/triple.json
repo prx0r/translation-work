@@ -1,0 +1,827 @@
+{
+ "song": "a15",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "parāparāṃ",
+     "gloss": "higher-lower",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "raktavarṇāṃ",
+     "gloss": "red-colored",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kiṃcidagrāṃ",
+     "gloss": "slightly-pointed",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīṣaṇām",
+     "gloss": "terrifying",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aparāṃ",
+     "gloss": "lower",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāmaśṛṅge",
+     "gloss": "left-horn",
+     "grounds": "compound noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīṣaṇāṃ",
+     "gloss": "terrifying",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇapiṅgalām",
+     "gloss": "black-tawny",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How are the left and right goddess forms distinguished?",
+   "premises": [
+    "The higher-lower form is red and slightly pointed.",
+    "The lower form is terrifying and black-tawny.",
+    "The left horn holds the terrifying form."
+   ],
+   "inference": "The verse distinguishes two goddess forms by color, shape, and placement.",
+   "uncertainties": [
+    "Exact syntactic relation of na bhīṣaṇām is compressed."
+   ],
+   "plain_english": "The higher-lower form is red and slightly pointed, not terrifying; the lower form on the left horn is terrifying and black-tawny."
+  },
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "prāgvaddvidhātra",
+     "gloss": "as-before-twofold",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍhaiva",
+     "gloss": "sixfold-indeed",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāso",
+     "gloss": "placement",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "done",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāṃkalpikaṃ",
+     "gloss": "imagined",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "fit",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vapurāsāṃ",
+     "gloss": "form-of-these",
+     "grounds": "compound with genitive",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-imagine",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt+cint"
+    }
+   ],
+   "question": "How is the imagined form to be contemplated after placement?",
+   "premises": [
+    "Placement is done in the body as before, twofold and sixfold.",
+    "Then one should imagine the fitting imagined form of these.",
+    "The form is contemplated after placement."
+   ],
+   "inference": "The verse prescribes contemplation of a fitting imagined form following bodily placement.",
+   "uncertainties": [
+    "vapurāsāṃ is a fused genitive compound."
+   ],
+   "plain_english": "After placement is done in the body as before, twofold and sixfold, one should then imagine the fitting imagined form of these."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "kṛtyabhedānusāreṇa",
+     "gloss": "according-to-action-difference",
+     "grounds": "compound noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "dvicatuḥṣaḍbhujādikam",
+     "gloss": "two-four-six-armed-etc",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kapālaśūlakhaṭvāṅgavarābhayaghaṭādikam",
+     "gloss": "skull-trident-club-boon-fear-pot-etc",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What forms are assigned according to action difference?",
+   "premises": [
+    "Forms are assigned according to action difference.",
+    "They have two, four, or six arms and so on.",
+    "They bear skull, trident, club, boon, fear, pot, and so on."
+   ],
+   "inference": "The verse lists multi-armed forms and their implements according to action difference.",
+   "uncertainties": [
+    "The exact list of implements is compressed."
+   ],
+   "plain_english": "According to action difference, forms with two, four, or six arms and so on bear skull, trident, club, boon, fear, pot, and so on."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "vāmadakṣiṇasaṃsthānacitratvātparikalpayet",
+     "gloss": "imagine-because-variegated-placement",
+     "grounds": "compound with optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "vastuto",
+     "gloss": "in-reality",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvarūpāstā",
+     "gloss": "these-universal-forms",
+     "grounds": "fused adjective and pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devyo",
+     "gloss": "goddesses",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bodhātmikā",
+     "gloss": "consciousness-natured",
+     "grounds": "compound adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are the goddesses imagined with variegated placement?",
+   "premises": [
+    "One imagines because of variegated left-right placement.",
+    "In reality these goddesses are universal forms.",
+    "They are consciousness-natured."
+   ],
+   "inference": "The variegated placement is imagined because the goddesses are in reality universal consciousness-natured forms.",
+   "uncertainties": [
+    "The fused verb ending is embedded in the first token."
+   ],
+   "plain_english": "One imagines because of variegated left-right placement, since in reality these goddesses are universal forms of consciousness-nature."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "anavacchinnacinmātrasārāḥ",
+     "gloss": "unlimited-consciousness-essence",
+     "grounds": "compound adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syurapavṛktaye",
+     "gloss": "may-be-for-liberation",
+     "grounds": "fused optative and dative",
+     "morph": "3.pl.act.opt"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tato@ṅgavaktrādi",
+     "gloss": "then-limbs-faces-etc",
+     "grounds": "fused compound with sandhi marker",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lokapālāstrapaścimam",
+     "gloss": "world-guardians-weapons-last",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the essence of the goddesses and what follows?",
+   "premises": [
+    "Their essence is unlimited consciousness alone.",
+    "They may be for liberation.",
+    "Then all limbs, faces, and so on, world-guardians, weapons, last."
+   ],
+   "inference": "The goddesses are unlimited consciousness-essence for liberation, followed by limbs, faces, guardians, weapons, and last items.",
+   "uncertainties": [
+    "The exact relation of sarvaṃ to the following compound is compressed."
+   ],
+   "plain_english": "Their essence is unlimited consciousness alone, for liberation; then all limbs, faces, and so on, world-guardians, weapons, last."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devyabhidhā",
+     "gloss": "goddess-named",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "worshipful",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present verb",
+     "morph": "3.sg.act.pres+bhū"
+    },
+    {
+     "surface": "pūjitam",
+     "gloss": "worshiped",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyagatāttasmādbodharāśeḥ",
+     "gloss": "from-middle-seated-consciousness-mass",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sadaivatāt",
+     "gloss": "from-eternal-unity",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What triad becomes worshipful in the middle?",
+   "premises": [
+    "In the middle the goddess-named worshipful triad becomes.",
+    "It is worshiped.",
+    "Then from the middle-seated consciousness-mass and eternal unity."
+   ],
+   "inference": "The middle holds a worshipful goddess triad, worshiped from the seated consciousness-mass and eternal unity.",
+   "uncertainties": [
+    "The ablative chain is syntactically compressed."
+   ],
+   "plain_english": "In the middle the goddess-named worshipful triad becomes and is worshiped, then from the middle-seated mass of consciousness and eternal unity."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "aṅgādi",
+     "gloss": "limbs-etc",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niḥsṛtaṃ",
+     "gloss": "emanated",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjyaṃ",
+     "gloss": "worshipful",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "visphuliṅgātmakaṃ",
+     "gloss": "spark-natured",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyagā",
+     "gloss": "middle-going",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "she-indeed",
+     "grounds": "pronoun with particle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadbhāvarūpiṇī",
+     "gloss": "true-being-formed",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the spark-natured emanation worshiped separately?",
+   "premises": [
+    "Limbs and so on are emanated and worshipful.",
+    "They are spark-natured and separate.",
+    "The goddess going in the middle is indeed she, true-being-formed."
+   ],
+   "inference": "The spark-natured emanated limbs are worshiped separately, while the middle goddess is true-being-formed.",
+   "uncertainties": [
+    "The relation between pṛthak and madhyagā is compressed."
+   ],
+   "plain_english": "The emanated limbs and so on are worshipful and spark-natured, separate; the goddess going in the middle is indeed she, formed of true being."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "kālasaṃkarṣiṇī",
+     "gloss": "time-drawing",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghorā",
+     "gloss": "fierce",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāntā",
+     "gloss": "peaceful",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "miśrā",
+     "gloss": "mixed",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhātantre",
+     "gloss": "in-siddha-tantra",
+     "grounds": "compound noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saikārṇā",
+     "gloss": "with-one-syllable",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devīti",
+     "gloss": "goddess-thus",
+     "grounds": "noun with particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "praised",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the time-drawing goddess praised?",
+   "premises": [
+    "The time-drawing goddess is fierce, peaceful, and mixed everywhere.",
+    "In the siddha tantra she is with one syllable.",
+    "The supreme goddess is thus praised."
+   ],
+   "inference": "The time-drawing goddess is praised as fierce, peaceful, and mixed, with one syllable in the siddha tantra.",
+   "uncertainties": [
+    "saikārṇā may modify the goddess or the tantra context."
+   ],
+   "plain_english": "The time-drawing goddess is fierce, peaceful, and mixed everywhere; in the siddha tantra the supreme goddess with one syllable is thus praised."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mother",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālinī",
+     "gloss": "garlanded",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyagoditā",
+     "gloss": "middle-risen",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyasyetsūryaruciṃ",
+     "gloss": "should-place-sun-radiance",
+     "grounds": "fused optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sarvākṣaramayīṃ",
+     "gloss": "all-letters-composed",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What should be placed in the middle?",
+   "premises": [
+    "The supreme mother goddess Mālinī is middle-risen.",
+    "In the middle one should place sun-radiance.",
+    "It is all-letters-composed and supreme."
+   ],
+   "inference": "The middle-risen supreme mother goddess Mālinī is associated with placing all-letters-composed supreme sun-radiance in the middle.",
+   "uncertainties": [
+    "The exact object of nyasyet is compressed with sūryaruciṃ."
+   ],
+   "plain_english": "The supreme mother goddess Mālinī, middle-risen, is in the middle; one should place there the all-letters-composed supreme sun-radiance."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "her",
+     "grounds": "pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śikhāgre",
+     "gloss": "crest-tip",
+     "grounds": "compound noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tvaikārṇāṃ",
+     "gloss": "indeed-one-syllabled",
+     "grounds": "fused particle and adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tasyāścāṅgādikaṃ",
+     "gloss": "her-limbs-etc",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tviti",
+     "gloss": "thus-indeed",
+     "grounds": "particle compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viniṣkrāntaṃ",
+     "gloss": "emerged",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjitaṃ",
+     "gloss": "worshiped",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇottare",
+     "gloss": "south-and-north",
+     "grounds": "compound noun",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What emerges and is worshiped from her crest?",
+   "premises": [
+    "At her crest-tip is indeed the one-syllabled.",
+    "Her limbs and so on are thus.",
+    "Then the universe emerged and is worshiped in south and north."
+   ],
+   "inference": "From her crest the one-syllabled and her limbs are set, then the universe emerges and is worshiped in both directions.",
+   "uncertainties": [
+    "The fused tvaikārṇāṃ and tasyāścāṅgādikaṃ are compressed."
+   ],
+   "plain_english": "At her crest-tip is indeed the one-syllabled; her limbs and so on are thus; then the universe emerged and is worshiped in south and north."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "syādeva",
+     "gloss": "may-be-indeed",
+     "grounds": "fused optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pūjitaṃ",
+     "gloss": "worshiped",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sakṛnmadhye",
+     "gloss": "once-in-middle",
+     "grounds": "compound adverb",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt+pūj"
+    },
+    {
+     "surface": "śrīdevyāyāmale",
+     "gloss": "in-Shridevi-tantra",
+     "grounds": "compound noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "coktaṃ",
+     "gloss": "said",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāge",
+     "gloss": "in-sacrifice",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ḍāmarasaṃjñite",
+     "gloss": "named-Damara",
+     "grounds": "compound adjective",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is worship to be performed once in the middle?",
+   "premises": [
+    "It may indeed be worshiped by that.",
+    "Once in the middle one should worship.",
+    "It is said in the Shridevi tantra sacrifice named Damara."
+   ],
+   "inference": "The verse directs worship once in the middle, as stated in the Shridevi tantra sacrifice named Damara.",
+   "uncertainties": [
+    "The exact antecedent of tena is compressed."
+   ],
+   "plain_english": "It may indeed be worshiped by that; once in the middle one should worship, as said in the Shridevi tantra sacrifice named Damara."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "nāsāgre",
+     "gloss": "nose-tip",
+     "grounds": "compound noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kālasaṃkarṣiṇī",
+     "gloss": "time-drawing",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhasthā",
+     "gloss": "mouth-situated",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śvāsaniḥśvāsakalanī",
+     "gloss": "breath-inbreath-calculating",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "heart",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karṣati",
+     "gloss": "draws",
+     "grounds": "present verb",
+     "morph": "3.sg.act.pres+kṛṣ"
+    }
+   ],
+   "question": "Where does the time-drawing goddess draw time?",
+   "premises": [
+    "At the nose-tip is threefold time.",
+    "The time-drawing goddess is always mouth-situated.",
+    "Calculating breath and inbreath, she draws in the heart."
+   ],
+   "inference": "The time-drawing goddess, always situated in the mouth and calculating breath, draws threefold time in the heart.",
+   "uncertainties": [
+    "The exact relation of nāsāgre to kālaṃ is compressed."
+   ],
+   "plain_english": "At the nose-tip is threefold time; the time-drawing goddess, always situated in the mouth and calculating breath and inbreath, draws in the heart."
+  }
+ ]
+}

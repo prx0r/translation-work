@@ -1,51 +1,51 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 335,
  "rows": [
   {
-   "lemma": "syāt+eva",
-   "morph": "3sg.opt.act √as + indecl.",
-   "grounds": "syāt = would-be (optative of √as) + eva = indeed (indeclinable particle)"
+   "lemma": "syādeva",
+   "morph": "3.sg.act.opt",
+   "grounds": "fused optative verb"
   },
   {
-   "lemma": "pūjita",
-   "morph": "n.nom.sg (ppp)",
-   "grounds": "pūjitaṃ = worshipped (past passive participle, neuter nominative singular)"
+   "lemma": "pūjitaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "past participle"
   },
   {
-   "lemma": "tad",
-   "morph": "m.inst.sg",
-   "grounds": "tena = by-that (instrumental singular of demonstrative pronoun)"
+   "lemma": "tena",
+   "morph": "m.instr.sg",
+   "grounds": "pronoun"
   },
   {
-   "lemma": "sakṛt-madhya",
-   "morph": "n.loc.sg (compound: indecl.+noun)",
-   "grounds": "sakṛnmadhye = once-in-middle (sakṛt = once + madhye = in the middle, locative singular)"
+   "lemma": "sakṛnmadhye",
+   "morph": "n.loc.sg",
+   "grounds": "compound adverb"
   },
   {
-   "lemma": "prapūjay",
-   "morph": "3sg.opt.act √pūj",
-   "grounds": "prapūjayet = should-worship (optative active, 3rd person singular of pra-√pūj)"
+   "lemma": "prapūjayet",
+   "morph": "3.sg.act.opt+pūj",
+   "grounds": "optative verb"
   },
   {
-   "lemma": "śrīdevyāyāmala",
-   "morph": "n.loc.sg (compound: noun+noun)",
-   "grounds": "śrīdevyāyāmale = in the Śrīdevyāyāmala (locative singular of compound name)"
-  },
-  {
-   "lemma": "ca+vac",
-   "morph": "indecl. + n.nom.sg (ppp)",
-   "grounds": "coktaṃ = and-said (ca = and + uktaṃ = said, past passive participle neuter nominative singular of √vac)"
-  },
-  {
-   "lemma": "yāga",
+   "lemma": "śrīdevyāyāmale",
    "morph": "m.loc.sg",
-   "grounds": "yāge = in-sacrifice (locative singular)"
+   "grounds": "compound noun"
   },
   {
-   "lemma": "ḍāmarasaṃjñita",
-   "morph": "m.loc.sg (compound: noun+ppp)",
-   "grounds": "ḍāmarasaṃjñite = ḍāmara-named (locative singular; ḍāmara + saṃjñita = named/called)"
+   "lemma": "coktaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "past participle"
+  },
+  {
+   "lemma": "yāge",
+   "morph": "m.loc.sg",
+   "grounds": "noun"
+  },
+  {
+   "lemma": "ḍāmarasaṃjñite",
+   "morph": "m.loc.sg",
+   "grounds": "compound adjective"
   }
  ]
 }
