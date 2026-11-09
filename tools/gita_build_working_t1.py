@@ -18,6 +18,23 @@ ED = WORK / 'source' / 'edition.txt'
 SEG = WORK / 'source' / 'segments.json'
 
 MARKER = re.compile(r'^\d+-\d+$')
+_SPLIT = re.compile(r'\s*(?:\|\|?|!|\d+-\d+)\s*')
+
+
+def cite_parts_of(text: str) -> list[str]:
+    """Byte-exact cite chunks: source span split on markers. Each chunk is a
+    verbatim source substring (whitespace-flattened at check time), so the
+    assembled `sanskrit_cite` (joined by ' | ') always validates."""
+    lines = [ln for ln in text.splitlines() if not ln.strip().startswith('###')]
+    parts = _SPLIT.split(' '.join(lines))
+    out = []
+    for p in (x.strip() for x in parts):
+        if not p:
+            continue
+        if re.fullmatch(r'[\d\-|]+', p):
+            continue
+        out.append(p)
+    return out
 
 
 def tokens_of(text: str) -> list[str]:
@@ -62,6 +79,7 @@ def main(argv: list[str]) -> int:
                 'span': s.get('verse'), 'start': s['start'], 'end': s['end'],
                 'label': s.get('label', ''),
                 'source_sha': __import__('hashlib').sha256(text.encode('utf-8')).hexdigest()[:16],
+                'cite_parts': cite_parts_of(text),
                 'quick_english': 'SCAFFOLD pending (T1 drafted from runs at assemble)',
                 'tokens': [{'surface': t, 'quick_gloss': ''} for t in toks],
             })

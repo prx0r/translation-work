@@ -162,7 +162,7 @@ def stage_assemble(work, song):
                    'sanskrit_sha': src_sha})
         l2.append({'verse_id': e['verse_id'], 'song': song, 'verse': e['verse'],
                    'plain_english': d['plain_english'],
-                   'sanskrit_cite': ' '.join(t['surface'] for t in e['tokens']),
+                   'sanskrit_cite': ' | '.join(e.get('cite_parts') or [' '.join(t['surface'] for t in e['tokens'])]),
                    'l0_ids': ids or [l0[0]['id']], 'supplied': []})
         e['quick_english'] = d['plain_english']
         e['quick_english_source'] = 'manual'

@@ -180,9 +180,23 @@ def main() -> int:
             t1 = {}
         else:
             t1objs = json.loads(t1path.read_text(encoding="utf-8"))
+            # Song-local numbering (multi-song works): working-t1 maps each
+            # local verse to its absolute source span. Key the T1 dict by span
+            # so verse-count, missing-verse, and concat-align checks resolve
+            # against source spans. Single-span works are unaffected.
+            _vmap = {}
+            _wtp = w / f'working-t1-{song}.json'
+            if _wtp.exists():
+                try:
+                    _wto = json.loads(_wtp.read_text(encoding="utf-8"))
+                    if _wto and all('span' in _e for _e in _wto):
+                        _vmap = {int(_e['verse']): int(_e['span']) for _e in _wto}
+                except (ValueError, KeyError):
+                    pass
             t1 = {}
             for o in t1objs:
-                t1[o.get("verse", 0)] = [t.get("surface", "") for t in o.get("tokens", [])]
+                _k = _vmap.get(o.get("verse", 0), o.get("verse", 0))
+                t1[_k] = [t.get("surface", "") for t in o.get("tokens", [])]
     else:
         t1 = parse_t1(w / f"T1-{song}.md")
     rec["t1_verses"] = len(t1)

@@ -1,0 +1,785 @@
+{
+ "song": "gita-a11",
+ "items": [
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "lelihyase",
+     "gloss": "you-lick",
+     "grounds": "Kṛṣṇa's cosmic form action",
+     "morph": "2.sg.act-pres-root-√lih"
+    },
+    {
+     "surface": "grasamānaḥ",
+     "gloss": "devouring",
+     "grounds": "present participle",
+     "morph": "nom.sg.m.participle"
+    },
+    {
+     "surface": "samantā",
+     "gloss": "on-all-sides",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "llokānsamagrānvadanairjvaladbhiḥ",
+     "gloss": "worlds-whole-with-blazing-mouths",
+     "grounds": "fused sandhi form",
+     "morph": "acc.pl.m.compound"
+    },
+    {
+     "surface": "tejobhirāpūrya",
+     "gloss": "filling-with-radiance",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.n.participle"
+    },
+    {
+     "surface": "jagatsamagraṃ",
+     "gloss": "whole-world",
+     "grounds": "accusative",
+     "morph": "acc.sg.n.compound"
+    },
+    {
+     "surface": "bhāsa",
+     "gloss": "with-light",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "stavogrāḥ",
+     "gloss": "your-fierce-rays",
+     "grounds": "possessive compound",
+     "morph": "nom.pl.m.compound"
+    },
+    {
+     "surface": "pratapanti",
+     "gloss": "they-scorch",
+     "grounds": "plural verb",
+     "morph": "3.pl.act-pres-root-√tap"
+    },
+    {
+     "surface": "viṣṇo",
+     "gloss": "o-viṣṇu",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "How does the cosmic form consume and scorch all worlds?",
+   "premises": [
+    "The form licks and devours worlds on all sides",
+    "Blazing mouths fill the whole world with radiance",
+    "Fierce rays scorch everything"
+   ],
+   "inference": "The cosmic form is an all-consuming, world-filling radiance",
+   "uncertainties": [
+    "Fused compound parsing is approximate"
+   ],
+   "plain_english": "You lick and devour all worlds on every side with blazing mouths; filling the whole world with radiance, your fierce rays scorch, O Viṣṇu."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "ākhyāhi",
+     "gloss": "tell",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp-root-√khyā"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "interrogative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavānugrarūpo",
+     "gloss": "you-fierce-formed",
+     "grounds": "compound",
+     "morph": "nom.sg.m.compound"
+    },
+    {
+     "surface": "namo'stu",
+     "gloss": "homage-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt-root-√as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "devavara",
+     "gloss": "best-of-gods",
+     "grounds": "vocative compound",
+     "morph": "voc.sg.m.compound"
+    },
+    {
+     "surface": "prasīda",
+     "gloss": "be-gracious",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp-root-√sad"
+    },
+    {
+     "surface": "vijñātumicchāmi",
+     "gloss": "I-wish-to-know",
+     "grounds": "infinitive compound",
+     "morph": "1.sg.act-pres-root-√iṣ"
+    },
+    {
+     "surface": "bhavantamādyaṃ",
+     "gloss": "you-primal",
+     "grounds": "accusative",
+     "morph": "acc.sg.m.compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajānāmi",
+     "gloss": "I-know",
+     "grounds": "first person",
+     "morph": "1.sg.act-pres-root-√jñā"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "pravṛttim",
+     "gloss": "course",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "pravṛttiṃ",
+     "gloss": "course",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedmi-kenāśayenedṛśīyamugrateti",
+     "gloss": "I-know-why-such-fierce-form",
+     "grounds": "fused sandhi form",
+     "morph": "1.sg.act-pres-root-√vid"
+    },
+    {
+     "surface": "32",
+     "gloss": "verse-number",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is this fierce-formed being and why does he act thus?",
+   "premises": [
+    "Arjuna asks the Lord's identity",
+    "He does not know the Lord's course",
+    "He seeks gracious knowledge of the primal being"
+   ],
+   "inference": "The question turns on recognizing the Lord's fierce form",
+   "uncertainties": [
+    "Fused final token contains multiple clauses"
+   ],
+   "plain_english": "Tell me who you are, fierce-formed one; homage to you, best of gods, be gracious. I wish to know you, the primal one, for I do not know your course; I do not know why such a fierce form arises."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "the-blessed-lord-said",
+     "grounds": "speech attribution",
+     "morph": "3.sg.act-aor-root-√vac"
+    },
+    {
+     "surface": "kālo'smi",
+     "gloss": "I-am-time",
+     "grounds": "fused sandhi",
+     "morph": "1.sg.act-pres-root-√as"
+    },
+    {
+     "surface": "lokakṣayakṛtpravṛddho",
+     "gloss": "grown-world-destroying",
+     "grounds": "compound",
+     "morph": "nom.sg.m.compound"
+    },
+    {
+     "surface": "llokānsamāhartumiha",
+     "gloss": "to-gather-worlds-here",
+     "grounds": "fused sandhi",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "pravṛttaḥ",
+     "gloss": "engaged",
+     "grounds": "participle",
+     "morph": "nom.sg.m.participle"
+    },
+    {
+     "surface": "ṛte'pi",
+     "gloss": "even-without",
+     "grounds": "fused sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvā",
+     "gloss": "you",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyanti",
+     "gloss": "they-will-be",
+     "grounds": "future",
+     "morph": "3.pl.act-fut-root-√bhū"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ye'vasthitāḥ",
+     "gloss": "who-are-stationed",
+     "grounds": "fused sandhi",
+     "morph": "nom.pl.m.participle"
+    },
+    {
+     "surface": "pratyanīkeṣu",
+     "gloss": "in-opposing-ranks",
+     "grounds": "locative",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "yodhāḥ",
+     "gloss": "warriors",
+     "grounds": "nominative",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What is the Lord's declared role in world destruction?",
+   "premises": [
+    "The Lord is grown Time",
+    "He is engaged here to gather worlds",
+    "Even without Arjuna the warriors will not remain"
+   ],
+   "inference": "The Lord's power, not Arjuna's agency, destroys the opposing warriors",
+   "uncertainties": [
+    "Fused sandhi forms are kept whole"
+   ],
+   "plain_english": "The blessed Lord said: I am Time, grown and world-destroying; I am engaged here to gather worlds. Even without you, all warriors stationed in opposing ranks will not be."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "tasmāttvamuttiṣṭha",
+     "gloss": "therefore-you-rise",
+     "grounds": "fused sandhi",
+     "morph": "2.sg.act-imp-root-√sthā"
+    },
+    {
+     "surface": "yaśo",
+     "gloss": "glory",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "labhasva",
+     "gloss": "gain",
+     "grounds": "imperative",
+     "morph": "2.sg.mid-imp-root-√labh"
+    },
+    {
+     "surface": "jitvā",
+     "gloss": "having-conquered",
+     "grounds": "gerund",
+     "morph": "gerund-root-√ji"
+    },
+    {
+     "surface": "śatrūnbhuṅkṣva",
+     "gloss": "enemies-enjoy",
+     "grounds": "fused sandhi",
+     "morph": "2.sg.mid-imp-root-√bhuj"
+    },
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samṛddham",
+     "gloss": "prosperous",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mayaivaite",
+     "gloss": "by-me-indeed-these",
+     "grounds": "fused sandhi",
+     "morph": "inst.sg.m.compound"
+    },
+    {
+     "surface": "nihatāḥ",
+     "gloss": "slain",
+     "grounds": "participle",
+     "morph": "nom.pl.m.participle"
+    },
+    {
+     "surface": "pūrvameva",
+     "gloss": "already-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimittamātraṃ",
+     "gloss": "mere-instrument",
+     "grounds": "compound",
+     "morph": "nom.sg.n.compound"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp-root-√bhū"
+    },
+    {
+     "surface": "savyasācin",
+     "gloss": "left-handed-archer",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "Why should Arjuna rise and fight if the enemies are already slain?",
+   "premises": [
+    "Arjuna is told to rise and gain glory",
+    "He should conquer enemies and enjoy prosperous rule",
+    "The enemies are already slain by the Lord; Arjuna is mere instrument"
+   ],
+   "inference": "Arjuna acts as instrument while the Lord accomplishes the destruction",
+   "uncertainties": [
+    "Fused sandhi forms are kept whole"
+   ],
+   "plain_english": "Therefore rise, gain glory; having conquered enemies, enjoy prosperous rule. These have already been slain by me; be a mere instrument, left-handed archer."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "droṇaṃ",
+     "gloss": "droṇa",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīṣmaṃ",
+     "gloss": "bhīṣma",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayadrathaṃ",
+     "gloss": "jayadratha",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇaṃ",
+     "gloss": "karṇa",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tathānyānapi",
+     "gloss": "and-other-also",
+     "grounds": "fused sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokavīrān",
+     "gloss": "world-heroes",
+     "grounds": "accusative",
+     "morph": "acc.pl.m.compound"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "hatāṃstvaṃ",
+     "gloss": "slain-you",
+     "grounds": "fused sandhi",
+     "morph": "acc.pl.m.participle"
+    },
+    {
+     "surface": "jahi",
+     "gloss": "slay",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp-root-√han"
+    },
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyathiṣṭhā",
+     "gloss": "be-distressed",
+     "grounds": "imperative",
+     "morph": "2.sg.mid-imp-root-√vyath"
+    },
+    {
+     "surface": "yudhyasva",
+     "gloss": "fight",
+     "grounds": "imperative",
+     "morph": "2.sg.mid-imp-root-√yudh"
+    },
+    {
+     "surface": "jetāsi",
+     "gloss": "you-will-conquer",
+     "grounds": "future",
+     "morph": "2.sg.act-fut-root-√ji"
+    },
+    {
+     "surface": "raṇe",
+     "gloss": "in-battle",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sapatnān",
+     "gloss": "rivals",
+     "grounds": "accusative",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "tadatra",
+     "gloss": "that-here",
+     "grounds": "fused sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavatottaraṃ",
+     "gloss": "lord's-reply",
+     "grounds": "compound",
+     "morph": "nom.sg.n.compound"
+    },
+    {
+     "surface": "jagato",
+     "gloss": "of-world",
+     "grounds": "genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "vidyāvidyātmanaḥ",
+     "gloss": "of-knowing-and-unknowing-self",
+     "grounds": "compound",
+     "morph": "gen.sg.m.compound"
+    },
+    {
+     "surface": "śuddhāśuddhamiśrasaṃvidvalagrāsīkārādabhidhīyate-iti",
+     "gloss": "from-pure-impure-mixed-awareness-devouring-it-is-said-thus",
+     "grounds": "fused sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāśayaḥ",
+     "gloss": "you-fed",
+     "grounds": "participle",
+     "morph": "nom.sg.m.participle"
+    },
+    {
+     "surface": "sūtritamatrādhyāye",
+     "gloss": "summarized-in-this-chapter",
+     "grounds": "compound",
+     "morph": "nom.sg.n.compound"
+    },
+    {
+     "surface": "rahasyam",
+     "gloss": "secret",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "uṭṭaṅkitamātrasaṃvittisamarthebhyo'stu",
+     "gloss": "may-it-be-for-those-capable-of-immediate-awareness",
+     "grounds": "fused sandhi",
+     "morph": "3.sg.act-opt-root-√as"
+    },
+    {
+     "surface": "kiyatpaṃktilekhanāyāsadauḥ",
+     "gloss": "how-much-line-writing-labor-pain",
+     "grounds": "compound",
+     "morph": "nom.sg.m.compound"
+    },
+    {
+     "surface": "sthityamālambhemahi",
+     "gloss": "we-may-rest-in-stability",
+     "grounds": "optative",
+     "morph": "1.pl.mid-opt-root-√lambh"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "what-was-said",
+     "grounds": "participle",
+     "morph": "nom.sg.n.participle"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "hateṣu",
+     "gloss": "when-slain",
+     "grounds": "locative",
+     "morph": "loc.pl.m.participle"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nimittaṃ",
+     "gloss": "instrument",
+     "grounds": "nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yaśasvī",
+     "gloss": "glorious",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp-root-√bhū"
+    },
+    {
+     "surface": "iti-bhagavatā",
+     "gloss": "thus-by-the-lord",
+     "grounds": "fused sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpratyuktaṃ",
+     "gloss": "that-was-replied",
+     "grounds": "participle",
+     "morph": "nom.sg.n.participle"
+    },
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "what-was-said",
+     "grounds": "participle",
+     "morph": "nom.sg.n.participle"
+    },
+    {
+     "surface": "prāgarjunena",
+     "gloss": "earlier-by-arjuna",
+     "grounds": "compound",
+     "morph": "inst.sg.m.compound"
+    },
+    {
+     "surface": "naitadvidbhaḥ",
+     "gloss": "we-do-not-know-this",
+     "grounds": "fused sandhi",
+     "morph": "1.pl.act-pres-root-√vid"
+    },
+    {
+     "surface": "katarannoḥ",
+     "gloss": "which-of-us",
+     "grounds": "fused sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garīyaḥ-ityādi",
+     "gloss": "greater-thus-and-so-on",
+     "grounds": "fused sandhi",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the Lord's reply reframe Arjuna's role in battle?",
+   "premises": [
+    "The Lord names Droṇa, Bhīṣma, Jayadratha, Karṇa and other heroes",
+    "They are already slain by the Lord; Arjuna should fight without distress",
+    "The reply is summarized as the Lord's answer to Arjuna's earlier words"
+   ],
+   "inference": "Arjuna is instrument while the Lord has already accomplished the slaying",
+   "uncertainties": [
+    "Long fused prose compounds are kept whole"
+   ],
+   "plain_english": "Slay Droṇa, Bhīṣma, Jayadratha, Karṇa and other world-heroes; they have been slain by me, so do not be distressed; fight, and you will conquer rivals in battle. This here is the Lord's reply concerning the world's knowing-and-unknowing self; it is said that from pure, impure, and mixed awareness there is devouring. You fed the secret summarized in this chapter; may it be for those capable of immediate awareness. How much labor of line-writing; may we rest in stability. Here what was said by me: when they are slain, you, glorious one, be instrument. Thus by the Lord that was replied to what was said earlier by Arjuna: we do not know this; which of us is greater, and so on."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "saṃjaya",
+     "gloss": "sañjaya",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "aorist",
+     "morph": "3.sg.act-aor-root-√vac"
+    },
+    {
+     "surface": "etacchrutvā",
+     "gloss": "having-heard-this",
+     "grounds": "fused sandhi",
+     "morph": "gerund"
+    },
+    {
+     "surface": "vacanaṃ",
+     "gloss": "speech",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "keśavasya",
+     "gloss": "of-keśava",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "kṛtāñjalirvepamānaḥ",
+     "gloss": "with-folded-hands-trembling",
+     "grounds": "fused sandhi",
+     "morph": "nom.sg.m.participle"
+    },
+    {
+     "surface": "kirīṭī",
+     "gloss": "crowned-one",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "namaskṛtvā",
+     "gloss": "having-bowed",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "bhūya",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evāha",
+     "gloss": "indeed-said",
+     "grounds": "fused sandhi",
+     "morph": "3.sg.act-aor-root-√ah"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "to-kṛṣṇa",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sagadgadaṃ",
+     "gloss": "with-faltering-voice",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhītabhītaḥ",
+     "gloss": "greatly-frightened",
+     "grounds": "compound",
+     "morph": "nom.sg.m.participle"
+    },
+    {
+     "surface": "praṇamya",
+     "gloss": "having-prostrated",
+     "grounds": "gerund",
+     "morph": "gerund"
+    }
+   ],
+   "question": "How does Arjuna respond after hearing Keśava's words?",
+   "premises": [
+    "Sañjaya reports Arjuna's response",
+    "Arjuna hears Keśava's speech with folded hands and trembling",
+    "He bows again and speaks falteringly to Kṛṣṇa in fear"
+   ],
+   "inference": "Arjuna's response is reverent, fearful, and faltering",
+   "uncertainties": [
+    "Fused sandhi forms are kept whole"
+   ],
+   "plain_english": "Sañjaya said: having heard this speech of Keśava, the crowned one, with folded hands and trembling, bowed again and indeed said to Kṛṣṇa with faltering voice, greatly frightened, having prostrated."
+  }
+ ]
+}

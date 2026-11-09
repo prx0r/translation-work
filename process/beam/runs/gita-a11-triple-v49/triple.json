@@ -1,0 +1,643 @@
+{
+ "song": "gita-a11",
+ "items": [
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "atyadbhutaṃ",
+     "gloss": "extremely-wondrous",
+     "grounds": "adjective modifying karma",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duṣkaraṃ",
+     "gloss": "difficult",
+     "grounds": "predicate adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "karmopamānaṃ",
+     "gloss": "action-comparison",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "indeed-not",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "verb of existence",
+     "morph": "verb.3.sg.pass-pres root vid"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "nate",
+     "gloss": "not-your",
+     "grounds": "fused negation-pronoun",
+     "morph": "(indecl.)+pron.gen.sg (fused)"
+    },
+    {
+     "surface": "guṇānāṃ",
+     "gloss": "of-qualities",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "parimāṇamasti",
+     "gloss": "measure-exists",
+     "grounds": "fused noun-verb",
+     "morph": "n.nom.sg + verb.3.sg.act-pres (fused)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tejaso",
+     "gloss": "of-splendor",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nāpi",
+     "gloss": "nor",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balasya",
+     "gloss": "of-strength",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "narddheḥ",
+     "gloss": "nor-of-glory",
+     "grounds": "fused negation-genitive",
+     "morph": "(indecl.)+n.gen.sg (fused)"
+    }
+   ],
+   "question": "What makes Krishna's action incomparable?",
+   "premises": [
+    "Krishna's action is wondrous",
+    "no measure exists for qualities",
+    "splendor strength glory unbounded"
+   ],
+   "inference": "Krishna's power exceeds all measure",
+   "uncertainties": [
+    "fused forms nate and narddheḥ require sandhi resolution"
+   ],
+   "plain_english": "Your action is extremely wondrous and not difficult; no comparison for your action is found; not even your qualities have measure, nor your splendor, strength, or glory."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "adṛṣṭapūrvaṃ",
+     "gloss": "never-before-seen",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "hṛṣito'smi",
+     "gloss": "I-am-rejoiced",
+     "grounds": "fused verb-pronoun",
+     "morph": "verb.1.sg.act-pres + pron.nom.sg (fused)"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive",
+     "morph": "absolutive root dṛś"
+    },
+    {
+     "surface": "bhayena",
+     "gloss": "by-fear",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravyathitaṃ",
+     "gloss": "greatly-distressed",
+     "grounds": "participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative pronoun",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "darśaya",
+     "gloss": "show",
+     "grounds": "imperative",
+     "morph": "verb.2.sg.act-imp root dṛś"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prasīda",
+     "gloss": "be-gracious",
+     "grounds": "imperative",
+     "morph": "verb.2.sg.act-imp root prasad"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg (compound)"
+    },
+    {
+     "surface": "jagannivāsa",
+     "gloss": "world-abode",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg (compound)"
+    }
+   ],
+   "question": "Why does Arjuna ask to see the gentle form?",
+   "premises": [
+    "Arjuna saw an unseen form",
+    "joy and fear both arose",
+    "he asks for gracious showing"
+   ],
+   "inference": "Arjuna seeks reassurance through the gentle form",
+   "uncertainties": [
+    "hṛṣito'smi is fused in source"
+   ],
+   "plain_english": "Having seen this never-before-seen form, I am rejoiced and my mind is greatly distressed by fear; show me that very form, O god, be gracious, O lord of gods, abode of the world."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "kirīṭinaṃ",
+     "gloss": "crowned",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "gadinaṃ",
+     "gloss": "mace-bearing",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "cakrahasta-",
+     "gloss": "discus-in-hand",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.m (compound)"
+    },
+    {
+     "surface": "micchāmi",
+     "gloss": "I-desire",
+     "grounds": "verb",
+     "morph": "verb.1.sg.act-pres root iṣ"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "accusative pronoun",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "draṣṭumahaṃ",
+     "gloss": "to-see-I",
+     "grounds": "fused infinitive-pronoun",
+     "morph": "infinitive + pron.nom.sg (fused)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "just-so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-very",
+     "grounds": "instrumental demonstrative",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "rūpeṇa",
+     "gloss": "form",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "caturbhujena",
+     "gloss": "four-armed",
+     "grounds": "instrumental adjective",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "sahasrabāho",
+     "gloss": "thousand-armed",
+     "grounds": "vocative",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative",
+     "morph": "verb.2.sg.act-imp root bhū"
+    },
+    {
+     "surface": "viśvamūrte",
+     "gloss": "world-form",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg (compound)"
+    }
+   ],
+   "question": "Which form does Arjuna wish to see?",
+   "premises": [
+    "Arjuna desires crowned form",
+    "he desires mace and discus",
+    "he asks four-armed being"
+   ],
+   "inference": "Arjuna wants the familiar four-armed form",
+   "uncertainties": [
+    "cakrahasta- carries trailing hyphen in source"
+   ],
+   "plain_english": "I desire to see you crowned, mace-bearing, discus in hand; just so, by that very four-armed form, O thousand-armed one, be, O world-form."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "the-blessed-lord-said",
+     "grounds": "speech verb",
+     "morph": "n.nom.sg + verb.3.sg.act-aor (compound)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental pronoun",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "prasannena",
+     "gloss": "being-gracious",
+     "grounds": "participle",
+     "morph": "part.inst.sg.m"
+    },
+    {
+     "surface": "tavārjunedaṃ",
+     "gloss": "for-you-Arjuna-this",
+     "grounds": "fused pronoun-name-demonstrative",
+     "morph": "pron.dat.sg + n.voc.sg + pron.acc.sg.n (fused)"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "darśitamātmayogāt",
+     "gloss": "shown-by-self-yoga",
+     "grounds": "fused participle-compound",
+     "morph": "part.acc.sg.n + n.abl.sg (fused)"
+    },
+    {
+     "surface": "tejomayaṃ",
+     "gloss": "radiant",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "viśvamanantamādyaṃ",
+     "gloss": "world-infinite-primal",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n (compound)"
+    },
+    {
+     "surface": "yanme",
+     "gloss": "which-my",
+     "grounds": "fused relative-pronoun",
+     "morph": "rel.acc.sg.n + pron.gen.sg (fused)"
+    },
+    {
+     "surface": "tvadanyena",
+     "gloss": "by-other-than-you",
+     "grounds": "instrumental compound",
+     "morph": "pron.inst.sg + adj.inst.sg (compound)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭapūrvam",
+     "gloss": "seen-before",
+     "grounds": "participle",
+     "morph": "part.acc.sg.n"
+    }
+   ],
+   "question": "How was Arjuna shown the supreme form?",
+   "premises": [
+    "the Lord was gracious",
+    "he showed supreme form by self-yoga",
+    "none but Arjuna saw it"
+   ],
+   "inference": "The vision is a gracious self-yoga disclosure",
+   "uncertainties": [
+    "tavārjunedaṃ is a fused triple form"
+   ],
+   "plain_english": "The blessed Lord said: by me, being gracious, this supreme form was shown to you, Arjuna, by self-yoga; radiant, world, infinite, primal, which by other than you has not been seen before."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedayajñādhigamanairna",
+     "gloss": "by-veda-sacrifice-study-nor",
+     "grounds": "fused instrumental compound",
+     "morph": "n.inst.pl + n.inst.pl + n.inst.pl + (indecl.) (fused)"
+    },
+    {
+     "surface": "dānai-",
+     "gloss": "by-gifts",
+     "grounds": "instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "rna",
+     "gloss": "nor",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyābhirna",
+     "gloss": "by-rites-nor",
+     "grounds": "fused instrumental-negation",
+     "morph": "n.inst.pl + (indecl.) (fused)"
+    },
+    {
+     "surface": "tapobhirugraiḥ",
+     "gloss": "by-severe-austerities",
+     "grounds": "instrumental adjective",
+     "morph": "n.inst.pl + adj.inst.pl.m (fused)"
+    },
+    {
+     "surface": "evaṃrūpaṃ",
+     "gloss": "such-form",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śakyamāhaṃ",
+     "gloss": "I-am-able",
+     "grounds": "fused adjective-pronoun",
+     "morph": "adj.nom.sg.n + pron.nom.sg (fused)"
+    },
+    {
+     "surface": "nṛloke",
+     "gloss": "in-human-world",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "draṣṭuṃ",
+     "gloss": "to-see",
+     "grounds": "infinitive",
+     "morph": "infinitive root dṛś"
+    },
+    {
+     "surface": "tvadanyena",
+     "gloss": "by-other-than-you",
+     "grounds": "instrumental compound",
+     "morph": "pron.inst.sg + adj.inst.sg (compound)"
+    },
+    {
+     "surface": "kurupravīra",
+     "gloss": "Kuru-hero",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg (compound)"
+    }
+   ],
+   "question": "Can anyone else see this form?",
+   "premises": [
+    "not by Veda sacrifice study",
+    "not by gifts rites austerities",
+    "only Arjuna can see it"
+   ],
+   "inference": "The form is inaccessible by ordinary means",
+   "uncertainties": [
+    "dānai- carries trailing hyphen in source",
+    "rna appears as fused negation token"
+   ],
+   "plain_english": "Not by Veda, sacrifice, study, nor by gifts, nor by rites, nor by severe austerities can such a form be seen by me in the human world by other than you, O Kuru hero."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "prohibitive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "vyathā",
+     "gloss": "distress",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "prohibitive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimūḍhata",
+     "gloss": "be-confused",
+     "grounds": "imperative",
+     "morph": "verb.2.sg.act-imp root vimuh"
+    },
+    {
+     "surface": "bhūd",
+     "gloss": "let-it-be",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt root bhū"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive",
+     "morph": "absolutive root dṛś"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghoramugraṃ",
+     "gloss": "terrible-fierce",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n (compound)"
+    },
+    {
+     "surface": "mamedam",
+     "gloss": "my-this",
+     "grounds": "fused pronoun-demonstrative",
+     "morph": "pron.gen.sg + pron.acc.sg.n (fused)"
+    },
+    {
+     "surface": "vyapetabhīḥ",
+     "gloss": "fear-gone",
+     "grounds": "participle",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "prītamanāḥ",
+     "gloss": "pleased-mind",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m (compound)"
+    },
+    {
+     "surface": "punastvaṃ",
+     "gloss": "again-you",
+     "grounds": "fused adverb-pronoun",
+     "morph": "(indecl.) + pron.nom.sg (fused)"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "rūpamidaṃ",
+     "gloss": "form-this",
+     "grounds": "fused noun-demonstrative",
+     "morph": "n.acc.sg + pron.acc.sg.n (fused)"
+    },
+    {
+     "surface": "prapaśya",
+     "gloss": "behold",
+     "grounds": "imperative",
+     "morph": "verb.2.sg.act-imp root paś"
+    }
+   ],
+   "question": "How should Arjuna respond to the fierce form?",
+   "premises": [
+    "do not be distressed",
+    "do not be confused",
+    "behold the gentle form again"
+   ],
+   "inference": "Arjuna is reassured and restored",
+   "uncertainties": [
+    "vimūḍhata is imperative in source",
+    "mamedam and rūpamidaṃ are fused"
+   ],
+   "plain_english": "Let there be no distress for you, nor confusion, having seen this terrible fierce form of mine; with fear gone and pleased mind, again you behold that very gentle form of mine."
+  }
+ ]
+}

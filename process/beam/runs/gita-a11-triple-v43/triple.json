@@ -1,0 +1,569 @@
+{
+ "song": "gita-a11",
+ "items": [
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "sakheti",
+     "gloss": "friend-thus",
+     "grounds": "fused vocative-plus-iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matvā",
+     "gloss": "thinking",
+     "grounds": "absolutive",
+     "morph": "abs.-√man"
+    },
+    {
+     "surface": "prasabhaṃ",
+     "gloss": "forcibly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "what-said",
+     "grounds": "relative participle",
+     "morph": "ppp."
+    },
+    {
+     "surface": "he",
+     "gloss": "O",
+     "grounds": "vocative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "Krishna",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "he",
+     "gloss": "O",
+     "grounds": "vocative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yādava",
+     "gloss": "Yadava",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "he",
+     "gloss": "O",
+     "grounds": "vocative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakhe",
+     "gloss": "friend",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ajānatā",
+     "gloss": "not-knowing",
+     "grounds": "instrumental participle",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mahimānaṃ",
+     "gloss": "greatness",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tavemaṃ",
+     "gloss": "your-this",
+     "grounds": "fused pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pramādātpraṇayena",
+     "gloss": "from-carelessness-or-affection",
+     "grounds": "fused ablative-instrumental",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does Arjuna confess his careless or affectionate address?",
+   "premises": [
+    "Arjuna addresses Krishna as friend",
+    "He admits ignorance of Krishna's greatness",
+    "He attributes the address to carelessness or affection"
+   ],
+   "inference": "Arjuna's confession frames his earlier familiarity as born of ignorance and affection",
+   "uncertainties": [
+    "fused pramādātpraṇayena may be ablative or instrumental"
+   ],
+   "plain_english": "Thinking you were my friend, I spoke forcibly, O Krishna, O Yadava, O friend; not knowing your greatness, I did this by carelessness or affection."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "yaccāvahāsārthamasatkṛto'si",
+     "gloss": "what-for-mockery-disrespected-you",
+     "grounds": "fused relative clause",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vihāraśayyāsanabhojaneṣu",
+     "gloss": "in-play-bed-seat-food",
+     "grounds": "locative compound",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "eko'thavāpyacyuta",
+     "gloss": "one-or-even-O-acyuta",
+     "grounds": "fused alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamakṣaṃ",
+     "gloss": "in-presence",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkṣāmaye",
+     "gloss": "I-beg-pardon",
+     "grounds": "verb form",
+     "morph": "1.sg.act.-√kṣam"
+    },
+    {
+     "surface": "tvāmahamaprameyam",
+     "gloss": "you-me-immeasurable",
+     "grounds": "fused accusative",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What does Arjuna ask Krishna to forgive?",
+   "premises": [
+    "Arjuna recalls mockery and disrespect",
+    "It occurred in play, rest, seat, and food",
+    "He asks pardon before Krishna and others"
+   ],
+   "inference": "Arjuna seeks forgiveness for familiar disrespect shown in ordinary settings",
+   "uncertainties": [
+    "fused eko'thavāpyacyuta may include vocative acyuta"
+   ],
+   "plain_english": "Whatever disrespect was shown to you for mockery, in play, bed, seat, or food, alone or before others, O Acyuta, I beg your pardon, immeasurable one."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "pitāsi",
+     "gloss": "father-you-are",
+     "grounds": "copula",
+     "morph": "2.sg.act.-√as"
+    },
+    {
+     "surface": "lokasya",
+     "gloss": "of-world",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "carācarasya",
+     "gloss": "of-moving-and-still",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tvamasya",
+     "gloss": "you-of-this",
+     "grounds": "fused pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viśvasya",
+     "gloss": "of-universe",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "gururgarīyān",
+     "gloss": "teacher-most-venerable",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvatsamo'styabhyadhikaḥ",
+     "gloss": "equal-to-you-is-superior",
+     "grounds": "fused copula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuto'nyo",
+     "gloss": "whence-another",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokatraye'pyapratimaprabhāva",
+     "gloss": "in-three-worlds-even-unmatched-splendor",
+     "grounds": "fused locative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does Arjuna call Krishna father and teacher?",
+   "premises": [
+    "Krishna is father of moving and still beings",
+    "Krishna is venerable teacher of the universe",
+    "No equal or superior exists in three worlds"
+   ],
+   "inference": "Arjuna grounds his plea in Krishna's unmatched paternal and teaching authority",
+   "uncertainties": [
+    "fused tvatsamo'styabhyadhikaḥ may be read as copula plus adjective"
+   ],
+   "plain_english": "You are father of the moving and still world, venerable teacher of this universe; none is equal to you, much less superior, in the three worlds of unmatched splendor."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "tasmātpraṇamya",
+     "gloss": "therefore-bowing",
+     "grounds": "absolutive compound",
+     "morph": "abs."
+    },
+    {
+     "surface": "praṇidhāya",
+     "gloss": "placing",
+     "grounds": "absolutive",
+     "morph": "abs.-√dhā"
+    },
+    {
+     "surface": "kāyaṃ",
+     "gloss": "body",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasādaye",
+     "gloss": "I-propitiate",
+     "grounds": "verb",
+     "morph": "1.sg.act.-√sad"
+    },
+    {
+     "surface": "tvāmahamīśamīḍhyam",
+     "gloss": "you-me-lord-worshipful",
+     "grounds": "fused accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "piteva",
+     "gloss": "like-father",
+     "grounds": "comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putrasya",
+     "gloss": "of-son",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sakheva",
+     "gloss": "like-friend",
+     "grounds": "comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakhyuḥ",
+     "gloss": "of-friend",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priyāsyārhasi",
+     "gloss": "you-should-bear",
+     "grounds": "verb form",
+     "morph": "2.sg.act.-√ṛh"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "soḍhum",
+     "gloss": "to-endure",
+     "grounds": "infinitive",
+     "morph": "inf.-√sah"
+    }
+   ],
+   "question": "How does Arjuna ask Krishna to accept his apology?",
+   "premises": [
+    "Arjuna bows and places his body",
+    "He propitiates the worshipful Lord",
+    "He asks Krishna to bear like father or friend"
+   ],
+   "inference": "Arjuna's apology appeals to intimate familial and friendly forbearance",
+   "uncertainties": [
+    "priyāsyārhasi is a fused verb form with uncertain parsing"
+   ],
+   "plain_english": "Therefore bowing and placing my body, I propitiate you, worshipful Lord; as a father bears a son, as a friend bears a friend, O god, you should endure."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "divyāni",
+     "gloss": "divine",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "deeds",
+     "grounds": "nominative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tavādbhutāni",
+     "gloss": "your-wondrous",
+     "grounds": "fused adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pūrvāṇi",
+     "gloss": "former",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "former-ones",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṛṣayaḥ",
+     "gloss": "sages",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smaranti",
+     "gloss": "remember",
+     "grounds": "verb",
+     "morph": "3.pl.act.-√smṛ"
+    },
+    {
+     "surface": "nānyo'sti",
+     "gloss": "no-other-is",
+     "grounds": "fused negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "doer",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jagatastvameko",
+     "gloss": "of-world-you-alone",
+     "grounds": "fused genitive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhātā",
+     "gloss": "sustainer",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhātā",
+     "gloss": "ordainer",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhurbhavaśca",
+     "gloss": "all-pervading-Bhava-and",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What do the sages remember about Krishna's deeds?",
+   "premises": [
+    "The sages remember Krishna's divine former deeds",
+    "No other is doer of the world",
+    "Krishna alone is sustainer, ordainer, and all-pervading Bhava"
+   ],
+   "inference": "Arjuna praises Krishna as sole cosmic agent remembered by sages",
+   "uncertainties": [
+    "fused vibhurbhavaśca may be compound or separate terms"
+   ],
+   "plain_english": "The sages remember your divine and wondrous former deeds; no other is doer of the world; you alone are sustainer, ordainer, and all-pervading Bhava."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "tavādbhutaṃ",
+     "gloss": "your-wondrous",
+     "grounds": "fused adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavedasahyaṃ",
+     "gloss": "would-be-unbearable",
+     "grounds": "fused verb",
+     "morph": "3.sg.opt.-√bhū"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakyaṃ",
+     "gloss": "possible",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parataḥ",
+     "gloss": "from-another",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtayiṣye",
+     "gloss": "I-will-proclaim",
+     "grounds": "verb",
+     "morph": "1.sg.fut.-√kīrt"
+    },
+    {
+     "surface": "kartāsi",
+     "gloss": "you-are-doer",
+     "grounds": "fused copula",
+     "morph": "2.sg.act.-√as"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "since",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "itself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibho",
+     "gloss": "O-vibhu",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamidaṃ",
+     "gloss": "all-this",
+     "grounds": "fused pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvameva",
+     "gloss": "you-alone",
+     "grounds": "fused pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why can Arjuna proclaim Krishna's wondrous deeds?",
+   "premises": [
+    "Nothing wondrous would be unbearable for Krishna",
+    "Nothing is possible from another",
+    "Krishna is doer of all, therefore all this is Krishna"
+   ],
+   "inference": "Arjuna's proclamation rests on Krishna's sole agency over all things",
+   "uncertainties": [
+    "fused bhavedasahyaṃ may be optative or potential"
+   ],
+   "plain_english": "What wondrous thing of yours would be unbearable, or what could be possible from another? I will proclaim, since you are doer of all, O vibhu; therefore all this is you alone."
+  }
+ ]
+}

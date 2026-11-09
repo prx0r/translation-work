@@ -1,0 +1,587 @@
+{
+ "song": "gita-a11",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "daṃṣṭrākarālāni",
+     "gloss": "fang-terrifying",
+     "grounds": "compound adjective describing mouths",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "mukhāni",
+     "gloss": "mouths",
+     "grounds": "plural noun",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "dṛṣṭvaiva",
+     "gloss": "having-seen-indeed",
+     "grounds": "fused participle plus emphatic particle",
+     "morph": "part.abs.sg.m"
+    },
+    {
+     "surface": "kālānalasannibhāni",
+     "gloss": "like-death-fire",
+     "grounds": "compound simile",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "diśo",
+     "gloss": "directions",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāne",
+     "gloss": "I-know",
+     "grounds": "first person verb",
+     "morph": "v.1.sg.act-pres + root jñā"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhe",
+     "gloss": "I-find",
+     "grounds": "first person verb",
+     "morph": "v.1.sg.act-pres + root labh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śarma",
+     "gloss": "comfort",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "prasīda",
+     "gloss": "be-gracious",
+     "grounds": "imperative verb",
+     "morph": "v.2.sg.act-imp + root prasad"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "jagannivāsa",
+     "gloss": "world-abode",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg.m"
+    }
+   ],
+   "question": "Why does the seer lose all sense of direction and comfort?",
+   "premises": [
+    "The mouths appear fang-terrifying and death-fire-like.",
+    "Seeing them removes directional knowledge.",
+    "The speaker asks the world-abode for grace."
+   ],
+   "inference": "The terrifying cosmic form overwhelms ordinary orientation and refuge.",
+   "uncertainties": [
+    "The fused form dṛṣṭvaiva is treated as one surface token."
+   ],
+   "plain_english": "Seeing your fang-terrifying mouths, like death-fire, I know no directions and find no comfort; be gracious, lord of gods, abode of the world."
+  },
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "amī",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "dhṛtarāṣṭrasya",
+     "gloss": "of-dhritarashtra",
+     "grounds": "genitive noun",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "putrāḥ",
+     "gloss": "sons",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "sahaivāvanipālasaṅghaiḥ",
+     "gloss": "together-with-earth-protector-groups-indeed",
+     "grounds": "fused sandhi compound",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "bhīṣmo",
+     "gloss": "bhishma",
+     "grounds": "proper noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "droṇaḥ",
+     "gloss": "drona",
+     "grounds": "proper noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sūtaputrastathāsau",
+     "gloss": "charioteer-son-and-that-one",
+     "grounds": "fused compound and pronoun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sahāsmadīyairapi",
+     "gloss": "with-our-own-also",
+     "grounds": "fused pronoun and particle",
+     "morph": "pron.ins.pl.m"
+    },
+    {
+     "surface": "yodhamukhyaiḥ",
+     "gloss": "warrior-chiefs",
+     "grounds": "compound instrumental plural",
+     "morph": "n.ins.pl.m"
+    }
+   ],
+   "question": "Who is seen entering the cosmic mouths?",
+   "premises": [
+    "Dhritarashtra's sons are all present.",
+    "Bhishma, Drona, and the charioteer's son appear.",
+    "Our own warrior chiefs are included."
+   ],
+   "inference": "The cosmic form consumes both enemy and allied martial leaders.",
+   "uncertainties": [
+    "The fused token sahaivāvanipālasaṅghaiḥ is kept as one row."
+   ],
+   "plain_english": "All these sons of Dhritarashtra, together with groups of earth-protectors, Bhishma, Drona, that charioteer's son, and our own warrior chiefs, are seen."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "vaktrāṇi",
+     "gloss": "mouths",
+     "grounds": "plural noun",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "tvaramāṇā",
+     "gloss": "hurrying",
+     "grounds": "present participle",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "third person plural verb",
+     "morph": "v.3.pl.act-pres + root viś"
+    },
+    {
+     "surface": "daṃṣṭrākarālāni",
+     "gloss": "fang-terrifying",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "bhayānakāni",
+     "gloss": "fearful",
+     "grounds": "adjective",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "kecidvilagnā",
+     "gloss": "some-stuck",
+     "grounds": "fused participle",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "daśanāntareṣu",
+     "gloss": "between-teeth",
+     "grounds": "locative compound",
+     "morph": "n.loc.pl.n"
+    },
+    {
+     "surface": "sandṛśyante",
+     "gloss": "are-seen",
+     "grounds": "passive verb",
+     "morph": "v.3.pl.pass-pres + root dṛś"
+    },
+    {
+     "surface": "cūrṇitairuttamāṅgaiḥ",
+     "gloss": "with-crushed-heads",
+     "grounds": "instrumental compound",
+     "morph": "n.ins.pl.n"
+    }
+   ],
+   "question": "How do warriors enter the terrifying mouths?",
+   "premises": [
+    "Some hurry into the fang-terrifying mouths.",
+    "Some are stuck between the teeth.",
+    "Crushed heads are visible."
+   ],
+   "inference": "The cosmic form destroys warriors by direct physical consumption.",
+   "uncertainties": [
+    "The fused token kecidvilagnā is kept as one row."
+   ],
+   "plain_english": "Hurrying, they enter your fang-terrifying fearful mouths; some are seen stuck between the teeth with crushed heads."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "nānārūpaiḥ",
+     "gloss": "with-various-forms",
+     "grounds": "instrumental compound",
+     "morph": "adj.ins.pl.m"
+    },
+    {
+     "surface": "puruṣairbādhyamānā",
+     "gloss": "men-being-crushed",
+     "grounds": "fused participle",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "third person plural verb",
+     "morph": "v.3.pl.act-pres + root viś"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "vaktramacintyarūpam",
+     "gloss": "mouth-inconceivable-form",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "yaudhiṣṭhirā",
+     "gloss": "yudhishthira's",
+     "grounds": "adjectival form",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "dhārtarāṣṭrāśca",
+     "gloss": "dhartarashtra's-and",
+     "grounds": "fused noun and connective",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "yodhāḥ",
+     "gloss": "warriors",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "śastraiḥ",
+     "gloss": "with-weapons",
+     "grounds": "instrumental plural",
+     "morph": "n.ins.pl.n"
+    },
+    {
+     "surface": "kṛttā",
+     "gloss": "cut",
+     "grounds": "past participle",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "vividhaiḥ",
+     "gloss": "various",
+     "grounds": "adjective",
+     "morph": "adj.ins.pl.n"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which warriors enter the inconceivable mouth?",
+   "premises": [
+    "Men of various forms are being crushed.",
+    "Yudhishthira's and Dhritarashtra's warriors enter.",
+    "All are cut by various weapons."
+   ],
+   "inference": "Both armies are drawn into the same destructive cosmic mouth.",
+   "uncertainties": [
+    "The fused token dhārtarāṣṭrāśca is kept as one row."
+   ],
+   "plain_english": "Men of various forms, being crushed, enter your mouth of inconceivable form; Yudhishthira's and Dhritarashtra's warriors, all cut by various weapons, enter indeed."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "tvattejasā",
+     "gloss": "by-your-radiance",
+     "grounds": "instrumental compound",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "nihatā",
+     "gloss": "slain",
+     "grounds": "past participle",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "nūnamete",
+     "gloss": "surely-these",
+     "grounds": "fused adverb and pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "tathāhīme",
+     "gloss": "for-thus-these",
+     "grounds": "fused connective and pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "tvaccharīre",
+     "gloss": "in-your-body",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "praviṣṭāḥ",
+     "gloss": "entered",
+     "grounds": "past participle",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nadīnāṃ",
+     "gloss": "of-rivers",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "bahavo'mbuvegāḥ",
+     "gloss": "many-water-currents",
+     "grounds": "fused compound",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "samudramevābhimukhā",
+     "gloss": "toward-ocean-indeed",
+     "grounds": "fused compound",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "vajranti",
+     "gloss": "flow",
+     "grounds": "third person plural verb",
+     "morph": "v.3.pl.act-pres + root vah"
+    }
+   ],
+   "question": "Why have these warriors already been slain?",
+   "premises": [
+    "They are slain by your radiance.",
+    "They have entered your body.",
+    "Rivers flow toward the ocean."
+   ],
+   "inference": "The warriors are already destroyed by divine radiance before entering the form.",
+   "uncertainties": [
+    "The fused tokens nūnamete, tathāhīme, bahavo'mbuvegāḥ, and samudramevābhimukhā are kept as one row each."
+   ],
+   "plain_english": "Surely these are slain by your radiance; for thus these have entered your body, as many river currents flow toward the ocean indeed."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tavāmī",
+     "gloss": "your-these",
+     "grounds": "fused pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "naralokavīrā",
+     "gloss": "world-heroes",
+     "grounds": "compound noun",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "third person plural verb",
+     "morph": "v.3.pl.act-pres + root viś"
+    },
+    {
+     "surface": "vaktrāṇyabhito",
+     "gloss": "mouths-around",
+     "grounds": "fused compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "jvalanti",
+     "gloss": "blazing",
+     "grounds": "participle or adjective",
+     "morph": "part.nom.pl.m"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradīptaṃ",
+     "gloss": "blazing",
+     "grounds": "past participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "jvalanaṃ",
+     "gloss": "fire",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pataṅgā",
+     "gloss": "moths",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "third person plural verb",
+     "morph": "v.3.pl.act-pres + root viś"
+    },
+    {
+     "surface": "nāśāya",
+     "gloss": "for-destruction",
+     "grounds": "dative noun",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "samṛddhavegāḥ",
+     "gloss": "with-swift-force",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "just-so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśāya",
+     "gloss": "for-destruction",
+     "grounds": "dative noun",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "third person plural verb",
+     "morph": "v.3.pl.act-pres + root viś"
+    },
+    {
+     "surface": "lokā",
+     "gloss": "worlds",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "stavāpi",
+     "gloss": "your-mouths-also",
+     "grounds": "fused pronoun and particle",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "vaktrāṇi",
+     "gloss": "mouths",
+     "grounds": "plural noun",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "samṛddhavegāḥ",
+     "gloss": "with-swift-force",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What simile explains the worlds entering the blazing mouths?",
+   "premises": [
+    "World-heroes enter the blazing mouths.",
+    "Moths enter blazing fire for destruction.",
+    "Worlds likewise enter your mouths for destruction."
+   ],
+   "inference": "The cosmic form draws beings to destruction like moths to flame.",
+   "uncertainties": [
+    "The fused tokens tavāmī, vaktrāṇyabhito, and stavāpi are kept as one row each."
+   ],
+   "plain_english": "Thus your world-heroes enter the blazing mouths around, as moths enter blazing fire for destruction with swift force; so too worlds enter your mouths for destruction with swift force."
+  }
+ ]
+}

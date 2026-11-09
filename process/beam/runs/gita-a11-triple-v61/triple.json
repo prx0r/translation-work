@@ -1,0 +1,106 @@
+{
+ "song": "gita-a11",
+ "items": [
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahaślokaḥ",
+     "gloss": "summary-verse",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śuddhāśuddhavimiśrotthasaṃvidaikyavimarśanāt",
+     "gloss": "pure-impure-mixed-consciousness-unity-recognition",
+     "grounds": "long compound in ablative sense",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "bhūrbhuvaḥ",
+     "gloss": "earth-midworld",
+     "grounds": "compound of worlds",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svastrayaṃ",
+     "gloss": "three-worlds",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paśyansamatvena",
+     "gloss": "seeing-with-equality",
+     "grounds": "participle with instrumental",
+     "morph": "pres.part.m.nom.sg"
+    },
+    {
+     "surface": "samo",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "11",
+     "gloss": "eleven",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmahāmaheśvarācāryavaryarājānakābhinavaguptapādaviracite",
+     "gloss": "composed-by-abhinavagupta",
+     "grounds": "long compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śrīmadbhagavadgītārthasaṃgrahe",
+     "gloss": "in-gita-meaning-gathering",
+     "grounds": "compound locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ekādaśo'dhyāyaḥ",
+     "gloss": "eleventh-chapter",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "11",
+     "gloss": "eleven",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the summary verse declare about the sage who sees the three worlds equally?",
+   "premises": [
+    "the summary verse gathers the chapter's meaning",
+    "the sage sees the three worlds with equality",
+    "recognition of consciousness-unity is the stated ground"
+   ],
+   "inference": "the verse presents equal vision of the worlds as the sage's settled recognition",
+   "uncertainties": [
+    "the long compound's exact pada-split remains interpretive",
+    "paratext numbers are retained as tokens"
+   ],
+   "plain_english": "Here is the summary verse: through recognition of the unity of consciousness arising from pure, impure, and mixed states, the sage who sees earth, midworld, and the three worlds with equality is equal."
+  }
+ ]
+}

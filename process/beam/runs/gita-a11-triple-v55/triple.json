@@ -1,0 +1,655 @@
+{
+ "song": "gita-a11",
+ "items": [
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "saṃjaya",
+     "gloss": "sanjaya",
+     "grounds": "narrator name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "narrative verb",
+     "morph": "3.sg.act-aor + root vac"
+    },
+    {
+     "surface": "ityarjunaṃ",
+     "gloss": "thus-to-arjuna",
+     "grounds": "fused iti+arjunam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāsudevastathoktvā",
+     "gloss": "vasudeva-thus-having-said",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svakaṃ",
+     "gloss": "own",
+     "grounds": "reflexive adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "object shown",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "darśayāmāsa",
+     "gloss": "showed",
+     "grounds": "causative perfect",
+     "morph": "3.sg.act-perf + root drś"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśvāsayāmāsa",
+     "gloss": "consoled",
+     "grounds": "causative perfect",
+     "morph": "3.sg.act-perf + root śvas"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhītamenaṃ",
+     "gloss": "frightened-him",
+     "grounds": "fused participle+pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive",
+     "morph": "abs + root bhū"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saumyavapurmahātmā",
+     "gloss": "gentle-form-great-soul",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does Krishna reassure Arjuna after the terrifying vision?",
+   "premises": [
+    "Krishna shows his own form again",
+    "He consoles frightened Arjuna",
+    "He becomes gentle-formed great soul"
+   ],
+   "inference": "The terrifying vision is withdrawn and Arjuna is reassured by Krishna's gentle form.",
+   "uncertainties": [
+    "Fused sandhi forms are analyzed as given"
+   ],
+   "plain_english": "Sanjaya said that Vasudeva, having spoken thus to Arjuna, showed his own form again, consoled the frightened one, and became the great soul of gentle form."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "arjuna",
+     "gloss": "arjuna",
+     "grounds": "speaker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "narrative verb",
+     "morph": "3.sg.act-aor + root vac"
+    },
+    {
+     "surface": "dṛṣṭvedaṃ",
+     "gloss": "having-seen-this",
+     "grounds": "fused participle",
+     "morph": "abs + root drś"
+    },
+    {
+     "surface": "mānuṣaṃ",
+     "gloss": "human",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "object seen",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tavasaumyaṃ",
+     "gloss": "your-gentle",
+     "grounds": "fused adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "janārdana",
+     "gloss": "janardana",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "idānīmasmi",
+     "gloss": "now-i-am",
+     "grounds": "fused adverb+verb",
+     "morph": "1.sg.act-pres + root as"
+    },
+    {
+     "surface": "saṃvṛttaḥ",
+     "gloss": "restored",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sacetāḥ",
+     "gloss": "with-mind",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakṛtiṃ",
+     "gloss": "nature",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sakalopasaṃhārānte",
+     "gloss": "at-end-of-total-withdrawal",
+     "grounds": "fused compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paramapraśāntarūpāṃ",
+     "gloss": "supremely-peaceful-form",
+     "grounds": "fused compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "brahmatattvasthitiṃ",
+     "gloss": "brahma-principle-state",
+     "grounds": "fused compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadāti-ityupasaṃhāre",
+     "gloss": "gives-thus-in-conclusion",
+     "grounds": "fused phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavataḥ",
+     "gloss": "of-the-lord",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saumyatā",
+     "gloss": "gentleness",
+     "grounds": "abstract noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "56",
+     "gloss": "verse-number",
+     "grounds": "numeral marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does Arjuna say after seeing Krishna's gentle human form?",
+   "premises": [
+    "Arjuna sees Krishna's gentle human form",
+    "He says he is restored and of sound mind",
+    "He returns to his nature"
+   ],
+   "inference": "Arjuna's fear subsides and he recognizes Krishna's gentle form as the peaceful Brahman-state.",
+   "uncertainties": [
+    "Fused editorial tokens are kept as given"
+   ],
+   "plain_english": "Arjuna said that having seen this gentle human form of Krishna, he is now restored, of sound mind, and returned to his nature; at the end of total withdrawal the Lord gives the supremely peaceful form, the state of Brahman-principle, and thus in conclusion the Lord's gentleness."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "śrībhagavānuvāca",
+     "gloss": "the-blessed-lord-said",
+     "grounds": "fused title+verb",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sudurdarśamidaṃ",
+     "gloss": "very-hard-to-see-this",
+     "grounds": "fused adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭavānasi",
+     "gloss": "you-have-seen",
+     "grounds": "fused participle+verb",
+     "morph": "2.sg.act-perf + root drś"
+    },
+    {
+     "surface": "yanmama",
+     "gloss": "which-of-mine",
+     "grounds": "fused relative+pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devā",
+     "gloss": "gods",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "apyasya",
+     "gloss": "even-of-this",
+     "grounds": "fused particle+pronoun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "rūpasya",
+     "gloss": "form",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśanakāṅkṣiṇaḥ",
+     "gloss": "desiring-to-see",
+     "grounds": "compound participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why is Krishna's form difficult even for gods to see?",
+   "premises": [
+    "Krishna says this form is very hard to see",
+    "Arjuna has seen it",
+    "Even gods always desire to see it"
+   ],
+   "inference": "The divine form is rarely seen, so Arjuna's vision is exceptional.",
+   "uncertainties": [
+    "Fused forms are analyzed as given"
+   ],
+   "plain_english": "The blessed Lord said: this form of mine that you have seen is very hard to see; even the gods always desire to see this form."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "nāhaṃ",
+     "gloss": "not-i",
+     "grounds": "fused negation+pronoun",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "vedairna",
+     "gloss": "by-vedas-not",
+     "grounds": "fused instrumental+negation",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tapasā",
+     "gloss": "by-austerity",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dānena",
+     "gloss": "by-gift",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cejyayā",
+     "gloss": "by-sacrifice",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "śakya",
+     "gloss": "possible",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃvidho",
+     "gloss": "of-such-kind",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "draṣṭuṃ",
+     "gloss": "to-see",
+     "grounds": "infinitive",
+     "morph": "inf + root drś"
+    },
+    {
+     "surface": "dṛṣṭavānasi",
+     "gloss": "you-have-seen",
+     "grounds": "fused participle+verb",
+     "morph": "2.sg.act-perf + root drś"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can Krishna's form be seen through Vedic study, austerity, gifts, or sacrifice?",
+   "premises": [
+    "Krishna says he is not seen by Vedas",
+    "Nor by austerity, gift, or sacrifice",
+    "Arjuna has seen him as he is"
+   ],
+   "inference": "Ordinary ritual and ascetic means do not reveal Krishna's form; Arjuna's seeing is exceptional.",
+   "uncertainties": [
+    "Fused forms are analyzed as given"
+   ],
+   "plain_english": "I am not to be seen in such a form by the Vedas, nor by austerity, nor by gift, nor by sacrifice; you have seen me as I am."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-devotion",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tvananyayā",
+     "gloss": "undivided",
+     "grounds": "fused adjective",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "śakya",
+     "gloss": "possible",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyahamevaṃvidho'rjuna",
+     "gloss": "indeed-i-such-kind-arjuna",
+     "grounds": "fused phrase",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "jñātuṃ",
+     "gloss": "to-know",
+     "grounds": "infinitive",
+     "morph": "inf + root jñā"
+    },
+    {
+     "surface": "draṣṭuṃ",
+     "gloss": "to-see",
+     "grounds": "infinitive",
+     "morph": "inf + root drś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvena",
+     "gloss": "in-truth",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "praveṣṭuṃ",
+     "gloss": "to-enter",
+     "grounds": "infinitive",
+     "morph": "inf + root viś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parantapa",
+     "gloss": "scorcher-of-foes",
+     "grounds": "vocative epithet",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How can Krishna be known, seen, and entered in truth?",
+   "premises": [
+    "Krishna says he can be known by undivided devotion",
+    "He can be seen and entered in truth",
+    "He addresses Arjuna as scorcher of foes"
+   ],
+   "inference": "Undivided devotion is the means to know, see, and enter Krishna in truth.",
+   "uncertainties": [
+    "Fused forms are analyzed as given"
+   ],
+   "plain_english": "By undivided devotion I can be known, seen, and entered in truth in such a form, O Arjuna, scorcher of foes."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "matkarmakṛnmatparamo",
+     "gloss": "doing-my-works-devoted-to-me",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madbhaktaḥ",
+     "gloss": "my-devotee",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṅgavarjitaḥ",
+     "gloss": "free-from-attachment",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirvairaḥ",
+     "gloss": "without-enmity",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvabhūteṣu",
+     "gloss": "toward-all-beings",
+     "grounds": "locative",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māmeti",
+     "gloss": "comes-to-me",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres + root i"
+    },
+    {
+     "surface": "pāṇḍava",
+     "gloss": "pandava",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "avidyamānānyajñeyaramaṇīyā",
+     "gloss": "not-existing-other-knowable-pleasant",
+     "grounds": "fused compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "whose",
+     "grounds": "relative",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parisphurati",
+     "gloss": "shines-forth",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root sphur"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "to-them",
+     "grounds": "dative",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "prapadyate",
+     "gloss": "approaches",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres + root pad"
+    },
+    {
+     "surface": "vāsudevaḥ",
+     "gloss": "vasudeva",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityādipūrvābhihitopadeśacamatkārāt",
+     "gloss": "from-wonder-of-previously-stated-teaching",
+     "grounds": "fused compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "viśvātmakaṃ",
+     "gloss": "world-souled",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāsudevatattvamayatnata",
+     "gloss": "vasudeva-principle-effortlessly",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhapadavīmavataratīti",
+     "gloss": "descends-into-path-of-knowing-thus",
+     "grounds": "fused compound",
+     "morph": "3.sg.act-pres + root avatṛ"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "closing benediction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "60",
+     "gloss": "verse-number",
+     "grounds": "numeral marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who reaches Krishna and how does Vasudeva's teaching lead to knowing?",
+   "premises": [
+    "The devotee who acts for Krishna reaches him",
+    "Devotion shines forth for those without other knowable pleasant things",
+    "Vasudeva approaches them and all is given",
+    "From wonder at the previously stated teaching",
+    "The world-souled Vasudeva-principle descends effortlessly into the path of knowing"
+   ],
+   "inference": "Devotion and Krishna-centered action bring the devotee to Krishna, while the teaching's wonder makes the universal Vasudeva-principle accessible as knowing.",
+   "uncertainties": [
+    "Fused editorial tokens are kept as given"
+   ],
+   "plain_english": "He who does my works, is devoted to me, is free from attachment, and is without enmity toward all beings reaches me, O Pandava. For those whose devotion shines forth toward no other knowable pleasant thing, Vasudeva approaches them; all. From the wonder of the previously stated teaching, the world-souled Vasudeva-principle descends effortlessly into the path of knowing. Auspicious. 60."
+  }
+ ]
+}

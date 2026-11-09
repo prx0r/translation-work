@@ -68,6 +68,24 @@ def main() -> int:
     t1_verses = {o["verse_id"] for o in t1}
     l0_ids = {o["id"] for o in l0}
     l0_by_id = {o["id"]: o for o in l0}
+    # Song-local numbering (multi-song works): working-t1 entries carry the
+    # absolute source span in `span`. The expected data-verse set is then the
+    # working-t1 verses, and the span set must equal the source verse set
+    # (proving full source coverage). Single-span works (verse==span) are
+    # unaffected — the mapping is the identity.
+    _wt_path = w / f'working-t1-{song}.json'
+    _exp_verses = None
+    if _wt_path.exists():
+        try:
+            _wt = json.loads(_wt_path.read_text())
+            if _wt and all('span' in e for e in _wt):
+                _spans = {e['span'] for e in _wt}
+                if _spans != src_verses:
+                    errs.append(f"coverage spans: working-t1 spans {sorted(_spans)} != source {sorted(src_verses)}")
+                _exp_verses = {e['verse'] for e in _wt}
+        except (ValueError, KeyError):
+            pass
+    _want_verses = _exp_verses if _exp_verses is not None else src_verses
     for o in t1:
         errs += t1s.validate(o, f"t1[{o.get('verse_id')}]")
     for o in l0:
@@ -152,12 +170,12 @@ def main() -> int:
     # invariant 6: coverage == GRETIL verse set
     for name, have in [("t1", {o["verse"] for o in t1}), ("argmap", {o["verse"] for o in am}),
                        ("l2", {o["verse"] for o in l2})]:
-        if have != src_verses:
-            errs.append(f"coverage {name}: {sorted(have)} != source {sorted(src_verses)}")
-    if l3 is not None and {o["verse"] for o in l3} != src_verses:
-        errs.append(f"coverage l3: {sorted(o['verse'] for o in l3)} != source {sorted(src_verses)}")
-    if l4 is not None and {o["verse"] for o in l4} != src_verses:
-        errs.append(f"coverage l4: {sorted(o['verse'] for o in l4)} != source {sorted(src_verses)}")
+        if have != _want_verses:
+            errs.append(f"coverage {name}: {sorted(have)} != source {sorted(_want_verses)}")
+    if l3 is not None and {o["verse"] for o in l3} != _want_verses:
+        errs.append(f"coverage l3: {sorted(o['verse'] for o in l3)} != source {sorted(_want_verses)}")
+    if l4 is not None and {o["verse"] for o in l4} != _want_verses:
+        errs.append(f"coverage l4: {sorted(o['verse'] for o in l4)} != source {sorted(_want_verses)}")
     l0_verses = set()
     _vid2verse = {o["verse_id"]: o.get("verse") for o in t1}
     for o in l0:
@@ -172,8 +190,8 @@ def main() -> int:
             l0_verses.add(_vid2verse[vid])
         else:
             errs.append(f"coverage l0: unmappable verse_id {vid!r}")
-    if l0_verses != src_verses:
-        errs.append(f"coverage l0 verses {sorted(l0_verses)} != source {sorted(src_verses)}")
+    if l0_verses != _want_verses:
+        errs.append(f"coverage l0 verses {sorted(l0_verses)} != source {sorted(_want_verses)}")
 
     print(json.dumps({"song": song, "errors": errs,
                        "counts": {"t1": len(t1), "l0": len(l0), "argmap": len(am),
