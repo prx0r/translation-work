@@ -1,0 +1,479 @@
+{
+ "song": "mv-k06",
+ "items": [
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "aparaḥ",
+     "gloss": "lower",
+     "grounds": "the lower or limited subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "knower",
+     "grounds": "the cognizing subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sakalaḥ",
+     "gloss": "sakala",
+     "grounds": "the limited individual subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṣyate",
+     "gloss": "is-called",
+     "grounds": "is spoken of or designated",
+     "morph": "3.sg.pass-pres + bhāṣ"
+    },
+    {
+     "surface": "parāparādibhedena",
+     "gloss": "by-division-of-higher-lower-and-so-on",
+     "grounds": "by distinctions such as higher-lower etc.",
+     "morph": "compound = parāpara+ādi+bheda; m.inst.sg"
+    },
+    {
+     "surface": "tasyāpi",
+     "gloss": "of-him-too",
+     "grounds": "even of that subject",
+     "morph": "m.gen.sg + api"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "manifoldly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "state",
+     "grounds": "condition or mode of existence",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the lower knower called sakala further divided into multiple states?",
+   "premises": [
+    "The lower knower is called sakala.",
+    "This sakala knower is distinguished by divisions such as higher-lower and so on.",
+    "Even this sakala knower has a manifold state."
+   ],
+   "inference": "Therefore the sakala, though defined as the lower knower, is itself internally differentiated into many modes.",
+   "uncertainties": [],
+   "plain_english": "The lower knower is indeed called the sakala. Yet even he has a manifold state, distinguished by divisions such as higher-lower and so on."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "vicāryamāṇā",
+     "gloss": "being-examined",
+     "grounds": "when investigated or analyzed",
+     "morph": "f.nom.sg.pass-pres-part + vi-car"
+    },
+    {
+     "surface": "niḥsaṃkhyān",
+     "gloss": "countless",
+     "grounds": "innumerable",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mātṛbhedāṃs",
+     "gloss": "divisions-of-knowers",
+     "grounds": "distinct types of cognizing subjects",
+     "morph": "compound = mātṛ+bheda; m.acc.pl"
+    },
+    {
+     "surface": "tanoty",
+     "gloss": "extends",
+     "grounds": "spreads out or produces",
+     "morph": "3.sg.act-pres + tan"
+    },
+    {
+     "surface": "alam",
+     "gloss": "abundantly",
+     "grounds": "to a great extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhyatvena",
+     "gloss": "as-chief",
+     "grounds": "in terms of principal classification",
+     "morph": "compound = mukhya+tva; n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptaiva",
+     "gloss": "seven-only",
+     "grounds": "exactly seven",
+     "morph": "sapta + eva"
+    },
+    {
+     "surface": "mātṛbhedāḥ",
+     "gloss": "divisions-of-knowers",
+     "grounds": "distinct types of cognizing subjects",
+     "morph": "compound = mātṛ+bheda; m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "declared or taught",
+     "morph": "m.nom.pl.pass-past-part + pra-kīrt"
+    }
+   ],
+   "question": "How many divisions of the knower are recognized when examined in detail versus in principal classification?",
+   "premises": [
+    "When examined, the state of the knower extends into countless divisions of knowers.",
+    "A principal classification is also possible.",
+    "In that principal classification, seven divisions of knowers are proclaimed."
+   ],
+   "inference": "Therefore the divisions of the knower are innumerable in analysis but are taught as seven in their chief forms.",
+   "uncertainties": [],
+   "plain_english": "When examined closely, this gives rise to countless divisions of knowers. But in terms of the main classification, only seven divisions of the knower are proclaimed."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "pramāṇāṃśe",
+     "gloss": "in-the-means-of-knowing-part",
+     "grounds": "in the domain of the instrument of knowledge",
+     "morph": "compound = pramāṇa+aṃśa; m.loc.sg"
+    },
+    {
+     "surface": "patanty",
+     "gloss": "fall",
+     "grounds": "come to be included",
+     "morph": "3.pl.act-pres + pat"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "of those knowers",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svaśaktayaḥ",
+     "gloss": "their-own-powers",
+     "grounds": "the powers belonging to them",
+     "morph": "compound = sva+śakti; f.nom.pl"
+    },
+    {
+     "surface": "vyāpārayogitaivaiṣā",
+     "gloss": "fitness-for-activity-alone-this",
+     "grounds": "this very capacity to operate; sandhi: vyāpārayogitā + eva + eṣā",
+     "morph": "compound = vyāpāra+yogitā; f.nom.sg + eva + f.nom.sg"
+    },
+    {
+     "surface": "śaktitvam",
+     "gloss": "power-ness",
+     "grounds": "the state of being a power",
+     "morph": "compound = śakti+tva; n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manmahe",
+     "gloss": "we-consider",
+     "grounds": "we hold or understand",
+     "morph": "1.pl.mid-pres + man"
+    }
+   ],
+   "question": "What is the status of the knowers' own powers in relation to the means of knowledge?",
+   "premises": [
+    "The knowers' own powers fall within the domain of the means of knowledge.",
+    "Power is understood as fitness for activity.",
+    "This fitness for activity belongs to those powers."
+   ],
+   "inference": "Therefore the powers of the knowers function as the means of knowledge because their essence is the capacity to act.",
+   "uncertainties": [],
+   "plain_english": "Their own powers fall within the sphere of the means of knowledge. We understand power to be precisely this fitness for activity."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "yac",
+     "gloss": "what",
+     "grounds": "that which",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpriyamāṇatvaṃ",
+     "gloss": "state-of-being-active",
+     "grounds": "the condition of operating or being engaged",
+     "morph": "compound = vyāpriyamāṇa+tva; n.nom.sg"
+    },
+    {
+     "surface": "karaṇatvaṃ",
+     "gloss": "instrument-ness",
+     "grounds": "the state of being an instrument",
+     "morph": "compound = karaṇa+tva; n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktimacchakktibhedān",
+     "gloss": "from-divisions-of-power-holder-and-powers",
+     "grounds": "from distinctions between the possessor of power and the powers; sandhi: śaktimat + śakti + bhedān",
+     "morph": "compound = śaktimat+śakti+bheda; m.abl.pl"
+    },
+    {
+     "surface": "mātṛpramāṇajāḥ",
+     "gloss": "arising-from-knower-and-means-of-knowing",
+     "grounds": "produced from the knower and the means of knowledge",
+     "morph": "compound = mātṛ+pramāṇa+ja; m.nom.pl"
+    }
+   ],
+   "question": "How does being active establish instrumentality and the divisions of knower and means of knowledge?",
+   "premises": [
+    "Being in an active state is the same as being an instrument.",
+    "Distinctions arise between the possessor of power and the powers.",
+    "From these distinctions arise the divisions of knower and means of knowledge."
+   ],
+   "inference": "Therefore instrumentality is grounded in activity, and from the differentiation of power and its possessor the knower-means structure emerges.",
+   "uncertainties": [
+    "The final compound śaktimacchakktibhedān contains internal sandhi; analyzed as a fused form without splitting the token."
+   ],
+   "plain_english": "For being active is itself being an instrument. In this way, from the distinctions between the possessor of power and the powers, the divisions of knower and means of knowledge arise."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "caturdaśasvarūpaṃ",
+     "gloss": "having-fourteen-fold-nature",
+     "grounds": "consisting of fourteen forms",
+     "morph": "compound = caturdaśa+svarūpa; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prameyam",
+     "gloss": "object-of-knowledge",
+     "grounds": "the knowable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṣyate",
+     "gloss": "is-called",
+     "grounds": "is spoken of or designated",
+     "morph": "3.sg.pass-pres + bhāṣ"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "knower",
+     "grounds": "the cognizing subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "means-of-knowing",
+     "grounds": "the instrument of knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meyaṃ",
+     "gloss": "object-of-knowledge",
+     "grounds": "the knowable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yata",
+     "gloss": "since",
+     "grounds": "because",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "a single reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "declared or taught",
+     "morph": "n.nom.sg.pass-past-part + pra-kīrt"
+    }
+   ],
+   "question": "Why is the object of knowledge said to have a fourteen-fold nature?",
+   "premises": [
+    "The object of knowledge is said to have a fourteen-fold nature.",
+    "Knower, means of knowing, and object of knowing are distinguished.",
+    "These three are proclaimed as one underlying reality."
+   ],
+   "inference": "Therefore the fourteen-fold object of knowledge is taught within a framework where knower, means, and object are ultimately one.",
+   "uncertainties": [
+    "The derivation of the number fourteen is not explicit in this verse alone."
+   ],
+   "plain_english": "The object of knowledge is said to have a fourteen-fold nature. This is taught because knower, means of knowing, and knowable, though distinguished, are proclaimed as one."
+  },
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "from that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśātmaikam",
+     "gloss": "one-having-fifteen-fold-nature",
+     "grounds": "a single reality of fifteen aspects; sandhi: pañcadaśa + ātma + ekam",
+     "morph": "compound = pañcadaśa+ātman+eka; n.nom.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "a single reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakṛtipañcitam",
+     "gloss": "grouped-by-five-with-prakṛti",
+     "grounds": "arranged in fives together with prakṛti",
+     "morph": "compound = prakṛti+pañcita; n.nom.sg"
+    },
+    {
+     "surface": "tatrāpy",
+     "gloss": "there-too",
+     "grounds": "even in that case; sandhi: tatra + api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaikaśo",
+     "gloss": "one-by-one",
+     "grounds": "individually, in each case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhede",
+     "gloss": "in-division",
+     "grounds": "when differentiation occurs",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nijatattvasvarūpiṇi",
+     "gloss": "having-the-nature-of-its-own-principle",
+     "grounds": "consisting in the form of its own tattva",
+     "morph": "compound = nija+tattva+svarūpin; m.loc.sg"
+    }
+   ],
+   "question": "How does the one reality become a fifteen-fold structure when differentiated by its own principles?",
+   "premises": [
+    "From the preceding account, the one reality is described as fifteen-fold.",
+    "That one reality is grouped in fives together with prakṛti.",
+    "When differentiated one by one, each division takes the form of its own principle."
+   ],
+   "inference": "Therefore the single reality unfolds into a fifteen-fold structure through fivefold grouping and further differentiation into its own tattvas.",
+   "uncertainties": [
+    "The exact referent of the fivefold grouping with prakṛti is not fully specified in this verse alone."
+   ],
+   "plain_english": "From that, the one reality is described as fifteen-fold, grouped in fives together with prakṛti. Even there, when divided one by one, each division takes on the nature of its own principle."
+  }
+ ]
+}
