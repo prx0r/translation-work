@@ -1,0 +1,623 @@
+{
+ "song": "gita-a02",
+ "items": [
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "dehī",
+     "gloss": "embodied-being",
+     "grounds": "fused sandhi form retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityamavadhyo'yaṃ",
+     "gloss": "eternally-indestructible-this",
+     "grounds": "fused sandhi form retained",
+     "morph": "adj.nom.sg.m+pron.nom.sg.m"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive singular",
+     "morph": "n/m.gen.sg"
+    },
+    {
+     "surface": "bhārata",
+     "gloss": "Bharata-descendant",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tasmātsarvāṇi",
+     "gloss": "therefore-all",
+     "grounds": "fused sandhi form retained",
+     "morph": "indecl+adj.nom.pl.n"
+    },
+    {
+     "surface": "bhūtāni",
+     "gloss": "beings",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second person pronoun",
+     "morph": "pron.nom.sg.2"
+    },
+    {
+     "surface": "śocitumarhasi",
+     "gloss": "should-grieve",
+     "grounds": "fused infinitive-plus-verb form",
+     "morph": "2.sg.act.pres+inf"
+    },
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "inferential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityamātmano'vināśitvam",
+     "gloss": "eternal-self-indestructibility",
+     "grounds": "fused sandhi form retained",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Why should Arjuna not grieve for beings if the embodied self is indestructible?",
+   "premises": [
+    "the embodied self is eternally indestructible",
+    "all beings share this indestructible self",
+    "therefore grief is unwarranted"
+   ],
+   "inference": "Arjuna should not grieve because the self in every body is never destroyed.",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given rather than split"
+   ],
+   "plain_english": "The embodied self is eternally indestructible in every body, Bharata; therefore you should not grieve for any beings, since the self's indestructibility is eternal."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "svadharmamapi",
+     "gloss": "own-duty-even",
+     "grounds": "fused sandhi form retained",
+     "morph": "m.acc.sg+indecl"
+    },
+    {
+     "surface": "cāvekṣya",
+     "gloss": "and-considering",
+     "grounds": "fused sandhi form retained",
+     "morph": "ger"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikampitumarhasi",
+     "gloss": "should-not-waver",
+     "grounds": "fused infinitive-plus-verb form",
+     "morph": "2.sg.act.pres+inf"
+    },
+    {
+     "surface": "dharmyāddhi",
+     "gloss": "from-righteous-indeed",
+     "grounds": "fused sandhi form retained",
+     "morph": "adj.abl.sg.m+indecl"
+    },
+    {
+     "surface": "yuddhācchreyo'nyatkṣatriyasya",
+     "gloss": "than-war-better-other-for-kshatriya",
+     "grounds": "fused sandhi form retained",
+     "morph": "abl.sg.n+adj.nom.sg.n+pron.gen.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "passive present",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "svadharmasya",
+     "gloss": "of-own-duty",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cānapahāryatvāt",
+     "gloss": "and-from-non-removability",
+     "grounds": "fused sandhi form retained",
+     "morph": "indecl+adj.abl.sg.n"
+    },
+    {
+     "surface": "yuddhaviṣayaḥ",
+     "gloss": "war-subject",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kampo",
+     "gloss": "trembling",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "fitting",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why should Arjuna not waver from righteous war as his own duty?",
+   "premises": [
+    "a kshatriya has no better righteous duty than war",
+    "own duty is not removable",
+    "therefore trembling about war is unfitting"
+   ],
+   "inference": "Arjuna should not waver because righteous war is his own non-removable duty.",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given rather than split"
+   ],
+   "plain_english": "Considering even your own duty, you should not waver; for a kshatriya no better righteous duty than war is found, and since own duty is non-removable, trembling about war is unfitting."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "yadṛcchayā",
+     "gloss": "by-chance",
+     "grounds": "instrumental singular",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "copapannaṃ",
+     "gloss": "and-arrived",
+     "grounds": "fused sandhi form retained",
+     "morph": "indecl+ppp.nom.sg.n"
+    },
+    {
+     "surface": "svargadvāramapāvṛtam",
+     "gloss": "heaven-gate-opened",
+     "grounds": "fused sandhi form retained",
+     "morph": "comp.nom.sg.n"
+    },
+    {
+     "surface": "sukṛtātkṣatriyāḥ",
+     "gloss": "from-merit-kshatriyas",
+     "grounds": "fused sandhi form retained",
+     "morph": "abl.sg.n+nom.pl.m"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "Partha",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "labhante",
+     "gloss": "obtain",
+     "grounds": "third person plural",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "yuddhamīdṛśam",
+     "gloss": "such-war",
+     "grounds": "fused sandhi form retained",
+     "morph": "n.acc.sg+adj.acc.sg.n"
+    },
+    {
+     "surface": "anye'pi",
+     "gloss": "others-also",
+     "grounds": "fused sandhi form retained",
+     "morph": "pron.nom.pl.m+indecl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "kāmamayāḥ",
+     "gloss": "desire-filled",
+     "grounds": "nominative plural",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "kṣatriyāstairapi",
+     "gloss": "kshatriyas-by-them-also",
+     "grounds": "fused sandhi form retained",
+     "morph": "nom.pl.m+pron.inst.pl.m+indecl"
+    },
+    {
+     "surface": "īdṛśaṃ",
+     "gloss": "such",
+     "grounds": "accusative singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "yuddhaṃ",
+     "gloss": "war",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svargahetutvānna",
+     "gloss": "because-heaven-cause-not",
+     "grounds": "fused sandhi form retained",
+     "morph": "comp.abl.sg.n+indecl"
+    },
+    {
+     "surface": "tyājyam",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "punaryasya",
+     "gloss": "again-for-whom",
+     "grounds": "fused sandhi form retained",
+     "morph": "indecl+pron.gen.sg.m"
+    },
+    {
+     "surface": "īdṛśaṃ",
+     "gloss": "such",
+     "grounds": "accusative singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jñānamupadiṣṭamiti",
+     "gloss": "knowledge-taught-thus",
+     "grounds": "fused sandhi form retained",
+     "morph": "n.nom.sg+ppp.nom.sg.n+indecl"
+    },
+    {
+     "surface": "tātparyam",
+     "gloss": "purport",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svargaparyavasāyī",
+     "gloss": "ending-in-heaven",
+     "grounds": "nominative singular",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ślokaḥ",
+     "gloss": "verse",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is such war not to be abandoned even by those seeking heaven?",
+   "premises": [
+    "such war comes by chance with heaven's gate opened",
+    "meritorious kshatriyas obtain such war",
+    "even desire-filled kshatriyas should not abandon it because it causes heaven"
+   ],
+   "inference": "Such war is not to be abandoned because it is a heaven-causing opportunity, especially for one taught such knowledge.",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given rather than split"
+   ],
+   "plain_english": "By chance such war arrives with heaven's gate opened; meritorious kshatriyas obtain it, Partha. Even desire-filled kshatriyas should not abandon such war because it causes heaven; how much less one to whom such knowledge is taught. The verse's purport is not merely ending in heaven."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "yadbhayācca",
+     "gloss": "and-from-which-fear",
+     "grounds": "fused sandhi form retained",
+     "morph": "abl.sg.n+indecl"
+    },
+    {
+     "surface": "bhavān",
+     "gloss": "you",
+     "grounds": "second person pronoun",
+     "morph": "pron.nom.sg.2"
+    },
+    {
+     "surface": "yuddhānnivarteta",
+     "gloss": "would-turn-from-war",
+     "grounds": "fused sandhi form retained",
+     "morph": "abl.sg.n+3.sg.mid.opt"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "fused sandhi form retained",
+     "morph": "pron.nom.sg.n+indecl"
+    },
+    {
+     "surface": "śataśākhamupanipatiṣyati",
+     "gloss": "hundred-branched-will-fall-upon",
+     "grounds": "fused sandhi form retained",
+     "morph": "adj.acc.sg.n+3.sg.act.fut"
+    },
+    {
+     "surface": "bhavata",
+     "gloss": "upon-you",
+     "grounds": "genitive/dative second person",
+     "morph": "pron.gen.sg.2"
+    },
+    {
+     "surface": "ityāha",
+     "gloss": "thus-says",
+     "grounds": "fused sandhi form retained",
+     "morph": "indecl+3.sg.act.pres"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cettvamimaṃ",
+     "gloss": "if-you-this",
+     "grounds": "fused sandhi form retained",
+     "morph": "indecl+pron.nom.sg.2+adj.acc.sg.m"
+    },
+    {
+     "surface": "dharmyaṃ",
+     "gloss": "righteous",
+     "grounds": "accusative singular",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "saṃgrāmaṃ",
+     "gloss": "battle",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kariṣyasi",
+     "gloss": "will-not-do",
+     "grounds": "second person future",
+     "morph": "2.sg.act.fut"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svadharmaṃ",
+     "gloss": "own-duty",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kīrtiṃ",
+     "gloss": "fame",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hitvā",
+     "gloss": "abandoning",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "pāpamavāpsyasi",
+     "gloss": "sin-will-obtain",
+     "grounds": "fused sandhi form retained",
+     "morph": "n.acc.sg+2.sg.act.fut"
+    }
+   ],
+   "question": "What consequence follows if Arjuna refuses this righteous battle?",
+   "premises": [
+    "fear of war would bring a hundred-branched fall upon you",
+    "if you do not fight this righteous battle",
+    "then abandoning duty and fame you will obtain sin"
+   ],
+   "inference": "Refusing the righteous battle brings sin after abandoning duty and fame.",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given rather than split"
+   ],
+   "plain_english": "The fear from which you would turn from war will itself fall upon you in a hundred branches. If you do not fight this righteous battle, then abandoning your own duty and fame you will obtain sin."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "akīrtiṃ",
+     "gloss": "ill-fame",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "fused sandhi form retained",
+     "morph": "indecl+indecl"
+    },
+    {
+     "surface": "bhūtāni",
+     "gloss": "beings",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kathayiṣyanti",
+     "gloss": "will-speak",
+     "grounds": "third person plural future",
+     "morph": "3.pl.act.fut"
+    },
+    {
+     "surface": "te'vyayām",
+     "gloss": "your-imperishable",
+     "grounds": "fused sandhi form retained",
+     "morph": "pron.gen.sg.2+adj.acc.sg.f"
+    },
+    {
+     "surface": "sambhāvitasya",
+     "gloss": "of-esteemed-one",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cākīrtirmaraṇādatiricyate",
+     "gloss": "and-ill-fame-surpasses-death",
+     "grounds": "fused sandhi form retained",
+     "morph": "indecl+n.nom.sg+abl.sg.n+3.sg.pass.pres"
+    }
+   ],
+   "question": "Why is ill-fame worse than death for an esteemed warrior?",
+   "premises": [
+    "beings will speak ill-fame of you",
+    "you are an esteemed imperishable one",
+    "ill-fame surpasses death"
+   ],
+   "inference": "For an esteemed warrior, ill-fame is worse than death.",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given rather than split"
+   ],
+   "plain_english": "Beings will also speak your ill-fame; for an esteemed imperishable one, ill-fame surpasses death."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "bhayādraṇāduparataṃ",
+     "gloss": "from-fear-of-battle-retreated",
+     "grounds": "fused sandhi form retained",
+     "morph": "abl.sg.m+abl.sg.m+ppp.acc.sg.m"
+    },
+    {
+     "surface": "maṃsyante",
+     "gloss": "will-think",
+     "grounds": "third person plural future",
+     "morph": "3.pl.act.fut"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "accusative second person",
+     "morph": "pron.acc.sg.2"
+    },
+    {
+     "surface": "mahārathāḥ",
+     "gloss": "great-charioteers",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "of-whom",
+     "grounds": "genitive plural",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "nominative second person",
+     "morph": "pron.nom.sg.2"
+    },
+    {
+     "surface": "bahumato",
+     "gloss": "highly-regarded",
+     "grounds": "nominative singular",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "yāsyasi",
+     "gloss": "will-go",
+     "grounds": "second person future",
+     "morph": "2.sg.act.fut"
+    },
+    {
+     "surface": "lāghavam",
+     "gloss": "lightness",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How will great warriors regard Arjuna if he retreats from battle out of fear?",
+   "premises": [
+    "great charioteers will think you retreated from battle out of fear",
+    "you were highly regarded by them",
+    "you will go to lightness in their eyes"
+   ],
+   "inference": "Retreating from battle out of fear lowers Arjuna's standing among great warriors.",
+   "uncertainties": [
+    "fused sandhi forms are analyzed as given rather than split"
+   ],
+   "plain_english": "Great charioteers will think you retreated from battle out of fear; having been highly regarded by them, you will go to lightness in their eyes."
+  }
+ ]
+}

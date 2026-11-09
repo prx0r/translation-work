@@ -1,0 +1,875 @@
+{
+ "song": "gita-a02",
+ "items": [
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "avācyavādāṃśca",
+     "gloss": "unspeakable-speeches-and",
+     "grounds": "compound of avācya + vāda + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "bahūnvadiṣyanti",
+     "gloss": "many-will-speak",
+     "grounds": "future active third plural of vad",
+     "morph": "3pl.act.fut-vad"
+    },
+    {
+     "surface": "tavāhitāḥ",
+     "gloss": "your-enemies",
+     "grounds": "possessive compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nindantastava",
+     "gloss": "blaming-your",
+     "grounds": "participle with possessive",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sāmarthyaṃ",
+     "gloss": "power",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duḥkhataraṃ",
+     "gloss": "more-painful",
+     "grounds": "comparative adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What pain exceeds hearing enemies speak unspeakable words?",
+   "premises": [
+    "enemies speak many unspeakable words",
+    "they blame your power",
+    "that pain is greater than death"
+   ],
+   "inference": "Arjuna faces social humiliation beyond battlefield loss",
+   "uncertainties": [
+    "exact force of nu is rhetorical"
+   ],
+   "plain_english": "Your enemies will speak many unspeakable words and blame your power; what pain could be greater than that?"
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "hato",
+     "gloss": "slain",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāpsyasi",
+     "gloss": "you-will-obtain",
+     "grounds": "future second singular",
+     "morph": "2sg.act.fut-prāp"
+    },
+    {
+     "surface": "svargaṃ",
+     "gloss": "heaven",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jitvā",
+     "gloss": "having-conquered",
+     "grounds": "gerund",
+     "morph": "gerund-jit"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhokṣyase",
+     "gloss": "you-will-enjoy",
+     "grounds": "future second singular",
+     "morph": "2sg.act.fut-bhuj"
+    },
+    {
+     "surface": "mahīm",
+     "gloss": "earth",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tasmāduttiṣṭha",
+     "gloss": "therefore-rise",
+     "grounds": "compound imperative",
+     "morph": "2sg.act.imp-utthā"
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "son-of-kunti",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yuddhāya",
+     "gloss": "for-battle",
+     "grounds": "dative noun",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kṛtaniścayaḥ",
+     "gloss": "with-firm-resolve",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ślokapañcakamidamabhyupagamya",
+     "gloss": "accepting-this-five-verse-block",
+     "grounds": "compound gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "vādarūpamucyate",
+     "gloss": "is-called-disputational",
+     "grounds": "passive present",
+     "morph": "3sg.pass.pres-vac"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laukikena",
+     "gloss": "by-worldly",
+     "grounds": "instrumental adjective",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vyavahāreṇāste",
+     "gloss": "conduct-remains",
+     "grounds": "fused sandhi form",
+     "morph": "3sg.pres-as"
+    },
+    {
+     "surface": "bhavāṃstathāpyavaśyānuṣṭheyametat",
+     "gloss": "you-nevertheless-must-perform-this",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why must Arjuna rise for battle with firm resolve?",
+   "premises": [
+    "slain he gains heaven",
+    "victorious he enjoys earth",
+    "therefore he should rise for battle"
+   ],
+   "inference": "Either outcome of righteous battle is favorable",
+   "uncertainties": [
+    "fused prose compounds carry editorial glosses"
+   ],
+   "plain_english": "Slain, you gain heaven; victorious, you enjoy earth; therefore rise, son of Kunti, resolved for battle."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "sukhaduḥkhe",
+     "gloss": "pleasure-and-pain",
+     "grounds": "dual compound",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "same",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund",
+     "morph": "gerund-kṛ"
+    },
+    {
+     "surface": "lābhālābhau",
+     "gloss": "gain-and-loss",
+     "grounds": "dual compound",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "jayājayau",
+     "gloss": "victory-and-defeat",
+     "grounds": "dual compound",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuddhāya",
+     "gloss": "for-battle",
+     "grounds": "dative noun",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "yujyasva",
+     "gloss": "engage",
+     "grounds": "imperative middle",
+     "morph": "2sg.mid.imp-yuj"
+    },
+    {
+     "surface": "naivaṃ",
+     "gloss": "thus-not",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpamavāpsyasi",
+     "gloss": "you-will-incur-sin",
+     "grounds": "future second singular",
+     "morph": "2sg.act.fut-āp"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svadharmatayaiva",
+     "gloss": "by-own-duty-alone",
+     "grounds": "instrumental compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kurvato",
+     "gloss": "while-doing",
+     "grounds": "genitive participle",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācitpāpasambandhaḥ",
+     "gloss": "ever-sin-connection",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does equanimity in battle avoid sin?",
+   "premises": [
+    "make pleasure and pain equal",
+    "make gain and loss equal",
+    "make victory and defeat equal"
+   ],
+   "inference": "Acting by one's own duty incurs no sin",
+   "uncertainties": [
+    "kadācitpāpasambandhaḥ is fused"
+   ],
+   "plain_english": "Having made pleasure and pain, gain and loss, victory and defeat equal, engage in battle; thus you will not incur sin."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "te'bhihitā",
+     "gloss": "told-to-you",
+     "grounds": "fused sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sāṃkhye",
+     "gloss": "in-sankhya",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "buddhiryoge",
+     "gloss": "wisdom-in-yoga",
+     "grounds": "fused sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvimāṃ",
+     "gloss": "you-this",
+     "grounds": "fused sandhi form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2sg.act.imp-śru"
+    },
+    {
+     "surface": "buddhyā",
+     "gloss": "with-wisdom",
+     "grounds": "instrumental noun",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yukto",
+     "gloss": "endowed",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "son-of-prtha",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "karmabandhaṃ",
+     "gloss": "bondage-of-action",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prahāsyasi",
+     "gloss": "you-will-abandon",
+     "grounds": "future second singular",
+     "morph": "2sg.act.fut-hā"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sāṃkhye-samyagjñāne",
+     "gloss": "in-sankhya-right-knowledge",
+     "grounds": "fused compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "buddhiḥ-niścayātmikā",
+     "gloss": "wisdom-resolve-natured",
+     "grounds": "fused compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eṣaiva",
+     "gloss": "this-very",
+     "grounds": "fused demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoge-karmakauśale",
+     "gloss": "in-yoga-skill-in-action",
+     "grounds": "fused compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yojyate",
+     "gloss": "is-applied",
+     "grounds": "passive present",
+     "morph": "3sg.pass.pres-yuj"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "so-also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2sg.act.imp-śru"
+    },
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "buddhyā",
+     "gloss": "with-wisdom",
+     "grounds": "instrumental noun",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "karmaṇāṃ",
+     "gloss": "of-actions",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "bandhakatvaṃ",
+     "gloss": "bondage-nature",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyakṣyasi",
+     "gloss": "you-will-abandon",
+     "grounds": "future second singular",
+     "morph": "2sg.act.fut-tyaj"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not-indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-themselves",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "badhnanti-jaḍatvāt",
+     "gloss": "bind-due-to-inertness",
+     "grounds": "fused sandhi form",
+     "morph": "3pl.act.pres-bandh"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayamātmā",
+     "gloss": "oneself-soul",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmabhirvāsanātmakairātmānaṃ",
+     "gloss": "by-actions-habit-natured-self",
+     "grounds": "fused compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "badhnāti",
+     "gloss": "binds",
+     "grounds": "present third singular",
+     "morph": "3sg.act.pres-bandh"
+    }
+   ],
+   "question": "How does wisdom in yoga free one from action-bondage?",
+   "premises": [
+    "this wisdom was told in sankhya",
+    "hear it in yoga",
+    "with it you abandon action-bondage"
+   ],
+   "inference": "The self binds itself through habit-laden actions",
+   "uncertainties": [
+    "fused sandhi compounds are editorially glossed"
+   ],
+   "plain_english": "This wisdom was told in Sankhya; hear how, endowed with it, you abandon action-bondage in yoga."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "nehātikramanāśo'sti",
+     "gloss": "no-loss-by-transgression-here",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratyavāyo",
+     "gloss": "reverse-result",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "passive present",
+     "morph": "3sg.pass.pres-vid"
+    },
+    {
+     "surface": "svalpamapyasya",
+     "gloss": "even-small-of-this",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dharmasya",
+     "gloss": "of-duty",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "trāyate",
+     "gloss": "protects",
+     "grounds": "present middle",
+     "morph": "3sg.mid.pres-trā"
+    },
+    {
+     "surface": "mahato",
+     "gloss": "from-great",
+     "grounds": "genitive adjective",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhayāt",
+     "gloss": "from-fear",
+     "grounds": "ablative noun",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "asyāṃ",
+     "gloss": "in-this",
+     "grounds": "locative demonstrative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "buddhau",
+     "gloss": "in-wisdom",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "atikrameṇa-aparādhena",
+     "gloss": "by-transgression-offense",
+     "grounds": "fused compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pramādena",
+     "gloss": "by-negligence",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nāśo",
+     "gloss": "destruction",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati-pramādasyābhāvāt",
+     "gloss": "occurs-due-to-absence-of-negligence",
+     "grounds": "fused sandhi form",
+     "morph": "3sg.pres-bhū"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parimitena",
+     "gloss": "by-small",
+     "grounds": "instrumental adjective",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śrīkhaṇḍakaṇena",
+     "gloss": "by-sandalwood-fragment",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "jvālāyamāno'pi",
+     "gloss": "though-burning",
+     "grounds": "fused participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tailakaṭāhaḥ",
+     "gloss": "oil-cauldron",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śītībhavati",
+     "gloss": "becomes-cool",
+     "grounds": "compound verb",
+     "morph": "3sg.act.pres-bhū"
+    },
+    {
+     "surface": "evamanayā",
+     "gloss": "thus-by-this",
+     "grounds": "fused sandhi form",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "svalpayāpi",
+     "gloss": "even-small",
+     "grounds": "instrumental adjective",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yogabuddhyā",
+     "gloss": "with-yoga-wisdom",
+     "grounds": "instrumental compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mahābhayaṃ",
+     "gloss": "great-fear",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃsārarūpaṃ",
+     "gloss": "of-samsara-form",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "present third singular",
+     "morph": "3sg.act.pres-naś"
+    }
+   ],
+   "question": "Why does even small practice of this duty protect greatly?",
+   "premises": [
+    "no loss by transgression here",
+    "even small duty protects from great fear",
+    "small yoga-wisdom destroys samsara-fear"
+   ],
+   "inference": "Negligence is absent, so practice is never wasted",
+   "uncertainties": [
+    "fused sandhi forms are editorially glossed"
+   ],
+   "plain_english": "Even a little of this duty protects from great fear; even small yoga-wisdom destroys samsara-fear."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caiṣā",
+     "gloss": "and-this",
+     "grounds": "fused sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "buddhirapūrvānīyate",
+     "gloss": "wisdom-is-brought-as-new",
+     "grounds": "passive present",
+     "morph": "3sg.pass.pres-nī"
+    },
+    {
+     "surface": "kiṃtarhi",
+     "gloss": "what-then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavasāyātmikā",
+     "gloss": "resolute-natured",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "buddhirekaiva",
+     "gloss": "wisdom-one-only",
+     "grounds": "fused sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kurunandana",
+     "gloss": "delight-of-kurus",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "bahuśākhā",
+     "gloss": "many-branched",
+     "grounds": "compound adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hyanantāśca",
+     "gloss": "indeed-endless-and",
+     "grounds": "fused sandhi form",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "buddhayo'vyavasāyinām",
+     "gloss": "wisdoms-of-the-unresolved",
+     "grounds": "fused sandhi form",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "vyavasāyātmikā",
+     "gloss": "resolute-natured",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvasyaikaiva",
+     "gloss": "of-all-one-only",
+     "grounds": "fused sandhi form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sahajā",
+     "gloss": "innate",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhīḥ",
+     "gloss": "insight",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niścetavyavaśāttu",
+     "gloss": "but-from-determination",
+     "grounds": "fused sandhi form",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bahutvaṃ",
+     "gloss": "multiplicity",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "present third singular",
+     "morph": "3sg.act.pres-gam"
+    }
+   ],
+   "question": "Why is resolute wisdom one while ordinary wisdom branches endlessly?",
+   "premises": [
+    "this wisdom is not newly brought",
+    "resolute wisdom is one",
+    "unresolved wisdoms are many-branched"
+   ],
+   "inference": "Innate insight becomes multiple through determination",
+   "uncertainties": [
+    "fused sandhi forms are editorially glossed"
+   ],
+   "plain_english": "This wisdom is not newly brought; resolute wisdom is one, while unresolved wisdoms are many-branched and endless."
+  }
+ ]
+}
