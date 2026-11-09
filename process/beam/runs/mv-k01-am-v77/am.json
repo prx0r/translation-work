@@ -1,0 +1,15 @@
+{
+ "song": "mv-k01",
+ "verse": 77,
+ "question": "Why would cloth-light in pot-light make two lights?",
+ "premises": [
+  "if cloth light arises in pot light",
+  "that is not pot light",
+  "it would be two lights"
+ ],
+ "inference": "therefore one light cannot split into two",
+ "uncertainties": [
+  "compound segmentation"
+ ],
+ "plain_english": "If cloth's light arose in pot's light, that would not be pot-light; it would be two lights."
+}
