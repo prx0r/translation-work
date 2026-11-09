@@ -501,3 +501,29 @@ IPVV note: registry P0 entry is STALE - vols 1-3 essentially built
 REGISTRY corrections applied: 16 verse counts filled (all 37 TAL now
 numbered), 4 in-progress statuses (were stale recon), ipvv P0 corrected
 (vols 1-3 built). Backup: /tmp/REGISTRY.backup-20261108.json.
+
+## ADDENDUM 2026-11-09 — Gita front COMPLETE 18/18 + loop hardened + mystics removed (owner)
+
+- **Gītārthasaṅgraha 18/18 GOLD** (machine-proposed, minimal: L3/L4 waived):
+  a00 (P0, 5 LIVE forks held as print-corrupt per Ingalls) + a01–a18 via
+  swarm (token-budget windows ~6 spans, enriched packet + transmission brief).
+  All: validate 0 errors + proof PASS (align 0.97–1.0). 5 verses hand-drafted
+  by assessor after beam exhausted retries (grammar-label gloss fails).
+- **Loop hardened (committed):** file-locked atomic queue updates; retest/
+  supersede CLI (no manual surgery); token-budget grouping (default 250 for
+  non-TAL); deadlock exit 3; worker cap w1–w3 ≤3 total; check_front.py gate;
+  work-generic assemble/validate/proof (span map, song sha, cite parts,
+  locator de-paren); CM carries transmission brief; gloss bans grammar labels.
+- **Briefs for ALL fronts** (process/beam/lore/): gitarthasangraha (K-recension,
+  saṅgraha doctrine, K-only verses, Sharma/Marjanovic/Supersite witnesses),
+  tattvasandoha (Amṛtānandanātha/Rājānakānanda, NOT Abhinavagupta), SSV
+  (Kṣemarāja pour-into-grid, Torella sūtra theory), MVV (Hanneder, paramādvaya,
+  1404 markers + lacunae recon).
+- **Sources vendored:** sivasutravimarsini (M00349), malinivijayavarttika
+  (GRETIL/Hanneder). Tattvasandoha source identified (Muktabodha M00151,
+  KSTS 1918, CC BY-NC 4.0) — bytes pending via library UI.
+- **Mystics DELETED** per owner Sanskrit-only directive (dirs + registry entries).
+- Registry: 92/96 gold. Remaining: tattvasandoha (needs source), abhinavabharati
+  (11MB sources on disk — largest), sivasutravimarsini, malinivijayavarttika.
+- MCP server needs restart to pick up tool-cap fix (w1–w3 ≤3); running server
+  still has old code (started w4 once — harmless, harness enforces).

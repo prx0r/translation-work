@@ -63,6 +63,17 @@ must be terse logical steps). Forks only on genuine textual/doctrinal
 joints. L2 exact over beautiful; C1-essence names what each movement DOES
 to the canon-claim.
 
+## RECON (2026-11-09, byte-verified against vendored mvv.txt)
+
+- 1404 verse markers: kāṇḍa 1 = 1070 units (vv1–1135 with lacunae), kāṇḍa 2 =
+  334 units (vv1–335). Missing numbers are fragment loss, NOT renumbering:
+  K1 gaps include 126, 261, 541–548 (+ others to enumerate at intake);
+  K2 gaps 75–76. No explicit Hanneder/KSTS seam marker in-text (seam ≈ I,399/400);
+  collate against Hanneder's edition + GRETIL header at intake to place it.
+- Intake rule: register ONLY present spans; record each lacuna as a TEXTUAL gap
+  (mark AMBIGUOUS-lacuna, never smooth, never silently close ranks).
+- Provenance: GRETIL KSTS 32/Hanneder, CC BY-NC-SA 4.0 (see source/record.json).
+
 **Ledger (LOCK):** vārttika = versified gloss; śloka = verse (of the gloss);
 paramādvayavāda = supreme nondualism (containing duality); śāstra = revealed
 canon; āgama/tantra = scripture (level-specific); parā/paśyantī/madhyamā/

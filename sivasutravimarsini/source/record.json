@@ -1,15 +1,19 @@
 {
  "format": "svatantrya-source-record/1",
+ "work": "sivasutravimarsini",
+ "status": "SOURCE-VENDORED",
+ "source": {
+  "file": "source/edition.txt",
+  "origin": "Muktabodha M00349 (KSTS Vimar\u015bin\u012b text), IAST, CC BY-NC 4.0"
+ },
+ "note": "K\u1e63emar\u0101ja Vimar\u015bin\u012b on 77 s\u016btras; prose commentary; witnesses Singh/Silburn/Torella/Lakshman Joo",
  "openpatala": {
   "evidence_refs": [],
   "mapping_status": "UNMAPPED",
   "work_id": null
  },
- "reason": "no resolvable source bytes (no workcfg source, no manifest, no volumes)",
- "status": "NO-SOURCE-RECORD",
  "witness": {
   "id": null,
-  "status": "UNKNOWN"
- },
- "work": "sivasutravimarsini"
+  "status": "LEGACY-ONLY"
+ }
 }
