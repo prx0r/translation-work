@@ -2,378 +2,864 @@
  "song": "mv-k02",
  "items": [
   {
-   "verse": 175,
+   "verse": 187,
    "rows": [
+    {
+     "surface": "aśuddhileśakāluṣyāt",
+     "gloss": "from-stain-of-trace-of-impurity",
+     "grounds": "ablative of cause; compound aśuddhi-leśa-kāluṣya",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "parāparatayā",
+     "gloss": "by-higher-and-lower-state",
+     "grounds": "instrumental of manner; compound para-apara-tā",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "state",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "teneśabhuktād",
+     "gloss": "therefore-from-enjoyed-by-Īśa",
+     "grounds": "ablative; compound tena-īśa-bhukta with sandhi",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "etasmād",
+     "gloss": "from-this",
+     "grounds": "demonstrative pronoun, ablative",
+     "morph": "pron.n.abl.sg"
+    },
+    {
+     "surface": "apy",
+     "gloss": "even",
+     "grounds": "particle; sandhi form of api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvapadabhāginaḥ",
+     "gloss": "sharers-of-higher-level",
+     "grounds": "nominal predicate; compound ūrdhva-pada-bhāgin",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do some beings attain a level even higher than that enjoyed by Īśa?",
+   "premises": [
+    "A trace of impurity causes a state of higher-and-lower differentiation.",
+    "The level enjoyed by Īśa is still marked by that differentiated condition.",
+    "Some beings can share in a level above that Īśa-enjoyed state."
+   ],
+   "inference": "Because impurity still qualifies the Īśa-level, beings who transcend that qualification can attain a higher level.",
+   "uncertainties": [
+    "The exact referent of ūrdhvapadabhāginaḥ (which class of beings) is not specified in this verse alone."
+   ],
+   "plain_english": "Because a slight stain of impurity produces a state of higher and lower, even the level enjoyed by Īśa remains within that differentiation; therefore some beings can partake of a level higher than that."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "māyāprakaṭanautsukyāt",
+     "gloss": "from-eagerness-to-manifest-māyā",
+     "grounds": "ablative of cause; compound māyā-prakaṭana-autsukya",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tatsaṃskārajuṣas",
+     "gloss": "of-those-imbued-with-its-impression",
+     "grounds": "possessive; compound tat-saṃskāra-juṣ",
+     "morph": "m.gen.sg"
+    },
     {
      "surface": "tathā",
      "gloss": "thus",
-     "grounds": "indeclinable, introducing an analogy",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
-     "surface": "hi",
-     "gloss": "indeed",
-     "grounds": "indeclinable, emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "svagṛhāt",
-     "gloss": "from-own-house",
-     "grounds": "ablative of source in a compound",
-     "morph": "compound: sva+gṛha, abl.sg.n"
-    },
-    {
-     "surface": "kvāpi",
-     "gloss": "to-somewhere",
-     "grounds": "indeclinable, indefinite locative/directional sense",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "yiyāsoḥ",
-     "gloss": "of-one-wishing-to-go",
-     "grounds": "desiderative adjective agreeing with an implied person",
-     "morph": "m.gen.sg, desiderative of √yā"
-    },
-    {
-     "surface": "prathamakṣaṇe",
-     "gloss": "in-the-first-moment",
-     "grounds": "locative of time in a compound",
-     "morph": "compound: prathama+kṣaṇa, loc.sg.m"
-    },
-    {
-     "surface": "yāvat",
-     "gloss": "whatever",
-     "grounds": "relative/indefinite extent, correlative with yac",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "kiṃ",
-     "gloss": "anything",
-     "grounds": "indefinite pronoun forming phrase with cana",
+     "surface": "bahukriyāsamārambhamayaṃ",
+     "gloss": "consisting-of-undertaking-many-activities",
+     "grounds": "adjectival compound bahu-kriyā-samārambha-maya",
      "morph": "n.nom.sg"
     },
     {
-     "surface": "cana",
-     "gloss": "at-all",
-     "grounds": "indeclinable particle with kiṃ",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "gantavyaṃ",
-     "gloss": "to-be-gone-to",
-     "grounds": "gerundive expressing the destination",
-     "morph": "n.nom.sg, gerundive of √gam"
-    },
-    {
-     "surface": "yac",
-     "gloss": "and-what",
-     "grounds": "relative pronoun, correlative to yāvat",
+     "surface": "vividhamantraṇam",
+     "gloss": "varied-deliberation",
+     "grounds": "subject noun; compound vividha-mantraṇa",
      "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What arises from eagerness to manifest māyā in one bearing its impressions?",
+   "premises": [
+    "There is an eagerness to manifest māyā.",
+    "A subject may be imbued with the impressions of that māyā.",
+    "From this condition arises deliberation marked by many activities and variety."
+   ],
+   "inference": "Eagerness to manifest māyā in one bearing its impressions gives rise to varied, activity-filled deliberation.",
+   "uncertainties": [
+    "The precise agent of vividhamantraṇam is implied rather than explicitly named."
+   ],
+   "plain_english": "From eagerness to manifest māyā, in one who bears its impressions, there arises a varied deliberation consisting in the undertaking of many activities."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "prādurbhūtaṃ",
+     "gloss": "has-appeared",
+     "grounds": "past participle used predicatively",
+     "morph": "n.nom.sg, ppp (pra-dur-bhū)"
+    },
+    {
+     "surface": "mahājñānasantateś",
+     "gloss": "from-the-stream-of-great-knowledge",
+     "grounds": "ablative source; compound mahā-jñāna-santati",
+     "morph": "f.abl.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable conjunction",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
-     "surface": "tanmadhyavṛtti",
-     "gloss": "situated-in-its-middle",
-     "grounds": "compound describing what lies between start and destination",
-     "morph": "compound: tad+madhya+vṛtti, n.nom.sg"
+     "surface": "śivapradam",
+     "gloss": "bestowing-Śiva",
+     "grounds": "adjectival compound śiva-prada",
+     "morph": "n.nom.sg"
     },
     {
-     "surface": "tu",
-     "gloss": "but",
-     "grounds": "indeclinable particle marking contrast or continuation",
-     "morph": "(indecl.)"
-    }
-   ],
-   "question": "How does the first moment of intending to go reveal knowledge of the whole path?",
-   "premises": [
-    "A person wishing to go somewhere from home has a first moment of intention.",
-    "In that first moment, whatever is to be reached is already present to awareness.",
-    "Whatever lies in the middle of that path is also present in that same moment."
-   ],
-   "inference": "The initial moment of directed intention implicitly contains knowledge of the destination and the intervening path.",
-   "uncertainties": [
-    "The verse is syntactically incomplete and continues into verse 176."
-   ],
-   "plain_english": "Just as, in the very first moment when someone wishes to go from home to some place, whatever is to be reached and whatever lies in between are already present in that moment."
-  },
-  {
-   "verse": 176,
-   "rows": [
-    {
-     "surface": "tuṭipāte",
-     "gloss": "in-the-fall-of-an-instant",
-     "grounds": "locative of time in a compound",
-     "morph": "compound: tuṭi+pāta, loc.sg.m"
-    },
-    {
-     "surface": "'pi",
-     "gloss": "even",
-     "grounds": "indeclinable particle, elided form of api",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "sarvajñasarvakartṛtvalabdhṛtā",
-     "gloss": "state-of-having-attained-all-knowing-and-all-doing",
-     "grounds": "abstract noun compound describing attained powers",
-     "morph": "compound: sarvajña+sarvakartṛtva+labdhṛtā, f.nom.sg"
-    },
-    {
-     "surface": "tata",
-     "gloss": "from-that",
-     "grounds": "indeclinable ablative/correlative pointing to the prior cause",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "eva",
-     "gloss": "indeed",
-     "grounds": "indeclinable emphatic particle",
-     "morph": "(indecl.)"
-    },
-    {
-     "surface": "viśeṣāṃśaniṣkampakuśalātmanām",
-     "gloss": "of-those-skilled-in-unwavering-grasp-of-particular-details",
-     "grounds": "describes experts whose attention is steady on details",
-     "morph": "compound: viśeṣa+aṃśa+niṣkampa+kuśala+ātman, m.gen.pl"
-    }
-   ],
-   "question": "What capacity is revealed even in a single instant for those skilled in grasping details?",
-   "premises": [
-    "Even in the fall of a single instant, a certain attainment can be present.",
-    "That attainment is the state of having gained all-knowingness and all-doingness.",
-    "This is especially evident for those skilled in unwavering attention to particular details."
-   ],
-   "inference": "For experts with steady attention to particulars, a single instant can manifest the powers of omniscience and omnipotence.",
-   "uncertainties": [
-    "The scope of sarvajña-sarvakartṛtva here may be analogical rather than absolute."
-   ],
-   "plain_english": "Even in a single instant, those who are skilled in unwaveringly grasping particular details attain, from that very moment, a state of all-knowing and all-doing."
-  },
-  {
-   "verse": 177,
-   "rows": [
-    {
-     "surface": "tathā",
-     "gloss": "thus",
-     "grounds": "indeclinable, introducing an example",
-     "morph": "(indecl.)"
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.m.nom.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "indeclinable, emphatic particle",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "jātyakhaḍgāgradhārāsaṃsparśasaṃmitā",
-     "gloss": "measured-by-touch-of-a-fine-sword-edge",
-     "grounds": "compound describing a precise, instantaneous standard of perception",
-     "morph": "compound: jātya+khaḍga+agra+dhārā+asaṃsparśa+saṃmitā, f.nom.sg"
+     "surface": "tatrāparo",
+     "gloss": "there-the-lower",
+     "grounds": "compound tatra-apara with sandhi",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "sphurattvasamakālaṃ",
-     "gloss": "simultaneous-with-its-flashing-forth",
-     "grounds": "adverbial compound indicating simultaneity with appearance",
-     "morph": "compound: sphurattva+samakāla, (indecl.)"
+     "surface": "bhāvaḥ",
+     "gloss": "state",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "dhīr",
-     "gloss": "the-discerning-mind",
-     "grounds": "subject of the sentence",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "viśeṣāṃśān",
-     "gloss": "particular-details",
-     "grounds": "object grasped by the discerning mind",
-     "morph": "compound: viśeṣa+aṃśa, m.acc.pl"
-    },
-    {
-     "surface": "prakarṣati",
-     "gloss": "draws-out",
-     "grounds": "main verb describing the act of discerning",
-     "morph": "3.sg.act-pres, √kṛṣ with pra"
+     "surface": "parabhāvanimīlitaḥ",
+     "gloss": "closed-by-the-supreme-state",
+     "grounds": "adjectival compound para-bhāva-nimīlita",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "How quickly can a discerning mind extract particular details from what appears?",
+   "question": "What is the nature of the state that appears from the stream of great knowledge?",
    "premises": [
-    "A fine sword-edge provides an analogy for an extremely subtle and precise contact.",
-    "The discerning mind can operate at the very moment something flashes forth.",
-    "At that same moment, it can draw out particular details."
+    "Something bestowing Śiva has appeared from the stream of great knowledge.",
+    "In that context a lower state is present.",
+    "That lower state is closed off by the supreme state."
    ],
-   "inference": "Discriminating awareness can apprehend fine particulars simultaneously with their first appearance.",
+   "inference": "The manifestation from great knowledge bestows Śiva, yet it includes a lower state that remains veiled by the supreme state.",
    "uncertainties": [
-    "The exact nuance of asaṃsparśa in the compound is compressed and may suggest near-contact or non-contact subtlety."
+    "Whether prādurbhūtaṃ refers to the same entity as bhāvaḥ or to a prior manifestation is slightly compressed in the verse."
    ],
-   "plain_english": "Just as with the touch of a fine sword's edge, a discerning mind can draw out particular details at the very instant something flashes into appearance."
+   "plain_english": "What has appeared from the stream of great knowledge bestows Śiva; indeed, in that context the lower state is closed off by the supreme state."
   },
   {
-   "verse": 178,
+   "verse": 190,
    "rows": [
     {
-     "surface": "ratnatattvasphuṭaprajño",
-     "gloss": "one-with-clear-knowledge-of-gem-nature",
-     "grounds": "compound describing an expert in gems",
-     "morph": "compound: ratna+tattva+sphuṭa+prajña, m.nom.sg"
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "vidyuttatkāladarśitān",
-     "gloss": "shown-in-that-moment-by-lightning",
-     "grounds": "describes details revealed briefly by a flash of lightning",
-     "morph": "compound: vidyut+tatkāla+darśita, m.acc.pl"
+     "surface": "tu",
+     "gloss": "however",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "tāṃs",
-     "gloss": "those",
-     "grounds": "demonstrative pronoun, paired with tān for distributive emphasis",
-     "morph": "m.acc.pl"
+     "surface": "rūḍhim",
+     "gloss": "firm-establishment",
+     "grounds": "object noun",
+     "morph": "f.acc.sg"
     },
     {
-     "surface": "tān",
-     "gloss": "those",
-     "grounds": "demonstrative pronoun reinforcing distributive sense",
-     "morph": "m.acc.pl"
+     "surface": "upāgacched",
+     "gloss": "would-attain",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act (upa-ā-gam)"
     },
     {
-     "surface": "viśeṣāṃś",
-     "gloss": "particular-details",
-     "grounds": "object of discernment",
-     "morph": "compound: viśeṣa+aṃśa, m.acc.pl"
+     "surface": "aśuddhordhvavidhāv",
+     "gloss": "in-the-impure-higher-domain",
+     "grounds": "locative; compound aśuddha-ūrdhva-vidhi with sandhi",
+     "morph": "m.loc.sg"
     },
     {
-     "surface": "cinute",
-     "gloss": "picks-out",
-     "grounds": "main verb describing expert discrimination",
-     "morph": "3.sg.mid-pres, √ci"
+     "surface": "iva",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "ratnānāṃ",
-     "gloss": "of-gems",
-     "grounds": "genitive indicating the domain of the details",
-     "morph": "n.gen.pl"
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "instrumental used adverbially",
+     "morph": "pron.n.inst.sg"
     },
     {
-     "surface": "bhūyasām",
-     "gloss": "of-many",
-     "grounds": "genitive plural emphasizing plurality",
-     "morph": "m.gen.pl"
+     "surface": "vaiṣṇavabauddhādiśāsanāntaraniṣṭhitāḥ",
+     "gloss": "those-established-in-Vaiṣṇava-Buddhist-and-other-teachings",
+     "grounds": "nominal subject; compound vaiṣṇava-bauddha-ādi-śāsana-antara-niṣṭhita",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do followers of Vaiṣṇava, Buddhist, and other teachings fail to reach firm establishment?",
+   "premises": [
+    "Firm establishment is not attained in the impure higher domain.",
+    "Followers of Vaiṣṇava, Buddhist, and other teachings remain established within those teachings.",
+    "Their position is comparable to remaining in that impure higher domain."
+   ],
+   "inference": "Because they remain within teachings aligned with the impure higher domain, they do not attain firm establishment.",
+   "uncertainties": [
+    "The exact scope of śāsanāntara is open, though the verse gives Vaiṣṇava and Buddhist as examples."
+   ],
+   "plain_english": "It would not attain firm establishment, as in the impure higher domain; therefore those established in Vaiṣṇava, Buddhist, and other teachings do not reach that firm establishment."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "api",
-     "gloss": "even",
-     "grounds": "indeclinable particle extending the scope",
+     "surface": "samyaṅ",
+     "gloss": "completely",
+     "grounds": "adverb; sandhi form of samyak",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mucyante",
+     "gloss": "are-liberated",
+     "grounds": "present passive verb",
+     "morph": "3.pl.pres.pass (muc)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaivasaṃskṛtāḥ",
+     "gloss": "those-refined-by-Śaiva-teaching",
+     "grounds": "nominal subject; compound śaiva-saṃskṛta",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "atimārgakramakulatrikasrotontarādiṣu",
+     "gloss": "in-atimārga-krama-kula-trika-and-other-streams",
+     "grounds": "locative plural; compound atimārga-krama-kula-trika-srotas-antara-ādi with sandhi",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "How do those refined by Śaiva teaching differ from others in attaining complete liberation?",
+   "premises": [
+    "Some are not completely liberated.",
+    "Those refined by Śaiva teaching are not in that same condition.",
+    "This applies across atimārga, krama, kula, trika, and other streams."
+   ],
+   "inference": "Those refined by Śaiva teaching, across its various streams, are not left incompletely liberated in the way others are.",
+   "uncertainties": [
+    "The verse states a contrast but does not specify the exact mechanism of their liberation."
+   ],
+   "plain_english": "Just as some are not completely liberated, those refined by Śaiva teaching are not so, whether in the atimārga, krama, kula, trika, or other streams."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "parameśānaśāstre",
+     "gloss": "in-the-scripture-of-Parameśāna",
+     "grounds": "locative; compound parameśāna-śāstra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.m.nom.pl"
+    },
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "adverb; sandhi form of samyak",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣitā",
+     "gloss": "initiated",
+     "grounds": "past participle",
+     "morph": "m.nom.pl, ppp (dīkṣ)"
+    },
+    {
+     "surface": "narāḥ",
+     "gloss": "people",
+     "grounds": "subject noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.m.gen.pl"
+    },
+    {
+     "surface": "naivāpavargasya",
+     "gloss": "not-at-all-of-liberation",
+     "grounds": "compound na-eva-apavarga with sandhi",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "lābhe",
+     "gloss": "in-the-attainment",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhedo",
+     "gloss": "difference",
+     "grounds": "subject noun; sandhi form of bhedaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'sti",
+     "gloss": "there-is",
+     "grounds": "verb; sandhi form of asti",
+     "morph": "3.sg.pres.act (as)"
+    },
+    {
+     "surface": "kaś",
+     "gloss": "any",
+     "grounds": "indefinite pronoun; sandhi form of kaḥ",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "cana",
+     "gloss": "whatsoever",
+     "grounds": "indefinite particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Can an expert discern many fine details in a brief flash of illumination?",
+   "question": "Is there any difference in attaining liberation among those properly initiated in the Parameśāna scripture?",
    "premises": [
-    "A person with clear knowledge of the nature of gems is an expert observer.",
-    "Lightning can reveal objects only for a single brief moment.",
-    "Even in that brief moment, the expert can pick out many particular details of many gems."
+    "Some people are properly initiated in the Parameśāna scripture.",
+    "Liberation is something that can be attained.",
+    "The verse denies any difference among them in that attainment."
    ],
-   "inference": "Expert knowledge enables rapid discrimination of numerous particulars even under momentary illumination.",
+   "inference": "For those properly initiated in the Parameśāna scripture, there is no difference whatsoever in attaining liberation.",
    "uncertainties": [],
-   "plain_english": "Someone with clear knowledge of the nature of gems can, in the brief moment shown by a flash of lightning, pick out those various particular details even among many gems."
+   "plain_english": "But for those people who are properly initiated in the scripture of Parameśāna, there is no difference whatsoever in the attainment of liberation."
   },
   {
-   "verse": 179,
+   "verse": 193,
    "rows": [
     {
-     "surface": "anekasvarasaṃbhārasparśalāghavayojite",
-     "gloss": "endowed-with-light-touch-across-many-tones",
-     "grounds": "compound describing a lute played with agile contact over many notes",
-     "morph": "compound: aneka+svara+saṃbhāra+sparśa+lāghava+yojita, f.loc.sg"
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "vīṇāyām",
-     "gloss": "on-the-lute",
-     "grounds": "locative indicating the instrument",
-     "morph": "f.loc.sg"
+     "surface": "caitadatirikto",
+     "gloss": "and-different-from-this",
+     "grounds": "compound ca-etad-atirikta with sandhi",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "ekavistāre",
-     "gloss": "in-a-single-unfolding",
-     "grounds": "locative compound describing one continuous musical spread",
-     "morph": "compound: eka+vistāra, m.loc.sg"
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "particle; sandhi form of api",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "vaicitryaṃ",
-     "gloss": "variety",
-     "grounds": "object of perception",
-     "morph": "n.acc.sg"
+     "surface": "mokṣopāyo",
+     "gloss": "means-to-liberation",
+     "grounds": "subject noun; compound mokṣa-upāya with sandhi",
+     "morph": "m.nom.sg"
     },
     {
-     "surface": "vetti",
-     "gloss": "knows",
-     "grounds": "main verb of perception/cognition",
-     "morph": "3.sg.act-pres, √vid"
+     "surface": "'sti",
+     "gloss": "there-is",
+     "grounds": "verb; sandhi form of asti",
+     "morph": "3.sg.pres.act (as)"
     },
     {
-     "surface": "tanmayaḥ",
-     "gloss": "absorbed-in-that",
-     "grounds": "describes the perceiver as fully identified with the experience",
-     "morph": "compound: tad+maya, m.nom.sg"
+     "surface": "kaś",
+     "gloss": "any",
+     "grounds": "indefinite pronoun; sandhi form of kaḥ",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "cana",
+     "gloss": "whatsoever",
+     "grounds": "indefinite particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "restrictive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvāpy",
+     "gloss": "in-some-cases",
+     "grounds": "adverbial compound kva-api with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāyāsāj",
+     "gloss": "from-effortlessness",
+     "grounds": "ablative; compound an-āyāsa with sandhi",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "jīvanmuktikrameṇa",
+     "gloss": "by-the-sequence-of-liberation-while-living",
+     "grounds": "instrumental; compound jīvan-mukti-krama",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How does an absorbed listener perceive variety within a single musical unfolding?",
+   "question": "Is there any means to liberation other than the one taught here?",
    "premises": [
-    "A lute can be played with light touch across many tones in one unfolding.",
-    "Such a performance contains manifold variety within a single continuum.",
-    "One who is absorbed in that experience can know that variety."
+    "A means to liberation has been indicated.",
+    "No other means to liberation exists apart from it.",
+    "In some cases the result comes effortlessly and through the sequence of living liberation."
    ],
-   "inference": "Absorbed awareness can discern rich internal variety within what appears as a single continuous event.",
-   "uncertainties": [],
-   "plain_english": "On a lute endowed with a light touch across many tones, within a single unfolding, one who is absorbed in it knows the variety present there."
+   "inference": "There is no alternative means to liberation, though its realization may vary in ease and in following the path of living liberation.",
+   "uncertainties": [
+    "The antecedent of etad is not explicit in this verse and depends on the immediate context."
+   ],
+   "plain_english": "There is no means to liberation whatsoever other than this; only, in some cases, it comes effortlessly and through the sequence of liberation while still living."
   },
   {
-   "verse": 180,
+   "verse": 194,
    "rows": [
     {
-     "surface": "nibiḍābhyāsadhārāgraviśrāntaśravaṇendriyaḥ",
-     "gloss": "one-whose-ear-rests-on-the-edge-of-intense-practice",
-     "grounds": "compound describing a highly trained listener",
-     "morph": "compound: nibiḍa+abhyāsa+dhārā+agra+viśrānta+śravaṇa+indriya, m.nom.sg"
-    },
-    {
-     "surface": "vetty",
-     "gloss": "knows",
-     "grounds": "main verb, elided form before eva",
-     "morph": "3.sg.act-pres, √vid"
+     "surface": "śīghram",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "indeclinable emphatic particle",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "tatsvarāṃśāntaḥśrutyūnādhikatām",
-     "gloss": "the-deficiency-or-excess-of-inner-microtones-within-those-notes",
-     "grounds": "compound object describing subtle pitch distinctions",
-     "morph": "compound: tad+svara+aṃśa+antar+śruti+ūna+adhikatā, f.acc.sg"
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective modifying siddhiḥ",
+     "morph": "f.nom.sg"
     },
     {
-     "surface": "api",
-     "gloss": "even",
-     "grounds": "indeclinable particle extending the scope to subtle distinctions",
+     "surface": "siddhir",
+     "gloss": "attainment",
+     "grounds": "subject noun; sandhi form of siddhiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathāsmaddarśaneṣv",
+     "gloss": "as-in-our-teachings",
+     "grounds": "locative plural; compound yathā-asmad-darśana with sandhi",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "in-some-cases",
+     "grounds": "adverbial compound kva-api with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvāvalīyogaparipāṭīkramāc",
+     "gloss": "from-the-methodical-sequence-of-tattva-series-yoga",
+     "grounds": "ablative; compound tattva-āvalī-yoga-paripāṭī-krama with sandhi",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "cirāt",
+     "gloss": "after-a-long-time",
+     "grounds": "ablative used adverbially",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What level of subtlety can a thoroughly trained ear discern in musical tones?",
+   "question": "How quickly is supreme attainment reached in these teachings compared with other methods?",
    "premises": [
-    "Intense and sustained practice can refine the organ of hearing.",
-    "Musical tones contain inner microtonal components.",
-    "A trained listener can detect even slight deficiency or excess in those microtones."
+    "Supreme attainment can arise quickly in our teachings.",
+    "In some cases attainment follows the methodical sequence of tattva-series yoga.",
+    "That methodical sequence may take a long time."
    ],
-   "inference": "Deep training enables perception of extremely fine distinctions within a single tonal field.",
+   "inference": "Our teachings can yield supreme attainment quickly, whereas some tattva-series methods yield it only after a long time.",
    "uncertainties": [
-    "The technical term śruti is rendered generally as microtone; its precise musical value is context-dependent."
+    "The contrast is compressed; the verse implies but does not fully spell out the opposing system."
    ],
-   "plain_english": "One whose ear has been refined by intense, sustained practice can indeed discern even the slight deficiency or excess of the inner microtones within those notes."
+   "plain_english": "In our teachings supreme attainment comes quickly indeed; in some cases, by contrast, it comes only after a long time through the methodical sequence of yoga based on the series of tattvas."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "kiṃtu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāgratpadādīnāṃ",
+     "gloss": "of-waking-state-and-others",
+     "grounds": "possessive; compound jāgrat-pada-ādi",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "adverbial distributive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahubhedatā",
+     "gloss": "manifold-division",
+     "grounds": "subject noun; compound bahu-bheda-tā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirṇeṣyate",
+     "gloss": "will-be-determined",
+     "grounds": "future passive verb",
+     "morph": "3.sg.fut.pass (nir-nī)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "adverb of consequence; sandhi form of tataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "fitting",
+     "grounds": "predicate adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭirūpeṇa",
+     "gloss": "in-the-form-of-emanation",
+     "grounds": "instrumental; compound sṛṣṭi-rūpa",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhāsanam",
+     "gloss": "shining-forth",
+     "grounds": "subject noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is it fitting to describe manifestation as shining forth in the form of emanation?",
+   "premises": [
+    "The waking state and the other states each have manifold divisions.",
+    "Those divisions will be determined later.",
+    "Given that multiplicity, manifestation can be described as emanation."
+   ],
+   "inference": "Because each state is internally manifold, it is fitting to understand their shining forth in the form of emanation.",
+   "uncertainties": [
+    "The verse points forward to a later determination (nirṇeṣyate) without specifying where."
+   ],
+   "plain_english": "But the waking state and the others each have many divisions, which will be determined later; therefore it is fitting that their shining forth takes the form of emanation."
+  },
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "adverb of consequence; sandhi form of ataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nijavibodhena",
+     "gloss": "by-its-own-awareness",
+     "grounds": "instrumental; compound nija-vibodha",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun, object",
+     "morph": "pron.m.acc.pl"
+    },
+    {
+     "surface": "bhāvān",
+     "gloss": "entities",
+     "grounds": "object noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vyāpnuvan",
+     "gloss": "pervading",
+     "grounds": "present participle",
+     "morph": "m.nom.sg, pres.part.act (vi-āp)"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "the-Lord",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "etais",
+     "gloss": "by-these",
+     "grounds": "demonstrative pronoun, instrumental",
+     "morph": "pron.m.inst.pl"
+    },
+    {
+     "surface": "tyājayate",
+     "gloss": "causes-to-abandon",
+     "grounds": "causative verb",
+     "morph": "3.sg.pres.caus.mid (tyaj)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun, object",
+     "morph": "pron.f.acc.sg"
+    },
+    {
+     "surface": "svām",
+     "gloss": "own",
+     "grounds": "reflexive possessive adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "audāsīnyadaśāṃ",
+     "gloss": "state-of-indifference",
+     "grounds": "object noun; compound audāsīnya-daśā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "the-Lord",
+     "grounds": "subject noun repeated",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the Lord move from indifference to engagement with manifested entities?",
+   "premises": [
+    "The Lord pervades entities by his own awareness.",
+    "Those entities become the means of his activity.",
+    "Through them he causes the abandonment of his own state of indifference."
+   ],
+   "inference": "By pervading entities with his own awareness, the Lord uses them to relinquish his indifference and engage in manifestation.",
+   "uncertainties": [
+    "The agency of etais is compact; it can be read as instrumental means or as the entities prompting the change."
+   ],
+   "plain_english": "Therefore, pervading those entities by his own awareness, the Lord causes that state of indifference of his to be abandoned through them."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "jñānaśakter",
+     "gloss": "of-the-power-of-knowledge",
+     "grounds": "possessive; compound jñāna-śakti",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "jṛmbhā",
+     "gloss": "expansion",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tajjñānasthitibhāvinaḥ",
+     "gloss": "abiding-in-the-state-of-that-knowledge",
+     "grounds": "nominal subject; compound tad-jñāna-sthiti-bhāvin",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhāvāḥ",
+     "gloss": "entities",
+     "grounds": "subject noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prayānti",
+     "gloss": "attain",
+     "grounds": "present verb",
+     "morph": "3.pl.pres.act (pra-yā)"
+    },
+    {
+     "surface": "pūrṇatvaṃ",
+     "gloss": "fullness",
+     "grounds": "object noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vikāsinijatejasaḥ",
+     "gloss": "with-their-own-radiance-unfolding",
+     "grounds": "adjectival compound vikāsin-nija-tejas",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What effect does the expansion of the power of knowledge have on entities abiding in that knowledge?",
+   "premises": [
+    "The power of knowledge undergoes expansion.",
+    "Some entities abide in the state of that knowledge.",
+    "Those entities possess an unfolding radiance of their own."
+   ],
+   "inference": "When the power of knowledge expands, entities abiding in that knowledge attain fullness with their own radiance unfolding.",
+   "uncertainties": [],
+   "plain_english": "This is the expansion of the power of knowledge: entities abiding in the state of that knowledge attain fullness, with their own radiance unfolding."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "paramaḥ",
+     "gloss": "supreme",
+     "grounds": "adjective modifying saṃkocaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkocaḥ",
+     "gloss": "contraction",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadyojātapade",
+     "gloss": "at-the-level-of-Sadyojāta",
+     "grounds": "locative; compound sadyojāta-pada",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act (bhū)"
+    },
+    {
+     "surface": "yad",
+     "gloss": "because",
+     "grounds": "conjunction introducing reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.m.gen.pl"
+    },
+    {
+     "surface": "svasvarūpasya",
+     "gloss": "of-their-own-nature",
+     "grounds": "possessive; compound sva-svarūpa",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "niṣṭhā",
+     "gloss": "firm-abiding",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "emphatic negation; compound na-eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sma",
+     "gloss": "indeed",
+     "grounds": "particle marking past/general statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present verb",
+     "morph": "3.sg.pres.mid (jan)"
+    }
+   ],
+   "question": "Why is there supreme contraction at the level of Sadyojāta?",
+   "premises": [
+    "A supreme contraction occurs at the level of Sadyojāta.",
+    "At that level beings do not attain firm abiding in their own nature.",
+    "Lack of firm abiding in one's own nature constitutes contraction."
+   ],
+   "inference": "Because firm abiding in their own nature does not arise there, the level of Sadyojāta is characterized by supreme contraction.",
+   "uncertainties": [
+    "The referent of eṣāṃ is context-dependent and not explicitly identified in this verse."
+   ],
+   "plain_english": "At the level of Sadyojāta there would indeed be supreme contraction, because firm abiding in their own nature does not arise for them."
   }
  ]
 }
