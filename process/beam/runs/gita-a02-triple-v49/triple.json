@@ -2,67 +2,487 @@
  "song": "gita-a02",
  "items": [
   {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "kiṃtarhi",
+     "gloss": "what-then",
+     "grounds": "opening particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogasthaḥ",
+     "gloss": "established-in-yoga",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imperative root kṛ"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "plural object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "saṅgaṃ",
+     "gloss": "attachment",
+     "grounds": "object of tyaktvā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive",
+     "morph": "absolutive root tyaj"
+    },
+    {
+     "surface": "dhanañjaya",
+     "gloss": "dhanañjaya",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "siddhyasiddhyoḥ",
+     "gloss": "success-failure",
+     "grounds": "locative dual",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "samo",
+     "gloss": "equal",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive",
+     "morph": "absolutive root bhū"
+    },
+    {
+     "surface": "samatvaṃ",
+     "gloss": "equanimity",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "yoga",
+     "grounds": "predicate nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres root vac"
+    },
+    {
+     "surface": "yoge",
+     "gloss": "in-yoga",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stood",
+     "grounds": "absolutive",
+     "morph": "absolutive root sthā"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "plural object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imperative root kṛ"
+    },
+    {
+     "surface": "sāmyaṃ",
+     "gloss": "sameness",
+     "grounds": "object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is yoga when action is done without attachment?",
+   "premises": [
+    "yoga is equanimity in success and failure",
+    "action is done while established in yoga",
+    "sameness in action is called yoga"
+   ],
+   "inference": "Yoga is equanimity maintained while performing action.",
+   "uncertainties": [
+    "Kashmirian recension wording may differ from vulgate"
+   ],
+   "plain_english": "Established in yoga, do actions abandoning attachment; equality in success and failure is yoga."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "plural subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samārambha",
+     "gloss": "undertakings",
+     "grounds": "plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nirāśīrbandhanāstviha",
+     "gloss": "desireless-bonds-here",
+     "grounds": "fused compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tyāge",
+     "gloss": "in-renunciation",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hutaṃ",
+     "gloss": "offered",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tyāgī",
+     "gloss": "renouncer",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhimān",
+     "gloss": "wise",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vyāpārā",
+     "gloss": "activities",
+     "grounds": "plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "āśīrūpeṇa",
+     "gloss": "as-desire",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bandhanena",
+     "gloss": "by-bond",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktāḥ",
+     "gloss": "joined",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "abhilāṣo",
+     "gloss": "longing",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhakaḥ",
+     "gloss": "binder",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is the wise renouncer free from desire-bonds?",
+   "premises": [
+    "all undertakings are free from desire-bonds",
+    "offered action belongs to renunciation",
+    "longing itself is the binder"
+   ],
+   "inference": "The wise renouncer acts without desire-bonds.",
+   "uncertainties": [
+    "fused compound reading may need editorial resolution"
+   ],
+   "plain_english": "One whose undertakings are free from desire-bonds is the wise renouncer; longing binds."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "dūreṇa",
+     "gloss": "far",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hyavaraṃ",
+     "gloss": "indeed-inferior",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "buddhiyogāddhanañjaya",
+     "gloss": "from-yoga-of-wisdom-dhanañjaya",
+     "grounds": "fused compound",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "buddhau",
+     "gloss": "in-intellect",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śaraṇamanviccha",
+     "gloss": "seek-refuge",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imperative"
+    },
+    {
+     "surface": "kṛpaṇāḥ",
+     "gloss": "wretched",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "phalahetavaḥ",
+     "gloss": "fruit-causers",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "buddhiyogātkila",
+     "gloss": "from-yoga-of-wisdom-indeed",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "hetoravaraṃ-duṣṭaphalaṃ",
+     "gloss": "inferior-bad-fruit",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "riktaṃ",
+     "gloss": "empty",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dūrībhavati",
+     "gloss": "becomes-distant",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root bhū"
+    },
+    {
+     "surface": "atastādṛśyāṃ",
+     "gloss": "therefore-in-such",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "buddhau",
+     "gloss": "in-intellect",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śaraṇamanviccha-prārthayasva",
+     "gloss": "seek-refuge-pray",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imperative"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "buddhirlabhyate",
+     "gloss": "intellect-is-gained",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres root labh"
+    }
+   ],
+   "question": "Why is action inferior to yoga of wisdom?",
+   "premises": [
+    "action is far inferior to yoga of wisdom",
+    "wretched ones are fruit-causers",
+    "seek refuge in intellect to gain it"
+   ],
+   "inference": "Yoga of wisdom surpasses fruit-seeking action.",
+   "uncertainties": [
+    "fused sandhi forms retained as given"
+   ],
+   "plain_english": "Action is far inferior to yoga of wisdom; seek refuge in intellect, for wretched fruit-causers remain distant."
+  },
+  {
    "verse": 52,
    "rows": [
     {
      "surface": "buddhiyukto",
-     "gloss": "united-with-intellect",
-     "grounds": "compound adjective",
+     "gloss": "joined-to-intellect",
+     "grounds": "compound",
      "morph": "m.nom.sg"
     },
     {
      "surface": "jahātīha",
      "gloss": "abandons-here",
-     "grounds": "verb form",
-     "morph": "3sg.act.pres-root-hā"
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root hā"
     },
     {
      "surface": "ubhe",
      "gloss": "both",
-     "grounds": "dual pronoun",
-     "morph": "acc.du.n"
+     "grounds": "accusative dual",
+     "morph": "n.acc.du"
     },
     {
      "surface": "sukṛtaduṣkṛte",
-     "gloss": "good-and-bad-deeds",
-     "grounds": "compound noun",
-     "morph": "acc.du.n"
+     "gloss": "good-bad-deeds",
+     "grounds": "compound",
+     "morph": "n.acc.du"
     },
     {
      "surface": "tasmādyogāya",
      "gloss": "therefore-for-yoga",
-     "grounds": "compound with tasmāt",
-     "morph": "dat.sg.m"
+     "grounds": "dative",
+     "morph": "m.dat.sg"
     },
     {
      "surface": "yujyasva",
      "gloss": "be-yoked",
-     "grounds": "imperative middle",
-     "morph": "2sg.mid.imp-root-yuj"
+     "grounds": "imperative",
+     "morph": "2.sg.pass-imperative root yuj"
     },
     {
      "surface": "yogaḥ",
      "gloss": "yoga",
-     "grounds": "noun",
-     "morph": "nom.sg.m"
+     "grounds": "subject",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "karmasu",
      "gloss": "in-actions",
-     "grounds": "locative plural",
-     "morph": "loc.pl.n"
+     "grounds": "locative",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "kauśalam",
      "gloss": "skill",
-     "grounds": "noun",
-     "morph": "nom.sg.n"
+     "grounds": "predicate",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "ubhe",
      "gloss": "both",
-     "grounds": "dual pronoun",
-     "morph": "acc.du.n"
+     "grounds": "accusative dual",
+     "morph": "n.acc.du"
     },
     {
      "surface": "iti",
@@ -72,64 +492,64 @@
     },
     {
      "surface": "parasparavyabhicāraṃ",
-     "gloss": "mutual-contradiction",
-     "grounds": "compound noun",
-     "morph": "acc.sg.m"
+     "gloss": "mutual-deviation",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "darśayati",
      "gloss": "shows",
-     "grounds": "verb form",
-     "morph": "3sg.act.pres-root-dṛś"
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root dṛś"
     },
     {
      "surface": "tasmāt-yathāhi",
      "gloss": "therefore-as-indeed",
-     "grounds": "compound particle",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sukṛttaduṣkṛte",
-     "gloss": "good-and-bad-deeds",
-     "grounds": "compound noun",
-     "morph": "nom.du.n"
+     "gloss": "good-bad-deeds",
+     "grounds": "compound",
+     "morph": "n.acc.du"
     },
     {
      "surface": "naśyatastathākaraṇameva",
-     "gloss": "perishing-so-action-only",
+     "gloss": "perish-so-action-only",
      "grounds": "fused compound",
-     "morph": "(indecl.)"
+     "morph": "n.nom.sg"
     },
     {
      "surface": "paramaṃ",
      "gloss": "supreme",
      "grounds": "adjective",
-     "morph": "nom.sg.n"
+     "morph": "n.nom.sg"
     },
     {
      "surface": "kauśalamiti",
      "gloss": "skill-thus",
-     "grounds": "fused compound",
-     "morph": "(indecl.)"
+     "grounds": "compound",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "bhāvaḥ",
      "gloss": "meaning",
-     "grounds": "noun",
-     "morph": "nom.sg.m"
+     "grounds": "subject",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "How does yoga in action become supreme skill?",
+   "question": "What does yoga of intellect abandon in action?",
    "premises": [
-    "united intellect abandons both deeds",
-    "yoga in actions is skill",
-    "perishing deeds leave action only"
+    "joined to intellect abandons both good and bad deeds",
+    "yoga is skill in actions",
+    "mutual deviation is shown"
    ],
-   "inference": "skill consists in action freed from both good and bad fruit",
+   "inference": "Yoga of intellect abandons both kinds of deeds.",
    "uncertainties": [
-    "fused commentary compounds are read as glosses"
+    "fused compound reading may need editorial resolution"
    ],
-   "plain_english": "One united with intellect abandons both good and bad deeds here; therefore be yoked to yoga, for yoga in actions is skill."
+   "plain_english": "Joined to intellect, one abandons both good and bad deeds; yoga is skill in actions."
   },
   {
    "verse": 53,
@@ -137,14 +557,14 @@
     {
      "surface": "karmajaṃ",
      "gloss": "action-born",
-     "grounds": "compound adjective",
-     "morph": "acc.sg.n"
+     "grounds": "compound",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "buddhiyuktā",
-     "gloss": "united-with-intellect",
-     "grounds": "compound adjective",
-     "morph": "nom.pl.m"
+     "gloss": "joined-to-intellect",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "hi",
@@ -155,87 +575,87 @@
     {
      "surface": "phalaṃ",
      "gloss": "fruit",
-     "grounds": "noun",
-     "morph": "acc.sg.n"
+     "grounds": "object",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tyaktvā",
      "gloss": "having-abandoned",
      "grounds": "absolutive",
-     "morph": "abs.root-tyaj"
+     "morph": "absolutive root tyaj"
     },
     {
      "surface": "manīṣiṇaḥ",
-     "gloss": "wise-ones",
-     "grounds": "noun",
-     "morph": "nom.pl.m"
+     "gloss": "wise",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "janmabandhavinirmuktāḥ",
      "gloss": "freed-from-birth-bond",
-     "grounds": "compound adjective",
-     "morph": "nom.pl.m"
+     "grounds": "compound",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "padaṃ",
      "gloss": "state",
-     "grounds": "noun",
-     "morph": "acc.sg.n"
+     "grounds": "object",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "gacchantyanāmayam",
-     "gloss": "go-to-unailing",
-     "grounds": "fused verb phrase",
-     "morph": "3pl.act.pres-root-gam"
+     "gloss": "go-unailing",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root gam"
     },
     {
      "surface": "yogabuddhiyuktāḥ",
-     "gloss": "united-with-yoga-intellect",
-     "grounds": "compound adjective",
-     "morph": "nom.pl.m"
+     "gloss": "joined-to-yoga-intellect",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "karmaṇāṃ",
      "gloss": "of-actions",
-     "grounds": "genitive plural",
-     "morph": "gen.pl.n"
+     "grounds": "genitive",
+     "morph": "n.gen.pl"
     },
     {
      "surface": "phalaṃ",
      "gloss": "fruit",
-     "grounds": "noun",
-     "morph": "acc.sg.n"
+     "grounds": "object",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tyaktvā",
      "gloss": "having-abandoned",
      "grounds": "absolutive",
-     "morph": "abs.root-tyaj"
+     "morph": "absolutive root tyaj"
     },
     {
      "surface": "janmabandhaṃ",
      "gloss": "birth-bond",
-     "grounds": "compound noun",
-     "morph": "acc.sg.m"
+     "grounds": "object",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "tyajantibrahmasattāmavāpnuvanti",
-     "gloss": "abandon-and-attain-brahman-being",
-     "grounds": "fused verb phrase",
-     "morph": "3pl.act.pres-root-tyaj"
+     "gloss": "abandon-attain-brahman-being",
+     "grounds": "fused compound",
+     "morph": "3.pl.act-pres"
     }
    ],
-   "question": "What follows when wise ones abandon action-born fruit?",
+   "question": "What do wise ones attain by abandoning action-born fruit?",
    "premises": [
     "wise ones abandon action-born fruit",
-    "they become freed from birth-bond",
-    "they attain brahman-being"
+    "they are freed from birth-bond",
+    "they attain unailing state"
    ],
-   "inference": "abandoning fruit of action leads to liberation and brahman-being",
+   "inference": "Abandoning action-born fruit frees from birth-bond.",
    "uncertainties": [
-    "fused final verb phrase is read as one row"
+    "fused compound reading may need editorial resolution"
    ],
-   "plain_english": "Wise ones united with intellect abandon action-born fruit and, freed from birth-bond, go to the unailing state."
+   "plain_english": "Wise ones, abandoning action-born fruit, are freed from birth-bond and attain the unailing state."
   },
   {
    "verse": 54,
@@ -249,50 +669,50 @@
     {
      "surface": "te",
      "gloss": "your",
-     "grounds": "pronoun",
-     "morph": "gen.sg.m"
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "mohakalilaṃ",
      "gloss": "delusion-thicket",
-     "grounds": "compound noun",
-     "morph": "acc.sg.n"
+     "grounds": "compound",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "buddhirvyatitariṣyati",
      "gloss": "intellect-will-cross",
-     "grounds": "fused verb phrase",
-     "morph": "3sg.act.fut-root-tṛ"
+     "grounds": "verb",
+     "morph": "3.sg.act-fut root tṛ"
     },
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "adverb",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "gantāsi",
      "gloss": "you-will-go",
-     "grounds": "verb form",
-     "morph": "2sg.act.fut-root-gam"
+     "grounds": "verb",
+     "morph": "2.sg.act-fut root gam"
     },
     {
      "surface": "nirvedaṃ",
-     "gloss": "dispassion",
-     "grounds": "noun",
-     "morph": "acc.sg.m"
+     "gloss": "weariness",
+     "grounds": "object",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "śrotavyasya",
-     "gloss": "of-what-is-heard",
-     "grounds": "gerundive",
-     "morph": "gen.sg.n"
+     "gloss": "of-heard",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
     },
     {
      "surface": "śrutasya",
-     "gloss": "of-what-is-heard",
-     "grounds": "past participle",
-     "morph": "gen.sg.n"
+     "gloss": "of-heard",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
     },
     {
      "surface": "ca",
@@ -301,17 +721,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "When will intellect cross the thicket of delusion?",
+   "question": "When will the intellect cross the delusion-thicket?",
    "premises": [
-    "intellect crosses delusion-thicket",
-    "then one goes to dispassion",
-    "dispassion concerns heard and learned things"
+    "when intellect crosses delusion-thicket",
+    "then one goes to weariness",
+    "of what is heard and has been heard"
    ],
-   "inference": "crossing delusion brings dispassion toward all heard and learned things",
+   "inference": "Crossing delusion brings weariness toward heard things.",
    "uncertainties": [
-    "fused verb phrase is read as one row"
+    "Kashmirian recension wording may differ from vulgate"
    ],
-   "plain_english": "When your intellect crosses the thicket of delusion, then you will go to dispassion toward what is to be heard and what is heard."
+   "plain_english": "When your intellect crosses the delusion-thicket, then you will go to weariness of what is to be heard and heard."
   }
  ]
 }

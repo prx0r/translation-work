@@ -1,0 +1,809 @@
+{
+ "song": "gita-a02",
+ "items": [
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "viṣayā",
+     "gloss": "objects",
+     "grounds": "token 1",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vinivartante",
+     "gloss": "turn-away",
+     "grounds": "token 2",
+     "morph": "3.pl.act-pres root vinivṛt"
+    },
+    {
+     "surface": "nirāhārasya",
+     "gloss": "of-one-without-food",
+     "grounds": "token 3",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dehinaḥ",
+     "gloss": "of-embodied-one",
+     "grounds": "token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rasavarjaṃ",
+     "gloss": "except-taste",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raso'pyasya",
+     "gloss": "taste-too-his",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "token 7",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "token 8",
+     "morph": "gerund root dṛś"
+    },
+    {
+     "surface": "nivartate",
+     "gloss": "turns-back",
+     "grounds": "token 9",
+     "morph": "3.sg.act-pres root nivṛt"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "although",
+     "grounds": "token 10",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhāryaiḥ-rūpādibhirviṣayaiḥ",
+     "gloss": "with-food-like-objects",
+     "grounds": "token 11",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saṃbandho'sya",
+     "gloss": "connection-his",
+     "grounds": "token 12",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "token 13",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "even-so",
+     "grounds": "token 14",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "token 15",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viṣayā",
+     "gloss": "objects",
+     "grounds": "token 16",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "antaḥkaraṇagatamuparāgalakṣaṇaṃ",
+     "gloss": "inner-organ-residue-mark",
+     "grounds": "token 17",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rasaṃ",
+     "gloss": "taste",
+     "grounds": "token 18",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varjayitvā",
+     "gloss": "having-excluded",
+     "grounds": "token 19",
+     "morph": "gerund root varj"
+    },
+    {
+     "surface": "nivartante",
+     "gloss": "turn-away",
+     "grounds": "token 20",
+     "morph": "3.pl.act-pres root nivṛt"
+    },
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "token 21",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsau",
+     "gloss": "not-that-one",
+     "grounds": "token 22",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthiraprajñaḥ",
+     "gloss": "steady-wisdom",
+     "grounds": "token 23",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yoginastu",
+     "gloss": "but-yogin",
+     "grounds": "token 24",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parameśvaradarśanāduparāgo",
+     "gloss": "from-supreme-lord-vision-residue",
+     "grounds": "token 25",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token 26",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "token 27",
+     "morph": "3.sg.act-pres root bhū"
+    },
+    {
+     "surface": "anyasya",
+     "gloss": "of-another",
+     "grounds": "token 28",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token 29",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapasvino",
+     "gloss": "of-ascetic",
+     "grounds": "token 30",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāsau",
+     "gloss": "not-that-one",
+     "grounds": "token 31",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nivartate",
+     "gloss": "turns-back",
+     "grounds": "token 32",
+     "morph": "3.sg.act-pres root nivṛt"
+    }
+   ],
+   "question": "Why does mere withdrawal of objects not make one steady in wisdom?",
+   "premises": [
+    "objects turn away except taste",
+    "taste remains as inner residue",
+    "supreme vision removes residue"
+   ],
+   "inference": "steady wisdom requires residue-free recognition, not mere abstinence",
+   "uncertainties": [
+    "compound glosses are approximate"
+   ],
+   "plain_english": "Objects withdraw from one who fasts, but taste remains; seeing the supreme removes that residue, so only the yogin is steady in wisdom."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "yattasyāpi",
+     "gloss": "even-his",
+     "grounds": "token 1",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 2",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaunteya",
+     "gloss": "son-of-kunti",
+     "grounds": "token 3",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "puruṣasya",
+     "gloss": "of-man",
+     "grounds": "token 4",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vipaścitaḥ",
+     "gloss": "of-wise-one",
+     "grounds": "token 5",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "indriyāṇi",
+     "gloss": "senses",
+     "grounds": "token 6",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pramāthīni",
+     "gloss": "turbulent",
+     "grounds": "token 7",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "haranti",
+     "gloss": "carry-off",
+     "grounds": "token 8",
+     "morph": "3.pl.act-pres root hṛ"
+    },
+    {
+     "surface": "prasabhaṃ",
+     "gloss": "by-force",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "token 10",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yat-yasmāt",
+     "gloss": "because",
+     "grounds": "token 11",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāpi-tapasvino",
+     "gloss": "even-his-ascetic",
+     "grounds": "token 12",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mana",
+     "gloss": "mind",
+     "grounds": "token 13",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "indriyairhiyate",
+     "gloss": "is-carried-by-senses",
+     "grounds": "token 14",
+     "morph": "3.sg.pass-pres root hṛ"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "token 15",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yattasya-sayatnasyāpi",
+     "gloss": "even-his-with-effort",
+     "grounds": "token 16",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yoginā",
+     "gloss": "by-yogin",
+     "grounds": "token 17",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 18",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mana",
+     "gloss": "mind",
+     "grounds": "token 19",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "token 20",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jetavyam",
+     "gloss": "to-be-conquered",
+     "grounds": "token 21",
+     "morph": "neut.nom.sg gerundive root ji"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 22",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyo",
+     "gloss": "second",
+     "grounds": "token 23",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirṇītaḥ",
+     "gloss": "decided",
+     "grounds": "token 24",
+     "morph": "m.nom.sg pp root nirṇī"
+    }
+   ],
+   "question": "Why must even the wise conquer the mind?",
+   "premises": [
+    "turbulent senses carry off mind",
+    "ascetic mind is dragged by senses",
+    "yogin must conquer mind"
+   ],
+   "inference": "mind-conquest is the decisive second point",
+   "uncertainties": [
+    "fused glosses approximate"
+   ],
+   "plain_english": "Even a wise person's mind is seized by turbulent senses, so the yogin must conquer the mind."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "token 1",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "saṃyamya",
+     "gloss": "having-restrained",
+     "grounds": "token 2",
+     "morph": "gerund root saṃyam"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "token 3",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yukta",
+     "gloss": "joined",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āsīta",
+     "gloss": "should-sit",
+     "grounds": "token 5",
+     "morph": "3.sg.opt.act root ās"
+    },
+    {
+     "surface": "matparaḥ",
+     "gloss": "devoted-to-me",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaśe",
+     "gloss": "in-control",
+     "grounds": "token 7",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 8",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasyendriyāṇi",
+     "gloss": "whose-senses",
+     "grounds": "token 9",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "token 10",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prajñā",
+     "gloss": "wisdom",
+     "grounds": "token 11",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pratiṣṭhitā",
+     "gloss": "established",
+     "grounds": "token 12",
+     "morph": "f.nom.sg pp root pratiṣṭhā"
+    },
+    {
+     "surface": "ya",
+     "gloss": "who",
+     "grounds": "token 13",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token 14",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "token 15",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "indriyāṇi",
+     "gloss": "senses",
+     "grounds": "token 16",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "niyamayati",
+     "gloss": "restrains",
+     "grounds": "token 17",
+     "morph": "3.sg.act-pres root niyam"
+    },
+    {
+     "surface": "natu",
+     "gloss": "not-but",
+     "grounds": "token 18",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apravṛttyā",
+     "gloss": "by-inaction",
+     "grounds": "token 19",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 20",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "token 21",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthiraprajñaḥ",
+     "gloss": "steady-wisdom",
+     "grounds": "token 22",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "token 23",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 24",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matpara",
+     "gloss": "devoted-to-me",
+     "grounds": "token 25",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evāsīta-māmeva",
+     "gloss": "should-sit-me-only",
+     "grounds": "token 26",
+     "morph": "3.sg.opt.act root ās"
+    },
+    {
+     "surface": "cidātmānaṃ",
+     "gloss": "conscious-self",
+     "grounds": "token 27",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parameśvaraṃ",
+     "gloss": "supreme-lord",
+     "grounds": "token 28",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhyasyet",
+     "gloss": "should-practice",
+     "grounds": "token 29",
+     "morph": "3.sg.opt.act root abhyas"
+    }
+   ],
+   "question": "How does one become established in steady wisdom?",
+   "premises": [
+    "restrain senses by mind",
+    "wisdom established when senses controlled",
+    "practice supreme conscious self"
+   ],
+   "inference": "steady wisdom comes from active restraint and devotion",
+   "uncertainties": [
+    "fused glosses approximate"
+   ],
+   "plain_english": "Having restrained the senses by mind, one should sit devoted to me; wisdom is established when senses are controlled."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "dhyāyato",
+     "gloss": "meditating",
+     "grounds": "token 1",
+     "morph": "m.gen.sg pres.part root dhyai"
+    },
+    {
+     "surface": "viṣayānpuṃsaḥ",
+     "gloss": "man's-objects",
+     "grounds": "token 2",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṅgasteṣūpajāyate",
+     "gloss": "attachment-arises-in-them",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṅgāt",
+     "gloss": "from-attachment",
+     "grounds": "token 4",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sañjāyate",
+     "gloss": "is-born",
+     "grounds": "token 5",
+     "morph": "3.sg.pass-pres root saṃjan"
+    },
+    {
+     "surface": "kāmaḥ",
+     "gloss": "desire",
+     "grounds": "token 6",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāmātkrodho'bhijāyate",
+     "gloss": "from-desire-anger-arises",
+     "grounds": "token 7",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chain follows from meditating on objects?",
+   "premises": [
+    "meditation on objects breeds attachment",
+    "attachment gives birth to desire",
+    "desire gives birth to anger"
+   ],
+   "inference": "object-meditation initiates a destructive chain",
+   "uncertainties": [
+    "fused glosses approximate"
+   ],
+   "plain_english": "For one meditating on objects, attachment arises; from attachment desire, and from desire anger."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "krodhādbhavati",
+     "gloss": "from-anger-arises",
+     "grounds": "token 1",
+     "morph": "3.sg.act-pres root bhū"
+    },
+    {
+     "surface": "sammohaḥ",
+     "gloss": "delusion",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sammohātsmṛtivibhramaḥ",
+     "gloss": "from-delusion-memory-confusion",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtibhraṃśādbuddhināśo",
+     "gloss": "from-memory-loss-intellect-destruction",
+     "grounds": "token 4",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "buddhināśāt",
+     "gloss": "from-intellect-destruction",
+     "grounds": "token 5",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "praṇaśyati",
+     "gloss": "perishes",
+     "grounds": "token 6",
+     "morph": "3.sg.act-pres root praṇaś"
+    },
+    {
+     "surface": "tapasvino",
+     "gloss": "of-ascetic",
+     "grounds": "token 7",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viṣayatyāga",
+     "gloss": "object-renunciation",
+     "grounds": "token 8",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "token 9",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣayagrahaṇe",
+     "gloss": "in-object-grasping",
+     "grounds": "token 10",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paryavasyati",
+     "gloss": "ends",
+     "grounds": "token 11",
+     "morph": "3.sg.act-pres root paryavas"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "token 12",
+     "morph": "gerund root dhyai"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token 13",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "token 14",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tyajyante",
+     "gloss": "are-abandoned",
+     "grounds": "token 15",
+     "morph": "3.pl.pass-pres root tyaj"
+    },
+    {
+     "surface": "dhyānakāla",
+     "gloss": "meditation-time",
+     "grounds": "token 16",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "token 17",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token 18",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgādaya",
+     "gloss": "attachment-etc",
+     "grounds": "token 19",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "upajāyante-ityanupāyo",
+     "gloss": "arise-thus-not-means",
+     "grounds": "token 20",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣayatyāgaḥ",
+     "gloss": "object-renunciation",
+     "grounds": "token 21",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthiraprajñasya",
+     "gloss": "of-steady-wisdom",
+     "grounds": "token 22",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Why is mere object-renunciation not the path?",
+   "premises": [
+    "anger leads to delusion and ruin",
+    "ascetic renunciation ends in grasping",
+    "meditation-time attachment arises"
+   ],
+   "inference": "renunciation without means is not steady wisdom",
+   "uncertainties": [
+    "fused glosses approximate"
+   ],
+   "plain_english": "Anger leads to delusion, memory confusion, intellect destruction, and ruin; mere renunciation ends in grasping, so it is not the means for steady wisdom."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "rāgadveṣavimuktaistu",
+     "gloss": "but-freed-from-attachment-aversion",
+     "grounds": "token 1",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "viṣayānindriyaiścaran",
+     "gloss": "moving-through-objects-by-senses",
+     "grounds": "token 2",
+     "morph": "m.nom.sg pres.part root car"
+    },
+    {
+     "surface": "ātmavaśyairvidheyātmā",
+     "gloss": "self-controlled-submissive-self",
+     "grounds": "token 3",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasādamadhigacchati",
+     "gloss": "attains-serenity",
+     "grounds": "token 4",
+     "morph": "3.sg.act-pres root adhigam"
+    }
+   ],
+   "question": "How does one attain serenity while acting?",
+   "premises": [
+    "freed from attachment and aversion",
+    "senses move through objects",
+    "self-controlled one attains serenity"
+   ],
+   "inference": "serenity comes through controlled engagement",
+   "uncertainties": [
+    "fused glosses approximate"
+   ],
+   "plain_english": "Freed from attachment and aversion, moving through objects with controlled senses, the self-controlled one attains serenity."
+  }
+ ]
+}

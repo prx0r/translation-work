@@ -1,0 +1,1058 @@
+{
+ "song": "gita-a02",
+ "items": [
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "tathāca",
+     "gloss": "thus-and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmimāṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "puṣpitāṃ",
+     "gloss": "flowery",
+     "grounds": "participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vācaṃ",
+     "gloss": "speech",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pravadantyavipaścitaḥ",
+     "gloss": "fools-speak",
+     "grounds": "fused verb+subject",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "vedavādaratāḥ",
+     "gloss": "vedic-debate-attached",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pārtha",
+     "gloss": "o-partha",
+     "grounds": "address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "nānyadastītivādinaḥ",
+     "gloss": "saying-no-other-exists",
+     "grounds": "fused claim",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do unwise Vedic debaters praise flowery speech?",
+   "premises": [
+    "fools speak flowery speech",
+    "they are attached to Vedic debate",
+    "they claim nothing else exists"
+   ],
+   "inference": "Their speech is attractive but not final wisdom.",
+   "uncertainties": [
+    "fused token kept whole"
+   ],
+   "plain_english": "Thus fools speak this flowery speech, attached to Vedic debate, O Partha, claiming nothing else exists."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "kāmātmānaḥ",
+     "gloss": "desire-natured",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svargaparā",
+     "gloss": "heaven-focused",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "janmakarmaphalepsavaḥ",
+     "gloss": "desiring-birth-action-fruits",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kriyāviśeṣabahulā",
+     "gloss": "full-of-special-rites",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhogaiśvaryagatīḥ",
+     "gloss": "paths-to-enjoyment-power",
+     "grounds": "compound",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "direction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What do desire-natured heaven-seekers pursue?",
+   "premises": [
+    "they are desire-natured",
+    "they seek heaven and fruits",
+    "they follow paths to enjoyment and power"
+   ],
+   "inference": "Their practice aims at worldly and heavenly rewards.",
+   "uncertainties": [
+    "compound boundaries internal"
+   ],
+   "plain_english": "Desire-natured, heaven-focused, desiring fruits of birth and action, full of special rites, they follow paths toward enjoyment and power."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "bhogaiśvaryaprasaktānāṃ",
+     "gloss": "attached-to-enjoyment-power",
+     "grounds": "compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tayāpahṛtacetasām",
+     "gloss": "whose-minds-stolen-by-that",
+     "grounds": "fused",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vyavasāyātmikā",
+     "gloss": "resolute",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "buddhiḥ",
+     "gloss": "understanding",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samādhau",
+     "gloss": "in-concentration",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-given",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kāmābhilāṣiṇaste",
+     "gloss": "desire-craving-they",
+     "grounds": "fused",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svayametāṃ",
+     "gloss": "this-themselves",
+     "grounds": "fused",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vācaṃ",
+     "gloss": "speech",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vedātmikāṃ",
+     "gloss": "vedic-natured",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "puṣpitāṃ-bhaviṣyatsvargaphalena",
+     "gloss": "flowery-future-heaven-fruit",
+     "grounds": "fused compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vyāptāṃ",
+     "gloss": "filled",
+     "grounds": "participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vadanti",
+     "gloss": "they-speak",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "inference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janmanaḥ",
+     "gloss": "of-birth",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "karmaiva",
+     "gloss": "action-only",
+     "grounds": "fused",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalamicchanti",
+     "gloss": "they-desire-fruit",
+     "grounds": "fused",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "te'vapiścitaḥ",
+     "gloss": "they-unwise",
+     "grounds": "fused",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tayaiva-svayaṃkalpitayā",
+     "gloss": "by-that-self-invented",
+     "grounds": "fused",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vedavācā",
+     "gloss": "vedic-speech",
+     "grounds": "compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "apahṛtacittā",
+     "gloss": "mind-stolen",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vyavasāyabuddhiyuktā",
+     "gloss": "endowed-with-resolute-understanding",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samādhiyogyāḥ-tatra",
+     "gloss": "fit-for-concentration-there",
+     "grounds": "fused",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "phalaniścayatvāditi",
+     "gloss": "because-of-fruit-certainty-thus",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ślokatrayasya",
+     "gloss": "of-three-verses",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tātparyam",
+     "gloss": "purport",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is resolute understanding not given to enjoyment-attached minds?",
+   "premises": [
+    "enjoyment-attached minds are stolen by that speech",
+    "desire-craving speakers praise flowery Vedic speech",
+    "they desire fruit from action",
+    "even resolute understanding does not make them fit for concentration"
+   ],
+   "inference": "Fruit-certainty blocks concentration, so the three verses' purport is explained.",
+   "uncertainties": [
+    "long fused compounds kept whole"
+   ],
+   "plain_english": "For minds stolen by that speech, resolute understanding is not given in concentration; desire-craving speakers praise flowery Vedic speech filled with future heaven-fruit, desire fruit from action, and even with resolute understanding are not fit for concentration because of fruit-certainty; this is the purport of the three verses."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "inference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "traiguṇyaviṣayā",
+     "gloss": "concerned-with-three-strands",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vedā",
+     "gloss": "vedas",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nistraiguṇyo",
+     "gloss": "beyond-three-strands",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavārjuna",
+     "gloss": "be-arjuna",
+     "grounds": "address",
+     "morph": "2.sg.imp"
+    },
+    {
+     "surface": "nirdvandvo",
+     "gloss": "beyond-pairs",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityasattvastho",
+     "gloss": "established-in-constant-being",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niryogakṣema",
+     "gloss": "free-from-acquisition-security",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmavān",
+     "gloss": "self-possessed",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedāstraiguṇyena",
+     "gloss": "by-vedas-three-strandedness",
+     "grounds": "compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "karaṇena",
+     "gloss": "by-instrument",
+     "grounds": "instrument",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sinvanti-badhnanti",
+     "gloss": "they-bind",
+     "grounds": "fused verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhakāḥ",
+     "gloss": "binders",
+     "grounds": "predicate",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "causal",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhaduḥkhamohabuddhyā",
+     "gloss": "by-pleasure-pain-delusion-understanding",
+     "grounds": "compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vaidikāni",
+     "gloss": "vedic",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kriyamāṇāni",
+     "gloss": "being-done",
+     "grounds": "participle",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "bandhakāni",
+     "gloss": "binding",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "atastraiguṇyaṃ-kāmarūpaṃ",
+     "gloss": "therefore-three-stranded-desire-form",
+     "grounds": "fused",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tyājyam",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedadūṣaṇaparametadabhaviṣyat",
+     "gloss": "this-would-be-veda-criticism",
+     "grounds": "fused",
+     "morph": "3.sg.cond"
+    },
+    {
+     "surface": "prakṛtaṃ",
+     "gloss": "the-matter-at-hand",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yuddhakaraṇaṃ",
+     "gloss": "doing-battle",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyaghaṭiṣyata-vedādanyasya",
+     "gloss": "would-be-obstructed-without-veda",
+     "grounds": "fused",
+     "morph": "3.sg.cond"
+    },
+    {
+     "surface": "svadharmaniścāyakatvābhāvāt",
+     "gloss": "for-lack-of-own-duty-certainty",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "whose",
+     "grounds": "relative",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalābhilāṣo",
+     "gloss": "desire-for-fruit",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vigalitasteṣāṃ",
+     "gloss": "fallen-away-for-them",
+     "grounds": "fused",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedā",
+     "gloss": "vedas",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bandhakāḥ",
+     "gloss": "binders",
+     "grounds": "predicate",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are the Vedas concerned with the three strands yet not binding?",
+   "premises": [
+    "Vedas concern the three strands",
+    "Arjuna should be beyond strands and pairs",
+    "Vedic actions bind through pleasure-pain-delusion understanding",
+    "desire-form three-strandedness should be abandoned",
+    "without Veda there is no certainty of own duty",
+    "for those whose fruit-desire has fallen away Vedas are not binders"
+   ],
+   "inference": "The Vedas bind only through desire-laden understanding, not by nature.",
+   "uncertainties": [
+    "fused conditionals kept whole"
+   ],
+   "plain_english": "Therefore the Vedas concern the three strands; be beyond them, Arjuna, beyond pairs, established in constant being, free from acquisition and security, self-possessed. The Vedas bind by three-stranded instrument especially, not as binders by nature, because Vedic actions done with pleasure-pain-delusion understanding are binding; therefore desire-form three-strandedness is to be abandoned. If this were Veda-criticism, the matter of doing battle would be obstructed, for lack of certainty of own duty without Veda; but for those whose desire for fruit has fallen away, the Vedas are not binders."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "causal",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāḥ",
+     "gloss": "vedas",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "for-them",
+     "grounds": "dative",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samyagjñānopayoginaḥ",
+     "gloss": "useful-for-right-knowing",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "inference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "he-says",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yāvānartha",
+     "gloss": "as-much-purpose",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udapāne",
+     "gloss": "in-well",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samplutodake",
+     "gloss": "in-flooded-water",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tāvānsarveṣu",
+     "gloss": "so-much-in-all",
+     "grounds": "fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedeṣu",
+     "gloss": "in-vedas",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "brāhmaṇasya",
+     "gloss": "of-brahmin",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vijānataḥ",
+     "gloss": "knowing",
+     "grounds": "participle",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svadharmamātre",
+     "gloss": "in-own-duty-only",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñāne",
+     "gloss": "in-knowing",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prādhānyaṃ",
+     "gloss": "primacy",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parimitādapi",
+     "gloss": "even-from-limited",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedabhāṣitātkāryam",
+     "gloss": "work-from-veda-spoken",
+     "grounds": "fused",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the value of the Vedas for one who knows?",
+   "premises": [
+    "Vedas are supreme for right knowing",
+    "as much water in a well as flooded water everywhere",
+    "so much in all Vedas for the knowing brahmin",
+    "whose primacy is in own duty and knowing",
+    "even from limited Veda-spoken work"
+   ],
+   "inference": "The Vedas serve right knowing, not endless accumulation.",
+   "uncertainties": [
+    "fused comparisons kept whole"
+   ],
+   "plain_english": "Because the Vedas are supreme for those fit for right knowing, therefore he says: as much purpose as in a well, so much in all Vedas for the knowing brahmin; for one whose primacy is in own duty and knowing, even limited Veda-spoken work is to be done."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "ataśca",
+     "gloss": "therefore-also",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaṇyastvadhikāraste",
+     "gloss": "your-right-is-in-action",
+     "grounds": "fused",
+     "morph": "2.sg.pres"
+    },
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaleṣu",
+     "gloss": "in-fruits",
+     "grounds": "locative",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaphalahetubhūrmā",
+     "gloss": "be-cause-of-action-fruit",
+     "grounds": "fused",
+     "morph": "2.sg.imp"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "pronoun",
+     "morph": "2.sg.gen"
+    },
+    {
+     "surface": "saṅgo'stvakarmaṇi",
+     "gloss": "attachment-in-inaction",
+     "grounds": "fused",
+     "morph": "3.sg.imp"
+    },
+    {
+     "surface": "karmamātre",
+     "gloss": "in-action-only",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "pronoun",
+     "morph": "2.sg.nom"
+    },
+    {
+     "surface": "vyāpṛto",
+     "gloss": "engaged",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "verb",
+     "morph": "2.sg.imp"
+    },
+    {
+     "surface": "natu",
+     "gloss": "but-not",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaphaleṣu",
+     "gloss": "in-action-fruits",
+     "grounds": "locative",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "but-surely",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-action",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "done",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nāntarīyakatayaiva",
+     "gloss": "by-necessity-only",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalamāpatati",
+     "gloss": "fruit-arrives",
+     "grounds": "fused",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "?",
+     "gloss": "question-mark",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maivam",
+     "gloss": "not-so",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "pronoun",
+     "morph": "2.sg.nom"
+    },
+    {
+     "surface": "phalakāmanā-kāluṣyavyāpto",
+     "gloss": "pervaded-by-fruit-desire-impurity",
+     "grounds": "fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavasi",
+     "gloss": "you-become",
+     "grounds": "verb",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaṇāṃ",
+     "gloss": "of-actions",
+     "grounds": "genitive",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hetutvam",
+     "gloss": "causality",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadaprārthyamānaṃ",
+     "gloss": "unasked-for",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowing",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nānicchostaditi",
+     "gloss": "not-for-unwilling-thus",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmābhāvena",
+     "gloss": "by-action-absence",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṅgaḥ",
+     "gloss": "attachment",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāḍhagraharūpo",
+     "gloss": "firm-grasp-form",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mithyā-jñānasvarūpaḥ",
+     "gloss": "false-knowing-nature",
+     "grounds": "fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyājya",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should one act without attachment to fruits?",
+   "premises": [
+    "your right is in action not fruits",
+    "do not be cause of action-fruit",
+    "be engaged in action only not fruits",
+    "if pervaded by fruit-desire impurity then action becomes cause of fruit",
+    "unasked fruit is knowing not for unwilling",
+    "attachment through inaction is false knowing to be abandoned"
+   ],
+   "inference": "Action without fruit-desire preserves non-causal knowing; inaction-attachment is false knowing.",
+   "uncertainties": [
+    "fused tokens kept whole"
+   ],
+   "plain_english": "Therefore your right is in action, never in fruits; do not be cause of action-fruit, and let no attachment be in inaction. Be engaged in action only, not in fruits. Surely action done necessarily brings fruit? Not so: if you are pervaded by fruit-desire impurity, then action becomes cause of fruit; unasked fruit is knowing, not for the unwilling. Attachment through absence of action is firm-grasp false knowing, to be abandoned indeed."
+  }
+ ]
+}
