@@ -1,0 +1,959 @@
+{
+ "song": "gita-a18",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "pañcemāni",
+     "gloss": "five-these",
+     "grounds": "numeral and pronoun fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahābāho",
+     "gloss": "great-armed",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kāraṇāni",
+     "gloss": "causes",
+     "grounds": "plural neuter noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "nibodha",
+     "gloss": "know",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "first person pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sāṅkhye",
+     "gloss": "in-samkhya",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛtānte",
+     "gloss": "in-settled-doctrine",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "proktāni",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-success",
+     "grounds": "dative noun",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "sarvakarmaṇām",
+     "gloss": "of-all-actions",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kṛto'nto",
+     "gloss": "made-end",
+     "grounds": "fused participle and noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niścayo",
+     "gloss": "determination",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatreti",
+     "gloss": "where-thus",
+     "grounds": "relative and quotative fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtāntaḥ-siddhāntaḥ",
+     "gloss": "settled-doctrine",
+     "grounds": "compound gloss",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What five causes of all action does Krishna enumerate?",
+   "premises": [
+    "five causes are enumerated",
+    "they concern all actions",
+    "they are spoken in samkhya"
+   ],
+   "inference": "Krishna lists five causes for accomplishing every action",
+   "uncertainties": [
+    "fused token kṛto'nto parsed as made-end"
+   ],
+   "plain_english": "O mighty-armed, know from me these five causes spoken in settled doctrine for the success of all actions."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānaṃ",
+     "gloss": "basis",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthagvidham",
+     "gloss": "of-various-kinds",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vividhāśca",
+     "gloss": "and-various",
+     "grounds": "fused adjective and conjunction",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pṛthakceṣṭā",
+     "gloss": "separate-efforts",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daivamevātra",
+     "gloss": "divine-here-only",
+     "grounds": "fused noun and particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcamam",
+     "gloss": "fifth",
+     "grounds": "ordinal adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What five factors does Krishna identify as causes of action?",
+   "premises": [
+    "basis is first",
+    "agent and instrument follow",
+    "divine is fifth"
+   ],
+   "inference": "The five factors are basis, agent, instrument, separate efforts, and divine",
+   "uncertainties": [
+    "fused tokens parsed as combined glosses"
+   ],
+   "plain_english": "Basis, agent, instrument, various separate efforts, and divine are the five factors here."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "śarīravāṅmanobhirhi",
+     "gloss": "by-body-speech-mind-indeed",
+     "grounds": "fused instrumental compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatkarmārabhate'rjuna",
+     "gloss": "whatever-action-begins-arjuna",
+     "grounds": "fused relative clause",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "nyāyyaṃ",
+     "gloss": "right",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viparītaṃ",
+     "gloss": "opposite",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaite",
+     "gloss": "these-five",
+     "grounds": "fused numeral and pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "hetavaḥ",
+     "gloss": "causes",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What are the causes of any action begun by body speech or mind?",
+   "premises": [
+    "actions may be right or opposite",
+    "five factors are causes",
+    "they apply to that action"
+   ],
+   "inference": "The five factors cause every action begun by body, speech, or mind",
+   "uncertainties": [
+    "fused relative clause parsed as combined gloss"
+   ],
+   "plain_english": "Whatever action one begins by body, speech, or mind, right or opposite, these five are its causes."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "tatraivaṃ",
+     "gloss": "there-thus",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being-so",
+     "grounds": "locative absolute",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kartāramātmānaṃ",
+     "gloss": "agent-self",
+     "grounds": "fused accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paśyatyakṛtabuddhitvānna",
+     "gloss": "sees-unmade-intellect-not",
+     "grounds": "fused verb and negation",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "durmatiḥ",
+     "gloss": "evil-minded",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who fails to see truly when he sees only himself as agent?",
+   "premises": [
+    "five factors are present",
+    "one sees only self as agent",
+    "such a one is evil-minded"
+   ],
+   "inference": "Seeing only oneself as agent is deluded perception",
+   "uncertainties": [
+    "fused verb parsed as combined gloss"
+   ],
+   "plain_english": "Thus being so, one who sees only himself as agent, not seeing the five factors, is evil-minded."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāhaṃkṛto",
+     "gloss": "not-ego-made",
+     "grounds": "fused negation and participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvo",
+     "gloss": "state",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "buddhiryasya",
+     "gloss": "intellect-whose",
+     "grounds": "fused noun and relative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-stained",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "hatvāpi",
+     "gloss": "even-killing",
+     "grounds": "gerund and particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "imāṁllokānna",
+     "gloss": "these-worlds-not",
+     "grounds": "fused accusative and negation",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "kills",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nibadhyate",
+     "gloss": "is-bound",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "adhiṣṭhānam-viṣayaḥ",
+     "gloss": "basis-object",
+     "grounds": "compound gloss",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daivam-prāgarjitaṃ",
+     "gloss": "divine-previously-earned",
+     "grounds": "compound gloss",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śubhāśubham",
+     "gloss": "good-bad",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcaite",
+     "gloss": "these-five",
+     "grounds": "fused numeral and pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "adhiṣṭhānā-dayaḥ",
+     "gloss": "basis-and-so-forth",
+     "grounds": "compound gloss",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sāmagrīrūpatāṃ",
+     "gloss": "complete-form",
+     "grounds": "compound noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāptāḥ",
+     "gloss": "obtained",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvakarmasu",
+     "gloss": "in-all-actions",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "hetavaḥ",
+     "gloss": "causes",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhiṣṭhīyate",
+     "gloss": "is-based",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karmeti",
+     "gloss": "action-thus",
+     "grounds": "fused noun and quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhigataṃ",
+     "gloss": "intellect-born",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rajo",
+     "gloss": "rajas",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "labdhavṛttikaṃ",
+     "gloss": "gained-function",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhṛtiśraddhāsukhavividiṣāvividiṣārūpapañcakapariṇāmikarmayoga",
+     "gloss": "fivefold-transformation-action-yoga",
+     "grounds": "long compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śabda-vācyamadhiṣṭhānaṃ",
+     "gloss": "word-expressed-basis",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kvacitprayatnaśabdenoktam",
+     "gloss": "sometimes-effort-word-said",
+     "grounds": "compound participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kartā-anusandhātā",
+     "gloss": "agent-inquirer",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "buddhilakṣaṇaḥ",
+     "gloss": "intellect-marked",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karaṇam-manaścakṣurādi",
+     "gloss": "instrument-mind-eye-etc",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bāhyamapi",
+     "gloss": "external-also",
+     "grounds": "fused adjective and particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaḍgādi",
+     "gloss": "sword-etc",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ceṣṭāprāṇāpānādikā",
+     "gloss": "effort-breath-etc",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daivaśabdena",
+     "gloss": "by-divine-word",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dharmādharmau",
+     "gloss": "merit-demerit",
+     "grounds": "dual compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tābhyāṃ",
+     "gloss": "by-those",
+     "grounds": "instrumental dual",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhigatāḥ",
+     "gloss": "intellect-born",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve'pi",
+     "gloss": "all-even",
+     "grounds": "fused pronoun and particle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhāvā",
+     "gloss": "states",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "upalakṣitāḥ",
+     "gloss": "indicated",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tvadhiṣṭhānamīśvaraṃ",
+     "gloss": "but-basis-lord",
+     "grounds": "fused conjunction and compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manyante-akṛtabuddhitvādaniścitaprajñatayā",
+     "gloss": "think-unmade-intellect-uncertain-wisdom",
+     "grounds": "fused verb and compound",
+     "morph": "3.pl.mid-pres"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punarahaṃkāraviyogadārḍhyena",
+     "gloss": "again-ego-separation-firmness",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prāguktayuktiśataśodhitena",
+     "gloss": "previously-stated-reason-hundred-purified",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bandhabhāk-kṛtabuddhitvādityāśayaḥ",
+     "gloss": "bound-not-made-intellect-thus-intent",
+     "grounds": "fused compound and gloss",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does freedom from ego make action non-binding?",
+   "premises": [
+    "one without ego is not stained",
+    "even killing does not bind",
+    "five factors are causes"
+   ],
+   "inference": "Action performed without ego does not bind the agent",
+   "uncertainties": [
+    "long fused compounds parsed as combined glosses"
+   ],
+   "plain_english": "One whose state is not ego-made and whose intellect is unstained is not bound even by killing."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "knowable",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parijñātā",
+     "gloss": "knower",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trividhā",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karmacodanā",
+     "gloss": "action-impulsion",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karteti",
+     "gloss": "agent-thus",
+     "grounds": "fused noun and quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhaḥ",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmasaṃgrahaḥ",
+     "gloss": "action-gathering",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-action",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "codanā-pravṛttīcchā",
+     "gloss": "impulsion-inclination-desire",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatsamaye",
+     "gloss": "at-that-time",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yeṣāmabodhamātraniṣṭhatvājjñānajñeyajñātṛśrutivācyatā",
+     "gloss": "of-those-ignorance-only-fixation-knowledge-knowable-knower-scripture-saidness",
+     "grounds": "long compound",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "teṣāmeva",
+     "gloss": "of-those-only",
+     "grounds": "fused pronoun and particle",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samyaggrahaṇarūpaṃ",
+     "gloss": "right-grasping-form",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatphalābhisaṃdhānenātmīyabuddhyā",
+     "gloss": "which-fruit-intention-by-own-intellect",
+     "grounds": "instrumental compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "svīkaraṇam-ahametadbhokṣye",
+     "gloss": "appropriation-i-this-will-enjoy",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yato",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṛtam-ityevaṃrūpam",
+     "gloss": "done-thus-form",
+     "grounds": "fused participle and compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatsamaye",
+     "gloss": "at-that-time",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirvartanāvasare",
+     "gloss": "at-performance-occasion",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "karaṇakarmakartṛśabdāmidheyatvamāviṣṭatvāt",
+     "gloss": "instrument-action-agent-words-absorbedness",
+     "grounds": "long compound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogināmāveśo",
+     "gloss": "of-yogis-absorption",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāstīti",
+     "gloss": "is-not-thus",
+     "grounds": "fused negation and quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tānprati",
+     "gloss": "towards-them",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṇādigirāṃ",
+     "gloss": "instrument-etc-words",
+     "grounds": "genitive compound",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "prasaṅgo",
+     "gloss": "occasion",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "apitu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānamātre",
+     "gloss": "in-knowledge-only",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tātparyam",
+     "gloss": "intent",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "athaiṣāṃ",
+     "gloss": "now-of-these",
+     "grounds": "fused conjunction and pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ṣaṇṇāmapi",
+     "gloss": "of-six-even",
+     "grounds": "fused numeral and particle",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "saṃkṣepeṇa",
+     "gloss": "in-brief",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "guṇabhedādbhedaṃ",
+     "gloss": "from-strand-difference-difference",
+     "grounds": "ablative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "darśayitumāha-",
+     "gloss": "to-show-says",
+     "grounds": "infinitive and verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How is action gathered into knowledge, instrument, action, and agent?",
+   "premises": [
+    "knowledge knowable and knower are threefold",
+    "action impulsion is threefold",
+    "yogis are not absorbed in words"
+   ],
+   "inference": "Action is gathered into a threefold structure of knowledge, instrument, action, and agent",
+   "uncertainties": [
+    "long fused compounds parsed as combined glosses"
+   ],
+   "plain_english": "Knowledge, knowable, and knower form a threefold impulsion of action; instrument, action, and agent form its gathering."
+  }
+ ]
+}

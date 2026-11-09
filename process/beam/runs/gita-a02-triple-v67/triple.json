@@ -2,201 +2,886 @@
  "song": "gita-a02",
  "items": [
   {
-   "verse": 67,
+   "verse": 70,
    "rows": [
     {
-     "surface": "prasāde",
-     "gloss": "in-calmness",
-     "grounds": "locative of prasāda",
-     "morph": "m.loc.sg"
+     "surface": "tasmādyasya",
+     "gloss": "therefore-of-whom",
+     "grounds": "fused sandhi form",
+     "morph": "indecl."
     },
     {
-     "surface": "sarvaduḥkhānāṃ",
-     "gloss": "of-all-sorrows",
-     "grounds": "genitive plural of sarvaduḥkha",
-     "morph": "n.gen.pl"
+     "surface": "mahābāho",
+     "gloss": "great-armed-one",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
     },
     {
-     "surface": "hānirasyopajāyate",
-     "gloss": "loss-of-him-arises",
-     "grounds": "fused hāniḥ asya upajāyate",
-     "morph": "f.nom.sg + m.gen.sg + 3.sg.mid.pres (root jan)"
+     "surface": "nigṛhītāni",
+     "gloss": "restrained",
+     "grounds": "participle",
+     "morph": "nom.pl.n"
     },
     {
-     "surface": "prasannacetaso",
-     "gloss": "of-clear-minded-one",
-     "grounds": "genitive singular masculine of prasannacetas",
-     "morph": "m.gen.sg"
-    },
-    {
-     "surface": "hyāśu",
-     "gloss": "indeed-quickly",
-     "grounds": "fused hi āśu",
+     "surface": "sarvaśaḥ",
+     "gloss": "wholly",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
-     "surface": "buddhiḥ",
-     "gloss": "intellect",
-     "grounds": "nominative singular feminine",
-     "morph": "f.nom.sg"
+     "surface": "indriyāṇīndriyārthebhyastasya",
+     "gloss": "senses-from-sense-objects-of-him",
+     "grounds": "fused compound",
+     "morph": "compound"
     },
     {
-     "surface": "paryavatiṣṭhate",
-     "gloss": "becomes-established",
-     "grounds": "3.sg.middle present of paryavasthā",
-     "morph": "3.sg.mid.pres (root sthā)"
-    }
-   ],
-   "question": "How does calmness bring loss of sorrow and stable intellect?",
-   "premises": [
-    "calmness brings loss of all sorrows",
-    "clear-minded one's intellect becomes established quickly"
-   ],
-   "inference": "calmness removes sorrow and stabilizes intellect",
-   "uncertainties": [
-    "fused sandhi forms transcribed as given"
-   ],
-   "plain_english": "In calmness, loss of all sorrows arises for him; indeed quickly the intellect of the clear-minded one becomes established."
-  },
-  {
-   "verse": 68,
-   "rows": [
-    {
-     "surface": "nāsti",
-     "gloss": "is-not",
-     "grounds": "3.sg.present active of as",
-     "morph": "3.sg.act.pres (root as)"
+     "surface": "prajñā",
+     "gloss": "wisdom",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
     },
     {
-     "surface": "buddhirayuktasya",
-     "gloss": "intellect-of-unyoked-one",
-     "grounds": "fused buddhiḥ ayuktasya",
-     "morph": "f.nom.sg + m.gen.sg"
+     "surface": "pratiṣṭhitā",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "but-who",
+     "grounds": "fused form",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "manaso",
+     "gloss": "of-mind",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "niyāmakaḥ",
+     "gloss": "controller",
+     "grounds": "agent noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "viṣayānsevamāno'pi",
+     "gloss": "even-serving-objects",
+     "grounds": "fused participle",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negative particle",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
-     "surface": "cāyuktamya",
-     "gloss": "and-of-unyoked-one",
-     "grounds": "fused ca ayuktasya",
-     "morph": "(indecl.) + m.gen.sg"
+     "surface": "krodhādikallolairabhibhūyate",
+     "gloss": "is-overwhelmed-by-waves-of-anger-etc",
+     "grounds": "fused verb form",
+     "morph": "3.sg.pass"
     },
     {
-     "surface": "bhāvanā",
-     "gloss": "meditation",
-     "grounds": "nominative singular feminine",
-     "morph": "f.nom.sg"
-    },
-    {
-     "surface": "na",
-     "gloss": "not",
-     "grounds": "negative particle",
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
      "morph": "(indecl.)"
     },
     {
-     "surface": "cābhāvayataḥ",
-     "gloss": "and-of-non-meditator",
-     "grounds": "fused ca abhāvayataḥ",
-     "morph": "(indecl.) + m.gen.sg"
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
     },
     {
-     "surface": "śāntiraśāntasya",
-     "gloss": "peace-of-unpeaceful-one",
-     "grounds": "fused śāntiḥ aśāntasya",
-     "morph": "f.nom.sg + m.gen.sg"
-    },
-    {
-     "surface": "kutaḥ",
-     "gloss": "whence",
-     "grounds": "interrogative adverb",
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic",
      "morph": "(indecl.)"
     },
     {
-     "surface": "sukham",
-     "gloss": "happiness",
-     "grounds": "nominative/accusative singular neuter",
-     "morph": "n.nom/acc.sg"
+     "surface": "sthiraprajño",
+     "gloss": "steady-wisdom-one",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yogī-iti",
+     "gloss": "yogi-thus",
+     "grounds": "fused form",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tātparyam",
+     "gloss": "purport",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
     }
    ],
-   "question": "Why is there no happiness for the unyoked and unpeaceful?",
+   "question": "Who is the steady-wisdom yogi described here?",
    "premises": [
-    "unyoked one has no intellect",
-    "unyoked one has no meditation",
-    "unpeaceful one has no peace"
+    "restrained senses establish wisdom",
+    "mind's controller is not overwhelmed",
+    "such a one is the steady-wisdom yogi"
    ],
-   "inference": "without intellect, meditation, and peace, happiness is impossible",
+   "inference": "The yogi with restrained senses and controlled mind is steady in wisdom.",
    "uncertainties": [
-    "token cāyuktamya transcribed exactly as given"
+    "fused sandhi forms are kept as single rows"
    ],
-   "plain_english": "There is no intellect for the unyoked one, nor meditation for the unyoked one, nor peace for the unpeaceful one; whence happiness?"
+   "plain_english": "Therefore, O mighty-armed one, whose senses are wholly restrained from sense-objects, his wisdom is established; but one who controls the mind, even while serving objects, is not overwhelmed by waves of anger and the like; thus he alone is the steady-wisdom yogi—this is the purport."
   },
   {
-   "verse": 69,
+   "verse": 71,
    "rows": [
     {
-     "surface": "indriyāṇāṃ",
-     "gloss": "of-senses",
-     "grounds": "genitive plural neuter of indriya",
-     "morph": "n.gen.pl"
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
     },
     {
-     "surface": "hi",
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvavyavahārān",
+     "gloss": "all-practical-dealings",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "kurvāṇo'pi",
+     "gloss": "even-doing",
+     "grounds": "fused participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "lokottaraḥ-iti",
+     "gloss": "transcendent-thus",
+     "grounds": "fused form",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nirūpayatā",
+     "gloss": "by-one-who-explains",
+     "grounds": "instrumental participle",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "parameśvareṇa",
+     "gloss": "by-supreme-lord",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "saṃkṣipyāsya",
+     "gloss": "having-summarized-his",
+     "grounds": "fused form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svarūpaṃ",
+     "gloss": "own-nature",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "niśā",
+     "gloss": "night",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sarvabhūtānāṃ",
+     "gloss": "of-all-beings",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "jāgarti",
+     "gloss": "wakes",
+     "grounds": "verb",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "saṃyamī",
+     "gloss": "self-controlled-one",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yasyāṃ",
+     "gloss": "in-which",
+     "grounds": "relative locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "jāgrati",
+     "gloss": "wake",
+     "grounds": "verb",
+     "morph": "3.pl.act"
+    },
+    {
+     "surface": "bhūtāni",
+     "gloss": "beings",
+     "grounds": "subject",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "rātriḥ",
+     "gloss": "night",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "paśyato",
+     "gloss": "of-one-seeing",
+     "grounds": "genitive participle",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "muneḥ",
+     "gloss": "of-sage",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "bhūtānāṃ",
+     "gloss": "of-beings",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "niśā-mohanī",
+     "gloss": "night-deluding",
+     "grounds": "fused compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya-power",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "munirjāgarti-kathamiyaṃ",
+     "gloss": "sage-wakes-how-this",
+     "grounds": "fused form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "heyeti",
+     "gloss": "to-be-abandoned-thus",
+     "grounds": "fused form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yasyāṃ",
+     "gloss": "in-which",
+     "grounds": "relative locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśāyāṃ",
+     "gloss": "in-state",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "loko",
+     "gloss": "world",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jāgarti-nānāvidhāṃ",
+     "gloss": "wakes-various",
+     "grounds": "fused form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ceṣṭāṃ",
+     "gloss": "activity",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "3.sg.mid"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "muneḥ",
+     "gloss": "of-sage",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "rātriḥ",
+     "gloss": "night",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yato'sau",
+     "gloss": "because-he",
+     "grounds": "fused form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vyavahāraṃ",
+     "gloss": "practical-dealing",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pratyabuddhaḥ",
+     "gloss": "unawakened",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "etaduktaṃ",
+     "gloss": "this-is-said",
+     "grounds": "fused form",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavati-yeyaṃ",
+     "gloss": "becomes-which-this",
+     "grounds": "fused form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya-power",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "khalu",
      "gloss": "indeed",
      "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
-     "surface": "caratāṃ",
-     "gloss": "of-roaming",
-     "grounds": "genitive plural masculine participle of car",
-     "morph": "m.gen.pl (root car)"
+     "surface": "tasyā",
+     "gloss": "of-her",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
     },
     {
-     "surface": "yanmano'nuvidhīyate",
-     "gloss": "which-mind-follows",
-     "grounds": "fused yat manaḥ anuvidhīyate",
-     "morph": "n.nom.sg + 3.sg.pass.pres (root vidh)"
+     "surface": "mohakatvaṃ",
+     "gloss": "deluding-nature",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
     },
     {
-     "surface": "tadasya",
-     "gloss": "that-his",
-     "grounds": "fused tat asya",
-     "morph": "n.nom.sg + m.gen.sg"
+     "surface": "nāmarūpaṃ",
+     "gloss": "name-and-form",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
     },
     {
-     "surface": "harati",
-     "gloss": "carries-away",
-     "grounds": "3.sg.active present of hṛ",
-     "morph": "3.sg.act.pres (root hṛ)"
+     "surface": "sukhatantratābhāsanaṃ",
+     "gloss": "dependence-on-pleasure-appearance",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
     },
     {
-     "surface": "prajñāṃ",
-     "gloss": "wisdom",
-     "grounds": "accusative singular feminine of prajñā",
-     "morph": "f.acc.sg"
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
     },
     {
-     "surface": "vāyurnāvamivāmbhasi",
-     "gloss": "wind-like-boat-in-water",
-     "grounds": "fused vāyuḥ nāvam iva ambhasi",
-     "morph": "m.nom.sg + f.acc.sg + (indecl.) + n.loc.sg"
+     "surface": "tatra-lokaḥ",
+     "gloss": "there-world",
+     "grounds": "fused form",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prācyaṃ",
+     "gloss": "original",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "svarūpamasyā",
+     "gloss": "own-nature-of-her",
+     "grounds": "fused form",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "aparāmṛśyaiva",
+     "gloss": "without-touching-indeed",
+     "grounds": "fused form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvitīyasminrūpe",
+     "gloss": "in-second-form",
+     "grounds": "fused locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nibaddhasmṛtirāste",
+     "gloss": "bound-memory-sits",
+     "grounds": "fused verb",
+     "morph": "3.sg.mid"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadviparītastadīyaṃ",
+     "gloss": "opposite-to-that-its",
+     "grounds": "fused form",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mohakatvaṃ",
+     "gloss": "deluding-nature",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tadunmūlanāya",
+     "gloss": "for-uprooting-that",
+     "grounds": "dative",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "verb",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "sukhatantratāṃ",
+     "gloss": "dependence-on-pleasure",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nādriyate",
+     "gloss": "does-not-regard",
+     "grounds": "verb",
+     "morph": "3.sg.pass"
+    },
+    {
+     "surface": "paśyan",
+     "gloss": "seeing",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samyagjñānī",
+     "gloss": "right-knower",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mithyājñānopaghātācca",
+     "gloss": "and-from-destruction-of-false-knowledge",
+     "grounds": "fused ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "sukhatantratānādaraḥ",
+     "gloss": "disregard-of-dependence-on-pleasure",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paśyata",
+     "gloss": "see",
+     "grounds": "imperative",
+     "morph": "2.pl.act"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "rātririti",
+     "gloss": "night-thus",
+     "grounds": "fused form",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "citram",
+     "gloss": "wonder",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vidyāyāṃ",
+     "gloss": "in-knowledge",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "cāvadhatte",
+     "gloss": "and-attends",
+     "grounds": "fused verb",
+     "morph": "3.sg.mid"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative",
+     "morph": "loc"
+    },
+    {
+     "surface": "sarvo",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vimūḍhaḥ",
+     "gloss": "deluded",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "avidyāyāṃ",
+     "gloss": "in-ignorance",
+     "grounds": "locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tvabuddhaḥ",
+     "gloss": "but-unawakened",
+     "grounds": "fused form",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative",
+     "morph": "loc"
+    },
+    {
+     "surface": "janaḥ",
+     "gloss": "person",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prabuddhaḥ-ityapi",
+     "gloss": "awakened-thus-also",
+     "grounds": "fused form",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "citram",
+     "gloss": "wonder",
+     "grounds": "noun",
+     "morph": "nom.sg.n"
     }
    ],
-   "question": "What happens when the mind follows roaming senses?",
+   "question": "How does the yogi remain awake in the night of maya?",
    "premises": [
-    "roaming senses carry the mind along",
-    "that mind carries away his wisdom",
-    "wind carries a boat on water"
+    "maya deludes all beings",
+    "the sage sees through its deluding nature",
+    "the yogi uproots delusion and disregards pleasure-dependence"
    ],
-   "inference": "sense-led mind destroys wisdom like wind driving a boat",
+   "inference": "The yogi is awake where the world sleeps, because he sees maya's deluding nature and uproots it.",
    "uncertainties": [
-    "fused sandhi forms transcribed as given"
+    "many fused sandhi forms are kept as single rows"
    ],
-   "plain_english": "Indeed, of the roaming senses, the mind that follows them carries away his wisdom, as wind carries a boat on water."
+   "plain_english": "The yogi, though performing all practical dealings, is transcendent; the supreme Lord, having summarized his own nature, tells it: the night of all beings is the sage's waking; the night in which beings wake is the sage's night; how is this maya, the deluding night of all beings, to be abandoned? In the state where the world wakes and performs various activities, that is the sage's night, because he is unawakened to practical dealing. This is said: this maya indeed has deluding nature, name-and-form, and appearance of dependence on pleasure; there the world, without touching her original own-nature, sits bound in memory in the second form. The yogi, however, is opposite: he sees her deluding nature for uprooting it, and does not regard dependence on pleasure; seeing rightly, the knower disregards dependence on pleasure through destruction of false knowledge. See indeed, that is night—wonder! In knowledge the yogi attends where all are deluded; in ignorance, however, where a person is unawakened, there he is awakened—also wonder."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpūryamāṇamacalapratiṣṭhaṃ",
+     "gloss": "being-filled-immovable-established",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samudramāpaḥ",
+     "gloss": "ocean-waters",
+     "grounds": "compound",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "praviśanti",
+     "gloss": "enter",
+     "grounds": "verb",
+     "morph": "3.pl.act"
+    },
+    {
+     "surface": "yadvat",
+     "gloss": "just-as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvatkāmā",
+     "gloss": "so-desires",
+     "grounds": "fused form",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "praviśanti",
+     "gloss": "enter",
+     "grounds": "verb",
+     "morph": "3.pl.act"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śāntimāpnoti",
+     "gloss": "attains-peace",
+     "grounds": "fused verb",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmakāmī",
+     "gloss": "desire-desiring",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmārthaṃ",
+     "gloss": "for-desire's-sake",
+     "grounds": "compound",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "bahirdhāvati",
+     "gloss": "runs-outward",
+     "grounds": "verb",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvindriyadharmatayā",
+     "gloss": "by-sense-nature",
+     "grounds": "fused instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "pronoun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "viṣayā",
+     "gloss": "objects",
+     "grounds": "subject",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "anupraviśanto",
+     "gloss": "entering-after",
+     "grounds": "participle",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taraṅgayanti",
+     "gloss": "make-waves",
+     "grounds": "verb",
+     "morph": "3.pl.act"
+    },
+    {
+     "surface": "nadīvegā",
+     "gloss": "river-currents",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ivodadhim",
+     "gloss": "like-ocean",
+     "grounds": "fused form",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyo",
+     "gloss": "third",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nirṇītaḥ",
+     "gloss": "decided",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why does the yogi attain peace though desires enter him?",
+   "premises": [
+    "desires enter the yogi like rivers into the ocean",
+    "the yogi does not run outward for desire",
+    "sense-objects do not disturb his peace"
+   ],
+   "inference": "The yogi attains peace because desires enter without disturbing his established nature.",
+   "uncertainties": [
+    "fused sandhi forms are kept as single rows"
+   ],
+   "plain_english": "Therefore indeed, just as waters enter the ocean that is being filled yet remains immovably established, so all desires enter him; he attains peace, not the desire-desiring one. The yogi does not run outward even for desire's sake; but by sense-nature, objects entering after him do not make waves, like river currents into the ocean. Thus the third is decided."
   }
  ]
 }

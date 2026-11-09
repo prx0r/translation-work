@@ -1,0 +1,780 @@
+{
+ "song": "gita-a18",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "niyatasya",
+     "gloss": "of-the-fixed",
+     "grounds": "genitive of niyata",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃnyāsaḥ",
+     "gloss": "renunciation",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "karmaṇo",
+     "gloss": "of-action",
+     "grounds": "genitive of karman",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "nopapadyate",
+     "gloss": "does-not-become-fitting",
+     "grounds": "negative + upapad",
+     "morph": "3sg.mid.pres+root-upapad"
+    },
+    {
+     "surface": "mohāttasya",
+     "gloss": "from-delusion-of-it",
+     "grounds": "fused ablative/genitive",
+     "morph": "abl.sg.m/gen.sg.m"
+    },
+    {
+     "surface": "parityāgastāmasaḥ",
+     "gloss": "abandonment-dark",
+     "grounds": "compound",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "is-declared",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "When is renunciation of fixed action declared dark?",
+   "premises": [
+    "fixed action cannot be renounced",
+    "delusion makes abandonment dark"
+   ],
+   "inference": "dark abandonment is deluded renunciation of fixed action",
+   "uncertainties": [
+    "fused mohāttasya keeps ablative/genitive ambiguity"
+   ],
+   "plain_english": "Renunciation of fixed action is unfit; abandonment from delusion is declared dark."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "duḥkhamityeva",
+     "gloss": "pain-only",
+     "grounds": "indeclinable phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kāyakleśabhayāt",
+     "gloss": "from-bodily-distress-fear",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "would-abandon",
+     "grounds": "optative",
+     "morph": "3sg.act.opt+root-tyaj"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājasaṃ",
+     "gloss": "rajas-quality",
+     "grounds": "accusative adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tyāgaṃ",
+     "gloss": "abandonment",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "negative indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyāgaphalaṃ",
+     "gloss": "fruit-of-abandonment",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n compound"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "would-obtain",
+     "grounds": "optative",
+     "morph": "3sg.mid.opt+root-labh"
+    }
+   ],
+   "question": "Does rajas abandonment from bodily fear yield fruit?",
+   "premises": [
+    "pain-only action abandoned from bodily fear",
+    "rajas abandonment performed",
+    "no abandonment-fruit obtained"
+   ],
+   "inference": "rajas abandonment from fear does not yield abandonment-fruit",
+   "uncertainties": [
+    "kāyakleśabhayāt may be fear of bodily distress or distress-fear"
+   ],
+   "plain_english": "Who abandons action as pain from fear of bodily distress performs rajas abandonment and obtains no fruit of abandonment."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "kāryamityeva",
+     "gloss": "duty-only",
+     "grounds": "indeclinable phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatkarma",
+     "gloss": "which-action",
+     "grounds": "relative compound",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "fixed",
+     "grounds": "participle adjective",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "kriyate'rjuna",
+     "gloss": "is-done-Arjuna",
+     "grounds": "fused passive plus vocative",
+     "morph": "3sg.pass.pres+root-kṛ/voc.sg.m"
+    },
+    {
+     "surface": "saṅgaṃ",
+     "gloss": "attachment",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-only",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tyāgaḥ",
+     "gloss": "abandonment",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sāttviko",
+     "gloss": "sattva-quality",
+     "grounds": "nominative adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "is-considered",
+     "grounds": "participle",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What abandonment is considered sattva-quality?",
+   "premises": [
+    "fixed duty is done",
+    "attachment and fruit abandoned",
+    "that abandonment is sattva-quality"
+   ],
+   "inference": "sattva abandonment is fixed duty without attachment or fruit",
+   "uncertainties": [
+    "kriyate'rjuna fused vocative may be editorial address"
+   ],
+   "plain_english": "Fixed duty done while abandoning attachment and fruit is considered sattva abandonment."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dveṣṭyakuśalaṃ",
+     "gloss": "hates-unskillful",
+     "grounds": "fused verb and adjective",
+     "morph": "3sg.act.pres+root-dviṣ/acc.sg.n"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuśale",
+     "gloss": "in-skillful",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nānuṣajjate",
+     "gloss": "does-not-attach",
+     "grounds": "negative middle",
+     "morph": "3sg.mid.pres+root-sañj"
+    },
+    {
+     "surface": "tyāgī",
+     "gloss": "renouncer",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sattvasamāviṣṭo",
+     "gloss": "entered-by-sattva",
+     "grounds": "compound participle",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "medhāvī",
+     "gloss": "wise",
+     "grounds": "nominative adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "chinnasaṃśayaḥ",
+     "gloss": "cut-doubt",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m compound"
+    }
+   ],
+   "question": "How does a sattva-filled renouncer relate to skillful and unskillful action?",
+   "premises": [
+    "does not hate unskillful action",
+    "does not attach to skillful action",
+    "renouncer is sattva-filled wise doubt-cut"
+   ],
+   "inference": "true renunciation is non-aversion and non-attachment with sattva",
+   "uncertainties": [
+    "dveṣṭyakuśalaṃ is fused and may be parsed as verb plus adjective"
+   ],
+   "plain_english": "A renouncer filled with sattva, wise and doubt-cut, neither hates unskillful action nor attaches to skillful action."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "nahi",
+     "gloss": "not-indeed",
+     "grounds": "negative indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehabhṛtā",
+     "gloss": "by-body-bearer",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m compound"
+    },
+    {
+     "surface": "śakyaṃ",
+     "gloss": "possible",
+     "grounds": "neuter adjective",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "tyaktuṃ",
+     "gloss": "to-abandon",
+     "grounds": "infinitive",
+     "morph": "inf+root-tyaj"
+    },
+    {
+     "surface": "karmāṇyaśeṣataḥ",
+     "gloss": "actions-completely",
+     "grounds": "fused accusative and adverb",
+     "morph": "acc.pl.n/(indecl.)"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "but-who",
+     "grounds": "relative plus particle",
+     "morph": "nom.sg.m/(indecl.)"
+    },
+    {
+     "surface": "karmaphalatyāgī",
+     "gloss": "action-fruit-abandoner",
+     "grounds": "compound",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tyāgītyabhidhīyate",
+     "gloss": "is-called-renouncer",
+     "grounds": "fused passive",
+     "morph": "3sg.pass.pres+root-abhidhā"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvayaṃ",
+     "gloss": "but-this",
+     "grounds": "demonstrative plus particle",
+     "morph": "nom.sg.m/(indecl.)"
+    },
+    {
+     "surface": "niścayaḥ-prāglakṣitaguṇasvarūpavaicitryāttyāgasyaiva",
+     "gloss": "certainty-prior-indicated-strand-nature-variety-of-abandonment-only",
+     "grounds": "fused long compound",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "sattvarajastamomayyā",
+     "gloss": "made-of-sattva-rajas-tamas",
+     "grounds": "compound adjective",
+     "morph": "inst.sg.f compound"
+    },
+    {
+     "surface": "cittavṛttyā",
+     "gloss": "by-mind-fluctuation",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.f compound"
+    },
+    {
+     "surface": "kriyamāṇasya",
+     "gloss": "of-being-done",
+     "grounds": "present participle genitive",
+     "morph": "gen.sg.n/m"
+    },
+    {
+     "surface": "tadviśiṣṭasvabhāvāvabhāsivastusthityā",
+     "gloss": "by-thing-state-of-distinct-nature-manifesting",
+     "grounds": "fused compound",
+     "morph": "inst.sg.f compound"
+    },
+    {
+     "surface": "tyāgo",
+     "gloss": "abandonment",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nāma-parabrahmavidāṃ",
+     "gloss": "named-of-knowers-of-supreme-Brahman",
+     "grounds": "fused compound",
+     "morph": "gen.pl.m compound"
+    },
+    {
+     "surface": "siddhyasiddhyādiṣu",
+     "gloss": "in-success-failure-etc",
+     "grounds": "locative compound",
+     "morph": "loc.pl.n compound"
+    },
+    {
+     "surface": "samatayā",
+     "gloss": "by-equality",
+     "grounds": "instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "rāgadveṣaparihāreṇa",
+     "gloss": "by-avoidance-of-attachment-aversion",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m compound"
+    },
+    {
+     "surface": "phalaprepsāviraheṇa",
+     "gloss": "by-absence-of-fruit-desire",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m compound"
+    },
+    {
+     "surface": "karmaṇāṃ",
+     "gloss": "of-actions",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "nirvartanam",
+     "gloss": "performance",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evāha-rājasaṃ",
+     "gloss": "thus-says-rajas",
+     "grounds": "fused verb and adjective",
+     "morph": "3sg.act.pres+root-ah/acc.sg.n"
+    },
+    {
+     "surface": "tāmasaṃ",
+     "gloss": "tamas-quality",
+     "grounds": "accusative adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyāgaṃ",
+     "gloss": "abandonment",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaścitphalasaṃbandhaḥ",
+     "gloss": "any-fruit-connection",
+     "grounds": "fused compound",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāttvikasya",
+     "gloss": "of-sattva-quality",
+     "grounds": "genitive adjective",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyāgāt",
+     "gloss": "from-abandonment",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "śāstrārthapālanātmakaṃ",
+     "gloss": "consisting-in-scripture-meaning-protection",
+     "grounds": "compound adjective",
+     "morph": "nom/acc.sg.n compound"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "nominative/accusative noun",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "tyaktaguṇagrāmagrahasya",
+     "gloss": "of-one-who-has-abandoned-strand-group-grasping",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.m compound"
+    },
+    {
+     "surface": "punarmuneḥ",
+     "gloss": "again-of-sage",
+     "grounds": "adverb plus genitive",
+     "morph": "(indecl.)/gen.sg.m"
+    },
+    {
+     "surface": "satyatastyāgavācoyuktirupapattimatī",
+     "gloss": "truly-abandonment-word-fittingness-is-reasonable",
+     "grounds": "fused long compound",
+     "morph": "nom.sg.f compound"
+    }
+   ],
+   "question": "Why is action-fruit abandonment called renunciation?",
+   "premises": [
+    "body-bearers cannot abandon all actions",
+    "one who abandons action-fruit is called renouncer",
+    "true abandonment is equal performance without attachment or fruit-desire"
+   ],
+   "inference": "renunciation is fruit-abandonment in action, not total action-cessation",
+   "uncertainties": [
+    "long fused compounds may hide internal sandhi",
+    "kaścitphalasaṃbandhaḥ may be any connection with fruit"
+   ],
+   "plain_english": "Since embodied beings cannot abandon all actions, one who abandons action-fruit is called a renouncer; true abandonment performs actions equally without attachment, aversion, or fruit-desire."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "aniṣṭamiṣṭaṃ",
+     "gloss": "unpleasant-pleasant",
+     "grounds": "compound adjective",
+     "morph": "nom/acc.sg.n compound"
+    },
+    {
+     "surface": "miśraṃ",
+     "gloss": "mixed",
+     "grounds": "adjective",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "karmaṇaḥ",
+     "gloss": "of-action",
+     "grounds": "genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "nominative/accusative noun",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "bhavatyatyāgināṃ",
+     "gloss": "becomes-for-non-renouncers",
+     "grounds": "fused verb and genitive",
+     "morph": "3sg.act.pres+root-bhū/gen.pl.m"
+    },
+    {
+     "surface": "pretya",
+     "gloss": "after-death",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃnyāsināṃ",
+     "gloss": "of-renouncers",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atyāginām-phalamayānām",
+     "gloss": "of-non-renouncers-fruit-filled",
+     "grounds": "fused compound",
+     "morph": "gen.pl.m compound"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavahāradaśāyāmapi",
+     "gloss": "even-in-practical-state",
+     "grounds": "locative compound",
+     "morph": "loc.sg.f compound"
+    },
+    {
+     "surface": "pañcasvapi",
+     "gloss": "even-in-five",
+     "grounds": "locative adjective",
+     "morph": "loc.pl.m/n"
+    },
+    {
+     "surface": "karmahetuṣu",
+     "gloss": "in-action-causes",
+     "grounds": "locative compound",
+     "morph": "loc.pl.m compound"
+    },
+    {
+     "surface": "sthiteṣu",
+     "gloss": "when-standing",
+     "grounds": "locative participle",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "balādevāmī",
+     "gloss": "by-force-these",
+     "grounds": "fused adverb and pronoun",
+     "morph": "(indecl.)/nom.pl.m"
+    },
+    {
+     "surface": "avidyāndhāḥ",
+     "gloss": "blind-by-ignorance",
+     "grounds": "compound adjective",
+     "morph": "nom.pl.m compound"
+    },
+    {
+     "surface": "pumāṃsaḥ",
+     "gloss": "men",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "svātmanyeva",
+     "gloss": "in-self-only",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m/(indecl.)"
+    },
+    {
+     "surface": "sakalakartṛbhāvabhāramāropayanti",
+     "gloss": "impose-whole-agenthood-burden",
+     "grounds": "compound verb",
+     "morph": "3pl.act.pres+root-ārop"
+    },
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nijayaiva",
+     "gloss": "by-own-only",
+     "grounds": "instrumental adjective",
+     "morph": "inst.sg.f/(indecl.)"
+    },
+    {
+     "surface": "dhiyātmānaṃ",
+     "gloss": "by-intellect-self",
+     "grounds": "instrumental compound",
+     "morph": "acc.sg.m compound"
+    },
+    {
+     "surface": "badhnanti",
+     "gloss": "bind",
+     "grounds": "verb",
+     "morph": "3pl.act.pres+root-bandh"
+    },
+    {
+     "surface": "natu",
+     "gloss": "not-but",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastusthityā",
+     "gloss": "by-thing-state",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.f compound"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "bandhaḥ-ityupadiśyate-",
+     "gloss": "bond-thus-is-taught",
+     "grounds": "fused noun and verb",
+     "morph": "nom.sg.m/(indecl.)/3sg.pass.pres+root-upadiś"
+    }
+   ],
+   "question": "What fruit follows non-renouncers after death?",
+   "premises": [
+    "threefold fruit of action becomes for non-renouncers after death",
+    "renouncers have no such fruit",
+    "ignorant men impose agency-burden on self"
+   ],
+   "inference": "non-renunciation binds through self-imposed agency, not thing-state",
+   "uncertainties": [
+    "fused tokens may contain sandhi and punctuation",
+    "bandhaḥ-ityupadiśyate- includes trailing hyphen"
+   ],
+   "plain_english": "Threefold fruit of action comes to non-renouncers after death, never to renouncers; ignorant men, though causes stand, impose the whole burden of agency on the self and bind themselves by their own intellect, not by thing-state."
+  }
+ ]
+}

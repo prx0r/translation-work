@@ -1,0 +1,912 @@
+{
+ "song": "gita-a18",
+ "items": [
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhaiva",
+     "gloss": "threefold-indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇabhedataḥ",
+     "gloss": "by-strand-difference",
+     "grounds": "token as given",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-declared",
+     "grounds": "token as given",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "guṇasaṅkhyāne",
+     "gloss": "in-strand-enumeration",
+     "grounds": "token as given",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "yathāvacchṛṇu",
+     "gloss": "hear-properly",
+     "grounds": "token as given",
+     "morph": "2.sg.imp"
+    },
+    {
+     "surface": "tānyapi",
+     "gloss": "those-too",
+     "grounds": "token as given",
+     "morph": "pron.acc.pl"
+    },
+    {
+     "surface": "guṇānāṃ",
+     "gloss": "of-strands",
+     "grounds": "token as given",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "saṃkhyānaṃ-niścayo",
+     "gloss": "enumeration-certainty",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāṃkhyīyakṛtānte",
+     "gloss": "in-sāṃkhya-doctrine",
+     "grounds": "token as given",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "jñānādi",
+     "gloss": "knowledge-etc",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "trividhamucyate",
+     "gloss": "threefold-is-called",
+     "grounds": "token as given",
+     "morph": "3.sg.pass"
+    },
+    {
+     "surface": "yattacchṛṇviti",
+     "gloss": "that-hear",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃgatiḥ",
+     "gloss": "connection",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñānam-ityanena",
+     "gloss": "by-knowledge-thus",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñāne",
+     "gloss": "in-knowledge",
+     "grounds": "token as given",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kriyāyāṃ",
+     "gloss": "in-action",
+     "grounds": "token as given",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatkaraṇaṃ",
+     "gloss": "which-instrument",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taddvividhamuktam",
+     "gloss": "that-twofold-declared",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmeti",
+     "gloss": "action-thus",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "knowable",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "task",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātā",
+     "gloss": "knower",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvabhūteṣu",
+     "gloss": "in-all-beings",
+     "grounds": "token as given",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "ityādinā",
+     "gloss": "by-etc",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ślokatrayeṇa",
+     "gloss": "by-three-verses",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "jñānakaraṇasya",
+     "gloss": "of-knowledge-instrument",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "trairūpyamuktam",
+     "gloss": "three-form-declared",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ata",
+     "gloss": "hence",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yena-iti",
+     "gloss": "by-which-thus",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iyatā",
+     "gloss": "by-this-much",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānakaraṇasāmānyasya",
+     "gloss": "of-common-knowledge-instrument",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "svarūpamuktam",
+     "gloss": "own-form-declared",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niyatam",
+     "gloss": "fixed",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityādinā",
+     "gloss": "by-etc",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ślokatrayeṇa",
+     "gloss": "by-three-verses",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "karmaṇo",
+     "gloss": "of-action",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "jñeyakāryarūpasya",
+     "gloss": "of-knowable-task-form",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "dvaividhyam",
+     "gloss": "twofoldness",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "muktasaṅgaḥ",
+     "gloss": "detached",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityādinā",
+     "gloss": "by-etc",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ślokatrayeṇa",
+     "gloss": "by-three-verses",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karturdvirūpasya",
+     "gloss": "of-agent-twofold",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "saṃkṣepeṇa",
+     "gloss": "briefly",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarūpam",
+     "gloss": "own-form",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karaṇaviśeṣasya",
+     "gloss": "of-instrument-particular",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "svarūpabhedapratipādanārthaṃ",
+     "gloss": "for-showing-own-form-difference",
+     "grounds": "token as given",
+     "morph": "dat.acc"
+    },
+    {
+     "surface": "buddhestraividhyaṃ",
+     "gloss": "of-intellect-threefoldness",
+     "grounds": "token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirūpitam",
+     "gloss": "determined",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvāreṇa",
+     "gloss": "by-that-gate",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "karaṇāntarāṇāmapi",
+     "gloss": "of-other-instruments-too",
+     "grounds": "token as given",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "traividhyamupalakṣitam",
+     "gloss": "threefoldness-indicated",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karaṇasya",
+     "gloss": "of-instrument",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "tvitikartavyatāpekṣitvāditikartavyatāyāśca",
+     "gloss": "and-of-task-dependence",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhṛtyādipañcakarūpatve'pi",
+     "gloss": "even-in-fivefold-form",
+     "grounds": "token as given",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "śraddhāyāḥ",
+     "gloss": "of-faith",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    }
+   ],
+   "question": "How are knowledge, action, and agent threefold by strands?",
+   "premises": [
+    "knowledge action and agent are threefold by strands",
+    "the text enumerates their forms through verses",
+    "intellect threefoldness indicates other instruments too"
+   ],
+   "inference": "The verse gathers knowledge, action, and agent into a threefold strand-classification.",
+   "uncertainties": [
+    "compound glosses are compressed",
+    "some sandhi forms remain fused"
+   ],
+   "plain_english": "Knowledge, action, and agent are each declared threefold by strand-difference; hear them properly as the text enumerates their forms."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "pūrvamuktatvādvividiṣāvividiṣayośca",
+     "gloss": "because-previously-stated-and-desire",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhṛtisukhābhyāmākṣepāttayostraividhyaṃ",
+     "gloss": "by-firmness-pleasure-objection-their-threefoldness",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhṛtyā",
+     "gloss": "by-firmness",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "token as given",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "ityanena",
+     "gloss": "thus",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "pleasure",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvidānīm-ityanena",
+     "gloss": "but-now-thus",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "coktam",
+     "gloss": "also-said",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadāha",
+     "gloss": "that-says",
+     "grounds": "token as given",
+     "morph": "3.sg"
+    },
+    {
+     "surface": "sarvabhūteṣu",
+     "gloss": "in-all-beings",
+     "grounds": "token as given",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "yenaikaṃ",
+     "gloss": "by-which-one",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvamavyayamīkṣate",
+     "gloss": "sees-being-imperishable",
+     "grounds": "token as given",
+     "morph": "3.sg"
+    },
+    {
+     "surface": "avibhaktaṃ",
+     "gloss": "undivided",
+     "grounds": "token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhakteṣu",
+     "gloss": "in-divided",
+     "grounds": "token as given",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "tajjñānaṃ",
+     "gloss": "that-knowledge",
+     "grounds": "token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "token as given",
+     "morph": "2.sg.imp"
+    },
+    {
+     "surface": "sāttvikam",
+     "gloss": "sattvic",
+     "grounds": "token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhakteṣu-devamanuṣyāditayā",
+     "gloss": "in-divided-gods-men-etc",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What knowledge is sattvic among divided beings?",
+   "premises": [
+    "sattvic knowledge sees one imperishable being",
+    "that being remains undivided among divided beings",
+    "gods and men are among the divided"
+   ],
+   "inference": "Sattvic knowledge is the recognition of one undivided being within divided beings.",
+   "uncertainties": [
+    "compound glosses are compressed"
+   ],
+   "plain_english": "Know that knowledge as sattvic which sees one imperishable being, undivided, among divided beings such as gods and men."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "pṛthaktvena",
+     "gloss": "by-separateness",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajjñānaṃ",
+     "gloss": "which-knowledge",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nānābhāvān",
+     "gloss": "many-beings",
+     "grounds": "token as given",
+     "morph": "acc.pl"
+    },
+    {
+     "surface": "pṛthagvidhān",
+     "gloss": "various",
+     "grounds": "token as given",
+     "morph": "acc.pl"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "token as given",
+     "morph": "3.sg"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "token as given",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "bhūteṣu",
+     "gloss": "beings",
+     "grounds": "token as given",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "tadrājasamiti",
+     "gloss": "that-rajasic-thus",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pṛthaktvena-iha",
+     "gloss": "by-separateness-here",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "prītiriha",
+     "gloss": "pleasure-here",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "token as given",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "dveṣaḥ-ityādibuddhyā",
+     "gloss": "by-hatred-etc-intellect",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What knowledge is remembered as rajasic?",
+   "premises": [
+    "rajasic knowledge knows many beings as separate",
+    "it operates in all beings",
+    "it is marked by my-pleasure and my-hatred intellect"
+   ],
+   "inference": "Rajasic knowledge is the separative knowing of many beings with possessive pleasure and hatred.",
+   "uncertainties": [
+    "compound glosses are compressed"
+   ],
+   "plain_english": "But knowledge that knows many various beings as separate in all beings is remembered as rajasic, through an intellect of my pleasure and my hatred."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "yattu",
+     "gloss": "but-which",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtsnavadekasminatkārye",
+     "gloss": "in-one-task-as-whole",
+     "grounds": "token as given",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "saktamahetukam",
+     "gloss": "attached-causeless",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atattvārthavadalpaṃ",
+     "gloss": "not-true-meaning-small",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattāmasamudāhṛtam",
+     "gloss": "that-tamasic-called",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ahetukam-kāraṇamavicāryaiva",
+     "gloss": "causeless-without-examining",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "abhiniveśāveśavaśāt",
+     "gloss": "by-obsession-entrance",
+     "grounds": "token as given",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "krodharāgādigrahaṇaṃ",
+     "gloss": "anger-attachment-etc-grasping",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yattattāmasasaṃjñam",
+     "gloss": "that-tamasic-named",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What knowledge is called tamasic?",
+   "premises": [
+    "tamasic knowledge clings to one task as a whole",
+    "it is causeless and small in true meaning",
+    "it arises from obsession and grasping anger and attachment"
+   ],
+   "inference": "Tamasic knowledge is a causeless, small, obsessed clinging to one task.",
+   "uncertainties": [
+    "compound glosses are compressed"
+   ],
+   "plain_english": "But knowledge attached to one task as a whole, causeless and small in true meaning, is called tamasic, arising from obsession and grasping anger and attachment."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "niyataṃ",
+     "gloss": "fixed",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṅgarahitamarāgadveṣataḥ",
+     "gloss": "detached-without-attachment-aversion",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "done",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aphalaprepsunā",
+     "gloss": "by-desireless-of-fruit",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yattat",
+     "gloss": "that",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāttvikamucyate",
+     "gloss": "sattvic-is-called",
+     "grounds": "token as given",
+     "morph": "3.sg.pass"
+    },
+    {
+     "surface": "niyatam-kartavyamiti",
+     "gloss": "fixed-duty-thus",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What action is called sattvic?",
+   "premises": [
+    "sattvic action is fixed",
+    "it is done without attachment and aversion",
+    "it is done by one not desiring fruit"
+   ],
+   "inference": "Sattvic action is fixed duty performed without attachment, aversion, or fruit-desire.",
+   "uncertainties": [
+    "compound glosses are compressed"
+   ],
+   "plain_english": "Action that is fixed, done without attachment and aversion, by one not desiring fruit, is called sattvic."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "yattu",
+     "gloss": "but-which",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmepsunā",
+     "gloss": "by-desire-seeking",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāhaṅkāreṇa",
+     "gloss": "with-ego",
+     "grounds": "token as given",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "token as given",
+     "morph": "3.sg.pass"
+    },
+    {
+     "surface": "kleśabahulaṃ",
+     "gloss": "suffering-abundant",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadrājasamiti",
+     "gloss": "that-rajasic-thus",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kleśaiḥ-avidyādyaiḥ",
+     "gloss": "by-sufferings-ignorance-etc",
+     "grounds": "token as given",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "bahulam-vyāptam",
+     "gloss": "abundant-pervaded",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What action is remembered as rajasic?",
+   "premises": [
+    "rajasic action is done by one seeking desire",
+    "it is done with ego",
+    "it is abundant in suffering and pervaded by ignorance"
+   ],
+   "inference": "Rajasic action is desire-seeking, ego-laden action abundant in suffering.",
+   "uncertainties": [
+    "compound glosses are compressed"
+   ],
+   "plain_english": "But action done by one seeking desire, with ego, again and again, abundant in suffering and pervaded by ignorance and the rest, is remembered as rajasic."
+  }
+ ]
+}
