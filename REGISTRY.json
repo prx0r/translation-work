@@ -4,7 +4,7 @@
  "date": "2026-11-07",
  "schemas_version": "1.1.0",
  "gate": "check.py (CANONICAL: 0 failures)",
- "total_works": 101,
+ "total_works": 96,
  "gold": 92,
  "partial": 0,
  "pending": 9,
@@ -1003,51 +1003,6 @@
    "has_process_log": false,
    "verses": null,
    "note": "pending (P0 source on disk: ipvv sanskrit/mvv.txt, fragmentary survival)"
-  },
-  {
-   "work": "lalded",
-   "status": "pending (P0: source on disk, translation queued later)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "pending (P0 source on disk: mystics/lalded/SOURCE.txt, Grierson 1920, 109 vakhs; Kashmiri — needs Kashmiri-gloss stage; owner nod before translation)"
-  },
-  {
-   "work": "rupabhavani",
-   "status": "pending (P0: source on disk, translation queued later)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "pending (P0 source on disk: mystics/rupabhavani/SOURCE.txt, Rahasyopadesha; 146 Vakhs not yet sourced — second acquisition needed)"
-  },
-  {
-   "work": "parmanand",
-   "status": "pending (P0: source on disk, translation queued later)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "pending (P0 source on disk: mystics/parmanand/SOURCE.txt, Sukti Sar; Kashmiri — needs Kashmiri-gloss stage)"
-  },
-  {
-   "work": "nundrishi",
-   "status": "pending (P0: source on disk, translation queued later)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "pending (P0 source on disk: mystics/nundrishi/SOURCE.txt, Parimoo; syncretic Rishi — owner decides queue entry)"
-  },
-  {
-   "work": "santosh",
-   "status": "pending (P0: source on disk, translation queued later)",
-   "gold": false,
-   "has_data_json": false,
-   "has_process_log": false,
-   "verses": null,
-   "note": "pending (P0 source on disk: mystics/santosh/SOURCE-EN.pdf, 2 translated poems; Kashmiri Be Soakh Rooh not yet sourced — second acquisition needed; paintings = lore/visual ref only)"
   }
  ],
  "note": "2026-11-04: 30 gold banked (#22 stava + #23-28 six small + #29 vbt 162v + #30 dehastha 16v; all CANONICAL 0 failures at completion, C2 in place; six golds qa re-run vs vendored legacy-L2 witnesses: SHIP_AS_IS + 2 WITH_NOTES adjudicated). 91 total = 30 gold + 61 pending. Pending = 4 no-repo (mahopadeshavimshatika 20v sourced, rahasyapanchadashika 16v sourced, tattvasandoha TBD, paramarthadvadasika 13v SOURCE in hand) + tantrasara-a03-a22 (20) + tantraloka-a01-a37 (37). GOAL adopted 2026-11-04: all Abhinavagupta works shortest-first (stotras/prakaranas, then tantrasara ahnikas, then tantraloka ahnikas). Standing opens: first-verse L4 voice verdicts, human review, ptvmadhyama Vivrti scope, paratrimshika/ptvmadhyama recension scope."
