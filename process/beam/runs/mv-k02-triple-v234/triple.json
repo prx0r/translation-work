@@ -1,0 +1,963 @@
+{
+ "song": "mv-k02",
+ "items": [
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "nyarūpyata",
+     "gloss": "was-shaped",
+     "grounds": "passive past form",
+     "morph": "3.sg.pass-past"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caitat",
+     "gloss": "this",
+     "grounds": "neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "kenāpi",
+     "gloss": "by-someone",
+     "grounds": "instrumental singular",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "parameśinā",
+     "gloss": "by-supreme-lord",
+     "grounds": "instrumental singular",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimnaṃ",
+     "gloss": "low",
+     "grounds": "neuter accusative singular",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "taḍāgapānīyaṃ",
+     "gloss": "pond-water",
+     "grounds": "neuter accusative singular",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "who",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pravartayituṃ",
+     "gloss": "to-set-in-motion",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "kṣamaḥ",
+     "gloss": "able",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is able to set low pond-water in motion?",
+   "premises": [
+    "The shaped form is set by someone.",
+    "Low pond-water needs an agent to move.",
+    "Supreme lord is named as that agent."
+   ],
+   "inference": "The verse asks who besides the supreme lord can initiate this descent.",
+   "uncertainties": [
+    "Exact root parsing of nyarūpyata is not fully certain."
+   ],
+   "plain_english": "Just as this was shaped by some supreme lord, who is able to set low pond-water in motion?"
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "paripūrṇe",
+     "gloss": "when-full",
+     "grounds": "locative singular",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "punas",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative singular",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "pravāhāḥ",
+     "gloss": "streams",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvatomukhāḥ",
+     "gloss": "facing-everywhere",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "kāṃś",
+     "gloss": "which-ones",
+     "grounds": "masculine accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "cid",
+     "gloss": "some",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evetthaṃ",
+     "gloss": "thus-only",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saiṣā",
+     "gloss": "this-she",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svaniyater",
+     "gloss": "by-own-nature",
+     "grounds": "genitive singular",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "balāt",
+     "gloss": "by-force",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When full, streams flow everywhere; by what force does this occur?",
+   "premises": [
+    "The full state produces streams everywhere.",
+    "The question asks which ones flow thus.",
+    "Own nature acts by force."
+   ],
+   "inference": "The verse challenges whether only some streams move by their own nature.",
+   "uncertainties": [
+    "The exact referent of saiṣā is context-dependent."
+   ],
+   "plain_english": "When that is full, streams flow in every direction; indeed, what and which ones flow thus by the force of their own nature?"
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāvati",
+     "gloss": "runs",
+     "grounds": "3rd singular present",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "cāsyā",
+     "gloss": "and-her",
+     "grounds": "genitive singular",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "rāgatattvātmakaṃ",
+     "gloss": "essence-of-attachment",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatrāpi",
+     "gloss": "there-too",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāgābhāsa",
+     "gloss": "reflection-of-attachment",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhāryatām",
+     "gloss": "let-it-be-held",
+     "grounds": "imperative passive",
+     "morph": "3.sg.pass-imp"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does attachment run through her body and its reflection?",
+   "premises": [
+    "That runs thus.",
+    "Her body is essence of attachment.",
+    "There too only reflection of attachment should be held."
+   ],
+   "inference": "The verse distinguishes real attachment from its mere reflection.",
+   "uncertainties": [
+    "The exact force of dhāryatām is interpretive."
+   ],
+   "plain_english": "Thus that runs, and her body is the essence of attachment; there too only a reflection of attachment should be held."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "cidātmani",
+     "gloss": "in-conscious-self",
+     "grounds": "locative singular",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāgo",
+     "gloss": "attachment",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'stu",
+     "gloss": "let-it-be",
+     "grounds": "imperative",
+     "morph": "3.sg.act-imp"
+    },
+    {
+     "surface": "ko",
+     "gloss": "what",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'py",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyārūṣaṇātmakaḥ",
+     "gloss": "of-another-color",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nanv",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kutrāpi",
+     "gloss": "anywhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "virajyate",
+     "gloss": "becomes-detached",
+     "grounds": "3rd singular passive present",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "If attachment exists in consciousness, how can she become detached anywhere?",
+   "premises": [
+    "Attachment may exist in conscious self.",
+    "It may be of another color.",
+    "If so, detachment anywhere is questioned."
+   ],
+   "inference": "The verse raises a problem about detachment given attachment in consciousness.",
+   "uncertainties": [
+    "The sandhi forms 'stu and 'py are fused."
+   ],
+   "plain_english": "But let attachment exist in the conscious self, even of another color; if so, how indeed can she become detached anywhere?"
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "hanta",
+     "gloss": "alas",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛta",
+     "gloss": "original",
+     "grounds": "neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "evāyaṃ",
+     "gloss": "this-very",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vādaḥ",
+     "gloss": "argument",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃgatim",
+     "gloss": "agreement",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āgataḥ",
+     "gloss": "has-come",
+     "grounds": "masculine nominative singular participle",
+     "morph": "m.nom.sg.part"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citir",
+     "gloss": "consciousness",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "evaiṣā",
+     "gloss": "this-very",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-everywhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkucatsthitiḥ",
+     "gloss": "contracted-state",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When consciousness is contracted everywhere, what agreement does the argument reach?",
+   "premises": [
+    "The original argument has reached agreement.",
+    "Consciousness itself is in contracted state.",
+    "That contraction is from everywhere."
+   ],
+   "inference": "The verse links agreement to universal contraction of consciousness.",
+   "uncertainties": [
+    "The compound saṃkucatsthitiḥ may be parsed differently."
+   ],
+   "plain_english": "Alas, this original argument has reached agreement: when consciousness itself is in a contracted state everywhere."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "krameṇa",
+     "gloss": "gradually",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogopāyebhyo",
+     "gloss": "from-means-of-enjoyment",
+     "grounds": "ablative plural",
+     "morph": "abl.pl"
+    },
+    {
+     "surface": "bhogyebhyo",
+     "gloss": "from-objects",
+     "grounds": "ablative plural",
+     "morph": "abl.pl"
+    },
+    {
+     "surface": "dehato",
+     "gloss": "from-body",
+     "grounds": "ablative singular",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "bhujaḥ",
+     "gloss": "enjoyer",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogād",
+     "gloss": "from-enjoyment",
+     "grounds": "ablative singular",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "bhoktus",
+     "gloss": "of-enjoyer",
+     "grounds": "genitive singular",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnyā",
+     "gloss": "empty",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāpralayabhāg",
+     "gloss": "great-dissolution-part",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the enjoyer become empty like great dissolution?",
+   "premises": [
+    "Gradually from means, objects, and body.",
+    "The enjoyer is separated from enjoyment.",
+    "Thus empty like great dissolution."
+   ],
+   "inference": "The verse describes progressive withdrawal ending in emptiness.",
+   "uncertainties": [
+    "The compound mahāpralayabhāg is ambiguous."
+   ],
+   "plain_english": "Gradually from means of enjoyment, objects, and body, the enjoyer becomes empty like a part of great dissolution."
+  },
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "3rd singular present",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "rudrarūpaiṣā",
+     "gloss": "this-rudra-form",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daśā",
+     "gloss": "state",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sāṃhārikī",
+     "gloss": "destructive",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyojātaś",
+     "gloss": "sadyojata",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yad",
+     "gloss": "because",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudra",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puruṣaś",
+     "gloss": "purusha",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ceśvarātmakaḥ",
+     "gloss": "lord-natured",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does this destructive Rudra state arise?",
+   "premises": [
+    "This destructive state arises.",
+    "Sadyojata and Rudra are named.",
+    "Purusha is lord-natured."
+   ],
+   "inference": "The verse connects the destructive state to Rudra and lord-natured purusha.",
+   "uncertainties": [
+    "The exact relation of sadyojātaś to rudraḥ is interpretive."
+   ],
+   "plain_english": "This destructive state arises in Rudra form because Sadyojata, Rudra, and Purusha are lord-natured."
+  },
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "śrīmān",
+     "gloss": "glorious",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadāśivo",
+     "gloss": "sadashiva",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśānaś",
+     "gloss": "ishana",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-so-forth",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gīyate",
+     "gloss": "is-sung",
+     "grounds": "3rd singular passive present",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇur",
+     "gloss": "vishnu",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāmaḥ",
+     "gloss": "vama",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kajy",
+     "gloss": "kajy",
+     "grounds": "indeclinable or name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aghora",
+     "gloss": "aghora",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caitad",
+     "gloss": "this",
+     "grounds": "neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "3rd singular future",
+     "morph": "3.sg.act-fut"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine names are sung and which will be?",
+   "premises": [
+    "Glorious Sadashiva, Deva, and Ishana are sung.",
+    "Vishnu, Vama, Kajy, and Aghora are named.",
+    "This will be."
+   ],
+   "inference": "The verse lists divine names in sung and future registers.",
+   "uncertainties": [
+    "The token kajy is unclear and may be a name or sandhi."
+   ],
+   "plain_english": "Glorious Sadashiva, Deva, and Ishana are sung; Vishnu, Vama, Kajy, and Aghora will also be."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "antaḥsthasarvaśaktitvenaikaikasyāpi",
+     "gloss": "by-inner-all-power-of-each",
+     "grounds": "compound instrumental",
+     "morph": "compound"
+    },
+    {
+     "surface": "bṛṃhaṇāt",
+     "gloss": "from-expansion",
+     "grounds": "ablative singular",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmāṇy",
+     "gloss": "brahmas",
+     "grounds": "neuter nominative plural",
+     "morph": "neut.nom.pl"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "neuter nominative plural",
+     "morph": "neut.nom.pl"
+    },
+    {
+     "surface": "kathyante",
+     "gloss": "are-called",
+     "grounds": "3rd plural passive present",
+     "morph": "3.pl.pass-pres"
+    },
+    {
+     "surface": "bṛhattvād",
+     "gloss": "from-greatness",
+     "grounds": "ablative singular",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "viśvabṛṃhaṇāt",
+     "gloss": "from-universe-expansion",
+     "grounds": "ablative singular",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are these Brahmas called by expansion?",
+   "premises": [
+    "Each has inner all-power.",
+    "Expansion comes from that power.",
+    "They are called Brahmas by greatness and universe-expansion."
+   ],
+   "inference": "The verse explains the name Brahma through expansion of power.",
+   "uncertainties": [
+    "The long compound may contain multiple sandhi joints."
+   ],
+   "plain_english": "Because each has all power within, these Brahmas are called so by expansion, greatness, and universal expansion."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "tadanyaśaktyudrekāṃśe",
+     "gloss": "in-excess-of-other-power",
+     "grounds": "locative singular",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivakṣite",
+     "gloss": "when-intended",
+     "grounds": "locative singular",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-separator",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyekam",
+     "gloss": "each",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "3rd singular present",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "brahmādihetupañcakayogitā",
+     "gloss": "five-cause-union",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When other power is in excess, what five-cause union exists?",
+   "premises": [
+    "In excess of other power.",
+    "Therefore when intended.",
+    "Each has five-cause union."
+   ],
+   "inference": "The verse states a five-cause union for each in that condition.",
+   "uncertainties": [
+    "The compound brahmādihetupañcakayogitā is dense."
+   ],
+   "plain_english": "Indeed, when other power is in excess and intended, each has a five-cause union."
+  }
+ ]
+}

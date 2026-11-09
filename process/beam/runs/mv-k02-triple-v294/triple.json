@@ -1,0 +1,717 @@
+{
+ "song": "mv-k02",
+ "items": [
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "maivaṃ",
+     "gloss": "not-so",
+     "grounds": "negation + demonstrative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "feminine plural adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhedaṃ",
+     "gloss": "difference",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "praty",
+     "gloss": "toward",
+     "grounds": "prefix",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uta",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāg",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vyapohati",
+     "gloss": "removes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root-vyapoh"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhedabhūmau",
+     "gloss": "difference-ground",
+     "grounds": "compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kāṣṭhajvalanataṇḍulāḥ",
+     "gloss": "wood-fire-rice",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Does every action remove difference before it appears?",
+   "premises": [
+    "all action is not difference",
+    "difference-ground contains wood fire rice"
+   ],
+   "inference": "action and difference are not simply opposed",
+   "uncertainties": [
+    "sandhi and compound boundaries approximate"
+   ],
+   "plain_english": "Not so: every action does not remove difference beforehand; thus on the ground of difference stand wood, fire, and rice."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "ta",
+     "gloss": "those",
+     "grounds": "demonstrative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pākāviṣṭatve",
+     "gloss": "in-cooking-state",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhedaṃ",
+     "gloss": "difference",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "projjhanti",
+     "gloss": "abandon",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root-projjh"
+    },
+    {
+     "surface": "sādaram",
+     "gloss": "respectfully",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhinnasvarūpās",
+     "gloss": "different-natures",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pākaikyaṃ",
+     "gloss": "cooking-unity",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-bhū"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How can cooking unity arise if their natures differ?",
+   "premises": [
+    "those abandon difference in cooking-state",
+    "if natures differ cooking unity is impossible"
+   ],
+   "inference": "difference and unity must be reconciled in action",
+   "uncertainties": [
+    "compound sense approximate"
+   ],
+   "plain_english": "Those very things abandon difference in the state of cooking; if their natures were different, how could cooking unity arise?"
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "bhinnaṃ",
+     "gloss": "different",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svarūpam",
+     "gloss": "own-form",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṅgānāṃ",
+     "gloss": "of-parts",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yuktyopapadyate",
+     "gloss": "is-reasonable",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres root-yukt"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pāko",
+     "gloss": "cooking",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaś",
+     "gloss": "any",
+     "grounds": "indefinite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cit",
+     "gloss": "at-all",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nānāsvarūpakam",
+     "gloss": "many-formed",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Is a different own-form of parts not reasonable?",
+   "premises": [
+    "different own-form of parts is unreasonable",
+    "cooking is not any many-formed thing"
+   ],
+   "inference": "cooking cannot be reduced to many separate forms",
+   "uncertainties": [
+    "sandhi in yuktyopapadyate"
+   ],
+   "plain_english": "A different own-form of the parts is not reasonable; indeed cooking is not any thing that is many-formed."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "jvalanakledadāhādi",
+     "gloss": "burning-moistening-burning-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāka",
+     "gloss": "cooking",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śabdyate",
+     "gloss": "is-called",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres root-śabd"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhinnā",
+     "gloss": "different",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kriyāḥ",
+     "gloss": "actions",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "preposition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Are all different actions established toward one fruit?",
+   "premises": [
+    "burning moistening burning etc is called cooking",
+    "all different actions are established toward one fruit"
+   ],
+   "inference": "diverse actions can aim at one result",
+   "uncertainties": [
+    "compound list approximate"
+   ],
+   "plain_english": "Burning, moistening, burning and so on is called cooking; all different actions are established toward one fruit."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "pāka",
+     "gloss": "cooking",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "quotative sandhi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres root-vac"
+    },
+    {
+     "surface": "nānyā",
+     "gloss": "no-other",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāmāsti",
+     "gloss": "name-exists",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-pres root-as"
+    },
+    {
+     "surface": "kācana",
+     "gloss": "any",
+     "grounds": "indefinite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bahvya",
+     "gloss": "many",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhīpsitam",
+     "gloss": "desired",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How can many actions have one desired fruit?",
+   "premises": [
+    "cooking is said and no other action exists",
+    "how can many yield one desired fruit"
+   ],
+   "inference": "the many actions are one cooking in result",
+   "uncertainties": [
+    "sandhi in ity and nāmāsti"
+   ],
+   "plain_english": "Cooking is said; no other action by name exists. How can many yield one desired fruit?"
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃpādayeyus",
+     "gloss": "would-accomplish",
+     "grounds": "verb",
+     "morph": "3.pl.act-opt root-saṃpad"
+    },
+    {
+     "surface": "tāḥ.",
+     "gloss": "those",
+     "grounds": "demonstrative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pūrvoktād",
+     "gloss": "from-previously-said",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hetutaḥ",
+     "gloss": "from-cause",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "locanadīpārthamanaskārair",
+     "gloss": "eye-lamp-meaning-mind-efforts",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How would those accomplish it from the previously stated cause?",
+   "premises": [
+    "how would those accomplish from previous cause",
+    "eye lamp meaning mind efforts also clearly"
+   ],
+   "inference": "accomplishment is explained by prior cause and clear efforts",
+   "uncertainties": [
+    "compound sense approximate"
+   ],
+   "plain_english": "How would those accomplish it from the previously stated cause? Indeed, by eye, lamp, meaning, and mind-efforts, it is clearly so."
+  },
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "janyate",
+     "gloss": "is-born",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres root-jan"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathaivātra",
+     "gloss": "so-here",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-fut root-bhū"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "so",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'yaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kardamasaṃmardamalinībhūtavigrahaḥ",
+     "gloss": "mud-kneading-dirty-become-body",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Will one knowledge be born here in the same way?",
+   "premises": [
+    "one knowledge is born",
+    "so here it will be",
+    "that this mud-kneaded dirty body"
+   ],
+   "inference": "knowledge arises even in a defiled body",
+   "uncertainties": [
+    "compound sense approximate"
+   ],
+   "plain_english": "One knowledge is born; so here it will be. That is this body become dirty through kneading mud."
+  }
+ ]
+}

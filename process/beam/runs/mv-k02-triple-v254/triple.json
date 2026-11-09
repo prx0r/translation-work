@@ -1,0 +1,911 @@
+{
+ "song": "mv-k02",
+ "items": [
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "saiva",
+     "gloss": "that-same",
+     "grounds": "anaphoric",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāstreṣu",
+     "gloss": "in-scriptures",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "bhedena",
+     "gloss": "by-distinction",
+     "grounds": "instrumental",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pratanyate",
+     "gloss": "is-spread",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ataś",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyojāte",
+     "gloss": "in-sadyojata",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "'smin",
+     "gloss": "in-this",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "primary",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raudradaśā",
+     "gloss": "fierce-state",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "stands",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the same power spread distinctly in scriptures?",
+   "premises": [
+    "same power spreads distinctly",
+    "therefore fierce state stands in sadyojata"
+   ],
+   "inference": "the primary fierce state is established in sadyojata",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "That same power spreads distinctly in scriptures; therefore the primary fierce state stands in sadyojata."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "anaphoric",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkocarūpāpi",
+     "gloss": "even-contracted-form",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cidvikāse",
+     "gloss": "in-consciousness-expansion",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "verb",
+     "morph": "3.sg.fut"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yallīnau",
+     "gloss": "those-absorbed",
+     "grounds": "compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "brahmaviṣṇvaṃśau",
+     "gloss": "brahma-vishnu-parts",
+     "grounds": "compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tenādhaḥkurute",
+     "gloss": "by-that-lowers",
+     "grounds": "verb",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "balāt",
+     "gloss": "by-force",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does contracted form arise in consciousness expansion?",
+   "premises": [
+    "contracted form will be in consciousness expansion",
+    "absorbed brahma-vishnu parts are lowered by force"
+   ],
+   "inference": "contraction occurs through forced lowering of absorbed parts",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "Even in contracted form it will be in consciousness expansion; the absorbed brahma and vishnu parts are forcibly lowered."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "vastvabhāvamayītyādidaśā",
+     "gloss": "state-like-absence-of-thing",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rudrādhidevatā",
+     "gloss": "rudra-presiding-deity",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhinnaprameyeti",
+     "gloss": "as-distinct-object",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmadutpalena",
+     "gloss": "by-srimad-utpala",
+     "grounds": "instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "nyarūpyata",
+     "gloss": "was-described",
+     "grounds": "verb",
+     "morph": "3.sg.pass-past"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the rudra state described by Utpala?",
+   "premises": [
+    "state of absence of thing is rudra presiding deity",
+    "it was described as distinct object by srimad utpala"
+   ],
+   "inference": "Utpala describes the rudra state as a distinct object",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "The state of absence of thing is the rudra presiding deity; it was described as a distinct object by Srimad Utpala."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "jāto",
+     "gloss": "born",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedatanmātre",
+     "gloss": "in-mere-distinction",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃkocaṃ",
+     "gloss": "contraction",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upāgataḥ",
+     "gloss": "having-approached",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyatinimīlete",
+     "gloss": "are-exchanged",
+     "grounds": "verb",
+     "morph": "3.du.pres"
+    },
+    {
+     "surface": "bhoktṛbhogyāv",
+     "gloss": "enjoyer-and-enjoyed",
+     "grounds": "compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens when contraction approaches mere distinction?",
+   "premises": [
+    "even born in mere distinction contraction is approached",
+    "then enjoyer and enjoyed are clearly exchanged"
+   ],
+   "inference": "contraction in mere distinction leads to exchange of enjoyer and enjoyed",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "Even when born in mere distinction, contraction is approached; then enjoyer and enjoyed are clearly exchanged here."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "ajātam",
+     "gloss": "unborn",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "as-if",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśvam",
+     "gloss": "universe",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyo",
+     "gloss": "immediately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "'vabhāsate",
+     "gloss": "appears",
+     "grounds": "verb",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyojātapadaṃ",
+     "gloss": "sadyojata-term",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnyasaṃvedanātmakam",
+     "gloss": "of-empty-consciousness-nature",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the universe said to be unborn here?",
+   "premises": [
+    "that universe appears immediately as if unborn",
+    "therefore sadyojata term is of empty consciousness nature"
+   ],
+   "inference": "immediate appearance as unborn makes sadyojata term empty-consciousness in nature",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "That universe appears here immediately as if unborn; therefore the sadyojata term is of empty consciousness nature."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnyapadasyāntar",
+     "gloss": "within-empty-term",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivikṣati",
+     "gloss": "wishes-to-distinguish",
+     "grounds": "verb",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devas",
+     "gloss": "god",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhe",
+     "gloss": "in-awareness",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "procchalati",
+     "gloss": "rises",
+     "grounds": "verb",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens while the god wishes to distinguish within the empty term?",
+   "premises": [
+    "as long as he wishes to distinguish within empty term",
+    "god himself makes universe rise standing in awareness"
+   ],
+   "inference": "divine awareness makes the universe rise while distinction is sought",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "As long as he wishes to distinguish within the empty term, the god himself makes the universe rise, standing in awareness."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "jānāti",
+     "gloss": "knows",
+     "grounds": "verb",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāthasya",
+     "gloss": "of-lord",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jñānaśaktir",
+     "gloss": "knowledge-power",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vikāsinī",
+     "gloss": "expanding",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tayor",
+     "gloss": "of-those-two",
+     "grounds": "genitive",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "vikāsiciddhāmni",
+     "gloss": "in-expanded-consciousness-abode",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "līnatvam",
+     "gloss": "absorption",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "upapāditam",
+     "gloss": "is-established",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the lord's expanding knowledge-power know?",
+   "premises": [
+    "this expanding knowledge-power of lord knows",
+    "absorption in expanded consciousness abode is established for those two"
+   ],
+   "inference": "the lord's expanding knowledge-power establishes absorption in expanded consciousness",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "This expanding knowledge-power of the lord knows; absorption in the expanded consciousness abode is established for those two."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "saṃvidaḥ",
+     "gloss": "of-consciousness",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śūnyarūpāyā",
+     "gloss": "of-empty-form",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vikāso",
+     "gloss": "expansion",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśvam",
+     "gloss": "universe",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghanasauṣuptaviśrāntivaśanirbharaḥ",
+     "gloss": "full-of-deep-sleep-rest",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the expansion of empty-form consciousness?",
+   "premises": [
+    "expansion of empty-form consciousness is indeed universe",
+    "for it is full of deep sleep rest"
+   ],
+   "inference": "the universe is the expansion of empty-form consciousness, full of deep sleep rest",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "The expansion of empty-form consciousness is indeed the universe; for it is full of deep sleep rest."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "tāṃs",
+     "gloss": "those",
+     "grounds": "accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "gṛhāpaṇādyaṃśān",
+     "gloss": "house-shop-etc-parts",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "verb",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "svapnapadābhidhān",
+     "gloss": "called-dream-state",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭiḥ",
+     "gloss": "creation",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthitir",
+     "gloss": "maintenance",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the dream state know of house and shop parts?",
+   "premises": [
+    "those house-shop parts called dream state are known",
+    "therefore that is not creation but maintenance"
+   ],
+   "inference": "dream-state knowledge of worldly parts is maintenance, not creation",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "Those house and shop parts called dream state are known; therefore that is not creation but maintenance."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "pūrvasṛṣṭeṣu",
+     "gloss": "in-previously-created",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "bhāveṣu",
+     "gloss": "in-beings",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñānamātrakam",
+     "gloss": "mere-consciousness",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "/",
+     "gloss": "verse-break",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāgrato",
+     "gloss": "of-waking",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rūpāt",
+     "gloss": "from-form",
+     "grounds": "ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "svapno",
+     "gloss": "dream",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhedena",
+     "gloss": "by-distinction",
+     "grounds": "instrumental",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "//",
+     "gloss": "verse-end",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is mere consciousness in previously created beings?",
+   "premises": [
+    "in previously created beings that is indeed mere consciousness",
+    "thus dream arises by distinction from waking form"
+   ],
+   "inference": "mere consciousness in prior beings leads dream to arise distinctly from waking form",
+   "uncertainties": [
+    "contextual gloss approximate"
+   ],
+   "plain_english": "In previously created beings that is indeed mere consciousness; thus dream arises by distinction from waking form."
+  }
+ ]
+}
