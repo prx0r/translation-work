@@ -1,61 +1,61 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 144,
  "rows": [
   {
-   "lemma": "yaḥ-tu",
-   "morph": "m.nom.sg + indecl.",
-   "grounds": "yastu = but-who (yaḥ + tu)"
-  },
-  {
-   "lemma": "dhyānajapābhyāsa",
-   "morph": "m.inst.pl",
-   "grounds": "dhyānajapābhyāsaiḥ = by-meditation-recitation-practices"
-  },
-  {
-   "lemma": "siddhīpsu",
+   "lemma": "yastu",
    "morph": "m.nom.sg",
-   "grounds": "siddhīpsuḥ = desiring-accomplishment"
+   "grounds": "sandhi"
+  },
+  {
+   "lemma": "dhyānajapābhyāsaiḥ",
+   "morph": "m.inst.pl",
+   "grounds": "compound"
+  },
+  {
+   "lemma": "siddhīpsuḥ",
+   "morph": "m.nom.sg",
+   "grounds": "compound"
   },
   {
    "lemma": "sa",
    "morph": "m.nom.sg",
-   "grounds": "sa = he"
+   "grounds": "pronoun"
   },
   {
-   "lemma": "kriyā",
+   "lemma": "kriyāṃ",
    "morph": "f.acc.sg",
-   "grounds": "kriyāṃ = ritual-action"
+   "grounds": "accusative"
   },
   {
-   "lemma": "para",
-   "morph": "f.acc.sg",
-   "grounds": "param = supreme (agreeing with kriyāṃ)"
+   "lemma": "param",
+   "morph": "n.acc.sg",
+   "grounds": "adjective"
   },
   {
-   "lemma": "saṃskṛti",
+   "lemma": "saṃskṛtyai",
    "morph": "f.dat.sg",
-   "grounds": "saṃskṛtyai = for-purification"
+   "grounds": "saṃskṛti"
   },
   {
-   "lemma": "svecchā",
+   "lemma": "svecchayā",
    "morph": "f.inst.sg",
-   "grounds": "svecchayā = by-own-will"
+   "grounds": "compound"
   },
   {
-   "lemma": "√kṛ",
-   "morph": "3sg.opt.act",
-   "grounds": "kuryāt = should-perform"
+   "lemma": "kuryāt",
+   "morph": "3.sg.opt",
+   "grounds": "kṛ root"
   },
   {
-   "lemma": "prāk-nī",
-   "morph": "3sg.opt.act (√nī) + indecl.",
-   "grounds": "prāṅnayenātha = should-lead-forth-then (prāk + nayet + atha; sandhi form)"
+   "lemma": "prāṅnayenātha",
+   "morph": "(indecl.)",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "bhūyas",
+   "lemma": "bhūyasīm",
    "morph": "f.acc.sg",
-   "grounds": "bhūyasīm = abundant"
+   "grounds": "adjective"
   }
  ]
 }

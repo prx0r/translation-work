@@ -1,61 +1,61 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 315,
  "rows": [
   {
    "lemma": "atra",
-   "morph": "indecl.",
-   "grounds": "atra = here (indeclinable adverb)"
+   "morph": "(indecl.)",
+   "grounds": "adverb"
   },
   {
-   "lemma": "sarva",
+   "lemma": "sarvāṇi",
    "morph": "n.nom.pl",
-   "grounds": "sarvāṇi = all (n.nom.pl of sarva)"
+   "grounds": "sarva"
   },
   {
-   "lemma": "tattva",
+   "lemma": "tattvāni",
    "morph": "n.nom.pl",
-   "grounds": "tattvāni = principles (n.nom.pl of tattva)"
+   "grounds": "tattva"
   },
   {
-   "lemma": "bhedaprāṇa",
-   "morph": "n.nom.pl (bahuvrīhi: bheda+prāṇa)",
-   "grounds": "bhedaprāṇāni = having-difference-as-life (n.nom.pl bahuvrīhi compound: bheda + prāṇa)"
+   "lemma": "bhedaprāṇāni",
+   "morph": "n.nom.pl",
+   "grounds": "compound"
   },
   {
-   "lemma": "yatas",
-   "morph": "indecl.",
-   "grounds": "yattataḥ = because (indeclinable; form appears as yattataḥ, likely yatas)"
+   "lemma": "yattataḥ",
+   "morph": "(indecl.)",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "āsanatva",
-   "morph": "n.ins.sg",
-   "grounds": "āsanatvena = by-being-near (n.ins.sg of āsanatva)"
+   "lemma": "āsanatvena",
+   "morph": "(indecl.)",
+   "grounds": "compound"
   },
   {
-   "lemma": "bhinna",
-   "morph": "m.nom.sg",
-   "grounds": "bhinnaṃ = differentiated (m.nom.sg of bhinna, past passive participle √bhid; form ambiguous with n.nom/acc.sg)"
+   "lemma": "bhinnaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "adjective"
   },
   {
    "lemma": "hi",
-   "morph": "indecl.",
-   "grounds": "hi = indeed (indeclinable particle)"
+   "morph": "(indecl.)",
+   "grounds": "particle"
   },
   {
-   "lemma": "saṃvid",
+   "lemma": "saṃvido",
    "morph": "f.gen.sg",
-   "grounds": "saṃvido = of-consciousness (f.gen.sg of saṃvid)"
+   "grounds": "saṃvid"
   },
   {
-   "lemma": "viṣaya",
+   "lemma": "viṣayaḥ",
    "morph": "m.nom.sg",
-   "grounds": "viṣayaḥ = object (m.nom.sg of viṣaya)"
+   "grounds": "viṣaya"
   },
   {
-   "lemma": "smṛ",
-   "morph": "m.nom.sg (ppp √smṛ)",
-   "grounds": "smṛtaḥ = declared (m.nom.sg past passive participle of √smṛ)"
+   "lemma": "smṛtaḥ",
+   "morph": "part.nom.sg",
+   "grounds": "smṛ root"
   }
  ]
 }

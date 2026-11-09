@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 139,
  "rows": [
   {
-   "lemma": "nyas + jap + api + ca",
-   "morph": "3sg.opt.act √nyas + abs √jap + indecl. + indecl.",
-   "grounds": "Sandhi compound token 'nyasyejjaptvāpica' = nyasyet (should-place, 3sg.opt.act √nyas) + japtvā (having-recited, absolutive √jap) + api (also, indecl.) + ca (and, indecl.)"
+   "lemma": "nyasyejjaptvāpica",
+   "morph": "2.sg.opt",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "jap + ayatna + apavṛkti",
-   "morph": "3sg.opt.act √jap + m.abl.sg + f.dat.sg",
-   "grounds": "Sandhi compound token 'japedayatnādapavṛktaye' = japet (should-recite, 3sg.opt.act √jap) + ayatnāt (with-effort, abl.sg of ayatna) + apavṛktaye (for-removal, dat.sg of apavṛkti)"
+   "lemma": "japedayatnādapavṛktaye",
+   "morph": "3.sg.opt",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "iti + evam",
-   "morph": "indecl. + indecl.",
-   "grounds": "Sandhi compound token 'ityevaṃ' = iti (thus, indecl.) + evam (in-this-way, indecl.)"
+   "lemma": "ityevaṃ",
+   "morph": "(indecl.)",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "mātṛkā",
+   "lemma": "mātṛkāṃ",
    "morph": "f.acc.sg",
-   "grounds": "Gloss 'mātṛkā' = mātṛkām, accusative singular feminine of mātṛkā"
+   "grounds": "accusative"
   },
   {
-   "lemma": "nyas + mālinī",
-   "morph": "3sg.opt.act √nyas + f.acc.sg",
-   "grounds": "Sandhi compound token 'nyasyenmālinīṃ' = nyasyet (should-place, 3sg.opt.act √nyas) + mālinīm (mālinī, acc.sg of mālinī)"
+   "lemma": "nyasyenmālinīṃ",
+   "morph": "2.sg.opt",
+   "grounds": "sandhi"
   },
   {
    "lemma": "vā",
-   "morph": "indecl.",
-   "grounds": "Gloss 'or' = vā, indeclinable particle"
+   "morph": "(indecl.)",
+   "grounds": "particle"
   },
   {
-   "lemma": "krama + dvaya",
-   "morph": "m.abl.sg + n.acc.sg",
-   "grounds": "Sandhi compound token 'kramāddvayam' = kramāt (in-order, abl.sg of krama) + dvayam (the-pair, acc.sg of dvaya)"
+   "lemma": "kramāddvayam",
+   "morph": "n.acc.sg",
+   "grounds": "compound"
   }
  ]
 }

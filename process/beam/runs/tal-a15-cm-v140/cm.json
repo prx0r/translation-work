@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 140,
  "rows": [
   {
-   "lemma": "siddhimuktyanusāra",
-   "morph": "m.abl.sg + indecl.",
-   "grounds": "siddhimuktyanusārāt (abl. sg. of compound siddhi-mukti-anusāra, 'according to success and liberation') + vā ('or')"
+   "lemma": "siddhimuktyanusārādvā",
+   "morph": "(indecl.)",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "varṇa",
-   "morph": "m.acc.pl + indecl.",
-   "grounds": "varṇān (acc. pl. of varṇa, 'syllables') + vā ('or')"
+   "lemma": "varṇānvā",
+   "morph": "m.acc.pl",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "yugapad",
-   "morph": "indecl. + m.gen.du",
-   "grounds": "yugapad ('simultaneously') + dvayoḥ (gen. du. of dvi, 'of the two')"
+   "lemma": "yugapaddvayoḥ",
+   "morph": "m.gen.du",
+   "grounds": "compound"
   },
   {
    "lemma": "akṣahrīṃ",
-   "morph": "indecl.",
-   "grounds": "akṣahrīṃ, mantra/syllable name ('akṣa-hrīṃ')"
+   "morph": "(indecl.)",
+   "grounds": "compound"
   },
   {
-   "lemma": "naphahrīm",
-   "morph": "indecl. + m.nom.du",
-   "grounds": "naphahrīm (mantra/syllable name 'napha-hrīm') + etau (nom. du. m. of etad, 'these two')"
-  },
-  {
-   "lemma": "piṇḍa",
+   "lemma": "naphahrīmetau",
    "morph": "m.nom.du",
-   "grounds": "piṇḍau (nom. du. of piṇḍa, 'the two bodies')"
+   "grounds": "sandhi"
   },
   {
-   "lemma": "saṃghāvihāna",
+   "lemma": "piṇḍau",
+   "morph": "m.nom.du",
+   "grounds": "piṇḍa"
+  },
+  {
+   "lemma": "saṃghāvihānayoḥ",
    "morph": "m.gen.du",
-   "grounds": "saṃghāvihānayoḥ (gen. du. of dvandva compound saṃgha-vihāna, 'of conjunction and separation')"
+   "grounds": "compound"
   }
  ]
 }

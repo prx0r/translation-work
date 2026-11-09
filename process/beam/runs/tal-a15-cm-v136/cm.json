@@ -1,46 +1,46 @@
 {
- "song": "...",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 136,
  "rows": [
   {
-   "lemma": "nyasyet aśaktaśarīrārtha",
-   "morph": "3sg.opt.act √as + aśakta-śarīra-artha (m.acc.sg, tatpuruṣa)",
-   "grounds": "nyasyecchāktaśarīrārthaṃ = should-place-for-incapable-body-purpose; sandhi/compound analysis (AMBIGUOUS segmentation: nyasyet + aśaktaśarīrārtham)"
+   "lemma": "nyasyecchāktaśarīrārthaṃ",
+   "morph": "(indecl.)",
+   "grounds": "compound"
   },
   {
    "lemma": "bhinnayoni",
-   "morph": "m./f.gen.sg (bahuvrīhi/tatpuruṣa)",
-   "grounds": "bhinnayoni = of-different-origin; compound bhinna-yoni"
+   "morph": "f.nom.sg",
+   "grounds": "compound"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "tu = but"
+   "morph": "(indecl.)",
+   "grounds": "particle"
   },
   {
-   "lemma": "mālinī",
+   "lemma": "mālinīm",
    "morph": "f.acc.sg",
-   "grounds": "mālinīm = Mālinī"
+   "grounds": "accusative"
   },
   {
-   "lemma": "viśeṣaṇa idam",
-   "morph": "viśeṣaṇa (n.nom.sg) + idam (n.nom.sg)",
-   "grounds": "viśeṣaṇamidaṃ = this-qualification; sandhi viśeṣaṇam + idam"
+   "lemma": "viśeṣaṇamidaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "hetu",
+   "lemma": "hetau",
    "morph": "m.loc.sg",
-   "grounds": "hetau = in-the-cause"
+   "grounds": "hetu"
   },
   {
-   "lemma": "hetvartha ca",
-   "morph": "hetu-artha (m.nom.sg, tatpuruṣa) + ca (indecl.)",
-   "grounds": "hetvarthaśca = and-meaning-of-cause; sandhi hetvarthaḥ + ca"
+   "lemma": "hetvarthaśca",
+   "morph": "m.nom.sg",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "nirūpita",
-   "morph": "m.nom.sg (past pass. pple, nis-√rūp)",
-   "grounds": "nirūpitaḥ = ascertained"
+   "lemma": "nirūpitaḥ",
+   "morph": "part.nom.sg",
+   "grounds": "nir-ūp root"
   }
  ]
 }

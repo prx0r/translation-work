@@ -1,46 +1,46 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 135,
  "rows": [
   {
-   "lemma": "mantra",
+   "lemma": "mantrā",
    "morph": "m.nom.pl",
-   "grounds": "mantrāḥ = mantras (nom. pl. masc.)"
+   "grounds": "mantra"
   },
   {
-   "lemma": "nyas",
-   "morph": "m.nom.pl.ppp (√nyas)",
-   "grounds": "nyastāḥ = installed (past passive participle, nom. pl. masc.)"
+   "lemma": "nyastāḥ",
+   "morph": "part.nom.pl",
+   "grounds": "nyas root"
   },
   {
-   "lemma": "punarnyāsāt pūray",
-   "morph": "compound+m.abl.sg + 3pl.pres.pass (√pṝ)",
-   "grounds": "punarnyāsāt = by reinstallation (abl. sg.); pūryante = are fulfilled (3pl. pres. passive)"
+   "lemma": "punarnyāsātpūryante",
+   "morph": "3.pl.pass-pres",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "tatphalaprada",
+   "lemma": "tatphalapradāḥ",
    "morph": "m.nom.pl",
-   "grounds": "tatphalapradāḥ = granting their fruit (bahuvrīhi/tatpuruṣa compound, nom. pl. masc.)"
+   "grounds": "compound"
   },
   {
-   "lemma": "vac",
-   "morph": "n.nom.sg.ppp (√vac)",
-   "grounds": "uktam = stated (past passive participle, nom. sg. neut.)"
+   "lemma": "uktaṃ",
+   "morph": "part.nom.sg",
+   "grounds": "vac root"
   },
   {
-   "lemma": "śrīpūrvatantra",
+   "lemma": "śrīpūrvatantre",
    "morph": "n.loc.sg",
-   "grounds": "śrīpūrvatantre = in Śrīpūrva-tantra (loc. sg. neut. compound)"
+   "grounds": "compound"
   },
   {
    "lemma": "ca",
-   "morph": "indecl.",
-   "grounds": "ca = and (indeclinable conjunction)"
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
   },
   {
-   "lemma": "viśeṣavidhihīna",
-   "morph": "m.loc.sg",
-   "grounds": "viśeṣavidhihīnite = in absence of special rite (bahuvrīhi compound, loc. sg. masc./neut. context; AMBIGUOUS gender but form indicates loc. sg.)"
+   "lemma": "viśeṣavidhihīnite",
+   "morph": "loc.sg",
+   "grounds": "compound"
   }
  ]
 }

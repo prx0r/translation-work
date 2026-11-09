@@ -1,31 +1,31 @@
 {
- "song": "...",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 313,
  "rows": [
   {
-   "lemma": "tad",
+   "lemma": "tasya",
    "morph": "m.gen.sg",
-   "grounds": "tasya = of-that (gen.sg of tad)"
+   "grounds": "pronoun"
   },
   {
-   "lemma": "nābhyutthita",
-   "morph": "n.nom.sg (ppp compound member: nābhi+utthita)",
-   "grounds": "nābhyutthitaṃ = risen-from-navel (nābhi 'navel' + utthita 'risen', neuter nom/acc sg; context suggests nom.sg)"
+   "lemma": "nābhyutthitaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "compound"
   },
   {
-   "lemma": "mūrdharandhratrayavinirgata",
-   "morph": "n.nom.sg (ppp compound: mūrdhan+randhra+traya+vinirgata)",
-   "grounds": "mūrdharandhratrayavinirgatam = emerged-from-three-skull-apertures (compound of mūrdhan 'skull/head', randhra 'aperture', traya 'three', vinirgata 'emerged'; neuter nom/acc sg; context suggests nom.sg)"
+   "lemma": "mūrdharandhratrayavinirgatam",
+   "morph": "n.acc.sg",
+   "grounds": "compound"
   },
   {
-   "lemma": "nādāntātman",
-   "morph": "m.nom.sg (bahuvrīhi compound: nāda+anta+ātman)",
-   "grounds": "nādāntātma = whose-nature-is-nādānta (bahuvrīhi: nāda 'sound', anta 'end', ātman 'nature/self'; masc.nom.sg)"
+   "lemma": "nādāntātma",
+   "morph": "m.acc.sg",
+   "grounds": "compound"
   },
   {
-   "lemma": "smarecchaktivyāpinīsamanojjvala",
-   "morph": "n.nom.sg (compound: smṛ+icchā+śakti+vyāpinī+samanā+ujjvala)",
-   "grounds": "smarecchaktivyāpinīsamanojjvalam = radiant-with-śakti-vyāpinī-samanā-to-be-remembered (complex compound: smara/smaret 'to be remembered', icchā 'will', śakti 'power', vyāpinī 'pervading', samanā 'equalizing', ujjvala 'radiant'; neuter nom/acc sg; context suggests nom.sg; AMBIGUOUS internal segmentation)"
+   "lemma": "smarecchaktivyāpinīsamanojjvalam",
+   "morph": "3.sg.opt",
+   "grounds": "sandhi"
   }
  ]
 }

@@ -1,0 +1,1520 @@
+{
+ "song": "a15",
+ "items": [
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "ekatvena",
+     "gloss": "as-one",
+     "grounds": "adverbial instrumental sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smarantīti",
+     "gloss": "they-remember-thus",
+     "grounds": "smṛ root",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "śaṃbhunātho",
+     "gloss": "lord-śambhu",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirūcivān",
+     "gloss": "declared",
+     "grounds": "nir-ūc root",
+     "morph": "3.sg.act-perf"
+    },
+    {
+     "surface": "śabdarāśirmālinī",
+     "gloss": "sound-array-mālinī",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaśaktyātmakaṃ",
+     "gloss": "made-of-śiva-śakti",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tvidam",
+     "gloss": "this-indeed",
+     "grounds": "sandhi t+idam",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does Śambhunātha declare the sound-array Mālinī?",
+   "premises": [
+    "Mālinī is the sound array.",
+    "It is Śiva-Śakti in nature.",
+    "It is remembered as one."
+   ],
+   "inference": "The verse presents Mālinī as the Śiva-Śakti sound array declared by Śambhunātha.",
+   "uncertainties": [
+    "Exact parsing of tvidam sandhi."
+   ],
+   "plain_english": "Śambhunātha declared that this sound-array Mālinī is of the nature of Śiva and Śakti, remembered as one."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "ekaikatrāpi",
+     "gloss": "even-in-each-one",
+     "grounds": "reduplicated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇatvācchivaśaktisvabhāvatā",
+     "gloss": "fullness-śiva-śakti-nature",
+     "grounds": "sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhraṣṭe",
+     "gloss": "when-lost",
+     "grounds": "bhraṃś root",
+     "morph": "loc.sg.part"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "in-rite",
+     "grounds": "vidhi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vīrye",
+     "gloss": "in-power",
+     "grounds": "vīrya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svarūpe",
+     "gloss": "in-own-form",
+     "grounds": "sva-rūpa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vānayā",
+     "gloss": "or-by-this",
+     "grounds": "sandhi",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Why is each one full by Śiva-Śakti nature?",
+   "premises": [
+    "Each is full.",
+    "Its nature is Śiva-Śakti.",
+    "Loss in rite, power, or form is restored by this."
+   ],
+   "inference": "Because each is full by Śiva-Śakti nature, this restores what is lost.",
+   "uncertainties": [
+    "Parsing of vānayā."
+   ],
+   "plain_english": "Because each is full by Śiva-Śakti nature, this restores what is lost in rite, power, or form."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "mantra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nyastāḥ",
+     "gloss": "placed",
+     "grounds": "nyas root",
+     "morph": "part.nom.pl"
+    },
+    {
+     "surface": "punarnyāsātpūryante",
+     "gloss": "are-filled-by-replacement",
+     "grounds": "sandhi",
+     "morph": "3.pl.pass-pres"
+    },
+    {
+     "surface": "tatphalapradāḥ",
+     "gloss": "giving-that-fruit",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "vac root",
+     "morph": "part.nom.sg"
+    },
+    {
+     "surface": "śrīpūrvatantre",
+     "gloss": "in-śrī-pūrva-tantra",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣavidhihīnite",
+     "gloss": "lacking-special-rite",
+     "grounds": "compound",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What happens when mantras are placed and replaced?",
+   "premises": [
+    "Placed mantras are filled by replacement.",
+    "They give that fruit.",
+    "This is said in Śrīpūrvatantra."
+   ],
+   "inference": "Replacement of placed mantras makes them fruit-giving as stated in Śrīpūrvatantra.",
+   "uncertainties": [
+    "Exact sense of viśeṣavidhihīnite."
+   ],
+   "plain_english": "Mantras that are placed are filled by replacement and give that fruit, as said in Śrīpūrvatantra, even without special rite."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "nyasyecchāktaśarīrārthaṃ",
+     "gloss": "for-desire-active-body-purpose",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhinnayoni",
+     "gloss": "different-source",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālinīm",
+     "gloss": "mālinī",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viśeṣaṇamidaṃ",
+     "gloss": "this-qualifier",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hetau",
+     "gloss": "as-cause",
+     "grounds": "hetu",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hetvarthaśca",
+     "gloss": "and-cause-meaning",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirūpitaḥ",
+     "gloss": "determined",
+     "grounds": "nir-ūp root",
+     "morph": "part.nom.sg"
+    }
+   ],
+   "question": "Why is Mālinī placed for the desire-active body?",
+   "premises": [
+    "Mālinī is placed for desire-active body purpose.",
+    "The qualifier is determined as cause and cause-meaning.",
+    "The source is different."
+   ],
+   "inference": "Mālinī is placed for that purpose because the qualifier is determined as cause and cause-meaning.",
+   "uncertainties": [
+    "Parsing of nyasyecchāktaśarīrārthaṃ."
+   ],
+   "plain_english": "For the purpose of the desire-active body, Mālinī is placed; this qualifier is determined as cause and cause-meaning, though the source differs."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "yatheṣṭaphalasiddhyai",
+     "gloss": "for-desired-fruit-accomplishment",
+     "grounds": "compound",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "cetyatraivedamabhāṣata",
+     "gloss": "and-here-this-was-spoken",
+     "grounds": "sandhi",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "sāñjanā",
+     "gloss": "with-collyrium",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "mantra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gāruḍādyā",
+     "gloss": "garuḍa-and-others",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which mantras are not supreme for desired fruit?",
+   "premises": [
+    "This was spoken here for desired fruit accomplishment.",
+    "Even mantras with collyrium, Garuḍa and others, are not supreme."
+   ],
+   "inference": "The verse excludes those mantras from supremacy for desired fruit accomplishment.",
+   "uncertainties": [
+    "Meaning of sāñjanā."
+   ],
+   "plain_english": "This was spoken here for accomplishing the desired fruit: even mantras with collyrium, Garuḍa and others, are not supreme."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "mālinyā",
+     "gloss": "by-mālinī",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pūritāḥ",
+     "gloss": "filled",
+     "grounds": "pūr root",
+     "morph": "part.nom.pl"
+    },
+    {
+     "surface": "sidhdyai",
+     "gloss": "for-accomplishment",
+     "grounds": "siddhi",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "balādeva",
+     "gloss": "by-strength-indeed",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktaye",
+     "gloss": "for-liberation",
+     "grounds": "mukti",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "tasmātphalepsurapyanya",
+     "gloss": "therefore-fruit-desiring-even-another",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyasyātra",
+     "gloss": "place-here",
+     "grounds": "sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālinīm",
+     "gloss": "mālinī",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Why place Mālinī for another mantra?",
+   "premises": [
+    "Filled by Mālinī, they accomplish by strength.",
+    "For liberation, another mantra is placed here as Mālinī."
+   ],
+   "inference": "For liberation, even a fruit-desiring person places another mantra here as Mālinī.",
+   "uncertainties": [
+    "Parsing of tasmātphalepsurapyanya."
+   ],
+   "plain_english": "Filled by Mālinī, they accomplish by strength; but for liberation, even one desiring fruit places another mantra here as Mālinī."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "nyasyejjaptvāpica",
+     "gloss": "place-after-reciting-and",
+     "grounds": "sandhi",
+     "morph": "2.sg.opt"
+    },
+    {
+     "surface": "japedayatnādapavṛktaye",
+     "gloss": "recite-without-effort-for-release",
+     "grounds": "sandhi",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus-indeed",
+     "grounds": "sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkāṃ",
+     "gloss": "mātṛkā",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyasyenmālinīṃ",
+     "gloss": "place-mālinī",
+     "grounds": "sandhi",
+     "morph": "2.sg.opt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāddvayam",
+     "gloss": "in-order-both",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should Mātṛkā or Mālinī be placed?",
+   "premises": [
+    "Place after reciting, and recite without effort for release.",
+    "Thus place Mātṛkā or Mālinī in order, both."
+   ],
+   "inference": "The verse gives an ordered option of placing Mātṛkā or Mālinī with recitation for release.",
+   "uncertainties": [
+    "Parsing of nyasyejjaptvāpica."
+   ],
+   "plain_english": "Place after reciting, and recite without effort for release; thus place Mātṛkā or Mālinī in order, both."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "siddhimuktyanusārādvā",
+     "gloss": "according-to-accomplishment-liberation-or",
+     "grounds": "sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇānvā",
+     "gloss": "or-letters",
+     "grounds": "sandhi",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yugapaddvayoḥ",
+     "gloss": "simultaneously-of-both",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "akṣahrīṃ",
+     "gloss": "akṣa-hrīṃ",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naphahrīmetau",
+     "gloss": "napha-hrīṃ-these-two",
+     "grounds": "sandhi",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "piṇḍau",
+     "gloss": "masses",
+     "grounds": "piṇḍa",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "saṃghāvihānayoḥ",
+     "gloss": "of-union-and-separation",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "How are letters placed for accomplishment and liberation?",
+   "premises": [
+    "According to accomplishment or liberation, letters are placed.",
+    "Both simultaneously use akṣa-hrīṃ and napha-hrīṃ.",
+    "These are masses of union and separation."
+   ],
+   "inference": "Letters are placed according to accomplishment or liberation using the two masses.",
+   "uncertainties": [
+    "Meaning of akṣahrīṃ and naphahrīṃ."
+   ],
+   "plain_english": "According to accomplishment or liberation, letters are placed; both simultaneously use akṣa-hrīṃ and napha-hrīṃ, masses of union and separation."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "vācakau",
+     "gloss": "expressive-ones",
+     "grounds": "vācaka",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "nyāsa",
+     "gloss": "placement",
+     "grounds": "nyāsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "etābhyāṃ",
+     "gloss": "by-these-two",
+     "grounds": "pronoun",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-done",
+     "grounds": "kṛ root",
+     "morph": "loc.sg.part"
+    },
+    {
+     "surface": "nyāse@thavaikakaḥ",
+     "gloss": "placement-or-single",
+     "grounds": "sandhi with @",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cāṅgatanubrahmayukto",
+     "gloss": "with-limb-body-brahma",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadviparyayaḥ",
+     "gloss": "its-reverse",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What follows when placement is done by these two?",
+   "premises": [
+    "The expressive ones are placement.",
+    "When placement is done by these two, it is single or with limb-body-Brahma.",
+    "Or it is the reverse."
+   ],
+   "inference": "Placement by these two yields either a single form or its reverse with limb-body-Brahma.",
+   "uncertainties": [
+    "Parsing of nyāse@thavaikakaḥ."
+   ],
+   "plain_english": "The expressive ones are placement; when placement is done by these two, it is single or with limb-body-Brahma, or its reverse."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "sāmudāyikavinyāse",
+     "gloss": "in-collective-placement",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍāvimau",
+     "gloss": "these-two-masses",
+     "grounds": "sandhi",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "krama",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akramādathavā",
+     "gloss": "or-without-order",
+     "grounds": "sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyasyedekamevātha",
+     "gloss": "place-only-one-then",
+     "grounds": "sandhi",
+     "morph": "2.sg.opt"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "yuj root",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How are the two masses placed in collective placement?",
+   "premises": [
+    "In collective placement, the two masses are separate.",
+    "They are placed in order or without order.",
+    "Then place only one and join."
+   ],
+   "inference": "Collective placement allows ordered or unordered separate masses, then one is placed and joined.",
+   "uncertainties": [
+    "Parsing of nyasyedekamevātha."
+   ],
+   "plain_english": "In collective placement, the two masses are separate; they are placed in order or without order, then place only one and join."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "kriyayā",
+     "gloss": "by-rite",
+     "grounds": "kriyā",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "siddhikāmo",
+     "gloss": "desiring-accomplishment",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kriyāṃ",
+     "gloss": "rite",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhūyasīṃ",
+     "gloss": "more",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "car root",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "anīpsurapi",
+     "gloss": "even-not-desiring",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yastasmai",
+     "gloss": "to-whom",
+     "grounds": "sandhi",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "bhūyase",
+     "gloss": "for-more",
+     "grounds": "adjective",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "svaphalāya",
+     "gloss": "for-own-fruit",
+     "grounds": "compound",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who should perform more rite?",
+   "premises": [
+    "One desiring accomplishment by rite should perform more rite.",
+    "Even one not desiring, for him that rite is for more own fruit."
+   ],
+   "inference": "The verse distinguishes the desiring performer from the non-desiring recipient of fruit.",
+   "uncertainties": [
+    "Parsing of yastasmai."
+   ],
+   "plain_english": "One desiring accomplishment by rite should perform more rite; even one not desiring receives that rite for more of his own fruit."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "yastu",
+     "gloss": "but-who",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyānajapābhyāsaiḥ",
+     "gloss": "by-meditation-recitation-practice",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "siddhīpsuḥ",
+     "gloss": "desiring-accomplishment",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kriyāṃ",
+     "gloss": "rite",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃskṛtyai",
+     "gloss": "for-purification",
+     "grounds": "saṃskṛti",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "svecchayā",
+     "gloss": "by-own-will",
+     "grounds": "compound",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "kṛ root",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "prāṅnayenātha",
+     "gloss": "then-by-prior-rule",
+     "grounds": "sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyasīm",
+     "gloss": "more",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should one desiring accomplishment by meditation and recitation act?",
+   "premises": [
+    "One desiring accomplishment by meditation and recitation should do rite for purification.",
+    "By own will he does it.",
+    "Then more by prior rule."
+   ],
+   "inference": "Such a person performs rite for purification by will, then more according to prior rule.",
+   "uncertainties": [
+    "Parsing of prāṅnayenātha."
+   ],
+   "plain_english": "One desiring accomplishment by meditation and recitation should do rite for purification by his own will, then more according to prior rule."
+  },
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nābhyutthitaṃ",
+     "gloss": "risen-from-navel",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūrdharandhratrayavinirgatam",
+     "gloss": "exited-three-crown-openings",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nādāntātma",
+     "gloss": "sound-end-self",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smarecchaktivyāpinīsamanojjvalam",
+     "gloss": "remember-śakti-pervading-mind-bright",
+     "grounds": "sandhi",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What should one remember rising from the navel?",
+   "premises": [
+    "From him, risen from the navel, exited through three crown openings.",
+    "Remember sound-end self, Śakti-pervading, mind-bright."
+   ],
+   "inference": "The verse instructs remembering the sound-end self pervaded by Śakti and bright in mind.",
+   "uncertainties": [
+    "Parsing of nādāntātma."
+   ],
+   "plain_english": "Remember the sound-end self, pervaded by Śakti and bright in mind, risen from the navel and exited through the three crown openings."
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "arātrayaṃ",
+     "gloss": "three-spokes",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dviṣaṭkāntaṃ",
+     "gloss": "twelve-ended",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatrāpyaunmanasaṃ",
+     "gloss": "there-also-beyond-mind",
+     "grounds": "sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṅkajānāṃ",
+     "gloss": "of-lotuses",
+     "grounds": "paṅkaja",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sitaṃ",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saptatriṃśadātmedamāsanam",
+     "gloss": "thirty-seven-self-this-seat",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the thirty-seven-self seat?",
+   "premises": [
+    "Three spokes, twelve-ended, there also beyond-mind three.",
+    "Of lotuses white, this is the thirty-seven-self seat."
+   ],
+   "inference": "The verse identifies a white lotus seat of thirty-seven selves with beyond-mind triad.",
+   "uncertainties": [
+    "Parsing of saptatriṃśadātmedamāsanam."
+   ],
+   "plain_english": "Three spokes, twelve-ended, there also beyond-mind three; of white lotuses, this is the thirty-seven-self seat."
+  },
+  {
+   "verse": 315,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "sarva",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tattvāni",
+     "gloss": "principles",
+     "grounds": "tattva",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhedaprāṇāni",
+     "gloss": "having-distinction-breath",
+     "grounds": "compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yattataḥ",
+     "gloss": "which-from-that",
+     "grounds": "sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanatvena",
+     "gloss": "as-seat",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhinnaṃ",
+     "gloss": "distinct",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvido",
+     "gloss": "of-consciousness",
+     "grounds": "saṃvid",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "viṣayaḥ",
+     "gloss": "object",
+     "grounds": "viṣaya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "smṛ root",
+     "morph": "part.nom.sg"
+    }
+   ],
+   "question": "How are all principles remembered here?",
+   "premises": [
+    "Here all principles with distinction-breath.",
+    "From that, distinct as seat, indeed object of consciousness is remembered."
+   ],
+   "inference": "All principles are remembered as distinct seat and object of consciousness.",
+   "uncertainties": [
+    "Parsing of yattataḥ."
+   ],
+   "plain_english": "Here all principles with distinction-breath; from that, distinct as seat, indeed the object of consciousness is remembered."
+  },
+  {
+   "verse": 316,
+   "rows": [
+    {
+     "surface": "etānyeva",
+     "gloss": "these-very",
+     "grounds": "sandhi",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvāni",
+     "gloss": "principles",
+     "grounds": "tattva",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "līnāni",
+     "gloss": "dissolved",
+     "grounds": "lī root",
+     "morph": "part.nom.pl"
+    },
+    {
+     "surface": "parabhairave",
+     "gloss": "in-supreme-bhairava",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tādātmyenātha",
+     "gloss": "then-by-identity",
+     "grounds": "sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sṛṣṭāni",
+     "gloss": "created",
+     "grounds": "sṛj root",
+     "morph": "part.nom.pl"
+    },
+    {
+     "surface": "bhidevārcyatvayojane",
+     "gloss": "in-distinction-deva-worship-joining",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What happens to these principles in supreme Bhairava?",
+   "premises": [
+    "These very principles are dissolved in supreme Bhairava.",
+    "Then by identity they are created in distinction-deva-worship-joining."
+   ],
+   "inference": "The principles dissolve in supreme Bhairava and are recreated in worship-joining.",
+   "uncertainties": [
+    "Parsing of bhidevārcyatvayojane."
+   ],
+   "plain_english": "These very principles are dissolved in supreme Bhairava; then by identity they are created in distinction-deva-worship-joining."
+  },
+  {
+   "verse": 317,
+   "rows": [
+    {
+     "surface": "śrīmadbhairavabodhaikyalābhasvātantryavanti",
+     "gloss": "having-śrī-bhairava-knowledge-unity-gain-freedom",
+     "grounds": "compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etānyeva",
+     "gloss": "these-very",
+     "grounds": "sandhi",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvāni",
+     "gloss": "principles",
+     "grounds": "tattva",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pūjakatvaṃ",
+     "gloss": "worshipper-hood",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayāntyalam",
+     "gloss": "attain-enough",
+     "grounds": "sandhi",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "What do these principles attain?",
+   "premises": [
+    "Having Śrī Bhairava knowledge-unity gain freedom, these very principles attain worshipper-hood enough."
+   ],
+   "inference": "The principles attain worshipper-hood through Śrī Bhairava knowledge-unity freedom.",
+   "uncertainties": [
+    "Parsing of śrīmadbhairavabodhaikyalābhasvātantryavanti."
+   ],
+   "plain_english": "Having Śrī Bhairava knowledge-unity gain freedom, these very principles attain worshipper-hood enough."
+  },
+  {
+   "verse": 318,
+   "rows": [
+    {
+     "surface": "pūjakaḥ",
+     "gloss": "worshipper",
+     "grounds": "pūjaka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paratattvātmā",
+     "gloss": "supreme-principle-self",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjyaṃ",
+     "gloss": "worshipped",
+     "grounds": "pūjya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "tattva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parāparam",
+     "gloss": "supreme-inferior",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭatvādaparaṃ",
+     "gloss": "because-created-inferior",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvajālamāsanatāspadam",
+     "gloss": "principle-net-seat-state-foundation",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the worshipper and worshipped?",
+   "premises": [
+    "The worshipper is supreme-principle self.",
+    "The worshipped principle is supreme-inferior.",
+    "Because created, inferior principle-net is seat-state foundation."
+   ],
+   "inference": "Worshipper is supreme self; worshipped principle ranges from supreme to inferior created net.",
+   "uncertainties": [
+    "Parsing of tattvajālamāsanatāspadam."
+   ],
+   "plain_english": "The worshipper is supreme-principle self; the worshipped principle is supreme-inferior, and because created, the inferior principle-net is the seat-state foundation."
+  },
+  {
+   "verse": 319,
+   "rows": [
+    {
+     "surface": "vidyākalāntaṃ",
+     "gloss": "ending-at-vidyā-kalā",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "siddhānte",
+     "gloss": "in-siddhānta",
+     "grounds": "siddhānta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāmadakṣiṇaśāstrayoḥ",
+     "gloss": "of-left-right-scriptures",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "sadāśivāntaṃ",
+     "gloss": "ending-at-sadāśiva",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samanāparyantaṃ",
+     "gloss": "ending-at-samanā",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "matayāmale",
+     "gloss": "in-mata-yāmala",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What are the scriptural endpoints?",
+   "premises": [
+    "Ending at vidyā-kalā in Siddhānta.",
+    "Ending at Sadāśiva in left-right scriptures.",
+    "Ending at Samanā in Mata Yāmala."
+   ],
+   "inference": "Different scriptures have different endpoints: vidyā-kalā, Sadāśiva, or Samanā.",
+   "uncertainties": [
+    "Meaning of samanā."
+   ],
+   "plain_english": "In Siddhānta it ends at vidyā-kalā; in left-right scriptures at Sadāśiva; in Mata Yāmala at Samanā."
+  },
+  {
+   "verse": 320,
+   "rows": [
+    {
+     "surface": "unmanāntamihākhyātamityetatparamāsanam",
+     "gloss": "ending-at-unmanā-here-called-this-supreme-seat",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arcayitvāsanaṃ",
+     "gloss": "having-worshipped-seat",
+     "grounds": "sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "worshipped",
+     "grounds": "pūjya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gurupaṅktistu",
+     "gloss": "but-guru-line",
+     "grounds": "sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāvivat",
+     "gloss": "as-bhāvin",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the supreme seat here?",
+   "premises": [
+    "Ending at unmanā, here called this supreme seat.",
+    "Having worshipped the seat, the worshipped guru line is as Bhāvin."
+   ],
+   "inference": "The supreme seat ends at unmanā; after worship, the guru line is worshipped as Bhāvin.",
+   "uncertainties": [
+    "Parsing of unmanāntamihākhyātamityetatparamāsanam."
+   ],
+   "plain_english": "Ending at unmanā, here called this supreme seat; having worshipped the seat, the worshipped guru line is as Bhāvin."
+  },
+  {
+   "verse": 321,
+   "rows": [
+    {
+     "surface": "tatrāsane",
+     "gloss": "in-that-seat",
+     "grounds": "sandhi",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrtibhūtāṃ",
+     "gloss": "embodied",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sārdhākṣarāṃ",
+     "gloss": "with-half-syllable",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dvayīm",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyasyedvyāptṛtayetyuktaṃ",
+     "gloss": "place-as-pervader-ness-thus-said",
+     "grounds": "sandhi",
+     "morph": "2.sg.opt"
+    },
+    {
+     "surface": "siddhayogīśvarīmate",
+     "gloss": "in-siddha-yogīśvarī-mata",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is placed in that seat?",
+   "premises": [
+    "In that seat, formerly embodied, with half-syllable, two.",
+    "Place as pervader-ness, thus said in Siddha Yogīśvarī Mata."
+   ],
+   "inference": "In that seat one places the two embodied half-syllable forms as pervader-ness.",
+   "uncertainties": [
+    "Parsing of nyasyedvyāptṛtayetyuktaṃ."
+   ],
+   "plain_english": "In that seat, formerly embodied, with half-syllable, two; place as pervader-ness, thus said in Siddha Yogīśvarī Mata."
+  },
+  {
+   "verse": 322,
+   "rows": [
+    {
+     "surface": "sadāśivaṃ",
+     "gloss": "sadāśiva",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahāpretaṃ",
+     "gloss": "great-preta",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mūrtiṃ",
+     "gloss": "image",
+     "grounds": "mūrti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sārdhākṣarāṃ",
+     "gloss": "with-half-syllable",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "yaj root",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "paratvena",
+     "gloss": "as-supreme",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāmūrdhve",
+     "gloss": "supreme-above",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhapuṣpādibhistviti",
+     "gloss": "with-incense-flowers-etc-thus",
+     "grounds": "sandhi",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should Sadāśiva be worshipped?",
+   "premises": [
+    "Worship Sadāśiva, great preta image, with half-syllable.",
+    "As supreme, supreme above, with incense, flowers, etc., thus."
+   ],
+   "inference": "Sadāśiva is worshipped as supreme above with incense, flowers, and other offerings.",
+   "uncertainties": [
+    "Meaning of mahāpretaṃ."
+   ],
+   "plain_english": "Worship Sadāśiva, great preta image, with half-syllable, as supreme above, with incense, flowers, etc., thus."
+  },
+  {
+   "verse": 323,
+   "rows": [
+    {
+     "surface": "vidyāmūrtimathātmākhyāṃ",
+     "gloss": "vidyā-image-then-self-named",
+     "grounds": "sandhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dvitīyāṃ",
+     "gloss": "second",
+     "grounds": "numeral",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-imagine",
+     "grounds": "pari-kḷp root",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavasadbhāvaṃ",
+     "gloss": "bhairava-true-being",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratiśekharam",
+     "gloss": "rati-crest",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the second image imagined?",
+   "premises": [
+    "Imagine the vidyā-image, then self-named, second.",
+    "In middle Bhairava true-being; on right Rati-crest."
+   ],
+   "inference": "The second image is imagined with Bhairava true-being in the middle and Rati-crest on the right.",
+   "uncertainties": [
+    "Parsing of vidyāmūrtimathātmākhyāṃ."
+   ],
+   "plain_english": "Imagine the vidyā-image, then self-named, second; in the middle Bhairava true-being, on the right Rati-crest."
+  },
+  {
+   "verse": 324,
+   "rows": [
+    {
+     "surface": "navātmānaṃ",
+     "gloss": "nine-self",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmatastaddevīvadbhairavatrayam",
+     "gloss": "on-left-that-devī-like-bhairava-triad",
+     "grounds": "sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrṇacandrapratimāṃ",
+     "gloss": "full-moon-image",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the nine-self and triad arranged?",
+   "premises": [
+    "Nine-self; on left that devī-like Bhairava triad.",
+    "In middle supreme full-moon image; on right again."
+   ],
+   "inference": "The arrangement places the triad on the left, supreme full-moon image in the middle, and again on the right.",
+   "uncertainties": [
+    "Parsing of vāmatastaddevīvadbhairavatrayam."
+   ],
+   "plain_english": "Nine-self; on the left that devī-like Bhairava triad; in the middle supreme full-moon image; on the right again."
+  }
+ ]
+}

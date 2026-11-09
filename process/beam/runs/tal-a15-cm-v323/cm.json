@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 323,
  "rows": [
   {
-   "lemma": "vidyāmūrti-atha-ātman-ākhyā",
-   "morph": "f.acc.sg (compound)",
-   "grounds": "vidyāmūrtim (knowledge-form) + atha (then) + ātmākhyām (self-named), acc.sg"
-  },
-  {
-   "lemma": "dvitīya",
+   "lemma": "vidyāmūrtimathātmākhyāṃ",
    "morph": "f.acc.sg",
-   "grounds": "dvitīyāṃ = second (f.acc.sg)"
+   "grounds": "sandhi"
   },
   {
-   "lemma": "parikalpay",
-   "morph": "3sg.opt.act √kḷp",
-   "grounds": "parikalpayet = one-should-visualize (optative)"
+   "lemma": "dvitīyāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "numeral"
   },
   {
-   "lemma": "madhya",
-   "morph": "n.loc.sg",
-   "grounds": "madhye = in-the-middle (loc.sg)"
+   "lemma": "parikalpayet",
+   "morph": "3.sg.opt",
+   "grounds": "pari-kḷp root"
   },
   {
-   "lemma": "bhairava-sadbhāva",
-   "morph": "m.acc.sg (compound)",
-   "grounds": "bhairava (Bhairava) + sadbhāvam (true-being), acc.sg"
+   "lemma": "madhye",
+   "morph": "(indecl.)",
+   "grounds": "adverb"
   },
   {
-   "lemma": "dakṣiṇa",
-   "morph": "n.loc.sg",
-   "grounds": "dakṣiṇe = on-the-right (loc.sg)"
-  },
-  {
-   "lemma": "ratiśekhara",
+   "lemma": "bhairavasadbhāvaṃ",
    "morph": "m.acc.sg",
-   "grounds": "ratiśekharam = Ratiśekhara (acc.sg)"
+   "grounds": "compound"
+  },
+  {
+   "lemma": "dakṣiṇe",
+   "morph": "(indecl.)",
+   "grounds": "adverb"
+  },
+  {
+   "lemma": "ratiśekharam",
+   "morph": "m.acc.sg",
+   "grounds": "compound"
   }
  ]
 }

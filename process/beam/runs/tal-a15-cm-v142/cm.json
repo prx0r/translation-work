@@ -1,41 +1,41 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 142,
  "rows": [
   {
-   "lemma": "sāmudāyika-vinyāsa",
+   "lemma": "sāmudāyikavinyāse",
    "morph": "m.loc.sg",
-   "grounds": "sāmudāyikavinyāse = in-collective-placement"
+   "grounds": "compound"
   },
   {
    "lemma": "pṛthak",
-   "morph": "indecl.",
-   "grounds": "pṛthak = separately"
+   "morph": "(indecl.)",
+   "grounds": "adverb"
   },
   {
-   "lemma": "piṇḍa",
+   "lemma": "piṇḍāvimau",
    "morph": "m.nom.du",
-   "grounds": "piṇḍāvimau = these-two-masses (piṇḍau + imau)"
+   "grounds": "sandhi"
   },
   {
-   "lemma": "krama",
-   "morph": "m.abl.sg",
-   "grounds": "kramāt = in-order"
+   "lemma": "kramāt",
+   "morph": "(indecl.)",
+   "grounds": "krama"
   },
   {
-   "lemma": "akrama-athavā",
-   "morph": "indecl.+indecl.",
-   "grounds": "akramādathavā = or-not-in-order (akramāt + athavā)"
+   "lemma": "akramādathavā",
+   "morph": "(indecl.)",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "nyas-ekam-eva-atha",
-   "morph": "3sg.opt.act √nyas + n.acc.sg + indecl. + indecl.",
-   "grounds": "nyasyedekamevātha = one-should-place-one-only-then (nyasyet + ekam + eva + atha)"
+   "lemma": "nyasyedekamevātha",
+   "morph": "2.sg.opt",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "yojay",
-   "morph": "3sg.opt.act √yuj",
-   "grounds": "yojayet = one-should-join"
+   "lemma": "yojayet",
+   "morph": "3.sg.opt",
+   "grounds": "yuj root"
   }
  ]
 }

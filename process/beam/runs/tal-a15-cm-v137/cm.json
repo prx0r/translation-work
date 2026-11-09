@@ -1,56 +1,56 @@
 {
- "song": "",
- "verse": 0,
+ "song": "tal-a15",
+ "verse": 137,
  "rows": [
   {
-   "lemma": "yatheṣṭaphalasiddhi",
+   "lemma": "yatheṣṭaphalasiddhyai",
    "morph": "f.dat.sg",
-   "grounds": "yatheṣṭaphalasiddhyai = for-accomplishment-of-desired-fruit (dative of purpose)"
+   "grounds": "compound"
   },
   {
-   "lemma": "ca+iti+atra+eva+idam+abhāṣata",
-   "morph": "sandhi/compound: ca(indecl.)+iti(indecl.)+atra(indecl.)+eva(indecl.)+idam(n.nom/acc.sg)+abhāṣata(3sg.imperf.mid √bhāṣ)",
-   "grounds": "cetyatraivedamabhāṣata = thus-here-indeed-this-he-spoke (sandhi of multiple words)"
+   "lemma": "cetyatraivedamabhāṣata",
+   "morph": "3.sg.act-aor",
+   "grounds": "sandhi"
   },
   {
-   "lemma": "sāñjana",
-   "morph": "m.nom.pl",
-   "grounds": "sāñjanā = with-collyrium (sa- + añjana, nominative plural)"
+   "lemma": "sāñjanā",
+   "morph": "f.nom.sg",
+   "grounds": "compound"
   },
   {
    "lemma": "api",
-   "morph": "indecl.",
-   "grounds": "api = also"
+   "morph": "(indecl.)",
+   "grounds": "particle"
   },
   {
-   "lemma": "yad",
+   "lemma": "ye",
    "morph": "m.nom.pl",
-   "grounds": "ye = which (relative pronoun, nominative plural masculine)"
+   "grounds": "relative"
   },
   {
-   "lemma": "mantra",
+   "lemma": "mantrā",
    "morph": "m.nom.pl",
-   "grounds": "mantrā = mantras (nominative plural masculine)"
+   "grounds": "mantra"
   },
   {
-   "lemma": "gāruḍādi",
+   "lemma": "gāruḍādyā",
    "morph": "m.nom.pl",
-   "grounds": "gāruḍādyā = garuda-and-others (bahuvrīhi/ādi compound, nominative plural masculine)"
+   "grounds": "compound"
   },
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "na = not"
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "tad",
+   "lemma": "te",
    "morph": "m.nom.pl",
-   "grounds": "te = they (demonstrative pronoun, nominative plural masculine)"
+   "grounds": "pronoun"
   },
   {
-   "lemma": "para",
-   "morph": "n.nom.sg",
-   "grounds": "param = supreme (predicate adjective/neuter nominative singular; AMBIGUOUS: could also be n.acc.sg or adverbial)"
+   "lemma": "param",
+   "morph": "n.acc.sg",
+   "grounds": "adjective"
   }
  ]
 }
