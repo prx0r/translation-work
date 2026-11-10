@@ -4,53 +4,53 @@
  "rows": [
   {
    "lemma": "yad",
-   "morph": "n.nom.sg",
-   "grounds": "relative connector introducing citation"
+   "morph": "n.acc.sg",
+   "grounds": "relative connector to cited teaching"
   },
   {
    "lemma": "uvācotpalagurur",
-   "morph": "compound=uvāca+utpalaguruḥ; 3.sg.perfect-active + m.nom.sg; √vac",
-   "grounds": "compound: spoke + Utpalaguru; sandhi fusion in form"
+   "morph": "3.sg.act-perf + √vac (uvāca+utpala+guru)",
+   "grounds": "citation of authority with sandhi"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "correlative with 'tathā'"
+   "grounds": "comparative marker"
   },
   {
    "lemma": "sadasatāṃ",
-   "morph": "compound=sat+asatām; m.gen.pl",
-   "grounds": "compound: existent and nonexistent"
+   "morph": "n.gen.pl (sat+asat)",
+   "grounds": "first pair compared"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "correlative with 'yathā'"
+   "grounds": "correlative comparative marker"
   },
   {
    "lemma": "jaḍājaḍānāṃ",
-   "morph": "compound=jaḍa+ajaḍānām; m.gen.pl",
-   "grounds": "compound: inert and non-inert"
+   "morph": "n.gen.pl (jaḍa+ajaḍa)",
+   "grounds": "second pair compared"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation of intrinsic difference"
+   "grounds": "negation"
   },
   {
    "lemma": "svātmaviśeṣa",
-   "morph": "compound=sva+ātma+viśeṣaḥ; m.nom.sg",
-   "grounds": "compound: own-self + distinction"
+   "morph": "m.nom.sg (sva+ātman+viśeṣa)",
+   "grounds": "denied intrinsic distinction"
   },
   {
    "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "quotation marker"
+   "grounds": "quotative particle"
   },
   {
    "lemma": "niścitam",
-   "morph": "n.nom.sg; past-passive-participle; √niś-ci",
-   "grounds": "concludes the cited teaching"
+   "morph": "n.nom.sg (past-part + ni+√ci)",
+   "grounds": "concluding judgment"
   }
  ]
 }

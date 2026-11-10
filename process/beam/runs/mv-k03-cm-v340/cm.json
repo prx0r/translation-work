@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "saṃniveśādhike",
-   "morph": "n.loc.sg",
-   "grounds": "qualifies effect; compound = saṃniveśa+adhika"
+   "morph": "compound",
+   "grounds": "locative compound"
   },
   {
    "lemma": "kārye",
    "morph": "n.loc.sg",
-   "grounds": "locative context"
+   "grounds": "locative singular"
   },
   {
    "lemma": "nimittatvaṃ",
    "morph": "n.nom.sg",
-   "grounds": "object/predicate noun"
+   "grounds": "nominative singular"
   },
   {
    "lemma": "kṛtaṃ",
-   "morph": "n.nom.sg.ppp (√kṛ)",
-   "grounds": "main verb"
+   "morph": "pp.nom.sg.n",
+   "grounds": "past participle"
   },
   {
    "lemma": "yadi",
@@ -29,28 +29,28 @@
   },
   {
    "lemma": "svaiḥ",
-   "morph": "m.ins.pl",
+   "morph": "pron.inst.pl",
    "grounds": "instrumental plural"
   },
   {
    "lemma": "svaiś",
-   "morph": "m.ins.pl",
-   "grounds": "repeated instrumental plural; sandhi svaiḥ"
+   "morph": "pron.inst.pl",
+   "grounds": "instrumental plural"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "conjunction"
   },
   {
    "lemma": "samavāyānyakāraṇāṃśaiḥ",
-   "morph": "m.ins.pl",
-   "grounds": "instrumental plural; compound = samavāya+anya+kāraṇa+aṃśa"
+   "morph": "compound",
+   "grounds": "instrumental compound"
   },
   {
    "lemma": "prapūrite",
-   "morph": "n.loc.sg.ppp (√pṛ + pra)",
-   "grounds": "locative absolute participle"
+   "morph": "ptc.loc.sg",
+   "grounds": "locative participle"
   }
  ]
 }

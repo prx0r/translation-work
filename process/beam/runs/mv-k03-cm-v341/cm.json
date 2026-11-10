@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "kam",
-   "morph": "m.acc.sg",
-   "grounds": "interrogative object"
+   "morph": "pron.acc.sg.m",
+   "grounds": "interrogative"
   },
   {
    "lemma": "aṃśaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "object"
+   "morph": "n.acc.sg",
+   "grounds": "accusative singular"
   },
   {
    "lemma": "kumbhakārādeḥ",
-   "morph": "m.gen.sg",
-   "grounds": "genitive source; compound = kumbhakāra+ādi"
+   "morph": "compound",
+   "grounds": "genitive compound"
   },
   {
    "lemma": "prātuṃ",
-   "morph": "(inf.) (√prā/āp)",
-   "grounds": "infinitive complement"
+   "morph": "inf",
+   "grounds": "infinitive"
   },
   {
    "lemma": "bhavatu",
-   "morph": "3.sg.imperative (√bhū)",
-   "grounds": "imperative"
+   "morph": "v.3.sg.imp",
+   "grounds": "imperative of bhū"
   },
   {
    "lemma": "hetutā",
-   "morph": "f.nom.sg",
-   "grounds": "subject"
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular"
   },
   {
    "lemma": "na",
@@ -40,42 +40,42 @@
   {
    "lemma": "hi",
    "morph": "(indecl.)",
-   "grounds": "explanatory particle"
+   "grounds": "causal particle"
   },
   {
    "lemma": "so",
-   "morph": "m.nom.sg",
-   "grounds": "demonstrative subject; sandhi saḥ"
+   "morph": "pron.nom.sg.m",
+   "grounds": "demonstrative"
   },
   {
    "lemma": "'sty",
-   "morph": "3.sg.pres (√as)",
-   "grounds": "verb of existence; sandhi asti"
+   "morph": "v.3.sg.prs",
+   "grounds": "sandhi form of asti"
   },
   {
    "lemma": "aṃśaleśo",
-   "morph": "m.nom.sg",
-   "grounds": "subject complement; compound = aṃśa+leśa"
+   "morph": "compound",
+   "grounds": "compound"
   },
   {
    "lemma": "'pi",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "particle"
   },
   {
    "lemma": "sarvakartari",
-   "morph": "m.loc.sg",
-   "grounds": "locative referent; compound = sarva+kartṛ"
+   "morph": "compound",
+   "grounds": "locative compound"
   },
   {
    "lemma": "yaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "relative object"
+   "morph": "pron.acc.sg.m",
+   "grounds": "relative"
   },
   {
    "lemma": "prati",
    "morph": "(indecl.)",
-   "grounds": "postpositional particle"
+   "grounds": "postposition"
   }
  ]
 }

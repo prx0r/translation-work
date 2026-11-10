@@ -1,13 +1,15 @@
 {
  "song": "mv-k03",
  "verse": 342,
- "question": "Why can no being other than the Lord possess true agency?",
+ "question": "If knowledge, will, and effort are not agency, and nothing else is, could another's agency ever arise?",
  "premises": [
-  "True agency consists only in knowledge, will, and effort.",
-  "No other factor constitutes agency beyond knowledge, will, and effort.",
-  "Therefore agency cannot belong to any other being at any time."
+  "knowledge will and effort are not agency",
+  "nothing else is agency",
+  "therefore another's agency cannot arise"
  ],
- "inference": "Since agency is nothing but knowledge, will, and effort, no one other than the supreme agent can ever be a true doer.",
- "uncertainties": [],
- "plain_english": "Agency is nothing other than knowledge, will, and effort; therefore no one else can ever possess true agency."
+ "inference": "Agency cannot belong to another.",
+ "uncertainties": [
+  "compound segmentation"
+ ],
+ "plain_english": "Knowledge, will, and effort are not agency, nor is anything else; therefore another's agency could never arise."
 }

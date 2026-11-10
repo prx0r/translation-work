@@ -1,13 +1,15 @@
 {
  "song": "mv-k03",
  "verse": 349,
- "question": "What is the nature of the Lord and his power beyond limiting constructions?",
+ "question": "Free from constructions of place, time, action, and form, the Lord of gods; likewise indeed of him that power of universal form?",
  "premises": [
-  "The Lord of gods is free from constructions of place, time, action, and form.",
-  "His power is likewise characterized.",
-  "That power is of universal form."
+  "the Lord of gods is free from constructions",
+  "his power is likewise",
+  "that power has universal form"
  ],
- "inference": "Both the Lord and his power transcend limiting categories while the power manifests as the universe.",
- "uncertainties": [],
- "plain_english": "The Lord of gods is free from constructions of place, time, action, and form; likewise his power is of universal form."
+ "inference": "The Lord's power shares his freedom from constructions and has universal form.",
+ "uncertainties": [
+  "long compound segmentation"
+ ],
+ "plain_english": "Free from constructions of place, time, action, and form is the Lord of gods; likewise indeed of him is that power of universal form."
 }

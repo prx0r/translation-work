@@ -1,13 +1,15 @@
 {
  "song": "mv-k03",
  "verse": 378,
- "question": "Why is the detailed enumeration of divisions not mere repetition?",
+ "question": "Why is there no repetition in determining them?",
  "premises": [
-  "The divisions are variegated by each one's own knowledge and action as previously described.",
-  "These distinctions are determined within those divisions.",
-  "Distinct knowledge and action prevent sameness."
+  "they are variegated by each one's knowledge and action",
+  "they are determined",
+  "because in them therefore no repetition"
  ],
- "inference": "Because each division is distinguished by its own knowledge and action, the account is not repetitive.",
- "uncertainties": [],
- "plain_english": "Because in them the distinctions are determined by each one's own knowledge and action as stated before, there is no mere repetition."
+ "inference": "Variegated by each one's own knowledge and action as stated before, they are determined; because in them, therefore there is no repetition.",
+ "uncertainties": [
+  "pūrvodita compound"
+ ],
+ "plain_english": "Variegated by each one's own knowledge and action as stated before, they are determined; because in them, therefore there is no repetition."
 }

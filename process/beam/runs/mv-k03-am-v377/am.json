@@ -1,13 +1,16 @@
 {
  "song": "mv-k03",
  "verse": 377,
- "question": "Why do the divisions of Śiva become innumerable?",
+ "question": "Why is innumerability declared from divisions?",
  "premises": [
-  "Each unit is declared to be five-faced.",
-  "The system is already divided into ten and eighteen.",
-  "Further subdivision by faces multiplies the divisions."
+  "each one is five-faced",
+  "face is declared",
+  "what is divided into ten and eighteen",
+  "therefore innumerability by divisions"
  ],
- "inference": "Because each division is itself five-faced, the ten-and-eighteenfold scheme expands into innumerable divisions.",
- "uncertainties": [],
- "plain_english": "Since each is declared to be five-faced, what is divided into ten and eighteen becomes innumerable through further divisions."
+ "inference": "Each one is five-faced, and because a face is declared of what is divided into ten and eighteen, therefore innumerability by divisions.",
+ "uncertainties": [
+  "ekaikaṃ pañcavaktraṃ ca"
+ ],
+ "plain_english": "Each one is five-faced, and because a face is declared of what is divided into ten and eighteen, therefore innumerability by divisions."
 }
