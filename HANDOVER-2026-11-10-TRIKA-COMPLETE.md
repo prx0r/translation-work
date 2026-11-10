@@ -37,13 +37,11 @@ All pushed to origin/master.*
   spots: k02 v175 weak L2; k03/k07/a12 metacommentary warnings
   (non-blocking); v1 paratext dispositions; a00's 5 LIVE forks (need
   Sharma-1983/Supersite collation — scholarly, not swarmable).
-- **Abhinavabharati: DEFERRED by scope + source.** (a) Not Trika doctrine
-  (alaṅkāraśāstra/poetics — outside the Trika-only corpus);
-  (b) source unready: archive.org GOS vols 2–4 OCR only, ~7% junk lines,
-  vol 1 missing, no GRETIL/Muktabodha e-text found. Raw OCR staged at
-  /tmp/opencode/abhinava/ (NOT vendored — too dirty). If wanted later:
-  clean text first, then intake per adhyāya; or scope to rasa chapter 6
-  (the Trika-relevant aesthetics that grounds C1 rasa work).
+- **Abhinavabharati: NEVER (owner order 2026-11-10, see NEVER.md).**
+  Non-Trika (alaṅkāraśāstra/poetics) + source unready (GOS vols 2–4 OCR only,
+  ~7% junk, vol 1 missing, no GRETIL/Muktabodha e-text; raw OCR deleted, never
+  vendored). Cut from the seeding queue (`tools/registry_sync.py`). Never add
+  a work dir or REGISTRY row without a superseding owner order.
 - **Tattvasandoha commentary**: needs Muktabodha M00151 bytes via library
   UI (owner-gated per 11-09 handover); mūla stands alone as minimal-gold.
 - Loop idle, queue drained, workers exited normally. Beam-free/iceman

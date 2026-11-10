@@ -29,14 +29,18 @@ TIER_DEFERRED = 'T3-deferred'             # needs owner nod / missing prereq
 
 ABHINAVAGUPTA = {'tantrasara', 'tantraloka', 'paramarthasara', 'paratrimshika',
                  'dehastha', 'bodhapancadasika', 'anuttarastika', 'paramarthacarca',
-                 'anubhavanivedana', 'gitarthasangraha', 'abhinavabharati', 'ipvv'}
+                 'anubhavanivedana', 'gitarthasangraha', 'ipvv'}
+                 # NOTE (NEVER.md, owner 2026-11-10): 'abhinavabharati' removed —
+                 # non-Trika (poetics) + source unready. Never re-add without owner order.
 TRIKA_CIRCLE = {'sivasutra', 'spanda', 'sivasutravimarsini', 'spandasandoha',
                 'svabodhasiddhi', 'saktavijnana', 'bodhavilasa', 'bhairavanukarana',
                 'ajadapramatrsiddhi', 'isvarasiddhi', 'sambandhasiddhi',
                 'sivastotravali', 'stavacintamani', 'kramastotra', 'phrdaya',
                 'malinivijayavarttika'}
-DEFERRED = {'lalded', 'rupabhavani', 'parmanand', 'nundrishi', 'santosh',
-            'tattvasandoha'}  # mystics need Kashmiri stage; tattvasandoha has no source
+DEFERRED = {'lalded', 'rupabhavani', 'parmanand', 'nundrishi', 'santosh'}
+            # mystics need Kashmiri stage (see NEVER.md — permanently out of scope).
+            # tattvasandoha graduated 2026-11-10 (mula minimal-gold); commentary
+            # still needs Muktabodha M00151 bytes (owner-gated).
 
 
 def tier_of(db_work: str) -> str:
