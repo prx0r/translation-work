@@ -1,0 +1,1562 @@
+{
+ "song": "mv-k01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "opening ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāṇḍaḥ",
+     "gloss": "section",
+     "grounds": "work division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vimalakalāśrayābhinavasṛṣṭimahā",
+     "gloss": "great-new-creation-abode-of-pure-art",
+     "grounds": "compound epithet",
+     "morph": "compound"
+    },
+    {
+     "surface": "jananī",
+     "gloss": "mother",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bharitatanuś",
+     "gloss": "full-bodied",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamukhaguptarucir",
+     "gloss": "radiant-five-faced-gupta",
+     "grounds": "compound epithet",
+     "morph": "compound"
+    },
+    {
+     "surface": "janakaḥ",
+     "gloss": "father",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadubhayayāmalasphuritabhāvavisargamayaṃ",
+     "gloss": "made-of-emission-of-both-united-flashing-states",
+     "grounds": "long compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hṛdayam",
+     "gloss": "heart",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anuttarāmṛtakulaṃ",
+     "gloss": "family-of-supreme-nectar",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "first person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃsphuratāt",
+     "gloss": "may-it-shine",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What opening invocation does the first section present?",
+   "premises": [
+    "The verse names first section and parents.",
+    "It asks heart to shine as supreme nectar family."
+   ],
+   "inference": "The verse opens the work with an invocation to divine parents and heart.",
+   "uncertainties": [
+    "Compound glosses are approximate."
+   ],
+   "plain_english": "May the first section shine, with its divine parents and heart as the family of supreme nectar."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "yadīyabodhakiraṇair",
+     "gloss": "by-whose-knowledge-rays",
+     "grounds": "compound instrumental",
+     "morph": "compound"
+    },
+    {
+     "surface": "ullasadbhiḥ",
+     "gloss": "shining",
+     "grounds": "participle",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samantataḥ",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikāsihṛdayāmbhojā",
+     "gloss": "lotus-hearts-blossoming",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vayaṃ",
+     "gloss": "we",
+     "grounds": "first person plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jayatād",
+     "gloss": "may-he-conquer",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Whose shining knowledge rays make hearts blossom?",
+   "premises": [
+    "The teacher's knowledge rays shine everywhere.",
+    "They make our hearts blossom."
+   ],
+   "inference": "The verse praises the guru whose knowledge illuminates all.",
+   "uncertainties": [
+    "Compound segmentation is interpretive."
+   ],
+   "plain_english": "May that teacher conquer, whose shining rays of knowledge make our hearts blossom everywhere."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "sābhimarśaṣaḍardhārthapañcasrotaḥsamujjvalān",
+     "gloss": "bright-six-half-meanings-five-streams-with-reflection",
+     "grounds": "long compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prādān",
+     "gloss": "gave",
+     "grounds": "verb",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "mahyam",
+     "gloss": "to-me",
+     "grounds": "first person dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "arthaughān",
+     "gloss": "floods-of-meanings",
+     "grounds": "compound accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "daurgatyadalanavratān",
+     "gloss": "vows-destroying-poverty",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What did the guru give to remove poverty?",
+   "premises": [
+    "He gave floods of meanings.",
+    "Those meanings destroy poverty."
+   ],
+   "inference": "The verse thanks the guru for liberating teachings.",
+   "uncertainties": [
+    "Long compound gloss is approximate."
+   ],
+   "plain_english": "He gave me floods of meanings, bright with reflection and streams, that destroy poverty."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "śrīmatsumatisaṃśuddhaḥ",
+     "gloss": "pure-with-auspicious-good-mind",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadbhaktajanadakṣiṇaḥ",
+     "gloss": "skilled-toward-true-devotees",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śambhunāthaḥ",
+     "gloss": "Shambhunatha",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasanno",
+     "gloss": "pleased",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "first person dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "bhūyād",
+     "gloss": "may-he-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vākpuṣpatoṣitaḥ",
+     "gloss": "pleased-by-speech-flowers",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who is asked to be pleased with the devotee?",
+   "premises": [
+    "Shambhunatha is pure and skilled toward devotees.",
+    "He is pleased by speech-flowers."
+   ],
+   "inference": "The verse invokes Shambhunatha's grace.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "May Shambhunatha, pure and skilled toward true devotees, be pleased with me through speech-flowers."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "gurubhyo",
+     "gloss": "to-teachers",
+     "grounds": "dative plural",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garīyāṃsaṃ",
+     "gloss": "greater",
+     "grounds": "comparative adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "fitting",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrīcukhalābhidham",
+     "gloss": "named-Shricukhala",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vande",
+     "gloss": "I-salute",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "yatkṛtasaṃskāraḥ",
+     "gloss": "by-whose-made-purification",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'smi",
+     "gloss": "I-am",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "galitagrahaḥ",
+     "gloss": "freed-from-grasping",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Whom does the speaker salute as greater than teachers?",
+   "premises": [
+    "He salutes Shricukhala.",
+    "Through that purification he stands freed from grasping."
+   ],
+   "inference": "The verse salutes a superior teacher and states liberation from grasping.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "I salute Shricukhala, greater than teachers, by whose purification I stand freed from grasping."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurutaraḥ",
+     "gloss": "more-great",
+     "grounds": "comparative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīmān",
+     "gloss": "glorious",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtirājo",
+     "gloss": "Bhutiraja",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāmatiḥ",
+     "gloss": "great-minded",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jayatād",
+     "gloss": "may-he-conquer",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhaktajanatāsamuddharaṇasāhasaḥ",
+     "gloss": "bold-in-rescuing-devotees",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who is praised as bolder than the guru?",
+   "premises": [
+    "Bhutiraja is glorious and great-minded.",
+    "He is bold in rescuing devotees."
+   ],
+   "inference": "The verse praises Bhutiraja's rescuing power.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "May glorious great-minded Bhutiraja conquer, bolder than the guru in rescuing devotees."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "śrīsomānandasaṃbodhaśrīmadutpalaniḥsṛtāḥ",
+     "gloss": "arisen-from-Shri-Somananda-and-Utpala",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jayanti",
+     "gloss": "they-conquer",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "saṃvidāmodasaṃdarbhā",
+     "gloss": "joyful-consciousness-compositions",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dikprasarpiṇaḥ",
+     "gloss": "spreading-in-all-directions",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What compositions are said to conquer?",
+   "premises": [
+    "They arise from Somananda and Utpala.",
+    "They spread joyful consciousness in all directions."
+   ],
+   "inference": "The verse praises a lineage of joyful consciousness texts.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "The joyful consciousness compositions arising from Shri Somananda and Utpala conquer, spreading in all directions."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "taddṛṣṭisaṃsṛticchedipratyabhijñopadeśinaḥ",
+     "gloss": "teaching-recognition-cutting-world-cycle-of-that-vision",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrīmallakṣmaṇaguptasya",
+     "gloss": "of-Shriman-Lakshmanagupta",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "guror",
+     "gloss": "of-teacher",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vijayate",
+     "gloss": "it-conquers",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "vacaḥ",
+     "gloss": "speech",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Whose speech is said to conquer?",
+   "premises": [
+    "It belongs to teacher Lakshmanagupta.",
+    "It teaches recognition cutting the world cycle."
+   ],
+   "inference": "The verse praises Lakshmanagupta's liberating speech.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "The speech of teacher Shriman Lakshmanagupta conquers, teaching recognition that cuts the world cycle."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "apy",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asaṃkhyanavāsvādacamatkāraikadurmadā",
+     "gloss": "intoxicated-by-wonder-of-countless-new-tastes",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yenānuttarasaṃbhogatṛptā",
+     "gloss": "by-whom-satisfied-in-supreme-enjoyment",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "first person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "matiṣaṭpadī",
+     "gloss": "bee-mind",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is satisfied by supreme enjoyment?",
+   "premises": [
+    "The mind-bee is intoxicated by countless new tastes.",
+    "It is satisfied in supreme enjoyment."
+   ],
+   "inference": "The verse describes mind intoxicated and satisfied in supreme enjoyment.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "Even my bee-mind, intoxicated by the wonder of countless new tastes, is satisfied in supreme enjoyment."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "tadekamayatām",
+     "gloss": "unity-with-that",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "āpya",
+     "gloss": "having-attained",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svātmany",
+     "gloss": "in-own-self",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-her",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pronmiṣanty",
+     "gloss": "blossoming",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vividhā",
+     "gloss": "various",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nādasaṃpadaḥ",
+     "gloss": "sound-riches",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What blossoms when unity is attained in the self?",
+   "premises": [
+    "Unity is attained in one's own self.",
+    "Various sound-riches blossom from it."
+   ],
+   "inference": "The verse links self-unity with blossoming sound-riches.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "Having attained unity with that in one's own self, various sound-riches indeed blossom from it."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "sacchiṣyakarṇamandrābhyām",
+     "gloss": "by-two-good-disciples-ears",
+     "grounds": "compound instrumental dual",
+     "morph": "compound"
+    },
+    {
+     "surface": "arthito",
+     "gloss": "requested",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'haṃ",
+     "gloss": "I",
+     "grounds": "first person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vākyārthaṃ",
+     "gloss": "sentence-meaning",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vartaye",
+     "gloss": "I-explain",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "śrīmanmālinyāṃ",
+     "gloss": "in-Shrimanmalini",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kva",
+     "gloss": "somewhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cit",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kva",
+     "gloss": "somewhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cit",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the speaker explain sentence meaning again?",
+   "premises": [
+    "Good disciples requested it.",
+    "He explains sentence meaning in Shrimanmalini."
+   ],
+   "inference": "The verse states a repeated explanatory request.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "Requested by good disciples' ears, I explain sentence meaning again and again in Shrimanmalini, here and there."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "aucityenetaratyāgād",
+     "gloss": "by-fitness-abandoning-other",
+     "grounds": "compound ablative",
+     "morph": "compound"
+    },
+    {
+     "surface": "vācyavācakayor",
+     "gloss": "of-expressed-and-expressor",
+     "grounds": "genitive dual",
+     "morph": "compound"
+    },
+    {
+     "surface": "mithaḥ",
+     "gloss": "mutually",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartanāvarta",
+     "gloss": "circulation-of-usage",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "etasmin",
+     "gloss": "in-this",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sādhu",
+     "gloss": "well",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārttikam",
+     "gloss": "commentary",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is well established in this circulation?",
+   "premises": [
+    "Fitness abandons the other.",
+    "Scripture and commentary circulate mutually."
+   ],
+   "inference": "The verse links fitness, scripture, and commentary.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "By fitness and abandoning the other, scripture and commentary circulate well in this mutual usage of expressed and expressor."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "'harniśaṃ",
+     "gloss": "day-and-night",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśante",
+     "gloss": "shine",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gocare",
+     "gloss": "within-range",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "numo",
+     "gloss": "we-bow",
+     "grounds": "verb",
+     "morph": "1.pl.act-pres"
+    },
+    {
+     "surface": "'bhinavaguptāṃs",
+     "gloss": "to-Abhinavagupta",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tāñ",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śivacandrāṃśusaṃcayān",
+     "gloss": "collections-of-Shiva-moon-rays",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Whom do they bow to day and night?",
+   "premises": [
+    "They shine beyond all range.",
+    "They bow to Abhinavagupta as Shiva moon rays."
+   ],
+   "inference": "The verse praises Abhinavagupta beyond ordinary range.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "We bow day and night to those Abhinavaguptas, collections of Shiva moon rays, shining beyond all range."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "jayanti",
+     "gloss": "they-conquer",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "jagadānandavipakṣakṣapaṇakṣamāḥ",
+     "gloss": "able-to-destroy-opponents-of-world-bliss",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "parameśamukhodbhūtajñānacandramarīcayaḥ",
+     "gloss": "moon-rays-of-knowledge-born-from-Paramesha's-face",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What moon rays are said to conquer?",
+   "premises": [
+    "They destroy opponents of world bliss.",
+    "They are knowledge moon rays from Paramesha's face."
+   ],
+   "inference": "The verse praises divine knowledge rays.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "The moon rays of knowledge born from Paramesha's face conquer, able to destroy opponents of world bliss."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "aniyantritasadbhāvād",
+     "gloss": "from-unrestrained-true-being",
+     "grounds": "compound ablative",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvābhedaikabhāginaḥ",
+     "gloss": "sharing-one-nature-with-beings",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāg",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātaṃ",
+     "gloss": "born",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahājñānaṃ",
+     "gloss": "great-knowledge",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadraśmibharavaibhavam",
+     "gloss": "glory-of-its-rays",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What glory arises from unrestrained true being?",
+   "premises": [
+    "Great knowledge was born before.",
+    "Its rays have glory."
+   ],
+   "inference": "The verse links unrestrained being with great knowledge and rays.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "From unrestrained true being, sharing one nature with beings, great knowledge born before has the glory of its rays."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "tataṃ",
+     "gloss": "spread",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tādṛk",
+     "gloss": "such",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svamāyīyaheyopādeyavarjitam",
+     "gloss": "free-from-rejectable-and-acceptable-of-own-maya",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vitatībhāvanācitraraśmitāmātrabheditam",
+     "gloss": "differentiated-only-by-various-thought-rays",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the spread reality differentiated?",
+   "premises": [
+    "It is free from maya's rejectable and acceptable.",
+    "It is differentiated only by various thought rays."
+   ],
+   "inference": "The verse describes a spread reality beyond maya distinctions.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "Spread and such, it is free from maya's rejectable and acceptable, differentiated only by various thought rays."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "abhimarśasvabhāvaṃ",
+     "gloss": "of-nature-of-reflection",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parameśituḥ",
+     "gloss": "of-supreme-lord",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tatrāpi",
+     "gloss": "even-there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "by-power",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svātmamayyā",
+     "gloss": "made-of-own-self",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the heart of the supreme lord?",
+   "premises": [
+    "It has nature of reflection.",
+    "Even there Maheshvara acts by own-self power."
+   ],
+   "inference": "The verse identifies the lord's heart as reflective.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "That heart of the supreme lord has the nature of reflection; even there Maheshvara always acts by power made of his own self."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃghaṭṭam",
+     "gloss": "contact",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āsādya",
+     "gloss": "having-reached",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samāpattiṃ",
+     "gloss": "absorption",
+     "grounds": "feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "he-would-go",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tadāsya",
+     "gloss": "then-his",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "face",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "visargaprasarāspadam",
+     "gloss": "seat-of-emission-expansion",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What happens when supreme absorption is reached?",
+   "premises": [
+    "Contact leads to supreme absorption.",
+    "Then his supreme face becomes seat of emission expansion."
+   ],
+   "inference": "The verse describes absorption leading to supreme face.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "When, having reached contact, he would go to supreme absorption, then his supreme face becomes the seat of emission expansion."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "anuttaravikāsodyajjagadānandasundaram",
+     "gloss": "beautiful-world-bliss-rising-from-supreme-expansion",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvivaktrāvibhāgena",
+     "gloss": "by-non-difference-of-future-face",
+     "grounds": "compound instrumental",
+     "morph": "compound"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What seed stands for all?",
+   "premises": [
+    "It is beautiful world bliss rising from supreme expansion.",
+    "It stands by non-difference of future face."
+   ],
+   "inference": "The verse identifies a seed of all reality.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "The seed of all stands, beautiful world bliss rising from supreme expansion, by non-difference of future face."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "hṛtspandadṛkparāsāranirnāmormyādi",
+     "gloss": "heart-pulse-vision-supreme-flow-wave-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "opinion",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trikaṃ",
+     "gloss": "trika",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśaktyavibhāgavat",
+     "gloss": "with-all-powers-undivided",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the supreme trika opinion?",
+   "premises": [
+    "It concerns heart pulse vision and supreme flow.",
+    "It is undivided from all powers."
+   ],
+   "inference": "The verse states the supreme trika as undivided power.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "That opinion, heart pulse vision supreme flow wave etc, is the supreme trika before, undivided from all powers."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvasamullāsaśaṅkāsaṃkocavicyuteḥ",
+     "gloss": "from-release-of-expansion-and-contraction-doubt",
+     "grounds": "compound ablative",
+     "morph": "compound"
+    },
+    {
+     "surface": "svānandalīnatāmātramātricchākarmadṛktrayam",
+     "gloss": "only-three-of-will-knowledge-action-in-own-bliss-absorption",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What three remain here after release?",
+   "premises": [
+    "Release is from expansion and contraction doubt.",
+    "Only will knowledge action remain in own bliss absorption."
+   ],
+   "inference": "The verse reduces to three powers in bliss absorption.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "Here, from release of expansion and contraction doubt, only the three of will, knowledge, and action remain in absorption in own bliss."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "masculine noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śaivadṛṣṭāv",
+     "gloss": "in-Shaiva-view",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyarūpayan",
+     "gloss": "they-described",
+     "grounds": "verb",
+     "morph": "3.pl.act-aor"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āste",
+     "gloss": "stands",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "cidāhlādamātrānubhavatallayaḥ",
+     "gloss": "absorbed-in-experience-of-consciousness-bliss-only",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How did teachers describe the Shaiva view?",
+   "premises": [
+    "Teachers described it thus in Shaiva view.",
+    "He stands absorbed in consciousness bliss experience."
+   ],
+   "inference": "The verse attributes a description to teachers.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "Thus teachers described it in the Shaiva view: he stands absorbed in experience of consciousness bliss only."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "icchā",
+     "gloss": "will",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāvatī",
+     "gloss": "so-much",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "susūkṣmaśaktitritayasāmarasyena",
+     "gloss": "by-harmony-of-three-subtle-powers",
+     "grounds": "compound instrumental",
+     "morph": "compound"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "occurs",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How do will knowledge and action occur?",
+   "premises": [
+    "Will knowledge and action are proportionate.",
+    "They occur by harmony of three subtle powers."
+   ],
+   "inference": "The verse links the three powers to subtle harmony.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "That will, so much knowledge, and so much action indeed occur by harmony of three subtle powers."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "cidrūpāhlādaparamas",
+     "gloss": "supreme-in-consciousness-form-bliss",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadābhinno",
+     "gloss": "undivided-from-that",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cedṛśi",
+     "gloss": "in-such",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśvātmabhūte",
+     "gloss": "become-world-self",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃkocavarjanāt",
+     "gloss": "from-abandoning-contraction",
+     "grounds": "compound ablative",
+     "morph": "compound"
+    }
+   ],
+   "question": "What objection is raised about supreme consciousness bliss?",
+   "premises": [
+    "It would be undivided from that.",
+    "But in such world-self, contraction is abandoned."
+   ],
+   "inference": "The verse raises an objection about contraction.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "Supreme in consciousness-form bliss would be undivided from that; but, it is asked, in such a world-self, from abandoning contraction?"
+  },
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "vikalpakalpanāmūlāḥ",
+     "gloss": "rooted-in-conceptual-construction",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrādisaṃpadaḥ",
+     "gloss": "riches-of-scripture-etc",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evāyaṃ",
+     "gloss": "indeed-this",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bodhaḥ",
+     "gloss": "knowledge",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃvitprabhāmayaḥ",
+     "gloss": "made-of-consciousness-radiance",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How can scripture riches be rooted in conceptual construction?",
+   "premises": [
+    "Scripture riches are said to be rooted in conceptual construction.",
+    "All this knowledge is made of consciousness radiance."
+   ],
+   "inference": "The verse questions scripture riches while affirming consciousness knowledge.",
+   "uncertainties": [
+    "Compound gloss approximate."
+   ],
+   "plain_english": "How are scripture and other riches said to be rooted in conceptual construction? All this knowledge is made of consciousness radiance."
+  }
+ ]
+}
