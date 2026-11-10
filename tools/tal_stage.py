@@ -18,6 +18,7 @@ import argparse, json, os, pathlib, subprocess, sys, time
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / 'tools'))
 import workcfg  # noqa: E402
+from shastra_merge import is_paratext  # noqa: E402 (single paratext doctrine; stage filters must match it)
 
 Q = ROOT / 'process' / 'beam' / 'queue.json'
 RUNS = ROOT / 'process' / 'beam' / 'runs'
@@ -163,14 +164,10 @@ def stage_assemble(work, song):
             _rows = []
             for r in d['rows']:
                 _lm = r.get('lemma', '')
-                # drop paratext rows that the T1 token stream excludes
-                if '(' in _lm or ')' in _lm:
-                    continue
-                if _lm in {'|', '||', '-', '/', '//'} or _re.fullmatch(r'\.+', _lm):
-                    continue
-                if _re.fullmatch(r'\d+', _lm) or _re.fullmatch(r'\d+-\d+', _lm):
-                    continue
-                if _lm.startswith('|'):
+                # drop paratext rows that the T1 token stream excludes —
+                # single doctrine: shastra_merge.is_paratext (mid-token
+                # brackets are genuine fused readings and are kept)
+                if is_paratext(_lm):
                     continue
                 _rows.append([r['lemma'], r['morph'], r.get('grounds', '')])
             cm[str(e['verse'])] = _rows
