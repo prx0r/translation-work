@@ -1,0 +1,73 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mv-k03",
+ "work": "malinivijayavarttika",
+ "date": "2026-11-01",
+ "blocking": [],
+ "warnings": [
+  "METACOMMENTARY ['the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)']"
+ ],
+ "mode": "shastra",
+ "source_sha": "edb57ee2cc097da6",
+ "source_verses": 150,
+ "t1_verses": 150,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 1515
+ },
+ "align": {
+  "min_ratio": 0.973,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 72,
+ "c1_metacommentary": [
+  "the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)"
+ ],
+ "l2_cites": {
+  "checked": 150,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 150,
+   "l0": 1515,
+   "argmap": 150,
+   "l2": 150,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "human-review"
+ ],
+ "deterministic_gate": "PASS",
+ "layer_sha256": {
+  "t1": "e1c2fb9164b212788d56c35ee4887c38d911345613c97f2fe489481e804ac074",
+  "l0": "7bc1db128dd57445d576a3ee224e8f53ea6b3a4ef78da18c5fc7d1ce88e37ccb",
+  "argmap": "7cf0c4b8a9fe4385459784f83f8ae783a1e567c95dd64fe9f80a34693b08828f",
+  "l2": "c0a7ce957625c8fe401c398a936c6123468800f266d79cea3e8577fab2934c17",
+  "c1": "6db5882c105c07d8adce52c6c10e05ab36bc50c390c873ece9e08f0d593d6bd1"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "edb57ee2cc097da6",
+  "t1": "mv-k03/data/mv-k03.t1.json",
+  "l0": "mv-k03/data/mv-k03.l0.json",
+  "l2": "mv-k03/data/mv-k03.l2.json",
+  "c1": "mv-k03/data/mv-k03.c1.json"
+ }
+}
