@@ -494,7 +494,7 @@ def run_tal_cm(t: dict) -> tuple[bool, str]:
             + ('\n\nTRANSMISSION BRIEF (orient morphology + grounds to this doctrine):\n' + cmlore if cmlore else '')
             + '\n\nOne CM row per token IN ORDER: [lemma_iast, morph, grounds]. '
               'Reply ONLY JSON: {"song": "...", "verse": N, "rows": [{"lemma": "...", "morph": "...", "grounds": "..."}]}')
-    text = beam(TAL_CM_SYS, user, session=f'tal-cm-{song}-v{verse}-001', max_tokens=64000)
+    text = beam(TAL_CM_SYS, user, session=f'tal-cm-{song}-v{verse}-001', max_tokens=131072)
     start, end = text.find('{'), text.rfind('}')
     if start < 0:
         return False, 'no JSON object: ' + text[:300]
