@@ -1,6 +1,6 @@
 {
- "rev": "b54324d7e3ccb38954476d8337c47d8172a77882",
- "at": "2026-11-10T06:54:56+00:00",
+ "rev": "04154aa03e8bf684286384f5a2262bf70e985884",
+ "at": "2026-11-10T06:56:54+00:00",
  "files": {
   "ajadapramatrsiddhi/data/ajad-p01.argmap.json": {
    "sha256": "f7f7ec1ce551288d8b4f2e2294a3351a25afefbdc3efb460413975c6e271df80",
@@ -1986,6 +1986,10 @@
    "sha256": "312077107374cee1a938eae500960cea0642dcd20fd162d2c1b2e0ea4e99125b",
    "bytes": 1427
   },
+  "dehastha/passages.jsonl": {
+   "sha256": "29e74045cf8b3a70578b30dea806ea55f762bc1198c6dcc115c0126d0391b1c4",
+   "bytes": 2860
+  },
   "ghatakarpara/data/ghat-p01.argmap.json": {
    "sha256": "ea3ce16fee296487185d4439fcf371df68a8ac728e6fd446c196afbd5fab7f8b",
    "bytes": 6594
@@ -2529,6 +2533,10 @@
   "gitarthasangraha/STATUS.json": {
    "sha256": "acdbd59ab1ed178aa4091dbaaabe55321890d251a7c8e424e7f29f1dad8daf6c",
    "bytes": 1553
+  },
+  "gitarthasangraha/passages.jsonl": {
+   "sha256": "8e0ce3d663f820ffb29523482844d42663161adcf3ebab256666b89f855f2ff7",
+   "bytes": 239291
   },
   "ipvv/data/chunk-a-svatyandya.l0.json": {
    "sha256": "ac301b9f2f5f1fa41f5f5c33eb64f9cb396be83fbe0c0c051c255786435141f7",
@@ -5266,6 +5274,10 @@
    "sha256": "98ca709f6037f68a5e26eaee005cdadde068ec677e1044b2cbbbd392f5faa93c",
    "bytes": 1318
   },
+  "mahopadeshavimshatika/passages.jsonl": {
+   "sha256": "06a19413273cd794a3d9e41303b9cf242e49ab6e39bba446fe6ba40ecfea2b00",
+   "bytes": 3022
+  },
   "malinivijayavarttika/data/mv-k01.argmap.json": {
    "sha256": "5876611eee977a00bb88ddda42bddd0f599196ce355b34d9eba3a9097bad705c",
    "bytes": 140044
@@ -5469,6 +5481,10 @@
   "malinivijayavarttika/STATUS.json": {
    "sha256": "2552176e52a2c26857639c48a737d4d261ceaca34f98729048ef42aea3e3a6e2",
    "bytes": 166
+  },
+  "malinivijayavarttika/passages.jsonl": {
+   "sha256": "5b4bfc29f713da039621f6f6310cd48b4d9df2726957f754b28cc64823d0c473",
+   "bytes": 194310
   },
   "pancashloki/data/pan-p01.argmap.json": {
    "sha256": "54300b99e3422f37dffe771aa89fa8e5f5939ca3ab0488b8aabc59061f4e1df3",
@@ -6037,6 +6053,10 @@
   "paramarthadvadasika/STATUS.json": {
    "sha256": "f372253469d0b8558e231fd4a6a2e5a1508c34838e1aaec5f32041b6229dbd65",
    "bytes": 1403
+  },
+  "paramarthadvadasika/passages.jsonl": {
+   "sha256": "be1d8bf9e75c988a62540a6c2b620b16f6b9c5bce1cf46fe71fe850aaa51f9a8",
+   "bytes": 3730
   },
   "paramarthasara/data/param-p01.argmap.json": {
    "sha256": "109f9205de54285a27ebad5d64f8b6e85ef5384270cda029037584a81b67f7d6",
@@ -7479,8 +7499,8 @@
    "bytes": 1264
   },
   "phrdaya/passages.jsonl": {
-   "sha256": "1dc014a0fe2d8aec912fcb9e80367ce1d1986af211200fe6b09602a690d66c13",
-   "bytes": 1028
+   "sha256": "70db52f0d11a3616371284c70c06d97eff3063d7f6d7014a843703384a33f8ac",
+   "bytes": 2544
   },
   "phrdaya/GATE.json": {
    "sha256": "d9c1573d9cdbe148986c716f22f4a167ddfe4c7281b8bafc15f4329e127c15f7",
@@ -7721,6 +7741,10 @@
   "rahasyapanchadashika/STATUS.json": {
    "sha256": "8cebfbd3026d2b74b9baa2d2d6f32b859dae25e4d983d7931a8f48fa65ae4715",
    "bytes": 1413
+  },
+  "rahasyapanchadashika/passages.jsonl": {
+   "sha256": "0d1faa4c5eb818750709b4204f27aeac06b993a4eb1c46c3039d4a32fd8ef14f",
+   "bytes": 3099
   },
   "saktavijnana/data/sakt-p01.argmap.json": {
    "sha256": "5c73d5bcd9804de7aca103585cf9743e341ffcbed1e9f3d08a64d63aa681d52e",
@@ -9157,6 +9181,10 @@
   "sivasutravimarsini/STATUS.json": {
    "sha256": "05d6e40f15de0f143ec1d44b1c6e3f6056dd7f5dc1b440b3474f2c962ac074ac",
    "bytes": 164
+  },
+  "sivasutravimarsini/passages.jsonl": {
+   "sha256": "9c3218ab6efa00271f42e7a53b308f14c6476127227df416e0e446b16dfb108b",
+   "bytes": 183755
   },
   "spanda/data/span-p01.argmap.json": {
    "sha256": "ee78909227454574548fcfd6a7d50f4cea70abd7d4f44ffd6f073ed7144bcbac",
@@ -12817,6 +12845,10 @@
   "tattvasandoha/STATUS.json": {
    "sha256": "e70b534810688abdeb4072c07cafaaa05fad5ecc78223626ddb44226ee9d6795",
    "bytes": 159
+  },
+  "tattvasandoha/passages.jsonl": {
+   "sha256": "559bf8454854467c08694bb3c959c38720cf8962a278f9e201d353da22ca693d",
+   "bytes": 5997
   },
   "vbt/data/vbt-p01.argmap.json": {
    "sha256": "afaafbf5f6a8e2b4655a7c148bf7580badbf7b3d3e99621f8c64ea8d1d78a477",
