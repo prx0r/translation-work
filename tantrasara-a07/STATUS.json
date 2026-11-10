@@ -1,20 +1,21 @@
 {
-  "work": "tantrasara-a07",
-  "updated": "2026-11-04",
-  "next": "Owner: first-verse L4 voice verdict (tsa-a07-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a14 (29 units).",
-  "counts": {
-    "passages": 1,
-    "verses": 28,
-    "l0_parsed": 210,
-    "l0_ambiguous": 0,
-    "l0_failed": 0,
-    "l4_drafts": 28,
-    "l4_with_craft": 28
-  },
-  "notes": "GOLD #43 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 7 (tattva-cosmology ladder; 28 units, 210 tok) via workcfg abhts. Full pipeline: L0 hand-crafted 210 tok 100% PARSED (fused spans: bahir/śarīre split, ca+iti→ceti, tac+ca, antarbahir, rāgo 'śuddhavidyā elision held) / T1 md+jsonl+report / argmaps 28/28 (sha 1fe3ec9099f5ec25, gate PASS, 0 shared) / L2 28 / C1 essence 28 + 7-part + rasa adbhuta-śānta (0 quotes, 0 shared) / L3 28 (8 short-unit collisions reworded to clear zero-shared) / L4 28 DRAFTs craft+rejected+read-aloud; ASCII Siva → Śiva fixed / c1 md / site ABSTENTION. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
-  "needs": [
-    "first-verse L4 voice verdict (owner)",
-    "human-review (machine-proposed)"
-  ],
-  "rasa": "adbhuta-śānta of a cosmos counted (wonder at multiplication landing)"
+ "work": "tantrasara-a07",
+ "updated": "2026-11-04",
+ "next": "Owner: first-verse L4 voice verdict (tsa-a07-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a14 (29 units).",
+ "counts": {
+  "passages": 1,
+  "verses": 28,
+  "l0_parsed": 210,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l4_drafts": 28,
+  "l4_with_craft": 28,
+  "proof": "PASS"
+ },
+ "notes": "GOLD #43 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 7 (tattva-cosmology ladder; 28 units, 210 tok) via workcfg abhts. Full pipeline: L0 hand-crafted 210 tok 100% PARSED (fused spans: bahir/śarīre split, ca+iti→ceti, tac+ca, antarbahir, rāgo 'śuddhavidyā elision held) / T1 md+jsonl+report / argmaps 28/28 (sha 1fe3ec9099f5ec25, gate PASS, 0 shared) / L2 28 / C1 essence 28 + 7-part + rasa adbhuta-śānta (0 quotes, 0 shared) / L3 28 (8 short-unit collisions reworded to clear zero-shared) / L4 28 DRAFTs craft+rejected+read-aloud; ASCII Siva → Śiva fixed / c1 md / site ABSTENTION. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
+ "needs": [
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed)"
+ ],
+ "rasa": "adbhuta-śānta of a cosmos counted (wonder at multiplication landing)"
 }

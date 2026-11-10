@@ -4,9 +4,7 @@
  "work": "tantraloka-a01",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [
-  "METACOMMENTARY ['the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)']"
- ],
+ "warnings": [],
  "mode": "shastra",
  "source_sha": "72cf9c33ce39f41d",
  "source_verses": 333,
@@ -24,10 +22,8 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 54,
- "c1_metacommentary": [
-  "the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)"
- ],
+ "c1_words": 44,
+ "c1_metacommentary": [],
  "l2_cites": {
   "checked": 333,
   "failures": []
@@ -60,7 +56,7 @@
   "l0": "10df380184ca2bd8e5d2c231f77b72544d7772b238ba0910bd5ea76bf1f1ee77",
   "argmap": "f49d4adfa91eb46912a716ac4ef96eb63774881d0f17b98749a7c11f9dcc9215",
   "l2": "fda84ac31c94b0b56b04b7cf7162ba65a0d16600ffb9d8dbefab4ab5baa1c8ef",
-  "c1": "4f643eb24ffe733838e4f4afb5f9494154f28b1a0ae9c37858512cd6a15455eb"
+  "c1": "24b28c5511e36b92ef02e8ff7a3acca00391bbf5ad375aaadd39f9676caf16ee"
  },
  "lineage": {
   "tool": "proof_record v1 2026-11-01",

@@ -4,9 +4,7 @@
  "work": "malinivijayavarttika",
  "date": "2026-11-01",
  "blocking": [],
- "warnings": [
-  "METACOMMENTARY ['the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)']"
- ],
+ "warnings": [],
  "mode": "shastra",
  "source_sha": "edb57ee2cc097da6",
  "source_verses": 150,
@@ -24,10 +22,8 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 72,
- "c1_metacommentary": [
-  "the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)"
- ],
+ "c1_words": 63,
+ "c1_metacommentary": [],
  "l2_cites": {
   "checked": 150,
   "failures": []
@@ -60,7 +56,7 @@
   "l0": "7bc1db128dd57445d576a3ee224e8f53ea6b3a4ef78da18c5fc7d1ce88e37ccb",
   "argmap": "7cf0c4b8a9fe4385459784f83f8ae783a1e567c95dd64fe9f80a34693b08828f",
   "l2": "c0a7ce957625c8fe401c398a936c6123468800f266d79cea3e8577fab2934c17",
-  "c1": "6db5882c105c07d8adce52c6c10e05ab36bc50c390c873ece9e08f0d593d6bd1"
+  "c1": "bd74dd03c28f04581c627bd673214963f6c7ce75979552a389e4b9594e36f078"
  },
  "lineage": {
   "tool": "proof_record v1 2026-11-01",

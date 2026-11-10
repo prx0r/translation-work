@@ -1,20 +1,21 @@
 {
-  "work": "tantrasara-a10",
-  "updated": "2026-11-04",
-  "next": "Owner: first-verse L4 voice verdict (tsa-a10-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a16 (24 units).",
-  "counts": {
-    "passages": 1,
-    "verses": 18,
-    "l0_parsed": 171,
-    "l0_ambiguous": 0,
-    "l0_failed": 0,
-    "l4_drafts": 18,
-    "l4_with_craft": 18
-  },
-  "notes": "GOLD #40 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 10 (kalādhvā scheme; 18 units) via workcfg abhts. Full pipeline: L0 hand-crafted 171 tok 100% PARSED (fused-span merges: u9 tasyopadeśa..., u11 pañcaiva, u15 tad/yadā+na/ca splits, u18 pramāṇasyaiva) / T1 md+jsonl+report / argmaps 18/18 (sha e4c4d69bb95ec2d3, gate PASS, 0 shared) / L2 18 / C1 essence 18 + 7-part + rasa adbhuta-śānta (0 quotes, 0 shared) / L3 18 handcrafted (0 shared w/ L2) / L4 18 DRAFTs craft+rejected+read-aloud, printed oddities (kartṛtāsparśi, śāntātītā) held clean / c1 md / site ABSTENTION. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
-  "needs": [
-    "first-verse L4 voice verdict (owner)",
-    "human-review (machine-proposed)"
-  ],
-  "rasa": "adbhuta-śānta of a scheme counted (wonder at arithmetic settling)"
+ "work": "tantrasara-a10",
+ "updated": "2026-11-04",
+ "next": "Owner: first-verse L4 voice verdict (tsa-a10-v01) + human review. Site ABSTENTION (owner commits ipvv). Next shortest-first: tantrasara-a16 (24 units).",
+ "counts": {
+  "passages": 1,
+  "verses": 18,
+  "l0_parsed": 171,
+  "l0_ambiguous": 0,
+  "l0_failed": 0,
+  "l4_drafts": 18,
+  "l4_with_craft": 18,
+  "proof": "PASS"
+ },
+ "notes": "GOLD #40 (MACHINE_PROPOSED) 2026-11-04: Tantrasara ahnika 10 (kalādhvā scheme; 18 units) via workcfg abhts. Full pipeline: L0 hand-crafted 171 tok 100% PARSED (fused-span merges: u9 tasyopadeśa..., u11 pañcaiva, u15 tad/yadā+na/ca splits, u18 pramāṇasyaiva) / T1 md+jsonl+report / argmaps 18/18 (sha e4c4d69bb95ec2d3, gate PASS, 0 shared) / L2 18 / C1 essence 18 + 7-part + rasa adbhuta-śānta (0 quotes, 0 shared) / L3 18 handcrafted (0 shared w/ L2) / L4 18 DRAFTs craft+rejected+read-aloud, printed oddities (kartṛtāsparśi, śāntātītā) held clean / c1 md / site ABSTENTION. validate 0, proof PASS, qa NEEDS_WITNESS, check.py CANONICAL. OPEN: first-verse L4 voice verdict (owner); human review; C2 waived.",
+ "needs": [
+  "first-verse L4 voice verdict (owner)",
+  "human-review (machine-proposed)"
+ ],
+ "rasa": "adbhuta-śānta of a scheme counted (wonder at arithmetic settling)"
 }

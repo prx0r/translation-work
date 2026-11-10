@@ -7,7 +7,8 @@
   "verses": 2,
   "l0_parsed": 66,
   "l0_ambiguous": 0,
-  "l0_failed": 0
+  "l0_failed": 0,
+  "proof": "PASS"
  },
  "notes": "GOLD (MACHINE_PROPOSED) 2026-11-04: abhiseka ahnika, 2 prose units via workcfg GRETIL span route. Full pipeline: T1 span-exact (legacy phantom atha dropped w/ grounds) / L0 66 tok 100% PARSED 0 drift / argmaps 2/2 (0 shared) / L2 / C1 / L3 2 / L4 2 DRAFTs (audit-aligned) / C2 eli5+genz / c1.NOTE. validate 0, proof PASS, roundtrip 0, check.py CANONICAL 0 failures, qa NEEDS_WITNESS. OPEN: first-verse L4 voice verdict (owner); human review. Beauty-pass verify-only 2026-11-04 (machine-proposed): 2 units read aloud — abhiṣeka sequence holds; no re-craft. Voice verdict + human review still owner-side.",
  "needs": [
