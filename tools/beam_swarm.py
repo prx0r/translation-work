@@ -427,7 +427,7 @@ def run_tal_gloss(t: dict) -> tuple[bool, str]:
             + (f'PREVIOUS ATTEMPT NOTE: {prev}\n\n' if prev and 'attempt failed' not in prev and len(prev) > 5 else '')
             + 'Gloss EVERY token in order. Reply ONLY JSON: {"song": "...", "verse": N, '
               '"rows": [{"surface": "...(exact)", "gloss": "...", "grounds": "..."}]}')
-    text = beam(TAL_GLOSS_SYS, user, session=f'tal-gloss-{song}-v{verse}-001', max_tokens=64000)
+    text = beam(TAL_GLOSS_SYS, user, session=f'tal-gloss-{song}-v{verse}-001', max_tokens=131072)
     start, end = text.find('{'), text.rfind('}')
     if start < 0:
         return False, 'no JSON object: ' + text[:300]
