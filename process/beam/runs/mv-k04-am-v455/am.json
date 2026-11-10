@@ -1,13 +1,14 @@
 {
  "song": "mv-k04",
  "verse": 455,
- "question": "How can objects, by transcending the nearby senses, extend knowerhood in the self itself?",
+ "question": "How do objects become knowerhood in self?",
  "premises": [
-  "Objects are encountered through the eye and other senses that become near.",
-  "The process described requires transcending those senses.",
-  "Knowerhood is said to be extended in the self."
+  "objects overtake eye sequence",
+  "knowerhood extends in self"
  ],
- "inference": "If objects must transcend the senses to reach the self, the mechanism of knowerhood remains unexplained.",
- "uncertainties": [],
- "plain_english": "How, by a process that transcends the eye and other senses once they have become near, could the objects extend knowerhood in the self itself?"
+ "inference": "the verse questions how object-contact yields knowerhood",
+ "uncertainties": [
+  "compound segmentation"
+ ],
+ "plain_english": "How do objects, by overtaking the eye sequence, extend knowerhood in the self?"
 }

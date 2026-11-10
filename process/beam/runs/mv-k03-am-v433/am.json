@@ -1,13 +1,14 @@
 {
  "song": "mv-k03",
  "verse": 433,
- "question": "Why is consciousness intrinsically valid as a means of knowledge?",
+ "question": "Why is consciousness valid means by itself?",
  "premises": [
-  "Consciousness is inwardly adorned with mantra-natured verbal reflective awareness.",
-  "It does not depend on anything else for its operation.",
-  "What does not depend on another for its validity is valid by itself."
+  "consciousness beautiful with inner mantra-natured verbal reflective awareness",
+  "not depending on anything else"
  ],
- "inference": "Therefore consciousness is intrinsically self-valid as the means of knowledge.",
- "uncertainties": [],
- "plain_english": "That consciousness, inwardly beautiful with mantra-natured verbal reflective awareness, is valid by itself, because it does not depend on anything else."
+ "inference": "consciousness is valid means by itself",
+ "uncertainties": [
+  "long compound parsing"
+ ],
+ "plain_english": "That consciousness, beautiful with inner mantra-natured verbal reflective awareness, is valid means by itself, for it does not depend on anything else."
 }

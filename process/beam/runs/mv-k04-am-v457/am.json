@@ -1,13 +1,14 @@
 {
  "song": "mv-k04",
  "verse": 457,
- "question": "Why does the opponent, blinded by attachment to his own view, treat the very point in dispute as an answer?",
+ "question": "Why fear saying knowledge is there?",
  "premises": [
-  "The author asserts that knowledge must be located there in the self.",
-  "The opponent is blinded by attachment to his own position.",
-  "The opponent offers the disputed claim itself as the answer."
+  "we say knowledge is there",
+  "party-blindness fears reply"
  ],
- "inference": "The opponent's reply is question-begging because it assumes what must be established.",
- "uncertainties": [],
- "plain_english": "This is exactly what we are saying: how is knowledge there in the first place? Yet, blinded by attachment to his own view, he stated that very same point as the answer."
+ "inference": "the verse states the reply and exposes bias",
+ "uncertainties": [
+  "tad evottaram parsing"
+ ],
+ "plain_english": "We say knowledge is there; why fear, O party-blind one, that reply was stated?"
 }

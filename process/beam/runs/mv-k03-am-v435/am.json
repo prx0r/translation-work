@@ -1,13 +1,14 @@
 {
  "song": "mv-k03",
  "verse": 435,
- "question": "How should the common definition of perception based on the senses be examined?",
+ "question": "What is examined first about perception?",
  "premises": [
-  "Perception is commonly said to rest on the sphere of the eye and other senses.",
-  "That definition is a received teaching.",
-  "The verse proposes to examine that teaching."
+  "perception resting on mark of eye and other senses",
+  "what is stated thus is examined first"
  ],
- "inference": "Therefore the sense-based definition of perception must be critically analyzed rather than accepted as final.",
- "uncertainties": [],
- "plain_english": "And so the teaching that perception rests on the sphere of the eye and other senses is now examined."
+ "inference": "the stated perception claim is examined first",
+ "uncertainties": [
+  "long compound parsing"
+ ],
+ "plain_english": "And thus perception, resting on the mark of the sphere of eye and other senses, is what is stated; that is first examined."
 }

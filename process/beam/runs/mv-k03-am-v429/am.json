@@ -1,12 +1,14 @@
 {
  "song": "mv-k03",
  "verse": 429,
- "question": "Why can a knowable object not be established by a cognition different from it?",
+ "question": "Why must cognition and object be non-different?",
  "premises": [
-  "A knowable object cannot be determined by a cognition that is wholly different from it.",
-  "A crow cannot claim the whiteness that belongs to a swan."
+  "different cognition cannot determine object",
+  "crow does not deserve swan whiteness"
  ],
- "inference": "Therefore the determination of an object requires a cognition not radically separate from that object.",
- "uncertainties": [],
- "plain_english": "For an object cannot be determined by a cognition that is entirely different from it; just as a crow cannot claim the whiteness that belongs to a swan."
+ "inference": "object determination requires non-different cognition",
+ "uncertainties": [
+  "analogy scope"
+ ],
+ "plain_english": "For determination of the object to be known would not occur by a different cognition; for a crow does not deserve whiteness in the whiteness of a swan."
 }

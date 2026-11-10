@@ -1,13 +1,15 @@
 {
  "song": "mv-k03",
  "verse": 440,
- "question": "Does explaining sensory specificity by merit and demerit provide a sound reason?",
+ "question": "What is the nature of this specific difference?",
  "premises": [
-  "One may claim that specific differences arise from various actions called merit and demerit.",
-  "Such an explanation is offered as the basis of sensory specificity.",
-  "The verse judges that explanation to lack the appearance of genuine reasoning."
+  "specific difference by actions",
+  "those spoken of as merit and demerit",
+  "this is devoid of appearance of real reasoning"
  ],
- "inference": "Therefore merit and demerit do not adequately explain why particular senses become instruments.",
- "uncertainties": [],
- "plain_english": "If one says the specific difference comes from various actions called merit and demerit, that explanation is devoid of the appearance of genuine reasoning."
+ "inference": "the proposed specific difference lacks real reasoning",
+ "uncertainties": [
+  "long compound parsing"
+ ],
+ "plain_english": "The specific difference is by those actions spoken of as merit and demerit; this is whose nature is devoid of the appearance of real reasoning."
 }

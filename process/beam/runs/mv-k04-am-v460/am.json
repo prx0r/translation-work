@@ -1,13 +1,14 @@
 {
  "song": "mv-k04",
  "verse": 460,
- "question": "If the mind-self connection is constant, why would even the sleeping or fainted not be perpetual knowers?",
+ "question": "Would knowers always be unfortunate?",
  "premises": [
-  "A constant mind-self connection would make cognition always available.",
-  "Sleeping, intoxicated, fainted, or unfortunate persons do not always know.",
-  "The opponent does not accept perpetual cognition in the manner of a Buddhist disciple."
+  "knowers would always be unfortunate",
+  "this is not your desired knowledge"
  ],
- "inference": "A constant mind-self connection leads to an unacceptable consequence of universal perpetual knowing.",
- "uncertainties": [],
- "plain_english": "Then those who are asleep, intoxicated, fainted, or unfortunate would always be knowers. But you do not accept such knowledge, like a disciple of the Buddhists."
+ "inference": "the verse rejects a Buddhist-like consequence",
+ "uncertainties": [
+  "compound segmentation"
+ ],
+ "plain_english": "Knowers would always be sleeping, drunk, fainted, unfortunate; this is not your desired knowledge, like a Buddhist disciple."
 }
