@@ -1,0 +1,1520 @@
+{
+ "song": "mv-k04",
+ "items": [
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "āśrayadvārako",
+     "gloss": "support-gate",
+     "grounds": "compound: support-gate",
+     "morph": "compound"
+    },
+    {
+     "surface": "'kṣāṇām",
+     "gloss": "of-senses",
+     "grounds": "genitive plural masculine",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "anugraha",
+     "gloss": "favor",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhatsva",
+     "gloss": "declare",
+     "grounds": "imperative second singular active",
+     "morph": "2sg.imp.act"
+    },
+    {
+     "surface": "ka",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eteṣām",
+     "gloss": "of-these",
+     "grounds": "genitive plural masculine",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "āśrayo",
+     "gloss": "support",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "'stv",
+     "gloss": "let-be",
+     "grounds": "imperative third singular active",
+     "morph": "3sg.imp.act"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "codite",
+     "gloss": "when-asked",
+     "grounds": "locative singular masculine participle",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What support is declared for these senses?",
+   "premises": [
+    "support is asked for senses",
+    "favor is named as support"
+   ],
+   "inference": "the verse poses the support question",
+   "uncertainties": [
+    "exact participle sense"
+   ],
+   "plain_english": "When asked what support these senses have, favor is named as support."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "that-which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anugrahayogo",
+     "gloss": "favor-union",
+     "grounds": "compound: favor-union",
+     "morph": "compound"
+    },
+    {
+     "surface": "'sya",
+     "gloss": "of-it",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "evāśraya",
+     "gloss": "indeed-support",
+     "grounds": "compound: indeed-support",
+     "morph": "compound"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nyāyo",
+     "gloss": "reasoning",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "'nyonyasamālambī",
+     "gloss": "mutually-dependent",
+     "grounds": "compound: mutually-dependent",
+     "morph": "compound"
+    },
+    {
+     "surface": "cakrakaṃ",
+     "gloss": "circle",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nātivartate",
+     "gloss": "does-not-transcend",
+     "grounds": "verb third singular present active",
+     "morph": "3sg.pres.act"
+    }
+   ],
+   "question": "Does this reasoning escape circular dependence?",
+   "premises": [
+    "favor-union is called support",
+    "support and favor depend mutually"
+   ],
+   "inference": "the reasoning remains circular",
+   "uncertainties": [
+    "compound boundary"
+   ],
+   "plain_english": "This reasoning that favor-union is support does not escape mutual dependence."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "vāyuprakṛti",
+     "gloss": "air-nature",
+     "grounds": "compound: air-nature",
+     "morph": "compound"
+    },
+    {
+     "surface": "yac",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "coktaṃ",
+     "gloss": "was-said",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sparśanaṃ",
+     "gloss": "touch",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vivicyate",
+     "gloss": "is-distinguished",
+     "grounds": "verb third singular present passive",
+     "morph": "3sg.pres.pass"
+    },
+    {
+     "surface": "vāyor",
+     "gloss": "of-air",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "vegavatī",
+     "gloss": "swift",
+     "grounds": "nominative singular feminine",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tāvad",
+     "gloss": "so-long",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aniruddhā",
+     "gloss": "unobstructed",
+     "grounds": "nominative singular feminine",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "state",
+     "grounds": "nominative singular feminine",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How is air's touch distinguished?",
+   "premises": [
+    "air-nature touch was said",
+    "air's swift unobstructed state is established"
+   ],
+   "inference": "touch is distinguished by air's state",
+   "uncertainties": [
+    "passive sense"
+   ],
+   "plain_english": "The touch said to be air-nature is distinguished while air's swift unobstructed state remains established."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "dehadeśe",
+     "gloss": "in-body-place",
+     "grounds": "locative singular masculine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sparśaḥ",
+     "gloss": "touch",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuḍya",
+     "gloss": "wall",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "order",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "cakṣuś",
+     "gloss": "eye",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taijasaṃ",
+     "gloss": "fiery",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tejaḥ",
+     "gloss": "light",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prasṛtaṃ",
+     "gloss": "extended",
+     "grounds": "nominative singular neuter participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bāhyagocare",
+     "gloss": "in-external-range",
+     "grounds": "locative singular masculine",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What order follows for touch and sight?",
+   "premises": [
+    "touch is not wall in body-place",
+    "eye is fiery light extended externally"
+   ],
+   "inference": "the verse questions the resulting order",
+   "uncertainties": [
+    "kuḍya reading"
+   ],
+   "plain_english": "If touch is not wall in the body-place, what order follows, while the eye is fiery light extended into external range?"
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "arthān",
+     "gloss": "objects",
+     "grounds": "accusative plural masculine",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "rūpapradhānāṃś",
+     "gloss": "form-predominant",
+     "grounds": "accusative plural masculine",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vettīty",
+     "gloss": "knows-thus",
+     "grounds": "verb third singular present active plus indeclinable",
+     "morph": "3sg.pres.act"
+    },
+    {
+     "surface": "etan",
+     "gloss": "this",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-examined",
+     "grounds": "verb third singular present passive",
+     "morph": "3sg.pres.pass"
+    },
+    {
+     "surface": "adṛśyaṃ",
+     "gloss": "invisible",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tejaḥ",
+     "gloss": "light",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "preryate",
+     "gloss": "is-driven",
+     "grounds": "verb third singular present passive",
+     "morph": "3sg.pres.pass"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "instrumental singular neuter",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can invisible light be driven by mind?",
+   "premises": [
+    "objects form-predominant are known",
+    "invisible light driven by mind is questioned"
+   ],
+   "inference": "the examination challenges mind-driven light",
+   "uncertainties": [
+    "compound split"
+   ],
+   "plain_english": "This examines how objects, predominantly form, are known, and how invisible light could be driven by mind."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "preraṇaṃ",
+     "gloss": "driving",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avijñānaṃ",
+     "gloss": "without-knowledge",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kadācid",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upapadyate",
+     "gloss": "occurs",
+     "grounds": "verb third singular present middle",
+     "morph": "3sg.pres.mid"
+    },
+    {
+     "surface": "indriyeṇa",
+     "gloss": "by-sense",
+     "grounds": "instrumental singular neuter",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātaṃ",
+     "gloss": "known",
+     "grounds": "nominative singular neuter participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kadācic",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cākṣuṣaṃ",
+     "gloss": "visual",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mahaḥ",
+     "gloss": "greatness",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Can driving occur without knowledge?",
+   "premises": [
+    "driving never occurs without knowledge",
+    "visual greatness is not known by sense"
+   ],
+   "inference": "driving requires knowledge",
+   "uncertainties": [
+    "mahaḥ sense"
+   ],
+   "plain_english": "Driving never occurs without knowledge, and visual greatness is never known merely by sense."
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāpīndriyavijñāte",
+     "gloss": "in-sense-known",
+     "grounds": "locative singular neuter participle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "svatantraṃ",
+     "gloss": "independent",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavatāṃ",
+     "gloss": "of-yours",
+     "grounds": "genitive plural masculine",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "apreritaṃ",
+     "gloss": "undriven",
+     "grounds": "nominative singular neuter participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "paśyet",
+     "gloss": "would-see",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-all",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can mind see independently when sense-known?",
+   "premises": [
+    "mind is not independent in sense-known",
+    "undriven mind would see everywhere always"
+   ],
+   "inference": "mind cannot see independently",
+   "uncertainties": [
+    "optative force"
+   ],
+   "plain_english": "Mind is not independent in what is sense-known, and undriven mind would see everywhere in every way always."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "āsamañjasyam",
+     "gloss": "inconsistency",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "pravṛttau",
+     "gloss": "in-activity",
+     "grounds": "locative singular feminine",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivartane",
+     "gloss": "in-cessation",
+     "grounds": "locative singular neuter",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "golakasaṃsthānaṃ",
+     "gloss": "orb-arrangement",
+     "grounds": "compound: orb-arrangement",
+     "morph": "compound"
+    },
+    {
+     "surface": "tāvac",
+     "gloss": "so-much",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mahaḥ",
+     "gloss": "greatness",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Would inconsistency arise in activity or cessation?",
+   "premises": [
+    "inconsistency would arise in activity or cessation",
+    "orb-arrangement is questioned if that greatness"
+   ],
+   "inference": "the verse raises inconsistency",
+   "uncertainties": [
+    "golaka sense"
+   ],
+   "plain_english": "Inconsistency would arise in activity or cessation, and the orb-arrangement is questioned if that greatness holds."
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "tāvatas",
+     "gloss": "of-so-much",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tadgatasyaiva",
+     "gloss": "of-that-gone-indeed",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "grahaḥ",
+     "gloss": "grasping",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syān",
+     "gloss": "would-be",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "nānyataḥ",
+     "gloss": "not-from-elsewhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaitad",
+     "gloss": "thus-this",
+     "grounds": "compound: thus-this",
+     "morph": "compound"
+    },
+    {
+     "surface": "viparītaṃ",
+     "gloss": "opposite",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "golake",
+     "gloss": "in-orb",
+     "grounds": "locative singular masculine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimīlite",
+     "gloss": "when-closed",
+     "grounds": "locative singular masculine participle",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Would grasping be only from that orb?",
+   "premises": [
+    "grasping would be of that gone-indeed",
+    "not from elsewhere anywhere",
+    "opposite holds even in closed orb"
+   ],
+   "inference": "grasping is challenged as orb-bound",
+   "uncertainties": [
+    "tadgatasya sense"
+   ],
+   "plain_english": "Grasping would be only of that gone-indeed, not from elsewhere anywhere; yet the opposite holds even in a closed orb."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "unmīlite",
+     "gloss": "when-opened",
+     "grounds": "locative singular masculine participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastuni",
+     "gloss": "in-object",
+     "grounds": "locative singular neuter",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "grahaṇaṃ",
+     "gloss": "grasping",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "unmīlite",
+     "gloss": "when-opened",
+     "grounds": "locative singular masculine participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "cakṣuṣi",
+     "gloss": "in-eye",
+     "grounds": "locative singular neuter",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasṛte",
+     "gloss": "extended",
+     "grounds": "locative singular masculine participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "raśmimaṇḍale",
+     "gloss": "in-ray-circle",
+     "grounds": "locative singular neuter",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Would grasping occur everywhere when opened?",
+   "premises": [
+    "when opened grasping would be everywhere in object",
+    "when eye opened and ray-circle extended"
+   ],
+   "inference": "opening implies universal grasping",
+   "uncertainties": [
+    "vā scope"
+   ],
+   "plain_english": "When opened, grasping would occur everywhere in the object, and when the eye is opened with ray-circle extended."
+  },
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "tasyāsti",
+     "gloss": "of-it-there-is",
+     "grounds": "compound: of-it-there-is",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭasyeva",
+     "gloss": "like-cloth",
+     "grounds": "compound: like-cloth",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃvṛtir",
+     "gloss": "covering",
+     "grounds": "nominative singular feminine",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "netramīlane",
+     "gloss": "in-eye-closing",
+     "grounds": "locative singular neuter",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimīlitākṣasya",
+     "gloss": "of-closed-eyed",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "vastudṛṣṭir",
+     "gloss": "object-sight",
+     "grounds": "compound: object-sight",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "whether",
+     "grounds": "interrogative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "Would closed-eyed object-sight not occur?",
+   "premises": [
+    "there is no covering like cloth in eye-closing",
+    "then closed-eyed object-sight would not be"
+   ],
+   "inference": "closing the eye does not cover sight",
+   "uncertainties": [
+    "tasyāsti parsing"
+   ],
+   "plain_english": "There is no cloth-like covering in eye-closing, so closed-eyed object-sight would not occur."
+  },
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "ghane",
+     "gloss": "in-dense",
+     "grounds": "locative singular masculine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "cātapamadhye",
+     "gloss": "and-in-sun-middle",
+     "grounds": "compound: and-in-sun-middle",
+     "morph": "compound"
+    },
+    {
+     "surface": "'sti",
+     "gloss": "there-is",
+     "grounds": "verb third singular present active",
+     "morph": "3sg.pres.act"
+    },
+    {
+     "surface": "vinimīlitacakṣuṣaḥ",
+     "gloss": "of-one-with-closed-eyes",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "citratejovabhānaṃ",
+     "gloss": "bright-light-appearance",
+     "grounds": "compound: bright-light-appearance",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatpīḍitākṣayugasya",
+     "gloss": "of-one-with-pressed-eye-pair",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does bright light appear with closed eyes?",
+   "premises": [
+    "in dense sun-middle there is appearance",
+    "for one with closed eyes and pressed eye-pair"
+   ],
+   "inference": "closed eyes still show bright light",
+   "uncertainties": [
+    "compound parsing"
+   ],
+   "plain_english": "In dense sunlight there is bright light appearance for one with closed eyes and pressed eye-pair."
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "yogināṃ",
+     "gloss": "of-yogins",
+     "grounds": "genitive plural masculine",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "bindudṛg",
+     "gloss": "point-sight",
+     "grounds": "compound: point-sight",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhvānte",
+     "gloss": "in-darkness",
+     "grounds": "locative singular neuter",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "verb third singular future middle",
+     "morph": "3sg.fut.mid"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "unmīlite",
+     "gloss": "when-opened",
+     "grounds": "locative singular masculine participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "'py",
+     "gloss": "even",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣṇi",
+     "gloss": "in-eye",
+     "grounds": "locative singular neuter",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastugrahaṇaṃ",
+     "gloss": "object-grasping",
+     "grounds": "compound: object-grasping",
+     "morph": "compound"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How would yogins' point-sight in darkness be?",
+   "premises": [
+    "yogins' point-sight in darkness is questioned",
+    "even when eye opened no object-grasping anywhere"
+   ],
+   "inference": "point-sight does not yield object-grasping",
+   "uncertainties": [
+    "bhaviṣyati/bhaved relation"
+   ],
+   "plain_english": "How would yogins' point-sight in darkness be, when even with opened eye there is no object-grasping anywhere?"
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "manodhiṣṭhānayogena",
+     "gloss": "by-mind-seat-union",
+     "grounds": "instrumental singular masculine",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "paramāṇvadhikaprathā",
+     "gloss": "atom-exceeding-appearance",
+     "grounds": "compound: atom-exceeding-appearance",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīpāpekṣā",
+     "gloss": "lamp-dependence",
+     "grounds": "compound: lamp-dependence",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmuṣya",
+     "gloss": "of-that",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sāpi",
+     "gloss": "that-too",
+     "grounds": "compound: that-too",
+     "morph": "compound"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "whether",
+     "grounds": "interrogative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibādhyate",
+     "gloss": "is-refuted",
+     "grounds": "verb third singular present passive",
+     "morph": "3sg.pres.pass"
+    }
+   ],
+   "question": "Is lamp-dependence refuted by mind-seat union?",
+   "premises": [
+    "by mind-seat union atom-exceeding appearance",
+    "lamp-dependence of that too is questioned"
+   ],
+   "inference": "lamp-dependence may be refuted",
+   "uncertainties": [
+    "yāmuṣya parsing"
+   ],
+   "plain_english": "By mind-seat union, atom-exceeding appearance and lamp-dependence of that too may be refuted."
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "dīpaprakāśaḥ",
+     "gloss": "lamp-light",
+     "grounds": "compound: lamp-light",
+     "morph": "compound"
+    },
+    {
+     "surface": "svāntātmanetrārtheṣūpakārakaḥ",
+     "gloss": "helpful-in-mind-self-eye-objects",
+     "grounds": "compound: helpful-in-mind-self-eye-objects",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "individually",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manovṛtteḥ",
+     "gloss": "of-mind-fluctuation",
+     "grounds": "genitive singular feminine",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "saṃskāras",
+     "gloss": "impression",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular masculine",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "Would lamp-light help mind-fluctuation individually?",
+   "premises": [
+    "lamp-light is helpful in mind self eye objects",
+    "not individually; mind-fluctuation impression by that if"
+   ],
+   "inference": "lamp-light's help is not individual",
+   "uncertainties": [
+    "long compound"
+   ],
+   "plain_english": "Lamp-light helps mind, self, eye, and objects, but not individually; mind-fluctuation impression would be by that if."
+  },
+  {
+   "verse": 505,
+   "rows": [
+    {
+     "surface": "dīpe",
+     "gloss": "in-lamp",
+     "grounds": "locative singular masculine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "saṃkalpyamane",
+     "gloss": "when-imagined",
+     "grounds": "locative singular masculine participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "locative singular feminine",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "rūpaparigrahaḥ",
+     "gloss": "form-grasping",
+     "grounds": "compound: form-grasping",
+     "morph": "compound"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "saṃskriyā",
+     "gloss": "impression",
+     "grounds": "nominative singular feminine",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sarvagatatvataḥ",
+     "gloss": "from-all-pervadingness",
+     "grounds": "ablative singular neuter",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "Would form-grasping occur when lamp is imagined?",
+   "premises": [
+    "when lamp imagined at night form-grasping would be",
+    "self impression if all-pervadingness"
+   ],
+   "inference": "imagined lamp yields form-grasping",
+   "uncertainties": [
+    "saṃkalpyamane parsing"
+   ],
+   "plain_english": "When a lamp is imagined at night, form-grasping would occur; self-impression would be due to its all-pervadingness."
+  },
+  {
+   "verse": 506,
+   "rows": [
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpasaṃvit",
+     "gloss": "form-awareness",
+     "grounds": "compound: form-awareness",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb third singular optative active",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "saṃyogaḥ",
+     "gloss": "conjunction",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saṃskriyā",
+     "gloss": "impression",
+     "grounds": "nominative singular feminine",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amūrtasypi",
+     "gloss": "of-formless-even",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "nityasya",
+     "gloss": "of-eternal",
+     "grounds": "genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ko",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "'nyaḥ",
+     "gloss": "other",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saṃskāra",
+     "gloss": "impression",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb third singular present passive",
+     "morph": "3sg.pres.pass"
+    }
+   ],
+   "question": "What impression is called for formless eternal?",
+   "premises": [
+    "always form-awareness would be",
+    "conjunction is impression because",
+    "for formless eternal what other impression is called"
+   ],
+   "inference": "impression is questioned for formless eternal",
+   "uncertainties": [
+    "amūrtasypi spelling"
+   ],
+   "plain_english": "Form-awareness would always be; conjunction is impression, so for the formless eternal what other impression is called?"
+  },
+  {
+   "verse": 507,
+   "rows": [
+    {
+     "surface": "netropakāraś",
+     "gloss": "eye-help",
+     "grounds": "compound: eye-help",
+     "morph": "compound"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarhi",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netradeśasthite",
+     "gloss": "in-eye-place-situated",
+     "grounds": "locative singular masculine participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "'rciṣi",
+     "gloss": "in-flame",
+     "grounds": "locative singular masculine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tejomadhyagataṃ",
+     "gloss": "in-light-middle-gone",
+     "grounds": "compound: in-light-middle-gone",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "nominative singular neuter",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāseta",
+     "gloss": "would-shine",
+     "grounds": "verb third singular optative middle",
+     "morph": "3sg.opt.mid"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Would form not shine in eye-place flame?",
+   "premises": [
+    "if eye-help then",
+    "in eye-place situated flame",
+    "form in light-middle would never shine"
+   ],
+   "inference": "eye-help leads to non-shining form",
+   "uncertainties": [
+    "'rciṣi parsing"
+   ],
+   "plain_english": "If eye-help, then form in light-middle would never shine in a flame situated in the eye-place."
+  }
+ ]
+}
