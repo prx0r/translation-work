@@ -1,0 +1,75 @@
+{
+ "song": "mv-k07",
+ "items": [
+  {
+   "verse": 924,
+   "rows": [
+    {
+     "surface": "vikalpasya",
+     "gloss": "of-conceptualization",
+     "grounds": "genitive of vikalpa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirhrāso",
+     "gloss": "diminution",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirvikalpopalakṣaṇam",
+     "gloss": "characterized-by-absence-of-conceptualization",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ciraduḥkhārtaḥ",
+     "gloss": "long-suffering-afflicted",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āttasukhasthitiḥ",
+     "gloss": "attained-happiness-state",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does diminution of conceptualization become characterized?",
+   "premises": [
+    "diminution of conceptualization is characterized by absence of conceptualization",
+    "one afflicted by long suffering later attains happiness",
+    "the comparison illustrates conceptual diminution"
+   ],
+   "inference": "conceptual diminution is recognized by the absence of conceptualization, like relief after prolonged suffering",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The diminution of conceptualization is characterized by the absence of conceptualization, just as one afflicted by long suffering later attains a state of happiness."
+  }
+ ]
+}
