@@ -1,0 +1,11 @@
+{
+ "work": "ipvv-vivrti-vimarsini",
+ "alias_of": "ipvv",
+ "updated": "2026-11-10",
+ "next": "alias row — canonical data/proof/STATUS live under ipvv/ (49/49 shastra PASS). No standalone build.",
+ "counts": {
+  "proof": "PASS",
+  "note": "inherited from ipvv"
+ },
+ "notes": "Registry alias for the dual-vimarsini work (Vimarśinī + Vimarśinī). Ledger: ipvv/passages.jsonl (49 rows). Never build a second copy: immutable_ids must stay globally unique (see NEVER.md-era dedup, issue #16 thread)."
+}

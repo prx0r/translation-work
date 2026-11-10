@@ -7,7 +7,35 @@ SKILL.md + EXAMPLES.md + FINAL-PROCESS.md + crystal.md + mistakes.md (all read
 and re-verified 2026-11-04 — see CANONICAL CHECKLIST below). When todos change,
 edit THIS file in the same commit — never leave it behind.*
 
-## State snapshot (verified 2026-11-04, all committed)
+## State snapshot (verified 2026-11-10 — CURRENT; supersedes all older snapshots below)
+
+- **REGISTRY 95/95 GOLD, 0 pending.** Every lane-owned work is minimal-gold
+  (T1/L0/argmap/L2/C1-essence + proof PASS; L3/L4 waived for śāstra per
+  SHASTRA-MINIMAL; stotras keep full stack). Machine-proposed, human review
+  pending throughout. `validate_all --quick` 0 failures, `check.py` CANONICAL.
+- **Finalcheck sweep complete** (`finalcheck.md`): 96 audit units, 0 proof
+  failures, 0 unparseable; corpus C1 scan 0 metacommentary/0 quotes after
+  fixing 60 doc-talk lines (28 files); STATUS `counts.proof` backfilled on
+  72 works; content spot-reads sampled shortest-first. Accepted exceptions
+  documented in finalcheck.md §Results (ipvv legacy layout, alias row,
+  pre-swarm working-t1/lore).
+- **2026-11-10 session closes the translation era:** MVV 10/10 (98 verses
+  hand-drafted), Gita 18/18, SSV u1-u3, Tattvasandoha mūla (21 stanzas),
+  then the whole-corpus sweep. Trika corpus = complete.
+- **Out of scope (binding):** `NEVER.md` — Abhinavabharati NEVER (non-Trika
+  + source unready; cut from registry_sync), mystics NEVER (deleted).
+- **Passage ledgers:** all gold works have `passages.jsonl` (8 generated
+  2026-11-10 via `tools/gen_passages.py`; phrdaya 4-sūtra spans sha-verified
+  per issue #14; ipvv-vivrti-vimarsini = alias, ledger at ipvv/).
+- **Open lanes (nothing machine-doable left):** human review of all gold;
+  a00's 5 LIVE forks (Sharma-1983/Supersite collation, scholarly);
+  Tattvasandoha commentary (Muktabodha M00151 bytes, owner-gated);
+  decision-trail backfill sweep for the gold backlog (on downstream ask,
+  issue #17 thread); trika-x chunk-verse OPEN list (issue #17 thread).
+- **Loop:** systemd tal-campaign healthy; queue drained; workers exit when
+  empty (normal). Beam FREE-ONLY (beam-free + iceman).
+
+## State snapshot (verified 2026-11-04, all committed — HISTORICAL)
 
 - **53 gold works** (REGISTRY.json: 101 works / 53 gold / 48 pending — tantrasara a22 #49 (53u/652tok, 8 forks) + a20 #50 (65u/889tok, 2 forks) + a06 #51 (82u/981tok, 2 forks) + a08 #52 (tattvasvarūpa 93u/1120tok, 4 forks, 7 L4 re-sung) + a13 #53 (samaya 101u/1063tok, 4 forks, 4 L4 re-sung) GOLD 2026-11-05/06 — **TANTRASARA COMPLETE 22/22**, plus all of the below from 2026-11-04 (tantrasara a10 #40 + a16 #41 + a11 #42 + a07 #43 + a14 #44 + a03 #45 + a05 #46 + a04 #47 + a09 #48 GOLD; P0 added
   10: gitarthasangraha, abhinavabharati, ipvv-vivrti-vimarsini,

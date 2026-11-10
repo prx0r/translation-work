@@ -84,7 +84,7 @@ def audit_work(work: str) -> dict:
     # lore
     lore = list((ROOT / "process" / "beam" / "lore").glob(f"{work}.md"))
     tal = work.startswith("tantraloka-a")
-    tbrief = (ROOT / "process" / "beam" / "lore" / f"tal-{work.split('tantraloka-a')[-1]}.md") if tal else None
+    tbrief = (ROOT / "process" / "beam" / "lore" / f"tal-a{work.split('tantraloka-a')[-1]}.md") if tal else None
     if not lore and not (tbrief and tbrief.exists()):
         out["issues"].append("NO lore brief (work-level or tal-)")
     # working-t1

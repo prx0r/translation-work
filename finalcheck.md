@@ -92,12 +92,29 @@ proof sweep + check.py) before touching anything.*
    lack canonical `data.*.argmap/l2/c1` — conversion is a yak-shave (proof
    PASS with full records stands as the truth). Layout exception recorded.
 2. **`ipvv-vivrti-vimarsini`**: registry alias row for `ipvv` (dual-vimarsini
-   work); dir holds source only. Data lives under `ipvv/`.
+   work); STATUS.json now written as alias pointer (2026-11-10). Data/ledger
+   live under `ipvv/`.
 3. **`tantrasara-*` + legacy stotras**: no `working-t1-*.json` (swarm-era
    artifact; they use legacy `T1.md`). Working-t1 required only for swarm
    fronts (TAL/Gita/MVV/SSV/tattva).
-4. **Lore briefs**: required for swarm-era fronts (TAL 18 briefs + MVV/
-   Gita/SSV/tattva present). Pre-swarm works never had them — not a defect
-   (audit flag accepted).
+4. **Lore briefs**: 22 on disk — all 4 non-TAL swarm fronts (gita, MVV,
+   SSV, tattva) + 18 TAL ahnikas (a01/a03-a06/a08-a11/a13/a15-a17/a23/
+   a28-a31) + ipvv-V3B. **19 TAL ahnikas (a02, a07, a12, a14, a18-a22,
+   a24-a27, a32-a37) predate the brief regime** — completed via legacy-T1
+   chains / per-verse fallback before transmission briefs were mandated.
+   Why-not: briefs gate *seeding* (largetext §2); these fronts are gold
+   with passing proofs and carry no queued/re-seedable tasks. A brief will
+   be web-scholarshipped before any future re-draft of these fronts, per
+   skill. Pre-swarm works never had briefs (not a defect).
 5. **`spandasandoha/proof-s01.json`**: stale legacy proof alongside
    `proof-sand-p01.json` (the real one, PASS 1.0). Harmless.
+
+### Verification method (owner-approved sampling)
+
+- Batch table T3–T45 satisfied corpus-wide rather than per-batch reads:
+  deterministic audit (`tools/finalcheck_audit.py`, fixed `tal-aNN` path
+  convention 2026-11-10) + full proof sweep + C1 corpus scan (0 meta,
+  0 quotes) + mechanical row-completeness scan (empty fields/FAILED/forks)
+  + content spot-reads on representative samples of each work type
+  (spandasandoha, anubhavanivedana, tantrasara-a02, sivasutra, tal-a15 XL,
+  plus same-day promotions gita/MVV/SSV/tattva).
