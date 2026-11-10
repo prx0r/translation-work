@@ -431,7 +431,8 @@ def main() -> int:
         import record_layer_accept as _rla
         new_rows, scanned, dec_path = _rla.record(args.work, song)
         print(f"decision trail: +{len(new_rows)} rows "
-              f"({scanned} layers) -> {dec_path.relative_to(root)}")
+              f"({scanned} layers) -> {dec_path.relative_to(root)}",
+              file=sys.stderr)  # #13: stdout must stay pure JSON for check.py
     except Exception as e:  # noqa: BLE001 — fail closed with the reason
         print(f"ERROR: decision trail write failed: {e}", file=sys.stderr)
         return 2
