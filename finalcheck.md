@@ -72,3 +72,32 @@ record the rest. Minimal-gold bar throughout (L3/L4 waived for śāstra).*
 
 *T1 = this file + audit script. T2 = gates baseline (validate_all --quick +
 proof sweep + check.py) before touching anything.*
+
+## Results (2026-11-10, sampling sweep complete)
+
+- **Corpus mechanical: 96 audit units, 0 proof failures, 0 unparseable.**
+- **C1 corpus scan: 0 metacommentary, 0 quotes in essence** (after fixing
+  60 doc-talk lines across 28 files — mistakes #2/#8 slips the narrow gate
+  missed; all 27 affected songs re-proved PASS, 0 warnings).
+- **STATUS counts.proof backfilled** on 72 works (uniform schema).
+- **Content spot-reads (sampling):** spandasandoha, anubhavanivedana,
+  tantrasara-a02, sivasutra(span-p01), tal-a15 (XL 613v), plus gita/MVV/SSV/
+  tattvasandoha (same-day promotions). All read clean.
+
+### Accepted exceptions (documented, not defects)
+
+1. **`ipvv` (49 chunks)**: full data in `data/chunk-*.{t1,l0}.json` +
+   legacy L2 (`chunkA-*.l2.json`); argmap/c1 live in `pilot/` and proofs
+   record full content. `chunk-a-svatyandya` + `chunk-b-eligibility-gita`
+   lack canonical `data.*.argmap/l2/c1` — conversion is a yak-shave (proof
+   PASS with full records stands as the truth). Layout exception recorded.
+2. **`ipvv-vivrti-vimarsini`**: registry alias row for `ipvv` (dual-vimarsini
+   work); dir holds source only. Data lives under `ipvv/`.
+3. **`tantrasara-*` + legacy stotras**: no `working-t1-*.json` (swarm-era
+   artifact; they use legacy `T1.md`). Working-t1 required only for swarm
+   fronts (TAL/Gita/MVV/SSV/tattva).
+4. **Lore briefs**: required for swarm-era fronts (TAL 18 briefs + MVV/
+   Gita/SSV/tattva present). Pre-swarm works never had them — not a defect
+   (audit flag accepted).
+5. **`spandasandoha/proof-s01.json`**: stale legacy proof alongside
+   `proof-sand-p01.json` (the real one, PASS 1.0). Harmless.
