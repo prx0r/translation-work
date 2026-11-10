@@ -1,13 +1,15 @@
 {
  "song": "mv-k03",
  "verse": 325,
- "question": "How does the author evaluate the opponent's definition of agency?",
+ "question": "Would childish minds be deceived by this triad doctrine?",
  "premises": [
-  "The proposed definition is presented as misleading.",
-  "It could deceive only those with childish understanding.",
-  "Even children are not entirely devoid of awareness."
+  "childish minds could be deceived",
+  "even children would know",
+  "those devoid of awareness would not"
  ],
- "inference": "Therefore, the opponent's definition of agency is too weak to withstand scrutiny.",
- "uncertainties": [],
- "plain_english": "This kind of reasoning might deceive the childish, but even children are not without awareness."
+ "inference": "The triad doctrine is criticized as deceptive.",
+ "uncertainties": [
+  "compound segmentation not expanded"
+ ],
+ "plain_english": "In this way childish minds would be deceived by deceivers."
 }

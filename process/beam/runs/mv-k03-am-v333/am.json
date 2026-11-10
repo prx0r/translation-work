@@ -1,13 +1,16 @@
 {
  "song": "mv-k03",
  "verse": 333,
- "question": "Does analyzing 'to do' into separate mental acts yield real agency?",
+ "question": "Would being a desirer to act count as agency?",
  "premises": [
-  "Taken individually, the analysis yields knowing to do and desiring to do.",
-  "Being a desirer to act is not the same as being an agent.",
-  "A verbal analysis of 'to do' does not by itself produce agency."
+  "individually the meaning is expressed",
+  "knowing to do is stated",
+  "desirer-to-act would be",
+  "not agency rather"
  ],
- "inference": "Therefore, the proposed analysis yields only desire or cognition, not genuine agency.",
- "uncertainties": [],
- "plain_english": "Taken one by one, this analysis amounts to knowing to do and wanting to do; that makes one a desirer to act, but not truly an agent."
+ "inference": "Desire to act is not itself agency.",
+ "uncertainties": [
+  "compound segmentation not expanded"
+ ],
+ "plain_english": "Being a desirer to act would not be agency; rather it would be something else."
 }

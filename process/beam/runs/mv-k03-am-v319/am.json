@@ -1,13 +1,15 @@
 {
  "song": "mv-k03",
  "verse": 319,
- "question": "What follows if agency is attributed to the self only by figurative designation?",
+ "question": "How can a person be called fire without figurative usage?",
  "premises": [
-  "A merely figurative designation does not make something what it is called.",
-  "Even if a person were figuratively called fire, he would not remove cold caused by snow, hail, showers, and wind.",
-  "Real causal power requires more than a figurative name."
+  "non-figurative fire designation is considered",
+  "a person is not literally fire",
+  "cold-removal is metaphorically fire-like"
  ],
- "inference": "Therefore, figuratively calling the self an agent does not give it real causal efficacy.",
- "uncertainties": [],
- "plain_english": "Even if someone were called fire only figuratively, he would not remove the cold caused by snow, hail, showers, and wind."
+ "inference": "The example shows figurative language cannot be taken literally.",
+ "uncertainties": [
+  "compound segmentation not expanded"
+ ],
+ "plain_english": "Even in non-figurative fire designation, a person is not literally fire."
 }

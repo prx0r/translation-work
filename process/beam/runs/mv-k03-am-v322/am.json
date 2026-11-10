@@ -1,13 +1,15 @@
 {
  "song": "mv-k03",
  "verse": 322,
- "question": "What challenge is posed to those who accept the self as an agent?",
+ "question": "What question is first placed before knowers of doctrine?",
  "premises": [
-  "Some doctrinal thinkers accept the self as an agent.",
-  "Accepting agency requires explaining what kind of agency is meant.",
-  "The author poses a prior question to test that explanation."
+  "knowers approached the self as agent",
+  "they are questioned first",
+  "the question is placed before them"
  ],
- "inference": "Therefore, those who affirm the self's agency must first answer what kind of agency they attribute to it.",
- "uncertainties": [],
- "plain_english": "Even those who, following their doctrine, accept the self as an agent must first answer this question that we put to them."
+ "inference": "The agency problem is posed even to doctrinal knowers.",
+ "uncertainties": [
+  "compound segmentation not expanded"
+ ],
+ "plain_english": "Even knowers who approached the self as agent are first given this question."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mv-k03",
  "verse": 328,
- "question": "Does lack of know-how explain why the potter cannot build the house?",
+ "question": "How could he make a house if he lacks knowledge desire and effort?",
  "premises": [
-  "An opponent may claim the potter does not know how to do it.",
-  "From that lack of know-how, desire and effort would also be absent.",
-  "If the relevant know-how is absent, the action cannot occur."
+  "he does not know how to do",
+  "therefore he does not desire",
+  "therefore he does not strive"
  ],
- "inference": "The objection tries to preserve the triad theory by saying the potter lacks the specific knowledge of doing.",
- "uncertainties": [],
- "plain_english": "The objection says: he does not know how to do it, so he does not want to do it and does not try; then how could he make the house?"
+ "inference": "Without knowledge desire and effort, making is impossible.",
+ "uncertainties": [
+  "compound segmentation not expanded"
+ ],
+ "plain_english": "If he neither knows nor desires nor strives, how could he make a house?"
 }

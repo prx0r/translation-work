@@ -1,13 +1,15 @@
 {
  "song": "mv-k03",
  "verse": 332,
- "question": "What does the phrase 'of the self, to do' amount to when analyzed?",
+ "question": "What does analysis of meaning reveal about the self's doing?",
  "premises": [
-  "The phrase 'to do' must be analyzed in terms of the self's acts.",
-  "Analysis yields knowing, desiring, and striving.",
-  "These can be further specified as knowing to know, striving to strive, and desiring to desire."
+  "of the self to do thus",
+  "therefore in analysis of meaning",
+  "knowing and desiring he strives to know strive and desire"
  ],
- "inference": "The analysis reduces 'to do' to internal cognitive-volitional acts rather than external agency.",
- "uncertainties": [],
- "plain_english": "When we analyze the meaning of 'the self is to do', it comes down to knowing, desiring, and striving — even striving to know, to desire, and to strive."
+ "inference": "Agency collapses into knowing desiring and striving themselves.",
+ "uncertainties": [
+  "compound segmentation not expanded"
+ ],
+ "plain_english": "In analysis, knowing and desiring, he strives to know, strive, and desire."
 }

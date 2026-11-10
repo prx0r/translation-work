@@ -7,25 +7,25 @@
     {
      "surface": "sthitaḥ",
      "gloss": "stood",
-     "grounds": "participle of sthā",
+     "grounds": "perfect participle of sthā",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sarvasphurattātmā",
      "gloss": "all-shining-self",
-     "grounds": "compound",
-     "morph": "m.nom.sg compound"
+     "grounds": "compound of sarva + sphurat + ātman",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "sarvasiddhiphalodayaḥ",
-     "gloss": "all-accomplishment-fruit-rising",
-     "grounds": "compound",
-     "morph": "m.nom.sg compound"
+     "gloss": "all-accomplishment-fruit-rise",
+     "grounds": "compound of sarva + siddhi + phala + udaya",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "evaṃ",
      "gloss": "thus",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
@@ -37,13 +37,13 @@
     {
      "surface": "nirmeye",
      "gloss": "in-created",
-     "grounds": "locative adjective",
-     "morph": "m.loc.sg"
+     "grounds": "locative of nirmeya",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "nirmitsāsvīkṛtaṃ",
-     "gloss": "accepted-as-desire-to-create",
-     "grounds": "compound participle",
+     "gloss": "accepted-desire-to-create",
+     "grounds": "compound participle of nirmitsā and svīkṛta",
      "morph": "n.acc.sg"
     },
     {
@@ -55,15 +55,15 @@
    ],
    "question": "How does the all-shining self stand in the created world?",
    "premises": [
-    "The self stands as all-shining.",
-    "The world is created.",
-    "Creation is accepted by force."
+    "the self stands all-shining",
+    "the world is created",
+    "creation is accepted by force"
    ],
-   "inference": "The all-shining self stands in the created world through accepted creative force.",
+   "inference": "the self's standing pervades even forced creation",
    "uncertainties": [
-    "Compound boundaries are interpretive."
+    "compound boundaries are interpretive"
    ],
-   "plain_english": "Thus the all-shining self, source of all accomplishment, stands in the created world, where creation is accepted by force."
+   "plain_english": "Thus the all-shining self stands, source of every accomplishment's fruit, even in the created world accepted by force."
   },
   {
    "verse": 185,
@@ -71,57 +71,57 @@
     {
      "surface": "aśuddham",
      "gloss": "impure",
-     "grounds": "negative adjective",
+     "grounds": "negative of śuddha",
      "morph": "n.nom.sg"
     },
     {
      "surface": "api",
      "gloss": "even",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tadrūpanānāvaicitryayogy",
      "gloss": "fit-for-varied-forms-of-that-shape",
-     "grounds": "compound adjective",
+     "grounds": "compound of tad + rūpa + nānā + vaicitrya + yoga",
      "morph": "n.nom.sg"
     },
     {
      "surface": "api",
      "gloss": "even",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sāmānyākārarūpeṇa",
-     "gloss": "in-common-form-shape",
-     "grounds": "instrumental compound",
+     "gloss": "by-common-form-shape",
+     "grounds": "instrumental of sāmānyākārarūpa",
      "morph": "n.inst.sg"
     },
     {
      "surface": "dalaṃ",
-     "gloss": "part",
+     "gloss": "petal",
      "grounds": "noun dala",
      "morph": "n.nom.sg"
     },
     {
      "surface": "bhedātmasundaram",
      "gloss": "beautiful-as-difference-self",
-     "grounds": "compound adjective",
+     "grounds": "compound of bheda + ātman + sundara",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "How can impurity still appear as a beautiful part of difference?",
+   "question": "How can impurity still appear beautiful as difference?",
    "premises": [
-    "Impurity is even fit for varied forms.",
-    "It appears in common form.",
-    "Difference-self is beautiful."
+    "impurity is even fit for varied forms",
+    "common form shapes it",
+    "difference-self appears beautiful"
    ],
-   "inference": "Impurity becomes a beautiful part of difference through common form.",
+   "inference": "impurity participates in beauty through differentiated form",
    "uncertainties": [
-    "The compound tadrūpanānāvaicitryayogy is long and compressed."
+    "dala may be metaphorical"
    ],
-   "plain_english": "Even impurity, fit for varied forms of that shape, appears in common form as a part beautiful as difference-self."
+   "plain_english": "Even impurity, fit for varied forms of that shape, appears as a beautiful petal of difference through common form."
   },
   {
    "verse": 186,
@@ -130,24 +130,24 @@
      "surface": "āste",
      "gloss": "stands",
      "grounds": "verb ās",
-     "morph": "3.sg.act-pres"
+     "morph": "3.sg.act-pres + ās"
     },
     {
      "surface": "pronmiṣitaṃ",
-     "gloss": "bloomed",
-     "grounds": "participle",
+     "gloss": "opened-out",
+     "grounds": "perfect participle of pronmiṣ",
      "morph": "n.nom.sg"
     },
     {
      "surface": "saiṣā",
      "gloss": "this-she",
-     "grounds": "demonstrative pronoun",
+     "grounds": "sandhi of sā + eṣā",
      "morph": "f.nom.sg"
     },
     {
      "surface": "bhedābhedātmikā",
      "gloss": "difference-nondifference-natured",
-     "grounds": "compound adjective",
+     "grounds": "compound of bheda + abheda + ātmaka",
      "morph": "f.nom.sg"
     },
     {
@@ -165,53 +165,54 @@
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "hi",
      "gloss": "for",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sādākhye",
      "gloss": "in-sadākhya",
-     "grounds": "locative",
+     "grounds": "locative of sādākhya",
      "morph": "m.loc.sg"
     },
     {
      "surface": "jñānaśaktisvarūpiṇi",
-     "gloss": "in-knowledge-power-nature",
-     "grounds": "locative compound",
-     "morph": "f.loc.sg"
+     "gloss": "in-knowledge-power-natured",
+     "grounds": "locative of jñānaśaktisvarūpin",
+     "morph": "m.loc.sg"
     }
    ],
-   "question": "Why does this difference-nondifference state stand bloomed in sadākhya?",
+   "question": "Where does the opened difference-nondifference state stand?",
    "premises": [
-    "This state is difference-nondifference-natured.",
-    "It stands bloomed.",
-    "Sadākhya is knowledge-power-nature."
+    "this state is opened out",
+    "it is difference-nondifference natured",
+    "it stands in sadākhya",
+    "sadākhya is knowledge-power natured"
    ],
-   "inference": "The difference-nondifference state stands bloomed in sadākhya because that is knowledge-power-nature.",
+   "inference": "the opened state is located in knowledge-power nature",
    "uncertainties": [
-    "saiṣā may refer to a prior state."
+    "saiṣā sandhi resolution is editorial"
    ],
-   "plain_english": "This difference-nondifference state stands bloomed; therefore it is in sadākhya, the nature of knowledge-power."
+   "plain_english": "This opened state, natured as difference and nondifference, stands indeed in sadākhya, which is natured as knowledge-power."
   },
   {
    "verse": 187,
    "rows": [
     {
      "surface": "aśuddhileśakāluṣyāt",
-     "gloss": "from-impurity-particle-stain",
-     "grounds": "ablative compound",
+     "gloss": "from-impurity-residue-stain",
+     "grounds": "ablative of aśuddhileśakāluṣya",
      "morph": "n.abl.sg"
     },
     {
      "surface": "parāparatayā",
-     "gloss": "as-higher-lower",
-     "grounds": "instrumental compound",
+     "gloss": "by-higher-lower-ness",
+     "grounds": "instrumental of parāparatā",
      "morph": "f.inst.sg"
     },
     {
@@ -223,39 +224,39 @@
     {
      "surface": "teneśabhuktād",
      "gloss": "from-enjoyed-by-lord",
-     "grounds": "ablative compound",
+     "grounds": "ablative compound of tena + īśa + bhukta",
      "morph": "m.abl.sg"
     },
     {
      "surface": "etasmād",
      "gloss": "from-this",
-     "grounds": "ablative pronoun",
+     "grounds": "ablative of etad",
      "morph": "m.abl.sg"
     },
     {
      "surface": "apy",
      "gloss": "even",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "ūrdhvapadabhāginaḥ",
      "gloss": "of-those-reaching-higher-station",
-     "grounds": "genitive compound",
+     "grounds": "genitive of ūrdhvapadabhāgin",
      "morph": "m.gen.pl"
     }
    ],
-   "question": "How does impurity-stain produce higher-lower states even for higher-station beings?",
+   "question": "What causes higher-lower state from impurity residue?",
    "premises": [
-    "Impurity-particle-stain causes state.",
-    "State is higher-lower.",
-    "Even higher-station beings are from enjoyed-by-lord."
+    "impurity residue stains",
+    "state becomes higher-lower",
+    "even higher-station beings are affected"
    ],
-   "inference": "Impurity-stain makes state higher-lower, even for those reaching higher station.",
+   "inference": "residual impurity produces graded states",
    "uncertainties": [
-    "teneśabhuktād is compressed."
+    "teneśabhuktād parsing is compressed"
    ],
-   "plain_english": "From impurity-particle-stain, state becomes higher-lower; even those reaching higher station arise from what is enjoyed by the lord."
+   "plain_english": "From the stain of impurity residue, state becomes higher and lower, even for those who have reached a higher station."
   },
   {
    "verse": 188,
@@ -263,45 +264,45 @@
     {
      "surface": "māyāprakaṭanautsukyāt",
      "gloss": "from-eagerness-to-manifest-māyā",
-     "grounds": "ablative compound",
+     "grounds": "ablative of māyāprakaṭanautsukya",
      "morph": "n.abl.sg"
     },
     {
      "surface": "tatsaṃskārajuṣas",
      "gloss": "of-those-enjoying-its-impressions",
-     "grounds": "genitive participle",
+     "grounds": "genitive of tatsaṃskārajuṣ",
      "morph": "m.gen.pl"
     },
     {
      "surface": "tathā",
      "gloss": "thus",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "bahukriyāsamārambhamayaṃ",
      "gloss": "full-of-many-action-beginnings",
-     "grounds": "compound adjective",
-     "morph": "n.acc.sg"
+     "grounds": "compound of bahu + kriyā + samārambha + maya",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "vividhamantraṇam",
      "gloss": "various-counsel",
-     "grounds": "compound noun",
-     "morph": "n.acc.sg"
+     "grounds": "compound of vividha + mantraṇa",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "What arises from eagerness to manifest māyā for those with its impressions?",
+   "question": "What arises from eagerness to manifest māyā?",
    "premises": [
-    "Eagerness to manifest māyā causes result.",
-    "Those with its impressions are affected.",
-    "Various counsel is full of many action-beginnings."
+    "eagerness to manifest māyā",
+    "those enjoy its impressions",
+    "thus various counsel full of many actions"
    ],
-   "inference": "From eagerness to manifest māyā, those with its impressions receive various counsel full of many action-beginnings.",
+   "inference": "māyā's manifestation produces varied ritual counsel",
    "uncertainties": [
-    "mantraṇam may mean counsel or mantra-rite."
+    "mantraṇam may mean consultation"
    ],
-   "plain_english": "From eagerness to manifest māyā, those enjoying its impressions thus receive various counsel full of many action-beginnings."
+   "plain_english": "From eagerness to manifest māyā, those who enjoy its impressions thus engage in various counsel full of many action-beginnings."
   },
   {
    "verse": 189,
@@ -309,43 +310,43 @@
     {
      "surface": "prādurbhūtaṃ",
      "gloss": "manifested",
-     "grounds": "participle",
+     "grounds": "perfect participle of prādurbhū",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mahājñānasantateś",
      "gloss": "from-great-knowledge-continuum",
-     "grounds": "ablative compound",
+     "grounds": "ablative of mahājñānasantati",
      "morph": "f.abl.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "śivapradam",
      "gloss": "giving-śiva",
-     "grounds": "compound adjective",
+     "grounds": "compound of śiva + prada",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sa",
      "gloss": "that",
-     "grounds": "pronoun",
+     "grounds": "pronoun tad",
      "morph": "m.nom.sg"
     },
     {
      "surface": "hi",
      "gloss": "for",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tatrāparo",
      "gloss": "there-another",
-     "grounds": "compound",
+     "grounds": "sandhi of tatra + aparaḥ",
      "morph": "m.nom.sg"
     },
     {
@@ -356,22 +357,22 @@
     },
     {
      "surface": "parabhāvanimīlitaḥ",
-     "gloss": "merged-in-supreme-state",
-     "grounds": "compound participle",
+     "gloss": "merged-with-supreme-state",
+     "grounds": "compound of para + bhāva + nimīlita",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What is manifested from great knowledge and gives śiva?",
+   "question": "What is manifested from the great knowledge continuum?",
    "premises": [
-    "Great knowledge continuum manifests something.",
-    "It gives śiva.",
-    "Another state there is merged in supreme state."
+    "great knowledge continuum manifests",
+    "it gives śiva",
+    "another state there is merged with supreme state"
    ],
-   "inference": "What is manifested from great knowledge gives śiva, while another state is merged in supreme state.",
+   "inference": "manifestation yields śiva-giving merged state",
    "uncertainties": [
-    "prādurbhūtaṃ may modify an implied object."
+    "tatrāparo sandhi is editorial"
    ],
-   "plain_english": "Manifested from the great knowledge continuum and giving śiva, that state is there; another state is merged in the supreme state."
+   "plain_english": "Manifested from the great knowledge continuum, and giving śiva, there is another state merged with the supreme state."
   },
   {
    "verse": 190,
@@ -379,13 +380,13 @@
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negative",
+     "grounds": "negative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
@@ -397,45 +398,45 @@
     {
      "surface": "upāgacched",
      "gloss": "would-attain",
-     "grounds": "verb upā-gam",
-     "morph": "3.sg.act-opt"
+     "grounds": "optative of upāgam",
+     "morph": "3.sg.act-opt + upāgam"
     },
     {
      "surface": "aśuddhordhvavidhāv",
      "gloss": "in-impure-higher-rite",
-     "grounds": "locative compound",
-     "morph": "f.loc.sg"
+     "grounds": "locative of aśuddhordhvavidhi",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "iva",
      "gloss": "like",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tena",
      "gloss": "by-that",
-     "grounds": "instrumental pronoun",
+     "grounds": "instrumental of tad",
      "morph": "m.inst.sg"
     },
     {
      "surface": "vaiṣṇavabauddhādiśāsanāntaraniṣṭhitāḥ",
      "gloss": "those-fixed-in-other-doctrines-like-vaiṣṇava-buddhist",
-     "grounds": "compound participle",
+     "grounds": "compound of vaiṣṇava + bauddha + ādi + śāsana + antara + niṣṭhita",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "Why would growth not be attained in impure higher rite?",
+   "question": "Why do other-doctrine followers not attain growth?",
    "premises": [
-    "Growth is not attained.",
-    "Impure higher rite is like that.",
-    "Those fixed in other doctrines are by that."
+    "growth is not attained",
+    "impure higher rite is like that",
+    "those fixed in other doctrines are affected"
    ],
-   "inference": "Growth is not attained in impure higher rite, as with those fixed in other doctrines.",
+   "inference": "impure higher rites block growth for other doctrines",
    "uncertainties": [
-    "aśuddhordhvavidhāv is compressed."
+    "aśuddhordhvavidhāv is compressed"
    ],
-   "plain_english": "But growth would not be attained in impure higher rite, like those fixed in other doctrines such as Vaiṣṇava and Buddhist."
+   "plain_english": "But growth would not be attained in an impure higher rite; by that, those fixed in other doctrines such as Vaiṣṇava and Buddhist are affected."
   },
   {
    "verse": 191,
@@ -443,63 +444,63 @@
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "samyaṅ",
      "gloss": "properly",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negative",
+     "grounds": "negative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mucyante",
      "gloss": "are-liberated",
-     "grounds": "verb muc",
-     "morph": "3.pl.pass-pres"
+     "grounds": "passive of muc",
+     "morph": "3.pl.pass-pres + muc"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negative",
+     "grounds": "negative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tathā",
      "gloss": "so",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "śaivasaṃskṛtāḥ",
      "gloss": "śaiva-purified-ones",
-     "grounds": "compound participle",
+     "grounds": "compound of śaiva + saṃskṛta",
      "morph": "m.nom.pl"
     },
     {
      "surface": "atimārgakramakulatrikasrotontarādiṣu",
-     "gloss": "in-streams-beyond-path-order-triad-and-others",
-     "grounds": "locative compound",
+     "gloss": "in-streams-beyond-path-order-clan-triad",
+     "grounds": "locative compound of atimārga + krama + kula + trika + srota + antara + ādi",
      "morph": "m.loc.pl"
     }
    ],
-   "question": "How are Śaiva-purified ones not liberated like others?",
+   "question": "How do Śaiva-purified ones differ in liberation?",
    "premises": [
-    "Others are not properly liberated.",
-    "Śaiva-purified ones are not so.",
-    "They are in streams beyond path-order-triad and others."
+    "others are not properly liberated",
+    "Śaiva-purified ones are not so",
+    "they are in streams beyond path order clan triad"
    ],
-   "inference": "Śaiva-purified ones are not liberated in the same way as others, because they are in higher streams.",
+   "inference": "Śaiva purification places one in higher streams",
    "uncertainties": [
-    "atimārgakramakulatrikasrotontarādiṣu is highly compressed."
+    "long compound segmentation is interpretive"
    ],
-   "plain_english": "As others are not properly liberated, so Śaiva-purified ones are not; they are in streams beyond path, order, triad, and others."
+   "plain_english": "As others are not properly liberated, so Śaiva-purified ones are not; they are in streams beyond path, order, clan, and triad."
   },
   {
    "verse": 192,
@@ -507,31 +508,31 @@
     {
      "surface": "parameśānaśāstre",
      "gloss": "in-supreme-lord-scripture",
-     "grounds": "locative compound",
+     "grounds": "locative of parameśānaśāstra",
      "morph": "n.loc.sg"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "ye",
-     "gloss": "who",
+     "gloss": "those-who",
      "grounds": "relative pronoun",
      "morph": "m.nom.pl"
     },
     {
      "surface": "samyag",
      "gloss": "properly",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "dīkṣitā",
      "gloss": "initiated",
-     "grounds": "participle",
+     "grounds": "perfect participle of dīkṣ",
      "morph": "m.nom.pl"
     },
     {
@@ -543,19 +544,19 @@
     {
      "surface": "teṣāṃ",
      "gloss": "of-them",
-     "grounds": "genitive pronoun",
+     "grounds": "genitive of tad",
      "morph": "m.gen.pl"
     },
     {
      "surface": "naivāpavargasya",
      "gloss": "not-indeed-of-liberation",
-     "grounds": "genitive compound",
+     "grounds": "genitive of na + eva + apavarga",
      "morph": "m.gen.sg"
     },
     {
      "surface": "lābhe",
      "gloss": "in-obtaining",
-     "grounds": "locative noun",
+     "grounds": "locative of lābha",
      "morph": "m.loc.sg"
     },
     {
@@ -568,32 +569,33 @@
      "surface": "'sti",
      "gloss": "is",
      "grounds": "verb as",
-     "morph": "3.sg.act-pres"
+     "morph": "3.sg.act-pres + as"
     },
     {
      "surface": "kaś",
      "gloss": "any",
-     "grounds": "pronoun",
+     "grounds": "indefinite pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "cana",
      "gloss": "at-all",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Is there any difference in obtaining liberation for those properly initiated in supreme lord scripture?",
+   "question": "Is there any difference in obtaining liberation?",
    "premises": [
-    "Men properly initiated in supreme lord scripture are considered.",
-    "In obtaining liberation there is no difference.",
-    "No difference at all exists."
+    "in supreme lord scripture",
+    "properly initiated men",
+    "of them in obtaining liberation",
+    "no difference at all"
    ],
-   "inference": "For those properly initiated in supreme lord scripture, there is no difference at all in obtaining liberation.",
+   "inference": "proper initiation removes difference in liberation",
    "uncertainties": [
-    "naivāpavargasya is a fused negative genitive."
+    "naivāpavargasya sandhi is editorial"
    ],
-   "plain_english": "But for men properly initiated in the supreme lord's scripture, there is no difference at all in obtaining liberation."
+   "plain_english": "But in the supreme lord's scripture, men properly initiated have no difference at all in obtaining liberation."
   },
   {
    "verse": 193,
@@ -601,87 +603,87 @@
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negative",
+     "grounds": "negative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "caitadatirikto",
      "gloss": "beyond-this",
-     "grounds": "compound adjective",
+     "grounds": "sandhi of ca + etad + atirikta",
      "morph": "m.nom.sg"
     },
     {
      "surface": "'pi",
      "gloss": "even",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mokṣopāyo",
      "gloss": "means-of-liberation",
-     "grounds": "compound noun",
+     "grounds": "compound of mokṣa + upāya",
      "morph": "m.nom.sg"
     },
     {
      "surface": "'sti",
      "gloss": "is",
      "grounds": "verb as",
-     "morph": "3.sg.act-pres"
+     "morph": "3.sg.act-pres + as"
     },
     {
      "surface": "kaś",
      "gloss": "any",
-     "grounds": "pronoun",
+     "grounds": "indefinite pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "cana",
      "gloss": "at-all",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "kevalaṃ",
      "gloss": "only",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "kvāpy",
      "gloss": "somewhere",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "anāyāsāj",
      "gloss": "from-effortless",
-     "grounds": "ablative adjective",
+     "grounds": "ablative of anāyāsa",
      "morph": "m.abl.sg"
     },
     {
      "surface": "jīvanmuktikrameṇa",
      "gloss": "by-living-liberation-order",
-     "grounds": "instrumental compound",
+     "grounds": "instrumental of jīvanmuktikrama",
      "morph": "m.inst.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable conjunction",
      "morph": "(indecl.)"
     }
    ],
    "question": "Is there any means of liberation beyond this?",
    "premises": [
-    "No means beyond this exists.",
-    "Only somewhere by effortless living-liberation order.",
-    "And that is included."
+    "no means beyond this",
+    "only somewhere by effortless order",
+    "living liberation order also"
    ],
-   "inference": "There is no means of liberation beyond this; only somewhere by effortless living-liberation order.",
+   "inference": "this path alone leads to liberation",
    "uncertainties": [
-    "caitadatirikto is fused."
+    "caitadatirikto sandhi is editorial"
    ],
-   "plain_english": "Nor is there any means of liberation beyond this; only somewhere by effortless living-liberation order."
+   "plain_english": "Nor is there any means of liberation beyond this; only somewhere, by effortless order and living liberation, also."
   },
   {
    "verse": 194,
@@ -689,19 +691,19 @@
     {
      "surface": "śīghram",
      "gloss": "quickly",
-     "grounds": "adverb",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "parā",
      "gloss": "supreme",
-     "grounds": "adjective",
+     "grounds": "adjective parā",
      "morph": "f.nom.sg"
     },
     {
@@ -713,45 +715,46 @@
     {
      "surface": "yathāsmaddarśaneṣv",
      "gloss": "as-in-our-views",
-     "grounds": "locative compound",
+     "grounds": "locative of yathā + asmad + darśana",
      "morph": "m.loc.pl"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "kvāpi",
      "gloss": "somewhere",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "tattvāvalīyogaparipāṭīkramāc",
-     "gloss": "from-order-of-truth-series-yoga",
-     "grounds": "ablative compound",
+     "gloss": "by-order-of-truth-series-yoga",
+     "grounds": "ablative of tattvāvalīyogaparipāṭīkrama",
      "morph": "m.abl.sg"
     },
     {
      "surface": "cirāt",
      "gloss": "after-long-time",
-     "grounds": "adverb",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "When is supreme accomplishment quick and when delayed?",
+   "question": "When does supreme accomplishment occur?",
    "premises": [
-    "Supreme accomplishment is quickly in our views.",
-    "Somewhere it is by truth-series-yoga order.",
-    "There it is after long time."
+    "quickly indeed supreme accomplishment",
+    "as in our views",
+    "somewhere by truth-series yoga order",
+    "after long time"
    ],
-   "inference": "Supreme accomplishment is quick in our views, but elsewhere by truth-series-yoga order it comes after long time.",
+   "inference": "accomplishment is quick in our view but slow elsewhere",
    "uncertainties": [
-    "tattvāvalīyogaparipāṭīkramāc is compressed."
+    "yathāsmaddarśaneṣv is compressed"
    ],
-   "plain_english": "Supreme accomplishment is indeed quick, as in our views; but somewhere, by the order of truth-series yoga, it comes only after long time."
+   "plain_english": "Supreme accomplishment occurs quickly indeed, as in our views; somewhere, by the order of truth-series yoga, only after a long time."
   }
  ]
 }
