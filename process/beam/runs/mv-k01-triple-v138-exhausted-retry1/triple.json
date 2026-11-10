@@ -1,0 +1,957 @@
+{
+ "song": "mv-k01",
+ "items": [
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavatā",
+     "gloss": "by-you",
+     "grounds": "bhavat pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "jñātaṃ",
+     "gloss": "known",
+     "grounds": "jñā root",
+     "morph": "m.nom.sg-participle"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "svatantre",
+     "gloss": "in-independent",
+     "grounds": "svatantra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ke",
+     "gloss": "some",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cana",
+     "gloss": "any",
+     "grounds": "indefinite particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartamānāvadher",
+     "gloss": "from-present-limit",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhūtaṃ",
+     "gloss": "past",
+     "grounds": "bhūta participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyac",
+     "gloss": "future",
+     "grounds": "bhaviṣyat participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhajyate",
+     "gloss": "is-divided",
+     "grounds": "vibhaj root",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What has been known by you about division of past and future?",
+   "premises": [
+    "past and future are divided",
+    "present limit is invoked",
+    "independent consciousness is addressed"
+   ],
+   "inference": "The verse challenges any division of past and future from the present limit.",
+   "uncertainties": [
+    "exact force of svatantre"
+   ],
+   "plain_english": "What has been known by you, even in independence, that past and future are divided from the present limit?"
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "yac",
+     "gloss": "that-which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśrāntaṃ",
+     "gloss": "rested",
+     "grounds": "viśram root",
+     "morph": "m.nom.sg-participle"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhajyeta",
+     "gloss": "would-be-divided",
+     "grounds": "vibhaj root",
+     "morph": "3.sg.pass-opt"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "from-where",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāvadhibhāvaḥ",
+     "gloss": "and-limit-nature",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "as root",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "vartamānasya",
+     "gloss": "of-present",
+     "grounds": "vartamāna participle",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How could the present have a limit if unrested things are divided?",
+   "premises": [
+    "unrested things cannot be divided",
+    "present limit is questioned",
+    "division lacks ground"
+   ],
+   "inference": "The verse denies a coherent limit for the present if division rests on unrest.",
+   "uncertainties": [
+    "scope of prati"
+   ],
+   "plain_english": "That which has not rested where it is cannot be divided; how then could the present have a limit for you?"
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "tayor",
+     "gloss": "of-those-two",
+     "grounds": "pronoun",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "avadhimattvaṃ",
+     "gloss": "limit-having-ness",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praty",
+     "gloss": "toward",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "bhū root",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "viśvasya",
+     "gloss": "of-all",
+     "grounds": "viśva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viśvam",
+     "gloss": "all",
+     "grounds": "viśva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avadhis",
+     "gloss": "limit",
+     "grounds": "avadhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadvad",
+     "gloss": "similarly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "jan root",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How could those two have limit-nature or all become a limit?",
+   "premises": [
+    "limit-nature is questioned",
+    "all cannot be a limit",
+    "arising is denied"
+   ],
+   "inference": "The verse rejects both limited and unlimited accounts of past and future.",
+   "uncertainties": [
+    "exact referent of tayor"
+   ],
+   "plain_english": "How could those two have limit-nature, or how could all become a limit similarly? Does it not arise?"
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtaṃ",
+     "gloss": "past",
+     "grounds": "bhūta participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyac",
+     "gloss": "future",
+     "grounds": "bhaviṣyat participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartamānākhyasaṃvidi",
+     "gloss": "in-present-named-consciousness",
+     "grounds": "compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "rūḍham",
+     "gloss": "rooted",
+     "grounds": "rūḍha participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eveti",
+     "gloss": "thus-indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśrāntim",
+     "gloss": "rest",
+     "grounds": "viśrānti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āvahet",
+     "gloss": "would-bring",
+     "grounds": "āvah root",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "If past and future are rooted in present consciousness, where is rest brought?",
+   "premises": [
+    "past and future rooted in present",
+    "rest must be brought there",
+    "present consciousness is locus"
+   ],
+   "inference": "The verse locates rest in the present consciousness where past and future are rooted.",
+   "uncertainties": [
+    "force of eti"
+   ],
+   "plain_english": "Therefore past and future are rooted in present-named consciousness; if rest is brought, it is brought there only."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cātraiva",
+     "gloss": "and-there-only",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikhilakalpanāraśmimaṇḍalam",
+     "gloss": "whole-apparatus-of-conceptual-rays",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avisphārya",
+     "gloss": "without-spreading",
+     "grounds": "avisphārya participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "kṣaṇa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tiṣṭhet",
+     "gloss": "would-stand",
+     "grounds": "sthā root",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "saṃniruddhanijasthitiḥ",
+     "gloss": "with-restrained-own-state",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "If the whole conceptual ray-apparatus stands unreleased for a moment, what follows?",
+   "premises": [
+    "conceptual rays are unreleased",
+    "momentary standing occurs",
+    "own state is restrained"
+   ],
+   "inference": "The verse describes a momentary restrained state without spreading conceptual rays.",
+   "uncertainties": [
+    "exact sense of avisphārya"
+   ],
+   "plain_english": "If there only the whole apparatus of conceptual rays stands unreleased for a moment, with restrained own state."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nijāmṛtavisphāracamatkāraikacarvaṇām",
+     "gloss": "one-tasting-of-wonder-of-own-nectar-spreading",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "labh root",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "paramānandasudhāsandohavāhinīm",
+     "gloss": "stream-bearing-abundance-of-bliss-nectar",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What does that restrained state obtain?",
+   "premises": [
+    "restrained state is described",
+    "wonder of own nectar is tasted",
+    "bliss-nectar stream is obtained"
+   ],
+   "inference": "The verse states that such a state obtains a stream of bliss-nectar.",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "That obtains the one tasting of wonder of own nectar spreading, a stream bearing abundance of bliss-nectar."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryaraśmyoghapūrṇaḥ",
+     "gloss": "full-of-sun-ray-union",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāc",
+     "gloss": "would-be",
+     "grounds": "as root",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "candramā",
+     "gloss": "moon",
+     "grounds": "candramas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryakarān",
+     "gloss": "sun-rays",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvan",
+     "gloss": "as-long-as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visisṛkṣati",
+     "gloss": "wishes-to-emit",
+     "grounds": "sisṛkṣ root",
+     "morph": "3.sg.pres"
+    }
+   ],
+   "question": "When the moon is full of sun-ray union, what does it not emit?",
+   "premises": [
+    "moon full of sun-ray union",
+    "sun-rays are not emitted",
+    "emission is withheld"
+   ],
+   "inference": "The verse compares restrained consciousness to the moon not emitting sun-rays.",
+   "uncertainties": [
+    "exact astronomical metaphor"
+   ],
+   "plain_english": "Thus indeed, when the moon would be full of union with sun-rays, then as long as it does not wish to emit sun-rays again."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svamaṇḍalābhoge",
+     "gloss": "in-enjoyment-of-own-orb",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "kṣaṇa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viśrāntisusthitaḥ",
+     "gloss": "well-established-in-rest",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "antaḥsthaviśvadevāṃśatarpaṇāpātram",
+     "gloss": "vessel-for-satisfying-inner-world-god-portions",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "vac root",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is the moon called while resting in its own orb?",
+   "premises": [
+    "rest in own orb",
+    "momentary well-established rest",
+    "vessel for satisfying inner gods"
+   ],
+   "inference": "The verse calls such a resting state a vessel for satisfying inner divine portions.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "So long, resting well in enjoyment of its own orb for a moment, it is called a vessel for satisfying portions of inner world-gods."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvaprakāśārkamarīcinicayāñcite",
+     "gloss": "shone-by-cluster-of-rays-of-being-light-sun",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svabodhacandramahasi",
+     "gloss": "in-moon-of-own-awareness",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vartamāne",
+     "gloss": "present",
+     "grounds": "vartamāna participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hṛdantare",
+     "gloss": "in-heart-interior",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the moon of own awareness present?",
+   "premises": [
+    "being-light sun shines",
+    "own-awareness moon is present",
+    "heart interior is locus"
+   ],
+   "inference": "The verse places the moon of own awareness in the heart interior.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Thus, in the heart interior, the moon of own awareness is present, shone upon by the cluster of rays of the sun of being-light."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "viśrānto",
+     "gloss": "rested",
+     "grounds": "viśrānta participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'ntaḥsthitodāracitsudhāsārasundare",
+     "gloss": "in-beautiful-inner-abundant-nectar-of-consciousness",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "antaḥsthasvāmṛtāpūro",
+     "gloss": "filled-with-inner-own-nectar",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vamyate",
+     "gloss": "is-vomited",
+     "grounds": "vam root",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahir",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the inner nectar not vomited outside?",
+   "premises": [
+    "rested in inner consciousness",
+    "filled with own nectar",
+    "not vomited outside"
+   ],
+   "inference": "The verse says the inner nectar is not emitted outward because it remains inward.",
+   "uncertainties": [
+    "metaphorical vamyate"
+   ],
+   "plain_english": "Rested in the beautiful inner abundant nectar of consciousness, filled with inner own nectar, it is not vomited outside, because."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "from-that",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evāntar",
+     "gloss": "only-inside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evāsau",
+     "gloss": "that-one",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghūrṇamānaḥ",
+     "gloss": "revolving",
+     "grounds": "ghūrṇamāna participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samucchalan",
+     "gloss": "rising",
+     "grounds": "samucchalan participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svāntaḥsthadevatācakratarpaṇāhaṃvidātmakaḥ",
+     "gloss": "consisting-of-i-awareness-satisfying-inner-god-wheel",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the revolving inner one consist of?",
+   "premises": [
+    "from that inner state",
+    "revolving and rising",
+    "satisfying inner god-wheel"
+   ],
+   "inference": "The verse describes the inner revolving awareness as satisfying the inner wheel of gods.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "From that, only inside, that one, revolving and rising, consists of I-awareness satisfying the inner wheel of gods."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "jan root",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "yāvad",
+     "gloss": "as-long-as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uddāmyet",
+     "gloss": "would-be-raised",
+     "grounds": "uddām root",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svakaraṇakramaḥ",
+     "gloss": "own-sense-process",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niruddhe",
+     "gloss": "restrained",
+     "grounds": "niruddha participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "raśmipaṭale",
+     "gloss": "in-ray-sheet",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vibhavābhāvayogataḥ",
+     "gloss": "by-union-of-prosperity-and-absence",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What arises while the own sense-process is restrained in the ray-sheet?",
+   "premises": [
+    "sense-process is restrained",
+    "ray-sheet is involved",
+    "prosperity and absence are united"
+   ],
+   "inference": "The verse links arising to restraint of sense-process in the ray-sheet.",
+   "uncertainties": [
+    "exact sense of uddāmyet"
+   ],
+   "plain_english": "As long as it is raised, so long the own sense-process arises, while restrained in the ray-sheet by union of prosperity and absence."
+  },
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtaṃ",
+     "gloss": "past",
+     "grounds": "bhūta participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyac",
+     "gloss": "future",
+     "grounds": "bhaviṣyat participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartamānād",
+     "gloss": "from-present",
+     "grounds": "vartamāna participle",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vibhajyate",
+     "gloss": "is-divided",
+     "grounds": "vibhaj root",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "avibhāgas",
+     "gloss": "non-division",
+     "grounds": "avibhāga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tayor",
+     "gloss": "of-those-two",
+     "grounds": "pronoun",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vartamānatā",
+     "gloss": "present-ness",
+     "grounds": "vartamānatā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "If past and future are not divided from the present, what is present-ness?",
+   "premises": [
+    "past and future not divided",
+    "non-division of those two",
+    "present-ness is questioned"
+   ],
+   "inference": "The verse concludes that without division, present-ness itself is questioned.",
+   "uncertainties": [
+    "exact scope of avibhāgas"
+   ],
+   "plain_english": "Past and future are not divided from the present; as long as there is non-division of those two, what is present-ness?"
+  }
+ ]
+}
