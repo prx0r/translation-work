@@ -1,5 +1,26 @@
 # Transmission brief — Kalpavṛkṣa (Sāhib Kaul) — RESEARCHED 2026-11-11
-*Source: Jürgen Hanneder's monograph (the standard study).*
+*Sources: Hanneder, Sāhib Kaula's Tree of Languages (Kalpavṛkṣa): A
+multilingual carmen cancellatum from 17th-century Kashmir, Indica et
+Tibetica 60, Marburg 2021 (first edition); ERC "Kashmirian Sanskrit
+Heritage" project (Marburg).*
+
+## A0. THE OBJECT (verified 2026-11-11 — this changes everything)
+
+The "text" in our e-text is only the **base text**. The work is a
+**carmen cancellatum** (crossword-like visual poem) originally displayed
+on a **large cloth ~1.5 m square**, chessboard layout, with **red lines
+formed by rubricated letters** running in all directions = the
+cross-word-like "intexts". **THREE cloths are preserved** (Srinagar,
+Oriental Research Library — where our ms 1353 is). A Berlin manuscript
+(Sammlung Janert) lists the intext languages: the author intended
+**~30 languages**, mostly South Asian plus **Persian and Arabic**.
+It is **the largest carmen cancellatum known in world literature** —
+Hanneder's edition (2021) is the first, and the ERC project is producing
+ten volumes of Kashmirian first editions.
+
+**Note the header conflict:** Muktabodha's file says the author "lived
+in Kashmir in the 19th century"; scholarship dates Sāhib Kaul to the
+**17th century**. Record the discrepancy; follow Hanneder.
 
 ## A. FACTS
 - By **Sāhib Kaul** (17th c.), of the Kashmiri Śrīvidyā lineage that also
