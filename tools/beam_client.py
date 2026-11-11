@@ -105,6 +105,27 @@ def _key() -> str:
     return k
 
 
+def _keys() -> list:
+    """Primary + backup accounts (owner 2026-11-11: separate account in
+    .env OPENCODE_GO_KEY_BAK). Session-hash rotation spreads calls across
+    BOTH accounts in parallel; on 429 we fail over to the other key
+    before ever parking a model."""
+    keys = [_key()]
+    bak = os.environ.get('OPENCODE_GO_KEY_BAK', '')
+    if not bak:
+        try:
+            for ln in open(os.path.join(
+                    os.path.dirname(os.path.dirname(
+                        os.path.abspath(__file__))), '.env')):
+                if ln.startswith('OPENCODE_GO_KEY_BAK='):
+                    bak = ln.split('=', 1)[1].strip()
+        except OSError:
+            pass
+    if bak and bak not in keys:
+        keys.append(bak)
+    return keys
+
+
 def _candidates() -> list:
     h = _load_health()
     now = time.time()
@@ -140,35 +161,44 @@ def chat(messages: list, session: str, max_tokens: int = MAX_OUTPUT,
                            'temperature': temperature,
                            'reasoning_effort': 'low'}).encode()
         attempts = max(1, min(tries, 2)) if len(order) > 1 else tries
+        keys = _keys()
+        base = sum(ord(c) for c in session) % len(keys)  # rotate accounts
         for attempt in range(attempts):
-            req = urllib.request.Request(
-                ENDPOINT, data=body,
-                headers={'Authorization': 'Bearer ' + _key(),
-                         'Content-Type': 'application/json',
-                         'User-Agent': UA,
-                         'x-opencode-session': session})
-            try:
-                with urllib.request.urlopen(req, timeout=timeout) as r:
-                    out = json.loads(r.read().decode())
-                msg = out['choices'][0]['message']
-                text = msg.get('content')
-                if not text:
-                    # refusal or empty: retry same model briefly, then move on
-                    last = RuntimeError(
-                        f"empty content (refusal={msg.get('refusal')!r}, "
-                        f"finish={out['choices'][0].get('finish_reason')})")
-                    time.sleep(2 * (attempt + 1))
-                    continue
-                _mark_up(model)
-                _log_use(session, model)
-                return text
-            except Exception as e:  # noqa: BLE001 - classify, then move on
-                last = e
-                s = str(e).lower()
-                if '429' in str(e) or 'rate limit' in s or 'too many' in s:
-                    _mark_down(model)
-                    break  # fail over immediately, never sleep out the quota
-                time.sleep(3 * (attempt + 1))
+            served_429 = 0
+            for koff in range(len(keys)):
+                key = keys[(base + koff) % len(keys)]
+                req = urllib.request.Request(
+                    ENDPOINT, data=body,
+                    headers={'Authorization': 'Bearer ' + key,
+                             'Content-Type': 'application/json',
+                             'User-Agent': UA,
+                             'x-opencode-session': session})
+                try:
+                    with urllib.request.urlopen(req, timeout=timeout) as r:
+                        out = json.loads(r.read().decode())
+                    msg = out['choices'][0]['message']
+                    text = msg.get('content')
+                    if not text:
+                        # refusal or empty: retry same model briefly, then move on
+                        last = RuntimeError(
+                            f"empty content (refusal={msg.get('refusal')!r}, "
+                            f"finish={out['choices'][0].get('finish_reason')})")
+                        time.sleep(2 * (attempt + 1))
+                        break
+                    _mark_up(model)
+                    _log_use(session, model)
+                    return text
+                except Exception as e:  # noqa: BLE001 - classify, then move on
+                    last = e
+                    s = str(e).lower()
+                    if '429' in str(e) or 'rate limit' in s or 'too many' in s:
+                        served_429 += 1
+                        continue  # try the OTHER account before parking
+                    time.sleep(3 * (attempt + 1))
+                    break  # non-429: don't hammer this model
+            if served_429 >= len(keys):
+                _mark_down(model)
+                break  # fail over immediately, never sleep out the quota
     raise RuntimeError(f'beam chat failed on {len(order)} free model(s) '
                        f'(session {session}): {last}')
 
