@@ -85,6 +85,12 @@ def audit(fix: bool) -> dict:
 if __name__ == "__main__":
     fix = "--fix" in sys.argv
     p = audit(fix)
-    print(json.dumps({k: v for k, v in p.items() if k != "clean" or True},
-                     ensure_ascii=False)[:2000])
+    summary = {k: (len(v) if isinstance(v, (list, dict)) else v)
+               for k, v in p.items()}
+    print(json.dumps(summary, ensure_ascii=False))
+    if not p["clean"]:
+        for k in ("duplicate_ids", "overlaps", "undersized", "orphan_work",
+                  "already_assembled"):
+            for item in (p.get(k) or [])[:10]:
+                print(f"  {k}: {item}")
     sys.exit(0 if p["clean"] or fix else 1)
