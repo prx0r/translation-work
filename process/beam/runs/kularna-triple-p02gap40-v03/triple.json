@@ -1,0 +1,579 @@
+{
+ "song": "kul-p02",
+ "items": [
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "lapantam",
+     "gloss": "chattering",
+     "grounds": "present participle of lap",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marttyaṃ",
+     "gloss": "mortal",
+     "grounds": "accusative of marttya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "kills",
+     "grounds": "root han",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kālavṛkaḥ",
+     "gloss": "time-wolf",
+     "grounds": "compound kāla+vṛka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "balāt",
+     "gloss": "by-force",
+     "grounds": "ablative of bala",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why does time kill the chattering mortal by force?",
+   "premises": [
+    "time acts as a wolf",
+    "mortality is forced",
+    "chattering does not save"
+   ],
+   "inference": "mortal life is seized by time regardless of speech",
+   "uncertainties": [
+    "exact force of lapantam"
+   ],
+   "plain_english": "Time, like a wolf, forcibly kills the mortal who chatters."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īhā",
+     "gloss": "effort",
+     "grounds": "nominative of īhā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "endowed",
+     "grounds": "past participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "nominative of mṛtyu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atti",
+     "gloss": "eats",
+     "grounds": "root ad",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "janaṃ",
+     "gloss": "people",
+     "grounds": "accusative of jana",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative of priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How does death consume people endowed with effort?",
+   "premises": [
+    "effort accompanies people",
+    "death consumes them",
+    "address is dear"
+   ],
+   "inference": "human striving does not prevent death",
+   "uncertainties": [
+    "scope of samāyuktaṃ"
+   ],
+   "plain_english": "Thus death eats people who are endowed with effort, dear one."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratīkṣate",
+     "gloss": "waits",
+     "grounds": "root pratīkṣ",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "nominative of mṛtyu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "past participle of kṛ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "genitive of idam",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "done",
+     "grounds": "past participle of kṛ",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Does death wait for anything to be done?",
+   "premises": [
+    "death does not wait",
+    "done or undone is irrelevant",
+    "the person's state changes nothing"
+   ],
+   "inference": "death is indifferent to human accomplishment",
+   "uncertainties": [
+    "exact referent of asya"
+   ],
+   "plain_english": "Death does not wait, whether something is done or not done."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "mṛtyuśatrum",
+     "gloss": "death-enemy",
+     "grounds": "compound mṛtyu+śatru",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhijñaḥ",
+     "gloss": "knowing",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asi",
+     "gloss": "are",
+     "grounds": "root as",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "āyāntaṃ",
+     "gloss": "coming",
+     "grounds": "present participle of āyā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyasi",
+     "gloss": "see",
+     "grounds": "root paś",
+     "morph": "2.sg.act-pres"
+    }
+   ],
+   "question": "Why do you not see death coming as an enemy?",
+   "premises": [
+    "you know death as enemy",
+    "death is coming",
+    "you do not see it"
+   ],
+   "inference": "knowledge of death should prompt recognition of its approach",
+   "uncertainties": [
+    "subject of asi"
+   ],
+   "plain_english": "You know death as an enemy; why do you not see it coming?"
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "rāgadveṣa",
+     "gloss": "passion-hatred",
+     "grounds": "compound rāga+dveṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anale",
+     "gloss": "in-fire",
+     "grounds": "locative of anala",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pakvaṃ",
+     "gloss": "cooked",
+     "grounds": "past participle of pac",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "nominative of mṛtyu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśnāti",
+     "gloss": "eats",
+     "grounds": "root aś",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "mānavam",
+     "gloss": "man",
+     "grounds": "accusative of mānava",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How does death eat a man cooked in passion-hatred?",
+   "premises": [
+    "passion and hatred are fire",
+    "man is cooked by them",
+    "death consumes him"
+   ],
+   "inference": "emotional extremes prepare a person for death",
+   "uncertainties": [
+    "syntactic role of rāgadveṣa"
+   ],
+   "plain_english": "Death eats the man cooked in the fire of passion and hatred."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "accusative plural of sarva",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hiṃsate",
+     "gloss": "harms",
+     "grounds": "root hiṃs",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "nominative of mṛtyu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtam",
+     "gloss": "created-thing",
+     "grounds": "past participle of bhū",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "nominative of jagat",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why does death harm all in this created world?",
+   "premises": [
+    "death harms all",
+    "the world is created",
+    "this is its nature"
+   ],
+   "inference": "mortality pervades the entire created world",
+   "uncertainties": [
+    "exact sense of bhūtam"
+   ],
+   "plain_english": "Death harms all; thus this created world is mortal."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "nāśam",
+     "gloss": "destruction",
+     "grounds": "accusative of nāśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anudhāvanti",
+     "gloss": "pursue",
+     "grounds": "root anudhāv",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative of tad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreyaḥ",
+     "gloss": "good",
+     "grounds": "accusative of śreyas",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-practice",
+     "grounds": "optative of samācar",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "Why should one practice the good when destruction pursues?",
+   "premises": [
+    "destruction pursues all",
+    "therefore action matters",
+    "good should be practiced"
+   ],
+   "inference": "awareness of destruction motivates ethical practice",
+   "uncertainties": [
+    "subject of anudhāvanti"
+   ],
+   "plain_english": "Since destruction pursues all, therefore one should practice the good."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "parastrī",
+     "gloss": "other-woman",
+     "grounds": "compound para+strī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "accusative of dhana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lobhāt",
+     "gloss": "from-greed",
+     "grounds": "ablative of lobha",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nṝṇām",
+     "gloss": "of-men",
+     "grounds": "genitive plural of nṛ",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "āyuḥkṣayaḥ",
+     "gloss": "life-decay",
+     "grounds": "compound āyus+kṣaya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "How do greed for another's wife and wealth decay life?",
+   "premises": [
+    "greed for another's wife",
+    "greed for wealth",
+    "life decays for men"
+   ],
+   "inference": "possessive greed shortens human life",
+   "uncertainties": [
+    "whether dhana is object of lobha"
+   ],
+   "plain_english": "From greed for another's wife and wealth, life-decay may occur for men."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "nṝṇām",
+     "gloss": "of-men",
+     "grounds": "genitive plural of nṛ",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "āyuḥkṣayaḥ",
+     "gloss": "life-decay",
+     "grounds": "compound āyus+kṣaya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūyāt",
+     "gloss": "may-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "indriyāṇām",
+     "gloss": "of-senses",
+     "grounds": "genitive plural of indriya",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "anigrahāt",
+     "gloss": "from-non-restraint",
+     "grounds": "ablative of anigraha",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why does non-restraint of senses cause life-decay?",
+   "premises": [
+    "life-decay may occur",
+    "senses are unrestrained",
+    "men are affected"
+   ],
+   "inference": "lack of sense-control accelerates life-decay",
+   "uncertainties": [
+    "exact causal force"
+   ],
+   "plain_english": "Life-decay for men may arise from non-restraint of the senses."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "accusative of maraṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental of yad",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nidrādṛṣṭaṃ",
+     "gloss": "seen-as-sleep",
+     "grounds": "compound nidrā+dṛṣṭa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental of tad",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "gacchanti",
+     "gloss": "go",
+     "grounds": "root gam",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "jantavaḥ",
+     "gloss": "creatures",
+     "grounds": "nominative plural of jantu",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do creatures go to death seen as sleep?",
+   "premises": [
+    "death is seen as sleep",
+    "creatures go by that",
+    "the path is shared"
+   ],
+   "inference": "death is experienced like sleep by living beings",
+   "uncertainties": [
+    "exact force of nidrādṛṣṭaṃ"
+   ],
+   "plain_english": "Creatures go to death, which is seen as sleep."
+  }
+ ]
+}

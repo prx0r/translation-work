@@ -1,0 +1,649 @@
+{
+ "song": "kul-p03",
+ "items": [
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "paratra",
+     "gloss": "elsewhere",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ajñāninaḥ",
+     "gloss": "ignorant-ones",
+     "grounds": "those lacking knowledge",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "address to goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "movement away",
+     "morph": "3.pl.act-pres root-yā"
+    },
+    {
+     "surface": "āyānti",
+     "gloss": "come",
+     "grounds": "movement toward",
+     "morph": "3.pl.act-pres root-ā-yā"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where do ignorant ones go and come again and again?",
+   "premises": [
+    "ignorant ones move elsewhere",
+    "they go and return repeatedly",
+    "goddess is addressed"
+   ],
+   "inference": "ignorance produces repeated wandering rather than stable liberation",
+   "uncertainties": [
+    "exact destination of paratra remains unspecified"
+   ],
+   "plain_english": "Elsewhere, O goddess, the ignorant ones go and come again and again."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "siktamūlasya",
+     "gloss": "watered-root's",
+     "grounds": "root that has been watered",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vṛkṣasya",
+     "gloss": "tree's",
+     "grounds": "tree whose root is watered",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result of growth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śākhāsu",
+     "gloss": "on-branches",
+     "grounds": "branches of the tree",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "visible appearance",
+     "morph": "3.sg.pass-pres root-dṛś"
+    }
+   ],
+   "question": "Where is the fruit of a watered-root tree seen?",
+   "premises": [
+    "a watered root nourishes the tree",
+    "the tree bears fruit",
+    "fruit appears on branches"
+   ],
+   "inference": "nourishment at the root produces visible fruit on the branches",
+   "uncertainties": [
+    "whether fruit means literal or karmic result"
+   ],
+   "plain_english": "The fruit of a tree whose root is watered is seen on its branches."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "ātmāparādhavṛkṣasya",
+     "gloss": "self-offense-tree's",
+     "grounds": "tree of one's own offense",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "phalāni",
+     "gloss": "fruits",
+     "grounds": "results of offense",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "present results",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "dehinām",
+     "gloss": "of-embodied",
+     "grounds": "of embodied beings",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What are these fruits of the self-offense tree?",
+   "premises": [
+    "offense is likened to a tree",
+    "the tree bears fruits",
+    "embodied beings experience these fruits"
+   ],
+   "inference": "one's own offenses produce experienced results for embodied beings",
+   "uncertainties": [
+    "whether fruits are suffering or karmic consequences"
+   ],
+   "plain_english": "These are the fruits of the tree of self-offense for embodied beings."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "saṅgāt",
+     "gloss": "from-association",
+     "grounds": "through company",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "calate",
+     "gloss": "wavers",
+     "grounds": "becomes unsteady",
+     "morph": "3.sg.mid-pres root-cal"
+    },
+    {
+     "surface": "jñānī",
+     "gloss": "knower",
+     "grounds": "one with knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avaśyam",
+     "gloss": "necessarily",
+     "grounds": "without exception",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "rhetorical question",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uta",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alpavit",
+     "gloss": "little-knower",
+     "grounds": "one with scant knowledge",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "If a knower wavers from association, what of a little knower?",
+   "premises": [
+    "association makes a knower waver",
+    "this wavering is necessary",
+    "a little knower is even more vulnerable"
+   ],
+   "inference": "bad association destabilizes knowledge, especially for the less learned",
+   "uncertainties": [
+    "whether calate refers to mind or conduct"
+   ],
+   "plain_english": "From association even a knower necessarily wavers; what then of one with little knowledge?"
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "sadbhiḥ",
+     "gloss": "with-good",
+     "grounds": "with good people",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "in company",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "should be made",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satām",
+     "gloss": "of-good",
+     "grounds": "of good people",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "saṅgaḥ",
+     "gloss": "association",
+     "grounds": "company with the good",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bheṣajam",
+     "gloss": "medicine",
+     "grounds": "remedy",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "With whom should association be made?",
+   "premises": [
+    "one should associate with good people",
+    "good company is to be cultivated",
+    "such association is medicine"
+   ],
+   "inference": "company with the good is the remedy for spiritual instability",
+   "uncertainties": [
+    "whether bheṣajam is literal or metaphorical"
+   ],
+   "plain_english": "He should associate with good people; indeed association with the good is medicine."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "of one who",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "existence",
+     "morph": "3.sg.act-pres root-as"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "human guide",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "that person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "andhaḥ",
+     "gloss": "blind",
+     "grounds": "without sight",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "conditional state",
+     "morph": "3.sg.opt.act root-as"
+    },
+    {
+     "surface": "amārgagaḥ",
+     "gloss": "pathless-goer",
+     "grounds": "one who goes without path",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can one without a guide not be blind and pathless?",
+   "premises": [
+    "a man is needed as guide",
+    "without such a man one is blind",
+    "without guidance one goes without path"
+   ],
+   "inference": "absence of a human guide leaves one spiritually blind and directionless",
+   "uncertainties": [
+    "whether naraḥ means guru or any guide"
+   ],
+   "plain_english": "Whose guide is not present, he is blind; how would he not be a pathless goer?"
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "tāvantaḥ",
+     "gloss": "so-many",
+     "grounds": "that many",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "of this person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "pierce or enter",
+     "morph": "3.pl.act-pres root-viś"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "the mentioned arrows",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "into the heart",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śokaśaṅkavaḥ",
+     "gloss": "sorrow-arrows",
+     "grounds": "arrows of sorrow",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What enters the heart in such great number?",
+   "premises": [
+    "many sorrow-arrows exist",
+    "they enter his heart",
+    "the heart is their target"
+   ],
+   "inference": "grief pierces the heart repeatedly and deeply",
+   "uncertainties": [
+    "whether śokaśaṅkavaḥ is metaphorical"
+   ],
+   "plain_english": "So many sorrow-arrows enter his heart."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "female relation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātṛ",
+     "gloss": "mother",
+     "grounds": "maternal relation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pitṛ",
+     "gloss": "father",
+     "grounds": "paternal relation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "putra",
+     "gloss": "son",
+     "grounds": "filial relation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "and similar relations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambandhaḥ",
+     "gloss": "connection",
+     "grounds": "bond of relation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-what",
+     "grounds": "by which cause",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "hetunā",
+     "gloss": "cause",
+     "grounds": "reason or motive",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "By what cause do family connections arise?",
+   "premises": [
+    "woman mother father son and others are relations",
+    "these form connections",
+    "a cause is asked for"
+   ],
+   "inference": "familial bonds are questioned as to their underlying cause",
+   "uncertainties": [
+    "whether the verse expects a doctrinal answer"
+   ],
+   "plain_english": "Woman, mother, father, son, and so on—by what cause is this connection?"
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "of that person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tyāgaḥ",
+     "gloss": "renunciation",
+     "grounds": "giving up",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "done",
+     "grounds": "performed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "by the one who",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "that person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "in happiness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aparaḥ",
+     "gloss": "other",
+     "grounds": "anyone else",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "address to dear one",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who becomes happy through renunciation?",
+   "premises": [
+    "renunciation is done by someone",
+    "that person becomes happy",
+    "no other becomes happy"
+   ],
+   "inference": "happiness follows from renunciation performed by oneself",
+   "uncertainties": [
+    "whether tyāgaḥ means world-renunciation or attachment-renunciation"
+   ],
+   "plain_english": "Dear one, he who has performed renunciation is happy, not another."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "ālayam",
+     "gloss": "abode",
+     "grounds": "dwelling place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvapāpānām",
+     "gloss": "all-sins'",
+     "grounds": "of all sins",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "saṃsāram",
+     "gloss": "samsara",
+     "grounds": "cycle of rebirth",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "ought to shun",
+     "morph": "3.sg.opt.act root-varj"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "address to dear one",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should be avoided as the abode of all sins?",
+   "premises": [
+    "samsara is the abode of all sins",
+    "one should avoid it",
+    "dear one is addressed"
+   ],
+   "inference": "samsara must be shunned because it houses all sins",
+   "uncertainties": [
+    "whether avoidance means physical or mental renunciation"
+   ],
+   "plain_english": "Dear one, one should avoid samsara, the abode of all sins."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "a",
+     "gloss": "without",
+     "grounds": "negating prefix",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śastra",
+     "gloss": "weapon",
+     "grounds": "instrument of cutting",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khaṇḍanam",
+     "gloss": "cutting",
+     "grounds": "severing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "address to goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "saṃsāra",
+     "gloss": "samsara",
+     "grounds": "cycle of rebirth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āsakta",
+     "gloss": "attached",
+     "grounds": "clinging",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cetasām",
+     "gloss": "minds'",
+     "grounds": "of minds",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "How is samsara cut for attached minds without a weapon?",
+   "premises": [
+    "attached minds cling to samsara",
+    "cutting is needed",
+    "no weapon is used"
+   ],
+   "inference": "liberation from samsara for attached minds requires a non-weapon means of severing",
+   "uncertainties": [
+    "whether a is part of a compound or separate token"
+   ],
+   "plain_english": "O goddess, for minds attached to samsara, cutting without a weapon."
+  }
+ ]
+}

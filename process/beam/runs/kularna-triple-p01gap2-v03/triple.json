@@ -1,0 +1,430 @@
+{
+ "song": "kul-p01",
+ "items": [
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "sarvajña",
+     "gloss": "all-knowing",
+     "grounds": "legacy hint all-knowing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaktisulabha",
+     "gloss": "easily-won-by-devotion",
+     "grounds": "legacy hint easily-won-by-devotion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaraṇāgatavatsala",
+     "gloss": "refuge-loving",
+     "grounds": "legacy hint refuge-loving",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is described as all-knowing and refuge-loving?",
+   "premises": [
+    "The verse names an all-knowing being.",
+    "Devotion makes that being easily won.",
+    "That being loves those who take refuge."
+   ],
+   "inference": "The verse praises a divine figure accessible through devotion and refuge.",
+   "uncertainties": [
+    "Exact grammatical gender and number are inferred from context."
+   ],
+   "plain_english": "All-knowing, easily won by devotion, and loving to those who take refuge."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "asāre",
+     "gloss": "worthless",
+     "grounds": "legacy hint worthless",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ghorasaṃsāre",
+     "gloss": "terrible-samsara",
+     "grounds": "legacy hint terrible-samsara",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvaduḥkhamalīmasāḥ",
+     "gloss": "all-sorrow-stained",
+     "grounds": "legacy hint all-sorrow-stained",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What kind of beings arise in terrible samsara?",
+   "premises": [
+    "Samsara is called worthless and terrible.",
+    "Beings in it are stained by all sorrow."
+   ],
+   "inference": "The verse depicts samsara as a sorrow-stained condition.",
+   "uncertainties": [
+    "The exact referent of the stained beings is not explicit."
+   ],
+   "plain_english": "In worthless and terrible samsara, beings are stained by all sorrow."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "jāyante",
+     "gloss": "are-born",
+     "grounds": "legacy hint are-born",
+     "morph": "3.pl.mid.pres (jan)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mirayante",
+     "gloss": "die",
+     "grounds": "legacy hint die",
+     "morph": "3.pl.mid.pres (mṛ)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "their",
+     "grounds": "legacy hint their",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "legacy hint liberation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "legacy hint exists",
+     "morph": "3.sg.pass.pres (vid)"
+    }
+   ],
+   "question": "Do beings born and dying in samsara have liberation?",
+   "premises": [
+    "Beings are born and die in samsara.",
+    "For them, liberation does not exist."
+   ],
+   "inference": "The verse denies liberation to beings caught in birth and death.",
+   "uncertainties": [
+    "The scope of \"them\" is inferred from context."
+   ],
+   "plain_english": "They are born and die, and for them liberation does not exist."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "kenopāyena",
+     "gloss": "by-what-means",
+     "grounds": "legacy hint by-what-means",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "legacy hint lord-of-gods",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "legacy hint is-liberated",
+     "morph": "3.sg.pass.pres (muc)"
+    },
+    {
+     "surface": "vada",
+     "gloss": "speak",
+     "grounds": "legacy hint speak",
+     "morph": "2.sg.impv (vad)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "legacy hint to-me",
+     "morph": "1.sg.dat"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "legacy hint lord",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "By what means is one liberated, O lord?",
+   "premises": [
+    "The speaker asks the lord of gods for the means of liberation.",
+    "The lord is asked to speak to the speaker."
+   ],
+   "inference": "The verse is a direct question about the means of liberation.",
+   "uncertainties": [
+    "The exact addressee beyond \"lord\" is inferred."
+   ],
+   "plain_english": "By what means, O lord of gods, is one liberated? Speak to me, O lord."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "tasya+śravaṇamātreṇa",
+     "gloss": "by-its-hearing-alone",
+     "grounds": "legacy hint by-its-hearing-alone",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "saṃsārād",
+     "gloss": "from-samsara",
+     "grounds": "legacy hint from-samsara",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "legacy hint is-liberated",
+     "morph": "3.sg.pass.pres (muc)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "legacy hint man",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What liberates a man from samsara?",
+   "premises": [
+    "Hearing it alone liberates a man.",
+    "That liberation is from samsara."
+   ],
+   "inference": "The verse states that hearing alone brings liberation from samsara.",
+   "uncertainties": [
+    "The referent of \"it\" is supplied by context."
+   ],
+   "plain_english": "By hearing it alone, a man is liberated from samsara."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "sarvajñaḥ",
+     "gloss": "all-knowing",
+     "grounds": "legacy hint all-knowing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvakarttā",
+     "gloss": "all-doer",
+     "grounds": "legacy hint all-doer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveśo",
+     "gloss": "all-lord",
+     "grounds": "legacy hint all-lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirmalo'dvayaḥ",
+     "gloss": "stainless-nondual",
+     "grounds": "legacy hint stainless",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities are attributed to the supreme being?",
+   "premises": [
+    "The being is all-knowing and all-doing.",
+    "The being is all-lord, stainless, and nondual."
+   ],
+   "inference": "The verse lists supreme qualities of the divine.",
+   "uncertainties": [
+    "Whether the qualities are one being or several is inferred."
+   ],
+   "plain_english": "All-knowing, all-doer, all-lord, stainless, and nondual."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "nirguṇaḥ",
+     "gloss": "without-qualities",
+     "grounds": "legacy hint without-qualities",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saccidānandastadaṃśā",
+     "gloss": "existence-consciousness-bliss-parts",
+     "grounds": "legacy hint existence-consciousness-bliss",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jīvasaṃjñakāḥ",
+     "gloss": "called-jiva",
+     "grounds": "legacy hint called-jiva",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What are the jivas in relation to the qualityless being?",
+   "premises": [
+    "The being is without qualities.",
+    "Jivas are called parts of existence-consciousness-bliss."
+   ],
+   "inference": "The verse relates jivas to the supreme being as its parts.",
+   "uncertainties": [
+    "The exact relation of parts to whole is not fully explicit."
+   ],
+   "plain_english": "Without qualities, existence-consciousness-bliss; its parts are called jiva."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "garbhādyupādhisaṃbhinnāḥ",
+     "gloss": "divided-by-womb-etc-conditions",
+     "grounds": "legacy hint divided-by-womb-etc-conditions",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "karmabhiḥ",
+     "gloss": "by-actions",
+     "grounds": "legacy hint by-actions",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "karaṇādibhiḥ",
+     "gloss": "by-organs-etc",
+     "grounds": "legacy hint by-organs-etc",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "What divides beings by womb and actions?",
+   "premises": [
+    "Beings are divided by womb and other conditions.",
+    "Actions and organs also divide them."
+   ],
+   "inference": "The verse attributes division to womb, actions, and organs.",
+   "uncertainties": [
+    "The exact list of conditions is abbreviated."
+   ],
+   "plain_english": "Divided by womb and other conditions, by actions and organs and the like."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "tattajjātiyutaṃ",
+     "gloss": "that-and-that-birth-endowed",
+     "grounds": "legacy hint that-and-that-birth-endowed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deham",
+     "gloss": "body",
+     "grounds": "legacy hint body",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āyurbhogañca",
+     "gloss": "life-enjoyment-and",
+     "grounds": "legacy hint life-enjoyment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karmajam",
+     "gloss": "action-born",
+     "grounds": "legacy hint action-born",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What kind of body and life are action-born?",
+   "premises": [
+    "The body is endowed with this and that birth.",
+    "Life and enjoyment are action-born."
+   ],
+   "inference": "The verse ties body, life, and enjoyment to action and birth.",
+   "uncertainties": [
+    "The exact scope of \"this and that birth\" is inferred."
+   ],
+   "plain_english": "That body endowed with this and that birth, and life and enjoyment, are born of action."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "sūkṣmaliṅgaśarīrantadāmokṣādakṣayaṃ",
+     "gloss": "subtle-linga-body-imperishable-after-liberation",
+     "grounds": "legacy hint subtle-linga-body",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "legacy hint dear",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What remains imperishable after liberation, dear one?",
+   "premises": [
+    "The subtle linga body is mentioned.",
+    "It is called imperishable after liberation."
+   ],
+   "inference": "The verse refers to an imperishable subtle body after liberation.",
+   "uncertainties": [
+    "The fused compound is not fully segmented here."
+   ],
+   "plain_english": "The subtle linga body, imperishable after liberation, O dear one."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "dhāmīkāstridaśāstadvanmokṣiṇaśca",
+     "gloss": "celestial-beings-and-liberated-ones",
+     "grounds": "legacy hint celestial-beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "legacy hint in-order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do celestial beings and liberated ones proceed?",
+   "premises": [
+    "Celestial beings are mentioned.",
+    "Liberated ones are mentioned.",
+    "They proceed in order."
+   ],
+   "inference": "The verse states an ordered progression for celestial and liberated beings.",
+   "uncertainties": [
+    "The fused compound is not fully segmented here."
+   ],
+   "plain_english": "Celestial beings and liberated ones proceed in order."
+  }
+ ]
+}
