@@ -77,3 +77,20 @@
    (sanskrit_sha is SONG-scoped).
 6. One id format (unpadded) from earliest producer.
 7. FK children move before parents; one owner per site slug.
+
+## Dating / scholarly metadata (plan, 2026-11-11)
+
+Tiered, cheapest-first — do NOT web-guess dates:
+1. **Edition metadata (done):** Muktabodha headers carry edition
+   publication year + publisher → `EDITION_YEAR` / `EDITION_PUBLISHER`
+   assertions. This dates the EDITION, never the text.
+2. **PANDiT (next, adapter exists):** `patalacheckpoints/ingestion/adapters/
+   pandit.py` + 200 `PTCND_pandit_*` works in the DB. PANDiT holds author/
+   text floruits — but its local gold carries TITLE only, so dates need a
+   live fetch (API) or a fresh dump. This is THE scholarly dating source.
+3. **Sanderson, "The Śaiva Literature" (authority):** chronologically
+   ordered map — curate period for the ~40 core Trika/Siddhānta works from
+   it (open-access PDF linked in the curated registry).
+4. **External researcher lane:** add `date_text / century / confidence`
+   columns to the batch6 brief format for the long tail.
+Rule: record source + confidence with every date; edition year ≠ text date.
