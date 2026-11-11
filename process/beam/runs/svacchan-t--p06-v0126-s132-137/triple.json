@@ -1,0 +1,248 @@
+{
+ "song": "sva-p06",
+ "items": [
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closing particle after prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvoktam",
+     "gloss": "previously-stated",
+     "grounds": "past participle of vac with pūrva",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tadbhāgatrayakalpanayā",
+     "gloss": "by-three-part-division-of-that",
+     "grounds": "compound tadbhāga-traya-kalpanā in instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "tritattvakalpanārtham",
+     "gloss": "for-three-principle-division",
+     "grounds": "compound tritattva-kalpanā-artham in accusative purpose",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How does the prior statement become three-principle division?",
+   "premises": [
+    "prior statement is recalled",
+    "three-part division is applied",
+    "three principles are intended"
+   ],
+   "inference": "The verse links the earlier statement to a threefold principle construction.",
+   "uncertainties": [
+    "exact referent of tadbhāga remains context-dependent"
+   ],
+   "plain_english": "Thus the previously stated matter is taken up for a threefold principle division through a three-part construction."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "vījanaṃ",
+     "gloss": "fanning",
+     "grounds": "action noun in accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prasavābhimukhīkaraṇam",
+     "gloss": "making-toward-birth",
+     "grounds": "compound prasava-abhimukhī-karaṇa in accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pūrveṇa",
+     "gloss": "by-prior",
+     "grounds": "instrumental of pūrva",
+     "morph": "inst.sg.m/n"
+    },
+    {
+     "surface": "ya-kāreṇa",
+     "gloss": "by-ya-letter",
+     "grounds": "instrumental of ya-kāra",
+     "morph": "inst.sg.m"
+    }
+   ],
+   "question": "What does fanning toward birth accomplish with prior ya-letter?",
+   "premises": [
+    "fanning is named",
+    "birthward orientation is named",
+    "prior ya-letter is instrumental"
+   ],
+   "inference": "The verse presents fanning and birthward orientation as connected with the prior ya-letter.",
+   "uncertainties": [
+    "whether vījanaṃ is literal or ritual action"
+   ],
+   "plain_english": "Fanning, making toward birth, is done by the prior means and by the ya-letter."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "trirjuhuyāt",
+     "gloss": "let-him-offer-thrice",
+     "grounds": "optative of hu with triḥ",
+     "morph": "3.sg.act.opt.√hu"
+    },
+    {
+     "surface": "trirjuhuyāt",
+     "gloss": "let-him-offer-thrice",
+     "grounds": "optative of hu with triḥ",
+     "morph": "3.sg.act.opt.√hu"
+    },
+    {
+     "surface": "trirjuhuyāt",
+     "gloss": "let-him-offer-thrice",
+     "grounds": "optative of hu with triḥ",
+     "morph": "3.sg.act.opt.√hu"
+    },
+    {
+     "surface": "trirjuhuyāt",
+     "gloss": "let-him-offer-thrice",
+     "grounds": "optative of hu with triḥ",
+     "morph": "3.sg.act.opt.√hu"
+    }
+   ],
+   "question": "How many times should the offering be made?",
+   "premises": [
+    "offering is prescribed",
+    "thrice is repeated",
+    "fourfold repetition appears"
+   ],
+   "inference": "The verse insists on thrice-offering through repeated imperative force.",
+   "uncertainties": [
+    "whether four repetitions indicate four oblations or emphasis"
+   ],
+   "plain_english": "Let him offer thrice, let him offer thrice, let him offer thrice, let him offer thrice."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "śivāgnirbhava",
+     "gloss": "become-śiva-fire",
+     "grounds": "imperative of bhū with śivāgni",
+     "morph": "2.sg.act.impv.√bhū"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "indeclinable salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmakalpanam",
+     "gloss": "name-formation",
+     "grounds": "compound nāma-kalpana in accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What name-formation follows the salutation to Śiva-fire?",
+   "premises": [
+    "becoming Śiva-fire is commanded",
+    "salutation is given",
+    "thus marks quotation",
+    "name-formation is named"
+   ],
+   "inference": "The verse joins the Śiva-fire salutation with a name-formation formula.",
+   "uncertainties": [
+    "exact ritual referent of śivāgni"
+   ],
+   "plain_english": "Become Śiva-fire; salutation; thus is the name-formation."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "kṣamyatām",
+     "gloss": "let-it-be-forgiven",
+     "grounds": "passive imperative of kṣam",
+     "morph": "3.sg.pass.impv.√kṣam"
+    },
+    {
+     "surface": "ityuktvā",
+     "gloss": "having-said-thus",
+     "grounds": "absolutive of vac with iti",
+     "morph": "abs.√vac"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "let-him-dismiss",
+     "grounds": "optative of visṛj",
+     "morph": "3.sg.act.opt.√visṛj"
+    },
+    {
+     "surface": "kṣamyatām",
+     "gloss": "let-it-be-forgiven",
+     "grounds": "passive imperative of kṣam",
+     "morph": "3.sg.pass.impv.√kṣam"
+    }
+   ],
+   "question": "What sequence follows after saying let it be forgiven?",
+   "premises": [
+    "forgiveness is requested",
+    "thus is said",
+    "dismissal is prescribed",
+    "forgiveness is repeated"
+   ],
+   "inference": "The verse moves from forgiveness through dismissal and repeats forgiveness.",
+   "uncertainties": [
+    "whether kṣamyatām is addressed to deity or assembly"
+   ],
+   "plain_english": "Let it be forgiven; having said thus, let him dismiss; let it be forgiven."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "dhāmnā",
+     "gloss": "by-abode",
+     "grounds": "instrumental of dhāman",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "niṣkalena",
+     "gloss": "by-partless",
+     "grounds": "instrumental of niṣkala",
+     "morph": "inst.sg.m/n"
+    },
+    {
+     "surface": "idhmā",
+     "gloss": "fuel-sticks",
+     "grounds": "accusative plural of idhma",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "asphuṭitā",
+     "gloss": "unmanifest",
+     "grounds": "feminine nominative adjective",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How are fuel-sticks related to partless abode?",
+   "premises": [
+    "abode is instrumental",
+    "partless is instrumental",
+    "fuel-sticks are accusative",
+    "unmanifest is nominative"
+   ],
+   "inference": "The verse connects partless abode with fuel-sticks and an unmanifest feminine subject.",
+   "uncertainties": [
+    "syntactic relation of asphuṭitā to idhmā"
+   ],
+   "plain_english": "By the abode, by the partless, the fuel-sticks are unmanifest."
+  }
+ ]
+}
