@@ -7,6 +7,22 @@ their INDEX pages are static and list translations directly:
   mahanaya.org/en/scriptures/    — Dyczkowski scripture translations
 Output: process/beam/curated_hits.jsonl {catalog, title, hits[]}.
 Rerun rarely (indexes change slowly); polite single fetch each.
+
+SOURCE REGISTRY (status 2026-11-11; see patalacheckpoints/docs/RESOURCES_SEED.md
+§§1-35 for the full 103-URL typed list):
+  SCRAPED: shivashakti.com/texts+netra+bibby (Magee PDFs), mahanaya.org
+    scripture index (36 Dyczkowski translations), hareesh.org sitemap
+    (Wallis verse-by-verse VB + Sivasutra), trikashaivism trika index
+    (Pradikapa stotras/sutras — titles only, deep links pending).
+  JS/BROWSER-ONLY (not scrapable via curl): lakshmanjooacademy books,
+    vishvasa AgamaH mirror, sanskritdocuments tantra dir, OCHS manuscript DB.
+  PROGRAMMATIC (no scrape needed): OpenLibrary, archive.org advancedsearch,
+    GRETIL TEI (corpustei), Muktabodha cumulative zip (source, not translations).
+  CODE ADAPTERS (reuse, don't rebuild): patalacheckpoints/ingestion/adapters/
+    (muktabodha/gretil/sarit/ngmcp/pandit/viaf/wikidata/iiif/csalt).
+  FORTHCOMING (not evidence yet): Muktabodha translation-series (10 KSTS
+    works announced, unpublished); Flood Netratantra (Routledge, in prep);
+    Sanderson Tantraloka (OCHS, in prep).
 """
 from __future__ import annotations
 import html as _h
