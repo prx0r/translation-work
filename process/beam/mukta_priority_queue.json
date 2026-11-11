@@ -533,7 +533,8 @@
 "tw_match": [
 "ipvv-vivrti-vimarsini"
 ],
-"status": "started"
+"status": "queued",
+"note": "matched empty scaffold only - untouched"
 },
 {
 "tier": 1,
@@ -666,7 +667,8 @@
 "tw_match": [
 "ipvv-vivrti-vimarsini"
 ],
-"status": "started"
+"status": "queued",
+"note": "tw/ipvv-vivrti-vimarsini/ is EMPTY scaffold (0 files) - separate work, untouched"
 },
 {
 "tier": 1,
@@ -722,7 +724,8 @@
 "tw_match": [
 "ipvv-vivrti-vimarsini"
 ],
-"status": "started"
+"status": "queued",
+"note": "tw/ipvv-vivrti-vimarsini/ is EMPTY scaffold (0 files) - separate work, untouched"
 },
 {
 "tier": 1,
@@ -766,7 +769,8 @@
 "tw_match": [
 "ipvv-vivrti-vimarsini"
 ],
-"status": "started"
+"status": "queued",
+"note": "tw/ipvv-vivrti-vimarsini/ is EMPTY scaffold (0 files) - separate work, untouched"
 },
 {
 "tier": 1,
@@ -830,7 +834,8 @@
 "tw_match": [
 "saktavijnana"
 ],
-"status": "started"
+"status": "in-progress-unverified-mapping",
+"note": "tw/saktavijnana has layers but file bundles two texts - mapping unverified"
 },
 {
 "tier": 1,
@@ -844,7 +849,8 @@
 "tw_match": [
 "ipvv-vivrti-vimarsini"
 ],
-"status": "started"
+"status": "machine-complete-human-review-pending",
+"note": "tw/ipvv: 49/49 shastra PASS 2026-11-09, 146 L2, 571 CM, 49 bundles"
 },
 {
 "tier": 1,
@@ -958,7 +964,8 @@
 "tantrasara-a21",
 "tantrasara-a15"
 ],
-"status": "started"
+"status": "queued",
+"note": "was fuzzy-matched to tantrasara-a* - WRONG TEXT (brhattantrasara), untouched"
 },
 {
 "tier": 2,
