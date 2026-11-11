@@ -318,6 +318,15 @@ def concepts(term: str, top: int = 5) -> dict:
 
 
 @mcp.tool()
+def queue_guard(fix: bool = False) -> dict:
+    """Structural duplicate guard for the burn queue. Every seeding agent
+    MUST run this (or the guarded seeder) before adding tasks: enforces
+    unique ids and non-overlapping tal_triple verse ranges per song.
+    fix=true marks overlapping pending/claimed rows 'superseded'."""
+    return _run(["--", "queue_guard.py"] + (["--fix"] if fix else []))
+
+
+@mcp.tool()
 def gates() -> dict:
     """The one gate (SKILL largetext §10): manifest freshness + proof sweep
     + passages ledger + dbread coverage. Read-only report; exit nonzero in
