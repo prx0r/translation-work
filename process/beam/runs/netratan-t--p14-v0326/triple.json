@@ -1,0 +1,471 @@
+{
+ "song": "net-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "arśāṃsi",
+     "gloss": "hemorrhoids",
+     "grounds": "listed affliction",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "cakṣūrogāḥ",
+     "gloss": "eye-diseases",
+     "grounds": "listed affliction",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visarpakādayaḥ",
+     "gloss": "erysipelas-etc",
+     "grounds": "listed affliction",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "What afflictions are listed here?",
+   "premises": [
+    "Hemorrhoids are listed.",
+    "Eye diseases are listed.",
+    "Erysipelas etc are listed."
+   ],
+   "inference": "The verse enumerates bodily afflictions.",
+   "uncertainties": [
+    "Exact scope of ādayaḥ is not specified."
+   ],
+   "plain_english": "Hemorrhoids, eye diseases, and erysipelas and similar ailments."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "ābhyantarā",
+     "gloss": "internal",
+     "grounds": "qualifies diseases",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "vyādhayaḥ",
+     "gloss": "diseases",
+     "grounds": "subject",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śokādyāḥ",
+     "gloss": "grief-etc",
+     "grounds": "listed afflictions",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "cittanāśakāḥ",
+     "gloss": "mind-destroying",
+     "grounds": "qualifies grief etc",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What internal afflictions are listed here?",
+   "premises": [
+    "Internal diseases are listed.",
+    "Grief etc are listed.",
+    "Grief etc are mind-destroying."
+   ],
+   "inference": "The verse lists internal diseases and mind-destroying grief.",
+   "uncertainties": [
+    "Exact scope of ādyāḥ is not specified."
+   ],
+   "plain_english": "Internal diseases, and grief and similar mind-destroying afflictions."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāgaḥ",
+     "gloss": "rite",
+     "grounds": "subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "predicate",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "śāntihetave",
+     "gloss": "for-peace",
+     "grounds": "purpose",
+     "morph": "n.dat.sg.f"
+    }
+   ],
+   "question": "What rite is to be done then?",
+   "premises": [
+    "Then the rite is to be done.",
+    "It is done as before.",
+    "It is for peace."
+   ],
+   "inference": "The rite should be performed as before for peace.",
+   "uncertainties": [
+    "The prior rite is not specified here."
+   ],
+   "plain_english": "Then the rite is to be performed as before, for peace."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "copula",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What is said to exist here?",
+   "premises": [
+    "Of this there is something.",
+    "The copula affirms existence."
+   ],
+   "inference": "The verse affirms existence of something related to this.",
+   "uncertainties": [
+    "The referent of asya is not explicit."
+   ],
+   "plain_english": "Of this, there is."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "jña",
+     "gloss": "knowledge",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "tva",
+     "gloss": "ness",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "kartṛtva",
+     "gloss": "agency",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "śūnyaḥ",
+     "gloss": "devoid",
+     "grounds": "predicate",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What is devoid of knowledge-ness and agency?",
+   "premises": [
+    "Knowledge-ness is named.",
+    "Agency is named.",
+    "The subject is devoid."
+   ],
+   "inference": "The subject lacks knowledge-ness and agency.",
+   "uncertainties": [
+    "The subject is not explicit in this verse."
+   ],
+   "plain_english": "Devoid of knowledge-ness and agency."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "prāpitasaṃsārabhāvasya",
+     "gloss": "of-one-who-has-attained-saṃsāra-state",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg.m"
+    }
+   ],
+   "question": "Whose state is described here?",
+   "premises": [
+    "The genitive denotes possession.",
+    "The state is saṃsāra-state."
+   ],
+   "inference": "The verse refers to one who has attained saṃsāra-state.",
+   "uncertainties": [
+    "The full sentence is not present."
+   ],
+   "plain_english": "Of one who has attained the state of saṃsāra."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "ityādigrahaṇāt",
+     "gloss": "by-grahaṇa-etc",
+     "grounds": "ablative",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "sāṃkhyādidṛṣṭe",
+     "gloss": "in-sāṃkhya-etc-view",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tāttvike",
+     "gloss": "in-real",
+     "grounds": "locative",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "position",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What position is also considered here?",
+   "premises": [
+    "The Sāṃkhya etc view is named.",
+    "The real position is named.",
+    "Also is added."
+   ],
+   "inference": "The real position in the Sāṃkhya etc view is also considered.",
+   "uncertainties": [
+    "The exact force of ityādi is not specified."
+   ],
+   "plain_english": "By such grahaṇa etc, also in the real position of the Sāṃkhya etc view."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "triṃśattattvātma",
+     "gloss": "thirty-tattvas",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "māyākāryaṃ",
+     "gloss": "māyā-effect",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "māyākhyaṃ",
+     "gloss": "māyā-named",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "malam",
+     "gloss": "impurity",
+     "grounds": "object",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What impurity is described here?",
+   "premises": [
+    "Thirty tattvas are named.",
+    "Māyā-effect is named.",
+    "Māyā-named impurity is named."
+   ],
+   "inference": "The impurity is the māyā-effect named māyā.",
+   "uncertainties": [
+    "The exact relation of thirty tattvas is not explicit."
+   ],
+   "plain_english": "The impurity named māyā, effect of māyā, of thirty tattvas."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "kośakāraḥ",
+     "gloss": "cocoon-maker",
+     "grounds": "subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "krimiḥ",
+     "gloss": "worm",
+     "grounds": "apposition",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "yadvat",
+     "gloss": "just-as",
+     "grounds": "comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "oneself",
+     "grounds": "object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "would-wrap",
+     "grounds": "verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "dṛḍham",
+     "gloss": "firmly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the worm do in this simile?",
+   "premises": [
+    "The cocoon-maker worm is named.",
+    "It wraps oneself.",
+    "It wraps firmly."
+   ],
+   "inference": "The worm wraps itself firmly, as a simile.",
+   "uncertainties": [
+    "The tenor of the simile is not explicit."
+   ],
+   "plain_english": "Just as the cocoon-making worm wraps itself firmly."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "saugatamīmāṃsakasāṃkhyādibhiḥ",
+     "gloss": "by-buddhists-mīmāṃsakas-sāṃkhyas-etc",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-held",
+     "grounds": "passive verb",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "What is held by these systems?",
+   "premises": [
+    "Buddhists etc are named.",
+    "Something is held.",
+    "The verb is passive."
+   ],
+   "inference": "The verse states that something is held by those systems.",
+   "uncertainties": [
+    "The held doctrine is not explicit in this verse."
+   ],
+   "plain_english": "It is held by Buddhists, Mīmāṃsakas, Sāṃkhyas, and others."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "genitive",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "anugrāhakaḥ",
+     "gloss": "benefactor",
+     "grounds": "predicate",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "pron.nom.sg.m"
+    }
+   ],
+   "question": "Who is benefactor of all?",
+   "premises": [
+    "Of all is stated.",
+    "He is benefactor.",
+    "The subject is he."
+   ],
+   "inference": "He is the benefactor of all.",
+   "uncertainties": [
+    "The identity of he is not explicit."
+   ],
+   "plain_english": "He is the benefactor of all."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "grāhyagrāhakādikā",
+     "gloss": "of-grasper-and-grasped-etc",
+     "grounds": "genitive compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "luṣyollāsikā",
+     "gloss": "impurity-arising",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "aparārūpā",
+     "gloss": "other-form",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What other form is described here?",
+   "premises": [
+    "Grasper and grasped etc are named.",
+    "Impurity arising is named.",
+    "Other form is named."
+   ],
+   "inference": "The verse describes another form arising from grasper-grasped impurity.",
+   "uncertainties": [
+    "The exact syntactic relation is not explicit."
+   ],
+   "plain_english": "Other form, impurity arising from grasper and grasped etc."
+  }
+ ]
+}

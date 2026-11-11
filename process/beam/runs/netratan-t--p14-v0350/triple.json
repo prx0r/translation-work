@@ -1,0 +1,51 @@
+{
+ "song": "net-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "śriyaḥ",
+     "gloss": "of-prosperity",
+     "grounds": "genitive of śrī",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "bhogamokṣavitaraṇarucaḥ",
+     "gloss": "enjoyment-liberation-bestowing-radiance",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jīvanaṃ",
+     "gloss": "life",
+     "grounds": "neuter noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vācyarūpaṃ",
+     "gloss": "spoken-form",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "caitanyam",
+     "gloss": "consciousness",
+     "grounds": "neuter noun",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is the spoken form of consciousness that bestows enjoyment and liberation?",
+   "premises": [
+    "Prosperity radiates enjoyment and liberation.",
+    "Life is spoken form.",
+    "Consciousness is spoken form."
+   ],
+   "inference": "Consciousness as spoken form bestows prosperity, enjoyment, liberation, and life.",
+   "uncertainties": [
+    "recension reading uncertain"
+   ],
+   "plain_english": "Prosperity's radiance bestowing enjoyment and liberation is life, the spoken form of consciousness."
+  }
+ ]
+}
