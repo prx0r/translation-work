@@ -1,0 +1,601 @@
+{
+ "song": "kul-p52",
+ "items": [
+  {
+   "verse": 1276,
+   "rows": [
+    {
+     "surface": "alaṃghyāḥ",
+     "gloss": "not-transgressible",
+     "grounds": "compound adjective describing guru-women",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "pūjanīyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive adjective",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "are",
+     "grounds": "copula",
+     "morph": "3.pl.act-pres root-as"
+    },
+    {
+     "surface": "guruvad",
+     "gloss": "like-guru",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruyoṣitaḥ",
+     "gloss": "guru-women",
+     "grounds": "compound noun",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How should guru-women be regarded in practice?",
+   "premises": [
+    "guru-women are not transgressible",
+    "guru-women are to be worshipped",
+    "guru-women are like guru"
+   ],
+   "inference": "Guru-women receive guru-level reverence and protection.",
+   "uncertainties": [
+    "exact gender/number of alaṃghyāḥ and pūjanīyāḥ inferred from context"
+   ],
+   "plain_english": "Guru-women are not to be transgressed; they are to be worshipped like the guru."
+  },
+  {
+   "verse": 1277,
+   "rows": [
+    {
+     "surface": "vyaṅgāṅgī",
+     "gloss": "deformed-limbed",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vikṛtāṅgīm",
+     "gloss": "distorted-limbed",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kubjām",
+     "gloss": "hunchbacked-woman",
+     "grounds": "adjective used substantively",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmayet",
+     "gloss": "should-desire",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-kam"
+    }
+   ],
+   "question": "Which women should not be desired?",
+   "premises": [
+    "deformed-limbed women are not to be desired",
+    "distorted-limbed women are not to be desired",
+    "even hunchbacked women are not to be desired"
+   ],
+   "inference": "Physical deformity marks women excluded from desire.",
+   "uncertainties": [
+    "vyaṅgāṅgī nominative may be contextual rather than direct object"
+   ],
+   "plain_english": "One should not desire a woman with deformed or distorted limbs, nor even a hunchbacked woman."
+  },
+  {
+   "verse": 1278,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmayet",
+     "gloss": "should-desire",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-kam"
+    },
+    {
+     "surface": "guror",
+     "gloss": "of-guru",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "before",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-kr"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyonyasaṃgraham",
+     "gloss": "mutual-embrace",
+     "grounds": "compound noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What conduct is forbidden before the guru?",
+   "premises": [
+    "one should not desire before the guru",
+    "one should not do mutual embrace before the guru"
+   ],
+   "inference": "Desire and mutual embrace are prohibited in the guru's presence.",
+   "uncertainties": [
+    "agre may modify both verbs"
+   ],
+   "plain_english": "Before the guru one should not desire, nor perform mutual embrace."
+  },
+  {
+   "verse": 1279,
+   "rows": [
+    {
+     "surface": "manoharām",
+     "gloss": "charming",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yauvanasthām",
+     "gloss": "youthful",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-arc"
+    },
+    {
+     "surface": "devatādhiyā",
+     "gloss": "with-deity-thought",
+     "grounds": "compound instrumental noun",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How should a charming youthful woman be treated?",
+   "premises": [
+    "a charming youthful woman should be worshipped",
+    "worship is done with deity-thought"
+   ],
+   "inference": "Such a woman is approached as a deity, not as an object of desire.",
+   "uncertainties": [
+    "manoharām and yauvanasthām may describe the same woman"
+   ],
+   "plain_english": "A charming, youthful woman should be worshipped with the thought of a deity."
+  },
+  {
+   "verse": 1280,
+   "rows": [
+    {
+     "surface": "cakramadhye",
+     "gloss": "in-circle-middle",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "oneself",
+     "grounds": "reflexive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣubdhām",
+     "gloss": "agitated",
+     "grounds": "past participle adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāmayet",
+     "gloss": "should-desire",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-kam"
+    },
+    {
+     "surface": "kulasundari",
+     "gloss": "kula-beauty",
+     "grounds": "compound noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "When may the kula-beauty be desired?",
+   "premises": [
+    "in the circle's middle oneself should desire",
+    "the kula-beauty is agitated"
+   ],
+   "inference": "Desire is directed toward the agitated kula-beauty within the circle.",
+   "uncertainties": [
+    "cakramadhye may be ritual circle context"
+   ],
+   "plain_english": "In the middle of the circle, one should oneself desire the agitated kula-beauty."
+  },
+  {
+   "verse": 1281,
+   "rows": [
+    {
+     "surface": "sahakāram",
+     "gloss": "mango-tree",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aśokam",
+     "gloss": "ashoka-tree",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krīḍālolāḥ",
+     "gloss": "play-loving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kumārikāḥ",
+     "gloss": "maidens",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What trees and maidens are mentioned here?",
+   "premises": [
+    "mango-tree and ashoka-tree are mentioned",
+    "play-loving maidens are mentioned"
+   ],
+   "inference": "The verse lists ritual or symbolic trees alongside playful maidens.",
+   "uncertainties": [
+    "syntactic relation to surrounding ritual context is unclear"
+   ],
+   "plain_english": "Mango tree and ashoka tree, and play-loving maidens."
+  },
+  {
+   "verse": 1282,
+   "rows": [
+    {
+     "surface": "nārīm",
+     "gloss": "woman",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktavasanām",
+     "gloss": "red-garmented",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive",
+     "morph": "abs root-drś"
+    },
+    {
+     "surface": "vandeta",
+     "gloss": "should-salute",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-vand"
+    },
+    {
+     "surface": "bhaktitaḥ",
+     "gloss": "with-devotion",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should a red-garmented woman be greeted?",
+   "premises": [
+    "having seen a woman red-garmented",
+    "one should salute with devotion"
+   ],
+   "inference": "A red-garmented woman is greeted reverently upon being seen.",
+   "uncertainties": [
+    "nārīm and raktavasanām may be one woman"
+   ],
+   "plain_english": "Having seen a woman in red garments, one should salute her with devotion."
+  },
+  {
+   "verse": 1283,
+   "rows": [
+    {
+     "surface": "kuladarśanaśāstrāṇi",
+     "gloss": "kula-vision-scriptures",
+     "grounds": "compound noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kuladravyāṇi",
+     "gloss": "kula-substances",
+     "grounds": "compound noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kaulikān",
+     "gloss": "kaulas",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What should kaulas know or receive?",
+   "premises": [
+    "kula-vision-scriptures are mentioned",
+    "kula-substances are mentioned",
+    "kaulas are mentioned"
+   ],
+   "inference": "The verse names scriptures, substances, and kaulas together.",
+   "uncertainties": [
+    "verb is omitted or implied by context"
+   ],
+   "plain_english": "Kula-vision scriptures, kula substances, and kaulas."
+  },
+  {
+   "verse": 1284,
+   "rows": [
+    {
+     "surface": "śikṣakān",
+     "gloss": "teachers",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bodhakān",
+     "gloss": "instructors",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yoginīsiddhirūpakān",
+     "gloss": "yogini-siddhi-formed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Whom does the yogi honor or know?",
+   "premises": [
+    "teachers are mentioned",
+    "instructors are mentioned",
+    "yogini-siddhi-formed ones are mentioned"
+   ],
+   "inference": "The yogi is linked with teachers, instructors, and siddhi-formed yoginis.",
+   "uncertainties": [
+    "main verb is omitted or implied"
+   ],
+   "plain_english": "Teachers, instructors, and those formed as yogini-siddhi, for the yogi."
+  },
+  {
+   "verse": 1285,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindet",
+     "gloss": "should-scold",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-nind"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jugupseta",
+     "gloss": "should-despise",
+     "grounds": "optative verb",
+     "morph": "3.sg.mid-opt root-gups"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haset",
+     "gloss": "should-laugh",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-has"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avamānayet",
+     "gloss": "should-disrespect",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-avaman"
+    }
+   ],
+   "question": "How should one treat kula-women?",
+   "premises": [
+    "one should not scold",
+    "one should not despise",
+    "one should not laugh",
+    "one should not disrespect"
+   ],
+   "inference": "Kula-women are protected from scolding, contempt, ridicule, and disrespect.",
+   "uncertainties": [
+    "object is supplied from surrounding context"
+   ],
+   "plain_english": "One should not scold, despise, laugh at, or disrespect them."
+  },
+  {
+   "verse": 1286,
+   "rows": [
+    {
+     "surface": "kurūpā",
+     "gloss": "ugly",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "black",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-call",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-vad"
+    },
+    {
+     "surface": "kulayoṣitam",
+     "gloss": "kula-woman",
+     "grounds": "compound noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What names should not be applied to a kula-woman?",
+   "premises": [
+    "ugly should not be said",
+    "black should not be said",
+    "to a kula-woman"
+   ],
+   "inference": "A kula-woman must not be called ugly or black.",
+   "uncertainties": [
+    "kurūpā and kṛṣṇā may be quoted epithets"
+   ],
+   "plain_english": "One should not call a kula-woman ugly or black."
+  },
+  {
+   "verse": 1287,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyet",
+     "gloss": "should-see",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root-paś"
+    },
+    {
+     "surface": "vanitām",
+     "gloss": "woman",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nagnām",
+     "gloss": "naked",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "unmattām",
+     "gloss": "mad",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakaṭastanīm",
+     "gloss": "exposed-breasted",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which women should not be seen?",
+   "premises": [
+    "one should not see a naked woman",
+    "one should not see a mad woman",
+    "one should not see an exposed-breasted woman"
+   ],
+   "inference": "Certain vulnerable or exposed women are not to be gazed upon.",
+   "uncertainties": [
+    "all adjectives may modify one woman or several"
+   ],
+   "plain_english": "One should not look at a woman who is naked, mad, or exposed-breasted."
+  }
+ ]
+}

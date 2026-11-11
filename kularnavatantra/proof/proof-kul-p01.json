@@ -3,9 +3,7 @@
  "song": "kul-p01",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "DATA_OBJECTS 25 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "7a394bba0c059ec1",
@@ -35,33 +33,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "argmap[kul-p01-v1]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v2]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v3]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v4]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v5]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v6]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v7]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v8]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v9]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v10]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v11]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v12]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v13]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v14]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v15]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v16]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v17]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v18]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v19]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v20]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v21]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v22]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v23]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v24]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "argmap[kul-p01-v25]: sanskrit_sha mismatch (argmap built against a different source slice)"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 108,
@@ -76,13 +48,13 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "2eecd60f8e91be92bc7befcc16a24c5646fb054b554eea6ad0c59405902d1381",
   "l0": "4e28e07e29bb684d1eba899c28df9358504eac0f30b924b569ce34a4706718d6",
-  "argmap": "bbe269282f7cd4878fe2ef1ad11d987cf6f091dec2afe015719454fba1f29129",
+  "argmap": "00b24d9e39d7887f487b4e94c9148666f557ebad6e7679265803d4591c9c606f",
   "l2": "423c57076bcb3400f58445fcaba01cc0e8ddd6591f1781a8fc16769f98a15fd7",
   "c1": "b4c275ec09877de28ae87171e1cc78df3f30a7092940f9399b649beaf29a6f0c"
  },

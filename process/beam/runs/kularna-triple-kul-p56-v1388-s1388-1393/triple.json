@@ -1,0 +1,269 @@
+{
+ "song": "kul-p56",
+ "items": [
+  {
+   "verse": 1388,
+   "rows": [
+    {
+     "surface": "nijaprāṇān",
+     "gloss": "own-life",
+     "grounds": "own life in accusative plural masculine",
+     "morph": "compound acc.pl.m"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "abandoning",
+     "grounds": "absolutive of parityaj",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurukāryaṃ",
+     "gloss": "guru-work",
+     "grounds": "guru's work in accusative singular neuter",
+     "morph": "compound acc.sg.n"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of sam-ā-car",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should a disciple do for guru work?",
+   "premises": [
+    "disciple abandons own life",
+    "guru work must be performed"
+   ],
+   "inference": "guru service outweighs self-preservation",
+   "uncertainties": [
+    "compound membership of nijaprāṇān"
+   ],
+   "plain_english": "Abandoning one's own life, one should perform the guru's work."
+  },
+  {
+   "verse": 1389,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular masculine pronoun",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "santāḍito",
+     "gloss": "struck",
+     "grounds": "past participle passive in nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasādam",
+     "gloss": "grace",
+     "grounds": "accusative singular masculine",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsmaret",
+     "gloss": "remember",
+     "grounds": "optative of sam-smṛ",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should one regard being struck by the guru?",
+   "premises": [
+    "being struck is by that guru",
+    "one should remember grace"
+   ],
+   "inference": "discipline from guru is grace",
+   "uncertainties": [
+    "voice of santāḍito"
+   ],
+   "plain_english": "Even if struck by him, one should remember it as grace."
+  },
+  {
+   "verse": 1390,
+   "rows": [
+    {
+     "surface": "taccheṣam",
+     "gloss": "that-remainder",
+     "grounds": "tat plus śeṣa in accusative singular neuter",
+     "morph": "compound acc.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sañcintya",
+     "gloss": "thinking",
+     "grounds": "absolutive of sam-cint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānubhūyāt",
+     "gloss": "experience",
+     "grounds": "fused ca plus optative of anu-bhū",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "kuleśvari",
+     "grounds": "vocative singular feminine address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What should one do with the guru's remainder?",
+   "premises": [
+    "that remainder is considered thus",
+    "one should experience it"
+   ],
+   "inference": "guru's remainder is to be inwardly accepted",
+   "uncertainties": [
+    "exact sense of taccheṣam"
+   ],
+   "plain_english": "Thinking 'that is the remainder,' one should experience it, O Kuleshvari."
+  },
+  {
+   "verse": 1391,
+   "rows": [
+    {
+     "surface": "tīrthayātrāṃ",
+     "gloss": "pilgrimage",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "na kuryācca",
+     "gloss": "not-do",
+     "grounds": "fused na plus optative kuryāt plus ca",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na snāyād",
+     "gloss": "not-bathe",
+     "grounds": "optative of snā",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ātmaśuddhaye",
+     "gloss": "for-self-purification",
+     "grounds": "dative singular feminine purpose",
+     "morph": "dat.sg.f"
+    }
+   ],
+   "question": "What pilgrimages and baths are rejected?",
+   "premises": [
+    "pilgrimage should not be done",
+    "bathing for self-purification is rejected"
+   ],
+   "inference": "external purification practices are unnecessary",
+   "uncertainties": [
+    "scope of na with both verbs"
+   ],
+   "plain_english": "One should not undertake pilgrimage, nor bathe for self-purification."
+  },
+  {
+   "verse": 1392,
+   "rows": [
+    {
+     "surface": "na kuryād",
+     "gloss": "not-do",
+     "grounds": "optative of kṛ with negation",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "gurubhiḥ sārddhaṃ",
+     "gloss": "with-gurus",
+     "grounds": "instrumental plural masculine plus indeclinable with",
+     "morph": "instr.pl.m + (indecl.)"
+    },
+    {
+     "surface": "śiṣyo",
+     "gloss": "disciple",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "becoming",
+     "grounds": "absolutive of bhū",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathañcana",
+     "gloss": "in-any-way",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should a disciple act with gurus?",
+   "premises": [
+    "disciple should not do anything",
+    "with gurus in any way"
+   ],
+   "inference": "disciple must not presume equality with gurus",
+   "uncertainties": [
+    "whether gurubhiḥ sārddhaṃ is one token"
+   ],
+   "plain_english": "A disciple, having become one, should in no way act with gurus."
+  },
+  {
+   "verse": 1393,
+   "rows": [
+    {
+     "surface": "vilokya",
+     "gloss": "seeing",
+     "grounds": "absolutive of vi-loc",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūrato",
+     "gloss": "from-afar",
+     "grounds": "indeclinable ablative sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchennāsīta",
+     "gloss": "go",
+     "grounds": "fused optatives gacchet and nāsīta",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "saha taiḥ",
+     "gloss": "with-them",
+     "grounds": "indeclinable plus instrumental plural masculine",
+     "morph": "(indecl.) + instr.pl.m"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one behave toward gurus from afar?",
+   "premises": [
+    "seeing from afar",
+    "one should go not sit with them"
+   ],
+   "inference": "respectful distance is maintained toward gurus",
+   "uncertainties": [
+    "exact parsing of gacchennāsīta"
+   ],
+   "plain_english": "Seeing from afar, one should go, not sit with them ever."
+  }
+ ]
+}

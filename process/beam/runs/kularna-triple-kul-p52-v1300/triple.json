@@ -1,0 +1,52 @@
+{
+ "song": "kul-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "kulāgamārtham",
+     "gloss": "for-kula-agama",
+     "grounds": "compound of kula, agama, and artham indicating purpose",
+     "morph": "compound"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuladharmārtham",
+     "gloss": "for-kula-duty",
+     "grounds": "compound of kula, dharma, and artham indicating purpose",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "emphatic particle restricting the preceding alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering another alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purpose is the kula-agama or kula-duty mentioned?",
+   "premises": [
+    "Verse offers two possible purposes.",
+    "Kula-agama and kula-duty are alternatives.",
+    "Eva restricts to only one."
+   ],
+   "inference": "The verse presents either kula-agama or kula-duty as the sole purpose.",
+   "uncertainties": [
+    "Exact syntactic role of artham remains unclear.",
+    "Whether eva modifies the second alternative only is ambiguous."
+   ],
+   "plain_english": "For the kula-agama, or for kula-duty only, or."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "kul-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "asatyaṃ",
+     "gloss": "untruthful",
+     "grounds": "untruthful; accusative masculine singular adjective in the vice list",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niṣṭhurāsaktaṃ",
+     "gloss": "harsh-attached",
+     "grounds": "harsh and attached; accusative masculine singular adjective in the vice list",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "grāmyādibahubhāṣiṇam",
+     "gloss": "village-etc-much-speaking",
+     "grounds": "speaking much of village matters and the like; accusative masculine singular adjective in the vice list",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What further vices complete this disqualification list?",
+   "premises": [
+    "The verse lists untruthful conduct.",
+    "The verse lists harsh attachment.",
+    "The verse lists excessive village speech."
+   ],
+   "inference": "These traits mark an unfit candidate.",
+   "uncertainties": [
+    "Exact syntactic agreement is inferred from the surrounding accusative list."
+   ],
+   "plain_english": "untruthful, harshly attached, and speaking much of village matters and the like"
+  }
+ ]
+}

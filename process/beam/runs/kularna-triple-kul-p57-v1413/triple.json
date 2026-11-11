@@ -1,0 +1,551 @@
+{
+ "song": "kul-p57",
+ "items": [
+  {
+   "verse": 1413,
+   "rows": [
+    {
+     "surface": "vimṛtyugurunindāyāṃ",
+     "gloss": "death-guru-blame",
+     "grounds": "blame directed at guru even unto death",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gurvaniṣṭāt",
+     "gloss": "from-guru's-displeasure",
+     "grounds": "displeasure of guru",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mahāpadaḥ",
+     "gloss": "great-calamity",
+     "grounds": "great calamity",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What great calamity follows from blaming the guru even unto death?",
+   "premises": [
+    "Blaming guru unto death brings great calamity."
+   ],
+   "inference": "Guru-blame is gravely dangerous.",
+   "uncertainties": [
+    "Compound internal sandhi not split."
+   ],
+   "plain_english": "Blaming the guru even unto death brings great calamity from the guru's displeasure."
+  },
+  {
+   "verse": 1414,
+   "rows": [
+    {
+     "surface": "mṛtyuhastagataḥ",
+     "gloss": "in-death's-hand",
+     "grounds": "one fallen into death's hand",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aparādhakaraḥ",
+     "gloss": "offender",
+     "grounds": "one who commits offense",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "to-guru",
+     "grounds": "dative of guru",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "Is one in death's hand an offender to the guru?",
+   "premises": [
+    "Even one in death's hand is not an offender to guru."
+   ],
+   "inference": "Guru-offense is not excused by mortal danger.",
+   "uncertainties": [
+    "Exact syntactic relation is compressed."
+   ],
+   "plain_english": "Even one in death's hand is not an offender to the guru."
+  },
+  {
+   "verse": 1415,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "guru's",
+     "grounds": "genitive of guru",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "optative of smṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "after",
+     "grounds": "afterward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śravaṇe",
+     "gloss": "hearing",
+     "grounds": "locative of hearing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "pratikriyā",
+     "gloss": "remedy",
+     "grounds": "remedy",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What remedy follows after hearing the guru's name?",
+   "premises": [
+    "After hearing, remembering guru's name is the remedy."
+   ],
+   "inference": "Remembrance of the guru's name repairs the fault.",
+   "uncertainties": [
+    "Verse is elliptical."
+   ],
+   "plain_english": "After hearing, that is the remedy: remember the guru's name."
+  },
+  {
+   "verse": 1416,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ninded",
+     "gloss": "should-blame",
+     "grounds": "optative of nind",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "samayān",
+     "gloss": "vows",
+     "grounds": "accusative plural of samaya",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "vedaśāstrāgamādikān",
+     "gloss": "veda-scripture-āgama-etc",
+     "grounds": "compound listing sacred authorities",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "Whose vows and sacred authorities should not be blamed?",
+   "premises": [
+    "One should not blame his vows, veda, scripture, āgama, etc."
+   ],
+   "inference": "The disciple must not disparage the guru's vows or scriptures.",
+   "uncertainties": [
+    "asya refers to guru or disciple ambiguously."
+   ],
+   "plain_english": "One should not blame his vows, veda, scripture, āgama, and the like."
+  },
+  {
+   "verse": 1417,
+   "rows": [
+    {
+     "surface": "gurvājñākaraṇaṃ",
+     "gloss": "doing-guru's-command",
+     "grounds": "carrying out guru's command",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kṛtyaṃ",
+     "gloss": "duty",
+     "grounds": "what ought to be done",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "śuśrūṣā",
+     "gloss": "service",
+     "grounds": "service",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "bhajanaṃ",
+     "gloss": "worship",
+     "grounds": "worship",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "genitive of guru",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "What duties are owed to the guru?",
+   "premises": [
+    "Doing guru's command is duty; service and worship belong to guru."
+   ],
+   "inference": "Guru-service includes obedience, service, and worship.",
+   "uncertainties": [
+    "Sentence is telegraphic."
+   ],
+   "plain_english": "Doing the guru's command is duty; service and worship are of the guru."
+  },
+  {
+   "verse": 1418,
+   "rows": [
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "betel",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kajjalaṃ",
+     "gloss": "collyrium",
+     "grounds": "collyrium",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "veśam",
+     "gloss": "dress",
+     "grounds": "dress or costume",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "utsṛjya",
+     "gloss": "abandoning",
+     "grounds": "absolutive of utsṛj",
+     "morph": "abs"
+    },
+    {
+     "surface": "praviśet",
+     "gloss": "should-enter",
+     "grounds": "optative of praviś",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "śanaiḥ",
+     "gloss": "slowly",
+     "grounds": "slowly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be abandoned before entering slowly?",
+   "premises": [
+    "Betel, collyrium, and dress are abandoned before entering."
+   ],
+   "inference": "Ritual entry requires abandoning adornments and haste.",
+   "uncertainties": [
+    "Context of entry is not specified."
+   ],
+   "plain_english": "Abandoning betel, collyrium, and dress, one should enter slowly."
+  },
+  {
+   "verse": 1419,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "seeing",
+     "grounds": "absolutive of dṛś",
+     "morph": "abs"
+    },
+    {
+     "surface": "guror",
+     "gloss": "guru",
+     "grounds": "genitive of guru",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "namaskuryāt",
+     "gloss": "should-salute",
+     "grounds": "optative of namaskṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmabhogāya",
+     "gloss": "for-self-enjoyment",
+     "grounds": "dative of self-enjoyment",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kāmayet",
+     "gloss": "should-desire",
+     "grounds": "optative of kām",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should one act upon seeing the guru?",
+   "premises": [
+    "Seeing guru, one should salute; one should not desire for self-enjoyment."
+   ],
+   "inference": "Guru-salutation excludes self-seeking desire.",
+   "uncertainties": [
+    "ātmabhogāya may modify desire or salutation."
+   ],
+   "plain_english": "Seeing the guru, one should salute; one should not desire for self-enjoyment."
+  },
+  {
+   "verse": 1420,
+   "rows": [
+    {
+     "surface": "mūtraṃ",
+     "gloss": "urine",
+     "grounds": "urine",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "niṣṭhīvanaṃ",
+     "gloss": "spitting",
+     "grounds": "spitting",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṣauraṃ",
+     "gloss": "shaving",
+     "grounds": "shaving",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śayanaṃ",
+     "gloss": "lying",
+     "grounds": "lying down",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "strīniṣevanam",
+     "gloss": "intercourse-with-women",
+     "grounds": "intercourse with women",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which bodily acts are listed as prohibited conduct?",
+   "premises": [
+    "Urine, spitting, shaving, lying, and intercourse with women are listed."
+   ],
+   "inference": "The verse catalogs prohibited or restricted bodily acts.",
+   "uncertainties": [
+    "Whether all are prohibited in guru's presence is implicit."
+   ],
+   "plain_english": "Urine, spitting, shaving, lying, and intercourse with women."
+  },
+  {
+   "verse": 1421,
+   "rows": [
+    {
+     "surface": "keśamocana",
+     "gloss": "hair-loosening",
+     "grounds": "loosening hair",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "muṣṇīṣaṃ",
+     "gloss": "turban",
+     "grounds": "turban",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kañcukaṃ",
+     "gloss": "jacket",
+     "grounds": "jacket",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "nagnatāṃ",
+     "gloss": "nudity",
+     "grounds": "nudity",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "and likewise",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What further bodily or dress acts are listed?",
+   "premises": [
+    "Hair-loosening, turban, jacket, nudity, and likewise are listed."
+   ],
+   "inference": "The catalog continues with dress and bodily exposure.",
+   "uncertainties": [
+    "Exact prohibition context is implicit."
+   ],
+   "plain_english": "Hair-loosening, turban, jacket, nudity, and so on."
+  },
+  {
+   "verse": 1422,
+   "rows": [
+    {
+     "surface": "aṅgabhaṅga",
+     "gloss": "limb-breaking",
+     "grounds": "breaking limbs",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "aṅgavādya",
+     "gloss": "body-instrument",
+     "grounds": "body as instrument",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "and so forth",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karāsphālana",
+     "gloss": "hand-clapping",
+     "grounds": "clapping hands",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dhūnana",
+     "gloss": "shaking",
+     "grounds": "shaking",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What further bodily actions are listed?",
+   "premises": [
+    "Limb-breaking, body-instrument, etc., hand-clapping, and shaking are listed."
+   ],
+   "inference": "The catalog continues with bodily gestures and movements.",
+   "uncertainties": [
+    "Whether these are prohibited or merely listed is implicit."
+   ],
+   "plain_english": "Limb-breaking, body-instrument, and so on, hand-clapping, and shaking."
+  },
+  {
+   "verse": 1423,
+   "rows": [
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cared",
+     "gloss": "should-do",
+     "grounds": "optative of car",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-do",
+     "grounds": "optative of ācar",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "mohāt",
+     "gloss": "from-delusion",
+     "grounds": "ablative of delusion",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "deity-curse",
+     "grounds": "curse of deity",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "would-get",
+     "grounds": "optative of āp",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What consequence follows from acting out of delusion?",
+   "premises": [
+    "One should not do or act from delusion; one would get deity's curse."
+   ],
+   "inference": "Deluded conduct brings divine curse.",
+   "uncertainties": [
+    "The two verbs may be variant readings."
+   ],
+   "plain_english": "One should not do or act from delusion, lest one get a deity's curse."
+  },
+  {
+   "verse": 1424,
+   "rows": [
+    {
+     "surface": "mukhāvalokī",
+     "gloss": "face-looking",
+     "grounds": "looking at face",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "seveta",
+     "gloss": "should-serve",
+     "grounds": "optative of sev",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "taduktam",
+     "gloss": "that-said",
+     "grounds": "that which was said",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of samācar",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should one serve and perform what was said?",
+   "premises": [
+    "Face-looking, one should serve; and that said, one should perform."
+   ],
+   "inference": "Service and performance follow the guru's instruction.",
+   "uncertainties": [
+    "mukhāvalokī may modify seveta."
+   ],
+   "plain_english": "Face-looking, one should serve; and that which was said, one should perform."
+  }
+ ]
+}

@@ -212,14 +212,21 @@ def stage_assemble(work, song):
         _spans = _wc.source_spans(work) or {}
     except Exception:
         _spans = {}
-    def _src_sha(v):
-        # mirror shastra_merge/tal convention exactly: hash of span tokens
-        try:
-            if v in _spans:
-                return _h.sha256(' '.join(_spans[v]).encode()).hexdigest()[:16]
-            return _h.sha256(' '.join(_vs[v - 1].split()).encode()).hexdigest()[:16]
-        except Exception:
-            return _fallback_sha
+    # validate_song hashes the WHOLE work's spans once (src_sha at line 64),
+    # not per-verse — mirror that exactly.
+    # validate_song digests the SONG-scoped span slice:
+    #   sha( ' '.join( ' '.join(tokens) for v in song_verses ) )
+    _song_verses = [e['verse'] for e in wt]
+    try:
+        _work_sha = _h.sha256(
+            ' '.join(' '.join(_spans[_v]) for _v in sorted(
+                v for v in _spans if v in set(_song_verses))).encode()
+        ).hexdigest()[:16]
+    except Exception:
+        _work_sha = _fallback_sha
+
+    def _src_sha(_v):
+        return _work_sha
     for e in wt:
         src_sha = _src_sha(e['verse'])
         d = json.loads((RUNS / f"{song}-am-v{e['verse']:02d}" / 'am.json').read_text())

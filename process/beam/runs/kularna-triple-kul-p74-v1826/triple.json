@@ -1,0 +1,591 @@
+{
+ "song": "kul-p74",
+ "items": [
+  {
+   "verse": 1826,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-portion",
+     "grounds": "tenth part offered",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tarpayed",
+     "gloss": "should-satisfy",
+     "grounds": "causative satisfaction",
+     "morph": "3.sg.act.opt.√tṛp"
+    },
+    {
+     "surface": "dugdhaiḥ",
+     "gloss": "with-milks",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "salilaiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "śālitaṇḍulaiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "How should the tenth portion be satisfied?",
+   "premises": [
+    "tenth portion is offered",
+    "milks waters and rice grains are used"
+   ],
+   "inference": "the rite satisfies the tenth portion with those substances",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "Satisfy the tenth portion with milks, waters, and rice grains."
+  },
+  {
+   "verse": 1827,
+   "rows": [
+    {
+     "surface": "bhakṣyāthonyānnapānādyair",
+     "gloss": "with-foods-and-other-food-drink-etc",
+     "grounds": "fused compound with sandhi",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "havyadravyair",
+     "gloss": "with-oblation-substances",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "manoharaiḥ",
+     "gloss": "with-pleasing",
+     "grounds": "instrumental plural",
+     "morph": "adj.inst.pl.m"
+    }
+   ],
+   "question": "What further pleasing substances are used?",
+   "premises": [
+    "foods and drinks are included",
+    "oblation substances are included",
+    "pleasing quality is specified"
+   ],
+   "inference": "the offering uses pleasing foods drinks and oblation substances",
+   "uncertainties": [
+    "compound members not split"
+   ],
+   "plain_english": "With pleasing foods, drinks, and other oblation substances."
+  },
+  {
+   "verse": 1828,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsajapadhyānasahomārccanatarpaṇaḥ",
+     "gloss": "with-nyāsa-japa-meditation-together-with-homa-worship-satisfaction",
+     "grounds": "fused compound with sandhi",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What practices accompany this procedure?",
+   "premises": [
+    "thus indicates sequence",
+    "nyāsa japa meditation homa worship and satisfaction are joined"
+   ],
+   "inference": "the procedure includes those combined practices",
+   "uncertainties": [
+    "compound internal order fused"
+   ],
+   "plain_english": "Thus with nyāsa, japa, meditation, homa, worship, and satisfaction."
+  },
+  {
+   "verse": 1829,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svamanasaḥ",
+     "gloss": "of-own-mind",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "abhīṣṭān",
+     "gloss": "desired",
+     "grounds": "accusative plural",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "rites",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-kula-leader",
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "Whose desired rites are then performed?",
+   "premises": [
+    "then marks sequence",
+    "own mind's desired rites are named",
+    "kula leader is addressed"
+   ],
+   "inference": "the kula leader performs desired rites of one's own mind",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "Then, O kula leader, perform the desired rites of one's own mind."
+  },
+  {
+   "verse": 1830,
+   "rows": [
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyanti",
+     "gloss": "succeed",
+     "grounds": "present plural",
+     "morph": "3.pl.act.pres.√sidh"
+    },
+    {
+     "surface": "asiddhasya",
+     "gloss": "of-unaccomplished",
+     "grounds": "genitive singular",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "deity-curse",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "optative singular",
+     "morph": "3.sg.act.opt.√āp"
+    }
+   ],
+   "question": "What happens if the rite is unaccomplished?",
+   "premises": [
+    "rites do not succeed",
+    "unaccomplished one is referenced",
+    "deity curse would be obtained"
+   ],
+   "inference": "an unaccomplished rite brings a deity curse",
+   "uncertainties": [
+    "causal chain implicit"
+   ],
+   "plain_english": "The rites do not succeed; the unaccomplished one would obtain a deity curse."
+  },
+  {
+   "verse": 1831,
+   "rows": [
+    {
+     "surface": "prayogasiddhiḥ",
+     "gloss": "rite-success",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "nominative singular",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-dear",
+     "grounds": "vocative singular",
+     "morph": "adj.voc.sg.f"
+    }
+   ],
+   "question": "What is the fruit of these rites?",
+   "premises": [
+    "rite success is the fruit",
+    "other fruit is denied",
+    "dear one is addressed"
+   ],
+   "inference": "success of the rite is the only fruit",
+   "uncertainties": [
+    "scope of these rites implicit"
+   ],
+   "plain_english": "Indeed, O dear, success of the rite is the fruit of these; no other."
+  },
+  {
+   "verse": 1832,
+   "rows": [
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "present passive",
+     "morph": "3.sg.pass.pres.√dṛś"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkāmaḥ",
+     "gloss": "desireless",
+     "grounds": "nominative singular",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "devatāṃ",
+     "gloss": "deity",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative singular",
+     "morph": "3.sg.act.opt.√yaj"
+    }
+   ],
+   "question": "How should the deity be worshipped?",
+   "premises": [
+    "therefore marks inference",
+    "desireless worship is seen",
+    "deity should be worshipped"
+   ],
+   "inference": "one should worship the deity desirelessly",
+   "uncertainties": [
+    "exact seen source not stated"
+   ],
+   "plain_english": "Therefore, O goddess, one should worship the deity desirelessly."
+  },
+  {
+   "verse": 1833,
+   "rows": [
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parasya",
+     "gloss": "of-other",
+     "grounds": "genitive singular",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "num.nom.pl.n"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "rites",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative singular",
+     "morph": "3.sg.act.opt.√ācar"
+    }
+   ],
+   "question": "Whose six rites should be performed?",
+   "premises": [
+    "self and other are both named",
+    "six rites are specified",
+    "they should be performed"
+   ],
+   "inference": "one should perform the six rites for self and other",
+   "uncertainties": [
+    "list of six rites not given"
+   ],
+   "plain_english": "One should perform the six rites for oneself and for others too."
+  },
+  {
+   "verse": 1834,
+   "rows": [
+    {
+     "surface": "lakṣam",
+     "gloss": "one-lakh",
+     "grounds": "numeral",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "ekam",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative singular",
+     "morph": "3.sg.act.opt.√jap"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "nyāsadhyānasamanvitaḥ",
+     "gloss": "endowed-with-nyāsa-and-meditation",
+     "grounds": "fused compound",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How many times should the mantra be chanted?",
+   "premises": [
+    "one lakh is specified",
+    "one mantra is chanted",
+    "nyāsa and meditation accompany it"
+   ],
+   "inference": "the mantra should be chanted one lakh times with nyāsa and meditation",
+   "uncertainties": [
+    "exact mantra not named"
+   ],
+   "plain_english": "Endowed with nyāsa and meditation, one should chant the mantra one lakh times."
+  },
+  {
+   "verse": 1835,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present singular",
+     "morph": "3.sg.act.pres.√āp"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "deity-curse",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "optative singular",
+     "morph": "3.sg.act.opt.√āp"
+    }
+   ],
+   "question": "What follows if the fruit is not obtained?",
+   "premises": [
+    "if not then condition",
+    "fruit is not obtained",
+    "deity curse would be obtained"
+   ],
+   "inference": "failure to obtain fruit leads to a deity curse",
+   "uncertainties": [
+    "exact condition implicit"
+   ],
+   "plain_english": "If not, the fruit is not obtained, and one would obtain a deity curse."
+  },
+  {
+   "verse": 1836,
+   "rows": [
+    {
+     "surface": "dīpeśam",
+     "gloss": "lamp-lord",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kulacakrāṇi",
+     "gloss": "kula-circles",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "abs.√jñā"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "rites",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative singular",
+     "morph": "3.sg.act.opt.√sādh"
+    }
+   ],
+   "question": "What must be known before accomplishing rites?",
+   "premises": [
+    "lamp lord is named",
+    "kula circles are named",
+    "rites should be accomplished after knowing"
+   ],
+   "inference": "one should know the lamp lord and kula circles to accomplish rites",
+   "uncertainties": [
+    "exact relation of lamp lord implicit"
+   ],
+   "plain_english": "Having known the lamp lord and the kula circles, one should accomplish the rites."
+  },
+  {
+   "verse": 1837,
+   "rows": [
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śaktim",
+     "gloss": "power",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "kīlakam",
+     "gloss": "pin",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "abs.√jñā"
+    },
+    {
+     "surface": "mantrāṇi",
+     "gloss": "mantras",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative singular",
+     "morph": "3.sg.act.opt.√sādh"
+    }
+   ],
+   "question": "What mantra elements must be known?",
+   "premises": [
+    "seed power and pin are named",
+    "having known them",
+    "mantras should be accomplished"
+   ],
+   "inference": "one should know seed power and pin to accomplish mantras",
+   "uncertainties": [
+    "exact mantra context implicit"
+   ],
+   "plain_english": "Having known the seed, power, and pin, one should accomplish the mantras."
+  }
+ ]
+}

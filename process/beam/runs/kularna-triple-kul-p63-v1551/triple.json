@@ -1,0 +1,629 @@
+{
+ "song": "kul-p63",
+ "items": [
+  {
+   "verse": 1551,
+   "rows": [
+    {
+     "surface": "cāruyantravidhānañca",
+     "gloss": "beautiful-instrument-arrangement-and",
+     "grounds": "compound of cāru, yantra, vidhāna, and ca",
+     "morph": "compound (cāru+yantra+vidhāna+ca)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "root vid, third person singular active present",
+     "morph": "3.sg.act-pres (vid)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who is called guru among the dear ones?",
+   "premises": [
+    "One who knows beautiful instrument arrangement is guru.",
+    "He is addressed as dear."
+   ],
+   "inference": "Knowledge of beautiful instrument arrangement identifies the guru.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "He who knows the arrangement of beautiful instruments is the guru, dear one."
+  },
+  {
+   "verse": 1552,
+   "rows": [
+    {
+     "surface": "śirāsthiromasaṃkhyādi",
+     "gloss": "veins-bones-hairs-count-etc",
+     "grounds": "compound listing veins, bones, hairs, count, and so on",
+     "morph": "compound (śirā+asthi+roma+saṃkhyā+ādi)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāparaḥ",
+     "gloss": "not-other",
+     "grounds": "negative compound na + aparaḥ",
+     "morph": "compound (na+apara)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who alone is guru by veins bones hairs count?",
+   "premises": [
+    "One who knows veins bones hairs count is guru.",
+    "No other is guru."
+   ],
+   "inference": "Knowledge of bodily enumeration identifies the sole guru.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "He who knows the count of veins, bones, hairs, and the like is the guru, not another, dear one."
+  },
+  {
+   "verse": 1553,
+   "rows": [
+    {
+     "surface": "yamādyaṣṭāṅgayogajñaḥ",
+     "gloss": "yama-etc-eight-limbed-yoga-knower",
+     "grounds": "compound of yama and following eight-limbed yoga knower",
+     "morph": "compound (yama+ādi+aṣṭāṅga+yoga+jña)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramaḥ",
+     "gloss": "supreme",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "past participle masculine nominative singular",
+     "morph": "m.nom.sg (man)"
+    }
+   ],
+   "question": "Who is considered the supreme guru?",
+   "premises": [
+    "One who knows yama and eight-limbed yoga is guru.",
+    "He is considered supreme."
+   ],
+   "inference": "Knowledge of eight-limbed yoga identifies the supreme guru.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "He who knows yama and the rest of eight-limbed yoga is considered the supreme guru."
+  },
+  {
+   "verse": 1554,
+   "rows": [
+    {
+     "surface": "kulaṃ",
+     "gloss": "family",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śīlaṃ",
+     "gloss": "conduct",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātiḥ",
+     "gloss": "birth",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral nominative plural",
+     "morph": "nom.pl"
+    },
+    {
+     "surface": "pāśāḥ",
+     "gloss": "bonds",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "past participle masculine nominative plural",
+     "morph": "m.nom.pl (kīrt)"
+    }
+   ],
+   "question": "What eight bonds are declared?",
+   "premises": [
+    "Family, conduct, and birth are named.",
+    "Eight bonds are declared."
+   ],
+   "inference": "Family, conduct, birth, and related items form eight bonds.",
+   "uncertainties": [
+    "Exact eight members beyond listed three not specified."
+   ],
+   "plain_english": "Family, conduct, and birth are thus declared among the eight bonds."
+  },
+  {
+   "verse": 1555,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśaharaḥ",
+     "gloss": "bond-remover",
+     "grounds": "compound of pāśa and hara",
+     "morph": "compound (pāśa+hara)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramaḥ",
+     "gloss": "supreme",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "past participle masculine nominative singular",
+     "morph": "m.nom.sg (man)"
+    }
+   ],
+   "question": "Who is considered the supreme guru therefore?",
+   "premises": [
+    "Therefore bond-remover is guru.",
+    "He is considered supreme."
+   ],
+   "inference": "The one who removes bonds is the supreme guru.",
+   "uncertainties": [
+    "Bond-remover's exact method not specified."
+   ],
+   "plain_english": "Therefore he who removes bonds is considered the supreme guru."
+  },
+  {
+   "verse": 1556,
+   "rows": [
+    {
+     "surface": "yantramantrasvarūpañca",
+     "gloss": "instrument-mantra-true-form-and",
+     "grounds": "compound of yantra, mantra, svarūpa, and ca",
+     "morph": "compound (yantra+mantra+svarūpa+ca)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "root vid, third person singular active present",
+     "morph": "3.sg.act-pres (vid)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who is guru by instrument mantra true form?",
+   "premises": [
+    "One who knows instrument mantra true form is guru.",
+    "He is addressed as dear."
+   ],
+   "inference": "Knowledge of instrument, mantra, and true form identifies the guru.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "He who knows the instrument, mantra, and true form is the guru, dear one."
+  },
+  {
+   "verse": 1557,
+   "rows": [
+    {
+     "surface": "caturvīdhāṃ",
+     "gloss": "fourfold",
+     "grounds": "feminine accusative singular adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mano'vasthāṃ",
+     "gloss": "mind-state",
+     "grounds": "compound of manas and avasthā, accusative singular",
+     "morph": "compound (manas+avasthā) f.acc.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "root vid, third person singular active present",
+     "morph": "3.sg.act-pres (vid)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who is guru by fourfold mind state?",
+   "premises": [
+    "One who knows fourfold mind state is guru.",
+    "He is addressed as dear."
+   ],
+   "inference": "Knowledge of fourfold mind state identifies the guru.",
+   "uncertainties": [
+    "The four mind states are not enumerated."
+   ],
+   "plain_english": "He who knows the fourfold state of mind is the guru, dear one."
+  },
+  {
+   "verse": 1558,
+   "rows": [
+    {
+     "surface": "jīvācāraphalaṃ",
+     "gloss": "living-conduct-fruit",
+     "grounds": "compound of jīva, ācāra, and phala",
+     "morph": "compound (jīva+ācāra+phala)"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "root vid, third person singular active present",
+     "morph": "3.sg.act-pres (vid)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāparaḥ",
+     "gloss": "not-other",
+     "grounds": "negative compound na + aparaḥ",
+     "morph": "compound (na+apara)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who is guru by living conduct fruit?",
+   "premises": [
+    "One who knows living conduct fruit is guru.",
+    "No other is guru."
+   ],
+   "inference": "Knowledge of living conduct and its fruit identifies the sole guru.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "He who knows the fruit of living conduct is the guru, not another, dear one."
+  },
+  {
+   "verse": 1559,
+   "rows": [
+    {
+     "surface": "avāptatattvasambhāraḥ",
+     "gloss": "obtained-principle-assembly",
+     "grounds": "compound of avāpta, tattva, and sambhāra",
+     "morph": "compound (avāpta+tattva+sambhāra)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāparaḥ",
+     "gloss": "not-other",
+     "grounds": "negative compound na + aparaḥ",
+     "morph": "compound (na+apara)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who is guru by obtained principle assembly?",
+   "premises": [
+    "One who has obtained principle assembly is guru.",
+    "No other is guru."
+   ],
+   "inference": "Possession of the assembled principles identifies the sole guru.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "He who has obtained the assembly of principles is the guru, not another, dear one."
+  },
+  {
+   "verse": 1560,
+   "rows": [
+    {
+     "surface": "manyate",
+     "gloss": "considers",
+     "grounds": "root man, third person singular middle present",
+     "morph": "3.sg.mid-pres (man)"
+    },
+    {
+     "surface": "muktam",
+     "gloss": "liberated",
+     "grounds": "past participle neuter accusative singular",
+     "morph": "n.acc.sg (muc)"
+    },
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "masculine accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāparaḥ",
+     "gloss": "not-other",
+     "grounds": "negative compound na + aparaḥ",
+     "morph": "compound (na+apara)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who is guru by considering self liberated?",
+   "premises": [
+    "One who considers self liberated is guru.",
+    "No other is guru."
+   ],
+   "inference": "Self-recognition as liberated identifies the sole guru.",
+   "uncertainties": [
+    "Whether liberation is actual or considered is not resolved."
+   ],
+   "plain_english": "He who considers himself liberated is the guru, not another, dear one."
+  },
+  {
+   "verse": 1561,
+   "rows": [
+    {
+     "surface": "sevyāḥ",
+     "gloss": "served",
+     "grounds": "gerundive masculine nominative plural",
+     "morph": "m.nom.pl (sev)"
+    },
+    {
+     "surface": "te",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "gurus",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śiṣyaiḥ",
+     "gloss": "by-disciples",
+     "grounds": "masculine instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "masculine nominative plural adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tyājyāḥ",
+     "gloss": "abandoned",
+     "grounds": "gerundive masculine nominative plural",
+     "morph": "m.nom.pl (tyaj)"
+    },
+    {
+     "surface": "pratārakāḥ",
+     "gloss": "deceivers",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which gurus are served and which abandoned?",
+   "premises": [
+    "These gurus are served by disciples.",
+    "Other deceivers are abandoned."
+   ],
+   "inference": "Disciples serve true gurus and abandon deceivers.",
+   "uncertainties": [
+    "Criteria for true guru versus deceiver are not restated here."
+   ],
+   "plain_english": "These gurus are to be served by disciples; other deceivers are to be abandoned."
+  },
+  {
+   "verse": 1562,
+   "rows": [
+    {
+     "surface": "vratopavāsaniyamaiḥ",
+     "gloss": "vow-fasting-restraint-by",
+     "grounds": "compound of vrata, upavāsa, niyama, instrumental plural",
+     "morph": "compound (vrata+upavāsa+niyama) m.inst.pl"
+    },
+    {
+     "surface": "nīyante",
+     "gloss": "led",
+     "grounds": "root nī, third person plural passive present",
+     "morph": "3.pl.pass-pres (nī)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "past participle masculine nominative singular",
+     "morph": "m.nom.sg (man)"
+    }
+   ],
+   "question": "Who is considered guru by vows fasting restraints?",
+   "premises": [
+    "By vows fasting restraints one is led.",
+    "He is considered guru."
+   ],
+   "inference": "Leading through vows, fasting, and restraints identifies the guru.",
+   "uncertainties": [
+    "Whether leading others or oneself is intended."
+   ],
+   "plain_english": "He who leads by vows, fasting, and restraints is considered the guru."
+  }
+ ]
+}

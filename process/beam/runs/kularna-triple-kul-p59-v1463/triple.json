@@ -1,0 +1,419 @@
+{
+ "song": "kul-p59",
+ "items": [
+  {
+   "verse": 1463,
+   "rows": [
+    {
+     "surface": "samāsena",
+     "gloss": "in-brief",
+     "grounds": "adverbial summary marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "mistress-of-family",
+     "grounds": "vocative address to kula mistress",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "more",
+     "grounds": "adverb of degree",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotumicchasi",
+     "gloss": "to-hear",
+     "grounds": "desiderative verb form",
+     "morph": "2.sg.act-pres"
+    }
+   ],
+   "question": "What more does the mistress of the family wish to hear in brief?",
+   "premises": [
+    "The speaker asks for further hearing.",
+    "The addressee is the mistress of the family."
+   ],
+   "inference": "The verse opens a request for additional teaching.",
+   "uncertainties": [
+    "Exact syntactic scope of samāsena is not fully resolved."
+   ],
+   "plain_english": "In brief, mistress of the family, what more do you wish to hear?"
+  },
+  {
+   "verse": 1464,
+   "rows": [
+    {
+     "surface": "pādukākathanaṃ",
+     "gloss": "paduka-discourse",
+     "grounds": "compound naming the discourse",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "appositional qualifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśollāsaḥ",
+     "gloss": "twelfth-illumination",
+     "grounds": "ordinal chapter name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the name of this twelfth illumination?",
+   "premises": [
+    "The discourse is named.",
+    "It is the twelfth illumination."
+   ],
+   "inference": "The passage identifies the current section as the twelfth illumination.",
+   "uncertainties": [
+    "Whether pādukākathanaṃ is title or topic is not explicit."
+   ],
+   "plain_english": "This is the discourse on the paduka, named the twelfth illumination."
+  },
+  {
+   "verse": 1465,
+   "rows": [
+    {
+     "surface": "vaktumarhasi",
+     "gloss": "to-speak",
+     "grounds": "modal verb of fitness",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "lord",
+     "grounds": "vocative address to deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "object of speaking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guruśiṣyayoḥ",
+     "gloss": "of-guru-disciple",
+     "grounds": "genitive compound",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What characteristics of guru and disciple should the lord speak?",
+   "premises": [
+    "The lord is asked to speak.",
+    "The topic is guru and disciple characteristics."
+   ],
+   "inference": "The verse requests a description of guru-disciple marks.",
+   "uncertainties": [
+    "Whether both guru and disciple marks are equally requested is implicit."
+   ],
+   "plain_english": "Lord, you should speak the characteristics of guru and disciple."
+  },
+  {
+   "verse": 1466,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "by-its-hearing-alone",
+     "grounds": "genitive referring to prior discourse",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śravaṇamātreṇa",
+     "gloss": "guru-nature",
+     "grounds": "instrumental of mere hearing",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "gurubhāvaḥ",
+     "gloss": "arises",
+     "grounds": "subject state of guruhood",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "prajāyate",
+     "grounds": "verb of arising",
+     "morph": "3.sg.mid-pres"
+    }
+   ],
+   "question": "What arises merely by hearing that discourse?",
+   "premises": [
+    "Hearing alone is the condition.",
+    "Guru-nature is the result."
+   ],
+   "inference": "Merely hearing the discourse produces guru-nature.",
+   "uncertainties": [
+    "The exact referent of tasya is not stated in this verse."
+   ],
+   "plain_english": "Merely by hearing that, guru-nature arises."
+  },
+  {
+   "verse": 1467,
+   "rows": [
+    {
+     "surface": "paraśiṣyañca",
+     "gloss": "another-disciple",
+     "grounds": "compound with conjunction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāṣaṇḍaṃ",
+     "gloss": "heretic",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaṇḍaṃ",
+     "gloss": "eunuch",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṇḍitamāninam",
+     "gloss": "proud-scholar",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which kinds of persons are listed as unsuitable disciples?",
+   "premises": [
+    "Another disciple is mentioned.",
+    "Heretic, eunuch, and proud scholar are listed."
+   ],
+   "inference": "The verse enumerates unsuitable disciple types.",
+   "uncertainties": [
+    "Whether paraśiṣyañca is separate from the list is not fully clear."
+   ],
+   "plain_english": "Another disciple, a heretic, a eunuch, and a proud scholar."
+  },
+  {
+   "verse": 1468,
+   "rows": [
+    {
+     "surface": "paṅgumandhañca",
+     "gloss": "lame",
+     "grounds": "compound with conjunction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "badhiraṃ",
+     "gloss": "blind",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "malinaṃ",
+     "gloss": "deaf",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyādhipīḍitam",
+     "gloss": "dirty",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyādhipīḍitam",
+     "gloss": "disease-afflicted",
+     "grounds": "repeated accusative object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which afflicted persons are included among unsuitable disciples?",
+   "premises": [
+    "Lame, blind, and deaf are listed.",
+    "Dirty and disease-afflicted are listed."
+   ],
+   "inference": "The verse continues the list of unsuitable disciples.",
+   "uncertainties": [
+    "The duplicate vyādhipīḍitam may be textual repetition or emphasis."
+   ],
+   "plain_english": "Lame, blind, deaf, dirty, and disease-afflicted."
+  },
+  {
+   "verse": 1469,
+   "rows": [
+    {
+     "surface": "duvīkārāṅgaceṣṭādigatibhāṣaṇavīkṣaṇam",
+     "gloss": "two-marked-limb-gesture-etc",
+     "grounds": "long compound of bodily and behavioral marks",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What compound describes marked bodily conduct and movement?",
+   "premises": [
+    "The token is a single long compound.",
+    "It concerns limb gesture, gait, speech, and gaze."
+   ],
+   "inference": "The verse names a compound of marked conduct.",
+   "uncertainties": [
+    "Internal segmentation of the compound is not provided."
+   ],
+   "plain_english": "Two-marked limb gesture and related gait, speech, and gaze."
+  },
+  {
+   "verse": 1470,
+   "rows": [
+    {
+     "surface": "antarbhaktikaraṃ",
+     "gloss": "inner-devotion-making",
+     "grounds": "compound describing inner devotion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣudraṃ",
+     "gloss": "vile",
+     "grounds": "accusative adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bāhyabhaktivivajītam",
+     "gloss": "outer-devotion-devoid",
+     "grounds": "compound lacking outer devotion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kind of devotion is inner and what is lacking?",
+   "premises": [
+    "Inner devotion is made.",
+    "Outer devotion is absent."
+   ],
+   "inference": "The verse contrasts inner devotion with absence of outer devotion.",
+   "uncertainties": [
+    "The exact referent of kṣudraṃ is not explicit."
+   ],
+   "plain_english": "Inner-devotion-making, vile, and devoid of outer devotion."
+  },
+  {
+   "verse": 1471,
+   "rows": [
+    {
+     "surface": "dhanastrīśuddhirahitaṃ",
+     "gloss": "wealth-woman-purity-lacking",
+     "grounds": "compound lacking wealth, woman, and purity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niṣedhavidhivajītam",
+     "gloss": "prohibition-rule-devoid",
+     "grounds": "compound devoid of prohibition rules",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What lacks wealth, woman, purity, and prohibition rules?",
+   "premises": [
+    "Wealth, woman, and purity are lacking.",
+    "Prohibition rules are absent."
+   ],
+   "inference": "The verse describes a state lacking ethical and ritual constraints.",
+   "uncertainties": [
+    "The subject of the compounds is not explicit."
+   ],
+   "plain_english": "Lacking wealth, woman, and purity, and devoid of prohibition rules."
+  },
+  {
+   "verse": 1472,
+   "rows": [
+    {
+     "surface": "mārjārabakavṛttiñca",
+     "gloss": "cat-mouse-conduct",
+     "grounds": "compound of cat and mouse conduct",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "randhrānveṣaṇatatparam",
+     "gloss": "hole-seeking-eager",
+     "grounds": "compound eager to seek holes",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What conduct is compared to cat and mouse?",
+   "premises": [
+    "Cat and mouse conduct is mentioned.",
+    "Hole-seeking eagerness is mentioned."
+   ],
+   "inference": "The verse describes predatory or deceptive conduct.",
+   "uncertainties": [
+    "Whether the two compounds describe one or two subjects is not explicit."
+   ],
+   "plain_english": "Cat-and-mouse conduct, eager in seeking holes."
+  },
+  {
+   "verse": 1473,
+   "rows": [
+    {
+     "surface": "viśvāsaghātakaṃ",
+     "gloss": "trust-destroyer",
+     "grounds": "compound destroying trust",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svāmidrohiṇaṃ",
+     "gloss": "lord-enemy",
+     "grounds": "compound hostile to lord",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāpakāriṇam",
+     "gloss": "sin-doer",
+     "grounds": "compound doing sin",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which hostile persons are listed as unsuitable?",
+   "premises": [
+    "Trust-destroyer is listed.",
+    "Lord-enemy and sin-doer are listed."
+   ],
+   "inference": "The verse continues enumerating unsuitable persons.",
+   "uncertainties": [
+    "Whether these are separate persons or qualities is not explicit."
+   ],
+   "plain_english": "Trust-destroyer, enemy of the lord, and sin-doer."
+  },
+  {
+   "verse": 1474,
+   "rows": [
+    {
+     "surface": "ātatāyinamāditsu",
+     "gloss": "assassin",
+     "grounds": "compound concerning assassin and desirer",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kopitaṃ",
+     "gloss": "angry",
+     "grounds": "accusative adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kūṭasākṣiṇam",
+     "gloss": "false-witness",
+     "grounds": "compound false witness",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which dangerous persons are listed as unsuitable?",
+   "premises": [
+    "Assassin is listed.",
+    "Angry person and false witness are listed."
+   ],
+   "inference": "The verse adds dangerous persons to the unsuitable list.",
+   "uncertainties": [
+    "The compound ātatāyinamāditsu has uncertain internal segmentation."
+   ],
+   "plain_english": "Assassin, angry person, and false witness."
+  }
+ ]
+}

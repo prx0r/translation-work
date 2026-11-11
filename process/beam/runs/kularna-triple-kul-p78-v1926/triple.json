@@ -1,0 +1,521 @@
+{
+ "song": "kul-p78",
+ "items": [
+  {
+   "verse": 1926,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "perfect participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sahasram",
+     "gloss": "thousand",
+     "grounds": "numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt.√hu"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many offerings should be made after knowing?",
+   "premises": [
+    "having known one offers thousand",
+    "or five offerings then"
+   ],
+   "inference": "the rite prescribes either a thousand or five offerings",
+   "uncertainties": [
+    "exact object of offering omitted"
+   ],
+   "plain_english": "Having known, O goddess, one should offer a thousand, or then five."
+  },
+  {
+   "verse": 1927,
+   "rows": [
+    {
+     "surface": "tattat",
+     "gloss": "that-that",
+     "grounds": "reduplicated demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udite",
+     "gloss": "indicated",
+     "grounds": "past participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-pit",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃskṛte",
+     "gloss": "purified",
+     "grounds": "past participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "havyavāhane",
+     "gloss": "in-fire",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the indicated rite be performed?",
+   "premises": [
+    "each rite is indicated",
+    "in purified pit and fire"
+   ],
+   "inference": "the rite is performed in a purified fire-pit",
+   "uncertainties": [
+    "tattat scope ambiguous"
+   ],
+   "plain_english": "Each indicated rite is performed in a purified pit and fire."
+  },
+  {
+   "verse": 1928,
+   "rows": [
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rite",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt.√hu"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tadgatena",
+     "gloss": "with-that-gone",
+     "grounds": "compound participle",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "antarātmanā",
+     "gloss": "by-inner-self",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How should the offering be made according to rite?",
+   "premises": [
+    "offer according to rite",
+    "with inner self gone to that"
+   ],
+   "inference": "the offering is made ritually with inward attention",
+   "uncertainties": [
+    "tadgatena referent unclear"
+   ],
+   "plain_english": "O goddess, one should offer according to rite, with the inner self absorbed in that."
+  },
+  {
+   "verse": 1929,
+   "rows": [
+    {
+     "surface": "sarvaduḥkhapraśamanam",
+     "gloss": "all-sorrow-pacification",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "from-that-moment",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When does all sorrow pacification occur?",
+   "premises": [
+    "all sorrow pacification from that moment",
+    "no doubt here"
+   ],
+   "inference": "pacification of all sorrow occurs immediately without doubt",
+   "uncertainties": [
+    "exact moment referent"
+   ],
+   "plain_english": "Pacification of all sorrow occurs from that moment; here there is no doubt."
+  },
+  {
+   "verse": 1930,
+   "rows": [
+    {
+     "surface": "kadambāśokavakulapunnāgāmramadhūkajaiḥ",
+     "gloss": "from-kadamba-ashoka-vakula-punnaga-mango-madhuka",
+     "grounds": "compound ablative plural",
+     "morph": "m.abl.pl"
+    }
+   ],
+   "question": "Which flowers or substances are named in this list?",
+   "premises": [
+    "kadamba ashoka vakula punnaga",
+    "mango madhuka included"
+   ],
+   "inference": "the list names six fragrant substances",
+   "uncertainties": [
+    "grammatical case inferred"
+   ],
+   "plain_english": "From kadamba, ashoka, vakula, punnaga, mango, and madhuka."
+  },
+  {
+   "verse": 1931,
+   "rows": [
+    {
+     "surface": "mālatīmallikājātibandhūkāruṇapaṅkajaiḥ",
+     "gloss": "from-malati-mallika-jati-bandhuka-aruna-lotus",
+     "grounds": "compound ablative plural",
+     "morph": "m.abl.pl"
+    }
+   ],
+   "question": "Which flowers are named in this second list?",
+   "premises": [
+    "malati mallika jati bandhuka",
+    "aruna lotus included"
+   ],
+   "inference": "the list names five or six floral substances",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "From malati, mallika, jati, bandhuka, aruna, and lotus."
+  },
+  {
+   "verse": 1932,
+   "rows": [
+    {
+     "surface": "sanārikelakadalīdrākṣekṣupṛthukaiḥ",
+     "gloss": "with-coconut-banana-grape-sugarcane-flattened-rice",
+     "grounds": "compound instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional substances are included here?",
+   "premises": [
+    "coconut banana grape sugarcane",
+    "flattened rice also"
+   ],
+   "inference": "additional plant and food substances are included",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Also with coconut, banana, grape, sugarcane, and flattened rice."
+  },
+  {
+   "verse": 1933,
+   "rows": [
+    {
+     "surface": "raktaiḥ",
+     "gloss": "red",
+     "grounds": "adjective",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śubhadravyaiḥ",
+     "gloss": "auspicious-substances",
+     "grounds": "compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "samidhṛtaphalodbhavaiḥ",
+     "gloss": "with-fuel-held-fruit-born",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What kinds of auspicious substances are used?",
+   "premises": [
+    "red and other substances",
+    "auspicious substances with fuel fruit"
+   ],
+   "inference": "red and other auspicious substances born from fuel and fruit are used",
+   "uncertainties": [
+    "samidhṛtaphalodbhavaiḥ parsing"
+   ],
+   "plain_english": "With red and other auspicious substances born from fuel and fruit."
+  },
+  {
+   "verse": 1934,
+   "rows": [
+    {
+     "surface": "mahīpatīn",
+     "gloss": "earth-lords",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣān",
+     "gloss": "men",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kāntāḥ",
+     "gloss": "beloved",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yauvanagavītāḥ",
+     "gloss": "youth-endowed",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Whom does the rite affect or attract?",
+   "premises": [
+    "earth lords and men",
+    "beloved youth-endowed women"
+   ],
+   "inference": "the rite affects lords, men, and beloved youthful women",
+   "uncertainties": [
+    "verb omitted"
+   ],
+   "plain_english": "Earth-lords and men, and beloved women endowed with youth."
+  },
+  {
+   "verse": 1935,
+   "rows": [
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "o-kuleshani",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vaśayet",
+     "gloss": "subjugate",
+     "grounds": "causative optative",
+     "morph": "3.sg.act.opt.√vaś"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can gods also be subjugated by this rite?",
+   "premises": [
+    "gods also subjugated",
+    "no doubt here"
+   ],
+   "inference": "gods too can be subjugated without doubt",
+   "uncertainties": [
+    "subject of vaśayet implicit"
+   ],
+   "plain_english": "O Kuleshani, one can subjugate gods also; here there is no doubt."
+  },
+  {
+   "verse": 1936,
+   "rows": [
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-deveshi",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "saubhāgyam",
+     "gloss": "fortune",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtain",
+     "grounds": "optative",
+     "morph": "3.sg.mid.opt.√labh"
+    }
+   ],
+   "question": "What supreme result is obtained by this rite?",
+   "premises": [
+    "by this rite",
+    "supreme fortune obtained"
+   ],
+   "inference": "this rite yields supreme fortune",
+   "uncertainties": [
+    "agent implicit"
+   ],
+   "plain_english": "O Deveshi, by this rite one obtains supreme fortune."
+  },
+  {
+   "verse": 1937,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantrarājena",
+     "gloss": "by-mantra-king",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asādhyam",
+     "gloss": "unattainable",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "verb",
+     "morph": "3.sg.pass.prs.√vid"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is anything unattainable by this mantra king?",
+   "premises": [
+    "by this mantra king",
+    "nothing unattainable anywhere"
+   ],
+   "inference": "nothing is unattainable by this mantra king",
+   "uncertainties": [
+    "scope of asādhyam"
+   ],
+   "plain_english": "By this mantra king, nothing is unattainable anywhere."
+  }
+ ]
+}

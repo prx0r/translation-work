@@ -1,0 +1,58 @@
+{
+ "song": "kul-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "narakān",
+     "gloss": "from-hells",
+     "grounds": "narakas (hell) in accusative plural; here carries the sense of from the hells",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivarttante",
+     "gloss": "return",
+     "grounds": "present middle third person plural of nivṛt",
+     "morph": "3.pl.mid.pres root nivṛt"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "indeclinable temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhūta",
+     "gloss": "summoned",
+     "grounds": "past participle of āhvā, masculine nominative singular",
+     "morph": "m.nom.sg.past.part"
+    },
+    {
+     "surface": "saṃplavam",
+     "gloss": "deluge",
+     "grounds": "saṃplava in accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "When do beings not return from hells?",
+   "premises": [
+    "They do not return from hells.",
+    "Return is delayed until deluge.",
+    "Deluge is described as summoned."
+   ],
+   "inference": "Return from the hells is withheld until the summoned deluge.",
+   "uncertainties": [
+    "The explicit subject is omitted.",
+    "The exact syntactic relation of summoned and deluge remains open."
+   ],
+   "plain_english": "They do not return from the hells until the deluge is summoned."
+  }
+ ]
+}

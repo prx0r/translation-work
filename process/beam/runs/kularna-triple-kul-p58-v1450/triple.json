@@ -1,0 +1,52 @@
+{
+ "song": "kul-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "krośāmātrasthitaḥ",
+     "gloss": "standing-a-krośa-away",
+     "grounds": "compound of krośa (distance measure), mātra (measure), sthita (stood)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gurum",
+     "gloss": "guru",
+     "grounds": "accusative object of namet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratidinaṃ",
+     "gloss": "daily",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namet",
+     "gloss": "should-bow",
+     "grounds": "optative of nam (to bow/salute)",
+     "morph": "3.sg.opt+nam"
+    }
+   ],
+   "question": "Who should bow to the guru daily?",
+   "premises": [
+    "disciple stands a krośa away",
+    "guru receives daily salutation",
+    "distance does not excuse worship"
+   ],
+   "inference": "Even a disciple a krośa away must salute the guru each day.",
+   "uncertainties": [
+    "exact length of a krośa is unspecified",
+    "namet may be optative or imperative in context"
+   ],
+   "plain_english": "A disciple standing a krośa away should bow to the guru every day."
+  }
+ ]
+}
