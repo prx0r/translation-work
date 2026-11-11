@@ -33,13 +33,30 @@ def _brief_text(work: str, ahn: str = '') -> str:
     if ahn:
         cands.append(STATE / 'lore' / f'tal-a{ahn}.md')
     cands.append(STATE / 'lore' / f'{work}.md')
+    brief = ''
     for p in cands:
         try:
             if p.exists():
-                return p.read_text()
+                brief = p.read_text()
+                break
         except OSError:
             continue
-    return ''
+    # KNOWLEDGE CORE (pass-2 scholarship) always rides along when present.
+    # Named lore/<work>-knowledge-core.md; tolerate the tantra-suffix alias
+    # (kularnavatantra -> kularnava-knowledge-core.md).
+    core = None
+    for stem in (work, work.replace('tantra', ''), work[:10]):
+        c = ROOT / 'lore' / f'{stem}-knowledge-core.md'
+        if c.exists():
+            core = c
+            break
+    if core is not None:
+        try:
+            brief += ('\n\n## KNOWLEDGE CORE (scholarly grounding — obey)'
+                      '\n' + core.read_text())
+        except OSError:
+            pass
+    return brief
 
 _AVAGRAHA = {'\u02bc', '\u2019', "'", '`', '\u02bd'}
 
