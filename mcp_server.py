@@ -318,6 +318,14 @@ def concepts(term: str, top: int = 5) -> dict:
 
 
 @mcp.tool()
+def progress() -> dict:
+    """One-shot system health + progress watchdog (queue counts, workers,
+    failure classes, assembled songs, host load/mem/disk, flags). Safe to
+    call hourly from a ChatGPT scheduled task."""
+    return _run(["--", "watchdog_progress.py"])
+
+
+@mcp.tool()
 def queue_guard(fix: bool = False) -> dict:
     """Structural duplicate guard for the burn queue. Every seeding agent
     MUST run this (or the guarded seeder) before adding tasks: enforces
