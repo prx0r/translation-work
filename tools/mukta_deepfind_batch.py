@@ -23,6 +23,46 @@ sys.path.insert(0, "/root/openpatalaproject")
 
 BUDDHIST = ("manjusrimulakalpa", "guhyasamaja", "sadhanamala", "advayavajra")
 
+# ---- shared rate-limit watchdog (all threads obey one per-host clock) ----
+import re as _re
+HOST_OF = {"openlibrary": "openlibrary.org", "archive": "archive.org",
+           "archive.org": "archive.org", "wisdomlib": "wisdomlib.org"}
+THROTTLE_PAT = _re.compile(r"429|rate.?limit|throttl|too many|blocked|"
+                           r"captcha|forbidden|service unavailable| 403",
+                           _re.I)
+_cool_until: dict = {}   # host -> epoch seconds
+_cool_backoff: dict = {}  # host -> current backoff seconds
+_cool_lock = threading.Lock()
+BASE_BACKOFF, MAX_BACKOFF = 60, 600
+
+def _hosts_cooling():
+    now = time.time()
+    with _cool_lock:
+        return [h for h, until in _cool_until.items() if until > now]
+
+def _note_throttle(host: str):
+    with _cool_lock:
+        b = min(_cool_backoff.get(host, BASE_BACKOFF) * 2
+                if host in _cool_backoff else BASE_BACKOFF, MAX_BACKOFF)
+        _cool_backoff[host] = b
+        _cool_until[host] = time.time() + b
+        return b
+
+def _note_clean(host: str):
+    with _cool_lock:
+        _cool_backoff.pop(host, None)
+        _cool_until.pop(host, None)
+
+def _throttled_hosts(res: dict) -> list:
+    hits = []
+    for src, v in (res.get("sources") or {}).items():
+        blob = f"{v.get('status','')} {v.get('error','')}"
+        if THROTTLE_PAT.search(blob):
+            for key, host in HOST_OF.items():
+                if key in src.lower():
+                    hits.append(host)
+    return sorted(set(hits))
+
 def norm(s: str) -> str:
     return "".join(c for c in unicodedata.normalize("NFKD", s or "")
                    if not unicodedata.combining(c)).lower()
@@ -70,12 +110,24 @@ def main() -> int:
     lock, fh, n = threading.Lock(), open(outp, "a", encoding="utf-8"), [0]
 
     def one(w):
+        cooling = _hosts_cooling()
+        while cooling:  # watchdog: whole batch waits out host cooldowns
+            time.sleep(5)
+            cooling = _hosts_cooling()
         try:
             res = deepfind(w["id"], w["title"], net=True)
+            bad = _throttled_hosts(res)
+            for h in bad:
+                _note_throttle(h)
+            for src in (res.get("sources") or {}):
+                for key, host in HOST_OF.items():
+                    if key in src.lower() and host not in bad:
+                        _note_clean(host)
             row = {"catalog": w["id"], "title": w["title"],
                    "verses": w.get("verses", 0),
                    "confirmed": res.get("confirmed_translations", 0),
                    "translations": res.get("translations", [])[:12],
+                   "throttled": bad,
                    "sources": {k: {"status": v.get("status"),
                                    "hits": v.get("hits", 0)}
                                for k, v in res.get("sources", {}).items()}}
