@@ -53,6 +53,10 @@ def save_queue(q: list) -> None:
 
 
 def seed(q: list, work: str, song: str, verses: list, note: str) -> int:
+    # NEVER seed a song that already exists as assembled gold in this repo.
+    if (ROOT / work / "data" / f"{song}.t1.json").exists():
+        print(f"{song}: already assembled — refusing to seed")
+        return 0
     have = {t.get("id") for t in q}
     # STRUCTURAL duplicate guard: never seed a range overlapping live work
     taken = []
