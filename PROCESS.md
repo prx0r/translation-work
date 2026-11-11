@@ -94,3 +94,20 @@ Tiered, cheapest-first — do NOT web-guess dates:
 4. **External researcher lane:** add `date_text / century / confidence`
    columns to the batch6 brief format for the long tail.
 Rule: record source + confidence with every date; edition year ≠ text date.
+
+## Chunking like Tantraloka — finding (2026-11-11)
+
+Tantraloka chunks cleanly because its source chains carry explicit
+`## tal-aNN (x.y-z.w)` ahnika headings. **The three tantra e-texts do NOT
+carry usable chapter markers**: kularnava has only 6 `ullāsa` mentions and
+incidental `paṭala` words; netra has zero adhikāra headers in the body;
+svacchanda's `paṭalaḥ` colophons are offset-corrupt.
+
+Consequence: `tools/rechunk_chapters.py` (report mode) is the probe; a
+regex rechunk is a DEAD END for these works. Proper chapter chunking needs
+a **curated chapter→verse-range table per work** (from the editions:
+Kularnava 17 ullāsas per Avalon's contents; Netra 22 adhikāras per the
+OCHS summary; Svacchanda paṭalas per GRETIL's colophons). Build the table,
+verify sum == verse count, then apply — never trust regex for boundaries.
+Until then the 25-verse grid is honest (it never crosses a verified
+boundary it can't see) and every passage keeps its true verse range.

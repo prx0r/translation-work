@@ -1,0 +1,497 @@
+{
+ "song": "sva-p51",
+ "items": [
+  {
+   "verse": 1251,
+   "rows": [
+    {
+     "surface": "tāvadantamaśeṣaṃ",
+     "gloss": "so-long-until-end",
+     "grounds": "adverbial phrase fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagad",
+     "gloss": "world",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gāḍhanidrāmūḍham",
+     "gloss": "deep-sleep-bewildered",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āste",
+     "gloss": "remains",
+     "grounds": "verb root ās",
+     "morph": "3.sg.ātm.-pres"
+    }
+   ],
+   "question": "How long does the world remain bewildered by deep sleep?",
+   "premises": [
+    "The world remains bewildered by deep sleep.",
+    "This condition lasts until the end."
+   ],
+   "inference": "The world's deep-sleep bewilderment persists until the final end.",
+   "uncertainties": [
+    "Exact sandhi of tāvadantamaśeṣaṃ not expanded."
+   ],
+   "plain_english": "So long until the end, the world remains bewildered by deep sleep."
+  },
+  {
+   "verse": 1252,
+   "rows": [
+    {
+     "surface": "svāmī",
+     "gloss": "lord",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīkaṇṭhanātha",
+     "gloss": "śrīkaṇṭhanātha",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍviṃśako'bhipretaḥ",
+     "gloss": "twenty-sixth-intended",
+     "grounds": "compound with internal sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is the lord intended as the twenty-sixth here?",
+   "premises": [
+    "The lord is Śrīkaṇṭhanātha.",
+    "He is intended here as the twenty-sixth."
+   ],
+   "inference": "Śrīkaṇṭhanātha is the lord intended as the twenty-sixth here.",
+   "uncertainties": [
+    "Apostrophe in ṣaḍviṃśako'bhipretaḥ retained as given."
+   ],
+   "plain_english": "The lord Śrīkaṇṭhanātha is here intended as the twenty-sixth."
+  },
+  {
+   "verse": 1253,
+   "rows": [
+    {
+     "surface": "ahni",
+     "gloss": "by-day",
+     "grounds": "locative of day",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "verb root sthā",
+     "morph": "3.pl.par.-pres"
+    },
+    {
+     "surface": "dinārambhe",
+     "gloss": "at-day-beginning",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "abhivyajyante",
+     "gloss": "are-manifested",
+     "grounds": "passive verb",
+     "morph": "3.pl.ātm.-pres"
+    }
+   ],
+   "question": "When do things stand and become manifested by day?",
+   "premises": [
+    "Things stand by day.",
+    "They are manifested at the beginning of day."
+   ],
+   "inference": "By day they stand, and at day's beginning they are manifested.",
+   "uncertainties": [
+    "Exact agent of manifestation not stated."
+   ],
+   "plain_english": "By day they stand; at the beginning of day they are manifested."
+  },
+  {
+   "verse": 1254,
+   "rows": [
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "itīttham",
+     "gloss": "thus",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṣadinādivyavasthā",
+     "gloss": "year-day-etc-arrangement",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What arrangement of year, day, and so on is to be done here?",
+   "premises": [
+    "The day is thus here.",
+    "The year-day and related arrangement is to be done."
+   ],
+   "inference": "Here the arrangement of year, day, and related periods is to be done thus.",
+   "uncertainties": [
+    "Scope of ādi in varṣadinādi not specified."
+   ],
+   "plain_english": "Thus the day; here the arrangement of year, day, and so on is to be done."
+  },
+  {
+   "verse": 1255,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning indicated by this repeated thus?",
+   "premises": [
+    "The first thus gives meaning.",
+    "The second thus gives meaning."
+   ],
+   "inference": "The repeated thus marks the meaning.",
+   "uncertainties": [
+    "No explicit content beyond meaning."
+   ],
+   "plain_english": "Thus is the meaning; thus is the meaning."
+  },
+  {
+   "verse": 1256,
+   "rows": [
+    {
+     "surface": "bindvīśvararūpatām",
+     "gloss": "bindu-īśvara-form-ness",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āviśati",
+     "gloss": "enters",
+     "grounds": "verb root viś",
+     "morph": "3.sg.par.-pres"
+    },
+    {
+     "surface": "bindvīśvararūpatām",
+     "gloss": "bindu-īśvara-form-ness",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āviśati",
+     "gloss": "enters",
+     "grounds": "verb root viś",
+     "morph": "3.sg.par.-pres"
+    }
+   ],
+   "question": "Into what form-ness does it enter repeatedly?",
+   "premises": [
+    "It enters bindu-īśvara form-ness.",
+    "The entry is repeated."
+   ],
+   "inference": "It enters bindu-īśvara form-ness again.",
+   "uncertainties": [
+    "Subject of āviśati not explicit."
+   ],
+   "plain_english": "It enters bindu-īśvara form-ness; it enters bindu-īśvara form-ness."
+  },
+  {
+   "verse": 1257,
+   "rows": [
+    {
+     "surface": "tadātmā",
+     "gloss": "that-self",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "verb root jan",
+     "morph": "3.sg.ātm.-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning follows from that self being born?",
+   "premises": [
+    "That self is born.",
+    "Thus is the meaning."
+   ],
+   "inference": "The meaning is that that self is born.",
+   "uncertainties": [
+    "Referent of tadātmā not explicit."
+   ],
+   "plain_english": "That self is born; thus is the meaning."
+  },
+  {
+   "verse": 1258,
+   "rows": [
+    {
+     "surface": "tadante",
+     "gloss": "at-that-end",
+     "grounds": "compound locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmayībhavati",
+     "gloss": "becomes-that",
+     "grounds": "compound verb",
+     "morph": "3.sg.par.-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning follows from becoming that at that end?",
+   "premises": [
+    "At that end it becomes that.",
+    "Thus is the meaning."
+   ],
+   "inference": "The meaning is that at that end it becomes that.",
+   "uncertainties": [
+    "Referent of tad and tan not explicit."
+   ],
+   "plain_english": "At that end it becomes that; thus is the meaning."
+  },
+  {
+   "verse": 1259,
+   "rows": [
+    {
+     "surface": "svādhikāraparisamāptau",
+     "gloss": "at-completion-of-own-authority",
+     "grounds": "compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "līyate",
+     "gloss": "dissolves",
+     "grounds": "verb root lī",
+     "morph": "3.sg.ātm.-pres"
+    },
+    {
+     "surface": "svādhikāraparisamāptau",
+     "gloss": "at-completion-of-own-authority",
+     "grounds": "compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "līyate",
+     "gloss": "dissolves",
+     "grounds": "verb root lī",
+     "morph": "3.sg.ātm.-pres"
+    }
+   ],
+   "question": "When does it dissolve, and is that repeated?",
+   "premises": [
+    "It dissolves at completion of own authority.",
+    "The dissolution is repeated."
+   ],
+   "inference": "It dissolves at completion of own authority, again.",
+   "uncertainties": [
+    "Subject of līyate not explicit."
+   ],
+   "plain_english": "At completion of own authority it dissolves; at completion of own authority it dissolves."
+  },
+  {
+   "verse": 1260,
+   "rows": [
+    {
+     "surface": "parārdhakoṭiguṇitasya",
+     "gloss": "of-multiplied-by-koṭi-of-parārdha",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadanāśritasya",
+     "gloss": "of-not-dependent-on-that",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What day belongs to what is not dependent on that time?",
+   "premises": [
+    "That time is multiplied by koṭi of parārdha.",
+    "The day belongs to what is not dependent on that."
+   ],
+   "inference": "The day is of what is not dependent on that multiplied time.",
+   "uncertainties": [
+    "Exact numerical relation not specified."
+   ],
+   "plain_english": "Of time multiplied by koṭi of parārdha, the day is of what is not dependent on that."
+  },
+  {
+   "verse": 1261,
+   "rows": [
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb root yā",
+     "morph": "3.sg.par.-pres"
+    },
+    {
+     "surface": "tadekātmā",
+     "gloss": "that-one-self",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb root bhū",
+     "morph": "3.sg.par.-pres"
+    }
+   ],
+   "question": "What place does it go to, and what does that one self become?",
+   "premises": [
+    "It goes to a place.",
+    "That one self becomes."
+   ],
+   "inference": "It goes to a place, and that one self becomes.",
+   "uncertainties": [
+    "Destination and result not further specified."
+   ],
+   "plain_english": "It goes to a place; that one self becomes."
+  },
+  {
+   "verse": 1262,
+   "rows": [
+    {
+     "surface": "karomīti",
+     "gloss": "I-do-thus",
+     "grounds": "verb with quotative",
+     "morph": "1.sg.par.-pres"
+    },
+    {
+     "surface": "saṅkalpaṃ",
+     "gloss": "resolve",
+     "grounds": "masculine accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣṭaṃ",
+     "gloss": "remainder",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgeva",
+     "gloss": "already-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyākhyātaprāyam",
+     "gloss": "mostly-explained",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What remains mostly explained without the resolve I do thus?",
+   "premises": [
+    "Without the resolve 'I do thus', the remainder is already before.",
+    "That remainder is mostly explained."
+   ],
+   "inference": "The remainder, without that resolve, is already mostly explained.",
+   "uncertainties": [
+    "Exact referent of śiṣṭaṃ not explicit."
+   ],
+   "plain_english": "Without the resolve 'I do thus', the remainder is already mostly explained."
+  }
+ ]
+}
