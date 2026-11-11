@@ -1,0 +1,419 @@
+{
+ "song": "net-p03",
+ "items": [
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "hastamānānusārocitamekhalādimānam",
+     "gloss": "hand-measure-according-ornament-etc-measure",
+     "grounds": "compound of hand-measure, according-to, fitting, girdle, etc., measure",
+     "morph": "compound (noun)"
+    }
+   ],
+   "question": "What measure or ornament-related specification is given?",
+   "premises": [
+    "hand measure is specified",
+    "ornament measure is included"
+   ],
+   "inference": "The verse gives a hand-based measure for ornament-like items.",
+   "uncertainties": [
+    "exact compound segmentation uncertain"
+   ],
+   "plain_english": "A hand-based measure is specified for ornament and related items."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "dehoccāṭanādikarmabhedena",
+     "gloss": "by-body-expulsion-etc-action-distinction",
+     "grounds": "compound of body, expulsion, etc., action, distinction",
+     "morph": "compound (instr.)"
+    },
+    {
+     "surface": "śiṣṭamiti",
+     "gloss": "remaining-thus",
+     "grounds": "śiṣṭam plus iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "trikoṇaṣaṭkoṇādirūpam",
+     "gloss": "triangle-hexagon-etc-form",
+     "grounds": "compound of triangle, hexagon, etc., form",
+     "morph": "compound (noun)"
+    }
+   ],
+   "question": "What remaining form is described by action distinction?",
+   "premises": [
+    "body expulsion actions are distinguished",
+    "remaining form is triangle-hexagon-etc"
+   ],
+   "inference": "The remaining form is a triangle-hexagon and related geometric form.",
+   "uncertainties": [
+    "exact action list not given"
+   ],
+   "plain_english": "By distinctions among body-expulsion actions, the remaining form is triangle, hexagon, and related forms."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "gomayotpuṃsanam",
+     "gloss": "cow-dung-smearing",
+     "grounds": "compound of cow-dung and smearing",
+     "morph": "compound (noun)"
+    }
+   ],
+   "question": "What smearing action is prescribed?",
+   "premises": [
+    "cow dung is used",
+    "smearing is the action"
+   ],
+   "inference": "Cow-dung smearing is the prescribed action.",
+   "uncertainties": [
+    "context of application not specified"
+   ],
+   "plain_english": "Cow-dung smearing is to be performed."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of √kṛ",
+     "morph": "3.sg.act.opt.√kṛ"
+    }
+   ],
+   "question": "What general instruction is given?",
+   "premises": [
+    "the verb is optative",
+    "action is to be done"
+   ],
+   "inference": "The prescribed action should be performed.",
+   "uncertainties": [
+    "object of action depends on context"
+   ],
+   "plain_english": "One should do it."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "tritattva",
+     "gloss": "three-principles",
+     "grounds": "compound of three and principles",
+     "morph": "compound (noun)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "praṇava",
+     "gloss": "praṇava",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ihatyo",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mūlamantro",
+     "gloss": "root-mantra",
+     "grounds": "compound of root and mantra",
+     "morph": "compound (noun)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What mantra alternatives are presented?",
+   "premises": [
+    "three principles are mentioned",
+    "praṇava is named",
+    "root mantra is an alternative"
+   ],
+   "inference": "The verse presents praṇava or root mantra as alternatives.",
+   "uncertainties": [
+    "exact relation of three principles unclear"
+   ],
+   "plain_english": "The three principles are thus; praṇava or root mantra may be used here."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "prokṣaṇatāḍanakuṇḍalyātmakakuṇḍakalpanāni",
+     "gloss": "sprinkling-striking-kuṇḍalī-kuṇḍa-formations",
+     "grounds": "compound of sprinkling, striking, kuṇḍalī, kuṇḍa, formations",
+     "morph": "compound (n.acc.pl)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of √kṛ",
+     "morph": "3.sg.act.opt.√kṛ"
+    }
+   ],
+   "question": "What formations should be made?",
+   "premises": [
+    "sprinkling is included",
+    "striking is included",
+    "kuṇḍalī and kuṇḍa formations are included"
+   ],
+   "inference": "Sprinkling, striking, and kuṇḍalī/kuṇḍa formations should be made.",
+   "uncertainties": [
+    "exact ritual sequence not specified"
+   ],
+   "plain_english": "One should make sprinkling, striking, and kuṇḍalī/kuṇḍa formations."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "śivāgnistadāpādanam",
+     "gloss": "śiva-fire-that-bringing",
+     "grounds": "compound of śiva, fire, that, bringing",
+     "morph": "compound (noun)"
+    },
+    {
+     "surface": "tadāpādanam",
+     "gloss": "that-bringing",
+     "grounds": "compound of that and bringing",
+     "morph": "compound (noun)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhramaṇaṃ",
+     "gloss": "circling",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "praṇavenaiva",
+     "gloss": "by-praṇava-indeed",
+     "grounds": "compound of praṇava and indeed",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What fire and circling actions are described?",
+   "premises": [
+    "śiva fire is brought",
+    "that bringing is threefold",
+    "circling is also done by praṇava"
+   ],
+   "inference": "Śiva-fire is brought, and circling is done threefold by praṇava.",
+   "uncertainties": [
+    "exact object of bringing unclear"
+   ],
+   "plain_english": "Śiva-fire is brought, and circling is performed threefold by praṇava."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "yadatra",
+     "gloss": "whatever-here",
+     "grounds": "compound of whatever and here",
+     "morph": "compound (pron.)"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "pron."
+    },
+    {
+     "surface": "śrīsvacchandoddyote",
+     "gloss": "śrī-svacchanda-uddyota",
+     "grounds": "compound of śrī, svacchanda, uddyota",
+     "morph": "compound (loc.)"
+    },
+    {
+     "surface": "darśitam",
+     "gloss": "shown",
+     "grounds": "past participle of √dṛś",
+     "morph": "participle"
+    }
+   ],
+   "question": "Where is the principle shown?",
+   "premises": [
+    "whatever principle is here",
+    "that principle is shown",
+    "it is shown in śrī svacchanda uddyota"
+   ],
+   "inference": "The principle present here is shown in the Śrī Svacchanda Uddyota.",
+   "uncertainties": [
+    "exact principle not named"
+   ],
+   "plain_english": "Whatever principle is here has been shown in the Śrī Svacchanda Uddyota."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "pūjātmasaṃskāramukhāvirbhāvisaṃskārān",
+     "gloss": "purification-self-purification-etc",
+     "grounds": "compound of worship, self, purification, etc., appearing, purifications",
+     "morph": "compound (n.acc.pl)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of √kṛ",
+     "morph": "3.sg.act.opt.√kṛ"
+    }
+   ],
+   "question": "What purifications should be performed?",
+   "premises": [
+    "worship-related self-purifications are included",
+    "appearing purifications are included"
+   ],
+   "inference": "The specified purifications should be performed.",
+   "uncertainties": [
+    "exact list of purifications not given"
+   ],
+   "plain_english": "One should perform the worship, self-purification, and related appearing purifications."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "samānatantrāpekṣatvāt",
+     "gloss": "same-tantra-dependence",
+     "grounds": "compound of same, tantra, dependence",
+     "morph": "compound (abl.)"
+    },
+    {
+     "surface": "evamuttaratrāpi",
+     "gloss": "thus-afterwards-also",
+     "grounds": "compound of thus, afterwards, also",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why does the same procedure apply afterwards?",
+   "premises": [
+    "same tantra dependence is stated",
+    "thus afterwards also applies"
+   ],
+   "inference": "Because of dependence on the same tantra, the same applies afterwards too.",
+   "uncertainties": [
+    "scope of afterwards not specified"
+   ],
+   "plain_english": "Because of dependence on the same tantra, the same applies afterwards as well."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "sarvasaṃskārān",
+     "gloss": "all-purifications",
+     "grounds": "compound of all and purifications",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "locative of fire",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karomi",
+     "gloss": "I-do",
+     "grounds": "present of √kṛ",
+     "morph": "1.sg.act.pres.√kṛ"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "indeclinable offering word",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ityatrohaḥ",
+     "gloss": "thus-offering",
+     "grounds": "compound of thus and offering",
+     "morph": "compound (noun)"
+    }
+   ],
+   "question": "What offering formula is given?",
+   "premises": [
+    "all purifications are in fire",
+    "I do is stated",
+    "svāhā is included"
+   ],
+   "inference": "All purifications are offered in fire with svāhā.",
+   "uncertainties": [
+    "exact ritual context not specified"
+   ],
+   "plain_english": "I perform all purifications in fire, svāhā; thus is the offering."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "vidhānamanantaraṃ",
+     "gloss": "rite-afterwards",
+     "grounds": "compound of rite and afterwards",
+     "morph": "compound (noun)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future of √bhū",
+     "morph": "3.sg.act.fut.√bhū"
+    },
+    {
+     "surface": "kṣīravṛkṣaḥ",
+     "gloss": "milk-tree",
+     "grounds": "compound of milk and tree",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śvetārkādiḥ",
+     "gloss": "white-arka-etc",
+     "grounds": "compound of white, arka, etc.",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What rite and trees are mentioned afterwards?",
+   "premises": [
+    "rite afterwards will be",
+    "milk tree is named",
+    "white arka etc. is named"
+   ],
+   "inference": "Afterwards the rite will be, with milk tree and white arka etc.",
+   "uncertainties": [
+    "exact rite not specified"
+   ],
+   "plain_english": "Afterwards the rite will be, involving milk tree and white arka etc."
+  }
+ ]
+}

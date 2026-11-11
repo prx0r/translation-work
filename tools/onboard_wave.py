@@ -151,8 +151,13 @@ def main() -> int:
     auth = json.load(open(ROOT / "process/beam/muktabodha_authority_traditions.json"))
     census = {r["catalog"]: r for r in json.load(open("/tmp/mukta_census.json"))}
     from harvest_to_factory import extract_verses
+    import os as _os
+    def _no_dir(cat):
+        return not _os.path.isdir(ROOT / f"mukta-{cat}".lower())
+
     todo = [o for o in ranked
-            if o["tw"] == "not_started" and a.min_verses <= o["verses"] <= a.max_verses
+            if o["tw"] == "not_started" and _no_dir(o["catalog"])
+            and a.min_verses <= o["verses"] <= a.max_verses
             and o["catalog"] not in aliases
             and not any(k in norm(census[o["catalog"]]["title"] + " "
                                   + census[o["catalog"]]["file"])

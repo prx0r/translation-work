@@ -1,0 +1,50 @@
+{
+ "song": "net-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "atrāpi",
+     "gloss": "here-too",
+     "grounds": "adverbial compound atra+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīsvacchandādi",
+     "gloss": "śrī-svacchanda-etc",
+     "grounds": "compound of śrī, svacchanda, and ādi",
+     "morph": "compound (m.nom.sg)"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakriyā",
+     "gloss": "procedure",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anusaraṇīyā",
+     "gloss": "to-be-followed",
+     "grounds": "feminine nominative singular gerundive",
+     "morph": "f.nom.sg (gerundive)"
+    }
+   ],
+   "question": "Which procedure is to be followed here too?",
+   "premises": [
+    "Here too all procedure is to be followed.",
+    "Śrī Svacchanda etc. names the procedure."
+   ],
+   "inference": "The verse directs following all Śrī Svacchanda procedures here.",
+   "uncertainties": [
+    "Recension wording may vary."
+   ],
+   "plain_english": "Here too, all the procedure of Śrī Svacchanda and the rest is to be followed."
+  }
+ ]
+}

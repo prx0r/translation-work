@@ -1,0 +1,297 @@
+{
+ "song": "net-p09",
+ "items": [
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "upalakṣaṇaṃ",
+     "gloss": "indication",
+     "grounds": "indication of the stated point",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caitat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the preceding statement",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "puṣpādeḥ",
+     "gloss": "flower-etc",
+     "grounds": "genitive of puṣpa plus ādi, flower and the rest",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "What does this indication concern?",
+   "premises": [
+    "This is an indication.",
+    "It concerns flower and the rest."
+   ],
+   "inference": "The verse marks a representative indication by flower and similar items.",
+   "uncertainties": [
+    "Exact syntactic relation to the following verse is not explicit."
+   ],
+   "plain_english": "This is an indication concerning flower and the rest."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇabheda",
+     "gloss": "color-difference",
+     "grounds": "compound of varṇa and bheda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āśrayaḥ",
+     "gloss": "basis",
+     "grounds": "subject of the clause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karmabhedaḥ",
+     "gloss": "action-difference",
+     "grounds": "compound of karma and bheda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "purākalpe",
+     "gloss": "former-aeon",
+     "grounds": "locative of purākalpa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "abhūt",
+     "gloss": "was",
+     "grounds": "third singular aorist of bhū",
+     "morph": "3.sg.act-aor"
+    }
+   ],
+   "question": "What was the basis of color-difference and action-difference in the former aeon?",
+   "premises": [
+    "Color-difference had a basis.",
+    "Action-difference had a basis.",
+    "This was in the former aeon."
+   ],
+   "inference": "In the former aeon, color-difference and action-difference had a basis.",
+   "uncertainties": [
+    "The exact basis is not named in this verse."
+   ],
+   "plain_english": "Thus, in the former aeon, color-difference and action-difference had a basis."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "sito",
+     "gloss": "white",
+     "grounds": "adjective describing one form",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "lohitaḥ",
+     "gloss": "red",
+     "grounds": "adjective describing the other form",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvirūpaḥ",
+     "gloss": "two-formed",
+     "grounds": "compound of dvi and rūpa",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamatvāt",
+     "gloss": "supremacy",
+     "grounds": "ablative of uttamatva",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pracarati",
+     "gloss": "operates",
+     "grounds": "third singular present of pracar",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "explanatory phrase",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why does the two-formed white and red form not operate today?",
+   "premises": [
+    "The form is two-formed, white and red.",
+    "Today it does not operate.",
+    "Supremacy is the stated reason."
+   ],
+   "inference": "Because of supremacy, the two-formed white and red form does not operate today.",
+   "uncertainties": [
+    "The exact referent of supremacy is not specified here."
+   ],
+   "plain_english": "White and red, thus two-formed; but today, because of supremacy, it does not operate."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "kurvanti",
+     "gloss": "do",
+     "grounds": "third plural present of kṛ",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "explanatory phrase",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What action is being explained by thus-meaning?",
+   "premises": [
+    "They do something.",
+    "The phrase gives the meaning."
+   ],
+   "inference": "The verse explains an action by saying that they do it.",
+   "uncertainties": [
+    "The object of doing is not stated in this verse."
+   ],
+   "plain_english": "They do; thus is the meaning."
+  },
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "dakṣiṇayā",
+     "gloss": "by-right",
+     "grounds": "instrumental of dakṣiṇā",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "toṣitaḥ",
+     "gloss": "pleased",
+     "grounds": "past participle of tuṣ",
+     "morph": "pp.nom.sg.m"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "object of the implied action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muktisiddhī",
+     "gloss": "liberation-accomplishment",
+     "grounds": "compound of mukti and siddhi",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttaratra",
+     "gloss": "later",
+     "grounds": "adverb of place or sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruit comes from being pleased by the right?",
+   "premises": [
+    "Being pleased by the right gives fruit.",
+    "The fruit is liberation and accomplishment.",
+    "This is explained later."
+   ],
+   "inference": "Being pleased by the right yields liberation and accomplishment as fruit, explained later.",
+   "uncertainties": [
+    "The exact ritual context is not stated here."
+   ],
+   "plain_english": "Pleased by the right, the fruit is liberation and accomplishment; thus, later."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "namaskāraḥ",
+     "gloss": "salutation",
+     "grounds": "subject of the clause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "gods",
+     "grounds": "genitive plural of deva",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "vauṣaṭ",
+     "gloss": "vauṣaṭ",
+     "grounds": "ritual exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntau",
+     "gloss": "peace",
+     "grounds": "locative of śānti",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "praised",
+     "grounds": "third singular passive present of praśaṃs",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "When is salutation and vauṣaṭ praised for the gods?",
+   "premises": [
+    "Salutation is for the gods.",
+    "Vauṣaṭ is for the gods.",
+    "It is praised in peace."
+   ],
+   "inference": "Salutation and vauṣaṭ for the gods are praised in peace.",
+   "uncertainties": [
+    "The exact ritual setting is not specified."
+   ],
+   "plain_english": "Salutation and vauṣaṭ for the gods are praised in peace."
+  }
+ ]
+}
