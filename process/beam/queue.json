@@ -142425,13 +142425,13 @@
 24
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "claimed",
+"attempts": 1,
 "max_attempts": 4,
-"worker": null,
+"worker": "w2",
 "note": "restore full coverage (24v, tails folded)",
 "created": "2026-11-11T12:46:59",
-"updated": "2026-11-11T12:46:59"
+"updated": "2026-11-11T14:24:04"
 },
 {
 "id": "netratan-r24--p02-v0026",
@@ -142466,13 +142466,13 @@
 49
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "claimed",
+"attempts": 1,
 "max_attempts": 4,
-"worker": null,
+"worker": "w3",
 "note": "restore full coverage (24v, tails folded)",
 "created": "2026-11-11T12:46:59",
-"updated": "2026-11-11T12:46:59"
+"updated": "2026-11-11T14:24:05"
 },
 {
 "id": "netratan-r24--p03-v0051",
@@ -142495,13 +142495,13 @@
 62
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "claimed",
+"attempts": 2,
 "max_attempts": 4,
-"worker": null,
-"note": "restore full coverage (24v, tails folded)",
+"worker": "w1",
+"note": "restore full coverage (24v, tails folded) | attempt failed: v56: l2 too short",
 "created": "2026-11-11T12:46:59",
-"updated": "2026-11-11T12:46:59"
+"updated": "2026-11-11T14:24:58"
 },
 {
 "id": "netratan-r24--p04-v0076",
@@ -143129,7 +143129,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p01 T1 gated",
+"note": "auto_burn kjn-p01 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:28:30",
 "updated": "2026-11-11T13:28:30"
 },
@@ -143188,7 +143188,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p02 T1 gated",
+"note": "auto_burn kjn-p02 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:29:01",
 "updated": "2026-11-11T13:29:01"
 },
@@ -143247,7 +143247,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p04 T1 gated",
+"note": "auto_burn kjn-p04 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:30:18",
 "updated": "2026-11-11T13:30:18"
 },
@@ -143306,7 +143306,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p05 T1 gated",
+"note": "auto_burn kjn-p05 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:31:07",
 "updated": "2026-11-11T13:31:07"
 },
@@ -143365,7 +143365,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p06 T1 gated",
+"note": "auto_burn kjn-p06 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:31:37",
 "updated": "2026-11-11T13:31:37"
 },
@@ -143424,7 +143424,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p07 T1 gated",
+"note": "auto_burn kjn-p07 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:32:18",
 "updated": "2026-11-11T13:32:18"
 },
@@ -143483,7 +143483,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p08 T1 gated",
+"note": "auto_burn kjn-p08 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:32:58",
 "updated": "2026-11-11T13:32:58"
 },
@@ -143542,7 +143542,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p09 T1 gated",
+"note": "auto_burn kjn-p09 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:33:39",
 "updated": "2026-11-11T13:33:39"
 },
@@ -143601,7 +143601,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p10 T1 gated",
+"note": "auto_burn kjn-p10 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:34:10",
 "updated": "2026-11-11T13:34:10"
 },
@@ -143660,7 +143660,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p12 T1 gated",
+"note": "auto_burn kjn-p12 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:35:34",
 "updated": "2026-11-11T13:35:34"
 },
@@ -143719,7 +143719,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p13 T1 gated",
+"note": "auto_burn kjn-p13 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:36:05",
 "updated": "2026-11-11T13:36:05"
 },
@@ -143778,7 +143778,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p14 T1 gated",
+"note": "auto_burn kjn-p14 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:36:46",
 "updated": "2026-11-11T13:36:46"
 },
@@ -143837,7 +143837,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p16 T1 gated",
+"note": "auto_burn kjn-p16 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:38:08",
 "updated": "2026-11-11T13:38:08"
 },
@@ -143896,7 +143896,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p17 T1 gated",
+"note": "auto_burn kjn-p17 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:38:51",
 "updated": "2026-11-11T13:38:51"
 },
@@ -143955,7 +143955,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p18 T1 gated",
+"note": "auto_burn kjn-p18 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:39:30",
 "updated": "2026-11-11T13:39:30"
 },
@@ -144014,7 +144014,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p19 T1 gated",
+"note": "auto_burn kjn-p19 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:40:10",
 "updated": "2026-11-11T13:40:10"
 },
@@ -144073,7 +144073,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p20 T1 gated",
+"note": "auto_burn kjn-p20 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:40:43",
 "updated": "2026-11-11T13:40:43"
 },
@@ -144132,7 +144132,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p21 T1 gated",
+"note": "auto_burn kjn-p21 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:41:24",
 "updated": "2026-11-11T13:41:24"
 },
@@ -144191,7 +144191,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p22 T1 gated",
+"note": "auto_burn kjn-p22 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:42:17",
 "updated": "2026-11-11T13:42:17"
 },
@@ -144250,7 +144250,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p24 T1 gated",
+"note": "auto_burn kjn-p24 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:43:23",
 "updated": "2026-11-11T13:43:23"
 },
@@ -144309,7 +144309,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p25 T1 gated",
+"note": "auto_burn kjn-p25 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:43:50",
 "updated": "2026-11-11T13:43:50"
 },
@@ -144368,7 +144368,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p26 T1 gated",
+"note": "auto_burn kjn-p26 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:44:29",
 "updated": "2026-11-11T13:44:29"
 },
@@ -144427,7 +144427,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p27 T1 gated",
+"note": "auto_burn kjn-p27 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:45:21",
 "updated": "2026-11-11T13:45:21"
 },
@@ -144449,7 +144449,7 @@
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "auto_burn kjn-p28 T1 gated",
+"note": "auto_burn kjn-p28 T1 gated | tail (song remainder, <24 by arithmetic)",
 "created": "2026-11-11T13:45:36",
 "updated": "2026-11-11T13:45:36"
 },
@@ -146609,13 +146609,13 @@
 312
 ]
 },
-"status": "claimed",
+"status": "done",
 "attempts": 2,
 "max_attempts": 4,
 "worker": "w2",
-"note": "restore full coverage (24v, tails folded) | attempt failed: v301: question rejected",
+"note": "restore full coverage (24v, tails folded) | attempt failed: v301: question rejected | 12 verses complete",
 "created": "2026-11-11T12:46:59",
-"updated": "2026-11-11T14:22:44"
+"updated": "2026-11-11T14:24:02"
 },
 {
 "id": "rc2-kularn--p18-v0426",
@@ -146696,13 +146696,13 @@
 599
 ]
 },
-"status": "claimed",
+"status": "pending",
 "attempts": 1,
 "max_attempts": 4,
 "worker": "w3",
-"note": "restore full coverage (24v, tails folded)",
+"note": "restore full coverage (24v, tails folded) | attempt failed: v590: question rejected",
 "created": "2026-11-11T12:46:59",
-"updated": "2026-11-11T14:22:41"
+"updated": "2026-11-11T14:24:02"
 },
 {
 "id": "kularnav-r24--p36-v0888",
@@ -146726,13 +146726,13 @@
 900
 ]
 },
-"status": "claimed",
+"status": "pending",
 "attempts": 1,
 "max_attempts": 4,
 "worker": "w1",
-"note": "restore full coverage (24v, tails folded)",
+"note": "restore full coverage (24v, tails folded) | attempt failed: v892: question rejected",
 "created": "2026-11-11T12:46:59",
-"updated": "2026-11-11T14:22:48"
+"updated": "2026-11-11T14:24:03"
 },
 {
 "id": "kularnav-r24--p37-v0901",
