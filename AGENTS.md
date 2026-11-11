@@ -74,6 +74,14 @@ Rule 3: Pipelines are pure functions. Rule 4: One canonical code path. Rule 5: O
 Rule 6: Every decision logged. Rule 7: Features freeze at decision time. Rule 8: CM2 is primary reward.
 Rule 9: Calibrate, don't force. Rule 10: Preserve every rejected candidate.
 
+**Clarification (owner, 2026-11-11):** *"Never push directly"* means **never
+push commits straight to the default/protected branch** (here: `master`). The
+required path — and the permitted one — is: create a feature branch, **push the
+branch**, open a pull request. Feature-branch pushes and PRs are not a
+violation of Rule 1; refusing them, or substituting a local bundle for a PR,
+blocks work that the owner wanted live. If a review API or token returns 403,
+report the error and continue by other means — do not stop.
+
 ## File Reference
 
 Schemas (validators): schemas/base.py, t1.py, l0.py, argmap.py, l2.py, c1.py, c2.py, signoff.py, suggestion.py
