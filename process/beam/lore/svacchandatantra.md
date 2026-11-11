@@ -67,22 +67,54 @@ This is the earliest systematic svātantrya theology — the seed of the
 Kashmir non-dual school. Argmaps must track *freedom vs contraction*
 claims, not merely ritual steps.
 
-## B. STRUCTURAL MAP (paṭalas — verify against `paṭalaḥ` colophons)
+## B. STRUCTURAL MAP — VERIFIED (IFP ms T1032 division list; 15 paṭalas)
 
-| Paṭala | Content |
+| Paṭala | Subject (ms contents list) |
 |---|---|
-| 1 | Frame; Bhairava/Svacchanda revealed to the Goddess |
-| 2–4 | Mantroddhāra (mantra extraction), mūrti/dhyāna material |
-| 5 | **Kalā-dīkṣā** and **tattva-dīkṣā** (36 tattvas purification) |
-| 6 | Samayācāra: rules & observances of the initiate |
-| 7 | **Prāṇa/yogic material** (translated by Singh) — breath, interiorisation |
-| 8 | Aṃśaka-adhikāra: the six "parts" (bhāva, svabhāva, puṣpapāta, mantra, …) |
-| 9–10 | (ch.10 longest, 1280+ verses in GRETIL) — cosmology, time, voids |
-| 11–12 | Adhvan/levels; dhyāna of the pervasive Lord; samādhi instructions |
-| 13–15 | Further ritual, maṇḍala, dīkṣā variants |
+| 1 | **mantroddhāra** (mantra extraction) |
+| 2 | yogamantrapīṭha-yajana-vidhi |
+| 3 | adhivāsa-vidhi |
+| 4 | **dīkṣā-vidhi** (initiation) |
+| 5 | vijñāna-dīkṣā-vidhi |
+| 6 | karma-vidhi |
+| 7 | **kāla-bheda-vidhi (divisions of TIME)** |
+| 8 | tantrāṃśaka-vidhi (the six aṃśakas) |
+| 9 | ekavīra-sādhana-vidhi |
+| 10 | **adhva-paṭala (the levels/course)** — longest (KSTS pp.169–296) |
+| 11 | tattva-sṛṣṭi (creation of the tattvas) |
+| 12 | tattva-svarūpa-jñāna-yoga-vidhi |
+| 13 | siddha-sādhana-adhikāra |
+| 14 | mudrā-adhikāra |
+| 15 | cuhākāra / cūḍākāra |
 
-The GRETIL header records per-chapter source editions and lacunae (`(...)`)
-— treat lacunae as TEXTUAL gaps, never smooth.
+**Times/voids sit in paṭala 7 (kālabheda) and inside 10 (adhva)** — not "9–10"
+as an earlier draft guessed. My prior inference is superseded by this table.
+
+## B2. TEXTUAL WARNING — our witness is SHORT
+
+The KSTS edition (7 vols: 31, 38, 44, 48, 51, 53, 56; ed. Madhusudan Kaul
+Shastri, 1921–1935) contains **3,648.5 verses, almost all ślokas**. GRETIL's
+chapter.verse text counts ~3,677 refs / 15 paṭalas. **Our Muktabodha witness
+has only 1,385** → it is abridged or a different (excerpting) transcript.
+DO NOT claim verse-complete coverage of Svacchanda from M00091;
+mark the witness in every output until resolved.
+
+## B3. SCHOLARSHIP
+
+- **Arraj, *The Svacchandatantram: History and Structure of a Śaiva
+  Scripture* (Chicago PhD)** — the structural study; textus receptus = KSTS.
+- **McCarter 2014** (Religions 5:738, doi:10.3390/rel5030738) — ritual,
+  cosmology, divinization; Kṣemarāja's Vedic-overlay readings (sandhyā,
+  praṇava purification, śuddhatattva homologisation).
+- **Kṣemarāja c. 1000–1050**, direct disciple of Abhinavagupta (fl.
+  975–1025; Sanderson) — c. 3–4 centuries after the tantra's first
+  composition; his Uddyota is a **monistic re-reading** of a text that is
+  not uniformly non-dual. Companion rule: never let Uddyota vocabulary
+  into L2 where the verse doesn't carry it.
+- Technical terms verified in the scholarship: **dvādaśānta** (twelve
+  finger-breadths above the head), **divyakaraṇa** (the technique of
+  relaxed body/tongue to palate/lips apart/eyes level), **praṇava**
+  (Om) breath-purification, **sandhyā** worship at the day's junctures.
 
 ## C. LOAD-BEARING TECHNICAL SETS
 
