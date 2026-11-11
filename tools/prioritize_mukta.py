@@ -81,6 +81,10 @@ def main() -> int:
     except Exception:
         ixn = {}
 
+    try:
+        sev = json.load(open(ROOT / "process/beam/seed_evidence.json"))
+    except Exception:
+        sev = {}
     out = []
     for r in rows:
         cat = r["catalog"]
@@ -108,6 +112,13 @@ def main() -> int:
                 T = T + len(ch[cat])
                 why = (why + f" + {len(ch[cat])} index hits "
                        f"({', '.join(sorted(set(h['source'] for h in ch[cat])))})")
+            if cat in sev:
+                # bibliographySeed gold evidence (curated 2026-08-10, URLs)
+                e = sev[cat]
+                add = 3 * e["complete_en"] + max(0, e["n"] - e["complete_en"])
+                if add > 0:
+                    T = T + add
+                    why = why + f" + seed:{e['status']}({add})"
         out.append({"catalog": cat, "title": r["title"], "verses": r["verses"],
                     "T": T, "T_why": why, "tw": st,
                     "prose": r["verses"] == 0})
