@@ -29,7 +29,7 @@
    `tools/spanda_t1_parse.py --work <w> --song <s>` → `working-t1-<song>.json`
    + **coverage gate** difflib ≥ 0.85 per verse; below gate = redo with
    labeled input (never ship).
-4. **Seed** `tal_triple` tasks, **≤12 verses per group** (25v groups bounce
+4. **Seed** `tal_triple` tasks, **24 verses per group** (25v groups bounce
    review: "premise too short"). Append to `process/beam/queue.json`.
 5. **Drain** — workers (`tools/beam_swarm.py worker wN`, max 3) on
    `beam-free`/`iceman`, dual-account rotation; 429 → other account →

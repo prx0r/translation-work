@@ -36,7 +36,9 @@ C2) come later per work.
    **Both are auto-injected into every beam packet.**
 3. **T1**: labeled verses ≤25/call → `tools/spanda_t1_parse.py --work --song`
    → coverage gate difflib ≥0.85 (below = retry with labeled input).
-4. **Seed**: 12-verse `tal_triple` groups (never >60; skill window rule).
+4. **Seed**: **24-verse** `tal_triple` groups by default (beam has 1M context;
+   up to 60 per the largetext window rule). 12 only if review bounces that
+   group — then halve. Never seed >60 in one task.
 5. **Drain**: 3 workers via `tools/beam_swarm.py worker wN` (or the button
    below). Dual-account key rotation; 429 → other account → park 30 min.
 6. **Assemble**: `shastra.assemble` (MCP) or `tools/assemble_all.py`
@@ -62,7 +64,7 @@ assessor's cue, not a bug.
 |---|---|
 | question rejected (generic) | prompt contract ≥8 words, names the claim (done in TAL_TRIPLE_SYS) |
 | surface drift | `norm_surface` strips `+`/spaces (done) |
-| premise too short | halve group; 12v is the proven size |
+| premise too short | halve group (24→12); question contract tightened 2026-11-11 |
 | coverage 0.81–0.82 | retry that passage with labeled verses; never ship |
 | 429 on both models | wait; check `model_health.json`; both accounts rotate |
 | triple split overwrite | fixed: unique child ids + merged parent |

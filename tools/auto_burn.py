@@ -63,8 +63,8 @@ def seed(q: list, work: str, song: str, verses: list, note: str) -> int:
         if a.get("work") == work and a.get("song") == song and a.get("verses"):
             taken.append((min(a["verses"]), max(a["verses"])))
     n = 0
-    for i in range(0, len(verses), 12):
-        grp = verses[i:i + 12]
+    for i in range(0, len(verses), 24):
+        grp = verses[i:i + 24]
         if any(grp[0] <= hi and lo <= grp[-1] for lo, hi in taken):
             continue  # overlap: already being/been done
         tid = f"{work[:7]}-triple-{song}-v{grp[0]:03d}"
