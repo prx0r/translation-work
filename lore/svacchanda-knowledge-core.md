@@ -4,7 +4,11 @@
 authority page (Bhairava Tantras: "alone among early sources it teaches a
 theology of absolute freedom (svātantrya)"), the GRETIL paṭala-based text
 (typed from KSTS/Dwivedi eds.), and Kṣemarāja's Uddyota (support only).
-Muktabodha M00091; 1385 mūla verses in our witness.*
+Muktabodha M00091; 1385 mūla verses in our witness. **Date: core text no
+later than the 7th century CE** (White 2012, doi:10.1093/jhs/his019 — i.e.
+Svacchanda predates the Netratantra). Kṣemarāja's Uddyota (c. 1000–1050)
+colours the received reading; GRETIL text typed per-chapter from
+KSTS/Dwivedi editions.*
 
 ## A. THE ONE THESIS
 
