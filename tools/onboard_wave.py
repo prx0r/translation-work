@@ -81,6 +81,10 @@ def norm(s: str) -> str:
 
 
 def onboard(cat: str, title: str, verses: list, trads: str, who: str) -> Path:
+    from brief_gate import check as _bg
+    _ok, _why = _bg(f"mukta-{cat}".lower())
+    if not _ok:
+        raise RuntimeError(f"brief_gate: {_why} — write a researched brief first")
     from intake import validate_segments
     from harvest_to_factory import extract_verses
     src = next(MUKTA.glob(f"*{cat}-IAST.txt"), None)

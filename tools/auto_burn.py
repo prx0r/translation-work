@@ -93,6 +93,11 @@ def coverage(work: str, song: str, verses: list) -> tuple:
 
 
 def run_work(work: str, lo: int, hi: int) -> None:
+    from brief_gate import check as _bg
+    _ok, _why = _bg(work)
+    if not _ok:
+        print(f"{work}: REFUSED (brief_gate: {_why}) — write a researched brief first")
+        return
     passages = [json.loads(l) for l in open(ROOT / work / "passages.jsonl")]
     passages = [p for p in passages if lo <= int(re.search(r"p(\d+)", p["locator"]).group(1)) <= hi]
     vs = json.loads((ROOT / work / "source/verses.json").read_text())
