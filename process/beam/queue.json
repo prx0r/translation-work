@@ -126441,13 +126441,13 @@
 100
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "done",
+"attempts": 4,
 "max_attempts": 4,
-"worker": null,
-"note": "M00031 vv76-100",
+"worker": "w1",
+"note": "M00031 vv76-100 | attempt failed: v76: question rejected | attempt failed: v80: question rejected | attempt failed: v79: question rejected | 25 verses complete",
 "created": "2026-11-11T07:28:39",
-"updated": "2026-11-11T07:28:39"
+"updated": "2026-11-11T07:30:29"
 },
 {
 "id": "kularna-triple-p05-v01",
@@ -126483,12 +126483,164 @@
 125
 ]
 },
+"status": "failed",
+"attempts": 4,
+"max_attempts": 4,
+"worker": "w2",
+"note": "M00031 vv101-125 | attempt failed: v110: bad row 'dvaitādvaitavivajītam' gloss='dual-non-dual-free' | attempt failed: v110: bad row 'dvaitādvaitavivajītam' gloss='dual-non-dual-free' | attempt failed: v110: bad row 'dvaitādvaitavivajītam' gloss='dual-non-dual-free' | attempt failed: v101: question rejected",
+"created": "2026-11-11T07:28:58",
+"updated": "2026-11-11T07:31:07"
+},
+{
+"id": "kularna-triple-p01a-v02",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p01",
+"verses": [
+1,
+13
+]
+},
 "status": "pending",
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "M00031 vv101-125",
-"created": "2026-11-11T07:28:58",
-"updated": "2026-11-11T07:28:58"
+"note": "halved retry (12-13v groups pass review); v01 failed out",
+"created": "2026-11-11T07:53:10",
+"updated": "2026-11-11T07:53:10"
+},
+{
+"id": "kularna-triple-p01b-v02",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p01",
+"verses": [
+14,
+25
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "halved retry (12-13v groups pass review); v01 failed out",
+"created": "2026-11-11T07:53:10",
+"updated": "2026-11-11T07:53:10"
+},
+{
+"id": "kularna-triple-p02a-v02",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p02",
+"verses": [
+26,
+38
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "halved retry (12-13v groups pass review); v01 failed out",
+"created": "2026-11-11T07:53:10",
+"updated": "2026-11-11T07:53:10"
+},
+{
+"id": "kularna-triple-p02b-v02",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p02",
+"verses": [
+39,
+50
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "halved retry (12-13v groups pass review); v01 failed out",
+"created": "2026-11-11T07:53:10",
+"updated": "2026-11-11T07:53:10"
+},
+{
+"id": "kularna-triple-p03a-v02",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p03",
+"verses": [
+51,
+63
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "halved retry (12-13v groups pass review); v01 failed out",
+"created": "2026-11-11T07:53:10",
+"updated": "2026-11-11T07:53:10"
+},
+{
+"id": "kularna-triple-p03b-v02",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p03",
+"verses": [
+64,
+75
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "halved retry (12-13v groups pass review); v01 failed out",
+"created": "2026-11-11T07:53:10",
+"updated": "2026-11-11T07:53:10"
+},
+{
+"id": "kularna-triple-p05a-v02",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p05",
+"verses": [
+101,
+113
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "halved retry (12-13v groups pass review); v01 failed out",
+"created": "2026-11-11T07:53:10",
+"updated": "2026-11-11T07:53:10"
+},
+{
+"id": "kularna-triple-p05b-v02",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p05",
+"verses": [
+114,
+125
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "halved retry (12-13v groups pass review); v01 failed out",
+"created": "2026-11-11T07:53:10",
+"updated": "2026-11-11T07:53:10"
 }
 ]
