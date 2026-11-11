@@ -46,6 +46,15 @@ def audit(fix: bool) -> dict:
         vs = a.get("verses") or []
         if not vs:
             continue
+        # ORPHAN / ALREADY-DONE guards: a task whose work dir is gone, or
+        # whose song is already assembled, must never be claimable.
+        from pathlib import Path as _P
+        _w = t.get("args", {}).get("work", "")
+        _song = t.get("args", {}).get("song", "")
+        if _w and not _P(_w).resolve().parent.joinpath(_w).is_dir() and not _P(_w).is_dir():
+            problems.setdefault("orphan_work", []).append(t["id"])
+        elif _w and _song and _P(f"{_w}/data/{_song}.t1.json").exists():
+            problems.setdefault("already_assembled", []).append(t["id"])
         # FLOOR: max-verses windowing (beam 1M ctx). Never <24 unless a
         # reviewed halving is recorded in the note.
         note_l = (t.get('note') or '').lower()
