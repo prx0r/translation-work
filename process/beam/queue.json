@@ -133044,13 +133044,13 @@
     87
    ]
   },
-  "status": "claimed",
-  "attempts": 2,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
   "worker": "w1",
-  "note": "bulk seed pass-1 | attempt failed: v82: premise too short",
+  "note": "bulk seed pass-1 | attempt failed: v82: premise too short | attempt failed: v86: premise too short | attempt failed: v80: question rejected | attempt failed: v82: premise too short",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:24:19"
+  "updated": "2026-11-11T11:24:54"
  },
  {
   "id": "svacchan-t--p04-v0088",
@@ -133120,13 +133120,13 @@
     1112
    ]
   },
-  "status": "claimed",
-  "attempts": 1,
+  "status": "done",
+  "attempts": 3,
   "max_attempts": 4,
   "worker": "w3",
-  "note": "bulk seed pass-1",
+  "note": "bulk seed pass-1 | attempt failed: v1112: l2 too short | attempt failed: v1109: premise too short | 12 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:24:20"
+  "updated": "2026-11-11T11:25:02"
  },
  {
   "id": "svacchan-t--p45-v1113",
@@ -133149,13 +133149,13 @@
     1124
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | attempt failed: split after schema fail v1113: l2 too short; v1122: l2 too short | attempt failed: split after schema fail v1113: l2 too short; v1122: l2 too short | attempt failed: v1113: l2 too short | attempt failed: v1113: question rejected",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:26:03"
  },
  {
   "id": "svacchan-t--p45-v1125",
@@ -133167,13 +133167,13 @@
     1125
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:25:00"
  },
  {
   "id": "svacchan-t--p51-v1251",
@@ -133196,13 +133196,13 @@
     1262
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w2",
+  "note": "bulk seed pass-1 | 12 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:25:19"
  },
  {
   "id": "svacchan-t--p51-v1263",
@@ -133225,13 +133225,13 @@
     1274
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w3",
+  "note": "bulk seed pass-1 | attempt failed: v1265: premise too short | attempt failed: v1265: premise too short | attempt failed: v1265: premise too short | attempt failed: v1265: premise too short",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:26:15"
  },
  {
   "id": "svacchan-t--p51-v1275",
@@ -133243,13 +133243,13 @@
     1275
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w2",
+  "note": "bulk seed pass-1 | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:25:26"
  },
  {
   "id": "svacchan-t--p32-v0776",
@@ -133272,13 +133272,13 @@
     787
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w3",
+  "note": "bulk seed pass-1 | attempt failed: v776: question rejected | attempt failed: v782: l2 too short | attempt failed: v778: premise too short | attempt failed: v782: l2 too short",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:26:30"
  },
  {
   "id": "svacchan-t--p32-v0788",
@@ -133301,13 +133301,13 @@
     799
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | attempt failed: v789: premise too short | attempt failed: v788: question rejected | attempt failed: v789: question rejected | attempt failed: v788: question rejected",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:27:15"
  },
  {
   "id": "svacchan-t--p32-v0800",
@@ -133319,13 +133319,13 @@
     800
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w2",
+  "note": "bulk seed pass-1 | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:26:23"
  },
  {
   "id": "svacchan-t--p52-v1276",
@@ -133348,13 +133348,13 @@
     1287
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w2",
+  "note": "bulk seed pass-1 | attempt failed: v1279: premise too short | attempt failed: split after schema fail v1279: premise too short; 6 verses complete | attempt failed: v1279: question rejected | attempt failed: v1279: premise too short",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:27:53"
  },
  {
   "id": "svacchan-t--p52-v1288",
@@ -133377,13 +133377,13 @@
     1299
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w3",
+  "note": "bulk seed pass-1 | attempt failed: v1288: l2 too short | attempt failed: v1288: l2 too short | attempt failed: v1288: l2 too short | attempt failed: v1288: l2 too short",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:27:40"
  },
  {
   "id": "svacchan-t--p52-v1300",
@@ -133395,13 +133395,13 @@
     1300
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:27:24"
  },
  {
   "id": "svacchan-t--p33-v0801",
@@ -133424,13 +133424,13 @@
     812
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | attempt failed: v802: premise too short | attempt failed: v808: question rejected | attempt failed: v811: premise too short | attempt failed: v802: premise too short",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:28:35"
  },
  {
   "id": "svacchan-t--p33-v0813",
@@ -133453,13 +133453,13 @@
     824
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w3",
+  "note": "bulk seed pass-1 | 12 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:27:56"
  },
  {
   "id": "svacchan-t--p33-v0825",
@@ -133471,13 +133471,13 @@
     825
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w2",
+  "note": "bulk seed pass-1 | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:27:59"
  },
  {
   "id": "svacchan-t--p41-v1001",
@@ -133500,13 +133500,13 @@
     1012
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | attempt failed: v1003: bad row 'ai\u1e25' gloss='instrumental-plural' | attempt failed: v1003: bad row 'ai\u1e25' gloss='instrumental-plural' | attempt failed: v1001: question rejected | attempt failed: v1003: bad row 'ai\u1e25' gloss='instrumental-plural'",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:28:47"
  },
  {
   "id": "svacchan-t--p41-v1013",
@@ -133529,13 +133529,13 @@
     1024
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | attempt failed: v1019: bad row 'karmadh\u0101raya\u1e25' gloss='compound' | attempt failed: v1019: bad row 'karmadh\u0101raya\u1e25' gloss='compound-type' | attempt failed: v1017: question rejected | attempt failed: v1017: premise too short",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:29:02"
  },
  {
   "id": "svacchan-t--p41-v1025",
@@ -133547,13 +133547,13 @@
     1025
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 3,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w3",
+  "note": "bulk seed pass-1 | attempt failed: v1025: question rejected | attempt failed: v1025: question rejected | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:28:55"
  },
  {
   "id": "svacchan-t--p46-v1126",
@@ -133576,13 +133576,13 @@
     1137
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | attempt failed: v1130: question rejected | attempt failed: v1130: question rejected | attempt failed: v1131: premise too short | attempt failed: split after schema fail 6 verses complete; v1137: question rejected",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:30:02"
  },
  {
   "id": "svacchan-t--p46-v1138",
@@ -133605,13 +133605,13 @@
     1149
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w3",
+  "note": "bulk seed pass-1 | attempt failed: v1138: question rejected | attempt failed: v1140: premise too short | attempt failed: v1139: premise too short | attempt failed: v1144: question rejected",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:29:56"
  },
  {
   "id": "svacchan-t--p46-v1150",
@@ -133623,13 +133623,13 @@
     1150
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w2",
+  "note": "bulk seed pass-1 | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:29:10"
  },
  {
   "id": "svacchan-t--p43-v1051",
@@ -133652,13 +133652,13 @@
     1062
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w3",
+  "note": "bulk seed pass-1 | attempt failed: v1051: l2 too short | attempt failed: v1051: l2 too short | attempt failed: split after schema fail v1051: l2 too short; 6 verses complete | attempt failed: split after schema fail v1051: l2 too short; 6 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:30:51"
  },
  {
   "id": "svacchan-t--p43-v1063",
@@ -133681,13 +133681,13 @@
     1074
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w2",
+  "note": "bulk seed pass-1 | attempt failed: v1064: question rejected | attempt failed: v1066: premise too short | attempt failed: v1070: l2 too short | attempt failed: v1070: l2 too short",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:30:53"
  },
  {
   "id": "svacchan-t--p43-v1075",
@@ -133699,13 +133699,13 @@
     1075
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:30:09"
  },
  {
   "id": "svacchan-t--p53-v1301",
@@ -133728,13 +133728,13 @@
     1312
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | attempt failed: v1308: premise too short | attempt failed: split after schema fail v1306: premise too short; v1312: l2 too short | attempt failed: v1305: premise too short | attempt failed: v1310: premise too short",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:31:28"
  },
  {
   "id": "svacchan-t--p53-v1313",
@@ -133757,13 +133757,13 @@
     1324
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w3",
+  "note": "bulk seed pass-1 | attempt failed: v1315: l2 too short | attempt failed: v1315: question rejected | attempt failed: v1315: question rejected | attempt failed: v1315: question rejected",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:31:49"
  },
  {
   "id": "svacchan-t--p53-v1325",
@@ -133775,13 +133775,13 @@
     1325
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w2",
+  "note": "bulk seed pass-1 | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:31:02"
  },
  {
   "id": "svacchan-t--p30-v0726",
@@ -133805,12 +133805,12 @@
    ]
   },
   "status": "pending",
-  "attempts": 0,
+  "attempts": 3,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w2",
+  "note": "bulk seed pass-1 | attempt failed: v737: l2 too short | attempt failed: split after schema fail 6 verses complete; v737: l2 too short | attempt failed: v737: question rejected",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:32:16"
  },
  {
   "id": "svacchan-t--p30-v0738",
@@ -133833,13 +133833,13 @@
     749
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "claimed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w1",
+  "note": "bulk seed pass-1 | attempt failed: v741: l2 too short | attempt failed: v738: question rejected | attempt failed: v738: question rejected",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:32:16"
  },
  {
   "id": "svacchan-t--p30-v0750",
@@ -133851,13 +133851,13 @@
     750
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "done",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
-  "note": "bulk seed pass-1",
+  "worker": "w3",
+  "note": "bulk seed pass-1 | 1 verses complete",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:31:57"
  },
  {
   "id": "svacchan-t--p09-v0201",
@@ -133880,13 +133880,13 @@
     212
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "claimed",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
+  "worker": "w3",
   "note": "bulk seed pass-1",
   "created": "2026-11-11T11:09:29",
-  "updated": "2026-11-11T11:09:29"
+  "updated": "2026-11-11T11:31:59"
  },
  {
   "id": "svacchan-t--p09-v0213",

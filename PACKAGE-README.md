@@ -1,3 +1,5 @@
+> **STATUS 2026-11-11:** steps/commands live in MUKTABODHA-RUNBOOK.md. This file supplies detail/reasoning only; runbook wins on procedure.
+
 # translation-work — agent package (read this first)
 
 *The Sanskrit translation machine: beam drafters + assessor gates + MCP

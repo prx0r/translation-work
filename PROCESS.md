@@ -1,3 +1,5 @@
+> **STATUS 2026-11-11:** steps/commands live in MUKTABODHA-RUNBOOK.md. This file supplies detail/reasoning only; runbook wins on procedure.
+
 # PROCESS — the translation pipeline (canonical, 2026-11-11)
 
 *Owner directive: reach FULL gold in passes. Never block pass 1 on pass 3.*

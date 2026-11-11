@@ -1,0 +1,38 @@
+{
+ "song": "sva-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "vrajediti",
+     "gloss": "he-would-go-thus",
+     "grounds": "fused form vrajet + iti; optative of root vraj with particle iti",
+     "morph": "opt.3sg.act + indecl."
+    },
+    {
+     "surface": "vrajediti",
+     "gloss": "he-would-go-thus",
+     "grounds": "repeated fused form vrajet + iti",
+     "morph": "opt.3sg.act + indecl."
+    },
+    {
+     "surface": "sambandhaḥ",
+     "gloss": "connection",
+     "grounds": "nominative singular masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What relation does the verse assign to the two repeated statements?",
+   "premises": [
+    "The verse repeats vrajet iti twice.",
+    "Sambandhaḥ names the relation."
+   ],
+   "inference": "The verse identifies the relation as two identical 'he would go' statements.",
+   "uncertainties": [
+    "The exact referent of vrajet remains unclear from the given context."
+   ],
+   "plain_english": "The relation is: 'he would go,' 'he would go.'"
+  }
+ ]
+}
