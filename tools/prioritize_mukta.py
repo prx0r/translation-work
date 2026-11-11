@@ -7,7 +7,7 @@ flag counts as translated, curated famous-translation estimates).
 Rank key: (T, verses). Done-by-us works sink to bottom (skip burn).
 
 Usage: python3 tools/prioritize_mukta.py [--out process/beam/ranked_burn.json]
-Reads: /tmp/mukta_census.json, process/beam/mukta_priority_queue.json,
+Reads: /tmp/mukta_census.json, tools/work_state.py (status),
   openpatala availability index (for the 15 title-joins).
 Writes: ranked list [{burn_rank, catalog, title, verses, T, T_why}].
 """
