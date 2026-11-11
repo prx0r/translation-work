@@ -41,21 +41,8 @@ def _brief_text(work: str, ahn: str = '') -> str:
                 break
         except OSError:
             continue
-    # KNOWLEDGE CORE (pass-2 scholarship) always rides along when present.
-    # Named lore/<work>-knowledge-core.md; tolerate the tantra-suffix alias
-    # (kularnavatantra -> kularnava-knowledge-core.md).
-    core = None
-    for stem in (work, work.replace('tantra', ''), work[:10]):
-        c = ROOT / 'lore' / f'{stem}-knowledge-core.md'
-        if c.exists():
-            core = c
-            break
-    if core is not None:
-        try:
-            brief += ('\n\n## KNOWLEDGE CORE (scholarly grounding — obey)'
-                      '\n' + core.read_text())
-        except OSError:
-            pass
+    # ONE lore file per work: brief + knowledge core are merged into
+    # process/beam/lore/<work>.md (owner 2026-11-11). No second lookup.
     return brief
 
 _AVAGRAHA = {'\u02bc', '\u2019', "'", '`', '\u02bd'}
