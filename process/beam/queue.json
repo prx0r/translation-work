@@ -139475,13 +139475,13 @@
     1537
    ]
   },
-  "status": "claimed",
+  "status": "failed",
   "attempts": 4,
   "max_attempts": 4,
   "worker": "w1",
-  "note": "': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]; schema fail: [{'type': 'too_short', 'loc': ('items', 0, 'rows'), 'msg': 'List should have at least 1 item after validation, not 0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]",
+  "note": "rface drift (1 vs 0); split after schema fail v1535: surface drift (1 vs 0); split after schema fail schema fail: [{'type': 'too_short', 'loc': ('items', 0, 'rows'), 'msg': 'List should have at least 1 item after validation, not 0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]; v1537: surface drift (1 vs 0)",
   "created": "2026-11-11T12:00:05",
-  "updated": "2026-11-11T12:51:21"
+  "updated": "2026-11-11T12:52:43"
  },
  {
   "id": "kularnav-m24--p62-v1538",
@@ -139505,13 +139505,13 @@
     1550
    ]
   },
-  "status": "claimed",
-  "attempts": 3,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
   "worker": "w3",
-  "note": "actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]; split after schema fail schema fail: [{'type': 'too_short', 'loc': ('items', 0, 'rows'), 'msg': 'List should have at least 1 item after validation, not 0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]; v1550: surface drift (1 vs 0)",
+  "note": "': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]; schema fail: [{'type': 'too_short', 'loc': ('items', 0, 'rows'), 'msg': 'List should have at least 1 item after validation, not 0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:52:07"
+  "updated": "2026-11-11T12:55:34"
  },
  {
   "id": "svacchan-m24--p01-v0001",
@@ -139587,13 +139587,13 @@
     49
    ]
   },
-  "status": "claimed",
-  "attempts": 3,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
   "worker": "w2",
-  "note": "merged to 24-verse window (floor enforced) | attempt failed: v26: question rejected | attempt failed: v26: bad row 'tv\u0101t' gloss='ablative'",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v26: question rejected | attempt failed: v26: bad row 'tv\u0101t' gloss='ablative' | attempt failed: v29: premise too short | attempt failed: v26: bad row 'tv\u0101t' gloss='from-ablative'",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:51:52"
+  "updated": "2026-11-11T12:52:38"
  },
  {
   "id": "svacchan-m24--p05-v0101",
@@ -139628,13 +139628,13 @@
     124
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w2",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v105: question rejected | attempt failed: v103: premise too short | attempt failed: v113: bad row 't\u1e5bt\u012by\u0101\u1e25' gloss='plural' | attempt failed: v105: premise too short",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T12:54:39"
  },
  {
   "id": "svacchan-m24--p09-v0201",
@@ -139670,13 +139670,13 @@
     225
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced) | +tail folded",
+  "worker": "w1",
+  "note": "0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]; schema fail: [{'type': 'too_short', 'loc': ('items',), 'msg': 'List should have at least 1 item after validation, not 0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T13:03:28"
  },
  {
   "id": "svacchan-m24--p10-v0226",
@@ -139711,13 +139711,13 @@
     249
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w2",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v227: question rejected | attempt failed: v227: l2 too short | attempt failed: v227: question rejected | attempt failed: v226: question rejected",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T12:56:10"
  },
  {
   "id": "svacchan-m24--p17-v0401",
@@ -139752,13 +139752,13 @@
     424
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w2",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v402: question rejected | attempt failed: v401: question rejected | attempt failed: v403: question rejected | attempt failed: split after schema fail v403: question rejected; v414: question rejected",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T12:57:56"
  },
  {
   "id": "svacchan-m24--p20-v0476",
@@ -139793,13 +139793,13 @@
     499
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w3",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v479: l2 too short | attempt failed: v476: question rejected | attempt failed: v479: l2 too short | attempt failed: v479: l2 too short",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T12:57:46"
  },
  {
   "id": "svacchan-m24--p21-v0501",
@@ -139834,13 +139834,13 @@
     524
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w3",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v501: question rejected | attempt failed: v501: l2 too short | attempt failed: v501: l2 too short | attempt failed: v501: question rejected",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T12:59:16"
  },
  {
   "id": "svacchan-m24--p22-v0526",
@@ -139875,13 +139875,13 @@
     549
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w2",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v533: l2 too short | attempt failed: v526: question rejected | attempt failed: v526: question rejected | attempt failed: v531: question rejected",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T12:59:32"
  },
  {
   "id": "svacchan-m24--p23-v0551",
@@ -139916,13 +139916,13 @@
     574
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w3",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v556: question rejected | attempt failed: v556: question rejected | attempt failed: v553: premise too short | attempt failed: v556: question rejected",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T13:01:11"
  },
  {
   "id": "svacchan-m24--p26-v0626",
@@ -139957,13 +139957,13 @@
     649
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w2",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v635: question rejected | attempt failed: v631: question rejected | attempt failed: v626: question rejected | attempt failed: v629: premise too short",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T13:01:13"
  },
  {
   "id": "svacchan-m24--p27-v0651",
@@ -139998,13 +139998,13 @@
     674
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w3",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v654: l2 too short | attempt failed: v651: question rejected | attempt failed: v656: question rejected | attempt failed: v651: question rejected",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T13:03:00"
  },
  {
   "id": "svacchan-m24--p30-v0726",
@@ -140039,13 +140039,13 @@
     749
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w2",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v726: l2 too short | attempt failed: v726: question rejected | attempt failed: split after schema fail v726: l2 too short; v740: surface drift (3 vs 4) | attempt failed: v726: question rejected",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T13:03:40"
  },
  {
   "id": "svacchan-m24--p31-v0751",
@@ -140080,13 +140080,13 @@
     774
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "failed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w3",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v758: question rejected | attempt failed: v760: l2 too short | attempt failed: v760: l2 too short | attempt failed: v758: question rejected",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T13:08:33"
  },
  {
   "id": "svacchan-m24--p32-v0776",
@@ -140121,13 +140121,13 @@
     799
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "claimed",
+  "attempts": 4,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w1",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v776: l2 too short | attempt failed: v780: l2 too short | attempt failed: v780: l2 too short",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T13:08:48"
  },
  {
   "id": "svacchan-m24--p34-v0826",
@@ -140162,13 +140162,13 @@
     849
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "claimed",
+  "attempts": 3,
   "max_attempts": 4,
-  "worker": null,
-  "note": "merged to 24-verse window (floor enforced)",
+  "worker": "w2",
+  "note": "merged to 24-verse window (floor enforced) | attempt failed: v826: l2 too short | attempt failed: v826: l2 too short",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T13:07:55"
  },
  {
   "id": "svacchan-m24--p35-v0851",
@@ -140203,13 +140203,13 @@
     874
    ]
   },
-  "status": "pending",
-  "attempts": 0,
+  "status": "claimed",
+  "attempts": 1,
   "max_attempts": 4,
-  "worker": null,
+  "worker": "w3",
   "note": "merged to 24-verse window (floor enforced)",
   "created": "2026-11-11T12:45:24",
-  "updated": "2026-11-11T12:45:24"
+  "updated": "2026-11-11T13:08:35"
  },
  {
   "id": "svacchan-m24--p38-v0926",
