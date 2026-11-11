@@ -1,0 +1,97 @@
+{
+ "song": "kul-p03",
+ "items": [
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "strīdhanādiṣu",
+     "gloss": "woman-wealth-and-others",
+     "grounds": "locative plural neuter of compound strī-dhana-ādi",
+     "morph": "compound+loc.pl.n"
+    },
+    {
+     "surface": "saṃsaktaḥ",
+     "gloss": "attached",
+     "grounds": "nominative singular masculine participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "third singular passive present of root muc",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is one attached to woman and wealth never liberated?",
+   "premises": [
+    "attachment to woman and wealth binds",
+    "liberation is not attained while bound",
+    "such attachment persists ever"
+   ],
+   "inference": "attachment to woman and wealth prevents liberation",
+   "uncertainties": [
+    "exact scope of ādi in compound"
+   ],
+   "plain_english": "One attached to woman, wealth, and the like is never liberated."
+  },
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "mūḍhāḥ",
+     "gloss": "fools",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parokṣam",
+     "gloss": "hidden",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "icchanti",
+     "gloss": "desire",
+     "grounds": "third plural active present of root iṣ",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive singular of second person pronoun",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "māyāvimohitāḥ",
+     "gloss": "maya-deluded",
+     "grounds": "nominative plural masculine participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do fools deluded by maya desire the hidden?",
+   "premises": [
+    "fools are deluded by maya",
+    "deluded fools desire what is hidden",
+    "the hidden is not directly grasped"
+   ],
+   "inference": "maya-delusion makes fools desire the hidden",
+   "uncertainties": [
+    "whether parokṣam is adverb or adjective"
+   ],
+   "plain_english": "Fools deluded by your maya desire the hidden."
+  }
+ ]
+}

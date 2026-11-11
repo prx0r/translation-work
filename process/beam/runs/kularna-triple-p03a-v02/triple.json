@@ -1,0 +1,109 @@
+{
+ "song": "kul-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehāntaraprāptiḥ",
+     "gloss": "body-other-attainment",
+     "grounds": "compound deha+antara+prāpti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gṛhāt",
+     "gloss": "from-house",
+     "grounds": "ablative of origin",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "gṛham",
+     "gloss": "to-house",
+     "grounds": "accusative of destination",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "simile particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āgataḥ",
+     "gloss": "arrived",
+     "grounds": "past participle of ā-gam",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is rebirth into another body described here?",
+   "premises": [
+    "rebirth is like moving houses",
+    "the old body is left behind",
+    "a new body is attained"
+   ],
+   "inference": "transmigration is compared to changing residence",
+   "uncertainties": [
+    "exact grammatical role of āgataḥ"
+   ],
+   "plain_english": "Thus attainment of another body is like one who has arrived from one house to another."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "inferential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "santyajya",
+     "gloss": "abandoning",
+     "grounds": "absolutive of sam-tyaj",
+     "morph": "(absol.)"
+    },
+    {
+     "surface": "saṃsāram",
+     "gloss": "samsara",
+     "grounds": "object of abandonment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattvaniṣṭhaḥ",
+     "gloss": "truth-devoted",
+     "grounds": "compound tattva+niṣṭha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "predicate adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt."
+    }
+   ],
+   "question": "What conduct is prescribed for one devoted to truth?",
+   "premises": [
+    "therefore one should abandon samsara",
+    "one should be devoted to truth",
+    "such a person may be happy"
+   ],
+   "inference": "renunciation of samsara with truth-devotion leads to happiness",
+   "uncertainties": [
+    "subject of bhavet is implicit"
+   ],
+   "plain_english": "Therefore, abandoning samsara and being devoted to truth, one may be happy."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "song": "kul-p02",
+ "items": [
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "śuṣyate",
+     "gloss": "dries",
+     "grounds": "intransitive drying",
+     "morph": "3.sg.act-pres root śuṣ"
+    },
+    {
+     "surface": "sāgarajalaṃ",
+     "gloss": "ocean-water",
+     "grounds": "compound ocean+water",
+     "morph": "acc.sg.n compound"
+    },
+    {
+     "surface": "śarīre",
+     "gloss": "body",
+     "grounds": "locative of residence",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "devi",
+     "grounds": "address to goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kathā",
+     "gloss": "tale",
+     "grounds": "narrative remainder",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What tale remains when ocean water dries in the body?",
+   "premises": [
+    "ocean water dries in the body",
+    "the goddess is addressed directly",
+    "the question asks what tale remains"
+   ],
+   "inference": "the verse poses a rhetorical question about bodily impermanence",
+   "uncertainties": [
+    "exact syntactic role of devi in the question"
+   ],
+   "plain_english": "Devi, when ocean water dries in the body, what tale remains?"
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "samprāpya",
+     "gloss": "having-obtained",
+     "grounds": "gerund of attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "modifies portion",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "aṃśena",
+     "gloss": "portion",
+     "grounds": "instrumental means",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "object abandoned",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tyajati",
+     "gloss": "abandons",
+     "grounds": "act of relinquishment",
+     "morph": "3.sg.act-pres root tyaj"
+    },
+    {
+     "surface": "pūrvajam",
+     "gloss": "former",
+     "grounds": "modifies body",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What former body is abandoned after obtaining the supreme portion?",
+   "premises": [
+    "one obtains the supreme portion",
+    "one abandons the former body",
+    "the abandonment follows attainment"
+   ],
+   "inference": "attainment of the supreme portion leads to relinquishing the former body",
+   "uncertainties": [
+    "whether paramaṃ modifies aṃśena or dehaṃ"
+   ],
+   "plain_english": "Having obtained the supreme portion, one abandons the former body."
+  }
+ ]
+}
