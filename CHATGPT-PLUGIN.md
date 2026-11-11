@@ -8,17 +8,14 @@ call its tools, and (via the repo) edit and extend it.*
 Remote MCP URL (streamable HTTP, no auth yet):
 
 ```
-https://preferred-decided-homework-selling.trycloudflare.com/mcp
+https://mcp.svatantrya.net/mcp
 ```
 
 In ChatGPT: **Settings → Connectors → Add custom connector → MCP server URL**
 paste the URL above. Tools appear as `shastra__*`.
-Note: this is a Cloudflare **quick tunnel** — the hostname changes whenever
-the tunnel restarts. Get the current URL with:
-
-```bash
-journalctl -u tw-mcp-tunnel --no-pager -n 60 | grep -oE "https://[a-z0-9-]+\.trycloudflare\.com" | tail -1
-```
+This is a **permanent named tunnel** on svatantrya.net — the URL does not
+change across restarts or reboots. Serving chain: `tw-mcp.service`
+(127.0.0.1:8930) → named tunnel `94250caf…` → `mcp.svatantrya.net`.
 
 ## 2. What it exposes (18 tools)
 

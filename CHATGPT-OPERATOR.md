@@ -5,10 +5,8 @@ drafting; systemd keeps them alive. You control via the MCP tools below.*
 
 ## 0. Connect
 
-MCP URL (streamable HTTP): `https://preferred-decided-homework-selling.trycloudflare.com/mcp`
-Tools appear as `shastra__*`. Quick-tunnel hostname rotates on restart:
-ask the owner for the current one, or read
-`journalctl -u tw-mcp-tunnel | grep trycloudflare`.
+MCP URL (streamable HTTP): `https://mcp.svatantrya.net/mcp`
+Tools appear as `shastra__*`. Permanent: `https://mcp.svatantrya.net/mcp` (named tunnel, survives reboots).
 
 ## 1. Your control surface (MCP tools)
 
