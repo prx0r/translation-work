@@ -1,0 +1,655 @@
+{
+ "song": "sva-p42",
+ "items": [
+  {
+   "verse": 1026,
+   "rows": [
+    {
+     "surface": "lokān",
+     "gloss": "worlds",
+     "grounds": "object of causing and manifesting",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhāvayati",
+     "gloss": "causes-to-be",
+     "grounds": "present active verbal action",
+     "morph": "3.sg.act-pres bhū-caus"
+    },
+    {
+     "surface": "prodbhūtavibhūtikān",
+     "gloss": "with-manifested-powers",
+     "grounds": "describes the worlds; compound adjective",
+     "morph": "m.acc.pl (compound)"
+    },
+    {
+     "surface": "sampādayati",
+     "gloss": "brings-about",
+     "grounds": "present active verbal action, parallel to bhāvayati",
+     "morph": "3.sg.act-pres sam-pad-caus"
+    }
+   ],
+   "question": "What does the agent do to the worlds?",
+   "premises": [
+    "The agent causes the worlds to be.",
+    "The worlds are characterized by manifested powers.",
+    "The agent brings those worlds about."
+   ],
+   "inference": "The agent both manifests and accomplishes worlds endowed with powers.",
+   "uncertainties": [],
+   "plain_english": "He causes the worlds to be and brings about worlds endowed with manifested powers."
+  },
+  {
+   "verse": 1027,
+   "rows": [
+    {
+     "surface": "tripathāpathamākāśaṃ",
+     "gloss": "sky-path-of-three-ways",
+     "grounds": "compound object describing space traversed in three ways",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "gaṅgāpravāhāt",
+     "gloss": "from-flow-of-Gaṅgā",
+     "grounds": "ablative source or reason; compound",
+     "morph": "m.abl.sg (compound)"
+    }
+   ],
+   "question": "What is identified through the flow of the Gaṅgā?",
+   "premises": [
+    "The term refers to the sky as a path of three ways.",
+    "This identification is connected with the flow of the Gaṅgā."
+   ],
+   "inference": "The sky is described as the threefold path because of the Gaṅgā's course.",
+   "uncertainties": [],
+   "plain_english": "It is the sky, the path of three ways, because of the flow of the Gaṅgā."
+  },
+  {
+   "verse": 1028,
+   "rows": [
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "predicate noun in relative clause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasyāḥ",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun indicating possession",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "correlative demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmarūpā",
+     "gloss": "desire-form",
+     "grounds": "name or epithet; compound",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "Why is she called Kāmarūpā?",
+   "premises": [
+    "A certain form belongs to her.",
+    "She is identified by that form.",
+    "Her name is Kāmarūpā."
+   ],
+   "inference": "She is called Kāmarūpā because that is her form.",
+   "uncertainties": [],
+   "plain_english": "She whose form that is, is called Kāmarūpā."
+  },
+  {
+   "verse": 1029,
+   "rows": [
+    {
+     "surface": "bubhukṣūṇāṃ",
+     "gloss": "of-those-desiring-enjoyment",
+     "grounds": "genitive plural of desirous persons",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prāpyatveneti",
+     "gloss": "by-being-attainable-thus",
+     "grounds": "instrumental abstract with quotative particle; internal sandhi",
+     "morph": "n.ins.sg + (indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "subject indicating what remains to be supplied",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the remainder to be understood here?",
+   "premises": [
+    "The context concerns those desiring enjoyment.",
+    "Something is stated as being attainable by them.",
+    "The rest is to be supplied accordingly."
+   ],
+   "inference": "The remainder means it is attainable by those who desire enjoyment.",
+   "uncertainties": [],
+   "plain_english": "The remainder is: because it is attainable by those who desire enjoyment."
+  },
+  {
+   "verse": 1030,
+   "rows": [
+    {
+     "surface": "aṣṭadhetyaṇimādirūpatayā",
+     "gloss": "eightfold-thus-as-aṇimā-etc-form",
+     "grounds": "instrumental explanation with quotative; compound expressing manner",
+     "morph": "(indecl.) + (indecl.) + f.ins.sg (compound)"
+    }
+   ],
+   "question": "In what manner is the eightfold division understood?",
+   "premises": [
+    "The division is described as eightfold.",
+    "It takes the form of aṇimā and the other powers."
+   ],
+   "inference": "The eightfold division is understood as the forms of aṇimā and the rest.",
+   "uncertainties": [],
+   "plain_english": "It is eightfold, that is, in the form of aṇimā and the other powers."
+  },
+  {
+   "verse": 1031,
+   "rows": [
+    {
+     "surface": "purasya",
+     "gloss": "of-the-city",
+     "grounds": "genitive specifying what is named",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "predicate noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is being identified in this statement?",
+   "premises": [
+    "The statement refers to a city.",
+    "It specifies a name."
+   ],
+   "inference": "The statement gives the name of the city.",
+   "uncertainties": [],
+   "plain_english": "This is the name of the city."
+  },
+  {
+   "verse": 1032,
+   "rows": [
+    {
+     "surface": "ambaramāntaraṃ",
+     "gloss": "space-inner",
+     "grounds": "compound identifying inner space or garment",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vastram",
+     "gloss": "garment",
+     "grounds": "noun equated with the preceding term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parīdhānaṃ",
+     "gloss": "covering",
+     "grounds": "noun indicating outer covering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyam",
+     "gloss": "outer",
+     "grounds": "adjective qualifying the outer covering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the inner and outer garments distinguished?",
+   "premises": [
+    "Space is identified as the inner garment.",
+    "There is also an outer covering.",
+    "The outer covering is contrasted with the inner one."
+   ],
+   "inference": "The inner garment is space, while the outer covering is external.",
+   "uncertainties": [],
+   "plain_english": "Space is the inner garment, but the outer covering is external."
+  },
+  {
+   "verse": 1033,
+   "rows": [
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "distinction",
+     "grounds": "noun indicating a specific difference",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does this term indicate in context?",
+   "premises": [
+    "The term denotes a distinction.",
+    "It marks a specific difference from what precedes."
+   ],
+   "inference": "The statement points out a particular distinction.",
+   "uncertainties": [],
+   "plain_english": "This is the distinction."
+  },
+  {
+   "verse": 1034,
+   "rows": [
+    {
+     "surface": "catuḥṣaṣṭyaṃśena",
+     "gloss": "by-sixty-fourth-part",
+     "grounds": "instrumental indicating measure or portion; compound",
+     "morph": "m.ins.sg (compound)"
+    }
+   ],
+   "question": "By what portion is the measure specified?",
+   "premises": [
+    "A portion is specified as one sixty-fourth.",
+    "The instrumental case indicates the measure involved."
+   ],
+   "inference": "The specification is made by a sixty-fourth part.",
+   "uncertainties": [],
+   "plain_english": "By a sixty-fourth part."
+  },
+  {
+   "verse": 1035,
+   "rows": [
+    {
+     "surface": "adhiṣṭhāya",
+     "gloss": "having-presided-over",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) adhi-sthā"
+    },
+    {
+     "surface": "sthitetyarthaḥ",
+     "gloss": "standing-thus-meaning",
+     "grounds": "nominalized explanation with quotative and sandhi",
+     "morph": "f.nom.sg + (indecl.) + m.nom.sg"
+    }
+   ],
+   "question": "What is the intended meaning of the statement?",
+   "premises": [
+    "The action of presiding over is indicated.",
+    "The explanation states the resulting condition as standing."
+   ],
+   "inference": "The meaning is that, having presided over, it remains established.",
+   "uncertainties": [],
+   "plain_english": "The meaning is: having presided over, it stands established."
+  },
+  {
+   "verse": 1036,
+   "rows": [
+    {
+     "surface": "medhā",
+     "gloss": "intelligence",
+     "grounds": "first term in a definitional list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nivīkalpapratibhā",
+     "gloss": "non-conceptual-insight",
+     "grounds": "compound defining medhā",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "buddhiradhyavasāyinī",
+     "gloss": "intellect-determinative",
+     "grounds": "compound defining buddhi; internal sandhi",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "dhīḥ",
+     "gloss": "understanding",
+     "grounds": "term identified with determinative intellect",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are medhā, buddhi, and dhīḥ defined here?",
+   "premises": [
+    "Medhā is defined as non-conceptual insight.",
+    "Buddhi is defined as determinative.",
+    "Dhīḥ is identified with that determinative intellect."
+   ],
+   "inference": "The verse distinguishes insight, determinative intellect, and understanding by definition.",
+   "uncertainties": [],
+   "plain_english": "Medhā is non-conceptual insight; buddhi is determinative intellect, and that is dhīḥ."
+  },
+  {
+   "verse": 1037,
+   "rows": [
+    {
+     "surface": "paramā",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying the body or form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tanuḥ",
+     "gloss": "body",
+     "grounds": "noun denoting form or body",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What kind of body is being referred to?",
+   "premises": [
+    "The noun denotes a body or form.",
+    "It is qualified as supreme."
+   ],
+   "inference": "The reference is to the supreme body or form.",
+   "uncertainties": [],
+   "plain_english": "It is the supreme body."
+  },
+  {
+   "verse": 1038,
+   "rows": [
+    {
+     "surface": "prasiddhāḥ",
+     "gloss": "well-known",
+     "grounds": "predicate adjective describing subjects",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "evamanye'pi",
+     "gloss": "thus-others-also",
+     "grounds": "phrase extending the statement; includes sandhi and enclitic",
+     "morph": "(indecl.) + m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "vakṣyamāṇā",
+     "gloss": "to-be-stated",
+     "grounds": "future passive participle describing others",
+     "morph": "m.nom.pl (future-passive-participle vac)"
+    },
+    {
+     "surface": "jñātavyāḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating obligation to understand",
+     "morph": "m.nom.pl (gerundive jñā)"
+    }
+   ],
+   "question": "How should the others mentioned be understood?",
+   "premises": [
+    "Some are already well known.",
+    "Others will be stated later.",
+    "Those others must also be known in the same way."
+   ],
+   "inference": "Both the well-known and the forthcoming ones should be understood accordingly.",
+   "uncertainties": [],
+   "plain_english": "They are well known; likewise, others that will be stated should also be understood."
+  },
+  {
+   "verse": 1039,
+   "rows": [
+    {
+     "surface": "atilohitamityarthaḥ",
+     "gloss": "very-red-thus-meaning",
+     "grounds": "explanatory compound with quotative and sandhi",
+     "morph": "n.nom.sg + (indecl.) + m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the described quality?",
+   "premises": [
+    "The term expresses an intensified red color.",
+    "The statement gives its meaning explicitly."
+   ],
+   "inference": "The intended meaning is that it is very red.",
+   "uncertainties": [],
+   "plain_english": "The meaning is: very red."
+  },
+  {
+   "verse": 1040,
+   "rows": [
+    {
+     "surface": "tejomayaṃ",
+     "gloss": "made-of-fire",
+     "grounds": "adjective describing the world",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pradhānabhuvanam",
+     "gloss": "principal-world",
+     "grounds": "compound noun denoting the main world",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What is the nature of the principal world?",
+   "premises": [
+    "A principal world is identified.",
+    "It is described as made of fire or light."
+   ],
+   "inference": "The principal world is fiery in nature.",
+   "uncertainties": [],
+   "plain_english": "It is the principal world, made of fire."
+  },
+  {
+   "verse": 1041,
+   "rows": [
+    {
+     "surface": "bhaumāntarikṣajāṭharāgnirūpatayā",
+     "gloss": "as-form-of-earthly-atmospheric-digestive-fire",
+     "grounds": "instrumental compound expressing threefold fire form",
+     "morph": "f.ins.sg (compound)"
+    }
+   ],
+   "question": "In what threefold form is fire understood here?",
+   "premises": [
+    "Fire is described in a threefold aspect.",
+    "The aspects are earthly, atmospheric, and digestive."
+   ],
+   "inference": "Fire is understood as having earthly, atmospheric, and digestive forms.",
+   "uncertainties": [],
+   "plain_english": "In the form of earthly, atmospheric, and digestive fire."
+  },
+  {
+   "verse": 1042,
+   "rows": [
+    {
+     "surface": "padmarāgamayenetyarthāt",
+     "gloss": "made-of-ruby-thus-because-of-meaning",
+     "grounds": "ablative explanatory compound with quotative and sandhi",
+     "morph": "m.abl.sg + (indecl.) + m.abl.sg"
+    }
+   ],
+   "question": "Why is this description given in the text?",
+   "premises": [
+    "The object is described as made of ruby.",
+    "The statement gives this as the reason or meaning."
+   ],
+   "inference": "The description is given because it means made of ruby.",
+   "uncertainties": [],
+   "plain_english": "Because the meaning is that it is made of ruby."
+  },
+  {
+   "verse": 1043,
+   "rows": [
+    {
+     "surface": "dehāntaityarthāt",
+     "gloss": "within-body-thus-because-of-meaning",
+     "grounds": "ablative explanatory compound with quotative and sandhi",
+     "morph": "m.abl.sg + (indecl.) + m.abl.sg"
+    }
+   ],
+   "question": "What location is implied by this explanation?",
+   "premises": [
+    "The explanation refers to the inside of the body.",
+    "It is given as the intended meaning."
+   ],
+   "inference": "The implied location is within the body.",
+   "uncertainties": [],
+   "plain_english": "Because the meaning is: within the body."
+  },
+  {
+   "verse": 1044,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle closing a statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāgnerasyehodbhavo",
+     "gloss": "of-this-Śiva-fire-here-origin",
+     "grounds": "compound subject phrase with internal sandhi",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "yata",
+     "gloss": "because",
+     "grounds": "causal particle introducing reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktaḥ",
+     "gloss": "stated",
+     "grounds": "past passive participle indicating what was said",
+     "morph": "m.nom.sg (past-passive-participle vac)"
+    }
+   ],
+   "question": "Why is the origin of this Śiva-fire mentioned?",
+   "premises": [
+    "The origin of this Śiva-fire is referred to.",
+    "A reason is introduced for that reference.",
+    "It has been stated accordingly."
+   ],
+   "inference": "The origin of this Śiva-fire is mentioned because it was stated as such.",
+   "uncertainties": [],
+   "plain_english": "Thus, because the origin of this Śiva-fire here has been stated."
+  },
+  {
+   "verse": 1045,
+   "rows": [
+    {
+     "surface": "yo'nantaraṃ",
+     "gloss": "who-immediately-after",
+     "grounds": "relative pronoun with adverb; sandhi elision",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "nidīṣṭaḥ",
+     "gloss": "indicated",
+     "grounds": "past passive participle describing the referent",
+     "morph": "m.nom.sg (past-passive-participle diś)"
+    }
+   ],
+   "question": "Who is being referred to in this statement?",
+   "premises": [
+    "A referent is introduced by a relative pronoun.",
+    "That referent is indicated immediately after."
+   ],
+   "inference": "The statement refers to the one indicated immediately afterward.",
+   "uncertainties": [],
+   "plain_english": "He who is indicated immediately after."
+  },
+  {
+   "verse": 1046,
+   "rows": [
+    {
+     "surface": "vāyvadhiṣṭhātṛdevaḥ",
+     "gloss": "wind-presiding-deity",
+     "grounds": "compound naming the deity presiding over wind",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "sthitaityarthaḥ",
+     "gloss": "situated-thus-meaning",
+     "grounds": "explanatory compound with quotative and sandhi",
+     "morph": "m.nom.sg + (indecl.) + m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the deity's described position?",
+   "premises": [
+    "The deity presiding over wind is named.",
+    "The explanation states that this deity is situated there."
+   ],
+   "inference": "The meaning is that the presiding deity of wind is situated there.",
+   "uncertainties": [],
+   "plain_english": "The meaning is that the presiding deity of wind is situated there."
+  },
+  {
+   "verse": 1047,
+   "rows": [
+    {
+     "surface": "nānābharaṇacitrāṅgaś",
+     "gloss": "with-various-ornaments-brilliant-limbs",
+     "grounds": "compound adjective describing appearance; final sandhi",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "citramālyānulepanaḥ",
+     "gloss": "with-brilliant-garlands-unguents",
+     "grounds": "compound adjective describing adornment",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "How is the figure's appearance described?",
+   "premises": [
+    "The figure has limbs adorned with various ornaments.",
+    "The figure wears brilliant garlands and unguents."
+   ],
+   "inference": "The figure is described as richly and colorfully adorned.",
+   "uncertainties": [],
+   "plain_english": "He has limbs adorned with various ornaments and is decorated with brilliant garlands and unguents."
+  },
+  {
+   "verse": 1048,
+   "rows": [
+    {
+     "surface": "prayuñjīta",
+     "gloss": "one-should-employ",
+     "grounds": "optative injunction prescribing action",
+     "morph": "3.sg.mid-opt pra-yuj"
+    }
+   ],
+   "question": "What action is prescribed by this statement?",
+   "premises": [
+    "The verb is in the optative mood.",
+    "It expresses a prescribed application or use."
+   ],
+   "inference": "The statement prescribes that one should employ it.",
+   "uncertainties": [],
+   "plain_english": "One should employ it."
+  },
+  {
+   "verse": 1049,
+   "rows": [
+    {
+     "surface": "veditavyamiti",
+     "gloss": "to-be-known-thus",
+     "grounds": "gerundive with quotative particle",
+     "morph": "n.nom.sg (gerundive vid) + (indecl.)"
+    },
+    {
+     "surface": "dīkṣāyāmupasthānādipūrvaṃ",
+     "gloss": "in-initiation-preceded-by-approach-etc",
+     "grounds": "locative context with compound indicating prior rites; internal sandhi",
+     "morph": "f.loc.sg + n.acc.sg (compound)"
+    },
+    {
+     "surface": "śodhyatvena",
+     "gloss": "as-to-be-purified",
+     "grounds": "instrumental abstract indicating status in ritual",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "How should this be understood in the context of initiation?",
+   "premises": [
+    "The context is initiation preceded by approach and related rites.",
+    "Something must be known in that context.",
+    "It is to be understood as something to be purified."
+   ],
+   "inference": "In initiation, preceded by approach and so on, it should be known as that which is to be purified.",
+   "uncertainties": [],
+   "plain_english": "It should be known that, in initiation preceded by approach and the like, it is to be treated as what must be purified."
+  }
+ ]
+}
