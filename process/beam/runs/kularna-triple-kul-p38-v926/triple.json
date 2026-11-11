@@ -1,0 +1,635 @@
+{
+ "song": "kul-p38",
+ "items": [
+  {
+   "verse": 926,
+   "rows": [
+    {
+     "surface": "tadanto",
+     "gloss": "that-end",
+     "grounds": "compound of tat and anta",
+     "morph": "compound"
+    },
+    {
+     "surface": "jāgrad",
+     "gloss": "waking",
+     "grounds": "present participle of jāgṛ",
+     "morph": "participle"
+    },
+    {
+     "surface": "ityuktaḥ",
+     "gloss": "thus-called",
+     "grounds": "iti plus uktaḥ",
+     "morph": "participle"
+    },
+    {
+     "surface": "conmanāḥ",
+     "gloss": "mind-stilled",
+     "grounds": "compound of citta and manas",
+     "morph": "compound"
+    },
+    {
+     "surface": "svapnaḥ",
+     "gloss": "dream",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present of vac",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is the dream state described here?",
+   "premises": [
+    "waking is called that-end",
+    "mind-stilled dream is named"
+   ],
+   "inference": "The verse names a stilled-mind dream as the waking-end state.",
+   "uncertainties": [
+    "compound analysis approximate"
+   ],
+   "plain_english": "The dream is called the waking-end state when the mind is stilled."
+  },
+  {
+   "verse": 927,
+   "rows": [
+    {
+     "surface": "saptollāsaṃ",
+     "gloss": "seven-delights",
+     "grounds": "compound of sapta and ullāsa",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "present of vid",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "liberated",
+     "grounds": "past participle of muc",
+     "morph": "participle"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaulika",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is called liberated and kaulika?",
+   "premises": [
+    "one knows seven delights",
+    "he is liberated and kaulika"
+   ],
+   "inference": "Knowing the seven delights marks liberation and kaulika identity.",
+   "uncertainties": [
+    "saptollāsaṃ compound sense"
+   ],
+   "plain_english": "He who knows the seven delights is liberated and is a kaulika."
+  },
+  {
+   "verse": 928,
+   "rows": [
+    {
+     "surface": "nivṛtte",
+     "gloss": "ceased",
+     "grounds": "locative absolute of nivṛt",
+     "morph": "loc.abs"
+    },
+    {
+     "surface": "bhairavīcakre",
+     "gloss": "bhairavi-circle",
+     "grounds": "compound of bhairavī and cakra",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "letters",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separate",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separate",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens when the bhairavi circle ceases?",
+   "premises": [
+    "bhairavi circle has ceased",
+    "all letters become separate"
+   ],
+   "inference": "After the bhairavi circle ceases, all letters stand apart.",
+   "uncertainties": [
+    "nivṛtte absolute reading"
+   ],
+   "plain_english": "When the bhairavi circle has ceased, all letters are separate."
+  },
+  {
+   "verse": 929,
+   "rows": [
+    {
+     "surface": "cakre'smin",
+     "gloss": "in-this-circle",
+     "grounds": "locative of cakra with asmin",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "present of as",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śivasamāḥ",
+     "gloss": "shiva-equal",
+     "grounds": "compound of śiva and samā",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "past participle of smṛ",
+     "morph": "participle"
+    }
+   ],
+   "question": "Is there difference in this circle?",
+   "premises": [
+    "in this circle no difference exists",
+    "all are remembered shiva-equal"
+   ],
+   "inference": "Within this circle there is no difference; all are regarded as equal to Shiva.",
+   "uncertainties": [
+    "cakre'smin sandhi form"
+   ],
+   "plain_english": "In this circle there is no difference; all are remembered as equal to Shiva."
+  },
+  {
+   "verse": 930,
+   "rows": [
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "present of yā",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "śrīcakramadhye",
+     "gloss": "shri-circle-middle",
+     "grounds": "compound of śrī cakra and madhya",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caikatvaṃ",
+     "gloss": "oneness",
+     "grounds": "compound of ca and ekatva",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvamānavāḥ",
+     "gloss": "all-humans",
+     "grounds": "compound of sarva and mānava",
+     "morph": "compound"
+    }
+   ],
+   "question": "What happens in the middle of the shri circle?",
+   "premises": [
+    "all humans go there",
+    "oneness is attained"
+   ],
+   "inference": "All humans reach oneness in the middle of the shri circle.",
+   "uncertainties": [
+    "caikatvaṃ sandhi reading"
+   ],
+   "plain_english": "All humans attain oneness in the middle of the shri circle."
+  },
+  {
+   "verse": 931,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīcakramadhye",
+     "gloss": "shri-circle-middle",
+     "grounds": "compound of śrī cakra and madhya",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātibhedaḥ",
+     "gloss": "birth-difference",
+     "grounds": "compound of jāti and bheda",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "passive present of vid",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Is birth difference found in the shri circle?",
+   "premises": [
+    "thus in shri circle middle",
+    "birth difference is not found"
+   ],
+   "inference": "In the middle of the shri circle no birth difference is found.",
+   "uncertainties": [
+    "jātibheda compound sense"
+   ],
+   "plain_english": "Thus in the middle of the shri circle no birth difference is found."
+  },
+  {
+   "verse": 932,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "compound of tathā and eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "cakramadhye",
+     "gloss": "circle-middle",
+     "grounds": "compound of cakra and madhya",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvamānavāḥ",
+     "gloss": "all-humans",
+     "grounds": "compound of sarva and mānava",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the relation of deities and humans?",
+   "premises": [
+    "likewise in circle middle",
+    "deities are all humans"
+   ],
+   "inference": "In the circle middle deities and all humans are identified.",
+   "uncertainties": [
+    "cakramadhye reference"
+   ],
+   "plain_english": "Likewise in the circle middle the deities are all humans."
+  },
+  {
+   "verse": 933,
+   "rows": [
+    {
+     "surface": "vede",
+     "gloss": "in-veda",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "established",
+     "grounds": "past participle of sthā",
+     "morph": "participle"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abravīt",
+     "gloss": "said",
+     "grounds": "imperfect of brū",
+     "morph": "3.sg.act-impf"
+    }
+   ],
+   "question": "What is established in the veda?",
+   "premises": [
+    "in veda also established thus",
+    "all indeed are brahman said"
+   ],
+   "inference": "The veda establishes that all are indeed brahman.",
+   "uncertainties": [
+    "speaker attribution"
+   ],
+   "plain_english": "Thus it is established in the veda: all indeed are brahman, it was said."
+  },
+  {
+   "verse": 934,
+   "rows": [
+    {
+     "surface": "madrūpāḥ",
+     "gloss": "my-form",
+     "grounds": "compound of mad and rūpa",
+     "morph": "compound"
+    },
+    {
+     "surface": "puruṣāḥ",
+     "gloss": "men",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tvadrūpāḥ",
+     "gloss": "your-form",
+     "grounds": "compound of tvad and rūpa",
+     "morph": "compound"
+    },
+    {
+     "surface": "pramadāḥ",
+     "gloss": "women",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What forms do men and women take?",
+   "premises": [
+    "all men are my form",
+    "women are your form dear"
+   ],
+   "inference": "All men are the speaker's form and women are the dear one's form.",
+   "uncertainties": [
+    "dialogue voices"
+   ],
+   "plain_english": "All men are my form, women are your form, dear one."
+  },
+  {
+   "verse": 935,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhakṣayanti",
+     "gloss": "devour",
+     "grounds": "present of bhakṣ",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginis",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "accusative singular",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "śape",
+     "gloss": "swear",
+     "grounds": "present of śap",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-leader",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who devours him and who is sworn to?",
+   "premises": [
+    "yoginis devour him",
+    "I swear to you kula-leader"
+   ],
+   "inference": "The yoginis devour him, and the speaker swears to the kula leader.",
+   "uncertainties": [
+    "ritual context"
+   ],
+   "plain_english": "The yoginis devour him; I swear to you, kula leader."
+  },
+  {
+   "verse": 936,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mithunaṃ",
+     "gloss": "union",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund of kṛ",
+     "morph": "gerund"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "samupaveśayet",
+     "gloss": "seat-together",
+     "grounds": "causative optative of upaviś",
+     "morph": "3.sg.caus-opt"
+    }
+   ],
+   "question": "What alternative practice is described here?",
+   "premises": [
+    "or having made union",
+    "gradually seat together"
+   ],
+   "inference": "Alternatively, after making union, one gradually seats them together.",
+   "uncertainties": [
+    "ritual referents"
+   ],
+   "plain_english": "Or, having made union, one gradually seats them together."
+  },
+  {
+   "verse": 937,
+   "rows": [
+    {
+     "surface": "śivaśaktidhiyā",
+     "gloss": "shiva-shakti-mind",
+     "grounds": "compound of śiva śakti and dhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cakramadhye",
+     "gloss": "circle-middle",
+     "grounds": "compound of cakra and madhya",
+     "morph": "compound"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "worship",
+     "grounds": "optative of samarc",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How should all be worshipped in the circle?",
+   "premises": [
+    "with shiva-shakti mind",
+    "all in circle middle worship"
+   ],
+   "inference": "With shiva-shakti mind, one worships all in the circle middle.",
+   "uncertainties": [
+    "dhiyā instrumental sense"
+   ],
+   "plain_english": "With shiva-shakti mind, one worships all in the middle of the circle."
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "song": "kul-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "asatyam",
+     "gloss": "untrue",
+     "grounds": "asatya = not true; neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "true",
+     "grounds": "satya = true; neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of as, 'may be'",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kaulikānāṃ",
+     "gloss": "of-Kaulikas",
+     "grounds": "kaulika = Kaulika; genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "Kuleshvari",
+     "grounds": "kuleśvarī = mistress of Kula; vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How can the untrue become true for Kaulikas?",
+   "premises": [
+    "Untrue things may be true for Kaulikas.",
+    "Kuleshvari is directly addressed."
+   ],
+   "inference": "The Kaula view can transform apparent untruth into truth.",
+   "uncertainties": [
+    "Exact syntactic role of asatyam is context-dependent."
+   ],
+   "plain_english": "Even what is untrue may be true for the Kaulikas, O Kuleshvari."
+  }
+ ]
+}

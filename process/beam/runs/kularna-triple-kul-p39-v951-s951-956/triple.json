@@ -1,0 +1,251 @@
+{
+ "song": "kul-p39",
+ "items": [
+  {
+   "verse": 951,
+   "rows": [
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "instrumental of manas",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "mātrasamvedyaṃ",
+     "gloss": "perceived-by-senses",
+     "grounds": "compound adjective in accusative",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tajjñānaṃ",
+     "gloss": "that-knowledge",
+     "grounds": "compound of tat and jñāna",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "brahmasaṃjñitam",
+     "gloss": "called-brahman",
+     "grounds": "compound adjective in accusative",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is knowledge perceived by the mind called?",
+   "premises": [
+    "mind-perceived knowledge is named brahman",
+    "the verse gives a four-token definition"
+   ],
+   "inference": "knowledge perceived by mind is called brahman",
+   "uncertainties": [
+    "exact case role of mātrasamvedyaṃ depends on syntax"
+   ],
+   "plain_english": "Knowledge perceived by the mind is called brahman."
+  },
+  {
+   "verse": 952,
+   "rows": [
+    {
+     "surface": "parajīvaikadhāmajño",
+     "gloss": "knowing-one-abode",
+     "grounds": "compound adjective in nominative",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "yogaviducyate",
+     "gloss": "called-yoga-knower",
+     "grounds": "passive verb with compound subject",
+     "morph": "v.3.sg.pass.pres"
+    }
+   ],
+   "question": "Who is called a knower of yoga?",
+   "premises": [
+    "the yogin knows one abode",
+    "such a yogin is called yoga-knower"
+   ],
+   "inference": "a yogin who knows the one abode is called a yoga-knower",
+   "uncertainties": [
+    "compound internal members are not split"
+   ],
+   "plain_english": "The yogin who knows the one abode is called a knower of yoga."
+  },
+  {
+   "verse": 953,
+   "rows": [
+    {
+     "surface": "svarūpaśūnyaṃ",
+     "gloss": "empty-of-own-form",
+     "grounds": "compound adjective in accusative",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "taddhyānaṃ",
+     "gloss": "that-meditation",
+     "grounds": "compound noun in nominative or accusative",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "samādhirabhidhīyate",
+     "gloss": "is-called-samadhi",
+     "grounds": "passive verb with compound subject",
+     "morph": "v.3.sg.pass.pres"
+    }
+   ],
+   "question": "What meditation is called samadhi?",
+   "premises": [
+    "meditation empty of own form is named samadhi",
+    "the verse defines samadhi by emptiness"
+   ],
+   "inference": "meditation empty of own form is called samadhi",
+   "uncertainties": [
+    "case of taddhyānaṃ is not fully fixed"
+   ],
+   "plain_english": "Meditation empty of its own form is called samadhi."
+  },
+  {
+   "verse": 954,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "self-manifested",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśite",
+     "gloss": "in-truth",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "tattve",
+     "gloss": "in-tattva",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tatkṣaṇāttanmayo",
+     "gloss": "then-instant",
+     "grounds": "compound adjective in nominative",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.opt.act"
+    }
+   ],
+   "question": "What happens when truth is self-manifested?",
+   "premises": [
+    "truth becomes self-manifested",
+    "one becomes identified with it instantly"
+   ],
+   "inference": "when truth is self-manifested one becomes identified with it in that instant",
+   "uncertainties": [
+    "prakāśite may modify tattve rather than stand alone"
+   ],
+   "plain_english": "When truth is self-manifested, one becomes identified with it in that instant."
+  },
+  {
+   "verse": 955,
+   "rows": [
+    {
+     "surface": "niśvāsocchvāsahīnaśca",
+     "gloss": "without-inhalation-exhalation",
+     "grounds": "compound adjective with fused ca",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "niścitaṃ",
+     "gloss": "certainly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukta",
+     "gloss": "liberated",
+     "grounds": "adjective or past participle",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "pron.nom.sg.m"
+    }
+   ],
+   "question": "Who is certainly liberated without breath?",
+   "premises": [
+    "one without inhalation and exhalation is certainly liberated",
+    "the verse asserts this with eva"
+   ],
+   "inference": "one without inhalation and exhalation is certainly liberated",
+   "uncertainties": [
+    "mukta may be adjectival or participial"
+   ],
+   "plain_english": "One without inhalation and exhalation is certainly liberated."
+  },
+  {
+   "verse": 956,
+   "rows": [
+    {
+     "surface": "ya",
+     "gloss": "who",
+     "grounds": "relative pronoun nominative",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "āste",
+     "gloss": "sits",
+     "grounds": "middle verb",
+     "morph": "v.3.sg.mid.pres"
+    },
+    {
+     "surface": "mṛtavatsākṣāt",
+     "gloss": "like-dead",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvanmuktaḥ",
+     "gloss": "living-liberated",
+     "grounds": "compound adjective in nominative",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun nominative",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb",
+     "morph": "v.3.sg.pass.pres"
+    }
+   ],
+   "question": "Who is called living-liberated while sitting like dead?",
+   "premises": [
+    "one who sits like dead is called living-liberated",
+    "the verse names this state jīvanmukta"
+   ],
+   "inference": "one who sits like dead is called living-liberated",
+   "uncertainties": [
+    "mṛtavatsākṣāt may be adverbial or adjectival"
+   ],
+   "plain_english": "One who sits like dead is called living-liberated."
+  }
+ ]
+}

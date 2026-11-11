@@ -200,8 +200,28 @@ def stage_assemble(work, song):
     for o in l0:
         by.setdefault(o['verse_id'], []).append(o)
     am, l2 = [], []
+    import hashlib as _h
+    try:
+        _vs = json.loads((W / 'source/verses.json').read_text())
+    except Exception:
+        _vs = []
+    import sys as _sys
+    _sys.path.insert(0, str(ROOT / 'tools'))
+    try:
+        import workcfg as _wc
+        _spans = _wc.source_spans(work) or {}
+    except Exception:
+        _spans = {}
+    def _src_sha(v):
+        # mirror shastra_merge/tal convention exactly: hash of span tokens
+        try:
+            if v in _spans:
+                return _h.sha256(' '.join(_spans[v]).encode()).hexdigest()[:16]
+            return _h.sha256(' '.join(_vs[v - 1].split()).encode()).hexdigest()[:16]
+        except Exception:
+            return _fallback_sha
     for e in wt:
-        src_sha = e.get('source_sha', _fallback_sha)
+        src_sha = _src_sha(e['verse'])
         d = json.loads((RUNS / f"{song}-am-v{e['verse']:02d}" / 'am.json').read_text())
         ids = [o['id'] for o in by.get(e['verse_id'], [])]
         am.append({'verse_id': e['verse_id'], 'song': song, 'verse': e['verse'],

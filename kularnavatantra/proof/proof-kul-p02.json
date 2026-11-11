@@ -1,0 +1,122 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p02",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v26 ratio=0.894",
+  "ALIGN_NODISP v27 ratio=0.884",
+  "ALIGN_NODISP v30 ratio=0.875",
+  "ALIGN_NODISP v37 ratio=0.871",
+  "DATA_OBJECTS 25 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "884f8af3192c9a02",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 171
+ },
+ "align": {
+  "min_ratio": 0.871,
+  "sub090": {
+   "26": {
+    "ratio": 0.894,
+    "disposition": null
+   },
+   "27": {
+    "ratio": 0.884,
+    "disposition": null
+   },
+   "30": {
+    "ratio": 0.875,
+    "disposition": null
+   },
+   "37": {
+    "ratio": 0.871,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 41,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "argmap[kul-p02-v26]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v27]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v28]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v29]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v30]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v31]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v32]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v33]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v34]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v35]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v36]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v37]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v38]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v39]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v40]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v41]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v42]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v43]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v44]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v45]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v46]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v47]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v48]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v49]: sanskrit_sha mismatch (argmap built against a different source slice)",
+   "argmap[kul-p02-v50]: sanskrit_sha mismatch (argmap built against a different source slice)"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 171,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v26",
+  "fix: word-order/gloss vs source for v27",
+  "fix: word-order/gloss vs source for v30",
+  "fix: word-order/gloss vs source for v37"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "16511cf9ef16259a91e31c40054a265baf092783a11edb568b8409d5a2db1a3f",
+  "l0": "695c27c89b527e57b8bd813acc1e7c4a0c8f38a58b26a6f2227793ea2f9b21bc",
+  "argmap": "b1d5316179b42c2bb9a062e9c73e3000e98c423ac92baf00ba4ccc9c2ed9d5a0",
+  "l2": "91b0c699cbdd8f48a83c8403c8d5b732a1b58f0d8bdb2e6c82b4f33bc984f4db",
+  "c1": "e7d1930fbf14597037b8bf35e4a7fab49fb9c86dd5acff89cf0e03948e398fd4"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "884f8af3192c9a02",
+  "t1": "kul-p02/data/kul-p02.t1.json",
+  "l0": "kul-p02/data/kul-p02.l0.json",
+  "l2": "kul-p02/data/kul-p02.l2.json",
+  "c1": "kul-p02/data/kul-p02.c1.json"
+ }
+}
