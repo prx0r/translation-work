@@ -139312,13 +139312,13 @@
 262
 ]
 },
-"status": "claimed",
+"status": "failed",
 "attempts": 3,
 "max_attempts": 4,
 "worker": "w2",
-"note": "surface drift (1 vs 0); split after schema fail schema fail: [{'type': 'too_short', 'loc': ('items', 0, 'rows'), 'msg': 'List should have at least 1 item after validation, not 0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]; split after schema fail v261: surface drift (1 vs 0); v262: surface drift (1 vs 0)",
+"note": "ev/2.13/v/too_short'}]; split after schema fail v260: surface drift (1 vs 0); split after schema fail v261: surface drift (1 vs 0); schema fail: [{'type': 'too_short', 'loc': ('items', 0, 'rows'), 'msg': 'List should have at least 1 item after validation, not 0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]",
 "created": "2026-11-11T12:00:05",
-"updated": "2026-11-11T12:44:53"
+"updated": "2026-11-11T12:49:09"
 },
 {
 "id": "kularnav-gap--p11-v0263",
@@ -139341,13 +139341,13 @@
 274
 ]
 },
-"status": "claimed",
+"status": "failed",
 "attempts": 4,
 "max_attempts": 4,
 "worker": "w3",
-"note": "ev/2.13/v/too_short'}]; split after schema fail split after schema fail schema fail: [{'type': 'too_short', 'loc': ('items', 0, 'rows'), 'msg': 'List should have at least 1 item after validation, not 0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]; v270: surface drift (1 vs 0); v272: surface drift (1 vs 0)",
+"note": "': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]; schema fail: [{'type': 'too_short', 'loc': ('items', 0, 'rows'), 'msg': 'List should have at least 1 item after validation, not 0', 'input': [], 'ctx': {'field_type': 'List', 'min_length': 1, 'actual_length': 0}, 'url': 'https://errors.pydantic.dev/2.13/v/too_short'}]",
 "created": "2026-11-11T12:00:05",
-"updated": "2026-11-11T12:46:55"
+"updated": "2026-11-11T12:48:50"
 },
 {
 "id": "kularnav-gap--p11-v0275",
@@ -139505,13 +139505,13 @@
 1550
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "claimed",
+"attempts": 1,
 "max_attempts": 4,
-"worker": null,
+"worker": "w3",
 "note": "merged to 24-verse window (floor enforced)",
 "created": "2026-11-11T12:45:24",
-"updated": "2026-11-11T12:45:24"
+"updated": "2026-11-11T12:48:52"
 },
 {
 "id": "svacchan-m24--p01-v0001",
@@ -139546,13 +139546,13 @@
 24
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "claimed",
+"attempts": 2,
 "max_attempts": 4,
-"worker": null,
-"note": "merged to 24-verse window (floor enforced)",
+"worker": "w2",
+"note": "merged to 24-verse window (floor enforced) | attempt failed: v9: question rejected",
 "created": "2026-11-11T12:45:24",
-"updated": "2026-11-11T12:45:24"
+"updated": "2026-11-11T12:49:38"
 },
 {
 "id": "svacchan-m24--p02-v0026",
@@ -139666,14 +139666,15 @@
 221,
 222,
 223,
-224
+224,
+225
 ]
 },
 "status": "pending",
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "merged to 24-verse window (floor enforced)",
+"note": "merged to 24-verse window (floor enforced) | +tail folded",
 "created": "2026-11-11T12:45:24",
 "updated": "2026-11-11T12:45:24"
 },
@@ -140732,14 +140733,15 @@
 1596,
 1597,
 1598,
-1599
+1599,
+1600
 ]
 },
 "status": "pending",
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "merged to 24-verse window (floor enforced)",
+"note": "merged to 24-verse window (floor enforced) | +tail folded",
 "created": "2026-11-11T12:45:24",
 "updated": "2026-11-11T12:45:24"
 },
@@ -140773,14 +140775,15 @@
 1921,
 1922,
 1923,
-1924
+1924,
+1925
 ]
 },
 "status": "pending",
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "merged to 24-verse window (floor enforced)",
+"note": "merged to 24-verse window (floor enforced) | +tail folded",
 "created": "2026-11-11T12:45:24",
 "updated": "2026-11-11T12:45:24"
 },
@@ -141320,24 +141323,6 @@
 "updated": "2026-11-11T12:46:59"
 },
 {
-"id": "kularnav-r24--p64-v1600",
-"kind": "tal_triple",
-"args": {
-"work": "kularnavatantra",
-"song": "kul-p64",
-"verses": [
-1600
-]
-},
-"status": "pending",
-"attempts": 0,
-"max_attempts": 4,
-"worker": null,
-"note": "restore full coverage (24v, tails folded)",
-"created": "2026-11-11T12:46:59",
-"updated": "2026-11-11T12:46:59"
-},
-{
 "id": "kularnav-r24--p66-v1638",
 "kind": "tal_triple",
 "args": {
@@ -141541,24 +141526,6 @@
 "updated": "2026-11-11T12:46:59"
 },
 {
-"id": "kularnav-r24--p77-v1925",
-"kind": "tal_triple",
-"args": {
-"work": "kularnavatantra",
-"song": "kul-p77",
-"verses": [
-1925
-]
-},
-"status": "pending",
-"attempts": 0,
-"max_attempts": 4,
-"worker": null,
-"note": "restore full coverage (24v, tails folded)",
-"created": "2026-11-11T12:46:59",
-"updated": "2026-11-11T12:46:59"
-},
-{
 "id": "kularnav-r24--p79-v1951",
 "kind": "tal_triple",
 "args": {
@@ -141693,24 +141660,6 @@
 135,
 136,
 137
-]
-},
-"status": "pending",
-"attempts": 0,
-"max_attempts": 4,
-"worker": null,
-"note": "restore full coverage (24v, tails folded)",
-"created": "2026-11-11T12:46:59",
-"updated": "2026-11-11T12:46:59"
-},
-{
-"id": "svacchan-r24--p09-v0225",
-"kind": "tal_triple",
-"args": {
-"work": "svacchandatantra",
-"song": "sva-p09",
-"verses": [
-225
 ]
 },
 "status": "pending",
