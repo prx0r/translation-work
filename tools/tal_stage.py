@@ -139,8 +139,24 @@ def counts(song, verses):
     return have
 
 
+
+def _cite(e):
+    """Byte-exact citation = the source verse text (not token joins)."""
+    song = e.get('song', '')
+    try:
+        W = ROOT / _CURRENT_WORK[0]
+        vs = json.loads((W / 'source/verses.json').read_text())
+        t = vs[e['verse'] - 1]
+        return ' '.join(t.replace('|', ' ').split())
+    except Exception:
+        return ' '.join(t['surface'].replace('+', '') for t in e['tokens'])
+
+
+_CURRENT_WORK = ['']
+
 def stage_assemble(work, song):
     W = ROOT / work
+    _CURRENT_WORK[0] = work
     wt = json.loads((W / f'working-t1-{song}.json').read_text())
     # glosses into working-t1
     for e in wt:
@@ -198,12 +214,35 @@ def stage_assemble(work, song):
                    'sanskrit_sha': src_sha})
         l2.append({'verse_id': e['verse_id'], 'song': song, 'verse': e['verse'],
                    'plain_english': d['plain_english'],
-                   'sanskrit_cite': ' | '.join(e.get('cite_parts') or [' '.join(t['surface'] for t in e['tokens'])]),
+                   'sanskrit_cite': _cite(e),
                    'l0_ids': ids or [l0[0]['id']], 'supplied': []})
         e['quick_english'] = d['plain_english']
         e['quick_english_source'] = 'manual'
     dd = W / 'data'; dd.mkdir(exist_ok=True)
-    for n, o in [('t1', wt), ('l0', l0), ('argmap', am), ('l2', l2)]:
+    t1_out = []
+    for e in wt:
+        rows, buf_s, buf_g = [], '', []
+        for t in e['tokens']:
+            surf = t['surface']
+            g = (t.get('quick_gloss') or '').strip()
+            if surf.endswith('+'):
+                buf_s += surf[:-1]
+                if g:
+                    buf_g.append(g)
+                continue
+            buf_s += surf.rstrip('+')
+            if g:
+                buf_g.append(g)
+            rows.append({'sanskrit': buf_s, 'surface': buf_s, 'iast': buf_s,
+                         'gloss': '-and-'.join(buf_g),
+                         'quick_gloss': '-and-'.join(buf_g),
+                         'status': 'GLOSSED' if buf_g else 'ABSTAIN'})
+            buf_s, buf_g = '', []
+        t1_out.append({'verse_id': e['verse_id'], 'song': e['song'],
+                       'verse': e['verse'], 'tokens': rows,
+                       'quick_english': e.get('quick_english', ''),
+                       'source_sha': e.get('source_sha', '')})
+    for n, o in [('t1', t1_out), ('l0', l0), ('argmap', am), ('l2', l2)]:
         (dd / f'{song}.{n}.json').write_text(json.dumps(o, indent=1, ensure_ascii=False))
     (W / f'working-t1-{song}.json').write_text(json.dumps(wt, indent=1, ensure_ascii=False))
     c1p = dd / f'{song}.c1.json'

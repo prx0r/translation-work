@@ -1,0 +1,258 @@
+{
+ "song": "kul-p23",
+ "items": [
+  {
+   "verse": 551,
+   "rows": [
+    {
+     "surface": "tadgandhāghrāṇamātreṇa",
+     "gloss": "by-that-fragrance-smelling-only",
+     "grounds": "compound of that, fragrance, smelling, only in instrumental",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "śatakratuphalaṃ",
+     "gloss": "indra-fruit",
+     "grounds": "compound of indra and fruit in accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtain",
+     "grounds": "root labh optative third singular",
+     "morph": "3.sg.atm.opt"
+    }
+   ],
+   "question": "What fruit is obtained by merely smelling that fragrance?",
+   "premises": [
+    "smelling that fragrance alone yields indra's fruit",
+    "the result is obtained by smelling"
+   ],
+   "inference": "fragrance-smelling suffices for indra-fruit",
+   "uncertainties": [
+    "compound boundaries inferred from legacy hint"
+   ],
+   "plain_english": "By merely smelling that fragrance, one obtains Indra's fruit."
+  },
+  {
+   "verse": 552,
+   "rows": [
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to devi",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "tatpānataḥ",
+     "gloss": "from-drinking-that",
+     "grounds": "compound of that, drinking, from",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtain",
+     "grounds": "root labh optative third singular",
+     "morph": "3.sg.atm.opt"
+    },
+    {
+     "surface": "muktiṃ",
+     "gloss": "liberation",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "catuvīdhām",
+     "gloss": "fourfold",
+     "grounds": "accusative singular feminine adjective",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What is obtained directly from drinking that?",
+   "premises": [
+    "drinking that directly yields liberation",
+    "the liberation obtained is fourfold"
+   ],
+   "inference": "direct drinking yields fourfold liberation",
+   "uncertainties": [
+    "tatpānataḥ internal sandhi not split"
+   ],
+   "plain_english": "Goddess, by drinking that directly one obtains fourfold liberation."
+  },
+  {
+   "verse": 553,
+   "rows": [
+    {
+     "surface": "tatsvāde",
+     "gloss": "in-that-taste",
+     "grounds": "compound of that and taste in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kriyāśaktiḥ",
+     "gloss": "action-power",
+     "grounds": "compound of action and power in nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tadullāse",
+     "gloss": "in-that-exaltation",
+     "grounds": "compound of that and exaltation in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "nominative singular feminine adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "past participle feminine nominative",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Where is supreme action-power established?",
+   "premises": [
+    "action-power is established in that taste",
+    "supreme action-power is established in that exaltation"
+   ],
+   "inference": "supreme action-power resides in taste and exaltation",
+   "uncertainties": [
+    "tatsvāde and tadullāse locative readings inferred"
+   ],
+   "plain_english": "In that taste is action-power; in that exaltation the supreme is established."
+  },
+  {
+   "verse": 554,
+   "rows": [
+    {
+     "surface": "tāsāmekāṃ",
+     "gloss": "one-of-those",
+     "grounds": "compound of those and one in accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "samāhṛtya",
+     "gloss": "gathering",
+     "grounds": "absolutive from samāhṛ",
+     "morph": "abs"
+    },
+    {
+     "surface": "pūjākarma",
+     "gloss": "worship-rite",
+     "grounds": "compound of worship and rite in accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "perform",
+     "grounds": "optative third singular from samācar",
+     "morph": "3.sg.par.opt"
+    }
+   ],
+   "question": "How should one perform the worship rite?",
+   "premises": [
+    "one gathers one of those",
+    "one performs the worship rite"
+   ],
+   "inference": "gather one and perform worship rite",
+   "uncertainties": [
+    "tāsāmekāṃ internal sandhi not split"
+   ],
+   "plain_english": "Gathering one of those, one should perform the worship rite."
+  },
+  {
+   "verse": 555,
+   "rows": [
+    {
+     "surface": "madyābhāve",
+     "gloss": "in-wine-absence",
+     "grounds": "compound of wine, absence, in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vaṭikāṃ",
+     "gloss": "pill",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "locative singular neuter",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "saṃyujya",
+     "gloss": "joining",
+     "grounds": "absolutive from saṃyuj",
+     "morph": "abs"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "satisfy",
+     "grounds": "optative third singular causative from tṛp",
+     "morph": "3.sg.par.opt"
+    }
+   ],
+   "question": "How should one satisfy when wine is absent?",
+   "premises": [
+    "in absence of wine use a pill",
+    "join it in water and satisfy"
+   ],
+   "inference": "pill joined in water satisfies when wine absent",
+   "uncertainties": [
+    "vaṭikāṃ gender inferred from ending"
+   ],
+   "plain_english": "In the absence of wine, join a pill in water and satisfy."
+  },
+  {
+   "verse": 556,
+   "rows": [
+    {
+     "surface": "pramādād",
+     "gloss": "from-negligence",
+     "grounds": "ablative singular masculine",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "yadi lupyeta",
+     "gloss": "if-lost",
+     "grounds": "conditional clause with optative passive",
+     "morph": "cond"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "deity-curse",
+     "grounds": "compound of deity and curse in accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtain",
+     "grounds": "optative third singular from āp",
+     "morph": "3.sg.par.opt"
+    }
+   ],
+   "question": "What is obtained if something is lost through negligence?",
+   "premises": [
+    "negligence may cause loss",
+    "loss brings deity curse",
+    "one obtains that curse"
+   ],
+   "inference": "negligence leading to loss brings deity curse",
+   "uncertainties": [
+    "yadi lupyeta treated as one token per source"
+   ],
+   "plain_english": "If through negligence it is lost, one obtains the deity's curse."
+  }
+ ]
+}

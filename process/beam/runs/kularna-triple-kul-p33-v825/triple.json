@@ -1,0 +1,50 @@
+{
+ "song": "kul-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "svecchayā",
+     "gloss": "by-own-will",
+     "grounds": "instrumental of svecchā (own will)",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "paśuvat",
+     "gloss": "like-paśu",
+     "grounds": "indeclinable comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "drunk",
+     "grounds": "past participle of pā (to drink), neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paśupānam",
+     "gloss": "paśu-drinking",
+     "grounds": "compound paśu + pāna, neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "itīritam",
+     "gloss": "thus-declared",
+     "grounds": "iti + īrita (declared), neuter nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of drinking is declared paśupāna?",
+   "premises": [
+    "Drinking by own will like paśu is paśupāna.",
+    "Such drinking is thus declared."
+   ],
+   "inference": "Paśupāna names willful paśu-like drinking.",
+   "uncertainties": [
+    "Exact syntactic role of pītaṃ remains slightly unclear."
+   ],
+   "plain_english": "Drunk by one's own will like a paśu, it is called paśu-drinking, thus declared."
+  }
+ ]
+}

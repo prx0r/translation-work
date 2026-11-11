@@ -1,0 +1,45 @@
+{
+ "song": "kul-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun referring to the qualities",
+     "morph": "m.nom.pl (pronoun)"
+    },
+    {
+     "surface": "guṇāḥ",
+     "gloss": "qualities",
+     "grounds": "noun in nominative plural masculine",
+     "morph": "m.nom.pl (noun)"
+    },
+    {
+     "surface": "kulatattvajñe",
+     "gloss": "in-kula-truth-knower",
+     "grounds": "locative singular of compound noun kulatattvajña",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "tattvajñānasamāhṛtāḥ",
+     "gloss": "truth-knowledge-gathered",
+     "grounds": "participle/adjective in nominative plural masculine",
+     "morph": "m.nom.pl (participle)"
+    }
+   ],
+   "question": "Where are those qualities gathered by truth-knowledge?",
+   "premises": [
+    "Those qualities are gathered by truth-knowledge.",
+    "The knower of Kula truth is the locus.",
+    "Gathering occurs in that knower."
+   ],
+   "inference": "Truth-knowledge gathers the qualities in the Kula-truth knower.",
+   "uncertainties": [
+    "Exact syntactic relation of the locative phrase is uncertain."
+   ],
+   "plain_english": "Those qualities are gathered by truth-knowledge in the knower of Kula truth."
+  }
+ ]
+}

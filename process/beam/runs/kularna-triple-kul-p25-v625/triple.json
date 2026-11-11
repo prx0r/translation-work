@@ -1,0 +1,64 @@
+{
+ "song": "kul-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine singular nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āste",
+     "gloss": "performs",
+     "grounds": "verb ās, third singular present ātmanepada",
+     "morph": "3.sg.atm-pres root-ās"
+    },
+    {
+     "surface": "maithunaṃ",
+     "gloss": "sexual-union",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter nominative singular pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb as, third singular optative",
+     "morph": "3.sg.opt root-as"
+    },
+    {
+     "surface": "apare",
+     "gloss": "others",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "strīniṣevakāḥ",
+     "gloss": "women-servants",
+     "grounds": "compound strī plus niṣevaka, masculine nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who among practitioners is called a woman-servant?",
+   "premises": [
+    "Sexual union defines a practitioner class.",
+    "Others are named women-servants.",
+    "The verse classifies conduct by label."
+   ],
+   "inference": "A man who performs sexual union is grouped among women-servants.",
+   "uncertainties": [
+    "Exact scope of apare is unclear.",
+    "Whether tat refers to act or person is unclear."
+   ],
+   "plain_english": "He who performs sexual union—that would be [counted among] the others, the women-servants."
+  }
+ ]
+}

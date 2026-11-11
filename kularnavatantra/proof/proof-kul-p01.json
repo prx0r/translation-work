@@ -4,8 +4,7 @@
  "work": "kularnavatantra",
  "date": "2026-11-01",
  "blocking": [
-  "L2_CITE_FAIL 1",
-  "DATA_OBJECTS 90 schema/cross-layer errors"
+  "DATA_OBJECTS 64 schema/cross-layer errors"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -29,9 +28,7 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "tasya+śravaṇamātreṇa saṃsārād mucyate naraḥ"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
@@ -39,31 +36,6 @@
  },
  "data_objects": {
   "errors": [
-   "t1[kul-p01-v1]: missing required field 'source_sha'",
-   "t1[kul-p01-v2]: missing required field 'source_sha'",
-   "t1[kul-p01-v3]: missing required field 'source_sha'",
-   "t1[kul-p01-v4]: missing required field 'source_sha'",
-   "t1[kul-p01-v5]: missing required field 'source_sha'",
-   "t1[kul-p01-v6]: missing required field 'source_sha'",
-   "t1[kul-p01-v7]: missing required field 'source_sha'",
-   "t1[kul-p01-v8]: missing required field 'source_sha'",
-   "t1[kul-p01-v9]: missing required field 'source_sha'",
-   "t1[kul-p01-v10]: missing required field 'source_sha'",
-   "t1[kul-p01-v11]: missing required field 'source_sha'",
-   "t1[kul-p01-v12]: missing required field 'source_sha'",
-   "t1[kul-p01-v13]: missing required field 'source_sha'",
-   "t1[kul-p01-v14]: missing required field 'source_sha'",
-   "t1[kul-p01-v15]: missing required field 'source_sha'",
-   "t1[kul-p01-v16]: missing required field 'source_sha'",
-   "t1[kul-p01-v17]: missing required field 'source_sha'",
-   "t1[kul-p01-v18]: missing required field 'source_sha'",
-   "t1[kul-p01-v19]: missing required field 'source_sha'",
-   "t1[kul-p01-v20]: missing required field 'source_sha'",
-   "t1[kul-p01-v21]: missing required field 'source_sha'",
-   "t1[kul-p01-v22]: missing required field 'source_sha'",
-   "t1[kul-p01-v23]: missing required field 'source_sha'",
-   "t1[kul-p01-v24]: missing required field 'source_sha'",
-   "t1[kul-p01-v25]: missing required field 'source_sha'",
    "argmap[kul-p01-v1]: sanskrit_sha mismatch (argmap built against a different source slice)",
    "argmap[kul-p01-v2]: sanskrit_sha mismatch (argmap built against a different source slice)",
    "argmap[kul-p01-v3]: sanskrit_sha mismatch (argmap built against a different source slice)",
@@ -89,7 +61,6 @@
    "argmap[kul-p01-v23]: sanskrit_sha mismatch (argmap built against a different source slice)",
    "argmap[kul-p01-v24]: sanskrit_sha mismatch (argmap built against a different source slice)",
    "argmap[kul-p01-v25]: sanskrit_sha mismatch (argmap built against a different source slice)",
-   "l2[kul-p01-v6]: cite part not byte-exact in source: tasya+śravaṇamātreṇa saṃsārād mucyate naraḥ",
    "l0[kul-p01-v01-p000]: chosen 'asked-the-lord' != T1.quick_gloss None (mark revised+reason)",
    "l0[kul-p01-v01-p001]: chosen 'supreme-bliss' != T1.quick_gloss None (mark revised+reason)",
    "l0[kul-p01-v01-p002]: chosen 'parvati' != T1.quick_gloss None (mark revised+reason)",
@@ -144,15 +115,14 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
   "fix: schema/cross-layer errors"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "d3dc70c90f819e80d6e8bb20e204a2d2e80d00cbbe148d0817f7b52ad3afa272",
+  "t1": "2eecd60f8e91be92bc7befcc16a24c5646fb054b554eea6ad0c59405902d1381",
   "l0": "18505fa9a19425e6eb8667bb0635f9135a5b6ebc90a9497e7ed8d0a4e9c1d3b5",
   "argmap": "da52781b843d82cdd98cc608d2a69d0ff88b1d52a9e3e8085f66e56553a109bf",
-  "l2": "dd66142d503ffe1ffcfb512f02780c7393c19d3d698008c75213ae79ca13c61d",
+  "l2": "35a41bf5ac30206855a55a56fbb2710d909ed21bcd289a4d04129ceed2cceed4",
   "c1": "b4c275ec09877de28ae87171e1cc78df3f30a7092940f9399b649beaf29a6f0c"
  },
  "lineage": {

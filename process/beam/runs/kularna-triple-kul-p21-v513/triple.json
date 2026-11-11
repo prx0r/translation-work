@@ -1,0 +1,511 @@
+{
+ "song": "kul-p21",
+ "items": [
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "māhāṣoḍhākathanaṃ",
+     "gloss": "great-shodasha-teaching",
+     "grounds": "compound as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthollāsaḥ",
+     "gloss": "fourth-ullasa",
+     "grounds": "compound as given",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the fourth ullasa called?",
+   "premises": [
+    "The fourth ullasa is named.",
+    "Its name concerns great shodasha teaching."
+   ],
+   "inference": "The passage names the fourth wave as the great shodasha teaching.",
+   "uncertainties": [
+    "Exact grammatical gender of compound members not verified."
+   ],
+   "plain_english": "The fourth ullasa is called the teaching of the great shodasha."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "kuladravyasya",
+     "gloss": "kula-substance",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nirmāṇaṃ",
+     "gloss": "making",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhedaṃ",
+     "gloss": "distinction",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māhātmyam",
+     "gloss": "greatness",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What topics belong to kula substance?",
+   "premises": [
+    "Kula substance has making.",
+    "Kula substance has distinction.",
+    "Kula substance has greatness."
+   ],
+   "inference": "The passage lists making, distinction, and greatness as topics of kula substance.",
+   "uncertainties": [
+    "Whether eva and ca are conjunctive or emphatic."
+   ],
+   "plain_english": "It concerns the making, distinction, and greatness of kula substance."
+  },
+  {
+   "verse": 515,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "i-wish",
+     "grounds": "first person singular",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "vada",
+     "gloss": "speak",
+     "grounds": "imperative",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative pronoun",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "karuṇānidhe",
+     "gloss": "ocean-of-compassion",
+     "grounds": "vocative compound",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What does the speaker request?",
+   "premises": [
+    "The speaker wishes to hear all that.",
+    "The speaker asks the compassionate one to speak."
+   ],
+   "inference": "The speaker requests a full explanation from the compassionate teacher.",
+   "uncertainties": [
+    "Exact addressee identity beyond vocative."
+   ],
+   "plain_english": "I wish to hear all of that; speak to me, ocean of compassion."
+  },
+  {
+   "verse": 516,
+   "rows": [
+    {
+     "surface": "tasya+śravaṇamātreṇa",
+     "gloss": "by-its-hearing-alone",
+     "grounds": "fused sandhi form",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tridaśaiḥ",
+     "gloss": "with-gods",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samatāṃ",
+     "gloss": "equality",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-attain",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What follows from hearing it alone?",
+   "premises": [
+    "Hearing it alone brings equality.",
+    "That equality is with gods."
+   ],
+   "inference": "Merely hearing it leads to equality with the gods.",
+   "uncertainties": [
+    "Whether tridaśaiḥ means gods generally or thirty gods."
+   ],
+   "plain_english": "By merely hearing it, one would attain equality with the gods."
+  },
+  {
+   "verse": 517,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rite",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādhāraṃ",
+     "gloss": "support",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-establish",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-nayika",
+     "grounds": "vocative compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should be established for kula nayika?",
+   "premises": [
+    "Therefore one should establish support.",
+    "The support is for kula nayika."
+   ],
+   "inference": "The instruction is to establish a proper support for the kula nayika.",
+   "uncertainties": [
+    "Specific ritual support intended."
+   ],
+   "plain_english": "Therefore, according to rite, one should establish a support for the kula nayika."
+  },
+  {
+   "verse": 518,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartulākāraṃ",
+     "gloss": "round-shaped",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "devi",
+     "grounds": "vocative noun",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "manoharam",
+     "gloss": "mind-charming",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What alternative vessel shape is given?",
+   "premises": [
+    "One may make a round shape.",
+    "The shape should be mind-charming."
+   ],
+   "inference": "Alternatively, one should make a round, mind-charming vessel.",
+   "uncertainties": [
+    "Whether devi is addressee or epithet."
+   ],
+   "plain_english": "Or, Devi, one should make a round, mind-charming vessel."
+  },
+  {
+   "verse": 519,
+   "rows": [
+    {
+     "surface": "nārikelaśaṅkhatāmramuktāśuktisamudbhavam",
+     "gloss": "coconut-shell-conch-copper-pearl-shell-born",
+     "grounds": "long compound as given",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What materials may the vessel be born from?",
+   "premises": [
+    "The vessel may be born from listed materials.",
+    "The list includes coconut shell, conch, copper, pearl, and shell."
+   ],
+   "inference": "The vessel may be made from coconut shell, conch, copper, pearl, or shell.",
+   "uncertainties": [
+    "Whether all materials are alternatives or one compound vessel."
+   ],
+   "plain_english": "It may be born from coconut shell, conch, copper, pearl, or shell."
+  },
+  {
+   "verse": 520,
+   "rows": [
+    {
+     "surface": "atisūkṣmam",
+     "gloss": "too-subtle",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atisthūlaṃ",
+     "gloss": "too-gross",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chinnaṃ",
+     "gloss": "broken",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhinnañca",
+     "gloss": "split",
+     "grounds": "fused sandhi form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What vessel qualities should be avoided?",
+   "premises": [
+    "Too subtle should be avoided.",
+    "Too gross should be avoided.",
+    "Broken and split should be avoided."
+   ],
+   "inference": "One should avoid vessels that are too subtle, too gross, broken, or split.",
+   "uncertainties": [
+    "Whether bhinnañca includes ca or is fused."
+   ],
+   "plain_english": "One should avoid vessels that are too subtle, too gross, broken, or split."
+  },
+  {
+   "verse": 521,
+   "rows": [
+    {
+     "surface": "śāntike",
+     "gloss": "for-pacification",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śilāpātraṃ",
+     "gloss": "stone-vessel",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "stambhane",
+     "gloss": "for-stambhana",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "indeed",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛṇmayam",
+     "gloss": "earthen",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which vessels suit pacification and stambhana?",
+   "premises": [
+    "For pacification, a stone vessel is used.",
+    "For stambhana, an earthen vessel is used."
+   ],
+   "inference": "Stone vessels suit pacification, while earthen vessels suit stambhana.",
+   "uncertainties": [
+    "Whether caiva is conjunctive or emphatic."
+   ],
+   "plain_english": "For pacification use a stone vessel, and for stambhana use an earthen one."
+  },
+  {
+   "verse": 522,
+   "rows": [
+    {
+     "surface": "śaṅgaṃ",
+     "gloss": "conch",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñānapradaṃ",
+     "gloss": "knowledge-giving",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śuktir",
+     "gloss": "shell",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devīprītipradāyinī",
+     "gloss": "devi-pleasing",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What benefits do conch and shell give?",
+   "premises": [
+    "Conch gives knowledge.",
+    "Shell pleases Devi."
+   ],
+   "inference": "The conch is knowledge-giving, and the shell is pleasing to Devi.",
+   "uncertainties": [
+    "Whether śaṅgaṃ is accusative object or adjective."
+   ],
+   "plain_english": "The conch gives knowledge, and the shell pleases Devi."
+  },
+  {
+   "verse": 523,
+   "rows": [
+    {
+     "surface": "ukteṣveteṣu",
+     "gloss": "among-these-stated",
+     "grounds": "locative plural compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "devi-lord",
+     "grounds": "vocative compound",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pātramekaṃ",
+     "gloss": "one-vessel",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-prepare",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How many vessels should be prepared?",
+   "premises": [
+    "Among the stated vessels, one vessel should be prepared.",
+    "The instruction is addressed to Deveshi."
+   ],
+   "inference": "One should prepare a single vessel from among those stated.",
+   "uncertainties": [
+    "Which specific vessel is selected."
+   ],
+   "plain_english": "Among these stated vessels, O Deveshi, one should prepare one vessel."
+  },
+  {
+   "verse": 524,
+   "rows": [
+    {
+     "surface": "ambhasāṃ",
+     "gloss": "water",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "dvādaśaprasthaṃ",
+     "gloss": "twelve-prastha",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prasthārddhaṃ",
+     "gloss": "half-prastha",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "takrameva",
+     "gloss": "buttermilk",
+     "grounds": "fused sandhi form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantities of water and buttermilk are given?",
+   "premises": [
+    "Water is twelve prastha.",
+    "Buttermilk is half a prastha."
+   ],
+   "inference": "The measure is twelve prastha of water and half a prastha of buttermilk.",
+   "uncertainties": [
+    "Whether ca is conjunctive or emphatic."
+   ],
+   "plain_english": "Twelve prastha of water and half a prastha of buttermilk."
+  }
+ ]
+}
