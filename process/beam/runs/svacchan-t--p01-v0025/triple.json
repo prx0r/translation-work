@@ -1,0 +1,45 @@
+{
+ "song": "sva-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭākāratānusaṃdheyā",
+     "gloss": "clear-formness-to-be-attended",
+     "grounds": "compound adjective in feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhvanati",
+     "gloss": "suggests",
+     "grounds": "third person singular present active of root dhvan",
+     "morph": "3.sg.act-pres (root dhvan)"
+    }
+   ],
+   "question": "What does the verse indicate here?",
+   "premises": [
+    "atra means here",
+    "dhvanati means suggests",
+    "iti marks quotation"
+   ],
+   "inference": "The verse says clear-formness-to-be-attended is suggested here.",
+   "uncertainties": [
+    "exact referent of atra is unspecified"
+   ],
+   "plain_english": "Here, clear-formness-to-be-attended is suggested."
+  }
+ ]
+}

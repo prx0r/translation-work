@@ -1,0 +1,209 @@
+{
+ "song": "sva-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "śāstrasya",
+     "gloss": "of-scripture",
+     "grounds": "genitive of śāstra",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sūcitam",
+     "gloss": "indicated",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "srotobhedaṃ",
+     "gloss": "stream-difference",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "navamapaṭale",
+     "gloss": "in-ninth-chapter",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "darśayiṣyāmaḥ",
+     "gloss": "we-will-show",
+     "grounds": "future first person plural",
+     "morph": "1pl.act.fut"
+    }
+   ],
+   "question": "What stream difference will be shown in the ninth chapter?",
+   "premises": [
+    "scripture indicates a stream difference",
+    "the ninth chapter will show it"
+   ],
+   "inference": "the passage announces a forthcoming exposition of scriptural stream difference",
+   "uncertainties": [
+    "exact referent of stream difference"
+   ],
+   "plain_english": "The scripture has indicated a difference of streams, which we will show in the ninth chapter."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "dadatam",
+     "gloss": "giving",
+     "grounds": "participial adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasādena",
+     "gloss": "by-grace",
+     "grounds": "instrumental of prasāda",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "antarnairmalyaprathanātmanā",
+     "gloss": "by-inner-purity-manifestation-nature",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "anugraheṇa",
+     "gloss": "by-favor",
+     "grounds": "instrumental of anugraha",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kathaya",
+     "gloss": "speak",
+     "grounds": "imperative second person singular",
+     "morph": "2sg.act.imp"
+    }
+   ],
+   "question": "By what means is the speaker asked to speak?",
+   "premises": [
+    "grace gives favor",
+    "inner purity manifests through favor"
+   ],
+   "inference": "the addressee is urged to speak through grace and favor",
+   "uncertainties": [
+    "exact addressee"
+   ],
+   "plain_english": "Speak by grace, through the manifestation of inner purity, and by favor."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "antarbhūtatvāt",
+     "gloss": "because-included",
+     "grounds": "ablative of abstract noun",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pṛthaṅ",
+     "gloss": "separately",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "noddiṣṭam",
+     "gloss": "not-indicated",
+     "grounds": "negated past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is something not indicated separately?",
+   "premises": [
+    "it is included within another topic",
+    "separate indication is unnecessary"
+   ],
+   "inference": "the item is omitted separately because it is already included",
+   "uncertainties": [
+    "exact omitted item"
+   ],
+   "plain_english": "Because it is included, it is not indicated separately."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "mukhyabhūtaprayojanapratipādanaparo'pi",
+     "gloss": "even-though-focused-on-explaining-main-purpose",
+     "grounds": "compound with api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādivākye",
+     "gloss": "in-initial-statement",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is the focus even in the initial statement?",
+   "premises": [
+    "the initial statement focuses on main purpose",
+    "explanation remains primary"
+   ],
+   "inference": "the passage emphasizes explaining the main purpose from the outset",
+   "uncertainties": [
+    "scope of main purpose"
+   ],
+   "plain_english": "Even in the initial statement, the focus is on explaining the main purpose."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "śivābhedavyāptisāratvasya",
+     "gloss": "because-of-being-about-to-show-essence-of-śiva-nondifference-pervasion",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "darśayiṣyamāṇatvāt",
+     "gloss": "being-about-to-be-shown",
+     "grounds": "ablative of future participle",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why is the essence of Śiva nondifference pervasion shown?",
+   "premises": [
+    "it is about to be shown",
+    "its essence is being presented"
+   ],
+   "inference": "the passage prepares to show the essence of Śiva nondifference pervasion",
+   "uncertainties": [
+    "exact doctrinal scope"
+   ],
+   "plain_english": "Because it is about to be shown, the essence of Śiva nondifference pervasion is presented."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "ityuktaprāyam",
+     "gloss": "as-if-said",
+     "grounds": "compound participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the preceding statement characterized?",
+   "premises": [
+    "it has already been said",
+    "the matter is treated as stated"
+   ],
+   "inference": "the preceding point is regarded as already stated",
+   "uncertainties": [
+    "exact antecedent"
+   ],
+   "plain_english": "It is as if already said."
+  }
+ ]
+}

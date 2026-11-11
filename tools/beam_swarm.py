@@ -564,7 +564,10 @@ class TalTriple(BaseModel):
 
 TAL_TRIPLE_SYS = ('You process Tantraloka verses for a translation pipeline in ONE pass. '
   'For each verse return: rows (one per token, in order: gloss + morphology + grounds), '
-  'question (the verse\'s own question, >=5 words, never "what does verse N state"), '
+  'question (the DOCTRINAL question the verse answers — >=8 words, must name the '
+  'claim at stake; NEVER open with or contain: "does verse", "this verse", '
+  '"the verse", "what does verse", "is being told"; a reader must be able to '
+  'answer it only by understanding THIS verse), '
   'premises (terse logical statements, >=3 words each), inference, uncertainties, '
   'plain_english (readable translation, no metacommentary). Output ONLY JSON.\n'
   'SURFACE FIDELITY (hard gate — mismatches are rejected wholesale): copy every '

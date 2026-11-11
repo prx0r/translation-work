@@ -1,0 +1,473 @@
+{
+ "song": "sva-p47",
+ "items": [
+  {
+   "verse": 1151,
+   "rows": [
+    {
+     "surface": "tantrāntarāt",
+     "gloss": "from-other-tantra",
+     "grounds": "compound tantrāntara with ablative ending",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "jñātavyam",
+     "gloss": "to-be-known",
+     "grounds": "passive future participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "noun artha",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What must be known from another tantra?",
+   "premises": [
+    "tantra-knowledge comes from elsewhere",
+    "meaning is stated directly",
+    "verse closes the point"
+   ],
+   "inference": "The verse states that the meaning is to be known from another tantra.",
+   "uncertainties": [],
+   "plain_english": "The meaning is to be known from another tantra."
+  },
+  {
+   "verse": 1152,
+   "rows": [
+    {
+     "surface": "vai",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhittvā",
+     "gloss": "having-pierced",
+     "grounds": "absolutive of bhid",
+     "morph": "abs."
+    },
+    {
+     "surface": "sarvam+idam",
+     "gloss": "all-this",
+     "grounds": "fused compound form",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "noun jagat",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is pierced to reveal the worlds?",
+   "premises": [
+    "all this world is pierced",
+    "piercing opens access",
+    "world becomes traversable"
+   ],
+   "inference": "Having pierced all this world, one proceeds to the worlds within it.",
+   "uncertainties": [],
+   "plain_english": "Having pierced all this world."
+  },
+  {
+   "verse": 1153,
+   "rows": [
+    {
+     "surface": "tatrasthāni",
+     "gloss": "there-situated",
+     "grounds": "compound tatra + stha",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "bhuvanāni",
+     "gloss": "worlds",
+     "grounds": "noun bhuvana",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "adhiṣṭhātṛ+devatā",
+     "gloss": "presiding-deity",
+     "grounds": "fused compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "dvāreṇa",
+     "gloss": "door",
+     "grounds": "noun dvāra with instrumental ending",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "vacmi",
+     "gloss": "I-speak",
+     "grounds": "verb vac",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "ity+arthaḥ",
+     "gloss": "meaning",
+     "grounds": "fused compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How are the situated worlds to be spoken?",
+   "premises": [
+    "worlds are situated there",
+    "presiding deity is the door",
+    "speaker declares them"
+   ],
+   "inference": "The situated worlds are spoken through the presiding deity as door.",
+   "uncertainties": [],
+   "plain_english": "I speak the worlds situated there through the presiding deity as door."
+  },
+  {
+   "verse": 1154,
+   "rows": [
+    {
+     "surface": "bhuvanāni",
+     "gloss": "worlds",
+     "grounds": "noun bhuvana",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-shall-declare",
+     "grounds": "verb pracakṣ",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "tatra+eva",
+     "gloss": "there-itself",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitāni",
+     "gloss": "situated",
+     "grounds": "participle sam-stha",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What worlds will be declared there?",
+   "premises": [
+    "worlds are to be declared",
+    "they are situated there itself",
+    "declaration is certain"
+   ],
+   "inference": "The worlds situated there itself will be declared.",
+   "uncertainties": [],
+   "plain_english": "I shall declare the worlds situated there itself."
+  },
+  {
+   "verse": 1155,
+   "rows": [
+    {
+     "surface": "ananta+iti",
+     "gloss": "ananta-etc",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayasya",
+     "gloss": "of-three",
+     "grounds": "numeral tri with genitive ending",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "samāhāraḥ",
+     "gloss": "collection",
+     "grounds": "noun samāhāra",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the collection of three?",
+   "premises": [
+    "ananta is named first",
+    "three items are grouped",
+    "collection is the result"
+   ],
+   "inference": "The collection consists of the three beginning with Ananta.",
+   "uncertainties": [],
+   "plain_english": "The collection of the three beginning with Ananta."
+  },
+  {
+   "verse": 1156,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "pronoun sarva with genitive plural",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantādi",
+     "gloss": "ananta-etc",
+     "grounds": "compound ananta + ādi",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "anāśritāntānām",
+     "gloss": "unsheltered-end",
+     "grounds": "compound anāśrita + anta",
+     "morph": "gen.pl.m"
+    }
+   ],
+   "question": "Which unsheltered series is meant?",
+   "premises": [
+    "all are included",
+    "series begins with Ananta",
+    "series ends unsheltered"
+   ],
+   "inference": "The series from Ananta to the unsheltered end includes all.",
+   "uncertainties": [],
+   "plain_english": "Of all, the series from Ananta to the unsheltered end."
+  },
+  {
+   "verse": 1157,
+   "rows": [
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "pronoun tad with genitive plural",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sve+sve",
+     "gloss": "own-own",
+     "grounds": "fused reduplicated form",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-action",
+     "grounds": "noun karman with locative ending",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "yojanapravartakam",
+     "gloss": "yoking-cause",
+     "grounds": "compound yojana + pravartaka",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nimittam",
+     "gloss": "instrument",
+     "grounds": "noun nimitta",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What causes their yoking in action?",
+   "premises": [
+    "their own action is the field",
+    "yoking-cause operates there",
+    "instrument is named"
+   ],
+   "inference": "The instrument is the yoking-cause in their own action.",
+   "uncertainties": [],
+   "plain_english": "Indeed, in their own action, the instrument is the yoking-cause."
+  },
+  {
+   "verse": 1158,
+   "rows": [
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "noun śakti",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāśritādi+śakti+rūpatayā",
+     "gloss": "unsheltered-etc-power-form",
+     "grounds": "fused compound",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "sphurati",
+     "gloss": "shines",
+     "grounds": "verb sphur",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How does power shine here?",
+   "premises": [
+    "power is present",
+    "it shines as unsheltered power-form",
+    "shining is active"
+   ],
+   "inference": "Power also shines in the form of unsheltered power.",
+   "uncertainties": [],
+   "plain_english": "Power also shines as the form of unsheltered power."
+  },
+  {
+   "verse": 1159,
+   "rows": [
+    {
+     "surface": "dvitīyām",
+     "gloss": "second",
+     "grounds": "ordinal dvitīya",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "imām",
+     "gloss": "this",
+     "grounds": "pronoun idam",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "preraṇām",
+     "gloss": "impulsion",
+     "grounds": "noun preraṇā",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "verb kṛ",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What second impulsion is performed?",
+   "premises": [
+    "this impulsion is second",
+    "it is performed actively",
+    "action is stated"
+   ],
+   "inference": "This second impulsion is performed.",
+   "uncertainties": [],
+   "plain_english": "He performs this second impulsion."
+  },
+  {
+   "verse": 1160,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "pronoun etad",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokta+sva+śakti+sahitāḥ",
+     "gloss": "declared-own-power-accompanied",
+     "grounds": "fused compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prerakāḥ",
+     "gloss": "impellers",
+     "grounds": "noun preraka",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "preryāḥ",
+     "gloss": "impelled",
+     "grounds": "participle prerya",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who are both impellers and impelled?",
+   "premises": [
+    "these are declared with own power",
+    "they are impellers",
+    "they are also impelled"
+   ],
+   "inference": "These, accompanied by their own power, are both impellers and impelled.",
+   "uncertainties": [],
+   "plain_english": "These, accompanied by their own declared power, are both impellers and impelled."
+  },
+  {
+   "verse": 1161,
+   "rows": [
+    {
+     "surface": "śivena",
+     "gloss": "by-śiva",
+     "grounds": "noun śiva with instrumental ending",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "pūrṇāhutiḥ",
+     "gloss": "full-offering",
+     "grounds": "compound pūrṇa + āhuti",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What full offering is made by Śiva?",
+   "premises": [
+    "Śiva acts instrumentally",
+    "full offering is named",
+    "offering is complete"
+   ],
+   "inference": "The full offering is made by Śiva.",
+   "uncertainties": [],
+   "plain_english": "By Śiva, the full offering."
+  },
+  {
+   "verse": 1162,
+   "rows": [
+    {
+     "surface": "brahmādi+anāśritāntāḥ",
+     "gloss": "brahmā-etc-unsheltered-end",
+     "grounds": "fused compound",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Which series runs from Brahmā to the unsheltered end?",
+   "premises": [
+    "series begins with Brahmā",
+    "series ends unsheltered",
+    "plural group is named"
+   ],
+   "inference": "The series runs from Brahmā to the unsheltered end.",
+   "uncertainties": [],
+   "plain_english": "From Brahmā to the unsheltered end."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "sva-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "vaktrāṅgādi",
+     "gloss": "mouth-limbs-and-so-on",
+     "grounds": "compound of vaktra (mouth), aṅga (limb), and ādi (etc.)",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "śivāntaṃ",
+     "gloss": "until-śiva",
+     "grounds": "śiva plus anta (end), accusative singular masculine",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "puṃsaḥ",
+     "gloss": "of-man",
+     "grounds": "genitive singular masculine of puṃs",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "striyaḥ",
+     "gloss": "women",
+     "grounds": "nominative plural feminine of strī",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "Which beings are included from mouth-limbs to Śiva?",
+   "premises": [
+    "Mouth-limbs begin the stated range.",
+    "Śiva marks the upper limit.",
+    "Men and women are both named."
+   ],
+   "inference": "The range from mouth-limbs to Śiva includes men and women.",
+   "uncertainties": [
+    "The exact syntactic relation of puṃsaḥ and striyaḥ remains unclear."
+   ],
+   "plain_english": "From mouth-limbs up to Śiva, men and women."
+  }
+ ]
+}

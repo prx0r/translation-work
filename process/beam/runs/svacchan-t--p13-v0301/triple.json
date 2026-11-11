@@ -1,0 +1,527 @@
+{
+ "song": "sva-p13",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udbhūta",
+     "gloss": "arisen",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phulla",
+     "gloss": "bloomed",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāyena1",
+     "gloss": "by-rule",
+     "grounds": "noun in instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vikasati",
+     "gloss": "blooms",
+     "grounds": "verb root vikas",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do teachers describe the arising bloom?",
+   "premises": [
+    "teachers speak by rule",
+    "arisen bloom unfolds",
+    "thus is the stated analogy"
+   ],
+   "inference": "The verse presents a teacher-given analogy of arising and blooming.",
+   "uncertainties": [
+    "exact referent of asau"
+   ],
+   "plain_english": "As that arisen bloom unfolds by rule, thus say the teachers."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "karā",
+     "gloss": "hand",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "akarṣaṇa",
+     "gloss": "drawing",
+     "grounds": "verbal noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yuktiḥ",
+     "gloss": "method",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smartavyā",
+     "gloss": "to-be-remembered",
+     "grounds": "future passive participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What method of hand-drawing must be remembered?",
+   "premises": [
+    "hand drawing is a method",
+    "the method must be remembered",
+    "memory preserves the practice"
+   ],
+   "inference": "The verse commands remembering the hand-drawing method.",
+   "uncertainties": [
+    "whether karā is hand or ray"
+   ],
+   "plain_english": "The method of hand-drawing is to be remembered."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "nāḍīsandhānam",
+     "gloss": "channel-joining",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṇavo",
+     "gloss": "atoms",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mūlādyā",
+     "gloss": "root-etc",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What are the root mantras and atoms?",
+   "premises": [
+    "channel-joining concerns atoms",
+    "root and other mantras are named",
+    "mantras are plural entities"
+   ],
+   "inference": "The verse links channel-joining, atoms, root mantras, and mantras.",
+   "uncertainties": [
+    "exact compound boundaries"
+   ],
+   "plain_english": "Channel-joining, atoms, root mantras, and mantras are named."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asaṅgataṃ",
+     "gloss": "inconsistent",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb root as",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Why would the statement be inconsistent?",
+   "premises": [
+    "the prior claim is quoted",
+    "inconsistency is asserted",
+    "conditional possibility is stated"
+   ],
+   "inference": "The verse marks the preceding claim as inconsistent.",
+   "uncertainties": [
+    "scope of iti"
+   ],
+   "plain_english": "Thus it would be inconsistent."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "relative pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "adhigataśāstrārthaḥ",
+     "gloss": "attained-scripture-meaning",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudradhyānaikaniṣṭhaḥ",
+     "gloss": "rudra-meditation-single-minded",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb root as",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Who becomes single-minded in Rudra meditation?",
+   "premises": [
+    "one has attained scripture meaning",
+    "one is single-minded in Rudra meditation",
+    "such a one would be"
+   ],
+   "inference": "The verse defines the qualified practitioner.",
+   "uncertainties": [
+    "whether yena is instrumental agent"
+   ],
+   "plain_english": "One who has attained scripture meaning and is single-minded in Rudra meditation would be."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astrajaptena",
+     "gloss": "mantra-chanted",
+     "grounds": "compound adjective",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "puṣpeṇa",
+     "gloss": "flower",
+     "grounds": "noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "recakena",
+     "gloss": "by-upward-breath",
+     "grounds": "noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "ityūrdhvamāgīkeṇa",
+     "gloss": "upward-going",
+     "grounds": "compound adjective",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "How is the flower mantra explained?",
+   "premises": [
+    "flower is quoted",
+    "mantra-chanted flower is instrumental",
+    "upward breath is instrumental"
+   ],
+   "inference": "The verse glosses flower through mantra and breath terms.",
+   "uncertainties": [
+    "exact compound parsing"
+   ],
+   "plain_english": "Flower, thus; by mantra-chanted flower, thus meaning; by upward breath, upward-going."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "proktadvitīyajanmopayogāya",
+     "gloss": "for-second-birth-use",
+     "grounds": "compound noun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantraśaktyaiva",
+     "gloss": "by-mantra-power",
+     "grounds": "compound noun",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "siddhyanti",
+     "gloss": "are-accomplished",
+     "grounds": "verb root sidh",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "How are second-birth uses accomplished?",
+   "premises": [
+    "second-birth use is the purpose",
+    "they are accomplished",
+    "mantra power is the means"
+   ],
+   "inference": "The verse states accomplishment by mantra power for second-birth use.",
+   "uncertainties": [
+    "exact dative scope"
+   ],
+   "plain_english": "For second-birth use, they are accomplished by mantra power."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "rudrāṃśāpādanaṃ",
+     "gloss": "rudra-portion-descent",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kartavyam",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What must be done regarding Rudra's portion?",
+   "premises": [
+    "Rudra portion descent is named",
+    "it is to be done",
+    "obligation is stated"
+   ],
+   "inference": "The verse commands Rudra-portion descent.",
+   "uncertainties": [
+    "exact case of kartavyam"
+   ],
+   "plain_english": "Rudra-portion descent is to be done."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "vedavatsatatapāṭhaḥ",
+     "gloss": "like-veda-constant-recitation",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āgamagranthasya",
+     "gloss": "āgama-text",
+     "grounds": "compound noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ādiśabdena",
+     "gloss": "by-ādi",
+     "grounds": "compound noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "japadhyānādayaḥ",
+     "gloss": "japa-meditation-etc",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What does ādi include beyond recitation?",
+   "premises": [
+    "constant recitation is like Veda",
+    "āgama text is genitive",
+    "ādi includes japa and meditation"
+   ],
+   "inference": "The verse expands ādi to include japa and meditation.",
+   "uncertainties": [
+    "exact scope of ādi"
+   ],
+   "plain_english": "Like Veda constant recitation of the āgama text; by ādi, japa, meditation, and so on."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "dvividhaṃ",
+     "gloss": "two-fold",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bubhukṣuṃ",
+     "gloss": "enjoyer",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mumukṣaṃ",
+     "gloss": "liberation-seeker",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhogo",
+     "gloss": "enjoyment",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the two fruits for seekers?",
+   "premises": [
+    "two-fold fruit is stated",
+    "enjoyer or liberation-seeker",
+    "liberation or enjoyment"
+   ],
+   "inference": "The verse pairs two seekers with two fruits.",
+   "uncertainties": [
+    "exact syntactic relation of vā"
+   ],
+   "plain_english": "Two-fold fruit: for enjoyer or liberation-seeker; thus liberation or enjoyment."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bubhukṣābhāvāt",
+     "gloss": "enjoyment-absence",
+     "grounds": "compound noun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ityarthalabhyaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atrāśayaḥ",
+     "gloss": "here-intent",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the intent when enjoyment is absent?",
+   "premises": [
+    "of that enjoyment absence",
+    "thus meaning is obtained",
+    "this is the intent here"
+   ],
+   "inference": "The verse identifies intent from absence of enjoyment.",
+   "uncertainties": [
+    "referent of tasya"
+   ],
+   "plain_english": "Of that, from absence of enjoyment, thus meaning is obtained; this is the intent here."
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "adhigatamantratantrarahasyaḥ",
+     "gloss": "attained-mantra-tantra-secret",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who has attained mantra-tantra secret?",
+   "premises": [
+    "mantra-tantra secret is attained",
+    "qualified person is named",
+    "single compound describes him"
+   ],
+   "inference": "The verse names one who has attained the mantra-tantra secret.",
+   "uncertainties": [
+    "exact compound membership"
+   ],
+   "plain_english": "One who has attained the mantra-tantra secret."
+  }
+ ]
+}

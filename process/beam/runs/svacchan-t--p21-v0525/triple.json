@@ -1,0 +1,57 @@
+{
+ "song": "sva-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "kṣamayed",
+     "gloss": "should-forgive",
+     "grounds": "optative of kṣam (forgive), third singular active",
+     "morph": "3.sg.act-opt + kṣam"
+    },
+    {
+     "surface": "ityatra",
+     "gloss": "here-in-this",
+     "grounds": "fused form iti + atra, indeclinable contextual marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthe",
+     "gloss": "meaning",
+     "grounds": "artha in locative singular masculine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "ayam in nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "aiśaḥ",
+     "gloss": "aiśa",
+     "grounds": "aiśa adjective in nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pāṭhaḥ",
+     "gloss": "reading",
+     "grounds": "pāṭha in nominative singular masculine",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What reading is identified here for the meaning 'should forgive'?",
+   "premises": [
+    "Here the meaning is 'should forgive'.",
+    "This is the aiśa reading."
+   ],
+   "inference": "The aiśa reading supplies 'should forgive' in this context.",
+   "uncertainties": [
+    "Exact scope of ityatra is unclear.",
+    "aiśaḥ may modify pāṭhaḥ or arthe."
+   ],
+   "plain_english": "Here, for this meaning, this is the aiśa reading: 'should forgive'."
+  }
+ ]
+}
