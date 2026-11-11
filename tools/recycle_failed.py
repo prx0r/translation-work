@@ -49,6 +49,12 @@ def main() -> int:
             continue
         a = t.get("args") or {}
         vs = a.get("verses") or []
+        # never resurrect work that is already done or gone
+        _w, _song = a.get("work"), a.get("song")
+        if _w and (not (ROOT / _w).is_dir()
+                   or (_song and (ROOT / _w / "data" / f"{_song}.t1.json").exists())):
+            skipped += 1
+            continue
         if not vs:
             continue
         # skip if the range is already covered by live work (regenerated)

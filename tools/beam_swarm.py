@@ -206,6 +206,20 @@ STALE_CLAIM_SECS = 15 * 60  # a claim older than this is dead; steal it
 def claimable(t: dict) -> bool:
     if t['attempts'] >= t['max_attempts']:
         return False
+    # STRUCTURAL GUARD (owner 2026-11-11): beam may never work on
+    # (a) a work whose directory is gone, or (b) a song already assembled
+    # into data/. This is the ONE choke point every worker passes through,
+    # so no seeder/recycler/legacy task can bypass it.
+    args = t.get('args') or {}
+    w, song = args.get('work'), args.get('song')
+    if w:
+        wdir = ROOT / w
+        if not wdir.is_dir():
+            return False
+        if song and (wdir / 'data' / f'{song}.t1.json').exists():
+            return False
+    if t.get('status') == 'pending':
+        return True
     if t['status'] == 'pending':
         return True
     if t['status'] == 'claimed':
