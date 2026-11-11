@@ -1,0 +1,437 @@
+{
+ "song": "Spandakārikā",
+ "items": [
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "seyaṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "kriyātmikā",
+     "gloss": "action-natured",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "feminine noun",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "of-Śiva",
+     "grounds": "genitive of Śiva",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "paśuvartinī",
+     "gloss": "in-bound-soul",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "bandhayitrī",
+     "gloss": "binder",
+     "grounds": "agent noun",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "svamārgasthā",
+     "gloss": "in-own-path",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "jñātā",
+     "gloss": "known",
+     "grounds": "past participle",
+     "morph": "part.nom.sg.f"
+    },
+    {
+     "surface": "siddhyupadādikā",
+     "gloss": "giving-siddhi-etc",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is this power of Śiva in the bound soul?",
+   "premises": [
+    "this power is action-natured",
+    "it resides in the bound soul",
+    "it binds while remaining in its own path"
+   ],
+   "inference": "Śiva's power acts as binder within the bound soul while staying on its own path.",
+   "uncertainties": [
+    "exact force of siddhyupadādikā"
+   ],
+   "plain_english": "This action-natured power of Śiva, residing in the bound soul, binds while remaining on its own path, known as giving siddhi and more."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "tanmātrodayarūpeṇa",
+     "gloss": "by-tanmātra-rise-form",
+     "grounds": "instrumental compound",
+     "morph": "noun.instr.sg.n"
+    },
+    {
+     "surface": "mano'haṃbuddhivartinā",
+     "gloss": "by-mind-I-buddhi-residing",
+     "grounds": "instrumental compound",
+     "morph": "adj.instr.sg.n"
+    },
+    {
+     "surface": "puryaṣṭakena",
+     "gloss": "by-eight-city",
+     "grounds": "instrumental compound",
+     "morph": "noun.instr.sg.n"
+    },
+    {
+     "surface": "saṃruddhaḥ",
+     "gloss": "confined",
+     "grounds": "past participle",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "tadutthaṃ",
+     "gloss": "from-that-arising",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pratyayodbhavam",
+     "gloss": "cognition-birth",
+     "grounds": "compound noun",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "How is the soul confined by the eight-city?",
+   "premises": [
+    "the eight-city resides in mind I-buddhi",
+    "it confines by tanmātra-rise-form",
+    "cognition-birth arises from that"
+   ],
+   "inference": "The soul is confined by the eight-city and cognition arises from that confinement.",
+   "uncertainties": [
+    "scope of puryaṣṭaka"
+   ],
+   "plain_english": "Confined by the eight-city residing in mind, I, and buddhi, cognition arises from that state."
+  },
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "bhuṅkte",
+     "gloss": "enjoys",
+     "grounds": "verb",
+     "morph": "verb.3.sg.act-pres + root bhuj"
+    },
+    {
+     "surface": "paravaśaḥ",
+     "gloss": "dependent",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhogaṃ",
+     "gloss": "enjoyment",
+     "grounds": "accusative noun",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "tadbhāvāt",
+     "gloss": "from-that-state",
+     "grounds": "ablative compound",
+     "morph": "noun.abl.sg.m"
+    },
+    {
+     "surface": "saṃsaraty",
+     "gloss": "transmigrates",
+     "grounds": "verb",
+     "morph": "verb.3.sg.act-pres + root sṛ"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsṛtipralayasya",
+     "gloss": "of-transmigration-dissolution",
+     "grounds": "genitive compound",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative genitive",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "accusative noun",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "saṃpracakṣmahe",
+     "gloss": "we-declare",
+     "grounds": "verb",
+     "morph": "verb.1.pl.act-pres + root cakṣ"
+    }
+   ],
+   "question": "Why does the dependent soul transmigrate?",
+   "premises": [
+    "the dependent soul enjoys enjoyment",
+    "from that state it transmigrates",
+    "therefore we declare the cause of this dissolution"
+   ],
+   "inference": "Dependent enjoyment causes transmigration, and that is declared the cause of dissolution.",
+   "uncertainties": [
+    "exact referent of tadbhāvāt"
+   ],
+   "plain_english": "The dependent soul enjoys and transmigrates from that state; therefore we declare the cause of this transmigration and dissolution."
+  },
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃrūḍhaḥ",
+     "gloss": "rooted",
+     "grounds": "past participle",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "layodayau",
+     "gloss": "dissolution-rise",
+     "grounds": "dual compound",
+     "morph": "noun.nom.du.m"
+    },
+    {
+     "surface": "niyacchan",
+     "gloss": "restraining",
+     "grounds": "participle",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "bhoktṛtām",
+     "gloss": "enjoyership",
+     "grounds": "accusative noun",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "eti",
+     "gloss": "attains",
+     "grounds": "verb",
+     "morph": "verb.3.sg.act-pres + root i"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakreśvaraḥ",
+     "gloss": "lord-of-wheel",
+     "grounds": "compound noun",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "verb.3.sg.act-opt + root bhū"
+    }
+   ],
+   "question": "When does the soul become lord of the wheel?",
+   "premises": [
+    "when rooted in one place",
+    "then dissolution and rise are restrained",
+    "enjoyership is attained and lordship follows"
+   ],
+   "inference": "Rootedness in one place restrains dissolution and rise, leading to lordship.",
+   "uncertainties": [
+    "exact sense of ekatra"
+   ],
+   "plain_english": "When rooted in one place, dissolution and rise are restrained, enjoyership is attained, and then one becomes lord of the wheel."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "agādhasaṃśayāmbhodhi",
+     "gloss": "of-deep-doubt-ocean",
+     "grounds": "genitive compound",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "samuttaraṇatāriṇīm",
+     "gloss": "crossing-boat",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "vande",
+     "gloss": "I-bow",
+     "grounds": "verb",
+     "morph": "verb.1.sg.act-pres + root vand"
+    },
+    {
+     "surface": "vicitrārthapadāṃ",
+     "gloss": "varied-meaning-worded",
+     "grounds": "accusative compound",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "citrāṃ",
+     "gloss": "beautiful",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative accusative",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "gurubhāratīm",
+     "gloss": "guru-speech",
+     "grounds": "accusative compound",
+     "morph": "noun.acc.sg.f"
+    }
+   ],
+   "question": "To what does the speaker bow?",
+   "premises": [
+    "the guru speech is a crossing boat",
+    "it crosses the deep doubt ocean",
+    "it is beautiful and varied in meaning"
+   ],
+   "inference": "The speaker bows to the guru's speech as a boat across doubt.",
+   "uncertainties": [
+    "whether tāṃ modifies speech or boat"
+   ],
+   "plain_english": "I bow to that beautiful guru speech, varied in meaning, a boat crossing the deep ocean of doubt."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "labdhvāpy",
+     "gloss": "having-obtained-even",
+     "grounds": "absolutive",
+     "morph": "absolutive + root labh"
+    },
+    {
+     "surface": "alabhyam",
+     "gloss": "unobtainable",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "etaj",
+     "gloss": "this",
+     "grounds": "demonstrative accusative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "jñānadhanaṃ",
+     "gloss": "knowledge-treasure",
+     "grounds": "accusative compound",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "hṛdguhāntakṛtanihiteḥ",
+     "gloss": "in-heart-cave-placed",
+     "grounds": "genitive compound",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "vasuguptavac",
+     "gloss": "by-Vasugupta",
+     "grounds": "instrumental compound",
+     "morph": "noun.instr.sg.m"
+    },
+    {
+     "surface": "śivāya",
+     "gloss": "for-auspiciousness",
+     "grounds": "dative noun",
+     "morph": "noun.dat.sg.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "verb.3.sg.act-pres + root bhū"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvalokasya",
+     "gloss": "of-all-worlds",
+     "grounds": "genitive compound",
+     "morph": "noun.gen.sg.m"
+    }
+   ],
+   "question": "What becomes auspicious for all worlds?",
+   "premises": [
+    "this knowledge treasure is unobtainable",
+    "it is placed in the heart cave",
+    "by Vasugupta it becomes auspicious always"
+   ],
+   "inference": "Vasugupta's teaching makes the hidden knowledge treasure auspicious for all worlds.",
+   "uncertainties": [
+    "exact force of labdhvāpy"
+   ],
+   "plain_english": "Having obtained even this unobtainable knowledge treasure placed in the heart cave, by Vasugupta it indeed becomes always auspicious for all worlds."
+  }
+ ]
+}

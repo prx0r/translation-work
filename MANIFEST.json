@@ -1,6 +1,6 @@
 {
- "rev": "078cec4e502cd0c0c9c716a44250c19082384d50",
- "at": "2026-11-11T07:14:26+00:00",
+ "rev": "f61318cb0b82cb474f67d7e1d7552b1c0d96ead0",
+ "at": "2026-11-11T07:22:30+00:00",
  "files": {
   "ajadapramatrsiddhi/data/ajad-p01.argmap.json": {
    "sha256": "f7f7ec1ce551288d8b4f2e2294a3351a25afefbdc3efb460413975c6e271df80",
@@ -5198,6 +5198,26 @@
    "sha256": "cb61a697df1530a688a01b76cf6e652753975a09a81f79f464d2997ed13fee8e",
    "bytes": 14661
   },
+  "kularnavatantra/T1-kul-p01.md": {
+   "sha256": "0ec3144edf0845296660da31246f80169362e92a6afeff0bba1b9262c96f0a40",
+   "bytes": 3279
+  },
+  "kularnavatantra/T1-kul-p02.md": {
+   "sha256": "c3bf21d0daadfb96052b3235d0ad89630177e7bbe5b553440c9b84784803731f",
+   "bytes": 3699
+  },
+  "kularnavatantra/T1-kul-p03.md": {
+   "sha256": "15877a9eafb0d9c41039a5da7923dfbbf259b7abb04ef94a8883f1047fd4956c",
+   "bytes": 3685
+  },
+  "kularnavatantra/STATUS.json": {
+   "sha256": "9c56a5d5b412b305bc0eb54f84b8949a6a2aae40efa6da936c015d3aa8742001",
+   "bytes": 240
+  },
+  "kularnavatantra/passages.jsonl": {
+   "sha256": "5f39af54f51df558d5a6f7a28490e7fee799e4aeef2ef86aa18f98437f76128c",
+   "bytes": 120183
+  },
   "mahopadeshavimshatika/data/mpa-p01.argmap.json": {
    "sha256": "74bc7f9c8d41f50975a25c1a801bc40af97315a5b0d44d1f7b61d232d73e005c",
    "bytes": 8570
@@ -7859,8 +7879,8 @@
    "bytes": 2050
   },
   "saktavijnana/STATUS.json": {
-   "sha256": "70dedf8a55343518216ef1b08b4a45cb4e0f05098798a9cb290dc9d5678c7013",
-   "bytes": 1373
+   "sha256": "c74239b8270604fb1e71bf56bcd07d6ab07597ca29f7921276ff29286b3e20c4",
+   "bytes": 1400
   },
   "saktavijnana/passages.jsonl": {
    "sha256": "645d17d8f12cc9511c8f6a2a5210738fefb65f9312a612a8e9189c68636282e7",
@@ -9102,17 +9122,21 @@
    "sha256": "aa39440acb567b8fe35fa7663dc66896ac3c87078cdc2c9cf743b89078c3c002",
    "bytes": 2236
   },
+  "sivasutra/T1-span-p09.md": {
+   "sha256": "70de0183bc06406b9a641cc8d5973ba1512edeb8fd907176d53d2415039928b2",
+   "bytes": 393
+  },
   "sivasutra/T1.md": {
    "sha256": "f4cf2474989dfab2e9a69b14266b703020e74ae9009533459151edb90f967ac5",
    "bytes": 6955
   },
   "sivasutra/STATUS.json": {
-   "sha256": "32d78876ff41b2c9b8f5aaf5fed272b744394c815c982305d156c3f32e4e314c",
-   "bytes": 1151
+   "sha256": "e980e3637a005c90ad45ba391e7eb0712496bee8249f0d060e666a02ba62fcc9",
+   "bytes": 1175
   },
   "sivasutra/passages.jsonl": {
-   "sha256": "084e6f5c3337a710c2bbd7339e42fe6882183e3a39c103895f8faa79b1fe900d",
-   "bytes": 4787
+   "sha256": "fec94a5930fd8dcd89ad36a2047ed0b0a5eb2471df35b3ec1ffdf731e3d47f8b",
+   "bytes": 5050
   },
   "sivasutra/GATE.json": {
    "sha256": "d607c8399e1669114bb95cdb73fed716596cab2afa00c3cb773d7889102ea03d",
@@ -9330,17 +9354,29 @@
    "sha256": "dca31bd25e104e82676c63ff65310b4d70501171414b6e7da71ba0ed7d17f647",
    "bytes": 2072
   },
+  "spanda/T1-span-p04b.md": {
+   "sha256": "9664a20bab2aa66c1424e26b349778428284bdcd198d026660d36a6bb9fc4831",
+   "bytes": 3609
+  },
+  "spanda/T1-span-p05.md": {
+   "sha256": "04eefe3b63718a58ccfcf2367e8d22327bc563521d92f88e6b4608fb2ad93aed",
+   "bytes": 2480
+  },
+  "spanda/T1-span-p06.md": {
+   "sha256": "51a508714c40bcb25df61e255066f42e5f3b216c33a98557880cb9544504339e",
+   "bytes": 1718
+  },
   "spanda/T1.md": {
    "sha256": "29558ccfe0c981dfe39f0409e9d59e82dd1f9938e0e513cd20e0dceef8677369",
    "bytes": 2820
   },
   "spanda/STATUS.json": {
-   "sha256": "7690126a5525fabc7c5706ae1dca96f488bde266bdcfd1bca81ed9ac1548344b",
-   "bytes": 1103
+   "sha256": "4d1eb4189452d86d75d77bfde754d54ad5f429f34adb9fb676c3732b5fe2bb16",
+   "bytes": 1124
   },
   "spanda/passages.jsonl": {
-   "sha256": "5e4a2770a90f98f7731be80149a1999abad217888f911e151f6b19937f4adaef",
-   "bytes": 7429
+   "sha256": "d221ea985ebe3dec03069a50b5d41026ca56dd9e435b3d72d0bffb3aa0a357af",
+   "bytes": 9095
   },
   "spanda/GATE.json": {
    "sha256": "1b6dc2081e79f12c7844276fc4d69e91c49b52cd1b01fec2df5f9bb5c3283981",
@@ -10039,8 +10075,8 @@
    "bytes": 4181
   },
   "svabodhasiddhi/STATUS.json": {
-   "sha256": "1dd6cb933ea9aa47a01cac00f2c54dde00bb1e9ae65069a1c773e9ae90bef047",
-   "bytes": 1320
+   "sha256": "2b0246f2da9d11392305e8194448f90efb76e87ec524c9f8abf748be3b1f9f74",
+   "bytes": 1348
   },
   "svabodhasiddhi/passages.jsonl": {
    "sha256": "32d1b14096ce9d68b21b4bdb5987f23bf5bf649d37b57a9f9ec80b9bc0dfefd1",

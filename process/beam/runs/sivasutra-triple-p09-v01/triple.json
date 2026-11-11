@@ -1,0 +1,101 @@
+{
+ "song": "span-p09",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "śuddha+",
+     "gloss": "pure",
+     "grounds": "legacy hint pure; compound member",
+     "morph": "compound=pure+member"
+    },
+    {
+     "surface": "vidyā+",
+     "gloss": "knowledge",
+     "grounds": "legacy hint knowledge; compound head",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "udayāt+",
+     "gloss": "from-arising",
+     "grounds": "legacy hint from-arising; ablative sense",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "cakreśatva+",
+     "gloss": "of-wheel-lordship",
+     "grounds": "legacy hint of-wheel-lordship; genitive sense",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "legacy hint accomplishment; nominative result",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the arising of pure knowledge accomplish wheel-lordship?",
+   "premises": [
+    "pure knowledge arises",
+    "wheel-lordship becomes accomplished"
+   ],
+   "inference": "the arising of pure knowledge accomplishes wheel-lordship",
+   "uncertainties": [
+    "compound boundaries inferred from legacy hints"
+   ],
+   "plain_english": "From the arising of pure knowledge comes the accomplishment of wheel-lordship."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "mahā+",
+     "gloss": "great",
+     "grounds": "legacy hint great; compound member",
+     "morph": "compound=great+member"
+    },
+    {
+     "surface": "hrada+",
+     "gloss": "lake",
+     "grounds": "legacy hint lake; compound member",
+     "morph": "compound=lake+member"
+    },
+    {
+     "surface": "anusandhāna+",
+     "gloss": "contemplation",
+     "grounds": "legacy hint contemplation; compound member",
+     "morph": "compound=contemplation+member"
+    },
+    {
+     "surface": "mantra+",
+     "gloss": "mantra",
+     "grounds": "legacy hint mantra; compound member",
+     "morph": "compound=mantra+member"
+    },
+    {
+     "surface": "vīrya+",
+     "gloss": "power",
+     "grounds": "legacy hint power; compound member",
+     "morph": "compound=power+member"
+    },
+    {
+     "surface": "anubhavaḥ",
+     "gloss": "experience",
+     "grounds": "legacy hint experience; nominative result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What experience follows from contemplation of the great lake and mantra power?",
+   "premises": [
+    "great lake is contemplated",
+    "mantra power is experienced"
+   ],
+   "inference": "contemplation of the great lake yields experience of mantra power",
+   "uncertainties": [
+    "compound boundaries inferred from legacy hints"
+   ],
+   "plain_english": "Experience of mantra power arises through contemplation of the great lake."
+  }
+ ]
+}
