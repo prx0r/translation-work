@@ -60,6 +60,17 @@ def main() -> int:
     except Exception:
         qstat = {}
     try:
+        ch = {}
+        with open(ROOT / "process/beam/curated_hits.jsonl", encoding="utf-8") as f:
+            for ln in f:
+                try:
+                    r = json.loads(ln)
+                    ch[r["catalog"]] = r["hits"]
+                except Exception:
+                    pass
+    except Exception:
+        ch = {}
+    try:
         idx = json.load(open("/root/openpatalaproject/data/corpus/"
                              "translation-availability.json")).get("works", {})
         ixn = {norm(w.get("title", "")): w for w in idx.values()}
@@ -87,6 +98,12 @@ def main() -> int:
                 fT, fwhy = FAMOUS[cat]
                 if fT >= T:
                     T, why = fT, "curated: " + fwhy
+            if cat in ch and ch[cat]:
+                # scraped index evidence (Magee PDFs, Dyczkowski pages,
+                # Wallis posts): each hit is a real translation artefact
+                T = T + len(ch[cat])
+                why = (why + f" + {len(ch[cat])} index hits "
+                       f"({', '.join(sorted(set(h['source'] for h in ch[cat])))})")
         out.append({"catalog": cat, "title": r["title"], "verses": r["verses"],
                     "T": T, "T_why": why, "tw": st,
                     "prose": r["verses"] == 0})
