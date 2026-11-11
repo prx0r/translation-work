@@ -1,0 +1,467 @@
+{
+ "song": "sva-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "homo",
+     "gloss": "homa",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agner",
+     "gloss": "fire",
+     "grounds": "genitive of agni",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "side",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "known",
+     "grounds": "passive participle",
+     "morph": "ptcp.nom.sg.n"
+    }
+   ],
+   "question": "How is homa placement known on both sides?",
+   "premises": [
+    "homa placement depends on fire side",
+    "right and left both apply"
+   ],
+   "inference": "The rite's placement is known by side relative to fire.",
+   "uncertainties": [],
+   "plain_english": "Homa is known on the right side of fire, and likewise on the left."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "kṛṣṇapakṣe",
+     "gloss": "black-fortnight",
+     "grounds": "compound token",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What happens in the black fortnight otherwise?",
+   "premises": [
+    "black fortnight changes placement",
+    "otherwise the result differs"
+   ],
+   "inference": "In the black fortnight the arrangement becomes otherwise.",
+   "uncertainties": [],
+   "plain_english": "In the dark fortnight it becomes otherwise."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "agnisūryābhyām",
+     "gloss": "fire-sun",
+     "grounds": "dual instrumental compound",
+     "morph": "n.inst.du"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "neuter adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is other as before by fire and sun?",
+   "premises": [
+    "fire and sun govern placement",
+    "other cases follow prior rule"
+   ],
+   "inference": "Other placements follow the prior rule by fire and sun.",
+   "uncertainties": [],
+   "plain_english": "By fire and sun, the other case is as before."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityantaḥ",
+     "gloss": "end",
+     "grounds": "compound token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "usage",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrṇāyām",
+     "gloss": "full",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "itikartavyatā",
+     "gloss": "duty",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future verb",
+     "morph": "3.sg.act-fut"
+    }
+   ],
+   "question": "What duty arises at the full ending usage?",
+   "premises": [
+    "svāhā marks ending",
+    "full rite has prescribed duty"
+   ],
+   "inference": "At the full rite's ending usage, the prescribed duty will arise.",
+   "uncertainties": [],
+   "plain_english": "The usage ending with svāhā will yield the prescribed duty at the full rite."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "kavacāvaguṇṭhitaṃ",
+     "gloss": "armor-covered",
+     "grounds": "compound participle",
+     "morph": "ptcp.acc.sg.n"
+    },
+    {
+     "surface": "rakṣitaṃ",
+     "gloss": "protected",
+     "grounds": "past participle",
+     "morph": "ptcp.acc.sg.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be made protected and armor-covered?",
+   "premises": [
+    "armor covers the rite",
+    "protection is to be made"
+   ],
+   "inference": "One should make the rite protected and covered with armor.",
+   "uncertainties": [],
+   "plain_english": "One should make it protected and covered with armor."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "camasaṃ",
+     "gloss": "cup",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dārupātram",
+     "gloss": "wooden-vessel",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What vessel is named as cup and wooden vessel?",
+   "premises": [
+    "cup is specified",
+    "wooden vessel is specified"
+   ],
+   "inference": "The cup is a wooden vessel.",
+   "uncertainties": [],
+   "plain_english": "The cup is a wooden vessel."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "yāḥ",
+     "gloss": "those",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.f"
+    },
+    {
+     "surface": "prāgādidigaṣṭasthāḥ",
+     "gloss": "east-etc-eight-directions",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.pl.f"
+    },
+    {
+     "surface": "kāmye",
+     "gloss": "desired",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "rite",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of those in eight directions?",
+   "premises": [
+    "eight directions are named",
+    "desired rite gives context"
+   ],
+   "inference": "Those in the eight directions are meant for the desired rite.",
+   "uncertainties": [],
+   "plain_english": "Those in the eight directions are for the desired rite; that is the meaning."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "jihvāsaṃnidhiḥ",
+     "gloss": "tongue-presence",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "be",
+     "grounds": "imperative verb",
+     "morph": "3.sg.act-imp"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be present at the tongue?",
+   "premises": [
+    "tongue presence is invoked",
+    "svāhā closes the formula"
+   ],
+   "inference": "Let tongue-presence be, thus with svāhā.",
+   "uncertainties": [],
+   "plain_english": "Let there be tongue-presence, thus svāhā."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "śaktirūpam",
+     "gloss": "power-form",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-appoint",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What seat should be appointed for him?",
+   "premises": [
+    "seat has power form",
+    "appointment is prescribed"
+   ],
+   "inference": "One should appoint his seat in power-form.",
+   "uncertainties": [],
+   "plain_english": "One should appoint his seat in the form of power."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "gatārtham",
+     "gloss": "completed-meaning",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.n"
+    }
+   ],
+   "question": "What is this completed meaning?",
+   "premises": [
+    "this has completed meaning",
+    "prior point is finished"
+   ],
+   "inference": "This is the completed meaning.",
+   "uncertainties": [],
+   "plain_english": "This is the completed meaning."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃsākṣareṇa",
+     "gloss": "haṃsa-syllable",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is done as before by haṃsa syllable?",
+   "premises": [
+    "prior procedure repeats",
+    "haṃsa syllable is instrument"
+   ],
+   "inference": "As before, it is done by the haṃsa syllable only.",
+   "uncertainties": [],
+   "plain_english": "As before, it is done by the haṃsa syllable only."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "śodhyādhvānam",
+     "gloss": "purify-path",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "adhvanā",
+     "gloss": "path",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cikīrṣati",
+     "gloss": "wishes",
+     "grounds": "desiderative verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "By which path does the guru wish initiation?",
+   "premises": [
+    "path must be purified",
+    "guru wishes initiation"
+   ],
+   "inference": "The guru wishes initiation by the path that is purified.",
+   "uncertainties": [],
+   "plain_english": "The guru wishes initiation by the path that is to be purified."
+  }
+ ]
+}

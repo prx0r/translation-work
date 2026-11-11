@@ -1,0 +1,45 @@
+{
+ "song": "sva-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "kālāgnirudrādivaicitryeṇa",
+     "gloss": "by-variety-kala-agni-rudra-etc",
+     "grounds": "instrumental singular of vaicitrya; compound kāla-agni-rudra-ādi-vaicitrya",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "nominative masculine singular participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative masculine singular noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the verse identify as the meaning of the statement?",
+   "premises": [
+    "The variety of Kālāgnirudra etc. is instrumental.",
+    "The Lord is situated by that variety.",
+    "Thus is the meaning."
+   ],
+   "inference": "The verse states that the meaning is the Lord's situatedness through the variety of Kālāgnirudra and others.",
+   "uncertainties": [
+    "The exact referent of ādi is not specified in this verse."
+   ],
+   "plain_english": "The meaning is: situated by the variety of Kālāgnirudra and others."
+  }
+ ]
+}

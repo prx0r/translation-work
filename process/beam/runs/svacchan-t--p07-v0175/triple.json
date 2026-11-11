@@ -1,0 +1,63 @@
+{
+ "song": "sva-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "uktavān",
+     "gloss": "said",
+     "grounds": "past participle of vac, 'to speak'",
+     "morph": "part.3.sg.m.nom"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "first-person pronoun",
+     "morph": "pron.1.sg.nom"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning-thus",
+     "grounds": "compound of iti and artha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "diśāsu",
+     "gloss": "in-directions",
+     "grounds": "locative plural of diśā",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "etcetera",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raiśaḥ",
+     "gloss": "aiśa",
+     "grounds": "adjectival form, possibly sandhi variant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāṭhaḥ",
+     "gloss": "reading",
+     "grounds": "noun from paṭh",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the aiśa reading?",
+   "premises": [
+    "The speaker says I have said.",
+    "The phrase means thus in directions.",
+    "The aiśa reading is mentioned."
+   ],
+   "inference": "The verse states the said meaning and identifies the aiśa reading.",
+   "uncertainties": [
+    "raiśaḥ may be a sandhi or variant form of aiśaḥ."
+   ],
+   "plain_english": "I have said; meaning; in directions etc.; the aiśa reading."
+  }
+ ]
+}

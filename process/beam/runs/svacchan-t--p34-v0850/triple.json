@@ -1,0 +1,26 @@
+{
+ "song": "sva-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "ityuktaḥ",
+     "gloss": "thus-said",
+     "grounds": "sandhi fusion of iti + uktaḥ; past participle of vac 'to speak'",
+     "morph": "participle.m.nom.sg"
+    }
+   ],
+   "question": "What concluding marker closes this passage?",
+   "premises": [
+    "the verse ends with thus-said",
+    "the speaker marks conclusion"
+   ],
+   "inference": "the preceding statement is closed as spoken",
+   "uncertainties": [
+    "exact referent of 'thus' unspecified"
+   ],
+   "plain_english": "Thus it was said."
+  }
+ ]
+}

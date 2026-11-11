@@ -1,0 +1,32 @@
+{
+ "song": "sva-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "somāt",
+     "gloss": "from-soma",
+     "grounds": "ablative singular masculine of soma",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "somalokāt",
+     "gloss": "from-soma-world",
+     "grounds": "ablative singular masculine of somaloka",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "From which source do these beings come?",
+   "premises": [
+    "Beings arise from Soma.",
+    "Soma-world is their origin."
+   ],
+   "inference": "The verse names Soma and Soma-world as source.",
+   "uncertainties": [
+    "Exact referent of Soma-world is not specified in this verse."
+   ],
+   "plain_english": "From Soma, from the world of Soma."
+  }
+ ]
+}

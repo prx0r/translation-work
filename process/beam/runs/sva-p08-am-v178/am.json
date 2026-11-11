@@ -1,0 +1,15 @@
+{
+ "song": "sva-p08",
+ "verse": 178,
+ "question": "What is the meaning of uttering the mantra?",
+ "premises": [
+  "mantra is uttered",
+  "utterance has duration",
+  "meaning is stated"
+ ],
+ "inference": "the verse gives the meaning of mantra utterance",
+ "uncertainties": [
+  "duration not quantified"
+ ],
+ "plain_english": "As long as one utters the mantra, that is the meaning."
+}
