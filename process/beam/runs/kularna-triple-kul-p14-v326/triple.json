@@ -1,0 +1,526 @@
+{
+ "song": "kul-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhante",
+     "gloss": "obtain",
+     "grounds": "root labh",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "nominative subject",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive of relation",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "māyā+vimohitāḥ",
+     "gloss": "by-maya-deluded",
+     "grounds": "compound participle",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Why do those deluded by maya fail to obtain liberation?",
+   "premises": [
+    "maya-deluded persons do not obtain liberation",
+    "liberation is withheld from them"
+   ],
+   "inference": "delusion by maya blocks liberation",
+   "uncertainties": [
+    "exact scope of te"
+   ],
+   "plain_english": "Those deluded by your maya do not obtain liberation."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "śrīprāsādaparāmantraṃ",
+     "gloss": "sacred-prasada-supreme-mantra",
+     "grounds": "compound accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parimucyate",
+     "gloss": "is-liberated",
+     "grounds": "root muc",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What happens to one who knows the supreme prasada mantra?",
+   "premises": [
+    "knowing the supreme prasada mantra liberates",
+    "liberation follows such knowledge"
+   ],
+   "inference": "knowledge of this mantra frees the knower",
+   "uncertainties": [
+    "voice of parimucyate"
+   ],
+   "plain_english": "He who knows the supreme prasada mantra is liberated."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "caturāmnāyajān",
+     "gloss": "four-amnaya-born",
+     "grounds": "compound adjective",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "mantrān",
+     "gloss": "mantras",
+     "grounds": "accusative object",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "gurvājñāṃ",
+     "gloss": "guru-command",
+     "grounds": "compound accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhajiṣyati",
+     "gloss": "will-worship",
+     "grounds": "root bhaj",
+     "morph": "3.sg.act-fut"
+    }
+   ],
+   "question": "Who will worship mantras born from the four amnayas?",
+   "premises": [
+    "worship follows guru command",
+    "four-amnaya mantras are worshipped"
+   ],
+   "inference": "the one who follows guru command worships them",
+   "uncertainties": [
+    "exact referent of yo"
+   ],
+   "plain_english": "He who follows the guru's command will worship mantras born from the four amnayas."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "śrīprāsādaparāmantraṃ",
+     "gloss": "sacred-prasada-supreme-mantra",
+     "grounds": "compound accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vijānāti",
+     "gloss": "knows",
+     "grounds": "root jñā",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "and-otherwise",
+     "grounds": "ca plus anyathā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can the supreme prasada mantra be known otherwise?",
+   "premises": [
+    "it is known in one way",
+    "it is not known otherwise"
+   ],
+   "inference": "knowledge of it is not otherwise",
+   "uncertainties": [
+    "force of cānyathā"
+   ],
+   "plain_english": "One knows the supreme prasada mantra, not otherwise."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "vasurudrārkadikpālā",
+     "gloss": "vasu-rudra-arka-dikpala",
+     "grounds": "compound nominative",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "manucandrādayaḥ",
+     "gloss": "manu-chandra-etc",
+     "grounds": "compound nominative",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Which beings are named among the vasus and dikpalas?",
+   "premises": [
+    "vasus rudras and dikpalas are named",
+    "manu and chandra are included"
+   ],
+   "inference": "these beings belong to the named group",
+   "uncertainties": [
+    "exact list membership"
+   ],
+   "plain_english": "Dear one, vasus, rudras, arkas, dikpalas, manu, chandra and others are named."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "sanakādyāśca",
+     "gloss": "sanaka-etc-and",
+     "grounds": "compound nominative with ca",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "yogīśā",
+     "gloss": "yoga-lords",
+     "grounds": "compound nominative",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "jīvanmuktāḥ",
+     "gloss": "liberated-while-living",
+     "grounds": "compound nominative",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "śukādayaḥ",
+     "gloss": "shuka-etc",
+     "grounds": "compound nominative",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Who are described as liberated while living?",
+   "premises": [
+    "sanaka and others are named",
+    "yoga lords are named",
+    "shuka and others are named"
+   ],
+   "inference": "these beings are liberated while living",
+   "uncertainties": [
+    "exact scope of ādi"
+   ],
+   "plain_english": "Sanaka and others, yoga lords, and Shuka and others are liberated while living."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantramimaṃ",
+     "gloss": "mantra-this",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "holy",
+     "grounds": "adjective accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "japantyadyāpi",
+     "gloss": "chant-still",
+     "grounds": "fused verb with adya api",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "pārvati",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Who still chants this holy mantra?",
+   "premises": [
+    "this holy mantra is obtained",
+    "it is still chanted",
+    "pārvati is addressed"
+   ],
+   "inference": "the mantra continues to be chanted",
+   "uncertainties": [
+    "subject of japanti"
+   ],
+   "plain_english": "Having obtained this holy mantra, they still chant it, O Pārvatī."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "svargañca",
+     "gloss": "heaven-and",
+     "grounds": "svargaṃ plus ca",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "mokṣañca",
+     "gloss": "liberation-and",
+     "grounds": "mokṣaṃ plus ca",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "parāprāsādajāpinaḥ",
+     "gloss": "supreme-prasada-chanters",
+     "grounds": "compound nominative",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What do supreme prasada chanters attain?",
+   "premises": [
+    "chanters attain kingdom",
+    "chanters attain heaven",
+    "chanters attain liberation"
+   ],
+   "inference": "supreme prasada chanters attain all three",
+   "uncertainties": [
+    "whether rājyaṃ is accusative object"
+   ],
+   "plain_english": "Supreme prasada chanters attain kingdom, heaven, and liberation."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "sukhena",
+     "gloss": "easily",
+     "grounds": "instrumental adverb",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "which",
+     "grounds": "relative accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "gatiṃ",
+     "gloss": "path",
+     "grounds": "accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "root yā",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "sarve'pi",
+     "gloss": "all-even",
+     "grounds": "sarve plus api",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "dhāmīkāḥ",
+     "gloss": "householders",
+     "grounds": "nominative subject",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Do all householders easily attain that path?",
+   "premises": [
+    "one goes easily along that path",
+    "not all householders attain it"
+   ],
+   "inference": "the path is not easily attained by all householders",
+   "uncertainties": [
+    "exact sense of dhāmīkāḥ"
+   ],
+   "plain_english": "The path one goes easily, not all householders attain."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "kuberaḥ",
+     "gloss": "kubera",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kiṅkaraḥ",
+     "gloss": "servant",
+     "grounds": "nominative predicate",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāprāsādajāpinaḥ",
+     "gloss": "supreme-prasada-chanters",
+     "grounds": "compound genitive",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "Who is the direct servant of supreme prasada chanters?",
+   "premises": [
+    "kubera is servant",
+    "he is direct servant",
+    "of supreme prasada chanters"
+   ],
+   "inference": "kubera serves supreme prasada chanters directly",
+   "uncertainties": [
+    "genitive number"
+   ],
+   "plain_english": "Kubera is the direct servant of a supreme prasada chanter."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "parāprāsādajāpācca",
+     "gloss": "from-supreme-prasada-chanting-and",
+     "grounds": "fused ablative with ca",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "paśuḥ",
+     "gloss": "beast",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paśupatirbhavet",
+     "gloss": "pashupati-becomes",
+     "grounds": "fused noun and verb",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What can a beast become through supreme prasada chanting?",
+   "premises": [
+    "from supreme prasada chanting",
+    "a beast becomes pashupati"
+   ],
+   "inference": "chanting transforms a beast into pashupati",
+   "uncertainties": [
+    "exact parsing of bhavet"
+   ],
+   "plain_english": "From supreme prasada chanting, a beast becomes Pashupati."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "accusative object",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "tvāñca",
+     "gloss": "you-and",
+     "grounds": "tvām plus ca",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "vijānāti",
+     "gloss": "knows",
+     "grounds": "root jñā",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "cāvayorapyatipriyaḥ",
+     "gloss": "and-our-very-dear",
+     "grounds": "fused compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Whom does he know and who is very dear to both?",
+   "premises": [
+    "he knows me",
+    "he knows you",
+    "he is very dear to both"
+   ],
+   "inference": "the knower knows both and is dear to both",
+   "uncertainties": [
+    "exact force of cāvayorapyatipriyaḥ"
+   ],
+   "plain_english": "He knows me and you, and is very dear to both of us."
+  }
+ ]
+}

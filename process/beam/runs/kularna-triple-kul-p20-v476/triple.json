@@ -1,0 +1,574 @@
+{
+ "song": "kul-p20",
+ "items": [
+  {
+   "verse": 476,
+   "rows": [
+    {
+     "surface": "devanyāsaṃ",
+     "gloss": "deva-nyasa",
+     "grounds": "compound deva+nyasa",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vidhāyetthaṃ",
+     "gloss": "thus-perform",
+     "grounds": "vidhāya+ittham",
+     "morph": "adv"
+    },
+    {
+     "surface": "mātṛkānyāsam",
+     "gloss": "matrka-nyasa",
+     "grounds": "compound matrka+nyasa",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-practice",
+     "grounds": "root car",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should deva-nyasa and matrka-nyasa be performed?",
+   "premises": [
+    "deva-nyasa is prescribed",
+    "matrka-nyasa follows it"
+   ],
+   "inference": "The practitioner performs deva-nyasa then matrka-nyasa in this manner.",
+   "uncertainties": [],
+   "plain_english": "Perform deva-nyasa thus, then practice matrka-nyasa."
+  },
+  {
+   "verse": 477,
+   "rows": [
+    {
+     "surface": "carīkulasevitāyai",
+     "gloss": "to-carikula-served",
+     "grounds": "compound cari-kula-sevita",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "āṃ",
+     "gloss": "seed-syllable-aam",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣāṃ",
+     "gloss": "seed-syllable-kshaam",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṅgalāpadam",
+     "gloss": "auspicious-word",
+     "grounds": "compound mangala+pada",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What syllables are assigned to the carikula-served power?",
+   "premises": [
+    "carikula-served power receives aam",
+    "kshaam follows as auspicious word"
+   ],
+   "inference": "The verse assigns the seed syllables aam and kshaam to that power.",
+   "uncertainties": [],
+   "plain_english": "To the carikula-served one, indeed, aam kshaam, the auspicious word."
+  },
+  {
+   "verse": 478,
+   "rows": [
+    {
+     "surface": "ambādevyai",
+     "gloss": "to-amba-devi",
+     "grounds": "compound amba+devi",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "tatah",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantakoṭibhūtaṃ",
+     "gloss": "infinite-crore-beings",
+     "grounds": "compound ananta+koti+bhuta",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "kula",
+     "grounds": "kula family",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-speak",
+     "grounds": "root vad",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be spoken after ambadevi?",
+   "premises": [
+    "ambadevi is addressed first",
+    "then infinite kula is spoken"
+   ],
+   "inference": "After ambadevi, one speaks the infinite kula.",
+   "uncertainties": [],
+   "plain_english": "To ambadevi; then speak the infinite kula."
+  },
+  {
+   "verse": 479,
+   "rows": [
+    {
+     "surface": "aṃ",
+     "gloss": "seed-syllable-am",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaṃ",
+     "gloss": "seed-syllable-ksham",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asitāṅgabhairavanāthāya",
+     "gloss": "to-asitanga-bhairava-lord",
+     "grounds": "compound asitanga+bhairava+natha",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "nama",
+     "gloss": "homage",
+     "grounds": "namah",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "should-utter",
+     "grounds": "root car",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What syllables are uttered for asitanga bhairava?",
+   "premises": [
+    "am and ksham are given",
+    "they are uttered for asitanga bhairava lord"
+   ],
+   "inference": "The verse assigns am and ksham to asitanga bhairava.",
+   "uncertainties": [],
+   "plain_english": "Utter am ksham, homage to asitanga bhairava lord."
+  },
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "vetālaṃ",
+     "gloss": "vetala",
+     "grounds": "vetala",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "iṃ",
+     "gloss": "seed-syllable-im",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laṃ",
+     "gloss": "seed-syllable-lam",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cacīkaṃ",
+     "gloss": "cacika",
+     "grounds": "cacika",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ruruṃ",
+     "gloss": "ruru",
+     "grounds": "ruru",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śeṣañca",
+     "gloss": "remainder-and",
+     "grounds": "sesha+ca fused",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "purvavat",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are vetala and related beings treated?",
+   "premises": [
+    "vetala receives im lam",
+    "cacika and ruru follow",
+    "remainder is as before"
+   ],
+   "inference": "The verse assigns syllables and treats the rest by the previous pattern.",
+   "uncertainties": [],
+   "plain_english": "Vetala gets im lam; cacika and ruru follow; the rest as before."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "kaumārīñca",
+     "gloss": "kaumari-and",
+     "grounds": "kaumari+ca fused",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piśācañca",
+     "gloss": "pisaca-and",
+     "grounds": "pisaca+ca fused",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uṃ",
+     "gloss": "seed-syllable-um",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃ",
+     "gloss": "seed-syllable-ham",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogeśacaṇḍakau",
+     "gloss": "yogesha-and-chandaka",
+     "grounds": "compound yogesa+chandaka",
+     "morph": "nom.du.m"
+    }
+   ],
+   "question": "What syllables belong to kaumari and pisaca?",
+   "premises": [
+    "kaumari and pisaca are named",
+    "um and ham are assigned",
+    "yogesha and chandaka are named"
+   ],
+   "inference": "The verse pairs kaumari and pisaca with um and ham, then names yogesha and chandaka.",
+   "uncertainties": [],
+   "plain_english": "Kaumari and pisaca, with um ham; yogesha and chandaka."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "apasmāraṃ",
+     "gloss": "apasmara",
+     "grounds": "apasmara",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ṛṃ",
+     "gloss": "seed-syllable-rm",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃ",
+     "gloss": "seed-syllable-sam",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "harasiddhakrodhādipūrvavat",
+     "gloss": "hara-siddha-krodha-etc-as-before",
+     "grounds": "compound hara+siddha+krodha+adi+purvavat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "purvavat",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What syllables are given to apasmara?",
+   "premises": [
+    "apasmara receives rm sam",
+    "hara siddha krodha etc follow as before"
+   ],
+   "inference": "The verse assigns rm and sam to apasmara and continues the prior pattern.",
+   "uncertainties": [],
+   "plain_english": "Apasmara gets rm sam; hara, siddha, krodha and so on as before."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "brahmarākṣasakaṃ",
+     "gloss": "brahma-rakshasa",
+     "grounds": "compound brahma+rakshasa",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ḷṃ",
+     "gloss": "seed-syllable-lm",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣāṃ",
+     "gloss": "seed-syllable-shaam",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaṭṭonmattādi",
+     "gloss": "bhatta-unmatta-etc",
+     "grounds": "compound bhatta+unmatta+adi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "purvavat",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What syllables are given to brahma rakshasa?",
+   "premises": [
+    "brahma rakshasa receives lm shaam",
+    "bhatta unmatta etc follow as before"
+   ],
+   "inference": "The verse assigns lm and shaam to brahma rakshasa and continues the prior pattern.",
+   "uncertainties": [],
+   "plain_english": "Brahma rakshasa gets lm shaam; bhatta, unmatta and so on as before."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "indrāṇīṃ",
+     "gloss": "indrani",
+     "grounds": "indrani",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ceṭakaṃ",
+     "gloss": "cetaka",
+     "grounds": "cetaka",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "eṃ",
+     "gloss": "seed-syllable-em",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃ",
+     "gloss": "seed-syllable-sham",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiliḥ",
+     "gloss": "kili",
+     "grounds": "kili",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kāpālikastathā",
+     "gloss": "kapalika-and-so",
+     "grounds": "kapalika+tatha fused",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-so",
+     "grounds": "tatha",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What syllables are given to indrani and cetaka?",
+   "premises": [
+    "indrani and cetaka are named",
+    "em and sham are assigned",
+    "kapalika follows likewise"
+   ],
+   "inference": "The verse assigns em and sham to indrani and cetaka, then names kapalika.",
+   "uncertainties": [],
+   "plain_english": "Indrani and cetaka get em sham; kili, kapalika and so on."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "cāmuṇḍāṃ",
+     "gloss": "camunda",
+     "grounds": "camunda",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pretaṃ",
+     "gloss": "preta",
+     "grounds": "preta",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "seed-syllable-om",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃ",
+     "gloss": "seed-syllable-vam",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālarātriśca",
+     "gloss": "kalaratri-and",
+     "grounds": "kalaratri+ca fused",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīṣaṇaḥ",
+     "gloss": "fearsome-one",
+     "grounds": "bhisana",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What syllables are given to camunda and preta?",
+   "premises": [
+    "camunda and preta are named",
+    "om and vam are assigned",
+    "kalaratri and fearsome one follow"
+   ],
+   "inference": "The verse assigns om and vam to camunda and preta, then names kalaratri and the fearsome one.",
+   "uncertainties": [],
+   "plain_english": "Camunda and preta get om vam; kalaratri and the fearsome one follow."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "mahālakṣmīṃ",
+     "gloss": "mahalakshmi",
+     "grounds": "mahalakshmi",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "śākinīśca",
+     "gloss": "shakini-and",
+     "grounds": "shakini+ca fused",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃ",
+     "gloss": "seed-syllable-am",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laṃ",
+     "gloss": "seed-syllable-lam",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścācca",
+     "gloss": "afterwards-and",
+     "grounds": "pascat+ca fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīṣaṇam",
+     "gloss": "fearsome-one",
+     "grounds": "bhisana",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What syllables are given to mahalakshmi and shakini?",
+   "premises": [
+    "mahalakshmi and shakini are named",
+    "am and lam are assigned",
+    "afterwards the fearsome one follows"
+   ],
+   "inference": "The verse assigns am and lam to mahalakshmi and shakini, then names the fearsome one afterwards.",
+   "uncertainties": [],
+   "plain_english": "Mahalakshmi and shakini get am lam; afterwards the fearsome one."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "mūlādhāraliṅganābhiṣvanāhataviśuddhayoḥ",
+     "gloss": "mula-adhara-linga-nabhi-svanahata-vishuddhi",
+     "grounds": "compound mula+adhara+linga+nabhi+svanahata+vishuddhi",
+     "morph": "gen.du.f"
+    }
+   ],
+   "question": "Which centers are named in this compound?",
+   "premises": [
+    "mula adhara is named",
+    "linga nabhi svanahata and vishuddhi are named"
+   ],
+   "inference": "The verse names the centers from mula adhara through vishuddhi.",
+   "uncertainties": [],
+   "plain_english": "Mula adhara, linga, nabhi, svanahata, and vishuddhi."
+  }
+ ]
+}

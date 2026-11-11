@@ -1,0 +1,561 @@
+{
+ "song": "kul-p07",
+ "items": [
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "acirānnātra",
+     "gloss": "soon-not-here",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "na+atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehastasmāt",
+     "gloss": "doubt-therefore",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "tasmāt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula-way",
+     "grounds": "kaula accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāśrayet",
+     "gloss": "should-resort",
+     "grounds": "sam+āśrayet",
+     "morph": "3.sg.act.opt.+āśri"
+    }
+   ],
+   "question": "Why should one resort to Kaula without delay?",
+   "premises": [
+    "doubt is removed by Kaula",
+    "therefore one should resort to it",
+    "delay is unnecessary"
+   ],
+   "inference": "One should take refuge in Kaula promptly.",
+   "uncertainties": [
+    "fused token boundaries are editorial"
+   ],
+   "plain_english": "Therefore, without delay and without doubt, one should take refuge in the Kaula way."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "svagṛhe",
+     "gloss": "in-own-house",
+     "grounds": "sva+gṛhe",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "milk-rice",
+     "grounds": "pāyasa accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "tyaktvā gerund",
+     "morph": "ger.+tyaj"
+    },
+    {
+     "surface": "bhikṣāmaṭati",
+     "gloss": "begs-alms-wanders",
+     "grounds": "fused bhikṣām+aṭati",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṭati",
+     "gloss": "wanders",
+     "grounds": "aṭati",
+     "morph": "3.sg.act.pres.+aṭ"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "O-Parvati",
+     "grounds": "pārvati vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why is abandoning home comfort for begging foolish?",
+   "premises": [
+    "one abandons milk-rice at home",
+    "one then begs and wanders",
+    "this is self-defeating"
+   ],
+   "inference": "Rejecting available good for needless hardship is folly.",
+   "uncertainties": [
+    "fused verb token"
+   ],
+   "plain_english": "O Parvati, abandoning milk-rice in one's own house to beg and wander is foolish."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "karasthaṃ",
+     "gloss": "hand-held",
+     "grounds": "kara+sthaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ratnam",
+     "gloss": "jewel",
+     "grounds": "ratna accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "utsṛjya",
+     "gloss": "having-abandoned",
+     "grounds": "utsṛjya gerund",
+     "morph": "ger.+utsṛj"
+    },
+    {
+     "surface": "dūrasthaṃ",
+     "gloss": "far-held",
+     "grounds": "dūra+sthaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kācam",
+     "gloss": "glass",
+     "grounds": "kāca accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īhate",
+     "gloss": "desires",
+     "grounds": "īhate",
+     "morph": "3.sg.mid.pres.+īh"
+    }
+   ],
+   "question": "Why is abandoning a jewel for glass foolish?",
+   "premises": [
+    "a jewel is already in hand",
+    "glass lies far away",
+    "desiring glass is delusion"
+   ],
+   "inference": "One should not discard present value for distant worthlessness.",
+   "uncertainties": [],
+   "plain_english": "Having abandoned a jewel in hand, one foolishly desires distant glass."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "sa nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhānyarāśim",
+     "gloss": "grain-heap",
+     "grounds": "dhānya+rāśim",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "utsṛjya",
+     "gloss": "having-abandoned",
+     "grounds": "utsṛjya gerund",
+     "morph": "ger.+utsṛj"
+    },
+    {
+     "surface": "pāṃsurāśiṃ",
+     "gloss": "dust-heap",
+     "grounds": "pāṃsu+rāśiṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jighṛkṣati",
+     "gloss": "wishes-to-grasp",
+     "grounds": "jighṛkṣati",
+     "morph": "3.sg.act.desid.+grah"
+    }
+   ],
+   "question": "Why is abandoning grain for dust foolish?",
+   "premises": [
+    "grain heap is abandoned",
+    "dust heap is grasped",
+    "this reverses value"
+   ],
+   "inference": "One should not exchange real wealth for worthless matter.",
+   "uncertainties": [],
+   "plain_english": "He abandons a heap of grain and wishes to grasp a heap of dust."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "taḍāgādiva",
+     "gloss": "like-from-pond",
+     "grounds": "taḍāgāt+iva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛṣṇārtto",
+     "gloss": "thirst-afflicted",
+     "grounds": "tṛṣṇā+ārtaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛgatṛṣṇāṃ",
+     "gloss": "mirage",
+     "grounds": "mṛga+tṛṣṇāṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pradhāvati",
+     "gloss": "runs-toward",
+     "grounds": "pradhāvati",
+     "morph": "3.sg.act.pres.+dhāv"
+    }
+   ],
+   "question": "Why does the thirsty one chase a mirage?",
+   "premises": [
+    "thirst afflicts him",
+    "he runs toward mirage",
+    "mirage cannot quench thirst"
+   ],
+   "inference": "Delusion drives pursuit of unreal relief.",
+   "uncertainties": [],
+   "plain_english": "Thirst-afflicted, he runs toward a mirage as if from a pond."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "śrīkaulād",
+     "gloss": "from-glorious-kaula",
+     "grounds": "śrī+kaulāt",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "anyasamayāstādṛśāḥ",
+     "gloss": "other-systems-such",
+     "grounds": "fused anya+samayāḥ+tādṛśāḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛśāḥ",
+     "gloss": "such",
+     "grounds": "tādṛśāḥ nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-Kula-leader",
+     "grounds": "kula+nāyike",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How do other systems compare with glorious Kaula?",
+   "premises": [
+    "other systems are unlike Kaula",
+    "Kaula is glorious",
+    "Kula leader is addressed"
+   ],
+   "inference": "Other systems are not equal to glorious Kaula.",
+   "uncertainties": [
+    "fused token boundary"
+   ],
+   "plain_english": "O Kula leader, other systems are not such as glorious Kaula."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "pārāvāram",
+     "gloss": "far-shore",
+     "grounds": "pārāvāra accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "apāraṃ",
+     "gloss": "boundless",
+     "grounds": "apāra accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "sa nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāṇibhyāṃ",
+     "gloss": "with-hands",
+     "grounds": "pāṇibhyām instrumental",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "tarttum",
+     "gloss": "to-cross",
+     "grounds": "tarttum infinitive",
+     "morph": "inf.+tṛ"
+    },
+    {
+     "surface": "icchati",
+     "gloss": "wishes",
+     "grounds": "icchati",
+     "morph": "3.sg.act.pres.+iṣ"
+    }
+   ],
+   "question": "Why is crossing the boundless with hands impossible?",
+   "premises": [
+    "far shore is boundless",
+    "hands are limited",
+    "wishing cannot make it possible"
+   ],
+   "inference": "Limited means cannot cross boundless reality.",
+   "uncertainties": [],
+   "plain_english": "He wishes to cross the boundless far shore with his hands."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "svapnalabdhadhanenaiva",
+     "gloss": "with-dream-gained-wealth-indeed",
+     "grounds": "svapna+labdha+dhana+ena+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanavān",
+     "gloss": "wealthy",
+     "grounds": "dhana+vān",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "sa nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "bhavet",
+     "morph": "3.sg.act.opt.+bhū"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "tadā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is dream wealth not real wealth?",
+   "premises": [
+    "dream wealth is unreal",
+    "one would become wealthy only then",
+    "such wealth lacks substance"
+   ],
+   "inference": "Unreal gain cannot make one truly wealthy.",
+   "uncertainties": [],
+   "plain_english": "With dream-gained wealth indeed, he would become wealthy then."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "tathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyasamayebhyaśca",
+     "gloss": "from-other-systems-and",
+     "grounds": "anya+samayebhyaḥ+ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuktirmuktiḥ",
+     "gloss": "enjoyment-liberation",
+     "grounds": "fused bhuktiḥ+muktiḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "mukti nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "prakāśate",
+     "morph": "3.sg.mid.pres.+prakāś"
+    }
+   ],
+   "question": "How does Kaula differ from other systems?",
+   "premises": [
+    "other systems are contrasted",
+    "enjoyment and liberation shine",
+    "Kaula reveals both"
+   ],
+   "inference": "Kaula uniquely reveals enjoyment and liberation.",
+   "uncertainties": [
+    "fused token boundary"
+   ],
+   "plain_english": "So from other systems, enjoyment and liberation shine forth."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "kulaniṣṭhaḥ",
+     "gloss": "steadfast-in-Kula",
+     "grounds": "kula+niṣṭhaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "O-Kula-ladies",
+     "grounds": "kula+īśāni",
+     "morph": "f.voc.pl"
+    },
+    {
+     "surface": "bhuktirmuktyoḥ",
+     "gloss": "of-enjoyment-and-liberation",
+     "grounds": "bhukti+muktyoḥ",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "sa nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "vessel",
+     "grounds": "bhājana nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who is the vessel of enjoyment and liberation?",
+   "premises": [
+    "one steadfast in Kula",
+    "is addressed to Kula ladies",
+    "is vessel of both"
+   ],
+   "inference": "The Kula-steadfast person is the vessel of enjoyment and liberation.",
+   "uncertainties": [],
+   "plain_english": "O Kula ladies, one steadfast in Kula is the vessel of enjoyment and liberation."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "so'pi",
+     "gloss": "he-too",
+     "grounds": "saḥ+api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadgatim",
+     "gloss": "good-goal",
+     "grounds": "sat+gatim",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "attains",
+     "grounds": "āpnoti",
+     "morph": "3.sg.act.pres.+āp"
+    },
+    {
+     "surface": "kimutāsya",
+     "gloss": "how-much-more-his",
+     "grounds": "kim+uta+asya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāyaṇaḥ",
+     "gloss": "devoted",
+     "grounds": "parāyaṇa nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does even a lesser follower attain?",
+   "premises": [
+    "he too attains good goal",
+    "how much more his devoted follower",
+    "devotion increases attainment"
+   ],
+   "inference": "Even a lesser follower attains good goal, and the devoted even more.",
+   "uncertainties": [],
+   "plain_english": "He too attains a good goal; how much more his devoted follower."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "honored",
+     "grounds": "pūjita nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjayatyāśu",
+     "gloss": "honors-quickly",
+     "grounds": "pūjayati+āśu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "tasmāt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "taṃ accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-abandon",
+     "grounds": "parityajet",
+     "morph": "3.sg.act.opt.+tyaj"
+    }
+   ],
+   "question": "Why should one not abandon an honored teacher?",
+   "premises": [
+    "he is honored",
+    "he honors quickly",
+    "therefore do not abandon him"
+   ],
+   "inference": "One should not abandon the honored teacher.",
+   "uncertainties": [
+    "fused verb token"
+   ],
+   "plain_english": "Honored, he honors quickly; therefore do not abandon him."
+  }
+ ]
+}

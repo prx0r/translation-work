@@ -1,0 +1,56 @@
+{
+ "song": "kul-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "tatphalaṃ",
+     "gloss": "that-fruit",
+     "grounds": "tat (that) + phalam (fruit), fused form",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaknomi",
+     "gloss": "able",
+     "grounds": "root śak, first person singular active present",
+     "morph": "1.sg.act-pres, root śak"
+    },
+    {
+     "surface": "kathituṃ",
+     "gloss": "to-tell",
+     "grounds": "infinitive of root kath",
+     "morph": "inf, root kath"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-goddess",
+     "grounds": "kula (family/powers) + nāyikā (goddess/leader), vocative singular feminine",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Why can the speaker not tell that fruit to the Kula goddess?",
+   "premises": [
+    "The speaker cannot tell that fruit.",
+    "The fruit is addressed to the Kula goddess."
+   ],
+   "inference": "The fruit's greatness exceeds what can be spoken.",
+   "uncertainties": [
+    "Whether tatphalam functions as a direct object or a compound adjective."
+   ],
+   "plain_english": "O Kula goddess, I am not able to tell that fruit."
+  }
+ ]
+}

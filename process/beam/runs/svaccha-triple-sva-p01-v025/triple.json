@@ -1,0 +1,45 @@
+{
+ "song": "sva-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphuṭākāratānusaṃdheyā",
+     "gloss": "clear-formness-to-be-attended",
+     "grounds": "compound expressing clear formness to be attended",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhvanati",
+     "gloss": "suggests",
+     "grounds": "root dhvan, present indicative",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What does atra indicate about clear-formness-to-be-attended?",
+   "premises": [
+    "Atra marks the present context.",
+    "Sphuṭākāratānusaṃdheyā names clear-formness-to-be-attended.",
+    "Dhvanati states the suggestion."
+   ],
+   "inference": "The verse suggests clear-formness-to-be-attended here.",
+   "uncertainties": [
+    "The exact referent of anusaṃdheyā is not explicit in this verse."
+   ],
+   "plain_english": "Here it suggests clear-formness-to-be-attended."
+  }
+ ]
+}

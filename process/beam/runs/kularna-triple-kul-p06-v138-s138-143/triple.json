@@ -12,20 +12,20 @@
     },
     {
      "surface": "anyasamayasyāpi",
-     "gloss": "other-samaya-also",
-     "grounds": "anyasamaya genitive with api particle",
-     "morph": "gen.sg.m+(indecl.)"
+     "gloss": "other-samaya",
+     "grounds": "anya+samaya+api fused; genitive singular",
+     "morph": "gen.sg.m"
     },
     {
      "surface": "kulasya",
      "gloss": "kula",
-     "grounds": "genitive of kula",
+     "grounds": "genitive singular of kula",
      "morph": "gen.sg.n"
     },
     {
      "surface": "mahadantaram",
      "gloss": "great-difference",
-     "grounds": "compound mahat plus antara",
+     "grounds": "mahat+antara compound; nominative singular neuter",
      "morph": "nom.sg.n"
     }
    ],
@@ -36,29 +36,29 @@
    ],
    "inference": "kula is set apart from other samaya by a great difference",
    "uncertainties": [
-    "exact gender of kulasya in context"
+    "gender of kula in this context"
    ],
-   "plain_english": "Thus there is a great difference between kula and other samaya."
+   "plain_english": "Thus there is a great difference between kula and any other samaya."
   },
   {
    "verse": 139,
    "rows": [
     {
      "surface": "kulena",
-     "gloss": "by-kula",
-     "grounds": "instrumental of kula",
-     "morph": "inst.sg.n"
+     "gloss": "kula",
+     "grounds": "instrumental singular of kula",
+     "morph": "instr.sg.n"
     },
     {
      "surface": "samadharmastu",
-     "gloss": "same-dharma-but",
-     "grounds": "samadharma nominative with tu particle",
-     "morph": "nom.sg.m+(indecl.)"
+     "gloss": "same-dharma",
+     "grounds": "samadharmah+tu sandhi; nominative singular masculine",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "tathāpi",
      "gloss": "thus-also",
-     "grounds": "tatha plus api",
+     "grounds": "tathā+api fused",
      "morph": "(indecl.)"
     },
     {
@@ -74,16 +74,16 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Can another samaya ever share kula's dharma?",
+   "question": "Can samadharma ever be equal through kula?",
    "premises": [
-    "kula's dharma is not shared",
-    "even so it never happens"
+    "kula gives samadharma",
+    "even so it is never equal"
    ],
-   "inference": "no other samaya ever has the same dharma as kula",
+   "inference": "samadharma through kula is never fully equal",
    "uncertainties": [
-    "scope of samadharmastu"
+    "exact scope of samadharma"
    ],
-   "plain_english": "Even so, by kula the same dharma never occurs."
+   "plain_english": "Even with kula, samadharma is never equal."
   },
   {
    "verse": 140,
@@ -91,44 +91,44 @@
     {
      "surface": "baddhaḥ",
      "gloss": "bound",
-     "grounds": "past participle baddha",
+     "grounds": "past participle of bandh; nominative singular masculine",
      "morph": "nom.sg.m"
     },
     {
      "surface": "saṃsārapāśena",
-     "gloss": "by-saṃsāra-noose",
-     "grounds": "compound saṃsāra plus pāśa instrumental",
-     "morph": "inst.sg.m"
+     "gloss": "saṃsāra-noose",
+     "grounds": "saṃsāra+pāśa compound; instrumental singular masculine",
+     "morph": "instr.sg.m"
     },
     {
      "surface": "so'ntyajānāṃ",
-     "gloss": "of-outcastes",
-     "grounds": "saḥ plus antyajānām sandhi",
+     "gloss": "he-of-outcastes",
+     "grounds": "sah+antyajānām sandhi; genitive plural masculine",
      "morph": "gen.pl.m"
     },
     {
      "surface": "priyo",
      "gloss": "beloved",
-     "grounds": "priya nominative",
+     "grounds": "nominative singular masculine",
      "morph": "nom.sg.m"
     },
     {
      "surface": "bhavet",
      "gloss": "would-be",
-     "grounds": "optative of bhū",
-     "morph": "3.sg.opt.act (bhū)"
+     "grounds": "optative third singular of bhū",
+     "morph": "3.sg.opt.act"
     }
    ],
-   "question": "What happens to one bound by saṃsāra who loves outcastes?",
+   "question": "What happens to one bound by saṃsāra who favors outcastes?",
    "premises": [
-    "he is bound by saṃsāra's noose",
-    "he is beloved of outcastes"
+    "he is bound by the noose of saṃsāra",
+    "he becomes beloved of outcastes"
    ],
-   "inference": "such a person remains bound and is not liberated",
+   "inference": "attachment to outcastes marks one still bound in saṃsāra",
    "uncertainties": [
-    "whether so'ntyajānāṃ modifies priyo or bhavet"
+    "precise social referent of antyaja"
    ],
-   "plain_english": "Bound by saṃsāra's noose, he would be beloved of outcastes."
+   "plain_english": "Bound by the noose of saṃsāra, he becomes beloved of outcastes."
   },
   {
    "verse": 141,
@@ -136,31 +136,31 @@
     {
      "surface": "brahmahatyādhikaṃ",
      "gloss": "brahmin-killing-greater",
-     "grounds": "compound brahmahatyā plus adhika",
-     "morph": "nom/acc.sg.n"
+     "grounds": "brahmahatyā+adhika compound; accusative singular neuter",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "pāpaṃ",
      "gloss": "sin",
-     "grounds": "pāpa noun",
-     "morph": "nom/acc.sg.n"
+     "grounds": "accusative singular neuter",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "saḥ pronoun",
+     "grounds": "nominative singular masculine pronoun",
      "morph": "nom.sg.m"
     },
     {
      "surface": "prāpnoti",
      "gloss": "obtains",
-     "grounds": "present of prāp",
-     "morph": "3.sg.pres.act (prāp)"
+     "grounds": "present third singular active of prāp",
+     "morph": "3.sg.act.pr"
     },
     {
      "surface": "na+saṃśayaḥ",
      "gloss": "not-doubt",
-     "grounds": "na plus saṃśayaḥ sandhi",
+     "grounds": "na+saṃśayaḥ sandhi; nominative singular masculine",
      "morph": "nom.sg.m"
     }
    ],
@@ -169,11 +169,11 @@
     "he obtains sin greater than brahmin-killing",
     "there is no doubt"
    ],
-   "inference": "the consequence is a sin exceeding brahmin-killing",
+   "inference": "the act brings sin exceeding brahmin-killing",
    "uncertainties": [
-    "exact syntactic role of brahmahatyādhikaṃ"
+    "exact referent of sa"
    ],
-   "plain_english": "He obtains a sin greater than brahmin-killing; there is no doubt."
+   "plain_english": "He obtains sin greater than brahmin-killing; there is no doubt."
   },
   {
    "verse": 142,
@@ -181,44 +181,44 @@
     {
      "surface": "svargādi",
      "gloss": "heaven-etc",
-     "grounds": "svarga plus ādi compound",
-     "morph": "nom/acc.sg.n"
+     "grounds": "svarga+ādi compound; indeclinable",
+     "morph": "(indecl.)"
     },
     {
      "surface": "dvīpāntaraṃ",
-     "gloss": "other-island",
-     "grounds": "dvīpa plus antara compound",
+     "gloss": "island-other",
+     "grounds": "dvīpa+antara compound; accusative singular neuter",
      "morph": "acc.sg.n"
     },
     {
      "surface": "gatvā",
      "gloss": "having-gone",
-     "grounds": "absolutive of gam",
-     "morph": "abs. (gam)"
+     "grounds": "gerund of gam",
+     "morph": "(indecl.)"
     },
     {
      "surface": "mokṣaratnaṃ",
      "gloss": "liberation-jewel",
-     "grounds": "mokṣa plus ratna compound",
+     "grounds": "mokṣa+ratna compound; accusative singular neuter",
      "morph": "acc.sg.n"
     },
     {
      "surface": "samaśnute",
      "gloss": "enjoys",
-     "grounds": "present middle of aś",
-     "morph": "3.sg.pres.med (aś)"
+     "grounds": "present third singular middle of aś with sam",
+     "morph": "3.sg.mid.pr"
     }
    ],
-   "question": "What does one enjoy after going to other islands?",
+   "question": "What does one enjoy after going to another island?",
    "premises": [
-    "he goes to heaven and other islands",
-    "he enjoys the jewel of liberation"
+    "one goes to another island beyond heaven",
+    "one enjoys the jewel of liberation"
    ],
-   "inference": "liberation is enjoyed only after such wandering",
+   "inference": "liberation is enjoyed only after such far journey",
    "uncertainties": [
-    "whether svargādi is accusative or nominative"
+    "whether svargādi is locative or accusative sense"
    ],
-   "plain_english": "Having gone to heaven and other islands, he enjoys the jewel of liberation."
+   "plain_english": "Having gone to another island beyond heaven, one enjoys the jewel of liberation."
   },
   {
    "verse": 143,
@@ -226,24 +226,24 @@
     {
      "surface": "mokṣaṃ",
      "gloss": "liberation",
-     "grounds": "mokṣa accusative",
+     "grounds": "accusative singular masculine",
      "morph": "acc.sg.m"
     },
     {
      "surface": "labhante",
      "gloss": "obtain",
-     "grounds": "present middle of labh",
-     "morph": "3.pl.pres.med (labh)"
+     "grounds": "present third plural middle of labh",
+     "morph": "3.pl.mid.pr"
     },
     {
      "surface": "kaule",
-     "gloss": "in-kaula",
-     "grounds": "kaula locative",
+     "gloss": "kaulas",
+     "grounds": "locative singular masculine",
      "morph": "loc.sg.m"
     },
     {
      "surface": "tu",
-     "gloss": "but",
+     "gloss": "tu",
      "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
@@ -262,20 +262,21 @@
     {
      "surface": "na+saṃśayaḥ",
      "gloss": "not-doubt",
-     "grounds": "na plus saṃśayaḥ sandhi",
+     "grounds": "na+saṃśayaḥ sandhi; nominative singular masculine",
      "morph": "nom.sg.m"
     }
    ],
    "question": "When do kaulas obtain liberation?",
    "premises": [
     "kaulas obtain liberation",
-    "they obtain it immediately"
+    "they obtain it immediately",
+    "there is no doubt"
    ],
-   "inference": "kaulas obtain liberation immediately, without doubt",
+   "inference": "kaulas obtain liberation immediately",
    "uncertainties": [
-    "exact force of tu in the sentence"
+    "exact force of tu"
    ],
-   "plain_english": "But kaulas obtain liberation immediately; there is no doubt."
+   "plain_english": "Kaulas obtain liberation immediately; there is no doubt."
   }
  ]
 }

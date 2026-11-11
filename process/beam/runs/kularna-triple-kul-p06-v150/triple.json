@@ -8,43 +8,44 @@
      "surface": "tāmeva",
      "gloss": "that-indeed",
      "grounds": "tām = that (accusative feminine singular); eva = indeed",
-     "morph": "f.acc.sg + (indecl.)"
+     "morph": "acc.sg.f + (indecl.)"
     },
     {
      "surface": "labhate",
      "gloss": "obtains",
-     "grounds": "third person singular middle present of root labh",
-     "morph": "3.sg.mid-pres + root labh"
+     "grounds": "third person singular middle present of labh",
+     "morph": "3.sg.mid-pres, root labh"
     },
     {
      "surface": "jantur",
      "gloss": "creature",
      "grounds": "nominative singular masculine of jantu",
-     "morph": "m.nom.sg"
+     "morph": "nom.sg.m"
     },
     {
      "surface": "upadeśo",
      "gloss": "instruction",
      "grounds": "nominative singular masculine of upadeśa",
-     "morph": "m.nom.sg"
+     "morph": "nom.sg.m"
     },
     {
      "surface": "nirarthakaḥ",
      "gloss": "useless",
-     "grounds": "nominative singular masculine of nirarthaka",
-     "morph": "m.nom.sg"
+     "grounds": "nominative singular masculine adjective nirarthaka",
+     "morph": "nom.sg.m"
     }
    ],
-   "question": "Why is instruction useless for the creature?",
+   "question": "What does the creature obtain without instruction?",
    "premises": [
-    "The creature obtains that very thing.",
-    "Instruction is useless."
+    "The creature obtains that indeed.",
+    "Instruction is useless.",
+    "Knowledge comes without teaching."
    ],
-   "inference": "Direct realization renders instruction unnecessary.",
+   "inference": "The creature obtains the intended realization directly, so instruction is unnecessary.",
    "uncertainties": [
-    "Exact referent of tām is not explicit in this verse."
+    "The exact referent of tām is not explicit in this verse."
    ],
-   "plain_english": "The creature obtains that very thing; instruction is useless."
+   "plain_english": "That indeed the creature obtains; instruction is useless."
   }
  ]
 }
