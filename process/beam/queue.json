@@ -126502,13 +126502,13 @@
 13
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "done",
+"attempts": 1,
 "max_attempts": 4,
-"worker": null,
-"note": "halved retry (12-13v groups pass review); v01 failed out",
+"worker": "w1",
+"note": "halved retry (12-13v groups pass review); v01 failed out | 2 verses complete",
 "created": "2026-11-11T07:53:10",
-"updated": "2026-11-11T07:53:10"
+"updated": "2026-11-11T07:53:36"
 },
 {
 "id": "kularna-triple-p01b-v02",
@@ -126521,13 +126521,13 @@
 25
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "done",
+"attempts": 1,
 "max_attempts": 4,
-"worker": null,
-"note": "halved retry (12-13v groups pass review); v01 failed out",
+"worker": "w1",
+"note": "halved retry (12-13v groups pass review); v01 failed out | 2 verses complete",
 "created": "2026-11-11T07:53:10",
-"updated": "2026-11-11T07:53:10"
+"updated": "2026-11-11T07:53:41"
 },
 {
 "id": "kularna-triple-p02a-v02",
@@ -126540,13 +126540,13 @@
 38
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "done",
+"attempts": 1,
 "max_attempts": 4,
-"worker": null,
-"note": "halved retry (12-13v groups pass review); v01 failed out",
+"worker": "w1",
+"note": "halved retry (12-13v groups pass review); v01 failed out | 2 verses complete",
 "created": "2026-11-11T07:53:10",
-"updated": "2026-11-11T07:53:10"
+"updated": "2026-11-11T07:53:49"
 },
 {
 "id": "kularna-triple-p02b-v02",
@@ -126559,13 +126559,13 @@
 50
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "done",
+"attempts": 2,
 "max_attempts": 4,
-"worker": null,
-"note": "halved retry (12-13v groups pass review); v01 failed out",
+"worker": "w1",
+"note": "halved retry (12-13v groups pass review); v01 failed out | attempt failed: v39: question rejected | 2 verses complete",
 "created": "2026-11-11T07:53:10",
-"updated": "2026-11-11T07:53:10"
+"updated": "2026-11-11T07:54:04"
 },
 {
 "id": "kularna-triple-p03a-v02",
@@ -126578,13 +126578,13 @@
 63
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "done",
+"attempts": 1,
 "max_attempts": 4,
-"worker": null,
-"note": "halved retry (12-13v groups pass review); v01 failed out",
+"worker": "w1",
+"note": "halved retry (12-13v groups pass review); v01 failed out | 2 verses complete",
 "created": "2026-11-11T07:53:10",
-"updated": "2026-11-11T07:53:10"
+"updated": "2026-11-11T07:54:11"
 },
 {
 "id": "kularna-triple-p03b-v02",
@@ -126597,13 +126597,13 @@
 75
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "done",
+"attempts": 1,
 "max_attempts": 4,
-"worker": null,
-"note": "halved retry (12-13v groups pass review); v01 failed out",
+"worker": "w1",
+"note": "halved retry (12-13v groups pass review); v01 failed out | 2 verses complete",
 "created": "2026-11-11T07:53:10",
-"updated": "2026-11-11T07:53:10"
+"updated": "2026-11-11T07:54:17"
 },
 {
 "id": "kularna-triple-p05a-v02",
@@ -126616,13 +126616,13 @@
 113
 ]
 },
-"status": "pending",
-"attempts": 0,
+"status": "done",
+"attempts": 1,
 "max_attempts": 4,
-"worker": null,
-"note": "halved retry (12-13v groups pass review); v01 failed out",
+"worker": "w1",
+"note": "halved retry (12-13v groups pass review); v01 failed out | 2 verses complete",
 "created": "2026-11-11T07:53:10",
-"updated": "2026-11-11T07:53:10"
+"updated": "2026-11-11T07:54:26"
 },
 {
 "id": "kularna-triple-p05b-v02",
@@ -126635,12 +126635,232 @@
 125
 ]
 },
+"status": "done",
+"attempts": 1,
+"max_attempts": 4,
+"worker": "w1",
+"note": "halved retry (12-13v groups pass review); v01 failed out | 2 verses complete",
+"created": "2026-11-11T07:53:10",
+"updated": "2026-11-11T07:54:36"
+},
+{
+"id": "kularna-triple-p01gap2-v03",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p01",
+"verses": [
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+]
+},
 "status": "pending",
 "attempts": 0,
 "max_attempts": 4,
 "worker": null,
-"note": "halved retry (12-13v groups pass review); v01 failed out",
-"created": "2026-11-11T07:53:10",
-"updated": "2026-11-11T07:53:10"
+"note": "gap fill after partial v02 (merger patch in place)",
+"created": "2026-11-11T08:23:55",
+"updated": "2026-11-11T08:23:55"
+},
+{
+"id": "kularna-triple-p01gap15-v03",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p01",
+"verses": [
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "gap fill after partial v02 (merger patch in place)",
+"created": "2026-11-11T08:23:55",
+"updated": "2026-11-11T08:23:55"
+},
+{
+"id": "kularna-triple-p02gap27-v03",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p02",
+"verses": [
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "gap fill after partial v02 (merger patch in place)",
+"created": "2026-11-11T08:23:55",
+"updated": "2026-11-11T08:23:55"
+},
+{
+"id": "kularna-triple-p02gap40-v03",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p02",
+"verses": [
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "gap fill after partial v02 (merger patch in place)",
+"created": "2026-11-11T08:23:55",
+"updated": "2026-11-11T08:23:55"
+},
+{
+"id": "kularna-triple-p03gap52-v03",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p03",
+"verses": [
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "gap fill after partial v02 (merger patch in place)",
+"created": "2026-11-11T08:23:55",
+"updated": "2026-11-11T08:23:55"
+},
+{
+"id": "kularna-triple-p03gap65-v03",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p03",
+"verses": [
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "gap fill after partial v02 (merger patch in place)",
+"created": "2026-11-11T08:23:55",
+"updated": "2026-11-11T08:23:55"
+},
+{
+"id": "kularna-triple-p05gap102-v03",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p05",
+"verses": [
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "gap fill after partial v02 (merger patch in place)",
+"created": "2026-11-11T08:23:55",
+"updated": "2026-11-11T08:23:55"
+},
+{
+"id": "kularna-triple-p05gap115-v03",
+"kind": "tal_triple",
+"args": {
+"work": "kularnavatantra",
+"song": "kul-p05",
+"verses": [
+115,
+116,
+117,
+118,
+119,
+120,
+121,
+122,
+123,
+124
+]
+},
+"status": "pending",
+"attempts": 0,
+"max_attempts": 4,
+"worker": null,
+"note": "gap fill after partial v02 (merger patch in place)",
+"created": "2026-11-11T08:23:55",
+"updated": "2026-11-11T08:23:55"
 }
 ]

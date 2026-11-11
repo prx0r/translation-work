@@ -578,6 +578,35 @@ TAL_TRIPLE_SYS = ('You process Tantraloka verses for a translation pipeline in O
   'internal sandhi in grounds, do not split the row.')
 
 
+def _split_merged(t: dict, verses: list, song: str, why: str):
+    """Halve a triple group with UNIQUE child ids, then MERGE children's
+    triple.jsons into the parent's (fixes last-wins overwrite where a
+    partial child clobbered the full result)."""
+    mid = len(verses) // 2
+    kids, outs = [], []
+    for part in (verses[:mid], verses[mid:]):
+        kid = dict(t, args=dict(t["args"], verses=part),
+                   id=f"{t['id']}-s{part[0]}-{part[-1]}")
+        ok, msg = run_tal_triple(kid)
+        kids.append(kid)
+        outs.append((ok, msg))
+    if not all(o[0] for o in outs):
+        return False, why + ' ' + '; '.join(o[1] for o in outs)
+    items = []
+    for kid in kids:
+        kd = json.loads((ROOT / "process" / "beam" / "runs" / kid["id"] /
+                         "triple.json").read_text())
+        items.extend(kd["items"])
+    items.sort(key=lambda x: x["verse"])
+    outd = ROOT / "process" / "beam" / "runs" / t["id"]
+    outd.mkdir(parents=True, exist_ok=True)
+    (outd / "triple.json").write_text(
+        json.dumps({"song": song, "items": items}, indent=1,
+                   ensure_ascii=False))
+    return True, (why + f' merged {len(items)}/{len(verses)} verses; ' +
+                  '; '.join(o[1] for o in outs))
+
+
 def run_tal_triple(t: dict) -> tuple[bool, str]:
     from beam_client import beam
     work, song = t['args']['work'], t['args']['song']
@@ -619,20 +648,13 @@ def run_tal_triple(t: dict) -> tuple[bool, str]:
     a, b = text.find('{'), text.rfind('}')
     if a < 0 or b < a:
         if len(verses) > 1:  # likely hit the output ceiling: halve the group
-            mid = len(verses) // 2
-            outs = [run_tal_triple(dict(t, args=dict(t['args'], verses=verses[:mid]))),
-                    run_tal_triple(dict(t, args=dict(t['args'], verses=verses[mid:])))]
-            ok = all(o[0] for o in outs)
-            return ok, 'split ' + '; '.join(o[1] for o in outs)
+            return _split_merged(t, verses, song, 'split')
         return False, 'no JSON: ' + text[:200]
     try:
         d = TalTriple.model_validate_json(text[a:b + 1])
     except ValidationError as ex:
         if len(verses) > 1:
-            mid = len(verses) // 2
-            outs = [run_tal_triple(dict(t, args=dict(t['args'], verses=verses[:mid]))),
-                    run_tal_triple(dict(t, args=dict(t['args'], verses=verses[mid:])))]
-            return all(o[0] for o in outs), 'split after schema fail'
+            return _split_merged(t, verses, song, 'split after schema fail')
         return False, f'schema fail: {ex.errors()[:2]}'
     if len(d.items) != len(verses):
         return False, f'items {len(d.items)} != verses {len(verses)}'
