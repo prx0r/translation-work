@@ -136,3 +136,15 @@ python3 tools/queue_guard.py                       # duplicate check
   tail. This is arithmetic, not policy.
 - Every seeding path (`auto_burn.seed`, onboard_wave, MCP `swarm_seed`)
   must respect the floor; `swarm_seed` already defaults group=24.
+
+
+## 10. SPECIAL objects (never seed)
+
+`SPECIAL-WORKS.md` governs works that cannot use the verse pipeline:
+**Kalpavṛkṣa (M00051)** — a cloth *carmen cancellatum*, ~30-language
+intexts, needs its own grid/graph pipeline and a special site page;
+plus bundle files (M00501/576/544/43 — split first), Devīnāmavilāsa
+(intertext links mandatory), the 90 prose works, and the 232
+extract-fail files (parser work). A SPECIAL work may be exhibited, never
+marked machine-translated. Public sources and the site plan are in that
+file.
