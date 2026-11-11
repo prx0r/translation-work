@@ -64,9 +64,10 @@ def main() -> int:
     for r in rows:
         cat = r["catalog"]
         blob = norm(r["title"] + " " + r["file"])
-        if any(k in blob for k in ("manjusri", "guhyasamaja", "sadhana",
-                                   "advayavajra", "aryamanjusrimulakalpa")):
-            continue  # out of realm (buddhist)
+        if any(k in blob for k in ("manjusrimulakalpa", "guhyasamaja",
+                                   "sadhanamala", "advayavajra")):
+            continue  # out of realm (buddhist; M00652 sricakrasadhanam is
+            # Hindu Srividya ritual — keep it)
         st = qstat.get(cat, "queued")
         if "complete" in st:
             T, why = 10 ** 9, "machine-complete by us: skip burn"
