@@ -1,0 +1,51 @@
+{
+ "song": "sva-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "cādhyāhāryam",
+     "gloss": "and-to-be-added",
+     "grounds": "ca + adhyāhāryam fused; 'and' plus 'to be added/supplied'",
+     "morph": "indecl."
+    },
+    {
+     "surface": "triloham",
+     "gloss": "triple-metal",
+     "grounds": "tri + loham compound; three metals",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "hema",
+     "gloss": "gold",
+     "grounds": "metal name",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "rajata",
+     "gloss": "silver",
+     "grounds": "metal name",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tāmram",
+     "gloss": "copper",
+     "grounds": "metal name",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which three metals are named as the triple metal?",
+   "premises": [
+    "triloham names three metals",
+    "hema rajata tāmram are listed",
+    "cādhyāhāryam adds them"
+   ],
+   "inference": "the triple metal consists of gold silver copper",
+   "uncertainties": [
+    "exact syntactic role of cādhyāhāryam uncertain"
+   ],
+   "plain_english": "And (it is) to be added: the triple metal—gold, silver, copper."
+  }
+ ]
+}
