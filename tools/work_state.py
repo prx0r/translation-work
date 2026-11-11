@@ -55,8 +55,36 @@ def states() -> dict:
         _STATE_CACHE = _dirs()
     return _STATE_CACHE
 
+_ALIASES = None
+
+def _aliases() -> dict:
+    global _ALIASES
+    if _ALIASES is None:
+        try:
+            _ALIASES = json.loads(
+                (ROOT / "process/beam/work_aliases.json").read_text())["catalogs"]
+        except Exception:
+            _ALIASES = {}
+    return _ALIASES
+
+
 def state_for_title(title: str, catalog: str = "") -> dict:
-    """state for a muktabodha work given its title (+catalog for aliases)."""
+    """state for a muktabodha work. ALIAS REGISTRY FIRST (structural
+    duplicate prevention): a catalog mapped there resolves to its canonical
+    dir and can never be onboarded as new work."""
+    a = _aliases().get(catalog)
+    if a is not None:
+        d = a.get("dir")
+        if not d:
+            return {"state": "not_started", "dir": None,
+                    "alias_note": a.get("note", "")}
+        nxt = states().get(norm(d), (d, ""))[1]
+        low = nxt.lower()
+        st = ("machine-complete" if ("machine-complete" in low
+                                     or "minimal gold complete" in low)
+              else "started")
+        return {"state": st, "dir": d, "next": nxt[:90],
+                "alias": True, "alias_note": a.get("note", "")}
     t = norm(title)
     dirs = states()
     hit = dirs.get(t)

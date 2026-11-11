@@ -1,6 +1,6 @@
 {
- "rev": "0abbe38ec2772ca6a987cdbecc773e4910fa3991",
- "at": "2026-11-11T10:04:58+00:00",
+ "rev": "20d6e1f7d21ccbc0ccf4ea945086111f77766385",
+ "at": "2026-11-11T10:10:00+00:00",
  "files": {
   "ajadapramatrsiddhi/data/ajad-p01.argmap.json": {
    "sha256": "f7f7ec1ce551288d8b4f2e2294a3351a25afefbdc3efb460413975c6e271df80",
@@ -5198,6 +5198,26 @@
    "sha256": "cb61a697df1530a688a01b76cf6e652753975a09a81f79f464d2997ed13fee8e",
    "bytes": 14661
   },
+  "kularnavatantra/data/kul-p01.argmap.json": {
+   "sha256": "68a2a9ca5211f6dfcba6d9c91a5ee6d872ad7507af87f018724dc3fe1d53e670",
+   "bytes": 17017
+  },
+  "kularnavatantra/data/kul-p01.c1.json": {
+   "sha256": "9ad139393c43452700fd8c4dd01ad52c5eb566127aa0f9560cc79ab6494ea4ea",
+   "bytes": 542
+  },
+  "kularnavatantra/data/kul-p01.l0.json": {
+   "sha256": "162ff634fc70d46ec24bc67a5c4cb58658f0712b0094b57f897a895a59e5a344",
+   "bytes": 39640
+  },
+  "kularnavatantra/data/kul-p01.l2.json": {
+   "sha256": "5d2135ae5078ba836ba6810595834ed9986df553f74eb0d758b6746b6d948b55",
+   "bytes": 8574
+  },
+  "kularnavatantra/data/kul-p01.t1.json": {
+   "sha256": "26f75d3e2f7f54662a9fcb6a5e76c6935d43136f46dc1fcff17c62628ef0f9b4",
+   "bytes": 17856
+  },
   "kularnavatantra/T1-kul-p01.md": {
    "sha256": "0ec3144edf0845296660da31246f80169362e92a6afeff0bba1b9262c96f0a40",
    "bytes": 3279
@@ -5217,6 +5237,54 @@
   "kularnavatantra/T1-kul-p05.md": {
    "sha256": "2bd57009e028666b9302a9b66e211d0f3747457defa131a6b8b3d7021fdb2758",
    "bytes": 3592
+  },
+  "kularnavatantra/T1-kul-p06.md": {
+   "sha256": "1fd07f452e59e2f20b96114a59e09ace60c2bb107d832fefcd72d17768d29614",
+   "bytes": 3477
+  },
+  "kularnavatantra/T1-kul-p07.md": {
+   "sha256": "0bcf7a835d10006baffe5a20b470726a9bc539a3c71a070b833225979740b24e",
+   "bytes": 3794
+  },
+  "kularnavatantra/T1-kul-p08.md": {
+   "sha256": "a740f847d38f1e086334aa3074fefd2ba70d9d1a23411a874fb0455b8e7c47e4",
+   "bytes": 3423
+  },
+  "kularnavatantra/T1-kul-p09.md": {
+   "sha256": "a6891c6fb310cf23daf40ef220fedf00928bceccc698b3d89f06064dcdb5d3f0",
+   "bytes": 3566
+  },
+  "kularnavatantra/T1-kul-p10.md": {
+   "sha256": "ec7cce2beebe6add1cdcfd7cfec211058e61b67fdf02c7972496e914bfb12174",
+   "bytes": 3908
+  },
+  "kularnavatantra/T1-kul-p11.md": {
+   "sha256": "2557b5acf180545ce09fd0fce3ca16c649f05282b96212d3da8307b96ac388f4",
+   "bytes": 1744
+  },
+  "kularnavatantra/T1-kul-p12.md": {
+   "sha256": "f5e8fb17239e320d490c58d6962421ff0a4391fc716c4465cf8e668a95cde77b",
+   "bytes": 3992
+  },
+  "kularnavatantra/T1-kul-p13.md": {
+   "sha256": "7074ad64519d823850aa180c8a48484888527c8adbe14e79e948ede7e9ac64d1",
+   "bytes": 3687
+  },
+  "kularnavatantra/T1-kul-p14.md": {
+   "sha256": "5d7d955917275aae556619a2aa70ca7351e3d74ce3e45fe423c296ecbcdd951d",
+   "bytes": 3558
+  },
+  "kularnavatantra/T1-kul-p15.md": {
+   "sha256": "6cde5bc9170913a4fc60d6c83d7726fe50f77dc32f99baba4588a4d0456a67aa",
+   "bytes": 3514
+  },
+  "kularnavatantra/T1-kul-p16.md": {
+   "sha256": "c687767f31f309d8c85e731aa448480769ed1a24e3a6e9b411d5d5ec0cc2f46d",
+   "bytes": 3597
+  },
+  "kularnavatantra/T1-kul-p17.md": {
+   "sha256": "e493ed83ba5deef929c0c8645c0f07eedd169d27ccc9a2c55c02a5f85b437f40",
+   "bytes": 3623
   },
   "kularnavatantra/STATUS.json": {
    "sha256": "9c56a5d5b412b305bc0eb54f84b8949a6a2aae40efa6da936c015d3aa8742001",
@@ -5513,6 +5581,54 @@
   "malinivijayavarttika/passages.jsonl": {
    "sha256": "5b4bfc29f713da039621f6f6310cd48b4d9df2726957f754b28cc64823d0c473",
    "bytes": 194310
+  },
+  "netratantra/T1-net-p01.md": {
+   "sha256": "26237866853d852f67cf534181a0b00437042eff1149966186f3a624c751ff50",
+   "bytes": 2844
+  },
+  "netratantra/T1-net-p02.md": {
+   "sha256": "5df4b6be4b3a7c4ae626e70894f1ce54fb384f3ab79e11797d41ac0e98d70cf5",
+   "bytes": 2757
+  },
+  "netratantra/T1-net-p03.md": {
+   "sha256": "5c70ae839a833f51d6b29201a6ce5e003032d8a5efb73b9d6fb2d77aa5348cdc",
+   "bytes": 2888
+  },
+  "netratantra/T1-net-p04.md": {
+   "sha256": "c6160ebaba10d4aa5715140818dacd1a0009ee9ac4cc13653579aeff6656ec62",
+   "bytes": 2790
+  },
+  "netratantra/T1-net-p05.md": {
+   "sha256": "fd2e124f74b7db122d95080318adfdf6b4e7c087e8864e3eb7c04fe638262128",
+   "bytes": 2667
+  },
+  "netratantra/T1-net-p06.md": {
+   "sha256": "d88580fa3b2289e60c497715bafa9ef1633310fe5434f3fb96af90fa023f151f",
+   "bytes": 2974
+  },
+  "netratantra/T1-net-p07.md": {
+   "sha256": "eca226f930eefff2db85ffd0b55905f87aa6115b288c3f0a5c6d46e319752dbc",
+   "bytes": 3542
+  },
+  "netratantra/T1-net-p08.md": {
+   "sha256": "f5c12ca97ea68cc7851493d57a14fb65c677aa714f71b3c98722c5496d15a904",
+   "bytes": 2882
+  },
+  "netratantra/T1-net-p09.md": {
+   "sha256": "fc87b2b53ffb70453d299730d7e6c3c003a00ce49c394193ba62e8fd49e5ecc7",
+   "bytes": 3032
+  },
+  "netratantra/T1-net-p10.md": {
+   "sha256": "799c7b33e7662369dd7b171c88d4fe3c2f66ae1d45521c20ba21dfffa032efe8",
+   "bytes": 2534
+  },
+  "netratantra/T1-net-p11.md": {
+   "sha256": "e1f013661f07ebade46017e185cf046850566b466640ac7a84b428c34c1d9629",
+   "bytes": 3448
+  },
+  "netratantra/T1-net-p12.md": {
+   "sha256": "9199f905a16e381fed8305634a96007aa733743cb3d4387666b3d62cf8bd4422",
+   "bytes": 2454
   },
   "netratantra/STATUS.json": {
    "sha256": "37b9feb2142742336cba68ac801f736b08c0c80b8f889a62f9d27666743cf745",
@@ -10102,6 +10218,50 @@
    "sha256": "3979482293afb24aed10dd08ac278c3c07ddce108c48ffb031f6c480d9fec329",
    "bytes": 2171
   },
+  "svacchandatantra/T1-sva-p01.md": {
+   "sha256": "0b9a650ef7dbf09962c406267a209a11486ec13b5be720abd64253f023a1f55c",
+   "bytes": 3216
+  },
+  "svacchandatantra/T1-sva-p02.md": {
+   "sha256": "832f3146056c2815f5bc6da723ce49f5f2c223314a3d1fda4526c6002cc78a82",
+   "bytes": 3074
+  },
+  "svacchandatantra/T1-sva-p03.md": {
+   "sha256": "6252ada44338a2c84df65b663804de02f911313c4c146540ec8d1ee85d263780",
+   "bytes": 3023
+  },
+  "svacchandatantra/T1-sva-p04.md": {
+   "sha256": "923f9246c54f74877daf2640f098e2a5e5ef3686b4eecf55e050cd92ce51f838",
+   "bytes": 2416
+  },
+  "svacchandatantra/T1-sva-p05.md": {
+   "sha256": "c1d68b6dd0bee4d265891f804497272eb66949c86ec061e856154c5f817bd8a2",
+   "bytes": 3486
+  },
+  "svacchandatantra/T1-sva-p06.md": {
+   "sha256": "cae4892208f5ac9c3ffb6b5951f4d04643505cfb726cc42da7f51dad3af027cc",
+   "bytes": 4302
+  },
+  "svacchandatantra/T1-sva-p07.md": {
+   "sha256": "d5e081a3d7ec156681f7e9695dbaa8828c8b8bd1e44b67144f2b67f7103223b4",
+   "bytes": 2926
+  },
+  "svacchandatantra/T1-sva-p08.md": {
+   "sha256": "0947a1ec35be7f3880cd1d4034911f7b0e4bd2f82e4473bbddc0e19f2a6e481c",
+   "bytes": 3893
+  },
+  "svacchandatantra/T1-sva-p09.md": {
+   "sha256": "1b7d4e6769c03b99bb12fa346711bc689b4778ef8a5d8cbfdb79c7e852e428d2",
+   "bytes": 1548
+  },
+  "svacchandatantra/T1-sva-p10.md": {
+   "sha256": "4af4a8a59304cff2c1d211ff0fdb48fc47ad2a9d3621fcabcf986ad60a49a59a",
+   "bytes": 2841
+  },
+  "svacchandatantra/T1-sva-p11.md": {
+   "sha256": "a98f8dfdc04851285f080a8c23fe27396e6aa7d3e9e95f5003b1000a0e39c1fb",
+   "bytes": 2909
+  },
   "svacchandatantra/STATUS.json": {
    "sha256": "30adbef45a09691e0546f6f5d18d883b7f03f272d9fb4b21a85b65e6cfc25caa",
    "bytes": 171
@@ -13541,6 +13701,26 @@
   "vijnanabhairava/T1-vij-p01.md": {
    "sha256": "1e58ecb56a449cccfc52f7db974a9caaeb4c4f5c51d35823d45dc08f833bcd86",
    "bytes": 3463
+  },
+  "vijnanabhairava/T1-vij-p02.md": {
+   "sha256": "65410e6cbb2d93784461d9bee6ff36f55ab4a3e36cc7147f2652678c4437cc0b",
+   "bytes": 3351
+  },
+  "vijnanabhairava/T1-vij-p03.md": {
+   "sha256": "eba1f3f3e33271d023310eca244efa33b6302cae3625b5e5d251e24bc2f9dd2a",
+   "bytes": 3471
+  },
+  "vijnanabhairava/T1-vij-p04.md": {
+   "sha256": "d421eb2fcd2774216c89a07c10d188787459ef15c1d513569aaad72ccd56b359",
+   "bytes": 3523
+  },
+  "vijnanabhairava/T1-vij-p05.md": {
+   "sha256": "3f415a21eb07caf499213e75b7a404d4d70640656d7399633557a993370c02d3",
+   "bytes": 3707
+  },
+  "vijnanabhairava/T1-vij-p06.md": {
+   "sha256": "db1262e9b0c4c51e68b80c21a961ac71f4d562abef59f71b3ce4fd9ff9419ed0",
+   "bytes": 3575
   },
   "vijnanabhairava/STATUS.json": {
    "sha256": "9a4d6b8b171af262c478bbe5e4774432118ee8a726ad17ad0ef3704f81946109",
