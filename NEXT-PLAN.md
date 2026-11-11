@@ -42,3 +42,15 @@
 - OCHS partnership/outreach (theirs: Sanderson TA, Flood Netra — overlap).
 - Groq key signup (phase-2 backend) vs beam-only.
 - Morning review slice: which completed works to spot-check first.
+
+## The pass model (owner 2026-11-11, binding)
+
+1. **PASS 1 — MINIMAL (default now):** onboard → T1 → 12v triples →
+   assemble → validate. "minimal gold complete" (L3/L4 waived).
+   DONE = machine-translated.
+2. **PASS 2 — REVIEW + KNOWLEDGE CORE:** read the minimal output;
+   web-search → knowledge core (IPVV-style distilled understanding)
+   or lore brief per work.
+3. **PASS 3 — FULL GOLD:** fill remaining layers (C1-essence depth,
+   L3, L4, C2 renders) guided by the core.
+Never block pass 1 on pass 3. Assemble debt → pass 1 immediately.
