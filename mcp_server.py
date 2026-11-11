@@ -318,6 +318,19 @@ def concepts(term: str, top: int = 5) -> dict:
 
 
 @mcp.tool()
+def recycle(dry_run: bool = False) -> dict:
+    """Halve + requeue retryable failed triples (the failure recycler).
+    Safe: one generation only (rc2- ids), skips covered ranges."""
+    return _run(["--", "recycle_failed.py"] + (["--dry"] if dry_run else []))
+
+
+@mcp.tool()
+def watchdog() -> dict:
+    """Alias of progress(): hourly health line with flags (for scheduled tasks)."""
+    return _run(["--", "watchdog_progress.py"])
+
+
+@mcp.tool()
 def progress() -> dict:
     """One-shot system health + progress watchdog (queue counts, workers,
     failure classes, assembled songs, host load/mem/disk, flags). Safe to

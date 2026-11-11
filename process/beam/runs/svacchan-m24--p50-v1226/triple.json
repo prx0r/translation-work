@@ -1,0 +1,774 @@
+{
+ "song": "sva-p50",
+ "items": [
+  {
+   "verse": 1226,
+   "rows": [
+    {
+     "surface": "laukikavarṣasaṅkhyām",
+     "gloss": "worldly-year-count",
+     "grounds": "compound denoting the number of ordinary human years",
+     "morph": "f.acc.sg, compound"
+    }
+   ],
+   "question": "What count of worldly years is being specified here?",
+   "premises": [
+    "The expression refers to a count of worldly years.",
+    "The count is presented as the object of calculation."
+   ],
+   "inference": "The passage introduces the measure of ordinary human years as the basis for reckoning.",
+   "uncertainties": [],
+   "plain_english": "This refers to the count of ordinary worldly years."
+  },
+  {
+   "verse": 1227,
+   "rows": [
+    {
+     "surface": "caturyugaśatāni",
+     "gloss": "four-age-hundreds",
+     "grounds": "compound indicating hundreds of four-age cycles",
+     "morph": "n.nom.pl, compound"
+    },
+    {
+     "surface": "dvādaśābdasahasrāṇi",
+     "gloss": "twelve-year-thousands",
+     "grounds": "compound indicating thousands of twelve-year periods",
+     "morph": "n.nom.pl, compound"
+    },
+    {
+     "surface": "ekasaptatyā",
+     "gloss": "by-seventy-one",
+     "grounds": "numeral indicating multiplication by seventy-one",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "gaṇayet",
+     "gloss": "one-should-calculate",
+     "grounds": "optative verb expressing calculation",
+     "morph": "3.sg.opt.act, √gaṇ"
+    }
+   ],
+   "question": "How should the divine time span be calculated in worldly years?",
+   "premises": [
+    "One should calculate hundreds of four-age cycles.",
+    "One should calculate thousands of twelve-year periods.",
+    "The calculation is multiplied by seventy-one."
+   ],
+   "inference": "The total span is obtained by computing these large time units together with the factor seventy-one.",
+   "uncertainties": [
+    "The exact arithmetical combination of the listed units is not fully explicit in this fragment."
+   ],
+   "plain_english": "One should calculate hundreds of four-age cycles and thousands of twelve-year periods multiplied by seventy-one."
+  },
+  {
+   "verse": 1228,
+   "rows": [
+    {
+     "surface": "divyāni",
+     "gloss": "divine",
+     "grounds": "adjective qualifying the years or units as divine",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking explanation or quotation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthāt",
+     "gloss": "by-implication",
+     "grounds": "ablative indicating meaning derived from context",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What is implied by calling these units divine?",
+   "premises": [
+    "The units are described as divine.",
+    "The particle indicates an explanatory conclusion.",
+    "The meaning is derived by implication."
+   ],
+   "inference": "By implication, the calculated years are to be understood as divine years.",
+   "uncertainties": [],
+   "plain_english": "Thus, by implication, these are divine years."
+  },
+  {
+   "verse": 1229,
+   "rows": [
+    {
+     "surface": "sahasramānam",
+     "gloss": "thousand-measure",
+     "grounds": "compound indicating a measure of a thousand",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the stated measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "stated",
+     "grounds": "past participle indicating what has been declared",
+     "morph": "n.nom.sg, ppp, √vac"
+    }
+   ],
+   "question": "What measure has been stated for this period?",
+   "premises": [
+    "A measure of a thousand is mentioned.",
+    "This measure is explicitly stated."
+   ],
+   "inference": "The period in question has been declared to have a thousandfold measure.",
+   "uncertainties": [
+    "The exact unit to which the thousand-measure applies is not specified in this fragment."
+   ],
+   "plain_english": "This has been stated as having a measure of a thousand."
+  },
+  {
+   "verse": 1230,
+   "rows": [
+    {
+     "surface": "sāyaṃ",
+     "gloss": "evening",
+     "grounds": "indeclinable indicating the evening time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyākālaḥ",
+     "gloss": "twilight-time",
+     "grounds": "compound naming the period of twilight",
+     "morph": "m.nom.sg, compound"
+    }
+   ],
+   "question": "What time period is identified as evening twilight?",
+   "premises": [
+    "The term evening is mentioned.",
+    "The period is named as twilight-time."
+   ],
+   "inference": "The evening period is identified as the time of twilight.",
+   "uncertainties": [],
+   "plain_english": "And the evening is the time of twilight."
+  },
+  {
+   "verse": 1231,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund indicating a completed action",
+     "morph": "(indecl.), gerund, √kṛ"
+    },
+    {
+     "surface": "saṃhāra",
+     "gloss": "dissolution",
+     "grounds": "term denoting dissolution",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃhārakālaḥ",
+     "gloss": "dissolution-time",
+     "grounds": "compound naming the time of dissolution",
+     "morph": "m.nom.sg, compound"
+    }
+   ],
+   "question": "Why is this period called the time of dissolution?",
+   "premises": [
+    "Dissolution is performed or effected.",
+    "The designation dissolution is applied.",
+    "The period is named dissolution-time."
+   ],
+   "inference": "Because dissolution occurs then, the period is called the time of dissolution.",
+   "uncertainties": [],
+   "plain_english": "Having effected dissolution, this is therefore called the time of dissolution."
+  },
+  {
+   "verse": 1232,
+   "rows": [
+    {
+     "surface": "saṃharati",
+     "gloss": "withdraws",
+     "grounds": "verb expressing the act of dissolution or withdrawal",
+     "morph": "3.sg.pres.act, √saṃ-hṛ"
+    }
+   ],
+   "question": "What action is being performed in this context?",
+   "premises": [
+    "The verb denotes withdrawal or dissolution.",
+    "The action is presented as occurring."
+   ],
+   "inference": "An act of withdrawal or dissolution is taking place.",
+   "uncertainties": [
+    "The subject performing the withdrawal is not stated in this fragment."
+   ],
+   "plain_english": "He withdraws or dissolves."
+  },
+  {
+   "verse": 1233,
+   "rows": [
+    {
+     "surface": "satyalokordhvavatīni",
+     "gloss": "above-satya-world-being",
+     "grounds": "compound describing things situated above the world of satya",
+     "morph": "n.nom.pl, compound"
+    },
+    {
+     "surface": "brahmabhuvane",
+     "gloss": "in-brahma-world",
+     "grounds": "compound indicating location in the world of Brahma",
+     "morph": "n.loc.sg, compound"
+    }
+   ],
+   "question": "Which realms remain in the world of Brahma during dissolution?",
+   "premises": [
+    "Certain realms are described as being above the satya world.",
+    "These are located in the world of Brahma."
+   ],
+   "inference": "The realms above satya-loka persist within the world of Brahma.",
+   "uncertainties": [],
+   "plain_english": "Those realms above satya-loka remain in the world of Brahma."
+  },
+  {
+   "verse": 1234,
+   "rows": [
+    {
+     "surface": "vipākaḥ",
+     "gloss": "ripening",
+     "grounds": "noun indicating maturation or result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What process or result is being named here?",
+   "premises": [
+    "The term denotes ripening or maturation.",
+    "It is presented as a distinct factor."
+   ],
+   "inference": "The passage names ripening or fruition as the relevant factor.",
+   "uncertainties": [
+    "The specific object undergoing ripening is not stated in this fragment."
+   ],
+   "plain_english": "This is ripening or fruition."
+  },
+  {
+   "verse": 1235,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle indicating contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manāgapi",
+     "gloss": "even-slightly",
+     "grounds": "compound of slightness with emphatic particle",
+     "morph": "(indecl.), compound"
+    },
+    {
+     "surface": "mlāyanti",
+     "gloss": "they-wither",
+     "grounds": "verb expressing fading or withering",
+     "morph": "3.pl.pres.act, √mlai"
+    }
+   ],
+   "question": "Do these entities wither even slightly during this state?",
+   "premises": [
+    "A negation is expressed.",
+    "Even slight withering is denied.",
+    "The verb indicates withering."
+   ],
+   "inference": "The entities do not wither even in the slightest degree.",
+   "uncertainties": [
+    "The subjects that do not wither are not explicitly named in this fragment."
+   ],
+   "plain_english": "But they do not wither even slightly."
+  },
+  {
+   "verse": 1236,
+   "rows": [
+    {
+     "surface": "kālāgneḥ",
+     "gloss": "of-time-fire",
+     "grounds": "compound naming the fire of time",
+     "morph": "m.gen.sg, compound"
+    },
+    {
+     "surface": "dakṣiṇameva",
+     "gloss": "right-side-only",
+     "grounds": "compound with emphatic particle restricting to the right side",
+     "morph": "n.nom.sg, compound"
+    }
+   ],
+   "question": "Which side of the fire of time is indicated here?",
+   "premises": [
+    "The fire of time is mentioned.",
+    "Only the right side is specified."
+   ],
+   "inference": "The reference is restricted to the right side of the fire of time.",
+   "uncertainties": [],
+   "plain_english": "Only the right side of the fire of time."
+  },
+  {
+   "verse": 1237,
+   "rows": [
+    {
+     "surface": "kālavahnyūṣmajaḥ",
+     "gloss": "time-fire-heat-born",
+     "grounds": "compound describing origin from the heat of the fire of time",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun indicating possession or relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prasvedaḥ",
+     "gloss": "sweat",
+     "grounds": "noun denoting perspiration or exudation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is described as arising from the heat of the fire of time?",
+   "premises": [
+    "Something is born from the heat of the fire of time.",
+    "It is identified as sweat or exudation.",
+    "It belongs to or relates to this entity."
+   ],
+   "inference": "The sweat of this entity is produced from the heat of the fire of time.",
+   "uncertainties": [
+    "The referent of this entity is not explicit in this fragment."
+   ],
+   "plain_english": "This is its sweat, born from the heat of the fire of time."
+  },
+  {
+   "verse": 1238,
+   "rows": [
+    {
+     "surface": "maunīm",
+     "gloss": "silent",
+     "grounds": "adjective describing a silent state or form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sāttvikīm",
+     "gloss": "pure",
+     "grounds": "adjective describing a sattva-natured form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle indicating contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daivīm",
+     "gloss": "divine",
+     "grounds": "adjective describing a divine form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vyavasthayā",
+     "gloss": "by-arrangement",
+     "grounds": "noun indicating ordered arrangement",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvanādimaryādayā",
+     "gloss": "world-etc-limit",
+     "grounds": "compound indicating the limit beginning with worlds",
+     "morph": "f.inst.sg, compound"
+    }
+   ],
+   "question": "How is the divine arrangement distinguished in this passage?",
+   "premises": [
+    "A silent and pure form is mentioned.",
+    "A divine form is specified.",
+    "The distinction follows an arrangement limited by worlds and so on."
+   ],
+   "inference": "The divine form is distinguished by an ordered arrangement according to the limits of worlds and related levels.",
+   "uncertainties": [
+    "The exact entity being qualified as silent, pure, or divine is not explicit in this fragment."
+   ],
+   "plain_english": "Thus, by arrangement according to the limits of worlds and so forth, it is silent, pure, and divine."
+  },
+  {
+   "verse": 1239,
+   "rows": [
+    {
+     "surface": "paśūn",
+     "gloss": "bound-beings",
+     "grounds": "noun referring to bound beings",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāvarāntagān",
+     "gloss": "ending-with-unmoving",
+     "grounds": "compound describing those extending down to the unmoving",
+     "morph": "m.acc.pl, compound"
+    }
+   ],
+   "question": "Which range of bound beings is included in this statement?",
+   "premises": [
+    "Bound beings are mentioned.",
+    "The range extends down to the unmoving."
+   ],
+   "inference": "The statement includes all bound beings down to the level of unmoving entities.",
+   "uncertainties": [],
+   "plain_english": "Indeed, it refers to bound beings extending down to the unmoving."
+  },
+  {
+   "verse": 1240,
+   "rows": [
+    {
+     "surface": "nidrāsaṃskārasya",
+     "gloss": "of-sleep-impression",
+     "grounds": "compound indicating the latent impression of sleep",
+     "morph": "m.gen.sg, compound"
+    },
+    {
+     "surface": "adhikādhikataratvam",
+     "gloss": "greater-and-greater-state",
+     "grounds": "abstract noun expressing increasing intensity",
+     "morph": "n.nom.sg, compound"
+    }
+   ],
+   "question": "What change occurs in the impression of sleep?",
+   "premises": [
+    "The impression of sleep is the subject.",
+    "A state of increasing intensity is described."
+   ],
+   "inference": "The impression of sleep becomes progressively greater.",
+   "uncertainties": [],
+   "plain_english": "The impression of sleep becomes more and more intense."
+  },
+  {
+   "verse": 1241,
+   "rows": [
+    {
+     "surface": "paiśācādibrahmāntā",
+     "gloss": "from-ghosts-up-to-brahma",
+     "grounds": "compound indicating a range beginning with ghosts and ending with Brahma",
+     "morph": "f.nom.sg, compound"
+    }
+   ],
+   "question": "What range of beings is indicated by this expression?",
+   "premises": [
+    "The range begins with ghostly beings.",
+    "The range ends with Brahma."
+   ],
+   "inference": "The expression denotes the full range from ghostly beings up to Brahma.",
+   "uncertainties": [
+    "The grammatical referent qualified by this range is not explicit in this fragment."
+   ],
+   "plain_english": "This indicates the range from ghostly beings up to Brahma."
+  },
+  {
+   "verse": 1242,
+   "rows": [
+    {
+     "surface": "mumukṣubhiḥ",
+     "gloss": "by-seekers-of-liberation",
+     "grounds": "noun denoting those who desire liberation",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "āśrayaṇīya",
+     "gloss": "to-be-resorted-to",
+     "grounds": "gerundive expressing what should be taken as refuge",
+     "morph": "n.nom.sg, gerundive, √ā-śri"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tātparyam",
+     "gloss": "purport",
+     "grounds": "noun indicating intended meaning",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the intended purport for seekers of liberation?",
+   "premises": [
+    "Seekers of liberation are the agents in view.",
+    "Something is described as to be resorted to.",
+    "The statement gives the intended purport."
+   ],
+   "inference": "The purport is that seekers of liberation should resort to this.",
+   "uncertainties": [
+    "The specific object to be resorted to is not named in this fragment."
+   ],
+   "plain_english": "The purport is that seekers of liberation should resort to it."
+  },
+  {
+   "verse": 1243,
+   "rows": [
+    {
+     "surface": "bhavanti",
+     "gloss": "they-are",
+     "grounds": "verb indicating existence or occurrence",
+     "morph": "3.pl.pres.act, √bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking completion of a statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "noun indicating what remains to be supplied",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What grammatical completion is indicated at this point?",
+   "premises": [
+    "The verb states that they are or become.",
+    "The term remainder indicates something left implicit."
+   ],
+   "inference": "The rest of the statement is to be supplied as they are or become.",
+   "uncertainties": [],
+   "plain_english": "Thus, the remainder of the statement is: they are."
+  },
+  {
+   "verse": 1244,
+   "rows": [
+    {
+     "surface": "brahmāṇḍānuviṣayalokasthasya",
+     "gloss": "of-one-in-world-within-egg",
+     "grounds": "compound describing one situated in a world within the cosmic egg",
+     "morph": "m.gen.sg, compound"
+    }
+   ],
+   "question": "Whose location within the cosmic egg is being specified?",
+   "premises": [
+    "A being situated in a world is indicated.",
+    "That world is within the cosmic egg."
+   ],
+   "inference": "The reference is to one who dwells in a world inside the cosmic egg.",
+   "uncertainties": [
+    "The identity of the being is not specified in this fragment."
+   ],
+   "plain_english": "This refers to one situated in a world within the cosmic egg."
+  },
+  {
+   "verse": 1245,
+   "rows": [
+    {
+     "surface": "viṣṇutvam",
+     "gloss": "vishnu-state",
+     "grounds": "abstract noun indicating the state of being Vishnu",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding another element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "attains",
+     "grounds": "verb expressing attainment",
+     "morph": "3.sg.pres.act, √prāp"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "noun indicating the intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What attainment is explained as the meaning here?",
+   "premises": [
+    "The state of Vishnu is mentioned.",
+    "Attainment of that state is stated.",
+    "The passage gives this as the meaning."
+   ],
+   "inference": "The meaning is that one attains the state of Vishnu.",
+   "uncertainties": [
+    "The subject who attains this state is not explicit in this fragment."
+   ],
+   "plain_english": "And the meaning is that one attains the state of Vishnu."
+  },
+  {
+   "verse": 1246,
+   "rows": [
+    {
+     "surface": "nijanijasāmarthyabhājaḥ",
+     "gloss": "sharing-own-capacities",
+     "grounds": "compound describing those possessing their respective capacities",
+     "morph": "m.nom.pl, compound"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "they-become",
+     "grounds": "verb indicating becoming or being",
+     "morph": "3.pl.pres.act, √bhū"
+    }
+   ],
+   "question": "What condition do these beings come to possess?",
+   "premises": [
+    "The beings are described as sharing their own capacities.",
+    "They come to be in that condition."
+   ],
+   "inference": "They become endowed with their respective capacities.",
+   "uncertainties": [],
+   "plain_english": "They become endowed with their own respective capacities."
+  },
+  {
+   "verse": 1247,
+   "rows": [
+    {
+     "surface": "rātriḥ",
+     "gloss": "night",
+     "grounds": "noun denoting night",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamā",
+     "gloss": "equal-to-that",
+     "grounds": "compound indicating equality with that period",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative verb expressing equivalence",
+     "morph": "3.sg.opt.act, √bhū"
+    }
+   ],
+   "question": "How long is the night said to be in this context?",
+   "premises": [
+    "Night is the subject.",
+    "It is described as equal to that.",
+    "The equivalence is stated as a rule."
+   ],
+   "inference": "The night would be equal in duration to that corresponding period.",
+   "uncertainties": [
+    "The referent of that period is not explicit in this fragment."
+   ],
+   "plain_english": "Indeed, the night would be equal to that."
+  },
+  {
+   "verse": 1248,
+   "rows": [
+    {
+     "surface": "brahmādilokeṣu",
+     "gloss": "in-brahma-etc-worlds",
+     "grounds": "compound indicating worlds beginning with Brahma",
+     "morph": "m.loc.pl, compound"
+    },
+    {
+     "surface": "sūryādīnām",
+     "gloss": "of-sun-etc",
+     "grounds": "compound indicating the sun and others",
+     "morph": "m.gen.pl, compound"
+    },
+    {
+     "surface": "prakāśakatvena",
+     "gloss": "as-illuminators",
+     "grounds": "abstract noun indicating the state of being illuminators",
+     "morph": "n.inst.sg, compound"
+    },
+    {
+     "surface": "kvāpyaśrutatvāt",
+     "gloss": "because-nowhere-heard",
+     "grounds": "compound giving the reason that it is nowhere heard of",
+     "morph": "n.abl.sg, compound"
+    }
+   ],
+   "question": "Why are the sun and others not considered illuminators in those worlds?",
+   "premises": [
+    "The worlds beginning with Brahma are under discussion.",
+    "The sun and others are considered as possible illuminators.",
+    "Their role as illuminators is nowhere heard of there."
+   ],
+   "inference": "Because such illumination is not attested in those worlds, the sun and others are not their illuminators.",
+   "uncertainties": [],
+   "plain_english": "Because in the worlds beginning with Brahma the sun and others are nowhere heard of as illuminators."
+  },
+  {
+   "verse": 1249,
+   "rows": [
+    {
+     "surface": "āpastejasi līyante",
+     "gloss": "waters-dissolve-in-fire",
+     "grounds": "fused expression indicating dissolution of waters into fire",
+     "morph": "compound+verb phrase, 3.pl.pres.pass, √lī"
+    },
+    {
+     "surface": "11-284",
+     "gloss": "reference-11-284",
+     "grounds": "textual reference marker",
+     "morph": "(reference)"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-forth",
+     "grounds": "indeclinable indicating continuation of a citation",
+     "morph": "(indecl.), compound"
+    }
+   ],
+   "question": "What dissolution process is cited from the referenced passage?",
+   "premises": [
+    "Waters are said to dissolve into fire.",
+    "A textual reference is given.",
+    "The citation continues further."
+   ],
+   "inference": "The cited passage describes waters dissolving into fire as part of a larger sequence.",
+   "uncertainties": [
+    "The full context of the cited sequence is not included in this fragment."
+   ],
+   "plain_english": "Waters dissolve into fire, as stated in 11-284 and so forth."
+  }
+ ]
+}
