@@ -48,6 +48,9 @@ def norm_surface(s: str) -> str:
     """Compare token surfaces modulo avagraha representation + whitespace.
     GRETIL/transcription uses ASCII ', beam often emits U+02BC or omits it;
     the linguistic content is identical. Compare normalized, store verbatim."""
+    # split-marker '+' is OUR pada-split notation, never part of the surface:
+    # both sides compare without it (fixes surface-drift on compounds).
+    s = s.replace('+', '').replace(' ', '')
     return ''.join('\u02bc' if c in _AVAGRAHA else c for c in s).strip()
 
 try:
