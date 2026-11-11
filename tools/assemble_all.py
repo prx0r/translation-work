@@ -28,7 +28,7 @@ def song_ready(work: str, song: str) -> tuple:
         return (False, "no working-t1")
     need = {e["verse"] for e in wt}
     have = set()
-    for f in RUNS.glob(f"*{song}*triple.json"):
+    for f in RUNS.glob(f"**/*{song}*triple.json", recursive=True):
         try:
             d = json.loads(f.read_text())
             for it in d.get("items", []):
