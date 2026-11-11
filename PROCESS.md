@@ -63,3 +63,17 @@
 - `ranked_burn.json` — burn order (T asc, verses asc, prose tail).
 - Manual research: `burn_research.csv` + `RESEARCH-BRIEF.md` (print/Hindi/
   thesis layers) — merge on `catalog`.
+
+## Root rules learned the hard way (see BUGS.md for each)
+
+1. Status lives ONLY in `work_state.py`; aliases (work_aliases.json) beat
+   title matching; derived JSON references status, never copies it.
+2. Every seeding path passes `queue_guard` (id uniqueness + range overlap).
+3. Emit data objects as the UNION of consumer key contracts
+   (`sanskrit/surface/iast/gloss/quick_gloss`); merge `+` splits to source
+   words.
+4. Citations come from the source text, never from token streams.
+5. Digests mirror the validator's own computation — read it first
+   (sanskrit_sha is SONG-scoped).
+6. One id format (unpadded) from earliest producer.
+7. FK children move before parents; one owner per site slug.
