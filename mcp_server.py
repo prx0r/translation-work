@@ -579,7 +579,14 @@ if __name__ == "__main__":
             desc = (fn.description or "").splitlines()[0] if fn.description else ""
             print(f"  shastra.{name}: {desc}")
 
-    if "--serve" in sys.argv:
+    if "--serve-http" in sys.argv:
+        # HTTP (streamable) transport for remote MCP clients (ChatGPT connector)
+        port = 8930
+        for i, a in enumerate(sys.argv):
+            if a == "--port" and i + 1 < len(sys.argv):
+                port = int(sys.argv[i + 1])
+        mcp.run(transport="http", host="127.0.0.1", port=port, path="/mcp")
+    elif "--serve" in sys.argv:
         mcp.run(transport="stdio")
     elif "--list" in sys.argv or len(sys.argv) == 1:
         asyncio.run(_list())
