@@ -1,0 +1,26 @@
+{
+ "song": "sva-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "he-should-do",
+     "grounds": "optative form of kṛ, third singular active",
+     "morph": "3.sg.act-opt + kṛ"
+    }
+   ],
+   "question": "What action should the practitioner perform here?",
+   "premises": [
+    "The verse supplies an optative verb.",
+    "The context glosses it as meaning he should make."
+   ],
+   "inference": "The intended action is to be performed by him.",
+   "uncertainties": [
+    "The exact object is supplied by surrounding context."
+   ],
+   "plain_english": "He should do it."
+  }
+ ]
+}

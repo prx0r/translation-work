@@ -1,0 +1,52 @@
+{
+ "song": "sva-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmano",
+     "gloss": "of-self",
+     "grounds": "genitive singular of ātman",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "antaraṅgapradhānasya",
+     "gloss": "inner-main",
+     "grounds": "genitive singular masculine of compound antaraṅga-pradhāna",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃvedyaparvatvam",
+     "gloss": "knowable-mountain-ness",
+     "grounds": "neuter abstract noun saṃvedya-parva-tva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle iti",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the self's inner-main knowable-mountain-ness described?",
+   "premises": [
+    "Self has an inner-main aspect.",
+    "That aspect is knowable-mountain-ness.",
+    "The verse closes with thus."
+   ],
+   "inference": "The verse identifies the self's principal inner aspect as knowable-mountain-ness.",
+   "uncertainties": [
+    "Morphological case of saṃvedyaparvatvam is uncertain.",
+    "Compound segmentation of antaraṅgapradhānasya is uncertain."
+   ],
+   "plain_english": "But thus is the knowable-mountain-ness of the self whose inner aspect is principal."
+  }
+ ]
+}

@@ -1,0 +1,517 @@
+{
+ "song": "sva-p03",
+ "items": [
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "bhāvayet",
+     "gloss": "meditate",
+     "grounds": "causative optative form",
+     "morph": "3.sg.act-opt (bhū)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "ellipsis",
+     "grounds": "repeated nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remainder is indicated by the repeated term?",
+   "premises": [
+    "bhāvayet means meditate",
+    "śeṣaḥ means remainder",
+    "repetition marks ellipsis"
+   ],
+   "inference": "The verse points to a meditative remainder left unstated.",
+   "uncertainties": [
+    "exact referent of remainder"
+   ],
+   "plain_english": "Meditate; thus the remainder, ellipsis."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "participle nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "repeated participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "repeated participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "repeated participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What state is emphasized by fourfold standing?",
+   "premises": [
+    "sthitaḥ means standing",
+    "fourfold repetition emphasizes state",
+    "no additional object appears"
+   ],
+   "inference": "The verse stresses a stable standing condition.",
+   "uncertainties": [
+    "whether literal or symbolic standing"
+   ],
+   "plain_english": "Standing, standing, standing, standing."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "kavacamantreṇa",
+     "gloss": "armor-mantra",
+     "grounds": "instrumental singular compound",
+     "morph": "instr.sg.m/n"
+    },
+    {
+     "surface": "avaguṇṭhya",
+     "gloss": "covering",
+     "grounds": "gerund of avaguṇṭh",
+     "morph": "gerund"
+    },
+    {
+     "surface": "kavacamantreṇa",
+     "gloss": "armor-mantra",
+     "grounds": "repeated instrumental singular",
+     "morph": "instr.sg.m/n"
+    },
+    {
+     "surface": "avaguṇṭhya",
+     "gloss": "covering",
+     "grounds": "repeated gerund",
+     "morph": "gerund"
+    }
+   ],
+   "question": "How is covering performed with the armor-mantra?",
+   "premises": [
+    "kavacamantreṇa is instrumental",
+    "avaguṇṭhya is gerund",
+    "repetition reinforces rite"
+   ],
+   "inference": "Covering is done by means of the armor-mantra.",
+   "uncertainties": [
+    "exact ritual scope"
+   ],
+   "plain_english": "Covering with the armor-mantra, covering with the armor-mantra."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "viśiṣṭavidhi",
+     "gloss": "special-rite",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "viṣayaḥ",
+     "gloss": "subject",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśiṣṭa",
+     "gloss": "special",
+     "grounds": "adjective nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhi",
+     "gloss": "rite",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the subject of the special rite?",
+   "premises": [
+    "viśiṣṭavidhi means special-rite",
+    "viṣayaḥ means subject",
+    "viśiṣṭa means special",
+    "vidhi means rite"
+   ],
+   "inference": "The special rite itself is the subject under discussion.",
+   "uncertainties": [
+    "whether viśiṣṭa modifies vidhi separately"
+   ],
+   "plain_english": "The special rite is the subject; special rite."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "repeated nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "repeated nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who is addressed by the repeated teachers?",
+   "premises": [
+    "iti means thus",
+    "guravaḥ means teachers",
+    "triple repetition emphasizes teachers"
+   ],
+   "inference": "The statement is directed to or about the teachers.",
+   "uncertainties": [
+    "whether plural teachers or guru collectively"
+   ],
+   "plain_english": "Thus the teachers, teachers, teachers."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāyāt",
+     "gloss": "by-reason",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative second singular",
+     "morph": "2.sg.act-imp (śru)"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "within",
+     "grounds": "adverb or noun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāmṛśa",
+     "gloss": "reflect",
+     "grounds": "imperative second singular",
+     "morph": "2.sg.act-imp (parāmṛś)"
+    }
+   ],
+   "question": "What should one hear and reflect upon within?",
+   "premises": [
+    "nyāyāt means by-reason",
+    "śṛṇu means hear",
+    "antaḥ means within",
+    "parāmṛśa means reflect"
+   ],
+   "inference": "One should hear and reflect within by reason.",
+   "uncertainties": [
+    "exact object of hearing"
+   ],
+   "plain_english": "Thus by reason hear; within reflect."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "śoṣaḥ",
+     "gloss": "drying",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ahantābhimāna",
+     "gloss": "I-am-identification",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "rasa",
+     "gloss": "essence",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tanūbhāvaḥ",
+     "gloss": "thin-state",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What dries through identification with I-am?",
+   "premises": [
+    "śoṣaḥ means drying",
+    "ahantābhimāna means I-am-identification",
+    "rasa means essence",
+    "tanūbhāvaḥ means thin-state"
+   ],
+   "inference": "Identification with I-am dries the essence into a thin state.",
+   "uncertainties": [
+    "whether rasa is object or subject"
+   ],
+   "plain_english": "Drying of I-am-identification; essence becomes thin-state."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "nyāsa",
+     "gloss": "nyāsa",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt (bhū)"
+    },
+    {
+     "surface": "nyāsa",
+     "gloss": "placement",
+     "grounds": "repeated nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "repeated optative third singular",
+     "morph": "3.sg.act-opt (bhū)"
+    }
+   ],
+   "question": "What becomes nyāsa in this placement?",
+   "premises": [
+    "nyāsa means nyāsa",
+    "bhavet means becomes",
+    "repetition emphasizes placement"
+   ],
+   "inference": "Nyāsa becomes the placement described.",
+   "uncertainties": [
+    "exact ritual placement"
+   ],
+   "plain_english": "Nyāsa becomes; placement becomes."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "nirṇeṣyāmaḥ",
+     "gloss": "we-will-determine",
+     "grounds": "future first plural active",
+     "morph": "1.pl.act-fut (nirṇī)"
+    },
+    {
+     "surface": "nirṇeṣyāmaḥ",
+     "gloss": "we-will-determine",
+     "grounds": "repeated future first plural",
+     "morph": "1.pl.act-fut (nirṇī)"
+    },
+    {
+     "surface": "nirṇeṣyāmaḥ",
+     "gloss": "we-will-determine",
+     "grounds": "repeated future first plural",
+     "morph": "1.pl.act-fut (nirṇī)"
+    },
+    {
+     "surface": "nirṇeṣyāmaḥ",
+     "gloss": "we-will-determine",
+     "grounds": "repeated future first plural",
+     "morph": "1.pl.act-fut (nirṇī)"
+    }
+   ],
+   "question": "What will be determined by the repeated we?",
+   "premises": [
+    "nirṇeṣyāmaḥ means we-will-determine",
+    "fourfold repetition emphasizes determination",
+    "no object is stated"
+   ],
+   "inference": "The verse announces a forthcoming determination.",
+   "uncertainties": [
+    "object of determination"
+   ],
+   "plain_english": "We will determine, we will determine, we will determine, we will determine."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "prathāprarohakaḥ",
+     "gloss": "first-sprout",
+     "grounds": "compound noun nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prarohakaḥ",
+     "gloss": "sprout",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What other sprout follows the first sprout?",
+   "premises": [
+    "prathāprarohakaḥ means first-sprout",
+    "evam means thus",
+    "anyat means other",
+    "prarohakaḥ means sprout"
+   ],
+   "inference": "After the first sprout, another sprout arises.",
+   "uncertainties": [
+    "identity of the other sprout"
+   ],
+   "plain_english": "First sprout; thus another sprout."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "tvasyām",
+     "gloss": "in-this",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ātmābhedo",
+     "gloss": "self-nondifference",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grāhyaḥ",
+     "gloss": "to-be-grasped",
+     "grounds": "gerundive nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paro",
+     "gloss": "other",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dehaḥ",
+     "gloss": "body",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is to be grasped as self-nondifference in this?",
+   "premises": [
+    "tvasyām means in-this",
+    "ātmābhedo means self-nondifference",
+    "grāhyaḥ means to-be-grasped",
+    "ātmanaḥ means of-self",
+    "paro means other",
+    "dehaḥ means body"
+   ],
+   "inference": "In this, self-nondifference is to be grasped, and the other body belongs to the self.",
+   "uncertainties": [
+    "exact relation of other body"
+   ],
+   "plain_english": "In this, self-nondifference is to be grasped; thus the other body of self."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "draṣṭavyāni",
+     "gloss": "to-be-seen",
+     "grounds": "gerundive nominative plural neuter",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vedyatayā",
+     "gloss": "as-knowable",
+     "grounds": "instrumental singular feminine",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśceyāni",
+     "gloss": "to-be-determined",
+     "grounds": "gerundive nominative plural neuter",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What must be seen as knowable and determined?",
+   "premises": [
+    "draṣṭavyāni means to-be-seen",
+    "vedyatayā means as-knowable",
+    "eva means indeed",
+    "niśceyāni means to-be-determined"
+   ],
+   "inference": "The objects are to be seen as knowable and then determined.",
+   "uncertainties": [
+    "exact objects referred to"
+   ],
+   "plain_english": "To-be-seen as knowable indeed, to-be-determined."
+  }
+ ]
+}
