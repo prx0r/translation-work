@@ -58,11 +58,11 @@ def main() -> int:
     ap.add_argument("--out", default="process/beam/ranked_burn.json")
     a = ap.parse_args()
     rows = json.load(open("/tmp/mukta_census.json"))
-    try:
-        q = json.load(open(ROOT / "process/beam/mukta_priority_queue.json"))
-        qstat = {o["catalog"]: o["status"] for o in q}
-    except Exception:
-        qstat = {}
+    # SINGLE SOURCE: work_state (dirs/STATUS.json), never a copied status
+    sys.path.insert(0, str(ROOT / "tools"))
+    from work_state import state_for_title  # noqa: E402
+    def _state(r):
+        return state_for_title(r["title"], r["catalog"])["state"]
     try:
         ch = {}
         with open(ROOT / "process/beam/curated_hits.jsonl", encoding="utf-8") as f:
@@ -93,9 +93,11 @@ def main() -> int:
                                    "sadhanamala", "advayavajra")):
             continue  # out of realm (buddhist; M00652 sricakrasadhanam is
             # Hindu Srividya ritual — keep it)
-        st = qstat.get(cat, "queued")
-        if "complete" in st:
+        st = _state(r)
+        if st == "machine-complete":
             T, why = 10 ** 9, "machine-complete by us: skip burn"
+        elif st == "started":
+            T, why = 10 ** 8, "in progress here: finish before new burns"
         else:
             T, why = 0, "no known translation: unserved"
             w = ixn.get(norm(r["title"]))
