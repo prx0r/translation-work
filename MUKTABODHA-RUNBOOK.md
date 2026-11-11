@@ -122,3 +122,17 @@ python3 tools/queue_guard.py                       # duplicate check
 - Free models only. Key from vault/`.env` (never in git).
 - One work status source. Aliases before titles. Guard before seeding.
 - Beam proposes; the assessor owns PASS. largetext boundary (§0 of skill).
+
+## Window floor (binding, 2026-11-11)
+
+- **Default and minimum: 24 verses per tal_triple.** Beam has a 1M-token
+  context; use it. Up to 60 per the largetext window rule.
+- Halve to 12 **only** when review bounces the group; record "halved" in
+  the note. `queue_guard` flags any task <24 that isn't a marked
+  halving/tail.
+- **Song remainders are the one exception:** when a song has e.g. 25
+  verses, the 1-verse tail cannot become 24; it is folded into the
+  neighbouring window (≤60) where possible, otherwise kept as a marked
+  tail. This is arithmetic, not policy.
+- Every seeding path (`auto_burn.seed`, onboard_wave, MCP `swarm_seed`)
+  must respect the floor; `swarm_seed` already defaults group=24.

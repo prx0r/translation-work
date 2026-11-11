@@ -48,7 +48,8 @@ def audit(fix: bool) -> dict:
             continue
         # FLOOR: max-verses windowing (beam 1M ctx). Never <24 unless a
         # reviewed halving is recorded in the note.
-        if len(vs) < 24 and 'halv' not in (t.get('note') or '').lower():
+        note_l = (t.get('note') or '').lower()
+        if len(vs) < 24 and not any(k in note_l for k in ('halv','tail','folded','restore')):
             problems.setdefault("undersized", []).append(t["id"])
         groups.setdefault((a.get("work"), a.get("song")), []).append(
             (min(vs), max(vs), t))
