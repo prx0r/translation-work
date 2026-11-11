@@ -1,0 +1,584 @@
+{
+ "song": "kul-p65",
+ "items": [
+  {
+   "verse": 1601,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "legacy hint: that",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint: and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint: not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "legacy hint: would-be",
+     "morph": "3.sg.act-opt + as"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "legacy hint: without",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācāryam",
+     "gloss": "teacher",
+     "grounds": "legacy hint: teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint: thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācārya+paramparā",
+     "gloss": "teacher-lineage",
+     "grounds": "legacy hint: teacher-lineage",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why would that not be without a teacher?",
+   "premises": [
+    "liberation requires teacher",
+    "lineage carries authority"
+   ],
+   "inference": "the teacher-lineage is necessary for liberation",
+   "uncertainties": [
+    "exact referent of sā"
+   ],
+   "plain_english": "That would not be without a teacher, thus the teacher-lineage."
+  },
+  {
+   "verse": 1602,
+   "rows": [
+    {
+     "surface": "antareṇa",
+     "gloss": "without",
+     "grounds": "legacy hint: without",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadeṣṭāram",
+     "gloss": "instructor",
+     "grounds": "legacy hint: instructor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "legacy hint: mantras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "legacy hint: would-be",
+     "morph": "3.pl.act-opt + as"
+    },
+    {
+     "surface": "niṣphalāḥ",
+     "gloss": "fruitless",
+     "grounds": "legacy hint: fruitless",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "legacy hint: because",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why would mantras be fruitless without an instructor?",
+   "premises": [
+    "mantras need instructor",
+    "without instructor no fruit"
+   ],
+   "inference": "mantras are fruitless without an instructor",
+   "uncertainties": [
+    "scope of antareṇa"
+   ],
+   "plain_english": "Without an instructor, mantras would be fruitless, because."
+  },
+  {
+   "verse": 1603,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "teacher",
+     "grounds": "legacy hint: teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantra+āgama+abhijñaṃ",
+     "gloss": "mantra-āgama-knowing",
+     "grounds": "legacy hint: mantra-āgama-knowing",
+     "morph": "compound"
+    },
+    {
+     "surface": "samaya+ācāra+pālakam",
+     "gloss": "vow-practice-keeper",
+     "grounds": "legacy hint: vow-practice-keeper",
+     "morph": "compound"
+    }
+   ],
+   "question": "What kind of teacher should be sought?",
+   "premises": [
+    "teacher knows mantra-āgama",
+    "teacher keeps vow-practice"
+   ],
+   "inference": "the guru must know mantra-āgama and keep vow-practice",
+   "uncertainties": [
+    "exact ritual sense of samaya"
+   ],
+   "plain_english": "A teacher who knows mantra-āgama and keeps vow-practice."
+  },
+  {
+   "verse": 1604,
+   "rows": [
+    {
+     "surface": "kiñcit+kālaṃ",
+     "gloss": "for-some-time",
+     "grounds": "compound of kiñcit and kālaṃ in accusative singular masculine",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-arranged",
+     "grounds": "absolutive of vidhā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sva+śiṣyāya",
+     "gloss": "to-own-disciple",
+     "grounds": "dative singular masculine of sva-śiṣya",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "let-him-bestow",
+     "grounds": "optative third singular of samṛp",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "How should the guru bestow the mantra after arranging matters?",
+   "premises": [
+    "guru arranges matters for some time",
+    "guru bestows mantra to own disciple",
+    "bestowal follows proper arrangement"
+   ],
+   "inference": "The guru first arranges matters, then bestows the mantra to his own disciple.",
+   "uncertainties": [
+    "exact duration of kiñcit+kālaṃ is unspecified"
+   ],
+   "plain_english": "After arranging matters for some time, the guru should bestow the mantra to his own disciple."
+  },
+  {
+   "verse": 1605,
+   "rows": [
+    {
+     "surface": "dehānte",
+     "gloss": "at-end-of-body",
+     "grounds": "locative singular masculine of dehānta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāśvatī",
+     "gloss": "eternal",
+     "grounds": "nominative singular feminine adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muktir",
+     "gloss": "liberation",
+     "grounds": "nominative singular feminine of mukti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkara+bhāṣitam",
+     "gloss": "śaṅkara-spoken",
+     "grounds": "nominative singular neuter compound participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What result is promised at the end of the body?",
+   "premises": [
+    "at end of body eternal liberation",
+    "this is spoken by śaṅkara",
+    "liberation is eternal not temporary"
+   ],
+   "inference": "At the end of the body there is eternal liberation, as spoken by Śaṅkara.",
+   "uncertainties": [
+    "whether dehānte means death or final bodily state"
+   ],
+   "plain_english": "At the end of the body there is eternal liberation, so Śaṅkara has spoken."
+  },
+  {
+   "verse": 1606,
+   "rows": [
+    {
+     "surface": "sampradāyam",
+     "gloss": "tradition",
+     "grounds": "accusative singular masculine of sampradāya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avicchinnaṃ",
+     "gloss": "unbroken",
+     "grounds": "accusative singular masculine adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "let-teacher-do",
+     "grounds": "optative third singular of kṛ",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guruḥ",
+     "grounds": "nominative singular masculine of guru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine of priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should the guru always maintain for the dear one?",
+   "premises": [
+    "guru should always make tradition unbroken",
+    "guru is the agent of continuity",
+    "addressed to the dear one"
+   ],
+   "inference": "The guru should always keep the tradition unbroken, O dear one.",
+   "uncertainties": [
+    "whether priye addresses Pārvatī or disciple"
+   ],
+   "plain_english": "O dear one, the guru should always keep the tradition unbroken."
+  },
+  {
+   "verse": 1607,
+   "rows": [
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadiśet",
+     "gloss": "let-him-instruct",
+     "grounds": "optative of upa-diś",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "predicate adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What happens if mantra is instructed otherwise?",
+   "premises": [
+    "mantra instruction otherwise fruitless",
+    "fruitless result would arise"
+   ],
+   "inference": "Improper mantra instruction yields no fruit.",
+   "uncertainties": [
+    "exact optative force"
+   ],
+   "plain_english": "If the mantra is instructed otherwise, it becomes fruitless."
+  },
+  {
+   "verse": 1608,
+   "rows": [
+    {
+     "surface": "dadatā",
+     "gloss": "giving",
+     "grounds": "instrumental participle",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "gṛhṇatā",
+     "gloss": "receiving",
+     "grounds": "instrumental participle",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kula+śāpaḥ",
+     "gloss": "kula-curse",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future of bhū",
+     "morph": "3.sg.act.fut"
+    }
+   ],
+   "question": "What curse arises when giving and receiving?",
+   "premises": [
+    "giving and receiving occur",
+    "kula curse will arise"
+   ],
+   "inference": "Improper exchange brings the kula curse.",
+   "uncertainties": [
+    "exact ritual context"
+   ],
+   "plain_english": "O goddess, when giving and receiving occur, the kula curse will arise."
+  },
+  {
+   "verse": 1609,
+   "rows": [
+    {
+     "surface": "upadeśaṃ",
+     "gloss": "instruction",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dadat",
+     "gloss": "giving",
+     "grounds": "nominative participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gṛhṇan",
+     "gloss": "receiving",
+     "grounds": "nominative participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prāpnuyātām",
+     "gloss": "would-obtain",
+     "grounds": "optative dual",
+     "morph": "3.du.act.opt"
+    },
+    {
+     "surface": "piśācatām",
+     "gloss": "demon-hood",
+     "grounds": "accusative result",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What do giver and receiver obtain?",
+   "premises": [
+    "instruction is given and received",
+    "both would obtain demon-hood"
+   ],
+   "inference": "Improper transmission leads to demon-hood.",
+   "uncertainties": [
+    "exact dual subject"
+   ],
+   "plain_english": "By giving and receiving instruction, both would obtain demon-hood."
+  },
+  {
+   "verse": 1610,
+   "rows": [
+    {
+     "surface": "tāv+ubhau",
+     "gloss": "they-both",
+     "grounds": "nominative dual pronoun",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "bhuñjāte",
+     "gloss": "would-enjoy",
+     "grounds": "optative middle dual",
+     "morph": "3.du.mid.opt"
+    },
+    {
+     "surface": "ghorān",
+     "gloss": "terrible",
+     "grounds": "accusative plural adjective",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "narakān",
+     "gloss": "hells",
+     "grounds": "accusative plural noun",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "ekaviṃśatim",
+     "gloss": "twenty-one",
+     "grounds": "accusative numeral",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What do both suffer after improper transmission?",
+   "premises": [
+    "both would enjoy hells",
+    "twenty-one terrible hells"
+   ],
+   "inference": "Both undergo twenty-one terrible hells.",
+   "uncertainties": [
+    "exact enjoyment sense"
+   ],
+   "plain_english": "Both would experience twenty-one terrible hells."
+  },
+  {
+   "verse": 1611,
+   "rows": [
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "present of vi-naś",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tan+mantraṃ",
+     "gloss": "that-mantra",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saikate",
+     "gloss": "sand",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śāli+bījavat",
+     "gloss": "rice-seed",
+     "grounds": "compound simile",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to that mantra?",
+   "premises": [
+    "that mantra perishes",
+    "like rice seed in sand"
+   ],
+   "inference": "The mantra is destroyed like rice seed in sand.",
+   "uncertainties": [
+    "exact simile scope"
+   ],
+   "plain_english": "That mantra perishes, like a rice seed in sand."
+  },
+  {
+   "verse": 1612,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "inferential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parīkṣya",
+     "gloss": "having-tested",
+     "grounds": "absolutive of parīkṣ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karttavyam",
+     "gloss": "should-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "predicate adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be done after testing?",
+   "premises": [
+    "therefore test first",
+    "otherwise fruitless result"
+   ],
+   "inference": "One should act only after testing, else it is fruitless.",
+   "uncertainties": [
+    "exact action scope"
+   ],
+   "plain_english": "Therefore, after testing, it should be done; otherwise it is fruitless."
+  }
+ ]
+}

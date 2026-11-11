@@ -1,0 +1,558 @@
+{
+ "song": "kul-p46",
+ "items": [
+  {
+   "verse": 1138,
+   "rows": [
+    {
+     "surface": "matsyamāṃsādi",
+     "gloss": "fish-meat-etc",
+     "grounds": "compound of matsya, māṃsa, ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rite",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣya",
+     "gloss": "eatable",
+     "grounds": "verbal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhojya",
+     "gloss": "food",
+     "grounds": "verbal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied",
+     "grounds": "past participle with sam",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What substances accompany the prescribed ritual meal?",
+   "premises": [
+    "fish and meat are included",
+    "rite governs consumption",
+    "meal is accompanied by proper items"
+   ],
+   "inference": "The ritual meal includes fish, meat, and related substances prepared according to rite.",
+   "uncertainties": [
+    "exact list beyond ādi is unspecified"
+   ],
+   "plain_english": "Fish, meat, and similar substances are to be eaten according to rite as part of the accompanied meal."
+  },
+  {
+   "verse": 1139,
+   "rows": [
+    {
+     "surface": "yauvanollāsasahitaḥ",
+     "gloss": "youthful-delight-accompanied",
+     "grounds": "compound with sahita",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nivīkāreṇa",
+     "gloss": "with-nakedness",
+     "grounds": "instrumental of nivīkāra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "cetasā",
+     "gloss": "mind",
+     "grounds": "instrumental of cetas",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "In what mental and bodily state is the rite performed?",
+   "premises": [
+    "youthful delight accompanies the rite",
+    "nakedness is specified",
+    "mind is the instrument"
+   ],
+   "inference": "The practitioner performs the rite with youthful delight, nakedness, and focused mind.",
+   "uncertainties": [
+    "nivīkāra may be ritual nudity or symbolic state"
+   ],
+   "plain_english": "Accompanied by youthful delight, with nakedness and a focused mind, the rite is performed."
+  },
+  {
+   "verse": 1140,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive of jap",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "samarpya",
+     "gloss": "offering",
+     "grounds": "absolutive of samṛ",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tatpūjām",
+     "gloss": "that-worship",
+     "grounds": "compound tat + pūjā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devatām",
+     "gloss": "deity",
+     "grounds": "accusative of devatā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "raise",
+     "grounds": "optative of samuddhṛ",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What follows chanting and offering in the sequence?",
+   "premises": [
+    "chanting comes first",
+    "worship is offered",
+    "deity is raised or invoked"
+   ],
+   "inference": "After chanting and offering that worship, the deity is raised or invoked.",
+   "uncertainties": [
+    "samuddharet may mean uplift or extract"
+   ],
+   "plain_english": "Having chanted and offered that worship, one raises or invokes the deity."
+  },
+  {
+   "verse": 1141,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "japārcanam",
+     "gloss": "japa-worship",
+     "grounds": "compound of japa and arcana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇacaturddaśyantam",
+     "gloss": "until-krishna-fourteenth",
+     "grounds": "compound with anta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ambike",
+     "gloss": "ambika",
+     "grounds": "vocative of ambikā",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Until what lunar limit is japa worship performed?",
+   "premises": [
+    "japa worship is to be done",
+    "limit is krishna fourteenth",
+    "ambika is addressed"
+   ],
+   "inference": "One performs japa worship until the krishna fourteenth, addressing Ambika.",
+   "uncertainties": [
+    "whether daily or periodic is not stated"
+   ],
+   "plain_english": "O Ambika, one performs japa worship until the krishna fourteenth."
+  },
+  {
+   "verse": 1142,
+   "rows": [
+    {
+     "surface": "tripañcasapta",
+     "gloss": "three-five-seven",
+     "grounds": "compound of tri, pañca, sapta",
+     "morph": "compound"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vittalobhavivajītaḥ",
+     "gloss": "free-from-wealth-greed",
+     "grounds": "compound with vivarjita",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What numerical options and ethical condition are given?",
+   "premises": [
+    "three five seven or nine are options",
+    "wealth greed must be abandoned",
+    "practitioner is free from greed"
+   ],
+   "inference": "One may use three, five, seven, or nine, being free from greed for wealth.",
+   "uncertainties": [
+    "what the numbers count is not explicit"
+   ],
+   "plain_english": "Three, five, seven, or nine, free from greed for wealth."
+  },
+  {
+   "verse": 1143,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative of devatā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive of tad",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "santuṣṭā",
+     "gloss": "pleased",
+     "grounds": "past participle of santuṣ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "present of dā",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "phalamīpsitam",
+     "gloss": "desired-fruit",
+     "grounds": "compound of phala and īpsita",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does a pleased deity give?",
+   "premises": [
+    "deity becomes pleased",
+    "pleased deity gives",
+    "fruit is desired"
+   ],
+   "inference": "The deity, pleased with him, gives the desired fruit.",
+   "uncertainties": [
+    "conditions for pleasing are in prior verses"
+   ],
+   "plain_english": "The deity, pleased with him, gives the desired fruit."
+  },
+  {
+   "verse": 1144,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative of tad",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatphalam",
+     "gloss": "that-fruit",
+     "grounds": "compound of tat and phala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present of āp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yoginīnām",
+     "gloss": "of-yoginis",
+     "grounds": "genitive plural of yoginī",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "nominative of priya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What results from obtaining that fruit?",
+   "premises": [
+    "he obtains that fruit",
+    "he becomes dear",
+    "dearness is to yoginis"
+   ],
+   "inference": "He obtains that fruit and becomes dear to the yoginis.",
+   "uncertainties": [
+    "whether fruit and yogini favor are sequential or simultaneous"
+   ],
+   "plain_english": "He obtains that fruit and becomes dear to the yoginis."
+  },
+  {
+   "verse": 1145,
+   "rows": [
+    {
+     "surface": "kāṅkṣitām",
+     "gloss": "desired",
+     "grounds": "past participle of kāṅkṣ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present of labh",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "perfection",
+     "grounds": "accusative of siddhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devavad",
+     "gloss": "like-god",
+     "grounds": "indeclinable comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicaret",
+     "gloss": "moves",
+     "grounds": "optative of vicar",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative of bhū",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What perfection and conduct are promised?",
+   "premises": [
+    "desired perfection is obtained",
+    "movement is like a god",
+    "movement occurs on earth"
+   ],
+   "inference": "He obtains the desired perfection and moves on earth like a god.",
+   "uncertainties": [
+    "whether siddhi is magical or spiritual"
+   ],
+   "plain_english": "He obtains the desired perfection and moves on earth like a god."
+  },
+  {
+   "verse": 1146,
+   "rows": [
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of snā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "śuklāmbaradharaḥ",
+     "gloss": "white-garment-wearer",
+     "grounds": "compound with dhara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāyam",
+     "gloss": "evening",
+     "grounds": "indeclinable time word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyām",
+     "gloss": "twilight",
+     "grounds": "accusative of sandhyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upāsya",
+     "gloss": "worship",
+     "grounds": "absolutive of upās",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What evening practice follows bathing?",
+   "premises": [
+    "bathing comes first",
+    "white garments are worn",
+    "evening twilight is worshipped"
+   ],
+   "inference": "After bathing and wearing white garments, one worships the evening twilight.",
+   "uncertainties": [
+    "whether sandhyā is ritual or meditation"
+   ],
+   "plain_english": "Having bathed and wearing white garments, one worships the evening twilight."
+  },
+  {
+   "verse": 1147,
+   "rows": [
+    {
+     "surface": "yauvanollāsasahitaḥ",
+     "gloss": "youthful-delight-accompanied",
+     "grounds": "compound with sahita",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "candrasthām",
+     "gloss": "moon-placed",
+     "grounds": "compound with stha",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devatām",
+     "gloss": "deity",
+     "grounds": "accusative of devatā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle of smṛ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deity is remembered in this practice?",
+   "premises": [
+    "youthful delight accompanies the rite",
+    "deity is moon-placed",
+    "deity is remembered"
+   ],
+   "inference": "Accompanied by youthful delight, one remembers the deity placed in the moon.",
+   "uncertainties": [
+    "candrasthām may mean lunar station or moon phase"
+   ],
+   "plain_english": "Accompanied by youthful delight, one remembers the deity placed in the moon."
+  },
+  {
+   "verse": 1148,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratidinam",
+     "gloss": "daily",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuklacaturddaśyantam",
+     "gloss": "until-white-fourteenth",
+     "grounds": "compound with anta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "worship",
+     "grounds": "optative of arc",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How long is the daily worship continued?",
+   "premises": [
+    "practice is thus",
+    "worship is daily",
+    "limit is white fourteenth"
+   ],
+   "inference": "Thus one worships daily until the white fourteenth.",
+   "uncertainties": [
+    "whether white fourteenth is lunar day or fortnight end"
+   ],
+   "plain_english": "Thus one worships daily until the white fourteenth."
+  },
+  {
+   "verse": 1149,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative of yad",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "present of kṛ",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of bhakti",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "śuklapakṣārcanam",
+     "gloss": "white-fortnight-worship",
+     "grounds": "compound of śuklapakṣa and arcana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative of priyā",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who is praised for this white-fortnight worship?",
+   "premises": [
+    "one does thus",
+    "worship is with devotion",
+    "white fortnight worship is performed",
+    "dear one is addressed"
+   ],
+   "inference": "The one who performs white-fortnight worship with devotion is praised, addressing the dear one.",
+   "uncertainties": [
+    "whether priye addresses Parvati or devotee"
+   ],
+   "plain_english": "Thus, dear one, whoever performs white-fortnight worship with devotion is praised."
+  }
+ ]
+}

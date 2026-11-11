@@ -1,0 +1,521 @@
+{
+ "song": "kul-p31",
+ "items": [
+  {
+   "verse": 751,
+   "rows": [
+    {
+     "surface": "hrāṃ",
+     "gloss": "seed-syllable-hrāṃ",
+     "grounds": "mantra bīja",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "seed-syllable-hrīṃ",
+     "grounds": "mantra bīja",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrūñca",
+     "gloss": "seed-syllable-hrūñca",
+     "grounds": "mantra bīja",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "at-beginning",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavādhiṣṭhitāya",
+     "gloss": "to-bhairava-presided",
+     "grounds": "dative compound",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the opening mantra sequence be directed?",
+   "premises": [
+    "opening mantras are named",
+    "bhairava presiding is addressed",
+    "sequence begins at the start"
+   ],
+   "inference": "The verse prescribes opening seed-syllables directed to Bhairava.",
+   "uncertainties": [
+    "exact ritual action is not specified"
+   ],
+   "plain_english": "At the beginning, the seed-syllables hrāṃ, hrīṃ, and hrūñca are directed to Bhairava."
+  },
+  {
+   "verse": 752,
+   "rows": [
+    {
+     "surface": "siddhārthapadam",
+     "gloss": "to-siddhārtha-place",
+     "grounds": "dative compound",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ābhāṣya",
+     "gloss": "having-spoken",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avataradvayam",
+     "gloss": "two-descents",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What follows after addressing the siddhārtha place?",
+   "premises": [
+    "siddhārtha place is addressed",
+    "speech act is completed",
+    "two descents follow"
+   ],
+   "inference": "After speaking to the siddhārtha place, two descents are invoked.",
+   "uncertainties": [
+    "identity of the two descents is not stated"
+   ],
+   "plain_english": "Having spoken to the siddhārtha place, afterwards two descents are invoked."
+  },
+  {
+   "verse": 753,
+   "rows": [
+    {
+     "surface": "mātṛputrapadam",
+     "gloss": "mother-son-place",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulaputrapadam",
+     "gloss": "kula-son-place",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which places are named after the descents?",
+   "premises": [
+    "mother-son place is named",
+    "kula-son place is named",
+    "both follow in sequence"
+   ],
+   "inference": "The verse names mother-son and kula-son places in sequence.",
+   "uncertainties": [
+    "ritual function of each place is not explained"
+   ],
+   "plain_english": "Afterwards the mother-son place and the kula-son place are named."
+  },
+  {
+   "verse": 754,
+   "rows": [
+    {
+     "surface": "grāmādhipataye",
+     "gloss": "to-village-lord",
+     "grounds": "dative compound",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "locative pronoun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "deśādhipataye",
+     "gloss": "to-country-lord",
+     "grounds": "dative compound",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom may the offering be directed?",
+   "premises": [
+    "village lord is addressed",
+    "country lord is addressed",
+    "sequence moves from local to wider"
+   ],
+   "inference": "The verse allows address to village and country lords in turn.",
+   "uncertainties": [
+    "exact offering substance is not stated"
+   ],
+   "plain_english": "In this context it may be to the village lord, then to the country lord."
+  },
+  {
+   "verse": 755,
+   "rows": [
+    {
+     "surface": "meghanādapadam",
+     "gloss": "meghanāda-place",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pracaṇḍograpadam",
+     "gloss": "fierce-terrible-place",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "would-say",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What places are spoken after the country lord?",
+   "premises": [
+    "meghanāda place is named",
+    "fierce-terrible place is named",
+    "speech act is prescribed"
+   ],
+   "inference": "The verse prescribes naming meghanāda and fierce-terrible places.",
+   "uncertainties": [
+    "relation to prior lords is not explicit"
+   ],
+   "plain_english": "Afterwards one would name the meghanāda place and the fierce-terrible place."
+  },
+  {
+   "verse": 756,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "sarvavighnādhipataye",
+     "gloss": "to-all-obstacle-lord",
+     "grounds": "dative compound",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "imāṃ",
+     "gloss": "this",
+     "grounds": "demonstrative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "would-say",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What worship and offering are declared?",
+   "premises": [
+    "all-obstacle lord is addressed",
+    "this worship is named",
+    "offering is named"
+   ],
+   "inference": "The verse declares worship and offering to the lord of all obstacles.",
+   "uncertainties": [
+    "exact recipient scope is not clarified"
+   ],
+   "plain_english": "One may declare this worship and offering to the lord of all obstacles."
+  },
+  {
+   "verse": 757,
+   "rows": [
+    {
+     "surface": "jvalayuk",
+     "gloss": "blazing-pair",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prajvalayugaṃ",
+     "gloss": "blazing-yuga",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvavighnān",
+     "gloss": "all-obstacles",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ītīrayet",
+     "gloss": "would-remove",
+     "grounds": "causative optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What is removed by the blazing pair?",
+   "premises": [
+    "blazing pair is named",
+    "blazing yuga is named",
+    "all obstacles are removed"
+   ],
+   "inference": "The verse states that all obstacles are removed by the blazing pair.",
+   "uncertainties": [
+    "mechanism of removal is not stated"
+   ],
+   "plain_english": "The blazing pair and blazing yuga remove all obstacles."
+  },
+  {
+   "verse": 758,
+   "rows": [
+    {
+     "surface": "kṣetrapālāya",
+     "gloss": "to-field-protector",
+     "grounds": "dative compound",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vauṣaṭ",
+     "gloss": "vauṣaṭ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrūṃ",
+     "gloss": "seed-syllable-hrūṃ",
+     "grounds": "mantra bīja",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭyuttaraśatākṣaraḥ",
+     "gloss": "sixty-plus-hundred-syllable",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra is given to the field protector?",
+   "premises": [
+    "field protector is addressed",
+    "vauṣaṭ and hrūṃ are named",
+    "syllable count is specified"
+   ],
+   "inference": "The verse gives a mantra with vauṣaṭ and hrūṃ to the field protector.",
+   "uncertainties": [
+    "exact syllable arrangement is not shown"
+   ],
+   "plain_english": "To the field protector, the mantra uses vauṣaṭ and hrūṃ in a hundred-and-sixty-syllable form."
+  },
+  {
+   "verse": 759,
+   "rows": [
+    {
+     "surface": "gṛhṇayugmaṃ",
+     "gloss": "pair-grasp",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dviṭhānto",
+     "gloss": "ending-in-two",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭāviṃśākṣaro",
+     "gloss": "twenty-eight-syllable",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of mantra is described?",
+   "premises": [
+    "pair-grasp is named",
+    "ending-in-two is named",
+    "twenty-eight-syllable mantra is named"
+   ],
+   "inference": "The verse describes a twenty-eight-syllable mantra ending in two.",
+   "uncertainties": [
+    "full mantra text is not given"
+   ],
+   "plain_english": "This is a twenty-eight-syllable mantra, a pair-grasp ending in two."
+  },
+  {
+   "verse": 760,
+   "rows": [
+    {
+     "surface": "rājarājeśvaro",
+     "gloss": "king-of-kings-lord",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prasīdatu",
+     "gloss": "may-be-pleased",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What prayer is made to the king of kings?",
+   "premises": [
+    "king-of-kings lord is named",
+    "god is addressed",
+    "pleasure is requested always"
+   ],
+   "inference": "The verse prays that the king-of-kings god be pleased always.",
+   "uncertainties": [
+    "specific benefit requested is not stated"
+   ],
+   "plain_english": "May the god, lord of kings of kings, always be pleased with me."
+  },
+  {
+   "verse": 761,
+   "rows": [
+    {
+     "surface": "rājarājeśvaraṃ",
+     "gloss": "king-of-kings-lord",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "would-worship",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-goddess",
+     "grounds": "locative compound",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Where is the king of kings worshipped?",
+   "premises": [
+    "king-of-kings lord is named",
+    "middle is specified",
+    "kula goddess is named"
+   ],
+   "inference": "The verse directs worship of the king-of-kings lord in the middle of the kula goddess.",
+   "uncertainties": [
+    "spatial sense of middle is not clarified"
+   ],
+   "plain_english": "One would worship the king-of-kings lord in the middle, with the kula goddess."
+  },
+  {
+   "verse": 762,
+   "rows": [
+    {
+     "surface": "tarjanīmadhyamānāmikāṅguṣṭhaiḥ",
+     "gloss": "with-index-middle-ring-thumb",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yoginībaliḥ",
+     "gloss": "yoginī-offering",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the yoginī offering made?",
+   "premises": [
+    "index middle ring thumb are named",
+    "offering to yoginīs is named",
+    "instrumental case is used"
+   ],
+   "inference": "The verse specifies the yoginī offering made with index, middle, ring, and thumb.",
+   "uncertainties": [
+    "exact hand gesture is not described"
+   ],
+   "plain_english": "The yoginī offering is made with the index, middle, ring, and thumb fingers."
+  }
+ ]
+}

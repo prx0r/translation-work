@@ -1,0 +1,539 @@
+{
+ "song": "kul-p48",
+ "items": [
+  {
+   "verse": 1188,
+   "rows": [
+    {
+     "surface": "kuleśi",
+     "gloss": "o mistress of kula",
+     "grounds": "vocative address to kula's mistress",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "verb root āp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yoginīvīramelanam",
+     "gloss": "meeting of yoginis and heroes",
+     "grounds": "compound yoginī-vīra-melana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does the kula mistress always obtain?",
+   "premises": [
+    "kula mistress is addressed",
+    "meeting of yoginis and heroes is obtained"
+   ],
+   "inference": "The kula mistress always obtains the meeting of yoginis and heroes.",
+   "uncertainties": [
+    "exact case of kuleśi in context"
+   ],
+   "plain_english": "O mistress of kula, one always obtains the meeting of yoginis and heroes."
+  },
+  {
+   "verse": 1189,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadgatimavāpnoti",
+     "gloss": "obtains good destiny",
+     "grounds": "fused form sadgatim + avāpnoti",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb root avāp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uta",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dvijātayaḥ",
+     "gloss": "twice-born",
+     "grounds": "compound dvija-ātayaḥ",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What good destiny does he obtain, and what of others?",
+   "premises": [
+    "he obtains good destiny",
+    "others are twice-born"
+   ],
+   "inference": "He obtains good destiny; the verse asks what follows for others.",
+   "uncertainties": [
+    "repeated verb may be editorial or emphatic"
+   ],
+   "plain_english": "He obtains good destiny; what then of other twice-born?"
+  },
+  {
+   "verse": 1190,
+   "rows": [
+    {
+     "surface": "kulapūjārato",
+     "gloss": "devoted to kula worship",
+     "grounds": "compound kula-pūjā-rataḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūyādabhīṣṭaphalasiddhaye",
+     "gloss": "may he be for desired fruit attainment",
+     "grounds": "fused form bhūyāt + abhīṣṭa-phala-siddhaye",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "abhīṣṭaphalasiddhaye",
+     "gloss": "for desired fruit attainment",
+     "grounds": "compound abhīṣṭa-phala-siddhaye",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should one be devoted to kula worship?",
+   "premises": [
+    "devotion to kula worship is praised",
+    "desired fruit attainment is the aim"
+   ],
+   "inference": "One devoted to kula worship attains the desired fruit.",
+   "uncertainties": [
+    "fused optative parsing"
+   ],
+   "plain_english": "May one devoted to kula worship attain the desired fruit."
+  },
+  {
+   "verse": 1191,
+   "rows": [
+    {
+     "surface": "kulapūjādhikaṃ",
+     "gloss": "greater than kula worship",
+     "grounds": "compound kula-pūjā-adhikam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "pilgrimage place",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulapūjādhikaṃ",
+     "gloss": "greater than kula worship",
+     "grounds": "compound kula-pūjā-adhikam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tapaḥ",
+     "gloss": "austerity",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is greater than kula worship among pilgrimage and austerity?",
+   "premises": [
+    "kula worship surpasses pilgrimage",
+    "kula worship surpasses austerity"
+   ],
+   "inference": "Kula worship is greater than both pilgrimage and austerity.",
+   "uncertainties": [
+    "ellipsis of copula"
+   ],
+   "plain_english": "Kula worship is greater than pilgrimage and austerity."
+  },
+  {
+   "verse": 1192,
+   "rows": [
+    {
+     "surface": "kulapūjādhikaṃ",
+     "gloss": "greater than kula worship",
+     "grounds": "compound kula-pūjā-adhikam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulapūjādhikaṃ",
+     "gloss": "greater than kula worship",
+     "grounds": "compound kula-pūjā-adhikam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is greater than kula worship among knowledge and happiness?",
+   "premises": [
+    "kula worship surpasses knowledge",
+    "kula worship surpasses happiness"
+   ],
+   "inference": "Kula worship is greater than both knowledge and happiness.",
+   "uncertainties": [
+    "ellipsis of copula"
+   ],
+   "plain_english": "Kula worship is greater than knowledge and happiness."
+  },
+  {
+   "verse": 1193,
+   "rows": [
+    {
+     "surface": "kulapūjādhikaṃ",
+     "gloss": "greater than kula worship",
+     "grounds": "compound kula-pūjā-adhikam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulapūjādhikaṃ",
+     "gloss": "greater than kula worship",
+     "grounds": "compound kula-pūjā-adhikam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahaḥ",
+     "gloss": "greatness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is greater than kula worship among meditation and greatness?",
+   "premises": [
+    "kula worship surpasses meditation",
+    "kula worship surpasses greatness"
+   ],
+   "inference": "Kula worship is greater than both meditation and greatness.",
+   "uncertainties": [
+    "ellipsis of copula"
+   ],
+   "plain_english": "Kula worship is greater than meditation and greatness."
+  },
+  {
+   "verse": 1194,
+   "rows": [
+    {
+     "surface": "kulapūjādhikaṃ",
+     "gloss": "greater than kula worship",
+     "grounds": "compound kula-pūjā-adhikam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāgyaṃ",
+     "gloss": "fortune",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulapūjādhikā",
+     "gloss": "greater than kula worship",
+     "grounds": "compound kula-pūjā-adhikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "arcana",
+     "gloss": "worship",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is greater than kula worship among fortune and worship?",
+   "premises": [
+    "kula worship surpasses fortune",
+    "kula worship surpasses worship"
+   ],
+   "inference": "Kula worship is greater than both fortune and worship.",
+   "uncertainties": [
+    "ellipsis of copula"
+   ],
+   "plain_english": "Kula worship is greater than fortune and worship."
+  },
+  {
+   "verse": 1195,
+   "rows": [
+    {
+     "surface": "bahunātra",
+     "gloss": "by much here",
+     "grounds": "fused form bahunā + atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktena",
+     "gloss": "by what is said",
+     "grounds": "past participle",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative root śru",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o parvati",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why say much here when the secret is to be heard?",
+   "premises": [
+    "much speech is unnecessary",
+    "the secret should be heard"
+   ],
+   "inference": "The speaker asks Parvati to hear the secret rather than much speech.",
+   "uncertainties": [
+    "fused bahunātra parsing"
+   ],
+   "plain_english": "Why say much here? Hear the secret, Parvati."
+  },
+  {
+   "verse": 1196,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyamidaṃ",
+     "gloss": "this is truth",
+     "grounds": "fused form satyam + idam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there any doubt that this is truth?",
+   "premises": [
+    "this is truth",
+    "there is no doubt"
+   ],
+   "inference": "This is truth, and there is no doubt about it.",
+   "uncertainties": [
+    "repeated truth forms are emphatic"
+   ],
+   "plain_english": "This is truth, this is truth; there is no doubt."
+  },
+  {
+   "verse": 1197,
+   "rows": [
+    {
+     "surface": "niyuktā",
+     "gloss": "appointed",
+     "grounds": "past participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by me",
+     "grounds": "pronoun",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kulasaṃrakṣaṇāya",
+     "gloss": "for protection of kula",
+     "grounds": "compound kula-saṃrakṣaṇāya",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who has been appointed by me for protection of kula?",
+   "premises": [
+    "some are appointed by me",
+    "the purpose is protection of kula"
+   ],
+   "inference": "Certain ones are appointed by me for protection of kula.",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "Indeed, I have appointed some, O goddess, for protection of kula."
+  },
+  {
+   "verse": 1198,
+   "rows": [
+    {
+     "surface": "sādhakāneva",
+     "gloss": "practitioners indeed",
+     "grounds": "fused form sādhakān + eva",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīkṣante",
+     "gloss": "they look",
+     "grounds": "verb root vīkṣ",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "svasvapūjanalipsayā",
+     "gloss": "with desire for own worship",
+     "grounds": "compound sva-sva-pūjana-lipsayā",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Why do practitioners look with desire for own worship?",
+   "premises": [
+    "practitioners are looked at",
+    "they seek their own worship"
+   ],
+   "inference": "Practitioners are regarded with desire for their own worship.",
+   "uncertainties": [
+    "fused accusative plural"
+   ],
+   "plain_english": "Practitioners indeed are regarded, with desire for their own worship."
+  },
+  {
+   "verse": 1199,
+   "rows": [
+    {
+     "surface": "gurubhaktān",
+     "gloss": "devotees of guru",
+     "grounds": "compound guru-bhaktān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sadācārān",
+     "gloss": "of good conduct",
+     "grounds": "compound sat-ācārān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "guhyadharmān",
+     "gloss": "of secret duties",
+     "grounds": "compound guhya-dharmān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sadāśivān",
+     "gloss": "of true auspicious ones",
+     "grounds": "compound sat-āśivān",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Whom does the verse describe as devotees of guru?",
+   "premises": [
+    "guru devotees are described",
+    "they have good conduct and secret duties"
+   ],
+   "inference": "Guru devotees are those of good conduct, secret duties, and true auspiciousness.",
+   "uncertainties": [
+    "compound membership"
+   ],
+   "plain_english": "Guru devotees, of good conduct, secret duties, and true auspiciousness."
+  }
+ ]
+}

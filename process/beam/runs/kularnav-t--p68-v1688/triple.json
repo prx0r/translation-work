@@ -1,0 +1,623 @@
+{
+ "song": "kul-p68",
+ "items": [
+  {
+   "verse": 1688,
+   "rows": [
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "past participle of gam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jñānakāṣṭhāṃ",
+     "gloss": "knowledge-limit",
+     "grounds": "compound accusative feminine singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nirbījaḥ",
+     "gloss": "seedless",
+     "grounds": "adjective nominative masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "shiva",
+     "grounds": "nominative masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What state does the seedless one reach at knowledge's limit?",
+   "premises": [
+    "The seedless one goes to supreme knowledge-limit.",
+    "He becomes Shiva."
+   ],
+   "inference": "Reaching the supreme limit of knowledge makes the seedless one become Shiva.",
+   "uncertainties": [
+    "Exact tense and mood of bhavet are read as optative."
+   ],
+   "plain_english": "Having gone to the supreme limit of knowledge, the seedless one becomes Shiva."
+  },
+  {
+   "verse": 1689,
+   "rows": [
+    {
+     "surface": "dīkṣāsaṃskārasampanne",
+     "gloss": "initiation-purification-endowed",
+     "grounds": "compound locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jātibhedaḥ",
+     "gloss": "birth-difference",
+     "grounds": "nominative masculine singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "passive present of vid",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "Is there birth-difference in one endowed with initiation-purification?",
+   "premises": [
+    "Initiation-purification-endowed state is given.",
+    "Birth-difference does not exist there."
+   ],
+   "inference": "One endowed with initiation and purification has no birth-difference.",
+   "uncertainties": [
+    "The compound's exact locative referent is implicit."
+   ],
+   "plain_english": "In one endowed with initiation and purification, there is no difference of birth."
+  },
+  {
+   "verse": 1690,
+   "rows": [
+    {
+     "surface": "dīkṣitaḥ",
+     "gloss": "initiated",
+     "grounds": "nominative masculine singular participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvatvasmṛtyā",
+     "gloss": "by-former-memory",
+     "grounds": "instrumental feminine singular compound",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter accusative singular pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāpam",
+     "gloss": "sin",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtains",
+     "grounds": "optative of āp",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How might an initiated person still obtain that sin?",
+   "premises": [
+    "An initiated person is considered.",
+    "By former memory he obtains that sin."
+   ],
+   "inference": "Even an initiated person may obtain that sin through memory of former status.",
+   "uncertainties": [
+    "pūrvatva is read as former status or prior condition."
+   ],
+   "plain_english": "Even an initiated person may obtain that sin through memory of his former state."
+  },
+  {
+   "verse": 1691,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "said",
+     "grounds": "passive present of vac",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhāḥ",
+     "gloss": "pure",
+     "grounds": "nominative masculine plural adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvavarṇāḥ",
+     "gloss": "all-varnas",
+     "grounds": "nominative masculine plural compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣitāḥ",
+     "gloss": "initiated",
+     "grounds": "nominative masculine plural participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What is said about all varnas when initiated?",
+   "premises": [
+    "As it is said, thus it is.",
+    "All varnas become pure when initiated."
+   ],
+   "inference": "All varnas are pure when they are initiated.",
+   "uncertainties": [
+    "The exact scope of sarvavarṇāḥ is left general."
+   ],
+   "plain_english": "As it is said, all varnas become pure when initiated."
+  },
+  {
+   "verse": 1692,
+   "rows": [
+    {
+     "surface": "pūjitaṃ",
+     "gloss": "worshipped",
+     "grounds": "nominative or accusative neuter singular participle",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "instrumental masculine singular pronoun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter nominative or accusative singular",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative of as",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "dīkṣitena",
+     "gloss": "by-initiated",
+     "grounds": "instrumental masculine singular participle",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative masculine singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What becomes worshipped by the initiated person?",
+   "premises": [
+    "By him all becomes worshipped.",
+    "By the initiated person there is no doubt."
+   ],
+   "inference": "For the initiated person, all becomes worshipped and there is no doubt.",
+   "uncertainties": [
+    "pūjitaṃ may be neuter accusative or nominative."
+   ],
+   "plain_english": "By him all becomes worshipped; for the initiated person there is no doubt."
+  },
+  {
+   "verse": 1693,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthakṣetragamanaiḥ",
+     "gloss": "by-pilgrimage-site-going",
+     "grounds": "instrumental plural compound",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śarīrayantraṇaiḥ",
+     "gloss": "body-restraint-by",
+     "grounds": "instrumental plural compound",
+     "morph": "f.ins.pl"
+    }
+   ],
+   "question": "What does not bring fruit for them?",
+   "premises": [
+    "Not by pilgrimage-site going.",
+    "Not by body restraint either."
+   ],
+   "inference": "Pilgrimage-site going and body restraint do not bring fruit for them.",
+   "uncertainties": [
+    "The verse is syntactically incomplete without verse 1694."
+   ],
+   "plain_english": "Not by going to pilgrimage sites, nor by bodily restraints."
+  },
+  {
+   "verse": 1694,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalanti",
+     "gloss": "bear-fruit",
+     "grounds": "present active plural of phal",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative feminine singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive masculine plural pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śilāyāmuptabījavat",
+     "gloss": "like-stone-sown-seed",
+     "grounds": "compound adverbial comparison",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is compared to seed sown on stone?",
+   "premises": [
+    "Beloved, they do not bear fruit.",
+    "They are like seed sown on stone."
+   ],
+   "inference": "Their efforts do not bear fruit, like seed sown on stone.",
+   "uncertainties": [
+    "The exact subject of phalanti is carried from verse 1693."
+   ],
+   "plain_english": "Beloved, they do not bear fruit, like seed sown on stone."
+  },
+  {
+   "verse": 1695,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "by-all-effort",
+     "grounds": "instrumental singular compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-guru",
+     "grounds": "instrumental masculine singular",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dīkṣito",
+     "gloss": "initiated",
+     "grounds": "nominative masculine singular participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should one become through the guru's effort?",
+   "premises": [
+    "Therefore by all effort.",
+    "By the guru one becomes initiated."
+   ],
+   "inference": "Therefore one should become initiated by the guru with all effort.",
+   "uncertainties": [
+    "bhavet is read as optative injunction."
+   ],
+   "plain_english": "Therefore, with all effort, one should become initiated by the guru."
+  },
+  {
+   "verse": 1696,
+   "rows": [
+    {
+     "surface": "dvijaḥ",
+     "gloss": "twice-born",
+     "grounds": "nominative masculine singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaniṣṭhaḥ",
+     "gloss": "junior",
+     "grounds": "nominative masculine singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative masculine singular pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jyeṣṭhaḥ",
+     "gloss": "senior",
+     "grounds": "nominative masculine singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrārthanirṇayaḥ",
+     "gloss": "scripture-meaning-determination",
+     "grounds": "nominative masculine singular compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the scripture's determination about junior and senior?",
+   "premises": [
+    "The twice-born junior.",
+    "He is senior, thus scripture-meaning-determination."
+   ],
+   "inference": "Scripture determines that the junior twice-born is senior in this sense.",
+   "uncertainties": [
+    "The exact social or initiatory sense of junior and senior is context-dependent."
+   ],
+   "plain_english": "The twice-born junior is senior; this is the scripture's determination of meaning."
+  },
+  {
+   "verse": 1697,
+   "rows": [
+    {
+     "surface": "guruvat",
+     "gloss": "like-guru",
+     "grounds": "indeclinable comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "instrumental masculine singular pronoun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "nominative masculine plural pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "worshipable",
+     "grounds": "nominative masculine plural gerundive",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avamānyāḥ",
+     "gloss": "to-be-despised",
+     "grounds": "nominative masculine plural gerundive",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kathañcana",
+     "gloss": "in-any-way",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should those like the guru be treated?",
+   "premises": [
+    "Like the guru, by him.",
+    "They are worshipable, not to be despised in any way."
+   ],
+   "inference": "Those like the guru are worshipable and must not be despised in any way.",
+   "uncertainties": [
+    "tena may refer to the guru or the initiated person."
+   ],
+   "plain_english": "Like the guru, they are worshipable and must not be despised in any way."
+  },
+  {
+   "verse": 1698,
+   "rows": [
+    {
+     "surface": "ekasantānakena",
+     "gloss": "by-one-lineage",
+     "grounds": "instrumental singular compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇasaṃskāram",
+     "gloss": "full-purification",
+     "grounds": "accusative masculine singular compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of ācar",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should full purification be performed?",
+   "premises": [
+    "By one lineage indeed.",
+    "One should perform full purification."
+   ],
+   "inference": "Full purification should be performed within one lineage.",
+   "uncertainties": [
+    "ekasantānakena may mean one family line or one continuous tradition."
+   ],
+   "plain_english": "Full purification should indeed be performed within one lineage."
+  },
+  {
+   "verse": 1699,
+   "rows": [
+    {
+     "surface": "dīkṣitaḥ",
+     "gloss": "initiated",
+     "grounds": "nominative masculine singular participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative masculine singular relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "instrumental masculine singular",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative masculine singular pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yukto",
+     "gloss": "joined",
+     "grounds": "nominative masculine singular participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aparaḥ",
+     "gloss": "other",
+     "grounds": "nominative masculine singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative feminine singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who is joined by rite and who is not?",
+   "premises": [
+    "The initiated one who by rite.",
+    "He is joined, not another, beloved."
+   ],
+   "inference": "The one initiated by rite is joined; another is not, beloved.",
+   "uncertainties": [
+    "yukto may mean joined to the rite, lineage, or guru."
+   ],
+   "plain_english": "Beloved, the one initiated by rite is joined; another is not."
+  }
+ ]
+}

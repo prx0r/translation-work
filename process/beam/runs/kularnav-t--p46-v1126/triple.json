@@ -1,0 +1,546 @@
+{
+ "song": "kul-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "whatever",
+     "grounds": "indefinite relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "indefinite relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svamanasaḥ",
+     "gloss": "of-own-mind",
+     "grounds": "compound svamanas",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "abhīṣṭam",
+     "gloss": "desired",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattat",
+     "gloss": "that-that",
+     "grounds": "reduplicated demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "root āp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "asaṃśayam",
+     "gloss": "without-doubt",
+     "grounds": "negative compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the mind's desire obtain without doubt?",
+   "premises": [
+    "whatever the mind desires is obtained",
+    "each desired thing is obtained",
+    "this happens without doubt"
+   ],
+   "inference": "The verse asserts unfailing fulfillment of the mind's desires.",
+   "uncertainties": [
+    "exact syntactic relation of yad and yat is unclear"
+   ],
+   "plain_english": "Whatever the mind desires, that very thing is obtained without doubt."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "stotraiḥ",
+     "gloss": "with-hymns",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "saṃpūjayet",
+     "gloss": "worship",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sarvaiḥ",
+     "gloss": "with-all",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mahadaiśvaryam",
+     "gloss": "great-sovereignty",
+     "grounds": "compound mahat-aiśvarya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtains",
+     "grounds": "root āp optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What result follows from worship with all hymns?",
+   "premises": [
+    "one worships with all hymns",
+    "great sovereignty is the result",
+    "that result is obtained"
+   ],
+   "inference": "Complete hymnic worship leads to great sovereignty.",
+   "uncertainties": [
+    "whether sarvaiḥ modifies stotraiḥ or pūjā is ambiguous"
+   ],
+   "plain_english": "Worshipping with all hymns, one obtains great sovereignty."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "tulāyām",
+     "gloss": "in-libra",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "siṃhameṣe",
+     "gloss": "lion-ram",
+     "grounds": "compound siṃha-meṣa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasaṃkrāntiṣu",
+     "gloss": "all-transits",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "When are these rites to be performed?",
+   "premises": [
+    "the rite occurs in libra",
+    "or in lion-ram transit",
+    "or at all transits"
+   ],
+   "inference": "The timing is tied to astrological transits.",
+   "uncertainties": [
+    "whether priye is address or adjective is unclear"
+   ],
+   "plain_english": "In Libra, or in the lion-ram transit, or at all transits, dear one."
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "śacīndrau",
+     "gloss": "śacī-indra",
+     "grounds": "dvandva compound",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "rohiṇīcandrau",
+     "gloss": "rohiṇī-moon",
+     "grounds": "compound",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "svāhāgnī",
+     "gloss": "svāhā-fire",
+     "grounds": "compound",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhāravī",
+     "gloss": "prabhā-ravi",
+     "grounds": "compound",
+     "morph": "m.acc.du"
+    }
+   ],
+   "question": "Which divine pairs are to be worshipped?",
+   "premises": [
+    "śacī and indra form a pair",
+    "rohiṇī and moon form a pair",
+    "svāhā and fire form a pair",
+    "prabhā and sun form a pair"
+   ],
+   "inference": "The verse lists divine pairs for worship.",
+   "uncertainties": [
+    "exact ritual action is not stated in this verse"
+   ],
+   "plain_english": "Śacī and Indra, Rohiṇī and the Moon, Svāhā and Fire, and Prabhā and the Sun."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "mithunāni",
+     "gloss": "pairs",
+     "grounds": "plural accusative",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "pūrvoktena",
+     "gloss": "by-previously-said",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "path",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How are the nine pairs to be worshipped?",
+   "premises": [
+    "nine pairs are worshipped",
+    "worship is done by the previously said path",
+    "the path is indeed that one"
+   ],
+   "inference": "The nine pairs are worshipped according to the previously described method.",
+   "uncertainties": [
+    "whether nava modifies mithunāni directly is clear but scope of abhyarcya is broad"
+   ],
+   "plain_english": "Worshipping the nine pairs by the previously described path indeed."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "gandhapuṣpādibhiḥ",
+     "gloss": "with-incense-flowers-etc",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūjya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "madyādyaiḥ",
+     "gloss": "with-wine-etc",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "paritoṣayet",
+     "gloss": "satisfy",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should one satisfy the deities?",
+   "premises": [
+    "one worships with incense and flowers",
+    "one satisfies with wine and other things",
+    "satisfaction follows worship"
+   ],
+   "inference": "Ritual worship is completed by satisfying the deities with offerings.",
+   "uncertainties": [
+    "whether madyādyaiḥ is literal or symbolic is not resolved here"
+   ],
+   "plain_english": "Having worshipped with incense, flowers, and the like, one satisfies them with wine and other things."
+  },
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "anugṛhṇanti",
+     "gloss": "bless",
+     "grounds": "present plural",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prayacchanti",
+     "gloss": "grant",
+     "grounds": "present plural",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "manoratham",
+     "gloss": "wish",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What do the deities do for the worshipper?",
+   "premises": [
+    "the deities bless him",
+    "the goddess is addressed",
+    "they grant his wish"
+   ],
+   "inference": "The deities bless the worshipper and grant his desire.",
+   "uncertainties": [
+    "subject of anugṛhṇanti is implied rather than explicit"
+   ],
+   "plain_english": "They bless him, O goddess, and grant his wish."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "tava loke",
+     "gloss": "in-your-world",
+     "grounds": "locative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nivaset",
+     "gloss": "dwells",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sarvaiśvaryasamanvitaḥ",
+     "gloss": "with-all-sovereignty",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where does the blessed worshipper dwell?",
+   "premises": [
+    "he dwells in your world",
+    "he is endowed with all sovereignty",
+    "dwelling follows the granted wish"
+   ],
+   "inference": "The worshipper dwells in the goddess's world with full sovereignty.",
+   "uncertainties": [
+    "whether tava loke is a realm or household is unclear"
+   ],
+   "plain_english": "He dwells in your world, endowed with all sovereignty."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "brāhme muhūrtte",
+     "gloss": "brahma-muhurta",
+     "grounds": "locative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utthāya",
+     "gloss": "rising",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bath",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sandhyām",
+     "gloss": "twilight",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upāsya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What daily practice begins at brahma-muhurta?",
+   "premises": [
+    "one rises at brahma-muhurta",
+    "one takes a bath",
+    "one worships twilight"
+   ],
+   "inference": "The daily routine begins with rising, bathing, and twilight worship.",
+   "uncertainties": [
+    "whether snānam and sandhyām are both objects of upāsya is ambiguous"
+   ],
+   "plain_english": "Rising at brahma-muhurta, one bathes and worships the twilight."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "ātmānam",
+     "gloss": "oneself",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-incense-flowers-etc",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "alaṅkṛtya",
+     "gloss": "adorn",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vidhānavit",
+     "gloss": "ritual-knower",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the ritual knower prepare himself?",
+   "premises": [
+    "one adorns oneself",
+    "adornment uses incense and flowers",
+    "the agent knows ritual procedure"
+   ],
+   "inference": "The ritual knower adorns himself with incense, flowers, and similar items.",
+   "uncertainties": [
+    "whether vidhānavit is subject or epithet is slightly ambiguous"
+   ],
+   "plain_english": "Adorning oneself with incense, flowers, and the like, the ritual knower."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "kiñcidabhyudite",
+     "gloss": "slightly-risen",
+     "grounds": "locative absolute",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sūrye",
+     "gloss": "sun",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sveṣṭadevatām",
+     "gloss": "own-chosen-deity",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "When is the chosen deity worshipped?",
+   "premises": [
+    "the sun has slightly risen",
+    "the sun is in its circle",
+    "the chosen deity is worshipped then"
+   ],
+   "inference": "Worship of one's chosen deity occurs after slight sunrise.",
+   "uncertainties": [
+    "whether maṇḍale modifies sūrye or the worship setting is unclear"
+   ],
+   "plain_english": "When the sun has slightly risen in its circle, one's chosen deity."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "ṣoḍaśairupacāraiḥ",
+     "gloss": "with-sixteen-services",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakrapūjāpuraḥsaram",
+     "gloss": "circle-worship-foremost",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is circle worship to be performed?",
+   "premises": [
+    "sixteen services are used",
+    "circle worship is foremost",
+    "the services precede or accompany it"
+   ],
+   "inference": "Circle worship is performed with sixteen services as foremost.",
+   "uncertainties": [
+    "whether cakrapūjāpuraḥsaram is object or adverbial phrase is unclear"
+   ],
+   "plain_english": "With sixteen services, indeed, circle worship foremost."
+  }
+ ]
+}

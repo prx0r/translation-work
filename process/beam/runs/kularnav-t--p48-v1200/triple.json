@@ -1,0 +1,51 @@
+{
+ "song": "kul-p48",
+ "items": [
+  {
+   "verse": 1200,
+   "rows": [
+    {
+     "surface": "śrīcakre",
+     "gloss": "in-shri-cakra",
+     "grounds": "compound śrī+cakra; locative case",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "saṃsmarettasmād",
+     "gloss": "therefore-should-remember",
+     "grounds": "fused form saṃsmaret+tasmād; optative verb",
+     "morph": "3.sg.opt.act-smṛ"
+    },
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginībhairavān",
+     "gloss": "yogini-bhairavas",
+     "grounds": "compound yoginī+bhairava; accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Why should one remember yoginī-bhairavas in the śrī-cakra, dear one?",
+   "premises": [
+    "śrī-cakra is the locus of remembrance",
+    "yoginī-bhairavas are to be remembered",
+    "the address is to the dear one"
+   ],
+   "inference": "therefore the practitioner should remember the yoginī-bhairavas in the śrī-cakra",
+   "uncertainties": [
+    "the fused token saṃsmarettasmād is analyzed as saṃsmaret plus tasmād without splitting the row"
+   ],
+   "plain_english": "Therefore, dear one, one should remember the yoginī-bhairavas in the śrī-cakra."
+  }
+ ]
+}

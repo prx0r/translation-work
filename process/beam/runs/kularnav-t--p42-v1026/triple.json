@@ -1,0 +1,629 @@
+{
+ "song": "kul-p42",
+ "items": [
+  {
+   "verse": 1026,
+   "rows": [
+    {
+     "surface": "svecchāvihāriṇaṃ",
+     "gloss": "self-willed-wandering",
+     "grounds": "compound adjective in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "adjective in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "interrogative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārayituṃ",
+     "gloss": "restrain",
+     "grounds": "infinitive of root vṛ",
+     "morph": "inf"
+    },
+    {
+     "surface": "kṣamaḥ",
+     "gloss": "able",
+     "grounds": "adjective in nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is able to restrain the self-willed peaceful wanderer?",
+   "premises": [
+    "The wanderer is self-willed and peaceful.",
+    "Restraint requires ability."
+   ],
+   "inference": "No ordinary person can restrain such a wanderer.",
+   "uncertainties": [
+    "The exact referent of the wanderer is not stated."
+   ],
+   "plain_english": "Who is able to restrain the self-willed, peaceful wanderer?"
+  },
+  {
+   "verse": 1027,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "that-like",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "seen",
+     "grounds": "passive present of root dṛś",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "jñānī",
+     "gloss": "knower",
+     "grounds": "noun in nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krīḍan",
+     "gloss": "playing",
+     "grounds": "present participle of root krīḍ",
+     "morph": "m.nom.sg.part"
+    },
+    {
+     "surface": "indriyapannagaiḥ",
+     "gloss": "sense-snakes",
+     "grounds": "compound in instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How is the knower seen while playing with sense-snakes?",
+   "premises": [
+    "The knower is not seen in that way.",
+    "He plays with sense-snakes."
+   ],
+   "inference": "The knower remains unseen despite apparent engagement with senses.",
+   "uncertainties": [
+    "Whether playing is literal or metaphorical is unclear."
+   ],
+   "plain_english": "Likewise, the knower is not seen while playing with the sense-snakes."
+  },
+  {
+   "verse": 1028,
+   "rows": [
+    {
+     "surface": "kulajñānaratāḥ",
+     "gloss": "kula-knowledge-devoted",
+     "grounds": "compound adjective in nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāntāḥ",
+     "gloss": "peaceful",
+     "grounds": "adjective in nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tvadbhaktāḥ",
+     "gloss": "your-devotees",
+     "grounds": "compound in nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulikāḥ",
+     "gloss": "kaulikas",
+     "grounds": "noun in nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the peaceful kula-knowers devoted to you?",
+   "premises": [
+    "They are devoted to you.",
+    "They are peaceful kula-knowers."
+   ],
+   "inference": "Such devotees are identified as kaulikas.",
+   "uncertainties": [
+    "The exact social meaning of kaulika is context-dependent."
+   ],
+   "plain_english": "Those peaceful devotees devoted to kula-knowledge and to you are kaulikas."
+  },
+  {
+   "verse": 1029,
+   "rows": [
+    {
+     "surface": "kaulikendrāḥ",
+     "gloss": "kaulika-lords",
+     "grounds": "compound in nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "acapalāḥ",
+     "gloss": "steady",
+     "grounds": "adjective in nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indriyavaśānugāḥ",
+     "gloss": "sense-controlled-followers",
+     "grounds": "compound adjective in nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the steady lords of the kaulikas?",
+   "premises": [
+    "They are steady.",
+    "They do not follow sense-control."
+   ],
+   "inference": "True kaulika lords are steady and not led by the senses.",
+   "uncertainties": [
+    "The compound may imply not being followers of sense-control."
+   ],
+   "plain_english": "Indeed, the lords of the kaulikas are steady, not followers controlled by the senses."
+  },
+  {
+   "verse": 1030,
+   "rows": [
+    {
+     "surface": "ānandāśru",
+     "gloss": "bliss-tears",
+     "grounds": "compound in nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "patet",
+     "gloss": "fall",
+     "grounds": "optative of root pat",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative noun",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kathitāḥ",
+     "gloss": "declared",
+     "grounds": "past participle of root kath",
+     "morph": "m.nom.pl.part"
+    },
+    {
+     "surface": "kaulikottamāḥ",
+     "gloss": "kaulika-best",
+     "grounds": "compound in nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "When do bliss-tears fall for the best kaulikas?",
+   "premises": [
+    "Bliss-tears may fall.",
+    "The best kaulikas are declared."
+   ],
+   "inference": "The best kaulikas are marked by bliss-tears.",
+   "uncertainties": [
+    "The exact condition for the tears is not specified."
+   ],
+   "plain_english": "May bliss-tears fall, O goddess; the best kaulikas are declared."
+  },
+  {
+   "verse": 1031,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "demonstrative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "pronoun in genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "niścitadhiyaḥ",
+     "gloss": "firm-minded",
+     "grounds": "compound adjective in nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "past participle of root prac",
+     "morph": "m.nom.pl.part"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kaulikottamāḥ",
+     "gloss": "kaulika-best",
+     "grounds": "compound in nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are declared as the best kaulikas?",
+   "premises": [
+    "They are firm-minded.",
+    "They are declared by you."
+   ],
+   "inference": "The firm-minded are declared the best kaulikas.",
+   "uncertainties": [
+    "The speaker and addressee are not explicit in this verse."
+   ],
+   "plain_english": "Thus those firm-minded ones are declared by you to be the best kaulikas."
+  },
+  {
+   "verse": 1032,
+   "rows": [
+    {
+     "surface": "kulārcanarataḥ",
+     "gloss": "kula-worship-devoted",
+     "grounds": "compound adjective in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun in nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative of root as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaulika",
+     "grounds": "noun in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāparaḥ",
+     "gloss": "not-other",
+     "grounds": "compound adjective in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative adjective",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who is a true kaulika?",
+   "premises": [
+    "He is devoted to kula worship.",
+    "He is not another."
+   ],
+   "inference": "Only one devoted to kula worship is a true kaulika.",
+   "uncertainties": [
+    "The phrase not-other may mean no one else."
+   ],
+   "plain_english": "He who is devoted to kula worship is a kaulika, not another, beloved."
+  },
+  {
+   "verse": 1033,
+   "rows": [
+    {
+     "surface": "prītaḥ",
+     "gloss": "pleased",
+     "grounds": "past participle of root prī",
+     "morph": "m.nom.sg.part"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present of root bhū",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "seeing",
+     "grounds": "absolutive of root dṛś",
+     "morph": "abs"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaulika",
+     "grounds": "noun in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun in nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "pronoun in genitive",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "adjective in nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who becomes dear to me?",
+   "premises": [
+    "He becomes pleased on seeing a kaulika.",
+    "He is dear to me."
+   ],
+   "inference": "Seeing a kaulika with pleasure makes one dear.",
+   "uncertainties": [
+    "The subject of seeing may be the speaker or another."
+   ],
+   "plain_english": "Whoever becomes pleased on seeing a kaulika is dear to me."
+  },
+  {
+   "verse": 1034,
+   "rows": [
+    {
+     "surface": "devatāgurubhaktāḥ",
+     "gloss": "deity-guru-devotees",
+     "grounds": "compound in nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaulika",
+     "grounds": "noun in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative of root as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣayā",
+     "gloss": "initiation",
+     "grounds": "noun in instrumental singular",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How does one become a kaulika?",
+   "premises": [
+    "Devotees of deity and guru are kaulikas.",
+    "Initiation is involved."
+   ],
+   "inference": "Devotion to deity and guru, with initiation, makes a kaulika.",
+   "uncertainties": [
+    "The exact relation between devotion and initiation is not fully stated."
+   ],
+   "plain_english": "Devotees of deity and guru become kaulikas through initiation."
+  },
+  {
+   "verse": 1035,
+   "rows": [
+    {
+     "surface": "supākenaiva",
+     "gloss": "ripening-only",
+     "grounds": "compound with emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyānāṃ",
+     "gloss": "merit",
+     "grounds": "noun in genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "obtained",
+     "grounds": "passive present of root labh",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative adjective",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the result obtained?",
+   "premises": [
+    "It is obtained by ripening of merit.",
+    "It is not obtained otherwise."
+   ],
+   "inference": "Only ripening of merit yields the result.",
+   "uncertainties": [
+    "The result itself is not named in this verse."
+   ],
+   "plain_english": "It is obtained only by the ripening of merit, not otherwise, beloved."
+  },
+  {
+   "verse": 1036,
+   "rows": [
+    {
+     "surface": "punāti",
+     "gloss": "purifies",
+     "grounds": "present of root pū",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kuladhamīṣṭhaḥ",
+     "gloss": "kula-dharma-best",
+     "grounds": "compound adjective in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāṇḍālaḥ",
+     "gloss": "outcaste",
+     "grounds": "noun in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadṛcchayā",
+     "gloss": "by-chance",
+     "grounds": "noun in instrumental singular",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Who can purify even an outcaste?",
+   "premises": [
+    "The best of kula-dharma purifies.",
+    "Even an outcaste may be purified by chance."
+   ],
+   "inference": "Kula-dharma excellence purifies regardless of caste.",
+   "uncertainties": [
+    "The exact mechanism of chance purification is unclear."
+   ],
+   "plain_english": "Even an outcaste is purified by chance by the best of kula-dharma."
+  },
+  {
+   "verse": 1037,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative noun",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kulajñānī",
+     "gloss": "kula-knower",
+     "grounds": "compound noun in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "demonstrative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "pronoun in nominative",
+     "morph": "1.sg.nom"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "with",
+     "grounds": "pronoun in instrumental",
+     "morph": "2.sg.inst"
+    },
+    {
+     "surface": "saha",
+     "gloss": "you",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where does the speaker dwell with the goddess?",
+   "premises": [
+    "Where there is a kula-knower, there the speaker is.",
+    "The speaker is with you."
+   ],
+   "inference": "The speaker dwells with the goddess wherever a kula-knower is present.",
+   "uncertainties": [
+    "The exact identity of the speaker is not stated."
+   ],
+   "plain_english": "Where there is a kula-knower, O goddess, I am there with you."
+  }
+ ]
+}

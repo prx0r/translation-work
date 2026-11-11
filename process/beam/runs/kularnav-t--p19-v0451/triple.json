@@ -1,0 +1,641 @@
+{
+ "song": "kul-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "ghaṃ",
+     "gloss": "seed-syllable gha",
+     "grounds": "bija syllable gha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṅaṃ",
+     "gloss": "seed-syllable nga",
+     "grounds": "bija syllable nga",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṃ",
+     "gloss": "seed-syllable ca",
+     "grounds": "bija syllable ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptalakṣaṃ",
+     "gloss": "seven-lakhs",
+     "grounds": "quantity seven lakhs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇeśādi",
+     "gloss": "gaṇeśa-and-others",
+     "grounds": "compound gaṇeśa plus ādi",
+     "morph": "compound = gaṇeśa+ādi"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb pūrvavat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective param",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which seed syllables and quantity accompany gaṇeśa and others?",
+   "premises": [
+    "ghaṃ ṅaṃ caṃ are seed syllables",
+    "saptalakṣaṃ gives the quantity",
+    "gaṇeśādi names the group"
+   ],
+   "inference": "The verse assigns seven lakhs to gaṇeśa and others as supreme.",
+   "uncertainties": [
+    "Exact ritual referent of param is not specified."
+   ],
+   "plain_english": "Ghaṃ, ṅaṃ, and caṃ, seven lakhs, for gaṇeśa and others, as before, supreme."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "ṅaṃ",
+     "gloss": "seed-syllable nga",
+     "grounds": "bija syllable nga",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṭaṃ",
+     "gloss": "seed-syllable ta",
+     "grounds": "bija syllable ta",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṭhaṃ",
+     "gloss": "seed-syllable tha",
+     "grounds": "bija syllable tha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navalakṣañca",
+     "gloss": "nine-lakhs-and",
+     "grounds": "quantity nine lakhs with ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmādi",
+     "gloss": "brahma-and-others",
+     "grounds": "compound brahma plus ādi",
+     "morph": "compound = brahma+ādi"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb pūrvavat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective param",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which seed syllables and quantity accompany brahma and others?",
+   "premises": [
+    "ṅaṃ ṭaṃ ṭhaṃ are seed syllables",
+    "navalakṣañca gives the quantity",
+    "brahmādi names the group"
+   ],
+   "inference": "The verse assigns nine lakhs to brahma and others as supreme.",
+   "uncertainties": [
+    "The fused ca in navalakṣañca is not expanded."
+   ],
+   "plain_english": "Ngaṃ, ṭaṃ, and ṭhaṃ, nine lakhs, for brahma and others, as before, supreme."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "seed-syllable ta",
+     "grounds": "bija syllable ta",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "thaṃ",
+     "gloss": "seed-syllable tha",
+     "grounds": "bija syllable tha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṃ",
+     "gloss": "seed-syllable da",
+     "grounds": "bija syllable da",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśalakṣaṃ",
+     "gloss": "eleven-lakhs",
+     "grounds": "quantity eleven lakhs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrādi",
+     "gloss": "rudra-and-others",
+     "grounds": "compound rudra plus ādi",
+     "morph": "compound = rudra+ādi"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb pūrvavat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective param",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which seed syllables and quantity accompany rudra and others?",
+   "premises": [
+    "taṃ thaṃ daṃ are seed syllables",
+    "ekādaśalakṣaṃ gives the quantity",
+    "rudrādi names the group"
+   ],
+   "inference": "The verse assigns eleven lakhs to rudra and others as supreme.",
+   "uncertainties": [
+    "Exact ritual referent of param is not specified."
+   ],
+   "plain_english": "Taṃ, thaṃ, and daṃ, eleven lakhs, for rudra and others, as before, supreme."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "phaṃ",
+     "gloss": "seed-syllable pha",
+     "grounds": "bija syllable pha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baṃ",
+     "gloss": "seed-syllable ba",
+     "grounds": "bija syllable ba",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaṃ",
+     "gloss": "seed-syllable bha",
+     "grounds": "bija syllable bha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayodaśalakṣaṃ",
+     "gloss": "thirteen-lakhs",
+     "grounds": "quantity thirteen lakhs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmyādi",
+     "gloss": "lakṣmī-and-others",
+     "grounds": "compound lakṣmī plus ādi",
+     "morph": "compound = lakṣmī+ādi"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb pūrvavat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective param",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which seed syllables and quantity accompany lakṣmī and others?",
+   "premises": [
+    "phaṃ baṃ bhaṃ are seed syllables",
+    "trayodaśalakṣaṃ gives the quantity",
+    "lakṣmyādi names the group"
+   ],
+   "inference": "The verse assigns thirteen lakhs to lakṣmī and others as supreme.",
+   "uncertainties": [
+    "Exact ritual referent of param is not specified."
+   ],
+   "plain_english": "Phaṃ, baṃ, and bhaṃ, thirteen lakhs, for lakṣmī and others, as before, supreme."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "ṣaṃ",
+     "gloss": "seed-syllable sha",
+     "grounds": "bija syllable sha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃ",
+     "gloss": "seed-syllable sa",
+     "grounds": "bija syllable sa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃ",
+     "gloss": "seed-syllable ha",
+     "grounds": "bija syllable ha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laṃ",
+     "gloss": "seed-syllable la",
+     "grounds": "bija syllable la",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaṃ",
+     "gloss": "seed-syllable ksha",
+     "grounds": "bija syllable ksha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśalakṣaṃ",
+     "gloss": "sixteen-lakhs",
+     "grounds": "quantity sixteen lakhs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripurādi",
+     "gloss": "tripurā-and-others",
+     "grounds": "compound tripurā plus ādi",
+     "morph": "compound = tripurā+ādi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśā",
+     "gloss": "sixteen",
+     "grounds": "number sixteen",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seed syllables and quantity accompany tripurā and others?",
+   "premises": [
+    "ṣaṃ saṃ haṃ laṃ kṣaṃ are seed syllables",
+    "ṣoḍaśalakṣaṃ gives the quantity",
+    "tripurādi names the group"
+   ],
+   "inference": "The verse assigns sixteen lakhs to tripurā and others, with sixteen repeated.",
+   "uncertainties": [
+    "The exact force of the repeated ṣoḍaśā is not specified."
+   ],
+   "plain_english": "Shaṃ, saṃ, haṃ, laṃ, and kṣaṃ, sixteen lakhs, for tripurā and others, and sixteen."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb tathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalapradāyai",
+     "gloss": "fruit-giving",
+     "grounds": "dative feminine phalapradāyai",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "number sixteen",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭeśvarī",
+     "gloss": "kūṭeśvarī",
+     "grounds": "nominative feminine kūṭeśvarī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb punaḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is said about the fruit-giving sixteen kūṭeśvarī?",
+   "premises": [
+    "phalapradāyai is dative feminine",
+    "ṣoḍaśa gives sixteen",
+    "kūṭeśvarī is nominative feminine"
+   ],
+   "inference": "The verse mentions the fruit-giving sixteen kūṭeśvarī again.",
+   "uncertainties": [
+    "The full syntactic relation to the previous verse is not specified."
+   ],
+   "plain_english": "Thus, for the fruit-giving one, and sixteen kūṭeśvarī, again."
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "ādhāraliṅgayornābhihṛtkaṇṭhe",
+     "gloss": "ādhāra-liṅga-nābhi-heart-throat",
+     "grounds": "compound ādhāra liṅga yor nābhi hṛt kaṇṭhe",
+     "morph": "compound = ādhāra+liṅga+yor"
+    },
+    {
+     "surface": "nābhi",
+     "gloss": "navel",
+     "grounds": "noun nābhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hṛt",
+     "gloss": "heart",
+     "grounds": "noun hṛt",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaṇṭhe",
+     "gloss": "throat",
+     "grounds": "locative masculine kaṇṭhe",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "netrayorapi",
+     "gloss": "eyes-also",
+     "grounds": "compound netra yor api",
+     "morph": "compound = netra+yor+api"
+    }
+   ],
+   "question": "Where are ādhāra and liṅga placed among bodily centers?",
+   "premises": [
+    "ādhāraliṅgayornābhihṛtkaṇṭhe names centers",
+    "nābhi hṛt kaṇṭhe are bodily loci",
+    "netrayorapi adds the eyes"
+   ],
+   "inference": "The verse places ādhāra and liṅga at navel, heart, throat, and eyes.",
+   "uncertainties": [
+    "The exact placement syntax is compressed."
+   ],
+   "plain_english": "For ādhāra and liṅga, at navel, heart, throat, and also the eyes."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "dhruvamaṇḍaladeśe",
+     "gloss": "dhruva-circle-region",
+     "grounds": "compound dhruva maṇḍala deśe",
+     "morph": "compound = dhruva+maṇḍala+deśe"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "verb vinyaset",
+     "morph": "3.sg.act.opt. + root vini-as"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-leader",
+     "grounds": "vocative feminine kulanāyike",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where should placement be made for the kula leader?",
+   "premises": [
+    "dhruvamaṇḍaladeśe gives the region",
+    "vinyaset is optative should-place",
+    "kulanāyike is vocative feminine"
+   ],
+   "inference": "The verse directs placement in the dhruva circle region for the kula leader.",
+   "uncertainties": [
+    "The exact object of placement is not specified."
+   ],
+   "plain_english": "And in the dhruva circle region, one should place, O kula leader."
+  },
+  {
+   "verse": 459,
+   "rows": [
+    {
+     "surface": "āyai",
+     "gloss": "to-her",
+     "grounds": "dative feminine āyai",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "parāmbādevyai",
+     "gloss": "supreme-mother-goddess",
+     "grounds": "compound parāmbā devyai",
+     "morph": "compound = parāmbā+devyai"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative neuter hṛdaye",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vyāpakaṃ",
+     "gloss": "pervading",
+     "grounds": "adjective vyāpakaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "verb nyaset",
+     "morph": "3.sg.act.opt. + root ni-as"
+    }
+   ],
+   "question": "What should be placed pervading in the heart for the supreme mother goddess?",
+   "premises": [
+    "āyai parāmbādevyai is dative feminine",
+    "hṛdaye is locative heart",
+    "vyāpakaṃ is accusative pervading"
+   ],
+   "inference": "The verse directs placing the pervading element in the heart for the supreme mother goddess.",
+   "uncertainties": [
+    "The exact object nyaset refers to is not specified."
+   ],
+   "plain_english": "For her, for the supreme mother goddess, and in the heart, the pervading one, one should place."
+  },
+  {
+   "verse": 460,
+   "rows": [
+    {
+     "surface": "tritāramūlamantrānte",
+     "gloss": "after-three-tāra-root-mantra",
+     "grounds": "compound tritāra mūla mantra ante",
+     "morph": "compound = tritāra+mūla+mantra+ante"
+    },
+    {
+     "surface": "aṃ",
+     "gloss": "seed-syllable a",
+     "grounds": "bija syllable a",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āṃ",
+     "gloss": "seed-syllable ā",
+     "grounds": "bija syllable ā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrakoṭi",
+     "gloss": "thousand-crore",
+     "grounds": "compound sahasra koṭi",
+     "morph": "compound = sahasra+koṭi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows the three-tāra root mantra?",
+   "premises": [
+    "tritāramūlamantrānte means after the mantra",
+    "aṃ and āṃ are seed syllables",
+    "sahasrakoṭi gives a large number"
+   ],
+   "inference": "The verse places aṃ and āṃ after the three-tāra root mantra, with thousand crore.",
+   "uncertainties": [
+    "The exact ritual operation is not specified."
+   ],
+   "plain_english": "After the three-tāra root mantra, aṃ and āṃ, thousand crore, and."
+  },
+  {
+   "verse": 461,
+   "rows": [
+    {
+     "surface": "nivṛttyambāpadaṃ",
+     "gloss": "nivṛtti-mother-status",
+     "grounds": "compound nivṛtti ambā padaṃ",
+     "morph": "compound = nivṛtti+ambā+padaṃ"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "dative feminine devyai",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "nama",
+     "gloss": "salutation",
+     "grounds": "noun nama",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityuccaret",
+     "gloss": "thus-should-utter",
+     "grounds": "verb ityuccaret",
+     "morph": "3.sg.act.opt. + root uc-car"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative feminine priye",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should be uttered to the goddess of nivṛtti mother status?",
+   "premises": [
+    "nivṛttyambāpadaṃ names the status",
+    "devyai is dative feminine",
+    "ityuccaret is optative should-utter"
+   ],
+   "inference": "The verse directs uttering salutation to the goddess of nivṛtti mother status, dear one.",
+   "uncertainties": [
+    "The exact mantra context is not specified."
+   ],
+   "plain_english": "Nivṛtti mother status, to the goddess, salutation, thus one should utter, dear one."
+  },
+  {
+   "verse": 462,
+   "rows": [
+    {
+     "surface": "uṃ",
+     "gloss": "seed-syllable u",
+     "grounds": "bija syllable u",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūṃ",
+     "gloss": "seed-syllable ū",
+     "grounds": "bija syllable ū",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapasvi",
+     "gloss": "ascetic",
+     "grounds": "noun tapasvi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyāñca",
+     "gloss": "vidyā-and",
+     "grounds": "compound vidyā with ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "noun śeṣaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavaduccaret",
+     "gloss": "as-before-should-utter",
+     "grounds": "compound pūrvavat uccaret",
+     "morph": "compound = pūrvavat+uccaret"
+    }
+   ],
+   "question": "What should be uttered as before for the ascetic vidyā?",
+   "premises": [
+    "uṃ and ūṃ are seed syllables",
+    "tapasvi vidyāñca names the vidyā",
+    "śeṣaṃ pūrvavaduccaret means remainder as before"
+   ],
+   "inference": "The verse directs uttering the remainder as before for the ascetic vidyā.",
+   "uncertainties": [
+    "The exact remainder content is not specified."
+   ],
+   "plain_english": "Uṃ and ūṃ, ascetic vidyā, and the remainder, as before one should utter."
+  }
+ ]
+}

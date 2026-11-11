@@ -1,0 +1,76 @@
+{
+ "song": "kul-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "surface as given; nominative feminine singular of bhakti",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "surface as given; indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "in-teacher",
+     "grounds": "surface as given; locative singular masculine of guru",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "surface as given; vocative singular feminine of devī",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "surface as given; indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaḥ",
+     "gloss": "other",
+     "grounds": "surface as given; nominative singular masculine of anya",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "panthāḥ",
+     "gloss": "path",
+     "grounds": "surface as given; nominative singular masculine of pantha",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "surface as given; indeclinable quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutiḥ",
+     "gloss": "scripture",
+     "grounds": "surface as given; nominative singular feminine of śruti",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What does scripture declare about the path to devotion?",
+   "premises": [
+    "devotion is only in the guru",
+    "no other path exists",
+    "scripture declares thus"
+   ],
+   "inference": "The guru is the sole path to devotion.",
+   "uncertainties": [
+    "gurau is rendered as in-teacher rather than a broader locative sense",
+    "context beyond the supplied adjacent verses is not used"
+   ],
+   "plain_english": "Devotion is only in the guru, O goddess; there is no other path—thus says scripture."
+  }
+ ]
+}

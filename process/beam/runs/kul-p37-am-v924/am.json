@@ -1,12 +1,15 @@
 {
  "song": "kul-p37",
  "verse": 924,
- "question": "What do those who obtain the threshold state do?",
+ "question": "What do those who obtain the threshold state serve?",
  "premises": [
-  "They have obtained the threshold state",
-  "They serve the temple long"
+  "The verse names threshold state.",
+  "It names having obtained.",
+  "It names they serve temple long."
  ],
- "inference": "Those who reach the threshold state serve the temple for a long time",
- "uncertainties": [],
+ "inference": "Those who obtain the threshold state serve the temple long.",
+ "uncertainties": [
+  "The exact meaning of threshold state is context-dependent."
+ ],
  "plain_english": "Having obtained the threshold state, they serve the temple long."
 }

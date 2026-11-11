@@ -1,0 +1,503 @@
+{
+ "song": "kul-p36",
+ "items": [
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "yoginīmaṇḍale",
+     "gloss": "in-yogini-circle",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca+eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kramād",
+     "gloss": "gradually",
+     "grounds": "ablative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ānandamucyate",
+     "gloss": "bliss-is-spoken",
+     "grounds": "passive present",
+     "morph": "v.3.sg.pass-pres (uc)"
+    }
+   ],
+   "question": "How is bliss spoken in the yogini circle?",
+   "premises": [
+    "bliss is spoken gradually",
+    "the yogini circle is named",
+    "caiva joins the clause"
+   ],
+   "inference": "Bliss is spoken gradually in the yogini circle.",
+   "uncertainties": [
+    "compound analysis uncertain"
+   ],
+   "plain_english": "Bliss is spoken gradually in the yogini circle."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "icchaiva",
+     "gloss": "desire-itself",
+     "grounds": "icchā+eva",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śāstrasampattirityājñā",
+     "gloss": "scripture-wealth-thus-command",
+     "grounds": "compound with iti",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ityājñā",
+     "gloss": "thus-command",
+     "grounds": "iti+ājñā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What is declared to the supreme goddess?",
+   "premises": [
+    "desire itself is named",
+    "scripture wealth is named",
+    "command is addressed to goddess"
+   ],
+   "inference": "Desire itself and scripture wealth are declared as command to the supreme goddess.",
+   "uncertainties": [
+    "fused compound segmentation uncertain"
+   ],
+   "plain_english": "Desire itself and scripture wealth are declared as command to the supreme goddess."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "all-that",
+     "grounds": "tat+sarva",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "devatāprītyai",
+     "gloss": "for-deity-pleasure",
+     "grounds": "dative purpose",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present middle",
+     "morph": "v.3.sg.mid-pres (jan)"
+    },
+    {
+     "surface": "surasundari",
+     "gloss": "beautiful-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "For whose pleasure does all that arise?",
+   "premises": [
+    "all that is named",
+    "deity pleasure is purpose",
+    "arising is stated"
+   ],
+   "inference": "All that arises for the pleasure of the deity.",
+   "uncertainties": [
+    "surasundari address uncertain"
+   ],
+   "plain_english": "All that arises for the pleasure of the deity, beautiful goddess."
+  },
+  {
+   "verse": 891,
+   "rows": [
+    {
+     "surface": "vikriyā",
+     "gloss": "transformation",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "uditaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "bhairavībaliḥ",
+     "gloss": "bhairavi-offering",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is spoken as worship and offering?",
+   "premises": [
+    "transformation is named",
+    "worship is named",
+    "offering is named"
+   ],
+   "inference": "Transformation, worship, and offering are spoken.",
+   "uncertainties": [
+    "compound sense uncertain"
+   ],
+   "plain_english": "Transformation, worship, and offering are spoken, goddess."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "nyāso'vayavasaṃsparśo",
+     "gloss": "nyasa-limb-touching",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "avayavasaṃsparśo",
+     "gloss": "limb-touching",
+     "grounds": "repeated member",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhojanaṃ",
+     "gloss": "eating",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "havanakriyā",
+     "gloss": "oblation-act",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What ritual acts are listed here?",
+   "premises": [
+    "nyasa and limb touching are named",
+    "eating is named",
+    "oblation act is named"
+   ],
+   "inference": "Nyasa, limb touching, eating, and oblation act are listed.",
+   "uncertainties": [
+    "fused token kept whole"
+   ],
+   "plain_english": "Nyasa, limb touching, eating, and oblation act are listed."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "kāryākāryavicārantu",
+     "gloss": "proper-improper-deliberation-and",
+     "grounds": "compound with tu",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "present active",
+     "morph": "v.3.sg.act-pres (kṛ)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "pātakī",
+     "gloss": "sinner",
+     "grounds": "predicate nominative",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who becomes a sinner by deliberation?",
+   "premises": [
+    "proper and improper deliberation is named",
+    "who does it is named",
+    "he is called sinner"
+   ],
+   "inference": "One who deliberates proper and improper acts is a sinner.",
+   "uncertainties": [
+    "tu placement uncertain"
+   ],
+   "plain_english": "One who deliberates proper and improper acts is a sinner."
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "yenāpnuvanti",
+     "gloss": "by-whom-attain",
+     "grounds": "fused sandhi form",
+     "morph": "pron.instr.sg.m"
+    },
+    {
+     "surface": "āpnuvanti",
+     "gloss": "attain",
+     "grounds": "present active",
+     "morph": "v.3.pl.act-pres (āp)"
+    },
+    {
+     "surface": "manujāḥ",
+     "gloss": "humans",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "sākṣādbhairavarūpatām",
+     "gloss": "directly-bhairava-form",
+     "grounds": "compound",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "bhairavarūpatām",
+     "gloss": "bhairava-form",
+     "grounds": "repeated member",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What do humans attain directly?",
+   "premises": [
+    "humans are named",
+    "attainment is stated",
+    "bhairava form is named"
+   ],
+   "inference": "Humans attain the direct form of Bhairava.",
+   "uncertainties": [
+    "fused token kept whole"
+   ],
+   "plain_english": "Humans attain the direct form of Bhairava."
+  },
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "veṇuvīṇādivādyañca",
+     "gloss": "flute-vina-etc-instruments-and",
+     "grounds": "compound with ca",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kavitāracanādikam",
+     "gloss": "poem-composition-etc",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What arts and instruments are named?",
+   "premises": [
+    "flute vina and instruments are named",
+    "poem composition is named",
+    "ca joins the list"
+   ],
+   "inference": "Flute, vina, instruments, and poem composition are named.",
+   "uncertainties": [
+    "compound membership uncertain"
+   ],
+   "plain_english": "Flute, vina, instruments, and poem composition are named."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "gamanaṃ",
+     "gloss": "going",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "vikriyā",
+     "gloss": "transformation",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "yoga",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-called",
+     "grounds": "passive present",
+     "morph": "v.3.sg.pass-pres (abhidhā)"
+    }
+   ],
+   "question": "What is called yoga here?",
+   "premises": [
+    "going is named",
+    "transformation is named",
+    "yoga is named"
+   ],
+   "inference": "Going and transformation are called yoga.",
+   "uncertainties": [
+    "exact referent uncertain"
+   ],
+   "plain_english": "Going and transformation are called yoga, goddess."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "samācaranti",
+     "gloss": "perform",
+     "grounds": "present active",
+     "morph": "v.3.pl.act-pres (samācar)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "yathollāsaṃ",
+     "gloss": "according-to-delight",
+     "grounds": "compound",
+     "morph": "adv"
+    },
+    {
+     "surface": "manogatam",
+     "gloss": "mind-born",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How do they perform according to delight?",
+   "premises": [
+    "performing is stated",
+    "goddess is addressed",
+    "delight and mind-born are named"
+   ],
+   "inference": "They perform according to delight and mind-born impulse.",
+   "uncertainties": [
+    "object omitted"
+   ],
+   "plain_english": "They perform according to delight and mind-born impulse, goddess."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "nidhāya",
+     "gloss": "placing",
+     "grounds": "absolutive",
+     "morph": "abs (nidhā)"
+    },
+    {
+     "surface": "vadane",
+     "gloss": "in-mouth",
+     "grounds": "locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nivīṇṇā",
+     "gloss": "intoxicated",
+     "grounds": "participle",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "nivasanti",
+     "gloss": "dwell-and",
+     "grounds": "present active",
+     "morph": "v.3.pl.act-pres (nivas)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What happens after placing the vessel in the mouth?",
+   "premises": [
+    "placing in mouth is stated",
+    "vessel is named",
+    "intoxicated ones dwell"
+   ],
+   "inference": "After placing the vessel in the mouth, intoxicated ones dwell.",
+   "uncertainties": [
+    "nivīṇṇā form uncertain"
+   ],
+   "plain_english": "After placing the vessel in the mouth, intoxicated ones dwell."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "thus-also",
+     "grounds": "tathā+eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "puruṣaścāpi",
+     "gloss": "man-and",
+     "grounds": "puruṣaḥ+ca+api",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "prauḍhāntollāsasaṃyutaḥ",
+     "gloss": "proud-delight-endowed",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How is the man described here?",
+   "premises": [
+    "thus also is stated",
+    "man is named",
+    "proud delight endowed is stated"
+   ],
+   "inference": "The man is also endowed with proud delight.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Thus also the man is endowed with proud delight."
+  }
+ ]
+}

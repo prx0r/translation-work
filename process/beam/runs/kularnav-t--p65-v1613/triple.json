@@ -1,0 +1,603 @@
+{
+ "song": "kul-p65",
+ "items": [
+  {
+   "verse": 1613,
+   "rows": [
+    {
+     "surface": "sannidhāya",
+     "gloss": "having-placed",
+     "grounds": "causative gerund of sam-ni-dhā",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "let-him-speak",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "otherwise",
+     "grounds": "ca + anyathā fused",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the guru speak the mantra to the disciple?",
+   "premises": [
+    "The guru places the disciple near himself.",
+    "The guru speaks the mantra only in that setting.",
+    "Otherwise the speaking is not proper."
+   ],
+   "inference": "The mantra is to be spoken to the disciple only after placing him near oneself.",
+   "uncertainties": [
+    "Exact ritual sense of sannidhāya is not specified."
+   ],
+   "plain_english": "Having placed the disciple near himself, the guru should speak the mantra, not otherwise."
+  },
+  {
+   "verse": 1614,
+   "rows": [
+    {
+     "surface": "taj+jñānaṃ",
+     "gloss": "that-knowledge",
+     "grounds": "tat + jñānaṃ fused",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "neuter pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu+śāstra+arthaṃ",
+     "gloss": "scripture-meaning",
+     "grounds": "tu + śāstra + arthaṃ fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tad+vidadhyāt",
+     "gloss": "let-him-make",
+     "grounds": "tat + vidadhyāt fused",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "akhaṇḍitam",
+     "gloss": "undivided",
+     "grounds": "a-khaṇḍita adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should that knowledge and scripture meaning be made?",
+   "premises": [
+    "That knowledge is to be made undivided.",
+    "That scripture meaning is to be made undivided.",
+    "The making is directed by the guru."
+   ],
+   "inference": "The guru should make that knowledge and scripture meaning undivided.",
+   "uncertainties": [
+    "The exact referent of tad is context-dependent."
+   ],
+   "plain_english": "That knowledge and that scripture meaning should be made undivided."
+  },
+  {
+   "verse": 1615,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayāti",
+     "gloss": "goes",
+     "grounds": "present third singular active",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "apavitratvaṃ",
+     "gloss": "impurity",
+     "grounds": "abstract noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "go+kṣīraṃ",
+     "gloss": "cow-milk",
+     "grounds": "go + kṣīraṃ fused",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śva+ghṛtāt",
+     "gloss": "dog-ghee",
+     "grounds": "śva + ghṛtāt fused",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What happens to that knowledge when it is improperly transmitted?",
+   "premises": [
+    "That knowledge goes to impurity.",
+    "Cow milk becomes impure like ghee from a dog.",
+    "Improper transmission corrupts the knowledge."
+   ],
+   "inference": "Improperly transmitted knowledge becomes impure, as cow milk is spoiled by dog ghee.",
+   "uncertainties": [
+    "The exact mechanism of impurity is metaphorical."
+   ],
+   "plain_english": "That knowledge becomes impure, like cow milk mixed with ghee from a dog."
+  },
+  {
+   "verse": 1616,
+   "rows": [
+    {
+     "surface": "devatā+śāpam",
+     "gloss": "deity-curse",
+     "grounds": "devatā + śāpam fused",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present third singular active",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What result follows from an improper initiation or rite?",
+   "premises": [
+    "The doer obtains the deity's curse.",
+    "The rite becomes fruitless.",
+    "The improper act brings no benefit."
+   ],
+   "inference": "An improper rite brings the deity's curse and becomes fruitless.",
+   "uncertainties": [
+    "The exact rite referred to is not named."
+   ],
+   "plain_english": "One obtains the deity's curse, and the rite done becomes fruitless."
+  },
+  {
+   "verse": 1617,
+   "rows": [
+    {
+     "surface": "saṃvatsaraṃ",
+     "gloss": "year",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tad+arddhaṃ",
+     "gloss": "or-half",
+     "grounds": "tat + arddhaṃ fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad+arddhaṃ",
+     "gloss": "half",
+     "grounds": "tat + arddhaṃ fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For how long should the disciple be tested or trained?",
+   "premises": [
+    "The period may be a year.",
+    "The period may be half of that.",
+    "The period may be half again.",
+    "The training is done with effort."
+   ],
+   "inference": "The disciple is to be trained for a year, or half, or half again, with effort.",
+   "uncertainties": [
+    "The exact referent of tad is not explicit."
+   ],
+   "plain_english": "For a year, or half of that, or half again, with effort."
+  },
+  {
+   "verse": 1618,
+   "rows": [
+    {
+     "surface": "prāṇa+dravya+praṇāma+ādyaiḥ",
+     "gloss": "life-offering",
+     "grounds": "prāṇa + dravya + praṇāma + ādyaiḥ fused",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ādeśaiḥ",
+     "gloss": "commands",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-self",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samaiḥ",
+     "gloss": "equal",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By what means should the guru instruct the disciple?",
+   "premises": [
+    "Instruction uses life-offering and related means.",
+    "Instruction uses commands.",
+    "The guru acts by himself.",
+    "The means are equal."
+   ],
+   "inference": "The guru instructs by life-offering, commands, and equal means, acting by himself.",
+   "uncertainties": [
+    "The full list after ādyaiḥ is not given."
+   ],
+   "plain_english": "By life-offering, commands, and equal means, the guru himself instructs."
+  },
+  {
+   "verse": 1619,
+   "rows": [
+    {
+     "surface": "pakṣa+pātaiḥ",
+     "gloss": "with-partiality",
+     "grounds": "pakṣa + pātaiḥ fused",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "udāsīnaiḥ",
+     "gloss": "with-indifference",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "anekaiḥ",
+     "gloss": "with-many",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muhur+muhuḥ",
+     "gloss": "repeatedly",
+     "grounds": "muhur + muhur fused",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the guru avoid improper conduct toward disciples?",
+   "premises": [
+    "Partiality is to be avoided.",
+    "Indifference is to be avoided.",
+    "Many improper ways are to be avoided.",
+    "The warning is repeated."
+   ],
+   "inference": "The guru should avoid partiality, indifference, and many improper ways, repeatedly.",
+   "uncertainties": [
+    "The exact improper ways are not enumerated."
+   ],
+   "plain_english": "With partiality, indifference, and many such ways, repeatedly, the guru should not act."
+  },
+  {
+   "verse": 1620,
+   "rows": [
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛpāṃ",
+     "gloss": "compassion",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "present third singular active",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "with-joy",
+     "grounds": "instrumental singular feminine",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sañcintayet",
+     "gloss": "let-him-think",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should the disciple always think about the guru?",
+   "premises": [
+    "The guru does compassion.",
+    "The disciple should think this with joy.",
+    "The disciple should think this always."
+   ],
+   "inference": "The disciple should always joyfully think that the guru acts with compassion.",
+   "uncertainties": [
+    "The exact scope of compassion is not specified."
+   ],
+   "plain_english": "The guru does compassion; let the disciple always think this with joy."
+  },
+  {
+   "verse": 1621,
+   "rows": [
+    {
+     "surface": "vandane",
+     "gloss": "in-salutation",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paricaryāyām",
+     "gloss": "in-service",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "āhvāne",
+     "gloss": "in-summoning",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "preṣaṇe",
+     "gloss": "in-sending",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular masculine/feminine",
+     "morph": "m/f.voc.sg"
+    }
+   ],
+   "question": "In what situations should the disciple address the guru as dear?",
+   "premises": [
+    "Salutation is one such situation.",
+    "Service is one such situation.",
+    "Summoning is one such situation.",
+    "Sending is one such situation."
+   ],
+   "inference": "The disciple addresses the guru as dear in salutation, service, summoning, and sending.",
+   "uncertainties": [
+    "The exact vocative addressee is not explicit."
+   ],
+   "plain_english": "In salutation, service, summoning, and sending, O dear one."
+  },
+  {
+   "verse": 1622,
+   "rows": [
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "whose",
+     "grounds": "genitive plural masculine/neuter",
+     "morph": "m/n.gen.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "are",
+     "grounds": "optative third plural active",
+     "morph": "3.pl.act.opt"
+    },
+    {
+     "surface": "te",
+     "gloss": "te",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogyāḥ",
+     "gloss": "fit",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣā+saṃskāra+karmaṇi",
+     "gloss": "initiation-rite",
+     "grounds": "dīkṣā + saṃskāra + karmaṇi fused",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Who is fit for the initiation rite here?",
+   "premises": [
+    "Those whose qualities are present are fit.",
+    "They are fit here.",
+    "They are fit for the initiation rite."
+   ],
+   "inference": "Those who possess the required qualities are fit here for the initiation rite.",
+   "uncertainties": [
+    "The required qualities are not listed."
+   ],
+   "plain_english": "Those who are fit here are fit for the initiation rite."
+  },
+  {
+   "verse": 1623,
+   "rows": [
+    {
+     "surface": "ānanda+ādyaiḥ",
+     "gloss": "with-bliss-etc",
+     "grounds": "ānanda + ādyaiḥ fused",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "japa+stotra+dhyāna+homa+arcana+ādiṣu",
+     "gloss": "japa-stotra-meditation-homa-worship-etc",
+     "grounds": "japa + stotra + dhyāna + homa + arcana + ādiṣu fused",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "In which practices are bliss and related states used?",
+   "premises": [
+    "Bliss and related states are instrumental.",
+    "Japa, stotra, meditation, homa, worship, and so on are the practices.",
+    "The states accompany those practices."
+   ],
+   "inference": "Bliss and related states accompany japa, stotra, meditation, homa, worship, and similar practices.",
+   "uncertainties": [
+    "The full list after ādiṣu is not given."
+   ],
+   "plain_english": "With bliss and so on, in japa, stotra, meditation, homa, worship, and so on."
+  },
+  {
+   "verse": 1624,
+   "rows": [
+    {
+     "surface": "vedhakatvaṃ",
+     "gloss": "penetrating-power",
+     "grounds": "abstract noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parijñāya",
+     "gloss": "having-known",
+     "grounds": "gerund of pari-jñā",
+     "morph": "gerund"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūyāt",
+     "gloss": "let-become",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "otherwise",
+     "grounds": "ca + anyathā fused",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does the disciple become truly fit?",
+   "premises": [
+    "The disciple knows the penetrating power.",
+    "The disciple becomes fit only then.",
+    "Otherwise he does not become fit."
+   ],
+   "inference": "The disciple becomes fit only after knowing the penetrating power, not otherwise.",
+   "uncertainties": [
+    "The exact nature of vedhakatvaṃ is not explained."
+   ],
+   "plain_english": "Having known the penetrating power, the disciple becomes fit, not otherwise."
+  }
+ ]
+}

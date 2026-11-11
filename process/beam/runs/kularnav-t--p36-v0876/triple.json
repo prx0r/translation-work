@@ -1,0 +1,551 @@
+{
+ "song": "kul-p36",
+ "items": [
+  {
+   "verse": 876,
+   "rows": [
+    {
+     "surface": "stā",
+     "gloss": "those",
+     "grounds": "feminine plural demonstrative",
+     "morph": "pron.f.nom.pl"
+    },
+    {
+     "surface": "devyo",
+     "gloss": "goddesses",
+     "grounds": "devī plural nominative",
+     "morph": "noun.f.nom.pl"
+    },
+    {
+     "surface": "ripupakṣabhakṣaṇaratā",
+     "gloss": "enemy-faction-devouring-delighting",
+     "grounds": "compound adjective",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "nandantu",
+     "gloss": "rejoice",
+     "grounds": "root nand imperative",
+     "morph": "verb.3.pl.act.imp"
+    },
+    {
+     "surface": "kaulācītāḥ",
+     "gloss": "kaula-accepted",
+     "grounds": "compound adjective",
+     "morph": "adj.f.nom.pl"
+    }
+   ],
+   "question": "What blessing is asked of the goddesses?",
+   "premises": [
+    "goddesses devour enemy factions",
+    "they delight in that act",
+    "they are kaula-accepted"
+   ],
+   "inference": "the verse asks those goddesses to rejoice",
+   "uncertainties": [],
+   "plain_english": "May those goddesses, delighting in devouring the enemy faction and accepted by the Kaula, rejoice."
+  },
+  {
+   "verse": 877,
+   "rows": [
+    {
+     "surface": "stāḥ",
+     "gloss": "those",
+     "grounds": "feminine plural demonstrative",
+     "morph": "pron.f.nom.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "feminine plural adjective",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "kulamārgapālanaparāḥ",
+     "gloss": "kula-path-protecting-devoted",
+     "grounds": "compound adjective",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "śānti",
+     "gloss": "peace",
+     "grounds": "feminine noun",
+     "morph": "noun.f.acc.sg"
+    },
+    {
+     "surface": "prayacchantu",
+     "gloss": "grant",
+     "grounds": "root pracch imperative",
+     "morph": "verb.3.pl.act.imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative pronoun",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "What do all the goddesses grant?",
+   "premises": [
+    "all goddesses protect the kula path",
+    "peace is the requested gift",
+    "the speaker asks for himself"
+   ],
+   "inference": "the verse asks all goddesses to grant peace to the speaker",
+   "uncertainties": [],
+   "plain_english": "May all those goddesses, devoted to protecting the Kula path, grant peace to me."
+  },
+  {
+   "verse": 878,
+   "rows": [
+    {
+     "surface": "stṛpyantāṃ",
+     "gloss": "be-satisfied",
+     "grounds": "root tṛp passive imperative",
+     "morph": "verb.3.sg.pass.imp"
+    },
+    {
+     "surface": "kulaputrakasya",
+     "gloss": "of-kula-son",
+     "grounds": "genitive compound",
+     "morph": "noun.m.gen.sg"
+    },
+    {
+     "surface": "pibataḥ",
+     "gloss": "drinking",
+     "grounds": "present participle",
+     "morph": "part.m.gen.sg"
+    },
+    {
+     "surface": "pānaṃ",
+     "gloss": "drink",
+     "grounds": "neuter noun",
+     "morph": "noun.n.acc.sg"
+    },
+    {
+     "surface": "sadīpañcarum",
+     "gloss": "with-lamp-five-offerings",
+     "grounds": "compound adjective",
+     "morph": "adj.n.acc.sg"
+    }
+   ],
+   "question": "Who is to be satisfied by the drink?",
+   "premises": [
+    "the kula son is drinking",
+    "the drink has lamp and five offerings",
+    "satisfaction is requested"
+   ],
+   "inference": "the verse asks that the kula son be satisfied while drinking the offered drink",
+   "uncertainties": [],
+   "plain_english": "May the son of the Kula be satisfied while drinking the drink with lamp and five offerings."
+  },
+  {
+   "verse": 879,
+   "rows": [
+    {
+     "surface": "satyañcāpi",
+     "gloss": "truth-also-and",
+     "grounds": "fused sandhi form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kauladharmaparamaṃ",
+     "gloss": "kula-dharma-supreme",
+     "grounds": "compound adjective",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "syānme",
+     "gloss": "may-be",
+     "grounds": "fused optative form",
+     "morph": "verb.3.sg.act.opt"
+    },
+    {
+     "surface": "jayaḥ",
+     "gloss": "victory",
+     "grounds": "masculine noun",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What supreme outcome is requested always?",
+   "premises": [
+    "truth and kula dharma are supreme",
+    "victory is requested",
+    "it is asked for always"
+   ],
+   "inference": "the verse asks that supreme kula dharma and victory always be his",
+   "uncertainties": [],
+   "plain_english": "May truth and the supreme Kula dharma be mine, and victory always."
+  },
+  {
+   "verse": 880,
+   "rows": [
+    {
+     "surface": "antaḥsthā",
+     "gloss": "inner-residing",
+     "grounds": "compound adjective",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "śāmbhavī",
+     "gloss": "śāmbhavī",
+     "grounds": "feminine noun",
+     "morph": "noun.f.nom.sg"
+    },
+    {
+     "surface": "me'stu",
+     "gloss": "to-me",
+     "grounds": "fused form",
+     "morph": "verb.3.sg.act.imp"
+    },
+    {
+     "surface": "prasanno'stu",
+     "gloss": "pleased",
+     "grounds": "fused form",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "masculine noun",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is requested of the inner śāmbhavī and guru?",
+   "premises": [
+    "śāmbhavī resides within",
+    "the guru should be pleased",
+    "this is asked always"
+   ],
+   "inference": "the verse asks that inner śāmbhavī be his and the guru always pleased",
+   "uncertainties": [],
+   "plain_english": "May the inner-residing Śāmbhavī be mine, and may the guru always be pleased."
+  },
+  {
+   "verse": 881,
+   "rows": [
+    {
+     "surface": "yadyeṣa",
+     "gloss": "if-this",
+     "grounds": "fused conditional form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuladharmaḥ",
+     "gloss": "kula-dharma",
+     "grounds": "compound noun",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "syāttadā",
+     "gloss": "be",
+     "grounds": "fused form",
+     "morph": "verb.3.sg.act.opt"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "naśyantu",
+     "gloss": "perish",
+     "grounds": "root naś imperative",
+     "morph": "verb.3.pl.act.imp"
+    },
+    {
+     "surface": "dūṣakāḥ",
+     "gloss": "corrupters",
+     "grounds": "masculine noun",
+     "morph": "noun.m.nom.pl"
+    }
+   ],
+   "question": "What happens to corrupters if this is kula dharma?",
+   "premises": [
+    "this is called kula dharma",
+    "then corrupters are addressed",
+    "they are told to perish"
+   ],
+   "inference": "the verse says that if this is kula dharma, then the corrupters should perish",
+   "uncertainties": [],
+   "plain_english": "If this is the Kula dharma, then let the corrupters perish."
+  },
+  {
+   "verse": 882,
+   "rows": [
+    {
+     "surface": "namastābhyaḥ",
+     "gloss": "salutation-to-them",
+     "grounds": "fused salutation form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samastābhyo",
+     "gloss": "to-all",
+     "grounds": "dative adjective",
+     "morph": "adj.f.dat.pl"
+    },
+    {
+     "surface": "yoginībhyo",
+     "gloss": "to-yoginīs",
+     "grounds": "dative noun",
+     "morph": "noun.f.dat.pl"
+    },
+    {
+     "surface": "nirantaram",
+     "gloss": "constantly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "To whom is constant salutation given?",
+   "premises": [
+    "salutation is offered",
+    "it goes to all yoginīs",
+    "it is constant"
+   ],
+   "inference": "the verse offers constant salutation to all yoginīs",
+   "uncertainties": [],
+   "plain_english": "Constant salutation to all those yoginīs."
+  },
+  {
+   "verse": 883,
+   "rows": [
+    {
+     "surface": "pibantu",
+     "gloss": "drink",
+     "grounds": "root pā imperative",
+     "morph": "verb.3.pl.act.imp"
+    },
+    {
+     "surface": "bhairavāḥ",
+     "gloss": "bhairavas",
+     "grounds": "masculine noun",
+     "morph": "noun.m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "masculine plural adjective",
+     "morph": "adj.m.nom.pl"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "body",
+     "grounds": "locative noun",
+     "morph": "noun.m.loc.sg"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "established",
+     "grounds": "participle adjective",
+     "morph": "adj.m.nom.pl"
+    }
+   ],
+   "question": "Who drinks in the speaker's body?",
+   "premises": [
+    "all bhairavas are established",
+    "they are in the speaker's body",
+    "they are told to drink"
+   ],
+   "inference": "the verse asks all bhairavas established in the speaker's body to drink",
+   "uncertainties": [],
+   "plain_english": "May all Bhairavas established in my body drink."
+  },
+  {
+   "verse": 884,
+   "rows": [
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginīs",
+     "grounds": "feminine noun",
+     "morph": "noun.f.nom.pl"
+    },
+    {
+     "surface": "kṣetrapālāśca",
+     "gloss": "field-protectors-and",
+     "grounds": "fused compound with ca",
+     "morph": "noun.m.nom.pl"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "body",
+     "grounds": "locative noun",
+     "morph": "noun.m.loc.sg"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "established",
+     "grounds": "participle adjective",
+     "morph": "adj.m.nom.pl"
+    }
+   ],
+   "question": "Who is established in the speaker's body?",
+   "premises": [
+    "yoginīs are named",
+    "field protectors are included",
+    "they are established in the body"
+   ],
+   "inference": "the verse states that yoginīs and field protectors are established in the speaker's body",
+   "uncertainties": [],
+   "plain_english": "Yoginīs and field protectors are established in my body."
+  },
+  {
+   "verse": 885,
+   "rows": [
+    {
+     "surface": "kālāgnyādiśivāntañca",
+     "gloss": "from-time-fire-etc-to-śiva-end-and",
+     "grounds": "long compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jagad",
+     "gloss": "world",
+     "grounds": "neuter noun",
+     "morph": "noun.n.nom.sg"
+    },
+    {
+     "surface": "yajñena",
+     "gloss": "by-sacrifice",
+     "grounds": "instrumental noun",
+     "morph": "noun.m.inst.sg"
+    },
+    {
+     "surface": "tṛpyatu",
+     "gloss": "be-satisfied",
+     "grounds": "root tṛp imperative",
+     "morph": "verb.3.sg.act.imp"
+    }
+   ],
+   "question": "What should be satisfied by sacrifice?",
+   "premises": [
+    "the world spans time fire to śiva",
+    "sacrifice is the means",
+    "satisfaction is requested"
+   ],
+   "inference": "the verse asks that the world from time-fire to śiva be satisfied by sacrifice",
+   "uncertainties": [],
+   "plain_english": "May the world, from time-fire to Śiva, be satisfied by sacrifice."
+  },
+  {
+   "verse": 886,
+   "rows": [
+    {
+     "surface": "paṅkārthāvahaketumānakusumāt",
+     "gloss": "from-mud-meaning-vehicle-banner-flower",
+     "grounds": "long compound ablative",
+     "morph": "noun.m.abl.sg"
+    },
+    {
+     "surface": "gṛhṇantu",
+     "gloss": "take",
+     "grounds": "root grah imperative",
+     "morph": "verb.3.pl.act.imp"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "pron.nom.pl"
+    },
+    {
+     "surface": "pāntu",
+     "gloss": "protect-and",
+     "grounds": "root pā imperative",
+     "morph": "verb.3.pl.act.imp"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What should they take and protect?",
+   "premises": [
+    "the source is a compound of mud meaning vehicle banner flower",
+    "they are told to take",
+    "they are also told to protect"
+   ],
+   "inference": "the verse asks them to take from that source and protect",
+   "uncertainties": [],
+   "plain_english": "May they take from that mud-meaning-vehicle-banner-flower source and protect."
+  },
+  {
+   "verse": 887,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "give",
+     "grounds": "root dā optative",
+     "morph": "verb.3.sg.act.opt"
+    },
+    {
+     "surface": "svaśiṣyāya",
+     "gloss": "to-own-disciple",
+     "grounds": "dative compound",
+     "morph": "noun.m.dat.sg"
+    },
+    {
+     "surface": "prasādaṃ",
+     "gloss": "grace",
+     "grounds": "masculine noun",
+     "morph": "noun.m.acc.sg"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-leader",
+     "grounds": "vocative compound",
+     "morph": "noun.f.voc.sg"
+    }
+   ],
+   "question": "What should be given to the disciple?",
+   "premises": [
+    "then giving is instructed",
+    "the recipient is one's own disciple",
+    "grace is the gift"
+   ],
+   "inference": "the verse instructs that grace be given to one's own disciple, O kula leader",
+   "uncertainties": [],
+   "plain_english": "Then, O kula leader, give grace to your own disciple."
+  }
+ ]
+}

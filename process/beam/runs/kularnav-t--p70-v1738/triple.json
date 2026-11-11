@@ -1,0 +1,533 @@
+{
+ "song": "kul-p70",
+ "items": [
+  {
+   "verse": 1738,
+   "rows": [
+    {
+     "surface": "tatphalaṃ",
+     "gloss": "that-fruit",
+     "grounds": "tat + phala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛhyate",
+     "gloss": "is-taken",
+     "grounds": "root gṛh",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "pronoun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tasyāyāsaḥ",
+     "gloss": "his-effort",
+     "grounds": "tasya + āyāsaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "root bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What fruit becomes his effort's result?",
+   "premises": [
+    "The fruit is taken by him.",
+    "His effort becomes fruit."
+   ],
+   "inference": "The taken fruit is the fruit of his effort.",
+   "uncertainties": [
+    "Case of tatphalaṃ could be accusative."
+   ],
+   "plain_english": "That fruit is taken by him, and his effort becomes fruit."
+  },
+  {
+   "verse": 1739,
+   "rows": [
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "root varj",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dāridryavyādhiduḥkhadam",
+     "gloss": "poverty-disease-sorrow-giving",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What seat should the wise avoid?",
+   "premises": [
+    "The wise should avoid a seat.",
+    "That seat gives poverty disease and sorrow."
+   ],
+   "inference": "The wise avoid a seat that brings poverty, disease, and sorrow.",
+   "uncertainties": [
+    "āsanaṃ may be nominative in context."
+   ],
+   "plain_english": "The wise should avoid a seat that gives poverty, disease, and sorrow."
+  },
+  {
+   "verse": 1740,
+   "rows": [
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "root kḷp",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saubhāgyajñānavṛddhidam",
+     "gloss": "fortune-knowledge-increasing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What seat should the wise arrange?",
+   "premises": [
+    "The wise should arrange a seat.",
+    "That seat increases fortune and knowledge."
+   ],
+   "inference": "The wise arrange a seat that increases fortune and knowledge.",
+   "uncertainties": [
+    "āsanaṃ may be nominative in context."
+   ],
+   "plain_english": "The wise should arrange a seat that increases fortune and knowledge."
+  },
+  {
+   "verse": 1741,
+   "rows": [
+    {
+     "surface": "japārccanādikaṃ",
+     "gloss": "japa-worship-etc",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "root kṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "root bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What happens if japa and worship are done otherwise?",
+   "premises": [
+    "Japa and worship should be done.",
+    "Otherwise it becomes fruitless."
+   ],
+   "inference": "Improper japa and worship become fruitless.",
+   "uncertainties": [
+    "japārccanādikaṃ may be nominative."
+   ],
+   "plain_english": "Japa, worship, and the like should be done; otherwise they become fruitless."
+  },
+  {
+   "verse": 1742,
+   "rows": [
+    {
+     "surface": "muñcet",
+     "gloss": "should-release",
+     "grounds": "root muc",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "piṅgalayā",
+     "gloss": "by-piṅgalā",
+     "grounds": "noun",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "vāyum",
+     "gloss": "air",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "antaḥsthaṃ",
+     "gloss": "internal",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "recako",
+     "gloss": "exhaler",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "root bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How does one become an exhaler?",
+   "premises": [
+    "One should release air by piṅgalā.",
+    "The internal air makes one an exhaler."
+   ],
+   "inference": "Releasing internal air through piṅgalā makes one an exhaler.",
+   "uncertainties": [
+    "antaḥsthaṃ may modify vāyum as neuter."
+   ],
+   "plain_english": "One should release the internal air by piṅgalā, and becomes an exhaler."
+  },
+  {
+   "verse": 1743,
+   "rows": [
+    {
+     "surface": "śanakaiḥ",
+     "gloss": "slowly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iḍayā",
+     "gloss": "by-iḍā",
+     "grounds": "noun",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "binding",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrakaṃ",
+     "gloss": "inhalation",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikīttitam",
+     "gloss": "is-declared",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is inhalation declared to be done?",
+   "premises": [
+    "Inhalation is declared.",
+    "It is done slowly by iḍā after binding."
+   ],
+   "inference": "Inhalation is declared as slow binding through iḍā.",
+   "uncertainties": [
+    "parikīttitam may be masculine."
+   ],
+   "plain_english": "Inhalation is declared to be done slowly by iḍā after binding."
+  },
+  {
+   "verse": 1744,
+   "rows": [
+    {
+     "surface": "śoṣayet",
+     "gloss": "should-dry",
+     "grounds": "causative root śuṣ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vāyubījena",
+     "gloss": "by-air-seed",
+     "grounds": "compound",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "dehaśoṣaṇam",
+     "gloss": "body-drying",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-said",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is said about body drying?",
+   "premises": [
+    "Body drying is said.",
+    "It should be dried by the air seed."
+   ],
+   "inference": "Body drying is accomplished by the air seed.",
+   "uncertainties": [
+    "īritam may be masculine."
+   ],
+   "plain_english": "Body drying is said to be done by the air seed."
+  },
+  {
+   "verse": 1745,
+   "rows": [
+    {
+     "surface": "dahet",
+     "gloss": "should-burn",
+     "grounds": "root dah",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dahanabījena",
+     "gloss": "by-fire-seed",
+     "grounds": "compound",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "dehadāhanam",
+     "gloss": "body-burning",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-said",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is said about body burning?",
+   "premises": [
+    "Body burning is said.",
+    "It should be burned by the fire seed."
+   ],
+   "inference": "Body burning is accomplished by the fire seed.",
+   "uncertainties": [
+    "īritam may be masculine."
+   ],
+   "plain_english": "Body burning is said to be done by the fire seed."
+  },
+  {
+   "verse": 1746,
+   "rows": [
+    {
+     "surface": "āpādamastakaṃ",
+     "gloss": "from-foot-to-head",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "plāvayet",
+     "gloss": "should-flood",
+     "grounds": "causative root plu",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "plāvanaṃ",
+     "gloss": "flooding",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "root bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What flooding becomes from foot to head?",
+   "premises": [
+    "One should flood from foot to head.",
+    "Flooding becomes the result."
+   ],
+   "inference": "Flooding from foot to head is the prescribed practice.",
+   "uncertainties": [
+    "āpādamastakaṃ may be adverbial."
+   ],
+   "plain_english": "O goddess, one should flood from foot to head, and flooding becomes."
+  },
+  {
+   "verse": 1747,
+   "rows": [
+    {
+     "surface": "agarbhāt",
+     "gloss": "without-garbha",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "garbhasaṃyuktaḥ",
+     "gloss": "with-garbha",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇāyāmaḥ",
+     "gloss": "prāṇāyāma",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śatādhikaḥ",
+     "gloss": "hundred-more",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does prāṇāyāma differ with and without garbha?",
+   "premises": [
+    "Prāṇāyāma without garbha is one thing.",
+    "Prāṇāyāma with garbha is hundred more."
+   ],
+   "inference": "Prāṇāyāma with garbha exceeds the one without garbha by a hundred.",
+   "uncertainties": [
+    "agarbhāt may be ablative of comparison."
+   ],
+   "plain_english": "Prāṇāyāma with garbha is a hundred more than prāṇāyāma without garbha."
+  },
+  {
+   "verse": 1748,
+   "rows": [
+    {
+     "surface": "prāṇāyāmasya",
+     "gloss": "of-that-prāṇāyāma",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśīm",
+     "gloss": "sixteenth",
+     "grounds": "ordinal",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kalāṃ",
+     "gloss": "part",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nārhanti",
+     "gloss": "not-deserve",
+     "grounds": "root arh",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "What part do these not deserve?",
+   "premises": [
+    "These are of that prāṇāyāma.",
+    "They do not deserve the sixteenth part."
+   ],
+   "inference": "These do not deserve even a sixteenth part of that prāṇāyāma.",
+   "uncertainties": [
+    "ete may refer to prior practices."
+   ],
+   "plain_english": "These do not deserve even a sixteenth part of that prāṇāyāma."
+  },
+  {
+   "verse": 1749,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirdahet",
+     "gloss": "should-burn",
+     "grounds": "root dah",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇāyāmatrayaṃ",
+     "gloss": "three-prāṇāyāmas",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śivā",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should be burned quickly, O Śivā?",
+   "premises": [
+    "All that should be burned quickly.",
+    "The three prāṇāyāmas are included."
+   ],
+   "inference": "All that, including the three prāṇāyāmas, should be burned quickly.",
+   "uncertainties": [
+    "tat sarvaṃ may be accusative object."
+   ],
+   "plain_english": "O Śivā, all that, including the three prāṇāyāmas, should be burned quickly."
+  }
+ ]
+}
