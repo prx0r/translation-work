@@ -1,0 +1,545 @@
+{
+ "song": "kul-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-speak",
+     "grounds": "first person singular active present of kathayati",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "second person singular genitive pronoun",
+     "morph": "2.sg.gen"
+    },
+    {
+     "surface": "snehāt",
+     "gloss": "from-affection",
+     "grounds": "ablative singular of sneha",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "śṛṇuṣvaikāgramānasā",
+     "gloss": "listen-with-one-pointed-mind",
+     "grounds": "imperative middle second singular of śru fused with ekāgramānasā",
+     "morph": "2.sg.mid-imp"
+    }
+   ],
+   "question": "Why does the speaker ask for one-pointed listening?",
+   "premises": [
+    "The speaker speaks from affection.",
+    "The listener must attend with one-pointed mind."
+   ],
+   "inference": "Affectionate transmission requires focused reception.",
+   "uncertainties": [
+    "The exact internal sandhi of the fused imperative is not expanded."
+   ],
+   "plain_english": "I speak to you out of affection; listen with a one-pointed mind."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "akathyaṃ",
+     "gloss": "unspeakable",
+     "grounds": "neuter accusative singular adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "paramārthena",
+     "gloss": "in-ultimate-sense",
+     "grounds": "instrumental singular of paramārtha",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "nevertheless",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-speak",
+     "grounds": "first person singular active present of kathayati",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "second person singular dative or accusative pronoun",
+     "morph": "2.sg.dat/acc"
+    }
+   ],
+   "question": "Why speak what is ultimately unspeakable?",
+   "premises": [
+    "The matter is unspeakable in the ultimate sense.",
+    "Nevertheless the speaker declares it to you."
+   ],
+   "inference": "Ultimate truth exceeds speech yet is still communicated.",
+   "uncertainties": [
+    "Whether te is dative or accusative is not fixed."
+   ],
+   "plain_english": "Although it is unspeakable in the ultimate sense, nevertheless I speak it to you."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "deyaṃ",
+     "gloss": "should-be-given",
+     "grounds": "neuter accusative singular gerundive",
+     "morph": "gerundive.acc.sg.n"
+    },
+    {
+     "surface": "bhaktāya",
+     "gloss": "to-devotee",
+     "grounds": "dative singular masculine of bhakta",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "śiṣyāya",
+     "gloss": "to-disciple",
+     "grounds": "dative singular masculine of śiṣya",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patanaṃ",
+     "gloss": "fall",
+     "grounds": "neuter accusative singular of patana",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "third person singular optative active of bhū",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "To whom should this teaching be given?",
+   "premises": [
+    "It should be given to a devotee or disciple.",
+    "Otherwise a fall would occur."
+   ],
+   "inference": "Transmission is restricted to qualified recipients.",
+   "uncertainties": [
+    "The exact nature of the fall is not specified."
+   ],
+   "plain_english": "It should be given to a devotee or disciple; otherwise there would be a fall."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "vaiṣṇavāduttamaṃ",
+     "gloss": "vaiṣṇava-best",
+     "grounds": "compound adjective in accusative singular masculine",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "śaivaṃ",
+     "gloss": "śaiva",
+     "grounds": "accusative singular masculine adjective or noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śaivāddakṣiṇamuttamam",
+     "gloss": "śaiva-dakṣiṇa-best",
+     "grounds": "compound adjective in accusative singular masculine",
+     "morph": "compound.acc.sg.m"
+    }
+   ],
+   "question": "How does Śaiva teaching compare with Vaiṣṇava teaching?",
+   "premises": [
+    "Śaiva is best beyond Vaiṣṇava.",
+    "Dakṣiṇa Śaiva is best beyond Śaiva."
+   ],
+   "inference": "A graded superiority is asserted among these paths.",
+   "uncertainties": [
+    "The exact referent of dakṣiṇa is not clarified."
+   ],
+   "plain_english": "Śaiva is best beyond Vaiṣṇava, and Dakṣiṇa Śaiva is best beyond Śaiva."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "siddhāntāduttamaṃ",
+     "gloss": "siddhānta-best",
+     "grounds": "compound adjective in accusative singular masculine",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula",
+     "grounds": "accusative singular masculine adjective or noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kaulāt+parataraṃ",
+     "gloss": "kaula-more-than",
+     "grounds": "compound comparative form with ablative sense",
+     "morph": "compound.abl/comp"
+    },
+    {
+     "surface": "na+hi",
+     "gloss": "not-indeed",
+     "grounds": "indeclinable negative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is anything higher than Kaula?",
+   "premises": [
+    "Kaula is best beyond Siddhānta.",
+    "Nothing is more than Kaula."
+   ],
+   "inference": "Kaula occupies the highest position in this hierarchy.",
+   "uncertainties": [
+    "The fused comparative syntax is not fully resolved."
+   ],
+   "plain_english": "Kaula is best beyond Siddhānta, and indeed nothing is higher than Kaula."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "sākṣāt+śivapradaṃ",
+     "gloss": "directly-śiva-giving",
+     "grounds": "compound adjective in accusative singular masculine",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine of devī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "karṇākaṇīgataṃ",
+     "gloss": "ear-to-ear-gone",
+     "grounds": "compound adjective in accusative singular masculine or neuter",
+     "morph": "compound.acc.sg.m/n"
+    },
+    {
+     "surface": "kulam",
+     "gloss": "kula",
+     "grounds": "accusative singular neuter of kula",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is Kula transmitted to the goddess?",
+   "premises": [
+    "Kula directly gives Śiva.",
+    "It has gone ear to ear, O goddess."
+   ],
+   "inference": "Kula is transmitted directly and intimately.",
+   "uncertainties": [
+    "The exact compound karṇākaṇīgataṃ is interpreted loosely."
+   ],
+   "plain_english": "O goddess, Kula directly gives Śiva and has passed ear to ear."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "sārajñena",
+     "gloss": "with-essence-knower",
+     "grounds": "instrumental singular masculine of sārajña",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental singular of first person pronoun",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine of devī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kuladharmaḥ",
+     "gloss": "kula-dharma",
+     "grounds": "nominative singular masculine compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samuddhṛtaḥ",
+     "gloss": "extracted",
+     "grounds": "nominative singular masculine past participle of samuddhṛ",
+     "morph": "nom.sg.m.past-part"
+    }
+   ],
+   "question": "Who extracted the Kula dharma?",
+   "premises": [
+    "By me, the essence-knower, O goddess.",
+    "The Kula dharma has been extracted."
+   ],
+   "inference": "The speaker claims authoritative extraction of Kula dharma.",
+   "uncertainties": [
+    "The exact sense of samuddhṛtaḥ is not further specified."
+   ],
+   "plain_english": "By me, the knower of essence, O goddess, the Kula dharma has been extracted."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "ekataḥ",
+     "gloss": "on-one-side",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuladharmaśca",
+     "gloss": "kula-dharma",
+     "grounds": "nominative singular masculine compound with enclitic ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulo'dhikaḥ",
+     "gloss": "kaula-greater",
+     "grounds": "nominative singular masculine compound with sandhi",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular feminine of priya",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What is greater there on one side?",
+   "premises": [
+    "On one side there is Kula dharma.",
+    "There the Kaula is greater, beloved."
+   ],
+   "inference": "Kaula exceeds Kula dharma in that context.",
+   "uncertainties": [
+    "The exact referent of tatra is not specified."
+   ],
+   "plain_english": "On one side there is Kula dharma, and there the Kaula is greater, beloved."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "thus-also",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vividhā",
+     "gloss": "various",
+     "grounds": "nominative plural feminine adjective",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "dharmāḥ",
+     "gloss": "dharmas",
+     "grounds": "nominative plural masculine of dharma",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "praviṣṭāḥ",
+     "gloss": "entered",
+     "grounds": "nominative plural masculine past participle of praviś",
+     "morph": "nom.pl.m.past-part"
+    },
+    {
+     "surface": "kulameva",
+     "gloss": "kula-indeed",
+     "grounds": "accusative singular neuter of kula with enclitic eva",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where have the various dharmas entered?",
+   "premises": [
+    "Various dharmas have entered.",
+    "They have entered Kula indeed."
+   ],
+   "inference": "Kula contains or absorbs the various dharmas.",
+   "uncertainties": [
+    "The grammatical relation of kulameva is interpreted as object."
+   ],
+   "plain_english": "Thus also various dharmas have entered; indeed they have entered Kula."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "darśanāni",
+     "gloss": "views",
+     "grounds": "nominative or accusative plural neuter of darśana",
+     "morph": "nom/acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "nominative or accusative plural neuter of sarva",
+     "morph": "nom/acc.pl.n"
+    },
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "nominative or accusative singular neuter of kula",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular feminine of priya",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What are all the views said to be?",
+   "premises": [
+    "All views are Kula indeed.",
+    "Thus it is, beloved."
+   ],
+   "inference": "Every view is identified with Kula.",
+   "uncertainties": [
+    "The exact syntactic role of kula is not fixed."
+   ],
+   "plain_english": "All views are indeed Kula, thus, beloved."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuladharmeṇa",
+     "gloss": "kula-dharma",
+     "grounds": "instrumental singular masculine of kuladharma",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "samayo'nyaḥ",
+     "gloss": "samaya-other",
+     "grounds": "nominative singular masculine compound with sandhi",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samo",
+     "gloss": "equal",
+     "grounds": "nominative singular masculine adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "third person singular optative active of bhū",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "When would another samaya be equal?",
+   "premises": [
+    "Then by Kula dharma.",
+    "Another samaya would be equal."
+   ],
+   "inference": "Equality with another samaya depends on Kula dharma.",
+   "uncertainties": [
+    "The condition tadā ca is not fully explicit."
+   ],
+   "plain_english": "Then, by Kula dharma, another samaya would be equal."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "thus-also",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samayāḥ",
+     "gloss": "samayas",
+     "grounds": "nominative plural masculine of samaya",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural masculine of sarva",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kuladharmeṇa",
+     "gloss": "kula-dharma",
+     "grounds": "instrumental singular masculine of kuladharma",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "no+samāḥ",
+     "gloss": "not-equal",
+     "grounds": "nominative plural masculine compound with negative",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Are all samayas equal by Kula dharma?",
+   "premises": [
+    "All samayas are thus.",
+    "By Kula dharma they are not equal."
+   ],
+   "inference": "Kula dharma distinguishes samayas rather than equalizing them.",
+   "uncertainties": [
+    "The exact scope of no+samāḥ is not specified."
+   ],
+   "plain_english": "Thus all samayas are, by Kula dharma, not equal."
+  }
+ ]
+}

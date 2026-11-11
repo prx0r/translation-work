@@ -1,0 +1,50 @@
+{
+ "song": "kul-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "tāmeva",
+     "gloss": "that-indeed",
+     "grounds": "tām = that (accusative feminine singular); eva = indeed",
+     "morph": "f.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "third person singular middle present of root labh",
+     "morph": "3.sg.mid-pres + root labh"
+    },
+    {
+     "surface": "jantur",
+     "gloss": "creature",
+     "grounds": "nominative singular masculine of jantu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upadeśo",
+     "gloss": "instruction",
+     "grounds": "nominative singular masculine of upadeśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirarthakaḥ",
+     "gloss": "useless",
+     "grounds": "nominative singular masculine of nirarthaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is instruction useless for the creature?",
+   "premises": [
+    "The creature obtains that very thing.",
+    "Instruction is useless."
+   ],
+   "inference": "Direct realization renders instruction unnecessary.",
+   "uncertainties": [
+    "Exact referent of tām is not explicit in this verse."
+   ],
+   "plain_english": "The creature obtains that very thing; instruction is useless."
+  }
+ ]
+}

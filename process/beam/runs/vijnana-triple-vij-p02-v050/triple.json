@@ -7,45 +7,46 @@
     {
      "surface": "evameva",
      "gloss": "thus-thus",
-     "grounds": "adverbial reduplication of evam",
+     "grounds": "exact token evameva; indeclinable repeated adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "jagatsarvaṃ",
      "gloss": "world-all",
-     "grounds": "compound jagat+sarva in accusative",
-     "morph": "n.acc.sg"
+     "grounds": "exact token jagatsarvaṃ; accusative object of meditation",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "dagdhaṃ",
      "gloss": "burned",
-     "grounds": "past participle of dah in accusative",
-     "morph": "pp.acc.sg.n"
+     "grounds": "exact token dagdhaṃ; accusative participle modifying world-all",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "dhyātvā",
-     "gloss": "meditating",
-     "grounds": "absolutive of dhyā",
-     "morph": "abs"
+     "gloss": "having-meditated",
+     "grounds": "exact token dhyātvā; absolutive from dhyā",
+     "morph": "abs."
     },
     {
      "surface": "vikalpitaḥ",
      "gloss": "imagined",
-     "grounds": "past participle of vikalp in nominative",
-     "morph": "pp.nom.sg.m"
+     "grounds": "exact token vikalpitaḥ; nominative participle, subject or result",
+     "morph": "nom.sg.m"
     }
    ],
-   "question": "How does meditating on the world as burned transform imagination?",
+   "question": "How does meditation on the burned world function?",
    "premises": [
-    "The whole world is meditated as burned.",
-    "Imagination arises after that meditation.",
-    "Recognition follows the burned-world contemplation."
+    "whole world is meditated as burned",
+    "meditation is performed in this manner",
+    "imagined state follows the meditation"
    ],
-   "inference": "Meditating on all world as burned yields imagined recognition.",
+   "inference": "meditation on the burned world yields an imagined state",
    "uncertainties": [
-    "The exact syntactic role of vikalpitaḥ remains open."
+    "syntactic role of vikalpitaḥ remains ambiguous",
+    "whether vikalpitaḥ names practitioner or world"
    ],
-   "plain_english": "Thus, having meditated on the entire world as burned, one is imagined."
+   "plain_english": "Having meditated thus on the entire world as burned, it is imagined."
   }
  ]
 }

@@ -7,51 +7,51 @@
     {
      "surface": "tadante",
      "gloss": "that-end",
-     "grounds": "endpoint marker after prior practice",
+     "grounds": "token as given; legacy hint that-end",
      "morph": "(indecl.)"
     },
     {
      "surface": "śānta",
      "gloss": "peace",
-     "grounds": "state named in verse",
+     "grounds": "token as given; legacy hint peace",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nāma",
      "gloss": "named",
-     "grounds": "designation of state",
+     "grounds": "token as given; legacy hint named",
      "morph": "(indecl.)"
     },
     {
      "surface": "asau",
      "gloss": "this",
-     "grounds": "demonstrative reference",
+     "grounds": "token as given; legacy hint this",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śaktācāntaḥ",
      "gloss": "shakti-within",
-     "grounds": "fused compound form",
+     "grounds": "token as given; legacy hint shakti-within",
      "morph": "m.nom.sg"
     },
     {
      "surface": "prakāśate",
      "gloss": "shines",
-     "grounds": "manifestation verb",
-     "morph": "3.sg.act-pres+prakāś"
+     "grounds": "token as given; legacy hint shines",
+     "morph": "3.sg.act-pres"
     }
    ],
-   "question": "How does the peaceful state shine after that end?",
+   "question": "What shines after that end?",
    "premises": [
-    "tadante marks endpoint",
-    "śānta names state",
-    "prakāśate shows shining"
+    "tadante marks after that end",
+    "śānta names peace",
+    "prakāśate states shines"
    ],
-   "inference": "After the endpoint, the peaceful state shines from within shakti.",
+   "inference": "After that end, peace named this shines within shakti.",
    "uncertainties": [
-    "compound analysis of śaktācāntaḥ"
+    "compound analysis not expanded"
    ],
-   "plain_english": "After that end, the peaceful state named here shines forth from within shakti."
+   "plain_english": "After that end, peace named this shines within shakti."
   },
   {
    "verse": 27,
@@ -59,39 +59,39 @@
     {
      "surface": "cintayonte",
      "gloss": "meditating",
-     "grounds": "meditation context",
-     "morph": "(indecl.)"
+     "grounds": "token as given; legacy hint meditating",
+     "morph": "3.pl.mid-pres"
     },
     {
      "surface": "dviṣaṭkānte",
      "gloss": "six-end",
-     "grounds": "endpoint of six",
-     "morph": "(indecl.)"
+     "grounds": "token as given; legacy hint six-end",
+     "morph": "loc.sg"
     },
     {
      "surface": "śāmyante",
      "gloss": "cease",
-     "grounds": "cessation verb",
-     "morph": "3.pl.act-pres+śam"
+     "grounds": "token as given; legacy hint cease",
+     "morph": "3.pl.mid-pres"
     },
     {
      "surface": "bhairavādayaḥ",
      "gloss": "bhairava-etc",
-     "grounds": "deities listed",
+     "grounds": "token as given; legacy hint bhairava-etc",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "What ceases when meditating at the six-end?",
+   "question": "What ceases while meditating at the six-end?",
    "premises": [
-    "cintayonte sets meditation",
+    "cintayonte means meditating",
     "dviṣaṭkānte marks six-end",
-    "śāmyante states cessation"
+    "śāmyante means cease"
    ],
-   "inference": "Meditating at the six-end, bhairava and related powers cease.",
+   "inference": "While meditating at the six-end, bhairava and others cease.",
    "uncertainties": [
-    "exact referent of bhairavādayaḥ"
+    "exact subject scope"
    ],
-   "plain_english": "When meditating at the six-end, bhairava and the rest cease."
+   "plain_english": "While meditating at the six-end, bhairava and others cease."
   },
   {
    "verse": 28,
@@ -99,45 +99,45 @@
     {
      "surface": "ūrdhvaṃ",
      "gloss": "upward",
-     "grounds": "directional adverb",
+     "grounds": "token as given; legacy hint upward",
      "morph": "(indecl.)"
     },
     {
      "surface": "muṣṭitrayaṃ",
      "gloss": "fist-triad",
-     "grounds": "three fists",
+     "grounds": "token as given; legacy hint fist-triad",
      "morph": "n.acc.sg"
     },
     {
      "surface": "yāvat",
      "gloss": "as-long-as",
-     "grounds": "duration marker",
+     "grounds": "token as given; legacy hint as-long-as",
      "morph": "(indecl.)"
     },
     {
      "surface": "tāvadante",
      "gloss": "that-long-end",
-     "grounds": "endpoint marker",
+     "grounds": "token as given; legacy hint that-long-end",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahodayaḥ",
      "gloss": "great-rise",
-     "grounds": "result state",
+     "grounds": "token as given; legacy hint great-rise",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "How long does the great rise continue upward?",
+   "question": "What great rise occurs upward to the fist-triad?",
    "premises": [
-    "ūrdhvaṃ sets upward",
-    "muṣṭitrayaṃ sets measure",
-    "mahodayaḥ names rise"
+    "ūrdhvaṃ means upward",
+    "muṣṭitrayaṃ means fist-triad",
+    "mahodayaḥ means great-rise"
    ],
-   "inference": "As long as the three-fist measure lasts, the great rise continues upward.",
+   "inference": "Upward to the fist-triad, as long as that long end, great rise occurs.",
    "uncertainties": [
-    "physiological referent of muṣṭitrayaṃ"
+    "temporal scope"
    ],
-   "plain_english": "Upward, for the span of three fists, the great rise continues to its end."
+   "plain_english": "Upward to the fist-triad, as long as that long end, great rise occurs."
   },
   {
    "verse": 29,
@@ -145,45 +145,45 @@
     {
      "surface": "sthūlasūkṣmaparisthityā",
      "gloss": "gross-subtle-state",
-     "grounds": "fused compound",
-     "morph": "f.instr.sg"
+     "grounds": "token as given; legacy hint gross-subtle-state",
+     "morph": "f.ins.sg"
     },
     {
      "surface": "muktvā",
      "gloss": "releasing",
-     "grounds": "release participle",
-     "morph": "abs+ muc"
+     "grounds": "token as given; legacy hint releasing",
+     "morph": "absolutive"
     },
     {
      "surface": "muktvā",
      "gloss": "releasing",
-     "grounds": "repeated release",
-     "morph": "abs+ muc"
+     "grounds": "token as given; legacy hint releasing",
+     "morph": "absolutive"
     },
     {
      "surface": "tataḥ",
      "gloss": "then",
-     "grounds": "sequence marker",
+     "grounds": "token as given; legacy hint then",
      "morph": "(indecl.)"
     },
     {
      "surface": "śivaḥ",
      "gloss": "shiva",
-     "grounds": "result deity",
+     "grounds": "token as given; legacy hint shiva",
      "morph": "m.nom.sg"
     }
    ],
    "question": "What remains after releasing gross and subtle states?",
    "premises": [
-    "sthūlasūkṣmaparisthityā names states",
-    "muktvā repeats release",
-    "śivaḥ names result"
+    "sthūlasūkṣmaparisthityā means gross-subtle-state",
+    "muktvā means releasing",
+    "śivaḥ means shiva"
    ],
-   "inference": "After releasing both gross and subtle states, then Shiva remains.",
+   "inference": "After releasing gross and subtle states, then shiva.",
    "uncertainties": [
-    "double muktvā emphasis"
+    "repetition emphasis"
    ],
-   "plain_english": "Having released both gross and subtle states, then Shiva remains."
+   "plain_english": "After releasing gross and subtle states, then shiva."
   },
   {
    "verse": 30,
@@ -191,45 +191,45 @@
     {
      "surface": "nirvikalpaṃ",
      "gloss": "without-thought",
-     "grounds": "adverbial qualifier",
-     "morph": "(indecl.)"
+     "grounds": "token as given; legacy hint without-thought",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "manaḥ",
      "gloss": "mind",
-     "grounds": "object of operation",
-     "morph": "n.acc.sg"
+     "grounds": "token as given; legacy hint mind",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "making",
-     "grounds": "causative participle",
-     "morph": "abs+ kṛ"
+     "grounds": "token as given; legacy hint making",
+     "morph": "absolutive"
     },
     {
      "surface": "sarvorddhve",
      "gloss": "all-upward",
-     "grounds": "fused compound",
-     "morph": "(indecl.)"
+     "grounds": "token as given; legacy hint all-upward",
+     "morph": "loc.sg"
     },
     {
      "surface": "sarvagodgamaḥ",
      "gloss": "all-pervading-rise",
-     "grounds": "result state",
+     "grounds": "token as given; legacy hint all-pervading-rise",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What happens when mind is made without thought?",
+   "question": "What rises when mind is made without thought?",
    "premises": [
-    "nirvikalpaṃ qualifies mind",
-    "manaḥ is operated",
-    "sarvagodgamaḥ names rise"
+    "nirvikalpaṃ means without-thought",
+    "manaḥ means mind",
+    "sarvagodgamaḥ means all-pervading-rise"
    ],
-   "inference": "Making the mind without thought, an all-pervading rise occurs above all.",
+   "inference": "Making mind without thought, all-pervading rise occurs in all-upward.",
    "uncertainties": [
-    "compound boundary in sarvorddhve"
+    "syntactic role of nirvikalpaṃ"
    ],
-   "plain_english": "Making the mind without thought, there is an all-pervading rise above all."
+   "plain_english": "Making mind without thought, all-pervading rise occurs in all-upward."
   },
   {
    "verse": 31,
@@ -237,45 +237,45 @@
     {
      "surface": "dhyāyatonuttaraḥ",
      "gloss": "meditating",
-     "grounds": "fused compound",
+     "grounds": "token as given; legacy hint meditating",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śūnye",
      "gloss": "void",
-     "grounds": "locative void",
-     "morph": "n.loc.sg"
+     "grounds": "token as given; legacy hint void",
+     "morph": "loc.sg"
     },
     {
      "surface": "praviśo",
      "gloss": "enter",
-     "grounds": "entry verb",
-     "morph": "(indecl.)"
+     "grounds": "token as given; legacy hint enter",
+     "morph": "2.sg.imper"
     },
     {
      "surface": "hṛdaye",
      "gloss": "heart",
-     "grounds": "locative heart",
-     "morph": "n.loc.sg"
+     "grounds": "token as given; legacy hint heart",
+     "morph": "loc.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "becomes",
-     "grounds": "result verb",
-     "morph": "3.sg.act-opt+bhū"
+     "grounds": "token as given; legacy hint becomes",
+     "morph": "3.sg.opt"
     }
    ],
-   "question": "What becomes when meditating in the void-heart?",
+   "question": "What becomes when entering void heart?",
    "premises": [
-    "dhyāyatonuttaraḥ sets meditation",
-    "śūnye hṛdaye sets locus",
-    "bhavet states result"
+    "dhyāyatonuttaraḥ means meditating",
+    "śūnye means void",
+    "bhavet means becomes"
    ],
-   "inference": "Meditating in the void-heart, entry becomes possible.",
+   "inference": "Meditating, entering void heart, becomes.",
    "uncertainties": [
-    "parsing of dhyāyatonuttaraḥ"
+    "subject omitted"
    ],
-   "plain_english": "Meditating in the void-heart, one enters and becomes established."
+   "plain_english": "Meditating, entering the void heart, it becomes."
   },
   {
    "verse": 32,
@@ -283,57 +283,57 @@
     {
      "surface": "śūnye",
      "gloss": "void",
-     "grounds": "locative void",
-     "morph": "n.loc.sg"
+     "grounds": "token as given; legacy hint void",
+     "morph": "loc.sg"
     },
     {
      "surface": "vaktre",
      "gloss": "mouth",
-     "grounds": "locative mouth",
-     "morph": "n.loc.sg"
+     "grounds": "token as given; legacy hint mouth",
+     "morph": "loc.sg"
     },
     {
      "surface": "pare",
      "gloss": "supreme",
-     "grounds": "qualifier",
-     "morph": "n.loc.sg"
+     "grounds": "token as given; legacy hint supreme",
+     "morph": "loc.sg"
     },
     {
      "surface": "pātre",
      "gloss": "vessel",
-     "grounds": "locative vessel",
-     "morph": "n.loc.sg"
+     "grounds": "token as given; legacy hint vessel",
+     "morph": "loc.sg"
     },
     {
      "surface": "svayaṃ",
      "gloss": "self",
-     "grounds": "reflexive",
+     "grounds": "token as given; legacy hint self",
      "morph": "(indecl.)"
     },
     {
      "surface": "līnā",
      "gloss": "dissolved",
-     "grounds": "participle",
-     "morph": "f.nom.sg+li"
+     "grounds": "token as given; legacy hint dissolved",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "varapradā",
      "gloss": "boon-giving",
-     "grounds": "result qualifier",
+     "grounds": "token as given; legacy hint boon-giving",
      "morph": "f.nom.sg"
     }
    ],
-   "question": "What is dissolved in the supreme void-vessel?",
+   "question": "What is dissolved in supreme void vessel?",
    "premises": [
-    "śūnye vaktre pare pātre sets locus",
-    "svayaṃ līnā states dissolution",
-    "varapradā names result"
+    "śūnye means void",
+    "pare means supreme",
+    "līnā means dissolved"
    ],
-   "inference": "In the supreme void-vessel, the self dissolves and becomes boon-giving.",
+   "inference": "Self dissolved in supreme void vessel is boon-giving.",
    "uncertainties": [
-    "vaktre as mouth or opening"
+    "agent of dissolution"
    ],
-   "plain_english": "In the supreme void-vessel, the self dissolves and becomes boon-giving."
+   "plain_english": "Self dissolved in the supreme void vessel is boon-giving."
   },
   {
    "verse": 33,
@@ -341,39 +341,39 @@
     {
      "surface": "krameṇa",
      "gloss": "gradually",
-     "grounds": "adverb",
+     "grounds": "token as given; legacy hint gradually",
      "morph": "(indecl.)"
     },
     {
      "surface": "manaso+dārḍhyāt",
      "gloss": "mind-firmness",
-     "grounds": "fused compound with sandhi",
+     "grounds": "token as given; legacy hint mind-firmness; internal sandhi marked by +",
      "morph": "n.abl.sg"
     },
     {
      "surface": "lakṣate",
      "gloss": "perceives",
-     "grounds": "perception verb",
-     "morph": "3.sg.act-pres+lakṣ"
+     "grounds": "token as given; legacy hint perceives",
+     "morph": "3.sg.mid-pres"
     },
     {
      "surface": "lakṣamuttamam",
      "gloss": "mark-supreme",
-     "grounds": "fused compound",
+     "grounds": "token as given; legacy hint mark-supreme",
      "morph": "n.acc.sg"
     }
    ],
    "question": "What is perceived through gradual mind-firmness?",
    "premises": [
-    "krameṇa sets gradualness",
-    "manaso+dārḍhyāt sets cause",
-    "lakṣamuttamam names mark"
+    "krameṇa means gradually",
+    "manaso+dārḍhyāt means mind-firmness",
+    "lakṣate means perceives"
    ],
-   "inference": "Through gradual firmness of mind, the supreme mark is perceived.",
+   "inference": "Through gradual mind-firmness, supreme mark is perceived.",
    "uncertainties": [
-    "sandhi in manaso+dārḍhyāt"
+    "exact perceptual object"
    ],
-   "plain_english": "Gradually, through firmness of mind, the supreme mark is perceived."
+   "plain_english": "Through gradual mind-firmness, the supreme mark is perceived."
   },
   {
    "verse": 34,
@@ -381,45 +381,45 @@
     {
      "surface": "dhyātāttayo",
      "gloss": "meditated",
-     "grounds": "fused compound",
-     "morph": "(indecl.)"
+     "grounds": "token as given; legacy hint meditated",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "mahādevyā",
      "gloss": "great-goddess",
-     "grounds": "instrumental goddess",
-     "morph": "f.instr.sg"
+     "grounds": "token as given; legacy hint great-goddess",
+     "morph": "f.ins.sg"
     },
     {
      "surface": "tayā",
      "gloss": "by-her",
-     "grounds": "instrumental pronoun",
-     "morph": "f.instr.sg"
+     "grounds": "token as given; legacy hint by-her",
+     "morph": "f.ins.sg"
     },
     {
      "surface": "devaḥ",
      "gloss": "god",
-     "grounds": "subject",
+     "grounds": "token as given; legacy hint god",
      "morph": "m.nom.sg"
     },
     {
      "surface": "prakāśate",
      "gloss": "shines",
-     "grounds": "manifestation verb",
-     "morph": "3.sg.act-pres+prakāś"
+     "grounds": "token as given; legacy hint shines",
+     "morph": "3.sg.act-pres"
     }
    ],
-   "question": "Who shines when meditated by the great goddess?",
+   "question": "What shines by the great goddess?",
    "premises": [
-    "dhyātāttayo sets meditation",
-    "mahādevyā tayā sets agent",
-    "devaḥ prakāśate states shining"
+    "dhyātāttayo means meditated",
+    "mahādevyā means great-goddess",
+    "prakāśate means shines"
    ],
-   "inference": "When meditated by the great goddess, the god shines forth.",
+   "inference": "Meditated by great goddess, by her god shines.",
    "uncertainties": [
-    "parsing of dhyātāttayo"
+    "subject relation"
    ],
-   "plain_english": "When meditated by the great goddess, the god shines forth."
+   "plain_english": "Meditated by the great goddess, by her god shines."
   },
   {
    "verse": 35,
@@ -427,45 +427,45 @@
     {
      "surface": "dṛṣṭe",
      "gloss": "seen",
-     "grounds": "participle",
-     "morph": "m.loc.sg+drś"
+     "grounds": "token as given; legacy hint seen",
+     "morph": "loc.sg"
     },
     {
      "surface": "bindau",
      "gloss": "bindu",
-     "grounds": "locative bindu",
-     "morph": "m.loc.sg"
+     "grounds": "token as given; legacy hint bindu",
+     "morph": "loc.sg"
     },
     {
      "surface": "kramālīne",
      "gloss": "gradually-dissolved",
-     "grounds": "fused compound",
-     "morph": "m.loc.sg"
+     "grounds": "token as given; legacy hint gradually-dissolved",
+     "morph": "loc.sg"
     },
     {
      "surface": "tanmadhye",
      "gloss": "its-middle",
-     "grounds": "fused compound",
-     "morph": "n.loc.sg"
+     "grounds": "token as given; legacy hint its-middle",
+     "morph": "loc.sg"
     },
     {
      "surface": "paramāsthitiḥ",
      "gloss": "supreme-state",
-     "grounds": "result state",
+     "grounds": "token as given; legacy hint supreme-state",
      "morph": "f.nom.sg"
     }
    ],
-   "question": "Where is the supreme state when bindu dissolves?",
+   "question": "What supreme state arises in bindu middle?",
    "premises": [
-    "dṛṣṭe bindau sets seen bindu",
-    "kramālīne sets dissolution",
-    "paramāsthitiḥ names state"
+    "dṛṣṭe means seen",
+    "bindau means bindu",
+    "paramāsthitiḥ means supreme-state"
    ],
-   "inference": "When the seen bindu gradually dissolves, the supreme state is in its middle.",
+   "inference": "Seen in gradually dissolved bindu, supreme state is in its middle.",
    "uncertainties": [
-    "locative agreement of kramālīne"
+    "temporal sequence"
    ],
-   "plain_english": "When the seen bindu gradually dissolves, the supreme state is in its middle."
+   "plain_english": "Seen in gradually dissolved bindu, supreme state is in its middle."
   },
   {
    "verse": 36,
@@ -473,51 +473,51 @@
     {
      "surface": "binduṃ",
      "gloss": "bindu",
-     "grounds": "accusative object",
+     "grounds": "token as given; legacy hint bindu",
      "morph": "m.acc.sg"
     },
     {
      "surface": "śikhānte",
      "gloss": "crest-end",
-     "grounds": "locative end",
-     "morph": "m.loc.sg"
+     "grounds": "token as given; legacy hint crest-end",
+     "morph": "loc.sg"
     },
     {
      "surface": "hṛdaye",
      "gloss": "heart",
-     "grounds": "locative heart",
-     "morph": "n.loc.sg"
+     "grounds": "token as given; legacy hint heart",
+     "morph": "loc.sg"
     },
     {
      "surface": "layānte",
      "gloss": "dissolution-end",
-     "grounds": "locative end",
-     "morph": "m.loc.sg"
+     "grounds": "token as given; legacy hint dissolution-end",
+     "morph": "loc.sg"
     },
     {
      "surface": "dhyāyate",
      "gloss": "meditates",
-     "grounds": "meditation verb",
-     "morph": "3.sg.act-pres+dhī"
+     "grounds": "token as given; legacy hint meditates",
+     "morph": "3.sg.mid-pres"
     },
     {
      "surface": "layaḥ",
      "gloss": "dissolution",
-     "grounds": "result state",
+     "grounds": "token as given; legacy hint dissolution",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What happens when meditating on bindu at crest-end?",
+   "question": "What dissolution occurs when meditating bindu?",
    "premises": [
-    "binduṃ sets object",
-    "śikhānte hṛdaye sets locus",
-    "layaḥ names result"
+    "binduṃ means bindu",
+    "dhyāyate means meditates",
+    "layaḥ means dissolution"
    ],
-   "inference": "Meditating on bindu at crest-end and heart, dissolution results.",
+   "inference": "Meditating bindu at crest-end heart dissolution-end, dissolution.",
    "uncertainties": [
-    "relation of layānte to dhyāyate"
+    "object placement"
    ],
-   "plain_english": "Meditating on bindu at crest-end and heart, dissolution results."
+   "plain_english": "Meditating bindu at crest-end heart dissolution-end, dissolution."
   },
   {
    "verse": 37,
@@ -525,45 +525,45 @@
     {
      "surface": "śabdabrahmaṇi",
      "gloss": "sound-brahman",
-     "grounds": "locative compound",
-     "morph": "n.loc.sg"
+     "grounds": "token as given; legacy hint sound-brahman",
+     "morph": "loc.sg"
     },
     {
      "surface": "niṣṇātaḥ",
      "gloss": "immersed",
-     "grounds": "participle",
-     "morph": "m.nom.sg+niṣṇā"
+     "grounds": "token as given; legacy hint immersed",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "accusative qualifier",
+     "grounds": "token as given; legacy hint supreme",
      "morph": "n.acc.sg"
     },
     {
      "surface": "brahmādhi",
      "gloss": "brahman",
-     "grounds": "fused compound",
-     "morph": "n.acc.sg"
+     "grounds": "token as given; legacy hint brahman",
+     "morph": "loc.sg"
     },
     {
      "surface": "gacchati",
      "gloss": "goes",
-     "grounds": "motion verb",
-     "morph": "3.sg.act-pres+gam"
+     "grounds": "token as given; legacy hint goes",
+     "morph": "3.sg.act-pres"
     }
    ],
-   "question": "Where does one immersed in sound-brahman go?",
+   "question": "Where does immersed sound-brahman go?",
    "premises": [
-    "śabdabrahmaṇi sets locus",
-    "niṣṇātaḥ sets state",
-    "paraṃ brahmādhi sets goal"
+    "śabdabrahmaṇi means sound-brahman",
+    "niṣṇātaḥ means immersed",
+    "gacchati means goes"
    ],
-   "inference": "Immersed in sound-brahman, one goes to supreme brahman.",
+   "inference": "Immersed in sound-brahman, goes to supreme brahman.",
    "uncertainties": [
     "compound brahmādhi"
    ],
-   "plain_english": "Immersed in sound-brahman, one goes to supreme brahman."
+   "plain_english": "Immersed in sound-brahman, goes to supreme brahman."
   }
  ]
 }

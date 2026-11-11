@@ -1,15 +1,15 @@
 {
  "song": "vij-p02",
  "verse": 34,
- "question": "Who shines when meditated by the great goddess?",
+ "question": "What shines by the great goddess?",
  "premises": [
-  "dhyātāttayo sets meditation",
-  "mahādevyā tayā sets agent",
-  "devaḥ prakāśate states shining"
+  "dhyātāttayo means meditated",
+  "mahādevyā means great-goddess",
+  "prakāśate means shines"
  ],
- "inference": "When meditated by the great goddess, the god shines forth.",
+ "inference": "Meditated by great goddess, by her god shines.",
  "uncertainties": [
-  "parsing of dhyātāttayo"
+  "subject relation"
  ],
- "plain_english": "When meditated by the great goddess, the god shines forth."
+ "plain_english": "Meditated by the great goddess, by her god shines."
 }

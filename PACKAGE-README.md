@@ -75,3 +75,14 @@ python3 tools/beam_swarm.py worker w1   # one worker; w1..w3 max (free-tier thro
   is lost).
 - R2 snapshot of this box (full restore): `r2:opencode2-root/fs/root/`
   (see `/root/r2root-RESTORE.md` on the source box).
+
+## 7. Pull from R2 (no git needed)
+
+```
+rclone copy r2:opencode2-root/packages/translation-work/2026-11-11/ /work/tw/ --progress
+cd /work/tw && tar -xzf translation-work-2026-11-11.tar.gz
+# or: rclone cat r2:.../manifest.json   (sha256 + commit + file count)
+```
+Manifest is authoritative: verify sha256 before use. `.env` and worker
+drafts (`process/beam/runs/`) are deliberately excluded — request
+OPENCODE_GO_KEY from the owner; drafts regenerate by re-seeding.
