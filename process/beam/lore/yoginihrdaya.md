@@ -27,3 +27,5 @@ Jeanty (English, OUP 2013); Amṛtānanda's Dīpikā; Bhāskararāya's Setubandh
 - Dīpikā is commentary; mark its expansions.
 - Chapter numbering differs between the 3-chapter YH and the 8-chapter
   composite — always state which scheme.
+
+**Ledger (LOCK):** yoginī = the goddess; śrīcakra = the diagram (Tripurasundarī with Bhairava); śrīvidyā = the sixteen-syllable mantra; kūṭa = mantra division (vāgbhava/kāmarāja/śakti); dīpikā = Amṛtānanda's commentary; setubandha = Bhāskararāya's commentary.

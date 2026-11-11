@@ -40,8 +40,8 @@ def audit(fix: bool) -> dict:
 
     groups: dict = {}
     for t in q:
-        if t.get("kind") != "tal_triple" or t.get("status") in ("failed", "superseded"):
-            continue
+        if t.get("kind") != "tal_triple" or t.get("status") not in ("pending", "claimed"):
+            continue  # audit LIVE work only — history is history
         a = t.get("args") or {}
         vs = a.get("verses") or []
         if not vs:

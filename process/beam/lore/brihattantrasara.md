@@ -21,3 +21,5 @@
 2. **Ten Mahāvidyās** frame; Mahācīnācāra appears in Tārā-related material.
 3. Buddhist deities/mantras appear legitimately — gloss as given.
 4. Ritual/prayoga register dominates: exactness over philosophy.
+
+**Ledger (LOCK):** nibandha = encyclopedic citation-compilation; mahāvidyā = the ten goddesses; prayoga = applied mantra ritual; paśu/vīra/divya = practitioner grades.

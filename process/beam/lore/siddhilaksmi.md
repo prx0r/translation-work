@@ -28,3 +28,5 @@ Vernacular Rituals of Siddhilakṣmī"; Sanderson 1990; Dyczkowski 2000
 3. Ritual-manual genre: exact substances, mantras, sequence.
 4. Public name ≠ textual name; note dissimulation, do not "identify" her
    with the popular temple deity without evidence.
+
+**Ledger (LOCK):** siddhilakṣmī = the accomplished Lakṣmī (kāpālika form); āmnāya = transmission stream (hers = northern/uttara); krama-dīkṣā = initation into all streams; kula-devatā = clan deity; vātula = the corpse-borne mount.

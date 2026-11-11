@@ -20,3 +20,5 @@ Subhagānandanātha; Woodroffe's English is dated but usable.*
 - Woodroffe's translation is dated; verify technical terms against the
   Sanskrit and Manoramāṭīṭīkā.
 - Do not merge Nityā with the Krama's 13 Kālīs — different cycles.
+
+**Ledger (LOCK):** nityā = the lunar-phase goddess cycle; manoramāṭīkā = the traditional commentary; kāma = the love-magic register; tripurasundarī = the deity.

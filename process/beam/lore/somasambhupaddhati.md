@@ -15,3 +15,5 @@
 2. **Who does what**: mantras, nyāsas, homas belong to the ācārya; material
    work to the śilpin. Keep the actor distinct.
 3. Brunner's French is the reference; adopt her term renderings.
+
+**Ledger (LOCK):** paddhati = ordered ritual procedure; ācārya = the ritual actor (mantras/nyāsas/homas); śilpin = the artisan (material work); pratiṣṭhā = installation.

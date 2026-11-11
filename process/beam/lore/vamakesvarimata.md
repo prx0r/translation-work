@@ -16,3 +16,5 @@
 - Same 16-syllable mantra system as YH; kūṭa terminology must match the
   YH brief.
 - Distinguish the 5-chapter VMT from the 8-chapter composite when citing.
+
+**Ledger (LOCK):** vāmakeśvarī = the goddess; nityāṣoḍaśikārṇava = the alternate name (NSA); kūṭa = mantra division; prayoga = applied ritual; tripurasundarī = the deity.

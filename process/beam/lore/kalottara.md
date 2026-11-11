@@ -12,3 +12,5 @@ and (for Aghoraśiva) the Mṛgendra, NOT from the root Rudrabheda/Śivabheda
 1. **Identify WHICH Kālottara** before glossing (text, chapter count).
 2. Ritual-procedural genre: imperatives, substances, mantras — exactness.
 3. No doctrine-first reading: it is a ritual base, not a philosophical work.
+
+**Ledger (LOCK):** paddhati = ritual manual (derives from this text); kālottara = 'the Kālottara' auxiliary scripture (identify which recension); vidhi = procedure; dīkṣā = initiation.

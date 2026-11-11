@@ -24,3 +24,5 @@
 - The autocommentary (Parimala) is the author's own — it may be used for
   clarification but mark it as commentary, not mūla.
 - Do not flatten the synthesis into either parent tradition.
+
+**Ledger (LOCK):** mahārtha = the great meaning (Krama doctrine); pañcavāha = the five flows; ahaṃ/vimarśa/svātantrya = Utpaladeva's terms (legitimate here); parimala = the author's own commentary.

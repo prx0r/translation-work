@@ -20,3 +20,5 @@ studies); Muktabodha Northeast Indian Tantra page.*
 3. Bhakti/stotra register in the hymns (Tārābhaktisudhārṇava) — do not
    read ritual manuals as devotion or vice versa.
 4. The vṛttis (commentaries) are separate texts; mark them.
+
+**Ledger (LOCK):** tārā / ugratārā / nīlasarasvatī = the goddess forms; mahāvidyā = the ten-goddess canon; mahācīnācāra = the 'eastern' ritual modality; vṛtti = commentary; paśu/vīra/divya = grades.

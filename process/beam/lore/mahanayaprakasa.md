@@ -30,3 +30,5 @@ where inner/outer reaches **sāmarasya**.
   number and order are load-bearing.
 - Do not import Trika vocabulary; this is Krama liturgy.
 - Old Kashmiri text (Śitikaṇṭha): vernacular ≠ Sanskrit; mark language.
+
+**Ledger (LOCK):** mahānaya = the great way (Krama); pañcavāha = the five flows; prakāśa/ānanda/mūrti/vṛnda/anākhya = the five/six circles; melāpa = the yoginī assembly; sāmarasya = perfect fusion; the 13 Kālīs = perceptual phases.

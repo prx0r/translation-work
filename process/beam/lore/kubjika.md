@@ -32,3 +32,5 @@ Kaula Tradition (SUNY); Heilijgers-Seelen, Pañcacakra study (1994).*
 - **Nepalese ≠ origin.** Do not say "Nepalese tantra".
 - Recension: KMT (Kulālikāmnāya) vs Ṣaṭsahasra — state which text.
 - Śāradā-script mss are the base; readings differ from printed editions.
+
+**Ledger (LOCK):** kubjikā = the Crooked One, manonmanī (power beyond mind); kula = the divine energy; saṃvartāmaṇḍala = the octagonal diagram; navātman/naveśvara = consort; pañcacakra = the five cakras; vācika mudrā = seal of speech (fifty letters); krama-dīkṣā = sequential initation.

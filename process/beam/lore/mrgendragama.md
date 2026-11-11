@@ -22,3 +22,5 @@ GRETIL text by Goodall (2020).*
 - **Kṣemarāja is NOT a commentator here**; do not import his vocabulary.
 - Ritual enumeration is dense; each item exact.
 - Goodall/Brunner define terms precisely — follow them over older glosses.
+
+**Ledger (LOCK):** aṇu = the individual self (distinct from Śiva); pāda = division (Vidyā/Kriyā/Caryā/Yoga); dīkṣā = initiation; samayin/putraka/sādhaka/ācārya = the four initiate grades; vṛtti = Nārāyaṇakaṇṭha's commentary.

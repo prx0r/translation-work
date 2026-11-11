@@ -16,3 +16,5 @@ Kiraṇatantra, vol. I (ch. 1–6), IFP Publ. 86.1, 1998.*
 2. **Rāmakaṇṭha's vṛtti** is terse and technical; separate mūla from gloss.
 3. Technical vocabulary (tattvas, kalās, adhvans) must match Goodall's
    usage — that apparatus is the reference standard.
+
+**Ledger (LOCK):** Rāmakaṇṭha II = the 10th-c. commentator; vṛtti = commentary (only on the doctrinal portion); tattva/kalā/adhvan = the doctrinal inventories; siddhānta = the dualist system.
