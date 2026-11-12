@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound-member",
-   "grounds": "first member of compound satata-abhyāsa"
+   "morph": "compound=satata+first-member",
+   "grounds": "first member of compound with abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound-member",
-   "grounds": "second member of compound qualifying yogena"
+   "morph": "compound=abhyāsa+second-member",
+   "grounds": "second member of compound with yogena"
   },
   {
    "lemma": "yogena",
-   "morph": "m.ins.sg",
-   "grounds": "instrumental indicating means"
+   "morph": "m.inst.sg",
+   "grounds": "means of attaining the result"
   },
   {
    "lemma": "dvi",
-   "morph": "compound-member",
-   "grounds": "first member of compound dvi-aṣṭa"
+   "morph": "compound=dvi+first-member",
+   "grounds": "first member of compound with aṣṭa"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
-   "grounds": "second member of compound forming sixteen"
+   "morph": "compound=aṣṭa+second-member",
+   "grounds": "second member of compound with varṣa"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound-member",
-   "grounds": "third member of compound qualifying ākṛtiḥ"
+   "morph": "compound=varṣa+third-member",
+   "grounds": "third member of compound with ākṛtiḥ"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "subject of bhavet"
+   "grounds": "resulting appearance"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
-   "grounds": "main verb expressing result"
+   "morph": "3.sg.act-opt/√bhū",
+   "grounds": "expresses the resulting state"
   }
  ]
 }

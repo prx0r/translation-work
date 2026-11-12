@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound-member",
-   "grounds": "first member of compound candra-dvīpa"
+   "morph": "compound=candra+first-member",
+   "grounds": "first member of compound with dvīpa"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound-member",
-   "grounds": "second member of locative compound"
+   "morph": "compound=dvīpa+second-member",
+   "grounds": "second member of compound with vinirgate"
   },
   {
    "lemma": "vinirgate",
-   "morph": "m.loc.sg.past-participle",
-   "grounds": "locative participle qualifying paṭalaḥ"
+   "morph": "n.loc.sg",
+   "grounds": "describes the context of emergence"
   },
   {
    "lemma": "navamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ordinal adjective qualifying paṭalaḥ"
+   "grounds": "ordinal qualifier of the chapter"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject of the colophon statement"
+   "grounds": "subject completing the section"
   }
  ]
 }
