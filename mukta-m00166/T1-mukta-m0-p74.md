@@ -17,7 +17,7 @@
 [of-people](janasya) [mother](jananī) [may-be](bhūyāt) [Maināka](maināka) [sister](bhaginī) [for-prosperity](śriye)
 
 ## mukta-m0-p74-v1831
-[brotherhood](sodaryaṃ) [considers](kalayati) [here](amutra) [cessation](viratiṃ) [devotion](bhaktiḥ) [to-Bhava's-part](bhava+aṅka) [went](agamat)
+[brotherhood](sodaryaṃ) [perceives](kalayati) [here](amutra) [detachment](viratiṃ) [devotion](bhaktiḥ) [to-Bhavā's-part](bhavā+aṅka) [went](agamat)
 
 ## mukta-m0-p74-v1832
 [eleventh-day](ekādaśī) [devotion](bhaktiḥ) [eleventh-day](ekādaśī) [devotion](bhaktiḥ)
@@ -32,7 +32,7 @@
 [lightning](saudāminī) [lightning](saudāminī) [lightning](saudāminī) [lightning](saudāminī)
 
 ## mukta-m0-p74-v1836
-[well](su) [heated](tāpita) [inner-space](tara+antarā) [bed](śayana) [resort](saṃśraya) [going](āgāminī)
+[well](su) [heated](tāpita) [inner](tara) [interior](antarā) [bed](śayana) [resort](saṃśraya) [going](āgāminī)
 
 ## mukta-m0-p74-v1837
 [own-abode](sva+dhāmā) [own-abode](sva+dhāmā) [own-abode](sva+dhāmā) [own-abode](sva+dhāmā)
@@ -44,13 +44,13 @@
 [good-abode](su+dhāmā) [good-abode](su+dhāmā) [good-abode](su+dhāmā) [good-abode](su+dhāmā)
 
 ## mukta-m0-p74-v1840
-[beauty](śobhā) [bringing](āvahā) [that](tat) [renowned](prathitā) [good-abode](su+dhāmā)
+[beauty](cchobhā) [bringing](āvahā) [that](tat) [renowned](prathitā) [good-abode](su+dhāmā)
 
 ## mukta-m0-p74-v1841
-[splendor](dhāma) [possessing](śālinī) [splendor](dhāma) [possessing](śālinī)
+[abode](dhāma) [possessing](śālinī) [abode](dhāma) [possessing](śālinī)
 
 ## mukta-m0-p74-v1842
-[whose](yasya) [this](iyaṃ) [by-compassion](kṛpayā) [become](bhūtā) [gracious](prasannā) [splendor](dhāma) [possessing](śālinī)
+[whose](yasya) [this](iyaṃ) [by-compassion](kṛpayā) [become](bhūtā) [gracious](prasannā) [abode](dhāma) [possessing](śālinī)
 
 ## mukta-m0-p74-v1843
 [good-fortune](saubhāgya) [giving](dāyinī) [good-fortune](saubhāgya) [giving](dāyinī)
@@ -62,16 +62,16 @@
 [heaven](dyauḥ) [heaven](dyauḥ) [heaven](dyauḥ) [heaven](dyauḥ)
 
 ## mukta-m0-p74-v1846
-[childhood-etc.](bālya+ādyāḥ) [that](taṃ) [good-body](sat+śarīraṃ) [of-one-resorting](śritasya)
+[childhood](bālya) [etc.](ādi) [that](astaṃ) [good-body](sat+śarīraṃ) [of-one-who-resorted](śritasya)
 
 ## mukta-m0-p74-v1847
-[fortunate](subhagā) [fortunate](subhagā) [fortunate](subhagā) [fortunate](subhagā)
+[fortunate-woman](subhagā) [fortunate-woman](subhagā) [fortunate-woman](subhagā) [fortunate-woman](subhagā)
 
 ## mukta-m0-p74-v1848
 [whose](yasya) [he](saḥ) [also](api) [under-control](vaśaṃ) [led](nītaḥ) [by-whom](yayā) [she](sā) [fortunate](subhagā) [thus](iti) [true](sat)
 
 ## mukta-m0-p74-v1849
-[radiance](dyuti) [increasing](varddhinī) [radiance](dyuti) [increasing](varddhinī)
+[splendor](dyuti) [increasing](varddhinī) [splendor](dyuti) [increasing](varddhinī)
 
 ## mukta-m0-p74-v1850
-[always](sadā) [indeed](eva) [she](sā) [helper](sahāyā) [may-be](astu) [goddess](devatā) [radiance](dyuti) [increasing](varddhinī)
+[always](sadā) [indeed](eva) [she](sā) [companion](sahāyā) [may-be](astu) [goddess](devatā) [splendor](dyuti) [increasing](varddhinī)

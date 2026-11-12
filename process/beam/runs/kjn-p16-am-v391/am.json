@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 391,
- "question": "What certainty is affirmed for those devoted to constant practice in this matter?",
+ "question": "For whom is there no doubt about the attainment of this result?",
  "premises": [
-  "The matter at hand is specified.",
-  "Doubt is explicitly negated.",
-  "The affirmation concerns those devoted to constant practice."
+  "Some are devoted to constant practice.",
+  "For them the result comes about.",
+  "No doubt exists in this matter."
  ],
- "inference": "For those devoted to constant practice, there is no doubt in this matter.",
- "uncertainties": [],
- "plain_english": "There is no doubt here for those devoted to constant practice."
+ "inference": "Those devoted to constant practice attain the result without doubt.",
+ "uncertainties": [
+  "The exact subject of bhavate is implied rather than explicit."
+ ],
+ "plain_english": "For those devoted to constant practice, there is no doubt here."
 }
