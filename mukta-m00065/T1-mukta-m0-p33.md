@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[of-hara](harasya) [thus](evaṃ) [be](bhavet) [worship](arcā) [place](sthāne) [place](sthāne) [fruit-giving](phalapradā)
+of-Śiva(harasya) [evaṃ](evaṃ) should-be(bhavet) [arcā](arcā) in-place(sthāne) in-place(sthāne) fruit-giving(phalapradā)
 
 ## mukta-m0-p33-v802
-[frowning-terrifying](bhrukuṭībhīṣaṇaṃ) [black](kṛṣṇaṃ) [licking](lelihānaṃ) [and](ca) [tusked](draṃṣṭriṇam)
+with-brow-frown(bhrukuṭī)+terrifying(bhīṣaṇaṃ) black(kṛṣṇaṃ) licking(lelihānaṃ) and(ca) fanged(draṃṣṭriṇam)
 
 ## mukta-m0-p33-v803
-[snake-sacred-threaded](nāgopavītinaṃ) [shining](dīptaṃ) [snake-ornament-adorned](nāgābharaṇabhūṣitam)
+with-serpent(nāga)+sacred-thread(upavītinaṃ) blazing(dīptaṃ) with-serpent(nāga)+ornament(ābharaṇa)+adorned(bhūṣitam)
 
 ## mukta-m0-p33-v804
-[fourteen-armed-one-faced](caturdaśakaraikāsyaṃ) [gentle](saumyaṃ) [tiger-skin-garmented](vyāghrājināmbaram)
+fourteen(caturdaśa)+hand(kara)+one(eka)+faced(āsyaṃ) gentle(saumyaṃ) with-tiger(vyāghra)+skin(ajina)+garment(āmbaram)
 
 ## mukta-m0-p33-v805
-[skull-staff](khaṭvāṅgaṃ) [shield](kheṭakaṃ) [noose](pāśaṃ) [bow-fear-skull](cāpābhayakapālakam)
+skull-staff(khaṭvāṅgaṃ) shield(kheṭakaṃ) noose(pāśaṃ) bow(cāpa)+fearlessness(abhaya)+skull(kapālakam)
 
 ## mukta-m0-p33-v806
-[mother-beings-accompanied](mātṛbhūtānvitaṃ) [make](kuryāt) [bhairava](bhairavaṃ) [peace-making](śāntikārakam)
+with-mother(mātṛ)+beings(bhūta)+accompanied(anvitaṃ) one-should-make(kuryāt) Bhairava(bhairavaṃ) peace-making(śāntikārakam)
 
 ## mukta-m0-p33-v807
-[make](kuryāt) [aghora-bell-lord](aghoraghaṇṭeśaṃ) [sixteen-armed-adorned](dviraṣṭabhujamaṇḍitam)
+one-should-make(kuryāt) Aghora-ghaṇṭeśa(aghora+ghaṇṭeśaṃ) with-two(dvi)+eight(aṣṭa)+arm(bhuja)+adorned(maṇḍitam)
 
 ## mukta-m0-p33-v808
-[seated](upaviṣṭaṃ) [always](sadā) [black](kṛṣṇaṃ) [all-desires-giving](sarvakāmapradāyakam)
+seated(upaviṣṭaṃ) always(sadā) black(kṛṣṇaṃ) all(sarva)+desire(kāma)+granting(pradāyakam)
 
 ## mukta-m0-p33-v809
-[eighteen-armed](aṣṭādaśabhujaṃ) [make](kuryāt) [boon-fear](varadābhaya) [devoid](varjitam)
+eighteen(aṣṭādaśa)+armed(bhujaṃ) one-should-make(kuryāt) boon(varada)+fearlessness(abhaya) devoid-of(varjitam)
 
 ## mukta-m0-p33-v810
-[bell](ghṇṭāṃ) [drum](ḍamarukaṃ) [and](caiva) [axe](kuṭhāraṃ) [mallet](mudgaraṃ) [thus](tathā)
+bell(ghṇṭāṃ) drum(ḍamarukaṃ) and(ca) indeed(eva) axe(kuṭhāraṃ) hammer(mudgaraṃ) likewise(tathā)
 
 ## mukta-m0-p33-v811
-[all-enemies-removing](sarvaśatruharaṃ) [eternal](nityaṃ) [by-mothers](mātṛbhiḥ) [surrounded](parivāritam)
+all(sarva)+enemy(śatru)+destroying(haraṃ) always(nityaṃ) by-mothers(mātṛbhiḥ) surrounded(parivāritam)
 
 ## mukta-m0-p33-v812
-[tiger-skin-garment](vyāghrājināṃśuka) [gentle](saumyaṃ) [snake-sacrificial-threaded](nāgayajñopavītinam)
+with-tiger(vyāghra)+skin(ajina)+garment(aṃśuka) gentle(saumyaṃ) with-serpent(nāga)+sacred-thread(yajñopavītinam)
 
 ## mukta-m0-p33-v813
-[right](yāmye) [gentle](saumye) [and](ca) [bearing](bibhrāṇa) [by-two](dvābhyāṃ) [exposition](vyākhyānakaṃ) [thus](tathā)
+in-right(yāmye) in-left(saumye) and(ca) holding(bibhrāṇa) with-two(dvābhyāṃ) teaching-gesture(vyākhyānakaṃ) likewise(tathā)
 
 ## mukta-m0-p33-v814
-[golden](gauraṃ) [white-garmented](sitāmbaraṃ) [peaceful](śāntaṃ) [water-pot-endowed](kamaṇḍalusamanvitam)
+white(gauraṃ) with-white(sita)+garment(ambaraṃ) peaceful(śāntaṃ) with-water-pot(kamaṇḍalu)+endowed(samanvitam)
 
 ## mukta-m0-p33-v815
-[amṛta-āgama-hand](amṛtāgamahastaṃ) [and](ca) [make](kuryāt) [its-sides](tatpārśvayoḥ) [always](sadā)
+nectar(amṛta)+vessel(āgama)+in-hand(hastaṃ) and(ca) one-should-make(kuryāt) at-its-sides(tat+pārśvayoḥ) always(sadā)
 
 ## mukta-m0-p33-v816
-[half-moon-seat-seated](ardhacandrāsanāsīnaṃ) [white-lotus-middle-situated](śvetarājīvamadhyagam)
+on-half(ardha)+moon(candra)+seat(āsana)+seated(āsīnaṃ) in-white(śveta)+lotus(rājīva)+middle(madhyagam)
 
 ## mukta-m0-p33-v817
-[divine-lion-seat-seated](divyasiṃhāsanāsīnaṃ) [by-brahma-etc](brahmādyaiḥ) [surrounded](parivāritam)
+on-divine(divya)+lion-throne(siṃhāsana)+seated(āsīnaṃ) by-Brahmā(brahma)+and-others(ādyaiḥ) surrounded(parivāritam)
 
 ## mukta-m0-p33-v818
-[skull-garlanded](kapālamālinaṃ) [white](śvetaṃ) [yoga-posture](yogāsanaṃ) [lotus-situated](kajasthitam)
+with-skull(kapāla)+garland(mālinaṃ) white(śvetaṃ) in-yoga(yoga)+posture(āsanaṃ) on-lotus(kaja)+situated(sthitam)
 
 ## mukta-m0-p33-v819
-[trident](triśūlaṃ) [and](ca) [rosary](akṣasūtraṃ) [and](ca) [bearing](bibhrāṇaṃ) [right](dakṣiṇe) [hand](kare)
+trident(triśūlaṃ) and(ca) rosary(akṣa+sūtraṃ) and(ca) holding(bibhrāṇaṃ) in-right(dakṣiṇe) hand(kare)
 
 ## mukta-m0-p33-v820
-[make](kuryāt) [death-conqueror](mṛtyuñjayaṃ) [god](devaṃ) [death-disease-destroying](mṛtyurogavināśakam)
+one-should-make(kuryāt) Mṛtyuñjaya(mṛtyuñjayaṃ) god(devaṃ) death(mṛtyu)+disease(roga)+destroying(vināśakam)
 
 ## mukta-m0-p33-v821
-[left-side](vāmāṅge) [woman](lalanā) [to-be-made](kāryā) [woman-ornament-endowed](yoṣidābharaṇānvitā)
+on-left(vāma)+limb(aṅge) woman(lalanā) to-be-made(kāryā) with-female(yoṣid)+ornament(ābharaṇa)+endowed(anvitā)
 
 ## mukta-m0-p33-v822
-[lord](īśe) [trident](śūlaṃ) [skull](kapālaṃ) [and](ca) [left](vāme) [muttering](jāpyam) [then](atha) [lotus](utpalam)
+in-Śiva’s-hand(īśe) trident(śūlaṃ) skull(kapālaṃ) and(ca) in-left(vāme) rosary(jāpyam) then(atha) lotus(utpalam)
 
 ## mukta-m0-p33-v823
-[earring-adorned](kuṇḍalālaṅkṛtaḥ) [gentle](saumyo) [two-armed](dvibhujo) [two-tiger-skin-bearing](dvipicarmabhṛt)
+with-earring(kuṇḍala)+adorned(alaṅkṛtaḥ) gentle(saumyaḥ) two-armed(dvi+bhujaḥ) elephant(dvi+pi)+skin(carma)+bearing(bhṛt)
 
 ## mukta-m0-p33-v824
-[mutually](mithaḥ) [looking-at-each-other-faced](saṃvīkṣyamāṇāsyo) [right-hand-situated-lotus](yāmyahastasthitotpalaḥ)
+mutually(mithaḥ) gazing-at-each-other(saṃvīkṣyamāṇa)+faced(āsyaḥ) in-right(yāmya)+hand(hasta)+situated(sthita)+lotus(utpalaḥ)
 
 ## mukta-m0-p33-v825
-[to-be-done](vidheyaḥ) [by-scripture-knowers](śāstravidvadbhiḥ) [upright-linga](ūrdhvaliṅga) [uma-lord](umeśvaraḥ)
+to-be-fashioned(vidheyaḥ) by-scripture(śāstra)+knowing(vid)+wise-men(vadbhiḥ) with-upward(ūrdhva)+liṅga(liṅgaḥ) Umā’s-lord(umā+īśvaraḥ)

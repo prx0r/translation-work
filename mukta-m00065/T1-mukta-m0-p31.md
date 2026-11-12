@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[penis-length](mehanastryaṅgulo) [by-cubit](dairghyātyariṇāhe) [from-circumference](pariṇāhāt) [six-angulas](ṣaḍaṅgulaḥ)
+[length](mehanastryaṅgulo) [by-length](dairghyātyariṇāhe) [by-circumference](pariṇāhāt) [six-fingered](ṣaḍaṅgulaḥ)
 
 ## mukta-m0-p31-v752
-[of-anus](pāyośca) [and-testicles](vṛṣaṇasyānta) [in-breadth](vistāreṇa) [two-globes](dvigolakam)
+[of-the-penis](pāyoḥ) [and-of-the-scrotum](ca+vṛṣaṇasya) [at-the-inner-width](antavistāreṇa) [two-golaka](dvigolakam)
 
 ## mukta-m0-p31-v753
-[below-that](tadadhaḥ) [on-calf](piṇḍikāyāṃ) [and](ca) [on-shin](jaṅghāyāṃ) [above-ankle](ghaṇṭikordhvataḥ)
+[below-that](tad+adhaḥ) [on-the-calf](piṇḍikāyāṃ) [and](ca) [on-the-shank](jaṅghāyāṃ) [above-the-ankle](ghaṇṭikā+ūrdhvataḥ)
 
 ## mukta-m0-p31-v754
-[thus](evaṃ) [breadth](vistāra) [of-these](eteṣāṃ) [girth](veṣṭanaṃ) [threefold-excess](triguṇādhikam)
+[thus](evaṃ) [the-widths](vistāraḥ) [of-these](eteṣāṃ) [the-wrapping](veṣṭanaṃ) [three-times-greater](triguṇa+adhikam)
 
 ## mukta-m0-p31-v755
-[arms-shins-tips](bhujajaṅghāgrake) [and](ca) [eva](eva) [own-breadth-threefold-girth](svavistārāttriveṣṭanam)
+[on-the-arm](bhuja) [and-on-the-shank-tip](jaṅghā+agra+ke) [and](ca+eva) [from-its-own-width](sva+vistārāt) [three-fold-wrapping](tri+veṣṭanam)
 
 ## mukta-m0-p31-v756
-[women-eighth-part](nāryaṣṭāṃśā) [and](ca) [slender-limbed](tanvaṅgī) [eye](cakṣuḥ) [hips](śroṇī) [breasts-excess](stanādhikā)
+[one-eighth](nārya+ aṣṭāṃśā) [and](ca) [slender-limbed](tanvaṅgī) [eyes](cakṣuḥ) [hips](śroṇī) [with-breasts-larger](stanā+adhikā)
 
 ## mukta-m0-p31-v757
-[in-middle](tanmadhyatastvadhobhāge) [hole](randhraṃ) [syāt](syāt) [elephant-lip-like](kuñjaroṣṭhavat)
+[in-the-middle-of-that](tan+madhyataḥ) [below](tu+adhaḥ+bhāge) [an-orifice](randhraṃ) [should-be](syāt) [like-an-elephant-lip](kuñjara+oṣṭhavat)
 
 ## mukta-m0-p31-v758
-[round](vṛttaṃ) [veda-ring](vedāsrakaṃ) [and](ca) [face](āsyaṃ) [make](kuryāt) [for-pretas-etc](pretādirakṣasām)
+[round](vṛttaṃ) [like-a-veda-arrow](vedāsrakaṃ) [and](ca) [the-mouth](āsyaṃ) [should-make](kuryāt) [for-pretas-and-rākṣasas](preta+ādi+rakṣasām)
 
 ## mukta-m0-p31-v759
-[of-brahma-vishnu-hara-etc](brahmaviṣṇuharādīnāṃ) [in-brief](saṃkṣepāt) [mark](lakṣma) [and](ca) [is-said](ucyate)
+[of-Brahmā-Viṣṇu-Hara-and-others](brahma+viṣṇu+hara+ādīnām) [in-brief](saṃkṣepāt) [the-lakṣaṇa](lakṣma) [and](ca) [is-taught](ucyate)
 
 ## mukta-m0-p31-v760
-[of-chest-arms-thighs-shins](vakṣobāhūrujaṅghānāṃ) [of-hands-etc](karādīnāṃ) [in-order](krameṇa) [tu](tu)
+[of-the-breast](vakṣaḥ) [of-the-arms](bāhū) [of-the-thighs](ūru) [and-of-the-shanks](jaṅghānāṃ) [of-the-hands-and-others](karādīnāṃ) [in-order](krameṇa) [indeed](tu)
 
 ## mukta-m0-p31-v761
-[two-two](dve dve) [and](ca) [eva](eva) [angulas](aṅgule) [given](deye) [in-faces-etc](vaktrādiṣu) [in-order](yathākramam)
+[two](dve) [two](dve) [and-indeed](ca+eva) [aṅgulas](aṅgule) [should-be-given](deye) [in-the-face-and-others](vaktra+ādiṣu) [in-order](yathākramam)
 
 ## mukta-m0-p31-v762
-[dwarf](vāmanaḥ) [five-talas](pañcatālaśca) [with-bhuta-parts](bhūtāṃśaiḥ) [lame-hunchback](paṅgukubjakau)
+[a-dwarf](vāmanaḥ) [and-a-five-tāla](pañcatālaḥ+ca) [by-bhūta-portions](bhūtāṃśaiḥ) [the-lame-and-the-hunchback](paṅgu+kubjakau)
 
 ## mukta-m0-p31-v763
-[having-known](buddhvā buddhvā) [tu](tu) [with-effort](yatnena) [with-subtle-sight](sūkṣmadṛṣṭyā) [expert](vicakṣaṇaḥ)
+[knowing](buddhvā) [knowing](buddhvā) [indeed](tu) [carefully](yatnena) [with-subtle-sight](sūkṣma+dṛṣṭyā) [the-discerning-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p31-v764
-[not-from-measure](acatanmānataḥ) [to-be-done](kāryāḥ) [all-limb-ornamented](sarvāvayavabhūṣitā)
+[not-exceeding-the-measure](acatan+mānataḥ) [should-be-made](kāryāḥ) [adorned-with-all-limbs](sarva+avayava+bhūṣitā)
 
 ## mukta-m0-p31-v765
-[with-postures](sthānakaiḥ) [with-karanas](karaṇairyuktā) [image](pratimaiṣā) [fruit-giving](phalapradā)
+[endowed-with-postures](sthānakaiḥ) [and-with-movements](karaṇaiḥ+yuktā) [this-image](pratimā+eṣā) [fruit-giving](phala+pradā)
 
 ## mukta-m0-p31-v766
-[crooked-limbed](vakrāṅgī) [flat](cipiṭā) [wretched](dīnā) [thin](kṛśa) [limbed](gātrī) [and](ca) [fierce](raudrikā)
+[crooked-limbed](vakrāṅgī) [flat-nosed](cipiṭā) [wretched](dīnā) [thin-bodied](kṛśa+gātrī) [and-fierce](ca+raudrikā)
 
 ## mukta-m0-p31-v767
-[contracting](saṅkocakārikā) [stiff](stabdhā) [deficient-faced](hīnavaktrā) [and](ca) [disease-giving](rogadā)
+[contracted-bodied](saṅkoca+kārikā) [stiff](stabdhā) [and-small-faced](hīna+vaktrā) [and](ca) [disease-giving](roga+dā)
 
 ## mukta-m0-p31-v768
-[deficient-shin](hīnajaṅghā) [for-comfort](risaukhyāthaṃ) [dry](śuṣkā) [syāt](syānnṛpanāśinī)
+[short-shanked](hīna+jaṅghā) [for-the-destruction-of-enemies-and-happiness](ari+saukhya+artham) [dried-up](śuṣkā) [would-be](syāt) [king-destroying](nṛpa+nāśinī)
 
 ## mukta-m0-p31-v769
-[agitation-causing](udvegajananī) [sā](sā) [tu](tu) [wandering](bhrāmaṇī) [and](ca) [always](sadā) [bhavet](bhavet)
+[agitation-producing](udvega+jananī) [that](sā) [indeed](tu) [should-always-be](sadā) [a-causer-of-wandering](bhrāmaṇī) [and](ca) [become](bhavet)
 
 ## mukta-m0-p31-v770
-[crooked-limbed](vakrāṅgyarthāṅganāśāya) [for-destruction](arthāṅganāśāya) [flat](cipiṭā) [pain-giving](duḥkhadāyinī)
+[crooked-limbed](vakrāṅgī) [for-the-destruction-of-wealth-and-women](artha+aṅga+nanāśāya) [flat-nosed](cipiṭā) [sorrow-giving](duḥkha+dāyinī)
 
 ## mukta-m0-p31-v771
-[wealth-destroying](dhanaghnī) [and](ca) [thin-limbed](kṛśāṅgī) [syāt](syācchasyaghnī) [crop-destroying](śasyaghnī) [tu](tu) [thin-bellied](kṛśodarī)
+[wealth-destroying](dhana+ghnī) [and](ca) [thin-limbed](kṛśāṅgī) [would-be](syāt) [crop-destroying](śasya+ghnī) [indeed](tu) [thin-bellied](kṛśa+udarī)
 
 ## mukta-m0-p31-v772
-[friend-wealth-sons](suhṛddhanasutāṃstasmātkāryā) [therefore](tasmāt) [make](kāryā) [good-marks](sallakṣaṇāḥ) [always](sadā)
+[well-wishers](suhṛt) [wealth](dhana) [and-sons](sutān) [from-that](tasmāt) [should-be-made](kāryāḥ) [well-lakṣaṇaed](sal+lakṣaṇāḥ) [always](sadā)
 
 ## mukta-m0-p31-v773
-[shadow-gone](chāyāgataṃ) [and](ca) [all-limb](sarvāṅga) [wall](bhittikaṃ) [thrown](kṣiptakaṃ) [tathā](tathā)
+[shadow-reached](chāyā+gataṃ) [and](ca) [all-limbed](sarva+aṅga) [on-a-wall](bhittikaṃ) [thrown](kṣiptakaṃ) [and](tathā)
 
 ## mukta-m0-p31-v774
-[karanas](karaṇāni) [hundred](śataṃ) [and](ca) [eight](aṣṭau) [vyantarā](vyantarā) [and](ca) [ati-vistarāḥ](ativistarāḥ)
+[the-movements](karaṇāni) [one-hundred](śataṃ) [and-eight](ca+aṣṭau) [the-vyantaras](vyantarāḥ) [and-excessively-broad](ati+vistarāḥ)
 
 ## mukta-m0-p31-v775
-[thus](iti) [mark-collection](lakṣaṇasamuccaye) [manifest-sign-mark](vyaktaliṅgalakṣaṇaṃ) [nāma](nāma) [fifth](pañcamo) [vidhiḥ](vidhiḥ)
+[thus](iti) [in-the-Lakṣaṇasamuccaya](lakṣaṇa+samuccaye) [the-chapter-on-distinct-lakṣaṇa-of-limbs](vyakta+liṅga+lakṣaṇaṃ) [named](nāma) [fifth](pañcamaḥ) [rule](vidhiḥ)
