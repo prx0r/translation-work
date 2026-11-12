@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p281-v7001
-[sun](savitā) [pūṣan-ray-possessing](pūṣāṃśumān) [viṣṇu](viṣṇu) [twelve-suns](rdvādaśārkā) [declared](udāhṛtāḥ)
+[savitṛ](savitā) [pūṣan](pūṣā) [ray-possessing](aṃśumān) [viṣṇu](viṣṇu) [twelve](rdvādaśa) [suns](arkā) [declared](udāhṛtāḥ)
 
 ## mukta-m0-p281-v7002
-[having-worshipped](yaṣṭvā) [bowing-incense](praṇāmadhūpaiḥ) [and](ca) [ghee-offerings](ghṛtāhutibhiḥ) [indeed](eva) [and](ca)
+[having-worshipped](yaṣṭvā) [with-obeisances](praṇāma) [and-with-incenses](dhūpaiśca) [with-ghee](ghṛta) [oblations](āhutibhiḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p281-v7003
-[gandharvas-apsarasas](gandharvāpsarasaḥ) [to-be-worshipped](pūjyāḥ) [citra-sena](citra) [agni-sena](senāgnisenakaḥ)
+[gandharvas](gandharvā) [and-apsarases](apsarasaḥ) [to-be-worshipped](pūjyāḥ) [citra](citra) [sena](sena) [agni](agni) [senaka](senakaḥ)
 
 ## mukta-m0-p281-v7004
-[sūryavarcas](sūryavarcā) [yuga-son](yugaputro) [suśirā](suśirāmara) [nandin](nandinau)
+[sun-splendor](sūryavarcā) [yuga-son](yugaputro) [suśira](suśirā) [amara](amara) [nandins](nandinau)
 
 ## mukta-m0-p281-v7005
-[earth-lord](urvīśaḥ) [and](ca) [kali](kaliḥ) [and](ca) [eva](eva) [mountain](parvataḥ) [nārada](nāradaḥ) [thus](tathā)
+[urvīśa](urvīśaḥ) [and](ca) [kali](kaliḥ) [and](ca) [indeed](eva) [parvata](parvato) [nārada](nāradaḥ) [likewise](tathā)
 
 ## mukta-m0-p281-v7006
-[kṛtavīrya](kṛtavīryo) [brahmacārin](brahmacārī) [suparṇa](suparṇo) [fish](mīnaḥ) [thus](ityapi)
+[kṛtavīrya](kṛtavīryo) [celibate](brahmacārī) [suparṇa](suparṇo) [mīna](mīna) [thus](iti) [also](api)
 
 ## mukta-m0-p281-v7007
-[unmade-ones](akṛtayaḥ) [impelling](codayantyo) [gandhavatīs](gandhavatyastataḥ) [then](param)
+[akṛtas](akṛtayaḥ) [and-impelling-ones](codayantyo) [gandhavatīs](gandhavatyāḥ) [then](tataḥ) [further](param)
 
 ## mukta-m0-p281-v7008
-[stavas](stavāḥ) [and](ca) [eva](eva) [amṛtās](amṛtā) [modas](modāḥ) [suśivās](suśivāstu) [then](tataḥ) [param](param)
+[praises](stavāḥ) [and](ca) [indeed](eva) [immortal](amṛtā) [joys](modāḥ) [very-auspicious](suśivāḥ) [then](tu) [thereafter](tataḥ) [further](param)
 
 ## mukta-m0-p281-v7009
-[menakā](menakā) [sahajanyā](sahajanyā) [and](ca) [that-previous](tatpūrvā) [puñjikasthalā](puñjikasthalā)
+[menakā](menakā) [sahajanyā](sahajanyā) [and](ca) [before-that](tatpūrvā) [puñjikasthalā](puñjikasthalā)
 
 ## mukta-m0-p281-v7010
-[pramlocā](pramlocantyunumlocantī) [unumlocā](unumlocantī) [mocayantī](mocayantya) [nugā](nugā) [then](tataḥ)
+[pramlocantī](pramlocantī) [anumlocantī](anumlocantī) [mocayantī](mocayantī) [anugā](anugā) [then](tataḥ)
 
 ## mukta-m0-p281-v7011
-[dāsyariṣṭā](dāsyariṣṭā) [manovartī](manovartī) [sukeśā](sukeśāca) [and](ca) [tilottamā](tilottamā)
+[dāsyariṣṭā](dāsyariṣṭā) [manovartī](manovartī) [sukeśā](sukeśā) [and](ca) [tilottamā](tilottamā)
 
 ## mukta-m0-p281-v7012
-[twenty-four](caurviṃśati) [numbered](saṃkhyātāḥ) [with-fragrances](sugandhaiśc) [with-good-garlands](sumālyakaiḥ)
+[twenty-four](caurviṃśati) [numbered](saṃkhyātāḥ) [with-fragrances](sugandhaiḥ) [and](ca) [with-good-garlands](sumālyakaiḥ)
 
 ## mukta-m0-p281-v7013
-[yakṣas](yakṣānsaṃpūjyette) [to-be-worshipped](saṃpūjyette) [and](ca) [mahāvaiśravaṇa](mahāvaiśravaṇastathā) [thus](tathā)
+[yakṣas](yakṣān) [one-should-worship](saṃpūjyet) [these](te) [and](ca) [mahāvaiśravaṇa](mahāvaiśravaṇaḥ) [likewise](tathā)
 
 ## mukta-m0-p281-v7014
-[vidhṛta](vidhṛtaḥ) [pūrṇabhadra](pūrṇabhadro) [atha](aṭha) [virūpākṣa](virūpākṣo) [eight-yakṣa-king](aṣṭayakṣarāṭ)
+[vidhṛta](vidhṛtaḥ) [pūrṇabhadra](pūrṇabhadraḥ) [then](aṭha) [virūpākṣa](virūpākṣaḥ) [eight](aṣṭa) [yakṣa-lords](yakṣarāṭ)
 
 ## mukta-m0-p281-v7015
-[then](tato) [nīlācala](nīlācale) [siddhas](siddhā) [mantra-knower](mantrajño) [mantra-best-knower](mantravittamaḥ)
+[then](tato) [on-nīlācala](nīlācale) [siddhas](siddhā) [mantra-knower](mantrajño) [best-mantra-knower](mantravittamaḥ)
 
 ## mukta-m0-p281-v7016
-[siddhi](siddhi) [param-siddha](matparamassiddhaḥ) [thus](tathā) [kesarabhadraka](kesarabhadrakaḥ)
+[siddhi-possessing](siddhi) [supreme](matparamaḥ) [siddha](siddhaḥ) [likewise](tathā) [kesarabhadraka](kesarabhadrakaḥ)
 
 ## mukta-m0-p281-v7017
-[should-give](dadyāt) [pratisarā-first](pratisarādyaṃ) [tu](tu) [meru](merau) [nine-planets](navagrahānvitam)
+[one-should-give](dadyāt) [protective-thread](pratisara) [and-so-forth](ādyaṃ) [but](tu) [on-meru](merau) [with-nine-planets](nava+graha+anvitam)
 
 ## mukta-m0-p281-v7018
-[brahmā](brahma) [viṣṇu](viṣṇu) [mahādeva](mahādeva) [viśākhās](viśākhāṃścaiva) [and](ca) [eva](eva) [world-lords](lokapaiḥ)
+[brahmā](brahma) [viṣṇu](viṣṇu) [mahādeva](mahādeva) [viśākhā](viśākhāṃ) [and](ca) [indeed](eva) [with-world-guardians](lokapaiḥ)
 
 ## mukta-m0-p281-v7019
-[should-sacrifice](saṃyajed) [with-offerings](balibhissārdhaṃ) [with-colors](varṇakaiḥ) [gradually](kramaśastathā) [thus](tathā)
+[one-should-worship](saṃyajed) [with-offerings](balibhiḥ) [together](sārdhaṃ) [with-colors](varṇakaiḥ) [in-order](kramaśaḥ) [likewise](tathā)
 
 ## mukta-m0-p281-v7020
-[āditya](ādityaścaiva) [and](ca) [eva](eva) [soma](somaśca) [and](ca) [aṅgāraka](akṅaraka) [budha](budhau) [then](tataḥ)
+[āditya](ādityaḥ) [and](ca) [indeed](eva) [soma](somaḥ) [and](ca) [maṅgala](akṅaraka) [budhas](budhau) [then](tataḥ)
 
 ## mukta-m0-p281-v7021
-[these](ete) [nine-planets](navagrahāḥ) [declared](proktāḥ) [kṛttikā](kṛttikā) [vai](vai) [then](tataḥ) [beyond](parāḥ)
+[these](ete) [nine-planets](nava+grahāḥ) [declared](proktāḥ) [kṛttikā](kṛttikā) [indeed](vai) [then](tataḥ) [further](parāḥ)
 
 ## mukta-m0-p281-v7022
-[dhaniṣṭhā](dhaniṣṭā) [śatabhiṣak](śatabhiṣak) [and](ca) [eva](eva) [pūrvabhādrapadā](pūrvābhādrapadā) [again](punaḥ)
+[dhaniṣṭhā](dhaniṣṭā) [śatabhiṣak](śatabhiṣak) [and](ca) [indeed](eva) [pūrvabhādrapadā](pūrvābhādrapadā) [again](punaḥ)
 
 ## mukta-m0-p281-v7023
-[bharaṇī](bharaṇyā) [and](ca) [uttarā](cottarasyāṃ) [tu](tu) [brāhmī](brāmhī) [māheśvarī](māheśvarī) [then](tataḥ)
+[bharaṇī](bharaṇyā) [in-the-north](cottarasyāṃ) [but](tu) [brāhmī](brāmhī) [māheśvarī](māheśvarī) [then](tataḥ)
 
 ## mukta-m0-p281-v7024
-[māhendrī](māhendrī) [and](ca) [eva](eva) [cāmuṇḍī](cāmuṇḍī) [vīrabhadra](vīrabhadra) [gaṇa-lords](gaṇādhipau)
+[māhendrī](māhendrī) [and](ca) [indeed](eva) [cāmuṇḍī](cāmuṇḍī) [vīrabhadra](vīrabhadra) [gaṇādhipa](gaṇādhipau)
 
 ## mukta-m0-p281-v7025
-[indra-agni-yama](indrānalayamāścaiva) [and](ca) [eva](eva) [nirṛti](nir-ṛti) [varuṇa](rvaruṇastathā) [thus](tathā)
+[indra](indra) [fire](anala) [yama](yamāḥ) [and](ca) [indeed](eva) [nirṛti](nir-ṛti) [varuṇa](rvaruṇaḥ) [likewise](tathā)

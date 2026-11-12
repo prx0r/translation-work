@@ -4,27 +4,27 @@
  "rows": [
   {
    "lemma": "ko",
-   "morph": "pron.m.nom.sg",
+   "morph": "pron.interr.m.nom.sg",
    "grounds": "interrogative pronoun"
   },
   {
    "lemma": "asau",
-   "morph": "pron.m.nom.sg",
+   "morph": "pron.dem.m.nom.sg",
    "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "jīvaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject noun"
+   "grounds": "noun meaning individual soul or living being"
   },
   {
    "lemma": "samuddiṣṭaḥ",
-   "morph": "m.nom.sg.ppp",
-   "grounds": "past passive participle of sam-ud-diś"
+   "morph": "ppp.m.nom.sg",
+   "grounds": "past passive participle of sam-ud-diś, to declare"
   },
   {
    "lemma": "kiṃ",
-   "morph": "pron.n.nom.sg",
+   "morph": "pron.interr.n.nom.sg",
    "grounds": "interrogative pronoun"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "jīva+svarūpakam",
-   "morph": "compound:n.nom.sg",
-   "grounds": "compound: jīva+svarūpaka"
+   "morph": "compound n.nom.sg",
+   "grounds": "nominative compound: soul + own-form"
   }
  ]
 }

@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "viṣaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "subject noun"
+   "morph": "n.acc.sg",
+   "grounds": "accusative noun meaning poison"
   },
   {
    "lemma": "na",
@@ -14,18 +14,18 @@
   },
   {
    "lemma": "kramate",
-   "morph": "3.sg.mid-pres",
-   "grounds": "present middle verb from kram"
+   "morph": "3.sg.pres.act kram",
+   "grounds": "present active verb from kram, to step or enter"
   },
   {
    "lemma": "dehe",
-   "morph": "m.loc.sg",
-   "grounds": "locative of place"
+   "morph": "n.loc.sg",
+   "grounds": "locative noun meaning body"
   },
   {
    "lemma": "daṃśito",
-   "morph": "m.nom.sg.ppp",
-   "grounds": "past passive participle of daṃś"
+   "morph": "ppp.m.nom.sg",
+   "grounds": "past passive participle of daṃś, to bite"
   },
   {
    "lemma": "api",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "mahā+uragaiḥ",
-   "morph": "compound:m.ins.pl",
-   "grounds": "instrumental plural, compound mahā+uraga"
+   "morph": "compound m.inst.pl",
+   "grounds": "instrumental compound: great + serpents"
   }
  ]
 }
