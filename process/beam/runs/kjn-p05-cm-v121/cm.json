@@ -4,17 +4,17 @@
  "rows": [
   {
    "lemma": "amṛta+agraṃ",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "compound locative or object"
+   "morph": "compound+n.acc.sg",
+   "grounds": "compound object"
   },
   {
    "lemma": "rasa+agreṇa",
-   "morph": "n.ins.sg (compound)",
+   "morph": "compound+n.inst.sg",
    "grounds": "instrumental compound"
   },
   {
    "lemma": "dahyamāna",
-   "morph": "m.nom.sg (present-passive-participle)",
+   "morph": "m.nom.sg",
    "grounds": "present passive participle"
   },
   {
@@ -25,7 +25,7 @@
   {
    "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "inclusive particle"
+   "grounds": "emphatic particle"
   }
  ]
 }
