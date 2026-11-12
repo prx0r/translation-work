@@ -7,38 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral, eighty-four",
-     "morph": "(indecl.)"
+     "grounds": "numeral referring to count",
+     "morph": "fem.nom.pl"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "sahasra, thousand",
-     "morph": "n.loc.pl"
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral group",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-mechanisms",
-     "grounds": "yoni+yantra, womb+mechanism",
-     "morph": "yoni+yantra#n.loc.pl"
+     "gloss": "womb-diagrams",
+     "grounds": "locative compound referring to womb-mechanisms",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "pīḍ, to press or torment",
-     "morph": "m.nom.pl.ppp#pīḍ"
+     "grounds": "past passive participle describing state",
+     "morph": "3.pl.perf.pass"
     }
    ],
-   "question": "Across how many womb-mechanisms are beings subjected to torment?",
+   "question": "By what count and in what setting are certain beings said to endure torment in this claim?",
    "premises": [
-    "There are eighty-four thousand womb-mechanisms.",
-    "Beings are tormented within these womb-mechanisms."
+    "A count of eighty-four is specified for the setting.",
+    "That count applies to thousands of womb-diagrams.",
+    "Beings are stated to be tormented within those settings."
    ],
-   "inference": "Embodied existence entails torment across a vast multitude of womb-mechanisms.",
+   "inference": "Beings are tormented in eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The subject of pīḍitāḥ is implied from the preceding context."
+    "The identity of the tormented beings is not specified by these tokens alone."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
+   "plain_english": "Eighty-four thousand womb-diagrams are places in which beings are tormented."
   }
  ]
 }

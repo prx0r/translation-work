@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "anena",
-   "morph": "n.ins.sg",
-   "grounds": "demonstrative pronoun"
+   "morph": "pron.n.inst.sg",
+   "grounds": "demonstrative pronoun, instrumental"
   },
   {
    "lemma": "jñāna+mātreṇa",
-   "morph": "compound = member+membership",
-   "grounds": "compound = jñāna+mātra analyzed as given; fused compound form retained"
+   "morph": "compound:jñānamātra+n.inst.sg",
+   "grounds": "compound: jñāna+mātra, knowledge alone"
   },
   {
    "lemma": "śrutena",
-   "morph": "n.ins.sg",
-   "grounds": "past passive participle of śru"
+   "morph": "n.inst.sg.past-participle",
+   "grounds": "past participle of śru, to hear"
   },
   {
    "lemma": "ca",
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "varānane",
-   "morph": "f.voc.sg",
-   "grounds": "vocative of varānana"
+   "morph": "compound:varānana+f.voc.sg",
+   "grounds": "vocative compound: vara+ānana"
   }
  ]
 }

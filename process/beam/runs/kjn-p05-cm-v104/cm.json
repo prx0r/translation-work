@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "tvat+prasādena",
-   "morph": "compound = member+membership",
-   "grounds": "compound = tvat+prasāda analyzed as given; fused compound form retained"
+   "morph": "compound:tvatprasāda+m.inst.sg",
+   "grounds": "compound: tvad+prasāda, instrumental of means"
   },
   {
    "lemma": "kauleśa",
-   "morph": "m.voc.sg",
-   "grounds": "vocative of kauleśa"
+   "morph": "compound:kauleśa+m.voc.sg",
+   "grounds": "vocative compound: kaula+īśa"
   },
   {
    "lemma": "jñāto",
-   "morph": "m.nom.sg",
-   "grounds": "past passive participle of jñā"
+   "morph": "m.nom.sg.past-participle",
+   "grounds": "past participle of jñā, to know"
   },
   {
    "lemma": "ahaṃ",
-   "morph": "m.nom.sg",
-   "grounds": "pronoun first person"
+   "morph": "pron.nom.sg",
+   "grounds": "first person pronoun"
   },
   {
    "lemma": "kaula+nirṇayaḥ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = kaula+nirṇaya analyzed as given; fused compound form retained"
+   "morph": "compound:kaulanirṇaya+m.nom.sg",
+   "grounds": "compound: kaula+nirṇaya"
   }
  ]
 }
