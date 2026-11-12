@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-[in-solitude](ekānte) [in-empty-house](śūnyasadane) [on-mountain](parvate) [in-forest](vipine) [in-woods](vane)
+[in-solitude](ekānte) [in-empty+dwelling](śūnya+sadane) [on-mountain](parvate) [in-forest](vipine) [in-grove](vane)
 
 ## mukta-m0-p78-v1927
-[at-single-liṅga](ekaliṅge) [in-empty-place](śūnyadeśe) [in-cremation-ground](śmaśāne) [in-battle-field](raṇamaṇḍale)
+[at-single-liṅga](eka+liṅge) [in-empty+place](śūnya+deśe) [in-cremation-ground](śmaśāne) [in-battle+arena](raṇa+maṇḍale)
 
 ## mukta-m0-p78-v1928
-[in-ganges-womb](gaṅgāgarbhe) [at-four-roads](caturmārge) [at-three-paths](tripathe) [in-temple](devatālaye)
+[in-gaṅgā+womb](gaṅgā+garbhe) [at-four+roads](catur+mārge) [at-three+paths](tri+pathe) [in-deity+abode](devatā+ālaye)
 
 ## mukta-m0-p78-v1929
-[having-fixed-pegs](kīlānyāropya) [with-effort](yatnena) [to-direction-guardians](dikpālebhyo) [offering](baliṃ) [should-throw](kṣipet)
+[nails](kīlāni) [having-fixed](āropya) [with-effort](yatnena) [to-direction+guardians](dik+pālebhyo) [offering](baliṃ) [one-should-cast](kṣipet)
 
 ## mukta-m0-p78-v1930
-[mixed-milk](saṃviddugdhaṃ) [pure-offering](baliravyaṃ) [five-products](pañcagavyaṃ) [essence](rasaṃ) [and](tathā)
+[consciousness+milked](saṃvid+dugdhaṃ) [offering+substance](bali+ravyaṃ) [five+cow-products](pañca+gavyaṃ) [juice](rasaṃ) [likewise](tathā)
 
 ## mukta-m0-p78-v1931
-[there](tatra) [staying](sthitvā) [mantra-recitation](japaṃ) [doing](kṛtvā) [three-worlds](trailokyaṃ) [accomplish](sādhayettataḥ)
+[there](tatra) [having-stood](sthitvā) [recitation](japaṃ) [having-done](kṛtvā) [three+worlds](trai+lokyaṃ) [one-should-accomplish](sādhayet) [then](tataḥ)
 
 ## mukta-m0-p78-v1932
-[lord-of-gods](deveśa) [to-hear](śrotumucchāmi) [secret](rahasyaṃ) [previously-indicated](pūrvasūcitam)
+[o-lord+of-gods](deva+īśa) [to-hear](śrotum) [i-desire](ucchāmi) [secret](rahasyaṃ) [previously+indicated](pūrva+sūcitam)
 
 ## mukta-m0-p78-v1933
-[in-śaiva](śaive) [in-śākta](śākte) [in-gāṇapatya](gāṇapatye) [in-cāndra](cāndre) [in-saure](saure) [and-in-ārhata](tathārhate)
+[in-śaiva](śaive) [in-śākta](śākte) [in-gāṇapatya](gāṇapatye) [in-cāndra](cāndre) [in-saura](saure) [likewise](tathā) [in-ārhata](ārhate)
 
 ## mukta-m0-p78-v1934
-[gold-jewels](svarṇaratnāni) [and-others](cānyāni) [various-cloths](nānāvastrāṇi) [O-Pārvatī](pārvati)
+[gold+jewels](svarṇa+ratnāni) [and](ca) [other](anyāni) [various+garments](nānā+vastrāṇi) [o-pārvatī](pārvati)
 
 ## mukta-m0-p78-v1935
-[to-guru's-son](guruputrāya) [to-his-wife](tatpatnyai) [to-his-daughter](tatsutāyai) [should-offer](nivedayet)
+[to-guru+son](guru+putrāya) [to-his+wife](tat+patnyai) [to-his+daughter](tat+sutāyai) [one-should-offer](nivedayet)
 
 ## mukta-m0-p78-v1936
-[in-well](kūpe'raṇye) [in-forest](guhāmadhye) [in-cave-middle](taḍāge) [in-pond](vā) [or-throw](kṣipetpriye)
+[in-well](kūpe) [in-wilderness](araṇye) [in-cave+middle](guhā+madhye) [in-pond](taḍāge) [or](vā) [one-should-throw](kṣipet) [o-beloved](priye)
 
 ## mukta-m0-p78-v1937
-[to-devotee](bhaktāyāmṛtarūpo) [nectar-formed](hi) [indeed](naivedyaḥ) [offering](parikīrtitaḥ)
+[to-devotee](bhaktāya) [nectar+form](amṛta+rūpo) [indeed](hi) [food-offering](naivedyaḥ) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p78-v1938
-[in-śāligrāma](śāligrāme) [in-bāṇaliṅga](bāṇaliṅge) [offerings](naivedyā) [not](naiva) [become-impure](dūṣyati)
+[in-śāligrāma](śāligrāme) [in-bāṇa+liṅga](bāṇa+liṅge) [food-offering](naivedyā) [not](na) [indeed](eva) [is-polluted](dūṣyati)
 
 ## mukta-m0-p78-v1939
-[at-rite-time](prayogakāle) [O-goddess](deveśi) [brahmins](brāhmaṇānpūjayedvratī) [should-worship](vratī)
+[at-application+time](prayoga+kāle) [o-goddess](deveśi) [brāhmaṇas](brāhmaṇān) [one-should-worship](pūjayet) [vow-observer](vratī)
 
 ## mukta-m0-p78-v1940
-[from-beginning-to-end](ārambhāntaṃ) [completing](samāpyā'tha) [expiation](prāyaścittaṃ) [then-should-perform](tataścaret)
+[from-beginning+to-end](ārambha+antaṃ) [having-completed](samāpya) [then](atha) [expiation](prāyaścittaṃ) [thereafter](tataḥ) [one-should-perform](caret)
 
 ## mukta-m0-p78-v1941
-[in-rite-middle](kāryamadhye) [again](punaḥ) [rite](kāryamaṅgāṅgitvaṃ) [becomes-ancillary](bhavecchive)
+[in-action+middle](kārya+madhye) [again](punaḥ) [action](kāryam) [limb+limbed-ness](aṅga+aṅgitvaṃ) [should-be](bhavet) [o-śivā](śive)
 
 ## mukta-m0-p78-v1942
-[rites](kāryāṇi) [accomplish](sādhayeddevi) [O-goddess](cānyathā) [otherwise](nārakī) [hell-dweller](bhavet)
+[actions](kāryāṇi) [one-should-accomplish](sādhayet) [o-goddess](devi) [otherwise](ca+anyathā) [hell-dweller](nārakī) [one-would-become](bhavet)
 
 ## mukta-m0-p78-v1943
-[legal-topic](nyāyādhikaraṇaṃ) [knowing](jñātvā) [with-platform-knowledge-preceded](pīṭhikājñānapūrvakam)
+[proper+adjudication](nyāya+adhikaraṇaṃ) [having-known](jñātvā) [pedestal+knowledge+preceded-by](pīṭhikā+jñāna+pūrvakam)
 
 ## mukta-m0-p78-v1944
-[not](na) [indeed](hi) [in-rite](karmaṇi) [of-rites](karmaṇāmārambhastu) [beginning](kvacid) [anywhere](bhavet)
+[not](na) [indeed](hi) [in-action](karmaṇi) [of-actions](karmaṇām) [commencement](ārambhaḥ) [indeed](tu) [anywhere](kvacid) [should-be](bhavet)
 
 ## mukta-m0-p78-v1945
-[when-rite-arisen](kārye) [even](jāte'pi) [O-goddess](deveśi) [sandhyā-pūti](sandhyāpūti) [should-perform](samācaret)
+[action](kārye) [having-arisen](jāte) [even](api) [o-lord+of-gods](deva+īśi) [twilight+worship](sandhyā+pūti) [one-should-perform](samācaret)
 
 ## mukta-m0-p78-v1946
-[thus](iti) [briefly](saṃkṣepataḥ) [spoken](proktaṃ) [what-else](kimanyacchrotumicchasi)
+[thus](iti) [in-brief](saṃkṣepataḥ) [declared](proktaṃ) [what](kim) [else](anyat) [to-hear](śrotum) [you-desire](icchasi)
 
 ## mukta-m0-p78-v1947
-[name](nāmaikonacatvāriṃśatiḥ) [one-less-forty](paṭalaḥ) [chapter](paṭalaḥ)
+[name](nāma) [thirty+ninth](ekona+catvāriṃśatiḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p78-v1948
-[garland](mālā) [many-kinds](bahuvidhā) [declared](proktā) [from-great-conch](mahāśaṅkhadibhedataḥ)
+[rosary](mālā) [of-many+kinds](bahu+vidhā) [declared](proktā) [by-great+conch+etc.+distinction](mahā+śaṅkha+ādi+bhedataḥ)
 
 ## mukta-m0-p78-v1949
-[letter-garland](varṇamālā) [and](tathā) [O-goddess](devi) [all-rite-purpose-accomplishing](sarvakāryārthasādhinī)
+[letter+rosary](varṇa+mālā) [likewise](tathā) [o-goddess](devi) [all+purpose+accomplishing](sarva+kārya+artha+sādhinī)
 
 ## mukta-m0-p78-v1950
-[with-fifty-gems](pañcāśanmaṇibhirmālā) [garland](pañcāśadvarṇayogataḥ) [with-fifty-letters-union](pañcāśadvarṇayogataḥ)
+[with-fifty+beads](pañcāśat+maṇibhiḥ) [rosary](mālā) [with-fifty+letter+connection](pañcāśat+varṇa+yogataḥ)

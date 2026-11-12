@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[ucchiṣṭa-hastaḥ](ucchṣṭahastaḥ) [prajapet](prajapet) [brahma-mārgaḥ](brahmamārgaḥ) [prakīrtitaḥ](prakīrtitaḥ)
+[ucchiṣṭa+hand](ucchṣṭahastaḥ) [should-mutter](prajapet) [brahman+path](brahmamārgaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p61-v1502
-[anyena](anyena) [krama-yogena](kramayogena) [siddha-mārga-kramī](siddhamārgakramī) [bhavet](bhavet)
+[by-other](anyena) [sequence+yoga](kramayogena) [accomplished+path+follower](siddhamārgakramī) [one-should-become](bhavet)
 
 ## mukta-m0-p61-v1503
-[surendraḥ](surendro) [api](api) [ca](ca) [dāsaḥ](dāsaḥ) [syāt](syān) [manuṣyāṇām](manuṣyāṇāṃ) [ca](ca) [kā](kā) [kathā](kathā)
+[Indra](surendro') [even](api) [and](ca) [servant](dāsaḥ) [would-be](syāt) [of-humans](manuṣyāṇāṃ) [and](ca) [what](kā) [mention](kathā)
 
 ## mukta-m0-p61-v1504
-[iti](iti) [saṃkṣepataḥ](saṃkṣepataḥ) [proktam](proktaṃ) [kim](kim) [anyat](anyac) [śrotum](śrotum) [icchasi](icchasi)
+[thus](iti) [in-brief](saṃkṣepataḥ) [declared](proktaṃ) [what+other](kimanyac) [to-hear](chrotum) [you-wish](icchasi)
 
 ## mukta-m0-p61-v1505
-[ekonatriṃśatiḥ](ekonatriṃśatiḥ) [paṭalaḥ](paṭalaḥ)
+[twenty-ninth](ekonatriṃśatiḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p61-v1506
-[pūrva-ukta-krama-vidyānām](pūrvoktakramavidyānāṃ) [mālām](mālāṃ) [śṛṇu](śṛṇu) [maheśvari](maheśvari)
+[previously+mentioned+sequence+vidyās](pūrvoktakramavidyānāṃ) [rosary](mālāṃ) [hear](śṛṇu) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p61-v1507
-[dhinnamastā-vidhau](dhinnamastāvidhau) [devi](devi) [nara-asthi-mālikā](narāsthimālikā) [tathā](tathā)
+[Chinnamastā+rite](dhinnamastāvidhau) [O-goddess](devi) [human+bone+rosary](narāsthimālikā) [likewise](tathā)
 
 ## mukta-m0-p61-v1508
-[svayambhū-kusuma-ākhyā](svayambhūkusumākhyā) [tu](tu) [bhairavyā](bhairavyā) [parikīrtitā](parikīrtitā)
+[self-born+flower+named](svayambhūkusumākhyā) [indeed](tu) [of-Bhairavī](bhairavyā) [declared](parikīrtitā)
 
 ## mukta-m0-p61-v1509
-[haridrā-ākhyā](haridrākhyā) [tu](tu) [vagalā-mukhyā](vagalāmukhyā) [mālā](mālā) [prakīrtitā](prakīrtitā)
+[turmeric+named](haridrākhyā) [indeed](tu) [of-Bagalāmukhī](vagalāmukhyā) [rosary](mālā) [declared](prakīrtitā)
 
 ## mukta-m0-p61-v1510
-[anayoḥ](anayorna) [na](na) [hi](hi) [bhedaḥ](bhedo) [asti](asti) [śiva-śaktyoḥ](śivaśakyoryathā) [yathā](yathā) [priye](priye)
+[of-these-two](anayor) [not](na) [indeed](hi) [difference](bhedo') [is](asti) [of-Śiva+and-Śakti](śivaśakyor) [as](yathā) [O-beloved](priye)
 
 ## mukta-m0-p61-v1511
-[bhuvaneśyāḥ](bhuvaneśyāḥ) [sphāṭikī](sphāṭikī) [syāt](syātsiddhavidyāvidhau) [siddha-vidyā-vidhau](siddhavidyāvidhau) [śive](śive)
+[of-Bhuvaneśī](bhuvaneśyāḥ) [crystal](sphāṭikī) [should-be](syāt) [accomplished+vidyā+rite](siddhavidyāvidhau) [O-Śivā](śive)
 
 ## mukta-m0-p61-v1512
-[gandha-rūpa-jāti-bhedaiḥ](gandharūpajātibhedairmahāvidyā) [mahā-vidyā](mahāvidyā) [prakīrtitā](prakīrtitā)
+[by-fragrance+form+class+differences](gandharūpajātibhedair) [great+vidyā](mahāvidyā) [declared](prakīrtitā)
 
 ## mukta-m0-p61-v1513
-[rūpa-gandha-krameṇa](rūpagandhakrameṇaiva) [eva](eva) [nāma](nāma) [dadyāt](dadyān) [maheśvari](maheśvari)
+[by-form+fragrance+sequence](rūpagandhakrameṇa) [alone](eva) [name](nāma) [one-should-give](dadyān) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p61-v1514
-[svayam](svayaṃ) [nāma](nāma) [pradadyāt](pradadyādvai) [vai](vai) [yathā-yogena](yathāyogena) [pārvati](pārvati)
+[by-itself](svayaṃ) [name](nāma) [one-should-give](pradadyād) [indeed](vai) [according-to-fitness](yathāyogena) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p61-v1515
-[śuddhā](śuddhā) [vimala-sad-gātrī](vimalasadgātrī) [divya-gandhā](divyagandhā) [manoramā](manoramā)
+[pure](śuddhā) [spotless+good+bodied](vimalasadgātrī) [divine+fragrance](divyagandhā) [delightful](manoramā)
 
 ## mukta-m0-p61-v1516
-[yā](yā) [kṛṣṇā](kṛṣṇā) [nīla-kṛṣṇābhā](nīlakṛṣṇābhā) [madhu-piṅgala-locanā](madhupiṅgalalocanā)
+[who](yā) [dark](kṛṣṇā) [blue+dark+complexioned](nīlakṛṣṇābhā) [honey+tawny+eyed](madhupiṅgalalocanā)
 
 ## mukta-m0-p61-v1517
-[tasyām](tasyāṃ) [kālī](kālī) [samāyojyā](samāyojyā) [sā](sā) [kālī](kālī) [parikīrtitā](parikīrtitā)
+[in-her](tasyāṃ) [Kālī](kālī) [should-be-joined](samāyojyā) [she](sā) [Kālī](kālī) [declared](parikīrtitā)
 
 ## mukta-m0-p61-v1518
-[tripurā](tripurā) [nāma](nāma) [sā](sā) [devī](devī) [sva-puṣpa-krama-sādhinī](svapuṣpakramasādhinī)
+[Tripurā](tripurā) [by-name](nāma) [she](sā) [goddess](devī) [own+flower+sequence+accomplishing](svapuṣpakramasādhinī)
 
 ## mukta-m0-p61-v1519
-[yuktā](yuktā) [ca](ca) [āmiṣa-gandhena](āmiṣagandhena) [mahiṣāsura-mardinī](mahiṣāsuramardinī)
+[endowed](yuktā) [with-flesh+fragrance](cāmiṣagandhena) [Mahiṣāsura+slayer](mahiṣāsuramardinī)
 
 ## mukta-m0-p61-v1520
-[mahā-ugra-tārā](mahogratārā) [samproktā](samproktā) [mahā-pāpa-vināśinī](mahāpāpavināśinī)
+[great+fierce+Tārā](mahogratārā) [declared](samproktā) [great+sin+destroying](mahāpāpavināśinī)
 
 ## mukta-m0-p61-v1521
-[sā](sā) [syāt](syāccakitalolākṣī) [cakita-lola-akṣī](cakitalolākṣī) [aśvārūḍhā](aśvārūḍhā) [vara-pradā](varapradā)
+[she](sā) [should-be](syāc) [trembling+restless+eyed](cakitalolākṣī) [horse+riding](aśvārūḍhā) [boon+giving](varapradā)
 
 ## mukta-m0-p61-v1522
-[nīla-keśī](nīlakeśī) [ca](ca) [sā](sā) [proktā](proktā) [sākṣāt](sākṣāddurgā) [durgā](durgā) [madonmukhī](madonmukhī)
+[blue+haired](nīlakeśī) [and](ca) [she](sā) [declared](proktā) [manifestly](sākṣād) [Durgā](durgā) [passion+aroused](madonmukhī)
 
 ## mukta-m0-p61-v1523
-[sundarī](sundarī) [cāru-keśī](cārukeśī) [ca](ca) [dīrgha-netrā](dīrghanetrā) [manoharā](manoharā)
+[beautiful](sundarī) [and](ca) [lovely+haired](ārukeśī) [and](ca) [long+eyed](dīrghanetrā) [charming](manoharā)
 
 ## mukta-m0-p61-v1524
-[guru-vakṣaḥ-sthalākrāntā](guruvakṣaḥsthalākrāntā) [madhye](madhye) [viraladarśinī](viraladarśinī)
+[guru+chest+region+embracing](guruvakṣaḥsthalākrāntā) [in-middle](madhye) [sparse+appearing](viraladarśinī)
 
 ## mukta-m0-p61-v1525
-[divya-varṇā](divyavarṇā) [kṛśāṅgī](kṛśāṅgī) [ca](ca) [divya-gandha-anulepanā](divyagandhānulepanā)
+[divine+complexioned](divyavarṇā) [slender+bodied](kṛśāṅgī) [and](ca) [divine+fragrance+anointed](divyagandhānulepanā)

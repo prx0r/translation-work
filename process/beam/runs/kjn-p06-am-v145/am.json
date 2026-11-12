@@ -1,12 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 145,
- "question": "What sonic adornment characterizes the fluid black form to be contemplated?",
+ "question": "What visual and sonic qualities characterize the form described as adorned with sixteen vowels?",
  "premises": [
-  "The form is fluid and black in color",
-  "The form is adorned with the sixteen vowel sounds"
+  "The form is fluid-containing and black in color.",
+  "The form is adorned with sixteen vowels.",
+  "These qualities belong to the same contemplated form."
  ],
- "inference": "The contemplated dark fluid form is associated with the sixteen vowels.",
- "uncertainties": [],
- "plain_english": "It is fluid, black in color, and adorned with the sixteen vowel sounds."
+ "inference": "The contemplated form is a fluid, black-colored form adorned with the sixteen vowels.",
+ "uncertainties": [
+  "The token 'varṇañca' contains sandhi joining 'varṇam' and 'ca'."
+ ],
+ "plain_english": "It is a fluid-containing, black-colored form adorned with the sixteen vowels."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-[dance](nṛtya)+[song](gīta)+[etc-by](ādibhiḥ) [all](sarvair) [guru-service](guruśuśrūṣaṇaiḥ)+[and](tathā)
+[dance+song+etc.](nṛtyagītādibhiḥ) [with-all](sarvaiḥ) [guru+service](guruśuśrūṣaṇaiḥ) [likewise](tathā)
 
 ## mukta-m0-p74-v1827
-[without-deceit](amāyāṃ) [goddess-of-gods](devadeveśi) [on-earth](bhaume) [Venus-planet-triad](śukragrahatraye)
+[on-new-moon-day](amāyāṃ) [O-goddess+of-gods](devadeveśi) [on-Tuesday](bhaume) [in-Venus+planet+triad](śukragrahatraye)
 
 ## mukta-m0-p74-v1828
-[by-own-power](svaśaktyā) [always](sarvadā) [worshipful](pūjyā)+[after](antarā) [five-festivals](pañcaparvaṇi)
+[with-own+ability](svaśaktyā) [always](sarvadā) [to-be-worshipped](pūjyā) [thereafter](anantarā) [in-five+parvans](pañcaparvaṇi)
 
 ## mukta-m0-p74-v1829
-[forbidden-approach](agamyāgamanaṃ) [and](ca)+[indeed](eva) [forbidden-eating](abhakṣyasya)+[eating](bhakṣaṇam)
+[with-unapproachable+intercourse](agamyāgamanaṃ) [and+indeed](ca+eva) [likewise](tathā) [of-uneatable](abhakṣyasya) [eating](bhakṣaṇam)
 
 ## mukta-m0-p74-v1830
-[rice-based](paiṣṭī) [sugar-based](gauḍī) [and](tathā) [honey-based](mādhvī) [palm-date-born](tālakharjūrasambhavā)
+[made-from-flour](paiṣṭī) [made-from-molasses](gauḍī) [likewise](tathā) [made-from-honey](mādhvī) [from-palm+date+born](tālakharjūrasambhavā)
 
 ## mukta-m0-p74-v1831
-[rice-based](paiṣṭī) [of-śūdra](śūdrasya) [honey-based](mādhvī) [and](ca) [of-kṣatriya](kṣatriyasya) [likewise](tathā) [two](dvayam)
+[made-from-flour](paiṣṭī) [of-śūdra](śūdrasya) [made-from-honey](mādhvī) [and](ca) [of-kṣatriya](kṣatriyasya) [likewise](tathā) [the-two](dvayam)
 
 ## mukta-m0-p74-v1832
-[by-brāhmaṇa](brāhmaṇeṇa)+[only](eva) [to-be-given](dātavyā) [without](vinā) [honey-wine](mādhvīṃ) [somehow](kathañcana)
+[by-brāhmaṇa](brāhmaṇena) [indeed](eva) [to-be-given](dātavyā) [without](vinā) [made-from-honey](mādhvīṃ) [in-any-way](kathañcana)
 
 ## mukta-m0-p74-v1833
-[or](athavā) [in-family-circle](kulamadhyena) [worship](pūjayet)+[family-beauty](kulasundarīm)
+[or](athavā) [by-one-in-kula+midst](kulamadhyena) [one-should-worship](pūjayet) [kula+beauty](kulasundarīm)
 
 ## mukta-m0-p74-v1834
-[not](na) [immediately](sadyaṃ) [drinkable](pānayogyaṃ) [should-be](syān)+[not](na) [liquor](madyaṃ) [jaggery-mixed](guḍamiśritam)
+[not](na) [immediately](sadyam) [fit-for-drinking](pānayogyaṃ) [should-be](syāt) [not](na) [liquor](madyam) [with-jaggery+mixed](guḍamiśritam)
 
 ## mukta-m0-p74-v1835
-[brāhmaṇa](brāhmaṇaḥ)+[in-copper-vessel](tāmrapātre) [tu](tu) [honey](madhu) [liquor](madyaṃ) [should-prepare](prakalpayet)
+[brāhmaṇa](brāhmaṇaḥ) [in-copper+vessel](tāmrapātre) [indeed](tu) [honey](madhu) [liquor](madyam) [should-prepare](prakalpayet)
 
 ## mukta-m0-p74-v1836
-[not](no) [if](cet)+[accomplishing](siddhikarī) [goddess](devi) [by-mantras](prajaptaiḥ)+[even](api) [crores](koṭibhiḥ)
+[not](no) [if](cet) [success+causing](siddhikarī) [O-goddess](devi) [even-by-muttered](prajaptaiḥ) [even](api) [by-crores](koṭibhiḥ)
 
 ## mukta-m0-p74-v1837
-[betel](tāmbūlena) [without](vinā) [who](yaḥ)+[tu](tu) [Kālikā](kālikāṃ) [tenfold](daśadhā) [japet](japet)
+[without-betel](tāmbūlena) [without](vinā) [who](yaḥ) [indeed](tu) [Kālikā](kālikāṃ) [ten-times](daśadhā) [may-mutter](japet)
 
 ## mukta-m0-p74-v1838
-[betel](tāmbūlaṃ) [cakra](cakrañca) [skull-garland](muṇḍamālā) [corpse-seat](śavāsanam)
+[betel](tāmbūlaṃ) [*](*) [*](*) [circle](cakram) [and](ca) [skull+garland](muṇḍamālā) [corpse+seat](śavāsanam)
 
 ## mukta-m0-p74-v1839
-[these](etān)+[abandoning](vihāya) [who](yaḥ) [anyone](kaścit)+[Kālī](kālī) [to-accomplish](sādhitum)+[intent](udyataḥ)
+[these](etān) [having-abandoned](vihāya) [who](yaḥ) [anyone](kaścit) [Kālī](kālī) [to-accomplish](sādhitum) [is-engaged](udyataḥ)
 
 ## mukta-m0-p74-v1840
-[crore-arbuda-ages](koṭyarbudayugairdevi) [not](nahi) [succeeds](sidhyati) [Tāriṇī](tāriṇī)
+[by-crore+hundred-million+ages](koṭyarbudayugaiḥ) [O-goddess](devi) [not](na) [indeed](hi) [succeeds](sidhyati) [Tāriṇī](tāriṇī)
 
 ## mukta-m0-p74-v1841
-[Kālikā](kālikām)+[not-japa](anujāpī) [tu](tu) [touches](spṛśet)+[sinner](pātakinaṃ) [if](yadi)
+[Kālikā+mantra+mutterer](kālikāmanujāpī) [indeed](tu) [may-touch](spṛśet) [a-sinner](pātakinaṃ) [if](yadi)
 
 ## mukta-m0-p74-v1842
-[prose-verse](gadyapadyamayī) [speech](vāṇī) [becomes](bhaved)+[protection-lineage](rakṣāparamparā)
+[prose+verse+consisting](gadyapadyamayī) [speech](vāṇī) [may-be](bhavet) [protection+succession](rakṣāparamparā)
 
 ## mukta-m0-p74-v1843
-[past](atītā)+[future](anāgataṃ) [knowledge](jñānaṃ) [present](vartamānaṃ) [ca](ca) [sees](paśyati)
+[past+future](atītānāgataṃ) [knowledge](jñānaṃ) [present](vartamānaṃ) [and](ca) [he-sees](paśyati)
 
 ## mukta-m0-p74-v1844
-[cakra](cakraṃ) [considering](samālocya) [whatever](yatkiñcit)+[does](kurute) [man](naraḥ)
+[*](*) [*](*) [circle](cakraṃ) [having-beheld](samālocya) [whatever](yatkiñcit) [does](kurute) [a-man](naraḥ)
 
 ## mukta-m0-p74-v1845
-[Kālī](kālīṃ) [abandoning](vihāya) [who](yaḥ) [anyone](kaścit) [accomplishment-desires](siddhimicchati) [lover](kāmukaḥ)
+[Kālī](kālīṃ) [having-abandoned](vihāya) [who](yaḥ) [anyone](kaścit) [success](siddhim) [desires](icchati) [desirous-one](kāmukaḥ)
 
 ## mukta-m0-p74-v1846
-[śakti](śaktiṃ) [abandoning](vihāya) [who](yaḥ) [anyone](kaścit) [Kālikā](kālikāṃ) [to-see-desires](draṣṭumicchati)
+[Śakti](śaktiṃ) [having-abandoned](vihāya) [who](yaḥ) [anyone](kaścit) [Kālikā](kālikāṃ) [to-see](draṣṭum) [desires](icchati)
 
 ## mukta-m0-p74-v1847
-[Kālī-vidyā](kālīvidyā) [accomplished-vidyā](siddhavidyā) [great-vidyā](mahāvidyā) [proclaimed](prakīrtitā)
+[Kālī+knowledge](kālīvidyā) [success+knowledge](siddhavidyā) [great+knowledge](mahāvidyā) [is-proclaimed](prakīrtitā)
 
 ## mukta-m0-p74-v1848
-[then](tadaiva) [accomplishment-giving](siddhidā) [of-him](tasya) [she](sā) [ca](ca)+[of-other](anyasya) [boon-giving](varapradā)
+[then+indeed](tadaiva) [success+giving](siddhidā) [of-him](tasya) [she](sā) [and](ca) [of-another](anyasya) [boon+giving](varapradā)
 
 ## mukta-m0-p74-v1849
-[in-hand](pāṇau) [thinking](vicintya) [to-be-chanted](japtavyaḥ) [accomplishment](siddhir)+[in-one-day](divasamātrataḥ)
+[in-hand](pāṇau) [having-contemplated](vicintya) [to-be-muttered](japtavyaḥ) [success](siddhiḥ) [day+mere+from](divasamātrataḥ)
 
 ## mukta-m0-p74-v1850
-[in-dark-fortnight](kṛṣṇapakṣe) [especially](viśeṣeṇa) [always](sarvadā) [should-do](kārayet)+[in-house](gṛhe)
+[in-dark+fortnight](kṛṣṇapakṣe) [especially](viśeṣeṇa) [one-should-perform](kārayet) [always](sarvadā) [in-house](gṛhe)

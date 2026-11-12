@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[sa-eva](saiva) [tārā](tārā) [maheśāni](maheśāni) [na-atra](nātra) [kāryā](kāryā) [vicāraṇā](vicāraṇā)
+[she-alone](sa)+[indeed](eva) [tārā](tārā) [o-great-goddess](maheśāni) [not](na)+[here](atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p55-v1352
-[veda-hīnāḥ](vedahīnāśca) [ca](ca) [ye](ye) [dharmāḥ](dharmāstān) [tān](tān) [katham](kathaṃ) [brāhmaṇaḥ](brāhmaṇaścaret) [caret](caret)
+[veda](veda)+[devoid](hīnāḥ)+[and](ca) [which](ye) [dharmas](dharmāḥ)+[them](tān) [how](kathaṃ) [brahmin](brāhmaṇaḥ)+[should-practice](caret)
 
 ## mukta-m0-p55-v1353
-[tad-bhāvanā](tadbhāvanāsamāyātastadbhāvamācaretpriye) [samāyātaḥ](samāyātaḥ) [tad-bhāvam](tadbhāvam) [ācaret](ācaret) [priye](priye)
+[that](tat)+[contemplation](bhāvanā)+[absorbed](samāyātaḥ) [that](tat)+[state](bhāvam)+[should-practice](ācaret)+[o-beloved](priye)
 
 ## mukta-m0-p55-v1354
-[kalau](kalau) [tatra](tatra) [niṣiddham](niṣaddhaṃ) [syāt](syādbrāhmaṇānāṃ) [brāhmaṇānām](brāhmaṇānāṃ) [maheśvari](maheśvari)
+[in-kali-yuga](kalau) [there](tatra) [forbidden](niṣaddhaṃ) [would-be](syāt)+[for-brahmins](brāhmaṇānāṃ) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p55-v1355
-[yāvanti](yāvanti) [tasya](tasya) [romāṇi](romāṇi) [tāvat](tāvadyonimavāpnuyāt) [yonim](yonim) [avāpnuyāt](avāpnuyāt)
+[as-many](yāvanti) [his](tasya) [hairs](romāṇi) [so-many](tāvat)+[wombs](yonim)+[would-obtain](avāpnuyāt)
 
 ## mukta-m0-p55-v1356
-[sakalam](sakalaṃ) [tu](tu) [mayā](mayā) [proktam](proktaṃ) [niṣkalam](niṣkalaṃ) [śṛṇu](śṛṇu) [pārvati](pārvati)
+[with-parts](sakalaṃ) [but](tu) [by-me](mayā) [declared](proktaṃ) [without-parts](niṣkalaṃ) [hear](śṛṇu) [o-pārvati](pārvati)
 
 ## mukta-m0-p55-v1357
-[maṇḍi-bandhāt](maṇḍibandhādadhaḥ) [adhaḥ](adhaḥ) [pāṇiḥ](pāṇiḥ) [pādau](pādau) [gulphāt](gulphādadhaḥ) [adhaḥ](adhaḥ) [śive](śive)
+[wrist](maṇḍi)+[joint](bandhāt)+[below](adhaḥ) [hand](pāṇiḥ) [feet](pādau) [ankle](gulphāt)+[below](adhaḥ) [o-śiva](śive)
 
 ## mukta-m0-p55-v1358
-[jānubhyām](jānubhyāmavani) [avanim](avanim) [dhṛtvā](dhṛtvā) [bhūmau](bhūmau) [mastakam](mastakamānayet) [ānayet](ānayet)
+[with-knees](jānubhyām)+[on-earth](avani) [having-placed](dhṛtvā) [on-ground](bhūmau) [head](mastakam)+[should-bring](ānayet)
 
 ## mukta-m0-p55-v1359
-[pūrva-kramasya](pūrvakramasya) [deveśi](deveśi) [śakraḥ](śakraḥ) [pratinidhiḥ](pratinidhirmama) [mama](mama)
+[previous](pūrva)+[order](kramasya) [o-goddess](deveśi) [indra](śakraḥ) [representative](pratinidhiḥ)+[my](mama)
 
 ## mukta-m0-p55-v1360
-[na](na) [ca](ca) [snānam](snānaṃ) [na](na) [me](me) [dehaḥ](deho) [na](na) [ca](ca) [pāpam](pāpaṃ) [mama](mamāsi) [asi](asi) [vai](vai)
+[not](na) [and](ca) [bathing](snānaṃ) [not](na) [my](me) [body](dehaḥ) [not](na) [and](ca) [sin](pāpaṃ) [my](mama)+[is](asi) [indeed](vai)
 
 ## mukta-m0-p55-v1361
-[sarvam](sarvameva) [eva](eva) [hṛd-ambhoje](hṛdambhoje) [mayi](mayi) [sarvam](sarvaṃ) [pratiṣṭhitam](pratiṣṭhitam)
+[all](sarvam)+[indeed](eva) [heart](hṛt)+[lotus](ambhoje) [in-me](mayi) [all](sarvaṃ) [established](pratiṣṭhitam)
 
 ## mukta-m0-p55-v1362
-[tejaḥ](tejo) [rūpam](rūpaṃ) [jagat](jagatsarvaṃ) [sarvam](sarvam) [tāriṇī](tāriṇī) [tat-svarūpa-dhṛk](tatsvarūpadhṛk)
+[light](tejaḥ) [form](rūpaṃ) [world](jagat)+[all](sarvaṃ) [tāriṇī](tāriṇī) [that](tat)+[own-form](svarūpa)+[bearing](dhṛk)
 
 ## mukta-m0-p55-v1363
-[bhāvanā-vaśam](bhāvanāvaśamāpanno) [āpannaḥ](āpanno) [bhavet](bhavedyogī) [yogī](yogī) [mahā-kaviḥ](mahākaviḥ)
+[contemplation](bhāvanā)+[power](vaśam)+[attained](āpannaḥ) [would-become](bhavet)+[yogi](yogī) [great](mahā)+[poet](kaviḥ)
 
 ## mukta-m0-p55-v1364
-[tad-abhāve](tadabhāve) [jalam](jalaṃ) [devi](devi) [sambhāvya](sambhāvya) [pūjanam](pūjanaṃ) [caret](caret)
+[that](tat)+[absence](abhāve) [water](jalaṃ) [o-goddess](devi) [having-visualized](sambhāvya) [worship](pūjanaṃ) [should-perform](caret)
 
 ## mukta-m0-p55-v1365
-[dvandva-bhāvam](dvandvabhāvaṃ) [erityajya](erityajya) [sarva-siddhīśvaraḥ](sarvasiddhīśvaro) [bhavet](bhavet)
+[duality](dvandva)+[state](bhāvam) [having-abandoned](parityajya) [all](sarva)+[siddhi](siddhi)+[lord](īśvaraḥ) [would-become](bhavet)
 
 ## mukta-m0-p55-v1366
-[niṣkala-kramamārgeṇa](niṣkalakramamārgeṇa) [bhajanti](bhajanti) [satatam](satataṃ) [śive](śive)
+[without-parts](niṣkala)+[order](krama)+[path](mārgeṇa) [they-worship](bhajanti) [always](satataṃ) [o-śiva](śive)
 
 ## mukta-m0-p55-v1367
-[brahma-vidyā](brahmavidyā) [mahā-vidyā](mahāvidyā) [sarvatra](sarvatra) [durlabhā](durlabhā) [kalau](kalau)
+[brahman](brahma)+[knowledge](vidyā) [great](mahā)+[knowledge](vidyā) [everywhere](sarvatra) [rare](durlabhā) [in-kali-yuga](kalau)
 
 ## mukta-m0-p55-v1368
-[iti](iti) [saṃkṣepataḥ](saṃkṣepataḥ) [proktam](proktaṃ) [kim](kimanyacchrotumicchasi) [anyat](anyat) [śrotum](śrotum) [icchasi](icchasi)
+[thus](iti) [briefly](saṃkṣepataḥ) [declared](proktaṃ) [what](kim)+[else](anyat)+[to-hear](śrotum)+[you-wish](icchasi)
 
 ## mukta-m0-p55-v1369
-[nāma-ekaviṃśatiḥ](nāmaikaviṃśatiḥ) [paṭalaḥ](paṭalaḥ)
+[named](nāma)+[twenty](eka)+[first](viṃśatiḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p55-v1370
-[gandharva-ākhya-krameṇa](gandharvākhyakrameṇaiva) [eva](eva) [sundarī](sundarī) [bhuvi](bhuvi) [durlabhā](durlabhā)
+[gandharva](gandharva)+[named](ākhya)+[method](krameṇa)+[indeed](eva) [beautiful-woman](sundarī) [on-earth](bhuvi) [rare](durlabhā)
 
 ## mukta-m0-p55-v1371
-[bhrū-madhye](bhrūmadhye) [kuṅkumam](kuṅkumaṃ) [devi](devi) [tad-ante](tadante) [malayāgurum](malayāgurum)
+[brow](bhrū)+[middle](madhye) [saffron](kuṅkumaṃ) [o-goddess](devi) [that](tat)+[end](ante) [malaya](malaya)+[aguru](agurum)
 
 ## mukta-m0-p55-v1372
-[sugandha-śveta-lauhitya-puṣpa-puṣpaiḥ](sugandhaśvetalauhityapuṣpuṣpaiḥ) [sambhūṣitaḥ](sambhūṣito) [naraḥ](naraḥ)
+[fragrant](su)+[scented](gandha)+[white](śveta)+[red](lauhitya)+[flowers](puṣpaiḥ) [well](sam)+[adorned](bhūṣitaḥ) [man](naraḥ)
 
 ## mukta-m0-p55-v1373
-[aṣṭa-gandhasya](aṣṭagandhasya) [dhūpena](dhūpena) [nānā-saugandha-bhūṣitaḥ](nānāsaugandhabhūṣitaḥ)
+[eight](aṣṭa)+[fragrances](gandhasya) [with-incense](dhūpena) [various](nānā)+[perfumes](saugandha)+[adorned](bhūṣitaḥ)
 
 ## mukta-m0-p55-v1374
-[pūrṇa-abhiṣekaḥ](pūrṇābhiṣekaḥ) [śirasi](śirasi) [tena](tena) [tatra](tatra) [na](na) [muṇḍanam](muṇḍanam)
+[full](pūrṇa)+[consecration](abhiṣekaḥ) [on-head](śirasi) [by-that](tena) [there](tatra) [not](na) [tonsure](muṇḍanam)
 
 ## mukta-m0-p55-v1375
-[nānā-saugandha-bhojyaiḥ](nānāsaugandhabhojyaiśca) [ca](ca) [rāja-yogyaiḥ](rājayogyairmaheśvari) [maheśvari](maheśvari)
+[various](nānā)+[fragrant](saugandha)+[foods](bhojyaiḥ)+[and](ca) [royal](rāja)+[worthy](yogyaiḥ)+[o-great-goddess](maheśvari)
