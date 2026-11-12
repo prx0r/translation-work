@@ -19,12 +19,8 @@
 "quick_gloss": "as-scripture"
 },
 {
-"surface": "kumārī",
-"quick_gloss": "of-maiden"
-},
-{
-"surface": "suratiṃ",
-"quick_gloss": "intercourse"
+"surface": "kumārī+suratiṃ",
+"quick_gloss": "of-maiden+intercourse"
 },
 {
 "surface": "yathā",
@@ -40,28 +36,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "diśa",
-"quick_gloss": "direction"
+"surface": "diśā+veśa+vinirmuktaṃ",
+"quick_gloss": "direction+dress+free-from"
 },
 {
-"surface": "veśa",
-"quick_gloss": "guise"
-},
-{
-"surface": "vinirmuktaṃ",
-"quick_gloss": "freed-from"
-},
-{
-"surface": "sthāna",
-"quick_gloss": "place"
-},
-{
-"surface": "varṇa",
-"quick_gloss": "color"
-},
-{
-"surface": "vivarjitam",
-"quick_gloss": "devoid-of"
+"surface": "sthāna+varṇa+vivarjitam",
+"quick_gloss": "place+color+devoid-of"
 }
 ]
 },
@@ -74,7 +54,7 @@
 "tokens": [
 {
 "surface": "anāthaṃ",
-"quick_gloss": "without-lord"
+"quick_gloss": "without-protector"
 },
 {
 "surface": "sarva+nātham",
@@ -85,16 +65,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "pramāda",
-"quick_gloss": "negligence"
-},
-{
-"surface": "unmāda",
-"quick_gloss": "madness"
-},
-{
-"surface": "varjitam",
-"quick_gloss": "devoid-of"
+"surface": "pramāda+unmāda+varjitam",
+"quick_gloss": "negligence+madness+devoid-of"
 }
 ]
 },
@@ -122,12 +94,8 @@
 "quick_gloss": "in-wind"
 },
 {
-"surface": "bhūmi",
-"quick_gloss": "in-earth"
-},
-{
-"surface": "ākāśe",
-"quick_gloss": "in-space"
+"surface": "bhūmi+ākāśe",
+"quick_gloss": "in-earth+space"
 },
 {
 "surface": "tathā",
@@ -164,7 +132,7 @@
 },
 {
 "surface": "deha+sthaṃ",
-"quick_gloss": "dwelling-in-body"
+"quick_gloss": "body-situated"
 },
 {
 "surface": "sa",
@@ -213,7 +181,7 @@
 },
 {
 "surface": "caryā",
-"quick_gloss": "conduct"
+"quick_gloss": "observance"
 },
 {
 "surface": "na",
@@ -221,7 +189,7 @@
 },
 {
 "surface": "kriyā+udayaḥ",
-"quick_gloss": "arising-of-rites"
+"quick_gloss": "arising-of-ritual-action"
 }
 ]
 },
@@ -279,7 +247,7 @@
 "tokens": [
 {
 "surface": "niyamāḥ",
-"quick_gloss": "observances"
+"quick_gloss": "restraints"
 },
 {
 "surface": "ca",
@@ -298,12 +266,8 @@
 "quick_gloss": "is"
 },
 {
-"surface": "kṣetra",
-"quick_gloss": "in-sacred-field"
-},
-{
-"surface": "pīṭhe",
-"quick_gloss": "in-shrine"
+"surface": "kṣetra+pīṭhe",
+"quick_gloss": "in-sacred-place+seat"
 },
 {
 "surface": "ca",
@@ -323,24 +287,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirālamba",
-"quick_gloss": "supportless"
-},
-{
-"surface": "padaṃ",
-"quick_gloss": "state"
+"surface": "nirālamba+padaṃ",
+"quick_gloss": "supportless-state"
 },
 {
 "surface": "śāntaṃ",
 "quick_gloss": "peaceful"
 },
 {
-"surface": "tathā",
-"quick_gloss": "thus"
-},
-{
-"surface": "atītaṃ",
-"quick_gloss": "transcendent"
+"surface": "tathā+atītaṃ",
+"quick_gloss": "thus-transcendent"
 },
 {
 "surface": "nirañjanam",
@@ -356,20 +312,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kārya",
-"quick_gloss": "cause"
-},
-{
-"surface": "kāraṇa",
-"quick_gloss": "effect"
-},
-{
-"surface": "nirmuktam",
-"quick_gloss": "freed-from"
+"surface": "kārya+kāraṇa+nirmuktam",
+"quick_gloss": "cause+effect+free-from"
 },
 {
 "surface": "acintitam",
-"quick_gloss": "unthought"
+"quick_gloss": "unthinkable"
 },
 {
 "surface": "ca",
@@ -402,7 +350,7 @@
 },
 {
 "surface": "akula+vīraṃ",
-"quick_gloss": "Akula-hero"
+"quick_gloss": "akula-hero"
 },
 {
 "surface": "tat",
@@ -423,23 +371,15 @@
 "tokens": [
 {
 "surface": "akula+vīraṃ",
-"quick_gloss": "Akula-hero"
+"quick_gloss": "akula-hero"
 },
 {
 "surface": "mahat+bhūtam",
 "quick_gloss": "great-element"
 },
 {
-"surface": "asti",
-"quick_gloss": "existence"
-},
-{
-"surface": "nāsti",
-"quick_gloss": "non-existence"
-},
-{
-"surface": "vivarjitam",
-"quick_gloss": "devoid-of"
+"surface": "asti+nāsti+vivarjitam",
+"quick_gloss": "existence+non-existence+devoid-of"
 }
 ]
 },
@@ -455,12 +395,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "kāla",
-"quick_gloss": "time"
-},
-{
-"surface": "kalanā",
-"quick_gloss": "reckoning"
+"surface": "kāla+kalanā",
+"quick_gloss": "time+reckoning"
 },
 {
 "surface": "ca",
@@ -521,7 +457,7 @@
 },
 {
 "surface": "kṛtakaṃ",
-"quick_gloss": "made"
+"quick_gloss": "artificial"
 },
 {
 "surface": "na",
@@ -533,7 +469,7 @@
 },
 {
 "surface": "kārakam",
-"quick_gloss": "doer"
+"quick_gloss": "agent"
 }
 ]
 },
@@ -565,16 +501,8 @@
 "quick_gloss": "said"
 },
 {
-"surface": "udaya",
-"quick_gloss": "rising"
-},
-{
-"surface": "astamana",
-"quick_gloss": "setting"
-},
-{
-"surface": "varjitam",
-"quick_gloss": "devoid-of"
+"surface": "udaya+astamana+varjitam",
+"quick_gloss": "rising+setting+devoid-of"
 }
 ]
 },
@@ -602,12 +530,8 @@
 "quick_gloss": "such"
 },
 {
-"surface": "tattva",
-"quick_gloss": "principle"
-},
-{
-"surface": "nirṇayam",
-"quick_gloss": "determination"
+"surface": "tattva+nirṇayam",
+"quick_gloss": "principle-determination"
 }
 ]
 },
@@ -639,12 +563,8 @@
 "quick_gloss": "here"
 },
 {
-"surface": "kārya",
-"quick_gloss": "action"
-},
-{
-"surface": "vicāraṇāt",
-"quick_gloss": "by-deliberation"
+"surface": "kārya+vicāraṇāt",
+"quick_gloss": "by-action-deliberation"
 }
 ]
 },
@@ -668,16 +588,8 @@
 "quick_gloss": "why"
 },
 {
-"surface": "bhrānti",
-"quick_gloss": "by-delusion"
-},
-{
-"surface": "jñāna",
-"quick_gloss": "knowledge"
-},
-{
-"surface": "vimohitāḥ",
-"quick_gloss": "deluded-ones"
+"surface": "bhrānti+jñāna+vimohitāḥ",
+"quick_gloss": "by-delusion+knowledge+bewildered"
 }
 ]
 },
@@ -750,12 +662,8 @@
 "quick_gloss": "fools"
 },
 {
-"surface": "karma+kāṇḍa",
-"quick_gloss": "in-ritual-section"
-},
-{
-"surface": "ratāḥ",
-"quick_gloss": "devoted"
+"surface": "karma+kāṇḍa+ratāḥ",
+"quick_gloss": "devoted-to-ritual-section"
 },
 {
 "surface": "tu",
@@ -776,7 +684,7 @@
 "tokens": [
 {
 "surface": "akula+vīraṃ",
-"quick_gloss": "Akula-hero"
+"quick_gloss": "akula-hero"
 },
 {
 "surface": "mahat+bhūtam",
@@ -812,16 +720,8 @@
 "quick_gloss": "without-appearance"
 },
 {
-"surface": "pada",
-"quick_gloss": "word"
-},
-{
-"surface": "cheda",
-"quick_gloss": "division"
-},
-{
-"surface": "vivarjitam",
-"quick_gloss": "devoid-of"
+"surface": "pada+cheda+vivarjitam",
+"quick_gloss": "word-division+devoid-of"
 }
 ]
 },
@@ -911,24 +811,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "grāhya",
-"quick_gloss": "grasper"
+"surface": "grāhya+grāhaka+nirmukta",
+"quick_gloss": "grasper+grasped+free-from"
 },
 {
-"surface": "grāhaka",
-"quick_gloss": "grasped"
-},
-{
-"surface": "nirmukta",
-"quick_gloss": "freed-from"
-},
-{
-"surface": "grantha",
-"quick_gloss": "knot"
-},
-{
-"surface": "atītam",
-"quick_gloss": "transcending"
+"surface": "grantha+atītam",
+"quick_gloss": "knot+transcended"
 },
 {
 "surface": "ca",

@@ -7,14 +7,14 @@
     {
      "surface": "antyajā",
      "gloss": "outcaste-woman",
-     "grounds": "woman of the lowest birth; topic of the declaration",
+     "grounds": "topic to be explained, continuing from previous verse's inquiry",
      "morph": "f.nom.sg"
     },
     {
      "surface": "saṃpravakṣyāmi",
-     "gloss": "i-shall-declare",
-     "grounds": "speaker's promise to expound",
-     "morph": "1.sg.future.act (sam-pra-√vac)"
+     "gloss": "I-shall-declare",
+     "grounds": "speaker's promise to expound the subject",
+     "morph": "1.sg.future.act (sam+pra+√vac)"
     },
     {
      "surface": "śṛṇu",
@@ -24,28 +24,28 @@
     },
     {
      "surface": "devi",
-     "gloss": "o-goddess",
-     "grounds": "vocative address to the goddess",
+     "gloss": "O-goddess",
+     "grounds": "vocative address to the interlocutor",
      "morph": "f.voc.sg"
     },
     {
      "surface": "yathāsthitam",
      "gloss": "as-it-is",
-     "grounds": "in accordance with the actual state; truthfully",
-     "morph": "indecl."
+     "grounds": "manner of explanation, indicating faithful presentation",
+     "morph": "compound (yathā+sthita), n.acc.sg (adverbial)"
     }
    ],
-   "question": "What truthful account of the outcaste woman will be declared to the goddess?",
+   "question": "In what manner will the nature of the outcaste woman be declared to the goddess?",
    "premises": [
-    "The speaker directly addresses the goddess.",
-    "The speaker promises to declare the outcaste woman.",
-    "The declaration is to be made as things truly are."
+    "The speaker promises to declare the subject of the outcaste woman.",
+    "The goddess is directly addressed and asked to listen.",
+    "The explanation is to be given as it truly is."
    ],
-   "inference": "Therefore, the goddess is to receive a truthful exposition concerning the outcaste woman.",
+   "inference": "The speaker commits to giving the goddess a faithful and direct account of the outcaste woman.",
    "uncertainties": [
-    "antyajā is taken as the topic or object of declaration though morphologically nominative singular."
+    "The precise doctrinal content of 'antyajā' depends on the preceding and following context."
    ],
-   "plain_english": "O goddess, listen; I shall declare the outcaste woman as she truly is."
+   "plain_english": "O goddess, listen: I shall declare the outcaste woman as she truly is."
   }
  ]
 }
