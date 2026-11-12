@@ -7,7 +7,7 @@
     {
      "surface": "ṣaṣṭhaṃ",
      "gloss": "sixth",
-     "grounds": "ordinal qualifier of cakraṃ",
+     "grounds": "ordinal numeral qualifying cakraṃ",
      "morph": "n.acc.sg"
     },
     {
@@ -24,40 +24,41 @@
     },
     {
      "surface": "rājānam",
-     "gloss": "king",
-     "grounds": "epithet characterizing the sixth cakra",
+     "gloss": "royal",
+     "grounds": "epithet attributing supreme status to cakraṃ",
      "morph": "m.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "numeral member of compound describing petals",
+     "grounds": "numeral member of compound describing petra",
      "morph": "compound-member"
     },
     {
      "surface": "patra",
-     "gloss": "petal",
-     "grounds": "second member of compound describing petals",
+     "gloss": "petaled",
+     "grounds": "second member of compound indicating petals",
      "morph": "compound-member"
     },
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "qualifier indicating presence of a central pericarp",
+     "grounds": "compound adjective describing cakraṃ as having a central pericarp",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What defining attributes characterize the sixth cakra identified as king?",
+   "question": "What rank, form, and structural features characterize the sixth cakra?",
    "premises": [
-    "The sixth cakra is designated as king.",
-    "The sixth cakra has eight petals.",
-    "The sixth cakra possesses a pericarp."
+    "The sixth cakra is identified as the subject of description.",
+    "This cakra is characterized as royal in status.",
+    "The cakra possesses eight petals.",
+    "The cakra includes a central pericarp."
    ],
-   "inference": "The sixth cakra is a royal eight-petaled center endowed with a pericarp.",
+   "inference": "The sixth cakra is a royal center structured with eight petals and a pericarp.",
    "uncertainties": [
-    "The exact symbolic sense of rājānam in this context is not fully specified."
+    "The precise symbolic sense of rājānam as royal or supreme is context-dependent."
    ],
-   "plain_english": "And the sixth cakra is the king, having eight petals and a pericarp."
+   "plain_english": "And the sixth cakra is royal, having eight petals and a pericarp."
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 305,
- "question": "What further inquiry is made to Bhairava concerning eatables?",
+ "question": "What question about eatables is being raised again to Bhairava at this point?",
  "premises": [
-  "The topic concerns what has arisen regarding eatables.",
+  "A matter concerning eatables has arisen.",
   "The speaker asks again.",
-  "Bhairava is addressed directly."
+  "The address is made to Bhairava."
  ],
- "inference": "The speaker again asks Bhairava about matters arising concerning eatables.",
- "uncertainties": [],
- "plain_english": "O Bhairava, I ask again about what has arisen concerning eatables."
+ "inference": "The speaker again asks Bhairava about what has arisen concerning eatables.",
+ "uncertainties": [
+  "The specific content of the arisen matter is not specified by these tokens alone."
+ ],
+ "plain_english": "Again I ask you, O Bhairava, about what has arisen concerning eatables."
 }

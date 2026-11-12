@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "etat",
-   "morph": "pron.n.nom.sg",
-   "grounds": "demonstrative pronoun referring to the teaching just given"
+   "morph": "n.nom.sg",
+   "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "te",
-   "morph": "pron.dat.sg",
-   "grounds": "dative pronoun indicating the recipient"
+   "morph": "2.dat.sg",
+   "grounds": "recipient of teaching"
   },
   {
    "lemma": "jīva+abhyāsaṃ",
-   "morph": "compound:jīva+abhyāsa; m.acc.sg",
-   "grounds": "compound naming the discipline concerning the soul"
+   "morph": "compound:jīva+abhyāsa-member.m.acc.sg",
+   "grounds": "compound jīva+abhyāsa as object"
   },
   {
    "lemma": "kathitaṃ",
    "morph": "n.nom.sg",
-   "grounds": "past participle indicating completed instruction"
+   "grounds": "past participle of kath"
   },
   {
    "lemma": "te",
-   "morph": "pron.dat.sg",
-   "grounds": "dative pronoun repeated for emphasis"
+   "morph": "2.dat.sg",
+   "grounds": "recipient repeated for emphasis"
   },
   {
    "lemma": "ca",
@@ -35,7 +35,7 @@
   {
    "lemma": "bhairavi",
    "morph": "f.voc.sg",
-   "grounds": "vocative addressing the goddess Bhairavī"
+   "grounds": "vocative address"
   }
  ]
 }
