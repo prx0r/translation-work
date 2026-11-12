@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 248,
- "question": "What youthful form of sixteen years results from constant yogic practice?",
+ "question": "What youthful form results from constant yogic practice over time?",
  "premises": [
   "The practitioner engages in constant yogic practice",
-  "This practice transforms bodily appearance",
-  "The resulting form is that of sixteen years"
+  "The practice is sustained over time",
+  "A specific youthful appearance is attained"
  ],
- "inference": "Through constant yogic practice, one may attain the form of a sixteen-year-old",
- "uncertainties": [],
- "plain_english": "Through constant yogic practice, one may attain the form of a sixteen-year-old."
+ "inference": "Through constant yogic practice, one attains the form of a sixteen-year-old",
+ "uncertainties": [
+  "dvi-aṣṭa-varṣa-ākṛtiḥ is interpreted as the form of sixteen years"
+ ],
+ "plain_english": "Through constant yogic practice, one attains the form of a sixteen-year-old."
 }

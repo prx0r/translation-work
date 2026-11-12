@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 239,
- "question": "What further attainments of immortality and transformation are briefly stated?",
+ "question": "What further attainments are summarized for the goddess in this context?",
  "premises": [
-  "Immortality is named as an attainment",
-  "Transformation is named as another attainment",
-  "The teaching presents them in brief"
+  "The teaching is being summarized briefly",
+  "Immortality is among the attainments",
+  "Transformation is also attained"
  ],
- "inference": "In brief, the practice brings immortality and transformation",
- "uncertainties": [],
- "plain_english": "O goddess, in brief, one attains immortality and likewise transformation."
+ "inference": "In brief, the attainments include immortality and transformation, O goddess",
+ "uncertainties": [
+  "parivartanam could mean transformation, reversal, or exchange depending on context"
+ ],
+ "plain_english": "Likewise, O goddess, in brief, one attains immortality and transformation."
 }

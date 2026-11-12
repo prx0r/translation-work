@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[by-mantras](mantraiḥ) [and](ca) [vaidic](vaidikaiḥ) [śaiva](śaivaiḥ) [prescribed](vihitaḥ) [mixed](miśraḥ) [is-called](ucyate)
+[by+mantras](mantraiḥ) [and+by+vedic](vaidikaiḥ) [and+by+saiva](śaivaiḥ) [made](vihitaḥ) [mixed](miśraḥ) [is+said](ucyate)
 
 ## mukta-m0-p51-v1252
-[production](utpādane) [order](kramaḥ) [thus](tv) [indeed](evaṃ) [prescribed](vihitaḥ) [śiva-teaching](śiva+śāsane)
+[in+production](utpādane) [order](kramaḥ) [indeed](tu) [thus](evaṃ) [enjoined](vihitaḥ) [in+śiva+teaching](śivaśāsane)
 
 ## mukta-m0-p51-v1253
-[vaidic-fire](vaidika+agniḥ) [declared](samuddiṣṭaḥ) [mixed-fire](miśra+agniḥ) [tu](tu) [both-natured](ubhaya+ātmakaḥ)
+[vedic+fire](vaidikāgniḥ) [is+pointed+out](samuddiṣṭaḥ) [mixed+fire](miśrāgniḥ) [indeed](tu) [of+both+nature](ubhayātmakaḥ)
 
 ## mukta-m0-p51-v1254
-[brought-forth](praṇītā) [brahma-kūrca](brahma+kūrcena) [joined](saṃyuktaḥ) [vaidic](vaidikaḥ) [remembered](smṛtaḥ)
+[prepared](praṇītaḥ) [by+brahma+kūrca](brahmakūrcena) [joined](saṃyuktaḥ) [vedic](vaidikaḥ) [is+remembered](smṛtaḥ)
 
 ## mukta-m0-p51-v1255
-[of-mixed-and-vaidic-fires](miśra+vaidikayoḥ+agnyoḥ) [own-form](svarūpaṃ) [hear](śṛṇuta) [twice-born](dvijāḥ)
+[of+mixed+and+vedic](miśravaidikayoḥ) [of+fires](agnyoḥ) [form](svarūpam) [hear](śṛṇuta) [twice-born](dvijāḥ)
 
 ## mukta-m0-p51-v1256
-[six-eyed](ṣaḍ+akṣaḥ) [girdle-possessing](mekhalā+yuktaḥ) [three-feet](pāda+traya) [endowed](samānvitaḥ)
+[six-syllabled](ṣaḍakṣaḥ) [with+sacred+thread+girdle](mekhalāyuktaḥ) [endowed+with+three+feet](pādatrayasamānvitaḥ)
 
 ## mukta-m0-p51-v1257
-[sacred-thread-wearing](upavītī) [muñja-possessing](mauñjī+vān) [seven-hands](sapta+hasta) [endowed](samāyutaḥ)
+[wearing+upper+garment](upavītī) [and+having+munja+cord](mauñjīvān) [endowed+with+seven+hands](saptahastasamāyutaḥ)
 
 ## mukta-m0-p51-v1258
-[golden](hiraṇyā) [golden](kanakā) [red](raktā) [black](kṛṣṇā) [tongue](jihvā) [ca](ca) [right](dakṣiṇe)
+[golden](hiraṇyā) [golden-colored](kanakā) [red](raktā) [black](kṛṣṇā) [tongue](jihvā) [and](ca) [in+right](dakṣiṇe)
 
 ## mukta-m0-p51-v1259
-[thus](evaṃ) [tongues](jihvāḥ) [declared](samuddiṣṭāḥ) [in-mixed-fire-and-vaidic-fire](miśra+agnau+vaidika+anale)
+[thus](evaṃ) [tongues](jihvāḥ) [are+pointed+out](samuddiṣṭāḥ) [in+mixed+fire](miśrāgnau) [and+in+vedic+fire](vaidikānale)
 
 ## mukta-m0-p51-v1260
-[red](raktā) [ca](ca) [northern-tongue](uttara+jihvā) [syāt](syāt) [black](kṛṣṇā) [southern](yāmyāṃ) [direction](diśi) [situated](sthitā)
+[red](raktā) [northern+tongue](uttarajihvā) [would+be](syāt) [black](kṛṣṇā) [in+southern+direction](yāmyāṃ diśi) [situated](sthitā)
 
 ## mukta-m0-p51-v1261
-[many-formed](bahu+rūpaiḥ) [tongue](jihvā) [syāt](syāt) [tongue-place](jihvā+sthānaṃ) [proclaimed](prakīrtitam)
+[of+many+forms](bahurūpaiḥ) [tongue](jihvā) [would+be](syāt) [place+of+tongues](jihvāsthānam) [is+proclaimed](prakīrtitam)
 
 ## mukta-m0-p51-v1262
-[five-faced](pañca+vaktra+yutaṃ) [red](rakaṃ) [seven-tongued](sapta+jihvā) [shining](virājitam)
+[endowed+with+five+faces](pañcavaktrayutam) [altar](rakam) [adorned+with+seven+tongues](saptajihvāvirājitam)
 
 ## mukta-m0-p51-v1263
-[red-garment-wearing](rakta+vastra+parīdhānaṃ) [lotus-upon](paṅkaja+upari) [situated](saṃsthitam)
+[clothed+with+red+garment](raktavastraparīdhānam) [upon+lotus](paṅkajopari) [situated](saṃsthitam)
 
 ## mukta-m0-p51-v1264
-[golden](kanakā) [many-formed](bahu+rūpā) [ca](ca) [api](api) [very-red](ati+raktā) [then](tataḥ) [beyond](param)
+[golden](kanakā) [of+many+forms](bahurūpā) [and](ca) [very+red](atiraktā) [thereafter](tataḥ param)
 
 ## mukta-m0-p51-v1265
-[upper-face](ūrdhva+vaktra) [situated](sthitāḥ) [three](tisraḥ) [remaining](śeṣāḥ) [eastward-etc](prāg+āditaḥ) [situated](sthitāḥ)
+[in+upper+face](ūrdhvavaktre) [situated](sthitāḥ) [three](tisraḥ) [remaining](śeṣāḥ) [from+east+etc.](prāgāditaḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p51-v1266
-[vaidic](vaidikaḥ) [api](api) [threefold](tridhā) [gārhapatya](gārhapatyaḥ) [syāt](syāt) [southern](dakṣiṇaḥ) [fire](analaḥ)
+[vedic+fire](vaidikaḥ) [also](api) [threefold](tridhā) [gārhapatya](gārhapatyaḥ) [would+be](syāt) [southern+fire](dakṣiṇaḥ analaḥ)
 
 ## mukta-m0-p51-v1267
-[should-do](kārayet) [teacher](deśikaḥ) [wise](dhīmān) [śaiva-mixed-fire-born](śaiva+miśra+anala+udbhava)
+[should+cause+to+make](kārayet) [the+initiator](deśikaḥ) [wise](dhīmān) [saiva+mixed+fire-origin](śaivamiśrānalodbhave)
 
 ## mukta-m0-p51-v1268
-[mixed](miśraṃ) [vā](vā) [should-accomplish](sādhayet) [there](tatra) [rule](niyamaḥ) [api](api) [prescribed](vidhīyate)
+[mixed](miśram) [or](vā) [should+accomplish](sādhayet) [there](tatra) [rule](niyamaḥ) [also](api) [is+enjoined](vidhīyate)
 
 ## mukta-m0-p51-v1269
-[divine](daivaḥ) [tu](tu) [āhavanīya](āhavanīyaḥ) [tu](tu) [of-others](anyeṣām) [api](api) [praised](śaṃsitaḥ)
+[divine](daivaḥ) [indeed](tu) [āhavanīya](āhavanīyaḥ) [and](ca) [of+others](anyeṣām) [also](api) [is+praised](śaṃsitaḥ)
 
 ## mukta-m0-p51-v1270
-[for-consecration](pratiṣṭhā+artham) [of-śiva-fire](śiva+agneḥ) [tu](tu) [for-prosperity](sampad+artham) [should-gather](samāharet)
+[for+the+sake+of+consecration](pratiṣṭhārtham) [of+śiva+fire](śivāgneḥ) [for+the+sake+of+prosperity](sampadartham) [should+collect](samāharet)
 
 ## mukta-m0-p51-v1271
-[eternal-fire](nitya+agnau) [should-join](yojayet) [elder](vṛddham) [elsewhere](anyatra) [api](api) [ca](ca) [should-join](yojayet)
+[in+perpetual+fire](nityāgnau) [should+join](yojayet) [the+grown+one](vṛddham) [elsewhere](anyatra) [also](api) [and](ca) [should+join](yojayet)
 
 ## mukta-m0-p51-v1272
-[śiva-fire-production-homa](śiva+agni+utpāda+homaḥ) [tu](tu) [best](śreṣṭhaḥ) [declared](saṃparikīrtitaḥ)
+[of+śiva+fire+production+and+offering](śivāgnyutpādahomaḥ) [best](śreṣṭhaḥ) [is+thoroughly+proclaimed](saṃparikīrtitaḥ)
 
 ## mukta-m0-p51-v1273
-[in-vaidic](vaidike) [alone-fire](kevala+agnau) [vā](vā) [śiva-mantras](śiva+mantrān) [na](na) [should-join](yojayet)
+[in+vedic](vaidike) [alone+fire](kevalāgnau) [or](vā) [śiva+mantras](śivamantrān) [not](na) [should+join](yojayet)
 
 ## mukta-m0-p51-v1274
-[thus](tathā) [eva](eva) [mixed-fire](miśra+vahniḥ) [tu](tu) [vaidic-fire](vaidika+agniḥ) [tu](tu) [is-called](kathyate)
+[thus](tathaiva) [mixed+fire](miśravahniḥ) [indeed](tu) [vedic+fire](vaidikāgniḥ) [is+called](kathyate)
 
 ## mukta-m0-p51-v1275
-[vyāsa](vyāsaḥ) [bodhāyana](bodhāyanaḥ) [ca](ca) [āpastamba](āpastambaḥ) [ca](ca) [eva](eva) [āśvalāyana](āśvalāyanaḥ)
+[vyāsa](vyāsaḥ) [bodhāyana](bodhāyanaḥ) [and](ca) [āpastamba](āpastambaḥ) [and](ca) [eva](eva) [āśvalāyana](āśvalāyanaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-auspicious-avoid wise tonsure+marriage+etc own (kalyāṇaṃ varjayeddhīmān cūḍodvāhādikaṃ svakam)
+[auspicious-rite](kalyāṇam) [should-avoid](varjayet) [wise-one](dhīmān) [tonsure+marriage+etc](cūḍa+udvāha+ādikam) [own](svakam)
 
 ## mukta-m0-p46-v1127
-of-rices leftover of-rice-grains indeed lowest becomes (brīhiṇāmavaśiṣṭānāṃ taṇḍulantvadhamaṃ bhavet)
+[of-rice-grains](brīhiṇām) [of-remaining](avaśiṣṭānām) [rice-grain](taṇḍulam) [but](tu) [inferior](adhamam) [should-be](bhavet)
 
 ## mukta-m0-p46-v1128
-other rices declared fruit their separate separate (itare brīhayaḥ proktāḥ phalaṃ teṣāṃ pṛthak pṛthak)
+[other](itare) [rice-grains](brīhayaḥ) [declared](proktāḥ) [result](phalam) [of-them](teṣām) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p46-v1129
-white-sali red and fragrant highest considered (sitaśālyatiraktā ca saugandhiścottamā matā)
+[white-śāli](sita+śāliḥ) [very-red](atiraktā) [and](ca) [fragrant](saugandhiḥ) [and](ca) [best](uttamā) [considered](matā)
 
 ## mukta-m0-p46-v1130
-kustumbara and nivara middle thus proclaimed (kustumbaraśca nīvāro madhyamāśceti kīrtitāḥ)
+[kustumbara](kustumbaraḥ) [and](ca) [nīvāra](nīvāraḥ) [middling](madhyamāḥ) [and](ca) [thus](iti) [declared](kīrtitāḥ)
 
 ## mukta-m0-p46-v1131
-likewise indeed pig-rice short-mouth and small (tathā vai sūkarīvrīhirhrasvavaktrī ca kanyasā)
+[likewise](tathā) [indeed](vai) [sūkarī-rice](sūkarī+vrīhiḥ) [short-mouthed](hrasva+vaktrī) [and](ca) [lowest](kanyasā)
 
 ## mukta-m0-p46-v1132
-as-many grains there offering-preparation (yāvantastaṇḍulāstatra naivedyaparikalpane)
+[as-many](yāvantaḥ) [rice-grains](taṇḍulāḥ) [there](tatra) [in-offering+preparation](naivedya+parikalpane)
 
 ## mukta-m0-p46-v1133
-drying sun-rays rice-etc pure-ground (viśopya sūryakiraṇairvrīhyādīṃśchuddhabhūtale)
+[having-dried](viśopya) [by-sun+rays](sūrya+kiraṇaiḥ) [rice-grains+etc](vrīhi+ādīn) [on-pure+ground](śuddha+bhūtale)
 
 ## mukta-m0-p46-v1134
-pestle heart indeed strike grasp practitioner (musalaṃ hṛdayenaiva hanyātsaṃgṛhya sādhakaḥ)
+[pestle](musalam) [with-heart-mantra](hṛdayena) [indeed](eva) [should-strike](hanyāt) [having-taken](saṃgṛhya) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p46-v1135
-four-varna-born women men or then pound (cāturvarṇodbhavastrībhiḥ puruṣairvā'tha ghātayet)
+[born-of-four+varṇas](cāturvarṇa+udbhavaḥ) [by-women](strībhiḥ) [or](vā) [by-men](puruṣaiḥ) [then](atha) [should-pound](ghātayet)
 
 ## mukta-m0-p46-v1136
-two-hundred twenty-five rice filled indeed that (dviśataiḥ pañcaviṃśatyā vrīhibhiḥ pūritaṃ tu yat)
+[with-two-hundred](dviśataiḥ) [with-twenty-five](pañcaviṃśatyā) [with-rice-grains](vrīhibhiḥ) [filled](pūritam) [but](tu) [which](yat)
 
 ## mukta-m0-p46-v1137
-shell-palm handful palmful measure likewise (śuktistalaṃ prakūrcañca prasṛtiḥ kuḍupaṃ tathā)
+[śukti](śuktiḥ) [tala](talam) [prakūrca](prakūrcam) [and](ca) [prasṛti](prasṛtiḥ) [kuḍupa](kuḍupam) [likewise](tathā)
 
 ## mukta-m0-p46-v1138
-drona khari in-order declared measure thus proclaimed (droṇaṃ khārī kramātproktaṃ mānamevaṃ prakīrtitam)
+[droṇa](droṇam) [khārī](khārī) [in-order](kramāt) [declared](proktam) [measure](mānam) [thus](evam) [stated](prakīrtitam)
 
 ## mukta-m0-p46-v1139
-eight-dharana palm indeed palm fist here called (dharaṇāṣṭau palañcaiva palaṃ muṣṭirihocyate)
+[eight-dharaṇas](dharaṇa+aṣṭau) [pala](palam) [and](ca) [indeed](eva) [pala](palam) [handful](muṣṭiḥ) [here](iha) [is-called](ucyate)
 
 ## mukta-m0-p46-v1140
-load three-khari declared measure thus proclaimed (bhāraṃ khāritrayaṃ proktaṃ mānamevaṃ prakīrtitam)
+[bhāra](bhāram) [three-khārīs](khārī+trayam) [declared](proktam) [measure](mānam) [thus](evam) [stated](prakīrtitam)
 
 ## mukta-m0-p46-v1141
-eight-limbs four-fire-moon-drona-made (aṣṭāṅgeṣu caturvahnikarendudroṇanirmitam)
+[in-eight-parts](aṣṭa+aṅgeṣu) [made-of-four+three+two+one-droṇas](catur+vahni+kara+indu+droṇa+nirmitam)
 
 ## mukta-m0-p46-v1142
-grains adhaka-less offering not prepare (taṇḍulairāḍhakāddhīnairnaivedyaṃ na prakalpayet)
+[with-rice-grains](taṇḍulaiḥ) [less-than-āḍhaka](āḍhakāt) [less](hīnaiḥ) [offering](naivedyam) [not](na) [should-prepare](prakalpayet)
 
 ## mukta-m0-p46-v1143
-prastha kuḍupa-with pisaca-food called (prasthaṃ kuḍupasayuktaṃ paiśācāśanamucyate)
+[prastha](prastham) [joined-with-kuḍupa](kuḍupa+sayuktam) [demonic+food](paiśāca+aśanam) [is-called](ucyate)
 
 ## mukta-m0-p46-v1144
-two-adhaka beginning that-increase nine-number (āḍhakadvayamārabhya tadvṛddhyā navasaṃkhyayā)
+[beginning-with-two-āḍhakas](āḍhaka+dvayam) [starting-from](ārabhya) [by-its-increase](tat+vṛddhyā) [by-number-nine](nava+saṃkhyayā)
 
 ## mukta-m0-p46-v1145
-as-much desired measure indeed so-much desired-offering becomes (yāvat prārthitamānaṃ tu tāvatkāmyahavirbhavet)
+[as-much-as](yāvat) [desired+measure](prārthita+mānam) [but](tu) [so-much](tāvat) [optional+oblation](kāmya+haviḥ) [should-be](bhavet)
 
 ## mukta-m0-p46-v1146
-best-middle-worst likewise rule today ordained (śreṣṭhamadhyādhamāstadvadvidhinā'dya vidhīyate)
+[best+middle+lowest](śreṣṭha+madhya+adhamāḥ) [likewise](tadvat) [by-rule](vidhinā) [now](adya) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p46-v1147
-new-clay-pot or also each-junction prepare (navamṛdbhāṇḍakaṃ vā'pi pratisandhyaṃ prakalpayet)
+[new+clay+vessel](nava+mṛd+bhāṇḍakam) [or](vā) [also](api) [at-each-twilight](prati+sandhyam) [should-prepare](prakalpayet)
 
 ## mukta-m0-p46-v1148
-white-cloth-wearers and indeed white-sacred-thread (śuklavastradharāścaiva śuklayajñopavītinaḥ)
+[wearing-white+garments](śukla+vastra+dharāḥ) [and](ca) [indeed](eva) [wearing-white+sacred-thread](śukla+yajñopavītinaḥ)
 
 ## mukta-m0-p46-v1149
-cloth-strained and waters water-trough fill (vastrapūtaiśca toyaiśca jaladroṇīṃ prapūrayet)
+[with-cloth+filtered](vastra+pūtaiḥ) [and](ca) [with-waters](toyaiḥ) [and](ca) [water+trough](jala+droṇīm) [should-fill](prapūrayet)
 
 ## mukta-m0-p46-v1150
-water indeed six-times squeeze and repeatedly (jalenaiva tu ṣaṭkṛtvaḥ niṣpīḍya ca muhurmu?huḥ)
+[with-water](jalena) [indeed](eva) [but](tu) [six-times](ṣaṭ+kṛtvaḥ) [having-squeezed](niṣpīḍya) [and](ca) [again-and-again](muhuḥ+muhuḥ)

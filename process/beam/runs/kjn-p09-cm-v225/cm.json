@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "caturaśīti",
-   "morph": "compound-member",
-   "grounds": "numeral base of compound indicating quantity"
+   "morph": "numeral.stem",
+   "grounds": "numeral forming quantity with following noun"
   },
   {
    "lemma": "sahasreṣu",
    "morph": "n.loc.pl",
-   "grounds": "locative plural of thousand, qualified by preceding numeral"
+   "grounds": "locative plural indicating extent"
   },
   {
    "lemma": "yoniyantreṣu",
-   "morph": "n.loc.pl (yoni+yantra compound)",
-   "grounds": "compound of womb and diagram in locative plural"
+   "morph": "yoni+yantra.compound n.loc.pl",
+   "grounds": "compound: yoni (womb) + yantra (device); locative plural of locus"
   },
   {
    "lemma": "pīḍitāḥ",
-   "morph": "m.nom.pl (ppp, √pīḍ)",
-   "grounds": "past passive participle describing those afflicted"
+   "morph": "m.nom.pl.ppp (√pīḍ)",
+   "grounds": "past passive participle describing afflicted beings"
   }
  ]
 }
