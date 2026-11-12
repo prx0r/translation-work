@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
-   "grounds": "first part of numerical compound"
+   "morph": "compound=aṣṭa+first",
+   "grounds": "first member of compound indicating eightfold groups"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound-member",
-   "grounds": "second part of numerical compound"
+   "morph": "compound=aṣṭaka+second",
+   "grounds": "second member of compound indicating division"
   },
   {
    "lemma": "vibhāgam",
@@ -20,7 +20,7 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of emphasis"
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "parijñātum",
@@ -30,7 +30,7 @@
   {
    "lemma": "anantathā",
    "morph": "(indecl.)",
-   "grounds": "manner of knowing; formed from ananta"
+   "grounds": "manner of complete knowing"
   }
  ]
 }

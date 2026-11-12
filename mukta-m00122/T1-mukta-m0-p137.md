@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p137-v3401
-[one-by-one](ekaikaśaḥ) [from-hundred](śatāt) [thus](evam) [that-water](tad+toyam) [drum-like](dundha+sannibham)
+[one-by-one](ekaikaśaḥ) [hundred+thus](śatāt+evaṃ) [that+water](tat+toyaṃ) [milk-resembling](dundha+sannibham)
 
 ## mukta-m0-p137-v3402
-[with-hundred-letters](śata+arṇān) [write](ālikhet) [in-middle](madhye) [that-first](tad+ādyam) [from-middle](madhyatas) [write](likhet)
+[hundred-syllables](śata+arṇān) [should-write](ālikhet) [in-middle](madhye) [that+first](tat+ādyaṃ) [from-middle](madhyataḥ) [should-write](likhet)
 
 ## mukta-m0-p137-v3403
-[milk-like](dugdha+sannibham) [with-rasa-etc](rasa+ādibhiḥ)
+[milk-resembling](dugdha+sannibham) [with-juice+and-others](rasa+ādibhiḥ)
 
 ## mukta-m0-p137-v3404
-[of-them](teṣām) [mutual-mixture](anvonya+sambheda) [from-writing](ālekhanāt) [become](syuḥ) [endless](anantakāḥ)
+[of-them](teṣām) [mutual+intermixture](anvonya+sambheda) [by-writing](ālekhanāt) [may-be](syuḥ) [infinite](anantakāḥ)
 
 ## mukta-m0-p137-v3405
-[cells](koṣṭhāni) [producing](utpādya) [well-equal](su+samāni) [sixty-one](eka+ṣaṣṭyā) [three-hundred](śata+trayam)
+[cells](koṣṭāni) [having-produced](utpādya) [well-equal](su+samāni) [by-sixty-one](ekaṣaṣṭyā) [three-hundred](śata+trayam)
 
 ## mukta-m0-p137-v3406
-[remainder](śeṣam) [vajra](vajram) [becomes](bhavet) [cells](koṣṭhaiḥ) [eighty-one-hundred](ekāśīti+śatena) [indeed](vai)
+[remainder](śeṣaṃ) [thunderbolt](vajraṃ) [should-be](bhavet) [with-cells](koṣṭhaiḥ) [by-one-hundred-eighty-one](ekāśīti+śatena) [indeed](vai)
 
 ## mukta-m0-p137-v3407
-[in-them](teṣu) [those](tāḥ) [those](tāḥ) [write](likhet) [vidyā](vidyām) [six-sādhya-named-together](ṣaṭ+sādhya+ākhyā+samāyutām)
+[in-them](teṣu) [those](tāḥ+tāḥ) [should-write](likhet) [mantra](vidyāṃ) [with-six-sādhya-names+endowed](ṣaṭ+sādhya+ākhyā+samāyutām)
 
 ## mukta-m0-p137-v3408
-[write](vilikhet) [amṛta-letters](amṛta+arṇān) [tu](tu) [in-order](kramāt) [sixty-hundred](ṣaṣṭi+śatam) [dear](priye)
+[should-write](vilikhet) [nectar-syllables](amṛta+arṇān) [then](tu) [in-order](kramāt) [one-hundred-sixty](ṣaṣṭi+śataṃ) [O-beloved](priye)
 
 ## mukta-m0-p137-v3409
-[outer-etc-middle-end](vāhya+ādi+madhya+māntam) [tu](tu) [write](likhet) [others](anyāḥ) [tu](tu) [five](pañca) [indeed](vai)
+[outer+beginning-middle-end](vāhya+ādi+madhya+antaṃ) [then](tu) [should-write](likhet) [other](anyāḥ) [then](tu) [five](pañca) [indeed](vai)
 
 ## mukta-m0-p137-v3410
-[yantras](yantrāṇi) [of-them](teṣām) [everywhere](sarvatra) [disease-etc-protection](gada+ādi+parirakṣaṇam)
+[of-yantras](yantrāṇi) [of-them](teṣāṃ) [everywhere](sarvatra) [disease+and-others+protection](gada+ādi+parirakṣaṇam)
 
 ## mukta-m0-p137-v3411
-[in-which](yasmin) [place](deśe) [tu](tu) [this](idam) [yantra](yantra) [ṣakaṃṭke](ṣakaṃṭke) [tu](tu) [thus](evam) [well-worshipped](su+pūjitam)
+[in-which](yasmin) [place](deśe) [then](tu) [this](idaṃ) [yantra-six](yantra+ṣaṭkaṃ) [thus](evaṃ) [well-worshipped](su+pūjitam)
 
 ## mukta-m0-p137-v3412
-[always](sadā) [not](na) [occur](sambhavanti) [thus](evam) [occur](bhavanti) [indeed](eva) [ca](ca) [prosperities](sampadaḥ)
+[always](sadā) [not](na) [arise](sambhavanti) [thus](evaṃ) [arise](bhavanti) [indeed](eva) [and](ca) [prosperities](sampadaḥ)
 
 ## mukta-m0-p137-v3413
-[with-twenty-one-hundred](sa+ekaviṃśat+śatam) [cells](koṣṭhāni) [around](abhitas) [cleanse](mārjayet) [in-order](kramāt)
+[one-hundred-twenty-one](sa+ekaviṃśat+śataṃ) [cells](koṣṭhāni) [outside](abhitaḥ) [should-erase](mārjayet) [in-order](kramāt)
 
 ## mukta-m0-p137-v3414
-[in-middle](madhye) [that-day-born](tad+dina+jām) [vidyā](vidyām) [write](ālikhya) [named-together](ākhyā+samanvitām)
+[in-middle](madhye) [of-that-day-born](tat+dina+jāṃ) [mantra](vidyāṃ) [having-written](ālikhya) [with-name+endowed](ākhyā+samanvitām)
 
 ## mukta-m0-p137-v3415
-[as-before](prāgvat) [front-triangle](agra+trikoṇāt) [tu](tu) [write](vilikhet) [rising-letters](udaya+akṣarāt)
+[as-before](prāk+vat) [from-front-triangle](agra+trikoṇāt) [then](tu) [should-write](vilikhet) [from-rising-syllable](udaya+akṣarāt)
 
 ## mukta-m0-p137-v3416
-[doing](kṛtvā) [stated](proktāni) [fruits](phalāni) [obtain](avāpnuyāt) [iti](iti)
+[having-done](kṛtvā) [declared](proktāni) [fruits](phalāni) [one-obtains](avāpnuyāt) [thus](iti)
 
 ## mukta-m0-p137-v3417
-[ghaṭikā-order-yoga](ghaṭikā+krama+yogena) [with-scent-flowers-etc](gandha+puṣpa+ādibhiḥ) [tathā](tathā)
+[by-ghaṭikā-order+application](ghaṭikā+krama+yogena) [with-fragrance-flowers+and-others](gandha+puṣpa+ādibhiḥ) [likewise](tathā)
 
 ## mukta-m0-p137-v3418
-[quickly](śīghram) [peace](śamam) [go](prayānti) [indeed](eva) [afflictions](kleśāḥ) [there](tatra) [from-worship](pra+pūjanāt)
+[quickly](śīghraṃ) [to-peace](śamaṃ) [go](prayānti) [indeed](eva) [afflictions](kleśāḥ) [there](tatra) [by-worship](prapūjanāt)
 
 ## mukta-m0-p137-v3419
-[with-white](sitaiḥ) [vā](vā) [with-fragrance](saurabha+upetaiḥ) [from-maṇḍala](maṇḍalāt) [prosperity](śriyam) [obtain](āpnuyāt)
+[with-white](sitaiḥ) [or](vā) [with-fragrance-endowed](saurabha+upetaiḥ) [from-circle](maṇḍalāt) [prosperity](śriyam) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p137-v3420
-[all-desired](samasta+vāñchitam) [from-year](varṣāt) [obtain](avāpnoti) [indeed](eva) [certain](niścitam)
+[all+desired](samasta+vāñchitaṃ) [from-year](varṣāt) [one-obtains](avāpnoti) [indeed](eva) [certainly](niścitam)
 
 ## mukta-m0-p137-v3421
-[disease-free](nīrogaḥ) [gone-anxiety](nirgata+adhiḥ) [ca](ca) [endowed-with-conduct](nivṛtti+nīti+saṃyutaḥ)
+[disease-free](nī+rogaḥ) [departed-affliction](nirgata+ādhiḥ) [and](ca) [with-cessation-conduct+endowed](nivṛtti+nīti+saṃyutaḥ)
 
 ## mukta-m0-p137-v3422
-[in-middle](madhye) [sādhya-together](sādhya+sama+upete) [vajra-yantra](vajra+yantra) [day-night](divā+niśam)
+[in-middle](madhye) [with-sādhya+endowed](sādhya+samopete) [in-vajra-yantra](vajra+yantre) [day-and-night](divā+niśam)
 
 ## mukta-m0-p137-v3423
-[at-stated-times](prokta+kāleṣu) [stated-time-limit-worship](prokta+kāla+avadhi+pūjanāt) [stated-fruit-accomplishment](prokta+phala+siddhiḥ) [iti](iti)
+[at-declared-times](prokta+kāleṣu) [by-worship-until-declared-time](prokta+kāla+avadhi+pūjanāt) [attainment-of-declared-fruit](prokta+phala+siddhiḥ) [thus](iti)
 
 ## mukta-m0-p137-v3424
-[with-constant-devotees](nitya+ābhaktaiḥ) [proper](samīcīnaiḥ) [affectionate](snigdhaiḥ) [with-obtained-gifts](saṃprāpta+dakṣiṇaiḥ)
+[by-constant-devotees](nityā+bhaktaiḥ) [by-proper](samīcīnaiḥ) [by-affectionate](snigdhaiḥ) [by-those-who-have-received-initiation-fee](saṃprāpta+dakṣiṇaiḥ)
 
 ## mukta-m0-p137-v3425
-[tathā](tathā) [three-metal-stone-ground](tri+loha+aśma+tale) [doing](kṛtvā) [vajra](vajram) [well-spread](su+vistṛtam)
+[likewise](tathā) [on-three-metal-stone-surface](tri+loha+aśma+tale) [having-made](kṛtvā) [thunderbolt](vajraṃ) [very-extensive](su+vistṛtam)
