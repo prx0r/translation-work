@@ -4,17 +4,17 @@
  "rows": [
   {
    "lemma": "ṣaṇmāsād",
-   "morph": "compound:ṣaṣ+māsa=m.dep+m.head; m.abl.sg",
-   "grounds": "ablative of time; compound ṣaṣ+māsa"
+   "morph": "m.abl.sg",
+   "grounds": "ablative of time duration"
   },
   {
    "lemma": "abhyased",
-   "morph": "3.sg.act-opt",
-   "grounds": "optative of abhyas"
+   "morph": "3.sg.opt.act √abhyas",
+   "grounds": "optative verb of practice"
   },
   {
    "lemma": "yas",
-   "morph": "m.nom.sg",
+   "morph": "pron.m.nom.sg",
    "grounds": "relative pronoun"
   },
   {
@@ -25,12 +25,12 @@
   {
    "lemma": "kāṣāyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object noun, metaphorical or literal renunciation marker"
+   "grounds": "object associated with renunciation"
   },
   {
    "lemma": "bandha+varjitam",
-   "morph": "compound:bandha+varjita=m.dep+m.head; n.acc.sg",
-   "grounds": "compound adjective; bandha+varjita"
+   "morph": "compound",
+   "grounds": "compound describing liberated state"
   }
  ]
 }

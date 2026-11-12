@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 326,
- "question": "Can the liberated person ever be devoid of experiencing auspicious and inauspicious results?",
+ "question": "Can any auspicious or inauspicious experience be entirely absent for that person?",
  "premises": [
-  "Auspicious and inauspicious experiences arise",
-  "Such experiences are to be undergone",
-  "The liberated one is never devoid of them"
+  "Auspicious and inauspicious things are to be experienced",
+  "That person is not devoid of them",
+  "This holds anywhere without exception"
  ],
- "inference": "Experiencing auspicious and inauspicious outcomes remains unavoidable for that person.",
- "uncertainties": [],
- "plain_english": "Auspicious and inauspicious things are to be experienced, and he is never devoid of them anywhere."
+ "inference": "The person remains subject to experiencing both auspicious and inauspicious results.",
+ "uncertainties": [
+  "The referent of tena depends on the preceding context."
+ ],
+ "plain_english": "Auspicious and inauspicious experiences are to be undergone, and he is nowhere devoid of them."
 }

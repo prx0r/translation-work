@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.imp.act",
+   "morph": "2.sg.imp.act(√śru)",
    "grounds": "imperative command"
   },
   {
    "lemma": "tvamadbhutaṃ",
-   "morph": "2.sg.nom+n.acc.sg",
-   "grounds": "tvam + adbhutam fused in one token"
+   "morph": "pron.nom.sg+n.acc.sg",
+   "grounds": "addressee with object fused"
   },
   {
    "lemma": "devi",
@@ -20,7 +20,7 @@
   {
    "lemma": "mahadāścaryakārakam",
    "morph": "n.acc.sg",
-   "grounds": "compound adjective"
+   "grounds": "qualifier of the wondrous teaching"
   }
  ]
 }

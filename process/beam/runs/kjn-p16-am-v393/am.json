@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 393,
- "question": "Which major deities are included in the vision or domain revealed by this practice?",
+ "question": "Which major deities are included in the vision or dominion described here?",
  "premises": [
-  "Brahma, Viṣṇu, Yama, and Indra are named.",
-  "Varuṇa and Vāyu are named.",
-  "The list presents prominent cosmic deities."
+  "Brahma, Viṣṇu, Yama, and Indra are named",
+  "Varuṇa is named",
+  "Vāyu is named"
  ],
- "inference": "The practice encompasses or reveals major deities including Brahma, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu.",
- "uncertainties": [],
+ "inference": "The list includes Brahma, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu.",
+ "uncertainties": [
+  "This verse is part of a longer enumeration continued in the next verse."
+ ],
  "plain_english": "Brahma, Viṣṇu, Yama, and Indra, and also Varuṇa and Vāyu."
 }
