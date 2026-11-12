@@ -5,73 +5,73 @@
 [with-śambhu](śambhunā) [that](tāṃ) [supreme](parāṃ) [power](śaktim) [unity](ekībhāvaṃ) [one-should-contemplate](vicintayet)
 
 ## mukta-m0-p156-v3877
-[one-should-bring](ānayet) [by-that](tena) [path](mārgeṇa) [to-mūlādhāra](mūlādhāraṃ) [then](tataḥ) [the-wise-one](sudhīḥ)
+[one-should-bring](ānayet) [by-this](tena) [path](mārgeṇa) [to-root-support](mūlādhāraṃ) [then](tataḥ) [the-wise-one](sudhīḥ)
 
 ## mukta-m0-p156-v3878
-[by-old-age](jarā)+[death](maraṇa)+[suffering](duḥkha)+[and-so-forth](ādyaiḥ) [is-liberated](mucyate) [from-bondage](bandhanāt)+[of-existence](bhava)
+[by-old-age+death+sorrow+and-others](jarāmaraṇaduḥkhādyaiḥ) [is-liberated](mucyate) [from-bondage-of-existence](bhavabandhanāt)
 
 ## mukta-m0-p156-v3879
-[thus](iti) [this](etaṃ) [declared](kathitaṃ) [all](sarvaṃ) [path](mārgam)+[of-yoga](yoga) [unsurpassed](anuttamam)
+[thus](iti) [this](etaṃ) [declared](kathitaṃ) [all](sarvaṃ) [yoga+path](yogamārgam) [unsurpassed](anuttamam)
 
 ## mukta-m0-p156-v3880
-[absorbed-in-that](mayaḥ)+[that](tat) [one-becomes](bhavati) [quickly](kṣipraṃ) [by-union](yojanāt)+[of-identity](aikya)+[of-individual-soul](jīva)+[and-brahman](brahma)
+[absorbed-in-that](tanmayo) [becomes](bhavati) [quickly](kṣipraṃ) [by-individual-soul+brahman+unity+application](jīvabrahmaikyayojanāt)
 
 ## mukta-m0-p156-v3881
-[by-union](yogena)+[with-parts](avayava)+[of-that](tat) [the-yogin](yogī) [yogas](yogān) [should-practice](samabhyaset)
+[by-connection-with-its-parts](tadāvayavayogena) [yogin](yogī) [yogas](yogān) [should-practice](samabhyaset)
 
 ## mukta-m0-p156-v3882
-[in-place](sthāne) [should-establish](niyojayet) [the-mantrin](mantrī) [purified](viśuddhaḥ) [with-pure](śuddha)+[mind](cetasā)
+[in-place](sthāne) [should-establish](niyojayet) [mantra-practitioner](mantrī) [purified](viśuddhaḥ) [with-pure-mind](śuddhacetasā)
 
 ## mukta-m0-p156-v3883
-[kṛṣṇa](kṛṣṇa) [thus](iti) [an-indication](upalakṣaṇam)
+[kṛṣṇa](kṛṣṇa) [thus](iti) [indicative-example](upalakṣaṇam)
 
 ## mukta-m0-p156-v3884
-[with-fan](vṛntena)+[palm-leaf](tāla) [what](kiṃ) [use](kāryaṃ) [when-obtained](labdhe) [breeze](mārute)+[from-malaya-mountain](malaya)
+[with-palm-leaf-fan](tālavṛntena) [what](kiṃ) [use](kāryaṃ) [when-obtained](labdhe) [malaya+breeze](malayamārute)
 
 ## mukta-m0-p156-v3885
-[of-the-two](dvayoḥ) [union](yogaḥ)+[of-practice](abhyāsa) [indeed](hi) [cause](kāraṇam)+[of-accomplishment](saṃsiddhi)+[of-brahman](brahma)
+[of-the-two](dvayoḥ) [practice+union](abhyāsayogo) [indeed](hi) [brahman+accomplishment+cause](brahmasaṃsiddhikāraṇam)
 
 ## mukta-m0-p156-v3886
-[thus](evam) [covered](āvṛtaḥ)+[by-māyā](māyā) [indeed](hi) [the-self](ātmā) [by-mantra](manunā) [made-accessible](kṛtaḥ)+[to-perception](gocarī)
+[thus](evaṃ) [by-māyā+enveloped](māyāvṛto) [indeed](hi) [self](ātmā) [by-mantra](manunā) [made-perceptible](gocarīkṛtaḥ)
 
 ## mukta-m0-p156-v3887
-[difficult-to-attain](durlabhaṃ) [by-those-attached](āsaktaiḥ)+[to-sense-objects](viṣaya) [easy-to-attain](sulabhaṃ) [but](tu) [for-those-like-you](ādṛśām) [also](api)
+[difficult-to-obtain](durlabhaṃ) [by-those-attached-to-sense-objects](viṣayāsaktaiḥ) [easy-to-obtain](sulabhaṃ) [indeed](tu) [even-for-those-like-you](ādṛśāmapi)
 
 ## mukta-m0-p156-v3888
-[channels](nāḍyaḥ) [there](tatra) [arisen](samudbhūtāḥ) [principal](mukhyāḥ) [three](tisraḥ) [are-declared](prakīrtitāḥ)
+[nāḍīs](nāḍyaḥ) [there](tatra) [arisen](samudbhūtā) [principal](mukhyāḥ) [three](tisraḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p156-v3889
-[of-those-two](tayoḥ) [going](gatā)+[in-the-middle](madhya) [channel](nāḍī) [suṣumnā](suṣumnā) [the-spine](vaṃśam) [resorting-to](āśritā)
+[of-those-two](tayoḥ) [situated-in-the-middle](madhyagatā) [nāḍī](nāḍī) [suṣumnā](suṣumnā) [resting-on-the-spine](vaṃśamāśritā)
 
 ## mukta-m0-p156-v3890
-[place](sthānaṃ)+[of-brahman](brahma) [having-reached](samāpannā) [having-form](rūpiṇī)+[of-moon](soma)+[sun](sūrya)+[and-fire](agni)
+[to-brahman](brahma) [place](sthānaṃ) [having-reached](samāpannā) [moon+sun+fire+form](somasūryāgnirūpiṇī)
 
 ## mukta-m0-p156-v3891
-[path](mārgam)+[of-day](divā) [this](idam) [they-call](prāhuḥ) [cause](kāraṇam)+[of-bliss](ānanda)+[of-immortality](amṛta)
+[divine+path](divāmārgam) [this](idaṃ) [they-call](prāhuḥ) [immortality+bliss+cause](amṛtānanda) [cause](kāraṇam)
 
 ## mukta-m0-p156-v3892
-[known](jñātau) [by-knowers](jñaiḥ)+[of-cause](nidāna)+[of-yoga](yoga) [in-suṣumnā](suṣumnāyām) [and](ca) [those-two](tau) [both](ubhau)
+[known](jñātau) [by-knowers-of-yoga-cause](yoganidānajñaiḥ) [in-suṣumnā](suṣumnāyāṃ) [and](ca) [those-two](tāvubhau)
 
 ## mukta-m0-p156-v3893
-[abode](nilayaṃ) [of-lights](jyotiṣām) [divine](divyam) [they-call](prāhuḥ) [knowers](vedinaḥ)+[of-scripture](āgama)
+[of-lights](jyotiṣāṃ) [abode](nilayaṃ) [divine](divyaṃ) [they-call](prāhuḥ) [knowers-of-scripture](āgamavedinaḥ)
 
 ## mukta-m0-p156-v3894
-[shines-forth](parisphurati) [the-universal-self](ātmā)+[all](sarva) [having-form](ākṛtiḥ)+[resembling](sadṛśa)+[a-sleeping](suptā)+[serpent](ahi)
+[shines-forth](parisphurati) [all-self](sarvātmā) [asleep](suptā) [indeed](hi) [similar+form](sadṛśākṛtiḥ)
 
 ## mukta-m0-p156-v3895
-[haṃsa](haṃsaḥ) [resting-on](āśrayaḥ)+[breath](prāṇa) [always](nityam) [breaths](prāṇāḥ) [resting-on](āśrayāḥ)+[path](patha)+[of-channels](nāḍī)
+[haṃsa](haṃsaḥ) [resting-on-breath](prāṇāśrayo) [always](nityaṃ) [breaths](prāṇā) [resting-on-nāḍī-paths](nāḍīpathāśrayāḥ)
 
 ## mukta-m0-p156-v3896
-[the-body](dehaṃ) [or](vā) [also](api) [by-its-own](sva)+[channels](nāḍībhiḥ) [departure](prayāṇaṃ) [makes](kurute) [outside](vahiḥ)
+[body](dehaṃ) [or](vā) [having-pervaded](āpya) [by-its-own-nāḍīs](svanāḍībhiḥ) [departure](prayāṇaṃ) [makes](kurute) [outside](vahiḥ)
 
 ## mukta-m0-p156-v3897
-[having-fixed](baddhvā) [thus](evam) [posture](āsanam) [the-yogin](yogī) [devoted-to](paraḥ)+[path](mārga)+[of-yoga](yoga) [should-be](bhavet)
+[having-bound](baddha) [thus](evam) [posture](āsanaṃ) [yogin](yogī) [devoted-to-yoga-path](yogamārgaparo) [should-be](bhavet)
 
 ## mukta-m0-p156-v3898
-[at-the-arising](udaye)+[of-the-state](bhūta)+[of-posture](āsana) [previously](prāk)+[stated](ukte)
+[in-the-arising-of-the-seat-ground](āsanabhūtodaye) [previously-stated](prāgukte)
 
 ## mukta-m0-p156-v3899
-[one-should-hold](dhārayet) [the-breath](mārutam) [properly](samyak) [this-yoga](yogaḥ)+[this](ayam) [dear](vallabhaḥ)+[to-yogins](yogi)
+[one-should-hold](dhārayet) [breath](mārutaṃ) [properly](samyak) [yoga](yogo) [this]('yaṃ) [dear-to-yogins](yogivallabhaḥ)
 
 ## mukta-m0-p156-v3900
-[resembling](sadṛśaḥ)+[song](gīta)+[of-a-swarm](āvalī)+[of-intoxicated](matta)+[bees](bhṛṅga) [first](prathamaḥ) [sound](dhvaniḥ)
+[intoxicated+bee+row+song+similar](mattabhṛṅgāvalīgītasadṛśaḥ) [first](prathamo) [sound](dhvaniḥ)

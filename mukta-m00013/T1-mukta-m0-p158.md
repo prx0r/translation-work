@@ -5,28 +5,28 @@
 [charming](manoharaṃ) [good+bed](su+talpañca) [to-be-given](deyāni) [these](etāni) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p158-v3927
-[other](anyat) [all](sarvaṃ) [general+method](sāmānya+paddhati) [as-stated](uktavat)
+[other](anyat) [all](sarvaṃ) [common+method](sāmānya+paddhati) [as-stated](uktavat)
 
 ## mukta-m0-p158-v3928
-[poison](viṣaṃ) [praṇava](praṇavaṃ,) [fierce](raudraṃ) [māyā+seed](māyā+bījam)
+[poison](viṣaṃ) [sacred-syllable-oṃ](praṇavaṃ,) [fierce](raudraṃ) [illusion+seed](māyā+bījam)
 
 ## mukta-m0-p158-v3929
-[six+faced](ṣaṇ+mukhaṃ) [lofty+eyed](tuṅga+netrañca) [all+army](sarva+sainya) [honored-by](puraskṛtam)
+[six-faced](ṣaṇmukhaṃ) [lofty+eyed](tuṅga+netrañca) [all+army](sarva+sainya) [honored-by](puraskṛtam)
 
 ## mukta-m0-p158-v3930
-[of-goddess](devyāḥ) [deed](caritam) [this](etat) [indeed](tu,) [all+siddhi](sarva+siddhi) [causing](karaṃ) [for-humans](nṛṇām)
+[of-the-goddess](devyāḥ) [deed](caritam) [this](etat) [indeed](tu,) [all+accomplishment](sarva+siddhi) [causing](karaṃ) [for-humans](nṛṇām)
 
 ## mukta-m0-p158-v3931
-[eight+syllabled](aṣṭa+akṣaro) [great+mantra](mahā+mantraḥ) [of-ṣaṣṭhī+goddess](ṣaṣṭhī+devyāḥ) [proclaimed](prakīrttitaḥ)
+[eight-syllabled](aṣṭākṣaro) [great+mantra](mahā+mantraḥ) [of-ṣaṣṭhī+goddess](ṣaṣṭhī+devyāḥ) [proclaimed](prakīrttitaḥ)
 
 ## mukta-m0-p158-v3932
-[pure+formed](pavitra+rūpāṃ) [supreme](paramāṃ) [devasenā](devasenām) [I](ahaṃ) [worship](bhaje)
+[pure+formed](pavitra+rūpāṃ) [supreme](paramāṃ) [devasenā](devasenām) [I](aham) [worship](bhaje)
 
 ## mukta-m0-p158-v3933
 [of-maṅgalacaṇḍī](maṅgalacaṇḍyā) [in-brahmavaivarta](brahmavaivarte) [to-be-known](jñeyam)
 
 ## mukta-m0-p158-v3934
-[halāhala](halāhalaṃ) [praṇava](praṇavaḥ)
+[halāhala-poison](halāhalaṃ) [sacred-syllable-oṃ](praṇavaḥ)
 
 ## mukta-m0-p158-v3935
 [thus](evaṃ) [jaratkāru+sage](jaratkāru+muni) [āstīka+sage](āstīka+muni) [nāga+and-others](nāga+ādi) [enclosures](āvaraṇān) [one-should-worship](pūjayet)
@@ -47,31 +47,31 @@
 [alakanandā](alakanandā) [and](ca) [on-left+side](vāma+bhāge) [on-earth](pṛthivyāṃ) [which](yā) [indeed](tu) [stands](tiṣṭhati)
 
 ## mukta-m0-p158-v3941
-[five+syllabled](pañca+akṣaram) [this](imaṃ) [mantra](mantraṃ) [who](yaḥ) [may-recite](paṭhet) [or-may-hear](śṛṇuyāt+api)
+[five-syllabled](pañcākṣaram) [this](imaṃ) [mantra](mantraṃ) [who](yaḥ) [may-recite](paṭhet) [or-may-hear](śṛṇuyāt) [even](api)
 
 ## mukta-m0-p158-v3942
-[pregnant-woman](gurviṇī) [may-give-birth](janayet) [son](putraṃ) [barren-woman](bandhyā) [having+son](putra+vatī) [may-become](bhavet)
+[pregnant-woman](gurviṇī) [may-give-birth-to](janayet) [son](putraṃ) [barren-woman](bandhyā) [possessing+son](putra+vatī) [may-become](bhavet)
 
 ## mukta-m0-p158-v3943
-[who](yaḥ) [may-recite](paṭhet) [in-house+middle](gṛha+madhye) [indeed](tu) [gaṅgā+bath](gaṅgā+snāna) [fruit](phalaṃ) [obtains](labhet)
+[who](yaḥ) [may-recite](paṭhet) [in-house+middle](gṛha+madhye) [indeed](tu) [gaṅgā+bathing](gaṅgā+snāna) [fruit](phalaṃ) [obtains](labhet)
 
 ## mukta-m0-p158-v3944
-[who](yaḥ) [may-recite](praṭhet) [disciplined](prayato) [with-devotion](bhaktyā) [liberated](muktaḥ) [with-crore+families](koṭi+kulaiḥ) [together](saha)
+[who](yaḥ) [may-recite](praṭhet) [disciplined](prayato) [with-devotion](bhaktyā) [liberated](muktaḥ) [with-ten-million+families](koṭi+kulaiḥ) [together](saha)
 
 ## mukta-m0-p158-v3945
 [how](kathaṃ) [my](me) [progeny](santatiḥ) [may-remain](tiṣṭhet) [tell](brūhi) [me](me) [sage+bull](muni+puṃ"gava)
 
 ## mukta-m0-p158-v3946
-[that](tat) [to-you](te) [all](sarvaṃ) [I-shall-declare](pravakṣyāmi) [with-attention](sa+avadhāna) [listen](avadhāraya)
+[that](tat) [to-you](te) [all](sarvaṃ) [I-shall-declare](pravakṣyāmi) [with-attention](sāvadhāna) [listen](avadhāraya)
 
 ## mukta-m0-p158-v3947
 [oṃ](oṃ) [bāhuleya](bāhuleyaḥ) [head](śiraḥ) [may-protect](pāyāt) [shoulders](skandhau) [śaṅkara+son](śaṅkara+nandanaḥ)
 
 ## mukta-m0-p158-v3948
-[hips](kaṭiṃ) [may-protect](pāyāt) [spear+handed](śakti+hastaḥ) [shanks](jaṅghe) [my](me) [tāraka+slayer](tāraka+antakaḥ)
+[hips](kaṭiṃ) [may-protect](pāyat) [spear+handed](śakti+hasto) [shanks](jaṅghe) [my](me) [tāraka+slayer](tāraka+antakaḥ)
 
 ## mukta-m0-p158-v3949
-[skanda](skando) [me](me) [may-protect](rakṣatām) [limb](aṅgaṃ) [ten+directions](daśa+dik) [fire+born](agni+bhūḥ) [my](mam)
+[skanda](skando) [me](me) [may-protect](rakṣatām) [limb](aṅgaṃ) [ten+directions](daśa+dig) [fire+born](agni+bhūr) [my](mam)
 
 ## mukta-m0-p158-v3950
-[son-of-six-mothers](ṣāṇ+māturaḥ) [in-fear](bhaye) [terrible](ghore) [kumāra](kumāraḥ) [may-protect](avyāt) [in-cremation-ground](śmaśānake)
+[son-of-six-mothers](ṣāṇmāturo) [in-fear](bhaye) [terrible](ghore) [kumāra](kumāro) [may-protect](avyāt) [in-cremation-ground](śmaśānake)
