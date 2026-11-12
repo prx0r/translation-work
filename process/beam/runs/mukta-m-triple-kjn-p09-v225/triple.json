@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral element forming the count eighty-four thousand",
-     "morph": "numeral.compound"
+     "grounds": "numeral compound referring to count",
+     "morph": "fem.nom.pl"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural of sahasra, indicating the large number",
-     "morph": "n.loc.pl.nt"
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral",
+     "morph": "neut.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "compound of yoni and yantra in locative plural, denoting ritual or cosmic diagrams",
-     "morph": "n.loc.pl.nt (compound: yoni+yantra)"
+     "gloss": "womb-diagrams",
+     "grounds": "compound locative with yonī + yantra",
+     "morph": "neut.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing beings subjected to suffering",
-     "morph": "ppp.nom.pl.m (√pīḍ)"
+     "grounds": "past passive participle",
+     "morph": "3.pl.perf.pass"
     }
    ],
-   "question": "What condition of suffering afflicts beings within the eighty-four thousand yoni-diagrams?",
+   "question": "By what count and in what contexts are certain beings said to endure torment?",
    "premises": [
-    "The scope is eighty-four thousand in number.",
-    "The location is the yoni-diagrams.",
-    "The beings there are tormented."
+    "A count of eighty-four is specified.",
+    "That count applies to thousands of womb-diagrams.",
+    "Beings within those womb-diagrams are tormented."
    ],
-   "inference": "Beings are subjected to torment throughout the vast array of eighty-four thousand yoni-diagrams.",
+   "inference": "Beings are tormented within eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The subject of pīḍitāḥ is not explicitly stated in this verse and must be inferred from context."
+    "The identity of the tormented beings remains unspecified."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand yoni-diagrams."
+   "plain_english": "Eighty-four thousand womb-diagrams contain tormented beings."
   }
  ]
 }
