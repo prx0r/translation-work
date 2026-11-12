@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To what kind of recipient must a particular teaching be given only after a specific test of time has been passed?",
+ "question": "To whom may this teaching be legitimately transmitted after testing?",
  "premises": [
-  "The teaching is only to be given to a previously accomplished person.",
-  "That person must have been tested for the duration of one year.",
-  "Fitness for transmission is determined by prior accomplishment and tested endurance."
+  "The teaching is to be given",
+  "The recipient should be previously accomplished",
+  "The recipient must be tested for one year"
  ],
- "inference": "Transmission is restricted to one who is previously accomplished and has been tested for one year.",
- "uncertainties": [
-  "The exact criterion of passing the one-year test is not stated."
- ],
- "plain_english": "It is to be given only to one who has already accomplished it and has been tested for one year."
+ "inference": "Only a previously accomplished person tested for one year is fit to receive the teaching.",
+ "uncertainties": [],
+ "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
 }
