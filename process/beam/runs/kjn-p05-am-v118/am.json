@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 118,
- "question": "What transformation of the body is claimed after receiving this knowledge?",
+ "question": "What claim is made about the speaker's body today, despite its being struck by a veil of ignorance?",
  "premises": [
-  "The speaker refers to her own body",
-  "The body was struck by the veil of ignorance",
-  "The body is now described as pure"
+  "A temporal reference is made to today.",
+  "The speaker refers to their own body.",
+  "The body is described as pure, yet struck by a veil of ignorance."
  ],
- "inference": "After receiving knowledge, the speaker's body is now pure, though formerly veiled by ignorance.",
- "uncertainties": [],
- "plain_english": "Today my body is pure, though it was struck by the veil of ignorance."
+ "inference": "The speaker affirms their body as pure today, even though it has been struck by a veil of ignorance.",
+ "uncertainties": [
+  "The tension between 'pure' and 'struck' is not resolved by this verse alone."
+ ],
+ "plain_english": "Today my body, though struck by a veil of ignorance, is pure."
 }

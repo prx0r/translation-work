@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 109,
- "question": "Where is the wind-filled vital air said to be situated?",
+ "question": "What claim is made about the location of that which is situated, ascribed to the wind-filling air?",
  "premises": [
-  "There is a wind-filled vital air",
-  "This air is situated within beings",
-  "It is present in all living beings"
+  "The air is described as wind-filling.",
+  "That air is said to have something situated in relation to it.",
+  "That situation is located in all beings."
  ],
- "inference": "The wind-filled vital air is situated in all living beings.",
- "uncertainties": [],
- "plain_english": "The wind-filled vital air is situated in all living beings."
+ "inference": "The wind-filling air is present and situated in all beings.",
+ "uncertainties": [
+  "The syntactic agreement between vāyuḥ and saṃsthitam is ambiguous from this verse alone."
+ ],
+ "plain_english": "The wind-filling air is situated in all beings."
 }

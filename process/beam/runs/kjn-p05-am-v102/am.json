@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To whom may this teaching legitimately be given?",
+ "question": "Under what condition must a gift be given to one who has previously accomplished something and has been tested for one year?",
  "premises": [
-  "The teaching is to be given",
-  "The recipient should be previously accomplished",
-  "The recipient must be tested for one year"
+  "A gift is marked as something to be given.",
+  "The recipient is one who has been previously accomplished.",
+  "That recipient must have been tested for one year."
  ],
- "inference": "This teaching may be given only to a previously accomplished person tested for one year.",
- "uncertainties": [],
- "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
+ "inference": "Transmission is restricted to a previously accomplished recipient who has passed a one-year test.",
+ "uncertainties": [
+  "The nature of the test is not specified in this verse."
+ ],
+ "plain_english": "It is to be given to one who has previously accomplished it and has been tested for one year."
 }

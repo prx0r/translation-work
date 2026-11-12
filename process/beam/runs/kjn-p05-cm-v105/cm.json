@@ -4,27 +4,27 @@
  "rows": [
   {
    "lemma": "ko",
-   "morph": "pron.interr.m.nom.sg",
+   "morph": "m.nom.sg",
    "grounds": "interrogative pronoun"
   },
   {
    "lemma": "asau",
-   "morph": "pron.dem.m.nom.sg",
+   "morph": "m.nom.sg",
    "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "jīvaḥ",
    "morph": "m.nom.sg",
-   "grounds": "noun meaning individual soul or living being"
+   "grounds": "nominative of jīva"
   },
   {
    "lemma": "samuddiṣṭaḥ",
-   "morph": "past-participle.m.nom.sg",
-   "grounds": "past participle of sam-ud-diś, declared or designated"
+   "morph": "m.nom.sg",
+   "grounds": "past passive participle of samuddiś"
   },
   {
    "lemma": "kiṃ",
-   "morph": "pron.interr.n.nom.sg",
+   "morph": "n.nom.sg",
    "grounds": "interrogative pronoun"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "jīva+svarūpakam",
-   "morph": "compound+n.nom.sg",
-   "grounds": "compound: jīva (soul) + svarūpaka (true nature); sandhi marked by +"
+   "morph": "compound = member+membership",
+   "grounds": "compound = jīva+svarūpa; analyzed as given"
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-in-all-vedas (sarvavedeṣu) whatever-dharma (yaddharmaḥ) in-all-gifts (sarvadāneṣu) whatever-fruit (yat) fruit (phalam)
+[in-all](sarva)[vedas](vedeṣu) [which](yat)[merit](dharmaḥ) [in-all](sarva)[gifts](dāneṣu) [which](yat) [fruit](phalam)
 
 ## mukta-m0-p75-v1852
-that-fruit (tat) fruit (phalaṃ) million-fold (koṭiguṇitaṃ) once (sakṛt) by-recitation (pāṭhāt) obtains-man (labhennaraḥ)
+[that](tat) [fruit](phalaṃ) [crore](koṭi)[multiplied](guṇitaṃ) [once](sakṛt) [from-recitation](pāṭhāt)[would-obtain](labhet)[man](naraḥ)
 
 ## mukta-m0-p75-v1853
-having-heard (śrutvā) great-strength-possessing (mahātibalavān) son-possessing (putravān) wealth-prosperity (dhanasampadaḥ)
+[having-heard](śrutvā) [great](mahā)[strength](ati)[possessing](balavān) [son](putra)[possessing](vān) [wealth](dhana)[prosperity](sampadaḥ)
 
 ## mukta-m0-p75-v1854
-he (sa) will-go (yāsyati) no (na) doubt (sandehaḥ) of-stava-king (stavarājasya) by-praise (kīrttanāt)
+[he](sa) [will-go](yāsyati) [no](na) [doubt](sandehaḥ) [of-hymn](stava)[king](rājasya) [from-recitation](kīrttanāt)
 
 ## mukta-m0-p75-v1855
-thus (iti) in-composed-by-śrīpūrṇānanda-paramahaṃsa (śrīpūrṇānandaparamahaṃsaviracite) in-śrī-tattvacintāmaṇi (śrī-tattvacintāmaṇau) twenty-fifth (pañcaviṃśatitamaḥ) chapter (prakāśaḥ)
+[thus](iti) [śrī](śrī)[Pūrṇānanda](pūrṇānanda)[Paramahaṃsa](paramahaṃsa)[composed](viracite) [śrī](śrī)[Tattvacintāmaṇi](tattvacintāmaṇau) [twenty-fifth](pañcaviṃśatitamaḥ) [chapter](prakāśaḥ)
 
 ## mukta-m0-p75-v1856
-now (athocyate) great-yantra-consecration (mahāyantrasaṃskāraḥ) all-beings-giving (sarvabhūtidaḥ)
+[now](atha)[is-taught](ucyate) [great](mahā)[yantra](yantra)[consecration](saṃskāraḥ) [all](sarva)[prosperity](bhūti)[giving](daḥ)
 
 ## mukta-m0-p75-v1857
-having-done-constant-rites (kṛtanityakriyo) mantra-practitioner (mantrī) east-facing (prāṅmukho) or (vā) also (api) north-facing (udaṅmukhaḥ)
+[done](kṛta)[daily](nitya)[rites](kriyaḥ) [mantrin](mantrī) [facing-east](prāṅmukhaḥ) [or](vā)[also](api)[facing-north](udaṅmukhaḥ)
 
 ## mukta-m0-p75-v1858
-then (tataḥ) resolving (saṅkalpya) pure-soul (śuddhātmā) śiva-mantra-purified (śivamantraviśodhitam)
+[then](tataḥ) [having-resolved](saṅkalpya) [pure](śuddha)[self](ātmā) [Śiva](śiva)[mantra](mantra)[purified](viśodhitam)
 
 ## mukta-m0-p75-v1859
-in-gold-etc-gem (suvarṇādimaṇau) placed (kḷptaṃ) should-insert (kṣipet) praṇava-uttering (praṇavamuccaran)
+[in-gold](suvarṇa)[etc.](ādi)[gem](maṇau) [fashioned](kḷptaṃ) [should-cast](kṣipet) [praṇava](praṇavam)[uttering](uccaran)
 
 ## mukta-m0-p75-v1860
-with-five-amṛta (pañcāmṛtena) with-tīrtha (tīrthena) with-water (jalena) cool (śītalena) and (ca)
+[with-five](pañca)[nectars](amṛtena) [with-holy-water](tīrthena) [with-water](jalena) [cool](śītalena) [and](ca)
 
 ## mukta-m0-p75-v1861
-well-bathing (susnāpya) and (ca) purified (viśuddhena) water-lifting (jalamuttolya) in-metal-vessel (taijase)
+[having-bathed-well](susnāpya) [and](ca) [with-pure](viśuddhena) [water](jalam)[having-lifted](uttolya) [in-vessel](taijase)
 
 ## mukta-m0-p75-v1862
-pedestal-worship (pīṭhapūjāṃ) then (tataḥ) should-do (kuryāt) according-to-own-kalpa-stated-rite (svakalpoktavidhānataḥ)
+[seat](pīṭha)[worship](pūjāṃ) [then](tataḥ) [should-perform](kuryāt) [own](sva)[ritual](kalpa)[prescribed](ukta)[method](vidhānataḥ)
 
 ## mukta-m0-p75-v1863
-with-kuśa (kuśaiḥ) touching (spṛśan) mantra-king (mantrarājaṃ) hundred-eight (śatamaṣṭottaraṃ) should-chant (japet)
+[with-kuśa-grass](kuśaiḥ) [touching](spṛśan) [mantra](mantra)[king](rājaṃ) [hundred](śatam)[eight-more](aṣṭottaraṃ) [should-recite](japet)
 
 ## mukta-m0-p75-v1864
-for-great-mantra (mahāmantrāya) dhīrūpaṃ (dhīrūpaṃ) should-write (likhet) then (tato) mahī (mahī) thus (iti) and (ca)
+[to-great](mahā)[mantra](mantrāya) [wisdom](dhī)[form](rūpaṃ) [should-write](likhet)[then](tataḥ) [mahī](mahī)[thus](iti) [and](ca)
 
 ## mukta-m0-p75-v1865
-this (imāṃ) of-yantra (yantrasya) gāyatrī (gāyattrīṃ) having-chanted (japtvā) divinity (devatvam) should-attain (ālabhet)
+[this](imāṃ) [of-yantra](yantrasya) [gāyatrī](gāyattrīṃ) [having-recited](japtvā) [deity-hood](devatvam)[should-obtain](ālabhet)
 
 ## mukta-m0-p75-v1866
-life-nyāsa (jīvanyāsaṃ) then (tataḥ) having-done (kṛtvā) should-worship (pūjayet) chosen-deity (iṣṭadevatām)
+[life](jīva)[installation](nyāsaṃ) [then](tataḥ) [having-done](kṛtvā) [should-worship](pūjayet)[chosen](iṣṭa)[deity](devatām)
 
 ## mukta-m0-p75-v1867
-with-dance-song (nṛtyagītaiḥ) and (ca) with-instruments (vādyaiḥ) and (ca) five-sounds-preceded (pañcaghoṣapuraḥsaram)
+[with-dances](nṛtya)[songs](gītaiḥ)[and](ca) [with-instruments](vādyaiḥ)[and](ca) [five](pañca)[sounds](ghoṣa)[preceded-by](puraḥsaram)
 
 ## mukta-m0-p75-v1868
-then (tataḥ) kalpa-stated (kalpoktam) having-obtained (āsādya) with-oblation (haviṣā) in-consecrated-fire (saṃskṛte'nale)
+[then](tataḥ) [ritual](kalpa)[prescribed](uktam)[having-obtained](āsādya)[oblation](haviṣā) [in-consecrated](saṃskṛte)[fire](anale)
 
 ## mukta-m0-p75-v1869
-should-please (toṣayet) with-gold-jewels-etc (svarṇaratnādyaiḥ) should-give (pradadyāt) dakṣiṇā (dakṣiṇām) also (api)
+[should-satisfy](toṣayet) [with-gold](svarṇa)[gems](ratna)[etc.](ādyaiḥ) [should-give](pradadyāt)[fee](dakṣiṇām)[also](api)
 
 ## mukta-m0-p75-v1870
-should-extend (prasārayet) both (ubhau) hands (hastau) in-heart-region (hṛddeśe) should-employ (viniyojayet)
+[should-spread](prasārayet)[both](ubhau) [hands](hastau) [in-heart](hṛt)[region](deśe) [should-place](viniyojayet)
 
 ## mukta-m0-p75-v1871
-deity-seat-arrangement-fifth-mudrā (devatāsanavinyāsapañcamudrāṃ) should-show (pradarśayet)
+[deity](devatā)[seat](āsana)[placement](vinyāsa)[fifth](pañca)[mudrā](mudrāṃ) [should-display](pradarśayet)
 
 ## mukta-m0-p75-v1872
-bent (namre) little-finger-index (kaniṣṭhatarjanyau) of-hands (karayor) tips-joined (agrasaṅgate)
+[bent](namre) [little-finger](kaniṣṭha)[forefinger](tarjanyau) [of-both-hands](karayoḥ)[tip](agra)[joined](saṅgate)
 
 ## mukta-m0-p75-v1873
-slightly-bent-finger (iṣannamrāṅguliḥ) right (dakṣā) wrapping (saṃveṣṭya) thumb (aṅguṣṭhakaṃ) supreme (param)
+[slightly](iṣat)[bent](namra)[fingers](aṅguliḥ)[right](dakṣā) [enclosing](saṃveṣṭya)[thumb](aṅguṣṭhakaṃ) [other](param)
 
 ## mukta-m0-p75-v1874
-in-worship (upacāre) welcome (svāgate) indeed (tu) to-be-used (prayoktavyā) by-wise (vipaścitā)
+[in-offering](upacāre) [in-welcome](svāgate) [but](tu) [to-be-used](prayoktavyā) [by-wise-one](vipaścitā)
 
 ## mukta-m0-p75-v1875
-joined (saṃyuktā) ring-finger-thumb (anāmikāṅguṣṭhau) three (tisraḥ) others (anyāḥ) extended (saṃprasāritāḥ)
+[joined](saṃyukta)[ring-finger](anāmikā)[thumbs](aṅguṣṭhau) [three](tisraḥ)[others](anyāḥ) [extended](saṃprasāritāḥ)
