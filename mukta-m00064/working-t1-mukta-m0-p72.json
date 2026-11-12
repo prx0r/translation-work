@@ -16,7 +16,7 @@
 },
 {
 "surface": "puṇḍarīka+akṣaṃ",
-"quick_gloss": "lotus-eyed"
+"quick_gloss": "lotus+eyed"
 },
 {
 "surface": "mucyate",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "ṛṇa+trayāt",
-"quick_gloss": "from-three-debts"
+"quick_gloss": "from-debt+triad"
 }
 ]
 },
@@ -57,7 +57,7 @@
 },
 {
 "surface": "candra+sūryayoḥ",
-"quick_gloss": "of-moon-and-sun"
+"quick_gloss": "of-moon+sun"
 }
 ]
 },
@@ -74,19 +74,19 @@
 },
 {
 "surface": "brahma+kalpitaṃ",
-"quick_gloss": "by-brahmā-ordained"
+"quick_gloss": "by-brahmā+created"
 },
 {
 "surface": "sthānaṃ",
 "quick_gloss": "place"
 },
 {
-"surface": "viprāḥ",
+"surface": "viprā",
 "quick_gloss": "priests"
 },
 {
 "surface": "brahma+prakalpitāḥ",
-"quick_gloss": "by-brahmā-appointed"
+"quick_gloss": "by-brahmā+appointed"
 }
 ]
 },
@@ -98,20 +98,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tarpayet",
+"surface": "tarpayettu",
 "quick_gloss": "one-should-satisfy"
 },
 {
-"surface": "tu",
-"quick_gloss": "indeed"
-},
-{
 "surface": "gayā+viprān",
-"quick_gloss": "gayā-priests"
+"quick_gloss": "gayā+priests"
 },
 {
 "surface": "havya+kavya+vidhānataḥ",
-"quick_gloss": "according-to-oblation-and-ancestor-rite"
+"quick_gloss": "with-oblation+offering+rite"
 }
 ]
 },
@@ -132,11 +128,11 @@
 },
 {
 "surface": "mahā+dānaṃ",
-"quick_gloss": "great-gift"
+"quick_gloss": "great+gift"
 },
 {
 "surface": "vṛṣa+utsargaṃ",
-"quick_gloss": "bull-release"
+"quick_gloss": "bull+release"
 },
 {
 "surface": "karoti",
@@ -156,12 +152,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "catuḥṣaṣṭi",
-"quick_gloss": "sixty-four"
+"surface": "catuḥ+ṣaṣṭi",
+"quick_gloss": "four+sixty"
 },
 {
-"surface": "dhanus+mānaṃ",
-"quick_gloss": "bow-measure"
+"surface": "dhanur+mānaṃ",
+"quick_gloss": "bow+measure"
 },
 {
 "surface": "kṣetram",
@@ -169,7 +165,7 @@
 },
 {
 "surface": "āgastya+īritam",
-"quick_gloss": "by-agastya-declared"
+"quick_gloss": "by-agastya+declared"
 }
 ]
 },
@@ -210,7 +206,7 @@
 },
 {
 "surface": "vāsavaḥ",
-"quick_gloss": "vāsava"
+"quick_gloss": "of-indra"
 }
 ]
 },
@@ -222,12 +218,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "udbandhana+mṛtāḥ",
-"quick_gloss": "by-hanging-dead"
+"surface": "udbandhana+mṛtā",
+"quick_gloss": "by-hanging+dead"
 },
 {
 "surface": "ye",
-"quick_gloss": "who"
+"quick_gloss": "those-who"
 },
 {
 "surface": "ca",
@@ -235,7 +231,7 @@
 },
 {
 "surface": "gala+pāśa+mṛtāḥ",
-"quick_gloss": "by-noose-dead"
+"quick_gloss": "by-noose+dead"
 },
 {
 "surface": "ca",
@@ -243,7 +239,7 @@
 },
 {
 "surface": "ye",
-"quick_gloss": "who"
+"quick_gloss": "those-who"
 }
 ]
 },
@@ -256,7 +252,7 @@
 "tokens": [
 {
 "surface": "na+antyeṣṭiḥ",
-"quick_gloss": "not-funeral-rites"
+"quick_gloss": "not+funeral-rites"
 },
 {
 "surface": "na",
@@ -276,15 +272,15 @@
 },
 {
 "surface": "na+āśaucaṃ",
-"quick_gloss": "not-impurity"
+"quick_gloss": "not+impurity"
 },
 {
 "surface": "teṣu",
-"quick_gloss": "in-them"
+"quick_gloss": "for-them"
 },
 {
 "surface": "vidyate",
-"quick_gloss": "exists"
+"quick_gloss": "is-prescribed"
 }
 ]
 },
@@ -296,12 +292,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amāyām",
+"surface": "amāyāñca",
 "quick_gloss": "from-new-moon"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "samārabhya",
@@ -321,7 +313,7 @@
 },
 {
 "surface": "tri+rātrakam",
-"quick_gloss": "three-night-rite"
+"quick_gloss": "three+night-period"
 }
 ]
 },
@@ -371,7 +363,7 @@
 "tokens": [
 {
 "surface": "anya+tīrthe",
-"quick_gloss": "at-another-tīrtha"
+"quick_gloss": "at-other+holy-place"
 },
 {
 "surface": "kṛtaṃ",
@@ -382,12 +374,8 @@
 "quick_gloss": "sin"
 },
 {
-"surface": "gayāyām",
+"surface": "gayāyāntu",
 "quick_gloss": "at-gayā"
-},
-{
-"surface": "tu",
-"quick_gloss": "indeed"
 },
 {
 "surface": "vinaśyati",
@@ -404,7 +392,7 @@
 "tokens": [
 {
 "surface": "rāma+kṣetre",
-"quick_gloss": "at-rāma-field"
+"quick_gloss": "at-rāma+field"
 },
 {
 "surface": "kṛtaṃ",
@@ -433,10 +421,10 @@
 "tokens": [
 {
 "surface": "nīla+śaile",
-"quick_gloss": "at-nīla-mountain"
+"quick_gloss": "at-nīla+mountain"
 },
 {
-"surface": "kṛtam",
+"surface": "kṛtaṃ",
 "quick_gloss": "done"
 },
 {
@@ -445,7 +433,7 @@
 },
 {
 "surface": "antar+gehe",
-"quick_gloss": "at-inner-house"
+"quick_gloss": "at-inner+house"
 },
 {
 "surface": "vinaśyati",
@@ -577,7 +565,7 @@
 },
 {
 "surface": "viṣṇu+vicintanam",
-"quick_gloss": "contemplation-of-viṣṇu"
+"quick_gloss": "viṣṇu+contemplation"
 }
 ]
 },
@@ -594,11 +582,11 @@
 },
 {
 "surface": "anya+divase",
-"quick_gloss": "on-another-day"
+"quick_gloss": "on-other+day"
 },
 {
 "surface": "kālyā",
-"quick_gloss": "at-dawn"
+"quick_gloss": "in-morning"
 },
 {
 "surface": "āgastye",
@@ -635,7 +623,7 @@
 },
 {
 "surface": "agniṣṭoma+phalaṃ",
-"quick_gloss": "fruit-of-agniṣṭoma"
+"quick_gloss": "agniṣṭoma+fruit"
 },
 {
 "surface": "labhet",
@@ -652,7 +640,7 @@
 "tokens": [
 {
 "surface": "janma+janma+arjitaṃ",
-"quick_gloss": "accumulated-birth-after-birth"
+"quick_gloss": "birth+birth+accumulated"
 },
 {
 "surface": "pāpaṃ",
@@ -685,7 +673,7 @@
 },
 {
 "surface": "pūrva+bhāge",
-"quick_gloss": "in-eastern-part"
+"quick_gloss": "in-eastern+part"
 },
 {
 "surface": "tu",
@@ -718,11 +706,11 @@
 },
 {
 "surface": "bhasma+śailasya",
-"quick_gloss": "of-bhasma-mountain"
+"quick_gloss": "of-ash+mountain"
 },
 {
-"surface": "dhanus+aṣṭa+pramāṇataḥ",
-"quick_gloss": "eight-bow-measure"
+"surface": "dhanur+aṣṭa+pramāṇataḥ",
+"quick_gloss": "bow+eight+measure"
 }
 ]
 },
@@ -734,12 +722,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "piśāca+mocane",
-"quick_gloss": "at-piśāca-liberation"
-},
-{
-"surface": "tīrthe",
-"quick_gloss": "tīrtha"
+"surface": "piśāca+mocane+tīrthe",
+"quick_gloss": "at-piśāca+liberation+holy-place"
 },
 {
 "surface": "pūjayāmāsa",
@@ -747,7 +731,7 @@
 },
 {
 "surface": "śūlinam",
-"quick_gloss": "trident-bearer"
+"quick_gloss": "the-trident-bearer"
 }
 ]
 },
@@ -764,11 +748,11 @@
 },
 {
 "surface": "bhasma+kūṭasya",
-"quick_gloss": "of-bhasma-peak"
+"quick_gloss": "of-ash+peak"
 },
 {
-"surface": "dhanus+madana+mānataḥ",
-"quick_gloss": "bow-madana-measure"
+"surface": "dhanur+madana+mānataḥ",
+"quick_gloss": "bow+madana+measure"
 }
 ]
 }
