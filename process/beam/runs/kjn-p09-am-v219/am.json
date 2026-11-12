@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 219,
- "question": "What does the speaker promise to explain to the beautiful-eyed listener?",
+ "question": "What claim of instruction is being made by the speaker who promises to tell the method of names to the beautiful-eyed one?",
  "premises": [
-  "The speaker addresses the listener",
-  "The speaker promises to speak",
-  "The topic is the method of their names"
+  "The speaker will speak the method of names of them.",
+  "The addressee is urged to hear.",
+  "The address is to the beautiful-eyed one."
  ],
- "inference": "The speaker will explain the method of their names.",
- "uncertainties": [],
- "plain_english": "I shall speak the method of their names; listen, O beautiful-eyed one."
+ "inference": "The speaker promises to declare the method of their names and urges the beautiful-eyed one to hear it.",
+ "uncertainties": [
+  "The referent of 'them' is not recoverable from this verse alone."
+ ],
+ "plain_english": "I shall speak the method of their names; hear, O beautiful-eyed one."
 }

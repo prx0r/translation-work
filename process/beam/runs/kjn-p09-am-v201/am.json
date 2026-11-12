@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 201,
- "question": "What practice must follow worship of this circle to produce its effects?",
+ "question": "Under what condition does applying meditation after worship of the circle produce the stated effect in this practice?",
  "premises": [
-  "The circle is first worshipped",
-  "Meditation is then applied",
-  "The application continues for a duration"
+  "Worship of the circle must precede the act of meditation.",
+  "The application of meditation is limited to a stated duration.",
+  "The practice links worship and sustained meditative application in sequence."
  ],
- "inference": "Sustained meditation after worship activates the circle's power.",
- "uncertainties": [],
- "plain_english": "Having worshipped this circle, one should apply meditation for as long as one continues the practice."
+ "inference": "Sustained application of meditation follows worship of the circle for as long as the practice holds.",
+ "uncertainties": [
+  "The precise duration intended by 'as-long-as' remains unspecified."
+ ],
+ "plain_english": "Having worshipped this circle, one applies meditation for as long as that practice continues."
 }

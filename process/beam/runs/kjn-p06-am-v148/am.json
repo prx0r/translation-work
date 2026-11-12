@@ -1,12 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 148,
- "question": "Which bodily regions should be colored by the splendor of that contemplated form?",
+ "question": "Which bodily regions should be colored by the form's splendor?",
  "premises": [
-  "The regions include hair, shoulder, and skull.",
-  "The coloring is effected by its splendor."
+  "The contemplated form has splendor",
+  "This splendor can color the body",
+  "The hair region and skull are to be colored"
  ],
- "inference": "One should color the regions of hair, shoulder, and skull by its splendor.",
- "uncertainties": [],
- "plain_english": "One should color what is situated in the hair, shoulder, and skull by its splendor."
+ "inference": "One should color the region of the hair and skull with its splendor.",
+ "uncertainties": [
+  "keśa skandha kapāla sthaṃ compound analysis is approximate"
+ ],
+ "plain_english": "One should color what is situated in the hair region and skull with its splendor."
 }

@@ -1,12 +1,13 @@
 {
  "song": "kjn-p06",
  "verse": 139,
- "question": "What kind of physical location is suitable for undertaking this practice?",
+ "question": "What kind of physical location is suitable for this practice?",
  "premises": [
-  "The place is an underground house in a solitary location.",
-  "The place is free from gnats and mosquitoes."
+  "The practice requires a specific location",
+  "The place should be solitary",
+  "The place should be free of gnats and mosquitoes"
  ],
- "inference": "The practice should be undertaken in a solitary underground place free from gnats and mosquitoes.",
+ "inference": "The practice should be done in a solitary ground-level house free of gnats and mosquitoes.",
  "uncertainties": [],
- "plain_english": "In an underground house, in a solitary place free from gnats and mosquitoes."
+ "plain_english": "In a solitary ground-level house, in a place free of gnats and mosquitoes."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-creation-seed indeed om-syllable dissolution-seed three-eyed-one
+[creation](sṛṣṭi) [+seed](bījaṃ) [indeed](hi) [om-syllable](oṃkāraṃ) [dissolution](laya) [+seed](bījaṃ) [o-three-eyed-one](trilocane)
 
 ## mukta-m0-p69-v1702
-right-hand-path-and left-hand-path doctrines great-lady
+[of-the-right](dakṣiṇānāñ) [+and](ca) [of-the-left](vāmānāṃ) [of-the-doctrines](siddhāntānāṃ) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p69-v1703
-kaula-path-and-also divine-path beyond-being indeed only
+[of-the-kaula](kaulānāñ) [+and](ca) [+indeed](eva) [of-the-divine](divyānāṃ) [beyond-state](bhāvātītaṃ) [indeed](hi) [absolute](kevalam)
 
 ## mukta-m0-p69-v1704
-thus glorious-all-bliss-lord composed all-exultation sixty-minus-one-exultation
+[thus](iti) [śrī-sarvānandanātha](śrīsarvānandanātha) [composed](viracite) [in-sarvollāsa](sarvollāse) [fifty-ninth](ūnaṣaṣṭy) [+chapter](ullāsaḥ)
 
 ## mukta-m0-p69-v1705
-revealed-even of-kaulas of-divines distinguishing tell
+[when-revealed](prakāśite') [+even](api) [of-the-kaula](kaulānāṃ) [of-the-divine](divyānāṃ) [distinction](bhedakaṃ) [tell](vada)
 
 ## mukta-m0-p69-v1706
-of-both one-being by beyond-being-become may-become
+[of-both](ubhayoḥ) [+one](eka) [+state](bhāvena) [beyond-state](bhāvātīta) [+consisting-of](mayo) [may-become](bhavet)
 
 ## mukta-m0-p69-v1707
-divine hero and which difference that difference is-described
+[in-divine](divya) [+and-in-hero](vīre) [and](ca) [which](yo) [distinction](bhedaḥ) [that](sa) [distinction](bhedaḥ) [is-declared](parikathyate)
 
 ## mukta-m0-p69-v1708
-measure-difference
+[mātra](mātra) [+distinguishing](bhedakam) [end-bracket](])
 
 ## mukta-m0-p69-v1709
-radiance may-be atom-and all-pervading-stainless
+[splendor](tejaḥ) [may-be](syāt) [atom](paramāṇuḥ) [+and](ca) [all](sarva) [+pervading](vyāpi) [+stainless](nirañjanam)
 
 ## mukta-m0-p69-v1710
-by-occasion I-tell-today of-divine-also and characteristic
+[incidentally](prasaṅgāt) [I-tell](kathayāmi) [+today](adya) [of-the-divine](divyasya) [+also](api) [and](ca) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p69-v1711
-radiance-filled world all having-manifested form conception
+[splendor](tejaḥ) [+consisting-of](mayaṃ) [world](jagat) [all](sarvaṃ) [having-conceived](vibhāvya) [form](mūrtti) [+conception](kalpanam) [variant]( [j:) (kalpitam) ](])
 
 ## mukta-m0-p69-v1712
-sixty-exultation
+[sixtieth](ṣaṣṭy) [+chapter](ullāsaḥ)
 
 ## mukta-m0-p69-v1713
-this hero family goddess knowable delightful mind-stealing
+[this](idaṃ) [hero](vīra) [+family](kulaṃ) [o-goddess](devi) [to-be-known](jñeyaṃ) [delightful](ramyaṃ) [charming](manoharam)
 
 ## mukta-m0-p69-v1714
-manifest speech non-dual one short indeed long
+[manifest](prakāśa) [+utterance](vākyaṃ) [without-duality](nirdvandvam) [+one](ekaṃ) [short](hrasvaṃ) [indeed](hi) [long](dīrghakam)
 
 ## mukta-m0-p69-v1715
-heavy light long beyond-speech speech shiva
+[heavy](guruṃ) [light](laghuṃ) [long](dīrghaṃ) [beyond-speech](vācātītaṃ) [speech](vacaḥ) [o-śivā](śive)
 
 ## mukta-m0-p69-v1716
-knowledge knowable-filled shiva
+[knowledge](jñānaṃ) [knowable](jñeya) [+consisting-of](mayaṃ) [o-śivā](śive)
 
 ## mukta-m0-p69-v1717
-knowledge-knowable mind goddess beyond-being very-pure
+[knowledge](jñāna) [+knowable](jñeyaṃ) [mind](mano) [o-goddess](devi) [beyond-state](bhāvātītaṃ) [very-pure](sunirmalam)
 
 ## mukta-m0-p69-v1718
-from-beyond-being may-become-being seed tree-like parvati
+[from-beyond-state](bhāvātitād) [may-arise](bhaved) [+state](bhāvo) [seed](bīja) [+from-tree](vṛkṣeva) [o-pārvatī](pārvati)
 
 ## mukta-m0-p69-v1719
-therefore great-lady mind-beyond stainless
+[therefore](ata) [indeed](eva) [o-great-goddess](maheśāni) [beyond-mind](mano') [+transcending](atītaṃ) [stainless](nirañjanam)
 
 ## mukta-m0-p69-v1720
-always by-desire she shines art-form eternal
+[always](sadā) [with-desire](kāmena) [she](sā) [shines](bhāti) [digit](kalā) [+form](rūpā) [eternal](sanātanī)
 
 ## mukta-m0-p69-v1721
-narrative-praise
+[and](ca) [+narration](ākhyāna) [+recitation](kīrttanaṃ) [end-bracket](])
 
 ## mukta-m0-p69-v1722
-art and two-fold declared hidden manifest great-lady
+[digit](kalā) [and](ca) [twofold](dvividhā) [declared](proktā) [hidden](guptā) [manifest](vyaktā) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p69-v1723
-cremation-ground dwellers heroes art worship always
+[cremation-ground](śmaśāna) [+dwellers](vāsino) [heroes](vīrāḥ) [digit](kalāṃ) [worship](pūjanti) [always](sarvadā)
 
 ## mukta-m0-p69-v1724
-thus and manuscript-reading |] may-worship-hero cremation-ground secret shiva
+[thus](iti) [and](c:) [manuscript](pustakīya) [+reading](pāṭhaḥ) [end-marker](|] ) [may-worship](yajed) [+hero](vīraḥ) [in-cremation-ground](śmaśāne) [in-secret](gopane) [o-śivā](śive)
 
 ## mukta-m0-p69-v1725
-manifest-even (?) may-worship-hero outside-even deserted beloved
+[manifest](vyaktā) [+also](api) [question-mark]( (?) ) [may-worship](pūjayed) [+hero](vīro) [outside](vāhye') [+also](api) [in-solitary-place](nirjane) [o-beloved](priye)

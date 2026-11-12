@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-udāsinām (of-the-indifferent) śmaśānam (cremation-ground) ca (and) gṛhiṇām (of-householders) arccayet+bhagam (should-worship+yoni)
+[for-the-indifferent](udāsinām) [cremation-ground](śmaśānam) [and](ca) [for-householders](gṛhiṇām) [one-should-worship](arccayet) [the-lord](bhagam)
 
 ## mukta-m0-p70-v1727
-śavārūḍhāt (from-corpse-mounted) tathā (thus) devi (O-goddess) bhagārūḍhādhikārakaḥ (entitled-to-yoni-mounted)
+[mounted-on-corpse](śava+ārūḍhāt) [likewise](tathā) [O-goddess](devi) [mounted-on-vulva](bhaga+ārūḍha) [qualified](adhikārakaḥ)
 
 ## mukta-m0-p70-v1728
-citā (pyre) vyaktā (manifest) api (even) deveśi (O-lady-of-gods) guptayoni (hidden-yoni) iti (thus) kīrtitā (is-called)
+[funeral-pyre](citā) [manifest](vyaktā) [even](api) [O-lord-of-gods](deveśi) [hidden-vulva](gupta+yoniḥ) [thus](iti) [is-called](kīrtitā)
 
 ## mukta-m0-p70-v1729
-kalāvāsava (kalā-liquor) yogena (by-union) kalā (kalā) pūjām (worship) prakalpayet (should-arrange)
+[with-digits](kalā) [liquor](āsava) [by-union](yogena) [digit](kalā) [worship](pūjām) [one-should-perform](prakalpayet)
 
 ## mukta-m0-p70-v1730
-maithunena (by-intercourse) vinā (without) devi (O-goddess) madyapānam (wine-drinking) na (not) ca (and) ācaret (should-practice)
+[without-sexual-union](maithunena+vinā) [O-goddess](devi) [drinking-of-liquor](madya+pānam) [not](na) [one-should-practice](cācaret)
 
 ## mukta-m0-p70-v1731
-gatāsūnaḥ (of-the-dead) śavaḥ (corpse) proktaḥ (is-called) madya (wine) pānāsavaḥ (liquor-of-drinking) priye (beloved)
+[deprived-of-life](gata+asūna) [corpse](śavaḥ) [is-called](proktaḥ) [liquor](madya) [drinking](pāna) [liquor](āsavaḥ) [O-beloved](priye)
 
 ## mukta-m0-p70-v1732
-śavāsane (on-corpse-seat) bhedakāryam (differentiating-act) abhedam (non-difference) āsavāsane (on-liquor-seat)
+[on-corpse-seat](śava+āsane) [act-of-differentiation](bheda+kāryam) [non-differentiation](abhedam) [on-liquor-seat](āsava+āsane)
 
 ## mukta-m0-p70-v1733
-śaktidarśanamātreṇa (by-merely-seeing-śakti) api (even) udāsinām (of-the-indifferent) kriyā (rite) kṣayaḥ (destruction)
+[by-mere-sight](śakti+darśana+mātreṇa) [even](api) [of-the-indifferent](udāsinām) [activity](kriyā) [cessation](kṣayaḥ)
 
 ## mukta-m0-p70-v1734
-puruṣasya (of-the-man) āsanam (seat) śaktiḥ (śakti) śakteḥ (of-śakti) puruṣa (man) dehakam (body)
+[of-the-male](puruṣasya) [seat](āsanam) [the-female](śaktiḥ) [of-the-female](śakteḥ) [male](puruṣa) [body](dehakam)
 
 ## mukta-m0-p70-v1735
-iti (thus) śrīsarvānandanātha (by-Śrī-Sarvānandanātha) viracite (composed) sarvollāse (in-Sarvollāsa) ekaṣaṣṭyullāsaḥ (sixty-first-ullāsa)
+[thus](iti) [in-the-Sarvollasa](śrī+sarvānanda+nātha+viracite+sarvollāse) [sixty-first](ekaṣaṣṭi) [chapter](ullāsaḥ)
 
 ## mukta-m0-p70-v1736
-vṛthā (vain) pūjā (worship) bhavet (becomes) tasya (his) na (not) bījam (seed) jala (water) secanam (sprinkling)
+[in-vain](vṛthā) [worship](pūjā) [becomes](bhavet) [of-him](tasya) [not](na) [seed](bījam) [water](jala) [sprinkling](secanam)
 
 ## mukta-m0-p70-v1737
-śaktisaṅgamam (union-with-śakti)
+[union-with-śakti](śakti+saṅgamam)
 
 ## mukta-m0-p70-v1738
-vṛthā (vain) jñānam (knowledge) bhavet (becomes) tasya (his) śaktiṣu (in-śaktis) śaktisaṅgamam (union-with-śakti)
+[in-vain](vṛthā) [knowledge](jñānam) [becomes](bhavet) [of-him](tasya) [among-śaktis](śaktiṣu) [union-with-śakti](śakti+saṅgamam)
 
 ## mukta-m0-p70-v1739
-te (they) brahmajñāninaḥ (knowers-of-brahman) santaḥ (being) prakṛtim (prakṛti) puruṣātmakam (man-souled)
+[they](te) [knowers-of-brahman](brahma+jñāninaḥ) [are](santaḥ) [nature](prakṛtim) [consisting-of-puruṣa](puruṣa+ātmakam)
 
 ## mukta-m0-p70-v1740
-ubhayoḥ (of-both) jñānayogena (by-knowledge-union) brahmajānīti (knows-brahman) niścitam (certain)
+[of-both](ubhayoḥ) [by-union-of-knowledge](jñāna+yogena) [knower-of-brahman](brahma+jñāni) [thus](iti) [certain](niścitam)
 
 ## mukta-m0-p70-v1741
-ubhayoḥ (of-both) ekabhāvena (by-one-nature) brahmajñānī (knower-of-brahman) iti (thus) niścitam (certain)
+[of-both](ubhayoḥ) [by-state-of-oneness](eka+bhāvena) [knowledge-of-brahman](brahma+jñāni) [thus](iti) [certain](niścitam)
 
 ## mukta-m0-p70-v1742
-sa (she) eva (indeed) yoni (yoni) svarūpā (own-form) ca (and) jagadutpatti (world-creation) kāriṇī (doer)
+[she-alone](sā+eva) [womb](yoni) [in-form](svarūpā) [and](ca) [of-world-origination](jagat+utpatti) [cause](kāriṇī)
 
 ## mukta-m0-p70-v1743
-brahma (Brahmā) viṣṇu (Viṣṇu) śiva (Śiva) ādīnām (etc.) mūlāḥ (roots) sattva (sattva) ādayaḥ (etc.) guṇāḥ (qualities)
+[of-brahmā-viṣṇu-śiva-and-others](brahma+viṣṇu+śiva+ādīnām) [roots](mūlāḥ) [sattva-and-others](sattva+ādayaḥ) [qualities](guṇāḥ)
 
 ## mukta-m0-p70-v1744
-sthūla (gross) sūkṣma (subtle) mayam (made-of) jyotiḥ (light) vyāpitā (pervaded) prakṛtiḥ (prakṛti) sthitā (established)
+[consisting-of-gross-and-subtle](sthūla+sūkṣma+mayam) [light](jyotiḥ) [pervading](vyāpitā) [nature](prakṛtiḥ) [abiding](sthitā)
 
 ## mukta-m0-p70-v1745
-vācakam (indicative)
+[expressible](vācakam)
 
 ## mukta-m0-p70-v1746
-punaḥ (again) pralīyate (dissolves) yasyā (whose) tasyāḥ (of-her) ca (and) jāyate (is-born) punaḥ (again)
+[again](punaḥ) [dissolves](pralīyate) [in-whom](yasyā) [and-from-her](tasyāḥ+ca) [is-born](jāyate) [again](punaḥ)
 
 ## mukta-m0-p70-v1747
-vikṛtiḥ (modification) prakṛtim (prakṛti) āpanne (having-attained) tataḥ (then) kiñcit (anything) na (not) paśyati (sees)
+[modification](vikṛtiḥ) [having-attained-nature](prakṛtim+āpanne) [then](tataḥ) [anything](kiñcit) [not](na) [one-sees](paśyati)
 
 ## mukta-m0-p70-v1748
-nādhikāritāḥ (not-entitled) j: nādhikāriṇaḥ (not-entitled-ones)
+[not-qualified](na+adhikāritāḥ)
 
 ## mukta-m0-p70-v1749
-triguṇe (in-three-guṇas) api (even) ekabhāva (one-nature) api (even) guṇaḥ (quality) ca (and) kena (by-whom) jāyate (is-born)
+[in-the-three-guṇas](tri+guṇe) [even](api) [state-of-oneness](eka+bhāvaḥ) [even](api) [quality](guṇaḥ) [and](ca) [by-whom](kena) [is-born](jāyate)
 
 ## mukta-m0-p70-v1750
-ekabhāvena (by-one-nature) prakṛtiḥ (prakṛti) caṇakākāra (chickpea-shaped) rūpakaḥ (form)
+[by-state-of-oneness](eka+bhāvena) [nature](prakṛtiḥ) [having-form-of-chickpea](caṇaka+ākāra+rūpakaḥ)

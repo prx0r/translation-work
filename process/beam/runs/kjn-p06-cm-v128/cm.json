@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "rasanā",
-   "morph": "compound-member",
-   "grounds": "first member of compound locating the practice"
+   "morph": "f.nom.sg",
+   "grounds": "object to be applied"
   },
   {
    "lemma": "tālu",
-   "morph": "compound-member",
-   "grounds": "second member of compound locating the practice"
+   "morph": "compound:tālu+mūle",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "mūle",
    "morph": "n.loc.sg",
-   "grounds": "specifies the location at the root of tongue and palate"
+   "grounds": "location of application"
   },
   {
    "lemma": "tu",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "vyādhi",
-   "morph": "compound-member",
-   "grounds": "member of compound indicating purpose"
+   "morph": "compound:vyādhi+nāśāya",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "nāśāya",
    "morph": "m.dat.sg",
-   "grounds": "expresses the purpose of destroying disease"
+   "grounds": "purpose of application"
   },
   {
    "lemma": "yojayet",
-   "morph": "3.sg.opt.act √yuj",
-   "grounds": "injunctive instruction for practice"
+   "morph": "3.sg.act.opt √yuj",
+   "grounds": "injunctive instruction"
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 211,
- "question": "Which chapter concludes in the text emerged from Candradvīpa?",
+ "question": "What claim is being made about the position of this chapter by locating it as emerged from Candradvīpa?",
  "premises": [
-  "The text is identified as emerged from Candradvīpa",
-  "A chapter number is given",
-  "It is the eighth chapter"
+  "A chapter is located in the context emerged from Candradvīpa.",
+  "That chapter is the eighth.",
+  "The subject is named as a chapter."
  ],
- "inference": "This marks the end of the eighth chapter in the Candradvīpa text.",
- "uncertainties": [],
- "plain_english": "In the work emerged from Candradvīpa, this is the eighth chapter."
+ "inference": "The eighth chapter is the one that appears in the context emerged from Candradvīpa.",
+ "uncertainties": [
+  "The exact topographical meaning of 'emerged from Candradvīpa' is not clear from this verse alone."
+ ],
+ "plain_english": "In Candradvīpa, the eighth chapter has emerged."
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 218,
- "question": "What claim is made about the uniqueness of this knowledge across time?",
+ "question": "What claim of uniqueness is being made about this knowledge by denying that anything equal to it will exist again?",
  "premises": [
-  "No knowledge equal to this exists again",
-  "No knowledge equal to this will exist in the future",
-  "The comparison is made with this knowledge"
+  "There is knowledge equal to this.",
+  "No knowledge equal to this will exist again.",
+  "The negation is repeated for emphasis."
  ],
- "inference": "This knowledge is unparalleled in past and future.",
- "uncertainties": [],
- "plain_english": "There is no knowledge equal to this, nor will there ever be again."
+ "inference": "Knowledge equal to this is unique and will not exist again.",
+ "uncertainties": [
+  "The scope of 'again' in time is not specified here."
+ ],
+ "plain_english": "There is no knowledge equal to this; again there will not be."
 }

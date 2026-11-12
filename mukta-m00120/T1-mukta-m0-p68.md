@@ -5,73 +5,73 @@
 [manifested](prakāśitam)
 
 ## mukta-m0-p68-v1677
-[so](so) [I](ahaṃ) [from-knowledge](jñānād) [attainable](bhavellabhyaṃ) [light-meditation](jyotirdhyānaṃ) [pure](sunirmalam)
+[that](saḥ) [I](aham) [from-knowledge](jñānāt) [would-be](bhavet) [attainable](labhyam) [light](jyotiḥ) [meditation](dhyānam) [very-pure](sunirmalam)
 
 ## mukta-m0-p68-v1678
-[gross](sthūlaṃ) [radiance](tejas) [thus](tathā) [subtle](sūkṣmaṃ) [meditation](dhyānaṃ) [threefold](trividha) [characteristic](lakṣaṇam)
+[gross](sthūlam) [fire/light](tejaḥ) [and](tathā) [subtle](sūkṣmam) [meditation](dhyānam) [threefold](trividham) [characterized-by](lakṣaṇam)
 
 ## mukta-m0-p68-v1679
-[subtle](sūkṣmaṃ) [eternal](nitya) [formless](nirākāraṃ) [than-space](gaganādapi) [pure](nirmalam)
+[subtle](sūkṣmam) [eternal](nityam) [formless](nirākāram) [than-space](gaganāt+api) [pure](nirmalam)
 
 ## mukta-m0-p68-v1680
-[thus](iti) [by-sarvānandanātha-composed](sarvānandanāthaviracite) [in-sarvollāsa](sarvolllāse) [eight-fifty](aṣṭa+pañcāśad) [ullāsa](ullāsaḥ)
+[thus](iti) [by-all-bliss-lord](sarvānandanātha) [composed](viracite) [in-all-illumination](sarvolllāse) [fifty-eighth-illumination](aṣṭa+pañcāśad+ullāsaḥ)
 
 ## mukta-m0-p68-v1681
-[of-three-meditations](dhyānatrayasya) [among](madhyeṣu) [so-ham](soḥaṃ) [by-whom](kena) [arises](prajāyate)
+[of-the-three-meditations](dhyāna+trayasya) [among](madhyeṣu) [so'ham](soḥam) [by-what](kena) [is-produced](prajāyate)
 
 ## mukta-m0-p68-v1682
-[radiance](tejaḥ) [subtle-distinction](sūkṣmabhedaṃ) [indeed](hi) [to-be-served](sevya) [servant](sevaka) [devoid](varjitam)
+[light](tejaḥ) [subtle-difference](sūkṣma+bhedam) [indeed](hi) [to-be-served](sevya) [servant](sevaka) [devoid-of](varjitam)
 
 ## mukta-m0-p68-v1683
-[she-herself](saiva) [all-goddess](sarveśvarī) [goddess](devī) [he](sa) [all](sarvo) [great-lord](maheśvaraḥ)
+[she](sā) [alone](eva) [all-sovereign](sarveśvarī) [goddess](devī) [he](saḥ) [and](ca) [all](sarvaḥ) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p68-v1684
-[in-own-house](svagehe) [milk-rice](pāyasaṃ) [abandoning](tyaktvā) [begging](bhikṣāmaṭati) [foolish](durmatiḥ)
+[in-own-house](sva+gehe) [rice-pudding](pāyasam) [having-abandoned](tyaktvā) [alms](bhikṣām) [wanders](aṭati) [evil-minded](durmatiḥ)
 
 ## mukta-m0-p68-v1685
-[śiva-śakti-natured](śiva+śaktyātmakaṃ) [subtle](sūkṣmaṃ) [oṃ-tat-sat](oṃ+tatsad) [pervaded](vyāpitaṃ) [world](jagat)
+[Śiva](śiva) [Śakti](śakti) [consisting-of](ātmakaṃ) [subtle](sūkṣmam) [oṃ](oṃ) [tat](tat) [sat](sat) [pervaded](vyāpitam) [world](jagat)
 
 ## mukta-m0-p68-v1686
-[one-bindu](bindumekaṃ) [two-nādas](nāda+yugmaṃ) [oṃ](oṃkāraṃ) [brahma](brahma) [revealing](bodhakam)
+[bindu](bindum) [one](ekam) [nāda](nāda) [pair](yugmam) [oṃkāra](oṃkāram) [brahman](brahma) [awakener](bodhakam)
 
 ## mukta-m0-p68-v1687
-[letter-only](aṅkamātraṃ) [great-goddess](mahādevi) [śiva-śakti](śiva+śakti) [awakening](prabodhakam)
+[syllable-matra](aṅka+mātram) [great-goddess](mahādevī) [Śiva](śiva) [Śakti](śakti) [awakener](prabodhakam)
 
 ## mukta-m0-p68-v1688
-[left](vāme) [and](ca) [supreme](paramā) [śakti](śaktiḥ) [right](dakṣiṇe) [supreme](paramaḥ) [śiva](śivaḥ)
+[in-left](vāme) [and](ca) [supreme](paramā) [Śakti](śaktiḥ) [in-right](dakṣiṇe) [supreme](paramaḥ) [Śivaḥ](śivaḥ)
 
 ## mukta-m0-p68-v1689
-[ta-letter](takāraṃ) [śaṅkara](śaṅkaraṃ) [to-be-known](jñeyaṃ) [ta-letter](takāraṃ) [male-form](puṃstva+vigraham)
+[ta-kāra](takāram) [Śaṅkara](śaṅkaram) [to-be-known](jñeyam) [ta-kāra](takāram) [masculine](puṃstva) [form](vigraham)
 
 ## mukta-m0-p68-v1690
-[two-bindus](binduyugmaṃ) [one-nāda](nādamekaṃ) [ta-letter](takāraṃ) [brahma](brahma) [revealing](bodhakam)
+[bindu](bindu) [pair](yugmam) [nāda](nādam) [one](ekam) [ta-kāra](takāram) [brahman](brahma) [awakener](bodhakam)
 
 ## mukta-m0-p68-v1691
-[without](vinā) [vowel](svareṇa) [goddess](deveśi) [consonant](vyañjanaṃ) [not](naiva) [stands](tiṣṭhati)
+[without](vinā) [vowel](svareṇa) [goddess-of-gods](deveśi) [consonant](vyañjanam) [not](na+eva) [stands](tiṣṭhati)
 
 ## mukta-m0-p68-v1692
-[sa-letter](sakāraḥ) [śaṅkarī](śaṅkarī) [to-be-known](jñeyā) [ta-letter](takāro) [nāda-form](nāda+rūpakaḥ)
+[sa-kāra](sakāraḥ) [Śaṅkarī](śaṅkarī) [to-be-known](jñeyā) [ta-kāra](takāraḥ) [nāda](nāda) [form](rūpakaḥ)
 
 ## mukta-m0-p68-v1693
-[śaṅkarī](śaṅkarī)
+[Śaṅkarī](śaṅkarī)
 
 ## mukta-m0-p68-v1694
-[sa-letter-and](sakārañca) [ta-letter-and](takārañca) [person](puruṣaṃ) [supreme-goddess](parameśvari)
+[sa-kāra](sakāram) [and](ca) [ta-kāra](takāram) [and](ca) [puruṣa](puruṣam) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p68-v1695
-[five-nādas](pañcanādaṃ) [seven-bindus](saptabindum) [one-limbed](ekāṅgaṃ) [supreme-goddess](parameśvari)
+[five-nādas](pañca+nādam) [seven-bindus](sapta+bindum) [one-limb](eka+aṅgam) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p68-v1696
-[sattva](satvaṃ) [rajas](rajas) [tamas-and](tamaścaiva) [three](tri) [by-letters](vakāreṇa) [spoken](bhāṣitam)
+[sattva](satvam) [rajas](rajas) [tamas](tamaḥ) [and](ca+eva) [by-three](tri) [vakāras](vakāreṇa) [spoken](bhāṣitam)
 
 ## mukta-m0-p68-v1697
-[three-yoked](triyānvitaṃ)
+[with-three](tri+anvitam)
 
 ## mukta-m0-p68-v1698
-[all](sarva) [letters](varṇa) [order](kramam) [this](idam) [limb](aṅgaṃ) [to-be-known](jñeyaṃ) [on-śiva](śivopari)
+[all-varṇa](sarva+varṇa) [order](krama) [this](idam) [limb](aṅgam) [to-be-known](jñeyam) [upon-Śiva](śiva+upari)
 
 ## mukta-m0-p68-v1699
 [cause](kāraṇam)
 
 ## mukta-m0-p68-v1700
-[that-sat](tatsat) [to-be-known](jñeyaṃ) [brahma-seed](brahma+bījaṃ) [in-oṃ](oṃkāre) [became](abhūt) [manifested](prakāśitam)
+[tat](tat) [sat](sat) [to-be-known](jñeyam) [brahman-seed](brahma+bījam) [in-oṃkāra](oṃkāre) [was](abhūt) [manifested](prakāśitam)
