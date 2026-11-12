@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Under what concession is poison said not to enter the body?",
+ "question": "Under what extreme condition of being bitten by great serpents is poison said not to enter the body?",
  "premises": [
-  "Poison is the subject of negation.",
-  "The negation is that it does not enter the body.",
-  "This holds even if one has been bitten by great serpents."
+  "Poison is the thing in question.",
+  "A person may be bitten by great serpents.",
+  "Even in that condition, poison does not enter the body."
  ],
- "inference": "Even if bitten by great serpents, poison does not enter the body of the person in question.",
+ "inference": "Even if bitten by great serpents, poison does not enter the body.",
  "uncertainties": [
-  "The verse implies a prior condition on that person, but that condition is not stated here."
+  "The reason poison does not enter is not stated by this verse alone."
  ],
  "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
 }
