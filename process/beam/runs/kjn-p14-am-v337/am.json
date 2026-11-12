@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 337,
- "question": "What consequence follows if a teacher gives this teaching to such unworthy disciples?",
+ "question": "What consequence follows if a teacher gives this teaching to such disciples?",
  "premises": [
-  "The verse considers giving the teaching to such disciples",
-  "The teacher is the agent who gives",
-  "Loss of accomplishment is stated as the result"
+  "Certain disciples are identified as recipients.",
+  "A teacher may give the teaching to them.",
+  "Loss of accomplishment is stated as the result."
  ],
- "inference": "Therefore, if a teacher gives this teaching to such disciples, his accomplishment is diminished.",
- "uncertainties": [],
- "plain_english": "If a teacher should give this to such disciples, his accomplishment is lost."
+ "inference": "If the teacher gives it to such disciples, accomplishment is diminished.",
+ "uncertainties": [
+  "The syntax of ye/ime/śiṣyā is compressed and read contextually."
+ ],
+ "plain_english": "If a teacher gives this to such disciples, his accomplishment is lost."
 }

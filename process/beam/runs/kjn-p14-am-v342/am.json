@@ -3,11 +3,13 @@
  "verse": 342,
  "question": "To which revilers of sacred figures must the teaching never be given?",
  "premises": [
-  "A reviler of Shiva is explicitly excluded",
-  "A slanderer of the Kula Bhairava is excluded",
-  "The prohibition is addressed to the goddess"
+  "Giving is explicitly negated.",
+  "Revilers of Shiva are named.",
+  "Slanderers of Kula Bhairava are named."
  ],
- "inference": "Therefore, the teaching must not be given to those who revile Shiva or slander the Kula Bhairava.",
- "uncertainties": [],
- "plain_english": "O Goddess, it must not be given to one who reviles Shiva or slanders the Kula Bhairava."
+ "inference": "The teaching must not be given to revilers of Shiva or slanderers of Kula Bhairava.",
+ "uncertainties": [
+  "The exact syntactic scope of kulabhairave is read as object of slander."
+ ],
+ "plain_english": "O goddess, it must not be given to one who reviles Shiva or slanders Kula Bhairava."
 }
