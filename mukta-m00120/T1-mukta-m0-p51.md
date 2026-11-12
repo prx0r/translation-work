@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[for-sexual-purpose-even](maithunārthe'pi) [you](tvaṃ) [goddess](devi) [in-woman-body](nārīdehe) [always](sadā) [situated](sthitā)
+[for-sexual-union](maithuna)[purpose](arthe)[even](api) [you](tvaṃ) [o-goddess](devi) [in-woman](nārī)[body](dehe) [always](sadā) [situated](sthitā)
 
 ## mukta-m0-p51-v1252
-[I](ahaṃ) [knowledge](jñānaṃ) [relying](samāśritya) [in-bodies](deheṣu) [embodied-named-bearing](dihināmadhṛk)
+[I](ahaṃ) [knowledge](jñānaṃ) [having-resorted-to](samāśritya) [in-bodies](deheṣu) [of-embodied-beings](dihinām)[holder](adhṛk)
 
 ## mukta-m0-p51-v1253
-[in-gross](sthūle) [in-subtle](sūkṣme) [action-power](kriyāśakta) [in-radiance](tejasi) [indeed](khalu) [Pārvatī](pārvati) [[gh:]( [Śaṅkari](śaṅkari)]
+[in-gross](sthūle) [in-subtle](sūkṣme) [action](kriyā)[power](śakta) [in-luminous](stejasi) [indeed](khalu) [o-Pārvatī](pārvati)
 
 ## mukta-m0-p51-v1254
-[sexual-union](maithunaṃ) [merit-born](puṇyajanitaṃ) [action-joined](kriyākto) [knower](jñānavān) [if](yadi)
+[sexual-union](maithunaṃ) [merit](puṇya)[born](janitaṃ) [action](kriyā)[endowed](ākto) [knowledge](jñāna)[possessing](vān) [if](yadi)
 
 ## mukta-m0-p51-v1255
-[among-them](teṣāṃ) [middle](madhye) [and-first-seed](cādyabījaṃ) [sexual-union-joined](maithunāktaṃ) [action-is](kriyeti) [and](ca)
+[of-them](teṣāṃ) [in-middle](madhye) [and](ca)[primordial](ādya)[seed](bījaṃ) [sexual-union](maithuna)[marked](āktaṃ) [action](kriyā)[thus](iti) [and](ca)
 
 ## mukta-m0-p51-v1256
-[for-meaning-even](bhāvārthe'pi) [great-god](mahādeva) [in-gross-body](sthūladehe) [action](kriyā) [joined](yutā)
+[in-meaning](bhāva)[purpose](arthe)[even](api) [o-great-god](mahādeva) [in-gross](sthūla)[body](dehe) [action](kriyā) [joined](yutā)
 
 ## mukta-m0-p51-v1257
-[of-man](puruṣasya) [pleasure](sukhaṃ) [god](deva) [in-woman-bodies](nārīdeheṣu) [sexual-union](maithunam)
+[of-man](puruṣasya) [pleasure](sukhaṃ) [o-god](deva) [in-woman](nārī)[bodies](deheṣu) [sexual-union](maithunam)
 
 ## mukta-m0-p51-v1258
-[woman](strī) [male-form-I](puṃrūpamahaṃ) [you-and](tvañca) [for-enjoyment](ramaṇārthe) [manifested](prakāśitaṃ)
+[woman](strī) [man](puṃ)[form](rūpam)[I](ahaṃ) [you](tvañ)[and](ca) [for-enjoyment](ramaṇa)[purpose](arthe) [manifested](prakāśitaṃ)
 
 ## mukta-m0-p51-v1259
-[thus](iti) [by-Śrī-Sarvānandanātha-composed](śrīsarvānandanāthaviracite) [in-Sarvollāsa](sarvollāse) [forty-ullāsa](catvāriṃśadullāsaḥ)
+[thus](iti) [by-śrī-Sarvānandanātha](śrī)[sarvānandanātha](sarvānandanātha)[composed](viracite) [in-Sarvollāsa](sarvollāse) [fortieth](catvāriṃśad)[chapter](ullāsaḥ)
 
 ## mukta-m0-p51-v1260
-[equal-to-copulation](ratestulyaṃ) [great-bliss](mahānandaṃ) [among-them](teṣāṃ) [middle](madhye) [not](na) [exists](vidyate)
+[than-pleasure](rateḥ)[equal](tulyaṃ) [great](mahā)[bliss](ānandaṃ) [of-them](teṣāṃ) [in-middle](madhye) [not](na) [exists](vidyate)
 
 ## mukta-m0-p51-v1261
-[that-bliss](tadānandaṃ) [how](kathaṃ) [auspicious-lady](bhadre) [and-other-principles](cānyatattveṣu) [in](vidyate)
+[that](tad)[bliss](ānandaṃ) [how](kathaṃ) [o-fair-one](bhadre) [in-other](ca)[anya][principles](tattveṣu) [exists](vidyate)
 
 ## mukta-m0-p51-v1262
-[power-form-indeed-I](śaktirūpāhyahaṃ) [by-that](tena) [abide](tiṣṭhāmi) [and](ca) [house](gṛhe) [house](gṛhe)
+[power](śakti)[form](rūpā)[indeed](hi)[I](ahaṃ) [therefore](tena) [stand](tiṣṭhāmi) [and](ca) [in-house](gṛhe) [in-house](gṛhe)
 
 ## mukta-m0-p51-v1263
-[Śivā-also-I](śivāpyaham)
+[Śivā](śivā)[also](api)[I](aham)
 
 ## mukta-m0-p51-v1264
-[I](ahaṃ) [you](tvaṃ) [woman](strī) [man](pumān) [form](rūpo) [[gh:]( [form](rūpe)] [abide](tiṣṭhāmi) [for-cause-of-bhāva](bhāvahetave)
+[I](ahaṃ) [you](tvaṃ) [woman](strī) [man](pumān) [form](rūpo) [stand](tiṣṭhāmi) [for-emotion](bhāva)[cause](hetave)
 
 ## mukta-m0-p51-v1265
-[in-worms-etc](kīṭādiṣu) [excellent-ascending](varārohe) [for-sexual-purpose](maithunārthe) [always](sadā) [situated](sthitaḥ)
+[in-insects](kīṭa)[etc.](ādiṣu) [o-fair-hipped-one](varārohe) [for-sexual-union](maithuna)[purpose](arthe) [always](sadā) [situated](sthitaḥ)
 
 ## mukta-m0-p51-v1266
-[by-that](tena) [by-that](tena) [manner](prakāreṇa) [wanders-even](vicaratyapi) [on-earth](bhūtale)
+[by-that](tena) [by-that](tena) [manner](prakāreṇa) [moves](vicarati)[also](api) [on-earth](bhūtale)
 
 ## mukta-m0-p51-v1267
-[steady-bliss](sthirānandaṃ) [in-fifth](pañcameṣu) [fifth](pañcamaṃ) [liberating-giving](muktidāyakam)
+[steady](sthira)[bliss](ānandaṃ) [among-the-fifth](pañcameṣu) [fifth](pañcamaṃ) [liberation](mukti)[giving](dāyakam)
 
 ## mukta-m0-p51-v1268
-[without-bliss](ānandena) [vinā](vinā) [embodied](dehī) [moment-only](kṣaṇamātraṃ) [not](na) [abides](tiṣṭhati)
+[by-bliss](ānandena) [without](vinā) [embodied-being](dehī) [for-a-moment](kṣaṇa)[measure](mātraṃ) [not](na) [remains](tiṣṭhati)
 
 ## mukta-m0-p51-v1269
-[because-and](yataśca) [[gh,ch:]( [therefore-and](ataśca)] [sexual-bliss](maithunānadaṃ) [nature](prakṛti) [puruṣa-natured](puruṣātmakam)
+[because](yataḥ)[and](ca) [sexual-union](maithuna)[bliss](ānadaṃ) [nature](prakṛti) [spirit](puruṣa)[consisting-of](ātmakam)
 
 ## mukta-m0-p51-v1270
-[Brahman](brahma) [knowledge](jñānaṃ) [when](yadā) [goddess](devi) [then](tadā) [Brahmin](brāhmaṇa) [is-called](ucyate)
+[Brahman](brahma) [knowledge](jñānaṃ) [when](yadā) [o-goddess](devi) [then](tadā) [Brahmin](brāhmaṇaḥ) [is-called](ucyate)
 
 ## mukta-m0-p51-v1271
-[in-wine-drinking](madyapāne) [becomes-knower](bhavejjñānī) [in-sexual-union](maithune) [tattva-possessor](tattavavān) [becomes](bhavet)
+[in-wine](madya)[drinking](pāne) [becomes](bhavet)[knower](jñānī) [in-sexual-union](maithune) [principle](tattava)[possessing](vān) [becomes](bhavet)
 
 ## mukta-m0-p51-v1272
-[by-bhāva-difference](bhāvabhedena) [tell](kathaya) [practitioner-bliss](sādhakānanda) [-](-) [characteristic](lakṣaṇam)
+[by-difference](bheda)[of-emotion](bhāva) [tell](kathaya) [of-practitioner](sādhaka)[bliss](ānanda) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p51-v1273
-[of-action-self](kriyātmano) [characteristic](lakṣaṇaṃ) [indeed](hi) [in-many-ways](bahudhā) [manifested](prakaṭīkṛtam)
+[of-action](kriyā)[nature](ātmano) [characteristic](lakṣaṇaṃ) [indeed](hi) [in-many-ways](bahudhā) [made-manifest](prakaṭīkṛtam)
 
 ## mukta-m0-p51-v1274
-[by-which](yena) [path](mārgeṇa) [O-goddess](deveśi) [fruit-share](phalabhāg) [arises](jāyate) [man](naraḥ)
+[by-which](yena) [path](mārgeṇa) [o-lord-of-gods](deveśi) [fruit](phala)[sharer](bhāg) [becomes](jāyate) [man](naraḥ)
 
 ## mukta-m0-p51-v1275
-[without](vinā) [mudrā](mudrāṃ) [drinks-wine](pivenmadyaṃ) [fruitless](niṣphalaṃ) [not-here](nātra) [doubt](saṃśayaḥ)
+[without](vinā) [mudrā](mudrāṃ) [one-drinks](pibet)[wine](madyaṃ) [fruitless](niṣphalaṃ) [not](na)[here](atra) [doubt](saṃśayaḥ)

@@ -1,13 +1,16 @@
 {
  "song": "kjn-p05",
  "verse": 115,
- "question": "What teaching has now been fully communicated to Bhairavī regarding the soul?",
+ "question": "What claim is made about the transmission of the practice of the soul to the one addressed as Bhairavī?",
  "premises": [
-  "A teaching has been told",
-  "It concerns the practice of the soul",
-  "Bhairavī is the recipient"
+  "This practice of the soul is indicated.",
+  "It is said to have been told to you.",
+  "The address is made to Bhairavī.",
+  "The statement is made emphatically with conjunction."
  ],
- "inference": "The instruction on the soul's practice has been completely conveyed.",
- "uncertainties": [],
- "plain_english": "O Bhairavī, this practice concerning the soul has been told to you."
+ "inference": "The practice of the soul has been told to Bhairavī.",
+ "uncertainties": [
+  "The agent of telling is not named in this verse."
+ ],
+ "plain_english": "This practice of the soul has been told to you, and to you, O Bhairavī."
 }

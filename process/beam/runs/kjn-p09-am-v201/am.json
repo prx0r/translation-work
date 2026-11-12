@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 201,
- "question": "What practice must accompany worship of this circle to produce its effects?",
+ "question": "Under what condition does applying meditation to the worshipped circle produce the stated effect in this practice?",
  "premises": [
-  "The circle is worshipped first",
-  "Meditation is applied continuously",
-  "Worship and meditation occur together"
+  "Worship of the circle must precede the act of meditation.",
+  "Meditation is applied for as long as a specified duration holds.",
+  "The application of meditation is the operative act in this sequence."
  ],
- "inference": "Sustained meditation during worship of this circle activates its power.",
- "uncertainties": [],
- "plain_english": "Having worshipped this circle, one applies meditation for as long as the practice continues."
+ "inference": "The practice proceeds by worshipping the circle and then applying meditation for the requisite duration.",
+ "uncertainties": [
+  "The precise duration intended by 'yāvat' remains unspecified."
+ ],
+ "plain_english": "Having worshipped this circle, one applies meditation for as long as is required."
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What duration of this breath practice is required to destroy aging and death?",
+ "question": "Under what temporal condition are old age and death said to be destroyed?",
  "premises": [
-  "The practice is performed for one year",
-  "The practice must be sustained",
-  "Old age and death are destroyed"
+  "A duration of one year is given.",
+  "The condition is that it has been practiced when or for that time.",
+  "Old age and death are the subjects said to be destroyed."
  ],
- "inference": "One year of sustained practice destroys old age and death.",
- "uncertainties": [],
+ "inference": "When this has been practiced for one year, old age and death are destroyed.",
+ "uncertainties": [
+  "The referent of the practice is presupposed from the preceding verses."
+ ],
  "plain_english": "When practiced for one year, old age and death are destroyed."
 }

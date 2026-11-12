@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To what kind of recipient may this teaching rightly be given?",
+ "question": "To whom must a particular gift be given, given the requirement that the recipient has been tested for one year after prior accomplishment?",
  "premises": [
-  "The teaching may be given",
-  "The recipient should be previously accomplished",
-  "The recipient must be tested for one year"
+  "A gift is marked as something to be given.",
+  "The intended recipient is one previously accomplished.",
+  "That recipient is to be one tested for a full year."
  ],
- "inference": "Transmission is permitted only to a proven and tested adept.",
- "uncertainties": [],
- "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
+ "inference": "Only a previously accomplished person tested for one year qualifies to receive the gift.",
+ "uncertainties": [
+  "The nature of the gift itself is not specified in this verse."
+ ],
+ "plain_english": "What is to be given should go to one who was previously accomplished and has been tested for one year."
 }

@@ -12,20 +12,20 @@
     },
     {
      "surface": "tu",
-     "gloss": "and",
-     "grounds": "particle marking continuation or contrast",
+     "gloss": "but",
+     "grounds": "particle marking contrast or continuation",
      "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "object being described",
+     "grounds": "term for an energy center",
      "morph": "n.acc.sg"
     },
     {
      "surface": "rājānam",
      "gloss": "royal",
-     "grounds": "attribute qualifying cakraṃ",
+     "grounds": "epithet qualifying cakraṃ",
      "morph": "m.acc.sg"
     },
     {
@@ -36,29 +36,28 @@
     },
     {
      "surface": "patra",
-     "gloss": "petal",
-     "grounds": "second member of compound describing cakraṃ",
+     "gloss": "petaled",
+     "grounds": "second member of compound with aṣṭa, qualifying cakraṃ",
      "morph": "compound-member"
     },
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "attribute indicating presence of a pericarp",
+     "grounds": "compound sa- + karṇika qualifying cakraṃ",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What form and attributes characterize the sixth chakra?",
+   "question": "What are the defining characteristics of the sixth chakra?",
    "premises": [
-    "The sixth chakra is the subject of description.",
-    "The sixth chakra is characterized as royal.",
-    "The sixth chakra has eight petals.",
-    "The sixth chakra possesses a pericarp."
+    "The sixth chakra is identified as royal.",
+    "This chakra is described as having eight petals.",
+    "This chakra is described as possessing a pericarp."
    ],
-   "inference": "The sixth chakra is a royal wheel with eight petals and a pericarp.",
+   "inference": "The sixth chakra is a royal center distinguished by eight petals and a pericarp.",
    "uncertainties": [
-    "Whether rājānam is intended as a literal epithet or a symbolic designation is not explicit."
+    "The epithet rājānam may indicate a specific name or a general quality of supremacy."
    ],
-   "plain_english": "And the sixth chakra is royal, having eight petals and a pericarp."
+   "plain_english": "But the sixth chakra is the royal one, with eight petals and a pericarp."
   }
  ]
 }

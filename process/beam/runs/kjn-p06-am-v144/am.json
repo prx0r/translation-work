@@ -1,13 +1,13 @@
 {
  "song": "kjn-p06",
  "verse": 144,
- "question": "Within what timeframe is the promised result certain to occur?",
+ "question": "Within what time frame is the promised result certain to occur?",
  "premises": [
-  "A result is asserted to occur",
-  "Doubt about this result is explicitly denied",
-  "The timeframe specified is within six months"
+  "The result will indeed happen.",
+  "There is no doubt about it.",
+  "The time frame is within six months."
  ],
- "inference": "The result indeed occurs within six months, without doubt",
+ "inference": "The result will certainly occur within six months.",
  "uncertainties": [],
- "plain_english": "It indeed comes to pass within six months; there is no doubt."
+ "plain_english": "It will indeed happen without doubt, within six months."
 }

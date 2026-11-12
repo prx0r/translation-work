@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[second-with](dvitīyasahitaṃ) [wine](madyaṃ) [second](dvitīye) [form-contemplation](rūpacintanam)
+[second](dvitīya) [accompanied-by](sahitaṃ) [wine](madyaṃ) [in-second](dvitīye) [form](rūpa) [contemplation](cintanam)
 
 ## mukta-m0-p48-v1177
-[covering](ācchādya) [with-cloth](vāsasā) [hands](hastau) [with-right](dakṣiṇena) [always](sadā) [should-chant](japet)
+[having-covered](ācchādya) [with-cloth](vāsasā) [two-hands](hastau) [with-right](dakṣiṇena) [always](sadā) [one-should-recite](japet)
 
 ## mukta-m0-p48-v1178
-[reason](kāraṇaṃ) [indeed](hi) [thus](tathā) [secret](gopyaṃ) [to-be-hidden](gopanīyañca) [union](maithunam)
+[cause](kāraṇaṃ) [indeed](hi) [likewise](tathā) [to-be-concealed](gopyaṃ) [to-be-protected](gopanīyañ) [and](ca) [sexual-union](maithunam)
 
 ## mukta-m0-p48-v1179
-[liberation-desiring](muktyākāṅkṣī) [O-great-goddess](maheśāni) [attachment](saṅgaṃ) [abandoning](tyaktvā) [rites](kriyāñcaret)
+[liberation](mukti) [desiring](ākāṅkṣī) [O-great-goddess](maheśāni) [attachment](saṅgaṃ) [having-abandoned](tyaktvā) [action](kriyāñ) [one-should-perform](caret)
 
 ## mukta-m0-p48-v1180
-[semen-fall](śukrapātaṃ) [vaginal-opening](yonirandhre) [liberation](muktistasya) [in-hand](kare) [stands](sthitā)
+[semen](śukra) [fall](pātaṃ) [in-vulva](yoni) [cavity](randhre) [liberation](muktiḥ) [of-him](tasya) [in-hand](kare) [situated](sthitā)
 
 ## mukta-m0-p48-v1181
-[four](catvāri) [to-keśava](keśave) [should-do](kuryāda) [to-śiva](śive) [half-circumambulation](cārddhapradakṣiṇam)
+[four](catvāri) [for-Keśava](keśave) [one-should-do](kuryād) [for-Śiva](śive) [and](ca) [half](ārddha) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p48-v1182
-[of-her](tasyāśca) [to-right](dakṣiṇe) [having-gone](gatvā) [salutation](namaskāraṃ) [triangle-like](trikoṇavat)
+[of-her](tasyāś) [and](ca) [to-right](dakṣiṇe) [having-gone](gatvā) [obeisance](namaskāraṃ) [like-triangle](trikoṇavat)
 
 ## mukta-m0-p48-v1183
-[again-bull](punarvṛṣam)
+[again](punar) [bull](vṛṣam)
 
 ## mukta-m0-p48-v1184
-[left-right-order](savyāsavyakrameṇaiva) [soma-thread](somasūtraṃ) [not-cross](na+laṅghayet)
+[left](savya) [and-right](asavya) [in-order](krameṇa) [indeed](eva) [moon](soma) [thread](sūtraṃ) [not](na) [one-should-transgress](laṅghayet)
 
 ## mukta-m0-p48-v1185
-[should-perform](samācaret)
+[one-should-practice](samācaret)
 
 ## mukta-m0-p48-v1186
-[who](yaḥ) [does-with-devotion](kuryādbhaktibhāvena) [to-god](deve) [he-too](so'pi) [dissolution](layo) [becomes](bhavet)
+[who](yaḥ) [would-do](kuryād) [with-devotion](bhakti) [disposition](bhāvena) [in-deity](deve) [he](saḥ) [also](api) [dissolution](layaḥ) [would-become](bhavet)
 
 ## mukta-m0-p48-v1187
-[honored](vanditāṃ)
+[praised](vanditāṃ)
 
 ## mukta-m0-p48-v1188
-[to-guru](guruṃ) [should-bow](namet) [face-to-face](sammukhato) [not-otherwise](nānyathā) [fruitless](niṣphalaṃ) [becomes](bhavet)
+[guru](guruṃ) [one-should-bow](namet) [facing](sammukhataḥ) [not](na) [otherwise](anyathā) [fruitless](niṣphalaṃ) [it-would-be](bhavet)
 
 ## mukta-m0-p48-v1189
 [with-hand](hastena) [with-head](śirasā) [or](vāpi) [with-head](śirasā) [alone](kevalena) [and](ca)
 
 ## mukta-m0-p48-v1190
-[with-speech](vacasā) [with-mind](manasā) [and](caiva) [salutation](praṇāmo) [eight-eight](aṣṭāṣṭa) [declared](īritaḥ)
+[with-speech](vacasā) [with-mind](manasā) [and](ca) [indeed](eva) [prostration](praṇāmaḥ) [eightfold](aṣṭāṣṭa) [is-declared](īritaḥ)
 
 ## mukta-m0-p48-v1191
-[with-five-limbs](pañcāṅgena) [should-bow](nameddevaṃ) [deity](devatā) [dissolution-part](layabhāgbhavet)
+[with-five-limbs](pañcāṅgena) [one-should-bow](named) [to-deity](devaṃ) [deity](devatā) [dissolution](laya) [share](bhāg) [would-become](bhavet)
 
 ## mukta-m0-p48-v1192
-[that-that](tattat) [own-form](svarūpaṃ) [contemplating](saṃcintya) [all-inauspicious](sarvāniṣṭānnamed) [should-worship](yajet)
+[each](tat) [that](tat) [own-form](svarūpaṃ) [having-contemplated](saṃcintya) [all](sarva) [undesired-things](aniṣṭān) [one-should-bow](named) [one-should-worship](yajet)
 
 ## mukta-m0-p48-v1193
-[salutation](namaskāraṃ) [thus](tathā) [hymn](stotraṃ) [devoted](bhaktimān) [practitioner](sādhakaścaret)
+[obeisance](namaskāraṃ) [likewise](tathā) [hymn](stotraṃ) [devoted](bhaktimān) [practitioner](sādhakaḥ) [should-perform](caret)
 
 ## mukta-m0-p48-v1194
-[broken](bhīnna) [vessel-water](bhāṇḍodakaṃ) [as](yathā)
+[broken](bhīnna) [vessel](bhāṇḍa) [water](udakaṃ) [as](yathā)
 
 ## mukta-m0-p48-v1195
-[then-other](tadanyaṃ) [worship](pūjanaṃ) [hymn](stotraṃ) [how-other](kathamanyasya) [should-do](kārayet)
+[other-than-that](tadanyaṃ) [worship](pūjanaṃ) [hymn](stotraṃ) [how](katham) [of-another](anyasya) [one-should-cause](kārayet)
 
 ## mukta-m0-p48-v1196
-[therefore](ataśca) [practitioner](sādhako) [goddess](devi) [own-desired-other](sveṣṭānyaṃ) [hymn](stotramācaret)
+[therefore](ataḥ) [and](ca) [practitioner](sādhakaḥ) [O-goddess](devi) [own-chosen-deity](sveṣṭa) [other-than](anyaṃ) [hymn](stotram) [should-perform](ācaret)
 
 ## mukta-m0-p48-v1197
-[dance](nṛtyaṃ) [erotic-mood](śṛṅgārabhāvena) [deity](devatā) [pleased](prītibhāgbhavet)
+[dance](nṛtyaṃ) [with-erotic](śṛṅgāra) [disposition](bhāvena) [deity](devatā) [pleasure](prīti) [share](bhāg) [would-become](bhavet)
 
 ## mukta-m0-p48-v1198
 [destroyer](nāśakaḥ)
 
 ## mukta-m0-p48-v1199
-[then](tataśca) [embodied-one](dehī) [supreme](parame) [tenth](daśame'pi) [dissolution](layo) [becomes](bhavet)
+[then](tataḥ) [and](ca) [embodied-one](dehī) [in-supreme](parame) [in-tenth](daśame) [also](api) [dissolution](layaḥ) [would-become](bhavet)
 
 ## mukta-m0-p48-v1200
-[third](tṛtīye) [hair-erection](romaharṣañca) [fourth](caturthe'śruprapātanam) [tear-falling](aśruprapātanam)
+[in-third](tṛtīye) [horripilation](roma) [bristling](harṣañ) [and](ca) [in-fourth](caturthe) [tear](aśru) [falling](prapātanam)

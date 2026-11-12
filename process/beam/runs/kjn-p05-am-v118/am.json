@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 118,
- "question": "What transformation of the body follows the removal of ignorance's veil?",
+ "question": "In what condition is the speaker's body said to be at present, despite being described as pure?",
  "premises": [
-  "The body was struck by ignorance's veil",
-  "A change has occurred now",
-  "The body is now pure"
+  "The time is given as today.",
+  "The speaker's body is described as pure.",
+  "That body is described as struck by a veil of ignorance."
  ],
- "inference": "Through this teaching, the body once veiled by ignorance becomes pure.",
- "uncertainties": [],
- "plain_english": "Today my body, once struck by the veil of ignorance, is pure."
+ "inference": "At present, the speaker's pure body remains struck by a veil of ignorance.",
+ "uncertainties": [
+  "The tense and aspect of the condition are not explicitly marked."
+ ],
+ "plain_english": "Today my pure body is struck by a veil of ignorance."
 }
