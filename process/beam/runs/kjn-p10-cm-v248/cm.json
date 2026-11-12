@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+member",
-   "grounds": "first member of compound qualifying abhyāsa"
+   "morph": "compound=satata+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+member",
-   "grounds": "second member of compound qualifying yogena"
+   "morph": "compound=satata+abhyāsa, m.nom.sg",
+   "grounds": "uninterrupted practice; compound with satata"
   },
   {
    "lemma": "yogena",
-   "morph": "m.ins.sg",
-   "grounds": "instrument of transformation"
+   "morph": "m.inst.sg",
+   "grounds": "through yogic discipline"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+member",
-   "grounds": "first member of compound indicating number"
+   "morph": "compound=dvi+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+member",
-   "grounds": "second member of compound indicating number"
+   "morph": "compound=aṣṭa+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+member",
-   "grounds": "third member of compound qualifying ākṛtiḥ"
+   "morph": "compound=dvi+aṣṭa+varṣa, m.nom.sg",
+   "grounds": "two times eight years; compound chain"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "subject that comes to be"
+   "grounds": "bodily appearance"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative/√bhū",
-   "grounds": "optative expressing result"
+   "morph": "3.sg.act-optative/√bhū",
+   "grounds": "comes to be"
   }
  ]
 }

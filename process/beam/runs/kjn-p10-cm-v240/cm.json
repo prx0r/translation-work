@@ -5,37 +5,37 @@
   {
    "lemma": "dvitīyam",
    "morph": "n.nom.sg",
-   "grounds": "adjective qualifying the lotus or wheel"
+   "grounds": "ordinal number"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+member",
-   "grounds": "first member of compound qualifying patram"
+   "morph": "compound=aṣṭa+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "patram",
-   "morph": "n.nom.sg",
-   "grounds": "second member describing the lotus"
+   "morph": "compound=aṣṭa+patram, n.nom.sg",
+   "grounds": "having eight petals; compound with aṣṭa"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of continuation"
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "teja",
-   "morph": "compound=teja+member",
-   "grounds": "first member of compound qualifying dhyāna"
+   "morph": "compound=teja+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound=dhyāna+member",
-   "grounds": "second member of compound qualifying sudīpitam"
+   "morph": "compound=teja+dhyāna, n.inst.sg",
+   "grounds": "meditation on fire; compound with teja"
   },
   {
    "lemma": "sudīpitam",
-   "morph": "n.nom.sg.past-participle/su-dīp",
-   "grounds": "past participle describing the lotus"
+   "morph": "n.nom.sg",
+   "grounds": "brightly lit or blazing"
   }
  ]
 }

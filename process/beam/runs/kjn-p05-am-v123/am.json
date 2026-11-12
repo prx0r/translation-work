@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What result follows when this practice is performed for one full year?",
+ "question": "Under what condition is old age and death claimed to be destroyed?",
  "premises": [
-  "The practice is performed for one year.",
-  "The condition is that it has been practiced.",
-  "The stated result is the destruction of old age and death."
+  "A practice is done for one year.",
+  "That practice is done when practiced over that time.",
+  "Under that condition old age and death are destroyed."
  ],
- "inference": "Therefore practicing for one year destroys old age and death.",
- "uncertainties": [],
+ "inference": "When the practice has been done for one year, old age and death are destroyed.",
+ "uncertainties": [
+  "Nature of the practice not specified in this verse"
+ ],
  "plain_english": "When practiced for one year, old age and death are destroyed."
 }
