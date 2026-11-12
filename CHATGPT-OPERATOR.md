@@ -78,6 +78,8 @@ status line: done / pending / workers / assembled / top-failure / flags.
 ```
 priority {limit:10}                     → pick next (untranslated, shortest first)
 bibliography {catalog:"M00xxx"}         → what translations already exist
+onboard {catalog:"M00xxx", brief:"..."} → create work dir (source intake; needs brief)
+burn {work:"mukta-m00xxx"}              → build working-T1 + seed drafting tasks
 recon {work:"mukta-m00xxx"}             → source spans, songs, what's missing
 swarm_seed {work, song, group:24}       → queue draft tasks (needs a lore brief)
 swarm_status                            → watch progress

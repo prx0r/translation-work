@@ -393,6 +393,55 @@ def recon(work: str) -> dict:
 
 
 @mcp.tool()
+def onboard(catalog: str, brief: str = "", title: str = "") -> dict:
+    """Onboard a new Muktabodha catalog (Mnnnnn) into a work dir so it can be
+    seeded. Writes the brief (if given) to process/beam/lore/, then does source
+    intake: source/edition.txt + segments + verses + passages + STATUS.json.
+    brief_gate requires a researched brief (FACTS + TRAPS + Ledger sections,
+    no AUTO-BRIEF) — pass it here or write it first. Idempotent refusal if the
+    work dir exists. Read the REQUIRED next step: recon → swarm_seed.
+    Source library: /tmp/mukta/MUKTABODHA-LIBRARY-IAST."""
+    cat = catalog.strip()
+    wname = f"mukta-{cat}".lower()
+    if (ROOT / wname).is_dir():
+        return {"error": f"{wname} already exists", "work": wname}
+    if brief:
+        lore = ROOT / "process/beam/lore" / f"{wname}.md"
+        lore.parent.mkdir(parents=True, exist_ok=True)
+        lore.write_text(brief)
+    sys.path.insert(0, str(ROOT / "tools"))
+    sys.path.insert(0, "/root/openpatalaproject/pipeline")
+    try:
+        from onboard_wave import onboard as _onboard, MUKTA
+        from harvest_to_factory import extract_verses
+        src = next(MUKTA.glob(f"*{cat}-IAST.txt"), None)
+        if src is None:
+            return {"error": f"no source file for {cat} in {MUKTA}"}
+        census = {r["catalog"]: r for r in json.loads(
+            __import__("pathlib").Path("/tmp/mukta_census.json").read_text())}
+        c = census.get(cat, {})
+        ttl = title or c.get("title") or cat
+        auth = json.loads((ROOT / "process/beam/muktabodha_authority_traditions.json").read_text())
+        trads = " / ".join(t["tradition"] for t in auth.get(cat, [])) or "unclassified"
+        verses = extract_verses("MUKTABODHA", cat, src)
+        w = _onboard(cat, ttl, verses, trads, c.get("author") or "")
+        return {"ok": True, "work": w.name, "title": ttl, "tradition": trads,
+                "verses": len(verses),
+                "next": "recon {work} then swarm_seed {work, song}"}
+    except Exception as e:  # noqa: BLE001
+        return {"error": str(e)[:400]}
+
+
+@mcp.tool()
+def burn(work: str, lo: int = 1, hi: int = 999) -> dict:
+    """Build working-T1 for a work/song range (coverage-gated) then seed the
+    triple drafting tasks — the automated Pass-1 path. Requires the work to be
+    onboarded (dir + source + brief). Use after onboard(); then the beam workers
+    draft, and you review/assemble/promote. Machine-proposed output."""
+    return _run(["tools/auto_burn.py", "--work", work, "--from", str(lo), "--to", str(hi)], timeout=900)
+
+
+@mcp.tool()
 def assemble(work: str, song: str) -> dict:
     """Assessor act: assemble beam runs -> working-T1/L0 + data t1/l0/argmap/
     l2 (+C1-essence skeleton) -> validate_song + proof_record. Writes working
@@ -711,7 +760,7 @@ TOOLS = ["status", "validate", "lore", "swarm_status",
          "skill", "concepts", "gates", "recon", "assemble", "supervise",
          "swarm_workers", "review_sweep", "beam_review",
          "bibliography", "priority", "schema", "stats", "works",
-         "editions", "links", "availability"]
+         "editions", "links", "availability", "onboard", "burn"]
 
 
 if __name__ == "__main__":
