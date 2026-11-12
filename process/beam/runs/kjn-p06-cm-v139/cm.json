@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "bhū",
-   "morph": "f.nom.sg",
-   "grounds": "first member of location compound"
+   "morph": "compound-member",
+   "grounds": "first member of location type"
   },
   {
    "lemma": "gṛhe",
    "morph": "n.loc.sg",
-   "grounds": "dwelling place for practice"
+   "grounds": "type of dwelling"
   },
   {
    "lemma": "nirjane",
    "morph": "n.loc.sg",
-   "grounds": "describes the place as deserted"
+   "grounds": "quality of the place"
   },
   {
    "lemma": "sthāne",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "daṃśa",
-   "morph": "m.nom.sg",
-   "grounds": "pest to be absent"
+   "morph": "compound-member",
+   "grounds": "first pest excluded"
   },
   {
    "lemma": "maśaka",
-   "morph": "m.nom.sg",
-   "grounds": "pest to be absent"
+   "morph": "compound-member",
+   "grounds": "second pest excluded"
   },
   {
    "lemma": "varjite",
    "morph": "n.loc.sg",
-   "grounds": "describes absence of pests"
+   "grounds": "absence of pests"
   }
  ]
 }

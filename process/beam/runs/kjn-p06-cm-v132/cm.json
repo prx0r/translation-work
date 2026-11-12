@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "m.nom.sg",
-   "grounds": "first member of compound name"
+   "morph": "compound-member",
+   "grounds": "first member of chapter title"
   },
   {
    "lemma": "dvīpa",
-   "morph": "m.nom.sg",
-   "grounds": "second member of compound name"
+   "morph": "compound-member",
+   "grounds": "second member of chapter title"
   },
   {
    "lemma": "vinirgate",
    "morph": "n.loc.sg",
-   "grounds": "describes emergence from the moon-island"
+   "grounds": "context of the chapter"
   },
   {
    "lemma": "ṣaṣṭhaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ordinal number of the chapter"
+   "grounds": "ordinal number of chapter"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "section of the text"
+   "grounds": "section designation"
   }
  ]
 }
