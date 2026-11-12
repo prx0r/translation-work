@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "dūra",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing hearing"
+   "morph": "compound=dūra+āśravaṇa",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "āśravaṇa",
-   "morph": "compound-member",
-   "grounds": "second member of compound naming knowledge"
+   "morph": "compound=dūra+āśravaṇa",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "vijñānaṃ",
    "morph": "n.nom.sg",
-   "grounds": "first attainment named"
+   "grounds": "attainment"
   },
   {
    "lemma": "pāśa",
-   "morph": "compound-member",
-   "grounds": "first member of compound naming paralysis"
+   "morph": "compound=pāśa+stobham",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "stobham",
    "morph": "m.acc.sg",
-   "grounds": "second attainment named"
+   "grounds": "attainment"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "connects attainments"
   },
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "grounds": "addressee"
   }
  ]
 }
