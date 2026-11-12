@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "compound=bhukti+first",
-   "grounds": "first member of compound with mukti"
+   "morph": "f.nom.sg",
+   "grounds": "noun denoting worldly enjoyment; first member of a series of attainments"
   },
   {
    "lemma": "mukti",
-   "morph": "compound=mukti+second",
-   "grounds": "second member of compound with mahā"
+   "morph": "f.nom.sg",
+   "grounds": "noun denoting spiritual release; paired with enjoyment"
   },
   {
    "lemma": "mahā",
-   "morph": "compound=mahā+third",
-   "grounds": "third member of compound qualifying siddhiḥ"
+   "morph": "compound-member",
+   "grounds": "qualifying element indicating greatness; forms compound with following noun"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "subject of bhavet"
+   "grounds": "noun denoting supreme attainment; qualified by preceding element"
   },
   {
    "lemma": "yoginīnāṃ",
    "morph": "f.gen.pl",
-   "grounds": "possessor of favor"
+   "grounds": "denotes the group to whom one becomes dear"
   },
   {
    "lemma": "priyo",
    "morph": "m.nom.sg",
-   "grounds": "predicate describing siddhiḥ"
+   "grounds": "predicate adjective describing the resulting state"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
-   "grounds": "optative expressing potential result"
+   "morph": "3.sg.opt-act/√bhū",
+   "grounds": "optative verb expressing possible attainment"
   }
  ]
 }
