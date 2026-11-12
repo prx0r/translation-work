@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 231,
- "question": "How does the secret place function as a wheel that brings quick accomplishment?",
+ "question": "How does the secret place function as a wheel for swift accomplishment?",
  "premises": [
-  "The secret place is identified as a wheel.",
-  "Accomplishment occurs there.",
-  "That accomplishment happens quickly."
+  "A secret place is identified as a wheel",
+  "The wheel is associated with accomplishment",
+  "Accomplishment occurs quickly"
  ],
- "inference": "The secret place, as a wheel, brings about quick accomplishment.",
- "uncertainties": [],
- "plain_english": "O Bhairava, tell how the secret place is a wheel in which accomplishment comes quickly."
+ "inference": "The secret place, as a wheel, brings about swift accomplishment.",
+ "uncertainties": [
+  "syntactic role of yathā is slightly ambiguous; read as indicating identification or manner"
+ ],
+ "plain_english": "O Bhairava, tell me how the secret place, as a wheel, brings swift accomplishment."
 }

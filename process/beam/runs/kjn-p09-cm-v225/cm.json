@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "caturaśīti",
-   "morph": "numeral",
-   "grounds": "numeral element forming the compound number with sahasreṣu"
+   "morph": "compound-member",
+   "grounds": "numeral forming first member of a compound with 'sahasreṣu'"
   },
   {
    "lemma": "sahasreṣu",
    "morph": "n.loc.pl",
-   "grounds": "locative plural indicating the vast number in which torment occurs"
+   "grounds": "locative plural indicating the vast number"
   },
   {
    "lemma": "yoniyantreṣu",
-   "morph": "yoni+womb+compound-member, yantra+diagram+n.loc.pl",
-   "grounds": "compound yoni+yantra denoting generative mechanisms or matrices"
+   "morph": "compound:n.loc.pl",
+   "grounds": "compound 'yoni' (womb) + 'yantra' (mechanism/diagram) in locative plural"
   },
   {
    "lemma": "pīḍitāḥ",
-   "morph": "m.nom.pl, past-passive-participle, √pīḍ",
-   "grounds": "past passive participle describing the afflicted state of beings"
+   "morph": "m.nom.pl.ppp:√pīḍ",
+   "grounds": "past passive participle describing those subjected to suffering"
   }
  ]
 }

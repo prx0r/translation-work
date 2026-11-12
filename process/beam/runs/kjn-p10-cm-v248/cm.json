@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound=satata+first",
+   "grounds": "first member of compound qualifying practice"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound-member",
+   "morph": "compound=abhyāsa+second",
    "grounds": "second member of compound"
   },
   {
    "lemma": "yogena",
-   "morph": "m.ins.sg",
-   "grounds": "means of transformation"
+   "morph": "m.inst.sg",
+   "grounds": "instrumental means"
   },
   {
    "lemma": "dvi",
-   "morph": "compound-member",
-   "grounds": "first part of number"
+   "morph": "compound=dvi+first",
+   "grounds": "first member of numerical compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
-   "grounds": "second part of number"
+   "morph": "compound=aṣṭa+second",
+   "grounds": "second member of numerical compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound-member",
-   "grounds": "third part of compound"
+   "morph": "compound=varṣa+third",
+   "grounds": "third member of compound qualifying form"
   },
   {
    "lemma": "ākṛtiḥ",
@@ -39,8 +39,8 @@
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-opt/√bhū",
-   "grounds": "result of yoga"
+   "morph": "3.sg.optative-active √bhū",
+   "grounds": "optative expressing result"
   }
  ]
 }
