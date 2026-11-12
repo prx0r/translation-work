@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "samīra+pūrako",
-   "morph": "compound = member+membership",
-   "grounds": "compound = samīra+pūraka; nominative as given"
+   "morph": "m.nom.sg (compound samīra+pūraka)",
+   "grounds": "nominative singular of compound with internal sandhi marked by +"
   },
   {
    "lemma": "vāyuḥ",
    "morph": "m.nom.sg",
-   "grounds": "nominative of vāyu"
+   "grounds": "masculine nominative singular noun"
   },
   {
    "lemma": "sarva+jīveṣu",
-   "morph": "compound = member+membership",
-   "grounds": "compound = sarva+jīva; locative as given"
+   "morph": "m.loc.pl (compound sarva+jīva)",
+   "grounds": "locative plural of compound with internal sandhi marked by +"
   },
   {
    "lemma": "saṃsthitam",
-   "morph": "m.acc.sg",
-   "grounds": "past participle of sam-sthā"
+   "morph": "ppp.nom.sg.n (√sthā)",
+   "grounds": "past passive participle of sam-sthā, neuter nominative singular"
   }
  ]
 }

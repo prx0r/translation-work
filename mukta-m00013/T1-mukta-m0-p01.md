@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[guru+ca](guruñca) [jñāna+dātāram](jñānadātāraṃ) [kṛṣṇānandena](kṛṣṇānandena) [dhīmatā](dhīmatā)
+[teacher](guruñ)[and](ca) [knowledge](jñāna)+[giver](dātāraṃ) [by-Kṛṣṇānanda](kṛṣṇānandena) [wise](dhīmatā)
 
 ## mukta-m0-p01-v2
-[guru+śiṣyayoḥ](guruśiṣyayoḥ) [sambandhaḥ](guruśiṣyayoḥ) [dvayoḥ](guruśiṣyayoḥ) [madhye](guruśiṣyayoḥ)
+[of-teacher](guru)+[and-disciple](śiṣyayoḥ)
 
 ## mukta-m0-p01-v3
-[guruḥ](guruḥ) [iti](iti) [abhidhīyate](abhidhīyate) [nāma](guruḥ)
+[teacher](guruḥ)+[thus](iti)+[is-called](abhidhīyate)
 
 ## mukta-m0-p01-v4
-[brāhmaṇa+uttamaḥ](brāhmaṇottamaḥ) [tapasvī](tapasvī) [satya+vādī](satyavādī) [ca](ca) [gṛhasthaḥ](gṛhastho) [guruḥ](guruḥ) [ucyate](ucyate)
+[best](uttamaḥ)+[of-brāhmaṇas](brāhmaṇaḥ) [ascetic](tapasvī) [truth](satya)+[speaker](vādī) [and](ca) [householder](gṛhastho) [teacher](guruḥ)+[is-called](ucyate)
 
 ## mukta-m0-p01-v5
-[saḥ](sa) [yāti](yāti) [narakam](nakaraṃ) [ghoram](ghoraṃ) [sā](sā) [pūjā](pūjā) [viphalā](viphalā) [bhavet](bhavet)
+[he](sa) [goes](yāti) [to-hell](nakaraṃ) [terrible](ghoraṃ) [that](sā) [worship](pūjā) [fruitless](viphalā) [becomes](bhavet)
 
 ## mukta-m0-p01-v6
-[śāpam](śāpam) [avāpnuyāt](avāpnuyāt) [saḥ](śāpam) [prāpnoti](avāpnuyāt)
+[curse](śāpam)+[obtains](avāpnuyāt)
 
 ## mukta-m0-p01-v7
-[vāmanaḥ](vāmanaḥ) [ku+nakhī](kunakhī) [śyāva+dantaḥ](śyāvadantaśca) [ca](śyāvadantaśca) [strī+jitaḥ](strījitaścādhikāṅgakaḥ) [ca](strījitaścādhikāṅgakaḥ) [adhika+aṅgakaḥ](strījitaścādhikāṅgakaḥ)
+[dwarf](vāmanaḥ) [bad](ku)+[nailed](nakhī) [black](śyāva)+[toothed](dantaḥ)+[and](ca) [by-woman](strī)+[conquered](jitaḥ)+[and](ca)+[having-extra-limb](adhikāṅgakaḥ)
 
 ## mukta-m0-p01-v8
-[vihīnaḥ](vihīnaḥ) [pāṭha+antara](pāṭhāntara) [yaḥ](yaḥ) [saḥ](sa) [guruḥ](guruḥ) [śiṣya+sammataḥ](śiṣyasammataḥ)
+[devoid](vihīnaḥ) [variant-reading](pāṭhāntara) [who](yaḥ) [he](sa) [teacher](guruḥ) [by-disciple](śiṣya)+[approved](sammataḥ)
 
 ## mukta-m0-p01-v9
-[kriyā+hīnam](kriyāhīnaṃ) [śaṭham](śaṭhañcāpi) [ca](śaṭhañcāpi) [api](śaṭhañcāpi) [vāmanam](vāmanaṃ) [guru+nindakam](gurunindakam)
+[rite](kriyā)+[devoid](hīnaṃ) [deceitful](śaṭhañ)+[and](ca)+[also](api) [dwarf](vāmanaṃ) [teacher](guru)+[reviler](nindakam)
 
 ## mukta-m0-p01-v10
-[gurum](guruṃ) [tantreṇa](tantreṇa) [varjayet](varjayet) [tyajet](varjayet)
+[teacher](guruṃ) [by-scripture](tantreṇa) [should-avoid](varjayet)
 
 ## mukta-m0-p01-v11
-[vāmanaḥ](vāmanastathā) [tathā](vāmanastathā) [iti](ityādyapi) [ādi](ityādyapi) [api](ityādyapi) [bodhyam](bodhyamiti) [iti](bodhyamiti)
+[dwarf](vāmanaḥ)+[likewise](tathā) [thus](iti)+[beginning-with](ādy)+[also](api) [to-be-understood](bodhyam)+[thus](iti)
 
 ## mukta-m0-p01-v12
-[dāna+dhyāna+parāyaṇaḥ](dānadhyānaparāyaṇ) [dāne](dānadhyānaparāyaṇ) [dhyāne](dānadhyānaparāyaṇ) [rataḥ](dānadhyānaparāyaṇ)
+[giving](dāna)+[meditation](dhyāna)+[devoted](parāyaṇ)
 
 ## mukta-m0-p01-v13
-[dīnāya](dīnāyācāraśūnyāya) [ācāra+śūnyāya](dīnāyācāraśūnyāya) [yantra+dveṣa+parāya](yantradveṣaparāya) [ca](ca)
+[to-wretched](dīnāya)+[conduct](ācāra)+[devoid](śūnyāya) [to-yantra](yantra)+[hatred](dveṣa)+[devoted](parāya) [and](ca)
 
 ## mukta-m0-p01-v14
-[guru+bhakti+vihīnāya](gurubhaktivihīnāya) [na](na) [deyā](deyā) [malināya](malināya) [ca](ca)
+[teacher](guru)+[devotion](bhakti)+[devoid](vihīnāya) [not](na) [to-be-given](deyā) [to-impure](malināya) [and](ca)
 
 ## mukta-m0-p01-v15
-[kṛpaṇāḥ](kṛpaṇāstatathā) [tathā](kṛpaṇāstatathā) [daridrāḥ](daridrā) [rogiṇaḥ](rogiṇo) [ruṣṭāḥ](ruṣṭā) [rāgiṇaḥ](rāgiṇo) [bhoga+lālasāḥ](bhogalālasāḥ)
+[miserly](kṛpaṇāḥ)+[likewise](tathā) [poor](daridrā) [diseased](rogiṇo) [angry](ruṣṭā) [passionate](rāgiṇo) [enjoyment](bhoga)+[desirous](lālasāḥ)
 
 ## mukta-m0-p01-v16
-[anyāya+upārjita+dhanāḥ](anyāyopārjitadhanāḥ) [para+dāra+ratāḥ](paradāraratāśca) [ca](paradāraratāśca) [ye](ye)
+[by-unjust-means](anyāya)+[acquired](upārjita)+[wealth](dhanāḥ) [another's](para)+[wife](dāra)+[delighting](ratāḥ)+[and](ca) [who](ye)
 
 ## mukta-m0-p01-v17
-[bhraṣṭa+ācārāḥ](bhraṣṭācārāśca) [ca](bhraṣṭācārāśca) [ye](ye) [kaṣṭa+vṛttayaḥ](kaṣṭavṛttayaḥ) [piśunāḥ](piśunāḥ) [khalāḥ](khalāḥ)
+[fallen](bhraṣṭa)+[conduct](ācārāḥ)+[and](ca) [who](ye) [difficult](kaṣṭa)+[livelihood](vṛttayaḥ) [slanderous](piśunāḥ) [wicked](khalāḥ)
 
 ## mukta-m0-p01-v18
-[parityājyāḥ](parityājyāḥ) [śiṣyatvena](śiṣyatvenopakalpitāḥ) [upakalpitāḥ](śiṣyatvenopakalpitāḥ) [tyājyāḥ](parityājyāḥ)
+[to-be-rejected](parityājyāḥ) [in-discipleship](śiṣyatvena)+[considered](upakalpitāḥ)
 
 ## mukta-m0-p01-v19
-[gurutā](gurutā) [śiṣyatā](śiṣyatā) [vā](vāpi) [api](vāpi) [tayoḥ](tayorvatsaravāsataḥ) [vatsara+vāsataḥ](tayorvatsaravāsataḥ)
+[teacherhood](gurutā) [discipleship](śiṣyatā) [or](vā)+[also](api) [of-those-two](tayoḥ)+[year](vatsara)+[residence](vāsataḥ)
 
 ## mukta-m0-p01-v20
-[svapne](svapne) [tu](tū) [niyamaḥ](niyamo) [na](na) [hi](hīti) [iti](hīti) [nārada+vacanāt](nāradavacanāt)
+[in-dream](svapne) [but](tū) [rule](niyamo) [not](na) [thus](hi)+[thus](iti) [of-Nārada](nārada)+[statement](vacanāt)
 
 ## mukta-m0-p01-v21
-[tathā](tathā) [śiṣya+arjitam](śiṣyārjjitaṃ) [pāpam](pāpaṃ) [guruḥ](guruḥ) [prāpnoti](prāpnoti) [niścitam](niścitam)
+[likewise](tathā) [by-disciple](śiṣya)+[acquired](ārjjitaṃ) [sin](pāpaṃ) [teacher](guruḥ) [obtains](prāpnoti) [certainly](niścitam)
 
 ## mukta-m0-p01-v22
-[śiṣya+yogyatā](śiṣyayogyatā) [śiṣyasya](śiṣyayogyatā) [yogyatā](śiṣyayogyatā) [arhatā](śiṣyayogyatā)
+[of-disciple](śiṣya)+[fitness](yogyatā)
 
 ## mukta-m0-p01-v23
-[na](na) [hi](hi) [devāḥ](devāḥ) [prasīdanti](prasīdanti) [kalau](kalau) [ca](cānya) [anya+vidhānataḥ](vidhānataḥ)
+[not](na) [indeed](hi) [gods](devāḥ) [are-pleased](prasīdanti) [in-Kali-age](kalau) [and](ca)+[other](anya) [by-means](vidhānataḥ)
 
 ## mukta-m0-p01-v24
-[teṣām](teṣāmāgamamārgeṇa) [āgama+mārgeṇa](teṣāmāgamamārgeṇa) [siddhiḥ](siddhirna) [na](siddhirna) [śrauta+vartmanā](śrautavartmanā)
+[of-them](teṣām)+[by-Āgama](āgama)+[path](mārgeṇa) [success](siddhiḥ)+[not](na) [by-Vedic](śrauta)+[way](vartmanā)
 
 ## mukta-m0-p01-v25
-[teṣām](teṣā) [bhidā](bhidā) [na](na) [karttavyā](karttavyā) [yadi](yadīcchecchubhamātmanaḥ) [icchet](yadīcchecchubhamātmanaḥ) [śubham](yadīcchecchubhamātmanaḥ) [ātmanaḥ](yadīcchecchubhamātmanaḥ)
+[of-them](teṣā) [distinction](bhidā) [not](na) [to-be-made](karttavyā) [if](yadi)+[desires](icchet)+[good](śubham)+[of-self](ātmanaḥ)
