@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "keśa",
-   "morph": "compound:keśa+skandha",
-   "grounds": "hair; first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "skandha",
-   "morph": "compound:keśa+skandha",
-   "grounds": "mass or region; second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "kapāla",
-   "morph": "compound:kapāla+stha",
-   "grounds": "cranium; first member of compound"
+   "morph": "compound-member",
+   "grounds": "third member of compound"
   },
   {
    "lemma": "sthaṃ",
    "morph": "n.acc.sg",
-   "grounds": "located in"
+   "grounds": "describes the location"
   },
   {
    "lemma": "rañjayet",
-   "morph": "3.sg.act-optative √rañj",
-   "grounds": "injunction to permeate"
+   "morph": "3.sg.optative-active √rañj",
+   "grounds": "injunctive instruction"
   },
   {
    "lemma": "tasya",
-   "morph": "n.gen.sg",
-   "grounds": "of that substance"
+   "morph": "pron.gen.sg",
+   "grounds": "source of splendor"
   },
   {
    "lemma": "tejasā",
    "morph": "n.inst.sg",
-   "grounds": "by its radiant power"
+   "grounds": "instrument of coloring"
   }
  ]
 }

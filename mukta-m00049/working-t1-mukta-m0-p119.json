@@ -11,7 +11,7 @@
 "quick_gloss": "wealth"
 },
 {
-"surface": "pitṛgate",
+"surface": "pitṛ+gate",
 "quick_gloss": "father+gone"
 },
 {
@@ -28,7 +28,7 @@
 },
 {
 "surface": "adhikāriṇī",
-"quick_gloss": "entitled"
+"quick_gloss": "heiress"
 }
 ]
 },
@@ -41,15 +41,15 @@
 "tokens": [
 {
 "surface": "draviṇāt",
-"quick_gloss": "wealth"
+"quick_gloss": "from-wealth"
 },
 {
 "surface": "dravyāt",
-"quick_gloss": "property"
+"quick_gloss": "from-property"
 },
 {
-"surface": "svapituḥ",
-"quick_gloss": "own+father's"
+"surface": "sva+pituḥ",
+"quick_gloss": "of-own-father"
 },
 {
 "surface": "dāyaṃ",
@@ -61,7 +61,7 @@
 },
 {
 "surface": "arhati",
-"quick_gloss": "is-fit"
+"quick_gloss": "is-worthy"
 }
 ]
 },
@@ -86,8 +86,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ūrdhvagāmi+dhane",
-"quick_gloss": "upward+going+wealth"
+"surface": "ūrdhva+gāmi+dhane",
+"quick_gloss": "in-upward-going+wealth"
 },
 {
 "surface": "śreṣṭhaḥ",
@@ -140,7 +140,7 @@
 },
 {
 "surface": "tat+pitā",
-"quick_gloss": "his+father"
+"quick_gloss": "his-father"
 }
 ]
 },
@@ -153,7 +153,7 @@
 "tokens": [
 {
 "surface": "pūrva+ukta+vidhinā",
-"quick_gloss": "previously+stated+method"
+"quick_gloss": "by-previously+stated+method"
 },
 {
 "surface": "rikthaṃ",
@@ -182,14 +182,14 @@
 },
 {
 "surface": "ūrdhva+krameṇa",
-"quick_gloss": "upward+sequence"
+"quick_gloss": "in-upward+order"
 },
 {
-"surface": "evaṃ",
+"surface": "evam",
 "quick_gloss": "thus"
 },
 {
-"surface": "pumāṃsaṃ",
+"surface": "pumāṃsam",
 "quick_gloss": "male"
 },
 {
@@ -211,7 +211,7 @@
 "tokens": [
 {
 "surface": "adhastāt+janma+gauravāt",
-"quick_gloss": "below+born+superiority"
+"quick_gloss": "because-of-lower+birth+superiority"
 },
 {
 "surface": "pautrī",
@@ -222,16 +222,16 @@
 "quick_gloss": "there"
 },
 {
-"surface": "pitṛgate",
+"surface": "pitṛ+gate",
 "quick_gloss": "father+gone"
 },
 {
 "surface": "vitte",
-"quick_gloss": "wealth"
+"quick_gloss": "in-wealth"
 },
 {
 "surface": "adhikāriṇī",
-"quick_gloss": "entitled"
+"quick_gloss": "heiress"
 },
 {
 "surface": "syāt",
@@ -264,7 +264,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yathākramaṃ",
+"surface": "yathā+kramam",
 "quick_gloss": "in-due-order"
 },
 {
@@ -276,7 +276,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "preta+dhanaṃ",
+"surface": "preta+dhanam",
 "quick_gloss": "deceased+wealth"
 },
 {
@@ -359,12 +359,12 @@
 "quick_gloss": "food"
 },
 {
-"surface": "ācchādanaṃ",
-"quick_gloss": "clothing"
+"surface": "ācchādanam",
+"quick_gloss": "and-clothing"
 },
 {
 "surface": "bhadre",
-"quick_gloss": "o-fortunate-one"
+"quick_gloss": "o-lady"
 },
 {
 "surface": "svaḥ+prayātuḥ",
@@ -388,23 +388,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saumyāḥ",
-"quick_gloss": "gentle-women"
+"surface": "saumyāñ",
+"quick_gloss": "if-gentle"
 },
 {
-"surface": "cet+na",
-"quick_gloss": "if-not"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
 "surface": "adhikāraḥ",
-"quick_gloss": "entitlement"
+"quick_gloss": "right"
 },
 {
 "surface": "asyāḥ",
 "quick_gloss": "of-her"
 },
 {
-"surface": "pitṛ+ādīnāṃ",
+"surface": "pitṛ+ādīnām",
 "quick_gloss": "of-father+and-others"
 },
 {
@@ -425,7 +425,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yathā+vibhavaṃ",
+"surface": "yathā+vibhavam",
 "quick_gloss": "according-to-means"
 },
 {
@@ -433,8 +433,8 @@
 "quick_gloss": "food"
 },
 {
-"surface": "ācchādanaṃ",
-"quick_gloss": "clothing"
+"surface": "ācchādanam",
+"quick_gloss": "and-clothing"
 },
 {
 "surface": "ca",
@@ -442,11 +442,11 @@
 },
 {
 "surface": "labheran",
-"quick_gloss": "they-should-obtain"
+"quick_gloss": "they-should-receive"
 },
 {
 "surface": "prāpnuyuḥ",
-"quick_gloss": "they-should-receive"
+"quick_gloss": "they-should-obtain"
 }
 ]
 },
@@ -487,8 +487,12 @@
 "quick_gloss": "from-greed"
 },
 {
-"surface": "vā+api",
+"surface": "vā",
 "quick_gloss": "or"
+},
+{
+"surface": "api",
+"quick_gloss": "indeed"
 },
 {
 "surface": "saḥ",
@@ -520,7 +524,7 @@
 "quick_gloss": "in-order"
 },
 {
-"surface": "vittaṃ",
+"surface": "vittam",
 "quick_gloss": "wealth"
 },
 {
@@ -529,7 +533,7 @@
 },
 {
 "surface": "śiva+śāsanāt",
-"quick_gloss": "by-Śiva+ordinance"
+"quick_gloss": "by-Śiva+command"
 }
 ]
 },
@@ -541,8 +545,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sodakāḥ",
-"quick_gloss": "sapindas-with-water-offerings"
+"surface": "sa+udakāḥ",
+"quick_gloss": "those-sharing-water"
 },
 {
 "surface": "daśama+antāḥ",
@@ -558,7 +562,7 @@
 },
 {
 "surface": "kevala+gotrajāḥ",
-"quick_gloss": "only+same-gotra"
+"quick_gloss": "only+same-lineage"
 }
 ]
 },
@@ -623,7 +627,11 @@
 "quick_gloss": "king"
 },
 {
-"surface": "ca+iti",
+"surface": "ca",
+"quick_gloss": "thus"
+},
+{
+"surface": "iti",
 "quick_gloss": "thus"
 }
 ]
@@ -641,7 +649,7 @@
 },
 {
 "surface": "adhikaraṇe",
-"quick_gloss": "and-in-location"
+"quick_gloss": "and-in-locative"
 },
 {
 "surface": "ca",
@@ -670,7 +678,7 @@
 "tokens": [
 {
 "surface": "avibhakta+vidhānena",
-"quick_gloss": "undivided+rule"
+"quick_gloss": "by-undivided+rule"
 },
 {
 "surface": "bhajeran",
@@ -678,7 +686,7 @@
 },
 {
 "surface": "tat+dhanam",
-"quick_gloss": "that+wealth"
+"quick_gloss": "his-wealth"
 },
 {
 "surface": "punaḥ",
@@ -695,7 +703,7 @@
 "tokens": [
 {
 "surface": "mṛte",
-"quick_gloss": "dead"
+"quick_gloss": "when-dead"
 },
 {
 "surface": "api",
@@ -711,7 +719,7 @@
 },
 {
 "surface": "tādṛk+vibhava+bhāginaḥ",
-"quick_gloss": "such+wealth+sharers"
+"quick_gloss": "of-such+wealth+sharers"
 }
 ]
 },
@@ -727,7 +735,7 @@
 "quick_gloss": "they-should-give"
 },
 {
-"surface": "piṇḍaṃ",
+"surface": "piṇḍam",
 "quick_gloss": "funeral-offering"
 },
 {
@@ -740,10 +748,10 @@
 },
 {
 "surface": "asya",
-"quick_gloss": "to-him"
+"quick_gloss": "of-him"
 },
 {
-"surface": "śaiva+bhāryā+sutaṃ",
+"surface": "śaiva+bhāryā+sutam",
 "quick_gloss": "Śaiva+wife+son"
 },
 {

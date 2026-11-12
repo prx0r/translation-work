@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "compound:brahma+granthi",
-   "grounds": "sacred; first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "granthi",
-   "morph": "f.nom.sg",
-   "grounds": "energetic knot"
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "sthitā",
    "morph": "f.nom.sg",
-   "grounds": "located"
+   "grounds": "describes the subject"
   },
   {
    "lemma": "ā",
    "morph": "(indecl.)",
-   "grounds": "starting from"
+   "grounds": "directional particle"
   },
   {
    "lemma": "etāṃ",
@@ -30,7 +30,7 @@
   {
    "lemma": "trīṇi",
    "morph": "n.nom.pl",
-   "grounds": "number three"
+   "grounds": "number"
   },
   {
    "lemma": "eva",
