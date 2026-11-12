@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-[liberated](mucyante) [beings](prāṇino) [inconceivable](acintyāḥ) [powers](śaktayo) [of-mantras-and-yantras](mantrayantrayoḥ)
+[are-released](mucyante) [beings](prāṇinaḥ) [inconceivable](acintyāḥ) [powers](śaktayaḥ) [of-mantra](mantra) [and-yantra](yantrayoḥ)
 
 ## mukta-m0-p66-v1627
-[one-should-place](sthāpayen) [in-temple](mandire) [there](tasmilla) [kṣmīrās](kṣmīrāste) [very-stable](atisusthirā)
+[one-should-establish](sthāpayet) [in-temple](mandire) [in-that](tasmin) [Lakṣmī](lakṣmīḥ) [dwells](āste) [very-firmly](ati) [stable](susthirā)
 
 ## mukta-m0-p66-v1628
-[ninth](navamaṃ) [golden](hemagaṃ) [having-made](kṛtvā) [ornament-etc](bhūṣādau) [one-should-wear](dhārayec) [to-śiva](śive)
+[ninth](navamaṃ) [made-of-gold](hema) [going](gaṃ) [having-made](kṛtvā) [in-ornament](bhūṣa) [etc.](ādau) [one-should-wear](dhārayet) [O-Śiva](śive)
 
 ## mukta-m0-p66-v1629
-[whatever](yadyaddhi) [desired](vāñchitaṃ) [work](kāryyaṃ) [that-that](tattan) [in-middle](madhyagataṃ) [thus](tathā)
+[whatever](yadyat) [indeed](hi) [desired](vāñchitaṃ) [task](kāryyaṃ) [that](tat) [that](tat) [gone-in-middle](madhya) [situated](gataṃ) [likewise](tathā)
 
 ## mukta-m0-p66-v1630
-[those-days](taddinaistadavāpnoti) [obtains](avāpnoti) [no](nātra) [work](kāryā) [deliberation](vicāraṇā)
+[in-those-days](taddinais) [that](tat) [obtains](avāpnoti) [not](na) [here](atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p66-v1631
-[wax-made-vessel](sikthanirmitapātrasthakṣaudramadhye) [honey](kṣaudramadhye) [placing](niveśya) [that](tat)
+[made-of-wax](siktha) [fashioned](nirmita) [vessel](pātra) [situated](stha) [honey](kṣaudra) [in-middle](madhye) [having-placed](niveśya) [that](tat)
 
 ## mukta-m0-p66-v1632
-[of-the-sādhya](sādhyasyābhimukho) [facing](abhimukho) [vidyā](vidyāṃ) [japa](japannitthamanusmaran) [thus](ittham) [remembering](anusmaran)
+[of-the-target](sādhyasya) [facing](abhimukhaḥ) [the-mantra](vidyāṃ) [muttering](japan) [thus](ittham) [remembering](anusmaran)
 
 ## mukta-m0-p66-v1633
-[joined-palms](nyastāñjalikaraṃ) [on-head](śīrṣe) [servant-i-am](dāsohamitivādinam)
+[placed](nyasta) [joined-palms](añjali) [hand](karaṃ) [on-head](śīrṣe) [I-am-servant](dāsaḥ) [thus](iti) [speaking](vādinam)
 
 ## mukta-m0-p66-v1634
-[that-same](tadeva) [warm](koṣṇaṃ) [having-made](kṛtvā) [ca](ca) [at-sandhyās](sandhyāsu) [three](triṣu) [daily](nityaśaḥ)
+[that](tat) [indeed](eva) [lukewarm](koṣṇaṃ) [having-made](kṛtvā) [and](ca) [at-twilights](sandhyāsu) [in-three](triṣu) [daily](nityaśaḥ)
 
 ## mukta-m0-p66-v1635
-[family](kulaṃ) [shame](lajjāṃ) [discrimination](vivekaṃ) [ca](ca) [abandoning](parityajyāsya) [servants](kiṅkarāḥ)
+[family](kulaṃ) [shame](lajjāṃ) [discrimination](vivekaṃ) [and](ca) [having-abandoned](parityajya) [of-him](asya) [servants](kiṅkarāḥ)
 
 ## mukta-m0-p66-v1636
-[life-installation-vidyā](prāṇapratiṣṭhāvidyāṃ) [to-you](te) [i-will-speak](vakṣye) [i](ahaṃ) [listen](śṛṇu) [pārvatī](pārvati)
+[life-breath](prāṇa) [establishment](pratiṣṭhā) [mantra](vidyāṃ) [to-you](te) [I-shall-tell](vakṣye) [here](ahaṃ) [listen](śṛṇu) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p66-v1637
-[forty-nine](49) [food-etc](annādi) [at-each-sandhyā](pratisandhyaṃ) [all](sarvam) [japa](japan) [hundred](śataṃ) [thousand](sahasraṃ) [or](vā) [fifty](50) [fifty-one](51)
+[49](|| 49 ||) [food-etc.](anna) [beginning-with](ādi) [at-each-twilight](pratisandhyaṃ) [all](sarvam) [muttering](japan) [hundred](śataṃ) [or](vā) [thousand](sahasraṃ) [50](|| 50 ||) [51](|| 51 ||)
 
 ## mukta-m0-p66-v1638
-[those-written-letters](tattallikhitākṣaraiḥ) [wax](sikthaṃ) [beeswax](madhūcchiṣṭam) [that](tat) [yantra](yantram) [thus-remainder](itiśeṣaḥ)
+[by-those](tat) [that](tat) [written](likhita) [syllables](akṣaraiḥ) [wax](sikthaṃ) [beeswax](madhūcchiṣṭam) [that](tat) [yantra](yantram) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p66-v1639
-[javī](javī) [burning](dāhamarudyukto) [wind-joined](marudyukto) [sky](vyomāpi) [with-wind](marutā) [yuta](yutam)
+[javī](javī) [burning](dāha) [wind](marut) [joined-with](yuktaḥ) [ether](vyoma) [also](api) [with-wind](marutā) [joined](yutam)
 
 ## mukta-m0-p66-v1640
-[bow-fire-joined-meaning](jyāvahniyuktārtho) [water](ambu) [may-be](syāt) [sixth-seventh](ṣaṣṭhasaptamakau) [again](punaḥ)
+[jyā](jyā) [fire](vahni) [joined](yukta) [meaning](arthaḥ) [water](ambu) [should-be](syāt) [sixth](ṣaṣṭha) [seventh](saptamakau) [again](punaḥ)
 
 ## mukta-m0-p66-v1641
-[heart-going-water](hṛdāhāmbucaraiḥ) [by-own](svena) [gotra-fire](gotrādāhāgnibhiḥ) [supreme](param)
+[with-hṛd](hṛdā) [burning](āha) [water](ambu) [moving](caraiḥ) [with-own](svena) [gotra](gotra) [burning](ādāha) [with-fires](agnibhiḥ) [then](param)
 
 ## mukta-m0-p66-v1642
-[again-first-three](punarādyatrayaṃ) [ca](cāmbumaruddyu) [water](ambu) [wind](marut) [sky](nabhasā) [yuta](yutam)
+[again](punar) [first](ādya) [triad](trayaṃ) [and](ca) [water](ambu) [wind](marut) [joined](dyu) [with-ether](nabhasā) [joined](yutam)
 
 ## mukta-m0-p66-v1643
-[fire](agnir) [haṃsa](haṃso) [wind-joined](marudyukto) [pervaded](vyāptaṃ) [ca](ca) [wind-joined](marutā) [yuta](yutam)
+[fire](agniḥ) [haṃsa](haṃsaḥ) [with-wind](marut) [joined](yuktaḥ) [pervaded](vyāptaṃ) [and](ca) [with-wind](marutā) [joined](yutam)
 
 ## mukta-m0-p66-v1644
-[haṃsa](haṃsaśca) [ca](ca) [wind-joined](marutā) [yukta](yuktaś) [forty-letters](catvāriṃśallipir) [manu](manuḥ)
+[haṃsa](haṃsaḥ) [and](ca) [with-wind](marutā) [joined](yuktaḥ) [forty](catvāriṃśat) [syllables](lipiḥ) [mantra](manuḥ)
 
 ## mukta-m0-p66-v1645
-[life-installation](prāṇapratiṣṭhā) [vidyā](vidyāṃ) [praises](prastauti)
+[life-breath](prāṇa) [establishment](pratiṣṭhā) [mantra](vidyāṃ) [introduces](prastauti)
 
 ## mukta-m0-p66-v1646
-[skin-etc](tvagādiṣu) [ca](ca) [those-same](tānyeva) [one-should-place](nyasec) [śakti-puṭa](śaktipuṭasthitam)
+[on-skin](tvak) [etc.](ādiṣu) [and](ca) [those](tāni) [indeed](eva) [one-should-place](nyaset) [in-śakti](śakti) [envelope](puṭa) [situated](sthitam)
 
 ## mukta-m0-p66-v1647
-[aruṇa-crown](aruṇākalpamukuṭāmaruṇādharapallavām) [aruṇa-lip](aruṇādharapallavām)
+[reddish](aruṇa) [resembling](ākalpa) [crowned](mukuṭām) [reddish](aruṇa) [lip](adhara) [sprout](pallavām)
 
 ## mukta-m0-p66-v1648
-[flower-ball](prasūnapiṇḍaṃ) [noose](pāśaṃ) [ca](ca) [holding](dadhānāṃ) [pair-of-hands](pāṇiyugmataḥ)
+[flower](prasūna) [ball](piṇḍaṃ) [noose](pāśaṃ) [and](ca) [holding](dadhānāṃ) [with-pair-of-hands](pāṇi) [pair](yugmataḥ)
 
 ## mukta-m0-p66-v1649
-[ananta-śakti](anantaśaktiyuktābhiḥ) [with](yuktābhiḥ) [one-should-worship](pūjayet) [lotus-middle](padmamadhyataḥ)
+[with-infinite](ananta) [power](śakti) [endowed](yuktābhiḥ) [one-should-worship](pūjayet) [in-lotus](padma) [middle](madhyataḥ)
 
 ## mukta-m0-p66-v1650
-[ī-kāra](īkāraḥ) [haṃsa-wind-joined](haṃsomarudyuktaḥ) [hā](hā) [iti](iti) [pervaded](vyāptaṃ) [ca](ca) [wind-joined](marutāyutaṃ) [yā](yā) [iti](iti)
+[ī-syllable](īkāraḥ) [haṃsa](haṃsaḥ) [with-wind](marut) [joined](yuktaḥ) [hā](hā) [thus](iti) [pervaded](vyāptaṃ) [and](ca) [with-wind](marutā) [joined](yutaṃ) [yā](yā) [thus](iti)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[prāṇa-pratiṣṭhā-mantraḥ](prāṇapratiṣṭhāmantraḥ)
+[life-force](prāṇa)+[establishment](pratiṣṭhā)+[mantra](mantraḥ)
 
 ## mukta-m0-p67-v1652
-[sthāneṣu](sthāneṣu) [hṛdaya](hṛdaya) [eva](eva) [vā](vā) [nyased-iti](nyasediti) [sampradāya-arthaḥ](sampradāyārthaḥ)
+[in-places](sthāneṣu) [in-heart](hṛdaya) [indeed](eva) [or](vā) [one-should-place](nyaset)+[thus](iti) [tradition](sampradāya)+[meaning](arthaḥ)
 
 ## mukta-m0-p67-v1653
-[prāṇa-ādibhiḥ](prāṇādibhiḥ) [ananta-śakti-yuktābhiḥ](anantaśaktiyuktābhiḥ) [pratyekam-iti-śeṣaḥ](pratyekamitiśeṣaḥ)
+[with-life-forces-etc.](prāṇādibhiḥ) [with-infinite](ananta)+[power](śakti)+[endowed](yuktābhiḥ) [each](pratyekam)+[thus](iti)+[ellipsis](śeṣaḥ)
 
 ## mukta-m0-p67-v1654
-[nāgā](nāgā) [kūrmā](kūrmā) [saka-karā](sakakarā) [devadattā-dhanañjayā](devadattādhanañjayā)
+[nāgas](nāgā) [kūrmas](kūrmā) [kṛkaras](sakakarā) [devadattas](devadattā)+[and-dhanañjayas](dhanañjayā)
 
 ## mukta-m0-p67-v1655
-[tad-antar-daśa-patrābjaṃ](tadantardaśapatrābjaṃ) [tad-antar-tad-dvayaṃ](tadantastaddvayaṃ) [tathā](tathā)
+[within-that](tad)+[inside](antaḥ)+[ten](daśa)+[petal](patra)+[lotus](abjaṃ) [within-that](tad)+[inside](antaḥ)+[that](tat)+[pair](dvayaṃ) [likewise](tathā)
 
 ## mukta-m0-p67-v1656
-[lakṣaṃ](lakṣaṃ) [japet](japet) [payo-bhakṣaḥ](payobhakṣaḥ) [tad-daśāṃśaṃ](taddaśāṃśaṃ) [hunet](hunet) [tathā](tathā)
+[hundred-thousand](lakṣaṃ) [one-should-repeat](japet)+[water](payaḥ)+[eating](bhakṣaḥ)+[its](tat)+[tenth](daśa)+[part](aṃśaṃ) [one-should-offer](hunet)+[likewise](tathā)
 
 ## mukta-m0-p67-v1657
-[tarpayet](tarpayet) [saurabhā-ādyena](saurabhādyena) [jalen-etthaṃ](jalenetthaṃ) [su-sādhayet](susādhayet)
+[one-should-appease](tarpayet)+[with-fragrant-etc.](saurabhādyena) [with-water](jalena)+[thus](itthaṃ) [one-should-accomplish-well](susādhayet)
 
 ## mukta-m0-p67-v1658
-[anayā](anayā) [vidyayā](vidyayā) [sādhya](sādhya) [prāṇān](prāṇāṃ) [tatra](tatra) [niyojayet](niyojayet)
+[by-this](anayā) [by-knowledge](vidyayā) [to-be-accomplished](sādhya) [life-forces](prāṇāṃḥ)+[there](tatra) [one-should-employ](niyojayet)
 
 ## mukta-m0-p67-v1659
-[yena](yena) [puttalikā](puttalikā) [jīva-spanda-yuktā](jīvaspandayuktā) [mano-rbalāt](manorbalāt)
+[by-which](yena) [doll](puttalikā) [life](jīva)+[vibration](spanda)+[endowed](yuktā) [by-mind](manaḥ)+[force](balāt)
 
 ## mukta-m0-p67-v1660
-[koṣṭhāni](koṣṭhānyekonapañcāśajjāyante) [teṣu](teṣu) [vinyaset](vinyaset)
+[cells](koṣṭhāni)+[one-less](ekona)+[fifty](pañcāśat)+[are-born](jāyante) [in-them](teṣu) [one-should-place](vinyaset)
 
 ## mukta-m0-p67-v1661
-[śiṣṭeṣu](śiṣṭeṣu) [madhya-navasu](madhyanavasu) [likhet](likhedaṅgāditaḥ) [aṅga-āditaḥ](aṅgāditaḥ) [kramāt](kramāt)
+[in-remaining](śiṣṭeṣu) [middle](madhya)+[nine](nava)+[vasus](vasu) [one-should-write](likhet)+[from-limbs-etc.](aṅgāditaḥ) [in-order](kramāt)
 
 ## mukta-m0-p67-v1662
-[tatra](tatra) [pradhāna-aprāṇa-śaktiḥ](pradhānāprāṇaśaktireṣāṃ) [eṣāṃ](eṣāṃ) [samaṣṭi-rūpā](samaṣṭirūpā)
+[there](tatra) [primary](pradhānā)+[life-force](prāṇa)+[power](śaktiḥ)+[this](eṣāṃ) [collective](samaṣṭi)+[form](rūpā)
 
 ## mukta-m0-p67-v1663
-[tatra](tatra) [tad-dvayaṃ](taddvayam) [vṛtta-dvayaṃ](vṛttadvayam) [anyat](anyaccakranirmāṇaṃ) [cakra-nirmāṇaṃ](cakranirmāṇaṃ) [sugamam](sugamam)
+[there](tatra) [that](tat)+[pair](dvayam) [circle](vṛtta)+[pair](dvayam) [other](anyat)+[diagram](cakra)+[construction](nirmāṇaṃ) [easy](sugamam)
 
 ## mukta-m0-p67-v1664
-[kṛtārghyaḥ](kṛtārghyaḥ) [prāgvat](prāgvat) [sitaiḥ](sitaiḥ) [gauraiḥ](gauraiḥ)
+[having-made-offering](kṛtārghyaḥ) [as-before](prāgvat) [with-white](sitaiḥ) [with-fair](gauraiḥ)
 
 ## mukta-m0-p67-v1665
-[sādhya-jīva-āgamataḥ](sādhyajīvāgamataḥ) [vinyaset](vinyaset) [prāṇa-pratiṣṭhā-vidyā-akṣarāṇi-iti-śeṣaḥ](prāṇapratiṣṭhāvidyākṣarāṇītiśeṣaḥ)
+[from-arrival](āgamataḥ) [of-target](sādhya)+[life](jīva) [one-should-place](vinyaset) [life-force](prāṇa)+[establishment](pratiṣṭhā)+[mantra](vidyā)+[syllables](akṣarāṇi)+[thus](iti)+[ellipsis](śeṣaḥ)
 
 ## mukta-m0-p67-v1666
-[sañjapya](sañjapya) [vidyāṃ](vidyāṃ) [hastena](hastena) [sa-jīvena](sajīvena) [spṛśan](spṛśan) [śatam](śatam)
+[having-chanted](sañjapya) [mantra](vidyāṃ) [with-hand](hastena) [with-living](sajīvena) [touching](spṛśan) [hundred](śatam)
 
 ## mukta-m0-p67-v1667
-[sādhya-jīva-ādyānayanaṃ](sādhyajīvādyānayanaṃ) [śṛṇu](śṛṇu) [vakṣyāmi](vakṣyāmi) [te](te) [adbhutam](adbhutam)
+[of-target](sādhya)+[life-etc.](jīvādya)+[bringing](ānayanaṃ) [hear](śṛṇu) [I-shall-tell](vakṣyāmi) [to-you](te)+[wonderful](adbhutam)
 
 ## mukta-m0-p67-v1668
-[jñāna-karma-indriyāṇi](jñānakarmendriyāṇyarthān) [arthān](arthān) [mano-jīvaṃ](manojīvaṃ) [tanuṃ](tanuṃ) [tathā](tathā)
+[knowledge](jñāna)+[and-action](karma)+[organs](indriyāṇi)+[objects](arthān) [mind](manaḥ)+[life](jīvaṃ) [body](tanuṃ) [likewise](tathā)
 
 ## mukta-m0-p67-v1669
-[rakta-rajju-ā-śakti-mayyā](raktarajjvāśaktimayyā) [tāni](tānyānīyārpayeddhiyā) [ānīya](ānīya) [arpayet](arpayet) [dhiyā](dhiyā)
+[with-red](rakta)+[cord](rajjvā)+[power](śakti)+[consisting](mayyā) [those](tāni)+[having-brought](ānīya)+[one-should-offer](arpayet)+[with-mind](dhiyā)
 
 ## mukta-m0-p67-v1670
-[evaṃ](evaṃ) [niyojitāṃ](niyojitāṃ) [vidyāṃ](vidyāṃ) [sahasraṃ](sahasraṃ) [prajapet](prajapetspṛśan) [spṛśan](spṛśan)
+[thus](evaṃ) [employed](niyojitāṃ) [mantra](vidyāṃ) [thousand](sahasraṃ) [one-should-mutter](prajapet)+[touching](spṛśan)
 
 ## mukta-m0-p67-v1671
-[evaṃ](evaṃ) [saṃsthāpita-prāṇā](saṃsthāpitaprāṇā) [puttalī](puttalī) [spandate](spandate) [abdataḥ](abdataḥ)
+[thus](evaṃ) [established](saṃsthāpita)+[life-force](prāṇā) [doll](puttalī) [vibrates](spandate)+[in-a-moment](abdataḥ)
 
 ## mukta-m0-p67-v1672
-[taj-janma-lagna-sañjāta-navāṃśa-rkṣa-pradhānakam](tajjanmalagnasañjātanavāṃśarkṣapradhānakam)
+[its](tat)+[birth](janma)+[ascendant](lagna)+[born](sañjāta)+[nine](nava)+[asterisms](arkṣa)+[principal](pradhānakam)
 
 ## mukta-m0-p67-v1673
-[teṣu](teṣu) [teṣu](teṣu) [prayogeṣu](prayogeṣu) [vakṣyāmi](vakṣyāmyaparahomake) [apara-homake](aparahomake)
+[in-those](teṣu) [in-those](teṣu) [in-applications](prayogeṣu) [I-shall-tell](vakṣyāmi)+[in-another](apara)+[oblation](homake)
 
 ## mukta-m0-p67-v1674
-[anyāni](anyāni) [ca](ca) [aṅga-romāṇi](aṅgaromāṇi) [puttalyāṃ](puttalyāṃ) [yojayet](yojayenmṛtau) [mṛtau](mṛtau)
+[other](anyāni) [and](ca)+[limb](aṅga)+[hairs](romāṇi) [in-doll](puttalyāṃ) [one-should-join](yojayet)+[in-death](mṛtau)
 
 ## mukta-m0-p67-v1675
-[evaṃ](evaṃ) [sarvaṃ](sarvaṃ) [samākhyātaṃ](samākhyātaṃ) [prāṇa-ākarṣaṇa-karma](prāṇākarṣaṇakarma) [te](te)
+[thus](evaṃ) [all](sarvaṃ) [fully-told](samākhyātaṃ) [life-force](prāṇa)+[attraction](ākarṣaṇa)+[rite](karma) [to-you](te)
