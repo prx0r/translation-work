@@ -4,7 +4,7 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound-member",
+   "morph": "compound:ṣaṇ+māsāt",
    "grounds": "first member of compound"
   },
   {
@@ -14,7 +14,7 @@
   },
   {
    "lemma": "jñāyate",
-   "morph": "3.sg.pres.pass √jñā",
+   "morph": "3.sg.pass-pres √jñā",
    "grounds": "result becomes evident"
   },
   {
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "yoginī",
-   "morph": "compound-member",
+   "morph": "compound:yoginī+pada+tatsamaḥ",
    "grounds": "first member of compound"
   },
   {
    "lemma": "pada",
-   "morph": "compound-member",
+   "morph": "compound:yoginī+pada+tatsamaḥ",
    "grounds": "second member of compound"
   },
   {
    "lemma": "tatsamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes perfection"
+   "grounds": "comparison of attainment"
   }
  ]
 }

@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "amṛta+agraṃ",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "compound object/location; internal sandhi at +"
+   "morph": "compound:amṛta+modifier,agra+head;n.acc.sg",
+   "grounds": "accusative singular of compound amṛta-agra"
   },
   {
    "lemma": "rasa+agreṇa",
-   "morph": "n.inst.sg (compound)",
-   "grounds": "instrumental compound; internal sandhi at +"
+   "morph": "compound:rasa+modifier,agra+head;n.ins.sg",
+   "grounds": "instrumental singular of compound rasa-agra"
   },
   {
    "lemma": "dahyamāna",
-   "morph": "m.nom.sg (present-passive-participle)",
-   "grounds": "present passive participle from root dah"
+   "morph": "pres-participle.nom.sg.m.mid √dah",
+   "grounds": "present middle participle of dah, masculine nominative singular"
   },
   {
    "lemma": "sudhīr",
    "morph": "m.nom.sg",
-   "grounds": "subject noun/adjective"
+   "grounds": "masculine nominative singular adjective used substantively"
   },
   {
    "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "indeclinable particle"
   }
  ]
 }

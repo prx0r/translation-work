@@ -6,32 +6,32 @@
    "rows": [
     {
      "surface": "nirṇītaṃ",
-     "gloss": "ascertained",
-     "grounds": "past passive participle indicating a settled conclusion",
-     "morph": "n.nom.sg.ppp"
+     "gloss": "decided",
+     "grounds": "past passive participle indicating prior determination",
+     "morph": "n.nom.sg.ppp + nir-ṇī"
     },
     {
      "surface": "caitat",
      "gloss": "and-this",
-     "grounds": "demonstrative pronoun with initial conjunction fused in form",
-     "morph": "n.nom.sg.pron"
+     "grounds": "demonstrative referring to the stated point",
+     "morph": "n.nom.sg.pronoun"
     },
     {
      "surface": "prāgeva",
      "gloss": "already-before",
-     "grounds": "emphatic temporal adverbial compound",
+     "grounds": "emphatic temporal particle indicating prior establishment",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What prior determination establishes the matter under discussion?",
+   "question": "What prior determination has already been established regarding the matter at hand?",
    "premises": [
-    "The matter is ascertained",
-    "This determination is already established",
-    "No new proof is required here"
+    "The matter has been decided.",
+    "This decision was made earlier.",
+    "No new determination is required now."
    ],
-   "inference": "The point at issue has been settled beforehand.",
+   "inference": "The point under discussion stands as already settled beforehand.",
    "uncertainties": [],
-   "plain_english": "And this has already been ascertained before."
+   "plain_english": "And this has already been decided before."
   },
   {
    "verse": 402,
@@ -39,31 +39,31 @@
     {
      "surface": "praṇavoccāraṇānte",
      "gloss": "at-end-of-om-utterance",
-     "grounds": "compound locating the moment after pronouncing praṇava",
-     "morph": "m.loc.sg.compound"
+     "grounds": "compound indicating the moment after pronouncing praṇava",
+     "morph": "m.loc.sg.compound praṇava+uccāraṇa+anta"
     },
     {
      "surface": "viśramitavyam",
      "gloss": "one-should-rest",
-     "grounds": "gerundive expressing prescribed action",
-     "morph": "n.nom.sg.gerundive"
+     "grounds": "gerundive expressing obligation to pause or rest",
+     "morph": "n.nom.sg.gerundive + vi-śram"
     },
     {
      "surface": "ityarthaḥ",
      "gloss": "this-is-the-meaning",
-     "grounds": "formula introducing the intended sense",
-     "morph": "m.nom.sg.compound"
+     "grounds": "explanatory formula stating the intended sense",
+     "morph": "m.nom.sg.compound iti+artha"
     }
    ],
-   "question": "What practice is prescribed immediately after uttering the praṇava?",
+   "question": "What practice must follow immediately after the utterance of the sacred syllable Om?",
    "premises": [
-    "The praṇava utterance reaches its end",
-    "A resting is enjoined at that point",
-    "The statement explains this prescription"
+    "The utterance of praṇava reaches its end.",
+    "A resting or pausing is prescribed at that point.",
+    "This states the intended meaning."
    ],
-   "inference": "One should come to rest at the conclusion of uttering the praṇava.",
+   "inference": "One should come to rest at the conclusion of uttering Om.",
    "uncertainties": [],
-   "plain_english": "The meaning is that one should rest at the end of uttering the praṇava."
+   "plain_english": "The meaning is that one should rest at the end of uttering Om."
   },
   {
    "verse": 403,
@@ -71,13 +71,13 @@
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "absolutive indicating a prior completed act",
-     "morph": "(indecl.absolutive)"
+     "grounds": "absolutive indicating a completed preparatory act",
+     "morph": "(indecl.) absolutive + kṛ"
     },
     {
      "surface": "ālayaṃ",
      "gloss": "abode",
-     "grounds": "object of the act of making or establishing",
+     "grounds": "object denoting a dwelling or locus",
      "morph": "m.acc.sg"
     },
     {
@@ -87,15 +87,15 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What preparatory act of establishing an abode is added to the instruction?",
+   "question": "What preparatory act of establishing an abode is added to the prescribed practice?",
    "premises": [
-    "An act of making is performed",
-    "The object made is an abode",
-    "This act is conjoined with prior instruction"
+    "An act of making is performed.",
+    "The object made is an abode.",
+    "This act is conjoined with prior instructions."
    ],
-   "inference": "The instruction includes first making an abode.",
+   "inference": "One must also establish an abode as part of the practice.",
    "uncertainties": [
-    "The specific nature of the abode is not stated in this unit."
+    "The specific nature of the abode is not specified in this unit."
    ],
    "plain_english": "And having made an abode."
   },
@@ -105,8 +105,8 @@
     {
      "surface": "tacchaktibṛṃhitatvāt",
      "gloss": "from-being-strengthened-by-that-power",
-     "grounds": "causal compound explaining the resulting state",
-     "morph": "n.abl.sg.compound"
+     "grounds": "causal compound explaining augmentation by that śakti",
+     "morph": "n.abl.sg.compound tad+śakti+bṛṃhita+tva"
     },
     {
      "surface": "eva",
@@ -117,14 +117,14 @@
     {
      "surface": "śāktāḥ",
      "gloss": "belonging-to-power",
-     "grounds": "describes those constituted by śakti",
+     "grounds": "describes those aligned with śakti",
      "morph": "m.nom.pl"
     },
     {
      "surface": "tanmayāḥ",
      "gloss": "absorbed-in-that",
-     "grounds": "describes identity or absorption in that reality",
-     "morph": "m.nom.pl.compound"
+     "grounds": "compound indicating complete identification with that",
+     "morph": "m.nom.pl.compound tad+maya"
     },
     {
      "surface": "eva",
@@ -135,17 +135,17 @@
     {
      "surface": "ityarthaḥ",
      "gloss": "this-is-the-meaning",
-     "grounds": "formula stating the intended sense",
-     "morph": "m.nom.sg.compound"
+     "grounds": "explanatory formula stating the intended sense",
+     "morph": "m.nom.sg.compound iti+artha"
     }
    ],
-   "question": "Why are the śākta elements described as wholly absorbed in that power?",
+   "question": "Why are practitioners described as belonging to śakti and fully absorbed in that power?",
    "premises": [
-    "They are strengthened by that power",
-    "Strengthening by that power defines their nature",
-    "Their nature is absorption in that power"
+    "They are strengthened by that śakti.",
+    "This strengthening makes them śākta.",
+    "This strengthening makes them absorbed in that."
    ],
-   "inference": "Because they are augmented by that power, they are śākta and absorbed in it.",
+   "inference": "Because they are augmented by that power, they are truly śākta and absorbed in it.",
    "uncertainties": [],
    "plain_english": "The meaning is that, because they are strengthened by that power, they are indeed śākta and indeed absorbed in it."
   },
@@ -155,23 +155,23 @@
     {
      "surface": "māntraṃ",
      "gloss": "mantric",
-     "grounds": "qualifies the object as belonging to mantra",
+     "grounds": "qualifies the object as related to mantra",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prameyam",
-     "gloss": "object-to-be-known",
-     "grounds": "designates what is to be apprehended",
-     "morph": "n.nom.sg.gerundive"
+     "gloss": "object-of-knowledge",
+     "grounds": "that which is to be known or apprehended",
+     "morph": "n.nom.sg.gerundive + pra-mā"
     }
    ],
-   "question": "What kind of knowable object is identified in the mantric domain?",
+   "question": "What kind of object is to be known within the mantric domain?",
    "premises": [
-    "An object of knowledge is named",
-    "That object is qualified as mantric",
-    "The mantric domain has its own knowable content"
+    "There is an object of knowledge.",
+    "This object is characterized as mantric.",
+    "Mantric knowledge has a specific object."
    ],
-   "inference": "The knowable object in question is mantric.",
+   "inference": "The object to be known is mantric in nature.",
    "uncertainties": [],
    "plain_english": "The object of knowledge is mantric."
   },
@@ -181,37 +181,39 @@
     {
      "surface": "kāryeṇānābilīkṛtatvāt",
      "gloss": "from-not-being-clouded-by-action",
-     "grounds": "causal compound giving reason for purity",
-     "morph": "n.abl.sg.compound"
+     "grounds": "causal compound indicating purity unaffected by activity",
+     "morph": "n.abl.sg.compound kārya+an+ābilīkṛta+tva"
     },
     {
      "surface": "vimalāḥ",
      "gloss": "pure",
-     "grounds": "predicate describing freedom from defilement",
+     "grounds": "describes a state of clarity or purity",
      "morph": "m.nom.pl"
     },
     {
      "surface": "anugrahapravaṇatvāt",
      "gloss": "from-inclination-toward-grace",
-     "grounds": "causal compound giving reason for auspiciousness",
-     "morph": "n.abl.sg.compound"
+     "grounds": "causal compound indicating a disposition toward grace",
+     "morph": "n.abl.sg.compound anugraha+pravaṇa+tva"
     },
     {
      "surface": "śubhāḥ",
      "gloss": "auspicious",
-     "grounds": "predicate describing beneficent nature",
+     "grounds": "describes a beneficent or auspicious quality",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "What grounds establish the mantric realities as both pure and auspicious?",
+   "question": "What grounds establish the purity and auspiciousness of the entities described here?",
    "premises": [
-    "They are not clouded by action",
-    "Absence of clouding entails purity",
-    "Inclination toward grace entails auspiciousness"
+    "They are not clouded by action.",
+    "Not being clouded makes them pure.",
+    "Inclination toward grace makes them auspicious."
    ],
    "inference": "They are pure because unclouded by action and auspicious because inclined toward grace.",
-   "uncertainties": [],
-   "plain_english": "They are pure because they are not clouded by action, and auspicious because they are inclined toward grace."
+   "uncertainties": [
+    "The specific entities described as pure and auspicious are not named in this unit."
+   ],
+   "plain_english": "They are pure because not clouded by action, and auspicious because inclined toward grace."
   },
   {
    "verse": 407,
@@ -219,37 +221,37 @@
     {
      "surface": "nirodhikā",
      "gloss": "absorbing",
-     "grounds": "describes the function of bringing to cessation or absorption",
+     "grounds": "describes the power to restrain or absorb",
      "morph": "f.nom.sg"
     },
     {
      "surface": "kalāḥ",
-     "gloss": "phases",
-     "grounds": "subject term referring to kalās",
+     "gloss": "kalas",
+     "grounds": "technical term for phases or powers",
      "morph": "f.nom.pl"
     },
     {
      "surface": "hyetāḥ",
      "gloss": "indeed-these",
-     "grounds": "demonstrative with emphatic particle fused in form",
-     "morph": "f.nom.pl.pron"
+     "grounds": "emphatic demonstrative referring to the kalas",
+     "morph": "f.nom.pl.pronoun"
     },
     {
      "surface": "sarvadevanirodhikāḥ",
      "gloss": "absorbing-all-gods",
-     "grounds": "compound predicate extending absorption to all deities",
-     "morph": "f.nom.pl.compound"
+     "grounds": "compound indicating absorption of all deities",
+     "morph": "f.nom.pl.compound sarva+deva+nirodhikā"
     }
    ],
-   "question": "What absorptive power do these kalās exercise over all deities?",
+   "question": "What absorptive power do these kalas possess in relation to all deities?",
    "premises": [
-    "These are kalās",
-    "The kalās have an absorbing function",
-    "Their absorption extends to all deities"
+    "These are kalas.",
+    "They have an absorbing nature.",
+    "Their absorption extends to all deities."
    ],
-   "inference": "These kalās absorb all deities.",
+   "inference": "These kalas are indeed absorptive of all deities.",
    "uncertainties": [],
-   "plain_english": "Indeed, these kalās are absorbing; they absorb all the gods."
+   "plain_english": "Indeed these kalas are absorbing, absorbing all the gods."
   },
   {
    "verse": 408,
@@ -257,68 +259,70 @@
     {
      "surface": "eṣātmakatvāt",
      "gloss": "from-having-this-nature",
-     "grounds": "causal compound referring to identity with that essence",
-     "morph": "n.abl.sg.compound"
+     "grounds": "causal compound indicating identity with this essence",
+     "morph": "n.abl.sg.compound eṣa+ātmaka+tva"
     },
     {
      "surface": "kutaḥ",
      "gloss": "whence",
-     "grounds": "interrogative particle challenging an alternative cause",
+     "grounds": "interrogative particle questioning the source",
      "morph": "(indecl.)"
     },
     {
      "surface": "atyantanairmalyam",
      "gloss": "absolute-purity",
-     "grounds": "names the complete absence of impurity",
-     "morph": "n.nom.sg.compound"
+     "grounds": "compound denoting complete freedom from impurity",
+     "morph": "n.nom.sg.compound atyanta+nairmalya"
     }
    ],
-   "question": "From what source could absolute purity arise if not from this very nature?",
+   "question": "From what source does absolute purity arise given this essential nature?",
    "premises": [
-    "Absolute purity is affirmed",
-    "The subject has this nature",
-    "No other source is indicated"
+    "There is a nature identified as this.",
+    "Absolute purity is under consideration.",
+    "The source of that purity is questioned."
    ],
    "inference": "Absolute purity arises from having this very nature.",
-   "uncertainties": [],
-   "plain_english": "Whence could there be absolute purity, if not from having this very nature?"
+   "uncertainties": [
+    "The referent of 'this nature' is not explicit in this unit."
+   ],
+   "plain_english": "Whence comes absolute purity? From having this very nature."
   },
   {
    "verse": 409,
    "rows": [
     {
      "surface": "śaktyādisamanāntānām",
-     "gloss": "of-those-ending-with-equality-from-power",
-     "grounds": "compound denoting a range beginning with śakti and ending with samanā",
-     "morph": "m.gen.pl.compound"
+     "gloss": "of-those-ending-with-mind-from-power-onward",
+     "grounds": "compound listing a range from śakti up to samana",
+     "morph": "m.gen.pl.compound śakti+ādi+samana+anta"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "quotative or delimiting particle",
+     "grounds": "quotation or citation marker",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which range of principles is delimited from śakti up to samanā?",
+   "question": "Which range of principles is indicated by the sequence beginning with śakti and ending with mind?",
    "premises": [
-    "A sequence is indicated",
-    "The sequence begins with śakti",
-    "The sequence ends with samanā"
+    "A sequence begins with śakti.",
+    "The sequence ends with samana.",
+    "This range is being specified."
    ],
-   "inference": "The reference covers the principles from śakti up to samanā.",
+   "inference": "The reference is to the group of principles from śakti onward up to samana.",
    "uncertainties": [
     "The exact members of the sequence are not enumerated in this unit."
    ],
-   "plain_english": "Thus, of those from śakti up to samanā."
+   "plain_english": "Thus, of those from śakti onward ending with samana."
   },
   {
    "verse": 410,
    "rows": [
     {
      "surface": "svaprakāśasvarūpaḥ",
-     "gloss": "self-luminous-in-nature",
-     "grounds": "compound predicate attributing self-manifesting essence",
-     "morph": "m.nom.sg.compound"
+     "gloss": "self-luminous-nature",
+     "grounds": "compound describing an essence that shines by itself",
+     "morph": "m.nom.sg.compound svaprakāśa+svarūpa"
     },
     {
      "surface": "ca",
@@ -327,17 +331,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What essential attribute of self-luminosity is further affirmed?",
+   "question": "What additional essential attribute of self-luminosity is affirmed in this context?",
    "premises": [
-    "A nature is being described",
-    "That nature is self-luminous",
-    "This attribute is added to prior description"
+    "An essential nature is being described.",
+    "That nature is self-luminous.",
+    "This attribute is added to prior descriptions."
    ],
-   "inference": "The subject is also self-luminous in nature.",
+   "inference": "The subject is also of a self-luminous nature.",
    "uncertainties": [
-    "The subject is not explicitly named in this unit."
+    "The subject bearing this nature is not explicitly named in this unit."
    ],
-   "plain_english": "And self-luminous in nature."
+   "plain_english": "And of self-luminous nature."
   },
   {
    "verse": 411,
@@ -345,35 +349,35 @@
     {
      "surface": "na+vindati",
      "gloss": "does-not-find",
-     "grounds": "negated verb expressing absence of apprehension",
-     "morph": "3.sg.pres.act"
+     "grounds": "negated verb expressing absence of finding or perceiving",
+     "morph": "3.sg.act.pres + vid"
     },
     {
      "surface": "yadā",
      "gloss": "when",
-     "grounds": "temporal conjunction introducing the condition",
+     "grounds": "temporal conjunction introducing a condition",
      "morph": "(indecl.)"
     },
     {
      "surface": "mantrī",
      "gloss": "mantra-practitioner",
-     "grounds": "subject who employs mantra",
+     "grounds": "agent engaged in mantra practice",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sṛṣṭisaṃhāravartmanī",
      "gloss": "paths-of-creation-and-dissolution",
-     "grounds": "dual object-locus denoting the two courses",
-     "morph": "n.acc.du.compound"
+     "grounds": "dual compound denoting the two courses of emanation and reabsorption",
+     "morph": "n.acc.du.compound sṛṣṭi+saṃhāra+vartman"
     }
    ],
-   "question": "Under what condition does the mantra practitioner fail to find the paths of creation and dissolution?",
+   "question": "Under what condition does the mantra practitioner fail to perceive the paths of creation and dissolution?",
    "premises": [
-    "The mantra practitioner is the subject",
-    "Creation and dissolution are two paths",
-    "There is a condition of not finding them"
+    "The mantra practitioner is the perceiving agent.",
+    "Creation and dissolution are two paths.",
+    "There is a condition in which these paths are not found."
    ],
-   "inference": "When the mantra practitioner does not find the paths of creation and dissolution, a specific condition obtains.",
+   "inference": "When the mantra practitioner does not find them, the paths of creation and dissolution remain unperceived.",
    "uncertainties": [],
    "plain_english": "When the mantra practitioner does not find the paths of creation and dissolution."
   },
@@ -383,31 +387,31 @@
     {
      "surface": "tataḥ",
      "gloss": "then",
-     "grounds": "consequential adverb following the prior condition",
+     "grounds": "consequential particle indicating what follows",
      "morph": "(indecl.)"
     },
     {
      "surface": "ājñāṃ",
      "gloss": "command",
-     "grounds": "object to be observed or obeyed",
+     "grounds": "object denoting an authoritative directive",
      "morph": "f.acc.sg"
     },
     {
      "surface": "pālayet",
      "gloss": "should-obey",
-     "grounds": "optative verb expressing injunction",
-     "morph": "3.sg.opt.act"
+     "grounds": "optative expressing obligation to follow or protect",
+     "morph": "3.sg.act.opt + pāl"
     }
    ],
-   "question": "What obligation follows when the prior condition regarding the paths is not met?",
+   "question": "What obligation follows for the practitioner once the prior condition has arisen?",
    "premises": [
-    "A prior condition has been stated",
-    "A command is present",
-    "Obedience to that command is enjoined"
+    "A prior condition has been established.",
+    "There is a command to be followed.",
+    "Obedience is prescribed as the response."
    ],
-   "inference": "In that case, one should obey the command.",
+   "inference": "Then one should obey the command.",
    "uncertainties": [
-    "The source or content of the command is not specified in this unit."
+    "The source and content of the command are not specified in this unit."
    ],
    "plain_english": "Then one should obey the command."
   },
@@ -417,31 +421,31 @@
     {
      "surface": "gamyate",
      "gloss": "is-gone-to",
-     "grounds": "passive verb indicating being reached or gone to",
-     "morph": "3.sg.pres.pass"
+     "grounds": "passive verb indicating being reached or understood",
+     "morph": "3.sg.pass.pres + gam"
     },
     {
      "surface": "nīyate",
      "gloss": "is-led",
      "grounds": "passive verb indicating being caused to go",
-     "morph": "3.sg.pres.pass"
+     "morph": "3.sg.pass.pres + nī"
     },
     {
      "surface": "gamirṇijantaḥ+atra",
-     "gloss": "causal-go-root-here",
-     "grounds": "grammatical note identifying causative form of the root gam in this context; @ not present but + marks analysis point in token",
-     "morph": "m.nom.sg.compound"
+     "gloss": "causal-of-go-here",
+     "grounds": "grammatical note identifying the causal form of the root gam in this context",
+     "morph": "m.nom.sg.compound gami+ṇijanta+atra"
     }
    ],
-   "question": "How is the distinction between going and being led explained in this grammatical clarification?",
+   "question": "How is the distinction between going and being led explained through the causal form of the root gam?",
    "premises": [
-    "One form means being gone to",
-    "Another form means being led",
-    "The causative of the root gam is indicated here"
+    "One form means being gone to.",
+    "Another form means being led.",
+    "The causal form of gam is indicated here."
    ],
-   "inference": "The contrast is explained by the causative use of the root gam.",
+   "inference": "The contrast shows that the causal of gam yields the sense of being led.",
    "uncertainties": [],
-   "plain_english": "‘Is gone to’ and ‘is led’: here the root gam is in its causative form."
+   "plain_english": "It is gone to; it is led — here the root gam is in its causal form."
   },
   {
    "verse": 414,
@@ -449,49 +453,49 @@
     {
      "surface": "uddyotātma",
      "gloss": "illumination-natured",
-     "grounds": "compound describing essence as illumination",
-     "morph": "n.nom.sg.compound"
+     "grounds": "compound describing an essence of radiant illumination",
+     "morph": "n.nom.sg.compound uddyota+ātman"
     },
     {
      "surface": "samagraśakti",
      "gloss": "possessing-all-powers",
-     "grounds": "compound attributing totality of powers",
-     "morph": "n.nom.sg.compound"
+     "grounds": "compound indicating the totality of śakti",
+     "morph": "n.nom.sg.compound samagra+śakti"
     },
     {
      "surface": "śivayoḥ",
-     "gloss": "of-the-two-śivas",
-     "grounds": "dual possessive referring to the pair śiva and śakti or two śiva principles",
+     "gloss": "of-the-two-shivas",
+     "grounds": "dual referring to Śiva and his consort or paired aspect",
      "morph": "m.gen.du"
     },
     {
      "surface": "netraṃ",
      "gloss": "eye",
-     "grounds": "central object of reverence",
-     "morph": "n.acc.sg"
+     "grounds": "the central symbol of perception and protection",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
      "grounds": "qualifies the eye as highest",
-     "morph": "n.acc.sg"
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tannumaḥ",
      "gloss": "that-we-bow-to",
-     "grounds": "demonstrative with verb of reverence fused in expression",
-     "morph": "1.pl.pres.act.compound"
+     "grounds": "compound expressing reverential salutation to that",
+     "morph": "1.pl.act.pres.compound tad+nam"
     }
    ],
-   "question": "What supreme Eye of the two Śivas is honored as illumination and all-power?",
+   "question": "What supreme Eye of the two Śivas is honored as illumination-natured and possessing all powers?",
    "premises": [
-    "The Eye is supreme",
-    "It is illumination-natured and possesses all powers",
-    "It belongs to the two Śivas and is bowed to"
+    "The Eye is of the nature of illumination.",
+    "The Eye possesses all powers.",
+    "The Eye belongs to the two Śivas and is supreme."
    ],
-   "inference": "The supreme Eye of the two Śivas, of illuminating and all-powerful nature, is revered.",
+   "inference": "We bow to that supreme Eye of the two Śivas, which is illumination itself and endowed with all powers.",
    "uncertainties": [
-    "The exact referent of the dual śivayoḥ is not fully explicit in this unit."
+    "The identity of the two Śivas is not specified in this unit."
    ],
    "plain_english": "We bow to that supreme Eye of the two Śivas, whose nature is illumination and which possesses all powers."
   },
@@ -501,51 +505,51 @@
     {
      "surface": "no+raktaṃ",
      "gloss": "not-red",
-     "grounds": "negated attribute rejecting redness",
-     "morph": "n.nom.sg.compound"
+     "grounds": "negated attribute denying redness",
+     "morph": "n.nom.sg.compound na+rakta"
     },
     {
      "surface": "na+ca",
      "gloss": "and-not",
-     "grounds": "conjunctive negation continuing the denial",
+     "grounds": "conjunctive negation adding another denial",
      "morph": "(indecl.)"
     },
     {
      "surface": "naitadātma",
      "gloss": "not-of-this-nature",
-     "grounds": "negated compound rejecting a limited identity",
-     "morph": "n.nom.sg.compound"
+     "grounds": "compound denying a particular limited nature",
+     "morph": "n.nom.sg.compound na+etad+ātman"
     },
     {
      "surface": "tadidaṃ",
      "gloss": "that-this",
-     "grounds": "compound demonstrative identifying the subject",
-     "morph": "n.nom.sg.pron.compound"
+     "grounds": "emphatic demonstrative identifying the subject",
+     "morph": "n.nom.sg.pronoun"
     },
     {
      "surface": "netraṃ",
      "gloss": "eye",
-     "grounds": "subject being praised",
+     "grounds": "the central symbol of perception and protection",
      "morph": "n.nom.sg"
     },
     {
      "surface": "jayatyaiśvaram",
-     "gloss": "victorious-lordly",
-     "grounds": "predicate asserting sovereign triumph",
-     "morph": "3.sg.pres.act.compound"
+     "gloss": "conquers-lordly",
+     "grounds": "compound asserting victorious sovereign power",
+     "morph": "3.sg.act.pres.compound ji+aiśvara"
     }
    ],
-   "question": "How does the lordly Eye triumph beyond ordinary color and limited identity?",
+   "question": "How does the lordly Eye triumph while transcending ordinary color and limited nature?",
    "premises": [
-    "The Eye is not red",
-    "The Eye is not of such limited nature",
-    "The Eye is declared victorious and lordly"
+    "The Eye is not red.",
+    "The Eye is not of such a limited nature.",
+    "This Eye is described as conquering and lordly."
    ],
-   "inference": "The lordly Eye triumphs by transcending ordinary color and limited identity.",
+   "inference": "That lordly Eye conquers precisely by not being confined to ordinary color or limited nature.",
    "uncertainties": [
-    "The contrasted ‘this nature’ is not specified in this unit."
+    "The specific denied nature implied by 'etadātma' is not fully explicit."
    ],
-   "plain_english": "Not red, and not of such a nature, this lordly Eye is victorious."
+   "plain_english": "Not red, and not of such a nature, this lordly Eye conquers."
   },
   {
    "verse": 416,
@@ -553,31 +557,31 @@
     {
      "surface": "netrodyote",
      "gloss": "in-illumination-of-eye",
-     "grounds": "locative title compound naming the work or section",
-     "morph": "m.loc.sg.compound"
+     "grounds": "locative compound naming the work or section",
+     "morph": "m.loc.sg.compound netra+udyota"
     },
     {
      "surface": "dvāviṃśaḥ",
      "gloss": "twenty-second",
-     "grounds": "ordinal numeral identifying the chapter",
+     "grounds": "ordinal number indicating sequence",
      "morph": "m.nom.sg"
     },
     {
      "surface": "adhikāraḥ",
      "gloss": "chapter",
-     "grounds": "section heading term",
+     "grounds": "section or topic division of the text",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter of the Netrodyota is formally concluded or identified here?",
+   "question": "Which chapter concludes the work titled the Illumination of the Eye?",
    "premises": [
-    "The work named is Netrodyota",
-    "An ordinal number is given",
-    "The unit is designated a chapter"
+    "The work is named Illumination of the Eye.",
+    "A chapter number is given.",
+    "The chapter is identified as twenty-second."
    ],
-   "inference": "This identifies the twenty-second chapter in the Netrodyota.",
+   "inference": "This is the twenty-second chapter in the Illumination of the Eye.",
    "uncertainties": [],
-   "plain_english": "In the Netrodyota, the twenty-second chapter."
+   "plain_english": "In the Illumination of the Eye, the twenty-second chapter."
   },
   {
    "verse": 417,
@@ -585,99 +589,101 @@
     {
      "surface": "bhāsvaddyota",
      "gloss": "radiant-illumination",
-     "grounds": "vocative-like or descriptive compound addressing luminous insight",
-     "morph": "m.voc.sg.compound"
+     "grounds": "vocative-like compound addressing or naming radiant light",
+     "morph": "m.voc.sg.compound bhāsvat+dyota"
     },
     {
      "surface": "sa",
      "gloss": "that",
      "grounds": "demonstrative pronoun",
-     "morph": "m.nom.sg.pron"
+     "morph": "m.nom.sg.pronoun"
     },
     {
      "surface": "doṣaḥ",
      "gloss": "fault",
-     "grounds": "subject denoting a defect",
+     "grounds": "defect or flaw in perception",
      "morph": "m.nom.sg"
     },
     {
      "surface": "eṣa",
      "gloss": "this",
-     "grounds": "demonstrative pronoun specifying the fault",
-     "morph": "m.nom.sg.pron"
+     "grounds": "demonstrative pronoun indicating immediacy",
+     "morph": "m.nom.sg.pronoun"
     },
     {
      "surface": "viṣamaḥ",
      "gloss": "uneven",
-     "grounds": "predicate describing the fault",
+     "grounds": "describes irregularity or distortion",
      "morph": "m.nom.sg"
     },
     {
      "surface": "teṣāṃ",
      "gloss": "of-them",
-     "grounds": "possessive pronoun referring to others",
-     "morph": "m.gen.pl.pron"
+     "grounds": "refers to those whose sight is affected",
+     "morph": "m.gen.pl.pronoun"
     },
     {
      "surface": "dṛśaḥ",
      "gloss": "of-sight",
-     "grounds": "noun indicating vision or perception",
+     "grounds": "faculty of seeing or vision",
      "morph": "f.gen.sg"
     },
     {
      "surface": "tādṛśaḥ",
-     "gloss": "of-such-kind",
-     "grounds": "correlative adjective characterizing the sight",
+     "gloss": "such",
+     "grounds": "indicates correspondence in quality",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What uneven fault in others’ vision is identified in contrast to radiant illumination?",
+   "question": "What uneven fault in vision accounts for the distorted perception experienced by those observers?",
    "premises": [
-    "A fault is identified",
-    "That fault is uneven",
-    "It belongs to the sight of others"
+    "There is a fault in their sight.",
+    "This fault is uneven or distorted.",
+    "The fault corresponds to such a condition of vision."
    ],
-   "inference": "The uneven fault lies in the corresponding nature of others’ sight.",
-   "uncertainties": [],
-   "plain_english": "O radiant illumination, that uneven fault is of such a kind in their sight."
+   "inference": "Their sight suffers from such an uneven fault.",
+   "uncertainties": [
+    "The referent of 'them' is not specified in this unit."
+   ],
+   "plain_english": "O radiant illumination, that fault is this uneven one, such is the fault of their sight."
   },
   {
    "verse": 418,
    "rows": [
     {
      "surface": "śrīrāmādigurugrāmaḥ",
-     "gloss": "line-of-gurus-beginning-with-śrī-rāma",
-     "grounds": "compound naming a succession of teachers",
-     "morph": "m.nom.sg.compound"
+     "gloss": "line-of-teachers-beginning-with-shri-rama",
+     "grounds": "compound naming a succession of teachers starting with Śrī Rāma",
+     "morph": "m.nom.sg.compound śrī+rāma+ādi+guru+grāma"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "adverb indicating addition or parallel",
+     "grounds": "particle indicating addition or similarity",
      "morph": "(indecl.)"
     },
     {
      "surface": "antevāsinaḥ",
      "gloss": "disciples",
-     "grounds": "plural subject referring to students",
+     "grounds": "students or resident pupils",
      "morph": "m.nom.pl"
     },
     {
      "surface": "apare",
      "gloss": "others",
-     "grounds": "adjective distinguishing another group",
+     "grounds": "additional persons distinct from the first group",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "Which teachers and additional disciples are acknowledged in the transmission lineage?",
+   "question": "Which teachers and additional disciples are acknowledged in the transmission lineage of this work?",
    "premises": [
-    "A line of gurus beginning with Śrī Rāma is named",
-    "Other disciples are also mentioned",
-    "Both groups are included together"
+    "A line of teachers beginning with Śrī Rāma is named.",
+    "Other disciples are also mentioned.",
+    "Both groups are included in the acknowledgment."
    ],
-   "inference": "The transmission includes the guru line beginning with Śrī Rāma and other disciples as well.",
+   "inference": "The lineage includes the teachers beginning with Śrī Rāma and other disciples as well.",
    "uncertainties": [],
-   "plain_english": "The line of gurus beginning with Śrī Rāma, and likewise other disciples."
+   "plain_english": "The line of teachers beginning with Śrī Rāma, and likewise other disciples."
   },
   {
    "verse": 419,
@@ -685,57 +691,57 @@
     {
      "surface": "akārṣuḥ",
      "gloss": "they-did",
-     "grounds": "past active verb indicating action performed by others",
-     "morph": "3.pl.aor.act"
+     "grounds": "past action performed by others",
+     "morph": "3.pl.act.aorist + kṛ"
     },
     {
      "surface": "me",
      "gloss": "for-me",
-     "grounds": "pronoun indicating beneficiary or recipient",
-     "morph": "1.sg.gen/dat.pron"
+     "grounds": "indicates the beneficiary or recipient",
+     "morph": "1.sg.gen/dat.pronoun"
     },
     {
      "surface": "tataḥ",
-     "gloss": "thereupon",
-     "grounds": "adverb marking consequence or sequence",
+     "gloss": "then",
+     "grounds": "consequential particle indicating sequence",
      "morph": "(indecl.)"
     },
     {
      "surface": "kiṃcit",
      "gloss": "something",
-     "grounds": "indefinite pronoun indicating a modest contribution",
-     "morph": "n.acc.sg.pron"
+     "grounds": "indefinite object of limited extent",
+     "morph": "n.acc.sg.pronoun"
     },
     {
      "surface": "idam",
      "gloss": "this",
-     "grounds": "demonstrative pronoun referring to the present work or illumination",
-     "morph": "n.acc.sg.pron"
+     "grounds": "demonstrative referring to the present work or illumination",
+     "morph": "n.nom/acc.sg.pronoun"
     },
     {
      "surface": "udyotitaṃ",
      "gloss": "illumined",
-     "grounds": "past passive participle describing what was brought to light",
-     "morph": "n.nom.sg.ppp"
+     "grounds": "past passive participle indicating bringing to light",
+     "morph": "n.nom.sg.ppp + ud-dyut-caus"
     },
     {
      "surface": "mayā",
      "gloss": "by-me",
-     "grounds": "agent of the illumination",
-     "morph": "1.sg.inst.pron"
+     "grounds": "agent of the illuminating action",
+     "morph": "1.sg.inst.pronoun"
     }
    ],
-   "question": "How did the author attribute the illumination of this work to both others’ help and personal effort?",
+   "question": "How did the contributions of others lead to the author illuminating this present work?",
    "premises": [
-    "Others did something for the author",
-    "Thereupon this was illumined",
-    "The author identifies himself as the agent of illumination"
+    "Others did something for the author.",
+    "This occurred prior to the present illumination.",
+    "The author illumined this work."
    ],
-   "inference": "This illumination arose through others’ contribution and was brought forth by the author.",
+   "inference": "Prompted by what others did for him, the author illumined this work.",
    "uncertainties": [
     "The exact nature of what others did is unspecified."
    ],
-   "plain_english": "They did something for me; thereupon this was illumined by me."
+   "plain_english": "They did something for me; then this was illumined by me."
   },
   {
    "verse": 420,
@@ -743,37 +749,37 @@
     {
      "surface": "parādvaitāmṛtasphītaḥ",
      "gloss": "swollen-with-supreme-nondual-nectar",
-     "grounds": "compound describing fullness with amṛta of supreme nonduality",
-     "morph": "m.nom.sg.compound"
+     "grounds": "compound describing fullness of supreme nondual amṛta",
+     "morph": "m.nom.sg.compound para+advaita+amṛta+sphīta"
     },
     {
      "surface": "netrodyotaḥ",
      "gloss": "illumination-of-eye",
-     "grounds": "title-like subject naming the work",
-     "morph": "m.nom.sg.compound"
+     "grounds": "title-like compound naming the work",
+     "morph": "m.nom.sg.compound netra+udyota"
     },
     {
      "surface": "ayam",
      "gloss": "this",
-     "grounds": "demonstrative pronoun identifying the present work",
-     "morph": "m.nom.sg.pron"
+     "grounds": "demonstrative referring to the present work",
+     "morph": "m.nom.sg.pronoun"
     },
     {
      "surface": "utthitaḥ",
      "gloss": "arisen",
-     "grounds": "past passive participle indicating emergence",
-     "morph": "m.nom.sg.ppp"
+     "grounds": "past participle indicating emergence or manifestation",
+     "morph": "m.nom.sg.ppp + ud-sthā"
     }
    ],
-   "question": "What characterizes the arisen Netrodyota as filled with supreme nondual nectar?",
+   "question": "What characterizes the arisen Illumination of the Eye in terms of supreme nondual nectar?",
    "premises": [
-    "This Netrodyota has arisen",
-    "It is filled with supreme nondual nectar",
-    "Its emergence is defined by that fullness"
+    "This work is the Illumination of the Eye.",
+    "It has arisen.",
+    "It is full of supreme nondual nectar."
    ],
-   "inference": "This Netrodyota has arisen as a work filled with the nectar of supreme nonduality.",
+   "inference": "This Illumination of the Eye has arisen, filled with the nectar of supreme nonduality.",
    "uncertainties": [],
-   "plain_english": "This Netrodyota has arisen, filled with the nectar of supreme nonduality."
+   "plain_english": "This Illumination of the Eye has arisen, filled with the nectar of supreme nonduality."
   },
   {
    "verse": 421,
@@ -781,39 +787,39 @@
     {
      "surface": "parimalasarasānāṃ",
      "gloss": "of-fragrant-essences",
-     "grounds": "possessive plural compound suggesting rich qualities",
-     "morph": "m.gen.pl.compound"
+     "grounds": "compound referring to those rich in fragrance and essence",
+     "morph": "m.gen.pl.compound parimala+sarasa"
     },
     {
      "surface": "vyākaro",
-     "gloss": "i-expounded",
-     "grounds": "first-person verbal form indicating exposition; form appears truncated in token",
-     "morph": "1.sg.imperf.act"
+     "gloss": "explained",
+     "grounds": "verbal form indicating exposition or explanation",
+     "morph": "1.sg.act.imperfect + vi-ā-kṛ"
     },
     {
      "surface": "śāstram",
-     "gloss": "teaching",
-     "grounds": "object denoting the scripture or treatise",
+     "gloss": "scripture",
+     "grounds": "the treatise or teaching text",
      "morph": "n.acc.sg"
     },
     {
      "surface": "etat",
      "gloss": "this",
-     "grounds": "demonstrative pronoun identifying the teaching",
-     "morph": "n.acc.sg.pron"
+     "grounds": "demonstrative referring to the present scripture",
+     "morph": "n.acc.sg.pronoun"
     }
    ],
-   "question": "What teaching rich in fragrant essences is declared to have been expounded?",
+   "question": "For whom and in what spirit did the author explain this scripture of fragrant essence?",
    "premises": [
-    "A teaching is identified",
-    "It is associated with fragrant essences",
-    "The speaker expounded it"
+    "The author explained this scripture.",
+    "The scripture is associated with fragrant essences.",
+    "The explanation is directed in relation to those essences or their possessors."
    ],
-   "inference": "The speaker expounded this teaching characterized by fragrant essences.",
+   "inference": "The author explained this scripture in connection with those of fragrant essence.",
    "uncertainties": [
-    "The verbal form vyākaro is morphologically unusual as given."
+    "The exact referent of 'parimalasarasānāṃ' and the form 'vyākaro' are contextually ambiguous."
    ],
-   "plain_english": "I expounded this teaching, full of fragrant essences."
+   "plain_english": "I explained this scripture of those rich in fragrant essence."
   },
   {
    "verse": 422,
@@ -821,83 +827,83 @@
     {
      "surface": "asmābhiḥ",
      "gloss": "by-us",
-     "grounds": "agent pronoun indicating collective authorship",
-     "morph": "1.pl.inst.pron"
+     "grounds": "agent of the action in plural",
+     "morph": "1.pl.inst.pronoun"
     },
     {
      "surface": "vimale",
      "gloss": "in-pure",
-     "grounds": "adjective qualifying the locus as pure",
+     "grounds": "qualifies the locus as pure",
      "morph": "n.loc.sg"
     },
     {
      "surface": "hṛdambaratale",
      "gloss": "on-surface-of-heart-sky",
-     "grounds": "compound locative metaphor for the heart’s expanse",
-     "morph": "n.loc.sg.compound"
+     "grounds": "compound metaphor for the expanse of the heart",
+     "morph": "n.loc.sg.compound hṛd+ambara+tala"
     },
     {
      "surface": "niryantraṇaṃ",
      "gloss": "without-restraint",
-     "grounds": "adverbial or adjectival form indicating unimpeded manner",
-     "morph": "n.acc.sg"
+     "grounds": "adverbial compound indicating unimpeded manner",
+     "morph": "(indecl.) compound nis+yantraṇa"
     },
     {
      "surface": "sphī(sthī",
      "gloss": "swells",
-     "grounds": "verbal form indicating expansion; token contains editorial uncertainty in form",
-     "morph": "3.sg.pres.act"
+     "grounds": "verbal form indicating expansion or swelling",
+     "morph": "3.sg.act.pres + sphāy/sphī"
     }
    ],
-   "question": "Where and how does this exposition swell forth without restraint according to the authors?",
+   "question": "Where and in what manner does the illumination expand through the authors' expression?",
    "premises": [
-    "The authors are the agents",
-    "The locus is the pure expanse of the heart-sky",
-    "The arising is without restraint"
+    "The action is done by us.",
+    "The locus is the pure expanse of the heart-sky.",
+    "The expansion occurs without restraint."
    ],
-   "inference": "By us it swells forth unrestrained in the pure expanse of the heart-sky.",
+   "inference": "By us it swells without restraint in the pure expanse of the heart-sky.",
    "uncertainties": [
-    "The exact verbal form in sphī(sthī is unclear in the transmitted token."
+    "The exact verbal form and subject of 'sphī(sthī' are unclear due to the transmitted reading."
    ],
-   "plain_english": "By us it swells forth without restraint in the pure expanse of the heart-sky."
+   "plain_english": "By us, in the pure expanse of the heart-sky, it swells without restraint."
   },
   {
    "verse": 423,
    "rows": [
     {
      "surface": "jyotirnetraṃ",
-     "gloss": "eye-of-light",
-     "grounds": "compound naming the luminous eye",
-     "morph": "n.nom.sg.compound"
+     "gloss": "light-eye",
+     "grounds": "compound identifying the eye as light",
+     "morph": "n.nom.sg.compound jyotis+netra"
     },
     {
      "surface": "jayati",
-     "gloss": "is-victorious",
-     "grounds": "present active verb proclaiming triumph",
-     "morph": "3.sg.pres.act"
+     "gloss": "conquers",
+     "grounds": "verb asserting victory or supremacy",
+     "morph": "3.sg.act.pres + ji"
     },
     {
      "surface": "paramānandapūrṇaṃ",
      "gloss": "full-of-supreme-bliss",
-     "grounds": "compound predicate describing complete fullness of bliss",
-     "morph": "n.nom.sg.compound"
+     "grounds": "compound describing complete fullness of supreme bliss",
+     "morph": "n.nom.sg.compound parama+ānanda+pūrṇa"
     },
     {
      "surface": "tṛtīyam",
      "gloss": "third",
-     "grounds": "ordinal qualifier of the eye",
+     "grounds": "ordinal qualifier indicating a third aspect or eye",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What victorious third Eye of light is affirmed as full of supreme bliss?",
+   "question": "What victorious third Eye is affirmed as full of supreme bliss and radiant light?",
    "premises": [
-    "The subject is the Eye of light",
-    "It is described as third",
-    "It is full of supreme bliss and victorious"
+    "There is an Eye identified as light.",
+    "This Eye is full of supreme bliss.",
+    "This Eye is described as third and conquering."
    ],
-   "inference": "The third Eye of light, full of supreme bliss, is victorious.",
+   "inference": "The third Eye, the Eye of light full of supreme bliss, conquers.",
    "uncertainties": [],
-   "plain_english": "Victorious is the third Eye of light, full of supreme bliss."
+   "plain_english": "The third Eye, the Eye of light full of supreme bliss, conquers."
   }
  ]
 }

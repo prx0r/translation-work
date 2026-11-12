@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "anena",
-   "morph": "n.inst.sg",
-   "grounds": "instrumental demonstrative"
+   "morph": "pron.ins.sg.n",
+   "grounds": "demonstrative pronoun, instrumental singular"
   },
   {
    "lemma": "jñāna+mātreṇa",
-   "morph": "n.inst.sg (compound)",
-   "grounds": "instrumental compound; internal sandhi at +"
+   "morph": "compound:jñāna+modifier,mātra+head;n.ins.sg",
+   "grounds": "instrumental singular of compound jñāna-mātra"
   },
   {
    "lemma": "śrutena",
-   "morph": "n.inst.sg (past-passive-participle)",
-   "grounds": "past passive participle in instrumental sense"
+   "morph": "past-participle.ins.sg.n",
+   "grounds": "past participle of śru, instrumental singular"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "indeclinable conjunction"
   },
   {
    "lemma": "varānane",
-   "morph": "f.voc.sg (compound)",
-   "grounds": "vocative address; compound vara+ānana"
+   "morph": "compound:vara+modifier,ānana+head;f.voc.sg",
+   "grounds": "vocative singular of compound vara-ānana"
   }
  ]
 }

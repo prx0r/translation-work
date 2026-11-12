@@ -1,13 +1,15 @@
 {
  "song": "net-p17",
  "verse": 417,
- "question": "What uneven fault in others’ vision is identified in contrast to radiant illumination?",
+ "question": "What uneven fault in vision accounts for the distorted perception experienced by those observers?",
  "premises": [
-  "A fault is identified",
-  "That fault is uneven",
-  "It belongs to the sight of others"
+  "There is a fault in their sight.",
+  "This fault is uneven or distorted.",
+  "The fault corresponds to such a condition of vision."
  ],
- "inference": "The uneven fault lies in the corresponding nature of others’ sight.",
- "uncertainties": [],
- "plain_english": "O radiant illumination, that uneven fault is of such a kind in their sight."
+ "inference": "Their sight suffers from such an uneven fault.",
+ "uncertainties": [
+  "The referent of 'them' is not specified in this unit."
+ ],
+ "plain_english": "O radiant illumination, that fault is this uneven one, such is the fault of their sight."
 }

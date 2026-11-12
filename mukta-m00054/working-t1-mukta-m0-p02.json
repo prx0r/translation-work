@@ -19,19 +19,19 @@
 "quick_gloss": "do-not"
 },
 {
-"surface": "bhaiḥ",
+"surface": "bhais",
 "quick_gloss": "fear"
 },
 {
 "surface": "sva+bhakteṣu",
-"quick_gloss": "for-own-devotees"
+"quick_gloss": "own-devotees"
 },
 {
-"surface": "jalpantiṅ",
-"quick_gloss": "they-speak"
+"surface": "jalpanti",
+"quick_gloss": "speaking"
 },
 {
-"surface": "ghora+niḥsvanaiḥ",
+"surface": "ṅghora+niḥsvanaiḥ",
 "quick_gloss": "with-terrible-sounds"
 }
 ]
@@ -57,7 +57,7 @@
 },
 {
 "surface": "kṛṣṇa+ajina+ujjvalā",
-"quick_gloss": "shining-with-black-antelope-skin"
+"quick_gloss": "black-antelope-skin-resplendent"
 }
 ]
 },
@@ -74,7 +74,7 @@
 },
 {
 "surface": "hima+saṅkāśā",
-"quick_gloss": "resembling-snow"
+"quick_gloss": "snow-resembling"
 },
 {
 "surface": "dhyeyā",
@@ -99,7 +99,7 @@
 "tokens": [
 {
 "surface": "bandhūka+puṣpa+saṅkāśā",
-"quick_gloss": "resembling-bandhūka-flower"
+"quick_gloss": "bandhūka-flower-resembling"
 },
 {
 "surface": "kumārī",
@@ -107,7 +107,7 @@
 },
 {
 "surface": "kāma+dāyinī",
-"quick_gloss": "granting-desires"
+"quick_gloss": "desire-granting"
 }
 ]
 },
@@ -120,7 +120,7 @@
 "tokens": [
 {
 "surface": "tamāla+śyāmalā",
-"quick_gloss": "dark-like-tamāla"
+"quick_gloss": "tamāla-dark"
 },
 {
 "surface": "dhyeyā",
@@ -132,7 +132,7 @@
 },
 {
 "surface": "vibhrama+ujjvalā",
-"quick_gloss": "radiant-with-splendor"
+"quick_gloss": "splendor-resplendent"
 }
 ]
 },
@@ -144,8 +144,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karaiḥ+caturbhiḥ",
-"quick_gloss": "with-four-hands"
+"surface": "karaiḥ",
+"quick_gloss": "with-hands"
+},
+{
+"surface": "caturbhiḥ",
+"quick_gloss": "four"
 },
 {
 "surface": "vārāhī",
@@ -157,7 +161,7 @@
 },
 {
 "surface": "kāla+ghana+cchaviḥ",
-"quick_gloss": "having-color-of-dark-cloud"
+"quick_gloss": "dark-cloud-complexion"
 }
 ]
 },
@@ -170,7 +174,7 @@
 "tokens": [
 {
 "surface": "indranīla+nima",
-"quick_gloss": "resembling-blue-sapphire"
+"quick_gloss": "sapphire-resembling"
 },
 {
 "surface": "indrāṇī",
@@ -182,7 +186,7 @@
 },
 {
 "surface": "sarva+samṛddhi+dā",
-"quick_gloss": "bestower-of-all-prosperity"
+"quick_gloss": "all-prosperity-giving"
 }
 ]
 },
@@ -195,7 +199,7 @@
 "tokens": [
 {
 "surface": "muṇḍa+sraṅ+maṇḍitā",
-"quick_gloss": "adorned-with-garland-of-skulls"
+"quick_gloss": "skull-garland-adorned"
 },
 {
 "surface": "dhyeyā",
@@ -207,7 +211,7 @@
 },
 {
 "surface": "rakta+vigrahā",
-"quick_gloss": "of-red-body"
+"quick_gloss": "red-bodied"
 }
 ]
 },
@@ -219,28 +223,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gṛhāṇa",
-"quick_gloss": "accept"
-},
-{
 "surface": "pūjāṃ",
 "quick_gloss": "worship"
+},
+{
+"surface": "gṛhāṇa",
+"quick_gloss": "accept"
 },
 {
 "surface": "kaumāri",
 "quick_gloss": "O-Kaumārī"
 },
 {
-"surface": "jagan+mātaḥ",
+"surface": "jagan+mātar",
 "quick_gloss": "O-mother-of-the-world"
 },
 {
-"surface": "namaḥ+astu",
-"quick_gloss": "salutations-to-you"
+"surface": "namas",
+"quick_gloss": "salutation"
+},
+{
+"surface": "tu",
+"quick_gloss": "to-you"
 },
 {
 "surface": "te",
-"quick_gloss": "to-you"
+"quick_gloss": "be"
 }
 ]
 },
@@ -253,15 +261,15 @@
 "tokens": [
 {
 "surface": "trailokya+vanditāṃ",
-"quick_gloss": "worshipped-by-three-worlds"
+"quick_gloss": "by-three-worlds-venerated"
 },
 {
 "surface": "devīṃ",
 "quick_gloss": "goddess"
 },
 {
-"surface": "tri+mūrtiṃ",
-"quick_gloss": "three-formed"
+"surface": "trimūrtiṃ",
+"quick_gloss": "three-form"
 },
 {
 "surface": "pūjayāmi",
@@ -281,8 +289,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāruṇya+jananīṃ",
-"quick_gloss": "mother-of-compassion"
+"surface": "kāruṇya+jananīn",
+"quick_gloss": "compassion-mother"
 },
 {
 "surface": "nityāṃ",
@@ -310,15 +318,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śakti+bheda+ātmikā",
-"quick_gloss": "whose-essence-is-divisions-of-power"
+"surface": "śaktibhedātmikā/l",
+"quick_gloss": "power-divisions-embodied"
 },
 {
 "surface": "lakṣmīṃ",
 "quick_gloss": "Lakṣmī"
 },
 {
-"surface": "rohiṇīṃ",
+"surface": "rohiṇīm",
 "quick_gloss": "Rohiṇī"
 },
 {
@@ -339,15 +347,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāma+dāṃ",
-"quick_gloss": "granting-desires"
+"surface": "kāmadāṃ",
+"quick_gloss": "desire-giving"
 },
 {
 "surface": "karuṇā+dhārāṃ",
-"quick_gloss": "repository-of-compassion"
+"quick_gloss": "compassion-receptacle"
 },
 {
-"surface": "kāminīṃ",
+"surface": "kāminīm",
 "quick_gloss": "lovely-one"
 },
 {
@@ -380,7 +388,7 @@
 "quick_gloss": "O-lady-of-gods"
 },
 {
-"surface": "caṇḍikāṃ",
+"surface": "caṇḍikām",
 "quick_gloss": "Caṇḍikā"
 },
 {
@@ -402,7 +410,7 @@
 "tokens": [
 {
 "surface": "sarva+bhūta+ātmikāṃ",
-"quick_gloss": "whose-essence-is-all-beings"
+"quick_gloss": "all-beings-embodied"
 },
 {
 "surface": "devīṃ",
@@ -468,7 +476,7 @@
 "tokens": [
 {
 "surface": "manaḥ+vṛttiḥ",
-"quick_gloss": "modification-of-mind"
+"quick_gloss": "mind-activity"
 },
 {
 "surface": "vicitrā",
@@ -480,7 +488,7 @@
 },
 {
 "surface": "nṛtya+rūpeṇa",
-"quick_gloss": "in-form-of-dance"
+"quick_gloss": "in-dance-form"
 },
 {
 "surface": "kalpitā",
@@ -497,7 +505,7 @@
 "tokens": [
 {
 "surface": "chatrāṇi",
-"quick_gloss": "parasols"
+"quick_gloss": "umbrellas"
 },
 {
 "surface": "tava",
@@ -534,7 +542,7 @@
 },
 {
 "surface": "gaja+tvena",
-"quick_gloss": "in-form-of-elephant"
+"quick_gloss": "as-elephant"
 },
 {
 "surface": "vegaḥ",
@@ -546,7 +554,7 @@
 },
 {
 "surface": "ratha+ātmanā",
-"quick_gloss": "in-form-of-chariot"
+"quick_gloss": "as-chariot"
 }
 ]
 },
@@ -566,12 +574,16 @@
 "quick_gloss": "other"
 },
 {
-"surface": "tava+ākḷptam",
-"quick_gloss": "by-you-imagined"
+"surface": "tava",
+"quick_gloss": "your"
+},
+{
+"surface": "ākḷptan",
+"quick_gloss": "imagined"
 },
 {
 "surface": "tava+upakaraṇa+ātmanā",
-"quick_gloss": "in-form-of-your-implements"
+"quick_gloss": "as-implements"
 }
 ]
 },
@@ -603,7 +615,7 @@
 "quick_gloss": "forgive"
 },
 {
-"surface": "parama+īśvari",
+"surface": "parameśvari",
 "quick_gloss": "O-supreme-goddess"
 }
 ]
@@ -632,12 +644,12 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "tva",
+"surface": "tva/",
 "quick_gloss": "you"
 },
 {
-"surface": "vara+dā",
-"quick_gloss": "boon-giver"
+"surface": "vvaradā",
+"quick_gloss": "boon-giving"
 },
 {
 "surface": "bhava",
@@ -698,8 +710,8 @@
 "quick_gloss": "all"
 },
 {
-"surface": "kṣamyatām",
-"quick_gloss": "may-be-forgiven"
+"surface": "kṣamyatān",
+"quick_gloss": "forgive"
 },
 {
 "surface": "devi",
@@ -710,7 +722,7 @@
 "quick_gloss": "be-pleased"
 },
 {
-"surface": "parama+īśvari",
+"surface": "parameśvari",
 "quick_gloss": "O-supreme-goddess"
 }
 ]
@@ -727,7 +739,7 @@
 "quick_gloss": "deficiency"
 },
 {
-"surface": "sampūrṇatā",
+"surface": "sampūrṇatā/",
 "quick_gloss": "completeness"
 },
 {
@@ -739,7 +751,7 @@
 "quick_gloss": "be-pleased"
 },
 {
-"surface": "parama+īśvari",
+"surface": "parameśvari",
 "quick_gloss": "O-supreme-goddess"
 }
 ]

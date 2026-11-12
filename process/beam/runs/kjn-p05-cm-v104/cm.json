@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "tvat+prasādena",
-   "morph": "m.inst.sg (compound)",
-   "grounds": "instrumental of cause; compound with internal sandhi at +"
+   "morph": "compound:tvad+modifier,prasāda+head;m.ins.sg",
+   "grounds": "instrumental singular of compound tvad-prasāda"
   },
   {
    "lemma": "kauleśa",
-   "morph": "m.voc.sg (compound)",
-   "grounds": "vocative address; compound kaula+īśa"
+   "morph": "compound:kaula+modifier,īśa+head;m.voc.sg",
+   "grounds": "vocative singular of compound kaula-īśa"
   },
   {
    "lemma": "jñāto",
-   "morph": "m.nom.sg (past-passive-participle)",
-   "grounds": "past passive participle"
+   "morph": "past-participle.nom.sg.m",
+   "grounds": "past participle of jñā, masculine nominative singular"
   },
   {
    "lemma": "ahaṃ",
-   "morph": "pron.nom.sg",
-   "grounds": "agent expressed by pronoun in passive sense"
+   "morph": "pron.nom.sg.1",
+   "grounds": "first person pronoun nominative singular"
   },
   {
    "lemma": "kaula+nirṇayaḥ",
-   "morph": "m.nom.sg (compound)",
-   "grounds": "subject compound; internal sandhi at +"
+   "morph": "compound:kaula+modifier,nirṇaya+head;m.nom.sg",
+   "grounds": "nominative singular of compound kaula-nirṇaya"
   }
  ]
 }

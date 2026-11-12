@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[do-not](mā) [fear](bhair) [do-not](mā) [fear](bhaiḥ) [for-own-devotees](sva+bhakteṣu) [they-speak](jalpantiṅ) [with-terrible-sounds](ghora+niḥsvanaiḥ)
+[do-not](mā) [fear](bhair) [do-not](mā) [fear](bhais) [own-devotees](sva+bhakteṣu) [speaking](jalpanti) [with-terrible-sounds](ṅghora+niḥsvanaiḥ)
 
 ## mukta-m0-p02-v27
-[bearing](bibhratī) [golden-hue](kanaka+cchāyām) [Brāhmī](brāhmī) [shining-with-black-antelope-skin](kṛṣṇa+ajina+ujjvalā)
+[bearing](bibhratī) [golden-hue](kanaka+cchāyām) [Brāhmī](brāhmī) [black-antelope-skin-resplendent](kṛṣṇa+ajina+ujjvalā)
 
 ## mukta-m0-p02-v28
-[bearing](vahantī) [resembling-snow](hima+saṅkāśā) [to-be-meditated-upon](dhyeyā) [Māheśvarī](māheśvarī) [auspicious](śubhā)
+[bearing](vahantī) [snow-resembling](hima+saṅkāśā) [to-be-meditated-upon](dhyeyā) [Māheśvarī](māheśvarī) [auspicious](śubhā)
 
 ## mukta-m0-p02-v29
-[resembling-bandhūka-flower](bandhūka+puṣpa+saṅkāśā) [Kumārī](kumārī) [granting-desires](kāma+dāyinī)
+[bandhūka-flower-resembling](bandhūka+puṣpa+saṅkāśā) [Kumārī](kumārī) [desire-granting](kāma+dāyinī)
 
 ## mukta-m0-p02-v30
-[dark-like-tamāla](tamāla+śyāmalā) [to-be-meditated-upon](dhyeyā) [Vaiṣṇavī](vaiṣṇavī) [radiant-with-splendor](vibhrama+ujjvalā)
+[tamāla-dark](tamāla+śyāmalā) [to-be-meditated-upon](dhyeyā) [Vaiṣṇavī](vaiṣṇavī) [splendor-resplendent](vibhrama+ujjvalā)
 
 ## mukta-m0-p02-v31
-[with-four-hands](karaiḥ+caturbhiḥ) [Vārāhī](vārāhī) [to-be-meditated-upon](dhyeyā) [having-color-of-dark-cloud](kāla+ghana+cchaviḥ)
+[with-hands](karaiḥ) [four](caturbhiḥ) [Vārāhī](vārāhī) [to-be-meditated-upon](dhyeyā) [dark-cloud-complexion](kāla+ghana+cchaviḥ)
 
 ## mukta-m0-p02-v32
-[resembling-blue-sapphire](indranīla+nima) [Indrāṇī](indrāṇī) [to-be-meditated-upon](dhyeyā) [bestower-of-all-prosperity](sarva+samṛddhi+dā)
+[sapphire-resembling](indranīla+nima) [Indrāṇī](indrāṇī) [to-be-meditated-upon](dhyeyā) [all-prosperity-giving](sarva+samṛddhi+dā)
 
 ## mukta-m0-p02-v33
-[adorned-with-garland-of-skulls](muṇḍa+sraṅ+maṇḍitā) [to-be-meditated-upon](dhyeyā) [Cāmuṇḍā](cāmuṇḍā) [of-red-body](rakta+vigrahā)
+[skull-garland-adorned](muṇḍa+sraṅ+maṇḍitā) [to-be-meditated-upon](dhyeyā) [Cāmuṇḍā](cāmuṇḍā) [red-bodied](rakta+vigrahā)
 
 ## mukta-m0-p02-v34
-[accept](gṛhāṇa) [worship](pūjāṃ) [O-Kaumārī](kaumāri) [O-mother-of-the-world](jagan+mātaḥ) [salutations-to-you](namaḥ+astu) [to-you](te)
+[worship](pūjāṃ) [accept](gṛhāṇa) [O-Kaumārī](kaumāri) [O-mother-of-the-world](jagan+mātar) [salutation](namas) [to-you](tu) [be](te)
 
 ## mukta-m0-p02-v35
-[worshipped-by-three-worlds](trailokya+vanditāṃ) [goddess](devīṃ) [three-formed](tri+mūrtiṃ) [I-worship](pūjayāmi) [I](aham)
+[by-three-worlds-venerated](trailokya+vanditāṃ) [goddess](devīṃ) [three-form](trimūrtiṃ) [I-worship](pūjayāmi) [I](aham)
 
 ## mukta-m0-p02-v36
-[mother-of-compassion](kāruṇya+jananīṃ) [eternal](nityāṃ) [auspicious-one](kalyāṇīṃ) [I-worship](pūjayāmi) [I](aham)
+[compassion-mother](kāruṇya+jananīn) [eternal](nityāṃ) [auspicious-one](kalyāṇīṃ) [I-worship](pūjayāmi) [I](aham)
 
 ## mukta-m0-p02-v37
-[whose-essence-is-divisions-of-power](śakti+bheda+ātmikā) [Lakṣmī](lakṣmīṃ) [Rohiṇī](rohiṇīṃ) [I-worship](pūjayāmi) [I](aham)
+[power-divisions-embodied](śaktibhedātmikā/l) [Lakṣmī](lakṣmīṃ) [Rohiṇī](rohiṇīm) [I-worship](pūjayāmi) [I](aham)
 
 ## mukta-m0-p02-v38
-[granting-desires](kāma+dāṃ) [repository-of-compassion](karuṇā+dhārāṃ) [lovely-one](kāminīṃ) [I-worship](pūjayāmi) [I](aham)
+[desire-giving](kāmadāṃ) [compassion-receptacle](karuṇā+dhārāṃ) [lovely-one](kāminīm) [I-worship](pūjayāmi) [I](aham)
 
 ## mukta-m0-p02-v39
-[I-bow](praṇamāmi) [and](ca) [O-lady-of-gods](deveśīṃ) [Caṇḍikā](caṇḍikāṃ) [I-worship](pūjayāmi) [I](aham)
+[I-bow](praṇamāmi) [and](ca) [O-lady-of-gods](deveśīṃ) [Caṇḍikā](caṇḍikām) [I-worship](pūjayāmi) [I](aham)
 
 ## mukta-m0-p02-v40
-[whose-essence-is-all-beings](sarva+bhūta+ātmikāṃ) [goddess](devīṃ) [Śaṅkarī](śaṅkarīṃ) [I-worship](pūjayāmi) [I](aham)
+[all-beings-embodied](sarva+bhūta+ātmikāṃ) [goddess](devīṃ) [Śaṅkarī](śaṅkarīṃ) [I-worship](pūjayāmi) [I](aham)
 
 ## mukta-m0-p02-v41
 [I-worship](pūjayāmi) [always](sadā) [with-devotion](bhaktyā) [Durgā](durgāṃ) [O-Durgā](durge) [I-bow](namāmi) [I](aham)
 
 ## mukta-m0-p02-v42
-[modification-of-mind](manaḥ+vṛttiḥ) [varied](vicitrā) [your](te) [in-form-of-dance](nṛtya+rūpeṇa) [imagined](kalpitā)
+[mind-activity](manaḥ+vṛttiḥ) [varied](vicitrā) [your](te) [in-dance-form](nṛtya+rūpeṇa) [imagined](kalpitā)
 
 ## mukta-m0-p02-v43
-[parasols](chatrāṇi) [your](tava) [lotuses](padmāni) [imagined](kalpitāni) [by-me](mayā) [O-lord](prabho)
+[umbrellas](chatrāṇi) [your](tava) [lotuses](padmāni) [imagined](kalpitāni) [by-me](mayā) [O-lord](prabho)
 
 ## mukta-m0-p02-v44
-[ego](ahaṅkāraḥ) [in-form-of-elephant](gaja+tvena) [speed](vegaḥ) [imagined](kḷptaḥ) [in-form-of-chariot](ratha+ātmanā)
+[ego](ahaṅkāraḥ) [as-elephant](gaja+tvena) [speed](vegaḥ) [imagined](kḷptaḥ) [as-chariot](ratha+ātmanā)
 
 ## mukta-m0-p02-v45
-[all](sarvam) [other](anyat) [by-you-imagined](tava+ākḷptam) [in-form-of-your-implements](tava+upakaraṇa+ātmanā)
+[all](sarvam) [other](anyat) [your](tava) [imagined](ākḷptan) [as-implements](tava+upakaraṇa+ātmanā)
 
 ## mukta-m0-p02-v46
-[contrary](viparītam) [and](ca) [that](tat) [all](sarvam) [forgive](kṣamasva) [O-supreme-goddess](parama+īśvari)
+[contrary](viparītam) [and](ca) [that](tat) [all](sarvam) [forgive](kṣamasva) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p02-v47
-[worshipped](sampūjitā) [by-me](mayā) [O-goddess](devi) [therefore](tasmāt) [you](tva) [boon-giver](vara+dā) [be](bhava)
+[worshipped](sampūjitā) [by-me](mayā) [O-goddess](devi) [therefore](tasmāt) [you](tva/) [boon-giving](vvaradā) [be](bhava)
 
 ## mukta-m0-p02-v48
 [dismissal](visarjjanam) [not](na) [I-know](janāmi) [O-Kālikā](kālike) [you](tvam) [forgive](kṣamasva) [me](me)
 
 ## mukta-m0-p02-v49
-[that](tat) [all](sarvam) [may-be-forgiven](kṣamyatām) [O-goddess](devi) [be-pleased](prasīda) [O-supreme-goddess](parama+īśvari)
+[that](tat) [all](sarvam) [forgive](kṣamyatān) [O-goddess](devi) [be-pleased](prasīda) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p02-v50
-[deficiency](nyūnaṃ) [completeness](sampūrṇatā) [attains](yāti) [be-pleased](prasīda) [O-supreme-goddess](parama+īśvari)
+[deficiency](nyūnaṃ) [completeness](sampūrṇatā/) [attains](yāti) [be-pleased](prasīda) [O-supreme-goddess](parameśvari)
