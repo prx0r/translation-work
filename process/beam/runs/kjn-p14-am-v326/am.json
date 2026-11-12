@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 326,
- "question": "Can any auspicious or inauspicious experience ever be absent for that person?",
+ "question": "Under what condition can one who is devoid of both auspicious and inauspicious be said to have nothing left to experience?",
  "premises": [
-  "Auspicious and inauspicious experiences arise.",
-  "Such experiences are to be undergone.",
-  "That person is nowhere devoid of them."
+  "Auspicious and inauspicious are both objects to be experienced.",
+  "That which is devoid of them has no such object present.",
+  "Without an object of experience, no experience arises through that agent."
  ],
- "inference": "For that person, no experience is excluded on the basis of being auspicious or inauspicious.",
- "uncertainties": [],
- "plain_english": "Auspicious and inauspicious experiences are to be undergone, and he is never devoid of them anywhere."
+ "inference": "For one devoid of auspicious and inauspicious, there is nothing anywhere to be experienced.",
+ "uncertainties": [
+  "Scope of 'anywhere' with respect to states beyond embodied experience remains unspecified."
+ ],
+ "plain_english": "Auspicious and inauspicious are to be experienced, but one who is devoid of them experiences neither anywhere."
 }

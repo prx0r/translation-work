@@ -4,12 +4,12 @@
  "rows": [
   {
    "lemma": "sthāna",
-   "morph": "compound-member",
-   "grounds": "first member describing the wheels"
+   "morph": "compound=sthāna+first-member",
+   "grounds": "first member of compound with cakrāḥ"
   },
   {
    "lemma": "cakrāḥ",
-   "morph": "m.nom.pl",
+   "morph": "n.nom.pl",
    "grounds": "subject declared"
   },
   {
@@ -20,12 +20,12 @@
   {
    "lemma": "saṃproktāḥ",
    "morph": "m.nom.pl",
-   "grounds": "states that the wheels have been taught"
+   "grounds": "predicate describing cakrāḥ"
   },
   {
    "lemma": "teṣāṃ",
    "morph": "pron.gen.pl",
-   "grounds": "refers to the declared wheels"
+   "grounds": "possessor of dhyānaṃ"
   },
   {
    "lemma": "dhyānaṃ",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.imperative-act-root-śru",
-   "grounds": "command to listen"
+   "morph": "2.sg.imperative-active/√śru",
+   "grounds": "imperative command"
   },
   {
    "lemma": "priye",

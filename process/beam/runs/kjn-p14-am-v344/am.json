@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 344,
- "question": "What is the enduring status of this Kaula teaching across all times?",
+ "question": "What is being presented as the determination of the Kaula teaching for all time?",
  "premises": [
-  "This Kaula teaching is specified.",
-  "The great goddess is addressed.",
-  "It is called the determination for all times."
+  "This Kaula teaching is posited.",
+  "It is addressed to the great goddess.",
+  "It is presented as the determination for all time."
  ],
- "inference": "This Kaula teaching is the definitive teaching valid for all times.",
- "uncertainties": [],
- "plain_english": "O great goddess, this Kaula teaching is the definitive determination for all times."
+ "inference": "This Kaula teaching is, O great goddess, the determination for all time.",
+ "uncertainties": [
+  "The agent of presentation is not stated in these tokens."
+ ],
+ "plain_english": "This Kaula teaching, O great goddess, is the determination for all time."
 }

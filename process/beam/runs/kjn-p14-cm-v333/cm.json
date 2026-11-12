@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.imp.act+śru",
-   "grounds": "imperative verb"
+   "morph": "2.sg.act.imp./root-śru",
+   "grounds": "imperative of śru"
   },
   {
    "lemma": "tvamadbhutaṃ",
-   "morph": "2.sg.nom+n.acc.sg",
-   "grounds": "pronoun and adjective fused in token"
+   "morph": "n.acc.sg",
+   "grounds": "fused tvam + adbhutam; object of hearing"
   },
   {
    "lemma": "devi",
@@ -20,7 +20,7 @@
   {
    "lemma": "mahadāścaryakārakam",
    "morph": "n.acc.sg",
-   "grounds": "compound adjective"
+   "grounds": "compound qualifying adbhutam"
   }
  ]
 }
