@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "compound-member",
-   "grounds": "qualifies sthānaṃ"
+   "morph": "compound=guhya+first",
+   "grounds": "first member of compound with sthānaṃ"
   },
   {
    "lemma": "sthānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "subject location"
+   "grounds": "location described as cakraṃ"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "introduces manner"
+   "grounds": "introduces manner or condition"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.nom.sg",
-   "grounds": "subject that accomplishes"
+   "grounds": "subject that is accomplished"
   },
   {
    "lemma": "kṣipraṃ",
@@ -29,8 +29,8 @@
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.act-present √sidh",
-   "grounds": "main action"
+   "morph": "3.sg.act-pres/√sidh",
+   "grounds": "main predicate"
   },
   {
    "lemma": "bhairava",

@@ -7,40 +7,39 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "direct object of the imperative; refers to the immortal essence",
+     "grounds": "object of the imperative 'hear'; refers to the immortal essence",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kaulasadbhāvaṃ",
      "gloss": "kaula-true-nature",
-     "grounds": "compound in apposition to amṛtaṃ; kaula + sadbhāva",
-     "morph": "compound: kaula+sadbhāva; m.acc.sg"
+     "grounds": "compound qualifying 'amṛtaṃ'; identifies the nectar as the true reality of Kaula",
+     "morph": "m.acc.sg (compound: kaula+sadbhāva)"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative addressed to the listener",
+     "grounds": "command addressed to the listener",
      "morph": "2.sg.imp.act (√śru)"
     },
     {
      "surface": "kāmakalātmakam",
-     "gloss": "desire-art-essenced",
-     "grounds": "compound qualifying kaulasadbhāvaṃ; kāmakalā + ātmaka",
-     "morph": "compound: kāmakalā+ātmaka; m.acc.sg"
+     "gloss": "desire-art-consisting-of",
+     "grounds": "compound qualifying 'amṛtaṃ'; specifies its essence as kāmakalā",
+     "morph": "m.acc.sg (compound: kāmakalā+ātmaka)"
     }
    ],
-   "question": "What essential nature characterizes the Kaula nectar that the listener is commanded to hear?",
+   "question": "What essential nature characterizes the Kaula nectar that is to be heard?",
    "premises": [
     "The listener is commanded to hear.",
-    "The object to be heard is nectar.",
-    "This nectar is identified as the true nature of Kaula.",
-    "That Kaula true nature is essenced as Kāmakalā."
+    "The object to be heard is nectar identified as the true nature of Kaula.",
+    "This Kaula nectar is characterized as consisting of kāmakalā."
    ],
-   "inference": "The Kaula nectar to be heard is essentially constituted by Kāmakalā.",
+   "inference": "The nectar that is the true nature of Kaula is essentially constituted by kāmakalā.",
    "uncertainties": [
-    "The precise doctrinal sense of kāmakalā in this context is not fully specified by the verse alone."
+    "The precise doctrinal sense of 'kāmakalā' in this context is not fully specified within the verse."
    ],
-   "plain_english": "Hear the nectar, the true nature of Kaula, whose essence is Kāmakalā."
+   "plain_english": "Hear of the nectar, the true nature of Kaula, which consists of Kāmakalā."
   }
  ]
 }

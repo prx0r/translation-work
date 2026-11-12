@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "etat",
-   "morph": "pron.dem.n.nom.sg",
-   "grounds": "demonstrative pronoun, neuter nominative singular"
+   "morph": "pron.n.nom.sg",
+   "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "te",
-   "morph": "pron.2.dat.sg",
-   "grounds": "second person pronoun, dative singular"
+   "morph": "pron.dat.sg",
+   "grounds": "dative of recipient"
   },
   {
    "lemma": "jīva+abhyāsaṃ",
-   "morph": "compound.m.acc.sg",
-   "grounds": "accusative compound with internal sandhi: jīva + abhyāsaṃ"
+   "morph": "m.acc.sg",
+   "grounds": "compound object: jīva+abhyāsa"
   },
   {
    "lemma": "kathitaṃ",
-   "morph": "ppp.n.nom.sg",
-   "grounds": "past passive participle of kath, neuter nominative singular"
+   "morph": "n.nom.sg",
+   "grounds": "past passive participle from root kath"
   },
   {
    "lemma": "te",
-   "morph": "pron.2.dat.sg",
-   "grounds": "second person pronoun, dative singular"
+   "morph": "pron.dat.sg",
+   "grounds": "dative of recipient repeated for emphasis"
   },
   {
    "lemma": "ca",
@@ -35,7 +35,7 @@
   {
    "lemma": "bhairavi",
    "morph": "f.voc.sg",
-   "grounds": "vocative feminine singular"
+   "grounds": "vocative address"
   }
  ]
 }

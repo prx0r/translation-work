@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "sthāna",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound=sthāna+first",
+   "grounds": "first member of compound with cakrāḥ"
   },
   {
    "lemma": "cakrāḥ",
@@ -15,17 +15,17 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "connective particle"
   },
   {
    "lemma": "saṃproktāḥ",
    "morph": "m.nom.pl",
-   "grounds": "predicate of cakrāḥ"
+   "grounds": "predicate describing cakrāḥ"
   },
   {
    "lemma": "teṣāṃ",
    "morph": "pron.gen.pl",
-   "grounds": "possessor of meditation"
+   "grounds": "possessor of dhyānaṃ"
   },
   {
    "lemma": "dhyānaṃ",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.act-imperative √śru",
-   "grounds": "command to listener"
+   "morph": "2.sg.act-imp/√śru",
+   "grounds": "imperative command"
   },
   {
    "lemma": "priye",

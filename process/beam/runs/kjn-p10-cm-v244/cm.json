@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound=balī+first",
+   "grounds": "first member of compound with palita"
   },
   {
    "lemma": "palita",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound=palita+second",
+   "grounds": "first member of compound with nāśam"
   },
   {
    "lemma": "nāśam",
    "morph": "m.acc.sg",
-   "grounds": "attainment named"
+   "grounds": "first result listed"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "connective particle"
   },
   {
    "lemma": "sudūrāt",
@@ -30,12 +30,12 @@
   {
    "lemma": "darśanam",
    "morph": "n.acc.sg",
-   "grounds": "attainment named"
+   "grounds": "second result listed"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "connective indicating addition"
   }
  ]
 }

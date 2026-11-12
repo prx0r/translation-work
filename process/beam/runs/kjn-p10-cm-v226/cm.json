@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "f.nom.sg",
-   "grounds": "first member of pair with mukti"
+   "morph": "compound=bhukti+first",
+   "grounds": "first member of compound with mukti"
   },
   {
    "lemma": "mukti",
-   "morph": "f.nom.sg",
-   "grounds": "paired with bhukti"
+   "morph": "compound=mukti+second",
+   "grounds": "second member of compound with mahā"
   },
   {
    "lemma": "mahā",
-   "morph": "compound-member",
-   "grounds": "first member qualifying siddhiḥ"
+   "morph": "compound=mahā+first",
+   "grounds": "first member of compound with siddhiḥ"
   },
   {
    "lemma": "siddhiḥ",
@@ -25,17 +25,17 @@
   {
    "lemma": "yoginīnāṃ",
    "morph": "f.gen.pl",
-   "grounds": "possessor of favor"
+   "grounds": "possessor of priyo"
   },
   {
    "lemma": "priyo",
    "morph": "m.nom.sg",
-   "grounds": "predicate describing subject"
+   "grounds": "predicate describing siddhiḥ"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-optative √bhū",
-   "grounds": "potential result"
+   "morph": "3.sg.act-opt/√bhū",
+   "grounds": "optative expressing possibility"
   }
  ]
 }

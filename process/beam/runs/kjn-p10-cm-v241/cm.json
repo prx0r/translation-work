@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.mid-present √kṛ",
-   "grounds": "main action"
+   "morph": "3.sg.mid-pres/√kṛ",
+   "grounds": "main predicate"
   },
   {
    "lemma": "bahudhā",
    "morph": "(indecl.)",
-   "grounds": "manner of making form"
+   "grounds": "manner of making forms"
   },
   {
    "lemma": "rūpaṃ",
@@ -19,23 +19,23 @@
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound=dhyāna+first",
+   "grounds": "first member of compound with eka"
   },
   {
    "lemma": "eka",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound=eka+second",
+   "grounds": "first member of compound with gata"
   },
   {
    "lemma": "gata",
-   "morph": "compound-member",
-   "grounds": "third member of compound"
+   "morph": "compound=gata+third",
+   "grounds": "describes cetasaḥ as absorbed"
   },
   {
    "lemma": "cetasaḥ",
    "morph": "n.gen.sg",
-   "grounds": "possessor of one-pointed state"
+   "grounds": "possessor of one-pointed absorption"
   }
  ]
 }
