@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "What kind of recipient, tested over what duration, is fit to receive a teaching that has been previously accomplished?",
+ "question": "To whom may this teaching legitimately be transmitted?",
  "premises": [
-  "Only a previously accomplished person is a candidate for this gift.",
-  "Fitness for this teaching must be established by testing.",
-  "A test lasting one year is the prescribed measure of that fitness."
+  "The teaching may be given",
+  "The recipient should be previously accomplished",
+  "The recipient must be tested for one year"
  ],
- "inference": "The teaching is to be given only to one who has been previously accomplished and tested for one year.",
- "uncertainties": [
-  "The precise criteria of the year-long test are not specified here."
- ],
- "plain_english": "It is to be given to one who has been previously accomplished and tested for one year."
+ "inference": "Transmission is permitted only to a previously accomplished person tested for one year.",
+ "uncertainties": [],
+ "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
 }

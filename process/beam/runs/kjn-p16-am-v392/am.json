@@ -1,15 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 392,
- "question": "What result is claimed to occur in the context of muttering before an image, such that a striking physical effect is asserted?",
+ "question": "What miraculous power is manifested by muttering before an image in that context?",
  "premises": [
-  "The context is muttering in relation to an image.",
-  "In that context a result occurs.",
-  "That result is the breaking of pots and stones."
+  "Muttering occurs before an image",
+  "This takes place in that context",
+  "Breaking of pots and stones occurs"
  ],
- "inference": "In the context of muttering before an image, pots and stones are broken.",
+ "inference": "Muttering before an image in that context can produce the power to break pots and stones.",
  "uncertainties": [
-  "Token 2 is transmitted as 'tasmi(n' (truncated form); surface fidelity requires keeping it exactly as given, with locative reference uncertain."
+  "The exact ritual context of 'tasmi(n' is not fully specified."
  ],
- "plain_english": "In muttering before an image, in that context, pots and stones are broken."
+ "plain_english": "By muttering before an image in that context, pots and stones can be shattered."
 }
