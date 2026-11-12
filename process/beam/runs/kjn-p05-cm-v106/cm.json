@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "kasmiṃś",
-   "morph": "pron.loc.sg.m/n",
-   "grounds": "interrogative pronoun, locative singular"
+   "morph": "m.loc.sg",
+   "grounds": "interrogative locative"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "indeclinable conjunction"
+   "grounds": "connective particle"
   },
   {
    "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "indeclinable emphatic particle"
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "layaṃ",
    "morph": "m.acc.sg",
-   "grounds": "masculine accusative singular noun"
+   "grounds": "object of motion"
   },
   {
    "lemma": "yāti",
-   "morph": "3.sg.pres.act (√yā)",
-   "grounds": "present active third person singular of yā"
+   "morph": "3.sg.present-active:√yā",
+   "grounds": "present verb of motion"
   },
   {
    "lemma": "tat+sarvaṃ",
-   "morph": "n.acc.sg (compound tad+sarva)",
-   "grounds": "accusative singular of compound with internal sandhi marked by +"
+   "morph": "compound:n.acc.sg",
+   "grounds": "compound object of request; internal sandhi at +"
   },
   {
    "lemma": "kathayasva",
-   "morph": "2.sg.imp.mid (√kath)",
-   "grounds": "imperative middle second person singular of kath"
+   "morph": "2.sg.imperative-middle:√kath",
+   "grounds": "imperative request"
   },
   {
    "lemma": "me",
-   "morph": "pron.dat.sg.1",
-   "grounds": "first person pronoun, dative singular"
+   "morph": "1.dat.sg",
+   "grounds": "indirect object"
   }
  ]
 }
