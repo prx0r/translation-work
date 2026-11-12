@@ -1,13 +1,15 @@
 {
  "song": "net-p17",
  "verse": 417,
- "question": "To what source is the uneven fault in perception attributed rather than to the radiant illumination itself?",
+ "question": "What uneven fault in the sight of those people is being identified?",
  "premises": [
-  "A fault in seeing is acknowledged.",
-  "That fault is described as uneven.",
-  "It is located in their sight, not in the radiant illumination."
+  "A fault is being pointed out",
+  "The fault belongs to their sight",
+  "The fault is described as uneven and of such a kind"
  ],
- "inference": "The uneven fault belongs to the perceivers' sight, not to the radiant illumination.",
- "uncertainties": [],
- "plain_english": "O radiant illumination, that fault is uneven and belongs to their sight, being of such a kind."
+ "inference": "Their sight suffers from that uneven fault of such a nature",
+ "uncertainties": [
+  "The referent of 'them' is not specified in this verse"
+ ],
+ "plain_english": "O radiant illumination, that uneven fault of their sight is of such a kind."
 }

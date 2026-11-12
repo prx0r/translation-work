@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protective effect is attributed to the prior practice even in the case of a bite from great serpents?",
+ "question": "What protection against venom results from mastery of this practice?",
  "premises": [
-  "A person may be bitten by great serpents.",
-  "Even in that case, poison does not enter the body.",
-  "The negation applies despite the bite."
+  "A person may be bitten by great serpents",
+  "Poison would normally enter the body",
+  "The practice prevents poison from entering"
  ],
- "inference": "As a result of the preceding practice, poison has no effect even if one is bitten by great serpents.",
- "uncertainties": [
-  "The causal link is presupposed from the sequence of verses rather than argued here."
- ],
+ "inference": "Through this practice, poison does not enter the body even if one is bitten by great serpents.",
+ "uncertainties": [],
  "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
 }
