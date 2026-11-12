@@ -1,15 +1,16 @@
 {
  "song": "kjn-p24",
  "verse": 590,
- "question": "What numbers and qualities are enumerated as attainable in this context?",
+ "question": "What numerical sets of qualities or attributes are mentioned in this context?",
  "premises": [
-  "Sixty-four is mentioned.",
-  "Beauty is mentioned.",
-  "Eight qualities are also mentioned."
+  "The number sixty-four is mentioned.",
+  "Beauty and eight qualities are mentioned.",
+  "Particles indicate inclusion or alternatives among these items."
  ],
- "inference": "Therefore sixty-four, beauty, and also eight qualities are enumerated.",
+ "inference": "Therefore, sixty-four, beauty, and eight qualities are enumerated in this context.",
  "uncertainties": [
-  "The syntactic relation and exact referent of saudarya are unclear in this fragmentary line."
+  "The grammatical relation between 'saudarya' and the numbers is unclear.",
+  "The intended grouping of these items is ambiguous."
  ],
- "plain_english": "Sixty-four, and beauty, and also eight qualities."
+ "plain_english": "Sixty-four, and beauty, and also eight qualities, or."
 }

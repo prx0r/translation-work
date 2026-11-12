@@ -19,39 +19,39 @@
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "temporal adverb indicating that moment",
+     "grounds": "temporal adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "tyaktaṃ",
      "gloss": "abandoned",
-     "grounds": "past passive participle indicating relinquishment",
-     "morph": "n.nom.sg.ppp (√tyaj)"
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg.ppp+√tyaj"
     },
     {
      "surface": "citta",
-     "gloss": "mind",
-     "grounds": "addressed as the locus of the state",
+     "gloss": "o-mind",
+     "grounds": "addressed faculty of awareness",
      "morph": "n.voc.sg"
     },
     {
      "surface": "dhīvarātmakam",
      "gloss": "fisherman-natured",
-     "grounds": "compound describing the mind's character; dhīvara+ātmaka",
-     "morph": "n.voc.sg (compound)"
+     "grounds": "compound: dhīvara+ātmaka",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "What state was relinquished by the fisherman-natured mind at that moment?",
+   "question": "What identity was relinquished when the fisherman-natured mind was abandoned?",
    "premises": [
-    "The mind is characterized as having a fisherman nature.",
-    "The state of Brahmahood had been present.",
-    "At that moment, that Brahma-state was abandoned."
+    "The Brahma-state was indeed abandoned at that time.",
+    "The abandonment concerns a fisherman-natured mind.",
+    "The mind is directly addressed in the statement."
    ],
-   "inference": "The fisherman-natured mind relinquished its Brahma-state at that time.",
+   "inference": "Relinquishing the fisherman-natured mind entails the abandonment of the Brahma-state.",
    "uncertainties": [
-    "Whether 'citta' functions as a vocative address or as the subject of an implied clause is contextually inferred."
+    "Whether citta functions as a vocative address or as part of the subject phrase is contextually ambiguous."
    ],
-   "plain_english": "Indeed, O fisherman-natured mind, the state of Brahmahood was then abandoned."
+   "plain_english": "Indeed, then the Brahma-state was abandoned, O mind, along with its fisherman-nature."
   }
  ]
 }

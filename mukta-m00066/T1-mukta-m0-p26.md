@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[tadā](tadā) [ānanda-mayaṃ](ānaṃdamayaṃ) [kośaṃ](kośaṃ) [vardhatām](varddhatāṃ) [vardhatām](varddhatāṃ) [mama](mama)
+[then](tadā) [bliss+consisting-of](ānaṃdamayaṃ) [sheath](kośaṃ) [let-increase](varddhatāṃ) [let-increase](varddhatāṃ) [my](mama)
 
 ## mukta-m0-p26-v627
-[yauvana-ullāsa-makhilaṃ](yauvanollāsamakhilaṃ) [yāga-karma-śanaiḥ](yāgakarmaśanairnayet) [nayet](nayet)
+[youth+exuberance](yauvanollāsam) [entire](akhilaṃ) [sacrifice+rite](yāgakarma) [gradually](śanaiḥ) [one-should-lead](nayet)
 
 ## mukta-m0-p26-v628
-[tat-sarvam](tatsarvamihasuśroṇi) [iha](iha) [su-śroṇi](suśroṇi) [sayāyāṃtyaṃgabhāvanām](sayāyāṃtyaṃgabhāvanām)
+[that](tat) [all](sarvam) [here](iha) [O-beautiful-hipped-one](suśroṇi) [with-her](sayā) [going](yāṃ) [limb+contemplation](aṃgabhāvanām)
 
 ## mukta-m0-p26-v629
-[tāsām](tāsāmaṃsaṃkhyān) [aṃsa-saṃkhyān](aṃsaṃkhyān) [kaḥ](kovaktuṃ) [vaktuṃ](vaktuṃ) [prakāraṃ](prakāran) [bhuvana-īkṣamaḥ](bhuvanekṣamaḥ)
+[of-them](tāsām) [innumerable](asaṃkhyān) [who](kaḥ) [to-tell](vaktuṃ) [manner](prakāran) [world+capable](bhuvanekṣamaḥ)
 
 ## mukta-m0-p26-v630
-[taiḥ-sarvaiḥ](taiḥsarvairvyaktimāpnoti) [vyaktim](vyaktim) [āpnoti](āpnoti) [sva-ātmānaṃda-maheśvaraḥ](svātmānaṃdamaheśvaraḥ)
+[by-those](taiḥ) [by-all](sarvaiḥ) [manifestation](vyaktim) [obtains](āpnoti) [own+self](svātmā) [bliss+great-lord](naṃdamaheśvaraḥ)
 
 ## mukta-m0-p26-v631
-[nakha-saṃlekhanaiḥ](nakhasaṃlekhanaiścitraiḥ) [citraiḥ](citraiḥ) [kṣobhaṇaiḥ](kṣobhaṇairanuraṃjanaiḥ) [anuraṃjanaiḥ](anuraṃjanaiḥ)
+[by-nail+scratchings](nakhasaṃlekhanaiḥ) [by-varied](citraiḥ) [by-exciting](kṣobhaṇaiḥ) [by-delighting](anuraṃjanaiḥ)
 
 ## mukta-m0-p26-v632
-[karṇe](karṇe) [curu-curā-ānandaiḥ](curucurānaṃdairlocanasya) [locanasya](locanasya) [pracuṃbanaiḥ](pracuṃbanaiḥ)
+[in-ear](karṇe) [by-curucura+blisses](curucurānaṃdaiḥ) [of-eye](locanasya) [by-kissings](pracuṃbanaiḥ)
 
 ## mukta-m0-p26-v633
-[stana-saṃmardanaiḥ](stana saṃmardanairbāhu) [bāhu-mūla-protkṣepaṇaiḥ](mūlaprotkṣepaṇairapi) [api](api)
+[by-breast+pressings](stana+saṃmardanair) [by-arm+root](bāhu+mūla) [by-throwings-up](protkṣepaṇaiḥ) [also](api)
 
 ## mukta-m0-p26-v634
-[kāka-kāraṇḍava-ādīnāṃ](kākakāraṇḍavādīnāṃ) [sārasānāṃ](sārasānāṃ) [ca](ca) [pakṣiṇām](pakṣiṇām)
+[of-crows](kāka) [of-kāraṇḍava-ducks+and-others](kāraṇḍavādīnāṃ) [of-sārasa-cranes](sārasānāṃ) [and](ca) [of-birds](pakṣiṇām)
 
 ## mukta-m0-p26-v635
-[nānāvidhaiḥ](nānāvidhaiḥ) [kalaiḥ](kalairnādaiḥ) [nādaiḥ](nādaiḥ) [kaṃṭha-gola-vinirgataiḥ](kaṃṭhagolavinirgataiḥ)
+[by-various+kinds](nānāvidhaiḥ) [by-soft](kalaiḥ) [by-sounds](nādaiḥ) [from-throat+cavity](kaṃṭhagola) [issued-forth](vinirgataiḥ)
 
 ## mukta-m0-p26-v636
-[kaca-grahaiḥ](kacagrahaiḥ) [kara-āghātaiḥ](karāghātaiḥ) [jihvā-yuddhaiḥ](jihvāyuddhaiśca) [ca](ca) [bhūribhiḥ](bhūribhiḥ)
+[by-hair+seizings](kacagrahaiḥ) [by-hand+strikes](karāghātaiḥ) [by-tongue+battles](jihvāyuddhaiḥ) [and](ca) [by-many](bhūribhiḥ)
 
 ## mukta-m0-p26-v637
-[rati-pāṭava-saubhāgya-ślāghābhiḥ](rati pāṭava saubhāgya ślāghābhiśca) [ca](ca) [pade-pade](pade pade)
+[love+skill](rati+pāṭava) [good-fortune](saubhāgya) [by-praises](ślāghābhiḥ) [and](ca) [at-step](pade) [at-step](pade)
 
 ## mukta-m0-p26-v638
-[nānāvidha-prakāreṇa](nānāvidhaprakāreṇa) [dūtikām](dūtikāmanuraṃjayet) [anuraṃjayet](anuraṃjayet)
+[by-various+kinds](nānāvidha) [by-manner](prakāreṇa) [messenger-woman](dūtikām) [one-should-delight](anuraṃjayet)
 
 ## mukta-m0-p26-v639
-[tadvat](tadvadānaṃda) [ānaṃda-yāge](yāge'smin) [asmin](asmin) [āśleṣa-ādyaṃ](āśleṣādyaṃ) [gamiṣyate](gamiṣyate)
+[likewise](tadvat) [in-bliss+sacrifice](ānaṃda+yāge) [in-this](asmin) [embrace+and-so-on](āśleṣādyam) [will-be-undergone](gamiṣyate)
 
 ## mukta-m0-p26-v640
-[nakha-kṣata-jvalan-agniḥ](nakhakṣata jvalannagniścuṃbanaṃ) [cuṃbanaṃ](cuṃbanaṃ) [soma-pāna-vat](somapānavat)
+[nail+wound](nakhakṣata) [blazing+fire](jvalannagniḥ) [kissing](cuṃbanaṃ) [like-soma+drinking](somapānavat)
 
 ## mukta-m0-p26-v641
-[pariṣeka](pariṣeka) [sveda-jalaṃ](svedajalaṃ) [bhaja-veṣṭiḥ](bhajaveṣṭiḥ) [paristṛtiḥ](paristṛtiḥ)
+[sprinkling](pariṣeka) [sweat+water](svedajalaṃ) [fire+enclosure](bhajaveṣṭiḥ) [strewing-around](paristṛtiḥ)
 
 ## mukta-m0-p26-v642
-[nābhī-kuṇḍaṃ](nābhīkuṇḍaṃ) [ca](ca) [cātvālaṃ](cātvālaṃ) [gārhapatya-mukhaṃ](gārhapatyo mukhaṃ) [smṛtam](smṛtam)
+[navel+pit](nābhīkuṇḍaṃ) [and](ca) [cātvāla-hole](cātvālaṃ) [gārhapatya-fire](gārhapatyaḥ) [mouth](mukhaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p26-v643
-[sabhya-avasadhyau](sabhyāvasadhyau) [tasyāḥ](tasyāśca) [ca](ca) [pārśva-dvitaya-saṃsthitau](pārśvadvitaya saṃsthitau)
+[sabhya-and-āvasathya-fires](sabhyāvasadhyau) [of-her](tasyāḥ) [and](ca) [side+pair](pārśvadvitaya) [situated](saṃsthitau)
 
 ## mukta-m0-p26-v644
-[samidh-oghaṭṭanā](samidhoghaṭṭanā) [proktā](proktā) [hotā-liṃga-maheśvaraḥ](hotāliṃga maheśvaraḥ)
+[fuel-sticks+rubbing](samidhoghaṭṭanā) [declared](proktā) [hotṛ-priest](hotā) [phallus](liṃga) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p26-v645
-[adhvaryuḥ](adhvaryurathasītkāro) [atha](atha) [sītkāraḥ](sītkāro) [neṣṭā](neṣṭāmadhurabhāṣaṇam) [madhura-bhāṣaṇam](madhurabhāṣaṇam)
+[adhvaryu-priest](adhvaryuḥ) [then](atha) [sītkāra-sound](sītkāraḥ) [neṣṭṛ-priest](neṣṭā) [sweet+speech](madhurabhāṣaṇam)
 
 ## mukta-m0-p26-v646
-[maitrāvaruṇaḥ](maitrāvaruṇa utsāhaḥ) [utsāhaḥ](utsāhaḥ) [potā](potāhuṃkāra ucyate) [huṃkāraḥ](huṃkāraḥ) [ucyate](ucyate)
+[maitrāvaruṇa-priest](maitrāvaruṇaḥ) [zeal](utsāhaḥ) [potṛ-priest](potā) [huṃkāra-sound](huṃkāraḥ) [is-called](ucyate)
 
 ## mukta-m0-p26-v647
-[ucchāvākaḥ](ucchāvākaḥ) [kāku-rutaṃ](kākurutaṃ) [śukla-saṃdo-mahā-haviḥ](śuklasyaṃdomahāhaviḥ)
+[acchāvāka-priest](ucchāvākaḥ) [coaxing+sound](kākurutaṃ) [of-semen](śuklasya) [offering](aṃdaḥ) [great+oblation](mahāhaviḥ)
 
 ## mukta-m0-p26-v648
-[ānaṃda-svarūpa-tva-paśuṃ](ānaṃda svarūpatva paśuṃhatvā) [hatvā](hatvā) [maheśvarī](maheśvarī)
+[bliss+nature](ānaṃda+svarūpatva) [victim](paśuṃ) [having-slain](hatvā) [great-goddess](maheśvarī)
 
 ## mukta-m0-p26-v649
-[nakha-kṣataiḥ](nakhakṣatairdaṃtapātairāghātairapi) [daṃta-pātaiḥ](daṃtapātaiḥ) [āghātaiḥ](āghātaiḥ) [api](api) [śaṃkara](śaṃkara)
+[by-nail+wounds](nakhakṣataiḥ) [by-tooth+falls](daṃtapātaiḥ) [by-strikes](āghātaiḥ) [also](api) [O-Śaṅkara](śaṃkara)
 
 ## mukta-m0-p26-v650
-[prayojanaṃ](prayojanaṃ) [vada](vadaiteṣāmanyathā) [eteṣām](eteṣām) [anyathā](anyathā) [niṣphalāḥ](niṣphalāḥ) [kriyāḥ](kriyāḥ)
+[purpose](prayojanaṃ) [tell](vada) [of-these](eteṣām) [otherwise](anyathā) [fruitless](niṣphalāḥ) [actions](kriyāḥ)

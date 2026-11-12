@@ -7,8 +7,8 @@
     {
      "surface": "ākṛṣya",
      "gloss": "having-drawn",
-     "grounds": "gerund of ā-kṛṣ",
-     "morph": "(indecl.)"
+     "grounds": "absolutive of ā-kṛṣ",
+     "morph": "gerund (ā-kṛṣ)"
     },
     {
      "surface": "tu",
@@ -19,33 +19,30 @@
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "adverb of time",
+     "grounds": "temporal adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "matsyaṃ",
      "gloss": "fish",
-     "grounds": "object of action",
+     "grounds": "object drawn in",
      "morph": "m.acc.sg"
     },
     {
      "surface": "śaktijālasamīkṛtaḥ",
-     "gloss": "net-equipped",
-     "grounds": "fused compound śakti-jāla-samīkṛta; analyzed as given",
-     "morph": "m.nom.sg"
+     "gloss": "equipped-with-power-net",
+     "grounds": "compound: śakti-jāla-samīkṛta; one endowed with a net of power",
+     "morph": "m.nom.sg (compound)"
     }
    ],
-   "question": "By what means does the agent become equipped to act upon the fish at that moment in this account?",
+   "question": "What state characterizes the one who has drawn in the fish?",
    "premises": [
-    "The agent draws the fish at a specified time.",
-    "The fish is taken as the object of that action.",
-    "The agent is described as equipped with a net of śakti."
+    "The fish is drawn in",
+    "The agent becomes equipped with a power-net"
    ],
-   "inference": "The action of drawing is performed by one already equipped with a śakti-net.",
-   "uncertainties": [
-    "Exact scope of śakti-jāla remains context-dependent."
-   ],
-   "plain_english": "Then, having drawn the fish, one equipped with a net of śakti acts accordingly."
+   "inference": "Drawing in the fish results in being endowed with the net of śakti",
+   "uncertainties": [],
+   "plain_english": "Then, having indeed drawn in the fish, one becomes equipped with the net of power."
   },
   {
    "verse": 502,
@@ -53,45 +50,42 @@
     {
      "surface": "vadanti",
      "gloss": "they-say",
-     "grounds": "present active of vad",
-     "morph": "3.pl.act.prs"
+     "grounds": "statement of common opinion",
+     "morph": "3.pl.act.pres (vad)"
     },
     {
      "surface": "viditā",
      "gloss": "known",
-     "grounds": "past participle form",
+     "grounds": "past participle describing beasts",
      "morph": "m.nom.pl"
     },
     {
      "surface": "loke",
      "gloss": "in-world",
-     "grounds": "locative of loka",
+     "grounds": "locative of sphere",
      "morph": "m.loc.sg"
     },
     {
      "surface": "paśavo",
      "gloss": "beasts",
-     "grounds": "subject noun",
+     "grounds": "subject identified as bound beings",
      "morph": "m.nom.pl"
     },
     {
      "surface": "jñānavarjitāḥ",
-     "gloss": "knowledge-devoid",
-     "grounds": "fused compound jñāna-varjita; analyzed as given",
-     "morph": "m.nom.pl"
+     "gloss": "devoid-of-knowledge",
+     "grounds": "compound: jñāna-varjita; lacking knowledge",
+     "morph": "m.nom.pl (compound)"
     }
    ],
-   "question": "On what basis do those in the world classify certain beings as beasts lacking knowledge?",
+   "question": "How are beasts known in the world characterized with respect to knowledge?",
    "premises": [
-    "A conventional claim is made in the world.",
-    "Certain beings are designated as beasts.",
-    "Those beings are characterized as devoid of knowledge."
+    "Beasts are known in the world",
+    "They are described as devoid of knowledge"
    ],
-   "inference": "Beast-status is assigned by convention to beings devoid of knowledge.",
-   "uncertainties": [
-    "Whether the claim is conventional or ontological is not specified."
-   ],
-   "plain_english": "In the world they say that beasts, devoid of knowledge, are so designated."
+   "inference": "Worldly understanding identifies beasts as lacking knowledge",
+   "uncertainties": [],
+   "plain_english": "They say that beasts, known in the world, are devoid of knowledge."
   },
   {
    "verse": 503,
@@ -99,45 +93,42 @@
     {
      "surface": "kaivartatvaṃ",
      "gloss": "fisherman-hood",
-     "grounds": "abstract noun from kaivarta",
+     "grounds": "abstract state assumed",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtaṃ",
      "gloss": "made",
-     "grounds": "past participle of kṛ",
+     "grounds": "past participle indicating assumption",
      "morph": "n.nom.sg"
     },
     {
      "surface": "yasmāt",
      "gloss": "because",
-     "grounds": "ablative relative of yad",
-     "morph": "n.abl.sg"
+     "grounds": "causal conjunction",
+     "morph": "(indecl.)"
     },
     {
      "surface": "kaivarto",
      "gloss": "fisherman",
-     "grounds": "agent noun",
+     "grounds": "subject identified",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vipranāyakaḥ",
      "gloss": "brahmin-leader",
-     "grounds": "fused compound vipra-nāyaka; analyzed as given",
-     "morph": "m.nom.sg"
+     "grounds": "compound: vipra-nāyaka; leader among brahmins",
+     "morph": "m.nom.sg (compound)"
     }
    ],
-   "question": "What causal reason is given for the establishment of fisherman-hood in relation to a brahmin leader?",
+   "question": "Why is the assumption of fisherman-hood significant for the brahmin leader?",
    "premises": [
-    "Fisherman-hood is said to have been made.",
-    "The reason given is a preceding circumstance.",
-    "The fisherman is identified as a leader of brahmins."
+    "Fisherman-hood was assumed",
+    "The fisherman is identified as a brahmin leader"
    ],
-   "inference": "Fisherman-hood comes into being on account of the brahmin leader being a fisherman.",
-   "uncertainties": [
-    "The precise historical or ritual act of making remains unspecified."
-   ],
-   "plain_english": "Fisherman-hood was established because the fisherman was a leader of brahmins."
+   "inference": "The brahmin leader's adoption of fisherman-hood carries special significance",
+   "uncertainties": [],
+   "plain_english": "Because fisherman-hood was assumed, the fisherman is a leader among brahmins."
   },
   {
    "verse": 504,
@@ -145,187 +136,182 @@
     {
      "surface": "avyaktagocaraṃ",
      "gloss": "unmanifest-perceptible",
-     "grounds": "fused compound avyakta-gocara; analyzed as given",
-     "morph": "n.nom.sg"
+     "grounds": "compound: avyakta-gocara; within the range of the unmanifest",
+     "morph": "n.acc.sg (compound)"
     },
     {
      "surface": "tena",
      "gloss": "by-that",
-     "grounds": "instrumental of tad",
-     "morph": "m.instr.sg"
+     "grounds": "instrumental or causal reference",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "kulair",
      "gloss": "by-families",
-     "grounds": "instrumental of kula",
-     "morph": "n.instr.pl"
+     "grounds": "instrumental plural of kula",
+     "morph": "n.inst.pl"
     },
     {
      "surface": "jātam",
      "gloss": "born",
-     "grounds": "past participle of jan",
+     "grounds": "past participle indicating origin",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mahākṛpe",
-     "gloss": "great-compassionate",
-     "grounds": "vocative of mahākṛpa",
-     "morph": "m.voc.sg"
+     "gloss": "o-greatly-compassionate-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg (compound)"
     }
    ],
-   "question": "By what agency is that which is perceptible to the unmanifest said to have been born, addressed to one of great compassion?",
+   "question": "What origin is attributed to the unmanifest-perceptible reality through the families?",
    "premises": [
-    "Something perceptible to the unmanifest is in view.",
-    "It is said to have been born by that means.",
-    "Families are named as the instrumental agency."
+    "Something unmanifest-perceptible is indicated",
+    "It is said to be born through the families"
    ],
-   "inference": "By that agency, families brought into being what is perceptible to the unmanifest.",
+   "inference": "The unmanifest-perceptible reality arises through the families",
    "uncertainties": [
-    "The referent of 'that' is not recoverable from this verse alone."
+    "Exact referent of 'tena' is context-dependent"
    ],
-   "plain_english": "O greatly compassionate one, by that means it was born through families, as that which is perceptible to the unmanifest."
+   "plain_english": "O greatly compassionate one, by that means what is perceptible in the unmanifest was born through the families."
   },
   {
    "verse": 505,
    "rows": [
     {
      "surface": "vighneśo",
-     "gloss": "vighnesa",
-     "grounds": "proper name",
+     "gloss": "vighneśa",
+     "grounds": "name of a deity",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nandinaś",
-     "gloss": "nandin-and",
-     "grounds": "nandin + ca with sandhi as given",
-     "morph": "m.nom.pl"
+     "gloss": "and-nandin",
+     "grounds": "name with sandhi; ca elided or implied in context",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunctive particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "iva",
      "gloss": "like",
-     "grounds": "comparative particle",
+     "grounds": "particle of comparison",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahākālasya",
-     "gloss": "mahakala-of",
-     "grounds": "genitive of mahākāla",
+     "gloss": "of-mahākāla",
+     "grounds": "genitive relation",
      "morph": "m.gen.sg"
     },
     {
      "surface": "dhīmate",
-     "gloss": "wise-to",
-     "grounds": "dative of dhīmat",
+     "gloss": "to-wise-one",
+     "grounds": "dative recipient",
      "morph": "m.dat.sg"
     }
    ],
-   "question": "In what comparative relation are Vighneśa and Nandin placed with respect to Mahākāla and the wise one?",
+   "question": "To whom are Vighneśa and Nandin compared in relation to Mahākāla?",
    "premises": [
-    "Vighneśa and Nandin are named together.",
-    "A comparison is introduced by iva.",
-    "Relation is made to Mahākāla and to the wise one."
+    "Vighneśa and Nandin are mentioned",
+    "They are compared as belonging to Mahākāla for the wise one"
    ],
-   "inference": "Vighneśa and Nandin stand in a comparative relation to Mahākāla and to the wise one.",
+   "inference": "Vighneśa and Nandin stand in a relation to Mahākāla analogous to that described for the wise one",
    "uncertainties": [
-    "The direction of comparison is not fully determined by this verse alone."
+    "Syntactic role of 'dhīmate' is somewhat ambiguous without wider context"
    ],
-   "plain_english": "Vighneśa and Nandin are like those belonging to Mahākāla, for the wise one."
+   "plain_english": "Vighneśa and Nandin, like those of Mahākāla, are for the wise one."
   },
   {
    "verse": 506,
    "rows": [
     {
      "surface": "kālikā",
-     "gloss": "kalika",
-     "grounds": "proper/name noun",
+     "gloss": "kālikā",
+     "grounds": "name of the yoginī",
      "morph": "f.nom.sg"
     },
     {
      "surface": "yoginī",
-     "gloss": "yogini",
-     "grounds": "noun",
+     "gloss": "yoginī",
+     "grounds": "designation",
      "morph": "f.nom.sg"
     },
     {
      "surface": "khyātā",
      "gloss": "renowned",
-     "grounds": "past participle of khyā",
+     "grounds": "past participle indicating fame",
      "morph": "f.nom.sg"
     },
     {
      "surface": "ūrddhato",
      "gloss": "above",
-     "grounds": "adverb of place",
+     "grounds": "directional adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "matsamaṃ",
-     "gloss": "me-equal",
-     "grounds": "mad + sama",
-     "morph": "n.acc.sg"
+     "gloss": "equal-to-me",
+     "grounds": "compound: mat-sama; equal to me",
+     "morph": "n.acc.sg (compound)"
     },
     {
      "surface": "priye",
-     "gloss": "beloved",
-     "grounds": "vocative of priya",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What status is attributed to Kālikā the Yoginī above, addressed to the beloved, in relation to equality with the speaker?",
+   "question": "What status is attributed to the renowned yoginī Kālikā in relation to the speaker?",
    "premises": [
-    "Kālikā is named as a Yoginī.",
-    "She is said to be renowned.",
-    "She is placed above and said to be equal to the speaker."
+    "Kālikā is a renowned yoginī",
+    "She is described as equal to the speaker above"
    ],
-   "inference": "The renowned Yoginī Kālikā is said to be above and equal to the speaker.",
-   "uncertainties": [
-    "The exact ontological sense of equality remains unspecified."
-   ],
-   "plain_english": "O beloved, Kālikā the Yoginī is renowned as above, equal to me."
+   "inference": "Kālikā holds a status equal to the speaker in the higher realm",
+   "uncertainties": [],
+   "plain_english": "O beloved, the yoginī Kālikā is renowned as equal to me above."
   },
   {
    "verse": 507,
    "rows": [
     {
      "surface": "kalpānte",
-     "gloss": "kalpa-end",
-     "grounds": "locative compound kalpa-anta; analyzed as given",
-     "morph": "m.loc.sg"
+     "gloss": "at-kalpa-end",
+     "grounds": "compound: kalpa-anta; end of a cosmic age",
+     "morph": "m.loc.sg (compound)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunctive particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "yugānte",
-     "gloss": "yuga-end",
-     "grounds": "locative compound yuga-anta; analyzed as given",
-     "morph": "m.loc.sg"
+     "gloss": "at-yuga-end",
+     "grounds": "compound: yuga-anta; end of a yuga",
+     "morph": "m.loc.sg (compound)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunctive particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "mama",
      "gloss": "my",
-     "grounds": "genitive of mad",
-     "morph": "1.gen.sg"
+     "grounds": "possessive pronoun",
+     "morph": "gen.sg"
     },
     {
      "surface": "dehe",
      "gloss": "in-body",
-     "grounds": "locative of deha",
+     "grounds": "locative of place",
      "morph": "m.loc.sg"
     },
     {
@@ -337,107 +323,100 @@
     {
      "surface": "tiṣṭhati",
      "gloss": "she-remains",
-     "grounds": "present active of sthā",
-     "morph": "3.sg.act.prs"
+     "grounds": "present tense indicating abiding",
+     "morph": "3.sg.act.pres (sthā)"
     }
    ],
-   "question": "At which temporal points and in which location is it claimed that she remains, despite cosmic endings?",
+   "question": "Where does Kālikā remain at the end of cosmic and lesser cycles?",
    "premises": [
-    "A time at the end of a kalpa is specified.",
-    "A time at the end of a yuga is specified.",
-    "She remains indeed in the speaker's body at those times."
+    "The times of kalpa-end and yuga-end are specified",
+    "She remains in the speaker's body"
    ],
-   "inference": "She abides in the speaker's body at both kalpa-end and yuga-end.",
-   "uncertainties": [
-    "The identity of 'she' is not determined by this verse alone."
-   ],
-   "plain_english": "At the end of a kalpa and at the end of a yuga, she indeed remains in my body."
+   "inference": "Kālikā abides in the speaker's body even at cosmic endings",
+   "uncertainties": [],
+   "plain_english": "At the end of the kalpa and at the end of the yuga, she indeed remains in my body."
   },
   {
    "verse": 508,
    "rows": [
     {
      "surface": "patraśākhāsamāyukto",
-     "gloss": "leaf-branch-endowed",
-     "grounds": "fused compound patra-śākhā-samāyukta; analyzed as given",
-     "morph": "m.nom.sg"
+     "gloss": "endowed-with-leaf-branch",
+     "grounds": "compound: patra-śākhā-samāyukta; joined with leaves and branches",
+     "morph": "m.nom.sg (compound)"
     },
     {
      "surface": "vṛkṣasya",
-     "gloss": "tree-of",
-     "grounds": "genitive of vṛkṣa",
+     "gloss": "of-tree",
+     "grounds": "genitive relation",
      "morph": "m.gen.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunctive particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "udbhavaṃ",
      "gloss": "origin",
-     "grounds": "accusative of udbhava",
+     "grounds": "object of comparison",
      "morph": "m.acc.sg"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "comparative particle",
+     "grounds": "particle of comparison",
      "morph": "(indecl.)"
     }
    ],
-   "question": "By what comparative analogy is the origin of a tree, endowed with leaves and branches, to be understood?",
+   "question": "What analogy illustrates the origin associated with leaves and branches of a tree?",
    "premises": [
-    "A tree is described as endowed with leaves and branches.",
-    "Its origin is brought into view.",
-    "A comparative relation is introduced by yathā."
+    "Leaves and branches are joined to a tree",
+    "The origin is compared by analogy"
    ],
-   "inference": "The origin of a tree endowed with leaves and branches is to be understood by the given analogy.",
+   "inference": "The origin is to be understood like the emergence of leaves and branches from a tree",
    "uncertainties": [
-    "The second term of the comparison is not stated in this verse."
+    "The compared subject is implied from context"
    ],
-   "plain_english": "As with a tree endowed with leaves and branches, so too is its origin to be understood."
+   "plain_english": "Just as the origin of a tree is endowed with leaves and branches."
   },
   {
    "verse": 509,
    "rows": [
     {
      "surface": "ajñānabhāvitā",
-     "gloss": "ignorance-conditioned",
-     "grounds": "fused compound ajñāna-bhāvita; analyzed as given",
-     "morph": "f.nom.sg"
+     "gloss": "conditioned-by-ignorance",
+     "grounds": "compound: ajñāna-bhāvita; shaped by ignorance",
+     "morph": "f.nom.sg (compound)"
     },
     {
      "surface": "devi",
-     "gloss": "goddess",
-     "grounds": "vocative of devī",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "paśutvaṃ",
      "gloss": "beast-hood",
-     "grounds": "abstract noun",
+     "grounds": "state of being a bound soul",
      "morph": "n.acc.sg"
     },
     {
      "surface": "suranāyike",
-     "gloss": "god-lady",
-     "grounds": "vocative compound sura-nāyikā; analyzed as given",
-     "morph": "f.voc.sg"
+     "gloss": "o-lady-of-gods",
+     "grounds": "compound vocative: sura-nāyikā",
+     "morph": "f.voc.sg (compound)"
     }
    ],
-   "question": "Under what condition is beast-hood said to arise for one addressed as goddess and lady of the gods?",
+   "question": "What condition leads to beast-hood according to the address to the goddess?",
    "premises": [
-    "One is addressed as goddess and lady of the gods.",
-    "That one is described as conditioned by ignorance.",
-    "Beast-hood is said to be attained in that condition."
+    "A being is conditioned by ignorance",
+    "Beast-hood is the resulting state"
    ],
-   "inference": "Conditioned by ignorance, one attains beast-hood.",
-   "uncertainties": [
-    "Whether this is a general claim or addressed to a specific case remains unclear."
-   ],
-   "plain_english": "O goddess, O lady of the gods, conditioned by ignorance one attains beast-hood."
+   "inference": "Conditioning by ignorance produces the state of beast-hood",
+   "uncertainties": [],
+   "plain_english": "O goddess, O lady of the gods, conditioned by ignorance, one attains beast-hood."
   },
   {
    "verse": 510,
@@ -445,235 +424,225 @@
     {
      "surface": "kathitaṃ",
      "gloss": "told",
-     "grounds": "past participle of kath",
+     "grounds": "past participle indicating teaching",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tava",
      "gloss": "to-you",
-     "grounds": "genitive/dative of yuvam",
-     "morph": "2.gen.sg"
+     "grounds": "recipient of teaching",
+     "morph": "gen.sg"
     },
     {
      "surface": "kāmeṣi",
-     "gloss": "kamesi",
-     "grounds": "vocative of kāmeśī",
+     "gloss": "o-kāmeśī",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "ṣaṭmukhasya",
-     "gloss": "six-faced-of",
-     "grounds": "genitive of ṣaṭmukha",
+     "gloss": "of-ṣaṭmukha",
+     "grounds": "genitive relation",
      "morph": "m.gen.sg"
     },
     {
      "surface": "gaṇasya",
-     "gloss": "group-of",
-     "grounds": "genitive of gaṇa",
+     "gloss": "of-group",
+     "grounds": "genitive relation",
      "morph": "m.gen.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunctive particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What has been told to the addressed one concerning the group of the six-faced one and others?",
+   "question": "To whom has the account concerning Ṣaṭmukha and his group been told?",
    "premises": [
-    "Something has been told.",
-    "It is told to Kāmeśī.",
-    "It concerns the group of the six-faced one."
+    "Something has been told",
+    "The recipients or subjects include Kāmeśī and the group of Ṣaṭmukha"
    ],
-   "inference": "An account concerning the group of the six-faced one has been told to Kāmeśī.",
+   "inference": "The teaching concerning Ṣaṭmukha and his group has been communicated to Kāmeśī",
    "uncertainties": [
-    "The content of what was told is not specified in this verse."
+    "Exact syntactic relation of 'tava' and 'kāmeṣi' is slightly compressed"
    ],
-   "plain_english": "O Kāmeśī, what concerns the group of the six-faced one has been told to you."
+   "plain_english": "O Kāmeśī, this has been told to you concerning Ṣaṭmukha and his group."
   },
   {
    "verse": 511,
    "rows": [
     {
      "surface": "bhaṭṭādyā",
-     "gloss": "bhatta-and-others",
-     "grounds": "bhaṭṭa + ādi with sandhi as given",
-     "morph": "m.nom.pl"
+     "gloss": "bhaṭṭa-and-others",
+     "grounds": "compound: bhaṭṭa-ādya; Bhaṭṭa and others",
+     "morph": "m.nom.pl (compound)"
     },
     {
      "surface": "droṇakādīnāṃ",
-     "gloss": "dronaka-and-others-of",
-     "grounds": "droṇaka + ādi with sandhi as given",
-     "morph": "m.gen.pl"
+     "gloss": "of-droṇaka-and-others",
+     "grounds": "compound: droṇaka-ādi; genitive plural",
+     "morph": "m.gen.pl (compound)"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "adverb of comparison",
+     "grounds": "adverb of similarity",
      "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunctive particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "harasiddhikā",
-     "gloss": "harasiddhika",
-     "grounds": "proper/name noun",
+     "gloss": "harasiddhikā",
+     "grounds": "name of a figure or group",
      "morph": "f.nom.sg"
     }
    ],
-   "question": "Which figures are listed together as belonging to the group associated with Droṇaka and others, including Harasiddhikā?",
+   "question": "Which figures are listed alongside Bhaṭṭa and the followers of Droṇaka?",
    "premises": [
-    "Bhaṭṭa and others are named.",
-    "Droṇaka and others are named in the genitive.",
-    "Harasiddhikā is named likewise."
+    "Bhaṭṭa and others are named",
+    "Droṇaka and others are named",
+    "Harasiddhikā is likewise included"
    ],
-   "inference": "Bhaṭṭa and others, together with those of Droṇaka and others and with Harasiddhikā, form the listed set.",
-   "uncertainties": [
-    "The exact relation between these sets is not specified."
-   ],
-   "plain_english": "Bhaṭṭa and others, likewise those of Droṇaka and others, and Harasiddhikā."
+   "inference": "The list includes Bhaṭṭa and others, those of Droṇaka and others, and Harasiddhikā",
+   "uncertainties": [],
+   "plain_english": "Bhaṭṭa and others, those of Droṇaka and others, and likewise Harasiddhikā."
   },
   {
    "verse": 512,
    "rows": [
     {
      "surface": "bhaktiyuktā",
-     "gloss": "devotion-endowed",
-     "grounds": "fused compound bhakti-yukta; analyzed as given",
-     "morph": "m.nom.pl"
+     "gloss": "endowed-with-devotion",
+     "grounds": "compound: bhakti-yukta; joined with devotion",
+     "morph": "m.nom.pl (compound)"
     },
     {
      "surface": "samatvena",
-     "gloss": "by-equality",
-     "grounds": "instrumental of samatva",
-     "morph": "n.instr.sg"
+     "gloss": "with-equality",
+     "grounds": "instrumental of manner",
+     "morph": "n.inst.sg"
     },
     {
      "surface": "sarve",
      "gloss": "all",
-     "grounds": "adjectival pronoun",
+     "grounds": "universal subject",
      "morph": "m.nom.pl"
     },
     {
      "surface": "śṛṇvantu",
-     "gloss": "let-hear",
-     "grounds": "imperative of śru",
-     "morph": "3.pl.act.imp"
+     "gloss": "let-them-hear",
+     "grounds": "imperative exhortation",
+     "morph": "3.pl.act.imp (śru)"
     },
     {
      "surface": "kaulikam",
-     "gloss": "kaulika",
-     "grounds": "adjectival noun",
+     "gloss": "kaulika-teaching",
+     "grounds": "object to be heard",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "On what condition are all those endowed with devotion enjoined to hear the Kaulika teaching?",
+   "question": "How should all devoted listeners receive the Kaulika teaching?",
    "premises": [
-    "All are described as endowed with devotion.",
-    "They are said to act with equality.",
-    "They are enjoined to hear the Kaulika teaching."
+    "All are addressed as endowed with devotion",
+    "They are urged to hear with equality"
    ],
-   "inference": "Endowed with devotion and acting in equality, all are enjoined to hear the Kaulika teaching.",
-   "uncertainties": [
-    "The scope of 'all' is not specified by this verse alone."
-   ],
-   "plain_english": "All, endowed with devotion and in equality, let them hear the Kaulika teaching."
+   "inference": "The Kaulika teaching should be heard by all with devotion and equality",
+   "uncertainties": [],
+   "plain_english": "Let all, endowed with devotion and with equality, hear the Kaulika teaching."
   },
   {
    "verse": 513,
    "rows": [
     {
      "surface": "caturyugavibhāgena",
-     "gloss": "four-yuga-division",
-     "grounds": "fused compound catur-yuga-vibhāga; analyzed as given",
-     "morph": "m.instr.sg"
+     "gloss": "by-four-yuga-division",
+     "grounds": "compound: catur-yuga-vibhāga; division into four yugas",
+     "morph": "m.inst.sg (compound)"
     },
     {
      "surface": "avatārañ",
      "gloss": "incarnation",
-     "grounds": "avatāra + sandhi as given",
+     "grounds": "object declared; final nasal form as given",
      "morph": "m.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunctive particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "uditaṃ",
      "gloss": "declared",
-     "grounds": "past participle of vad/udīr",
+     "grounds": "past participle indicating statement",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mayā",
      "gloss": "by-me",
-     "grounds": "instrumental of mad",
-     "morph": "1.instr.sg"
+     "grounds": "agent of declaration",
+     "morph": "inst.sg"
     }
    ],
-   "question": "According to the division of the four yugas, what has been declared by the speaker concerning incarnation?",
+   "question": "How has the speaker declared the incarnation across cosmic time divisions?",
    "premises": [
-    "A division of the four yugas is taken as the basis.",
-    "Incarnation is brought into view.",
-    "The speaker declares it."
+    "Time is divided into four yugas",
+    "The incarnation is declared by the speaker"
    ],
-   "inference": "By the division of the four yugas, the speaker has declared the incarnation.",
-   "uncertainties": [
-    "The number and order of incarnations are not specified here."
-   ],
-   "plain_english": "By the division of the four yugas, the incarnation has also been declared by me."
+   "inference": "The speaker has declared the incarnation according to the division of the four yugas",
+   "uncertainties": [],
+   "plain_english": "By the division of the four yugas, the incarnation has been declared by me."
   },
   {
    "verse": 514,
    "rows": [
     {
      "surface": "tṛtīye",
-     "gloss": "third",
-     "grounds": "ordinal",
+     "gloss": "in-third",
+     "grounds": "locative indicating the third period",
      "morph": "m.loc.sg"
     },
     {
      "surface": "siddhāmṛtannāma",
-     "gloss": "siddhamrta-name",
-     "grounds": "fused compound siddhāmṛta-nāman; analyzed as given",
-     "morph": "n.nom.sg"
+     "gloss": "named-siddhāmṛta",
+     "grounds": "compound: siddhāmṛta-nāma; bearing the name Siddhāmṛta",
+     "morph": "m.nom.sg (compound)"
     },
     {
      "surface": "kalau",
      "gloss": "in-kali",
-     "grounds": "locative of kali",
+     "grounds": "locative indicating the Kali age",
      "morph": "m.loc.sg"
     },
     {
      "surface": "matsyodaraṃ",
      "gloss": "matsyodara",
-     "grounds": "proper/name noun",
+     "grounds": "name of the incarnation",
      "morph": "m.acc.sg"
     },
     {
      "surface": "priye",
-     "gloss": "beloved",
-     "grounds": "vocative of priya",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "In the third division and in the Kali age, which incarnation named Siddhāmṛta is indicated, addressed to the beloved?",
+   "question": "Which incarnations are identified in the third period and in the Kali age?",
    "premises": [
-    "A third instance is specified.",
-    "It occurs in the Kali age.",
-    "It is named Siddhāmṛta and identified as Matsyodara."
+    "The third period is mentioned with the name Siddhāmṛta",
+    "The Kali age is mentioned with Matsyodara"
    ],
-   "inference": "In the third place and in the Kali age, Matsyodara by name Siddhāmṛta appears.",
+   "inference": "Siddhāmṛta is identified in the third period and Matsyodara in the Kali age",
    "uncertainties": [
-    "The relation between Siddhāmṛta and Matsyodara is not made explicit here."
+    "Elliptical syntax leaves the verb implied"
    ],
-   "plain_english": "O beloved, in the third, in the Kali age, is Matsyodara, named Siddhāmṛta."
+   "plain_english": "O beloved, in the third is the one named Siddhāmṛta, and in Kali, Matsyodara."
   },
   {
    "verse": 515,
@@ -681,45 +650,44 @@
     {
      "surface": "etasmād",
      "gloss": "from-this",
-     "grounds": "ablative of etad",
+     "grounds": "ablative source",
      "morph": "n.abl.sg"
     },
     {
      "surface": "yoginīkaulān",
-     "gloss": "yoginikaula",
-     "grounds": "accusative compound yoginī-kaula; analyzed as given",
+     "gloss": "yoginīkaula",
+     "grounds": "name of the tradition or teaching",
      "morph": "m.acc.pl"
     },
     {
      "surface": "nāmnā",
      "gloss": "by-name",
-     "grounds": "instrumental of nāman",
-     "morph": "n.instr.sg"
+     "grounds": "instrumental indicating designation",
+     "morph": "n.inst.sg"
     },
     {
      "surface": "jñānasya",
-     "gloss": "knowledge-of",
-     "grounds": "genitive of jñāna",
+     "gloss": "of-knowledge",
+     "grounds": "genitive relation",
      "morph": "n.gen.sg"
     },
     {
      "surface": "nirṇītau",
      "gloss": "in-determination",
-     "grounds": "locative of nirṇīti",
-     "morph": "f.loc.sg"
+     "grounds": "locative of context or dual form as given",
+     "morph": "m.loc.sg"
     }
    ],
-   "question": "From what source and for what purpose are the Yoginīkaulas named in the determination of knowledge?",
+   "question": "What tradition is determined by name from this source in relation to knowledge?",
    "premises": [
-    "A source is indicated by etasmād.",
-    "The Yoginīkaulas are named.",
-    "This occurs in the determination of knowledge."
+    "A source is indicated as 'from this'",
+    "Yoginīkaula is named in the determination of knowledge"
    ],
-   "inference": "From this source, the Yoginīkaulas are designated by name in the determination of knowledge.",
+   "inference": "From this source, the Yoginīkaula is determined by name in the context of knowledge",
    "uncertainties": [
-    "The referent of 'this' is not recoverable from this verse alone."
+    "Form 'nirṇītau' is unusual; interpreted contextually as determination"
    ],
-   "plain_english": "From this, the Yoginīkaulas are known by name in the determination of knowledge."
+   "plain_english": "From this, in the determination of knowledge, the Yoginīkaula is known by name."
   },
   {
    "verse": 516,
@@ -727,14 +695,14 @@
     {
      "surface": "catvāraḥ",
      "gloss": "four",
-     "grounds": "numeral",
+     "grounds": "numeral subject",
      "morph": "m.nom.pl"
     },
     {
      "surface": "kulasiddhas",
      "gloss": "kula-accomplished",
-     "grounds": "compound kula-siddha; analyzed as given",
-     "morph": "m.nom.pl"
+     "grounds": "compound: kula-siddha; accomplished in the Kula",
+     "morph": "m.nom.pl (compound)"
     },
     {
      "surface": "tu",
@@ -745,36 +713,33 @@
     {
      "surface": "pṛcchamānā",
      "gloss": "being-asked",
-     "grounds": "present participle middle of praś",
-     "morph": "m.nom.pl"
+     "grounds": "present participle middle",
+     "morph": "m.nom.pl (prach)"
     },
     {
      "surface": "subhāvitā",
      "gloss": "well-conceived",
-     "grounds": "past participle of bhū with su",
-     "morph": "m.nom.pl"
+     "grounds": "compound: su-bhāvita; well cultivated or conceived",
+     "morph": "m.nom.pl (compound)"
     }
    ],
-   "question": "What is claimed of the four kula-accomplished ones who are being asked and are well conceived?",
+   "question": "What characterizes the four Kula-accomplished ones when they are questioned?",
    "premises": [
-    "Four kula-accomplished ones are named.",
-    "They are described as being asked.",
-    "They are described as well conceived."
+    "Four Kula-accomplished ones are mentioned",
+    "They are described as being asked and well-conceived"
    ],
-   "inference": "The four kula-accomplished ones, being asked, are well conceived.",
-   "uncertainties": [
-    "The object of the question put to them is not stated here."
-   ],
-   "plain_english": "Four kula-accomplished ones indeed, being asked, are well conceived."
+   "inference": "The four Kula-accomplished ones are well-conceived when questioned",
+   "uncertainties": [],
+   "plain_english": "Indeed, the four Kula-accomplished ones, when questioned, are well-conceived."
   },
   {
    "verse": 517,
    "rows": [
     {
      "surface": "yogābhyāsaratānān",
-     "gloss": "yoga-practice-delighting",
-     "grounds": "fused compound yoga-abhyāsa-rata; analyzed as given",
-     "morph": "m.acc.pl"
+     "gloss": "delighting-in-yoga-practice",
+     "grounds": "compound: yoga-abhyāsa-rata; devoted to yoga practice",
+     "morph": "m.gen.pl (compound)"
     },
     {
      "surface": "tu",
@@ -784,126 +749,121 @@
     },
     {
      "surface": "raktapālasya",
-     "gloss": "raktapala-of",
-     "grounds": "genitive of raktapāla",
+     "gloss": "of-raktapāla",
+     "grounds": "genitive of the name",
      "morph": "m.gen.sg"
     },
     {
      "surface": "nirṇayam",
      "gloss": "determination",
-     "grounds": "accusative of nirṇaya",
+     "grounds": "object or topic of determination",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "To whom is the determination of Raktapāla said to apply, described as delighting in the practice of yoga?",
+   "question": "Whose determination concerns those delighting in the practice of yoga?",
    "premises": [
-    "Those delighting in the practice of yoga are brought into view.",
-    "The determination belongs to Raktapāla.",
-    "That determination is directed to them."
+    "Practitioners delighting in yoga are mentioned",
+    "A determination of Raktapāla is indicated"
    ],
-   "inference": "The determination of Raktapāla applies indeed to those delighting in the practice of yoga.",
+   "inference": "The determination pertains to Raktapāla regarding those devoted to yoga practice",
    "uncertainties": [
-    "The content of the determination is not specified in this verse."
+    "Sentence is elliptical without an explicit verb"
    ],
-   "plain_english": "Indeed, to those delighting in the practice of yoga belongs the determination of Raktapāla."
+   "plain_english": "Indeed, the determination of Raktapāla concerning those delighting in yoga practice."
   },
   {
    "verse": 518,
    "rows": [
     {
      "surface": "ṣaṭmukho",
-     "gloss": "six-faced",
-     "grounds": "compound ṣaṭ-mukha; analyzed as given",
+     "gloss": "ṣaṭmukha",
+     "grounds": "name of a figure",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vaṭuko",
-     "gloss": "vatuka",
-     "grounds": "noun",
+     "gloss": "vaṭuka",
+     "grounds": "name or designation",
      "morph": "m.nom.sg"
     },
     {
      "surface": "jātāḥ",
      "gloss": "born",
-     "grounds": "past participle of jan",
+     "grounds": "past participle indicating origin",
      "morph": "m.nom.pl"
     },
     {
      "surface": "kṣetrapālakulāgame",
-     "gloss": "ksetrapala-kula-tradition",
-     "grounds": "fused compound kṣetrapāla-kula-āgama; analyzed as given",
-     "morph": "m.loc.sg"
+     "gloss": "in-kṣetrapāla-kula-tradition",
+     "grounds": "compound: kṣetrapāla-kula-āgama; in the tradition of the Kṣetrapāla lineage",
+     "morph": "m.loc.sg (compound)"
     }
    ],
-   "question": "In which tradition are the six-faced one and Vaṭuka said to have been born?",
+   "question": "In which tradition are Ṣaṭmukha and Vaṭuka said to have arisen?",
    "premises": [
-    "The six-faced one is named.",
-    "Vaṭuka is named.",
-    "They are said to have been born in the tradition of the Kṣetrapāla family."
+    "Ṣaṭmukha and Vaṭuka are named",
+    "They are said to be born in the Kṣetrapāla Kula tradition"
    ],
-   "inference": "The six-faced one and Vaṭuka were born in the tradition of the Kṣetrapāla family.",
+   "inference": "Ṣaṭmukha and Vaṭuka arose within the Kṣetrapāla Kula tradition",
    "uncertainties": [
-    "Whether 'born' is literal or initiatory is not specified here."
+    "Number agreement between singular names and plural 'jātāḥ' is ambiguous"
    ],
-   "plain_english": "The six-faced one and Vaṭuka were born in the tradition of the Kṣetrapāla family."
+   "plain_english": "Ṣaṭmukha and Vaṭuka were born in the tradition of the Kṣetrapāla Kula."
   },
   {
    "verse": 519,
    "rows": [
     {
      "surface": "vaṭukau",
-     "gloss": "two-vatukas",
-     "grounds": "dual of vaṭuka",
+     "gloss": "two-vaṭukas",
+     "grounds": "dual subject",
      "morph": "m.nom.du"
     },
     {
      "surface": "kiṃ",
      "gloss": "why",
-     "grounds": "interrogative pronoun",
-     "morph": "n.nom.sg"
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation particle",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "vijñātau",
      "gloss": "known",
-     "grounds": "past participle of vijñā",
+     "grounds": "past participle in dual",
      "morph": "m.nom.du"
     },
     {
      "surface": "sutau",
      "gloss": "two-sons",
-     "grounds": "dual of suta",
+     "grounds": "dual designation",
      "morph": "m.nom.du"
     },
     {
      "surface": "tulyaṃ",
      "gloss": "equal",
-     "grounds": "adjectival noun",
+     "grounds": "adverbial or neuter form indicating equality",
      "morph": "n.acc.sg"
     },
     {
      "surface": "varānane",
-     "gloss": "fair-faced",
-     "grounds": "vocative compound vara-ānana; analyzed as given",
-     "morph": "f.voc.sg"
+     "gloss": "o-fair-faced-one",
+     "grounds": "compound vocative: vara-ānana",
+     "morph": "f.voc.sg (compound)"
     }
    ],
-   "question": "Why are the two Vaṭukas, said to be equal sons, not known, addressed to one of fair face?",
+   "question": "Why are the two Vaṭukas not recognized as equally born sons?",
    "premises": [
-    "Two Vaṭukas are in view.",
-    "They are described as equal sons.",
-    "A question asks why they are not known."
+    "Two Vaṭukas are identified as two sons",
+    "Their equal recognition is questioned"
    ],
-   "inference": "A question is raised as to why the two equal sons, the Vaṭukas, are not known.",
-   "uncertainties": [
-    "The expected answer is not given in this verse."
-   ],
-   "plain_english": "O fair-faced one, why are the two Vaṭukas, equal sons, not known?"
+   "inference": "The verse challenges the lack of recognition of the two Vaṭukas as equal sons",
+   "uncertainties": [],
+   "plain_english": "O fair-faced one, why are the two Vaṭukas not known as two equal sons?"
   },
   {
    "verse": 520,
@@ -911,45 +871,44 @@
     {
      "surface": "tathya",
      "gloss": "truly",
-     "grounds": "adverb",
+     "grounds": "adverbial or vocative-like particle as given",
      "morph": "(indecl.)"
     },
     {
      "surface": "acyavanasaṃjātaṃ",
-     "gloss": "cyavana-born",
-     "grounds": "fused compound acyavana-saṃjāta; analyzed as given",
-     "morph": "n.nom.sg"
+     "gloss": "born-of-acyavana",
+     "grounds": "compound: acyavana-saṃjāta; born from Cyavana/Acyavana",
+     "morph": "m.acc.sg (compound)"
     },
     {
      "surface": "patitaṃ",
      "gloss": "fallen",
-     "grounds": "past participle of pat",
-     "morph": "n.nom.sg"
+     "grounds": "past participle indicating descent",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunctive particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahodadhau",
-     "gloss": "great-ocean",
-     "grounds": "locative compound mahā-udadhi; analyzed as given",
-     "morph": "m.loc.sg"
+     "gloss": "in-great-ocean",
+     "grounds": "compound: mahā-udadhi; in the great ocean",
+     "morph": "m.loc.sg (compound)"
     }
    ],
-   "question": "What is truly said to have been born of Cyavana and to have fallen into the great ocean?",
+   "question": "What event befell the one born of Acyavana in the great ocean?",
    "premises": [
-    "Something born of Cyavana is in view.",
-    "It is said to have fallen.",
-    "Its location is the great ocean."
+    "One born of Acyavana is mentioned",
+    "That one fell into the great ocean"
    ],
-   "inference": "That which was born of Cyavana truly fell into the great ocean.",
+   "inference": "The one born of Acyavana fell into the great ocean",
    "uncertainties": [
-    "The identity of that which fell is not specified by this verse alone."
+    "Reading 'acyavana' versus 'cyavana' follows the given surface"
    ],
-   "plain_english": "Truly, that born of Cyavana fell into the great ocean."
+   "plain_english": "Truly, the one born of Acyavana fell into the great ocean."
   },
   {
    "verse": 521,
@@ -957,31 +916,31 @@
     {
      "surface": "tantre",
      "gloss": "in-tantra",
-     "grounds": "locative of tantra",
+     "grounds": "locative indicating scripture",
      "morph": "n.loc.sg"
     },
     {
      "surface": "tantre",
      "gloss": "in-tantra",
-     "grounds": "locative of tantra",
+     "grounds": "repeated locative for emphasis",
      "morph": "n.loc.sg"
     },
     {
      "surface": "samākhyātaṃ",
      "gloss": "declared",
-     "grounds": "past participle of ākhyā",
+     "grounds": "past participle indicating narration",
      "morph": "n.nom.sg"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "comparative particle",
+     "grounds": "particle introducing manner",
      "morph": "(indecl.)"
     },
     {
      "surface": "śāpan",
      "gloss": "curse",
-     "grounds": "accusative of śāpa",
+     "grounds": "object obtained; form as given",
      "morph": "m.acc.sg"
     },
     {
@@ -993,21 +952,18 @@
     {
      "surface": "prāptavān",
      "gloss": "obtained",
-     "grounds": "past active of prā",
-     "morph": "m.nom.sg"
+     "grounds": "perfect active participle indicating receipt",
+     "morph": "m.nom.sg (prāp)"
     }
    ],
-   "question": "In which texts and in what manner is it declared that a curse was indeed obtained?",
+   "question": "What does each tantra declare about the curse that was obtained?",
    "premises": [
-    "It is declared in a tantra, and again in a tantra.",
-    "A curse is brought into view.",
-    "Someone is said to have obtained that curse."
+    "The matter is declared in tantra after tantra",
+    "A curse was indeed obtained"
    ],
-   "inference": "In the tantras it is declared that someone indeed obtained a curse, as stated.",
-   "uncertainties": [
-    "The identity of the one who obtained the curse is not specified here."
-   ],
-   "plain_english": "In tantra after tantra it is declared that a curse was indeed obtained, as stated."
+   "inference": "The tantras declare how the curse was obtained",
+   "uncertainties": [],
+   "plain_english": "In tantra after tantra it is declared how he indeed obtained a curse."
   },
   {
    "verse": 522,
@@ -1015,45 +971,42 @@
     {
      "surface": "kathayāmi",
      "gloss": "i-tell",
-     "grounds": "present active of kath",
-     "morph": "1.sg.act.prs"
+     "grounds": "present tense declaration by speaker",
+     "morph": "1.sg.act.pres (kath)"
     },
     {
      "surface": "samāsena",
      "gloss": "in-brief",
-     "grounds": "instrumental of samāsa",
-     "morph": "m.instr.sg"
+     "grounds": "instrumental of manner",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "comparative particle",
+     "grounds": "particle introducing manner",
      "morph": "(indecl.)"
     },
     {
      "surface": "sidhyati",
      "gloss": "succeeds",
-     "grounds": "present active of sidh",
-     "morph": "3.sg.act.prs"
+     "grounds": "present tense indicating accomplishment",
+     "morph": "3.sg.act.pres (sidh)"
     },
     {
      "surface": "sādhake",
      "gloss": "for-practitioner",
-     "grounds": "locative of sādhaka",
+     "grounds": "locative indicating the practitioner",
      "morph": "m.loc.sg"
     }
    ],
-   "question": "In what manner does the speaker intend to tell briefly how success is attained for the practitioner?",
+   "question": "What does the speaker promise to explain briefly for the practitioner's success?",
    "premises": [
-    "The speaker says they will tell.",
-    "The telling is said to be in brief.",
-    "The topic is how success is attained for the practitioner."
+    "The speaker will tell in brief",
+    "Success occurs for the practitioner"
    ],
-   "inference": "The speaker will tell briefly how success is attained for the practitioner.",
-   "uncertainties": [
-    "The method of success is not specified in this verse."
-   ],
-   "plain_english": "I shall tell briefly how success is attained for the practitioner."
+   "inference": "The speaker will briefly explain how success is achieved by the practitioner",
+   "uncertainties": [],
+   "plain_english": "I tell briefly how it succeeds for the practitioner."
   },
   {
    "verse": 523,
@@ -1061,85 +1014,79 @@
     {
      "surface": "gṛhṇa",
      "gloss": "seize",
-     "grounds": "imperative of grah",
-     "morph": "2.sg.act.imp"
+     "grounds": "imperative command",
+     "morph": "2.sg.act.imp (grah)"
     },
     {
      "surface": "gṛhṇeti",
      "gloss": "seize-thus",
-     "grounds": "gṛhṇa + iti with sandhi as given",
-     "morph": "(indecl.)"
+     "grounds": "imperative with quotative particle iti fused in form as given",
+     "morph": "2.sg.act.imp (grah) + (indecl.)"
     },
     {
      "surface": "vaktavyaṃ",
      "gloss": "to-be-said",
-     "grounds": "gerundive of vac",
+     "grounds": "gerundive indicating obligation",
      "morph": "n.nom.sg"
     },
     {
      "surface": "gṛhṇāti",
-     "gloss": "he-seizes",
-     "grounds": "present active of grah",
-     "morph": "3.sg.act.prs"
+     "gloss": "seizes",
+     "grounds": "present tense result",
+     "morph": "3.sg.act.pres (grah)"
     },
     {
      "surface": "vaṭukas",
-     "gloss": "vatuka",
-     "grounds": "nominative of vaṭuka",
+     "gloss": "vaṭuka",
+     "grounds": "subject who seizes",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "thus",
-     "grounds": "adverb",
+     "grounds": "adverb indicating manner",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What verbal formula is enjoined to be said, and what is claimed to follow from it for Vaṭuka?",
+   "question": "What command must be spoken so that Vaṭuka seizes as intended?",
    "premises": [
-    "The formula 'seize, seize' is enjoined to be said.",
-    "It is said that Vaṭuka seizes thus.",
-    "A prescribed utterance is linked to that action."
+    "The command 'seize, seize' must be spoken",
+    "Vaṭuka then seizes accordingly"
    ],
-   "inference": "One is to say 'seize, seize', for thus Vaṭuka seizes.",
-   "uncertainties": [
-    "The ritual context of this formula is not specified here."
-   ],
-   "plain_english": "'Seize, seize' is to be said; thus Vaṭuka seizes."
+   "inference": "Speaking the command causes Vaṭuka to seize",
+   "uncertainties": [],
+   "plain_english": "One must say, 'Seize, seize,' and thus Vaṭuka seizes."
   },
   {
    "verse": 524,
    "rows": [
     {
      "surface": "raktāmbaraparīdhānaṃ",
-     "gloss": "red-garment-clad",
-     "grounds": "fused compound rakta-ambara-parīdhāna; analyzed as given",
-     "morph": "m.acc.sg"
+     "gloss": "clad-in-red-garment",
+     "grounds": "compound: rakta-ambara-parīdhāna; wearing red garments",
+     "morph": "m.acc.sg (compound)"
     },
     {
      "surface": "vaṭukaṃ",
-     "gloss": "vatuka",
-     "grounds": "accusative of vaṭuka",
+     "gloss": "vaṭuka",
+     "grounds": "object described",
      "morph": "m.acc.sg"
     },
     {
      "surface": "vighnamardakam",
      "gloss": "obstacle-crusher",
-     "grounds": "compound vighna-mardaka; analyzed as given",
-     "morph": "m.acc.sg"
+     "grounds": "compound: vighna-mardaka; crusher of obstacles",
+     "morph": "m.acc.sg (compound)"
     }
    ],
-   "question": "Which figure, clad in red garments and a crusher of obstacles, is brought into view in this description?",
+   "question": "How is Vaṭuka described in terms of attire and function?",
    "premises": [
-    "A figure clad in red garments is named.",
-    "Vaṭuka is named as that figure.",
-    "He is described as a crusher of obstacles."
+    "Vaṭuka is clad in red garments",
+    "Vaṭuka is a crusher of obstacles"
    ],
-   "inference": "Vaṭuka, clad in red garments, is the crusher of obstacles.",
-   "uncertainties": [
-    "The function assigned to him is not elaborated in this verse."
-   ],
-   "plain_english": "Vaṭuka, clad in red garments, the crusher of obstacles."
+   "inference": "Vaṭuka is characterized as red-clad and an obstacle-crusher",
+   "uncertainties": [],
+   "plain_english": "Vaṭuka, clad in red garments, is the crusher of obstacles."
   }
  ]
 }

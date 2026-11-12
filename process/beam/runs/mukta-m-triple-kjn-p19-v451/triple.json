@@ -7,44 +7,45 @@
     {
      "surface": "pañcāram",
      "gloss": "five-spoked",
-     "grounds": "describes a wheel or diagram with five spokes",
-     "morph": "compound"
+     "grounds": "adjective describing a wheel or diagram",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "aṣṭapatrañ",
      "gloss": "eight-petaled",
-     "grounds": "describes a lotus with eight petals; final nasal shows sandhi",
-     "morph": "compound"
+     "grounds": "compound adjective; final anusvāra written as ñ before ca in sandhi",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "ṣoḍaśāraṃ",
      "gloss": "sixteen-spoked",
-     "grounds": "describes a wheel with sixteen spokes",
-     "morph": "compound"
+     "grounds": "compound adjective describing a wheel",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "suśobhanam",
      "gloss": "very-beautiful",
-     "grounds": "qualifies the described structure",
+     "grounds": "adjective qualifying the described forms",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What beautiful diagrammatic structures are to be contemplated in this practice?",
+   "question": "What beautifully formed wheel and lotus configurations are to be contemplated in this practice?",
    "premises": [
-    "A five-spoked structure is included.",
-    "An eight-petaled structure is included.",
-    "A sixteen-spoked structure is included.",
-    "The whole configuration is very beautiful."
+    "A five-spoked form is specified",
+    "An eight-petaled form is specified",
+    "A sixteen-spoked form is described as very beautiful"
    ],
-   "inference": "The contemplative form comprises five-spoked, eight-petaled, and sixteen-spoked elements of great beauty.",
-   "uncertainties": [],
-   "plain_english": "It is five-spoked, eight-petaled, and sixteen-spoked, and very beautiful."
+   "inference": "The contemplative structure includes five-spoked, eight-petaled, and sixteen-spoked beautiful forms",
+   "uncertainties": [
+    "The exact referent of these forms as wheels or lotuses is partly implicit"
+   ],
+   "plain_english": "Contemplate the beautiful five-spoked, eight-petaled, and sixteen-spoked forms."
   },
   {
    "verse": 452,
@@ -52,20 +53,20 @@
     {
      "surface": "aṣṭārapadmapatrañ",
      "gloss": "eight-spoked-lotus-petaled",
-     "grounds": "compound describing a form with eight spokes and lotus petals; final nasal shows sandhi",
-     "morph": "compound"
+     "grounds": "compound describing a combined wheel-lotus form; final anusvāra written as ñ before ca",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "ṣoḍaśaikaṃ",
      "gloss": "sixteen-plus-one",
-     "grounds": "compound indicating seventeen elements or a sixteen-and-one configuration",
-     "morph": "compound"
+     "grounds": "compound indicating a form with seventeen elements",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "varānane",
@@ -74,17 +75,17 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What additional configurations complete the sacred diagram addressed to the goddess?",
+   "question": "What additional combined lotus-wheel configurations are revealed to the beautiful-faced goddess?",
    "premises": [
-    "An eight-spoked lotus-petaled form is present.",
-    "A sixteen-plus-one configuration is present.",
-    "The goddess is directly addressed."
+    "An eight-spoked lotus-petaled form is named",
+    "A sixteen-plus-one form is named",
+    "The goddess is directly addressed"
    ],
-   "inference": "The sacred diagram further includes an eight-spoked lotus-petaled form and a sixteen-plus-one configuration.",
+   "inference": "Further contemplative configurations include an eight-spoked lotus-petaled form and a seventeenfold form",
    "uncertainties": [
-    "The exact referent of ṣoḍaśaikaṃ is ambiguous."
+    "The precise structure of the sixteen-plus-one form is not fully specified"
    ],
-   "plain_english": "O beautiful-faced one, it also has an eight-spoked lotus-petaled form and a sixteen-plus-one configuration."
+   "plain_english": "O beautiful-faced one, contemplate also the eight-spoked lotus-petaled form and the form of sixteen plus one."
   },
   {
    "verse": 453,
@@ -92,13 +93,13 @@
     {
      "surface": "ṣoḍaśākṣarabhinnantu",
      "gloss": "divided-by-sixteen-syllables",
-     "grounds": "compound describing differentiation into sixteen syllables; final -tu shows sandhi with tu",
-     "morph": "compound"
+     "grounds": "compound adjective with emphatic particle tu fused in sandhi",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "ātmā",
      "gloss": "self",
-     "grounds": "the subject identified as the self",
+     "grounds": "subject of the statement",
      "morph": "m.nom.sg"
     },
     {
@@ -110,19 +111,19 @@
     {
      "surface": "prāṇasaṃyutaḥ",
      "gloss": "united-with-breath",
-     "grounds": "describes the self as joined with vital breath",
+     "grounds": "compound adjective describing the self",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "How is the self constituted in relation to syllables and vital breath?",
+   "question": "How is the self characterized in relation to syllabic division and vital breath?",
    "premises": [
-    "The self is differentiated by sixteen syllables.",
-    "The self is united with breath.",
-    "This constitution is affirmed emphatically."
+    "The self is divided by sixteen syllables",
+    "The self is united with breath",
+    "The statement is given with emphasis"
    ],
-   "inference": "The self is indeed constituted as sixteen-syllabled and united with vital breath.",
+   "inference": "The self is to be understood as sixteenfold in syllabic articulation and conjoined with vital breath",
    "uncertainties": [],
-   "plain_english": "Indeed, the self is divided into sixteen syllables and united with the vital breath."
+   "plain_english": "Indeed, the self is divided into sixteen syllables and united with the breath."
   },
   {
    "verse": 454,
@@ -130,13 +131,13 @@
     {
      "surface": "catuṣkalaṃ",
      "gloss": "four-parted",
-     "grounds": "describes division into four parts",
+     "grounds": "compound adjective describing the self or its state",
      "morph": "n.nom.sg"
     },
     {
      "surface": "punar",
      "gloss": "again",
-     "grounds": "indicates further specification",
+     "grounds": "adverb indicating further specification",
      "morph": "(indecl.)"
     },
     {
@@ -148,7 +149,7 @@
     {
      "surface": "anyathā",
      "gloss": "otherwise",
-     "grounds": "indicates an alternative condition",
+     "grounds": "adverb indicating an alternative",
      "morph": "(indecl.)"
     },
     {
@@ -164,13 +165,13 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Can the described fourfold constitution of the self be otherwise under any circumstance?",
+   "question": "Can the fourfold division of the self be understood in any alternative manner?",
    "premises": [
-    "The constitution is again specified as four-parted.",
-    "The goddess is addressed directly.",
-    "Any other condition is absolutely negated."
+    "The self is again described as four-parted",
+    "Any other way is negated",
+    "The negation is absolute in time"
    ],
-   "inference": "The self's fourfold constitution admits no alternative whatsoever.",
+   "inference": "The self must be understood as four-parted and never otherwise",
    "uncertainties": [],
    "plain_english": "O goddess, it is again four-parted, and never otherwise."
   },
@@ -180,41 +181,41 @@
     {
      "surface": "karṇikāyā",
      "gloss": "in-pericarp",
-     "grounds": "locative indicating placement in the lotus pericarp",
+     "grounds": "locative indicating the place of placement",
      "morph": "f.loc.sg"
     },
     {
      "surface": "ātmanaḥ",
      "gloss": "of-self",
-     "grounds": "refers to the self as object of placement",
+     "grounds": "genitive indicating the object placed or conceived",
      "morph": "m.gen.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-placed",
-     "grounds": "absolutive indicating prior action",
-     "morph": "(gerund, √kṛ)"
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund), root kṛ"
     },
     {
      "surface": "ūrddhacakreṇa",
      "gloss": "by-upper-wheel",
-     "grounds": "instrumental indicating the means of flooding",
+     "grounds": "instrumental compound indicating the means of flooding",
      "morph": "n.ins.sg"
     },
     {
      "surface": "plāvayet",
      "gloss": "one-should-flood",
-     "grounds": "prescribes the act of flooding or suffusing",
-     "morph": "3.sg.optative-active (√plu)"
+     "grounds": "optative prescribing the ritual or contemplative act",
+     "morph": "3.sg.act-optative, root plu"
     }
    ],
-   "question": "By what means should the self placed in the pericarp be ritually flooded?",
+   "question": "By what contemplative procedure should the self be flooded from the pericarp upward?",
    "premises": [
-    "The self is to be placed in the pericarp.",
-    "The upper wheel serves as the instrument.",
-    "Flooding is the prescribed action."
+    "The self is to be placed in the pericarp",
+    "The upper wheel serves as the instrument",
+    "Flooding is prescribed as the action"
    ],
-   "inference": "Having placed the self in the pericarp, one should flood it by means of the upper wheel.",
+   "inference": "After placing the self in the pericarp, one should flood it by means of the upper wheel",
    "uncertainties": [],
    "plain_english": "Having placed the self in the pericarp, one should flood it by means of the upper wheel."
   },
@@ -224,8 +225,8 @@
     {
      "surface": "dviraṣṭavarṣam",
      "gloss": "sixteen-years",
-     "grounds": "compound indicating twice eight years, describing the self's form",
-     "morph": "compound"
+     "grounds": "compound adjective indicating age or form of sixteen years",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "ātmānaṃ",
@@ -236,25 +237,27 @@
     {
      "surface": "adhaścakre",
      "gloss": "in-lower-wheel",
-     "grounds": "locative indicating placement in the lower wheel",
+     "grounds": "locative compound indicating placement",
      "morph": "n.loc.sg"
     },
     {
      "surface": "vyavasthitam",
      "gloss": "situated",
-     "grounds": "describes the self as established in that location",
+     "grounds": "past participle describing the self's position",
      "morph": "m.acc.sg"
     }
    ],
    "question": "In what form and location should the self be visualized within the lower wheel?",
    "premises": [
-    "The self is visualized as sixteen years old.",
-    "The self is situated in the lower wheel.",
-    "This placement defines the contemplative object."
+    "The self is visualized as sixteen years old",
+    "The self is situated in the lower wheel",
+    "This visualization is specified as an object of practice"
    ],
-   "inference": "The self should be contemplated as sixteen years old and situated in the lower wheel.",
-   "uncertainties": [],
-   "plain_english": "One should contemplate the self as sixteen years old, situated in the lower wheel."
+   "inference": "The practitioner should visualize the self as sixteen years old situated in the lower wheel",
+   "uncertainties": [
+    "Whether dviraṣṭavarṣam refers to age or a symbolic measure is not explicit"
+   ],
+   "plain_english": "Visualize the self as sixteen years old, situated in the lower wheel."
   },
   {
    "verse": 457,
@@ -262,35 +265,35 @@
     {
      "surface": "plāvayet",
      "gloss": "one-should-flood",
-     "grounds": "prescribes the act of flooding or suffusing",
-     "morph": "3.sg.optative-active (√plu)"
+     "grounds": "optative prescribing the act",
+     "morph": "3.sg.act-optative, root plu"
     },
     {
      "surface": "pūrvacakreṇa",
      "gloss": "by-eastern-wheel",
-     "grounds": "instrumental indicating the means of flooding",
+     "grounds": "instrumental compound indicating the means",
      "morph": "n.ins.sg"
     },
     {
      "surface": "pūrṇacandranibhaṃ",
      "gloss": "resembling-full-moon",
-     "grounds": "describes the body's radiant appearance",
-     "morph": "compound"
+     "grounds": "compound adjective describing the body",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tanu",
      "gloss": "body",
-     "grounds": "object described as moon-like",
+     "grounds": "object made radiant or flooded",
      "morph": "n.acc.sg"
     }
    ],
    "question": "How should the body be transformed through flooding by the eastern wheel?",
    "premises": [
-    "Flooding is performed by the eastern wheel.",
-    "The body becomes the object of this flooding.",
-    "The resulting form resembles the full moon."
+    "Flooding is prescribed",
+    "The eastern wheel is the instrument",
+    "The body becomes like the full moon"
    ],
-   "inference": "One should flood the body by the eastern wheel so that it resembles the full moon.",
+   "inference": "One should flood the body by the eastern wheel so that it resembles the full moon",
    "uncertainties": [],
    "plain_english": "One should flood the body by means of the eastern wheel, making it resemble the full moon."
   },
@@ -300,43 +303,43 @@
     {
      "surface": "plāvayitvā",
      "gloss": "having-flooded",
-     "grounds": "absolutive indicating completion of flooding",
-     "morph": "(gerund, √plu)"
+     "grounds": "absolutive expressing completion of prior act",
+     "morph": "(gerund), root plu"
     },
     {
      "surface": "jagat",
      "gloss": "world",
-     "grounds": "object of the flooding",
+     "grounds": "object of flooding",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "qualifies the world as entirety",
+     "grounds": "adjective qualifying the world",
      "morph": "n.acc.sg"
     },
     {
      "surface": "trayacakraṃ",
      "gloss": "three-wheels",
-     "grounds": "object of practice, referring to the triad of wheels",
+     "grounds": "compound indicating the triadic structure to be practiced",
      "morph": "n.acc.sg"
     },
     {
      "surface": "samabhyaset",
      "gloss": "one-should-practice",
-     "grounds": "prescribes continued practice",
-     "morph": "3.sg.optative-active (sam-abhi-√as)"
+     "grounds": "optative prescribing continued practice",
+     "morph": "3.sg.act-optative, root abhyas with sam"
     }
    ],
-   "question": "What practice must follow after flooding the entire world with radiance?",
+   "question": "What practice should follow after flooding the entire world with contemplative energy?",
    "premises": [
-    "The entire world is first flooded.",
-    "The three wheels remain the focus.",
-    "Continued practice is prescribed."
+    "The entire world is to be flooded",
+    "This flooding is completed first",
+    "Practice of the three wheels is prescribed afterward"
    ],
-   "inference": "After flooding the whole world, one should practice with the three wheels.",
+   "inference": "After flooding the whole world, one should practice the three wheels",
    "uncertainties": [],
-   "plain_english": "Having flooded the entire world, one should practice with the three wheels."
+   "plain_english": "Having flooded the entire world, one should practice the three wheels."
   },
   {
    "verse": 459,
@@ -350,19 +353,19 @@
     {
      "surface": "garbhalīnaṃ",
      "gloss": "hidden-in-womb",
-     "grounds": "describes a state of being concealed within",
-     "morph": "compound"
+     "grounds": "compound adjective describing a concealed state",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "saṃhārantu",
      "gloss": "but-dissolution",
-     "grounds": "refers to dissolution; final -tu shows sandhi with tu",
-     "morph": "m.nom.sg"
+     "grounds": "noun with emphatic particle tu fused in sandhi",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "kutaḥ",
      "gloss": "whence",
-     "grounds": "interrogative adverb questioning possibility",
+     "grounds": "interrogative adverb expressing impossibility",
      "morph": "(indecl.)"
     },
     {
@@ -374,15 +377,15 @@
    ],
    "question": "How can dissolution occur for what lies hidden within the subtle stalk?",
    "premises": [
-    "Something is hidden within the stalk.",
-    "Dissolution is considered in relation to it.",
-    "The possibility of dissolution is questioned."
+    "Something is hidden in the stalk as in a womb",
+    "Dissolution of that hidden reality is questioned",
+    "The question implies impossibility"
    ],
-   "inference": "For what is hidden in the stalk, dissolution is not possible.",
+   "inference": "For what is hidden within the stalk, dissolution is not possible",
    "uncertainties": [
-    "The exact referent hidden in the stalk is not explicitly named."
+    "The exact referent hidden in the stalk is context-dependent"
    ],
-   "plain_english": "O beloved, how could there be dissolution for that which lies hidden in the stalk?"
+   "plain_english": "O beloved, how could there be dissolution for that which lies hidden in the stalk like in a womb?"
   },
   {
    "verse": 460,
@@ -390,51 +393,51 @@
     {
      "surface": "akṣayo",
      "gloss": "indestructible",
-     "grounds": "predicate describing imperishable nature",
+     "grounds": "adjective describing the enduring nature",
      "morph": "m.nom.sg"
     },
     {
      "surface": "hy",
      "gloss": "indeed",
-     "grounds": "emphatic particle; sandhi form of hi",
+     "grounds": "particle written as hy in sandhi for hi",
      "morph": "(indecl.)"
     },
     {
      "surface": "amaro",
      "gloss": "immortal",
-     "grounds": "predicate describing deathless nature",
+     "grounds": "adjective denying death",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nityo",
      "gloss": "eternal",
-     "grounds": "predicate describing permanence",
+     "grounds": "adjective affirming permanence",
      "morph": "m.nom.sg"
     },
     {
      "surface": "yathārhantiṣṭa",
      "gloss": "stands-as-worthy",
-     "grounds": "compound expressing abiding in a fitting manner",
-     "morph": "compound"
+     "grounds": "fused form expressing established proper standing",
+     "morph": "3.sg.act-present, root sthā with yathārham"
     },
     {
      "surface": "mānasaḥ",
      "gloss": "mental",
-     "grounds": "describes the mental or mind-born principle",
+     "grounds": "adjective indicating the mental or mind-born nature",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What enduring qualities characterize the mental principle that abides fittingly?",
+   "question": "What enduring qualities characterize the mental reality that stands in its proper state?",
    "premises": [
-    "The mental principle is indestructible.",
-    "The mental principle is immortal.",
-    "The mental principle is eternal and abides as worthy."
+    "It is indestructible",
+    "It is immortal and eternal",
+    "It stands as is fitting in a mental mode"
    ],
-   "inference": "The mental principle is indestructible, immortal, eternal, and abides in its proper state.",
+   "inference": "The mental reality is indestructible, immortal, eternal, and abides in its proper state",
    "uncertainties": [
-    "The precise parsing of yathārhantiṣṭa is uncertain."
+    "The exact parsing of yathārhantiṣṭa is ambiguous in this fused form"
    ],
-   "plain_english": "Indeed, the mental principle is indestructible, immortal, eternal, and abides as is fitting."
+   "plain_english": "Indeed, it is indestructible, immortal, eternal, and stands in its proper mental state."
   },
   {
    "verse": 461,
@@ -442,20 +445,20 @@
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "temporal adverb indicating that state",
+     "grounds": "temporal adverb indicating the resulting state",
      "morph": "(indecl.)"
     },
     {
      "surface": "sau",
      "gloss": "he",
-     "grounds": "demonstrative pronoun referring to the practitioner or principle",
+     "grounds": "demonstrative pronoun referring to the realized one",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tiṣṭhate",
      "gloss": "stands",
-     "grounds": "describes abiding or remaining",
-     "morph": "3.sg.present-middle (√sthā)"
+     "grounds": "verb indicating abiding presence",
+     "morph": "3.sg.mid-present, root sthā"
     },
     {
      "surface": "bhadre",
@@ -472,25 +475,25 @@
     {
      "surface": "sārddhaṃ",
      "gloss": "together",
-     "grounds": "adverb indicating togetherness",
+     "grounds": "adverb expressing union or accompaniment",
      "morph": "(indecl.)"
     },
     {
      "surface": "svareśvari",
      "gloss": "o-lady-of-sound",
-     "grounds": "vocative address to the goddess of sound",
+     "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "With whom does the realized one abide in that exalted state?",
+   "question": "With whom does the realized practitioner abide when established in that supreme state?",
    "premises": [
-    "At that time he abides.",
-    "He abides together with the speaker.",
-    "The goddess is addressed as lady of sound."
+    "A specific resulting time is indicated",
+    "The practitioner stands in that state",
+    "Abiding is together with the speaker goddess"
    ],
-   "inference": "In that state he abides together with the divine speaker.",
+   "inference": "In that state the practitioner abides together with the goddess",
    "uncertainties": [],
-   "plain_english": "Then he abides, O fortunate one, together with me, O lady of sound."
+   "plain_english": "Then, O fortunate one, O lady of sound, he abides together with me."
   },
   {
    "verse": 462,
@@ -498,20 +501,20 @@
     {
      "surface": "tadvat",
      "gloss": "likewise",
-     "grounds": "comparative adverb indicating similarity",
+     "grounds": "adverb indicating similarity to the divine state",
      "morph": "(indecl.)"
     },
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "demonstrative pronoun referring to that one",
+     "grounds": "pronoun referring to the practitioner",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhavate",
      "gloss": "becomes",
-     "grounds": "describes transformation or attainment",
-     "morph": "3.sg.present-middle (√bhū)"
+     "grounds": "verb indicating transformation",
+     "morph": "3.sg.mid-present, root bhū"
     },
     {
      "surface": "devi",
@@ -522,19 +525,19 @@
     {
      "surface": "sṛṣṭisaṃhārakārakaḥ",
      "gloss": "maker-of-creation-dissolution",
-     "grounds": "compound describing agency over creation and dissolution",
+     "grounds": "compound noun describing the attained power",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What cosmic agency does the realized one attain in that state?",
+   "question": "What cosmic agency does the practitioner attain by becoming like the divine?",
    "premises": [
-    "He becomes likewise in that state.",
-    "He attains a specific causal role.",
-    "That role encompasses creation and dissolution."
+    "The practitioner becomes like that state",
+    "The attained role is explicitly named",
+    "The role involves both creation and dissolution"
    ],
-   "inference": "He becomes the agent of both creation and dissolution.",
+   "inference": "The practitioner becomes an agent of creation and dissolution",
    "uncertainties": [],
-   "plain_english": "Likewise, O goddess, he becomes the maker of creation and dissolution."
+   "plain_english": "Likewise, O goddess, he becomes the agent of creation and dissolution."
   },
   {
    "verse": 463,
@@ -542,25 +545,25 @@
     {
      "surface": "vajravat",
      "gloss": "like-thunderbolt",
-     "grounds": "comparative adverb indicating adamantine firmness",
+     "grounds": "adverbial comparison indicating adamantine stability",
      "morph": "(indecl.)"
     },
     {
      "surface": "tiṣṭhata",
      "gloss": "stands",
-     "grounds": "describes the body's abiding state",
-     "morph": "3.sg.present-active (√sthā)"
+     "grounds": "verb indicating enduring stability",
+     "morph": "3.sg.act-present, root sthā"
     },
     {
      "surface": "dehaṃ",
      "gloss": "body",
-     "grounds": "subject or object described as standing firm",
+     "grounds": "subject or locus described as stable",
      "morph": "n.nom.sg"
     },
     {
      "surface": "saṃhārantu",
      "gloss": "but-dissolution",
-     "grounds": "refers to dissolution; final -tu shows sandhi with tu",
+     "grounds": "noun with emphatic particle tu fused in sandhi",
      "morph": "m.nom.sg"
     },
     {
@@ -582,15 +585,17 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Can the body that stands firm like a thunderbolt undergo dissolution?",
+   "question": "Why does the adamantine body remain beyond dissolution in this realized condition?",
    "premises": [
-    "The body stands firm like a thunderbolt.",
-    "Dissolution is considered for this body.",
-    "Dissolution is emphatically negated."
+    "The body stands like a thunderbolt",
+    "Dissolution is explicitly negated",
+    "The negation is emphatic"
    ],
-   "inference": "The thunderbolt-like body does not undergo dissolution.",
-   "uncertainties": [],
-   "plain_english": "The body stands like a thunderbolt, and indeed, O beloved, there is no dissolution for it."
+   "inference": "The thunderbolt-like body does not undergo dissolution",
+   "uncertainties": [
+    "The form tiṣṭhata is nonstandard and may reflect textual transmission"
+   ],
+   "plain_english": "The body stands like a thunderbolt; indeed, O beloved, there is no dissolution."
   },
   {
    "verse": 464,
@@ -610,7 +615,7 @@
     {
      "surface": "kathitaṃ",
      "gloss": "told",
-     "grounds": "past passive participle indicating declaration",
+     "grounds": "past participle indicating transmission",
      "morph": "n.nom.sg"
     },
     {
@@ -622,7 +627,7 @@
     {
      "surface": "aprameyam",
      "gloss": "immeasurable",
-     "grounds": "describes the teaching as beyond measure",
+     "grounds": "adjective describing the teaching's scope",
      "morph": "n.nom.sg"
     },
     {
@@ -632,13 +637,13 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "How has the immeasurable teaching been presented within the scripture?",
+   "question": "How is the immeasurable teaching presented within the scriptural tradition?",
    "premises": [
-    "The teaching has been told by the speaker.",
-    "It is presented in the scripture.",
-    "It is immeasurable and expressed in many ways."
+    "The teaching has been told by the speaker",
+    "It is presented in scripture",
+    "It is immeasurable and expressed in many ways"
    ],
-   "inference": "The speaker has declared this immeasurable teaching in the scripture in many ways.",
+   "inference": "The scriptural teaching is immeasurable and has been conveyed in manifold ways",
    "uncertainties": [],
    "plain_english": "This immeasurable teaching has been told by me in the scripture in many ways."
   },
@@ -648,7 +653,7 @@
     {
      "surface": "etat",
      "gloss": "this",
-     "grounds": "demonstrative pronoun referring to the teaching",
+     "grounds": "demonstrative pronoun referring to the doctrine",
      "morph": "n.nom.sg"
     },
     {
@@ -660,13 +665,13 @@
     {
      "surface": "kulasadbhāvam",
      "gloss": "true-nature-of-kula",
-     "grounds": "compound denoting the essential reality of the Kula",
+     "grounds": "compound noun naming the revealed essence",
      "morph": "m.acc.sg"
     },
     {
      "surface": "mayā",
      "gloss": "by-me",
-     "grounds": "instrumental indicating the speaker as agent",
+     "grounds": "instrumental indicating the revealer",
      "morph": "1.sg.ins"
     },
     {
@@ -678,17 +683,17 @@
     {
      "surface": "prakāśitam",
      "gloss": "revealed",
-     "grounds": "past passive participle indicating revelation",
+     "grounds": "past participle indicating disclosure",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What essential truth of the Kula has been revealed to the listener?",
+   "question": "What essential truth of the Kula has been revealed to the disciple?",
    "premises": [
-    "The true nature of the Kula is the subject.",
-    "It has been revealed by the speaker.",
-    "It has been revealed to the listener."
+    "The speaker has revealed something to the disciple",
+    "The content is the true nature of Kula",
+    "The recipient is emphasized twice"
    ],
-   "inference": "The speaker has revealed the true nature of the Kula to the listener.",
+   "inference": "The true nature of Kula has been revealed to the disciple by the speaker",
    "uncertainties": [],
    "plain_english": "This true nature of the Kula has been revealed by me to you."
   },
@@ -704,37 +709,37 @@
     {
      "surface": "paramavajrīkaraṇaṃ",
      "gloss": "supreme-adamantine-making",
-     "grounds": "compound naming the process or chapter title",
+     "grounds": "compound naming the chapter's subject",
      "morph": "n.nom.sg"
     },
     {
      "surface": "nāma",
      "gloss": "named",
-     "grounds": "indeclinable indicating designation",
+     "grounds": "indeclinable used to mark a title",
      "morph": "(indecl.)"
     },
     {
      "surface": "pañcadaśaḥ",
      "gloss": "fifteenth",
-     "grounds": "ordinal number identifying the chapter",
+     "grounds": "ordinal adjective numbering the chapter",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "noun denoting a section of the text",
+     "grounds": "noun naming the textual section",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter concludes the teaching that emerged from the moon island?",
+   "question": "What is the title and position of the chapter emerging from the Moon Island teaching?",
    "premises": [
-    "The teaching emerged from the moon island.",
-    "The chapter is named supreme adamantine-making.",
-    "It is identified as the fifteenth chapter."
+    "The teaching emerges from the Moon Island context",
+    "The chapter is named supreme adamantine-making",
+    "It is identified as the fifteenth chapter"
    ],
-   "inference": "The fifteenth chapter, named supreme adamantine-making, concludes the teaching emerged from the moon island.",
+   "inference": "The fifteenth chapter, emerging from the Moon Island teaching, is named supreme adamantine-making",
    "uncertainties": [],
-   "plain_english": "In the teaching that emerged from the Moon Island, this is the fifteenth chapter, named 'The Supreme Making Adamantine'."
+   "plain_english": "In the teaching that emerged from the Moon Island, this is the fifteenth chapter, named the Supreme Making of the Adamantine."
   },
   {
    "verse": 467,
@@ -742,39 +747,39 @@
     {
      "surface": "krīḍate",
      "gloss": "sports",
-     "grounds": "describes playful divine activity",
-     "morph": "3.sg.present-middle (√krīḍ)"
+     "grounds": "verb describing divine playful activity",
+     "morph": "3.sg.mid-present, root krīḍ"
     },
     {
      "surface": "mātṛmadhyasthaṃ",
      "gloss": "standing-amid-mothers",
-     "grounds": "compound describing location among the Mothers",
+     "grounds": "compound describing the locus of activity",
      "morph": "n.acc.sg"
     },
     {
      "surface": "svaśaktiṃ",
      "gloss": "own-power",
-     "grounds": "refers to one's own power or energy",
+     "grounds": "compound noun indicating intrinsic power",
      "morph": "f.acc.sg"
     },
     {
      "surface": "balagarvaitam",
      "gloss": "filled-with-strength-pride",
-     "grounds": "compound describing being endowed with strength and pride",
-     "morph": "compound"
+     "grounds": "compound adjective describing the empowered state",
+     "morph": "m.acc.sg"
     }
    ],
-   "question": "How does the divine power sport when situated among the Mothers?",
+   "question": "How does the divine power sport amid the Mothers in a state of strength and pride?",
    "premises": [
-    "There is sporting activity amid the Mothers.",
-    "The subject is one's own power.",
-    "That power is filled with strength and pride."
+    "Divine play occurs amid the Mothers",
+    "The activity involves one's own power",
+    "That power is filled with strength and pride"
    ],
-   "inference": "The own power, filled with strength and pride, sports while standing amid the Mothers.",
+   "inference": "The divine power sports amid the Mothers, filled with strength and pride",
    "uncertainties": [
-    "The exact grammatical subject of krīḍate is not explicit."
+    "The exact syntactic agreement of balagarvaitam is somewhat compressed"
    ],
-   "plain_english": "One's own power, filled with strength and pride, sports while standing amid the Mothers."
+   "plain_english": "He sports amid the Mothers, with his own power filled with strength and pride."
   },
   {
    "verse": 468,
@@ -788,7 +793,7 @@
     {
      "surface": "jñātaṃ",
      "gloss": "known",
-     "grounds": "past passive participle indicating knowledge",
+     "grounds": "past participle indicating lack of knowledge",
      "morph": "n.nom.sg"
     },
     {
@@ -800,13 +805,13 @@
     {
      "surface": "kiṃ",
      "gloss": "how-much-less",
-     "grounds": "interrogative particle implying a fortiori argument",
+     "grounds": "interrogative particle used for a fortiori emphasis",
      "morph": "(indecl.)"
     },
     {
      "surface": "punar",
      "gloss": "again",
-     "grounds": "particle reinforcing the argument",
+     "grounds": "adverb reinforcing the contrast",
      "morph": "(indecl.)"
     },
     {
@@ -818,17 +823,17 @@
     {
      "surface": "sambhavaiḥ",
      "gloss": "by-those-born",
-     "grounds": "instrumental referring to beings born on earth",
+     "grounds": "instrumental participial noun referring to earth-born beings",
      "morph": "m.ins.pl"
     }
    ],
-   "question": "Who is incapable of knowing this secret that eludes even gods and gandharvas?",
+   "question": "Who is incapable of knowing this secret reality, from celestial beings down to earth-born beings?",
    "premises": [
-    "It is not known by gods and gandharvas.",
-    "Earth-born beings are even less capable.",
-    "The argument proceeds from higher to lower beings."
+    "Gods and gandharvas do not know it",
+    "Earth-born beings are even less capable",
+    "The contrast emphasizes profound secrecy"
    ],
-   "inference": "If gods and gandharvas do not know it, earth-born beings certainly do not.",
+   "inference": "This reality is unknown even to gods and gandharvas, much less to those born on earth",
    "uncertainties": [],
    "plain_english": "It is not known by gods and gandharvas; how much less by those born on earth."
   },
@@ -838,8 +843,8 @@
     {
      "surface": "atidhyānavidaṃ",
      "gloss": "knower-of-supreme-meditation",
-     "grounds": "compound describing knowledge of supreme meditation",
-     "morph": "m.acc.sg"
+     "grounds": "compound noun describing the knowledge sought",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "deva",
@@ -850,14 +855,14 @@
     {
      "surface": "kathyatāntu",
      "gloss": "but-let-it-be-told",
-     "grounds": "imperative passive request; final -tu shows sandhi with tu",
-     "morph": "3.sg.imperative-passive (√kath)"
+     "grounds": "imperative passive with emphatic particle tu fused in sandhi",
+     "morph": "3.sg.pass-imperative, root kath with tu"
     },
     {
      "surface": "mama",
      "gloss": "to-me",
-     "grounds": "dative/genitive indicating the recipient",
-     "morph": "1.sg.dat"
+     "grounds": "genitive or dative sense indicating the recipient",
+     "morph": "1.sg.gen"
     },
     {
      "surface": "prabho",
@@ -868,13 +873,13 @@
    ],
    "question": "What request is made to the lord regarding knowledge of supreme meditation?",
    "premises": [
-    "The subject is knowledge of supreme meditation.",
-    "The lord is addressed and requested to speak.",
-    "The request is made for the speaker's benefit."
+    "The goddess addresses the lord",
+    "She asks for knowledge of supreme meditation",
+    "The request is framed as a plea to be told"
    ],
-   "inference": "The speaker asks the lord to explain the knowledge of supreme meditation.",
+   "inference": "The goddess requests the lord to explain the knowledge of supreme meditation",
    "uncertainties": [],
-   "plain_english": "O god, O lord, let the knowledge of supreme meditation be told to me."
+   "plain_english": "O god, O lord, please tell me the knowledge of supreme meditation."
   },
   {
    "verse": 470,
@@ -882,13 +887,13 @@
     {
      "surface": "kathyamānaṃ",
      "gloss": "being-told",
-     "grounds": "present passive participle referring to what is being explained",
+     "grounds": "present passive participle referring to the teaching",
      "morph": "n.nom.sg"
     },
     {
      "surface": "viśālākṣi",
      "gloss": "o-wide-eyed-one",
-     "grounds": "vocative address",
+     "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     },
     {
@@ -900,25 +905,25 @@
     {
      "surface": "bhayaṃ",
      "gloss": "fear",
-     "grounds": "object of the question",
+     "grounds": "noun indicating apprehension",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tejabhāmini",
      "gloss": "o-radiant-one",
-     "grounds": "vocative address",
+     "grounds": "vocative address praising radiance",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Why should there be any fear when this teaching is being explained?",
+   "question": "Why should there be any fear when this teaching is being revealed to the radiant goddess?",
    "premises": [
-    "The teaching is being told.",
-    "The listener is addressed reassuringly.",
-    "The presence of fear is questioned."
+    "The teaching is being told",
+    "The goddess is addressed as radiant and wide-eyed",
+    "Fear is questioned rhetorically"
    ],
-   "inference": "There is no reason for fear while the teaching is being explained.",
+   "inference": "There is no reason for fear when the teaching is being revealed",
    "uncertainties": [],
-   "plain_english": "O wide-eyed one, O radiant one, what fear is there when this is being told?"
+   "plain_english": "O wide-eyed, radiant one, what fear is there when this is being told?"
   },
   {
    "verse": 471,
@@ -926,13 +931,13 @@
     {
      "surface": "sannidhāno",
      "gloss": "present",
-     "grounds": "describes the speaker's presence; sandhi form",
+     "grounds": "adjective indicating nearness or presence",
      "morph": "m.nom.sg"
     },
     {
      "surface": "hy",
      "gloss": "indeed",
-     "grounds": "emphatic particle; sandhi form of hi",
+     "grounds": "particle written as hy in sandhi for hi",
      "morph": "(indecl.)"
     },
     {
@@ -950,19 +955,21 @@
     {
      "surface": "triṣkālasiddhimelakam",
      "gloss": "union-of-three-time-siddhi",
-     "grounds": "compound denoting the union granting accomplishment across three times",
-     "morph": "m.acc.sg"
+     "grounds": "compound describing the state of accomplishment across three times",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "What assurance guarantees accomplishment across the three times for the listener?",
+   "question": "What assurance of presence and accomplishment is given to the fortunate goddess?",
    "premises": [
-    "The speaker declares his presence.",
-    "The presence is affirmed emphatically.",
-    "The union of three-time accomplishment is invoked."
+    "The speaker declares his presence",
+    "The presence is emphatic",
+    "It is linked to the union of siddhi across the three times"
    ],
-   "inference": "The speaker's presence assures the union of accomplishment across past, present, and future.",
-   "uncertainties": [],
-   "plain_english": "Indeed, O fortunate one, I am present as the union that brings accomplishment across the three times."
+   "inference": "The speaker is present as the union of accomplishment in past, present, and future",
+   "uncertainties": [
+    "The compound triṣkālasiddhimelakam may qualify the speaker or the state of presence"
+   ],
+   "plain_english": "Indeed, O fortunate one, I am present as the union of accomplishment in the three times."
   },
   {
    "verse": 472,
@@ -970,25 +977,25 @@
     {
      "surface": "darśanaṃ",
      "gloss": "vision",
-     "grounds": "refers to direct sight or realization",
+     "grounds": "noun indicating direct seeing or realization",
      "morph": "n.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhavate",
      "gloss": "occurs",
-     "grounds": "describes the arising of vision",
-     "morph": "3.sg.present-middle (√bhū)"
+     "grounds": "verb indicating arising or coming to be",
+     "morph": "3.sg.mid-present, root bhū"
     },
     {
      "surface": "tasmin",
      "gloss": "in-that",
-     "grounds": "locative referring to that state or context",
+     "grounds": "locative demonstrative referring to that state",
      "morph": "n.loc.sg"
     },
     {
@@ -1000,69 +1007,71 @@
     {
      "surface": "sārddhaṃ",
      "gloss": "together",
-     "grounds": "adverb indicating togetherness",
+     "grounds": "adverb expressing union",
      "morph": "(indecl.)"
     },
     {
      "surface": "kuleśvari",
      "gloss": "o-lady-of-kula",
-     "grounds": "vocative address",
+     "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What direct realization arises for the practitioner in that state of union?",
+   "question": "What direct realization arises in that state for the lady of the Kula?",
    "premises": [
-    "Vision arises in that state.",
-    "The vision occurs together with the speaker.",
-    "The lady of the Kula is addressed."
+    "A vision occurs in that state",
+    "The vision is together with the speaker",
+    "The goddess is addressed as lady of the Kula"
    ],
-   "inference": "In that state, direct vision together with the speaker arises.",
+   "inference": "In that state, direct vision together with the speaker arises for the goddess",
    "uncertainties": [],
-   "plain_english": "And in that state, O lady of the Kula, vision occurs together with me."
+   "plain_english": "And in that state, O lady of the Kula, vision arises together with me."
   },
   {
    "verse": 473,
    "rows": [
     {
      "surface": "sādhvikaṃ",
-     "gloss": "pure",
-     "grounds": "describes a sattvic or pure quality",
+     "gloss": "sattvic",
+     "grounds": "adjective describing the quality of the practice or seat",
      "morph": "n.nom.sg"
     },
     {
      "surface": "yogasaṃyukto",
      "gloss": "united-with-yoga",
-     "grounds": "describes one joined with yogic practice; sandhi form",
+     "grounds": "compound adjective describing the practitioner or state",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kāmākhyaṃ",
      "gloss": "called-kamakhya",
-     "grounds": "names the sacred seat as Kāmākhyā",
+     "grounds": "adjective naming the sacred seat",
      "morph": "n.acc.sg"
     },
     {
      "surface": "pīṭham",
      "gloss": "seat",
-     "grounds": "refers to a sacred seat or center",
+     "grounds": "noun referring to the sacred center",
      "morph": "n.acc.sg"
     },
     {
      "surface": "āsmṛtam",
      "gloss": "remembered",
-     "grounds": "past passive participle indicating recollection or designation",
+     "grounds": "past participle indicating recollection or contemplation",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What sacred seat is remembered by one who is pure and united with yoga?",
+   "question": "What sacred seat is to be remembered by one united with sattvic yoga?",
    "premises": [
-    "The practitioner is pure and united with yoga.",
-    "A sacred seat is remembered.",
-    "That seat is identified as Kāmākhyā."
+    "The practitioner is united with yoga",
+    "The quality is sattvic",
+    "The Kāmākhyā seat is remembered"
    ],
-   "inference": "One who is pure and united with yoga remembers the sacred seat called Kāmākhyā.",
-   "uncertainties": [],
-   "plain_english": "One who is pure and united with yoga remembers the sacred seat called Kāmākhyā."
+   "inference": "One united with sattvic yoga should remember the Kāmākhyā seat",
+   "uncertainties": [
+    "The form āsmṛtam is unusual and may reflect a textual variant of āsmaret or smṛtam"
+   ],
+   "plain_english": "United with sattvic yoga, one should remember the seat called Kāmākhyā."
   },
   {
    "verse": 474,
@@ -1070,37 +1079,37 @@
     {
      "surface": "manasā",
      "gloss": "by-mind",
-     "grounds": "instrumental indicating mental contemplation",
+     "grounds": "instrumental indicating the faculty of contemplation",
      "morph": "n.ins.sg"
     },
     {
      "surface": "cintitaṃ",
      "gloss": "contemplated",
-     "grounds": "past passive participle indicating mental formation",
+     "grounds": "past participle describing the mental act",
      "morph": "n.nom.sg"
     },
     {
      "surface": "rūpaṃ",
      "gloss": "form",
-     "grounds": "the object contemplated in the mind",
+     "grounds": "noun indicating the visualized object",
      "morph": "n.nom.sg"
     },
     {
      "surface": "aṇimādiguṇāṣṭakam",
      "gloss": "eightfold-qualities-beginning-with-anima",
-     "grounds": "compound referring to the eight siddhi qualities starting with aṇimā",
+     "grounds": "compound naming the set of eight siddhi qualities",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What form endowed with eightfold powers is contemplated by the mind?",
+   "question": "What form endowed with the eight siddhi qualities is to be contemplated by the mind?",
    "premises": [
-    "A form is contemplated by the mind.",
-    "The contemplation is mental.",
-    "The form possesses the eight qualities beginning with aṇimā."
+    "Contemplation is performed by the mind",
+    "A form is contemplated",
+    "That form is associated with the eight qualities beginning with aṇimā"
    ],
-   "inference": "The mind contemplates a form endowed with the eightfold qualities beginning with aṇimā.",
+   "inference": "The mind should contemplate a form possessing the eightfold qualities beginning with aṇimā",
    "uncertainties": [],
-   "plain_english": "By the mind is contemplated a form endowed with the eight qualities beginning with aṇimā."
+   "plain_english": "By the mind one should contemplate the form endowed with the eight qualities beginning with aṇimā."
   }
  ]
 }

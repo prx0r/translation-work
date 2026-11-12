@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[others](anye) [speak](vadaṃti) [in-mind](manasi) [supreme-wind](paremāruta) [they-said](ūcire)
+[others](anye) [say](vadaṃti) [in-mind](manasi) [supreme+vital-air](paremāruta) [they-said](ūcire)
 
 ## mukta-m0-p28-v677
-[other-opinions](matānyetānyacāruṇi) [in-inquiry](vicāre) [being-set-in-motion](saṃpravarttite)
+[views](matāni) [these](etāni) [unpleasant](acāruṇi) [in-investigation](vicāre) [having-commenced](saṃpravarttite)
 
 ## mukta-m0-p28-v678
-[of-mind](manaso) [and-wind](marutaścaiva) [in-collision](saṃghaṭṭe) [by-vigor-dependence](vīryasaṃśrayā)
+[of-mind](manaso) [of-vital-air](marutaḥ) [and](ca) [indeed](eva) [in-collision](saṃghaṭṭe) [resting-on-vigor](vīryasaṃśrayā)
 
 ## mukta-m0-p28-v679
-[of-those-two](tayostu) [for-union-purpose](ghaṭanārthaṃ) [ca](ca) [yoga-tantra](yogataṃtraṃ) [by-me-made](mayākṛtam)
+[of-those-two](tayoḥ) [but](tu) [for-the-purpose-of-union](ghaṭanārthaṃ) [and](ca) [yoga+treatise](yogataṃtraṃ) [by-me+made](mayākṛtam)
 
 ## mukta-m0-p28-v680
-[by-passion](rajasā) [to-unite](vāyojayituṃ) [mind-wind-union](dhīmarudghaṭanaṃ) [lord](prabhu)
+[with-passion](rajasā) [to-unite](vāyojayituṃ) [intellect+vital-air+union](dhīmarudghaṭanaṃ) [O-lord](prabhu)
 
 ## mukta-m0-p28-v681
-[of-those-end](taṣāmaṃto) [not](na) [and-of-this-thus](cāsyevataiḥ) [fruit](phalaṃ) [not](na) [indeed](hi) [possible](saṃbhavet)
+[of-them](taṣām) [end](aṃto) [not](na) [and](ca) [thus](asya) [indeed](eva) [by-these](taiḥ) [fruit](phalaṃ) [not](na) [indeed](hi) [would-arise](saṃbhavet)
 
 ## mukta-m0-p28-v682
-[fierce-power](ugraśakti) [honey-sweetness](madhusvādairuttarottaramuttaraiḥ)
+[fierce+power](ugraśakti) [with-honey+tastes](madhusvādaiḥ) [higher-and-higher](uttarottaram) [with-higher](uttaraiḥ)
 
 ## mukta-m0-p28-v683
-[by-gauli-contact-strength](gaulī+saṃparkabalinā) [mind-wind-union-self](dhīmarudghaṭanātmanā)
+[by-Gaulī](gaulī) [by-contact+strengthened](saṃparkabalinā) [by-intellect+vital-air+union+nature](dhīmarudghaṭanātmanā)
 
 ## mukta-m0-p28-v684
-[being-present](vidyamāne) [tu](tu) [in-heart](hṛdaye) [in-abode](nilaye) [in-union](ghaṭane) [again](punaḥ)
+[being-present](vidyamāne) [but](tu) [in-heart](hṛdaye) [in-abode](nilaye) [in-union](ghaṭane) [again](punaḥ)
 
 ## mukta-m0-p28-v685
-[slightly](īṣaddhivāyughaṭanā) [with-sound-only](sasonaiva) [causer](prayojakaḥ)
+[slight](īṣat) [also](adhi) [vital-air+union](vāyughaṭanā) [with-that](sa) [indeed](sona) [not](eva) [effective](prayojakaḥ)
 
 ## mukta-m0-p28-v686
-[therefore](ataścittasya) [of-mind](maruto) [yoga](yogaḥ) [first](prathamamucyate)
+[therefore](ataḥ) [of-mind](cittasya) [of-vital-air](maruto) [union](yogaḥ) [first](prathamam) [is-declared](ucyate)
 
 ## mukta-m0-p28-v687
-[lotus-feet](pādāṃjaliṃ) [or](vā) [of-element](dhātuḥ) [sa](sa) [in-yoga](yoge) [that-difficult](taddurllabho) [becomes](bhavet)
+[of-Patañjali](pādāṃjaliṃ) [or](vā) [of-the-system](dhātuḥ) [that](sa) [in-yoga](yoge) [therefore](tat) [difficult-to-obtain](durllabho) [would-be](bhavet)
 
 ## mukta-m0-p28-v688
-[by-sounds](nādaiścagorakṣamukhaistaṃtrametadvitānatam)
+[by-the-Nāthas](nādaiḥ) [and](ca) [by-Gorakṣa+and-others](gorakṣamukhaiḥ) [treatise](taṃtram) [this](etat) [spread-out](vitānatam)
 
 ## mukta-m0-p28-v689
-[by-yoga](yogena) [stilled-vigor](stabdhavīryāśca) [always](sadābhogānupāsate)
+[by-yoga](yogena) [with-stabilized+vigor](stabdhavīryāḥ) [and](ca) [always](sadā) [enjoyments](bhogān) [they-practice](upāsate)
 
 ## mukta-m0-p28-v690
-[matsyendra-naga-goraksha](matsyeṃdranāgorakṣaścaturaṃgī) [ca](ca) [kandalī](kaṃdalī)
+[Matsyendra](matsyeṃdra) [Nātha+Gorakṣa](nāgorakṣaḥ) [Caturaṅgī](caturaṃgī) [and](ca) [Kandalī](kaṃdalī)
 
 ## mukta-m0-p28-v691
-[capeṭika](capeṭiko) [cūḍabāla](cūḍabālastathā) [gopāla](gobāla) [eva](eva) [ca](ca)
+[Capeṭika](capeṭiko) [Cūḍabāla](cūḍabālaḥ) [likewise](tathā) [Gobāla](gobāla) [indeed](eva) [and](ca)
 
 ## mukta-m0-p28-v692
-[vyāla-heraṇḍa](vyāloheraṇḍa) [named](nāmā) [ca](ca) [śūrpapāyī](śūrpapāyī) [then](tathā) [other](paraḥ)
+[Vyāla](vyāla) [Heraṇḍa](heraṇḍa) [named](nāmā) [and](ca) [Śūrpapāyī](śūrpapāyī) [likewise](tathā) [another](paraḥ)
 
 ## mukta-m0-p28-v693
-[these-wise-winds](etedhīrmaruto) [union](ghaṭṭaṃ) [time-drawing-capable](kālasaṃkarṣaṇakṣamam)
+[these](ete) [intellect+vital-air](dhīrmaruto) [union](ghaṭṭaṃ) [time+destruction+capable](kālasaṃkarṣaṇakṣamam)
 
 ## mukta-m0-p28-v694
-[breaking](khaṇḍayitvā) [time-staff](kāladaṇḍaṃ) [in-brahma-eggs](brahmāṃḍeṣu) [they-wander](caraṃti) [te](te)
+[having-shattered](khaṇḍayitvā) [time+staff](kāladaṇḍaṃ) [in-universes](brahmāṃḍeṣu) [wander](caraṃti) [they](te)
 
 ## mukta-m0-p28-v695
-[that-essence](tatsārabhūtaṃ) [that-vigor-protection-purpose](tadvīryarakṣārthaṃ) [opinion-said](matamucyate)
+[that+essence+consisting](tatsārabhūtaṃ) [that+vigor+protection+purpose](tadvīryarakṣārthaṃ) [view](matam) [is-declared](ucyate)
 
 ## mukta-m0-p28-v696
-[that-same](tameva) [yoga](yogaṃ) [supreme](paramaṃ) [yogins](yoginaḥ) [regard](samacakṣate)
+[that](tam) [indeed](eva) [yoga](yogaṃ) [supreme](paramaṃ) [yogins](yoginaḥ) [regard](samacakṣate)
 
 ## mukta-m0-p28-v697
-[both](ubhau)+[world-creation-makers](jagatsṛṣṭikarau) [which](yan)+[mind-wind-lords](manomāruteśvarau)
+[both](ubhau) [world+creation+making](jagatsṛṣṭikarau) [which](yat) [mind+vital-air+lords](manomāruteśvarau)
 
 ## mukta-m0-p28-v698
-[great-consciousness](mahāsaṃvit) [manifest-self](prakāśātma) [own-form](svarūpavasunigrahau)
+[great+consciousness](mahāsaṃvit) [light+nature](prakāśātma) [own-form+essence+restraint](svarūpavasunigrahau)
 
 ## mukta-m0-p28-v699
-[both](ubhau) [destroy](nāśayato) [body](deha) [gradually](krameṇa) [being-practiced](pariśīlitau)
+[both](ubhau) [destroy](nāśayato) [body](deha) [gradually](krameṇa) [practiced](pariśīlitau)
 
 ## mukta-m0-p28-v700
-[death-become](mṛtyubhūtā) [vimāva-indeed](vimāveva) [life-become](prāṇabhūtā) [vimau](vimau) [again](punaḥ)
+[death+become](mṛtyubhūtā) [these-two](vimau) [indeed](eva) [life+become](prāṇabhūtā) [these-two](vimau) [again](punaḥ)

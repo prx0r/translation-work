@@ -1,13 +1,15 @@
 {
  "song": "kjn-p19",
  "verse": 473,
- "question": "What sacred seat is remembered by one who is pure and united with yoga?",
+ "question": "What sacred seat is to be remembered by one united with sattvic yoga?",
  "premises": [
-  "The practitioner is pure and united with yoga.",
-  "A sacred seat is remembered.",
-  "That seat is identified as Kāmākhyā."
+  "The practitioner is united with yoga",
+  "The quality is sattvic",
+  "The Kāmākhyā seat is remembered"
  ],
- "inference": "One who is pure and united with yoga remembers the sacred seat called Kāmākhyā.",
- "uncertainties": [],
- "plain_english": "One who is pure and united with yoga remembers the sacred seat called Kāmākhyā."
+ "inference": "One united with sattvic yoga should remember the Kāmākhyā seat",
+ "uncertainties": [
+  "The form āsmṛtam is unusual and may reflect a textual variant of āsmaret or smṛtam"
+ ],
+ "plain_english": "United with sattvic yoga, one should remember the seat called Kāmākhyā."
 }
