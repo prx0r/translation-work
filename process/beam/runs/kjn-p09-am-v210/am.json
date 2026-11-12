@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 210,
- "question": "How should the teaching just declared be firmly understood by the listener?",
+ "question": "What claim is made about the epistemic status of the ascertainment declared here, given the stated means of its declaration?",
  "premises": [
-  "The teaching is declared without doubt",
-  "The speaker affirms it",
-  "Ascertainment requires devotion and reasoning"
+  "An ascertainment is declared.",
+  "It is declared by the speaker without doubt.",
+  "It is declared with devotion and reasoning."
  ],
- "inference": "The teaching must be ascertained with both devotion and reasoning.",
- "uncertainties": [],
- "plain_english": "Indeed, this has been declared by me without doubt; ascertain it with devotion and reasoning."
+ "inference": "The ascertainment is presented as doubt-free by virtue of being declared with devotion and reasoning.",
+ "uncertainties": [
+  "The scope of what is ascertained is not specified within this verse."
+ ],
+ "plain_english": "Without doubt, this ascertainment has been declared by me indeed, with devotion and reasoning."
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 214,
- "question": "What additional categories of yoginīs are included in this comprehensive arrangement?",
+ "question": "What claim is made about the totality of figures classified by origin and function in this list?",
  "premises": [
-  "All innate yoginīs are included",
-  "All family-born yoginīs are included",
-  "All door-guardian yoginīs are included"
+  "All innate figures are posited.",
+  "All family-born figures are posited.",
+  "All door-guardians are posited."
  ],
- "inference": "The arrangement includes innate, family-born, and door-guardian yoginīs.",
- "uncertainties": [],
- "plain_english": "All the innate ones, all those born in the families, and all the door-guardians are included."
+ "inference": "A total set of figures is classified under three categories of origin and function.",
+ "uncertainties": [
+  "The relation between these three categories is not specified here."
+ ],
+ "plain_english": "All innate, all family-born, all door-guardians."
 }

@@ -1,13 +1,15 @@
 {
  "song": "net-p17",
  "verse": 410,
- "question": "What essential attribute of self-luminosity is further affirmed here?",
+ "question": "What essential attribute of self-luminosity is further affirmed?",
  "premises": [
-  "An essential nature is being described",
+  "A nature is being described",
   "That nature is self-luminous",
-  "This attribute is added to prior descriptions"
+  "This attribute is added to prior description"
  ],
- "inference": "The subject is also of a self-luminous nature.",
- "uncertainties": [],
- "plain_english": "And of self-luminous nature."
+ "inference": "The subject is also self-luminous in nature.",
+ "uncertainties": [
+  "The subject is not explicitly named in this unit."
+ ],
+ "plain_english": "And self-luminous in nature."
 }

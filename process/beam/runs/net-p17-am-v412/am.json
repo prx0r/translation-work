@@ -1,13 +1,15 @@
 {
  "song": "net-p17",
  "verse": 412,
- "question": "What response is required once the preceding condition has arisen?",
+ "question": "What obligation follows when the prior condition regarding the paths is not met?",
  "premises": [
-  "A prior condition has been reached",
+  "A prior condition has been stated",
   "A command is present",
-  "Observance of that command is prescribed"
+  "Obedience to that command is enjoined"
  ],
- "inference": "Then one should obey the command.",
- "uncertainties": [],
+ "inference": "In that case, one should obey the command.",
+ "uncertainties": [
+  "The source or content of the command is not specified in this unit."
+ ],
  "plain_english": "Then one should obey the command."
 }

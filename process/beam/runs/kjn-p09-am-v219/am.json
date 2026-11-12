@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 219,
- "question": "What does the speaker promise to explain next to the beautiful-eyed listener?",
+ "question": "What claim is made about the speaker's intention to disclose the method of names to the beautiful-eyed recipient?",
  "premises": [
-  "The speaker will speak of their name-method",
-  "The listener is commanded to hear",
-  "The addressee is honored"
+  "A method of names belongs to them.",
+  "The speaker intends to speak that method.",
+  "The recipient is enjoined to hear it."
  ],
- "inference": "The speaker will explain the method of their names.",
- "uncertainties": [],
- "plain_english": "O beautiful-eyed one, hear; I shall speak the method of their names."
+ "inference": "The speaker undertakes to disclose the method of names for those figures, enjoining the beautiful-eyed recipient to attend to it.",
+ "uncertainties": [
+  "The list of names is not given in this verse."
+ ],
+ "plain_english": "I shall speak the method of names for them; hear it, you, O beautiful-eyed one."
 }

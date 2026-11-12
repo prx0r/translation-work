@@ -12,7 +12,7 @@
 },
 {
 "surface": "asmi",
-"quick_gloss": "am-I"
+"quick_gloss": "am-i"
 },
 {
 "surface": "na",
@@ -61,15 +61,15 @@
 },
 {
 "surface": "hi",
-"quick_gloss": "hi"
-},
-{
-"surface": "iti",
 "quick_gloss": "indeed"
 },
 {
-"surface": "avadhāraṇe",
+"surface": "iti",
 "quick_gloss": "in-determination"
+},
+{
+"surface": "avadhāraṇe",
+"quick_gloss": "in-ascertainment"
 }
 ]
 },
@@ -98,7 +98,7 @@
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "connection"
+"quick_gloss": "construal"
 }
 ]
 },
@@ -124,7 +124,7 @@
 "tokens": [
 {
 "surface": "man+mārga",
-"quick_gloss": "my+path"
+"quick_gloss": "my-path"
 },
 {
 "surface": "vimukhāḥ",
@@ -140,7 +140,7 @@
 },
 {
 "surface": "brahma+ghātinaḥ",
-"quick_gloss": "brahmin+killers"
+"quick_gloss": "brahman-slayers"
 }
 ]
 },
@@ -165,7 +165,7 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "O-goddess"
+"quick_gloss": "o-goddess"
 },
 {
 "surface": "kartā",
@@ -194,15 +194,15 @@
 "tokens": [
 {
 "surface": "brahma+hā",
-"quick_gloss": "brahmin+killer"
+"quick_gloss": "brahman-slayer"
 },
 {
 "surface": "pitṛ+hā",
-"quick_gloss": "father+killer"
+"quick_gloss": "father-slayer"
 },
 {
 "surface": "strī+ghnaḥ",
-"quick_gloss": "woman+killer"
+"quick_gloss": "woman-slayer"
 },
 {
 "surface": "saḥ",
@@ -246,8 +246,16 @@
 "quick_gloss": "in-all"
 },
 {
-"surface": "japa+yajña+kriyā",
-"quick_gloss": "recitation+sacrifice+rite"
+"surface": "japa",
+"quick_gloss": "in-recitation"
+},
+{
+"surface": "yajña",
+"quick_gloss": "in-sacrifice"
+},
+{
+"surface": "kriyā",
+"quick_gloss": "in-rites"
 },
 {
 "surface": "ādiṣu",
@@ -264,7 +272,7 @@
 "tokens": [
 {
 "surface": "satya+ādau",
-"quick_gloss": "in-Satya-age"
+"quick_gloss": "in-truth-age"
 },
 {
 "surface": "saphalāḥ",
@@ -276,7 +284,7 @@
 },
 {
 "surface": "kalau",
-"quick_gloss": "in-Kali-age"
+"quick_gloss": "in-kali-age"
 },
 {
 "surface": "te",
@@ -288,7 +296,7 @@
 },
 {
 "surface": "iva",
-"quick_gloss": "like"
+"quick_gloss": "as-if"
 }
 ]
 },
@@ -301,11 +309,11 @@
 "tokens": [
 {
 "surface": "brahma+ghātinaḥ",
-"quick_gloss": "brahmin+killers"
+"quick_gloss": "brahman-slayers"
 },
 {
 "surface": "bhaveyuḥ",
-"quick_gloss": "would-become"
+"quick_gloss": "they-would-become"
 },
 {
 "surface": "iti",
@@ -313,7 +321,7 @@
 },
 {
 "surface": "śeṣaḥ",
-"quick_gloss": "remainder"
+"quick_gloss": "ellipsis"
 }
 ]
 },
@@ -325,8 +333,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+tat+phala+pradātṛtvāt",
-"quick_gloss": "of-that+that+fruit+giving"
+"surface": "tat+tat",
+"quick_gloss": "of-those"
+},
+{
+"surface": "phala",
+"quick_gloss": "fruit"
+},
+{
+"surface": "pradātṛtvāt",
+"quick_gloss": "bestowing-ness"
 },
 {
 "surface": "ca",
@@ -334,7 +350,7 @@
 },
 {
 "surface": "ati+prāśastyam",
-"quick_gloss": "very+excellence"
+"quick_gloss": "very-great-excellence"
 },
 {
 "surface": "āha",
@@ -342,10 +358,10 @@
 },
 {
 "surface": "kalau",
-"quick_gloss": "in-Kali-age"
+"quick_gloss": "in-kali-age"
 },
 {
-"surface": "iti+ādibhiḥ",
+"surface": "ity+ādibhiḥ",
 "quick_gloss": "and-so-forth"
 }
 ]
@@ -358,11 +374,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+tat+phalāni",
-"quick_gloss": "of-that+that+fruits"
+"surface": "tat+tat",
+"quick_gloss": "of-those"
 },
 {
-"surface": "iṣpādakāḥ",
+"surface": "phalāni",
+"quick_gloss": "fruits"
+},
+{
+"surface": "aniṣpādakāḥ",
 "quick_gloss": "non-producers"
 },
 {
@@ -379,7 +399,7 @@
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "connection"
+"quick_gloss": "construal"
 }
 ]
 },
@@ -404,11 +424,15 @@
 },
 {
 "surface": "anye",
-"quick_gloss": "others"
+"quick_gloss": "other"
 },
 {
-"surface": "mantra+rāśayaḥ",
-"quick_gloss": "mantra+heaps"
+"surface": "mantra",
+"quick_gloss": "mantra"
+},
+{
+"surface": "rāśayaḥ",
+"quick_gloss": "multitudes"
 }
 ]
 },
@@ -428,8 +452,12 @@
 "quick_gloss": "there"
 },
 {
-"surface": "phala+siddhiḥ",
-"quick_gloss": "fruit+attainment"
+"surface": "phala",
+"quick_gloss": "fruit"
+},
+{
+"surface": "siddhiḥ",
+"quick_gloss": "accomplishment"
 },
 {
 "surface": "syāt",
@@ -466,7 +494,7 @@
 },
 {
 "surface": "jāhnavī+tīre",
-"quick_gloss": "on-Ganges+bank"
+"quick_gloss": "on-ganges-bank"
 },
 {
 "surface": "kūpaṃ",
@@ -495,15 +523,19 @@
 },
 {
 "surface": "sva+gṛhe",
-"quick_gloss": "in-own+house"
+"quick_gloss": "in-own-house"
 },
 {
 "surface": "tyaktvā",
 "quick_gloss": "having-abandoned"
 },
 {
-"surface": "kṣīram+ārkaṃ",
-"quick_gloss": "milk+of-arka"
+"surface": "kṣīram",
+"quick_gloss": "milk"
+},
+{
+"surface": "ārkaṃ",
+"quick_gloss": "of-arka-tree"
 },
 {
 "surface": "saḥ",
@@ -527,8 +559,12 @@
 "quick_gloss": "as"
 },
 {
-"surface": "tantra+uditaḥ",
-"quick_gloss": "by-tantra+declared"
+"surface": "tantra",
+"quick_gloss": "by-tantra"
+},
+{
+"surface": "uditaḥ",
+"quick_gloss": "taught"
 },
 {
 "surface": "mārgaḥ",
@@ -561,7 +597,7 @@
 "tokens": [
 {
 "surface": "siddhānāṃ",
-"quick_gloss": "of-accomplished"
+"quick_gloss": "of-the-accomplished"
 },
 {
 "surface": "sādhakānām",
@@ -615,11 +651,15 @@
 },
 {
 "surface": "ārkam",
-"quick_gloss": "of-arka"
+"quick_gloss": "of-arka-tree"
 },
 {
-"surface": "arka+vṛkṣa+udbhavam",
-"quick_gloss": "from-arka+tree+arisen"
+"surface": "arka+vṛkṣa",
+"quick_gloss": "arka-tree"
+},
+{
+"surface": "udbhavam",
+"quick_gloss": "born"
 }
 ]
 },
@@ -664,20 +704,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kula+ācāra+uditaṃ",
-"quick_gloss": "by-Kula+practice+declared"
+"surface": "kula+ācāra",
+"quick_gloss": "by-kula-practice"
+},
+{
+"surface": "uditam",
+"quick_gloss": "taught"
 },
 {
 "surface": "dharmaṃ",
 "quick_gloss": "dharma"
 },
 {
-"surface": "gupti+arthaṃ",
-"quick_gloss": "for-secrecy+purpose"
+"surface": "gupty+artham",
+"quick_gloss": "for-secrecy"
 },
 {
 "surface": "kathitaṃ",
-"quick_gloss": "told"
+"quick_gloss": "declared"
 },
 {
 "surface": "kvacit",
@@ -698,7 +742,7 @@
 },
 {
 "surface": "nānā+vidhāḥ",
-"quick_gloss": "of-various+kinds"
+"quick_gloss": "of-various-kinds"
 },
 {
 "surface": "proktāḥ",
@@ -718,7 +762,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "O-beloved"
+"quick_gloss": "o-beloved"
 }
 ]
 },
@@ -731,15 +775,15 @@
 "tokens": [
 {
 "surface": "śāktāḥ",
-"quick_gloss": "Śāktas"
+"quick_gloss": "śāktas"
 },
 {
 "surface": "śaivāḥ",
-"quick_gloss": "Śaivas"
+"quick_gloss": "śaivas"
 },
 {
 "surface": "vaiṣṇavāḥ",
-"quick_gloss": "Vaiṣṇavas"
+"quick_gloss": "vaiṣṇavas"
 },
 {
 "surface": "ca",
@@ -747,11 +791,11 @@
 },
 {
 "surface": "saurāḥ",
-"quick_gloss": "Sauras"
+"quick_gloss": "sauras"
 },
 {
 "surface": "gāṇapatāḥ",
-"quick_gloss": "Gāṇapatas"
+"quick_gloss": "gāṇapatas"
 },
 {
 "surface": "ādayaḥ",
@@ -767,12 +811,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūri+prayāsa+sādhyāni",
-"quick_gloss": "by-much+effort+to-be-accomplished"
+"surface": "bhūri+prayāsa",
+"quick_gloss": "by-much-effort"
 },
 {
-"surface": "yathā+ukta+phala+dāni",
-"quick_gloss": "as-stated+fruit+giving"
+"surface": "sādhyāni",
+"quick_gloss": "to-be-accomplished"
+},
+{
+"surface": "yathā+ukta",
+"quick_gloss": "as-stated"
+},
+{
+"surface": "phala+dāni",
+"quick_gloss": "fruit-giving"
 },
 {
 "surface": "ca",
